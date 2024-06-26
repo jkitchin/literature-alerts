@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Jun 2024 01:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 01:08:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,36 @@
       <author>Manish Shrivastava, Jiwen Fan, Yuwei Zhang, Quazi Z. Rasool, Bin Zhao, Jianjian Shen, Jeffrey R. Pierce, Shantanu H. Jathar, Ali Akherati, Jie Zhang, Rahul A. Zaveri, Brian Gaudet, Ying Liu, Meinrat O. Andreae, Mira L. P&#246;hlker, Neil M. Donahue, Yuan Wang, John H. Seinfeld</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.oneear.2024.05.015</guid>
+    </item>
+    <item>
+      <title>Logic-Based Outer Approximation</title>
+      <link>https://doi.org/10.1007/978-3-030-54621-2_348-1</link>
+      <description>Ignacio E. Grossmann, Springer eBooks. None(None)] 2024. https://openalex.org/W4399940117
+
+                No abstract</description>
+      <author>Ignacio E. Grossmann</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_348-1</guid>
+    </item>
+    <item>
+      <title>MINLP: Logic-Based Methods</title>
+      <link>https://doi.org/10.1007/978-3-030-54621-2_383-1</link>
+      <description>Ignacio E. Grossmann, Springer eBooks. None(None)] 2024. https://openalex.org/W4399940165
+
+                No abstract</description>
+      <author>Ignacio E. Grossmann</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_383-1</guid>
+    </item>
+    <item>
+      <title>Interactions of peroxy radicals from monoterpene and isoprene oxidation simulated in the radical Volatility Basis Set</title>
+      <link>https://doi.org/10.1039/d4ea00056k</link>
+      <description>Meredith Schervish, Martin Heinritzi, Dominik Stolzenburg, Lubna Dada, Mingyi Wang, Qing Ye, Victoria Hofbauer, Jenna DeVivo, Federico Bianchi, Sophia Brilke, Jonathan Duplissy, Imad El Haddad, Henning Finkenzeller, Xu&#8208;Cheng He, A. N. Kvashnin, Changhyuk Kim, J. Kirkby, Markku Kulmala, Katrianne Lehtipalo, Brandon Lopez, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Bernhard Mentler, Ugo Molteni, Wei Nie, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Rainer Volkamer, Andrea C. Wagner, Paul M. Winkler, Chao Yan, Neil M. Donahue, Environmental science. Atmospheres. None(None)] 2024. https://openalex.org/W4399971674
+
+                Isoprene affects new particle formation rates in environments and experiments also containing monoterpenes. For the most part, isoprene reduces particle formation rates, but the reason is debated. It is proposed...</description>
+      <author>Meredith Schervish, Martin Heinritzi, Dominik Stolzenburg, Lubna Dada, Mingyi Wang, Qing Ye, Victoria Hofbauer, Jenna DeVivo, Federico Bianchi, Sophia Brilke, Jonathan Duplissy, Imad El Haddad, Henning Finkenzeller, Xu&#8208;Cheng He, A. N. Kvashnin, Changhyuk Kim, J. Kirkby, Markku Kulmala, Katrianne Lehtipalo, Brandon Lopez, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Bernhard Mentler, Ugo Molteni, Wei Nie, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Rainer Volkamer, Andrea C. Wagner, Paul M. Winkler, Chao Yan, Neil M. Donahue</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00056k</guid>
     </item>
   </channel>
 </rss>

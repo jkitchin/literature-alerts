@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Jun 25 01:08:47 2024
+Created on Wed Jun 26 01:08:51 2024
 
-Found 52 results from 2024-06-18 to 2024-06-25
+Found 50 results from 2024-06-19 to 2024-06-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -13,105 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
-
-## Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions   
-
-OpenAlex: https://openalex.org/W4399722609    
-Open access: True
-    
-[Thanapat Worakul](https://openalex.org/A5033499565), [Rubén Laplaza](https://openalex.org/A5047408024), [Shubhajit Das](https://openalex.org/A5091094440), [Matthew D. Wodrich](https://openalex.org/A5076317766), [Clémence Corminbœuf](https://openalex.org/A5007563039), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01175 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01175)).
-    
-Molecular volcano plots, which facilitate the rapid prediction of the activity and selectivity of prospective catalysts, have emerged as powerful tools for computational catalysis. Here, we integrate microkinetic modeling into the volcano plot framework to develop "microkinetic molecular volcano plots". The resulting unified computational framework allows the influence of important reaction parameters, including temperature, reaction time, and concentration, to be quickly incorporated and more complex situations, such as off-cycle resting states and coupled catalytic cycles, to be tackled. Compared to previous generations of molecular volcanoes, these microkinetic counterparts offer a more comprehensive understanding of catalytic behavior, in which selectivity and product ratios can be explicitly determined by tracking the evolution of each product concentration over time. This is demonstrated by examining two case studies, rhodium-catalyzed hydroformylation and metal-catalyzed hydrosilylation, in which the unique insights provided by microkinetic modeling, as well as the ability to simultaneously screen catalysts and reaction conditions, are highlighted. To facilitate the construction of these plots/maps, we introduce mikimo, a Python program that seamlessly integrates with our previously developed automated volcano builder, volcanic.    
-
-    
-
-## Efficient Electrocatalytic Urea Formation from Gas Pollutants on Heteronuclear Dual-Metal Atom Anchored N-Doped Graphene   
-
-OpenAlex: https://openalex.org/W4399725574    
-Open access: False
-    
-[Lu Song](https://openalex.org/A5009135666), [Jiadi Ying](https://openalex.org/A5017041002), [Tiancun Liu](https://openalex.org/A5038977621), [Xu Jian](https://openalex.org/A5037358113), [Qianqian Wang](https://openalex.org/A5062755510), [Min Guo](https://openalex.org/A5024261526), [Qi Shen](https://openalex.org/A5039125728), [Yong Wu](https://openalex.org/A5075745049), [Yafei Zhao](https://openalex.org/A5030373380), [Zhixin Yu](https://openalex.org/A5004580655), Energy & fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c01378.
-    
-The electrochemical synthesis of urea under mild conditions is considered a promising alternative to the harsh industrial Haber-Bosch process. However, the development of highly active and selective electrocatalysts remains a formidable challenge. In this study, a novel mechanism for urea synthesis on dual-atom catalysts (DACs) using two gas pollutants (NO and CO) is proposed based on density functional theory (DFT) calculations. It is found that urea can be synthesized through consecutive C–N coupling and hydrogenation steps on heteronuclear DACs, in which the stable adsorption of NO and CO on DACs significantly contributes to the excellent performance for urea formation. Notably, only CoZn, CoCu, and FeZn@N6/C can continuously accept proton–electron and ultimately achieve urea formation, exhibiting low limiting potentials of −0.27, −0.30, and −0.60 V, respectively. Furthermore, it is also determined that an alternative mechanism is preferable on three DACs. Moreover, competitive hydrogen evolution reaction, as well as reductions of CO and NO reductions, can be effectively suppressed, thereby endowing high selectivity for urea generation. Importantly, this study not only advances a novel mechanism for urea production utilizing gas pollutants but also broadens the applicability of DACs in electrocatalysis.    
-
-    
-
-## Conjugated Microporous Polymer Derived Hierarchically Porous N-Rich Nanocarbon as a Durable Electrocatalyst for Oxygen Reduction Reaction in Zn-Air Battery   
-
-OpenAlex: https://openalex.org/W4399729859    
-Open access: False
-    
-[Lunjie Liu](https://openalex.org/A5068079564), [Zian Xu](https://openalex.org/A5069590333), [Yu Xia](https://openalex.org/A5076534555), [Mei‐Yan Gao](https://openalex.org/A5008719814), [Qiong‐Hua Jin](https://openalex.org/A5071532499), [Baobing Zheng](https://openalex.org/A5014132089), [Chongxuan Liu](https://openalex.org/A5004381242), [Shaoqing Chen](https://openalex.org/A5010748983), [Z. Zhang](https://openalex.org/A5057107196), [Hsing‐Lin Wang](https://openalex.org/A5084795513), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4868072.
-    
-No abstract    
-
-    
-
-## Cu-based materials for electrocatalytic CO2 to alcohols: Reaction mechanism, catalyst categories, and regulation strategies   
-
-OpenAlex: https://openalex.org/W4399730927    
-Open access: False
-    
-[Yaru Lei](https://openalex.org/A5045486276), [Yue Niu](https://openalex.org/A5055217976), [Xiaolong Tang](https://openalex.org/A5011290823), [Xiangtao Yu](https://openalex.org/A5001457573), [Xiubing Huang](https://openalex.org/A5030123581), [Xiaoxi Lin](https://openalex.org/A5039658158), [Honghong Yi](https://openalex.org/A5083424574), [Shunzheng Zhao](https://openalex.org/A5034850431), [Jingjing Jiang](https://openalex.org/A5067934887), [Jiyue Zhang](https://openalex.org/A5024689471), [Feifei Gao](https://openalex.org/A5050402661), Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.06.008.
-    
-Electrocatalytic CO2 reduction reaction (CO2RR) technology, which enables carbon capture storage and resource utilization by reducing CO2 to valuable chemicals or fuels, has become a global research hotspot in recent decades. Among the many products of CO2RR (carbon monoxide, acids, aldehydes and alcohols, olefins, etc.), alcohols (methanol, ethanol, propanol, etc.) have a higher market value and energy density, but it is also more difficult to produce. Copper is known to be effective in catalyzing CO2 to high value-added alcohols, but with poor selectivity. The progress of Cu-based catalysts for the selective generation of alcohols, including copper oxides, bimetals, single atoms and composites is reviewed. Meanwhile, to improve Cu-based catalyst activity and modulate product selectivity, the modulation strategies are straighten out, including morphological regulation, crystalline surface, oxidation state, as well as elemental doping and defect engineering. Based on the research progress of electrocatalytic CO2 reduction for alcohol production on Cu-based materials, the reaction pathways and the key intermediates of the electrocatalytic CO2RR to methanol, ethanol and propanol are summarized. Finally, the problems of traditional electrocatalytic CO2RR are introduced, and the future applications of machine learning and theoretical calculations are prospected. An in-depth discussion and a comprehensive review of the reaction mechanism, catalyst types and regulation strategies were carried out with a view to promoting the development of electrocatalytic CO2RR to alcohols.    
-
-    
-
-## First Principles Energetic Span Analysis of the Activity of Transition Metal Catalysts for N2O Decomposition: The Reversal of Descriptor Roles in the Presence of NO   
-
-OpenAlex: https://openalex.org/W4399732840    
-Open access: True
-    
-[Gunjana Yadav](https://openalex.org/A5072809024), [Abhishek Khetan](https://openalex.org/A5074279205), Catalysis today. None(None)] 2024.https://doi.org/10.1016/j.cattod.2024.114892.
-    
-No abstract    
-
-    
-
-## A Supported Metal Dual-Atom Site Catalyst for Oxygen Reduction: A First-Principles Study   
-
-OpenAlex: https://openalex.org/W4399739457    
-Open access: False
-    
-[Xianjun Chen](https://openalex.org/A5089562099), [C. F. Xu](https://openalex.org/A5037951357), [Feng He](https://openalex.org/A5042996042), [Minggang Huang](https://openalex.org/A5091751729), [Hua Ji](https://openalex.org/A5053927065), Russian journal of electrochemistry. 60(6)] 2024.https://doi.org/10.1134/s1023193524700022.
-    
-No abstract    
-
-    
-
-## p-block germanenes as a promising electrocatalysts for the oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4399740280    
-Open access: False
-    
-[Pengju Wang](https://openalex.org/A5002726082), [Weiyi Xia](https://openalex.org/A5056215692), [Nanshu Liu](https://openalex.org/A5085891395), [Wei Pei](https://openalex.org/A5063190135), [Si Zhou](https://openalex.org/A5038847501), [Yusong Tu](https://openalex.org/A5005861813), [Jijun Zhao](https://openalex.org/A5048114523), Journal of chemical physics online/The Journal of chemical physics/Journal of chemical physics. 160(23)] 2024.https://doi.org/10.1063/5.0211907.
-    
-The oxygen reduction reaction (ORR), a pivotal process in hydrogen fuel cells crucial for enhancing fuel cell performance through suitable catalysts, remains a challenging aspect of development. This study explores the catalytic potential of germanene on Al (111), taking advantage of the successful preparation of stable reconstructed germanene layers on Al (111) and the excellent catalytic performance exhibited by germanium-based nanomaterials. Through first-principles calculations, we demonstrate that the O2 molecule can be effectively activated on both freestanding and supported germanene nanosheets, featuring kinetic barriers of 0.40 and 0.04 eV, respectively. The presence of the Al substrate not only significantly enhances the stability of the reconstructed germanene but also preserves its exceptional ORR catalytic performance. These theoretical findings offer crucial insights into the substrate-mediated modulation of germanene stability and catalytic efficiency, paving the way for the design of stable and efficient ORR catalysts for future applications.    
-
-    
-
-## MXenes as Electrocatalysts for Energy Conversion Applications: Advances and Prospects   
-
-OpenAlex: https://openalex.org/W4399756246    
-Open access: True
-    
-[Mohamed El Ouardi](https://openalex.org/A5005468769), [Omar Ait Layachi](https://openalex.org/A5041252134), [Badr‐Eddine Channab](https://openalex.org/A5067195918), [Ayoub El Idrissi](https://openalex.org/A5085046666), [Amal BaQais](https://openalex.org/A5099169286), [Madjid Arab](https://openalex.org/A5019812303), [Mohamed Zbair](https://openalex.org/A5043692717), [Mohamed Saadi](https://openalex.org/A5099169287), [Hassan Ait Ahsaine](https://openalex.org/A5043419781), Advanced energy and sustainability research. None(None)] 2024.https://doi.org/10.1002/aesr.202400033 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aesr.202400033)).
-    
-Hydrogen as a potential future energy source provides a number of benefits in terms of sustainability, high energy density, and zero emissions. The production of hydrogen via water splitting is regarded as the cleanest and sustainable process. In contrast, fossil fuel combustion causes significant environmental problems through the production and release of secondary gases such as NO x , SO 2 , and CO 2 . It is vital to focus on reducing these harmful gases. CO 2 , a major pollutant produced by the combustion of fossil fuels and various human activities, plays a central role in the greenhouse effect and contributes to global warming. It is therefore imperative to actively eliminate and mitigate CO 2 levels to preserve the global environment. MXenes and MXene‐based catalysts exhibit both outstanding hydrogen evolution reaction (HER) performance and CO 2 reduction. In this review, recent progress is systematically examined and discussed in the preparation and utilization of MXenes as catalysts for HER and carbon dioxide reduction reaction (CO 2 RR). The discussion begins with a concise overview of the fabrication and characteristics of MXenes, followed by a comprehensive exploration of their efficacy as catalysts for HER and CO 2 RR.    
-
-    
-
-## Optimizing Amorphous Molybdenum Sulfide Thin Film Electrocatalysts: Trade-Off between Specific Activity and Microscopic Porosity   
-
-OpenAlex: https://openalex.org/W4399758517    
-Open access: False
-    
-[Thom R. Harris-Lee](https://openalex.org/A5049195632), [Tom Turvey](https://openalex.org/A5099172207), [Gunani Jayamaha](https://openalex.org/A5095374379), [Myunghee Kang](https://openalex.org/A5051360398), [Frank Marken](https://openalex.org/A5071095075), [Andrew L. Johnson](https://openalex.org/A5045570818), [Jie Zhang](https://openalex.org/A5007962016), [Cameron L. Bentley](https://openalex.org/A5005521200), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c06308.
-    
-Amorphous molybdenum sulfide (a-MoSx) is a promising candidate to replace noble metals as electrocatalysts for the hydrogen evolution reaction (HER) in electrochemical water splitting. So far, understanding of the activity of a-MoSx in relation to its physical (e.g., porosity) and chemical (e.g., Mo/S bonding environments) properties has mostly been derived from bulk electrochemical measurements, which provide limited information about electrode materials that possess microscopic structural heterogeneities. To overcome this limitation, herein, scanning electrochemical cell microscopy (SECCM) has been deployed to characterize the microscopic electrochemical activity of a-MoSx thin films (ca. 200 nm thickness), which possess a significant three-dimensional structure (i.e., intrinsic porosity) when produced by electrodeposition. A novel two-step SECCM protocol is designed to quantitatively determine spatially resolved electrochemical activity and electrochemical surface area (ECSA) within a single, high-throughput measurement. It is shown for the first time that although the highest surface area (e.g., most porous) regions of the a-MoSx film possess the highest total activity (measured by the electrochemical current), they do not possess the highest specific activity (measured by the ECSA-normalized current density). Instead, the areas of highest specific activity are localized at/around circular structures, coined "pockmarks", which are tens to hundreds of micrometers in size and ubiquitous to a-MoSx films produced by electrodeposition. By coupling this technique with structural and elemental composition analysis techniques (scanning electron microscopy, energy-dispersive X-ray spectroscopy, and X-ray photoelectron spectroscopy) and correlating ECSA with activity and specific activity across SECCM scans, this work furthers the understanding of structure–activity relations in a-MoSx and highlights the importance of local measurements for the systematic and rational design of thin film catalyst materials.    
-
-    
 
 ## Theoretical Exploration of the Origin of Alkaline Dependence in the Oxidation of 5-Hydroxymethylfurfural Catalyzed by NiO2Hx   
 
@@ -498,17 +399,6 @@ Abstract Electrocatalytic hydrogen peroxide (H 2 O 2 ) production via two‐elec
 
     
 
-## Bifunctional two-dimensional metal organic frameworks for oxygen reaction and water splitting   
-
-OpenAlex: https://openalex.org/W4399914101    
-Open access: False
-    
-[Kayode Adesina Adegoke](https://openalex.org/A5068670506), [Oluwasayo E. Ogunjinmi](https://openalex.org/A5018704393), [Oyeladun Rhoda Adegoke](https://openalex.org/A5070081860), [Olugbenga Solomon Bello](https://openalex.org/A5026435228), Nano energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.109897.
-    
-No abstract    
-
-    
-
 ## Transition metal single-atom supported on W2N3 as efficient electrocatalysts for the nitrogen reduction reaction: A DFT study   
 
 OpenAlex: https://openalex.org/W4399916445    
@@ -542,17 +432,6 @@ Abstract Renewable energy‐driven proton exchange membrane water electrolyzer (
 
     
 
-## De Novo Engineering of Pd-Metalloproteins and Their Use as Intracellular Catalysts   
-
-OpenAlex: https://openalex.org/W4399924670    
-Open access: True
-    
-[Soraya Learte‐Aymamí](https://openalex.org/A5011950896), [Laura Martínez-Castro](https://openalex.org/A5076506465), [Cristian González-González](https://openalex.org/A5000659347), [Miriam Condeminas](https://openalex.org/A5068759118), [Pau Martín-Malpartida](https://openalex.org/A5086243338), [María Tomás‐Gamasa](https://openalex.org/A5038145200), [Sandra Baúlde](https://openalex.org/A5074597218), [José R. Couceiro](https://openalex.org/A5069362675), [Jean‐Didier Maréchal](https://openalex.org/A5076914476), [María José Carrasco Macías](https://openalex.org/A5002830581), [José L. Mascareñas](https://openalex.org/A5061612775), [M. Eugenio Vázquez](https://openalex.org/A5044760397), JACS Au. None(None)] 2024.https://doi.org/10.1021/jacsau.4c00379 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacsau.4c00379)).
-    
-The development of transition metal-based catalytic platforms that promote bioorthogonal reactions inside living cells remains a major challenge in chemical biology. This is particularly true for palladium-based catalysts, which are very powerful in organic synthesis but perform poorly in the cellular environment, mainly due to their rapid deactivation. We now demonstrate that grafting Pd(II) complexes into engineered β-sheets of a model WW domain results in cell-compatible palladominiproteins that effectively catalyze depropargylation reactions inside HeLa cells. The concave shape of the WW domain β-sheet proved particularly suitable for accommodating the metal center and protecting it from rapid deactivation in the cellular environment. A thorough NMR and computational study confirmed the formation of the metal-stapled peptides and allowed us to propose a three-dimensional structure for this novel metalloprotein motif.    
-
-    
-
 ## Microenvironment regulation breaks the Faradaic efficiency-current density trade-off for electrocatalytic deuteration using D2O   
 
 OpenAlex: https://openalex.org/W4399814416    
@@ -561,6 +440,94 @@ Open access: True
 [Meng He](https://openalex.org/A5083060814), [Rui Li](https://openalex.org/A5081675173), [Chuanqi Cheng](https://openalex.org/A5069312764), [Cuibo Liu](https://openalex.org/A5034535602), [Bin Zhang](https://openalex.org/A5033408053), Nature communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-49544-y ([pdf](https://www.nature.com/articles/s41467-024-49544-y.pdf)).
     
 Abstract The high Faradaic efficiency (FE) of the electrocatalytic deuteration of organics with D 2 O at a large current density is significant for deuterated electrosynthesis. However, the FE and current density are the two ends of a seesaw because of the severe D 2 evolution side reaction at nearly industrial current densities. Herein, we report a combined scenario of a nanotip-enhanced electric field and surfactant-modified interface microenvironment to enable the electrocatalytic deuteration of arylacetonitrile in D 2 O with an 80% FE at −100 mA cm −2 . The increased concentration with low activation energy of arylacetonitrile due to the large electric field along the tips and the accelerated arylacetonitrile transfer and suppressed D 2 evolution by the surfactant-created deuterophobic microenvironment contribute to breaking the trade-off between a high FE and large current density. Furthermore, the application of our strategy in other deuteration reactions with improved Faradaic efficiencies at −100 mA cm −2 rationalizes the design concept.    
+
+    
+
+## Bifunctional two-dimensional metal organic frameworks for oxygen reaction and water splitting   
+
+OpenAlex: https://openalex.org/W4399914101    
+Open access: False
+    
+[Kayode Adesina Adegoke](https://openalex.org/A5068670506), [Oluwasayo E. Ogunjinmi](https://openalex.org/A5018704393), [Oyeladun Rhoda Adegoke](https://openalex.org/A5070081860), [Olugbenga Solomon Bello](https://openalex.org/A5026435228), Nano energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.109897.
+    
+No abstract    
+
+    
+
+## De Novo Engineering of Pd-Metalloproteins and Their Use as Intracellular Catalysts   
+
+OpenAlex: https://openalex.org/W4399924670    
+Open access: True
+    
+[Soraya Learte‐Aymamí](https://openalex.org/A5011950896), [Laura Martínez-Castro](https://openalex.org/A5076506465), [Cristian González-González](https://openalex.org/A5000659347), [Miriam Condeminas](https://openalex.org/A5068759118), [Pau Martin‐Malpartida](https://openalex.org/A5086243338), [María Tomás‐Gamasa](https://openalex.org/A5038145200), [Sandra Baúlde](https://openalex.org/A5074597218), [José R. Couceiro](https://openalex.org/A5069362675), [Jean‐Didier Maréchal](https://openalex.org/A5076914476), [María José Carrasco Macías](https://openalex.org/A5002830581), [José L. Mascareñas](https://openalex.org/A5061612775), [M. Eugenio Vázquez](https://openalex.org/A5044760397), JACS Au. None(None)] 2024.https://doi.org/10.1021/jacsau.4c00379 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacsau.4c00379)).
+    
+The development of transition metal-based catalytic platforms that promote bioorthogonal reactions inside living cells remains a major challenge in chemical biology. This is particularly true for palladium-based catalysts, which are very powerful in organic synthesis but perform poorly in the cellular environment, mainly due to their rapid deactivation. We now demonstrate that grafting Pd(II) complexes into engineered β-sheets of a model WW domain results in cell-compatible palladominiproteins that effectively catalyze depropargylation reactions inside HeLa cells. The concave shape of the WW domain β-sheet proved particularly suitable for accommodating the metal center and protecting it from rapid deactivation in the cellular environment. A thorough NMR and computational study confirmed the formation of the metal-stapled peptides and allowed us to propose a three-dimensional structure for this novel metalloprotein motif.    
+
+    
+
+## Design, Synthesis, and Electronic Structure Modulation of ORR Electrocatalysts   
+
+OpenAlex: https://openalex.org/W4399941270    
+Open access: False
+    
+[Muhammad Arif](https://openalex.org/A5005368289), [Ayaz Mahsud](https://openalex.org/A5085337295), [Tahir Muhmood](https://openalex.org/A5019386726), [Francis Leonard Deepak](https://openalex.org/A5037311572), Journal of environmental chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.jece.2024.113417.
+    
+No abstract    
+
+    
+
+## Synergistic effect to unlock the activity and stability for oxygen evolution reaction in spinel LiMn2O4 via d-block metal substitution   
+
+OpenAlex: https://openalex.org/W4399956855    
+Open access: False
+    
+[J Li](https://openalex.org/A5077566735), [Linlin Liu](https://openalex.org/A5027361938), [Jianghua Wu](https://openalex.org/A5001044012), [Zhiwei Hu](https://openalex.org/A5003964217), [Yi‐Ying Chin](https://openalex.org/A5053222709), [Hong-Ji Lin](https://openalex.org/A5006300842), [Chien-Te Chen](https://openalex.org/A5088356594), [Xiaoqing Pan](https://openalex.org/A5041468495), [Yu Deng](https://openalex.org/A5073873037), [Nicolás Alonso-Vante](https://openalex.org/A5085058884), [Lijun Sui](https://openalex.org/A5066669130), [Yu Xie](https://openalex.org/A5000672604), [Jiwei Ma](https://openalex.org/A5060759067), Applied catalysis. B, Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124331.
+    
+An effective strategy using d-block metal hybridization was proposed to induce electronic interaction and promote the synergistic effect, aiming to enhance the OER performance of cost-effective spinel LiMn2O4. Indeed, we deploy a series of LiNixMn2-xO4 catalysts substituted with Ni, yielding the increase of Mn valence states from Mn3.5+ to Mn4+. The LiNi0.5Mn1.5O4 catalyst achieved an excellent OER performance in alkaline media, with an overpotential reduction more than 320 mV at 10 mA cm-2 compared to the unsubstituted LiMn2O4, as well as the electrochemical stability. It was shown to be superior to most reported Mn-based oxide OER electrocatalysts. Theoretical calculations demonstrated that Ni dopes holes in the Mn site, leading to an increase in Mn4+, and that the shared covalent network of Ni 3d-O 2p-Mn 3d optimized an easier desorption of intermediates. These results pave a new example for modulating the chemisorption strength, thus enabling activating the activity and stability of the OER process for cost-effective electrocatalysts based on spinel Mn oxides.    
+
+    
+
+## Epitaxial growth of highly atomically ordered Pt-Fe nanoparticles from carbon nanotube bundles as durable oxygen reduction electrocatalysts   
+
+OpenAlex: https://openalex.org/W4399980742    
+Open access: False
+    
+[Jibao He](https://openalex.org/A5051602113), [Chao Chen](https://openalex.org/A5080570693), [Hailong Yu](https://openalex.org/A5041502616), [Yang Zhao](https://openalex.org/A5035446738), [Maotian Xu](https://openalex.org/A5066241556), [Tao Xiong](https://openalex.org/A5068034826), [Qian Lu](https://openalex.org/A5083475976), [Zhi Gen Yu](https://openalex.org/A5056256510), [Kaiping Tai](https://openalex.org/A5086525921), [Jinting Tan](https://openalex.org/A5023288955), [Chang Liu](https://openalex.org/A5023843080), Journal of Materials Science and Technology/Journal of materials science & technology. None(None)] 2024.https://doi.org/10.1016/j.jmst.2024.06.009.
+    
+No abstract    
+
+    
+
+## Ar/NH3 Plasma Etching of Cobalt‐Nickel Selenide Microspheres Rich in Selenium Vacancies Wrapped with Nitrogen Doped Carbon Nanotubes as Highly Efficient Air Cathode Catalysts for Zinc‐Air Batteries   
+
+OpenAlex: https://openalex.org/W4399983084    
+Open access: False
+    
+[Yangyang Feng](https://openalex.org/A5041437245), [Weiheng Chen](https://openalex.org/A5037837951), [Lingyan Zhao](https://openalex.org/A5061071686), [Zhong‐Jie Jiang](https://openalex.org/A5003604997), [Xiaoning Tian](https://openalex.org/A5040156335), [Zhongqing Jiang](https://openalex.org/A5045406578), Small methods. None(None)] 2024.https://doi.org/10.1002/smtd.202400565.
+    
+Abstract This work utilizes defect engineering, heterostructure, pyridine N‐doping, and carbon supporting to enhance cobalt‐nickel selenide microspheres' performance in the oxygen electrode reaction. Specifically, microspheres mainly composed of CoNiSe 2 and Co 9 Se 8 heterojunction rich in selenium vacancies (V Se· ) wrapped with nitrogen‐doped carbon nanotubes (p‐CoNiSe/NCNT@CC) are prepared by Ar/NH 3 radio frequency plasma etching technique. The synthesized p‐CoNiSe/NCNT@CC shows high oxygen reduction reaction (ORR) performance (half‐wave potential (E 1/2 ) = 0.878 V and limiting current density (J L ) = 21.88 mA cm −2 ). The J L exceeds the 20 wt% Pt/C (19.34 mA cm −2 ) and the E 1/2 is close to the 20 wt% Pt/C (0.881 V). It also possesses excellent oxygen evolution reaction (OER) performance (overpotential of 324 mV@10 mA cm −2 ), which even exceeds that of the commercial RuO 2 (427 mV@10 mA cm −2 ). The density functional theory calculation indicates that the enhancement of ORR performance is attributed to the synergistic effect of plasma‐induced V Se· and the CoNiSe 2 ‐Co 9 Se 8 heterojunction. The p‐CoNiSe/NCNT@CC electrode assembled Zinc‐air batteries (ZABs) show a peak power density of 138.29 mW cm −2 , outperforming the 20 wt% Pt/C+RuO 2 (73.9 mW cm −2 ) and other recently reported catalysts. Furthermore, all‐solid‐state ZAB delivers a high peak power density of 64.83 mW cm −2 and ultra‐robust cycling stability even under bending.    
+
+    
+
+## Insight on Strain Relaxation Effect in Perovskites for High‐Temperature Hydrogen Oxidation Reaction   
+
+OpenAlex: https://openalex.org/W4399983726    
+Open access: False
+    
+[Hyunmin Kim](https://openalex.org/A5011449187), [Chaesung Lim](https://openalex.org/A5088726345), [Jimin Gu](https://openalex.org/A5066095269), [Hu Young Jeong](https://openalex.org/A5089305490), [Jeong Woo Han](https://openalex.org/A5033014275), [Ji‐Hyun Jang](https://openalex.org/A5046112894), [Yunfei Bu](https://openalex.org/A5001944538), Advanced energy materials. None(None)] 2024.https://doi.org/10.1002/aenm.202401307.
+    
+Abstract The size of in situ exsolved nanoparticles (NPs) significantly affects the electrochemical and electro‐catalytic properties of oxide supports. Unfortunately, the instrumental factor affecting the exsolved NP size in poly‐crystalline perovskite oxides is still unexplored. Herein, the inherent micro‐strain (ε) value as an unprecedented factor in controlling the exsolved NP size of Pr 0.5 Ba 0.5‐ x Sr x Fe 0.85 Ni 0.15 O 3‐ δ ( x = 0.3, 0.4, and 0.5) is introduced, wherein smaller NP size is successfully obtained via strain relaxation strategy. The effect of exsolved NP size on the fuel oxidation reaction kinetics at high‐temperature regimes is evaluated in‐depth by using density functional theory (DFT) calculations. In accordance with the insights provided by DFT calculations, the electro‐catalyst featuring the smallest Fe 3 Ni NP size via strain relaxation strategy demonstrates exceptional electrochemical performance along with robust durability toward high‐temperature hydrogen oxidation reaction. This work presents scientific guidance for tailoring the exsolved NP size in perovskites, thereby paving the way for designing rational perovskite electro‐catalysts in various energy‐related applications.    
+
+    
+
+## Sodium-assisted MoS2 for boosting CO2 hydrogenation to methanol: The crucial role of sodium in defect evolution and modification   
+
+OpenAlex: https://openalex.org/W4399986594    
+Open access: False
+    
+[Zhen Zhang](https://openalex.org/A5084228359), [Juan Zuo](https://openalex.org/A5049250273), [Luteng Luo](https://openalex.org/A5058643495), [Xinghua Yang](https://openalex.org/A5022901725), [Zhiyuan Ma](https://openalex.org/A5040261123), [Hongjun Jin](https://openalex.org/A5042274992), [Youzhu Yuan](https://openalex.org/A5085295097), [Qingrong Qian](https://openalex.org/A5014774543), [Qinghua Chen](https://openalex.org/A5071329167), [Yong-Chun Luo](https://openalex.org/A5049818945), Journal of catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115621.
+    
+The effective conversion of CO2 to methanol utilizing green hydrogen under moderate conditions represents a promising approach for achieving carbon neutrality. MoS2 demonstrates exceptional catalytic performance at temperatures below 200 °C, however, generating in-plane sulfur defects is challenging due to the intact planar structure. Introducing heteroatoms to induce sulfur vacancy formation and modulate their chemical environment remains a significant obstacle. In this study, we developed a NaCl-assisted method for synthesizing MoS2 and discovered that a small quantity of sodium not only promotes the formation of sulfur vacancies during the induction period, but also encourages CO2 hydrogenation via the carboxylate route, as opposed to the CO2 dissociation to CO* route over non-modified sulfur vacancies. Furthermore, catalysts at various stages throughout the 60 h induction period were characterized, revealing that the increase in sulfur vacancies and enhanced H2 dissociation capability are primary factors contributing to improved methanol yield. The sodium-modified MoS2 achieves a methanol space–time yield of up to 571 mgMeOH gcat−1h−1 at 200 °C and 5 MPa with a 4.8 % CO2 conversion and 96 % methanol selectivity. The turnover frequency based on total sulfur vacancies reaches 170 h−1. This research is anticipated to offer a new strategy for enhancing the catalytic performance of CO2 hydrogenation to methanol using heteroatom-assisted defect engineering.    
 
     
 
@@ -583,5 +550,16 @@ Open access: True
 [Evan Askanazi](https://openalex.org/A5022094533), [Ilya Grinberg](https://openalex.org/A5013587381), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4535559/v1 ([pdf](https://www.researchsquare.com/article/rs-4535559/latest.pdf)).
     
 Abstract Despite successful use in a wide variety of disciplines for data analysis and prediction, machine learning (ML) methods suffer from a lack of understanding of the reliability of predictions due to the lack of transparency and black-box nature of ML models. In materials science and other fields, typical ML model results include a significant number of low-quality predictions. This problem is known to be particularly acute for target systems which differ significantly from the data used for ML model training. However, to date, a general method for uncertainty quantification (UQ) of ML predictions has not been available. Focusing on the intuitive and computationally efficient similarity-based UQ, we show that a simple metric based on Euclidean feature space distance and sampling density together with the decorrelation of the features using Gram-Schmidt orthogonalization allows effective separation of the accurately predicted data points from data points with poor prediction accuracy. To demonstrate the generality of the method, we apply it to light GBM machine learning using a set of time series tabular data sets. We also show that this metric is a more effective UQ tool than the standard approach of using the average distance of k nearest neighbors (k = 1–10) in features space for similarity evaluation. The computational simplicity of this dataset combined with its applicability to time series datasets allows it to be readily used in numerous real world problems.    
+
+    
+
+## A Sequential Experimental Design Method Based on Binary Response Prediction   
+
+OpenAlex: https://openalex.org/W4399882201    
+Open access: False
+    
+[Zichen Wang](https://openalex.org/A5090758948), [Zhengqiang Pan](https://openalex.org/A5006569051), [Taihe Yi](https://openalex.org/A5058728082), [Guang Jin](https://openalex.org/A5047462369), [Yanlin Wang](https://openalex.org/A5021075276), No host. None(None)] 2024.https://doi.org/10.1109/isssr61934.2024.00064.
+    
+In industrial production, there are many problems concerning the experimental design of product performance. This kind of problem can be translated into the problem of studying the product performance boundary through binary response modeling. Collecting data through simulation for such experiments is computationally expensive, and conditions and time are limited. Therefore, a sequential experimental design method based on binary response prediction is proposed by collecting as little data as possible to achieve the purpose of the experiment. The initial experimental scheme is generated by the Maximum Projected Coordinate Exchange (MP-CE) algorithm, and the sequential process is combined with the local criterion based on the binary response prediction boundary and the global optimization method for sampling. Example verification results show that the proposed method is superior to random sampling and space-filled sampling. In addition, sensitivity analysis and some algorithm parameters are discussed.    
 
     

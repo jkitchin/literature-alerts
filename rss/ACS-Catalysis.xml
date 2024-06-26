@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Jun 2024 01:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 01:08:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions</title>
-      <link>https://doi.org/10.1021/acscatal.4c01175</link>
-      <description>Thanapat Worakul, Rub&#233;n Laplaza, Shubhajit Das, Matthew D. Wodrich, Cl&#233;mence Corminb&#339;uf, ACS catalysis. None(None)] 2024. https://openalex.org/W4399722609
-
-                Molecular volcano plots, which facilitate the rapid prediction of the activity and selectivity of prospective catalysts, have emerged as powerful tools for computational catalysis. Here, we integrate microkinetic modeling into the volcano plot framework to develop "microkinetic molecular volcano plots". The resulting unified computational framework allows the influence of important reaction parameters, including temperature, reaction time, and concentration, to be quickly incorporated and more complex situations, such as off-cycle resting states and coupled catalytic cycles, to be tackled. Compared to previous generations of molecular volcanoes, these microkinetic counterparts offer a more comprehensive understanding of catalytic behavior, in which selectivity and product ratios can be explicitly determined by tracking the evolution of each product concentration over time. This is demonstrated by examining two case studies, rhodium-catalyzed hydroformylation and metal-catalyzed hydrosilylation, in which the unique insights provided by microkinetic modeling, as well as the ability to simultaneously screen catalysts and reaction conditions, are highlighted. To facilitate the construction of these plots/maps, we introduce mikimo, a Python program that seamlessly integrates with our previously developed automated volcano builder, volcanic.</description>
-      <author>Thanapat Worakul, Rub&#233;n Laplaza, Shubhajit Das, Matthew D. Wodrich, Cl&#233;mence Corminb&#339;uf</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01175</guid>
-    </item>
-    <item>
-      <title>Rational Design of Catalysts with Spinel Nanostructures for Thermal-Driven C1 Conversion</title>
-      <link>https://doi.org/10.1021/acscatal.4c01138</link>
-      <description>Xiaoxue Han, Dan Guo, Yong Wang, Shouying Huang, Mei&#8208;Yan Wang, Yue Wang, Maoshuai Li, Shengping Wang, Xinbin Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4399730295
-
-                The oriented conversion of C1 molecules including CO, CO2, CH4, and CH3OH has received great attention in the past few decades because of its essential role in sustainable chemistry. Spinel oxides with fine hardness, great thermal stability, and tunable chemical properties are advantageous catalysts or precursors in the activation of inert C1 molecules for the production of high-value-added chemicals. This review provides a thorough overview of the recent developments in spinel-structured nanocatalysts for the processes of thermal-driven C1 conversion, highlighting the spinel-structured advantages in deriving active metals, stabilizing metal cations, constructing adjacent synergic sites, and tuning oxygen vacancies. Finally, the potential challenges and development directions are discussed for the application of spinel-structured catalysts in thermal-driven C1 conversion reactions.</description>
-      <author>Xiaoxue Han, Dan Guo, Yong Wang, Shouying Huang, Mei&#8208;Yan Wang, Yue Wang, Maoshuai Li, Shengping Wang, Xinbin Ma</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01138</guid>
-    </item>
-    <item>
-      <title>Atomically Dispersed Metal&#8211;Nitrogen&#8211;Carbon Catalysts for Electrochemical Nitrogen Transformations to Ammonia and Beyond</title>
-      <link>https://doi.org/10.1021/acscatal.4c02717</link>
-      <description>Eamonn Murphy, Yuanchao Liu, Baiyu Sun, Yuhan Chen, Shengyuan Guo, Plamen Atanassov, ACS catalysis. None(None)] 2024. https://openalex.org/W4399730682
-
-                No abstract</description>
-      <author>Eamonn Murphy, Yuanchao Liu, Baiyu Sun, Yuhan Chen, Shengyuan Guo, Plamen Atanassov</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02717</guid>
-    </item>
     <item>
       <title>Theoretical Exploration of the Origin of Alkaline Dependence in the Oxidation of 5-Hydroxymethylfurfural Catalyzed by NiO&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acscatal.4c00940</link>
@@ -86,16 +56,6 @@
       <author>Zhenbin Wang, Sanghyun Bae, Milo&#353; Baljozovi&#263;, Pardis Adams, David Yong, Erin Service, Thomas Moehl, Wenzhe Niu, S. David Tilley</author>
       <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01762</guid>
-    </item>
-    <item>
-      <title>Impact of Adsorbed CO on the Conversion of CO&lt;sub&gt;2&lt;/sub&gt; to Ethylene on 4,5-Dicyanoimidazole Coordinated Cu</title>
-      <link>https://doi.org/10.1021/acscatal.4c02042</link>
-      <description>Yuhang Jiang, Yating Wang, Wei Chen, Rongzhen Chen, Yu Hang Li, Chunzhong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4399773474
-
-                Upgrading carbon dioxide (CO2) into multicarbon products by using renewable electricity provides a pathway to producing fuel and chemicals. In fact, input CO2 in alkaline and neutral reactors forms carbonates with hydroxide, resulting in lower carbon efficiency, so acidic electrolytes are considered as a strategy to solve this problem. However, hydrogen evolution reaction competition and lower Faradaic efficiency (FE) of the target product limit the development of acidic electrolytes. Here, we report an accessible composite catalyst of a commercial copper (Cu) powder modified by a small molecule 4,5-dicyanoimidazole (DCI) that can maintain a high FE for ethylene (C2H4) even in strong acids with pH &#8804; 1. We achieve CO2 electroreduction on the DCI&#8211;Cu catalyst with an FE of 57% toward C2H4 at a current density of 200 mA cm&#8211;2 at pH 1. By in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy measurements, compressed bonding of the *CO intermediate has been observed, which leads to more C&#8211;C bonding. The density functional theory calculation results further prove that the adsorbed *CO intermediates on the DCI&#8211;Cu catalyst are closer to the reaction sites. Unfortunately, this catalyst still requires improvement in terms of long-term operation. However, we anticipate that this may be generalized to enable molecular strategies to complement metal-based catalysts designed for strong acidic conditions by stabilizing intermediates.</description>
-      <author>Yuhang Jiang, Yating Wang, Wei Chen, Rongzhen Chen, Yu Hang Li, Chunzhong Li</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02042</guid>
     </item>
     <item>
       <title>QM/MM MD Study on the Reaction Mechanism of Thymidine Phosphorylation Catalyzed by the Enzyme &lt;i&gt;Thermotoga maritima&lt;/i&gt; Thymidine Kinase 1</title>
@@ -238,16 +198,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01914</guid>
     </item>
     <item>
-      <title>Structural Aspects of MoS&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Prepared by Atomic Layer Deposition for Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c01445</link>
-      <description>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol, ACS catalysis. None(None)] 2024. https://openalex.org/W4399858629
-
-                Molybdenum sulfides (MoSx) in both crystalline and amorphous forms are promising earth-abundant electrocatalysts for hydrogen evolution reaction (HER) in acid. Plasma-enhanced atomic layer deposition was used to prepare thin films of both amorphous MoSx with adjustable S/Mo ratio (2.8&#8211;4.7) and crystalline MoS2 with tailored crystallinity, morphology, and electrical properties. All the amorphous MoSx films transform into highly HER-active amorphous MoS2 (overpotential 210&#8211;250 mV at 10 mA/cm2 in 0.5 M H2SO4) after electrochemical activation at approximately &#8722;0.3 V vs reversible hydrogen electrode. However, the initial film stoichiometry affects the structure and consequently the HER activity and stability. The material changes occurring during activation are studied using ex situ and quasi in situ X-ray photoelectron spectroscopy. Possible structures of as-deposited and activated catalysts are proposed. In contrast to amorphous MoSx, no changes in the structure of crystalline MoS2 catalysts are observed. The overpotentials of the crystalline films range from 300 to 520 mV at 10 mA/cm2, being the lowest for the most defective catalysts. This work provides a practical method for deposition of tailored MoSx HER electrocatalysts as well as new insights into their activity and structure.</description>
-      <author>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol</author>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01445</guid>
-    </item>
-    <item>
       <title>Beyond the Chemical Step: The Role of Substrate Access in Acyltransferase from &lt;i&gt;Mycobacterium smegmatis&lt;/i&gt;</title>
       <link>https://doi.org/10.1021/acscatal.4c00812</link>
       <description>Henrique F. Carvalho, Luuk Mestrom, Ulf Hanefeld, J&#252;rgen Pleiss, ACS catalysis. None(None)] 2024. https://openalex.org/W4399860420
@@ -256,16 +206,6 @@
       <author>Henrique F. Carvalho, Luuk Mestrom, Ulf Hanefeld, J&#252;rgen Pleiss</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00812</guid>
-    </item>
-    <item>
-      <title>Electroreductive C&#8211;C Coupling of Furfural to Jet Fuel Precursors in Neutral Media via Synergistic Catalysis of the Polyoxotungstate and Cu Complex</title>
-      <link>https://doi.org/10.1021/acscatal.4c02524</link>
-      <description>Weijie Geng, Di Zhang, Ni Zhen, Jianshi Du, Jing Dong, Chengpeng Liu, Shi&#8208;Lu Chen, Yingnan Chi, Changwen Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399864928
-
-                The electrochemical coupling of biomass platform molecules to biofuels provides a promising method for addressing energy crises and environmental issues. However, achieving high yields of C&#8211;C coupling products under ambient conditions remains a challenge. Herein, we present a highly efficient electrocatalyst, [Cu(pz)]3[PW12O40] (Cu-PW12), fabricated by combining a Cu-pz complex (pz = pyrazine), a redox catalytic center, with Keggin-type PW12O40, and an electron sponge. Cu-PW12 exhibits remarkable catalytic activity for the electroreductive C&#8211;C coupling of furfural (FF), a bulk and low-cost biomass platform chemical, to produce a jet fuel precursor, hydrofuroin (HDF). Under neutral and ambient conditions, over 99% of FF is converted and the selectivity of HDF reaches 91.2%. Furthermore, experimental and theoretical studies, including control experiments, kinetic isotope studies, electrochemical and spectral analyses, and DFT calculations, reveal a synergistic catalysis effect between Cu center and PW12. The introduction of PW12 not only facilitates electron transfer, improving FF conversion, but also changes the rate-determining step, favoring the formation of HDF. Under turnover conditions, the Cu-PW12 catalyst is initially reduced and then FF is reduced by the Cu center to ketyl radical after protonation on the electrode surface. Finally, the self-coupling of two ketyl radicals in solution leads to the generation of HDF.</description>
-      <author>Weijie Geng, Di Zhang, Ni Zhen, Jianshi Du, Jing Dong, Chengpeng Liu, Shi&#8208;Lu Chen, Yingnan Chi, Changwen Hu</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02524</guid>
     </item>
     <item>
       <title>Tuning Selectivity of CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation via Support Composition Modification Adjusted the Activity Reduction of H Species over Ce&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Pr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;2&#8722;&#948;&lt;/sub&gt;-Supported Metal (Ru, Rh) Nanoclusters</title>
@@ -408,6 +348,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02813</guid>
     </item>
     <item>
+      <title>Impact of Adsorbed CO on the Conversion of CO&lt;sub&gt;2&lt;/sub&gt; to Ethylene on 4,5-Dicyanoimidazole Coordinated Cu</title>
+      <link>https://doi.org/10.1021/acscatal.4c02042</link>
+      <description>Yuhang Jiang, Yating Wang, Wei Chen, Rongzhen Chen, Yu Hang Li, Chunzhong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4399773474
+
+                Upgrading carbon dioxide (CO2) into multicarbon products by using renewable electricity provides a pathway to producing fuel and chemicals. In fact, input CO2 in alkaline and neutral reactors forms carbonates with hydroxide, resulting in lower carbon efficiency, so acidic electrolytes are considered as a strategy to solve this problem. However, hydrogen evolution reaction competition and lower Faradaic efficiency (FE) of the target product limit the development of acidic electrolytes. Here, we report an accessible composite catalyst of a commercial copper (Cu) powder modified by a small molecule 4,5-dicyanoimidazole (DCI) that can maintain a high FE for ethylene (C2H4) even in strong acids with pH &#8804; 1. We achieve CO2 electroreduction on the DCI&#8211;Cu catalyst with an FE of 57% toward C2H4 at a current density of 200 mA cm&#8211;2 at pH 1. By in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy measurements, compressed bonding of the *CO intermediate has been observed, which leads to more C&#8211;C bonding. The density functional theory calculation results further prove that the adsorbed *CO intermediates on the DCI&#8211;Cu catalyst are closer to the reaction sites. Unfortunately, this catalyst still requires improvement in terms of long-term operation. However, we anticipate that this may be generalized to enable molecular strategies to complement metal-based catalysts designed for strong acidic conditions by stabilizing intermediates.</description>
+      <author>Yuhang Jiang, Yating Wang, Wei Chen, Rongzhen Chen, Yu Hang Li, Chunzhong Li</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02042</guid>
+    </item>
+    <item>
       <title>Palladium-Catalyzed Allylic Alkylation Reactions of Nucleophilic Allenones: Asymmetric Allylic Alkylation, &lt;i&gt;Z/E&lt;/i&gt; Divergent Allylic Alkylation, and [5 + 2] Annulation</title>
       <link>https://doi.org/10.1021/acscatal.4c01460</link>
       <description>Wang Wang, Yimin Hu, Kuan Li, Jiajia Xu, Cheng Zhang, Leijie Zhou, Lihan Zhu, Wangyu Shi, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812307
@@ -418,6 +368,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01460</guid>
     </item>
     <item>
+      <title>Structural Aspects of MoS&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Prepared by Atomic Layer Deposition for Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01445</link>
+      <description>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol, ACS catalysis. None(None)] 2024. https://openalex.org/W4399858629
+
+                Molybdenum sulfides (MoSx) in both crystalline and amorphous forms are promising earth-abundant electrocatalysts for hydrogen evolution reaction (HER) in acid. Plasma-enhanced atomic layer deposition was used to prepare thin films of both amorphous MoSx with adjustable S/Mo ratio (2.8&#8211;4.7) and crystalline MoS2 with tailored crystallinity, morphology, and electrical properties. All the amorphous MoSx films transform into highly HER-active amorphous MoS2 (overpotential 210&#8211;250 mV at 10 mA/cm2 in 0.5 M H2SO4) after electrochemical activation at approximately &#8722;0.3 V vs reversible hydrogen electrode. However, the initial film stoichiometry affects the structure and consequently the HER activity and stability. The material changes occurring during activation are studied using ex situ and quasi in situ X-ray photoelectron spectroscopy. Possible structures of as-deposited and activated catalysts are proposed. In contrast to amorphous MoSx, no changes in the structure of crystalline MoS2 catalysts are observed. The overpotentials of the crystalline films range from 300 to 520 mV at 10 mA/cm2, being the lowest for the most defective catalysts. This work provides a practical method for deposition of tailored MoSx HER electrocatalysts as well as new insights into their activity and structure.</description>
+      <author>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01445</guid>
+    </item>
+    <item>
+      <title>Electroreductive C&#8211;C Coupling of Furfural to Jet Fuel Precursors in Neutral Media via Synergistic Catalysis of the Polyoxotungstate and Cu Complex</title>
+      <link>https://doi.org/10.1021/acscatal.4c02524</link>
+      <description>Weijie Geng, Di Zhang, Ni Zhen, Jianshi Du, Jing Dong, Chengpeng Liu, Shi&#8208;Lu Chen, Yingnan Chi, Changwen Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399864928
+
+                The electrochemical coupling of biomass platform molecules to biofuels provides a promising method for addressing energy crises and environmental issues. However, achieving high yields of C&#8211;C coupling products under ambient conditions remains a challenge. Herein, we present a highly efficient electrocatalyst, [Cu(pz)]3[PW12O40] (Cu-PW12), fabricated by combining a Cu-pz complex (pz = pyrazine), a redox catalytic center, with Keggin-type PW12O40, and an electron sponge. Cu-PW12 exhibits remarkable catalytic activity for the electroreductive C&#8211;C coupling of furfural (FF), a bulk and low-cost biomass platform chemical, to produce a jet fuel precursor, hydrofuroin (HDF). Under neutral and ambient conditions, over 99% of FF is converted and the selectivity of HDF reaches 91.2%. Furthermore, experimental and theoretical studies, including control experiments, kinetic isotope studies, electrochemical and spectral analyses, and DFT calculations, reveal a synergistic catalysis effect between Cu center and PW12. The introduction of PW12 not only facilitates electron transfer, improving FF conversion, but also changes the rate-determining step, favoring the formation of HDF. Under turnover conditions, the Cu-PW12 catalyst is initially reduced and then FF is reduced by the Cu center to ketyl radical after protonation on the electrode surface. Finally, the self-coupling of two ketyl radicals in solution leads to the generation of HDF.</description>
+      <author>Weijie Geng, Di Zhang, Ni Zhen, Jianshi Du, Jing Dong, Chengpeng Liu, Shi&#8208;Lu Chen, Yingnan Chi, Changwen Hu</author>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02524</guid>
+    </item>
+    <item>
       <title>Photochemical Tuning of Tricoordinated Nitrogen Deficiency in Carbon Nitride to Create Delocalized &#960; Electron Clouds for Efficient CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction</title>
       <link>https://doi.org/10.1021/acscatal.4c01636</link>
       <description>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399891463
@@ -426,6 +396,46 @@
       <author>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu</author>
       <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01636</guid>
+    </item>
+    <item>
+      <title>Selective Hydrogenation of Quinizarins to Leuco-quinizarins and Their Direct Derivatization Using Flow-Batch-Separator Unified Reactors under Continuous-Flow Conditions</title>
+      <link>https://doi.org/10.1021/acscatal.4c02955</link>
+      <description>Hiroyuki Miyamura, Aditya Sharma, Masasuke Takata, Rokuro Kajiyama, Sh&#363; Kobayashi, Yoshihiro Kon, ACS catalysis. None(None)] 2024. https://openalex.org/W4399933284
+
+                Anthraquinone derivatives are classes of compounds employed in the production of valuable materials. Leuco-quinizarin, the 2-electron-reduced form of quinizarin (1,4-dihydroxy-anthraquinone), is a highly active and useful reactant for the synthesis of variety of anthraquinone derivatives. However, conventional methods of leuco-quinizarin synthesis require stoichiometric amounts of inorganic reductants and acids or bases. We developed Pt/DMPSi-Al2O3 and Pt-Ni/DMPSi-Al2O3 as highly active and selective heterogeneous catalysts for the hydrogenation of quinizarins to leuco-quinizarins under neutral and continuous-flow conditions. Remarkably, bimetallic effects of Ni and Pt nanoparticle systems were highlighted in the selective hydrogenation of the substituted quinizarin. In addition, the continuous-flow synthesis of leuco-quinizarin and its derivatization reaction were integrated to be a fully continuous process using flow-batch-separator unified reactors.</description>
+      <author>Hiroyuki Miyamura, Aditya Sharma, Masasuke Takata, Rokuro Kajiyama, Sh&#363; Kobayashi, Yoshihiro Kon</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02955</guid>
+    </item>
+    <item>
+      <title>Hexa-Fe(III) Carboxylate Complexes Facilitate Aerobic Hydrocarbon Oxidative Functionalization: Rh Catalyzed Oxidative Coupling of Benzene and Ethylene to Form Styrene</title>
+      <link>https://doi.org/10.1021/acscatal.4c02355</link>
+      <description>Marc T. Bennett, K. Park, Charles B. Musgrave, Jack W. Brubaker, Diane A. Dickie, William A. Goddard, T. Brent Gunnoe, ACS catalysis. None(None)] 2024. https://openalex.org/W4399938552
+
+                No abstract</description>
+      <author>Marc T. Bennett, K. Park, Charles B. Musgrave, Jack W. Brubaker, Diane A. Dickie, William A. Goddard, T. Brent Gunnoe</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02355</guid>
+    </item>
+    <item>
+      <title>Synergy between Br&#248;nsted Acid Sites and Carbonaceous Deposits during Skeletal 1-Butene Isomerization over Ferrierite</title>
+      <link>https://doi.org/10.1021/acscatal.4c01898</link>
+      <description>Karoline L. Hebisch, Risha Goel, Kinga Go&#322;&#261;&#808;bek, Pawel A. Chmielniak, Carsten Sievers, ACS catalysis. None(None)] 2024. https://openalex.org/W4399970689
+
+                No abstract</description>
+      <author>Karoline L. Hebisch, Risha Goel, Kinga Go&#322;&#261;&#808;bek, Pawel A. Chmielniak, Carsten Sievers</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01898</guid>
+    </item>
+    <item>
+      <title>Micellar N-Heterocyclic Carbene-like Organic Catalysis from Polymeric Nanoreactors Immobilizing Benzimidazolium Acetate Motifs in Their Core</title>
+      <link>https://doi.org/10.1021/acscatal.4c00259</link>
+      <description>Anne-Laure Wirotius, Romain Lambert, Thomas Dard&#233;, Simon Harrisson, Daniel Taton, ACS catalysis. None(None)] 2024. https://openalex.org/W4399977853
+
+                No abstract</description>
+      <author>Anne-Laure Wirotius, Romain Lambert, Thomas Dard&#233;, Simon Harrisson, Daniel Taton</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00259</guid>
     </item>
   </channel>
 </rss>
