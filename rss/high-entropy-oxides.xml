@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Jun 2024 01:08:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:08:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>High-Entropy Perovskite Oxides as a Family of Electrocatalysts for Efficient and Selective Nitrogen Oxidation</title>
+      <link>https://doi.org/10.1021/acsnano.4c02231</link>
+      <description>Hui Zheng, Yunxia Liu, Zhuang Ma, Elke Debroye, Jinyu Ye, Longsheng Zhang, Tianxi Liu, ACS nano. None(None)] 2024. https://openalex.org/W4399957749
+
+                Electrocatalytic nitrogen oxidation reaction (NOR) can convert nitrogen (N2) into nitrate (NO3&#8211;) under ambient conditions, providing an attractive approach for synthesis of NO3&#8211;, alternative to the current approach involving the harsh Haber&#8211;Bosch and Ostwald oxidation processes that necessitate high temperature, high pressure, and substantial carbon emission. Developing efficient NOR catalysts is a prerequisite, which remains a formidable challenge, owing to the weak activation/dissociation of N2. A variety of NOR electrocatalysts have been developed, but their NOR kinetics are still extremely sluggish, resulting in inferior Faradaic Efficiencies. Here, we report a high-entropy Ru-based perovskite oxide (denoted as Ru-HEP) that can function as a high-performance NOR catalyst and exhibit a high NO3&#8211; yield rate of 39.0 &#956;mol mg&#8211;1 h&#8211;1 with a Faradaic Efficiency of 32.8%. Both our experimental results and theoretical calculations suggest that the high-entropy configuration of Ru-HEP perovskite oxide can markedly enhance the oxygen-vacancy concentration, where the Ru sites and their neighboring oxygen vacancies can serve as unsaturated centers and decrease the overall energy barrier for N2 electrooxidation, thereby leading to promoted NOR kinetics. This work presents an alternative avenue for promoting NOR catalysis on perovskite oxides through the high-entropy engineering strategy.</description>
+      <author>Hui Zheng, Yunxia Liu, Zhuang Ma, Elke Debroye, Jinyu Ye, Longsheng Zhang, Tianxi Liu</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c02231</guid>
+    </item>
   </channel>
 </rss>

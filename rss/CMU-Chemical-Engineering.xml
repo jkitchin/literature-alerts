@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Jun 2024 01:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:08:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach</title>
-      <link>https://doi.org/10.1371/journal.pone.0304505</link>
-      <description>Chloe Brown, Colette Bilynsky, Melanie Gainey, Sarah Young, John R. Kitchin, Elizabeth Wayne, PloS one. 19(6)] 2024. https://openalex.org/W4399769525
-
-                The role of macrophages in regulating the tumor microenvironment has spurned the exponential generation of nanoparticle targeting technologies. With the large amount of literature and the speed at which it is generated it is difficult to remain current with the most up-to-date literature. In this study we performed a topic modeling analysis of 854 abstracts of peer-reviewed literature for the most common usages of nanoparticle targeting of tumor associated macrophages (TAMs) in solid tumors. The data spans 20 years of literature, providing a broad perspective of the nanoparticle strategies. Our topic model found 6 distinct topics: Immune and TAMs, Nanoparticles, Imaging, Gene Delivery and Exosomes, Vaccines, and Multi-modal Therapies. We also found distinct nanoparticle usage, tumor types, and therapeutic trends across these topics. Moreover, we established that the topic model could be used to assign new papers into the existing topics, thereby creating a Living Review. This type of &#8220;birds-eye-view&#8221; analysis provides a useful assessment tool for exploring new and emerging themes within a large field.</description>
-      <author>Chloe Brown, Colette Bilynsky, Melanie Gainey, Sarah Young, John R. Kitchin, Elizabeth Wayne</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0304505</guid>
-    </item>
-    <item>
-      <title>Branched&#8208;Tail Lipid Nanoparticles for Intravenous mRNA Delivery to Lung Immune, Endothelial, and Alveolar Cells in Mice</title>
-      <link>https://doi.org/10.1002/adhm.202400225</link>
-      <description>Daria M. Strelkova Petersen, Ryan M. Weiss, Khalid A. Hajj, Sai Gopal Krishna Yerneni, Namit Chaudhary, Alexandra N. Newby, Mariah L. Arral, Kathryn A. Whitehead, Advanced healthcare materials/Advanced Healthcare Materials. None(None)] 2024. https://openalex.org/W4399772948
-
-                Abstract Lipid nanoparticles (LNPs) are proven as safe and effective delivery systems on a global scale. However, their efficacy has been limited primarily to liver and immune cells targets. To extend the potential applicability of mRNA drugs, we have synthesized and examined a library of 580 ionizable lipidoids for delivery to extrahepatocellular targets following intravenous administration. Of these lipidoids, over 40 enabled protein expression in mice, with the majority transfecting the liver. Beyond the liver, several LNPs containing new, branched&#8208;tail ionizable lipidoids potently delivered mRNA to the lungs, with cell&#8208;level specificity depending on helper lipid chemistry. Incorporation of the neutral helper lipid DOPE at 16 mol% enabled highly specific delivery to natural killer and dendritic cells within the lung. Although inclusion of the cationic helper lipid, DOTAP, improved lung tropism, it did so at the expense of cell specificity, resulting in equal transfection of endothelial and lymphoid cells. DOTAP formulations were also less favorable than DOPE formulations in that they elevated liver enzyme level and the overall cytokine response. Together, these data identify a new branched&#8208;tailed LNP formulation with a unique ability to selectively transfect lung immune cell populations without the use of toxicity&#8208;prone cationic helper lipids. This novel vehicle may unlock RNA therapies for lung diseases associated with immune cell dysregulation, including cancer, viral infections, and autoimmune disorders. This article is protected by copyright. All rights reserved</description>
-      <author>Daria M. Strelkova Petersen, Ryan M. Weiss, Khalid A. Hajj, Sai Gopal Krishna Yerneni, Namit Chaudhary, Alexandra N. Newby, Mariah L. Arral, Kathryn A. Whitehead</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adhm.202400225</guid>
-    </item>
     <item>
       <title>Matheuristic Approaches for Multi-Product 3-Dimensional Container Loading Problem</title>
       <link>https://doi.org/10.2139/ssrn.4871843</link>
@@ -42,7 +22,7 @@
       <link>https://doi.org/10.1016/j.oneear.2024.05.015</link>
       <description>Manish Shrivastava, Jiwen Fan, Yuwei Zhang, Quazi Z. Rasool, Bin Zhao, Jianjian Shen, Jeffrey R. Pierce, Shantanu H. Jathar, Ali Akherati, Jie Zhang, Rahul A. Zaveri, Brian Gaudet, Ying Liu, Meinrat O. Andreae, Mira L. P&#246;hlker, Neil M. Donahue, Yuan Wang, John H. Seinfeld, One earth. 7(6)] 2024. https://openalex.org/W4399887232
 
-                No abstract</description>
+                New particle formation (NPF) in fire smoke is thought to be unlikely due to large condensation and coagulation sinks that scavenge molecular clusters. We analyze aircraft measurements over the Amazon and find that fires significantly enhance NPF and ultrafine particle (UFP &lt; 50 nm diameter) numbers compared to background conditions, contrary to previous understanding. We identify that the nucleation of dimethylamine with sulfuric acid, which is aided by the formation of extremely low volatility organics in biomass-burning smoke, can overcome the large condensation and coagulation sinks and explain aircraft observations. We show that freshly formed clusters rapidly grow to UFP sizes through biomass-burning secondary organic aerosol formation, leading to a 10-fold increase in UFP number concentrations. We find a contrasting effect of UFPs on deep convective clouds compared to the larger particles from primary emissions for the case investigated here. UFPs intensify the deep convective clouds and precipitation due to increased condensational heating, while larger particles delay and reduce precipitation.</description>
       <author>Manish Shrivastava, Jiwen Fan, Yuwei Zhang, Quazi Z. Rasool, Bin Zhao, Jianjian Shen, Jeffrey R. Pierce, Shantanu H. Jathar, Ali Akherati, Jie Zhang, Rahul A. Zaveri, Brian Gaudet, Ying Liu, Meinrat O. Andreae, Mira L. P&#246;hlker, Neil M. Donahue, Yuan Wang, John H. Seinfeld</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.oneear.2024.05.015</guid>
@@ -76,6 +56,26 @@
       <author>Meredith Schervish, Martin Heinritzi, Dominik Stolzenburg, Lubna Dada, Mingyi Wang, Qing Ye, Victoria Hofbauer, Jenna DeVivo, Federico Bianchi, Sophia Brilke, Jonathan Duplissy, Imad El Haddad, Henning Finkenzeller, Xu&#8208;Cheng He, A. N. Kvashnin, Changhyuk Kim, J. Kirkby, Markku Kulmala, Katrianne Lehtipalo, Brandon Lopez, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Bernhard Mentler, Ugo Molteni, Wei Nie, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Rainer Volkamer, Andrea C. Wagner, Paul M. Winkler, Chao Yan, Neil M. Donahue</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ea00056k</guid>
+    </item>
+    <item>
+      <title>Recycling Rare Earth Elements from End-of-Life Electric and Hybrid Electric Vehicle Motors</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50219-2</link>
+      <description>Chris Laliwala, Ana I. Torres, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4399991313
+
+                No abstract</description>
+      <author>Chris Laliwala, Ana I. Torres</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50219-2</guid>
+    </item>
+    <item>
+      <title>Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence Models</title>
+      <link>https://doi.org/10.2139/ssrn.4873106</link>
+      <description>Jaspreet Pannu, D. Shaun Bloomfield, Aibin Zhu, Robert MacKnight, Gabriel Gomes, Anita Cicero, Thomas V. Inglesby, No host. None(None)] 2024. https://openalex.org/W4400015840
+
+                No abstract</description>
+      <author>Jaspreet Pannu, D. Shaun Bloomfield, Aibin Zhu, Robert MacKnight, Gabriel Gomes, Anita Cicero, Thomas V. Inglesby</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4873106</guid>
     </item>
   </channel>
 </rss>

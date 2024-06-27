@@ -1,157 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jun 26 01:08:42 2024
+Created on Thu Jun 27 01:08:52 2024
 
-Found 43 results from 2024-06-19 to 2024-06-26
+Found 41 results from 2024-06-20 to 2024-06-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Theoretical Exploration of the Origin of Alkaline Dependence in the Oxidation of 5-Hydroxymethylfurfural Catalyzed by NiO2Hx  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399760359
-:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Desulfurization Technologies for Fuels, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-06-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00940")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399760359"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399760359"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399760359"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399760359 (Open access: False)
-    
-[[https://openalex.org/A5025818509][Si Wang]], [[https://openalex.org/A5038092047][Haisong Feng]], [[https://openalex.org/A5007836409][Tianyong Liu]], [[https://openalex.org/A5063733227][Yuan Deng]], [[https://openalex.org/A5026532264][Meng Zhang]], [[https://openalex.org/A5044492107][Sylvia Zhao]], [[https://openalex.org/A5044954885][Juan Han]], [[https://openalex.org/A5010723453][Xin Zhang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00940 
-     
-Alkaline dependence is a common phenomenon in the electrochemical oxidation of biomass, and investigating the influence of alkalinity on the oxidation mechanisms is crucial for enhancing both the activity and the selectivity of biomass oxidation. Herein, we constructed five NiO2Hx catalysts under different alkaline environments (pH ≈ 9–13) and employed density functional theory methods to investigate the reaction mechanisms of the selective oxidation of the biomass platform molecule 5-hydroxymethylfurfural (HMF). The origin of alkaline dependence in HMF electrochemical oxidation was analyzed, and the results indicate that the catalyst alkalinity determines the oxidation pathway of HMF to 2,5-furandicarboxylic acid: under weak alkalinity (pH ≈ 9–11), the adsorption and activation of the alcohol group in HMF are more favorable, resulting in preferential oxidation of the alcohol group; under strong alkalinity (pH ≈ 11–13), the aldehyde group of HMF is more prone to adsorb and activate on the catalyst surface, resulting in a predominant aldehyde oxidation. With the increase in the alkalinity of NiO2Hx, there is a decrease of H atom coverage and an increase in the valence state of Ni, resulting in a transformation in the preferential oxidation pathway of HMF from the alcohol group to the aldehyde group as well as a transition in the oxidation mechanism from direct oxidation to indirect oxidation. NiOOH under moderately alkaline environment effectively reduces the Gibbs free energy change for C–H/O–H bonds cleavage, lowering the reaction energy. It significantly enhances the oxidation ability of alcohol and aldehyde groups, exhibiting the highest catalytic performance in the conversion of HMF to FDCA. The study not only provide a comprehensive explanation for the alkaline dependence of HMF oxidation but also offer guidance on how to rationally design catalysts for improving oxidative performance through alkalinity adjustments.    
-
-    
-
-* CeO2/Ni Inverse Catalyst as a Highly Active and Stable Ru-free Catalyst for Ammonia Decomposition  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399766265
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-06-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02313")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399766265"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399766265"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399766265"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399766265 (Open access: False)
-    
-[[https://openalex.org/A5022644703][Hongwang Liu]], [[https://openalex.org/A5053209536][Rongrong Zhang]], [[https://openalex.org/A5047101692][Sibao Liu]], [[https://openalex.org/A5018069202][Guozhu Liu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02313 
-     
-Catalytic ammonia decomposition is an efficient way to produce clean hydrogen, but the design of ammonia decomposition catalysts is limited by the high cost of noble metals and the low activity. Herein, we report a CeO2/Ni inverse catalyst prepared by the coprecipitation method, exhibiting a high hydrogen production rate of 79.6 mmol gcat–1 min–1 at 500 °C, which is better than traditional supported Ni-based catalysts and even many of the Ru-based catalysts reported in the literature. In addition, this inverse catalyst showed catalytic stability for 100 h continuous reaction at 600 °C. Systematic catalyst characterizations revealed that the inverse CeO2/Ni catalyst exhibits small cerium oxide nanoparticle islands supported on the Ni nanoparticles. The inverse structure confers enhanced metal–support interaction and abundant Ni-CeO2 interface sites, which facilitate the generation of highly concentrated oxygen vacancies and abundant electron-rich Ni atoms at the interface under reduction conditions. These features endow the CeO2/Ni inverse configuration possessing increased number of adsorption sites for NH3 molecules, enhancing N–H bond breaking, and facilitating the recombination desorption of N and H adatoms, thereby accelerating the reaction rate. This work highlights the significance of constructing a rational configuration between the active metal nanoparticles and oxides to enhance the catalytic efficiency for NH3 decomposition.    
-
-    
-
-* Ultrafast Electronic and Vibrational Spectroscopy of Electrochemical Transformations on a Metal-Oxide Surface during Oxygen Evolution Catalysis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399767385
-:TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Quantum Coherence in Photosynthesis and Aqueous Systems
-:PUBLICATION_DATE: 2024-06-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05931")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399767385"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399767385"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399767385"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399767385 (Open access: False)
-    
-[[https://openalex.org/A5066895569][Tanja Cuk]], [[https://openalex.org/A5012639606][Michael Paolino]], [[https://openalex.org/A5082056990][Suryansh Singh]], [[https://openalex.org/A5060242817][James J. P. Stewart]], [[https://openalex.org/A5054037567][Xihan Chen]], [[https://openalex.org/A5088201110][Ilya Vinogradov]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05931 
-     
-Oxygen evolution catalysis fuels the planet through photosynthesis and is a primary means for hydrogen storage in energy technologies. Yet the detection of intermediates of the oxygen evolution reaction (OER) central to the catalytic mechanism has been an ongoing challenge. This tutorial and minireview covers the relevance of ultrafast electronic and vibrational spectroscopy of the electrochemical transformations of a metal-oxide surface undergoing OER. Here, we highlight the ultrafast trigger and probes of the electron-doped SrTiO3/electrolyte as the primary example in which light probes across the electromagnetic spectrum have detected intermediate forms. We compare the results to other early transition-metal-oxide surfaces when they exist for select probes and longer timescales. The first part covers how the catalytic reaction is triggered by ultrafast light pulses, describing the semiconducting depletion and electrolyte Helmholtz layers. The second part covers the detection of the intermediates that occur upon electron and proton transfer from an adsorbed water species by transient spectroscopy. Their detection by a broadband visible probe, a mid-infrared evanescent wave, and a coherent acoustic wave respectively targets electronic states, vibrational levels, and lattice strain respectively. One of the aims is a tutorial on how these measurements are made and to what extent they allow for the interpretation of experimental spectra by intermediate configurations predicted by theory. Another aim is to describe what these experiments directly recommend in terms of future efforts to visualize the OER intermediates and their dynamics.    
-
-    
-
-* Rational Control of Oxygen Vacancy Density in In2O3 to Boost Methanol Synthesis from CO2 Hydrogenation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399771091
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Catalytic Carbon Dioxide Hydrogenation
-:PUBLICATION_DATE: 2024-06-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01929")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399771091"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399771091"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399771091"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399771091 (Open access: False)
-    
-[[https://openalex.org/A5073634925][Wenhang Wang]], [[https://openalex.org/A5038223483][Keke Huo]], [[https://openalex.org/A5017535932][Yang Wang]], [[https://openalex.org/A5009524011][Jinghao Xie]], [[https://openalex.org/A5039749395][Xu Sun]], [[https://openalex.org/A5028463150][Yingluo He]], [[https://openalex.org/A5091917438][Meng Li]], [[https://openalex.org/A5019017874][Jie Liang]], [[https://openalex.org/A5053277179][Xinhua Gao]], [[https://openalex.org/A5067123324][Guohui Yang]], [[https://openalex.org/A5002152678][Si‐Min Lin]], [[https://openalex.org/A5082279771][Fuyang Cao]], [[https://openalex.org/A5052437298][Jian Hu]], [[https://openalex.org/A5063554744][Mingbo Wu]], [[https://openalex.org/A5054090836][Noritatsu Tsubaki]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01929 
-     
-Oxygen vacancies (Ov) in reducible metal oxides are the vital active sites for methanol synthesis via a CO2 hydrogenation technology. However, the relationship between the density of Ov and the methanol synthesis performance is still ambiguous, and it still shows a lack of a versatile strategy to precisely tailor the number of Ov. In this study, with In2O3 as a representatively catalytic component, the density functional theory computation confirms that the Ov property, especially Ov density, is pivotal to enhancing methanol selectivity of CO2 hydrogenation by suppressing the undesirable reverse water–gas shift reaction for CO formation, which is attributed to the unique electronic density of In atoms around Ov. To verify the theoretical results, we report a protocol to optimize the concentration of Ov on In2O3 by sequential carbonization and oxidation (SCO) treatments of In-based metal–organic frameworks, during which the consumption of carbon species and the structural reconstruction of the In2O3 crystal regulated the particle size and Ov concentration of In2O3 by varying the oxidation temperature. The In2O3-5 catalyst carbonized and oxidized at 500 °C exhibits good methanol selectivity (72.3%) at a CO2 conversion of 9.9% under 330 °C, 3 MPa, and high space velocity of 12,000 L–1 kgcat–1 h–1. Multiple in situ characterizations clarify that the proposed Ov property regulating the SCO strategy is convenient to boost methanol synthesis by altering the CO2 hydrogenation process to the HCOO* intermediate-dominated pathway. Our work provides the catalyst design strategy and will shed light on the rational design of reducible metal oxide-based catalysts with a controllable Ov density.    
-
-    
-
-* One-Step Hydrothermal Synthesis of Sn-Doped Sb2Se3 for Solar Hydrogen Production  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399771389
-:TOPICS: Thin-Film Solar Cell Technology, Formation and Properties of Nanocrystals and Nanostructures, Applications of Quantum Dots in Nanotechnology
-:PUBLICATION_DATE: 2024-06-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01762")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399771389"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399771389"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399771389"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399771389 (Open access: True)
-    
-[[https://openalex.org/A5037685122][Zhenbin Wang]], [[https://openalex.org/A5044053298][Sanghyun Bae]], [[https://openalex.org/A5017423404][Miloš Baljozović]], [[https://openalex.org/A5056185071][Pardis Adams]], [[https://openalex.org/A5017830410][David Yong]], [[https://openalex.org/A5009532756][Erin Service]], [[https://openalex.org/A5027849717][Thomas Moehl]], [[https://openalex.org/A5000887480][Wenzhe Niu]], [[https://openalex.org/A5024625560][S. David Tilley]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01762  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01762][pdf]])
-     
-No abstract    
-
-    
-
-* QM/MM MD Study on the Reaction Mechanism of Thymidine Phosphorylation Catalyzed by the Enzyme Thermotoga maritima Thymidine Kinase 1  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399783848
-:TOPICS: Nucleotide Metabolism and Enzyme Regulation, The p53 Signaling Network in Cancer Research, Macromolecular Crystallography Techniques
-:PUBLICATION_DATE: 2024-06-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01867")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399783848"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399783848"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399783848"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399783848 (Open access: True)
-    
-[[https://openalex.org/A5052238101][Samanta Makurat]], [[https://openalex.org/A5035051171][Rui P. P. Neves]], [[https://openalex.org/A5048088473][Maria J. Ramos]], [[https://openalex.org/A5058691299][Janusz Rak]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01867  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01867][pdf]])
-     
-Here, we report mechanistic studies on type II thymidine kinase, Thermotoga maritima TmTK, aiming to predict barriers for the enzyme-catalyzed reaction. Extensive umbrella sampling QM/MM MD simulations (PBE/GPW/DZVP-GTH-PBE:AMBER) resulted in a free energy barrier for the phosphorylation reaction's rate-limiting step of 16.6 kcal·mol–1, which is in an excellent agreement with the experimentally reported value. An atomistic picture provided by our simulations reveals that the reaction follows a concerted, dissociative SN2 reaction mechanism in which the 5′-oxygen of the ribose moiety in thymidine is phosphorylated by the γ-phosphate of ATP, while assisted by an asynchronous deprotonation of the 5′-hydroxyl by a GLU84 base. The reaction was calculated to be endergonic, with a reaction free energy of 10.8 kcal·mol–1, and it can be followed by low-barrier processes that promote the unbinding of the phosphorylated thymidine product, namely, the deprotonation of the GLU84 by the thymidine-phosphate that is accompanied by a weaker binding of the product to the Mg2+ ion.    
-
-    
-
-* Bottom-Up Synthesis of Platinum Dual-Atom Catalysts on Cerium Oxide  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399783895
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-06-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01840")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399783895"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399783895"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399783895"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399783895 (Open access: True)
-    
-[[https://openalex.org/A5006779485][Martijn J. Mekkering]], [[https://openalex.org/A5059492051][Petrus C. M. Laan]], [[https://openalex.org/A5072929835][Alessandro Troglia]], [[https://openalex.org/A5046319779][Roland Bliem]], [[https://openalex.org/A5086866413][Ali Can Kızılkaya]], [[https://openalex.org/A5077972241][Gadi Rothenberg]], [[https://openalex.org/A5060681396][Ning Yan]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01840  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01840][pdf]])
-     
-No abstract    
-
-    
 
 * Formation of (Rh–Fe)–FeOx Complex Sites Enables Methanol Synthesis from CO2  :ACS_Catalysis:
 :PROPERTIES:
@@ -192,27 +45,6 @@ OpenAlex: https://openalex.org/W4399804824 (Open access: True)
 [[https://openalex.org/A5084069145][Philipp A. Haugg]], [[https://openalex.org/A5024876786][Jan Smyczek]], [[https://openalex.org/A5016097713][P. Hubert]], [[https://openalex.org/A5009247208][Carsten Schröder]], [[https://openalex.org/A5057749007][Swetlana Schauermann]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01441  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01441][pdf]])
      
 Hydrogenation of a normally highly stable carbonyl group is an important step in many technological applications, including emerging molecular systems for reversible hydrogen storage. In this report, we present a mechanistic study of low-temperature hydrogenation of carbonyl compounds over Pd, proceeding via keto–enol tautomerization in the first step. The specific focus of this study is on the role of subsurface hydrogen absorbed in the nearest region below the Pd surface. Employing a combination of real space microscopic and operando spectroscopic surface sensitive techniques, as well as molecular beams, we show that subsurface H plays a crucial role in both keto–enol tautomerization and hydrogenation of the carbonyl compound acetylpyridine on the Pd(111) model catalyst. We demonstrate that a growing amount of subsurface H results in an enhanced abundance of enol species followed by hydrogenation already at cryogenic temperatures. In contrast, if only H adsorbed on the surface is present, no hydrogenation occurs, and substantially smaller amounts of enol species are formed. The population of subsurface H is also accompanied by a change in the mechanism of enol stabilization via hydrogen bonding: while in the presence of subsurface H specific enol-containing dimers are predominately formed, which strongly interact via the enol-acetyl or enol–enol groups, in the absence of subsurface H, a weaker interaction between the adsorbates occurs, which is realized mainly via the enol group of one molecule with a H atom belonging to the pyridine ring of the neighboring adsorbate. The observed strongly correlated behavior between the growing concentration of subsurface H, enhanced abundance of the enol form of acetylpyridine, and the onset of hydrogenation prove the crucial role of subsurface H species in the low-barrier hydrogenation pathway of carbonyl compounds. The obtained atomistic-level insights offer a prospect of controllable low-temperature hydrogenation of carbonyl compounds by tuning the abundance of subsurface H, which has not been available so far.    
-
-    
-
-* Cobalt(II) Nanoclusters Incorporated in Ordered Mesoporous Al2O3 for Stable and Coke-Resistant Propane Dehydrogenation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399806935
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-06-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02067")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399806935"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399806935"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399806935"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399806935 (Open access: True)
-    
-[[https://openalex.org/A5027684063][Fabian Ebert]], [[https://openalex.org/A5044980923][Piyush Ingale]], [[https://openalex.org/A5070027451][Sarah Vogl]], [[https://openalex.org/A5039386673][Sebastian Praetz]], [[https://openalex.org/A5034033016][Christopher Schlesiger]], [[https://openalex.org/A5099070494][Nils Pfister]], [[https://openalex.org/A5021426343][Raoul Naumann d’Alnoncourt]], [[https://openalex.org/A5065326930][Beatriz Roldán Cuenya]], [[https://openalex.org/A5085044596][Arne Thomas]], [[https://openalex.org/A5054371064][Esteban Gioria]], [[https://openalex.org/A5061251166][Frank Rosowski]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02067  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02067][pdf]])
-     
-Due to their availability, low cost, and activity, cobalt-based catalysts are a promising alternative to platinum for the industrial propane dehydrogenation processes. However, their low stability due to sintering, phase transformation, and coke deposition leads to severe deactivation. In this work, the synthesis of amorphous, ordered mesoporous alumina with stabilized Co2+ nanoclusters (Co-m-Al2O3) via an evaporation-induced self-assembly synthesis route is presented. The ordered mesoporous alumina is characterized for containing a large amount of defective pentacoordinate Al3+ sites and a small amount of strong acid sites. The incorporation of Co2+ clusters within the m-Al2O3 structure enhances the dispersion and stability and preserves their reduction even after prolonged time on stream. This leads to a highly selective and steady catalytic performance in the propane dehydrogenation reaction under industrial-relevant conditions. A significantly low deactivation rate of 0.53 d–1 with stable propylene selectivity of 95% is observed after 23 h, resulting in a 117% higher space–time yield toward propylene compared to the state-of-the-art impregnated Co/γ-Al2O3 catalyst. Furthermore, Co-m-Al2O3 leads to 4.6 times less coke formation, measured in situ for the first time. The detailed study of the nature of the cobalt sites, together with the acidic properties of the alumina supports, provides a deeper understanding of cobalt-based catalysts for dehydrogenation reactions.    
 
     
 
@@ -720,24 +552,24 @@ No abstract
 
     
 
-* Impact of Adsorbed CO on the Conversion of CO2 to Ethylene on 4,5-Dicyanoimidazole Coordinated Cu  :ACS_Catalysis:
+* Cobalt(II) Nanoclusters Incorporated in Ordered Mesoporous Al2O3 for Stable and Coke-Resistant Propane Dehydrogenation  :ACS_Catalysis:
 :PROPERTIES:
-:UUID: https://openalex.org/W4399773474
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-06-18
+:UUID: https://openalex.org/W4399806935
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Desulfurization Technologies for Fuels
+:PUBLICATION_DATE: 2024-06-19
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02042")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02067")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399773474"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399773474"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399773474"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399806935"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399806935"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399806935"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4399773474 (Open access: False)
+OpenAlex: https://openalex.org/W4399806935 (Open access: True)
     
-[[https://openalex.org/A5058003997][Yuhang Jiang]], [[https://openalex.org/A5034972191][Yating Wang]], [[https://openalex.org/A5017541508][Wei Chen]], [[https://openalex.org/A5035363465][Rongzhen Chen]], [[https://openalex.org/A5091738441][Yu Hang Li]], [[https://openalex.org/A5009144836][Chunzhong Li]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02042 
+[[https://openalex.org/A5027684063][Fabian Ebert]], [[https://openalex.org/A5044980923][Piyush Ingale]], [[https://openalex.org/A5070027451][Sarah Vogl]], [[https://openalex.org/A5039386673][Sebastian Praetz]], [[https://openalex.org/A5034033016][Christopher Schlesiger]], [[https://openalex.org/A5099070494][Nils Pfister]], [[https://openalex.org/A5021426343][Raoul Naumann d’Alnoncourt]], [[https://openalex.org/A5065326930][Beatriz Roldán Cuenya]], [[https://openalex.org/A5085044596][Arne Thomas]], [[https://openalex.org/A5054371064][Esteban Gioria]], [[https://openalex.org/A5061251166][Frank Rosowski]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02067  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02067][pdf]])
      
-Upgrading carbon dioxide (CO2) into multicarbon products by using renewable electricity provides a pathway to producing fuel and chemicals. In fact, input CO2 in alkaline and neutral reactors forms carbonates with hydroxide, resulting in lower carbon efficiency, so acidic electrolytes are considered as a strategy to solve this problem. However, hydrogen evolution reaction competition and lower Faradaic efficiency (FE) of the target product limit the development of acidic electrolytes. Here, we report an accessible composite catalyst of a commercial copper (Cu) powder modified by a small molecule 4,5-dicyanoimidazole (DCI) that can maintain a high FE for ethylene (C2H4) even in strong acids with pH ≤ 1. We achieve CO2 electroreduction on the DCI–Cu catalyst with an FE of 57% toward C2H4 at a current density of 200 mA cm–2 at pH 1. By in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy measurements, compressed bonding of the *CO intermediate has been observed, which leads to more C–C bonding. The density functional theory calculation results further prove that the adsorbed *CO intermediates on the DCI–Cu catalyst are closer to the reaction sites. Unfortunately, this catalyst still requires improvement in terms of long-term operation. However, we anticipate that this may be generalized to enable molecular strategies to complement metal-based catalysts designed for strong acidic conditions by stabilizing intermediates.    
+Due to their availability, low cost, and activity, cobalt-based catalysts are a promising alternative to platinum for the industrial propane dehydrogenation processes. However, their low stability due to sintering, phase transformation, and coke deposition leads to severe deactivation. In this work, the synthesis of amorphous, ordered mesoporous alumina with stabilized Co2+ nanoclusters (Co-m-Al2O3) via an evaporation-induced self-assembly synthesis route is presented. The ordered mesoporous alumina is characterized for containing a large amount of defective pentacoordinate Al3+ sites and a small amount of strong acid sites. The incorporation of Co2+ clusters within the m-Al2O3 structure enhances the dispersion and stability and preserves their reduction even after prolonged time on stream. This leads to a highly selective and steady catalytic performance in the propane dehydrogenation reaction under industrial-relevant conditions. A significantly low deactivation rate of 0.53 d–1 with stable propylene selectivity of 95% is observed after 23 h, resulting in a 117% higher space–time yield toward propylene compared to the state-of-the-art impregnated Co/γ-Al2O3 catalyst. Furthermore, Co-m-Al2O3 leads to 4.6 times less coke formation, measured in situ for the first time. The detailed study of the nature of the cobalt sites, together with the acidic properties of the alumina supports, provides a deeper understanding of cobalt-based catalysts for dehydrogenation reactions.    
 
     
 
@@ -906,5 +738,131 @@ OpenAlex: https://openalex.org/W4399977853 (Open access: False)
 [[https://openalex.org/A5003736750][Anne-Laure Wirotius]], [[https://openalex.org/A5058862047][Romain Lambert]], [[https://openalex.org/A5099437929][Thomas Dardé]], [[https://openalex.org/A5010776490][Simon Harrisson]], [[https://openalex.org/A5013580225][Daniel Taton]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00259 
      
 No abstract    
+
+    
+
+* Efficient and Stable Production of Long-Chain Hydrocarbons over Hydrophobic Carbon-Encapsulated TiO2-Supported Ru Catalyst in Fischer–Tropsch Synthesis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400000990
+:TOPICS: Catalytic Carbon Dioxide Hydrogenation, Desulfurization Technologies for Fuels, Catalytic Conversion of Biomass to Fuels and Chemicals
+:PUBLICATION_DATE: 2024-06-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02979")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400000990"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400000990"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400000990"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400000990 (Open access: False)
+    
+[[https://openalex.org/A5070071735][Yunhao Liu]], [[https://openalex.org/A5067943858][Xincheng Li]], [[https://openalex.org/A5068697796][Qingpeng Cheng]], [[https://openalex.org/A5054278618][Ye Tian]], [[https://openalex.org/A5034511665][Yingtian Zhang]], [[https://openalex.org/A5022960964][Tao Ding]], [[https://openalex.org/A5067783441][Song Song]], [[https://openalex.org/A5005078126][Kepeng Song]], [[https://openalex.org/A5014659532][Xingang Li]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02979 
+     
+No abstract    
+
+    
+
+* Alleviating Charge Recombination Caused by Unfavorable interaction of P and Sn in Hematite for Photoelectrochemical Water Oxidation  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400001152
+:TOPICS: Solar Water Splitting Technology, Photocatalytic Materials for Solar Energy Conversion, Acid Mine Drainage Remediation and Biogeochemistry
+:PUBLICATION_DATE: 2024-06-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01150")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400001152"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400001152"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400001152"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400001152 (Open access: False)
+    
+[[https://openalex.org/A5064374729][Ji-Hun Kang]], [[https://openalex.org/A5029152694][Balaji G. Ghule]], [[https://openalex.org/A5099472105][Seung Gyu Gyeong]], [[https://openalex.org/A5021707167][Seong‐Ji Ha]], [[https://openalex.org/A5046112894][Ji‐Hyun Jang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01150 
+     
+No abstract    
+
+    
+
+* A Three-Dimensional Azo-Bridged Porous Porphyrin Framework Supported Silver Nanoparticles as the State-of-the-Art Catalyst for the Carboxylative Cyclization of Propargylic Alcohols with CO2 under Ambient Conditions  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400002724
+:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels, Homogeneous Catalysis with Transition Metals
+:PUBLICATION_DATE: 2024-06-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02391")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400002724"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400002724"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400002724"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400002724 (Open access: False)
+    
+[[https://openalex.org/A5064527610][Yiying Yang]], [[https://openalex.org/A5053287022][Yingyin Li]], [[https://openalex.org/A5026623896][Yinghua Lu]], [[https://openalex.org/A5074754590][Zhiyuan Chen]], [[https://openalex.org/A5001319369][Rongchang Luo]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02391 
+     
+No abstract    
+
+    
+
+* Electrochemical NADH Regeneration Mediated by Pyridine Amidate Iridium Complexes Interconverting 1,4- and 1,6-NADH  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400007176
+:TOPICS: Homogeneous Catalysis with Transition Metals, Fuel Cell Membrane Technology, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-06-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02548")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400007176"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400007176"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400007176"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400007176 (Open access: False)
+    
+[[https://openalex.org/A5043309794][Caterina Trotta]], [[https://openalex.org/A5052592745][Gabriel Menendez Rodriguez]], [[https://openalex.org/A5062509948][Cristiano Zuccaccia]], [[https://openalex.org/A5046771754][Alceo Macchioni]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02548 
+     
+No abstract    
+
+    
+
+* Enhancing CO2 Electroreduction Performance through Si-Doped CuO: Stabilization of Cu+/Cu0 Sites and Improved C2 Product Selectivity  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400010017
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Formation and Properties of Nanocrystals and Nanostructures
+:PUBLICATION_DATE: 2024-06-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01961")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400010017"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400010017"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400010017"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400010017 (Open access: False)
+    
+[[https://openalex.org/A5062964912][Long Cheng]], [[https://openalex.org/A5034037107][Rong Wang]], [[https://openalex.org/A5065039738][Wenzhe Si]], [[https://openalex.org/A5043647024][Yanxi Deng]], [[https://openalex.org/A5044717730][Junhua Li]], [[https://openalex.org/A5063483273][Yue Peng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01961 
+     
+No abstract    
+
+    
+
+* Mass-Transfer Enhancement in the CO2 Oxidative Dehydrogenation of Propane over GaN Supported on Zeolite Nanosheets with a Short b-Axis and Hierarchical Pores  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400019116
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Zeolite Chemistry and Catalysis
+:PUBLICATION_DATE: 2024-06-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02599")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400019116"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400019116"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400019116"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400019116 (Open access: False)
+    
+[[https://openalex.org/A5012021917][Zhan‐Jun Zhu]], [[https://openalex.org/A5090737269][Zhen‐Hong He]], [[https://openalex.org/A5080899164][Yajie Tian]], [[https://openalex.org/A5076886276][Sen-Wang Wang]], [[https://openalex.org/A5028746034][Yongchang Sun]], [[https://openalex.org/A5054296228][Kuan Wang]], [[https://openalex.org/A5040760076][Weitao Wang]], [[https://openalex.org/A5047819189][Zhifang Zhang]], [[https://openalex.org/A5044887427][Jiajie Liu]], [[https://openalex.org/A5027821063][Zhao‐Tie Liu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02599 
+     
+The CO2 oxidative dehydrogenation of propane (CO2–ODHP) is a highly important reaction for not only producing large amounts of propylene but also consuming the CO2 resource. GaN/zeolite catalysts deliver preferable activity in the reaction. However, similar to Pt- and Cr-based catalysts, there are shortcomings such as poor stability and coke accumulation, especially when operated at temperatures higher than 550 °C. Generally, carbon deposition is one of the main reasons for catalyst deactivation. The limited mass transfer greatly aggravates the deposited carbon formation, since carbon precursors could not be removed in time. In the present work, we modified zeolites with a short b-axis and hierarchical pores, which could offer a shorter diffusion distance and pore-rich structure to enhance the mass transfer. Thanks to this enhancement, the catalyst offers an initial propane conversion of 68.0% with a yield of 39.4% to propylene, surpassing other reported GaN/zeolite catalysts to data. Importantly, the catalyst showed a low loss rate of activity and a low amount of deposited carbon, which was easily regenerated compared with those of other catalysts without a short b-axis or hierarchical pores. Density functional theory (DFT) calculations and in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) confirmed that the reaction involves a coupling reaction of direct dehydrogenation and CO2 reduction via reverse water–gas shift reaction, and CO2 participates in the reaction. The present work sheds light on designing an efficient catalyst for CO2–ODHP via a mass transfer-boosted strategy and, importantly, is expected to provide inspiration in constructing a zeolite with a short b-axis and hierarchical pores.    
 
     

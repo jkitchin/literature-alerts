@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Jun 2024 01:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:08:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical Exploration of the Origin of Alkaline Dependence in the Oxidation of 5-Hydroxymethylfurfural Catalyzed by NiO&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c00940</link>
-      <description>Si Wang, Haisong Feng, Tianyong Liu, Yuan Deng, Meng Zhang, Sylvia Zhao, Juan Han, Xin Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399760359
-
-                Alkaline dependence is a common phenomenon in the electrochemical oxidation of biomass, and investigating the influence of alkalinity on the oxidation mechanisms is crucial for enhancing both the activity and the selectivity of biomass oxidation. Herein, we constructed five NiO2Hx catalysts under different alkaline environments (pH &#8776; 9&#8211;13) and employed density functional theory methods to investigate the reaction mechanisms of the selective oxidation of the biomass platform molecule 5-hydroxymethylfurfural (HMF). The origin of alkaline dependence in HMF electrochemical oxidation was analyzed, and the results indicate that the catalyst alkalinity determines the oxidation pathway of HMF to 2,5-furandicarboxylic acid: under weak alkalinity (pH &#8776; 9&#8211;11), the adsorption and activation of the alcohol group in HMF are more favorable, resulting in preferential oxidation of the alcohol group; under strong alkalinity (pH &#8776; 11&#8211;13), the aldehyde group of HMF is more prone to adsorb and activate on the catalyst surface, resulting in a predominant aldehyde oxidation. With the increase in the alkalinity of NiO2Hx, there is a decrease of H atom coverage and an increase in the valence state of Ni, resulting in a transformation in the preferential oxidation pathway of HMF from the alcohol group to the aldehyde group as well as a transition in the oxidation mechanism from direct oxidation to indirect oxidation. NiOOH under moderately alkaline environment effectively reduces the Gibbs free energy change for C&#8211;H/O&#8211;H bonds cleavage, lowering the reaction energy. It significantly enhances the oxidation ability of alcohol and aldehyde groups, exhibiting the highest catalytic performance in the conversion of HMF to FDCA. The study not only provide a comprehensive explanation for the alkaline dependence of HMF oxidation but also offer guidance on how to rationally design catalysts for improving oxidative performance through alkalinity adjustments.</description>
-      <author>Si Wang, Haisong Feng, Tianyong Liu, Yuan Deng, Meng Zhang, Sylvia Zhao, Juan Han, Xin Zhang</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00940</guid>
-    </item>
-    <item>
-      <title>CeO&lt;sub&gt;2&lt;/sub&gt;/Ni Inverse Catalyst as a Highly Active and Stable Ru-free Catalyst for Ammonia Decomposition</title>
-      <link>https://doi.org/10.1021/acscatal.4c02313</link>
-      <description>Hongwang Liu, Rongrong Zhang, Sibao Liu, Guozhu Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399766265
-
-                Catalytic ammonia decomposition is an efficient way to produce clean hydrogen, but the design of ammonia decomposition catalysts is limited by the high cost of noble metals and the low activity. Herein, we report a CeO2/Ni inverse catalyst prepared by the coprecipitation method, exhibiting a high hydrogen production rate of 79.6 mmol gcat&#8211;1 min&#8211;1 at 500 &#176;C, which is better than traditional supported Ni-based catalysts and even many of the Ru-based catalysts reported in the literature. In addition, this inverse catalyst showed catalytic stability for 100 h continuous reaction at 600 &#176;C. Systematic catalyst characterizations revealed that the inverse CeO2/Ni catalyst exhibits small cerium oxide nanoparticle islands supported on the Ni nanoparticles. The inverse structure confers enhanced metal&#8211;support interaction and abundant Ni-CeO2 interface sites, which facilitate the generation of highly concentrated oxygen vacancies and abundant electron-rich Ni atoms at the interface under reduction conditions. These features endow the CeO2/Ni inverse configuration possessing increased number of adsorption sites for NH3 molecules, enhancing N&#8211;H bond breaking, and facilitating the recombination desorption of N and H adatoms, thereby accelerating the reaction rate. This work highlights the significance of constructing a rational configuration between the active metal nanoparticles and oxides to enhance the catalytic efficiency for NH3 decomposition.</description>
-      <author>Hongwang Liu, Rongrong Zhang, Sibao Liu, Guozhu Liu</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02313</guid>
-    </item>
-    <item>
-      <title>Ultrafast Electronic and Vibrational Spectroscopy of Electrochemical Transformations on a Metal-Oxide Surface during Oxygen Evolution Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.3c05931</link>
-      <description>Tanja Cuk, Michael Paolino, Suryansh Singh, James J. P. Stewart, Xihan Chen, Ilya Vinogradov, ACS catalysis. None(None)] 2024. https://openalex.org/W4399767385
-
-                Oxygen evolution catalysis fuels the planet through photosynthesis and is a primary means for hydrogen storage in energy technologies. Yet the detection of intermediates of the oxygen evolution reaction (OER) central to the catalytic mechanism has been an ongoing challenge. This tutorial and minireview covers the relevance of ultrafast electronic and vibrational spectroscopy of the electrochemical transformations of a metal-oxide surface undergoing OER. Here, we highlight the ultrafast trigger and probes of the electron-doped SrTiO3/electrolyte as the primary example in which light probes across the electromagnetic spectrum have detected intermediate forms. We compare the results to other early transition-metal-oxide surfaces when they exist for select probes and longer timescales. The first part covers how the catalytic reaction is triggered by ultrafast light pulses, describing the semiconducting depletion and electrolyte Helmholtz layers. The second part covers the detection of the intermediates that occur upon electron and proton transfer from an adsorbed water species by transient spectroscopy. Their detection by a broadband visible probe, a mid-infrared evanescent wave, and a coherent acoustic wave respectively targets electronic states, vibrational levels, and lattice strain respectively. One of the aims is a tutorial on how these measurements are made and to what extent they allow for the interpretation of experimental spectra by intermediate configurations predicted by theory. Another aim is to describe what these experiments directly recommend in terms of future efforts to visualize the OER intermediates and their dynamics.</description>
-      <author>Tanja Cuk, Michael Paolino, Suryansh Singh, James J. P. Stewart, Xihan Chen, Ilya Vinogradov</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05931</guid>
-    </item>
-    <item>
-      <title>Rational Control of Oxygen Vacancy Density in In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; to Boost Methanol Synthesis from CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01929</link>
-      <description>Wenhang Wang, Keke Huo, Yang Wang, Jinghao Xie, Xu Sun, Yingluo He, Meng Li, Jie Liang, Xinhua Gao, Guohui Yang, Si&#8208;Min Lin, Fuyang Cao, Jian Hu, Mingbo Wu, Noritatsu Tsubaki, ACS catalysis. None(None)] 2024. https://openalex.org/W4399771091
-
-                Oxygen vacancies (Ov) in reducible metal oxides are the vital active sites for methanol synthesis via a CO2 hydrogenation technology. However, the relationship between the density of Ov and the methanol synthesis performance is still ambiguous, and it still shows a lack of a versatile strategy to precisely tailor the number of Ov. In this study, with In2O3 as a representatively catalytic component, the density functional theory computation confirms that the Ov property, especially Ov density, is pivotal to enhancing methanol selectivity of CO2 hydrogenation by suppressing the undesirable reverse water&#8211;gas shift reaction for CO formation, which is attributed to the unique electronic density of In atoms around Ov. To verify the theoretical results, we report a protocol to optimize the concentration of Ov on In2O3 by sequential carbonization and oxidation (SCO) treatments of In-based metal&#8211;organic frameworks, during which the consumption of carbon species and the structural reconstruction of the In2O3 crystal regulated the particle size and Ov concentration of In2O3 by varying the oxidation temperature. The In2O3-5 catalyst carbonized and oxidized at 500 &#176;C exhibits good methanol selectivity (72.3%) at a CO2 conversion of 9.9% under 330 &#176;C, 3 MPa, and high space velocity of 12,000 L&#8211;1 kgcat&#8211;1 h&#8211;1. Multiple in situ characterizations clarify that the proposed Ov property regulating the SCO strategy is convenient to boost methanol synthesis by altering the CO2 hydrogenation process to the HCOO* intermediate-dominated pathway. Our work provides the catalyst design strategy and will shed light on the rational design of reducible metal oxide-based catalysts with a controllable Ov density.</description>
-      <author>Wenhang Wang, Keke Huo, Yang Wang, Jinghao Xie, Xu Sun, Yingluo He, Meng Li, Jie Liang, Xinhua Gao, Guohui Yang, Si&#8208;Min Lin, Fuyang Cao, Jian Hu, Mingbo Wu, Noritatsu Tsubaki</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01929</guid>
-    </item>
-    <item>
-      <title>One-Step Hydrothermal Synthesis of Sn-Doped Sb&lt;sub&gt;2&lt;/sub&gt;Se&lt;sub&gt;3&lt;/sub&gt; for Solar Hydrogen Production</title>
-      <link>https://doi.org/10.1021/acscatal.4c01762</link>
-      <description>Zhenbin Wang, Sanghyun Bae, Milo&#353; Baljozovi&#263;, Pardis Adams, David Yong, Erin Service, Thomas Moehl, Wenzhe Niu, S. David Tilley, ACS catalysis. None(None)] 2024. https://openalex.org/W4399771389
-
-                No abstract</description>
-      <author>Zhenbin Wang, Sanghyun Bae, Milo&#353; Baljozovi&#263;, Pardis Adams, David Yong, Erin Service, Thomas Moehl, Wenzhe Niu, S. David Tilley</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01762</guid>
-    </item>
-    <item>
-      <title>QM/MM MD Study on the Reaction Mechanism of Thymidine Phosphorylation Catalyzed by the Enzyme &lt;i&gt;Thermotoga maritima&lt;/i&gt; Thymidine Kinase 1</title>
-      <link>https://doi.org/10.1021/acscatal.4c01867</link>
-      <description>Samanta Makurat, Rui P. P. Neves, Maria J. Ramos, Janusz Rak, ACS catalysis. None(None)] 2024. https://openalex.org/W4399783848
-
-                Here, we report mechanistic studies on type II thymidine kinase, Thermotoga maritima TmTK, aiming to predict barriers for the enzyme-catalyzed reaction. Extensive umbrella sampling QM/MM MD simulations (PBE/GPW/DZVP-GTH-PBE:AMBER) resulted in a free energy barrier for the phosphorylation reaction's rate-limiting step of 16.6 kcal&#183;mol&#8211;1, which is in an excellent agreement with the experimentally reported value. An atomistic picture provided by our simulations reveals that the reaction follows a concerted, dissociative SN2 reaction mechanism in which the 5&#8242;-oxygen of the ribose moiety in thymidine is phosphorylated by the &#947;-phosphate of ATP, while assisted by an asynchronous deprotonation of the 5&#8242;-hydroxyl by a GLU84 base. The reaction was calculated to be endergonic, with a reaction free energy of 10.8 kcal&#183;mol&#8211;1, and it can be followed by low-barrier processes that promote the unbinding of the phosphorylated thymidine product, namely, the deprotonation of the GLU84 by the thymidine-phosphate that is accompanied by a weaker binding of the product to the Mg2+ ion.</description>
-      <author>Samanta Makurat, Rui P. P. Neves, Maria J. Ramos, Janusz Rak</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01867</guid>
-    </item>
-    <item>
-      <title>Bottom-Up Synthesis of Platinum Dual-Atom Catalysts on Cerium Oxide</title>
-      <link>https://doi.org/10.1021/acscatal.4c01840</link>
-      <description>Martijn J. Mekkering, Petrus C. M. Laan, Alessandro Troglia, Roland Bliem, Ali Can K&#305;z&#305;lkaya, Gadi Rothenberg, Ning Yan, ACS catalysis. None(None)] 2024. https://openalex.org/W4399783895
-
-                No abstract</description>
-      <author>Martijn J. Mekkering, Petrus C. M. Laan, Alessandro Troglia, Roland Bliem, Ali Can K&#305;z&#305;lkaya, Gadi Rothenberg, Ning Yan</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01840</guid>
-    </item>
     <item>
       <title>Formation of (Rh&#8211;Fe)&#8211;FeO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Complex Sites Enables Methanol Synthesis from CO&lt;sub&gt;2&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acscatal.4c00339</link>
@@ -96,16 +26,6 @@
       <author>Philipp A. Haugg, Jan Smyczek, P. Hubert, Carsten Schr&#246;der, Swetlana Schauermann</author>
       <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01441</guid>
-    </item>
-    <item>
-      <title>Cobalt(II) Nanoclusters Incorporated in Ordered Mesoporous Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; for Stable and Coke-Resistant Propane Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02067</link>
-      <description>Fabian Ebert, Piyush Ingale, Sarah Vogl, Sebastian Praetz, Christopher Schlesiger, Nils Pfister, Raoul Naumann d&#8217;Alnoncourt, Beatriz Rold&#225;n Cuenya, Arne Thomas, Esteban Gioria, Frank Rosowski, ACS catalysis. None(None)] 2024. https://openalex.org/W4399806935
-
-                Due to their availability, low cost, and activity, cobalt-based catalysts are a promising alternative to platinum for the industrial propane dehydrogenation processes. However, their low stability due to sintering, phase transformation, and coke deposition leads to severe deactivation. In this work, the synthesis of amorphous, ordered mesoporous alumina with stabilized Co2+ nanoclusters (Co-m-Al2O3) via an evaporation-induced self-assembly synthesis route is presented. The ordered mesoporous alumina is characterized for containing a large amount of defective pentacoordinate Al3+ sites and a small amount of strong acid sites. The incorporation of Co2+ clusters within the m-Al2O3 structure enhances the dispersion and stability and preserves their reduction even after prolonged time on stream. This leads to a highly selective and steady catalytic performance in the propane dehydrogenation reaction under industrial-relevant conditions. A significantly low deactivation rate of 0.53 d&#8211;1 with stable propylene selectivity of 95% is observed after 23 h, resulting in a 117% higher space&#8211;time yield toward propylene compared to the state-of-the-art impregnated Co/&#947;-Al2O3 catalyst. Furthermore, Co-m-Al2O3 leads to 4.6 times less coke formation, measured in situ for the first time. The detailed study of the nature of the cobalt sites, together with the acidic properties of the alumina supports, provides a deeper understanding of cobalt-based catalysts for dehydrogenation reactions.</description>
-      <author>Fabian Ebert, Piyush Ingale, Sarah Vogl, Sebastian Praetz, Christopher Schlesiger, Nils Pfister, Raoul Naumann d&#8217;Alnoncourt, Beatriz Rold&#225;n Cuenya, Arne Thomas, Esteban Gioria, Frank Rosowski</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02067</guid>
     </item>
     <item>
       <title>Overcoming Electron Bias in Hydroarylation of Phenylpropiolic Acid Derivatives To Enable Highly Reversed Regio- and Stereoselectivity via Steric and Transient Post Addition Coordination</title>
@@ -348,14 +268,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02813</guid>
     </item>
     <item>
-      <title>Impact of Adsorbed CO on the Conversion of CO&lt;sub&gt;2&lt;/sub&gt; to Ethylene on 4,5-Dicyanoimidazole Coordinated Cu</title>
-      <link>https://doi.org/10.1021/acscatal.4c02042</link>
-      <description>Yuhang Jiang, Yating Wang, Wei Chen, Rongzhen Chen, Yu Hang Li, Chunzhong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4399773474
+      <title>Cobalt(II) Nanoclusters Incorporated in Ordered Mesoporous Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; for Stable and Coke-Resistant Propane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02067</link>
+      <description>Fabian Ebert, Piyush Ingale, Sarah Vogl, Sebastian Praetz, Christopher Schlesiger, Nils Pfister, Raoul Naumann d&#8217;Alnoncourt, Beatriz Rold&#225;n Cuenya, Arne Thomas, Esteban Gioria, Frank Rosowski, ACS catalysis. None(None)] 2024. https://openalex.org/W4399806935
 
-                Upgrading carbon dioxide (CO2) into multicarbon products by using renewable electricity provides a pathway to producing fuel and chemicals. In fact, input CO2 in alkaline and neutral reactors forms carbonates with hydroxide, resulting in lower carbon efficiency, so acidic electrolytes are considered as a strategy to solve this problem. However, hydrogen evolution reaction competition and lower Faradaic efficiency (FE) of the target product limit the development of acidic electrolytes. Here, we report an accessible composite catalyst of a commercial copper (Cu) powder modified by a small molecule 4,5-dicyanoimidazole (DCI) that can maintain a high FE for ethylene (C2H4) even in strong acids with pH &#8804; 1. We achieve CO2 electroreduction on the DCI&#8211;Cu catalyst with an FE of 57% toward C2H4 at a current density of 200 mA cm&#8211;2 at pH 1. By in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy measurements, compressed bonding of the *CO intermediate has been observed, which leads to more C&#8211;C bonding. The density functional theory calculation results further prove that the adsorbed *CO intermediates on the DCI&#8211;Cu catalyst are closer to the reaction sites. Unfortunately, this catalyst still requires improvement in terms of long-term operation. However, we anticipate that this may be generalized to enable molecular strategies to complement metal-based catalysts designed for strong acidic conditions by stabilizing intermediates.</description>
-      <author>Yuhang Jiang, Yating Wang, Wei Chen, Rongzhen Chen, Yu Hang Li, Chunzhong Li</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02042</guid>
+                Due to their availability, low cost, and activity, cobalt-based catalysts are a promising alternative to platinum for the industrial propane dehydrogenation processes. However, their low stability due to sintering, phase transformation, and coke deposition leads to severe deactivation. In this work, the synthesis of amorphous, ordered mesoporous alumina with stabilized Co2+ nanoclusters (Co-m-Al2O3) via an evaporation-induced self-assembly synthesis route is presented. The ordered mesoporous alumina is characterized for containing a large amount of defective pentacoordinate Al3+ sites and a small amount of strong acid sites. The incorporation of Co2+ clusters within the m-Al2O3 structure enhances the dispersion and stability and preserves their reduction even after prolonged time on stream. This leads to a highly selective and steady catalytic performance in the propane dehydrogenation reaction under industrial-relevant conditions. A significantly low deactivation rate of 0.53 d&#8211;1 with stable propylene selectivity of 95% is observed after 23 h, resulting in a 117% higher space&#8211;time yield toward propylene compared to the state-of-the-art impregnated Co/&#947;-Al2O3 catalyst. Furthermore, Co-m-Al2O3 leads to 4.6 times less coke formation, measured in situ for the first time. The detailed study of the nature of the cobalt sites, together with the acidic properties of the alumina supports, provides a deeper understanding of cobalt-based catalysts for dehydrogenation reactions.</description>
+      <author>Fabian Ebert, Piyush Ingale, Sarah Vogl, Sebastian Praetz, Christopher Schlesiger, Nils Pfister, Raoul Naumann d&#8217;Alnoncourt, Beatriz Rold&#225;n Cuenya, Arne Thomas, Esteban Gioria, Frank Rosowski</author>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02067</guid>
     </item>
     <item>
       <title>Palladium-Catalyzed Allylic Alkylation Reactions of Nucleophilic Allenones: Asymmetric Allylic Alkylation, &lt;i&gt;Z/E&lt;/i&gt; Divergent Allylic Alkylation, and [5 + 2] Annulation</title>
@@ -436,6 +356,66 @@
       <author>Anne-Laure Wirotius, Romain Lambert, Thomas Dard&#233;, Simon Harrisson, Daniel Taton</author>
       <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00259</guid>
+    </item>
+    <item>
+      <title>Efficient and Stable Production of Long-Chain Hydrocarbons over Hydrophobic Carbon-Encapsulated TiO&lt;sub&gt;2&lt;/sub&gt;-Supported Ru Catalyst in Fischer&#8211;Tropsch Synthesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c02979</link>
+      <description>Yunhao Liu, Xincheng Li, Qingpeng Cheng, Ye Tian, Yingtian Zhang, Tao Ding, Song Song, Kepeng Song, Xingang Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4400000990
+
+                No abstract</description>
+      <author>Yunhao Liu, Xincheng Li, Qingpeng Cheng, Ye Tian, Yingtian Zhang, Tao Ding, Song Song, Kepeng Song, Xingang Li</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02979</guid>
+    </item>
+    <item>
+      <title>Alleviating Charge Recombination Caused by Unfavorable interaction of P and Sn in Hematite for Photoelectrochemical Water Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01150</link>
+      <description>Ji-Hun Kang, Balaji G. Ghule, Seung Gyu Gyeong, Seong&#8208;Ji Ha, Ji&#8208;Hyun Jang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400001152
+
+                No abstract</description>
+      <author>Ji-Hun Kang, Balaji G. Ghule, Seung Gyu Gyeong, Seong&#8208;Ji Ha, Ji&#8208;Hyun Jang</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01150</guid>
+    </item>
+    <item>
+      <title>A Three-Dimensional Azo-Bridged Porous Porphyrin Framework Supported Silver Nanoparticles as the State-of-the-Art Catalyst for the Carboxylative Cyclization of Propargylic Alcohols with CO&lt;sub&gt;2&lt;/sub&gt; under Ambient Conditions</title>
+      <link>https://doi.org/10.1021/acscatal.4c02391</link>
+      <description>Yiying Yang, Yingyin Li, Yinghua Lu, Zhiyuan Chen, Rongchang Luo, ACS catalysis. None(None)] 2024. https://openalex.org/W4400002724
+
+                No abstract</description>
+      <author>Yiying Yang, Yingyin Li, Yinghua Lu, Zhiyuan Chen, Rongchang Luo</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02391</guid>
+    </item>
+    <item>
+      <title>Electrochemical NADH Regeneration Mediated by Pyridine Amidate Iridium Complexes Interconverting 1,4- and 1,6-NADH</title>
+      <link>https://doi.org/10.1021/acscatal.4c02548</link>
+      <description>Caterina Trotta, Gabriel Menendez Rodriguez, Cristiano Zuccaccia, Alceo Macchioni, ACS catalysis. None(None)] 2024. https://openalex.org/W4400007176
+
+                No abstract</description>
+      <author>Caterina Trotta, Gabriel Menendez Rodriguez, Cristiano Zuccaccia, Alceo Macchioni</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02548</guid>
+    </item>
+    <item>
+      <title>Enhancing CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction Performance through Si-Doped CuO: Stabilization of Cu&lt;sup&gt;+&lt;/sup&gt;/Cu&lt;sup&gt;0&lt;/sup&gt; Sites and Improved C&lt;sub&gt;2&lt;/sub&gt; Product Selectivity</title>
+      <link>https://doi.org/10.1021/acscatal.4c01961</link>
+      <description>Long Cheng, Rong Wang, Wenzhe Si, Yanxi Deng, Junhua Li, Yue Peng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400010017
+
+                No abstract</description>
+      <author>Long Cheng, Rong Wang, Wenzhe Si, Yanxi Deng, Junhua Li, Yue Peng</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01961</guid>
+    </item>
+    <item>
+      <title>Mass-Transfer Enhancement in the CO&lt;sub&gt;2&lt;/sub&gt; Oxidative Dehydrogenation of Propane over GaN Supported on Zeolite Nanosheets with a Short &lt;i&gt;b&lt;/i&gt;-Axis and Hierarchical Pores</title>
+      <link>https://doi.org/10.1021/acscatal.4c02599</link>
+      <description>Zhan&#8208;Jun Zhu, Zhen&#8208;Hong He, Yajie Tian, Sen-Wang Wang, Yongchang Sun, Kuan Wang, Weitao Wang, Zhifang Zhang, Jiajie Liu, Zhao&#8208;Tie Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400019116
+
+                The CO2 oxidative dehydrogenation of propane (CO2&#8211;ODHP) is a highly important reaction for not only producing large amounts of propylene but also consuming the CO2 resource. GaN/zeolite catalysts deliver preferable activity in the reaction. However, similar to Pt- and Cr-based catalysts, there are shortcomings such as poor stability and coke accumulation, especially when operated at temperatures higher than 550 &#176;C. Generally, carbon deposition is one of the main reasons for catalyst deactivation. The limited mass transfer greatly aggravates the deposited carbon formation, since carbon precursors could not be removed in time. In the present work, we modified zeolites with a short b-axis and hierarchical pores, which could offer a shorter diffusion distance and pore-rich structure to enhance the mass transfer. Thanks to this enhancement, the catalyst offers an initial propane conversion of 68.0% with a yield of 39.4% to propylene, surpassing other reported GaN/zeolite catalysts to data. Importantly, the catalyst showed a low loss rate of activity and a low amount of deposited carbon, which was easily regenerated compared with those of other catalysts without a short b-axis or hierarchical pores. Density functional theory (DFT) calculations and in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) confirmed that the reaction involves a coupling reaction of direct dehydrogenation and CO2 reduction via reverse water&#8211;gas shift reaction, and CO2 participates in the reaction. The present work sheds light on designing an efficient catalyst for CO2&#8211;ODHP via a mass transfer-boosted strategy and, importantly, is expected to provide inspiration in constructing a zeolite with a short b-axis and hierarchical pores.</description>
+      <author>Zhan&#8208;Jun Zhu, Zhen&#8208;Hong He, Yajie Tian, Sen-Wang Wang, Yongchang Sun, Kuan Wang, Weitao Wang, Zhifang Zhang, Jiajie Liu, Zhao&#8208;Tie Liu</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02599</guid>
     </item>
   </channel>
 </rss>

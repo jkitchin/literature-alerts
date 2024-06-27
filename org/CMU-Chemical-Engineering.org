@@ -1,52 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Jun 26 01:08:43 2024
+Created on Thu Jun 27 01:08:53 2024
 
-Found 7 results from 2024-06-19 to 2024-06-26
+Found 7 results from 2024-06-20 to 2024-06-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399769525
-:TOPICS: Exosome Biology and Function in Intercellular Communication, Macrophage Activation and Polarization, Mechanisms and Implications of Ferroptosis in Cancer
-:PUBLICATION_DATE: 2024-06-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1371/journal.pone.0304505")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399769525"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399769525"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399769525"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399769525 (Open access: True)
-    
-[[https://openalex.org/A5091373951][Chloe Brown]], [[https://openalex.org/A5088916982][Colette Bilynsky]], [[https://openalex.org/A5075051633][Melanie Gainey]], [[https://openalex.org/A5077592017][Sarah Young]], [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5074066993][Elizabeth Wayne]], PloS one. 19(6)] 2024. https://doi.org/10.1371/journal.pone.0304505  ([[https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0304505&type=printable][pdf]])
-     
-The role of macrophages in regulating the tumor microenvironment has spurned the exponential generation of nanoparticle targeting technologies. With the large amount of literature and the speed at which it is generated it is difficult to remain current with the most up-to-date literature. In this study we performed a topic modeling analysis of 854 abstracts of peer-reviewed literature for the most common usages of nanoparticle targeting of tumor associated macrophages (TAMs) in solid tumors. The data spans 20 years of literature, providing a broad perspective of the nanoparticle strategies. Our topic model found 6 distinct topics: Immune and TAMs, Nanoparticles, Imaging, Gene Delivery and Exosomes, Vaccines, and Multi-modal Therapies. We also found distinct nanoparticle usage, tumor types, and therapeutic trends across these topics. Moreover, we established that the topic model could be used to assign new papers into the existing topics, thereby creating a Living Review. This type of “birds-eye-view” analysis provides a useful assessment tool for exploring new and emerging themes within a large field.    
-
-    
-
-* Branched‐Tail Lipid Nanoparticles for Intravenous mRNA Delivery to Lung Immune, Endothelial, and Alveolar Cells in Mice  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399772948
-:TOPICS: Mechanisms and Applications of RNA Interference, Immunobiology of Dendritic Cells, Viral Diseases in Livestock and Poultry
-:PUBLICATION_DATE: 2024-06-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adhm.202400225")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399772948"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399772948"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399772948"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399772948 (Open access: True)
-    
-[[https://openalex.org/A5082946273][Daria M. Strelkova Petersen]], [[https://openalex.org/A5060936104][Ryan M. Weiss]], [[https://openalex.org/A5057246628][Khalid A. Hajj]], [[https://openalex.org/A5015320215][Sai Gopal Krishna Yerneni]], [[https://openalex.org/A5073121497][Namit Chaudhary]], [[https://openalex.org/A5080909957][Alexandra N. Newby]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], Advanced healthcare materials/Advanced Healthcare Materials. None(None)] 2024. https://doi.org/10.1002/adhm.202400225 
-     
-Abstract Lipid nanoparticles (LNPs) are proven as safe and effective delivery systems on a global scale. However, their efficacy has been limited primarily to liver and immune cells targets. To extend the potential applicability of mRNA drugs, we have synthesized and examined a library of 580 ionizable lipidoids for delivery to extrahepatocellular targets following intravenous administration. Of these lipidoids, over 40 enabled protein expression in mice, with the majority transfecting the liver. Beyond the liver, several LNPs containing new, branched‐tail ionizable lipidoids potently delivered mRNA to the lungs, with cell‐level specificity depending on helper lipid chemistry. Incorporation of the neutral helper lipid DOPE at 16 mol% enabled highly specific delivery to natural killer and dendritic cells within the lung. Although inclusion of the cationic helper lipid, DOTAP, improved lung tropism, it did so at the expense of cell specificity, resulting in equal transfection of endothelial and lymphoid cells. DOTAP formulations were also less favorable than DOPE formulations in that they elevated liver enzyme level and the overall cytokine response. Together, these data identify a new branched‐tailed LNP formulation with a unique ability to selectively transfect lung immune cell populations without the use of toxicity‐prone cationic helper lipids. This novel vehicle may unlock RNA therapies for lung diseases associated with immune cell dysregulation, including cancer, viral infections, and autoimmune disorders. This article is protected by copyright. All rights reserved    
-
-    
 
 * Matheuristic Approaches for Multi-Product 3-Dimensional Container Loading Problem  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -72,7 +30,7 @@ No abstract
 * Intense formation of secondary ultrafine particles from Amazonian vegetation fires and their invigoration of deep clouds and precipitation  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399887232
-:TOPICS: Atmospheric Aerosols and their Impacts, Aerosols' Impact on Climate and Hydrological Cycle, Impact of Climate Change on Forest Wildfires
+:TOPICS: Atmospheric Aerosols and their Impacts, Health Effects of Air Pollution, Aerosols' Impact on Climate and Hydrological Cycle
 :PUBLICATION_DATE: 2024-06-01
 :END:    
     
@@ -86,7 +44,7 @@ OpenAlex: https://openalex.org/W4399887232 (Open access: True)
     
 [[https://openalex.org/A5029609817][Manish Shrivastava]], [[https://openalex.org/A5029189683][Jiwen Fan]], [[https://openalex.org/A5029222642][Yuwei Zhang]], [[https://openalex.org/A5044465853][Quazi Z. Rasool]], [[https://openalex.org/A5008718870][Bin Zhao]], [[https://openalex.org/A5037611710][Jianjian Shen]], [[https://openalex.org/A5055116926][Jeffrey R. Pierce]], [[https://openalex.org/A5073859430][Shantanu H. Jathar]], [[https://openalex.org/A5006368017][Ali Akherati]], [[https://openalex.org/A5055664027][Jie Zhang]], [[https://openalex.org/A5074206807][Rahul A. Zaveri]], [[https://openalex.org/A5082593441][Brian Gaudet]], [[https://openalex.org/A5072663357][Ying Liu]], [[https://openalex.org/A5082416286][Meinrat O. Andreae]], [[https://openalex.org/A5024073664][Mira L. Pöhlker]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5054409245][Yuan Wang]], [[https://openalex.org/A5001370428][John H. Seinfeld]], One earth. 7(6)] 2024. https://doi.org/10.1016/j.oneear.2024.05.015 
      
-No abstract    
+New particle formation (NPF) in fire smoke is thought to be unlikely due to large condensation and coagulation sinks that scavenge molecular clusters. We analyze aircraft measurements over the Amazon and find that fires significantly enhance NPF and ultrafine particle (UFP < 50 nm diameter) numbers compared to background conditions, contrary to previous understanding. We identify that the nucleation of dimethylamine with sulfuric acid, which is aided by the formation of extremely low volatility organics in biomass-burning smoke, can overcome the large condensation and coagulation sinks and explain aircraft observations. We show that freshly formed clusters rapidly grow to UFP sizes through biomass-burning secondary organic aerosol formation, leading to a 10-fold increase in UFP number concentrations. We find a contrasting effect of UFPs on deep convective clouds compared to the larger particles from primary emissions for the case investigated here. UFPs intensify the deep convective clouds and precipitation due to increased condensational heating, while larger particles delay and reduce precipitation.    
 
     
 
@@ -150,5 +108,47 @@ OpenAlex: https://openalex.org/W4399971674 (Open access: True)
 [[https://openalex.org/A5038957567][Meredith Schervish]], [[https://openalex.org/A5037408007][Martin Heinritzi]], [[https://openalex.org/A5063223340][Dominik Stolzenburg]], [[https://openalex.org/A5049539173][Lubna Dada]], [[https://openalex.org/A5083213632][Mingyi Wang]], [[https://openalex.org/A5018999020][Qing Ye]], [[https://openalex.org/A5012274245][Victoria Hofbauer]], [[https://openalex.org/A5092773428][Jenna DeVivo]], [[https://openalex.org/A5075179945][Federico Bianchi]], [[https://openalex.org/A5045766641][Sophia Brilke]], [[https://openalex.org/A5088633919][Jonathan Duplissy]], [[https://openalex.org/A5080319960][Imad El Haddad]], [[https://openalex.org/A5081639490][Henning Finkenzeller]], [[https://openalex.org/A5043129752][Xu‐Cheng He]], [[https://openalex.org/A5018996508][A. N. Kvashnin]], [[https://openalex.org/A5063780894][Changhyuk Kim]], [[https://openalex.org/A5009274507][J. Kirkby]], [[https://openalex.org/A5000471665][Markku Kulmala]], [[https://openalex.org/A5019559780][Katrianne Lehtipalo]], [[https://openalex.org/A5019360565][Brandon Lopez]], [[https://openalex.org/A5036074857][В. С. Махмутов]], [[https://openalex.org/A5090590782][Bernhard Mentler]], [[https://openalex.org/A5086592925][Ugo Molteni]], [[https://openalex.org/A5067110169][Wei Nie]], [[https://openalex.org/A5070326299][Tuukka Petäjä]], [[https://openalex.org/A5058987691][Lauriane L. J. Quéléver]], [[https://openalex.org/A5018521569][Rainer Volkamer]], [[https://openalex.org/A5024532344][Andrea C. Wagner]], [[https://openalex.org/A5042382547][Paul M. Winkler]], [[https://openalex.org/A5008144731][Chao Yan]], [[https://openalex.org/A5041685684][Neil M. Donahue]], Environmental science. Atmospheres. None(None)] 2024. https://doi.org/10.1039/d4ea00056k 
      
 Isoprene affects new particle formation rates in environments and experiments also containing monoterpenes. For the most part, isoprene reduces particle formation rates, but the reason is debated. It is proposed...    
+
+    
+
+* Recycling Rare Earth Elements from End-of-Life Electric and Hybrid Electric Vehicle Motors  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399991313
+:TOPICS: Battery Recycling and Rare Earth Recovery, Global E-Waste Recycling and Management, Lithium-ion Battery Technology
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50219-2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399991313"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399991313"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399991313"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399991313 (Open access: False)
+    
+[[https://openalex.org/A5099464039][Chris Laliwala]], [[https://openalex.org/A5027983186][Ana I. Torres]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50219-2 
+     
+No abstract    
+
+    
+
+* Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence Models  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400015840
+:TOPICS: Advanced Techniques in Bioimage Analysis and Microscopy, Explainable Artificial Intelligence
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4873106")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400015840"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400015840"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400015840"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400015840 (Open access: False)
+    
+[[https://openalex.org/A5020208081][Jaspreet Pannu]], [[https://openalex.org/A5085339061][D. Shaun Bloomfield]], [[https://openalex.org/A5082722944][Aibin Zhu]], [[https://openalex.org/A5060793099][Robert MacKnight]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5052058831][Anita Cicero]], [[https://openalex.org/A5047102918][Thomas V. Inglesby]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4873106 
+     
+No abstract    
 
     

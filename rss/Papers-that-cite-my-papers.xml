@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Jun 2024 01:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:09:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical Exploration of the Origin of Alkaline Dependence in the Oxidation of 5-Hydroxymethylfurfural Catalyzed by NiO&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c00940</link>
-      <description>Si Wang, Haisong Feng, Tianyong Liu, Yuan Deng, Meng Zhang, Sylvia Zhao, Juan Han, Xin Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399760359
-
-                Alkaline dependence is a common phenomenon in the electrochemical oxidation of biomass, and investigating the influence of alkalinity on the oxidation mechanisms is crucial for enhancing both the activity and the selectivity of biomass oxidation. Herein, we constructed five NiO2Hx catalysts under different alkaline environments (pH &#8776; 9&#8211;13) and employed density functional theory methods to investigate the reaction mechanisms of the selective oxidation of the biomass platform molecule 5-hydroxymethylfurfural (HMF). The origin of alkaline dependence in HMF electrochemical oxidation was analyzed, and the results indicate that the catalyst alkalinity determines the oxidation pathway of HMF to 2,5-furandicarboxylic acid: under weak alkalinity (pH &#8776; 9&#8211;11), the adsorption and activation of the alcohol group in HMF are more favorable, resulting in preferential oxidation of the alcohol group; under strong alkalinity (pH &#8776; 11&#8211;13), the aldehyde group of HMF is more prone to adsorb and activate on the catalyst surface, resulting in a predominant aldehyde oxidation. With the increase in the alkalinity of NiO2Hx, there is a decrease of H atom coverage and an increase in the valence state of Ni, resulting in a transformation in the preferential oxidation pathway of HMF from the alcohol group to the aldehyde group as well as a transition in the oxidation mechanism from direct oxidation to indirect oxidation. NiOOH under moderately alkaline environment effectively reduces the Gibbs free energy change for C&#8211;H/O&#8211;H bonds cleavage, lowering the reaction energy. It significantly enhances the oxidation ability of alcohol and aldehyde groups, exhibiting the highest catalytic performance in the conversion of HMF to FDCA. The study not only provide a comprehensive explanation for the alkaline dependence of HMF oxidation but also offer guidance on how to rationally design catalysts for improving oxidative performance through alkalinity adjustments.</description>
-      <author>Si Wang, Haisong Feng, Tianyong Liu, Yuan Deng, Meng Zhang, Sylvia Zhao, Juan Han, Xin Zhang</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00940</guid>
-    </item>
-    <item>
-      <title>Screening transition metal and nonmetal atoms co-doped graphyne as efficient single-atom catalysts for nitrogen reduction</title>
-      <link>https://doi.org/10.1016/j.cej.2024.153275</link>
-      <description>Shulong Li, Ming Peng, Yu Song, Yutao Chen, Liang Qiao, Bo Wang, Yong Zhao, Li&#8208;Yong Gan, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399761233
-
-                No abstract</description>
-      <author>Shulong Li, Ming Peng, Yu Song, Yutao Chen, Liang Qiao, Bo Wang, Yong Zhao, Li&#8208;Yong Gan</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153275</guid>
-    </item>
-    <item>
-      <title>Transition Metal Ions Synergistic Bilayer H&lt;sub&gt;2&lt;/sub&gt;O Pillared MXene Directing In Situ Ordered Embedding Growth of Highly Efficient NiFe Alloy Catalysts</title>
-      <link>https://doi.org/10.1002/adfm.202408303</link>
-      <description>Zhongjie Qiu, Jiayan Wu, Baolin Zhang, Hui&#8208;Hua Song, Zhiming Cui, Zhenxing Liang, Li Du, Advanced functional materials. None(None)] 2024. https://openalex.org/W4399764220
-
-                Abstract Efficient, stable, and inexpensive electrocatalysts are essential to overcome the high overpotential and slow kinetics of the oxygen evolution reaction (OER) process during water electrolysis applications. 2D transition metal carbides (MXene) show great potential in functional heterogeneous interface engineering for electrocatalytic OER. However, it is still a challenge to regulate the interlayer space and realize the heterogeneous layer&#8208;by&#8208;layer ordered embedding for MXene. Herein, a simple hydrothermal&#8208;assisted strategy is proposed to prepare highly conductive Ti 3 C 2 T x MXene supported by synergized Ni 2+ , Co 2+ , and Fe 3+ with bilayer H 2 O, which significantly enlarges the interlayer distances and improves the interlayer ion concentrations. Benefiting from modulated interface chemistry, embedded metal ions undergo multi&#8208;directional in situ growth on the MXene substrate, thereby forming a stable 0D/2D@2D nano&#8208;hybrid material (NiFe/MX&#8208;HT). Combining density functional theory calculations with experiments demonstrates that MXene offers a framework for electron transfer, enhances the exposure of active sites, modulates the electronic structure, and greatly reduces the energy barrier of the rate&#8208;determining step in the process of OER. Thus, NiFe/MX&#8208;HT requires only 230 mV to achieve 10 mA cm &#8722;2 and maintains stability even after operating at 100 mA cm &#8722;2 for 150 h. This work offers new insights into exploring various functional MXene&#8208;based heterogeneous materials.</description>
-      <author>Zhongjie Qiu, Jiayan Wu, Baolin Zhang, Hui&#8208;Hua Song, Zhiming Cui, Zhenxing Liang, Li Du</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408303</guid>
-    </item>
-    <item>
-      <title>Tailoring Hydrogen Evolution Reaction with single-atom catalysts on Ti&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si101.svg" display="inline" id="d1e214"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;B MBenes: Insights from computational screening</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.06.141</link>
-      <description>Aarti Shukla, International journal of hydrogen energy. 77(None)] 2024. https://openalex.org/W4399765830
-
-                No abstract</description>
-      <author>Aarti Shukla</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.141</guid>
-    </item>
-    <item>
-      <title>Ultrafast Electronic and Vibrational Spectroscopy of Electrochemical Transformations on a Metal-Oxide Surface during Oxygen Evolution Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.3c05931</link>
-      <description>Tanja Cuk, Michael Paolino, Suryansh Singh, James J. P. Stewart, Xihan Chen, Ilya Vinogradov, ACS catalysis. None(None)] 2024. https://openalex.org/W4399767385
-
-                Oxygen evolution catalysis fuels the planet through photosynthesis and is a primary means for hydrogen storage in energy technologies. Yet the detection of intermediates of the oxygen evolution reaction (OER) central to the catalytic mechanism has been an ongoing challenge. This tutorial and minireview covers the relevance of ultrafast electronic and vibrational spectroscopy of the electrochemical transformations of a metal-oxide surface undergoing OER. Here, we highlight the ultrafast trigger and probes of the electron-doped SrTiO3/electrolyte as the primary example in which light probes across the electromagnetic spectrum have detected intermediate forms. We compare the results to other early transition-metal-oxide surfaces when they exist for select probes and longer timescales. The first part covers how the catalytic reaction is triggered by ultrafast light pulses, describing the semiconducting depletion and electrolyte Helmholtz layers. The second part covers the detection of the intermediates that occur upon electron and proton transfer from an adsorbed water species by transient spectroscopy. Their detection by a broadband visible probe, a mid-infrared evanescent wave, and a coherent acoustic wave respectively targets electronic states, vibrational levels, and lattice strain respectively. One of the aims is a tutorial on how these measurements are made and to what extent they allow for the interpretation of experimental spectra by intermediate configurations predicted by theory. Another aim is to describe what these experiments directly recommend in terms of future efforts to visualize the OER intermediates and their dynamics.</description>
-      <author>Tanja Cuk, Michael Paolino, Suryansh Singh, James J. P. Stewart, Xihan Chen, Ilya Vinogradov</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05931</guid>
-    </item>
-    <item>
-      <title>A Review on Highly Efficient Ru-Based Electrocatalysts for Acidic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c02080</link>
-      <description>Jiayi Li, Zeng Ju, Fangchen Zhao, Xinran Sun, Sibo Wang, Xingwen Lu, Energy &amp; fuels. None(None)] 2024. https://openalex.org/W4399772787
-
-                Proton exchange membrane water electrolysis (PEMWE) technology is seen as the most compatible hydrogen production technology with renewable energy generation. However, the sluggish kinetics of the anodic oxygen evolution reaction (OER) and the scarcity of acid-resistant, high-activity, and low-cost catalysts have seriously hindered the overall efficiency and manufacturing costs of PEMWE. Recently, ruthenium (Ru)-based materials have gradually attracted attention due to their suitable binding strength toward oxygen intermediates and lowest price in the noble metal family. Herein, the great achievements and progress of Ru-based acidic OER electrocatalysts are comprehensively reviewed, which started with a general description of reaction mechanisms and in situ characterization techniques to understand the structure&#8211;activity relationships. Subsequently, some typical strategies to enhance the activity and stability of Ru-based electrocatalysts are highlighted. Insights from synthesis methods, advanced characterizations, intermediate evolution, and theoretical calculations are provided, together with our viewpoints on the daunting challenges and future endeavors of Ru-based OER electrocatalysts for their practical employment.</description>
-      <author>Jiayi Li, Zeng Ju, Fangchen Zhao, Xinran Sun, Sibo Wang, Xingwen Lu</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c02080</guid>
-    </item>
-    <item>
-      <title>High-Throughput Screening of Tm1tm2/N6-1 (Tm = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Mo) as Effective Electrocatalysts for Nitrogen Fixation</title>
-      <link>https://doi.org/10.2139/ssrn.4868581</link>
-      <description>Shujie Yao, Xinlu Cheng, Hong Zhang, No host. None(None)] 2024. https://openalex.org/W4399790307
-
-                No abstract</description>
-      <author>Shujie Yao, Xinlu Cheng, Hong Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4868581</guid>
-    </item>
     <item>
       <title>Efficient screening and catalytic mechanism of TM@&#946;-Te for nitrogen reduction reaction</title>
       <link>https://doi.org/10.1016/j.jcat.2024.115611</link>
@@ -338,16 +268,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c01546</guid>
     </item>
     <item>
-      <title>Tuning the Electrocatalytic Activity of Pd Nanocatalyst toward Hydrogen Evolution and Carbon Dioxide Reduction Reactions by Nickel Incorporation</title>
-      <link>https://doi.org/10.1021/acs.chemmater.4c00809</link>
-      <description>Soumita Chakraborty, Dipangkar Kalita, Sakshi Agarwal, Surishi Vashishth, Nevin Mathew, Sisir Maity, D. Raghavender Goud, Ankit Rao, Sebastian C. Peter, Abhishek K. Singh, M. Eswaramoorthy, Chemistry of materials. None(None)] 2024. https://openalex.org/W4399896380
-
-                Electrochemical H2 generation and CO2 reduction address the energy and environmental crisis plaguing the world. An efficient electrocatalyst would require the lowest overpotential for these reactions. Given its position on the volcano plot near platinum, palladium presents itself as a viable alternative for the hydrogen evolution reaction (HER). However, the activity is limited by a high overpotential. It is also a good electrocatalyst for the CO2 reduction reaction (CO2RR) due to the favorable position of the d-band center. Nevertheless, the CO poisoning of the active site results in low electrocatalytic stability. Herein, we report a Ni-incorporated palladium catalyst, NiPd, which reduces water to H2 at a very low overpotential of 25 mV (&#951;10). Furthermore, it reduces CO2 to formate with a very high faradaic efficiency of 97% at a potential of &#8722;0.25 V (vs RHE). DFT studies show that Ni inclusion leads to the facile activation of CO2 due to a bent adsorption configuration at the catalyst surface. The NiPd catalyst exhibits a strong and stable performance for HER (400 h) as well as for CO2RR (9 h) with high structural integrity as proven by postreaction characterization studies.</description>
-      <author>Soumita Chakraborty, Dipangkar Kalita, Sakshi Agarwal, Surishi Vashishth, Nevin Mathew, Sisir Maity, D. Raghavender Goud, Ankit Rao, Sebastian C. Peter, Abhishek K. Singh, M. Eswaramoorthy</author>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c00809</guid>
-    </item>
-    <item>
       <title>Ultra&#8208;Rapid Electrocatalytic H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Fabrication over Mono&#8208;Species and High&#8208;Density Polypyrrolic&#8208;N Sites</title>
       <link>https://doi.org/10.1002/smll.202403261</link>
       <description>Wei Peng, Rui Chen, Xiaoqing Liu, Haotian Tan, Lichang Yin, Feng Hou, De&#8217;an Yang, Ji Liang, Small. None(None)] 2024. https://openalex.org/W4399906945
@@ -398,6 +318,16 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-49544-y</guid>
     </item>
     <item>
+      <title>Tuning the Electrocatalytic Activity of Pd Nanocatalyst toward Hydrogen Evolution and Carbon Dioxide Reduction Reactions by Nickel Incorporation</title>
+      <link>https://doi.org/10.1021/acs.chemmater.4c00809</link>
+      <description>Soumita Chakraborty, Dipangkar Kalita, Sakshi Agarwal, Surishi Vashishth, Nevin Mathew, Sisir Maity, D. Raghavender Goud, Ankit Rao, Sebastian C. Peter, Abhishek K. Singh, M. Eswaramoorthy, Chemistry of materials. None(None)] 2024. https://openalex.org/W4399896380
+
+                Electrochemical H2 generation and CO2 reduction address the energy and environmental crisis plaguing the world. An efficient electrocatalyst would require the lowest overpotential for these reactions. Given its position on the volcano plot near platinum, palladium presents itself as a viable alternative for the hydrogen evolution reaction (HER). However, the activity is limited by a high overpotential. It is also a good electrocatalyst for the CO2 reduction reaction (CO2RR) due to the favorable position of the d-band center. Nevertheless, the CO poisoning of the active site results in low electrocatalytic stability. Herein, we report a Ni-incorporated palladium catalyst, NiPd, which reduces water to H2 at a very low overpotential of 25 mV (&#951;10). Furthermore, it reduces CO2 to formate with a very high faradaic efficiency of 97% at a potential of &#8722;0.25 V (vs RHE). DFT studies show that Ni inclusion leads to the facile activation of CO2 due to a bent adsorption configuration at the catalyst surface. The NiPd catalyst exhibits a strong and stable performance for HER (400 h) as well as for CO2RR (9 h) with high structural integrity as proven by postreaction characterization studies.</description>
+      <author>Soumita Chakraborty, Dipangkar Kalita, Sakshi Agarwal, Surishi Vashishth, Nevin Mathew, Sisir Maity, D. Raghavender Goud, Ankit Rao, Sebastian C. Peter, Abhishek K. Singh, M. Eswaramoorthy</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c00809</guid>
+    </item>
+    <item>
       <title>Bifunctional two-dimensional metal organic frameworks for oxygen reaction and water splitting</title>
       <link>https://doi.org/10.1016/j.nanoen.2024.109897</link>
       <description>Kayode Adesina Adegoke, Oluwasayo E. Ogunjinmi, Oyeladun Rhoda Adegoke, Olugbenga Solomon Bello, Nano energy. None(None)] 2024. https://openalex.org/W4399914101
@@ -430,10 +360,10 @@
     <item>
       <title>Synergistic effect to unlock the activity and stability for oxygen evolution reaction in spinel LiMn2O4 via d-block metal substitution</title>
       <link>https://doi.org/10.1016/j.apcatb.2024.124331</link>
-      <description>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicol&#225;s Alonso-Vante, Lijun Sui, Yu Xie, Jiwei Ma, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4399956855
+      <description>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicol&#225;s Alonso-Vante, Lijun Sui, Yu Xie, Jian&#8208;Chun Ma, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4399956855
 
                 An effective strategy using d-block metal hybridization was proposed to induce electronic interaction and promote the synergistic effect, aiming to enhance the OER performance of cost-effective spinel LiMn2O4. Indeed, we deploy a series of LiNixMn2-xO4 catalysts substituted with Ni, yielding the increase of Mn valence states from Mn3.5+ to Mn4+. The LiNi0.5Mn1.5O4 catalyst achieved an excellent OER performance in alkaline media, with an overpotential reduction more than 320 mV at 10 mA cm-2 compared to the unsubstituted LiMn2O4, as well as the electrochemical stability. It was shown to be superior to most reported Mn-based oxide OER electrocatalysts. Theoretical calculations demonstrated that Ni dopes holes in the Mn site, leading to an increase in Mn4+, and that the shared covalent network of Ni 3d-O 2p-Mn 3d optimized an easier desorption of intermediates. These results pave a new example for modulating the chemisorption strength, thus enabling activating the activity and stability of the OER process for cost-effective electrocatalysts based on spinel Mn oxides.</description>
-      <author>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicol&#225;s Alonso-Vante, Lijun Sui, Yu Xie, Jiwei Ma</author>
+      <author>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicol&#225;s Alonso-Vante, Lijun Sui, Yu Xie, Jian&#8208;Chun Ma</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124331</guid>
     </item>
@@ -476,6 +406,76 @@
       <author>Zhen Zhang, Juan Zuo, Luteng Luo, Xinghua Yang, Zhiyuan Ma, Hongjun Jin, Youzhu Yuan, Qingrong Qian, Qinghua Chen, Yong-Chun Luo</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115621</guid>
+    </item>
+    <item>
+      <title>Emergence of Z-Scheme Photocatalysis for Total Water Splitting: An Improvised Route to High Efficiency</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c01162</link>
+      <description>Atish Ghosh, Anup Pramanik, Sougata Pal, Pranab Sarkar, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4399998814
+
+                No abstract</description>
+      <author>Atish Ghosh, Anup Pramanik, Sougata Pal, Pranab Sarkar</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01162</guid>
+    </item>
+    <item>
+      <title>Research progress of electrocatalysts for hydrogen oxidation reaction in alkaline media</title>
+      <link>https://doi.org/10.1002/cnl2.152</link>
+      <description>Youze Zeng, Xue Wang, Yang Hu, Wei Qi, Zheng Wang, Meiling Xiao, Changpeng Liu, Wei Xing, Jianguo Zhu, Carbon neutralization. None(None)] 2024. https://openalex.org/W4400000471
+
+                Abstract Anion exchange membrane fuel cells (AEMFCs) have been hailed as a promising hydrogen energy technology due to high energy conversion efficiency, zero carbon emission and the potential independence on scare and expensive noble metal electrocatalysts. A variety of platinum group metal (PGM)&#8208;free catalysts has been developed with superior catalytic performance to noble metal benchmarks toward cathodic oxygen reduction reactions (ORR). However, PGM electrocatalysts still dominate the anodic catalyst research because the kinetics of hydrogen oxidation reaction (HOR) are two or three orders of magnitude slower than in that acidic media. Therefore, it is urgently desirable to improve noble metal utilization efficiency and/or develop high&#8208;performance PGM&#8208;free electrocatalysts for HOR, thus promoting the real&#8208;world implementation of AEMFCs. In this review, the current research progress of electrocatalysts for HOR in alkaline media is summarized. We start with the discussion on the current HOR reaction mechanisms and existing controversies. Then, methodologies to improve the HOR performance are reviewed. Following these principles, the recently developed HOR electrocatalysts including PGM and PGM&#8208;free HOR electrocatalysts in alkaline media are systematically introduced. Finally, we put forward the challenges and prospects in the field of HOR catalysis.</description>
+      <author>Youze Zeng, Xue Wang, Yang Hu, Wei Qi, Zheng Wang, Meiling Xiao, Changpeng Liu, Wei Xing, Jianguo Zhu</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cnl2.152</guid>
+    </item>
+    <item>
+      <title>WyCryst: Wyckoff inorganic crystal generator framework</title>
+      <link>https://doi.org/10.1016/j.matt.2024.05.042</link>
+      <description>Ruiming Zhu, Wei Nong, Shuya Yamazaki, Kedar Hippalgaonkar, Matter. None(None)] 2024. https://openalex.org/W4400001790
+
+                No abstract</description>
+      <author>Ruiming Zhu, Wei Nong, Shuya Yamazaki, Kedar Hippalgaonkar</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matt.2024.05.042</guid>
+    </item>
+    <item>
+      <title>From 2e&#8722; to 4e&#8722; pathway in the alkaline oxygen reduction reaction on Au(100): Kinetic circumvention of the volcano curve</title>
+      <link>https://doi.org/10.1063/5.0211477</link>
+      <description>Yuke Li, Bing-Yu Liu, Yan&#8208;Xia Chen, Zhi-Feng Liu, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(24)] 2024. https://openalex.org/W4400006273
+
+                We report the free energy barriers for the elementary reactions in the 2e&#8722; and 4e&#8722; oxygen reduction reaction (ORR) steps on Au(100) in an alkaline solution. Due to the weak adsorption energy of O2 on Au(100), the barrier for the association channel is very low, and the 2e&#8722; pathway is clearly favored, while the barrier for the O&#8211;O dissociation channel is significantly higher at 0.5 eV. Above 0.7 V reversible hydrogen electrode (RHE), the association channel becomes thermodynamically unfavorable, which opens up the O&#8211;O dissociation channel, leading to the 4e&#8722; pathway. The low adsorption energy of oxygenated species on Au is now an advantage, and residue ORR current can be observed up to the 1.0&#8211;1.2 V region (RHE). In contrast, the O&#8211;O dissociation barrier on Au(111) is significantly higher, at close to 0.9 eV, due to coupling with surface reorganization, which explains the lower ORR activity on Au(111) than that on Au(100). In combination with the previously suggested outer sphere electron transfer to O2 for its initial adsorption, these results provide a consistent explanation for the features in the experimentally measured polarization curve for the alkaline ORR on Au(100) and demonstrate an ORR mechanism distinct from that on Pt(111). It also highlights the importance to consider the spin state of O2 in ORR and to understand the activation barriers, in addition to the adsorption energies, to account for the features observed in electrochemical measurements.</description>
+      <author>Yuke Li, Bing-Yu Liu, Yan&#8208;Xia Chen, Zhi-Feng Liu</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0211477</guid>
+    </item>
+    <item>
+      <title>Engineering and Design of Halide Perovskite Photoelectrochemical Cells for Solar&#8208;Driven Water Splitting</title>
+      <link>https://doi.org/10.1002/adfm.202405414</link>
+      <description>Saikiran Khamgaonkar, Anny Leudjo Taka, Vivek Maheshwari, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400008004
+
+                Abstract Photoelectrochemical cells (PEC) use solar energy to generate green hydrogen by water splitting and have an integrated device structure. Achieving high solar&#8208;to&#8208;hydrogen conversion (STH) efficiency along with a long operational lifetime in these cells is crucial for the production of low&#8208;cost green hydrogen as a viable energy source. Several functional components, such as photo absorber, charge transport, and catalyst layers are interfaced in these cells to form a compact monolithic device. In this review, therefore, the engineering and design of the individual components of these cells, the interplay between them, and their interfaces are discussed in detail, as these factors determine the overall performance of the cells. The main emphasis is on halide perovskite (HP) photo absorbers, which have emerged as promising materials for use in these cells due to their superior optoelectronic properties. Recent advances in the development of efficient and stable perovskite&#8208;based cells are highlighted and reviewed. The design of catalysts for water splitting and the effect of factors such as pH and supporting cations are also examined. Finally, the scientific challenges and future directions for designing perovskite&#8208;based photoelectrochemical cells are discussed. This review can help researchers further advance this technology toward commercial production of green hydrogen.</description>
+      <author>Saikiran Khamgaonkar, Anny Leudjo Taka, Vivek Maheshwari</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202405414</guid>
+    </item>
+    <item>
+      <title>Heat-Induced Aliquation and Phosphating of Nickel as Efficient Catalysts for Hydrogen Evolution in Alkaline Seawater</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101635</link>
+      <description>Peng&#8208;Jun Deng, Yaxuan Wang, Yang Liu, Jiajia Lu, Han&#8208;Pu Liang, Materials today energy. None(None)] 2024. https://openalex.org/W4400016692
+
+                No abstract</description>
+      <author>Peng&#8208;Jun Deng, Yaxuan Wang, Yang Liu, Jiajia Lu, Han&#8208;Pu Liang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101635</guid>
+    </item>
+    <item>
+      <title>Sensitivity Analysis of Electrochemical Double Layer Approximations on Electrokinetic Predictions: Case Study for CO Reduction on Copper</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01457</link>
+      <description>Andrew Jark-Wah Wong, Bolton Tran, Naveen Agrawal, Bryan R. Goldsmith, Michael J. Janik, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400017419
+
+                Density functional theory (DFT) modeling has been useful to electrocatalyst research, yet simulating the complexities of the electrode&#8211;electrolyte interface hinders progress in understanding reaction mechanisms and the underlying kinetics. Though many approaches to incorporating electrochemical double layer (EDL) features in DFT calculations have been developed, uncertainty in interfacial solvent properties and the distribution of ions leave the impact of the EDL on electrocatalytic kinetics unclear. Elucidating the sensitivity of DFT predictions to the EDL properties and model is crucial. Herein, we use an analytical Grand Canonical DFT framework (aGC-DFT) to quantify the sensitivity of potential-dependent activation energies to parameters of the EDL, incorporating a Helmholtz EDL model with varying dielectric constant (&#949;r) and EDL width (d). We compute the activation barriers for OC&#8211;H, CO&#8211;H, and OC&#8211;CO bond formation from CO* on Cu. These elementary reactions are critical within the heavily debated reaction mechanism of CO2 reduction and are likely to impact overall activity and product selectivity. We show the aGC-DFT method produces consistent results with explicit GC-DFT calculations, while enabling probing of the EDL model sensitivity at a much lower computational cost. Reaction steps with significant dipole moment changes (i.e., CO&#8211;H bond formation) are highly sensitive to the chosen EDL parameters, such that the relative barriers of the OC&#8211;H, CO&#8211;H, and OC&#8211;CO bond formation steps depend significantly on EDL properties. Without knowledge of the interfacial properties of the EDL, there is substantial uncertainty in activation barriers and elementary reaction rates within a DFT analysis of electrocatalytic kinetics.</description>
+      <author>Andrew Jark-Wah Wong, Bolton Tran, Naveen Agrawal, Bryan R. Goldsmith, Michael J. Janik</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01457</guid>
     </item>
     <item>
       <title>Low-energy electrochemical CO2-amine desorption driven by the proton-coupled electron transfer reaction (PCET)</title>
