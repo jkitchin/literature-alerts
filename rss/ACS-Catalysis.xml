@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Jun 2024 01:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 01:09:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Formation of (Rh&#8211;Fe)&#8211;FeO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Complex Sites Enables Methanol Synthesis from CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c00339</link>
-      <description>Yifeng Zhu, Ran Luo, Honghong Shi, Katherine Koh, Libor Kova&#345;&#237;k, John L. Fulton, Johannes A. Lercher, Zhi&#8208;Jian Zhao, Jinlong Gong, Oliver Y. Guti&#233;rrez, ACS catalysis. None(None)] 2024. https://openalex.org/W4399803165
-
-                We addressed the challenges of designing catalysts for selective CO2 hydrogenation by incorporating Fe oxide species onto Rh nanoparticles. Nanoscopic FeOx domains created a "reverse catalyst" structure (i.e., a metal oxide supported on a metal) that increased the density of interfacial sites compared to traditional supported catalysts. The contact between the metal nanoparticle and the oxide overlayer induced the formation of a surface Rh&#8211;Fe alloy that stabilized methoxy groups while suppressing hydrogenolysis to methane. Sites at FeOx&#8211;metal interfaces interact with CO2 much stronger than sites on metal surfaces, show larger energy barriers to cleave the C&#8211;O bonds, and offer a barrierless pathway for the hydrogenation of methoxy species to methanol. Consequently, the multifunctional sites over FeOx/Rh&#8211;Fe catalysts highlight and meet the requirements of a selective methanol catalyst: strong interaction with CO2 to ensure a high density of transition states, metal sites to activate and make hydrogen available to surface intermediates, and high energy barriers for C&#8211;O bond cleavage to form carbides. These synthetic and catalytic chemistries, demonstrated for Rh&#8211;Fe&#8211;FeOx interfaces, enable us to overcome the limitations to the design of methanol production catalysts.</description>
-      <author>Yifeng Zhu, Ran Luo, Honghong Shi, Katherine Koh, Libor Kova&#345;&#237;k, John L. Fulton, Johannes A. Lercher, Zhi&#8208;Jian Zhao, Jinlong Gong, Oliver Y. Guti&#233;rrez</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00339</guid>
-    </item>
-    <item>
-      <title>Crucial Effect of Subsurface Hydrogen on Low-Barrier Hydrogenation and Keto&#8211;Enol Tautomerization of Carbonyl Compounds</title>
-      <link>https://doi.org/10.1021/acscatal.4c01441</link>
-      <description>Philipp A. Haugg, Jan Smyczek, P. Hubert, Carsten Schr&#246;der, Swetlana Schauermann, ACS catalysis. None(None)] 2024. https://openalex.org/W4399804824
-
-                Hydrogenation of a normally highly stable carbonyl group is an important step in many technological applications, including emerging molecular systems for reversible hydrogen storage. In this report, we present a mechanistic study of low-temperature hydrogenation of carbonyl compounds over Pd, proceeding via keto&#8211;enol tautomerization in the first step. The specific focus of this study is on the role of subsurface hydrogen absorbed in the nearest region below the Pd surface. Employing a combination of real space microscopic and operando spectroscopic surface sensitive techniques, as well as molecular beams, we show that subsurface H plays a crucial role in both keto&#8211;enol tautomerization and hydrogenation of the carbonyl compound acetylpyridine on the Pd(111) model catalyst. We demonstrate that a growing amount of subsurface H results in an enhanced abundance of enol species followed by hydrogenation already at cryogenic temperatures. In contrast, if only H adsorbed on the surface is present, no hydrogenation occurs, and substantially smaller amounts of enol species are formed. The population of subsurface H is also accompanied by a change in the mechanism of enol stabilization via hydrogen bonding: while in the presence of subsurface H specific enol-containing dimers are predominately formed, which strongly interact via the enol-acetyl or enol&#8211;enol groups, in the absence of subsurface H, a weaker interaction between the adsorbates occurs, which is realized mainly via the enol group of one molecule with a H atom belonging to the pyridine ring of the neighboring adsorbate. The observed strongly correlated behavior between the growing concentration of subsurface H, enhanced abundance of the enol form of acetylpyridine, and the onset of hydrogenation prove the crucial role of subsurface H species in the low-barrier hydrogenation pathway of carbonyl compounds. The obtained atomistic-level insights offer a prospect of controllable low-temperature hydrogenation of carbonyl compounds by tuning the abundance of subsurface H, which has not been available so far.</description>
-      <author>Philipp A. Haugg, Jan Smyczek, P. Hubert, Carsten Schr&#246;der, Swetlana Schauermann</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01441</guid>
-    </item>
-    <item>
-      <title>Overcoming Electron Bias in Hydroarylation of Phenylpropiolic Acid Derivatives To Enable Highly Reversed Regio- and Stereoselectivity via Steric and Transient Post Addition Coordination</title>
-      <link>https://doi.org/10.1021/acscatal.4c01944</link>
-      <description>Hui Li, Xu Tian, Qin-Qin Dang, Jing Zhang, Zhen&#8208;Kang Wen, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812225
-
-                The regio- and stereoselective hydroarylation of internal alkynes via transition-metal catalysis offers a direct approach for designing highly stereodefined multifunctionalized olefins. Through recognition of electronic bias, &#946;-syn-hydroarylation of electronic poor alkynes with arylboronic acids has been well studied. However, from the same starting materials, achieving the opposite &#945;-selective and highly anti-stereoselective hydroarylation remains a significant challenge due to these inherent biases. Therefore, an alternative synthetic pathway to trisubstituted alkenes with reversed positioning and configuration of substituents is highly desirable. Based on steric repulsion-induced regioselectivity and transient post-addition coordination-directed stereoselectivity, we report herein an &#945;-hydroarylation method for phenylpropiolic esters using a nickel catalyst that promotes a formal anti-addition pathway. A broad range of organoboronic acids and phenylpropiolic acid derivatives are compatible with this hydroarylation protocol, offering an alternative selectivity to traditional &#946;-syn-hydroarylation reactions. The distinct advantages of our method include precise control over selectivity, reduced catalyst loading, and broad tolerance toward functional groups. These features highlight the potential of our approach in the synthesis of multifunctionalized alkenes and in the late-stage modification of alkyne-based drug intermediates, showcasing its versatility and applicability in organic synthesis.</description>
-      <author>Hui Li, Xu Tian, Qin-Qin Dang, Jing Zhang, Zhen&#8208;Kang Wen</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01944</guid>
-    </item>
-    <item>
-      <title>Engineering Durable Anion Exchange Membrane Water Electrolyzers through Suppressed Electrochemical Corrosion of a NiFe&#8211;Graphitic Carbon Shell Anode Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c02696</link>
-      <description>Young Sang Park, Gwan Hyun Choi, Jiyoon Jung, Cheol&#8208;Hee Ahn, Seung Sang Hwang, Myeong Gyun Nam, Pil J. Yoo, Albert S. Lee, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812294
-
-                Anion exchange membrane water electrolysis (AEMWE) shows potential for hydrogen production using cost-effective nonplatinum group metal (non-PGM) catalysts, achieving high current density performance. However, challenges remain in developing materials, including stable membranes and ionomers under alkaline conditions and non-PGM catalysts that are both high-performing and durable for the anodic oxygen evolution reaction (OER). This study presents an approach for synthesizing highly crystalline carbon-encapsulated metal nanoparticle networks using a polyphenolic tannic acid precursor and non-PGM NiFe metal cores, creating a durable OER catalyst. The simplified synthetic process introduces graphitic carbon layers (GCLs) to encompass the NiFe catalytic nanoparticles. Rigorous testing over 1100 h of continuous current operation demonstrates the stability of the catalysts, which is attributed to the robust interaction between the catalyst and the carbon support. The enhanced durability is further confirmed through theoretical calculations, showing greater resistance to corrosion in graphitic carbon compared to defective carbon. This study highlights the importance of highly crystalline carbon structures for achieving both high performance and durability in OER catalysts, which are vital for cost-effective AEMWE technologies. The findings contribute significantly to understanding the role of regulating carbon crystalline properties in developing efficient and durable non-PGM OER electrocatalysts.</description>
-      <author>Young Sang Park, Gwan Hyun Choi, Jiyoon Jung, Cheol&#8208;Hee Ahn, Seung Sang Hwang, Myeong Gyun Nam, Pil J. Yoo, Albert S. Lee</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02696</guid>
-    </item>
-    <item>
-      <title>Fast Photocatalytic Hydrogen Peroxide Generation by Singlet Oxygen-Engaged Sequential Excitation Energy and Electron-Transfer Process</title>
-      <link>https://doi.org/10.1021/acscatal.4c01591</link>
-      <description>Xiangkang Zeng, Tianyi Wang, Zhuyuan Wang, Mike Tebyetekerwa, Yue Liu, Zhuoyue Liu, Gen Wang, Ary Anggara Wibowo, Gregory K. Pierens, Qinfen Gu, Xiwang Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812367
-
-                Sequential excitation energy and electron transfer (ET) are ubiquitous pathways for converting solar energy to chemical energy in photosynthesis. Mimicking this unique process for chemical synthesis is promising yet still a big challenge. Herein, taking photosynthesis as an inspiration, we demonstrate an interesting pathway for oxygen reduction to hydrogen peroxide (H2O2), an important and valuable commodity chemical. The proposed route was verified on a biomimetic photocatalyst, i.e., an aluminum porphyrin metal&#8211;organic framework nanosheet (Al&#8211;TCPP). Experimental investigations and theoretical calculations reveal that the dioxygen molecule is first converted to a highly active singlet oxygen intermediate through an excitation energy transfer (EET) and then reduced to H2O2 via the photogenerated electrons with a reduced barrier over Al&#8211;TCPP. Consequently, Al&#8211;TCPP shows a 32 times higher H2O2 evolution rate than that of the pristine TCPP counterpart, wherein excitation energy transfer mainly exists. This study presents a paradigm to mimic the photosynthetic sequential excitation energy and electron-transfer process for improved synthesis of valuable commodity chemicals.</description>
-      <author>Xiangkang Zeng, Tianyi Wang, Zhuyuan Wang, Mike Tebyetekerwa, Yue Liu, Zhuoyue Liu, Gen Wang, Ary Anggara Wibowo, Gregory K. Pierens, Qinfen Gu, Xiwang Zhang</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01591</guid>
-    </item>
-    <item>
-      <title>Oxygen Vacancy-Induced Interfacial Lanthanum Hydride and Hydroxide Bifunctional Sites for Selective Hydrogenolysis of Furanic Compounds to Alkyl Diols</title>
-      <link>https://doi.org/10.1021/acscatal.4c01266</link>
-      <description>Yongsheng Zhang, Hongxia Xue, Mengqing Cheng, Xiaomeng Yang, Zhen Zhang, Xinbao Zhao, Armin Rezayan, Dandan Han, Dan Wu, Chunbao Xu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399830090
-
-                Selective hydrogenolysis of C&#8211;O bonds in biomass-derived oxygenated molecules is of great significance for the conversion of biomass to chemicals and fuels, especially for the inert C&#8211;O&#8211;C bonds in tetrahydrofuran rings. However, the lack of precise active sites results in the low activity of this reaction. In this work, the metal&#8211;support interfacial structure of the Ni&#8211;La2O3 catalyst was well-controlled by reducing LaNiO3 perovskite at different temperatures. During the reduction, the exsolution and segregation of Ni in the LaNiO3 perovskite led to the formation of metallic Ni nanoparticles and interfacial oxygen-vacant Ni2+-Ov-La3+ sites. Hydrogen spillover from Ni nanoparticles to the interface promoted the in situ generation of La&#8211;OH species under reaction conditions. At the same time, the oxygen vacancies at the interfacial Ni2+-Ov-La3+ sites can accommodate the spilled H, inducing the formation of the La&#8211;H species. The hydroxyl group in tetrahydrofurfuryl alcohol (THFA) interacted with La&#8211;OH through a metal alkoxide intermediate, which was subsequently hydrogenolyzed by the La&#8211;H to produce 1,5-pentanediol (1,5-PeD). The intimate La&#8211;H and La&#8211;OH bifunctional sites on the metal&#8211;support interface have a strong synergistic effect, endowing the Ni&#8211;La2O3 catalyst with a high THFA hydrogenolysis activity. The proposed interfacial La&#8211;H assisted C&#8211;O bond hydrogenolysis provides an idea for the design of efficient hydrodeoxygenation catalysts for biomass upgrading.</description>
-      <author>Yongsheng Zhang, Hongxia Xue, Mengqing Cheng, Xiaomeng Yang, Zhen Zhang, Xinbao Zhao, Armin Rezayan, Dandan Han, Dan Wu, Chunbao Xu</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01266</guid>
-    </item>
     <item>
       <title>Synthesis of Highly Active GaN:ZnO Photocatalysts Applicable to Z-Scheme Overall Water Splitting Systems</title>
       <link>https://doi.org/10.1021/acscatal.4c02172</link>
@@ -148,16 +88,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02007</guid>
     </item>
     <item>
-      <title>Copper-Catalyzed Dearomative &lt;i&gt;trans&lt;/i&gt;-1,2-Carboamination</title>
-      <link>https://doi.org/10.1021/acscatal.4c02656</link>
-      <description>Charles W. Davis, Yanrong Li, Yu Zhang, Zohaib Siddiqi, Peng Liu, David &#352;arlah, ACS catalysis. None(None)] 2024. https://openalex.org/W4399872712
-
-                We have achieved the arenophile-mediated, copper-catalyzed dearomative trans-1,2-carboamination of nonactivated arenes with alkyl organometallic nucleophiles. This simple and practical procedure was used to prepare diverse, stereochemically rich alkylated cyclohexadienes from readily available arenes. Synthetic utility was demonstrated through the rapid preparation of complex small molecules difficult to access by conventional routes. Finally, we conducted DFT studies to explore the catalytic process, including a study of the reaction pathway and an examination of the divergent regioselectivity observed with substituted arenes.</description>
-      <author>Charles W. Davis, Yanrong Li, Yu Zhang, Zohaib Siddiqi, Peng Liu, David &#352;arlah</author>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02656</guid>
-    </item>
-    <item>
       <title>An Enzyme Catalyzing the Oxidative Maturation of Reduced Prenylated-FMN to Form the Active Coenzyme</title>
       <link>https://doi.org/10.1021/acscatal.4c02747</link>
       <description>Daniel A. DiRocco, Pronay Roy, Anushree Mondal, Prathamesh M. Datar, E. Neil G. Marsh, ACS catalysis. None(None)] 2024. https://openalex.org/W4399879371
@@ -196,16 +126,6 @@
       <author>Yiyang Zhou, Ruizhi Duan, Qinge Huang, Chunmei Ding, Can Li</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01793</guid>
-    </item>
-    <item>
-      <title>CuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Nanopatches Positioned at Lewis Acidic Sites of TiO&lt;sub&gt;2&lt;/sub&gt; for Propylene Epoxidation Using Molecular Oxygen</title>
-      <link>https://doi.org/10.1021/acscatal.4c01749</link>
-      <description>Zun-Ren Lv, Leilei Kang, Xiaoli Pan, Yang Su, Hua Wang, Lin Li, Xiao Yan Liu, Aiqin Wang, Tao Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399896664
-
-                Controlling the precise placement of active metals on supports is highly desirable yet challenging, which governs both the reaction pathway and the ultimate outcomes of catalytic reactions. Herein, the Cu species are positioned to the Lewis acidic sites created by the ultrahigh-temperature calcination of TiO2, where the atomic structures of the Lewis acids are identified as five-coordinated Ti4+ cations bound to three-coordinated O2&#8211; anions (L&#946; sites) by in situ characterizations. Owing to the robust chemical affinity, CuOx manifests itself as a nanopatch. The Cu/TiO2 catalyst without any modifications exhibits a propylene oxide (PO) formation rate of 44 mmol gCu&#8211;1 h&#8211;1 for direct epoxidation of propylene using molecular oxygen (DEP). The PO yield on Cu/TiO2 can be efficiently correlated with the quantity of the decreased Lewis acids, which demonstrates that the intimated interaction between the Cu species and Lewis acids should be responsible for PO production. Furthermore, density functional theory calculations suggest that Cu+ in the Ti&#8211;O&#8211;Cu interface formed at the L&#946; sites is the active site of the DEP reaction, with the aid of the adjacent Cu atom. This study provides a Cu-based catalyst for the DEP reaction.</description>
-      <author>Zun-Ren Lv, Leilei Kang, Xiaoli Pan, Yang Su, Hua Wang, Lin Li, Xiao Yan Liu, Aiqin Wang, Tao Zhang</author>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01749</guid>
     </item>
     <item>
       <title>Synergizing Amino Tethering and Carbon Shell Confinement Enables Confinement Synthesis of PtCo Intermetallic Catalysts for Highly Durable Fuel Cells</title>
@@ -268,26 +188,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02813</guid>
     </item>
     <item>
-      <title>Cobalt(II) Nanoclusters Incorporated in Ordered Mesoporous Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; for Stable and Coke-Resistant Propane Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02067</link>
-      <description>Fabian Ebert, Piyush Ingale, Sarah Vogl, Sebastian Praetz, Christopher Schlesiger, Nils Pfister, Raoul Naumann d&#8217;Alnoncourt, Beatriz Rold&#225;n Cuenya, Arne Thomas, Esteban Gioria, Frank Rosowski, ACS catalysis. None(None)] 2024. https://openalex.org/W4399806935
-
-                Due to their availability, low cost, and activity, cobalt-based catalysts are a promising alternative to platinum for the industrial propane dehydrogenation processes. However, their low stability due to sintering, phase transformation, and coke deposition leads to severe deactivation. In this work, the synthesis of amorphous, ordered mesoporous alumina with stabilized Co2+ nanoclusters (Co-m-Al2O3) via an evaporation-induced self-assembly synthesis route is presented. The ordered mesoporous alumina is characterized for containing a large amount of defective pentacoordinate Al3+ sites and a small amount of strong acid sites. The incorporation of Co2+ clusters within the m-Al2O3 structure enhances the dispersion and stability and preserves their reduction even after prolonged time on stream. This leads to a highly selective and steady catalytic performance in the propane dehydrogenation reaction under industrial-relevant conditions. A significantly low deactivation rate of 0.53 d&#8211;1 with stable propylene selectivity of 95% is observed after 23 h, resulting in a 117% higher space&#8211;time yield toward propylene compared to the state-of-the-art impregnated Co/&#947;-Al2O3 catalyst. Furthermore, Co-m-Al2O3 leads to 4.6 times less coke formation, measured in situ for the first time. The detailed study of the nature of the cobalt sites, together with the acidic properties of the alumina supports, provides a deeper understanding of cobalt-based catalysts for dehydrogenation reactions.</description>
-      <author>Fabian Ebert, Piyush Ingale, Sarah Vogl, Sebastian Praetz, Christopher Schlesiger, Nils Pfister, Raoul Naumann d&#8217;Alnoncourt, Beatriz Rold&#225;n Cuenya, Arne Thomas, Esteban Gioria, Frank Rosowski</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02067</guid>
-    </item>
-    <item>
-      <title>Palladium-Catalyzed Allylic Alkylation Reactions of Nucleophilic Allenones: Asymmetric Allylic Alkylation, &lt;i&gt;Z/E&lt;/i&gt; Divergent Allylic Alkylation, and [5 + 2] Annulation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01460</link>
-      <description>Wang Wang, Yimin Hu, Kuan Li, Jiajia Xu, Cheng Zhang, Leijie Zhou, Lihan Zhu, Wangyu Shi, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812307
-
-                Metal-catalyzed allenylic substitution reactions where allenes serve as electrophilic precursors have been recognized as a rapid way for novel allene construction. On the contrary, the chemistry in which allenes act as nucleophiles has been far less investigated, especially in a powerful platform such as metal-catalyzed allylic alkylation reactions. We herein describe two unprecedented palladium-catalyzed allylic alkylation reactions of an allene nucleophile. In the first reaction, using vinyloxazolidinones as the allyl precursor, the palladium-catalyzed asymmetric allylation of trisubstituted allenones worked well to prepare an array of axially chiral tetrasubstituted allenes. Mechanistic studies and density functional theory (DFT) calculations indicated that weak hydrogen-bonding interaction between the acidic C(sp2)&#8211;H of allenone and the nitrogen anion of chiral &#960;-azaallyl-Pd species is key to the success of stereocontrol. This reaction revealed the intriguing reactivity of nucleophilic allenones in a metal-catalyzed asymmetric allylation reaction for the first time. In the second reaction, with the use of allenylethylene carbonates as &#960;-oxyallyl-Pd precursors, the palladium-catalyzed allylic alkylation reaction of allenone presented unique reactivity under different reaction conditions to provide divergent synthetic access to (E)- and (Z)-allenyl diene products. Interestingly, the subsequent sequential intramolecular cyclization/isomerization reaction of the (Z)-product delivered dihydrooxepine derivatives as [5 + 2] annulation products.</description>
-      <author>Wang Wang, Yimin Hu, Kuan Li, Jiajia Xu, Cheng Zhang, Leijie Zhou, Lihan Zhu, Wangyu Shi</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01460</guid>
-    </item>
-    <item>
       <title>Structural Aspects of MoS&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Prepared by Atomic Layer Deposition for Hydrogen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c01445</link>
       <description>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol, ACS catalysis. None(None)] 2024. https://openalex.org/W4399858629
@@ -308,6 +208,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02524</guid>
     </item>
     <item>
+      <title>Copper-Catalyzed Dearomative &lt;i&gt;trans&lt;/i&gt;-1,2-Carboamination</title>
+      <link>https://doi.org/10.1021/acscatal.4c02656</link>
+      <description>Charles W. Davis, Yanrong Li, Yu Zhang, Zohaib Siddiqi, Peng Liu, David &#352;arlah, ACS catalysis. None(None)] 2024. https://openalex.org/W4399872712
+
+                We have achieved the arenophile-mediated, copper-catalyzed dearomative trans-1,2-carboamination of nonactivated arenes with alkyl organometallic nucleophiles. This simple and practical procedure was used to prepare diverse, stereochemically rich alkylated cyclohexadienes from readily available arenes. Synthetic utility was demonstrated through the rapid preparation of complex small molecules difficult to access by conventional routes. Finally, we conducted DFT studies to explore the catalytic process, including a study of the reaction pathway and an examination of the divergent regioselectivity observed with substituted arenes.</description>
+      <author>Charles W. Davis, Yanrong Li, Yu Zhang, Zohaib Siddiqi, Peng Liu, David &#352;arlah</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02656</guid>
+    </item>
+    <item>
       <title>Photochemical Tuning of Tricoordinated Nitrogen Deficiency in Carbon Nitride to Create Delocalized &#960; Electron Clouds for Efficient CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction</title>
       <link>https://doi.org/10.1021/acscatal.4c01636</link>
       <description>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399891463
@@ -316,6 +226,16 @@
       <author>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu</author>
       <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01636</guid>
+    </item>
+    <item>
+      <title>CuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Nanopatches Positioned at Lewis Acidic Sites of TiO&lt;sub&gt;2&lt;/sub&gt; for Propylene Epoxidation Using Molecular Oxygen</title>
+      <link>https://doi.org/10.1021/acscatal.4c01749</link>
+      <description>Zun-Ren Lv, Leilei Kang, Xiaoli Pan, Yang Su, Hua Wang, Lin Li, Xiao Yan Liu, Aiqin Wang, Tao Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399896664
+
+                Controlling the precise placement of active metals on supports is highly desirable yet challenging, which governs both the reaction pathway and the ultimate outcomes of catalytic reactions. Herein, the Cu species are positioned to the Lewis acidic sites created by the ultrahigh-temperature calcination of TiO2, where the atomic structures of the Lewis acids are identified as five-coordinated Ti4+ cations bound to three-coordinated O2&#8211; anions (L&#946; sites) by in situ characterizations. Owing to the robust chemical affinity, CuOx manifests itself as a nanopatch. The Cu/TiO2 catalyst without any modifications exhibits a propylene oxide (PO) formation rate of 44 mmol gCu&#8211;1 h&#8211;1 for direct epoxidation of propylene using molecular oxygen (DEP). The PO yield on Cu/TiO2 can be efficiently correlated with the quantity of the decreased Lewis acids, which demonstrates that the intimated interaction between the Cu species and Lewis acids should be responsible for PO production. Furthermore, density functional theory calculations suggest that Cu+ in the Ti&#8211;O&#8211;Cu interface formed at the L&#946; sites is the active site of the DEP reaction, with the aid of the adjacent Cu atom. This study provides a Cu-based catalyst for the DEP reaction.</description>
+      <author>Zun-Ren Lv, Leilei Kang, Xiaoli Pan, Yang Su, Hua Wang, Lin Li, Xiao Yan Liu, Aiqin Wang, Tao Zhang</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01749</guid>
     </item>
     <item>
       <title>Selective Hydrogenation of Quinizarins to Leuco-quinizarins and Their Direct Derivatization Using Flow-Batch-Separator Unified Reactors under Continuous-Flow Conditions</title>
@@ -416,6 +336,76 @@
       <author>Zhan&#8208;Jun Zhu, Zhen&#8208;Hong He, Yajie Tian, Sen-Wang Wang, Yongchang Sun, Kuan Wang, Weitao Wang, Zhifang Zhang, Jiajie Liu, Zhao&#8208;Tie Liu</author>
       <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02599</guid>
+    </item>
+    <item>
+      <title>Substrate Turnover Dynamics Guide Ketol-Acid Reductoisomerase Redesign for Increased Specific Activity</title>
+      <link>https://doi.org/10.1021/acscatal.4c01446</link>
+      <description>Elijah Karvelis, Carl V. Swanson, Bruce Tidor, ACS catalysis. None(None)] 2024. https://openalex.org/W4400026423
+
+                No abstract</description>
+      <author>Elijah Karvelis, Carl V. Swanson, Bruce Tidor</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01446</guid>
+    </item>
+    <item>
+      <title>Kinetics and Mechanism of Integrated Catalytic Ammonolysis and Dehydration from Methyl Salicylate over ZnAl&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Spinel</title>
+      <link>https://doi.org/10.1021/acscatal.4c01477</link>
+      <description>Wei Yu, Zhuo-Ling Xie, Zhen Zeng, Chengcheng Li, J. M. An, Qingqing Hao, Huibin Ge, Huiyong Chen, Xiaoxun Ma, Qun&#8208;Xing Luo, ACS catalysis. None(None)] 2024. https://openalex.org/W4400030614
+
+                No abstract</description>
+      <author>Wei Yu, Zhuo-Ling Xie, Zhen Zeng, Chengcheng Li, J. M. An, Qingqing Hao, Huibin Ge, Huiyong Chen, Xiaoxun Ma, Qun&#8208;Xing Luo</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01477</guid>
+    </item>
+    <item>
+      <title>A Direct Z-Scheme Single-Atom MOC/COF Piezo-Photocatalytic System for Overall Water Splitting</title>
+      <link>https://doi.org/10.1021/acscatal.4c02243</link>
+      <description>Zizhan Liang, Xinao Li, Qing Chen, Xiaotian Wang, Peiyang Su, Jianfeng Huang, Yecheng Zhou, Limin Xiao, Jun&#8208;Min Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400031336
+
+                No abstract</description>
+      <author>Zizhan Liang, Xinao Li, Qing Chen, Xiaotian Wang, Peiyang Su, Jianfeng Huang, Yecheng Zhou, Limin Xiao, Jun&#8208;Min Liu</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02243</guid>
+    </item>
+    <item>
+      <title>Efficient Electrochemical Nitrate Reduction to Ammonia Driven by a Few Nanometer-Confined Built-In Electric Field</title>
+      <link>https://doi.org/10.1021/acscatal.4c02317</link>
+      <description>Maolin Zhang, Zedong Zhang, Shaolong Zhang, Zechao Zhuang, Kepeng Song, Karthik Paramaiah, Moyu Yi, Hao Huang, Dingsheng Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400037159
+
+                No abstract</description>
+      <author>Maolin Zhang, Zedong Zhang, Shaolong Zhang, Zechao Zhuang, Kepeng Song, Karthik Paramaiah, Moyu Yi, Hao Huang, Dingsheng Wang</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02317</guid>
+    </item>
+    <item>
+      <title>How Luminescence Performances of Silicon-Doped Carbon Dots Contribute to Copper-Catalyzed photoATRP?</title>
+      <link>https://doi.org/10.1021/acscatal.4c02203</link>
+      <description>Mengjie Zhou, Su Xu, Wenjie Zhang, Ge Shi, Yanjie He, Xiaoguang Qiao, Xinchang Pang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400041360
+
+                No abstract</description>
+      <author>Mengjie Zhou, Su Xu, Wenjie Zhang, Ge Shi, Yanjie He, Xiaoguang Qiao, Xinchang Pang</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02203</guid>
+    </item>
+    <item>
+      <title>&lt;i&gt;Cine-&lt;/i&gt;Substitution of Enolates: Enolate Dance/Coupling of Cycloalkenyl Pivalates by Nickel Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c02707</link>
+      <description>Eito Moriya, Kei Muto, Junichiro Yamaguchi, ACS catalysis. None(None)] 2024. https://openalex.org/W4400047375
+
+                No abstract</description>
+      <author>Eito Moriya, Kei Muto, Junichiro Yamaguchi</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02707</guid>
+    </item>
+    <item>
+      <title>CO&lt;sub&gt;2&lt;/sub&gt; Capture and Electrochemical Reduction of Low-Concentration CO&lt;sub&gt;2&lt;/sub&gt; Using a Re(I)-Complex Catalyst in Ethanol</title>
+      <link>https://doi.org/10.1021/acscatal.4c01120</link>
+      <description>Masahiko Miyaji, Yusuke Tamaki, Kei Kamogawa, Yuto Abiru, Manabu Abe, Osamu Ishitani, ACS catalysis. None(None)] 2024. https://openalex.org/W4400051414
+
+                No abstract</description>
+      <author>Masahiko Miyaji, Yusuke Tamaki, Kei Kamogawa, Yuto Abiru, Manabu Abe, Osamu Ishitani</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01120</guid>
     </item>
   </channel>
 </rss>

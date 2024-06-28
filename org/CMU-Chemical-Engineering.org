@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Jun 27 01:08:53 2024
+Created on Fri Jun 28 01:09:05 2024
 
-Found 7 results from 2024-06-20 to 2024-06-27
+Found 15 results from 2024-06-21 to 2024-06-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -148,6 +148,174 @@ No abstract
 OpenAlex: https://openalex.org/W4400015840 (Open access: False)
     
 [[https://openalex.org/A5020208081][Jaspreet Pannu]], [[https://openalex.org/A5085339061][D. Shaun Bloomfield]], [[https://openalex.org/A5082722944][Aibin Zhu]], [[https://openalex.org/A5060793099][Robert MacKnight]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5052058831][Anita Cicero]], [[https://openalex.org/A5047102918][Thomas V. Inglesby]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4873106 
+     
+No abstract    
+
+    
+
+* A Convexication-based Outer-approximation Method for Convex and Nonconvex MINLP  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400032103
+:TOPICS: Numerical Optimization Techniques, Model Predictive Control in Industrial Processes, Iterative Algorithms for Nonlinear Operators and Optimization
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50536-6")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400032103"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400032103"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400032103"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400032103 (Open access: False)
+    
+[[https://openalex.org/A5035222919][Zedong Peng]], [[https://openalex.org/A5043879940][Kai Cao]], [[https://openalex.org/A5041525918][Kevin C. Furman]], [[https://openalex.org/A5060513285][Can Li]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5015746295][David E. Bernal Neira]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50536-6 
+     
+No abstract    
+
+    
+
+* Multi-Objective Optimization of the Renewable Methanol for a Defossilized Production  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400032411
+:TOPICS: State-of-the-Art in Process Optimization under Uncertainty, Catalytic Carbon Dioxide Hydrogenation, Carbon Dioxide Capture and Storage Technologies
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50360-4")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400032411"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400032411"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400032411"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400032411 (Open access: False)
+    
+[[https://openalex.org/A5032986873][Javier Fernández-Gónzalez]], [[https://openalex.org/A5035459792][Marta Rumayor]], [[https://openalex.org/A5099515916][Jara Laso-Cortabitarte]], [[https://openalex.org/A5064714181][Antonio Domínguez-Ramos]], [[https://openalex.org/A5066309412][Ángel Irabien]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50360-4 
+     
+No abstract    
+
+    
+
+* An MILP based-approach to logistics of air separation supply chains with a heterogeneous fleet of trucks  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400032669
+:TOPICS: Design and Control of Warehouse Operations, Scheduling Problems in Manufacturing Systems, Coordination and Information Sharing in Supply Chains
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50334-3")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400032669"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400032669"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400032669"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400032669 (Open access: False)
+    
+[[https://openalex.org/A5059336060][Sergio G. Bonino]], [[https://openalex.org/A5040893169][Luis J. Zeballos]], [[https://openalex.org/A5079259051][Akash Moolya]], [[https://openalex.org/A5021666414][José A. Laínez]], [[https://openalex.org/A5067309617][José M. Pinto]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5076418997][Carlos A. Méndez]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50334-3 
+     
+No abstract    
+
+    
+
+* Nonlinear dynamic optimization for gas pipelines operation  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400032713
+:TOPICS: Integration of Renewable Energy Systems in Power Grids, Application of Diagnostic Techniques in Oil Wells, Advanced Techniques in Reservoir Management
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50277-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400032713"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400032713"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400032713"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400032713 (Open access: False)
+    
+[[https://openalex.org/A5022525870][Lavinia Marina Paola Ghilardi]], [[https://openalex.org/A5054628015][Sakshi Naik]], [[https://openalex.org/A5020653800][Emanuele Martelli]], [[https://openalex.org/A5034550586][Francesco Casella]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50277-5 
+     
+No abstract    
+
+    
+
+* Integration of Plant Scheduling Feasibility with Supply Chain Network Under Disruptions Using Machine Learning Surrogates  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400032798
+:TOPICS: State-of-the-Art in Process Optimization under Uncertainty, Scheduling Problems in Manufacturing Systems, Coordination and Information Sharing in Supply Chains
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50249-0")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400032798"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400032798"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400032798"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400032798 (Open access: False)
+    
+[[https://openalex.org/A5067396423][Daniel Ovalle]], [[https://openalex.org/A5069059476][Jaldhar Vyas]], [[https://openalex.org/A5030631754][Carl D. Laird]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50249-0 
+     
+No abstract    
+
+    
+
+* Progressive Hedging Decomposition for Solutions of Large-Scale Process Family Design Problems  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400032883
+:TOPICS: Scheduling Problems in Manufacturing Systems, Model Predictive Control in Industrial Processes, Design and Control of Warehouse Operations
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50215-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400032883"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400032883"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400032883"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400032883 (Open access: False)
+    
+[[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5027375769][Jean‐Paul Watson]], [[https://openalex.org/A5030631754][Carl D. Laird]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50215-5 
+     
+No abstract    
+
+    
+
+* Sequential Design of Experiments for Parameter Estimation with Markov Chain Monte Carlo  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400035709
+:TOPICS: Experimental Design and Optimization Methods, Uncertainty Quantification and Sensitivity Analysis, Multiobjective Optimization in Evolutionary Algorithms
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-28824-1.50534-2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400035709"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400035709"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400035709"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400035709 (Open access: False)
+    
+[[https://openalex.org/A5069724477][Xinyu Cao]], [[https://openalex.org/A5040431226][Xi Chen]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://doi.org/10.1016/b978-0-443-28824-1.50534-2 
+     
+No abstract    
+
+    
+
+* Mixed-Integer Nonlinear Programming Model for Optimal Field Management for Carbon Capture and Storage  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400047123
+:TOPICS: Carbon Dioxide Capture and Storage Technologies, State-of-the-Art in Process Optimization under Uncertainty, Thermophoresis and Thermodiffusion Studies
+:PUBLICATION_DATE: 2024-06-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.iecr.4c00390")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400047123"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400047123"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400047123"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400047123 (Open access: True)
+    
+[[https://openalex.org/A5099522077][Ambrish Abhijnan]], [[https://openalex.org/A5062690666][K. A. Desai]], [[https://openalex.org/A5029762841][Jiaqi Wang]], [[https://openalex.org/A5016511431][Alejandro Rodríguez-Martínez]], [[https://openalex.org/A5088388198][Nouha Dkhili]], [[https://openalex.org/A5056355751][Raymond Jellema]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], Industrial & engineering chemistry research. None(None)] 2024. https://doi.org/10.1021/acs.iecr.4c00390  ([[https://pubs.acs.org/doi/pdf/10.1021/acs.iecr.4c00390][pdf]])
      
 No abstract    
 

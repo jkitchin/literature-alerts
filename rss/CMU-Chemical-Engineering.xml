@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 27 Jun 2024 01:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 01:09:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -76,6 +76,86 @@
       <author>Jaspreet Pannu, D. Shaun Bloomfield, Aibin Zhu, Robert MacKnight, Gabriel Gomes, Anita Cicero, Thomas V. Inglesby</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4873106</guid>
+    </item>
+    <item>
+      <title>A Convexication-based Outer-approximation Method for Convex and Nonconvex MINLP</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50536-6</link>
+      <description>Zedong Peng, Kai Cao, Kevin C. Furman, Can Li, Ignacio E. Grossmann, David E. Bernal Neira, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032103
+
+                No abstract</description>
+      <author>Zedong Peng, Kai Cao, Kevin C. Furman, Can Li, Ignacio E. Grossmann, David E. Bernal Neira</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50536-6</guid>
+    </item>
+    <item>
+      <title>Multi-Objective Optimization of the Renewable Methanol for a Defossilized Production</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50360-4</link>
+      <description>Javier Fern&#225;ndez-G&#243;nzalez, Marta Rumayor, Jara Laso-Cortabitarte, Antonio Dom&#237;nguez-Ramos, &#193;ngel Irabien, Ignacio E. Grossmann, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032411
+
+                No abstract</description>
+      <author>Javier Fern&#225;ndez-G&#243;nzalez, Marta Rumayor, Jara Laso-Cortabitarte, Antonio Dom&#237;nguez-Ramos, &#193;ngel Irabien, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50360-4</guid>
+    </item>
+    <item>
+      <title>An MILP based-approach to logistics of air separation supply chains with a heterogeneous fleet of trucks</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50334-3</link>
+      <description>Sergio G. Bonino, Luis J. Zeballos, Akash Moolya, Jos&#233; A. La&#237;nez, Jos&#233; M. Pinto, Ignacio E. Grossmann, Carlos A. M&#233;ndez, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032669
+
+                No abstract</description>
+      <author>Sergio G. Bonino, Luis J. Zeballos, Akash Moolya, Jos&#233; A. La&#237;nez, Jos&#233; M. Pinto, Ignacio E. Grossmann, Carlos A. M&#233;ndez</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50334-3</guid>
+    </item>
+    <item>
+      <title>Nonlinear dynamic optimization for gas pipelines operation</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50277-5</link>
+      <description>Lavinia Marina Paola Ghilardi, Sakshi Naik, Emanuele Martelli, Francesco Casella, Lorenz T. Biegler, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032713
+
+                No abstract</description>
+      <author>Lavinia Marina Paola Ghilardi, Sakshi Naik, Emanuele Martelli, Francesco Casella, Lorenz T. Biegler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50277-5</guid>
+    </item>
+    <item>
+      <title>Integration of Plant Scheduling Feasibility with Supply Chain Network Under Disruptions Using Machine Learning Surrogates</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50249-0</link>
+      <description>Daniel Ovalle, Jaldhar Vyas, Carl D. Laird, Ignacio E. Grossmann, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032798
+
+                No abstract</description>
+      <author>Daniel Ovalle, Jaldhar Vyas, Carl D. Laird, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50249-0</guid>
+    </item>
+    <item>
+      <title>Progressive Hedging Decomposition for Solutions of Large-Scale Process Family Design Problems</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50215-5</link>
+      <description>Georgia Stinchfield, Jean&#8208;Paul Watson, Carl D. Laird, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032883
+
+                No abstract</description>
+      <author>Georgia Stinchfield, Jean&#8208;Paul Watson, Carl D. Laird</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50215-5</guid>
+    </item>
+    <item>
+      <title>Sequential Design of Experiments for Parameter Estimation with Markov Chain Monte Carlo</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50534-2</link>
+      <description>Xinyu Cao, Xi Chen, Lorenz T. Biegler, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400035709
+
+                No abstract</description>
+      <author>Xinyu Cao, Xi Chen, Lorenz T. Biegler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50534-2</guid>
+    </item>
+    <item>
+      <title>Mixed-Integer Nonlinear Programming Model for Optimal Field Management for Carbon Capture and Storage</title>
+      <link>https://doi.org/10.1021/acs.iecr.4c00390</link>
+      <description>Ambrish Abhijnan, K. A. Desai, Jiaqi Wang, Alejandro Rodr&#237;guez-Mart&#237;nez, Nouha Dkhili, Raymond Jellema, Ignacio E. Grossmann, Industrial &amp; engineering chemistry research. None(None)] 2024. https://openalex.org/W4400047123
+
+                No abstract</description>
+      <author>Ambrish Abhijnan, K. A. Desai, Jiaqi Wang, Alejandro Rodr&#237;guez-Mart&#237;nez, Nouha Dkhili, Raymond Jellema, Ignacio E. Grossmann</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c00390</guid>
     </item>
   </channel>
 </rss>
