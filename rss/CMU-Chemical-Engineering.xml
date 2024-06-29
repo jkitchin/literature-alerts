@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Jun 2024 01:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 01:07:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Matheuristic Approaches for Multi-Product 3-Dimensional Container Loading Problem</title>
-      <link>https://doi.org/10.2139/ssrn.4871843</link>
-      <description>Riddhesh Kumtakar, Nitish Umang, Gary Kocis, Dean Face, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4399849795
-
-                No abstract</description>
-      <author>Riddhesh Kumtakar, Nitish Umang, Gary Kocis, Dean Face, Chrysanthos E. Gounaris</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4871843</guid>
-    </item>
     <item>
       <title>Intense formation of secondary ultrafine particles from Amazonian vegetation fires and their invigoration of deep clouds and precipitation</title>
       <link>https://doi.org/10.1016/j.oneear.2024.05.015</link>
@@ -88,6 +78,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50536-6</guid>
     </item>
     <item>
+      <title>Global Optimization via Quadratic Disjunctive Programming for Water Networks Design with Energy Recovery</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50361-6</link>
+      <description>Carolina Trist&#225;n, Marcos Fallanza, Raquel Ib&#225;&#241;ez, Ignacio E. Grossmann, David E. Bernal Neira, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032355
+
+                No abstract</description>
+      <author>Carolina Trist&#225;n, Marcos Fallanza, Raquel Ib&#225;&#241;ez, Ignacio E. Grossmann, David E. Bernal Neira</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50361-6</guid>
+    </item>
+    <item>
       <title>Multi-Objective Optimization of the Renewable Methanol for a Defossilized Production</title>
       <link>https://doi.org/10.1016/b978-0-443-28824-1.50360-4</link>
       <description>Javier Fern&#225;ndez-G&#243;nzalez, Marta Rumayor, Jara Laso-Cortabitarte, Antonio Dom&#237;nguez-Ramos, &#193;ngel Irabien, Ignacio E. Grossmann, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032411
@@ -148,6 +148,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50534-2</guid>
     </item>
     <item>
+      <title>Scale-bridging Optimization Framework for Desalination Integrated Produced Water Networks</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50371-9</link>
+      <description>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400035779
+
+                No abstract</description>
+      <author>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50371-9</guid>
+    </item>
+    <item>
       <title>Mixed-Integer Nonlinear Programming Model for Optimal Field Management for Carbon Capture and Storage</title>
       <link>https://doi.org/10.1021/acs.iecr.4c00390</link>
       <description>Ambrish Abhijnan, K. A. Desai, Jiaqi Wang, Alejandro Rodr&#237;guez-Mart&#237;nez, Nouha Dkhili, Raymond Jellema, Ignacio E. Grossmann, Industrial &amp; engineering chemistry research. None(None)] 2024. https://openalex.org/W4400047123
@@ -156,6 +166,26 @@
       <author>Ambrish Abhijnan, K. A. Desai, Jiaqi Wang, Alejandro Rodr&#237;guez-Mart&#237;nez, Nouha Dkhili, Raymond Jellema, Ignacio E. Grossmann</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c00390</guid>
+    </item>
+    <item>
+      <title>Computational Fluid Dynamics and Trust-Region Methods to Optimize Carbon Capture Plants with Membrane Contactors</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50030-2</link>
+      <description>H&#233;ctor A. Pedrozo, Grigorios Panagakos, Lorenz T. Biegler, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400062289
+
+                No abstract</description>
+      <author>H&#233;ctor A. Pedrozo, Grigorios Panagakos, Lorenz T. Biegler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50030-2</guid>
+    </item>
+    <item>
+      <title>Atomic-scale Origin of the Enantiospecific Decomposition of Tartaric Acid on Chiral Copper Surfaces</title>
+      <link>https://doi.org/10.1039/d4cc02384f</link>
+      <description>Avery S. Daniels, Andrew J. Gellman, E. Charles H. Sykes, Chemical communications. None(None)] 2024. https://openalex.org/W4400067074
+
+                The origin of the enantiospecific decomposition of L- and D-tartaric acid on chiral Cu surfaces is elucidated on a structure-spread domed Cu(110) crystal by spatially resolved XPS and atomic-scale STM...</description>
+      <author>Avery S. Daniels, Andrew J. Gellman, E. Charles H. Sykes</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cc02384f</guid>
     </item>
   </channel>
 </rss>

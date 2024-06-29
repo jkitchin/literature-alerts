@@ -1,29 +1,29 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Fri Jun 28 01:09:06 2024
+Created on Sat Jun 29 01:07:47 2024
 
-Found 1 results from 2024-06-21 to 2024-06-28
+Found 1 results from 2024-06-22 to 2024-06-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 
-* Optimal Dynamic Regimes for CO Oxidation Discovered by Reinforcement Learning  :Dynamic_catalysis___citing_and_related:
+* Unveiling the Nanomorphology of HfN thin Films by Ultrafast Reciprocal Space Mapping  :Dynamic_catalysis___citing_and_related:
 :PROPERTIES:
-:UUID: https://openalex.org/W4399864916
-:TOPICS: Stochastic Thermodynamics and Fluctuation Theorems, Catalytic Nanomaterials, Dynamics of Turbulent Combustion Systems
-:PUBLICATION_DATE: 2024-06-19
+:UUID: https://openalex.org/W4400089601
+:TOPICS: Failure Analysis of Integrated Circuits, Photonic Nanojet Enhancement and Applications, Atomic Force Microscopy Techniques
+:PUBLICATION_DATE: 2024-06-27
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsomega.3c10422")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adom.202400939")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399864916"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399864916"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399864916"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400089601"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400089601"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400089601"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4399864916 (Open access: True)
+OpenAlex: https://openalex.org/W4400089601 (Open access: True)
     
-[[https://openalex.org/A5055468753][M. S. Lifar]], [[https://openalex.org/A5071574900][Andrei A. Tereshchenko]], [[https://openalex.org/A5031651670][Aleksei N. Bulgakov]], [[https://openalex.org/A5065855550][Sergey A. Guda]], [[https://openalex.org/A5047279545][Alexander A. Guda]], [[https://openalex.org/A5088833253][Alexander V. Soldatov]], ACS omega. None(None)] 2024. https://doi.org/10.1021/acsomega.3c10422  ([[https://pubs.acs.org/doi/pdf/10.1021/acsomega.3c10422][pdf]])
+[[https://openalex.org/A5013104131][Steffen Peer Zeuschner]], [[https://openalex.org/A5039578463][Jan‐Etienne Pudell]], [[https://openalex.org/A5001207826][Maximilian Mattern]], [[https://openalex.org/A5085277727][Matthias Rössle]], [[https://openalex.org/A5051598411][Marc Herzog]], [[https://openalex.org/A5010833315][Andrea Baldi]], [[https://openalex.org/A5064856571][Sven H. C. Askes]], [[https://openalex.org/A5078472822][Matias Bargheer]], Advanced optical materials. None(None)] 2024. https://doi.org/10.1002/adom.202400939 
      
-No abstract    
+Abstract Hafnium Nitride (HfN) is a promising and very robust alternative to gold for applications of nanoscale metals. Details of the nanomorphology related to variations in strain states and optical properties can be crucial for applications in nanophotonics and plasmon‐assisted chemistry. Ultrafast reciprocal space mapping (URSM) with hard X‐rays is used to unveil the nanomorphology of thin HfN films. Static high‐resolution X‐ray diffraction reveals a twofold composition of the thin films being separated into regions with identical lattice constant and similar out‐of‐plane but hugely different in‐plane coherence lengths. URSM upon femtosecond laser excitation reveals different transient strain dynamics for the two respective Bragg peak components. This unambiguously locates the longer in‐plane coherence length in the first 15 nm of the thin film adjacent to the substrate. The transient shift of the broad diffraction peak displays the strain dynamics of the entire film, implying that the near‐substrate region hosts nanocrystallites with small and large coherence length, whereas the upper part of the film grows in small columnar grains. The results illustrate that URSM is a suitable technique for non‐destructive and depth‐resolved investigations of the morphology of nanostructures.    
 
     
