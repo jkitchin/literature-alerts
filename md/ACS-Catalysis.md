@@ -1,98 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jun 29 01:07:45 2024
+Created on Sun Jun 30 01:14:37 2024
 
-Found 36 results from 2024-06-22 to 2024-06-29
+Found 32 results from 2024-06-23 to 2024-06-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## An Enzyme Catalyzing the Oxidative Maturation of Reduced Prenylated-FMN to Form the Active Coenzyme   
-
-OpenAlex: https://openalex.org/W4399879371    
-Open access: False
-    
-[Daniel A. DiRocco](https://openalex.org/A5058094440), [Pronay Roy](https://openalex.org/A5075100011), [Anushree Mondal](https://openalex.org/A5031037227), [Prathamesh M. Datar](https://openalex.org/A5089860875), [E. Neil G. Marsh](https://openalex.org/A5057584218), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02747.
-    
-No abstract    
-
-    
-
-## Formal Decarbonylation of 1,2-Diketones Enabled by Synergistic Catalysis of Lewis Acid–Base Pairs and Redox Properties in CeO2   
-
-OpenAlex: https://openalex.org/W4399885909    
-Open access: False
-    
-[Takehiro Matsuyama](https://openalex.org/A5090814416), [Takafumi Yatabe](https://openalex.org/A5013371769), [Kazuya Yamaguchi](https://openalex.org/A5006226044), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02493.
-    
-Various decarbonylation reactions via oxidative addition of carbonyl compounds to metal catalysts can be applied to late-stage modification and have been actively studied to date; however, several inherent problems derived from the oxidative addition are difficult to solve, such as toxic CO production, deactivation of catalysts by CO adsorption, intolerance of some functional groups, or air-sensitivity of catalysts. In this context, formal decarbonylation, which eliminates CO as other compounds without involving oxidative addition, is attractive but hardly reported, especially using heterogeneous catalysts. Herein, formal decarbonylation of diaryl 1,2-diketones to afford monoketones using CeO2 as a reusable heterogeneous catalyst and O2 in the air as the terminal oxidant was developed, generating CO2 as the only byproduct. The results revealed that the reaction was enabled by the synergistic catalytic effect of the Lewis acid–base pairs and redox properties in CeO2.    
-
-    
-
-## Efficient H2 Production from Biomass-Based HCO2H by Cooperation of Quantum Dots Photocatalysts with Weak HCHO Adsorption and In Situ Generated Ni0   
-
-OpenAlex: https://openalex.org/W4399896204    
-Open access: False
-    
-[Wenxin Niu](https://openalex.org/A5022391449), [Wanghui Zhao](https://openalex.org/A5008734353), [Kaiwen Feng](https://openalex.org/A5049187274), [Fu-Jia Tang](https://openalex.org/A5054449606), [Tao Wang](https://openalex.org/A5062351268), [Kaixuan Wang](https://openalex.org/A5009902978), [Shaohua Shen](https://openalex.org/A5002470838), [Yang Li](https://openalex.org/A5014927466), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01708.
-    
-Efficient hydrogen (H2) production from renewable resources, such as biomass, one of the largest renewable resources on the earth, instead of fossil resources, is highly desirable. Making it via HCO2H as an intermediate for H2 production from biomass both facilitates efficient H2 production and can avoid the issues of H2 storage. Herein, we report efficient H2 production from raw biomass-based formic acid (HCO2H) by a noble-metal-free catalysis system under mild conditions, enabled by cooperation of CdS/ZnS-S2– quantum dots photocatalysts with weak formaldehyde (HCHO) adsorption and in situ generated Ni0, resulting in H2 with a 94% yield in 3.5 h, with a 99.7% selectivity and a 537 ± 14 mol mg–1 h–1 average rate at 50 °C under visible-light irradiation. This study should promote the exploration of catalytic systems for streamlined H2 production from renewable biomass for practical application.    
-
-    
-
-## Amino Acid Synthesis through C–N Coupling between α-Ketoacids and Hydroxylamine from Nitrate Reduction   
-
-OpenAlex: https://openalex.org/W4399896383    
-Open access: False
-    
-[Yiyang Zhou](https://openalex.org/A5041344732), [Ruizhi Duan](https://openalex.org/A5083764797), [Qinge Huang](https://openalex.org/A5043532509), [Chunmei Ding](https://openalex.org/A5014014148), [Can Li](https://openalex.org/A5011065863), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01793.
-    
-The artificial synthesis of amino acids is an important yet challenging subject. Electrocatalytic C–N coupling from organic acids and nitrogen sources provides an opportunity for this target but with the difficulty of C–N bond formation toward the production of amino acids. Herein, we report the synthesis of amino acids (alanine, glutamic acid, glycine, leucine, valine) from nitrate and α-ketoacids with a hybrid catalyst, cobalt phthalocyanine immobilized on carbon nanotubes (CoPc/CNT). The Faradaic efficiency for alanine production with CoPc/CNT is as high as 61%. The CoPc catalyst integrated with CNTs can catalyze nitrate reduction to hydroxylamine, which is switched from a thermodynamically uphill to a downhill process. The hydroxylamine intermediate attacks the α-carbon of an α-ketoacid to form an oxime. Amino acids are produced by the reduction of oximes catalyzed by CNTs. The bifunctionality of CoPc/CNT steers the tandem catalytic reaction toward the efficient production of amino acids in one pot. This work identifies that enhancing the reduction of nitrate to hydroxylamine is the key to C–N bond formation in amino acid synthesis.    
-
-    
-
-## Synergizing Amino Tethering and Carbon Shell Confinement Enables Confinement Synthesis of PtCo Intermetallic Catalysts for Highly Durable Fuel Cells   
-
-OpenAlex: https://openalex.org/W4399896671    
-Open access: False
-    
-[Kechuang Wan](https://openalex.org/A5049785358), [Chuanqi Luo](https://openalex.org/A5023433080), [Jue Wang](https://openalex.org/A5039422700), [Haitao Chen](https://openalex.org/A5067653842), [Jingjing Zhang](https://openalex.org/A5032122445), [Bing Li](https://openalex.org/A5024831032), [Maorong Chai](https://openalex.org/A5087120666), [Pingwen Ming](https://openalex.org/A5088011909), [Cunman Zhang](https://openalex.org/A5078891674), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01202.
-    
-Intermetallic compounds possess superior catalytic performance over their disordered alloy counterparts, while their synthesis usually requires high-temperature treatment, which causes the sintering of catalysts. This work demonstrates the high-temperature confinement synthesis (HTCS) of PtCo intermetallic compounds for oxygen reduction reaction (ORR) by integrating ultrathin nitrogen-doped carbon shell (NCS) confined PtCo alloy into −NH2 functionalized black pearls 2000 carbon architectures (PtCo@NCS/BP-NH2). Benefiting from amino tethering and carbon shell confinement, high-temperature sintering behavior is effectively inhibited. PtCo@NCS/BP-NH2 possesses outstanding ORR performance, and the assembled single cell exhibits a small peak power density loss rate of 4% after the accelerated durability test (ADT), outperforming PtCo/BP (12.5%) and commercial Pt/C (18.9%). Theoretical calculations along with experiments reveal that PtCo and NCS synergically optimize the electronic structure, weaken the Pt–O dipole effect, and lower the reaction barrier for ORR. The study provides insight into the HTCS of catalysts and unveils intrinsic electronic interaction for ORR.    
-
-    
-
-## Issue Publication Information   
-
-OpenAlex: https://openalex.org/W4399897740    
-Open access: True
-    
-, ACS catalysis. 14(12)] 2024.https://doi.org/10.1021/csv014i012_1814477 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i012_1814477)).
-    
-No abstract    
-
-    
-
-## Issue Editorial Masthead   
-
-OpenAlex: https://openalex.org/W4399897753    
-Open access: True
-    
-, ACS catalysis. 14(12)] 2024.https://doi.org/10.1021/csv014i012_1814478 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i012_1814478)).
-    
-No abstract    
-
-    
-
-## Structure and Reactivity of Active Oxygen Species on Silver Surfaces for Ethylene Epoxidation   
-
-OpenAlex: https://openalex.org/W4399908109    
-Open access: True
-    
-[Minjie Guo](https://openalex.org/A5000351917), [Nanchen Dongfang](https://openalex.org/A5034695775), [Marcella Iannuzzi](https://openalex.org/A5037289525), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), [Luca Artiglia](https://openalex.org/A5014379900), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01566 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01566)).
-    
-The epoxidation of ethylene stands as one of the most important industrial catalytic reactions, and silver-based catalysts show superior activity and selectivity. Oxygen is activated on the surface of silver during the reaction and exerts a substantial impact on product selectivity. Notably, the oxygen species residing in the topmost atomic layers profoundly influence the reactivity of a catalyst. However, their characterization under in situ reaction conditions remains a huge challenge, and specific structures have not been identified yet. In this study, we employ in situ X-ray photoelectron spectroscopy and density functional theory calculations to determine the oxygen species formed at the topmost atomic layers of a silver foil and to assign them a structure. Three different groups of oxygen species activated on silver are identified: (i) surface lattice oxygen and two oxygen species originating from associatively adsorbed dioxygen and (ii) top and (iii) subsurface oxygen. Transient in situ photoelectron spectroscopy experiments are carried out to reveal the dynamic evolution and thus reactivity of the different oxygen species under ethylene epoxidation reaction environments. The top oxygen atom from the adsorbed associated dioxygen is the most active. Meanwhile, a frequency-selective data analysis method, developed to process time-resolved data, provides insights into the evolving trends of peak intensities for different oxygen species. The versatility of this method suggests its potential application in future time-resolved characterization studies.    
-
-    
 
 ## Asymmetric Oxygen Vacancy-Promoted Synthesis of Aminoarenes from Nitroarenes Using Waste H2S as a “Hydrogen Donor”   
 
@@ -113,28 +25,6 @@ Open access: True
 [Daniyal Kiani](https://openalex.org/A5028323119), [Israel E. Wachs](https://openalex.org/A5066491588), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02813 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02813)).
     
 No abstract    
-
-    
-
-## Photochemical Tuning of Tricoordinated Nitrogen Deficiency in Carbon Nitride to Create Delocalized π Electron Clouds for Efficient CO2 Photoreduction   
-
-OpenAlex: https://openalex.org/W4399891463    
-Open access: False
-    
-[Lei Li](https://openalex.org/A5014114077), [Huanhuan Lu](https://openalex.org/A5004966861), [Cungui Cheng](https://openalex.org/A5049567901), [Xinyan Dai](https://openalex.org/A5008609658), [Fang Chen](https://openalex.org/A5065710684), [Jiqiang Ning](https://openalex.org/A5089866628), [Wentao Wang](https://openalex.org/A5088025824), [Yong Hu](https://openalex.org/A5004880276), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01636.
-    
-Precisely engineering point defects holds promise for the development of state-of-the-art photocatalysts for CO2 conversion. This study demonstrates the controllable creation of nitrogen vacancies (VNs) in the centers of heptazine rings of graphitic carbon nitrides (g-C3N4) via a photochemical-assisted nitrogen etching strategy. Spectroscopic analyses and theoretical simulations elucidate the photochemical process to hydrogenate the nitrogen situated at the center of the g-C3N4 heptazine ring and then release an ammonia molecule, accompanied by the photooxidation of the sacrificial agents. The catalyst with an optimal VNs concentration achieves a CO generation rate of 35.2 μmol g–1 h–1 with nearly 100% selectivity, comparable to the performance of the reported g-C3N4 materials. The remarkably improved photoactivity is due to the adjustments of the electronic structures and the midgap states of g-C3N4 by the delocalized π electron cloud created in the 12-membered ring surrounding the VN, which maximizes the light-harvesting efficiencies and suppresses the recombination of photogenerated electrons and holes. The VNs also activates the neighboring catalytic carbon centers to reduce the energy barrier for CO2 reduction. This work provides a good design concept to regulate catalytic activity by engineering point defects.    
-
-    
-
-## CuOx Nanopatches Positioned at Lewis Acidic Sites of TiO2 for Propylene Epoxidation Using Molecular Oxygen   
-
-OpenAlex: https://openalex.org/W4399896664    
-Open access: False
-    
-[Zun-Ren Lv](https://openalex.org/A5022537013), [Leilei Kang](https://openalex.org/A5060000312), [Xiaoli Pan](https://openalex.org/A5014023117), [Yang Su](https://openalex.org/A5020530505), [Hua Wang](https://openalex.org/A5054863233), [Lin Li](https://openalex.org/A5089015352), [Xiao Yan Liu](https://openalex.org/A5055302562), [Aiqin Wang](https://openalex.org/A5053108670), [Tao Zhang](https://openalex.org/A5040895512), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01749.
-    
-Controlling the precise placement of active metals on supports is highly desirable yet challenging, which governs both the reaction pathway and the ultimate outcomes of catalytic reactions. Herein, the Cu species are positioned to the Lewis acidic sites created by the ultrahigh-temperature calcination of TiO2, where the atomic structures of the Lewis acids are identified as five-coordinated Ti4+ cations bound to three-coordinated O2– anions (Lβ sites) by in situ characterizations. Owing to the robust chemical affinity, CuOx manifests itself as a nanopatch. The Cu/TiO2 catalyst without any modifications exhibits a propylene oxide (PO) formation rate of 44 mmol gCu–1 h–1 for direct epoxidation of propylene using molecular oxygen (DEP). The PO yield on Cu/TiO2 can be efficiently correlated with the quantity of the decreased Lewis acids, which demonstrates that the intimated interaction between the Cu species and Lewis acids should be responsible for PO production. Furthermore, density functional theory calculations suggest that Cu+ in the Ti–O–Cu interface formed at the Lβ sites is the active site of the DEP reaction, with the aid of the adjacent Cu atom. This study provides a Cu-based catalyst for the DEP reaction.    
 
     
 
@@ -277,7 +167,7 @@ Open access: False
     
 [Wei Yu](https://openalex.org/A5084300114), [Zhuo-Ling Xie](https://openalex.org/A5010154255), [Zhen Zeng](https://openalex.org/A5003673833), [Chengcheng Li](https://openalex.org/A5004343457), [J. M. An](https://openalex.org/A5019877215), [Qingqing Hao](https://openalex.org/A5044551083), [Huibin Ge](https://openalex.org/A5034953387), [Huiyong Chen](https://openalex.org/A5086350588), [Xiaoxun Ma](https://openalex.org/A5046146875), [Qun‐Xing Luo](https://openalex.org/A5086564001), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01477.
     
-No abstract    
+A kinetic and mechanistic study of direct catalytic nitrilation from methyl salicylate and ammonia is conducted by using an amphoteric ZnAl2O4 spinel as a model catalyst. This overall process integrates the catalytic ammonolysis of esters with the dehydration of amides, proceeding stepwise over the concerted Lewis acid–base pairs of Zn–O–Al linkages. The chemisorption and activation of C–O bonds of the ester over Lewis acid–base pairs facilitate the leaving of the methoxy group, while Lewis basic oxygen (Zn–O*–Al) serves as the main hub station for multistep proton transportation, thus leading to the decreased apparent activation energy of nitrilation and ammonolysis. The combined experimental and computational evidence confirms that this direct nitrilation process follows a monomolecular surface adsorption model, i.e., the Eley–Rideal mechanism, involving eight elementary reaction steps in which chemisorbed surface species of methyl salicylate react with gaseous NH3 molecules via nucleophilic addition–elimination and multistep proton transfer to generate amides and nitriles in sequence. Microkinetic model discrimination and DFT calculations reveal that the formation of chemisorbed imine (C═N–H) via proton transfer from the Lewis basic oxygen atom (Zn–O*–Al) to the carbonyl oxygen (C═O*) is the rate-determining step, thereby providing a potential consideration of protonation and deprotonation ability to rationally design an improved catalyst.    
 
     
 
@@ -397,6 +287,72 @@ OpenAlex: https://openalex.org/W4400093530
 Open access: False
     
 [Bin Chen](https://openalex.org/A5030002163), [Yafei Jiang](https://openalex.org/A5063170943), [Hai Xiao](https://openalex.org/A5023546157), [Jun Li](https://openalex.org/A5059858234), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00858.
+    
+No abstract    
+
+    
+
+## Manganese-Catalyzed Synthesis of Polyketones Using Hydrogen-Borrowing Approach   
+
+OpenAlex: https://openalex.org/W4400111554    
+Open access: True
+    
+[Pavel S. Kulyabin](https://openalex.org/A5056149328), [Oxana V. Magdysyuk](https://openalex.org/A5061685773), [Aaron B. Naden](https://openalex.org/A5030097467), [Daniel M. Dawson](https://openalex.org/A5006931958), [Ketan Pancholi](https://openalex.org/A5030248261), [Matthew Walker](https://openalex.org/A5017283956), [Massimo Vassalli](https://openalex.org/A5034272994), [Amit Kumar](https://openalex.org/A5011878557), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03019.
+    
+No abstract    
+
+    
+
+## Uncovering Electrochemical Methane Oxidation Mechanism through the In Situ Detection of Reaction Intermediates   
+
+OpenAlex: https://openalex.org/W4400111866    
+Open access: False
+    
+[Tareq A. Al‐Attas](https://openalex.org/A5072919054), [Kannimuthu Karthick](https://openalex.org/A5011750802), [Mohd Adnan Khan](https://openalex.org/A5033449142), [Md Golam Kibria](https://openalex.org/A5054125941), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00675.
+    
+No abstract    
+
+    
+
+## A Career in Catalysis: Enrique Iglesia   
+
+OpenAlex: https://openalex.org/W4400112900    
+Open access: False
+    
+[David G. Barton](https://openalex.org/A5032708311), [Aditya Bhan](https://openalex.org/A5019481513), [Prashant Deshlahra](https://openalex.org/A5004875114), [Rajamani Gounder](https://openalex.org/A5072511676), [David Hibbitts](https://openalex.org/A5002779860), [Beata A. Kilos](https://openalex.org/A5090243616), [Gina Noh](https://openalex.org/A5025321095), [Justin M. Notestein](https://openalex.org/A5030553728), [Michele L. Sarazen](https://openalex.org/A5074568396), [S. Soled](https://openalex.org/A5052493233), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02557.
+    
+No abstract    
+
+    
+
+## Highly Efficient and Selective Nitrogen Reduction Reaction Catalysis of Cluster-Modified MXene Nanosheets   
+
+OpenAlex: https://openalex.org/W4400119996    
+Open access: False
+    
+[Yu Rong](https://openalex.org/A5031949357), [Zhaorui Liu](https://openalex.org/A5090733046), [Dominik Legut](https://openalex.org/A5069170567), [J. Sun](https://openalex.org/A5091436850), [Qianfan Zhang](https://openalex.org/A5038320890), [Joseph S. Francisco](https://openalex.org/A5029553936), [Ruifang Zhang](https://openalex.org/A5068048648), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01369.
+    
+No abstract    
+
+    
+
+## Enhancing the Photocatalytic Activity of CaTaO2N for Overall Water Splitting through Surface Nitride Ion Enrichment   
+
+OpenAlex: https://openalex.org/W4400123390    
+Open access: False
+    
+[Xuecheng Liu](https://openalex.org/A5086946401), [Linjie Yan](https://openalex.org/A5021679508), [Wenpeng Li](https://openalex.org/A5021880277), [Kaihong Chen](https://openalex.org/A5060485719), [Faze Wang](https://openalex.org/A5036077010), [Jiadong Xiao](https://openalex.org/A5012727250), [Takashi Hisatomi](https://openalex.org/A5056326428), [Tsuyoshi Takata](https://openalex.org/A5045821418), [Kazunari Domen](https://openalex.org/A5017910924), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01590.
+    
+No abstract    
+
+    
+
+## Asymmetric Radical-Type 1,2-Alkoxy-Sulfenylation of Benzoxazole-2-Thiols to Vinylarenes Catalyzed by Chiral Vanadyl Complexes   
+
+OpenAlex: https://openalex.org/W4400129690    
+Open access: True
+    
+[Yueh-Hua Liu](https://openalex.org/A5001919512), [Hon‐Chung Tsui](https://openalex.org/A5056094613), [Pei-Hsuan Chien](https://openalex.org/A5012113150), [Chien‐Tien Chen](https://openalex.org/A5057207103), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02460.
     
 No abstract    
 

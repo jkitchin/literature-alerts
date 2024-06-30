@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Jun 29 01:07:46 2024
+Created on Sun Jun 30 01:14:38 2024
 
-Found 18 results from 2024-06-22 to 2024-06-29
+Found 17 results from 2024-06-23 to 2024-06-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Intense formation of secondary ultrafine particles from Amazonian vegetation fires and their invigoration of deep clouds and precipitation   
-
-OpenAlex: https://openalex.org/W4399887232    
-Open access: True
-    
-[Manish Shrivastava](https://openalex.org/A5029609817), [Jiwen Fan](https://openalex.org/A5029189683), [Yuwei Zhang](https://openalex.org/A5029222642), [Quazi Z. Rasool](https://openalex.org/A5044465853), [Bin Zhao](https://openalex.org/A5008718870), [Jianjian Shen](https://openalex.org/A5037611710), [Jeffrey R. Pierce](https://openalex.org/A5055116926), [Shantanu H. Jathar](https://openalex.org/A5073859430), [Ali Akherati](https://openalex.org/A5006368017), [Jie Zhang](https://openalex.org/A5055664027), [Rahul A. Zaveri](https://openalex.org/A5074206807), [Brian Gaudet](https://openalex.org/A5082593441), [Ying Liu](https://openalex.org/A5072663357), [Meinrat O. Andreae](https://openalex.org/A5082416286), [Mira L. Pöhlker](https://openalex.org/A5024073664), [Neil M. Donahue](https://openalex.org/A5041685684), [Yuan Wang](https://openalex.org/A5054409245), [John H. Seinfeld](https://openalex.org/A5001370428), One earth. 7(6)] 2024.https://doi.org/10.1016/j.oneear.2024.05.015.
-    
-New particle formation (NPF) in fire smoke is thought to be unlikely due to large condensation and coagulation sinks that scavenge molecular clusters. We analyze aircraft measurements over the Amazon and find that fires significantly enhance NPF and ultrafine particle (UFP < 50 nm diameter) numbers compared to background conditions, contrary to previous understanding. We identify that the nucleation of dimethylamine with sulfuric acid, which is aided by the formation of extremely low volatility organics in biomass-burning smoke, can overcome the large condensation and coagulation sinks and explain aircraft observations. We show that freshly formed clusters rapidly grow to UFP sizes through biomass-burning secondary organic aerosol formation, leading to a 10-fold increase in UFP number concentrations. We find a contrasting effect of UFPs on deep convective clouds compared to the larger particles from primary emissions for the case investigated here. UFPs intensify the deep convective clouds and precipitation due to increased condensational heating, while larger particles delay and reduce precipitation.    
-
-    
 
 ## Logic-Based Outer Approximation   
 

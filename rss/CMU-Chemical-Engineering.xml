@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 29 Jun 2024 01:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 01:14:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Intense formation of secondary ultrafine particles from Amazonian vegetation fires and their invigoration of deep clouds and precipitation</title>
-      <link>https://doi.org/10.1016/j.oneear.2024.05.015</link>
-      <description>Manish Shrivastava, Jiwen Fan, Yuwei Zhang, Quazi Z. Rasool, Bin Zhao, Jianjian Shen, Jeffrey R. Pierce, Shantanu H. Jathar, Ali Akherati, Jie Zhang, Rahul A. Zaveri, Brian Gaudet, Ying Liu, Meinrat O. Andreae, Mira L. P&#246;hlker, Neil M. Donahue, Yuan Wang, John H. Seinfeld, One earth. 7(6)] 2024. https://openalex.org/W4399887232
-
-                New particle formation (NPF) in fire smoke is thought to be unlikely due to large condensation and coagulation sinks that scavenge molecular clusters. We analyze aircraft measurements over the Amazon and find that fires significantly enhance NPF and ultrafine particle (UFP &lt; 50 nm diameter) numbers compared to background conditions, contrary to previous understanding. We identify that the nucleation of dimethylamine with sulfuric acid, which is aided by the formation of extremely low volatility organics in biomass-burning smoke, can overcome the large condensation and coagulation sinks and explain aircraft observations. We show that freshly formed clusters rapidly grow to UFP sizes through biomass-burning secondary organic aerosol formation, leading to a 10-fold increase in UFP number concentrations. We find a contrasting effect of UFPs on deep convective clouds compared to the larger particles from primary emissions for the case investigated here. UFPs intensify the deep convective clouds and precipitation due to increased condensational heating, while larger particles delay and reduce precipitation.</description>
-      <author>Manish Shrivastava, Jiwen Fan, Yuwei Zhang, Quazi Z. Rasool, Bin Zhao, Jianjian Shen, Jeffrey R. Pierce, Shantanu H. Jathar, Ali Akherati, Jie Zhang, Rahul A. Zaveri, Brian Gaudet, Ying Liu, Meinrat O. Andreae, Mira L. P&#246;hlker, Neil M. Donahue, Yuan Wang, John H. Seinfeld</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.oneear.2024.05.015</guid>
-    </item>
     <item>
       <title>Logic-Based Outer Approximation</title>
       <link>https://doi.org/10.1007/978-3-030-54621-2_348-1</link>
