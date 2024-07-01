@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Jun 2024 01:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 01:16:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Photocatalytic reduction of carbon dioxide by BiTeX (X = Cl, Br, I) under visible-light irradiation</title>
-      <link>https://doi.org/10.1016/j.jenvman.2024.121536</link>
-      <description>Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Journal of environmental management. 365(None)] 2024. https://openalex.org/W4399925992
-
-                In this study, a series of BiTeX (X = Cl, Br, I) photocatalysts were successfully synthesized via a simple hydrothermal method. The synthesis process involved dissolving BiX</description>
-      <author>Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin, Yung-Hsiang Lin</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.121536</guid>
-    </item>
     <item>
       <title>The effect of SnO-SnO2 nanoparticle on the carbon dioxide electrochemical reduction activity on MXene/boron-doped diamond (BDD) electrode</title>
       <link>https://doi.org/10.1007/s10008-024-05983-7</link>
@@ -128,16 +118,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01172-x</guid>
     </item>
     <item>
-      <title>Towards CO2 Reduction in Middle East: A Techno-Environmental Assessment</title>
-      <link>https://doi.org/10.1016/b978-0-443-28824-1.50386-0</link>
-      <description>Nasser Al-Malki, Mohammed Yaqot, Brenno C. Menezes, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032363
-
-                No abstract</description>
-      <author>Nasser Al-Malki, Mohammed Yaqot, Brenno C. Menezes</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50386-0</guid>
-    </item>
-    <item>
       <title>Size effect of nickel from nanoparticles to clusters to single atoms for electrochemical CO2 reduction</title>
       <link>https://doi.org/10.1039/d4ta03404j</link>
       <description>Pan Qin, Chao Yang, Xiao Hui Li, Guangyi Ma, Shengnan Jiang, Xin Cui, Lei Zhang, Yi Bao, Tianyi Ma, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4400132147
@@ -146,6 +126,16 @@
       <author>Pan Qin, Chao Yang, Xiao Hui Li, Guangyi Ma, Shengnan Jiang, Xin Cui, Lei Zhang, Yi Bao, Tianyi Ma</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta03404j</guid>
+    </item>
+    <item>
+      <title>Towards CO2 Reduction in Middle East: A Techno-Environmental Assessment</title>
+      <link>https://doi.org/10.1016/b978-0-443-28824-1.50386-0</link>
+      <description>Nasser Al-Malki, Mohammed Yaqot, Brenno C. Menezes, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032363
+
+                No abstract</description>
+      <author>Nasser Al-Malki, Mohammed Yaqot, Brenno C. Menezes</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50386-0</guid>
     </item>
     <item>
       <title>A review of the synthesis, characterization, and mechanism of bimetallic catalysts for electrocatalytic CO2 reduction</title>
@@ -228,6 +218,26 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01179-4</guid>
     </item>
     <item>
+      <title>Revisiting the mechanism of asymmetric Ni&#8208;catalyzed reductive carbo&#8208;carboxylation with CO2: The additives affect the product selectivity</title>
+      <link>https://doi.org/10.1002/chem.202401631</link>
+      <description>Ljiljana Pavlovic, Beatriz Carvalho, Kathrin H. Hopmann, Chemistry. None(None)] 2024. https://openalex.org/W4400003064
+
+                The mechanistic details of the asymmetric Ni&#8208;catalyzed reductive cyclization/carboxylation of alkenes with CO2 have been revisited using DFT methods. Emphasis was put on the enantioselectivity and the mechanistic role of Lewis acid additives and in situ formed salts. Our results show that oxidative addition of the substrate is rate&#8208;limiting, with the formed Ni(II)&#8208;aryl intermediate preferring a triplet spin state. After reduction to Ni(I), enantioselective cyclization of the substrate occurs, followed by inner sphere carboxylation. Our proposed mechanism reproduces the experimentally observed enantiomeric excess and identifies critical C&#8208;H/O and C&#8208;H/N interactions that affect the selectivity. Further, our results highlight the beneficial effect of Lewis acids on CO2 insertion and suggest that in situ formed salts influence if the 5&#8208;exo or 6&#8208;endo product will be formed.</description>
+      <author>Ljiljana Pavlovic, Beatriz Carvalho, Kathrin H. Hopmann</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/chem.202401631</guid>
+    </item>
+    <item>
+      <title>Drop-In Renewable Gasoline Fuels for CO2 Reduction: Evaluation and Demonstration of Functional Potentials</title>
+      <link>https://doi.org/10.1007/978-3-658-44740-3_13</link>
+      <description>H. Kr&#228;mer, Markus Send, Michael Gessner, Michael Storch, Thomas Kunz, Jan Niklas Geiler, Proceedings. None(None)] 2024. https://openalex.org/W4400147535
+
+                No abstract</description>
+      <author>H. Kr&#228;mer, Markus Send, Michael Gessner, Michael Storch, Thomas Kunz, Jan Niklas Geiler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-658-44740-3_13</guid>
+    </item>
+    <item>
       <title>Atomic cerium-doped CuOx catalysts for efficient electrocatalytic CO2 reduction to CH4</title>
       <link>https://doi.org/10.1016/j.cclet.2024.110175</link>
       <description>Xiangyu Chen, Aihao Xu, Wenyi Dong, Fang Huang, Jing Ma, Huibing He, Jing Xu, Chinese Chemical Letters/Chinese chemical letters. None(None)] 2024. https://openalex.org/W4400139118
@@ -246,16 +256,6 @@
       <author>Smritirekha Talukdar, Tiziano Montini</author>
       <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/ma17133077</guid>
-    </item>
-    <item>
-      <title>Revisiting the mechanism of asymmetric Ni&#8208;catalyzed reductive carbo&#8208;carboxylation with CO2: The additives affect the product selectivity</title>
-      <link>https://doi.org/10.1002/chem.202401631</link>
-      <description>Ljiljana Pavlovic, Beatriz Carvalho, Kathrin H. Hopmann, Chemistry. None(None)] 2024. https://openalex.org/W4400003064
-
-                The mechanistic details of the asymmetric Ni&#8208;catalyzed reductive cyclization/carboxylation of alkenes with CO2 have been revisited using DFT methods. Emphasis was put on the enantioselectivity and the mechanistic role of Lewis acid additives and in situ formed salts. Our results show that oxidative addition of the substrate is rate&#8208;limiting, with the formed Ni(II)&#8208;aryl intermediate preferring a triplet spin state. After reduction to Ni(I), enantioselective cyclization of the substrate occurs, followed by inner sphere carboxylation. Our proposed mechanism reproduces the experimentally observed enantiomeric excess and identifies critical C&#8208;H/O and C&#8208;H/N interactions that affect the selectivity. Further, our results highlight the beneficial effect of Lewis acids on CO2 insertion and suggest that in situ formed salts influence if the 5&#8208;exo or 6&#8208;endo product will be formed.</description>
-      <author>Ljiljana Pavlovic, Beatriz Carvalho, Kathrin H. Hopmann</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/chem.202401631</guid>
     </item>
     <item>
       <title>Highly oxygen reduction activity and CO2 resistance of Fe-based cathode electrocatalysts for solid oxide fuel cells</title>
@@ -288,6 +288,16 @@
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4481093/v1</guid>
     </item>
     <item>
+      <title>Metal-Organic Frameworks and Their derivatives for Electrochemical CO2 Reduction Reaction: Insights from Molecular Engineering</title>
+      <link>https://doi.org/10.1039/d4ta01330a</link>
+      <description>Xiaoming Liu, Xuan&#8208;He Liu, Xiangrui Zhang, Huan Wang, Qinglan Zhao, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4400149568
+
+                Excessive fossil fuel consumption has led to a rapid increase in CO2 concentration, posing a threat to the global environment. The electrochemical conversion of CO2 back into valuable carbon-containing products...</description>
+      <author>Xiaoming Liu, Xuan&#8208;He Liu, Xiangrui Zhang, Huan Wang, Qinglan Zhao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta01330a</guid>
+    </item>
+    <item>
       <title>Highly efficient dual-phase hydrogen-transporting membranes for NH3 decomposition coupling with CO2 reduction</title>
       <link>https://doi.org/10.1016/j.ceramint.2024.06.327</link>
       <description>Jianye Yang, Chen Zhou, Kai Wu, Guangguang Pi, Hua Jin, Xing Li, Shaomin Liu, Yanshuo Li, Wei Fang, Ceramics international. None(None)] 2024. https://openalex.org/W4399959034
@@ -316,16 +326,6 @@
       <author>Hedan Yao, Yingxia Wang, Wenjie Xue, Qianqian Wang, Yi Qin, Xi Yao, Dong Li, Wenhong Li, Liuyi Pan</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160557</guid>
-    </item>
-    <item>
-      <title>Heterogeneous technology-induced global CO2 emission reduction and emission forecasting since the Kyoto era</title>
-      <link>https://doi.org/10.1016/j.apenergy.2024.123678</link>
-      <description>Chong Xu, Zengqiang Qin, Jiandong Chen, Jiangxue Zhang, Applied energy. 371(None)] 2024. https://openalex.org/W4399926140
-
-                No abstract</description>
-      <author>Chong Xu, Zengqiang Qin, Jiandong Chen, Jiangxue Zhang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apenergy.2024.123678</guid>
     </item>
     <item>
       <title>d-band center engineering of single Cu atom and atomic Ni clusters for enhancing electrochemical CO2 reduction to CO</title>
@@ -388,6 +388,16 @@
       <guid isPermaLink="true">https://doi.org/10.31390/gradschool_theses.5994</guid>
     </item>
     <item>
+      <title>Application of Dynamic Skip Fire for NOX and CO2 Emissions Reduction on a HD Diesel Truck and for an Off Highway Engine</title>
+      <link>https://doi.org/10.1007/978-3-658-44740-3_18</link>
+      <description>Robert Wang, Hao Chen, Vijay Srinivasan, Hans-Josef Schiffgens, Bouzid Seba, N Jansen, Proceedings. None(None)] 2024. https://openalex.org/W4400147624
+
+                No abstract</description>
+      <author>Robert Wang, Hao Chen, Vijay Srinivasan, Hans-Josef Schiffgens, Bouzid Seba, N Jansen</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-658-44740-3_18</guid>
+    </item>
+    <item>
       <title>CO2 reduction via oxidative dehydrogenation and dry reforming of ethane over Fe3Ni1 nanoparticles: the influence of the oxide support</title>
       <link>https://doi.org/10.1016/j.cattod.2024.114884</link>
       <description>Shaine Raseale, Wijnand Marquart, Gonzalo Prieto, M. Claeys, Nico Fischer, Catalysis today. None(None)] 2024. https://openalex.org/W4399986304
@@ -396,16 +406,6 @@
       <author>Shaine Raseale, Wijnand Marquart, Gonzalo Prieto, M. Claeys, Nico Fischer</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114884</guid>
-    </item>
-    <item>
-      <title>Design of a Rotating Disk Electrode setup operating under high pressure and temperature: application to CO2 reduction on gold</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144612</link>
-      <description>Alisson H. M. da Silva, Rafa&#235;l E. Vos, Robin J.C. Schrama, Marc T. M. Koper, Electrochimica acta. None(None)] 2024. https://openalex.org/W4399926425
-
-                No abstract</description>
-      <author>Alisson H. M. da Silva, Rafa&#235;l E. Vos, Robin J.C. Schrama, Marc T. M. Koper</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144612</guid>
     </item>
     <item>
       <title>Gas Phase Electrochemical Co2 Reduction On Silver-Copper Btc Mof in a Zero-Gap Membrane Electrode Assembly</title>
@@ -438,16 +438,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114339</guid>
     </item>
     <item>
-      <title>A nanosheet CH3COO(BiO) topotactically converted into nanocomposite of bismuth clusters and Bi2O2CO3 for highly efficient electrocatalytic reduction of CO2 to formate</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.132280</link>
-      <description>Chao Deng, Chao Qi, Zhenhong Xue, Kai Cui, Xiaomin Wu, Guohua Jing, Huawang Zhao, Fuel. 373(None)] 2024. https://openalex.org/W4399914918
-
-                No abstract</description>
-      <author>Chao Deng, Chao Qi, Zhenhong Xue, Kai Cui, Xiaomin Wu, Guohua Jing, Huawang Zhao</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.132280</guid>
-    </item>
-    <item>
       <title>Innovative Zr-Mof/Mxene Composite for Enhanced Photothermal Catalytic Co2 Reduction in Atmospheric and Industrial Flue Gas Streams</title>
       <link>https://doi.org/10.2139/ssrn.4876676</link>
       <description>Meng Yang, Feng Yang, Shuo Zhang, L. Zhang, C.-J. Li, Mengjie Shi, Yongpeng Ma, Mario Berrettoni, Xiaojing Zhang, Hongzhong Zhang, No host. None(None)] 2024. https://openalex.org/W4399992897
@@ -478,6 +468,16 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4877041</guid>
     </item>
     <item>
+      <title>Theoretical study of CO2 reduction on two-dimensional porphyrin metal&#8211;organic frameworks modified with various metal paddlewheel clusters or phenyl</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.114743</link>
+      <description>X. An, Gaofeng Hu, Yueyang Zhang, Shaohui Guo, Xinxin Tian, Zhuxia Zhang, Computational and theoretical chemistry. None(None)] 2024. https://openalex.org/W4400142737
+
+                No abstract</description>
+      <author>X. An, Gaofeng Hu, Yueyang Zhang, Shaohui Guo, Xinxin Tian, Zhuxia Zhang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114743</guid>
+    </item>
+    <item>
       <title>Z-scheme heterojunctions of NF@ZnO/0.5CeO2 monolithic catalyst for photothermal catalytic CO2 reduction under concentrated solar irradiation</title>
       <link>https://doi.org/10.1117/1.jpe.14.036501</link>
       <description>Yi Li, Bo Liu, Yanpeng Li, Meng-Chyi Wu, Hangxiang Wang, Jiancheng Zhou, Naixu Li, Journal of photonics for energy. 14(03)] 2024. https://openalex.org/W4400088531
@@ -496,16 +496,6 @@
       <author>Wisal Muhammad, Wajid Ali, M. Asif Khan, Fawad Ali, Amir Zada, Muhammad Zaka Ansar, Pow&#8208;Seng Yap</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.113409</guid>
-    </item>
-    <item>
-      <title>Intelligent Optimization of Eco-friendly H2/Freshwater Production and CO2 Reduction Layout Integrating GT/Rankine Cycle/Absorption Chiller/TEG unit/PEM Electrolyzer/RO Section</title>
-      <link>https://doi.org/10.1016/j.psep.2024.06.062</link>
-      <description>S.S. Li, Yonggang Leng, Tirumala Uday Kumar Nutakki, Sherzod Abdullaev, Yasser Fouad, Merwa Alhadrawi, Process safety and environmental protection/Transactions of the Institution of Chemical Engineers. Part B, Process safety and environmental protection/Chemical engineering research and design/Chemical engineering research &amp; design. None(None)] 2024. https://openalex.org/W4399914122
-
-                No abstract</description>
-      <author>S.S. Li, Yonggang Leng, Tirumala Uday Kumar Nutakki, Sherzod Abdullaev, Yasser Fouad, Merwa Alhadrawi</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.psep.2024.06.062</guid>
     </item>
     <item>
       <title>Corrigendum to &#8220;Highly selective electrocatalytic CO2 reduction to multi-carbon products at CuPd synergistic sites over OD-Cu based catalysts&#8221; [Appl. Surf. Sci. 663 (2024) 160189]</title>
@@ -748,16 +738,6 @@
       <guid isPermaLink="true">https://doi.org/10.1051/matecconf/202439900005</guid>
     </item>
     <item>
-      <title>Investigating the nexus between social globalization, energy transition, tourism, and environmental quality: Evidence from quantile regression</title>
-      <link>https://doi.org/10.1111/1477-8947.12527</link>
-      <description>Zahoor Ahmed, Mahmood Ahmad, Salahuddin Khan, Zilola Shamansurova, Stefania Pinz&#243;n, Natural Resources Forum. None(None)] 2024. https://openalex.org/W4400097421
-
-                Abstract Escalations in economic development and the concomitant upsurge in social globalization (SG) in the largest economies have enhanced the utilization of fossil fuels, which in turn has stimulated carbon dioxide (CO 2 ) emissions. Given that reducing global warming is one of the essential means to disrupt climate change and attain sustainable development, this study examines the interlinkages between SG, energy transition (ENTR), international tourism (ITU), and CO 2 emissions. As environmental issues are widespread in the largest economies, this investigation analyzed the data from the 10 largest economies using the Method of Moments Quantiles Regression (MM&#8208;QR) from 1995 to 2020. The study found that ENTR plays a significant role in decreasing emissions and promoting environmental sustainability. Alongside this, increasing social globalization also curbs CO 2 emissions and facilitates environmental sustainability. Apart from this, the findings demonstrate a progressively increasing contribution of ITU and economic growth to enhancing environmental degradation. Furthermore, results indicated that carbon emissions are not influenced by reductions in political risks in the member nations. Finally, policies to support environmental sustainability are discussed.</description>
-      <author>Zahoor Ahmed, Mahmood Ahmad, Salahuddin Khan, Zilola Shamansurova, Stefania Pinz&#243;n</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1111/1477-8947.12527</guid>
-    </item>
-    <item>
       <title>Time series analysis of COVID-19 stringency measures on the spatio- temporal dynamics of air pollution</title>
       <link>https://doi.org/10.18502/japh.v9i2.15922</link>
       <description>Girija Nair, Ramesh Veerappan, Mohammed Irshad Sharafudeen, Journal of air pollution and health. None(None)] 2024. https://openalex.org/W4400038198
@@ -766,6 +746,16 @@
       <author>Girija Nair, Ramesh Veerappan, Mohammed Irshad Sharafudeen</author>
       <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.18502/japh.v9i2.15922</guid>
+    </item>
+    <item>
+      <title>Investigating the nexus between social globalization, energy transition, tourism, and environmental quality: Evidence from quantile regression</title>
+      <link>https://doi.org/10.1111/1477-8947.12527</link>
+      <description>Zahoor Ahmed, Mahmood Ahmad, Salahuddin Khan, Zilola Shamansurova, Stefania Pinz&#243;n, Natural Resources Forum. None(None)] 2024. https://openalex.org/W4400097421
+
+                Abstract Escalations in economic development and the concomitant upsurge in social globalization (SG) in the largest economies have enhanced the utilization of fossil fuels, which in turn has stimulated carbon dioxide (CO 2 ) emissions. Given that reducing global warming is one of the essential means to disrupt climate change and attain sustainable development, this study examines the interlinkages between SG, energy transition (ENTR), international tourism (ITU), and CO 2 emissions. As environmental issues are widespread in the largest economies, this investigation analyzed the data from the 10 largest economies using the Method of Moments Quantiles Regression (MM&#8208;QR) from 1995 to 2020. The study found that ENTR plays a significant role in decreasing emissions and promoting environmental sustainability. Alongside this, increasing social globalization also curbs CO 2 emissions and facilitates environmental sustainability. Apart from this, the findings demonstrate a progressively increasing contribution of ITU and economic growth to enhancing environmental degradation. Furthermore, results indicated that carbon emissions are not influenced by reductions in political risks in the member nations. Finally, policies to support environmental sustainability are discussed.</description>
+      <author>Zahoor Ahmed, Mahmood Ahmad, Salahuddin Khan, Zilola Shamansurova, Stefania Pinz&#243;n</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1111/1477-8947.12527</guid>
     </item>
     <item>
       <title>Kinetic Investigation on Solvating Alkylamine Hofmann Elimination over Br&#248;nsted Acidic Zeolites</title>
@@ -780,10 +770,10 @@
     <item>
       <title>Environmental and technical assessment on the application of slate waste in Portland-composite cement CEM II</title>
       <link>https://doi.org/10.1016/j.jobe.2024.110044</link>
-      <description>Bianca Rafaela da Silva Calder&#243;n-Morales, Glauber Zerbini Costal, Antonio Garc&#237;a-Martinez, Paloma Pineda, Jos&#233; Carlos Borba J&#250;nior, Guilherme Jorge Brigolini Silva, Viviany Geraldo, Louise Aparecida Mendes, R. Garc&#305;&#769;a-Tenorio, Journal of building engineering. None(None)] 2024. https://openalex.org/W4399982960
+      <description>Bianca Rafaela da Silva Calder&#243;n-Morales, Glauber Zerbini Costal, Antonio Garc&#237;a-Mart&#237;nez, Paloma Pineda, Jos&#233; Carlos Borba J&#250;nior, Guilherme Jorge Brigolini Silva, Viviany Geraldo, Louise Aparecida Mendes, R. Garc&#305;&#769;a-Tenorio, Journal of building engineering. None(None)] 2024. https://openalex.org/W4399982960
 
                 Large volumes of waste are generated from the manufacture of slabs, roofing, and tiles using slate stone. The use of waste in the construction industry is prevalent due to the environmental advantages associated with the implementation of circular economy standards. This paper examines the production of Portland cement CEM II using heat-treated slate waste. The fineness index results were 10.95% for the 75-&#956;m sieve and 23.53% for the 45-&#956;m sieve. Assessment of reactivity using mechanical methods showed that mortars produced with 20% slate waste (SW) achieved a strength of 42.35MPa and a mechanical index of 84.93%. Direct measurements (FTIR), along with chemical methods (Frattini Test and Saturated lime test), confirm the pozzolanic activity of the slate waste. The environmental impact assessment demonstrated a reduction in the carbon dioxide emission rate by 21.49% (6.54E+02 kgCO2-eq/t) with the use of Portland cement CEM II/CSW. The valorization of slate waste can contribute to the availability of an alternative source of raw material and the reduction of natural resource consumption. However, further studies on mechanical performance and durability are necessary for this waste to be applied in structural cementitious matrices.</description>
-      <author>Bianca Rafaela da Silva Calder&#243;n-Morales, Glauber Zerbini Costal, Antonio Garc&#237;a-Martinez, Paloma Pineda, Jos&#233; Carlos Borba J&#250;nior, Guilherme Jorge Brigolini Silva, Viviany Geraldo, Louise Aparecida Mendes, R. Garc&#305;&#769;a-Tenorio</author>
+      <author>Bianca Rafaela da Silva Calder&#243;n-Morales, Glauber Zerbini Costal, Antonio Garc&#237;a-Mart&#237;nez, Paloma Pineda, Jos&#233; Carlos Borba J&#250;nior, Guilherme Jorge Brigolini Silva, Viviany Geraldo, Louise Aparecida Mendes, R. Garc&#305;&#769;a-Tenorio</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jobe.2024.110044</guid>
     </item>
@@ -796,16 +786,6 @@
       <author>Ekkachai Sutheerasak, Worachest Pirompugd, Surachai Sanitjai, Sathaporn Chuepeng</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3233/atde240334</guid>
-    </item>
-    <item>
-      <title>Spatiotemporal dynamics and influencing factors of CO2 emissions under regional collaboration: evidence from the Beijing-Tianjin-Hebei region in China</title>
-      <link>https://doi.org/10.1016/j.envpol.2024.124403</link>
-      <description>J. Mu, Jinman Wang, Biao Liu, Mian Yang, Environmental pollution. 357(None)] 2024. https://openalex.org/W4399925516
-
-                Against the backdrop of global climate change and the "dual carbon" target, cities have a significant responsibility to achieve carbon reduction targets. As a crucial urban agglomeration in northern China, effectively balancing economic growth with CO2 emission reduction to achieve high-quality economic development remains a significant challenge that the Beijing-Tianjin-Hebei region should address both presently and in the future. The objective of this study is to utilize nighttime lighting data and energy consumption information to quantify the CO2 emissions of diverse cities within the Beijing-Tianjin-Hebei region spanning from 2006 to 2020. The research aims to analyze the spatial progression patterns of CO2 emissions across these urban centers, identify key determinants and their interrelations, and delve into the underlying mechanisms pivotal for advancing carbon mitigation strategies within urban agglomerations. The results indicate that: with an exception in Beijing where CO2 emissions slightly decreased compared to 2006, CO2 emissions increased across cities in the Beijing-Tianjin-Hebei region by 2020. High-value CO2 emission areas are primarily concentrated in central of the study area, exhibiting negative spatial correlation characteristics. Based on its urban development positioning, it is imperative for the Beijing-Tianjin-Hebei urban agglomeration to formulate and implement carbon reduction strategies on innovative development, industrial upgrading, and ecological protection among other aspects towards coordinated low-carbon development.</description>
-      <author>J. Mu, Jinman Wang, Biao Liu, Mian Yang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.envpol.2024.124403</guid>
     </item>
     <item>
       <title>Advancements in catalysts for zero-carbon synthetic fuel production: A comprehensive review</title>
@@ -870,12 +850,22 @@
     <item>
       <title>Lead&#8208;Free Perovskite&#8208;Based Photocatalysts for Solar&#8208;Driven Chemistry Technologies</title>
       <link>https://doi.org/10.1002/slct.202305225</link>
-      <description>Camilo Segura, Mario E. Flores, Igor Osorio&#8208;Rom&#225;n, Danilo H. Jara, Seog Joon Yoon, Andr&#233;s F. Gualdr&#243;n&#8208;Reyes, ChemistrySelect. 9(25)] 2024. https://openalex.org/W4400040620
+      <description>Camilo Segura, Mario E. Flores, Igor Osorio&#8208;Rom&#225;n, Danilo H. Jara, Seog Joon Yoon, Andr&#233;s F. Gualdr&#243;n&#8211;Reyes, ChemistrySelect. 9(25)] 2024. https://openalex.org/W4400040620
 
                 Abstract The high consumption of fossil fuels and concomitant contamination of the environment have promoted the search for new, low&#8208;cost, and cleaner energy sources to satisfy the current energy demand around the world, decreasing the levels of greenhouse gas emissions to the atmosphere. One of the promising strategies to facilitate the generation of renewable energy involves solar&#8208;driven chemical reactions, by using photocatalysts with improved sunlight absorption and carrier transfer abilities. Lead&#8208;free halide perovskites (LFHPs) are good candidates, showing mesmerizing optical features, modulable band structure, oxidizing/reducing capability, and less toxicity compared to their Pb&#8208;analogous. However, the literature reporting the photo(electro)chemical (PEC) properties of the LFHPs&#8208;based materials for solar energy production is scarce. This review describes the current state&#8208;of&#8208;the&#8208;art exhibiting the influence of the dimensionality, chemical composition and the formation of heterojunctions based on LFHPs on their photo(electro)activity for conducting solar&#8208;driven hydrogen evolution, carbon dioxide (CO 2 ) reduction, and the degradation of recalcitrant pollutants to obtain added&#8208;value chemicals. In this way, it is also included the main challenges to be faced. Furthermore, we address some potential LFHPs to be explored in PEC systems, opening up the gamut of possibilities to consolidate the solar&#8208;to&#8208;chemical transformation as an innovative alternative to favor environmentally friendly energy production.</description>
-      <author>Camilo Segura, Mario E. Flores, Igor Osorio&#8208;Rom&#225;n, Danilo H. Jara, Seog Joon Yoon, Andr&#233;s F. Gualdr&#243;n&#8208;Reyes</author>
+      <author>Camilo Segura, Mario E. Flores, Igor Osorio&#8208;Rom&#225;n, Danilo H. Jara, Seog Joon Yoon, Andr&#233;s F. Gualdr&#243;n&#8211;Reyes</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/slct.202305225</guid>
+    </item>
+    <item>
+      <title>Climate Change Resilient through Modern Farming in Vegetable Cultivation</title>
+      <link>https://doi.org/10.1201/9781003531937-22</link>
+      <description>Siddharth Biswal, Ambika Prasad Mishra, CRC Press eBooks. None(None)] 2024. https://openalex.org/W4400104030
+
+                Vegetables are the high valued crops for human kind as it is rich source of important vitamins and minerals especially, micronutrients and phytochemicals promote good health which helps in reduction of mal nutrition. It is also primarily responsible for the positive health effects due to contains generous amount of numerous antioxidant substances, carotenoids and phenolics. Farmers are favored for their economics due to the short period of cultivation. But due to world's biggest threat that is climate change, which has made vegetable cultivation vulnerable to extreme weather occurrences including high temperatures, unpredictable rainfall that causes flooding, and drought situations. Vegetables are very perishable in nature due to high water content i. e., 90%. Therefore, high temperature makes the cell damage and vulnerable for carry out all physiological and biological process inside the cell. Shedding down of flower bud and small fruit of solanaceous, cucurbitaceous and other types of vegetables also occur under high temperature stress. Not only drought, high temperature causes the cell damage but also erratic rainfall pattern results flood condition also dangerous for crop growth and development. In flooded condition, tomato plants produced ethylene hormone which is detrimental for fruit quality due to absence of oxygen. Increases in carbon dioxide, nitrous oxide, methane, and other harmful gases as a result of human activity are the primary cause of climate change. The majority of carbon dioxide is produced by burning of fossil fuels with emission of harmful industrial gases, methane is produced by raising livestock, and nitrous oxide is produced by using inorganic fertilizer. According to FAO, worlds vegetable production is get lowered around 18.68% due to adverse climatic effect. As a result, by 2050, an estimated 175 million more people could have zinc deficiency and 122 million more could have protein deficiency. People in poverty, who rely primarily on plant sources for sustenance, will be most affected by these effects. Therefore, to mitigate climate change problem crop prototype or idiotype will be helpful in a 328significant manner. Climate change is not only responsible for abiotic stresses but also it is responsible for spreading of biotic stress. So, incorporation of new crop prototype or new cultivar in a farming system which are resistant to biotic and abiotic stresses along with rich in high nutrition content. Climate change is not only a potential for the future; it is a reality that we are all already experiencing. Therefore, in modern farming systems modified and new innovation technology regarding water, soil and food security can be helpful to cope up in the climate change issue.</description>
+      <author>Siddharth Biswal, Ambika Prasad Mishra</author>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1201/9781003531937-22</guid>
     </item>
     <item>
       <title>Unit Commitment for Integration of Renewable Energy with Considering Cost and Carbon Dioxide Emission</title>
@@ -898,16 +888,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00994</guid>
     </item>
     <item>
-      <title>Climate Change Resilient through Modern Farming in Vegetable Cultivation</title>
-      <link>https://doi.org/10.1201/9781003531937-22</link>
-      <description>Siddharth Biswal, Ambika Prasad Mishra, CRC Press eBooks. None(None)] 2024. https://openalex.org/W4400104030
-
-                Vegetables are the high valued crops for human kind as it is rich source of important vitamins and minerals especially, micronutrients and phytochemicals promote good health which helps in reduction of mal nutrition. It is also primarily responsible for the positive health effects due to contains generous amount of numerous antioxidant substances, carotenoids and phenolics. Farmers are favored for their economics due to the short period of cultivation. But due to world's biggest threat that is climate change, which has made vegetable cultivation vulnerable to extreme weather occurrences including high temperatures, unpredictable rainfall that causes flooding, and drought situations. Vegetables are very perishable in nature due to high water content i. e., 90%. Therefore, high temperature makes the cell damage and vulnerable for carry out all physiological and biological process inside the cell. Shedding down of flower bud and small fruit of solanaceous, cucurbitaceous and other types of vegetables also occur under high temperature stress. Not only drought, high temperature causes the cell damage but also erratic rainfall pattern results flood condition also dangerous for crop growth and development. In flooded condition, tomato plants produced ethylene hormone which is detrimental for fruit quality due to absence of oxygen. Increases in carbon dioxide, nitrous oxide, methane, and other harmful gases as a result of human activity are the primary cause of climate change. The majority of carbon dioxide is produced by burning of fossil fuels with emission of harmful industrial gases, methane is produced by raising livestock, and nitrous oxide is produced by using inorganic fertilizer. According to FAO, worlds vegetable production is get lowered around 18.68% due to adverse climatic effect. As a result, by 2050, an estimated 175 million more people could have zinc deficiency and 122 million more could have protein deficiency. People in poverty, who rely primarily on plant sources for sustenance, will be most affected by these effects. Therefore, to mitigate climate change problem crop prototype or idiotype will be helpful in a 328significant manner. Climate change is not only responsible for abiotic stresses but also it is responsible for spreading of biotic stress. So, incorporation of new crop prototype or new cultivar in a farming system which are resistant to biotic and abiotic stresses along with rich in high nutrition content. Climate change is not only a potential for the future; it is a reality that we are all already experiencing. Therefore, in modern farming systems modified and new innovation technology regarding water, soil and food security can be helpful to cope up in the climate change issue.</description>
-      <author>Siddharth Biswal, Ambika Prasad Mishra</author>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1201/9781003531937-22</guid>
-    </item>
-    <item>
       <title>Application of arc elasticity analysis method combined with CO2 storage technology in building load and energy saving retrofit</title>
       <link>https://doi.org/10.2298/tsci2403745g</link>
       <description>Liang Gao, Yan Zhou, Feng Cheng, Shile Shi, Wu Yuan, Riliang Zhang, Xiaodong Wang, Thermal science/Thermal Science. 28(3 Part B)] 2024. https://openalex.org/W4400030604
@@ -918,26 +898,6 @@
       <guid isPermaLink="true">https://doi.org/10.2298/tsci2403745g</guid>
     </item>
     <item>
-      <title>The influence of H2S and CO2 on the triaxial behavior of Class G cement paste under elevated temperature and pressure</title>
-      <link>https://doi.org/10.1016/j.geoen.2024.213084</link>
-      <description>A.J. Neves, Victor Nogueira Lima, Igor Nogueira Lima, Sonia Letichevsky, Roberto R. de Avillez, Fl&#225;vio de Andrade Silva, Geoenergy science and engineering. None(None)] 2024. https://openalex.org/W4400016336
-
-                Cementing is one of the most crucial operations in an oil well since it fixes the casing and prevents fluid migration across permeable zones. However, the material used in this process, Class G cement, faces exposure to various agents during and after its curing process, particularly at greater depths where temperatures and pressures are elevated. Exposure of this cement to elements like brine, H2S gas, and CO2 gas tends to compromise the material's durability and the well's integrity. Consequently, exposure to these agents leads to modifications in the cement paste's physical, chemical, and mechanical properties. Thus, investigations into the influence of these agents are crucial to ensure the integrity of the cement sheath. In this study, Class G cement pastes were exposed for three months in an autoclave under elevated pressure (20 MPa) and temperature (88 &#176;C) in a brine-saturated environment with either H2S or CO2 at different stages. The research investigated mechanical behavior through uniaxial and triaxial compression tests, physical properties through porosity and micro-computerized tomography tests, and chemical properties through X-ray diffraction and pH tests. The study demonstrates that confining pressure significantly affects the deformation of samples exposed to brine+H2S and brine+CO2, causing plastic deformations at confining pressures above 20 MPa even before applying deviatoric stresses. Exposure to acidic gases also leads to a 27% reduction in compressive strength for brine+H2S and a 45% reduction for brine+CO2, affecting the elastic moduli due to potential micro-defects originating from the curing process and chemical reactions induced by the presence of the acidic gases.</description>
-      <author>A.J. Neves, Victor Nogueira Lima, Igor Nogueira Lima, Sonia Letichevsky, Roberto R. de Avillez, Fl&#225;vio de Andrade Silva</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.geoen.2024.213084</guid>
-    </item>
-    <item>
-      <title>Revealing the potential of cyclic amine morpholine (MOR) for CO2 capture through a comprehensive evaluation framework and rapid screening experiments</title>
-      <link>https://doi.org/10.1016/j.cej.2024.153402</link>
-      <description>Chunbing Yu, Hao Ling, Wen-Juan Cao, Feng Deng, Zhao Yan-hua, Dapeng Cao, Min Tie, Xin&#8208;Sheng Hu, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399915567
-
-                The present study comprehensively evaluates the CO2 capture performance of morpholine (MOR) at concentrations of 2 M, 5 M, and 7 M, comparing its effectiveness against conventional amines, monoethanolamine (MEA) and 2-(methylamino)ethanol (MAE). The assessment criteria include CO2 absorption rate, desorption rate, cyclic capacity, regeneration energy consumption, and relative economic cost. Utilizing 13C Nuclear Magnetic Resonance (NMR) technology, we analyzed the ion concentration variations of the amine solvents under different CO2 loadings, revealing the reaction mechanisms of MOR with CO2. Our results demonstrate that MOR outperforms MEA and MAE in CO2 capture performance, particularly excelling in desorption efficiency. At a concentration of 7 M, MOR exhibited a 357.86 % increase in average desorption rate and a 46 % larger cyclic capacity compared to MEA. Additionally, MOR showed a 33.33 % reduction in regeneration energy consumption and a 7.89 % decrease in relative economic cost. The comprehensive evaluation method developed in this study indicates that MOR, with its high thermal stability and low corrosivity, maintains excellent CO2 capture performance at high amine concentrations, suggesting it as a promising absorbent for industrial applications. The findings contribute to the optimization of amine-based CO2 capture technologies and provide a robust framework for the selection and assessment of amine solvents, paving the way for more sustainable and cost-effective carbon capture solutions.</description>
-      <author>Chunbing Yu, Hao Ling, Wen-Juan Cao, Feng Deng, Zhao Yan-hua, Dapeng Cao, Min Tie, Xin&#8208;Sheng Hu</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153402</guid>
-    </item>
-    <item>
       <title>Biodegradable polybutylene adipate terephthalate foams: Investigating sustainability via reprocessing and green solvent</title>
       <link>https://doi.org/10.1002/app.55901</link>
       <description>Guilherme Rodrigues Lima, Simon F. H. Hobbenschot, Adrivit Mukherjee, Daniele Parisi, Francesco Picchioni, Ranjita K. Bose, Journal of applied polymer science. None(None)] 2024. https://openalex.org/W4400088141
@@ -946,6 +906,16 @@
       <author>Guilherme Rodrigues Lima, Simon F. H. Hobbenschot, Adrivit Mukherjee, Daniele Parisi, Francesco Picchioni, Ranjita K. Bose</author>
       <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/app.55901</guid>
+    </item>
+    <item>
+      <title>The influence of H2S and CO2 on the triaxial behavior of Class G cement paste under elevated temperature and pressure</title>
+      <link>https://doi.org/10.1016/j.geoen.2024.213084</link>
+      <description>A.J. Neves, Victor Nogueira Lima, Igor Nogueira Lima, Sonia Letichevsky, Roberto R. de Avillez, Fl&#225;vio de Andrade Silva, Geoenergy science and engineering. None(None)] 2024. https://openalex.org/W4400016336
+
+                Cementing is one of the most crucial operations in an oil well since it fixes the casing and prevents fluid migration across permeable zones. However, the material used in this process, Class G cement, faces exposure to various agents during and after its curing process, particularly at greater depths where temperatures and pressures are elevated. Exposure of this cement to elements like brine, H2S gas, and CO2 gas tends to compromise the material's durability and the well's integrity. Consequently, exposure to these agents leads to modifications in the cement paste's physical, chemical, and mechanical properties. Thus, investigations into the influence of these agents are crucial to ensure the integrity of the cement sheath. In this study, Class G cement pastes were exposed for three months in an autoclave under elevated pressure (20 MPa) and temperature (88 &#176;C) in a brine-saturated environment with either H2S or CO2 at different stages. The research investigated mechanical behavior through uniaxial and triaxial compression tests, physical properties through porosity and micro-computerized tomography tests, and chemical properties through X-ray diffraction and pH tests. The study demonstrates that confining pressure significantly affects the deformation of samples exposed to brine+H2S and brine+CO2, causing plastic deformations at confining pressures above 20 MPa even before applying deviatoric stresses. Exposure to acidic gases also leads to a 27% reduction in compressive strength for brine+H2S and a 45% reduction for brine+CO2, affecting the elastic moduli due to potential micro-defects originating from the curing process and chemical reactions induced by the presence of the acidic gases.</description>
+      <author>A.J. Neves, Victor Nogueira Lima, Igor Nogueira Lima, Sonia Letichevsky, Roberto R. de Avillez, Fl&#225;vio de Andrade Silva</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.geoen.2024.213084</guid>
     </item>
     <item>
       <title>Development of a Large-scale Thermogravimetry and Gas Analyzer for Determining Carbon in Concrete</title>
@@ -978,16 +948,6 @@
       <guid isPermaLink="true">https://doi.org/10.31219/osf.io/7swau</guid>
     </item>
     <item>
-      <title>Benzene Oxidation in Air by an Amine-Functionalized Metal&#8211;Organic Framework-Derived Carbon- and Nitrogen-Loaded Zirconium Dioxide-Supported Platinum Catalyst</title>
-      <link>https://doi.org/10.1021/acsami.4c07188</link>
-      <description>Kumar Vikrant, Ki&#8208;Hyun Kim, Danil W. Boukhvalov, Philippe M. Heynderickx, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4399972044
-
-                To learn more about the behavior of amine (NH2)-functionalized metal&#8211;organic framework (MOF)-derived noble metal catalysts in the removal of aromatic volatile organic compounds in air, benzene oxidation at low temperatures has been investigated using 0.2-, 0.8-, and 1.5%-platinum (Pt)/Universitetet i Oslo (UiO)-66-NH2. The benzene conversion (XB) of x%-Pt/UiO-66-NH2-R under dry conditions (175 &#176;C) was 23% (x = 0.2%) &lt; 52% (x = 0.8%) &lt; 100% (x = 1.5%): 'R' suffix denotes reduction pretreatment using a hydrogen (10 vol %) and nitrogen mixture at 300 &#176;C for the generation of metallic Pt (Pt0) sites and simultaneous partial MOF decomposition into carbon- and nitrogen-loaded zirconium dioxide. The prominent role of reduction pretreatment was apparent in benzene oxidation as 1.5%-Pt/UiO-66-NH2 did not exhibit catalytic activity below 175 &#176;C (dry condition). The promotional role of moisture in benzene oxidation by 1.5%-Pt/UiO-66-NH2-R was evident with a rise in the steady-state reaction rate (r) at 110 &#176;C (21 kPa molecular oxygen (O2)) from 1.3 &#215; 10&#8211;3 to 5.0 &#215; 10&#8211;3 &#956;mol g&#8211;1 s&#8211;1 as the water (H2O) partial pressure increased from 0 to 1.88 kPa. In contrast, the activity was lowered with increasing RH due to catalyst poisoning by excess moisture (r (110 &#176;C) of 6.6 &#215; 10&#8211;04 &#956;mol g&#8211;1 s&#8211;1 at 2.83 kPa H2O (21 kPa O2)). Kinetic modeling suggests that XB proceeds through the Langmuir&#8211;Hinshelwood mechanism on the Pt/UiO-66-NH2-R surface (dissociative O2 chemisorption and the involvement of two oxygen species in benzene oxidation). According to the density functional theory simulation, the carbon and nitrogen impurities are to make the first XB step (i.e., hydrogen migration from the benzene molecule to the substrate) energetically favorable. The second hydrogen atom from the benzene molecule is also extracted effectively, while the oxygen derived from O2 facilitates further XB. The Pt0 sites dissociate the O2 and H2O molecules, while the product of the latter, i.e., free hydrogen and hydroxyl, makes the subsequent XB steps energetically favorable.</description>
-      <author>Kumar Vikrant, Ki&#8208;Hyun Kim, Danil W. Boukhvalov, Philippe M. Heynderickx</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c07188</guid>
-    </item>
-    <item>
       <title>Predicted Future Changes in the Mean Seasonal Carbon Cycle Due to Climate Change</title>
       <link>https://doi.org/10.3390/f15071124</link>
       <description>Mauro Morichetti, Elia Vangi, Alessio Collalti, Forests. 15(7)] 2024. https://openalex.org/W4400119435
@@ -998,6 +958,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/f15071124</guid>
     </item>
     <item>
+      <title>Benzene Oxidation in Air by an Amine-Functionalized Metal&#8211;Organic Framework-Derived Carbon- and Nitrogen-Loaded Zirconium Dioxide-Supported Platinum Catalyst</title>
+      <link>https://doi.org/10.1021/acsami.4c07188</link>
+      <description>Kumar Vikrant, Ki&#8208;Hyun Kim, Danil W. Boukhvalov, Philippe M. Heynderickx, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4399972044
+
+                To learn more about the behavior of amine (NH2)-functionalized metal&#8211;organic framework (MOF)-derived noble metal catalysts in the removal of aromatic volatile organic compounds in air, benzene oxidation at low temperatures has been investigated using 0.2-, 0.8-, and 1.5%-platinum (Pt)/Universitetet i Oslo (UiO)-66-NH2. The benzene conversion (XB) of x%-Pt/UiO-66-NH2-R under dry conditions (175 &#176;C) was 23% (x = 0.2%) &lt; 52% (x = 0.8%) &lt; 100% (x = 1.5%): 'R' suffix denotes reduction pretreatment using a hydrogen (10 vol %) and nitrogen mixture at 300 &#176;C for the generation of metallic Pt (Pt0) sites and simultaneous partial MOF decomposition into carbon- and nitrogen-loaded zirconium dioxide. The prominent role of reduction pretreatment was apparent in benzene oxidation as 1.5%-Pt/UiO-66-NH2 did not exhibit catalytic activity below 175 &#176;C (dry condition). The promotional role of moisture in benzene oxidation by 1.5%-Pt/UiO-66-NH2-R was evident with a rise in the steady-state reaction rate (r) at 110 &#176;C (21 kPa molecular oxygen (O2)) from 1.3 &#215; 10&#8211;3 to 5.0 &#215; 10&#8211;3 &#956;mol g&#8211;1 s&#8211;1 as the water (H2O) partial pressure increased from 0 to 1.88 kPa. In contrast, the activity was lowered with increasing RH due to catalyst poisoning by excess moisture (r (110 &#176;C) of 6.6 &#215; 10&#8211;04 &#956;mol g&#8211;1 s&#8211;1 at 2.83 kPa H2O (21 kPa O2)). Kinetic modeling suggests that XB proceeds through the Langmuir&#8211;Hinshelwood mechanism on the Pt/UiO-66-NH2-R surface (dissociative O2 chemisorption and the involvement of two oxygen species in benzene oxidation). According to the density functional theory simulation, the carbon and nitrogen impurities are to make the first XB step (i.e., hydrogen migration from the benzene molecule to the substrate) energetically favorable. The second hydrogen atom from the benzene molecule is also extracted effectively, while the oxygen derived from O2 facilitates further XB. The Pt0 sites dissociate the O2 and H2O molecules, while the product of the latter, i.e., free hydrogen and hydroxyl, makes the subsequent XB steps energetically favorable.</description>
+      <author>Kumar Vikrant, Ki&#8208;Hyun Kim, Danil W. Boukhvalov, Philippe M. Heynderickx</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c07188</guid>
+    </item>
+    <item>
       <title>Properties of CO2 &#8211; Methane &#8211; Water for CO2 Geothermal Applications</title>
       <link>https://doi.org/10.2118/220098-ms</link>
       <description>Vladislav Arekhov, Timur Zhainakov, Torsten Clemens, Jonas Wegner, No host. None(None)] 2024. https://openalex.org/W4400058655
@@ -1006,16 +976,6 @@
       <author>Vladislav Arekhov, Timur Zhainakov, Torsten Clemens, Jonas Wegner</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2118/220098-ms</guid>
-    </item>
-    <item>
-      <title>Green pathway of Urea Synthesis through Plasma-Ice Interaction: Optimization and Mechanistic Insights with N2 + CO2 and NH3 + CO2 Gas Mixtures</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4615990/v1</link>
-      <description>Vikas Rathore, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4399984211
-
-                Abstract This study explores a green pathway for urea synthesis using plasma-ice interaction with gas mixtures of N2 + CO2 and NH3 + CO2. Electrical and optical emission spectroscopy were employed to characterize the plasmas, revealing that urea formation involves complex reactions driven by high-energy species, producing reactive nitrogen and carbon intermediates that further react to form urea. Physicochemical analyses of plasma-treated ice showed increased pH, electrical conductivity (EC), and reduced oxidation-reduction potential (ORP). Optimization of plasma process parameters (gas pressure, applied voltage, and treatment time) was performed to enhance urea formation. Among these parameters, plasma treatment time had the most substantial influence. Increasing treatment time from 20 to 60 minutes significantly impacted physicochemical properties: for N2 + CO2 plasma, pH increased by 21.05%, EC by 184.7%, and ORP decreased by 27.48%; for NH3 + CO2 plasma, pH increased by 27.37%, EC by 239.05%, and ORP decreased by 72.67%, respectively. The study shows that NH3 + CO2 plasma produces a significantly higher concentration of urea (7.7 mg L-1) compared to N2 + CO2 plasma (0.55 mg L-1). This is attributed to the direct availability and reactivity of ammonia, which simplifies reaction pathways and enhances intermediate formation. These findings highlight the potential of plasma-ice interaction as an energy-efficient and environmentally friendly method for urea synthesis, offering a sustainable alternative to conventional processes.</description>
-      <author>Vikas Rathore</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4615990/v1</guid>
     </item>
     <item>
       <title>Dual&#8208;Anion&#8208;Stabilized Cu&#948;+ Sites in Cu2(OH)2CO3 for High C2+ Selectivity in the CO2 Electroreduction Reaction</title>
@@ -1038,6 +998,36 @@
       <author>Vikas Rathore, Vyom Desai, N.I. Jamnapara, Sudhir Kumar Nema</author>
       <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2406.15475</guid>
+    </item>
+    <item>
+      <title>Green pathway of Urea Synthesis through Plasma-Ice Interaction: Optimization and Mechanistic Insights with N2 + CO2 and NH3 + CO2 Gas Mixtures</title>
+      <link>https://doi.org/10.21203/rs.3.rs-4615990/v1</link>
+      <description>Vikas Rathore, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4399984211
+
+                Abstract This study explores a green pathway for urea synthesis using plasma-ice interaction with gas mixtures of N2 + CO2 and NH3 + CO2. Electrical and optical emission spectroscopy were employed to characterize the plasmas, revealing that urea formation involves complex reactions driven by high-energy species, producing reactive nitrogen and carbon intermediates that further react to form urea. Physicochemical analyses of plasma-treated ice showed increased pH, electrical conductivity (EC), and reduced oxidation-reduction potential (ORP). Optimization of plasma process parameters (gas pressure, applied voltage, and treatment time) was performed to enhance urea formation. Among these parameters, plasma treatment time had the most substantial influence. Increasing treatment time from 20 to 60 minutes significantly impacted physicochemical properties: for N2 + CO2 plasma, pH increased by 21.05%, EC by 184.7%, and ORP decreased by 27.48%; for NH3 + CO2 plasma, pH increased by 27.37%, EC by 239.05%, and ORP decreased by 72.67%, respectively. The study shows that NH3 + CO2 plasma produces a significantly higher concentration of urea (7.7 mg L-1) compared to N2 + CO2 plasma (0.55 mg L-1). This is attributed to the direct availability and reactivity of ammonia, which simplifies reaction pathways and enhances intermediate formation. These findings highlight the potential of plasma-ice interaction as an energy-efficient and environmentally friendly method for urea synthesis, offering a sustainable alternative to conventional processes.</description>
+      <author>Vikas Rathore</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4615990/v1</guid>
+    </item>
+    <item>
+      <title>Direct Microenvironment Modulation of CO2 Electroreduction: Negatively Charged Ag Sites Going beyond Catalytic Surface Reactions</title>
+      <link>https://doi.org/10.1002/anie.202408580</link>
+      <description>Ruoyun Dai, Kaian Sun, Rongan Shen, Jinjie Fang, Weng-Chon Cheong, Zewen Zhuang, Zhongbin Zhuang, Chao Zhang, Chen Chen, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4399984426
+
+                Electrochemical reduction of CO2 is an important way to achieve carbon neutrality, and much effort has been devoted to the design of active sites. Apart from elevating intrinsic activity, expanding the functionality of active site may also boost catalytic performance. Here we have designed &#8220;negatively charged Ag (nc&#8208;Ag)&#8221; active sites featuring both the intrinsic activity and the capability of regulating microenvironment, through modifying Ag nanoparticles with atomically dispersed Sn species. Different from conventional active sites (which only govern surface process by bonding with the intermediates), the nc&#8208;Ag sites could manipulate environmental species. Therefore, the sites could not only activate CO2, but also regulate interfacial H2O and CO2, as confirmed by operando spectroscopies. The catalyst delivers a high current density with CO faradaic efficiency of 97%. Our work here opens up new opportunities for the design of multifunctional electrocatalytic active sites.</description>
+      <author>Ruoyun Dai, Kaian Sun, Rongan Shen, Jinjie Fang, Weng-Chon Cheong, Zewen Zhuang, Zhongbin Zhuang, Chao Zhang, Chen Chen</author>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202408580</guid>
+    </item>
+    <item>
+      <title>Ni-Ag Catalysts for Hydrogen Production through Dry Reforming of Methane: Characterization and Performance Evaluation</title>
+      <link>https://doi.org/10.3390/catal14070400</link>
+      <description>Hayat Henni, Rafik Benrabaa, Pascal Roussel, Axel L&#246;fberg, Catalysts. 14(7)] 2024. https://openalex.org/W4400060532
+
+                To investigate the influence of Ag and the loading of Ni species, Ni-Ag type catalysts were synthesized with varying Ni/Ag ratios (1, 1.5 and 2) using the coprecipitation method. The catalysts were extensively characterized using various techniques such as TG-DSC-SM, XRD, ICP, BET, SEM-EDX and TPR and subsequently tested in the CH4/CO2 reaction without any pretreatment. Regardless of the ratio employed, a phase mixture containing NiO and Ag was observed after calcination under air between 600 &#176;C and 1200 &#176;C. SEM analysis confirmed the presence of a close interface between Ag and NiO. The specific surface area was found to be significantly higher for the catalyst with lower Ni content (R = 1). TPR analysis demonstrated that the inclusion of Ag facilitated the reduction of Ni at lower temperatures. XRD analyses of the spent catalyst confirmed catalyst reduction during the reaction. Among the samples, a catalyst with Ni/Ag = 1 exhibited superior catalytic activity without any pretreatment under a reduction atmosphere, in which case the conversions of methane and CO2 at 650 &#176;C amounted to 38 and 45 mol%, respectively, with H2/CO = 0.7 and 71 mol% of H2. The presence of Ag species enhances the stability of the Ni catalyst and improves catalytic performance in the dry reforming of methane.</description>
+      <author>Hayat Henni, Rafik Benrabaa, Pascal Roussel, Axel L&#246;fberg</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14070400</guid>
     </item>
     <item>
       <title>Direct Microenvironment Modulation of CO2 Electroreduction: Negatively Charged Ag Sites Going beyond Catalytic Surface Reactions</title>
@@ -1160,16 +1150,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.scitotenv.2024.174239</guid>
     </item>
     <item>
-      <title>Characteristics of Banana Stem Adsorbent (Musa Paradisiaca) For Biogas Purification With Variation of Adsorption Contact Time</title>
-      <link>https://doi.org/10.15294/jbat.v12i1.39600</link>
-      <description>Elida Purba, Ferina Safitri, Jurnal Bahan Alam Terbarukan /Jurnal Bahan Alam Terbarukan. 12(1)] 2023. https://openalex.org/W4400011244
-
-                The features of the adsorbent utilized for biogas purification are covered in this study. The aim of this study was to investigate the features of the banana stem adsorbent that may be applied to the adsorption process for the purification of biogas. The research involved the preparation of banana stem powder, the removal of lignin, the creation of adsorbents, and the purification of biogas using the adsorption technique. The adsorption contact time variations used were (30; 60; 90) minutes, with a biogas flow rate of 1 l/minute and a banana stem particle size of 20 mesh. Samples were analyzed by lignocellulosic content analysis, FTIR (Fourier Transform Infrared Spectroscopy), SEM (Scanning Electron Microscope), and Gas Chromatography. According to the research findings, the adsorbent made from banana stems that can be used to purify biogas has a cellulose content of 47.5%, in the FT-IR analysis there is a shift in the peak number of stretching in the hydroxyl and carboxylic acid functional groups and has a surface structure of banana stem fiber that is orderly. The longer the contact time in the biogas purification process utilizing banana stem adsorbent with variations in adsorption contact time acquired, the more CO2 was adsorbed and the higher the CH4 concentration in the purified biogas. The biogas purification process resulted in a 39.893% reduction in CO2 content and the best contact time to produce the largest CH4 content was 90 minutes with the resulting CH4 content of 64.786%.</description>
-      <author>Elida Purba, Ferina Safitri</author>
-      <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.15294/jbat.v12i1.39600</guid>
-    </item>
-    <item>
       <title>Toward 2050: Critical Analysis of Energy and Economic Requirements of Carbon Capture and Storage in Post Combustion Capture</title>
       <link>https://doi.org/10.2118/220020-ms</link>
       <description>Paolo Parisi, Simone Arca, Michele M Ciulla, F. Morodei, William Palozzo, Pietro Di Profio, Emilio D'Alessandro, No host. None(None)] 2024. https://openalex.org/W4400058731
@@ -1178,6 +1158,16 @@
       <author>Paolo Parisi, Simone Arca, Michele M Ciulla, F. Morodei, William Palozzo, Pietro Di Profio, Emilio D'Alessandro</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2118/220020-ms</guid>
+    </item>
+    <item>
+      <title>Characteristics of Banana Stem Adsorbent (Musa Paradisiaca) For Biogas Purification With Variation of Adsorption Contact Time</title>
+      <link>https://doi.org/10.15294/jbat.v12i1.39600</link>
+      <description>Elida Purba, Ferina Safitri, Jurnal Bahan Alam Terbarukan /Jurnal Bahan Alam Terbarukan. 12(1)] 2023. https://openalex.org/W4400011244
+
+                The features of the adsorbent utilized for biogas purification are covered in this study. The aim of this study was to investigate the features of the banana stem adsorbent that may be applied to the adsorption process for the purification of biogas. The research involved the preparation of banana stem powder, the removal of lignin, the creation of adsorbents, and the purification of biogas using the adsorption technique. The adsorption contact time variations used were (30; 60; 90) minutes, with a biogas flow rate of 1 l/minute and a banana stem particle size of 20 mesh. Samples were analyzed by lignocellulosic content analysis, FTIR (Fourier Transform Infrared Spectroscopy), SEM (Scanning Electron Microscope), and Gas Chromatography. According to the research findings, the adsorbent made from banana stems that can be used to purify biogas has a cellulose content of 47.5%, in the FT-IR analysis there is a shift in the peak number of stretching in the hydroxyl and carboxylic acid functional groups and has a surface structure of banana stem fiber that is orderly. The longer the contact time in the biogas purification process utilizing banana stem adsorbent with variations in adsorption contact time acquired, the more CO2 was adsorbed and the higher the CH4 concentration in the purified biogas. The biogas purification process resulted in a 39.893% reduction in CO2 content and the best contact time to produce the largest CH4 content was 90 minutes with the resulting CH4 content of 64.786%.</description>
+      <author>Elida Purba, Ferina Safitri</author>
+      <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.15294/jbat.v12i1.39600</guid>
     </item>
     <item>
       <title>Effects of Flow and Geomechanics Coupling in Faulted Reservoirs for CO2 Storage</title>
@@ -1190,16 +1180,6 @@
       <guid isPermaLink="true">https://doi.org/10.2118/220000-ms</guid>
     </item>
     <item>
-      <title>CPU Speed Control for Optimal Design of PV and Storage Batteries Toward RE100%DC</title>
-      <link>https://doi.org/10.3233/atde240355</link>
-      <description>Shinsuke Ono, Ryuto Shigenobu, Atsushi Takahashi, Masakazu Ito, Kinji Kimura, Advances in transdisciplinary engineering. None(None)] 2024. https://openalex.org/W4399980886
-
-                There is a growing concern about increasing data center (DC) power consumption, and addressing it requires increased use of renewable energy sources (RE). However, a major challenge is that renewable energy output fluctuates. Therefore, proposed CPU speed control to optimally design photovoltaic systems and storage batteries for RE100% DC, and proposed ways to deal with output fluctuations. This paper describes an optimization simulation with upper and lower CPU temperature constraints and verifies the effectiveness of this approach. As a result, be able to confirm an approximately 10% reduction in both CO2 emissions and costs compared to conventional methods.</description>
-      <author>Shinsuke Ono, Ryuto Shigenobu, Atsushi Takahashi, Masakazu Ito, Kinji Kimura</author>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3233/atde240355</guid>
-    </item>
-    <item>
       <title>Power system investment optimization to identify carbon neutrality scenarios for Italy</title>
       <link>https://doi.org/10.1088/2753-3751/ad5b64</link>
       <description>Alice Di Bella, Federico Canti, Matteo Giacomo Prina, Valeria Casalicchio, Giampaolo Manzolini, Wolfram Sparber, Environmental research: Energy. None(None)] 2024. https://openalex.org/W4399993567
@@ -1208,6 +1188,16 @@
       <author>Alice Di Bella, Federico Canti, Matteo Giacomo Prina, Valeria Casalicchio, Giampaolo Manzolini, Wolfram Sparber</author>
       <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/2753-3751/ad5b64</guid>
+    </item>
+    <item>
+      <title>CPU Speed Control for Optimal Design of PV and Storage Batteries Toward RE100%DC</title>
+      <link>https://doi.org/10.3233/atde240355</link>
+      <description>Shinsuke Ono, Ryuto Shigenobu, Atsushi Takahashi, Masakazu Ito, Kinji Kimura, Advances in transdisciplinary engineering. None(None)] 2024. https://openalex.org/W4399980886
+
+                There is a growing concern about increasing data center (DC) power consumption, and addressing it requires increased use of renewable energy sources (RE). However, a major challenge is that renewable energy output fluctuates. Therefore, proposed CPU speed control to optimally design photovoltaic systems and storage batteries for RE100% DC, and proposed ways to deal with output fluctuations. This paper describes an optimization simulation with upper and lower CPU temperature constraints and verifies the effectiveness of this approach. As a result, be able to confirm an approximately 10% reduction in both CO2 emissions and costs compared to conventional methods.</description>
+      <author>Shinsuke Ono, Ryuto Shigenobu, Atsushi Takahashi, Masakazu Ito, Kinji Kimura</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3233/atde240355</guid>
     </item>
     <item>
       <title>Eco-Efficiency of Pellet Production from Dedicated Poplar Plantations</title>
@@ -1250,16 +1240,6 @@
       <guid isPermaLink="true">https://doi.org/10.2118/219993-ms</guid>
     </item>
     <item>
-      <title>CO2 Electroreduction by Engineering the Cu2O/RGO Interphase</title>
-      <link>https://doi.org/10.3390/catal14070412</link>
-      <description>Matteo. Bisetto, Sourav Rej, Alberto Naldoni, Tiziano Montini, Manuela Bevilacqua, Paolo Fornasiero, Catalysts. 14(7)] 2024. https://openalex.org/W4400119691
-
-                In the present investigation, Cu2O-based composites were successfully prepared through a multistep method where cubic Cu2O nanoparticles (CU Cu2O) have been grown on Reduced Graphene Oxide (RGO) nanosheets. The structural and morphological properties of the materials have been studied through a comprehensive characterization, confirming the coexistence of crystalline Cu2O and RGO. Microscopical imaging revealed the intimate contact between the two materials, affecting the size and the distribution of Cu2O nanoparticles on the support. The features of the improved morphology strongly affected the electrochemical behavior of the composites, increasing the activity and the faradaic efficiencies towards the electrochemical CO2 reduction reaction process. CU Cu2O/RGO 2:1 composite displayed selective CO formation over H2, with higher currents compared to pristine Cu2O (&#8722;0.34 mA/cm2 for Cu2O and &#8722;0.64 mA/cm2 for CU Cu2O/RGO 2:1 at the voltage of &#8722;0.8 vs. RHE and in a CO2 atmosphere) and a faradaic efficiency of 50% at &#8722;0.9 V vs. RHE. This composition exhibited significantly higher CO production compared to the pristine materials, indicating a favorable *CO intermediate pathway even at lower voltages. The systematic investigation on the effects of nanostructuration on composition, morphology and catalytic behavior is a valuable solution for the formation of effective interphases for the promotion of catalytic properties providing crucial insights for future catalysts design and applications.</description>
-      <author>Matteo. Bisetto, Sourav Rej, Alberto Naldoni, Tiziano Montini, Manuela Bevilacqua, Paolo Fornasiero</author>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14070412</guid>
-    </item>
-    <item>
       <title>ROSMOSE: A Web-based Decision Support Tool for the Design and Optimization of Industrial and Urban Energy Systems</title>
       <link>https://doi.org/10.1016/j.energy.2024.132182</link>
       <description>Dareen Dardor, Daniel Fl&#243;rez-Orrego, C&#233;dric Terrier, Marco Domingos, Cyrille Platteau, Jo&#227;o A. Silva, Michel L&#243;pez, Fran&#231;ois Mar&#233;chal, Energy. None(None)] 2024. https://openalex.org/W4399986561
@@ -1268,6 +1248,16 @@
       <author>Dareen Dardor, Daniel Fl&#243;rez-Orrego, C&#233;dric Terrier, Marco Domingos, Cyrille Platteau, Jo&#227;o A. Silva, Michel L&#243;pez, Fran&#231;ois Mar&#233;chal</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.132182</guid>
+    </item>
+    <item>
+      <title>CO2 Electroreduction by Engineering the Cu2O/RGO Interphase</title>
+      <link>https://doi.org/10.3390/catal14070412</link>
+      <description>Matteo. Bisetto, Sourav Rej, Alberto Naldoni, Tiziano Montini, Manuela Bevilacqua, Paolo Fornasiero, Catalysts. 14(7)] 2024. https://openalex.org/W4400119691
+
+                In the present investigation, Cu2O-based composites were successfully prepared through a multistep method where cubic Cu2O nanoparticles (CU Cu2O) have been grown on Reduced Graphene Oxide (RGO) nanosheets. The structural and morphological properties of the materials have been studied through a comprehensive characterization, confirming the coexistence of crystalline Cu2O and RGO. Microscopical imaging revealed the intimate contact between the two materials, affecting the size and the distribution of Cu2O nanoparticles on the support. The features of the improved morphology strongly affected the electrochemical behavior of the composites, increasing the activity and the faradaic efficiencies towards the electrochemical CO2 reduction reaction process. CU Cu2O/RGO 2:1 composite displayed selective CO formation over H2, with higher currents compared to pristine Cu2O (&#8722;0.34 mA/cm2 for Cu2O and &#8722;0.64 mA/cm2 for CU Cu2O/RGO 2:1 at the voltage of &#8722;0.8 vs. RHE and in a CO2 atmosphere) and a faradaic efficiency of 50% at &#8722;0.9 V vs. RHE. This composition exhibited significantly higher CO production compared to the pristine materials, indicating a favorable *CO intermediate pathway even at lower voltages. The systematic investigation on the effects of nanostructuration on composition, morphology and catalytic behavior is a valuable solution for the formation of effective interphases for the promotion of catalytic properties providing crucial insights for future catalysts design and applications.</description>
+      <author>Matteo. Bisetto, Sourav Rej, Alberto Naldoni, Tiziano Montini, Manuela Bevilacqua, Paolo Fornasiero</author>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14070412</guid>
     </item>
     <item>
       <title>Assessing environmental and market implications of steel decarbonisation strategies: a hybrid input-output model for the European Union</title>
@@ -1280,16 +1270,6 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1748-9326/ad5bf1</guid>
     </item>
     <item>
-      <title>Grain-Boundary Engineering Boosted Undercoordinated Active Sites for Scalable Conversion of CO&lt;sub&gt;2&lt;/sub&gt; to Ethylene</title>
-      <link>https://doi.org/10.1021/acsnano.3c12662</link>
-      <description>Zhilin Yang, Kun Qi, Pengbo Lyu, Eddy Petit, Huali Wu, Wensen Wang, Jingyuan Ma, Ying Wang, Chrystelle Salameh, Damien Voiry, ACS nano. None(None)] 2024. https://openalex.org/W4399949724
-
-                The development of highly selective and energy efficient technologies for electrochemical CO2 reduction combined with renewable energy sources holds great promise for advancing the field of sustainable chemistry. The engineering of copper-based electrodes facilitates the conversion of CO2 into high-value multicarbon products (C2+). However, the ambiguous determination of the intrinsic CO2 activity and the maximization of the density of exposed active sites have severely limited the use of Cu for the realization of practical electrocatalytic devices. Here, we report a scalable strategy to obtain a high density of undercoordinated sites by maximizing the exposure of grain-boundary active sites using a direct chronoamperometric pulse method. Our numerical investigations predicted that grain boundaries modulate the adsorption behavior of *CO on the Cu surface, which acts as a key intermediate species associated with the production of multicarbon species. We investigated the consequence of grain-boundary density on dendric Cu catalysts (GB-Cu) by combining transmission electron microscopy, in situ Raman spectroscopy, and X-ray photoelectron spectroscopy with electrochemical measurements. A linear relationship between the Faradaic efficiency of the C2+ product and the presence of undercoordinated sites was observed, which allowed to directly quantify the contribution of the grain boundary in Cu-based catalysts on the CO2RR properties and the formation of multicarbon products. Using a membrane electrode assembly electrolyzer, the high grain-boundary density Cu electrodes achieved a maximum Faradaic efficiency of 73.2% for C2+ product formation and a full-cell energy efficiency of 20.2% at a specific current density of 303.6 mA cm&#8211;2. The GB-Cu was implemented in a 25 cm2 MEA electrolyzer and demonstrated selectivity of over 62% for 70 h together with current retention of 88.4% at the applied potential of &#8722;3.80 V. The catalysts and electrolyzer were further coupled to an InGaP/GaAs/Ge triple-junction solar cell to demonstrate a solar-to-fuel (STF) conversion efficiency of 8.33%. This work designed an undercoordinated Cu-based catalyst for the realization of solar-driven fuel production.</description>
-      <author>Zhilin Yang, Kun Qi, Pengbo Lyu, Eddy Petit, Huali Wu, Wensen Wang, Jingyuan Ma, Ying Wang, Chrystelle Salameh, Damien Voiry</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.3c12662</guid>
-    </item>
-    <item>
       <title>Sustainability Activities in a Hard-to-Abate Industry&#8212;A Real-Life Example</title>
       <link>https://doi.org/10.3390/su16135532</link>
       <description>Ragnhild Drag&#248;y, Lena Burri, P&#229;l Skogrand, Thomas R&#248;kke, Viktor Ananiev, Stig Grafsr&#248;nningen, Sustainability. 16(13)] 2024. https://openalex.org/W4400119908
@@ -1300,9 +1280,19 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16135532</guid>
     </item>
     <item>
+      <title>Grain-Boundary Engineering Boosted Undercoordinated Active Sites for Scalable Conversion of CO&lt;sub&gt;2&lt;/sub&gt; to Ethylene</title>
+      <link>https://doi.org/10.1021/acsnano.3c12662</link>
+      <description>Zhilin Yang, Kun Qi, Pengbo Lyu, Eddy Petit, Huali Wu, Wensen Wang, Jingyuan Ma, Ying Wang, Chrystelle Salameh, Damien Voiry, ACS nano. None(None)] 2024. https://openalex.org/W4399949724
+
+                The development of highly selective and energy efficient technologies for electrochemical CO2 reduction combined with renewable energy sources holds great promise for advancing the field of sustainable chemistry. The engineering of copper-based electrodes facilitates the conversion of CO2 into high-value multicarbon products (C2+). However, the ambiguous determination of the intrinsic CO2 activity and the maximization of the density of exposed active sites have severely limited the use of Cu for the realization of practical electrocatalytic devices. Here, we report a scalable strategy to obtain a high density of undercoordinated sites by maximizing the exposure of grain-boundary active sites using a direct chronoamperometric pulse method. Our numerical investigations predicted that grain boundaries modulate the adsorption behavior of *CO on the Cu surface, which acts as a key intermediate species associated with the production of multicarbon species. We investigated the consequence of grain-boundary density on dendric Cu catalysts (GB-Cu) by combining transmission electron microscopy, in situ Raman spectroscopy, and X-ray photoelectron spectroscopy with electrochemical measurements. A linear relationship between the Faradaic efficiency of the C2+ product and the presence of undercoordinated sites was observed, which allowed to directly quantify the contribution of the grain boundary in Cu-based catalysts on the CO2RR properties and the formation of multicarbon products. Using a membrane electrode assembly electrolyzer, the high grain-boundary density Cu electrodes achieved a maximum Faradaic efficiency of 73.2% for C2+ product formation and a full-cell energy efficiency of 20.2% at a specific current density of 303.6 mA cm&#8211;2. The GB-Cu was implemented in a 25 cm2 MEA electrolyzer and demonstrated selectivity of over 62% for 70 h together with current retention of 88.4% at the applied potential of &#8722;3.80 V. The catalysts and electrolyzer were further coupled to an InGaP/GaAs/Ge triple-junction solar cell to demonstrate a solar-to-fuel (STF) conversion efficiency of 8.33%. This work designed an undercoordinated Cu-based catalyst for the realization of solar-driven fuel production.</description>
+      <author>Zhilin Yang, Kun Qi, Pengbo Lyu, Eddy Petit, Huali Wu, Wensen Wang, Jingyuan Ma, Ying Wang, Chrystelle Salameh, Damien Voiry</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.3c12662</guid>
+    </item>
+    <item>
       <title>The role of injection method on residual trapping: bridging scales from centimeter to decimeter samples</title>
       <link>https://doi.org/10.22541/au.171934228.84965928/v1</link>
-      <description>Catherine Spurin, Sharon Ellman, Tom Bultreys, Takeshi Kurotori, Sally M. Benson, Hamdi A. Tchelepi, No host. None(None)] 2024. https://openalex.org/W4399997434
+      <description>Catherine Spurin, Sharon Ellman, Tom Bultreys, Takeshi Kurotori, Sally M. Benson, Hamdi A. Tchelepi, Authorea (Authorea). None(None)] 2024. https://openalex.org/W4399997434
 
                 The injection of CO2 into subsurface reservoirs provides a long term solution for anthropogenic emissions. A variable injection rate (such as ramping the flow rate up or down) provides flexibility to injection sites, and could influence the amount of residual trapping. Observations made in cm-scale samples showed that starting at a low flow rate established a flow pathway across the core, leading to a long term reduction in pore space utilization, as increases in flux were accommodated with little change in saturation. In this work we assess the scalability of these observations by performing experiments with variable injection rates in larger samples: 5 cm diameter and 12 cm length, compared to 2.5 cm diameter and 4.5 cm length in our previous work (Spurin et al., 2024). We observed that starting at a low flow rate did not lead to a long term reduction in pore space utilization. Instead saturation increased significantly with increased flux, leading to a higher pore space utilization than experiments where injection started with the higher flow rate. The difference in observations depending on sample size and the role of heterogeneity highlights potential uncertainties in upscaling experimental observations to field-scale applications.</description>
       <author>Catherine Spurin, Sharon Ellman, Tom Bultreys, Takeshi Kurotori, Sally M. Benson, Hamdi A. Tchelepi</author>
@@ -1330,14 +1320,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/nano14131112</guid>
     </item>
     <item>
-      <title>Molecular principles of redox-coupled sodium pumping of the ancient Rnf machinery</title>
-      <link>https://doi.org/10.1101/2024.06.21.599731</link>
-      <description>Anuj Kumar, Jennifer Roth, Hyun Ho Kim, Patricia Saura, Stefan Bohn, Tristan Reif-Trauttmansdorff, Anja Schubert, Ville R. I. Kaila, Jan M. Schuller, Volkmar Mueller, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4399922283
+      <title>Effects of anaerobic oxidation of methane (AOM) driven by iron and manganese oxides on methane emissions in constructed wetlands and underlying mechanisms</title>
+      <link>https://doi.org/10.1016/j.cej.2024.153539</link>
+      <description>Ke Zhang, Ryan W. Gan, Yangxingyue Li, Wei Chen, Dandan Ma, Jia Chen, Huibo Luo, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400036233
 
-                The Rnf complex is the primary respiratory enzyme of several anaerobic prokaryotes that transfers electrons from ferredoxin to NAD+ and pumps sodium ions (Na+) across a membrane, powering ATP synthesis. Rnf is widespread in primordial organisms and the evolutionary predecessor of the Na+-pumping NADH-quinone oxidoreductase (Nqr)1. By running in reverse, Rnf reduces ferredoxin with NADH as reductant at the expense of the transmembrane electrochemical ion gradient and provides low potential electrons for nitrogenases as well as CO2 reductases. Yet, the molecular principles that couple the long-range electron transfer to the Na+ translocation across the membrane remain elusive. Here we resolve key functional states along the electron transfer pathway using redox-controlled cryo-electron microscopy (cryo-EM) that, in combination with biochemical functional assays and atomistic molecular simulations, provide key insight into the redox-driven Na+ pumping mechanism. We show that the reduction of the unique membrane-embedded [2Fe2S] cluster in the vestibule between the RnfA/E subunits electrostatically attracts the sodium ions, and in turn, triggers an inward/outward transition with alternating membrane access driving the Na+ pump and the reduction of NAD+. Our study unveils an ancient mechanism for redox-driven ion pumping, and provides key understanding of the fundamental principles governing energy conversion in biological systems.</description>
-      <author>Anuj Kumar, Jennifer Roth, Hyun Ho Kim, Patricia Saura, Stefan Bohn, Tristan Reif-Trauttmansdorff, Anja Schubert, Ville R. I. Kaila, Jan M. Schuller, Volkmar Mueller</author>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2024.06.21.599731</guid>
+                In recent years, anaerobic oxidation of methane with iron and manganese oxides as electron acceptors has been confirmed to exist in electrochemical constructed wetlands (CW), and this process is an important way to reduce methane emissions. However, the internal mechanisms of emission reduction, microbial ecological networks, and electron transfer mechanisms remain unclear. In this study, we found that AOM driven by iron and manganese oxides (Fe/Mn-AOM) reduced methane emissions by more than 50.86% in constructed wetland &#8211; microbial fuel cell (CW-MFC) systems. In iron and manganese systems, the relative abundance of microorganisms associated with methane metabolism (methanotrophic bacteria) increased significantly. AOM-related microorganisms cooperated with other microorganisms to form a robust and stable microbial ecological network. In the process of methane metabolism, there was an increase in the proportion of reverse methanogenic genes in iron and manganese systems, with the proportion of mcr genes being 1.75 and 1.79 times that of control systems. The key genes (cyc1 and cox11) that influence cytochrome C synthesis in AOM process were significantly enriched, resulting in enhanced electron transfer process. The coexistence of iron and manganese oxides enabled the simultaneous biochemical processes of CH4 oxidation and CO2 reduction within a single system. Additionally, the increase in humic acid also facilitated electron transfer, thereby significantly enhancing the removal efficiency of COD, TN, and TP in the CW-MFC systems. This study reveals the potential mechanism of Fe/Mn-AOM for CW-MFC methane emission reduction, which can provide a theoretical basis for the collaborative treatment of sewage and methane control in CWs, so as to achieve the maximum environmental benefits of CW.</description>
+      <author>Ke Zhang, Ryan W. Gan, Yangxingyue Li, Wei Chen, Dandan Ma, Jia Chen, Huibo Luo</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153539</guid>
     </item>
     <item>
       <title>Importance of Integrated Asset Modelling (IAM) in CCS Applications</title>
@@ -1350,14 +1340,14 @@
       <guid isPermaLink="true">https://doi.org/10.2118/219985-ms</guid>
     </item>
     <item>
-      <title>Effects of anaerobic oxidation of methane (AOM) driven by iron and manganese oxides on methane emissions in constructed wetlands and underlying mechanisms</title>
-      <link>https://doi.org/10.1016/j.cej.2024.153539</link>
-      <description>Ke Zhang, Ryan W. Gan, Yangxingyue Li, Wei Chen, Dandan Ma, Jia Chen, Huibo Luo, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400036233
+      <title>Economic and Ecological Benefits of SHM Techniques in Chemical Process Industry</title>
+      <link>https://doi.org/10.58286/29820</link>
+      <description>Corinna Hardes, Jochen Moll, Dirk Treppmann, Peter Kraemer, Lars Schubert, Joerg Weidenfeller, Klaus-Peter Kress, E-Journal of nondestructive testing. 29(7)] 2024. https://openalex.org/W4400147075
 
-                In recent years, anaerobic oxidation of methane with iron and manganese oxides as electron acceptors has been confirmed to exist in electrochemical constructed wetlands (CW), and this process is an important way to reduce methane emissions. However, the internal mechanisms of emission reduction, microbial ecological networks, and electron transfer mechanisms remain unclear. In this study, we found that AOM driven by iron and manganese oxides (Fe/Mn-AOM) reduced methane emissions by more than 50.86% in constructed wetland &#8211; microbial fuel cell (CW-MFC) systems. In iron and manganese systems, the relative abundance of microorganisms associated with methane metabolism (methanotrophic bacteria) increased significantly. AOM-related microorganisms cooperated with other microorganisms to form a robust and stable microbial ecological network. In the process of methane metabolism, there was an increase in the proportion of reverse methanogenic genes in iron and manganese systems, with the proportion of mcr genes being 1.75 and 1.79 times that of control systems. The key genes (cyc1 and cox11) that influence cytochrome C synthesis in AOM process were significantly enriched, resulting in enhanced electron transfer process. The coexistence of iron and manganese oxides enabled the simultaneous biochemical processes of CH4 oxidation and CO2 reduction within a single system. Additionally, the increase in humic acid also facilitated electron transfer, thereby significantly enhancing the removal efficiency of COD, TN, and TP in the CW-MFC systems. This study reveals the potential mechanism of Fe/Mn-AOM for CW-MFC methane emission reduction, which can provide a theoretical basis for the collaborative treatment of sewage and methane control in CWs, so as to achieve the maximum environmental benefits of CW.</description>
-      <author>Ke Zhang, Ryan W. Gan, Yangxingyue Li, Wei Chen, Dandan Ma, Jia Chen, Huibo Luo</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153539</guid>
+                High-performance machine components are involved in a wide range of industrial production processes. They play an important role in the provision of chemical products, pharmaceuticals, and energy resources. They require monitoring because they can fail during production due to corrosion and/or wear, which often means an increased risk to people and the environment. Periodic inspections with on-site test personnel often require a shutdown of the chemical plant. Ideally, an ultrasonic structural health monitoring (SHM) system could be used to provide continuous data on the structural integrity of these components while reducing or eliminating plant downtime. A plant shutdown is not only a high economic or supply risk but can also be energy intensive. In our presentation, we would like to give an overview of the technical requirements for an SHM system to be used in the chemical industry. Finally, the presentation will highlight the economic benefits of SHM as well as its contribution to energy savings and reduction of CO2 emissions per ton of chemical product produced.</description>
+      <author>Corinna Hardes, Jochen Moll, Dirk Treppmann, Peter Kraemer, Lars Schubert, Joerg Weidenfeller, Klaus-Peter Kress</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.58286/29820</guid>
     </item>
     <item>
       <title>Operando electrochemical NMR spectroscopy reveals a water-assisted formate formation mechanism</title>
@@ -1368,16 +1358,6 @@
       <author>Bin Xu, Ying Liu, Yuanwei Liu, Xiaomeng You, Hang Zhou, Yi Xu, Peng Liu, Hai Feng Wang, Hua Gui Yang, Xue Lu Wang, Yan Yao</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.chempr.2024.06.001</guid>
-    </item>
-    <item>
-      <title>Centrifugal pump performance improvement using back cavity filling</title>
-      <link>https://doi.org/10.1063/5.0215856</link>
-      <description>Satish Dokiparti, Ashish Doshi, Mukund Bade, Physics of fluids. 36(6)] 2024. https://openalex.org/W4399976789
-
-                Centrifugal pumps consume majority of energy used by the electric motor driven systems among all end users of the industrial sector. Only in European region, a 1% improvement in efficiency (&#951;) of the centrifugal pump is capable enough to reduce CO2 emissions by at least 572 tons per day. The prime motive of this research is to assess the applicability of the novel back cavity filling (BCF) in reducing the disk friction losses of centrifugal pumps without changing the pump's original design. By adding a solid ring to the bearing housing's back-cover plate, the BCF was applied to a medium specific speed pump (Ns = 54 rpm), resulting in a 1 mm back axial clearance from 13 mm. Numerical simulations and experiments were carried out to investigate the effect of BCF on pump performance under two conditions: with and without BCF at best efficient point (BEP) and various partload conditions for 1450 rpm (rated) as well as 1000 rpm. Pump performance characteristics were enhanced by BCF at both rpms for the whole flow rate range. At 1450 rpm, BCF resulted in an average 0.74% increment in total head, 2.08% reduction in input torque, and 2.70% increment in overall efficiency over the flow rate range. While an average 2.04% improvement in total head, 1.33% reduction in input torque, a 3.30% enhancement in overall efficiency were obtained at 1000 rpm. Performance parameter enhancement was higher at lowest part load compared to the BEP on rated rpm.</description>
-      <author>Satish Dokiparti, Ashish Doshi, Mukund Bade</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0215856</guid>
     </item>
     <item>
       <title>Tuning Br&#248;nsted Acidity by up to 12 pKa Units in a Redox-Active Nanopore Lined with Multifunctional Metal Sites</title>
@@ -1398,6 +1378,16 @@
       <author>Taro J. Jones, Kaitlyn G. Dutton, Harender S. Dhattarwal, P. Thomas Blackburn, Richard C. Remsing, Mark C. Lipke</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-4w50c-v2</guid>
+    </item>
+    <item>
+      <title>Centrifugal pump performance improvement using back cavity filling</title>
+      <link>https://doi.org/10.1063/5.0215856</link>
+      <description>Satish Dokiparti, Ashish Doshi, Mukund Bade, Physics of fluids. 36(6)] 2024. https://openalex.org/W4399976789
+
+                Centrifugal pumps consume majority of energy used by the electric motor driven systems among all end users of the industrial sector. Only in European region, a 1% improvement in efficiency (&#951;) of the centrifugal pump is capable enough to reduce CO2 emissions by at least 572 tons per day. The prime motive of this research is to assess the applicability of the novel back cavity filling (BCF) in reducing the disk friction losses of centrifugal pumps without changing the pump's original design. By adding a solid ring to the bearing housing's back-cover plate, the BCF was applied to a medium specific speed pump (Ns = 54 rpm), resulting in a 1 mm back axial clearance from 13 mm. Numerical simulations and experiments were carried out to investigate the effect of BCF on pump performance under two conditions: with and without BCF at best efficient point (BEP) and various partload conditions for 1450 rpm (rated) as well as 1000 rpm. Pump performance characteristics were enhanced by BCF at both rpms for the whole flow rate range. At 1450 rpm, BCF resulted in an average 0.74% increment in total head, 2.08% reduction in input torque, and 2.70% increment in overall efficiency over the flow rate range. While an average 2.04% improvement in total head, 1.33% reduction in input torque, a 3.30% enhancement in overall efficiency were obtained at 1000 rpm. Performance parameter enhancement was higher at lowest part load compared to the BEP on rated rpm.</description>
+      <author>Satish Dokiparti, Ashish Doshi, Mukund Bade</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0215856</guid>
     </item>
     <item>
       <title>BT04 Exploring sustainability: the shift to digital patient information leaflets in dermatology</title>
@@ -1431,6 +1421,16 @@
     </item>
     <item>
       <title>Highly Efficient Nitrogen Reduction to Ammonia through the Cooperation of Plasma and Porous Metal&#8208;Organic Framework Reactors with Confined Water</title>
+      <link>https://doi.org/10.1002/ange.202409698</link>
+      <description>Shu Guo, Guifeng Li, Guilan Fan, Ao Shen, Xiaosong Wang, Yan Guo, Junfang Ding, Chenhui Han, Xiaojun Gu, Limin Wu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400051798
+
+                While the ambient N2 reduction to ammonia (NH3) using H2O as hydrogen source (2N2+6H2O=4NH3+3O2) is known as a promising alternative to the Haber&#8208;Bosch process, the high bond energy of N&#8801;N bond leads to the extremely low NH3 yield. Herein, we report a highly efficient catalytic system for ammonia synthesis using the low&#8208;temperature dielectric barrier discharge plasma to activate inert N2 molecules into the activated nitrogen species, which can efficiently react with the confined and concentrated H2O molecules in porous metal&#8208;organic framework (MOF) reactors with V3+, Cr3+, Mn3+, Fe3+, Co2+, Ni2+ and Cu2+ ions. Specially, the Fe&#8208;based catalyst MIL&#8208;100(Fe) causes a superhigh NH3 yield of 22.4 mmol g&#8208;1 h&#8208;1. The investigation of catalytic performance and systematic characterizations of MIL&#8208;100(Fe) during the plasma&#8208;driven catalytic reaction unveils that the in situ generated defective Fe&#8208;O clusters are the highly active sites and NH3 molecules indeed form inside the MIL&#8208;100(Fe) reactor. The theoretical calculation reveals that the porous MOF catalysts have different adsorption capacity for nitrogen species on different catalytic metal sites, where the optimal MIL&#8208;100(Fe) has the lowest energy barrier for the rate&#8208;limiting *NNH formation step, significantly enhancing efficiency of nitrogen fixation.</description>
+      <author>Shu Guo, Guifeng Li, Guilan Fan, Ao Shen, Xiaosong Wang, Yan Guo, Junfang Ding, Chenhui Han, Xiaojun Gu, Limin Wu</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409698</guid>
+    </item>
+    <item>
+      <title>Highly Efficient Nitrogen Reduction to Ammonia through the Cooperation of Plasma and Porous Metal&#8208;Organic Framework Reactors with Confined Water</title>
       <link>https://doi.org/10.1002/anie.202409698</link>
       <description>Shu Guo, Guifeng Li, Guilan Fan, Ao Shen, Xiaosong Wang, Yan Guo, Junfang Ding, Chenhui Han, Xiaojun Gu, Limin Wu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400051689
 
@@ -1448,16 +1448,6 @@
       <author>Pengfei Zhu, Yan Wang, Hengyu Wang</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1080/01490451.2024.2367527</guid>
-    </item>
-    <item>
-      <title>Highly Efficient Nitrogen Reduction to Ammonia through the Cooperation of Plasma and Porous Metal&#8208;Organic Framework Reactors with Confined Water</title>
-      <link>https://doi.org/10.1002/ange.202409698</link>
-      <description>Shu Guo, Guifeng Li, Guilan Fan, Ao Shen, Xiaosong Wang, Yan Guo, Junfang Ding, Chenhui Han, Xiaojun Gu, Limin Wu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400051798
-
-                While the ambient N2 reduction to ammonia (NH3) using H2O as hydrogen source (2N2+6H2O=4NH3+3O2) is known as a promising alternative to the Haber&#8208;Bosch process, the high bond energy of N&#8801;N bond leads to the extremely low NH3 yield. Herein, we report a highly efficient catalytic system for ammonia synthesis using the low&#8208;temperature dielectric barrier discharge plasma to activate inert N2 molecules into the activated nitrogen species, which can efficiently react with the confined and concentrated H2O molecules in porous metal&#8208;organic framework (MOF) reactors with V3+, Cr3+, Mn3+, Fe3+, Co2+, Ni2+ and Cu2+ ions. Specially, the Fe&#8208;based catalyst MIL&#8208;100(Fe) causes a superhigh NH3 yield of 22.4 mmol g&#8208;1 h&#8208;1. The investigation of catalytic performance and systematic characterizations of MIL&#8208;100(Fe) during the plasma&#8208;driven catalytic reaction unveils that the in situ generated defective Fe&#8208;O clusters are the highly active sites and NH3 molecules indeed form inside the MIL&#8208;100(Fe) reactor. The theoretical calculation reveals that the porous MOF catalysts have different adsorption capacity for nitrogen species on different catalytic metal sites, where the optimal MIL&#8208;100(Fe) has the lowest energy barrier for the rate&#8208;limiting *NNH formation step, significantly enhancing efficiency of nitrogen fixation.</description>
-      <author>Shu Guo, Guifeng Li, Guilan Fan, Ao Shen, Xiaosong Wang, Yan Guo, Junfang Ding, Chenhui Han, Xiaojun Gu, Limin Wu</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409698</guid>
     </item>
     <item>
       <title>Closing the Fibre Gap&#8212;The Impact of Combination of Soluble and Insoluble Dietary Fibre on Bread Quality and Health Benefits</title>
@@ -1480,16 +1470,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c06257</guid>
     </item>
     <item>
-      <title>Improving High Light Tolerance of Tobacco Plants: Adequate Magnesium Supply Enhances Photosynthetic Performance</title>
-      <link>https://doi.org/10.3390/agronomy14071396</link>
-      <description>Rui Hua Xie, Jing Gao, Zhongmin Yang, Yuemin Wang, L. Tong, Yuqin Ke, Chunjian Li, Chaoyuan Zheng, Wenqing Li, Agronomy. 14(7)] 2024. https://openalex.org/W4400080886
-
-                High light (HL) significantly impacts plant photosynthesis. This study investigated the effects of different magnesium (Mg) levels (0, 1, 2, and 5 mol Mg plant&#8315;1; HMg0, HMg1, HMg2, and HMg5) on tobacco (Nicotiana tabacum L. cv. Cuibi No. 1) under HL (1500 &#956;mol m&#8315;2 s&#8315;1), aiming to understand the role of Mg in mitigating the impact of HL on photosynthesis and carbon&#8211;nitrogen metabolism. Plants treated with 1 mol Mg plant&#8315;1 under 750 &#956;mol m&#8315;2 s&#8315;1 light conditions served as the control. HL led to a reduced chlorophyll (Chl) content and inhibited the maximum photosynthetic rate (Pmax). It also decreased energy involved in photosynthetic electron transfer (ET) and electron flux to reduction end-electron acceptors at the photosystems I (PSI) acceptor side (RE) and caused photosynthetic system damage. H2O2 accumulation exacerbated membrane lipid peroxidation damage, disrupting carbon and nitrogen metabolism, and inducing antioxidant enzyme activity. HMg2 increased Chl content, stomatal conductance, intercellular CO2 concentration, and the net photosynthetic rate compared to HMg0. It enhanced ET efficiency, PSI and PSII functionality, reduced dissipated energy flux (DI), and minimized photosynthesis damage. Conversely, excessive Mg application (HMg5) decreased Pmax and PSII activity, increasing DI. Adequate Mg supply alleviated HL&#8217;s detrimental effects by enhancing Chl content and ET and RE efficiency.</description>
-      <author>Rui Hua Xie, Jing Gao, Zhongmin Yang, Yuemin Wang, L. Tong, Yuqin Ke, Chunjian Li, Chaoyuan Zheng, Wenqing Li</author>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/agronomy14071396</guid>
-    </item>
-    <item>
       <title>Enhancing Energy Supply Reliability for University Lecture Halls Using Photovoltaic-Battery Microgrids: A South African Case Study</title>
       <link>https://doi.org/10.3390/en17133109</link>
       <description>Obu Samson Showers, S. Chowdhury, Energies. 17(13)] 2024. https://openalex.org/W4399974498
@@ -1498,16 +1478,6 @@
       <author>Obu Samson Showers, S. Chowdhury</author>
       <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/en17133109</guid>
-    </item>
-    <item>
-      <title>Characteristics and Mechanism of the Ore-Forming Fluids in the Shimensi Tungsten Polymetallic Deposit in Southeastern China</title>
-      <link>https://doi.org/10.3390/min14070640</link>
-      <description>Peng Wang, Zhanghuang Ye, Xiangping Zong, Minerals. 14(7)] 2024. https://openalex.org/W4399971570
-
-                The Shimensi super-large tungsten polymetallic deposit is located in the Late Jurassic&#8211;Early Cretaceous Porphyry&#8211;Skarn tungsten ore belt in the south Yangtze metallogenic belt. There are three types of mineralization: veinlet-disseminated type, thick quartz vein type and hydrothermal cryptoexplosive breccia type. Based on geological studies, this paper presents new petrographic, microthermometric, laser Raman spectroscopic and hydrogen and oxygen isotope research on the fluid inclusions from the deposit. The results show that there are five different types of fluid inclusions: liquid-rich inclusions, vapor-rich inclusions, pure liquid inclusions, pure vapor inclusions, and fluid inclusions containing a solid crystal. The homogenization temperatures of the fluid inclusion range from 140 &#176;C to 270 &#176;C, the salinities are 3 wt.%&#8211;5 wt.% NaCleq and the densities of ore-forming fluid range from 0.64 g/cm3 to 0.99 g/cm3. For the analyses of laser Raman spectroscopy, the ore-forming fluids can be approximated by a Ca2+-Na+-SO42&#8722;-Cl&#8722; fluid system with small amounts of CO2, CH4 and N2. Otherwise, the data of the pressure, pH and Eh show a fluid metallogenic environment of low pressure, weak acid and weak reduction. The values of the homogenization temperature in the three types of orebodies suggest that the mineralization is characterized by a decrease in temperature under the conditions of fluid immiscibility. The H-O isotope values are interpreted to indicate that the ore-forming fluids are mainly composed of magmatic water, and meteoric water is added with the process of magma rising.</description>
-      <author>Peng Wang, Zhanghuang Ye, Xiangping Zong</author>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/min14070640</guid>
     </item>
     <item>
       <title>Purification and characterization of glutaminase and urease-free L-asparaginase from Bacillus atrophaeus with acrylamide reduction potential</title>
@@ -1530,16 +1500,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01457</guid>
     </item>
     <item>
-      <title>Nutrient requirements determined by grain yield and protein content to optimize N, P, and K fertilizer management in China</title>
-      <link>https://doi.org/10.1016/j.scitotenv.2024.174187</link>
-      <description>Zhang Xue-mei, Zhiling Guo, Jian Xu, Cui Huang, Haiyan Dang, Wenyan Mu, Lulu Zhang, Saibin Hou, Ning Huang, Chao Li, Yulong Ding, Ruixia Sun, Xiaohan Li, Gang He, Jinshan Liu, Kadambot H.M. Siddique, Zhaohui Wang, Science of the total environment. None(None)] 2024. https://openalex.org/W4400012985
-
-                Nutrient requirement for crop growth, defined as the amount of nutrient that crops take up from soil to produce a specific grain yield, is a key parameter in determining fertilizer application rate. However, existing studies primarily focus on identifying nitrogen (N), phosphorus (P), and potassium (K) requirements solely in relation to grain yield, neglecting grain protein content, a crucial index for wheat grain quality. Addressing this gap, we conducted multi-site, multi-cultivar, and multi-year field trials across three ecological regions of China from 2016 to 2020 to elucidate variations in nutrient requirements for grain yield and grain protein. The research findings revealed that wheat grain yield ranged from 4.1 to 9.3 Mg ha&#8722;1 (average 6.9 Mg ha&#8722;1) and grain protein content ranged from 98 to 157 g kg&#8722;1 (average 127 g kg&#8722;1) across the three regions. Notably, the N requirement exhibited a nonlinear correlation with the wheat grain yield but a linear increase with increasing grain protein, while the P and K requirements positively correlated with grain yield and protein content. Regression models were formulated to determine the nutrient requirements (MENR), enabling the prediction of N, P, and K requirements for leading cultivars with varying grain yields and protein contents. Implementing nutrient requirements based on MENR projections resulted in substantial reductions in fertilizer rates: 22.0 kg ha&#8722;1 N (10.7 %), 9.9 kg ha&#8722;1 P (20.2 %), and 8.1 kg ha&#8722;1 K (16.3 %). This translated to potential savings of 0.4 Mt. N, 0.23 Mt. P, and 0.17 Mt. K, consequently mitigating 5.5 Mt. CO2 greenhouse-gas emission and yielding an economic benefit of 0.8 billion US$ annually in China. These findings underscore the significance of considering grain yield and protein content in estimating nutrient requirements for fertilizer recommendations to realize high-yielding, high-protein wheat production, and minimize overfertilization and associated environmental risks.</description>
-      <author>Zhang Xue-mei, Zhiling Guo, Jian Xu, Cui Huang, Haiyan Dang, Wenyan Mu, Lulu Zhang, Saibin Hou, Ning Huang, Chao Li, Yulong Ding, Ruixia Sun, Xiaohan Li, Gang He, Jinshan Liu, Kadambot H.M. Siddique, Zhaohui Wang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.scitotenv.2024.174187</guid>
-    </item>
-    <item>
       <title>Leading the Energy Transition: A Novel Approach to Existing Gas Pipelines Retrofitting for Hydrogen Transport</title>
       <link>https://doi.org/10.2118/220011-ms</link>
       <description>Alessandro Terenzi, C. Iacozza, Carlo Riccardo Rossi, Daniele Scarsciafratte, Giorgio Arcangeletti, Elvira Aloigi, No host. None(None)] 2024. https://openalex.org/W4400058832
@@ -1548,6 +1508,16 @@
       <author>Alessandro Terenzi, C. Iacozza, Carlo Riccardo Rossi, Daniele Scarsciafratte, Giorgio Arcangeletti, Elvira Aloigi</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2118/220011-ms</guid>
+    </item>
+    <item>
+      <title>Nutrient requirements determined by grain yield and protein content to optimize N, P, and K fertilizer management in China</title>
+      <link>https://doi.org/10.1016/j.scitotenv.2024.174187</link>
+      <description>Zhang Xue-mei, Zhiling Guo, Jian Xu, Cui Huang, Haiyan Dang, Wenyan Mu, Lulu Zhang, Saibin Hou, Ning Huang, Chao Li, Yijun Ding, Ruixia Sun, Xiaohan Li, Gang He, Jinshan Liu, Kadambot H.M. Siddique, Zhaohui Wang, Science of the total environment. None(None)] 2024. https://openalex.org/W4400012985
+
+                Nutrient requirement for crop growth, defined as the amount of nutrient that crops take up from soil to produce a specific grain yield, is a key parameter in determining fertilizer application rate. However, existing studies primarily focus on identifying nitrogen (N), phosphorus (P), and potassium (K) requirements solely in relation to grain yield, neglecting grain protein content, a crucial index for wheat grain quality. Addressing this gap, we conducted multi-site, multi-cultivar, and multi-year field trials across three ecological regions of China from 2016 to 2020 to elucidate variations in nutrient requirements for grain yield and grain protein. The research findings revealed that wheat grain yield ranged from 4.1 to 9.3 Mg ha&#8722;1 (average 6.9 Mg ha&#8722;1) and grain protein content ranged from 98 to 157 g kg&#8722;1 (average 127 g kg&#8722;1) across the three regions. Notably, the N requirement exhibited a nonlinear correlation with the wheat grain yield but a linear increase with increasing grain protein, while the P and K requirements positively correlated with grain yield and protein content. Regression models were formulated to determine the nutrient requirements (MENR), enabling the prediction of N, P, and K requirements for leading cultivars with varying grain yields and protein contents. Implementing nutrient requirements based on MENR projections resulted in substantial reductions in fertilizer rates: 22.0 kg ha&#8722;1 N (10.7 %), 9.9 kg ha&#8722;1 P (20.2 %), and 8.1 kg ha&#8722;1 K (16.3 %). This translated to potential savings of 0.4 Mt. N, 0.23 Mt. P, and 0.17 Mt. K, consequently mitigating 5.5 Mt. CO2 greenhouse-gas emission and yielding an economic benefit of 0.8 billion US$ annually in China. These findings underscore the significance of considering grain yield and protein content in estimating nutrient requirements for fertilizer recommendations to realize high-yielding, high-protein wheat production, and minimize overfertilization and associated environmental risks.</description>
+      <author>Zhang Xue-mei, Zhiling Guo, Jian Xu, Cui Huang, Haiyan Dang, Wenyan Mu, Lulu Zhang, Saibin Hou, Ning Huang, Chao Li, Yijun Ding, Ruixia Sun, Xiaohan Li, Gang He, Jinshan Liu, Kadambot H.M. Siddique, Zhaohui Wang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.scitotenv.2024.174187</guid>
     </item>
     <item>
       <title>Revealing the significant acceleration of hydrofluorocarbon (HFC) emissions in eastern Asia through long-term atmospheric observations</title>
@@ -1568,16 +1538,6 @@
       <author>T. Kneiske</author>
       <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/electronics13132545</guid>
-    </item>
-    <item>
-      <title>Probabilistic Techno-Economic Assessment of Medium-Scale Photoelectrochemical Fuel Generation Plants</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c00936</link>
-      <description>Alexandre Cattry, Hannah Johnson, Despoina Chatzikiriakou, Sophia Haussener, Energy &amp; fuels. None(None)] 2024. https://openalex.org/W4399916752
-
-                Photoelectrochemical (PEC) systems are promising approaches for sustainable fuel processing. PEC devices, like conventional photovoltaic-electrolyzer (PV-EC) systems, utilize solar energy for splitting water into hydrogen and oxygen. Contrary to PV-EC systems, PEC devices integrate the photoabsorber, the ionic membrane, and the catalysts into a single reactor. This integration of elements potentially makes PEC systems simpler in design, increases efficiency, offers a cost advantage, and allows for implementation with higher flexibility in use. We present a detailed techno-economic evaluation of PEC systems with three different device designs. We combine a system-level techno-economic analysis based on physical performance models (including degradation) with stochastic methods for uncertainty assessments, also considering the use of PV and EC learning curves for future cost scenarios. For hydrogen, we assess different PEC device design options (utilizing liquid or water vapor as reactant) and compare them to conventional PV-EC systems (anion or cation exchange). We show that in the current scenario, PEC systems (with a levelized cost of hydrogen of 6.32 $/kgH2) located in southern Spain are not yet competitive, operating at 64% higher costs than the PV-driven anion exchange EC systems. Our analysis indicates that PEC plants' material and size are the most significant factors affecting hydrogen costs. PEC designs operating with water vapor are the most economical designs, with the potential to cost about 10% less than PV-EC systems and to reach a 2 $/kgH2 target by 2040. If a sunlight concentrator is incorporated, the PEC-produced hydrogen cost is significantly lower (3.59 $/kgH2 in the current scenario). Versions of the concentrated PEC system that incorporate reversible operation and CO2 reduction indicate a levelized cost of storage of 0.2803 $/kWh for the former and a levelized cost of CO of 0.546 $/kgCO for the latter. These findings demonstrate the competitiveness and viability of (concentrated) PEC systems and their versatile use cases. Our study shows the potential of PEC devices and systems for hydrogen production (current and future potential), storage applications, and CO production, thereby highlighting the importance of sustainable and cost-effective design considerations for future advancements in technology development in this field.</description>
-      <author>Alexandre Cattry, Hannah Johnson, Despoina Chatzikiriakou, Sophia Haussener</author>
-      <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c00936</guid>
     </item>
     <item>
       <title>A Comprehensive Investigation of Methanol Electrooxidation on Copper Anodes: Spectroelectrochemical Insights and Energy Conversion in Microfluidic Fuel Cells</title>

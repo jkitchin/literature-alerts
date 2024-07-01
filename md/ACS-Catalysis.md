@@ -1,39 +1,17 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jun 30 01:14:37 2024
+Created on Mon Jul  1 01:16:49 2024
 
-Found 32 results from 2024-06-23 to 2024-06-30
+Found 30 results from 2024-06-24 to 2024-07-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Asymmetric Oxygen Vacancy-Promoted Synthesis of Aminoarenes from Nitroarenes Using Waste H2S as a “Hydrogen Donor”   
-
-OpenAlex: https://openalex.org/W4399916695    
-Open access: False
-    
-[Xiaohai Zheng](https://openalex.org/A5085266092), [Bang Li](https://openalex.org/A5084615025), [Rui Huang](https://openalex.org/A5003637819), [Weiping Jiang](https://openalex.org/A5019208828), [Lijuan Shen](https://openalex.org/A5040990019), [Ganchang Lei](https://openalex.org/A5053199253), [Shiping Wang](https://openalex.org/A5014506962), [Shiping Wang](https://openalex.org/A5076466524), [Lilong Jiang](https://openalex.org/A5053219554), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02478.
-    
-The conversion of H2S to high-value-added products is appealing for alleviating environmental pollution and realizing resource utilization. Herein, we report the reduction of nitrobenzene to aniline using waste H2S as a "hydrogen donor" over the catalyst of FeCeO2−δ with abundant oxygen vacancies (Ov), especially an asymmetric oxygen vacancy (ASOv). The electron-rich nature of the ASOv sites facilitates electron transfer to the electron-deficient nitro group, promoting the adsorption and activation of Ph–NO2 through the elongation and cleavage of the N–O bond. Benefiting from the formation of abundant ASOv sites, the resulting FeCeO2−δ achieves an impressive 85.6% Ph–NO2 conversion and 81.9% Ph–NH2 selectivity at 1.5 MPa and 90 °C, which surpasses that of pure CeO2 with flower and rod morphologies. In situ FT-IR measurements combined with density functional theory calculations have elucidated a plausible reaction mechanism and a rate-limiting step in the hydrogenation of Ph–NO2 by H2S.    
-
-    
-
-## The Conundrum of “Pair Sites” in Langmuir–Hinshelwood Reaction Kinetics in Heterogeneous Catalysis   
-
-OpenAlex: https://openalex.org/W4399916760    
-Open access: True
-    
-[Daniyal Kiani](https://openalex.org/A5028323119), [Israel E. Wachs](https://openalex.org/A5066491588), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02813 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02813)).
-    
-No abstract    
-
-    
 
 ## Selective Hydrogenation of Quinizarins to Leuco-quinizarins and Their Direct Derivatization Using Flow-Batch-Separator Unified Reactors under Continuous-Flow Conditions   
 
 OpenAlex: https://openalex.org/W4399933284    
 Open access: True
     
-[Hiroyuki Miyamura](https://openalex.org/A5088285820), [Aditya Sharma](https://openalex.org/A5082440766), [Masasuke Takata](https://openalex.org/A5000298674), [Rokuro Kajiyama](https://openalex.org/A5041947507), [Shū Kobayashi](https://openalex.org/A5049553063), [Yoshihiro Kon](https://openalex.org/A5066414781), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02955 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02955)).
+[Hiroyuki Miyamura](https://openalex.org/A5088285820), [Aditya Sharma](https://openalex.org/A5082440766), [Masasuke Takata](https://openalex.org/A5000298674), [Rokuro Kajiyama](https://openalex.org/A5041947507), [Shu̅ Kobayashi](https://openalex.org/A5049553063), [Yoshihiro Kon](https://openalex.org/A5066414781), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02955 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02955)).
     
 Anthraquinone derivatives are classes of compounds employed in the production of valuable materials. Leuco-quinizarin, the 2-electron-reduced form of quinizarin (1,4-dihydroxy-anthraquinone), is a highly active and useful reactant for the synthesis of variety of anthraquinone derivatives. However, conventional methods of leuco-quinizarin synthesis require stoichiometric amounts of inorganic reductants and acids or bases. We developed Pt/DMPSi-Al2O3 and Pt-Ni/DMPSi-Al2O3 as highly active and selective heterogeneous catalysts for the hydrogenation of quinizarins to leuco-quinizarins under neutral and continuous-flow conditions. Remarkably, bimetallic effects of Ni and Pt nanoparticle systems were highlighted in the selective hydrogenation of the substituted quinizarin. In addition, the continuous-flow synthesis of leuco-quinizarin and its derivatization reaction were integrated to be a fully continuous process using flow-batch-separator unified reactors.    
 

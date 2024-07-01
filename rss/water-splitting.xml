@@ -4,46 +4,16 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Jun 2024 01:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 01:16:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>A photocatalytic redox cycle over a polyimide catalyst drives efficient solar-to-H2O2 conversion</title>
-      <link>https://doi.org/10.1038/s41467-024-49663-6</link>
-      <description>Wenwen Chi, Yuming Dong, Bing Liu, Chengsi Pan, Jia&#8208;Wei Zhang, Hui Zhao, Yongfa Zhu, Zeyu Liu, Nature communications. 15(1)] 2024. https://openalex.org/W4399919213
-
-                Abstract Circumventing the conventional two-electron oxygen reduction pathway remains a great problem in enhancing the efficiency of H 2 O 2 photosynthesis. A promising approach to achieve outstanding photocatalytic activity involves the utilization of redox intermediates. Here, we engineer a polyimide aerogel photocatalyst with photoreductive carbonyl groups for non-sacrificial H 2 O 2 production. Under photoexcitation, carbonyl groups on the photocatalyst surface are reduced, forming an anion radical intermediate. The produced intermediate is oxidized by O 2 to produce H 2 O 2 and subsequently restores the carbonyl group. The high catalytic efficiency is ascribed to a photocatalytic redox cycle mediated by the radical anion, which not only promotes oxygen adsorption but also lowers the energy barrier of O 2 reduction reaction for H 2 O 2 generation. An apparent quantum yield of 14.28% at 420 &#177; 10 nm with a solar-to-chemical conversion efficiency of 0.92% is achieved. Moreover, we demonstrate that a mere 0.5 m 2 self-supported polyimide aerogel exposed to natural sunlight for 6 h yields significant H 2 O 2 production of 34.3 mmol m &#8722;2 .</description>
-      <author>Wenwen Chi, Yuming Dong, Bing Liu, Chengsi Pan, Jia&#8208;Wei Zhang, Hui Zhao, Yongfa Zhu, Zeyu Liu</author>
-      <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-49663-6</guid>
-    </item>
-    <item>
-      <title>Advances in Noble Metal Electrocatalysts for Acidic Oxygen Evolution Reaction: Construction of Under&#8208;Coordinated Active Sites</title>
-      <link>https://doi.org/10.1002/advs.202401652</link>
-      <description>Huimin Wang, Zhenhua Yan, Peng Cheng, Jun Chen, Advanced science. None(None)] 2024. https://openalex.org/W4399921345
-
-                Abstract Renewable energy&#8208;driven proton exchange membrane water electrolyzer (PEMWE) attracts widespread attention as a zero&#8208;emission and sustainable technology. Oxygen evolution reaction (OER) catalysts with sluggish OER kinetics and rapid deactivation are major obstacles to the widespread commercialization of PEMWE. To date, although various advanced electrocatalysts have been reported to enhance acidic OER performance, Ru/Ir&#8208;based nanomaterials remain the most promising catalysts for PEMWE applications. Therefore, there is an urgent need to develop efficient, stable, and cost&#8208;effective Ru/Ir catalysts. Since the structure&#8208;performance relationship is one of the most important tools for studying the reaction mechanism and constructing the optimal catalytic system. In this review, the recent research progress from the construction of unsaturated sites to gain a deeper understanding of the reaction and deactivation mechanism of catalysts is summarized. First, a general understanding of OER reaction mechanism, catalyst dissolution mechanism, and active site structure is provided. Then, advances in the design and synthesis of advanced acidic OER catalysts are reviewed in terms of the classification of unsaturated active site design, i.e., alloy, core&#8208;shell, single&#8208;atom, and framework structures. Finally, challenges and perspectives are presented for the future development of OER catalysts and renewable energy technologies for hydrogen production.</description>
-      <author>Huimin Wang, Zhenhua Yan, Peng Cheng, Jun Chen</author>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202401652</guid>
-    </item>
-    <item>
-      <title>Bifunctional two-dimensional metal organic frameworks for oxygen reaction and water splitting</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.109897</link>
-      <description>Kayode Adesina Adegoke, Oluwasayo E. Ogunjinmi, Oyeladun Rhoda Adegoke, Olugbenga Solomon Bello, Nano energy. None(None)] 2024. https://openalex.org/W4399914101
-
-                No abstract</description>
-      <author>Kayode Adesina Adegoke, Oluwasayo E. Ogunjinmi, Oyeladun Rhoda Adegoke, Olugbenga Solomon Bello</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109897</guid>
-    </item>
-    <item>
       <title>Synergistic effect to unlock the activity and stability for oxygen evolution reaction in spinel LiMn2O4 via d-block metal substitution</title>
       <link>https://doi.org/10.1016/j.apcatb.2024.124331</link>
-      <description>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicol&#225;s Alonso-Vante, Lijun Sui, Yu Xie, Jian&#8208;Chun Ma, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4399956855
+      <description>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicolas Alonso&#8208;Vante, Lijun Sui, Yu Xie, Jian&#8208;Chun Ma, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4399956855
 
                 An effective strategy using d-block metal hybridization was proposed to induce electronic interaction and promote the synergistic effect, aiming to enhance the OER performance of cost-effective spinel LiMn2O4. Indeed, we deploy a series of LiNixMn2-xO4 catalysts substituted with Ni, yielding the increase of Mn valence states from Mn3.5+ to Mn4+. The LiNi0.5Mn1.5O4 catalyst achieved an excellent OER performance in alkaline media, with an overpotential reduction more than 320 mV at 10 mA cm-2 compared to the unsubstituted LiMn2O4, as well as the electrochemical stability. It was shown to be superior to most reported Mn-based oxide OER electrocatalysts. Theoretical calculations demonstrated that Ni dopes holes in the Mn site, leading to an increase in Mn4+, and that the shared covalent network of Ni 3d-O 2p-Mn 3d optimized an easier desorption of intermediates. These results pave a new example for modulating the chemisorption strength, thus enabling activating the activity and stability of the OER process for cost-effective electrocatalysts based on spinel Mn oxides.</description>
-      <author>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicol&#225;s Alonso-Vante, Lijun Sui, Yu Xie, Jian&#8208;Chun Ma</author>
+      <author>J Li, Linlin Liu, Jianghua Wu, Zhiwei Hu, Yi&#8208;Ying Chin, Hong-Ji Lin, Chien-Te Chen, Xiaoqing Pan, Yu Deng, Nicolas Alonso&#8208;Vante, Lijun Sui, Yu Xie, Jian&#8208;Chun Ma</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124331</guid>
     </item>
@@ -628,14 +598,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.110184</guid>
     </item>
     <item>
-      <title>Strong Electronic Interaction in High-Entropy Oxide Enhances Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c00778</link>
-      <description>Luo Huang, Lixia Ma, Jing Xu, Baoqiang Wei, Yanzhong Xue, Nan Zhang, Xiaojie Zhou, Miao Chen, Zong-Huai Liu, Ruibin Jiang, Inorganic chemistry. None(None)] 2024. https://openalex.org/W4399916632
+      <title>Strong Electronic Coupling between Ni-Based Mof and Ni2p Enables High-Efficiency Oxygen Evolution Reaction for Various Application Scenarios</title>
+      <link>https://doi.org/10.2139/ssrn.4880251</link>
+      <description>Yirong Wang, Yi Xuan, Zhonghong Xia, X. Li, Yuliang Gao, Jing Zhang, Wuliang Feng, Xingli Zou, Yufeng Zhao, No host. None(None)] 2024. https://openalex.org/W4400148690
 
-                High-entropy oxides are a new type of material with significant application potential. However, the lack of a universal HEO preparation method severely limits the property study and application of HEOs. Herein, we report a universal approach of spray pyrolysis for the preparation of various HEOs and study the electrocatalytic performance of HEOs toward the oxygen evolution reaction. FeCoNiMoWO</description>
-      <author>Luo Huang, Lixia Ma, Jing Xu, Baoqiang Wei, Yanzhong Xue, Nan Zhang, Xiaojie Zhou, Miao Chen, Zong-Huai Liu, Ruibin Jiang</author>
-      <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c00778</guid>
+                No abstract</description>
+      <author>Yirong Wang, Yi Xuan, Zhonghong Xia, X. Li, Yuliang Gao, Jing Zhang, Wuliang Feng, Xingli Zou, Yufeng Zhao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4880251</guid>
     </item>
     <item>
       <title>Exploring the Use of Fe2.5Ni2.5Sn3 as a Monolithic Catalyst for Oxygen Evolution Reaction Under Alkaline Conditions</title>
@@ -658,6 +628,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175330</guid>
     </item>
     <item>
+      <title>High-Valence Cu Induced by Photoelectric Reconstruction for Dynamically Stable Oxygen Evolution Sites</title>
+      <link>https://doi.org/10.1021/jacs.4c04975</link>
+      <description>Zhi Cai, Lidong Li, Peijia Ding, Dawei Pang, Mingyuan Xu, Xu Zhang, Jian Kang, Tianqi Guo, Gilberto Teobaldi, Zhongchang Wang, Li-Min Liu, Lin Guo, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400145199
+
+                No abstract</description>
+      <author>Zhi Cai, Lidong Li, Peijia Ding, Dawei Pang, Mingyuan Xu, Xu Zhang, Jian Kang, Tianqi Guo, Gilberto Teobaldi, Zhongchang Wang, Li-Min Liu, Lin Guo</author>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c04975</guid>
+    </item>
+    <item>
       <title>Wood-Derived Continuously Oriented Channels Coupled with Tunable Built-In Electric Fields for Efficient Oxygen Evolution</title>
       <link>https://doi.org/10.2139/ssrn.4879384</link>
       <description>Luosong Zheng, Heping Luo, Yisheng Zhong, Wanqian Li, Xu Han, Fuquan Xiong, Jiang Pi, Qing Yan, Yiqiang Wu, No host. None(None)] 2024. https://openalex.org/W4400119239
@@ -666,6 +646,16 @@
       <author>Luosong Zheng, Heping Luo, Yisheng Zhong, Wanqian Li, Xu Han, Fuquan Xiong, Jiang Pi, Qing Yan, Yiqiang Wu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4879384</guid>
+    </item>
+    <item>
+      <title>Improved hydrogen and oxygen evolution rates in Pt@TiO2@RuO2 hollow nanoshells through dielectric Mie resonance and spatial cocatalyst separation</title>
+      <link>https://doi.org/10.1016/j.cclet.2024.110192</link>
+      <description>Xiaxi Yao, Xiuli Hu, Fangcheng Huang, Xuhong Wang, Xiaodong Hong, Dawei Wang, Chinese Chemical Letters/Chinese chemical letters. None(None)] 2024. https://openalex.org/W4400156387
+
+                No abstract</description>
+      <author>Xiaxi Yao, Xiuli Hu, Fangcheng Huang, Xuhong Wang, Xiaodong Hong, Dawei Wang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.110192</guid>
     </item>
     <item>
       <title>Unlocking high-efficiency oxygen evolution reaction through Co-N coordination engineering in Co@N-doped porous carbon core&#8212;shell nanoparticles</title>
@@ -708,16 +698,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4qi01152j</guid>
     </item>
     <item>
-      <title>Increasing Electrochemical Chlorine over Oxygen Selectivity by Optimal Weakening of Oxygen Bonds in Transition Metal-Doped RuO2</title>
-      <link>https://doi.org/10.1039/d4cy00448e</link>
-      <description>Sulay Saha, Koshal Kishor, Raj Ganesh S. Pala, Catalysis science &amp; technology. None(None)] 2024. https://openalex.org/W4400008509
-
-                Electrochemical chlorine evolution reaction (CER) is accompanied by parasitic oxygen evolution reaction (OER) during acidic brine electrolysis, thereby reducing the efficiency of chlorine production. The guiding principles of enhancing the...</description>
-      <author>Sulay Saha, Koshal Kishor, Raj Ganesh S. Pala</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cy00448e</guid>
-    </item>
-    <item>
       <title>Redox Promoted Rapid and Deep Reconstruction of Defect&#8208;Rich Nickel Precatalysts for Efficient Water Oxidation</title>
       <link>https://doi.org/10.1002/smll.202401384</link>
       <description>Renzheng Jiang, Jinfeng Zhang, Jiajian Gao, Yingpeng Xie, Liyun Wu, Yi Wang, Zichen Xu, Zhong&#8208;Shuai Wu, Shisheng Yuan, Guangwen Xu, Small. None(None)] 2024. https://openalex.org/W4400122348
@@ -726,6 +706,16 @@
       <author>Renzheng Jiang, Jinfeng Zhang, Jiajian Gao, Yingpeng Xie, Liyun Wu, Yi Wang, Zichen Xu, Zhong&#8208;Shuai Wu, Shisheng Yuan, Guangwen Xu</author>
       <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202401384</guid>
+    </item>
+    <item>
+      <title>Increasing Electrochemical Chlorine over Oxygen Selectivity by Optimal Weakening of Oxygen Bonds in Transition Metal-Doped RuO2</title>
+      <link>https://doi.org/10.1039/d4cy00448e</link>
+      <description>Sulay Saha, Koshal Kishor, Raj Ganesh S. Pala, Catalysis science &amp; technology. None(None)] 2024. https://openalex.org/W4400008509
+
+                Electrochemical chlorine evolution reaction (CER) is accompanied by parasitic oxygen evolution reaction (OER) during acidic brine electrolysis, thereby reducing the efficiency of chlorine production. The guiding principles of enhancing the...</description>
+      <author>Sulay Saha, Koshal Kishor, Raj Ganesh S. Pala</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy00448e</guid>
     </item>
     <item>
       <title>Chiral supramolecular polymer functionalized two-dimensional transition metal-based catalyst for enhancing the electrochemical water splitting via. spin-polarized charge transfer</title>
@@ -758,16 +748,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202403206</guid>
     </item>
     <item>
-      <title>A Perspective on Protective Carbon Shells for Improved Stability of Alkaline Water Oxidation Electrocatalysts</title>
-      <link>https://doi.org/10.1021/acsmaterialslett.4c00688</link>
-      <description>Lettie A. Smith, Kenta Kawashima, Ra&#250;l A. M&#225;rquez, C. Buddie Mullins, ACS materials letters. None(None)] 2024. https://openalex.org/W4399916486
-
-                In recent years, carbon shells have garnered attention as possible protective layers that can be applied to oxygen evolution reaction (OER) electrocatalysts to prevent corrosion under alkaline conditions. However, thermodynamic considerations and experimental results indicate that these carbon shells are subject to corrosion themselves, limiting their applicability as protective coatings against oxidation. Herein, the thermodynamics of carbon corrosion are presented with spectrometric, spectroscopic, crystallographic, microscopy, and electrochemical measurements, emphasizing the inevitable degradation of carbon under alkaline OER conditions. Recent work focused on suppressing this carbon corrosion is then discussed alongside future directions for carbon shells in water oxidation research.</description>
-      <author>Lettie A. Smith, Kenta Kawashima, Ra&#250;l A. M&#225;rquez, C. Buddie Mullins</author>
-      <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00688</guid>
-    </item>
-    <item>
       <title>Insights on Water of Crystallization in Autologous Cobalt Phosphates for Electrocatalytic Water Oxidation</title>
       <link>https://doi.org/10.1021/acsmaterialslett.4c00853</link>
       <description>Wei Zhang, Renji Zheng, Ning Han, Guo Wang, Qiong Liu, Zhijie Chen, Yuhai Dou, Xuan Zhang, Jiangshui Luo, Jan Fransaer, ACS materials letters. None(None)] 2024. https://openalex.org/W4400043727
@@ -776,16 +756,6 @@
       <author>Wei Zhang, Renji Zheng, Ning Han, Guo Wang, Qiong Liu, Zhijie Chen, Yuhai Dou, Xuan Zhang, Jiangshui Luo, Jan Fransaer</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00853</guid>
-    </item>
-    <item>
-      <title>Constructing Conductive MoO&lt;sub&gt;x&lt;/sub&gt; Thin Films by Plasma Enhanced Atomic Layer Deposition</title>
-      <link>https://doi.org/10.1002/adem.202301724</link>
-      <description>Ling Zhou, Zhuo Guan, Lin Yang, Daying Guo, Leiming Wu, Xi&#8217;an Chen, Yifei Yuan, Advanced engineering materials. None(None)] 2024. https://openalex.org/W4400137600
-
-                Herein, we construct amorphous molybdenum oxide films by thermal atomic layer deposition (T&#8208;ALD) and plasma enhanced atomic layer deposition (PE&#8208;ALD). The physical and chemical properties of molybdenum oxide films prepared by the two methods were systematically compared by means of film growth law, atomic force microscope and scanning electron microscope etc. The results show that the amorphous molybdenum oxide physical phase prepared by both atomic layer deposition methods is MoO 3 . Compared with T&#8208;ALD MoO 3 , the growth rate of MoO 3 thin films prepared by PE&#8208;ALD is higher. Compared to PE&#8208;ALD MoO 3 , the MoO 3 films prepared by T&#8208;ALD did not have nucleation delayed to a laminar growth mode, resulting in smoother deposited films and contained less impurity carbon. The MoO 3 prepared by PE&#8208;ALD contains 7.4% impurity carbon. This carbon&#8208;doped film significantly improves the conductivity of the MoO 3 film and shows good electrochemical activity. As expected, the MoO 3 films prepared by PE&#8208;ALD show good electrocatalytic oxygen evolution reaction. The overpotential was only 259 mV at 10 mA cm &#8208;2 and continued to evolution oxygen for 60 h with almost no attenuation, indicating that carbon doping significantly improves the catalytic intrinsic activity and stability of MoO 3 . This article is protected by copyright. All rights reserved.</description>
-      <author>Ling Zhou, Zhuo Guan, Lin Yang, Daying Guo, Leiming Wu, Xi&#8217;an Chen, Yifei Yuan</author>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adem.202301724</guid>
     </item>
     <item>
       <title>Amorphous/crystalline NiFe LDH hierarchical nanostructure for large-current-density electrocatalytic water oxidation</title>
@@ -798,6 +768,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175328</guid>
     </item>
     <item>
+      <title>Constructing Conductive MoO&lt;sub&gt;x&lt;/sub&gt; Thin Films by Plasma Enhanced Atomic Layer Deposition</title>
+      <link>https://doi.org/10.1002/adem.202301724</link>
+      <description>Ling Zhou, Zhuo Guan, Lin Yang, Daying Guo, Leiming Wu, Xi&#8217;an Chen, Yifei Yuan, Advanced engineering materials. None(None)] 2024. https://openalex.org/W4400137600
+
+                Herein, we construct amorphous molybdenum oxide films by thermal atomic layer deposition (T&#8208;ALD) and plasma enhanced atomic layer deposition (PE&#8208;ALD). The physical and chemical properties of molybdenum oxide films prepared by the two methods were systematically compared by means of film growth law, atomic force microscope and scanning electron microscope etc. The results show that the amorphous molybdenum oxide physical phase prepared by both atomic layer deposition methods is MoO 3 . Compared with T&#8208;ALD MoO 3 , the growth rate of MoO 3 thin films prepared by PE&#8208;ALD is higher. Compared to PE&#8208;ALD MoO 3 , the MoO 3 films prepared by T&#8208;ALD did not have nucleation delayed to a laminar growth mode, resulting in smoother deposited films and contained less impurity carbon. The MoO 3 prepared by PE&#8208;ALD contains 7.4% impurity carbon. This carbon&#8208;doped film significantly improves the conductivity of the MoO 3 film and shows good electrochemical activity. As expected, the MoO 3 films prepared by PE&#8208;ALD show good electrocatalytic oxygen evolution reaction. The overpotential was only 259 mV at 10 mA cm &#8208;2 and continued to evolution oxygen for 60 h with almost no attenuation, indicating that carbon doping significantly improves the catalytic intrinsic activity and stability of MoO 3 . This article is protected by copyright. All rights reserved.</description>
+      <author>Ling Zhou, Zhuo Guan, Lin Yang, Daying Guo, Leiming Wu, Xi&#8217;an Chen, Yifei Yuan</author>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adem.202301724</guid>
+    </item>
+    <item>
       <title>Asymmetric distortion of orbital hybridization at halogen-doped IrO2 monolayers for acidic water electrolysis</title>
       <link>https://doi.org/10.1016/j.susc.2024.122542</link>
       <description>Ming Meng, Yiming Liu, Shan Yun, Yi Song, Jian Li, Yang Shao, Lizhe Liu, Surface science. None(None)] 2024. https://openalex.org/W4399929229
@@ -806,26 +786,6 @@
       <author>Ming Meng, Yiming Liu, Shan Yun, Yi Song, Jian Li, Yang Shao, Lizhe Liu</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122542</guid>
-    </item>
-    <item>
-      <title>Hierarchical MoS2@NiFeCo-Mo(doped)-LDH Heterostructures as Efficient Alkaline Water Splitting (Photo)Electrocatalysts</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-7cs2z</link>
-      <description>Kayvan Moradi, Maysam Ashrafi, Abdollah Salimi, Marko Melander, No host. None(None)] 2024. https://openalex.org/W4399974592
-
-                Designing cost-effective electrocatalysts with fast reaction kinetics and high stability is an outstanding challenge that needs to be resolved to enable green hydrogen generation through overall water splitting (OWS). Layered double hydroxide (LDH) heterostructure materials are promising candidates to catalyze both oxygen evolution reaction (OER) and hydrogen evolution reaction (HER), the two half-cell reactions of OWS. This work develops a facile hydrothermal route to synthesize hierarchical het- erostructure MoS2@NiFeCo-Mo(doped)-LDH electrocatalysts, which exhibit extremely good OER and HER performance as witnessed by their low overpotentials of 178 mV and 64 mV, respectively, at a current density of 10 mA/cm2 under light assistance. The MoS2@NiFeCo-Mo(doped)-LDH&#8214;MoS2@NiFeCo-LDH OWS cell demonstrates a low cell voltage of 1.46 V at 10 mA/cm2 during light-assisted water electrolysis. The experimental and computational results demonstrate that doping of high-valence Mo atoms within and the deposition of MoS2 quantum dots on the LDH matrix improves the electrocatalytic activity by 1) enhancing electron transfer, 2) making the elec- trocatalyst metallic, 3) increasing the number of active sites, 4) lowering the ther- modynamic overpotential, and 5) changing the OER mechanism. Overall, the facile synthesis method enables the design of highly active MoS2@NiFeCo-Mo(doped)-LDH heterostructure electrocatalysts.</description>
-      <author>Kayvan Moradi, Maysam Ashrafi, Abdollah Salimi, Marko Melander</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-7cs2z</guid>
-    </item>
-    <item>
-      <title>Recent Development of Transition Metal&#8208;based Amorphous Electrocatalysts for Water Splitting</title>
-      <link>https://doi.org/10.1002/cctc.202400564</link>
-      <description>Bowen Lu, Hao Gao, Z.&#8208;L. Hua, ChemCatChem. None(None)] 2024. https://openalex.org/W4400057779
-
-                Electrochemical water splitting, including the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), is a promising hydrogen production technology. However, in practice, the high overpotentials and sluggish reaction kinetics associated with the anode OER process are the major obstacles to the smooth progress of electrocatalytic water splitting. Amorphous electrocatalysts, a crucial family of functional materials, exhibit unexpected performance due to their special short&#8208;range ordered and long&#8208;range disordered atom arrangement, abundant defect sites and adjustable composition. To date, while numerous recent publications showcase promising results for transition metal&#8208;based amorphous electrocatalysts, including amorphous metal phosphide and metal hydroxide electrocatalysts with remarkable HER and OER properties respectively, the utilization of single&#8208;function HER or OER catalysts tends to augment system complexity for water electrolysis, thereby escalating the cost of hydrogen production. In this regard, amorphous HER/OER bifunctional electrocatalysts are desired. In this review, we summarize the recent development on transition metal&#8208;based amorphous catalysts for electrochemical water splitting. The design strategies for constructing HER/OER bifunctional transition&#8208;metal&#8208;based amorphous electrocatalysts are highlighted here, also including the exploration of relationship between catalyst structures and their remarkably improved performance. Finally, the possibilities of amorphous bifunctional catalysts for practical industrial applications are evaluated and future research direction are suggested.</description>
-      <author>Bowen Lu, Hao Gao, Z.&#8208;L. Hua</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400564</guid>
     </item>
     <item>
       <title>Unraveling the Key Factors Governing O2 Evolution upon Charging a Reversible LiOH-based Nonaqueous Li-O2 Battery</title>
@@ -838,14 +798,24 @@
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4568326/v1</guid>
     </item>
     <item>
-      <title>Nitrogen-metal-oxygen moieties enriched surface reconstruction in CoFe electrocatalysts for stabilizing high-valence Co sites enable water oxidation</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.160588</link>
-      <description>Ying-Wei Li, Mengen Wang, Jinfeng Tian, Xudong Song, Baojun Ma, Wei Wang, Applied surface science. None(None)] 2024. https://openalex.org/W4399913511
+      <title>Recent Development of Transition Metal&#8208;based Amorphous Electrocatalysts for Water Splitting</title>
+      <link>https://doi.org/10.1002/cctc.202400564</link>
+      <description>Bowen Lu, Hao Gao, Z.&#8208;L. Hua, ChemCatChem. None(None)] 2024. https://openalex.org/W4400057779
 
-                Despite the potential of heterostructure construction and surface reconstruction strategies to significantly enhance the oxygen evolution reaction (OER) performance of transition metal compounds, integrating these approaches into a single material system remains a significant challenge. In this work, we report an efficient CoFe-LDH catalyst with multi-metal nitrides on the surface through simple and tunable N2-plasma treatment (PL CoFe-LDH). Structural characterization and theoretical calculations indicate a high concentration of defective sites in PL CoFe-LDH, which facilitates the exposure of a greater number of active NFeO and NCoO centers. During the initial stage of the OER process, there is a rapid phase transition of Fe and Co, leading to the formation of metal (oxy)hydroxides. Meanwhile, Co3+ species gradually accumulate on the surfaces, which is responsible for the excellent OER catalytic activity. Then, the neighboring N atoms function as electron reservoirs, donating electrons to the Co sites to prevent overoxidation and dissolution of Co in the electrolyte, thus significantly enhancing the stability of the OER. The catalysts enable the achievement of ultralow OER overpotential, measuring 161.1 and 205.5 mV at current densities of 10 mA cm&#8722;2 and 200 mA cm&#8722;2, respectively, while exhibiting exceptional stability.</description>
-      <author>Ying-Wei Li, Mengen Wang, Jinfeng Tian, Xudong Song, Baojun Ma, Wei Wang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160588</guid>
+                Electrochemical water splitting, including the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), is a promising hydrogen production technology. However, in practice, the high overpotentials and sluggish reaction kinetics associated with the anode OER process are the major obstacles to the smooth progress of electrocatalytic water splitting. Amorphous electrocatalysts, a crucial family of functional materials, exhibit unexpected performance due to their special short&#8208;range ordered and long&#8208;range disordered atom arrangement, abundant defect sites and adjustable composition. To date, while numerous recent publications showcase promising results for transition metal&#8208;based amorphous electrocatalysts, including amorphous metal phosphide and metal hydroxide electrocatalysts with remarkable HER and OER properties respectively, the utilization of single&#8208;function HER or OER catalysts tends to augment system complexity for water electrolysis, thereby escalating the cost of hydrogen production. In this regard, amorphous HER/OER bifunctional electrocatalysts are desired. In this review, we summarize the recent development on transition metal&#8208;based amorphous catalysts for electrochemical water splitting. The design strategies for constructing HER/OER bifunctional transition&#8208;metal&#8208;based amorphous electrocatalysts are highlighted here, also including the exploration of relationship between catalyst structures and their remarkably improved performance. Finally, the possibilities of amorphous bifunctional catalysts for practical industrial applications are evaluated and future research direction are suggested.</description>
+      <author>Bowen Lu, Hao Gao, Z.&#8208;L. Hua</author>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400564</guid>
+    </item>
+    <item>
+      <title>Hierarchical MoS2@NiFeCo-Mo(doped)-LDH Heterostructures as Efficient Alkaline Water Splitting (Photo)Electrocatalysts</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-7cs2z</link>
+      <description>Kayvan Moradi, Maysam Ashrafi, Abdollah Salimi, Marko Melander, No host. None(None)] 2024. https://openalex.org/W4399974592
+
+                Designing cost-effective electrocatalysts with fast reaction kinetics and high stability is an outstanding challenge that needs to be resolved to enable green hydrogen generation through overall water splitting (OWS). Layered double hydroxide (LDH) heterostructure materials are promising candidates to catalyze both oxygen evolution reaction (OER) and hydrogen evolution reaction (HER), the two half-cell reactions of OWS. This work develops a facile hydrothermal route to synthesize hierarchical het- erostructure MoS2@NiFeCo-Mo(doped)-LDH electrocatalysts, which exhibit extremely good OER and HER performance as witnessed by their low overpotentials of 178 mV and 64 mV, respectively, at a current density of 10 mA/cm2 under light assistance. The MoS2@NiFeCo-Mo(doped)-LDH&#8214;MoS2@NiFeCo-LDH OWS cell demonstrates a low cell voltage of 1.46 V at 10 mA/cm2 during light-assisted water electrolysis. The experimental and computational results demonstrate that doping of high-valence Mo atoms within and the deposition of MoS2 quantum dots on the LDH matrix improves the electrocatalytic activity by 1) enhancing electron transfer, 2) making the elec- trocatalyst metallic, 3) increasing the number of active sites, 4) lowering the ther- modynamic overpotential, and 5) changing the OER mechanism. Overall, the facile synthesis method enables the design of highly active MoS2@NiFeCo-Mo(doped)-LDH heterostructure electrocatalysts.</description>
+      <author>Kayvan Moradi, Maysam Ashrafi, Abdollah Salimi, Marko Melander</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-7cs2z</guid>
     </item>
     <item>
       <title>Bipolar Plate Design Assessment: Proton Exchange Membrane Fuel Cell and Water Electrolyzer</title>
@@ -858,6 +828,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/fuce.202300196</guid>
     </item>
     <item>
+      <title>A two&#8208;dimensional Cu&#8208;based nanosheet producing formic acid via glycerol electro&#8208;oxidation in alkaline water</title>
+      <link>https://doi.org/10.1002/cplu.202400317</link>
+      <description>Srewashi Das, Siddarth Jain, Anwesha Banerjee, Arnab Dutta, ChemPlusChem. None(None)] 2024. https://openalex.org/W4400144593
+
+                The sluggishness of the complementary oxygen evolution reaction (OER) is reckoned as one of the major drawbacks in developing an energy&#8208;efficient green hydrogen&#8208;producing electrolyzer. An array of organic molecule oxidation reactions, operational at a relatively low potential, have been explored as a substitute for the OER. Glycerol oxidation reaction (GOR) has emerged as a leading alternative in this context. Additionally, the GOR generates several value&#8208;added organic compounds following oxidation that enhance the cost viability of the overall electrolysis reaction. In this study, a low&#8208;cost, room temperature operable, and energy&#8208;efficient synthetic methodology has been developed to generate unique two&#8208;dimensional CuO nanosheets (CuO NS). This CuO NS material was embedded on a carbon paper electrode, which showcased excellent glycerol electro&#8208;oxidation performance operational at a moderately low applied potential. Formic acid is the major product of this CuO NS&#8208;driven GOR (Faradaic efficiency ~80%), as it is formed primarily via the glyceraldehyde oxidation pathway. This CuO NS material was also active for oxidizing other abundant alcohols like ethylene glycol and diethylene glycol, albeit at a relatively poor efficiency. Therefore, this robust CuO NS material has displayed the potential to be used in large&#8208;scale electrolyzers functioning with HER/GOR reactions.</description>
+      <author>Srewashi Das, Siddarth Jain, Anwesha Banerjee, Arnab Dutta</author>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cplu.202400317</guid>
+    </item>
+    <item>
       <title>Ar/NH&lt;sub&gt;3&lt;/sub&gt; Plasma Etching of Cobalt&#8208;Nickel Selenide Microspheres Rich in Selenium Vacancies Wrapped with Nitrogen Doped Carbon Nanotubes as Highly Efficient Air Cathode Catalysts for Zinc&#8208;Air Batteries</title>
       <link>https://doi.org/10.1002/smtd.202400565</link>
       <description>Yangyang Feng, Weiheng Chen, Lingyan Zhao, Zhong&#8208;Jie Jiang, Xiaoning Tian, Zhongqing Jiang, Small methods. None(None)] 2024. https://openalex.org/W4399983084
@@ -868,14 +848,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smtd.202400565</guid>
     </item>
     <item>
-      <title>Encapsulating Nickel&#8208;Iron Alloy Nanoparticles in a Polysilazane&#8208;Derived Micro&#8208;/Mesoporous Si&#8208;C&#8208;O&#8208;N&#8208;Based Support to Stimulate Superior OER Activity</title>
-      <link>https://doi.org/10.1002/cssc.202400561</link>
-      <description>Marwan Ben Miled, Marina Fradin, Nora Benbakoura, Laetitia Mazi&#232;re, Julie Rousseau, Assil Bouzid, Pierre Carl&#232;s, Yuji Iwamoto, Olivier Masson, Aur&#233;lien Habrioux, Samuel Bernard, ChemSusChem. None(None)] 2024. https://openalex.org/W4399922541
+      <title>Phosphorus Doping Heterostructure La(OH) 3 @CuO @NF as Advanced Electrocatalysts for Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.21203/rs.3.rs-4568184/v1</link>
+      <description>Decui Liang, Weishun Hou, Ying Zhang, Jianhua Shang, Haibo Ren, Yong Sun, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4400137499
 
-                The in situ confinement of nickel (Ni)&#8208;iron (Fe) nanoparticles (NPs) in a polymer&#8208;derived micro&#8208;/mesoporous silicon carboxynitride (Si&#8208;C&#8208;O&#8208;N)&#8208;based support is investigated to stimulate superior oxygen evolution reaction (OER) activity in an alkaline media. Firstly, we consider a commercial polysilazane (PSZ) and Ni and Fe salts to be mixed together in N,N&#8208;dimethylformamide (DMF) in order to prepare a series of Ni&#8208;Fe:organosilicon coordination complexes. The latter are then heat&#8208;treated at 500 &#176;C in flowing argon to form the title compounds. By considering a Ni:Fe ratio of 1.5, face centred cubic (fcc) NixFey alloy NPs with a size of 15&#8208;30 nm are in situ generated in a micro&#8208;/mesoporous Si&#8208;C&#8208;O&#8208;N&#8208;based support displaying a specific surface area (SSA) as high as 237 m2&#8901;g&#8208;1. Hence, NPs are renderedaccessible to promote electrocatalytic water oxidation. An OER overpotential as low as 315 mV at 10 mA&#8901;cm&#8208;2 is measured. This high catalytic performance (considering that the metal mass loading is as low as 0.24 mg cm&#8722;2) is rather stable as observed after an activation step; thus, validating our synthesis approach and opening further investigations. This is clearly attributed to both the strong NP&#8208;matrix interaction and the confinement effect of the matrix as highlighted through post mortem microscopy observations.</description>
-      <author>Marwan Ben Miled, Marina Fradin, Nora Benbakoura, Laetitia Mazi&#232;re, Julie Rousseau, Assil Bouzid, Pierre Carl&#232;s, Yuji Iwamoto, Olivier Masson, Aur&#233;lien Habrioux, Samuel Bernard</author>
-      <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202400561</guid>
+                Abstract Due to the prevailing energy shortages, the quest for new alternative energy sources is growing increasingly urgent. Hydrogen production through water electrolysis has become a crucial method. However, the slow four-electron reaction in oxygen evolution reaction (OER) becomes the main rate-limiting step. In this study, we propose obtaining heterostructure La(OH)3@CuO-P after composite phosphatisation using nickel foam (NF) as the substrate material. The experimental results demonstrate that the heterostructure La(OH)3@CuO exhibits an overpotential of 365mV at a current density of 10mA/cm2 , and displays a Tafel slope value of 114.02mF/dec, a bilayer capacitance of 1.853mF/cm2 for OER in a 1 M KOH solution. After phosphating, the heterostructure La(OH)3@CuO-P exhibits exceptional catalytic performance with only 215 mV overpotential, a Tafel slope value of 79.36 mV/dec, and a bilayer capacitance of 34.73mF/cm2 at a current density of 10mA/cm2 . Moreover, it also exhibits relatively stable performance during cyclic voltammetry testing for up to1000 cycles. Analyses suggest that the formation of a heterojunction structure in La(OH)3@CuO-P effectively addresses the issues of insufficient conductivity of La(OH)3 and tendency for CuO monomer aggregation while maintaining excellent properties for each component. The substitutional P atom doping not only adjusts the electronic structure and optimizes the adsorption free energy of -OH but also reduces sample size and increases catalytic active sites, thereby further enhancing the OER performance of the material.</description>
+      <author>Decui Liang, Weishun Hou, Ying Zhang, Jianhua Shang, Haibo Ren, Yong Sun</author>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4568184/v1</guid>
     </item>
     <item>
       <title>Laser solid-phase synthesis of graphene shell-encapsulated high-entropy alloy nanoparticles</title>
@@ -886,16 +866,6 @@
       <author>Li Zhu, Yuxiang Liu, Jianghuai Yuan, Jian Zhou, Kewen Pan, Ran Zhang, Rongxia Zhao, Lin Liu, Yihe Huang</author>
       <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4471162/v1</guid>
-    </item>
-    <item>
-      <title>Phosphorus Doping Heterostructure La(OH) 3 @CuO @NF as Advanced Electrocatalysts for Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4568184/v1</link>
-      <description>Decui Liang, Weishun Hou, Ying Zhang, Jianhua Shang, Haibo Ren, Yong Sun, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4400137499
-
-                Abstract Due to the prevailing energy shortages, the quest for new alternative energy sources is growing increasingly urgent. Hydrogen production through water electrolysis has become a crucial method. However, the slow four-electron reaction in oxygen evolution reaction (OER) becomes the main rate-limiting step. In this study, we propose obtaining heterostructure La(OH)3@CuO-P after composite phosphatisation using nickel foam (NF) as the substrate material. The experimental results demonstrate that the heterostructure La(OH)3@CuO exhibits an overpotential of 365mV at a current density of 10mA/cm2 , and displays a Tafel slope value of 114.02mF/dec, a bilayer capacitance of 1.853mF/cm2 for OER in a 1 M KOH solution. After phosphating, the heterostructure La(OH)3@CuO-P exhibits exceptional catalytic performance with only 215 mV overpotential, a Tafel slope value of 79.36 mV/dec, and a bilayer capacitance of 34.73mF/cm2 at a current density of 10mA/cm2 . Moreover, it also exhibits relatively stable performance during cyclic voltammetry testing for up to1000 cycles. Analyses suggest that the formation of a heterojunction structure in La(OH)3@CuO-P effectively addresses the issues of insufficient conductivity of La(OH)3 and tendency for CuO monomer aggregation while maintaining excellent properties for each component. The substitutional P atom doping not only adjusts the electronic structure and optimizes the adsorption free energy of -OH but also reduces sample size and increases catalytic active sites, thereby further enhancing the OER performance of the material.</description>
-      <author>Decui Liang, Weishun Hou, Ying Zhang, Jianhua Shang, Haibo Ren, Yong Sun</author>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4568184/v1</guid>
     </item>
     <item>
       <title>Predicting photosynthetic structures using thermodynamics and machine learning</title>
@@ -977,16 +947,6 @@
       <author>Yujin Zhou, Lanyan Li, Huakuan Lin, Zhongyun Ma, Xianyou Wang, Guozhao Fang, Zhigao Luo</author>
       <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c05876</guid>
-    </item>
-    <item>
-      <title>Seawater oxygen isotopes as a tool for monitoring future meltwater from the Antarctic ice-sheet</title>
-      <link>https://doi.org/10.1038/s43247-024-01514-4</link>
-      <description>Hyuna Kim, Axel Timmermann, Communications earth &amp; environment. 5(1)] 2024. https://openalex.org/W4399921048
-
-                Abstract To reduce uncertainties in future sea level projections, it is necessary to closely monitor the evolution of the Antarctic ice-sheet. Here, we show that seawater oxygen isotopes are an effective tool to monitor ice-sheet freshwater discharge and its contributions to sea level rise. Using the isotope-enabled Community Earth System Model with imposed estimates of future meltwater fluxes, we find that the anthropogenic ice-sheet signal in water isotopes emerges above natural variability decades earlier than salinity-based estimates. The superiority of seawater isotopes over salinity in detecting the ice-sheet melting can be attributed to the higher signal-to-noise ratio of the former and the fact that future sea ice changes only contribute little to seawater isotopes but a lot to salinity. We conclude that in particular in the Ross Sea sector, continuous seawater oxygen isotope measurements could serve as an early warning system for rapid anthropogenic Antarctic ice-sheet mass loss.</description>
-      <author>Hyuna Kim, Axel Timmermann</author>
-      <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43247-024-01514-4</guid>
     </item>
     <item>
       <title>The earliest phases of CNO enrichment in galaxies</title>
@@ -1089,16 +1049,6 @@
       <guid isPermaLink="true">https://doi.org/10.1093/sysbio/syae025</guid>
     </item>
     <item>
-      <title>Stability and Redox Mechanisms of Ni-Rich NMC Cathodes: Insights from First-Principles Many-Body Calculations</title>
-      <link>https://doi.org/10.1021/acs.chemmater.4c00928</link>
-      <description>Hrishit Banerjee, Clare P. Grey, Andrew J. Morris, Chemistry of materials. None(None)] 2024. https://openalex.org/W4399916764
-
-                Ni-rich LiNiaMnbCocO2 (NMC) cathodes undergo a series of degradation reactions, a prominent one being oxygen loss from the surface of the NMC particles; this process is more pronounced as Ni content is increased and at high voltages. Our first-principles study examines the redox behavior of transition metals (TMs) and O in Ni-rich NMC cathodes as a function of (de)lithiation. We use ab initio multiple scattering, density-functional theory (DFT)-based core-loss spectroscopy, and dynamical mean-field theory (DMFT) to give a many-body treatment of both dynamic and static correlations. Despite Ni, Mn, and Co K-edges calculated using ab initio multiple scattering based on Green's functions showing an excellent match with experimentally obtained X-ray absorption near-edge spectra (XANES), we demonstrate that the ionic model of ascribing shifts in the XANES spectra to changes in metal oxidation states is inappropriate. We show that in these cases, which are characterized by strong covalency between the TM and oxygen, DMFT calculations based on Wannier projections are to date to the best of our knowledge the most accurate as well as computationally accessible method to calculate charges and hence assign oxidation states accurately. Due to the corresponding charge transfer from O p to Ni d, a ligand hole forms on O in Ni-rich regions. The individual Ni charge remains fairly constant throughout the charging/discharging process, particularly in Ni-rich environments in the material. In contrast, O has dual redox behavior, showing greater involvement in redox in Ni-rich regions while showing negligible redox involvement in Ni-poor regions. The Ni&#8211;O covalent system starts participating in redox around a state of delithiation of &#8764;17%, which represents, in our system, the beginning of the charge. Contrary to previous DFT calculations, we show that Co oxidation does not occur at the very end of charge but rather starts at an earlier state of delithiation of &#8764;67%. The dual behavior of O in terms of participation in the redox process helps explain the overall higher relative stability of lower Ni content NMCs compared to Ni-rich NMCs or LiNiO2 in terms of O loss and evolution of singlet oxygen.</description>
-      <author>Hrishit Banerjee, Clare P. Grey, Andrew J. Morris</author>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c00928</guid>
-    </item>
-    <item>
       <title>eReaxFF force field development for BaZr0.8Y0.2O3-&#948; solid oxide electrolysis cells applications</title>
       <link>https://doi.org/10.1038/s41524-024-01268-9</link>
       <description>Md Jamil Hossain, Prashik Gaikwad, Yun Kyung Shin, Jessica A. Schulze, Katheryn A. Penrod, Meng Li, Yuxiao Lin, Gorakh Pawar, Adri C. T. van Duin, npj computational materials. 10(1)] 2024. https://openalex.org/W4400126208
@@ -1129,16 +1079,6 @@
       <guid isPermaLink="true">https://doi.org/10.1101/2024.06.23.600274</guid>
     </item>
     <item>
-      <title>Geochemistry characterization of diagenesis from Mishrif reservoir rocks in the Central Mesopotamian Basin, Iraq: Implication for the differential diagenesis and petroleum significance</title>
-      <link>https://doi.org/10.1016/j.sedgeo.2024.106710</link>
-      <description>Huan Wang, Lirong Dou, Xingyang Zhang, Jiyuan Yin, Bin Luo, Anjiang Shen, Jin Yu, Yan-Kui Song, Sedimentary geology. None(None)] 2024. https://openalex.org/W4400012926
-
-                The Cenomanian Mishrif Formation is one of the most important carbonate reservoirs in the Mesopotamian Basin. Detailed petrographic analysis, aided by geochemistry and burial history establishment on Mishrif carbonates from the AD oilfield, located at the margins of the Central Mesopotamian Basin of Iraq, presents a distinctive differential diagenetic mechanism that significantly impacts reservoir quality and exhibits a pronounced relationship with tectonic evolution and hydrocarbon accumulation. Analyses of petrographic features, carbon&#8209;oxygen isotopes, and minor and rare-earth elements reveal that echinoderm shells and rim calcites are results of marine waters; sparry calcites, matrix, and vein calcites from host rock primarily precipitate from meteoric fluid; microspars and vein calcites in the concretionary limestone are derived from brine water. The development of concretionary limestone mainly involves a complex process that comprises extensive bioturbation in marine waters, substantial fabric-selective dissolution in the meteoric zone, and significant sparry calcites occluded dissolved spaces in shallow burial environments. Winding and skew seams of argillaceous sediment around concretionary limestones, as well as the excellent preservation of skeletal remains inside the concretionary zone, manifest that the development of the concretionary limestone accomplished during the early diagenesis stage and pre-compaction. These centimeter-to-decimeter scaled concretionary limestone intermixed with host rock holding abundant open porosities shape the Mishrif reservoir and result in an inconspicuous, dual permeability system. The burial history, integrated with the diagenetic sequence and tectonic evolution, elucidates four stages that clarify interactions of diagenesis, porosity preservation, and hydrocarbon accumulation. The Cenomanian to Turonian period was a critical stage for the development of effective reservoir capacity. The end of the Cretaceous, marked by the contraction of the Neo-Tethys and the complete closure of the South Neo-Tethys, witnessed an early hydrocarbon accumulation event that enhanced reservoir porosity preservation. During the Paleocene to the Early Miocene epoch, the Neo-Tethys tended to be closing. As a result, the Mishrif Formation experienced shallow burial and generated typical concretionary limestone, which provided a rigid framework against compaction. From the Early Miocene to the present, the total closure of the Neo-Tethys and the Zagros Orogeny initiated a significant late oil-filling event that acted as the main accumulation moment, coinciding with efficient trap development and other optimal petroleum conditions. This study contributes to (1) comprehending the genesis of the differential diagenesis and its effect on pore structures and reservoir heterogeneity, and (2) Linking diagenetic sequence to tectonic evolution and hydrocarbon accumulation of foreland basins evolved from Neo-Tethys tectonics.</description>
-      <author>Huan Wang, Lirong Dou, Xingyang Zhang, Jiyuan Yin, Bin Luo, Anjiang Shen, Jin Yu, Yan-Kui Song</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.sedgeo.2024.106710</guid>
-    </item>
-    <item>
       <title>Massive Interacting Binaries as an Enrichment Source for Multiple Populations in Star Clusters</title>
       <link>https://doi.org/10.3847/1538-4357/ad4a61</link>
       <description>Michelle Nguyen, Alison Sills, Astrophysical journal/&#152;The &#156;Astrophysical journal. 969(1)] 2024. https://openalex.org/W4399972766
@@ -1157,6 +1097,16 @@
       <author>A. V. Rumyantsev, &#1053;. &#1048;. &#1041;&#1086;&#1088;&#1075;&#1072;&#1088;&#1076;&#1090;, &#1056;. &#1051;. &#1042;&#1086;&#1083;&#1082;&#1086;&#1074;, Yu. A. Chaplygin</author>
       <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3762/bjnano.15.61</guid>
+    </item>
+    <item>
+      <title>Geochemistry characterization of diagenesis from Mishrif reservoir rocks in the Central Mesopotamian Basin, Iraq: Implication for the differential diagenesis and petroleum significance</title>
+      <link>https://doi.org/10.1016/j.sedgeo.2024.106710</link>
+      <description>Huan Wang, Lirong Dou, Xingyang Zhang, Jiyuan Yin, Bin Luo, Anjiang Shen, Jin Yu, Yan-Kui Song, Sedimentary geology. None(None)] 2024. https://openalex.org/W4400012926
+
+                The Cenomanian Mishrif Formation is one of the most important carbonate reservoirs in the Mesopotamian Basin. Detailed petrographic analysis, aided by geochemistry and burial history establishment on Mishrif carbonates from the AD oilfield, located at the margins of the Central Mesopotamian Basin of Iraq, presents a distinctive differential diagenetic mechanism that significantly impacts reservoir quality and exhibits a pronounced relationship with tectonic evolution and hydrocarbon accumulation. Analyses of petrographic features, carbon&#8209;oxygen isotopes, and minor and rare-earth elements reveal that echinoderm shells and rim calcites are results of marine waters; sparry calcites, matrix, and vein calcites from host rock primarily precipitate from meteoric fluid; microspars and vein calcites in the concretionary limestone are derived from brine water. The development of concretionary limestone mainly involves a complex process that comprises extensive bioturbation in marine waters, substantial fabric-selective dissolution in the meteoric zone, and significant sparry calcites occluded dissolved spaces in shallow burial environments. Winding and skew seams of argillaceous sediment around concretionary limestones, as well as the excellent preservation of skeletal remains inside the concretionary zone, manifest that the development of the concretionary limestone accomplished during the early diagenesis stage and pre-compaction. These centimeter-to-decimeter scaled concretionary limestone intermixed with host rock holding abundant open porosities shape the Mishrif reservoir and result in an inconspicuous, dual permeability system. The burial history, integrated with the diagenetic sequence and tectonic evolution, elucidates four stages that clarify interactions of diagenesis, porosity preservation, and hydrocarbon accumulation. The Cenomanian to Turonian period was a critical stage for the development of effective reservoir capacity. The end of the Cretaceous, marked by the contraction of the Neo-Tethys and the complete closure of the South Neo-Tethys, witnessed an early hydrocarbon accumulation event that enhanced reservoir porosity preservation. During the Paleocene to the Early Miocene epoch, the Neo-Tethys tended to be closing. As a result, the Mishrif Formation experienced shallow burial and generated typical concretionary limestone, which provided a rigid framework against compaction. From the Early Miocene to the present, the total closure of the Neo-Tethys and the Zagros Orogeny initiated a significant late oil-filling event that acted as the main accumulation moment, coinciding with efficient trap development and other optimal petroleum conditions. This study contributes to (1) comprehending the genesis of the differential diagenesis and its effect on pore structures and reservoir heterogeneity, and (2) Linking diagenetic sequence to tectonic evolution and hydrocarbon accumulation of foreland basins evolved from Neo-Tethys tectonics.</description>
+      <author>Huan Wang, Lirong Dou, Xingyang Zhang, Jiyuan Yin, Bin Luo, Anjiang Shen, Jin Yu, Yan-Kui Song</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.sedgeo.2024.106710</guid>
     </item>
     <item>
       <title>Oxygen Functionalized Diamond Nanocone Arrays Coupling Cobalt Phthalocyanine for Enhanced Electrochemical CO2 Reduction</title>
@@ -1240,6 +1190,26 @@
       <guid isPermaLink="true">https://doi.org/10.29227/im-2024-01-67</guid>
     </item>
     <item>
+      <title>Consistency between apatite and zircon petrochronology supports robustness of apatite in fingerprinting igneous processes in porphyry systems</title>
+      <link>https://doi.org/10.21203/rs.3.rs-4524703/v1</link>
+      <description>Hongying Qu, J. V. Rowland, Jingwen Mao, Evan A. Orovan, Michael C. Rowe, Shihua Zhong, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4399979490
+
+                Abstract Apatite low-temperature thermochronology can be double or even triple dated allowing for a reconstruction of the thermal history of rock from ~ 550 oC to near-surface temperatures. Even though it has disadvantageous U&#8211;Th&#8211;Pb contents (high Pb contents and low U and Th contents) and an unstable nature, apatite is still regarded to have the same robustness in fingerprinting igneous processes in porphyry systems as zircon, so far as to be replace zircon. Hence, we systematically studied characteristics of morphology, geochronology and geochemistry of apatite hosted in syenogranite and monzogranite intrusive rocks in the large Hutouya skarn deposit, in order to corroborate its potential thermochronological monitoring capabilities like zircon in fingerprinting igneous processes in porphyry systems. In this study, apatite grains can be subdivided into two types, FI-free Apatite I formed in the early less fractionated magma and FI-rich Apatite II crystallized in the late highly fractionated magma stage. We obtained ages of 229.0 &#177; 6.6 Ma in syenogranite and 224.3 &#177; 4.5 Ma / 223.7 &#177; 3.9 Ma in monzogranite from Apatite I of magmatic origins. Zircon grains in the two granites can be classified into three types. Zircon I is characterized by transparent and bright zones, Zircon II by dark and metamict features, and Zircon III by mineral inclusions. Zircon I grains with a magmatic texture of well-developed bright oscillatory zones, are most likely primary magmatic zircon that crystallized early in the evolution of granitic magma, dating results of which are 224.70 &#177; 0.61 Ma in syenogranite intrusions and 225.75 &#177; 0.66 Ma / 226.31 &#177; 0.78 Ma in monzogranite, respectively. The apatite&#8211;zircon timing is coincident. Furthermore, apatite trace rare earth element contents in the syenogranite and monzogranite intrusions display a negative-slope chondrite-normalized distribution from La to Lu with strong negative Eu anomalies and weak positive Ce anomalies, with major element contents that are statistically identical with enriched F but poor Cl. Zircon trace element compositions in the two intrusions show consistent and steeply increasing chondrite-normalized REE diagrams from La to Lu with negative Eu anomalies and strong positive Ce anomalies. Accordingly, apatite U&#8211;Pb dates and the corresponding in-situ trace element compositions and isotopes can test precise constraints on rock formation ages, temperature, oxygen fugacity, material source, and tectonic background, which can be relatively more robust when used as proxies for magma oxidation state.</description>
+      <author>Hongying Qu, J. V. Rowland, Jingwen Mao, Evan A. Orovan, Michael C. Rowe, Shihua Zhong</author>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4524703/v1</guid>
+    </item>
+    <item>
+      <title>Reply on RC1</title>
+      <link>https://doi.org/10.5194/egusphere-2024-835-ac1</link>
+      <description>Ido Sirota, No host. None(None)] 2024. https://openalex.org/W4400037530
+
+                Abstract. The global spread of lake hypoxia, [O2] &lt; 2 mg/l, during the last two centuries has a severe impact on ecological systems and sedimentation processes. While the occurance of hypoxia was observed in many lakes, a detailed quantification of hypoxia spread remained largely unquantified. We track the evolution of hypoxia and its controls during the past 200 yrs in lake Tiefer See (TSK; NE Germany) using 17 gravity cores, recovered between 10 and 62 m water depth in combination with lake monitoring data. Lake hypoxia was associated by the onset of varve preservation in the TSK, and has been dated by varve counting to 1918&#177;1 at 62 m water depth and reached a lake-floor depth of 16 m at 1997&#177;1. This indicates oxygen concentration to fell below the threshold for varve preservation at the lakefloor (&gt;16 m). Sediment cores at 10&#8211;12 m depth do not contain varves indicating well oxygenation of the upper water column. Monitoring data show that the threshold for hypoxia at the depocenter is a period of five months of [O2] &lt; 5 mgl&#160; &#160;and two months of [O2] &lt; 2 mgl&#160;. Detailed TOC, &#948;13Corg and XRF core scanning analyses of the short cores indicate that the depletion in DO started several decades prior to the varve preservation. This proves a change in the depositional conditions in the lake following a transition phase of several decades during which varve preservation was not accomplished. Furthermore, varve preservation does occur at seasonal stratification and not necessarily requires permanent stratification.</description>
+      <author>Ido Sirota</author>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-835-ac1</guid>
+    </item>
+    <item>
       <title>Enhanced mobility of iron and manganese on mars: Evidence from kinetic experiments and models</title>
       <link>https://doi.org/10.1016/j.chemgeo.2024.122242</link>
       <description>Matt&#233;o Loche, S&#233;bastien Fabre, A. Cousin, Arnaud Proietti, W. Rapin, Benjamin M. Tutolo, Pierre-Yves Meslin, Anissa Benmammar, Foteine Dimitracopoulos, R. C. Wiens, O. Gasnault, Chemical geology. None(None)] 2024. https://openalex.org/W4399986368
@@ -1258,26 +1228,6 @@
       <author>Bo Yu, Xingyu Liu, Shufeng Wu, Heng Yang, Shouyong Zhou, Yang Li, Fang Liu</author>
       <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/catal14070406</guid>
-    </item>
-    <item>
-      <title>Reply on RC1</title>
-      <link>https://doi.org/10.5194/egusphere-2024-835-ac1</link>
-      <description>Ido Sirota, No host. None(None)] 2024. https://openalex.org/W4400037530
-
-                Abstract. The global spread of lake hypoxia, [O2] &lt; 2 mg/l, during the last two centuries has a severe impact on ecological systems and sedimentation processes. While the occurance of hypoxia was observed in many lakes, a detailed quantification of hypoxia spread remained largely unquantified. We track the evolution of hypoxia and its controls during the past 200 yrs in lake Tiefer See (TSK; NE Germany) using 17 gravity cores, recovered between 10 and 62 m water depth in combination with lake monitoring data. Lake hypoxia was associated by the onset of varve preservation in the TSK, and has been dated by varve counting to 1918&#177;1 at 62 m water depth and reached a lake-floor depth of 16 m at 1997&#177;1. This indicates oxygen concentration to fell below the threshold for varve preservation at the lakefloor (&gt;16 m). Sediment cores at 10&#8211;12 m depth do not contain varves indicating well oxygenation of the upper water column. Monitoring data show that the threshold for hypoxia at the depocenter is a period of five months of [O2] &lt; 5 mgl&#160; &#160;and two months of [O2] &lt; 2 mgl&#160;. Detailed TOC, &#948;13Corg and XRF core scanning analyses of the short cores indicate that the depletion in DO started several decades prior to the varve preservation. This proves a change in the depositional conditions in the lake following a transition phase of several decades during which varve preservation was not accomplished. Furthermore, varve preservation does occur at seasonal stratification and not necessarily requires permanent stratification.</description>
-      <author>Ido Sirota</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-835-ac1</guid>
-    </item>
-    <item>
-      <title>Consistency between apatite and zircon petrochronology supports robustness of apatite in fingerprinting igneous processes in porphyry systems</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4524703/v1</link>
-      <description>Hongying Qu, J. V. Rowland, Jingwen Mao, Evan A. Orovan, Michael C. Rowe, Shihua Zhong, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4399979490
-
-                Abstract Apatite low-temperature thermochronology can be double or even triple dated allowing for a reconstruction of the thermal history of rock from ~ 550 oC to near-surface temperatures. Even though it has disadvantageous U&#8211;Th&#8211;Pb contents (high Pb contents and low U and Th contents) and an unstable nature, apatite is still regarded to have the same robustness in fingerprinting igneous processes in porphyry systems as zircon, so far as to be replace zircon. Hence, we systematically studied characteristics of morphology, geochronology and geochemistry of apatite hosted in syenogranite and monzogranite intrusive rocks in the large Hutouya skarn deposit, in order to corroborate its potential thermochronological monitoring capabilities like zircon in fingerprinting igneous processes in porphyry systems. In this study, apatite grains can be subdivided into two types, FI-free Apatite I formed in the early less fractionated magma and FI-rich Apatite II crystallized in the late highly fractionated magma stage. We obtained ages of 229.0 &#177; 6.6 Ma in syenogranite and 224.3 &#177; 4.5 Ma / 223.7 &#177; 3.9 Ma in monzogranite from Apatite I of magmatic origins. Zircon grains in the two granites can be classified into three types. Zircon I is characterized by transparent and bright zones, Zircon II by dark and metamict features, and Zircon III by mineral inclusions. Zircon I grains with a magmatic texture of well-developed bright oscillatory zones, are most likely primary magmatic zircon that crystallized early in the evolution of granitic magma, dating results of which are 224.70 &#177; 0.61 Ma in syenogranite intrusions and 225.75 &#177; 0.66 Ma / 226.31 &#177; 0.78 Ma in monzogranite, respectively. The apatite&#8211;zircon timing is coincident. Furthermore, apatite trace rare earth element contents in the syenogranite and monzogranite intrusions display a negative-slope chondrite-normalized distribution from La to Lu with strong negative Eu anomalies and weak positive Ce anomalies, with major element contents that are statistically identical with enriched F but poor Cl. Zircon trace element compositions in the two intrusions show consistent and steeply increasing chondrite-normalized REE diagrams from La to Lu with negative Eu anomalies and strong positive Ce anomalies. Accordingly, apatite U&#8211;Pb dates and the corresponding in-situ trace element compositions and isotopes can test precise constraints on rock formation ages, temperature, oxygen fugacity, material source, and tectonic background, which can be relatively more robust when used as proxies for magma oxidation state.</description>
-      <author>Hongying Qu, J. V. Rowland, Jingwen Mao, Evan A. Orovan, Michael C. Rowe, Shihua Zhong</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4524703/v1</guid>
     </item>
     <item>
       <title>The liminal position of Nuclear Physics: from hadrons to neutron stars</title>
