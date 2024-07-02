@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Jul  1 01:16:49 2024
+Created on Tue Jul  2 01:09:31 2024
 
-Found 30 results from 2024-06-24 to 2024-07-01
+Found 31 results from 2024-06-25 to 2024-07-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -333,5 +333,16 @@ Open access: True
 [Yueh-Hua Liu](https://openalex.org/A5001919512), [Hon‐Chung Tsui](https://openalex.org/A5056094613), [Pei-Hsuan Chien](https://openalex.org/A5012113150), [Chien‐Tien Chen](https://openalex.org/A5057207103), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02460.
     
 No abstract    
+
+    
+
+## Programmable Wet-Interfacial Joule Heating to Rapidly Synthesize Metastable Protohematite Photoanodes: Metal and Lattice Oxygen Dual Sites for Improving Water Oxidation   
+
+OpenAlex: https://openalex.org/W4400166207    
+Open access: False
+    
+[Jiujun Deng](https://openalex.org/A5059266064), [Guoqing Li](https://openalex.org/A5031741004), [Dongpeng Yan](https://openalex.org/A5025750937), [Wei Zhang](https://openalex.org/A5027497777), [Kun Feng](https://openalex.org/A5019954363), [Kaiqi Nie](https://openalex.org/A5032967714), [Changhai Liu](https://openalex.org/A5061140879), [Xiaoxin Lv](https://openalex.org/A5087451921), [Jun Zhong](https://openalex.org/A5010968064), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02690.
+    
+High-temperature sintering is critical for efficient hematite photoanodes in terms of improving the crystallinity and minimizing deficiencies. However, prolonged conventional furnace annealing requires high energy consumption and simultaneously results in serious damage to the transparent conducting oxide (TCO) substrate. This work demonstrates a universal wet-interfacial Joule heating strategy for rapidly synthesizing high-performance metastable protohematite photoanodes, which greatly decreases the power consumption and causes less damage to the TCO substrate by shortening the sintering time to ∼90 s. More importantly, the protohematite phase was found to effectively facilitate the charge dynamics in the bulk and surface of the as-resulting photoanode by increasing donor density and lowering the oxygen evolution reaction overpotential via offering dual active sites (lattice oxygen and Fe sites). Moreover, this annealing strategy could be well coupled with commonly used Ti-treatment to achieve a further performance enhancement and also shows high feasibility in rapidly fabricating efficient TiO2 and BiVO4 photoanodes. This study opens a facile, rapid, and reliable approach for fabricating efficient metal oxide photoanodes, contributing to the development of photoelectrochemical water splitting.    
 
     

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Jul 2024 01:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 01:09:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -22,7 +22,7 @@
       <link>https://doi.org/10.1021/jacs.4c06868</link>
       <description>Anish Rao, Ana S&#225;nchez Iglesias, Marek Grzelczak, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400107876
 
-                No abstract</description>
+                Periodic responses to nonperiodic energy inputs, such as oscillations, are hallmarks of living systems. Nanoparticle-based systems have largely remained unexplored in the generation of oscillatory features. Here, we demonstrate a nanosystem featuring hierarchical response to light, where thermoplasmonic effects and reversible DNA-hybridization generate thermal convective forces and ultimately, oscillatory hydrodynamic flows. The slow aggregation of gold nanoparticles (AuNPs) serves as a positive feedback, while fast photothermal disassembly acts as negative feedback. These asymmetric feedback loops, combined with thermal hysteresis for time-delay, are essential ingredients for orchestrating an oscillating response.</description>
       <author>Anish Rao, Ana S&#225;nchez Iglesias, Marek Grzelczak</author>
       <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c06868</guid>

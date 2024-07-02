@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Jul 2024 01:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 01:09:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -306,6 +306,16 @@
       <author>Yueh-Hua Liu, Hon&#8208;Chung Tsui, Pei-Hsuan Chien, Chien&#8208;Tien Chen</author>
       <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02460</guid>
+    </item>
+    <item>
+      <title>Programmable Wet-Interfacial Joule Heating to Rapidly Synthesize Metastable Protohematite Photoanodes: Metal and Lattice Oxygen Dual Sites for Improving Water Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02690</link>
+      <description>Jiujun Deng, Guoqing Li, Dongpeng Yan, Wei Zhang, Kun Feng, Kaiqi Nie, Changhai Liu, Xiaoxin Lv, Jun Zhong, ACS catalysis. None(None)] 2024. https://openalex.org/W4400166207
+
+                High-temperature sintering is critical for efficient hematite photoanodes in terms of improving the crystallinity and minimizing deficiencies. However, prolonged conventional furnace annealing requires high energy consumption and simultaneously results in serious damage to the transparent conducting oxide (TCO) substrate. This work demonstrates a universal wet-interfacial Joule heating strategy for rapidly synthesizing high-performance metastable protohematite photoanodes, which greatly decreases the power consumption and causes less damage to the TCO substrate by shortening the sintering time to &#8764;90 s. More importantly, the protohematite phase was found to effectively facilitate the charge dynamics in the bulk and surface of the as-resulting photoanode by increasing donor density and lowering the oxygen evolution reaction overpotential via offering dual active sites (lattice oxygen and Fe sites). Moreover, this annealing strategy could be well coupled with commonly used Ti-treatment to achieve a further performance enhancement and also shows high feasibility in rapidly fabricating efficient TiO2 and BiVO4 photoanodes. This study opens a facile, rapid, and reliable approach for fabricating efficient metal oxide photoanodes, contributing to the development of photoelectrochemical water splitting.</description>
+      <author>Jiujun Deng, Guoqing Li, Dongpeng Yan, Wei Zhang, Kun Feng, Kaiqi Nie, Changhai Liu, Xiaoxin Lv, Jun Zhong</author>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02690</guid>
     </item>
   </channel>
 </rss>

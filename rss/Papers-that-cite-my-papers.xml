@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Jul 2024 01:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 01:09:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -372,7 +372,7 @@
       <link>https://doi.org/10.1126/sciadv.ado4390</link>
       <description>Gaohong Zhai, Lejuan Cai, Jun Ma, Yihong Chen, Zehua Liu, Shenghe Si, Delong Duan, Shuaikang Sang, Jiawei Li, Xinyu Wang, Ying-Ao Liu, Bei Qian, Chengyuan Liu, Yang Pan, Ning Zhang, Dong Liu, Ran Long, Yujie Xiong, Science advances. 10(26)] 2024. https://openalex.org/W4400113120
 
-                Light-driven oxidative coupling of methane (OCM) for multi-carbon (C 2+ ) product evolution is a promising approach toward the sustainable production of value-added chemicals, yet remains challenging due to its low intrinsic activity. Here, we demonstrate the integration of bismuth oxide (BiO x ) and gold (Au) on titanium dioxide (TiO 2 ) substrate to achieve a high conversion rate, product selectivity, and catalytic durability toward photocatalytic OCM through rational catalytic site engineering. Mechanistic investigations reveal that the lattice oxygen in BiO x is effectively activated as the localized oxidant to promote methane dissociation, while Au governs the methyl transfer to avoid undesirable overoxidation and promote carbon&#9472;carbon coupling. The optimal Au/BiO x -TiO 2 hybrid delivers a conversion rate of 20.8 millimoles per gram per hour with C 2+ product selectivity high to 97% in the flow reactor. More specifically, the veritable participation of lattice oxygen during OCM is chemically looped by introduced dioxygen via the Mars-van Krevelen mechanism, endowing superior catalyst stability.</description>
+                Light-driven oxidative coupling of methane (OCM) for multi-carbon (C</description>
       <author>Gaohong Zhai, Lejuan Cai, Jun Ma, Yihong Chen, Zehua Liu, Shenghe Si, Delong Duan, Shuaikang Sang, Jiawei Li, Xinyu Wang, Ying-Ao Liu, Bei Qian, Chengyuan Liu, Yang Pan, Ning Zhang, Dong Liu, Ran Long, Yujie Xiong</author>
       <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1126/sciadv.ado4390</guid>
@@ -442,7 +442,7 @@
       <link>https://doi.org/10.1021/acs.jpcc.4c01308</link>
       <description>Andrew N. Okafor, William A. Shelton, Ye Xu, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400145700
 
-                No abstract</description>
+                The bulk properties and surface chemical reactivity of compositionally disordered Pt&#8211;Fe and Pt&#8211;Co alloys in the fcc A1 phase have been investigated theoretically in comparison to the ordered alloys of the same compositions. The results are analyzed together with our previously reported findings for Pt&#8211;Ni. Nonlinear variation is observed in lattice constant, d band center, magnetic moment, and hydrogen adsorption energy across the composition range (0&#8211;100 atomic % of Pt, xPt). The Pt 5d states are strongly perturbed by the 3d states of the base metals, leading to notable density of states above the Fermi level and residual magnetic moments at high xPt. Surface reactivity in terms of average H adsorption energy varies continuously with composition between the monometallic Fe&#8211;Pt and Co&#8211;Pt limits, going through a maximum around xPt = 0.5&#8211;0.75. Close inspection reveals a significant variation in site reactivity at xPt &lt; 0.75, particularly with disordered Pt&#8211;Fe alloys due in part to the inherent disparity in chemical reactivity between Fe and Pt. Furthermore, the strong interaction between Fe and Pt causes Pt-rich sites to be less reactive toward H than Pt-rich sites on disordered Pt&#8211;Ni alloy surfaces, despite less compressive strain caused. These results provide theoretical underpinnings for conceptualizing and understanding the performance of these Pt-base metal alloys in key catalytic applications and for efforts to tailor Pt-alloys as catalysts.</description>
       <author>Andrew N. Okafor, William A. Shelton, Ye Xu</author>
       <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01308</guid>
@@ -452,7 +452,7 @@
       <link>https://doi.org/10.1021/acs.jpcc.4c01630</link>
       <description>Yang Huang, Shih&#8208;Han Wang, Xiangrui Wang, Noushin Omidvar, Luke E.K. Achenie, Sara E. Skrabalak, Hongliang Xin, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400147811
 
-                No abstract</description>
+                High-entropy alloys (HEAs), characterized as compositionally complex solid solutions with five or more metal elements, have emerged as a novel class of catalytic materials with unique attributes. Because of the remarkable diversity of multielement sites or site ensembles stabilized by configurational entropy, human exploration of the multidimensional design space of HEAs presents a formidable challenge, necessitating an efficient, computational and data-driven strategy over traditional trial-and-error experimentation or physics-based modeling. Leveraging deep learning interatomic potentials for large-scale molecular simulations and pretrained machine learning models of surface reactivity, our approach effectively rationalizes the enhanced activity of a previously synthesized PdCuPtNiCo HEA nanoparticle system for electrochemical oxygen reduction, as corroborated by experimental observations. We contend that this framework deepens our fundamental understanding of the surface reactivity of high-entropy materials and fosters the accelerated development and synthesis of monodisperse HEA nanoparticles as a versatile material platform for catalyzing sustainable chemical and energy transformations.</description>
       <author>Yang Huang, Shih&#8208;Han Wang, Xiangrui Wang, Noushin Omidvar, Luke E.K. Achenie, Sara E. Skrabalak, Hongliang Xin</author>
       <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01630</guid>
