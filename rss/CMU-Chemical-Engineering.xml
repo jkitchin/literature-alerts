@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Jul 2024 01:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 01:09:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Logic-Based Outer Approximation</title>
-      <link>https://doi.org/10.1007/978-3-030-54621-2_348-1</link>
-      <description>Ignacio E. Grossmann, Springer eBooks. None(None)] 2024. https://openalex.org/W4399940117
-
-                No abstract</description>
-      <author>Ignacio E. Grossmann</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_348-1</guid>
-    </item>
-    <item>
-      <title>MINLP: Logic-Based Methods</title>
-      <link>https://doi.org/10.1007/978-3-030-54621-2_383-1</link>
-      <description>Ignacio E. Grossmann, Springer eBooks. None(None)] 2024. https://openalex.org/W4399940165
-
-                No abstract</description>
-      <author>Ignacio E. Grossmann</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_383-1</guid>
-    </item>
-    <item>
-      <title>Interactions of peroxy radicals from monoterpene and isoprene oxidation simulated in the radical Volatility Basis Set</title>
-      <link>https://doi.org/10.1039/d4ea00056k</link>
-      <description>Meredith Schervish, Martin Heinritzi, Dominik Stolzenburg, Lubna Dada, Mingyi Wang, Qing Ye, Victoria Hofbauer, Jenna DeVivo, Federico Bianchi, Sophia Brilke, Jonathan Duplissy, Imad El Haddad, Henning Finkenzeller, Xu&#8208;Cheng He, A. N. Kvashnin, Changhyuk Kim, J. Kirkby, Markku Kulmala, Katrianne Lehtipalo, Brandon Lopez, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Bernhard Mentler, Ugo Molteni, Wei Nie, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Rainer Volkamer, Andrea C. Wagner, Paul M. Winkler, Chao Yan, Neil M. Donahue, Environmental science. Atmospheres. None(None)] 2024. https://openalex.org/W4399971674
-
-                Isoprene affects new particle formation rates in environments and experiments also containing monoterpenes. For the most part, isoprene reduces particle formation rates, but the reason is debated. It is proposed...</description>
-      <author>Meredith Schervish, Martin Heinritzi, Dominik Stolzenburg, Lubna Dada, Mingyi Wang, Qing Ye, Victoria Hofbauer, Jenna DeVivo, Federico Bianchi, Sophia Brilke, Jonathan Duplissy, Imad El Haddad, Henning Finkenzeller, Xu&#8208;Cheng He, A. N. Kvashnin, Changhyuk Kim, J. Kirkby, Markku Kulmala, Katrianne Lehtipalo, Brandon Lopez, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Bernhard Mentler, Ugo Molteni, Wei Nie, Tuukka Pet&#228;j&#228;, Lauriane L. J. Qu&#233;l&#233;ver, Rainer Volkamer, Andrea C. Wagner, Paul M. Winkler, Chao Yan, Neil M. Donahue</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00056k</guid>
-    </item>
-    <item>
-      <title>Recycling Rare Earth Elements from End-of-Life Electric and Hybrid Electric Vehicle Motors</title>
-      <link>https://doi.org/10.1016/b978-0-443-28824-1.50219-2</link>
-      <description>Chris Laliwala, Ana I. Torres, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4399991313
-
-                No abstract</description>
-      <author>Chris Laliwala, Ana I. Torres</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50219-2</guid>
-    </item>
     <item>
       <title>Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence Models</title>
       <link>https://doi.org/10.2139/ssrn.4873106</link>
@@ -80,10 +40,10 @@
     <item>
       <title>Multi-Objective Optimization of the Renewable Methanol for a Defossilized Production</title>
       <link>https://doi.org/10.1016/b978-0-443-28824-1.50360-4</link>
-      <description>Javier Fern&#225;ndez-G&#243;nzalez, Marta Rumayor, Jara Laso-Cortabitarte, Antonio Dominguez&#8208;Ramos, &#193;ngel Irabien, Ignacio E. Grossmann, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032411
+      <description>Javier Fern&#225;ndez-G&#243;nzalez, Marta Rumayor, Jara Laso-Cortabitarte, Antonio Dom&#237;nguez-Ramos, &#193;ngel Irabien, Ignacio E. Grossmann, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032411
 
                 No abstract</description>
-      <author>Javier Fern&#225;ndez-G&#243;nzalez, Marta Rumayor, Jara Laso-Cortabitarte, Antonio Dominguez&#8208;Ramos, &#193;ngel Irabien, Ignacio E. Grossmann</author>
+      <author>Javier Fern&#225;ndez-G&#243;nzalez, Marta Rumayor, Jara Laso-Cortabitarte, Antonio Dom&#237;nguez-Ramos, &#193;ngel Irabien, Ignacio E. Grossmann</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50360-4</guid>
     </item>

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Jul 2024 01:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 01:09:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selective Hydrogenation of Quinizarins to Leuco-quinizarins and Their Direct Derivatization Using Flow-Batch-Separator Unified Reactors under Continuous-Flow Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.4c02955</link>
-      <description>Hiroyuki Miyamura, Aditya Sharma, Masasuke Takata, Rokuro Kajiyama, Shu&#773; Kobayashi, Yoshihiro Kon, ACS catalysis. None(None)] 2024. https://openalex.org/W4399933284
-
-                Anthraquinone derivatives are classes of compounds employed in the production of valuable materials. Leuco-quinizarin, the 2-electron-reduced form of quinizarin (1,4-dihydroxy-anthraquinone), is a highly active and useful reactant for the synthesis of variety of anthraquinone derivatives. However, conventional methods of leuco-quinizarin synthesis require stoichiometric amounts of inorganic reductants and acids or bases. We developed Pt/DMPSi-Al2O3 and Pt-Ni/DMPSi-Al2O3 as highly active and selective heterogeneous catalysts for the hydrogenation of quinizarins to leuco-quinizarins under neutral and continuous-flow conditions. Remarkably, bimetallic effects of Ni and Pt nanoparticle systems were highlighted in the selective hydrogenation of the substituted quinizarin. In addition, the continuous-flow synthesis of leuco-quinizarin and its derivatization reaction were integrated to be a fully continuous process using flow-batch-separator unified reactors.</description>
-      <author>Hiroyuki Miyamura, Aditya Sharma, Masasuke Takata, Rokuro Kajiyama, Shu&#773; Kobayashi, Yoshihiro Kon</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02955</guid>
-    </item>
-    <item>
-      <title>Hexa-Fe(III) Carboxylate Complexes Facilitate Aerobic Hydrocarbon Oxidative Functionalization: Rh Catalyzed Oxidative Coupling of Benzene and Ethylene to Form Styrene</title>
-      <link>https://doi.org/10.1021/acscatal.4c02355</link>
-      <description>Marc T. Bennett, K. Park, Charles B. Musgrave, Jack W. Brubaker, Diane A. Dickie, William A. Goddard, T. Brent Gunnoe, ACS catalysis. None(None)] 2024. https://openalex.org/W4399938552
-
-                No abstract</description>
-      <author>Marc T. Bennett, K. Park, Charles B. Musgrave, Jack W. Brubaker, Diane A. Dickie, William A. Goddard, T. Brent Gunnoe</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02355</guid>
-    </item>
-    <item>
-      <title>Synergy between Br&#248;nsted Acid Sites and Carbonaceous Deposits during Skeletal 1-Butene Isomerization over Ferrierite</title>
-      <link>https://doi.org/10.1021/acscatal.4c01898</link>
-      <description>Karoline L. Hebisch, Risha Goel, Kinga Go&#322;&#261;&#808;bek, Pawel A. Chmielniak, Carsten Sievers, ACS catalysis. None(None)] 2024. https://openalex.org/W4399970689
-
-                No abstract</description>
-      <author>Karoline L. Hebisch, Risha Goel, Kinga Go&#322;&#261;&#808;bek, Pawel A. Chmielniak, Carsten Sievers</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01898</guid>
-    </item>
-    <item>
-      <title>Micellar N-Heterocyclic Carbene-like Organic Catalysis from Polymeric Nanoreactors Immobilizing Benzimidazolium Acetate Motifs in Their Core</title>
-      <link>https://doi.org/10.1021/acscatal.4c00259</link>
-      <description>Anne-Laure Wirotius, Romain Lambert, Thomas Dard&#233;, Simon Harrisson, Daniel Taton, ACS catalysis. None(None)] 2024. https://openalex.org/W4399977853
-
-                No abstract</description>
-      <author>Anne-Laure Wirotius, Romain Lambert, Thomas Dard&#233;, Simon Harrisson, Daniel Taton</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00259</guid>
-    </item>
     <item>
       <title>Selective Electroreduction of CO&lt;sub&gt;2&lt;/sub&gt; to C&lt;sub&gt;2+&lt;/sub&gt; Alcohols Using Graphitic Frustrated Lewis Pair Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.3c04275</link>
@@ -316,6 +276,36 @@
       <author>Jiujun Deng, Guoqing Li, Dongpeng Yan, Wei Zhang, Kun Feng, Kaiqi Nie, Changhai Liu, Xiaoxin Lv, Jun Zhong</author>
       <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02690</guid>
+    </item>
+    <item>
+      <title>Biocatalytic Construction of Spiro-Oxazolidinones via Halohydrin Dehalogenase-Catalyzed Ring Expansion of Spiro-Epoxides</title>
+      <link>https://doi.org/10.1021/acscatal.4c02122</link>
+      <description>Jin-Mei Ma, Yuanfei Wang, Run&#8208;Ping Miao, Xiao Ling Jin, Huihui Wang, Yong&#8208;Zheng Chen, Nan&#8208;Wei Wan, ACS catalysis. None(None)] 2024. https://openalex.org/W4400205640
+
+                No abstract</description>
+      <author>Jin-Mei Ma, Yuanfei Wang, Run&#8208;Ping Miao, Xiao Ling Jin, Huihui Wang, Yong&#8208;Zheng Chen, Nan&#8208;Wei Wan</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02122</guid>
+    </item>
+    <item>
+      <title>Mechanistic Insights into the Selective C&#8211;S Bond Formation by P450 TleB</title>
+      <link>https://doi.org/10.1021/acscatal.4c03328</link>
+      <description>Huiyuan Gao, Yongzhe Fan, Xiaozhou He, Xiaogang Peng, Zhen Li, Yao Zheng, Shengfu Ji, Long&#8208;Wu Ye, Aitao Li, Binju Wang, Jing Zhao, ACS catalysis. None(None)] 2024. https://openalex.org/W4400212769
+
+                No abstract</description>
+      <author>Huiyuan Gao, Yongzhe Fan, Xiaozhou He, Xiaogang Peng, Zhen Li, Yao Zheng, Shengfu Ji, Long&#8208;Wu Ye, Aitao Li, Binju Wang, Jing Zhao</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03328</guid>
+    </item>
+    <item>
+      <title>Tuning the Size of TiO&lt;sub&gt;2&lt;/sub&gt;-Supported Co Nanoparticle Fischer&#8211;Tropsch Catalysts Using Mn Additions</title>
+      <link>https://doi.org/10.1021/acscatal.4c02721</link>
+      <description>M. W. Lindley, P. V. Stishenko, James W. M. Crawley, Fred Tinkamanyire, Matthew D. Smith, James Paterson, Mark Peacock, Zhuoran Xu, Christopher Hardacre, Alex S. Walton, Andrew J. Logsdail, Sarah J. Haigh, ACS catalysis. None(None)] 2024. https://openalex.org/W4400213310
+
+                No abstract</description>
+      <author>M. W. Lindley, P. V. Stishenko, James W. M. Crawley, Fred Tinkamanyire, Matthew D. Smith, James Paterson, Mark Peacock, Zhuoran Xu, Christopher Hardacre, Alex S. Walton, Andrew J. Logsdail, Sarah J. Haigh</author>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02721</guid>
     </item>
   </channel>
 </rss>

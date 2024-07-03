@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Jul  2 01:09:31 2024
+Created on Wed Jul  3 01:09:14 2024
 
-Found 31 results from 2024-06-25 to 2024-07-02
+Found 30 results from 2024-06-26 to 2024-07-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Hydrogenation of Quinizarins to Leuco-quinizarins and Their Direct Derivatization Using Flow-Batch-Separator Unified Reactors under Continuous-Flow Conditions   
-
-OpenAlex: https://openalex.org/W4399933284    
-Open access: True
-    
-[Hiroyuki Miyamura](https://openalex.org/A5088285820), [Aditya Sharma](https://openalex.org/A5082440766), [Masasuke Takata](https://openalex.org/A5000298674), [Rokuro Kajiyama](https://openalex.org/A5041947507), [Shu̅ Kobayashi](https://openalex.org/A5049553063), [Yoshihiro Kon](https://openalex.org/A5066414781), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02955 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02955)).
-    
-Anthraquinone derivatives are classes of compounds employed in the production of valuable materials. Leuco-quinizarin, the 2-electron-reduced form of quinizarin (1,4-dihydroxy-anthraquinone), is a highly active and useful reactant for the synthesis of variety of anthraquinone derivatives. However, conventional methods of leuco-quinizarin synthesis require stoichiometric amounts of inorganic reductants and acids or bases. We developed Pt/DMPSi-Al2O3 and Pt-Ni/DMPSi-Al2O3 as highly active and selective heterogeneous catalysts for the hydrogenation of quinizarins to leuco-quinizarins under neutral and continuous-flow conditions. Remarkably, bimetallic effects of Ni and Pt nanoparticle systems were highlighted in the selective hydrogenation of the substituted quinizarin. In addition, the continuous-flow synthesis of leuco-quinizarin and its derivatization reaction were integrated to be a fully continuous process using flow-batch-separator unified reactors.    
-
-    
-
-## Hexa-Fe(III) Carboxylate Complexes Facilitate Aerobic Hydrocarbon Oxidative Functionalization: Rh Catalyzed Oxidative Coupling of Benzene and Ethylene to Form Styrene   
-
-OpenAlex: https://openalex.org/W4399938552    
-Open access: True
-    
-[Marc T. Bennett](https://openalex.org/A5056362371), [K. Park](https://openalex.org/A5068505755), [Charles B. Musgrave](https://openalex.org/A5087057269), [Jack W. Brubaker](https://openalex.org/A5099431706), [Diane A. Dickie](https://openalex.org/A5019581925), [William A. Goddard](https://openalex.org/A5035627473), [T. Brent Gunnoe](https://openalex.org/A5017765544), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02355.
-    
-No abstract    
-
-    
-
-## Synergy between Brønsted Acid Sites and Carbonaceous Deposits during Skeletal 1-Butene Isomerization over Ferrierite   
-
-OpenAlex: https://openalex.org/W4399970689    
-Open access: True
-    
-[Karoline L. Hebisch](https://openalex.org/A5025006045), [Risha Goel](https://openalex.org/A5038314713), [Kinga Gołą̨bek](https://openalex.org/A5059240584), [Pawel A. Chmielniak](https://openalex.org/A5093007599), [Carsten Sievers](https://openalex.org/A5088976109), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01898.
-    
-No abstract    
-
-    
-
-## Micellar N-Heterocyclic Carbene-like Organic Catalysis from Polymeric Nanoreactors Immobilizing Benzimidazolium Acetate Motifs in Their Core   
-
-OpenAlex: https://openalex.org/W4399977853    
-Open access: False
-    
-[Anne-Laure Wirotius](https://openalex.org/A5003736750), [Romain Lambert](https://openalex.org/A5058862047), [Thomas Dardé](https://openalex.org/A5099437929), [Simon Harrisson](https://openalex.org/A5010776490), [Daniel Taton](https://openalex.org/A5013580225), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00259.
-    
-No abstract    
-
-    
 
 ## Selective Electroreduction of CO2 to C2+ Alcohols Using Graphitic Frustrated Lewis Pair Catalyst   
 
@@ -344,5 +300,38 @@ Open access: False
 [Jiujun Deng](https://openalex.org/A5059266064), [Guoqing Li](https://openalex.org/A5031741004), [Dongpeng Yan](https://openalex.org/A5025750937), [Wei Zhang](https://openalex.org/A5027497777), [Kun Feng](https://openalex.org/A5019954363), [Kaiqi Nie](https://openalex.org/A5032967714), [Changhai Liu](https://openalex.org/A5061140879), [Xiaoxin Lv](https://openalex.org/A5087451921), [Jun Zhong](https://openalex.org/A5010968064), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02690.
     
 High-temperature sintering is critical for efficient hematite photoanodes in terms of improving the crystallinity and minimizing deficiencies. However, prolonged conventional furnace annealing requires high energy consumption and simultaneously results in serious damage to the transparent conducting oxide (TCO) substrate. This work demonstrates a universal wet-interfacial Joule heating strategy for rapidly synthesizing high-performance metastable protohematite photoanodes, which greatly decreases the power consumption and causes less damage to the TCO substrate by shortening the sintering time to ∼90 s. More importantly, the protohematite phase was found to effectively facilitate the charge dynamics in the bulk and surface of the as-resulting photoanode by increasing donor density and lowering the oxygen evolution reaction overpotential via offering dual active sites (lattice oxygen and Fe sites). Moreover, this annealing strategy could be well coupled with commonly used Ti-treatment to achieve a further performance enhancement and also shows high feasibility in rapidly fabricating efficient TiO2 and BiVO4 photoanodes. This study opens a facile, rapid, and reliable approach for fabricating efficient metal oxide photoanodes, contributing to the development of photoelectrochemical water splitting.    
+
+    
+
+## Biocatalytic Construction of Spiro-Oxazolidinones via Halohydrin Dehalogenase-Catalyzed Ring Expansion of Spiro-Epoxides   
+
+OpenAlex: https://openalex.org/W4400205640    
+Open access: False
+    
+[Jin-Mei Ma](https://openalex.org/A5039030625), [Yuanfei Wang](https://openalex.org/A5008565530), [Run‐Ping Miao](https://openalex.org/A5031019455), [Xiao Ling Jin](https://openalex.org/A5058660872), [Huihui Wang](https://openalex.org/A5033076947), [Yong‐Zheng Chen](https://openalex.org/A5021112473), [Nan‐Wei Wan](https://openalex.org/A5086122647), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02122.
+    
+No abstract    
+
+    
+
+## Mechanistic Insights into the Selective C–S Bond Formation by P450 TleB   
+
+OpenAlex: https://openalex.org/W4400212769    
+Open access: False
+    
+[Huiyuan Gao](https://openalex.org/A5009535452), [Yongzhe Fan](https://openalex.org/A5050888986), [Xiaozhou He](https://openalex.org/A5047701629), [Xiaogang Peng](https://openalex.org/A5082505204), [Zhen Li](https://openalex.org/A5087671472), [Yao Zheng](https://openalex.org/A5013084334), [Shengfu Ji](https://openalex.org/A5025757361), [Long‐Wu Ye](https://openalex.org/A5023229525), [Aitao Li](https://openalex.org/A5087131065), [Binju Wang](https://openalex.org/A5091278358), [Jing Zhao](https://openalex.org/A5040614582), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03328.
+    
+No abstract    
+
+    
+
+## Tuning the Size of TiO2-Supported Co Nanoparticle Fischer–Tropsch Catalysts Using Mn Additions   
+
+OpenAlex: https://openalex.org/W4400213310    
+Open access: True
+    
+[M. W. Lindley](https://openalex.org/A5028697372), [P. V. Stishenko](https://openalex.org/A5091287939), [James W. M. Crawley](https://openalex.org/A5088551934), [Fred Tinkamanyire](https://openalex.org/A5099786711), [Matthew D. Smith](https://openalex.org/A5021473664), [James Paterson](https://openalex.org/A5054631377), [Mark Peacock](https://openalex.org/A5091662706), [Zhuoran Xu](https://openalex.org/A5052567080), [Christopher Hardacre](https://openalex.org/A5073532203), [Alex S. Walton](https://openalex.org/A5073502453), [Andrew J. Logsdail](https://openalex.org/A5064011663), [Sarah J. Haigh](https://openalex.org/A5080752278), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02721.
+    
+No abstract    
 
     
