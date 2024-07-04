@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Jul 2024 01:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 01:09:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Prioritizing High-Consequence Biological Capabilities in Evaluations of Artificial Intelligence Models</title>
-      <link>https://doi.org/10.2139/ssrn.4873106</link>
-      <description>Jaspreet Pannu, D. Shaun Bloomfield, Aibin Zhu, Robert MacKnight, Gabriel Gomes, Anita Cicero, Thomas V. Inglesby, No host. None(None)] 2024. https://openalex.org/W4400015840
-
-                No abstract</description>
-      <author>Jaspreet Pannu, D. Shaun Bloomfield, Aibin Zhu, Robert MacKnight, Gabriel Gomes, Anita Cicero, Thomas V. Inglesby</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4873106</guid>
-    </item>
     <item>
       <title>A Convexication-based Outer-approximation Method for Convex and Nonconvex MINLP</title>
       <link>https://doi.org/10.1016/b978-0-443-28824-1.50536-6</link>

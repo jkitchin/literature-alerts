@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jul  3 01:09:14 2024
+Created on Thu Jul  4 01:09:32 2024
 
-Found 30 results from 2024-06-26 to 2024-07-03
+Found 26 results from 2024-06-27 to 2024-07-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Electroreduction of CO2 to C2+ Alcohols Using Graphitic Frustrated Lewis Pair Catalyst   
-
-OpenAlex: https://openalex.org/W4399993700    
-Open access: False
-    
-[Hyun-Tak Kim](https://openalex.org/A5086648460), [Jaehyun Park](https://openalex.org/A5051774170), [Jinhong Mun](https://openalex.org/A5055820201), [HyeonOh Shin](https://openalex.org/A5032262963), [Deok‐Ho Roh](https://openalex.org/A5012427118), [Junhyeok Kwon](https://openalex.org/A5027955016), [Sung‐Tae Kim](https://openalex.org/A5055245414), [Sang-Joon Kim](https://openalex.org/A5013208341), [Geunsik Lee](https://openalex.org/A5057681381), [Seok Ju Kang](https://openalex.org/A5065647939), [Tae‐Hyuk Kwon](https://openalex.org/A5046785997), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04275.
-    
-No abstract    
-
-    
-
-## Efficient and Stable Production of Long-Chain Hydrocarbons over Hydrophobic Carbon-Encapsulated TiO2-Supported Ru Catalyst in Fischer–Tropsch Synthesis   
-
-OpenAlex: https://openalex.org/W4400000990    
-Open access: False
-    
-[Yunhao Liu](https://openalex.org/A5070071735), [Xincheng Li](https://openalex.org/A5067943858), [Qingpeng Cheng](https://openalex.org/A5068697796), [Ye Tian](https://openalex.org/A5054278618), [Yingtian Zhang](https://openalex.org/A5034511665), [Tao Ding](https://openalex.org/A5022960964), [Song Song](https://openalex.org/A5067783441), [Kepeng Song](https://openalex.org/A5005078126), [Xingang Li](https://openalex.org/A5014659532), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02979.
-    
-No abstract    
-
-    
-
-## Alleviating Charge Recombination Caused by Unfavorable interaction of P and Sn in Hematite for Photoelectrochemical Water Oxidation   
-
-OpenAlex: https://openalex.org/W4400001152    
-Open access: False
-    
-[Ji-Hun Kang](https://openalex.org/A5064374729), [Balaji G. Ghule](https://openalex.org/A5029152694), [Seung Gyu Gyeong](https://openalex.org/A5099472105), [Seong‐Ji Ha](https://openalex.org/A5021707167), [Ji‐Hyun Jang](https://openalex.org/A5046112894), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01150.
-    
-No abstract    
-
-    
-
-## A Three-Dimensional Azo-Bridged Porous Porphyrin Framework Supported Silver Nanoparticles as the State-of-the-Art Catalyst for the Carboxylative Cyclization of Propargylic Alcohols with CO2 under Ambient Conditions   
-
-OpenAlex: https://openalex.org/W4400002724    
-Open access: False
-    
-[Yiying Yang](https://openalex.org/A5064527610), [Yingyin Li](https://openalex.org/A5053287022), [Yinghua Lu](https://openalex.org/A5026623896), [Zhiyuan Chen](https://openalex.org/A5074754590), [Rongchang Luo](https://openalex.org/A5001319369), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02391.
-    
-No abstract    
-
-    
-
-## Electrochemical NADH Regeneration Mediated by Pyridine Amidate Iridium Complexes Interconverting 1,4- and 1,6-NADH   
-
-OpenAlex: https://openalex.org/W4400007176    
-Open access: False
-    
-[Caterina Trotta](https://openalex.org/A5043309794), [Gabriel Menendez Rodriguez](https://openalex.org/A5052592745), [Cristiano Zuccaccia](https://openalex.org/A5062509948), [Alceo Macchioni](https://openalex.org/A5046771754), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02548.
-    
-No abstract    
-
-    
-
-## Enhancing CO2 Electroreduction Performance through Si-Doped CuO: Stabilization of Cu+/Cu0 Sites and Improved C2 Product Selectivity   
-
-OpenAlex: https://openalex.org/W4400010017    
-Open access: False
-    
-[Long Cheng](https://openalex.org/A5062964912), [Rong Wang](https://openalex.org/A5034037107), [Wenzhe Si](https://openalex.org/A5065039738), [Yanxi Deng](https://openalex.org/A5043647024), [Junhua Li](https://openalex.org/A5044717730), [Yue Peng](https://openalex.org/A5063483273), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01961.
-    
-No abstract    
-
-    
-
-## Mass-Transfer Enhancement in the CO2 Oxidative Dehydrogenation of Propane over GaN Supported on Zeolite Nanosheets with a Short b-Axis and Hierarchical Pores   
-
-OpenAlex: https://openalex.org/W4400019116    
-Open access: False
-    
-[Zhan‐Jun Zhu](https://openalex.org/A5012021917), [Zhen‐Hong He](https://openalex.org/A5090737269), [Yajie Tian](https://openalex.org/A5080899164), [Sen-Wang Wang](https://openalex.org/A5076886276), [Yongchang Sun](https://openalex.org/A5028746034), [Kuan Wang](https://openalex.org/A5054296228), [Weitao Wang](https://openalex.org/A5040760076), [Zhifang Zhang](https://openalex.org/A5047819189), [Jiajie Liu](https://openalex.org/A5044887427), [Zhao‐Tie Liu](https://openalex.org/A5027821063), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02599.
-    
-The CO2 oxidative dehydrogenation of propane (CO2–ODHP) is a highly important reaction for not only producing large amounts of propylene but also consuming the CO2 resource. GaN/zeolite catalysts deliver preferable activity in the reaction. However, similar to Pt- and Cr-based catalysts, there are shortcomings such as poor stability and coke accumulation, especially when operated at temperatures higher than 550 °C. Generally, carbon deposition is one of the main reasons for catalyst deactivation. The limited mass transfer greatly aggravates the deposited carbon formation, since carbon precursors could not be removed in time. In the present work, we modified zeolites with a short b-axis and hierarchical pores, which could offer a shorter diffusion distance and pore-rich structure to enhance the mass transfer. Thanks to this enhancement, the catalyst offers an initial propane conversion of 68.0% with a yield of 39.4% to propylene, surpassing other reported GaN/zeolite catalysts to data. Importantly, the catalyst showed a low loss rate of activity and a low amount of deposited carbon, which was easily regenerated compared with those of other catalysts without a short b-axis or hierarchical pores. Density functional theory (DFT) calculations and in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) confirmed that the reaction involves a coupling reaction of direct dehydrogenation and CO2 reduction via reverse water–gas shift reaction, and CO2 participates in the reaction. The present work sheds light on designing an efficient catalyst for CO2–ODHP via a mass transfer-boosted strategy and, importantly, is expected to provide inspiration in constructing a zeolite with a short b-axis and hierarchical pores.    
-
-    
 
 ## Substrate Turnover Dynamics Guide Ketol-Acid Reductoisomerase Redesign for Increased Specific Activity   
 
@@ -123,7 +46,7 @@ Open access: False
     
 [Zizhan Liang](https://openalex.org/A5085895064), [Xinao Li](https://openalex.org/A5049549324), [Qing Chen](https://openalex.org/A5045397113), [Xiaotian Wang](https://openalex.org/A5048943029), [Peiyang Su](https://openalex.org/A5006308487), [Jianfeng Huang](https://openalex.org/A5071909292), [Yecheng Zhou](https://openalex.org/A5052814903), [Limin Xiao](https://openalex.org/A5069732463), [Jun‐Min Liu](https://openalex.org/A5028810874), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02243.
     
-No abstract    
+Overall water splitting into H2 and H2O2 via Z-scheme piezo-photocatalytic systems is an ideal method for renewable energy production. Herein, we have synthesized a triangular prism-shaped metal–organic cage (MOC-Q3) integrating three catalytic Pd2+ centers and two photosensitive ligands, which is successfully immobilized on a highly crystalline β-ketoenamine-linked covalent organic framework (EA-COF) to form a Z-scheme single-atom photosystem. The optimized MOC-Q3/EA-COF achieves a high H2 yield (26.17 mmol g–1 h–1) with a TONPd of 118,521 with ascorbic acid as sacrificial agent due to broad light absorption, effective carrier separation, and widely distributed Pd active sites, which is among the highest for COF-based solar H2 evolution photocatalysts. Interestingly, EA-COF is found to be a piezoelectric material and its piezoelectric performance is mainly due to the in-plane polarization of the 2,4,6-trihydroxybenzene-1,3,5-tricarbaldehyde groups in the COF, which is confirmed by experimental observations and density functional theory calculations. The EA-COF shows H2 and H2O2 production rates of 239.94 and 400.38 μmol g–1 h–1, respectively, in pure water when excited by ultrasound coupled with light irradiation. The integration of MOC-Q3 can further enhance the efficiency of EA-COF in piezo-photocatalytic water splitting. The superior MOC-Q3/EA-COF exhibits H2 and H2O2 generation rates of 426.38 and 535.14 μmol g–1 h–1, respectively, outperforming pure EA-COF by 1.8 and 1.3 times. This is a pioneering work to construct a Z-scheme MOC/COF piezo-photocatalytic system, which provides an efficient way to use mechanical and solar energy to produce H2 and H2O2 through overall water splitting.    
 
     
 
@@ -303,6 +226,17 @@ High-temperature sintering is critical for efficient hematite photoanodes in ter
 
     
 
+## Catalyst in Sight: The Use of Benchtop NMR Spectrometers to Maintain the Activity of Pd-PPh3 Catalysts   
+
+OpenAlex: https://openalex.org/W4400183750    
+Open access: True
+    
+[Niklas Wessel](https://openalex.org/A5015664124), [Rucha S. Medhekar](https://openalex.org/A5020644382), [Markus Sonnenberg](https://openalex.org/A5099775597), [Hannah Stieber](https://openalex.org/A5098489357), [Walter Leitner](https://openalex.org/A5033523008), [Andreas J. Vorholt](https://openalex.org/A5035847242), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02606.
+    
+No abstract    
+
+    
+
 ## Biocatalytic Construction of Spiro-Oxazolidinones via Halohydrin Dehalogenase-Catalyzed Ring Expansion of Spiro-Epoxides   
 
 OpenAlex: https://openalex.org/W4400205640    
@@ -331,6 +265,28 @@ OpenAlex: https://openalex.org/W4400213310
 Open access: True
     
 [M. W. Lindley](https://openalex.org/A5028697372), [P. V. Stishenko](https://openalex.org/A5091287939), [James W. M. Crawley](https://openalex.org/A5088551934), [Fred Tinkamanyire](https://openalex.org/A5099786711), [Matthew D. Smith](https://openalex.org/A5021473664), [James Paterson](https://openalex.org/A5054631377), [Mark Peacock](https://openalex.org/A5091662706), [Zhuoran Xu](https://openalex.org/A5052567080), [Christopher Hardacre](https://openalex.org/A5073532203), [Alex S. Walton](https://openalex.org/A5073502453), [Andrew J. Logsdail](https://openalex.org/A5064011663), [Sarah J. Haigh](https://openalex.org/A5080752278), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02721.
+    
+No abstract    
+
+    
+
+## Synthesis and Catalytic Performance of Bimetallic Oxide-Derived CuO–ZnO Electrocatalysts for CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4400227941    
+Open access: True
+    
+[Matt L. J. Peerlings](https://openalex.org/A5087884008), [Kai Han](https://openalex.org/A5016577232), [A. Longo](https://openalex.org/A5002272091), [Kristiaan H. Helfferich](https://openalex.org/A5037726578), [Mahnaz Ghiasi](https://openalex.org/A5085052083), [Petra E. de Jongh](https://openalex.org/A5040096948), [Peter Ngene](https://openalex.org/A5018736655), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01575.
+    
+No abstract    
+
+    
+
+## Nitrogen Vacancy-Rich C3Nx-Confined Fe–Cu Diatomic Catalysts for the Direct Selective Oxidation of Methane at Low Temperature   
+
+OpenAlex: https://openalex.org/W4400228590    
+Open access: False
+    
+[Wencui Li](https://openalex.org/A5035079934), [Zhi Li](https://openalex.org/A5037564342), [Hongfang Shen](https://openalex.org/A5020044908), [Jiaxin Cai](https://openalex.org/A5021487267), [Hongyu Jing](https://openalex.org/A5008942144), [Shigang Xin](https://openalex.org/A5007679831), [Zengwen Cao](https://openalex.org/A5009120944), [Zean Xie](https://openalex.org/A5006295475), [Dong Liu](https://openalex.org/A5069498287), [Hang Zhang](https://openalex.org/A5048231829), [Zhao Zhang](https://openalex.org/A5065361552), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01328.
     
 No abstract    
 

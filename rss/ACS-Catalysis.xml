@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Jul 2024 01:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 01:09:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selective Electroreduction of CO&lt;sub&gt;2&lt;/sub&gt; to C&lt;sub&gt;2+&lt;/sub&gt; Alcohols Using Graphitic Frustrated Lewis Pair Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.3c04275</link>
-      <description>Hyun-Tak Kim, Jaehyun Park, Jinhong Mun, HyeonOh Shin, Deok&#8208;Ho Roh, Junhyeok Kwon, Sung&#8208;Tae Kim, Sang-Joon Kim, Geunsik Lee, Seok Ju Kang, Tae&#8208;Hyuk Kwon, ACS catalysis. None(None)] 2024. https://openalex.org/W4399993700
-
-                No abstract</description>
-      <author>Hyun-Tak Kim, Jaehyun Park, Jinhong Mun, HyeonOh Shin, Deok&#8208;Ho Roh, Junhyeok Kwon, Sung&#8208;Tae Kim, Sang-Joon Kim, Geunsik Lee, Seok Ju Kang, Tae&#8208;Hyuk Kwon</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04275</guid>
-    </item>
-    <item>
-      <title>Efficient and Stable Production of Long-Chain Hydrocarbons over Hydrophobic Carbon-Encapsulated TiO&lt;sub&gt;2&lt;/sub&gt;-Supported Ru Catalyst in Fischer&#8211;Tropsch Synthesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c02979</link>
-      <description>Yunhao Liu, Xincheng Li, Qingpeng Cheng, Ye Tian, Yingtian Zhang, Tao Ding, Song Song, Kepeng Song, Xingang Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4400000990
-
-                No abstract</description>
-      <author>Yunhao Liu, Xincheng Li, Qingpeng Cheng, Ye Tian, Yingtian Zhang, Tao Ding, Song Song, Kepeng Song, Xingang Li</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02979</guid>
-    </item>
-    <item>
-      <title>Alleviating Charge Recombination Caused by Unfavorable interaction of P and Sn in Hematite for Photoelectrochemical Water Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01150</link>
-      <description>Ji-Hun Kang, Balaji G. Ghule, Seung Gyu Gyeong, Seong&#8208;Ji Ha, Ji&#8208;Hyun Jang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400001152
-
-                No abstract</description>
-      <author>Ji-Hun Kang, Balaji G. Ghule, Seung Gyu Gyeong, Seong&#8208;Ji Ha, Ji&#8208;Hyun Jang</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01150</guid>
-    </item>
-    <item>
-      <title>A Three-Dimensional Azo-Bridged Porous Porphyrin Framework Supported Silver Nanoparticles as the State-of-the-Art Catalyst for the Carboxylative Cyclization of Propargylic Alcohols with CO&lt;sub&gt;2&lt;/sub&gt; under Ambient Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.4c02391</link>
-      <description>Yiying Yang, Yingyin Li, Yinghua Lu, Zhiyuan Chen, Rongchang Luo, ACS catalysis. None(None)] 2024. https://openalex.org/W4400002724
-
-                No abstract</description>
-      <author>Yiying Yang, Yingyin Li, Yinghua Lu, Zhiyuan Chen, Rongchang Luo</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02391</guid>
-    </item>
-    <item>
-      <title>Electrochemical NADH Regeneration Mediated by Pyridine Amidate Iridium Complexes Interconverting 1,4- and 1,6-NADH</title>
-      <link>https://doi.org/10.1021/acscatal.4c02548</link>
-      <description>Caterina Trotta, Gabriel Menendez Rodriguez, Cristiano Zuccaccia, Alceo Macchioni, ACS catalysis. None(None)] 2024. https://openalex.org/W4400007176
-
-                No abstract</description>
-      <author>Caterina Trotta, Gabriel Menendez Rodriguez, Cristiano Zuccaccia, Alceo Macchioni</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02548</guid>
-    </item>
-    <item>
-      <title>Enhancing CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction Performance through Si-Doped CuO: Stabilization of Cu&lt;sup&gt;+&lt;/sup&gt;/Cu&lt;sup&gt;0&lt;/sup&gt; Sites and Improved C&lt;sub&gt;2&lt;/sub&gt; Product Selectivity</title>
-      <link>https://doi.org/10.1021/acscatal.4c01961</link>
-      <description>Long Cheng, Rong Wang, Wenzhe Si, Yanxi Deng, Junhua Li, Yue Peng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400010017
-
-                No abstract</description>
-      <author>Long Cheng, Rong Wang, Wenzhe Si, Yanxi Deng, Junhua Li, Yue Peng</author>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01961</guid>
-    </item>
-    <item>
-      <title>Mass-Transfer Enhancement in the CO&lt;sub&gt;2&lt;/sub&gt; Oxidative Dehydrogenation of Propane over GaN Supported on Zeolite Nanosheets with a Short &lt;i&gt;b&lt;/i&gt;-Axis and Hierarchical Pores</title>
-      <link>https://doi.org/10.1021/acscatal.4c02599</link>
-      <description>Zhan&#8208;Jun Zhu, Zhen&#8208;Hong He, Yajie Tian, Sen-Wang Wang, Yongchang Sun, Kuan Wang, Weitao Wang, Zhifang Zhang, Jiajie Liu, Zhao&#8208;Tie Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400019116
-
-                The CO2 oxidative dehydrogenation of propane (CO2&#8211;ODHP) is a highly important reaction for not only producing large amounts of propylene but also consuming the CO2 resource. GaN/zeolite catalysts deliver preferable activity in the reaction. However, similar to Pt- and Cr-based catalysts, there are shortcomings such as poor stability and coke accumulation, especially when operated at temperatures higher than 550 &#176;C. Generally, carbon deposition is one of the main reasons for catalyst deactivation. The limited mass transfer greatly aggravates the deposited carbon formation, since carbon precursors could not be removed in time. In the present work, we modified zeolites with a short b-axis and hierarchical pores, which could offer a shorter diffusion distance and pore-rich structure to enhance the mass transfer. Thanks to this enhancement, the catalyst offers an initial propane conversion of 68.0% with a yield of 39.4% to propylene, surpassing other reported GaN/zeolite catalysts to data. Importantly, the catalyst showed a low loss rate of activity and a low amount of deposited carbon, which was easily regenerated compared with those of other catalysts without a short b-axis or hierarchical pores. Density functional theory (DFT) calculations and in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) confirmed that the reaction involves a coupling reaction of direct dehydrogenation and CO2 reduction via reverse water&#8211;gas shift reaction, and CO2 participates in the reaction. The present work sheds light on designing an efficient catalyst for CO2&#8211;ODHP via a mass transfer-boosted strategy and, importantly, is expected to provide inspiration in constructing a zeolite with a short b-axis and hierarchical pores.</description>
-      <author>Zhan&#8208;Jun Zhu, Zhen&#8208;Hong He, Yajie Tian, Sen-Wang Wang, Yongchang Sun, Kuan Wang, Weitao Wang, Zhifang Zhang, Jiajie Liu, Zhao&#8208;Tie Liu</author>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02599</guid>
-    </item>
     <item>
       <title>Substrate Turnover Dynamics Guide Ketol-Acid Reductoisomerase Redesign for Increased Specific Activity</title>
       <link>https://doi.org/10.1021/acscatal.4c01446</link>
@@ -112,7 +42,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02243</link>
       <description>Zizhan Liang, Xinao Li, Qing Chen, Xiaotian Wang, Peiyang Su, Jianfeng Huang, Yecheng Zhou, Limin Xiao, Jun&#8208;Min Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400031336
 
-                No abstract</description>
+                Overall water splitting into H2 and H2O2 via Z-scheme piezo-photocatalytic systems is an ideal method for renewable energy production. Herein, we have synthesized a triangular prism-shaped metal&#8211;organic cage (MOC-Q3) integrating three catalytic Pd2+ centers and two photosensitive ligands, which is successfully immobilized on a highly crystalline &#946;-ketoenamine-linked covalent organic framework (EA-COF) to form a Z-scheme single-atom photosystem. The optimized MOC-Q3/EA-COF achieves a high H2 yield (26.17 mmol g&#8211;1 h&#8211;1) with a TONPd of 118,521 with ascorbic acid as sacrificial agent due to broad light absorption, effective carrier separation, and widely distributed Pd active sites, which is among the highest for COF-based solar H2 evolution photocatalysts. Interestingly, EA-COF is found to be a piezoelectric material and its piezoelectric performance is mainly due to the in-plane polarization of the 2,4,6-trihydroxybenzene-1,3,5-tricarbaldehyde groups in the COF, which is confirmed by experimental observations and density functional theory calculations. The EA-COF shows H2 and H2O2 production rates of 239.94 and 400.38 &#956;mol g&#8211;1 h&#8211;1, respectively, in pure water when excited by ultrasound coupled with light irradiation. The integration of MOC-Q3 can further enhance the efficiency of EA-COF in piezo-photocatalytic water splitting. The superior MOC-Q3/EA-COF exhibits H2 and H2O2 generation rates of 426.38 and 535.14 &#956;mol g&#8211;1 h&#8211;1, respectively, outperforming pure EA-COF by 1.8 and 1.3 times. This is a pioneering work to construct a Z-scheme MOC/COF piezo-photocatalytic system, which provides an efficient way to use mechanical and solar energy to produce H2 and H2O2 through overall water splitting.</description>
       <author>Zizhan Liang, Xinao Li, Qing Chen, Xiaotian Wang, Peiyang Su, Jianfeng Huang, Yecheng Zhou, Limin Xiao, Jun&#8208;Min Liu</author>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02243</guid>
@@ -278,6 +208,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02690</guid>
     </item>
     <item>
+      <title>Catalyst in Sight: The Use of Benchtop NMR Spectrometers to Maintain the Activity of Pd-PPh&lt;sub&gt;3&lt;/sub&gt; Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c02606</link>
+      <description>Niklas Wessel, Rucha S. Medhekar, Markus Sonnenberg, Hannah Stieber, Walter Leitner, Andreas J. Vorholt, ACS catalysis. None(None)] 2024. https://openalex.org/W4400183750
+
+                No abstract</description>
+      <author>Niklas Wessel, Rucha S. Medhekar, Markus Sonnenberg, Hannah Stieber, Walter Leitner, Andreas J. Vorholt</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02606</guid>
+    </item>
+    <item>
       <title>Biocatalytic Construction of Spiro-Oxazolidinones via Halohydrin Dehalogenase-Catalyzed Ring Expansion of Spiro-Epoxides</title>
       <link>https://doi.org/10.1021/acscatal.4c02122</link>
       <description>Jin-Mei Ma, Yuanfei Wang, Run&#8208;Ping Miao, Xiao Ling Jin, Huihui Wang, Yong&#8208;Zheng Chen, Nan&#8208;Wei Wan, ACS catalysis. None(None)] 2024. https://openalex.org/W4400205640
@@ -306,6 +246,26 @@
       <author>M. W. Lindley, P. V. Stishenko, James W. M. Crawley, Fred Tinkamanyire, Matthew D. Smith, James Paterson, Mark Peacock, Zhuoran Xu, Christopher Hardacre, Alex S. Walton, Andrew J. Logsdail, Sarah J. Haigh</author>
       <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02721</guid>
+    </item>
+    <item>
+      <title>Synthesis and Catalytic Performance of Bimetallic Oxide-Derived CuO&#8211;ZnO Electrocatalysts for CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01575</link>
+      <description>Matt L. J. Peerlings, Kai Han, A. Longo, Kristiaan H. Helfferich, Mahnaz Ghiasi, Petra E. de Jongh, Peter Ngene, ACS catalysis. None(None)] 2024. https://openalex.org/W4400227941
+
+                No abstract</description>
+      <author>Matt L. J. Peerlings, Kai Han, A. Longo, Kristiaan H. Helfferich, Mahnaz Ghiasi, Petra E. de Jongh, Peter Ngene</author>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01575</guid>
+    </item>
+    <item>
+      <title>Nitrogen Vacancy-Rich C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Confined Fe&#8211;Cu Diatomic Catalysts for the Direct Selective Oxidation of Methane at Low Temperature</title>
+      <link>https://doi.org/10.1021/acscatal.4c01328</link>
+      <description>Wencui Li, Zhi Li, Hongfang Shen, Jiaxin Cai, Hongyu Jing, Shigang Xin, Zengwen Cao, Zean Xie, Dong Liu, Hang Zhang, Zhao Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400228590
+
+                No abstract</description>
+      <author>Wencui Li, Zhi Li, Hongfang Shen, Jiaxin Cai, Hongyu Jing, Shigang Xin, Zengwen Cao, Zean Xie, Dong Liu, Hang Zhang, Zhao Zhang</author>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01328</guid>
     </item>
   </channel>
 </rss>
