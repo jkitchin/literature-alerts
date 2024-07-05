@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Jul 2024 01:09:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 01:09:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Pathways and Enhancement Strategies for Magnesium Hardness Removal in Modified Induced Crystallization Softening</title>
-      <link>https://doi.org/10.2139/ssrn.4877890</link>
-      <description>c. h. LI, Cheng Liu, Yun Han, Wenjing Xu, Bing Yan, Aijun Du, Qin Li, Yu Qian, No host. None(None)] 2024. https://openalex.org/W4400027614
-
-                No abstract</description>
-      <author>c. h. LI, Cheng Liu, Yun Han, Wenjing Xu, Bing Yan, Aijun Du, Qin Li, Yu Qian</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4877890</guid>
-    </item>
-    <item>
-      <title>TSeC: an efficient transition state search tool driven by machine learning potential</title>
-      <link>https://doi.org/10.1016/b978-0-443-28824-1.50560-3</link>
-      <description>Kun Tang, Lei Zhang, Qingwei Meng, Jian Du, Qilei Liu, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400032180
-
-                No abstract</description>
-      <author>Kun Tang, Lei Zhang, Qingwei Meng, Jian Du, Qilei Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50560-3</guid>
-    </item>
-    <item>
-      <title>Ultrathin, large area &#946;-Ni(OH)2 crystalline nanosheet as bifunctional electrode material for charge storage and oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.06.167</link>
-      <description>Sayali Ashok Patil, Pallavi B. Jagdale, Narad Barman, Asif Iqbal, Amanda Sfeir, S&#233;bastien Royer, Ranjit Thapa, Akshaya K. Samal, Manav Saxena, Journal of colloid and interface science. 674(None)] 2024. https://openalex.org/W4400036923
-
-                Bifunctional electrode materials are highly desirable for meeting increasing global energy demands and mitigating environmental impact. However, improving the atom-efficiency, scalability, and cost-effectiveness of storage systems, as well as optimizing conversion processes to enhance overall energy utilization and sustainability, remains a significant challenge for their application. Herein, we devised an optimized, facile, economic, and scalable synthesis of large area (cm2), ultrathin (&#8764;2.9 &#177; 0.3 nm) electroactive nanosheet of &#946;-Ni(OH)2, which acted as bifunctional electrode material for charge storage and oxygen evolution reaction (OER). The &#946;-Ni(OH)2 nanosheet electrode shows the volumetric capacity of 2.82 Ah.cm&#8722;3(0.82 &#181;Ah.cm&#8722;2) at the current density of 0.2 mA.cm&#8722;2. The device shows a high capacity of 820 mAh.cm&#8722;3 with an ultrahigh volumetric energy density of 0.33 Wh.cm&#8722;3 at 275.86 W.cm&#8722;3 along with promising stability (30,000 cycles). Furthermore, the OER activity of ultrathin &#946;-Ni(OH)2 exhibits an overpotential (&#951;10) of 308 mV and a Tafel value of 42 mV dec-1 suggesting fast reaction kinetics. The mechanistic studies are enlightened through density functional theory (DFT), which reveals that additional electronic states near the Fermi level enhance activity for both capacitance and OER.</description>
-      <author>Sayali Ashok Patil, Pallavi B. Jagdale, Narad Barman, Asif Iqbal, Amanda Sfeir, S&#233;bastien Royer, Ranjit Thapa, Akshaya K. Samal, Manav Saxena</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.167</guid>
-    </item>
-    <item>
-      <title>Molecular Dynamics Study of the Effect of Grafting Density on Ion Diffusivity in a MARTINI Coarse-Grained Strong Polyelectrolyte Brush</title>
-      <link>https://doi.org/10.1021/acs.macromol.4c01018</link>
-      <description>Michael J. Boyle, Ravi Radhakrishnan, Russell J. Composto, Macromolecules. None(None)] 2024. https://openalex.org/W4400042181
-
-                No abstract</description>
-      <author>Michael J. Boyle, Ravi Radhakrishnan, Russell J. Composto</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.macromol.4c01018</guid>
-    </item>
-    <item>
-      <title>Control Over Nitrogen Dopant Sites in Palladium Metallene for Manipulating Catalytic Activity and Stability in the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1002/adfm.202408264</link>
-      <description>Tiantian Zeng, Mang Niu, Binghui Xu, Weiyong Yuan, Chunxian Guo, Dapeng Cao, Chang Ming Li, Lian Ying Zhang, Xin Zhao, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400045429
-
-                Abstract Doping light elements in Pt&#8208;group metals is an effective approach toward improving their catalytic properties for oxygen reduction reaction (ORR). However, it is challenging to control dopant sites and to establish the correlation between the doping site and the catalytic property. In this paper, this success is demonstrated in controlling N doping sites in Pd metallene to manipulate electrocatalytic properties toward ORR. A Pd metallene sample with N dopant predominantly located at the atomic vacancy site (V&#8208;N&#8208;Pd metallene) exhibits two times higher mass activity in ORR than a Pd metallene sample with N dopant mainly occupied the interstitial site (I&#8208;N&#8208;Pd metallene). However, the I&#8208;N&#8208;Pd metallene shows improved durability than the V&#8208;N&#8208;Pd metallene, with only a 4 mV decay in half&#8208;wave potential after 20 000 cycles. Computational calculation results reveal that the significantly enhanced ORR activity of V&#8208;N&#8208;Pd metallene arises from the atomic vacancy&#8208;doped N, which modulates the electronic structure of Pd metallene to weaken the adsorption energy of intermediate O * species. This work provides guidelines for manipulating catalytic properties by controlling the doping sites of light elements in metal nanostructures.</description>
-      <author>Tiantian Zeng, Mang Niu, Binghui Xu, Weiyong Yuan, Chunxian Guo, Dapeng Cao, Chang Ming Li, Lian Ying Zhang, Xin Zhao</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408264</guid>
-    </item>
-    <item>
-      <title>Benchmarking water adsorption on metal surfaces with &lt;i&gt;ab initio&lt;/i&gt; molecular dynamics</title>
-      <link>https://doi.org/10.1063/5.0205552</link>
-      <description>Mian-Le Xu, Sihang Liu, Sudarshan Vijay, Thomas Bligaard, Georg Kastlunger, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(24)] 2024. https://openalex.org/W4400045624
-
-                Solid&#8211;water interfaces are ubiquitous in nature and technology. In particular, technologies evolving in the green transition, such as electrocatalysis, heavily rely on the junction of an electrolyte and an electrode as a central part of the device. For the understanding of atomic-scale processes taking place at the electrolyte&#8211;electrode interface, density functional theory (DFT) has become the de facto standard. The validation of DFT&#8217;s ability to simulate the interfacial solid/water interaction is crucial, and ideal simulation setups need to be identified in order to prevent avoidable systematic errors. Here, we develop a rigorous sampling protocol for benchmarking the adsorption/desorption energetics of water on metallic surfaces against experimental temperature programmed desorption, single crystal adsorption calorimetry, and thermal energy atom scattering. We screened DFT&#8217;s quality on a series of transition metal surfaces, applying three of the most common exchange&#8211;correlation approximations: PBE-D3, RPBE-D3, and BEEF-vdW. We find that all three xc-functionals reflect the pseudo-zeroth order desorption of water rooted in the combination of attractive adsorbate&#8211;adsorbate interactions and their saturation at low and intermediate coverages, respectively. However, both RPBE-D3 and BEEF-vdW lead to more accurate water adsorption strengths, while PBE-D3 clearly overbinds near-surface water. We relate the variations in binding strength to specific variations in water&#8211;metal and water&#8211;water interactions, highlighting the structural consequences inherent in an uninformed choice of simulation parameters. Our study gives atomistic insight into water&#8217;s complex adsorption equilibrium. Furthermore, it represents a guideline for future DFT-based simulations of solvated solid interfaces by providing an assessment of systematic errors in specific setups.</description>
-      <author>Mian-Le Xu, Sihang Liu, Sudarshan Vijay, Thomas Bligaard, Georg Kastlunger</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0205552</guid>
-    </item>
-    <item>
-      <title>pH-dependent formation potential of OH&#8727; on Pt(111): Double layer effect on water dissociation</title>
-      <link>https://doi.org/10.1016/j.nanoms.2024.05.009</link>
-      <description>Xue Wang, Jiaxin Zhu, Yongbo Kuang, Jun Cheng, Jia&#8208;Bo Le, Nano materials science. None(None)] 2024. https://openalex.org/W4400045888
-
-                The adsorption/desorption of OH&#8727; on electrode surfaces is pivotal in numerous electrocatalytic reactions. To understand the effect of electrolyte pH on that process, in this work, an advanced approach combining ab initio molecular dynamics (AIMD) with free energy perturbation is employed to calculate the dehydrogenation free energy of water chemisorbed at differently electrified Pt(111)/electrolyte interfaces. Our findings reveal that the onset potential for OH&#8727; formation shifts negatively as the pH increases at low pH condition (pH&lt;4.3), aligning with the cyclic voltammetry curves observed in experimental studies. It indicates the dissociation of chemisorbed water is the primary route for OH&#8727; adsorption at low pH condition. Furthermore, it is also found that the variation in dehydrogenation energy across different pH is primarily due to the local hydrogen bonding network surrounding the chemisorbed water. In addition, it is proposed that at high pH conditions OH&#8722; oxidation emerges as the primary route for OH&#8727; adsorption on Pt(111) constrained by the water chemisorption process. This work provides crucial insights into the pH-dependent adsorption behavior of OH&#8727; on the Pt(111) surface and aims to guide the optimization of electrolytes to boost the efficiency of related reactions.</description>
-      <author>Xue Wang, Jiaxin Zhu, Yongbo Kuang, Jun Cheng, Jia&#8208;Bo Le</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoms.2024.05.009</guid>
-    </item>
-    <item>
-      <title>THD-C Sheet: A Novel Nonbenzenoid Carbon Allotrope with Tetra-, Hexa-, and Dodeca-Membered Rings</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01870</link>
-      <description>Trevor Jenkins, Alexander Silva, Marcos G. Menezes, Timo Thonhauser, Saif Ullah, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400059919
-
-                We propose a novel two-dimensional carbon-based structure with tetra-, hexa-, and dodeca-membered rings, which we refer to by the abbreviated name, THD-C. The structure presents a mixture of sp&#8211;sp2 hybridization and can potentially be synthesized by the topological assembly of 4-ethynyldiphenylacetylene molecules. By employing first-principles calculations, the stability and ease of synthesis of the sheet are investigated and compared with various C-allotropes. We predict its metallic behavior and excellent kinetic and dynamic stability. Due to the crystal structure of the sheet, a strong mechanical anisotropy is observed. The effects of functionalization on the electronic properties of the material are also studied, and different semiconducting systems are obtained. The potential of THD-C for energy storage in metal-based batteries, hydrogen storage, and catalysis is also investigated, and we find a superior performance in comparison to graphite and other allotropes. The quantum confinement effect is investigated by constructing nanoribbons and nanotubes of various sizes. For ribbons, we find that tailor-made electronic and magnetic properties can be obtained and explored in potential spintronic devices. Additionally, we observe that nanotubes are conducting irrespective of their chirality and can potentially be used for capture, storage, and separation of industrially relevant small gas molecules.</description>
-      <author>Trevor Jenkins, Alexander Silva, Marcos G. Menezes, Timo Thonhauser, Saif Ullah</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01870</guid>
-    </item>
-    <item>
-      <title>Iron&#8211;Cobalt Phosphide Encapsulated in a N-Doped Carbon Framework as a Promising Low-Cost Oxygen Reduction Electrocatalyst for Zinc-Air Batteries</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c02077</link>
-      <description>Jinlong Liu, Ziyu Luo, Jie Wu, Dong Qian, Weixiong Liao, Geoffrey I. N. Waterhouse, Xiangxiong Chen, Inorganic chemistry. None(None)] 2024. https://openalex.org/W4400060584
-
-                The oxygen reduction reaction (ORR) plays a vital role in many next-generation electrochemical energy conversion and storage devices, motivating the search for low-cost ORR electrocatalysts possessing high activity and excellent durability. In this work, we demonstrate that iron&#8211;cobalt phosphide (FeCoP) nanoparticles encapsulated in a N-doped carbon framework (FeCoP@NC) represent a very promising catalyst for the ORR in alkaline media. The core&#8211;shell structured FeCoP@NC catalyst offered outstanding ORR activity with a half-wave potential (E1/2) of 0.86 V vs reversible hydrogen electrode (RHE) and excellent stability in a 0.1 M KOH electrolyte, outperforming commercial Pt/C and many recently reported noble-metal-free ORR electrocatalysts. The superiority of FeCoP@NC as an ORR electrocatalyst relative to Pt/C was further verified in prototype zinc-air batteries (ZABs), with the aqueous and flexible ZABs prepared using FeCoP@NC offering excellent stability, impressive open circuit voltages (1.56 and 1.44 V, respectively), and high maximum power densities (183.5 and 69.7 mW cm&#8211;2, respectively). Density functional theory calculations revealed that encapsulating FeCoP nanoparticles in N-doped carbon shells resulted in favorable electron penetration effects, which synergistically regulated the adsorption/desorption of ORR intermediates for optimal ORR performance while also boosting the electronic conductivity. Our findings offer valuable new insights for rational design of transition metal phosphide-based catalysts for the ORR and other electrochemical applications.</description>
-      <author>Jinlong Liu, Ziyu Luo, Jie Wu, Dong Qian, Weixiong Liao, Geoffrey I. N. Waterhouse, Xiangxiong Chen</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c02077</guid>
-    </item>
-    <item>
-      <title>Cobalt&#8211;Copper-Embedded Nitrogen-Doped Carbon Nanostructures Derived from Zeolite Imidazolate Frameworks as Electrocatalysts for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsomega.4c01667</link>
-      <description>Sunguk Noh, Hyejin Oh, Jihyun Kim, Sojin Jung, Jae&#8208;Hyun Shim, ACS omega. None(None)] 2024. https://openalex.org/W4400060752
-
-                No abstract</description>
-      <author>Sunguk Noh, Hyejin Oh, Jihyun Kim, Sojin Jung, Jae&#8208;Hyun Shim</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c01667</guid>
-    </item>
-    <item>
-      <title>A deep learning-based energy and force prediction framework for high-throughput quantum chemistry calculations</title>
-      <link>https://doi.org/10.1016/b978-0-443-28824-1.50120-4</link>
-      <description>Guoxin Wu, Qilei Liu, Jian Du, Qingwei Meng, Lei Zhang, Computer-aided chemical engineering/Computer aided chemical engineering. None(None)] 2024. https://openalex.org/W4400062440
-
-                No abstract</description>
-      <author>Guoxin Wu, Qilei Liu, Jian Du, Qingwei Meng, Lei Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-28824-1.50120-4</guid>
-    </item>
     <item>
       <title>First principles study on the type-II g-C6N6/PtSSe heterojunction: a potential photocatalyst for overall water splitting</title>
       <link>https://doi.org/10.1016/j.mtcomm.2024.109685</link>
@@ -492,7 +382,7 @@
       <link>https://doi.org/10.1021/acs.est.4c03949</link>
       <description>Jie Fan, Leslie K. Arrazolo, Jiaxin Du, Huimin Xu, Siyu Fang, Yue Liu, Zhongbiao Wu, Jae&#8208;Hong Kim, Xuanhao Wu, Environmental science &amp; technology. None(None)] 2024. https://openalex.org/W4400228979
 
-                No abstract</description>
+                Nitrate, a prevalent water pollutant, poses substantial public health concerns and environmental risks. Electrochemical reduction of nitrate (eNO</description>
       <author>Jie Fan, Leslie K. Arrazolo, Jiaxin Du, Huimin Xu, Siyu Fang, Yue Liu, Zhongbiao Wu, Jae&#8208;Hong Kim, Xuanhao Wu</author>
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.est.4c03949</guid>
@@ -532,7 +422,7 @@
       <link>https://doi.org/10.1021/acs.est.4c02445</link>
       <description>Yongguang Bu, Wenjing Yu, Qiang Yang, Wenkai Zhang, Qiang Sun, Weiwen Wu, Peixin Cui, Chao Wang, Guandao Gao, Environmental science &amp; technology. None(None)] 2024. https://openalex.org/W4400242054
 
-                No abstract</description>
+                Electroreduction of nitrate (NO</description>
       <author>Yongguang Bu, Wenjing Yu, Qiang Yang, Wenkai Zhang, Qiang Sun, Weiwen Wu, Peixin Cui, Chao Wang, Guandao Gao</author>
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.est.4c02445</guid>
