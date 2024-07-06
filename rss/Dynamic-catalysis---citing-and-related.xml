@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jul 2024 01:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 01:07:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unveiling the Nanomorphology of HfN thin Films by Ultrafast Reciprocal Space Mapping</title>
-      <link>https://doi.org/10.1002/adom.202400939</link>
-      <description>Steffen Peer Zeuschner, Jan&#8208;Etienne Pudell, Maximilian Mattern, Matthias R&#246;ssle, Marc Herzog, Andrea Baldi, Sven H. C. Askes, Matias Bargheer, Advanced optical materials. None(None)] 2024. https://openalex.org/W4400089601
-
-                Abstract Hafnium Nitride (HfN) is a promising and very robust alternative to gold for applications of nanoscale metals. Details of the nanomorphology related to variations in strain states and optical properties can be crucial for applications in nanophotonics and plasmon&#8208;assisted chemistry. Ultrafast reciprocal space mapping (URSM) with hard X&#8208;rays is used to unveil the nanomorphology of thin HfN films. Static high&#8208;resolution X&#8208;ray diffraction reveals a twofold composition of the thin films being separated into regions with identical lattice constant and similar out&#8208;of&#8208;plane but hugely different in&#8208;plane coherence lengths. URSM upon femtosecond laser excitation reveals different transient strain dynamics for the two respective Bragg peak components. This unambiguously locates the longer in&#8208;plane coherence length in the first 15 nm of the thin film adjacent to the substrate. The transient shift of the broad diffraction peak displays the strain dynamics of the entire film, implying that the near&#8208;substrate region hosts nanocrystallites with small and large coherence length, whereas the upper part of the film grows in small columnar grains. The results illustrate that URSM is a suitable technique for non&#8208;destructive and depth&#8208;resolved investigations of the morphology of nanostructures.</description>
-      <author>Steffen Peer Zeuschner, Jan&#8208;Etienne Pudell, Maximilian Mattern, Matthias R&#246;ssle, Marc Herzog, Andrea Baldi, Sven H. C. Askes, Matias Bargheer</author>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adom.202400939</guid>
-    </item>
     <item>
       <title>Choreographing Oscillatory Hydrodynamics with DNA-Coated Gold Nanoparticles</title>
       <link>https://doi.org/10.1021/jacs.4c06868</link>

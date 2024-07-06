@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Jul  5 01:09:18 2024
+Created on Sat Jul  6 01:07:36 2024
 
-Found 17 results from 2024-06-28 to 2024-07-05
+Found 17 results from 2024-06-29 to 2024-07-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Aerobic Oxidation of Hydroxyl Compounds Catalyzed by Dimeric N-Salicylidene Oxovanadium Complexes   
-
-OpenAlex: https://openalex.org/W4400078694    
-Open access: False
-    
-[Xiaomeng Fan](https://openalex.org/A5027914140), [Jiping Ma](https://openalex.org/A5001146076), [Min Wang](https://openalex.org/A5038241246), [Mingxia Gao](https://openalex.org/A5078419032), [Jie Xu](https://openalex.org/A5025134155), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02766.
-    
-No abstract    
-
-    
-
-## Modulating Interfacial Hydrogen-Bond Environment by Electrolyte Engineering Promotes Acidic CO2 Electrolysis   
-
-OpenAlex: https://openalex.org/W4400092381    
-Open access: False
-    
-[Wangxin Ge](https://openalex.org/A5065419997), [Longlong Dong](https://openalex.org/A5050297378), [Chaochen Wang](https://openalex.org/A5061975430), [Yihua Zhu](https://openalex.org/A5067580654), [Zhen Liu](https://openalex.org/A5030403821), [Hongliang Jiang](https://openalex.org/A5087914705), [Chunzhong Li](https://openalex.org/A5009144836), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02916.
-    
-No abstract    
-
-    
-
-## Promoting Catalytic Performance of Metal Hydrides for Reversible Hydrogen Storage in N-ethylcarbazole by Electronic Structure and Hydrogen Chemical Potential Tuning   
-
-OpenAlex: https://openalex.org/W4400093131    
-Open access: False
-    
-[Haoming Yu](https://openalex.org/A5008530846), [Zichang Zhang](https://openalex.org/A5052793343), [Xu Jin](https://openalex.org/A5026952739), [Xi Zhang](https://openalex.org/A5070538645), [Kuerbangnisha Kadeer](https://openalex.org/A5027478951), [Y. M. Lin](https://openalex.org/A5056670634), [Zewei Xie](https://openalex.org/A5055965200), [Yushen Huang](https://openalex.org/A5067964513), [T Liu](https://openalex.org/A5071842423), [Kuerbangnisha Kadeer](https://openalex.org/A5027478951), [Qiang Sun](https://openalex.org/A5037250967), [Jianlong Zheng](https://openalex.org/A5053175805), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02947.
-    
-No abstract    
-
-    
-
-## Selective CO2-to-HCOOH Electroreduction on Graphdiyne-Supported Bimetallic Single-Cluster Catalysts   
-
-OpenAlex: https://openalex.org/W4400093530    
-Open access: False
-    
-[Bin Chen](https://openalex.org/A5030002163), [Yafei Jiang](https://openalex.org/A5063170943), [Hai Xiao](https://openalex.org/A5023546157), [Jun Li](https://openalex.org/A5059858234), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00858.
-    
-No abstract    
-
-    
 
 ## Manganese-Catalyzed Synthesis of Polyketones Using Hydrogen-Borrowing Approach   
 
@@ -190,5 +146,49 @@ Open access: False
 [Wencui Li](https://openalex.org/A5035079934), [Zhi Li](https://openalex.org/A5037564342), [Hongfang Shen](https://openalex.org/A5020044908), [Jiaxin Cai](https://openalex.org/A5021487267), [Hongyu Jing](https://openalex.org/A5008942144), [Shigang Xin](https://openalex.org/A5007679831), [Zengwen Cao](https://openalex.org/A5009120944), [Zean Xie](https://openalex.org/A5006295475), [Dong Liu](https://openalex.org/A5069498287), [Hang Zhang](https://openalex.org/A5048231829), [Zhao Zhang](https://openalex.org/A5065361552), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01328.
     
 No abstract    
+
+    
+
+## Interfacial Electric Field Stabilized Ru Single-Atom Catalysts for Efficient Water Oxidation   
+
+OpenAlex: https://openalex.org/W4400274434    
+Open access: False
+    
+[Liu Yang](https://openalex.org/A5002416341), [Zitao Ni](https://openalex.org/A5036664419), [Yifan Zhao](https://openalex.org/A5023019633), [Youyu Long](https://openalex.org/A5080653127), [Min Xi](https://openalex.org/A5040855976), [Anran Chen](https://openalex.org/A5053979760), [Hua Zhang](https://openalex.org/A5056450584), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01829.
+    
+No abstract    
+
+    
+
+## Structural and Computational Insights into the Noncanonical Aromatization in Fungal Polyketide Biosynthesis   
+
+OpenAlex: https://openalex.org/W4400281718    
+Open access: False
+    
+[Hang Wang](https://openalex.org/A5089366118), [Chao Peng](https://openalex.org/A5071686615), [Xiaoxuan Chen](https://openalex.org/A5014428274), [Haoyang Wang](https://openalex.org/A5069611142), [Run Yang](https://openalex.org/A5077189336), [He Xiang](https://openalex.org/A5003438807), [Qiu‐Fen Hu](https://openalex.org/A5036812101), [Ling Liu](https://openalex.org/A5080244729), [Lung Wa Chung](https://openalex.org/A5009377050), [Yudai Matsuda](https://openalex.org/A5004078670), [Weiguang Wang](https://openalex.org/A5016155416), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01043.
+    
+No abstract    
+
+    
+
+## Construction of Dual Active Sites in Perovskite Oxide for Targeted Photocatalytic CO2 Reduction to CH4   
+
+OpenAlex: https://openalex.org/W4400288640    
+Open access: False
+    
+[Yibo Gao](https://openalex.org/A5082823161), [Miaomiao Zhang](https://openalex.org/A5024917626), [Yang Jin](https://openalex.org/A5019480198), [Yanpeng Mao](https://openalex.org/A5078703047), [Wenlong Wang](https://openalex.org/A5052500807), [Zhanlong Song](https://openalex.org/A5028614042), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02793.
+    
+No abstract    
+
+    
+
+## Surface Reactive Oxygen from Support Corrects the Nominal Supported Metal Size Effect in Controlling the Reactivity for Low-Temperature CH4/CO2 Reforming   
+
+OpenAlex: https://openalex.org/W4400297457    
+Open access: False
+    
+[H.Y. Wang](https://openalex.org/A5001980487), [Yaozhong Hu](https://openalex.org/A5069396700), [Yongli Shen](https://openalex.org/A5031071648), [Ewa Chukwu](https://openalex.org/A5039156100), [Wei Xi](https://openalex.org/A5046299212), [Gurong Shen](https://openalex.org/A5059311716), [Jun Wang](https://openalex.org/A5042241049), [Meiqing Shen](https://openalex.org/A5083178184), [Ming Yang](https://openalex.org/A5048213108), [Tong‐Bu Lu](https://openalex.org/A5054438192), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02608.
+    
+Modulating the metal–support interfacial structure to achieve coke elimination is highly desired for low-temperature CH4/CO2 reforming. Nonetheless, explicit effects of optimizing the supported metal size and catalyst support properties remain convoluted and sometimes controversial. Herein, we designed different Pt–CeO2 interfaces by tuning the surface reactive oxygen (SRO) from ceria and the in situ aggregated nanoparticle size developed from single-atom Pt as independent parameters. Intriguingly, the often-emphasized nominal Pt size effect (0.3–10.5 nm) is secondary due to carbon deposition, while the catalyst with a high SRO concentration exhibits outstanding reactivity. We demonstrated that the SRO from ceria corrects the nominal supported metal size effect in controlling the low-temperature CH4/CO2 reforming reactivity. Specifically, in the Pt–Ox–Ce interfacial microstructure, SRO oxidizes the deposited carbon as an oxygen reservoir, making interfacial Pt atoms remain active from coke, and therefore determines the reactivity rather than the nominal Pt species size. In situ characterizations and theoretical studies explained the reaction mechanism of SRO and carbon elimination. This work provides new insights for coke-resistant catalyst design and the coke elimination mechanism.    
 
     

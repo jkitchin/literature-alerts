@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jul 2024 01:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 01:07:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Atomic-scale Origin of the Enantiospecific Decomposition of Tartaric Acid on Chiral Copper Surfaces</title>
-      <link>https://doi.org/10.1039/d4cc02384f</link>
-      <description>Avery S. Daniels, Andrew J. Gellman, E. Charles H. Sykes, Chemical communications. None(None)] 2024. https://openalex.org/W4400067074
-
-                The origin of the enantiospecific decomposition of L- and D-tartaric acid on chiral Cu surfaces is elucidated on a structure-spread domed Cu(110) crystal by spatially resolved XPS and atomic-scale STM...</description>
-      <author>Avery S. Daniels, Andrew J. Gellman, E. Charles H. Sykes</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc02384f</guid>
-    </item>
     <item>
       <title>Multiscale Optimization of Formic Acid Dehydrogenation Process Via Linear Model Decision Tree Surrogates</title>
       <link>https://doi.org/10.2139/ssrn.4880209</link>

@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jul 2024 01:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 01:07:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First principles study on the type-II g-C6N6/PtSSe heterojunction: a potential photocatalyst for overall water splitting</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.109685</link>
-      <description>Qi Pang, Junjie Qian, Yuxuan Tang, Hui Li, Dangli Gao, You Xie, Yiyun Song, Materials today communications. None(None)] 2024. https://openalex.org/W4400077243
-
-                No abstract</description>
-      <author>Qi Pang, Junjie Qian, Yuxuan Tang, Hui Li, Dangli Gao, You Xie, Yiyun Song</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.109685</guid>
-    </item>
-    <item>
-      <title>Modulating Surface Chemistry of Copper Oxides through Annealing Environment for Enhanced Selective HMF Oxidation: A DFT-Electrochemical Approach</title>
-      <link>https://doi.org/10.1016/j.jece.2024.113444</link>
-      <description>Nadia Mumtazah, Chen-Hui Chan, Stefani Catherine, Minh-Trang Huynh Pham, Ja&#8208;Yeon Choi, Jong Suk Yoo, Chia&#8208;Ying Chiang, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4400080255
-
-                No abstract</description>
-      <author>Nadia Mumtazah, Chen-Hui Chan, Stefani Catherine, Minh-Trang Huynh Pham, Ja&#8208;Yeon Choi, Jong Suk Yoo, Chia&#8208;Ying Chiang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.113444</guid>
-    </item>
-    <item>
-      <title>Deciphering chemical ordering in High Entropy Materials: A machine learning-accelerated high-throughput cluster expansion approach</title>
-      <link>https://doi.org/10.1016/j.actamat.2024.120137</link>
-      <description>Guillermo Vazquez, Daniel Sauceda, Raymundo Arr&#243;yave, Acta materialia. None(None)] 2024. https://openalex.org/W4400082110
-
-                No abstract</description>
-      <author>Guillermo Vazquez, Daniel Sauceda, Raymundo Arr&#243;yave</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120137</guid>
-    </item>
-    <item>
-      <title>Effective OER activity of rhombohedral nickel sulphide nanoparticles supported via reduced graphene oxide</title>
-      <link>https://doi.org/10.1016/j.diamond.2024.111354</link>
-      <description>Mohsin Majeed, Albandari W. Alrowaily, B.M. Alotaibi, Haifa A. Alyousef, Mohammed F. Alotiby, Muhammad Jahangir Khan, Khalid I. Hussein, Zubair Ahmad, Diamond and related materials. None(None)] 2024. https://openalex.org/W4400088573
-
-                No abstract</description>
-      <author>Mohsin Majeed, Albandari W. Alrowaily, B.M. Alotaibi, Haifa A. Alyousef, Mohammed F. Alotiby, Muhammad Jahangir Khan, Khalid I. Hussein, Zubair Ahmad</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.111354</guid>
-    </item>
-    <item>
-      <title>Selective CO&lt;sub&gt;2&lt;/sub&gt;-to-HCOOH Electroreduction on Graphdiyne-Supported Bimetallic Single-Cluster Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c00858</link>
-      <description>Bin Chen, Yafei Jiang, Hai Xiao, Jun Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4400093530
-
-                No abstract</description>
-      <author>Bin Chen, Yafei Jiang, Hai Xiao, Jun Li</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00858</guid>
-    </item>
     <item>
       <title>Theoretical understanding of graphene supported hematite photoanode for solar-driven water splitting applications</title>
       <link>https://doi.org/10.1016/j.cattod.2024.114912</link>
@@ -488,14 +438,24 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01704</guid>
     </item>
     <item>
-      <title>Role of Outer shell Electron-Nuclear Distant of Transition Metal Atoms (TMA) on Band Gap Reduction and Optical Properties of TiO2 Semiconductor</title>
-      <link>https://doi.org/10.1016/j.rineng.2024.102479</link>
-      <description>Taha Yasin Ahmed, Shujahadeen B. Aziz, Elham M. A. Dannoun, Results in engineering. None(None)] 2024. https://openalex.org/W4400094603
+      <title>Synthesis of La1-xSrxCoO3-&#948; and its catalytic oxidation of NO and its reaction path</title>
+      <link>https://doi.org/10.1016/j.heliyon.2024.e33580</link>
+      <description>Yige Guo, Xiaoxue Niu, Huaiyu Yang, Liwen Chen, Yi Ren, Hao Guo, Bo Wu, Heliyon. None(None)] 2024. https://openalex.org/W4400278855
 
-                No abstract</description>
-      <author>Taha Yasin Ahmed, Shujahadeen B. Aziz, Elham M. A. Dannoun</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.rineng.2024.102479</guid>
+                The oxidation rate of NO to NO2 is a critical parameter in the removal of NOx within selective catalytic reduction (SCR) systems. LaCoO3-&#948; is a kind of potential catalyst to enhance the oxidation of NO to NO2, it may offers an economic and stable alternative to noble metal catalysts, particularly at elevated temperatures. This study aimed to enhance the catalytic efficiency of LaCoO3-&#948; through strontium (Sr) doping. La1-xSrxCoO3-&#948; (with varying x values of 0.1, 0.2, 0.3, 0.4) was synthesized using a sol-gel method. La1-xSrxCoO3-&#948; exhibited superior NO oxidation catalytic activity compared to LaCoO3-&#948;, with the most notable enhancement observed at x = 0.3 (84% conversion). This improvement can be attributed to the substitution of La3+ with Sr2+, which induces lattice distortion and charge imbalance, thereby creating more oxygen vacancies that enhance the catalytic oxidation capability of La1-xSrxCoO3-&#948;. However, it's important to note that an excessive amount of Sr can result in the formation of SrCO3 deposits on the surface of La1-xSrxCoO3-&#948;, thereby diminishing its catalytic oxidation performance. The catalytic oxidation reaction behavior adhered most closely to the O2-adsorbed E-R model, the surface defects in La1-xSrxCoO3-&#948; playing a pivotal role in the catalytic reaction.</description>
+      <author>Yige Guo, Xiaoxue Niu, Huaiyu Yang, Liwen Chen, Yi Ren, Hao Guo, Bo Wu</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.heliyon.2024.e33580</guid>
+    </item>
+    <item>
+      <title>Coverage-dependent activation of CO over Ni/Cu(100) single atom alloys (SAAs)</title>
+      <link>https://doi.org/10.1063/5.0213809</link>
+      <description>Wu Meng, Ling Zhao Li, Ruijiao Zhao, Yu Liu, X.D. Wang, Han&#8208;Yue Qiu, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 161(1)] 2024. https://openalex.org/W4400294030
+
+                Single atom alloys (SAAs) often bring new chemistry in heterogeneous catalysis and well-defined structure for the study of structure&#8211;activity relationship (SAR). However, the existing pressure gap causes the reported SARs quite divergent. Herein, we have studied CO activation over Ni/Cu(100) SAAs in ultrahigh vacuum (UHV) and millibar range. While the Ni SAAs formed on Cu(100) significantly enhance the CO adsorption strength under UHV conditions, the CO treatment at elevated pressure leads to notable surface carbon and oxygen deposition through surface reaction. Density functional theory calculations revealed that either dissociation or disproportionation is thermodynamically forbidden for the coverage of CO less than 5/16 ML. However, these two reaction pathways can be opened at higher CO coverages due to the elevated energy state involving repulsion between adsorbed CO. This work uncovers the initial activation process of CO and demonstrates one typical cause for the pressure gap in surface science study as well.</description>
+      <author>Wu Meng, Ling Zhao Li, Ruijiao Zhao, Yu Liu, X.D. Wang, Han&#8208;Yue Qiu</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0213809</guid>
     </item>
     <item>
       <title>Electrochemically Induced CO&lt;sub&gt;2&lt;/sub&gt; Capture Enabled by Aqueous Quinone Flow Chemistry</title>

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jul 2024 01:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 01:07:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selective Aerobic Oxidation of Hydroxyl Compounds Catalyzed by Dimeric &lt;i&gt;N&lt;/i&gt;-Salicylidene Oxovanadium Complexes</title>
-      <link>https://doi.org/10.1021/acscatal.4c02766</link>
-      <description>Xiaomeng Fan, Jiping Ma, Min Wang, Mingxia Gao, Jie Xu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400078694
-
-                No abstract</description>
-      <author>Xiaomeng Fan, Jiping Ma, Min Wang, Mingxia Gao, Jie Xu</author>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02766</guid>
-    </item>
-    <item>
-      <title>Modulating Interfacial Hydrogen-Bond Environment by Electrolyte Engineering Promotes Acidic CO&lt;sub&gt;2&lt;/sub&gt; Electrolysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c02916</link>
-      <description>Wangxin Ge, Longlong Dong, Chaochen Wang, Yihua Zhu, Zhen Liu, Hongliang Jiang, Chunzhong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4400092381
-
-                No abstract</description>
-      <author>Wangxin Ge, Longlong Dong, Chaochen Wang, Yihua Zhu, Zhen Liu, Hongliang Jiang, Chunzhong Li</author>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02916</guid>
-    </item>
-    <item>
-      <title>Promoting Catalytic Performance of Metal Hydrides for Reversible Hydrogen Storage in N-ethylcarbazole by Electronic Structure and Hydrogen Chemical Potential Tuning</title>
-      <link>https://doi.org/10.1021/acscatal.4c02947</link>
-      <description>Haoming Yu, Zichang Zhang, Xu Jin, Xi Zhang, Kuerbangnisha Kadeer, Y. M. Lin, Zewei Xie, Yushen Huang, T Liu, Kuerbangnisha Kadeer, Qiang Sun, Jianlong Zheng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400093131
-
-                No abstract</description>
-      <author>Haoming Yu, Zichang Zhang, Xu Jin, Xi Zhang, Kuerbangnisha Kadeer, Y. M. Lin, Zewei Xie, Yushen Huang, T Liu, Kuerbangnisha Kadeer, Qiang Sun, Jianlong Zheng</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02947</guid>
-    </item>
-    <item>
-      <title>Selective CO&lt;sub&gt;2&lt;/sub&gt;-to-HCOOH Electroreduction on Graphdiyne-Supported Bimetallic Single-Cluster Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c00858</link>
-      <description>Bin Chen, Yafei Jiang, Hai Xiao, Jun Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4400093530
-
-                No abstract</description>
-      <author>Bin Chen, Yafei Jiang, Hai Xiao, Jun Li</author>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00858</guid>
-    </item>
     <item>
       <title>Manganese-Catalyzed Synthesis of Polyketones Using Hydrogen-Borrowing Approach</title>
       <link>https://doi.org/10.1021/acscatal.4c03019</link>
@@ -176,6 +136,46 @@
       <author>Wencui Li, Zhi Li, Hongfang Shen, Jiaxin Cai, Hongyu Jing, Shigang Xin, Zengwen Cao, Zean Xie, Dong Liu, Hang Zhang, Zhao Zhang</author>
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01328</guid>
+    </item>
+    <item>
+      <title>Interfacial Electric Field Stabilized Ru Single-Atom Catalysts for Efficient Water Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01829</link>
+      <description>Liu Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400274434
+
+                No abstract</description>
+      <author>Liu Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01829</guid>
+    </item>
+    <item>
+      <title>Structural and Computational Insights into the Noncanonical Aromatization in Fungal Polyketide Biosynthesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c01043</link>
+      <description>Hang Wang, Chao Peng, Xiaoxuan Chen, Haoyang Wang, Run Yang, He Xiang, Qiu&#8208;Fen Hu, Ling Liu, Lung Wa Chung, Yudai Matsuda, Weiguang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400281718
+
+                No abstract</description>
+      <author>Hang Wang, Chao Peng, Xiaoxuan Chen, Haoyang Wang, Run Yang, He Xiang, Qiu&#8208;Fen Hu, Ling Liu, Lung Wa Chung, Yudai Matsuda, Weiguang Wang</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01043</guid>
+    </item>
+    <item>
+      <title>Construction of Dual Active Sites in Perovskite Oxide for Targeted Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CH&lt;sub&gt;4&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c02793</link>
+      <description>Yibo Gao, Miaomiao Zhang, Yang Jin, Yanpeng Mao, Wenlong Wang, Zhanlong Song, ACS catalysis. None(None)] 2024. https://openalex.org/W4400288640
+
+                No abstract</description>
+      <author>Yibo Gao, Miaomiao Zhang, Yang Jin, Yanpeng Mao, Wenlong Wang, Zhanlong Song</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02793</guid>
+    </item>
+    <item>
+      <title>Surface Reactive Oxygen from Support Corrects the Nominal Supported Metal Size Effect in Controlling the Reactivity for Low-Temperature CH&lt;sub&gt;4&lt;/sub&gt;/CO&lt;sub&gt;2&lt;/sub&gt; Reforming</title>
+      <link>https://doi.org/10.1021/acscatal.4c02608</link>
+      <description>H.Y. Wang, Yaozhong Hu, Yongli Shen, Ewa Chukwu, Wei Xi, Gurong Shen, Jun Wang, Meiqing Shen, Ming Yang, Tong&#8208;Bu Lu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400297457
+
+                Modulating the metal&#8211;support interfacial structure to achieve coke elimination is highly desired for low-temperature CH4/CO2 reforming. Nonetheless, explicit effects of optimizing the supported metal size and catalyst support properties remain convoluted and sometimes controversial. Herein, we designed different Pt&#8211;CeO2 interfaces by tuning the surface reactive oxygen (SRO) from ceria and the in situ aggregated nanoparticle size developed from single-atom Pt as independent parameters. Intriguingly, the often-emphasized nominal Pt size effect (0.3&#8211;10.5 nm) is secondary due to carbon deposition, while the catalyst with a high SRO concentration exhibits outstanding reactivity. We demonstrated that the SRO from ceria corrects the nominal supported metal size effect in controlling the low-temperature CH4/CO2 reforming reactivity. Specifically, in the Pt&#8211;Ox&#8211;Ce interfacial microstructure, SRO oxidizes the deposited carbon as an oxygen reservoir, making interfacial Pt atoms remain active from coke, and therefore determines the reactivity rather than the nominal Pt species size. In situ characterizations and theoretical studies explained the reaction mechanism of SRO and carbon elimination. This work provides new insights for coke-resistant catalyst design and the coke elimination mechanism.</description>
+      <author>H.Y. Wang, Yaozhong Hu, Yongli Shen, Ewa Chukwu, Wei Xi, Gurong Shen, Jun Wang, Meiqing Shen, Ming Yang, Tong&#8208;Bu Lu</author>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02608</guid>
     </item>
   </channel>
 </rss>
