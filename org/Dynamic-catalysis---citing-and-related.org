@@ -1,29 +1,29 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Sat Jul  6 01:07:38 2024
+Created on Sun Jul  7 01:15:26 2024
 
-Found 1 results from 2024-06-29 to 2024-07-06
+Found 1 results from 2024-06-30 to 2024-07-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 
-* Choreographing Oscillatory Hydrodynamics with DNA-Coated Gold Nanoparticles  :Dynamic_catalysis___citing_and_related:
+* Alumina–Titania Nanolaminate Condensers for Hot Programmable Catalysis  :Dynamic_catalysis___citing_and_related:
 :PROPERTIES:
-:UUID: https://openalex.org/W4400107876
-:TOPICS: Nanofluidics and Nanopore Technology, Lipid Rafts and Membrane Dynamics, Plasmonic Nanoparticles: Synthesis, Properties, and Applications
-:PUBLICATION_DATE: 2024-06-28
+:UUID: https://openalex.org/W4400269574
+:TOPICS: Atomic Layer Deposition Technology, Lead-free Piezoelectric Materials, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-07-03
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.4c06868")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsmaterialslett.4c00652")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400107876"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400107876"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400107876"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400269574"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400269574"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400269574"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4400107876 (Open access: True)
+OpenAlex: https://openalex.org/W4400269574 (Open access: False)
     
-[[https://openalex.org/A5047482539][Anish Rao]], [[https://openalex.org/A5005106523][Ana Sánchez Iglesias]], [[https://openalex.org/A5006877674][Marek Grzelczak]], Journal of the American Chemical Society. None(None)] 2024. https://doi.org/10.1021/jacs.4c06868 
+[[https://openalex.org/A5069110770][Kyung‐Ryul Oh]], [[https://openalex.org/A5053531082][Amber Walton]], [[https://openalex.org/A5057749512][Jason Chalmers]], [[https://openalex.org/A5080549016][Janet Hopkins]], [[https://openalex.org/A5051020128][Jesse Canavan]], [[https://openalex.org/A5078494384][Tzia Ming Onn]], [[https://openalex.org/A5029871622][Susannah L. Scott]], [[https://openalex.org/A5071975512][C. Daniel Frisbie]], [[https://openalex.org/A5003718847][Paul J. Dauenhauer]], ACS materials letters. None(None)] 2024. https://doi.org/10.1021/acsmaterialslett.4c00652 
      
-Periodic responses to nonperiodic energy inputs, such as oscillations, are hallmarks of living systems. Nanoparticle-based systems have largely remained unexplored in the generation of oscillatory features. Here, we demonstrate a nanosystem featuring hierarchical response to light, where thermoplasmonic effects and reversible DNA-hybridization generate thermal convective forces and ultimately, oscillatory hydrodynamic flows. The slow aggregation of gold nanoparticles (AuNPs) serves as a positive feedback, while fast photothermal disassembly acts as negative feedback. These asymmetric feedback loops, combined with thermal hysteresis for time-delay, are essential ingredients for orchestrating an oscillating response.    
+Nanolaminates composed of thin alternating layers of Al2O3 and TiO2 (ATO) were engineered by using atomic layer deposition as the dielectric material for a Pt-on-carbon catalytic condenser. Investigation assessed synthesis parameters including the deposition temperature, Al2O3 and TiO2 layer thicknesses, total number of layers, and a capping Al2O3 layer on the maximum charge accumulation in the Pt catalyst. The highest capacitance ATO configuration demonstrated a specific capacitance of ∼1200 nF/cm2 with working voltages of ±5 V, enabling the storage of 4 × 1013 electrons or holes per cm2 at room temperature. The ATO devices exhibited enhanced capacitance at elevated temperatures of up to 400 °C, suggesting the suitability of these materials for high-temperature applications. Adsorption of carbon monoxide on the Pt/C-ATO device characterized by grazing incidence infrared spectroscopy showed changes in the surface binding energy of 13.1 ± 0.8 kJ/mol for an applied external voltage bias of ±1 V.    
 
     

@@ -4,18 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Jul 2024 01:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 01:15:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Choreographing Oscillatory Hydrodynamics with DNA-Coated Gold Nanoparticles</title>
-      <link>https://doi.org/10.1021/jacs.4c06868</link>
-      <description>Anish Rao, Ana S&#225;nchez Iglesias, Marek Grzelczak, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400107876
+      <title>Alumina&#8211;Titania Nanolaminate Condensers for Hot Programmable Catalysis</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.4c00652</link>
+      <description>Kyung&#8208;Ryul Oh, Amber Walton, Jason Chalmers, Janet Hopkins, Jesse Canavan, Tzia Ming Onn, Susannah L. Scott, C. Daniel Frisbie, Paul J. Dauenhauer, ACS materials letters. None(None)] 2024. https://openalex.org/W4400269574
 
-                Periodic responses to nonperiodic energy inputs, such as oscillations, are hallmarks of living systems. Nanoparticle-based systems have largely remained unexplored in the generation of oscillatory features. Here, we demonstrate a nanosystem featuring hierarchical response to light, where thermoplasmonic effects and reversible DNA-hybridization generate thermal convective forces and ultimately, oscillatory hydrodynamic flows. The slow aggregation of gold nanoparticles (AuNPs) serves as a positive feedback, while fast photothermal disassembly acts as negative feedback. These asymmetric feedback loops, combined with thermal hysteresis for time-delay, are essential ingredients for orchestrating an oscillating response.</description>
-      <author>Anish Rao, Ana S&#225;nchez Iglesias, Marek Grzelczak</author>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c06868</guid>
+                Nanolaminates composed of thin alternating layers of Al2O3 and TiO2 (ATO) were engineered by using atomic layer deposition as the dielectric material for a Pt-on-carbon catalytic condenser. Investigation assessed synthesis parameters including the deposition temperature, Al2O3 and TiO2 layer thicknesses, total number of layers, and a capping Al2O3 layer on the maximum charge accumulation in the Pt catalyst. The highest capacitance ATO configuration demonstrated a specific capacitance of &#8764;1200 nF/cm2 with working voltages of &#177;5 V, enabling the storage of 4 &#215; 1013 electrons or holes per cm2 at room temperature. The ATO devices exhibited enhanced capacitance at elevated temperatures of up to 400 &#176;C, suggesting the suitability of these materials for high-temperature applications. Adsorption of carbon monoxide on the Pt/C-ATO device characterized by grazing incidence infrared spectroscopy showed changes in the surface binding energy of 13.1 &#177; 0.8 kJ/mol for an applied external voltage bias of &#177;1 V.</description>
+      <author>Kyung&#8208;Ryul Oh, Amber Walton, Jason Chalmers, Janet Hopkins, Jesse Canavan, Tzia Ming Onn, Susannah L. Scott, C. Daniel Frisbie, Paul J. Dauenhauer</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00652</guid>
     </item>
   </channel>
 </rss>
