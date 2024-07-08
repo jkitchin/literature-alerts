@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Jul 2024 01:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 01:11:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Multiscale Optimization of Formic Acid Dehydrogenation Process Via Linear Model Decision Tree Surrogates</title>
-      <link>https://doi.org/10.2139/ssrn.4880209</link>
-      <description>Ethan M. Sunshine, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, Victoria M. Ehlinger, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Bo-Xun Wang, Mengyao Yuan, John R. Kitchin, Carl D. Laird, Matthew J. McNenly, Sneha A. Akhade, No host. None(None)] 2024. https://openalex.org/W4400149477
-
-                No abstract</description>
-      <author>Ethan M. Sunshine, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, Victoria M. Ehlinger, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Bo-Xun Wang, Mengyao Yuan, John R. Kitchin, Carl D. Laird, Matthew J. McNenly, Sneha A. Akhade</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4880209</guid>
-    </item>
   </channel>
 </rss>

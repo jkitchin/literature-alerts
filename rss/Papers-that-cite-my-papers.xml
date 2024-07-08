@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Jul 2024 01:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 01:11:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical study of CO2 reduction on two-dimensional porphyrin metal&#8211;organic frameworks modified with various metal paddlewheel clusters or phenyl</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.114743</link>
-      <description>X. An, Gaofeng Hu, Yueyang Zhang, Shaohui Guo, Xinxin Tian, Zhuxia Zhang, Computational and theoretical chemistry. None(None)] 2024. https://openalex.org/W4400142737
-
-                No abstract</description>
-      <author>X. An, Gaofeng Hu, Yueyang Zhang, Shaohui Guo, Xinxin Tian, Zhuxia Zhang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114743</guid>
-    </item>
-    <item>
-      <title>Hydrogen Adsorption on Ordered and Disordered Pt&#8211;Fe and Pt&#8211;Co Alloys</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01308</link>
-      <description>Andrew N. Okafor, William A. Shelton, Ye Xu, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400145700
-
-                The bulk properties and surface chemical reactivity of compositionally disordered Pt&#8211;Fe and Pt&#8211;Co alloys in the fcc A1 phase have been investigated theoretically in comparison to the ordered alloys of the same compositions. The results are analyzed together with our previously reported findings for Pt&#8211;Ni. Nonlinear variation is observed in lattice constant, d band center, magnetic moment, and hydrogen adsorption energy across the composition range (0&#8211;100 atomic % of Pt, xPt). The Pt 5d states are strongly perturbed by the 3d states of the base metals, leading to notable density of states above the Fermi level and residual magnetic moments at high xPt. Surface reactivity in terms of average H adsorption energy varies continuously with composition between the monometallic Fe&#8211;Pt and Co&#8211;Pt limits, going through a maximum around xPt = 0.5&#8211;0.75. Close inspection reveals a significant variation in site reactivity at xPt &lt; 0.75, particularly with disordered Pt&#8211;Fe alloys due in part to the inherent disparity in chemical reactivity between Fe and Pt. Furthermore, the strong interaction between Fe and Pt causes Pt-rich sites to be less reactive toward H than Pt-rich sites on disordered Pt&#8211;Ni alloy surfaces, despite less compressive strain caused. These results provide theoretical underpinnings for conceptualizing and understanding the performance of these Pt-base metal alloys in key catalytic applications and for efforts to tailor Pt-alloys as catalysts.</description>
-      <author>Andrew N. Okafor, William A. Shelton, Ye Xu</author>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01308</guid>
-    </item>
-    <item>
-      <title>High catalytic activity and abundant active sites in M2C12 monolayer for nitrogen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.06.231</link>
-      <description>Shulong Li, Yutao Chen, Guo Tian, Liangzhi Kou, Liang Qiao, Yong Zhao, Li&#8208;Yong Gan, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400147125
-
-                No abstract</description>
-      <author>Shulong Li, Yutao Chen, Guo Tian, Liangzhi Kou, Liang Qiao, Yong Zhao, Li&#8208;Yong Gan</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.231</guid>
-    </item>
-    <item>
-      <title>Unraveling Reactivity Origin of Oxygen Reduction at High-Entropy Alloy Electrocatalysts with a Computational and Data-Driven Approach</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01630</link>
-      <description>Yang Huang, Shih&#8208;Han Wang, Xiangrui Wang, Noushin Omidvar, Luke E.K. Achenie, Sara E. Skrabalak, Hongliang Xin, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400147811
-
-                High-entropy alloys (HEAs), characterized as compositionally complex solid solutions with five or more metal elements, have emerged as a novel class of catalytic materials with unique attributes. Because of the remarkable diversity of multielement sites or site ensembles stabilized by configurational entropy, human exploration of the multidimensional design space of HEAs presents a formidable challenge, necessitating an efficient, computational and data-driven strategy over traditional trial-and-error experimentation or physics-based modeling. Leveraging deep learning interatomic potentials for large-scale molecular simulations and pretrained machine learning models of surface reactivity, our approach effectively rationalizes the enhanced activity of a previously synthesized PdCuPtNiCo HEA nanoparticle system for electrochemical oxygen reduction, as corroborated by experimental observations. We contend that this framework deepens our fundamental understanding of the surface reactivity of high-entropy materials and fosters the accelerated development and synthesis of monodisperse HEA nanoparticles as a versatile material platform for catalyzing sustainable chemical and energy transformations.</description>
-      <author>Yang Huang, Shih&#8208;Han Wang, Xiangrui Wang, Noushin Omidvar, Luke E.K. Achenie, Sara E. Skrabalak, Hongliang Xin</author>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01630</guid>
-    </item>
-    <item>
-      <title>Phenomenology of Intermediate Molecular Dynamics at Metal-Oxide Interfaces</title>
-      <link>https://doi.org/10.1146/annurev-physchem-062123-022921</link>
-      <description>Tanja Cuk, Annual review of physical chemistry. 75(1)] 2024. https://openalex.org/W4400163577
-
-                Reaction intermediates buried within a solid-liquid interface are difficult targets for physiochemical measurements. They are inherently molecular and locally dynamic, while their surroundings are extended by a periodic lattice on one side and the solvent dielectric on the other. Challenges compound on a metal-oxide surface of varied sites and especially so at its aqueous interface of many prominent reactions. Recently, phenomenological theory coupled with optical spectroscopy has become a more prominent tool for isolating the intermediates and their molecular dynamics. The following article reviews three examples of the SrTiO</description>
-      <author>Tanja Cuk</author>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1146/annurev-physchem-062123-022921</guid>
-    </item>
     <item>
       <title>Synergistic Effect Enables the Dual-Metal Doped Cobalt Telluride Particles as Potential Electrocatalysts for Oxygen Evolution in Alkaline Electrolyte</title>
       <link>https://doi.org/10.1021/acs.inorgchem.4c00921</link>
@@ -562,7 +512,7 @@
       <link>https://doi.org/10.1021/acsami.4c04968</link>
       <description>Jing Li, Angelika Wrzesi&#324;ska&#8208;Lashkova, Marielle Deconinck, M.W. Gobel, Yana Vaynzof, Vladimir Lesnyak, Alexander Eychm&#252;ller, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4400350027
 
-                No abstract</description>
+                Transition metal dichalcogenides (TMDs) have garnered significant attention as efficient electrocatalysts for the hydrogen evolution reaction (HER) due to their high activity, stability, and cost-effectiveness. However, the development of a convenient and economical approach for large-scale HER applications remains a persistent challenge. In this study, we present the successful synthesis of TMD nanoparticles (including MoS</description>
       <author>Jing Li, Angelika Wrzesi&#324;ska&#8208;Lashkova, Marielle Deconinck, M.W. Gobel, Yana Vaynzof, Vladimir Lesnyak, Alexander Eychm&#252;ller</author>
       <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c04968</guid>
@@ -648,6 +598,76 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.336</guid>
     </item>
     <item>
+      <title>Facet-engineered ruthenium oxide on titanium oxide oxygen evolution electrocatalysts for proton-exchange membrane water electrolysis</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124382</link>
+      <description>Hyung&#8208;Koo Yoon, Hee Jo Song, Ji Seong Hyoung, Sang Won Jung, Andi Haryanto, Chan Woo Lee, Dong&#8208;Wan Kim, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4400381918
+
+                No abstract</description>
+      <author>Hyung&#8208;Koo Yoon, Hee Jo Song, Ji Seong Hyoung, Sang Won Jung, Andi Haryanto, Chan Woo Lee, Dong&#8208;Wan Kim</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124382</guid>
+    </item>
+    <item>
+      <title>First and Second Reductions in an Aprotic Solvent: Comparing Computational and Experimental One-Electron Reduction Potentials for 345 Quinones</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c00602</link>
+      <description>Sarah Elhajj, Samer Gozem, Journal of chemical theory and computation. None(None)] 2024. https://openalex.org/W4400382975
+
+                No abstract</description>
+      <author>Sarah Elhajj, Samer Gozem</author>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00602</guid>
+    </item>
+    <item>
+      <title>Using ethanol and isopropanol as biomass model compounds for understanding bond scission mechanisms over Cu/Mo2N catalysts</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124362</link>
+      <description>William N. Porter, Wenjie Liao, Marcus Yu, Yong Yuan, Zhexi Lin, Ping Liu, Kuan Chang, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4400388059
+
+                No abstract</description>
+      <author>William N. Porter, Wenjie Liao, Marcus Yu, Yong Yuan, Zhexi Lin, Ping Liu, Kuan Chang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124362</guid>
+    </item>
+    <item>
+      <title>XtalOpt Version 13: Multi-Objective Evolutionary Search for Novel Functional Materials</title>
+      <link>https://doi.org/10.1016/j.cpc.2024.109306</link>
+      <description>Samad Hajinazar, Eva Zurek, Computer physics communications. None(None)] 2024. https://openalex.org/W4400392210
+
+                No abstract</description>
+      <author>Samad Hajinazar, Eva Zurek</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cpc.2024.109306</guid>
+    </item>
+    <item>
+      <title>Dataset for quantum-mechanical exploration of conformers and solvent effects in large drug-like molecules</title>
+      <link>https://doi.org/10.1038/s41597-024-03521-8</link>
+      <description>Leonardo Medrano Sandonas, Dries Van Rompaey, Alessio Fallani, Mathias Hilfiker, David F. Hahn, Laura P&#233;rez&#8208;Benito, Jonas Verhoeven, Gary Tresadern, J&#246;rg K. Wegner, Hugo Ceulemans, Alexandre Tkatchenko, Scientific data. 11(1)] 2024. https://openalex.org/W4400396982
+
+                Abstract We here introduce the Aquamarine (AQM) dataset, an extensive quantum-mechanical (QM) dataset that contains the structural and electronic information of 59,783 low-and high-energy conformers of 1,653 molecules with a total number of atoms ranging from 2 to 92 (mean: 50.9), and containing up to 54 (mean: 28.2) non-hydrogen atoms. To gain insights into the solvent effects as well as collective dispersion interactions for drug-like molecules, we have performed QM calculations supplemented with a treatment of many-body dispersion (MBD) interactions of structures and properties in the gas phase and implicit water. Thus, AQM contains over 40 global and local physicochemical properties (including ground-state and response properties) per conformer computed at the tightly converged PBE0+MBD level of theory for gas-phase molecules, whereas PBE0+MBD with the modified Poisson-Boltzmann (MPB) model of water was used for solvated molecules. By addressing both molecule-solvent and dispersion interactions, AQM dataset can serve as a challenging benchmark for state-of-the-art machine learning methods for property modeling and de novo generation of large (solvated) molecules with pharmaceutical and biological relevance.</description>
+      <author>Leonardo Medrano Sandonas, Dries Van Rompaey, Alessio Fallani, Mathias Hilfiker, David F. Hahn, Laura P&#233;rez&#8208;Benito, Jonas Verhoeven, Gary Tresadern, J&#246;rg K. Wegner, Hugo Ceulemans, Alexandre Tkatchenko</author>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41597-024-03521-8</guid>
+    </item>
+    <item>
+      <title>Boosting electrocatalytic nitrate-to-ammonia of single Fe active sites via coordination engineering: From theory to experiments</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.07.055</link>
+      <description>Heying Li, Xinyang Liu, Ziwang Kan, Song Liu, Jingxiang Zhao, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400398824
+
+                No abstract</description>
+      <author>Heying Li, Xinyang Liu, Ziwang Kan, Song Liu, Jingxiang Zhao</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.055</guid>
+    </item>
+    <item>
+      <title>Electron distribution regulating of nonmetal doped monolayer g-GaN for enhanced electrocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160683</link>
+      <description>Yafei Zhao, Liang He, Applied surface science. None(None)] 2024. https://openalex.org/W4400398871
+
+                No abstract</description>
+      <author>Yafei Zhao, Liang He</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160683</guid>
+    </item>
+    <item>
       <title>Research on the Performance and Modification Mechanism of Gutta-Percha-Modified Asphalt</title>
       <link>https://doi.org/10.3390/polym16131860</link>
       <description>Simeng Yan, Shichao Cui, Ning Guo, Zhaoyang Chu, Jun Zhang, Sitong Yan, Xin Jin, Polymers. 16(13)] 2024. https://openalex.org/W4400211097
@@ -656,16 +676,6 @@
       <author>Simeng Yan, Shichao Cui, Ning Guo, Zhaoyang Chu, Jun Zhang, Sitong Yan, Xin Jin</author>
       <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/polym16131860</guid>
-    </item>
-    <item>
-      <title>Machine Learning of Reactive Potentials</title>
-      <link>https://doi.org/10.1146/annurev-physchem-062123-024417</link>
-      <description>Yinuo Yang, Shuhao Zhang, Kavindri Ranasinghe, Olexandr Isayev, Adri&#225;n E. Roitberg, Annual review of physical chemistry. 75(1)] 2024. https://openalex.org/W4400163554
-
-                In the past two decades, machine learning potentials (MLPs) have driven significant developments in chemical, biological, and material sciences. The construction and training of MLPs enable fast and accurate simulations and analysis of thermodynamic and kinetic properties. This review focuses on the application of MLPs to reaction systems with consideration of bond breaking and formation. We review the development of MLP models, primarily with neural network and kernel-based algorithms, and recent applications of reactive MLPs (RMLPs) to systems at different scales. We show how RMLPs are constructed, how they speed up the calculation of reactive dynamics, and how they facilitate the study of reaction trajectories, reaction rates, free energy calculations, and many other calculations. Different data sampling strategies applied in building RMLPs are also discussed with a focus on how to collect structures for rare events and how to further improve their performance with active learning.</description>
-      <author>Yinuo Yang, Shuhao Zhang, Kavindri Ranasinghe, Olexandr Isayev, Adri&#225;n E. Roitberg</author>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1146/annurev-physchem-062123-024417</guid>
     </item>
   </channel>
 </rss>

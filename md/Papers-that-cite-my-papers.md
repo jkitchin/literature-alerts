@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Jul  7 01:15:33 2024
+Created on Mon Jul  8 01:11:30 2024
 
-Found 66 results from 2024-06-30 to 2024-07-07
+Found 67 results from 2024-07-01 to 2024-07-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -13,61 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
-
-## Theoretical study of CO2 reduction on two-dimensional porphyrin metal–organic frameworks modified with various metal paddlewheel clusters or phenyl   
-
-OpenAlex: https://openalex.org/W4400142737    
-Open access: False
-    
-[X. An](https://openalex.org/A5036181934), [Gaofeng Hu](https://openalex.org/A5081307210), [Yueyang Zhang](https://openalex.org/A5044972973), [Shaohui Guo](https://openalex.org/A5064561250), [Xinxin Tian](https://openalex.org/A5072339257), [Zhuxia Zhang](https://openalex.org/A5026623520), Computational and theoretical chemistry. None(None)] 2024.https://doi.org/10.1016/j.comptc.2024.114743.
-    
-No abstract    
-
-    
-
-## Hydrogen Adsorption on Ordered and Disordered Pt–Fe and Pt–Co Alloys   
-
-OpenAlex: https://openalex.org/W4400145700    
-Open access: True
-    
-[Andrew N. Okafor](https://openalex.org/A5019081397), [William A. Shelton](https://openalex.org/A5084433928), [Ye Xu](https://openalex.org/A5076348413), Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01308.
-    
-The bulk properties and surface chemical reactivity of compositionally disordered Pt–Fe and Pt–Co alloys in the fcc A1 phase have been investigated theoretically in comparison to the ordered alloys of the same compositions. The results are analyzed together with our previously reported findings for Pt–Ni. Nonlinear variation is observed in lattice constant, d band center, magnetic moment, and hydrogen adsorption energy across the composition range (0–100 atomic % of Pt, xPt). The Pt 5d states are strongly perturbed by the 3d states of the base metals, leading to notable density of states above the Fermi level and residual magnetic moments at high xPt. Surface reactivity in terms of average H adsorption energy varies continuously with composition between the monometallic Fe–Pt and Co–Pt limits, going through a maximum around xPt = 0.5–0.75. Close inspection reveals a significant variation in site reactivity at xPt < 0.75, particularly with disordered Pt–Fe alloys due in part to the inherent disparity in chemical reactivity between Fe and Pt. Furthermore, the strong interaction between Fe and Pt causes Pt-rich sites to be less reactive toward H than Pt-rich sites on disordered Pt–Ni alloy surfaces, despite less compressive strain caused. These results provide theoretical underpinnings for conceptualizing and understanding the performance of these Pt-base metal alloys in key catalytic applications and for efforts to tailor Pt-alloys as catalysts.    
-
-    
-
-## High catalytic activity and abundant active sites in M2C12 monolayer for nitrogen reduction reaction   
-
-OpenAlex: https://openalex.org/W4400147125    
-Open access: False
-    
-[Shulong Li](https://openalex.org/A5035092988), [Yutao Chen](https://openalex.org/A5059686253), [Guo Tian](https://openalex.org/A5027650194), [Liangzhi Kou](https://openalex.org/A5090703533), [Liang Qiao](https://openalex.org/A5062631493), [Yong Zhao](https://openalex.org/A5069069316), [Li‐Yong Gan](https://openalex.org/A5006186991), Journal of colloid and interface science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.06.231.
-    
-No abstract    
-
-    
-
-## Unraveling Reactivity Origin of Oxygen Reduction at High-Entropy Alloy Electrocatalysts with a Computational and Data-Driven Approach   
-
-OpenAlex: https://openalex.org/W4400147811    
-Open access: True
-    
-[Yang Huang](https://openalex.org/A5032528268), [Shih‐Han Wang](https://openalex.org/A5017516464), [Xiangrui Wang](https://openalex.org/A5035847343), [Noushin Omidvar](https://openalex.org/A5042598101), [Luke E.K. Achenie](https://openalex.org/A5086736683), [Sara E. Skrabalak](https://openalex.org/A5068509524), [Hongliang Xin](https://openalex.org/A5040429065), Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01630.
-    
-High-entropy alloys (HEAs), characterized as compositionally complex solid solutions with five or more metal elements, have emerged as a novel class of catalytic materials with unique attributes. Because of the remarkable diversity of multielement sites or site ensembles stabilized by configurational entropy, human exploration of the multidimensional design space of HEAs presents a formidable challenge, necessitating an efficient, computational and data-driven strategy over traditional trial-and-error experimentation or physics-based modeling. Leveraging deep learning interatomic potentials for large-scale molecular simulations and pretrained machine learning models of surface reactivity, our approach effectively rationalizes the enhanced activity of a previously synthesized PdCuPtNiCo HEA nanoparticle system for electrochemical oxygen reduction, as corroborated by experimental observations. We contend that this framework deepens our fundamental understanding of the surface reactivity of high-entropy materials and fosters the accelerated development and synthesis of monodisperse HEA nanoparticles as a versatile material platform for catalyzing sustainable chemical and energy transformations.    
-
-    
-
-## Phenomenology of Intermediate Molecular Dynamics at Metal-Oxide Interfaces   
-
-OpenAlex: https://openalex.org/W4400163577    
-Open access: False
-    
-[Tanja Cuk](https://openalex.org/A5066895569), Annual review of physical chemistry. 75(1)] 2024.https://doi.org/10.1146/annurev-physchem-062123-022921.
-    
-Reaction intermediates buried within a solid-liquid interface are difficult targets for physiochemical measurements. They are inherently molecular and locally dynamic, while their surroundings are extended by a periodic lattice on one side and the solvent dielectric on the other. Challenges compound on a metal-oxide surface of varied sites and especially so at its aqueous interface of many prominent reactions. Recently, phenomenological theory coupled with optical spectroscopy has become a more prominent tool for isolating the intermediates and their molecular dynamics. The following article reviews three examples of the SrTiO    
-
-    
 
 ## Synergistic Effect Enables the Dual-Metal Doped Cobalt Telluride Particles as Potential Electrocatalysts for Oxygen Evolution in Alkaline Electrolyte   
 
@@ -626,7 +571,7 @@ Open access: False
     
 [Jing Li](https://openalex.org/A5091984328), [Angelika Wrzesińska‐Lashkova](https://openalex.org/A5093743367), [Marielle Deconinck](https://openalex.org/A5068486317), [M.W. Gobel](https://openalex.org/A5067946883), [Yana Vaynzof](https://openalex.org/A5088452379), [Vladimir Lesnyak](https://openalex.org/A5020005572), [Alexander Eychmüller](https://openalex.org/A5045801140), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c04968.
     
-No abstract    
+Transition metal dichalcogenides (TMDs) have garnered significant attention as efficient electrocatalysts for the hydrogen evolution reaction (HER) due to their high activity, stability, and cost-effectiveness. However, the development of a convenient and economical approach for large-scale HER applications remains a persistent challenge. In this study, we present the successful synthesis of TMD nanoparticles (including MoS    
 
     
 
@@ -718,6 +663,83 @@ No abstract
 
     
 
+## Facet-engineered ruthenium oxide on titanium oxide oxygen evolution electrocatalysts for proton-exchange membrane water electrolysis   
+
+OpenAlex: https://openalex.org/W4400381918    
+Open access: False
+    
+[Hyung‐Koo Yoon](https://openalex.org/A5060324897), [Hee Jo Song](https://openalex.org/A5057076775), [Ji Seong Hyoung](https://openalex.org/A5092921649), [Sang Won Jung](https://openalex.org/A5072213339), [Andi Haryanto](https://openalex.org/A5050014999), [Chan Woo Lee](https://openalex.org/A5004886231), [Dong‐Wan Kim](https://openalex.org/A5016978421), Applied catalysis. B, Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124382.
+    
+No abstract    
+
+    
+
+## First and Second Reductions in an Aprotic Solvent: Comparing Computational and Experimental One-Electron Reduction Potentials for 345 Quinones   
+
+OpenAlex: https://openalex.org/W4400382975    
+Open access: True
+    
+[Sarah Elhajj](https://openalex.org/A5097027602), [Samer Gozem](https://openalex.org/A5061915100), Journal of chemical theory and computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c00602.
+    
+No abstract    
+
+    
+
+## Using ethanol and isopropanol as biomass model compounds for understanding bond scission mechanisms over Cu/Mo2N catalysts   
+
+OpenAlex: https://openalex.org/W4400388059    
+Open access: False
+    
+[William N. Porter](https://openalex.org/A5060526552), [Wenjie Liao](https://openalex.org/A5050541240), [Marcus Yu](https://openalex.org/A5003597822), [Yong Yuan](https://openalex.org/A5041615964), [Zhexi Lin](https://openalex.org/A5005584952), [Ping Liu](https://openalex.org/A5064944001), [Kuan Chang](https://openalex.org/A5026193724), Applied catalysis. B, Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124362.
+    
+No abstract    
+
+    
+
+## XtalOpt Version 13: Multi-Objective Evolutionary Search for Novel Functional Materials   
+
+OpenAlex: https://openalex.org/W4400392210    
+Open access: False
+    
+[Samad Hajinazar](https://openalex.org/A5042914951), [Eva Zurek](https://openalex.org/A5000262710), Computer physics communications. None(None)] 2024.https://doi.org/10.1016/j.cpc.2024.109306.
+    
+No abstract    
+
+    
+
+## Dataset for quantum-mechanical exploration of conformers and solvent effects in large drug-like molecules   
+
+OpenAlex: https://openalex.org/W4400396982    
+Open access: True
+    
+[Leonardo Medrano Sandonas](https://openalex.org/A5075028933), [Dries Van Rompaey](https://openalex.org/A5056917728), [Alessio Fallani](https://openalex.org/A5086916366), [Mathias Hilfiker](https://openalex.org/A5093974400), [David F. Hahn](https://openalex.org/A5041724634), [Laura Pérez‐Benito](https://openalex.org/A5078699014), [Jonas Verhoeven](https://openalex.org/A5054176111), [Gary Tresadern](https://openalex.org/A5022201149), [Jörg K. Wegner](https://openalex.org/A5081681147), [Hugo Ceulemans](https://openalex.org/A5019296124), [Alexandre Tkatchenko](https://openalex.org/A5026929463), Scientific data. 11(1)] 2024.https://doi.org/10.1038/s41597-024-03521-8.
+    
+Abstract We here introduce the Aquamarine (AQM) dataset, an extensive quantum-mechanical (QM) dataset that contains the structural and electronic information of 59,783 low-and high-energy conformers of 1,653 molecules with a total number of atoms ranging from 2 to 92 (mean: 50.9), and containing up to 54 (mean: 28.2) non-hydrogen atoms. To gain insights into the solvent effects as well as collective dispersion interactions for drug-like molecules, we have performed QM calculations supplemented with a treatment of many-body dispersion (MBD) interactions of structures and properties in the gas phase and implicit water. Thus, AQM contains over 40 global and local physicochemical properties (including ground-state and response properties) per conformer computed at the tightly converged PBE0+MBD level of theory for gas-phase molecules, whereas PBE0+MBD with the modified Poisson-Boltzmann (MPB) model of water was used for solvated molecules. By addressing both molecule-solvent and dispersion interactions, AQM dataset can serve as a challenging benchmark for state-of-the-art machine learning methods for property modeling and de novo generation of large (solvated) molecules with pharmaceutical and biological relevance.    
+
+    
+
+## Boosting electrocatalytic nitrate-to-ammonia of single Fe active sites via coordination engineering: From theory to experiments   
+
+OpenAlex: https://openalex.org/W4400398824    
+Open access: False
+    
+[Heying Li](https://openalex.org/A5089354127), [Xinyang Liu](https://openalex.org/A5013272839), [Ziwang Kan](https://openalex.org/A5052166847), [Song Liu](https://openalex.org/A5014295844), [Jingxiang Zhao](https://openalex.org/A5011941921), Journal of colloid and interface science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.07.055.
+    
+No abstract    
+
+    
+
+## Electron distribution regulating of nonmetal doped monolayer g-GaN for enhanced electrocatalytic CO2 reduction   
+
+OpenAlex: https://openalex.org/W4400398871    
+Open access: False
+    
+[Yafei Zhao](https://openalex.org/A5030373380), [Liang He](https://openalex.org/A5062604912), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160683.
+    
+No abstract    
+
+    
+
 ## Research on the Performance and Modification Mechanism of Gutta-Percha-Modified Asphalt   
 
 OpenAlex: https://openalex.org/W4400211097    
@@ -726,16 +748,5 @@ Open access: True
 [Simeng Yan](https://openalex.org/A5070730787), [Shichao Cui](https://openalex.org/A5015773697), [Ning Guo](https://openalex.org/A5039085563), [Zhaoyang Chu](https://openalex.org/A5051600519), [Jun Zhang](https://openalex.org/A5081588905), [Sitong Yan](https://openalex.org/A5012804091), [Xin Jin](https://openalex.org/A5076589527), Polymers. 16(13)] 2024.https://doi.org/10.3390/polym16131860.
     
 Presently, there is a significant focus on the investigation and advancement of polymer-modified asphalt that is both high-performing and environmentally sustainable. This study thoroughly examined the performance and modification mechanism of gutta-percha (GP) as a novel asphalt modifier. The investigation was conducted using a combination of macro- and microscopic testing, as well as molecular dynamics simulations. This work primarily examined the compatibility of GP with asphalt molecular modeling. This paper used molecular dynamics to identify the most suitable mixing temperature. Next, the gray correlation theory was used to discuss the most effective method for preparing gutta-percha-modified asphalt (GPMA). The macro-rheological tests and microscopic performance analysis provided a full understanding of the impact of GP on asphalt properties and the process of alteration. The findings indicate that eucommia ulmoides gum (EUG) exhibits good compatibility with asphalt, while sulfur-vulcanized eucommia ulmoides gum (SEUG) does not demonstrate compatibility with asphalt. Both EUG and SEUG enhance the thermal stability and resistance to deformation of asphalt at high temperatures, with SEUG having a particularly notable effect. However, both additives do not improve the resistance of asphalt to cracking at low temperatures. The manufacturing method for EUG-modified asphalt (EUGMA) involves physical mixing, whereas sulfur-vulcanized eucommia ulmoides gum-modified asphalt (SEUGMA) involves physical mixing together with certain chemical processes. This research establishes a theoretical foundation for the advancement of GP as a novel environmentally friendly and highly effective asphalt modification.    
-
-    
-
-## Machine Learning of Reactive Potentials   
-
-OpenAlex: https://openalex.org/W4400163554    
-Open access: False
-    
-[Yinuo Yang](https://openalex.org/A5078136737), [Shuhao Zhang](https://openalex.org/A5047212939), [Kavindri Ranasinghe](https://openalex.org/A5070006903), [Olexandr Isayev](https://openalex.org/A5011932992), [Adrián E. Roitberg](https://openalex.org/A5048973716), Annual review of physical chemistry. 75(1)] 2024.https://doi.org/10.1146/annurev-physchem-062123-024417.
-    
-In the past two decades, machine learning potentials (MLPs) have driven significant developments in chemical, biological, and material sciences. The construction and training of MLPs enable fast and accurate simulations and analysis of thermodynamic and kinetic properties. This review focuses on the application of MLPs to reaction systems with consideration of bond breaking and formation. We review the development of MLP models, primarily with neural network and kernel-based algorithms, and recent applications of reactive MLPs (RMLPs) to systems at different scales. We show how RMLPs are constructed, how they speed up the calculation of reactive dynamics, and how they facilitate the study of reaction trajectories, reaction rates, free energy calculations, and many other calculations. Different data sampling strategies applied in building RMLPs are also discussed with a focus on how to collect structures for rare events and how to further improve their performance with active learning.    
 
     

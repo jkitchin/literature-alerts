@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jul  7 01:15:23 2024
+Created on Mon Jul  8 01:11:23 2024
 
-Found 27 results from 2024-06-30 to 2024-07-07
+Found 28 results from 2024-07-01 to 2024-07-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Programmable Wet-Interfacial Joule Heating to Rapidly Synthesize Metastable Protohematite Photoanodes: Metal and Lattice Oxygen Dual Sites for Improving Water Oxidation   
-
-OpenAlex: https://openalex.org/W4400166207    
-Open access: False
-    
-[Jiujun Deng](https://openalex.org/A5059266064), [Guoqing Li](https://openalex.org/A5031741004), [Dongpeng Yan](https://openalex.org/A5025750937), [Wei Zhang](https://openalex.org/A5027497777), [Kun Feng](https://openalex.org/A5019954363), [Kaiqi Nie](https://openalex.org/A5032967714), [Changhai Liu](https://openalex.org/A5061140879), [Xiaoxin Lv](https://openalex.org/A5087451921), [Jun Zhong](https://openalex.org/A5010968064), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02690.
-    
-High-temperature sintering is critical for efficient hematite photoanodes in terms of improving the crystallinity and minimizing deficiencies. However, prolonged conventional furnace annealing requires high energy consumption and simultaneously results in serious damage to the transparent conducting oxide (TCO) substrate. This work demonstrates a universal wet-interfacial Joule heating strategy for rapidly synthesizing high-performance metastable protohematite photoanodes, which greatly decreases the power consumption and causes less damage to the TCO substrate by shortening the sintering time to ∼90 s. More importantly, the protohematite phase was found to effectively facilitate the charge dynamics in the bulk and surface of the as-resulting photoanode by increasing donor density and lowering the oxygen evolution reaction overpotential via offering dual active sites (lattice oxygen and Fe sites). Moreover, this annealing strategy could be well coupled with commonly used Ti-treatment to achieve a further performance enhancement and also shows high feasibility in rapidly fabricating efficient TiO2 and BiVO4 photoanodes. This study opens a facile, rapid, and reliable approach for fabricating efficient metal oxide photoanodes, contributing to the development of photoelectrochemical water splitting.    
-
-    
 
 ## Catalyst in Sight: The Use of Benchtop NMR Spectrometers to Maintain the Activity of Pd-PPh3 Catalysts   
 
@@ -193,6 +182,17 @@ No abstract
 
     
 
+## Tunable Regiodivergent Reactivity of N-Allenamides with Silacyclobutanes via Palladium Catalysis in the Synthesis of Silacyclic β-Aminosilanes   
+
+OpenAlex: https://openalex.org/W4400322286    
+Open access: False
+    
+[Yidong Wang](https://openalex.org/A5064114531), [Yuanming Sun](https://openalex.org/A5039043697), [Tianying Liu](https://openalex.org/A5037207226), [Hang Zhou](https://openalex.org/A5032437433), [Jianqi Sun](https://openalex.org/A5064763149), [Liuzhou Gao](https://openalex.org/A5018506517), [Yi‐Ming Wang](https://openalex.org/A5016951566), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02607.
+    
+The key structure of β-aminosilanes has attracted significant interest because of their latent biological activities in the field of medicinal chemistry. However, the structural variety of β-aminosilanes has been significantly constrained by the absence of a comprehensive synthetic approach. Thus, the development of regiodivergent catalytic systems for the construction of structurally diverse β-aminosilanes via an intermolecular cycloaddition strategy would represent a significant addition to the limited toolkit available for their synthesis. We herein present an attractive approach for the synthesis of β-aminosilanes through the regioselective cycloaddition of N-allenamides with the expansion of silacyclobutanes catalyzed by Pd/PR3. Just by selecting a suitable protecting group of N-allenamides, the regioselectivity of the cycloaddition is completely switched to efficiently provide two regioisomers of silacyclic β-aminosilanes. Two regioselectivities were proceeded during the migratory insertion and reductive elimination process, the origin of which could be well rationalized using density functional theory calculations.    
+
+    
+
 ## Structural Dynamics of Metalloproteins and Redox Enzymology with Mix-and-Inject Time-Resolved Serial Femtosecond Crystallography   
 
 OpenAlex: https://openalex.org/W4400324333    
@@ -254,6 +254,17 @@ OpenAlex: https://openalex.org/W4400349788
 Open access: False
     
 [Qin Jiang](https://openalex.org/A5037591628), [Youqian Deng](https://openalex.org/A5079530450), [Xu Luo](https://openalex.org/A5026752182), [Zhi-Hong Dong](https://openalex.org/A5017739860), [Yao Zhou](https://openalex.org/A5014123975), [Yong Liu](https://openalex.org/A5033080900), [Wen‐Dao Chu](https://openalex.org/A5057160455), [Cheng‐Yu He](https://openalex.org/A5005584095), [Sanzhong Luo](https://openalex.org/A5019656810), [Quan-Zhong Liu](https://openalex.org/A5061735745), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02073.
+    
+No abstract    
+
+    
+
+## Enhancing the Stability of FeNC Catalysts in PEMFCs by Improved Purification   
+
+OpenAlex: https://openalex.org/W4400353629    
+Open access: False
+    
+[Vladislav Gridin](https://openalex.org/A5053092872), [Nicole Segura‐Salas](https://openalex.org/A5047392733), [Viktoriia A. Saveleva](https://openalex.org/A5052520220), [Pascal Theis](https://openalex.org/A5021795670), [Steffen Haller](https://openalex.org/A5014124198), [Catarina C. Ribeiro](https://openalex.org/A5087999484), [Kathrin Hofmann](https://openalex.org/A5048343148), [Robert W. Stark](https://openalex.org/A5085065614), [Ulrike I. Kramm](https://openalex.org/A5009777450), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02930.
     
 No abstract    
 
