@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Jul  8 01:11:22 2024
+Created on Tue Jul  9 01:10:30 2024
 
-Found 148 results from 2024-07-01 to 2024-07-08
+Found 150 results from 2024-07-02 to 2024-07-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -128,17 +128,6 @@ The electrochemical CO2 reduction reaction (CO2RR) has recently attracted increa
 
     
 
-## Research on Regional Economic Growth and CO2 Emissions Reduction Targets: A Decoupling Perspective   
-
-OpenAlex: https://openalex.org/W4400172096    
-Open access: True
-    
-[Hong Ma](https://openalex.org/A5084239801), [Xueyi Zhuang](https://openalex.org/A5099736718), International business & economics studies. 6(3)] 2024.https://doi.org/10.22158/ibes.v6n3p204.
-    
-Elucidating the relationship between economic growth and CO2 emissions helps promote the coordinated and synergistic development of the economy and the environment. This study utilizes the Tapio decoupling model to analyze the decoupling relationship between economic growth rate and CO2 emissions in 14 cities of Liaoning Province from 2005 to 2020. Additionally, a model is established with the aim of determining CO2 reduction targets for achieving strong or weak decoupling states. Results showed that although most cities showed a strong or weak decoupling state, the decoupling performance in specific year was not ideal, the proportion of negative decoupling increased from 2017 to 2020. Liaoning Province faces significant challenges in decoupling economic growth rate from CO2 emissions, it needs to reduce its CO2 emissions (CE) by 5659.33 107 Kg or 5397.80 107 Kg to achieve strong or weak decoupling, respectively. Among the 14 cities, 8 cities have not achieved strong or weak decoupling. Cities such as Anshan, Yingkou, and Benxi face the greatest challenges, with a minimum required reduction of 25.72% in CE, 41.77% in Carbon Emissions per Capita, and 16.62% in Carbon Emissions per Unit of GDP. The research results can provide theoretical support for improving energy efficiency.    
-
-    
-
 ## Al-doped oxide-derived copper catalyst with stable Cu+ site for efficient electrocatalytic CO2 reduction to C2H4   
 
 OpenAlex: https://openalex.org/W4400307879    
@@ -161,6 +150,17 @@ In carbon dioxide electrochemical reduction (CO2ER), due to isolated catalysts e
 
     
 
+## Revisiting the electrochemical reduction of CO2 on Au25(SR)18− nanocluster   
+
+OpenAlex: https://openalex.org/W4400400371    
+Open access: False
+    
+[Dominic Alfonso](https://openalex.org/A5072077291), Chemical physics letters. None(None)] 2024.https://doi.org/10.1016/j.cplett.2024.141462.
+    
+No abstract    
+
+    
+
 ## Tuning Light-Matter Interaction with Photonic Architectures for CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4400350249    
@@ -169,6 +169,17 @@ Open access: False
 [Wen‐Hui Cheng](https://openalex.org/A5074044540), CRC Press eBooks. None(None)] 2024.https://doi.org/10.1201/9781003463009-6.
     
 No abstract    
+
+    
+
+## Electron distribution regulating of nonmetal doped monolayer g-GaN for enhanced electrocatalytic CO2 reduction   
+
+OpenAlex: https://openalex.org/W4400398871    
+Open access: False
+    
+[Yafei Zhao](https://openalex.org/A5030373380), [Liang He](https://openalex.org/A5062604912), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160683.
+    
+Exploring inexpensive electrocatalysts that can efficiently and selectively convert CO2 into hydrocarbon fuels is important to promote carbon neutrality and solve the energy crisis. Current electrocatalysts, such as Cu-based alloys, single-atom catalysts, and dual-atom catalysts, use the d states of metal in the electrocatalytic CO2 reduction reaction. Inspired by this, this work studies CO2 reduction reaction from another approach. Herein, using first principles study, we systematically investigate the prospect of nonmetal (B, C, O and F) doped monolayers g-GaN as electrocatalysts for the CO2 reduction reaction. We found that nonmetal doping can effectively regulate the electron distribution and p-band center of the active center (N site), which can adjust the initial adsorption, activation degree, charge transfer amount of CO2, and promote the formation of intermediates. Interestingly, B and C doped systems have better catalytic activity for CH4, with limiting potentials of −0.61 and −0.53 V, respectively. More importantly, F doped system has higher activity and selectivity for CH3OH production and inhibit competitive HER, with lower limiting potentials of −0.60 V. This study provides a new theoretical basis for the design and screening of electrocatalysts with high activity and product selectivity using nonmetal as the active site.    
 
     
 
@@ -244,17 +255,6 @@ OpenAlex: https://openalex.org/W4400227241
 Open access: False
     
 [Fengping Peng](https://openalex.org/A5068803178), [Zhuojiong Xie](https://openalex.org/A5016969099), [Haozhen Li](https://openalex.org/A5015353382), [Kai Xuan](https://openalex.org/A5064355694), [Wei Wang](https://openalex.org/A5057779851), [Chunzheng Wu](https://openalex.org/A5016400937), Catalysis letters. None(None)] 2024.https://doi.org/10.1007/s10562-024-04732-9.
-    
-No abstract    
-
-    
-
-## Electron distribution regulating of nonmetal doped monolayer g-GaN for enhanced electrocatalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4400398871    
-Open access: False
-    
-[Yafei Zhao](https://openalex.org/A5030373380), [Liang He](https://openalex.org/A5062604912), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160683.
     
 No abstract    
 
@@ -400,6 +400,17 @@ Open access: True
 [Mohammad Zen Nasrudin Fajri](https://openalex.org/A5009318958), [Ikhsanul Amal](https://openalex.org/A5099993408), [Abdul Fareed Delawari](https://openalex.org/A5099993409), [Ahmad Suminto](https://openalex.org/A5099993410), Islamic economics journal. 10(1)] 2024.https://doi.org/10.21111/iej.v10i1.12201.
     
 Economic activities are important factors for the development of countries. However, many countries give too much importance to the economy without paying attention to the country's environment as a result of ongoing economic activities, such as industrial, electricity production, transportation, and commercial and residential which can cause environmental degradation with the spread of CO2 carbon dioxide emissions. The growth of a financial sector that supports those economic activities is considered the driver of carbon emissions at the macro level. However, Islam teaches Muslims to avoid corruption on earth including those leading to the rise in carbon emissions. This makes Muslim-majority countries have better concern in dealing with carbon emissions. This study aims to analyze the influences of financial institution index (FII) and financial market index (FII) on carbon dioxide emissions in the Organization of Islamic Cooperation member nations. Using the GMM estimator for a panel dataset of 36 countries between 2000 and 2021, this study unravels that the FII significantly increased carbon emissions in OIC countries. In reverse, FMI contributed to the reduction of carbon emissions in OIC countries. This paper recommends the government set regulations for banking sectors to improve eco-friendly credits for the private sector. It is also recommended that the government enrich the issuance of green securities and strengthen the financial market because it is effective in minimizing carbon emissions.    
+
+    
+
+## Seamless Reconstruction and Spatiotemporal Analysis of Satellite-based XCO2 Incorporating Temporal Characteristics: A Case Study in China during 2015-2020   
+
+OpenAlex: https://openalex.org/W4400392011    
+Open access: False
+    
+[Junchen He](https://openalex.org/A5050743856), [Wei Wang](https://openalex.org/A5011474402), [Nan Wang](https://openalex.org/A5021865214), Advances in space research. None(None)] 2024.https://doi.org/10.1016/j.asr.2024.07.007.
+    
+Carbon dioxide (CO2) is a crucial greenhouse gas, and its concentration and spatiotemporal characteristics are among the principal sources of uncertainty in global warming assessments. Satellite remote sensing is a widely adopted, high-accuracy approach for monitoring atmospheric CO2. However, limited swath width and cloud cover significantly reduce satellite observation coverage. This study addresses the temporal changes in CO2 concentration and utilizes a machine learning-based fusion of multiple data sources to generate daily, full-coverage, 0.05° spatial resolution column-averaged CO2 concentration data for China from 2015 to 2020. Ten-fold cross-validation yielded a determination coefficient R2 of 0.97, root mean square error of 0.92 ppm, and mean absolute error of 0.59 ppm. Compared to other datasets, this study's dataset exhibits superior accuracy and spatiotemporal detail. Using the produced CO2 concentration in this study, we conducted a spatiotemporal analysis of CO2 concentrations in China. The results indicate that, in general, the Western region exhibits a higher growth rate in CO2 concentration than the Eastern and Central regions, with areas of lower CO2 concentration experiencing higher growth rates while regions with higher CO2 concentration have lower growth rates. Moreover, the highest increase in CO2 concentration occurred in 2016, with a substantial decrease in CO2 concentration growth observed in 2018. Notably, the reduction in CO2 concentration in the Qinghai-Tibet Plateau region during the summer is considerably smaller than in other regions, possibly due to atmospheric transport from the Indian Peninsula.    
 
     
 
@@ -579,14 +590,25 @@ Efforts to combat global warming and energy-related issues involve the solar-dri
 
     
 
-## Well‐defined nanostructures of high entropy alloys for electrocatalysis   
+## Preparation of slag-based foam concrete by chemical foaming for CO2 sequestration   
 
-OpenAlex: https://openalex.org/W4400237940    
+OpenAlex: https://openalex.org/W4400322852    
+Open access: False
+    
+[Wei Li](https://openalex.org/A5056618503), [Zhi-wen Lyu](https://openalex.org/A5057757845), [Jian Liu](https://openalex.org/A5060165452), [Wei Li](https://openalex.org/A5056618503), [Zhaoqing Sun](https://openalex.org/A5041317708), [Ying Ma](https://openalex.org/A5082605640), [Weimin Cheng](https://openalex.org/A5023051391), [Xin Meng](https://openalex.org/A5049626048), [Lin Xin](https://openalex.org/A5066826415), [Xingshu Sun](https://openalex.org/A5039027705), Environment Protection Engineering. 50(2)] 2024.https://doi.org/10.37190/epe240206.
+    
+Carbon dioxide emissions are among the most influential causes of global warming, and the recovery, capture, and comprehensive utilization of CO 2 are the keys to carbon emissions reduction. High-porosity foam concrete was prepared using CaO as the alkali activator, and H 2 O 2 as the foaming agent. Based on a single-factor experiment and response surface analysis, the best preparation conditions for foam concrete were obtained (water-to-cement ratio 0.4, alkali excitation dosage 10.73%, foaming agent dosage 8.26%). The porous material prepared under the optimal process conditions can achieve a CO 2 sequestration performance of 91.59 kg/m 3 , and the actual sequestration capacity is consistent with the theoretical prediction value of 90.89 kg/m 3 . Mechanistic analysis shows that the precarbonation hydration products of foam concrete are mainly C-S-H gel, Ca(OH) 2 , and hydrotalcite-like compounds, which bond the slag particles together to form a three-dimensional spatially firmly connected structure. This study provides a reference for the application of alkaline solid waste materials in the field of carbon sequestration.    
+
+    
+
+## Advances in the microscopic and mesoscopic simulation technologies developed for subsurface gas storage   
+
+OpenAlex: https://openalex.org/W4400387333    
 Open access: True
     
-[Jie Chen](https://openalex.org/A5051085470), [Liping Ren](https://openalex.org/A5082971300), [Xin Chen](https://openalex.org/A5024441472), [Qi Wang](https://openalex.org/A5015195367), [Chunying Chen](https://openalex.org/A5073108451), [Jinpeng Fan](https://openalex.org/A5047520526), [Shuai Wang](https://openalex.org/A5006901857), [Vassiliοs Binas](https://openalex.org/A5040957053), [Shaohua Shen](https://openalex.org/A5002470838), Exploration. None(None)] 2024.https://doi.org/10.1002/exp.20230036.
+[Tao Zhang](https://openalex.org/A5002715780), [Jie Liu](https://openalex.org/A5085352453), [Xuguang Yang](https://openalex.org/A5014073428), [Shuyu Sun](https://openalex.org/A5057212913), Advances in Geo-energy research/Advances in geo-energy research. 14(1)] 2024.https://doi.org/10.46690/ager.2024.10.01.
     
-Abstract High‐entropy alloys (HEAs) have attracted significant attention for electrocatalytic energy conversion by virtue of their promisingly high efficiency, stability, and low cost. Recently, encouraging progress has been made in tuning the structure and composition of HEAs used in electrolyzers and fuel cells. However, the understanding on the synthetic methods and the structure‐property‐performance relationship of well‐defined HEAs nanostructures is still inadequate. To gain insight into the future research directions on HEAs for electrocatalysis, in this paper, the synthetic methods commonly used to obtain well‐defined HEAs nanostructures (0D nanoparticles, 1D nanowires, 2D nanosheets/nanoplates, 3D nanoporous structures, and other three‐dimensional morphologies) are first summarized. Then, the authors discuss the application of well‐defined HEAs nanostructures in several typical electrocatalytic reactions, including hydrogen evolution reaction, oxygen evolution reaction, oxygen reduction reaction, alcohol oxidation reaction, carbon dioxide reduction reaction, nitrogen reduction reaction, and formic acid oxidation reaction. Finally, a practical perspective on the future research directions on well‐defined HEAs nanostructured electrocatalysts is provided.    
+Subsurface gas storage refers to the practice of storing natural gas or other gases in underground reservoirs. It plays a crucial role in ensuring a stable and reliable supply of energy, especially during periods of high demand or supply disruptions. This work collectively highlights the significance of the microscopic and mesoscopic reservoir simulation techniques developed for subsurface gas storage. Specific technology progresses are demonstrated for a better storage of hydrogen and carbon dioxide, which meets well with the current focus on carbon reduction. In particular, molecular dynamics simulations can provide insight for the microscopic mechanisms affecting the adsorption and leakage of stored gas. Pore-network model generated using the advanced algorithm can determine the geological scenario for further flow and transport simulations. Document Type: Perspective Cited as: Zhang, T., Liu, J., Yang, X., Sun, S. Advances in the microscopic and mesoscopic simulation technologies developed for subsurface gas storage. Advances in Geo-Energy Research, 2024, 14(1): 1-3. https://doi.org/10.46690/ager.2024.10.01    
 
     
 
@@ -865,6 +887,17 @@ The commercial viability of solid oxide electrolysis cells (SOECs) for the elect
 
     
 
+## Seasonal thermal energy storage employing solar heat: A case study of Heilongjiang, China, exploring the transition to clean heating and renewable power integration   
+
+OpenAlex: https://openalex.org/W4400388103    
+Open access: True
+    
+[Tianrun Yang](https://openalex.org/A5027267063), [Wen Liu](https://openalex.org/A5074000964), [Gert Jan Kramer](https://openalex.org/A5057459338), Energy. None(None)] 2024.https://doi.org/10.1016/j.energy.2024.132334.
+    
+Seasonal thermal energy storage (STES) offers an attractive option for decarbonizing heating in the built environment to promote renewable energy and reduce CO2 emissions. A literature review revealed knowledge gaps in evaluating the technical feasibility of replacing district heating (DH) with STES in densely populated areas and its impact on costs, fossil fuel consumption, CO2 emission reduction, and renewable power integration. The effects of large-scale STES applications on the power and DH sectors in a regional energy system were quantified by applying the 2030 and 2050 power structure scenarios. The results indicated that STES reduces fossil fuel consumption and CO2 emissions at an affordable cost. It facilitates the integration of wind and solar power into power grids. With 100% replacement of DH by STES, fossil fuel consumption and CO2 emissions can be reduced by approximately 40% and 45% in 2030 and 2050, respectively, with an annual cost increase of 20%. The CO2 avoidance costs were predicted to be approximately 60 €/t in 2030 and well below 50 €/t in 2050. STES will reduce renewable power curtailment by 10% in 2030 and 18% in 2050. This study investigated STES from an energy-system perspective, supporting the formulation of clean heating transition policies.    
+
+    
+
 ## Lattice Strain Engineering Boosts CO2 Electroreduction to C2+ Products   
 
 OpenAlex: https://openalex.org/W4400206225    
@@ -953,17 +986,6 @@ Abstract The ability of high-temperature solid oxide cell (SOC) electrochemical 
 
     
 
-## Study Examines Limitations of CCS and Their Effect on Oil and Gas Production   
-
-OpenAlex: https://openalex.org/W4400193574    
-Open access: False
-    
-[Chris Carpenter](https://openalex.org/A5078839699), Journal of petroleum technology. 76(07)] 2024.https://doi.org/10.2118/0724-0102-jpt.
-    
-_ This article, written by JPT Technology Editor Chris Carpenter, contains highlights of paper SPE 214950, “Limitations and Fallacies of Carbon Capture and Storage and Impact on Oil and Gas Production,” by S.M. Farouq Ali, SPE, and Mohamed Y. Soliman, SPE, University of Houston. The paper has not been peer reviewed. _ In the complete paper, the authors write that, while carbon capture and storage (CCS) initiatives are affecting oil and gas operations profoundly, such efforts have had little perceptible effect on atmospheric CO2, which continues to increase. The paper aims to show that current CCS regimens have serious technical and fiscal constraints and questionable validity, stating that, globally, CCS has not increased beyond approximately 0.1% of global CO2 emissions in the past 20 years. The paper offers partial solutions and concludes that, while oil and gas will continue to be important energy sources beyond the foreseeable future, oil companies will accomplish the needed CCS. Introduction The authors write that, while CCS efforts have been pursued for 4 decades, little has been achieved. For the past 20 years, the percentage of CO2 captured and stored is less than 0.1% of the CO2 emitted worldwide, if one considers CO2 enhanced oil recovery (EOR) projects to be CSS—which, the authors write, is a fallacy. They emphasize that CCS means injection with no production. The key to CCS success, they write, is major governmental subsidization, by whatever terminology it is known, and that means taxpayer money. Sweeping decisions that have a profound effect on oil and gas production and petroleum engineering education are being made based on predictions of an increase in CO2 concentration in the atmosphere in various time frames. Magnitude of the Problem The problem of world CO2 emissions capture is gigantic. To appreciate the magnitude of the problem, imagine that 1 year’s CO2 emissions (40 billion tonnes) are captured, compressed and liquified, and injected into a reservoir the size of the Ghawar oil field, the largest reservoir in the world, with the entire pore space (approximately 0.5 Tcf) available for storage. In this hypothetical, nine such reservoirs would be required every year. Presumably, such storage space can be found, but collecting the CO2 and bringing it to a storage site is a highly complex task. For example, in a sequestration effort in a building complex in New York, the CO2 is separated, liquified, and trucked to a storage site to be injected underground, which is impractical. Often, the example of the Nordic countries (mainly Denmark, Sweden, and Norway) is cited as evidence of successful emissions reduction. But the total population of these countries is approximately the same as that of metropolitan Mumbai in India. Definitions Carbon capture use and storage (CCUS) implies that the CO2 produced by various processes is captured and used for EOR. This accounts for approximately 30% of the 230 mtpa of CO2 captured globally. CCS means that any CO2 produced by the process is captured and injected into a suitable geological formation for storage for thousands of years. Net-zero emissions (NZE) implies that all the CO2 produced is captured and stored. In Canada, “absolute zero emissions” is discussed, meaning that no CO2 is produced in the first place, pointing to total fossil-fuel phaseout.    
-
-    
-
 ## Three Sustainability Dimensions Verses Climate Change Act 2008: A Retrospective Numerical Modelling   
 
 OpenAlex: https://openalex.org/W4400325654    
@@ -983,6 +1005,17 @@ Open access: False
 [Haona Zhang](https://openalex.org/A5026654046), [Yu Cui](https://openalex.org/A5007253367), [Chunjin Ren](https://openalex.org/A5003413853), [Qiang Li](https://openalex.org/A5069771802), [Chongyi Ling](https://openalex.org/A5007388482), [Jinlan Wang](https://openalex.org/A5020585562), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01773.
     
 The oxygen source of oxygenates is the fundamental issue for CO2/CO electroreduction, which was firmly believed to originate from the gas feed (Ogas) for a long time. However, recent experiments have confirmed that most O atoms of the generated alcohols via CO reduction arise from the solvent (Oaq), indicating the existence of a rather mysterious "oxygen exchange" process. In this work, we solved this mechanistic puzzle using comprehensive computations. Our results revealed that high CO pressure enables COgas oxidation by surface *OaqH, which opens a pathway for oxygenate production. The generated *COgasOaqH can react with another *CO to form *COCOgasOaqH, which leads to the formation of a series of carboxyl-containing intermediates (RCOgasOaqH) in subsequent steps. Due to the dynamic ionization equilibrium, H+ moves rapidly between Ogas and Oaq via reversible "inner" proton transfer (*RCOgasOaqH ⇌ *R-COgasOaq– + H+ ⇌ *RCOaqOgasH). The oxygen exchange completes when *RCOaq forms via the dehydroxylation of a certain *RCOaqOgasH. The completed reaction pathways were further explored by using COgas reduction into C2H5OaqH as an example, which explains related experiments. Therefore, these results refresh the insights into CO2/CO electroreduction and give specific guidelines for the optimization of catalytic performance.    
+
+    
+
+## Study Examines Limitations of CCS and Their Effect on Oil and Gas Production   
+
+OpenAlex: https://openalex.org/W4400193574    
+Open access: False
+    
+[Chris Carpenter](https://openalex.org/A5078839699), Journal of petroleum technology. 76(07)] 2024.https://doi.org/10.2118/0724-0102-jpt.
+    
+_ This article, written by JPT Technology Editor Chris Carpenter, contains highlights of paper SPE 214950, “Limitations and Fallacies of Carbon Capture and Storage and Impact on Oil and Gas Production,” by S.M. Farouq Ali, SPE, and Mohamed Y. Soliman, SPE, University of Houston. The paper has not been peer reviewed. _ In the complete paper, the authors write that, while carbon capture and storage (CCS) initiatives are affecting oil and gas operations profoundly, such efforts have had little perceptible effect on atmospheric CO2, which continues to increase. The paper aims to show that current CCS regimens have serious technical and fiscal constraints and questionable validity, stating that, globally, CCS has not increased beyond approximately 0.1% of global CO2 emissions in the past 20 years. The paper offers partial solutions and concludes that, while oil and gas will continue to be important energy sources beyond the foreseeable future, oil companies will accomplish the needed CCS. Introduction The authors write that, while CCS efforts have been pursued for 4 decades, little has been achieved. For the past 20 years, the percentage of CO2 captured and stored is less than 0.1% of the CO2 emitted worldwide, if one considers CO2 enhanced oil recovery (EOR) projects to be CSS—which, the authors write, is a fallacy. They emphasize that CCS means injection with no production. The key to CCS success, they write, is major governmental subsidization, by whatever terminology it is known, and that means taxpayer money. Sweeping decisions that have a profound effect on oil and gas production and petroleum engineering education are being made based on predictions of an increase in CO2 concentration in the atmosphere in various time frames. Magnitude of the Problem The problem of world CO2 emissions capture is gigantic. To appreciate the magnitude of the problem, imagine that 1 year’s CO2 emissions (40 billion tonnes) are captured, compressed and liquified, and injected into a reservoir the size of the Ghawar oil field, the largest reservoir in the world, with the entire pore space (approximately 0.5 Tcf) available for storage. In this hypothetical, nine such reservoirs would be required every year. Presumably, such storage space can be found, but collecting the CO2 and bringing it to a storage site is a highly complex task. For example, in a sequestration effort in a building complex in New York, the CO2 is separated, liquified, and trucked to a storage site to be injected underground, which is impractical. Often, the example of the Nordic countries (mainly Denmark, Sweden, and Norway) is cited as evidence of successful emissions reduction. But the total population of these countries is approximately the same as that of metropolitan Mumbai in India. Definitions Carbon capture use and storage (CCUS) implies that the CO2 produced by various processes is captured and used for EOR. This accounts for approximately 30% of the 230 mtpa of CO2 captured globally. CCS means that any CO2 produced by the process is captured and injected into a suitable geological formation for storage for thousands of years. Net-zero emissions (NZE) implies that all the CO2 produced is captured and stored. In Canada, “absolute zero emissions” is discussed, meaning that no CO2 is produced in the first place, pointing to total fossil-fuel phaseout.    
 
     
 
@@ -1118,17 +1151,6 @@ A long period of deposit development leads to a reduction in the volume of balan
 
     
 
-## Evaluation of the Rate of Reduction of Greenhouse Gases from Diesel Engine Powered with Jatropha Curcas Seed Oil Blend Diesel   
-
-OpenAlex: https://openalex.org/W4400171657    
-Open access: False
-    
-[Comfort C Echebiri](https://openalex.org/A5099736340), [V. C. Nnodu](https://openalex.org/A5053596735), [D. C. Onuoha](https://openalex.org/A5088523706), International journal of energy and environmental research. 12(1)] 2024.https://doi.org/10.37745/ijeer.13/vol12n13545.
-    
-As part of the effort to reduce greenhouse gases emissions and lower its negative effects on climate change, this study was conceived with the aim of evaluating the rate of reduction of greenhouse gases emission from diesel engine powered with Jatropha Curcas seed oil blend diesel. The study produced biodiesel from the oil extracted from the Jatrophha Curcas seed using trans-esterification method. The amount of CO2, SO2 and NO2 emitted from a diesel engine powered with conventional oil and jatropha biodiesel blend were determined to ascertain whether there was reduction or increment in percentage of emissions. Laboratory analysis of Jatropha Curcas oil shows that 131.9524g jatropha curcas seed yielded 90.559ml of biodiesel and 41.2437ml of glycerol. Conventional diesel and Jatropha curcas biodiesel produced has similar physiochemical characteristics confirmed through ASTM(US) and DIN(EN) hence their combustibility. CO2 emissions increased with increase in diesel at B100 and B50 while it decreases in B20 and B40. While NO2 emissions increased by 1% in all the revolutions per minute, SO2 was only detected at B100 and B50 emission of the greenhouse gases. From the questionnaire survey conducted at Egbema, it was found that gas flaring has serious adverse effect on vegetation in the area, significant negative effect on the economy of the area due to the rise in air pollution. The result of the laboratory experiments showed that blended green diesel reduces the emission of greenhouse gases from combustion of diesel. The study recommended adoption of renewable energy sources for the operation of the oil firms in Egbema the study therefore concluded that blended green diesel is a promising alternative fuel for internal combustion engines.    
-
-    
-
 ## The Southern Ocean as the climate's freight train – driving ongoing global warming under zero-emission scenarios with ACCESS-ESM1.5   
 
 OpenAlex: https://openalex.org/W4400209468    
@@ -1162,17 +1184,6 @@ first_pagesettingsOrder Article ReprintsOpen AccessArticleThe Carbon Footprint o
 
     
 
-## Comparative life cycle assessment of organic industrial solid waste co-disposal in a MSW incineration plant   
-
-OpenAlex: https://openalex.org/W4400377882    
-Open access: False
-    
-[Kun Wang](https://openalex.org/A5030691366), [Aijun Li](https://openalex.org/A5035177570), [Guangzhao Guo](https://openalex.org/A5078046050), [Junwei Zhang](https://openalex.org/A5002446862), [Yong‐Xiang Ren](https://openalex.org/A5069946097), [Lu Dong](https://openalex.org/A5002434039), [Lifang Gong](https://openalex.org/A5032842477), [Hongyun Hu](https://openalex.org/A5067248356), [Hong Yao](https://openalex.org/A5042478310), [Ichiro Naruse](https://openalex.org/A5006506473), Energy. 305(None)] 2024.https://doi.org/10.1016/j.energy.2024.132322.
-    
-Co-disposal experiments involving industrial solid waste (ISW) are conducted at a municipal solid waste (MSW) incineration plant in this study, investing the environmental impact of co-disposal with different ISW addition proportions using life cycle assessment (LCA). Results show that increasing ISW proportions improves economic indicators, reducing the payback period from 7.92 years (0 % ISW) to 6.58 years (40 % ISW). Environmental impact indicators initially decrease and then increase. The indicator with the greatest environmental impact is Eutrophication Potential (EP), the only major indicator with positive values in all scenarios when considering power output. Its normalization value reaches a minimum at 30 % ISW blending, at 7.85 × 10−12. Contribution analysis reveals that the direct emissions of N-containing gases are the primary cause, while the addition of urea, ammonia water, and quicklime in flue gas treatment, as well as the ash-slag landfill, also have significant effects. Technical optimization of stepwise co-disposal, denitrification system and ash-slag reduction will be the focus. Compared to the existing conventional situation, the co-disposal system exhibits considerable improvements in environmental benefits and carbon reduction potential. Notably, there is a significant reduction in non-CO2 greenhouse gas emissions. This study offers theoretical insights for multi-source waste disposal in MSW incineration plants.    
-
-    
-
 ## The Carbon Conundrum: Exploring CO2 Emissions, Public Debt, and Environmental Policy   
 
 OpenAlex: https://openalex.org/W4400291788    
@@ -1181,6 +1192,17 @@ Open access: True
 [Mohd Shahidan Shaari](https://openalex.org/A5015890420), [Amri Sulong](https://openalex.org/A5093632449), [Abdul Rahim Ridzuan](https://openalex.org/A5052121209), [Miguel Angel Esquivias](https://openalex.org/A5050066556), [Evan Lau](https://openalex.org/A5058213753), Emerging science journal. 8(3)] 2024.https://doi.org/10.28991/esj-2024-08-03-08.
     
 This study addresses a critical gap in the literature by examining the impact of CO2emissions on public debt in Malaysia, employing a non-linear autoregressive distributed lag (ARDL) approach spanning from 1980 to 2020. This methodology captures the non-linear relationship between CO2 emissions and public debt, providing nuanced insights into how environmental factors shape fiscal dynamics. Despite encountering challenges arising from the limited body of literature on this specific relationship, the study highlights key findings with profound implications for policymakers. The inverse correlation between trade openness and public debt underscores the influence of international trade on Malaysia's fiscal landscape, while a positive association between investment and public debt emphasizes the importance of prudent debt management for economic growth. Furthermore, the negative relationship between higher foreign direct investment and long-term public debt highlights the need to foster an investor-friendly environment. A pivotal contribution is the confirmation of a positive link between CO2 emissions and public debt, urging policymakers to prioritize emission reduction strategies, implement carbon pricing, and promote green technologies. This research offers a comprehensive understanding of the intricate interplay between CO2emissions and public debt, providing valuable insights for informed policy decisions in the Malaysian context. Doi: 10.28991/ESJ-2024-08-03-08 Full Text: PDF    
+
+    
+
+## Comparative life cycle assessment of organic industrial solid waste co-disposal in a MSW incineration plant   
+
+OpenAlex: https://openalex.org/W4400377882    
+Open access: False
+    
+[Kun Wang](https://openalex.org/A5030691366), [Aijun Li](https://openalex.org/A5035177570), [Guangzhao Guo](https://openalex.org/A5078046050), [Junwei Zhang](https://openalex.org/A5002446862), [Yong‐Xiang Ren](https://openalex.org/A5069946097), [Lu Dong](https://openalex.org/A5002434039), [Lifang Gong](https://openalex.org/A5032842477), [Hongyun Hu](https://openalex.org/A5067248356), [Hong Yao](https://openalex.org/A5042478310), [Ichiro Naruse](https://openalex.org/A5006506473), Energy. 305(None)] 2024.https://doi.org/10.1016/j.energy.2024.132322.
+    
+Co-disposal experiments involving industrial solid waste (ISW) are conducted at a municipal solid waste (MSW) incineration plant in this study, investing the environmental impact of co-disposal with different ISW addition proportions using life cycle assessment (LCA). Results show that increasing ISW proportions improves economic indicators, reducing the payback period from 7.92 years (0 % ISW) to 6.58 years (40 % ISW). Environmental impact indicators initially decrease and then increase. The indicator with the greatest environmental impact is Eutrophication Potential (EP), the only major indicator with positive values in all scenarios when considering power output. Its normalization value reaches a minimum at 30 % ISW blending, at 7.85 × 10−12. Contribution analysis reveals that the direct emissions of N-containing gases are the primary cause, while the addition of urea, ammonia water, and quicklime in flue gas treatment, as well as the ash-slag landfill, also have significant effects. Technical optimization of stepwise co-disposal, denitrification system and ash-slag reduction will be the focus. Compared to the existing conventional situation, the co-disposal system exhibits considerable improvements in environmental benefits and carbon reduction potential. Notably, there is a significant reduction in non-CO2 greenhouse gas emissions. This study offers theoretical insights for multi-source waste disposal in MSW incineration plants.    
 
     
 
@@ -1371,17 +1393,6 @@ The decentralization of electricity authority in Nigeria has made it expedient f
 
     
 
-## Mechanical Properties and Durability of Composite Cement Pastes Containing Phase-Change Materials and Nanosilica   
-
-OpenAlex: https://openalex.org/W4400296665    
-Open access: True
-    
-[Javier Ziga-Carbarín](https://openalex.org/A5092485887), [L. Y. Gómez-Zamorano](https://openalex.org/A5026805604), [Arquímedes Cruz‐López](https://openalex.org/A5068515016), [Soorya Pushpan](https://openalex.org/A5070805157), [Sofia Vázquez‐Rodríguez](https://openalex.org/A5059137789), [Magdalena Balonis](https://openalex.org/A5017055103), Materials. 17(13)] 2024.https://doi.org/10.3390/ma17133271.
-    
-Escalating global surface temperatures are highlighting the urgent need for energy-saving solutions. Phase-change materials (PCMs) have emerged as a promising avenue for enhancing thermal comfort in the construction sector. This study assessed the impact of incorporating PCMs ranging from 1% to 10% by mass into composite Portland cement partially replaced by fly ash (FA) and nanosilica particles (NS). Mechanical and electrochemical techniques were utilized to evaluate composite cements. The results indicate that the presence of PCMs delayed cement hydration, acting as a filler without chemically interacting within the composite. The combination of FA and PCMs reduced compressive strength at early ages, while thermal conductivity decreased after 90 days due to the melting point and the latent heat of PCMs. Samples with FA and NS showed a significant reduction in the CO2 penetration, attributed to their pozzolanic and microfiller effects, as well as reduced water absorption due to the non-absorptive nature of PCMs. Nitrogen physisorption confirmed structural changes in the cement matrix. Additionally, electrical resistivity and thermal behavior assessments revealed that PCM-containing samples could reduce temperatures by an average of 4 °C. This suggested that PCMs could be a viable alternative for materials with thermal insulation capacity, thereby contributing to energy efficiency in the construction sector.    
-
-    
-
 ## Impacts of Drought on Photosynthesis in Major Food Crops and the Related Mechanisms of Plant Responses to Drought   
 
 OpenAlex: https://openalex.org/W4400208205    
@@ -1434,6 +1445,17 @@ Open access: True
 [Qiangyu Ren](https://openalex.org/A5070591859), [Chuang Gao](https://openalex.org/A5006885717), [Jie Jia](https://openalex.org/A5051089766), Buildings. 14(7)] 2024.https://doi.org/10.3390/buildings14071993.
     
 Wind power generation has increased in China to achieve the target of decreasing CO2 emissions by 2050, but there are high levels of wind curtailment due to the mismatch between electricity supply and demand. This paper proposes a single-stage air source heat pump coupled with thermal storage for building heating purposes. The main objective is to find the proper system designs and operating strategy, which can help to avoid peak demand periods while obtaining minimized running costs and reduced wind energy curtailment. Dynamic simulations were performed using TRNSYS to investigate its use in a typical office building based on an actual electricity tariff, wind power, and meteorological data. The proper system designs, including the tank size and thermal storage temperature, were determined to maximize the system’s performance. It was found that a proper combination of the two parameters exists for a specific application. Further, results showed that the use of auxiliary electric heating is necessary for single-stage air source heat pumps to participate in a wind curtailment reduction. The operating strategy of the system was also studied. Results indicate that by implementing a proper operating strategy, non-renewable power consumption can be reduced by 11% for the studied building, with a total wind power utilization of 3348 kWh during the heating season while still satisfying the heating demands of users. These findings can contribute to the green and low-carbon development of the building industry and further enhance the grid’s accommodation capacity for renewable energy sources.    
+
+    
+
+## Elucidation of synergism in Ce-Zr/SBA-15 mesoporous catalysts and the effects on the activity in selective glycerol to lactic acid reaction   
+
+OpenAlex: https://openalex.org/W4400392020    
+Open access: False
+    
+[Salmiza Saleh](https://openalex.org/A5085684388), [Muhammad Yusri Ahmad](https://openalex.org/A5061619500), [Anwar Ul‐Hamid](https://openalex.org/A5011763292), [Ahmad Zuhairi Abdullah](https://openalex.org/A5090425187), Powder technology. None(None)] 2024.https://doi.org/10.1016/j.powtec.2024.120048.
+    
+The continued conversion of glycerol to value-added chemicals is essential in ensuring the sustainable development of the biodiesel industry. Selective catalytic oxidation of glycerol to lactic acid provides an alternative approach to valorizing glycerol. A mesoporous SBA-15 supported mixed-metallic oxide catalyst is deemed essential to selectively produce lactic acid in this mixed parallel and multi-step reaction. SBA-15-supported bimetallic Ce and Zr oxides were proved to be highly efficient catalysts for the selective glycerol oxidation into lactic acid in base-free media. The synergism between Ce and Zr in the bimetallic oxide compounds could enhance the creation of oxygen vacancies in the catalyst via the reduction of Ce4+ to Ce3+. The 2:1CeZr/SBA-15 catalyst exhibited prominent catalytic activity in selectively oxidizing glycerol to lactic acid, with a glycerol conversion of 91.8% and a lactic acid yield of 35.1%. This work achieved superior catalytic performance compared to previously conducted studies, primarily due to the significantly higher initial glycerol concentration employed in this study. To ascertain the intrinsic active sites of the catalyst, the physicochemical properties of the catalyst were thoroughly examined using BET, FTIR, XRD, FESEM, TEM, CO2-TPD, O2-TPD, and H2-TPR analysis. This work concluded that the synergistic interaction of the active sites, which led to the formation of active oxygen species, facilitated primary dehydrogenation of the terminal -OH bond in glycerol. Hence, in this work, a plausible glycerol conversion mechanism over the 2:1CeZr/SBA-15 catalyst was also proposed.    
 
     
 

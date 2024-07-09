@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Jul 2024 01:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 01:10:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhanced oxygen evolution reaction performance of nitrogen-doped carbon dots sensitized with rare-earth metal nanorods</title>
-      <link>https://doi.org/10.1016/j.diamond.2024.111362</link>
-      <description>Nithya Selvaraju, Sheethal Sasi, Yuvaraj Sivalingam, Gunasekaran Venugopal, Diamond and related materials. None(None)] 2024. https://openalex.org/W4400168214
-
-                No abstract</description>
-      <author>Nithya Selvaraju, Sheethal Sasi, Yuvaraj Sivalingam, Gunasekaran Venugopal</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.111362</guid>
-    </item>
-    <item>
-      <title>Electrodeposition of amorphous CoFe oxide/hydroxide onto nickel mesh as a highly efficient electrocatalyst for the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.inoche.2024.112798</link>
-      <description>Yujie Hou, Yuli Zhang, Changgan Lai, Donghuai Zhang, Shuai Ji, Zhiliang Guo, Liu Nie, Yifan Zhang, Lixu Lei, Inorganic chemistry communications/Inorganic chemistry communications (Online). None(None)] 2024. https://openalex.org/W4400168229
-
-                No abstract</description>
-      <author>Yujie Hou, Yuli Zhang, Changgan Lai, Donghuai Zhang, Shuai Ji, Zhiliang Guo, Liu Nie, Yifan Zhang, Lixu Lei</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.inoche.2024.112798</guid>
-    </item>
     <item>
       <title>Synergistic Effect Enables the Dual-Metal Doped Cobalt Telluride Particles as Potential Electrocatalysts for Oxygen Evolution in Alkaline Electrolyte</title>
       <link>https://doi.org/10.1021/acs.inorgchem.4c00921</link>
@@ -738,6 +718,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta03760j</guid>
     </item>
     <item>
+      <title>Synergistic enhancement of Zn-air battery performance via integration of Ni-doped cobalt sulfide nanoparticles within N, S-doped carbon matrix</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.06.242</link>
+      <description>Hye-Jin Kim, Sang Eun Shim, Kyeongseok Min, Sang Eun Shim, Sang Eun Shim, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400190593
+
+                Exploring precious metal-free bifunctional electrocatalysts for both the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) is essential for the practical application of rechargeable Zn-air battery (ZAB). Herein, Ni-doped Co</description>
+      <author>Hye-Jin Kim, Sang Eun Shim, Kyeongseok Min, Sang Eun Shim, Sang Eun Shim</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.242</guid>
+    </item>
+    <item>
       <title>Unrevealing the Potential of Multicomponent Metal Ion Incorporation and Sulfide Modification in Cobalt Oxide for Efficient Water Oxidation</title>
       <link>https://doi.org/10.1039/d4ya00327f</link>
       <description>M. Kashif Masood, Muhammad Aamir, Muhammad Ejaz Khan, Muhammad Sher, Kamran A. Khan, Hafiz Zahid Shafi, Md. Akhtaruzzaman, Hamad AlMohamadi, Md. Shahiduzzaman, Energy advances. None(None)] 2024. https://openalex.org/W4400188439
@@ -888,6 +878,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124356</guid>
     </item>
     <item>
+      <title>Operando-reconstructed polyatomic ion layers boost the activity and stability of industrial current-density water splitting</title>
+      <link>https://doi.org/10.1016/j.scib.2024.07.003</link>
+      <description>Yingxia Zhao, Ying Wu, Qunlei Wen, Danji Huang, Ruoou Yang, Haozhi Wang, Yingying Xu, Ming Sun, Youwen Liu, Jiakun Fang, Tianrui Zhai, Lin Yu, Science Bulletin. None(None)] 2024. https://openalex.org/W4400391838
+
+                Metal&#8211;organic frameworks have garnered attention as highly efficient pre-electrocatalysts for the oxygen evolution reaction (OER). Current structure&#8211;activity relationships primarily rely on the assumption that the complete dissolution of organic ligands occurs during electrocatalysis. Herein, modeling based on NiFe Prussian blue analogs (NiFe-PBAs) show that cyanide ligands leach from the matrix and subsequently oxidize to corresponding inorganic ions (ammonium and carbonate) that re-adsorb onto the surface of NiFe OOH during the OER process. Interestingly, the surface-adsorbed inorganic ions induce the OER reaction of NiFe OOH to switch from the adsorbate evolution to the lattice-oxygen&#8211;mediated mechanism, thus contributing to the high activity. In addition, this reconstructed inorganic ion layer acting as a versatile protective layer can prevent the dissolution of metal sites to maintain contact between catalytic sites and reactive ions, thus breaking the activity&#8211;stability trade-off. Consequently, our constructed NiFe-PBAs exhibit excellent durability for 1250 h with an ultralow overpotential of 253 mV at 100 mA cm&#8722;2. The scale-up NiFe-PBAs operated with a low energy consumption of &#8764;4.18 kWh m&#8722;3 H2 in industrial water electrolysis equipment. The economic analysis of the entire life cycle demonstrates that this green hydrogen production is priced at US$2.59/kgH2, meeting global targets (&lt;US$2.5/kgH2).</description>
+      <author>Yingxia Zhao, Ying Wu, Qunlei Wen, Danji Huang, Ruoou Yang, Haozhi Wang, Yingying Xu, Ming Sun, Youwen Liu, Jiakun Fang, Tianrui Zhai, Lin Yu</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.scib.2024.07.003</guid>
+    </item>
+    <item>
       <title>Emerging Cost-Efficient Aluminum-Air Battery Technology</title>
       <link>https://doi.org/10.1201/9781003310174-20</link>
       <description>S. K. Vineeth, Pritam V. Dhawale, Roshny Joy, Abhilash Pullanchiyodan, Jou&#8208;Hyeon Ahn, Neha Gupta, Praveen Raghavan, CRC Press eBooks. None(None)] 2024. https://openalex.org/W4400297538
@@ -896,6 +896,16 @@
       <author>S. K. Vineeth, Pritam V. Dhawale, Roshny Joy, Abhilash Pullanchiyodan, Jou&#8208;Hyeon Ahn, Neha Gupta, Praveen Raghavan</author>
       <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1201/9781003310174-20</guid>
+    </item>
+    <item>
+      <title>Rapid Charge Extraction via Hole Transfer Layer and Interfacial Coordination Bonds on Hematite Photoanode for Efficient Photoelectrochemical Water Oxidation</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124369</link>
+      <description>Huilin Niu, Lili Gao, Mingming Liu, Yanbo Zou, Jiaoli Wang, Guowen Hu, Jun Jin, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4400391363
+
+                Enhancing carrier separation and transport efficiency to achieve efficient water oxidation reaction is an important issue in photoelectrochemical (PEC) water splitting field, and introducing hole transfer layer (HTL) is an effective strategy to improve it. However, the difficulty of charge transfer between HTL and oxygen evolution catalyst (OEC) is a problem unresolved. To ameliorate the situation, we choose CoOOH as HTL and the metal&#8211;organic coordination compound constructed by 4,5-Imidazoledicarboxylic acid (IA) and Co/Ni ions as OEC. Using the interfacial coordination bonds as carrier transfer channels, the holes were rapidly extracted from HTL to OEC containing abundant active sites and participate in oxidation reaction. In consequence, the unique design results in a photocurrent density of 2.97 times that of &#945;-Fe2O3 at 1.23 VRHE for the IACN/CoOOH/Fe2O3. This study reveals how the advisable design of photoanode promotes interfacial charge transfer and provides a valuable reference for the design of composite photoanode.</description>
+      <author>Huilin Niu, Lili Gao, Mingming Liu, Yanbo Zou, Jiaoli Wang, Guowen Hu, Jun Jin</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124369</guid>
     </item>
     <item>
       <title>NiMoO4 containing O-vacancy cooperated with bimetallic sulfides as efficient bifunctional electrocatalyst for overall water splitting</title>
@@ -938,16 +948,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202405474</guid>
     </item>
     <item>
-      <title>Modulating Vacancies of Graphene Supported FeNi&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; electrocatalysts by Radio-frequency Plasma for Overall Water Splitting</title>
-      <link>https://doi.org/10.1088/1361-6463/ad5f39</link>
-      <description>Wenkai He, Shengwei Wu, Zhaotian Zhang, Qing Yang, Journal of physics. D, Applied physics. None(None)] 2024. https://openalex.org/W4400311174
-
-                Abstract Electrolysis of water for producing hydrogen is an effective and sustainable technique to meet the continuously increasing energy demand. Nevertheless, its advancement is impeded by the inadequate catalytic efficacy for oxygen evolution reaction (OER) and hydrogen evolution reaction (HER). Vacancy defect engineering is a rational approach to simultaneously enhance the catalytic performance for both the half-reactions. However, controlling the vacancy defects is quite challenging. Here, we have employed a radio-frequency Ar plasma-assisted treatment strategy to prepare highly efficient graphene-supported FeNi 2 S 4 bifunctional catalysts with abundant vacancies. The plasma treatment induces the formation of vacancy structures in the catalyst, modifying the free energy of reaction intermediates, surface morphology, and electronic structure as well as reducing the reaction barriers, thereby enhancing the catalytic performance. The optimized graphene-supported FeNi 2 S 4 catalyst possesses abundant sulfur vacancies, demonstrating excellent electrocatalytic performance. At 50 mA cm -2 , the overpotentials for OER and HER are 240 and 256 mV, respectively, indicating exceptional stability. Overall, this work offers valuable insights into the development of cost-effective and high-performance electrocatalysts for water electrolysis.</description>
-      <author>Wenkai He, Shengwei Wu, Zhaotian Zhang, Qing Yang</author>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/1361-6463/ad5f39</guid>
-    </item>
-    <item>
       <title>Lithium-Air Batteries</title>
       <link>https://doi.org/10.1201/9781003310174-11</link>
       <description>S. K. Vineeth, Akhila Das, Abhilash Pullanchiyodan, Vijayamohanan K. Pillai, Neha Gupta, Praveen Raghavan, CRC Press eBooks. None(None)] 2024. https://openalex.org/W4400297790
@@ -958,6 +958,16 @@
       <guid isPermaLink="true">https://doi.org/10.1201/9781003310174-11</guid>
     </item>
     <item>
+      <title>CoMoP Hole Transfer Layer Functionally Enhances Efficiency and Stability of BiVO4 Based Photoanode for Solar Water Splitting</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124375</link>
+      <description>Yingying Wang, Y. Y. Chen, Youngjun Yun, Xiaoting Hong, Yongchao Huang, Hongbing Ji, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4400388037
+
+                Engineering the hole transfer layer is a promising approach to suppress the bulk charge recombination of photoanodes for enhancing solar water splitting performance. Herein, functional cobalt-molybdenum bimetallic phosphide (CoMoP) layer are inserted between bismuth vanadate (BiVO4) and NiFeOx oxygen evolution cocatalyst (OEC) as hole transfer layer to construct an integrated photoanode (NiFeOx/CoMoP/BiVO4). This state-of-the-art NiFeOx/CoMoP/BiVO4 photoanode not only achieves a superior photocurrent density of 5.82 mA/cm2 at 1.23 V versus a reversible hydrogen electrode (vs RHE), but also an outstanding 60 hours long-term photostability (100 mW/cm2). Such excellent PEC performance can be attributed to the engineering CoMoP hole layer in NiFeOx/BiVO4, promoting hole transfer, retarding bulk charge recombination and accelerating the surface water oxidation kinetics. This study contributes to the role of the hole transfer layer and sheds light on the development of effective and stable photoanodes for PEC water splitting.</description>
+      <author>Yingying Wang, Y. Y. Chen, Youngjun Yun, Xiaoting Hong, Yongchao Huang, Hongbing Ji</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124375</guid>
+    </item>
+    <item>
       <title>Ultrafast Construction of Interfacial Akagan&#233;ite FeOOH Phase to Enable the Long&#8208;Term Stability of Nickel&#8208;Iron Hydroxides for Seawater Splitting at Ampere&#8208;Level Current Density</title>
       <link>https://doi.org/10.1002/adfm.202407781</link>
       <description>Z.X. Liu, Yuanyuan Li, Libin Zeng, Xiaofeng Peng, Dashuai Wang, Zhongjian Li, Boguang Yang, Yuanyuan Li, Lecheng Lei, Yang Hou, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400365766
@@ -966,6 +976,26 @@
       <author>Z.X. Liu, Yuanyuan Li, Libin Zeng, Xiaofeng Peng, Dashuai Wang, Zhongjian Li, Boguang Yang, Yuanyuan Li, Lecheng Lei, Yang Hou</author>
       <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202407781</guid>
+    </item>
+    <item>
+      <title>Modulating Vacancies of Graphene Supported FeNi&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; electrocatalysts by Radio-frequency Plasma for Overall Water Splitting</title>
+      <link>https://doi.org/10.1088/1361-6463/ad5f39</link>
+      <description>Wenkai He, Shengwei Wu, Zhaotian Zhang, Qing Yang, Journal of physics. D, Applied physics. None(None)] 2024. https://openalex.org/W4400311174
+
+                Abstract Electrolysis of water for producing hydrogen is an effective and sustainable technique to meet the continuously increasing energy demand. Nevertheless, its advancement is impeded by the inadequate catalytic efficacy for oxygen evolution reaction (OER) and hydrogen evolution reaction (HER). Vacancy defect engineering is a rational approach to simultaneously enhance the catalytic performance for both the half-reactions. However, controlling the vacancy defects is quite challenging. Here, we have employed a radio-frequency Ar plasma-assisted treatment strategy to prepare highly efficient graphene-supported FeNi 2 S 4 bifunctional catalysts with abundant vacancies. The plasma treatment induces the formation of vacancy structures in the catalyst, modifying the free energy of reaction intermediates, surface morphology, and electronic structure as well as reducing the reaction barriers, thereby enhancing the catalytic performance. The optimized graphene-supported FeNi 2 S 4 catalyst possesses abundant sulfur vacancies, demonstrating excellent electrocatalytic performance. At 50 mA cm -2 , the overpotentials for OER and HER are 240 and 256 mV, respectively, indicating exceptional stability. Overall, this work offers valuable insights into the development of cost-effective and high-performance electrocatalysts for water electrolysis.</description>
+      <author>Wenkai He, Shengwei Wu, Zhaotian Zhang, Qing Yang</author>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1361-6463/ad5f39</guid>
+    </item>
+    <item>
+      <title>Recent advances of carbon fiber-based self-supported electrocatalysts in oxygen electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.06.051</link>
+      <description>Jian Han, Nanping Deng, Hao Chi, Gang Wang, Yilong Wang, Qiang Zeng, Zhaozhao Peng, Bowen Cheng, Baoming Zhou, Weimin Kang, Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024. https://openalex.org/W4400391249
+
+                Oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) are the key reactions in numerous renewable energy devices. Unlike conventional powdered catalysts, self-supported catalysts are extensively employed in oxygen electrocatalysis because of the enhanced electron-transfer rate, high specific surface area, and superior mechanical flexibility. Among the self-supported conductive substrates, carbon fiber usually exhibits several distinctive advantages, such as a straightforward preparation process, relatively low cost, good stability, and excellent conductivity. Against this background, carbon fiber-based self-supported electrocatalysts have been widely applied and studied in oxygen electrocatalysis, indicating a promising development direction in oxygen electrocatalyst research. Thus, it is essential to offer an overall summary of the research progress in this field to facilitate its subsequent development. Taking the regulatory mechanisms and modification methods as a starting point, this review comprehensively summarizes recent research on carbon fiber-based self-supported electrocatalysts in recent years. Firstly, a brief overview of the synthesis methods and regulatory mechanisms of carbon fiber-based self-supported electrocatalysts is given. Furthermore, the view also highlights the modification methods and research progress of self-supported electrocatalysts synthesized on carbon fiber-based substrates in recent years in terms of different dopant atoms. Finally, the prospects for the application of self-supported electrocatalysts based on carbon fiber in oxygen electrocatalysis and the possible future directions of their development are presented. This review summarizes recent developments and applications of self-supported bi-functional electrocatalysts with carbon fiber-based materials as the conducting substrate in oxygen electrocatalysis. It also lays a robust scientific foundation for the subsequent reasonable design of highly effective carbon fiber-based self-supported electrocatalysts.</description>
+      <author>Jian Han, Nanping Deng, Hao Chi, Gang Wang, Yilong Wang, Qiang Zeng, Zhaozhao Peng, Bowen Cheng, Baoming Zhou, Weimin Kang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.06.051</guid>
     </item>
     <item>
       <title>4d-Metal Ion Ru&lt;sup&gt;3+&lt;/sup&gt;-Incorporation in Prussian Blue Analogue-Derived Anodic NiFe(O)OH and Cathodic NiFe(OH)&lt;sub&gt;2&lt;/sub&gt; Nanosheets Promotes Electrochemical Seawater Splitting</title>
@@ -1018,26 +1048,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.06.045</guid>
     </item>
     <item>
-      <title>Electrolytes for Vanadium Redox Flow Batteries</title>
-      <link>https://doi.org/10.1201/9781003310167-14</link>
-      <description>Roshny Joy, Thomas Y. George, Akhila Das, Maryam Fatima, Abhilash Pullanchiyodan, Praveen Raghavan, CRC Press eBooks. None(None)] 2024. https://openalex.org/W4400300159
-
-                Vanadium redox flow batteries (VRFBs) are one of the promising candidates for the large-scale energy storage. A major component in the VRFBs is electrolytes, whose properties will affect the electrochemical performance, efficiency, and overall cost. In spite of the fact that VRFBs electrolytes are remarkably evolved, they should improve toward reliable, stable, efficient, and cost-effective VRFBs. The use of the same element in different oxidation states eliminates the possibility of cross-contamination. Although the use of hydrochloric acid increases solubility, the hazardous elimination of chlorine gas becomes a problem. While using sulfuric acid as a supporting electrolyte, short range of operational temperature causes additional loss in energy and increases the cost. To increase the overall performances, many additives can be used. Studies were conducted to use sodium chloride as a cheap additive. For more output voltage, nonaqueous electrolytes are preferred over aqueous electrolytes. Vanadium ion and water crossover across the membrane, air oxidation, and hydrogen and oxygen evolution also affect the overall performances of the vanadium redox flow batteries. In recent studies, seawater is used as an alternative for deionized water to reduce the cost of production. The seawater not only reduces the cost of production, but also increases Columbic efficiency and capacity retention.</description>
-      <author>Roshny Joy, Thomas Y. George, Akhila Das, Maryam Fatima, Abhilash Pullanchiyodan, Praveen Raghavan</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1201/9781003310167-14</guid>
-    </item>
-    <item>
-      <title>Atomic Cobalt Metal Centers with Asymmetric N/B&#8208;Coordination for Promoting Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1002/adfm.202408111</link>
-      <description>Guangjian Guan, Yuhang Liu, Fuhua Li, Xiaojin Shi, Lingyue Liu, Tianyu Wang, Xue&#8208;Ting Xu, Ming Zhao, Jie Ding, Hong Bin Yang, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400378202
-
-                Abstract Cobalt single atom catalysts (SACs) have exhibited promising performance in both the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER), positioning them as potential dual&#8208;functional catalysts for Zn&#8208;air battery. However, the long&#8208;standing challenge lies in achieving satisfactory dual&#8208;functionality and stability of these SACs. In this study, to optimize the 4e &#8210; ORR performance, boron (B) atoms are employed with low electronegativity to regulate the structure of the Co&#8211;N&#8211;C catalytic center. This resulted in the formation of an asymmetrically coordinated Co metal center catalyst (Co&#8208;N 3 B). Compared to the Co&#8208;N 4 , Co&#8208;N 3 B exhibited lower free energy for ORR and stronger adsorption energy toward * O species, effectively suppressing the 2e &#8210; ORR pathway at the cobalt site and preventing catalyst corrosion induced by hydrogen peroxide (H 2 O 2 ) in ORR reactions, thereby enhancing catalyst stability. In situ attenuated total reflectance surface&#8208;enhanced infrared absorption spectroscopy (ATR&#8208;SEIRAS) further validated excellent interaction between Co active centers and O intermediates. Furthermore, the self&#8208;made rechargeable zinc&#8208;air battery demonstrated remarkable discharge peak power density (&#8776;253 mW cm &#8210;2 ), energy density (&#8776;819 mAh g &#8210;1 ), and cyclic stability exceeding 110 h. This study provides new insights into constructing catalysts with atomic&#8208;level precision and offers strong references for practical applications in energy storage and convension electrocatalysts.</description>
-      <author>Guangjian Guan, Yuhang Liu, Fuhua Li, Xiaojin Shi, Lingyue Liu, Tianyu Wang, Xue&#8208;Ting Xu, Ming Zhao, Jie Ding, Hong Bin Yang</author>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408111</guid>
-    </item>
-    <item>
       <title>Bimetallic Fe/Ni-BTC MOF decorated MXene hybrid for improved oxidation of water</title>
       <link>https://doi.org/10.1016/j.diamond.2024.111379</link>
       <description>Maida Murtaza, Komal Farooq, Aneeqa Amjad, Syed Shoaib Ahmad Shah, Amir Waseem, Diamond and related materials. None(None)] 2024. https://openalex.org/W4400314287
@@ -1056,6 +1066,26 @@
       <author>Qiujin Shi, Jing Li, Y. Liu, Kejian Kong, An-Zhen Li, Haohong Duan</author>
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02314</guid>
+    </item>
+    <item>
+      <title>Electrolytes for Vanadium Redox Flow Batteries</title>
+      <link>https://doi.org/10.1201/9781003310167-14</link>
+      <description>Roshny Joy, Thomas Y. George, Akhila Das, Maryam Fatima, Abhilash Pullanchiyodan, Praveen Raghavan, CRC Press eBooks. None(None)] 2024. https://openalex.org/W4400300159
+
+                Vanadium redox flow batteries (VRFBs) are one of the promising candidates for the large-scale energy storage. A major component in the VRFBs is electrolytes, whose properties will affect the electrochemical performance, efficiency, and overall cost. In spite of the fact that VRFBs electrolytes are remarkably evolved, they should improve toward reliable, stable, efficient, and cost-effective VRFBs. The use of the same element in different oxidation states eliminates the possibility of cross-contamination. Although the use of hydrochloric acid increases solubility, the hazardous elimination of chlorine gas becomes a problem. While using sulfuric acid as a supporting electrolyte, short range of operational temperature causes additional loss in energy and increases the cost. To increase the overall performances, many additives can be used. Studies were conducted to use sodium chloride as a cheap additive. For more output voltage, nonaqueous electrolytes are preferred over aqueous electrolytes. Vanadium ion and water crossover across the membrane, air oxidation, and hydrogen and oxygen evolution also affect the overall performances of the vanadium redox flow batteries. In recent studies, seawater is used as an alternative for deionized water to reduce the cost of production. The seawater not only reduces the cost of production, but also increases Columbic efficiency and capacity retention.</description>
+      <author>Roshny Joy, Thomas Y. George, Akhila Das, Maryam Fatima, Abhilash Pullanchiyodan, Praveen Raghavan</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1201/9781003310167-14</guid>
+    </item>
+    <item>
+      <title>Atomic Cobalt Metal Centers with Asymmetric N/B&#8208;Coordination for Promoting Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1002/adfm.202408111</link>
+      <description>Guangjian Guan, Yuhang Liu, Fuhua Li, Xiaojin Shi, Lingyue Liu, Tianyu Wang, Xue&#8208;Ting Xu, Ming Zhao, Jie Ding, Hong Bin Yang, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400378202
+
+                Abstract Cobalt single atom catalysts (SACs) have exhibited promising performance in both the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER), positioning them as potential dual&#8208;functional catalysts for Zn&#8208;air battery. However, the long&#8208;standing challenge lies in achieving satisfactory dual&#8208;functionality and stability of these SACs. In this study, to optimize the 4e &#8210; ORR performance, boron (B) atoms are employed with low electronegativity to regulate the structure of the Co&#8211;N&#8211;C catalytic center. This resulted in the formation of an asymmetrically coordinated Co metal center catalyst (Co&#8208;N 3 B). Compared to the Co&#8208;N 4 , Co&#8208;N 3 B exhibited lower free energy for ORR and stronger adsorption energy toward * O species, effectively suppressing the 2e &#8210; ORR pathway at the cobalt site and preventing catalyst corrosion induced by hydrogen peroxide (H 2 O 2 ) in ORR reactions, thereby enhancing catalyst stability. In situ attenuated total reflectance surface&#8208;enhanced infrared absorption spectroscopy (ATR&#8208;SEIRAS) further validated excellent interaction between Co active centers and O intermediates. Furthermore, the self&#8208;made rechargeable zinc&#8208;air battery demonstrated remarkable discharge peak power density (&#8776;253 mW cm &#8210;2 ), energy density (&#8776;819 mAh g &#8210;1 ), and cyclic stability exceeding 110 h. This study provides new insights into constructing catalysts with atomic&#8208;level precision and offers strong references for practical applications in energy storage and convension electrocatalysts.</description>
+      <author>Guangjian Guan, Yuhang Liu, Fuhua Li, Xiaojin Shi, Lingyue Liu, Tianyu Wang, Xue&#8208;Ting Xu, Ming Zhao, Jie Ding, Hong Bin Yang</author>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408111</guid>
     </item>
     <item>
       <title>Exploring the Capability of Cu-MoS2 Catalysts for Use in Electrocatalytic Overall Water Splitting</title>
@@ -1198,6 +1228,16 @@
       <guid isPermaLink="true">https://doi.org/10.1201/9781003310174-18</guid>
     </item>
     <item>
+      <title>Unraveling the Nature of Local Field Distortion-Induced Dual Electron-Trapping Centers for Efficient Photocatalytic Fuel Evolution</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124370</link>
+      <description>Zhenzi Li, Teng Gao, Hongqi Chu, Lijun Liao, Xuepeng Wang, Liping Guo, Xu Yang, Wei Zhou, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4400391718
+
+                Active electron-trapping centers play significant roles in photocatalysis. Herein, we synergize local field distortion and defects in nanocrystals to produce dual electron-trapping centers and unravel the nature of aluminum doping in porous ZnO with tunable amounts of heteroatoms and oxygen vacancies. The introduced Al atoms in the structural domain induce local field distortion and trigger the movement of Zn2+ from a singlet low spin state to a stable triplet state, resulting in the generation of free carriers trapping centers and optimized electronic energy band structure. Dual active electron-trapping centers of heteroatoms and oxygen vacancies promote the Separation of photo-generated charge carriers and reduce the adsorption energies of H* species. Furthermore, the d-band center of Al-doped ZnO with oxygen vacancies shifts to a higher energy position, thus promoting the adsorption and desorption of hydrogen intermediates and exhibiting 4-fold the photocatalytic H2 efficiency of pristine ZnO. This study provides new insights into the rational design of highly efficient oxide-based photocatalysts toward sustainable solar fuel evolution.</description>
+      <author>Zhenzi Li, Teng Gao, Hongqi Chu, Lijun Liao, Xuepeng Wang, Liping Guo, Xu Yang, Wei Zhou</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124370</guid>
+    </item>
+    <item>
       <title>Interfacial engineering and vacancy design of quasi-2D NiCoAl-LDH/Kaolin hybrid for activating peroxymonosulfate to boost degradation of antibiotics</title>
       <link>https://doi.org/10.1016/j.seppur.2024.128674</link>
       <description>Qing Sun, Xiaofang Hu, Hang Wang, H Liu, Yuan Lin, Jian Zhang, Xiongbo Dong, Jing Sheng, Separation and purification technology. None(None)] 2024. https://openalex.org/W4400299299
@@ -1258,16 +1298,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408823</guid>
     </item>
     <item>
-      <title>High efficiency two-step electrocatalysis boosted by dual-motif bridge Co-S-Mo for Heterogeneous Electro-Fenton: Enhanced H2O2 production and fluoxetine elimination synergistic mechanism</title>
-      <link>https://doi.org/10.1016/j.cej.2024.153546</link>
-      <description>Ziyao Wang, Junguo He, Dehai Yu, Yanshi Zheng, Wei Qiu, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400332985
-
-                Heterogeneous electro-Fenton process is widely recognized as intensive in-situ strategy with environmental compatibility. However, the simultaneous elevation of H2O2 production and exploitation efficiency during electrocatalysis remains a challenge. Here, we propose an innovative dual-site catalyst (MoxCo9&#8722;xS8&#8722;yNy; MCN) with Mo active motifs for enhanced two-electron oxygen reduction reaction and Co active motifs for enhanced reactive oxygen species generation to promote H2O2 generation and fluoxetine (FLX) degradation. As determined by Mo scaling and application performance, the optimal MCN catalyst provided at least 20 % increase in contaminant elimination within 30 min, reduced the reaction potential by over 1.4 eV, and diminished environmental exposure to toxic products. The optimal MCN@CF cathode efficiently removed approximately 96.7 % FLX and 55.1 % total organic carbon at a pH of 3 within 35 min. The critical dual-motif bridge Co&#8211;S&#8211;Mo mediated by S could disrupt the synergistic *O and *OOH binding energies, significantly penetrating the catalysis barriers. This work unravels the structural optimization evolution of non-single-site catalysts, providing new solutions to the refractory issues of wastewater decontamination</description>
-      <author>Ziyao Wang, Junguo He, Dehai Yu, Yanshi Zheng, Wei Qiu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153546</guid>
-    </item>
-    <item>
       <title>BOWIE-ALIGN: A JWST comparative survey of aligned vs misaligned hot
   Jupiters to test the dependence of atmospheric composition on migration
   history</title>
@@ -1278,6 +1308,16 @@
       <author>James Kirk, Eva-Maria Ahrer, Anna B. T. Penzlin, James E. Owen, Richard A Booth, Lili Alderson, Duncan A. Christie, A. B. Claringbold, E. Esparza-Borges, Chloe Fisher, Mercedes L&#243;pez&#8208;Morales, Nathan J. Mayne, Michael D. McCormack, Annabella Meech, Vatsal Panwar, Diana Powell, Jake Taylor, Denis E. Sergeev, Daniel T. Valentine, Hannah R. Wakeford, P. J. Wheatley, Maria Zamyatina</author>
       <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.03198</guid>
+    </item>
+    <item>
+      <title>High efficiency two-step electrocatalysis boosted by dual-motif bridge Co-S-Mo for Heterogeneous Electro-Fenton: Enhanced H2O2 production and fluoxetine elimination synergistic mechanism</title>
+      <link>https://doi.org/10.1016/j.cej.2024.153546</link>
+      <description>Ziyao Wang, Junguo He, Dehai Yu, Yanshi Zheng, Wei Qiu, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400332985
+
+                Heterogeneous electro-Fenton process is widely recognized as intensive in-situ strategy with environmental compatibility. However, the simultaneous elevation of H2O2 production and exploitation efficiency during electrocatalysis remains a challenge. Here, we propose an innovative dual-site catalyst (MoxCo9&#8722;xS8&#8722;yNy; MCN) with Mo active motifs for enhanced two-electron oxygen reduction reaction and Co active motifs for enhanced reactive oxygen species generation to promote H2O2 generation and fluoxetine (FLX) degradation. As determined by Mo scaling and application performance, the optimal MCN catalyst provided at least 20 % increase in contaminant elimination within 30 min, reduced the reaction potential by over 1.4 eV, and diminished environmental exposure to toxic products. The optimal MCN@CF cathode efficiently removed approximately 96.7 % FLX and 55.1 % total organic carbon at a pH of 3 within 35 min. The critical dual-motif bridge Co&#8211;S&#8211;Mo mediated by S could disrupt the synergistic *O and *OOH binding energies, significantly penetrating the catalysis barriers. This work unravels the structural optimization evolution of non-single-site catalysts, providing new solutions to the refractory issues of wastewater decontamination</description>
+      <author>Ziyao Wang, Junguo He, Dehai Yu, Yanshi Zheng, Wei Qiu</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153546</guid>
     </item>
     <item>
       <title>A Dynamical Model for IRAS 00500+6713: The Remnant of a Type Iax Supernova SN 1181 Hosting a Double Degenerate Merger Product WD J005311</title>
@@ -1320,16 +1360,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.envpol.2024.124491</guid>
     </item>
     <item>
-      <title>Early transition metal oxides with oxygen vacancies as new thermodynamically stable materials for electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124368</link>
-      <description>Zhe Wu, Yangyan Shi, Yingying Wei, Zilong Chen, Tianrong Zhan, Jianping Lai, Lei Wang, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4400316122
-
-                Currently developed electrocatalysts are difficult to achieve high thermodynamic stability at each active site. Early transition metal oxides are promising electrocatalysts with excellent thermodynamic stability and water dissociation ability for alkaline hydrogen evolution reaction (HER). However, they have not been developed as direct-electrocatalysts for water splitting. Here, we introduce oxygen vacancies (Vo) by electrodeposition to convert early transition metal oxides (scandium oxide (Sc2O3), yttrium oxide (Y2O3), and zirconium oxide (ZrO2)) into active electrocatalysts. By optimizing the metal element species and Vo content, the screened Y2O2.13@GP shows the lowest overpotential (266 mV at 500 mA cm-2. Moreover, Y2O2.13@GP is able to operate stably for over 1000 h at a current density of 500 mA cm-2 under harsh industrial conditions of 6.0 M KOH and 80&#176;C without dissolution and reconstruction. Experimental studies and theoretical calculations indicate that the introduction of Vo can enhance the conductivity of the catalyst, increase the exposure of the active sites, modulate the electronic structure of Y2O2.13@GP, and decrease the *H adsorption and water dissociation energy barriers.</description>
-      <author>Zhe Wu, Yangyan Shi, Yingying Wei, Zilong Chen, Tianrong Zhan, Jianping Lai, Lei Wang</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124368</guid>
-    </item>
-    <item>
       <title>Studying species distribution in laser-induced plasma by molecular and atomic fluorescence</title>
       <link>https://doi.org/10.1088/1361-6595/ad5eba</link>
       <description>B. G. Beglaryan, A. S. Zakuskin, Sergey M. Zaytsev, Timur A. Labutin, Plasma sources science &amp; technology. None(None)] 2024. https://openalex.org/W4400268625
@@ -1338,6 +1368,16 @@
       <author>B. G. Beglaryan, A. S. Zakuskin, Sergey M. Zaytsev, Timur A. Labutin</author>
       <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/1361-6595/ad5eba</guid>
+    </item>
+    <item>
+      <title>Early transition metal oxides with oxygen vacancies as new thermodynamically stable materials for electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124368</link>
+      <description>Zhe Wu, Yangyan Shi, Yingying Wei, Zilong Chen, Tianrong Zhan, Jianping Lai, Lei Wang, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4400316122
+
+                Currently developed electrocatalysts are difficult to achieve high thermodynamic stability at each active site. Early transition metal oxides are promising electrocatalysts with excellent thermodynamic stability and water dissociation ability for alkaline hydrogen evolution reaction (HER). However, they have not been developed as direct-electrocatalysts for water splitting. Here, we introduce oxygen vacancies (Vo) by electrodeposition to convert early transition metal oxides (scandium oxide (Sc2O3), yttrium oxide (Y2O3), and zirconium oxide (ZrO2)) into active electrocatalysts. By optimizing the metal element species and Vo content, the screened Y2O2.13@GP shows the lowest overpotential (266 mV at 500 mA cm-2. Moreover, Y2O2.13@GP is able to operate stably for over 1000 h at a current density of 500 mA cm-2 under harsh industrial conditions of 6.0 M KOH and 80&#176;C without dissolution and reconstruction. Experimental studies and theoretical calculations indicate that the introduction of Vo can enhance the conductivity of the catalyst, increase the exposure of the active sites, modulate the electronic structure of Y2O2.13@GP, and decrease the *H adsorption and water dissociation energy barriers.</description>
+      <author>Zhe Wu, Yangyan Shi, Yingying Wei, Zilong Chen, Tianrong Zhan, Jianping Lai, Lei Wang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124368</guid>
     </item>
     <item>
       <title>Consequences for the early evolution of Venus from new simulations of atmosphere erosion by impacts.</title>
@@ -1360,16 +1400,6 @@
       <guid isPermaLink="true">https://doi.org/10.36348/sjmps.2024.v10i06.008</guid>
     </item>
     <item>
-      <title>Siderite from the Tibetan Himalaya: Evidence for a low sulphate ocean during Oceanic Anoxic Event 1a (Early Aptian)</title>
-      <link>https://doi.org/10.1111/sed.13218</link>
-      <description>Fancheng Meng, Zhong Han, Xiumian Hu, Hugh C. Jenkyns, Bolin Zhang, Yang Liu, Mingcai Hou, Sedimentology. None(None)] 2024. https://openalex.org/W4400363472
-
-                Abstract Mesozoic oceanic anoxic events were characterized by relatively low seawater sulphate concentrations ([]), which likely regulated the development and evolution of these major palaeoceanographic phenomena. However, there is little reliable sedimentary evidence for low [] in ancient marine waters and understanding of how such a seawater chemistry potentially impacted oceanic anoxic events is limited. This study presents an integrated sedimentological, mineralogical and geochemical investigation of the mineral siderite hosted in dark grey shale and sideritic concretions of Early Aptian (coeval with Oceanic Anoxic Event 1a) from the Tibetan Himalaya. Siderite is present throughout the section and possesses similar morphological characteristics whether in dark grey shale or concretions. Siderite can be present as disseminated and rhombic crystals formed during early diagenesis, or minor spherical crystals formed during late diagenesis. The evidence from redox elements, middle rare&#8208;earth element bulge patterns and extremely low carbon&#8208;isotope values of the sideritic concretions indicates that the iron carbonate was formed in the Fe&#8208;reduction zones by the process of dissimilatory iron reduction. This process would have required conditions of low [], reducing environment, abundant iron and high alkalinity. Additionally, the coexistence of siderite and pyrite may indicate that dissimilatory iron reduction occurred close to the microbial sulphate reduction zone, with seawater [] hovering around the tipping point at which pyrite could form once seawater sulphate increased. Such an increase during Oceanic Anoxic Event 1a could have resulted from basalt&#8211;seawater interaction and associated enhanced continental weathering, and/or hydrothermal activity. This study's observations support the previous hypothesis that low [] for Oceanic Anoxic Event 1a was probably caused by massive gypsum burial in the proto&#8208;South Atlantic. Subsequently, enhanced sulphate input could have promoted microbial sulphate reduction and accompanying oxidation of organic matter, which likely further enhanced nutrient recycling, increased primary productivity and organic&#8208;carbon burial, leading to more oxygen consumption and expansion of oxygen minimum zones, as reconstructed for many oceanic anoxic events.</description>
-      <author>Fancheng Meng, Zhong Han, Xiumian Hu, Hugh C. Jenkyns, Bolin Zhang, Yang Liu, Mingcai Hou</author>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1111/sed.13218</guid>
-    </item>
-    <item>
       <title>Supersonic Hot Jet Ablative Testing and Analysis of Boron Nitride Nanotube Hybrid Composites</title>
       <link>https://doi.org/10.1016/j.compositesb.2024.111684</link>
       <description>Aspen N. Reyes, Yousef Saleh, Jonas Gustavsson, Claire Jolowsky, Rajan Kumar, LaRico J. Treadwell, Rebekah Sweat, Composites. Part B, Engineering. None(None)] 2024. https://openalex.org/W4400337274
@@ -1380,54 +1410,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.compositesb.2024.111684</guid>
     </item>
     <item>
-      <title>Functional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in &lt;i&gt;Cyanophora paradoxa&lt;/i&gt;</title>
-      <link>https://doi.org/10.1111/jeu.13041</link>
-      <description>Baptiste Genot, Margaret Grogan, Michael J. Yost, Giuseppe Iacono, Stephen D. Archer, John A. Burns, &#152;The &#156;journal of eukaryotic microbiology/&#152;The &#156;Journal of eukaryotic microbiology. None(None)] 2024. https://openalex.org/W4400260684
+      <title>Siderite from the Tibetan Himalaya: Evidence for a low sulphate ocean during Oceanic Anoxic Event 1a (Early Aptian)</title>
+      <link>https://doi.org/10.1111/sed.13218</link>
+      <description>Fancheng Meng, Zhong Han, Xiumian Hu, Hugh C. Jenkyns, Bolin Zhang, Yang Liu, Mingcai Hou, Sedimentology. None(None)] 2024. https://openalex.org/W4400363472
 
-                Abstract Glaucophytes, an enigmatic group of freshwater algae, occupy a pivotal position within the Archaeplastida, providing insights into the early evolutionary history of plastids and their host cells. These algae possess unique plastids, known as cyanelles that retain certain ancestral features, enabling a better understanding of the plastid transition from cyanobacteria. In this study, we investigated the role of ethylene, a potent hormone used by land plants to coordinate stress responses, in the glaucophyte alga Cyanophora paradoxa . We demonstrate that C. paradoxa produces gaseous ethylene when supplied with exogenous 1&#8208;aminocyclopropane&#8208;1&#8208;carboxylic acid (ACC), the ethylene precursor in land plants. In addition, we show that cells produce ethylene natively in response to abiotic stress, and that another plant hormone, abscisic acid (ABA), interferes with ethylene synthesis from exogenously supplied ACC, while positively regulating reactive oxygen species (ROS) accumulation. ROS synthesis also occurred following abiotic stress and ACC treatment, possibly acting as a second messenger in stress responses. A physiological response of C. paradoxa to ACC treatment is growth inhibition. Using transcriptomics, we reveal that ACC treatment induces the upregulation of senescence&#8208;associated proteases, consistent with the observation of growth inhibition. This is the first report of hormone usage in a glaucophyte alga, extending our understanding of hormone&#8208;mediated stress response coordination into the Glaucophyta, with implications for the evolution of signaling modalities across Archaeplastida.</description>
-      <author>Baptiste Genot, Margaret Grogan, Michael J. Yost, Giuseppe Iacono, Stephen D. Archer, John A. Burns</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1111/jeu.13041</guid>
-    </item>
-    <item>
-      <title>Molecular Composition Evolution of Dissolved Organic Matter With Water Depth in Prydz Bay of East Antarctic: Carbon Export Implications</title>
-      <link>https://doi.org/10.1029/2023jc020571</link>
-      <description>Bin Jiang, Jun Zhao, Dong Li, Liyang Zhan, Zengwen Gao, Hua Sun, Yuping Zhou, Jianming Pan, Yanqiang Sun, Journal of geophysical research. Oceans. 129(7)] 2024. https://openalex.org/W4400325823
-
-                Abstract This study analyzes the molecular composition of dissolved organic matter (DOM) in Prydz Bay by Fourier Transform Ion Cyclotron Resonance mass spectrometry to probe the carbon sequestration capacity in the continental shelf system. Concentrations of particulate organic carbon (POC), particulate nitrogen and dissolved organic carbon (DOC) with water depth show that POC could be mainly decomposed into DOC and/or microbially degraded. Highly labile DOC is further degraded and remineralized by microorganisms within the upper 200 m, as evidenced by a downward enrichment of 13 C POC and increases in the average molecular weight, oxygen atom number (O) and double bond equivalents of DOM molecules, indicating that biodegradation is the main driver for particulate organic matter and DOM evolution with water depth. Semi&#8208;quantitative calculation demonstrates that &#8764;83% of POC was transformed to DOC as well as dissolved inorganic carbon (DIC), and &#8764;30% of DOC further to DIC via microbial degradation within the upper 200 m in summer, resulting in a relatively low total organic carbon content in sediments of Prydz Bay. The newly transformed DIC and residue DOC can be preserved in the deep layer due to the formation of well stratified and stable water body in summer of Prydz Bay, ultimately entering the regional circulation system instead of being released back into the atmosphere. This could be one of the most important processes determining the atmosphere CO 2 uptake in the continental shelf system of Southern Ocean.</description>
-      <author>Bin Jiang, Jun Zhao, Dong Li, Liyang Zhan, Zengwen Gao, Hua Sun, Yuping Zhou, Jianming Pan, Yanqiang Sun</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1029/2023jc020571</guid>
-    </item>
-    <item>
-      <title>Ultra&#8208;Small High&#8208;Entropy Alloy as Multi&#8208;Functional Catalyst for Ammonia Based Fuel Cells</title>
-      <link>https://doi.org/10.1002/smll.202400892</link>
-      <description>Yuanyuan Zhang, Zumin Wang, Lei Wang, Lingbo Zong, Small. None(None)] 2024. https://openalex.org/W4400247465
-
-                Abstract Ammonia fuel cells using carbon&#8208;neutral ammonia as fuel are regarded as a fast, furious, and flexible next&#8208;generation carbon&#8208;free energy conversion technology, but it is limited by the kinetically sluggish ammonia oxidation reaction (AOR), oxygen reduction reaction (ORR), and hydrogen evolution reaction (HER). Platinum can efficiently drive these three types of reactions, but its scale&#8208;up application is limited by its susceptibility to poisoning and high cost. In order to reduce the cost and alleviate poisoning, incorporating Pt with various metals proves to be an efficient and feasible strategy. Herein, PtFeCoNiIr/C trifunctional high&#8208;entropy alloy (HEA) catalysts are prepared with uniform mixing and ultra&#8208;small size of 2 &#177; 0.5 nm by Joule heating method. PtFeCoNiIr/C exhibits efficient performance in AOR ( J peak = 139.8 A g &#8722;1 PGM ), ORR ( E 1/2 = 0.87 V), and HER ( E 10 = 20.3 mV), outperforming the benchmark Pt/C, and no loss in HER performance at 100 mA cm &#8722;2 for 200 h. The almost unchanged E 1/2 in the anti&#8208;poisoning test indicates its promising application in real fuel cells powered by ammonia. This work opens up a new path for the development of multi&#8208;functional electrocatalysts and also makes a big leap toward the exploration of cost&#8208;effective device configurations for novel fuel cells.</description>
-      <author>Yuanyuan Zhang, Zumin Wang, Lei Wang, Lingbo Zong</author>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400892</guid>
-    </item>
-    <item>
-      <title>A NIR&#8208;II&#8208;Emissive Organic Nanomedicine with Biomimetic Engineering for High&#8208;Contrast Targeted Bioimaging and Multiple Phototherapies of Pancreatic Tumors</title>
-      <link>https://doi.org/10.1002/adfm.202406483</link>
-      <description>Yiwei Wang, Jie Zhang, Yu Wang, Jie Yu, Yijian Gao, Yang&#65533; Yang, Xiliang Li, Hongcheng Wang, Shengliang Li, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400248100
-
-                Abstract Recent advances are achieved in the design and development of efficient organic photosensitizers (PSs), especially with fluorescence imaging navigation in the second near&#8208;infrared (NIR&#8208;II, 1000&#8211;1700 nm) region. However, there are simply a handful of NIR&#8208;II emissive organic PSs with efficient oxygen&#8208;independent capability due to the scarcity of high&#8208;performance NIR&#8208;responsive organic materials and targeted delivery. Herein, a NIR&#8208;II&#8208;emissive organic nanomedicine with biomimetic engineering for high&#8208;performance NIR&#8208;II imaging and targeted multiple phototherapies of pancreatic tumors is reported. An A&#8208;D&#8208;A&#8208;type conjugated small&#8208;molecule TPC is designed and used to prepare water&#8208;dispersive nanoparticles, which demonstrated high efficiency for type I and type II photodynamic performances, good photothermal conversion of 57%, and bright NIR&#8208;II emission with a quantum yield of 9.8% under 808 nm light irradiation. With pancreatic cancer cell membrane camouflage, the biomimetic TPC nanomedicine achieved high&#8208;resolution and targeted bioimaging of whole&#8208;body blood vessels and tumors. Antitumor experiments demonstrated the high efficiency of the biomimetic TPC nanomedicine for pancreatic tumor elimination and good biosafety with 808 nm light irradiation. This work demonstrated a NIR&#8208;II&#8208;emissive versatile nanomedicine with enhanced tumor&#8208;targeting for high&#8208;resolution NIR&#8208;II bioimaging and superior phototheranostics, providing a feasible idea for the evolution of targeted and high&#8208;performance theranostics.</description>
-      <author>Yiwei Wang, Jie Zhang, Yu Wang, Jie Yu, Yijian Gao, Yang&#65533; Yang, Xiliang Li, Hongcheng Wang, Shengliang Li</author>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202406483</guid>
-    </item>
-    <item>
-      <title>N/S&#8208;Doped Hierarchical Porous Bamboo Carbon Fibers with Ultra&#8208;Large Surface Area and Highly Exposed Active Sites for Flexible Zinc&#8208;Air Battery&lt;sup&gt;&#8224;&lt;/sup&gt;</title>
-      <link>https://doi.org/10.1002/cjoc.202400479</link>
-      <description>Yuhang Qian, X. J. Liu, Xiangjun Zheng, Yang Zhang, Yu Yang, Fei Gao, Xingmei Guo, Yuanjun Liu, Xia Cao, Ruihua Guo, Junhao Zhang, Chinese journal of chemistry. None(None)] 2024. https://openalex.org/W4400293871
-
-                Comprehensive Summary Facile mass transport channel and accessible active sites are crucial for binder&#8208;free air electrode catalysts in rechargeable flexible zinc&#8208;air battery (ZAB). Herein, a ZnS/NH 3 dual&#8208;assisted pyrolysis strategy is proposed to prepare N/S&#8208;doped hierarchical porous bamboo carbon cloth (HP&#8208;NS&#8208;BCC) as binder&#8208;free air electrode catalyst for ZAB. BCC fabric with abundant micropores is firstly used as flexible carbon support to facilitate the heteroatom&#8208;doping and construct the hierarchical porous structure. ZnS nanospheres and NH 3 activization together facilitate the electronic modulation of carbon matrix by N/S&#8208;doping and optimize the macro/meso/micropores structure of carbon fibers. Benefiting from the highly&#8208;exposed N/S&#8208;induced sites with enhanced intrinsic activity, the optimized mass transport of biocarbon fibers, as well as the ultra&#8208;large specific surface area of 2436.1 m 2 &#183;g &#8211;1 , the resultant HP&#8208;NS&#8208;BCC catalyst exhibits improved kinetics for oxygen reduction/evolution reaction. When applied to rechargeable aqueous ZABs, it achieves a significant peak power density of 249.1 mW&#183;cm &#8722;2 . As binder&#8208;free air electrode catalyst, the flexible ZAB also displays stable cycling over 500 cycles with a minimal voltage gap of 0.42 V, showcasing promising applications in flexible electronic devices.</description>
-      <author>Yuhang Qian, X. J. Liu, Xiangjun Zheng, Yang Zhang, Yu Yang, Fei Gao, Xingmei Guo, Yuanjun Liu, Xia Cao, Ruihua Guo, Junhao Zhang</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cjoc.202400479</guid>
+                Abstract Mesozoic oceanic anoxic events were characterized by relatively low seawater sulphate concentrations ([]), which likely regulated the development and evolution of these major palaeoceanographic phenomena. However, there is little reliable sedimentary evidence for low [] in ancient marine waters and understanding of how such a seawater chemistry potentially impacted oceanic anoxic events is limited. This study presents an integrated sedimentological, mineralogical and geochemical investigation of the mineral siderite hosted in dark grey shale and sideritic concretions of Early Aptian (coeval with Oceanic Anoxic Event 1a) from the Tibetan Himalaya. Siderite is present throughout the section and possesses similar morphological characteristics whether in dark grey shale or concretions. Siderite can be present as disseminated and rhombic crystals formed during early diagenesis, or minor spherical crystals formed during late diagenesis. The evidence from redox elements, middle rare&#8208;earth element bulge patterns and extremely low carbon&#8208;isotope values of the sideritic concretions indicates that the iron carbonate was formed in the Fe&#8208;reduction zones by the process of dissimilatory iron reduction. This process would have required conditions of low [], reducing environment, abundant iron and high alkalinity. Additionally, the coexistence of siderite and pyrite may indicate that dissimilatory iron reduction occurred close to the microbial sulphate reduction zone, with seawater [] hovering around the tipping point at which pyrite could form once seawater sulphate increased. Such an increase during Oceanic Anoxic Event 1a could have resulted from basalt&#8211;seawater interaction and associated enhanced continental weathering, and/or hydrothermal activity. This study's observations support the previous hypothesis that low [] for Oceanic Anoxic Event 1a was probably caused by massive gypsum burial in the proto&#8208;South Atlantic. Subsequently, enhanced sulphate input could have promoted microbial sulphate reduction and accompanying oxidation of organic matter, which likely further enhanced nutrient recycling, increased primary productivity and organic&#8208;carbon burial, leading to more oxygen consumption and expansion of oxygen minimum zones, as reconstructed for many oceanic anoxic events.</description>
+      <author>Fancheng Meng, Zhong Han, Xiumian Hu, Hugh C. Jenkyns, Bolin Zhang, Yang Liu, Mingcai Hou</author>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1111/sed.13218</guid>
     </item>
     <item>
       <title>Multi-method characterization of groundwater nitrate and sulfate contamination by karst mines in southwest China</title>
@@ -1460,6 +1450,56 @@
       <guid isPermaLink="true">https://doi.org/10.1101/2024.07.04.601786</guid>
     </item>
     <item>
+      <title>Ultra&#8208;Small High&#8208;Entropy Alloy as Multi&#8208;Functional Catalyst for Ammonia Based Fuel Cells</title>
+      <link>https://doi.org/10.1002/smll.202400892</link>
+      <description>Yuanyuan Zhang, Zumin Wang, Lei Wang, Lingbo Zong, Small. None(None)] 2024. https://openalex.org/W4400247465
+
+                Abstract Ammonia fuel cells using carbon&#8208;neutral ammonia as fuel are regarded as a fast, furious, and flexible next&#8208;generation carbon&#8208;free energy conversion technology, but it is limited by the kinetically sluggish ammonia oxidation reaction (AOR), oxygen reduction reaction (ORR), and hydrogen evolution reaction (HER). Platinum can efficiently drive these three types of reactions, but its scale&#8208;up application is limited by its susceptibility to poisoning and high cost. In order to reduce the cost and alleviate poisoning, incorporating Pt with various metals proves to be an efficient and feasible strategy. Herein, PtFeCoNiIr/C trifunctional high&#8208;entropy alloy (HEA) catalysts are prepared with uniform mixing and ultra&#8208;small size of 2 &#177; 0.5 nm by Joule heating method. PtFeCoNiIr/C exhibits efficient performance in AOR ( J peak = 139.8 A g &#8722;1 PGM ), ORR ( E 1/2 = 0.87 V), and HER ( E 10 = 20.3 mV), outperforming the benchmark Pt/C, and no loss in HER performance at 100 mA cm &#8722;2 for 200 h. The almost unchanged E 1/2 in the anti&#8208;poisoning test indicates its promising application in real fuel cells powered by ammonia. This work opens up a new path for the development of multi&#8208;functional electrocatalysts and also makes a big leap toward the exploration of cost&#8208;effective device configurations for novel fuel cells.</description>
+      <author>Yuanyuan Zhang, Zumin Wang, Lei Wang, Lingbo Zong</author>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400892</guid>
+    </item>
+    <item>
+      <title>A NIR&#8208;II&#8208;Emissive Organic Nanomedicine with Biomimetic Engineering for High&#8208;Contrast Targeted Bioimaging and Multiple Phototherapies of Pancreatic Tumors</title>
+      <link>https://doi.org/10.1002/adfm.202406483</link>
+      <description>Yiwei Wang, Jie Zhang, Yu Wang, Jie Yu, Yijian Gao, Yang&#65533; Yang, Xiliang Li, Hongcheng Wang, Shengliang Li, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400248100
+
+                Abstract Recent advances are achieved in the design and development of efficient organic photosensitizers (PSs), especially with fluorescence imaging navigation in the second near&#8208;infrared (NIR&#8208;II, 1000&#8211;1700 nm) region. However, there are simply a handful of NIR&#8208;II emissive organic PSs with efficient oxygen&#8208;independent capability due to the scarcity of high&#8208;performance NIR&#8208;responsive organic materials and targeted delivery. Herein, a NIR&#8208;II&#8208;emissive organic nanomedicine with biomimetic engineering for high&#8208;performance NIR&#8208;II imaging and targeted multiple phototherapies of pancreatic tumors is reported. An A&#8208;D&#8208;A&#8208;type conjugated small&#8208;molecule TPC is designed and used to prepare water&#8208;dispersive nanoparticles, which demonstrated high efficiency for type I and type II photodynamic performances, good photothermal conversion of 57%, and bright NIR&#8208;II emission with a quantum yield of 9.8% under 808 nm light irradiation. With pancreatic cancer cell membrane camouflage, the biomimetic TPC nanomedicine achieved high&#8208;resolution and targeted bioimaging of whole&#8208;body blood vessels and tumors. Antitumor experiments demonstrated the high efficiency of the biomimetic TPC nanomedicine for pancreatic tumor elimination and good biosafety with 808 nm light irradiation. This work demonstrated a NIR&#8208;II&#8208;emissive versatile nanomedicine with enhanced tumor&#8208;targeting for high&#8208;resolution NIR&#8208;II bioimaging and superior phototheranostics, providing a feasible idea for the evolution of targeted and high&#8208;performance theranostics.</description>
+      <author>Yiwei Wang, Jie Zhang, Yu Wang, Jie Yu, Yijian Gao, Yang&#65533; Yang, Xiliang Li, Hongcheng Wang, Shengliang Li</author>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202406483</guid>
+    </item>
+    <item>
+      <title>N/S&#8208;Doped Hierarchical Porous Bamboo Carbon Fibers with Ultra&#8208;Large Surface Area and Highly Exposed Active Sites for Flexible Zinc&#8208;Air Battery&lt;sup&gt;&#8224;&lt;/sup&gt;</title>
+      <link>https://doi.org/10.1002/cjoc.202400479</link>
+      <description>Yuhang Qian, X. J. Liu, Xiangjun Zheng, Yang Zhang, Yu Yang, Fei Gao, Xingmei Guo, Yuanjun Liu, Xia Cao, Ruihua Guo, Junhao Zhang, Chinese journal of chemistry. None(None)] 2024. https://openalex.org/W4400293871
+
+                Comprehensive Summary Facile mass transport channel and accessible active sites are crucial for binder&#8208;free air electrode catalysts in rechargeable flexible zinc&#8208;air battery (ZAB). Herein, a ZnS/NH 3 dual&#8208;assisted pyrolysis strategy is proposed to prepare N/S&#8208;doped hierarchical porous bamboo carbon cloth (HP&#8208;NS&#8208;BCC) as binder&#8208;free air electrode catalyst for ZAB. BCC fabric with abundant micropores is firstly used as flexible carbon support to facilitate the heteroatom&#8208;doping and construct the hierarchical porous structure. ZnS nanospheres and NH 3 activization together facilitate the electronic modulation of carbon matrix by N/S&#8208;doping and optimize the macro/meso/micropores structure of carbon fibers. Benefiting from the highly&#8208;exposed N/S&#8208;induced sites with enhanced intrinsic activity, the optimized mass transport of biocarbon fibers, as well as the ultra&#8208;large specific surface area of 2436.1 m 2 &#183;g &#8211;1 , the resultant HP&#8208;NS&#8208;BCC catalyst exhibits improved kinetics for oxygen reduction/evolution reaction. When applied to rechargeable aqueous ZABs, it achieves a significant peak power density of 249.1 mW&#183;cm &#8722;2 . As binder&#8208;free air electrode catalyst, the flexible ZAB also displays stable cycling over 500 cycles with a minimal voltage gap of 0.42 V, showcasing promising applications in flexible electronic devices.</description>
+      <author>Yuhang Qian, X. J. Liu, Xiangjun Zheng, Yang Zhang, Yu Yang, Fei Gao, Xingmei Guo, Yuanjun Liu, Xia Cao, Ruihua Guo, Junhao Zhang</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cjoc.202400479</guid>
+    </item>
+    <item>
+      <title>Functional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in &lt;i&gt;Cyanophora paradoxa&lt;/i&gt;</title>
+      <link>https://doi.org/10.1111/jeu.13041</link>
+      <description>Baptiste Genot, Margaret Grogan, Michael J. Yost, Giuseppe Iacono, Stephen D. Archer, John A. Burns, &#152;The &#156;journal of eukaryotic microbiology/&#152;The &#156;Journal of eukaryotic microbiology. None(None)] 2024. https://openalex.org/W4400260684
+
+                Abstract Glaucophytes, an enigmatic group of freshwater algae, occupy a pivotal position within the Archaeplastida, providing insights into the early evolutionary history of plastids and their host cells. These algae possess unique plastids, known as cyanelles that retain certain ancestral features, enabling a better understanding of the plastid transition from cyanobacteria. In this study, we investigated the role of ethylene, a potent hormone used by land plants to coordinate stress responses, in the glaucophyte alga Cyanophora paradoxa . We demonstrate that C. paradoxa produces gaseous ethylene when supplied with exogenous 1&#8208;aminocyclopropane&#8208;1&#8208;carboxylic acid (ACC), the ethylene precursor in land plants. In addition, we show that cells produce ethylene natively in response to abiotic stress, and that another plant hormone, abscisic acid (ABA), interferes with ethylene synthesis from exogenously supplied ACC, while positively regulating reactive oxygen species (ROS) accumulation. ROS synthesis also occurred following abiotic stress and ACC treatment, possibly acting as a second messenger in stress responses. A physiological response of C. paradoxa to ACC treatment is growth inhibition. Using transcriptomics, we reveal that ACC treatment induces the upregulation of senescence&#8208;associated proteases, consistent with the observation of growth inhibition. This is the first report of hormone usage in a glaucophyte alga, extending our understanding of hormone&#8208;mediated stress response coordination into the Glaucophyta, with implications for the evolution of signaling modalities across Archaeplastida.</description>
+      <author>Baptiste Genot, Margaret Grogan, Michael J. Yost, Giuseppe Iacono, Stephen D. Archer, John A. Burns</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1111/jeu.13041</guid>
+    </item>
+    <item>
+      <title>Molecular Composition Evolution of Dissolved Organic Matter With Water Depth in Prydz Bay of East Antarctic: Carbon Export Implications</title>
+      <link>https://doi.org/10.1029/2023jc020571</link>
+      <description>Bin Jiang, Jun Zhao, Dong Li, Liyang Zhan, Zengwen Gao, Hua Sun, Yuping Zhou, Jianming Pan, Yanqiang Sun, Journal of geophysical research. Oceans. 129(7)] 2024. https://openalex.org/W4400325823
+
+                Abstract This study analyzes the molecular composition of dissolved organic matter (DOM) in Prydz Bay by Fourier Transform Ion Cyclotron Resonance mass spectrometry to probe the carbon sequestration capacity in the continental shelf system. Concentrations of particulate organic carbon (POC), particulate nitrogen and dissolved organic carbon (DOC) with water depth show that POC could be mainly decomposed into DOC and/or microbially degraded. Highly labile DOC is further degraded and remineralized by microorganisms within the upper 200 m, as evidenced by a downward enrichment of 13 C POC and increases in the average molecular weight, oxygen atom number (O) and double bond equivalents of DOM molecules, indicating that biodegradation is the main driver for particulate organic matter and DOM evolution with water depth. Semi&#8208;quantitative calculation demonstrates that &#8764;83% of POC was transformed to DOC as well as dissolved inorganic carbon (DIC), and &#8764;30% of DOC further to DIC via microbial degradation within the upper 200 m in summer, resulting in a relatively low total organic carbon content in sediments of Prydz Bay. The newly transformed DIC and residue DOC can be preserved in the deep layer due to the formation of well stratified and stable water body in summer of Prydz Bay, ultimately entering the regional circulation system instead of being released back into the atmosphere. This could be one of the most important processes determining the atmosphere CO 2 uptake in the continental shelf system of Southern Ocean.</description>
+      <author>Bin Jiang, Jun Zhao, Dong Li, Liyang Zhan, Zengwen Gao, Hua Sun, Yuping Zhou, Jianming Pan, Yanqiang Sun</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1029/2023jc020571</guid>
+    </item>
+    <item>
       <title>Tectono&#8208;sedimentary history of the upper Cedar Mountain Formation, Central Utah, &lt;scp&gt;USA&lt;/scp&gt;</title>
       <link>https://doi.org/10.1111/sed.13211</link>
       <description>Ryan T. Tucker, Michael R. King, Michael T. Mohr, Ray K. Renaut, James L. Crowley, Jack Fekete, Peter J. Makovicky, Lindsay E. Zanno, Sedimentology. None(None)] 2024. https://openalex.org/W4400205274
@@ -1490,16 +1530,6 @@
       <guid isPermaLink="true">https://doi.org/10.5194/epsc2024-209</guid>
     </item>
     <item>
-      <title>Space Weathering Provides a Lower Limit on the Age of Saturn&amp;amp;#8217;s Rings</title>
-      <link>https://doi.org/10.5194/epsc2024-562</link>
-      <description>L. W. Esposito, J. P. Elliott, E. T. Bradley, No host. None(None)] 2024. https://openalex.org/W4400291012
-
-                Cassini observations of the micrometeoroid bombardment flux, ring mass and fractional pollution constrain the origin and history of Saturn&amp;#8217;s rings. In the simplest model, the age of the rings can be estimated by assuming the rings are a closed system with constant bombardment at the current rate. However, the rings are not a closed system and Cassini spectroscopy is consistent with space weathering of the cosmic dust polluting the rings. The remote sensing of the rings shows a red slope, with higher pollution at the shortest wavelengths, consistent with reddening due to space weathering of atmosphereless bodies. If processes at the time of the micrometeorite impacts or subsequent chemical and physical weathering can degrade the original pollutants, this means that laboratory spectra are not appropriate to determine the total extrinsic material that has struck the rings over their lifetime. Laboratory results for irradiation of icy outer solar system analogues indicate oxidation of organics and other pollutants over time. It is now generally agreed that the radiolysis of ice by energetic ions, electrons and solar UV photons produces the oxygen, ozone and peroxide seen at many icy satellites. The porosity of ice provides sufficient space for chemical reactions and mobility. The ring particle surfaces are in addition continually gardened by particle collisions and meteoritic impacts. Because of the loss processes, the current fractional pollution provides only a lower limit on the total integrated pollution flux, and thus a lower limit for the ring age. Rosetta data on the dust composition and surface reflectivity of Comet 67P provide our starting point for the composition of the bombarding material: Two independent analyses of Cassini UVIS spectra of Saturn&amp;#8217;s rings give fractional pollution in the outer B ring of 1.4 -3%. This provides a lower limit of 400 to 1600 million years for the most opaque parts of Saturn&amp;#8217;s B ring, depending on whether we use the maximum or minimum values for the bombardment rate reported by Cassini CDA. This result shows Saturn&amp;#8217;s rings may be as old as the planet Saturn itself, consistent with the estimates for the orbital evolution of ring moons Atlas and Epimetheus. The A and C rings may have formed more recently.&amp;#160;&amp;#160;</description>
-      <author>L. W. Esposito, J. P. Elliott, E. T. Bradley</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/epsc2024-562</guid>
-    </item>
-    <item>
       <title>Challenges for Biomass Production in the Context of an Expansion of Biogas Plants</title>
       <link>https://doi.org/10.2478/picbe-2024-0097</link>
       <description>Cristina Bucur, Proceedings of the ... International Conference on Business Excellence. 18(1)] 2024. https://openalex.org/W4400286103
@@ -1508,6 +1538,16 @@
       <author>Cristina Bucur</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2478/picbe-2024-0097</guid>
+    </item>
+    <item>
+      <title>Space Weathering Provides a Lower Limit on the Age of Saturn&amp;amp;#8217;s Rings</title>
+      <link>https://doi.org/10.5194/epsc2024-562</link>
+      <description>L. W. Esposito, J. P. Elliott, E. T. Bradley, No host. None(None)] 2024. https://openalex.org/W4400291012
+
+                Cassini observations of the micrometeoroid bombardment flux, ring mass and fractional pollution constrain the origin and history of Saturn&amp;#8217;s rings. In the simplest model, the age of the rings can be estimated by assuming the rings are a closed system with constant bombardment at the current rate. However, the rings are not a closed system and Cassini spectroscopy is consistent with space weathering of the cosmic dust polluting the rings. The remote sensing of the rings shows a red slope, with higher pollution at the shortest wavelengths, consistent with reddening due to space weathering of atmosphereless bodies. If processes at the time of the micrometeorite impacts or subsequent chemical and physical weathering can degrade the original pollutants, this means that laboratory spectra are not appropriate to determine the total extrinsic material that has struck the rings over their lifetime. Laboratory results for irradiation of icy outer solar system analogues indicate oxidation of organics and other pollutants over time. It is now generally agreed that the radiolysis of ice by energetic ions, electrons and solar UV photons produces the oxygen, ozone and peroxide seen at many icy satellites. The porosity of ice provides sufficient space for chemical reactions and mobility. The ring particle surfaces are in addition continually gardened by particle collisions and meteoritic impacts. Because of the loss processes, the current fractional pollution provides only a lower limit on the total integrated pollution flux, and thus a lower limit for the ring age. Rosetta data on the dust composition and surface reflectivity of Comet 67P provide our starting point for the composition of the bombarding material: Two independent analyses of Cassini UVIS spectra of Saturn&amp;#8217;s rings give fractional pollution in the outer B ring of 1.4 -3%. This provides a lower limit of 400 to 1600 million years for the most opaque parts of Saturn&amp;#8217;s B ring, depending on whether we use the maximum or minimum values for the bombardment rate reported by Cassini CDA. This result shows Saturn&amp;#8217;s rings may be as old as the planet Saturn itself, consistent with the estimates for the orbital evolution of ring moons Atlas and Epimetheus. The A and C rings may have formed more recently.&amp;#160;&amp;#160;</description>
+      <author>L. W. Esposito, J. P. Elliott, E. T. Bradley</author>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/epsc2024-562</guid>
     </item>
     <item>
       <title>Primary to post&#8208;depositional microbial controls on the stable and clumped isotope record of shoreline sediments at Fayetteville Green Lake</title>
