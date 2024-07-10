@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Jul  9 01:10:33 2024
+Created on Wed Jul 10 01:10:51 2024
 
-Found 28 results from 2024-07-02 to 2024-07-09
+Found 28 results from 2024-07-03 to 2024-07-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Catalyst in Sight: The Use of Benchtop NMR Spectrometers to Maintain the Activity of Pd-PPh3 Catalysts   
-
-OpenAlex: https://openalex.org/W4400183750    
-Open access: True
-    
-[Niklas Wessel](https://openalex.org/A5015664124), [Rucha S. Medhekar](https://openalex.org/A5020644382), [Markus Sonnenberg](https://openalex.org/A5099775597), [Hannah Stieber](https://openalex.org/A5098489357), [Walter Leitner](https://openalex.org/A5033523008), [Andreas J. Vorholt](https://openalex.org/A5035847242), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02606.
-    
-No abstract    
-
-    
-
-## Biocatalytic Construction of Spiro-Oxazolidinones via Halohydrin Dehalogenase-Catalyzed Ring Expansion of Spiro-Epoxides   
-
-OpenAlex: https://openalex.org/W4400205640    
-Open access: False
-    
-[Jin-Mei Ma](https://openalex.org/A5039030625), [Yuanfei Wang](https://openalex.org/A5008565530), [Run‐Ping Miao](https://openalex.org/A5031019455), [Xiao Ling Jin](https://openalex.org/A5058660872), [Huihui Wang](https://openalex.org/A5033076947), [Yong‐Zheng Chen](https://openalex.org/A5021112473), [Nan‐Wei Wan](https://openalex.org/A5086122647), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02122.
-    
-No abstract    
-
-    
-
-## Mechanistic Insights into the Selective C–S Bond Formation by P450 TleB   
-
-OpenAlex: https://openalex.org/W4400212769    
-Open access: False
-    
-[Huiyuan Gao](https://openalex.org/A5009535452), [Yongzhe Fan](https://openalex.org/A5050888986), [Xiaozhou He](https://openalex.org/A5047701629), [Xiaogang Peng](https://openalex.org/A5082505204), [Zhen Li](https://openalex.org/A5087671472), [Yao Zheng](https://openalex.org/A5013084334), [Shengfu Ji](https://openalex.org/A5025757361), [Long‐Wu Ye](https://openalex.org/A5023229525), [Aitao Li](https://openalex.org/A5087131065), [Binju Wang](https://openalex.org/A5091278358), [Jing Zhao](https://openalex.org/A5040614582), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03328.
-    
-No abstract    
-
-    
-
-## Tuning the Size of TiO2-Supported Co Nanoparticle Fischer–Tropsch Catalysts Using Mn Additions   
-
-OpenAlex: https://openalex.org/W4400213310    
-Open access: True
-    
-[M. W. Lindley](https://openalex.org/A5028697372), [P. V. Stishenko](https://openalex.org/A5091287939), [James W. M. Crawley](https://openalex.org/A5088551934), [Fred Tinkamanyire](https://openalex.org/A5099786711), [Matthew D. Smith](https://openalex.org/A5021473664), [James Paterson](https://openalex.org/A5054631377), [Mark Peacock](https://openalex.org/A5091662706), [Zhuoran Xu](https://openalex.org/A5052567080), [Christopher Hardacre](https://openalex.org/A5073532203), [Alex S. Walton](https://openalex.org/A5073502453), [Andrew J. Logsdail](https://openalex.org/A5064011663), [Sarah J. Haigh](https://openalex.org/A5080752278), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02721.
-    
-No abstract    
-
-    
 
 ## Synthesis and Catalytic Performance of Bimetallic Oxide-Derived CuO–ZnO Electrocatalysts for CO2 Reduction   
 
@@ -309,6 +265,50 @@ OpenAlex: https://openalex.org/W4400366816
 Open access: False
     
 , ACS catalysis. 14(13)] 2024.https://doi.org/10.1021/csv014i013_1819474.
+    
+No abstract    
+
+    
+
+## H2–D2 Exchange Activity and Electronic Structure of AgxPd1–x Alloy Catalysts Spanning Composition Space   
+
+OpenAlex: https://openalex.org/W4400406161    
+Open access: True
+    
+[Nicholas Golio](https://openalex.org/A5032276550), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Xiaoxiao Yu](https://openalex.org/A5009330238), [Petro Kondratyuk](https://openalex.org/A5063766133), [NULL AUTHOR_ID](https://openalex.org/A9999999999), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02309.
+    
+No abstract    
+
+    
+
+## Identification of Key Active Species in the Conversion of C6 and C4 Sugars by Tungsten and Molybdenum Homogeneous Salts   
+
+OpenAlex: https://openalex.org/W4400410494    
+Open access: False
+    
+[Sabah El Mohammad](https://openalex.org/A5028372288), [Nanni Noël](https://openalex.org/A5003227107), [Olivier Proux](https://openalex.org/A5065335458), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [C. Legens](https://openalex.org/A5076744852), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Kim Larmier](https://openalex.org/A5089090488), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02791.
+    
+No abstract    
+
+    
+
+## Synergistic Interaction between the Ni-Center and Glycine-Derived N-Doped Porous Carbon Material Boosts Electrochemical CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4400414021    
+Open access: False
+    
+[Jun Zhu](https://openalex.org/A5032686951), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Lucie Lindenbeck](https://openalex.org/A5063141475), [Järi Van den Hoek](https://openalex.org/A5060500053), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Adam Slabon](https://openalex.org/A5004773873), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Pegie Cool](https://openalex.org/A5014043312), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00881.
+    
+No abstract    
+
+    
+
+## High-Rate, High-Selectivity Electrochemical Oxidation of Ammonia to Nitrite with a Silver-Based Catalyst   
+
+OpenAlex: https://openalex.org/W4400425883    
+Open access: False
+    
+[NULL AUTHOR_ID](https://openalex.org/A9999999999), [Sam Johnston](https://openalex.org/A5052587669), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Tam D. Nguyen](https://openalex.org/A5042031508), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Rosalie K. Hocking](https://openalex.org/A5002235771), [Douglas R. MacFarlane](https://openalex.org/A5017109393), [Alexandr N. Simonov](https://openalex.org/A5062733036), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02633.
     
 No abstract    
 

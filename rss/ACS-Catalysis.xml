@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Jul 2024 01:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 01:10:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalyst in Sight: The Use of Benchtop NMR Spectrometers to Maintain the Activity of Pd-PPh&lt;sub&gt;3&lt;/sub&gt; Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c02606</link>
-      <description>Niklas Wessel, Rucha S. Medhekar, Markus Sonnenberg, Hannah Stieber, Walter Leitner, Andreas J. Vorholt, ACS catalysis. None(None)] 2024. https://openalex.org/W4400183750
-
-                No abstract</description>
-      <author>Niklas Wessel, Rucha S. Medhekar, Markus Sonnenberg, Hannah Stieber, Walter Leitner, Andreas J. Vorholt</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02606</guid>
-    </item>
-    <item>
-      <title>Biocatalytic Construction of Spiro-Oxazolidinones via Halohydrin Dehalogenase-Catalyzed Ring Expansion of Spiro-Epoxides</title>
-      <link>https://doi.org/10.1021/acscatal.4c02122</link>
-      <description>Jin-Mei Ma, Yuanfei Wang, Run&#8208;Ping Miao, Xiao Ling Jin, Huihui Wang, Yong&#8208;Zheng Chen, Nan&#8208;Wei Wan, ACS catalysis. None(None)] 2024. https://openalex.org/W4400205640
-
-                No abstract</description>
-      <author>Jin-Mei Ma, Yuanfei Wang, Run&#8208;Ping Miao, Xiao Ling Jin, Huihui Wang, Yong&#8208;Zheng Chen, Nan&#8208;Wei Wan</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02122</guid>
-    </item>
-    <item>
-      <title>Mechanistic Insights into the Selective C&#8211;S Bond Formation by P450 TleB</title>
-      <link>https://doi.org/10.1021/acscatal.4c03328</link>
-      <description>Huiyuan Gao, Yongzhe Fan, Xiaozhou He, Xiaogang Peng, Zhen Li, Yao Zheng, Shengfu Ji, Long&#8208;Wu Ye, Aitao Li, Binju Wang, Jing Zhao, ACS catalysis. None(None)] 2024. https://openalex.org/W4400212769
-
-                No abstract</description>
-      <author>Huiyuan Gao, Yongzhe Fan, Xiaozhou He, Xiaogang Peng, Zhen Li, Yao Zheng, Shengfu Ji, Long&#8208;Wu Ye, Aitao Li, Binju Wang, Jing Zhao</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03328</guid>
-    </item>
-    <item>
-      <title>Tuning the Size of TiO&lt;sub&gt;2&lt;/sub&gt;-Supported Co Nanoparticle Fischer&#8211;Tropsch Catalysts Using Mn Additions</title>
-      <link>https://doi.org/10.1021/acscatal.4c02721</link>
-      <description>M. W. Lindley, P. V. Stishenko, James W. M. Crawley, Fred Tinkamanyire, Matthew D. Smith, James Paterson, Mark Peacock, Zhuoran Xu, Christopher Hardacre, Alex S. Walton, Andrew J. Logsdail, Sarah J. Haigh, ACS catalysis. None(None)] 2024. https://openalex.org/W4400213310
-
-                No abstract</description>
-      <author>M. W. Lindley, P. V. Stishenko, James W. M. Crawley, Fred Tinkamanyire, Matthew D. Smith, James Paterson, Mark Peacock, Zhuoran Xu, Christopher Hardacre, Alex S. Walton, Andrew J. Logsdail, Sarah J. Haigh</author>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02721</guid>
-    </item>
     <item>
       <title>Synthesis and Catalytic Performance of Bimetallic Oxide-Derived CuO&#8211;ZnO Electrocatalysts for CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
       <link>https://doi.org/10.1021/acscatal.4c01575</link>
@@ -286,6 +246,46 @@
       <author/>
       <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i013_1819474</guid>
+    </item>
+    <item>
+      <title>H&lt;sub&gt;2&lt;/sub&gt;&#8211;D&lt;sub&gt;2&lt;/sub&gt; Exchange Activity and Electronic Structure of Ag&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Pd&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Alloy Catalysts Spanning Composition Space</title>
+      <link>https://doi.org/10.1021/acscatal.4c02309</link>
+      <description>Nicholas Golio, NULL AUTHOR_ID, Xiaoxiao Yu, Petro Kondratyuk, NULL AUTHOR_ID, ACS catalysis. None(None)] 2024. https://openalex.org/W4400406161
+
+                No abstract</description>
+      <author>Nicholas Golio, NULL AUTHOR_ID, Xiaoxiao Yu, Petro Kondratyuk, NULL AUTHOR_ID</author>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02309</guid>
+    </item>
+    <item>
+      <title>Identification of Key Active Species in the Conversion of C6 and C4 Sugars by Tungsten and Molybdenum Homogeneous Salts</title>
+      <link>https://doi.org/10.1021/acscatal.4c02791</link>
+      <description>Sabah El Mohammad, Nanni No&#235;l, Olivier Proux, NULL AUTHOR_ID, NULL AUTHOR_ID, C. Legens, NULL AUTHOR_ID, Kim Larmier, ACS catalysis. None(None)] 2024. https://openalex.org/W4400410494
+
+                No abstract</description>
+      <author>Sabah El Mohammad, Nanni No&#235;l, Olivier Proux, NULL AUTHOR_ID, NULL AUTHOR_ID, C. Legens, NULL AUTHOR_ID, Kim Larmier</author>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02791</guid>
+    </item>
+    <item>
+      <title>Synergistic Interaction between the Ni-Center and Glycine-Derived N-Doped Porous Carbon Material Boosts Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c00881</link>
+      <description>Jun Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool, ACS catalysis. None(None)] 2024. https://openalex.org/W4400414021
+
+                No abstract</description>
+      <author>Jun Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool</author>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00881</guid>
+    </item>
+    <item>
+      <title>High-Rate, High-Selectivity Electrochemical Oxidation of Ammonia to Nitrite with a Silver-Based Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c02633</link>
+      <description>NULL AUTHOR_ID, Sam Johnston, NULL AUTHOR_ID, NULL AUTHOR_ID, Tam D. Nguyen, NULL AUTHOR_ID, Rosalie K. Hocking, Douglas R. MacFarlane, Alexandr N. Simonov, ACS catalysis. None(None)] 2024. https://openalex.org/W4400425883
+
+                No abstract</description>
+      <author>NULL AUTHOR_ID, Sam Johnston, NULL AUTHOR_ID, NULL AUTHOR_ID, Tam D. Nguyen, NULL AUTHOR_ID, Rosalie K. Hocking, Douglas R. MacFarlane, Alexandr N. Simonov</author>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02633</guid>
     </item>
   </channel>
 </rss>
