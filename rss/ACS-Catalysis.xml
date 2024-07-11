@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 10 Jul 2024 01:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 01:11:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synthesis and Catalytic Performance of Bimetallic Oxide-Derived CuO&#8211;ZnO Electrocatalysts for CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c01575</link>
-      <description>Matt L. J. Peerlings, Kai Han, A. Longo, Kristiaan H. Helfferich, Mahnaz Ghiasi, Petra E. de Jongh, Peter Ngene, ACS catalysis. None(None)] 2024. https://openalex.org/W4400227941
-
-                No abstract</description>
-      <author>Matt L. J. Peerlings, Kai Han, A. Longo, Kristiaan H. Helfferich, Mahnaz Ghiasi, Petra E. de Jongh, Peter Ngene</author>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01575</guid>
-    </item>
-    <item>
-      <title>Nitrogen Vacancy-Rich C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Confined Fe&#8211;Cu Diatomic Catalysts for the Direct Selective Oxidation of Methane at Low Temperature</title>
-      <link>https://doi.org/10.1021/acscatal.4c01328</link>
-      <description>Wencui Li, Zhi Li, Hongfang Shen, Jiaxin Cai, Hongyu Jing, Shigang Xin, Zengwen Cao, Zean Xie, Dong Liu, Hang Zhang, Zhao Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400228590
-
-                No abstract</description>
-      <author>Wencui Li, Zhi Li, Hongfang Shen, Jiaxin Cai, Hongyu Jing, Shigang Xin, Zengwen Cao, Zean Xie, Dong Liu, Hang Zhang, Zhao Zhang</author>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01328</guid>
-    </item>
     <item>
       <title>Interfacial Electric Field Stabilized Ru Single-Atom Catalysts for Efficient Water Oxidation</title>
       <link>https://doi.org/10.1021/acscatal.4c01829</link>
@@ -286,6 +266,86 @@
       <author>NULL AUTHOR_ID, Sam Johnston, NULL AUTHOR_ID, NULL AUTHOR_ID, Tam D. Nguyen, NULL AUTHOR_ID, Rosalie K. Hocking, Douglas R. MacFarlane, Alexandr N. Simonov</author>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02633</guid>
+    </item>
+    <item>
+      <title>Sulfone Electrophiles in Cross-Electrophile Coupling: Nickel-Catalyzed Difluoromethylation of Aryl Bromides</title>
+      <link>https://doi.org/10.1021/acscatal.4c01999</link>
+      <description>Karen Benjamin, Samantha M. Gavin, Benjamin J. Ahern, Nikita Peperni, S&#233;bastien Monfette, Daniel J. Weix, ACS catalysis. None(None)] 2024. https://openalex.org/W4400445871
+
+                No abstract</description>
+      <author>Karen Benjamin, Samantha M. Gavin, Benjamin J. Ahern, Nikita Peperni, S&#233;bastien Monfette, Daniel J. Weix</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01999</guid>
+    </item>
+    <item>
+      <title>Capture-Intensified Electrocatalytic Reduction of Postcombustion CO&lt;sub&gt;2&lt;/sub&gt; in Transporting and Catalytic Channels of Covalent Organic Frameworks</title>
+      <link>https://doi.org/10.1021/acscatal.4c01720</link>
+      <description>Guojuan Liu, Xuewen Li, Minghao Liu, Shuai Yang, Xiubei Yang, Xinqing Chen, Wei Wei, Qing Xu, Gaofeng Zeng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400446241
+
+                No abstract</description>
+      <author>Guojuan Liu, Xuewen Li, Minghao Liu, Shuai Yang, Xiubei Yang, Xinqing Chen, Wei Wei, Qing Xu, Gaofeng Zeng</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01720</guid>
+    </item>
+    <item>
+      <title>Role of Vacancy Defects and Nitrogen Dopants for the Reduction of Oxygen on Graphene</title>
+      <link>https://doi.org/10.1021/acscatal.4c01713</link>
+      <description>Weizhe Zhang, Bas van Dijk, Longfei Wu, Cl&#233;ment Maheu, Viorica Tudor, Jan P. Hofmann, Jiang Lin, Dennis G. H. Hetterscheid, Alex van der Ham, ACS catalysis. None(None)] 2024. https://openalex.org/W4400446623
+
+                No abstract</description>
+      <author>Weizhe Zhang, Bas van Dijk, Longfei Wu, Cl&#233;ment Maheu, Viorica Tudor, Jan P. Hofmann, Jiang Lin, Dennis G. H. Hetterscheid, Alex van der Ham</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01713</guid>
+    </item>
+    <item>
+      <title>Intercalative Redox Tuning for Cu/Li&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Mn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;-Catalyzed Oxidative Alkyne Coupling</title>
+      <link>https://doi.org/10.1021/acscatal.4c02491</link>
+      <description>Jacklyn N. Hall, Alon Chapovetsky, Magali Ferrandon, Yu Lim Kim, Uddhav Kanbur, Katherine McCullough, Cong Liu, A. Jeremy Kropf, Massimiliano Delferro, David M. Kaphan, ACS catalysis. None(None)] 2024. https://openalex.org/W4400450268
+
+                No abstract</description>
+      <author>Jacklyn N. Hall, Alon Chapovetsky, Magali Ferrandon, Yu Lim Kim, Uddhav Kanbur, Katherine McCullough, Cong Liu, A. Jeremy Kropf, Massimiliano Delferro, David M. Kaphan</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02491</guid>
+    </item>
+    <item>
+      <title>Engineering Interfacial Low-Coordinated Mg&lt;sub&gt;3C&lt;/sub&gt;&lt;sup&gt;2+&lt;/sup&gt;-O&lt;sub&gt;3C&lt;/sub&gt;&lt;sup&gt;2&#8211;&lt;/sup&gt; Lewis Acid&#8211;Base Pairs on MgO for Cycloaddition of CO&lt;sub&gt;2&lt;/sub&gt; with Epoxides</title>
+      <link>https://doi.org/10.1021/acscatal.4c03326</link>
+      <description>Juncong Yuan, Ranfei Fu, Sajid Mahmood, Xiuhui Zheng, Yichen Wang, Hao Yan, Yibin Liu, Yongquan Qu, Guangyu Zhang, Bing Sun, Wei Lin, Weiqing Xu, Xiang Feng, De Chen, Chaohe Yang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400451728
+
+                No abstract</description>
+      <author>Juncong Yuan, Ranfei Fu, Sajid Mahmood, Xiuhui Zheng, Yichen Wang, Hao Yan, Yibin Liu, Yongquan Qu, Guangyu Zhang, Bing Sun, Wei Lin, Weiqing Xu, Xiang Feng, De Chen, Chaohe Yang</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03326</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;Photochemical Reductive Carboxylation of &lt;i&gt;N&lt;/i&gt;-Benzoyl Imines with Oxalate Accelerated by Formation of EDA Complexes&#8221;</title>
+      <link>https://doi.org/10.1021/acscatal.4c03760</link>
+      <description>Wen Liu, Pei Xu, Hui-Xian Jiang, Menglei Li, Tian-Zi Hao, Yiqin Liu, Shaolin Zhu, Kun-Xiao Zhang, Xu Zhu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400457661
+
+                No abstract</description>
+      <author>Wen Liu, Pei Xu, Hui-Xian Jiang, Menglei Li, Tian-Zi Hao, Yiqin Liu, Shaolin Zhu, Kun-Xiao Zhang, Xu Zhu</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03760</guid>
+    </item>
+    <item>
+      <title>Simulation-Guided Engineering Enables a Functional Switch in Selinadiene Synthase toward Hydroxylation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02032</link>
+      <description>Prabhakar Lal Srivastava, SR Johns, Angus Voice, Katharine Morley, Alex Cabrera, David J. Miller, Rudolf K. Allemann, Marc W. van der Kamp, ACS catalysis. None(None)] 2024. https://openalex.org/W4400465815
+
+                No abstract</description>
+      <author>Prabhakar Lal Srivastava, SR Johns, Angus Voice, Katharine Morley, Alex Cabrera, David J. Miller, Rudolf K. Allemann, Marc W. van der Kamp</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02032</guid>
+    </item>
+    <item>
+      <title>Ligand-Enabled, Cysteine-Directed &#946;-C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Arylation of Alanine in Linear and Cyclic Peptides: Overcoming the Inhibitory Effect of Peptide Bonds</title>
+      <link>https://doi.org/10.1021/acscatal.4c02357</link>
+      <description>Zhen-Lin Hou, YH Tang, Lai Yu, Bo Yao, ACS catalysis. None(None)] 2024. https://openalex.org/W4400466004
+
+                No abstract</description>
+      <author>Zhen-Lin Hou, YH Tang, Lai Yu, Bo Yao</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02357</guid>
     </item>
   </channel>
 </rss>

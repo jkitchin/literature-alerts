@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 10 Jul 2024 01:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 01:11:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Tailoring Heterostructure Growth on Liquid Metal Nanodroplets through Interface Engineering</title>
+      <link>https://doi.org/10.1021/jacs.4c02521</link>
+      <description>Siqi Guo, NULL AUTHOR_ID, NULL AUTHOR_ID, Jian Wang, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Ningyan Cheng, Long Ren, Binghui Ge, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400413467
+
+                Liquid metal (LM) nanodroplets possess intriguing surface properties, thus offering promising potential in chemical synthesis, catalysis, and biomedicine. However, the reaction kinetics and product growth at the surface of LM nanodroplets are significantly influenced by the interface involved, which has not been thoroughly explored and understood. Here, we propose an interface engineering strategy, taking a spontaneous galvanic reaction between Ga</description>
+      <author>Siqi Guo, NULL AUTHOR_ID, NULL AUTHOR_ID, Jian Wang, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Ningyan Cheng, Long Ren, Binghui Ge</author>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c02521</guid>
+    </item>
   </channel>
 </rss>
