@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Jul 11 01:11:04 2024
+Created on Fri Jul 12 01:09:45 2024
 
-Found 34 results from 2024-07-04 to 2024-07-11
+Found 35 results from 2024-07-05 to 2024-07-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -11,7 +11,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 OpenAlex: https://openalex.org/W4400274434    
 Open access: False
     
-[Liu Yang](https://openalex.org/A5002416341), [Zitao Ni](https://openalex.org/A5036664419), [Yifan Zhao](https://openalex.org/A5023019633), [Youyu Long](https://openalex.org/A5080653127), [Min Xi](https://openalex.org/A5040855976), [Anran Chen](https://openalex.org/A5053979760), [Hua Zhang](https://openalex.org/A5056450584), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01829.
+[Lingfeng Yang](https://openalex.org/A5100540695), [Zitao Ni](https://openalex.org/A5036664419), [Yifan Zhao](https://openalex.org/A5023019633), [Youyu Long](https://openalex.org/A5080653127), [Min Xi](https://openalex.org/A5040855976), [Anran Chen](https://openalex.org/A5053979760), [Hua Zhang](https://openalex.org/A5100408745), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01829.
     
 No abstract    
 
@@ -44,7 +44,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400288640    
 Open access: False
     
-[Yibo Gao](https://openalex.org/A5082823161), [Miaomiao Zhang](https://openalex.org/A5024917626), [Yang Jin](https://openalex.org/A5019480198), [Yanpeng Mao](https://openalex.org/A5078703047), [Wenlong Wang](https://openalex.org/A5052500807), [Zhanlong Song](https://openalex.org/A5028614042), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02793.
+[Yibo Gao](https://openalex.org/A5082823161), [Miaomiao Zhang](https://openalex.org/A5100357904), [Yang Jin](https://openalex.org/A5019480198), [Yanpeng Mao](https://openalex.org/A5078703047), [Wenlong Wang](https://openalex.org/A5052500807), [Zhanlong Song](https://openalex.org/A5028614042), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02793.
     
 No abstract    
 
@@ -66,7 +66,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400296519    
 Open access: False
     
-[Haona Zhang](https://openalex.org/A5026654046), [Yu Cui](https://openalex.org/A5007253367), [Chunjin Ren](https://openalex.org/A5003413853), [Qiang Li](https://openalex.org/A5069771802), [Chongyi Ling](https://openalex.org/A5007388482), [Jinlan Wang](https://openalex.org/A5020585562), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01773.
+[Haona Zhang](https://openalex.org/A5026654046), [Yu Cui](https://openalex.org/A5007253367), [Chunjin Ren](https://openalex.org/A5003413853), [Qiang Li](https://openalex.org/A5100430008), [Chongyi Ling](https://openalex.org/A5007388482), [Jinlan Wang](https://openalex.org/A5020585562), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01773.
     
 The oxygen source of oxygenates is the fundamental issue for CO2/CO electroreduction, which was firmly believed to originate from the gas feed (Ogas) for a long time. However, recent experiments have confirmed that most O atoms of the generated alcohols via CO reduction arise from the solvent (Oaq), indicating the existence of a rather mysterious "oxygen exchange" process. In this work, we solved this mechanistic puzzle using comprehensive computations. Our results revealed that high CO pressure enables COgas oxidation by surface *OaqH, which opens a pathway for oxygenate production. The generated *COgasOaqH can react with another *CO to form *COCOgasOaqH, which leads to the formation of a series of carboxyl-containing intermediates (RCOgasOaqH) in subsequent steps. Due to the dynamic ionization equilibrium, H+ moves rapidly between Ogas and Oaq via reversible "inner" proton transfer (*RCOgasOaqH ⇌ *R-COgasOaq– + H+ ⇌ *RCOaqOgasH). The oxygen exchange completes when *RCOaq forms via the dehydroxylation of a certain *RCOaqOgasH. The completed reaction pathways were further explored by using COgas reduction into C2H5OaqH as an example, which explains related experiments. Therefore, these results refresh the insights into CO2/CO electroreduction and give specific guidelines for the optimization of catalytic performance.    
 
@@ -77,7 +77,7 @@ The oxygen source of oxygenates is the fundamental issue for CO2/CO electroreduc
 OpenAlex: https://openalex.org/W4400296987    
 Open access: False
     
-[Qiujin Shi](https://openalex.org/A5054718420), [Jing Li](https://openalex.org/A5039007950), [Y. Liu](https://openalex.org/A5049513056), [Kejian Kong](https://openalex.org/A5062306001), [An-Zhen Li](https://openalex.org/A5045851575), [Haohong Duan](https://openalex.org/A5066410903), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02314.
+[Qiujin Shi](https://openalex.org/A5054718420), [Jing Li](https://openalex.org/A5100380981), [Y. Liu](https://openalex.org/A5049513056), [Kejian Kong](https://openalex.org/A5062306001), [An-Zhen Li](https://openalex.org/A5045851575), [Haohong Duan](https://openalex.org/A5066410903), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02314.
     
 Photoelectrochemical (PEC) cells have been extensively studied in water splitting to produce H2, but the sluggish kinetics of the oxygen evolution reaction (OER) remains a huge challenge. Here, we reported a PEC strategy for biomass-derived succinic acid decarboxylation to replace OER, with the production of ethylene (C2H4) as a high-demand chemical. By synthesizing a bismuth oxide supported on titanium oxide (BiOx/TiO2) as the photoanode, C2H4 was efficiently produced with 85.7 μmol/h production rate and 40% Faradaic efficiency. Simultaneously, H2 productivity was improved by 6.5-fold compared with total water splitting (from 50.8 to 331.7 μmol/h). Structure characterizations show that BiOx forms an ultrathin layer (approximately 1.5 nm in thickness) on the TiO2 surface with a strong interfacial interaction, inducing the formation of a type-II heterojunction with efficient charge separation and transfer. Experimental data suggest that succinic acid molecules are adsorbed over the BiOx surface with its dual carboxyl groups in a deprotonated form, facilitating the decarboxylation of succinic acid to ethylene via a non-Kolbe route. This work demonstrates the great opportunity of PEC technology for transforming renewable biomass resources into value-added chemicals with promoted H2 fuel production under mild conditions.    
 
@@ -88,7 +88,7 @@ Photoelectrochemical (PEC) cells have been extensively studied in water splittin
 OpenAlex: https://openalex.org/W4400297457    
 Open access: False
     
-[H.Y. Wang](https://openalex.org/A5001980487), [Yaozhong Hu](https://openalex.org/A5069396700), [Yongli Shen](https://openalex.org/A5031071648), [Ewa Chukwu](https://openalex.org/A5039156100), [Wei Xi](https://openalex.org/A5046299212), [Gurong Shen](https://openalex.org/A5059311716), [Jun Wang](https://openalex.org/A5042241049), [Meiqing Shen](https://openalex.org/A5083178184), [Ming Yang](https://openalex.org/A5048213108), [Tong‐Bu Lu](https://openalex.org/A5054438192), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02608.
+[H.Y. Wang](https://openalex.org/A5001980487), [Yaozhong Hu](https://openalex.org/A5069396700), [Yongli Shen](https://openalex.org/A5031071648), [Ewa Chukwu](https://openalex.org/A5039156100), [Wei Xi](https://openalex.org/A5046299212), [Gurong Shen](https://openalex.org/A5059311716), [Jun Wang](https://openalex.org/A5100384715), [Meiqing Shen](https://openalex.org/A5083178184), [Ming Yang](https://openalex.org/A5048213108), [Tong‐Bu Lu](https://openalex.org/A5054438192), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02608.
     
 Modulating the metal–support interfacial structure to achieve coke elimination is highly desired for low-temperature CH4/CO2 reforming. Nonetheless, explicit effects of optimizing the supported metal size and catalyst support properties remain convoluted and sometimes controversial. Herein, we designed different Pt–CeO2 interfaces by tuning the surface reactive oxygen (SRO) from ceria and the in situ aggregated nanoparticle size developed from single-atom Pt as independent parameters. Intriguingly, the often-emphasized nominal Pt size effect (0.3–10.5 nm) is secondary due to carbon deposition, while the catalyst with a high SRO concentration exhibits outstanding reactivity. We demonstrated that the SRO from ceria corrects the nominal supported metal size effect in controlling the low-temperature CH4/CO2 reforming reactivity. Specifically, in the Pt–Ox–Ce interfacial microstructure, SRO oxidizes the deposited carbon as an oxygen reservoir, making interfacial Pt atoms remain active from coke, and therefore determines the reactivity rather than the nominal Pt species size. In situ characterizations and theoretical studies explained the reaction mechanism of SRO and carbon elimination. This work provides new insights for coke-resistant catalyst design and the coke elimination mechanism.    
 
@@ -99,7 +99,7 @@ Modulating the metal–support interfacial structure to achieve coke elimination
 OpenAlex: https://openalex.org/W4400320028    
 Open access: False
     
-[Jixiang Hou](https://openalex.org/A5087933860), [Kaiwen Wang](https://openalex.org/A5032939264), [Xu Zhang](https://openalex.org/A5073568638), [Yang Wang](https://openalex.org/A5057101708), [Hui Su](https://openalex.org/A5035972174), [Chenyu Yang](https://openalex.org/A5041026723), [Xiyuan Zhou](https://openalex.org/A5015703264), [Wenning Liu](https://openalex.org/A5043140704), [Haoran Hu](https://openalex.org/A5018008175), [Jiaxing Wang](https://openalex.org/A5057874628), [Chen Li](https://openalex.org/A5045159845), [Peijie Ma](https://openalex.org/A5048598076), [Rui Zhang](https://openalex.org/A5039949921), [Zhen Wei](https://openalex.org/A5033942350), [Zaicheng Sun](https://openalex.org/A5029360926), [Qinghua Liu](https://openalex.org/A5033186270), [Kun Zheng](https://openalex.org/A5020957561), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00334.
+[Jixiang Hou](https://openalex.org/A5087933860), [Kaiwen Wang](https://openalex.org/A5032939264), [Xu Zhang](https://openalex.org/A5100437302), [Yang Wang](https://openalex.org/A5100716001), [Hui Su](https://openalex.org/A5035972174), [Chenyu Yang](https://openalex.org/A5041026723), [Xiyuan Zhou](https://openalex.org/A5015703264), [Wenning Liu](https://openalex.org/A5043140704), [Haoran Hu](https://openalex.org/A5018008175), [Jiaxing Wang](https://openalex.org/A5100717644), [Chen Li](https://openalex.org/A5045159845), [Peijie Ma](https://openalex.org/A5048598076), [Rui Zhang](https://openalex.org/A5039949921), [Zhen Wei](https://openalex.org/A5033942350), [Zaicheng Sun](https://openalex.org/A5029360926), [Qinghua Liu](https://openalex.org/A5033186270), [Kun Zheng](https://openalex.org/A5100641962), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00334.
     
 No abstract    
 
@@ -187,7 +187,7 @@ Sluggish mass transfer of OH– in alkaline oxygen evolution reaction (OER), res
 OpenAlex: https://openalex.org/W4400349788    
 Open access: False
     
-[Qin Jiang](https://openalex.org/A5037591628), [Youqian Deng](https://openalex.org/A5079530450), [Xu Luo](https://openalex.org/A5026752182), [Zhi-Hong Dong](https://openalex.org/A5017739860), [Yao Zhou](https://openalex.org/A5014123975), [Yong Liu](https://openalex.org/A5033080900), [Wen‐Dao Chu](https://openalex.org/A5057160455), [Cheng‐Yu He](https://openalex.org/A5005584095), [Sanzhong Luo](https://openalex.org/A5019656810), [Quan-Zhong Liu](https://openalex.org/A5061735745), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02073.
+[Qin Jiang](https://openalex.org/A5037591628), [Youqian Deng](https://openalex.org/A5079530450), [Xu Luo](https://openalex.org/A5026752182), [Zhi-Hong Dong](https://openalex.org/A5017739860), [Yao Zhou](https://openalex.org/A5014123975), [Yong Liu](https://openalex.org/A5100371123), [Wen‐Dao Chu](https://openalex.org/A5057160455), [Cheng‐Yu He](https://openalex.org/A5005584095), [Sanzhong Luo](https://openalex.org/A5019656810), [Quan-Zhong Liu](https://openalex.org/A5061735745), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02073.
     
 No abstract    
 
@@ -209,7 +209,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400360164    
 Open access: False
     
-[Fangxin She](https://openalex.org/A5025067670), [Zhongyuan Guo](https://openalex.org/A5075419176), [Fangzhou Liu](https://openalex.org/A5000616630), [Zixun Yu](https://openalex.org/A5063873435), [Jiaxiang Chen](https://openalex.org/A5025328538), [Yuhang Fan](https://openalex.org/A5088972801), [Yaojie Lei](https://openalex.org/A5070208660), [Yuan Chen](https://openalex.org/A5019065325), [Hao Li](https://openalex.org/A5080057012), [Wei Li](https://openalex.org/A5085624118), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01637.
+[Fangxin She](https://openalex.org/A5025067670), [Zhongyuan Guo](https://openalex.org/A5075419176), [Fangzhou Liu](https://openalex.org/A5000616630), [Zixun Yu](https://openalex.org/A5063873435), [Jiaxiang Chen](https://openalex.org/A5025328538), [Yuhang Fan](https://openalex.org/A5088972801), [Yaojie Lei](https://openalex.org/A5070208660), [Yuan Chen](https://openalex.org/A5019065325), [Hao Li](https://openalex.org/A5080057012), [Wei Li](https://openalex.org/A5100454543), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01637.
     
 No abstract    
 
@@ -275,7 +275,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400414021    
 Open access: False
     
-[Jun Zhu](https://openalex.org/A5032686951), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Lucie Lindenbeck](https://openalex.org/A5063141475), [Järi Van den Hoek](https://openalex.org/A5060500053), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Adam Slabon](https://openalex.org/A5004773873), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Pegie Cool](https://openalex.org/A5014043312), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00881.
+[Jianguo Zhu](https://openalex.org/A5100370161), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Lucie Lindenbeck](https://openalex.org/A5063141475), [Järi Van den Hoek](https://openalex.org/A5060500053), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Adam Slabon](https://openalex.org/A5004773873), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Pegie Cool](https://openalex.org/A5014043312), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00881.
     
 No abstract    
 
@@ -308,7 +308,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400446241    
 Open access: False
     
-[Guojuan Liu](https://openalex.org/A5040261155), [Xuewen Li](https://openalex.org/A5076573585), [Minghao Liu](https://openalex.org/A5060008686), [Shuai Yang](https://openalex.org/A5090717104), [Xiubei Yang](https://openalex.org/A5032456464), [Xinqing Chen](https://openalex.org/A5006139381), [Wei Wei](https://openalex.org/A5071168081), [Qing Xu](https://openalex.org/A5069765087), [Gaofeng Zeng](https://openalex.org/A5028394871), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01720.
+[Guojuan Liu](https://openalex.org/A5040261155), [Xuewen Li](https://openalex.org/A5100441260), [Minghao Liu](https://openalex.org/A5100721951), [Shuai Yang](https://openalex.org/A5100784279), [Xiubei Yang](https://openalex.org/A5032456464), [Xinqing Chen](https://openalex.org/A5006139381), [Wei Wei](https://openalex.org/A5071168081), [Qing Xu](https://openalex.org/A5069765087), [Gaofeng Zeng](https://openalex.org/A5028394871), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01720.
     
 No abstract    
 
@@ -375,6 +375,17 @@ OpenAlex: https://openalex.org/W4400466004
 Open access: False
     
 [Zhen-Lin Hou](https://openalex.org/A5062197457), [YH Tang](https://openalex.org/A5088423409), [Lai Yu](https://openalex.org/A5003559530), [Bo Yao](https://openalex.org/A5024407258), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02357.
+    
+No abstract    
+
+    
+
+## Reversing the Selectivity of Alkanes and Alkenes in Iron-Based Fischer–Tropsch Synthesis: The Precise Control and Fundamental Role of Sodium Promotor   
+
+OpenAlex: https://openalex.org/W4400503468    
+Open access: False
+    
+[Ruifeng Wang](https://openalex.org/A5100658286), [Yaqi Chen](https://openalex.org/A5006373986), [Xin Shang](https://openalex.org/A5066059509), [Bo Liang](https://openalex.org/A5023234550), [Xiong Zhang](https://openalex.org/A5100442111), [Hongying Zhuo](https://openalex.org/A5068091889), [Hongmin Duan](https://openalex.org/A5091008250), [Xuning Li](https://openalex.org/A5077211208), [Xiaofeng Yang](https://openalex.org/A5024697319), [Xiong Su](https://openalex.org/A5003767122), [Yanqiang Huang](https://openalex.org/A5054330732), [Tao Zhang](https://openalex.org/A5100683157), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02252.
     
 No abstract    
 

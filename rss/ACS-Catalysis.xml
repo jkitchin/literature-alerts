@@ -4,16 +4,16 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Jul 2024 01:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 01:09:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
       <title>Interfacial Electric Field Stabilized Ru Single-Atom Catalysts for Efficient Water Oxidation</title>
       <link>https://doi.org/10.1021/acscatal.4c01829</link>
-      <description>Liu Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400274434
+      <description>Lingfeng Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400274434
 
                 No abstract</description>
-      <author>Liu Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang</author>
+      <author>Lingfeng Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang</author>
       <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01829</guid>
     </item>
@@ -250,10 +250,10 @@
     <item>
       <title>Synergistic Interaction between the Ni-Center and Glycine-Derived N-Doped Porous Carbon Material Boosts Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
       <link>https://doi.org/10.1021/acscatal.4c00881</link>
-      <description>Jun Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool, ACS catalysis. None(None)] 2024. https://openalex.org/W4400414021
+      <description>Jianguo Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool, ACS catalysis. None(None)] 2024. https://openalex.org/W4400414021
 
                 No abstract</description>
-      <author>Jun Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool</author>
+      <author>Jianguo Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool</author>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00881</guid>
     </item>
@@ -346,6 +346,16 @@
       <author>Zhen-Lin Hou, YH Tang, Lai Yu, Bo Yao</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02357</guid>
+    </item>
+    <item>
+      <title>Reversing the Selectivity of Alkanes and Alkenes in Iron-Based Fischer&#8211;Tropsch Synthesis: The Precise Control and Fundamental Role of Sodium Promotor</title>
+      <link>https://doi.org/10.1021/acscatal.4c02252</link>
+      <description>Ruifeng Wang, Yaqi Chen, Xin Shang, Bo Liang, Xiong Zhang, Hongying Zhuo, Hongmin Duan, Xuning Li, Xiaofeng Yang, Xiong Su, Yanqiang Huang, Tao Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400503468
+
+                No abstract</description>
+      <author>Ruifeng Wang, Yaqi Chen, Xin Shang, Bo Liang, Xiong Zhang, Hongying Zhuo, Hongmin Duan, Xuning Li, Xiaofeng Yang, Xiong Su, Yanqiang Huang, Tao Zhang</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02252</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Jul 2024 01:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 01:09:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -20,10 +20,10 @@
     <item>
       <title>Advances, mechanisms and applications in oxygen evolution electrocatalysis of gold-driven</title>
       <link>https://doi.org/10.1016/j.cej.2024.153719</link>
-      <description>Tong Liu, Jiangbo Lu, Zhihao Chen, Luo Zhang, Yurong Ren, Xiangqun Zhuge, Zhihong Luo, Guogang Ren, Lei Wei-Wei, Dan Li&#365;, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400269040
+      <description>Tong Liu, Jiangbo Lu, Zhihao Chen, Zhihong Luo, Yurong Ren, Xiangqun Zhuge, Zhihong Luo, Guogang Ren, Lei Wei-Wei, Dan Li&#250;, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400269040
 
                 The oxygen evolution reaction (OER) plays a crucial role in electrochemical energy storage and conversion. Among different metal elements, gold (Au) stands out due to its high electronegativity and remarkable catalytic properties, especially when it is in nanoscale size. In this review, we aim to comprehensively analyze the oxygen electrocatalytic performance of nanosized Au, including the influence of the crystal surface, morphology, substrate materials of Au nanoparticles, size and ligands of Au nanoclusters, and Au single atoms on oxygen electrocatalysis. By exploring the catalytic performance of noble metals, non-noble metals, oxides, hydroxides/oxyhydroxides/layered double hydroxides, sulfides, phosphides, nitrides, and selenides through the integration of nanosized Au, which offers valuable insights for enhancing the OER efficiency. These effects can be attributed to two mechanisms: i) adsorbate evolution mechanism (AEM) and ii) lattice oxygen mechanism (LOM), where the nanosized Au changed the electronic structure of the catalysts and improved the adsorption of reaction intermediates to accelerate electron transfer process or exerts the synergistic effect between metallic Au and oxygen vacancies. For instance, Gold-driven OER catalysts can be widely used in zinc-air batteries and water splitting in the future.</description>
-      <author>Tong Liu, Jiangbo Lu, Zhihao Chen, Luo Zhang, Yurong Ren, Xiangqun Zhuge, Zhihong Luo, Guogang Ren, Lei Wei-Wei, Dan Li&#365;</author>
+      <author>Tong Liu, Jiangbo Lu, Zhihao Chen, Zhihong Luo, Yurong Ren, Xiangqun Zhuge, Zhihong Luo, Guogang Ren, Lei Wei-Wei, Dan Li&#250;</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153719</guid>
     </item>
@@ -40,10 +40,10 @@
     <item>
       <title>Engineering both intrinsic characteristic and local microenvironment of platinum sites toward highly efficient oxygen reduction reaction</title>
       <link>https://doi.org/10.1016/j.jcis.2024.07.012</link>
-      <description>Haibin Wang, Chunlei Li, Mengling Liu, Di Dou, L. Chen, Limin Zhang, Qiuping Zhao, Cong Ye, Yi Wang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400271700
+      <description>Haibin Wang, Chunlei Li, Mengling Liu, Di Dou, L. Chen, Limin Zhang, Qiuping Zhao, Yuanyuan Cong, Yi Wang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400271700
 
                 No abstract</description>
-      <author>Haibin Wang, Chunlei Li, Mengling Liu, Di Dou, L. Chen, Limin Zhang, Qiuping Zhao, Cong Ye, Yi Wang</author>
+      <author>Haibin Wang, Chunlei Li, Mengling Liu, Di Dou, L. Chen, Limin Zhang, Qiuping Zhao, Yuanyuan Cong, Yi Wang</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.012</guid>
     </item>
@@ -220,10 +220,10 @@
     <item>
       <title>Unraveling the Intrinsic Mechanism of High-Performance Two-Dimensional Conjugated Metal&#8211;Organic Frameworks for ORR/OER through Theoretical Investigation</title>
       <link>https://doi.org/10.1021/acsmaterialslett.4c00961</link>
-      <description>Xiaofei Wei, Shoufu Cao, Shan Cheng, Chunyu Lu, Xinhui Chen, Xiaoqing Lu, Xiaobo Chen, Fangna Dai, ACS materials letters. None(None)] 2024. https://openalex.org/W4400346361
+      <description>Xiaofei Wei, Shoufu Cao, Shaohua Cheng, Chunyu Lu, Xinhui Chen, Xiaoqing Lu, Xiaobo Chen, Fangna Dai, ACS materials letters. None(None)] 2024. https://openalex.org/W4400346361
 
                 No abstract</description>
-      <author>Xiaofei Wei, Shoufu Cao, Shan Cheng, Chunyu Lu, Xinhui Chen, Xiaoqing Lu, Xiaobo Chen, Fangna Dai</author>
+      <author>Xiaofei Wei, Shoufu Cao, Shaohua Cheng, Chunyu Lu, Xinhui Chen, Xiaoqing Lu, Xiaobo Chen, Fangna Dai</author>
       <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00961</guid>
     </item>
@@ -250,10 +250,10 @@
     <item>
       <title>Arc plasma&#8208;deposited Co single&#8208;atom catalysts supported on an aligned carbon nanofiber for hydrogen peroxide electrosynthesis and an electro&#8208;Fenton process</title>
       <link>https://doi.org/10.1002/cey2.582</link>
-      <description>Chang&#8208;Kyu Hwang, Sooyeon Kim, Ki Ro Yoon, Thao Thi Le, Chinh V. Hoang, Jae Won Choi, Wenjun Zhang, Sae Yane Paek, Chung Hyeon Lee, Ji Hyun Lee, Keun Hwa Chae, Sohee Jeong, Seung&#8208;Yong Lee, Byeong&#8208;Kwon Ju, Sang&#8208;Hoon Kim, Sang Soo Han, Jong Min Kim, Carbon energy. None(None)] 2024. https://openalex.org/W4400359072
+      <description>Chang&#8208;Kyu Hwang, Sooyeon Kim, Ki Ro Yoon, Thao Thi Le, Chinh V. Hoang, Jae Won Choi, Wenjun Zhang, Sae Yane Paek, Chung Hyeon Lee, Ji Hyun Lee, Keun Hwa Chae, Sohee Jeong, Seung&#8208;Yong Lee, Byeong&#8208;Kwon Ju, Sang Hoon Kim, Sang Soo Han, Jong Min Kim, Carbon energy. None(None)] 2024. https://openalex.org/W4400359072
 
                 Abstract Atomically dispersed single&#8208;atom catalysts (SACs) on carbon supports show great promise for H 2 O 2 electrosynthesis, but conventional wet chemistry methods using particulate carbon blacks in powder form have limited their potential as two&#8208;electron (2e &#8722; ) oxygen reduction reaction (ORR) catalysts. Here, we demonstrate high&#8208;performance Co SACs supported on a free&#8208;standing aligned carbon nanofiber (CNF) using electrospinning and arc plasma deposition (APD). Based on the surface oxidation treatment of aligned CNF and precise control of the deposition amount in a dry&#8208;based APD process, we successfully form densely populated Co SACs on aligned CNF. Through experimental analyses and density functional theory calculations, we reveal that Co SAC has a Co&#8211;N 2 &#8211;O 2 moiety with one epoxy group, leading to excellent 2e &#8722; ORR activity. Furthermore, the aligned CNF significantly improves mass transfer in flow cells compared to randomly oriented CNF, showing an overpotential reduction of 30 mV and a 1.3&#8208;fold improvement (84.5%) in Faradaic efficiency, and finally achieves an outstanding production rate of 15.75 mol g cat &#8722;1 h &#8722;1 at 300 mA cm &#8722;2 . The high&#8208;performance Co SAC supported on well&#8208;aligned CNF is also applied in an electro&#8208;Fenton process, demonstrating rapid removal of methylene blue and bisphenol F due to its exceptional 2e &#8722; ORR activity.</description>
-      <author>Chang&#8208;Kyu Hwang, Sooyeon Kim, Ki Ro Yoon, Thao Thi Le, Chinh V. Hoang, Jae Won Choi, Wenjun Zhang, Sae Yane Paek, Chung Hyeon Lee, Ji Hyun Lee, Keun Hwa Chae, Sohee Jeong, Seung&#8208;Yong Lee, Byeong&#8208;Kwon Ju, Sang&#8208;Hoon Kim, Sang Soo Han, Jong Min Kim</author>
+      <author>Chang&#8208;Kyu Hwang, Sooyeon Kim, Ki Ro Yoon, Thao Thi Le, Chinh V. Hoang, Jae Won Choi, Wenjun Zhang, Sae Yane Paek, Chung Hyeon Lee, Ji Hyun Lee, Keun Hwa Chae, Sohee Jeong, Seung&#8208;Yong Lee, Byeong&#8208;Kwon Ju, Sang Hoon Kim, Sang Soo Han, Jong Min Kim</author>
       <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cey2.582</guid>
     </item>
@@ -500,10 +500,10 @@
     <item>
       <title>The excellent performance of oxygen evolution reaction on stainless steel electrodes by halogen oxyacid salts etching</title>
       <link>https://doi.org/10.1016/j.jcis.2024.07.043</link>
-      <description>Junyu Shen, Weibo Xie, Tian Xie, Ruihan Wang, Dingwei Zhu, Yuxi Li, S. Xue, Yazi Liu, Hehua Zeng, Wenhui Zhao, Shaobin Wang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400439514
+      <description>Junyu Shen, Tao Wang, Tian Xie, Ruihan Wang, Dingwei Zhu, Yuxi Li, S. Xue, Yazi Liu, Hehua Zeng, Wenhui Zhao, Shaobin Wang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400439514
 
                 No abstract</description>
-      <author>Junyu Shen, Weibo Xie, Tian Xie, Ruihan Wang, Dingwei Zhu, Yuxi Li, S. Xue, Yazi Liu, Hehua Zeng, Wenhui Zhao, Shaobin Wang</author>
+      <author>Junyu Shen, Tao Wang, Tian Xie, Ruihan Wang, Dingwei Zhu, Yuxi Li, S. Xue, Yazi Liu, Hehua Zeng, Wenhui Zhao, Shaobin Wang</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.043</guid>
     </item>
@@ -512,7 +512,7 @@
       <link>https://doi.org/10.1021/acsnano.4c04176</link>
       <description>Yong Jiang, Liang Zhong, Jin&#8208;Cheng Liu, Hao Fu, Chun&#8208;Hua Yan, Yaping Du, ACS nano. None(None)] 2024. https://openalex.org/W4400446876
 
-                No abstract</description>
+                High-entropy alloys (HEAs) have aroused extensive attention in the field of catalysis. However, due to the integration of multiple active sites in HEA, it exhibits excessive adsorption behavior resulting in difficult desorption of active species from the catalyst surfaces, which hinders the catalytic efficiency. Therefore, adjusting the adsorption strength of the active site in HEA to enhance the catalytic activity is of great importance. By introducing rare-earth (RE) elements into the high-entropy alloy, the delocalization of 4f electrons can be achieved through the interaction between the multimetal active site and RE, which benefits to regulate the adsorption strength of the HEA surface. Herein, the RE Ce-modified hexagonal-close-packed PtRuFeCoNiZn-Ce/C HEAs are synthesized and showed an excellent electrocatalytic activity for hydrogen evolution reaction and oxygen evolution reaction with ultralow overpotentials of 4, 7 and 156, 132 mV, respectively, to reach 10 mA cm</description>
       <author>Yong Jiang, Liang Zhong, Jin&#8208;Cheng Liu, Hao Fu, Chun&#8208;Hua Yan, Yaping Du</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c04176</guid>
@@ -520,10 +520,10 @@
     <item>
       <title>CoFe hydroxide towards CoP2-FeP4 heterojunction for efficient and long-term stable water oxidation</title>
       <link>https://doi.org/10.1016/j.jcis.2024.07.073</link>
-      <description>Zhi Li, Yu Dai, Xin Han, Chengyi Hou, Kerui Li, Yaogang Li, Hongzhi Wang, Qinghong Zhang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400449313
+      <description>Zhi Liu, Yu Dai, Xin Han, Chengyi Hou, Kerui Li, Yaogang Li, Hongzhi Wang, Qinghong Zhang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400449313
 
                 No abstract</description>
-      <author>Zhi Li, Yu Dai, Xin Han, Chengyi Hou, Kerui Li, Yaogang Li, Hongzhi Wang, Qinghong Zhang</author>
+      <author>Zhi Liu, Yu Dai, Xin Han, Chengyi Hou, Kerui Li, Yaogang Li, Hongzhi Wang, Qinghong Zhang</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.073</guid>
     </item>
@@ -536,6 +536,86 @@
       <author>Chi Chen, Dan Thien Nguyen, Shannon Lee, Nathan Baker, Ajay Karakoti, Linda Lauw, David Owen, Karl T. Mueller, Brian A. Bilodeau, Vijayakumar Murugesan, Matthias Troyer</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c03849</guid>
+    </item>
+    <item>
+      <title>Acetylene and Ethylene Adsorption during Floating Fe Catalyst Formation at the Onset of Carbon Nanotube Growth and the Effect of Sulfur Poisoning: a DFT Study</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.4c01830</link>
+      <description>Bal&#225;zs Orb&#225;n, Tibor H&#246;ltzl, Inorganic chemistry. None(None)] 2024. https://openalex.org/W4400483060
+
+                No abstract</description>
+      <author>Bal&#225;zs Orb&#225;n, Tibor H&#246;ltzl</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c01830</guid>
+    </item>
+    <item>
+      <title>Gold&#8211;Thiolate Nanocluster Dynamics and Intercluster Reactions Enabled by a Machine Learned Interatomic Potential</title>
+      <link>https://doi.org/10.1021/acsnano.4c03094</link>
+      <description>Caitlin A. McCandler, Antti Pihlajam&#228;ki, Sami Malola, Hannu H&#228;kkinen, Kristin A. Persson, ACS nano. None(None)] 2024. https://openalex.org/W4400484860
+
+                No abstract</description>
+      <author>Caitlin A. McCandler, Antti Pihlajam&#228;ki, Sami Malola, Hannu H&#228;kkinen, Kristin A. Persson</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c03094</guid>
+    </item>
+    <item>
+      <title>Synergistic doping of Iron and selenium on nickel hydroxide nitrate nanoarrays-derived as an efficient electrocatalyst for overall water splitting</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160657</link>
+      <description>Huu Tuan Le, Hyonho Chun, Yong Jung Kwon, Min Ji Ham, Seok Ki Kim, Young Kyu Jeong, Applied surface science. None(None)] 2024. https://openalex.org/W4400487044
+
+                No abstract</description>
+      <author>Huu Tuan Le, Hyonho Chun, Yong Jung Kwon, Min Ji Ham, Seok Ki Kim, Young Kyu Jeong</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160657</guid>
+    </item>
+    <item>
+      <title>Mesoscale molecular assembly is favored by the active, crowded cytoplasm</title>
+      <link>https://doi.org/10.1103/prxlife.2.033001</link>
+      <description>Tong Shu, Gaurav Mitra, Jonathan Alberts, Matheus P. Viana, Emmanuel D. Levy, Glen M. Hocky, Liam J. Holt, PRX life. 2(3)] 2024. https://openalex.org/W4400495089
+
+                The mesoscale organization of molecules into membraneless biomolecular condensates is emerging as a key mechanism of rapid spatiotemporal control in cells. Principles of biomolecular condensation have been revealed through reconstitution. However, intracellular environments are much more complex than test-tube environments: they are viscoelastic, highly crowded at the mesoscale, and are far from thermodynamic equilibrium due to the constant action of energy-consuming processes. We developed synDrops, a synthetic phase separation system, to study how the cellular environment affects condensate formation. Three key features enable physical analysis: synDrops are inducible, bioorthogonal, and have well-defined geometry. This design allows kinetic analysis of synDrop assembly and facilitates computational simulation of the process. We compared experiments and simulations to determine that macromolecular crowding promotes condensate nucleation but inhibits droplet growth through coalescence. ATP-dependent cellular activities help overcome the frustration of growth. In particular, stirring of the cytoplasm by actomyosin dynamics is the dominant mechanism that potentiates droplet growth in the mammalian cytoplasm by reducing confinement and elasticity. Our results demonstrate that mesoscale molecular assembly is favored by the combined effects of crowding and active matter in the cytoplasm. These results move toward a better predictive understanding of condensate formation . Published by the American Physical Society 2024</description>
+      <author>Tong Shu, Gaurav Mitra, Jonathan Alberts, Matheus P. Viana, Emmanuel D. Levy, Glen M. Hocky, Liam J. Holt</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/prxlife.2.033001</guid>
+    </item>
+    <item>
+      <title>The defect chemistry and machine learning study 5d transition metal doped on graphitic carbon nitride for bifunctional oxygen electrocatalyst with low overpotential</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.034</link>
+      <description>Wentao Wang, Yingdong Qu, Dongying Li, Aodi Zhang, Hongxia Yan, Zhenzhen Feng, Wenzhi Yao, International journal of hydrogen energy. 79(None)] 2024. https://openalex.org/W4400498275
+
+                No abstract</description>
+      <author>Wentao Wang, Yingdong Qu, Dongying Li, Aodi Zhang, Hongxia Yan, Zhenzhen Feng, Wenzhi Yao</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.034</guid>
+    </item>
+    <item>
+      <title>Key role of paracrystalline motifs on iridium oxide surfaces for acidic water oxidation</title>
+      <link>https://doi.org/10.1038/s41929-024-01187-4</link>
+      <description>Bingzhang Lu, Carolin B. Wahl, Roberto dos Reis, Jane Edgington, Xiao Kun Lu, Ruihan Li, Matthew E. Sweers, Brianna N. Ruggiero, G. T. Kasun Kalhara Gunasooriya, Vinayak P. Dravid, Linsey C. Seitz, Nature Catalysis. None(None)] 2024. https://openalex.org/W4400503861
+
+                No abstract</description>
+      <author>Bingzhang Lu, Carolin B. Wahl, Roberto dos Reis, Jane Edgington, Xiao Kun Lu, Ruihan Li, Matthew E. Sweers, Brianna N. Ruggiero, G. T. Kasun Kalhara Gunasooriya, Vinayak P. Dravid, Linsey C. Seitz</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01187-4</guid>
+    </item>
+    <item>
+      <title>A Multi&#8208;Active Site Subnano Heterostructures Catalyst Grown In situ POM and Fe&lt;sub&gt;0.2&lt;/sub&gt;Ni&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; onto Nickel Foam Toward Efficient Electrocatalytic Overall Water Splitting</title>
+      <link>https://doi.org/10.1002/adfm.202408968</link>
+      <description>Liping Cui, Yu&#8208;wen Wang, Kai Yu, Yajie Ma, Baibin Zhou, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400504070
+
+                Abstract Designing efficient, durable, and cheap bifunctional electrocatalysts is a challenging goal in water splitting. Herein, trivanadium&#8208;substituted Keggin&#8208;type polyoxometalate H 6 PV 3 Mo 9 O 40 (POM) and Fe 0.2 Ni 0.8 Co 2 O 4 (FNCO) are in situ grown onto nickel foam (NF) yielding a self&#8208;supporting nanoflower&#8208;like heterojunction via convenient hydrothermal reaction. The POM&#8208;Fe 0.2 Ni 0.8 Co 2 O 4 /NF as HER and OER electrocatalyst, displays low overpotential (89 and 259 mV) and high electrode stability at 10 mA cm &#8722;2 . POM&#8208;FNCO/NF as the cathode and anode requires a lower voltage (1.58 V) to provide 10 mA cm &#8722;2 for overall water splitting (OWS), which is better than that of commercial catalysts. The electronic sponge characteristics of POM provide more active sites and fast reaction kinetics for HER and OER. The synergy of POM and FNCO optimizes the electron distribution at the interface and enhances the intrinsic activity of HER/OER. Density Functional Theory (DFT) calculations show that water molecules preferentially bind to Co sites on POM&#8208;FNCO. Additionally, POM has proton&#8208;coupled electron transfer properties and its modified FNCO exhibits thermodynamic advantages. The synergistic effect of these two factors enables the efficient overall water splitting of POM&#8208;FNCO. This study offers a novel pathway for the construction of self&#8208;supporting efficient catalysts by in situ growth of POM nanoclusters and spinel oxide sub&#8208;nanometer heterojunctions on NF.</description>
+      <author>Liping Cui, Yu&#8208;wen Wang, Kai Yu, Yajie Ma, Baibin Zhou</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408968</guid>
+    </item>
+    <item>
+      <title>Fractal Characterization of Simulated Metal Nanocatalysts in 3D</title>
+      <link>https://doi.org/10.1002/smsc.202400123</link>
+      <description>Jonathan Y. C. Ting, George Opletal, Amanda S. Barnard, Small science. None(None)] 2024. https://openalex.org/W4400510966
+
+                The surface roughness of metal nanoparticles is known to be influential toward their properties, but the quantification of surface roughness is challenging. Given the recent availability of large&#8208;scale simulated data and tools for the computation of the box&#8208;counting dimension of simulated atomistic objects, researchers are now enabled to study the connections between the surface roughness of metal nanoparticles and their properties. Herein, the relationships between the fractal box&#8208;counting dimension of metal nanoparticle surfaces and structural features relevant to experimental and computational studies are investigated, providing actionable insights for the manufacturing of rough nanoparticles. This approach differs from conventional concepts of roughness, but introduces a possible indicator for their functionalities such as catalytic performance that was not previously accessible. It is found that, while it remains difficult to consistently correlate the dimension with the catalytic activity of surface facets, matching trends with their surface energy, thermodynamic stability, and number of bond vacancy are observed. This highlights the potential of fractal box&#8208;counting dimensions to rationalize catalytic activity trends among metal nanoparticles, and opens up opportunities for the design of nanocatalysts with better performance via surface engineering.</description>
+      <author>Jonathan Y. C. Ting, George Opletal, Amanda S. Barnard</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smsc.202400123</guid>
     </item>
     <item>
       <title>Advancement in sodium carbonation pathways for sustainable carbon capture and utilization: A review</title>

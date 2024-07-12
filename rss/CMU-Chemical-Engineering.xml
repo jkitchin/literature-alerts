@@ -4,8 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Jul 2024 01:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 01:09:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Exploring Human-LLM Conversations: Mental Models and the Originator of
+  Toxicity</title>
+      <link>https://doi.org/10.48550/arxiv.2407.05977</link>
+      <description>James W. Schneider, Arianna Casanova Flores, Anne-Catherine Kranz, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4400485905
+
+                This study explores real-world human interactions with large language models (LLMs) in diverse, unconstrained settings in contrast to most prior research focusing on ethically trimmed models like ChatGPT for specific tasks. We aim to understand the originator of toxicity. Our findings show that although LLMs are rightfully accused of providing toxic content, it is mostly demanded or at least provoked by humans who actively seek such content. Our manual analysis of hundreds of conversations judged as toxic by APIs commercial vendors, also raises questions with respect to current practices of what user requests are refused to answer. Furthermore, we conjecture based on multiple empirical indicators that humans exhibit a change of their mental model, switching from the mindset of interacting with a machine more towards interacting with a human.</description>
+      <author>James W. Schneider, Arianna Casanova Flores, Anne-Catherine Kranz</author>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.05977</guid>
+    </item>
   </channel>
 </rss>
