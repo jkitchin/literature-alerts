@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Jul 2024 01:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 01:10:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Interfacial Electric Field Stabilized Ru Single-Atom Catalysts for Efficient Water Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01829</link>
-      <description>Lingfeng Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400274434
-
-                No abstract</description>
-      <author>Lingfeng Yang, Zitao Ni, Yifan Zhao, Youyu Long, Min Xi, Anran Chen, Hua Zhang</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01829</guid>
-    </item>
-    <item>
-      <title>Understanding the Effects of Anode Catalyst Conductivity and Loading on Catalyst Layer Utilization and Performance for Anion Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c02932</link>
-      <description>Melissa E. Kreider, Haoran Yu, Luigi Osmieri, Makenzie R. Parimuha, Kimberly S. Reeves, Daniela H. Marin, Ryan T. Hannagan, Emily E. Volk, Thomas F. Jaramillo, James L. Young, Piotr Zelenay, Shaun M Alia, ACS catalysis. None(None)] 2024. https://openalex.org/W4400279549
-
-                No abstract</description>
-      <author>Melissa E. Kreider, Haoran Yu, Luigi Osmieri, Makenzie R. Parimuha, Kimberly S. Reeves, Daniela H. Marin, Ryan T. Hannagan, Emily E. Volk, Thomas F. Jaramillo, James L. Young, Piotr Zelenay, Shaun M Alia</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02932</guid>
-    </item>
-    <item>
-      <title>Structural and Computational Insights into the Noncanonical Aromatization in Fungal Polyketide Biosynthesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c01043</link>
-      <description>Hang Wang, Chao Peng, Xiaoxuan Chen, Haoyang Wang, Run Yang, He Xiang, Qiu&#8208;Fen Hu, Ling Liu, Lung Wa Chung, Yudai Matsuda, Weiguang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400281718
-
-                No abstract</description>
-      <author>Hang Wang, Chao Peng, Xiaoxuan Chen, Haoyang Wang, Run Yang, He Xiang, Qiu&#8208;Fen Hu, Ling Liu, Lung Wa Chung, Yudai Matsuda, Weiguang Wang</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01043</guid>
-    </item>
-    <item>
-      <title>Construction of Dual Active Sites in Perovskite Oxide for Targeted Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CH&lt;sub&gt;4&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c02793</link>
-      <description>Yibo Gao, Miaomiao Zhang, Yang Jin, Yanpeng Mao, Wenlong Wang, Zhanlong Song, ACS catalysis. None(None)] 2024. https://openalex.org/W4400288640
-
-                No abstract</description>
-      <author>Yibo Gao, Miaomiao Zhang, Yang Jin, Yanpeng Mao, Wenlong Wang, Zhanlong Song</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02793</guid>
-    </item>
-    <item>
-      <title>Insight into the Selectivity-Determining Step of Various Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction Products by Inorganic Semiconductors</title>
-      <link>https://doi.org/10.1021/acscatal.4c01712</link>
-      <description>Shuowen Wang, Jiashun Wang, Ying Wang, Xiaoyu Sui, Shuhong Wu, Wenxin Dai, Zizhong Zhang, Zhengxin Ding, Jinlin Long, ACS catalysis. None(None)] 2024. https://openalex.org/W4400288994
-
-                No abstract</description>
-      <author>Shuowen Wang, Jiashun Wang, Ying Wang, Xiaoyu Sui, Shuhong Wu, Wenxin Dai, Zizhong Zhang, Zhengxin Ding, Jinlin Long</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01712</guid>
-    </item>
-    <item>
-      <title>Dynamic Ionization Equilibrium-Induced &#8220;Oxygen Exchange&#8221; in CO Electroreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c01773</link>
-      <description>Haona Zhang, Yu Cui, Chunjin Ren, Qiang Li, Chongyi Ling, Jinlan Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400296519
-
-                The oxygen source of oxygenates is the fundamental issue for CO2/CO electroreduction, which was firmly believed to originate from the gas feed (Ogas) for a long time. However, recent experiments have confirmed that most O atoms of the generated alcohols via CO reduction arise from the solvent (Oaq), indicating the existence of a rather mysterious "oxygen exchange" process. In this work, we solved this mechanistic puzzle using comprehensive computations. Our results revealed that high CO pressure enables COgas oxidation by surface *OaqH, which opens a pathway for oxygenate production. The generated *COgasOaqH can react with another *CO to form *COCOgasOaqH, which leads to the formation of a series of carboxyl-containing intermediates (RCOgasOaqH) in subsequent steps. Due to the dynamic ionization equilibrium, H+ moves rapidly between Ogas and Oaq via reversible "inner" proton transfer (*RCOgasOaqH &#8652; *R-COgasOaq&#8211; + H+ &#8652; *RCOaqOgasH). The oxygen exchange completes when *RCOaq forms via the dehydroxylation of a certain *RCOaqOgasH. The completed reaction pathways were further explored by using COgas reduction into C2H5OaqH as an example, which explains related experiments. Therefore, these results refresh the insights into CO2/CO electroreduction and give specific guidelines for the optimization of catalytic performance.</description>
-      <author>Haona Zhang, Yu Cui, Chunjin Ren, Qiang Li, Chongyi Ling, Jinlan Wang</author>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01773</guid>
-    </item>
-    <item>
-      <title>Photoelectrocatalytic Valorization of Biomass-Derived Succinic Acid into Ethylene Coupled with Hydrogen Production over an Ultrathin BiO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Covered TiO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c02314</link>
-      <description>Qiujin Shi, Jing Li, Y. Liu, Kejian Kong, An-Zhen Li, Haohong Duan, ACS catalysis. None(None)] 2024. https://openalex.org/W4400296987
-
-                Photoelectrochemical (PEC) cells have been extensively studied in water splitting to produce H2, but the sluggish kinetics of the oxygen evolution reaction (OER) remains a huge challenge. Here, we reported a PEC strategy for biomass-derived succinic acid decarboxylation to replace OER, with the production of ethylene (C2H4) as a high-demand chemical. By synthesizing a bismuth oxide supported on titanium oxide (BiOx/TiO2) as the photoanode, C2H4 was efficiently produced with 85.7 &#956;mol/h production rate and 40% Faradaic efficiency. Simultaneously, H2 productivity was improved by 6.5-fold compared with total water splitting (from 50.8 to 331.7 &#956;mol/h). Structure characterizations show that BiOx forms an ultrathin layer (approximately 1.5 nm in thickness) on the TiO2 surface with a strong interfacial interaction, inducing the formation of a type-II heterojunction with efficient charge separation and transfer. Experimental data suggest that succinic acid molecules are adsorbed over the BiOx surface with its dual carboxyl groups in a deprotonated form, facilitating the decarboxylation of succinic acid to ethylene via a non-Kolbe route. This work demonstrates the great opportunity of PEC technology for transforming renewable biomass resources into value-added chemicals with promoted H2 fuel production under mild conditions.</description>
-      <author>Qiujin Shi, Jing Li, Y. Liu, Kejian Kong, An-Zhen Li, Haohong Duan</author>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02314</guid>
-    </item>
-    <item>
-      <title>Surface Reactive Oxygen from Support Corrects the Nominal Supported Metal Size Effect in Controlling the Reactivity for Low-Temperature CH&lt;sub&gt;4&lt;/sub&gt;/CO&lt;sub&gt;2&lt;/sub&gt; Reforming</title>
-      <link>https://doi.org/10.1021/acscatal.4c02608</link>
-      <description>H.Y. Wang, Yaozhong Hu, Yongli Shen, Ewa Chukwu, Wei Xi, Gurong Shen, Jun Wang, Meiqing Shen, Ming Yang, Tong&#8208;Bu Lu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400297457
-
-                Modulating the metal&#8211;support interfacial structure to achieve coke elimination is highly desired for low-temperature CH4/CO2 reforming. Nonetheless, explicit effects of optimizing the supported metal size and catalyst support properties remain convoluted and sometimes controversial. Herein, we designed different Pt&#8211;CeO2 interfaces by tuning the surface reactive oxygen (SRO) from ceria and the in situ aggregated nanoparticle size developed from single-atom Pt as independent parameters. Intriguingly, the often-emphasized nominal Pt size effect (0.3&#8211;10.5 nm) is secondary due to carbon deposition, while the catalyst with a high SRO concentration exhibits outstanding reactivity. We demonstrated that the SRO from ceria corrects the nominal supported metal size effect in controlling the low-temperature CH4/CO2 reforming reactivity. Specifically, in the Pt&#8211;Ox&#8211;Ce interfacial microstructure, SRO oxidizes the deposited carbon as an oxygen reservoir, making interfacial Pt atoms remain active from coke, and therefore determines the reactivity rather than the nominal Pt species size. In situ characterizations and theoretical studies explained the reaction mechanism of SRO and carbon elimination. This work provides new insights for coke-resistant catalyst design and the coke elimination mechanism.</description>
-      <author>H.Y. Wang, Yaozhong Hu, Yongli Shen, Ewa Chukwu, Wei Xi, Gurong Shen, Jun Wang, Meiqing Shen, Ming Yang, Tong&#8208;Bu Lu</author>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02608</guid>
-    </item>
     <item>
       <title>Synergistic Defect Sites and CoO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Nanoclusters in Polymeric Carbon Nitride for Enhanced Photocatalytic H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
       <link>https://doi.org/10.1021/acscatal.4c00334</link>
@@ -110,10 +30,10 @@
     <item>
       <title>Tunable Regiodivergent Reactivity of &lt;i&gt;N&lt;/i&gt;-Allenamides with Silacyclobutanes via Palladium Catalysis in the Synthesis of Silacyclic &#946;-Aminosilanes</title>
       <link>https://doi.org/10.1021/acscatal.4c02607</link>
-      <description>Yidong Wang, Yuanming Sun, Tianying Liu, Hang Zhou, Jianqi Sun, Liuzhou Gao, Yi&#8208;Ming Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400322286
+      <description>Yidong Wang, Yan Sun, Tianying Liu, Hang Zhou, Jing Sun, Liuzhou Gao, Yi&#8208;Ming Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400322286
 
                 The key structure of &#946;-aminosilanes has attracted significant interest because of their latent biological activities in the field of medicinal chemistry. However, the structural variety of &#946;-aminosilanes has been significantly constrained by the absence of a comprehensive synthetic approach. Thus, the development of regiodivergent catalytic systems for the construction of structurally diverse &#946;-aminosilanes via an intermolecular cycloaddition strategy would represent a significant addition to the limited toolkit available for their synthesis. We herein present an attractive approach for the synthesis of &#946;-aminosilanes through the regioselective cycloaddition of N-allenamides with the expansion of silacyclobutanes catalyzed by Pd/PR3. Just by selecting a suitable protecting group of N-allenamides, the regioselectivity of the cycloaddition is completely switched to efficiently provide two regioisomers of silacyclic &#946;-aminosilanes. Two regioselectivities were proceeded during the migratory insertion and reductive elimination process, the origin of which could be well rationalized using density functional theory calculations.</description>
-      <author>Yidong Wang, Yuanming Sun, Tianying Liu, Hang Zhou, Jianqi Sun, Liuzhou Gao, Yi&#8208;Ming Wang</author>
+      <author>Yidong Wang, Yan Sun, Tianying Liu, Hang Zhou, Jing Sun, Liuzhou Gao, Yi&#8208;Ming Wang</author>
       <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02607</guid>
     </item>
@@ -160,10 +80,10 @@
     <item>
       <title>Surface-Bound Formate Oxyanions Destabilize Hydration Layers to Pave OH&lt;sup&gt;&#8211;&lt;/sup&gt; Transport Pathways for Oxygen Evolution</title>
       <link>https://doi.org/10.1021/acscatal.4c02369</link>
-      <description>Xunlu Wang, Jizhong Song, Jan Ma, Haiying Du, Jiacheng Wang, Lijia Liu, Huashuai Hu, Wei Chen, Zhou Yin, Yuandong Wang, Minghui Yang, Lingxia Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400344032
+      <description>Xunlu Wang, Jizhong Song, Junqing Ma, Hanxiao Du, Jiacheng Wang, Lijia Liu, Huashuai Hu, Wei Chen, Zhou Yin, Jiacheng Wang, Minghui Yang, Lingxia Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400344032
 
                 Sluggish mass transfer of OH&#8211; in alkaline oxygen evolution reaction (OER), resulting from densely packed hydrated layers at the outer Helmholtz plane (OHP), becomes one of the main bottlenecks to improve overall efficiency of electrochemical devices. Herein, we report a hydration-layer-destabilizing route by binding formate oxyanions onto the catalyst surface to form OH&#8211; transport pathways, favorable for fast OH&#8211; transport and significantly improving OER activity. The electrochemical experiments indicate that surface formate-modified NiCo hydroxide (NiCo&#8211;HCOO&#8211;) shows increased OH&#8211; transfer kinetics, smaller overpotential, and higher turnover frequency (TOF) than that without surface formate modification. The theoretical calculations reveal that surface formate-induced hydrogen-bonding interaction with water molecules could destabilize densely packed hydrated potassium ion layers at the OHP, lowering OH&#8211; transport resistance and paving a pathway for OH&#8211; transfer. The assembled flow electrolyzer with the NiCo&#8211;HCOO&#8211; anode could operate at 400 mA cm&#8211;2 with only 2.1 V for over 300 h. This study provides an efficient strategy for designing high-activity OER electrocatalysts toward advanced energy conversion devices.</description>
-      <author>Xunlu Wang, Jizhong Song, Jan Ma, Haiying Du, Jiacheng Wang, Lijia Liu, Huashuai Hu, Wei Chen, Zhou Yin, Yuandong Wang, Minghui Yang, Lingxia Zhang</author>
+      <author>Xunlu Wang, Jizhong Song, Junqing Ma, Hanxiao Du, Jiacheng Wang, Lijia Liu, Huashuai Hu, Wei Chen, Zhou Yin, Jiacheng Wang, Minghui Yang, Lingxia Zhang</author>
       <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02369</guid>
     </item>
@@ -340,10 +260,10 @@
     <item>
       <title>Ligand-Enabled, Cysteine-Directed &#946;-C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Arylation of Alanine in Linear and Cyclic Peptides: Overcoming the Inhibitory Effect of Peptide Bonds</title>
       <link>https://doi.org/10.1021/acscatal.4c02357</link>
-      <description>Zhen-Lin Hou, YH Tang, Lai Yu, Bo Yao, ACS catalysis. None(None)] 2024. https://openalex.org/W4400466004
+      <description>Zhen-Lin Hou, Yusha Tang, Lai Yu, Bo Yao, ACS catalysis. None(None)] 2024. https://openalex.org/W4400466004
 
                 No abstract</description>
-      <author>Zhen-Lin Hou, YH Tang, Lai Yu, Bo Yao</author>
+      <author>Zhen-Lin Hou, Yusha Tang, Lai Yu, Bo Yao</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02357</guid>
     </item>
@@ -356,6 +276,46 @@
       <author>Ruifeng Wang, Yaqi Chen, Xin Shang, Bo Liang, Xiong Zhang, Hongying Zhuo, Hongmin Duan, Xuning Li, Xiaofeng Yang, Xiong Su, Yanqiang Huang, Tao Zhang</author>
       <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02252</guid>
+    </item>
+    <item>
+      <title>Activation Heat Capacities in Pyridoxal Phosphate Enzymes</title>
+      <link>https://doi.org/10.1021/acscatal.4c01959</link>
+      <description>Jake P. Erbez, Griffin H. Rangel, Mark Davila, Jackson A. Englade, Alexander D. Erbez, Jasmine Rattanpal, Haocheng Li, Y M Chen, Michael D. Toney, ACS catalysis. None(None)] 2024. https://openalex.org/W4400529689
+
+                No abstract</description>
+      <author>Jake P. Erbez, Griffin H. Rangel, Mark Davila, Jackson A. Englade, Alexander D. Erbez, Jasmine Rattanpal, Haocheng Li, Y M Chen, Michael D. Toney</author>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01959</guid>
+    </item>
+    <item>
+      <title>Dynamic Bromine Vacancy-Mediated Photocatalytic Three-Step Three-Electron Oxygen Reduction to Hydroxyl Radicals</title>
+      <link>https://doi.org/10.1021/acscatal.4c02674</link>
+      <description>Na Wen, Yingping Huang, Yuantao Yang, Hankun Wang, Decheng Wang, Haohao Chen, Qintian Peng, Xiao Kong, Liqun Ye, ACS catalysis. None(None)] 2024. https://openalex.org/W4400545912
+
+                No abstract</description>
+      <author>Na Wen, Yingping Huang, Yuantao Yang, Hankun Wang, Decheng Wang, Haohao Chen, Qintian Peng, Xiao Kong, Liqun Ye</author>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02674</guid>
+    </item>
+    <item>
+      <title>Anionic Olefin Metathesis Catalysts Enable Modification of Unprotected Biomolecules in Water</title>
+      <link>https://doi.org/10.1021/acscatal.4c02811</link>
+      <description>Christian O. Blanco, R.H. Castellanos, Deryn E. Fogg, ACS catalysis. None(None)] 2024. https://openalex.org/W4400549426
+
+                No abstract</description>
+      <author>Christian O. Blanco, R.H. Castellanos, Deryn E. Fogg</author>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02811</guid>
+    </item>
+    <item>
+      <title>Mechanism of Ni-NHC CO&lt;sub&gt;2&lt;/sub&gt; Reduction Catalysis Predominantly Affording Formate via Attack of Metal Hydride to CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c02818</link>
+      <description>Chen Liao, Kosei Yamauchi, Ken Sakai, ACS catalysis. None(None)] 2024. https://openalex.org/W4400559731
+
+                No abstract</description>
+      <author>Chen Liao, Kosei Yamauchi, Ken Sakai</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02818</guid>
     </item>
   </channel>
 </rss>

@@ -1,98 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Jul 12 01:09:45 2024
+Created on Sat Jul 13 01:10:58 2024
 
-Found 35 results from 2024-07-05 to 2024-07-12
+Found 31 results from 2024-07-06 to 2024-07-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Interfacial Electric Field Stabilized Ru Single-Atom Catalysts for Efficient Water Oxidation   
-
-OpenAlex: https://openalex.org/W4400274434    
-Open access: False
-    
-[Lingfeng Yang](https://openalex.org/A5100540695), [Zitao Ni](https://openalex.org/A5036664419), [Yifan Zhao](https://openalex.org/A5023019633), [Youyu Long](https://openalex.org/A5080653127), [Min Xi](https://openalex.org/A5040855976), [Anran Chen](https://openalex.org/A5053979760), [Hua Zhang](https://openalex.org/A5100408745), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01829.
-    
-No abstract    
-
-    
-
-## Understanding the Effects of Anode Catalyst Conductivity and Loading on Catalyst Layer Utilization and Performance for Anion Exchange Membrane Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4400279549    
-Open access: True
-    
-[Melissa E. Kreider](https://openalex.org/A5081607636), [Haoran Yu](https://openalex.org/A5085239567), [Luigi Osmieri](https://openalex.org/A5051215097), [Makenzie R. Parimuha](https://openalex.org/A5092900638), [Kimberly S. Reeves](https://openalex.org/A5054967876), [Daniela H. Marin](https://openalex.org/A5005671766), [Ryan T. Hannagan](https://openalex.org/A5091098679), [Emily E. Volk](https://openalex.org/A5029536182), [Thomas F. Jaramillo](https://openalex.org/A5078810774), [James L. Young](https://openalex.org/A5066880275), [Piotr Zelenay](https://openalex.org/A5060509548), [Shaun M Alia](https://openalex.org/A5090914666), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02932.
-    
-No abstract    
-
-    
-
-## Structural and Computational Insights into the Noncanonical Aromatization in Fungal Polyketide Biosynthesis   
-
-OpenAlex: https://openalex.org/W4400281718    
-Open access: False
-    
-[Hang Wang](https://openalex.org/A5089366118), [Chao Peng](https://openalex.org/A5071686615), [Xiaoxuan Chen](https://openalex.org/A5014428274), [Haoyang Wang](https://openalex.org/A5069611142), [Run Yang](https://openalex.org/A5077189336), [He Xiang](https://openalex.org/A5003438807), [Qiu‐Fen Hu](https://openalex.org/A5036812101), [Ling Liu](https://openalex.org/A5080244729), [Lung Wa Chung](https://openalex.org/A5009377050), [Yudai Matsuda](https://openalex.org/A5004078670), [Weiguang Wang](https://openalex.org/A5016155416), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01043.
-    
-No abstract    
-
-    
-
-## Construction of Dual Active Sites in Perovskite Oxide for Targeted Photocatalytic CO2 Reduction to CH4   
-
-OpenAlex: https://openalex.org/W4400288640    
-Open access: False
-    
-[Yibo Gao](https://openalex.org/A5082823161), [Miaomiao Zhang](https://openalex.org/A5100357904), [Yang Jin](https://openalex.org/A5019480198), [Yanpeng Mao](https://openalex.org/A5078703047), [Wenlong Wang](https://openalex.org/A5052500807), [Zhanlong Song](https://openalex.org/A5028614042), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02793.
-    
-No abstract    
-
-    
-
-## Insight into the Selectivity-Determining Step of Various Photocatalytic CO2 Reduction Products by Inorganic Semiconductors   
-
-OpenAlex: https://openalex.org/W4400288994    
-Open access: False
-    
-[Shuowen Wang](https://openalex.org/A5087245314), [Jiashun Wang](https://openalex.org/A5008764835), [Ying Wang](https://openalex.org/A5092201956), [Xiaoyu Sui](https://openalex.org/A5065718186), [Shuhong Wu](https://openalex.org/A5046386721), [Wenxin Dai](https://openalex.org/A5048886876), [Zizhong Zhang](https://openalex.org/A5066639664), [Zhengxin Ding](https://openalex.org/A5075589990), [Jinlin Long](https://openalex.org/A5066416838), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01712.
-    
-No abstract    
-
-    
-
-## Dynamic Ionization Equilibrium-Induced “Oxygen Exchange” in CO Electroreduction   
-
-OpenAlex: https://openalex.org/W4400296519    
-Open access: False
-    
-[Haona Zhang](https://openalex.org/A5026654046), [Yu Cui](https://openalex.org/A5007253367), [Chunjin Ren](https://openalex.org/A5003413853), [Qiang Li](https://openalex.org/A5100430008), [Chongyi Ling](https://openalex.org/A5007388482), [Jinlan Wang](https://openalex.org/A5020585562), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01773.
-    
-The oxygen source of oxygenates is the fundamental issue for CO2/CO electroreduction, which was firmly believed to originate from the gas feed (Ogas) for a long time. However, recent experiments have confirmed that most O atoms of the generated alcohols via CO reduction arise from the solvent (Oaq), indicating the existence of a rather mysterious "oxygen exchange" process. In this work, we solved this mechanistic puzzle using comprehensive computations. Our results revealed that high CO pressure enables COgas oxidation by surface *OaqH, which opens a pathway for oxygenate production. The generated *COgasOaqH can react with another *CO to form *COCOgasOaqH, which leads to the formation of a series of carboxyl-containing intermediates (RCOgasOaqH) in subsequent steps. Due to the dynamic ionization equilibrium, H+ moves rapidly between Ogas and Oaq via reversible "inner" proton transfer (*RCOgasOaqH ⇌ *R-COgasOaq– + H+ ⇌ *RCOaqOgasH). The oxygen exchange completes when *RCOaq forms via the dehydroxylation of a certain *RCOaqOgasH. The completed reaction pathways were further explored by using COgas reduction into C2H5OaqH as an example, which explains related experiments. Therefore, these results refresh the insights into CO2/CO electroreduction and give specific guidelines for the optimization of catalytic performance.    
-
-    
-
-## Photoelectrocatalytic Valorization of Biomass-Derived Succinic Acid into Ethylene Coupled with Hydrogen Production over an Ultrathin BiOx-Covered TiO2   
-
-OpenAlex: https://openalex.org/W4400296987    
-Open access: False
-    
-[Qiujin Shi](https://openalex.org/A5054718420), [Jing Li](https://openalex.org/A5100380981), [Y. Liu](https://openalex.org/A5049513056), [Kejian Kong](https://openalex.org/A5062306001), [An-Zhen Li](https://openalex.org/A5045851575), [Haohong Duan](https://openalex.org/A5066410903), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02314.
-    
-Photoelectrochemical (PEC) cells have been extensively studied in water splitting to produce H2, but the sluggish kinetics of the oxygen evolution reaction (OER) remains a huge challenge. Here, we reported a PEC strategy for biomass-derived succinic acid decarboxylation to replace OER, with the production of ethylene (C2H4) as a high-demand chemical. By synthesizing a bismuth oxide supported on titanium oxide (BiOx/TiO2) as the photoanode, C2H4 was efficiently produced with 85.7 μmol/h production rate and 40% Faradaic efficiency. Simultaneously, H2 productivity was improved by 6.5-fold compared with total water splitting (from 50.8 to 331.7 μmol/h). Structure characterizations show that BiOx forms an ultrathin layer (approximately 1.5 nm in thickness) on the TiO2 surface with a strong interfacial interaction, inducing the formation of a type-II heterojunction with efficient charge separation and transfer. Experimental data suggest that succinic acid molecules are adsorbed over the BiOx surface with its dual carboxyl groups in a deprotonated form, facilitating the decarboxylation of succinic acid to ethylene via a non-Kolbe route. This work demonstrates the great opportunity of PEC technology for transforming renewable biomass resources into value-added chemicals with promoted H2 fuel production under mild conditions.    
-
-    
-
-## Surface Reactive Oxygen from Support Corrects the Nominal Supported Metal Size Effect in Controlling the Reactivity for Low-Temperature CH4/CO2 Reforming   
-
-OpenAlex: https://openalex.org/W4400297457    
-Open access: False
-    
-[H.Y. Wang](https://openalex.org/A5001980487), [Yaozhong Hu](https://openalex.org/A5069396700), [Yongli Shen](https://openalex.org/A5031071648), [Ewa Chukwu](https://openalex.org/A5039156100), [Wei Xi](https://openalex.org/A5046299212), [Gurong Shen](https://openalex.org/A5059311716), [Jun Wang](https://openalex.org/A5100384715), [Meiqing Shen](https://openalex.org/A5083178184), [Ming Yang](https://openalex.org/A5048213108), [Tong‐Bu Lu](https://openalex.org/A5054438192), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02608.
-    
-Modulating the metal–support interfacial structure to achieve coke elimination is highly desired for low-temperature CH4/CO2 reforming. Nonetheless, explicit effects of optimizing the supported metal size and catalyst support properties remain convoluted and sometimes controversial. Herein, we designed different Pt–CeO2 interfaces by tuning the surface reactive oxygen (SRO) from ceria and the in situ aggregated nanoparticle size developed from single-atom Pt as independent parameters. Intriguingly, the often-emphasized nominal Pt size effect (0.3–10.5 nm) is secondary due to carbon deposition, while the catalyst with a high SRO concentration exhibits outstanding reactivity. We demonstrated that the SRO from ceria corrects the nominal supported metal size effect in controlling the low-temperature CH4/CO2 reforming reactivity. Specifically, in the Pt–Ox–Ce interfacial microstructure, SRO oxidizes the deposited carbon as an oxygen reservoir, making interfacial Pt atoms remain active from coke, and therefore determines the reactivity rather than the nominal Pt species size. In situ characterizations and theoretical studies explained the reaction mechanism of SRO and carbon elimination. This work provides new insights for coke-resistant catalyst design and the coke elimination mechanism.    
-
-    
 
 ## Synergistic Defect Sites and CoOx Nanoclusters in Polymeric Carbon Nitride for Enhanced Photocatalytic H2O2 Production   
 
@@ -121,7 +33,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400322286    
 Open access: False
     
-[Yidong Wang](https://openalex.org/A5064114531), [Yuanming Sun](https://openalex.org/A5039043697), [Tianying Liu](https://openalex.org/A5037207226), [Hang Zhou](https://openalex.org/A5032437433), [Jianqi Sun](https://openalex.org/A5064763149), [Liuzhou Gao](https://openalex.org/A5018506517), [Yi‐Ming Wang](https://openalex.org/A5016951566), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02607.
+[Yidong Wang](https://openalex.org/A5064114531), [Yan Sun](https://openalex.org/A5102951732), [Tianying Liu](https://openalex.org/A5037207226), [Hang Zhou](https://openalex.org/A5101392756), [Jing Sun](https://openalex.org/A5103113828), [Liuzhou Gao](https://openalex.org/A5018506517), [Yi‐Ming Wang](https://openalex.org/A5016951566), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02607.
     
 The key structure of β-aminosilanes has attracted significant interest because of their latent biological activities in the field of medicinal chemistry. However, the structural variety of β-aminosilanes has been significantly constrained by the absence of a comprehensive synthetic approach. Thus, the development of regiodivergent catalytic systems for the construction of structurally diverse β-aminosilanes via an intermolecular cycloaddition strategy would represent a significant addition to the limited toolkit available for their synthesis. We herein present an attractive approach for the synthesis of β-aminosilanes through the regioselective cycloaddition of N-allenamides with the expansion of silacyclobutanes catalyzed by Pd/PR3. Just by selecting a suitable protecting group of N-allenamides, the regioselectivity of the cycloaddition is completely switched to efficiently provide two regioisomers of silacyclic β-aminosilanes. Two regioselectivities were proceeded during the migratory insertion and reductive elimination process, the origin of which could be well rationalized using density functional theory calculations.    
 
@@ -176,7 +88,7 @@ Reverse water–gas shift (RWGS) reaction has attracted much attention as a pote
 OpenAlex: https://openalex.org/W4400344032    
 Open access: False
     
-[Xunlu Wang](https://openalex.org/A5048686427), [Jizhong Song](https://openalex.org/A5034899473), [Jan Ma](https://openalex.org/A5070673623), [Haiying Du](https://openalex.org/A5006709941), [Jiacheng Wang](https://openalex.org/A5062895804), [Lijia Liu](https://openalex.org/A5032632492), [Huashuai Hu](https://openalex.org/A5048949374), [Wei Chen](https://openalex.org/A5051171757), [Zhou Yin](https://openalex.org/A5044380530), [Yuandong Wang](https://openalex.org/A5040723634), [Minghui Yang](https://openalex.org/A5051180115), [Lingxia Zhang](https://openalex.org/A5060918760), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02369.
+[Xunlu Wang](https://openalex.org/A5048686427), [Jizhong Song](https://openalex.org/A5034899473), [Junqing Ma](https://openalex.org/A5100743741), [Hanxiao Du](https://openalex.org/A5101442641), [Jiacheng Wang](https://openalex.org/A5100727960), [Lijia Liu](https://openalex.org/A5032632492), [Huashuai Hu](https://openalex.org/A5048949374), [Wei Chen](https://openalex.org/A5051171757), [Zhou Yin](https://openalex.org/A5101701376), [Jiacheng Wang](https://openalex.org/A5040723634), [Minghui Yang](https://openalex.org/A5051180115), [Lingxia Zhang](https://openalex.org/A5060918760), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02369.
     
 Sluggish mass transfer of OH– in alkaline oxygen evolution reaction (OER), resulting from densely packed hydrated layers at the outer Helmholtz plane (OHP), becomes one of the main bottlenecks to improve overall efficiency of electrochemical devices. Herein, we report a hydration-layer-destabilizing route by binding formate oxyanions onto the catalyst surface to form OH– transport pathways, favorable for fast OH– transport and significantly improving OER activity. The electrochemical experiments indicate that surface formate-modified NiCo hydroxide (NiCo–HCOO–) shows increased OH– transfer kinetics, smaller overpotential, and higher turnover frequency (TOF) than that without surface formate modification. The theoretical calculations reveal that surface formate-induced hydrogen-bonding interaction with water molecules could destabilize densely packed hydrated potassium ion layers at the OHP, lowering OH– transport resistance and paving a pathway for OH– transfer. The assembled flow electrolyzer with the NiCo–HCOO– anode could operate at 400 mA cm–2 with only 2.1 V for over 300 h. This study provides an efficient strategy for designing high-activity OER electrocatalysts toward advanced energy conversion devices.    
 
@@ -374,7 +286,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400466004    
 Open access: False
     
-[Zhen-Lin Hou](https://openalex.org/A5062197457), [YH Tang](https://openalex.org/A5088423409), [Lai Yu](https://openalex.org/A5003559530), [Bo Yao](https://openalex.org/A5024407258), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02357.
+[Zhen-Lin Hou](https://openalex.org/A5062197457), [Yusha Tang](https://openalex.org/A5102703351), [Lai Yu](https://openalex.org/A5003559530), [Bo Yao](https://openalex.org/A5024407258), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02357.
     
 No abstract    
 
@@ -386,6 +298,50 @@ OpenAlex: https://openalex.org/W4400503468
 Open access: False
     
 [Ruifeng Wang](https://openalex.org/A5100658286), [Yaqi Chen](https://openalex.org/A5006373986), [Xin Shang](https://openalex.org/A5066059509), [Bo Liang](https://openalex.org/A5023234550), [Xiong Zhang](https://openalex.org/A5100442111), [Hongying Zhuo](https://openalex.org/A5068091889), [Hongmin Duan](https://openalex.org/A5091008250), [Xuning Li](https://openalex.org/A5077211208), [Xiaofeng Yang](https://openalex.org/A5024697319), [Xiong Su](https://openalex.org/A5003767122), [Yanqiang Huang](https://openalex.org/A5054330732), [Tao Zhang](https://openalex.org/A5100683157), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02252.
+    
+No abstract    
+
+    
+
+## Activation Heat Capacities in Pyridoxal Phosphate Enzymes   
+
+OpenAlex: https://openalex.org/W4400529689    
+Open access: False
+    
+[Jake P. Erbez](https://openalex.org/A5103309008), [Griffin H. Rangel](https://openalex.org/A5103309009), [Mark Davila](https://openalex.org/A5067161884), [Jackson A. Englade](https://openalex.org/A5103309010), [Alexander D. Erbez](https://openalex.org/A5103309011), [Jasmine Rattanpal](https://openalex.org/A5103309012), [Haocheng Li](https://openalex.org/A5101715115), [Y M Chen](https://openalex.org/A5026312590), [Michael D. Toney](https://openalex.org/A5078366579), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01959.
+    
+No abstract    
+
+    
+
+## Dynamic Bromine Vacancy-Mediated Photocatalytic Three-Step Three-Electron Oxygen Reduction to Hydroxyl Radicals   
+
+OpenAlex: https://openalex.org/W4400545912    
+Open access: False
+    
+[Na Wen](https://openalex.org/A5102200503), [Yingping Huang](https://openalex.org/A5101492678), [Yuantao Yang](https://openalex.org/A5052676484), [Hankun Wang](https://openalex.org/A5103183873), [Decheng Wang](https://openalex.org/A5069879150), [Haohao Chen](https://openalex.org/A5101971979), [Qintian Peng](https://openalex.org/A5018484928), [Xiao Kong](https://openalex.org/A5064809380), [Liqun Ye](https://openalex.org/A5009243555), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02674.
+    
+No abstract    
+
+    
+
+## Anionic Olefin Metathesis Catalysts Enable Modification of Unprotected Biomolecules in Water   
+
+OpenAlex: https://openalex.org/W4400549426    
+Open access: True
+    
+[Christian O. Blanco](https://openalex.org/A5056827531), [R.H. Castellanos](https://openalex.org/A5079793327), [Deryn E. Fogg](https://openalex.org/A5010060889), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02811.
+    
+No abstract    
+
+    
+
+## Mechanism of Ni-NHC CO2 Reduction Catalysis Predominantly Affording Formate via Attack of Metal Hydride to CO2   
+
+OpenAlex: https://openalex.org/W4400559731    
+Open access: False
+    
+[Chen Liao](https://openalex.org/A5101637787), [Kosei Yamauchi](https://openalex.org/A5039693008), [Ken Sakai](https://openalex.org/A5066627191), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02818.
     
 No abstract    
 
