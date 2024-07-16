@@ -1,8 +1,8 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Mon Jul 15 01:12:36 2024
+Created on Tue Jul 16 01:12:01 2024
 
-Found 98 results from 2024-07-08 to 2024-07-15
+Found 99 results from 2024-07-09 to 2024-07-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution]]
@@ -1183,6 +1183,27 @@ No abstract
 
     
 
+* Corrigendum to ‘Single atom catalysts supported on cyclo[18]carbon and its allotropes (B9N9 and Al9N9) for the hydrogen evolution and oxygen evolution reactions’ Surfaces and Interfaces Volume 42, Part A (2023) 103319  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400618052
+:TOPICS: Fuel Cell Membrane Technology, Accelerating Materials Innovation through Informatics, Boron Neutron Capture Therapy
+:PUBLICATION_DATE: 2024-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.surfin.2024.104787")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400618052"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400618052"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400618052"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400618052 (Open access: False)
+    
+[[https://openalex.org/A5051746447][Nuha Wazzan]], [[https://openalex.org/A5009902080][Prafulla K. Jha]], Surfaces and interfaces. None(None)] 2024. https://doi.org/10.1016/j.surfin.2024.104787 
+     
+No abstract    
+
+    
+
 * Highly Active Oxygen Evolution Reaction Catalyst Using Rhombohedral Boron Monosulfide  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4400441158
@@ -1834,6 +1855,27 @@ Little is known about oxygen utilization during infection by bacterial respirato
 
     
 
+* Revealing the Limitation Induced by Hydroxyl in Regulating Solvation Structure of Zn2+ and Overcoming Challenges with Hybrid Additives towards Highly Stable Zinc Anodes  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400431634
+:TOPICS: Aqueous Zinc-Ion Battery Technology, Perovskite Solar Cell Technology, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-07-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202401073")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400431634"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400431634"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400431634"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400431634 (Open access: False)
+    
+[[https://openalex.org/A5100707970][Fuxiang Li]], [[https://openalex.org/A5101332121][Ji Sun Yang]], [[https://openalex.org/A5100376911][Minghui Wang]], [[https://openalex.org/A5058640875][Xiang Feng]], [[https://openalex.org/A5073240631][Mingyan Li]], [[https://openalex.org/A5089797668][Hong Zheng]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], ChemSusChem. None(None)] 2024. https://doi.org/10.1002/cssc.202401073 
+     
+In the field of electrolyte design for aqueous zinc‐ion batteries (AZIBs), additives containing hydroxyl have been demonstrated to effectively modulate the solvation structure of Zn2+. However, reported studies typically focus solely on the effectiveness of hydroxyl while neglecting the issues that emerge during solvation structure regulation. The strong electron‐attracting capability of Zn2+ attracts electrons from the oxygen in hydroxyl, thereby weakening the strength of hydroxyl, the hydrogen evolution reaction (HER) is also pronounced. This work innovatively reveals the limitation of hydroxyl‐containing additives and proposes a synergistic regulation strategy based on hybrid additives. Arginine with a high isoelectric point is introduced into the electrolyte system containing hydroxyl additives. The protonation effect and electrostatic attraction of arginine enable it to absorb protons at the anode released by the weakened hydroxyl, thereby compensating for the limitation of hydroxyl additives. Under the synergistic action of hybrid additives, the Zn|Zn battery achieved stable deposition/stripping for over 1200 hours under 10 mA cm‐2 and 10 mAh cm‐2. Moreover, the Zn|Cu battery cycled for over 570 hours with a high Coulombic efficiency of 99.82%. This study presents a pioneering perspective for the further application of AZIBs.    
+
+    
+
 * Formation of neutron stars inside planetary nebulae via   accretion-induced collapse and core-merger-induced collapse from white dwarf   binaries  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4400434169
@@ -1876,27 +1918,6 @@ Understanding the chemical enrichment of different elements is crucial to gainin
 
     
 
-* Revealing the Limitation Induced by Hydroxyl in Regulating Solvation Structure of Zn2+ and Overcoming Challenges with Hybrid Additives towards Highly Stable Zinc Anodes  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400431634
-:TOPICS: Aqueous Zinc-Ion Battery Technology, Perovskite Solar Cell Technology, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-07-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202401073")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400431634"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400431634"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400431634"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400431634 (Open access: False)
-    
-[[https://openalex.org/A5100707970][Fuxiang Li]], [[https://openalex.org/A5101332121][Ji Sun Yang]], [[https://openalex.org/A5100376911][Minghui Wang]], [[https://openalex.org/A5058640875][Xiang Feng]], [[https://openalex.org/A5073240631][Mingyan Li]], [[https://openalex.org/A5089797668][Hong Zheng]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], ChemSusChem. None(None)] 2024. https://doi.org/10.1002/cssc.202401073 
-     
-In the field of electrolyte design for aqueous zinc‐ion batteries (AZIBs), additives containing hydroxyl have been demonstrated to effectively modulate the solvation structure of Zn2+. However, reported studies typically focus solely on the effectiveness of hydroxyl while neglecting the issues that emerge during solvation structure regulation. The strong electron‐attracting capability of Zn2+ attracts electrons from the oxygen in hydroxyl, thereby weakening the strength of hydroxyl, the hydrogen evolution reaction (HER) is also pronounced. This work innovatively reveals the limitation of hydroxyl‐containing additives and proposes a synergistic regulation strategy based on hybrid additives. Arginine with a high isoelectric point is introduced into the electrolyte system containing hydroxyl additives. The protonation effect and electrostatic attraction of arginine enable it to absorb protons at the anode released by the weakened hydroxyl, thereby compensating for the limitation of hydroxyl additives. Under the synergistic action of hybrid additives, the Zn|Zn battery achieved stable deposition/stripping for over 1200 hours under 10 mA cm‐2 and 10 mAh cm‐2. Moreover, the Zn|Cu battery cycled for over 570 hours with a high Coulombic efficiency of 99.82%. This study presents a pioneering perspective for the further application of AZIBs.    
-
-    
-
 * Element abundances of galactic RGB stars in the APO-K2 catalogue.   Dissimilarity in the scaling with [$\alpha$/Fe]  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4400484088
@@ -1915,27 +1936,6 @@ OpenAlex: https://openalex.org/W4400484088 (Open access: True)
 [[https://openalex.org/A5051901917][G. Valle]], [[https://openalex.org/A5076825008][M. Dell’Omodarme]], [[https://openalex.org/A5013158855][P. G. Prada Moroni]], [[https://openalex.org/A5054137091][S. Degl‘Innocenti]], arXiv (Cornell University). None(None)] 2024. https://doi.org/10.48550/arxiv.2407.05960  ([[https://arxiv.org/pdf/2407.05960][pdf]])
      
 We conducted an investigation on the chemical abundances of 4,316 stars in the red giant branch (RGB) phase from the recently released APO-K2 catalogue. Our aim was to characterize the abundance trends of the single elements with [$\alpha$/Fe], mainly focusing on C, N, and O, which are the most relevant for the estimation of stellar ages. The chemical analysis of the RGB sample involved cross-matching data from the APO-K2 catalogue with individual element abundances from APOGEE DR17. The analysis detected a statistically significant difference in the [(C+N+O)/Fe] - [$\alpha$/Fe] trend with respect to the simple $\alpha$-enhancement scenario. This difference remained robust across different choices for the reference solar mixture and potential zero-point calibrations of C and N abundances. The primary discrepancy was a steeper increase in [O/Fe] with [$\alpha$/Fe], reaching a 0.1 dex difference at [$\alpha$/Fe] = 0.3. Notably, the impact on the evolutionary timescale of such oxygen over-abundance with respect to the commonly adopted uniform $\alpha$-enhancement is rather limited. We verified that stellar models computed using an ad hoc O-rich mixture sped up the evolution by only 1% at [$\alpha$/Fe] = 0.3, due to the counterbalancing effects of O enrichment on both the evolutionary timescale and the Z-to-[Fe/H] relationship.    
-
-    
-
-* Stable Isotopes of Landfast Sea Ice as a Record of La Grande River Under-Ice Plume Dispersal  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400416135
-:TOPICS: Arctic Sea Ice Variability and Decline, Impacts of Climate Change on Glaciers and Water Availability, Anaerobic Methane Oxidation and Gas Hydrates
-:PUBLICATION_DATE: 2024-07-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1139/as-2024-0003")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400416135"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400416135"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400416135"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400416135 (Open access: True)
-    
-[[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A5076911944][Kaushik Gupta]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A5023673696][Jens K. Ehn]], Arctic science. None(None)] 2024. https://doi.org/10.1139/as-2024-0003 
-     
-Vertical profiles of salinity, and isotopic abundance ratios of hydrogen (δ2H ) and oxygen (@delta;18O) of 18 landfast ice cores, collected along the northeast coast of James Bay in March 2019, and one ice core collected in Belcher Islands, were used to obtain the winter timeseries of the spatiotemporal evolution of the under-ice plume of La Grande River (LGR), the dominant river in the area. Variability in the isotopic composition and salinity of the ice cores indicated changes to the water source composition at the ice-water interface when the ice layers formed. The increased presence of river water beneath the ice during January-March was marked by more negative isotopic ratios in the lower portion of the ice as river discharge was increased for hydroelectric production. River water was the source of ~43% of the ice in our ice core samples (n=320) with the interquartile range from 16% to 71%. The river water fractions incorporated into the ice indicate that LGR under-ice plume extended more than 75 km north and at least 30 km south of the river mouth for ~3 months. These findings correspond well with more challenging to obtain hydrographic observations. End-of-winter ice core sampling and analysis for isotopic abundance has potential as a tool to monitor dispersal of LGR discharge into the ice-covered coastal environment.    
 
     
 
@@ -1978,6 +1978,27 @@ OpenAlex: https://openalex.org/W4400449443 (Open access: True)
 [[https://openalex.org/A5100361631][Jun Li]], [[https://openalex.org/A5100689614][Xinglong Liu]], [[https://openalex.org/A5020146582][Xi Wu]], [[https://openalex.org/A5100656957][Zhongyi Liu]], [[https://openalex.org/A5033534918][Zaiwang Zhao]], [[https://openalex.org/A5024643475][Yi‐Feng Liu]], [[https://openalex.org/A5028780342][Shi Xue Dou]], [[https://openalex.org/A5050536257][Yao Xiao]], Advanced science. None(None)] 2024. https://doi.org/10.1002/advs.202405668 
      
 Abstract Near‐infrared (NIR) light powdered CO 2 photoreduction reaction is generally restricted to the separation efficiency of photogenerated carriers and the supply of active hydrogen (*H). Herein, the study reports a retrofitting hydrogenated MoO 3‐x (H‐MoO 3‐x ) nanosheet photocatalysts with Ru single atom substitution (Ru@H‐MoO 3‐x ) fabricated by one‐step solvothermal method. Experiments together with theoretical calculations demonstrate that the synergistic effect of Ru substitution and oxygen vacancy can not only inhibit the recombination of photogenerated carriers, but also facilitate the CO 2 adsorption/activation as well as the supply of *H. Compared with H‐MoO 3‐x , the Ru@H‐MoO 3‐x exhibit more favorable formation of *CHO in the process of *CO conversion due to the fast *H generation on electron‐rich Ru sites and transfer to *CO intermediates, leading to the preferential photoreduction of CO 2 to CH 4 with high selectivity. The optimized Ru@H‐MoO 3‐x exhibits a superior CO 2 photoreduction activity with CH 4 evolution rate of 111.6 and 39.0 µmol g catalyst −1 under full spectrum and NIR light irradiation, respectively, which is 8.8 and 15.0 times much higher than that of H‐MoO 3‐x . This work provides an in‐depth understanding at the atomic level on the design of NIR responsive photocatalyst for achieving the goal of carbon neutrality.    
+
+    
+
+* Stable Isotopes of Landfast Sea Ice as a Record of La Grande River Under-Ice Plume Dispersal  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400416135
+:TOPICS: Arctic Sea Ice Variability and Decline, Impacts of Climate Change on Glaciers and Water Availability, Anaerobic Methane Oxidation and Gas Hydrates
+:PUBLICATION_DATE: 2024-07-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1139/as-2024-0003")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400416135"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400416135"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400416135"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400416135 (Open access: True)
+    
+[[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A5076911944][Kaushik Gupta]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A5023673696][Jens K. Ehn]], Arctic science. None(None)] 2024. https://doi.org/10.1139/as-2024-0003 
+     
+Vertical profiles of salinity, and isotopic abundance ratios of hydrogen (δ2H ) and oxygen (@delta;18O) of 18 landfast ice cores, collected along the northeast coast of James Bay in March 2019, and one ice core collected in Belcher Islands, were used to obtain the winter timeseries of the spatiotemporal evolution of the under-ice plume of La Grande River (LGR), the dominant river in the area. Variability in the isotopic composition and salinity of the ice cores indicated changes to the water source composition at the ice-water interface when the ice layers formed. The increased presence of river water beneath the ice during January-March was marked by more negative isotopic ratios in the lower portion of the ice as river discharge was increased for hydroelectric production. River water was the source of ~43% of the ice in our ice core samples (n=320) with the interquartile range from 16% to 71%. The river water fractions incorporated into the ice indicate that LGR under-ice plume extended more than 75 km north and at least 30 km south of the river mouth for ~3 months. These findings correspond well with more challenging to obtain hydrographic observations. End-of-winter ice core sampling and analysis for isotopic abundance has potential as a tool to monitor dispersal of LGR discharge into the ice-covered coastal environment.    
 
     
 

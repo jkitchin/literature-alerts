@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 Jul 2024 01:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 01:12:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -570,6 +570,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.109</guid>
     </item>
     <item>
+      <title>Corrigendum to &#8216;Single atom catalysts supported on cyclo[18]carbon and its allotropes (B9N9 and Al9N9) for the hydrogen evolution and oxygen evolution reactions&#8217; Surfaces and Interfaces Volume 42, Part A (2023) 103319</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.104787</link>
+      <description>Nuha Wazzan, Prafulla K. Jha, Surfaces and interfaces. None(None)] 2024. https://openalex.org/W4400618052
+
+                No abstract</description>
+      <author>Nuha Wazzan, Prafulla K. Jha</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104787</guid>
+    </item>
+    <item>
       <title>Highly Active Oxygen Evolution Reaction Catalyst Using Rhombohedral Boron Monosulfide</title>
       <link>https://doi.org/10.1380/vss.67.333</link>
       <description>Linghui Li, Takahiro Kondo, Hyomen to shinku. 67(7)] 2024. https://openalex.org/W4400441158
@@ -880,6 +890,16 @@
       <guid isPermaLink="true">https://doi.org/10.1371/journal.ppat.1012084</guid>
     </item>
     <item>
+      <title>Revealing the Limitation Induced by Hydroxyl in Regulating Solvation Structure of Zn2+ and Overcoming Challenges with Hybrid Additives towards Highly Stable Zinc Anodes</title>
+      <link>https://doi.org/10.1002/cssc.202401073</link>
+      <description>Fuxiang Li, Ji Sun Yang, Minghui Wang, Xiang Feng, Mingyan Li, Hong Zheng, NULL AUTHOR_ID, NULL AUTHOR_ID, ChemSusChem. None(None)] 2024. https://openalex.org/W4400431634
+
+                In the field of electrolyte design for aqueous zinc&#8208;ion batteries (AZIBs), additives containing hydroxyl have been demonstrated to effectively modulate the solvation structure of Zn2+. However, reported studies typically focus solely on the effectiveness of hydroxyl while neglecting the issues that emerge during solvation structure regulation. The strong electron&#8208;attracting capability of Zn2+ attracts electrons from the oxygen in hydroxyl, thereby weakening the strength of hydroxyl, the hydrogen evolution reaction (HER) is also pronounced. This work innovatively reveals the limitation of hydroxyl&#8208;containing additives and proposes a synergistic regulation strategy based on hybrid additives. Arginine with a high isoelectric point is introduced into the electrolyte system containing hydroxyl additives. The protonation effect and electrostatic attraction of arginine enable it to absorb protons at the anode released by the weakened hydroxyl, thereby compensating for the limitation of hydroxyl additives. Under the synergistic action of hybrid additives, the Zn|Zn battery achieved stable deposition/stripping for over 1200 hours under 10 mA cm&#8208;2 and 10 mAh cm&#8208;2. Moreover, the Zn|Cu battery cycled for over 570 hours with a high Coulombic efficiency of 99.82%. This study presents a pioneering perspective for the further application of AZIBs.</description>
+      <author>Fuxiang Li, Ji Sun Yang, Minghui Wang, Xiang Feng, Mingyan Li, Hong Zheng, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401073</guid>
+    </item>
+    <item>
       <title>Formation of neutron stars inside planetary nebulae via
   accretion-induced collapse and core-merger-induced collapse from white dwarf
   binaries</title>
@@ -903,16 +923,6 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.04782</guid>
     </item>
     <item>
-      <title>Revealing the Limitation Induced by Hydroxyl in Regulating Solvation Structure of Zn2+ and Overcoming Challenges with Hybrid Additives towards Highly Stable Zinc Anodes</title>
-      <link>https://doi.org/10.1002/cssc.202401073</link>
-      <description>Fuxiang Li, Ji Sun Yang, Minghui Wang, Xiang Feng, Mingyan Li, Hong Zheng, NULL AUTHOR_ID, NULL AUTHOR_ID, ChemSusChem. None(None)] 2024. https://openalex.org/W4400431634
-
-                In the field of electrolyte design for aqueous zinc&#8208;ion batteries (AZIBs), additives containing hydroxyl have been demonstrated to effectively modulate the solvation structure of Zn2+. However, reported studies typically focus solely on the effectiveness of hydroxyl while neglecting the issues that emerge during solvation structure regulation. The strong electron&#8208;attracting capability of Zn2+ attracts electrons from the oxygen in hydroxyl, thereby weakening the strength of hydroxyl, the hydrogen evolution reaction (HER) is also pronounced. This work innovatively reveals the limitation of hydroxyl&#8208;containing additives and proposes a synergistic regulation strategy based on hybrid additives. Arginine with a high isoelectric point is introduced into the electrolyte system containing hydroxyl additives. The protonation effect and electrostatic attraction of arginine enable it to absorb protons at the anode released by the weakened hydroxyl, thereby compensating for the limitation of hydroxyl additives. Under the synergistic action of hybrid additives, the Zn|Zn battery achieved stable deposition/stripping for over 1200 hours under 10 mA cm&#8208;2 and 10 mAh cm&#8208;2. Moreover, the Zn|Cu battery cycled for over 570 hours with a high Coulombic efficiency of 99.82%. This study presents a pioneering perspective for the further application of AZIBs.</description>
-      <author>Fuxiang Li, Ji Sun Yang, Minghui Wang, Xiang Feng, Mingyan Li, Hong Zheng, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401073</guid>
-    </item>
-    <item>
       <title>Element abundances of galactic RGB stars in the APO-K2 catalogue.
   Dissimilarity in the scaling with [$\alpha$/Fe]</title>
       <link>https://doi.org/10.48550/arxiv.2407.05960</link>
@@ -922,16 +932,6 @@
       <author>G. Valle, M. Dell&#8217;Omodarme, P. G. Prada Moroni, S. Degl&#8216;Innocenti</author>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.05960</guid>
-    </item>
-    <item>
-      <title>Stable Isotopes of Landfast Sea Ice as a Record of La Grande River Under-Ice Plume Dispersal</title>
-      <link>https://doi.org/10.1139/as-2024-0003</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Kaushik Gupta, NULL AUTHOR_ID, Jens K. Ehn, Arctic science. None(None)] 2024. https://openalex.org/W4400416135
-
-                Vertical profiles of salinity, and isotopic abundance ratios of hydrogen (&#948;2H ) and oxygen (@delta;18O) of 18 landfast ice cores, collected along the northeast coast of James Bay in March 2019, and one ice core collected in Belcher Islands, were used to obtain the winter timeseries of the spatiotemporal evolution of the under-ice plume of La Grande River (LGR), the dominant river in the area. Variability in the isotopic composition and salinity of the ice cores indicated changes to the water source composition at the ice-water interface when the ice layers formed. The increased presence of river water beneath the ice during January-March was marked by more negative isotopic ratios in the lower portion of the ice as river discharge was increased for hydroelectric production. River water was the source of ~43% of the ice in our ice core samples (n=320) with the interquartile range from 16% to 71%. The river water fractions incorporated into the ice indicate that LGR under-ice plume extended more than 75 km north and at least 30 km south of the river mouth for ~3 months. These findings correspond well with more challenging to obtain hydrographic observations. End-of-winter ice core sampling and analysis for isotopic abundance has potential as a tool to monitor dispersal of LGR discharge into the ice-covered coastal environment.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Kaushik Gupta, NULL AUTHOR_ID, Jens K. Ehn</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1139/as-2024-0003</guid>
     </item>
     <item>
       <title>Constraints from Parallaxes and Average Period Spacings in the Asteroseismic Study of Eight Hydrogen-atmosphere Pulsating White Dwarfs</title>
@@ -952,6 +952,16 @@
       <author>Jun Li, Xinglong Liu, Xi Wu, Zhongyi Liu, Zaiwang Zhao, Yi&#8208;Feng Liu, Shi Xue Dou, Yao Xiao</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202405668</guid>
+    </item>
+    <item>
+      <title>Stable Isotopes of Landfast Sea Ice as a Record of La Grande River Under-Ice Plume Dispersal</title>
+      <link>https://doi.org/10.1139/as-2024-0003</link>
+      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Kaushik Gupta, NULL AUTHOR_ID, Jens K. Ehn, Arctic science. None(None)] 2024. https://openalex.org/W4400416135
+
+                Vertical profiles of salinity, and isotopic abundance ratios of hydrogen (&#948;2H ) and oxygen (@delta;18O) of 18 landfast ice cores, collected along the northeast coast of James Bay in March 2019, and one ice core collected in Belcher Islands, were used to obtain the winter timeseries of the spatiotemporal evolution of the under-ice plume of La Grande River (LGR), the dominant river in the area. Variability in the isotopic composition and salinity of the ice cores indicated changes to the water source composition at the ice-water interface when the ice layers formed. The increased presence of river water beneath the ice during January-March was marked by more negative isotopic ratios in the lower portion of the ice as river discharge was increased for hydroelectric production. River water was the source of ~43% of the ice in our ice core samples (n=320) with the interquartile range from 16% to 71%. The river water fractions incorporated into the ice indicate that LGR under-ice plume extended more than 75 km north and at least 30 km south of the river mouth for ~3 months. These findings correspond well with more challenging to obtain hydrographic observations. End-of-winter ice core sampling and analysis for isotopic abundance has potential as a tool to monitor dispersal of LGR discharge into the ice-covered coastal environment.</description>
+      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Kaushik Gupta, NULL AUTHOR_ID, Jens K. Ehn</author>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1139/as-2024-0003</guid>
     </item>
     <item>
       <title>Re&#8722;Os Isotope and PGE Abundance Systematics of Coast Range Ophiolite Peridotites and Chromitite, California: Insights into Fore-Arc Magmatic Processes</title>

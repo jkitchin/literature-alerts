@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Jul 15 01:12:41 2024
+Created on Tue Jul 16 01:12:04 2024
 
-Found 101 results from 2024-07-08 to 2024-07-15
+Found 100 results from 2024-07-09 to 2024-07-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -161,6 +161,28 @@ Electrochemical CO2 reduction to value‐added chemicals by renewable energy sou
 
     
 
+## Structure-performance relationships in MOF-derived electrocatalysts for CO2 reduction   
+
+OpenAlex: https://openalex.org/W4400405756    
+Open access: False
+    
+[NULL AUTHOR_ID](https://openalex.org/A9999999999), [Yuman Guo](https://openalex.org/A5048000675), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Yi Liu](https://openalex.org/A5100317129), [J Baeyens](https://openalex.org/A5015178257), [NULL AUTHOR_ID](https://openalex.org/A9999999999), Progress in energy and combustion science. 104(None)] 2024.https://doi.org/10.1016/j.pecs.2024.101175.
+    
+No abstract    
+
+    
+
+## Study on Spatial Effects of Influencing Factors and Zoning Strategies for PM2.5 and CO2 Synergistic Reduction   
+
+OpenAlex: https://openalex.org/W4400444660    
+Open access: True
+    
+[Zimu Jia](https://openalex.org/A5038805166), [Shida Sun](https://openalex.org/A5034597557), [Deming Zhao](https://openalex.org/A5100598930), [Yu Bo](https://openalex.org/A5104345692), [Zifa Wang](https://openalex.org/A5086855227), Toxics. 12(7)] 2024.https://doi.org/10.3390/toxics12070498.
+    
+China has identified the synergistic reduction of pollution and carbon emissions as a critical component of its environmental protection and climate mitigation efforts. An assessment of this synergy can provide clarity on the strategic management of both air pollution and carbon emissions. Due to the extensive regional differences in China, the spatial effects of influencing factors on this synergy exhibit variation across different provinces. In this study, the reduction indexes of PM2.5 and CO2 were calculated based on their reduction bases, reduction efforts, and reduction stabilities across provinces. Then, the synergistic reduction effect was assessed using an exponential function with the PM2.5 reduction index as the base and the CO2 reduction index as the exponent. Next, the MGWR model was applied in order to analyze the influencing factors of the synergistic reduction effect, considering natural settings, socioeconomic conditions, and external emission impacts. Finally, the k-means clustering method was utilized to classify provinces into different categories based on the degree of impact of each influencing factor. The results indicated that air circulation, vegetation, tertiary industry ratio, and emission reduction efficiency are major impact indicators that have a positive effect. The topography and emissions from neighboring provinces have a statistically significant negative impact. The spatial influences of different factors exhibit a distribution trend characterized by a high-high cluster and a low-low cluster. A total of 31 provinces are divided into three categories, and suggestions on the corresponding category are proposed, to provide a scientific reference to the synergistic reduction of PM2.5 and CO2.    
+
+    
+
 ## Local microenvironment modulation of zirconium-porphyrinic frameworks for CO2 reduction   
 
 OpenAlex: https://openalex.org/W4400459415    
@@ -194,45 +216,23 @@ Abstract Traditional catalytic techniques often encounter obstacles in the searc
 
     
 
-## Revisiting the electrochemical reduction of CO2 on Au25(SR)18− nanocluster   
-
-OpenAlex: https://openalex.org/W4400400371    
-Open access: False
-    
-[Dominic Alfonso](https://openalex.org/A5072077291), Chemical physics letters. None(None)] 2024.https://doi.org/10.1016/j.cplett.2024.141462.
-    
-No abstract    
-
-    
-
-## Structure-performance relationships in MOF-derived electrocatalysts for CO2 reduction   
-
-OpenAlex: https://openalex.org/W4400405756    
-Open access: False
-    
-[NULL AUTHOR_ID](https://openalex.org/A9999999999), [Yuman Guo](https://openalex.org/A5048000675), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Yi Liu](https://openalex.org/A5100317129), [J Baeyens](https://openalex.org/A5015178257), [NULL AUTHOR_ID](https://openalex.org/A9999999999), Progress in energy and combustion science. 104(None)] 2024.https://doi.org/10.1016/j.pecs.2024.101175.
-    
-No abstract    
-
-    
-
-## Study on Spatial Effects of Influencing Factors and Zoning Strategies for PM2.5 and CO2 Synergistic Reduction   
-
-OpenAlex: https://openalex.org/W4400444660    
-Open access: True
-    
-[Zimu Jia](https://openalex.org/A5038805166), [Shida Sun](https://openalex.org/A5034597557), [Deming Zhao](https://openalex.org/A5100598930), [Yu Bo](https://openalex.org/A5104345692), [Zifa Wang](https://openalex.org/A5086855227), Toxics. 12(7)] 2024.https://doi.org/10.3390/toxics12070498.
-    
-China has identified the synergistic reduction of pollution and carbon emissions as a critical component of its environmental protection and climate mitigation efforts. An assessment of this synergy can provide clarity on the strategic management of both air pollution and carbon emissions. Due to the extensive regional differences in China, the spatial effects of influencing factors on this synergy exhibit variation across different provinces. In this study, the reduction indexes of PM2.5 and CO2 were calculated based on their reduction bases, reduction efforts, and reduction stabilities across provinces. Then, the synergistic reduction effect was assessed using an exponential function with the PM2.5 reduction index as the base and the CO2 reduction index as the exponent. Next, the MGWR model was applied in order to analyze the influencing factors of the synergistic reduction effect, considering natural settings, socioeconomic conditions, and external emission impacts. Finally, the k-means clustering method was utilized to classify provinces into different categories based on the degree of impact of each influencing factor. The results indicated that air circulation, vegetation, tertiary industry ratio, and emission reduction efficiency are major impact indicators that have a positive effect. The topography and emissions from neighboring provinces have a statistically significant negative impact. The spatial influences of different factors exhibit a distribution trend characterized by a high-high cluster and a low-low cluster. A total of 31 provinces are divided into three categories, and suggestions on the corresponding category are proposed, to provide a scientific reference to the synergistic reduction of PM2.5 and CO2.    
-
-    
-
 ## Lightweight Design Innovation – A Case Study of 20% Weight Reduction and CO2 Emission Reduction in Door Panels   
 
 OpenAlex: https://openalex.org/W4400430775    
 Open access: False
     
 [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Paul Scholz](https://openalex.org/A5007139394), [NULL AUTHOR_ID](https://openalex.org/A9999999999), VDI Verlag eBooks. None(None)] 2024.https://doi.org/10.51202/9783181024355-213.
+    
+No abstract    
+
+    
+
+## Carbon-Based Materials for Low Concentration Co2 Capture and Electrocatalytic Reduction   
+
+OpenAlex: https://openalex.org/W4400484792    
+Open access: False
+    
+[Yanxi Hu](https://openalex.org/A5101395545), [Yangyang Ding](https://openalex.org/A5101511381), [Lily Y. Xie](https://openalex.org/A5068172137), [Hanyu Li](https://openalex.org/A5048387481), [Yujing Jiang](https://openalex.org/A5024776929), [Ke Gong](https://openalex.org/A5104213029), [Aidi Zhang](https://openalex.org/A5019136723), [Wenlei Zhu](https://openalex.org/A5048251870), [Yuanyuan Wang](https://openalex.org/A5100778957), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4891233.
     
 No abstract    
 
@@ -266,17 +266,6 @@ OpenAlex: https://openalex.org/W4400496350
 Open access: False
     
 [Shuai Hao](https://openalex.org/A5009715982), [Kaveh Edalati](https://openalex.org/A5089538318), [Qingsheng Gao](https://openalex.org/A5044287015), [Huaijun Lin](https://openalex.org/A5090512624), Scripta materialia. 252(None)] 2024.https://doi.org/10.1016/j.scriptamat.2024.116268.
-    
-No abstract    
-
-    
-
-## Carbon-Based Materials for Low Concentration Co2 Capture and Electrocatalytic Reduction   
-
-OpenAlex: https://openalex.org/W4400484792    
-Open access: False
-    
-[Yanxi Hu](https://openalex.org/A5101395545), [Yangyang Ding](https://openalex.org/A5101511381), [Lily Y. Xie](https://openalex.org/A5068172137), [Hanyu Li](https://openalex.org/A5048387481), [Yujing Jiang](https://openalex.org/A5024776929), [Ke Gong](https://openalex.org/A5104213029), [Aidi Zhang](https://openalex.org/A5019136723), [Wenlei Zhu](https://openalex.org/A5048251870), [Yuanyuan Wang](https://openalex.org/A5100778957), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4891233.
     
 No abstract    
 
@@ -348,17 +337,6 @@ No abstract
 
     
 
-## Au depositing and Mg doping synergistically regulates In2O3 photocatalyst for promoting CO2 reduction and CH4 exclusive generation   
-
-OpenAlex: https://openalex.org/W4400427821    
-Open access: False
-    
-[NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), Inorganic chemistry frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi01381f.
-    
-The photocatalytic reduction of carbon dioxide (CO2) into methane (CH4) is of great significance in the field of energy conversion. In this study, magnesium-gold (Mg-Au) bimetallic-modified indium oxide (In2O3) microspheres...    
-
-    
-
 ## Independent hybrid energy systems using reliable renewable energy sources for providing sustainable power and CO2 emission reduction   
 
 OpenAlex: https://openalex.org/W4400490511    
@@ -367,6 +345,17 @@ Open access: False
 [A. Mohamedyaseen](https://openalex.org/A5014312248), [R. Ayyappa](https://openalex.org/A5100497362), [Muntather Almusawi](https://openalex.org/A5088524198), [Kanchan Yadav](https://openalex.org/A5101692489), [Allaeva Gulchekhra Jalgasovna](https://openalex.org/A5100497363), [M. Murali](https://openalex.org/A5037897243), [Takkellapati Venkata Suneetha](https://openalex.org/A5100497364), No host. None(None)] 2023.https://doi.org/10.1109/icteasd57136.2023.10585072.
     
 No abstract    
+
+    
+
+## Au depositing and Mg doping synergistically regulates In2O3 photocatalyst for promoting CO2 reduction and CH4 exclusive generation   
+
+OpenAlex: https://openalex.org/W4400427821    
+Open access: False
+    
+[NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), Inorganic chemistry frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi01381f.
+    
+The photocatalytic reduction of carbon dioxide (CO2) into methane (CH4) is of great significance in the field of energy conversion. In this study, magnesium-gold (Mg-Au) bimetallic-modified indium oxide (In2O3) microspheres...    
 
     
 
@@ -612,17 +601,6 @@ Hydrothermal carbonization (HTC) serves as a sustainable method to transform pin
 
     
 
-## BIOMASS GASIFICATION FOR HYDROGEN PRODUCTION   
-
-OpenAlex: https://openalex.org/W4400499249    
-Open access: False
-    
-[Afor Avwioroko](https://openalex.org/A5099400569), Engineering science & tecnology journal. 4(2)] 2023.https://doi.org/10.51594/estj.v4i2.1289.
-    
-Biomass gasification is emerging as a promising technology for producing hydrogen, addressing the dual challenges of sustainable energy supply and environmental conservation. This process converts biomass into syngas—a mixture primarily composed of hydrogen, carbon monoxide, and carbon dioxide—through thermal decomposition in a controlled environment. The syngas is then processed to extract hydrogen, which can serve as a clean fuel for various applications, including transportation and industrial processes. This paper provides an overview of the biomass gasification process, detailing suitable biomass feedstock types and gasifier types, such as fixed-bed, fluidized-bed, and entrained-flow gasifiers. It explores the conversion of syngas to hydrogen, highlighting essential catalytic reforming and purification techniques for producing high-purity hydrogen. The environmental benefits of this technology includes the utilization of renewable resources and reduction of greenhouse gas emissions compared to fossil fuel-based hydrogen production. Economically, biomass gasification offers a feasible pathway for decentralized hydrogen production, potentially lowering transportation costs and enhancing energy security, especially in biomass-rich regions. However, the deployment of biomass gasification technology is not void of challenges – some common challenges with biomass gasification technology include coping with the variability of biomass feedstock, tar formation, and the need for technological advancements to improve efficiency and scalability. This paper also discusses ongoing research and potential innovations aimed at overcoming these obstacles, ensuring biomass gasification's viability as a key player in the future hydrogen economy. Through case studies and real-world applications, this paper illustrates the practical implementation and successes of biomass gasification projects, offering valuable insights into best practices and lessons learned. In conclusion, biomass gasification stands out as a sustainable and economically viable solution for hydrogen production, with the potential to significantly advance global clean energy goals. Keywords: Biomass, Gasification, Hydrogen, Production.    
-
-    
-
 ## Global Trends in the Research and Development of Petrochemical Waste Gas from 1981 to 2022   
 
 OpenAlex: https://openalex.org/W4400578462    
@@ -631,6 +609,17 @@ Open access: True
 [Mengting Wu](https://openalex.org/A5041112199), [Wei Liu](https://openalex.org/A5100432020), [Zhifei Ma](https://openalex.org/A5025280962), [Tian Qin](https://openalex.org/A5023381435), [Ying Feng](https://openalex.org/A5066922088), [Yalan Zhang](https://openalex.org/A5100747319), [Ning Cao](https://openalex.org/A5103257557), [Xianchuan Xie](https://openalex.org/A5012168017), [Sunlin Chi](https://openalex.org/A5102681086), [Jinying Xu](https://openalex.org/A5102718620), [一朗 漆崎](https://openalex.org/A5028541318), Sustainability. 16(14)] 2024.https://doi.org/10.3390/su16145972.
     
 As a highly energy-intensive and carbon-emitting industry with significant emissions of volatile organic compounds (VOCs), the petroleum and chemical industry is a major contributor to the global greenhouse effect and ozone layer destruction. Improper treatment of petrochemical waste gas (PWG) seriously harms human health and the natural environment. This study uses CiteSpace and VOSviewer to conduct a scientometric analysis of 1384 scholarly works on PWG and carbon sequestration published between 1981 and 2022, revealing the basic characteristics, knowledge base, research topic evolution, and research hotspots of the field. The results show the following: (1) In the early stages of the petrochemical industry, it was processed tail gas, plant leakage waste gas, and combustion flue gas that were investigated in PWG research. (2) Later, green environmental protection technology was widely studied in the field of PWG treatment, such as biotechnology, catalytic oxidation technology, membrane separation technology, etc., in order to achieve efficient, low energy consumption and low emissions of waste gas treatment, and the number of publications related to this topic has increased rapidly. In addition, researchers studied the internet of things and technology integration, such as the introduction of artificial intelligence, big data analysis, and other technologies, to improve the accuracy and efficiency of exhaust gas monitoring, control, and management. (3) The department has focused on how to reduce emissions by optimizing petrochemical process lines or improving energy efficiency. Emission reduction and low-carbon transition in the petrochemical industry will become the main trend in the future. Switching from renewable carbon to feedstock carbon derived from captured carbon dioxide, biomass, or recycled chemicals has become an attractive strategy to help curb emissions from the chemical industry. The results of our analysis can provide funding agencies and research groups with information to better understand the global trends and directions that have emerged in this field from 1981 to 2022 and serve as a reference for future research.    
+
+    
+
+## BIOMASS GASIFICATION FOR HYDROGEN PRODUCTION   
+
+OpenAlex: https://openalex.org/W4400499249    
+Open access: False
+    
+[Afor Avwioroko](https://openalex.org/A5099400569), Engineering science & tecnology journal. 4(2)] 2023.https://doi.org/10.51594/estj.v4i2.1289.
+    
+Biomass gasification is emerging as a promising technology for producing hydrogen, addressing the dual challenges of sustainable energy supply and environmental conservation. This process converts biomass into syngas—a mixture primarily composed of hydrogen, carbon monoxide, and carbon dioxide—through thermal decomposition in a controlled environment. The syngas is then processed to extract hydrogen, which can serve as a clean fuel for various applications, including transportation and industrial processes. This paper provides an overview of the biomass gasification process, detailing suitable biomass feedstock types and gasifier types, such as fixed-bed, fluidized-bed, and entrained-flow gasifiers. It explores the conversion of syngas to hydrogen, highlighting essential catalytic reforming and purification techniques for producing high-purity hydrogen. The environmental benefits of this technology includes the utilization of renewable resources and reduction of greenhouse gas emissions compared to fossil fuel-based hydrogen production. Economically, biomass gasification offers a feasible pathway for decentralized hydrogen production, potentially lowering transportation costs and enhancing energy security, especially in biomass-rich regions. However, the deployment of biomass gasification technology is not void of challenges – some common challenges with biomass gasification technology include coping with the variability of biomass feedstock, tar formation, and the need for technological advancements to improve efficiency and scalability. This paper also discusses ongoing research and potential innovations aimed at overcoming these obstacles, ensuring biomass gasification's viability as a key player in the future hydrogen economy. Through case studies and real-world applications, this paper illustrates the practical implementation and successes of biomass gasification projects, offering valuable insights into best practices and lessons learned. In conclusion, biomass gasification stands out as a sustainable and economically viable solution for hydrogen production, with the potential to significantly advance global clean energy goals. Keywords: Biomass, Gasification, Hydrogen, Production.    
 
     
 
@@ -656,6 +645,17 @@ Copper-based nanoparticles are key electrocatalysts for CO2 electrochemical redu
 
     
 
+## Core Flooding Experiments on the Impact of CO2-EOR on the Petrophysical Properties and Oil Recovery Parameters of Reservoir Sandstones in Kazakhstan   
+
+OpenAlex: https://openalex.org/W4400531088    
+Open access: True
+    
+[Ainash Shabdirova](https://openalex.org/A5078571231), [Ashirgul Kozhagulova](https://openalex.org/A5090490986), [Yernazar Samenov](https://openalex.org/A5093391828), [Rinat Merbayev](https://openalex.org/A5103309368), [Ainur Niyazbayeva](https://openalex.org/A5015271192), [Daryn Shabdirov](https://openalex.org/A5006406499), Geosciences. 14(7)] 2024.https://doi.org/10.3390/geosciences14070185.
+    
+This study investigates the impact of CO2-enhanced oil recovery (CO2-EOR) on the petrophysical properties and oil recovery potential of sandstone reservoirs in the oilfields located in the east-southern Precaspian region of Kazakhstan. Despite the recognized potential of CO2-EOR for improving oil recovery and aiding carbon sequestration, there is limited understanding of how CO2-EOR specifically affects the petrophysical properties of sandstone reservoirs in this region. Laboratory experiments were conducted using two core samples from the selected oilfields to examine changes in porosity, permeability, and oil recovery coefficients. The results demonstrated that porosity changes ranged from a slight increase of 1.1% to a decrease of 1.5%, while permeability reduction was significant, with decreases ranging from 29% to 50% due to clay alteration and halite precipitation. The oil recovery coefficient after CO2 flooding was found to be between 0.49 and 0.54. These findings underscore the complex interactions between CO2 and reservoir rocks, emphasizing the need for tailored EOR strategies in different geological settings.    
+
+    
+
 ## Fabrication and Characterization of PLA/PBAT Blends, Blend-Based Nanocomposites, and Their Supercritical Carbon Dioxide-Induced Foams   
 
 OpenAlex: https://openalex.org/W4400486574    
@@ -678,14 +678,14 @@ The major challenge in the current context of a rising world’s energy demand i
 
     
 
-## Core Flooding Experiments on the Impact of CO2-EOR on the Petrophysical Properties and Oil Recovery Parameters of Reservoir Sandstones in Kazakhstan   
+## Ammonia and Greenhouse Gas Emissions from Organic Manure Composting: The Effect of Membrane Cover   
 
-OpenAlex: https://openalex.org/W4400531088    
+OpenAlex: https://openalex.org/W4400424679    
 Open access: True
     
-[Ainash Shabdirova](https://openalex.org/A5078571231), [Ashirgul Kozhagulova](https://openalex.org/A5090490986), [Yernazar Samenov](https://openalex.org/A5093391828), [Rinat Merbayev](https://openalex.org/A5103309368), [Ainur Niyazbayeva](https://openalex.org/A5015271192), [Daryn Shabdirov](https://openalex.org/A5006406499), Geosciences. 14(7)] 2024.https://doi.org/10.3390/geosciences14070185.
+[NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Muhammad Wajahat Ramay](https://openalex.org/A5080131085), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Csaba Gyuricza](https://openalex.org/A5071579130), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [László Aleksza](https://openalex.org/A5022038861), Agronomy. 14(7)] 2024.https://doi.org/10.3390/agronomy14071471.
     
-This study investigates the impact of CO2-enhanced oil recovery (CO2-EOR) on the petrophysical properties and oil recovery potential of sandstone reservoirs in the oilfields located in the east-southern Precaspian region of Kazakhstan. Despite the recognized potential of CO2-EOR for improving oil recovery and aiding carbon sequestration, there is limited understanding of how CO2-EOR specifically affects the petrophysical properties of sandstone reservoirs in this region. Laboratory experiments were conducted using two core samples from the selected oilfields to examine changes in porosity, permeability, and oil recovery coefficients. The results demonstrated that porosity changes ranged from a slight increase of 1.1% to a decrease of 1.5%, while permeability reduction was significant, with decreases ranging from 29% to 50% due to clay alteration and halite precipitation. The oil recovery coefficient after CO2 flooding was found to be between 0.49 and 0.54. These findings underscore the complex interactions between CO2 and reservoir rocks, emphasizing the need for tailored EOR strategies in different geological settings.    
+The current scientific literature predominantly focuses on pilot-scale studies concerning the effectiveness of membrane covers in reducing gas emissions during cattle manure composting. Our study centers on the application of a leading market commercial membrane cover (ePTE-TEXcomm) and a locally manufactured one (ProfiCover®) at industrial processing levels, evaluating their efficacy in mitigating gas emission during the fifth day of the thermophilic phase. Taking into account material inhomogeneities, work environment impact, and efficiency, the results are characteristic of industrial-scale processes rarely discussed in the scientific literature. Our results, obtained with a portable gas sampler and FTIR spectroscopy measurements using corresponding standards, indicate that ePTE-TEXcomm manifested a reduction of 90.8% for NH3 and 59.6% for CO2. CH4 emissions increased, suggesting their potential entrapment. N2O and propane equivalent experienced reductions of 23.1% and 44.8%, respectively. On the other hand, ProfiCover® presented emission reductions for NH3 and CO2 of 93.3% and 85.9%, respectively. CH4, contrasting with ePTE-TEXcomm, showed a significant reduction of 55.6%. N2O and propane equivalent followed with reductions of 56.7% and 84.5%, respectively. All of this divergence in performance implies a potential trade-off in emission reduction efficacy between the covers. Knowledge sharing between researchers and industry partners is key to translating these technologies into widespread adoption.    
 
     
 
@@ -697,17 +697,6 @@ Open access: True
 [Guanhua Xu](https://openalex.org/A5102859143), [xudong qiu](https://openalex.org/A5104347657), [xiaoguang li](https://openalex.org/A5104347658), ECS journal of solid state science and technology. None(None)] 2024.https://doi.org/10.1149/2162-8777/ad620f.
     
 Abstract Highly selective conversion of CO2 into CO molecules remains a major challenge in electrocatalytic CO2 reduction reactions, and metallic silver-based materials have great potential. However, the selectivity and activity of traditional silver (Ag)-based materials cannot reach the desired level, and the development of new Ag-based materials has become a hot research topic. Here, novel ag-glomerated spore-shaped Ag nanomaterials are reported for the efficient reduction of CO2 to CO. The unique nanostructures endowed with larger specific surface area, and the spore-like dispersed Ag nanoparticles (NPs) have more unsaturated Ag sites, which endowed the catalysts with higher intrinsic activity. Electrochemical tests show that spore-like Ag can obtain a Faraday efficiency (FE) of 95.6% at -1 V vs. RHE, which is much higher than that of Ag nanowires (NWs) (73%) and ordinary Ag NPs (83%) synthesized in the same period. By using the three different morphologies of Ag synthesized as a research platform and statistically comparing the FE in the corresponding voltage interval, we obtained the influence of morphology effect on the selectivity of CO product production by electrocatalytic CO2 production over Ag-based catalysts, which can be further used as a guideline for catalyst development.    
-
-    
-
-## Ammonia and Greenhouse Gas Emissions from Organic Manure Composting: The Effect of Membrane Cover   
-
-OpenAlex: https://openalex.org/W4400424679    
-Open access: True
-    
-[NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Muhammad Wajahat Ramay](https://openalex.org/A5080131085), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Csaba Gyuricza](https://openalex.org/A5071579130), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [László Aleksza](https://openalex.org/A5022038861), Agronomy. 14(7)] 2024.https://doi.org/10.3390/agronomy14071471.
-    
-The current scientific literature predominantly focuses on pilot-scale studies concerning the effectiveness of membrane covers in reducing gas emissions during cattle manure composting. Our study centers on the application of a leading market commercial membrane cover (ePTE-TEXcomm) and a locally manufactured one (ProfiCover®) at industrial processing levels, evaluating their efficacy in mitigating gas emission during the fifth day of the thermophilic phase. Taking into account material inhomogeneities, work environment impact, and efficiency, the results are characteristic of industrial-scale processes rarely discussed in the scientific literature. Our results, obtained with a portable gas sampler and FTIR spectroscopy measurements using corresponding standards, indicate that ePTE-TEXcomm manifested a reduction of 90.8% for NH3 and 59.6% for CO2. CH4 emissions increased, suggesting their potential entrapment. N2O and propane equivalent experienced reductions of 23.1% and 44.8%, respectively. On the other hand, ProfiCover® presented emission reductions for NH3 and CO2 of 93.3% and 85.9%, respectively. CH4, contrasting with ePTE-TEXcomm, showed a significant reduction of 55.6%. N2O and propane equivalent followed with reductions of 56.7% and 84.5%, respectively. All of this divergence in performance implies a potential trade-off in emission reduction efficacy between the covers. Knowledge sharing between researchers and industry partners is key to translating these technologies into widespread adoption.    
 
     
 
@@ -832,6 +821,17 @@ This study evaluates the efficiency of biodegradable polyurethane foams as therm
 
     
 
+## An audit of corporate decarbonisation ambition against low-carbon futures.   
+
+OpenAlex: https://openalex.org/W4400459950    
+Open access: False
+    
+[Iain S. Weaver](https://openalex.org/A5058299311), [Jesse F. Abrams](https://openalex.org/A5045602714), [Jack Oliver](https://openalex.org/A5102703280), [Nikolaos Dimakis](https://openalex.org/A5093002885), [Andrew Parry](https://openalex.org/A5035840374), [Timothy M. Lenton](https://openalex.org/A5066057430), No host. None(None)] 2024.https://doi.org/10.21203/rs.3.rs-3367979/v2.
+    
+Abstract Atmospheric greenhouse gas concentration has been steadily increasing since the 19th century, causing global warming. Despite efforts to reduce emissions, current projections anticipate a significant increase in global mean temperature by the end of the century, which may push us beyond a safe and just operating space. We must develop emissions pathways that take into account renewable technology innovation, climate policy development and consumer behavior change. In this manuscript we assess corporate emissions reduction ambition in the context of reduction pathways, and in doing so show that company reporting has reached a scale and quality that it can be used to supplement global emissions forecasting. We find emissions disclosures of target-setting companies to account for roughly a fifth of global CO2 emissions and three-fifths of total market capitalisation. Of these, we find near-term targets to be consistent with the aggressive reduction requirements of the divergent net-zero scenario published by the Network for Greening the Financial System, but commitments to 2050 are lacking. There is a large disparity between the total market capitalisation of disclosing companies and the total emissions they cover, a disconnect which we emphasise must be addressed by future    
+
+    
+
 ## A CRITICAL EXAMINATION OF THE CONSTRUCTION SECTOR IN TURKEY IN TERMS OF SUSTAINABILITY   
 
 OpenAlex: https://openalex.org/W4400496991    
@@ -851,17 +851,6 @@ Open access: True
 [Emanuil-Petru Ovadiuc](https://openalex.org/A5099293998), [Răzvan Calotă](https://openalex.org/A5032734534), [Ilinca Năstase](https://openalex.org/A5021878472), [Florin Bode](https://openalex.org/A5068437670), Fire. 7(7)] 2024.https://doi.org/10.3390/fire7070244.
     
 The increasing concerns about CO2 emissions and climate change have pointed out the urgency of promoting sustainability in the building sector. One promising solution to enhance the energy efficiency of buildings and diminish environmental impact is the integration of phase-change materials (PCMs) into ventilated façade systems. This review article critically examines the current state of research on this innovative approach, with a particular focus on fire safety considerations. The paper explores the integration of PCM into ventilated façades, highlighting the potential for significant improvements in energy consumption, thermal comfort, and reductions in CO2 emissions. However, the flammability of PCMs introduces substantial fire safety challenges that must be addressed to ensure the safe application of this solution. The fire safety of both ventilated façades and PCMs is approached, followed by specific fire safety concerns when PCMs are integrated into ventilated façade systems. The conclusion states that while the integration of PCMs into ventilated façades offers substantial environmental benefits, attention to fire safety is essential. This necessitates the implementation of rigorous fire protection measures during the design and construction phases. By addressing both the environmental advantages and fire safety challenges, this review aims to provide a comprehensive understanding of the potential and limitations of PCM-integrated ventilated façades, offering valuable insights for researchers, engineers, and policymakers in the field of sustainable buildings.    
-
-    
-
-## An audit of corporate decarbonisation ambition against low-carbon futures.   
-
-OpenAlex: https://openalex.org/W4400459950    
-Open access: False
-    
-[Iain S. Weaver](https://openalex.org/A5058299311), [Jesse F. Abrams](https://openalex.org/A5045602714), [Jack Oliver](https://openalex.org/A5102703280), [Nikolaos Dimakis](https://openalex.org/A5093002885), [Andrew Parry](https://openalex.org/A5035840374), [Timothy M. Lenton](https://openalex.org/A5066057430), No host. None(None)] 2024.https://doi.org/10.21203/rs.3.rs-3367979/v2.
-    
-Abstract Atmospheric greenhouse gas concentration has been steadily increasing since the 19th century, causing global warming. Despite efforts to reduce emissions, current projections anticipate a significant increase in global mean temperature by the end of the century, which may push us beyond a safe and just operating space. We must develop emissions pathways that take into account renewable technology innovation, climate policy development and consumer behavior change. In this manuscript we assess corporate emissions reduction ambition in the context of reduction pathways, and in doing so show that company reporting has reached a scale and quality that it can be used to supplement global emissions forecasting. We find emissions disclosures of target-setting companies to account for roughly a fifth of global CO2 emissions and three-fifths of total market capitalisation. Of these, we find near-term targets to be consistent with the aggressive reduction requirements of the divergent net-zero scenario published by the Network for Greening the Financial System, but commitments to 2050 are lacking. There is a large disparity between the total market capitalisation of disclosing companies and the total emissions they cover, a disconnect which we emphasise must be addressed by future    
 
     
 
@@ -932,17 +921,6 @@ Self-leveling mortars are a product that stands out in the market for optimizing
 
     
 
-## Evaluation of proposals from key suppliers of small-scale photovoltaic installations for single-family homes considering current regulations and environmental and economic criteria—A case study in Malaga, Spain   
-
-OpenAlex: https://openalex.org/W4400516247    
-Open access: True
-    
-[Enrique Navarrete de Gálvez](https://openalex.org/A5078678417), [Luis Rodríguez-Passolas Cantal](https://openalex.org/A5100506331), [Francisco José Ortíz Zamora](https://openalex.org/A5103938783), [Shakir Mohamed](https://openalex.org/A5084530286), [Laia Miravet Garret](https://openalex.org/A5021734830), Journal of infrastructure, policy and development. 8(6)] 2024.https://doi.org/10.24294/jipd.v8i6.5205.
-    
-The economic viability of a photovoltaic (PV) installation depends on regulations regarding administrative, technical and economic conditions associated with self-consumption and the sale of surplus production. Royal Decree (RD) 244/2019 is the Spanish legislation of reference for this case study, in which we analyse and compare PV installation offers by key suppliers. The proposals are not optimal in RD 244/2019 terms and appear not to fully contemplate power generation losses and seem to shift a representative percentage of consumption to the production period. In our case study of a residential dwelling, the best option corresponds to a 5 kWp installation with surplus sale to the market, with a payback period of 18 years and CO2 emission reductions of 1026 kg/year. Demand-side management offers a potential improvement of 6%–21.8%. Based on the increase in electricity prices since 2020, the best option offers savings of up to €1507.74 and amortization in 4.24 years. Considering costs and savings, sale to the market could be considered as the only feasible regulatory mechanism for managing surpluses, accompanied by measures to facilitate administrative procedures and guarantees for end users.    
-
-    
-
 ## Optimising solar: A techno-economic assessment and government facility compensation framework power generation   
 
 OpenAlex: https://openalex.org/W4400454504    
@@ -954,6 +932,17 @@ Abstract. In light of the necessity to meet growing energy demands while minimis
 
     
 
+## Evaluation of proposals from key suppliers of small-scale photovoltaic installations for single-family homes considering current regulations and environmental and economic criteria—A case study in Malaga, Spain   
+
+OpenAlex: https://openalex.org/W4400516247    
+Open access: True
+    
+[Enrique Navarrete de Gálvez](https://openalex.org/A5078678417), [Luis Rodríguez-Passolas Cantal](https://openalex.org/A5100506331), [Francisco José Ortíz Zamora](https://openalex.org/A5103938783), [Shakir Mohamed](https://openalex.org/A5084530286), [Laia Miravet Garret](https://openalex.org/A5021734830), Journal of infrastructure, policy and development. 8(6)] 2024.https://doi.org/10.24294/jipd.v8i6.5205.
+    
+The economic viability of a photovoltaic (PV) installation depends on regulations regarding administrative, technical and economic conditions associated with self-consumption and the sale of surplus production. Royal Decree (RD) 244/2019 is the Spanish legislation of reference for this case study, in which we analyse and compare PV installation offers by key suppliers. The proposals are not optimal in RD 244/2019 terms and appear not to fully contemplate power generation losses and seem to shift a representative percentage of consumption to the production period. In our case study of a residential dwelling, the best option corresponds to a 5 kWp installation with surplus sale to the market, with a payback period of 18 years and CO2 emission reductions of 1026 kg/year. Demand-side management offers a potential improvement of 6%–21.8%. Based on the increase in electricity prices since 2020, the best option offers savings of up to €1507.74 and amortization in 4.24 years. Considering costs and savings, sale to the market could be considered as the only feasible regulatory mechanism for managing surpluses, accompanied by measures to facilitate administrative procedures and guarantees for end users.    
+
+    
+
 ## Decomposition Analysis of Carbon Emission Drivers and Peaking Pathways for Key Sectors under China’s Dual Carbon Goals: A Case Study of Jiangxi Province, China   
 
 OpenAlex: https://openalex.org/W4400410302    
@@ -962,28 +951,6 @@ Open access: True
 [Xinjie Jiang](https://openalex.org/A5009561425), [Fei Xie](https://openalex.org/A5031284920), Sustainability. 16(13)] 2024.https://doi.org/10.3390/su16135811.
     
 Clarifying the factors influencing CO2 emissions and their peaking pathways in major sectors holds significant practical importance for achieving regional dual-carbon goals. This paper takes Jiangxi, a less developed demonstration zone in central China, as an example. It pioneeringly combines the LMDI method, Tapio decoupling model, and LEAP model to multi-dimensionally analyze the driving mechanisms, evolution patterns, and dynamic relationships with the economic development of carbon emissions in Jiangxi’s key sectors from 2007 to 2021. It also explores the future carbon emission trends and peaking potentials of various sectors under different scenarios. Our results show that (1) Carbon emissions in various sectors in Jiangxi have continued to grow over the past fifteen years, and although some sectors have seen a slowdown in emission growth, most still rely on traditional fossil fuels; (2) Economic growth and industrial structure effects are the main drivers of carbon emission increases, with a general trend towards decoupling achieved across sectors, while agriculture, forestry, animal husbandry and fishery, and ferrous metal smelting have shown a decline in their decoupling status; (3) In the carbon reduction and low-carbon scenarios, the carbon emission peaks in Jiangxi are estimated to be 227.5 Mt and 216.4 Mt, respectively, and targeted strategies for high-emission industries will facilitate a phased peak across sectors and enhance emissions reduction benefits. This has significant reference value for the central region and even globally in formulating differentiated, phased, sector-specific carbon peaking plans, and exploring pathways for high-quality economic development in tandem with ecological civilization construction.    
-
-    
-
-## Exploring the potential of Easy Language for enhancing website sustainability   
-
-OpenAlex: https://openalex.org/W4400534852    
-Open access: True
-    
-[Mariona González-Sordé](https://openalex.org/A5031507069), Universal access in the information society. None(None)] 2024.https://doi.org/10.1007/s10209-024-01129-8.
-    
-Abstract Sustainable design principles have become increasingly important in website development, mainly focusing on reducing carbon emissions and energy consumption. Easy language (EL) is a simplified language variety that makes websites more accessible to a wider range of users; but there has been no attention given to its usefulness in sustainability efforts. As such, this study is intended to become a starting point for future research in the area. By examining the intersection between EL and website sustainability guidelines and practices, the study highlights the potential for EL to contribute to sustainable website design. Along the paper, the following theory is defended: when adapted to Easy Language, text and interactions in websites are simplified, which makes them require less data transfer, become more efficient and, ultimately, more sustainable. The paper also presents a small comparative analysis of the sustainability of websites in EL and standard language that indicated that EL generally enhanced the sustainability of websites. The nine websites in EL analysed showed a mean reduction of CO2 production of 42% in comparison to their equivalents in standard language ( p = 0.049, F = 2.42). The discussion and results presented open potential solutions for an urgent problem that deserve to be considered and researched further.    
-
-    
-
-## Economic Order Quantity: A State-of-the-Art in the Era of Uncertain Supply Chains   
-
-OpenAlex: https://openalex.org/W4400578514    
-Open access: True
-    
-[Mohammed Alnahhal‬‏](https://openalex.org/A5007231493), [Batin Latif Aylak](https://openalex.org/A5045706913), [Muataz Hazza Faizi Al Hazza](https://openalex.org/A5053623757), [Ahmad Sakhrieh](https://openalex.org/A5005797729), Sustainability. 16(14)] 2024.https://doi.org/10.3390/su16145965.
-    
-Inventory management is crucial for companies to minimize unnecessary costs associated with overstocking or understocking items. Utilizing the economic order quantity (EOQ) to minimize total costs is a key decision in inventory management, particularly in achieving a sustainable supply chain. The classical EOQ formula is rarely applicable in practice. For example, suppliers may enforce a minimum order quantity (MOQ) that is much larger than the EOQ. Some conditions such as imperfect quality and growing items represent variants of EOQ. Moreover, some requirements, such as the reduction of CO2 emissions, can alter the formula. Moreover, disruptions in the supply chain, such as COVID-19, can affect the formula. This study investigates which requirements must be considered during the calculation of the EOQ. Based on a literature review, 18 requirements that could alter the EOQ formula were identified. The level of coverage for these requirements has been tracked in the literature. Research gaps were presented to be investigated in future research. The analysis revealed that, despite their importance, at least 11 requirements have seldom been explored in the literature. Among these, topics such as EOQ in Industry 4.0, practical EOQ, and resilient EOQ have been identified as promising areas for future research.    
 
     
 
@@ -1006,6 +973,28 @@ Open access: False
 [Xiaoqian Wei](https://openalex.org/A5056691753), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Haeseong Jang](https://openalex.org/A5008892245), [Min Gyu Kim](https://openalex.org/A5100383157), [Shangguo Liu](https://openalex.org/A5102788609), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [NULL AUTHOR_ID](https://openalex.org/A9999999999), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202409206.
     
 Regulating competitive reaction pathways to direct the selectivity of electrochemical CO2 reduction reaction toward a desired product is crucial but remains challenging. Herein, switching product from HCOOH to CO is achieved by incorporating Sb element into the CuS, in which the Cu–S ionic bond is coupled with S–Sb covalent bond through bridging S atoms that elongates the Cu–S bond from 2.24 Å to 2.30 Å. Consequently, CuS with a shorter Cu–S bond exhibited a high selectivity for producing HCOOH, with a maximum Faradaic efficiency (FE) of 72%. Conversely, Cu3SbS4 characterized by an elongated Cu–S bond exhibited the most pronounced production of CO with a maximum FE of 60%. In situ spectroscopy combined with density functional theory calculations revealed that the altered Cu‒S bond length and local coordination environment make the *HCOO binding energy weaker on Cu3SbS4 compared to that on CuS. Notably, a volcano‐shaped correlation between the Cu–S bond length and adsorption strength of *COOH indicates that Cu–S in Cu3SbS4 as double‐active sites facilitates the adsorption of *COOH, and thus results in the high selectivity of Cu3SbS4 toward CO.    
+
+    
+
+## Exploring the potential of Easy Language for enhancing website sustainability   
+
+OpenAlex: https://openalex.org/W4400534852    
+Open access: True
+    
+[Mariona González-Sordé](https://openalex.org/A5031507069), Universal access in the information society. None(None)] 2024.https://doi.org/10.1007/s10209-024-01129-8.
+    
+Abstract Sustainable design principles have become increasingly important in website development, mainly focusing on reducing carbon emissions and energy consumption. Easy language (EL) is a simplified language variety that makes websites more accessible to a wider range of users; but there has been no attention given to its usefulness in sustainability efforts. As such, this study is intended to become a starting point for future research in the area. By examining the intersection between EL and website sustainability guidelines and practices, the study highlights the potential for EL to contribute to sustainable website design. Along the paper, the following theory is defended: when adapted to Easy Language, text and interactions in websites are simplified, which makes them require less data transfer, become more efficient and, ultimately, more sustainable. The paper also presents a small comparative analysis of the sustainability of websites in EL and standard language that indicated that EL generally enhanced the sustainability of websites. The nine websites in EL analysed showed a mean reduction of CO2 production of 42% in comparison to their equivalents in standard language ( p = 0.049, F = 2.42). The discussion and results presented open potential solutions for an urgent problem that deserve to be considered and researched further.    
+
+    
+
+## Economic Order Quantity: A State-of-the-Art in the Era of Uncertain Supply Chains   
+
+OpenAlex: https://openalex.org/W4400578514    
+Open access: True
+    
+[Mohammed Alnahhal‬‏](https://openalex.org/A5007231493), [Batin Latif Aylak](https://openalex.org/A5045706913), [Muataz Hazza Faizi Al Hazza](https://openalex.org/A5053623757), [Ahmad Sakhrieh](https://openalex.org/A5005797729), Sustainability. 16(14)] 2024.https://doi.org/10.3390/su16145965.
+    
+Inventory management is crucial for companies to minimize unnecessary costs associated with overstocking or understocking items. Utilizing the economic order quantity (EOQ) to minimize total costs is a key decision in inventory management, particularly in achieving a sustainable supply chain. The classical EOQ formula is rarely applicable in practice. For example, suppliers may enforce a minimum order quantity (MOQ) that is much larger than the EOQ. Some conditions such as imperfect quality and growing items represent variants of EOQ. Moreover, some requirements, such as the reduction of CO2 emissions, can alter the formula. Moreover, disruptions in the supply chain, such as COVID-19, can affect the formula. This study investigates which requirements must be considered during the calculation of the EOQ. Based on a literature review, 18 requirements that could alter the EOQ formula were identified. The level of coverage for these requirements has been tracked in the literature. Research gaps were presented to be investigated in future research. The analysis revealed that, despite their importance, at least 11 requirements have seldom been explored in the literature. Among these, topics such as EOQ in Industry 4.0, practical EOQ, and resilient EOQ have been identified as promising areas for future research.    
 
     
 
@@ -1053,17 +1042,6 @@ Using predicted potential N mineralization (PNM) from its relationship with CO2 
 
     
 
-## Investigating the effect of dynamic traffic distribution on network-wide traffic emissions: An empirical study in Ningbo, China   
-
-OpenAlex: https://openalex.org/W4400583330    
-Open access: True
-    
-[Shuichao Zhang](https://openalex.org/A5048155645), [Jianan Shi](https://openalex.org/A5042919591), [Yizhe Huang](https://openalex.org/A5022686427), [Hao Shen](https://openalex.org/A5018531702), [He Kangkang](https://openalex.org/A5102279952), [Hongjie Chen](https://openalex.org/A5100767117), PloS one. 19(7)] 2024.https://doi.org/10.1371/journal.pone.0305481.
-    
-Urban road traffic is one of the primary sources of carbon emissions. Previous studies have demonstrated the close relationship between traffic flow characteristics and carbon emissions (CO2). However, the impact of dynamic traffic distribution on carbon emissions is rarely empirically studied on the network level. To fill this gap, this study proposes a dynamic network carbon emissions estimation method. The network-level traffic emissions are estimated by combining macroscopic emission models and recent advances in dynamic network traffic flow modeling, namely, Macroscopic Fundamental Diagram. The impact of traffic distribution and the penetration of battery electric vehicles on total network emissions are further investigated using the Monte Carlo method. The results indicate the substantial effect of network traffic distribution on carbon emissions. Using the urban expressway network in Ningbo as an example, in the scenario of 100% internal combustion engine vehicles, increasing the standard deviation of link-level traffic density from 0 to 15 veh/km-ln can result in an 8.9% network capacity drop and a 15.5% reduction in network carbon emissions. This effect can be moderated as the penetration rate of battery electric vehicles increases. Based on the empirical and simulating evidence, different expressway pollution management strategies can be implemented, such as petrol vehicle restrictions, ramp metering, congestion pricing, and perimeter control strategies.    
-
-    
-
 ## The Reconstruction of Bi 2 Te 4 O 11 Nanorods for Efficient and pH‐universal Electrochemical CO 2 Reduction   
 
 OpenAlex: https://openalex.org/W4400593019    
@@ -1072,6 +1050,17 @@ Open access: False
 [Jiadong Chen](https://openalex.org/A5101962604), [Tingjie Mao](https://openalex.org/A5076545740), [Juan Wang](https://openalex.org/A5100347431), [Jichang Wang](https://openalex.org/A5101619598), [Huile Jin](https://openalex.org/A5060906740), [Shun Wang](https://openalex.org/A5100424610), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202408849.
     
 The practical application of electrochemical CO2 reduction reaction (CO2RR) is hindered by the competing CO production, hydrogen evolution reaction (HER), and the lack of pH‐universal catalysts. Here, Te‐modified Bi nanorods (Te‐Bi NRs) were synthesized through in situ reconstruction of Bi2Te4O11 NRs under the CO2RR condition. Our study illustrates that the complex reconstruction process of Bi2Te4O11 NRs during CO2RR could be decoupled into three distinct steps, i.e., the destruction of Bi2Te4O11, the formation of Te/Bi phases, and the dissolution of Te. The thus‐obtained Te‐Bi NRs exhibit remarkably high performance in CO2RR towards formate production, showing high activity, selectivity, and stability across all pH conditions (acidic, neutral, and alkaline). In a flow cell reactor under neutral, alkaline, or acidic conditions, the catalysts achieved HCOOH Faradaic efficiencies of up to 94.3%, 96.4%, and 91.0%, respectively, at a high current density of 300 mA cm‐2. DFT calculations, along with operando spectral measurements, reveal that Te manipulates the Bi sites to an electron‐deficient state, enhancing the adsorption strength of the *OCHO intermediate, and significantly suppressing the competing HER and CO production. This study highlights the substantial influence of catalyst reconstruction under operational conditions and offers insights into designing highly active and stable electrocatalysts towards CO2RR.    
+
+    
+
+## Investigating the effect of dynamic traffic distribution on network-wide traffic emissions: An empirical study in Ningbo, China   
+
+OpenAlex: https://openalex.org/W4400583330    
+Open access: True
+    
+[Shuichao Zhang](https://openalex.org/A5048155645), [Jianan Shi](https://openalex.org/A5042919591), [Yizhe Huang](https://openalex.org/A5022686427), [Hao Shen](https://openalex.org/A5018531702), [He Kangkang](https://openalex.org/A5102279952), [Hongjie Chen](https://openalex.org/A5100767117), PloS one. 19(7)] 2024.https://doi.org/10.1371/journal.pone.0305481.
+    
+Urban road traffic is one of the primary sources of carbon emissions. Previous studies have demonstrated the close relationship between traffic flow characteristics and carbon emissions (CO2). However, the impact of dynamic traffic distribution on carbon emissions is rarely empirically studied on the network level. To fill this gap, this study proposes a dynamic network carbon emissions estimation method. The network-level traffic emissions are estimated by combining macroscopic emission models and recent advances in dynamic network traffic flow modeling, namely, Macroscopic Fundamental Diagram. The impact of traffic distribution and the penetration of battery electric vehicles on total network emissions are further investigated using the Monte Carlo method. The results indicate the substantial effect of network traffic distribution on carbon emissions. Using the urban expressway network in Ningbo as an example, in the scenario of 100% internal combustion engine vehicles, increasing the standard deviation of link-level traffic density from 0 to 15 veh/km-ln can result in an 8.9% network capacity drop and a 15.5% reduction in network carbon emissions. This effect can be moderated as the penetration rate of battery electric vehicles increases. Based on the empirical and simulating evidence, different expressway pollution management strategies can be implemented, such as petrol vehicle restrictions, ramp metering, congestion pricing, and perimeter control strategies.    
 
     
 
@@ -1086,17 +1075,6 @@ Emissions from transportation are one of the key factors preventing the achievem
 
     
 
-## Impact of Obesity on Respiratory Health: The Role of Sport and Physical Activity in Prevention and Management   
-
-OpenAlex: https://openalex.org/W4400425212    
-Open access: True
-    
-[RW Makuch](https://openalex.org/A5066302029), [Amir N. Kucharski](https://openalex.org/A5041668296), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Alicja Chrościcka](https://openalex.org/A5093997327), [Kamil Gała](https://openalex.org/A5012290413), [Andrzej Czajka](https://openalex.org/A5098722611), [Paweł Lenard](https://openalex.org/A5020382200), [Sara Michalska](https://openalex.org/A5099011106), [Martyna Dewicka](https://openalex.org/A5099011107), [NULL AUTHOR_ID](https://openalex.org/A9999999999), Quality in Sport. 15(None)] 2024.https://doi.org/10.12775/qs.2024.15.52231.
-    
-Introduction and Objective: Obesity is a major social and economic problem. Since the 1980s, the number of overweight and obese people has doubled. Treatment of such patients is 30% more expensive than for people of normal weight. The main aim of the article is to present the impact of the occurrence of respiratory diseases and the deterioration of the system function. In addition, the article reviews the impact of physical activity and diet on weight loss and the prevention of further weight gain. Review and Methods: Review and summary of studies and meta-analysis of studies available in open-source format on Google Scholar and PubMed. Abbreviated Description of the State of Knowledge: One of the most common diseases in the population is bronchial asthma. People with excess body weight have a more severe course, and numerous studies have been carried out to explain the cause. The main mechanism that worsens respiratory function is mechanical compression by fatty tissue. It has also been observed that the inflammatory response, underlying the etiopathogenesis of asthma, may be caused by the secretion of inflammatory mediators by adipocytes. This is currently being investigated. Obstructive sleep apnea is a disorder that results in a fragmentation of sleep, which has serious health consequences and leads to a reduction in quality of life. Obesity is a major risk factor. The severity of the condition is strongly related to excess body weight. Obese hypoventilation syndrome is a condition in which obesity impairs alveolar ventilation and CO2 removal, resulting in hypercapnia, which can lead to respiratory failure. Summary: Weight loss and interventions to prevent weight gain in people with a baseline BMI >25 kg/m2 are fundamental to good health. For best results, a calorie-restricted diet should be combined with physical activity. The WHO has created recommendations for the amount of physical activity needed each week.    
-
-    
-
 ## Insights On Liquid Jet Breakup And Spray Formation Of An Air-Assisted Atomizer: Conventional And Alternative Jet Fuel   
 
 OpenAlex: https://openalex.org/W4400450791    
@@ -1105,6 +1083,17 @@ Open access: False
 [Inês Ferrão](https://openalex.org/A5054272896), [Miguel A.A. Mendes](https://openalex.org/A5044882782), [Ana Moita](https://openalex.org/A5012135584), [André Silva](https://openalex.org/A5084438393), No host. 21(None)] 2024.https://doi.org/10.55037/lxlaser.21st.186.
     
 Presently, it is imperative to address global environmental challenges. The concerns are related to the depletion of non-renewable fossil fuels, greenhouse gases, and pollutant emissions. The transportation sector contributes significantly to these issues. In particular, the aviation industry primarily relies on jet fuel, a fossil fuel responsible for around 2% of anthropogenic CO2 emissions. As a result, to address contemporary society environmental concerns and energy requirements, promising renewable and green energy sources are being intensively investigated, especially in air transportation. Sustainable aviation fuels (SAF), particularly biofuels, have been explored and indicated as a short-term solution to address the energy transition in the aviation sector. Implementing alternative fuels requires a deeper investigation regarding the spray dynamics. Following this, the present study explores conventional (Jet A-1) and alternative jet fuel (HVO) atomization, and the breakup length is explored in a wide range of operating conditions. The normalized mean breakup length was measured, and a correlation was proposed based on the experimental data. Additionally, the droplets released by the jet breakup are compared for both fuels in terms of diameter. Observations reveal the occurrence of jet flapping and bag breakup, affected by the air flowrate. The results also show that regardless of the fuel, increasing the momentum flux leads to a reduction in the normalized mean breakup length. An increase in the air flowrate promotes a shorter breakup length, resulting in a secondary droplet with smaller secondary droplet diameters. An empirical correlation was developed based on the fitting of the experimental data. This correlation indicates that the normalized mean breakup length exhibits a power law relation with M, which is consistent with the literature. This experimental study is essential to research on biofuels and aids in the development of new injectors and the precision of theoretical models integrated into numerical algorithms.    
+
+    
+
+## Impact of Obesity on Respiratory Health: The Role of Sport and Physical Activity in Prevention and Management   
+
+OpenAlex: https://openalex.org/W4400425212    
+Open access: True
+    
+[RW Makuch](https://openalex.org/A5066302029), [Amir N. Kucharski](https://openalex.org/A5041668296), [NULL AUTHOR_ID](https://openalex.org/A9999999999), [Alicja Chrościcka](https://openalex.org/A5093997327), [Kamil Gała](https://openalex.org/A5012290413), [Andrzej Czajka](https://openalex.org/A5098722611), [Paweł Lenard](https://openalex.org/A5020382200), [Sara Michalska](https://openalex.org/A5099011106), [Martyna Dewicka](https://openalex.org/A5099011107), [NULL AUTHOR_ID](https://openalex.org/A9999999999), Quality in Sport. 15(None)] 2024.https://doi.org/10.12775/qs.2024.15.52231.
+    
+Introduction and Objective: Obesity is a major social and economic problem. Since the 1980s, the number of overweight and obese people has doubled. Treatment of such patients is 30% more expensive than for people of normal weight. The main aim of the article is to present the impact of the occurrence of respiratory diseases and the deterioration of the system function. In addition, the article reviews the impact of physical activity and diet on weight loss and the prevention of further weight gain. Review and Methods: Review and summary of studies and meta-analysis of studies available in open-source format on Google Scholar and PubMed. Abbreviated Description of the State of Knowledge: One of the most common diseases in the population is bronchial asthma. People with excess body weight have a more severe course, and numerous studies have been carried out to explain the cause. The main mechanism that worsens respiratory function is mechanical compression by fatty tissue. It has also been observed that the inflammatory response, underlying the etiopathogenesis of asthma, may be caused by the secretion of inflammatory mediators by adipocytes. This is currently being investigated. Obstructive sleep apnea is a disorder that results in a fragmentation of sleep, which has serious health consequences and leads to a reduction in quality of life. Obesity is a major risk factor. The severity of the condition is strongly related to excess body weight. Obese hypoventilation syndrome is a condition in which obesity impairs alveolar ventilation and CO2 removal, resulting in hypercapnia, which can lead to respiratory failure. Summary: Weight loss and interventions to prevent weight gain in people with a baseline BMI >25 kg/m2 are fundamental to good health. For best results, a calorie-restricted diet should be combined with physical activity. The WHO has created recommendations for the amount of physical activity needed each week.    
 
     
 

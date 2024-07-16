@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 Jul 2024 01:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 01:12:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -148,6 +148,26 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202400093</guid>
     </item>
     <item>
+      <title>Structure-performance relationships in MOF-derived electrocatalysts for CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.pecs.2024.101175</link>
+      <description>NULL AUTHOR_ID, Yuman Guo, NULL AUTHOR_ID, NULL AUTHOR_ID, Yi Liu, J Baeyens, NULL AUTHOR_ID, Progress in energy and combustion science. 104(None)] 2024. https://openalex.org/W4400405756
+
+                No abstract</description>
+      <author>NULL AUTHOR_ID, Yuman Guo, NULL AUTHOR_ID, NULL AUTHOR_ID, Yi Liu, J Baeyens, NULL AUTHOR_ID</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.pecs.2024.101175</guid>
+    </item>
+    <item>
+      <title>Study on Spatial Effects of Influencing Factors and Zoning Strategies for PM2.5 and CO2 Synergistic Reduction</title>
+      <link>https://doi.org/10.3390/toxics12070498</link>
+      <description>Zimu Jia, Shida Sun, Deming Zhao, Yu Bo, Zifa Wang, Toxics. 12(7)] 2024. https://openalex.org/W4400444660
+
+                China has identified the synergistic reduction of pollution and carbon emissions as a critical component of its environmental protection and climate mitigation efforts. An assessment of this synergy can provide clarity on the strategic management of both air pollution and carbon emissions. Due to the extensive regional differences in China, the spatial effects of influencing factors on this synergy exhibit variation across different provinces. In this study, the reduction indexes of PM2.5 and CO2 were calculated based on their reduction bases, reduction efforts, and reduction stabilities across provinces. Then, the synergistic reduction effect was assessed using an exponential function with the PM2.5 reduction index as the base and the CO2 reduction index as the exponent. Next, the MGWR model was applied in order to analyze the influencing factors of the synergistic reduction effect, considering natural settings, socioeconomic conditions, and external emission impacts. Finally, the k-means clustering method was utilized to classify provinces into different categories based on the degree of impact of each influencing factor. The results indicated that air circulation, vegetation, tertiary industry ratio, and emission reduction efficiency are major impact indicators that have a positive effect. The topography and emissions from neighboring provinces have a statistically significant negative impact. The spatial influences of different factors exhibit a distribution trend characterized by a high-high cluster and a low-low cluster. A total of 31 provinces are divided into three categories, and suggestions on the corresponding category are proposed, to provide a scientific reference to the synergistic reduction of PM2.5 and CO2.</description>
+      <author>Zimu Jia, Shida Sun, Deming Zhao, Yu Bo, Zifa Wang</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/toxics12070498</guid>
+    </item>
+    <item>
       <title>Local microenvironment modulation of zirconium-porphyrinic frameworks for CO2 reduction</title>
       <link>https://doi.org/10.1016/j.cej.2024.153875</link>
       <description>Xue Zhao, Changyan Zhu, Heng Rao, Dong&#8208;Ying Du, Min Zhang, Ping She, Li Li, Jun&#8208;Sheng Qin, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400459415
@@ -178,36 +198,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50118-1</guid>
     </item>
     <item>
-      <title>Revisiting the electrochemical reduction of CO2 on Au25(SR)18&#8722; nanocluster</title>
-      <link>https://doi.org/10.1016/j.cplett.2024.141462</link>
-      <description>Dominic Alfonso, Chemical physics letters. None(None)] 2024. https://openalex.org/W4400400371
-
-                No abstract</description>
-      <author>Dominic Alfonso</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141462</guid>
-    </item>
-    <item>
-      <title>Structure-performance relationships in MOF-derived electrocatalysts for CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.pecs.2024.101175</link>
-      <description>NULL AUTHOR_ID, Yuman Guo, NULL AUTHOR_ID, NULL AUTHOR_ID, Yi Liu, J Baeyens, NULL AUTHOR_ID, Progress in energy and combustion science. 104(None)] 2024. https://openalex.org/W4400405756
-
-                No abstract</description>
-      <author>NULL AUTHOR_ID, Yuman Guo, NULL AUTHOR_ID, NULL AUTHOR_ID, Yi Liu, J Baeyens, NULL AUTHOR_ID</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.pecs.2024.101175</guid>
-    </item>
-    <item>
-      <title>Study on Spatial Effects of Influencing Factors and Zoning Strategies for PM2.5 and CO2 Synergistic Reduction</title>
-      <link>https://doi.org/10.3390/toxics12070498</link>
-      <description>Zimu Jia, Shida Sun, Deming Zhao, Yu Bo, Zifa Wang, Toxics. 12(7)] 2024. https://openalex.org/W4400444660
-
-                China has identified the synergistic reduction of pollution and carbon emissions as a critical component of its environmental protection and climate mitigation efforts. An assessment of this synergy can provide clarity on the strategic management of both air pollution and carbon emissions. Due to the extensive regional differences in China, the spatial effects of influencing factors on this synergy exhibit variation across different provinces. In this study, the reduction indexes of PM2.5 and CO2 were calculated based on their reduction bases, reduction efforts, and reduction stabilities across provinces. Then, the synergistic reduction effect was assessed using an exponential function with the PM2.5 reduction index as the base and the CO2 reduction index as the exponent. Next, the MGWR model was applied in order to analyze the influencing factors of the synergistic reduction effect, considering natural settings, socioeconomic conditions, and external emission impacts. Finally, the k-means clustering method was utilized to classify provinces into different categories based on the degree of impact of each influencing factor. The results indicated that air circulation, vegetation, tertiary industry ratio, and emission reduction efficiency are major impact indicators that have a positive effect. The topography and emissions from neighboring provinces have a statistically significant negative impact. The spatial influences of different factors exhibit a distribution trend characterized by a high-high cluster and a low-low cluster. A total of 31 provinces are divided into three categories, and suggestions on the corresponding category are proposed, to provide a scientific reference to the synergistic reduction of PM2.5 and CO2.</description>
-      <author>Zimu Jia, Shida Sun, Deming Zhao, Yu Bo, Zifa Wang</author>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/toxics12070498</guid>
-    </item>
-    <item>
       <title>Lightweight Design Innovation &#8211; A Case Study of 20% Weight Reduction and CO2 Emission Reduction in Door Panels</title>
       <link>https://doi.org/10.51202/9783181024355-213</link>
       <description>NULL AUTHOR_ID, Paul Scholz, NULL AUTHOR_ID, VDI Verlag eBooks. None(None)] 2024. https://openalex.org/W4400430775
@@ -216,6 +206,16 @@
       <author>NULL AUTHOR_ID, Paul Scholz, NULL AUTHOR_ID</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.51202/9783181024355-213</guid>
+    </item>
+    <item>
+      <title>Carbon-Based Materials for Low Concentration Co2 Capture and Electrocatalytic Reduction</title>
+      <link>https://doi.org/10.2139/ssrn.4891233</link>
+      <description>Yanxi Hu, Yangyang Ding, Lily Y. Xie, Hanyu Li, Yujing Jiang, Ke Gong, Aidi Zhang, Wenlei Zhu, Yuanyuan Wang, No host. None(None)] 2024. https://openalex.org/W4400484792
+
+                No abstract</description>
+      <author>Yanxi Hu, Yangyang Ding, Lily Y. Xie, Hanyu Li, Yujing Jiang, Ke Gong, Aidi Zhang, Wenlei Zhu, Yuanyuan Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4891233</guid>
     </item>
     <item>
       <title>Assessing the Impacts of CO2 Reduction and Utilization Technologies on Regional Freshwater Resources</title>
@@ -246,16 +246,6 @@
       <author>Shuai Hao, Kaveh Edalati, Qingsheng Gao, Huaijun Lin</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.scriptamat.2024.116268</guid>
-    </item>
-    <item>
-      <title>Carbon-Based Materials for Low Concentration Co2 Capture and Electrocatalytic Reduction</title>
-      <link>https://doi.org/10.2139/ssrn.4891233</link>
-      <description>Yanxi Hu, Yangyang Ding, Lily Y. Xie, Hanyu Li, Yujing Jiang, Ke Gong, Aidi Zhang, Wenlei Zhu, Yuanyuan Wang, No host. None(None)] 2024. https://openalex.org/W4400484792
-
-                No abstract</description>
-      <author>Yanxi Hu, Yangyang Ding, Lily Y. Xie, Hanyu Li, Yujing Jiang, Ke Gong, Aidi Zhang, Wenlei Zhu, Yuanyuan Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4891233</guid>
     </item>
     <item>
       <title>Electrochemical CO2 Reduction on Pd-Based Electrodes: From Mechanism Understanding to Rational Catalyst Design</title>
@@ -318,16 +308,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01190-9</guid>
     </item>
     <item>
-      <title>Au depositing and Mg doping synergistically regulates In2O3 photocatalyst for promoting CO2 reduction and CH4 exclusive generation</title>
-      <link>https://doi.org/10.1039/d4qi01381f</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Inorganic chemistry frontiers. None(None)] 2024. https://openalex.org/W4400427821
-
-                The photocatalytic reduction of carbon dioxide (CO2) into methane (CH4) is of great significance in the field of energy conversion. In this study, magnesium-gold (Mg-Au) bimetallic-modified indium oxide (In2O3) microspheres...</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4qi01381f</guid>
-    </item>
-    <item>
       <title>Independent hybrid energy systems using reliable renewable energy sources for providing sustainable power and CO2 emission reduction</title>
       <link>https://doi.org/10.1109/icteasd57136.2023.10585072</link>
       <description>A. Mohamedyaseen, R. Ayyappa, Muntather Almusawi, Kanchan Yadav, Allaeva Gulchekhra Jalgasovna, M. Murali, Takkellapati Venkata Suneetha, No host. None(None)] 2023. https://openalex.org/W4400490511
@@ -336,6 +316,16 @@
       <author>A. Mohamedyaseen, R. Ayyappa, Muntather Almusawi, Kanchan Yadav, Allaeva Gulchekhra Jalgasovna, M. Murali, Takkellapati Venkata Suneetha</author>
       <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1109/icteasd57136.2023.10585072</guid>
+    </item>
+    <item>
+      <title>Au depositing and Mg doping synergistically regulates In2O3 photocatalyst for promoting CO2 reduction and CH4 exclusive generation</title>
+      <link>https://doi.org/10.1039/d4qi01381f</link>
+      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Inorganic chemistry frontiers. None(None)] 2024. https://openalex.org/W4400427821
+
+                The photocatalytic reduction of carbon dioxide (CO2) into methane (CH4) is of great significance in the field of energy conversion. In this study, magnesium-gold (Mg-Au) bimetallic-modified indium oxide (In2O3) microspheres...</description>
+      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qi01381f</guid>
     </item>
     <item>
       <title>Quantitative Analysis of Carbon Emissions from Highway Construction Based on Life Cycle Assessment</title>
@@ -558,16 +548,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/molecules29143286</guid>
     </item>
     <item>
-      <title>BIOMASS GASIFICATION FOR HYDROGEN PRODUCTION</title>
-      <link>https://doi.org/10.51594/estj.v4i2.1289</link>
-      <description>Afor Avwioroko, Engineering science &amp; tecnology journal. 4(2)] 2023. https://openalex.org/W4400499249
-
-                Biomass gasification is emerging as a promising technology for producing hydrogen, addressing the dual challenges of sustainable energy supply and environmental conservation. This process converts biomass into syngas&#8212;a mixture primarily composed of hydrogen, carbon monoxide, and carbon dioxide&#8212;through thermal decomposition in a controlled environment. The syngas is then processed to extract hydrogen, which can serve as a clean fuel for various applications, including transportation and industrial processes. This paper provides an overview of the biomass gasification process, detailing suitable biomass feedstock types and gasifier types, such as fixed-bed, fluidized-bed, and entrained-flow gasifiers. It explores the conversion of syngas to hydrogen, highlighting essential catalytic reforming and purification techniques for producing high-purity hydrogen. The environmental benefits of this technology includes the utilization of renewable resources and reduction of greenhouse gas emissions compared to fossil fuel-based hydrogen production. Economically, biomass gasification offers a feasible pathway for decentralized hydrogen production, potentially lowering transportation costs and enhancing energy security, especially in biomass-rich regions. However, the deployment of biomass gasification technology is not void of challenges &#8211; some common challenges with biomass gasification technology include coping with the variability of biomass feedstock, tar formation, and the need for technological advancements to improve efficiency and scalability. This paper also discusses ongoing research and potential innovations aimed at overcoming these obstacles, ensuring biomass gasification's viability as a key player in the future hydrogen economy. Through case studies and real-world applications, this paper illustrates the practical implementation and successes of biomass gasification projects, offering valuable insights into best practices and lessons learned. In conclusion, biomass gasification stands out as a sustainable and economically viable solution for hydrogen production, with the potential to significantly advance global clean energy goals. Keywords: Biomass, Gasification, Hydrogen, Production.</description>
-      <author>Afor Avwioroko</author>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.51594/estj.v4i2.1289</guid>
-    </item>
-    <item>
       <title>Global Trends in the Research and Development of Petrochemical Waste Gas from 1981 to 2022</title>
       <link>https://doi.org/10.3390/su16145972</link>
       <description>Mengting Wu, Wei Liu, Zhifei Ma, Tian Qin, Ying Feng, Yalan Zhang, Ning Cao, Xianchuan Xie, Sunlin Chi, Jinying Xu, &#19968;&#26391; &#28422;&#23822;, Sustainability. 16(14)] 2024. https://openalex.org/W4400578462
@@ -576,6 +556,16 @@
       <author>Mengting Wu, Wei Liu, Zhifei Ma, Tian Qin, Ying Feng, Yalan Zhang, Ning Cao, Xianchuan Xie, Sunlin Chi, Jinying Xu, &#19968;&#26391; &#28422;&#23822;</author>
       <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/su16145972</guid>
+    </item>
+    <item>
+      <title>BIOMASS GASIFICATION FOR HYDROGEN PRODUCTION</title>
+      <link>https://doi.org/10.51594/estj.v4i2.1289</link>
+      <description>Afor Avwioroko, Engineering science &amp; tecnology journal. 4(2)] 2023. https://openalex.org/W4400499249
+
+                Biomass gasification is emerging as a promising technology for producing hydrogen, addressing the dual challenges of sustainable energy supply and environmental conservation. This process converts biomass into syngas&#8212;a mixture primarily composed of hydrogen, carbon monoxide, and carbon dioxide&#8212;through thermal decomposition in a controlled environment. The syngas is then processed to extract hydrogen, which can serve as a clean fuel for various applications, including transportation and industrial processes. This paper provides an overview of the biomass gasification process, detailing suitable biomass feedstock types and gasifier types, such as fixed-bed, fluidized-bed, and entrained-flow gasifiers. It explores the conversion of syngas to hydrogen, highlighting essential catalytic reforming and purification techniques for producing high-purity hydrogen. The environmental benefits of this technology includes the utilization of renewable resources and reduction of greenhouse gas emissions compared to fossil fuel-based hydrogen production. Economically, biomass gasification offers a feasible pathway for decentralized hydrogen production, potentially lowering transportation costs and enhancing energy security, especially in biomass-rich regions. However, the deployment of biomass gasification technology is not void of challenges &#8211; some common challenges with biomass gasification technology include coping with the variability of biomass feedstock, tar formation, and the need for technological advancements to improve efficiency and scalability. This paper also discusses ongoing research and potential innovations aimed at overcoming these obstacles, ensuring biomass gasification's viability as a key player in the future hydrogen economy. Through case studies and real-world applications, this paper illustrates the practical implementation and successes of biomass gasification projects, offering valuable insights into best practices and lessons learned. In conclusion, biomass gasification stands out as a sustainable and economically viable solution for hydrogen production, with the potential to significantly advance global clean energy goals. Keywords: Biomass, Gasification, Hydrogen, Production.</description>
+      <author>Afor Avwioroko</author>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.51594/estj.v4i2.1289</guid>
     </item>
     <item>
       <title>effectiveness of dolomite and Ni-catalyst mixtures for pure H 2 production by methane steam reforming via CO 2 capture</title>
@@ -598,6 +588,16 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-3rbfp</guid>
     </item>
     <item>
+      <title>Core Flooding Experiments on the Impact of CO2-EOR on the Petrophysical Properties and Oil Recovery Parameters of Reservoir Sandstones in Kazakhstan</title>
+      <link>https://doi.org/10.3390/geosciences14070185</link>
+      <description>Ainash Shabdirova, Ashirgul Kozhagulova, Yernazar Samenov, Rinat Merbayev, Ainur Niyazbayeva, Daryn Shabdirov, Geosciences. 14(7)] 2024. https://openalex.org/W4400531088
+
+                This study investigates the impact of CO2-enhanced oil recovery (CO2-EOR) on the petrophysical properties and oil recovery potential of sandstone reservoirs in the oilfields located in the east-southern Precaspian region of Kazakhstan. Despite the recognized potential of CO2-EOR for improving oil recovery and aiding carbon sequestration, there is limited understanding of how CO2-EOR specifically affects the petrophysical properties of sandstone reservoirs in this region. Laboratory experiments were conducted using two core samples from the selected oilfields to examine changes in porosity, permeability, and oil recovery coefficients. The results demonstrated that porosity changes ranged from a slight increase of 1.1% to a decrease of 1.5%, while permeability reduction was significant, with decreases ranging from 29% to 50% due to clay alteration and halite precipitation. The oil recovery coefficient after CO2 flooding was found to be between 0.49 and 0.54. These findings underscore the complex interactions between CO2 and reservoir rocks, emphasizing the need for tailored EOR strategies in different geological settings.</description>
+      <author>Ainash Shabdirova, Ashirgul Kozhagulova, Yernazar Samenov, Rinat Merbayev, Ainur Niyazbayeva, Daryn Shabdirov</author>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/geosciences14070185</guid>
+    </item>
+    <item>
       <title>Fabrication and Characterization of PLA/PBAT Blends, Blend-Based Nanocomposites, and Their Supercritical Carbon Dioxide-Induced Foams</title>
       <link>https://doi.org/10.3390/polym16141971</link>
       <description>Kartik Behera, Chien-Hsing Tsai, Xiang-Bo Liao, Fang-Chyou Chiu, Polymers. 16(14)] 2024. https://openalex.org/W4400486574
@@ -618,14 +618,14 @@
       <guid isPermaLink="true">https://doi.org/10.20944/preprints202407.0448.v1</guid>
     </item>
     <item>
-      <title>Core Flooding Experiments on the Impact of CO2-EOR on the Petrophysical Properties and Oil Recovery Parameters of Reservoir Sandstones in Kazakhstan</title>
-      <link>https://doi.org/10.3390/geosciences14070185</link>
-      <description>Ainash Shabdirova, Ashirgul Kozhagulova, Yernazar Samenov, Rinat Merbayev, Ainur Niyazbayeva, Daryn Shabdirov, Geosciences. 14(7)] 2024. https://openalex.org/W4400531088
+      <title>Ammonia and Greenhouse Gas Emissions from Organic Manure Composting: The Effect of Membrane Cover</title>
+      <link>https://doi.org/10.3390/agronomy14071471</link>
+      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, Muhammad Wajahat Ramay, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Csaba Gyuricza, NULL AUTHOR_ID, L&#225;szl&#243; Aleksza, Agronomy. 14(7)] 2024. https://openalex.org/W4400424679
 
-                This study investigates the impact of CO2-enhanced oil recovery (CO2-EOR) on the petrophysical properties and oil recovery potential of sandstone reservoirs in the oilfields located in the east-southern Precaspian region of Kazakhstan. Despite the recognized potential of CO2-EOR for improving oil recovery and aiding carbon sequestration, there is limited understanding of how CO2-EOR specifically affects the petrophysical properties of sandstone reservoirs in this region. Laboratory experiments were conducted using two core samples from the selected oilfields to examine changes in porosity, permeability, and oil recovery coefficients. The results demonstrated that porosity changes ranged from a slight increase of 1.1% to a decrease of 1.5%, while permeability reduction was significant, with decreases ranging from 29% to 50% due to clay alteration and halite precipitation. The oil recovery coefficient after CO2 flooding was found to be between 0.49 and 0.54. These findings underscore the complex interactions between CO2 and reservoir rocks, emphasizing the need for tailored EOR strategies in different geological settings.</description>
-      <author>Ainash Shabdirova, Ashirgul Kozhagulova, Yernazar Samenov, Rinat Merbayev, Ainur Niyazbayeva, Daryn Shabdirov</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/geosciences14070185</guid>
+                The current scientific literature predominantly focuses on pilot-scale studies concerning the effectiveness of membrane covers in reducing gas emissions during cattle manure composting. Our study centers on the application of a leading market commercial membrane cover (ePTE-TEXcomm) and a locally manufactured one (ProfiCover&#174;) at industrial processing levels, evaluating their efficacy in mitigating gas emission during the fifth day of the thermophilic phase. Taking into account material inhomogeneities, work environment impact, and efficiency, the results are characteristic of industrial-scale processes rarely discussed in the scientific literature. Our results, obtained with a portable gas sampler and FTIR spectroscopy measurements using corresponding standards, indicate that ePTE-TEXcomm manifested a reduction of 90.8% for NH3 and 59.6% for CO2. CH4 emissions increased, suggesting their potential entrapment. N2O and propane equivalent experienced reductions of 23.1% and 44.8%, respectively. On the other hand, ProfiCover&#174; presented emission reductions for NH3 and CO2 of 93.3% and 85.9%, respectively. CH4, contrasting with ePTE-TEXcomm, showed a significant reduction of 55.6%. N2O and propane equivalent followed with reductions of 56.7% and 84.5%, respectively. All of this divergence in performance implies a potential trade-off in emission reduction efficacy between the covers. Knowledge sharing between researchers and industry partners is key to translating these technologies into widespread adoption.</description>
+      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, Muhammad Wajahat Ramay, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Csaba Gyuricza, NULL AUTHOR_ID, L&#225;szl&#243; Aleksza</author>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/agronomy14071471</guid>
     </item>
     <item>
       <title>Modulating the Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt;-CO Performance by Ag Morphology</title>
@@ -636,16 +636,6 @@
       <author>Guanhua Xu, xudong qiu, xiaoguang li</author>
       <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/2162-8777/ad620f</guid>
-    </item>
-    <item>
-      <title>Ammonia and Greenhouse Gas Emissions from Organic Manure Composting: The Effect of Membrane Cover</title>
-      <link>https://doi.org/10.3390/agronomy14071471</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, Muhammad Wajahat Ramay, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Csaba Gyuricza, NULL AUTHOR_ID, L&#225;szl&#243; Aleksza, Agronomy. 14(7)] 2024. https://openalex.org/W4400424679
-
-                The current scientific literature predominantly focuses on pilot-scale studies concerning the effectiveness of membrane covers in reducing gas emissions during cattle manure composting. Our study centers on the application of a leading market commercial membrane cover (ePTE-TEXcomm) and a locally manufactured one (ProfiCover&#174;) at industrial processing levels, evaluating their efficacy in mitigating gas emission during the fifth day of the thermophilic phase. Taking into account material inhomogeneities, work environment impact, and efficiency, the results are characteristic of industrial-scale processes rarely discussed in the scientific literature. Our results, obtained with a portable gas sampler and FTIR spectroscopy measurements using corresponding standards, indicate that ePTE-TEXcomm manifested a reduction of 90.8% for NH3 and 59.6% for CO2. CH4 emissions increased, suggesting their potential entrapment. N2O and propane equivalent experienced reductions of 23.1% and 44.8%, respectively. On the other hand, ProfiCover&#174; presented emission reductions for NH3 and CO2 of 93.3% and 85.9%, respectively. CH4, contrasting with ePTE-TEXcomm, showed a significant reduction of 55.6%. N2O and propane equivalent followed with reductions of 56.7% and 84.5%, respectively. All of this divergence in performance implies a potential trade-off in emission reduction efficacy between the covers. Knowledge sharing between researchers and industry partners is key to translating these technologies into widespread adoption.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, Muhammad Wajahat Ramay, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Csaba Gyuricza, NULL AUTHOR_ID, L&#225;szl&#243; Aleksza</author>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/agronomy14071471</guid>
     </item>
     <item>
       <title>Study on the mechanism of CO2 huff-n-puff enhanced oil recovery and storage in shale porous media considering heterogeneous structure</title>
@@ -758,6 +748,16 @@
       <guid isPermaLink="true">https://doi.org/10.20944/preprints202407.0804.v1</guid>
     </item>
     <item>
+      <title>An audit of corporate decarbonisation ambition against low-carbon futures.</title>
+      <link>https://doi.org/10.21203/rs.3.rs-3367979/v2</link>
+      <description>Iain S. Weaver, Jesse F. Abrams, Jack Oliver, Nikolaos Dimakis, Andrew Parry, Timothy M. Lenton, No host. None(None)] 2024. https://openalex.org/W4400459950
+
+                Abstract Atmospheric greenhouse gas concentration has been steadily increasing since the 19th century, causing global warming. Despite efforts to reduce emissions, current projections anticipate a significant increase in global mean temperature by the end of the century, which may push us beyond a safe and just operating space. We must develop emissions pathways that take into account renewable technology innovation, climate policy development and consumer behavior change. In this manuscript we assess corporate emissions reduction ambition in the context of reduction pathways, and in doing so show that company reporting has reached a scale and quality that it can be used to supplement global emissions forecasting. We find emissions disclosures of target-setting companies to account for roughly a fifth of global CO2 emissions and three-fifths of total market capitalisation. Of these, we find near-term targets to be consistent with the aggressive reduction requirements of the divergent net-zero scenario published by the Network for Greening the Financial System, but commitments to 2050 are lacking. There is a large disparity between the total market capitalisation of disclosing companies and the total emissions they cover, a disconnect which we emphasise must be addressed by future</description>
+      <author>Iain S. Weaver, Jesse F. Abrams, Jack Oliver, Nikolaos Dimakis, Andrew Parry, Timothy M. Lenton</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3367979/v2</guid>
+    </item>
+    <item>
       <title>A CRITICAL EXAMINATION OF THE CONSTRUCTION SECTOR IN TURKEY IN TERMS OF SUSTAINABILITY</title>
       <link>https://doi.org/10.47933/ijeir.1491574</link>
       <description>P&#305;nar Usta, Kamertap Cirik, Elifnur &#350;akalak, Ali Ekber SEVER, International journal of engineering and innovative research. None(None)] 2024. https://openalex.org/W4400496991
@@ -776,16 +776,6 @@
       <author>Emanuil-Petru Ovadiuc, R&#259;zvan Calot&#259;, Ilinca N&#259;stase, Florin Bode</author>
       <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/fire7070244</guid>
-    </item>
-    <item>
-      <title>An audit of corporate decarbonisation ambition against low-carbon futures.</title>
-      <link>https://doi.org/10.21203/rs.3.rs-3367979/v2</link>
-      <description>Iain S. Weaver, Jesse F. Abrams, Jack Oliver, Nikolaos Dimakis, Andrew Parry, Timothy M. Lenton, No host. None(None)] 2024. https://openalex.org/W4400459950
-
-                Abstract Atmospheric greenhouse gas concentration has been steadily increasing since the 19th century, causing global warming. Despite efforts to reduce emissions, current projections anticipate a significant increase in global mean temperature by the end of the century, which may push us beyond a safe and just operating space. We must develop emissions pathways that take into account renewable technology innovation, climate policy development and consumer behavior change. In this manuscript we assess corporate emissions reduction ambition in the context of reduction pathways, and in doing so show that company reporting has reached a scale and quality that it can be used to supplement global emissions forecasting. We find emissions disclosures of target-setting companies to account for roughly a fifth of global CO2 emissions and three-fifths of total market capitalisation. Of these, we find near-term targets to be consistent with the aggressive reduction requirements of the divergent net-zero scenario published by the Network for Greening the Financial System, but commitments to 2050 are lacking. There is a large disparity between the total market capitalisation of disclosing companies and the total emissions they cover, a disconnect which we emphasise must be addressed by future</description>
-      <author>Iain S. Weaver, Jesse F. Abrams, Jack Oliver, Nikolaos Dimakis, Andrew Parry, Timothy M. Lenton</author>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3367979/v2</guid>
     </item>
     <item>
       <title>Circular Economy Integration in 1G+2G Sugarcane Bioethanol Production: Application of Carbon Capture, Utilization and Storage, Closed-Loop Systems, and Waste Valorization for Sustainability</title>
@@ -849,16 +839,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16145898</guid>
     </item>
     <item>
-      <title>Evaluation of proposals from key suppliers of small-scale photovoltaic installations for single-family homes considering current regulations and environmental and economic criteria&#8212;A case study in Malaga, Spain</title>
-      <link>https://doi.org/10.24294/jipd.v8i6.5205</link>
-      <description>Enrique Navarrete de G&#225;lvez, Luis Rodr&#237;guez-Passolas Cantal, Francisco Jos&#233; Ort&#237;z Zamora, Shakir Mohamed, Laia Miravet Garret, Journal of infrastructure, policy and development. 8(6)] 2024. https://openalex.org/W4400516247
-
-                The economic viability of a photovoltaic (PV) installation depends on regulations regarding administrative, technical and economic conditions associated with self-consumption and the sale of surplus production. Royal Decree (RD) 244/2019 is the Spanish legislation of reference for this case study, in which we analyse and compare PV installation offers by key suppliers. The proposals are not optimal in RD 244/2019 terms and appear not to fully contemplate power generation losses and seem to shift a representative percentage of consumption to the production period. In our case study of a residential dwelling, the best option corresponds to a 5 kWp installation with surplus sale to the market, with a payback period of 18 years and CO2 emission reductions of 1026 kg/year. Demand-side management offers a potential improvement of 6%&#8211;21.8%. Based on the increase in electricity prices since 2020, the best option offers savings of up to &#8364;1507.74 and amortization in 4.24 years. Considering costs and savings, sale to the market could be considered as the only feasible regulatory mechanism for managing surpluses, accompanied by measures to facilitate administrative procedures and guarantees for end users.</description>
-      <author>Enrique Navarrete de G&#225;lvez, Luis Rodr&#237;guez-Passolas Cantal, Francisco Jos&#233; Ort&#237;z Zamora, Shakir Mohamed, Laia Miravet Garret</author>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.24294/jipd.v8i6.5205</guid>
-    </item>
-    <item>
       <title>Optimising solar: A techno-economic assessment and government facility compensation framework power generation</title>
       <link>https://doi.org/10.21741/9781644903216-45</link>
       <description>Navaid ALI, Materials research proceedings. None(None)] 2024. https://openalex.org/W4400454504
@@ -869,6 +849,16 @@
       <guid isPermaLink="true">https://doi.org/10.21741/9781644903216-45</guid>
     </item>
     <item>
+      <title>Evaluation of proposals from key suppliers of small-scale photovoltaic installations for single-family homes considering current regulations and environmental and economic criteria&#8212;A case study in Malaga, Spain</title>
+      <link>https://doi.org/10.24294/jipd.v8i6.5205</link>
+      <description>Enrique Navarrete de G&#225;lvez, Luis Rodr&#237;guez-Passolas Cantal, Francisco Jos&#233; Ort&#237;z Zamora, Shakir Mohamed, Laia Miravet Garret, Journal of infrastructure, policy and development. 8(6)] 2024. https://openalex.org/W4400516247
+
+                The economic viability of a photovoltaic (PV) installation depends on regulations regarding administrative, technical and economic conditions associated with self-consumption and the sale of surplus production. Royal Decree (RD) 244/2019 is the Spanish legislation of reference for this case study, in which we analyse and compare PV installation offers by key suppliers. The proposals are not optimal in RD 244/2019 terms and appear not to fully contemplate power generation losses and seem to shift a representative percentage of consumption to the production period. In our case study of a residential dwelling, the best option corresponds to a 5 kWp installation with surplus sale to the market, with a payback period of 18 years and CO2 emission reductions of 1026 kg/year. Demand-side management offers a potential improvement of 6%&#8211;21.8%. Based on the increase in electricity prices since 2020, the best option offers savings of up to &#8364;1507.74 and amortization in 4.24 years. Considering costs and savings, sale to the market could be considered as the only feasible regulatory mechanism for managing surpluses, accompanied by measures to facilitate administrative procedures and guarantees for end users.</description>
+      <author>Enrique Navarrete de G&#225;lvez, Luis Rodr&#237;guez-Passolas Cantal, Francisco Jos&#233; Ort&#237;z Zamora, Shakir Mohamed, Laia Miravet Garret</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.24294/jipd.v8i6.5205</guid>
+    </item>
+    <item>
       <title>Decomposition Analysis of Carbon Emission Drivers and Peaking Pathways for Key Sectors under China&#8217;s Dual Carbon Goals: A Case Study of Jiangxi Province, China</title>
       <link>https://doi.org/10.3390/su16135811</link>
       <description>Xinjie Jiang, Fei Xie, Sustainability. 16(13)] 2024. https://openalex.org/W4400410302
@@ -877,26 +867,6 @@
       <author>Xinjie Jiang, Fei Xie</author>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/su16135811</guid>
-    </item>
-    <item>
-      <title>Exploring the potential of Easy Language for enhancing website sustainability</title>
-      <link>https://doi.org/10.1007/s10209-024-01129-8</link>
-      <description>Mariona Gonz&#225;lez-Sord&#233;, Universal access in the information society. None(None)] 2024. https://openalex.org/W4400534852
-
-                Abstract Sustainable design principles have become increasingly important in website development, mainly focusing on reducing carbon emissions and energy consumption. Easy language (EL) is a simplified language variety that makes websites more accessible to a wider range of users; but there has been no attention given to its usefulness in sustainability efforts. As such, this study is intended to become a starting point for future research in the area. By examining the intersection between EL and website sustainability guidelines and practices, the study highlights the potential for EL to contribute to sustainable website design. Along the paper, the following theory is defended: when adapted to Easy Language, text and interactions in websites are simplified, which makes them require less data transfer, become more efficient and, ultimately, more sustainable. The paper also presents a small comparative analysis of the sustainability of websites in EL and standard language that indicated that EL generally enhanced the sustainability of websites. The nine websites in EL analysed showed a mean reduction of CO2 production of 42% in comparison to their equivalents in standard language ( p = 0.049, F = 2.42). The discussion and results presented open potential solutions for an urgent problem that deserve to be considered and researched further.</description>
-      <author>Mariona Gonz&#225;lez-Sord&#233;</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10209-024-01129-8</guid>
-    </item>
-    <item>
-      <title>Economic Order Quantity: A State-of-the-Art in the Era of Uncertain Supply Chains</title>
-      <link>https://doi.org/10.3390/su16145965</link>
-      <description>Mohammed Alnahhal&#8236;&#8207;, Batin Latif Aylak, Muataz Hazza Faizi Al Hazza, Ahmad Sakhrieh, Sustainability. 16(14)] 2024. https://openalex.org/W4400578514
-
-                Inventory management is crucial for companies to minimize unnecessary costs associated with overstocking or understocking items. Utilizing the economic order quantity (EOQ) to minimize total costs is a key decision in inventory management, particularly in achieving a sustainable supply chain. The classical EOQ formula is rarely applicable in practice. For example, suppliers may enforce a minimum order quantity (MOQ) that is much larger than the EOQ. Some conditions such as imperfect quality and growing items represent variants of EOQ. Moreover, some requirements, such as the reduction of CO2 emissions, can alter the formula. Moreover, disruptions in the supply chain, such as COVID-19, can affect the formula. This study investigates which requirements must be considered during the calculation of the EOQ. Based on a literature review, 18 requirements that could alter the EOQ formula were identified. The level of coverage for these requirements has been tracked in the literature. Research gaps were presented to be investigated in future research. The analysis revealed that, despite their importance, at least 11 requirements have seldom been explored in the literature. Among these, topics such as EOQ in Industry 4.0, practical EOQ, and resilient EOQ have been identified as promising areas for future research.</description>
-      <author>Mohammed Alnahhal&#8236;&#8207;, Batin Latif Aylak, Muataz Hazza Faizi Al Hazza, Ahmad Sakhrieh</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16145965</guid>
     </item>
     <item>
       <title>Switching Product Selectivity in CO2 Electroreduction via Cu&#8211;S Bond Length Variation</title>
@@ -917,6 +887,26 @@
       <author>Xiaoqian Wei, NULL AUTHOR_ID, Haeseong Jang, Min Gyu Kim, Shangguo Liu, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202409206</guid>
+    </item>
+    <item>
+      <title>Exploring the potential of Easy Language for enhancing website sustainability</title>
+      <link>https://doi.org/10.1007/s10209-024-01129-8</link>
+      <description>Mariona Gonz&#225;lez-Sord&#233;, Universal access in the information society. None(None)] 2024. https://openalex.org/W4400534852
+
+                Abstract Sustainable design principles have become increasingly important in website development, mainly focusing on reducing carbon emissions and energy consumption. Easy language (EL) is a simplified language variety that makes websites more accessible to a wider range of users; but there has been no attention given to its usefulness in sustainability efforts. As such, this study is intended to become a starting point for future research in the area. By examining the intersection between EL and website sustainability guidelines and practices, the study highlights the potential for EL to contribute to sustainable website design. Along the paper, the following theory is defended: when adapted to Easy Language, text and interactions in websites are simplified, which makes them require less data transfer, become more efficient and, ultimately, more sustainable. The paper also presents a small comparative analysis of the sustainability of websites in EL and standard language that indicated that EL generally enhanced the sustainability of websites. The nine websites in EL analysed showed a mean reduction of CO2 production of 42% in comparison to their equivalents in standard language ( p = 0.049, F = 2.42). The discussion and results presented open potential solutions for an urgent problem that deserve to be considered and researched further.</description>
+      <author>Mariona Gonz&#225;lez-Sord&#233;</author>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10209-024-01129-8</guid>
+    </item>
+    <item>
+      <title>Economic Order Quantity: A State-of-the-Art in the Era of Uncertain Supply Chains</title>
+      <link>https://doi.org/10.3390/su16145965</link>
+      <description>Mohammed Alnahhal&#8236;&#8207;, Batin Latif Aylak, Muataz Hazza Faizi Al Hazza, Ahmad Sakhrieh, Sustainability. 16(14)] 2024. https://openalex.org/W4400578514
+
+                Inventory management is crucial for companies to minimize unnecessary costs associated with overstocking or understocking items. Utilizing the economic order quantity (EOQ) to minimize total costs is a key decision in inventory management, particularly in achieving a sustainable supply chain. The classical EOQ formula is rarely applicable in practice. For example, suppliers may enforce a minimum order quantity (MOQ) that is much larger than the EOQ. Some conditions such as imperfect quality and growing items represent variants of EOQ. Moreover, some requirements, such as the reduction of CO2 emissions, can alter the formula. Moreover, disruptions in the supply chain, such as COVID-19, can affect the formula. This study investigates which requirements must be considered during the calculation of the EOQ. Based on a literature review, 18 requirements that could alter the EOQ formula were identified. The level of coverage for these requirements has been tracked in the literature. Research gaps were presented to be investigated in future research. The analysis revealed that, despite their importance, at least 11 requirements have seldom been explored in the literature. Among these, topics such as EOQ in Industry 4.0, practical EOQ, and resilient EOQ have been identified as promising areas for future research.</description>
+      <author>Mohammed Alnahhal&#8236;&#8207;, Batin Latif Aylak, Muataz Hazza Faizi Al Hazza, Ahmad Sakhrieh</author>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su16145965</guid>
     </item>
     <item>
       <title>Investigation of Partial Oxidation of Methane at Different Reaction Parameters by Adding Ni to CeO2 and ZrO2 Supported Cordierite Monolith Catalyst</title>
@@ -959,16 +949,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/agrochemicals3030014</guid>
     </item>
     <item>
-      <title>Investigating the effect of dynamic traffic distribution on network-wide traffic emissions: An empirical study in Ningbo, China</title>
-      <link>https://doi.org/10.1371/journal.pone.0305481</link>
-      <description>Shuichao Zhang, Jianan Shi, Yizhe Huang, Hao Shen, He Kangkang, Hongjie Chen, PloS one. 19(7)] 2024. https://openalex.org/W4400583330
-
-                Urban road traffic is one of the primary sources of carbon emissions. Previous studies have demonstrated the close relationship between traffic flow characteristics and carbon emissions (CO2). However, the impact of dynamic traffic distribution on carbon emissions is rarely empirically studied on the network level. To fill this gap, this study proposes a dynamic network carbon emissions estimation method. The network-level traffic emissions are estimated by combining macroscopic emission models and recent advances in dynamic network traffic flow modeling, namely, Macroscopic Fundamental Diagram. The impact of traffic distribution and the penetration of battery electric vehicles on total network emissions are further investigated using the Monte Carlo method. The results indicate the substantial effect of network traffic distribution on carbon emissions. Using the urban expressway network in Ningbo as an example, in the scenario of 100% internal combustion engine vehicles, increasing the standard deviation of link-level traffic density from 0 to 15 veh/km-ln can result in an 8.9% network capacity drop and a 15.5% reduction in network carbon emissions. This effect can be moderated as the penetration rate of battery electric vehicles increases. Based on the empirical and simulating evidence, different expressway pollution management strategies can be implemented, such as petrol vehicle restrictions, ramp metering, congestion pricing, and perimeter control strategies.</description>
-      <author>Shuichao Zhang, Jianan Shi, Yizhe Huang, Hao Shen, He Kangkang, Hongjie Chen</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0305481</guid>
-    </item>
-    <item>
       <title>The Reconstruction of Bi 2 Te 4 O 11 Nanorods for Efficient and pH&#8208;universal Electrochemical CO 2 Reduction</title>
       <link>https://doi.org/10.1002/anie.202408849</link>
       <description>Jiadong Chen, Tingjie Mao, Juan Wang, Jichang Wang, Huile Jin, Shun Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400593019
@@ -977,6 +957,16 @@
       <author>Jiadong Chen, Tingjie Mao, Juan Wang, Jichang Wang, Huile Jin, Shun Wang</author>
       <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202408849</guid>
+    </item>
+    <item>
+      <title>Investigating the effect of dynamic traffic distribution on network-wide traffic emissions: An empirical study in Ningbo, China</title>
+      <link>https://doi.org/10.1371/journal.pone.0305481</link>
+      <description>Shuichao Zhang, Jianan Shi, Yizhe Huang, Hao Shen, He Kangkang, Hongjie Chen, PloS one. 19(7)] 2024. https://openalex.org/W4400583330
+
+                Urban road traffic is one of the primary sources of carbon emissions. Previous studies have demonstrated the close relationship between traffic flow characteristics and carbon emissions (CO2). However, the impact of dynamic traffic distribution on carbon emissions is rarely empirically studied on the network level. To fill this gap, this study proposes a dynamic network carbon emissions estimation method. The network-level traffic emissions are estimated by combining macroscopic emission models and recent advances in dynamic network traffic flow modeling, namely, Macroscopic Fundamental Diagram. The impact of traffic distribution and the penetration of battery electric vehicles on total network emissions are further investigated using the Monte Carlo method. The results indicate the substantial effect of network traffic distribution on carbon emissions. Using the urban expressway network in Ningbo as an example, in the scenario of 100% internal combustion engine vehicles, increasing the standard deviation of link-level traffic density from 0 to 15 veh/km-ln can result in an 8.9% network capacity drop and a 15.5% reduction in network carbon emissions. This effect can be moderated as the penetration rate of battery electric vehicles increases. Based on the empirical and simulating evidence, different expressway pollution management strategies can be implemented, such as petrol vehicle restrictions, ramp metering, congestion pricing, and perimeter control strategies.</description>
+      <author>Shuichao Zhang, Jianan Shi, Yizhe Huang, Hao Shen, He Kangkang, Hongjie Chen</author>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0305481</guid>
     </item>
     <item>
       <title>Real-Time LNG Buses Emissions Prediction Based on a Temporal Fusion Trans-Formers Model</title>
@@ -989,16 +979,6 @@
       <guid isPermaLink="true">https://doi.org/10.3808/jei.202400517</guid>
     </item>
     <item>
-      <title>Impact of Obesity on Respiratory Health: The Role of Sport and Physical Activity in Prevention and Management</title>
-      <link>https://doi.org/10.12775/qs.2024.15.52231</link>
-      <description>RW Makuch, Amir N. Kucharski, NULL AUTHOR_ID, Alicja Chro&#347;cicka, Kamil Ga&#322;a, Andrzej Czajka, Pawe&#322; Lenard, Sara Michalska, Martyna Dewicka, NULL AUTHOR_ID, Quality in Sport. 15(None)] 2024. https://openalex.org/W4400425212
-
-                Introduction and Objective: Obesity is a major social and economic problem. Since the 1980s, the number of overweight and obese people has doubled. Treatment of such patients is 30% more expensive than for people of normal weight. The main aim of the article is to present the impact of the occurrence of respiratory diseases and the deterioration of the system function. In addition, the article reviews the impact of physical activity and diet on weight loss and the prevention of further weight gain. Review and Methods: Review and summary of studies and meta-analysis of studies available in open-source format on Google Scholar and PubMed. Abbreviated Description of the State of Knowledge: One of the most common diseases in the population is bronchial asthma. People with excess body weight have a more severe course, and numerous studies have been carried out to explain the cause. The main mechanism that worsens respiratory function is mechanical compression by fatty tissue. It has also been observed that the inflammatory response, underlying the etiopathogenesis of asthma, may be caused by the secretion of inflammatory mediators by adipocytes. This is currently being investigated. Obstructive sleep apnea is a disorder that results in a fragmentation of sleep, which has serious health consequences and leads to a reduction in quality of life. Obesity is a major risk factor. The severity of the condition is strongly related to excess body weight. Obese hypoventilation syndrome is a condition in which obesity impairs alveolar ventilation and CO2 removal, resulting in hypercapnia, which can lead to respiratory failure. Summary: Weight loss and interventions to prevent weight gain in people with a baseline BMI &gt;25 kg/m2 are fundamental to good health. For best results, a calorie-restricted diet should be combined with physical activity. The WHO has created recommendations for the amount of physical activity needed each week.</description>
-      <author>RW Makuch, Amir N. Kucharski, NULL AUTHOR_ID, Alicja Chro&#347;cicka, Kamil Ga&#322;a, Andrzej Czajka, Pawe&#322; Lenard, Sara Michalska, Martyna Dewicka, NULL AUTHOR_ID</author>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12775/qs.2024.15.52231</guid>
-    </item>
-    <item>
       <title>Insights On Liquid Jet Breakup And Spray Formation Of An Air-Assisted Atomizer: Conventional And Alternative Jet Fuel</title>
       <link>https://doi.org/10.55037/lxlaser.21st.186</link>
       <description>In&#234;s Ferr&#227;o, Miguel A.A. Mendes, Ana Moita, Andr&#233; Silva, No host. 21(None)] 2024. https://openalex.org/W4400450791
@@ -1007,6 +987,16 @@
       <author>In&#234;s Ferr&#227;o, Miguel A.A. Mendes, Ana Moita, Andr&#233; Silva</author>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.55037/lxlaser.21st.186</guid>
+    </item>
+    <item>
+      <title>Impact of Obesity on Respiratory Health: The Role of Sport and Physical Activity in Prevention and Management</title>
+      <link>https://doi.org/10.12775/qs.2024.15.52231</link>
+      <description>RW Makuch, Amir N. Kucharski, NULL AUTHOR_ID, Alicja Chro&#347;cicka, Kamil Ga&#322;a, Andrzej Czajka, Pawe&#322; Lenard, Sara Michalska, Martyna Dewicka, NULL AUTHOR_ID, Quality in Sport. 15(None)] 2024. https://openalex.org/W4400425212
+
+                Introduction and Objective: Obesity is a major social and economic problem. Since the 1980s, the number of overweight and obese people has doubled. Treatment of such patients is 30% more expensive than for people of normal weight. The main aim of the article is to present the impact of the occurrence of respiratory diseases and the deterioration of the system function. In addition, the article reviews the impact of physical activity and diet on weight loss and the prevention of further weight gain. Review and Methods: Review and summary of studies and meta-analysis of studies available in open-source format on Google Scholar and PubMed. Abbreviated Description of the State of Knowledge: One of the most common diseases in the population is bronchial asthma. People with excess body weight have a more severe course, and numerous studies have been carried out to explain the cause. The main mechanism that worsens respiratory function is mechanical compression by fatty tissue. It has also been observed that the inflammatory response, underlying the etiopathogenesis of asthma, may be caused by the secretion of inflammatory mediators by adipocytes. This is currently being investigated. Obstructive sleep apnea is a disorder that results in a fragmentation of sleep, which has serious health consequences and leads to a reduction in quality of life. Obesity is a major risk factor. The severity of the condition is strongly related to excess body weight. Obese hypoventilation syndrome is a condition in which obesity impairs alveolar ventilation and CO2 removal, resulting in hypercapnia, which can lead to respiratory failure. Summary: Weight loss and interventions to prevent weight gain in people with a baseline BMI &gt;25 kg/m2 are fundamental to good health. For best results, a calorie-restricted diet should be combined with physical activity. The WHO has created recommendations for the amount of physical activity needed each week.</description>
+      <author>RW Makuch, Amir N. Kucharski, NULL AUTHOR_ID, Alicja Chro&#347;cicka, Kamil Ga&#322;a, Andrzej Czajka, Pawe&#322; Lenard, Sara Michalska, Martyna Dewicka, NULL AUTHOR_ID</author>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.12775/qs.2024.15.52231</guid>
     </item>
     <item>
       <title>Hierarchical Modeling of the Local Reaction Environment in Electrocatalysis</title>

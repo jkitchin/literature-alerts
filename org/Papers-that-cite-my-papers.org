@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Jul 15 01:12:56 2024
+Created on Tue Jul 16 01:12:16 2024
 
-Found 55 results from 2024-07-08 to 2024-07-15
+Found 55 results from 2024-07-09 to 2024-07-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881]]
@@ -13,27 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2795250219]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121]]
-
-* Revisiting the electrochemical reduction of CO2 on Au25(SR)18− nanocluster  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400400371
-:TOPICS: Structural and Functional Study of Noble Metal Nanoclusters, Nanomaterials with Enzyme-Like Characteristics, Applications of Quantum Dots in Nanotechnology
-:PUBLICATION_DATE: 2024-07-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cplett.2024.141462")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400400371"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400400371"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400400371"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400400371 (Open access: False)
-    
-[[https://openalex.org/A5072077291][Dominic Alfonso]], Chemical physics letters. None(None)] 2024. https://doi.org/10.1016/j.cplett.2024.141462 
-     
-No abstract    
-
-    
 
 * Phase-controlled synthesis of starch-derived Mo2C–MoC/C heterostructure catalyst for electrocatalytic hydrogen evolution reaction  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -913,7 +892,7 @@ OpenAlex: https://openalex.org/W4400603905 (Open access: False)
     
 [[https://openalex.org/A5035712391][Xiang He]], Langmuir. None(None)] 2024. https://doi.org/10.1021/acs.langmuir.4c01071 
      
-No abstract    
+The electrocatalytic nitrate reduction to ammonia holds significant values for water remediations and energy applications, which quests for the development of highly effective catalysts with considerable stability and selectivity. Recently, high-entropy alloys (HEAs) are attracting growing attention for electrocatalytic processes. Nonetheless, studies of HEA-based nitrate reduction to ammonia are still at the early stage, and it remains unclear how the HEA compositions affect the adsorption and activation of the reaction intermediates. Herein, high-throughput density functional theory (DFT) calculations were integrated with machine learning to investigate the dependence of nitrate adsorption on the FeCoNiCuZn HEA structures. In particular, a total of 1268 different structures were sampled and constructed from the multidimensional configuration space, followed by the DFT calculations to investigate the Gibbs free energy of nitrate adsorption (i.e., Δ    
 
     
 
@@ -996,6 +975,27 @@ No abstract
 OpenAlex: https://openalex.org/W4400611077 (Open access: False)
     
 [[https://openalex.org/A5101723156][Pilar Rodriguez Rodrí­guez]], [[https://openalex.org/A5099100265][Salomón Rodríguez-Carrera]], [[https://openalex.org/A5010883295][Alvaro Muñoz‐Castro]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4893394 
+     
+No abstract    
+
+    
+
+* 2D materials for enabling hydrogen as an energy vector  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400623392
+:TOPICS: Materials and Methods for Hydrogen Storage, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nanoen.2024.109997")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400623392"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400623392"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400623392"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400623392 (Open access: False)
+    
+[[https://openalex.org/A5003756709][Johnson Kehinde Abifarin]], [[https://openalex.org/A5010443131][Juan F. Torres]], [[https://openalex.org/A5012484573][Yuerui Lu]], Nano energy. None(None)] 2024. https://doi.org/10.1016/j.nanoen.2024.109997 
      
 No abstract    
 
