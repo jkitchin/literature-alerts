@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Jul 2024 01:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 01:11:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Phase-controlled synthesis of starch-derived Mo2C&#8211;MoC/C heterostructure catalyst for electrocatalytic hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.023</link>
-      <description>Xiang Zou, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Liping Li, NULL AUTHOR_ID, International journal of hydrogen energy. 79(None)] 2024. https://openalex.org/W4400405230
-
-                No abstract</description>
-      <author>Xiang Zou, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Liping Li, NULL AUTHOR_ID</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.023</guid>
-    </item>
-    <item>
-      <title>Electrochemical Reduction of Co2 on Pure and Doped Cu2o(111)</title>
-      <link>https://doi.org/10.2139/ssrn.4888703</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, Zhichao Yu, NULL AUTHOR_ID, NULL AUTHOR_ID, No host. None(None)] 2024. https://openalex.org/W4400405522
-
-                No abstract</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, Zhichao Yu, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4888703</guid>
-    </item>
-    <item>
-      <title>&lt;i&gt;Operando&lt;/i&gt; Electrodeposition of Nonprecious Metal Copper Nanocatalysts on Low-Dimensional Support Materials for Nitrate Reduction Reactions</title>
-      <link>https://doi.org/10.1021/acsnano.4c04947</link>
-      <description>Shu Fen Tan, Hany Roslie, Teddy Salim, NULL AUTHOR_ID, Dongshuang Wu, NULL AUTHOR_ID, Lim Fong Teo, Yeng Ming Lam, ACS nano. None(None)] 2024. https://openalex.org/W4400408645
-
-                Supported nonprecious metal catalysts such as copper (Cu) are promising replacements for Pt-based catalysts for a wide range of energy-related electrochemical reactions. Direct electrochemical deposition is one of the most straightforward and versatile methods to synthesize supported nonprecious metal catalysts. However, further advancement in the design of supported nonprecious metal catalysts requires a detailed mechanistic understanding of the interplay between kinetics and thermodynamics of the deposition phenomena under realistic reaction conditions. Here, we study the electrodeposition of Cu on carbon nanotubes and graphene derivatives under electrochemical conditions using</description>
-      <author>Shu Fen Tan, Hany Roslie, Teddy Salim, NULL AUTHOR_ID, Dongshuang Wu, NULL AUTHOR_ID, Lim Fong Teo, Yeng Ming Lam</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c04947</guid>
-    </item>
-    <item>
-      <title>Accurate and efficient prediction of optical gaps in silicon and germanium nanoparticles using a high-local-exchange density functional</title>
-      <link>https://doi.org/10.1016/j.cplett.2024.141460</link>
-      <description>Corentin Villot, NULL AUTHOR_ID, Chemical physics letters. None(None)] 2024. https://openalex.org/W4400409897
-
-                No abstract</description>
-      <author>Corentin Villot, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141460</guid>
-    </item>
-    <item>
-      <title>Overcoming the Chemical Complexity Bottleneck in on-the-Fly Machine Learned Molecular Dynamics Simulations</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00474</link>
-      <description>Lucas R. Timmerman, Shashikant Kumar, Phanish Suryanarayana, Andrew J. Medford, Journal of chemical theory and computation. None(None)] 2024. https://openalex.org/W4400420883
-
-                We develop a framework for on-the-fly machine learned force field molecular dynamics simulations based on the multipole featurization scheme that overcomes the bottleneck with the number of chemical elements. Considering bulk systems with up to 6 elements, we demonstrate that the number of density functional theory calls remains approximately independent of the number of chemical elements, in contrast to the increase in the smooth overlap of the atomic positions scheme.</description>
-      <author>Lucas R. Timmerman, Shashikant Kumar, Phanish Suryanarayana, Andrew J. Medford</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00474</guid>
-    </item>
-    <item>
-      <title>Atomic-scale identification of active sites of oxygen reduction nanocatalysts</title>
-      <link>https://doi.org/10.1038/s41929-024-01175-8</link>
-      <description>Yao Yang, Jihan Zhou, Zipeng Zhao, NULL AUTHOR_ID, NULL AUTHOR_ID, Colin Ophus, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Qiang Sun, NULL AUTHOR_ID, NULL AUTHOR_ID, Jim Ciston, NULL AUTHOR_ID, Philippe Sautet, NULL AUTHOR_ID, NULL AUTHOR_ID, Nature Catalysis. None(None)] 2024. https://openalex.org/W4400422748
-
-                No abstract</description>
-      <author>Yao Yang, Jihan Zhou, Zipeng Zhao, NULL AUTHOR_ID, NULL AUTHOR_ID, Colin Ophus, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Qiang Sun, NULL AUTHOR_ID, NULL AUTHOR_ID, Jim Ciston, NULL AUTHOR_ID, Philippe Sautet, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01175-8</guid>
-    </item>
-    <item>
-      <title>Functional high-entropy alloys: promising catalysts for high-performance water splitting</title>
-      <link>https://doi.org/10.1039/d4ta02271h</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Yuzhi Ke, NULL AUTHOR_ID, NULL AUTHOR_ID, Simin Jiang, NULL AUTHOR_ID, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4400426149
-
-                State-of-the-art HEAs with outstanding water splitting performance is rationally designed, which provides a blueprint for the design of a next-generation platform for hydrogen regeneration.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Yuzhi Ke, NULL AUTHOR_ID, NULL AUTHOR_ID, Simin Jiang, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta02271h</guid>
-    </item>
-    <item>
-      <title>Cooperativity between atoms in supported &#8220;Single-Atom Catalysts&#8221; and metal clusters</title>
-      <link>https://doi.org/10.1016/j.cej.2024.153840</link>
-      <description>Pedro Serna, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400428831
-
-                No abstract</description>
-      <author>Pedro Serna</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153840</guid>
-    </item>
-    <item>
-      <title>Choline chloride modification of nanofiltration membranes for improving heavy metal ions separation in wastewater</title>
-      <link>https://doi.org/10.1016/j.memsci.2024.123079</link>
-      <description>Junwei Li, Ying-Xue Song, Daliang Xu, Xi Zhang, Jiale Du, Riri Liu, Rui Zhao, Qin Chen, A. Volodin, Raf Dewil, Qieyuan Gao, Bart Van der Bruggen, Journal of membrane science. None(None)] 2024. https://openalex.org/W4400433450
-
-                No abstract</description>
-      <author>Junwei Li, Ying-Xue Song, Daliang Xu, Xi Zhang, Jiale Du, Riri Liu, Rui Zhao, Qin Chen, A. Volodin, Raf Dewil, Qieyuan Gao, Bart Van der Bruggen</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.memsci.2024.123079</guid>
-    </item>
     <item>
       <title>The excellent performance of oxygen evolution reaction on stainless steel electrodes by halogen oxyacid salts etching</title>
       <link>https://doi.org/10.1016/j.jcis.2024.07.043</link>
@@ -468,6 +378,76 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4893394</guid>
     </item>
     <item>
+      <title>Efficient and robust single-layer IrO cluster electrocatalyst for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ces.2024.120508</link>
+      <description>Wenbo Liu, Zhicheng Hu, Tong Ren, Zhipeng Xiang, Jinhua Piao, Kai Wan, Zhiyong Fu, Zhenxing Liang, Chemical engineering science. None(None)] 2024. https://openalex.org/W4400614572
+
+                No abstract</description>
+      <author>Wenbo Liu, Zhicheng Hu, Tong Ren, Zhipeng Xiang, Jinhua Piao, Kai Wan, Zhiyong Fu, Zhenxing Liang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120508</guid>
+    </item>
+    <item>
+      <title>Relaxor Unveils Geometrical Frustration</title>
+      <link>https://doi.org/10.1016/j.actamat.2024.120172</link>
+      <description>&#1052;. &#1042;. &#1058;&#1072;&#1083;&#1072;&#1085;&#1086;&#1074;, L. A. Avakyan, &#1042;. &#1048;. &#1050;&#1086;&#1079;&#1083;&#1086;&#1074;, &#1057;. &#1040;. &#1048;&#1074;&#1072;&#1085;&#1086;&#1074;, A.I. Stash, &#1045;. &#1057;. &#1046;&#1091;&#1082;&#1086;&#1074;&#1072;, B. P. Gorshunov, &#1040;. &#1040;. &#1041;&#1091;&#1096;, Acta materialia. None(None)] 2024. https://openalex.org/W4400615552
+
+                No abstract</description>
+      <author>&#1052;. &#1042;. &#1058;&#1072;&#1083;&#1072;&#1085;&#1086;&#1074;, L. A. Avakyan, &#1042;. &#1048;. &#1050;&#1086;&#1079;&#1083;&#1086;&#1074;, &#1057;. &#1040;. &#1048;&#1074;&#1072;&#1085;&#1086;&#1074;, A.I. Stash, &#1045;. &#1057;. &#1046;&#1091;&#1082;&#1086;&#1074;&#1072;, B. P. Gorshunov, &#1040;. &#1040;. &#1041;&#1091;&#1096;</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120172</guid>
+    </item>
+    <item>
+      <title>Confined Cu&#8544; sites in partially electro-reduced 2D conductive Cu-MOF film for boosting CO2 electrocatalysis to C2 products</title>
+      <link>https://doi.org/10.1016/j.cej.2024.153993</link>
+      <description>Bing Chang, Fengtao Zhang, Zhaojun Min, Sheng Wang, Qingchun Xia, Jing Fan, Maohong Fan, Jianji Wang, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400618342
+
+                No abstract</description>
+      <author>Bing Chang, Fengtao Zhang, Zhaojun Min, Sheng Wang, Qingchun Xia, Jing Fan, Maohong Fan, Jianji Wang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153993</guid>
+    </item>
+    <item>
+      <title>Quantum-level machine learning calculations of Levodopa</title>
+      <link>https://doi.org/10.1016/j.compbiolchem.2024.108146</link>
+      <description>Hossein Shirani, Seyed Majid Hashemianzadeh, Computational biology and chemistry. None(None)] 2024. https://openalex.org/W4400618468
+
+                No abstract</description>
+      <author>Hossein Shirani, Seyed Majid Hashemianzadeh</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compbiolchem.2024.108146</guid>
+    </item>
+    <item>
+      <title>Prediction of the catalytic mechanism of hydrogen evolution reaction enhanced by surface oxidation on FCC_CoCrFeNi and Co0.35Cr0.15Fe0.2Mo0.1Ni0.2 multi-principal element alloys based on site preference</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160730</link>
+      <description>Liangji Weng, Xiaoqiong Zhang, Longju Su, Cheng Qian, Qi Cai, Tianliang Xie, Rong Chen, Hui Guo, Bo Wu, Baisheng Sa, Applied surface science. None(None)] 2024. https://openalex.org/W4400618572
+
+                No abstract</description>
+      <author>Liangji Weng, Xiaoqiong Zhang, Longju Su, Cheng Qian, Qi Cai, Tianliang Xie, Rong Chen, Hui Guo, Bo Wu, Baisheng Sa</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160730</guid>
+    </item>
+    <item>
+      <title>Development of noble metal-free electrocatalysts towards acidic water oxidation: From fundamental understanding to state-of-the-art catalysts</title>
+      <link>https://doi.org/10.1016/j.esci.2024.100295</link>
+      <description>Jing Ni, Zhaoping Shi, Yibo Wang, Jiahao Yang, Hongxiang Wu, Pengbo Wang, Meiling Xiao, Changpeng Liu, Wei Xing, eScience. None(None)] 2024. https://openalex.org/W4400618967
+
+                No abstract</description>
+      <author>Jing Ni, Zhaoping Shi, Yibo Wang, Jiahao Yang, Hongxiang Wu, Pengbo Wang, Meiling Xiao, Changpeng Liu, Wei Xing</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100295</guid>
+    </item>
+    <item>
+      <title>Collaborative neural networks-accelerated prediction of transition state energy barriers for CO catalytic oxidation</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.175546</link>
+      <description>Tian Tang, Jingyu Xue, Xiaoqiang Shen, Jinfei Chen, Vladislav Rac, Vesna Raki&#263;, Xinbao Li, Bo Zhou, Yanrong Chen, Hao Song, Xuesen Du, Journal of alloys and compounds. 1002(None)] 2024. https://openalex.org/W4400621470
+
+                No abstract</description>
+      <author>Tian Tang, Jingyu Xue, Xiaoqiang Shen, Jinfei Chen, Vladislav Rac, Vesna Raki&#263;, Xinbao Li, Bo Zhou, Yanrong Chen, Hao Song, Xuesen Du</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175546</guid>
+    </item>
+    <item>
       <title>2D materials for enabling hydrogen as an energy vector</title>
       <link>https://doi.org/10.1016/j.nanoen.2024.109997</link>
       <description>Johnson Kehinde Abifarin, Juan F. Torres, Yuerui Lu, Nano energy. None(None)] 2024. https://openalex.org/W4400623392
@@ -476,6 +456,46 @@
       <author>Johnson Kehinde Abifarin, Juan F. Torres, Yuerui Lu</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109997</guid>
+    </item>
+    <item>
+      <title>Engineering electronic structures and oxygen vacancies of manganese-doped nickel molybdate porous nanosheets for efficient oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.07.118</link>
+      <description>Fang Miao, Peng Cui, Tiantian Gu, Bo Sun, Zhijie Yan, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400648309
+
+                No abstract</description>
+      <author>Fang Miao, Peng Cui, Tiantian Gu, Bo Sun, Zhijie Yan</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.118</guid>
+    </item>
+    <item>
+      <title>CO2 Electroreduction on Single Atom Catalysts: Role of the Local Coordination</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144714</link>
+      <description>Gianfranco Pacchioni, Giovanni Di Liberto, Gianfranco Pacchioni, Electrochimica acta. None(None)] 2024. https://openalex.org/W4400650185
+
+                No abstract</description>
+      <author>Gianfranco Pacchioni, Giovanni Di Liberto, Gianfranco Pacchioni</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144714</guid>
+    </item>
+    <item>
+      <title>Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Cu-Based Monatomic Alloys: A DFT Study</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c01246</link>
+      <description>Xiaojiao Li, Liyun Jiang, Yong Zhou, Qi Yu, Langmuir. None(None)] 2024. https://openalex.org/W4400651340
+
+                No abstract</description>
+      <author>Xiaojiao Li, Liyun Jiang, Yong Zhou, Qi Yu</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01246</guid>
+    </item>
+    <item>
+      <title>CrO&lt;sub&gt;x&lt;/sub&gt; Modified Nickel Phosphides Electrocatalyst for Stable Hydrogen Evolution Reaction in Neutral Media</title>
+      <link>https://doi.org/10.1002/adfm.202409365</link>
+      <description>P. Zhang, Han Man, Yao Huo, Fei Zhang, Yang Liu, Renbing Wu, Fei Wang, Dalin Sun, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400658006
+
+                Abstract The development of efficient and long&#8208;term stable electrodes for hydrogen evolution reaction (HER) in seawater is highly desirable for hydrogen generation but remains challenging. In this work, a highly active CrO x @Ni 2 P&#8208;Ni 5 P 4 /NF electrode is developed and investigated its dynamic reconstruction for HER in neutral electrolytes. The combination of in situ Raman spectra and electrochemical measurements revealed the dynamic surface reconstruction of the catalyst during HER. The CrO x modification not only effectively facilitates water dissociation but also stabilizes the structure post&#8208;reconstruction, enabling rapid and stable hydrogen generation in neutral media. Remarkably, CrO x @Ni 2 P&#8208;Ni 5 P 4 /NF exhibits overpotentials of 109 and 263 mV at current densities of 10 and 100 mA cm &#8722;2 in 1 m PBS, respectively. Concurrently, it exhibits stable operation for 500 h in 1 m PBS and 140 h in natural seawater at current densities of 50 and 100 mA cm &#8722;2 , respectively. The proposed catalytic electrode and the mechanistic insights present a significant stride toward the realization of metal phosphides for direct seawater splitting.</description>
+      <author>P. Zhang, Han Man, Yao Huo, Fei Zhang, Yang Liu, Renbing Wu, Fei Wang, Dalin Sun</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409365</guid>
     </item>
     <item>
       <title>Advancement in sodium carbonation pathways for sustainable carbon capture and utilization: A review</title>
@@ -498,14 +518,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.pmatsci.2024.101336</guid>
     </item>
     <item>
-      <title>H&lt;sub&gt;2&lt;/sub&gt;&#8211;D&lt;sub&gt;2&lt;/sub&gt; Exchange Activity and Electronic Structure of Ag&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Pd&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Alloy Catalysts Spanning Composition Space</title>
-      <link>https://doi.org/10.1021/acscatal.4c02309</link>
-      <description>Nicholas Golio, NULL AUTHOR_ID, Xiaoxiao Yu, Petro Kondratyuk, NULL AUTHOR_ID, ACS catalysis. None(None)] 2024. https://openalex.org/W4400406161
+      <title>Integrating digital chemistry within the broader chemistry community</title>
+      <link>https://doi.org/10.1016/j.trechm.2024.06.008</link>
+      <description>David Dalmau, Juan V. Alegre&#8208;Requena, Trends in chemistry. None(None)] 2024. https://openalex.org/W4400642443
 
                 No abstract</description>
-      <author>Nicholas Golio, NULL AUTHOR_ID, Xiaoxiao Yu, Petro Kondratyuk, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02309</guid>
+      <author>David Dalmau, Juan V. Alegre&#8208;Requena</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.trechm.2024.06.008</guid>
     </item>
     <item>
       <title>OBIWAN: An Element-Wise Scalable Feed-Forward Neural Network Potential</title>
@@ -516,6 +536,16 @@
       <author>Stefano Martire, Sergio Decherchi, Andrea Cavalli</author>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00342</guid>
+    </item>
+    <item>
+      <title>Sampling rare events using nanostructures for universal Pt neural network potential</title>
+      <link>https://doi.org/10.1016/j.cap.2024.07.005</link>
+      <description>Joonhee Kang, Byung&#8208;Hyun Kim, Min Ho Seo, Jehyun Lee, Current applied physics. 66(None)] 2024. https://openalex.org/W4400621569
+
+                No abstract</description>
+      <author>Joonhee Kang, Byung&#8208;Hyun Kim, Min Ho Seo, Jehyun Lee</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cap.2024.07.005</guid>
     </item>
     <item>
       <title>Active and Stable Plasma-Enhanced Ald Pt@Ni-Ysz Hydrogen Electrode for Steam Reversible Solid Oxide Cells</title>

@@ -1,28 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Tue Jul 16 01:12:05 2024
+Created on Wed Jul 17 01:11:03 2024
 
-Found 1 results from 2024-07-09 to 2024-07-16
+Found 0 results from 2024-07-10 to 2024-07-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
-* Tailoring Heterostructure Growth on Liquid Metal Nanodroplets through Interface Engineering  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400413467
-:TOPICS: Ice Nucleation and Melting Phenomena, Nanofluidics and Nanopore Technology, Plasmonic Nanoparticles: Synthesis, Properties, and Applications
-:PUBLICATION_DATE: 2024-07-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.4c02521")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400413467"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400413467"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400413467"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400413467 (Open access: False)
-    
-[[https://openalex.org/A5042025291][Siqi Guo]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A5100615555][Jian Wang]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A9999999999][NULL AUTHOR_ID]], [[https://openalex.org/A5021692036][Ningyan Cheng]], [[https://openalex.org/A5033392797][Long Ren]], [[https://openalex.org/A5047969603][Binghui Ge]], Journal of the American Chemical Society. None(None)] 2024. https://doi.org/10.1021/jacs.4c02521 
-     
-Liquid metal (LM) nanodroplets possess intriguing surface properties, thus offering promising potential in chemical synthesis, catalysis, and biomedicine. However, the reaction kinetics and product growth at the surface of LM nanodroplets are significantly influenced by the interface involved, which has not been thoroughly explored and understood. Here, we propose an interface engineering strategy, taking a spontaneous galvanic reaction between Ga    
-
-    

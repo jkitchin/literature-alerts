@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Jul 2024 01:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 01:11:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Decoupling Plasmonic Hot Carrier from Thermal Catalysis via Electrode Engineering</title>
-      <link>https://doi.org/10.1021/acs.nanolett.4c01803</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, Yeersen Patehebieke, NULL AUTHOR_ID, Carl&#8208;Johan Wallentin, Mikaela G&#246;rlin, NULL AUTHOR_ID, Nano letters. None(None)] 2024. https://openalex.org/W4400421741
-
-                Increased attention has been directed toward generating nonequilibrium hot carriers resulting from the decay of collective electronic oscillations on metal known as surface plasmons. Despite numerous experimental endeavors, demonstrating hot carrier-mediated photocatalysis without a heating contribution has proven challenging, particularly for single electron transfer reactions where the thermal contribution is generally detrimental. An innovative engineering solution is proposed to enable single electron transfer reactions with plasmonics. It consists of a photoelectrode designed as an energy filter and photocatalysis performed with light function modulation instead of continuously. The photoelectrode, consisting of FTO/TiO</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, Yeersen Patehebieke, NULL AUTHOR_ID, Carl&#8208;Johan Wallentin, Mikaela G&#246;rlin, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c01803</guid>
-    </item>
   </channel>
 </rss>

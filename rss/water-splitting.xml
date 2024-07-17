@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Jul 2024 01:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 01:11:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mesoporous graphene-supported nanostructured nickel telluride for efficient electrocatalytic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.132439</link>
-      <description>NULL AUTHOR_ID, Jeongwon Park, Hyun Jung, Fuel. 374(None)] 2024. https://openalex.org/W4400405078
-
-                No abstract</description>
-      <author>NULL AUTHOR_ID, Jeongwon Park, Hyun Jung</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.132439</guid>
-    </item>
-    <item>
-      <title>Surface reconstruction and entropy engineering of Ni(OH)2 nanosheets for enhanced electrocatalytic performances of oxygen evolution reaction in alkaline seawater</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.132450</link>
-      <description>Bing Wu, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Yudong Zhang, Peng Wang, NULL AUTHOR_ID, NULL AUTHOR_ID, Saifang Huang, Fuel. 374(None)] 2024. https://openalex.org/W4400405981
-
-                No abstract</description>
-      <author>Bing Wu, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Yudong Zhang, Peng Wang, NULL AUTHOR_ID, NULL AUTHOR_ID, Saifang Huang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.132450</guid>
-    </item>
-    <item>
-      <title>In-Situ Transcribed Local Coordinations from Pre-Catalyst for Efficient Electrocatalytic Oxygen Evolution</title>
-      <link>https://doi.org/10.2139/ssrn.4888866</link>
-      <description>Yuhao Zhang, NULL AUTHOR_ID, NULL AUTHOR_ID, Chenyu Yang, Baojie Li, Jianglong Guo, Jingjing Jiang, NULL AUTHOR_ID, NULL AUTHOR_ID, Dongwei Ma, NULL AUTHOR_ID, No host. None(None)] 2024. https://openalex.org/W4400406109
-
-                No abstract</description>
-      <author>Yuhao Zhang, NULL AUTHOR_ID, NULL AUTHOR_ID, Chenyu Yang, Baojie Li, Jianglong Guo, Jingjing Jiang, NULL AUTHOR_ID, NULL AUTHOR_ID, Dongwei Ma, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4888866</guid>
-    </item>
-    <item>
-      <title>Hydrothermal self-assembly of needle and sheet spherical array CuCo2O4 nanostructures on graphene aerogels for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1007/s11581-024-05687-y</link>
-      <description>Qiujie Shou, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Zaoxue Yan, NULL AUTHOR_ID, Ionics. None(None)] 2024. https://openalex.org/W4400406204
-
-                No abstract</description>
-      <author>Qiujie Shou, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Zaoxue Yan, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05687-y</guid>
-    </item>
-    <item>
-      <title>Oxygen&#8208;Assisted Supercapacitive Swing Adsorption of Carbon Dioxide</title>
-      <link>https://doi.org/10.1002/anie.202404881</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Bar Mosevitzky, NULL AUTHOR_ID, NULL AUTHOR_ID, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400408279
-
-                We report on the supercapacitive swing adsorption (SSA) of carbon dioxide at different voltage windows in the presence of oxygen using activated carbon electrodes, and deliquescent, aqueous electrolytes. The presence of O2 in the CO2/N2 gas mixture results in an up to 11 times higher CO2 adsorption capacity with 3M MgBr2 (at 0.6V) and up to 4&#8208;5 times higher adsorption capacity with 3M MgCl2 (at 1V). A tradeoff between high CO2 adsorption capacities and lower coulombic efficiencies was observed at voltages above 0.6V. The energetic and adsorptive performance of the electrodes in the presence of oxygen below 0.5V was similar to the performance with a CO2/N2 mixture without oxygen at 1V. Cyclic voltammetry (CV) and electrochemical impedance spectroscopy (EIS) of the electrodes demonstrate that the specific capacitance increases while the diffusion resistance decreases in the presence of oxygen. Oxygen concentrations ranging between 5&#8208;20% give similar energetic and adsorptive performance. The electrodes exhibit stable performance for up to 100 cycles of operation.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Bar Mosevitzky, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202404881</guid>
-    </item>
-    <item>
-      <title>Template-Assisted in situ synthesis of superaerophobic bimetallic MOF composites with tunable morphology for boosted oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.07.063</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Wenchao Peng, Wenchao Peng, NULL AUTHOR_ID, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400413493
-
-                No abstract</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Wenchao Peng, Wenchao Peng, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.063</guid>
-    </item>
-    <item>
-      <title>Electrosynthesis of Transition Metal Coordinated Polymers for Active and Stable Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/ange.202409628</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, Hongye Qin, Jinhan Li, Xijie Chen, Kuiming Liu, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400422640
-
-                Transition metal coordination polymers (TM&#8208;CP) are promising inexpensive and flexible electrocatalysts for oxygen evolution reaction in water electrolysis, while their facile synthesis and controllable regulation remain challenging. Here we report an anodic oxidation&#8208;electrodeposition strategy for the growth of TM&#8208;CP (TM = Fe, Co, Ni, Cr, Mn; CP = polyaniline, polypyrrole) films on a variety of metal substrates that act as both catalyst supports and metal ion sources. An exemplified bimetallic NiFe&#8208;polypyrrole (NiFe&#8208;PPy) features superior mechanical stability in friction and exhibits high activity with long&#8208;term durability in alkaline seawater (over 2000 h) and anion exchange membrane electrolyzer devices at current density of 500 mA cm&#8722;2. Spectroscopic and microscopic analysis unravels the configurations with atomically distributed metal sites induced by d&#8208;&#960; conjugation, which transforms into a mosaic structure with NiFe (oxy)hydroxides embedded in PPy matrix during oxygen evolution. The superior catalytic performance is ascribed to the anchoring effect of PPy that inhibits the metal dissolution, the strong substrate&#8208;to&#8208;catalyst interaction that ensures good adhesion, and the Fe/Ni&#8722;N coordination that modulates the electronic structures to facilitate the deprotonation of *OOH intermediate. This work provides a general strategy and mechanistic insight into building robust inorganic/polymer composite electrodes for oxygen electrocatalysis.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, Hongye Qin, Jinhan Li, Xijie Chen, Kuiming Liu, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409628</guid>
-    </item>
-    <item>
-      <title>Electrosynthesis of Transition Metal Coordinated Polymers for Active and Stable Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/anie.202409628</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Xijie Chen, NULL AUTHOR_ID, Tete Zhao, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Fangyi Cheng, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400422778
-
-                Transition metal coordination polymers (TM&#8208;CP) are promising inexpensive and flexible electrocatalysts for oxygen evolution reaction in water electrolysis, while their facile synthesis and controllable regulation remain challenging. Here we report an anodic oxidation&#8208;electrodeposition strategy for the growth of TM&#8208;CP (TM = Fe, Co, Ni, Cr, Mn; CP = polyaniline, polypyrrole) films on a variety of metal substrates that act as both catalyst supports and metal ion sources. An exemplified bimetallic NiFe&#8208;polypyrrole (NiFe&#8208;PPy) features superior mechanical stability in friction and exhibits high activity with long&#8208;term durability in alkaline seawater (over 2000 h) and anion exchange membrane electrolyzer devices at current density of 500 mA cm&#8722;2. Spectroscopic and microscopic analysis unravels the configurations with atomically distributed metal sites induced by d&#8208;&#960; conjugation, which transforms into a mosaic structure with NiFe (oxy)hydroxides embedded in PPy matrix during oxygen evolution. The superior catalytic performance is ascribed to the anchoring effect of PPy that inhibits the metal dissolution, the strong substrate&#8208;to&#8208;catalyst interaction that ensures good adhesion, and the Fe/Ni&#8722;N coordination that modulates the electronic structures to facilitate the deprotonation of *OOH intermediate. This work provides a general strategy and mechanistic insight into building robust inorganic/polymer composite electrodes for oxygen electrocatalysis.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Xijie Chen, NULL AUTHOR_ID, Tete Zhao, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Fangyi Cheng</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202409628</guid>
-    </item>
-    <item>
-      <title>Elevating Oxygen Evolution using Iron Phthalocyanine Infused Vanillic acid Electrocatalyst</title>
-      <link>https://doi.org/10.1002/chem.202401759</link>
-      <description>NULL AUTHOR_ID, Shantharaja Daniel, Lokesh Koodlur Sannegowda, Chemistry. None(None)] 2024. https://openalex.org/W4400425490
-
-                Oxygen evolution reaction (OER) is the bottle neck step in water splitting reaction towards the realization of hydrogen based clean energy production and storage. Transition metal based N4 organics are explored extensively as oxygen electrocatalysts i.e., (OER) and oxygen reduction reaction (ORR) catalysts because of their ease of synthesis, tuneable properties, low cost and high performance with long term stability. Here, vanillic acid functionalized iron phthalocyanine (FeVAPc) was synthesised and characterised. The novel FeVAPc exhibited good thermal stability and was coated on Ni foam for OER studies. The scanning electron microscopy images showed net&#8208;work like surface morphology and the X&#8208;ray photoelectron spectroscopy indicated the presence of Fe in +3 oxidation state. The Ni/FeVAPc demonstrated excellent electrocatalytic activity for OER with overpotential of 312 mV at 10 mA.cm&#8208;2 current density in 1.0 M KOH . The designed catalyst exhibited lesser Tafel slope value which is nearer to the benchmark catalyst, IrO2. The proposed catalyst exhibited good stability as phthalocyanines are highly stable and do not undergo decomposition even in strong acidic and basic corrosive media. Integration of FeVAPc onto Ni foam resulted in higher mass activity, lower charge transfer resistance, high active surface area leading to enhanced conductivity and activity.</description>
-      <author>NULL AUTHOR_ID, Shantharaja Daniel, Lokesh Koodlur Sannegowda</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/chem.202401759</guid>
-    </item>
-    <item>
-      <title>Metal-Organic Frameworks (MOFs) for Hybrid Water Electrolysis: Structure-Property-Performance Correlation</title>
-      <link>https://doi.org/10.1039/d4cc02729a</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, Chemical communications. None(None)] 2024. https://openalex.org/W4400425545
-
-                Hybrid water electrolysis (HWE) emerges as a promising pathway for the simultaneous production of high-value chemicals and clean H2 fuel. Unlike conventional electrochemical water splitting, which relies on the oxygen...</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc02729a</guid>
-    </item>
-    <item>
-      <title>Flexible tungsten disulfide superstructure engineering for efficient alkaline hydrogen evolution in anion exchange membrane water electrolysers</title>
-      <link>https://doi.org/10.1038/s41467-024-50117-2</link>
-      <description>NULL AUTHOR_ID, Longlu Wang, NULL AUTHOR_ID, NULL AUTHOR_ID, Xixing Wen, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Nature communications. 15(1)] 2024. https://openalex.org/W4400429700
-
-                Abstract Anion exchange membrane (AEM) water electrolysis employing non-precious metal electrocatalysts is a promising strategy for achieving sustainable hydrogen production. However, it still suffers from many challenges, including sluggish alkaline hydrogen evolution reaction (HER) kinetics, insufficient activity and limited lifetime of non-precious metal electrocatalysts for ampere-level-current-density alkaline HER. Here, we report an efficient alkaline HER strategy at industrial-level current density wherein a flexible WS 2 superstructure is designed to serve as the cathode catalyst for AEM water electrolysis. The superstructure features bond-free van der Waals interaction among the low Young&#8217;s modulus nanosheets to ensure excellent mechanical flexibility, as well as a stepped edge defect structure of nanosheets to realize high catalytic activity and a favorable reaction interface micro-environment. The unique flexible WS 2 superstructure can effectively withstand the impact of high-density gas-liquid exchanges and facilitate mass transfer, endowing excellent long-term durability under industrial-scale current density. An AEM electrolyser containing this catalyst at the cathode exhibits a cell voltage of 1.70 V to deliver a constant catalytic current density of 1 A cm &#8722;2 over 1000 h with a negligible decay rate of 9.67 &#956;V h &#8722;1 .</description>
-      <author>NULL AUTHOR_ID, Longlu Wang, NULL AUTHOR_ID, NULL AUTHOR_ID, Xixing Wen, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50117-2</guid>
-    </item>
     <item>
       <title>Modulation of morphology and electronic structure of cobalt thiophenedicarboxylic coordination polymer via ligand exchange for high-performance oxygen evolution reaction and supercapacitor</title>
       <link>https://doi.org/10.1016/j.jcis.2024.07.071</link>
@@ -420,6 +310,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta03576c</guid>
     </item>
     <item>
+      <title>Impact of Defects and Disorder on the Stability of Ta&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;5&lt;/sub&gt; Photoanodes</title>
+      <link>https://doi.org/10.1002/adfm.202405532</link>
+      <description>Lukas Wolz, Gabriel Gr&#246;tzner, Tim Rieth, Laura I. Wagner, Matthias Kuhl, Johannes Dittloff, Guanda Zhou, Saswati Santra, Verena Streibel, Frans Munnik, Ian D. Sharp, Johanna Eichhorn, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400566096
+
+                Abstract The photoelectrochemical performance of Ta 3 N 5 photoanodes is strongly impacted by the presence of shallow and deep defects within the bandgap. However, the role of such states in defining stability under operational conditions is not well understood. Here, a highly controllable synthesis approach is used to create homogenous Ta 3 N 5 thin films with tailored defect concentrations to establish the relationship between atomic&#8208;scale point defects and macroscale stability. Reduced oxygen contents increase long&#8208;range structural order but lead to high concentrations of deep&#8208;level states, while higher oxygen contents result in reduced structural order but beneficially passivate deep&#8208;level defects. Despite the different defect properties, the synthesized photoelectrodes degrade similarly under water oxidation conditions due to the formation of a surface oxide layer that blocks interfacial hole injection and accelerates charge recombination. In contrast, under ferrocyanide oxidation conditions, it is found that Ta 3 N 5 films with high oxygen concentrations exhibit long&#8208;term stability, whereas those possessing lower oxygen contents and higher deep&#8208;level defect concentrations rapidly degrade. These results indicate that deep&#8208;level defects result in rapid trapping of photocarriers and surface oxidation but that shallow oxygen donors can be introduced into Ta 3 N 5 to enable kinetic stabilization of the interface.</description>
+      <author>Lukas Wolz, Gabriel Gr&#246;tzner, Tim Rieth, Laura I. Wagner, Matthias Kuhl, Johannes Dittloff, Guanda Zhou, Saswati Santra, Verena Streibel, Frans Munnik, Ian D. Sharp, Johanna Eichhorn</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202405532</guid>
+    </item>
+    <item>
       <title>Tungsten Single Atoms Incorporated in Cobalt Spinel Oxide for Highly Efficient Electrocatalytic Oxygen Evolution in Acid</title>
       <link>https://doi.org/10.1039/d4ee01783h</link>
       <description>Jing Cao, Dezheng Zhang, Bianqing Ren, Weilin Xu, Ping Song, Energy &amp; environmental science. None(None)] 2024. https://openalex.org/W4400571130
@@ -570,6 +470,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.109</guid>
     </item>
     <item>
+      <title>Efficient and robust single-layer IrO cluster electrocatalyst for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ces.2024.120508</link>
+      <description>Wenbo Liu, Zhicheng Hu, Tong Ren, Zhipeng Xiang, Jinhua Piao, Kai Wan, Zhiyong Fu, Zhenxing Liang, Chemical engineering science. None(None)] 2024. https://openalex.org/W4400614572
+
+                No abstract</description>
+      <author>Wenbo Liu, Zhicheng Hu, Tong Ren, Zhipeng Xiang, Jinhua Piao, Kai Wan, Zhiyong Fu, Zhenxing Liang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120508</guid>
+    </item>
+    <item>
+      <title>A review of efficient electrocatalysts for the oxygen evolution reaction at large current density</title>
+      <link>https://doi.org/10.1016/j.decarb.2024.100062</link>
+      <description>Youtao Yao, Jiahui Lyu, Xingchuan Li, Cheng Chen, Francis Verpoort, John Wang, Zhenghui Pan, Zongkui Kou, DeCarbon. None(None)] 2024. https://openalex.org/W4400614763
+
+                No abstract</description>
+      <author>Youtao Yao, Jiahui Lyu, Xingchuan Li, Cheng Chen, Francis Verpoort, John Wang, Zhenghui Pan, Zongkui Kou</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.decarb.2024.100062</guid>
+    </item>
+    <item>
       <title>Corrigendum to &#8216;Single atom catalysts supported on cyclo[18]carbon and its allotropes (B9N9 and Al9N9) for the hydrogen evolution and oxygen evolution reactions&#8217; Surfaces and Interfaces Volume 42, Part A (2023) 103319</title>
       <link>https://doi.org/10.1016/j.surfin.2024.104787</link>
       <description>Nuha Wazzan, Prafulla K. Jha, Surfaces and interfaces. None(None)] 2024. https://openalex.org/W4400618052
@@ -578,6 +498,106 @@
       <author>Nuha Wazzan, Prafulla K. Jha</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104787</guid>
+    </item>
+    <item>
+      <title>Rational design of highly corrosion-resistant chromium hydroxide coupled amorphous-crystalline heterostructure to achieve efficient and stable seawater oxygen evolution</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115655</link>
+      <description>Fanjia Sun, Yanhui Wang, Xueqing Tian, Rui Zhu, Zhiwei Hou, Youbin Zheng, Jianbing Zang, Yukui Zhang, Journal of catalysis. None(None)] 2024. https://openalex.org/W4400621650
+
+                No abstract</description>
+      <author>Fanjia Sun, Yanhui Wang, Xueqing Tian, Rui Zhu, Zhiwei Hou, Youbin Zheng, Jianbing Zang, Yukui Zhang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115655</guid>
+    </item>
+    <item>
+      <title>Bifunctional amorphous high entropy materials for sensitive nitrite detection and efficient oxygen evolution reaction electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.cej.2024.153997</link>
+      <description>Jiali Chen, Lijuan Chen, Wanting Zhu, Xiaobing Huang, Wei Wang, Dongxue Han, Li Niu, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400622597
+
+                No abstract</description>
+      <author>Jiali Chen, Lijuan Chen, Wanting Zhu, Xiaobing Huang, Wei Wang, Dongxue Han, Li Niu</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153997</guid>
+    </item>
+    <item>
+      <title>Unraveling the oxygen evolution in layered LiNiO2 with the role of Li/Ni disordering</title>
+      <link>https://doi.org/10.1016/j.ensm.2024.103632</link>
+      <description>Yining Jia, Xudong Hou, Kun Li, Linyu Wang, Meng Zhang, Zikun Li, Xianqi Xu, Jiaxin Zheng, Energy storage materials. None(None)] 2024. https://openalex.org/W4400624264
+
+                No abstract</description>
+      <author>Yining Jia, Xudong Hou, Kun Li, Linyu Wang, Meng Zhang, Zikun Li, Xianqi Xu, Jiaxin Zheng</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2024.103632</guid>
+    </item>
+    <item>
+      <title>Electronic Promoter Breaks the Linear Scaling Relationship&#65306;Ultra-Rapid High-Temperature Synthesis of Heterostructured Cos/Sno2@C as a Bifunctional Oxygen Catalyst for Li&#8208;O2 Batteries</title>
+      <link>https://doi.org/10.2139/ssrn.4894968</link>
+      <description>Li Wang, Tung-Jing Fang, Truong Thien Vinh An, Sheng Wang, Jiaqi Li, Shuming Yu, Honghai Sun, Xiang Dong, Xiangjie Bo, Kedi Cai, No host. None(None)] 2024. https://openalex.org/W4400641638
+
+                No abstract</description>
+      <author>Li Wang, Tung-Jing Fang, Truong Thien Vinh An, Sheng Wang, Jiaqi Li, Shuming Yu, Honghai Sun, Xiang Dong, Xiangjie Bo, Kedi Cai</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4894968</guid>
+    </item>
+    <item>
+      <title>Engineering electronic structures and oxygen vacancies of manganese-doped nickel molybdate porous nanosheets for efficient oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.07.118</link>
+      <description>Fang Miao, Peng Cui, Tiantian Gu, Bo Sun, Zhijie Yan, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400648309
+
+                No abstract</description>
+      <author>Fang Miao, Peng Cui, Tiantian Gu, Bo Sun, Zhijie Yan</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.118</guid>
+    </item>
+    <item>
+      <title>Facile Synthesis of Carbon-Coated Nips3 Nanoparticle Electrocatalyst for Highly Efficient Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.2139/ssrn.4895223</link>
+      <description>Dongjun Lee, Doyeon Lee, Wook Kim, Seong-Hyeon Hong, Hee Jo Song, No host. None(None)] 2024. https://openalex.org/W4400648521
+
+                No abstract</description>
+      <author>Dongjun Lee, Doyeon Lee, Wook Kim, Seong-Hyeon Hong, Hee Jo Song</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4895223</guid>
+    </item>
+    <item>
+      <title>Approaching high oxygen evolution reaction performance by synergetic dual-ion leaching</title>
+      <link>https://doi.org/10.1007/s12274-024-6812-1</link>
+      <description>Hancheng Ma, Yao Ding, Jia Li, Wei Peng, Liqiang Mai, Nano research. None(None)] 2024. https://openalex.org/W4400656142
+
+                No abstract</description>
+      <author>Hancheng Ma, Yao Ding, Jia Li, Wei Peng, Liqiang Mai</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6812-1</guid>
+    </item>
+    <item>
+      <title>Co@Ir Core-shell Nanochain Aerogels for Hydrogen Evolution Reaction and Oxygen Evolution Reaction in Alkaline Media</title>
+      <link>https://doi.org/10.1039/d4nj02733g</link>
+      <description>Jiacheng Chen, Zihao Xie, Yujun Tang, Zhenghua Tang, Xiufang Wang, New journal of chemistry. None(None)] 2024. https://openalex.org/W4400661800
+
+                Developing efficient and stable oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) catalysts is critical for realizing large-scale hydrogen production via electrochemical water splitting. Here, we report a facile...</description>
+      <author>Jiacheng Chen, Zihao Xie, Yujun Tang, Zhenghua Tang, Xiufang Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4nj02733g</guid>
+    </item>
+    <item>
+      <title>Harnessing the Trade&#8208;Off between CoFe/Fe&lt;sub&gt;3&lt;/sub&gt;C Interfacial Junction with Unparalleled Potential Gap of 0.58 V for Reversible Oxygen Electrocatalysis: Application toward Liquid and Solid&#8208;State Zn&#8208;Air Batteries</title>
+      <link>https://doi.org/10.1002/adfm.202407078</link>
+      <description>Srijib Das, A. J. Pathak, Ujjwal Phadikar, Chinmoy Kuila, Animesh Maji, Tapas Kuila, Naresh Chandra Murmu, Ranjit Thapa, Aniruddha Kundu, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400664469
+
+                Abstract Effective integration of multiple active moieties and strategic engineering of coordinated interfacial junctions are crucial for optimizing the reaction kinetics and intrinsic activities of heterogeneous electrocatalysts. Herein, a simple integrated heterostructure of biphasic Co 0.7 Fe 0.3 /Fe 3 C embedded on in situ grown N&#8208;doped carbon sheets is constructed. Rationally designed CoFe/Fe 3 C&#8208;T 2 owns more accessible active sites and interfacial junction effects, cooperatively boosting the electron and mass transfer, needed for multifunctional electrocatalysis. Leveraging the synergistic effect of dual active sites, CoFe/Fe 3 C&#8208;T 2 demonstrates outstanding oxygen electrocatalytic activity in alkaline medium with an ultra&#8208;low potential gap of 0.58 V, surpassing the recently available state&#8208;of&#8208;the&#8208;art catalysts. Moreover, CoFe/Fe 3 C&#8208;T 2 air&#8208;electrode achieves a high peak power density of 249 mW cm &#8722;2 , a large specific capacity of 808 mAh g &#8722;1 and excellent cycling stability for aqueous Zn&#8208;air batteries. Remarkably, the solid&#8208;state flexible ZAB also exhibits satisfactory performance, showcasing an open&#8208;circuit voltage of 1.43 V and a peak power density of 66 mW cm &#8722;2 . These outstanding results push this catalyst to the top of the list of non&#8208;noble metal&#8208;based electrode materials. This work offers a viable method for using the active&#8208;site&#8208;uniting strategy to create double&#8208;active&#8208;site catalysts, which may find real&#8208;time applications in energy conversion/storage devices.</description>
+      <author>Srijib Das, A. J. Pathak, Ujjwal Phadikar, Chinmoy Kuila, Animesh Maji, Tapas Kuila, Naresh Chandra Murmu, Ranjit Thapa, Aniruddha Kundu</author>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202407078</guid>
+    </item>
+    <item>
+      <title>Rutile&#8208;Structured Ru&lt;sub&gt;0.48&lt;/sub&gt;Mn&lt;sub&gt;0.52&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Solid Solution for Highly Active and Stable Oxygen Evolution at Large Current Density in Acidic Media</title>
+      <link>https://doi.org/10.1002/adfm.202409714</link>
+      <description>Zonglin Li, Hong Sheng, Yichao Lin, Hongyan Hu, Hongfei Sun, Dong Yan, Wei Wang, Lingzhi Wei, Ziqi Tian, Qianwang Chen, Jianwei Su, Liang Chen, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400664556
+
+                Abstract The development of active, stable, and cost&#8208;effective electrocatalysts for the oxygen evolution reaction (OER) in acidic media is crucial for proton&#8208;exchange&#8208;membrane water electrolysis. Inspired by theoretical screening on a series of transition metal incorporated RuO 2 systems, a low Ru&#8208;content solid solution oxide (Ru 0.48 Mn 0.52 O 2 ) achieved is fabricated by a simple two&#8208;step synthesis method through the combination of rutile RuO 2 and &#946;&#8208;MnO 2 . The Ru 0.48 Mn 0.52 O 2 catalyst exhibits an exceptionally low overpotential of 154 mV at 10 mA cm &#8722;2 and maintains a high stability under a high current of 100 mA cm &#8722;2 for 50 h in 0.5 m H 2 SO 4 electrolyte. Furthermore, the obtained catalyst exhibits sustained stability at a large current of 0.5 A cm &#8722;2 for at least 50 h when loaded onto a Ti felt. The in&#8208;situ characterization results indicate that Ru 0.48 Mn 0.52 O 2 preferably followed the adsorbate evolution mechanism rather than the lattice oxygen oxidation mechanism during the OER process, contributing to its high activity and stability at large current densities in acidic media.</description>
+      <author>Zonglin Li, Hong Sheng, Yichao Lin, Hongyan Hu, Hongfei Sun, Dong Yan, Wei Wang, Lingzhi Wei, Ziqi Tian, Qianwang Chen, Jianwei Su, Liang Chen</author>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409714</guid>
     </item>
     <item>
       <title>Highly Active Oxygen Evolution Reaction Catalyst Using Rhombohedral Boron Monosulfide</title>
@@ -608,6 +628,16 @@
       <author>Xin Wang, Anran Yang</author>
       <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00842</guid>
+    </item>
+    <item>
+      <title>Enhanced oxygen evolution reaction by modulating the electronic states of a flexible van der Waals membranous catalyst with infinite-layer phase</title>
+      <link>https://doi.org/10.1016/j.ceramint.2024.07.133</link>
+      <description>Hang Xu, Siqi Meng, Yukui Zhang, Linglong Hu, Daming Yang, Ze Gao, Zeyu Zhao, Ming Feng, Ceramics international. None(None)] 2024. https://openalex.org/W4400612712
+
+                No abstract</description>
+      <author>Hang Xu, Siqi Meng, Yukui Zhang, Linglong Hu, Daming Yang, Ze Gao, Zeyu Zhao, Ming Feng</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2024.07.133</guid>
     </item>
     <item>
       <title>Methanol steam mediated corrosion engineering towards high-entropy NiFe layered double hydroxide for ultra-stable oxygen evolution</title>
@@ -680,26 +710,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoms.2024.05.016</guid>
     </item>
     <item>
-      <title>Facile Synthesis of Oxygen-Doped g-C3N4 Mesoporous Nanosheets for Significant Enhancement of Photocatalytic Hydrogen Evolution Performance</title>
-      <link>https://doi.org/10.3390/ma17133345</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Materials. 17(13)] 2024. https://openalex.org/W4400417926
-
-                In this work, oxygen-doped g-C3N4 mesoporous nanosheets (O-CNS) were synthesized via a facile recrystallization method with the assistance of H2O2. The crystal phase, chemical composition, morphological structure, optical property, electronic structure and electrochemical property of the prepared O-CNS samples were well investigated. The morphological observation combined with the nitrogen adsorption&#8211;desorption results demonstrated that the prepared O-CNS samples possessed nanosheet-like morphology with a porous structure. Doping O into g-C3N4 resulted in the augmentation of the specific surface area, which could provide more active sites for photocatalytic reactions. Simultaneously, the visible light absorption capacity of O-CNS samples was boosted owing to the regulation of O doping. The built energy level induced by the O doping could accelerate the migration rate of photoinduced carriers, and the porous structure was most likely to speed up the release of hydrogen during the photocatalytic hydrogen process. Resultantly, the photocatalytic hydrogen production rate of the optimized oxygen-doped g-C3N4 nanosheets reached up to 2012.9 &#956;mol&#183;h&#8722;1&#183;g&#8722;1, which was 13.4 times higher than that of bulk g-C3N4. Thus, the significantly improved photocatalytic behavior was imputed to the synergistic effect of the porous structure, the increase in active sites, and the enhancement of visible light absorption and charge separation efficiency. Our research highlights that the synergistic effect caused by element doping will make a great contribution to the remarkable improvement in photocatalytic activity, providing a new inspiration for the construction of novel catalysts.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ma17133345</guid>
-    </item>
-    <item>
-      <title>Iron-cobalt nanoparticles dispersed in indium-based MIL-68-derived carbon nanosticks for water oxidation</title>
-      <link>https://doi.org/10.1039/d4cy00746h</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, Yuting Fu, Junliang Chen, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Catalysis science &amp; technology. None(None)] 2024. https://openalex.org/W4400429122
-
-                FeCo-based catalysts exhibit excellent oxygen evolution reaction (OER) in terms of high activity and robust stability. Herein, the dispersed bimetallic FeCo nanoparticles can be effectively encapsulated into an isostructural In-based...</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, Yuting Fu, Junliang Chen, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cy00746h</guid>
-    </item>
-    <item>
       <title>Natural biomass derived single-atom catalysts for energy and environmental applications</title>
       <link>https://doi.org/10.1016/j.ijbiomac.2024.133694</link>
       <description>Nan Yu, Xin Liu, Long Kuai, International journal of biological macromolecules. None(None)] 2024. https://openalex.org/W4400441693
@@ -750,16 +760,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/fuce.202300209</guid>
     </item>
     <item>
-      <title>Developing Catalysts for Membrane Electrode Assemblies in High Performance Polymer Electrolyte Membrane Water Electrolyzers</title>
-      <link>https://doi.org/10.1002/cssc.202301827</link>
-      <description>Sun Seo Jeon, Won-Jae Lee, Hyeseong Jeon, Hyunjoo Jenny Lee, ChemSusChem. None(None)] 2024. https://openalex.org/W4400494512
-
-                Extensive research is underway to achieve carbon neutrality through the production of green hydrogen via water electrolysis, powered by renewable energy. Polymer membrane water electrolyzers, such as proton exchange membrane water electrolyzer (PEMWE) and anion exchange membrane water electrolyzer (AEMWE), are at the forefront of this research. Developing highly active and durable electrode catalysts is very important for commercializing these electrolyzers. However, most research is conducted in half&#8208;cell setups, which may not fully represent the catalysts' effectiveness in membrane&#8208;electrode&#8208;assembly (MEA) devices. This review explores the catalysts developed for high&#8208;performance PEMWE and AEMWE MEA systems. Only the catalysts reporting the MEA performance were discussed in this review. In PEMWE, strategies aim to minimize Ir use for oxygen evolution reaction (OER) by maximizing activity, employing metal oxide&#8208;based supports, integrating secondary elements into IrOx lattices, or exploring non&#8208;Ir materials. For AEMWE, the emphasis is on enhancing the performance of NiFe&#8208;based and Co&#8208;based catalysts by improving electrical conductivity and mass transport. Pt&#8208;based and Ni&#8208;based catalysts for hydrogen evolution reaction (HER) in AEMWE are also examined. Additionally, this review discusses the unique considerations for catalysts operating in pure water within AEMWE systems.</description>
-      <author>Sun Seo Jeon, Won-Jae Lee, Hyeseong Jeon, Hyunjoo Jenny Lee</author>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301827</guid>
-    </item>
-    <item>
       <title>Indium&#8208;Doping&#8208;Induced Nanocomposites with Improved Oxygen Reaction Activity and Durability for Reversible Protonic Ceramic Electrochemical Cell Air Electrodes</title>
       <link>https://doi.org/10.1002/adfm.202409188</link>
       <description>Zhiwei Du, Kang Xu, Feng Zhu, Yangsen Xu, Fan He, Hui Gao, Wenjie Gong, YongMan Choi, Yu Chen, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400589229
@@ -770,14 +770,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409188</guid>
     </item>
     <item>
-      <title>Cu Regulating the Bifunctional Activity of Co-O Sites for the High-Performance Rechargeable Zinc-Air Battery</title>
-      <link>https://doi.org/10.1021/acsami.4c04853</link>
-      <description>NULL AUTHOR_ID, Dandan Yue, NULL AUTHOR_ID, NULL AUTHOR_ID, Qingyu Li, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4400422879
+      <title>Developing Catalysts for Membrane Electrode Assemblies in High Performance Polymer Electrolyte Membrane Water Electrolyzers</title>
+      <link>https://doi.org/10.1002/cssc.202301827</link>
+      <description>Sun Seo Jeon, Won-Jae Lee, Hyeseong Jeon, Hyunjoo Jenny Lee, ChemSusChem. None(None)] 2024. https://openalex.org/W4400494512
 
-                The rational design of cost-effective and highly active electrocatalysts becomes the crucial energy storage technology to boost the kinetics of the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER), which hinders the large-scale application of metal-air batteries under the situation of increasingly pressing energy anxiety. Herein, the Co-based ZIF introduced the moderate amount of Cu2+-derived Cu/Co metal nanoparticles (NPs) embedded in carbon frameworks after high-temperature calcination. The Co-O bond on the surface of Co nanoparticles is modulated by adjacent Cu nanoparticles with the surface Cu-O bonds. The resulted increase of the Co2+/Co3+ ratio in 0.1CuCo-NC enhances the ORR/OER bifunctional catalytic kinetics along with the &#916;E of 0.639 V. In situ Raman spectra of the catalyst on the three-electrode system as well as in the driven zinc-air battery (ZAB) show that the Co-O active sites regulated by Cu nanoparticles with Cu-O bonds maintain a periodic lattice expansion and compression during discharging and charging. The zinc-air battery based on 0.1CuCo-NC has a peak power density of up to 198.3 mW cm&#8211;2, a mass-specific capacity of 798.2 mAh g&#8211;1, and a cycling stability of 923 h at room temperature. This work makes up the research gap of a Co-based metal&#8211;organic framework (MOF)-derived catalyst regulated by a transition metal.</description>
-      <author>NULL AUTHOR_ID, Dandan Yue, NULL AUTHOR_ID, NULL AUTHOR_ID, Qingyu Li</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c04853</guid>
+                Extensive research is underway to achieve carbon neutrality through the production of green hydrogen via water electrolysis, powered by renewable energy. Polymer membrane water electrolyzers, such as proton exchange membrane water electrolyzer (PEMWE) and anion exchange membrane water electrolyzer (AEMWE), are at the forefront of this research. Developing highly active and durable electrode catalysts is very important for commercializing these electrolyzers. However, most research is conducted in half&#8208;cell setups, which may not fully represent the catalysts' effectiveness in membrane&#8208;electrode&#8208;assembly (MEA) devices. This review explores the catalysts developed for high&#8208;performance PEMWE and AEMWE MEA systems. Only the catalysts reporting the MEA performance were discussed in this review. In PEMWE, strategies aim to minimize Ir use for oxygen evolution reaction (OER) by maximizing activity, employing metal oxide&#8208;based supports, integrating secondary elements into IrOx lattices, or exploring non&#8208;Ir materials. For AEMWE, the emphasis is on enhancing the performance of NiFe&#8208;based and Co&#8208;based catalysts by improving electrical conductivity and mass transport. Pt&#8208;based and Ni&#8208;based catalysts for hydrogen evolution reaction (HER) in AEMWE are also examined. Additionally, this review discusses the unique considerations for catalysts operating in pure water within AEMWE systems.</description>
+      <author>Sun Seo Jeon, Won-Jae Lee, Hyeseong Jeon, Hyunjoo Jenny Lee</author>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301827</guid>
     </item>
     <item>
       <title>Lanthanum&#8208;Nickel&#8208;Based Mixed&#8208;Oxide&#8208;Coated Nickel Electrodes for the OER Electrocatalysis</title>
@@ -820,6 +820,26 @@
       <guid isPermaLink="true">https://doi.org/10.1093/mnras/stae1719</guid>
     </item>
     <item>
+      <title>Charting the Electronic Structure for Discovering Low-cost Intermetallic Catalysts</title>
+      <link>https://doi.org/10.1039/d4ta03880k</link>
+      <description>Zhengda He, Bin Ouyang, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4400654892
+
+                Discovering affordable, high-performance, and stable catalysts for the hydrogen evolution reaction (HER) and oxygen reduction reaction (ORR) is essential for the commercialization of clean hydrogen technology. In this study, we...</description>
+      <author>Zhengda He, Bin Ouyang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta03880k</guid>
+    </item>
+    <item>
+      <title>In situ Ion Pumping Anodization to Confine Single&#8208;Atom Fe onto TiO&lt;sub&gt;2&lt;/sub&gt; Nanotubes for Enhanced Noble&#8208;Metal&#8208;Free Photocatalytic Hydrogen Generation</title>
+      <link>https://doi.org/10.1002/adfm.202407834</link>
+      <description>Jingtao Bi, Chengqian Li, Jie Ren, Yingying Zhao, Zhiyong Ji, Ting Wang, Xin Huang, Hongxun Hao, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400657865
+
+                Abstract Achieving a high dispersity of deposited transition metal is crucial in the anodization preparation of noble&#8208;metal&#8208;free composites for photocatalytic hydrogen generation. Herein, for the first time, an in situ ion pumping anodization method is proposed to confine single&#8208;atom Fe within the spatially ordered structure of anodized TiO 2 nanotubes (TNT), assisted by ferric sodium salt of ethylenediaminetetraacetic acid (EDTA) as an &#8220;ion pump&#8221; to deliver Fe 3+ toward anodes. Both experimental and theoretical calculations confirm that highly dispersed single&#8208;atom Fe can interact with single&#8208;electron&#8208;trapped oxygen vacancies (SETOV), effectively reducing the oxygen vacancy concentration in TiO 2 nanotubes. This reduction promotes efficient charge carrier separation through the Fe(III)/Fe(II) pathway and enhances hydrogen desorption, ultimately boosting the photocatalytic hydrogen evolution performance.</description>
+      <author>Jingtao Bi, Chengqian Li, Jie Ren, Yingying Zhao, Zhiyong Ji, Ting Wang, Xin Huang, Hongxun Hao</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202407834</guid>
+    </item>
+    <item>
       <title>Direct Observations of Magnetic Reconnections at the Magnetopause of the Martian Mini&#8208;Magnetosphere</title>
       <link>https://doi.org/10.1029/2024gl108880</link>
       <description>R. T. Lin, S. Y. Huang, Zhigang Yuan, K. Jiang, Honghong Wu, Q. Y. Xiong, Geophysical research letters. 51(13)] 2024. https://openalex.org/W4400448066
@@ -840,16 +860,6 @@
       <guid isPermaLink="true">https://doi.org/10.3389/fmars.2024.1299202</guid>
     </item>
     <item>
-      <title>Monte Carlo simulations of microdosimetry and radiolytic species production at long time post proton irradiation using GATE and Geant4&#8208;DNA</title>
-      <link>https://doi.org/10.1002/mp.17281</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Craff Emeline, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, S. Incerti, Charbel Koumeir, Vincent M&#233;tivier, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Lydia Maigne, Medical physics on CD-ROM/Medical physics. None(None)] 2024. https://openalex.org/W4400407253
-
-                Abstract Background Radiobiological effectiveness of radiation in cancer treatment can be studied at different scales (molecular till organ scale) and different time post irradiation. The production of free radicals and reactive oxygen species during water radiolysis is particularly relevant to understand the fundamental mechanisms playing a role in observed biological outcomes. The development and validation of Monte Carlo tools integrating the simulation of physical, physico&#8208;chemical and chemical stages after radiation is very important to maintain with experiments. Purpose Therefore, in this study, we propose to validate a new Geant4&#8208;DNA chemistry module through the simulation of water radiolysis and Fricke dosimetry experiments on a proton preclinical beam line. Material and methods In this study, we used the GATE Monte Carlo simulation platform (version 9.3) to simulate a 67.5 MeV proton beam produced with the ARRONAX isochronous cyclotron (IBA Cyclone 70XP) at conventional dose rate (0.2 Gy/s) to simulate the irradiation of ultra&#8208;pure liquid water samples and Fricke dosimeter. We compared the depth dose profile with measurements performed with a plane parallel Advanced PTW 34045 Markus ionization chamber. Then, a new Geant4&#8208;DNA chemistry application proposed from Geant4 version 11.2 has been used to assess the evolution of , , , , , , and reactive species along time until 1&#8208;h post&#8208;irradiation. In particular, the effect of oxygen and pH has been investigated through comparisons with experimental measurements of radiolytic yields for and Fe 3+ . Results GATE simulations reproduced, within 4%, the depth dose profile in liquid water. With Geant4&#8208;DNA, we were able to reproduce experimental radiolytic yields 1&#8208;h post&#8208;irradiation in aerated and deaerated conditions, showing the impact of small changes in oxygen concentrations on species evolution along time. For the Fricke dosimeter, simulated G(Fe 3+ ) is 15.97 &#177; 0.2 molecules/100 eV which is 11% higher than the measured value (14.4 &#177; 04 molecules/100 eV). Conclusions These results aim to be consolidated by new comparisons involving other radiolytic species, such as or to further study the mechanisms underlying the FLASH effect observed at ultra&#8208;high dose rates (UHDR).</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Craff Emeline, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, S. Incerti, Charbel Koumeir, Vincent M&#233;tivier, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Lydia Maigne</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/mp.17281</guid>
-    </item>
-    <item>
       <title>Evaluation of low-temperature oxidation analysis and the development effect of high-pressure air injection in low-permeability reservoirs</title>
       <link>https://doi.org/10.3389/feart.2024.1416824</link>
       <description>Xinyu Chen, Zhongchen Ba, Zhiyuan Lu, Yuhui Gao, Yang Zhou, Xinrui Li, Frontiers in earth science. 12(None)] 2024. https://openalex.org/W4400512960
@@ -858,16 +868,6 @@
       <author>Xinyu Chen, Zhongchen Ba, Zhiyuan Lu, Yuhui Gao, Yang Zhou, Xinrui Li</author>
       <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/feart.2024.1416824</guid>
-    </item>
-    <item>
-      <title>Dynamic redox conditions in Mesoproterozoic shallow seawater: Constraints from carbonate fabrics and geochemistry</title>
-      <link>https://doi.org/10.1130/b37544.1</link>
-      <description>Li Sun, Xiaoying Shi, Xiqiang Zhou, Limin Zhou, Kang&#8208;Jun Huang, Lei Xu, Baozeng Xie, Xinqiang Wang, Dongjie Tang, &#152;The &#156;Geological Society of America bulletin/Geological Society of America bulletin. None(None)] 2024. https://openalex.org/W4400580772
-
-                The delayed eukaryote evolution during the mid-Proterozoic may have been linked to prolonged low oxygen levels during this period. Two short oxygenation events have recently been identified at ca. 1.57 Ga and ca. 1.4 Ga, but the redox conditions during the intervening interval remain poorly constrained. In this study, we conducted mineralogical and geochemical investigations on three sections of the Wumishan Formation (ca. 1.52&#8722;1.47 Ga) that were deposited between the two oxygenation events in the Yanliao basin. The results revealed two distinct changes in carbonate mineralogy and precipitation style associated with concurrent changes in carbonate I/(Ca + Mg): a transition from intervals with positive I/(Ca + Mg) anomalies and abundant water-column carbonate mud to intervals with no I/(Ca + Mg) anomalies and abundant seafloor precipitates, suggesting a shift from suboxic to anoxic conditions in shallow seawater. In both of the suboxic intervals, I/(Ca + Mg) values reached 0.5&#8722;2.6 &#956;mol/mol, with negative Ce anomalies (Ce/Ce*(SN) = 0.69; data from literature) occurring in the later interval (ca. 1.48 Ga). The results suggest significant redox fluctuations in the shallow seawater during the Mesoproterozoic. However, these pulsed oxygenation episodes may not have been sufficient to sustain the continuous evolution of early eukaryotes.</description>
-      <author>Li Sun, Xiaoying Shi, Xiqiang Zhou, Limin Zhou, Kang&#8208;Jun Huang, Lei Xu, Baozeng Xie, Xinqiang Wang, Dongjie Tang</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1130/b37544.1</guid>
     </item>
     <item>
       <title>Thirty Years of Progress in Our Understanding of the Nature and Influence of Fire in Carboniferous Ecosystems</title>
@@ -880,36 +880,34 @@
       <guid isPermaLink="true">https://doi.org/10.3390/fire7070248</guid>
     </item>
     <item>
-      <title>Cytochrome oxidase requirements in Bordetella reveal insights into evolution towards life in the mammalian respiratory tract</title>
-      <link>https://doi.org/10.1371/journal.ppat.1012084</link>
-      <description>NULL AUTHOR_ID, Alexa R. Spandrio, NULL AUTHOR_ID, NULL AUTHOR_ID, Sara A. Marlatt, NULL AUTHOR_ID, Margaret R. Dedloff, Zachary M. Nash, NULL AUTHOR_ID, Peggy A. Cotter, PLOS pathogens. 20(7)] 2024. https://openalex.org/W4400408117
+      <title>Dynamic redox conditions in Mesoproterozoic shallow seawater: Constraints from carbonate fabrics and geochemistry</title>
+      <link>https://doi.org/10.1130/b37544.1</link>
+      <description>Li Sun, Xiaoying Shi, Xiqiang Zhou, Limin Zhou, Kang&#8208;Jun Huang, Lei Xu, Baozeng Xie, Xinqiang Wang, Dongjie Tang, &#152;The &#156;Geological Society of America bulletin/Geological Society of America bulletin. None(None)] 2024. https://openalex.org/W4400580772
 
-                Little is known about oxygen utilization during infection by bacterial respiratory pathogens. The classical Bordetella species, including B . pertussis , the causal agent of human whooping cough, and B . bronchiseptica , which infects nearly all mammals, are obligate aerobes that use only oxygen as the terminal electron acceptor for electron transport-coupled oxidative phosphorylation. B . bronchiseptica , which occupies many niches, has eight distinct cytochrome oxidase-encoding loci, while B . pertussis , which evolved from a B . bronchiseptica -like ancestor but now survives exclusively in and between human respiratory tracts, has only three functional cytochrome oxidase-encoding loci: cydAB1 , ctaCDFGE1 , and cyoABCD1 . To test the hypothesis that the three cytochrome oxidases encoded within the B . pertussis genome represent the minimum number and class of cytochrome oxidase required for respiratory infection, we compared B . bronchiseptica strains lacking one or more of the eight possible cytochrome oxidases in vitro and in vivo . No individual cytochrome oxidase was required for growth in ambient air, and all three of the cytochrome oxidases conserved in B . pertussis were sufficient for growth in ambient air and low oxygen. Using a high-dose, large-volume persistence model and a low-dose, small-volume establishment of infection model, we found that B . bronchiseptica producing only the three B . pertussis -conserved cytochrome oxidases was indistinguishable from the wild-type strain for infection. We also determined that CyoABCD1 is sufficient to cause the same level of bacterial burden in mice as the wild-type strain and is thus the primary cytochrome oxidase required for murine infection, and that CydAB1 and CtaCDFGE1 fulfill auxiliary roles or are important for aspects of infection we have not assessed, such as transmission. Our results shed light on the environment at the surface of the ciliated epithelium, respiration requirements for bacteria that colonize the respiratory tract, and the evolution of virulence in bacterial pathogens.</description>
-      <author>NULL AUTHOR_ID, Alexa R. Spandrio, NULL AUTHOR_ID, NULL AUTHOR_ID, Sara A. Marlatt, NULL AUTHOR_ID, Margaret R. Dedloff, Zachary M. Nash, NULL AUTHOR_ID, Peggy A. Cotter</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.ppat.1012084</guid>
+                The delayed eukaryote evolution during the mid-Proterozoic may have been linked to prolonged low oxygen levels during this period. Two short oxygenation events have recently been identified at ca. 1.57 Ga and ca. 1.4 Ga, but the redox conditions during the intervening interval remain poorly constrained. In this study, we conducted mineralogical and geochemical investigations on three sections of the Wumishan Formation (ca. 1.52&#8722;1.47 Ga) that were deposited between the two oxygenation events in the Yanliao basin. The results revealed two distinct changes in carbonate mineralogy and precipitation style associated with concurrent changes in carbonate I/(Ca + Mg): a transition from intervals with positive I/(Ca + Mg) anomalies and abundant water-column carbonate mud to intervals with no I/(Ca + Mg) anomalies and abundant seafloor precipitates, suggesting a shift from suboxic to anoxic conditions in shallow seawater. In both of the suboxic intervals, I/(Ca + Mg) values reached 0.5&#8722;2.6 &#956;mol/mol, with negative Ce anomalies (Ce/Ce*(SN) = 0.69; data from literature) occurring in the later interval (ca. 1.48 Ga). The results suggest significant redox fluctuations in the shallow seawater during the Mesoproterozoic. However, these pulsed oxygenation episodes may not have been sufficient to sustain the continuous evolution of early eukaryotes.</description>
+      <author>Li Sun, Xiaoying Shi, Xiqiang Zhou, Limin Zhou, Kang&#8208;Jun Huang, Lei Xu, Baozeng Xie, Xinqiang Wang, Dongjie Tang</author>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1130/b37544.1</guid>
     </item>
     <item>
-      <title>Revealing the Limitation Induced by Hydroxyl in Regulating Solvation Structure of Zn2+ and Overcoming Challenges with Hybrid Additives towards Highly Stable Zinc Anodes</title>
-      <link>https://doi.org/10.1002/cssc.202401073</link>
-      <description>Fuxiang Li, Ji Sun Yang, Minghui Wang, Xiang Feng, Mingyan Li, Hong Zheng, NULL AUTHOR_ID, NULL AUTHOR_ID, ChemSusChem. None(None)] 2024. https://openalex.org/W4400431634
+      <title>Bioenergetic stress potentiates antimicrobial resistance and persistence</title>
+      <link>https://doi.org/10.1101/2024.07.12.603336</link>
+      <description>B.-H. Li, Shivani Srivastava, Majid B. Shaikh, Gautam Mereddy, Madison R Garcia, Aditi Shah, Nana Ofori-Anyinam, Timothy Shun Man Chu, Nicole Cheney, Jason H. Yang, No host. None(None)] 2024. https://openalex.org/W4400625331
 
-                In the field of electrolyte design for aqueous zinc&#8208;ion batteries (AZIBs), additives containing hydroxyl have been demonstrated to effectively modulate the solvation structure of Zn2+. However, reported studies typically focus solely on the effectiveness of hydroxyl while neglecting the issues that emerge during solvation structure regulation. The strong electron&#8208;attracting capability of Zn2+ attracts electrons from the oxygen in hydroxyl, thereby weakening the strength of hydroxyl, the hydrogen evolution reaction (HER) is also pronounced. This work innovatively reveals the limitation of hydroxyl&#8208;containing additives and proposes a synergistic regulation strategy based on hybrid additives. Arginine with a high isoelectric point is introduced into the electrolyte system containing hydroxyl additives. The protonation effect and electrostatic attraction of arginine enable it to absorb protons at the anode released by the weakened hydroxyl, thereby compensating for the limitation of hydroxyl additives. Under the synergistic action of hybrid additives, the Zn|Zn battery achieved stable deposition/stripping for over 1200 hours under 10 mA cm&#8208;2 and 10 mAh cm&#8208;2. Moreover, the Zn|Cu battery cycled for over 570 hours with a high Coulombic efficiency of 99.82%. This study presents a pioneering perspective for the further application of AZIBs.</description>
-      <author>Fuxiang Li, Ji Sun Yang, Minghui Wang, Xiang Feng, Mingyan Li, Hong Zheng, NULL AUTHOR_ID, NULL AUTHOR_ID</author>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401073</guid>
+                Antimicrobial resistance (AMR) is a global health crisis and there is an urgent need to better understand AMR mechanisms. Antibiotic treatment alters several aspects of bacterial physiology, including increased ATP utilization, carbon metabolism, and reactive oxygen species (ROS) formation. However, how the "bioenergetic stress" induced by increased ATP utilization affects treatment outcomes is unknown. Here we utilized a synthetic biology approach to study the direct effects of bioenergetic stress on antibiotic efficacy. We engineered a genetic system that constitutively hydrolyzes ATP or NADH in Escherichia coli. We found that bioenergetic stress potentiates AMR evolution via enhanced ROS production, mutagenic break repair, and transcription-coupled repair. We also find that bioenergetic stress potentiates antimicrobial persistence via potentiated stringent response activation. We propose a unifying model that antibiotic-induced antimicrobial resistance and persistence is caused by antibiotic-induced. This has important implications for preventing or curbing the spread of AMR infections.</description>
+      <author>B.-H. Li, Shivani Srivastava, Majid B. Shaikh, Gautam Mereddy, Madison R Garcia, Aditi Shah, Nana Ofori-Anyinam, Timothy Shun Man Chu, Nicole Cheney, Jason H. Yang</author>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1101/2024.07.12.603336</guid>
     </item>
     <item>
-      <title>Formation of neutron stars inside planetary nebulae via
-  accretion-induced collapse and core-merger-induced collapse from white dwarf
-  binaries</title>
-      <link>https://doi.org/10.48550/arxiv.2407.03985</link>
-      <description>Iminhaji Ablimit, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4400434169
+      <title>Oxidative stress-mediated epigenetic remodeling, metastatic progression and cell signaling in cancer</title>
+      <link>https://doi.org/10.1515/oncologie-2024-0157</link>
+      <description>Abdul Rehman Phull, Sadia Qamar Arain, Abdul Majid, Humaira Fatima, Madiha Ahmed, Song Ja Kim, Oncologie. 0(0)] 2024. https://openalex.org/W4400666417
 
-                First, I demonstrate the possible formation channel for neutron stars (NSs) via the accretion-induced collapse (AIC) of oxygen-neon-magnesium (ONeMg) composition white dwarfs (WDs) inside planetary nebulae (PNe; also so-called symbiotic nebulae). A heavy mass loss via the stellar wind or during the the roche-lobe overfilling (RLOF) mass-transfer may happen at the late evolutionary phase of ONeMg WD - red giant (or asymptotic giant branch) star binaries, and it might form nebulae with central accreting WD binaries. The nebulae might be ionized the hot cores of giant stars or accreting WDs. Therefore, the accreting WD inside the symbiotic nebulae might grow in mass to the Chandrasekhar limit mass and collapse. Peculiar NSs born via the AIC of WDs inside the symbiotic nebulae (PNe) may finally have WD companions and become the NS-WD systems, and the Milky Way may contain tens of such kind of systems. Second, I introduce another possibility for the formation of PNe (or pulsar wind nebulae) with newborn NS via the core-merger-induced collapse during the common envelope evolution of ONeMg WD binaries.</description>
-      <author>Iminhaji Ablimit</author>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.03985</guid>
+                Abstract Cancer is a serious public health issue and cases are rising at a high rate around the world. Altered production of reactive oxygen species (ROS) causes oxidative stress (OS) which plays a vital role in cancer development by disrupting signaling pathways and genomic integrity in the cellular microenvironment. In this study, we reviewed the regulation of noncoding RNAs, histone modifications, and DNA methylation which OS is involved in. These mechanisms promote cancer growth, metastasis, and resistance to chemotherapeutic agents. There is significant potential to improve patient outcomes through the development of customized medications and interventions that precisely address the role of OS in the onset and progression of cancer. Redox-modulating drugs, antioxidant-based therapies, and measures to restore regular cellular activity and OS-modulated signaling pathways are some examples of these strategies. One other hypothesis rationalizes the cancer-suppressing effect of OS, which acts as a two-edged condition that warns against the use of antioxidants for cancer treatment and management. The present study was executed to review the impact of OS on epigenetic machinery, the evolution of metastatic cancer, and how OS mediates cellular signaling. Along with, insights into the potential of targeting OS-mediated mechanisms for cancer therapy.</description>
+      <author>Abdul Rehman Phull, Sadia Qamar Arain, Abdul Majid, Humaira Fatima, Madiha Ahmed, Song Ja Kim</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1515/oncologie-2024-0157</guid>
     </item>
     <item>
       <title>Metals in Star-Forming Galaxies with KCWI. I. Methodology and First
@@ -954,14 +952,24 @@
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202405668</guid>
     </item>
     <item>
-      <title>Stable Isotopes of Landfast Sea Ice as a Record of La Grande River Under-Ice Plume Dispersal</title>
-      <link>https://doi.org/10.1139/as-2024-0003</link>
-      <description>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Kaushik Gupta, NULL AUTHOR_ID, Jens K. Ehn, Arctic science. None(None)] 2024. https://openalex.org/W4400416135
+      <title>Mobile forensics tools and techniques for digital crime investigation: a comprehensive review</title>
+      <link>https://doi.org/10.11591/ijict.v13i2.pp321-332</link>
+      <description>Tole Sutikno, International Journal of Informatics and Communication Technology/International Journal of Informatics and Communication Technology (IJ-ICT). 13(2)] 2024. https://openalex.org/W4400665585
 
-                Vertical profiles of salinity, and isotopic abundance ratios of hydrogen (&#948;2H ) and oxygen (@delta;18O) of 18 landfast ice cores, collected along the northeast coast of James Bay in March 2019, and one ice core collected in Belcher Islands, were used to obtain the winter timeseries of the spatiotemporal evolution of the under-ice plume of La Grande River (LGR), the dominant river in the area. Variability in the isotopic composition and salinity of the ice cores indicated changes to the water source composition at the ice-water interface when the ice layers formed. The increased presence of river water beneath the ice during January-March was marked by more negative isotopic ratios in the lower portion of the ice as river discharge was increased for hydroelectric production. River water was the source of ~43% of the ice in our ice core samples (n=320) with the interquartile range from 16% to 71%. The river water fractions incorporated into the ice indicate that LGR under-ice plume extended more than 75 km north and at least 30 km south of the river mouth for ~3 months. These findings correspond well with more challenging to obtain hydrographic observations. End-of-winter ice core sampling and analysis for isotopic abundance has potential as a tool to monitor dispersal of LGR discharge into the ice-covered coastal environment.</description>
-      <author>NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Kaushik Gupta, NULL AUTHOR_ID, Jens K. Ehn</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1139/as-2024-0003</guid>
+                &lt;p&gt;Extracting and analyzing data from smartphones, IoT devices, and drones is crucial for conducting digital crime investigations. Effective cyberattack mitigation necessitates the use of advanced Android mobile forensics techniques. The investigation necessitates proficiency in manual, logical, hex dump, chip-off, and microread methodologies. This paper provides a comprehensive overview of Android mobile forensics tools and techniques for digital crime investigation, as well as their use in gathering and analyzing evidence. Forensic software tools like Cellebrite UFED, Oxygen Forensic Detective, XRY by MSAB, Magnet AXIOM, SPF Pro by SalvationDATA, MOBILedit Forensic Express, and EnCase Forensic employ both physical and logical techniques to retrieve data from mobile devices. These advanced tools offer a structured approach to tackling digital crimes effectively. We compare dependability, speed, compatibility, data recovery accuracy, and reporting. Mobile-network forensics ensures data acquisition, decryption, and analysis success. Conclusions show that Android mobile forensics tools for digital crime investigations are diverse and have different capabilities. Mobile forensics software offers complete solutions, but new data storage and encryption methods require constant development. The continuous evolution of forensic software tools and a comprehensive tool classification system could further enhance digital crime investigation capabilities.&lt;/p&gt;</description>
+      <author>Tole Sutikno</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.11591/ijict.v13i2.pp321-332</guid>
+    </item>
+    <item>
+      <title>Exploring Heterointerface Characteristics and Charge-Storage Dynamics in ALD-Developed Ultra-Thin TiO2-In2O3/Au Heterojunctions</title>
+      <link>https://doi.org/10.3390/coatings14070880</link>
+      <description>Mohammad Karbalaei Akbari, Nasrin Siraj Lopa, Serge Zhuiykov, Coatings. 14(7)] 2024. https://openalex.org/W4400640339
+
+                Directional ionic migration in ultra-thin metal-oxide semiconductors under applied electric fields is a key mechanism for developing various electronic nanodevices. However, understanding charge transfer dynamics is challenging due to rapid ionic migration and uncontrolled charge transfer, which can reduce the functionality of microelectronic devices. This research investigates the supercapacitive-coupled memristive characteristics of ultra-thin heterostructured metal-oxide semiconductor films at TiO2-In2O3/Au Schottky junctions. Using atomic layer deposition (ALD), we nano-engineered In2O3/Au-based metal/semiconductor heterointerfaces. TEM studies followed by XPS elemental analysis revealed the chemical and structural characteristics of the heterointerfaces. Subsequent AFM studies of the hybrid heterointerfaces demonstrated supercapacitor-like behavior in nanometer-thick TiO2-In2O3/Au junctions, resembling ultra-thin supercapacitors, pseudocapacitors, and nanobatteries. The highest specific capacitance of 2.6 &#215; 104 F.g&#8722;1 was measured in the TiO2-In2O3/Au junctions with an amorphous In2O3 electron gate. Additionally, we examined the impact of crystallization, finding that thermal annealing led to the formation of crystalline In2O3 films with higher oxygen vacancy content at TiO2-In2O3 heterointerfaces. This crystallization process resulted in the evolution of non-zero I-V hysteresis loops into zero I-V hysteresis loops with supercapacitive-coupled memristive characteristics. This research provides a platform for understanding and designing adjustable ultra-thin Schottky junctions with versatile electronic properties.</description>
+      <author>Mohammad Karbalaei Akbari, Nasrin Siraj Lopa, Serge Zhuiykov</author>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/coatings14070880</guid>
     </item>
     <item>
       <title>Re&#8722;Os Isotope and PGE Abundance Systematics of Coast Range Ophiolite Peridotites and Chromitite, California: Insights into Fore-Arc Magmatic Processes</title>
@@ -992,16 +1000,6 @@
       <author>Xinwei Zhu, Jun Huang, Michael Eikerling</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-t37bp-v2</guid>
-    </item>
-    <item>
-      <title>Dual inhibition of sirtuins 1 and 2: reprogramming metabolic energy dynamics in chronic myeloid leukemia as an immunogenic anticancer strategy</title>
-      <link>https://doi.org/10.1002/cac2.12590</link>
-      <description>Micha&#235;l Schnekenburger, Anne Lorant, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Haeun Yang, NULL AUTHOR_ID, NULL AUTHOR_ID, Bernard Pirotte, Marc Diederich, Cancer communications. None(None)] 2024. https://openalex.org/W4400414464
-
-                Chronic myeloid leukemia (CML) is a lethal hematopoietic malignancy with a global incidence primarily attributed to the breakpoint cluster region-Abelson (BCR-ABL1) fusion oncogene in over 95% of cases. The introduction of tyrosine kinase inhibitors (TKIs) has revolutionized CML management; however, a subset of patients encounters challenges such as resistance and relapse, hindering the achievement of complete remission. Overcoming these challenges in CML also requires addressing persistent leukemia stem cells (LSCs) with inherent resistance mechanisms. Key regulators of LSC metabolism, proliferation, and survival, as well as genetic and epigenetic alterations, provide potential targets [1]. In this study, leveraging in silico analysis (methods and descriptions of other assays are in the Supplementary file) of LSCs from CML patients at diagnosis, we demonstrated enrichment in pathways predominantly associated with proliferation, oxidative phosphorylation (OXPHOS), and metabolism, concurrently with a decrease in immune response pathways (Figure 1A). Similarly, genes negatively impacting proliferation in CML cell lines, when depleted by CRISPR, were enriched in processes related to OXPHOS, metabolism, and proliferation, mirroring the enrichment observed in LSCs (Figure 1B) [2]. Simultaneous inhibition of SIRT1 and SIRT2 rewires cell metabolism, leading to growth inhibition and immunogenic cell death in CML, and synergizes with imatinib. (A) NES of all significant (adjusted P-value &lt; 0.05) hallmark pathways altered in CD34+ HSCs from CML patients compared to their healthy counterparts determined by GSEA performed in GSE5550 (left panel) and combined GSE97562_GSE47927 (right panel) data sets. (B) Enriched hallmark pathways based on the knockout (CRISPR) of genes with negative median effects on proliferation across a CML cell line panel from Project Achilles data. Pathways with significant enrichment (FDR adjusted P &lt; 0.05) are highlighted. (C) SIRT1-2 regulon construction overview. The correlation plot (left panel) depicts gene expression profiles of CML patients at diagnosis (n = 97), showing high consistency in expression patterns. A disease-specific network (middle panel) was constructed to extract the SIRT1-2 regulon, including SIRT1 and SIRT2 nodes with their first-degree connections. A PPI network was built to explore known interactions within the regulon (right panel). (D) Scatter plot comparing SIRT1-2 regulon scores in healthy (n = 24) and CML (n = 36) patients, with each data point representing an individual sample. (E) Patient-derived leukemia cells with a BCR-ABL rearrangement were treated at the indicated concentrations of Si-711 for 48h, fluorescently labeled, and then injected into the zebrafish yolk sac. Three days post-injection, phase contrast and fluorescent (red) pictures of fishes were acquired (left panel: representative images from a total of n = 5 to 10 fishes per condition are shown), and the fluorescence intensity was quantified (right panel). (F) Pictures of tumors excised from K-562-xenograft mice (n = 5 per group) treated by IP injection as indicated in the figure and their corresponding weight. (G) Si-711 synergistically kills CML cells in combination with imatinib. Left panels: heatmap representing the Fa for each combination with increasing concentrations of Si-711 and imatinib after 72h of incubation. Numbers on the heatmap represent the combination index for each condition of treatment. (H) Scatter plot depicting dynamic changes in SIRT1-SIRT2 regulon scores based on transcriptomic data from K-562 cells treated with 5 &#181;mol/L Si-711. (I) Heatmap highlighting the changes in NES for hallmark pathways based on GSEA of transcriptomic data from K-562 cells treated with 5 &#181;mol/L Si-711 for the indicated time points versus control cells. Significant positive NES in red indicates upregulation or the activation of associated pathways, whereas significant negative NES in blue indicates significant downregulation or suppression of associated pathways. The corresponding significant GSEA-enrichment plots are presented in Supplementary Figure S12B-D. (J) Evolution of the metabolic profile of K-562 cells treated with 5 &#181;mol/L Si-711 for up to 48h evaluated by OCR and ECAR measurements to assess mitochondrial respiration and glycolysis, respectively. Left panel: energy phenotype. Right panels: quantifications of OCR and ECAR parameters. (K) K-562 cells were treated with increasing concentrations of Si-711 for two days, and culture flasks were photographed to document the color of the cell culture media. Rectangles with dashed yellow lines indicate the range of concentrations of Si-711 leading to enhanced medium acidification compared to the control. (L) Lactate secretion measurements in K-562 cell supernatant. (M) Quantification of ATP production rate from oxidative phosphorylation and glycolysis. (N) Intracellular ATP levels in K-562 cells. (O) Superoxide and mitochondrial superoxide levels in K-562 cells treated with 5 &#181;mol/L Si-711 for up to 4 days expressed as the MFI ratio between treated and control cells reported to isotype controls. (P) Nuclear morphology analysis in K-562 cells treated with increasing concentrations of Si-711. Left panel: merged UV-microscopy pictures representative of at least three independent experiments of cells stained with Hoechst (blue) and PI (red) after 5 days of incubation in the absence (0 &#181;mol/L; all cells are displaying intact chromatin and proper nuclear morphology corresponding to alive cells) or presence of 5 &#181;mol/L Si-711 (most cells have a round nucleus with PI uptake indicating necrotic cells). Right panel: quantification of apoptotic, PI-positive, and alive cell populations. (Q) Quantification of apoptotic, PI-positive, and alive cell populations from nuclear morphology analyses on K-562 cells treated with the chemical inhibitors of PARP1 (1 &#181;mol/L ola), caspases (50 &#181;mol/L ZVAD), and RIPK1 (60 &#181;mol/L NS-1) and incubated in the presence or absence of 5 &#181;mol/L Si-711 for 5 days. (R-U) Increased levels of ICD-associated release of DAMPs from Si-711-treated CML K-562 cells. Oxaliplatin served as a positive control for DAMPs release and ICD induction. (R, S) Analysis of calreticulin exposure by UV-microscopy and flow cytometry, respectively, in K-562 cells treated with 5 &#181;mol/L Si-711 for up to 4 days and 40 &#181;mol/L oxaliplatin for 2 days. (R) Left panel: merged UV-microscopy pictures representative of at least three independent experiments of cells stained with Hoechst (blue) and immunostained for calreticulin (green) at 40&#215; magnification. Right panel: quantification of the corresponding calreticulin signal. (S) Left panel: representative histogram of at least three independent experiments. Right panel: quantification of the corresponding calreticulin signal expressed as the MFI ratio between treated and control cells reported to isotype controls. (T, U) Kinetic analyses of HMGB1 and ATP release, respectively, in the cell culture supernatant of K-562 cells treated with 5 &#181;mol/L Si-71l. (V) Macrophage-mediated phagocytosis of Si-711-treated CML cells. K-562 cells stained in red were treated for the indicated time with 5 &#181;mol/L Si-711 and co-incubated with J774A1 macrophages stained in green. Left panel: merged UV-microscopy pictures of the red and green channels, representative of at least three independent experiments. Right panel: quantification of the corresponding percentage of phagocytosis. (W) Pictures and weight of tumors and spleens excised from mice (n = 5 per group) vaccinated or not (1&#215; PBS) with dying C1498 myeloid leukemia cells following the treatment with cisplatin (50 &#181;mol/L), oxaliplatin (2.5 &#181;mol/L) or Si-711 (5 &#181;mol/L) and challenged by alive C1498 cells as indicated in the figure. L, N, O, R, S The dashed line represents the level in control cells. All graphs represent the mean &#177; SD of at least three independent experiments. P-values were calculated by one-way ANOVA with Dunnett's multiple comparison tests (unpaired for E, F, H, J, P, T, V, W; paired for L, N, R, S) or &#352;id&#225;k's multiple comparison tests (Q), and unpaired two-tailed t-tests (D, M, O, U). * and ** indicate P &lt; 0.05 and P &lt; 0.01, respectively, versus control. $$ indicates P &lt; 0.01 versus Si-711-treated cells. Abbreviations: [ATP]e, extracellular ATP; A.u., arbitrary units; ANOVA, analysis of variance; ARACNe, algorithm to reconstruct accurate cellular networks; ATP, adenosine triphosphate; CD, cluster of differentiation; CML, chronic myeloid leukemia; CRISPR, clustered regularly interspaced short palindromic repeats; DAMPs, damage-associated molecular patterns; ECAR: extracellular acidification rate; Fa, fractional inhibition; FDR, false discovery rate; FITC, fluorescein isothiocyanate; GSEA, gene set enrichment analysis; HMGB1, high-mobility group box 1; HSC, hematopoietic stem cell; ICR, immunogenic cell death; IP, intraperitoneal; MFI, mean fluorescence intensity; mTOR, mammalian target of rapamycin; mTORC1, mTOR complex 1; MYC, myelocytomatosis, NES, normalized enrichment score; NF-&#954;B, nuclear factor-&#954;B; NOD/SCID, nonobese diabetic/severe combined immunodeficiency; NS-1, necrostatin-1; OCR, oxygen consumption rate; Ola, olaparib; Oxa, oxaliplatin; PARP, poly (ADP-ribose) polymerase; PBS, phosphate-buffered saline; PI, propidium iodide; PI3K, phosphoinositide 3-kinase; PPI, protein-protein interaction network; RIPK, receptor-interacting serine/threonine-protein kinase; s.c., subcutaneous; SD, standard deviation; SIRT, sirtuin; TNF, tumor necrosis factor; ZVAD, Z-VAD(OMe)-FMK. Sirtuins (SIRTs) are nicotinamide adenine dinucleotide (NAD)+-dependent histone deacetylases. SIRT1 and SIRT2 modulate key signaling proteins impacting metabolism, survival, and stress response [3]. Overexpression of SIRT1 and SIRT2 was observed in various cancers, including leukemia (Supplementary Figure S1A) [4, 5]. However, our analysis of CML patients revealed variability in the expression levels of SIRT1 and SIRT2 across datasets (Supplementary Figure S1B). Given the relatively small sample sizes, we recognized the limitations of relying solely on single gene expression data, as it may not fully capture the functional relevance of SIRT1/2 in CML. In response to this limitation, we expanded our analysis to identify broader gene expression patterns associated with SIRT1/2. Specifically, we identified a CML-related network comprising 180 co-regulated transcriptional targets associated with SIRT1/2 enriched in genes relevant to leukemia (Figure 1C, Supplementary Figure S1C-E). To quantify their collective impact, we consolidated the expression of all transcripts in the SIRT1/2 regulon into a unified score, referred to as the SIRT1-2 regulon score. This score effectively discriminated between healthy hematopoietic stem cells and LSCs from CML patients at diagnosis (Figure 1D), indicating the collective impact of SIRT1 and SIRT2 on the disease. Given the complementary roles of SIRT1 and 2 in regulating metabolic and survival pathways and their potential to compensate for each other's loss of function [3], we postulated that exploiting metabolic vulnerabilities in LSCs through dual targeting of SIRT1 and SIRT2 activities could profoundly influence CML cell survival. We first verified the constitutive SIRT1 and SIRT2 expression levels in myeloid cell lines and showed that their genetic and pharmacological inhibition, including with the compound Si-711 [6], reduced proliferation and total HDAC activities in CML cells (Supplementary Figures S1F, S2-S3). Si-711 has favorable pharmacokinetics and pharmacodynamics parameters and demonstrated superior activities compared to other reference SIRT inhibitors (Supplementary Tables S1-S3,Supplementary Figures S4-S5). We demonstrated that Si-711 induced robust cytostatic effects concomitant with G1 arrest in various myeloid leukemia cells, including both TKI-sensitive and -resistant models, exhibiting a good selectivity for cancer cells (selectivity factor ranging from 3 to 18) compared to normal cells (Supplementary Table S3, Supplementary Figures S6-S7, S8A). Inhibiting SIRT1/2 activities reduced the viability of primary CML cells from patients ex vivo and significantly inhibited cell growth in leukemia patient-derived xenograft zebrafish and CML cell xenograft mouse models without signs of toxicity (Figure 1E-F, Supplementary Figure S9, Supplementary Tables S4-S5). Additionally, Si-711 treatment significantly reduced the aldehyde dehydrogenase-positive subpopulation of CML cells (Supplementary Figure S10), a marker of stemness, indicating its potential efficacy against LSCs. Moreover, Si-711 strongly synergized with imatinib, the first-line therapy against CML, in both imatinib-sensitive and -resistant CML cell lines (Figure 1G, Supplementary Figure S11), potentially overcoming resistance mechanisms observed in some CML cases. RNA-sequencing of Si-711-treated K-562 CML cells for up to 48 h was conducted to investigate mechanistic aspects. We validated the SIRT1-2 score established from patient data, showing that Si-711 significantly reduced this score in a time-dependent manner (Pearson test, r = 0.92, P &lt; 0.001; Figure 1H, Supplementary Figure S12A). Differentially expressed genes were analyzed, revealing a downregulation of genes involved in proliferation, enriched in those regulated by key transcription factors such as MYC, JUN, and E2F4, which have extensive connections to the SIRT1/2 regulon, and an upregulation of genes associated with the immune response and cell death mechanisms (Figure 1I, Supplementary Figures S12B-H, S13). Metabolic reaction enrichment analysis revealed that, at 24 h, Si-711 induced significant metabolic alterations in CML cells, including upregulation of glycolysis and downregulation of nucleotide metabolism and mitochondrial respiratory complexes (Supplementary Figure S12I-Q). In cellulo investigations revealed that SIRT1/2 inhibition induced critical metabolic alterations in CML, leading to a decrease in oxygen consumption rate (OCR), a transient increase in extracellular acidification rate (ECAR), and ultimately, a reduction in overall metabolic activity (Figure 1J, Supplementary Figure S14A-G). As an adaptive response to the inhibition of OCR, Si-711 enhanced glycolysis, leading to increased extracellular acidification, lactate release, and a shift of CML cells towards predominant glycolytic-dependent ATP production, deviating from their initial reliance on OXPHOS-dependent ATP (Figure 1K-M, Supplementary Figures S8B, S14H-K, S15A), a characteristic of LSCs and therapy-resistant cells [7]. Ultimately, these metabolic alterations resulted in a progressive depletion in total ATP content, significant changes in the NAD+/NADH ratio, and morphological alterations in mitochondria, including onion-like swirling cores surrounded by swollen spaces, accompanied by a less condensed and disorganized cristae structure (Figure 1N, Supplementary Figures S8C, S14L, S15B-C, S16-S18). Furthermore, Si-711 treatment increased mitochondrial superoxide levels, suggesting the induction of oxidative stress (Figure 1O, Supplementary Figure S19). Upon prolonged exposure, the resulting energetic collapse directed the fate of most myeloid leukemia models toward necrosis-like cell death at concentrations ranging from 5-10 &#181;mol/L, selectively targeting cancer cells with selectivity factors ranging from 10 to 105 (Figure 1P, Supplementary Figures S8D, S20-S22, Supplementary Table S6). This non-canonical cell death is distinct from traditional anti-CML therapies, holding promise for overcoming canonical apoptotic resistance mechanisms [8]. The inhibition of SIRT1/2 induced a caspase/RIPK3-independent but RIPK1/MLKL/PARP1-dependent necrosis (Figure 1Q, Supplementary Figures S23-S26). This necrosis led to a progressive depletion of endoplasmic reticulum calcium storage, causing its accumulation in mitochondria associated with the opening of the mitochondrial permeability transition pore (Supplementary Figures S24, S27-S30). SIRT1/2 inhibition with Si-711 induced immunologic regulated necrosis in CML cells, significantly promoting the release of damage-associated molecular patterns (DAMPs), including calreticulin, high mobility group box 1 (HMGB1), and ATP (Figure 1R-U, Supplementary Figure S31A-E). This can potentially trigger immunogenic cell death (ICD) and enhance the anticancer immune response [9]. Notably, Si-711 treatment boosted phagocytosis (Figure 1V, Supplementary Figure S31F), indicating a potential increase in immune response. We conducted an in vivo vaccination assay, which is considered the gold standard to validate the induction of ICD and assess therapeutic potential [10]. Upon tumor challenge, mice vaccinated with Si-711-treated cells exhibited a significant reduction in tumor volume, tumor weight, and splenomegaly (Figure 1W, Supplementary Figures S32-S33). Importantly, Si-711's effects in inducing ICD were found to be comparable to the known ICD inducer oxaliplatin. In conclusion, we propose SIRT1/2 inhibition, particularly with Si-711, as a promising and innovative therapeutic strategy for CML. The dual targeting of SIRT1 and SIRT2 could eradicate LSCs through metabolic reprogramming and induction of immunogenic necrosis-like cell death. This comprehensive approach holds the potential for addressing challenges such as resistance and relapse in CML, providing new avenues for improved patient outcomes. Michael Schnekenburger performed in vitro/in cellulo experiments; Sruthi Reddy Gajulapalli, Ridhika Rajora, and Jin-Young Lee performed in vivo experiments; Hyoung Jin Kang provided patient samples; Aloran Mazumder and Haeun Yang performed additional in vitro experiments; Anne Lorant performed, analyzed, and interpreted bioinformatic data and statistical analyses; Christo Christov interpreted and analyzed histological sections; Michael Schnekenburger and Marc Diederich conceived and designed the project. Michael Schnekenburger, Anne Lorant, and Marc Diederich wrote/edited the manuscript; Bernard Pirotte synthesized the inhibitor; Marc Diederich supervised the project. All authors have read and approved the manuscript. Marc Diederich is responsible for all aspects of this work, including descriptions, illustrations, and data accuracy. Not applicable The authors declare no conflict of interest. LBMCC: "Recherche Cancer et Sang" foundation, the "Recherches Scientifiques Luxembourg", the "Een H&#228;erz fir kriibskrank Kanner", the Action LIONS "Vaincre le Cancer" and T&#233;l&#233;vie Luxembourg. SNU: National Research Foundation (NRF) (Grant Number 370C-20220063); MEST of Korea for Tumor Microenvironment Global Core Research Center (GCRC) (Grant Number 2011-0030001); Brain Korea (BK21) PLUS program and Creative-Pioneering Researchers Program at Seoul National University (Funding number: 370C-20160062). Sruthi Reddy Gajulapalli and Ridhika Rajora were supported by grants for the "Graduate Scholarship for Excellent Foreign Students" program. The data generated during this study are included in this published article and its supplementary information files. The datasets analyzed during the current study are available from the corresponding author upon reasonable request. All animal experiments were conducted following the guidelines set by the "Korean Food and Drug Administration". Protocols were reviewed and approved by the "Institutional Animal Care and Use Committee of Seoul National University" (approval numbers: SNU-201006-2 [NOD/SCID xenograft model], SNU-210518-10-2 [vaccination assay], SNU-191218-5-1 [zebrafish]). For human leukemia samples, the Institutional Review Board of Seoul National University Hospital reviewed and approved the study protocol and exempted the study from the obligation to obtain informed consent. This study was performed following the World Medical Association's Declaration of Helsinki. PBMCs and P_PBMCs were used with the approval of the National Research Ethics Committee of Luxembourg. PBMCs were isolated from blood obtained from the Red Cross (Luxembourg, Luxembourg) under the authorization LBMCC-2019-0002: "Assessment of toxicity of new drugs or drug combinations in preclinical development in nonproliferating peripheral blood mononuclear cells (systemic acute toxicity)". P_PBMCs were generated from blood obtained from the Red Cross under the authorization LBMCC- 2019-0001: "Assessment of differential toxicity of new drugs or drug combinations in preclinical development in ex-vivo proliferating peripheral blood mononuclear cells vs. proliferating cancer cells." The obtention of umbilical cord blood samples for the isolation of CD34+ cells was approved by the board of directors of the Bohler clinic (H&#244;pitaux Robert Schuman, Luxembourg, Luxembourg). Tissues were obtained anonymously with the written informed consent of parents with the approval of the National Research Ethics Committee of Luxembourg. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.</description>
-      <author>Micha&#235;l Schnekenburger, Anne Lorant, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Haeun Yang, NULL AUTHOR_ID, NULL AUTHOR_ID, Bernard Pirotte, Marc Diederich</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cac2.12590</guid>
     </item>
   </channel>
 </rss>

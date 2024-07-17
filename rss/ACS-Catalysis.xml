@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Jul 2024 01:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 01:11:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>H&lt;sub&gt;2&lt;/sub&gt;&#8211;D&lt;sub&gt;2&lt;/sub&gt; Exchange Activity and Electronic Structure of Ag&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Pd&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Alloy Catalysts Spanning Composition Space</title>
-      <link>https://doi.org/10.1021/acscatal.4c02309</link>
-      <description>Nicholas Golio, NULL AUTHOR_ID, Xiaoxiao Yu, Petro Kondratyuk, NULL AUTHOR_ID, ACS catalysis. None(None)] 2024. https://openalex.org/W4400406161
-
-                No abstract</description>
-      <author>Nicholas Golio, NULL AUTHOR_ID, Xiaoxiao Yu, Petro Kondratyuk, NULL AUTHOR_ID</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02309</guid>
-    </item>
-    <item>
-      <title>Identification of Key Active Species in the Conversion of C6 and C4 Sugars by Tungsten and Molybdenum Homogeneous Salts</title>
-      <link>https://doi.org/10.1021/acscatal.4c02791</link>
-      <description>Sabah El Mohammad, Nanni No&#235;l, Olivier Proux, NULL AUTHOR_ID, NULL AUTHOR_ID, C. Legens, NULL AUTHOR_ID, Kim Larmier, ACS catalysis. None(None)] 2024. https://openalex.org/W4400410494
-
-                No abstract</description>
-      <author>Sabah El Mohammad, Nanni No&#235;l, Olivier Proux, NULL AUTHOR_ID, NULL AUTHOR_ID, C. Legens, NULL AUTHOR_ID, Kim Larmier</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02791</guid>
-    </item>
-    <item>
-      <title>Synergistic Interaction between the Ni-Center and Glycine-Derived N-Doped Porous Carbon Material Boosts Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c00881</link>
-      <description>Jianguo Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool, ACS catalysis. None(None)] 2024. https://openalex.org/W4400414021
-
-                No abstract</description>
-      <author>Jianguo Zhu, NULL AUTHOR_ID, NULL AUTHOR_ID, Lucie Lindenbeck, J&#228;ri Van den Hoek, NULL AUTHOR_ID, NULL AUTHOR_ID, NULL AUTHOR_ID, Adam Slabon, NULL AUTHOR_ID, Pegie Cool</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00881</guid>
-    </item>
-    <item>
-      <title>High-Rate, High-Selectivity Electrochemical Oxidation of Ammonia to Nitrite with a Silver-Based Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c02633</link>
-      <description>NULL AUTHOR_ID, Sam Johnston, NULL AUTHOR_ID, NULL AUTHOR_ID, Tam D. Nguyen, NULL AUTHOR_ID, Rosalie K. Hocking, Douglas R. MacFarlane, Alexandr N. Simonov, ACS catalysis. None(None)] 2024. https://openalex.org/W4400425883
-
-                No abstract</description>
-      <author>NULL AUTHOR_ID, Sam Johnston, NULL AUTHOR_ID, NULL AUTHOR_ID, Tam D. Nguyen, NULL AUTHOR_ID, Rosalie K. Hocking, Douglas R. MacFarlane, Alexandr N. Simonov</author>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02633</guid>
-    </item>
     <item>
       <title>Sulfone Electrophiles in Cross-Electrophile Coupling: Nickel-Catalyzed Difluoromethylation of Aryl Bromides</title>
       <link>https://doi.org/10.1021/acscatal.4c01999</link>
@@ -296,6 +256,56 @@
       <author>Hoang-Huy Nguyen, Marc H&#246;gler, Nadine Schnabel, Niels Hansen, Thomas Sottmann, Deven P. Estes</author>
       <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02626</guid>
+    </item>
+    <item>
+      <title>Insights into Substituent Effects on the Fundamental Photocatalytic Processes of Covalent Organic Frameworks toward H&lt;sub&gt;2&lt;/sub&gt; Evolution and H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production Reactions</title>
+      <link>https://doi.org/10.1021/acscatal.4c02827</link>
+      <description>Yingying Gu, Junxia Wang, Qingqing Tang, Hongtao Wei, Jing Ning, Xuefang Lan, Xuefeng Wang, Xuehui Li, Yonggang Jia, Shaobin Wang, Long Hao, ACS catalysis. None(None)] 2024. https://openalex.org/W4400613140
+
+                No abstract</description>
+      <author>Yingying Gu, Junxia Wang, Qingqing Tang, Hongtao Wei, Jing Ning, Xuefang Lan, Xuefeng Wang, Xuehui Li, Yonggang Jia, Shaobin Wang, Long Hao</author>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02827</guid>
+    </item>
+    <item>
+      <title>Copper- and Palladium-Cocatalyzed Chemo-, Regio-, Stereo-, and Atroposelective Arylboration of 1,3-Enynes</title>
+      <link>https://doi.org/10.1021/acscatal.4c03301</link>
+      <description>Wangyang Li, Haohua Chen, Yanping Zheng, Yong Lu, Jinhui Xie, Shanglin Chen, Yu Lan, Qiuling Song, ACS catalysis. None(None)] 2024. https://openalex.org/W4400646935
+
+                No abstract</description>
+      <author>Wangyang Li, Haohua Chen, Yanping Zheng, Yong Lu, Jinhui Xie, Shanglin Chen, Yu Lan, Qiuling Song</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03301</guid>
+    </item>
+    <item>
+      <title>Hydrogen Bonding Promotes 1-Butanol-3-Carbocation to 4-Methyl-1,3-Dioxane in Prins Condensation of Formaldehyde with Propene on Solid Acid Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01427</link>
+      <description>Kun Zhang, Junju Mu, Qiang Guo, Yehong Wang, Yinpan Zhang, Jian Zhang, Feng Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400651023
+
+                No abstract</description>
+      <author>Kun Zhang, Junju Mu, Qiang Guo, Yehong Wang, Yinpan Zhang, Jian Zhang, Feng Wang</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01427</guid>
+    </item>
+    <item>
+      <title>Epsilon-Iron Carbide for the Hydrogenation of Carbonyl Groups in Esters</title>
+      <link>https://doi.org/10.1021/acscatal.4c02212</link>
+      <description>Huijiang Huang, Xin Shang, Xin Li, Qiao Han, Li Wang, Junhu Wang, Shengping Wang, Peng Jin, Yujun Zhao, Xinbin Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4400651220
+
+                No abstract</description>
+      <author>Huijiang Huang, Xin Shang, Xin Li, Qiao Han, Li Wang, Junhu Wang, Shengping Wang, Peng Jin, Yujun Zhao, Xinbin Ma</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02212</guid>
+    </item>
+    <item>
+      <title>Ru(II)-Catalyzed Deformylative C&#8211;C Activation and Carbene Insertion: Empowering Diversity-Oriented Synthesis of Unsymmetrical Biaryldiols and Heterobiaryl Amino Alcohols</title>
+      <link>https://doi.org/10.1021/acscatal.4c02889</link>
+      <description>Chandan Kumar Giri, Tejender Singh, Sudeshna Mondal, Soumya Ghosh, Mahiuddin Baidya, ACS catalysis. None(None)] 2024. https://openalex.org/W4400653989
+
+                No abstract</description>
+      <author>Chandan Kumar Giri, Tejender Singh, Sudeshna Mondal, Soumya Ghosh, Mahiuddin Baidya</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02889</guid>
     </item>
   </channel>
 </rss>
