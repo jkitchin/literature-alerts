@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Jul 2024 01:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 01:12:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Reversing the Selectivity of Alkanes and Alkenes in Iron-Based Fischer&#8211;Tropsch Synthesis: The Precise Control and Fundamental Role of Sodium Promotor</title>
-      <link>https://doi.org/10.1021/acscatal.4c02252</link>
-      <description>Ruifeng Wang, Yusen Chen, Xin Shang, Binglian Liang, Xiong Zhang, Hongying Zhuo, Hongmin Duan, Xuning Li, Xiaofeng Yang, Xiong Su, Yanqiang Huang, Tao Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400503468
-
-                No abstract</description>
-      <author>Ruifeng Wang, Yusen Chen, Xin Shang, Binglian Liang, Xiong Zhang, Hongying Zhuo, Hongmin Duan, Xuning Li, Xiaofeng Yang, Xiong Su, Yanqiang Huang, Tao Zhang</author>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02252</guid>
-    </item>
-    <item>
-      <title>One-Step Encapsulation of TBAB in ZIF-8 for CO&lt;sub&gt;2&lt;/sub&gt; Fixation: Revealing the Synergistic Mechanism between TBAB and ZIF-8</title>
-      <link>https://doi.org/10.1021/acscatal.4c01981</link>
-      <description>Decun Luo, Chun&#8208;Ran Chang, Zhun Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400505934
-
-                No abstract</description>
-      <author>Decun Luo, Chun&#8208;Ran Chang, Zhun Hu</author>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01981</guid>
-    </item>
-    <item>
-      <title>Origin of Stereoselectivity in Pd-Catalyzed Asymmetric Allylic Substitutions with Trost-Type Mixed Bidentate Phosphorus Ligands</title>
-      <link>https://doi.org/10.1021/acscatal.4c03726</link>
-      <description>Sanghyup Seo, Taeil Shin, In&#8208;Kyu Choi, Hyunwoo Kim, ACS catalysis. None(None)] 2024. https://openalex.org/W4400506402
-
-                No abstract</description>
-      <author>Sanghyup Seo, Taeil Shin, In&#8208;Kyu Choi, Hyunwoo Kim</author>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03726</guid>
-    </item>
     <item>
       <title>Elucidation of the Stereochemical Mechanism of Cystathionine &#947;-Lyase Reveals How Substrate Specificity Constrains Catalysis</title>
       <link>https://doi.org/10.1021/acscatal.4c02281</link>
@@ -238,6 +208,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02395</guid>
     </item>
     <item>
+      <title>Sustainable Photocatalytic Biological Cofactor Regeneration Fueled by Selective Alcohol Oxidation over Polarized ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c01703</link>
+      <description>Fangshu Xing, Wenjun Dong, Jiashu Li, Jianhua Liu, Wenshuo Wang, Wenjin Dong, Hualei Yuan, Jian Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400686223
+
+                No abstract</description>
+      <author>Fangshu Xing, Wenjun Dong, Jiashu Li, Jianhua Liu, Wenshuo Wang, Wenjin Dong, Hualei Yuan, Jian Liu</author>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01703</guid>
+    </item>
+    <item>
+      <title>Hollow Au&lt;sub&gt;1&lt;/sub&gt;Cu&lt;sub&gt;1&lt;/sub&gt;(111) Bimetallic Catalyst Promotes the Selective Electrochemical Conversion of Glycerol into Glycolic Acid</title>
+      <link>https://doi.org/10.1021/acscatal.4c00483</link>
+      <description>Lingqin Shen, Luyao Sun, Mark Douthwaite, Ouardia Akdim, Stuart H. Taylor, Graham J. Hutchings, ACS catalysis. None(None)] 2024. https://openalex.org/W4400692579
+
+                No abstract</description>
+      <author>Lingqin Shen, Luyao Sun, Mark Douthwaite, Ouardia Akdim, Stuart H. Taylor, Graham J. Hutchings</author>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00483</guid>
+    </item>
+    <item>
       <title>Borrowing Hydrogen Mechanism in Amine Alkylation by Single Atom Nickel Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c02182</link>
       <description>Aurore E. F. Denjean, Ainara Nova, David Balcells, ACS catalysis. None(None)] 2024. https://openalex.org/W4400692915
@@ -246,6 +236,66 @@
       <author>Aurore E. F. Denjean, Ainara Nova, David Balcells</author>
       <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02182</guid>
+    </item>
+    <item>
+      <title>Refining Metal&#8211;Support Interactions via Surface Modification of Irreducible Oxide Support for Enhanced Complete Propane Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01358</link>
+      <description>You Yang, Xu Aiqun, Xuan Tang, Yanglong Guo, Wangcheng Zhan, Li Wang, Sheng Dai, Yun Guo, ACS catalysis. None(None)] 2024. https://openalex.org/W4400726703
+
+                No abstract</description>
+      <author>You Yang, Xu Aiqun, Xuan Tang, Yanglong Guo, Wangcheng Zhan, Li Wang, Sheng Dai, Yun Guo</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01358</guid>
+    </item>
+    <item>
+      <title>Hierarchical Engineering of &lt;i&gt;meso&lt;/i&gt;-Diaminopimelate Dehydrogenase for Efficient Synthesis of Bulky &lt;scp&gt;d&lt;/scp&gt;-Amino Acids</title>
+      <link>https://doi.org/10.1021/acscatal.4c03164</link>
+      <description>Wei Wang, Qiang Geng, Haiping Liu, Yuqing Wang, Guofeng Zhang, Xiao&#8208;Long Qian, Hui&#8208;Lei Yu, Jian&#8208;He Xu, Zhi&#8208;Jun Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400729711
+
+                No abstract</description>
+      <author>Wei Wang, Qiang Geng, Haiping Liu, Yuqing Wang, Guofeng Zhang, Xiao&#8208;Long Qian, Hui&#8208;Lei Yu, Jian&#8208;He Xu, Zhi&#8208;Jun Zhang</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03164</guid>
+    </item>
+    <item>
+      <title>Photocatalysis on Hybrid Plasmonic Nanomaterials: From Catalytic Mechanism Study at Single-Particle Level to Materials Design</title>
+      <link>https://doi.org/10.1021/acscatal.4c03566</link>
+      <description>Fengxia Tong, Xizhuang Liang, Xiaolei Bao, Zhaoke Zheng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400737092
+
+                No abstract</description>
+      <author>Fengxia Tong, Xizhuang Liang, Xiaolei Bao, Zhaoke Zheng</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03566</guid>
+    </item>
+    <item>
+      <title>Catalytic Reduction of Esters over Zirconia-Supported Metal Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01025</link>
+      <description>Javier E. Chavarrio, Kyle Kirkendall-Jones, Raka G. Dastidar, George W. Huber, ACS catalysis. None(None)] 2024. https://openalex.org/W4400737606
+
+                No abstract</description>
+      <author>Javier E. Chavarrio, Kyle Kirkendall-Jones, Raka G. Dastidar, George W. Huber</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01025</guid>
+    </item>
+    <item>
+      <title>Unraveling the Role of Particle Size and Nanostructuring on the Oxygen Evolution Activity of Fe-Doped NiO</title>
+      <link>https://doi.org/10.1021/acscatal.4c02329</link>
+      <description>Reshma R. Rao, Alberto Bucci, Sacha Corby, Benjamin Moss, Caiwu Liang, Aswin Gopakumar, Ifan E. L. Stephens, Julio Lloret&#8208;Fillol, James R. Durrant, ACS catalysis. None(None)] 2024. https://openalex.org/W4400741431
+
+                No abstract</description>
+      <author>Reshma R. Rao, Alberto Bucci, Sacha Corby, Benjamin Moss, Caiwu Liang, Aswin Gopakumar, Ifan E. L. Stephens, Julio Lloret&#8208;Fillol, James R. Durrant</author>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02329</guid>
+    </item>
+    <item>
+      <title>Reconceptualizing the Ir&lt;sup&gt;III&lt;/sup&gt; Role in Metallaphotoredox Catalysis: From Strong Photooxidant to Potent Energy Donor</title>
+      <link>https://doi.org/10.1021/acscatal.4c03350</link>
+      <description>Stephen DiLuzio, Lakshmy Kannadi Valloli, Max Kudisch, David Chambers, Garry Rumbles, Ruipeng Li, Matthew J. Bird, Hannah J. Sayre, ACS catalysis. None(None)] 2024. https://openalex.org/W4400741521
+
+                No abstract</description>
+      <author>Stephen DiLuzio, Lakshmy Kannadi Valloli, Max Kudisch, David Chambers, Garry Rumbles, Ruipeng Li, Matthew J. Bird, Hannah J. Sayre</author>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03350</guid>
     </item>
   </channel>
 </rss>

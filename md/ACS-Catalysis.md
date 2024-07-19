@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Jul 18 01:09:52 2024
+Created on Fri Jul 19 01:12:31 2024
 
-Found 24 results from 2024-07-11 to 2024-07-18
+Found 29 results from 2024-07-12 to 2024-07-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Reversing the Selectivity of Alkanes and Alkenes in Iron-Based Fischer–Tropsch Synthesis: The Precise Control and Fundamental Role of Sodium Promotor   
-
-OpenAlex: https://openalex.org/W4400503468    
-Open access: False
-    
-[Ruifeng Wang](https://openalex.org/A5100658286), [Yusen Chen](https://openalex.org/A5104118529), [Xin Shang](https://openalex.org/A5066059509), [Binglian Liang](https://openalex.org/A5102309303), [Xiong Zhang](https://openalex.org/A5100442111), [Hongying Zhuo](https://openalex.org/A5068091889), [Hongmin Duan](https://openalex.org/A5091008250), [Xuning Li](https://openalex.org/A5077211208), [Xiaofeng Yang](https://openalex.org/A5024697319), [Xiong Su](https://openalex.org/A5003767122), [Yanqiang Huang](https://openalex.org/A5054330732), [Tao Zhang](https://openalex.org/A5100375748), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02252.
-    
-No abstract    
-
-    
-
-## One-Step Encapsulation of TBAB in ZIF-8 for CO2 Fixation: Revealing the Synergistic Mechanism between TBAB and ZIF-8   
-
-OpenAlex: https://openalex.org/W4400505934    
-Open access: False
-    
-[Decun Luo](https://openalex.org/A5077340818), [Chun‐Ran Chang](https://openalex.org/A5053340202), [Zhun Hu](https://openalex.org/A5013825450), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01981.
-    
-No abstract    
-
-    
-
-## Origin of Stereoselectivity in Pd-Catalyzed Asymmetric Allylic Substitutions with Trost-Type Mixed Bidentate Phosphorus Ligands   
-
-OpenAlex: https://openalex.org/W4400506402    
-Open access: False
-    
-[Sanghyup Seo](https://openalex.org/A5003855389), [Taeil Shin](https://openalex.org/A5064818481), [In‐Kyu Choi](https://openalex.org/A5102083494), [Hyunwoo Kim](https://openalex.org/A5100330179), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03726.
-    
-No abstract    
-
-    
 
 ## Elucidation of the Stereochemical Mechanism of Cystathionine γ-Lyase Reveals How Substrate Specificity Constrains Catalysis   
 
@@ -259,12 +226,100 @@ No abstract
 
     
 
+## Sustainable Photocatalytic Biological Cofactor Regeneration Fueled by Selective Alcohol Oxidation over Polarized ZnIn2S4   
+
+OpenAlex: https://openalex.org/W4400686223    
+Open access: False
+    
+[Fangshu Xing](https://openalex.org/A5048878736), [Wenjun Dong](https://openalex.org/A5101748410), [Jiashu Li](https://openalex.org/A5101402820), [Jianhua Liu](https://openalex.org/A5100405332), [Wenshuo Wang](https://openalex.org/A5055099598), [Wenjin Dong](https://openalex.org/A5011483363), [Hualei Yuan](https://openalex.org/A5032618644), [Jian Liu](https://openalex.org/A5100414713), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01703.
+    
+No abstract    
+
+    
+
+## Hollow Au1Cu1(111) Bimetallic Catalyst Promotes the Selective Electrochemical Conversion of Glycerol into Glycolic Acid   
+
+OpenAlex: https://openalex.org/W4400692579    
+Open access: True
+    
+[Lingqin Shen](https://openalex.org/A5039726344), [Luyao Sun](https://openalex.org/A5102686575), [Mark Douthwaite](https://openalex.org/A5028475580), [Ouardia Akdim](https://openalex.org/A5078084710), [Stuart H. Taylor](https://openalex.org/A5029440147), [Graham J. Hutchings](https://openalex.org/A5020068159), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00483.
+    
+No abstract    
+
+    
+
 ## Borrowing Hydrogen Mechanism in Amine Alkylation by Single Atom Nickel Catalysts   
 
 OpenAlex: https://openalex.org/W4400692915    
 Open access: True
     
 [Aurore E. F. Denjean](https://openalex.org/A5094201097), [Ainara Nova](https://openalex.org/A5078208746), [David Balcells](https://openalex.org/A5044914316), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02182.
+    
+No abstract    
+
+    
+
+## Refining Metal–Support Interactions via Surface Modification of Irreducible Oxide Support for Enhanced Complete Propane Oxidation   
+
+OpenAlex: https://openalex.org/W4400726703    
+Open access: False
+    
+[You Yang](https://openalex.org/A5079146441), [Xu Aiqun](https://openalex.org/A5101016207), [Xuan Tang](https://openalex.org/A5102907869), [Yanglong Guo](https://openalex.org/A5080435466), [Wangcheng Zhan](https://openalex.org/A5100411911), [Li Wang](https://openalex.org/A5100335977), [Sheng Dai](https://openalex.org/A5031493683), [Yun Guo](https://openalex.org/A5032176049), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01358.
+    
+No abstract    
+
+    
+
+## Hierarchical Engineering of meso-Diaminopimelate Dehydrogenase for Efficient Synthesis of Bulky d-Amino Acids   
+
+OpenAlex: https://openalex.org/W4400729711    
+Open access: False
+    
+[Wei Wang](https://openalex.org/A5100392071), [Qiang Geng](https://openalex.org/A5023931244), [Haiping Liu](https://openalex.org/A5101403305), [Yuqing Wang](https://openalex.org/A5100461338), [Guofeng Zhang](https://openalex.org/A5100693459), [Xiao‐Long Qian](https://openalex.org/A5047355848), [Hui‐Lei Yu](https://openalex.org/A5089934895), [Jian‐He Xu](https://openalex.org/A5068659985), [Zhi‐Jun Zhang](https://openalex.org/A5004911841), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03164.
+    
+No abstract    
+
+    
+
+## Photocatalysis on Hybrid Plasmonic Nanomaterials: From Catalytic Mechanism Study at Single-Particle Level to Materials Design   
+
+OpenAlex: https://openalex.org/W4400737092    
+Open access: False
+    
+[Fengxia Tong](https://openalex.org/A5048769057), [Xizhuang Liang](https://openalex.org/A5026042792), [Xiaolei Bao](https://openalex.org/A5043423601), [Zhaoke Zheng](https://openalex.org/A5101437753), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03566.
+    
+No abstract    
+
+    
+
+## Catalytic Reduction of Esters over Zirconia-Supported Metal Catalysts   
+
+OpenAlex: https://openalex.org/W4400737606    
+Open access: False
+    
+[Javier E. Chavarrio](https://openalex.org/A5066862502), [Kyle Kirkendall-Jones](https://openalex.org/A5104646059), [Raka G. Dastidar](https://openalex.org/A5056791920), [George W. Huber](https://openalex.org/A5050004838), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01025.
+    
+No abstract    
+
+    
+
+## Unraveling the Role of Particle Size and Nanostructuring on the Oxygen Evolution Activity of Fe-Doped NiO   
+
+OpenAlex: https://openalex.org/W4400741431    
+Open access: True
+    
+[Reshma R. Rao](https://openalex.org/A5027366818), [Alberto Bucci](https://openalex.org/A5076988276), [Sacha Corby](https://openalex.org/A5003975479), [Benjamin Moss](https://openalex.org/A5005889599), [Caiwu Liang](https://openalex.org/A5026417092), [Aswin Gopakumar](https://openalex.org/A5021705835), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [Julio Lloret‐Fillol](https://openalex.org/A5013865355), [James R. Durrant](https://openalex.org/A5086035043), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02329.
+    
+No abstract    
+
+    
+
+## Reconceptualizing the IrIII Role in Metallaphotoredox Catalysis: From Strong Photooxidant to Potent Energy Donor   
+
+OpenAlex: https://openalex.org/W4400741521    
+Open access: False
+    
+[Stephen DiLuzio](https://openalex.org/A5060939989), [Lakshmy Kannadi Valloli](https://openalex.org/A5050604367), [Max Kudisch](https://openalex.org/A5067428739), [David Chambers](https://openalex.org/A5046805778), [Garry Rumbles](https://openalex.org/A5024629548), [Ruipeng Li](https://openalex.org/A5101509234), [Matthew J. Bird](https://openalex.org/A5017500940), [Hannah J. Sayre](https://openalex.org/A5029492500), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03350.
     
 No abstract    
 
