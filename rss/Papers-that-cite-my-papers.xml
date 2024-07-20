@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jul 2024 01:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 01:09:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First-Principles modeling of Corrosion current for Passive Magnesium alloys and its application in Mg-RE Alloy</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.109823</link>
-      <description>Jia&#8208;Wei Wang, Xuming Zhang, Xi Zhang, Yuhao Huang, Yi Luo, Lan Luo, Yong Liu, Materials today communications. None(None)] 2024. https://openalex.org/W4400519776
-
-                No abstract</description>
-      <author>Jia&#8208;Wei Wang, Xuming Zhang, Xi Zhang, Yuhao Huang, Yi Luo, Lan Luo, Yong Liu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.109823</guid>
-    </item>
-    <item>
-      <title>Modulation of Photocatalytic CO2 Reduction by n&#8211;p Codoping Engineering of Single-Atom Catalysts</title>
-      <link>https://doi.org/10.3390/nano14141183</link>
-      <description>Guowei Yin, Chunxiao Zhang, Yundan Liu, Yuping Sun, Xiang Qi, Nanomaterials. 14(14)] 2024. https://openalex.org/W4400521100
-
-                Transition metal (TM) single-atom catalysts (SACs) have been widely applied in photocatalytic CO2 reduction. In this work, n&#8211;p codoping engineering is introduced to account for the modulation of photocatalytic CO2 reduction on a two-dimensional (2D) bismuth-oxyhalide-based cathode by using first-principles calculation. n&#8211;p codoping is established via the Coulomb interactions between the negatively charged TM SACs and the positively charged Cl vacancy (VCl) in the dopant&#8211;defect pairs. Based on the formation energy of charged defects, neutral dopant&#8211;defect pairs for the Fe, Co, and Ni SACs (PTM0) and the &#8722;1e charge state of the Cu SAC-based pair (PCu&#8722;1) are stable. The electrostatic attraction of the n&#8211;p codoping strengthens the stability and solubility of TM SACs by neutralizing the oppositely charged VCl defect and TM dopant. The n&#8211;p codoping stabilizes the electron accumulation around the TM SACs. Accumulated electrons modify the d-orbital alignment and shift the d-band center toward the Fermi level, enhancing the reducing capacity of TM SACs based on the d-band theory. Besides the electrostatic attraction of the n&#8211;p codoping, the PCu&#8722;1 also accumulates additional electrons surrounding Cu SACs and forms a half-occupied dx2&#8722;y2 state, which further upshifts the d-band center and improves photocatalytic CO2 reduction. The metastability of Cl multivacancies limits the concentration of the n&#8211;p pairs with Cl multivacancies (PTM@nCl (n &gt; 1)). Positively charged centers around the PTM@nCl (n &gt; 1) hinders the CO2 reduction by shielding the charge transfer to the CO2 molecule.</description>
-      <author>Guowei Yin, Chunxiao Zhang, Yundan Liu, Yuping Sun, Xiang Qi</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/nano14141183</guid>
-    </item>
-    <item>
-      <title>Rational design of porous vanadium-based alloys modified with a Ni-Cu-Mo coating for alkaline water electrolysis</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144676</link>
-      <description>Jinjing Du, Yu Zhou, Xinhai Liu, Xinxin Cui, Xuan Zhang, Bin Wang, Xiao Feng, Jun Zhu, Heng Zuo, Qian Li, Xihong He, PingAn Hu, Electrochimica acta. None(None)] 2024. https://openalex.org/W4400521102
-
-                No abstract</description>
-      <author>Jinjing Du, Yu Zhou, Xinhai Liu, Xinxin Cui, Xuan Zhang, Bin Wang, Xiao Feng, Jun Zhu, Heng Zuo, Qian Li, Xihong He, PingAn Hu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144676</guid>
-    </item>
-    <item>
-      <title>Theoretical regulating the T-site composition of Janus MXenes achieving efficient bifunctional ORR/OER catalysts</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144712</link>
-      <description>Shuang Luo, Ninggui Ma, Jun Zhao, Yaqin Zhang, Yuhang Wang, Yu Xiong, Jun Fan, Electrochimica acta. None(None)] 2024. https://openalex.org/W4400521612
-
-                No abstract</description>
-      <author>Shuang Luo, Ninggui Ma, Jun Zhao, Yaqin Zhang, Yuhang Wang, Yu Xiong, Jun Fan</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144712</guid>
-    </item>
-    <item>
-      <title>Active learning streamlines development of high performance catalysts for higher alcohol synthesis</title>
-      <link>https://doi.org/10.1038/s41467-024-50215-1</link>
-      <description>Manu Suvarna, Tangsheng Zou, Sok Ho Chong, Yuzhen Ge, Antonio J. Mart&#237;n, Javier P&#233;rez&#8208;Ram&#237;rez, Nature communications. 15(1)] 2024. https://openalex.org/W4400522717
-
-                Abstract Developing efficient catalysts for syngas-based higher alcohol synthesis (HAS) remains a formidable research challenge. The chain growth and CO insertion requirements demand multicomponent materials, whose complex reaction dynamics and extensive chemical space defy catalyst design norms. We present an alternative strategy by integrating active learning into experimental workflows, exemplified via the FeCoCuZr catalyst family. Our data-aided framework streamlines navigation of the extensive composition and reaction condition space in 86 experiments, offering &gt;90% reduction in environmental footprint and costs over traditional programs. It identifies the Fe 65 Co 19 Cu 5 Zr 11 catalyst with optimized reaction conditions to attain higher alcohol productivities of 1.1 g HA h &#8722;1 g cat &#8722;1 under stable operation for 150 h on stream, a 5-fold improvement over typically reported yields. Characterization reveals catalytic properties linked to superior activities despite moderate higher alcohol selectivities. To better reflect catalyst demands, we devise multi-objective optimization to maximize higher alcohol productivity while minimizing undesired CO 2 and CH 4 selectivities. An intrinsic trade-off between these metrics is uncovered, identifying Pareto-optimal catalysts not readily discernible by human experts. Finally, based on feature-importance analysis, we formulate data-informed guidelines to develop performance-specific FeCoCuZr systems. This approach goes beyond existing HAS catalyst design strategies, is adaptable to broader catalytic transformations, and fosters laboratory sustainability.</description>
-      <author>Manu Suvarna, Tangsheng Zou, Sok Ho Chong, Yuzhen Ge, Antonio J. Mart&#237;n, Javier P&#233;rez&#8208;Ram&#237;rez</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50215-1</guid>
-    </item>
-    <item>
-      <title>MiMiC: A high-performance framework for multiscale molecular dynamics simulations</title>
-      <link>https://doi.org/10.1063/5.0211053</link>
-      <description>Andrej Antal&#237;k, Andrea Levy, Sonata Kvedaravi&#269;i&#363;t&#279;, Sophia K. Johnson, David Carrasco&#8208;Busturia, Bharath Raghavan, Fran&#231;ois Mouvet, Angela Acocella, Sambit Das, Vikram Gavini, Davide Mandelli, Emiliano Ippoliti, Simone Meloni, Paolo Carloni, Ursula R&#246;thlisberger, J&#243;gvan Magnus Haugaard Olsen, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 161(2)] 2024. https://openalex.org/W4400542470
-
-                MiMiC is a framework for performing multiscale simulations in which loosely coupled external programs describe individual subsystems at different resolutions and levels of theory. To make it highly efficient and flexible, we adopt an interoperable approach based on a multiple-program multiple-data (MPMD) paradigm, serving as an intermediary responsible for fast data exchange and interactions between the subsystems. The main goal of MiMiC is to avoid interfering with the underlying parallelization of the external programs, including the operability on hybrid architectures (e.g., CPU/GPU), and keep their setup and execution as close as possible to the original. At the moment, MiMiC offers an efficient implementation of electrostatic embedding quantum mechanics/molecular mechanics (QM/MM) that has demonstrated unprecedented parallel scaling in simulations of large biomolecules using CPMD and GROMACS as QM and MM engines, respectively. However, as it is designed for high flexibility with general multiscale models in mind, it can be straightforwardly extended beyond QM/MM. In this article, we illustrate the software design and the features of the framework, which make it a compelling choice for multiscale simulations in the upcoming era of exascale high-performance computing.</description>
-      <author>Andrej Antal&#237;k, Andrea Levy, Sonata Kvedaravi&#269;i&#363;t&#279;, Sophia K. Johnson, David Carrasco&#8208;Busturia, Bharath Raghavan, Fran&#231;ois Mouvet, Angela Acocella, Sambit Das, Vikram Gavini, Davide Mandelli, Emiliano Ippoliti, Simone Meloni, Paolo Carloni, Ursula R&#246;thlisberger, J&#243;gvan Magnus Haugaard Olsen</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0211053</guid>
-    </item>
-    <item>
-      <title>Metal and ligand modification modulates the electrocatalytic HER, OER, and ORR activity of 2D conductive metal-organic frameworks</title>
-      <link>https://doi.org/10.1007/s12274-024-6813-0</link>
-      <description>Yanan Zhou, L. Sheng, Lanlan Chen, Wenhui Zhao, Wenhua Zhang, Jinlong Yang, Nano research. None(None)] 2024. https://openalex.org/W4400559456
-
-                No abstract</description>
-      <author>Yanan Zhou, L. Sheng, Lanlan Chen, Wenhui Zhao, Wenhua Zhang, Jinlong Yang</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6813-0</guid>
-    </item>
     <item>
       <title>High selectivity and abundant active sites in atomically dispersed TM2C12 monolayer for CO2 reduction</title>
       <link>https://doi.org/10.1016/j.fuproc.2024.108106</link>
@@ -96,16 +26,6 @@
       <author>Dan Liang, Hejin Yan, Yongqing Cai</author>
       <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02261</guid>
-    </item>
-    <item>
-      <title>Strain-Triggered Distinct Oxygen Evolution Reaction Pathway in Two-Dimensional Metastable Phase IrO&lt;sub&gt;2&lt;/sub&gt; via CeO&lt;sub&gt;2&lt;/sub&gt; Loading</title>
-      <link>https://doi.org/10.1021/jacs.4c05204</link>
-      <description>Hao Yu, Yujin Ji, Chenchen Li, Wenxiang Zhu, Yue Wang, Zhiwei Hu, Jing Zhou, C. W. Pao, Wei&#8208;Hsiang Huang, Youyong Li, Xiaoqing Huang, Qi Shao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400577623
-
-                A strain engineering strategy is crucial for designing a high-performance catalyst. However, how to control the strain in metastable phase two-dimensional (2D) materials is technically challenging due to their nanoscale sizes. Here, we report that cerium dioxide (CeO</description>
-      <author>Hao Yu, Yujin Ji, Chenchen Li, Wenxiang Zhu, Yue Wang, Zhiwei Hu, Jing Zhou, C. W. Pao, Wei&#8208;Hsiang Huang, Youyong Li, Xiaoqing Huang, Qi Shao</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c05204</guid>
     </item>
     <item>
       <title>Tuning Excitonic Properties of Monochalcogenides via Design of Janus Structures</title>
@@ -318,24 +238,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409365</guid>
     </item>
     <item>
-      <title>Efficient Parameterization of Density Functional Tight-Binding for 5&lt;i&gt;f&lt;/i&gt;-Elements: A Th&#8211;O Case Study</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00145</link>
-      <description>Chang Liu, N&#233;stor F. Aguirre, M. J. Cawkwell, Enrique R. Batista, Ping Yang, Journal of chemical theory and computation. None(None)] 2024. https://openalex.org/W4400531195
+      <title>Strain-Triggered Distinct Oxygen Evolution Reaction Pathway in Two-Dimensional Metastable Phase IrO&lt;sub&gt;2&lt;/sub&gt; via CeO&lt;sub&gt;2&lt;/sub&gt; Loading</title>
+      <link>https://doi.org/10.1021/jacs.4c05204</link>
+      <description>Hao Yu, Yujin Ji, Chenchen Li, Wenxiang Zhu, Yue Wang, Zhiwei Hu, Jing Zhou, C. W. Pao, Wei&#8208;Hsiang Huang, Youyong Li, Xiaoqing Huang, Qi Shao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400577623
 
-                Density functional tight binding (DFTB) models for</description>
-      <author>Chang Liu, N&#233;stor F. Aguirre, M. J. Cawkwell, Enrique R. Batista, Ping Yang</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00145</guid>
-    </item>
-    <item>
-      <title>Emerging Atomistic Modeling Methods for Heterogeneous Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.chemrev.3c00735</link>
-      <description>Zachary Levell, Jia&#8208;Bo Le, Saerom Yu, Ruoyu Wang, Sudheesh Kumar Ethirajan, Rachita Rana, Ambarish Kulkarni, Joaquin Resasco, Deyu Lu, Jun Cheng, Yuanyue Liu, Chemical reviews. None(None)] 2024. https://openalex.org/W4400533521
-
-                Heterogeneous electrocatalysis lies at the center of various technologies that could help enable a sustainable future. However, its complexity makes it challenging to accurately and efficiently model at an atomic level. Here, we review emerging atomistic methods to simulate the electrocatalytic interface with special attention devoted to the components/effects that have been challenging to model, such as solvation, electrolyte ions, electrode potential, reaction kinetics, and pH. Additionally, we review relevant computational spectroscopy methods. Then, we showcase several examples of applying these methods to understand and design catalysts relevant to green hydrogen. We also offer experimental views on how to bridge the gap between theory and experiments. Finally, we provide some perspectives on opportunities to advance the field.</description>
-      <author>Zachary Levell, Jia&#8208;Bo Le, Saerom Yu, Ruoyu Wang, Sudheesh Kumar Ethirajan, Rachita Rana, Ambarish Kulkarni, Joaquin Resasco, Deyu Lu, Jun Cheng, Yuanyue Liu</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.3c00735</guid>
+                A strain engineering strategy is crucial for designing a high-performance catalyst. However, how to control the strain in metastable phase two-dimensional (2D) materials is technically challenging due to their nanoscale sizes. Here, we report that cerium dioxide (CeO</description>
+      <author>Hao Yu, Yujin Ji, Chenchen Li, Wenxiang Zhu, Yue Wang, Zhiwei Hu, Jing Zhou, C. W. Pao, Wei&#8208;Hsiang Huang, Youyong Li, Xiaoqing Huang, Qi Shao</author>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c05204</guid>
     </item>
     <item>
       <title>Virtual node graph neural network for full phonon prediction</title>
@@ -542,7 +452,7 @@
       <link>https://doi.org/10.1021/acs.chemrev.3c00723</link>
       <description>Thomas B. Clarke, Lynn E. Krushinski, Kathryn J. Vannoy, Guillermo S. Col&#243;n-Quintana, Kingshuk Roy, Jeffrey E. Dick, Christophe Renault, Myrtle Hill, Jeffrey E. Dick, Chemical reviews. None(None)] 2024. https://openalex.org/W4400729701
 
-                No abstract</description>
+                Making a measurement over millions of nanoparticles or exposed crystal facets seldom reports on reactivity of a single nanoparticle or facet, which may depart drastically from ensemble measurements. Within the past 30 years, science has moved toward studying the reactivity of single atoms, molecules, and nanoparticles, one at a time. This shift has been fueled by the realization that everything changes at the nanoscale, especially important industrially relevant properties like those important to electrocatalysis. Studying single nanoscale entities, however, is not trivial and has required the development of new measurement tools. This review explores a tale of the clever use of old and new measurement tools to study electrocatalysis at the single entity level. We explore in detail the complex interrelationship between measurement method, electrocatalytic material, and reaction of interest (e.g., carbon dioxide reduction, oxygen reduction, hydrazine oxidation, etc.). We end with our perspective on the future of single entity electrocatalysis with a key focus on what types of measurements present the greatest opportunity for fundamental discovery.</description>
       <author>Thomas B. Clarke, Lynn E. Krushinski, Kathryn J. Vannoy, Guillermo S. Col&#243;n-Quintana, Kingshuk Roy, Jeffrey E. Dick, Christophe Renault, Myrtle Hill, Jeffrey E. Dick</author>
       <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.3c00723</guid>
@@ -556,6 +466,16 @@
       <author>Jewel Hossen, Naoki Nakatani</author>
       <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/jcc.27466</guid>
+    </item>
+    <item>
+      <title>Two-dimensional platinum borides: A Dirac nodal line quantum electrocatalyst for efficient hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.202</link>
+      <description>Zi Gao, Fengxian Ma, Weizhen Meng, Yalong Jiao, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400735606
+
+                No abstract</description>
+      <author>Zi Gao, Fengxian Ma, Weizhen Meng, Yalong Jiao</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.202</guid>
     </item>
     <item>
       <title>Detrimental Increase of Spin-Phonon Coupling in Molecular Qubits on Substrates</title>
@@ -588,6 +508,36 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50436-4</guid>
     </item>
     <item>
+      <title>Impact of Organic Spacers and Dimensionality on Templating of Halide Perovskites</title>
+      <link>https://doi.org/10.1021/acsenergylett.4c01283</link>
+      <description>Erik Fransson, Julia Wiktor, Paul Erhart, ACS energy letters. None(None)] 2024. https://openalex.org/W4400774317
+
+                No abstract</description>
+      <author>Erik Fransson, Julia Wiktor, Paul Erhart</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c01283</guid>
+    </item>
+    <item>
+      <title>Multi-scale computational screening of all-silica zeolites for adsorptive separation of ternary (H2S/CO2/CH4) mixtures</title>
+      <link>https://doi.org/10.1016/j.cej.2024.154116</link>
+      <description>S.&#8208;J. YOON, Muhammad Hassan, Yongchul G. Chung, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400798317
+
+                No abstract</description>
+      <author>S.&#8208;J. YOON, Muhammad Hassan, Yongchul G. Chung</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154116</guid>
+    </item>
+    <item>
+      <title>Property Prediction of Functional Organic Molecular Crystals with Graph Neural Networks</title>
+      <link>https://doi.org/10.1145/3626203.3670584</link>
+      <description>Dana O&#8217;Connor, Paola A. Buitrago, No host. None(None)] 2024. https://openalex.org/W4400799096
+
+                No abstract</description>
+      <author>Dana O&#8217;Connor, Paola A. Buitrago</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1145/3626203.3670584</guid>
+    </item>
+    <item>
       <title>Integrating digital chemistry within the broader chemistry community</title>
       <link>https://doi.org/10.1016/j.trechm.2024.06.008</link>
       <description>David Dalmau, Juan V. Alegre&#8208;Requena, Trends in chemistry. None(None)] 2024. https://openalex.org/W4400642443
@@ -616,36 +566,6 @@
       <author>Zhiliang Liu, Zhijun Xiong, Shaofei Yang, Ke Fan, Jiang Long, Yuliang Mao, Chaochao Qin, Sibo Li, Longbin Qiu, Jie Zhang, Francis Lin, Linfeng Fei, Yong Hua, Jia Yao, Yu Cao, Jian Zhou, Yimu Chen, Hong Zhang, Haitao Huang, Alex K.&#8208;Y. Jen, Kai Yao</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.joule.2024.06.015</guid>
-    </item>
-    <item>
-      <title>Virtual Special Issue on Machine Learning in Physical Chemistry Volume 2</title>
-      <link>https://doi.org/10.1021/acs.jpca.4c03822</link>
-      <description>Andrew L. Ferguson, Jim Pfaendtner, &#152;The &#156;journal of physical chemistry. A/&#152;The &#156;journal of physical chemistry. A.. 128(27)] 2024. https://openalex.org/W4400558935
-
-                No abstract</description>
-      <author>Andrew L. Ferguson, Jim Pfaendtner</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c03822</guid>
-    </item>
-    <item>
-      <title>Virtual Special Issue on Machine Learning in Physical Chemistry Volume 2</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03824</link>
-      <description>Andrew L. Ferguson, Jim Pfaendtner, Journal of physical chemistry. C./Journal of physical chemistry. C. 128(27)] 2024. https://openalex.org/W4400560685
-
-                No abstract</description>
-      <author>Andrew L. Ferguson, Jim Pfaendtner</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03824</guid>
-    </item>
-    <item>
-      <title>Virtual Special Issue on Machine Learning in Physical Chemistry Volume 2</title>
-      <link>https://doi.org/10.1021/acs.jpcb.4c03823</link>
-      <description>Andrew L. Ferguson, Jim Pfaendtner, &#152;The &#156;journal of physical chemistry. B. 128(27)] 2024. https://openalex.org/W4400560775
-
-                No abstract</description>
-      <author>Andrew L. Ferguson, Jim Pfaendtner</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcb.4c03823</guid>
     </item>
   </channel>
 </rss>
