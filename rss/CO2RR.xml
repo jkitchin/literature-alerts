@@ -4,13 +4,13 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jul 2024 01:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 01:16:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
       <title>Pd doped tin oxide nanostructured catalysts for electrochemical reduction of carbon dioxide</title>
       <link>https://doi.org/10.21203/rs.3.rs-4621090/v1</link>
-      <description>Shuting Tan, Zhuo Xiong, Zuwei Xu, Junying Zhang, Yongchun Zhao, No host. None(None)] 2024. https://openalex.org/W4400678732
+      <description>Shuting Tan, Zhuo Xiong, Zuwei Xu, Junying Zhang, Yongchun Zhao, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4400678732
 
                 Abstract Electrocatalytic reduction of CO2 can convert CO2 into a variety of carbon-based fuels and achieve carbon neutrality. Tin oxide (SnO2) electrocatalytic materials have the advantages of low cost and low toxicity, and the electrocatalytic reduction of CO2 to formic acid is highly selective. In this paper, Pd-doped SnO2 nanoparticle materials were synthesized by flame spray pyrolysis and their properties for electrocatalytic reduction of CO2 to formic acid were explored in a gas diffusion electrolytic cell. The results showed that the Pd/SnO2 catalysts could improve the catalytic activity for the conversion of CO2 to formate, and the most superior 0.5 Pd/SnO2 showed a Faraday efficiency of 63% for formate at -1.20 V vs. RHE and a current density of 90.59 mA.cm&#8722; 2, which were 1.4 and 2.7 times higher than that of pure SnO2, respectively. The modified catalyst grains were refined, and the charge transfer resistance at the catalyst interface was reduced and the electrochemically active area was increased, generating more catalytically active sites and increasing the contact between CO2, electrolyte, and electrode-catalyst. Density-functional theory calculations showed that the doping of Pd element changed the local structure of SnO2, and the Pd/SnO2 surface was more favorable for the generation of the intermediate products *HCOO&#8722; and formate as well as the inhibition of hydrogen precipitation, which was consistent with the experimental results.</description>
       <author>Shuting Tan, Zhuo Xiong, Zuwei Xu, Junying Zhang, Yongchun Zhao</author>
@@ -118,16 +118,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cherd.2024.07.014</guid>
     </item>
     <item>
-      <title>Assessing the Impacts of CO2 Reduction and Utilization Technologies on Regional Freshwater Resources</title>
-      <link>https://doi.org/10.2172/2396748</link>
-      <description>May Wu, Hannah Kim, No host. None(None)] 2024. https://openalex.org/W4400597659
-
-                No abstract</description>
-      <author>May Wu, Hannah Kim</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2396748</guid>
-    </item>
-    <item>
       <title>Cu into Cu2O/RuAl intermetallic heterojunction for lowering the thermodynamic energy barrier of the CO2 reduction and evolution reactions in Li&#8211;CO2 battery</title>
       <link>https://doi.org/10.1016/j.jechem.2024.07.016</link>
       <description>Wenqing Ma, Jiagang Hou, Siyu Liu, Tianzhen Jian, Jianping Ma, Caixia Xu, Hong Liu, Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024. https://openalex.org/W4400673212
@@ -136,26 +126,6 @@
       <author>Wenqing Ma, Jiagang Hou, Siyu Liu, Tianzhen Jian, Jianping Ma, Caixia Xu, Hong Liu</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.07.016</guid>
-    </item>
-    <item>
-      <title>High selectivity and abundant active sites in atomically dispersed TM2C12 monolayer for CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.fuproc.2024.108106</link>
-      <description>Shulong Li, Song Yu, Tian Guo, Qiaoling Liu, Liang Qiao, Yong Zhao, Li&#8208;Yong Gan, Fuel processing technology. 261(None)] 2024. https://openalex.org/W4400576723
-
-                No abstract</description>
-      <author>Shulong Li, Song Yu, Tian Guo, Qiaoling Liu, Liang Qiao, Yong Zhao, Li&#8208;Yong Gan</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuproc.2024.108106</guid>
-    </item>
-    <item>
-      <title>CO2 and NO Reduction Characteristics from Biomass-Ammonia Co-firing in a Circulating Fluidized Bed Combustor</title>
-      <link>https://doi.org/10.1007/978-981-97-1868-9_86</link>
-      <description>Sung Jin Park, Seong&#8208;Ju Kim, Sung-Ho Jo, Jae Goo Lee, Tae Young Mun, Green energy and technology. None(None)] 2024. https://openalex.org/W4400584385
-
-                No abstract</description>
-      <author>Sung Jin Park, Seong&#8208;Ju Kim, Sung-Ho Jo, Jae Goo Lee, Tae Young Mun</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-1868-9_86</guid>
     </item>
     <item>
       <title>Synergistic Augmentation and Fundamental Mechanistic Exploration of &#946;-Ga2O3-rGO Photocatalyst for Efficient CO2 Reduction</title>
@@ -348,14 +318,14 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s40820-024-01462-w</guid>
     </item>
     <item>
-      <title>Global Trends in the Research and Development of Petrochemical Waste Gas from 1981 to 2022</title>
-      <link>https://doi.org/10.3390/su16145972</link>
-      <description>Mengting Wu, Wei Liu, Zhifei Ma, Tian Qin, Ying Feng, Yalan Zhang, Ning Cao, Xianchuan Xie, Sunlin Chi, Jinying Xu, &#19968;&#26391; &#28422;&#23822;, Sustainability. 16(14)] 2024. https://openalex.org/W4400578462
+      <title>CO2&#8208;to&#8208;CO conversion with over 10% efficiency using earth abundant system in a single&#8208;compartment reactor with oxygen tolerant Mn complex catalyst</title>
+      <link>https://doi.org/10.1002/cssc.202401082</link>
+      <description>Shunsuke Sato, Teppei Nishi, Naonari Sakamoto, Keita Sekizawa, Takeshi Morikawa, ChemSusChem. None(None)] 2024. https://openalex.org/W4400789469
 
-                As a highly energy-intensive and carbon-emitting industry with significant emissions of volatile organic compounds (VOCs), the petroleum and chemical industry is a major contributor to the global greenhouse effect and ozone layer destruction. Improper treatment of petrochemical waste gas (PWG) seriously harms human health and the natural environment. This study uses CiteSpace and VOSviewer to conduct a scientometric analysis of 1384 scholarly works on PWG and carbon sequestration published between 1981 and 2022, revealing the basic characteristics, knowledge base, research topic evolution, and research hotspots of the field. The results show the following: (1) In the early stages of the petrochemical industry, it was processed tail gas, plant leakage waste gas, and combustion flue gas that were investigated in PWG research. (2) Later, green environmental protection technology was widely studied in the field of PWG treatment, such as biotechnology, catalytic oxidation technology, membrane separation technology, etc., in order to achieve efficient, low energy consumption and low emissions of waste gas treatment, and the number of publications related to this topic has increased rapidly. In addition, researchers studied the internet of things and technology integration, such as the introduction of artificial intelligence, big data analysis, and other technologies, to improve the accuracy and efficiency of exhaust gas monitoring, control, and management. (3) The department has focused on how to reduce emissions by optimizing petrochemical process lines or improving energy efficiency. Emission reduction and low-carbon transition in the petrochemical industry will become the main trend in the future. Switching from renewable carbon to feedstock carbon derived from captured carbon dioxide, biomass, or recycled chemicals has become an attractive strategy to help curb emissions from the chemical industry. The results of our analysis can provide funding agencies and research groups with information to better understand the global trends and directions that have emerged in this field from 1981 to 2022 and serve as a reference for future research.</description>
-      <author>Mengting Wu, Wei Liu, Zhifei Ma, Tian Qin, Ying Feng, Yalan Zhang, Ning Cao, Xianchuan Xie, Sunlin Chi, Jinying Xu, &#19968;&#26391; &#28422;&#23822;</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16145972</guid>
+                The direct conversion of CO2 in flue gas to value&#8208;added chemicals is a potentially important cost&#8208;effective solar&#8208;driven CO2 reduction technology. The present work demonstrates the solar&#8208;powered conversion of CO2 to CO with greater than 10% efficiency using a Mn complex cathode and an Fe&#8208;Ni anode in a single&#8208;compartment reactor without an ion exchange membrane in conjunction with a Si solar cell. Reactors separated by ion exchange membranes are typically used to prevent any effects of oxygen generated by the counter electrode. However, the present Mn complex catalyst maintained its activity even in the presence of 15% O2. Operando surface&#8208;enhanced Raman spectroscopy established that the present Mn catalyst preferentially reacted with CO2 without adsorbing O2. This unique characteristic enabled solar&#8208;driven CO2 reduction using a single&#8208;compartment reactor. In contrast, catalytic metals such as Ag tend to lose activity in such systems as a consequence of reaction with oxygen produced at the anode.</description>
+      <author>Shunsuke Sato, Teppei Nishi, Naonari Sakamoto, Keita Sekizawa, Takeshi Morikawa</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401082</guid>
     </item>
     <item>
       <title>Altitude controller influence on environmental and economic performance of NGV fuel-powered engines</title>
@@ -388,24 +358,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400877</guid>
     </item>
     <item>
-      <title>effectiveness of dolomite and Ni-catalyst mixtures for pure H 2 production by methane steam reforming via CO 2 capture</title>
-      <link>https://doi.org/10.62721/diffusion-fundamentals.7.149</link>
-      <description>N. Zh. Seitkaliyeva, Nader Jand, Pier Ugo Foscolo, No host. 7(None)] 2007. https://openalex.org/W4400600053
+      <title>Clumped Isotope Signatures of Abiotic Methane: The Role of the Combinatorial Isotope Effect</title>
+      <link>https://doi.org/10.1029/2023jb028194</link>
+      <description>Jabrane Labidi, T. M. McCollom, Thomas Giunta, Barbara Sherwood Lollar, William D. Leavitt, Edward Young, Journal of geophysical research. Solid earth. 129(7)] 2024. https://openalex.org/W4400735353
 
-                High hydrogen yields have been obtained continuously from steam reforming of methane coupled with simultaneous CO2 capture[1], at lower temperature (630oC) and pressure (1 atm) than those typical of traditional processes (800-900oC,15-30 atm), using calcined dolomite and a pulverized commercial Ni catalyst, in a single step. On the other hand, a pure CO2 stream is obtained by subsequent regeneration of the sorbent, which could be stored. A bubbling fluidized bed contained in a quartz vessel was operated batchwise. First, the durability of a dolomite in multi-cycle CO2 sorption/desorption runs has been investigated: a remarkable reduction of dolomite activity is observed after the first calcination, but substantially stable activity was conserved up to the fifth cycle. Then the performance of sorption enhanced catalytic steam reforming of methane to pure hydrogen has been evaluated. Two well distinct operation regimes have been found: before dolomite saturation, H2 concentration in the dry product gas remained stable at 94-96%, and CO2 was completely converted into calcium carbonate; after a short breakthrough period, concentration of H2 at the exit of the reactor reduced its value that became approximately equal to the equilibrium value expected for methane reforming and water gas shift reactions.</description>
-      <author>N. Zh. Seitkaliyeva, Nader Jand, Pier Ugo Foscolo</author>
-      <pubDate>Sat, 01 Dec 2007 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.62721/diffusion-fundamentals.7.149</guid>
-    </item>
-    <item>
-      <title>Reduction of Methane Emissions from Natural Gas Integral Compressor Engines through Fuel Injection Control</title>
-      <link>https://doi.org/10.3390/su16145943</link>
-      <description>Titilope I. Banji, Gregg Arney, Mark Patterson, Daniel B. Olsen, Sustainability. 16(14)] 2024. https://openalex.org/W4400584498
-
-                Methane emissions from over 7000 large-bore natural gas engines used for gas compression in the United States result from combustion inefficiency and the escape of unburned methane through the crevices. Methane is a strong greenhouse gas with a warming potential 28 times that of carbon dioxide. The Inflation Reduction Act passed by the Biden administration in 2022 imposes a methane &#8220;waste&#8221; fee that accumulates yearly to invest in clean energy and climate action starting in 2024. This study aims to reduce the amount of methane emissions from large bore engines through fuel injection techniques, thereby advancing sustainable energy development. The strategies explored investigate fuel injection pressure and timing optimization, crankcase methane emissions quantification and mitigation, and ring-pack methane quantification. While varying injection pressures and injection timing on the engine, the performance and methane emission characteristics were measured. Also, a model of the engine was created for computational fluid dynamics (CFD) simulations using CONVERGE Studio v 3.0. Experimental results showed that methane emissions are minimized with late-cycle fuel injection at 500 psi and 100 degrees BTDC. Computational results showed that the ring pack contributes up to 34% of methane emissions in the large bore engine model.</description>
-      <author>Titilope I. Banji, Gregg Arney, Mark Patterson, Daniel B. Olsen</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16145943</guid>
+                Abstract Methane clumped isotope signatures of abiogenesis may be diagnostic of the origin of methane on Earth and other planetary bodies. We performed synthesis of abiogenic methane in hydrothermal conditions between 130 and 300&#176;C and determined &#948; 13 C, &#948;D, &#916; 13 CH 3 D, and &#916; 12 CH 2 D 2 . The experiments were performed by heating water in the presence of Fe 0 powder and CO. The reduction of water on metallic iron led to the formation of H 2 . CO was reacted with both H 2 and H 2 O, generating both CH 4 and CO 2 . Methane &#948; 13 C values are isotopically depleted by &#8764;25&#8240; relative to the CO starting material. This is consistent with carbon isotopic equilibrium between methane, carbon monoxide and carbon dioxide in our experiments. In contrast, D/H ratios are inconsistent with equilibrium isotopic fractionation, as illustrated by &#948;D values of methane fractionated by &#8764;500&#8240; relative to starting H 2 O. This suggests that under our experimental conditions, hydrogen additions to carbon may be governed by kinetics. &#916; 13 CH 3 D values track experimental temperature, with values between +1.5&#8240; and +5.0&#8240; for most samples. In contrast, &#916; 12 CH 2 D 2 values are displaced from equilibrium. We find exclusively negative &#916; 12 CH 2 D 2 values, showing deficits down to 40&#8240; relative to thermodynamic equilibrium. We interpret the data as evidence for distinct, kinetically induced D/H pools contributing to methane assembly, that is, a combinatorial effect. The cumulative D/H fractionations associated with CO hydrogenation explain the direction and magnitude of &#916; 12 CH 2 D 2 values during abiotic methane formation. We suggest that near equilibrium &#916; 13 CH 3 D with negative &#916; 12 CH 2 D 2 signatures will help identify methane formed abiotically in nature.</description>
+      <author>Jabrane Labidi, T. M. McCollom, Thomas Giunta, Barbara Sherwood Lollar, William D. Leavitt, Edward Young</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1029/2023jb028194</guid>
     </item>
     <item>
       <title>Density-Driven CO2 Dissolution in Depleted Gas Reservoirs with Bottom Aquifers</title>
@@ -478,16 +438,6 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1748-9326/ad6461</guid>
     </item>
     <item>
-      <title>Kinetics Investigation of Copper Ore Oxygen Carrier for Chemical Looping Combustion</title>
-      <link>https://doi.org/10.3390/fire7070245</link>
-      <description>Xin Tian, Mingze Su, Haibo Zhao, Fire. 7(7)] 2024. https://openalex.org/W4400581486
-
-                Chemical looping combustion (CLC) has been validated as one of the most promising technologies for fossil fuel combustion, which can produce high-purity CO2 streams ready for capture and sequestration in power production. The selection of an appropriate oxygen carrier is one of the most important issues for the CLC process, and the reduction kinetics investigation of the oxygen carrier with fuel gas can provide the basis for CLC reactor design and simulation optimization. In this study, copper ore was chosen as an oxygen carrier, and the oxygen release property of copper ore under a nitrogen environment at various temperatures (1073&#8211;1193 K) was first investigated in a thermogravimetric analyzer (TGA). Subsequently, the reduction kinetics of copper ore with CO and H2 were evaluated by the TGA at temperatures ranging from 773 K to 1073 K, using a continuous stream of 5, 10, 15, 20, 25, and 30 vol. % of CO or H2 balanced by CO2 or N2. It was found that the reaction rates of these reactions accelerated with the increase in temperature and fuel gas concentration in inlet gas. Both the oxygen release process of copper ore and the reduction process of copper ore with reducing gases can be described by the unreacted shrinking core model (USCM). The reaction mechanism function for the oxygen-releasing and reduction process of copper ore oxygen carrier was varied. The activation energy of the oxygen-releasing process, reduction process with CO, and reduction process with H2 were calculated as 99.35, 5.08, and 4.28 kJ/mol, respectively. The pre-exponential factor ranged from 1.96 &#215; 10&#8722;1 to 1.84 &#215; 103. The reaction order depended on the fuel gas, which was 1 and 0.86, respectively, for reaction with CO and H2.</description>
-      <author>Xin Tian, Mingze Su, Haibo Zhao</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/fire7070245</guid>
-    </item>
-    <item>
       <title>Assessment of the industrial emissions impact on the quality of atmospheric air in the Burlin district of West Kazakhstan region DEVELOPMENT</title>
       <link>https://doi.org/10.37878/2708-0080/2024-2.14</link>
       <description>&#1057;.&#1054;. &#1050;&#1086;&#1078;&#1072;&#1075;&#1091;&#1083;&#1086;&#1074;, Vitaliy Salnikov, Neft&#697; i gaz. 140(2)] 2024. https://openalex.org/W4400741889
@@ -528,26 +478,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/pr12071481</guid>
     </item>
     <item>
-      <title>Unconventional Electrocatalytic CO Conversion to C2 Products on Single&#8208;Atomic Pd&#8208;Agn Sites</title>
-      <link>https://doi.org/10.1002/anie.202411194</link>
-      <description>Yali Ji, Ximeng Lv, Ruilin Wei, Anxiang Guan, Chao Yang, Yaqin Yan, Min Kuang, Gengfeng Zheng, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400581425
-
-                The electrochemical reduction of CO or CO2 into C2+ products has mostly been focused on Cu&#8208;based catalysts. Although Ag has also been predicted as a possible catalyst for the CO&#8208;to&#8208;C2+ conversion from the thermodynamic point of view, however, due to its weak CO binding strength, CO rapidly desorbs from the Ag surface rather than participates in deep reduction. In this work, we demonstrate that single&#8208;atomic Pd sites doped in Ag lattice can tune the CO adsorption behavior and promote the deep reduction of CO toward C2 products. The monodispersed Pd&#8208;Agn sites enable the CO adsorption with both Pd&#8208;atop (PdL) and Pd&#8208;Ag bridge (PdAgB) configurations, which can increase the CO coverage and reduce the C&#8722;C coupling energy barrier. Under room temperature and ambient pressure, the Pd1Ag10 alloy catalyst exhibited a total CO&#8208;to&#8208;C2 Faradaic efficiency of ~37% at &#8210;0.83 V, with appreciable current densities and electrochemical stability, thus featuring unconventional non&#8208;Cu electrocatalytic CO&#8208;to&#8208;C2 conversion capability.</description>
-      <author>Yali Ji, Ximeng Lv, Ruilin Wei, Anxiang Guan, Chao Yang, Yaqin Yan, Min Kuang, Gengfeng Zheng</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202411194</guid>
-    </item>
-    <item>
-      <title>Unconventional Electrocatalytic CO Conversion to C2 Products on Single&#8208;Atomic Pd&#8208;Agn Sites</title>
-      <link>https://doi.org/10.1002/ange.202411194</link>
-      <description>Yali Ji, Ximeng Lv, Ruilin Wei, Anxiang Guan, Chao Yang, Yaqin Yan, Min Kuang, Gengfeng Zheng, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400581880
-
-                The electrochemical reduction of CO or CO2 into C2+ products has mostly been focused on Cu&#8208;based catalysts. Although Ag has also been predicted as a possible catalyst for the CO&#8208;to&#8208;C2+ conversion from the thermodynamic point of view, however, due to its weak CO binding strength, CO rapidly desorbs from the Ag surface rather than participates in deep reduction. In this work, we demonstrate that single&#8208;atomic Pd sites doped in Ag lattice can tune the CO adsorption behavior and promote the deep reduction of CO toward C2 products. The monodispersed Pd&#8208;Agn sites enable the CO adsorption with both Pd&#8208;atop (PdL) and Pd&#8208;Ag bridge (PdAgB) configurations, which can increase the CO coverage and reduce the C&#8722;C coupling energy barrier. Under room temperature and ambient pressure, the Pd1Ag10 alloy catalyst exhibited a total CO&#8208;to&#8208;C2 Faradaic efficiency of ~37% at &#8210;0.83 V, with appreciable current densities and electrochemical stability, thus featuring unconventional non&#8208;Cu electrocatalytic CO&#8208;to&#8208;C2 conversion capability.</description>
-      <author>Yali Ji, Ximeng Lv, Ruilin Wei, Anxiang Guan, Chao Yang, Yaqin Yan, Min Kuang, Gengfeng Zheng</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202411194</guid>
-    </item>
-    <item>
       <title>Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Cu-Based Monatomic Alloys: A DFT Study</title>
       <link>https://doi.org/10.1021/acs.langmuir.4c01246</link>
       <description>Xiaojiao Li, Liyun Jiang, Yong Zhou, Qi Yu, Langmuir. None(None)] 2024. https://openalex.org/W4400651340
@@ -558,14 +488,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01246</guid>
     </item>
     <item>
-      <title>Integration of Phase-Change Materials in Ventilated Fa&#231;ades: A Review Regarding Fire Safety and Future Challenges</title>
-      <link>https://doi.org/10.3390/fire7070244</link>
-      <description>Emanuil-Petru Ovadiuc, R&#259;zvan Calot&#259;, Ilinca N&#259;stase, Florin Bode, Fire. 7(7)] 2024. https://openalex.org/W4400581524
+      <title>Catalytic Biomass Transformation to Hydrocarbons under Supercritical Conditions over Nickel Supported on Schungite</title>
+      <link>https://doi.org/10.3390/pr12071503</link>
+      <description>Elena O. Schipanskaya, &#1040;ntonina &#1040;. Stepacheva, Mariia E. Markova, Alexey V. Bykov, &#1040;. &#1048;. &#1057;&#1080;&#1076;&#1086;&#1088;&#1086;&#1074;, Valentina G. Matveeva, Mikhail G. Sulman, Lioubov Kiwi&#8208;Minsker, Processes. 12(7)] 2024. https://openalex.org/W4400723682
 
-                The increasing concerns about CO2 emissions and climate change have pointed out the urgency of promoting sustainability in the building sector. One promising solution to enhance the energy efficiency of buildings and diminish environmental impact is the integration of phase-change materials (PCMs) into ventilated fa&#231;ade systems. This review article critically examines the current state of research on this innovative approach, with a particular focus on fire safety considerations. The paper explores the integration of PCM into ventilated fa&#231;ades, highlighting the potential for significant improvements in energy consumption, thermal comfort, and reductions in CO2 emissions. However, the flammability of PCMs introduces substantial fire safety challenges that must be addressed to ensure the safe application of this solution. The fire safety of both ventilated fa&#231;ades and PCMs is approached, followed by specific fire safety concerns when PCMs are integrated into ventilated fa&#231;ade systems. The conclusion states that while the integration of PCMs into ventilated fa&#231;ades offers substantial environmental benefits, attention to fire safety is essential. This necessitates the implementation of rigorous fire protection measures during the design and construction phases. By addressing both the environmental advantages and fire safety challenges, this review aims to provide a comprehensive understanding of the potential and limitations of PCM-integrated ventilated fa&#231;ades, offering valuable insights for researchers, engineers, and policymakers in the field of sustainable buildings.</description>
-      <author>Emanuil-Petru Ovadiuc, R&#259;zvan Calot&#259;, Ilinca N&#259;stase, Florin Bode</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/fire7070244</guid>
+                Liquid fuel production from biomass-derived molecules has received great attention due to the diminished fossil fuel reserves, growing energy demand, and the necessity of CO2 emission reduction. The deoxygenation of oils and fatty acids is a promising process to obtain &#8220;green&#8221; diesel. Herein, we report the results of the study of the deoxygenation of stearic acid to alkanes as a model reaction. Series of Ni-supported on schungite were obtained by precipitation in subcritical water (hydrothermal deposition) and for comparison via wetness impregnation followed, in both cases, by calcination at 500 &#176;C and a reduction in H2 at 300 &#176;C. The catalyst obtained via hydrothermal synthesis showed a three-fold higher specific surface area with a four-fold higher active phase dispersion compared to the catalysts synthesized via conventional impregnation. The catalysts were tested in stearic acid deoxygenation in supercritical n-hexane as the solvent. Under optimized process conditions (temperature of 280 &#176;C, hydrogen partial pressure of 1.5 MPa, and 13.2 mol of stearic acid per mol of Ni), a close to 100% yield of C10&#8211;C18 alkanes, containing over 70 wt.% of targeted n-heptadecane, was obtained after 60 min of reaction.</description>
+      <author>Elena O. Schipanskaya, &#1040;ntonina &#1040;. Stepacheva, Mariia E. Markova, Alexey V. Bykov, &#1040;. &#1048;. &#1057;&#1080;&#1076;&#1086;&#1088;&#1086;&#1074;, Valentina G. Matveeva, Mikhail G. Sulman, Lioubov Kiwi&#8208;Minsker</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/pr12071503</guid>
     </item>
     <item>
       <title>First Experience With a New Miniaturized Pump-Driven Venovenous Extracorporeal CO2 Removal System (iLA Activve): A Retrospective Data Analysis</title>
@@ -576,16 +506,6 @@
       <author>Alexander Hermann, Thomas Staudinger, Andja Bojic, Katharina Riss, Philipp Wohlfarth, Oliver Robak, Wolfgang R. Sperr, Peter Schellongowski</author>
       <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1201/9781003543480-43</guid>
-    </item>
-    <item>
-      <title>Catalytic Biomass Transformation to Hydrocarbons under Supercritical Conditions over Nickel Supported on Schungite</title>
-      <link>https://doi.org/10.3390/pr12071503</link>
-      <description>Elena O. Schipanskaya, &#1040;ntonina &#1040;. Stepacheva, Mariia E. Markova, Alexey V. Bykov, &#1040;. &#1048;. &#1057;&#1080;&#1076;&#1086;&#1088;&#1086;&#1074;, Valentina G. Matveeva, Mikhail G. Sulman, Lioubov Kiwi&#8208;Minsker, Processes. 12(7)] 2024. https://openalex.org/W4400723682
-
-                Liquid fuel production from biomass-derived molecules has received great attention due to the diminished fossil fuel reserves, growing energy demand, and the necessity of CO2 emission reduction. The deoxygenation of oils and fatty acids is a promising process to obtain &#8220;green&#8221; diesel. Herein, we report the results of the study of the deoxygenation of stearic acid to alkanes as a model reaction. Series of Ni-supported on schungite were obtained by precipitation in subcritical water (hydrothermal deposition) and for comparison via wetness impregnation followed, in both cases, by calcination at 500 &#176;C and a reduction in H2 at 300 &#176;C. The catalyst obtained via hydrothermal synthesis showed a three-fold higher specific surface area with a four-fold higher active phase dispersion compared to the catalysts synthesized via conventional impregnation. The catalysts were tested in stearic acid deoxygenation in supercritical n-hexane as the solvent. Under optimized process conditions (temperature of 280 &#176;C, hydrogen partial pressure of 1.5 MPa, and 13.2 mol of stearic acid per mol of Ni), a close to 100% yield of C10&#8211;C18 alkanes, containing over 70 wt.% of targeted n-heptadecane, was obtained after 60 min of reaction.</description>
-      <author>Elena O. Schipanskaya, &#1040;ntonina &#1040;. Stepacheva, Mariia E. Markova, Alexey V. Bykov, &#1040;. &#1048;. &#1057;&#1080;&#1076;&#1086;&#1088;&#1086;&#1074;, Valentina G. Matveeva, Mikhail G. Sulman, Lioubov Kiwi&#8208;Minsker</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/pr12071503</guid>
     </item>
     <item>
       <title>Experimental Optimization of Natural Gas Injection Timing in a Dual-Fuel Marine Engine to Minimize GHG Emissions</title>
@@ -608,26 +528,6 @@
       <guid isPermaLink="true">https://doi.org/10.1093/jbmrpl/ziae092</guid>
     </item>
     <item>
-      <title>Economic Order Quantity: A State-of-the-Art in the Era of Uncertain Supply Chains</title>
-      <link>https://doi.org/10.3390/su16145965</link>
-      <description>Mohammed Alnahhal&#8236;&#8207;, Batin Latif Aylak, Muataz Hazza Faizi Al Hazza, Ahmad Sakhrieh, Sustainability. 16(14)] 2024. https://openalex.org/W4400578514
-
-                Inventory management is crucial for companies to minimize unnecessary costs associated with overstocking or understocking items. Utilizing the economic order quantity (EOQ) to minimize total costs is a key decision in inventory management, particularly in achieving a sustainable supply chain. The classical EOQ formula is rarely applicable in practice. For example, suppliers may enforce a minimum order quantity (MOQ) that is much larger than the EOQ. Some conditions such as imperfect quality and growing items represent variants of EOQ. Moreover, some requirements, such as the reduction of CO2 emissions, can alter the formula. Moreover, disruptions in the supply chain, such as COVID-19, can affect the formula. This study investigates which requirements must be considered during the calculation of the EOQ. Based on a literature review, 18 requirements that could alter the EOQ formula were identified. The level of coverage for these requirements has been tracked in the literature. Research gaps were presented to be investigated in future research. The analysis revealed that, despite their importance, at least 11 requirements have seldom been explored in the literature. Among these, topics such as EOQ in Industry 4.0, practical EOQ, and resilient EOQ have been identified as promising areas for future research.</description>
-      <author>Mohammed Alnahhal&#8236;&#8207;, Batin Latif Aylak, Muataz Hazza Faizi Al Hazza, Ahmad Sakhrieh</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16145965</guid>
-    </item>
-    <item>
-      <title>Investigation of Partial Oxidation of Methane at Different Reaction Parameters by Adding Ni to CeO2 and ZrO2 Supported Cordierite Monolith Catalyst</title>
-      <link>https://doi.org/10.3390/pr12071463</link>
-      <description>Ilke Ilicak Bayraktar, Halit Eren Figen, Processes. 12(7)] 2024. https://openalex.org/W4400600073
-
-                The climate crisis, driven by increasing CO2 levels in the atmosphere, has heightened the need for new, environmentally friendly energy sources. Hydrogen gas, which can meet our energy needs, has become a particularly intriguing topic. This study investigated the partial oxidation reaction of methane with cordierite monolith catalysts. The Ni-coated catalysts were supported with &#947;-Al2O3, CeO2, ZrO2, and CeO2-ZrO2. The catalysts were tested at temperatures of 750, 800, and 850 &#176;C with different flow rates and methane feed concentrations (2%, 5%, and 10%). It was demonstrated that catalyst activity varies depending on these parameters. It has been found that high gas hourly space velocity (GHSV) and CH4 feed rates decrease catalyst activity. The obtained reaction results indicated that the optimal reaction parameters were 800 &#176;C, a GHSV of 1.104 h&#8722;1, and a CH4 feed concentration of 2%. By optimizing these parameters, catalysts with high CH4 conversion and selectivity for H2 and CO were achieved. The prepared catalysts were characterized using scanning electron microscopy with energy dispersive X-ray analysis (SEM-EDX), X-ray diffraction (XRD), Brunauer-Emmett-Teller (BET), and temperature-programmed reduction (TPR).</description>
-      <author>Ilke Ilicak Bayraktar, Halit Eren Figen</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/pr12071463</guid>
-    </item>
-    <item>
       <title>Flammability, Toxicity, and Microbiological Properties of Polyurethane Flexible Foams</title>
       <link>https://doi.org/10.3390/ma17143517</link>
       <description>A. Glowacki, Przemys&#322;aw Rybi&#324;ski, Grzegorz Czerwonka, Witold &#379;ukowski, Ulugbek Zakirovich Mirkhodjaev, Monika &#379;elezik, Materials. 17(14)] 2024. https://openalex.org/W4400683024
@@ -638,26 +538,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/ma17143517</guid>
     </item>
     <item>
-      <title>The Reconstruction of Bi 2 Te 4 O 11 Nanorods for Efficient and pH&#8208;universal Electrochemical CO 2 Reduction</title>
-      <link>https://doi.org/10.1002/ange.202408849</link>
-      <description>Jiadong Chen, Tingjie Mao, Juan Wang, Jichang Wang, Lianghao Yu, Shun Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400592992
-
-                The practical application of electrochemical CO2 reduction reaction (CO2RR) is hindered by the competing CO production, hydrogen evolution reaction (HER), and the lack of pH&#8208;universal catalysts. Here, Te&#8208;modified Bi nanorods (Te&#8208;Bi NRs) were synthesized through in situ reconstruction of Bi2Te4O11 NRs under the CO2RR condition. Our study illustrates that the complex reconstruction process of Bi2Te4O11 NRs during CO2RR could be decoupled into three distinct steps, i.e., the destruction of Bi2Te4O11, the formation of Te/Bi phases, and the dissolution of Te. The thus&#8208;obtained Te&#8208;Bi NRs exhibit remarkably high performance in CO2RR towards formate production, showing high activity, selectivity, and stability across all pH conditions (acidic, neutral, and alkaline). In a flow cell reactor under neutral, alkaline, or acidic conditions, the catalysts achieved HCOOH Faradaic efficiencies of up to 94.3%, 96.4%, and 91.0%, respectively, at a high current density of 300 mA cm&#8208;2. DFT calculations, along with operando spectral measurements, reveal that Te manipulates the Bi sites to an electron&#8208;deficient state, enhancing the adsorption strength of the *OCHO intermediate, and significantly suppressing the competing HER and CO production. This study highlights the substantial influence of catalyst reconstruction under operational conditions and offers insights into designing highly active and stable electrocatalysts towards CO2RR.</description>
-      <author>Jiadong Chen, Tingjie Mao, Juan Wang, Jichang Wang, Lianghao Yu, Shun Wang</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202408849</guid>
-    </item>
-    <item>
-      <title>Reduction in Nitrogen Fertilization Rate for Spring Wheat Due to Carbon Mineralization-Induced Nitrogen Mineralization</title>
-      <link>https://doi.org/10.3390/agrochemicals3030014</link>
-      <description>Upendra M. Sainju, Agrochemicals. 3(3)] 2024. https://openalex.org/W4400575477
-
-                Using predicted potential N mineralization (PNM) from its relationship with CO2 flush at 1 d incubation (CF) of soil samples in recommended N rates can reduce N fertilization rates for crops. This study used predicted PNM at the 0&#8211;15 cm depth to reduce N fertilization rates and examined spring wheat (Triticum aestivum L.) yields at two sites (Froid and Sidney) in Montana, USA. Cropping sequences at Froid were fall and spring till continuous spring wheat (FSTCW), no-till continuous spring wheat (NTCW1), no-till spring wheat&#8211;pea (Pisum sativum L.) (NTWP1), and spring till spring wheat&#8211;fallow (STWF). At Sidney, cropping sequences were conventional till spring wheat&#8211;fallow (CTWF), no-till spring wheat&#8211;fallow (NTWF), no-till continuous spring wheat (NTCW2), and no-till spring wheat&#8211;pea (NTWP2). Soil samples collected to a depth of 15 cm in September 2021 at both sites were analyzed for CF, PNM, and NO3-N contents, from which the reduction in N fertilization rate (RNFA) and the amount of N fertilizer applied (ANFA) to 2022 spring wheat were determined. In April 2022, spring wheat was grown with or without predicted PNM and annualized crop yields were compared. The CF and PNM were 114&#8211;137% greater for NTWP1 than STWF at Froid and 26&#8211;80% greater for NTCW2 than CTWF and NTWF at Sidney. The reduction in N fertilization rate was 26&#8211;102% greater for NTWP1 at Froid and 8&#8211;10% greater for NTCW2 and NTWF than other cropping sequences at Sidney. Annualized crop yield was 26&#8211;60% lower for crop&#8211;fallow than continuous cropping, but was not significantly different between with or without PNM at both sites. Using PNM can significantly reduce N fertilization rates for crops while sustaining dryland yields.</description>
-      <author>Upendra M. Sainju</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/agrochemicals3030014</guid>
-    </item>
-    <item>
       <title>Effect of Dry Mix Alkali Activated Slag Binder Composite Properties Cured in Ambient Condition</title>
       <link>https://doi.org/10.30955/gnj.05746</link>
       <description>, Global NEST Journal. None(None)] 2024. https://openalex.org/W4400727261
@@ -666,26 +546,6 @@
       <author/>
       <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.30955/gnj.05746</guid>
-    </item>
-    <item>
-      <title>The Reconstruction of Bi 2 Te 4 O 11 Nanorods for Efficient and pH&#8208;universal Electrochemical CO 2 Reduction</title>
-      <link>https://doi.org/10.1002/anie.202408849</link>
-      <description>Jiadong Chen, Tingjie Mao, Juan Wang, Jichang Wang, Huile Jin, Shun Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400593019
-
-                The practical application of electrochemical CO2 reduction reaction (CO2RR) is hindered by the competing CO production, hydrogen evolution reaction (HER), and the lack of pH&#8208;universal catalysts. Here, Te&#8208;modified Bi nanorods (Te&#8208;Bi NRs) were synthesized through in situ reconstruction of Bi2Te4O11 NRs under the CO2RR condition. Our study illustrates that the complex reconstruction process of Bi2Te4O11 NRs during CO2RR could be decoupled into three distinct steps, i.e., the destruction of Bi2Te4O11, the formation of Te/Bi phases, and the dissolution of Te. The thus&#8208;obtained Te&#8208;Bi NRs exhibit remarkably high performance in CO2RR towards formate production, showing high activity, selectivity, and stability across all pH conditions (acidic, neutral, and alkaline). In a flow cell reactor under neutral, alkaline, or acidic conditions, the catalysts achieved HCOOH Faradaic efficiencies of up to 94.3%, 96.4%, and 91.0%, respectively, at a high current density of 300 mA cm&#8208;2. DFT calculations, along with operando spectral measurements, reveal that Te manipulates the Bi sites to an electron&#8208;deficient state, enhancing the adsorption strength of the *OCHO intermediate, and significantly suppressing the competing HER and CO production. This study highlights the substantial influence of catalyst reconstruction under operational conditions and offers insights into designing highly active and stable electrocatalysts towards CO2RR.</description>
-      <author>Jiadong Chen, Tingjie Mao, Juan Wang, Jichang Wang, Huile Jin, Shun Wang</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202408849</guid>
-    </item>
-    <item>
-      <title>Investigating the effect of dynamic traffic distribution on network-wide traffic emissions: An empirical study in Ningbo, China</title>
-      <link>https://doi.org/10.1371/journal.pone.0305481</link>
-      <description>Shuichao Zhang, Jianan Shi, Yizhe Huang, Hao Shen, He Kangkang, Hongjie Chen, PloS one. 19(7)] 2024. https://openalex.org/W4400583330
-
-                Urban road traffic is one of the primary sources of carbon emissions. Previous studies have demonstrated the close relationship between traffic flow characteristics and carbon emissions (CO2). However, the impact of dynamic traffic distribution on carbon emissions is rarely empirically studied on the network level. To fill this gap, this study proposes a dynamic network carbon emissions estimation method. The network-level traffic emissions are estimated by combining macroscopic emission models and recent advances in dynamic network traffic flow modeling, namely, Macroscopic Fundamental Diagram. The impact of traffic distribution and the penetration of battery electric vehicles on total network emissions are further investigated using the Monte Carlo method. The results indicate the substantial effect of network traffic distribution on carbon emissions. Using the urban expressway network in Ningbo as an example, in the scenario of 100% internal combustion engine vehicles, increasing the standard deviation of link-level traffic density from 0 to 15 veh/km-ln can result in an 8.9% network capacity drop and a 15.5% reduction in network carbon emissions. This effect can be moderated as the penetration rate of battery electric vehicles increases. Based on the empirical and simulating evidence, different expressway pollution management strategies can be implemented, such as petrol vehicle restrictions, ramp metering, congestion pricing, and perimeter control strategies.</description>
-      <author>Shuichao Zhang, Jianan Shi, Yizhe Huang, Hao Shen, He Kangkang, Hongjie Chen</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0305481</guid>
     </item>
     <item>
       <title>Understanding the Social Determinants of Household Carbon Emissions for Carbon Mitigation Policies: The Case of Mersin, Turkey</title>

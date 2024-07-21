@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Jul 20 01:09:36 2024
+Created on Sun Jul 21 01:16:11 2024
 
-Found 56 results from 2024-07-13 to 2024-07-20
+Found 48 results from 2024-07-14 to 2024-07-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -13,72 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
-
-## High selectivity and abundant active sites in atomically dispersed TM2C12 monolayer for CO2 reduction   
-
-OpenAlex: https://openalex.org/W4400576723    
-Open access: False
-    
-[Shulong Li](https://openalex.org/A5035092988), [Song Yu](https://openalex.org/A5030279813), [Tian Guo](https://openalex.org/A5073299519), [Qiaoling Liu](https://openalex.org/A5100688200), [Liang Qiao](https://openalex.org/A5062631493), [Yong Zhao](https://openalex.org/A5101429075), [Li‐Yong Gan](https://openalex.org/A5006186991), Fuel processing technology. 261(None)] 2024.https://doi.org/10.1016/j.fuproc.2024.108106.
-    
-No abstract    
-
-    
-
-## Single Atomic Catalyst of Hydrogen Evolution Supported by Semimetallic γ-GeSe   
-
-OpenAlex: https://openalex.org/W4400576867    
-Open access: True
-    
-[Dan Liang](https://openalex.org/A5102024947), [Hejin Yan](https://openalex.org/A5065648316), [Yongqing Cai](https://openalex.org/A5051088600), Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c02261.
-    
-No abstract    
-
-    
-
-## Tuning Excitonic Properties of Monochalcogenides via Design of Janus Structures   
-
-OpenAlex: https://openalex.org/W4400581365    
-Open access: True
-    
-[Mateus B. P. Querne](https://openalex.org/A5059078723), [A. C. Dias](https://openalex.org/A5067816197), [Anderson Janotti](https://openalex.org/A5029945393), [Juarez L. F. Da Silva](https://openalex.org/A5077065362), [Matheus P. Lima](https://openalex.org/A5021229185), Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01813.
-    
-No abstract    
-
-    
-
-## Feni Nanoparticle-Modified Reduced Graphene Oxide as a Durable Electrocatalyst for Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4400582061    
-Open access: False
-    
-[Inna Yusnila Khairani](https://openalex.org/A5055878362), [Jin Benjin](https://openalex.org/A5104423631), [Sidney M. Palardonio](https://openalex.org/A5068152349), [Ulrich Hagemann](https://openalex.org/A5074048659), [Beatriz Alonso](https://openalex.org/A5022111830), [Amaya Ortega](https://openalex.org/A5085432322), [Carlos Doñate‐Buendía](https://openalex.org/A5086528627), [Jordi Martorell](https://openalex.org/A5002276985), [Carles Ros](https://openalex.org/A5086260708), [Tanja Kallio](https://openalex.org/A5078947642), [Bilal Gökce](https://openalex.org/A5064040676), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4892968.
-    
-No abstract    
-
-    
-
-## Molecular modeling applied to corrosion inhibition: a critical review   
-
-OpenAlex: https://openalex.org/W4400583285    
-Open access: True
-    
-[José M. Castillo-Robles](https://openalex.org/A5086514915), [Ernane de Freitas Martins](https://openalex.org/A5079100392), [Pablo Ordejón](https://openalex.org/A5023564280), [Ivan Cole](https://openalex.org/A5074823524), npj materials degradation. 8(1)] 2024.https://doi.org/10.1038/s41529-024-00478-2.
-    
-Abstract In the last few years, organic corrosion inhibitors have been used as a green alternative to toxic inorganic compounds to prevent corrosion in materials. Nonetheless, the fundamental mechanisms determining their inhibition performance are still far from understood. Molecular modeling can provide important insights into those mechanisms, allowing for a detailed analysis of the corrosion inhibition (CI) process. However, CI modeling is frequently underexplored and commonly used in a standardized way following a pre-determined recipe to support experimental data. We highlight six fundamental aspects (A) that one should consider when modeling CI: (A1) the electronic properties of isolated inhibitors, (A2) the interaction of the inhibitor with the surface, (A3) the surface model, (A4) the effect of the anodic and cathodic zones on the surface, (A5) the solvent effects, and (A6) the electrodes’ potential effects. While A1-A3 are more frequently investigated, A4-A6 and some more complex surface models from A3 are usually not considered and represent gaps in the CI modeling literature. In this review, we discuss the main features of molecular modeling applied to CI, considering the aforementioned key aspects and focusing on the gaps that the emerging approaches aim to fill. Filling these gaps will allow performing more detailed simulations of the CI process, which, coupled with artificial intelligence (AI) methods and multiscale approaches, might construct the bridge between the nanoscale CI modeling and the continuum scale of the CI processes.    
-
-    
-
-## Broadening the Realm of Nanoporous Gold Catalysts: Preparation and Properties When Emanating from AuCu as Parent Alloy   
-
-OpenAlex: https://openalex.org/W4400584052    
-Open access: True
-    
-[Jorge Adrian Tapia Burgos](https://openalex.org/A5081068601), [Christoph Mahr](https://openalex.org/A5087164870), [Alex Ricardo Silva Olaya](https://openalex.org/A5023554365), [Lars Robben](https://openalex.org/A5085184277), [Marco Schowalter](https://openalex.org/A5065706302), [Thorsten M. Gesing](https://openalex.org/A5009646370), [Andreas Rosenauer](https://openalex.org/A5072109726), [Günther Wittstock](https://openalex.org/A5038064548), [Arne Wittstock](https://openalex.org/A5007607788), [Marcus Bäumer](https://openalex.org/A5027803471), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202400280.
-    
-Abstract Nanoporous gold (npAu) attracted increasing attention over the last 20 years as a highly active and selective oxidation catalyst in particular at low temperatures. Previous research mainly focused on npAu that was fabricated by corrosive dealloying of AuAg parent alloys. Yet, the use of other binary alloys, such as AuCu, promises interesting variations of the catalytic properties, when considering that residual amounts of the less noble metal were shown to be co‐catalytically involved. Aiming at providing a platform for systematic studies in this direction for Cu, we not only dealt with strategies for a reliable and reproducible preparation of npAu(Cu) catalysts from AuCu, but also with their potential for CO oxidation in comparison to npAu(Ag). We were able to develop an approach based on thermally quenched Au 0.3 Cu 0.7 alloys, providing distinct synthetic advantages as a starting material for the catalyst fabrication versus the thermodynamically more stable AuCu 3 intermetallic compound. Using PCD (potentiostatically controlled dealloying), well‐defined pore structures with ligament diameters of ∼40 nm and variable residual Cu concentrations in the range between ∼0.6 at % and ∼1.2 at % could be straightforwardly obtained. After activating such catalysts at 150 °C, they reproducibly showed catalytic activity for aerobic CO oxidation in a broad temperature window between 40 °C and 250 °C. As opposed to npAu(Ag), the activity increased with decreasing residual Cu content, outperforming the former at temperatures above ∼60 °C not only with respect to CO 2 formation rates but also with respect to thermal stability. Based on X‐ray photoelectron spectroscopic and transmission electron microscopic results, it was possible to conclude that Cu segregates to the surface and, with rising Cu bulk content, increasingly occurs in form of Cu 2+ species at the surface. While the latter are expected to be catalytically inactive, Cu and Cu + species are likely candidates for the activation of oxygen being not possible on pure Au.    
-
-    
 
 ## General applications of density functional theory in photocatalysis   
 
@@ -264,28 +198,6 @@ Open access: False
 [P. Zhang](https://openalex.org/A5054863637), [Han Man](https://openalex.org/A5074832487), [Yao Huo](https://openalex.org/A5031552167), [Fei Zhang](https://openalex.org/A5100412194), [Yang Liu](https://openalex.org/A5101607037), [Renbing Wu](https://openalex.org/A5000351527), [Fei Wang](https://openalex.org/A5100455803), [Dalin Sun](https://openalex.org/A5100519066), Advanced functional materials. None(None)] 2024.https://doi.org/10.1002/adfm.202409365.
     
 Abstract The development of efficient and long‐term stable electrodes for hydrogen evolution reaction (HER) in seawater is highly desirable for hydrogen generation but remains challenging. In this work, a highly active CrO x @Ni 2 P‐Ni 5 P 4 /NF electrode is developed and investigated its dynamic reconstruction for HER in neutral electrolytes. The combination of in situ Raman spectra and electrochemical measurements revealed the dynamic surface reconstruction of the catalyst during HER. The CrO x modification not only effectively facilitates water dissociation but also stabilizes the structure post‐reconstruction, enabling rapid and stable hydrogen generation in neutral media. Remarkably, CrO x @Ni 2 P‐Ni 5 P 4 /NF exhibits overpotentials of 109 and 263 mV at current densities of 10 and 100 mA cm −2 in 1 m PBS, respectively. Concurrently, it exhibits stable operation for 500 h in 1 m PBS and 140 h in natural seawater at current densities of 50 and 100 mA cm −2 , respectively. The proposed catalytic electrode and the mechanistic insights present a significant stride toward the realization of metal phosphides for direct seawater splitting.    
-
-    
-
-## Strain-Triggered Distinct Oxygen Evolution Reaction Pathway in Two-Dimensional Metastable Phase IrO2 via CeO2 Loading   
-
-OpenAlex: https://openalex.org/W4400577623    
-Open access: False
-    
-[Hao Yu](https://openalex.org/A5039067075), [Yujin Ji](https://openalex.org/A5071601763), [Chenchen Li](https://openalex.org/A5100445772), [Wenxiang Zhu](https://openalex.org/A5100643386), [Yue Wang](https://openalex.org/A5100372049), [Zhiwei Hu](https://openalex.org/A5003964217), [Jing Zhou](https://openalex.org/A5034982706), [C. W. Pao](https://openalex.org/A5058715666), [Wei‐Hsiang Huang](https://openalex.org/A5078062437), [Youyong Li](https://openalex.org/A5035944985), [Xiaoqing Huang](https://openalex.org/A5073869073), [Qi Shao](https://openalex.org/A5065985607), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c05204.
-    
-A strain engineering strategy is crucial for designing a high-performance catalyst. However, how to control the strain in metastable phase two-dimensional (2D) materials is technically challenging due to their nanoscale sizes. Here, we report that cerium dioxide (CeO    
-
-    
-
-## Virtual node graph neural network for full phonon prediction   
-
-OpenAlex: https://openalex.org/W4400588429    
-Open access: False
-    
-[Ryotaro Okabe](https://openalex.org/A5052076560), [Abhijatmedhi Chotrattanapituk](https://openalex.org/A5014628792), [Artittaya Boonkird](https://openalex.org/A5074918881), [Nina Andrejevic](https://openalex.org/A5000282482), [Xiang Fu](https://openalex.org/A5091672844), [Tommi Jaakkola](https://openalex.org/A5048915657), [Qichen Song](https://openalex.org/A5036750372), [Thanh Bình Nguyễn](https://openalex.org/A5100387321), [Nathan C. Drucker](https://openalex.org/A5040114875), [Sai Mu](https://openalex.org/A5016505523), [Yao Wang](https://openalex.org/A5100319034), [Bolin Liao](https://openalex.org/A5087485117), [Yongqiang Cheng](https://openalex.org/A5033156106), [Mingda Li](https://openalex.org/A5000005685), Nature computational science. None(None)] 2024.https://doi.org/10.1038/s43588-024-00661-0.
-    
-No abstract    
 
     
 

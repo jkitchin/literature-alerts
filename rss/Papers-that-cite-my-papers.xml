@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jul 2024 01:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 01:16:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>High selectivity and abundant active sites in atomically dispersed TM2C12 monolayer for CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.fuproc.2024.108106</link>
-      <description>Shulong Li, Song Yu, Tian Guo, Qiaoling Liu, Liang Qiao, Yong Zhao, Li&#8208;Yong Gan, Fuel processing technology. 261(None)] 2024. https://openalex.org/W4400576723
-
-                No abstract</description>
-      <author>Shulong Li, Song Yu, Tian Guo, Qiaoling Liu, Liang Qiao, Yong Zhao, Li&#8208;Yong Gan</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuproc.2024.108106</guid>
-    </item>
-    <item>
-      <title>Single Atomic Catalyst of Hydrogen Evolution Supported by Semimetallic &#947;-GeSe</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02261</link>
-      <description>Dan Liang, Hejin Yan, Yongqing Cai, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400576867
-
-                No abstract</description>
-      <author>Dan Liang, Hejin Yan, Yongqing Cai</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02261</guid>
-    </item>
-    <item>
-      <title>Tuning Excitonic Properties of Monochalcogenides via Design of Janus Structures</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01813</link>
-      <description>Mateus B. P. Querne, A. C. Dias, Anderson Janotti, Juarez L. F. Da Silva, Matheus P. Lima, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400581365
-
-                No abstract</description>
-      <author>Mateus B. P. Querne, A. C. Dias, Anderson Janotti, Juarez L. F. Da Silva, Matheus P. Lima</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01813</guid>
-    </item>
-    <item>
-      <title>Feni Nanoparticle-Modified Reduced Graphene Oxide as a Durable Electrocatalyst for Oxygen Evolution</title>
-      <link>https://doi.org/10.2139/ssrn.4892968</link>
-      <description>Inna Yusnila Khairani, Jin Benjin, Sidney M. Palardonio, Ulrich Hagemann, Beatriz Alonso, Amaya Ortega, Carlos Do&#241;ate&#8208;Buend&#237;a, Jordi Martorell, Carles Ros, Tanja Kallio, Bilal G&#246;kce, No host. None(None)] 2024. https://openalex.org/W4400582061
-
-                No abstract</description>
-      <author>Inna Yusnila Khairani, Jin Benjin, Sidney M. Palardonio, Ulrich Hagemann, Beatriz Alonso, Amaya Ortega, Carlos Do&#241;ate&#8208;Buend&#237;a, Jordi Martorell, Carles Ros, Tanja Kallio, Bilal G&#246;kce</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4892968</guid>
-    </item>
-    <item>
-      <title>Molecular modeling applied to corrosion inhibition: a critical review</title>
-      <link>https://doi.org/10.1038/s41529-024-00478-2</link>
-      <description>Jos&#233; M. Castillo-Robles, Ernane de Freitas Martins, Pablo Ordej&#243;n, Ivan Cole, npj materials degradation. 8(1)] 2024. https://openalex.org/W4400583285
-
-                Abstract In the last few years, organic corrosion inhibitors have been used as a green alternative to toxic inorganic compounds to prevent corrosion in materials. Nonetheless, the fundamental mechanisms determining their inhibition performance are still far from understood. Molecular modeling can provide important insights into those mechanisms, allowing for a detailed analysis of the corrosion inhibition (CI) process. However, CI modeling is frequently underexplored and commonly used in a standardized way following a pre-determined recipe to support experimental data. We highlight six fundamental aspects (A) that one should consider when modeling CI: (A1) the electronic properties of isolated inhibitors, (A2) the interaction of the inhibitor with the surface, (A3) the surface model, (A4) the effect of the anodic and cathodic zones on the surface, (A5) the solvent effects, and (A6) the electrodes&#8217; potential effects. While A1-A3 are more frequently investigated, A4-A6 and some more complex surface models from A3 are usually not considered and represent gaps in the CI modeling literature. In this review, we discuss the main features of molecular modeling applied to CI, considering the aforementioned key aspects and focusing on the gaps that the emerging approaches aim to fill. Filling these gaps will allow performing more detailed simulations of the CI process, which, coupled with artificial intelligence (AI) methods and multiscale approaches, might construct the bridge between the nanoscale CI modeling and the continuum scale of the CI processes.</description>
-      <author>Jos&#233; M. Castillo-Robles, Ernane de Freitas Martins, Pablo Ordej&#243;n, Ivan Cole</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41529-024-00478-2</guid>
-    </item>
-    <item>
-      <title>Broadening the Realm of Nanoporous Gold Catalysts: Preparation and Properties When Emanating from AuCu as Parent Alloy</title>
-      <link>https://doi.org/10.1002/cctc.202400280</link>
-      <description>Jorge Adrian Tapia Burgos, Christoph Mahr, Alex Ricardo Silva Olaya, Lars Robben, Marco Schowalter, Thorsten M. Gesing, Andreas Rosenauer, G&#252;nther Wittstock, Arne Wittstock, Marcus B&#228;umer, ChemCatChem. None(None)] 2024. https://openalex.org/W4400584052
-
-                Abstract Nanoporous gold (npAu) attracted increasing attention over the last 20 years as a highly active and selective oxidation catalyst in particular at low temperatures. Previous research mainly focused on npAu that was fabricated by corrosive dealloying of AuAg parent alloys. Yet, the use of other binary alloys, such as AuCu, promises interesting variations of the catalytic properties, when considering that residual amounts of the less noble metal were shown to be co&#8208;catalytically involved. Aiming at providing a platform for systematic studies in this direction for Cu, we not only dealt with strategies for a reliable and reproducible preparation of npAu(Cu) catalysts from AuCu, but also with their potential for CO oxidation in comparison to npAu(Ag). We were able to develop an approach based on thermally quenched Au 0.3 Cu 0.7 alloys, providing distinct synthetic advantages as a starting material for the catalyst fabrication versus the thermodynamically more stable AuCu 3 intermetallic compound. Using PCD (potentiostatically controlled dealloying), well&#8208;defined pore structures with ligament diameters of &#8764;40 nm and variable residual Cu concentrations in the range between &#8764;0.6 at % and &#8764;1.2 at % could be straightforwardly obtained. After activating such catalysts at 150 &#176;C, they reproducibly showed catalytic activity for aerobic CO oxidation in a broad temperature window between 40 &#176;C and 250 &#176;C. As opposed to npAu(Ag), the activity increased with decreasing residual Cu content, outperforming the former at temperatures above &#8764;60 &#176;C not only with respect to CO 2 formation rates but also with respect to thermal stability. Based on X&#8208;ray photoelectron spectroscopic and transmission electron microscopic results, it was possible to conclude that Cu segregates to the surface and, with rising Cu bulk content, increasingly occurs in form of Cu 2+ species at the surface. While the latter are expected to be catalytically inactive, Cu and Cu + species are likely candidates for the activation of oxygen being not possible on pure Au.</description>
-      <author>Jorge Adrian Tapia Burgos, Christoph Mahr, Alex Ricardo Silva Olaya, Lars Robben, Marco Schowalter, Thorsten M. Gesing, Andreas Rosenauer, G&#252;nther Wittstock, Arne Wittstock, Marcus B&#228;umer</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400280</guid>
-    </item>
     <item>
       <title>General applications of density functional theory in photocatalysis</title>
       <link>https://doi.org/10.1016/s1872-2067(24)60006-9</link>
@@ -236,26 +176,6 @@
       <author>P. Zhang, Han Man, Yao Huo, Fei Zhang, Yang Liu, Renbing Wu, Fei Wang, Dalin Sun</author>
       <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409365</guid>
-    </item>
-    <item>
-      <title>Strain-Triggered Distinct Oxygen Evolution Reaction Pathway in Two-Dimensional Metastable Phase IrO&lt;sub&gt;2&lt;/sub&gt; via CeO&lt;sub&gt;2&lt;/sub&gt; Loading</title>
-      <link>https://doi.org/10.1021/jacs.4c05204</link>
-      <description>Hao Yu, Yujin Ji, Chenchen Li, Wenxiang Zhu, Yue Wang, Zhiwei Hu, Jing Zhou, C. W. Pao, Wei&#8208;Hsiang Huang, Youyong Li, Xiaoqing Huang, Qi Shao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400577623
-
-                A strain engineering strategy is crucial for designing a high-performance catalyst. However, how to control the strain in metastable phase two-dimensional (2D) materials is technically challenging due to their nanoscale sizes. Here, we report that cerium dioxide (CeO</description>
-      <author>Hao Yu, Yujin Ji, Chenchen Li, Wenxiang Zhu, Yue Wang, Zhiwei Hu, Jing Zhou, C. W. Pao, Wei&#8208;Hsiang Huang, Youyong Li, Xiaoqing Huang, Qi Shao</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c05204</guid>
-    </item>
-    <item>
-      <title>Virtual node graph neural network for full phonon prediction</title>
-      <link>https://doi.org/10.1038/s43588-024-00661-0</link>
-      <description>Ryotaro Okabe, Abhijatmedhi Chotrattanapituk, Artittaya Boonkird, Nina Andrejevic, Xiang Fu, Tommi Jaakkola, Qichen Song, Thanh B&#236;nh Nguy&#7877;n, Nathan C. Drucker, Sai Mu, Yao Wang, Bolin Liao, Yongqiang Cheng, Mingda Li, Nature computational science. None(None)] 2024. https://openalex.org/W4400588429
-
-                No abstract</description>
-      <author>Ryotaro Okabe, Abhijatmedhi Chotrattanapituk, Artittaya Boonkird, Nina Andrejevic, Xiang Fu, Tommi Jaakkola, Qichen Song, Thanh B&#236;nh Nguy&#7877;n, Nathan C. Drucker, Sai Mu, Yao Wang, Bolin Liao, Yongqiang Cheng, Mingda Li</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43588-024-00661-0</guid>
     </item>
     <item>
       <title>Theoretical screening of single transition-metal atoms anchored Janus MoSSe monolayers as efficient electrocatalysts for nitrogen fixation</title>

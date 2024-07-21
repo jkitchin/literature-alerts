@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jul 2024 01:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 01:16:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Operando Soft X-ray Absorption of LaMn&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Co&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Perovskites for CO Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c03259</link>
-      <description>Qijun Che, Mahnaz Ghiasi, Luca Braglia, Matt L. J. Peerlings, Silvia Mauri, Piero Torelli, Petra E. de Jongh, Frank M. F. de Groot, ACS catalysis. None(None)] 2024. https://openalex.org/W4400578080
-
-                No abstract</description>
-      <author>Qijun Che, Mahnaz Ghiasi, Luca Braglia, Matt L. J. Peerlings, Silvia Mauri, Piero Torelli, Petra E. de Jongh, Frank M. F. de Groot</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03259</guid>
-    </item>
-    <item>
-      <title>Surface Engineering on Ag-Decorated Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Electrocatalysts for Boosting Nitrate Reduction to Ammonia</title>
-      <link>https://doi.org/10.1021/acscatal.4c01510</link>
-      <description>Ming Zhang, Zhipeng Ma, Yingtang Zhou, Han Chen, Varun Kundi, Priyank V. Kumar, Lars Thomsen, Bernt Johannessen, Lingyi Peng, Yanju Shan, Constantine Tsounis, Yuwei Yang, Jian Pan, Rose Amal, ACS catalysis. None(None)] 2024. https://openalex.org/W4400581801
-
-                No abstract</description>
-      <author>Ming Zhang, Zhipeng Ma, Yingtang Zhou, Han Chen, Varun Kundi, Priyank V. Kumar, Lars Thomsen, Bernt Johannessen, Lingyi Peng, Yanju Shan, Constantine Tsounis, Yuwei Yang, Jian Pan, Rose Amal</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01510</guid>
-    </item>
-    <item>
-      <title>Promoted Surface-Interface Catalysis over Mn&#8211;Cr Incorporated Cu-Based Catalysts for Efficient Hydrogen Production from Methanol Decomposition</title>
-      <link>https://doi.org/10.1021/acscatal.4c02918</link>
-      <description>Zhenquan Tan, Guoli Fan, Lirong Zheng, Feng Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4400586520
-
-                No abstract</description>
-      <author>Zhenquan Tan, Guoli Fan, Lirong Zheng, Feng Li</author>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02918</guid>
-    </item>
-    <item>
-      <title>Tuning Interfacial Sites of WO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;/Pt for Enhancing Reverse Water Gas Shift Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c02341</link>
-      <description>Wenli Bi, Li Wang, Ruoyu Zhang, Qingfeng Ge, Xinli Zhu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400590852
-
-                No abstract</description>
-      <author>Wenli Bi, Li Wang, Ruoyu Zhang, Qingfeng Ge, Xinli Zhu</author>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02341</guid>
-    </item>
     <item>
       <title>Ferromagnetic-Interaction-Induced Spin Symmetry Broken in Ruthenium Oxide for Enhanced Acidic Water Oxidation</title>
       <link>https://doi.org/10.1021/acscatal.4c02736</link>
@@ -216,6 +176,36 @@
       <author>Stephen DiLuzio, Lakshmy Kannadi Valloli, Max Kudisch, David Chambers, Garry Rumbles, Ruipeng Li, Matthew J. Bird, Hannah J. Sayre</author>
       <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03350</guid>
+    </item>
+    <item>
+      <title>Enhanced Oxygen Reduction Reaction Activity on the Melamine-Modified Pt-High-Entropy Alloy Single-Crystal Lattice Stacking Surface</title>
+      <link>https://doi.org/10.1021/acscatal.4c02191</link>
+      <description>Takumi Kobayshi, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama, ACS catalysis. None(None)] 2024. https://openalex.org/W4400768951
+
+                No abstract</description>
+      <author>Takumi Kobayshi, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02191</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i014_1824225</link>
+      <description>, ACS catalysis. 14(14)] 2024. https://openalex.org/W4400834442
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i014_1824225</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i014_1824224</link>
+      <description>, ACS catalysis. 14(14)] 2024. https://openalex.org/W4400834444
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i014_1824224</guid>
     </item>
   </channel>
 </rss>

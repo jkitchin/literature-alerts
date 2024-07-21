@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jul 20 01:09:27 2024
+Created on Sun Jul 21 01:16:04 2024
 
-Found 21 results from 2024-07-13 to 2024-07-20
+Found 20 results from 2024-07-14 to 2024-07-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Operando Soft X-ray Absorption of LaMn1–xCoxO3 Perovskites for CO Oxidation   
-
-OpenAlex: https://openalex.org/W4400578080    
-Open access: True
-    
-[Qijun Che](https://openalex.org/A5104422090), [Mahnaz Ghiasi](https://openalex.org/A5085052083), [Luca Braglia](https://openalex.org/A5091524363), [Matt L. J. Peerlings](https://openalex.org/A5087884008), [Silvia Mauri](https://openalex.org/A5075644386), [Piero Torelli](https://openalex.org/A5055773593), [Petra E. de Jongh](https://openalex.org/A5040096948), [Frank M. F. de Groot](https://openalex.org/A5052699796), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03259.
-    
-No abstract    
-
-    
-
-## Surface Engineering on Ag-Decorated Co3O4 Electrocatalysts for Boosting Nitrate Reduction to Ammonia   
-
-OpenAlex: https://openalex.org/W4400581801    
-Open access: False
-    
-[Ming Zhang](https://openalex.org/A5030243587), [Zhipeng Ma](https://openalex.org/A5053180714), [Yingtang Zhou](https://openalex.org/A5043063276), [Han Chen](https://openalex.org/A5100325116), [Varun Kundi](https://openalex.org/A5045618974), [Priyank V. Kumar](https://openalex.org/A5039092447), [Lars Thomsen](https://openalex.org/A5040663143), [Bernt Johannessen](https://openalex.org/A5042673824), [Lingyi Peng](https://openalex.org/A5056118255), [Yanju Shan](https://openalex.org/A5034220555), [Constantine Tsounis](https://openalex.org/A5048736972), [Yuwei Yang](https://openalex.org/A5100592110), [Jian Pan](https://openalex.org/A5021767947), [Rose Amal](https://openalex.org/A5050471439), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01510.
-    
-No abstract    
-
-    
-
-## Promoted Surface-Interface Catalysis over Mn–Cr Incorporated Cu-Based Catalysts for Efficient Hydrogen Production from Methanol Decomposition   
-
-OpenAlex: https://openalex.org/W4400586520    
-Open access: False
-    
-[Zhenquan Tan](https://openalex.org/A5068462482), [Guoli Fan](https://openalex.org/A5084986674), [Lirong Zheng](https://openalex.org/A5065268874), [Feng Li](https://openalex.org/A5100448864), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02918.
-    
-No abstract    
-
-    
-
-## Tuning Interfacial Sites of WOx/Pt for Enhancing Reverse Water Gas Shift Reaction   
-
-OpenAlex: https://openalex.org/W4400590852    
-Open access: False
-    
-[Wenli Bi](https://openalex.org/A5029898698), [Li Wang](https://openalex.org/A5100322864), [Ruoyu Zhang](https://openalex.org/A5100371690), [Qingfeng Ge](https://openalex.org/A5011150326), [Xinli Zhu](https://openalex.org/A5036620975), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02341.
-    
-No abstract    
-
-    
 
 ## Ferromagnetic-Interaction-Induced Spin Symmetry Broken in Ruthenium Oxide for Enhanced Acidic Water Oxidation   
 
@@ -232,6 +188,39 @@ OpenAlex: https://openalex.org/W4400741521
 Open access: False
     
 [Stephen DiLuzio](https://openalex.org/A5060939989), [Lakshmy Kannadi Valloli](https://openalex.org/A5050604367), [Max Kudisch](https://openalex.org/A5067428739), [David Chambers](https://openalex.org/A5046805778), [Garry Rumbles](https://openalex.org/A5024629548), [Ruipeng Li](https://openalex.org/A5101509234), [Matthew J. Bird](https://openalex.org/A5017500940), [Hannah J. Sayre](https://openalex.org/A5029492500), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03350.
+    
+No abstract    
+
+    
+
+## Enhanced Oxygen Reduction Reaction Activity on the Melamine-Modified Pt-High-Entropy Alloy Single-Crystal Lattice Stacking Surface   
+
+OpenAlex: https://openalex.org/W4400768951    
+Open access: False
+    
+[Takumi Kobayshi](https://openalex.org/A5104679444), [Yoshihiro Chida](https://openalex.org/A5038361346), [Naoto Todoroki](https://openalex.org/A5068147445), [Toshimasa Wadayama](https://openalex.org/A5074172776), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02191.
+    
+No abstract    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4400834442    
+Open access: False
+    
+, ACS catalysis. 14(14)] 2024.https://doi.org/10.1021/csv014i014_1824225.
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4400834444    
+Open access: False
+    
+, ACS catalysis. 14(14)] 2024.https://doi.org/10.1021/csv014i014_1824224.
     
 No abstract    
 
