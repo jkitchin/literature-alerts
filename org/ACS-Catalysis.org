@@ -1,73 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jul 21 01:16:04 2024
+Created on Mon Jul 22 01:13:20 2024
 
-Found 20 results from 2024-07-14 to 2024-07-21
+Found 18 results from 2024-07-15 to 2024-07-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Ferromagnetic-Interaction-Induced Spin Symmetry Broken in Ruthenium Oxide for Enhanced Acidic Water Oxidation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400604797
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-07-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02736")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400604797"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400604797"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400604797"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400604797 (Open access: False)
-    
-[[https://openalex.org/A5102018857][Lei Tan]], [[https://openalex.org/A5101497010][Xiaotong Wu]], [[https://openalex.org/A5100386408][Haifeng Wang]], [[https://openalex.org/A5068006098][Jianrong Zeng]], [[https://openalex.org/A5060053004][Bingbao Mei]], [[https://openalex.org/A5090701303][Xiangxiang Pan]], [[https://openalex.org/A5101637603][Weibo Hu]], [[https://openalex.org/A5042110819][Faiza Meharban]], [[https://openalex.org/A5051064634][Qi Xiao]], [[https://openalex.org/A5100458084][Yonghui Zhao]], [[https://openalex.org/A5101691354][Chao Fu]], [[https://openalex.org/A5101598383][Chao Lin]], [[https://openalex.org/A5101673541][Xiaopeng Li]], [[https://openalex.org/A5041306437][Wei Luo]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02736 
-     
-No abstract    
-
-    
-
-* Effects of Surfaces and Confinement on Formic Acid Dehydrogenation Catalyzed by an Immobilized Ru–H Complex: Insights from Molecular Simulation and Neutron Scattering  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400606147
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Transition Metal Catalysis, Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-07-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02626")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400606147"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400606147"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400606147"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400606147 (Open access: False)
-    
-[[https://openalex.org/A5034637570][Hoang-Huy Nguyen]], [[https://openalex.org/A5092492819][Marc Högler]], [[https://openalex.org/A5104433201][Nadine Schnabel]], [[https://openalex.org/A5079455776][Niels Hansen]], [[https://openalex.org/A5078795791][Thomas Sottmann]], [[https://openalex.org/A5049111275][Deven P. Estes]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02626 
-     
-No abstract    
-
-    
-
-* Insights into Substituent Effects on the Fundamental Photocatalytic Processes of Covalent Organic Frameworks toward H2 Evolution and H2O2 Production Reactions  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400613140
-:TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Photocatalytic Materials for Solar Energy Conversion, Chemistry and Applications of Metal-Organic Frameworks
-:PUBLICATION_DATE: 2024-07-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02827")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400613140"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400613140"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400613140"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400613140 (Open access: False)
-    
-[[https://openalex.org/A5101973026][Yingying Gu]], [[https://openalex.org/A5100627763][Junxia Wang]], [[https://openalex.org/A5021443412][Qingqing Tang]], [[https://openalex.org/A5064167443][Hongtao Wei]], [[https://openalex.org/A5078957143][Jing Ning]], [[https://openalex.org/A5009932289][Xuefang Lan]], [[https://openalex.org/A5100451941][Xuefeng Wang]], [[https://openalex.org/A5085966459][Xuehui Li]], [[https://openalex.org/A5100603131][Yonggang Jia]], [[https://openalex.org/A5100338047][Shaobin Wang]], [[https://openalex.org/A5100629823][Long Hao]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02827 
-     
-No abstract    
-
-    
 
 * Copper- and Palladium-Cocatalyzed Chemo-, Regio-, Stereo-, and Atroposelective Arylboration of 1,3-Enynes  :ACS_Catalysis:
 :PROPERTIES:
@@ -316,6 +253,27 @@ No abstract
 OpenAlex: https://openalex.org/W4400737606 (Open access: False)
     
 [[https://openalex.org/A5066862502][Javier E. Chavarrio]], [[https://openalex.org/A5104646059][Kyle Kirkendall-Jones]], [[https://openalex.org/A5056791920][Raka G. Dastidar]], [[https://openalex.org/A5050004838][George W. Huber]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01025 
+     
+No abstract    
+
+    
+
+* Enhancing Tandem Partial Hydrogenation–Hydrolysis of Diphenyl Ethers to Cyclohexanols with Surface-Oxidized MXene  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400739986
+:TOPICS: Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Catalytic Reduction of Nitro Compounds, Graphene: Properties, Synthesis, and Applications
+:PUBLICATION_DATE: 2024-07-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03193")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400739986"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400739986"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400739986"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400739986 (Open access: False)
+    
+[[https://openalex.org/A5054316895][Yonggang Peng]], [[https://openalex.org/A5088268661][Yue Hu]], [[https://openalex.org/A5100411552][Yufei Chen]], [[https://openalex.org/A5100735838][Jun Wang]], [[https://openalex.org/A5054030311][Zheling Zeng]], [[https://openalex.org/A5003223911][Xiaojun Zeng]], [[https://openalex.org/A5045152496][Shuguang Deng]], [[https://openalex.org/A5078341960][Ji‐Jun Zou]], [[https://openalex.org/A5080694348][Qiang Deng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03193 
      
 No abstract    
 

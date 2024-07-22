@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jul 2024 01:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 01:13:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unveiling the Role of Electrochemical Activation for Iron-doped Ni Oxyhydroxide in Enhancing the Catalytic Performance of Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.22541/au.172088317.78083290/v1</link>
-      <description>Jiyoung Kim, JeongEun Yoo, Ki&#8208;Young Lee, No host. None(None)] 2024. https://openalex.org/W4400605694
-
-                No abstract</description>
-      <author>Jiyoung Kim, JeongEun Yoo, Ki&#8208;Young Lee</author>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.22541/au.172088317.78083290/v1</guid>
-    </item>
-    <item>
-      <title>Superhydrophilic cobalt-doped NiFe LDH graphite felt with enriched oxygen vacancy as an efficient oxygen evolution electrocatalyst in alkaline media</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.109</link>
-      <description>Danni Li, Xiang Shao, Muhammad Umair, Fengxiao Hou, Sa Li, Yingming Tang, Limei Cao, Ji Yang, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400612401
-
-                No abstract</description>
-      <author>Danni Li, Xiang Shao, Muhammad Umair, Fengxiao Hou, Sa Li, Yingming Tang, Limei Cao, Ji Yang</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.109</guid>
-    </item>
     <item>
       <title>Efficient and robust single-layer IrO cluster electrocatalyst for oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ces.2024.120508</link>
@@ -156,6 +136,16 @@
       <author>Zonglin Li, Hong Sheng, Yichao Lin, Hongyan Hu, Hongfei Sun, Dong Yan, Wei Wang, Lingzhi Wei, Ziqi Tian, Qianwang Chen, Jianwei Su, Liang Chen</author>
       <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409714</guid>
+    </item>
+    <item>
+      <title>Multiple-perspective design of hollow-structured cerium-vanadium-based nanopillar arrays for enhanced overall water electrolysis</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.07.104</link>
+      <description>Yi Qin, Caizheng Wang, Xinran Hou, Huijie Zhang, Zhaoyang Tan, Xiaobin Wang, Jingde Li, Feichao Wu, Journal of colloid and interface science. 674(None)] 2024. https://openalex.org/W4400621329
+
+                It is critical and challenging to develop highly active and low cost bifunctional electrocatalysts for the hydrogen/oxygen evolution reaction (HER/OER) in water electrolysis. Herein, we propose cerium-vanadium-based hollow nanopillar arrays supported on nickel foam (CeV-HNA/NF) as bifunctional HER/OER electrocatalysts, which are prepared by etching the V metal-organic framework with Ce salt and then pyrolyzing. Etching results in multidimensional optimizations of electrocatalysts, covering substantial oxygen vacancies, optimized electronic configurations, and an open-type structure of hollow nanopillar arrays, which contribute to accelerating the charge transfer rate, regulating the adsorption energy of H/O-containing reaction intermediates, and fully exposing the active sites. The reconstruction of the electrocatalyst is also accelerated by Ce doping, which results in highly active hydroxy vanadium oxide interfaces. Therefore, extremely low overpotentials of 170 and 240 mV under a current density of 100 mA cm</description>
+      <author>Yi Qin, Caizheng Wang, Xinran Hou, Huijie Zhang, Zhaoyang Tan, Xiaobin Wang, Jingde Li, Feichao Wu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.104</guid>
     </item>
     <item>
       <title>Promoted surface reconstruction of pentlandite via phosphorus-doping for enhanced oxygen evolution reaction</title>
@@ -418,6 +408,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02329</guid>
     </item>
     <item>
+      <title>Regulating the cationic vacancy structure of NiO to optimize its d band center and accelerate oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.194</link>
+      <description>Wen-Zhuo Zhang, Xiang Li, Guangyi Chen, Junyuan Xu, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400767816
+
+                No abstract</description>
+      <author>Wen-Zhuo Zhang, Xiang Li, Guangyi Chen, Junyuan Xu</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.194</guid>
+    </item>
+    <item>
       <title>B&#8208;site Doping Boosts the OER and ORR Performance of Double Perovskite Oxide as Air Cathode for Zinc&#8208;Air Batteries</title>
       <link>https://doi.org/10.1002/cphc.202400531</link>
       <description>Cagla Ozgur, Tuncay Erdil, Uygar Geyikci, &#304;lker Y&#305;ld&#305;z, Ersu LOKCU, &#199;i&#287;dem Toparl&#305;, ChemPhysChem. None(None)] 2024. https://openalex.org/W4400769965
@@ -426,6 +426,16 @@
       <author>Cagla Ozgur, Tuncay Erdil, Uygar Geyikci, &#304;lker Y&#305;ld&#305;z, Ersu LOKCU, &#199;i&#287;dem Toparl&#305;</author>
       <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cphc.202400531</guid>
+    </item>
+    <item>
+      <title>Oxygen-bridging Fe, Co dual-metal dimers boost reversible oxygen electrocatalysis for rechargeable Zn&#8211;air batteries</title>
+      <link>https://doi.org/10.1073/pnas.2404013121</link>
+      <description>Qixing Zhou, Wendan Xue, Xun Cui, Pengfei Wang, Sijin Zuo, Fan Mo, Chengzhi Li, G. Liu, Shaohu Ouyang, Sihui Zhan, Juan Chen, Chao Wang, Proceedings of the National Academy of Sciences of the United States of America. 121(30)] 2024. https://openalex.org/W4400772891
+
+                Rechargeable zinc&#8211;air batteries (ZABs) are regarded as a remarkably promising alternative to current lithium-ion batteries, addressing the requirements for large-scale high-energy storage. Nevertheless, the sluggish kinetics involving oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) hamper the widespread application of ZABs, necessitating the development of high-efficiency and durable bifunctional electrocatalysts. Here, we report oxygen atom&#8211;bridged Fe, Co dual-metal dimers (FeOCo-SAD), in which the active site Fe&#8211;O&#8211;Co&#8211;N 6 moiety boosts exceptional reversible activity toward ORR and OER in alkaline electrolytes. Specifically, FeOCo-SAD achieves a half-wave potential ( E 1/2 ) of 0.87 V for ORR and an overpotential of 310 mV at a current density of 10 mA cm &#8211;2 for OER, with a potential gap (&#916; E ) of only 0.67 V. Meanwhile, FeOCo-SAD manifests high performance with a peak power density of 241.24 mW cm &#8722;2 in realistic rechargeable ZABs. Theoretical calculations demonstrate that the introduction of an oxygen bridge in the Fe, Co dimer induced charge spatial redistribution around Fe and Co atoms. This enhances the activation of oxygen and optimizes the adsorption/desorption dynamics of reaction intermediates. Consequently, energy barriers are effectively reduced, leading to a strong promotion of intrinsic activity toward ORR and OER. This work suggests that oxygen-bridging dual-metal dimers offer promising prospects for significantly enhancing the performance of reversible oxygen electrocatalysis and for creating innovative catalysts that exhibit synergistic effects and electronic states.</description>
+      <author>Qixing Zhou, Wendan Xue, Xun Cui, Pengfei Wang, Sijin Zuo, Fan Mo, Chengzhi Li, G. Liu, Shaohu Ouyang, Sihui Zhan, Juan Chen, Chao Wang</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2404013121</guid>
     </item>
     <item>
       <title>La-induced nanosheet intercalated spheroid hierarchical structure with abundant oxygen vacancy promotes electrocatalytic oxygen evolution</title>
@@ -438,6 +448,26 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4cy00653d</guid>
     </item>
     <item>
+      <title>Ce- and La-doped polymetallic layered double hydroxides for enhanced oxygen evolution reaction performance at high current density</title>
+      <link>https://doi.org/10.1007/s11426-024-1952-9</link>
+      <description>Mukesh Ratnaparkhi, Ping Wang, Miao He, Senyao Meng, Jiasai Yao, Huawei Li, Cuicui Yang, Zhenxing Li, Science China. Chemistry. None(None)] 2024. https://openalex.org/W4400800404
+
+                No abstract</description>
+      <author>Mukesh Ratnaparkhi, Ping Wang, Miao He, Senyao Meng, Jiasai Yao, Huawei Li, Cuicui Yang, Zhenxing Li</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11426-024-1952-9</guid>
+    </item>
+    <item>
+      <title>Interface engineering assisted La1-xSrxCoO3/FeOOH heterostructure as a high-performance electrocatalyst for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.201</link>
+      <description>Juan Yu, Shuai Zhao, Bing Li, Chunyu Zhu, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400800503
+
+                No abstract</description>
+      <author>Juan Yu, Shuai Zhao, Bing Li, Chunyu Zhu</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.201</guid>
+    </item>
+    <item>
       <title>Tailoring the oxygen evolution reaction activity of lanthanide-doped NiFe-LDHs through lanthanide contraction</title>
       <link>https://doi.org/10.1016/j.cej.2024.154059</link>
       <description>Min Wang, Kai-Sheng Chen, ZihaoYan, Yongjun Chen, Hongtao Liu, Pengfei Yin, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4400673171
@@ -446,16 +476,6 @@
       <author>Min Wang, Kai-Sheng Chen, ZihaoYan, Yongjun Chen, Hongtao Liu, Pengfei Yin</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154059</guid>
-    </item>
-    <item>
-      <title>Role of Heteroatom Doping in Enhancing the Catalytic Activities and Stability of Atomically Dispersed Metal Catalysts for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02747</link>
-      <description>Xueqi Cheng, Dengfeng Wu, Hui Xu, Wei Zhang, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400692872
-
-                No abstract</description>
-      <author>Xueqi Cheng, Dengfeng Wu, Hui Xu, Wei Zhang</author>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02747</guid>
     </item>
     <item>
       <title>Fe-Mof-Based Catalysts for Oxygen Evolution Reaction: Microenvironment Regulated by Organic Ligands, Metals and Carbonization Synergistically</title>
@@ -468,6 +488,16 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4896757</guid>
     </item>
     <item>
+      <title>Role of Heteroatom Doping in Enhancing the Catalytic Activities and Stability of Atomically Dispersed Metal Catalysts for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c02747</link>
+      <description>Xueqi Cheng, Dengfeng Wu, Hui Xu, Wei Zhang, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400692872
+
+                No abstract</description>
+      <author>Xueqi Cheng, Dengfeng Wu, Hui Xu, Wei Zhang</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02747</guid>
+    </item>
+    <item>
       <title>Fabrication of Fe&#8211;Zr, Co&#8211;Zr, and Ni&#8211;Zr Catalysts to Boost CNTs Synthesis from Plastic Wastes and the Electrocatalytic Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acs.langmuir.4c01357</link>
       <description>Xinyao Sun, Xu Hou, Dong Ao, Changchang Tian, Li Yin, Jing Huang, Tingting Cui, Enxian Yuan, Langmuir. None(None)] 2024. https://openalex.org/W4400725437
@@ -478,16 +508,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01357</guid>
     </item>
     <item>
-      <title>Enhanced oxygen evolution reaction by modulating the electronic states of a flexible van der Waals membranous catalyst with infinite-layer phase</title>
-      <link>https://doi.org/10.1016/j.ceramint.2024.07.133</link>
-      <description>Hang Xu, Siqi Meng, Yukui Zhang, Linglong Hu, Daming Yang, Ze Gao, Zeyu Zhao, Ming Feng, Ceramics international. None(None)] 2024. https://openalex.org/W4400612712
-
-                No abstract</description>
-      <author>Hang Xu, Siqi Meng, Yukui Zhang, Linglong Hu, Daming Yang, Ze Gao, Zeyu Zhao, Ming Feng</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2024.07.133</guid>
-    </item>
-    <item>
       <title>High-temperature structural evolution and mechanical properties of oxygen-containing NiCrAlY coatings</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.160745</link>
       <description>Bin Peng, Yu X. Xu, Qimin Wang, Applied surface science. None(None)] 2024. https://openalex.org/W4400644696
@@ -496,6 +516,16 @@
       <author>Bin Peng, Yu X. Xu, Qimin Wang</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160745</guid>
+    </item>
+    <item>
+      <title>DFT and machine learning studies on a multi-functional single-atom catalyst for enhanced oxygen and hydrogen evolution as well as CO2 reduction reactions</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.244</link>
+      <description>Mohsen Tamtaji, Mohammad Kazemeini, Jafar Abdi, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400806168
+
+                No abstract</description>
+      <author>Mohsen Tamtaji, Mohammad Kazemeini, Jafar Abdi</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.244</guid>
     </item>
     <item>
       <title>Mechanochemically synthesized RuO2&#8208;doped LaMnO3 perovskites as bifunctional cathodes for rechargeable Zn/air batteries</title>
@@ -526,6 +556,16 @@
       <author>Xiaolong Liang, Kang Xu, Wenqian Gao, Yukui Zhang, Tingting Lv, H. Zhang, Jun Lv, Lie Zou, Jinxuan Liu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta03296a</guid>
+    </item>
+    <item>
+      <title>Graphene-supported MN4 single-atom catalysts for multifunctional electrocatalysis enabled by axial Fe tetramer coordination</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.07.132</link>
+      <description>Lulu Gao, Donghai Wu, Silu Li, Haobo Li, Dongwei Ma, Journal of colloid and interface science. 676(None)] 2024. https://openalex.org/W4400672156
+
+                Multifunctional electrocatalysts for oxygen reduction reaction (ORR), oxygen evolution reaction (OER), and hydrogen evolution reaction (HER) are crucial for development of the key electrochemical energy storage and conversion devices, for which single-atom catalyst (SAC) has present great promises. Very recently, some experimental works showed that structurally well-defined ultra-small transition-metal clusters (such as Fe and Co tetramers, denoted as Fe</description>
+      <author>Lulu Gao, Donghai Wu, Silu Li, Haobo Li, Dongwei Ma</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.132</guid>
     </item>
     <item>
       <title>Optical in situ deciphering of the surface reconstruction&#8211;assistant multielectron transfer event of single Co &lt;sub&gt;3&lt;/sub&gt; O &lt;sub&gt;4&lt;/sub&gt; nanoparticles</title>
@@ -568,16 +608,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/inf2.12609</guid>
     </item>
     <item>
-      <title>Multiple-perspective design of hollow-structured cerium-vanadium-based nanopillar arrays for enhanced overall water electrolysis</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.07.104</link>
-      <description>Yi Qin, Caizheng Wang, Xinran Hou, Huijie Zhang, Zhaoyang Tan, Xiaobin Wang, Jingde Li, Feichao Wu, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400621329
-
-                It is critical and challenging to develop highly active and low cost bifunctional electrocatalysts for the hydrogen/oxygen evolution reaction (HER/OER) in water electrolysis. Herein, we propose cerium-vanadium-based hollow nanopillar arrays supported on nickel foam (CeV-HNA/NF) as bifunctional HER/OER electrocatalysts, which are prepared by etching the V metal-organic framework with Ce salt and then pyrolyzing. Etching results in multidimensional optimizations of electrocatalysts, covering substantial oxygen vacancies, optimized electronic configurations, and an open-type structure of hollow nanopillar arrays, which contribute to accelerating the charge transfer rate, regulating the adsorption energy of H/O-containing reaction intermediates, and fully exposing the active sites. The reconstruction of the electrocatalyst is also accelerated by Ce doping, which results in highly active hydroxy vanadium oxide interfaces. Therefore, extremely low overpotentials of 170 and 240 mV under a current density of 100 mA cm</description>
-      <author>Yi Qin, Caizheng Wang, Xinran Hou, Huijie Zhang, Zhaoyang Tan, Xiaobin Wang, Jingde Li, Feichao Wu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.104</guid>
-    </item>
-    <item>
       <title>Lattice&#8208;Confined Single&#8208;Atom Catalyst: Preparation, Application and Electron Regulation Mechanism</title>
       <link>https://doi.org/10.1002/smtd.202400530</link>
       <description>Ting Ma, Haibo Li, Yamin Yu, Kaixuan Wang, Wei Yu, Yu Shang, Yu Bai, Rongyu Zhang, Yue Yang, Xiaoyi Nie, Small methods. None(None)] 2024. https://openalex.org/W4400657987
@@ -606,6 +636,26 @@
       <author>P.M. Aiswarya, R. Manu</author>
       <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4589766/v1</guid>
+    </item>
+    <item>
+      <title>Performance Enhancement of Ti/IrO2-Ta2O5 Anode through Introduction of Tantalum&#8211;Titanium Interlayer via Double-Glow Plasma Surface Alloying Technology</title>
+      <link>https://doi.org/10.3390/nano14141219</link>
+      <description>Mingshuai Guo, Yueren Liu, Yonglei Xin, Likun Xu, Lili Xue, Tigang Duan, Rongrong Zhao, Junji Xuan, Li Li, Nanomaterials. 14(14)] 2024. https://openalex.org/W4400772789
+
+                Ti/IrO2-Ta2O5 electrodes are extensively utilized in the electrochemical industries such as copper foil production, cathodic protection, and wastewater treatment. However, their performance degrades rapidly under high current densities and severe oxygen evolution conditions. To address this issue, we have developed a composite anode of Ti/Ta-Ti/IrO2-Ta2O5 with a Ta-Ti alloy interlayer deposited on a Ti substrate by double-glow plasma surface alloying, and the IrO2-Ta2O5 surface coating prepared by the traditional thermal decomposition method. This investigation indicates that the electrode with Ta-Ti alloy interlayer reduces the agglomerates of precipitated IrO2 nanoparticles and refines the grain size of IrO2, thereby increasing the number of active sites and enhancing the electrocatalytic activity. Accelerated lifetime tests demonstrate that the Ti/Ta-Ti/IrO2-Ta2O5 electrode exhibits a much higher stability than the Ti/IrO2-Ta2O5 electrode. The significant improvement in electrochemical stability is attributed to the Ta-Ti interlayer, which offers high corrosion resistance and effective protection for the titanium substrate.</description>
+      <author>Mingshuai Guo, Yueren Liu, Yonglei Xin, Likun Xu, Lili Xue, Tigang Duan, Rongrong Zhao, Junji Xuan, Li Li</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/nano14141219</guid>
+    </item>
+    <item>
+      <title>The Enhancement Discharge Performance by Zinc-Coated Aluminum Anode for Aluminum&#8211;Air Battery in Sodium Chloride Solution</title>
+      <link>https://doi.org/10.3390/app14146263</link>
+      <description>Ruly Bayu Sitanggang, Syarifa Nur&#8217;aini, Susanto Susanto, W. Widiyastuti, Heru Setyawan, Applied sciences. 14(14)] 2024. https://openalex.org/W4400767124
+
+                The main drawback of seawater batteries that use the aluminum (Al)&#8211;air system is their susceptibility to anode self-corrosion during the oxygen evolution reaction, which, in turn, affects their discharge performance. This study consist of an electrochemical investigation of pure Al, 6061 Al alloy, and both types coated with zinc as an anode in a 3.5% sodium chloride (NaCl) electrolyte. The electrolyte solution used for the deposition of zinc metal contained citrate, with and without EDTA as a complexing agent. Subsequently, the performance of the anode was tested in a seawater battery, using a carbon@MnO2 cathode and a 3.5% NaCl electrolyte. The performance of Al&#8211;air batteries has been significantly enhanced by applying a process of electrodepositing zinc (Zn) with a citrate deposition electrolyte solution in both pure aluminum and alloy 6061. The performance of the battery was further enhanced by adding EDTA as a chelating agent to the citrate-based electrolyte solution. The Al&#8211;air battery with aluminum alloy 6061 with Zn electrodeposition with an additional EDTA as the anode, carbon@MnO2 as the cathode, and NaCl 3.5% solution as the electrolyte has the highest battery performance, with a specific discharge capacity reaching 414.561 mAh.g&#8722;1 and a specific energy density reaching 0.255 mWh.g&#8722;1, with stable voltage at 0.55 V for 207 h.</description>
+      <author>Ruly Bayu Sitanggang, Syarifa Nur&#8217;aini, Susanto Susanto, W. Widiyastuti, Heru Setyawan</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/app14146263</guid>
     </item>
     <item>
       <title>Nonpyrolytic Fe&#8208;N&#8208;C/Fe2O3 heterostructure with RuO2&#8208;like OER Activity Synthesized via Polyacrylonitrile&#8208;derived Conjugated Pyridinic&#8208;nitrogen&#8208;carbon Sheet</title>
@@ -657,16 +707,6 @@
       <author>Ruchi Pandey, Mudit Srivastava, Gargi Shaw</author>
       <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.09634</guid>
-    </item>
-    <item>
-      <title>A phenomenological study of the evolution of shock-induced O &lt;scp&gt;i&lt;/scp&gt; emission lines in the spectrum of nova V2891 Cygni</title>
-      <link>https://doi.org/10.1093/mnras/stae1719</link>
-      <description>Ruchi Pandey, Mudit Srivastava, Gargi Shaw, Monthly Notices of the Royal Astronomical Society. None(None)] 2024. https://openalex.org/W4400612249
-
-                Abstract The eruption of Nova V2891 Cygni in 2019 offers a rare opportunity to explore the shock-induced processes in novae ejecta. The spectral evolution shows noticeable differences in the evolution of various oxygen emission lines such as O i 7773 &#197;, O i 8446 &#197;, O i 1.1286 &#956;m, O i 1.3164 &#956;m, etc. Here, we use spectral synthesis code cloudy to study the temporal evolution of these oxygen emission lines. Our photoionization model requires the introduction of a component with a very high density (n &#8764; 1011 cm&#8722;3) and an enhanced oxygen abundance (O/H &#8764; 28) to produce the O i 7773 &#197; emission line, suggesting a stratification of material with high oxygen abundance within the ejecta. An important outcome is the behaviour of the O i 1.3164 &#956;m line, which could only be generated by invoking the collisional ionization models in cloudy. Our phenomenological analysis suggests that O i 1.3164 &#956;m emission originates from a thin, dense shell characterized by a high density of about 1012.5 &#8722; 1012.8 cm&#8722;3, which is most likely formed due to the strong internal collisions. If such is the case, the O i 1.3164 &#956;m emission presents itself as a tracer of shock-induced dust formation in V2891 Cyg. The collisional ionization models have also been successful in creating the high-temperature conditions (&#8764;7.07 &#8722; 7.49 &#215; 105 K) required to reproduce the observed high ionization potential coronal lines, which coincide with the epoch of dust formation and evolution of the O i 1.3164 &#956;m emission line.</description>
-      <author>Ruchi Pandey, Mudit Srivastava, Gargi Shaw</author>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/mnras/stae1719</guid>
     </item>
     <item>
       <title>Charting the Electronic Structure for Discovering Low-cost Intermetallic Catalysts</title>
@@ -757,6 +797,16 @@
       <author>Abdul Rehman Phull, Sadia Qamar Arain, Abdul Majid, Humaira Fatima, Madiha Ahmed, Song Ja Kim</author>
       <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1515/oncologie-2024-0157</guid>
+    </item>
+    <item>
+      <title>Advancements in atomic-scale interface engineering for flexible electronics: Enhancing flexibility and durability</title>
+      <link>https://doi.org/10.1088/1361-6528/ad64db</link>
+      <description>Di Wen, Ruige Yuan, Kun Cao, Jing Wang, Rong Chen, Nanotechnology. None(None)] 2024. https://openalex.org/W4400763461
+
+                Abstract Flexible electronics, such as wearable displays, implantable electronics, soft robots, and smart skin, have garnered increasing attention. Despite notable advancements in research, a bottleneck remains at the product level due to the prevalent use of polymer-based materials, requiring encapsulation films for lifespan extension and reliable performance. Multilayer composites, incorporating thin inorganic layers to maintain low permeability towards moisture, oxygen, ions, etc., exhibit potential in achieving highly flexible barriers but encounter challenges stemming from interface instability between layers. This perspective offers a succinct review of strategies and provides atomic-scale interface modulation strategy utilizing atomic layer integration technology focused on enhancing the flexibility of high-barrier films. It delves into bendable multilayers with atomic-scale interface modulation strategies, encompassing internal stress and applied stress modulation, as well as stretchable composite structural designs such as gradient/hybrid, wavy, and island. These strategies showcase significant improvements in flexibility from bendable to stretchable while maintaining high barrier properties. Besides, optimized manufacturing methods, materials, and complex structure design based on atomic-scale interface engineering are provided, better aligning with the future development of flexible electronics. By laying the groundwork for these atomic-scale strategies, this perspective contributes to the evolution of flexible electronics, enhancing their flexibility, durability, and functionality.</description>
+      <author>Di Wen, Ruige Yuan, Kun Cao, Jing Wang, Rong Chen</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1361-6528/ad64db</guid>
     </item>
     <item>
       <title>Early combination of sotrovimab with nirmatrelvir/ritonavir or remdesivir is associated with low rate of persisting SARS CoV-2 infection in immunocompromised outpatients with mild-to-moderate COVID-19: a prospective single center study.</title>

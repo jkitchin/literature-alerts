@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jul 21 01:16:04 2024
+Created on Mon Jul 22 01:13:20 2024
 
-Found 20 results from 2024-07-14 to 2024-07-21
+Found 18 results from 2024-07-15 to 2024-07-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Ferromagnetic-Interaction-Induced Spin Symmetry Broken in Ruthenium Oxide for Enhanced Acidic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4400604797    
-Open access: False
-    
-[Lei Tan](https://openalex.org/A5102018857), [Xiaotong Wu](https://openalex.org/A5101497010), [Haifeng Wang](https://openalex.org/A5100386408), [Jianrong Zeng](https://openalex.org/A5068006098), [Bingbao Mei](https://openalex.org/A5060053004), [Xiangxiang Pan](https://openalex.org/A5090701303), [Weibo Hu](https://openalex.org/A5101637603), [Faiza Meharban](https://openalex.org/A5042110819), [Qi Xiao](https://openalex.org/A5051064634), [Yonghui Zhao](https://openalex.org/A5100458084), [Chao Fu](https://openalex.org/A5101691354), [Chao Lin](https://openalex.org/A5101598383), [Xiaopeng Li](https://openalex.org/A5101673541), [Wei Luo](https://openalex.org/A5041306437), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02736.
-    
-No abstract    
-
-    
-
-## Effects of Surfaces and Confinement on Formic Acid Dehydrogenation Catalyzed by an Immobilized Ru–H Complex: Insights from Molecular Simulation and Neutron Scattering   
-
-OpenAlex: https://openalex.org/W4400606147    
-Open access: False
-    
-[Hoang-Huy Nguyen](https://openalex.org/A5034637570), [Marc Högler](https://openalex.org/A5092492819), [Nadine Schnabel](https://openalex.org/A5104433201), [Niels Hansen](https://openalex.org/A5079455776), [Thomas Sottmann](https://openalex.org/A5078795791), [Deven P. Estes](https://openalex.org/A5049111275), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02626.
-    
-No abstract    
-
-    
-
-## Insights into Substituent Effects on the Fundamental Photocatalytic Processes of Covalent Organic Frameworks toward H2 Evolution and H2O2 Production Reactions   
-
-OpenAlex: https://openalex.org/W4400613140    
-Open access: False
-    
-[Yingying Gu](https://openalex.org/A5101973026), [Junxia Wang](https://openalex.org/A5100627763), [Qingqing Tang](https://openalex.org/A5021443412), [Hongtao Wei](https://openalex.org/A5064167443), [Jing Ning](https://openalex.org/A5078957143), [Xuefang Lan](https://openalex.org/A5009932289), [Xuefeng Wang](https://openalex.org/A5100451941), [Xuehui Li](https://openalex.org/A5085966459), [Yonggang Jia](https://openalex.org/A5100603131), [Shaobin Wang](https://openalex.org/A5100338047), [Long Hao](https://openalex.org/A5100629823), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02827.
-    
-No abstract    
-
-    
 
 ## Copper- and Palladium-Cocatalyzed Chemo-, Regio-, Stereo-, and Atroposelective Arylboration of 1,3-Enynes   
 
@@ -166,6 +133,17 @@ OpenAlex: https://openalex.org/W4400737606
 Open access: False
     
 [Javier E. Chavarrio](https://openalex.org/A5066862502), [Kyle Kirkendall-Jones](https://openalex.org/A5104646059), [Raka G. Dastidar](https://openalex.org/A5056791920), [George W. Huber](https://openalex.org/A5050004838), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01025.
+    
+No abstract    
+
+    
+
+## Enhancing Tandem Partial Hydrogenation–Hydrolysis of Diphenyl Ethers to Cyclohexanols with Surface-Oxidized MXene   
+
+OpenAlex: https://openalex.org/W4400739986    
+Open access: False
+    
+[Yonggang Peng](https://openalex.org/A5054316895), [Yue Hu](https://openalex.org/A5088268661), [Yufei Chen](https://openalex.org/A5100411552), [Jun Wang](https://openalex.org/A5100735838), [Zheling Zeng](https://openalex.org/A5054030311), [Xiaojun Zeng](https://openalex.org/A5003223911), [Shuguang Deng](https://openalex.org/A5045152496), [Ji‐Jun Zou](https://openalex.org/A5078341960), [Qiang Deng](https://openalex.org/A5080694348), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03193.
     
 No abstract    
 

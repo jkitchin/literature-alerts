@@ -1,28 +1,8 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Sun Jul 21 01:16:03 2024
+Created on Mon Jul 22 01:13:19 2024
 
-Found 1 results from 2024-07-14 to 2024-07-21
+Found 0 results from 2024-07-15 to 2024-07-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
-* Rare earth-incorporated high entropy oxides for energy and environmental catalysis  :high_entropy_oxides:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400604185
-:TOPICS: High-Entropy Alloys: Novel Designs and Properties, Thermal Barrier Coatings for Gas Turbines, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/s1872-2067(24)60012-4")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400604185"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400604185"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400604185"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400604185 (Open access: False)
-    
-[[https://openalex.org/A5030549155][Yuou Li]], [[https://openalex.org/A5101592120][Guozhong Cao]], [[https://openalex.org/A5100457092][Xiaomei Wang]], [[https://openalex.org/A5100371708][Zijian Wang]], [[https://openalex.org/A5100380907][Jing Xu]], [[https://openalex.org/A5050856537][Meng Zhao]], [[https://openalex.org/A5001196351][Xiao Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5101742243][Shouxin Zhang]], Cuihua xuebao/Chinese journal of catalysis. 61(None)] 2024. https://doi.org/10.1016/s1872-2067(24)60012-4 
-     
-No abstract    
-
-    

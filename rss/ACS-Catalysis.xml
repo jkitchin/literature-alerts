@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jul 2024 01:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 01:13:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ferromagnetic-Interaction-Induced Spin Symmetry Broken in Ruthenium Oxide for Enhanced Acidic Water Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02736</link>
-      <description>Lei Tan, Xiaotong Wu, Haifeng Wang, Jianrong Zeng, Bingbao Mei, Xiangxiang Pan, Weibo Hu, Faiza Meharban, Qi Xiao, Yonghui Zhao, Chao Fu, Chao Lin, Xiaopeng Li, Wei Luo, ACS catalysis. None(None)] 2024. https://openalex.org/W4400604797
-
-                No abstract</description>
-      <author>Lei Tan, Xiaotong Wu, Haifeng Wang, Jianrong Zeng, Bingbao Mei, Xiangxiang Pan, Weibo Hu, Faiza Meharban, Qi Xiao, Yonghui Zhao, Chao Fu, Chao Lin, Xiaopeng Li, Wei Luo</author>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02736</guid>
-    </item>
-    <item>
-      <title>Effects of Surfaces and Confinement on Formic Acid Dehydrogenation Catalyzed by an Immobilized Ru&#8211;H Complex: Insights from Molecular Simulation and Neutron Scattering</title>
-      <link>https://doi.org/10.1021/acscatal.4c02626</link>
-      <description>Hoang-Huy Nguyen, Marc H&#246;gler, Nadine Schnabel, Niels Hansen, Thomas Sottmann, Deven P. Estes, ACS catalysis. None(None)] 2024. https://openalex.org/W4400606147
-
-                No abstract</description>
-      <author>Hoang-Huy Nguyen, Marc H&#246;gler, Nadine Schnabel, Niels Hansen, Thomas Sottmann, Deven P. Estes</author>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02626</guid>
-    </item>
-    <item>
-      <title>Insights into Substituent Effects on the Fundamental Photocatalytic Processes of Covalent Organic Frameworks toward H&lt;sub&gt;2&lt;/sub&gt; Evolution and H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production Reactions</title>
-      <link>https://doi.org/10.1021/acscatal.4c02827</link>
-      <description>Yingying Gu, Junxia Wang, Qingqing Tang, Hongtao Wei, Jing Ning, Xuefang Lan, Xuefeng Wang, Xuehui Li, Yonggang Jia, Shaobin Wang, Long Hao, ACS catalysis. None(None)] 2024. https://openalex.org/W4400613140
-
-                No abstract</description>
-      <author>Yingying Gu, Junxia Wang, Qingqing Tang, Hongtao Wei, Jing Ning, Xuefang Lan, Xuefeng Wang, Xuehui Li, Yonggang Jia, Shaobin Wang, Long Hao</author>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02827</guid>
-    </item>
     <item>
       <title>Copper- and Palladium-Cocatalyzed Chemo-, Regio-, Stereo-, and Atroposelective Arylboration of 1,3-Enynes</title>
       <link>https://doi.org/10.1021/acscatal.4c03301</link>
@@ -156,6 +126,16 @@
       <author>Javier E. Chavarrio, Kyle Kirkendall-Jones, Raka G. Dastidar, George W. Huber</author>
       <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01025</guid>
+    </item>
+    <item>
+      <title>Enhancing Tandem Partial Hydrogenation&#8211;Hydrolysis of Diphenyl Ethers to Cyclohexanols with Surface-Oxidized MXene</title>
+      <link>https://doi.org/10.1021/acscatal.4c03193</link>
+      <description>Yonggang Peng, Yue Hu, Yufei Chen, Jun Wang, Zheling Zeng, Xiaojun Zeng, Shuguang Deng, Ji&#8208;Jun Zou, Qiang Deng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400739986
+
+                No abstract</description>
+      <author>Yonggang Peng, Yue Hu, Yufei Chen, Jun Wang, Zheling Zeng, Xiaojun Zeng, Shuguang Deng, Ji&#8208;Jun Zou, Qiang Deng</author>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03193</guid>
     </item>
     <item>
       <title>Unraveling the Role of Particle Size and Nanostructuring on the Oxygen Evolution Activity of Fe-Doped NiO</title>

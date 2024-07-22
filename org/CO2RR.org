@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Jul 21 01:16:02 2024
+Created on Mon Jul 22 01:13:18 2024
 
-Found 60 results from 2024-07-14 to 2024-07-21
+Found 65 results from 2024-07-15 to 2024-07-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -49,6 +49,27 @@ No abstract
 
     
 
+* Polymerized Ionic Liquid Co-Catalysts Driving Photocatalytic Carbon Dioxide Transformation  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400740450
+:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Dehydrogenation of Light Alkanes, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4su00194j")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400740450"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400740450"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400740450"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400740450 (Open access: True)
+    
+[[https://openalex.org/A5063989882][Lisa Eisele]], [[https://openalex.org/A5104647046][Bletë Hulaj]], [[https://openalex.org/A5104647047][Francesco Laudani]], [[https://openalex.org/A5073752043][Maximilian Podsednik]], [[https://openalex.org/A5064397330][Pablo Ayala]], [[https://openalex.org/A5022928359][Alexey Cherevan]], [[https://openalex.org/A5009881073][Annette Foelske]], [[https://openalex.org/A5036970781][Andreas Limbeck]], [[https://openalex.org/A5101484593][Dominik Eder]], [[https://openalex.org/A5090183844][Katharina Bica]], RSC sustainability. None(None)] 2024. https://doi.org/10.1039/d4su00194j 
+     
+Photocatalytic production of CO from CO 2 has the potential for safe and atom-economic production of feedstock chemicals via in-situ carbonylation chemistry. We developed novel ionic liquid-based polymeric materials through radical...    
+
+    
+
 * Improving co-electrocatalytic carbon dioxide reduction by optimizing the relative potentials of the redox mediator and catalyst  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4400742285
@@ -67,27 +88,6 @@ OpenAlex: https://openalex.org/W4400742285 (Open access: True)
 [[https://openalex.org/A5023308887][Amelia G. Reid]], [[https://openalex.org/A5104647609][Ethan A. Zelenke]], [[https://openalex.org/A5043747006][Megan E. Moberg]], [[https://openalex.org/A5019581925][Diane A. Dickie]], [[https://openalex.org/A5029623212][Charles W. Machan]], Chemical communications. None(None)] 2024. https://doi.org/10.1039/d4cc01988a 
      
 The effects of fixing the redox mediator (RM) reduction potential relative to a series of Cr-centered complexes capable of the reduction of CO    
-
-    
-
-* Performance evaluation of nonthermal plasma carbon dioxide reduction to fuel with dielectric barrier discharge  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400601775
-:TOPICS: Applications of Plasma in Medicine and Biology, Catalytic Nanomaterials, Gas Sensing Technology and Materials
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.elstat.2024.103952")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400601775"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400601775"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400601775"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400601775 (Open access: False)
-    
-[[https://openalex.org/A5017244937][Hiroyuki Wakimoto]], [[https://openalex.org/A5060045300][Hiroyuki Yamasaki]], [[https://openalex.org/A5090266837][Tetsuo Kuroki]], [[https://openalex.org/A5028540027][Masaaki Okubo]], Journal of electrostatics. 130(None)] 2024. https://doi.org/10.1016/j.elstat.2024.103952 
-     
-No abstract    
 
     
 
@@ -196,43 +196,22 @@ The field of electrochemical CO2 reduction reaction (eCO2RR) is pursuing high op
 
     
 
-* Contact-electro-catalytic CO2 reduction from ambient air  :CO2RR:
+* Leveraging intramolecular electrostatics to boost electrocatalytic CO2 reduction  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4400601546
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Materials for Electrochemical Supercapacitors, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-07-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-50118-1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400601546"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400601546"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400601546"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400601546 (Open access: True)
-    
-[[https://openalex.org/A5100774865][Nannan Wang]], [[https://openalex.org/A5101900433][Wenbin Jiang]], [[https://openalex.org/A5067721654][Jing Yang]], [[https://openalex.org/A5038092047][Haisong Feng]], [[https://openalex.org/A5021519126][Youbin Zheng]], [[https://openalex.org/A5100371237][Sheng Wang]], [[https://openalex.org/A5052500444][Bofan Li]], [[https://openalex.org/A5034966598][Jerry Zhi Xiong Heng]], [[https://openalex.org/A5069044440][Wai Chung Ong]], [[https://openalex.org/A5101899474][Hui Ru Tan]], [[https://openalex.org/A5100675809][Yong‐Wei Zhang]], [[https://openalex.org/A5028276045][Daoai Wang]], [[https://openalex.org/A5019225060][Enyi Ye]], [[https://openalex.org/A5100727338][Yupeng Liu]], Nature communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-50118-1 
-     
-Abstract Traditional catalytic techniques often encounter obstacles in the search for sustainable solutions for converting CO 2 into value-added products because of their high energy consumption and expensive catalysts. Here, we introduce a contact-electro-catalysis approach for CO 2 reduction reaction, achieving a CO Faradaic efficiency of 96.24%. The contact-electro-catalysis is driven by a triboelectric nanogenerator consisting of electrospun polyvinylidene fluoride loaded with single Cu atoms-anchored polymeric carbon nitride (Cu-PCN) catalysts and quaternized cellulose nanofibers (CNF). Mechanistic investigation reveals that the single Cu atoms on Cu-PCN can effectively enrich electrons during contact electrification, facilitating electron transfer upon their contact with CO 2 adsorbed on quaternized CNF. Furthermore, the strong adsorption of CO 2 on quaternized CNF allows efficient CO 2 capture at low concentrations, thus enabling the CO 2 reduction reaction in the ambient air. Compared to the state-of-the-art air-based CO 2 reduction technologies, contact-electro-catalysis achieves a superior CO yield of 33 μmol g −1 h −1 . This technique provides a solution for reducing airborne CO 2 emissions while advancing chemical sustainability strategy.    
-
-    
-
-* CO2 electrochemical reduction: a state-of-the-art review with economic and environmental analyses  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400612469
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Thermoelectric Materials
+:UUID: https://openalex.org/W4400770264
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Carbon Dioxide Utilization for Chemical Synthesis
 :PUBLICATION_DATE: 2024-07-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cherd.2024.07.014")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.checat.2024.101053")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400612469"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400612469"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400612469"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400770264"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400770264"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400770264"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4400612469 (Open access: True)
+OpenAlex: https://openalex.org/W4400770264 (Open access: False)
     
-[[https://openalex.org/A5023097254][Grazia Leonzio]], [[https://openalex.org/A5053545382][G. H. Kelsall]], [[https://openalex.org/A5078158219][Nilay Shah]], Process safety and environmental protection/Transactions of the Institution of Chemical Engineers. Part B, Process safety and environmental protection/Chemical engineering research and design/Chemical engineering research & design. None(None)] 2024. https://doi.org/10.1016/j.cherd.2024.07.014 
+[[https://openalex.org/A5072645745][David S. Tresp]], [[https://openalex.org/A5045974205][Demyan E. Prokopchuk]], Chem catalysis. 4(7)] 2024. https://doi.org/10.1016/j.checat.2024.101053 
      
 No abstract    
 
@@ -343,6 +322,27 @@ No abstract
 
     
 
+* Progress in tracking electrochemical CO2 reduction intermediates over single-atom catalysts using operando ATR-SEIRAS  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400806569
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/s1872-2067(24)60068-9")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400806569"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400806569"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400806569"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400806569 (Open access: False)
+    
+[[https://openalex.org/A5101311630][Jing Yan]], [[https://openalex.org/A5089197572][Jiaqi Ni]], [[https://openalex.org/A5100913740][Hongli Sun]], [[https://openalex.org/A5079209602][Chenliang Su]], [[https://openalex.org/A5100395496][Bin Liu]], Cuihua xuebao/Chinese journal of catalysis. 62(None)] 2024. https://doi.org/10.1016/s1872-2067(24)60068-9 
+     
+No abstract    
+
+    
+
 * Water-induced Switching in Selectivity and Steric Control of Activity in Photochemical CO2 Reduction Catalyzed by RhCp*(bpy) Derivatives  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4400664492
@@ -406,6 +406,27 @@ The synthesis of multicarbon (C2+) products remains a substantial challenge in s
 
     
 
+* DFT and machine learning studies on a multi-functional single-atom catalyst for enhanced oxygen and hydrogen evolution as well as CO2 reduction reactions  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400806168
+:TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.07.244")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400806168"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400806168"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400806168"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400806168 (Open access: False)
+    
+[[https://openalex.org/A5028218777][Mohsen Tamtaji]], [[https://openalex.org/A5056911582][Mohammad Kazemeini]], [[https://openalex.org/A5063840052][Jafar Abdi]], International journal of hydrogen energy. 80(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.07.244 
+     
+No abstract    
+
+    
+
 * Analysis of carbon dioxide disposal methods to reduce greenhouse gases  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4400739758
@@ -445,6 +466,27 @@ OpenAlex: https://openalex.org/W4400661486 (Open access: True)
 [[https://openalex.org/A5084958058][Rebecca C. Evans]], [[https://openalex.org/A5051571272][H. Damon Matthews]], No host. None(None)] 2024. https://doi.org/10.5194/egusphere-2024-1810 
      
 Abstract. A growing body of evidence suggests that to achieve the temperature goals of the Paris Agreement, carbon dioxide removal (CDR) will likely be required in addition to massive carbon dioxide (CO2) emissions reductions. Nature-based CDR, which includes a range of strategies to sequester carbon in natural reservoirs, could play an important role in efforts to limit climate warming to well below 2 °C above preindustrial levels. Agricultural CDR could enhance soil carbon sequestration, though the climate efficacy of such methods remains uncertain. Here, we use an intermediate complexity climate model to perform simulations of agricultural CDR in the form of soil carbon sequestration at a range of possible rates for different costs under three future emissions scenarios. We found that plausible levels of agricultural CDR were able to reduce CO2 concentration by 5–19 ppm and global surface air temperature by 0.02–0.10 °C by the end of century. This temperature decrease was non-linear with respect to cumulative removals, as any carbon removed remained part of the active carbon cycle, lessening the climate benefit compared to if the removed carbon was permanently stored in geological reservoirs. CDR was found to be more effective at reducing surface air temperature in low emissions scenarios, but less effective at reducing atmospheric CO2, compared to high emissions scenarios. This was because the weaker CO2 sinks in a high CO2 world had a more muted response to removal, so a substantially higher proportion of carbon was removed from the atmosphere for a given amount of CDR in a higher emissions scenario. The enhanced temperature response to CDR in lower emissions scenarios was due to the logarithmic response of radiative effects to changes in CO2, where at low atmospheric CO2 concentrations, small changes in CO2 are more effective at changing the global radiative balance than at higher CO2 concentrations. CDR was substantially more effective when implemented at a higher rate, as CDR makes a proportionally larger difference in a climate with lower cumulative air fraction of CO2. Land and soil carbon responses were driven by the scenario-dependent balances between the impacts of CDR on primary productivity from CO2 fertilization, and the impacts on soil respiration from increased soil carbon availability and global temperatures.    
+
+    
+
+* Conjugated polyimides modified self-supported carbon electrodes for electrochemical conversion of CO2 to CO  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400787503
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Porous Crystalline Organic Frameworks for Energy and Separation Applications, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-07-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.20517/energymater.2024.35")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400787503"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400787503"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400787503"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400787503 (Open access: True)
+    
+[[https://openalex.org/A5102205775][Daming Feng]], [[https://openalex.org/A5101551839][Zuo Li]], [[https://openalex.org/A5102323029][Huifang Guo]], [[https://openalex.org/A5011388287][Xiaodong Sun]], [[https://openalex.org/A5101432604][Peng Huang]], [[https://openalex.org/A5100355567][Ying Sun]], [[https://openalex.org/A5100656258][Hui Li]], [[https://openalex.org/A5069632856][Tianyi Ma]], Energy materials. 4(6)] 2024. https://doi.org/10.20517/energymater.2024.35 
+     
+The electrochemical reduction of carbon dioxide (CO2RR) offers a promising approach to address the dual challenges of energy scarcity and environmental degradation. This study presents a new, cost-effective, and scalable electrocatalyst: self-supporting carbon paper modified with porous conjugated polyimides. This innovative material facilitates efficient CO2 conversion in aqueous media, eliminating the need for a pyrolysis step. The electrocatalyst’s design utilizes a non-metallic organic polymer with a high density of nitrogen atoms, serving as active sites for catalysis. Its unique mesoporous microsphere structure comprises randomly stacked nanosheets that are generated in situ and aligned along the carbon fibers of carbon paper substrate. This architecture enhances both CO2 adsorption and ensures proper electron transportation, facilitated by the conjugated structure of the polymer. Additionally, the inherent hydrophobicity of conjugated polyimides contributes to its robust catalytic performance in selectively reducing CO2, yielding CO as the primary gaseous product with up to 88.7% Faradaic efficiency and 82.0 mmol g-1 h-1 yield rate. Therefore, the proposed electrocatalyst provides a sustainable solution for electrochemical CO2RR catalyzed by non-metal organic materials, combining high efficiency with the advantages of a simple preparation process and the absence of costly materials or steps. This research contributes to the advancement of CO2RR technologies, potentially leading to more environmentally friendly and energy-efficient solutions.    
 
     
 
@@ -508,6 +550,27 @@ OpenAlex: https://openalex.org/W4400738479 (Open access: True)
 [[https://openalex.org/A5090207401][Yang Kuang]], [[https://openalex.org/A5027634735][Yaojun Fan]], [[https://openalex.org/A5104665145][Jie Bin]], [[https://openalex.org/A5008457525][Min Fan]], Scientific reports. 14(1)] 2024. https://doi.org/10.1038/s41598-024-66005-0 
      
 With the rapid development of the digital economy, its environmental impact, particularly on carbon dioxide emissions in resource-based cities, has emerged as a vital research topic. Resource-based cities, often central to traditional industries, are confronted with the dual challenges of environmental pollution and economic transformation. This study employs empirical analysis to examine the influence of the digital economy on carbon dioxide emissions in these cities. The findings reveal that the digital economy significantly reduces carbon dioxide emissions, with this impact being more pronounced in the early stages of digital economic development and gradually diminishing thereafter. In the mechanism analysis, we found that the digital economy can reduce carbon dioxide emissions in resource-based cities by raising public concern about the environment. Moreover, the study highlights significant variations in carbon reduction effects among different types of resource-based cities, noting that stronger environmental regulations further enhance these effects. These insights not only provide a new theoretical perspective but also offer practical guidance for policymakers in promoting sustainable development within the digital economy.    
+
+    
+
+* Environmental impact assessment of rapeseed production using the LCA method: Part two: Life cycle impact assessment  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400808072
+:TOPICS: Life Cycle Assessment and Environmental Impact Analysis, Sustainable Diets and Environmental Impact, Global E-Waste Recycling and Management
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5937/selsem2401035k")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400808072"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400808072"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400808072"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400808072 (Open access: True)
+    
+[[https://openalex.org/A5054487440][Ferenc Kiss]], [[https://openalex.org/A5077862802][Nataša Đurišić‐Mladenović]], [[https://openalex.org/A5006870139][Ana Marjanović‐Jeromela]], Selekcija i semenarstvo. 30(1)] 2024. https://doi.org/10.5937/selsem2401035k 
+     
+This constitutes the second segment of an environmental life cycle assessment (LCA) study on oilseed rape cultivation in the prevalent conditions of Vojvodina, Serbia. The paper presents the results of the life cycle impact assessment (LCIA) phase of the LCA. The functional unit (FU) is one hectare of agricultural land used for winter rapeseed cultivation, with a reference flow of 3,000 kg of seeds, representing the average yield per hectare. The assessment is focused on the rapeseed production chain, concluding with the transportation of oilseeds to regional silos. The environmental impact assessment employed the ReCiPe 2016 (H) LCIA method, using the OpenLCA software. The study found that the total damage to human health was estimated at 0.0048 DALY, while damage due to biodiversity loss was calculated as 0.0001 species per year. Additionally, the damage resulting from the exploitation of geological mineral reserves was determined to be 167 USD per FU. Notably, land occupation was identified as the primary contributor to biodiversity loss, accounting for 90% of the associated damage within the rapeseed production chain. Meanwhile, the life cycle of diesel fuel, the mineral fertilizer production chain, and nitrogen compound emissions from agricultural land collectively accounted for 74% of the damage to human health and 91% of the damage attributed to mineral resource consumption. On the midpoint level, the ReCiPe 2016 (H) LCIA method calculates results within 18 impact categories, including the impact on global warming and fossil fuel depletion. The cumulative impact of greenhouse gases (GHG) emitted in the rapeseed production chain is equivalent to the impact of 1,970 kg of carbon dioxide. The carbon footprint of rapeseed was estimated at 0.65 kg CO2 eq. per kg of rapeseed. In the production chain of 3,000 kg of rapeseed, 454 kg of oil equivalent is consumed, which means that approximately 6.93 MJ of energy from fossil sources is required to produce 1 kg of rapeseed under the prevalent conditions in Vojvodina. The ReCiPe 2016 method identified and assessed the impact of approximately 750 different emissions with adverse effects on the environment, as well as the impact of around 250 different forms of natural resources consumed or used in the rapeseed production chain. However, the results of the LCIA analysis show that only about ten elementary flows are responsible for over 90% of the total damage in specific protection areas. These primarily include air emissions (carbon dioxide, ammonia, nitrogen oxides, nitrous oxide, sulphur dioxide, and suspended particles), emissions of certain heavy metals into water and soil (hexavalent chromium and zinc), as well as the exploitation of some natural resources, notably arable land, natural gas, and crude oil. The results of the LCIA analysis can be utilized to identify processes and emissions where rationalization or improved control can yield the greatest environmental benefits. The most substantial environmental improvements are expected through the reduction of mineral fertilizer consumption per unit yield and the decrease in diesel fuel usage for field and transportation activities. Furthermore, enhanced control over emissions that contribute significantly to the adverse impacts of the rapeseed production chain can also lead to substantial environmental enhancements.    
 
     
 
@@ -802,6 +865,27 @@ OpenAlex: https://openalex.org/W4400688412 (Open access: False)
 [[https://openalex.org/A5104603533][C. Ukpene Patience]], [[https://openalex.org/A5104603534][Tessy N. Apaokueze]], Journal of energy engineering and thermodynamics. None(44)] 2024. https://doi.org/10.55529/jeet.44.21.32 
      
 The results of this study addressed the effectiveness of smart home technologies in terms of energy consumption, cost reduction, and environmental advantages in Nigerian homes. Given the growing energy requirements and concern for the environment, assessing the efficiency of such technologies is critical for socioeconomic development. We collected data using a combination of surveys and statistical analysis in five major Nigerian cities: Lagos, Abuja, Kano, Port Harcourt, and Enugu. We evaluated smart home technologies such as smart thermostats, lighting systems, appliances, plugs, and energy monitoring systems based on their energy savings (%), monthly cost savings (NGN), kilogram of CO2 emissions cut, and percent adoption. We used descriptive analysis and regression modeling to analyze the data collected from the respondents. The introduction of smart technologies reduced general energy use by fifteen to twenty-five percent, with smart appliances recording the highest reduction of up to 25%. This feature demonstrated how monthly cost savings varied depending on the technology and geographical location, resulting in significant increases of up to 4000 NGN per household, each household saw a reduction in CO2 emissions by 500 kg to 700 kg annually, resulting in significant environmental benefits. According to the studies, smart home technologies can help promote energy conservation and therefore reduce CO2 emissions in Nigerian households. However, there are still widely recognized obstacles, like high initial costs and a low level of awareness. offering financial incentives, improving Information Promotion of existing policies and overhauling the distribution systems to increase the pace of uptake and impact returns.    
+
+    
+
+* Reducing stomatal density by expression of a synthetic Epidermal Patterning Factor increases leaf intrinsic water use efficiency and reduces plant water use in a C4 crop  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400785850
+:TOPICS: Impacts of Elevated CO2 and Ozone on Plant Physiology, Global Forest Drought Response and Climate Change, Molecular Mechanisms of Photosynthesis and Photoprotection
+:PUBLICATION_DATE: 2024-07-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/jxb/erae289")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400785850"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400785850"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400785850"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400785850 (Open access: False)
+    
+[[https://openalex.org/A5003685905][John N. Ferguson]], [[https://openalex.org/A5018808383][Peter Schmuker]], [[https://openalex.org/A5012607855][Anna Dmitrieva]], [[https://openalex.org/A5033055220][Truyen Quach]], [[https://openalex.org/A5087647221][Tieling Zhang]], [[https://openalex.org/A5015211115][Zhengxiang Ge]], [[https://openalex.org/A5089122186][Natalya Nersesian]], [[https://openalex.org/A5005727393][Shirley Sato]], [[https://openalex.org/A5012574725][Thomas E. Clemente]], [[https://openalex.org/A5028507482][Andrew D. B. Leakey]], Journal of experimental botany. None(None)] 2024. https://doi.org/10.1093/jxb/erae289 
+     
+Abstract Enhancing crop water use efficiency (WUE) is a key target trait for climatic resilience and expanding cultivation on marginal lands. Engineering lower stomatal density to reduce stomatal conductance (gs) has improved WUE in multiple C3 crop species. However, reducing gs in C3 species often reduces photosynthetic carbon gain. A different response is expected in C4 plants because they possess specialized anatomy and biochemistry which concentrates CO2 at the site of fixation. This modifies the photosynthesis (AN) relationship with intracellular CO2 concentration (ci) so that photosynthesis is CO2-saturated and reductions in gs are unlikely to limit AN. To test this hypothesis, genetic strategies were investigated to reduce stomatal density in the C4 crop sorghum. Constitutive expression of a synthetic epidermal patterning factor (EPF) transgenic allele in sorghum, led to reduced stomatal densities, reduced gs, reduced plant water use and avoidance of stress during a period of water deprivation. In addition, moderate reduction in stomatal density did not increase stomatal limitation to AN. However, these positive outcomes were associated with negative pleiotropic effects on reproductive development and photosynthetic capacity. Avoiding pleiotropy by targeting expression of the transgene to specific tissues could provide a pathway to improved agronomic outcomes.    
 
     
 
@@ -1159,6 +1243,27 @@ OpenAlex: https://openalex.org/W4400644633 (Open access: True)
 [[https://openalex.org/A5030913473][Ali Cenap Yoloğlu]], [[https://openalex.org/A5104542070][Bulent Halisdemir]], Sustainability. 16(14)] 2024. https://doi.org/10.3390/su16146012 
      
 Households are the main consumer-side source of carbon emissions. In Europe, consumer-based CO2 consumption per capita fell from 10.8 tons to 7.8 tons between 1990 and 2022, but in Turkey, the same data showed a rise from 4 tons to 5 tons. Strategies to reduce carbon emissions have recently shifted their focus from the production side to the consumption side. However, because different social segments have varying levels of price sensitivity and differing levels of necessity regarding consuming different items, a simple tax policy only targeting the consumption side is doomed to fail. This has prompted a discussion of the factors influencing carbon emissions on the consumption side and how those factors affect the amount of emissions. This study aims to identify the social determinants affecting household carbon emission levels and to demonstrate that such differences play an important role in effective and efficient carbon emission reduction strategies. In this case study, an appropriate testing method was used to test whether there are significant differences in dependent variables (carbon emissions) between categories of independent variables (the social determinants of households). As our literature review demonstrates, the social determinants of households and the local context were found to have an impact on carbon emissions in the case study. Nevertheless, we found that the degree of association lessens when the relationship between the dependent variables and the independent variables is re-evaluated while controlling for income level. Consequently, it may be concluded that the primary element influencing carbon emissions is income. In our field study, on the other hand, poverty stood out as another important factor affecting the level of carbon emissions. Poverty affects total household carbon emissions in two different ways, causing both carbon-intensive consumer goods and household appliances with low energy efficiency to be preferred because they are cheap to purchase. Therefore, the fight against poverty should be recognized as an important component of carbon reduction policies in Turkey, and the issue of environmental justice should not be ignored, because we know that 30% of the population was living in poverty (compared to the other 70% receiving the national median income) in 2022.    
+
+    
+
+* Unraveling the Interactions between Flooding Dynamics and Agricultural Productivity in a Changing Climate  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4400768498
+:TOPICS: Plant Responses to Flooding Stress, Global Flood Risk Assessment and Management, Hydrological Modeling and Water Resource Management
+:PUBLICATION_DATE: 2024-07-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/su16146141")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400768498"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400768498"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400768498"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4400768498 (Open access: True)
+    
+[[https://openalex.org/A5046433635][Thidarat Rupngam]], [[https://openalex.org/A5029937356][Aimé J. Messiga]], Sustainability. 16(14)] 2024. https://doi.org/10.3390/su16146141 
+     
+Extreme precipitation and flooding frequency associated with global climate change are expected to increase worldwide, with major consequences in floodplains and areas susceptible to flooding. The purpose of this review was to examine the effects of flooding events on changes in soil properties and their consequences on agricultural production. Flooding is caused by natural and anthropogenic factors, and their effects can be amplified by interactions between rainfall and catchments. Flooding impacts soil structure and aggregation by altering the resistance of soil to slaking, which occurs when aggregates are not strong enough to withstand internal stresses caused by rapid water uptake. The disruption of soil aggregates can enhance soil erosion and sediment transport during flooding events and contribute to the sedimentation of water bodies and the degradation of aquatic ecosystems. Total precipitation, flood discharge, and total water are the main factors controlling suspended mineral-associated organic matter, dissolved organic matter, and particulate organic matter loads. Studies conducted in paddy rice cultivation show that flooded and reduced conditions neutralize soil pH but changes in pH are reversible upon draining the soil. In flooded soil, changes in nitrogen cycling are linked to decreases in oxygen, the accumulation of ammonium, and the volatilization of ammonia. Ammonium is the primary form of dissolved inorganic nitrogen in sediment porewaters. In floodplains, nitrate removal can be enhanced by high denitrification when intermittent flooding provides the necessary anaerobic conditions. In flooded soils, the reductive dissolution of minerals can release phosphorus (P) into the soil solution. Phosphorus can be mobilized during flood events, leading to increased availability during the first weeks of waterlogging, but this availability generally decreases with time. Rainstorms can promote the subsurface transport of P-enriched soil particles, and colloidal P can account for up to 64% of total P in tile drainage water. Anaerobic microorganisms prevailing in flooded soil utilize alternate electron acceptors, such as nitrate, sulfate, and carbon dioxide, for energy production and organic matter decomposition. Anaerobic metabolism leads to the production of fermentation by-products, such as organic acids, methane, and hydrogen sulfide, influencing soil pH, redox potential, and nutrient availability. Soil enzyme activity and the presence of various microbial groups, including Gram+ and Gram− bacteria and mycorrhizal fungi, are affected by flooding. Waterlogging decreases the activity of β-glucosidase and acid phosphomonoesterase but increases N-acetyl-β-glucosaminidase in soil. Since these enzymes control the hydrolysis of cellulose, phosphomonoesters, and chitin, soil moisture content can impact the direction and magnitude of nutrient release and availability. The supply of oxygen to submerged plants is limited because its diffusion in water is extremely low, and this impacts mitochondrial respiration in flooded plant tissues. Fermentation is the only viable pathway for energy production in flooded plants, which, under prolonged waterlogging conditions, is inefficient and results in plant death. Seed germination is also impaired under flooding stress due to decreased sugar and phytohormone biosynthesis. The sensitivity of different crops to waterlogging varies significantly across growth stages. Mitigation and adaptation strategies, essential to the management of flooding impacts on agriculture, enhance resilience to climate change through improved drainage and water management practices, soil amendments and rehabilitation techniques, best management practices, such as zero tillage and cover crops, and the development of flood-tolerant crop varieties. Technological advances play a crucial role in assessing flooding dynamics and impacts on crop production in agricultural landscapes. This review embarks on a comprehensive journey through existing research to unravel the intricate interplay between flooding events, agricultural soil, crop production, and the environment. We also synthesize available knowledge to address critical gaps in understanding, identify methodological challenges, and propose future research directions.    
 
     
 

@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jul 2024 01:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 01:13:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>General applications of density functional theory in photocatalysis</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60006-9</link>
-      <description>Shiwen Du, Fuxiang Zhang, Cuihua xuebao/Chinese journal of catalysis. 61(None)] 2024. https://openalex.org/W4400603432
-
-                No abstract</description>
-      <author>Shiwen Du, Fuxiang Zhang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60006-9</guid>
-    </item>
-    <item>
-      <title>Correlating Nitrate Adsorption with the Local Environments of FeCoNiCuZn High-Entropy Alloy Catalysts Using Machine Learning</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c01071</link>
-      <description>Xiang He, Langmuir. None(None)] 2024. https://openalex.org/W4400603905
-
-                The electrocatalytic nitrate reduction to ammonia holds significant values for water remediations and energy applications, which quests for the development of highly effective catalysts with considerable stability and selectivity. Recently, high-entropy alloys (HEAs) are attracting growing attention for electrocatalytic processes. Nonetheless, studies of HEA-based nitrate reduction to ammonia are still at the early stage, and it remains unclear how the HEA compositions affect the adsorption and activation of the reaction intermediates. Herein, high-throughput density functional theory (DFT) calculations were integrated with machine learning to investigate the dependence of nitrate adsorption on the FeCoNiCuZn HEA structures. In particular, a total of 1268 different structures were sampled and constructed from the multidimensional configuration space, followed by the DFT calculations to investigate the Gibbs free energy of nitrate adsorption (i.e., &#916;</description>
-      <author>Xiang He</author>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01071</guid>
-    </item>
-    <item>
-      <title>Unveiling the multiple effects of MOF-derived TiO2 on Ti-Fe2O3 photoanodes for efficient and stable photoelectrochemical water oxidation</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60005-7</link>
-      <description>Kaikai Ba, Yunan Liu, Kai Zhang, Ping Wang, Yanhong Lin, Sheng Wang, Ziheng Li, Tengfeng Xie, Cuihua xuebao/Chinese journal of catalysis. 61(None)] 2024. https://openalex.org/W4400603959
-
-                No abstract</description>
-      <author>Kaikai Ba, Yunan Liu, Kai Zhang, Ping Wang, Yanhong Lin, Sheng Wang, Ziheng Li, Tengfeng Xie</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60005-7</guid>
-    </item>
-    <item>
-      <title>Unveiling the Mechanistic Landscape and Advantages of Two-Dimensional Phthalocyanine in Sustainable Urea Synthesis</title>
-      <link>https://doi.org/10.2139/ssrn.4893780</link>
-      <description>Xiaorong Zhu, Ming Ge, Xiaolei Yuan, Yijin Wang, Yanfeng Tang, No host. None(None)] 2024. https://openalex.org/W4400604092
-
-                No abstract</description>
-      <author>Xiaorong Zhu, Ming Ge, Xiaolei Yuan, Yijin Wang, Yanfeng Tang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4893780</guid>
-    </item>
-    <item>
-      <title>Ferromagnetic-Interaction-Induced Spin Symmetry Broken in Ruthenium Oxide for Enhanced Acidic Water Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02736</link>
-      <description>Lei Tan, Xiaotong Wu, Haifeng Wang, Jianrong Zeng, Bingbao Mei, Xiangxiang Pan, Weibo Hu, Faiza Meharban, Qi Xiao, Yonghui Zhao, Chao Fu, Chao Lin, Xiaopeng Li, Wei Luo, ACS catalysis. None(None)] 2024. https://openalex.org/W4400604797
-
-                No abstract</description>
-      <author>Lei Tan, Xiaotong Wu, Haifeng Wang, Jianrong Zeng, Bingbao Mei, Xiangxiang Pan, Weibo Hu, Faiza Meharban, Qi Xiao, Yonghui Zhao, Chao Fu, Chao Lin, Xiaopeng Li, Wei Luo</author>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02736</guid>
-    </item>
-    <item>
-      <title>Hydrogen Evolution Reaction on Ag12m Icosahedrons: A Dft Study</title>
-      <link>https://doi.org/10.2139/ssrn.4893394</link>
-      <description>Pilar Rodriguez Rodr&#237;&#173;guez, Salom&#243;n Rodr&#237;guez-Carrera, Alvaro Mu&#241;oz&#8208;Castro, No host. None(None)] 2024. https://openalex.org/W4400611077
-
-                No abstract</description>
-      <author>Pilar Rodriguez Rodr&#237;&#173;guez, Salom&#243;n Rodr&#237;guez-Carrera, Alvaro Mu&#241;oz&#8208;Castro</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4893394</guid>
-    </item>
     <item>
       <title>Efficient and robust single-layer IrO cluster electrocatalyst for oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ces.2024.120508</link>
@@ -178,16 +118,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409365</guid>
     </item>
     <item>
-      <title>Theoretical screening of single transition-metal atoms anchored Janus MoSSe monolayers as efficient electrocatalysts for nitrogen fixation</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.132474</link>
-      <description>Jia-Xing Guo, Shao-Yi Wu, Chunyu Yao, Rong-Gang Tian, Shunping Shi, Fuel. 374(None)] 2024. https://openalex.org/W4400601712
-
-                No abstract</description>
-      <author>Jia-Xing Guo, Shao-Yi Wu, Chunyu Yao, Rong-Gang Tian, Shunping Shi</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.132474</guid>
-    </item>
-    <item>
       <title>CO&lt;sub&gt;2&lt;/sub&gt; Post-combustion Capture: A Critical Review of Current Technologies and Future Directions</title>
       <link>https://doi.org/10.1021/acs.energyfuels.4c02513</link>
       <description>Federica Raganati, Paola Ammendola, Energy &amp; fuels. None(None)] 2024. https://openalex.org/W4400646404
@@ -220,11 +150,11 @@
     <item>
       <title>Graphene-supported MN4 single-atom catalysts for multifunctional electrocatalysis enabled by axial Fe tetramer coordination</title>
       <link>https://doi.org/10.1016/j.jcis.2024.07.132</link>
-      <description>Lulu Gao, Donghai Wu, Silu Li, Haobo Li, Dongwei Ma, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400672156
+      <description>Lulu Gao, Donghai Wu, Silu Li, Haobo Li, Dongwei Ma, Journal of colloid and interface science. 676(None)] 2024. https://openalex.org/W4400672156
 
-                No abstract</description>
+                Multifunctional electrocatalysts for oxygen reduction reaction (ORR), oxygen evolution reaction (OER), and hydrogen evolution reaction (HER) are crucial for development of the key electrochemical energy storage and conversion devices, for which single-atom catalyst (SAC) has present great promises. Very recently, some experimental works showed that structurally well-defined ultra-small transition-metal clusters (such as Fe and Co tetramers, denoted as Fe</description>
       <author>Lulu Gao, Donghai Wu, Silu Li, Haobo Li, Dongwei Ma</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.132</guid>
     </item>
     <item>
@@ -426,6 +356,16 @@
       <author>Jing Xue, Xue Dong, Chunxiao Liu, Jiawei Li, Yizhou Dai, Weiqing Xue, Laihao Luo, Yuan Ji, Xiao Zhang, Li Xu, Qiu Jiang, Tingting Zheng, Jianping Xiao, Chuan Xia</author>
       <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50436-4</guid>
+    </item>
+    <item>
+      <title>High-Efficiency Photocatalyst and High-Response Ultraviolet Photodetector Based on the Ga2sse/Gan Heterojunction</title>
+      <link>https://doi.org/10.2139/ssrn.4898950</link>
+      <description>Ke Qin, Enling Li, Yang Shen, Deming Ma, Pei Yuan, Hanxiao Wang, Zhen Cui, No host. None(None)] 2024. https://openalex.org/W4400769282
+
+                No abstract</description>
+      <author>Ke Qin, Enling Li, Yang Shen, Deming Ma, Pei Yuan, Hanxiao Wang, Zhen Cui</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4898950</guid>
     </item>
     <item>
       <title>Impact of Organic Spacers and Dimensionality on Templating of Halide Perovskites</title>
