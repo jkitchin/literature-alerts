@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 Jul 2024 01:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 01:11:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -168,6 +168,86 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02191</guid>
     </item>
     <item>
+      <title>Correlating the Nature of Carbenium Ions in Zeolites to the Product Distribution in the Methanol-to-Olefins Process</title>
+      <link>https://doi.org/10.1021/acscatal.4c03185</link>
+      <description>Luca Maggiulli, Vitaly L. Sushkevich, Oliver Kr&#246;cher, Jeroen A. van Bokhoven, Davide Ferri, ACS catalysis. None(None)] 2024. https://openalex.org/W4400771779
+
+                No abstract</description>
+      <author>Luca Maggiulli, Vitaly L. Sushkevich, Oliver Kr&#246;cher, Jeroen A. van Bokhoven, Davide Ferri</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03185</guid>
+    </item>
+    <item>
+      <title>Structural Snapshots of &lt;i&gt;Proteus vulgaris&lt;/i&gt; Tryptophan Indole-Lyase Reveal Insights into the Catalytic Mechanism</title>
+      <link>https://doi.org/10.1021/acscatal.4c03232</link>
+      <description>Robert S. Phillips, Sara M. Brown, Ravi S. Patel, ACS catalysis. None(None)] 2024. https://openalex.org/W4400772973
+
+                No abstract</description>
+      <author>Robert S. Phillips, Sara M. Brown, Ravi S. Patel</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03232</guid>
+    </item>
+    <item>
+      <title>[2 + 2] Photocycloadditions to Form Cyclobutanes and Bicyclo[2.1.1]hexanes Employing Copper-Based Photocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c03218</link>
+      <description>G. W. Roland, Kirsten N. Hurdal, Aness Bouchouicha, Nicolas Dowe, Rebecca L. Davis, Shawn K. Collins, ACS catalysis. None(None)] 2024. https://openalex.org/W4400775824
+
+                No abstract</description>
+      <author>G. W. Roland, Kirsten N. Hurdal, Aness Bouchouicha, Nicolas Dowe, Rebecca L. Davis, Shawn K. Collins</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03218</guid>
+    </item>
+    <item>
+      <title>Ligand Modification-Induced Electronic Effects and Synergistic Protic Solvent Effects Promote C&#9552;O Bond Hydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02193</link>
+      <description>Mengfei Qiao, Sheng Wang, Shanshan Gao, Qiang Fu, Sheng Wang, Ruixuan Qin, Nanfeng Zheng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400777959
+
+                No abstract</description>
+      <author>Mengfei Qiao, Sheng Wang, Shanshan Gao, Qiang Fu, Sheng Wang, Ruixuan Qin, Nanfeng Zheng</author>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02193</guid>
+    </item>
+    <item>
+      <title>Wavelength-Selective C&#8211;C and C&#8211;N Bond Formation via Defect-Engineered ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c02199</link>
+      <description>Xiaohui Leng, Xin Zhou, Lu Ma, Yonghua Du, Ouwen Peng, Zhongxin Chen, Jinhui Pan, Ming&#8211;Yu Qi, Jianhui Zheng, Yi&#8208;Jun Xu, Kian Ping Loh, ACS catalysis. None(None)] 2024. https://openalex.org/W4400801750
+
+                No abstract</description>
+      <author>Xiaohui Leng, Xin Zhou, Lu Ma, Yonghua Du, Ouwen Peng, Zhongxin Chen, Jinhui Pan, Ming&#8211;Yu Qi, Jianhui Zheng, Yi&#8208;Jun Xu, Kian Ping Loh</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02199</guid>
+    </item>
+    <item>
+      <title>Amphiphilic Janus Particles for Aerobic Alcohol Oxidation in Oil Foams</title>
+      <link>https://doi.org/10.1021/acscatal.4c00909</link>
+      <description>Kang Wang, Josh A. Davies-Jones, Aline Amorim Graf, Marina Carravetta, Philip R. Davies, Marc Pera&#8208;Titus, ACS catalysis. None(None)] 2024. https://openalex.org/W4400808439
+
+                No abstract</description>
+      <author>Kang Wang, Josh A. Davies-Jones, Aline Amorim Graf, Marina Carravetta, Philip R. Davies, Marc Pera&#8208;Titus</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00909</guid>
+    </item>
+    <item>
+      <title>Electrochemical Glycosylation via Halogen-Atom-Transfer for &lt;i&gt;C&lt;/i&gt;-Glycoside Assembly</title>
+      <link>https://doi.org/10.1021/acscatal.4c02322</link>
+      <description>Jun Wu, Purushothaman Rajeshwaran, Felix Kallert, Simon L. Hom&#246;lle, Lutz Ackermann, ACS catalysis. None(None)] 2024. https://openalex.org/W4400809471
+
+                No abstract</description>
+      <author>Jun Wu, Purushothaman Rajeshwaran, Felix Kallert, Simon L. Hom&#246;lle, Lutz Ackermann</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02322</guid>
+    </item>
+    <item>
+      <title>Mechanism of Electrochemical Proton Reduction Catalyzed by a Cobalt Tetraaza Schiff Base Macrocyclic Complex: Ligand Protonation and/or Influence of the Chloro Ligand</title>
+      <link>https://doi.org/10.1021/acscatal.4c03061</link>
+      <description>Margaux Willery, Paul-Gabriel Julliard, Florian Molton, Fabrice Thomas, J&#233;r&#244;me Fortage, Cyrille Costentin, Marie&#8208;No&#235;lle Collomb, ACS catalysis. None(None)] 2024. https://openalex.org/W4400811735
+
+                No abstract</description>
+      <author>Margaux Willery, Paul-Gabriel Julliard, Florian Molton, Fabrice Thomas, J&#233;r&#244;me Fortage, Cyrille Costentin, Marie&#8208;No&#235;lle Collomb</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03061</guid>
+    </item>
+    <item>
       <title>Issue Editorial Masthead</title>
       <link>https://doi.org/10.1021/csv014i014_1824225</link>
       <description>, ACS catalysis. 14(14)] 2024. https://openalex.org/W4400834442
@@ -186,6 +266,76 @@
       <author/>
       <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i014_1824224</guid>
+    </item>
+    <item>
+      <title>Br&#248;nsted Acid Site Catalytic Role in Methane Dehydroaromatization over Mo/HZSM-5</title>
+      <link>https://doi.org/10.1021/acscatal.4c02300</link>
+      <description>Hongxiang Zhang, Lihong Wei, Yuewen Sun, Ce Wang, Yanlong Li, Rundong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4400843314
+
+                No abstract</description>
+      <author>Hongxiang Zhang, Lihong Wei, Yuewen Sun, Ce Wang, Yanlong Li, Rundong Li</author>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02300</guid>
+    </item>
+    <item>
+      <title>Identification of the Potassium-Related Species as the Key Active Sites for C&#8211;S Bond Couplings over K-MoS&lt;sub&gt;2&lt;/sub&gt; Materials</title>
+      <link>https://doi.org/10.1021/acscatal.4c02672</link>
+      <description>Jiehong Fang, Jichang Lu, Bihui He, Zhipeng Xu, Min Luo, Tianpeng Song, Sheng Wang, Chuanyun Qin, Zupeng Chen, Yongming Luo, ACS catalysis. None(None)] 2024. https://openalex.org/W4400849293
+
+                No abstract</description>
+      <author>Jiehong Fang, Jichang Lu, Bihui He, Zhipeng Xu, Min Luo, Tianpeng Song, Sheng Wang, Chuanyun Qin, Zupeng Chen, Yongming Luo</author>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02672</guid>
+    </item>
+    <item>
+      <title>Probing Ferryl Reactivity in a Nonheme Iron Oxygenase Using an Expanded Genetic Code</title>
+      <link>https://doi.org/10.1021/acscatal.4c02365</link>
+      <description>Florence J. Hardy, Matthew G. Quesne, Emilie F. G&#233;rard, Jingming Zhao, Mary Ortmayer, Christopher J. Taylor, Hafiz Saqib Ali, Jeffrey W. Slater, Colin Levy, Derren J. Heyes, J. Martin Bollinger, Sam P. de Visser, Anthony P. Green, ACS catalysis. None(None)] 2024. https://openalex.org/W4400851308
+
+                No abstract</description>
+      <author>Florence J. Hardy, Matthew G. Quesne, Emilie F. G&#233;rard, Jingming Zhao, Mary Ortmayer, Christopher J. Taylor, Hafiz Saqib Ali, Jeffrey W. Slater, Colin Levy, Derren J. Heyes, J. Martin Bollinger, Sam P. de Visser, Anthony P. Green</author>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02365</guid>
+    </item>
+    <item>
+      <title>Cobalt-Catalyzed (3 + 2) Cycloaddition of Cyclopropene-Tethered Alkynes: Versatile Access to Bicyclic Cyclopentadienyl Systems and Their CpM Complexes</title>
+      <link>https://doi.org/10.1021/acscatal.4c03080</link>
+      <description>Carlos L&#225;zaro&#8208;Milla, Eduardo da Concepci&#243;n, Israel Fern&#225;ndez, Jos&#233; L. Mascare&#241;as, Fernando L&#243;pez, ACS catalysis. None(None)] 2024. https://openalex.org/W4400851791
+
+                No abstract</description>
+      <author>Carlos L&#225;zaro&#8208;Milla, Eduardo da Concepci&#243;n, Israel Fern&#225;ndez, Jos&#233; L. Mascare&#241;as, Fernando L&#243;pez</author>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03080</guid>
+    </item>
+    <item>
+      <title>Distance-Dependent Charge Redistribution Boosts Hydrogen Evolution in Hybrid Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01396</link>
+      <description>Xinzhang Lin, Yifan Li, Wei Tu, Zhi Li, Jia Li, Dongze Li, Nanfeng Xu, Chao Wang, Yi Lu, Song Jin, Hengxing Ji, Wei Liu, Guoxiong Wang, Junyuan Xu, Zhangquan Peng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400851816
+
+                No abstract</description>
+      <author>Xinzhang Lin, Yifan Li, Wei Tu, Zhi Li, Jia Li, Dongze Li, Nanfeng Xu, Chao Wang, Yi Lu, Song Jin, Hengxing Ji, Wei Liu, Guoxiong Wang, Junyuan Xu, Zhangquan Peng</author>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01396</guid>
+    </item>
+    <item>
+      <title>Engineering Reaction Pathway to Harmonize the Competition between NRR and HER for Efficient Photocatalytic Ammonia Synthesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c02430</link>
+      <description>Zhanfeng Zhao, Yao Nian, Jiafu Shi, Xin Xin, Xinyuan Huang, Yonghui Shi, Jiangdan Tan, Yukui Zhang, You Han, Dong Yang, Zhongyi Jiang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400866691
+
+                No abstract</description>
+      <author>Zhanfeng Zhao, Yao Nian, Jiafu Shi, Xin Xin, Xinyuan Huang, Yonghui Shi, Jiangdan Tan, Yukui Zhang, You Han, Dong Yang, Zhongyi Jiang</author>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02430</guid>
+    </item>
+    <item>
+      <title>Unlocking Spatially Constrained Photogenerated Charge via Dimension Regulation in Metal Halide Perovskite Nanowires for Enhanced Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01968</link>
+      <description>Heng Shi, Huiyu Liu, Chenyu Du, Fengyi Zhong, Ye He, Vitaliy Guro, Ying Zhou, Jianping Sheng, Fan Dong, ACS catalysis. None(None)] 2024. https://openalex.org/W4400866743
+
+                No abstract</description>
+      <author>Heng Shi, Huiyu Liu, Chenyu Du, Fengyi Zhong, Ye He, Vitaliy Guro, Ying Zhou, Jianping Sheng, Fan Dong</author>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01968</guid>
     </item>
   </channel>
 </rss>

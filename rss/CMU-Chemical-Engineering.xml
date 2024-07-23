@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 Jul 2024 01:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 01:11:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -27,6 +27,26 @@
       <author>Kwok&#8208;Min Hui, L. Yan, James Schneider</author>
       <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.biomac.4c00332</guid>
+    </item>
+    <item>
+      <title>Surface Segregation Across Ternary Alloy Composition Space: Cu X Ag Y Au1- X - Y</title>
+      <link>https://doi.org/10.2139/ssrn.4898954</link>
+      <description>Andrew J. Gellman, Robert Burnley, Zhitao Guo, No host. None(None)] 2024. https://openalex.org/W4400769359
+
+                No abstract</description>
+      <author>Andrew J. Gellman, Robert Burnley, Zhitao Guo</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4898954</guid>
+    </item>
+    <item>
+      <title>Membrane-based carbon capture process optimization using CFD modeling</title>
+      <link>https://openalex.org/W4400840524</link>
+      <description>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2024. https://openalex.org/W4400840524
+
+                No abstract</description>
+      <author>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4400840524</guid>
     </item>
   </channel>
 </rss>
