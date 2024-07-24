@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 23 Jul 2024 01:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 01:12:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Engineering electronic structures and oxygen vacancies of manganese-doped nickel molybdate porous nanosheets for efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.07.118</link>
-      <description>Fang Miao, Peng Cui, Tiantian Gu, Bo Sun, Zhijie Yan, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400648309
-
-                No abstract</description>
-      <author>Fang Miao, Peng Cui, Tiantian Gu, Bo Sun, Zhijie Yan</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.118</guid>
-    </item>
-    <item>
-      <title>CO2 Electroreduction on Single Atom Catalysts: Role of the Local Coordination</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144714</link>
-      <description>Gianfranco Pacchioni, Giovanni Di Liberto, Gianfranco Pacchioni, Electrochimica acta. None(None)] 2024. https://openalex.org/W4400650185
-
-                No abstract</description>
-      <author>Gianfranco Pacchioni, Giovanni Di Liberto, Gianfranco Pacchioni</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144714</guid>
-    </item>
-    <item>
-      <title>CrO&lt;sub&gt;x&lt;/sub&gt; Modified Nickel Phosphides Electrocatalyst for Stable Hydrogen Evolution Reaction in Neutral Media</title>
-      <link>https://doi.org/10.1002/adfm.202409365</link>
-      <description>P. Zhang, Han Man, Yao Huo, Fei Zhang, Yang Liu, Renbing Wu, Fei Wang, Dalin Sun, Advanced functional materials. None(None)] 2024. https://openalex.org/W4400658006
-
-                Abstract The development of efficient and long&#8208;term stable electrodes for hydrogen evolution reaction (HER) in seawater is highly desirable for hydrogen generation but remains challenging. In this work, a highly active CrO x @Ni 2 P&#8208;Ni 5 P 4 /NF electrode is developed and investigated its dynamic reconstruction for HER in neutral electrolytes. The combination of in situ Raman spectra and electrochemical measurements revealed the dynamic surface reconstruction of the catalyst during HER. The CrO x modification not only effectively facilitates water dissociation but also stabilizes the structure post&#8208;reconstruction, enabling rapid and stable hydrogen generation in neutral media. Remarkably, CrO x @Ni 2 P&#8208;Ni 5 P 4 /NF exhibits overpotentials of 109 and 263 mV at current densities of 10 and 100 mA cm &#8722;2 in 1 m PBS, respectively. Concurrently, it exhibits stable operation for 500 h in 1 m PBS and 140 h in natural seawater at current densities of 50 and 100 mA cm &#8722;2 , respectively. The proposed catalytic electrode and the mechanistic insights present a significant stride toward the realization of metal phosphides for direct seawater splitting.</description>
-      <author>P. Zhang, Han Man, Yao Huo, Fei Zhang, Yang Liu, Renbing Wu, Fei Wang, Dalin Sun</author>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409365</guid>
-    </item>
-    <item>
-      <title>CO&lt;sub&gt;2&lt;/sub&gt; Post-combustion Capture: A Critical Review of Current Technologies and Future Directions</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c02513</link>
-      <description>Federica Raganati, Paola Ammendola, Energy &amp; fuels. None(None)] 2024. https://openalex.org/W4400646404
-
-                No abstract</description>
-      <author>Federica Raganati, Paola Ammendola</author>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c02513</guid>
-    </item>
-    <item>
-      <title>Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Cu-Based Monatomic Alloys: A DFT Study</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c01246</link>
-      <description>Xiaojiao Li, Liyun Jiang, Yong Zhou, Qi Yu, Langmuir. None(None)] 2024. https://openalex.org/W4400651340
-
-                In recent years, single-atom alloy catalysts (SAAs) have received much attention due to the combination of structural features of both single-atom and alloy catalysts, as well as their efficient catalytic activity, high selectivity, and high stability in various chemical reactions. In this work, we designed a series of Cu-based SAAs by doping isolated 3d transition metal (TM1) atoms on the surface of Cu(111) (TM1 = Fe, Co, Ru, Rh, Os and Ir), in which Ir1/Cu(111) SAAs are considered to be the most stable among 3d-series SAAs due to their optimal binding energy (Eb). The density of states of SAAs have been systematically investigated to further discuss structural properties. Based on density functional theory calculations, the activity and selectivity of Ir1/Cu(111) SAAs are investigated for electrocatalytic CO2 reduction reaction (CO2RR). The initial hydrogenation of CO2 on Ir1/Cu(111) SAAs can form *CO intermediates, which will be further to CH4 production by the pathway of *CO &#8594; *CHO &#8594; *CHOH &#8594; *CH2OH &#8594; *CH2 &#8594; *CH3 &#8594; CH4. This study provides theoretical insights for the rational design of selective Cu-based monatomic alloy catalysts.</description>
-      <author>Xiaojiao Li, Liyun Jiang, Yong Zhou, Qi Yu</author>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01246</guid>
-    </item>
-    <item>
-      <title>Structure to Property: Chemical Element Embeddings for Predicting Electronic Properties of Crystals</title>
-      <link>https://doi.org/10.1021/acs.jcim.3c01990</link>
-      <description>Shokirbek Shermukhamedov, Dilorom Mamurjonova, Thana Maihom, Michael Probst, Journal of chemical information and modeling. None(None)] 2024. https://openalex.org/W4400653212
-
-                We present a new general-purpose machine learning model that is able to predict a variety of crystal properties, including Fermi level energy and band gap, as well as spectral ones such as electronic densities of states. The model is based on atomic representations that enable it to effectively capture complex information about each atom and its surrounding environment in a crystal. The accuracy achieved for band gaps exceeds results previously published. By design, our model is not restricted to the electronic properties discussed here but can be extended to fit diverse chemical descriptors. Its advantages are (a) its low computational requirements, making it an efficient tool for high-throughput screening of materials; and (b) the simplicity and flexibility of its architecture, facilitating implementation and interpretation, especially for researchers in the field of computational chemistry.</description>
-      <author>Shokirbek Shermukhamedov, Dilorom Mamurjonova, Thana Maihom, Michael Probst</author>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.3c01990</guid>
-    </item>
     <item>
       <title>Graphene-supported MN4 single-atom catalysts for multifunctional electrocatalysis enabled by axial Fe tetramer coordination</title>
       <link>https://doi.org/10.1016/j.jcis.2024.07.132</link>
@@ -448,16 +388,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50377-y</guid>
     </item>
     <item>
-      <title>Utilizing cost-effective pyrocarbon for highly efficient gold retrieval from e-waste leachate</title>
-      <link>https://doi.org/10.1038/s41467-024-50595-4</link>
-      <description>Kaixing Fu, Xia Liu, Xiaolin Zhang, Shenghui Zhou, Nanwen Zhu, Yong Pei, Jinming Luo, Nature communications. 15(1)] 2024. https://openalex.org/W4400847545
-
-                Abstract Addressing burdens of electronic waste (E-waste) leachate while achieving sustainable and selective recovery of noble metals, such as gold, is highly demanded due to its limited supply and escalating prices. Here we demonstrate an environmentally-benign and practical approach for gold recovery from E-waste leachate using alginate-derived pyrocarbon sorbent. The sorbent demonstrates potent gold recovery performance compared to most previously reported advanced sorbents, showcasing high recovery capacity of 2829.7 mg g &#8722;1 , high efficiency (&gt;99.5%), remarkable selectivity ( K d ~ 3.1 &#215; 10 8 mL g &#8722;1 ), and robust anti-interference capabilities within environmentally relevant contexts. The aromatic structures of pyrocarbon serve as crucial electrons sources, enabling a hydroxylation process that simultaneously generates electrons and phenolic hydroxyls for the reduction of gold ions. Our investigations further uncover a &#8220;stepwise&#8221; nucleation mechanism, in which gold ions are reduced as intermediate gold-chlorine clusters, facilitating rapid reduction process by lowering energy barriers from 1.08 to &#8722;21.84 eV. Technoeconomic analysis demonstrates its economic viability with an input-output ratio as high as 1370%. Our protocol obviates the necessity for organic reagents whilst obtaining 23.96 karats gold product from real-world central processing units (CPUs) leachates. This work introduces a green sorption technique for gold recovery, emphasizing its role in promoting a circular economy and environmental sustainability.</description>
-      <author>Kaixing Fu, Xia Liu, Xiaolin Zhang, Shenghui Zhou, Nanwen Zhu, Yong Pei, Jinming Luo</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50595-4</guid>
-    </item>
-    <item>
       <title>Mitigating oxygen reduction reaction barriers: An in-depth first-principles exploration of high-entropy alloy as catalysts</title>
       <link>https://doi.org/10.1016/j.elecom.2024.107782</link>
       <description>Mingyi Chen, Ngoc Thanh Thuy Tran, Wen-Dung Hsu, Electrochemistry communications. None(None)] 2024. https://openalex.org/W4400849852
@@ -508,14 +438,154 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101652</guid>
     </item>
     <item>
-      <title>Integrating digital chemistry within the broader chemistry community</title>
-      <link>https://doi.org/10.1016/j.trechm.2024.06.008</link>
-      <description>David Dalmau, Juan V. Alegre&#8208;Requena, Trends in chemistry. None(None)] 2024. https://openalex.org/W4400642443
+      <title>Recent advances on hydrogen generation based on inorganic metal oxide nano-catalyst using water electrolysis approach</title>
+      <link>https://doi.org/10.1515/revic-2024-0026</link>
+      <description>Muhammad Naeem Ayub, Kwang&#8208;Hyun Baek, Umer Shahzad, Mohsin Saeed, Saad M. Al-Baqami, Khalid Ahmed Alzahrani, Md. Reazuddin Repon, Md. Rezaur Rahman, Mohammad Mizanur Rahman Khan, Muhammad Nadeem Arshad, Reviews in Inorganic Chemistry. 0(0)] 2024. https://openalex.org/W4400836369
+
+                Abstract Today world is looking for a cheap, environment friendly and efficient substitute of fossil fuel. Because due to large consumption of the fossil fuels on daily basis in whole world, emission of hazardous gases have produced lethal effects on human being. In this scenario hydrogen energy has emerged in form of clean, renewable and more efficient energy. Now the key challenge is that efficient production of the green hydrogen at commercial scale to meet demand of hydrogen. The electrolysis of water is the best pathway to achieve efficient hydrogen production. For this purpose the synthesis and improvement of low cast, active as well as stable catalysts or electrolysis is prerequisite for hydrogen production by electro-catalytic method for splitting of water. Main focus of this review is that, how we can perform the electrolysis of water by various techniques using novel methods especially electro-catalysts in term of activity, efficiency, large surface area, porosity, and stability. This will be performed by the method of two-half cell reaction one is the Hydrogen Evolution Reaction (HER) other one Oxygen Evolution Reaction (OER), where reaction proceeded in both medium acidic as well as alkaline phases. Particular attention is given to produce green clean hydrogen production from usable water and its physical and chemical storages for further uses for the support of human sustainability. Basically the recent strategy is to prepare, design and development of nanoscale materials/composite with non-noble metals and with also nanostructured with noble-metals will be discussed in this approach. The increased efficiency and utility have been the focal points of the use of diverse materials from different classes. To increase the electro-catalytic efficiency in OER and HER, we will discuss about new analyses methods and insights into studying the chemical compositions, shapes, surface area, porosity, and synergy of catalysts and the active sites of nanostructured electro-catalysts. This review will further provide the picture of current state of developments as well as recent progress for mechanized efficient production of clean hydrogen (i.e., HER) from water by electrocatalytic method using various nanoscale materials in a broad scale.</description>
+      <author>Muhammad Naeem Ayub, Kwang&#8208;Hyun Baek, Umer Shahzad, Mohsin Saeed, Saad M. Al-Baqami, Khalid Ahmed Alzahrani, Md. Reazuddin Repon, Md. Rezaur Rahman, Mohammad Mizanur Rahman Khan, Muhammad Nadeem Arshad</author>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1515/revic-2024-0026</guid>
+    </item>
+    <item>
+      <title>Utilizing cost-effective pyrocarbon for highly efficient gold retrieval from e-waste leachate</title>
+      <link>https://doi.org/10.1038/s41467-024-50595-4</link>
+      <description>Kaixing Fu, Xia Liu, Xiaolin Zhang, Shenghui Zhou, Nanwen Zhu, Yong Pei, Jinming Luo, Nature Communications. 15(1)] 2024. https://openalex.org/W4400847545
+
+                Abstract Addressing burdens of electronic waste (E-waste) leachate while achieving sustainable and selective recovery of noble metals, such as gold, is highly demanded due to its limited supply and escalating prices. Here we demonstrate an environmentally-benign and practical approach for gold recovery from E-waste leachate using alginate-derived pyrocarbon sorbent. The sorbent demonstrates potent gold recovery performance compared to most previously reported advanced sorbents, showcasing high recovery capacity of 2829.7 mg g &#8722;1 , high efficiency (&gt;99.5%), remarkable selectivity ( K d ~ 3.1 &#215; 10 8 mL g &#8722;1 ), and robust anti-interference capabilities within environmentally relevant contexts. The aromatic structures of pyrocarbon serve as crucial electrons sources, enabling a hydroxylation process that simultaneously generates electrons and phenolic hydroxyls for the reduction of gold ions. Our investigations further uncover a &#8220;stepwise&#8221; nucleation mechanism, in which gold ions are reduced as intermediate gold-chlorine clusters, facilitating rapid reduction process by lowering energy barriers from 1.08 to &#8722;21.84 eV. Technoeconomic analysis demonstrates its economic viability with an input-output ratio as high as 1370%. Our protocol obviates the necessity for organic reagents whilst obtaining 23.96 karats gold product from real-world central processing units (CPUs) leachates. This work introduces a green sorption technique for gold recovery, emphasizing its role in promoting a circular economy and environmental sustainability.</description>
+      <author>Kaixing Fu, Xia Liu, Xiaolin Zhang, Shenghui Zhou, Nanwen Zhu, Yong Pei, Jinming Luo</author>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50595-4</guid>
+    </item>
+    <item>
+      <title>In situ Regulating the Phase Structure of Ce-based Catalytic Sites to Boost the Performance of Zinc-Air Batteries</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.110030</link>
+      <description>Jianping Liu, Yuanbin Jin, Rong Jin, Yao Liu, Zili Ma, Chaozhong Guo, Lei Yu, Lingtao Sun, Haifeng Chen, Yujun Si, Sha Li, Honglin Li, Nano Energy. None(None)] 2024. https://openalex.org/W4400849460
 
                 No abstract</description>
-      <author>David Dalmau, Juan V. Alegre&#8208;Requena</author>
+      <author>Jianping Liu, Yuanbin Jin, Rong Jin, Yao Liu, Zili Ma, Chaozhong Guo, Lei Yu, Lingtao Sun, Haifeng Chen, Yujun Si, Sha Li, Honglin Li</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.trechm.2024.06.008</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.110030</guid>
+    </item>
+    <item>
+      <title>Metallocorroles as bifunctional electrocatalysts for water-splitting: A theoretical investigation</title>
+      <link>https://doi.org/10.1016/j.molliq.2024.125535</link>
+      <description>Akbar Omidvar, Hadise Soleymani, Journal of Molecular Liquids. None(None)] 2024. https://openalex.org/W4400849829
+
+                No abstract</description>
+      <author>Akbar Omidvar, Hadise Soleymani</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.molliq.2024.125535</guid>
+    </item>
+    <item>
+      <title>Alkaline Electrochemical Oxygen Reduction Boosted by Trimetallic Palladium&#8211;Copper&#8211;Gold Nanoparticles</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.175630</link>
+      <description>M.D. Obradovi&#263;, U.&#268;. La&#269;njevac, V. Radmilovi&#263;, A. Gavrilovi&#263;, Janez Kova&#269;, Jelena Rogan, Sanja Stevanovi&#263;, Velimir Radmilovi&#263;, S.Lj. Gojkovi&#263;, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4400849958
+
+                No abstract</description>
+      <author>M.D. Obradovi&#263;, U.&#268;. La&#269;njevac, V. Radmilovi&#263;, A. Gavrilovi&#263;, Janez Kova&#269;, Jelena Rogan, Sanja Stevanovi&#263;, Velimir Radmilovi&#263;, S.Lj. Gojkovi&#263;</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175630</guid>
+    </item>
+    <item>
+      <title>Selective reduction of CO2 to ethanol over Si/Cu(1 1 1) surface: An insights from the first-principles calculations</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.114781</link>
+      <description>Chang Liu, Dan Wang, Boting Yang, Song Jiang, Gang Sun, Yong&#8208;Qing Qiu, Chun&#8208;Guang Liu, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4400867054
+
+                No abstract</description>
+      <author>Chang Liu, Dan Wang, Boting Yang, Song Jiang, Gang Sun, Yong&#8208;Qing Qiu, Chun&#8208;Guang Liu</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114781</guid>
+    </item>
+    <item>
+      <title>CuFe nanoparticles coupled Cu&#8211;Nx for enhancing oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.colsurfa.2024.134890</link>
+      <description>Xiaoting Cao, Lvzhou Li, Xu Dong, Xi Wang, Xiaoshuang Zhou, Jiangnan Li, Jianning Ding, Xiaoshuang Zhou, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2024. https://openalex.org/W4400871646
+
+                No abstract</description>
+      <author>Xiaoting Cao, Lvzhou Li, Xu Dong, Xi Wang, Xiaoshuang Zhou, Jiangnan Li, Jianning Ding, Xiaoshuang Zhou</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.134890</guid>
+    </item>
+    <item>
+      <title>Mechanistic Studies on Defective Hbn-Supported Metal-Nonmetal Synergistic Catalysis for Urea Electrosynthesis</title>
+      <link>https://doi.org/10.2139/ssrn.4901881</link>
+      <description>Ziyang Qiu, Jing&#8208;Shuang Dang, No host. None(None)] 2024. https://openalex.org/W4400872758
+
+                No abstract</description>
+      <author>Ziyang Qiu, Jing&#8208;Shuang Dang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4901881</guid>
+    </item>
+    <item>
+      <title>Transition Metal Doped into Layered Double Hydroxide as Efficient Electrocatalysts for Oxygen Evolution Reaction: A Dft Study</title>
+      <link>https://doi.org/10.2139/ssrn.4901876</link>
+      <description>Shilong Li, Caiwei Yue, Haohao Wang, Jirui Du, Hongyun Cui, Min Pu, Ming Lei, No host. None(None)] 2024. https://openalex.org/W4400872888
+
+                No abstract</description>
+      <author>Shilong Li, Caiwei Yue, Haohao Wang, Jirui Du, Hongyun Cui, Min Pu, Ming Lei</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4901876</guid>
+    </item>
+    <item>
+      <title>Toward Realistic Models of the Electrocatalytic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acs.chemrev.4c00171</link>
+      <description>Travis E. Jones, Detre Teschner, Simone Piccinin, Chemical Reviews. None(None)] 2024. https://openalex.org/W4400875520
+
+                No abstract</description>
+      <author>Travis E. Jones, Detre Teschner, Simone Piccinin</author>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.4c00171</guid>
+    </item>
+    <item>
+      <title>Solid-State Stepwise Temperature-Programmable Synthesis of Bioinspired Fe-N-C Oxygen Reduction Electrocatalyst Featuring Fe-N5 Configuration</title>
+      <link>https://doi.org/10.2139/ssrn.4901392</link>
+      <description>Wei Sang, Somboon Chaemchuen, Longyang Zhang, Zechen Wang, Xingchuan Li, Naoki Ogiwara, Ming Xiong, Naoki Ogiwara, Cheng Chen, Francis Verpoort, Shichun Mu, Zongkui Kou, No host. None(None)] 2024. https://openalex.org/W4400879780
+
+                No abstract</description>
+      <author>Wei Sang, Somboon Chaemchuen, Longyang Zhang, Zechen Wang, Xingchuan Li, Naoki Ogiwara, Ming Xiong, Naoki Ogiwara, Cheng Chen, Francis Verpoort, Shichun Mu, Zongkui Kou</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4901392</guid>
+    </item>
+    <item>
+      <title>Transition from amorphous to crystalline in FeW oxides: Alterations in active center spin state to improve OER performance</title>
+      <link>https://doi.org/10.1016/j.cej.2024.154218</link>
+      <description>Zhenlong Wang, Ke&#8208;An Wang, Xuechun Xiao, Hai&#8208;Bin Zhu, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4400881313
+
+                No abstract</description>
+      <author>Zhenlong Wang, Ke&#8208;An Wang, Xuechun Xiao, Hai&#8208;Bin Zhu</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154218</guid>
+    </item>
+    <item>
+      <title>Electroreduction of Captured CO&lt;sub&gt;2&lt;/sub&gt; on Silver Catalysts: Influence of the Capture Agent and Proton Source</title>
+      <link>https://doi.org/10.1021/jacs.4c03915</link>
+      <description>Robert M. Kowalski, Avishek Banerjee, Chudi Yue, S. Gracia, Dongfang Cheng, Carlos G. Morales&#8208;Guio, Philippe Sautet, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4400884259
+
+                In the context of carbon reutilization, the direct electroreduction of captured CO</description>
+      <author>Robert M. Kowalski, Avishek Banerjee, Chudi Yue, S. Gracia, Dongfang Cheng, Carlos G. Morales&#8208;Guio, Philippe Sautet</author>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c03915</guid>
+    </item>
+    <item>
+      <title>CO Methanation over Ni&#8211;Fe Alloy Catalysts: An Inverse Design Problem</title>
+      <link>https://doi.org/10.1021/acscatal.4c02449</link>
+      <description>Wenqiang Yang, Zhenbin Wang, Jens K. N&#248;rskov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400885651
+
+                No abstract</description>
+      <author>Wenqiang Yang, Zhenbin Wang, Jens K. N&#248;rskov</author>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02449</guid>
+    </item>
+    <item>
+      <title>CO2-to-methanol electroconversion on a molecular cobalt catalyst facilitated by acidic cations</title>
+      <link>https://doi.org/10.1038/s41929-024-01197-2</link>
+      <description>Sunmoon Yu, Hiroki Yamauchi, Shuo Wang, Abhishek Aggarwal, Junghwa Kim, Kiarash Gordiz, Botao Huang, Hai Tao Xu, Daniel J. Zheng, Xiao Wang, Haldrian Iriawan, Davide Menga, Yang Shao&#8208;Horn, Nature Catalysis. None(None)] 2024. https://openalex.org/W4400888998
+
+                No abstract</description>
+      <author>Sunmoon Yu, Hiroki Yamauchi, Shuo Wang, Abhishek Aggarwal, Junghwa Kim, Kiarash Gordiz, Botao Huang, Hai Tao Xu, Daniel J. Zheng, Xiao Wang, Haldrian Iriawan, Davide Menga, Yang Shao&#8208;Horn</author>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01197-2</guid>
     </item>
     <item>
       <title>Exploring the Photophysics and Photocatalytic Activity of Heteroleptic Rh(III) Transition-Metal Complexes Using High-Throughput Experimentation</title>
@@ -526,16 +596,6 @@
       <author>Stephen DiLuzio, Mitchell A. Baumer, R. Guzm&#225;n, Husain N. Kagalwala, Eric M. Lopato, Savannah Talledo, Joshua Kangas, Stefan Bernhard</author>
       <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c02420</guid>
-    </item>
-    <item>
-      <title>Strained heterojunction enables high-performance, fully textured perovskite/silicon tandem solar cells</title>
-      <link>https://doi.org/10.1016/j.joule.2024.06.015</link>
-      <description>Zhiliang Liu, Zhijun Xiong, Shaofei Yang, Ke Fan, Jiang Long, Yuliang Mao, Chaochao Qin, Sibo Li, Longbin Qiu, Jie Zhang, Francis Lin, Linfeng Fei, Yong Hua, Jia Yao, Yu Cao, Jian Zhou, Yimu Chen, Hong Zhang, Haitao Huang, Alex K.&#8208;Y. Jen, Kai Yao, Joule. None(None)] 2024. https://openalex.org/W4400651877
-
-                No abstract</description>
-      <author>Zhiliang Liu, Zhijun Xiong, Shaofei Yang, Ke Fan, Jiang Long, Yuliang Mao, Chaochao Qin, Sibo Li, Longbin Qiu, Jie Zhang, Francis Lin, Linfeng Fei, Yong Hua, Jia Yao, Yu Cao, Jian Zhou, Yimu Chen, Hong Zhang, Haitao Huang, Alex K.&#8208;Y. Jen, Kai Yao</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.joule.2024.06.015</guid>
     </item>
   </channel>
 </rss>
