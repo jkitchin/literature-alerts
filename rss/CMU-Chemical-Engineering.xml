@@ -4,20 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 24 Jul 2024 01:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 01:11:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Rotationally Invariant Latent Distances for Uncertainty Estimation of
-  Relaxed Energy Predictions by Graph Neural Network Potentials</title>
-      <link>https://doi.org/10.48550/arxiv.2407.10844</link>
-      <description>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4400720071
-
-                Graph neural networks (GNNs) have been shown to be astonishingly capable models for molecular property prediction, particularly as surrogates for expensive density functional theory calculations of relaxed energy for novel material discovery. However, one limitation of GNNs in this context is the lack of useful uncertainty prediction methods, as this is critical to the material discovery pipeline. In this work, we show that uncertainty quantification for relaxed energy calculations is more complex than uncertainty quantification for other kinds of molecular property prediction, due to the effect that structure optimizations have on the error distribution. We propose that distribution-free techniques are more useful tools for assessing calibration, recalibrating, and developing uncertainty prediction methods for GNNs performing relaxed energy calculations. We also develop a relaxed energy task for evaluating uncertainty methods for equivariant GNNs, based on distribution-free recalibration and using the Open Catalyst Project dataset. We benchmark a set of popular uncertainty prediction methods on this task, and show that latent distance methods, with our novel improvements, are the most well-calibrated and economical approach for relaxed energy calculations. Finally, we demonstrate that our latent space distance method produces results which align with our expectations on a clustering example, and on specific equation of state and adsorbate coverage examples from outside the training dataset.</description>
-      <author>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin</author>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.10844</guid>
-    </item>
     <item>
       <title>Electrophoretically Snagging Viral Genomes in Wormlike Micelle Networks Using Peptide Nucleic Acid Amphiphiles and dsDNA Oligomers</title>
       <link>https://doi.org/10.1021/acs.biomac.4c00332</link>
@@ -47,6 +36,16 @@
       <author>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openalex.org/W4400840524</guid>
+    </item>
+    <item>
+      <title>Efficient Trust Region Filter Modeling Strategies for Computationally Expensive Black-Box Optimization</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2024.108816</link>
+      <description>Runzhe Liang, Yueheng Han, Haoyang Hu, Bingzhen Chen, Zhihong Yuan, Lorenz T. Biegler, Computers &amp; Chemical Engineering. None(None)] 2024. https://openalex.org/W4400928238
+
+                No abstract</description>
+      <author>Runzhe Liang, Yueheng Han, Haoyang Hu, Bingzhen Chen, Zhihong Yuan, Lorenz T. Biegler</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108816</guid>
     </item>
   </channel>
 </rss>

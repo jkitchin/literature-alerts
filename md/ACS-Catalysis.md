@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jul 24 01:11:55 2024
+Created on Thu Jul 25 01:11:12 2024
 
-Found 34 results from 2024-07-17 to 2024-07-24
+Found 32 results from 2024-07-18 to 2024-07-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Sustainable Photocatalytic Biological Cofactor Regeneration Fueled by Selective Alcohol Oxidation over Polarized ZnIn2S4   
-
-OpenAlex: https://openalex.org/W4400686223    
-Open access: False
-    
-[Fangshu Xing](https://openalex.org/A5048878736), [Wenjun Dong](https://openalex.org/A5101748410), [Jiashu Li](https://openalex.org/A5101402820), [Jianhua Liu](https://openalex.org/A5100405332), [Wenshuo Wang](https://openalex.org/A5055099598), [Wenjin Dong](https://openalex.org/A5011483363), [Hualei Yuan](https://openalex.org/A5032618644), [Jian Liu](https://openalex.org/A5100414713), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01703.
-    
-No abstract    
-
-    
-
-## Hollow Au1Cu1(111) Bimetallic Catalyst Promotes the Selective Electrochemical Conversion of Glycerol into Glycolic Acid   
-
-OpenAlex: https://openalex.org/W4400692579    
-Open access: True
-    
-[Lingqin Shen](https://openalex.org/A5039726344), [Luyao Sun](https://openalex.org/A5102686575), [Mark Douthwaite](https://openalex.org/A5028475580), [Ouardia Akdim](https://openalex.org/A5078084710), [Stuart H. Taylor](https://openalex.org/A5029440147), [Graham J. Hutchings](https://openalex.org/A5020068159), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00483.
-    
-No abstract    
-
-    
-
-## Borrowing Hydrogen Mechanism in Amine Alkylation by Single Atom Nickel Catalysts   
-
-OpenAlex: https://openalex.org/W4400692915    
-Open access: True
-    
-[Aurore E. F. Denjean](https://openalex.org/A5094201097), [Ainara Nova](https://openalex.org/A5078208746), [David Balcells](https://openalex.org/A5044914316), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02182.
-    
-No abstract    
-
-    
 
 ## Refining Metal–Support Interactions via Surface Modification of Irreducible Oxide Support for Enhanced Complete Propane Oxidation   
 
@@ -375,6 +342,17 @@ OpenAlex: https://openalex.org/W4400892195
 Open access: True
     
 [Michaela Slanska](https://openalex.org/A5083414512), [Lenka Štacková](https://openalex.org/A5080652138), [Sérgio M. Marques](https://openalex.org/A5025152279), [Ben L. Feringa](https://openalex.org/A5102896309), [Marek Martínek](https://openalex.org/A5008416317), [L Jílek](https://openalex.org/A5027083082), [Martin Toul](https://openalex.org/A5032403655), [Jiřı́ Damborský](https://openalex.org/A5040585952), [David Bednář](https://openalex.org/A5003693498), [Petr Klán](https://openalex.org/A5046701485), [Zbyněk Prokop](https://openalex.org/A5089102372), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03503.
+    
+No abstract    
+
+    
+
+## PdS Cluster Promotes Photocatalytic Coproduction of Hydrogen and Biomass-Based Monomers   
+
+OpenAlex: https://openalex.org/W4400903387    
+Open access: False
+    
+[Zhaolin Dou](https://openalex.org/A5047510152), [Hongru Zhou](https://openalex.org/A5056500996), [Fanhao Kong](https://openalex.org/A5008502009), [Zhiwei Chen](https://openalex.org/A5100442703), [Min Ji](https://openalex.org/A5054025314), [Jiping Ma](https://openalex.org/A5101404671), [Min Wang](https://openalex.org/A5100340947), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03239.
     
 No abstract    
 

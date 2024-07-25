@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 24 Jul 2024 01:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 01:11:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Sustainable Photocatalytic Biological Cofactor Regeneration Fueled by Selective Alcohol Oxidation over Polarized ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c01703</link>
-      <description>Fangshu Xing, Wenjun Dong, Jiashu Li, Jianhua Liu, Wenshuo Wang, Wenjin Dong, Hualei Yuan, Jian Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4400686223
-
-                No abstract</description>
-      <author>Fangshu Xing, Wenjun Dong, Jiashu Li, Jianhua Liu, Wenshuo Wang, Wenjin Dong, Hualei Yuan, Jian Liu</author>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01703</guid>
-    </item>
-    <item>
-      <title>Hollow Au&lt;sub&gt;1&lt;/sub&gt;Cu&lt;sub&gt;1&lt;/sub&gt;(111) Bimetallic Catalyst Promotes the Selective Electrochemical Conversion of Glycerol into Glycolic Acid</title>
-      <link>https://doi.org/10.1021/acscatal.4c00483</link>
-      <description>Lingqin Shen, Luyao Sun, Mark Douthwaite, Ouardia Akdim, Stuart H. Taylor, Graham J. Hutchings, ACS catalysis. None(None)] 2024. https://openalex.org/W4400692579
-
-                No abstract</description>
-      <author>Lingqin Shen, Luyao Sun, Mark Douthwaite, Ouardia Akdim, Stuart H. Taylor, Graham J. Hutchings</author>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00483</guid>
-    </item>
-    <item>
-      <title>Borrowing Hydrogen Mechanism in Amine Alkylation by Single Atom Nickel Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c02182</link>
-      <description>Aurore E. F. Denjean, Ainara Nova, David Balcells, ACS catalysis. None(None)] 2024. https://openalex.org/W4400692915
-
-                No abstract</description>
-      <author>Aurore E. F. Denjean, Ainara Nova, David Balcells</author>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02182</guid>
-    </item>
     <item>
       <title>Refining Metal&#8211;Support Interactions via Surface Modification of Irreducible Oxide Support for Enhanced Complete Propane Oxidation</title>
       <link>https://doi.org/10.1021/acscatal.4c01358</link>
@@ -346,6 +316,16 @@
       <author>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Ben L. Feringa, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop</author>
       <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03503</guid>
+    </item>
+    <item>
+      <title>PdS Cluster Promotes Photocatalytic Coproduction of Hydrogen and Biomass-Based Monomers</title>
+      <link>https://doi.org/10.1021/acscatal.4c03239</link>
+      <description>Zhaolin Dou, Hongru Zhou, Fanhao Kong, Zhiwei Chen, Min Ji, Jiping Ma, Min Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400903387
+
+                No abstract</description>
+      <author>Zhaolin Dou, Hongru Zhou, Fanhao Kong, Zhiwei Chen, Min Ji, Jiping Ma, Min Wang</author>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03239</guid>
     </item>
   </channel>
 </rss>
