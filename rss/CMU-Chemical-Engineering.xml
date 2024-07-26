@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jul 2024 01:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 01:10:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrophoretically Snagging Viral Genomes in Wormlike Micelle Networks Using Peptide Nucleic Acid Amphiphiles and dsDNA Oligomers</title>
-      <link>https://doi.org/10.1021/acs.biomac.4c00332</link>
-      <description>Kwok&#8208;Min Hui, L. Yan, James Schneider, Biomacromolecules. None(None)] 2024. https://openalex.org/W4400731940
-
-                We demonstrate that the attachment of 30-170 bp dsDNA oligomers to ssDNA viral genomes gives a significant additional mobility shift in micelle-tagging electrophoresis (MTE). In MTE, a modified peptide nucleic acid amphiphile is attached to the viral genome to bind drag-inducing micelles present in capillary electrophoresis running buffers. Further attachment of 30-170 bp dsDNA oligomers drastically shifts the mobility of the 5.1 kB ssDNA genome of mouse minute virus (MMV), providing a new mechanism to improve resolution in CE-based analysis of kilobase nucleic acids. A model based on biased-reptation electrophoresis, end-labeled free-solution electrophoresis, and Ferguson gel-filtration theory is presented to describe the observed mobility shifts.</description>
-      <author>Kwok&#8208;Min Hui, L. Yan, James Schneider</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.biomac.4c00332</guid>
-    </item>
     <item>
       <title>Surface Segregation Across Ternary Alloy Composition Space: Cu X Ag Y Au1- X - Y</title>
       <link>https://doi.org/10.2139/ssrn.4898954</link>

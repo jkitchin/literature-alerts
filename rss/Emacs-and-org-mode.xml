@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Emacs-and-org-mode.xml</link>
     <description>Emacs and org-mode</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jul 2024 01:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 01:10:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Bye bye iCal, welcome org-mode</title>
-      <link>https://doi.org/10.59350/rfmyt-fbr64</link>
-      <description>Konrad Hinsen, No host. None(None)] 2011. https://openalex.org/W4400721927
-
-                I have been using Macintosh computers since 2003, and overall I have been happy with the personal information management (PIM) tools provided by Apple: AddressBook, Mail, Safari (for bookmark management). The one tool I have never liked is iCal. Its user interface is fine for consulting my agenda, but entering information is too complicated and the todo-list management is particularly clumsy.</description>
-      <author>Konrad Hinsen</author>
-      <pubDate>Tue, 04 Jan 2011 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.59350/rfmyt-fbr64</guid>
-    </item>
-    <item>
-      <title>A rant about mail clients</title>
-      <link>https://doi.org/10.59350/xfta9-njr42</link>
-      <description>Konrad Hinsen, No host. None(None)] 2011. https://openalex.org/W4400721879
-
-                A while ago I described why migrated my agendas from iCal to orgmode. To sum it up, my main motivation was to gain more freedom in managing my information: where iCal imposes a rigid format for events and insists on storing them in its own database, inaccessible to other programs, orgmode lets me mix agenda information with whatever else I like in plain text files. Today&amp;#39;s story is a similar one, but without the happy end.</description>
-      <author>Konrad Hinsen</author>
-      <pubDate>Fri, 04 Nov 2011 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.59350/xfta9-njr42</guid>
-    </item>
   </channel>
 </rss>

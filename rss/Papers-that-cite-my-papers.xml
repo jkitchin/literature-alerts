@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jul 2024 01:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 01:10:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Metal Atom Doping with GeC: Tuning Electronic, Magnetic and Electrocatalytic Hydrogen Evolution</title>
-      <link>https://doi.org/10.1016/j.physb.2024.416320</link>
-      <description>Shaoqiang Wang, Zhihao Yuan, Zhen Cui, Physica. B, Condensed matter. None(None)] 2024. https://openalex.org/W4400720298
-
-                No abstract</description>
-      <author>Shaoqiang Wang, Zhihao Yuan, Zhen Cui</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2024.416320</guid>
-    </item>
-    <item>
-      <title>Score-based denoising for atomic structure identification</title>
-      <link>https://doi.org/10.1038/s41524-024-01337-z</link>
-      <description>Tim Hsu, Babak Sadigh, Nicolas Bertin, Cheol Woo Park, James Chapman, Vasily V. Bulatov, Fei Zhou, npj computational materials. 10(1)] 2024. https://openalex.org/W4400720724
-
-                Abstract We propose an effective method for removing thermal vibrations that complicate the task of analyzing complex dynamics in atomistic simulation of condensed matter. Our method iteratively subtracts thermal noises or perturbations in atomic positions using a denoising score function trained on synthetically noised but otherwise perfect crystal lattices. The resulting denoised structures clearly reveal underlying crystal order while retaining disorder associated with crystal defects. Purely geometric, agnostic to interatomic potentials, and trained without inputs from explicit simulations, our denoiser can be applied to simulation data generated from vastly different interatomic interactions. The denoiser is shown to improve existing classification methods, such as common neighbor analysis and polyhedral template matching, reaching perfect classification accuracy on a recent benchmark dataset of thermally perturbed structures up to the melting point. Demonstrated here in a wide variety of atomistic simulation contexts, the denoiser is general, robust, and readily extendable to delineate order from disorder in structurally and chemically complex materials.</description>
-      <author>Tim Hsu, Babak Sadigh, Nicolas Bertin, Cheol Woo Park, James Chapman, Vasily V. Bulatov, Fei Zhou</author>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01337-z</guid>
-    </item>
-    <item>
-      <title>Phosphorus and nitrogen co-doped-graphene: Stability and catalytic activity in oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.cartre.2024.100379</link>
-      <description>Jinmin Guo, Weiwei Shao, Hongfeng Yan, Min Zhao, Yang&#8208;Yi Liu, Qiufeng Fang, T.X. Xia, Jinlong Wang, Xiao-Chun Li, Carbon trends. None(None)] 2024. https://openalex.org/W4400722108
-
-                No abstract</description>
-      <author>Jinmin Guo, Weiwei Shao, Hongfeng Yan, Min Zhao, Yang&#8208;Yi Liu, Qiufeng Fang, T.X. Xia, Jinlong Wang, Xiao-Chun Li</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cartre.2024.100379</guid>
-    </item>
-    <item>
-      <title>A Simple Evaluation of Adiabatic Proton Tunneling across the Electrified Double Layer</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01336</link>
-      <description>M. Askari, Reagan Huckabee, Joseph A. Gauthier, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4400725059
-
-                No abstract</description>
-      <author>M. Askari, Reagan Huckabee, Joseph A. Gauthier</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01336</guid>
-    </item>
-    <item>
-      <title>Single-atom catalysts based on two-dimensional metalloporphyrin monolayers for electrochemical nitrate reduction to ammonia by first-principles calculations and interpretable machine learning</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.200</link>
-      <description>Zongpeng Ding, YuShan Pang, Aling Ma, Zhiyi Liu, Zhenzhen Wang, Guohong Fan, Hong Xu, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400728644
-
-                No abstract</description>
-      <author>Zongpeng Ding, YuShan Pang, Aling Ma, Zhiyi Liu, Zhenzhen Wang, Guohong Fan, Hong Xu</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.200</guid>
-    </item>
-    <item>
-      <title>Single Entity Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.chemrev.3c00723</link>
-      <description>Thomas B. Clarke, Lynn E. Krushinski, Kathryn J. Vannoy, Guillermo S. Col&#243;n-Quintana, Kingshuk Roy, Jeffrey E. Dick, Christophe Renault, Myrtle Hill, Jeffrey E. Dick, Chemical reviews. None(None)] 2024. https://openalex.org/W4400729701
-
-                Making a measurement over millions of nanoparticles or exposed crystal facets seldom reports on reactivity of a single nanoparticle or facet, which may depart drastically from ensemble measurements. Within the past 30 years, science has moved toward studying the reactivity of single atoms, molecules, and nanoparticles, one at a time. This shift has been fueled by the realization that everything changes at the nanoscale, especially important industrially relevant properties like those important to electrocatalysis. Studying single nanoscale entities, however, is not trivial and has required the development of new measurement tools. This review explores a tale of the clever use of old and new measurement tools to study electrocatalysis at the single entity level. We explore in detail the complex interrelationship between measurement method, electrocatalytic material, and reaction of interest (e.g., carbon dioxide reduction, oxygen reduction, hydrazine oxidation, etc.). We end with our perspective on the future of single entity electrocatalysis with a key focus on what types of measurements present the greatest opportunity for fundamental discovery.</description>
-      <author>Thomas B. Clarke, Lynn E. Krushinski, Kathryn J. Vannoy, Guillermo S. Col&#243;n-Quintana, Kingshuk Roy, Jeffrey E. Dick, Christophe Renault, Myrtle Hill, Jeffrey E. Dick</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.3c00723</guid>
-    </item>
-    <item>
-      <title>Theoretical study on the carbon nanomaterial&#8208;supported Pt complex electrocatalysts for efficient and selective chlorine evolution reaction</title>
-      <link>https://doi.org/10.1002/jcc.27466</link>
-      <description>Jewel Hossen, Naoki Nakatani, Journal of computational chemistry. None(None)] 2024. https://openalex.org/W4400735545
-
-                Chlorine is an important chemical which has long been produced in chlor-alkali process using dimensionally stable anodes (DSA). However, some serious drawbacks of DSA inspire the development of alternative anodes for chlorine evolution reaction (CER). In this study, we focused on the graphene- and carbon nanotube-supported platinum tetra-phenyl porphyrins as electrocatalysts for CER, which have been theoretically investigated based on density functional theory. Our results reveal that the supported substrates possess potential CER electrocatalytic activity with very low thermodynamic overpotentials (0.012-0.028 V) via Cl* pathway instead of ClO*. The electronic structures analyses showed that electron transfer from the support to the adsorbed chlorine via the Pt center leads to strong Pt-Cl interactions. Furthermore, the supported electrocatalysts exhibited excellent selectivity toward CER because of high overpotentials and reaction barriers of oxygen evolution process. Therefore, our results may pave the way for designing CER electrocatalyst utilizing emerging carbon nanomaterials.</description>
-      <author>Jewel Hossen, Naoki Nakatani</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27466</guid>
-    </item>
-    <item>
-      <title>Two-dimensional platinum borides: A Dirac nodal line quantum electrocatalyst for efficient hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.202</link>
-      <description>Zi Gao, Fengxian Ma, Weizhen Meng, Yalong Jiao, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400735606
-
-                No abstract</description>
-      <author>Zi Gao, Fengxian Ma, Weizhen Meng, Yalong Jiao</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.202</guid>
-    </item>
-    <item>
-      <title>Detrimental Increase of Spin-Phonon Coupling in Molecular Qubits on Substrates</title>
-      <link>https://doi.org/10.1021/acsami.4c05728</link>
-      <description>Kathleen R. Mullin, R Greer, Michael J. Waters, M. Jeremy Amdur, Lei Sun, Danna E. Freedman, James M. Rondinelli, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4400736052
-
-                Molecular qubits are a promising platform for quantum information systems. Although single molecule and ensemble studies have assessed the performance of</description>
-      <author>Kathleen R. Mullin, R Greer, Michael J. Waters, M. Jeremy Amdur, Lei Sun, Danna E. Freedman, James M. Rondinelli</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c05728</guid>
-    </item>
-    <item>
-      <title>Atomic-level tailoring of single-atom tungsten catalysts for optimized electrochemical nitrate-to-ammonia conversion</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.07.134</link>
-      <description>Yujie Sun, Guoning Feng, Zhiwei Wang, Jing Wang, Xin Chen, Rongjian Sa, Qiaohong Li, Xiaoqiang Li, Zuju Ma, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4400737656
-
-                No abstract</description>
-      <author>Yujie Sun, Guoning Feng, Zhiwei Wang, Jing Wang, Xin Chen, Rongjian Sa, Qiaohong Li, Xiaoqiang Li, Zuju Ma</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.134</guid>
-    </item>
-    <item>
-      <title>Turning copper into an efficient and stable CO evolution catalyst beyond noble metals</title>
-      <link>https://doi.org/10.1038/s41467-024-50436-4</link>
-      <description>Jing Xue, Xue Dong, Chunxiao Liu, Jiawei Li, Yizhou Dai, Weiqing Xue, Laihao Luo, Yuan Ji, Xiao Zhang, Li Xu, Qiu Jiang, Tingting Zheng, Jianping Xiao, Chuan Xia, Nature communications. 15(1)] 2024. https://openalex.org/W4400746760
-
-                Using renewable electricity to convert CO</description>
-      <author>Jing Xue, Xue Dong, Chunxiao Liu, Jiawei Li, Yizhou Dai, Weiqing Xue, Laihao Luo, Yuan Ji, Xiao Zhang, Li Xu, Qiu Jiang, Tingting Zheng, Jianping Xiao, Chuan Xia</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50436-4</guid>
-    </item>
     <item>
       <title>High-Entropy Oxides as Electrocatalysts for the Oxygen Evolution Reaction: A Mini Review</title>
       <link>https://doi.org/10.1021/acs.energyfuels.4c02061</link>
@@ -616,6 +506,86 @@
       <author>Bj&#246;rn Baumeier, Jens Wehner, Nicolas Renaud, Felipe Zapata, Ren&#233; Halver, Pranav Madhikar, Ruben Gerritsen, Gianluca Tirimb&#242;, Javier Sijen, David Rosenberger, Joshua Brown, Vivek Sundaram, Jakub Krajniak, Marvin P. Bernhardt, Christoph Junghans</author>
       <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21105/joss.06864</guid>
+    </item>
+    <item>
+      <title>Activation of efficient hydrogen evolution on 1T-VS2 nanoribbons by low-cost transition metals: A first-principles study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.267</link>
+      <description>Tian Wang, Mengying Jia, Pengbo Ding, Dan Xing, Chang Pu, Junguang Tao, Lixiu Guan, International Journal of Hydrogen Energy. 81(None)] 2024. https://openalex.org/W4400936531
+
+                No abstract</description>
+      <author>Tian Wang, Mengying Jia, Pengbo Ding, Dan Xing, Chang Pu, Junguang Tao, Lixiu Guan</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.267</guid>
+    </item>
+    <item>
+      <title>Do Women Benefit More than Men From Coauthoring with a Prominent Researcher?</title>
+      <link>https://doi.org/10.2139/ssrn.4904485</link>
+      <description>Daniela Aguirre-Guerrero, M. Ehekatzin Garc&#237;a-Guzm&#225;n, Aurora A. Ram&#237;rez-&#193;lvarez, Diana Terrazas-Santamaroa, No host. None(None)] 2024. https://openalex.org/W4400937703
+
+                No abstract</description>
+      <author>Daniela Aguirre-Guerrero, M. Ehekatzin Garc&#237;a-Guzm&#225;n, Aurora A. Ram&#237;rez-&#193;lvarez, Diana Terrazas-Santamaroa</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4904485</guid>
+    </item>
+    <item>
+      <title>Accelerated Steam Methane Reforming by Dynamically Applied Charges</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01311</link>
+      <description>Veera Venkata Ramprajwal Vempatti, Shengguang Wang, Omar A. Abdelrahman, Paul J. Dauenhauer, Lars C. Grabow, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4400942538
+
+                No abstract</description>
+      <author>Veera Venkata Ramprajwal Vempatti, Shengguang Wang, Omar A. Abdelrahman, Paul J. Dauenhauer, Lars C. Grabow</author>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01311</guid>
+    </item>
+    <item>
+      <title>Revealing the Size and Potential Dependent D&lt;sub&gt;2&lt;/sub&gt;O Microkinetics on Pt Nanoparticles Using Grand Canonical Ensemble Modeling</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c01428</link>
+      <description>Shibin Wang, Xinyu Li, Jingnan Zheng, Jianguo Wang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4400945155
+
+                No abstract</description>
+      <author>Shibin Wang, Xinyu Li, Jingnan Zheng, Jianguo Wang</author>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01428</guid>
+    </item>
+    <item>
+      <title>Exploring the key role of electronic effects in Pd catalysts supported on Ni-modified N-doped porous carbon for direct synthesis of H2O2 under atmospheric pressure</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114407</link>
+      <description>Donghai Jiang, Yongyong Shi, Liming Zhou, Jun Ma, Chaochuang Yin, Lin Qian, Hongyan Pan, Molecular Catalysis. 565(None)] 2024. https://openalex.org/W4400948251
+
+                No abstract</description>
+      <author>Donghai Jiang, Yongyong Shi, Liming Zhou, Jun Ma, Chaochuang Yin, Lin Qian, Hongyan Pan</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114407</guid>
+    </item>
+    <item>
+      <title>Engineering asymmetric electronic structure of cobalt coordination on CoN3S active sites for high performance oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.07.011</link>
+      <description>Long Chen, Shuhu Yin, Hongbin Zeng, Jia Liu, Xiaofeng Xiao, Xiaoyang Cheng, Huan Huang, Rui Huang, Jian Yang, Wen&#8208;Feng Lin, Yanxia Jiang, Shi&#8208;Gang Sun, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4400949195
+
+                No abstract</description>
+      <author>Long Chen, Shuhu Yin, Hongbin Zeng, Jia Liu, Xiaofeng Xiao, Xiaoyang Cheng, Huan Huang, Rui Huang, Jian Yang, Wen&#8208;Feng Lin, Yanxia Jiang, Shi&#8208;Gang Sun</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.07.011</guid>
+    </item>
+    <item>
+      <title>Multi&#8208;Component and Nanoporous Design toward RuO&lt;sub&gt;2&lt;/sub&gt;&#8208;Based Electrocatalyst with Enhanced Performance for Acidic Water Splitting</title>
+      <link>https://doi.org/10.1002/smll.202404019</link>
+      <description>Xing Wu, Jiashun Wu, Yixuan Hu, Kolan Madhav Reddy, Boxuan Cao, Kolan Madhav Reddy, Zhenbin Wang, Huajun Qiu, Small. None(None)] 2024. https://openalex.org/W4400955732
+
+                Developing electrocatalysts with excellent activity and stability for water splitting in acidic media remains a formidable challenge due to the sluggish kinetics and severe dissolution. As a solution, a multi-component doped RuO</description>
+      <author>Xing Wu, Jiashun Wu, Yixuan Hu, Kolan Madhav Reddy, Boxuan Cao, Kolan Madhav Reddy, Zhenbin Wang, Huajun Qiu</author>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404019</guid>
+    </item>
+    <item>
+      <title>Single-atom transition metals doping two-dimensional B&lt;sub&gt;&lt;i&gt;X&lt;/i&gt;&lt;/sub&gt;N materials (&lt;i&gt;X&lt;/i&gt; = 2, 3, 5) with promising electrocatalytic activity for efficient hydrogen production in the entire pH range</title>
+      <link>https://doi.org/10.1039/d4ma00161c</link>
+      <description>Yuhua Wei, Feng Gao, Haibo Liu, Qi Wei, Sichao Du, Hao Xie, Duo Xiao, Materials Advances. None(None)] 2024. https://openalex.org/W4400968353
+
+                Single-atom supported on 2D B X N materials ( X = 2, 3, 5) are conducive to the improvement of SACs, thus enhancing the catalytic activity. By exploring the dependence of H adsorption on different SACs with pH, the optimal SACs for HER can be found.</description>
+      <author>Yuhua Wei, Feng Gao, Haibo Liu, Qi Wei, Sichao Du, Hao Xie, Duo Xiao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ma00161c</guid>
     </item>
     <item>
       <title>Exploring the Photophysics and Photocatalytic Activity of Heteroleptic Rh(III) Transition-Metal Complexes Using High-Throughput Experimentation</title>

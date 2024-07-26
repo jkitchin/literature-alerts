@@ -1,10 +1,21 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Thu Jul 25 01:11:11 2024
+Created on Fri Jul 26 01:10:26 2024
 
-Found 1 results from 2024-07-18 to 2024-07-25
+Found 2 results from 2024-07-19 to 2024-07-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
+
+## Low-temperature dechlorination of polyvinyl chloride (PVC) for production of H 2 and carbon materials using liquid metal catalysts   
+
+OpenAlex: https://openalex.org/W4400945077    
+Open access: False
+    
+[Felipe Polo‐Garzon](https://openalex.org/A5013148515), [Zili Wu](https://openalex.org/A5063354017), [Yuanyuan Li](https://openalex.org/A5100384454), [Jin Zhang](https://openalex.org/A5100405991), [Xinbin Yu](https://openalex.org/A5006886094), [Elena Toups](https://openalex.org/A5094167537), [Eddie López‐Honorato](https://openalex.org/A5013740599), [Joshua T. Damron](https://openalex.org/A5071143092), [Jeffrey C. Foster](https://openalex.org/A5054366623), [Yongqiang Cheng](https://openalex.org/A5033156106), [Luke L. Daemen](https://openalex.org/A5049941485), [Anibal J. Ramirez‐Cuesta](https://openalex.org/A5012178439), [Harry M. Meyer](https://openalex.org/A5061707133), Science Advances. 10(30)] 2024.https://doi.org/10.1126/sciadv.adm9963.
+    
+Polyvinyl chloride (PVC) is ubiquitous in everyday life; however, it is not recycled because it degrades uncontrollably into toxic products above 250°C. Therefore, it is of interest to controllably dechlorinate PVC at mild temperatures to generate narrowly distributed carbon materials. We present a catalytic route to dechlorinate PVC (~90% reduction of Cl content) at mild temperature (200°C) to produce gas H 2 (with negligible coproduction of corrosive gas HCl) and carbon materials using Ga as a liquid metal (LM) catalyst. A LM was used to promote intimate contact between PVC and the catalytic sites. During dechlorination of PVC, Cl is sequestrated in the carbonaceous solid product. Later, chlorine is easily removed with an acetone wash at room temperature. The Ga LM catalyst is reusable, outperforms a traditional supported metal catalyst, and successfully converts (untreated) discarded PVC pipe.    
+
+    
 
 ## Liquid Metal Alloys Enable Efficient Formate Electrosynthesis   
 
