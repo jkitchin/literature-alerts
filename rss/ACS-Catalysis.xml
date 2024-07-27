@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jul 2024 01:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 01:10:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhanced Oxygen Reduction Reaction Activity on the Melamine-Modified Pt-High-Entropy Alloy Single-Crystal Lattice Stacking Surface</title>
-      <link>https://doi.org/10.1021/acscatal.4c02191</link>
-      <description>Takumi Kobayshi, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama, ACS catalysis. None(None)] 2024. https://openalex.org/W4400768951
-
-                No abstract</description>
-      <author>Takumi Kobayshi, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama</author>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02191</guid>
-    </item>
-    <item>
-      <title>Correlating the Nature of Carbenium Ions in Zeolites to the Product Distribution in the Methanol-to-Olefins Process</title>
-      <link>https://doi.org/10.1021/acscatal.4c03185</link>
-      <description>Luca Maggiulli, Vitaly L. Sushkevich, Oliver Kr&#246;cher, Jeroen A. van Bokhoven, Davide Ferri, ACS catalysis. None(None)] 2024. https://openalex.org/W4400771779
-
-                No abstract</description>
-      <author>Luca Maggiulli, Vitaly L. Sushkevich, Oliver Kr&#246;cher, Jeroen A. van Bokhoven, Davide Ferri</author>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03185</guid>
-    </item>
-    <item>
-      <title>Structural Snapshots of &lt;i&gt;Proteus vulgaris&lt;/i&gt; Tryptophan Indole-Lyase Reveal Insights into the Catalytic Mechanism</title>
-      <link>https://doi.org/10.1021/acscatal.4c03232</link>
-      <description>Robert S. Phillips, Sara M. Brown, Ravi S. Patel, ACS catalysis. None(None)] 2024. https://openalex.org/W4400772973
-
-                No abstract</description>
-      <author>Robert S. Phillips, Sara M. Brown, Ravi S. Patel</author>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03232</guid>
-    </item>
-    <item>
-      <title>[2 + 2] Photocycloadditions to Form Cyclobutanes and Bicyclo[2.1.1]hexanes Employing Copper-Based Photocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c03218</link>
-      <description>G. W. Roland, Kirsten N. Hurdal, Aness Bouchouicha, Nicolas Dowe, Rebecca L. Davis, Shawn K. Collins, ACS catalysis. None(None)] 2024. https://openalex.org/W4400775824
-
-                No abstract</description>
-      <author>G. W. Roland, Kirsten N. Hurdal, Aness Bouchouicha, Nicolas Dowe, Rebecca L. Davis, Shawn K. Collins</author>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03218</guid>
-    </item>
-    <item>
-      <title>Ligand Modification-Induced Electronic Effects and Synergistic Protic Solvent Effects Promote C&#9552;O Bond Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02193</link>
-      <description>Mengfei Qiao, Sheng Wang, Shanshan Gao, Qiang Fu, Sheng Wang, Ruixuan Qin, Nanfeng Zheng, ACS catalysis. None(None)] 2024. https://openalex.org/W4400777959
-
-                No abstract</description>
-      <author>Mengfei Qiao, Sheng Wang, Shanshan Gao, Qiang Fu, Sheng Wang, Ruixuan Qin, Nanfeng Zheng</author>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02193</guid>
-    </item>
-    <item>
-      <title>Wavelength-Selective C&#8211;C and C&#8211;N Bond Formation via Defect-Engineered ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c02199</link>
-      <description>Xiaohui Leng, Xin Zhou, Lu Ma, Yonghua Du, Ouwen Peng, Zhongxin Chen, Jinhui Pan, Ming&#8211;Yu Qi, Jianhui Zheng, Yi&#8208;Jun Xu, Kian Ping Loh, ACS catalysis. None(None)] 2024. https://openalex.org/W4400801750
-
-                No abstract</description>
-      <author>Xiaohui Leng, Xin Zhou, Lu Ma, Yonghua Du, Ouwen Peng, Zhongxin Chen, Jinhui Pan, Ming&#8211;Yu Qi, Jianhui Zheng, Yi&#8208;Jun Xu, Kian Ping Loh</author>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02199</guid>
-    </item>
     <item>
       <title>Amphiphilic Janus Particles for Aerobic Alcohol Oxidation in Oil Foams</title>
       <link>https://doi.org/10.1021/acscatal.4c00909</link>
@@ -240,10 +180,10 @@
     <item>
       <title>Azobenzene-Based Photoswitchable Substrates for Advanced Mechanistic Studies of Model Haloalkane Dehalogenase Enzyme Family</title>
       <link>https://doi.org/10.1021/acscatal.4c03503</link>
-      <description>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Ben L. Feringa, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Jir&#774;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400892195
+      <description>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Ben L. Feringa, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400892195
 
                 No abstract</description>
-      <author>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Ben L. Feringa, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Jir&#774;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop</author>
+      <author>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Ben L. Feringa, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop</author>
       <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03503</guid>
     </item>
@@ -376,6 +316,36 @@
       <author>Wenjuan Zhang, Lizheng Chen, Juan Du, Zhuoyuan Ma, Kaikai Ba, Xuefeng Chu, Lei Wang, Tengfeng Xie, Dayang Wang, Gang Liu</author>
       <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02285</guid>
+    </item>
+    <item>
+      <title>Design and Impact: Navigating the Electrochemical Characterization Methods for Supported Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c03271</link>
+      <description>Karl-Ander Kasuk, Jaak Nerut, Vitali Grozovski, Enn Lust, Anthony Kucernak, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400974831
+
+                No abstract</description>
+      <author>Karl-Ander Kasuk, Jaak Nerut, Vitali Grozovski, Enn Lust, Anthony Kucernak</author>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03271</guid>
+    </item>
+    <item>
+      <title>Deciphering the Atomic-Scale Degradation of Carbon-Supported Platinum&#8211;Yttrium Nanoalloys during the Oxygen Reduction Reaction in Acidic Medium</title>
+      <link>https://doi.org/10.1021/acscatal.4c02616</link>
+      <description>Carlos Augusto Campos Rold&#225;n, Rapha&#235;l Chattot, Jean&#8208;S&#233;bastien Filhol, Hazar Guesmi, Nuria Romero, R&#233;mi Bacabe, P. Blanchard, Valentin Vinci, Jakub Drnec, Deborah J. Jones, Jennifer P&#233;ron, Sara Cavali&#232;re, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400981506
+
+                No abstract</description>
+      <author>Carlos Augusto Campos Rold&#225;n, Rapha&#235;l Chattot, Jean&#8208;S&#233;bastien Filhol, Hazar Guesmi, Nuria Romero, R&#233;mi Bacabe, P. Blanchard, Valentin Vinci, Jakub Drnec, Deborah J. Jones, Jennifer P&#233;ron, Sara Cavali&#232;re</author>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02616</guid>
+    </item>
+    <item>
+      <title>H&lt;sub&gt;2&lt;/sub&gt;S-Treated Nickel Foam Electrocatalyst for Alkaline Water Electrolysis under Industrial Conditions</title>
+      <link>https://doi.org/10.1021/acscatal.4c02778</link>
+      <description>S. O. OLESEN, Anders Jensen, Magnus Kl&#248;ve, Filippo Fenini, J&#246;rg Nissen, Bo B. Iversen, Anders Bentien, Lars Peter Nielsen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400983045
+
+                No abstract</description>
+      <author>S. O. OLESEN, Anders Jensen, Magnus Kl&#248;ve, Filippo Fenini, J&#246;rg Nissen, Bo B. Iversen, Anders Bentien, Lars Peter Nielsen</author>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02778</guid>
     </item>
   </channel>
 </rss>
