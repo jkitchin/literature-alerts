@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Jul 2024 01:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 01:16:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -12,10 +12,20 @@
       <link>https://doi.org/10.1126/sciadv.adm9963</link>
       <description>Felipe Polo&#8208;Garzon, Zili Wu, Yuanyuan Li, Jin Zhang, Xinbin Yu, Elena Toups, Eddie L&#243;pez&#8208;Honorato, Joshua T. Damron, Jeffrey C. Foster, Yongqiang Cheng, Luke L. Daemen, Anibal J. Ramirez&#8208;Cuesta, Harry M. Meyer, Science Advances. 10(30)] 2024. https://openalex.org/W4400945077
 
-                Polyvinyl chloride (PVC) is ubiquitous in everyday life; however, it is not recycled because it degrades uncontrollably into toxic products above 250&#176;C. Therefore, it is of interest to controllably dechlorinate PVC at mild temperatures to generate narrowly distributed carbon materials. We present a catalytic route to dechlorinate PVC (~90% reduction of Cl content) at mild temperature (200&#176;C) to produce gas H 2 (with negligible coproduction of corrosive gas HCl) and carbon materials using Ga as a liquid metal (LM) catalyst. A LM was used to promote intimate contact between PVC and the catalytic sites. During dechlorination of PVC, Cl is sequestrated in the carbonaceous solid product. Later, chlorine is easily removed with an acetone wash at room temperature. The Ga LM catalyst is reusable, outperforms a traditional supported metal catalyst, and successfully converts (untreated) discarded PVC pipe.</description>
+                Polyvinyl chloride (PVC) is ubiquitous in everyday life; however, it is not recycled because it degrades uncontrollably into toxic products above 250&#176;C. Therefore, it is of interest to controllably dechlorinate PVC at mild temperatures to generate narrowly distributed carbon materials. We present a catalytic route to dechlorinate PVC (~90% reduction of Cl content) at mild temperature (200&#176;C) to produce gas H</description>
       <author>Felipe Polo&#8208;Garzon, Zili Wu, Yuanyuan Li, Jin Zhang, Xinbin Yu, Elena Toups, Eddie L&#243;pez&#8208;Honorato, Joshua T. Damron, Jeffrey C. Foster, Yongqiang Cheng, Luke L. Daemen, Anibal J. Ramirez&#8208;Cuesta, Harry M. Meyer</author>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adm9963</guid>
+    </item>
+    <item>
+      <title>High&#8208;Throughput Ammonia Production from Nitrate Using Liquid Metal Synthesized Bismuth Nano&#8208;Catalyst (Adv. Energy Mater. 28/2024)</title>
+      <link>https://doi.org/10.1002/aenm.202470116</link>
+      <description>Sahar Nazari, Jing Sun, Mahroo Baharfar, Philippe Poulin, Kourosh Kalantar&#8208;zadeh, Rouhollah Jalili, Dorna Esrafilzadeh, Advanced Energy Materials. 14(28)] 2024. https://openalex.org/W4401036189
+
+                No abstract</description>
+      <author>Sahar Nazari, Jing Sun, Mahroo Baharfar, Philippe Poulin, Kourosh Kalantar&#8208;zadeh, Rouhollah Jalili, Dorna Esrafilzadeh</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202470116</guid>
     </item>
     <item>
       <title>Liquid Metal Alloys Enable Efficient Formate Electrosynthesis</title>

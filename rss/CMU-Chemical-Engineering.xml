@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Jul 2024 01:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 01:16:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Membrane-based carbon capture process optimization using CFD modeling</title>
-      <link>https://openalex.org/W4400840524</link>
-      <description>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2024. https://openalex.org/W4400840524
-
-                No abstract</description>
-      <author>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4400840524</guid>
-    </item>
     <item>
       <title>Efficient Trust Region Filter Modeling Strategies for Computationally Expensive Black-Box Optimization</title>
       <link>https://doi.org/10.1016/j.compchemeng.2024.108816</link>
@@ -26,6 +16,16 @@
       <author>Runzhe Liang, Yueheng Han, Haoyang Hu, Bingzhen Chen, Zhihong Yuan, Lorenz T. Biegler</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108816</guid>
+    </item>
+    <item>
+      <title>Functionalization of graphene oxide via epoxide groups: a comprehensive review of synthetic routes and challenges</title>
+      <link>https://doi.org/10.3389/frcrb.2024.1393077</link>
+      <description>Mayara Gabriela Gon&#231;alves, Vin&#237;cius C&#226;mara Costa, Andr&#233; H. G. Martinez, Bernardo M. R&#233;gnier, Gabriel Gomes, Aldo J. G. Zarbin, Elisa S. Orth, Frontiers in Carbon. 3(None)] 2024. https://openalex.org/W4400984476
+
+                Graphene oxide (GO) has attracted significant attention from the scientific community due to its mechanical, optical, electrical, and chemical properties. This review outlines synthetic methods for GO functionalization, including those involving covalent and noncovalent bonds with organic molecules. In a novel contribution to this field, particular emphasis is placed on functionalization via epoxy ring opening, a poorly studied and understood topic. We first provide an overview of the basic structure and properties of graphene oxide. We then explore the various methods employed to functionalize graphene oxide, noting the complexity of these reactions, which sometimes occur in a non-specific manner. However, there are some strategies for targeted functionalization. Furthermore, we present a critical analysis of the covalent functionalization through epoxy groups, demonstrating important aspects to be considered when choosing the reaction medium. An alkaline environment seems to favor this reaction, and there is no consensus regarding the advantages and disadvantages of using basic pH in functionalization reactions. We also demonstrate some challenges involving the characterization and confirmation of the functionalization, mainly in the basal plane, and we show advances in characterization techniques that can be explored in future studies. Finally, some current challenges and future research directions are presented to contribute to the advancement of the field.</description>
+      <author>Mayara Gabriela Gon&#231;alves, Vin&#237;cius C&#226;mara Costa, Andr&#233; H. G. Martinez, Bernardo M. R&#233;gnier, Gabriel Gomes, Aldo J. G. Zarbin, Elisa S. Orth</author>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/frcrb.2024.1393077</guid>
     </item>
   </channel>
 </rss>

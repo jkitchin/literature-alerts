@@ -1,8 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Sat Jul 27 01:10:05 2024
+Created on Sun Jul 28 01:16:34 2024
 
-Found 2 results from 2024-07-20 to 2024-07-27
+Found 3 results from 2024-07-21 to 2024-07-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
@@ -19,11 +19,32 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400945077"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400945077"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4400945077 (Open access: False)
+OpenAlex: https://openalex.org/W4400945077 (Open access: True)
     
 [[https://openalex.org/A5013148515][Felipe Polo‐Garzon]], [[https://openalex.org/A5063354017][Zili Wu]], [[https://openalex.org/A5100384454][Yuanyuan Li]], [[https://openalex.org/A5100405991][Jin Zhang]], [[https://openalex.org/A5006886094][Xinbin Yu]], [[https://openalex.org/A5094167537][Elena Toups]], [[https://openalex.org/A5013740599][Eddie López‐Honorato]], [[https://openalex.org/A5071143092][Joshua T. Damron]], [[https://openalex.org/A5054366623][Jeffrey C. Foster]], [[https://openalex.org/A5033156106][Yongqiang Cheng]], [[https://openalex.org/A5049941485][Luke L. Daemen]], [[https://openalex.org/A5012178439][Anibal J. Ramirez‐Cuesta]], [[https://openalex.org/A5061707133][Harry M. Meyer]], Science Advances. 10(30)] 2024. https://doi.org/10.1126/sciadv.adm9963 
      
-Polyvinyl chloride (PVC) is ubiquitous in everyday life; however, it is not recycled because it degrades uncontrollably into toxic products above 250°C. Therefore, it is of interest to controllably dechlorinate PVC at mild temperatures to generate narrowly distributed carbon materials. We present a catalytic route to dechlorinate PVC (~90% reduction of Cl content) at mild temperature (200°C) to produce gas H 2 (with negligible coproduction of corrosive gas HCl) and carbon materials using Ga as a liquid metal (LM) catalyst. A LM was used to promote intimate contact between PVC and the catalytic sites. During dechlorination of PVC, Cl is sequestrated in the carbonaceous solid product. Later, chlorine is easily removed with an acetone wash at room temperature. The Ga LM catalyst is reusable, outperforms a traditional supported metal catalyst, and successfully converts (untreated) discarded PVC pipe.    
+Polyvinyl chloride (PVC) is ubiquitous in everyday life; however, it is not recycled because it degrades uncontrollably into toxic products above 250°C. Therefore, it is of interest to controllably dechlorinate PVC at mild temperatures to generate narrowly distributed carbon materials. We present a catalytic route to dechlorinate PVC (~90% reduction of Cl content) at mild temperature (200°C) to produce gas H    
+
+    
+
+* High‐Throughput Ammonia Production from Nitrate Using Liquid Metal Synthesized Bismuth Nano‐Catalyst (Adv. Energy Mater. 28/2024)  :liquid_metal:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401036189
+:TOPICS: Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aenm.202470116")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401036189"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401036189"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401036189"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401036189 (Open access: False)
+    
+[[https://openalex.org/A5002833522][Sahar Nazari]], [[https://openalex.org/A5100429015][Jing Sun]], [[https://openalex.org/A5074034078][Mahroo Baharfar]], [[https://openalex.org/A5079510232][Philippe Poulin]], [[https://openalex.org/A5067220816][Kourosh Kalantar‐zadeh]], [[https://openalex.org/A5032822192][Rouhollah Jalili]], [[https://openalex.org/A5074770372][Dorna Esrafilzadeh]], Advanced Energy Materials. 14(28)] 2024. https://doi.org/10.1002/aenm.202470116 
+     
+No abstract    
 
     
 
