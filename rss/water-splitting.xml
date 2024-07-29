@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Jul 2024 01:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 01:13:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The Dual Gain Strategy of Introducing Nickel Doping and Anchoring Amorphous Iron Oxyhydroxide Nanosheets on Zif-67 Achieves an Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.4900554</link>
-      <description>Shuo Liu, Yufan Zhang, Ningzhao Shang, Gao Y, Shigang Shen, No host. None(None)] 2024. https://openalex.org/W4400844039
-
-                No abstract</description>
-      <author>Shuo Liu, Yufan Zhang, Ningzhao Shang, Gao Y, Shigang Shen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4900554</guid>
-    </item>
-    <item>
-      <title>Bifunctional Electrocatalyst Spinel Oxide Co2GeO4 and Ni2GeO4 with High Oxygen Evolution Reaction and Oxygen Reduction Reaction Activity</title>
-      <link>https://doi.org/10.1007/s11664-024-11320-5</link>
-      <description>Yanjie Wang, Yumin Guo, Jingjing Wu, H. Y. Liu, Xin Tang, Journal of electronic materials. None(None)] 2024. https://openalex.org/W4400851289
-
-                No abstract</description>
-      <author>Yanjie Wang, Yumin Guo, Jingjing Wu, H. Y. Liu, Xin Tang</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11664-024-11320-5</guid>
-    </item>
-    <item>
-      <title>Rationalizing Acidic Oxygen Evolution Reaction over IrO2: Essential Role of Hydronium Cation</title>
-      <link>https://doi.org/10.1002/ange.202409526</link>
-      <description>Tianyou Mou, Daniela A. Bushiri, Daniel V. Esposito, Seong&#8208;Min Bak, Jingguang G. Chen, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400852162
-
-                The development of active, stable, and more affordable electrocatalysts for acidic oxygen evolution reaction (OER) is of great importance for the practical application of electrolyzers and the advancement of renewable energy conversion technologies. Currently, IrO2 is the only catalyst with high stability and activity, but a high cost. Further optimization of the catalyst is limited by the lack of understanding of catalytic behaviors at the acid&#8208;IrO2 interface. Here, in strong interaction with the experiment, we develop an explicit model based on grand&#8208;canonical density function theory (GC&#8208;DFT) calculations to describe acidic OER over IrO2. Compared to the explicit models reported previously, hydronium cations (H3O+) are introduced at the electrochemical interface in the current model. As a result, a variation in stable IrO2 surface configuration under the OER operating condition from previously proposed complete *O&#8208;coverage to a mixture coverage of *OH and *O is revealed, which is well supported by in situ Raman measurements. In addition, the accuracy of predicted overpotential is increased in comparison with the experimentally measured. More importantly, an alteration of the potential limiting step from previously identified *O &#8594; *OOH to *OH &#8594; *O is observed, which opens new opportunities to advance the IrO2&#8208;based catalysts for acidic OER.</description>
-      <author>Tianyou Mou, Daniela A. Bushiri, Daniel V. Esposito, Seong&#8208;Min Bak, Jingguang G. Chen</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409526</guid>
-    </item>
-    <item>
-      <title>Atomically dispersed Ru doped on IrOx sub-nano clusters for the enhanced oxygen evolution reaction in acidic media</title>
-      <link>https://doi.org/10.1039/d4ta01998a</link>
-      <description>Yan Dong, Yanle Li, Yichao Lin, Anyang Chen, Mengting Deng, Linjuan Zhang, Zhiyi Lu, Ziqi Tian, Liang Chen, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4400854602
-
-                High-performance anodic electrocatalysts are urgently required for proton exchange membrane (PEM)-based water electrolysis. Here, a simple one-step approach is introduced to produce atomically dispersed Ru on iridium oxide (Ru-IrOx) sub-nano...</description>
-      <author>Yan Dong, Yanle Li, Yichao Lin, Anyang Chen, Mengting Deng, Linjuan Zhang, Zhiyi Lu, Ziqi Tian, Liang Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta01998a</guid>
-    </item>
-    <item>
-      <title>Photosynthetic performance of the red algae &lt;i&gt;Gracilariopsis lemaneiformis&lt;/i&gt; under high seawater &lt;scp&gt;pH&lt;/scp&gt;: Excess reactive oxygen production due to carbon limitation</title>
-      <link>https://doi.org/10.1111/php.13968</link>
-      <description>Hongjun Xu, Tong Pang, Litao Zhang, Jianguo Liu, Photochemistry and photobiology. None(None)] 2024. https://openalex.org/W4400856154
-
-                Abstract The red algae Gracilariopsis lemaneiformis is extensively cultivated at high densities, leading to significant increases in regional seawater pH due to its photosynthetic removal of inorganic carbon. We conducted a study on G. lemaneiformis cultured under various pH conditions (normal pH, pH 9.3, and pH 9.6) and light levels (dark and 100 &#956;mol photons m &#8722;2 s &#8722;1 ) to investigate how high pH seawater environments affect the metabolic processes of G. lemaneiformis . The high pH did not directly damage the photosynthetic light reactions or the Calvin cycle. Instead, the observed reduction in photosynthetic rates was primarily due to CO 2 limitation. However, under illuminated conditions, a high pH environment leads to a decrease in electron transport efficiency (ETo/RC) and reaction center density (RC/CSo), while simultaneously increasing the levels of hydrogen peroxide (H 2 O 2 ), malondialdehyde (MDA), and the activity of antioxidant enzymes. Under illuminated conditions, the limitation of inhibit the photosynthetic electron transport process, leading to energy imbalance and excessive production of reactive oxygen species, which in turn resulted in lipid peroxidation of the cell membrane. This might be one of the inducing factors responsible for the bleaching in sea&#8208;farmed G. lemaneiformis plants.</description>
-      <author>Hongjun Xu, Tong Pang, Litao Zhang, Jianguo Liu</author>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1111/php.13968</guid>
-    </item>
-    <item>
-      <title>Corrigendum to &amp;lt;&#8217;Facile synthesis of CuZrO3@PPY nanohybrid balls embedded 3-dimensional network with synergistic effect for efficient oxygen evolution reaction&#8217;&amp;gt; &amp;lt;[Surfaces and Interfaces Volume 36, February 2023, 102607]&amp;gt;</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.104827</link>
-      <description>Salma Aman, Soumaya Gouadria, Sumaira Manzoor, Muhammad Abdullah, Rabia Yasmin Khosa, Muhammad Naeem Ashiq, Mohd Zahid Ansari, Akram Alfantazi, Surfaces and interfaces. None(None)] 2024. https://openalex.org/W4400858551
-
-                No abstract</description>
-      <author>Salma Aman, Soumaya Gouadria, Sumaira Manzoor, Muhammad Abdullah, Rabia Yasmin Khosa, Muhammad Naeem Ashiq, Mohd Zahid Ansari, Akram Alfantazi</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104827</guid>
-    </item>
-    <item>
-      <title>Wood derived carbon embedded with shell-core CoP@CoFe for efficient oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118514</link>
-      <description>Kai Li, Ya-Ping Sun, Xiaoguang Zhang, Linzheng Ma, Jinxue Guo, Journal of electroanalytical chemistry. None(None)] 2024. https://openalex.org/W4400858930
-
-                No abstract</description>
-      <author>Kai Li, Ya-Ping Sun, Xiaoguang Zhang, Linzheng Ma, Jinxue Guo</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118514</guid>
-    </item>
-    <item>
-      <title>CeO&lt;sub&gt;2&lt;/sub&gt; Nanoparticles Anchored in Cation-Vacancies NiFe-LDH toward Efficient Oxygen Evolution Reactions in Green Sustainable Seawater Electrolysis</title>
-      <link>https://doi.org/10.1021/acssuschemeng.4c02912</link>
-      <description>Zhaokun Wang, Li Wang, Liang Chu, Mu Yang, Ge Wang, ACS sustainable chemistry &amp; engineering. None(None)] 2024. https://openalex.org/W4400863995
-
-                No abstract</description>
-      <author>Zhaokun Wang, Li Wang, Liang Chu, Mu Yang, Ge Wang</author>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c02912</guid>
-    </item>
     <item>
       <title>Oxygen Vacancy-Engineered P-doped MoO3/Ce2Mo4O15 Bimetallic Heterojunction Nanosheet Array for Enhanced Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1016/j.electacta.2024.144747</link>
@@ -602,7 +522,7 @@
       <link>https://doi.org/10.1021/acs.inorgchem.4c02804</link>
       <description>Ruyu Xue, Zhe Chuan Feng, Yantao Wang, Junfeng Huang, Wei Dou, Cailing Xu, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4400971488
 
-                No abstract</description>
+                The development of oxygen evolution reaction (OER) electrocatalysts is essential for the production of green hydrogen from water electrolysis, but it is challenging. Herein, ruthenium (Ru) single-atom-modified Co-HHTP (HHTP = 2,3,6,7,10,11-hexahydroxytriphenylene) (Ru@Co-HHTP) was prepared via a solvothermal and ion exchange method. Systematic experiments highlight that the atomically dispersed Ru can optimize the electronic structure and electronic conductivity of Co-HHTP. As a result, the obtained Ru@Co-HHTP shows a low overpotential of 247 mV at 100 mA cm</description>
       <author>Ruyu Xue, Zhe Chuan Feng, Yantao Wang, Junfeng Huang, Wei Dou, Cailing Xu</author>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c02804</guid>
@@ -788,16 +708,6 @@
       <guid isPermaLink="true">https://doi.org/10.53619/kobs.2024.6.4.1.58</guid>
     </item>
     <item>
-      <title>Boosting oxygen evolution with amine-induced reconstruction</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.132545</link>
-      <description>Hongbo Zhou, Wei Zi, Ziliang Kang, Hina Naz, Yashu Liu, Zhenyuan Ji, Guoxing Zhu, Fuel. 374(None)] 2024. https://openalex.org/W4400849006
-
-                No abstract</description>
-      <author>Hongbo Zhou, Wei Zi, Ziliang Kang, Hina Naz, Yashu Liu, Zhenyuan Ji, Guoxing Zhu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.132545</guid>
-    </item>
-    <item>
       <title>Quantifying Stern Layer Water Alignment Prior to and During the Oxygen Evolution</title>
       <link>https://doi.org/10.26434/chemrxiv-2023-m9d1z-v4</link>
       <description>Raiden Speelman, Franz M. Geiger, No host. None(None)] 2024. https://openalex.org/W4401026900
@@ -806,16 +716,6 @@
       <author>Raiden Speelman, Franz M. Geiger</author>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2023-m9d1z-v4</guid>
-    </item>
-    <item>
-      <title>Amorphous/crystalline AgS@CoS core@shell catalysts for efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.cclet.2024.110275</link>
-      <description>Yangping Zhang, Tianpeng Liu, Jun Yu, Zhengying Wu, Dongqiong Wang, Yukou Du, Chinese Chemical Letters. None(None)] 2024. https://openalex.org/W4400843962
-
-                No abstract</description>
-      <author>Yangping Zhang, Tianpeng Liu, Jun Yu, Zhengying Wu, Dongqiong Wang, Yukou Du</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.110275</guid>
     </item>
     <item>
       <title>Quenching controlled spin exchange interactions and spin selective electron transfer for oxygen evolution reactions</title>
@@ -838,16 +738,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154211</guid>
     </item>
     <item>
-      <title>Promoting Surface Reconstruction in Spinel Oxides via Tetrahedral&#8208;Octahedral Phase Boundary Construction for Efficient Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/ange.202409912</link>
-      <description>Anqi Zou, Chao Wu, Qi Zhang, Ying Tang, Junhua Li, Hecheng Meng, Zhen Wang, Caozheng Diao, Zhi Gen Yu, Junmin Xue, Shibo Xi, Xiaopeng Wang, Jiagang Wu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400981749
-
-                Understanding the origin of surface reconstruction is crucial for developing highly efficient lattice oxygen oxidation mechanism (LOM) based spinel oxides. Traditionally, the reconstruction has been achieved through electrochemical procedures, such as cyclic voltammetry (CV), linear sweep voltammetry (LSV). In this work, we found that the surface reconstruction in LOM&#8208;based CoFe0.25Al1.75O4 catalyst was an irreversible oxygen redox chemical reaction. And a lower oxygen vacancy formation energy (EO&#8208;V) could benefit the combination of the activated lattice oxygen atoms with adsorbed water molecular. Motivated by this finding, a strategy of phase boundary construction from Co tetrahedral to octahedral was employed to decrease EO&#8208;V in CoFe0.25Al1.75O4. The results showed that as the Co octahedral occupancy ratio rose to 64%, a 3.5 nm&#8208;thick reconstructed layer formed on the catalyst surface with a 158 mV decrease in overpotential. Further experiments indicated that the coexistence of tetrahedral&#8208;octahedral (O&#8208;T) phase would result in lattice mismatch, promoting non&#8208;bonding oxygen states and lowering EO&#8208;V. Then more active lattice oxygen combined with H2O molecules to generate hydroxide ions (OH&#8208;), followed by soluble cation leaching, which enhanced the reconstruction process. This work provided new insights into the relationship between the intrinsic structure of pre&#8208;catalysts and surface reconstruction in LOM&#8208;based spinel electrocatalysts.</description>
-      <author>Anqi Zou, Chao Wu, Qi Zhang, Ying Tang, Junhua Li, Hecheng Meng, Zhen Wang, Caozheng Diao, Zhi Gen Yu, Junmin Xue, Shibo Xi, Xiaopeng Wang, Jiagang Wu</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409912</guid>
-    </item>
-    <item>
       <title>Zipper&#8208;Like Interlocked Heterostructure of NiFe Layered Double Hydroxide&#8208;WN for Super&#8208;Stable Oxygen Evolution over 4500 h</title>
       <link>https://doi.org/10.1002/adfm.202409559</link>
       <description>Minghui Xing, Zelong Qiao, Shaoke Zhu, Gaohong Xu, Jimmy Yun, Dapeng Cao, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4400881423
@@ -866,6 +756,16 @@
       <author>Rui Xu, Tianlei Wang, Xiudang Jing, Y Chen, Lei Zhang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4902235</guid>
+    </item>
+    <item>
+      <title>Promoting Surface Reconstruction in Spinel Oxides via Tetrahedral&#8208;Octahedral Phase Boundary Construction for Efficient Oxygen Evolution</title>
+      <link>https://doi.org/10.1002/ange.202409912</link>
+      <description>Anqi Zou, Chao Wu, Qi Zhang, Ying Tang, Junhua Li, Hecheng Meng, Zhen Wang, Caozheng Diao, Zhi Gen Yu, Junmin Xue, Shibo Xi, Xiaopeng Wang, Jiagang Wu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400981749
+
+                Understanding the origin of surface reconstruction is crucial for developing highly efficient lattice oxygen oxidation mechanism (LOM) based spinel oxides. Traditionally, the reconstruction has been achieved through electrochemical procedures, such as cyclic voltammetry (CV), linear sweep voltammetry (LSV). In this work, we found that the surface reconstruction in LOM&#8208;based CoFe0.25Al1.75O4 catalyst was an irreversible oxygen redox chemical reaction. And a lower oxygen vacancy formation energy (EO&#8208;V) could benefit the combination of the activated lattice oxygen atoms with adsorbed water molecular. Motivated by this finding, a strategy of phase boundary construction from Co tetrahedral to octahedral was employed to decrease EO&#8208;V in CoFe0.25Al1.75O4. The results showed that as the Co octahedral occupancy ratio rose to 64%, a 3.5 nm&#8208;thick reconstructed layer formed on the catalyst surface with a 158 mV decrease in overpotential. Further experiments indicated that the coexistence of tetrahedral&#8208;octahedral (O&#8208;T) phase would result in lattice mismatch, promoting non&#8208;bonding oxygen states and lowering EO&#8208;V. Then more active lattice oxygen combined with H2O molecules to generate hydroxide ions (OH&#8208;), followed by soluble cation leaching, which enhanced the reconstruction process. This work provided new insights into the relationship between the intrinsic structure of pre&#8208;catalysts and surface reconstruction in LOM&#8208;based spinel electrocatalysts.</description>
+      <author>Anqi Zou, Chao Wu, Qi Zhang, Ying Tang, Junhua Li, Hecheng Meng, Zhen Wang, Caozheng Diao, Zhi Gen Yu, Junmin Xue, Shibo Xi, Xiaopeng Wang, Jiagang Wu</author>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409912</guid>
     </item>
     <item>
       <title>Promoting Surface Reconstruction in Spinel Oxides via Tetrahedral&#8208;Octahedral Phase Boundary Construction for Efficient Oxygen Evolution</title>
@@ -908,16 +808,6 @@
       <guid isPermaLink="true">https://doi.org/10.1093/molbev/msae151</guid>
     </item>
     <item>
-      <title>Structural evolution and electronic properties of anionic plutonium-doped oxygen clusters</title>
-      <link>https://doi.org/10.1016/j.cplett.2024.141484</link>
-      <description>Zaifu Jiang, Peixin Fu, Siyu Jin, Panlong Kong, Panlong Kong, Wei Dai, Haiyan Lu, Cheng L&#252;, Chemical physics letters. None(None)] 2024. https://openalex.org/W4400859860
-
-                No abstract</description>
-      <author>Zaifu Jiang, Peixin Fu, Siyu Jin, Panlong Kong, Panlong Kong, Wei Dai, Haiyan Lu, Cheng L&#252;</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141484</guid>
-    </item>
-    <item>
       <title>A nanocoral like carbon composite based on dual-MOFs for catalytic reduction and evolution of oxygen</title>
       <link>https://doi.org/10.1016/j.mtchem.2024.102213</link>
       <description>Junyuan Zhang, Wei Liu, Linfeng Liang, Ziwei Deng, Changyu Liu, Xiaolong Xu, Jianbo Jia, Materials Today Chemistry. 40(None)] 2024. https://openalex.org/W4400966451
@@ -926,16 +816,6 @@
       <author>Junyuan Zhang, Wei Liu, Linfeng Liang, Ziwei Deng, Changyu Liu, Xiaolong Xu, Jianbo Jia</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtchem.2024.102213</guid>
-    </item>
-    <item>
-      <title>Metal-organic frameworks-engineered reactive-oxygen catalytic materials: Enzyme-mimicking coordinations, structure evolutions, and biotherapeutic applications</title>
-      <link>https://doi.org/10.1016/j.mattod.2024.06.017</link>
-      <description>Fuzhen Li, Qinlong Wen, Li Wang, Sutong Xiao, Yang Gao, Mao Wang, Xiaohui Xu, Lang Ma, Qian Li, Materials today. None(None)] 2024. https://openalex.org/W4400857927
-
-                No abstract</description>
-      <author>Fuzhen Li, Qinlong Wen, Li Wang, Sutong Xiao, Yang Gao, Mao Wang, Xiaohui Xu, Lang Ma, Qian Li</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mattod.2024.06.017</guid>
     </item>
     <item>
       <title>Co-Zn single atoms anchored carbon nanotubes derived from anti-perovskite carbides for boosted hydrogen evolution and oxygen reduction reactions</title>
@@ -1098,16 +978,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/met14080861</guid>
     </item>
     <item>
-      <title>Hierarchical Modeling of the Local Reaction Environment in Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.accounts.4c00234</link>
-      <description>Xinwei Zhu, Jun Huang, Michael Eikerling, Accounts of chemical research. None(None)] 2024. https://openalex.org/W4400851781
-
-                ConspectusElectrocatalytic reactions, such as oxygen reduction/evolution reactions and CO</description>
-      <author>Xinwei Zhu, Jun Huang, Michael Eikerling</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.accounts.4c00234</guid>
-    </item>
-    <item>
       <title>Bimodal trending in corrosion loss of magnesium alloys</title>
       <link>https://doi.org/10.5006/4548</link>
       <description>Robert E. Melchers, CORROSION. None(None)] 2024. https://openalex.org/W4400896543
@@ -1118,16 +988,6 @@
       <guid isPermaLink="true">https://doi.org/10.5006/4548</guid>
     </item>
     <item>
-      <title>Dynamic Evolution of Antisite Defect and Coupling Anionic Redox in High&#8208;Voltage Ultrahigh&#8208;Ni Cathode</title>
-      <link>https://doi.org/10.1002/anie.202410326</link>
-      <description>Kang Wu, Peilin Ran, Wen Yin, Lunhua He, Bao&#8208;Tian Wang, Jinming Jian, Enyue Zhao, Jinkui Zhao, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401037985
-
-                High-voltage ultrahigh-Ni cathodes (LiNixCoyMn1-x-yO2, x &#8805; 0.9) can significantly enhance the energy density and cost-effectiveness of Li-ion batteries beyond current levels. However, severe Li-Ni antisite defects and their undetermined dynamic evolutions during high-voltage cycling limit the further development of these ultrahigh-Ni cathodes. In this study, we quantify the dynamic evolutions of the Li-Ni antisite defect using operando neutron diffraction and reveal its coupling relationship with anionic redox, another critical challenge restricting ultrahigh-Ni cathodes. We detect a clear Ni migration coupled with an unstable oxygen lattice, which accompanies the oxidation of oxygen anions at high voltages. Based on these findings, we propose that minimized Li-Ni antisite defects and controlled Ni migrations are essential for achieving stable high-voltage cycling structures in ultrahigh-Ni cathodes. This is further demonstrated by the optimized ultrahigh-Ni cathode, where reduced dynamic evolutions of the Li-Ni antisite defect effectively inhibit the anionic redox, enhancing the 4.5 V cycling stability.</description>
-      <author>Kang Wu, Peilin Ran, Wen Yin, Lunhua He, Bao&#8208;Tian Wang, Jinming Jian, Enyue Zhao, Jinkui Zhao</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202410326</guid>
-    </item>
-    <item>
       <title>Microbial community evolution in the biofilm attached to sponge carriers in pulp mill effluent treatment</title>
       <link>https://doi.org/10.17533/udea.redin.20240730</link>
       <description>Emeline Melchiors, Camila Peitz, Jackeline Valendolf, Mac Wendell Barbosa da Silva, Izadora Cervelin-Fl&#244;r, V&#226;nia Aparecida Vicente, Cl&#225;udia Regina Xavier, Revista Facultad de Ingenier&#237;a Universidad de Antioquia. 113(None)] 2024. https://openalex.org/W4400876404
@@ -1136,6 +996,16 @@
       <author>Emeline Melchiors, Camila Peitz, Jackeline Valendolf, Mac Wendell Barbosa da Silva, Izadora Cervelin-Fl&#244;r, V&#226;nia Aparecida Vicente, Cl&#225;udia Regina Xavier</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.17533/udea.redin.20240730</guid>
+    </item>
+    <item>
+      <title>Dynamic Evolution of Antisite Defect and Coupling Anionic Redox in High&#8208;Voltage Ultrahigh&#8208;Ni Cathode</title>
+      <link>https://doi.org/10.1002/anie.202410326</link>
+      <description>Kang Wu, Peilin Ran, Wen Yin, Lunhua He, Bao&#8208;Tian Wang, Jinming Jian, Enyue Zhao, Jinkui Zhao, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401037985
+
+                High-voltage ultrahigh-Ni cathodes (LiNixCoyMn1-x-yO2, x &#8805; 0.9) can significantly enhance the energy density and cost-effectiveness of Li-ion batteries beyond current levels. However, severe Li-Ni antisite defects and their undetermined dynamic evolutions during high-voltage cycling limit the further development of these ultrahigh-Ni cathodes. In this study, we quantify the dynamic evolutions of the Li-Ni antisite defect using operando neutron diffraction and reveal its coupling relationship with anionic redox, another critical challenge restricting ultrahigh-Ni cathodes. We detect a clear Ni migration coupled with an unstable oxygen lattice, which accompanies the oxidation of oxygen anions at high voltages. Based on these findings, we propose that minimized Li-Ni antisite defects and controlled Ni migrations are essential for achieving stable high-voltage cycling structures in ultrahigh-Ni cathodes. This is further demonstrated by the optimized ultrahigh-Ni cathode, where reduced dynamic evolutions of the Li-Ni antisite defect effectively inhibit the anionic redox, enhancing the 4.5 V cycling stability.</description>
+      <author>Kang Wu, Peilin Ran, Wen Yin, Lunhua He, Bao&#8208;Tian Wang, Jinming Jian, Enyue Zhao, Jinkui Zhao</author>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202410326</guid>
     </item>
     <item>
       <title>Dynamic Evolution of Antisite Defect and Coupling Anionic Redox in High&#8208;Voltage Ultrahigh&#8208;Ni Cathode</title>
@@ -1278,6 +1148,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/macp.202400067</guid>
     </item>
     <item>
+      <title>Emerging insights into the pathogenesis and therapeutic strategies for vascular endothelial injury-associated diseases: focus on mitochondrial dysfunction</title>
+      <link>https://doi.org/10.1007/s10456-024-09938-4</link>
+      <description>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Y.M. Nie, Xing Chang, Angiogenesis. None(None)] 2024. https://openalex.org/W4401010620
+
+                Abstract As a vital component of blood vessels, endothelial cells play a key role in maintaining overall physiological function by residing between circulating blood and semi-solid tissue. Various stress stimuli can induce endothelial injury, leading to the onset of corresponding diseases in the body. In recent years, the importance of mitochondria in vascular endothelial injury has become increasingly apparent. Mitochondria, as the primary site of cellular aerobic respiration and the organelle for &#8220;energy information transfer,&#8221; can detect endothelial cell damage by integrating and receiving various external stress signals. The generation of reactive oxygen species (ROS) and mitochondrial dysfunction often determine the evolution of endothelial cell injury towards necrosis or apoptosis. Therefore, mitochondria are closely associated with endothelial cell function, helping to determine the progression of clinical diseases. This article comprehensively reviews the interconnection and pathogenesis of mitochondrial-induced vascular endothelial cell injury in cardiovascular diseases, renal diseases, pulmonary-related diseases, cerebrovascular diseases, and microvascular diseases associated with diabetes. Corresponding therapeutic approaches are also provided. Additionally, strategies for using clinical drugs to treat vascular endothelial injury-based diseases are discussed, aiming to offer new insights and treatment options for the clinical diagnosis of related vascular injuries.</description>
+      <author>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Y.M. Nie, Xing Chang</author>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10456-024-09938-4</guid>
+    </item>
+    <item>
       <title>Element abundances of galactic RGB stars in the APO-K2 catalogue. Dissimilarity in the scaling with [alpha/Fe]</title>
       <link>https://doi.org/10.1051/0004-6361/202449755</link>
       <description>G. Valle, M. Dell&#8217;Omodarme, P. G. Prada Moroni, S. Degl&#8216;Innocenti, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400917527
@@ -1298,36 +1178,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/admi.202400489</guid>
     </item>
     <item>
-      <title>Emerging insights into the pathogenesis and therapeutic strategies for vascular endothelial injury-associated diseases: focus on mitochondrial dysfunction</title>
-      <link>https://doi.org/10.1007/s10456-024-09938-4</link>
-      <description>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Y.M. Nie, Xing Chang, Angiogenesis. None(None)] 2024. https://openalex.org/W4401010620
-
-                Abstract As a vital component of blood vessels, endothelial cells play a key role in maintaining overall physiological function by residing between circulating blood and semi-solid tissue. Various stress stimuli can induce endothelial injury, leading to the onset of corresponding diseases in the body. In recent years, the importance of mitochondria in vascular endothelial injury has become increasingly apparent. Mitochondria, as the primary site of cellular aerobic respiration and the organelle for &#8220;energy information transfer,&#8221; can detect endothelial cell damage by integrating and receiving various external stress signals. The generation of reactive oxygen species (ROS) and mitochondrial dysfunction often determine the evolution of endothelial cell injury towards necrosis or apoptosis. Therefore, mitochondria are closely associated with endothelial cell function, helping to determine the progression of clinical diseases. This article comprehensively reviews the interconnection and pathogenesis of mitochondrial-induced vascular endothelial cell injury in cardiovascular diseases, renal diseases, pulmonary-related diseases, cerebrovascular diseases, and microvascular diseases associated with diabetes. Corresponding therapeutic approaches are also provided. Additionally, strategies for using clinical drugs to treat vascular endothelial injury-based diseases are discussed, aiming to offer new insights and treatment options for the clinical diagnosis of related vascular injuries.</description>
-      <author>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Y.M. Nie, Xing Chang</author>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10456-024-09938-4</guid>
-    </item>
-    <item>
-      <title>Sulfide and selenide PGE mineralization in chromitites of the Dunzhugur ophiolite massif (East Sayan, Russia)</title>
-      <link>https://doi.org/10.31857/s0016777024020054</link>
-      <description>Olga Kiseleva, E. V. Ayriyants, &#1057;. &#1052;. &#1046;&#1084;&#1086;&#1076;&#1080;&#1082;, Dmitriy Belyanin, Geologi&#226; rudnyh mestoro&#382;denij. 66(2)] 2024. https://openalex.org/W4400852046
-
-                The paper presents the first data on PGE sulfide and selenide mineralization formed in podiform chromitites at different stages of evolution of the Dunzhugur ophiolite massif. The chromite bodies are local-ized in listvenitized aposerpentinites, which are part of the Dunzhugur ophiolite complex. The forms of occurrence, microstructural features and compositions of platinum-group minerals in chromitites were stud-ied by scanning electron microscopy. The enrichment of chromitites with a refractory platinum group-ele-ment (PGE) sulfides and alloys in the Os-Ir-Ru system (IPGE) testify that the for-mation of magmatic platinum-group minerals (PGMs) occurred under mantle conditions. Primary PGMs were replaced by iridium sulfoarsenides and sulfoantimonides due to the interaction of mantle peridotites and chromitites with As&#8211;Sb-bearing fluid generated during dehydration and melting of the subducting slab. Native osmium was formed as a result of desulfurization of magmatic PGE-bearing sulfides with the partic-ipation of reduced fluids at the serpentinization stage. The replacement of Ru&#8211;Os sulfides by selenides of these metals in chromitites could occur at the stages of subduction or obduction at high oxygen fugacity under the influence of acid hydrothermal/metamorphogenic fluids. A qualitative assessment of physicochemical parameters of the formation of ruthenium selenides was carried out. Oxygen fugacity values estimated from the mag-netite&#8211;hematite association are log fO2 (&#8211;30.5) at 300&#1413;C and log fO2 (&#8211;40.5) at 200&#1413;C. The minimum sulfur fugacity value was determined by the stability line of laurite at 300&#1413;C, log fS2 = &#8211;20; the maximum sulfur fugacity values&#8212;by the stability line of iron and nickel sulfides: log fS2 &#8211;4.5 at 300&#1413;C and log fS2 &#8211;10.5 at 200&#1413;C. The selenium fugacity at T = 300&#1413;C is log fSe2 (&#8211;8&#8230;&#8211;13); at T = 200&#1413;C, log fSe2 (&#8211;12&#8230;&#8211;17). Au&#8211;Ag selenides were formed at T = 200&#1413;C, log fS2 (&#8211;9&#8230;&#8211;10.5); log fSe2 is from &#8211;13.5 to &#8211;20.5, log fO2 (&#8211;40). An important factor for the possibility of replacement of Ru&#8211;Os sulfides by selenides is Se occurrence in the ore-forming system. The source of Se may be the substance of the subducting slab&#8212;volcanogenic&#8211;sedimentary rocks containing fragments of Se-rich hydrothermal&#8211;sedimentary sulfide ores. They were involved in the processes of magma genesis and accompanying hydrothermal circulation.</description>
-      <author>Olga Kiseleva, E. V. Ayriyants, &#1057;. &#1052;. &#1046;&#1084;&#1086;&#1076;&#1080;&#1082;, Dmitriy Belyanin</author>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31857/s0016777024020054</guid>
-    </item>
-    <item>
-      <title>Effect of Transient Reoxidation on Inclusions in Rare&#8208;Earth&#8208;Treated Bearing Steel</title>
-      <link>https://doi.org/10.1002/srin.202400169</link>
-      <description>Ning Wang, Boting Yan, Wen-zhi Xia, Yun Zhou, Aijun Deng, Zhiyou Liao, Haichuan Wang, Xiangpeng Gao, Steel research international. None(None)] 2024. https://openalex.org/W4400863264
-
-                The impact of transient reoxidation environments on the chemical morphology evolution of nonmetallic oxide inclusions in rare&#8208;earth&#8208;treated bearing steel is investigated using FactSage thermodynamic simulation calculations, vacuum induction furnace experiments, and high&#8208;temperature laser confocal microscopy experiments. Thermodynamic calculations indicate a direct correlation between the initial rare&#8208;earth content and the oxygen required to transform Ce 2 O 2 S to CeAlO 3 during secondary oxidation. Furthermore, a higher initial rare&#8208;earth content leads to a more extensive and complete conversion to CeAlO 3 . Vacuum induction furnace experiments reveal that the inclusions transform from Ce 2 O 2 S to CeAlO 3 and Al 2 O 3 and eventually into composite oxide clusters. This results in a significant increase in inclusions, with near&#8208;spherical Ce 2 O 2 S inclusions transforming into aggregated CeAlO 3 , leading to an increase in the average inclusion size from 2.4 to 4.2 &#956;m. Laser confocal scanning microscopy experiments show that CeAlO 3 exhibits a higher tendency to aggregate than Ce 2 O 2 S inclusions, the primary factor contributing to the observed increase in the average inclusion size after secondary oxidation. The results of this study provide theoretical guidance for mitigating the adverse effects of rare&#8208;earth secondary oxidation on bearing steels, particularly in terms of inclusion control.</description>
-      <author>Ning Wang, Boting Yan, Wen-zhi Xia, Yun Zhou, Aijun Deng, Zhiyou Liao, Haichuan Wang, Xiangpeng Gao</author>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/srin.202400169</guid>
-    </item>
-    <item>
       <title>An investigation into Venusian atmospheric chemistry based on an open-access photochemistry-transport model at 0-112 km</title>
       <link>https://doi.org/10.1051/0004-6361/202450552</link>
       <description>Longkang Dai, Wencheng Shao, Biao Chen, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400932900
@@ -1346,16 +1196,6 @@
       <author>Ziyi Guo, Zhi-Yu Zhang, Zhiqiang Yan, Eda Gjergo, Allison Man, R. J. Ivison, X. Fu, Yong Shi</author>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3847/1538-4357/ad4da2</guid>
-    </item>
-    <item>
-      <title>A Novel Nonmetallic Inclusion in High&#8208;Mn and High&#8208;Al Steel Caused by the Interfacial Reaction Between Steel and Ladle Filler Sand</title>
-      <link>https://doi.org/10.1002/srin.202400381</link>
-      <description>Shengli Li, Xinliang Zang, Jun&#8208;Kai Zhang, Jie Yang, Ximin Zang, Guocheng Wang, Steel research international. None(None)] 2024. https://openalex.org/W4400863299
-
-                The influence of chromium&#8208;bearing filler sand on the transformation of inclusions in high&#8208;Mn and high&#8208;Al steel under various reaction times and Mn content levels is studied, and the mechanism of filler sand intrusion into the steel matrix is analyzed. It is demonstrated that an inclusion containing Cr 2 O 3 is discovered. The evolution pathway of oxide inclusions is identified as Al 2 O 3 &#8211;MnO &#8594; Al 2 O 3 &#8211;MnO&#8211;SiO 2 &#8594; Al 2 O 3 &#8211;MnO&#8211;SiO 2 &#8211;Cr 2 O 3 (Cr 2 O 3 + MnO&#8211;SiO 2 ) &#8594; Al 2 O 3 &#8211;MnO&#8211;Cr 2 O 3 &#8211;MgO&#183;Al 2 O 3 . It is noteworthy that Cr 2 O 3 inclusions tend to diffuse from the outside inward, but the internal content remains almost unchanged, which is due to the strong diffusion hindrance of SiO 2 . The formation of a liquid phase in the filler sand is a necessary condition for its infiltration into the steel matrix. The critical liquid&#8208;phase content that results in the formation of Cr 2 O 3 inclusions is 42%, which contains 5&#8211;8% of Cr 2 O 3 . The formation of pore channels provides favorable conditions for sand penetration, with the maximum penetration depth reaching up to 29 mm. Large sand inclusion particles reach millimeter scale in size and are distributed quite randomly. Chemical reactions at the steel/sand interface can lead to an increase in the total oxygen (T.O) content in the steel. The reaction time has little effect on the T.O content, while the Mn content in the steel has a significant impact, with an increase of up to 41 ppm. During the smelting stage, the filler sand can enter the molten steel, thereby affecting the quality of the product.</description>
-      <author>Shengli Li, Xinliang Zang, Jun&#8208;Kai Zhang, Jie Yang, Ximin Zang, Guocheng Wang</author>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/srin.202400381</guid>
     </item>
     <item>
       <title>The origin and migration laws of hydrocarbons in uranium&#8208;bearing Luohe Formation, Pengyang area, &lt;scp&gt;SW&lt;/scp&gt; Ordos Basin</title>

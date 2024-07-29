@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Jul 28 01:16:43 2024
+Created on Mon Jul 29 01:13:16 2024
 
-Found 63 results from 2024-07-21 to 2024-07-28
+Found 54 results from 2024-07-22 to 2024-07-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -14,100 +14,12 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
 
-## Mitigating oxygen reduction reaction barriers: An in-depth first-principles exploration of high-entropy alloy as catalysts   
-
-OpenAlex: https://openalex.org/W4400849852    
-Open access: True
-    
-[Mingyi Chen](https://openalex.org/A5010267593), [Ngoc Thanh Thuy Tran](https://openalex.org/A5102958072), [Wen-Dung Hsu](https://openalex.org/A5013963923), Electrochemistry communications. None(None)] 2024.https://doi.org/10.1016/j.elecom.2024.107782.
-    
-No abstract    
-
-    
-
-## Organic Synthesis Catalyzed by Supported Metal Single-Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4400850787    
-Open access: False
-    
-[Ming Bao](https://openalex.org/A5034305271), [Jiasheng Wang](https://openalex.org/A5100753584), [Xiujuan Feng](https://openalex.org/A5100614255), [Jingjie Luo](https://openalex.org/A5037858031), [Jian Sun](https://openalex.org/A5010353743), Molecular catalysis. None(None)] 2024.https://doi.org/10.1007/978-981-97-4573-9_4.
-    
-No abstract    
-
-    
-
-## Hierarchical Modeling of the Local Reaction Environment in Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4400851781    
-Open access: True
-    
-[Xinwei Zhu](https://openalex.org/A5084794187), [Jun Huang](https://openalex.org/A5052713328), [Michael Eikerling](https://openalex.org/A5054676737), Accounts of chemical research. None(None)] 2024.https://doi.org/10.1021/acs.accounts.4c00234.
-    
-ConspectusElectrocatalytic reactions, such as oxygen reduction/evolution reactions and CO    
-
-    
-
-## Modelling chemical processes in explicit solvents with machine learning potentials   
-
-OpenAlex: https://openalex.org/W4400857864    
-Open access: True
-    
-[Hanwen Zhang](https://openalex.org/A5083715479), [Veronika Jurásková](https://openalex.org/A5024521420), [Fernanda Duarte](https://openalex.org/A5080148464), Nature communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-50418-6.
-    
-Abstract Solvent effects influence all stages of the chemical processes, modulating the stability of intermediates and transition states, as well as altering reaction rates and product ratios. However, accurately modelling these effects remains challenging. Here, we present a general strategy for generating reactive machine learning potentials to model chemical processes in solution. Our approach combines active learning with descriptor-based selectors and automation, enabling the construction of data-efficient training sets that span the relevant chemical and conformational space. We apply this strategy to investigate a Diels-Alder reaction in water and methanol. The generated machine learning potentials enable us to obtain reaction rates that are in agreement with experimental data and analyse the influence of these solvents on the reaction mechanism. Our strategy offers an efficient approach to the routine modelling of chemical reactions in solution, opening up avenues for studying complex chemical processes in an efficient manner.    
-
-    
-
 ## Two-Dimensional Conductive Metal-Organic Frameworks Electrocatalyst: Design Principle and Energy Conversion Applications   
 
 OpenAlex: https://openalex.org/W4400865804    
 Open access: False
     
 [Xiaogang Wang](https://openalex.org/A5100444820), [Rahul Anil Borse](https://openalex.org/A5051179214), [Gui Wang](https://openalex.org/A5101860815), [Zhe Xiao](https://openalex.org/A5102753721), [Hua Zhu](https://openalex.org/A5102001411), [Yiling Sun](https://openalex.org/A5100875626), [Zhengfang Qian](https://openalex.org/A5101368715), [Shuaiqi Zhong](https://openalex.org/A5083136418), [Renheng Wang](https://openalex.org/A5051793268), Materials today energy. None(None)] 2024.https://doi.org/10.1016/j.mtener.2024.101652.
-    
-No abstract    
-
-    
-
-## Utilizing cost-effective pyrocarbon for highly efficient gold retrieval from e-waste leachate   
-
-OpenAlex: https://openalex.org/W4400847545    
-Open access: True
-    
-[Kaixing Fu](https://openalex.org/A5002074332), [Xia Liu](https://openalex.org/A5100373207), [Xiaolin Zhang](https://openalex.org/A5100403807), [Shenghui Zhou](https://openalex.org/A5082200123), [Nanwen Zhu](https://openalex.org/A5040147992), [Yong Pei](https://openalex.org/A5090577152), [Jinming Luo](https://openalex.org/A5028336124), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-50595-4.
-    
-Abstract Addressing burdens of electronic waste (E-waste) leachate while achieving sustainable and selective recovery of noble metals, such as gold, is highly demanded due to its limited supply and escalating prices. Here we demonstrate an environmentally-benign and practical approach for gold recovery from E-waste leachate using alginate-derived pyrocarbon sorbent. The sorbent demonstrates potent gold recovery performance compared to most previously reported advanced sorbents, showcasing high recovery capacity of 2829.7 mg g −1 , high efficiency (>99.5%), remarkable selectivity ( K d ~ 3.1 × 10 8 mL g −1 ), and robust anti-interference capabilities within environmentally relevant contexts. The aromatic structures of pyrocarbon serve as crucial electrons sources, enabling a hydroxylation process that simultaneously generates electrons and phenolic hydroxyls for the reduction of gold ions. Our investigations further uncover a “stepwise” nucleation mechanism, in which gold ions are reduced as intermediate gold-chlorine clusters, facilitating rapid reduction process by lowering energy barriers from 1.08 to −21.84 eV. Technoeconomic analysis demonstrates its economic viability with an input-output ratio as high as 1370%. Our protocol obviates the necessity for organic reagents whilst obtaining 23.96 karats gold product from real-world central processing units (CPUs) leachates. This work introduces a green sorption technique for gold recovery, emphasizing its role in promoting a circular economy and environmental sustainability.    
-
-    
-
-## In situ Regulating the Phase Structure of Ce-based Catalytic Sites to Boost the Performance of Zinc-Air Batteries   
-
-OpenAlex: https://openalex.org/W4400849460    
-Open access: False
-    
-[Jianping Liu](https://openalex.org/A5100317673), [Yuanbin Jin](https://openalex.org/A5007834966), [Rong Jin](https://openalex.org/A5011802849), [Yao Liu](https://openalex.org/A5100463088), [Zili Ma](https://openalex.org/A5100936946), [Chaozhong Guo](https://openalex.org/A5020870418), [Lei Yu](https://openalex.org/A5072844008), [Lingtao Sun](https://openalex.org/A5057116148), [Haifeng Chen](https://openalex.org/A5100456791), [Yujun Si](https://openalex.org/A5073410815), [Sha Li](https://openalex.org/A5100402702), [Honglin Li](https://openalex.org/A5100688143), Nano Energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.110030.
-    
-No abstract    
-
-    
-
-## Metallocorroles as bifunctional electrocatalysts for water-splitting: A theoretical investigation   
-
-OpenAlex: https://openalex.org/W4400849829    
-Open access: False
-    
-[Akbar Omidvar](https://openalex.org/A5029287266), [Hadise Soleymani](https://openalex.org/A5104880136), Journal of Molecular Liquids. None(None)] 2024.https://doi.org/10.1016/j.molliq.2024.125535.
-    
-No abstract    
-
-    
-
-## Alkaline Electrochemical Oxygen Reduction Boosted by Trimetallic Palladium–Copper–Gold Nanoparticles   
-
-OpenAlex: https://openalex.org/W4400849958    
-Open access: False
-    
-[M.D. Obradović](https://openalex.org/A5005843058), [U.Č. Lačnjevac](https://openalex.org/A5065661057), [V. Radmilović](https://openalex.org/A5014970420), [A. Gavrilović](https://openalex.org/A5077417594), [Janez Kovač](https://openalex.org/A5065566308), [Jelena Rogan](https://openalex.org/A5001201132), [Sanja Stevanović](https://openalex.org/A5081225393), [Velimir Radmilović](https://openalex.org/A5046616583), [S.Lj. Gojković](https://openalex.org/A5030927421), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.175630.
     
 No abstract    
 
@@ -516,7 +428,7 @@ Open access: True
     
 [Xinhong Chen](https://openalex.org/A5071933192), [Yumeng Cheng](https://openalex.org/A5016772197), [Bo Zhang](https://openalex.org/A5100335318), [Jia Zhou](https://openalex.org/A5006089266), [Sisi He](https://openalex.org/A5073414592), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-50670-w.
     
-No abstract    
+Electrocatalytic nitrate reduction to ammonia holds great promise for developing green technologies for electrochemical ammonia energy conversion and storage. Considering that real nitrate resources often exhibit low concentrations, it is challenging to achieve high activity in low-concentration nitrate solutions due to the competing reaction of the hydrogen evolution reaction, let alone considering the catalyst lifetime. Herein, we present a high nitrate reduction performance electrocatalyst based on a Co nanosheet structure with a gradient dispersion of Ru, which yields a high NH    
 
     
 
@@ -682,17 +594,6 @@ Open access: True
 [Pingping Wang](https://openalex.org/A5100754141), [Ada Josefina Robinson](https://openalex.org/A5048669998), [Stavros Papadokonstantakis](https://openalex.org/A5046686253), Frontiers in Energy Research. 12(None)] 2024.https://doi.org/10.3389/fenrg.2024.1412770.
     
 Carbon Capture, Storage and Utilization (CCS/CCU) is critical for achieving net-zero emissions. Although the recent surge in CCS/CCU projects announcement, there is a clear gap between announced capacity (around 400 Mt CO₂ per year) and the Net Zero Emissions (NZE) scenario deployment target (around 1 Gt per year) by 2030. This review examines breakthroughs and advancements across both established and emerging CCS/CCU systems with different Technology Readiness Levels (TRLs) in various industrial sectors, emphasizing the necessity of prospective assessments for their acceleration and scalability. It examines the development and application of prospective Life Cycle Assessment (pLCA) and prospective Techno-Economic Assessment (pTEA), highlighting their limitations and importance of their outcomes in decision-making processes. Differences between the evolving dynamics of the technological systems (foreground) and the evolution of the overall socioeconomic system (background) are discussed. Incorporating scenario data from Integrated Assessment Models (IAMs) into pLCA and pTEA reveals an iterative relationship that significantly influences the outcome of both the environmental assessments and the economics of large-scale production of the CCS/CCU systems under study. This, in turn, could reshape investment strategies towards advanced technologies, necessitating their consideration within the evolving structure of IAMs. It is concluded that the inherent limitations of CCS/CCU technologies at an early stage of development require quantitative uncertainty analysis and demand robustness, interdisciplinary collaboration, policy intervention, and data transparency. The rigorous evaluative frameworks are key for developing economic, environmental and climate policies and enable well-informed decisions across rapidly evolving sectors. A framework is proposed in this review, outlining a multistep process that includes a series of databases and open-source tools to interface pTEA and pLCA with enhanced IAMs for CCS/CCU, demonstrating its potential to improve decision-making and policy development.    
-
-    
-
-## Exploring the Photophysics and Photocatalytic Activity of Heteroleptic Rh(III) Transition-Metal Complexes Using High-Throughput Experimentation   
-
-OpenAlex: https://openalex.org/W4400849302    
-Open access: True
-    
-[Stephen DiLuzio](https://openalex.org/A5060939989), [Mitchell A. Baumer](https://openalex.org/A5102880675), [R. Guzmán](https://openalex.org/A5044230649), [Husain N. Kagalwala](https://openalex.org/A5005915473), [Eric M. Lopato](https://openalex.org/A5025895642), [Savannah Talledo](https://openalex.org/A5055572203), [Joshua Kangas](https://openalex.org/A5084941245), [Stefan Bernhard](https://openalex.org/A5038842762), Inorganic chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c02420.
-    
-High-throughput synthesis and screening (HTSS) methods were used to investigate the photophysical properties of 576 heteroleptic Rh(III) transition-metal complexes through measurement of the UV-visible absorption spectra, deaerated excited-state lifetime, and phosphorescent emission spectra. While 4d transition-metal photophysics are often highly influenced by deleterious metal-centered deactivation channels, the HTSS of structurally diverse cyclometalating and ancillary ligands attached to the metal center facilitated the discovery of photoactive complexes exhibiting long-lived charge-transfer phosphorescence (0.15-0.95 μs) spanning a substantial portion of the visible region (546-620 nm) at room temperature. Further photophysical and electrochemical investigations were then carried out on select complexes with favorable photophysics to understand the underlying features controlling these superior properties. Heteroleptic Ir(III) complexes with identical ligand morphology were also synthesized to compare these features to this family of well understood chromophores. A number of these Rh(III) complexes contained the requisite properties for photocatalytic activity and were consequently tested as photocatalysts (PCs) in a water reduction system using a Pd water reduction cocatalyst. Under certain conditions, the activity of the Rh(III) PC actually surpassed that of the Ir(III) PC, uncovering the potential of this often-overlooked class of transition metals as both efficient photoactive chromophores and PCs.    
 
     
 

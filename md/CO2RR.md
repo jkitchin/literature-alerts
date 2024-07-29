@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Jul 28 01:16:33 2024
+Created on Mon Jul 29 01:13:06 2024
 
-Found 120 results from 2024-07-21 to 2024-07-28
+Found 111 results from 2024-07-22 to 2024-07-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Structural crystal engineering for energy: Unleashing the potential of metal-organic frameworks for photocatalytic reduction of carbon dioxide   
-
-OpenAlex: https://openalex.org/W4400851293    
-Open access: False
-    
-[Sirisha Subbareddy](https://openalex.org/A5104557791), [Santhosh Arehalli Shivamurthy](https://openalex.org/A5084188332), [Srujan Basavapura Ravikumar](https://openalex.org/A5102806857), [M.K. Hema](https://openalex.org/A5051668991), [Sandeep Shadakshari](https://openalex.org/A5052474002), [Manickam Selvaraj](https://openalex.org/A5004040467), [Sanjay Basumatary](https://openalex.org/A5008433938), Materials Today Chemistry. 40(None)] 2024.https://doi.org/10.1016/j.mtchem.2024.102197.
-    
-No abstract    
-
-    
 
 ## Improving the Roughness of Copper Working Electrode through Electroless Deposition for Carbon Dioxide Reduction Reaction   
 
@@ -205,39 +194,6 @@ Abstract Electronic perturbation of Cu catalysts surface is crucial for optimizi
 
     
 
-## Electrolyte Composition‐Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal‐Organic Framework Catalyst   
-
-OpenAlex: https://openalex.org/W4401022535    
-Open access: False
-    
-[Shiliang Pu](https://openalex.org/A5089568090), [Tao Huang](https://openalex.org/A5025077602), [Duan‐Hui Si](https://openalex.org/A5035202372), [Meng-Jiao Sun](https://openalex.org/A5079968989), [Wenwen Wang](https://openalex.org/A5100768915), [Teng Zhang](https://openalex.org/A5100372524), [Rong Cao](https://openalex.org/A5027181760), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202411766.
-    
-A copper porphyrin‐derived metal‐organic framework electrocatalyst, FICN‐8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN‐8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst‐bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.    
-
-    
-
-## A REVIEW OF THE SYNTHESIS, CHARACTERIZATION, AND MECHANISM OF BIMETALLIC CATALYSTS FOR ELECTROCATALYTIC CO2 REDUCTION   
-
-OpenAlex: https://openalex.org/W4400937635    
-Open access: False
-    
-[Yin-li Liao](https://openalex.org/A5100597632), [Heng-bo Huang](https://openalex.org/A5045080046), [Ru-yu Zou](https://openalex.org/A5102658226), [Shuling Shen](https://openalex.org/A5022544540), [Xin-juan Liu](https://openalex.org/A5001126288), [Zhihong Tang](https://openalex.org/A5101636502), Carbon. 228(None)] 2024.https://doi.org/10.1016/j.carbon.2024.119341.
-    
-No abstract    
-
-    
-
-## Electrolyte Composition‐Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal‐Organic Framework Catalyst   
-
-OpenAlex: https://openalex.org/W4401022814    
-Open access: False
-    
-[Shiliang Pu](https://openalex.org/A5089568090), [Tao Huang](https://openalex.org/A5025077602), [Duan–Hui Si](https://openalex.org/A5035202372), [Meng-Jiao Sun](https://openalex.org/A5079968989), [Wenwen Wang](https://openalex.org/A5100768915), [Teng Zhang](https://openalex.org/A5100372524), [Rong Cao](https://openalex.org/A5027181760), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202411766.
-    
-A copper porphyrin‐derived metal‐organic framework electrocatalyst, FICN‐8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN‐8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst‐bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.    
-
-    
-
 ## Direct quantification of electrochemical CO2 reduction products with an improved DEMS setup   
 
 OpenAlex: https://openalex.org/W4400916115    
@@ -260,14 +216,36 @@ No abstract
 
     
 
-## A First-Principles Study on the Reaction Mechanisms of Electrochemical CO2 Reduction to C1 and C2 Products on Cu(110)   
+## Electrolyte Composition‐Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal‐Organic Framework Catalyst   
 
-OpenAlex: https://openalex.org/W4400873071    
-Open access: True
+OpenAlex: https://openalex.org/W4401022814    
+Open access: False
     
-[Yangyang Xu](https://openalex.org/A5054887678), [Lixin Zhang](https://openalex.org/A5100427812), Catalysts. 14(7)] 2024.https://doi.org/10.3390/catal14070468.
+[Shiliang Pu](https://openalex.org/A5089568090), [Tao Huang](https://openalex.org/A5025077602), [Duan‐Hui Si](https://openalex.org/A5035202372), [Meng-Jiao Sun](https://openalex.org/A5079968989), [Wenwen Wang](https://openalex.org/A5100768915), [Teng Zhang](https://openalex.org/A5100372524), [Rong Cao](https://openalex.org/A5027181760), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202411766.
     
-The mechanism of the electrochemical CO2 reduction reaction on a Cu(110) surface has yet to be fully revealed. In this work, based on first-principles calculations, we investigate the mechanisms of the CO2 reduction reaction to produce C1 (including one C atom) and C2 (including two C atoms) products on a Cu(110) surface. The results show that CH4 and C2H5OH are the main C1 and C2 products on the Cu(110) surface, respectively. CH4 is produced along the pathway CO2 → COOH* → CO* → CHO* → CH2O* → CH3O* → CH4. C2H5OH is produced via the C-C coupling pathway between CO* and CH2O* intermediates, which is the key reaction step. This is because CO* and CH2O* coupling to CO-CH2O* has the lowest barrier among the CHxO* (x = 0–2) coupling pathways. Therefore, it is the most likely C-C coupling pathway. Further, CO-CH2O* is gradually hydrogenated to C2H5OH along the following pathway: CO-CH2O* → CHO-CH2O* → CHOH-CH2* → CH2OH-CH2* → CH2OH-CH3* → C2H5OH.    
+A copper porphyrin-derived metal-organic framework electrocatalyst, FICN-8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN-8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst-bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.    
+
+    
+
+## A REVIEW OF THE SYNTHESIS, CHARACTERIZATION, AND MECHANISM OF BIMETALLIC CATALYSTS FOR ELECTROCATALYTIC CO2 REDUCTION   
+
+OpenAlex: https://openalex.org/W4400937635    
+Open access: False
+    
+[Yin-li Liao](https://openalex.org/A5100597632), [Heng-bo Huang](https://openalex.org/A5045080046), [Ru-yu Zou](https://openalex.org/A5102658226), [Shuling Shen](https://openalex.org/A5022544540), [Xin-juan Liu](https://openalex.org/A5001126288), [Zhihong Tang](https://openalex.org/A5101636502), Carbon. 228(None)] 2024.https://doi.org/10.1016/j.carbon.2024.119341.
+    
+No abstract    
+
+    
+
+## Electrolyte Composition‐Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal‐Organic Framework Catalyst   
+
+OpenAlex: https://openalex.org/W4401022535    
+Open access: False
+    
+[Shiliang Pu](https://openalex.org/A5089568090), [Tao Huang](https://openalex.org/A5025077602), [Duan‐Hui Si](https://openalex.org/A5035202372), [Meng-Jiao Sun](https://openalex.org/A5079968989), [Wenwen Wang](https://openalex.org/A5100768915), [Teng Zhang](https://openalex.org/A5100372524), [Rong Cao](https://openalex.org/A5027181760), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202411766.
+    
+A copper porphyrin‐derived metal‐organic framework electrocatalyst, FICN‐8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN‐8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst‐bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.    
 
     
 
@@ -279,6 +257,17 @@ Open access: False
 [Qinyun Yan](https://openalex.org/A5100597848), [Wei Wen](https://openalex.org/A5003202153), [Lan Qiang](https://openalex.org/A5101124548), [Chunmei Liu](https://openalex.org/A5100689892), [Yang Gao](https://openalex.org/A5013605837), [Jiamin Ma](https://openalex.org/A5071911528), [Peipei Zhao](https://openalex.org/A5005560656), [He Xiao](https://openalex.org/A5009521836), [Junwei Wu](https://openalex.org/A5005014456), [Man Zhao](https://openalex.org/A5019779253), [Jianfeng Jia](https://openalex.org/A5089859351), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.175705.
     
 No abstract    
+
+    
+
+## A First-Principles Study on the Reaction Mechanisms of Electrochemical CO2 Reduction to C1 and C2 Products on Cu(110)   
+
+OpenAlex: https://openalex.org/W4400873071    
+Open access: True
+    
+[Yangyang Xu](https://openalex.org/A5054887678), [Lixin Zhang](https://openalex.org/A5100427812), Catalysts. 14(7)] 2024.https://doi.org/10.3390/catal14070468.
+    
+The mechanism of the electrochemical CO2 reduction reaction on a Cu(110) surface has yet to be fully revealed. In this work, based on first-principles calculations, we investigate the mechanisms of the CO2 reduction reaction to produce C1 (including one C atom) and C2 (including two C atoms) products on a Cu(110) surface. The results show that CH4 and C2H5OH are the main C1 and C2 products on the Cu(110) surface, respectively. CH4 is produced along the pathway CO2 → COOH* → CO* → CHO* → CH2O* → CH3O* → CH4. C2H5OH is produced via the C-C coupling pathway between CO* and CH2O* intermediates, which is the key reaction step. This is because CO* and CH2O* coupling to CO-CH2O* has the lowest barrier among the CHxO* (x = 0–2) coupling pathways. Therefore, it is the most likely C-C coupling pathway. Further, CO-CH2O* is gradually hydrogenated to C2H5OH along the following pathway: CO-CH2O* → CHO-CH2O* → CHOH-CH2* → CH2OH-CH2* → CH2OH-CH3* → C2H5OH.    
 
     
 
@@ -310,17 +299,6 @@ OpenAlex: https://openalex.org/W4401026636
 Open access: True
     
 [Mathilde Ernst](https://openalex.org/A5086250478), [Merete Tangstad](https://openalex.org/A5086748509), [S.P. du Preez](https://openalex.org/A5071118055), Minerals Engineering. 216(None)] 2024.https://doi.org/10.1016/j.mineng.2024.108854.
-    
-No abstract    
-
-    
-
-## Pincer Shaped N-Mesoionic Pyridylidene Amide (PYA) for Palladium Catalyzed CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4400855941    
-Open access: False
-    
-[Afshan Khurshid](https://openalex.org/A5101986826), [Muhammad Nawaz Tahir](https://openalex.org/A5100689313), [Faroha Liaqat](https://openalex.org/A5041864389), [Maqsood Ahmed](https://openalex.org/A5000521858), [Ehsan Ullah Mughal](https://openalex.org/A5064721135), [M.N. Zafar](https://openalex.org/A5101482861), Journal of molecular structure. None(None)] 2024.https://doi.org/10.1016/j.molstruc.2024.139347.
     
 No abstract    
 
@@ -381,17 +359,6 @@ No abstract
 
     
 
-## CO2 transformed into highly active catalysts for the oxygen reduction reaction via low-temperature molten salt electrolysis   
-
-OpenAlex: https://openalex.org/W4400858753    
-Open access: True
-    
-[Anna-Liis Remmel](https://openalex.org/A5046558391), [Sander Ratso](https://openalex.org/A5036356344), [Kerli Liivand](https://openalex.org/A5091383824), [Mati Danilson](https://openalex.org/A5046761092), [Valdek Mikli](https://openalex.org/A5041821545), [Ivar Kruusenberg](https://openalex.org/A5027118415), Electrochemistry Communications. None(None)] 2024.https://doi.org/10.1016/j.elecom.2024.107781.
-    
-No abstract    
-
-    
-
 ## Electrochemical co-reduction of N2 and CO2 to urea using In2S3 anchored on S-doped reduced graphene oxide   
 
 OpenAlex: https://openalex.org/W4400866323    
@@ -436,17 +403,6 @@ Due to climate change risks, the public, regulators, and investors require solid
 
     
 
-## Electro-synthesis of valuable products by coupling energy-saving anodic alcohol oxidation reaction with cathodic CO2 reduction reaction   
-
-OpenAlex: https://openalex.org/W4400863957    
-Open access: False
-    
-[Faiza Zulfiqar](https://openalex.org/A5089924461), [Farhan Arshad](https://openalex.org/A5080617933), [Tanveer ul Haq](https://openalex.org/A5025205505), [Falak Sher](https://openalex.org/A5020488496), International journal of hydrogen energy. 80(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.07.223.
-    
-No abstract    
-
-    
-
 ## Selective reduction of CO2 to ethanol over Si/Cu(1 1 1) surface: An insights from the first-principles calculations   
 
 OpenAlex: https://openalex.org/W4400867054    
@@ -475,17 +431,6 @@ OpenAlex: https://openalex.org/W4400865895
 Open access: False
     
 [Mongur Hossain](https://openalex.org/A5027546393), [Milla Suominen](https://openalex.org/A5055467658), [Tanja Kallio](https://openalex.org/A5078947642), Electrochimica acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144748.
-    
-No abstract    
-
-    
-
-## Effects of electrochemical active surface area of Cu on electrochemical CO2 reduction in acidic electrolyte using Cu nanoparticles on surfactant-treated carbon   
-
-OpenAlex: https://openalex.org/W4400859814    
-Open access: False
-    
-[H.-J. Noh](https://openalex.org/A5058417713), [Yoonsun Park](https://openalex.org/A5104309205), [Ashutosh Bhadouria](https://openalex.org/A5098729184), [Brian M. Tackett](https://openalex.org/A5005676854), Journal of catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115662.
     
 No abstract    
 
@@ -568,17 +513,6 @@ Photo-thermal carbon dioxide (CO2) reduction has recently gained significant att
 
     
 
-## Economic incentives to reduce Carbon Dioxide emissions from vehicles   
-
-OpenAlex: https://openalex.org/W4400852626    
-Open access: False
-    
-[М.Ф. Агамирзоев](https://openalex.org/A5104854503), Èkonomika i predprinimatelʹstvo. None(10(135))] 2022.https://doi.org/10.34925/eip.2021.135.10.045.
-    
-Актуальность данного исследования в том, что необходимо снизить вредное влияние выбросов автомобилей, так как с каждым годом загрязнение воздуха увеличивается. Целью данного исследования является разработка методов экономического стимулирования сокращения выбросов СО2 автотранспортом. Для достижений целей поставлены следующие задачи: 1. Провести анализ влияния выбросов на окружающую среду. 2. Рассмотреть аспекты эмиссии углекислого газа. 3. Разработать мероприятия по сокращению выбросов С02 автотранспортом. 4. Предложить мероприятия по стимулированию сокращения выбросов СO2 автомобилями. Объект исследования -стимулирования сокращения эмиссии С02 автомобильным транспортом. Предмет исследования -экономические отношения, возникающие в процессе проведения мероприятий по снижению эмиссии С02 автомобильным транспортом. The relevance of this study is that it is necessary to reduce the harmful effect of car emissions, since air pollution is increasing every year. The purpose of this study is to develop methods of economic incentives to reduce CO2 emissions from vehicles. To achieve the goals, the following tasks have been set: 1. Conductan analysis of the impact of emissions on the environment. 2. Consider aspects of carbon dioxide emissions. 3.Develop measures to reduce CO2 emissions from vehicles. 4. Propose measures to stimulate the reduction ofCO2 emissions from vehicles. The object of the study is to stimulate the reduction of CO2 emissions by roadtransport. The subject of the research is economic relations arising in the process of carrying out measures toreduce CO2 emissions by road transport.    
-
-    
-
 ## Synthesis of Propiolic and Butynedioic Acids via Carboxylation of CaC2 by CO2 under Mild Conditions   
 
 OpenAlex: https://openalex.org/W4400875276    
@@ -653,28 +587,6 @@ Open access: False
 [R. H. Yuan](https://openalex.org/A5011353807), Applied and Computational Engineering. 70(1)] 2024.https://doi.org/10.54254/2755-2721/70/20240995.
     
 According to statistics, the carbon dioxide emissions from Chinas power industry account for about 40% of the total energy consumption and carbon dioxide emissions, while residential electricity consumption accounts for 36.6% of the total social electricity consumption. However, ordinary households have low electricity efficiency and serious waste. In the context of the national strategy of carbon peak and carbon neutrality, the Home Energy Management System (HEMS) has been introduced to improve household electricity efficiency, reduce electricity consumption, and achieve energy conservation and emission reduction while ensuring the comfort of residents. This article introduces the current research status of home energy management systems that take into account user comfort, and shows some optimization models for home energy management systems that take into account user comfort. It specifically elaborates on the optimization models for household appliances and comfort, briefly outlines the relatively trendy load prediction and scheduling optimization models, and proposes some suggestions and prospects for popularizing knowledge related to home energy management systems for family members using smart homes and temperature comfort modeling based on the current development status.    
-
-    
-
-## The Effect of Additives on Microcellular PVC Foams: Part 1 - Effect on Processing and Microstructure   
-
-OpenAlex: https://openalex.org/W4400989097    
-Open access: False
-    
-[Mark R. Holl](https://openalex.org/A5071323218), [Mingliang Ma](https://openalex.org/A5031608682), [Vipin Kumar](https://openalex.org/A5072720747), [Robert R. Kwapisz](https://openalex.org/A5099106872), Cellular Polymers. 17(4)] 1998.https://doi.org/10.1177/0262489319981704003.
-    
-The effect of the presence of commonly used additives on the processing and structure of microcellular PVC foams was investigated. It was found that the presence of additives leads to a polydisperse cell structure with large variations in cell sizes. The solubility of carbon dioxide in the additives and in the lubricants was found to be lower than in the PVC matrix. The presence of additives showed no adverse effect on the overall foam growth dynamics. It appears that target reductions in density of PVC can be achieved at lower processing temperatures when additives and processing aids are present.    
-
-    
-
-## A Review of Energy Efficient Technology and Carbon Trading for Reducing Carbon Emissions   
-
-OpenAlex: https://openalex.org/W4400854773    
-Open access: True
-    
-[Satinder Kaur Khattra](https://openalex.org/A5066870206), [D. Singh](https://openalex.org/A5039122652), [Ritu Dogra](https://openalex.org/A5032318357), Archives of Current Research International. 24(6)] 2024.https://doi.org/10.9734/acri/2024/v24i6779.
-    
-This review addresses the energy efficient technology and carbon trading for reducing carbon emissions. Energy-efficient technologies (EET) and carbon trading are mechanisms for mitigating climate change. EET offers direct ways to reduce emissions by improving the efficiency of energy use in various sectors. The use of technologies such as Variable Frequency Drives (VFD) in compressors, enhanced thermal performance in buildings, and smart lighting systems demonstrate significant potential in cutting energy consumption and thereby emissions The roles of carbon credits in international emission trading schemes, emphasizing their dual purpose of environmental protection and revenue generation for developing nations. The study explores into various types of carbon credit projects, including the Clean Development Mechanism (CDM) and the Verified Carbon Standard (VCS), highlighting their distribution and impact across different regions. The importance of forests in carbon dioxide absorption and the challenges of ensuring permanence and accounting for carbon sequestration are also discussed. Additionally, the document examines policy recommendations, such as carbon pricing and emission reduction targets set by the Intergovernmental Panel on Climate Change (IPCC).    
 
     
 
@@ -854,17 +766,6 @@ As oil and gas companies are one of the major greenhouse gas emitters, they face
 
     
 
-## Formate Dehydrogenase: Recent Developments for NADH and NADPH Recycling in Biocatalysis   
-
-OpenAlex: https://openalex.org/W4400982189    
-Open access: False
-    
-[Artur Maier](https://openalex.org/A5059230884), [Lindelo M. Mguni](https://openalex.org/A5105049829), [Anna Ngo](https://openalex.org/A5055809666), [Dirk Tischler](https://openalex.org/A5001303954), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401021.
-    
-Formate dehydrogenases (FDHs) catalyze the oxidation of formate to CO2 while reducing NAD(P)+ to NAD(P)H and are classified into two main classes: metal‐dependent (Mo‐ or W‐containing) and metal‐independent FDHs. The latter are oxygen‐tolerant and relevant as a cofactor regeneration system for various bioprocesses and gained more and more attention due to their ability to catalyze the reverse CO2 reduction. This review gives an overview of metal‐independent FDHs, the recent advances made in this field, and their relevance for future applications in biocatalysis. This includes the exploitation of novel FDHs which have altered co‐substrate specificity as well as enzyme engineering approaches to improve process stability and general performance.    
-
-    
-
 ## Utilizing Limestone Alone for Integrated CO2 Capture and Reverse Water-Gas Reaction in a Fixed Bed Reactor: Employing Mass and Gas Signal Analysis   
 
 OpenAlex: https://openalex.org/W4400941480    
@@ -873,6 +774,17 @@ Open access: True
 [Iwei Wang](https://openalex.org/A5046594420), [Shihui Wang](https://openalex.org/A5100671525), [Zhenshan Li](https://openalex.org/A5058500620), Processes. 12(8)] 2024.https://doi.org/10.3390/pr12081548.
     
 The integrated CO2 capture and utilization coupled with the reverse water-gas shift reaction (ICCU-RWGS) presents an alternative pathway for converting captured CO2 into CO in situ. This study investigates the effectiveness of three calcium-based materials (natural limestone, sol-gel CaCO3, and commercial CaCO3) as dual-functional materials (DFMs) for the ICCU-RWGS process at intermediate temperatures (650–750 °C). Our approach involves a fixed-bed reactor coupled with mass spectrometry and in situ Fourier transform infrared (FTIR) measurements to examine cyclic CO2 capture behavior, detailed physical and chemical properties, and morphology. The in situ FTIR results revealed the dominance of the RWGS route and exhibited self-catalytic activity across all calcium-based materials. Particularly, the natural limestone demonstrated a CO yield of 12.7 mmol g−1 with 100% CO selectivity and 81% CO2 conversion. Over the 20th cycle, a decrease in CO2 capture capacity was observed: sol-gel CaCO3, natural limestone, and commercial CaCO3 showed reductions of 44%, 61%, and 59%, respectively. This suggests inevitable deactivation during cyclic reactions in the ICCU-RWGS process, while the skeleton structure effectively prevents agglomeration in Ca-based materials, particularly in sol-gel CaCO3. These insights, coupled with the cost-effectiveness of CaO-alone DFMs, offer promising avenues for efficient and economically viable ICCU-RWGS processes.    
+
+    
+
+## Formate Dehydrogenase: Recent Developments for NADH and NADPH Recycling in Biocatalysis   
+
+OpenAlex: https://openalex.org/W4400982189    
+Open access: False
+    
+[Artur Maier](https://openalex.org/A5059230884), [Lindelo M. Mguni](https://openalex.org/A5105049829), [Anna Ngo](https://openalex.org/A5055809666), [Dirk Tischler](https://openalex.org/A5001303954), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401021.
+    
+Formate dehydrogenases (FDHs) catalyze the oxidation of formate to CO2 while reducing NAD(P)+ to NAD(P)H and are classified into two main classes: metal‐dependent (Mo‐ or W‐containing) and metal‐independent FDHs. The latter are oxygen‐tolerant and relevant as a cofactor regeneration system for various bioprocesses and gained more and more attention due to their ability to catalyze the reverse CO2 reduction. This review gives an overview of metal‐independent FDHs, the recent advances made in this field, and their relevance for future applications in biocatalysis. This includes the exploitation of novel FDHs which have altered co‐substrate specificity as well as enzyme engineering approaches to improve process stability and general performance.    
 
     
 
@@ -953,6 +865,17 @@ Urea (NH2CONH2) production by electrosynthesis at mild conditions has been hampe
 
     
 
+## Briquette Shape Roles in Carbothermal Reduction Process of Limonitic Laterite Nickel   
+
+OpenAlex: https://openalex.org/W4400928252    
+Open access: False
+    
+[Fakhreza Abdul](https://openalex.org/A5066265154), [Afif Maulana Yusuf Ridarto](https://openalex.org/A5104990749), [Vuri Ayu Setyowati](https://openalex.org/A5056843410), [Yuli Setiyorini](https://openalex.org/A5012234676), [Sungging Pintowantoro](https://openalex.org/A5029618189), International Journal of Integrated Engineering. 16(1)] 2024.https://doi.org/10.30880/ijie.2024.16.01.003.
+    
+Lateritic ore carbothermalreduction is currently the focus of many researchers. This process uses a relatively lower temperature of operation than the smelting. Therefore, the carbothermal reduction process has a relatively lower primary energy demand and CO2 gas emissions. This research examines the appropriate briquette form to obtain the optimum recovery, concentration of nickel, and selective reduction of nickel, as well as analyzes the compounds/phases formed. The briquette in this study was formed into three different geometries, i.e., the pillow, spherical, and cylindrical forms. First, this research was carried out by mixing the raw materials and forming it into specified briquette forms. Second, the formed briquettes were put into a crucible. Third, the coal-limestone bed mixture was used to cover the briquettes. Then, the carbothermic reduction process was started by heating to 700 oC for 2 hours and continued to 1400 oC for 6 hours. Finally, the magnetic separation process was performed to separate the reduced briquettes. As a result, the cylindrical shape briquette obtained better results at 6.74% Ni, with a nickel recovery of 96.20% and a selectivity factor value of 10.39. The compounds formed after carbothermic reduction process products include FeNi, Fe3Si, and SiO2. In a spherical-shaped briquette, Fe3O4 and Mg2SiO4were found in the reduced product, indicating impurities in the reduced briquettes.    
+
+    
+
 ## Estrategias para Mejorar la Eficiencia Energética en Edificios de servicios públicos, en una Zona Climática Calurosa y Húmeda: Caso de Estudio en Guayaquil, Ecuador   
 
 OpenAlex: https://openalex.org/W4400977319    
@@ -972,17 +895,6 @@ Open access: True
 [Adriana Tokar](https://openalex.org/A5056127547), [Daniel Muntean](https://openalex.org/A5074014125), [Dănuț Tokar](https://openalex.org/A5084842362), [Daniel Bisorca](https://openalex.org/A5066339339), Energies. 17(15)] 2024.https://doi.org/10.3390/en17153673.
     
 The study was carried out to evaluate theoretically and in laboratory conditions the capacity of a hybrid heating and cooling system that sustainably uses thermal energy extracted from surface waters in order to decarbonize buildings located near water sources. The novelty of the research consists in the realization of two experimental systems, one for the rapid evaluation of the performance of the water–water heat pump heating system and one for the evaluation of the operating behavior of a cooling system with fan coil units. Starting with the heating and cooling demand, and the climatic and hydrological local characteristics, a hybrid system model for the heating and cooling of the analyzed building was established and implemented. The forecasted energy consumption and CO2 emissions for the operation of the new equipment were compared with the historical values of the old systems with which the building was equipped (thermal energy supply from the district heating and cooling system with an air conditioning unit). Also, the results were extrapolated for forecasting the energy potential of the surface waters. The study highlights a percentage reduction in annual energy consumption of 67.71% and CO2 emissions of 80.13% through the implementation of the hybrid system.    
-
-    
-
-## Briquette Shape Roles in Carbothermal Reduction Process of Limonitic Laterite Nickel   
-
-OpenAlex: https://openalex.org/W4400928252    
-Open access: False
-    
-[Fakhreza Abdul](https://openalex.org/A5066265154), [Afif Maulana Yusuf Ridarto](https://openalex.org/A5104990749), [Vuri Ayu Setyowati](https://openalex.org/A5056843410), [Yuli Setiyorini](https://openalex.org/A5012234676), [Sungging Pintowantoro](https://openalex.org/A5029618189), International Journal of Integrated Engineering. 16(1)] 2024.https://doi.org/10.30880/ijie.2024.16.01.003.
-    
-Lateritic ore carbothermalreduction is currently the focus of many researchers. This process uses a relatively lower temperature of operation than the smelting. Therefore, the carbothermal reduction process has a relatively lower primary energy demand and CO2 gas emissions. This research examines the appropriate briquette form to obtain the optimum recovery, concentration of nickel, and selective reduction of nickel, as well as analyzes the compounds/phases formed. The briquette in this study was formed into three different geometries, i.e., the pillow, spherical, and cylindrical forms. First, this research was carried out by mixing the raw materials and forming it into specified briquette forms. Second, the formed briquettes were put into a crucible. Third, the coal-limestone bed mixture was used to cover the briquettes. Then, the carbothermic reduction process was started by heating to 700 oC for 2 hours and continued to 1400 oC for 6 hours. Finally, the magnetic separation process was performed to separate the reduced briquettes. As a result, the cylindrical shape briquette obtained better results at 6.74% Ni, with a nickel recovery of 96.20% and a selectivity factor value of 10.39. The compounds formed after carbothermic reduction process products include FeNi, Fe3Si, and SiO2. In a spherical-shaped briquette, Fe3O4 and Mg2SiO4were found in the reduced product, indicating impurities in the reduced briquettes.    
 
     
 
@@ -1019,17 +931,6 @@ Climate change poses an unprecedented global challenge, which prompts nations to
 
     
 
-## Experimental sticking coefficients of CO and N_2 on sub-micrometric cosmic grain analogs   
-
-OpenAlex: https://openalex.org/W4400932893    
-Open access: False
-    
-[C. Stadler](https://openalex.org/A5105002418), [C. Laffon](https://openalex.org/A5000191987), [P. Parent](https://openalex.org/A5063348432), Astronomy and Astrophysics. None(None)] 2024.https://doi.org/10.1051/0004-6361/202449167.
-    
-Measuring the sticking coefficient of molecules pertinent to astrochemistry - such as CO - on substrates that mimic interstellar dust grains is crucial for the comprehensive understanding of gas-grain chemical processes. Although astrochemical models assume a sticking coefficient of 1, recent laboratory experiments on H2O and CO2 have revealed significantly lower values when measured on small grain analogs. As the effect of grain size on molecular adsorption has been largely ignored to date, further experiments are needed to determine the accretion rates of species known to freeze out on dust grains. Our aim is to determine the sticking coefficients of CO and N2 on sub-micrometric silicate and carbon grains. By quantifying realistic sticking coefficients on these dust grain analogs, we can improve the accuracy of astrochemists' predictions of molecular abundances as affected by gas-grain interactions. The molecules of interest were added to various substrates at 10 K in an ultra-high vacuum. The amount of adsorbate that stuck to the substrate was quantified using X-ray photoelectron spectroscopy. These quantities were compared to a reference with a sticking coefficient of 1, allowing the deduction of the sticking coefficient for each substrate. The average sticking coefficients of CO and N2 on grain analogs are 0.17 for CO and 0.14 for N2 on olivine powder, and 0.05 for CO and 0.07 on N2 on soot, instead of the presumed 1. This is in line with the low values previously reported for H2O and CO2 These laboratory results indicate that CO and N2 in addition to H2O and CO2 also exhibit a low sticking coefficient on dust grain analogs. It is thus necessary to reconsider the interactions between gaseous species and dust particles as a low-efficiency process. This reduction in accretion and reaction rates has important implications for how we understand astrochemistry.    
-
-    
-
 ## Co2(CO)8 as a CO-source for Pd-catalyzed Carbonylations: An Update   
 
 OpenAlex: https://openalex.org/W4400894681    
@@ -1038,6 +939,17 @@ Open access: False
 [Debarati Das](https://openalex.org/A5101801248), [Bhalchandra M. Bhanage](https://openalex.org/A5090644514), Current Organic Synthesis. 21(None)] 2024.https://doi.org/10.2174/0115701794302069240624045929.
     
 Abstract: Palladium-catalyzed carbonylative cross-coupling reactions with various carbon monoxide (CO) sources cultivate competent routes for the synthesis of bulk and value-added chemicals. However, the practical use of this odorless, inflammable, lethal gas has always raised a concern for chemists. The attention and advancement of various CO-surrogates is surely wel-comed as a green alternative to CO-gas. However, the main concern lies in the suitability and scalability of these CO-surrogate-driven reactions. Literature showed the progress of various ways to make in-situ CO from these CO surrogates. One of the most convenient sources is using metal carbonyls which are already known to lose CO easily. Among all the kinds, Mo(CO)6 gained much popularity but its toxic nature and demand for high temperatures restricted its use. However, Co2(CO)8 is popular as a catalyst but as an in-situ CO-source reports are scarce. This low-melting CO-releaser was found effective in flourishing aminocarbonylation, alkoxycar-bonylation, and reductive carbonylation under mild conditions. This mini-review portrays the recent developments of palladium-catalyzed carbonylation reactions using Co2(CO)8 as a CO source.    
+
+    
+
+## Experimental sticking coefficients of CO and N_2 on sub-micrometric cosmic grain analogs   
+
+OpenAlex: https://openalex.org/W4400932893    
+Open access: False
+    
+[C. Stadler](https://openalex.org/A5105002418), [C. Laffon](https://openalex.org/A5000191987), [P. Parent](https://openalex.org/A5063348432), Astronomy and Astrophysics. None(None)] 2024.https://doi.org/10.1051/0004-6361/202449167.
+    
+Measuring the sticking coefficient of molecules pertinent to astrochemistry - such as CO - on substrates that mimic interstellar dust grains is crucial for the comprehensive understanding of gas-grain chemical processes. Although astrochemical models assume a sticking coefficient of 1, recent laboratory experiments on H2O and CO2 have revealed significantly lower values when measured on small grain analogs. As the effect of grain size on molecular adsorption has been largely ignored to date, further experiments are needed to determine the accretion rates of species known to freeze out on dust grains. Our aim is to determine the sticking coefficients of CO and N2 on sub-micrometric silicate and carbon grains. By quantifying realistic sticking coefficients on these dust grain analogs, we can improve the accuracy of astrochemists' predictions of molecular abundances as affected by gas-grain interactions. The molecules of interest were added to various substrates at 10 K in an ultra-high vacuum. The amount of adsorbate that stuck to the substrate was quantified using X-ray photoelectron spectroscopy. These quantities were compared to a reference with a sticking coefficient of 1, allowing the deduction of the sticking coefficient for each substrate. The average sticking coefficients of CO and N2 on grain analogs are 0.17 for CO and 0.14 for N2 on olivine powder, and 0.05 for CO and 0.07 on N2 on soot, instead of the presumed 1. This is in line with the low values previously reported for H2O and CO2 These laboratory results indicate that CO and N2 in addition to H2O and CO2 also exhibit a low sticking coefficient on dust grain analogs. It is thus necessary to reconsider the interactions between gaseous species and dust particles as a low-efficiency process. This reduction in accretion and reaction rates has important implications for how we understand astrochemistry.    
 
     
 
@@ -1093,17 +1005,6 @@ Open access: False
 [Jonas Bueie](https://openalex.org/A5104988688), [Magnus Windfeldt](https://openalex.org/A5032606594), [Trond Andresen](https://openalex.org/A5003633600), Editorial Universidad de Sevilla eBooks. None(None)] 2024.https://doi.org/10.12795/9788447227457_103.
     
 Increased utilization of industrial surplus heat can make significant contributions towards reaching energy efficiency and emissions reduction goals. The off-gas from metal production smelters can contain large amounts of thermal energy, and conversion to electric power often appears an enticing prospect. However, the practical potential for exploitation can be significantly reduced from plant processes that are designed considering surplus heat as a waste product to get rid of. This typically makes the heat accessible only at reduced temperatures. The HighEFF research centre for industrial energy efficiency has studied technologies, applications, and cases for surplus heat utilization since its start in 2016. Heat-to-power conversion has been explored in several cases provided by the partner industries from – among others – Norwegian aluminium manufacturers. Centre research activities also include novel production processes and modifications, which has side effects providing very different conditions and constraints for energy recovery. One such process modification is off-gas recirculation, mainly developed to increase concentration of CO2 in the off-gas to improve conditions for CO2 capture in the future, but which also will alter off-gas temperature and recoverable heat as a side effect. This could improve the potential for energy recovery. In this work, the potential for energy recovery is evaluated and compared in four cases – one representing a current aluminium process, and three future process scenarios with flue gas recycling. The simulated heat-to-power conversion is done by applying an organic Rankine cycle (ORC) optimization model to each case. The results indicate significant benefits to energy recovery in the recycling cases. In the case with the highest recycling rate and flue gas temperature, the potential for electric power production increases by 270 % compared to the present-day case. In addition, the reduced work of the main exhaust fans in the recycling cases brings further energy savings on the system level equivalent to 25–50 % of the ORC power output, further increasing overall energy efficiency. From this, some potential synergies between process design, heat-to-power, and thermal integration of other technologies such as CO2-capture are discussed.    
-
-    
-
-## Cultivating, harvesting and processing microalgae for biodiesel production   
-
-OpenAlex: https://openalex.org/W4400849182    
-Open access: False
-    
-[Donald P. Campbell](https://openalex.org/A5071443039), [Christian Schröder](https://openalex.org/A5077218078), [John Sherman](https://openalex.org/A5006135736), [E. Sitzer](https://openalex.org/A5104854242), [B. Uhler](https://openalex.org/A5104880094), [A. Pourmovahed](https://openalex.org/A5083314124), No host. 2(None)] 2024.https://doi.org/10.24084/eqj24.225.
-    
-In recent years, sustainable aviation fuels (SAF) have been gaining popularity as an alternative to conventional jet fuel due to their smaller carbon footprint. It has been estimated that their use will result in a 65% reduction in CO2 emissions. SAF can be produced by using waste oil, animal fat, plant-based oil or municipal waste. One promising feedstock for SAF production is alga as it grows quickly under the right conditions and may contain 50% oil. In this student project, algae species were reviewed, and one was chosen based on its growth speed and lipid-producing characteristics. A photobioreactor was designed and built. The algae grown were monitored and harvested. Due to the short duration of this project and difficulties in extracting the algae and a malfunctioning ultrasonic bath, the oil extracted was not sufficient for conversion into biodiesel. The heat of combustion of the produced fuel from used cooking oil was measured. The lessons learned are discussed. Key words. Photobioreactor, Biodiesel, Microalgae    
 
     
 
@@ -1231,9 +1132,9 @@ Pollution generated by the automotive sector is one of the biggest concerns in t
 ## Switching off Competing Hydrogen Formation in CO2 Electroreduction via Substrate Defect Engineering   
 
 OpenAlex: https://openalex.org/W4401000461    
-Open access: False
+Open access: True
     
-[Lei Wang](https://openalex.org/A5100435866), [Haozhou Yang](https://openalex.org/A5007921737), [Na Guo](https://openalex.org/A5048313381), [Shibo Xi](https://openalex.org/A5031292832), [Haiyuan Zou](https://openalex.org/A5037340591), [Jiayi Chen](https://openalex.org/A5100609074), [Lei Fan](https://openalex.org/A5022239454), [Yukun Xiao](https://openalex.org/A5023257092), [Qian He](https://openalex.org/A5051694258), [Lele Duan](https://openalex.org/A5047901288), [Pengfei Wei](https://openalex.org/A5030557634), [Guoxiong Wang](https://openalex.org/A5020450516), [Chun Zhang](https://openalex.org/A5100763540), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4772767/v1.
+[Lei Wang](https://openalex.org/A5100435866), [Haozhou Yang](https://openalex.org/A5007921737), [Na Guo](https://openalex.org/A5048313381), [Shibo Xi](https://openalex.org/A5031292832), [Haiyuan Zou](https://openalex.org/A5037340591), [Jiayi Chen](https://openalex.org/A5100609074), [Lei Fan](https://openalex.org/A5022239454), [Yukun Xiao](https://openalex.org/A5023257092), [Qian He](https://openalex.org/A5051694258), [Lele Duan](https://openalex.org/A5047901288), [Pengfei Wei](https://openalex.org/A5030557634), [Guoxiong Wang](https://openalex.org/A5020450516), [Chun Zhang](https://openalex.org/A5100763540), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4772767/v1 ([pdf](https://www.researchsquare.com/article/rs-4772767/latest.pdf)).
     
 Abstract Carbon nanotubes (CNTs) have emerged as effective substrates for immobilizing molecular catalysts towards many electrocatalytic reactions, such as CO2 reduction (CO2R). However, despite the prevailing notion of strong π-π stackings between the molecular catalyst and CNTs, our understanding of their interactions remains inadequate. Here, we employ functionalized nickel phthalocyanines (NiPc), established CO2R catalysts, immobilized on CNTs as a model system to investigate the catalyst/substrate interactions. Firstly, we find that NiPc-catalysts preferentially anchor on the defects on CNTs rather than adhering via π-π interaction with the ideal graphene-like CNT surface, a finding further validated by theoretical simulations. Consequently, we observe the least uniform NiPc-catalysts distributions on CNTs when the defect-content is the lowest. Notably, this combination exhibits the highest CO2R selectivity and activity despite the non-uniform catalyst distributions. Through operando X-ray adsorption spectroscopy and theoretical simulations, we reveal that high CNT defect-contents tend to induce substantial D4h symmetry breaking of the NiPc plane under cathodic potential, consequently resulting in reduced CO2R selectivity and activity. Therefore, maintaining a low to moderate defect level on CNTs is critical. Guided by this understanding, we fine-tune the defect-level of CNTs through graphitization, achieving an unprecedently high selectivity for CO2 to CO conversion (CO to H2 molar ratio exceeding 16100:1, a remarkable suppression of hydrogen evolution by three orders of magnitude) and improved intrinsic-activity (turnover frequency of 1072 s−1 at −0.60 V vs. reversible hydrogen electrode) on an optimized Ni-Pc/CNTs composite. Furthermore, we achieved practical relevant CO production in a zero-gap electrolyzer (electrode size of 100 cm-2), reaching high current (up to 50 A), with high CO selectivity (> 95%) and reasonably low cell voltage (approximately 3.5 V), substantially outperforming the state-of-the-art silver catalyst. Moreover, we extend this knowledge to a Co-based molecular catalyst, achieving a high Faradaic efficiency (over 50%) towards methanol production with a high partial current density over 150 mA cm−2. Overall, our findings underscore the significance of tuning defect levels on CNT substrates for achieving desired performance for immobilized molecular catalysts.    
 

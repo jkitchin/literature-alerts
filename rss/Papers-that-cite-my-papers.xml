@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Jul 2024 01:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 01:13:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mitigating oxygen reduction reaction barriers: An in-depth first-principles exploration of high-entropy alloy as catalysts</title>
-      <link>https://doi.org/10.1016/j.elecom.2024.107782</link>
-      <description>Mingyi Chen, Ngoc Thanh Thuy Tran, Wen-Dung Hsu, Electrochemistry communications. None(None)] 2024. https://openalex.org/W4400849852
-
-                No abstract</description>
-      <author>Mingyi Chen, Ngoc Thanh Thuy Tran, Wen-Dung Hsu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.elecom.2024.107782</guid>
-    </item>
-    <item>
-      <title>Organic Synthesis Catalyzed by Supported Metal Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1007/978-981-97-4573-9_4</link>
-      <description>Ming Bao, Jiasheng Wang, Xiujuan Feng, Jingjie Luo, Jian Sun, Molecular catalysis. None(None)] 2024. https://openalex.org/W4400850787
-
-                No abstract</description>
-      <author>Ming Bao, Jiasheng Wang, Xiujuan Feng, Jingjie Luo, Jian Sun</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-4573-9_4</guid>
-    </item>
-    <item>
-      <title>Hierarchical Modeling of the Local Reaction Environment in Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.accounts.4c00234</link>
-      <description>Xinwei Zhu, Jun Huang, Michael Eikerling, Accounts of chemical research. None(None)] 2024. https://openalex.org/W4400851781
-
-                ConspectusElectrocatalytic reactions, such as oxygen reduction/evolution reactions and CO</description>
-      <author>Xinwei Zhu, Jun Huang, Michael Eikerling</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.accounts.4c00234</guid>
-    </item>
-    <item>
-      <title>Modelling chemical processes in explicit solvents with machine learning potentials</title>
-      <link>https://doi.org/10.1038/s41467-024-50418-6</link>
-      <description>Hanwen Zhang, Veronika Jur&#225;skov&#225;, Fernanda Duarte, Nature communications. 15(1)] 2024. https://openalex.org/W4400857864
-
-                Abstract Solvent effects influence all stages of the chemical processes, modulating the stability of intermediates and transition states, as well as altering reaction rates and product ratios. However, accurately modelling these effects remains challenging. Here, we present a general strategy for generating reactive machine learning potentials to model chemical processes in solution. Our approach combines active learning with descriptor-based selectors and automation, enabling the construction of data-efficient training sets that span the relevant chemical and conformational space. We apply this strategy to investigate a Diels-Alder reaction in water and methanol. The generated machine learning potentials enable us to obtain reaction rates that are in agreement with experimental data and analyse the influence of these solvents on the reaction mechanism. Our strategy offers an efficient approach to the routine modelling of chemical reactions in solution, opening up avenues for studying complex chemical processes in an efficient manner.</description>
-      <author>Hanwen Zhang, Veronika Jur&#225;skov&#225;, Fernanda Duarte</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50418-6</guid>
-    </item>
     <item>
       <title>Two-Dimensional Conductive Metal-Organic Frameworks Electrocatalyst: Design Principle and Energy Conversion Applications</title>
       <link>https://doi.org/10.1016/j.mtener.2024.101652</link>
@@ -56,46 +16,6 @@
       <author>Xiaogang Wang, Rahul Anil Borse, Gui Wang, Zhe Xiao, Hua Zhu, Yiling Sun, Zhengfang Qian, Shuaiqi Zhong, Renheng Wang</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101652</guid>
-    </item>
-    <item>
-      <title>Utilizing cost-effective pyrocarbon for highly efficient gold retrieval from e-waste leachate</title>
-      <link>https://doi.org/10.1038/s41467-024-50595-4</link>
-      <description>Kaixing Fu, Xia Liu, Xiaolin Zhang, Shenghui Zhou, Nanwen Zhu, Yong Pei, Jinming Luo, Nature Communications. 15(1)] 2024. https://openalex.org/W4400847545
-
-                Abstract Addressing burdens of electronic waste (E-waste) leachate while achieving sustainable and selective recovery of noble metals, such as gold, is highly demanded due to its limited supply and escalating prices. Here we demonstrate an environmentally-benign and practical approach for gold recovery from E-waste leachate using alginate-derived pyrocarbon sorbent. The sorbent demonstrates potent gold recovery performance compared to most previously reported advanced sorbents, showcasing high recovery capacity of 2829.7 mg g &#8722;1 , high efficiency (&gt;99.5%), remarkable selectivity ( K d ~ 3.1 &#215; 10 8 mL g &#8722;1 ), and robust anti-interference capabilities within environmentally relevant contexts. The aromatic structures of pyrocarbon serve as crucial electrons sources, enabling a hydroxylation process that simultaneously generates electrons and phenolic hydroxyls for the reduction of gold ions. Our investigations further uncover a &#8220;stepwise&#8221; nucleation mechanism, in which gold ions are reduced as intermediate gold-chlorine clusters, facilitating rapid reduction process by lowering energy barriers from 1.08 to &#8722;21.84 eV. Technoeconomic analysis demonstrates its economic viability with an input-output ratio as high as 1370%. Our protocol obviates the necessity for organic reagents whilst obtaining 23.96 karats gold product from real-world central processing units (CPUs) leachates. This work introduces a green sorption technique for gold recovery, emphasizing its role in promoting a circular economy and environmental sustainability.</description>
-      <author>Kaixing Fu, Xia Liu, Xiaolin Zhang, Shenghui Zhou, Nanwen Zhu, Yong Pei, Jinming Luo</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50595-4</guid>
-    </item>
-    <item>
-      <title>In situ Regulating the Phase Structure of Ce-based Catalytic Sites to Boost the Performance of Zinc-Air Batteries</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.110030</link>
-      <description>Jianping Liu, Yuanbin Jin, Rong Jin, Yao Liu, Zili Ma, Chaozhong Guo, Lei Yu, Lingtao Sun, Haifeng Chen, Yujun Si, Sha Li, Honglin Li, Nano Energy. None(None)] 2024. https://openalex.org/W4400849460
-
-                No abstract</description>
-      <author>Jianping Liu, Yuanbin Jin, Rong Jin, Yao Liu, Zili Ma, Chaozhong Guo, Lei Yu, Lingtao Sun, Haifeng Chen, Yujun Si, Sha Li, Honglin Li</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.110030</guid>
-    </item>
-    <item>
-      <title>Metallocorroles as bifunctional electrocatalysts for water-splitting: A theoretical investigation</title>
-      <link>https://doi.org/10.1016/j.molliq.2024.125535</link>
-      <description>Akbar Omidvar, Hadise Soleymani, Journal of Molecular Liquids. None(None)] 2024. https://openalex.org/W4400849829
-
-                No abstract</description>
-      <author>Akbar Omidvar, Hadise Soleymani</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.molliq.2024.125535</guid>
-    </item>
-    <item>
-      <title>Alkaline Electrochemical Oxygen Reduction Boosted by Trimetallic Palladium&#8211;Copper&#8211;Gold Nanoparticles</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.175630</link>
-      <description>M.D. Obradovi&#263;, U.&#268;. La&#269;njevac, V. Radmilovi&#263;, A. Gavrilovi&#263;, Janez Kova&#269;, Jelena Rogan, Sanja Stevanovi&#263;, Velimir Radmilovi&#263;, S.Lj. Gojkovi&#263;, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4400849958
-
-                No abstract</description>
-      <author>M.D. Obradovi&#263;, U.&#268;. La&#269;njevac, V. Radmilovi&#263;, A. Gavrilovi&#263;, Janez Kova&#269;, Jelena Rogan, Sanja Stevanovi&#263;, Velimir Radmilovi&#263;, S.Lj. Gojkovi&#263;</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175630</guid>
     </item>
     <item>
       <title>Selective reduction of CO2 to ethanol over Si/Cu(1 1 1) surface: An insights from the first-principles calculations</title>
@@ -462,7 +382,7 @@
       <link>https://doi.org/10.1038/s41467-024-50670-w</link>
       <description>Xinhong Chen, Yumeng Cheng, Bo Zhang, Jia Zhou, Sisi He, Nature Communications. 15(1)] 2024. https://openalex.org/W4400981079
 
-                No abstract</description>
+                Electrocatalytic nitrate reduction to ammonia holds great promise for developing green technologies for electrochemical ammonia energy conversion and storage. Considering that real nitrate resources often exhibit low concentrations, it is challenging to achieve high activity in low-concentration nitrate solutions due to the competing reaction of the hydrogen evolution reaction, let alone considering the catalyst lifetime. Herein, we present a high nitrate reduction performance electrocatalyst based on a Co nanosheet structure with a gradient dispersion of Ru, which yields a high NH</description>
       <author>Xinhong Chen, Yumeng Cheng, Bo Zhang, Jia Zhou, Sisi He</author>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50670-w</guid>
@@ -616,16 +536,6 @@
       <author>Pingping Wang, Ada Josefina Robinson, Stavros Papadokonstantakis</author>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fenrg.2024.1412770</guid>
-    </item>
-    <item>
-      <title>Exploring the Photophysics and Photocatalytic Activity of Heteroleptic Rh(III) Transition-Metal Complexes Using High-Throughput Experimentation</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c02420</link>
-      <description>Stephen DiLuzio, Mitchell A. Baumer, R. Guzm&#225;n, Husain N. Kagalwala, Eric M. Lopato, Savannah Talledo, Joshua Kangas, Stefan Bernhard, Inorganic chemistry. None(None)] 2024. https://openalex.org/W4400849302
-
-                High-throughput synthesis and screening (HTSS) methods were used to investigate the photophysical properties of 576 heteroleptic Rh(III) transition-metal complexes through measurement of the UV-visible absorption spectra, deaerated excited-state lifetime, and phosphorescent emission spectra. While 4d transition-metal photophysics are often highly influenced by deleterious metal-centered deactivation channels, the HTSS of structurally diverse cyclometalating and ancillary ligands attached to the metal center facilitated the discovery of photoactive complexes exhibiting long-lived charge-transfer phosphorescence (0.15-0.95 &#956;s) spanning a substantial portion of the visible region (546-620 nm) at room temperature. Further photophysical and electrochemical investigations were then carried out on select complexes with favorable photophysics to understand the underlying features controlling these superior properties. Heteroleptic Ir(III) complexes with identical ligand morphology were also synthesized to compare these features to this family of well understood chromophores. A number of these Rh(III) complexes contained the requisite properties for photocatalytic activity and were consequently tested as photocatalysts (PCs) in a water reduction system using a Pd water reduction cocatalyst. Under certain conditions, the activity of the Rh(III) PC actually surpassed that of the Ir(III) PC, uncovering the potential of this often-overlooked class of transition metals as both efficient photoactive chromophores and PCs.</description>
-      <author>Stephen DiLuzio, Mitchell A. Baumer, R. Guzm&#225;n, Husain N. Kagalwala, Eric M. Lopato, Savannah Talledo, Joshua Kangas, Stefan Bernhard</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c02420</guid>
     </item>
     <item>
       <title>Synergy of Tm-Based Dual-Atom Catalysts Supported by B,N-Doped Biphenylene for Carbon Dioxide Reduction Reaction</title>

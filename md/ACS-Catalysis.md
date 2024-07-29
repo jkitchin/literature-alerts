@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jul 28 01:16:36 2024
+Created on Mon Jul 29 01:13:09 2024
 
-Found 37 results from 2024-07-21 to 2024-07-28
+Found 33 results from 2024-07-22 to 2024-07-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Identification of the Potassium-Related Species as the Key Active Sites for C–S Bond Couplings over K-MoS2 Materials   
-
-OpenAlex: https://openalex.org/W4400849293    
-Open access: False
-    
-[Jiehong Fang](https://openalex.org/A5075024696), [Jichang Lu](https://openalex.org/A5087446171), [Bihui He](https://openalex.org/A5081323591), [Zhipeng Xu](https://openalex.org/A5006753263), [Min Luo](https://openalex.org/A5101565172), [Tianpeng Song](https://openalex.org/A5025930282), [Sheng Wang](https://openalex.org/A5100371335), [Chuanyun Qin](https://openalex.org/A5102679698), [Zupeng Chen](https://openalex.org/A5044243872), [Yongming Luo](https://openalex.org/A5044967926), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02672.
-    
-No abstract    
-
-    
-
-## Probing Ferryl Reactivity in a Nonheme Iron Oxygenase Using an Expanded Genetic Code   
-
-OpenAlex: https://openalex.org/W4400851308    
-Open access: True
-    
-[Florence J. Hardy](https://openalex.org/A5074254221), [Matthew G. Quesne](https://openalex.org/A5065464233), [Emilie F. Gérard](https://openalex.org/A5040008758), [Jingming Zhao](https://openalex.org/A5101772548), [Mary Ortmayer](https://openalex.org/A5042290896), [Christopher J. Taylor](https://openalex.org/A5102016139), [Hafiz Saqib Ali](https://openalex.org/A5088487590), [Jeffrey W. Slater](https://openalex.org/A5029471963), [Colin Levy](https://openalex.org/A5066313809), [Derren J. Heyes](https://openalex.org/A5018819443), [J. Martin Bollinger](https://openalex.org/A5076704150), [Sam P. de Visser](https://openalex.org/A5016167248), [Anthony P. Green](https://openalex.org/A5004151092), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02365.
-    
-No abstract    
-
-    
-
-## Cobalt-Catalyzed (3 + 2) Cycloaddition of Cyclopropene-Tethered Alkynes: Versatile Access to Bicyclic Cyclopentadienyl Systems and Their CpM Complexes   
-
-OpenAlex: https://openalex.org/W4400851791    
-Open access: True
-    
-[Carlos Lázaro‐Milla](https://openalex.org/A5039597979), [Eduardo da Concepción](https://openalex.org/A5084827348), [Israel Fernández](https://openalex.org/A5009883474), [José L. Mascareñas](https://openalex.org/A5061612775), [Fernando López](https://openalex.org/A5100710034), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03080.
-    
-No abstract    
-
-    
-
-## Distance-Dependent Charge Redistribution Boosts Hydrogen Evolution in Hybrid Catalysts   
-
-OpenAlex: https://openalex.org/W4400851816    
-Open access: False
-    
-[Xinzhang Lin](https://openalex.org/A5086193630), [Yifan Li](https://openalex.org/A5100427010), [Wei Tu](https://openalex.org/A5101934722), [Zhi Li](https://openalex.org/A5100382337), [Jia Li](https://openalex.org/A5100454297), [Dongze Li](https://openalex.org/A5043976050), [Nanfeng Xu](https://openalex.org/A5056972184), [Chao Wang](https://openalex.org/A5100407092), [Yi Lu](https://openalex.org/A5049061736), [Song Jin](https://openalex.org/A5007824208), [Hengxing Ji](https://openalex.org/A5011735351), [Wei Liu](https://openalex.org/A5100431810), [Guoxiong Wang](https://openalex.org/A5020450516), [Junyuan Xu](https://openalex.org/A5067389666), [Zhangquan Peng](https://openalex.org/A5034722101), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01396.
-    
-No abstract    
-
-    
 
 ## Engineering Reaction Pathway to Harmonize the Competition between NRR and HER for Efficient Photocatalytic Ammonia Synthesis   
 

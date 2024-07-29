@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Jul 2024 01:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 01:13:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Structural crystal engineering for energy: Unleashing the potential of metal-organic frameworks for photocatalytic reduction of carbon dioxide</title>
-      <link>https://doi.org/10.1016/j.mtchem.2024.102197</link>
-      <description>Sirisha Subbareddy, Santhosh Arehalli Shivamurthy, Srujan Basavapura Ravikumar, M.K. Hema, Sandeep Shadakshari, Manickam Selvaraj, Sanjay Basumatary, Materials Today Chemistry. 40(None)] 2024. https://openalex.org/W4400851293
-
-                No abstract</description>
-      <author>Sirisha Subbareddy, Santhosh Arehalli Shivamurthy, Srujan Basavapura Ravikumar, M.K. Hema, Sandeep Shadakshari, Manickam Selvaraj, Sanjay Basumatary</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtchem.2024.102197</guid>
-    </item>
     <item>
       <title>Improving the Roughness of Copper Working Electrode through Electroless Deposition for Carbon Dioxide Reduction Reaction</title>
       <link>https://doi.org/10.1016/j.materresbull.2024.113013</link>
@@ -188,36 +178,6 @@
       <guid isPermaLink="true">https://doi.org/10.1093/nsr/nwae253</guid>
     </item>
     <item>
-      <title>Electrolyte Composition&#8208;Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal&#8208;Organic Framework Catalyst</title>
-      <link>https://doi.org/10.1002/ange.202411766</link>
-      <description>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401022535
-
-                A copper porphyrin&#8208;derived metal&#8208;organic framework electrocatalyst, FICN&#8208;8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN&#8208;8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst&#8208;bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.</description>
-      <author>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao</author>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202411766</guid>
-    </item>
-    <item>
-      <title>A REVIEW OF THE SYNTHESIS, CHARACTERIZATION, AND MECHANISM OF BIMETALLIC CATALYSTS FOR ELECTROCATALYTIC CO2 REDUCTION</title>
-      <link>https://doi.org/10.1016/j.carbon.2024.119341</link>
-      <description>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang, Carbon. 228(None)] 2024. https://openalex.org/W4400937635
-
-                No abstract</description>
-      <author>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119341</guid>
-    </item>
-    <item>
-      <title>Electrolyte Composition&#8208;Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal&#8208;Organic Framework Catalyst</title>
-      <link>https://doi.org/10.1002/anie.202411766</link>
-      <description>Shiliang Pu, Tao Huang, Duan&#8211;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401022814
-
-                A copper porphyrin&#8208;derived metal&#8208;organic framework electrocatalyst, FICN&#8208;8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN&#8208;8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst&#8208;bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.</description>
-      <author>Shiliang Pu, Tao Huang, Duan&#8211;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao</author>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202411766</guid>
-    </item>
-    <item>
       <title>Direct quantification of electrochemical CO2 reduction products with an improved DEMS setup</title>
       <link>https://doi.org/10.1016/j.checat.2024.101065</link>
       <description>Dani&#235;l van den Berg, Hendrik Paul Lopuha&#228;, Ruud Kortlever, Chem Catalysis. None(None)] 2024. https://openalex.org/W4400916115
@@ -238,14 +198,34 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154256</guid>
     </item>
     <item>
-      <title>A First-Principles Study on the Reaction Mechanisms of Electrochemical CO2 Reduction to C1 and C2 Products on Cu(110)</title>
-      <link>https://doi.org/10.3390/catal14070468</link>
-      <description>Yangyang Xu, Lixin Zhang, Catalysts. 14(7)] 2024. https://openalex.org/W4400873071
+      <title>Electrolyte Composition&#8208;Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal&#8208;Organic Framework Catalyst</title>
+      <link>https://doi.org/10.1002/anie.202411766</link>
+      <description>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401022814
 
-                The mechanism of the electrochemical CO2 reduction reaction on a Cu(110) surface has yet to be fully revealed. In this work, based on first-principles calculations, we investigate the mechanisms of the CO2 reduction reaction to produce C1 (including one C atom) and C2 (including two C atoms) products on a Cu(110) surface. The results show that CH4 and C2H5OH are the main C1 and C2 products on the Cu(110) surface, respectively. CH4 is produced along the pathway CO2 &#8594; COOH* &#8594; CO* &#8594; CHO* &#8594; CH2O* &#8594; CH3O* &#8594; CH4. C2H5OH is produced via the C-C coupling pathway between CO* and CH2O* intermediates, which is the key reaction step. This is because CO* and CH2O* coupling to CO-CH2O* has the lowest barrier among the CHxO* (x = 0&#8211;2) coupling pathways. Therefore, it is the most likely C-C coupling pathway. Further, CO-CH2O* is gradually hydrogenated to C2H5OH along the following pathway: CO-CH2O* &#8594; CHO-CH2O* &#8594; CHOH-CH2* &#8594; CH2OH-CH2* &#8594; CH2OH-CH3* &#8594; C2H5OH.</description>
-      <author>Yangyang Xu, Lixin Zhang</author>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14070468</guid>
+                A copper porphyrin-derived metal-organic framework electrocatalyst, FICN-8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN-8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst-bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.</description>
+      <author>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao</author>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202411766</guid>
+    </item>
+    <item>
+      <title>A REVIEW OF THE SYNTHESIS, CHARACTERIZATION, AND MECHANISM OF BIMETALLIC CATALYSTS FOR ELECTROCATALYTIC CO2 REDUCTION</title>
+      <link>https://doi.org/10.1016/j.carbon.2024.119341</link>
+      <description>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang, Carbon. 228(None)] 2024. https://openalex.org/W4400937635
+
+                No abstract</description>
+      <author>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119341</guid>
+    </item>
+    <item>
+      <title>Electrolyte Composition&#8208;Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal&#8208;Organic Framework Catalyst</title>
+      <link>https://doi.org/10.1002/ange.202411766</link>
+      <description>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401022535
+
+                A copper porphyrin&#8208;derived metal&#8208;organic framework electrocatalyst, FICN&#8208;8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN&#8208;8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst&#8208;bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.</description>
+      <author>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao</author>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202411766</guid>
     </item>
     <item>
       <title>Advanced progress in constructing carbon-coated metal materials for electrocatalytic CO2 reduction</title>
@@ -256,6 +236,16 @@
       <author>Qinyun Yan, Wei Wen, Lan Qiang, Chunmei Liu, Yang Gao, Jiamin Ma, Peipei Zhao, He Xiao, Junwei Wu, Man Zhao, Jianfeng Jia</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175705</guid>
+    </item>
+    <item>
+      <title>A First-Principles Study on the Reaction Mechanisms of Electrochemical CO2 Reduction to C1 and C2 Products on Cu(110)</title>
+      <link>https://doi.org/10.3390/catal14070468</link>
+      <description>Yangyang Xu, Lixin Zhang, Catalysts. 14(7)] 2024. https://openalex.org/W4400873071
+
+                The mechanism of the electrochemical CO2 reduction reaction on a Cu(110) surface has yet to be fully revealed. In this work, based on first-principles calculations, we investigate the mechanisms of the CO2 reduction reaction to produce C1 (including one C atom) and C2 (including two C atoms) products on a Cu(110) surface. The results show that CH4 and C2H5OH are the main C1 and C2 products on the Cu(110) surface, respectively. CH4 is produced along the pathway CO2 &#8594; COOH* &#8594; CO* &#8594; CHO* &#8594; CH2O* &#8594; CH3O* &#8594; CH4. C2H5OH is produced via the C-C coupling pathway between CO* and CH2O* intermediates, which is the key reaction step. This is because CO* and CH2O* coupling to CO-CH2O* has the lowest barrier among the CHxO* (x = 0&#8211;2) coupling pathways. Therefore, it is the most likely C-C coupling pathway. Further, CO-CH2O* is gradually hydrogenated to C2H5OH along the following pathway: CO-CH2O* &#8594; CHO-CH2O* &#8594; CHOH-CH2* &#8594; CH2OH-CH2* &#8594; CH2OH-CH3* &#8594; C2H5OH.</description>
+      <author>Yangyang Xu, Lixin Zhang</author>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14070468</guid>
     </item>
     <item>
       <title>Zn-Cu Bimetallic Gas Diffusion Electrodes for Electrochemical Reduction of CO2 to Ethylene</title>
@@ -286,16 +276,6 @@
       <author>Mathilde Ernst, Merete Tangstad, S.P. du Preez</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mineng.2024.108854</guid>
-    </item>
-    <item>
-      <title>Pincer Shaped N-Mesoionic Pyridylidene Amide (PYA) for Palladium Catalyzed CO2 Reduction</title>
-      <link>https://doi.org/10.1016/j.molstruc.2024.139347</link>
-      <description>Afshan Khurshid, Muhammad Nawaz Tahir, Faroha Liaqat, Maqsood Ahmed, Ehsan Ullah Mughal, M.N. Zafar, Journal of molecular structure. None(None)] 2024. https://openalex.org/W4400855941
-
-                No abstract</description>
-      <author>Afshan Khurshid, Muhammad Nawaz Tahir, Faroha Liaqat, Maqsood Ahmed, Ehsan Ullah Mughal, M.N. Zafar</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.molstruc.2024.139347</guid>
     </item>
     <item>
       <title>Mechanism Investigation of Direct Electrochemical Reduction of Co2-Loaded 2-(Ethylamino)Ethanol Solution into Co</title>
@@ -348,16 +328,6 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0218066</guid>
     </item>
     <item>
-      <title>CO2 transformed into highly active catalysts for the oxygen reduction reaction via low-temperature molten salt electrolysis</title>
-      <link>https://doi.org/10.1016/j.elecom.2024.107781</link>
-      <description>Anna-Liis Remmel, Sander Ratso, Kerli Liivand, Mati Danilson, Valdek Mikli, Ivar Kruusenberg, Electrochemistry Communications. None(None)] 2024. https://openalex.org/W4400858753
-
-                No abstract</description>
-      <author>Anna-Liis Remmel, Sander Ratso, Kerli Liivand, Mati Danilson, Valdek Mikli, Ivar Kruusenberg</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.elecom.2024.107781</guid>
-    </item>
-    <item>
       <title>Electrochemical co-reduction of N2 and CO2 to urea using In2S3 anchored on S-doped reduced graphene oxide</title>
       <link>https://doi.org/10.1016/j.jelechem.2024.118516</link>
       <description>Xinyi Chen, Pingxing Xing, Shenqi Wei, Hualan Luo, Liyi Dai, Yuanyuan Wang, Journal of electroanalytical chemistry. None(None)] 2024. https://openalex.org/W4400866323
@@ -398,16 +368,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16146232</guid>
     </item>
     <item>
-      <title>Electro-synthesis of valuable products by coupling energy-saving anodic alcohol oxidation reaction with cathodic CO2 reduction reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.223</link>
-      <description>Faiza Zulfiqar, Farhan Arshad, Tanveer ul Haq, Falak Sher, International journal of hydrogen energy. 80(None)] 2024. https://openalex.org/W4400863957
-
-                No abstract</description>
-      <author>Faiza Zulfiqar, Farhan Arshad, Tanveer ul Haq, Falak Sher</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.223</guid>
-    </item>
-    <item>
       <title>Selective reduction of CO2 to ethanol over Si/Cu(1 1 1) surface: An insights from the first-principles calculations</title>
       <link>https://doi.org/10.1016/j.comptc.2024.114781</link>
       <description>Chang Liu, Dan Wang, Boting Yang, Song Jiang, Gang Sun, Yong&#8208;Qing Qiu, Chun&#8208;Guang Liu, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4400867054
@@ -436,16 +396,6 @@
       <author>Mongur Hossain, Milla Suominen, Tanja Kallio</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144748</guid>
-    </item>
-    <item>
-      <title>Effects of electrochemical active surface area of Cu on electrochemical CO2 reduction in acidic electrolyte using Cu nanoparticles on surfactant-treated carbon</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115662</link>
-      <description>H.-J. Noh, Yoonsun Park, Ashutosh Bhadouria, Brian M. Tackett, Journal of catalysis. None(None)] 2024. https://openalex.org/W4400859814
-
-                No abstract</description>
-      <author>H.-J. Noh, Yoonsun Park, Ashutosh Bhadouria, Brian M. Tackett</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115662</guid>
     </item>
     <item>
       <title>N,S co-doped SnO2 catalysts in gas-liquid interface dielectric barrier discharge for formate formation via CO2 reduction</title>
@@ -518,16 +468,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta04387a</guid>
     </item>
     <item>
-      <title>Economic incentives to reduce Carbon Dioxide emissions from vehicles</title>
-      <link>https://doi.org/10.34925/eip.2021.135.10.045</link>
-      <description>&#1052;.&#1060;. &#1040;&#1075;&#1072;&#1084;&#1080;&#1088;&#1079;&#1086;&#1077;&#1074;, &#200;konomika i predprinimatel&#697;stvo. None(10(135))] 2022. https://openalex.org/W4400852626
-
-                &#1040;&#1082;&#1090;&#1091;&#1072;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100; &#1076;&#1072;&#1085;&#1085;&#1086;&#1075;&#1086; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1074; &#1090;&#1086;&#1084;, &#1095;&#1090;&#1086; &#1085;&#1077;&#1086;&#1073;&#1093;&#1086;&#1076;&#1080;&#1084;&#1086; &#1089;&#1085;&#1080;&#1079;&#1080;&#1090;&#1100; &#1074;&#1088;&#1077;&#1076;&#1085;&#1086;&#1077; &#1074;&#1083;&#1080;&#1103;&#1085;&#1080;&#1077; &#1074;&#1099;&#1073;&#1088;&#1086;&#1089;&#1086;&#1074; &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1077;&#1081;, &#1090;&#1072;&#1082; &#1082;&#1072;&#1082; &#1089; &#1082;&#1072;&#1078;&#1076;&#1099;&#1084; &#1075;&#1086;&#1076;&#1086;&#1084; &#1079;&#1072;&#1075;&#1088;&#1103;&#1079;&#1085;&#1077;&#1085;&#1080;&#1077; &#1074;&#1086;&#1079;&#1076;&#1091;&#1093;&#1072; &#1091;&#1074;&#1077;&#1083;&#1080;&#1095;&#1080;&#1074;&#1072;&#1077;&#1090;&#1089;&#1103;. &#1062;&#1077;&#1083;&#1100;&#1102; &#1076;&#1072;&#1085;&#1085;&#1086;&#1075;&#1086; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1103;&#1074;&#1083;&#1103;&#1077;&#1090;&#1089;&#1103; &#1088;&#1072;&#1079;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072; &#1084;&#1077;&#1090;&#1086;&#1076;&#1086;&#1074; &#1101;&#1082;&#1086;&#1085;&#1086;&#1084;&#1080;&#1095;&#1077;&#1089;&#1082;&#1086;&#1075;&#1086; &#1089;&#1090;&#1080;&#1084;&#1091;&#1083;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1089;&#1086;&#1082;&#1088;&#1072;&#1097;&#1077;&#1085;&#1080;&#1103; &#1074;&#1099;&#1073;&#1088;&#1086;&#1089;&#1086;&#1074; &#1057;&#1054;2 &#1072;&#1074;&#1090;&#1086;&#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1086;&#1084;. &#1044;&#1083;&#1103; &#1076;&#1086;&#1089;&#1090;&#1080;&#1078;&#1077;&#1085;&#1080;&#1081; &#1094;&#1077;&#1083;&#1077;&#1081; &#1087;&#1086;&#1089;&#1090;&#1072;&#1074;&#1083;&#1077;&#1085;&#1099; &#1089;&#1083;&#1077;&#1076;&#1091;&#1102;&#1097;&#1080;&#1077; &#1079;&#1072;&#1076;&#1072;&#1095;&#1080;: 1. &#1055;&#1088;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1072;&#1085;&#1072;&#1083;&#1080;&#1079; &#1074;&#1083;&#1080;&#1103;&#1085;&#1080;&#1103; &#1074;&#1099;&#1073;&#1088;&#1086;&#1089;&#1086;&#1074; &#1085;&#1072; &#1086;&#1082;&#1088;&#1091;&#1078;&#1072;&#1102;&#1097;&#1091;&#1102; &#1089;&#1088;&#1077;&#1076;&#1091;. 2. &#1056;&#1072;&#1089;&#1089;&#1084;&#1086;&#1090;&#1088;&#1077;&#1090;&#1100; &#1072;&#1089;&#1087;&#1077;&#1082;&#1090;&#1099; &#1101;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080; &#1091;&#1075;&#1083;&#1077;&#1082;&#1080;&#1089;&#1083;&#1086;&#1075;&#1086; &#1075;&#1072;&#1079;&#1072;. 3. &#1056;&#1072;&#1079;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1084;&#1077;&#1088;&#1086;&#1087;&#1088;&#1080;&#1103;&#1090;&#1080;&#1103; &#1087;&#1086; &#1089;&#1086;&#1082;&#1088;&#1072;&#1097;&#1077;&#1085;&#1080;&#1102; &#1074;&#1099;&#1073;&#1088;&#1086;&#1089;&#1086;&#1074; &#1057;02 &#1072;&#1074;&#1090;&#1086;&#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1086;&#1084;. 4. &#1055;&#1088;&#1077;&#1076;&#1083;&#1086;&#1078;&#1080;&#1090;&#1100; &#1084;&#1077;&#1088;&#1086;&#1087;&#1088;&#1080;&#1103;&#1090;&#1080;&#1103; &#1087;&#1086; &#1089;&#1090;&#1080;&#1084;&#1091;&#1083;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1102; &#1089;&#1086;&#1082;&#1088;&#1072;&#1097;&#1077;&#1085;&#1080;&#1103; &#1074;&#1099;&#1073;&#1088;&#1086;&#1089;&#1086;&#1074; &#1057;O2 &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1103;&#1084;&#1080;. &#1054;&#1073;&#1098;&#1077;&#1082;&#1090; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; -&#1089;&#1090;&#1080;&#1084;&#1091;&#1083;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1089;&#1086;&#1082;&#1088;&#1072;&#1097;&#1077;&#1085;&#1080;&#1103; &#1101;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080; &#1057;02 &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1099;&#1084; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1086;&#1084;. &#1055;&#1088;&#1077;&#1076;&#1084;&#1077;&#1090; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; -&#1101;&#1082;&#1086;&#1085;&#1086;&#1084;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077; &#1086;&#1090;&#1085;&#1086;&#1096;&#1077;&#1085;&#1080;&#1103;, &#1074;&#1086;&#1079;&#1085;&#1080;&#1082;&#1072;&#1102;&#1097;&#1080;&#1077; &#1074; &#1087;&#1088;&#1086;&#1094;&#1077;&#1089;&#1089;&#1077; &#1087;&#1088;&#1086;&#1074;&#1077;&#1076;&#1077;&#1085;&#1080;&#1103; &#1084;&#1077;&#1088;&#1086;&#1087;&#1088;&#1080;&#1103;&#1090;&#1080;&#1081; &#1087;&#1086; &#1089;&#1085;&#1080;&#1078;&#1077;&#1085;&#1080;&#1102; &#1101;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080; &#1057;02 &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1099;&#1084; &#1090;&#1088;&#1072;&#1085;&#1089;&#1087;&#1086;&#1088;&#1090;&#1086;&#1084;. The relevance of this study is that it is necessary to reduce the harmful effect of car emissions, since air pollution is increasing every year. The purpose of this study is to develop methods of economic incentives to reduce CO2 emissions from vehicles. To achieve the goals, the following tasks have been set: 1. Conductan analysis of the impact of emissions on the environment. 2. Consider aspects of carbon dioxide emissions. 3.Develop measures to reduce CO2 emissions from vehicles. 4. Propose measures to stimulate the reduction ofCO2 emissions from vehicles. The object of the study is to stimulate the reduction of CO2 emissions by roadtransport. The subject of the research is economic relations arising in the process of carrying out measures toreduce CO2 emissions by road transport.</description>
-      <author>&#1052;.&#1060;. &#1040;&#1075;&#1072;&#1084;&#1080;&#1088;&#1079;&#1086;&#1077;&#1074;</author>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.34925/eip.2021.135.10.045</guid>
-    </item>
-    <item>
       <title>Synthesis of Propiolic and Butynedioic Acids via Carboxylation of CaC2 by CO2 under Mild Conditions</title>
       <link>https://doi.org/10.3390/catal14070467</link>
       <description>Xiaomin Zhao, Xiaoteng Zang, Yingzhou Lu, Hong Meng, Chunxi Li, Catalysts. 14(7)] 2024. https://openalex.org/W4400875276
@@ -596,26 +536,6 @@
       <author>R. H. Yuan</author>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.54254/2755-2721/70/20240995</guid>
-    </item>
-    <item>
-      <title>The Effect of Additives on Microcellular PVC Foams: Part 1 - Effect on Processing and Microstructure</title>
-      <link>https://doi.org/10.1177/0262489319981704003</link>
-      <description>Mark R. Holl, Mingliang Ma, Vipin Kumar, Robert R. Kwapisz, Cellular Polymers. 17(4)] 1998. https://openalex.org/W4400989097
-
-                The effect of the presence of commonly used additives on the processing and structure of microcellular PVC foams was investigated. It was found that the presence of additives leads to a polydisperse cell structure with large variations in cell sizes. The solubility of carbon dioxide in the additives and in the lubricants was found to be lower than in the PVC matrix. The presence of additives showed no adverse effect on the overall foam growth dynamics. It appears that target reductions in density of PVC can be achieved at lower processing temperatures when additives and processing aids are present.</description>
-      <author>Mark R. Holl, Mingliang Ma, Vipin Kumar, Robert R. Kwapisz</author>
-      <pubDate>Wed, 01 Jul 1998 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1177/0262489319981704003</guid>
-    </item>
-    <item>
-      <title>A Review of Energy Efficient Technology and Carbon Trading for Reducing Carbon Emissions</title>
-      <link>https://doi.org/10.9734/acri/2024/v24i6779</link>
-      <description>Satinder Kaur Khattra, D. Singh, Ritu Dogra, Archives of Current Research International. 24(6)] 2024. https://openalex.org/W4400854773
-
-                This review addresses the energy efficient technology and carbon trading for reducing carbon emissions. Energy-efficient technologies (EET) and carbon trading are mechanisms for mitigating climate change. EET offers direct ways to reduce emissions by improving the efficiency of energy use in various sectors. The use of technologies such as Variable Frequency Drives (VFD) in compressors, enhanced thermal performance in buildings, and smart lighting systems demonstrate significant potential in cutting energy consumption and thereby emissions The roles of carbon credits in international emission trading schemes, emphasizing their dual purpose of environmental protection and revenue generation for developing nations. The study explores into various types of carbon credit projects, including the Clean Development Mechanism (CDM) and the Verified Carbon Standard (VCS), highlighting their distribution and impact across different regions. The importance of forests in carbon dioxide absorption and the challenges of ensuring permanence and accounting for carbon sequestration are also discussed. Additionally, the document examines policy recommendations, such as carbon pricing and emission reduction targets set by the Intergovernmental Panel on Climate Change (IPCC).</description>
-      <author>Satinder Kaur Khattra, D. Singh, Ritu Dogra</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.9734/acri/2024/v24i6779</guid>
     </item>
     <item>
       <title>Separating CO2 emission from removal targets comes with limited cost impacts</title>
@@ -778,16 +698,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16146221</guid>
     </item>
     <item>
-      <title>Formate Dehydrogenase: Recent Developments for NADH and NADPH Recycling in Biocatalysis</title>
-      <link>https://doi.org/10.1002/cctc.202401021</link>
-      <description>Artur Maier, Lindelo M. Mguni, Anna Ngo, Dirk Tischler, ChemCatChem. None(None)] 2024. https://openalex.org/W4400982189
-
-                Formate dehydrogenases (FDHs) catalyze the oxidation of formate to CO2 while reducing NAD(P)+ to NAD(P)H and are classified into two main classes: metal&#8208;dependent (Mo&#8208; or W&#8208;containing) and metal&#8208;independent FDHs. The latter are oxygen&#8208;tolerant and relevant as a cofactor regeneration system for various bioprocesses and gained more and more attention due to their ability to catalyze the reverse CO2 reduction. This review gives an overview of metal&#8208;independent FDHs, the recent advances made in this field, and their relevance for future applications in biocatalysis. This includes the exploitation of novel FDHs which have altered co&#8208;substrate specificity as well as enzyme engineering approaches to improve process stability and general performance.</description>
-      <author>Artur Maier, Lindelo M. Mguni, Anna Ngo, Dirk Tischler</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401021</guid>
-    </item>
-    <item>
       <title>Utilizing Limestone Alone for Integrated CO2 Capture and Reverse Water-Gas Reaction in a Fixed Bed Reactor: Employing Mass and Gas Signal Analysis</title>
       <link>https://doi.org/10.3390/pr12081548</link>
       <description>Iwei Wang, Shihui Wang, Zhenshan Li, Processes. 12(8)] 2024. https://openalex.org/W4400941480
@@ -796,6 +706,16 @@
       <author>Iwei Wang, Shihui Wang, Zhenshan Li</author>
       <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/pr12081548</guid>
+    </item>
+    <item>
+      <title>Formate Dehydrogenase: Recent Developments for NADH and NADPH Recycling in Biocatalysis</title>
+      <link>https://doi.org/10.1002/cctc.202401021</link>
+      <description>Artur Maier, Lindelo M. Mguni, Anna Ngo, Dirk Tischler, ChemCatChem. None(None)] 2024. https://openalex.org/W4400982189
+
+                Formate dehydrogenases (FDHs) catalyze the oxidation of formate to CO2 while reducing NAD(P)+ to NAD(P)H and are classified into two main classes: metal&#8208;dependent (Mo&#8208; or W&#8208;containing) and metal&#8208;independent FDHs. The latter are oxygen&#8208;tolerant and relevant as a cofactor regeneration system for various bioprocesses and gained more and more attention due to their ability to catalyze the reverse CO2 reduction. This review gives an overview of metal&#8208;independent FDHs, the recent advances made in this field, and their relevance for future applications in biocatalysis. This includes the exploitation of novel FDHs which have altered co&#8208;substrate specificity as well as enzyme engineering approaches to improve process stability and general performance.</description>
+      <author>Artur Maier, Lindelo M. Mguni, Anna Ngo, Dirk Tischler</author>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401021</guid>
     </item>
     <item>
       <title>Asymmetric Cu&#8722;N1O3 Sites Coupling Atop&#8208;type and Bridge&#8208;type Adsorbed *C1 for Electrocatalytic CO2&#8208;to&#8208;C2 Conversion</title>
@@ -868,6 +788,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400304</guid>
     </item>
     <item>
+      <title>Briquette Shape Roles in Carbothermal Reduction Process of Limonitic Laterite Nickel</title>
+      <link>https://doi.org/10.30880/ijie.2024.16.01.003</link>
+      <description>Fakhreza Abdul, Afif Maulana Yusuf Ridarto, Vuri Ayu Setyowati, Yuli Setiyorini, Sungging Pintowantoro, International Journal of Integrated Engineering. 16(1)] 2024. https://openalex.org/W4400928252
+
+                Lateritic ore carbothermalreduction is currently the focus of many researchers. This process uses a relatively lower temperature of operation than the smelting. Therefore, the carbothermal reduction process has a relatively lower primary energy demand and CO2 gas emissions. This research examines the appropriate briquette form to obtain the optimum recovery, concentration of nickel, and selective reduction of nickel, as well as analyzes the compounds/phases formed. The briquette in this study was formed into three different geometries, i.e., the pillow, spherical, and cylindrical forms. First, this research was carried out by mixing the raw materials and forming it into specified briquette forms. Second, the formed briquettes were put into a crucible. Third, the coal-limestone bed mixture was used to cover the briquettes. Then, the carbothermic reduction process was started by heating to 700 oC for 2 hours and continued to 1400 oC for 6 hours. Finally, the magnetic separation process was performed to separate the reduced briquettes. As a result, the cylindrical shape briquette obtained better results at 6.74% Ni, with a nickel recovery of 96.20% and a selectivity factor value of 10.39. The compounds formed after carbothermic reduction process products include FeNi, Fe3Si, and SiO2. In a spherical-shaped briquette, Fe3O4 and Mg2SiO4were found in the reduced product, indicating impurities in the reduced briquettes.</description>
+      <author>Fakhreza Abdul, Afif Maulana Yusuf Ridarto, Vuri Ayu Setyowati, Yuli Setiyorini, Sungging Pintowantoro</author>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.30880/ijie.2024.16.01.003</guid>
+    </item>
+    <item>
       <title>Estrategias para Mejorar la Eficiencia Energ&#233;tica en Edificios de servicios p&#250;blicos, en una Zona Clim&#225;tica Calurosa y H&#250;meda: Caso de Estudio en Guayaquil, Ecuador</title>
       <link>https://doi.org/10.37116/revistaenergia.v21.n1.2024.651</link>
       <description>E. Catalina Vallejo-Coral, Luis Godoy-Vaca, Francis V&#225;squez, Geovanna Villacreses, Marco Orozco, Santiago Albero Navarro, Revista T&#233;cnica Energ&#237;a. 21(1)] 2024. https://openalex.org/W4400977319
@@ -886,16 +816,6 @@
       <author>Adriana Tokar, Daniel Muntean, D&#259;nu&#539; Tokar, Daniel Bisorca</author>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/en17153673</guid>
-    </item>
-    <item>
-      <title>Briquette Shape Roles in Carbothermal Reduction Process of Limonitic Laterite Nickel</title>
-      <link>https://doi.org/10.30880/ijie.2024.16.01.003</link>
-      <description>Fakhreza Abdul, Afif Maulana Yusuf Ridarto, Vuri Ayu Setyowati, Yuli Setiyorini, Sungging Pintowantoro, International Journal of Integrated Engineering. 16(1)] 2024. https://openalex.org/W4400928252
-
-                Lateritic ore carbothermalreduction is currently the focus of many researchers. This process uses a relatively lower temperature of operation than the smelting. Therefore, the carbothermal reduction process has a relatively lower primary energy demand and CO2 gas emissions. This research examines the appropriate briquette form to obtain the optimum recovery, concentration of nickel, and selective reduction of nickel, as well as analyzes the compounds/phases formed. The briquette in this study was formed into three different geometries, i.e., the pillow, spherical, and cylindrical forms. First, this research was carried out by mixing the raw materials and forming it into specified briquette forms. Second, the formed briquettes were put into a crucible. Third, the coal-limestone bed mixture was used to cover the briquettes. Then, the carbothermic reduction process was started by heating to 700 oC for 2 hours and continued to 1400 oC for 6 hours. Finally, the magnetic separation process was performed to separate the reduced briquettes. As a result, the cylindrical shape briquette obtained better results at 6.74% Ni, with a nickel recovery of 96.20% and a selectivity factor value of 10.39. The compounds formed after carbothermic reduction process products include FeNi, Fe3Si, and SiO2. In a spherical-shaped briquette, Fe3O4 and Mg2SiO4were found in the reduced product, indicating impurities in the reduced briquettes.</description>
-      <author>Fakhreza Abdul, Afif Maulana Yusuf Ridarto, Vuri Ayu Setyowati, Yuli Setiyorini, Sungging Pintowantoro</author>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.30880/ijie.2024.16.01.003</guid>
     </item>
     <item>
       <title>THE ECONOMY OF CARBON NEUTRALITY IN THE PARADIGM OF SUSTAINABLE DEVELOPMENT: THE ESSENCE, FEATURES, PREREQUISITES FOR THE FORMATION OF</title>
@@ -928,16 +848,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17153651</guid>
     </item>
     <item>
-      <title>Experimental sticking coefficients of CO and N_2 on sub-micrometric cosmic grain analogs</title>
-      <link>https://doi.org/10.1051/0004-6361/202449167</link>
-      <description>C. Stadler, C. Laffon, P. Parent, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400932893
-
-                Measuring the sticking coefficient of molecules pertinent to astrochemistry - such as CO - on substrates that mimic interstellar dust grains is crucial for the comprehensive understanding of gas-grain chemical processes. Although astrochemical models assume a sticking coefficient of 1, recent laboratory experiments on H2O and CO2 have revealed significantly lower values when measured on small grain analogs. As the effect of grain size on molecular adsorption has been largely ignored to date, further experiments are needed to determine the accretion rates of species known to freeze out on dust grains. Our aim is to determine the sticking coefficients of CO and N2 on sub-micrometric silicate and carbon grains. By quantifying realistic sticking coefficients on these dust grain analogs, we can improve the accuracy of astrochemists' predictions of molecular abundances as affected by gas-grain interactions. The molecules of interest were added to various substrates at 10 K in an ultra-high vacuum. The amount of adsorbate that stuck to the substrate was quantified using X-ray photoelectron spectroscopy. These quantities were compared to a reference with a sticking coefficient of 1, allowing the deduction of the sticking coefficient for each substrate. The average sticking coefficients of CO and N2 on grain analogs are 0.17 for CO and 0.14 for N2 on olivine powder, and 0.05 for CO and 0.07 on N2 on soot, instead of the presumed 1. This is in line with the low values previously reported for H2O and CO2 These laboratory results indicate that CO and N2 in addition to H2O and CO2 also exhibit a low sticking coefficient on dust grain analogs. It is thus necessary to reconsider the interactions between gaseous species and dust particles as a low-efficiency process. This reduction in accretion and reaction rates has important implications for how we understand astrochemistry.</description>
-      <author>C. Stadler, C. Laffon, P. Parent</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1051/0004-6361/202449167</guid>
-    </item>
-    <item>
       <title>Co2(CO)8 as a CO-source for Pd-catalyzed Carbonylations: An Update</title>
       <link>https://doi.org/10.2174/0115701794302069240624045929</link>
       <description>Debarati Das, Bhalchandra M. Bhanage, Current Organic Synthesis. 21(None)] 2024. https://openalex.org/W4400894681
@@ -946,6 +856,16 @@
       <author>Debarati Das, Bhalchandra M. Bhanage</author>
       <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2174/0115701794302069240624045929</guid>
+    </item>
+    <item>
+      <title>Experimental sticking coefficients of CO and N_2 on sub-micrometric cosmic grain analogs</title>
+      <link>https://doi.org/10.1051/0004-6361/202449167</link>
+      <description>C. Stadler, C. Laffon, P. Parent, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400932893
+
+                Measuring the sticking coefficient of molecules pertinent to astrochemistry - such as CO - on substrates that mimic interstellar dust grains is crucial for the comprehensive understanding of gas-grain chemical processes. Although astrochemical models assume a sticking coefficient of 1, recent laboratory experiments on H2O and CO2 have revealed significantly lower values when measured on small grain analogs. As the effect of grain size on molecular adsorption has been largely ignored to date, further experiments are needed to determine the accretion rates of species known to freeze out on dust grains. Our aim is to determine the sticking coefficients of CO and N2 on sub-micrometric silicate and carbon grains. By quantifying realistic sticking coefficients on these dust grain analogs, we can improve the accuracy of astrochemists' predictions of molecular abundances as affected by gas-grain interactions. The molecules of interest were added to various substrates at 10 K in an ultra-high vacuum. The amount of adsorbate that stuck to the substrate was quantified using X-ray photoelectron spectroscopy. These quantities were compared to a reference with a sticking coefficient of 1, allowing the deduction of the sticking coefficient for each substrate. The average sticking coefficients of CO and N2 on grain analogs are 0.17 for CO and 0.14 for N2 on olivine powder, and 0.05 for CO and 0.07 on N2 on soot, instead of the presumed 1. This is in line with the low values previously reported for H2O and CO2 These laboratory results indicate that CO and N2 in addition to H2O and CO2 also exhibit a low sticking coefficient on dust grain analogs. It is thus necessary to reconsider the interactions between gaseous species and dust particles as a low-efficiency process. This reduction in accretion and reaction rates has important implications for how we understand astrochemistry.</description>
+      <author>C. Stadler, C. Laffon, P. Parent</author>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/0004-6361/202449167</guid>
     </item>
     <item>
       <title>Biochar as an Alternative Litter Additive to Mitigate Gaseous Emissions from Broiler Housing and Subsequent Storage</title>
@@ -996,16 +916,6 @@
       <author>Jonas Bueie, Magnus Windfeldt, Trond Andresen</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.12795/9788447227457_103</guid>
-    </item>
-    <item>
-      <title>Cultivating, harvesting and processing microalgae for biodiesel production</title>
-      <link>https://doi.org/10.24084/eqj24.225</link>
-      <description>Donald P. Campbell, Christian Schr&#246;der, John Sherman, E. Sitzer, B. Uhler, A. Pourmovahed, No host. 2(None)] 2024. https://openalex.org/W4400849182
-
-                In recent years, sustainable aviation fuels (SAF) have been gaining popularity as an alternative to conventional jet fuel due to their smaller carbon footprint. It has been estimated that their use will result in a 65% reduction in CO2 emissions. SAF can be produced by using waste oil, animal fat, plant-based oil or municipal waste. One promising feedstock for SAF production is alga as it grows quickly under the right conditions and may contain 50% oil. In this student project, algae species were reviewed, and one was chosen based on its growth speed and lipid-producing characteristics. A photobioreactor was designed and built. The algae grown were monitored and harvested. Due to the short duration of this project and difficulties in extracting the algae and a malfunctioning ultrasonic bath, the oil extracted was not sufficient for conversion into biodiesel. The heat of combustion of the produced fuel from used cooking oil was measured. The lessons learned are discussed. Key words. Photobioreactor, Biodiesel, Microalgae</description>
-      <author>Donald P. Campbell, Christian Schr&#246;der, John Sherman, E. Sitzer, B. Uhler, A. Pourmovahed</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.24084/eqj24.225</guid>
     </item>
     <item>
       <title>Severe Spaceflight-Associated Neuro-Ocular Syndrome in an Astronaut With 2 Predisposing Factors</title>
