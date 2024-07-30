@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Jul 29 01:13:06 2024
+Created on Tue Jul 30 01:11:17 2024
 
-Found 111 results from 2024-07-22 to 2024-07-29
+Found 108 results from 2024-07-23 to 2024-07-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -315,17 +315,6 @@ No abstract
 
     
 
-## Microenvironment engineering by targeted delivery of activated Ag NPs for boosting electrocatalytic CO2 reduction reaction   
-
-OpenAlex: https://openalex.org/W4400930180    
-Open access: False
-    
-[Shun Wang](https://openalex.org/A5100424610), [Ting Xu](https://openalex.org/A5066510631), [Hao Yang](https://openalex.org/A5055582929), [Tianrui Lu](https://openalex.org/A5005726308), [Rui Zhong](https://openalex.org/A5090898532), [Jingjing Lv](https://openalex.org/A5002723402), [Shaojun Zhu](https://openalex.org/A5078521631), [Shouxin Zhang](https://openalex.org/A5101742243), [Zhengjun Wang](https://openalex.org/A5051990635), [Yifei Yuan](https://openalex.org/A5010900819), [Jun Li](https://openalex.org/A5100361799), [Jichang Wang](https://openalex.org/A5101619598), [Huile Jin](https://openalex.org/A5060906740), [Shuang Pan](https://openalex.org/A5025158192), [Sheng Wang](https://openalex.org/A5100371335), [Tao Cheng](https://openalex.org/A5027704532), No host. None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4692796/v1.
-    
-Abstract To boost the performance of electrocatalytic CO2 reduction reaction (eCO2RR), a unique synthetic method that deploys the in situ reduction of precoated precursors was developed to produce activated Ag nanoparticles (NPs) within the gas diffusion layer (GDL), where the thus-obtained Ag NPs-Skeleton could block direct contact between the active Ag sites and electrolyte. Specifically, compared to the conventional surface loading mode in the acidic media, our freestanding and binder free electrode could achieve obvious higher CO selectivity of 94%, CO production rate of 23.3 mol g-1 h-1, single-pass CO2 conversion of 58.6%, and enhanced long-term stability of 8 hours. Our study shows that delivering catalysts within the GDL does not only gain the desired physical protection from GDL skeleton to achieve a superior local microenvironment for more efficient pH-universal eCO2RR, but also manifests the pore structures to effectively address gas accumulation and flood issues, thereby stabilizing the catalysts.    
-
-    
-
 ## Dual nanoparticles with rich Ni–CeO2 interfaces for efficient photothermal catalytic CO2 reduction by CH4   
 
 OpenAlex: https://openalex.org/W4400960353    
@@ -337,14 +326,14 @@ No abstract
 
     
 
-## Electrochemical CO2 reduction to syngas on copper mesh electrode: Alloying strategy for tuning syngas composition   
+## Microenvironment engineering by targeted delivery of activated Ag NPs for boosting electrocatalytic CO2 reduction reaction   
 
-OpenAlex: https://openalex.org/W4400867292    
+OpenAlex: https://openalex.org/W4400930180    
 Open access: False
     
-[Yangna Luo](https://openalex.org/A5042883718), [Xianglin Chen](https://openalex.org/A5103207458), [Yuping Wu](https://openalex.org/A5100368786), [Yafei Guo](https://openalex.org/A5014026902), [Yuxuan Gao](https://openalex.org/A5028375236), [Guoyang Zhao](https://openalex.org/A5102713705), [Chuanwen Zhao](https://openalex.org/A5019135475), Carbon capture science & technology. 13(None)] 2024.https://doi.org/10.1016/j.ccst.2024.100254.
+[Shun Wang](https://openalex.org/A5100424610), [Ting Xu](https://openalex.org/A5066510631), [Hao Yang](https://openalex.org/A5055582929), [Tianrui Lu](https://openalex.org/A5005726308), [Rui Zhong](https://openalex.org/A5090898532), [Jingjing Lv](https://openalex.org/A5002723402), [Shaojun Zhu](https://openalex.org/A5078521631), [Shouxin Zhang](https://openalex.org/A5101742243), [Zhengjun Wang](https://openalex.org/A5051990635), [Yifei Yuan](https://openalex.org/A5010900819), [Jun Li](https://openalex.org/A5100361799), [Jichang Wang](https://openalex.org/A5101619598), [Huile Jin](https://openalex.org/A5060906740), [Shuang Pan](https://openalex.org/A5025158192), [Sheng Wang](https://openalex.org/A5100371335), [Tao Cheng](https://openalex.org/A5027704532), No host. None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4692796/v1.
     
-No abstract    
+Abstract To boost the performance of electrocatalytic CO2 reduction reaction (eCO2RR), a unique synthetic method that deploys the in situ reduction of precoated precursors was developed to produce activated Ag nanoparticles (NPs) within the gas diffusion layer (GDL), where the thus-obtained Ag NPs-Skeleton could block direct contact between the active Ag sites and electrolyte. Specifically, compared to the conventional surface loading mode in the acidic media, our freestanding and binder free electrode could achieve obvious higher CO selectivity of 94%, CO production rate of 23.3 mol g-1 h-1, single-pass CO2 conversion of 58.6%, and enhanced long-term stability of 8 hours. Our study shows that delivering catalysts within the GDL does not only gain the desired physical protection from GDL skeleton to achieve a superior local microenvironment for more efficient pH-universal eCO2RR, but also manifests the pore structures to effectively address gas accumulation and flood issues, thereby stabilizing the catalysts.    
 
     
 
@@ -354,17 +343,6 @@ OpenAlex: https://openalex.org/W4400940259
 Open access: False
     
 [Ariany Zulkania](https://openalex.org/A5036320552), [Muslikhin Hidayat](https://openalex.org/A5059929096), [Rochmadi Rochmadi](https://openalex.org/A5045858399), [Rochim Bakti Cahyono](https://openalex.org/A5001067825), AIP conference proceedings. None(None)] 2024.https://doi.org/10.1063/5.0218066.
-    
-No abstract    
-
-    
-
-## Electrochemical co-reduction of N2 and CO2 to urea using In2S3 anchored on S-doped reduced graphene oxide   
-
-OpenAlex: https://openalex.org/W4400866323    
-Open access: False
-    
-[Xinyi Chen](https://openalex.org/A5100457099), [Pingxing Xing](https://openalex.org/A5015592469), [Shenqi Wei](https://openalex.org/A5028863793), [Hualan Luo](https://openalex.org/A5098880011), [Liyi Dai](https://openalex.org/A5100853256), [Yuanyuan Wang](https://openalex.org/A5100423141), Journal of electroanalytical chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118516.
     
 No abstract    
 
@@ -403,17 +381,6 @@ Due to climate change risks, the public, regulators, and investors require solid
 
     
 
-## Selective reduction of CO2 to ethanol over Si/Cu(1 1 1) surface: An insights from the first-principles calculations   
-
-OpenAlex: https://openalex.org/W4400867054    
-Open access: False
-    
-[Chang Liu](https://openalex.org/A5100353195), [Dan Wang](https://openalex.org/A5100411810), [Boting Yang](https://openalex.org/A5049864053), [Song Jiang](https://openalex.org/A5001843018), [Gang Sun](https://openalex.org/A5011476053), [Yong‐Qing Qiu](https://openalex.org/A5003297812), [Chun‐Guang Liu](https://openalex.org/A5017146181), Computational and Theoretical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.comptc.2024.114781.
-    
-No abstract    
-
-    
-
 ## The Impact of Financial Efficiency and Renewable Energy Consumption on CO2 Emission Reduction in GCC Economies: A Panel Data Quantile Regression Approach   
 
 OpenAlex: https://openalex.org/W4400873485    
@@ -422,17 +389,6 @@ Open access: True
 [Lena Bedawi Elfadli Elmonshid](https://openalex.org/A5015954230), [Omer Ahmed Sayed](https://openalex.org/A5075901572), [Ghadda Mohamed Awad Yousif](https://openalex.org/A5076388326), [Kamal Eldin Hassan Ibrahim Eldaw](https://openalex.org/A5055861250), [Muawya Ahmed Hussein](https://openalex.org/A5059814231), Sustainability. 16(14)] 2024.https://doi.org/10.3390/su16146242.
     
 As prominent oil producers, Gulf Cooperation Council (GCC) countries have played a significant role in the global energy market. However, as the world’s attention increasingly shifts towards environmental sustainability, understanding the implications of the GCC’s economic activities on CO2 emissions becomes indispensable. This research paper investigates the relationship between specific economic indicators and their impact on CO2 emissions in the GCC from 2001 to 2021. This study employs quantile regression, a robust statistical method that estimates the conditional quantiles of a response variable given a set of predictor variables. The findings reveal several essential insights: Financial institution efficiency is significant and negative at a 1% level at the lower (10th, −83,537.3) and higher quantiles (90th, −549,002.3). The relationship between the GDP per capita and CO2 emissions varies across quantiles, highlighting the complexity of the growth–environment nexus. Total patents exhibit a positive and significant relationship with emissions, underscoring the importance of directing innovation towards environmentally sustainable solutions. Renewable energy consumption displays a nuanced relationship with CO2 emissions, with a more substantial negative impact observed at higher consumption levels. This underscores the potential of renewable energy to mitigate emissions when integrated at scale. This study’s outcomes hold crucial policy implications for GCC countries as they seek to align economic growth with environmental sustainability. The findings emphasize the importance of fostering financial institution efficiency, promoting green innovation, and expanding renewable energy sources to reduce emissions.    
-
-    
-
-## Electrochemical Reduction of CO2 on a CoTPP/MWCNT Composite: Investigation of Operation Parameters Influence on CH3OH Production by Differential Electrochemical Mass Spectrometry (DEMS)   
-
-OpenAlex: https://openalex.org/W4400865895    
-Open access: False
-    
-[Mongur Hossain](https://openalex.org/A5027546393), [Milla Suominen](https://openalex.org/A5055467658), [Tanja Kallio](https://openalex.org/A5078947642), Electrochimica acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144748.
-    
-No abstract    
 
     
 
@@ -590,6 +546,17 @@ According to statistics, the carbon dioxide emissions from Chinas power industry
 
     
 
+## The Effect of Additives on Microcellular PVC Foams: Part 1 - Effect on Processing and Microstructure   
+
+OpenAlex: https://openalex.org/W4400989097    
+Open access: False
+    
+[Mark R. Holl](https://openalex.org/A5071323218), [Mingliang Ma](https://openalex.org/A5031608682), [Vipin Kumar](https://openalex.org/A5072720747), [Robert R. Kwapisz](https://openalex.org/A5099106872), Cellular Polymers. 17(4)] 1998.https://doi.org/10.1177/0262489319981704003.
+    
+The effect of the presence of commonly used additives on the processing and structure of microcellular PVC foams was investigated. It was found that the presence of additives leads to a polydisperse cell structure with large variations in cell sizes. The solubility of carbon dioxide in the additives and in the lubricants was found to be lower than in the PVC matrix. The presence of additives showed no adverse effect on the overall foam growth dynamics. It appears that target reductions in density of PVC can be achieved at lower processing temperatures when additives and processing aids are present.    
+
+    
+
 ## Separating CO2 emission from removal targets comes with limited cost impacts   
 
 OpenAlex: https://openalex.org/W4400926013    
@@ -700,17 +667,6 @@ Metal halide perovskite with a suitable energy band structure and excellent visi
 
     
 
-## Income inequality and CO2 emissions nexus: A long-run analysis for Turkey   
-
-OpenAlex: https://openalex.org/W4400918538    
-Open access: False
-    
-[Kemal ERKİŞİ](https://openalex.org/A5006265171), ECONOMICS AND POLICY OF ENERGY AND THE ENVIRONMENT. None(1)] 2024.https://doi.org/10.3280/efe2024-001010.
-    
-The relationship between economic factors and environmental impacts is of paramount significance in the pursuit of sustainable development and the implementation of effective measures to alleviate environmental deterioration. This research utilizes the VECM, FMOLS, CCR, and DOLS methodologies to examine the relationship between income inequality and CO2 emissions spanning from 1990 to 2022 in Turkey. Theoretical frameworks such as Boyce's socio-economic dynamics, Veblen's pecuniary emulation theory, and the marginal propensity to emit provide detailed insights into the complex relationship between economic inequality and environmental degradation. In synthesizing the literature on income inequality and CO2 emissions, we observe a wide spectrum of findings ranging from positive to negative associations, with some studies yielding inconclusive results in different nations and areas. Beyond income inequality, this research considers a wider range of CO2 explanatory factors, such as GDP per capita, industrial value added, energy consumption, renewable energy, population density, and the Gini index. The estimates reveal that income per capita, industrial value added, energy consumption, and population density show positive linkages with CO2 emissions. On the other hand, renewable energy share and income inequality reflect negative associations with CO2 emissions. Notably, an increase in the Gini coefficient, reflecting worse income distribution, is associated with a reduction in CO2 emissions in Turkey.    
-
-    
-
 ## Retrofit assessment: Getting it right from the start   
 
 OpenAlex: https://openalex.org/W4400989752    
@@ -719,6 +675,17 @@ Open access: False
 [Richard Fitton](https://openalex.org/A5105082305), [William Swan](https://openalex.org/A5076001888), No host. None(None)] 2023.https://doi.org/10.69554/zwvi1586.
     
 The UK has some of the oldest buildings in Europe. They are also some of the worst performing in terms of energy performance. In tandem with these issues the UK has committed to making a substantial reduction in CO2 emissions. UK homes are currently responsible for almost 20 per cent of CO2 emissions. This leaves little option other than to make considerable progress with the retrofitting of homes to improve their energy performance. This is a technical process, however, and can introduce risks to building and their occupants. Examples exist of homes being retrofitted with disastrous consequences. Some of these issues can be due to the lack of thorough examination of a home before it undergoes a retrofit. This paper proposes a method that provides a detailed pre-retrofit assessment of a home, to fall in line with PAS 2035, a standard that provides guidance around publicly funded retrofit in the UK.    
+
+    
+
+## Income inequality and CO2 emissions nexus: A long-run analysis for Turkey   
+
+OpenAlex: https://openalex.org/W4400918538    
+Open access: False
+    
+[Kemal ERKİŞİ](https://openalex.org/A5006265171), ECONOMICS AND POLICY OF ENERGY AND THE ENVIRONMENT. None(1)] 2024.https://doi.org/10.3280/efe2024-001010.
+    
+The relationship between economic factors and environmental impacts is of paramount significance in the pursuit of sustainable development and the implementation of effective measures to alleviate environmental deterioration. This research utilizes the VECM, FMOLS, CCR, and DOLS methodologies to examine the relationship between income inequality and CO2 emissions spanning from 1990 to 2022 in Turkey. Theoretical frameworks such as Boyce's socio-economic dynamics, Veblen's pecuniary emulation theory, and the marginal propensity to emit provide detailed insights into the complex relationship between economic inequality and environmental degradation. In synthesizing the literature on income inequality and CO2 emissions, we observe a wide spectrum of findings ranging from positive to negative associations, with some studies yielding inconclusive results in different nations and areas. Beyond income inequality, this research considers a wider range of CO2 explanatory factors, such as GDP per capita, industrial value added, energy consumption, renewable energy, population density, and the Gini index. The estimates reveal that income per capita, industrial value added, energy consumption, and population density show positive linkages with CO2 emissions. On the other hand, renewable energy share and income inequality reflect negative associations with CO2 emissions. Notably, an increase in the Gini coefficient, reflecting worse income distribution, is associated with a reduction in CO2 emissions in Turkey.    
 
     
 
@@ -766,17 +733,6 @@ As oil and gas companies are one of the major greenhouse gas emitters, they face
 
     
 
-## Utilizing Limestone Alone for Integrated CO2 Capture and Reverse Water-Gas Reaction in a Fixed Bed Reactor: Employing Mass and Gas Signal Analysis   
-
-OpenAlex: https://openalex.org/W4400941480    
-Open access: True
-    
-[Iwei Wang](https://openalex.org/A5046594420), [Shihui Wang](https://openalex.org/A5100671525), [Zhenshan Li](https://openalex.org/A5058500620), Processes. 12(8)] 2024.https://doi.org/10.3390/pr12081548.
-    
-The integrated CO2 capture and utilization coupled with the reverse water-gas shift reaction (ICCU-RWGS) presents an alternative pathway for converting captured CO2 into CO in situ. This study investigates the effectiveness of three calcium-based materials (natural limestone, sol-gel CaCO3, and commercial CaCO3) as dual-functional materials (DFMs) for the ICCU-RWGS process at intermediate temperatures (650–750 °C). Our approach involves a fixed-bed reactor coupled with mass spectrometry and in situ Fourier transform infrared (FTIR) measurements to examine cyclic CO2 capture behavior, detailed physical and chemical properties, and morphology. The in situ FTIR results revealed the dominance of the RWGS route and exhibited self-catalytic activity across all calcium-based materials. Particularly, the natural limestone demonstrated a CO yield of 12.7 mmol g−1 with 100% CO selectivity and 81% CO2 conversion. Over the 20th cycle, a decrease in CO2 capture capacity was observed: sol-gel CaCO3, natural limestone, and commercial CaCO3 showed reductions of 44%, 61%, and 59%, respectively. This suggests inevitable deactivation during cyclic reactions in the ICCU-RWGS process, while the skeleton structure effectively prevents agglomeration in Ca-based materials, particularly in sol-gel CaCO3. These insights, coupled with the cost-effectiveness of CaO-alone DFMs, offer promising avenues for efficient and economically viable ICCU-RWGS processes.    
-
-    
-
 ## Formate Dehydrogenase: Recent Developments for NADH and NADPH Recycling in Biocatalysis   
 
 OpenAlex: https://openalex.org/W4400982189    
@@ -785,6 +741,17 @@ Open access: False
 [Artur Maier](https://openalex.org/A5059230884), [Lindelo M. Mguni](https://openalex.org/A5105049829), [Anna Ngo](https://openalex.org/A5055809666), [Dirk Tischler](https://openalex.org/A5001303954), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401021.
     
 Formate dehydrogenases (FDHs) catalyze the oxidation of formate to CO2 while reducing NAD(P)+ to NAD(P)H and are classified into two main classes: metal‐dependent (Mo‐ or W‐containing) and metal‐independent FDHs. The latter are oxygen‐tolerant and relevant as a cofactor regeneration system for various bioprocesses and gained more and more attention due to their ability to catalyze the reverse CO2 reduction. This review gives an overview of metal‐independent FDHs, the recent advances made in this field, and their relevance for future applications in biocatalysis. This includes the exploitation of novel FDHs which have altered co‐substrate specificity as well as enzyme engineering approaches to improve process stability and general performance.    
+
+    
+
+## Utilizing Limestone Alone for Integrated CO2 Capture and Reverse Water-Gas Reaction in a Fixed Bed Reactor: Employing Mass and Gas Signal Analysis   
+
+OpenAlex: https://openalex.org/W4400941480    
+Open access: True
+    
+[Iwei Wang](https://openalex.org/A5046594420), [Shihui Wang](https://openalex.org/A5100671525), [Zhenshan Li](https://openalex.org/A5058500620), Processes. 12(8)] 2024.https://doi.org/10.3390/pr12081548.
+    
+The integrated CO2 capture and utilization coupled with the reverse water-gas shift reaction (ICCU-RWGS) presents an alternative pathway for converting captured CO2 into CO in situ. This study investigates the effectiveness of three calcium-based materials (natural limestone, sol-gel CaCO3, and commercial CaCO3) as dual-functional materials (DFMs) for the ICCU-RWGS process at intermediate temperatures (650–750 °C). Our approach involves a fixed-bed reactor coupled with mass spectrometry and in situ Fourier transform infrared (FTIR) measurements to examine cyclic CO2 capture behavior, detailed physical and chemical properties, and morphology. The in situ FTIR results revealed the dominance of the RWGS route and exhibited self-catalytic activity across all calcium-based materials. Particularly, the natural limestone demonstrated a CO yield of 12.7 mmol g−1 with 100% CO selectivity and 81% CO2 conversion. Over the 20th cycle, a decrease in CO2 capture capacity was observed: sol-gel CaCO3, natural limestone, and commercial CaCO3 showed reductions of 44%, 61%, and 59%, respectively. This suggests inevitable deactivation during cyclic reactions in the ICCU-RWGS process, while the skeleton structure effectively prevents agglomeration in Ca-based materials, particularly in sol-gel CaCO3. These insights, coupled with the cost-effectiveness of CaO-alone DFMs, offer promising avenues for efficient and economically viable ICCU-RWGS processes.    
 
     
 
@@ -1129,17 +1096,6 @@ Pollution generated by the automotive sector is one of the biggest concerns in t
 
     
 
-## Switching off Competing Hydrogen Formation in CO2 Electroreduction via Substrate Defect Engineering   
-
-OpenAlex: https://openalex.org/W4401000461    
-Open access: True
-    
-[Lei Wang](https://openalex.org/A5100435866), [Haozhou Yang](https://openalex.org/A5007921737), [Na Guo](https://openalex.org/A5048313381), [Shibo Xi](https://openalex.org/A5031292832), [Haiyuan Zou](https://openalex.org/A5037340591), [Jiayi Chen](https://openalex.org/A5100609074), [Lei Fan](https://openalex.org/A5022239454), [Yukun Xiao](https://openalex.org/A5023257092), [Qian He](https://openalex.org/A5051694258), [Lele Duan](https://openalex.org/A5047901288), [Pengfei Wei](https://openalex.org/A5030557634), [Guoxiong Wang](https://openalex.org/A5020450516), [Chun Zhang](https://openalex.org/A5100763540), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4772767/v1 ([pdf](https://www.researchsquare.com/article/rs-4772767/latest.pdf)).
-    
-Abstract Carbon nanotubes (CNTs) have emerged as effective substrates for immobilizing molecular catalysts towards many electrocatalytic reactions, such as CO2 reduction (CO2R). However, despite the prevailing notion of strong π-π stackings between the molecular catalyst and CNTs, our understanding of their interactions remains inadequate. Here, we employ functionalized nickel phthalocyanines (NiPc), established CO2R catalysts, immobilized on CNTs as a model system to investigate the catalyst/substrate interactions. Firstly, we find that NiPc-catalysts preferentially anchor on the defects on CNTs rather than adhering via π-π interaction with the ideal graphene-like CNT surface, a finding further validated by theoretical simulations. Consequently, we observe the least uniform NiPc-catalysts distributions on CNTs when the defect-content is the lowest. Notably, this combination exhibits the highest CO2R selectivity and activity despite the non-uniform catalyst distributions. Through operando X-ray adsorption spectroscopy and theoretical simulations, we reveal that high CNT defect-contents tend to induce substantial D4h symmetry breaking of the NiPc plane under cathodic potential, consequently resulting in reduced CO2R selectivity and activity. Therefore, maintaining a low to moderate defect level on CNTs is critical. Guided by this understanding, we fine-tune the defect-level of CNTs through graphitization, achieving an unprecedently high selectivity for CO2 to CO conversion (CO to H2 molar ratio exceeding 16100:1, a remarkable suppression of hydrogen evolution by three orders of magnitude) and improved intrinsic-activity (turnover frequency of 1072 s−1 at −0.60 V vs. reversible hydrogen electrode) on an optimized Ni-Pc/CNTs composite. Furthermore, we achieved practical relevant CO production in a zero-gap electrolyzer (electrode size of 100 cm-2), reaching high current (up to 50 A), with high CO selectivity (> 95%) and reasonably low cell voltage (approximately 3.5 V), substantially outperforming the state-of-the-art silver catalyst. Moreover, we extend this knowledge to a Co-based molecular catalyst, achieving a high Faradaic efficiency (over 50%) towards methanol production with a high partial current density over 150 mA cm−2. Overall, our findings underscore the significance of tuning defect levels on CNT substrates for achieving desired performance for immobilized molecular catalysts.    
-
-    
-
 ## Evaluation of the Effect of MiR-206 on the Expression of Toll-like Receptor 2 and TLR4 in the Melanoma A-375 Cells   
 
 OpenAlex: https://openalex.org/W4400955722    
@@ -1148,6 +1104,17 @@ Open access: False
 [Mojtaba Gholinezhad](https://openalex.org/A5105018798), [Bahareh Sartipi](https://openalex.org/A5105032508), [Babak Sandoghchian Shotorbani](https://openalex.org/A5105018799), Biomedical Research Bulletin. 1(4)] 2023.https://doi.org/10.34172/biomedrb.2023.25.
     
 Background: Melanoma is one of the most deadly skin cancers in humanity, which imposes extensive costs on governments. Fortunately, the death rate has decreased despite the increasing incidence of melanoma. Various treatment methods, including surgery, chemotherapy, radiotherapy, targeted therapy, and the like, are used to treat this disease. However, despite recent advances in diagnosis and treatment, melanoma remains one of the leading causes of death in the world. One of the new treatment methods is based on microRNAs, one of which is miRNA 206. The aim of this study was to determine the effect of MIR-206 on Toll-like receptor 2 (TLR2) and TLR4 in the melanoma cell line (A-375). Methods: The present in vitro study was performed on melanoma cancer cells in RPMI640 culture medium containing 10% fetal calf serum at 37 ° C and 5% CO2 . After counting and dividing the cells, the cells inside the plate were stimulated in over time with the MIR-206 protein. Incubation was performed. After 48 hours, the cells were collected, the total mRNA was extracted, and the expression levels of TLR2 and TLR4 were examined by real-time polymerase chain reaction. Results: The results demonstrated that the expression of TLR2 and TLR4 IL6 decreased in the melanoma cell line (A-375) in exposure to MIR-206. The results also showed the expression of nuclear factor kappa B in the melanoma cell line. Conclusion: The findings confirmed the role of MIR-206 as a tumor suppressor in melanoma cancer. These results suggest that MIR-206 may be a new treatment for melanoma in the near future. Accordingly, MIR-206 can be considered a potential target in the gene therapy of patients with melanoma cancer, and one of the advantages of MIR-206 gene therapy in melanoma cancer over chemotherapy is the reduction of cytotoxicity and its invasiveness.    
+
+    
+
+## Switching off Competing Hydrogen Formation in CO2 Electroreduction via Substrate Defect Engineering   
+
+OpenAlex: https://openalex.org/W4401000461    
+Open access: True
+    
+[Lei Wang](https://openalex.org/A5100435866), [Haozhou Yang](https://openalex.org/A5007921737), [Na Guo](https://openalex.org/A5048313381), [Shibo Xi](https://openalex.org/A5031292832), [Haiyuan Zou](https://openalex.org/A5037340591), [Jiayi Chen](https://openalex.org/A5100609074), [Lei Fan](https://openalex.org/A5022239454), [Yukun Xiao](https://openalex.org/A5023257092), [Qian He](https://openalex.org/A5051694258), [Lele Duan](https://openalex.org/A5047901288), [Pengfei Wei](https://openalex.org/A5030557634), [Guoxiong Wang](https://openalex.org/A5020450516), [Chun Zhang](https://openalex.org/A5100763540), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4772767/v1 ([pdf](https://www.researchsquare.com/article/rs-4772767/latest.pdf)).
+    
+Abstract Carbon nanotubes (CNTs) have emerged as effective substrates for immobilizing molecular catalysts towards many electrocatalytic reactions, such as CO2 reduction (CO2R). However, despite the prevailing notion of strong π-π stackings between the molecular catalyst and CNTs, our understanding of their interactions remains inadequate. Here, we employ functionalized nickel phthalocyanines (NiPc), established CO2R catalysts, immobilized on CNTs as a model system to investigate the catalyst/substrate interactions. Firstly, we find that NiPc-catalysts preferentially anchor on the defects on CNTs rather than adhering via π-π interaction with the ideal graphene-like CNT surface, a finding further validated by theoretical simulations. Consequently, we observe the least uniform NiPc-catalysts distributions on CNTs when the defect-content is the lowest. Notably, this combination exhibits the highest CO2R selectivity and activity despite the non-uniform catalyst distributions. Through operando X-ray adsorption spectroscopy and theoretical simulations, we reveal that high CNT defect-contents tend to induce substantial D4h symmetry breaking of the NiPc plane under cathodic potential, consequently resulting in reduced CO2R selectivity and activity. Therefore, maintaining a low to moderate defect level on CNTs is critical. Guided by this understanding, we fine-tune the defect-level of CNTs through graphitization, achieving an unprecedently high selectivity for CO2 to CO conversion (CO to H2 molar ratio exceeding 16100:1, a remarkable suppression of hydrogen evolution by three orders of magnitude) and improved intrinsic-activity (turnover frequency of 1072 s−1 at −0.60 V vs. reversible hydrogen electrode) on an optimized Ni-Pc/CNTs composite. Furthermore, we achieved practical relevant CO production in a zero-gap electrolyzer (electrode size of 100 cm-2), reaching high current (up to 50 A), with high CO selectivity (> 95%) and reasonably low cell voltage (approximately 3.5 V), substantially outperforming the state-of-the-art silver catalyst. Moreover, we extend this knowledge to a Co-based molecular catalyst, achieving a high Faradaic efficiency (over 50%) towards methanol production with a high partial current density over 150 mA cm−2. Overall, our findings underscore the significance of tuning defect levels on CNT substrates for achieving desired performance for immobilized molecular catalysts.    
 
     
 

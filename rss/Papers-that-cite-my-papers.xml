@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Jul 2024 01:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 01:11:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Two-Dimensional Conductive Metal-Organic Frameworks Electrocatalyst: Design Principle and Energy Conversion Applications</title>
-      <link>https://doi.org/10.1016/j.mtener.2024.101652</link>
-      <description>Xiaogang Wang, Rahul Anil Borse, Gui Wang, Zhe Xiao, Hua Zhu, Yiling Sun, Zhengfang Qian, Shuaiqi Zhong, Renheng Wang, Materials today energy. None(None)] 2024. https://openalex.org/W4400865804
-
-                No abstract</description>
-      <author>Xiaogang Wang, Rahul Anil Borse, Gui Wang, Zhe Xiao, Hua Zhu, Yiling Sun, Zhengfang Qian, Shuaiqi Zhong, Renheng Wang</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101652</guid>
-    </item>
-    <item>
-      <title>Selective reduction of CO2 to ethanol over Si/Cu(1 1 1) surface: An insights from the first-principles calculations</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.114781</link>
-      <description>Chang Liu, Dan Wang, Boting Yang, Song Jiang, Gang Sun, Yong&#8208;Qing Qiu, Chun&#8208;Guang Liu, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4400867054
-
-                No abstract</description>
-      <author>Chang Liu, Dan Wang, Boting Yang, Song Jiang, Gang Sun, Yong&#8208;Qing Qiu, Chun&#8208;Guang Liu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114781</guid>
-    </item>
     <item>
       <title>CuFe nanoparticles coupled Cu&#8211;Nx for enhancing oxygen reduction reaction</title>
       <link>https://doi.org/10.1016/j.colsurfa.2024.134890</link>
@@ -452,7 +432,7 @@
       <link>https://doi.org/10.1126/sciadv.adl3693</link>
       <description>Cheng&#8208;Yu Wu, Yueh&#8208;Chun Hsiao, Ying Chen, Kun&#8208;Han Lin, Tsung-Ju Lee, Chong&#8208;Chi Chi, Jui&#8208;Tai Lin, Liang&#8208;Ching Hsu, Hsin-Jung Tsai, Jiaqi Gao, Chun&#8208;Wei Chang, I&#8208;Ting Kao, Chia&#8208;Ying Wu, Ying&#8208;Rui Lu, Chih&#8208;Wen Pao, Sung&#8208;Fu Hung, Ming&#8208;Yen Lu, Shan Zhou, Tung&#8208;Han Yang, Science Advances. 10(30)] 2024. https://openalex.org/W4401016416
 
-                We report a catalyst family of high-entropy alloy (HEA) atomic layers having three elements from iron-group metals (IGMs) and two elements from platinum-group metals (PGMs). Ten distinct quinary compositions of IGM-PGM-HEA with precisely controlled square atomic arrangements are used to explore their impact on hydrogen evolution reaction (HER) and hydrogen oxidation reaction (HOR). The PtRuFeCoNi atomic layers perform enhanced catalytic activity and durability toward HER and HOR when benchmarked against the other IGM-PGM-HEA and commercial Pt/C catalysts. Operando synchrotron x-ray absorption spectroscopy and density functional theory simulations confirm the cocktail effect arising from the multielement composition. This effect optimizes hydrogen-adsorption free energy and contributes to the remarkable catalytic activity observed in PtRuFeCoNi. In situ electron microscopy captures the phase transformation of metastable PtRuFeCoNi during the annealing process. They transform from random atomic mixing (25&#176;C), to ordered L1 0 (300&#176;C) and L1 2 (400&#176;C) intermetallic, and finally phase-separated states (500&#176;C).</description>
+                We report a catalyst family of high-entropy alloy (HEA) atomic layers having three elements from iron-group metals (IGMs) and two elements from platinum-group metals (PGMs). Ten distinct quinary compositions of IGM-PGM-HEA with precisely controlled square atomic arrangements are used to explore their impact on hydrogen evolution reaction (HER) and hydrogen oxidation reaction (HOR). The PtRuFeCoNi atomic layers perform enhanced catalytic activity and durability toward HER and HOR when benchmarked against the other IGM-PGM-HEA and commercial Pt/C catalysts. Operando synchrotron x-ray absorption spectroscopy and density functional theory simulations confirm the cocktail effect arising from the multielement composition. This effect optimizes hydrogen-adsorption free energy and contributes to the remarkable catalytic activity observed in PtRuFeCoNi. In situ electron microscopy captures the phase transformation of metastable PtRuFeCoNi during the annealing process. They transform from random atomic mixing (25&#176;C), to ordered L1</description>
       <author>Cheng&#8208;Yu Wu, Yueh&#8208;Chun Hsiao, Ying Chen, Kun&#8208;Han Lin, Tsung-Ju Lee, Chong&#8208;Chi Chi, Jui&#8208;Tai Lin, Liang&#8208;Ching Hsu, Hsin-Jung Tsai, Jiaqi Gao, Chun&#8208;Wei Chang, I&#8208;Ting Kao, Chia&#8208;Ying Wu, Ying&#8208;Rui Lu, Chih&#8208;Wen Pao, Sung&#8208;Fu Hung, Ming&#8208;Yen Lu, Shan Zhou, Tung&#8208;Han Yang</author>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adl3693</guid>

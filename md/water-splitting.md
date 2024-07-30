@@ -1,66 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Jul 29 01:13:03 2024
+Created on Tue Jul 30 01:11:14 2024
 
-Found 123 results from 2024-07-22 to 2024-07-29
+Found 117 results from 2024-07-23 to 2024-07-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Oxygen Vacancy-Engineered P-doped MoO3/Ce2Mo4O15 Bimetallic Heterojunction Nanosheet Array for Enhanced Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4400865829    
-Open access: False
-    
-[Peng Chen](https://openalex.org/A5101647065), [Hengfu Shui](https://openalex.org/A5024711435), [Sheng Wang](https://openalex.org/A5100371335), [Feng‐Cui Shen](https://openalex.org/A5077822193), Electrochimica acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144747.
-    
-No abstract    
-
-    
-
-## Introducing Oxygen Vacancies to tune Cobalt Oxide by Mn doped for High-effective Overall Water-Splitting   
-
-OpenAlex: https://openalex.org/W4400867149    
-Open access: False
-    
-[Lei Zhang](https://openalex.org/A5100746459), [Fenghua Wei](https://openalex.org/A5060986835), [Yukui Zhang](https://openalex.org/A5101814743), Materials today communications. None(None)] 2024.https://doi.org/10.1016/j.mtcomm.2024.109887.
-    
-No abstract    
-
-    
-
-## Extremely Active and Robust Ir‐Mn Dual‐Atom Electrocatalyst for Oxygen Evolution Reaction by Oxygen‐Oxygen Radical Coupling Mechanism   
-
-OpenAlex: https://openalex.org/W4400869068    
-Open access: False
-    
-[Wenbo Liu](https://openalex.org/A5100330681), [Guifa Long](https://openalex.org/A5024416620), [Zhipeng Xiang](https://openalex.org/A5023821521), [Jinhua Piao](https://openalex.org/A5044407910), [Kai Wan](https://openalex.org/A5006641147), [Zhiyong Fu](https://openalex.org/A5064527037), [Zhenxing Liang](https://openalex.org/A5084212550), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202411014.
-    
-A novel Ir‐Mn dual‐atom electrocatalyst is synthesized by a facile ion‐exchange method by incorporating Ir in SrMnO3, which yields an extremely high activity and stability for the oxygen evolution reaction (OER). The ion exchange process occurs in a self‐limitation way, which favors the formation of Ir‐Mn dual‐atom in the IrMnO9 unit. The incorporation of Ir modulates the electronic structure of both Ir and Mn, thereby resulting in a shorter distance of the Ir‐Mn dual‐atom (2.41 Å) than the Mn‐Mn dual‐atom (2.49 Å). The modulated Ir‐Mn dual‐atom enables the same spin direction O (↑) of the adsorbed *O intermediates, thus facilitating the direct coupling of the two adsorbed *O intermediates to release O2 via the oxygen‐oxygen radical coupling mechanism. Electrochemical tests reveal that the Ir‐SrMnO3 exhibits a superior OER's activity with a low overpotential of 207 mV at 10 mA cm‐2 and achieves a mass specific activity of 1100 A gIr‐1 at 1.5 V. The proton‐exchange‐membrane water electrolyzer with the Ir‐SrMnO3 catalyst exhibits a low electrolysis voltage of 1.63 V at 1.0 A cm‐2 and a stable 2000‐h operation with a decay of only 15 μV h‐1 at 0.5 A cm‐2.    
-
-    
-
-## Extremely Active and Robust Ir‐Mn Dual‐Atom Electrocatalyst for Oxygen Evolution Reaction by Oxygen‐Oxygen Radical Coupling Mechanism   
-
-OpenAlex: https://openalex.org/W4400869196    
-Open access: False
-    
-[Wenbo Liu](https://openalex.org/A5100330681), [Guifa Long](https://openalex.org/A5024416620), [Zhipeng Xiang](https://openalex.org/A5023821521), [Jinhua Piao](https://openalex.org/A5044407910), [Kai Wan](https://openalex.org/A5006641147), [Zhiyong Fu](https://openalex.org/A5064527037), [Zhenxing Liang](https://openalex.org/A5102786522), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202411014.
-    
-A novel Ir‐Mn dual‐atom electrocatalyst is synthesized by a facile ion‐exchange method by incorporating Ir in SrMnO3, which yields an extremely high activity and stability for the oxygen evolution reaction (OER). The ion exchange process occurs in a self‐limitation way, which favors the formation of Ir‐Mn dual‐atom in the IrMnO9 unit. The incorporation of Ir modulates the electronic structure of both Ir and Mn, thereby resulting in a shorter distance of the Ir‐Mn dual‐atom (2.41 Å) than the Mn‐Mn dual‐atom (2.49 Å). The modulated Ir‐Mn dual‐atom enables the same spin direction O (↑) of the adsorbed *O intermediates, thus facilitating the direct coupling of the two adsorbed *O intermediates to release O2 via the oxygen‐oxygen radical coupling mechanism. Electrochemical tests reveal that the Ir‐SrMnO3 exhibits a superior OER's activity with a low overpotential of 207 mV at 10 mA cm‐2 and achieves a mass specific activity of 1100 A gIr‐1 at 1.5 V. The proton‐exchange‐membrane water electrolyzer with the Ir‐SrMnO3 catalyst exhibits a low electrolysis voltage of 1.63 V at 1.0 A cm‐2 and a stable 2000‐h operation with a decay of only 15 μV h‐1 at 0.5 A cm‐2.    
-
-    
-
-## Composition Heterogeneity of Metal Ions Bound at the Oxygen-Evolving Center of Photosystem II in Living Cells   
-
-OpenAlex: https://openalex.org/W4400870406    
-Open access: False
-    
-[Jimin Wang](https://openalex.org/A5100772432), Biochemistry. None(None)] 2024.https://doi.org/10.1021/acs.biochem.4c00261.
-    
-Recent resolution advancement of    
-
-    
 
 ## Amorphous carbon modulated-Quantum Dots NiO for Efficient Oxygen Evolution in Anion Exchange Membrane Water Electrolyzer   
 
@@ -810,17 +755,6 @@ No abstract
 
     
 
-## Zipper‐Like Interlocked Heterostructure of NiFe Layered Double Hydroxide‐WN for Super‐Stable Oxygen Evolution over 4500 h   
-
-OpenAlex: https://openalex.org/W4400881423    
-Open access: False
-    
-[Minghui Xing](https://openalex.org/A5080166190), [Zelong Qiao](https://openalex.org/A5059240369), [Shaoke Zhu](https://openalex.org/A5100577308), [Gaohong Xu](https://openalex.org/A5008203598), [Jimmy Yun](https://openalex.org/A5101165186), [Dapeng Cao](https://openalex.org/A5056166029), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202409559.
-    
-Abstract The nickel‐iron based materials are widely studied as excellent oxygen evolution reaction (OER) electrocatalysts. However, its relatively poor OER stability limits its practical applications. Herein, a zipper‐like interlocked heterostructure of NiFe layered double hydroxide (LDH)‐WN is constructed. The NiFe LDH‐WN exhibits not only ultrahigh OER activity of 228 mV overpotential at a current density of 50 mA cm −2 , but also extremely long‐term stability over 4500 h at 50 mA cm −2 and over 550 h at an industrial current density ≈350 mA cm −2 , which is ascribed to its special zipper‐like interlocked structure. Moreover, in situ Raman confirms that the presence of WN can efficiently achieve NiFe LDH reconstruction to slower the metal dissolution during OER, and therefore boosts its stability. DFT calculations reveal that WN not only can increase the *O adsorption capability and conductivity of NiFe LDH layer, but also can anchor the metal atoms of NiFe LDH layer to improve the dissolution energy barrier. In short, this work presents a new method of constructing the interlocked heterostructure to improve the OER stability of Ni‐Fe‐based catalysts, which would accelerate its practical application.    
-
-    
-
 ## Preparation of 3d-Network Structure Based on Sepiolite Loaded Mn2coo4 Aerogel Powder and its Oxygen Evolution Performance   
 
 OpenAlex: https://openalex.org/W4400898278    
@@ -829,6 +763,17 @@ Open access: False
 [Rui Xu](https://openalex.org/A5080151941), [Tianlei Wang](https://openalex.org/A5030905544), [Xiudang Jing](https://openalex.org/A5080027309), [Y Chen](https://openalex.org/A5081527781), [Lei Zhang](https://openalex.org/A5100433988), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4902235.
     
 No abstract    
+
+    
+
+## Zipper‐Like Interlocked Heterostructure of NiFe Layered Double Hydroxide‐WN for Super‐Stable Oxygen Evolution over 4500 h   
+
+OpenAlex: https://openalex.org/W4400881423    
+Open access: False
+    
+[Minghui Xing](https://openalex.org/A5080166190), [Zelong Qiao](https://openalex.org/A5059240369), [Shaoke Zhu](https://openalex.org/A5100577308), [Gaohong Xu](https://openalex.org/A5008203598), [Jimmy Yun](https://openalex.org/A5101165186), [Dapeng Cao](https://openalex.org/A5056166029), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202409559.
+    
+Abstract The nickel‐iron based materials are widely studied as excellent oxygen evolution reaction (OER) electrocatalysts. However, its relatively poor OER stability limits its practical applications. Herein, a zipper‐like interlocked heterostructure of NiFe layered double hydroxide (LDH)‐WN is constructed. The NiFe LDH‐WN exhibits not only ultrahigh OER activity of 228 mV overpotential at a current density of 50 mA cm −2 , but also extremely long‐term stability over 4500 h at 50 mA cm −2 and over 550 h at an industrial current density ≈350 mA cm −2 , which is ascribed to its special zipper‐like interlocked structure. Moreover, in situ Raman confirms that the presence of WN can efficiently achieve NiFe LDH reconstruction to slower the metal dissolution during OER, and therefore boosts its stability. DFT calculations reveal that WN not only can increase the *O adsorption capability and conductivity of NiFe LDH layer, but also can anchor the metal atoms of NiFe LDH layer to improve the dissolution energy barrier. In short, this work presents a new method of constructing the interlocked heterostructure to improve the OER stability of Ni‐Fe‐based catalysts, which would accelerate its practical application.    
 
     
 
@@ -1239,17 +1184,6 @@ Abstract In pursuing cheap and effective oxygen reduction catalysts, the Fe/N/C 
 
     
 
-## HOO• as the Chain Carrier for the Autocatalytic Photooxidation of Benzylic Alcohols   
-
-OpenAlex: https://openalex.org/W4400876445    
-Open access: True
-    
-[Xiaogang Wang](https://openalex.org/A5100444820), [H. B. Lao](https://openalex.org/A5065480942), [H. Zhang](https://openalex.org/A5062423796), [Yi Wang](https://openalex.org/A5100364985), [Shouxin Zhang](https://openalex.org/A5101742243), [Jieqing Wu](https://openalex.org/A5032181454), [Yu‐Feng Li](https://openalex.org/A5047238435), [Hongjun Zhu](https://openalex.org/A5101567896), [Jianyou Mao](https://openalex.org/A5053728947), [Yi Pan](https://openalex.org/A5100620910), Molecules. 29(14)] 2024.https://doi.org/10.3390/molecules29143429.
-    
-The oxidation of benzylic alcohols is an important transformation in modern organic synthesis. A plethora of photoredox protocols have been developed to achieve the aerobic oxidation of alcohols into carbonyls. Recently, several groups described that ultraviolet (UV) or purple light can initiate the aerobic oxidation of benzylic alcohols in the absence of an external catalyst, and depicted different mechanisms involving the photoinduction of •O2− as a critical reactive oxygen species (ROS). However, based on comprehensive mechanistic investigations, including control experiments, radical quenching experiments, EPR studies, UV–vis spectroscopy, kinetics studies, and density functional theory calculations (DFT), we elucidate here that HOO•, which is released via the H2O2 elimination of α-hydroxyl peroxyl radicals [ArCR(OH)OO•], serves as the real chain carrier for the autocatalytic photooxidation of benzylic alcohols. The mechanistic ambiguities depicted in the precedent literature are clarified, in terms of the crucial ROS and its evolution, the rate-limiting step, and the primary radical cascade. This work highlights the necessity of stricter mechanistic analyses on UV-driven oxidative reactions that involve aldehydes’ (or ketones) generation.    
-
-    
-
 ## Reactively Processed Poly(butylene adipate terephthalate) Composite–Based Multilayered Films with Improved Properties for Sustainable Packaging Applications: Structural Characterization and Biodegradation Mechanism   
 
 OpenAlex: https://openalex.org/W4400903936    
@@ -1258,17 +1192,6 @@ Open access: True
 [Jayita Bandyopadhyay](https://openalex.org/A5057895285), [Orebotse Joseph Botlhoko](https://openalex.org/A5067025588), [Caroline Mphahlele](https://openalex.org/A5104986517), [Rakgoshi Lekalakala](https://openalex.org/A5044588222), [Sudhakar Muniyasamy](https://openalex.org/A5073254183), [Suprakas Sinha Ray](https://openalex.org/A5030499659), Macromolecular Chemistry and Physics. None(None)] 2024.https://doi.org/10.1002/macp.202400067.
     
 Abstract In this study, it is attempted to enhance the properties and biodegradability of poly(butylene adipate terephthalate) (PBAT) using nanocomposite technology to meet the demand for sustainable packaging applications. Two nanoclays containing PBAT composites are reactively processed and integrated into the multilayered films. Reactive processing facilitates the dispersion and distribution of nanoclay particles in the PBAT matrix. The multilayered films comprising reactively processed PBAT composites exhibited a 24.5%–31.5% reduction in the oxygen transmission rate and improved dimensional stability and tensile properties. Moreover, the degradability of the multilayered film comprising reactively processed PBAT composites reached 82% in 180 days. In contrast, a neat PBAT film of similar thickness attained only 53% degradation in the same period. The biodegradation mechanism is proposed based on the topology of the disintegrated films studied using scanning electron microscopy, chemical bond vibrations determined by Fourier‐transform infrared spectroscopy, and structural evolution by small‐ and wide‐angle X‐ray scattering (SWAXS). The SWAXS analysis is used to understand the changes in the degree of crystallinity, long‐range periodic order, and crystalline and amorphous layer thickness of the multilayered films before and after degradation. Such multilayered films can find applications where packaging or biomedical devices cannot be recycled.    
-
-    
-
-## Emerging insights into the pathogenesis and therapeutic strategies for vascular endothelial injury-associated diseases: focus on mitochondrial dysfunction   
-
-OpenAlex: https://openalex.org/W4401010620    
-Open access: True
-    
-[Boxian Pang](https://openalex.org/A5074106903), [Guangtong Dong](https://openalex.org/A5070949320), [Tieliang Pang](https://openalex.org/A5071917815), [Xinyao Sun](https://openalex.org/A5054279552), [Xin Liu](https://openalex.org/A5100352198), [Y.M. Nie](https://openalex.org/A5054558623), [Xing Chang](https://openalex.org/A5065945066), Angiogenesis. None(None)] 2024.https://doi.org/10.1007/s10456-024-09938-4.
-    
-Abstract As a vital component of blood vessels, endothelial cells play a key role in maintaining overall physiological function by residing between circulating blood and semi-solid tissue. Various stress stimuli can induce endothelial injury, leading to the onset of corresponding diseases in the body. In recent years, the importance of mitochondria in vascular endothelial injury has become increasingly apparent. Mitochondria, as the primary site of cellular aerobic respiration and the organelle for “energy information transfer,” can detect endothelial cell damage by integrating and receiving various external stress signals. The generation of reactive oxygen species (ROS) and mitochondrial dysfunction often determine the evolution of endothelial cell injury towards necrosis or apoptosis. Therefore, mitochondria are closely associated with endothelial cell function, helping to determine the progression of clinical diseases. This article comprehensively reviews the interconnection and pathogenesis of mitochondrial-induced vascular endothelial cell injury in cardiovascular diseases, renal diseases, pulmonary-related diseases, cerebrovascular diseases, and microvascular diseases associated with diabetes. Corresponding therapeutic approaches are also provided. Additionally, strategies for using clinical drugs to treat vascular endothelial injury-based diseases are discussed, aiming to offer new insights and treatment options for the clinical diagnosis of related vascular injuries.    
 
     
 
@@ -1288,9 +1211,20 @@ We conducted an investigation on the chemical abundances of 4,316 stars in the r
 OpenAlex: https://openalex.org/W4401038578    
 Open access: True
     
-[Raphaël Aeschlimann](https://openalex.org/A5087769815), [M. Bibes](https://openalex.org/A5031758687), [Alexandre Gloter](https://openalex.org/A5025915332), Advanced Materials Interfaces. None(None)] 2024.https://doi.org/10.1002/admi.202400489.
+[Raphaël Aeschlimann](https://openalex.org/A5087769815), [Manuel Bibès](https://openalex.org/A5031758687), [Alexandre Gloter](https://openalex.org/A5025915332), Advanced Materials Interfaces. None(None)] 2024.https://doi.org/10.1002/admi.202400489.
     
 Abstract Perovskite rare‐earth titanates RTiO 3 display a rich array of magnetic and electronic properties, with a Mott‐insulating ground state and ferro‐ or antiferromagnetic spin orders depending on the rare‐earth R. The nominal Ti valence is 3+ with a corresponding 3 d 1 configuration. Yet, at the surface of both bulk and thin films of RTiO 3 , the Ti valence has been found to strongly deviate towards the more stable 4+ state, adversely affecting magnetic properties. While this finding is rather ubiquitous, its exact origin is still poorly understood, which hampers the integration of RTiO 3 into complex heterostructures harnessing their rich physics. Here, scanning transmission electron microscope and electron energy loss spectroscopy experiments are used to analyze the top part of an epitaxial DyTiO 3 thin film displaying a well‐developed Ti 4+ ‐rich layer over several nanometres. It shows that this valence evolution is related to a combination of short‐range ordered interstitial oxygen planes and Ti‐Dy cationic imbalance. Both defects synergistically contribute to enough hole doping for a complete transition toward Ti 4+ over a few unit‐cells from the surface while a structure primarily of the perovskite‐type is maintained.    
+
+    
+
+## Emerging insights into the pathogenesis and therapeutic strategies for vascular endothelial injury-associated diseases: focus on mitochondrial dysfunction   
+
+OpenAlex: https://openalex.org/W4401010620    
+Open access: True
+    
+[Boxian Pang](https://openalex.org/A5074106903), [Guangtong Dong](https://openalex.org/A5070949320), [Tieliang Pang](https://openalex.org/A5071917815), [Xinyao Sun](https://openalex.org/A5054279552), [Xin Liu](https://openalex.org/A5100352198), [Yifeng Nie](https://openalex.org/A5054558623), [Xing Chang](https://openalex.org/A5065945066), Angiogenesis. None(None)] 2024.https://doi.org/10.1007/s10456-024-09938-4.
+    
+As a vital component of blood vessels, endothelial cells play a key role in maintaining overall physiological function by residing between circulating blood and semi-solid tissue. Various stress stimuli can induce endothelial injury, leading to the onset of corresponding diseases in the body. In recent years, the importance of mitochondria in vascular endothelial injury has become increasingly apparent. Mitochondria, as the primary site of cellular aerobic respiration and the organelle for "energy information transfer," can detect endothelial cell damage by integrating and receiving various external stress signals. The generation of reactive oxygen species (ROS) and mitochondrial dysfunction often determine the evolution of endothelial cell injury towards necrosis or apoptosis. Therefore, mitochondria are closely associated with endothelial cell function, helping to determine the progression of clinical diseases. This article comprehensively reviews the interconnection and pathogenesis of mitochondrial-induced vascular endothelial cell injury in cardiovascular diseases, renal diseases, pulmonary-related diseases, cerebrovascular diseases, and microvascular diseases associated with diabetes. Corresponding therapeutic approaches are also provided. Additionally, strategies for using clinical drugs to treat vascular endothelial injury-based diseases are discussed, aiming to offer new insights and treatment options for the clinical diagnosis of related vascular injuries.    
 
     
 

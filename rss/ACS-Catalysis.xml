@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Jul 2024 01:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 01:11:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Engineering Reaction Pathway to Harmonize the Competition between NRR and HER for Efficient Photocatalytic Ammonia Synthesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c02430</link>
-      <description>Zhanfeng Zhao, Yao Nian, Jiafu Shi, Xin Xin, Xinyuan Huang, Yonghui Shi, Jiangdan Tan, Yukui Zhang, You Han, Dong Yang, Zhongyi Jiang, ACS catalysis. None(None)] 2024. https://openalex.org/W4400866691
-
-                No abstract</description>
-      <author>Zhanfeng Zhao, Yao Nian, Jiafu Shi, Xin Xin, Xinyuan Huang, Yonghui Shi, Jiangdan Tan, Yukui Zhang, You Han, Dong Yang, Zhongyi Jiang</author>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02430</guid>
-    </item>
-    <item>
-      <title>Unlocking Spatially Constrained Photogenerated Charge via Dimension Regulation in Metal Halide Perovskite Nanowires for Enhanced Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c01968</link>
-      <description>Heng Shi, Huiyu Liu, Chenyu Du, Fengyi Zhong, Ye He, Vitaliy Guro, Ying Zhou, Jianping Sheng, Fan Dong, ACS catalysis. None(None)] 2024. https://openalex.org/W4400866743
-
-                No abstract</description>
-      <author>Heng Shi, Huiyu Liu, Chenyu Du, Fengyi Zhong, Ye He, Vitaliy Guro, Ying Zhou, Jianping Sheng, Fan Dong</author>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01968</guid>
-    </item>
     <item>
       <title>Progress of Covalent Organic Framework Photocatalysts: From Crystallinity&#8211;Stability Dilemma to Photocatalytic Performance Improvement</title>
       <link>https://doi.org/10.1021/acscatal.4c02738</link>
@@ -70,10 +50,10 @@
     <item>
       <title>Azobenzene-Based Photoswitchable Substrates for Advanced Mechanistic Studies of Model Haloalkane Dehalogenase Enzyme Family</title>
       <link>https://doi.org/10.1021/acscatal.4c03503</link>
-      <description>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Ben L. Feringa, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400892195
+      <description>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Peter &#352;tacko, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400892195
 
                 No abstract</description>
-      <author>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Ben L. Feringa, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop</author>
+      <author>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Peter &#352;tacko, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop</author>
       <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03503</guid>
     </item>

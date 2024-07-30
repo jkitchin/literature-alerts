@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Jul 29 01:13:09 2024
+Created on Tue Jul 30 01:11:20 2024
 
-Found 33 results from 2024-07-22 to 2024-07-29
+Found 31 results from 2024-07-23 to 2024-07-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Engineering Reaction Pathway to Harmonize the Competition between NRR and HER for Efficient Photocatalytic Ammonia Synthesis   
-
-OpenAlex: https://openalex.org/W4400866691    
-Open access: False
-    
-[Zhanfeng Zhao](https://openalex.org/A5102909929), [Yao Nian](https://openalex.org/A5039063426), [Jiafu Shi](https://openalex.org/A5010248148), [Xin Xin](https://openalex.org/A5100393242), [Xinyuan Huang](https://openalex.org/A5043305547), [Yonghui Shi](https://openalex.org/A5102224550), [Jiangdan Tan](https://openalex.org/A5065934571), [Yukui Zhang](https://openalex.org/A5101814743), [You Han](https://openalex.org/A5075354166), [Dong Yang](https://openalex.org/A5003330027), [Zhongyi Jiang](https://openalex.org/A5069350254), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02430.
-    
-No abstract    
-
-    
-
-## Unlocking Spatially Constrained Photogenerated Charge via Dimension Regulation in Metal Halide Perovskite Nanowires for Enhanced Photocatalytic CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4400866743    
-Open access: False
-    
-[Heng Shi](https://openalex.org/A5015855828), [Huiyu Liu](https://openalex.org/A5085037467), [Chenyu Du](https://openalex.org/A5033144548), [Fengyi Zhong](https://openalex.org/A5029987068), [Ye He](https://openalex.org/A5038487621), [Vitaliy Guro](https://openalex.org/A5075646631), [Ying Zhou](https://openalex.org/A5071872950), [Jianping Sheng](https://openalex.org/A5015126299), [Fan Dong](https://openalex.org/A5065938824), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01968.
-    
-No abstract    
-
-    
 
 ## Progress of Covalent Organic Framework Photocatalysts: From Crystallinity–Stability Dilemma to Photocatalytic Performance Improvement   
 
@@ -77,7 +55,7 @@ No abstract
 OpenAlex: https://openalex.org/W4400892195    
 Open access: True
     
-[Michaela Slanska](https://openalex.org/A5083414512), [Lenka Štacková](https://openalex.org/A5080652138), [Sérgio M. Marques](https://openalex.org/A5025152279), [Ben L. Feringa](https://openalex.org/A5102896309), [Marek Martínek](https://openalex.org/A5008416317), [L Jílek](https://openalex.org/A5027083082), [Martin Toul](https://openalex.org/A5032403655), [Jiřı́ Damborský](https://openalex.org/A5040585952), [David Bednář](https://openalex.org/A5003693498), [Petr Klán](https://openalex.org/A5046701485), [Zbyněk Prokop](https://openalex.org/A5089102372), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03503.
+[Michaela Slanska](https://openalex.org/A5083414512), [Lenka Štacková](https://openalex.org/A5080652138), [Sérgio M. Marques](https://openalex.org/A5025152279), [Peter Štacko](https://openalex.org/A5102896309), [Marek Martínek](https://openalex.org/A5008416317), [L Jílek](https://openalex.org/A5027083082), [Martin Toul](https://openalex.org/A5032403655), [Jiřı́ Damborský](https://openalex.org/A5040585952), [David Bednář](https://openalex.org/A5003693498), [Petr Klán](https://openalex.org/A5046701485), [Zbyněk Prokop](https://openalex.org/A5089102372), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03503.
     
 No abstract    
 

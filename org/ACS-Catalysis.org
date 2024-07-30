@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Jul 29 01:13:09 2024
+Created on Tue Jul 30 01:11:20 2024
 
-Found 33 results from 2024-07-22 to 2024-07-29
+Found 31 results from 2024-07-23 to 2024-07-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Engineering Reaction Pathway to Harmonize the Competition between NRR and HER for Efficient Photocatalytic Ammonia Synthesis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400866691
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Content-Centric Networking for Information Delivery
-:PUBLICATION_DATE: 2024-07-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02430")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400866691"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400866691"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400866691"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400866691 (Open access: False)
-    
-[[https://openalex.org/A5102909929][Zhanfeng Zhao]], [[https://openalex.org/A5039063426][Yao Nian]], [[https://openalex.org/A5010248148][Jiafu Shi]], [[https://openalex.org/A5100393242][Xin Xin]], [[https://openalex.org/A5043305547][Xinyuan Huang]], [[https://openalex.org/A5102224550][Yonghui Shi]], [[https://openalex.org/A5065934571][Jiangdan Tan]], [[https://openalex.org/A5101814743][Yukui Zhang]], [[https://openalex.org/A5075354166][You Han]], [[https://openalex.org/A5003330027][Dong Yang]], [[https://openalex.org/A5069350254][Zhongyi Jiang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02430 
-     
-No abstract    
-
-    
-
-* Unlocking Spatially Constrained Photogenerated Charge via Dimension Regulation in Metal Halide Perovskite Nanowires for Enhanced Photocatalytic CO2 Reduction  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400866743
-:TOPICS: Perovskite Solar Cell Technology, Photocatalytic Materials for Solar Energy Conversion, Applications of Quantum Dots in Nanotechnology
-:PUBLICATION_DATE: 2024-07-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01968")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400866743"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400866743"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400866743"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400866743 (Open access: False)
-    
-[[https://openalex.org/A5015855828][Heng Shi]], [[https://openalex.org/A5085037467][Huiyu Liu]], [[https://openalex.org/A5033144548][Chenyu Du]], [[https://openalex.org/A5029987068][Fengyi Zhong]], [[https://openalex.org/A5038487621][Ye He]], [[https://openalex.org/A5075646631][Vitaliy Guro]], [[https://openalex.org/A5071872950][Ying Zhou]], [[https://openalex.org/A5015126299][Jianping Sheng]], [[https://openalex.org/A5065938824][Fan Dong]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01968 
-     
-No abstract    
-
-    
 
 * Progress of Covalent Organic Framework Photocatalysts: From Crystallinity–Stability Dilemma to Photocatalytic Performance Improvement  :ACS_Catalysis:
 :PROPERTIES:
@@ -147,7 +105,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4400892195 (Open access: True)
     
-[[https://openalex.org/A5083414512][Michaela Slanska]], [[https://openalex.org/A5080652138][Lenka Štacková]], [[https://openalex.org/A5025152279][Sérgio M. Marques]], [[https://openalex.org/A5102896309][Ben L. Feringa]], [[https://openalex.org/A5008416317][Marek Martínek]], [[https://openalex.org/A5027083082][L Jílek]], [[https://openalex.org/A5032403655][Martin Toul]], [[https://openalex.org/A5040585952][Jiřı́ Damborský]], [[https://openalex.org/A5003693498][David Bednář]], [[https://openalex.org/A5046701485][Petr Klán]], [[https://openalex.org/A5089102372][Zbyněk Prokop]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03503 
+[[https://openalex.org/A5083414512][Michaela Slanska]], [[https://openalex.org/A5080652138][Lenka Štacková]], [[https://openalex.org/A5025152279][Sérgio M. Marques]], [[https://openalex.org/A5102896309][Peter Štacko]], [[https://openalex.org/A5008416317][Marek Martínek]], [[https://openalex.org/A5027083082][L Jílek]], [[https://openalex.org/A5032403655][Martin Toul]], [[https://openalex.org/A5040585952][Jiřı́ Damborský]], [[https://openalex.org/A5003693498][David Bednář]], [[https://openalex.org/A5046701485][Petr Klán]], [[https://openalex.org/A5089102372][Zbyněk Prokop]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03503 
      
 No abstract    
 

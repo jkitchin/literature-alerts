@@ -1,8 +1,8 @@
 # Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Mon Jul 29 01:13:10 2024
+Created on Tue Jul 30 01:11:21 2024
 
-Found 3 results from 2024-07-22 to 2024-07-29
+Found 3 results from 2024-07-23 to 2024-07-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
@@ -25,7 +25,7 @@ Open access: True
     
 [Tian Lan](https://openalex.org/A5101771790), [Huan Wang](https://openalex.org/A5100746464), [Qi An](https://openalex.org/A5087858172), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-50531-6.
     
-Abstract Exploring catalytic reaction mechanisms is crucial for understanding chemical processes, optimizing reaction conditions, and developing more effective catalysts. We present a reaction-agnostic framework based on high-throughput deep reinforcement learning with first principles (HDRL-FP) that offers excellent generalizability for investigating catalytic reactions. HDRL-FP introduces a generalizable reinforcement learning representation of catalytic reactions constructed solely from atomic positions, which are subsequently mapped to first-principles-derived potential energy landscapes. By leveraging thousands of simultaneous simulations on a single GPU, HDRL-FP enables rapid convergence to the optimal reaction path at a low cost. Its effectiveness is demonstrated through the studies of hydrogen and nitrogen migration in Haber-Bosch ammonia synthesis on the Fe(111) surface. Our findings reveal that the Langmuir-Hinshelwood mechanism shares the same transition state as the Eley-Rideal mechanism for H migration to NH 2 , forming ammonia. Furthermore, the reaction path identified herein exhibits a lower energy barrier compared to that through nudged elastic band calculation.    
+Exploring catalytic reaction mechanisms is crucial for understanding chemical processes, optimizing reaction conditions, and developing more effective catalysts. We present a reaction-agnostic framework based on high-throughput deep reinforcement learning with first principles (HDRL-FP) that offers excellent generalizability for investigating catalytic reactions. HDRL-FP introduces a generalizable reinforcement learning representation of catalytic reactions constructed solely from atomic positions, which are subsequently mapped to first-principles-derived potential energy landscapes. By leveraging thousands of simultaneous simulations on a single GPU, HDRL-FP enables rapid convergence to the optimal reaction path at a low cost. Its effectiveness is demonstrated through the studies of hydrogen and nitrogen migration in Haber-Bosch ammonia synthesis on the Fe(111) surface. Our findings reveal that the Langmuir-Hinshelwood mechanism shares the same transition state as the Eley-Rideal mechanism for H migration to NH    
 
     
 
