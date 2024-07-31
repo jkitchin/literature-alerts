@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jul 2024 01:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 00:59:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Progress of Covalent Organic Framework Photocatalysts: From Crystallinity&#8211;Stability Dilemma to Photocatalytic Performance Improvement</title>
-      <link>https://doi.org/10.1021/acscatal.4c02738</link>
-      <description>Huili Ran, Quanlong Xu, Yun Yang, Huaxing Li, Jiajie Fan, Gang Liu, Lijie Zhang, Jun Zou, Lianghao Yu, Shun Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400884959
-
-                No abstract</description>
-      <author>Huili Ran, Quanlong Xu, Yun Yang, Huaxing Li, Jiajie Fan, Gang Liu, Lijie Zhang, Jun Zou, Lianghao Yu, Shun Wang</author>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02738</guid>
-    </item>
-    <item>
-      <title>CO Methanation over Ni&#8211;Fe Alloy Catalysts: An Inverse Design Problem</title>
-      <link>https://doi.org/10.1021/acscatal.4c02449</link>
-      <description>Wenqiang Yang, Zhenbin Wang, Jens K. N&#248;rskov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400885651
-
-                No abstract</description>
-      <author>Wenqiang Yang, Zhenbin Wang, Jens K. N&#248;rskov</author>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02449</guid>
-    </item>
-    <item>
-      <title>Binder-Free Carbon Nitride Panels for Continuous-Flow Photocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c02349</link>
-      <description>Venugopala Rao Battula, Gabriel Mark, Ayelet Tashakory, Sanjit Mondal, Michael Volokh, Menny Shalom, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400886656
-
-                No abstract</description>
-      <author>Venugopala Rao Battula, Gabriel Mark, Ayelet Tashakory, Sanjit Mondal, Michael Volokh, Menny Shalom</author>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02349</guid>
-    </item>
-    <item>
-      <title>Asymmetric Multicomponent Propargylations via Carbon Dioxide Shuttling and Fixation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02333</link>
-      <description>Zi&#8208;Han Li, Jiang-Shan Ma, Han-Yu Lu, Guo&#8208;Qiang Lin, Zhi&#8208;Tao He, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400886816
-
-                No abstract</description>
-      <author>Zi&#8208;Han Li, Jiang-Shan Ma, Han-Yu Lu, Guo&#8208;Qiang Lin, Zhi&#8208;Tao He</author>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02333</guid>
-    </item>
-    <item>
-      <title>Azobenzene-Based Photoswitchable Substrates for Advanced Mechanistic Studies of Model Haloalkane Dehalogenase Enzyme Family</title>
-      <link>https://doi.org/10.1021/acscatal.4c03503</link>
-      <description>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Peter &#352;tacko, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400892195
-
-                No abstract</description>
-      <author>Michaela Slanska, Lenka &#352;tackov&#225;, S&#233;rgio M. Marques, Peter &#352;tacko, Marek Mart&#237;nek, L J&#237;lek, Martin Toul, Ji&#345;&#305;&#769; Damborsk&#253;, David Bedn&#225;&#345;, Petr Kl&#225;n, Zbyn&#283;k Prokop</author>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03503</guid>
-    </item>
     <item>
       <title>PdS Cluster Promotes Photocatalytic Coproduction of Hydrogen and Biomass-Based Monomers</title>
       <link>https://doi.org/10.1021/acscatal.4c03239</link>

@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Jul 30 01:11:20 2024
+Created on Wed Jul 31 00:59:27 2024
 
-Found 31 results from 2024-07-23 to 2024-07-30
+Found 26 results from 2024-07-24 to 2024-07-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Progress of Covalent Organic Framework Photocatalysts: From Crystallinity–Stability Dilemma to Photocatalytic Performance Improvement   
-
-OpenAlex: https://openalex.org/W4400884959    
-Open access: False
-    
-[Huili Ran](https://openalex.org/A5083218094), [Quanlong Xu](https://openalex.org/A5082548703), [Yun Yang](https://openalex.org/A5047646288), [Huaxing Li](https://openalex.org/A5003042730), [Jiajie Fan](https://openalex.org/A5036338722), [Gang Liu](https://openalex.org/A5100619706), [Lijie Zhang](https://openalex.org/A5047690526), [Jun Zou](https://openalex.org/A5086732170), [Lianghao Yu](https://openalex.org/A5025466794), [Shun Wang](https://openalex.org/A5100424610), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02738.
-    
-No abstract    
-
-    
-
-## CO Methanation over Ni–Fe Alloy Catalysts: An Inverse Design Problem   
-
-OpenAlex: https://openalex.org/W4400885651    
-Open access: False
-    
-[Wenqiang Yang](https://openalex.org/A5029181893), [Zhenbin Wang](https://openalex.org/A5037685122), [Jens K. Nørskov](https://openalex.org/A5055238911), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02449.
-    
-No abstract    
-
-    
-
-## Binder-Free Carbon Nitride Panels for Continuous-Flow Photocatalysis   
-
-OpenAlex: https://openalex.org/W4400886656    
-Open access: False
-    
-[Venugopala Rao Battula](https://openalex.org/A5087754786), [Gabriel Mark](https://openalex.org/A5043061152), [Ayelet Tashakory](https://openalex.org/A5057602251), [Sanjit Mondal](https://openalex.org/A5013014074), [Michael Volokh](https://openalex.org/A5065460570), [Menny Shalom](https://openalex.org/A5047007925), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02349.
-    
-No abstract    
-
-    
-
-## Asymmetric Multicomponent Propargylations via Carbon Dioxide Shuttling and Fixation   
-
-OpenAlex: https://openalex.org/W4400886816    
-Open access: False
-    
-[Zi‐Han Li](https://openalex.org/A5046785243), [Jiang-Shan Ma](https://openalex.org/A5051974056), [Han-Yu Lu](https://openalex.org/A5085115224), [Guo‐Qiang Lin](https://openalex.org/A5023443985), [Zhi‐Tao He](https://openalex.org/A5042616865), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02333.
-    
-No abstract    
-
-    
-
-## Azobenzene-Based Photoswitchable Substrates for Advanced Mechanistic Studies of Model Haloalkane Dehalogenase Enzyme Family   
-
-OpenAlex: https://openalex.org/W4400892195    
-Open access: True
-    
-[Michaela Slanska](https://openalex.org/A5083414512), [Lenka Štacková](https://openalex.org/A5080652138), [Sérgio M. Marques](https://openalex.org/A5025152279), [Peter Štacko](https://openalex.org/A5102896309), [Marek Martínek](https://openalex.org/A5008416317), [L Jílek](https://openalex.org/A5027083082), [Martin Toul](https://openalex.org/A5032403655), [Jiřı́ Damborský](https://openalex.org/A5040585952), [David Bednář](https://openalex.org/A5003693498), [Petr Klán](https://openalex.org/A5046701485), [Zbyněk Prokop](https://openalex.org/A5089102372), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03503.
-    
-No abstract    
-
-    
 
 ## PdS Cluster Promotes Photocatalytic Coproduction of Hydrogen and Biomass-Based Monomers   
 

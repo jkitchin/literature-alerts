@@ -1,8 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Tue Jul 30 01:11:18 2024
+Created on Wed Jul 31 00:59:25 2024
 
-Found 3 results from 2024-07-23 to 2024-07-30
+Found 2 results from 2024-07-24 to 2024-07-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
@@ -45,26 +45,5 @@ OpenAlex: https://openalex.org/W4401036189 (Open access: False)
 [[https://openalex.org/A5002833522][Sahar Nazari]], [[https://openalex.org/A5100429015][Jing Sun]], [[https://openalex.org/A5074034078][Mahroo Baharfar]], [[https://openalex.org/A5079510232][Philippe Poulin]], [[https://openalex.org/A5067220816][Kourosh Kalantar‐zadeh]], [[https://openalex.org/A5032822192][Rouhollah Jalili]], [[https://openalex.org/A5074770372][Dorna Esrafilzadeh]], Advanced Energy Materials. 14(28)] 2024. https://doi.org/10.1002/aenm.202470116 
      
 No abstract    
-
-    
-
-* Liquid Metal Alloys Enable Efficient Formate Electrosynthesis  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400887504
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-07-22
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202408966")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400887504"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400887504"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400887504"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400887504 (Open access: False)
-    
-[[https://openalex.org/A5100684579][Hui Huang]], [[https://openalex.org/A5102010939][Xue Ding]], [[https://openalex.org/A5003725369][Xinnan Mao]], [[https://openalex.org/A5100634108][Yuchen Yan]], [[https://openalex.org/A5013447364][Fang Lv]], [[https://openalex.org/A5030312735][Binbin Pan]], [[https://openalex.org/A5048171248][Wei Huang]], [[https://openalex.org/A5100364512][Lu Wang]], [[https://openalex.org/A5100819249][Na Han]], [[https://openalex.org/A5070610406][Yanguang Li]], Advanced Functional Materials. None(None)] 2024. https://doi.org/10.1002/adfm.202408966 
-     
-Abstract Liquid metals are an interesting class of materials with the unique combination of metallic nature and liquid fluidity, and have recently been explored in many emerging fields. Their potential applications in catalysis, unfortunately, remain largely untapped. Herein, Ga‐mediated liquid metal alloying as an effective strategy is demonstrated to prepare functional alloys for catalysis. The alloying is carried out by dissolving indium or tin pellets in liquid gallium at room temperature or assisted by gentle heating, giving rise to binary Ga 1− x In x and Ga 1− x Sn x liquid metal alloys with tunable chemical compositions. When further subjected to ultrasonication in water, they are ruptured into nanosized particles with liquid metal cores and thin surface oxide shells. Electrochemical measurements reveal that the liquid metal alloying significantly promotes electrocatalytic CO 2 reduction to formate. Taking Ga 0.75 In 0.25 as an example, its formate Faradaic efficiency is enhanced by 10%–20% compared to those of Ga and In, and its formate partial current density is 4–6 times larger than those of Ga and In. This enhancement is rationalized via computational simulations showing that the surrounding of In active sites with Ga atoms deactivates the undesirable reaction pathways to CO or H 2 , and facilitates selective formate electrosynthesis.    
 
     
