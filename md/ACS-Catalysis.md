@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jul 31 00:59:27 2024
+Created on Thu Aug  1 01:17:23 2024
 
-Found 26 results from 2024-07-24 to 2024-07-31
+Found 25 results from 2024-07-25 to 2024-08-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## PdS Cluster Promotes Photocatalytic Coproduction of Hydrogen and Biomass-Based Monomers   
-
-OpenAlex: https://openalex.org/W4400903387    
-Open access: False
-    
-[Zhaolin Dou](https://openalex.org/A5047510152), [Hongru Zhou](https://openalex.org/A5056500996), [Fanhao Kong](https://openalex.org/A5008502009), [Zhiwei Chen](https://openalex.org/A5100442703), [Min Ji](https://openalex.org/A5054025314), [Jiping Ma](https://openalex.org/A5101404671), [Min Wang](https://openalex.org/A5100340947), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03239.
-    
-No abstract    
-
-    
 
 ## Impact of Sn Lewis Acid Sites on the Dehydration of Cyclohexanol   
 

@@ -4,189 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 31 Jul 2024 00:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 01:17:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synergistic enhancement of oxygen evolution reaction catalysis with polythiophene-based composite electrodes incorporating NiCo-LDH and NiCo2S4</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.226</link>
-      <description>Rahadian Zainul, Ali Basem, Dheyaa J. Jasim, Subhash Chandra, Julio Cesar L&#243;pez Ayala, Mohammed Al&#8208;Bahrani, Nizomiddin Juraev, Mamata Chahar, Yasser Elmasry, International Journal of Hydrogen Energy. 81(None)] 2024. https://openalex.org/W4400900759
-
-                No abstract</description>
-      <author>Rahadian Zainul, Ali Basem, Dheyaa J. Jasim, Subhash Chandra, Julio Cesar L&#243;pez Ayala, Mohammed Al&#8208;Bahrani, Nizomiddin Juraev, Mamata Chahar, Yasser Elmasry</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.226</guid>
-    </item>
-    <item>
-      <title>Two&#8208;Dimensional MXene&#8208;Based Electrocatalysts: Challenges and Opportunities</title>
-      <link>https://doi.org/10.1002/tcr.202400047</link>
-      <description>Muhammad Kaleem Shabbir, Fozia Arif, Haleema Asghar, Sanam Irum Memon, Urooj Khanum, Javeed Akhtar, Akbar Ali, Zeeshan Ramzan, Abdul Aziz Abdul Raman, Ayaz Ali Memon, Khalid Hussain Thebo, The Chemical Record. None(None)] 2024. https://openalex.org/W4400901939
-
-                Abstract MXene, regarded as cutting&#8208;edge two&#8208;dimensional (2D) materials, have been widely explored in various applications due to their remarkable flexibility, high specific surface area, good mechanical strength, and interesting electrical conductivity. Recently, 2D MXene has served as a ideal platform for the design and development of electrocatalysts with high activity, selectivity, and stability. This review article provides a detailed description of the structural engineering of MXene&#8208;based electrocatalysts and summarizes the uses of 2D MXene in hydrogen evolution reactions, nitrogen reduction reactions, oxygen evolution reactions, oxygen reduction reactions, and methanol/ethanol oxidation. Then, key issues and prospects for 2D MXene as a next&#8208;generation platform in fundamental research and real&#8208;world electrocatalysis applications are discussed. Emphasis will be given to material design and enhancement techniques. Finally, future research directions are suggested to improve the efficiency of MXene&#8208;based electrocatalysts.</description>
-      <author>Muhammad Kaleem Shabbir, Fozia Arif, Haleema Asghar, Sanam Irum Memon, Urooj Khanum, Javeed Akhtar, Akbar Ali, Zeeshan Ramzan, Abdul Aziz Abdul Raman, Ayaz Ali Memon, Khalid Hussain Thebo</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202400047</guid>
-    </item>
-    <item>
-      <title>CoNi alloy catalyzed N-doped carbon nanotube-anchored CoMn2O4 as highly efficient oxygen electrocatalysts for rechargeable Zn-air battery</title>
-      <link>https://doi.org/10.1016/j.est.2024.112976</link>
-      <description>Zhe Xiong, Zheng Zhang, Xiaoxue Jiang, Yan Li, Cuiqin Li, Keliang Wang, Journal of Energy Storage. 98(None)] 2024. https://openalex.org/W4400904179
-
-                No abstract</description>
-      <author>Zhe Xiong, Zheng Zhang, Xiaoxue Jiang, Yan Li, Cuiqin Li, Keliang Wang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.est.2024.112976</guid>
-    </item>
-    <item>
-      <title>Crystal Facets&#8208;Activity Correlation for Oxygen Evolution Reaction in Compositional Complex Alloys</title>
-      <link>https://doi.org/10.1002/advs.202404095</link>
-      <description>Hongwei Zhao, J.Q. Yao, Ya&#8208;Song Wang, Gao Niu, Tao Zhang, Li Li, Yuyao Liu, Zheng&#8208;Jie Chen, Jing Peng, Xinwang Liu, Hai&#8208;Bin Yu, Advanced Science. None(None)] 2024. https://openalex.org/W4400905267
-
-                Compositional complex alloys, including high and medium-entropy alloys (HEAs/MEAs) have displayed significant potential as efficient electrocatalysts for the oxygen evolution reaction (OER), but their structure-activity relationship remains unclear. In particular, the basic question of which crystal facets are more active, especially considering the surface reconstructions, has yet to be answered. This study demonstrates that the lowest index {100} facets of FeCoNiCr MEAs exhibit the highest activity. The underlying mechanism associated with the {100} facet's low in-plane density, making it easier to surface reconstruction and form amorphous structures containing the true active species is uncovered. These results are validated by experiments on single crystals and polycrystal MEAs, as well as DFT calculations. The discoveries contribute to a fundamental comprehension of MEAs in electrocatalysis and offer physics-based strategies for developing electrocatalysts.</description>
-      <author>Hongwei Zhao, J.Q. Yao, Ya&#8208;Song Wang, Gao Niu, Tao Zhang, Li Li, Yuyao Liu, Zheng&#8208;Jie Chen, Jing Peng, Xinwang Liu, Hai&#8208;Bin Yu</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202404095</guid>
-    </item>
-    <item>
-      <title>Pilot Study on the Production of Negative Oxygen Ions Based on Lower Voltage Ionization Method and Application in Air Purification</title>
-      <link>https://doi.org/10.3390/atmos15070860</link>
-      <description>Haotian Weng, Yao-Zhong Zhang, Xiaolu Huang, Xuan Liu, Yunhui Tang, Hewei Yuan, Xu Yang, Kun Li, Yafei Zhang, Atmosphere. 15(7)] 2024. https://openalex.org/W4400905982
-
-                In the current highly industrialized living environment, air quality has become an increasing public health concern. Natural environments like forests have excellent air quality due to high concentrations of negative oxygen ions originating from low-voltage ionization, without harmful ozone. Traditional negative oxygen ion generators require high voltage for corona discharge to produce ions. However, high voltage can increase electron collisions and excitations, leading to more dissociation and recombination of oxygen molecules and consequently higher ozone production. To address the challenge of generating negative oxygen ions without accompanying ozone production, this study designed and constructed a low-voltage negative oxygen ion generator based on nanometer-tip carbon fiber electrodes. The advantage of this device lies in the high curvature radius of carbon fibers, which provides high local electric field strength. This allows for efficient production of negative oxygen ions at low operating voltages without generating ozone. Experiments demonstrated that the device can efficiently generate negative oxygen ions at a working voltage as low as 2.16 kV, 28% lower than the lowest voltage reported in similar studies. The purification device manufactured in this study had a total decay constant for PM2.5 purification of 0.8967 min&#8722;1 within five minutes, compared to a natural decay constant of only 0.0438 min&#8722;1, resulting in a calculated Clean Air Delivery Rate (CADR) of 0.1535 m3/min. Within half an hour, concentrations of PM2.5, PM1, PM10, formaldehyde, and TVOC were reduced by 99.09%, 99.40%, 99.37%, 94.39%, and 99.35%, respectively, demonstrating good decay constants and CADR. These findings confirm its effectiveness in improving indoor air quality, highlighting its significant application value in air purification.</description>
-      <author>Haotian Weng, Yao-Zhong Zhang, Xiaolu Huang, Xuan Liu, Yunhui Tang, Hewei Yuan, Xu Yang, Kun Li, Yafei Zhang</author>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/atmos15070860</guid>
-    </item>
-    <item>
-      <title>Structural engineering evoked multifunctionality in molybdate nanosheets for industrial oxygen evolution and dual energy storage devices inspired by multi-method calculations</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.07.128</link>
-      <description>Mengru Huang, Haiyu Yao, Feng Cao, Peijie Wang, Xue&#8208;Rong Shi, Min Zhang, Shusheng Xu, Journal of Colloid and Interface Science. 676(None)] 2024. https://openalex.org/W4400906452
-
-                Structural engineering, including electronic and geometric modulations, is a good approach to improve the activity of electrocatalysts. Herein, we employed FeOOH and the second metal center Ni to modulate the electronic structure of CoMoO</description>
-      <author>Mengru Huang, Haiyu Yao, Feng Cao, Peijie Wang, Xue&#8208;Rong Shi, Min Zhang, Shusheng Xu</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.128</guid>
-    </item>
-    <item>
-      <title>Robust Nanoporous NiMn oxide Electrocatalysts for Oxygen Evolution Reaction through Defect Engineering</title>
-      <link>https://doi.org/10.1039/d4ta02679a</link>
-      <description>Arpit Thomas, Ambrish Kumar, Ram K. Sharma, Edgar C. Buck, Bharat Gwalani, Meha Bhogra, Harpreet Singh Arora, Journal of Materials Chemistry A. None(None)] 2024. https://openalex.org/W4400913184
-
-                The sluggish oxygen evolution reaction (OER) remains a major bottleneck in hydrogen generation through electrolysis, particularly at large current operations. Thus, there is a huge interest in the development of...</description>
-      <author>Arpit Thomas, Ambrish Kumar, Ram K. Sharma, Edgar C. Buck, Bharat Gwalani, Meha Bhogra, Harpreet Singh Arora</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta02679a</guid>
-    </item>
-    <item>
-      <title>Regulation of morphology and charge transfer mechanism: Oxygen vacancy-rich Mn0.2Cd0.8S/CoMoO4 S-type heterojunction promoting photocatalytic hydrogen production through hydrothermal in-situ synthesis</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.175692</link>
-      <description>Yan Shang, Jing Xu, Jia Li, Mingxia Zheng, Xutao Ning, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4400913998
-
-                No abstract</description>
-      <author>Yan Shang, Jing Xu, Jia Li, Mingxia Zheng, Xutao Ning</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175692</guid>
-    </item>
-    <item>
-      <title>Magnesium-promoted rapid self-reconstruction of NiFe-based electrocatalysts toward efficient oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.07.183</link>
-      <description>Boxuan Jin, Wenwen Zhang, Shuaichong Wei, Kai Zhang, Li Wang, Guihua Liu, Jingde Li, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4400914862
-
-                No abstract</description>
-      <author>Boxuan Jin, Wenwen Zhang, Shuaichong Wei, Kai Zhang, Li Wang, Guihua Liu, Jingde Li</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.183</guid>
-    </item>
-    <item>
-      <title>State-of-the-Art In Situ Technologies for Unravelling the Dynamic Structure Evolution during Acidic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03623</link>
-      <description>Qinglei Meng, Meiling Xiao, Changpeng Liu, Wei Xing, Jianbing Zhu, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4400915861
-
-                No abstract</description>
-      <author>Qinglei Meng, Meiling Xiao, Changpeng Liu, Wei Xing, Jianbing Zhu</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03623</guid>
-    </item>
-    <item>
-      <title>Empowering multicomponent alloys with unique nanostructure for exceptional oxygen evolution performance through self-replenishment</title>
-      <link>https://doi.org/10.1016/j.joule.2024.06.023</link>
-      <description>Zhibin Li, Ruoyu Wu, Dabo Duan, Xiongjun Liu, Rui Li, Jing Wang, Houwen Chen, Shiwei Chen, Yuan Wu, Hai Wang, Suihe Jiang, Xiaobin Zhang, Xiongjun Liu, Joule. None(None)] 2024. https://openalex.org/W4400916666
-
-                No abstract</description>
-      <author>Zhibin Li, Ruoyu Wu, Dabo Duan, Xiongjun Liu, Rui Li, Jing Wang, Houwen Chen, Shiwei Chen, Yuan Wu, Hai Wang, Suihe Jiang, Xiaobin Zhang, Xiongjun Liu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.joule.2024.06.023</guid>
-    </item>
-    <item>
-      <title>Impact of Morphology and Oxygen Vacancy Content in Ni, Fe co-doped Ceria for Efficient Electrocatalyst Based Water Splitting</title>
-      <link>https://doi.org/10.1039/d4na00500g</link>
-      <description>Abhaya Kumar Mishra, Joshua Willoughby, Shanna L. Estes, Kelliann Koehler, Kyle S. Brinkman, Nanoscale Advances. None(None)] 2024. https://openalex.org/W4400917039
-
-                Designing a highly efficient, low-cost, sustainable electrocatalyst for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) through water splitting is a current challenge for renewable energy technologies. This...</description>
-      <author>Abhaya Kumar Mishra, Joshua Willoughby, Shanna L. Estes, Kelliann Koehler, Kyle S. Brinkman</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4na00500g</guid>
-    </item>
-    <item>
-      <title>Regulating Metal-Oxygen Covalency of Tio2 by Ru Doping and Phase Transition for Boosted Hydrogen Evolution</title>
-      <link>https://doi.org/10.2139/ssrn.4902818</link>
-      <description>Fengting Li, Nannan Cui, Yanan Zhou, Shuangqing Sun, Chunling Li, Zhikun Wang, Songqing Hu, No host. None(None)] 2024. https://openalex.org/W4400917844
-
-                No abstract</description>
-      <author>Fengting Li, Nannan Cui, Yanan Zhou, Shuangqing Sun, Chunling Li, Zhikun Wang, Songqing Hu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4902818</guid>
-    </item>
-    <item>
-      <title>Poly(3&#8208;hexylthiophene) film coated on plastic substrate as an organic photoanode for water oxidation/oxygen evolution with light illumination</title>
-      <link>https://doi.org/10.1002/pat.6524</link>
-      <description>H. Shinohara, Hiroyuki Nishide, Polymers for Advanced Technologies. 35(7)] 2024. https://openalex.org/W4400921986
-
-                Abstract Poly(3&#8208;hexylthiophene) (P3HT) film was applied as a photoanode on an electron&#8208;extracting layer&#8208;coated upon a current&#8208;collecting plastic substrate. The film soaked in an aqueous solution (pH 12) exhibited an enhanced anodic current with light illumination, and the photocurrent density ( J ) reached almost 100 &#956;A/cm 2 for its wound cylinder, which was accompanied by oxygen bubble evolution. The light ON/OFF response, light&#8208;intensity proportion, and wavelength&#8208;dependency of the J value supported the photo&#8208;electrolytic function of the P3HT film. The hole&#8208;injection efficiency of the film estimated for water oxidation using a solution involving a sacrificial reagent, was relatively high in the range of 46%&#8211;86%. Although an apparent activation energy of 39 kJ/mol for the electrolytic water oxidation in the dark suggested a chemical but catalytic pathway for the film anode, the temperature independence of the photocurrent indicated direct hole&#8208;injection into water or hydroxide ions. The photoanode performance of the P3HT film for water oxidation was discussed in relation to the energy diagram including the highest occupied molecular orbital level.</description>
-      <author>H. Shinohara, Hiroyuki Nishide</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/pat.6524</guid>
-    </item>
-    <item>
-      <title>Low-Crystalline Cobalt Iron Oxide-Supported Single Ru Atoms and Ru Clusters for 2,5-Hydroxymethylfurfural Electro-Oxidation Coupled with Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acssuschemeng.4c03806</link>
-      <description>Shasha Cui, Fen Wang, Guangjin Wang, Tingting Li, Zhijuan Liu, Yanyong Wang, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4400925789
-
-                No abstract</description>
-      <author>Shasha Cui, Fen Wang, Guangjin Wang, Tingting Li, Zhijuan Liu, Yanyong Wang</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c03806</guid>
-    </item>
-    <item>
-      <title>Insulator&#8208;transition&#8208;induced Degradation of Pyrochlore Ruthenates in Electrocatalytic Oxygen Evolution and Stabilization through Doping</title>
-      <link>https://doi.org/10.1002/ange.202412139</link>
-      <description>Haibo Liu, Hengyu Guo, Qingren Zhang, Masatsugu Fujishige, Morinobu Endo, Zhengping Zhang, Feng Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4400930376
-
-                Ru&#8208;based pyrochlores (e.g., Y2Ru2O7&#8211;d) are promised to replace IrO2 in polymer electrolyte membrane (PEM) electrolyzers. It is significant to reveal the cliff attenuation on the oxygen evolution reaction (OER) performance of these pyrochlores. In this work, we monitor the structure changes and electrochemical behavior of Y2Ru2O7&#8211;d over the OER process, and it is found that the reason of decisive OER inactivation is derived from an insulator transition occurred within Y2Ru2O7&#8211;d due to its inner &#178;perfecting&#178; lattice induced by continuous atom rearrangement. Therefore, a stabilization strategy of the Ir&#8208;substituted Y2Ru2O7&#8211;d is proposed to alleviate this undesirable behavior. The double&#8208;exchange interaction between Ru and Ir in [RuO6] and [IrO6] octahedra leads the charge redistribution with simultaneous spin configuration adjustment. The electronic state in newly formed octahedrons centered with Ru 4d3 (with the state of eg'2&#173;&#173;a1g&#173;1 eg0) and Ir 5d6 (eg'4a1g&#173;2 eg0) relieves the uneven electron distributions in [RuO6] orbital. The attenuated Jahn&#8208;Teller effect alleviates atom rearrangement, represented as the mitigation of insulator transition, surface reconstruction, and metal dissolution. As results, the Ir&#8208;substituted Y2Ru2O7&#8211;d presents the greatly improved OER stability and PEM durability. This study unveils the OER degradation mechanism and stabilization strategy for material design of Ru&#8208;based OER catalysts for electrochemical applications.</description>
-      <author>Haibo Liu, Hengyu Guo, Qingren Zhang, Masatsugu Fujishige, Morinobu Endo, Zhengping Zhang, Feng Wang</author>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202412139</guid>
-    </item>
-    <item>
-      <title>Insulator&#8208;transition&#8208;induced Degradation of Pyrochlore Ruthenates in Electrocatalytic Oxygen Evolution and Stabilization through Doping</title>
-      <link>https://doi.org/10.1002/anie.202412139</link>
-      <description>Haibo Liu, Hengyu Guo, Qingren Zhang, Masatsugu Fujishige, Morinobu Endo, Zhengping Zhang, Feng Wang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4400930451
-
-                Ru&#8208;based pyrochlores (e.g., Y2Ru2O7&#8211;d) are promised to replace IrO2 in polymer electrolyte membrane (PEM) electrolyzers. It is significant to reveal the cliff attenuation on the oxygen evolution reaction (OER) performance of these pyrochlores. In this work, we monitor the structure changes and electrochemical behavior of Y2Ru2O7&#8211;d over the OER process, and it is found that the reason of decisive OER inactivation is derived from an insulator transition occurred within Y2Ru2O7&#8211;d due to its inner &#178;perfecting&#178; lattice induced by continuous atom rearrangement. Therefore, a stabilization strategy of the Ir&#8208;substituted Y2Ru2O7&#8211;d is proposed to alleviate this undesirable behavior. The double&#8208;exchange interaction between Ru and Ir in [RuO6] and [IrO6] octahedra leads the charge redistribution with simultaneous spin configuration adjustment. The electronic state in newly formed octahedrons centered with Ru 4d3 (with the state of eg'2&#173;&#173;a1g&#173;1 eg0) and Ir 5d6 (eg'4a1g&#173;2 eg0) relieves the uneven electron distributions in [RuO6] orbital. The attenuated Jahn&#8208;Teller effect alleviates atom rearrangement, represented as the mitigation of insulator transition, surface reconstruction, and metal dissolution. As results, the Ir&#8208;substituted Y2Ru2O7&#8211;d presents the greatly improved OER stability and PEM durability. This study unveils the OER degradation mechanism and stabilization strategy for material design of Ru&#8208;based OER catalysts for electrochemical applications.</description>
-      <author>Haibo Liu, Hengyu Guo, Qingren Zhang, Masatsugu Fujishige, Morinobu Endo, Zhengping Zhang, Feng Wang</author>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202412139</guid>
-    </item>
-    <item>
-      <title>Novel Ni-Doped Dual Mof-Derived Urchin-Like Co-Fe Layered Double Hydroxides for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.4902826</link>
-      <description>Zikang Tang, Ningzhao Shang, Mingjie Hu, Huan Wang, Yufan Zhang, No host. None(None)] 2024. https://openalex.org/W4400932947
-
-                No abstract</description>
-      <author>Zikang Tang, Ningzhao Shang, Mingjie Hu, Huan Wang, Yufan Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4902826</guid>
-    </item>
     <item>
       <title>Effect of Transition Metals (Mn, Co, Ni, and Zn) in Size-Controlled Metal Ferrite Nanocrystals on the Electrocatalytic Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acsanm.4c03007</link>
@@ -488,26 +308,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202409912</guid>
     </item>
     <item>
-      <title>Oxygen evolution reaction activity of carbon aerogel supported Pd&#8211;Ni&#8211;Al catalysts synthesized by microwave irradiation method</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.287</link>
-      <description>A.M.P. Hussain, Muhammad Asim, Meryem Samanc&#305;, Naveed Kausar Janjua, Ay&#351;e Bayrak&#231;eken Yurtcan, International Journal of Hydrogen Energy. 81(None)] 2024. https://openalex.org/W4400900496
-
-                No abstract</description>
-      <author>A.M.P. Hussain, Muhammad Asim, Meryem Samanc&#305;, Naveed Kausar Janjua, Ay&#351;e Bayrak&#231;eken Yurtcan</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.287</guid>
-    </item>
-    <item>
-      <title>Exploring the origins and evolution of oxygenic and anoxygenic photosynthesis in deeply branched Cyanobacteriota.</title>
-      <link>https://doi.org/10.1093/molbev/msae151</link>
-      <description>Sha Tan, Lan Liu, Jian&#8208;Yu Jiao, Mengmeng Li, Chao-Jian Hu, LV Ai-ping, Yanling Qi, Yuxian Li, Yang-Zhi Rao, Yan-Ni Qu, Hongchen Jiang, Rochelle M. Soo, Paul N. Evans, Zheng-Shuang Hua, Wenjun Li, PubMed. None(None)] 2024. https://openalex.org/W4400932417
-
-                Cyanobacteriota, the sole prokaryotes capable of oxygenic photosynthesis (OxyP), occupy a unique and pivotal role in Earth's history. While the notion that OxyP may have originated from Cyanobacteriota is widely accepted, its early evolution remains elusive. Here, by using both metagenomics and metatranscriptomics, we explore 36 metagenome-assembled genomes (MAGs) from hot spring ecosystems, belonging to two deep-branching cyanobacterial orders: Thermostichales and Gloeomargaritales. Functional investigation reveals that Thermostichales encode the crucial thylakoid membrane biogenesis protein, Vipp1. Based on the phylogenetic results, we infer that the evolution of the thylakoid membrane predates the divergence of Thermostichales from other cyanobacterial groups and that Thermostichales may be the most ancient lineage known to date to have inherited this feature from their common ancestor. Apart from OxyP, both lineages are potentially capable of sulfide-driven anoxygenic photosynthesis (AnoxyP) by linking sulfide oxidation to the photosynthetic electron transport chain. Unexpectedly, this AnoxyP capacity appears to be an acquired feature, as the key gene sqr was horizontally transferred from later-evolved cyanobacterial lineages. The presence of two D1 protein variants in Thermostichales suggests the functional flexibility of photosystems, ensuring their survival in fluctuating redox environments. Furthermore, all MAGs feature streamlined phycobilisomes with a preference for capturing longer-wavelength light, implying a unique evolutionary trajectory. Collectively, these results reveal the photosynthetic flexibility in these early-diverging cyanobacterial lineages, shedding new light on the early evolution of Cyanobacteriota and their photosynthetic processes.</description>
-      <author>Sha Tan, Lan Liu, Jian&#8208;Yu Jiao, Mengmeng Li, Chao-Jian Hu, LV Ai-ping, Yanling Qi, Yuxian Li, Yang-Zhi Rao, Yan-Ni Qu, Hongchen Jiang, Rochelle M. Soo, Paul N. Evans, Zheng-Shuang Hua, Wenjun Li</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/molbev/msae151</guid>
-    </item>
-    <item>
       <title>A nanocoral like carbon composite based on dual-MOFs for catalytic reduction and evolution of oxygen</title>
       <link>https://doi.org/10.1016/j.mtchem.2024.102213</link>
       <description>Junyuan Zhang, Wei Liu, Linfeng Liang, Ziwei Deng, Changyu Liu, Xiaolong Xu, Jianbo Jia, Materials Today Chemistry. 40(None)] 2024. https://openalex.org/W4400966451
@@ -528,16 +328,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154255</guid>
     </item>
     <item>
-      <title>Spatial decoupling strategy boosted alkaline hydrogen evolution for an efficient solar-driven AEM electrolyzer</title>
-      <link>https://doi.org/10.1039/d4ta03872j</link>
-      <description>Minghui Cui, Yansong Zhou, Rongjing Guo, Wenqi Zhao, Ying Liu, Qiongrong Ou, Shuyu Zhang, Journal of Materials Chemistry A. None(None)] 2024. https://openalex.org/W4400907575
-
-                Substrate modification achieves spatial decoupling of the oxygen evolution reaction process, thereby greatly improving the efficiency and stability of the catalyst.</description>
-      <author>Minghui Cui, Yansong Zhou, Rongjing Guo, Wenqi Zhao, Ying Liu, Qiongrong Ou, Shuyu Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta03872j</guid>
-    </item>
-    <item>
       <title>Transparent TiO2 nanotubes supporting silver sulfide for photoelectrochemical water splitting</title>
       <link>https://doi.org/10.1039/d4nr01440e</link>
       <description>Wiktoria Lipi&#324;ska, Stefania Wolff, Katharina E. Dehm, Simon Hager, Justyna Gumieniak, Agnieszka Kramek, Ryan W. Crisp, Emerson Coy, Katarzyna Grochowska, Katarzyna Siuzdak, Nanoscale. None(None)] 2024. https://openalex.org/W4401029688
@@ -556,26 +346,6 @@
       <author>Tianpeng Liu, Yangping Zhang, Jun Yu, Mengyun Hu, Zhengying Wu, Xiao Wei, Shudi Yu, Yukou Du</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4qi01725k</guid>
-    </item>
-    <item>
-      <title>Advancements in Lithium&#8211;Oxygen Batteries: A Comprehensive Review of Cathode and Anode Materials</title>
-      <link>https://doi.org/10.3390/batteries10080260</link>
-      <description>Jing Wang, Xue Meng, Qing Wang, Yahui Zhang, Shengxue Yan, Shaohua Luo, Batteries. 10(8)] 2024. https://openalex.org/W4400915387
-
-                As modern society continues to advance, the depletion of non-renewable energy sources (such as natural gas and petroleum) exacerbates environmental and energy issues. The development of green, environmentally friendly energy storage and conversion systems is imperative. The energy density of commercial lithium-ion batteries is approaching its theoretical limit, and even so, it struggles to meet the rapidly growing market demand. Lithium&#8211;oxygen batteries have garnered significant attention from researchers due to their exceptionally high theoretical energy density. However, challenges such as poor electrolyte stability, short cycle life, low discharge capacity, and high overpotential arise from the sluggish kinetics of the oxygen reduction reaction (ORR) during discharge and the oxygen evolution reaction (OER) during charging. This article elucidates the fundamental principles of lithium&#8211;oxygen batteries, analyzes the primary issues currently faced, and summarizes recent research advancements in air cathodes and anodes. Additionally, it proposes future directions and efforts for the development of lithium&#8211;air batteries.</description>
-      <author>Jing Wang, Xue Meng, Qing Wang, Yahui Zhang, Shengxue Yan, Shaohua Luo</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/batteries10080260</guid>
-    </item>
-    <item>
-      <title>Solvothermal Synthesis of Quaternary Cu-Fe-Bi-S Nanostructure as a Promising Electrode Material for OER and Supercapacitor Performance</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4654670/v1</link>
-      <description>Muhammad Umer, Muhammad Awais, Sidra Aslam, Anas Bilal, Javaria Javaria, Waseem Abbas, Misbah Mirza, Muhammad Safdar, No host. None(None)] 2024. https://openalex.org/W4400918067
-
-                Abstract The rational development and synthesis of renewable nanostructured materials hold significant importance within the realm of energy storage applications. In this study, the quaternary chalcogenide of Cu2FeBiS4 was fabricated using a facile solvothermal method and evaluated for its performance in Oxygen Evolution Reaction (OER) and Supercapacitor applications. The material underwent characterization employing various analytical techniques, including X-ray diffraction (XRD), scanning electron microscopy (SEM), energy dispersive spectroscopy (EDX), X-ray photoelectron spectroscopy (XPS), and Raman analysis. Cu2FeBiS4 demonstrates an improved super-capacitive performance, exhibiting an outstanding specific capacity (Cs) of 1530 F g&#8211;1 at 2 A g&#8211;1. The admirable electrochemical activity is mainly due to the synergistic effect of mixed metal sulfide nanostructure that can escalate the rapid diffusion of ions and electrons, which is beneficial to the electrode/electrolyte contact area, thereby boosting the rate of charge transfer. Additionally, Cu2FeBiS4 exhibits a commendable energy density of 43.17 Wh kg&#8722; 1 at a power density of 327.87 W kg&#8722; 1, accompanied by a retention rate of 96.2% after 1000 cycles. As a result, the Cu2FeBiS4 electrode developed in this study is evinced to be a promising electrode material for high-performance energy storage devices. Moreover, Cu2FeBiS4 demonstrates proficient electrocatalytic properties for the oxygen evolution reaction, displaying a minimal overpotential of 202 mV versus the reversible hydrogen electrode (RHE) at 10 mA cm&#8722; 2 and exhibiting operational stability for up to 10 hours.</description>
-      <author>Muhammad Umer, Muhammad Awais, Sidra Aslam, Anas Bilal, Javaria Javaria, Waseem Abbas, Misbah Mirza, Muhammad Safdar</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4654670/v1</guid>
     </item>
     <item>
       <title>Clarification of Degradation Mechanisms of the OER Activity of Ir-Based Electrocatalyst with Potentiodynamic Accelerated Stress Test</title>
@@ -698,16 +468,6 @@
       <guid isPermaLink="true">https://doi.org/10.1101/2024.07.23.604570</guid>
     </item>
     <item>
-      <title>Application of MELTS program to Fractional Crystallization of Low Alumina Alkaline Magma in Jeju Volcanic Island</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4651465/v1</link>
-      <description>Huy L&#234;, Cheolwoo Chang, Sung-Hyo Yun, No host. None(None)] 2024. https://openalex.org/W4400918573
-
-                Abstract Jeju Volcanic Island is the largest island in South Korea which is known as the continental shelf intraplate volcanic island. MELTS, one of the powerful programs utilizing for modeling magmatic evolution processes, is applied to simulate fractional crystallization process of low-alumina alkaline volcanic rock suite in Jeju Island. At many isobaric pressure conditions from 2.0 GPa to 0.1 GPa as well as different oxygen fugacities (fO2) from FMQ-3 to FMQ + 3 and H2O content, MELTS modeling were conducted as various calculations. The results demonstrate that the most suitable fractionation model for Jeju low-alumina alkaline magma would occur from 0.2 GPa to 0.1 GPa with oxygen fugacity FMQ buffer. These contain 0.5 wt.% H2O in the system leading to more consistent with evolution trending of as well as mineral composition in natural rock suite on Jeju Island. Although MELTS still possesses several limitations in the stability of calibration such as spinel overestimation as well as a lack of experiments for hydrous minerals which have been renovated, MELTS exhibits its affection on temperature and pressure prediction as well as assess other factor of fractional crystallization process on Jeju Island. Consequently, to evaluate a magmatic process in a particular region, it would be better to combine MELTS with other analyses rather than operating independently.</description>
-      <author>Huy L&#234;, Cheolwoo Chang, Sung-Hyo Yun</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4651465/v1</guid>
-    </item>
-    <item>
       <title>Divergent molecular strategies drive evolutionary adaptation to competitive fitness in biofilm formation</title>
       <link>https://doi.org/10.1093/ismejo/wrae135</link>
       <description>Mingxing Tang, Ruixue Yang, Zilin Zhuang, Shuhong Han, Yehuan Sun, Peiyu Li, Kewei Fan, Cai Zhao, Yang Qiong, Zhijian Yu, Liang Yang, Shuo Li, The ISME Journal. None(None)] 2024. https://openalex.org/W4400974308
@@ -758,36 +518,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50629-x</guid>
     </item>
     <item>
-      <title>Reactively Processed Poly(butylene adipate terephthalate) Composite&#8211;Based Multilayered Films with Improved Properties for Sustainable Packaging Applications: Structural Characterization and Biodegradation Mechanism</title>
-      <link>https://doi.org/10.1002/macp.202400067</link>
-      <description>Jayita Bandyopadhyay, Orebotse Joseph Botlhoko, Caroline Mphahlele, Rakgoshi Lekalakala, Sudhakar Muniyasamy, Suprakas Sinha Ray, Macromolecular Chemistry and Physics. None(None)] 2024. https://openalex.org/W4400903936
-
-                Abstract In this study, it is attempted to enhance the properties and biodegradability of poly(butylene adipate terephthalate) (PBAT) using nanocomposite technology to meet the demand for sustainable packaging applications. Two nanoclays containing PBAT composites are reactively processed and integrated into the multilayered films. Reactive processing facilitates the dispersion and distribution of nanoclay particles in the PBAT matrix. The multilayered films comprising reactively processed PBAT composites exhibited a 24.5%&#8211;31.5% reduction in the oxygen transmission rate and improved dimensional stability and tensile properties. Moreover, the degradability of the multilayered film comprising reactively processed PBAT composites reached 82% in 180 days. In contrast, a neat PBAT film of similar thickness attained only 53% degradation in the same period. The biodegradation mechanism is proposed based on the topology of the disintegrated films studied using scanning electron microscopy, chemical bond vibrations determined by Fourier&#8208;transform infrared spectroscopy, and structural evolution by small&#8208; and wide&#8208;angle X&#8208;ray scattering (SWAXS). The SWAXS analysis is used to understand the changes in the degree of crystallinity, long&#8208;range periodic order, and crystalline and amorphous layer thickness of the multilayered films before and after degradation. Such multilayered films can find applications where packaging or biomedical devices cannot be recycled.</description>
-      <author>Jayita Bandyopadhyay, Orebotse Joseph Botlhoko, Caroline Mphahlele, Rakgoshi Lekalakala, Sudhakar Muniyasamy, Suprakas Sinha Ray</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/macp.202400067</guid>
-    </item>
-    <item>
-      <title>Emerging insights into the pathogenesis and therapeutic strategies for vascular endothelial injury-associated diseases: focus on mitochondrial dysfunction</title>
-      <link>https://doi.org/10.1007/s10456-024-09938-4</link>
-      <description>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Yifeng Nie, Xing Chang, Angiogenesis. None(None)] 2024. https://openalex.org/W4401010620
-
-                As a vital component of blood vessels, endothelial cells play a key role in maintaining overall physiological function by residing between circulating blood and semi-solid tissue. Various stress stimuli can induce endothelial injury, leading to the onset of corresponding diseases in the body. In recent years, the importance of mitochondria in vascular endothelial injury has become increasingly apparent. Mitochondria, as the primary site of cellular aerobic respiration and the organelle for "energy information transfer," can detect endothelial cell damage by integrating and receiving various external stress signals. The generation of reactive oxygen species (ROS) and mitochondrial dysfunction often determine the evolution of endothelial cell injury towards necrosis or apoptosis. Therefore, mitochondria are closely associated with endothelial cell function, helping to determine the progression of clinical diseases. This article comprehensively reviews the interconnection and pathogenesis of mitochondrial-induced vascular endothelial cell injury in cardiovascular diseases, renal diseases, pulmonary-related diseases, cerebrovascular diseases, and microvascular diseases associated with diabetes. Corresponding therapeutic approaches are also provided. Additionally, strategies for using clinical drugs to treat vascular endothelial injury-based diseases are discussed, aiming to offer new insights and treatment options for the clinical diagnosis of related vascular injuries.</description>
-      <author>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Yifeng Nie, Xing Chang</author>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10456-024-09938-4</guid>
-    </item>
-    <item>
-      <title>Element abundances of galactic RGB stars in the APO-K2 catalogue. Dissimilarity in the scaling with [alpha/Fe]</title>
-      <link>https://doi.org/10.1051/0004-6361/202449755</link>
-      <description>G. Valle, M. Dell&#8217;Omodarme, P. G. Prada Moroni, S. Degl&#8216;Innocenti, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400917527
-
-                We conducted an investigation on the chemical abundances of 4,316 stars in the red giant branch (RGB) phase from the recently released APO-K2 catalogue. Our aim was to characterize the abundance trends of the single elements with afe , mainly focusing on C, N, and O, which are the most relevant for the estimation of stellar ages. The chemical analysis of the RGB sample involved cross-matching data from the APO-K2 catalogue with individual element abundances from APOGEE DR17. The analysis detected a statistically significant difference in the (C+N+O)/Fe -- afe trend with respect to the simple alpha -enhancement scenario. This difference remained robust across different choices for the reference solar mixture and potential zero-point calibrations of C and N abundances. The primary discrepancy was a steeper increase in O/Fe with afe , reaching a 0.1 dex difference at $ = 0.3$. Notably, the impact on the evolutionary timescale of such oxygen over-abundance with respect to the commonly adopted uniform alpha -enhancement is rather limited. We verified that stellar models computed using an ad hoc O-rich mixture sped up the evolution by only 1&lt;!PCT!&gt; at $ = 0.3$, due to the counterbalancing effects of O enrichment on both the evolutionary timescale and the Fe/H relationship.</description>
-      <author>G. Valle, M. Dell&#8217;Omodarme, P. G. Prada Moroni, S. Degl&#8216;Innocenti</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1051/0004-6361/202449755</guid>
-    </item>
-    <item>
       <title>Origin of the Surface Magnetic Dead Layer in Rare&#8208;Earth Titanates</title>
       <link>https://doi.org/10.1002/admi.202400489</link>
       <description>Rapha&#235;l Aeschlimann, Manuel Bib&#232;s, Alexandre Gloter, Advanced Materials Interfaces. None(None)] 2024. https://openalex.org/W4401038578
@@ -798,14 +528,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/admi.202400489</guid>
     </item>
     <item>
-      <title>An investigation into Venusian atmospheric chemistry based on an open-access photochemistry-transport model at 0-112 km</title>
-      <link>https://doi.org/10.1051/0004-6361/202450552</link>
-      <description>Longkang Dai, Wencheng Shao, Biao Chen, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400932900
+      <title>Emerging insights into the pathogenesis and therapeutic strategies for vascular endothelial injury-associated diseases: focus on mitochondrial dysfunction</title>
+      <link>https://doi.org/10.1007/s10456-024-09938-4</link>
+      <description>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Yifeng Nie, Xing Chang, Angiogenesis. None(None)] 2024. https://openalex.org/W4401010620
 
-                Atmospheric chemistry plays a crucial role in the evolution of climate habitability on Venus. It has been widely explored by chemistry-transport models, but some characteristics are still poorly interpreted. This study is devoted to developing an open-access chemistry-transport model spanning both the middle and lower atmospheres of Venus. It provides a scheme for the structure of the chemistry, especially for the sulfur and oxygen, and investigates the influence of the cloud diffusivity and the SO$_ $ dissolution that are adopted in the clouds. The developed model is based on the VULCAN framework and was updated with the state-of-the-art Venusian atmospheric chemistry. It includes vertical eddy diffusion retrieved recently with the Venus Express observations, and it resolves radiative transfer containing gas absorption and scattering, Mie scattering of the cloud droplets, and absorption of the unknown UV absorber. The obtained abundance profiles of SO, SO$_ $, CO, COS, O, O$_ $, O$_ $, HCl, and NO are in overall agreement with the observations. The results show that the increase in cloud diffusivity has slight effects on the chemical structure. The SO$_ $ mainly dissolves in 50-90 km and evaporates below the clouds. The rapid dissolution-release cycle is responsible for the large upward flux of SO$_ $ at 58 km. At around 70 km, SO has a significant peak that is larger than that of previous studies by an order of magnitude, and S and SO$_ $ also show slight increases. They are attributed to the buffering effects of liquid SO$_ $ in the clouds. O$_ $ is significantly eliminated by SO in this layer. We emphasize the superior regulation of the sulfur cycle on O$_ $ at 70 km and its potential contributions to the long-standing problem of the overestimated O$_ $ abundance.</description>
-      <author>Longkang Dai, Wencheng Shao, Biao Chen</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1051/0004-6361/202450552</guid>
+                As a vital component of blood vessels, endothelial cells play a key role in maintaining overall physiological function by residing between circulating blood and semi-solid tissue. Various stress stimuli can induce endothelial injury, leading to the onset of corresponding diseases in the body. In recent years, the importance of mitochondria in vascular endothelial injury has become increasingly apparent. Mitochondria, as the primary site of cellular aerobic respiration and the organelle for "energy information transfer," can detect endothelial cell damage by integrating and receiving various external stress signals. The generation of reactive oxygen species (ROS) and mitochondrial dysfunction often determine the evolution of endothelial cell injury towards necrosis or apoptosis. Therefore, mitochondria are closely associated with endothelial cell function, helping to determine the progression of clinical diseases. This article comprehensively reviews the interconnection and pathogenesis of mitochondrial-induced vascular endothelial cell injury in cardiovascular diseases, renal diseases, pulmonary-related diseases, cerebrovascular diseases, and microvascular diseases associated with diabetes. Corresponding therapeutic approaches are also provided. Additionally, strategies for using clinical drugs to treat vascular endothelial injury-based diseases are discussed, aiming to offer new insights and treatment options for the clinical diagnosis of related vascular injuries.</description>
+      <author>Boxian Pang, Guangtong Dong, Tieliang Pang, Xinyao Sun, Xin Liu, Yifeng Nie, Xing Chang</author>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10456-024-09938-4</guid>
     </item>
     <item>
       <title>First Detection of CO Isotopologues in a High-redshift Main-sequence Galaxy: Evidence of a Top-heavy Stellar Initial Mass Function</title>
@@ -828,16 +558,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/gj.5017</guid>
     </item>
     <item>
-      <title>eROSITA narrowband maps at the energies of soft X-ray emission lines</title>
-      <link>https://doi.org/10.1051/0004-6361/202449398</link>
-      <description>Xueying Zheng, G. Ponti, Nicola Locatelli, A. Merloni, Werner Becker, Johan Comparat, K. Dennerl, M. J. Freyberg, Chandreyee Maitra, M. Sasaki, A. W. Strong, M. C. H. Yeung, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400917386
-
-                Hot plasma plays a crucial role in regulating the baryon cycle within the Milky Way, flowing from the energetic sources in the Galactic center and plane, to the corona and the halo. This hot plasma represents an important fraction of the Galactic baryons, plays a key role in galactic outflows and is an important ingredient in galaxy evolution models. Taking advantage of the Spectrum-Roentgen-Gamma (SRG first all-sky survey (eRASS1), in this work our aim is to provide a panoramic view of the hot circumgalactic medium (CGM) of the Milky Way. Compared to the previous all-sky X-ray survey performed by ROSAT, the improved energy resolution of enabled us to map, for the first time, the sky within the narrow energy bands characteristic of soft X-ray emission lines. These lines provide essential information on the physical properties of the hot plasma. Here we present the eRASS1\ half sky maps in narrow energy bands corresponding to the most prominent soft X-ray lines and which allowed us to constrain the distribution of the hot plasma within and surrounding the Milky Way. We corrected the maps by removing the expected contribution associated with the cosmic X-ray background, the time-variable solar wind charge exchange, and the local hot bubble. We applied corrections to mitigate the effect of absorption, therefore highlighting the emission from the CGM of the Milky Way. We used the line ratio of the oxygen lines as a proxy to constrain the temperature of the warm-hot CGM, and we defined a pseudo-temperature $ T $ map. The map highlights how different regions are dominated by different thermal components. Toward the outer halo, the temperature distribution of the CGM on angular scales of 2--20 deg is consistent with being constant $ T T 4&lt;!PCT!&gt;$ with a marginal detection of $ T T = 2.7 &lt;!PCT!&gt; 0.2&lt;!PCT!&gt;$ (statistical) $ 0.6&lt;!PCT!&gt;$ (systematic) in the southern hemisphere. Instead significant variations of $ 12&lt;!PCT!&gt;$ are observed on scales of many tens of degrees when comparing the northern and southern hemispheres. The pseudo-temperature map shows significant variations across the borders of the bubbles, suggesting temperature variations, possibly linked to shocks, between the interior of the Galactic outflow and the unperturbed CGM. In particular, a shell characterized by a lower line ratio appears close to the edge of the bubbles.</description>
-      <author>Xueying Zheng, G. Ponti, Nicola Locatelli, A. Merloni, Werner Becker, Johan Comparat, K. Dennerl, M. J. Freyberg, Chandreyee Maitra, M. Sasaki, A. W. Strong, M. C. H. Yeung</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1051/0004-6361/202449398</guid>
-    </item>
-    <item>
       <title>Lithium Ions as Modulators of Complex Biological Processes: The Conundrum of Multiple Targets, Responsiveness and Non-Responsiveness, and the Potential to Prevent or Correct Dysregulation of Systems during Aging and in Disease</title>
       <link>https://doi.org/10.3390/biom14080905</link>
       <description>David A. Hart, Biomolecules. 14(8)] 2024. https://openalex.org/W4400980549
@@ -846,16 +566,6 @@
       <author>David A. Hart</author>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/biom14080905</guid>
-    </item>
-    <item>
-      <title>Controls on Early Cretaceous South Atlantic Ocean circulation and carbon burial &#8211; a climate model&#8211;proxy synthesis</title>
-      <link>https://doi.org/10.5194/cp-20-1537-2024</link>
-      <description>Sebastian Steinig, Wolf Dummann, Peter Hofmann, Martin Frank, Wonsun Park, Thomas Wagner, Sascha Fl&#246;gel, Climate of the past. 20(7)] 2024. https://openalex.org/W4400929548
-
-                Abstract. Black shale sediments from the Barremian to Aptian South Atlantic document the intense and widespread burial of marine organic carbon during the initial stages of seafloor spreading between Africa and South America. The enhanced sequestration of atmospheric CO2 makes these young ocean basins potential drivers of the Early Cretaceous carbon cycle and climate perturbations. The opening of marine gateways between initially restricted basins and related circulation and ventilation changes are a commonly invoked explanation for the transient formation and disappearance of these regional carbon sinks. However, large uncertainties in palaeogeographic reconstructions limit the interpretation of available palaeoceanographic data and prevent any robust model-based quantifications of the proposed circulation and carbon burial changes. Here, we present a new approach to assess the principal controls on the Early Cretaceous South Atlantic and Southern Ocean circulation changes under full consideration of the uncertainties in available boundary conditions. Specifically, we use a large ensemble of 36 climate model experiments to simulate the Barremian to Albian progressive opening of the Falkland Plateau and Georgia Basin gateways with different configurations of the proto-Drake Passage, the Walvis Ridge, and atmospheric CO2 concentrations. The experiments are designed to complement available geochemical data across the regions and to test circulation scenarios derived from them. All simulations show increased evaporation and intermediate water formation at subtropical latitudes that drive a meridional overturning circulation whose vertical extent is determined by the sill depth of the Falkland Plateau. The densest water masses formed in the southern Angola Basin and potentially reached the deep Cape Basin as Walvis Ridge Overflow Water. Palaeogeographic uncertainties are as important as the lack of precise knowledge of atmospheric CO2 levels for the simulated temperature and salinity spread in large parts of the South Atlantic. Overall temperature uncertainties reach up to 15 &#176;C and increase significantly with water depth. The ensemble approach reveals temporal changes in the relative importance of geographic and radiative forcings for the simulated oceanographic conditions and, importantly, nonlinear interactions between them. The progressive northward opening of the highly restricted Angola Basin increased the sensitivity of local overturning and upper-ocean stratification to atmospheric CO2 concentrations due to large-scale changes in the hydrological cycle, while the chosen proto-Drake Passage depth is critical for the ocean dynamics and CO2 response in the southern South Atlantic. Finally, the simulated processes are integrated into a recent carbon burial framework to document the principal control of the regional gateway evolution on the progressive shift from the prevailing saline and oxygen-depleted subtropical water masses to the dominance of ventilated high-latitude deep waters.</description>
-      <author>Sebastian Steinig, Wolf Dummann, Peter Hofmann, Martin Frank, Wonsun Park, Thomas Wagner, Sascha Fl&#246;gel</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/cp-20-1537-2024</guid>
     </item>
   </channel>
 </rss>

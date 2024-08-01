@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jul 31 00:59:27 2024
+Created on Thu Aug  1 01:17:23 2024
 
-Found 26 results from 2024-07-24 to 2024-07-31
+Found 25 results from 2024-07-25 to 2024-08-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* PdS Cluster Promotes Photocatalytic Coproduction of Hydrogen and Biomass-Based Monomers  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4400903387
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Structural and Functional Study of Noble Metal Nanoclusters, Polyoxometalate Clusters and Materials
-:PUBLICATION_DATE: 2024-07-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03239")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4400903387"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4400903387"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4400903387"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4400903387 (Open access: False)
-    
-[[https://openalex.org/A5047510152][Zhaolin Dou]], [[https://openalex.org/A5056500996][Hongru Zhou]], [[https://openalex.org/A5008502009][Fanhao Kong]], [[https://openalex.org/A5100442703][Zhiwei Chen]], [[https://openalex.org/A5054025314][Min Ji]], [[https://openalex.org/A5101404671][Jiping Ma]], [[https://openalex.org/A5100340947][Min Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03239 
-     
-No abstract    
-
-    
 
 * Impact of Sn Lewis Acid Sites on the Dehydration of Cyclohexanol  :ACS_Catalysis:
 :PROPERTIES:

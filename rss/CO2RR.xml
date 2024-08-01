@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 31 Jul 2024 00:59:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 01:17:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Modulating the coordination environment and metal choice in carbon buckypapers supported metal phthalocyanines for enhanced electrocatalytic carbon dioxide reduction</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115669</link>
-      <description>Beatriz Mart&#237;nez-S&#225;nchez, Amrita Singh&#8208;Morgan, Diego Cazorla&#8208;Amor&#243;s, Emilia Morall&#243;n, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4400900194
-
-                No abstract</description>
-      <author>Beatriz Mart&#237;nez-S&#225;nchez, Amrita Singh&#8208;Morgan, Diego Cazorla&#8208;Amor&#243;s, Emilia Morall&#243;n</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115669</guid>
-    </item>
-    <item>
-      <title>Computational Descriptor for Electrochemical Currents of Carbon Dioxide Reduction on Cu Facets</title>
-      <link>https://doi.org/10.2139/ssrn.4902398</link>
-      <description>Timothy T. Yang, Wissam A. Saidi, No host. None(None)] 2024. https://openalex.org/W4400929121
-
-                No abstract</description>
-      <author>Timothy T. Yang, Wissam A. Saidi</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4902398</guid>
-    </item>
     <item>
       <title>Highly dispersed atomic-level Ni active sites confined in defects for efficient electrocatalytic reduction of carbon dioxide</title>
       <link>https://doi.org/10.1016/j.jechem.2024.07.018</link>
@@ -138,16 +118,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ma00321g</guid>
     </item>
     <item>
-      <title>Reduction in SCC form pressure through in-situ CO2 mineralization</title>
-      <link>https://doi.org/10.1016/j.cemconcomp.2024.105670</link>
-      <description>Sean Monkman, Soo Duck Hwang, Kamal H. Khayat, Cement and Concrete Composites. 152(None)] 2024. https://openalex.org/W4400906751
-
-                No abstract</description>
-      <author>Sean Monkman, Soo Duck Hwang, Kamal H. Khayat</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cemconcomp.2024.105670</guid>
-    </item>
-    <item>
       <title>Improved Production Rates of Hydrogen Generation and Carbon Dioxide Reduction Using Gallium Nitride with Nickel Oxide Nanofilm Capping Layer as Photoelectrodes for Photoelectrochemical Reaction</title>
       <link>https://doi.org/10.1021/acsomega.4c03729</link>
       <description>Chin Yin Sheu, Shang-Ju Tu, Shao&#8208;Chi Chang, ACS Omega. None(None)] 2024. https://openalex.org/W4401027697
@@ -168,36 +138,6 @@
       <guid isPermaLink="true">https://doi.org/10.1093/nsr/nwae253</guid>
     </item>
     <item>
-      <title>A REVIEW OF THE SYNTHESIS, CHARACTERIZATION, AND MECHANISM OF BIMETALLIC CATALYSTS FOR ELECTROCATALYTIC CO2 REDUCTION</title>
-      <link>https://doi.org/10.1016/j.carbon.2024.119341</link>
-      <description>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang, Carbon. 228(None)] 2024. https://openalex.org/W4400937635
-
-                No abstract</description>
-      <author>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119341</guid>
-    </item>
-    <item>
-      <title>Electrolyte Composition&#8208;Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal&#8208;Organic Framework Catalyst</title>
-      <link>https://doi.org/10.1002/ange.202411766</link>
-      <description>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401022535
-
-                A copper porphyrin&#8208;derived metal&#8208;organic framework electrocatalyst, FICN&#8208;8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN&#8208;8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst&#8208;bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.</description>
-      <author>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao</author>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202411766</guid>
-    </item>
-    <item>
-      <title>Direct quantification of electrochemical CO2 reduction products with an improved DEMS setup</title>
-      <link>https://doi.org/10.1016/j.checat.2024.101065</link>
-      <description>Dani&#235;l van den Berg, Hendrik Paul Lopuha&#228;, Ruud Kortlever, Chem Catalysis. None(None)] 2024. https://openalex.org/W4400916115
-
-                No abstract</description>
-      <author>Dani&#235;l van den Berg, Hendrik Paul Lopuha&#228;, Ruud Kortlever</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2024.101065</guid>
-    </item>
-    <item>
       <title>Atomically dispersed Ru on Cu3N for electrocatalytic reduction of CO2 and nitrite to urea</title>
       <link>https://doi.org/10.1016/j.cej.2024.154256</link>
       <description>Hongyan Zhao, Zhuohang Li, Jiaqi Xiang, Wenyu Du, Ke Chu, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4400942748
@@ -216,6 +156,26 @@
       <author>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao</author>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202411766</guid>
+    </item>
+    <item>
+      <title>A REVIEW OF THE SYNTHESIS, CHARACTERIZATION, AND MECHANISM OF BIMETALLIC CATALYSTS FOR ELECTROCATALYTIC CO2 REDUCTION</title>
+      <link>https://doi.org/10.1016/j.carbon.2024.119341</link>
+      <description>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang, Carbon. 228(None)] 2024. https://openalex.org/W4400937635
+
+                No abstract</description>
+      <author>Yin-li Liao, Heng-bo Huang, Ru-yu Zou, Shuling Shen, Xin-juan Liu, Zhihong Tang</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119341</guid>
+    </item>
+    <item>
+      <title>Electrolyte Composition&#8208;Dependent Product Selectivity in CO2 Reduction with a Porphyrinic Metal&#8208;Organic Framework Catalyst</title>
+      <link>https://doi.org/10.1002/ange.202411766</link>
+      <description>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401022535
+
+                A copper porphyrin&#8208;derived metal&#8208;organic framework electrocatalyst, FICN&#8208;8, was synthesized and its catalytic activity for CO2 reduction reaction (CO2RR) was investigated. FICN&#8208;8 selectively catalyzed electrochemical reduction of CO2 to CO in anhydrous acetonitrile electrolyte. However, formic acid became the dominant CO2RR product with the addition of a proton source to the system. Mechanistic studies revealed the change of major reduction pathway upon proton source addition, while catalyst&#8208;bound hydride (*H) species was proposed as the key intermediate for formic acid production. This work highlights the importance of electrolyte composition on CO2RR product selectivity.</description>
+      <author>Shiliang Pu, Tao Huang, Duan&#8208;Hui Si, Meng-Jiao Sun, Wenwen Wang, Teng Zhang, Rong Cao</author>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202411766</guid>
     </item>
     <item>
       <title>Advanced progress in constructing carbon-coated metal materials for electrocatalytic CO2 reduction</title>
@@ -248,16 +208,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mineng.2024.108854</guid>
     </item>
     <item>
-      <title>Dual nanoparticles with rich Ni&#8211;CeO2 interfaces for efficient photothermal catalytic CO2 reduction by CH4</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.07.278</link>
-      <description>Guanrui Ji, Lingxin Meng, Qian Gong, Ying-Lian Jia, Shaowen Wu, Qian Zhang, Jian Tian, International Journal of Hydrogen Energy. 81(None)] 2024. https://openalex.org/W4400960353
-
-                No abstract</description>
-      <author>Guanrui Ji, Lingxin Meng, Qian Gong, Ying-Lian Jia, Shaowen Wu, Qian Zhang, Jian Tian</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.278</guid>
-    </item>
-    <item>
       <title>Mechanism Investigation of Direct Electrochemical Reduction of Co2-Loaded 2-(Ethylamino)Ethanol Solution into Co</title>
       <link>https://doi.org/10.2139/ssrn.4904833</link>
       <description>Ru&#8208;Ping Dai, Lijuan Zhang, Khuyen Viet Bao Tran, Suchada Sirisomboonchai, Hiroshi Machida, Koyo Norinaga, No host. None(None)] 2024. https://openalex.org/W4400933626
@@ -268,14 +218,14 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4904833</guid>
     </item>
     <item>
-      <title>Microenvironment engineering by targeted delivery of activated Ag NPs for boosting electrocatalytic CO2 reduction reaction</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4692796/v1</link>
-      <description>Shun Wang, Ting Xu, Hao Yang, Tianrui Lu, Rui Zhong, Jingjing Lv, Shaojun Zhu, Shouxin Zhang, Zhengjun Wang, Yifei Yuan, Jun Li, Jichang Wang, Huile Jin, Shuang Pan, Sheng Wang, Tao Cheng, No host. None(None)] 2024. https://openalex.org/W4400930180
+      <title>Dual nanoparticles with rich Ni&#8211;CeO2 interfaces for efficient photothermal catalytic CO2 reduction by CH4</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.278</link>
+      <description>Guanrui Ji, Lingxin Meng, Qian Gong, Ying-Lian Jia, Shaowen Wu, Qian Zhang, Jian Tian, International Journal of Hydrogen Energy. 81(None)] 2024. https://openalex.org/W4400960353
 
-                Abstract To boost the performance of electrocatalytic CO2 reduction reaction (eCO2RR), a unique synthetic method that deploys the in situ reduction of precoated precursors was developed to produce activated Ag nanoparticles (NPs) within the gas diffusion layer (GDL), where the thus-obtained Ag NPs-Skeleton could block direct contact between the active Ag sites and electrolyte. Specifically, compared to the conventional surface loading mode in the acidic media, our freestanding and binder free electrode could achieve obvious higher CO selectivity of 94%, CO production rate of 23.3 mol g-1 h-1, single-pass CO2 conversion of 58.6%, and enhanced long-term stability of 8 hours. Our study shows that delivering catalysts within the GDL does not only gain the desired physical protection from GDL skeleton to achieve a superior local microenvironment for more efficient pH-universal eCO2RR, but also manifests the pore structures to effectively address gas accumulation and flood issues, thereby stabilizing the catalysts.</description>
-      <author>Shun Wang, Ting Xu, Hao Yang, Tianrui Lu, Rui Zhong, Jingjing Lv, Shaojun Zhu, Shouxin Zhang, Zhengjun Wang, Yifei Yuan, Jun Li, Jichang Wang, Huile Jin, Shuang Pan, Sheng Wang, Tao Cheng</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4692796/v1</guid>
+                No abstract</description>
+      <author>Guanrui Ji, Lingxin Meng, Qian Gong, Ying-Lian Jia, Shaowen Wu, Qian Zhang, Jian Tian</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.278</guid>
     </item>
     <item>
       <title>Greening the ironmaking industry: Biomass fuel reduces CO2 emissions and enhances iron ore reduction efficiency</title>
@@ -326,16 +276,6 @@
       <author>Adam P. Hitchcock, Chunyang Zhang, Haytham Eraky, Drew Higgins</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1093/mam/ozae044.855</guid>
-    </item>
-    <item>
-      <title>Self-assembled iron (II) phthalocyanine modified oxygen vacancy-rich WO3 nanofibers with unique S-scheme heterojunctions for efficient tetracycline hydrochloride degradation and CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.molstruc.2024.139411</link>
-      <description>Liruhua Zhang, Zhixiang Chen, Yuxiang Wu, Jing Wang, Ling Bing Kong, Qingxia Liu, Journal of Molecular Structure. None(None)] 2024. https://openalex.org/W4400900280
-
-                No abstract</description>
-      <author>Liruhua Zhang, Zhixiang Chen, Yuxiang Wu, Jing Wang, Ling Bing Kong, Qingxia Liu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.molstruc.2024.139411</guid>
     </item>
     <item>
       <title>Sr(Ti0&#183;3Fe0.7)O3&#8722;&#948;-based perovskite with in-situ exsolved Fe&#8211;Ru nanoparticles: A highly stable fuel electrode material for solid oxide electrochemical cells with efficient electrocatalytic CO2 reduction ability and preferential selectivity</title>
@@ -398,16 +338,6 @@
       <guid isPermaLink="true">https://doi.org/10.1177/0262489319981704003</guid>
     </item>
     <item>
-      <title>Separating CO2 emission from removal targets comes with limited cost impacts</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4572047/v1</link>
-      <description>Anne Merfort, Jessica Strefler, Gabriel Medeiros Abrah&#227;o, Nico Bauer, Gunnar Luderer, Tabea Dorndorf, Elmar Kriegler, Leon Merfort, Ottmar Edenhofer, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4400926013
-
-                Abstract Net-zero commitments have become the central focal point for countries to communicate long-term climate targets. However, to this point it is not clear to what extent conventional emissions reductions and carbon dioxide removal (CDR) will contribute to net-zero. An integrated market for emissions and removals with a uniform carbon price delivers the economically efficient contribution of CDR to net-zero, yet it might not fully internalise sustainability risks of CDR and hence could lead to its overuse. In this study, we explore the implications of separating targets for emission reductions and CDR for global net-zero emissions pathways with the Integrated Assessment Model REMIND. Even though it entails a deviation from the solution of the integrated market, we find that efficiency losses are moderate. Limiting CDR lowers the financial burden for public finance, limits reliance on geologic CO2 storage and leads to lower cumulative emissions, yet this increase in ambition comes at higher total mitigation costs.</description>
-      <author>Anne Merfort, Jessica Strefler, Gabriel Medeiros Abrah&#227;o, Nico Bauer, Gunnar Luderer, Tabea Dorndorf, Elmar Kriegler, Leon Merfort, Ottmar Edenhofer</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4572047/v1</guid>
-    </item>
-    <item>
       <title>Carbon reduction options for churches using oil for heating</title>
       <link>https://doi.org/10.69554/ksqv2514</link>
       <description>Donald E McNaughton, No host. None(None)] 2023. https://openalex.org/W4400989593
@@ -448,16 +378,6 @@
       <guid isPermaLink="true">https://doi.org/10.3389/fenvs.2024.1387138</guid>
     </item>
     <item>
-      <title>Model Wakaf Energy (Solar Panel) terhadap Isu Perubahan Iklim</title>
-      <link>https://doi.org/10.46799/jsa.v5i7.1318</link>
-      <description>Nur Khayin Muhdlor, Jurnal Syntax Admiration. 5(7)] 2024. https://openalex.org/W4400923491
-
-                Reducing the amount of gases such as carbon dioxide and methane released into the atmosphere is one of the causes of climate change, which is from actions such as burning fossil fuels, industrial processes, and agricultural practices using renewable energy, such as solar energy. The purpose of this study is to evaluate the model in depth of energy waqf (solar panel) on the issue of climate change. The data of this study was obtained through a literature study and evaluated in three steps: data reduction, data distribution, and conclusion drawn. The results of the study show that the waqf energy model (solar panel) can reduce greenhouse gas emissions. This is because solar power plants built with waqf funds can produce safe electrical energy and do not emit greenhouse gases. Solar power plants built with waqf funds can be used to meet the needs of the community, such as households, SMEs, and industries. This can reduce people's dependence on fossil energy, which is an energy source that produces greenhouse gas emissions. In addition, the energy waqf model (solar panels) can also generate economic and social benefits for the community.</description>
-      <author>Nur Khayin Muhdlor</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.46799/jsa.v5i7.1318</guid>
-    </item>
-    <item>
       <title>Spatial&#8211;Temporal Evolution and Driving Factors of Agricultural Green Development in China: Evidence from Panel Quantile Approaches</title>
       <link>https://doi.org/10.3390/su16156345</link>
       <description>Fanghui Pan, Haonan Deng, Miao Chen, Lijuan Zhao, Wei Qian, Xiangrong Wan, Sustainability. 16(15)] 2024. https://openalex.org/W4400941569
@@ -466,36 +386,6 @@
       <author>Fanghui Pan, Haonan Deng, Miao Chen, Lijuan Zhao, Wei Qian, Xiangrong Wan</author>
       <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/su16156345</guid>
-    </item>
-    <item>
-      <title>Study on Catalytic Performance in CO2 Hydrogenation to Methanol over Au&#8211;Cu/C3N4 Catalysts</title>
-      <link>https://doi.org/10.3390/catal14080470</link>
-      <description>Chenyang Li, Jian Yang, Chongbin Zhang, Cong Wang, Chen Lyu, Kai Fan, Catalysts. 14(8)] 2024. https://openalex.org/W4400913904
-
-                In this paper, Au and Cu nanoparticles were successfully loaded onto porous g-C3N4 material through a hydrothermal synthesis method. By adjusting the proportion of Cu, Au-5%Cu/C3N4, Au-10%Cu/C3N4, and Au-15%Cu/C3N4, catalysts were prepared and used for the catalytic reduction of CO2 to methanol. Characterization analysis using high-resolution XPS spectra showed that with an increase in the doping amount of Cu, the electron cloud density on the Cu surface initially increased and then decreased. Electrons from Au atoms transferred to Cu atoms, leading to the accumulation of a more negative charge on the Cu surface, promoting the adsorption of partially positively charged C in CO2, which is more beneficial for catalyzing CO2. Among them, Au-10%Cu/C3N4 exhibited good reducibility and strong basic sites, as demonstrated by H2-TPR and CO2-TPD, with the conversion rates for CO2, methanol yield, and methanol selectivity being 11.58%, 41.29 g&#183;kg&#8722;1&#183;h&#8722;1 (0.39 &#956;mol&#183;g&#8722;1s&#8722;1), and 59.77%, respectively.</description>
-      <author>Chenyang Li, Jian Yang, Chongbin Zhang, Cong Wang, Chen Lyu, Kai Fan</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14080470</guid>
-    </item>
-    <item>
-      <title>Step-scheme photocatalyst of CsPbBr3/BiOBr with oxygen vacancy for efficient CO2 photoreduction</title>
-      <link>https://doi.org/10.1039/d4dt01214c</link>
-      <description>Wanjun Sun, Jifei Liu, Feitian Ran, Na Li, Zengpeng Li, Yuanyuan Li, Kai Wang, Dalton Transactions. None(None)] 2024. https://openalex.org/W4400921495
-
-                Metal halide perovskite with a suitable energy band structure and excellent visible-light response have emerged as promising photocatalysts for CO2 reduction to valuable chemicals and fuels. However, the efficiency of...</description>
-      <author>Wanjun Sun, Jifei Liu, Feitian Ran, Na Li, Zengpeng Li, Yuanyuan Li, Kai Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dt01214c</guid>
-    </item>
-    <item>
-      <title>Income inequality and CO2 emissions nexus: A long-run analysis for Turkey</title>
-      <link>https://doi.org/10.3280/efe2024-001010</link>
-      <description>Kemal ERK&#304;&#350;&#304;, ECONOMICS AND POLICY OF ENERGY AND THE ENVIRONMENT. None(1)] 2024. https://openalex.org/W4400918538
-
-                The relationship between economic factors and environmental impacts is of paramount significance in the pursuit of sustainable development and the implementation of effective measures to alleviate environmental deterioration. This research utilizes the VECM, FMOLS, CCR, and DOLS methodologies to examine the relationship between income inequality and CO2 emissions spanning from 1990 to 2022 in Turkey. Theoretical frameworks such as Boyce's socio-economic dynamics, Veblen's pecuniary emulation theory, and the marginal propensity to emit provide detailed insights into the complex relationship between economic inequality and environmental degradation. In synthesizing the literature on income inequality and CO2 emissions, we observe a wide spectrum of findings ranging from positive to negative associations, with some studies yielding inconclusive results in different nations and areas. Beyond income inequality, this research considers a wider range of CO2 explanatory factors, such as GDP per capita, industrial value added, energy consumption, renewable energy, population density, and the Gini index. The estimates reveal that income per capita, industrial value added, energy consumption, and population density show positive linkages with CO2 emissions. On the other hand, renewable energy share and income inequality reflect negative associations with CO2 emissions. Notably, an increase in the Gini coefficient, reflecting worse income distribution, is associated with a reduction in CO2 emissions in Turkey.</description>
-      <author>Kemal ERK&#304;&#350;&#304;</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3280/efe2024-001010</guid>
     </item>
     <item>
       <title>Retrofit assessment: Getting it right from the start</title>
@@ -598,16 +488,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/buildings14082284</guid>
     </item>
     <item>
-      <title>Solar&#8208;Induced Chlorophyll Fluorescence as a Potential Proxy for Gross Primary Production and Methane Emission in a Cool&#8208;Temperate Bog in Northern Japan</title>
-      <link>https://doi.org/10.1029/2023jg007956</link>
-      <description>Kanokrat Buareal, Tomomichi Kato, Tomoki Morozumi, Naohisa Nakashima, Kitpanuwat Tanatarakeree, Masahito Ueyama, Takashi Hirano, Journal of Geophysical Research Biogeosciences. 129(7)] 2024. https://openalex.org/W4400926446
-
-                Abstract Wetlands play an essential role in the global greenhouse gas budget via carbon dioxide sequestration as well as methane emission. In recent decades, solar&#8208;induced chlorophyll fluorescence (SIF) has been recognized as a remotely sensed proxy of gross primary productivity (GPP), which generates substrates for methane production. To examine the suitability of SIF for estimation of these two fluxes, we conducted ground tower&#8208;based SIF observation with an ultrafine&#8208;resolution spectroradiometer in conjunction with eddy covariance measurement in a cool&#8208;temperate bog. The daily SIF retrieved in the red (687 nm) and far&#8208;red (760 nm) bands (SIF red and SIF far&#8208;red , respectively) increased nonlinearly with GPP and linearly with absorbed photosynthetically active radiation (APAR). The relatively weak correlation between apparent SIF yield (&#934;SIF = SIF/APAR) and light use efficiency implied that both APAR and plant physiology constrained the SIF emission in this wetland. The SIF red /SIF far&#8208;red ratio showed a significant negative relationship with vegetation greenness indices, and the similar seasonal variation in SIF red and SIF far&#8208;red indicated that the SIF red reabsorption effect only weakly influenced the SIF red &#8211;GPP relationship. Episodic temporal reduction in the water table did not distinctly influence SIF and &#934;SIF. Estimation of the methane emission rate was subtly improved by incorporating SIF, which was substituted for GPP as the methanogenesis substrate, in a multivariable regression analysis together with two environmental factors: soil temperature and water table depth. This study illustrates the potential of both SIF red and SIF far&#8208;red to monitor GPP and to predict methane emission in wetlands.</description>
-      <author>Kanokrat Buareal, Tomomichi Kato, Tomoki Morozumi, Naohisa Nakashima, Kitpanuwat Tanatarakeree, Masahito Ueyama, Takashi Hirano</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1029/2023jg007956</guid>
-    </item>
-    <item>
       <title>Do Technological Innovation and Environmental Regulation Reduce Carbon Dioxide Emissions? Evidence from China</title>
       <link>https://doi.org/10.30955/gnj.06291</link>
       <description>, Global NEST Journal. None(None)] 2024. https://openalex.org/W4400960997
@@ -648,16 +528,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17153673</guid>
     </item>
     <item>
-      <title>Briquette Shape Roles in Carbothermal Reduction Process of Limonitic Laterite Nickel</title>
-      <link>https://doi.org/10.30880/ijie.2024.16.01.003</link>
-      <description>Fakhreza Abdul, Afif Maulana Yusuf Ridarto, Vuri Ayu Setyowati, Yuli Setiyorini, Sungging Pintowantoro, International Journal of Integrated Engineering. 16(1)] 2024. https://openalex.org/W4400928252
-
-                Lateritic ore carbothermalreduction is currently the focus of many researchers. This process uses a relatively lower temperature of operation than the smelting. Therefore, the carbothermal reduction process has a relatively lower primary energy demand and CO2 gas emissions. This research examines the appropriate briquette form to obtain the optimum recovery, concentration of nickel, and selective reduction of nickel, as well as analyzes the compounds/phases formed. The briquette in this study was formed into three different geometries, i.e., the pillow, spherical, and cylindrical forms. First, this research was carried out by mixing the raw materials and forming it into specified briquette forms. Second, the formed briquettes were put into a crucible. Third, the coal-limestone bed mixture was used to cover the briquettes. Then, the carbothermic reduction process was started by heating to 700 oC for 2 hours and continued to 1400 oC for 6 hours. Finally, the magnetic separation process was performed to separate the reduced briquettes. As a result, the cylindrical shape briquette obtained better results at 6.74% Ni, with a nickel recovery of 96.20% and a selectivity factor value of 10.39. The compounds formed after carbothermic reduction process products include FeNi, Fe3Si, and SiO2. In a spherical-shaped briquette, Fe3O4 and Mg2SiO4were found in the reduced product, indicating impurities in the reduced briquettes.</description>
-      <author>Fakhreza Abdul, Afif Maulana Yusuf Ridarto, Vuri Ayu Setyowati, Yuli Setiyorini, Sungging Pintowantoro</author>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.30880/ijie.2024.16.01.003</guid>
-    </item>
-    <item>
       <title>THE ECONOMY OF CARBON NEUTRALITY IN THE PARADIGM OF SUSTAINABLE DEVELOPMENT: THE ESSENCE, FEATURES, PREREQUISITES FOR THE FORMATION OF</title>
       <link>https://doi.org/10.34925/eip.2023.154.5.003</link>
       <description>Elena Molchanova, &#1053;.&#1042;. &#1055;&#1059;&#1063;&#1050;&#1054;&#1042;&#1040;, &#1069;&#1082;&#1086;&#1085;&#1086;&#1084;&#1080;&#1082;&#1072; &#1080; &#1087;&#1088;&#1077;&#1076;&#1087;&#1088;&#1080;&#1085;&#1080;&#1084;&#1072;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086;. None(5(154))] 2023. https://openalex.org/W4400960882
@@ -666,26 +536,6 @@
       <author>Elena Molchanova, &#1053;.&#1042;. &#1055;&#1059;&#1063;&#1050;&#1054;&#1042;&#1040;</author>
       <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.34925/eip.2023.154.5.003</guid>
-    </item>
-    <item>
-      <title>Perovskite Paradigm: Unraveling Photoelectrochemical Synergies for Sustainable Transformations</title>
-      <link>https://doi.org/10.5772/intechopen.1006026</link>
-      <description>Mina Ahmadi-Kashani, Mahmoud Zendehdel, Mohammad Mahdi Abolhasani, Narges Yaghoobi Nia, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4400922276
-
-                Owing to the tunable electronic properties, high carrier lifetimes, low recombination possibility, and long diffusion lengths, perovskites have gained attention for potential use in photoelectrocatalytic processes. Photoelectrochemical methods can convert sunlight into electricity or useful fuels, resulting in extensive research to develop PEC applications. This chapter embarks on a comprehensive exploration of the perovskite structure&#8217;s transformative influence on diverse photoelectrochemical cell (PEC) and monolithic Photovoltaic-Electrocatalytic (PV-EC) devices including water splitting, H2 evolution, CO2 reduction, N2 reduction, degradation of pollutants, (bio) sensing, and organic synthesis. By assessing the mechanisms and kinetics involved, we aim to disclose the potential of perovskite-based photoelectrochemical systems in shaping the landscape of green energy and environmental stewardship. Furthermore, the chapter addresses the progress and challenges in enhancing the stability, selectivity, and efficiency of perovskite-based PEC and monolithic PV-EC reactions to unravel the synergistic potential for sustainable transformations in the realm of photoelectrochemistry.</description>
-      <author>Mina Ahmadi-Kashani, Mahmoud Zendehdel, Mohammad Mahdi Abolhasani, Narges Yaghoobi Nia</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.1006026</guid>
-    </item>
-    <item>
-      <title>Experimental sticking coefficients of CO and N_2 on sub-micrometric cosmic grain analogs</title>
-      <link>https://doi.org/10.1051/0004-6361/202449167</link>
-      <description>C. Stadler, C. Laffon, P. Parent, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4400932893
-
-                Measuring the sticking coefficient of molecules pertinent to astrochemistry - such as CO - on substrates that mimic interstellar dust grains is crucial for the comprehensive understanding of gas-grain chemical processes. Although astrochemical models assume a sticking coefficient of 1, recent laboratory experiments on H2O and CO2 have revealed significantly lower values when measured on small grain analogs. As the effect of grain size on molecular adsorption has been largely ignored to date, further experiments are needed to determine the accretion rates of species known to freeze out on dust grains. Our aim is to determine the sticking coefficients of CO and N2 on sub-micrometric silicate and carbon grains. By quantifying realistic sticking coefficients on these dust grain analogs, we can improve the accuracy of astrochemists' predictions of molecular abundances as affected by gas-grain interactions. The molecules of interest were added to various substrates at 10 K in an ultra-high vacuum. The amount of adsorbate that stuck to the substrate was quantified using X-ray photoelectron spectroscopy. These quantities were compared to a reference with a sticking coefficient of 1, allowing the deduction of the sticking coefficient for each substrate. The average sticking coefficients of CO and N2 on grain analogs are 0.17 for CO and 0.14 for N2 on olivine powder, and 0.05 for CO and 0.07 on N2 on soot, instead of the presumed 1. This is in line with the low values previously reported for H2O and CO2 These laboratory results indicate that CO and N2 in addition to H2O and CO2 also exhibit a low sticking coefficient on dust grain analogs. It is thus necessary to reconsider the interactions between gaseous species and dust particles as a low-efficiency process. This reduction in accretion and reaction rates has important implications for how we understand astrochemistry.</description>
-      <author>C. Stadler, C. Laffon, P. Parent</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1051/0004-6361/202449167</guid>
     </item>
     <item>
       <title>Has the EU Emissions Trading System Worked Properly?</title>
@@ -698,16 +548,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17153651</guid>
     </item>
     <item>
-      <title>Dynamics of Plant Water Uptake under Modified Environment</title>
-      <link>https://doi.org/10.5772/intechopen.109421</link>
-      <description>Saurav Saha, B. U. Choudhury, Bappa Das, Prashant Pandey, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4400954119
-
-                The environmental control of crop physiology increases relative sensitivity of crop water movement within the soil plant atmosphere continuum (SPAC), so as the dynamics of crop water usage under modified climate. The variable environmental conditions determine the relative direction of change. Elevated CO2 exposure depressed the water movement of transpiration flux through reduced stomatal conductance and facilitated partial stomatal closure. However, the net impact may not be ensued the significant reduction in crop water usage at the end of crop season due to modified leaf area dynamics, but with obvious rise in crop water use efficiency (WUE). Thermal stresses are often combined with drought events depressed crop WUE beyond a threshold sourced from adverse impact on total dry matter production under elevated temperature condition. The pathogenic role of O3 exposure induced stomatal sluggishness and reduction in dry matter accumulation (or yield) are sourced from reduced photosynthetic assimilation and aberration in stomatal conductance and thereby reduction in crop WUE under well-watered condition. However, the protective roles of other co-existing abiotic stress factors are subjected to more explanatory research. However, the genetic resilience toward such climate change induced abiotic stress factors and supportive field management options will provide our future facets of sustainable crop production with higher WUE crop under variable environmental conditions.</description>
-      <author>Saurav Saha, B. U. Choudhury, Bappa Das, Prashant Pandey</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.109421</guid>
-    </item>
-    <item>
       <title>Catalytic composition and fuel influence on anodic processes characteristics of solid polymer electrolyte fuel cells</title>
       <link>https://doi.org/10.18500/1608-4039-2008-8-1-33-39</link>
       <description>&#1053;. &#1042;. &#1050;&#1091;&#1083;&#1077;&#1096;&#1086;&#1074;, S. V. Grigoriev, Electrochemical Energetics. 8(1)] 2008. https://openalex.org/W4401027802
@@ -718,14 +558,14 @@
       <guid isPermaLink="true">https://doi.org/10.18500/1608-4039-2008-8-1-33-39</guid>
     </item>
     <item>
-      <title>Potential for surplus-heat-to-power conversion in current and future aluminium production process with off-gas recycling</title>
-      <link>https://doi.org/10.12795/9788447227457_103</link>
-      <description>Jonas Bueie, Magnus Windfeldt, Trond Andresen, Editorial Universidad de Sevilla eBooks. None(None)] 2024. https://openalex.org/W4400918842
+      <title>Dynamics of Plant Water Uptake under Modified Environment</title>
+      <link>https://doi.org/10.5772/intechopen.109421</link>
+      <description>Saurav Saha, B. U. Choudhury, Bappa Das, Prashant Pandey, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4400954119
 
-                Increased utilization of industrial surplus heat can make significant contributions towards reaching energy efficiency and emissions reduction goals. The off-gas from metal production smelters can contain large amounts of thermal energy, and conversion to electric power often appears an enticing prospect. However, the practical potential for exploitation can be significantly reduced from plant processes that are designed considering surplus heat as a waste product to get rid of. This typically makes the heat accessible only at reduced temperatures. The HighEFF research centre for industrial energy efficiency has studied technologies, applications, and cases for surplus heat utilization since its start in 2016. Heat-to-power conversion has been explored in several cases provided by the partner industries from &#8211; among others &#8211; Norwegian aluminium manufacturers. Centre research activities also include novel production processes and modifications, which has side effects providing very different conditions and constraints for energy recovery. One such process modification is off-gas recirculation, mainly developed to increase concentration of CO2 in the off-gas to improve conditions for CO2 capture in the future, but which also will alter off-gas temperature and recoverable heat as a side effect. This could improve the potential for energy recovery. In this work, the potential for energy recovery is evaluated and compared in four cases &#8211; one representing a current aluminium process, and three future process scenarios with flue gas recycling. The simulated heat-to-power conversion is done by applying an organic Rankine cycle (ORC) optimization model to each case. The results indicate significant benefits to energy recovery in the recycling cases. In the case with the highest recycling rate and flue gas temperature, the potential for electric power production increases by 270 % compared to the present-day case. In addition, the reduced work of the main exhaust fans in the recycling cases brings further energy savings on the system level equivalent to 25&#8211;50 % of the ORC power output, further increasing overall energy efficiency. From this, some potential synergies between process design, heat-to-power, and thermal integration of other technologies such as CO2-capture are discussed.</description>
-      <author>Jonas Bueie, Magnus Windfeldt, Trond Andresen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12795/9788447227457_103</guid>
+                The environmental control of crop physiology increases relative sensitivity of crop water movement within the soil plant atmosphere continuum (SPAC), so as the dynamics of crop water usage under modified climate. The variable environmental conditions determine the relative direction of change. Elevated CO2 exposure depressed the water movement of transpiration flux through reduced stomatal conductance and facilitated partial stomatal closure. However, the net impact may not be ensued the significant reduction in crop water usage at the end of crop season due to modified leaf area dynamics, but with obvious rise in crop water use efficiency (WUE). Thermal stresses are often combined with drought events depressed crop WUE beyond a threshold sourced from adverse impact on total dry matter production under elevated temperature condition. The pathogenic role of O3 exposure induced stomatal sluggishness and reduction in dry matter accumulation (or yield) are sourced from reduced photosynthetic assimilation and aberration in stomatal conductance and thereby reduction in crop WUE under well-watered condition. However, the protective roles of other co-existing abiotic stress factors are subjected to more explanatory research. However, the genetic resilience toward such climate change induced abiotic stress factors and supportive field management options will provide our future facets of sustainable crop production with higher WUE crop under variable environmental conditions.</description>
+      <author>Saurav Saha, B. U. Choudhury, Bappa Das, Prashant Pandey</author>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.109421</guid>
     </item>
     <item>
       <title>Severe Spaceflight-Associated Neuro-Ocular Syndrome in an Astronaut With 2 Predisposing Factors</title>
@@ -748,16 +588,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/hydrogen5030026</guid>
     </item>
     <item>
-      <title>MAPPING THE TECHNO-ECONOMIC POTENTIAL OF NEXTGENERATION CSP PLANTS RUNNING ON TRANSCRITICAL CO2-BASED POWER CYCLES</title>
-      <link>https://doi.org/10.12795/9788447227457_84</link>
-      <description>Pablo Rodr&#237;guez-deArriba, Francesco Crespi, S. J. Pace, David S&#225;nchez, Editorial Universidad de Sevilla eBooks. None(None)] 2024. https://openalex.org/W4400921273
-
-                Although the thermodynamic potential of transcritical/supercritical CO2-based power cycles for next generation Concentrated Solar Power plants has been already confirmed in literature, further investigation to assess the actual feasibility of this technology from a techno-economic standpoint is needed. In fact, large uncertainty is found when it comes to the estimation of the CAPEX and OPEX of the power block, and the same can be said for the solar subsystem when high Turbine Inlet Temperatures are considered (&gt;700 &#186;C). Bearing this in mind, this paper presents a methodology to map the techno-economic potential of nextgeneration Concentrated Solar Power plants running on CO2-based mixtures, with the final aim to identify the threshold (breakeven) costs of the main subsystems enabling a clear gain in terms of Levelised Cost of Electricity with respect to state-of-the-art steam-based CSP. Two different systems are studied which differ in the composition and peak temperature of the Heat Transfer Media: a SoA molten salts system operating at a TIT of 550 &#186;C (Gen I) and a solid particle system with TIT=700 &#186;C (Gen II). An integrated platform able to simulate all CSP plant subsystems and perform hourly calculations is built in Matlab employing Artificial Neural Networks to simulate the solar field, ensuring extremely high computational speed. To overcome the high uncertainty in terms of cost estimation, a two-step analysis is developed: firstly, the CAPEX of the entire plant is calculated assuming correlations from literature, except for the power block, whose estimate brings about the largest uncertainty. As a result, the minimum power block cost allowing a LCoE lower than a certain target is identified. Secondly, an inverse methodology is applied, setting the power block cost and assessing the minimum CAPEX of the solar subsystem. As a result, a map is obtained showing the target CAPEX to be accomplished by sCO2+CSP if a clear reduction of the LCoE of this technology is to be achieved.</description>
-      <author>Pablo Rodr&#237;guez-deArriba, Francesco Crespi, S. J. Pace, David S&#225;nchez</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12795/9788447227457_84</guid>
-    </item>
-    <item>
       <title>Exploring biofilm-forming bacteria for integration into BioCircuit wastewater treatment</title>
       <link>https://doi.org/10.62063/ecb-28</link>
       <description>Chontisa Sukkasem, The European Chemistry and Biotechnology Journal. None(2)] 2024. https://openalex.org/W4400972910
@@ -766,16 +596,6 @@
       <author>Chontisa Sukkasem</author>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.62063/ecb-28</guid>
-    </item>
-    <item>
-      <title>A Comprehensive Review on Carbon Sequestration Potential and Addition of Organic Carbon to Soil</title>
-      <link>https://doi.org/10.9734/ijecc/2024/v14i74313</link>
-      <description>Pragya Pandey, V. Jyoti Swaroopa, Kushal, Parul Sahu, Bharti Parmar, International Journal of Environment and Climate Change. 14(7)] 2024. https://openalex.org/W4400922780
-
-                Various soil management techniques can be used to sequester carbon in agricultural fields. With widespread implementation, these methods could sequester a substantial amount of carbon. For the purpose of removing carbon from the atmosphere and storing it in the soil, various management techniques exist. The efficacy of these tactics varies depending on the region, soil type, and climate. The longevity of soil sequestration and the ideal circumstances for maximising the reduction of carbon emissions remain topics of discussion. This essay examines the process by which soil stores carbon, the current status of soil carbon research, and the controversy surrounding the potential of soil carbon. It emphasises the numerous side advantages of raising soil carbon and provides a set of suggestions for further investigation. A substantial amount of soil organic carbon (SOC) might be sequestered by switching from conventional to conservation tillage, although this change would only have a long-term impact on tillage practices. Crop rotation based on legumes is more effective than that based on grass in converting biomass carbon to soil organic carbon. Rotational grazing lowers the overall quantity of CO2 released into the atmosphere while improving the quality of the grass. Producing biochar and incorporating it into soil is an additional strategy for storing carbon from the atmosphere.</description>
-      <author>Pragya Pandey, V. Jyoti Swaroopa, Kushal, Parul Sahu, Bharti Parmar</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.9734/ijecc/2024/v14i74313</guid>
     </item>
     <item>
       <title>Comparison of Exhaust Gas Emissions of a Vehicle with an Internal Combustion Engine in High and Low Vehicular Congestion for a High Altitude City</title>
@@ -808,16 +628,6 @@
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4772767/v1</guid>
     </item>
     <item>
-      <title>OPERATIONAL OPTIMISATION OF THE MAIN HEAT REJECTION UNIT OF CSP PLANTS BASED ON CARBON DIOXIDE MIXTURES</title>
-      <link>https://doi.org/10.12795/9788447227457_88</link>
-      <description>Francesco Crespi, Pablo Rodr&#237;guez-deArriba, David S&#225;nchez, Lourdes Garc&#237;a-Rodr&#237;guez, Editorial Universidad de Sevilla eBooks. None(None)] 2024. https://openalex.org/W4400921186
-
-                This research, developed in the framework of the SCARABEUS project, studies the off-design performance of transcritical power cycles running on CO2-SO2 mixtures in Concentrated Solar Power applications. The objective of this work is to identify optimum operational strategies that maximise net energy production when exposed to variable ambient temperature, with special focus on the operation of the Heat Rejection Unit (Air-Cooled Condenser). The power cycle is simulated in Thermoflex, modified with user-defined scripts to account for the specific off-design performance characteristics of key components. The Air-Cooled Condenser is modelled by means of an in-house Matlab tool, already validated in previous publications, able to accurately simulate the heat transfer process between working fluid and cooling medium (air) and to calculate auxiliary power consumption. Four different strategies are identified, depending on ambient temperature: variable or constant condensation pressure for ambient temperatures lower than the design value, and constant turbine inlet temperature or constant return temperature of the heat transfer fluid for ambient temperature higher than design value. The results show that a combination of variable and constant minimum cycle pressure is the best alternative for low ambient temperatures, enabling net system efficiencies higher than 41%. On the other hand, constant turbine inlet temperature enables higher net performance than constant return temperature of the heat transfer fluid, even if at the expense of a reduction in energy storage capacity for the same inventory of molten salts.</description>
-      <author>Francesco Crespi, Pablo Rodr&#237;guez-deArriba, David S&#225;nchez, Lourdes Garc&#237;a-Rodr&#237;guez</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12795/9788447227457_88</guid>
-    </item>
-    <item>
       <title>The metabolic pathways of carbon assimilation and polyhydroxyalkanoate production by Rhodospirillum rubrum in response to different atmospheric fermentation</title>
       <link>https://doi.org/10.1371/journal.pone.0306222</link>
       <description>Min Tang, Xin Zhen, Guoqiang Zhao, Shuang Wu, Wei Hua, Jun Qiang, Yanling Cheng, W. Wang, PLoS ONE. 19(7)] 2024. https://openalex.org/W4400947112
@@ -826,16 +636,6 @@
       <author>Min Tang, Xin Zhen, Guoqiang Zhao, Shuang Wu, Wei Hua, Jun Qiang, Yanling Cheng, W. Wang</author>
       <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0306222</guid>
-    </item>
-    <item>
-      <title>Electrospun Cellulose Acetate/Maleic Acid Functionalized Gold Nanoparticles as Pb(II) Ions Colorimeter Senser Strip</title>
-      <link>https://doi.org/10.53848/ssstj.v11i2.764</link>
-      <description>Pimolpun Niamlang, Chularat Iamsamai, Piyanut Muangtong, Piyachat Chuysinuan, Suan Sunandha Science and Technology Journal. 11(2)] 2024. https://openalex.org/W4400931353
-
-                This study investigates the synthesis of gold nanoparticles and surface modifications to enable their utilization as a colorimetric sensor strip on electrospun nanofibrous. Additionally, it utilizes cellulose acetate electrospun fiber preparations as substrates for loading the gold nanoparticles. In order to produce gold nanoparticles, citrate reduction was employed, followed by modification with maleic acid (MA-GNPs). MA-GNPs were significantly more selective for Pb2+ than for other ions (Co2+, Cu2+, Hg2+, Ni+), according to the results. Following the introduction of Pb2+, the solutions exhibited a color change from red to blue or purple, which was attributed to the aggregation of nanoparticles, as determined by UV-Vis spectrometry. An optical band indicative of GNPs and MA-GNPs was detected at an estimated wavelength of 520 nm. Approximately 600 nanometers after the addition of Pb2+, the intensity of the solution progressively decreased to 520 nanometers, and a new band emerged. To fabricate cellulose acetate nanofibrous via electrospinning, the impact of solvent ratios, polymer concentrations, and process conditions were investigated. The ideal parameters for the fabrication of the substrate were as follows: 15%w/w polymer solution, 15 kV electrospinning voltage, 15 cm needle-to-collector distance, and 48 hours of collecting time. In order to examine the color change of the prepared strip, it is observed that the strip transforms from red to blue upon exposure to Pb2+ ions of varying concentrations, just as it does in solution form. An examination of water samples indicated that the strip remained colorless when tested with DI water. However, testing with wastewater sourced from a battery facility identified a transformation of the strip from red to purplish blue. This is equivalent to an estimated lead concentration of 40 parts per million. The outcomes showcased the capacity of the discolored strips to identify the preliminary concentration of lead ions, suggesting potential for future advancements in this area.</description>
-      <author>Pimolpun Niamlang, Chularat Iamsamai, Piyanut Muangtong, Piyachat Chuysinuan</author>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.53848/ssstj.v11i2.764</guid>
     </item>
   </channel>
 </rss>
