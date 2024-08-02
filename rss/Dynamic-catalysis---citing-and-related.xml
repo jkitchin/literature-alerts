@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Aug 2024 01:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 01:11:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Accelerated Steam Methane Reforming by Dynamically Applied Charges</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01311</link>
-      <description>Veera Venkata Ramprajwal Vempatti, Shengguang Wang, Omar A. Abdelrahman, Paul J. Dauenhauer, Lars C. Grabow, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4400942538
-
-                No abstract</description>
-      <author>Veera Venkata Ramprajwal Vempatti, Shengguang Wang, Omar A. Abdelrahman, Paul J. Dauenhauer, Lars C. Grabow</author>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01311</guid>
-    </item>
     <item>
       <title>Enabling high throughput deep reinforcement learning with first principles to investigate catalytic reaction mechanisms</title>
       <link>https://doi.org/10.1038/s41467-024-50531-6</link>

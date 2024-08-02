@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Aug  1 01:17:31 2024
+Created on Fri Aug  2 01:11:13 2024
 
-Found 29 results from 2024-07-25 to 2024-08-01
+Found 25 results from 2024-07-26 to 2024-08-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -16,94 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357)
-
-## Activation of efficient hydrogen evolution on 1T-VS2 nanoribbons by low-cost transition metals: A first-principles study   
-
-OpenAlex: https://openalex.org/W4400936531    
-Open access: False
-    
-[Tian Wang](https://openalex.org/A5100428415), [Mengying Jia](https://openalex.org/A5041638737), [Pengbo Ding](https://openalex.org/A5101374682), [Dan Xing](https://openalex.org/A5102598858), [Chang Pu](https://openalex.org/A5044300307), [Junguang Tao](https://openalex.org/A5060259971), [Lixiu Guan](https://openalex.org/A5020906798), International Journal of Hydrogen Energy. 81(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.07.267.
-    
-No abstract    
-
-    
-
-## Do Women Benefit More than Men From Coauthoring with a Prominent Researcher?   
-
-OpenAlex: https://openalex.org/W4400937703    
-Open access: False
-    
-[Daniela Aguirre-Guerrero](https://openalex.org/A5022959922), [M. Ehekatzin García-Guzmán](https://openalex.org/A5105013436), [Aurora A. Ramírez-Álvarez](https://openalex.org/A5001823540), [Diana Terrazas-Santamaroa](https://openalex.org/A5105013437), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4904485.
-    
-No abstract    
-
-    
-
-## Accelerated Steam Methane Reforming by Dynamically Applied Charges   
-
-OpenAlex: https://openalex.org/W4400942538    
-Open access: False
-    
-[Veera Venkata Ramprajwal Vempatti](https://openalex.org/A5058017464), [Shengguang Wang](https://openalex.org/A5055686200), [Omar A. Abdelrahman](https://openalex.org/A5069992044), [Paul J. Dauenhauer](https://openalex.org/A5003718847), [Lars C. Grabow](https://openalex.org/A5029991019), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01311.
-    
-No abstract    
-
-    
-
-## Revealing the Size and Potential Dependent D2O Microkinetics on Pt Nanoparticles Using Grand Canonical Ensemble Modeling   
-
-OpenAlex: https://openalex.org/W4400945155    
-Open access: False
-    
-[Shibin Wang](https://openalex.org/A5101625357), [Xinyu Li](https://openalex.org/A5100406088), [Jingnan Zheng](https://openalex.org/A5036675747), [Jianguo Wang](https://openalex.org/A5100336346), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c01428.
-    
-Revealing the potential and nanoparticle size effect is significant for understanding the electrochemical microkinetic behaviors under real reaction conditions. Herein, an efficient strategy of combining the robust fully converged constant potential (FCP) algorithm and the size dependent site distribution rule assumption was proposed. A simple reaction of isotopic D    
-
-    
-
-## Exploring the key role of electronic effects in Pd catalysts supported on Ni-modified N-doped porous carbon for direct synthesis of H2O2 under atmospheric pressure   
-
-OpenAlex: https://openalex.org/W4400948251    
-Open access: False
-    
-[Donghai Jiang](https://openalex.org/A5037075536), [Yongyong Shi](https://openalex.org/A5102937551), [Liming Zhou](https://openalex.org/A5102715286), [Jun Ma](https://openalex.org/A5052476623), [Chaochuang Yin](https://openalex.org/A5082707173), [Lin Qian](https://openalex.org/A5100306610), [Hongyan Pan](https://openalex.org/A5082188592), Molecular Catalysis. 565(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114407.
-    
-No abstract    
-
-    
-
-## Engineering asymmetric electronic structure of cobalt coordination on CoN3S active sites for high performance oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4400949195    
-Open access: False
-    
-[Long Chen](https://openalex.org/A5100336419), [Shuhu Yin](https://openalex.org/A5017209222), [Hongbin Zeng](https://openalex.org/A5101140852), [Jia Liu](https://openalex.org/A5100409681), [Xiaofeng Xiao](https://openalex.org/A5039526559), [Xiaoyang Cheng](https://openalex.org/A5101282366), [Huan Huang](https://openalex.org/A5100670330), [Rui Huang](https://openalex.org/A5072851267), [Jian Yang](https://openalex.org/A5101645529), [Wen‐Feng Lin](https://openalex.org/A5033650971), [Yanxia Jiang](https://openalex.org/A5017615701), [Shi‐Gang Sun](https://openalex.org/A5100673667), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.07.011.
-    
-No abstract    
-
-    
-
-## Multi‐Component and Nanoporous Design toward RuO2‐Based Electrocatalyst with Enhanced Performance for Acidic Water Splitting   
-
-OpenAlex: https://openalex.org/W4400955732    
-Open access: False
-    
-[Xing Wu](https://openalex.org/A5074170951), [Jiashun Wu](https://openalex.org/A5015453825), [Yixuan Hu](https://openalex.org/A5102311220), [Kolan Madhav Reddy](https://openalex.org/A5041129333), [Boxuan Cao](https://openalex.org/A5057862858), [Kolan Madhav Reddy](https://openalex.org/A5041129333), [Zhenbin Wang](https://openalex.org/A5037685122), [Huajun Qiu](https://openalex.org/A5062759680), Small. None(None)] 2024.https://doi.org/10.1002/smll.202404019.
-    
-Developing electrocatalysts with excellent activity and stability for water splitting in acidic media remains a formidable challenge due to the sluggish kinetics and severe dissolution. As a solution, a multi-component doped RuO    
-
-    
-
-## Single-atom transition metals doping two-dimensional BXN materials (X = 2, 3, 5) with promising electrocatalytic activity for efficient hydrogen production in the entire pH range   
-
-OpenAlex: https://openalex.org/W4400968353    
-Open access: True
-    
-[Yuhua Wei](https://openalex.org/A5014056102), [Feng Gao](https://openalex.org/A5077258816), [Haibo Liu](https://openalex.org/A5100394072), [Qi Wei](https://openalex.org/A5078789898), [Sichao Du](https://openalex.org/A5013645993), [Hao Xie](https://openalex.org/A5084257637), [Duo Xiao](https://openalex.org/A5090038443), Materials Advances. None(None)] 2024.https://doi.org/10.1039/d4ma00161c.
-    
-Single-atom supported on 2D B X N materials ( X = 2, 3, 5) are conducive to the improvement of SACs, thus enhancing the catalytic activity. By exploring the dependence of H adsorption on different SACs with pH, the optimal SACs for HER can be found.    
-
-    
 
 ## Modifying Parallel Excitations into One Framework for C(sp3)─H Bond Activation with Energy Combined More Than Two Photons   
 
@@ -193,6 +105,28 @@ Neural network interatomic potentials (NNPs) have recently proven to be powerful
 
     
 
+## Evaluating the Selectivity of CO2 Reduction Reaction on Elementary Metal Particles with DFT Calculations   
+
+OpenAlex: https://openalex.org/W4401009030    
+Open access: False
+    
+[Qiang Wang](https://openalex.org/A5100366986), [Jia Li](https://openalex.org/A5100454297), [Yi Liu](https://openalex.org/A5100330605), [Pi-Guey Su](https://openalex.org/A5024681732), [Zhaohui Zhou](https://openalex.org/A5101595171), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.104866.
+    
+No abstract    
+
+    
+
+## The role of cations in hydrogen evolution reaction on a platinum electrode in mildly acidic media   
+
+OpenAlex: https://openalex.org/W4401009209    
+Open access: True
+    
+[Chunmiao Ye](https://openalex.org/A5102768543), [Xuan Liu](https://openalex.org/A5100362304), [Marc T. M. Koper](https://openalex.org/A5028485156), Electrochemistry Communications. None(None)] 2024.https://doi.org/10.1016/j.elecom.2024.107784.
+    
+No abstract    
+
+    
+
 ## AI applications in energy transition and decarbonization   
 
 OpenAlex: https://openalex.org/W4401011533    
@@ -212,6 +146,17 @@ Open access: True
 [Thomas Edward Koker](https://openalex.org/A5046661007), [Keegan Quigley](https://openalex.org/A5003460806), [Eric Taw](https://openalex.org/A5008394294), [Kevin Tibbetts](https://openalex.org/A5021069411), [Lin Li](https://openalex.org/A5060007995), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01343-1.
     
 Abstract The calculation of electron density distribution using density functional theory (DFT) in materials and molecules is central to the study of their quantum and macro-scale properties, yet accurate and efficient calculation remains a long-standing challenge. We introduce ChargE3Net, an E(3)-equivariant graph neural network for predicting electron density in atomic systems. ChargE3Net enables the learning of higher-order equivariant features to achieve high predictive accuracy and model expressivity. We show that ChargE3Net exceeds the performance of prior work on diverse sets of molecules and materials. When trained on the massive dataset of over 100K materials in the Materials Project database, our model is able to capture the complexity and variability in the data, leading to a significant 26.7% reduction in self-consistent iterations when used to initialize DFT calculations on unseen materials. Furthermore, we show that non-self-consistent DFT calculations using our predicted charge densities yield near-DFT performance on electronic and thermodynamic property prediction at a fraction of the computational cost. Further analysis attributes the greater predictive accuracy to improved modeling of systems with high angular variations. These results illuminate a pathway towards a machine learning-accelerated ab initio calculations for materials discovery.    
+
+    
+
+## High-entropy alloys for catalysis   
+
+OpenAlex: https://openalex.org/W4401012180    
+Open access: False
+    
+[Martin Lillebro Striib Nielsen](https://openalex.org/A5068078531), [Jan Rossmeisl](https://openalex.org/A5083668074), Elsevier eBooks. None(None)] 2024.https://doi.org/10.1016/b978-0-443-22142-2.00012-0.
+    
+No abstract    
 
     
 
@@ -242,7 +187,7 @@ We report a catalyst family of high-entropy alloy (HEA) atomic layers having thr
 OpenAlex: https://openalex.org/W4401022912    
 Open access: False
     
-[Qigang Chen](https://openalex.org/A5033673698), [Yang Huohai](https://openalex.org/A5003167045), [Peng Wang](https://openalex.org/A5100396067), [Qiang Ke](https://openalex.org/A5020862263), [Xingbo Ge](https://openalex.org/A5063446819), [Xin Chen](https://openalex.org/A5024977426), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.128981.
+[Qigang Chen](https://openalex.org/A5033673698), [Huohai Yang](https://openalex.org/A5003167045), [Peng Wang](https://openalex.org/A5100396067), [Qiang Ke](https://openalex.org/A5020862263), [Xingbo Ge](https://openalex.org/A5063446819), [Xin Chen](https://openalex.org/A5024977426), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.128981.
     
 No abstract    
 
@@ -322,6 +267,17 @@ Open access: True
 [Pingping Wang](https://openalex.org/A5100754141), [Ada Josefina Robinson](https://openalex.org/A5048669998), [Stavros Papadokonstantakis](https://openalex.org/A5046686253), Frontiers in Energy Research. 12(None)] 2024.https://doi.org/10.3389/fenrg.2024.1412770.
     
 Carbon Capture, Storage and Utilization (CCS/CCU) is critical for achieving net-zero emissions. Although the recent surge in CCS/CCU projects announcement, there is a clear gap between announced capacity (around 400 Mt CO₂ per year) and the Net Zero Emissions (NZE) scenario deployment target (around 1 Gt per year) by 2030. This review examines breakthroughs and advancements across both established and emerging CCS/CCU systems with different Technology Readiness Levels (TRLs) in various industrial sectors, emphasizing the necessity of prospective assessments for their acceleration and scalability. It examines the development and application of prospective Life Cycle Assessment (pLCA) and prospective Techno-Economic Assessment (pTEA), highlighting their limitations and importance of their outcomes in decision-making processes. Differences between the evolving dynamics of the technological systems (foreground) and the evolution of the overall socioeconomic system (background) are discussed. Incorporating scenario data from Integrated Assessment Models (IAMs) into pLCA and pTEA reveals an iterative relationship that significantly influences the outcome of both the environmental assessments and the economics of large-scale production of the CCS/CCU systems under study. This, in turn, could reshape investment strategies towards advanced technologies, necessitating their consideration within the evolving structure of IAMs. It is concluded that the inherent limitations of CCS/CCU technologies at an early stage of development require quantitative uncertainty analysis and demand robustness, interdisciplinary collaboration, policy intervention, and data transparency. The rigorous evaluative frameworks are key for developing economic, environmental and climate policies and enable well-informed decisions across rapidly evolving sectors. A framework is proposed in this review, outlining a multistep process that includes a series of databases and open-source tools to interface pTEA and pLCA with enhanced IAMs for CCS/CCU, demonstrating its potential to improve decision-making and policy development.    
+
+    
+
+## 150 years of oxygen chemistry   
+
+OpenAlex: https://openalex.org/W4401121830    
+Open access: False
+    
+, Nature Computational Science. 4(7)] 2024.https://doi.org/10.1038/s43588-024-00670-z.
+    
+No abstract    
 
     
 

@@ -1,8 +1,8 @@
 # Emacs and org-mode
 Description: Emacs and org-mode
-Created on Thu Aug  1 01:17:15 2024
+Created on Fri Aug  2 01:10:57 2024
 
-Found 0 results from 2024-07-25 to 2024-08-01
+Found 0 results from 2024-07-26 to 2024-08-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=default.search%3A%28%22emacs%22%20OR%20%22orgmode%22%20OR%20%22org-mode%22%29%20NOT%20%22emac%22](https://api.openalex.org/works?filter=default.search%3A%28%22emacs%22%20OR%20%22orgmode%22%20OR%20%22org-mode%22%29%20NOT%20%22emac%22)
 
