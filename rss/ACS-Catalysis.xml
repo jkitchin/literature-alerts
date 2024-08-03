@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Aug 2024 01:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 01:10:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Design and Impact: Navigating the Electrochemical Characterization Methods for Supported Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c03271</link>
-      <description>Karl-Ander Kasuk, Jaak Nerut, Vitali Grozovski, Enn Lust, Anthony Kucernak, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400974831
-
-                No abstract</description>
-      <author>Karl-Ander Kasuk, Jaak Nerut, Vitali Grozovski, Enn Lust, Anthony Kucernak</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03271</guid>
-    </item>
-    <item>
-      <title>Deciphering the Atomic-Scale Degradation of Carbon-Supported Platinum&#8211;Yttrium Nanoalloys during the Oxygen Reduction Reaction in Acidic Medium</title>
-      <link>https://doi.org/10.1021/acscatal.4c02616</link>
-      <description>Carlos Augusto Campos Rold&#225;n, Rapha&#235;l Chattot, Jean&#8208;S&#233;bastien Filhol, Hazar Guesmi, Nuria Romero, R&#233;mi Bacabe, P. Blanchard, Valentin Vinci, Jakub Drnec, Deborah J. Jones, Deborah J. Jones, Sara Cavali&#232;re, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400981506
-
-                No abstract</description>
-      <author>Carlos Augusto Campos Rold&#225;n, Rapha&#235;l Chattot, Jean&#8208;S&#233;bastien Filhol, Hazar Guesmi, Nuria Romero, R&#233;mi Bacabe, P. Blanchard, Valentin Vinci, Jakub Drnec, Deborah J. Jones, Deborah J. Jones, Sara Cavali&#232;re</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02616</guid>
-    </item>
-    <item>
-      <title>Palladium-Catalyzed Decarbonylative Nucleophilic Halogenation of Acyl Fluorides and Chlorides: Synthesis of Aryl Halides via Reductive Elimination of the C&#8211;X (X = I, Br, and Cl) Bond and Mechanistic Implications</title>
-      <link>https://doi.org/10.1021/acscatal.4c03731</link>
-      <description>Tian Tian, Myuto Kashihara, Weidan Yan, Yasushi Nishihara, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400981659
-
-                No abstract</description>
-      <author>Tian Tian, Myuto Kashihara, Weidan Yan, Yasushi Nishihara</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03731</guid>
-    </item>
-    <item>
-      <title>Structure-Based Catalytic Mechanism of Amaryllidaceae &lt;i&gt;O&lt;/i&gt;-Methyltransferases</title>
-      <link>https://doi.org/10.1021/acscatal.4c03305</link>
-      <description>Saw Yu Yu Hnin, Yu Nakashima, Takeshi Kodama, Hiroyuki Morita, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400981691
-
-                No abstract</description>
-      <author>Saw Yu Yu Hnin, Yu Nakashima, Takeshi Kodama, Hiroyuki Morita</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03305</guid>
-    </item>
-    <item>
-      <title>Catalytic Application of Atomically Precise Metal Clusters in Selective Hydrogenation Processes</title>
-      <link>https://doi.org/10.1021/acscatal.4c02965</link>
-      <description>Xiao Cai, Li Wang, Yi-Qi Tian, Weiping Ding, Yan Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400981943
-
-                No abstract</description>
-      <author>Xiao Cai, Li Wang, Yi-Qi Tian, Weiping Ding, Yan Zhu</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02965</guid>
-    </item>
-    <item>
-      <title>Origin of Carbon Monoxide Formation in the Oxidative Dehydrogenation of Propane Using Carbon Dioxide</title>
-      <link>https://doi.org/10.1021/acscatal.4c02628</link>
-      <description>James Carter, Tongqi Ye, Daniel G. Hewes, Ahlam Almoteiry, Kieran J. Aggett, Bart D. Vandegehuchte, Qian He, Stuart H. Taylor, Graham J. Hutchings, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400982774
-
-                No abstract</description>
-      <author>James Carter, Tongqi Ye, Daniel G. Hewes, Ahlam Almoteiry, Kieran J. Aggett, Bart D. Vandegehuchte, Qian He, Stuart H. Taylor, Graham J. Hutchings</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02628</guid>
-    </item>
-    <item>
-      <title>H&lt;sub&gt;2&lt;/sub&gt;S-Treated Nickel Foam Electrocatalyst for Alkaline Water Electrolysis under Industrial Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.4c02778</link>
-      <description>S. O. OLESEN, Anders Jensen, Magnus Kl&#248;ve, Filippo Fenini, J&#246;rg Nissen, Bo B. Iversen, Anders Bentien, Lars Peter Nielsen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400983045
-
-                No abstract</description>
-      <author>S. O. OLESEN, Anders Jensen, Magnus Kl&#248;ve, Filippo Fenini, J&#246;rg Nissen, Bo B. Iversen, Anders Bentien, Lars Peter Nielsen</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02778</guid>
-    </item>
-    <item>
-      <title>Capturing the Elusive [Ru&lt;sup&gt;V&lt;/sup&gt;&#9552;O]&lt;sup&gt;+&lt;/sup&gt; Intermediate in Water Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01623</link>
-      <description>Daulat Phapale, Vasudha Sharma, Abhishek Saini, Sunita Sharma, Pardeep Kumar, Rakesh Kumar, Muralidharan Shanmugam, Apparao Draksharapu, Arnab Dutta, Eric J. L. McInnes, David Collison, Gopalan Rajaraman, Maheswaran Shanmugam, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400984263
-
-                No abstract</description>
-      <author>Daulat Phapale, Vasudha Sharma, Abhishek Saini, Sunita Sharma, Pardeep Kumar, Rakesh Kumar, Muralidharan Shanmugam, Apparao Draksharapu, Arnab Dutta, Eric J. L. McInnes, David Collison, Gopalan Rajaraman, Maheswaran Shanmugam</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01623</guid>
-    </item>
-    <item>
-      <title>Alkali Metal Ions Stabilizing Copper(I)&#8211;Sulfur Bonds for Efficient Formate Production from Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c02022</link>
-      <description>Xianglong Cui, Ming Wu, Jiang Wu, Yicheng Li, Yinuo Wang, Yian Wang, Jiajia Huang, Ming Zhao, Zhong&#8208;Zhen Luo, Zhigang Zou, Yu Zhang, Minhua Shao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4400988820
-
-                No abstract</description>
-      <author>Xianglong Cui, Ming Wu, Jiang Wu, Yicheng Li, Yinuo Wang, Yian Wang, Jiajia Huang, Ming Zhao, Zhong&#8208;Zhen Luo, Zhigang Zou, Yu Zhang, Minhua Shao</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02022</guid>
-    </item>
     <item>
       <title>Boosting Benzene Alkylation Conversion with CO&lt;sub&gt;2&lt;/sub&gt;/H&lt;sub&gt;2&lt;/sub&gt; via a Triple Composite Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.4c02253</link>
@@ -136,6 +46,46 @@
       <author>Chunbao Xu, Si-Yi Yan, Hui Xu, Yan Wang, L. L. Gu, Pei Xu, Long Yin, Xu Zhu</author>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03396</guid>
+    </item>
+    <item>
+      <title>Impact of Organic Anions on Metal Hydroxide Oxygen Evolution Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01907</link>
+      <description>Shujin Hou, Li&#8208;Li Xu, Soumya Mukherjee, Jian Zhou, Kun&#8208;Ting Song, Zhenyu Zhou, Shengli Zhang, Xiaoxin Ma, Julien Warnan, Aliaksandr S. Bandarenka, Roland A. Fischer, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401074450
+
+                Structural metamorphosis of metal&#8211;organic frameworks (MOFs) eliciting highly active metal-hydroxide catalysts has come to the fore lately, with much promise. However, the role of organic ligands leaching into electrolytes during alkaline hydrolysis remains unclear. Here, we elucidate the influence of organic carboxylate anions on a family of Ni or NiFe-based hydroxide type catalysts during the oxygen evolution reaction. After excluding interfering variables, i.e., electrolyte purity, Ohmic loss, and electrolyte pH, the experimental results indicate that adding organic anions to the electrolyte profoundly impacts the redox potential of the Ni species versus with only a negligible effect on the oxygen evolution activities. In-depth studies demonstrate plausible reasons behind those observations and allude to far-reaching implications in controlling electrocatalysis in MOFs, mainly where compositional modularity entails fine-tuning organic anions.</description>
+      <author>Shujin Hou, Li&#8208;Li Xu, Soumya Mukherjee, Jian Zhou, Kun&#8208;Ting Song, Zhenyu Zhou, Shengli Zhang, Xiaoxin Ma, Julien Warnan, Aliaksandr S. Bandarenka, Roland A. Fischer</author>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01907</guid>
+    </item>
+    <item>
+      <title>Enantioselective Synthesis of Secondary Homoallyl Borons by Copper-Catalyzed 1,1-Borylallylation of Terminal Alkynes</title>
+      <link>https://doi.org/10.1021/acscatal.4c03735</link>
+      <description>Haibo Liu, Kang Ding, Bo Su, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401140383
+
+                No abstract</description>
+      <author>Haibo Liu, Kang Ding, Bo Su</author>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03735</guid>
+    </item>
+    <item>
+      <title>Modulating the Surface Concentration and Lifetime of Active Hydrogen in Cu-Based Layered Double Hydroxides for Electrocatalytic Nitrate Reduction to Ammonia</title>
+      <link>https://doi.org/10.1021/acscatal.4c03245</link>
+      <description>Hongmei Li, S Li, R.F. Guan, Zhaoyu Jin, Dan Xiao, Yong Guo, Panpan Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401157812
+
+                Strategies incorporating heterometals to introduce surface-active hydrogen (*H) have been extensively utilized to enhance the electrocatalytic activity of Cu-based catalysts in the nitrate reduction reaction (NitRR). However, a comprehensive understanding of *H behavior and its specific impact on regulating the NitRR pathway remains elusive, particularly in a quantitative manner. In this study, we prepared a group of layered double hydroxides (LDHs) as model catalysts with diverse *H concentrations and lifetimes. Our findings reveal that the NitRR activity of Cu-based LDHs is highly dependent on the *H species that could be modulated by the incorporated heterometallic sites. Specifically, we conducted in situ analysis of different Cu-based LDH catalysts using time-resolved scanning electrochemical microscopy. The surface concentration and lifetime of *H at various applied potentials were quantified, enabling us to establish the relationship between the *H behavior and NitRR performance. Therefore, optimal NitRR performance was achieved with CuNi-LDHs, exhibiting a faradaic efficiency of 94.6% and yield rate of 2.7 mg h&#8211;1 cm&#8211;2 because of its appropriate *H surface concentration and lifetime. Additionally, we observe a trend of CuNi &gt; CuCo &gt; Cu &gt; CuRu &gt; CuFe &gt; CuMg in terms of the faradaic efficiency for NH3 production. These results suggest that by effectively utilizing the stable *H produced by the catalyst, one would allow favorable NitRR performance, offering a promising strategy for other electrocatalytic hydrogenation reactions.</description>
+      <author>Hongmei Li, S Li, R.F. Guan, Zhaoyu Jin, Dan Xiao, Yong Guo, Panpan Li</author>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03245</guid>
+    </item>
+    <item>
+      <title>Nickel-Catalyzed Reductive Decarboxylative Coupling of Diacyl Peroxides with Aryl/Vinyl Halides</title>
+      <link>https://doi.org/10.1021/acscatal.4c04002</link>
+      <description>Canbin Qiu, Qifa Chen, Hegui Gong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401175043
+
+                No abstract</description>
+      <author>Canbin Qiu, Qifa Chen, Hegui Gong</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04002</guid>
     </item>
   </channel>
 </rss>
