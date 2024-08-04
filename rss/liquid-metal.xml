@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Aug 2024 01:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 01:16:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>High&#8208;Throughput Ammonia Production from Nitrate Using Liquid Metal Synthesized Bismuth Nano&#8208;Catalyst (Adv. Energy Mater. 28/2024)</title>
-      <link>https://doi.org/10.1002/aenm.202470116</link>
-      <description>Sahar Nazari, Jing Sun, Mahroo Baharfar, Philippe Poulin, Kourosh Kalantar&#8208;zadeh, Rouhollah Jalili, Dorna Esrafilzadeh, Advanced Energy Materials. 14(28)] 2024. https://openalex.org/W4401036189
-
-                No abstract</description>
-      <author>Sahar Nazari, Jing Sun, Mahroo Baharfar, Philippe Poulin, Kourosh Kalantar&#8208;zadeh, Rouhollah Jalili, Dorna Esrafilzadeh</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202470116</guid>
-    </item>
   </channel>
 </rss>

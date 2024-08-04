@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Aug 2024 01:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 01:16:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enabling high throughput deep reinforcement learning with first principles to investigate catalytic reaction mechanisms</title>
-      <link>https://doi.org/10.1038/s41467-024-50531-6</link>
-      <description>Tian Lan, Huan Wang, Qi An, Nature Communications. 15(1)] 2024. https://openalex.org/W4401019319
-
-                Exploring catalytic reaction mechanisms is crucial for understanding chemical processes, optimizing reaction conditions, and developing more effective catalysts. We present a reaction-agnostic framework based on high-throughput deep reinforcement learning with first principles (HDRL-FP) that offers excellent generalizability for investigating catalytic reactions. HDRL-FP introduces a generalizable reinforcement learning representation of catalytic reactions constructed solely from atomic positions, which are subsequently mapped to first-principles-derived potential energy landscapes. By leveraging thousands of simultaneous simulations on a single GPU, HDRL-FP enables rapid convergence to the optimal reaction path at a low cost. Its effectiveness is demonstrated through the studies of hydrogen and nitrogen migration in Haber-Bosch ammonia synthesis on the Fe(111) surface. Our findings reveal that the Langmuir-Hinshelwood mechanism shares the same transition state as the Eley-Rideal mechanism for H migration to NH</description>
-      <author>Tian Lan, Huan Wang, Qi An</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50531-6</guid>
-    </item>
-    <item>
-      <title>Dynamic Cation Enrichment during Pulsed CO&lt;sub&gt;2&lt;/sub&gt; Electrolysis and the Cation-Promoted Multicarbon Formation</title>
-      <link>https://doi.org/10.1021/jacs.4c06404</link>
-      <description>Zhuofeng Li, Linqin Wang, Licheng Sun, Wenxing Yang, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4401034929
-
-                Recently, pulsed electrolysis has been demonstrated as an emerging electrochemical technique that significantly promotes the performance of various electrocatalysis applications. The ionic nature of aqueous electrolytes implies a likely change in ionic distribution under these alternating potential conditions. However, despite the well-known importance of cations, the impact of pulsed electrolysis on the cation distribution remains unexplored as well as its influences on the performance. Herein, we explore the cation effects on the pulsed electrochemical CO</description>
-      <author>Zhuofeng Li, Linqin Wang, Licheng Sun, Wenxing Yang</author>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c06404</guid>
-    </item>
   </channel>
 </rss>
