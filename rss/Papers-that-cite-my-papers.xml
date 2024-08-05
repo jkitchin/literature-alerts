@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Aug 2024 01:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 01:13:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -452,7 +452,7 @@
       <link>https://doi.org/10.1038/s41467-024-50942-5</link>
       <description>Tao Zhang, Qitong Ye, Zhidong Han, Qingyi Liu, Yipu Liu, Dongshuang Wu, Hong Jin Fan, Nature Communications. 15(1)] 2024. https://openalex.org/W4401277047
 
-                No abstract</description>
+                The sluggish kinetics of Volmer step in the alkaline hydrogen evolution results in large energy consumption. The challenge that has yet well resolved is to control the water adsorption and dissociation. Here, we develop biaxially strained MoSe2 three dimensional nanoshells that exhibit enhanced catalytic performance with a low overpotential of 58.2 mV at 10 mA cm&#8722;2 in base, and long-term stable activity in membrane-electrode-assembly based electrolyser at 1 A cm&#8722;2. Compared to the flat and uniaxial-strained MoSe2, we establish that the stably adsorbed OH engineer on biaxially strained MoSe2 changes the water adsorption configuration from O-down on Mo to O-horizontal on OH* via stronger hydrogen bonds. The favorable water dissociation on 3-coordinated Mo sites and hydrogen adsorption on 4-coordinated Mo sites constitute a tandem electrolysis, resulting in thermodynamically favorable hydrogen evolution. This work deepens our understanding to the impact of strain dimensions on water dissociation and inspires the design of nanostructured catalysts for accelerating the rate-determining step in multi-electron reactions. Hydroxide is the most abundant anion in alkaline solutions, but its impact on alkaline water electrolysis remains unclear. Herein, the authors report a biaxial strain induced OH engineer on MoSe2 to accelerate alkaline hydrogen evolution by modifying the water dissociation.</description>
       <author>Tao Zhang, Qitong Ye, Zhidong Han, Qingyi Liu, Yipu Liu, Dongshuang Wu, Hong Jin Fan</author>
       <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50942-5</guid>
@@ -466,6 +466,96 @@
       <author>Yue&#8208;Fei Zhang, Yang Yu, Yu Zhang, Xuefei Liu, Wenjun Xiao, Degui Wang, Gang Wang, Zhen Wang, Jinshun Bi, Jincheng Liu, Xun Zhou, Wentao Wang</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/eem2.12803</guid>
+    </item>
+    <item>
+      <title>Synthesis of polyhedral Pt-Pd-Ni nanobelts regulated by W(CO)6 and applied as a highly performing oxygen reduction reaction electrocatalyst</title>
+      <link>https://doi.org/10.1016/j.cej.2024.154476</link>
+      <description>Yuanyan Luo, Tao Zhou, Costas Molochas, Yifang Ouyang, Xiaoting Huang, Zhen&#8208;Yu Chen, Jinliang Zhu, Panagiotis Tsiakaras, Pei Kang Shen, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4401282320
+
+                No abstract</description>
+      <author>Yuanyan Luo, Tao Zhou, Costas Molochas, Yifang Ouyang, Xiaoting Huang, Zhen&#8208;Yu Chen, Jinliang Zhu, Panagiotis Tsiakaras, Pei Kang Shen</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154476</guid>
+    </item>
+    <item>
+      <title>Boosting the Electrochemical Oxygen Evolution with Nickel Oxide Nanoparticle-Modified Glassy Carbon Electrodes in Alkaline Solutions</title>
+      <link>https://doi.org/10.1021/acsomega.4c04700</link>
+      <description>Abdulrahman I. Alharthi, Omar A. Hazazi, Badreah A. Al Jahdaly, Mohammed A. Kassem, Mohamed I. Awad, ACS Omega. None(None)] 2024. https://openalex.org/W4401282919
+
+                No abstract</description>
+      <author>Abdulrahman I. Alharthi, Omar A. Hazazi, Badreah A. Al Jahdaly, Mohammed A. Kassem, Mohamed I. Awad</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c04700</guid>
+    </item>
+    <item>
+      <title>Recent advancements in aqueous electrowinning for metal recovery: A comprehensive review</title>
+      <link>https://doi.org/10.1016/j.mineng.2024.108897</link>
+      <description>Zuowei Liu, Xueyi Guo, Zhipeng Xu, Qinghua Tian, Minerals Engineering. 216(None)] 2024. https://openalex.org/W4401283898
+
+                No abstract</description>
+      <author>Zuowei Liu, Xueyi Guo, Zhipeng Xu, Qinghua Tian</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mineng.2024.108897</guid>
+    </item>
+    <item>
+      <title>Machine-learned interatomic potentials for transition metal dichalcogenide Mo1&#8722;xWxS2&#8722;2ySe2y alloys</title>
+      <link>https://doi.org/10.1038/s41524-024-01357-9</link>
+      <description>Anas Siddiqui, Nicholas D. M. Hine, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4401284655
+
+                Abstract Machine Learned Interatomic Potentials (MLIPs) combine the predictive power of Density Functional Theory (DFT) with the speed and scaling of interatomic potentials, enabling theoretical spectroscopy to be applied to larger and more complex systems than is possible with DFT. In this work, we train an MLIP for quaternary Transition Metal Dichalcogenide (TMD) alloy systems of the form Mo 1&#8722; x W x S 2&#8722;2 y Se 2 y , using the equivariant Neural Network (NN) MACE. We demonstrate the ability of this potential to calculate vibrational properties of alloy TMDs including phonon spectra for pure monolayers, and Vibrational Density of States (VDOS) and first-order Raman spectra for alloys across the range of x and y . We show that we retain DFT level accuracy while greatly extending feasible system size and extent of sampling over alloy configurations. We are able to characterize the first-order Raman active modes across the whole range of concentration, particularly for the &#8220;disorder-induced&#8221; modes.</description>
+      <author>Anas Siddiqui, Nicholas D. M. Hine</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01357-9</guid>
+    </item>
+    <item>
+      <title>First-Principles Structure Search Study of 17-&#946;-Estradiol Adsorption on Graphene</title>
+      <link>https://doi.org/10.1021/acsomega.4c03485</link>
+      <description>Suvi Sippola, Milica Todorovi&#263;, Emilia Peltola, ACS Omega. None(None)] 2024. https://openalex.org/W4401286422
+
+                No abstract</description>
+      <author>Suvi Sippola, Milica Todorovi&#263;, Emilia Peltola</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c03485</guid>
+    </item>
+    <item>
+      <title>A Theoretical Inquest of Atomically Injected Ni-Atom over Graphene and Analogous Substrates for Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1007/s12678-024-00884-9</link>
+      <description>Hemang P. Tanna, Prafulla K. Jha, Electrocatalysis. None(None)] 2024. https://openalex.org/W4401290965
+
+                No abstract</description>
+      <author>Hemang P. Tanna, Prafulla K. Jha</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12678-024-00884-9</guid>
+    </item>
+    <item>
+      <title>Axial Ligand Engineering Enhanced CoN4-Based catalysts as efficient Electrocatalysts for ORR/OER with low overpotentials: A DFT study</title>
+      <link>https://doi.org/10.1016/j.colsurfa.2024.135001</link>
+      <description>Zhihua Ju, X.Y. Zhang, Yong Wang, Qingxin Kang, Yan Liang, Fapeng Yu, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2024. https://openalex.org/W4401304827
+
+                No abstract</description>
+      <author>Zhihua Ju, X.Y. Zhang, Yong Wang, Qingxin Kang, Yan Liang, Fapeng Yu</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.135001</guid>
+    </item>
+    <item>
+      <title>Ba promoter effect on cobalt-catalyzed ammonia decomposition kinetics: A theoretical analysis</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.07.050</link>
+      <description>Zahra Almisbaa, Philippe Sautet, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4401306038
+
+                No abstract</description>
+      <author>Zahra Almisbaa, Philippe Sautet</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.07.050</guid>
+    </item>
+    <item>
+      <title>HfS2/BN Heterostructures: A Repeatable Detectable Water Sensing Material</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.104906</link>
+      <description>Jiashuo Zhang, Zihan Chen, Tongtong Li, Junkuo Gao, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401295962
+
+                No abstract</description>
+      <author>Jiashuo Zhang, Zihan Chen, Tongtong Li, Junkuo Gao</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104906</guid>
     </item>
     <item>
       <title>AlloyBERT: Alloy property prediction with large language models</title>

@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Aug  4 01:16:54 2024
+Created on Mon Aug  5 01:13:24 2024
 
-Found 30 results from 2024-07-28 to 2024-08-04
+Found 31 results from 2024-07-29 to 2024-08-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -331,6 +331,17 @@ OpenAlex: https://openalex.org/W4401273891
 Open access: False
     
 , ACS Catalysis. 14(15)] 2024.https://doi.org/10.1021/csv014i015_1828877.
+    
+No abstract    
+
+    
+
+## Investigating the Origin of Epimerization Attenuation during Pd-Catalyzed Cross-Coupling Reactions   
+
+OpenAlex: https://openalex.org/W4401285753    
+Open access: True
+    
+[Isabelle Cai](https://openalex.org/A5091542238), [Thomas C. Malig](https://openalex.org/A5013941438), [Kenji L. Kurita](https://openalex.org/A5043483014), [Joshua S. Derasp](https://openalex.org/A5091569189), [Lauren E. Sirois](https://openalex.org/A5058605673), [Jason E. Hein](https://openalex.org/A5003345103), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03401.
     
 No abstract    
 

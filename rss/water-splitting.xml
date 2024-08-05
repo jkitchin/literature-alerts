@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Aug 2024 01:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 01:13:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -70,10 +70,10 @@
     <item>
       <title>Manipulation of Oxidation States on Phase Boundary via Surface Layer Modification for Enhanced Alkaline Hydrogen Electrocatalysis</title>
       <link>https://doi.org/10.1002/adma.202405128</link>
-      <description>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#305;&#769;a-Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang, Advanced Materials. None(None)] 2024. https://openalex.org/W4401064146
+      <description>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#237;a&#8208;Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang, Advanced Materials. None(None)] 2024. https://openalex.org/W4401064146
 
                 Abstract In alkaline water electrolysis and anion exchange membrane water electrolysis technologies, the hydrogen evolution reaction (HER) at the cathode is significantly constrained by a high energy barrier during the water dissociation step. This study employs a phase engineering strategy to construct heterostructures composed of crystalline Ni 4 W and amorphous WO x aiming to enhance catalytic performance in the HER under alkaline conditions. This work systematically modulates the oxidation states of W within the amorphous WO x of the heterostructure to adjust the electronic states of the phase boundary, the energy barriers associated with the water dissociation step, and the adsorption/desorption properties of intermediates during the alkaline HER process. The optimized catalyst, Ni 4 W/WO x &#8208;2, with a quasi&#8208;metallic state of W coordinated by a low oxygen content in amorphous WO x , demonstrates exceptional catalytic performance (22 mV@10 mA cm &#8722;2 ), outperforming commercial Pt/C (30 mV@10 mA cm &#8722;2 ). Furthermore, the operando X&#8208;ray absorption spectroscopy analysis and theoretical calculations reveal that the optimized W atoms in amorphous WO x serve as active sites for water dissociation and the nearby Ni atoms in crystalline Ni 4 W facilitated the release of H 2 . These findings provide valuable insights into designing efficient heterostructured materials for energy conversion.</description>
-      <author>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#305;&#769;a-Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang</author>
+      <author>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#237;a&#8208;Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang</author>
       <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202405128</guid>
     </item>
@@ -472,7 +472,7 @@
       <link>https://doi.org/10.1021/acs.langmuir.4c01420</link>
       <description>Yongman Kim, Yong-Chan Jeong, D. Na, Young Jae Kim, Jeong Young Park, Langmuir. None(None)] 2024. https://openalex.org/W4401243424
 
-                No abstract</description>
+                Understanding the influence of surface structural features at a molecular level is beneficial in guiding an electrode's mechanistic proposals for electrocatalytic reactions. The relationship between structural stability and catalytic activity significantly impacts reaction performance, even though atomistic knowledge of active sites remains a topic of discussion. In this context, this work presents scanning tunneling microscopy (STM) results for the highly ordered arrangement of manganese porphyrin molecules on a Au(111) surface; STM allows us to monitor active sites at a molecular level to focus on long-standing issues with the electrocatalytic process, especially the exact nature of the real active sites at the interfaces. After water oxidation, manganese porphyrin rapidly decomposes into active catalytic species as bright protrusions. These newly formed active species drastically lost catalytic activity, up to 82%, through only acid treatment, one of the oxide removal methods, not by deionized water and acetone treatments. STM results of the obviated active species on the Au surface by an acidic solution support the forfeited catalytic activity. In addition, it shows a 67% decrement in catalytic activity by adsorption of phosphonic acid, one of the oxide's preferred adsorption materials, compared to the pristine one. Based on these observations, we confirm that the newly formed active species, as water oxidation catalysts, mostly consist of manganese oxides. Notable findings of our work provide molecular evidence for the active sites of Au and modified Au electrodes that spur the future development of water oxidation catalysts.</description>
       <author>Yongman Kim, Yong-Chan Jeong, D. Na, Young Jae Kim, Jeong Young Park</author>
       <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01420</guid>
@@ -596,6 +596,76 @@
       <author>Huiyan Zeng, Zhongfei Liu, Jun Qi, Jiajun Chen, Yanquan Zeng, Chonghui Yang, Zhenzhong Li, Chao Wang, Long Gu, Yanyan Zhang, Shu Miao, Chunzhen Yang</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/eem2.12813</guid>
+    </item>
+    <item>
+      <title>Boosting the Electrochemical Oxygen Evolution with Nickel Oxide Nanoparticle-Modified Glassy Carbon Electrodes in Alkaline Solutions</title>
+      <link>https://doi.org/10.1021/acsomega.4c04700</link>
+      <description>Abdulrahman I. Alharthi, Omar A. Hazazi, Badreah A. Al Jahdaly, Mohammed A. Kassem, Mohamed I. Awad, ACS Omega. None(None)] 2024. https://openalex.org/W4401282919
+
+                No abstract</description>
+      <author>Abdulrahman I. Alharthi, Omar A. Hazazi, Badreah A. Al Jahdaly, Mohammed A. Kassem, Mohamed I. Awad</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c04700</guid>
+    </item>
+    <item>
+      <title>Fabrication of cobalt phosphide/nitride/carbon nanotube composite: An efficient bifunctional catalyst for hydrogen and oxygen evolution</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.07.394</link>
+      <description>Zhaoyu Cai, Li Xu, Yifan Zhou, Longqing Gao, Xiaowei An, Xuli Ma, Yufei Ma, Jie Liu, Xiumin Li, Keyong Tang, International Journal of Hydrogen Energy. 82(None)] 2024. https://openalex.org/W4401283306
+
+                No abstract</description>
+      <author>Zhaoyu Cai, Li Xu, Yifan Zhou, Longqing Gao, Xiaowei An, Xuli Ma, Yufei Ma, Jie Liu, Xiumin Li, Keyong Tang</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.07.394</guid>
+    </item>
+    <item>
+      <title>Enhanced Fast&#8208;Discharging Performance and Cyclability in Oxygen&#8208;Redox&#8208;Based P3&#8208;Type Na&#8208;Layered Cathode via Vacancies in TM layers</title>
+      <link>https://doi.org/10.1002/aenm.202402412</link>
+      <description>Sangyeop Lee, Heejun Kweon, Sangyeop Lee, Min&#8208;kyung Cho, Hobin Ahn, Jinho Ahn, Bonyoung Ku, Myungeun Choi, Hun&#8208;Gi Jung, Dong Ok Shin, Jongsoon Kim, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4401288212
+
+                Abstract Oxygen redox in layered oxide cathodes for Na&#8208;ion batteries is considered a promising approach for improving the energy density. However, oxygen&#8208;redox&#8208;based cathodes suffer from sluggish kinetics and undesirable structural change during charge/discharge, leading to poor electrochemical performances. Herein, introducing vacancies (&#9633;) in the transition metal layers enables the enhanced oxygen redox&#8208;based electrochemical performances in the P3&#8208;type Mn&#8208;based layered oxide cathode is demonstrated. The vacancies can play a role of the local distortion buffers, resulting in the enhanced oxygen redox kinetics and the suppressed structural deformation such as P3&#8208;O3(II) phase transition. The oxygen&#8208;redox&#8208;based P3&#8208;type Na 0.56 [Ni 0.1 Mn 0.81 &#9633; 0.09 ]O 2 exhibits the large discharge capacity of &#8776;140.95 mAh g &#8722;1 at 26 mA g &#8722;1 with a high average discharge voltage of &#8776;3.54 V (vs Na + /Na). Even at 650 mA g &#8722;1 , its discharge capacity and average operation voltages delivered &#8776;122.06 mAh g &#8722;1 and &#8776;3.22 V, respectively. Especially, the small gap of average discharge voltage indicates both improves power&#8208;capability and enhanced kinetics of oxygen redox in P3&#8208;type Na 0.56 [Ni 0.1 Mn 0.81 &#9633; 0.09 ]O 2 . Moreover, the vacancy buffer in the transition metal layers results in the stable cycle&#8208;performance of P3&#8208;type Na 0.56 [Ni 0.1 Mn 0.81 &#9633; 0.09 ]O 2 with the capacity retention of &#8776;80.80% for 100 cycles, due to the suppressed P3&#8208;O3(II) phase transition.</description>
+      <author>Sangyeop Lee, Heejun Kweon, Sangyeop Lee, Min&#8208;kyung Cho, Hobin Ahn, Jinho Ahn, Bonyoung Ku, Myungeun Choi, Hun&#8208;Gi Jung, Dong Ok Shin, Jongsoon Kim</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202402412</guid>
+    </item>
+    <item>
+      <title>In Situ Synthesis of High&#8208;Entropy (Oxy)Hydroxides Via Electrochemical Reconfiguration As Catalysts For Efficient Water Oxidation</title>
+      <link>https://doi.org/10.1002/smll.202404379</link>
+      <description>Weilin Shen, Yan Du, Huibin Liu, Chi&#8208;Wing Tsang, Xiao Chen, Changhai Liang, Small. None(None)] 2024. https://openalex.org/W4401290098
+
+                Abstract Surface reconstruction plays a pivotal role in enhancing the activity of the oxygen evolution reaction (OER), particularly in terms of the structural transformation from metal oxides to (oxy)hydroxides. Herein, a novel (oxy)hydroxide (FeCoNiCuMoOOH) with high entropy is developed by the electrochemical reconstitution of corresponding oxide (FeCoNiCuMoO x ). Significantly, the FeCoNiCuMoOOH exhibits much higher OER electrocatalytic activity and durability with an overpotential as low as 201 mV at a current density of 10 mA cm &#8722;2 , and with a Tafel slope of 39.4 mV dec &#8722;1 . The FeCoNiCuMoOOH/NF presents high stability when testing under a constant current at 100 mA cm &#8722;2 within 1000 h. The surface reconstruction is a process of dissolution&#8208;reprecipitation of Cu and Mo species and co&#8208;hydroxylation of five metal species, which ultimately leads to the formation of FeCoNiCuMoOOH from FeCoNiCuMoOx. This study holds great significance in the realm of designing high&#8208;entropy (oxy)hydroxides catalysts with exceptional activity and stability for OER.</description>
+      <author>Weilin Shen, Yan Du, Huibin Liu, Chi&#8208;Wing Tsang, Xiao Chen, Changhai Liang</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404379</guid>
+    </item>
+    <item>
+      <title>Constructing Co&lt;sub&gt;4&lt;/sub&gt;(SO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;4&lt;/sub&gt; Clusters within Metal&#8211;Organic Frameworks for Efficient Oxygen Electrocatalysis</title>
+      <link>https://doi.org/10.1002/adma.202408094</link>
+      <description>Zuozhong Liang, Guojun Zhou, Huang Tan, Yonghong Mou, Jieling Zhang, Hongbo Guo, Shujiao Yang, Haitao Lei, Haoquan Zheng, Wei Zhang, Haiping Lin, Rui Cao, Advanced Materials. None(None)] 2024. https://openalex.org/W4401290707
+
+                Abstract Multinuclear metal clusters are ideal candidates to catalyze small molecule activation reactions involving the transfer of multiple electrons. However, synthesizing active metal clusters is a big challenge. Herein, on constructing an unparalleled Co 4 (SO 4 ) 4 cluster within porphyrin&#8208;based metal&#8211;organic frameworks (MOFs) and the electrocatalytic features of such Co 4 (SO 4 ) 4 clusters for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) is reported. The reaction of Co II sulfate and metal complexes of tetrakis(4&#8208;pyridyl)porphyrin under solvothermal conditions afforded Co 4 &#8208;M&#8208;MOFs (M&#9552;Co, Cu, and Zn). Crystallographic studies revealed that these Co 4 &#8208;M&#8208;MOFs have the same framework structure, having the Co 4 (SO 4 ) 4 clusters connected by metalloporphyrin units through Co&#9472;N pyridyl bonds. In the Co 4 (SO 4 ) 4 cluster, the four Co II ions are chemically and symmetrically equivalent and are each coordinated with four sulfate O atoms to give a distorted cube&#8208;like structure. Electrocatalytic studies showed that these Co 4 &#8208;M&#8208;MOFs are all active for electrocatalytic OER and ORR. Importantly, by regulating the activity of the metalloporphyrin units, it is confirmed that the Co 4 (SO 4 ) 4 cluster is active for oxygen electrocatalysis. With the use of Co porphyrins as connecting units, Co 4 &#8208;Co&#8208;MOF displays the highest electrocatalytic activity in this series of MOFs by showing a 10 mA cm &#8722;2 OER current density at 357 mV overpotential and an ORR half&#8208;wave potential at 0.83 V versus reversible hydrogen electrode (RHE). Theoretical studies revealed the synergistic effect of two proximal Co atoms in the Co 4 (SO 4 ) 4 cluster in OER by facilitating the formation of O&#9472;O bonds. This work is of fundamental significance to present the construction of Co 4 (SO 4 ) 4 clusters in framework structures for oxygen electrocatalysis and to demonstrate the cooperation between two proximal Co atoms in such clusters during the O&#9472;O bond formation process.</description>
+      <author>Zuozhong Liang, Guojun Zhou, Huang Tan, Yonghong Mou, Jieling Zhang, Hongbo Guo, Shujiao Yang, Haitao Lei, Haoquan Zheng, Wei Zhang, Haiping Lin, Rui Cao</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202408094</guid>
+    </item>
+    <item>
+      <title>In-situ grown ternary metal hydroxides@3D oriented crumpled V2C MXene sheets for improved Electrocatalytic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1016/j.heliyon.2024.e35643</link>
+      <description>Anum Iqbal, Hamzeh Sabouni, Nasser M. Hamdan, Heliyon. None(None)] 2024. https://openalex.org/W4401296732
+
+                No abstract</description>
+      <author>Anum Iqbal, Hamzeh Sabouni, Nasser M. Hamdan</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.heliyon.2024.e35643</guid>
+    </item>
+    <item>
+      <title>Is Pt dissolution a concern from the counter electrode in electrochemical oxygen evolution reaction?</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144824</link>
+      <description>Xiang Lyu, Jun Yang, Alexey Serov, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4401305159
+
+                No abstract</description>
+      <author>Xiang Lyu, Jun Yang, Alexey Serov</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144824</guid>
     </item>
     <item>
       <title>Impact of Organic Anions on Metal Hydroxide Oxygen Evolution Catalysts</title>
@@ -988,6 +1058,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta02881c</guid>
     </item>
     <item>
+      <title>A coefficient identification problem for a system of advection-diffusion-reaction equations in water quality modeling</title>
+      <link>https://doi.org/10.1515/jiip-2024-0030</link>
+      <description>&#208;inh Nho H&#224;o, Nguy&#7877;n Trung Th&#224;nh, Nguyen Van Duc, Nguyen Van Thang, Journal of Inverse and Ill-Posed Problems. 0(0)] 2024. https://openalex.org/W4401289540
+
+                Abstract The inverse problem of reconstructing two space-varying coefficients in a system of one-dimensional (1-d) time-dependent advection-diffusion-reaction (ADR) equations is considered. The ADR system can be used as a water quality model which describes the evolution of the biochemical oxygen demand (BOD) and dissolved oxygen (DO) in a river or stream. The coefficients to be reconstructed represents the effect of the deoxygenation and superficial reaeration processes on the DO and BOD concentration in water. H&#246;lder stability estimates for the coefficients of interest are established using the Carleman estimate technique.</description>
+      <author>&#208;inh Nho H&#224;o, Nguy&#7877;n Trung Th&#224;nh, Nguyen Van Duc, Nguyen Van Thang</author>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1515/jiip-2024-0030</guid>
+    </item>
+    <item>
       <title>Time-Dependent Study of Inclusions in Bearing Steel Subjected to Rare Earth Treatment with Secondary Oxidation</title>
       <link>https://doi.org/10.3390/cryst14080697</link>
       <description>Ning Wang, Wen-zhi Xia, Yun Zhou, Aijun Deng, Guang-da Bao, Zhiyou Liao, Haichuan Wang, Crystals. 14(8)] 2024. https://openalex.org/W4401111828
@@ -1119,6 +1199,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/min14080790</guid>
     </item>
     <item>
+      <title>Evolution of river&#8211;aquifer disconnections and the migration and transformation of iron and manganese under non-time-varying/time-varying riverbed permeability</title>
+      <link>https://doi.org/10.1016/j.scitotenv.2024.175156</link>
+      <description>Jing Wang, Zhijiang Yuan, Xiaosi Su, The Science of The Total Environment. None(None)] 2024. https://openalex.org/W4401171184
+
+                Changes in the composition, structure, and thickness of riverbed sediments caused by riverbed clogging strongly affect the hydraulic connection, migration and transformation of nutrients between river water and groundwater in groundwater source areas. However, previous studies have not extensively investigated the mechanisms of river-aquifer disconnection and the migration and transformation processes of iron and manganese under non-time-varying and time-varying conditions of riverbed permeability. This study developed a model using the COMSOL Multiphysics platform to characterize the riverbed clogging-groundwater exploitation-disconnection process, considering microbial growth and related biogeochemical processes, and investigated feedbacks between the reactive migration of iron and manganese and physical clogging-groundwater exploitation processes or bioclogging processes. The research findings showed that under non-time-varying conditions of riverbed permeability, the evolution of river-aquifer disconnection was strongly affected by the thickness and permeability coefficient of riverbed sediments. The dissolved oxygen attenuation rate in the disconnection zone decreased by up to 88.8 %. Additionally, the Mn</description>
+      <author>Jing Wang, Zhijiang Yuan, Xiaosi Su</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.scitotenv.2024.175156</guid>
+    </item>
+    <item>
       <title>ORIGIN AND EVOLUTION OF A PEAT BOG FROM NORTHEASTERN ROMANIA</title>
       <link>https://doi.org/10.30892/auog.34201-918</link>
       <description>Gheorghe B&#259;d&#259;lu&#355;&#259;, Carmen&#8211;Andreea B&#259;d&#259;lu&#355;&#259;, Marcel M&#238;ndrescu, Diana ISTRATE, Ionu&#539; Bogdan NIGA, Analele Universit&#259;&#355;ii din Oradea Seria Geografie. 34(2)] 2024. https://openalex.org/W4401184871
@@ -1140,16 +1230,6 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.17650</guid>
     </item>
     <item>
-      <title>History of Earth evolution</title>
-      <link>https://doi.org/10.54254/2755-2721/85/20240962</link>
-      <description>Yifei Zhang, Applied and Computational Engineering. 85(1)] 2024. https://openalex.org/W4401185646
-
-                The paper delves deeply into crucial subjects spanning the birth of our solar system to humanitys ascendancy on Earth. It aims to enable humankind to gain a deeper understanding of our own origins and the Earths genesis and evolution. Given that Earth is our sole habitat, we must gain insights into the conditions necessary for it to sustain life or identify potential terrestrial planets suitable for human habitation. Throughout its history, Earth has weathered countless encounters with meteorites, comets, and asteroids, dating back to the formation of the solar system. These events, though rare, played a pivotal role in shaping our planets atmosphere, magnetic field, and unique environmental characteristics. Perhaps the most extraordinary aspect of Earths history is the emergence of life itselfa true marvel. Starting with single-celled protists, life evolved into complex multicellular organisms. Yet, a pivotal moment in Earths history came with a momentous global extinction event triggered by the rise of oxygen. This event reshaped the planets natural ecosystem, leading to the extinction of many species and the emergence of new ones. Humanitys own journey, navigating the depths of history, eventually led to our dominance over the Earth.</description>
-      <author>Yifei Zhang</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54254/2755-2721/85/20240962</guid>
-    </item>
-    <item>
       <title>Nanoceramic particle reinforced high alloying Al-Zn-Mg-Cu composites</title>
       <link>https://doi.org/10.1177/14644207241269595</link>
       <description>Hailong Cong, Xianping Zhang, ZeFan Cheng, Hai Chao Li, Pei Wang, Wanting Sun, Proceedings of the Institution of Mechanical Engineers Part L Journal of Materials Design and Applications. None(None)] 2024. https://openalex.org/W4401277442
@@ -1158,6 +1238,16 @@
       <author>Hailong Cong, Xianping Zhang, ZeFan Cheng, Hai Chao Li, Pei Wang, Wanting Sun</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1177/14644207241269595</guid>
+    </item>
+    <item>
+      <title>History of Earth evolution</title>
+      <link>https://doi.org/10.54254/2755-2721/85/20240962</link>
+      <description>Yifei Zhang, Applied and Computational Engineering. 85(1)] 2024. https://openalex.org/W4401185646
+
+                The paper delves deeply into crucial subjects spanning the birth of our solar system to humanitys ascendancy on Earth. It aims to enable humankind to gain a deeper understanding of our own origins and the Earths genesis and evolution. Given that Earth is our sole habitat, we must gain insights into the conditions necessary for it to sustain life or identify potential terrestrial planets suitable for human habitation. Throughout its history, Earth has weathered countless encounters with meteorites, comets, and asteroids, dating back to the formation of the solar system. These events, though rare, played a pivotal role in shaping our planets atmosphere, magnetic field, and unique environmental characteristics. Perhaps the most extraordinary aspect of Earths history is the emergence of life itselfa true marvel. Starting with single-celled protists, life evolved into complex multicellular organisms. Yet, a pivotal moment in Earths history came with a momentous global extinction event triggered by the rise of oxygen. This event reshaped the planets natural ecosystem, leading to the extinction of many species and the emergence of new ones. Humanitys own journey, navigating the depths of history, eventually led to our dominance over the Earth.</description>
+      <author>Yifei Zhang</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54254/2755-2721/85/20240962</guid>
     </item>
     <item>
       <title>Kinetics&#8208;Matched Electrode Design for Zn&#8208;Metal Free Zinc Ion Batteries with High Energy Density and Stabilities</title>
@@ -1190,6 +1280,16 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.19545</guid>
     </item>
     <item>
+      <title>Rotation and Abundances of the Benchmark Brown Dwarf HD 33632 Ab from Keck/KPIC High-resolution Spectroscopy</title>
+      <link>https://doi.org/10.3847/1538-4357/ad58d3</link>
+      <description>Chih-Chun Hsu, Jason Wang, Jerry W. Xuan, Jean-Baptiste Ruffio, Evan Morris, Daniel Echeverri, Yinzi Xin, Joshua Liberman, Luke Finnerty, Katelyn Horstman, Ben Sappey, Gregory Doppmann, Dimitri Mawet, Nemanja Jovanovi&#263;, Michael P. Fitzgerald, Jacques-Robert Delorme, J. Kent Wallace, Ashley Baker, Randall Bartos, Geoffrey A. Blake, Benjamin Calvin, Sylvain Cetre, Ronald L&#243;pez, Jacklyn Pezzato, Tobias Schofield, Andrew Skemer, Ji Wang, The Astrophysical Journal. 971(1)] 2024. https://openalex.org/W4401275175
+
+                Abstract We present the projected rotational velocity and molecular abundances for HD 33632 Ab obtained via Keck Planet Imager and Characterizer (KPIC) high-resolution spectroscopy. HD 33632 Ab is a nearby benchmark brown dwarf companion at a separation of &#8764;20 au that straddles the L&#8211;T transition. Using a forward-modeling framework with on-axis host star spectra, which provides self-consistent substellar atmospheric and retrieval models for HD 33632 Ab, we derive a projected rotational velocity of 53 &#177; 3 km s &#8722;1 and carbon monoxide and water mass fractions of logCO = &#8722;2.3 &#177; 0.3 and logH 2 O = &#8722;2.7 &#177; 0.2, respectively. The inferred carbon-to-oxygen ratio (C/O = 0.58 &#177; 0.14), molecular abundances, and metallicity ([C/H] = 0.0 &#177; 0.2 dex) of HD 33632 Ab are consistent with its host star. Although detectable methane opacities are expected in L&#8211;T transition objects, we did not recover methane in our KPIC spectra, partly due to the high v sin i and to disequilibrium chemistry at the pressures to which we are sensitive. We parameterize the spin as the ratio of rotation to the breakup velocity, and compare HD 33632 Ab to a compilation of &gt;200 very low-mass objects ( M &#8818; 0.1 M &#8857; ) that have spin measurements in the literature. There appears to be no clear trend for the isolated low-mass field objects versus mass, but a tentative trend is identified for low-mass companions and directly imaged exoplanets, similar to previous findings. A larger sample of close-in gas giant exoplanets and brown dwarfs will critically examine our understanding of their formation and evolution through rotation and chemical abundance measurements.</description>
+      <author>Chih-Chun Hsu, Jason Wang, Jerry W. Xuan, Jean-Baptiste Ruffio, Evan Morris, Daniel Echeverri, Yinzi Xin, Joshua Liberman, Luke Finnerty, Katelyn Horstman, Ben Sappey, Gregory Doppmann, Dimitri Mawet, Nemanja Jovanovi&#263;, Michael P. Fitzgerald, Jacques-Robert Delorme, J. Kent Wallace, Ashley Baker, Randall Bartos, Geoffrey A. Blake, Benjamin Calvin, Sylvain Cetre, Ronald L&#243;pez, Jacklyn Pezzato, Tobias Schofield, Andrew Skemer, Ji Wang</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3847/1538-4357/ad58d3</guid>
+    </item>
+    <item>
       <title>Modeling Ion Transport in the Upper Ionosphere of Mars: Exploring the Effect of Crustal Magnetic Fields</title>
       <link>https://doi.org/10.1029/2024ja032500</link>
       <description>A. R. Renzaglia, T. E. Cravens, O. Hamil, Journal of Geophysical Research Space Physics. 129(8)] 2024. https://openalex.org/W4401108703
@@ -1210,14 +1310,14 @@
       <guid isPermaLink="true">https://doi.org/10.5194/acp-24-8473-2024</guid>
     </item>
     <item>
-      <title>Rotation and Abundances of the Benchmark Brown Dwarf HD 33632 Ab from Keck/KPIC High-resolution Spectroscopy</title>
-      <link>https://doi.org/10.3847/1538-4357/ad58d3</link>
-      <description>Chih-Chun Hsu, Jason Wang, Jerry W. Xuan, Jean-Baptiste Ruffio, Evan Morris, Daniel Echeverri, Yinzi Xin, Joshua Liberman, Luke Finnerty, Katelyn Horstman, Ben Sappey, Gregory Doppmann, Dimitri Mawet, Nemanja Jovanovi&#263;, Michael P. Fitzgerald, Jacques-Robert Delorme, J. Kent Wallace, Ashley Baker, Randall Bartos, Geoffrey A. Blake, Benjamin Calvin, Sylvain Cetre, Ronald L&#243;pez, Jacklyn Pezzato, Tobias Schofield, Andrew Skemer, Ji Wang, The Astrophysical Journal. 971(1)] 2024. https://openalex.org/W4401275175
+      <title>Construction of a Full-Length transcriptome resource for the African sharptooth catfish (Clarias gariepinus), a prototypical air-breathing Fish, based on isoform sequencing (Iso-Seq)</title>
+      <link>https://doi.org/10.1016/j.gene.2024.148802</link>
+      <description>Feiran Zhang, Wenjing Wan, Yang Li, Bo Wang, Yiting Shao, Xiangyi Di, Han Zhang, Wenlong Cai, Yiliang Wei, Xiaoli Ma, Gene. None(None)] 2024. https://openalex.org/W4401171730
 
-                Abstract We present the projected rotational velocity and molecular abundances for HD 33632 Ab obtained via Keck Planet Imager and Characterizer (KPIC) high-resolution spectroscopy. HD 33632 Ab is a nearby benchmark brown dwarf companion at a separation of &#8764;20 au that straddles the L&#8211;T transition. Using a forward-modeling framework with on-axis host star spectra, which provides self-consistent substellar atmospheric and retrieval models for HD 33632 Ab, we derive a projected rotational velocity of 53 &#177; 3 km s &#8722;1 and carbon monoxide and water mass fractions of logCO = &#8722;2.3 &#177; 0.3 and logH 2 O = &#8722;2.7 &#177; 0.2, respectively. The inferred carbon-to-oxygen ratio (C/O = 0.58 &#177; 0.14), molecular abundances, and metallicity ([C/H] = 0.0 &#177; 0.2 dex) of HD 33632 Ab are consistent with its host star. Although detectable methane opacities are expected in L&#8211;T transition objects, we did not recover methane in our KPIC spectra, partly due to the high v sin i and to disequilibrium chemistry at the pressures to which we are sensitive. We parameterize the spin as the ratio of rotation to the breakup velocity, and compare HD 33632 Ab to a compilation of &gt;200 very low-mass objects ( M &#8818; 0.1 M &#8857; ) that have spin measurements in the literature. There appears to be no clear trend for the isolated low-mass field objects versus mass, but a tentative trend is identified for low-mass companions and directly imaged exoplanets, similar to previous findings. A larger sample of close-in gas giant exoplanets and brown dwarfs will critically examine our understanding of their formation and evolution through rotation and chemical abundance measurements.</description>
-      <author>Chih-Chun Hsu, Jason Wang, Jerry W. Xuan, Jean-Baptiste Ruffio, Evan Morris, Daniel Echeverri, Yinzi Xin, Joshua Liberman, Luke Finnerty, Katelyn Horstman, Ben Sappey, Gregory Doppmann, Dimitri Mawet, Nemanja Jovanovi&#263;, Michael P. Fitzgerald, Jacques-Robert Delorme, J. Kent Wallace, Ashley Baker, Randall Bartos, Geoffrey A. Blake, Benjamin Calvin, Sylvain Cetre, Ronald L&#243;pez, Jacklyn Pezzato, Tobias Schofield, Andrew Skemer, Ji Wang</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3847/1538-4357/ad58d3</guid>
+                The African sharptooth catfish (Clarias gariepinus) assumes significance in aquaculture, given its role as a farmed freshwater species with modified gill structures functioning as an air-breathing organ (ABO). To provide a scientific basis for further elucidating the air-breathing formation mechanism and deeply utilizing the genetic resources of Clarias gariepinus, we utilized the PacBio sequencing platform to acquire a comprehensive full-length transcriptome from five juvenile developmental stages and various adult tissues, including the ABO, gills, liver, skin, and muscle. We generated 25,766,688 high-quality reads, with an average length of 2,006 bp and an N50 of 2,241 bp. Following rigorous quality control, 34,890 (97.7 %) of the high-quality isoforms were mapped to the reference genome for gene and transcript annotation, yielding 387 novel isoforms and 14,614 new isoforms. Additionally, we identified 28,582 open reading frames, 48 SNPs, 5,464 variable splices, and 6,141 variable polyadenylation sites, along with 475 long non-coding RNAs. Many DEGs were involved with low oxygen GO terms and KEGG pathways, such as response to stimulus, biological regulation and catalytic activities. Furthermore, it was found that transcription factors such as zf-C2H2, Homeobox, bHLH, and MYB could underpin the African sharptooth catfish's developmental plasticity and its capacity to adapt its morphology and function to its environment. Through the comprehensive analysis of its genomic characteristics, it was found that the African sharptooth catfish has developed a series of unique respiratory adaptive mechanisms during the evolutionary process, These results not only advances the understanding of genetic adaptations to hypoxia in Clarias fish but also provides a valuable framework for future studies aimed at improving aquaculture practices,besides provide important references and inspirations for the evolution of aquatic organisms.</description>
+      <author>Feiran Zhang, Wenjing Wan, Yang Li, Bo Wang, Yiting Shao, Xiangyi Di, Han Zhang, Wenlong Cai, Yiliang Wei, Xiaoli Ma</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.gene.2024.148802</guid>
     </item>
     <item>
       <title>Photocatalytic Hydrogen Production Enhancement of NiTiO3 Perovskite through Cobalt Incorporation</title>

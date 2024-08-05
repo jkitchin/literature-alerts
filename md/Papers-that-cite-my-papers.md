@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Aug  4 01:17:06 2024
+Created on Mon Aug  5 01:13:34 2024
 
-Found 47 results from 2024-07-28 to 2024-08-04
+Found 56 results from 2024-07-29 to 2024-08-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -508,7 +508,7 @@ Open access: True
     
 [Tao Zhang](https://openalex.org/A5100375794), [Qitong Ye](https://openalex.org/A5006151140), [Zhidong Han](https://openalex.org/A5100450850), [Qingyi Liu](https://openalex.org/A5101951276), [Yipu Liu](https://openalex.org/A5009315315), [Dongshuang Wu](https://openalex.org/A5048887110), [Hong Jin Fan](https://openalex.org/A5015059832), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-50942-5.
     
-No abstract    
+The sluggish kinetics of Volmer step in the alkaline hydrogen evolution results in large energy consumption. The challenge that has yet well resolved is to control the water adsorption and dissociation. Here, we develop biaxially strained MoSe2 three dimensional nanoshells that exhibit enhanced catalytic performance with a low overpotential of 58.2 mV at 10 mA cm−2 in base, and long-term stable activity in membrane-electrode-assembly based electrolyser at 1 A cm−2. Compared to the flat and uniaxial-strained MoSe2, we establish that the stably adsorbed OH engineer on biaxially strained MoSe2 changes the water adsorption configuration from O-down on Mo to O-horizontal on OH* via stronger hydrogen bonds. The favorable water dissociation on 3-coordinated Mo sites and hydrogen adsorption on 4-coordinated Mo sites constitute a tandem electrolysis, resulting in thermodynamically favorable hydrogen evolution. This work deepens our understanding to the impact of strain dimensions on water dissociation and inspires the design of nanostructured catalysts for accelerating the rate-determining step in multi-electron reactions. Hydroxide is the most abundant anion in alkaline solutions, but its impact on alkaline water electrolysis remains unclear. Herein, the authors report a biaxial strain induced OH engineer on MoSe2 to accelerate alkaline hydrogen evolution by modifying the water dissociation.    
 
     
 
@@ -520,6 +520,105 @@ Open access: True
 [Yue‐Fei Zhang](https://openalex.org/A5053902650), [Yang Yu](https://openalex.org/A5100682561), [Yu Zhang](https://openalex.org/A5101232791), [Xuefei Liu](https://openalex.org/A5101730836), [Wenjun Xiao](https://openalex.org/A5101412949), [Degui Wang](https://openalex.org/A5082240190), [Gang Wang](https://openalex.org/A5100367480), [Zhen Wang](https://openalex.org/A5069709352), [Jinshun Bi](https://openalex.org/A5061172070), [Jincheng Liu](https://openalex.org/A5100608982), [Xun Zhou](https://openalex.org/A5062428998), [Wentao Wang](https://openalex.org/A5100394150), Energy & environment materials. None(None)] 2024.https://doi.org/10.1002/eem2.12803.
     
 A heteronuclear dual transition metal atom catalyst is a promising strategy to solve and relieve the increasing energy and environment crisis. However, the role of each atom still does not efficiently differentiate due to the high activity but low detectability of each transition metal in the synergistic catalytic process when considering the influence of heteronuclear induced atomic difference for each transition metal atom, thus seriously hindering intrinsic mechanism finding. Herein, we proposed coordinate environment vary induced heterogenization of homonuclear dual‐transition metal, which inherits the advantage of heteronuclear transition metal atom catalyst but also controls the variable of the two atoms to explore the underlying mechanism. Based on this proposal, employing density functional theory study and machine learning, 23 kinds of homonuclear transition metals are doping in four asymmetric C 3 N for heterogenization to evaluate the underlying catalytic mechanism. Our results demonstrate that five catalysts exhibit excellent catalytic performance with a low limiting potential of −0.28 to −0.48 V. In the meantime, a new mechanism, “capture–charge distribution–recapture–charge redistribution”, is developed for both side‐on and end‐on configuration. More importantly, the pronate site of the first hydrogenation is identified based on this mechanism. Our work not only initially makes a deep understanding of the transition dual metal‐based heteronuclear catalyst indirectly but also broadens the development of complicated homonuclear dual‐atom catalysts in the future.    
+
+    
+
+## Synthesis of polyhedral Pt-Pd-Ni nanobelts regulated by W(CO)6 and applied as a highly performing oxygen reduction reaction electrocatalyst   
+
+OpenAlex: https://openalex.org/W4401282320    
+Open access: False
+    
+[Yuanyan Luo](https://openalex.org/A5083937607), [Tao Zhou](https://openalex.org/A5102786185), [Costas Molochas](https://openalex.org/A5043262066), [Yifang Ouyang](https://openalex.org/A5055443953), [Xiaoting Huang](https://openalex.org/A5101536162), [Zhen‐Yu Chen](https://openalex.org/A5100422927), [Jinliang Zhu](https://openalex.org/A5079106807), [Panagiotis Tsiakaras](https://openalex.org/A5047349369), [Pei Kang Shen](https://openalex.org/A5101931515), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.154476.
+    
+No abstract    
+
+    
+
+## Boosting the Electrochemical Oxygen Evolution with Nickel Oxide Nanoparticle-Modified Glassy Carbon Electrodes in Alkaline Solutions   
+
+OpenAlex: https://openalex.org/W4401282919    
+Open access: True
+    
+[Abdulrahman I. Alharthi](https://openalex.org/A5020576786), [Omar A. Hazazi](https://openalex.org/A5003314577), [Badreah A. Al Jahdaly](https://openalex.org/A5106254630), [Mohammed A. Kassem](https://openalex.org/A5102887707), [Mohamed I. Awad](https://openalex.org/A5101756269), ACS Omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c04700.
+    
+No abstract    
+
+    
+
+## Recent advancements in aqueous electrowinning for metal recovery: A comprehensive review   
+
+OpenAlex: https://openalex.org/W4401283898    
+Open access: False
+    
+[Zuowei Liu](https://openalex.org/A5059805671), [Xueyi Guo](https://openalex.org/A5033530426), [Zhipeng Xu](https://openalex.org/A5101597958), [Qinghua Tian](https://openalex.org/A5029978080), Minerals Engineering. 216(None)] 2024.https://doi.org/10.1016/j.mineng.2024.108897.
+    
+No abstract    
+
+    
+
+## Machine-learned interatomic potentials for transition metal dichalcogenide Mo1−xWxS2−2ySe2y alloys   
+
+OpenAlex: https://openalex.org/W4401284655    
+Open access: True
+    
+[Anas Siddiqui](https://openalex.org/A5102698983), [Nicholas D. M. Hine](https://openalex.org/A5037489585), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01357-9.
+    
+Abstract Machine Learned Interatomic Potentials (MLIPs) combine the predictive power of Density Functional Theory (DFT) with the speed and scaling of interatomic potentials, enabling theoretical spectroscopy to be applied to larger and more complex systems than is possible with DFT. In this work, we train an MLIP for quaternary Transition Metal Dichalcogenide (TMD) alloy systems of the form Mo 1− x W x S 2−2 y Se 2 y , using the equivariant Neural Network (NN) MACE. We demonstrate the ability of this potential to calculate vibrational properties of alloy TMDs including phonon spectra for pure monolayers, and Vibrational Density of States (VDOS) and first-order Raman spectra for alloys across the range of x and y . We show that we retain DFT level accuracy while greatly extending feasible system size and extent of sampling over alloy configurations. We are able to characterize the first-order Raman active modes across the whole range of concentration, particularly for the “disorder-induced” modes.    
+
+    
+
+## First-Principles Structure Search Study of 17-β-Estradiol Adsorption on Graphene   
+
+OpenAlex: https://openalex.org/W4401286422    
+Open access: True
+    
+[Suvi Sippola](https://openalex.org/A5058423107), [Milica Todorović](https://openalex.org/A5082628713), [Emilia Peltola](https://openalex.org/A5054447103), ACS Omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c03485.
+    
+No abstract    
+
+    
+
+## A Theoretical Inquest of Atomically Injected Ni-Atom over Graphene and Analogous Substrates for Hydrogen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4401290965    
+Open access: False
+    
+[Hemang P. Tanna](https://openalex.org/A5026791277), [Prafulla K. Jha](https://openalex.org/A5009902080), Electrocatalysis. None(None)] 2024.https://doi.org/10.1007/s12678-024-00884-9.
+    
+No abstract    
+
+    
+
+## Axial Ligand Engineering Enhanced CoN4-Based catalysts as efficient Electrocatalysts for ORR/OER with low overpotentials: A DFT study   
+
+OpenAlex: https://openalex.org/W4401304827    
+Open access: False
+    
+[Zhihua Ju](https://openalex.org/A5063783095), [X.Y. Zhang](https://openalex.org/A5035271390), [Yong Wang](https://openalex.org/A5047504462), [Qingxin Kang](https://openalex.org/A5019864544), [Yan Liang](https://openalex.org/A5102752014), [Fapeng Yu](https://openalex.org/A5028580272), Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2024.https://doi.org/10.1016/j.colsurfa.2024.135001.
+    
+No abstract    
+
+    
+
+## Ba promoter effect on cobalt-catalyzed ammonia decomposition kinetics: A theoretical analysis   
+
+OpenAlex: https://openalex.org/W4401306038    
+Open access: False
+    
+[Zahra Almisbaa](https://openalex.org/A5091956320), [Philippe Sautet](https://openalex.org/A5025258970), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.07.050.
+    
+No abstract    
+
+    
+
+## HfS2/BN Heterostructures: A Repeatable Detectable Water Sensing Material   
+
+OpenAlex: https://openalex.org/W4401295962    
+Open access: False
+    
+[Jiashuo Zhang](https://openalex.org/A5101748138), [Zihan Chen](https://openalex.org/A5100679787), [Tongtong Li](https://openalex.org/A5100606449), [Junkuo Gao](https://openalex.org/A5086455686), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.104906.
+    
+No abstract    
 
     
 

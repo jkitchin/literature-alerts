@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Aug  4 01:16:51 2024
+Created on Mon Aug  5 01:13:23 2024
 
-Found 137 results from 2024-07-28 to 2024-08-04
+Found 142 results from 2024-07-29 to 2024-08-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -392,6 +392,17 @@ No abstract
 
     
 
+## Recent advancements in carbon/metal-based nano-catalysts for the reduction of CO2 to value-added products   
+
+OpenAlex: https://openalex.org/W4401283836    
+Open access: False
+    
+[Arunkumar Senthilkumar](https://openalex.org/A5104289744), [Mohanraj Kumar](https://openalex.org/A5101964849), [Melvin S. Samuel](https://openalex.org/A5087265786), [Selvarajan Ethiraj](https://openalex.org/A5006294783), [Mohd Anis](https://openalex.org/A5102954224), [Jih-Hsing Chang](https://openalex.org/A5019900098), Chemosphere. None(None)] 2024.https://doi.org/10.1016/j.chemosphere.2024.143017.
+    
+No abstract    
+
+    
+
 ## Photothermal Synergistic Effect Induces Bimetallic Cooperation to Modulate Product Selectivity of CO2 Reduction on Different CeO2 Crystal Facets   
 
 OpenAlex: https://openalex.org/W4401225196    
@@ -520,6 +531,17 @@ OpenAlex: https://openalex.org/W4401171436
 Open access: False
     
 [Yuanfen Feng](https://openalex.org/A5006034057), [Yong Men](https://openalex.org/A5101965356), [Peng Liu](https://openalex.org/A5100390553), [Yajing Hu](https://openalex.org/A5100859849), [Jinguo Wang](https://openalex.org/A5100633389), Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2024.https://doi.org/10.1016/j.colsurfa.2024.134977.
+    
+No abstract    
+
+    
+
+## Enhancing *CO coverage on Sm-Cu2O via 4f-3d orbital hybridization for highly efficient electrochemical CO2 reduction to C2H4   
+
+OpenAlex: https://openalex.org/W4401305855    
+Open access: False
+    
+[Xiaojun Wang](https://openalex.org/A5021189837), [Lan‐Lan Shi](https://openalex.org/A5078153320), [Wenkai Ren](https://openalex.org/A5025749021), [Jingxian Li](https://openalex.org/A5044029807), [Yuanming Liu](https://openalex.org/A5062043883), [Weijie Fu](https://openalex.org/A5103110744), [Shiyu Wang](https://openalex.org/A5100437632), [Shuyun Yao](https://openalex.org/A5041204496), [Yingjie Ji](https://openalex.org/A5073491232), [Jian Kang](https://openalex.org/A5025670042), [Shouxin Zhang](https://openalex.org/A5101742243), [Zhiyu Yang](https://openalex.org/A5021414632), [Jiangzhou Xie](https://openalex.org/A5074075605), [Yi‐Ming Yan](https://openalex.org/A5055699044), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.07.053.
     
 No abstract    
 
@@ -657,6 +679,17 @@ The numerous demanding application of concrete is not readily met with Ordinary 
 
     
 
+## Cost-Benefit Analysis of a Policy that will Limit Carbon Dioxide Emissions of DieselPowered Generator.   
+
+OpenAlex: https://openalex.org/W4401297225    
+Open access: False
+    
+[Toyin Amunigun](https://openalex.org/A5106273294), International Journal of Applied Science and Research. 06(04)] 2023.https://doi.org/10.56293/ijasr.2022.5543.
+    
+This paper presents a detailed economic analysis of a proposed regulation to limit carbon dioxide emissions from diesel generators in the United States. The analysis is conducted through a cost-benefit framework, with the objective of determining whether the societal benefits of reduced carbon dioxide emissions would outweigh the economic costs of the regulation. The study draws from previous research on the application of costbenefit analysis in the context of environmental policy, particularly climate change. It then estimates the potential benefits from avoided carbon dioxide emissions, and contrasts these with the costs that could arise from implementing carbon capture technologies, a reduction in the diesel generator sector's value, and a drop in diesel fuel demand. The results suggest that the economic costs of the proposed regulation outweigh the benefits, both in the short term and the long run. However, the paper concludes with a call for continued efforts in finding economically and environmentally balanced solutions to reduce carbon dioxide emissions, particularly in sectors with significant contributions like the electric power sector.    
+
+    
+
 ## Indoor Environmental Quality and Effectiveness of Portable Air Cleaners in Reducing Levels of Airborne Particles during Schools’ Reopening in the COVID-19 Pandemic   
 
 OpenAlex: https://openalex.org/W4401173649    
@@ -701,17 +734,6 @@ Effective management of asphaltene-paraffin-resin deposits in the installations 
 
     
 
-## SPAIN’S EUROPEAN POLICY DURING ITS PRESIDENCY OF THE COUNCIL OF THE EU   
-
-OpenAlex: https://openalex.org/W4401074416    
-Open access: False
-    
-[A.S. SHAHBAZOV](https://openalex.org/A5106154233), Sociopolitical sciences. 13(5)] 2023.https://doi.org/10.33693/2223-0092-2023-13-5-72-76.
-    
-The article examines the main aspects of the Spain’s European policy as the President of the EU Council. The further course of the Kingdom’s European policy depends on the effectiveness of the Spanish government’s work in the Council in the second half of 2023. In addition to the main topic of the European agenda - geopolitical challenges - such important issues as energy independence and reduction of carbon dioxide emissions, migration, as well as taxation rules were touched upon. In addition, the integration process is discussed in the context of the new expansion policy. The Spanish government will have to balance a neutral position in the Council and the national interests of the country.    
-
-    
-
 ## Advancing Fast Frequency Response Ancillary Services in Renewable-Heavy Grids: A Global Review of Energy Storage-Based Solutions and Market Dynamics   
 
 OpenAlex: https://openalex.org/W4401074415    
@@ -720,6 +742,17 @@ Open access: True
 [Gergo Varhegyi](https://openalex.org/A5092978785), [Mutasim Nour](https://openalex.org/A5023520313), Energies. 17(15)] 2024.https://doi.org/10.3390/en17153737.
     
 This paper addresses the growing challenges and developments in frequency control within power systems influenced by the increasing penetration of renewable energy sources. It evaluates the advancements and limitations of renewable-based control technologies and explores the critical role of diverse energy storage technologies in providing fast frequency response ancillary services. Through a comprehensive analysis of the global literature, this paper categorises energy storage solutions according to their efficacy in meeting fast frequency response demands and potential for revenue generation. It reveals significant gaps in the current research, which predominantly focuses on battery energy storage systems and microgrid applications, with insufficient attention to grid-scale storage solutions and innovative energy storage technologies. This analysis identifies a lack of detailed technical simulations and hybrid storage models for frequency control, as well as a minimal exploration of the environmental benefits, particularly in terms of carbon dioxide emission reductions, associated with deploying new energy storage technologies in ancillary service markets. The paper concludes by emphasising the urgent need for further research incorporating detailed techno-economic evaluations and the carbon dioxide reduction potential of modular, scalable energy storage technologies, which should be facilitated by advanced network simulation models and comprehensive market analysis to drive future advancements in the field.    
+
+    
+
+## SPAIN’S EUROPEAN POLICY DURING ITS PRESIDENCY OF THE COUNCIL OF THE EU   
+
+OpenAlex: https://openalex.org/W4401074416    
+Open access: False
+    
+[A.S. SHAHBAZOV](https://openalex.org/A5106154233), Sociopolitical sciences. 13(5)] 2023.https://doi.org/10.33693/2223-0092-2023-13-5-72-76.
+    
+The article examines the main aspects of the Spain’s European policy as the President of the EU Council. The further course of the Kingdom’s European policy depends on the effectiveness of the Spanish government’s work in the Council in the second half of 2023. In addition to the main topic of the European agenda - geopolitical challenges - such important issues as energy independence and reduction of carbon dioxide emissions, migration, as well as taxation rules were touched upon. In addition, the integration process is discussed in the context of the new expansion policy. The Spanish government will have to balance a neutral position in the Council and the national interests of the country.    
 
     
 
@@ -778,17 +811,6 @@ For often unclear reasons, the survival times of critically buried avalanche vic
 
     
 
-## Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus   
-
-OpenAlex: https://openalex.org/W4401045414    
-Open access: True
-    
-[Jeffrey Dankwa Ampah](https://openalex.org/A5044399467), [Chao Jin](https://openalex.org/A5101961986), [Haifeng Liu](https://openalex.org/A5100325566), [Mingfa Yao](https://openalex.org/A5065939686), [Sandylove Afrane](https://openalex.org/A5021147590), [Humphrey Adun](https://openalex.org/A5027923888), [Jay Fuhrman](https://openalex.org/A5034052350), [David T. Ho](https://openalex.org/A5080281932), [Haewon McJeon](https://openalex.org/A5062879289), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-50594-5.
-    
-Abstract Existing studies indicate that future global carbon dioxide (CO 2 ) removal (CDR) efforts could largely be concentrated in Asia. However, there is limited understanding of how individual Asian countries and regions will respond to varying and uncertain scales of future CDR concerning their energy-land-water system. We address this gap by modeling various levels of CDR-reliant pathways under climate change ambitions in Asia. We find that high CDR reliance leads to residual fossil fuel and industry emissions of about 8 Gigatonnes CO 2 yr −1 (GtCO 2 yr −1 ) by 2050, compared to less than 1 GtCO 2 yr −1 under moderate-to-low CDR reliance. Moreover, expectations of multi-gigatonne CDR could delay the achievement of domestic net zero CO 2 emissions for several Asian countries and regions, and lead to higher land allocation and fertilizer demand for bioenergy crop cultivation. Here, we show that Asian countries and regions should prioritize emission reduction strategies while capitalizing on the advantages of carbon removal when it is most viable.    
-
-    
-
 ## Potentieller Beitrag der Landwirtschaft zur Verminderung der Treibhausgasemissionen in Deutschland   
 
 OpenAlex: https://openalex.org/W4401219924    
@@ -797,6 +819,17 @@ Open access: False
 [Jens Karl Wegener](https://openalex.org/A5082411008), [Wolfgang Lücke](https://openalex.org/A5037709330), [Jörg Heinzemann](https://openalex.org/A5106216616), German Journal of Agricultural Economics. 55(4)] 2006.https://doi.org/10.52825/gjae.v55i4.1659.
     
 In 2002, the German agricultural sector contributed 8.7 % of the total national green house gas emissions. The main sources were animal digestion, manure management and agricultural soils. From the technical point of view, the manure management has the biggest potential of green house gas reduction by using biogas technology. Thereby methane emission from manure, which otherwise had been emitted into the atmosphere, can be recaptured and used to substitute fossil fuels. Regarding the whole output of manure from cattle and swine in Germany, the emission reduction is 56 Mio. t CO2-equivalent. This amount is equivalent to 4.5% of the emissions in 1990/95 for the Kyoto protocol. Regarding the biomass potential which is technically feasible at the moment, the reduction potential growth to 276 Mio. t CO2-equivalent or 22% of emissions. This is 27.5 times more than the reduction commitment of the German industry for EU-emissions trading in the period from 2005-2012.    
+
+    
+
+## Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus   
+
+OpenAlex: https://openalex.org/W4401045414    
+Open access: True
+    
+[Jeffrey Dankwa Ampah](https://openalex.org/A5044399467), [Chao Jin](https://openalex.org/A5101961986), [Haifeng Liu](https://openalex.org/A5100325566), [Mingfa Yao](https://openalex.org/A5065939686), [Sandylove Afrane](https://openalex.org/A5021147590), [Humphrey Adun](https://openalex.org/A5027923888), [Jay Fuhrman](https://openalex.org/A5034052350), [David T. Ho](https://openalex.org/A5080281932), [Haewon McJeon](https://openalex.org/A5062879289), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-50594-5.
+    
+Abstract Existing studies indicate that future global carbon dioxide (CO 2 ) removal (CDR) efforts could largely be concentrated in Asia. However, there is limited understanding of how individual Asian countries and regions will respond to varying and uncertain scales of future CDR concerning their energy-land-water system. We address this gap by modeling various levels of CDR-reliant pathways under climate change ambitions in Asia. We find that high CDR reliance leads to residual fossil fuel and industry emissions of about 8 Gigatonnes CO 2 yr −1 (GtCO 2 yr −1 ) by 2050, compared to less than 1 GtCO 2 yr −1 under moderate-to-low CDR reliance. Moreover, expectations of multi-gigatonne CDR could delay the achievement of domestic net zero CO 2 emissions for several Asian countries and regions, and lead to higher land allocation and fertilizer demand for bioenergy crop cultivation. Here, we show that Asian countries and regions should prioritize emission reduction strategies while capitalizing on the advantages of carbon removal when it is most viable.    
 
     
 
@@ -932,17 +965,6 @@ Abstract: The Carbon concentration in earth is closed system, therefore, the con
 
     
 
-## Approaching Splendid Catalysts for Li–CO2 Battery from the Theory to Practical Designing: A Review   
-
-OpenAlex: https://openalex.org/W4401191265    
-Open access: False
-    
-[Qing Pan](https://openalex.org/A5102423928), [Xiaotu Ma](https://openalex.org/A5019581835), [Haoji Wang](https://openalex.org/A5048320823), [Yuming Shu](https://openalex.org/A5077326492), [Huaxin Liu](https://openalex.org/A5022860564), [Jing Wang](https://openalex.org/A5100378741), [Wenyuan Li](https://openalex.org/A5034077017), [Jintao Liu](https://openalex.org/A5100678162), [Yancheng Wu](https://openalex.org/A5043315832), [Ya Mao](https://openalex.org/A5042911912), [Jingying Xie](https://openalex.org/A5100337730), [Guoqiang Zou](https://openalex.org/A5046362533), [Hongshuai Hou](https://openalex.org/A5045521391), [Wentao Deng](https://openalex.org/A5103242043), [Xiaobo Ji](https://openalex.org/A5027037221), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202406905.
-    
-Abstract Lithium carbon dioxide (Li–CO 2 ) batteries, noted for their high discharge voltage of approximately 2.8 V and substantial theoretical specific energy of 1876 Wh kg −1 , represent a promising avenue for new energy sources and CO 2 emission reduction. However, the practical application of these batteries faces significant hurdles, particularly at high current densities and over extended cycle lives, due to their complex reaction mechanisms and slow kinetics. This paper delves into the recent advancements in cathode catalysts for Li–CO 2 batteries, with a specific focus on the designing philosophy from composition, geometry, and homogeneity of the catalysts to the proper test conditions and real‐world application. It surveys the possible catalytic mechanisms, giving readers a brief introduction of how the energy is stored and released as well as the critical exploration of the relationship between material properties and performances. Specifically, optimization and standardization of test conditions for Li–CO 2 battery research is highlighted to enhance data comparability, which is also critical to facilitate the practical application of Li–CO 2 batteries. This review aims to bring up inspiration from previous work to advance the design of more effective and sustainable cathode catalysts, tailored to meet the practical demands of Li–CO 2 batteries.    
-
-    
-
 ## Optimization of High-Temperature CO2 Capture by Lithium Orthosilicate-Based Sorbents Using Response Surface Methodology   
 
 OpenAlex: https://openalex.org/W4401173161    
@@ -951,6 +973,17 @@ Open access: True
 [Eleonora Stefanelli](https://openalex.org/A5081618929), [Flavio Francalanci](https://openalex.org/A5098736133), [Sandra Vitolo](https://openalex.org/A5023285125), [Monica Puccini](https://openalex.org/A5030494234), Atmosphere. 15(8)] 2024.https://doi.org/10.3390/atmos15080908.
     
 The major challenge in the current context of the rising world energy demand is to limit the global temperature increase for mitigating climate change. This goal requires a large reduction of CO2 emissions, mainly produced by power generation and industrial processes using fossil fuels. In this study, a novel methodology for K2CO3-doped Li4SiO4 sorbents production for CO2 capture at high temperatures was adopted based on the Design of Experiments (DoE). This innovative approach systematically tested different synthesis (temperature and K2CO3 content) and adsorption conditions (sorption temperature and CO2 concentration), allowing for the assessment of individual and interactive effects of process parameters. The Response Surface Methodology (RSM) was employed to obtain non-linear predictive models of CO2 uptake and Li4SiO4 conversion. The results of RSM analysis evidenced a maximum adsorption capacity of 196.4 mg/g for a sorbent produced at 600 °C and with 36.9 wt% of K2CO3, tested at 500 °C and 4 vol% of CO2. Whereas at 50 vol% of CO2, the best uptake of 295.6 mg/g was obtained with a sorbent synthesized at 600 °C, containing less K2CO3 (17.1 wt%) and tested at a higher temperature (662 °C). These findings demonstrate that K2CO3-doped Li4SiO4 sorbents can be tailored to maximize CO2 capture under various operating conditions, making them suitable for use in industrial processes.    
+
+    
+
+## Approaching Splendid Catalysts for Li–CO2 Battery from the Theory to Practical Designing: A Review   
+
+OpenAlex: https://openalex.org/W4401191265    
+Open access: False
+    
+[Qing Pan](https://openalex.org/A5102423928), [Xiaotu Ma](https://openalex.org/A5019581835), [Haoji Wang](https://openalex.org/A5048320823), [Yuming Shu](https://openalex.org/A5077326492), [Huaxin Liu](https://openalex.org/A5022860564), [Jing Wang](https://openalex.org/A5100378741), [Wenyuan Li](https://openalex.org/A5034077017), [Jintao Liu](https://openalex.org/A5100678162), [Yancheng Wu](https://openalex.org/A5043315832), [Ya Mao](https://openalex.org/A5042911912), [Jingying Xie](https://openalex.org/A5100337730), [Guoqiang Zou](https://openalex.org/A5046362533), [Hongshuai Hou](https://openalex.org/A5045521391), [Wentao Deng](https://openalex.org/A5103242043), [Xiaobo Ji](https://openalex.org/A5027037221), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202406905.
+    
+Abstract Lithium carbon dioxide (Li–CO 2 ) batteries, noted for their high discharge voltage of approximately 2.8 V and substantial theoretical specific energy of 1876 Wh kg −1 , represent a promising avenue for new energy sources and CO 2 emission reduction. However, the practical application of these batteries faces significant hurdles, particularly at high current densities and over extended cycle lives, due to their complex reaction mechanisms and slow kinetics. This paper delves into the recent advancements in cathode catalysts for Li–CO 2 batteries, with a specific focus on the designing philosophy from composition, geometry, and homogeneity of the catalysts to the proper test conditions and real‐world application. It surveys the possible catalytic mechanisms, giving readers a brief introduction of how the energy is stored and released as well as the critical exploration of the relationship between material properties and performances. Specifically, optimization and standardization of test conditions for Li–CO 2 battery research is highlighted to enhance data comparability, which is also critical to facilitate the practical application of Li–CO 2 batteries. This review aims to bring up inspiration from previous work to advance the design of more effective and sustainable cathode catalysts, tailored to meet the practical demands of Li–CO 2 batteries.    
 
     
 
@@ -999,14 +1032,14 @@ Abstract This study focuses on the development and improvement of a new combined
 
     
 
-## Bridging the Energy Efficiency Gap for Low-Income Households in Charlottesville   
+## The Environmental Consequences of Engine Emissions in Air and Road Transport   
 
-OpenAlex: https://openalex.org/W4401122767    
+OpenAlex: https://openalex.org/W4401173147    
 Open access: True
     
-[Zhigang Xue](https://openalex.org/A5030428047), E3S Web of Conferences. 554(None)] 2024.https://doi.org/10.1051/e3sconf/202455401005.
+[Kristína Kováčiková](https://openalex.org/A5000722770), [Andrej Novák](https://openalex.org/A5047063756), [Alena Novák Sedláčková](https://openalex.org/A5091547994), [Martina Kováčiková](https://openalex.org/A5038497288), Atmosphere. 15(8)] 2024.https://doi.org/10.3390/atmos15080903.
     
-Residential energy usage in Charlottesville, Virginia, accounts for nearly 30% of the city’s greenhouse gas emissions. Without significant changes, Charlottesville is unlikely to meet its goal of reducing emissions by 45% by 2030. Improving residential energy efficiency is key to lowering emissions and reducing energy costs for residents. However, the high upfront cost of these upgrades is unaffordable for over a third of Charlottesville households. As electricity prices rise due to Virginia’s upcoming carbon dioxide cap-and-trade program, low-income households that can’t afford efficiency upgrades will face higher energy bills and greater financial strain. This study explores the feasibility of a residential efficiency financing program designed to improve the affordability and accessibility of energy upgrades for low-income households in Charlottesville. Through a detailed benefit-cost analysis, various policy alternatives, including On-Bill Financing, Revolving Loan Fund, and Loan Loss Reserve, were evaluated for their effectiveness, equity, and implementation feasibility. The recommended option, On-Bill Financing, would allow Charlottesville Gas to cover the upfront costs of energy efficiency upgrades. Customers would repay the investment over time through their gas bills, thereby enjoying immediate reductions in energy consumption and costs. This policy would fairly enhance residential energy efficiency and provide critical financial assistance to households that otherwise couldn’t afford these upgrades.    
+This study evaluated the environmental consequences of engine emissions from road and air transport on three commonly traveled routes between Berlin and the cities of Frankfurt, Paris, and Barcelona. The focus was on CO2 emissions due to their significant impact on climate change. By collecting and analyzing comprehensive data on vehicle and aircraft emissions, this study aimed to compare the CO2 output of each transport mode under different passenger load scenarios. The findings indicate that air transport is generally more efficient in terms of CO2 emissions per passenger for longer distances. For instance, the CO2 emissions per passenger ranged from 22.6 kg to 79.8 kg for air transport and from 64.7 kg to 220.8 kg for road transport, demonstrating reductions of approximately 65% to 72%. This study underscores the importance of considering both distance and passenger load when evaluating the environmental impact of different transport modes and highlights the need for a multifaceted approach to reducing transport emissions, including technological innovations, policy interventions, and behavioral changes.    
 
     
 
@@ -1021,14 +1054,14 @@ Abstract Biting midges of the genus Culicoides (Diptera: Ceratopogonidae) are of
 
     
 
-## The Environmental Consequences of Engine Emissions in Air and Road Transport   
+## Bridging the Energy Efficiency Gap for Low-Income Households in Charlottesville   
 
-OpenAlex: https://openalex.org/W4401173147    
+OpenAlex: https://openalex.org/W4401122767    
 Open access: True
     
-[Kristína Kováčiková](https://openalex.org/A5000722770), [Andrej Novák](https://openalex.org/A5047063756), [Alena Novák Sedláčková](https://openalex.org/A5091547994), [Martina Kováčiková](https://openalex.org/A5038497288), Atmosphere. 15(8)] 2024.https://doi.org/10.3390/atmos15080903.
+[Zhigang Xue](https://openalex.org/A5030428047), E3S Web of Conferences. 554(None)] 2024.https://doi.org/10.1051/e3sconf/202455401005.
     
-This study evaluated the environmental consequences of engine emissions from road and air transport on three commonly traveled routes between Berlin and the cities of Frankfurt, Paris, and Barcelona. The focus was on CO2 emissions due to their significant impact on climate change. By collecting and analyzing comprehensive data on vehicle and aircraft emissions, this study aimed to compare the CO2 output of each transport mode under different passenger load scenarios. The findings indicate that air transport is generally more efficient in terms of CO2 emissions per passenger for longer distances. For instance, the CO2 emissions per passenger ranged from 22.6 kg to 79.8 kg for air transport and from 64.7 kg to 220.8 kg for road transport, demonstrating reductions of approximately 65% to 72%. This study underscores the importance of considering both distance and passenger load when evaluating the environmental impact of different transport modes and highlights the need for a multifaceted approach to reducing transport emissions, including technological innovations, policy interventions, and behavioral changes.    
+Residential energy usage in Charlottesville, Virginia, accounts for nearly 30% of the city’s greenhouse gas emissions. Without significant changes, Charlottesville is unlikely to meet its goal of reducing emissions by 45% by 2030. Improving residential energy efficiency is key to lowering emissions and reducing energy costs for residents. However, the high upfront cost of these upgrades is unaffordable for over a third of Charlottesville households. As electricity prices rise due to Virginia’s upcoming carbon dioxide cap-and-trade program, low-income households that can’t afford efficiency upgrades will face higher energy bills and greater financial strain. This study explores the feasibility of a residential efficiency financing program designed to improve the affordability and accessibility of energy upgrades for low-income households in Charlottesville. Through a detailed benefit-cost analysis, various policy alternatives, including On-Bill Financing, Revolving Loan Fund, and Loan Loss Reserve, were evaluated for their effectiveness, equity, and implementation feasibility. The recommended option, On-Bill Financing, would allow Charlottesville Gas to cover the upfront costs of energy efficiency upgrades. Customers would repay the investment over time through their gas bills, thereby enjoying immediate reductions in energy consumption and costs. This policy would fairly enhance residential energy efficiency and provide critical financial assistance to households that otherwise couldn’t afford these upgrades.    
 
     
 
@@ -1131,6 +1164,17 @@ We introduced a new class of gas diffusion electrodes (GDEs) with adjustable por
 
     
 
+## Most of the Long-Term Solar Radiation Forcing on the Climate Is Due to the Strong Feedback Mechanisms   
+
+OpenAlex: https://openalex.org/W4401301309    
+Open access: True
+    
+[H. I. Abdussamatov](https://openalex.org/A5061245549), Journal of Environmental & Earth Sciences. 6(3)] 2024.https://doi.org/10.30564/jees.v6i3.6502.
+    
+The main interactions of the Total Solar Irradiance (TSI) variations with the climatic system are considered. This research introduced new physically based indexes for 11-year cycles: the integral relative energetic power of the cycles solar activity (SA) and TSI, as well as the cycle-weighted mean value both of the TSI and sunspot number. The observed cycle-average TSI value in cycles XXII–XXIV has decreased by more than 0.5 W/m2, indicating its quasi-bicentennial decline. The onset of the Maunder-type Grand minimum phase of the SA and TSI of the quasi-bicentennial cycle (BCC) is expected in the 27th or 28th 11-year cycle in 2042 or 2053. The Earth's thermal inertia will cause a temperature reduction of around 0.25 K due to the deficit in TSI during the declining phase of the bicentennial cycle due to its negative impact on Earth's energy imbalance. As a result, the Bond's albedo will increase, and the abundance of atmospheric water vapor and carbon dioxide will decrease as a response to a direct solar forcing. BCC feedback mechanisms will also continue operating during both its minimum and maximum phases. The feedback mechanisms will continue further in short periods (about 30 years) at the beginning of BCC's growth and decline phases. These long-term self-reinforcing feedback effects will act as a response to the TSI, forcing in such a way as to trigger a strong amplification of the initial direct input to the corresponding temperature changes. They will lead to a significant increasing cooling in 2070 or 2080. Variations of the galactic cosmic rays and cloud cover practically do not affect the climate. The quasi-bicentennial cyclicity of the TSI also provides simultaneous climate variations on all Solar system planets.    
+
+    
+
 ## Characteristic of Specialized Geochemistry of the Ngoc Tu Granitoid Block KonTum, Vietnam   
 
 OpenAlex: https://openalex.org/W4401219965    
@@ -1186,17 +1230,6 @@ Background: Indonesia is still an energy importer, especially in the form of cru
 
     
 
-## Economic Analysis of a Hybrid Energy System for Rural Electrification for the Hasik Area, Oman   
-
-OpenAlex: https://openalex.org/W4401163958    
-Open access: False
-    
-[Abdullah Al‐Badi](https://openalex.org/A5007087804), [Ahmed Al-Farsi](https://openalex.org/A5018079959), [Tariq Al-Abri](https://openalex.org/A5090684914), [Mohammed Al-Mamari](https://openalex.org/A5075817975), No host. 48(2)] 2023.https://doi.org/10.56476/jed.v48i2.7.
-    
-Renewable energy resources have become the best way to solve the issues created by traditional power resources in terms of environmental effects, energy cost reduction, and high-power demand. The hybrid-based system gives a realistic economic solution where grid extension is non-feasible especially for remote areas. The main objective of this study is to determine the optimum size of a hybrid-based system to fulfill the requirements of remote sites located in the Hasik area in the southern part of Oman. The work is carried out using HOMER Pro and MATLAB software. The proposed hybrid system in the Hasik network is a combination of PV systems with existing diesel generation. Real load data as well as solar radiations were utilized in the proposed model. HOMER selected an optimum solution for the hybrid system resulting in a combination of a 2,500 kW PV system and 3,100 kW diesel generation as well as providing a reduction in the cost of energy and CO2 emissions by 13% and 22%, respectively. The optimum PV sizing for the hybrid system was determined using a genetic algorithm tool in MATLAB. The optimization was based on reducing the system power losses, improving the voltage profile, and minimizing cost. Optimization verification was done using load flow analysis by MATLAB to determine the PV sizing effects on the system power losses and voltage profile. Based on the model results, the hybrid system is feasible in the Hasik area.    
-
-    
-
 ## NH2-MIL-125 Nanosheets Prepared via Crystallization Kinetics Modulation for Ultrathin Membrane Fabrication   
 
 OpenAlex: https://openalex.org/W4401093599    
@@ -1205,6 +1238,17 @@ Open access: True
 [Yanwei Sun](https://openalex.org/A5101060593), [Jiahui Yan](https://openalex.org/A5048301114), [Mingming Wu](https://openalex.org/A5007514279), [Jie Jiang](https://openalex.org/A5043074429), [Yi Liu](https://openalex.org/A5100730678), Chem & Bio Engineering. None(None)] 2024.https://doi.org/10.1021/cbe.4c00103.
     
 Regulating both crystallographic orientation and thickness of titanium metal–organic framework (Ti-MOF) membranes remains a significant challenge. In this study, we pioneered the fabrication of uniform 29 nm thick NH2-MIL-125 nanosheet seeds by employing crystallization kinetics modulation approach. Through innovating confined counter-diffusion-assisted epitaxial growth under single-mode microwave heating, a highly c-oriented 80 nm thick NH2-MIL-125 membrane was prepared. Significant reduction in thickness endowed the membrane with unprecedented H2 permeance (1350 GPU) along with considerable H2/CO2 selectivity (19.1), exceeding the performance benchmarks of state-of-the-art NH2-MIL-125 membranes.    
+
+    
+
+## Economic Analysis of a Hybrid Energy System for Rural Electrification for the Hasik Area, Oman   
+
+OpenAlex: https://openalex.org/W4401163958    
+Open access: False
+    
+[Abdullah Al‐Badi](https://openalex.org/A5007087804), [Ahmed Al-Farsi](https://openalex.org/A5018079959), [Tariq Al-Abri](https://openalex.org/A5090684914), [Mohammed Al-Mamari](https://openalex.org/A5075817975), No host. 48(2)] 2023.https://doi.org/10.56476/jed.v48i2.7.
+    
+Renewable energy resources have become the best way to solve the issues created by traditional power resources in terms of environmental effects, energy cost reduction, and high-power demand. The hybrid-based system gives a realistic economic solution where grid extension is non-feasible especially for remote areas. The main objective of this study is to determine the optimum size of a hybrid-based system to fulfill the requirements of remote sites located in the Hasik area in the southern part of Oman. The work is carried out using HOMER Pro and MATLAB software. The proposed hybrid system in the Hasik network is a combination of PV systems with existing diesel generation. Real load data as well as solar radiations were utilized in the proposed model. HOMER selected an optimum solution for the hybrid system resulting in a combination of a 2,500 kW PV system and 3,100 kW diesel generation as well as providing a reduction in the cost of energy and CO2 emissions by 13% and 22%, respectively. The optimum PV sizing for the hybrid system was determined using a genetic algorithm tool in MATLAB. The optimization was based on reducing the system power losses, improving the voltage profile, and minimizing cost. Optimization verification was done using load flow analysis by MATLAB to determine the PV sizing effects on the system power losses and voltage profile. Based on the model results, the hybrid system is feasible in the Hasik area.    
 
     
 
@@ -1274,17 +1318,6 @@ The electrocatalytic C−N coupling from CO2 and nitrate emerges as one of the s
 
     
 
-## Characteristics and performance evaluation of foam in situ generated by microorganisms   
-
-OpenAlex: https://openalex.org/W4401257396    
-Open access: False
-    
-[Jian Fu](https://openalex.org/A5103375875), [Yulong Liu](https://openalex.org/A5021987401), [Cenqian Zhang](https://openalex.org/A5030003731), [Chenyue Wang](https://openalex.org/A5082614247), [Qing Feng](https://openalex.org/A5100550190), [Xiaonan Li](https://openalex.org/A5100711201), [Shanshan Sun](https://openalex.org/A5101923705), [Yuehui She](https://openalex.org/A5103839281), [Fan Zhang](https://openalex.org/A5100403551), Physics of Fluids. 36(8)] 2024.https://doi.org/10.1063/5.0219942.
-    
-Foam can effectively improve reservoir heterogeneity, increase gas–liquid flow rate, reduce viscous fingering, and help to improve sweep efficiency. This paper mainly studies the characteristics and performance of microbial foam production, and proposes an enhanced oil recovery method for profile control by in situ microbial foam production. By optimizing the carbon and nitrogen sources of the medium, Pseudomonas aeruginosa PAO1 produced single and double rhamnolipids and biogas composed of N2, CO2, and CH4, and it could also produce foam in high salt, weak acid, and weak alkali environments. Gas injection experiments were carried out using self-produced biogas, the foaming effect is good in the range of gas–liquid ratio 1:1–3:1 and gas injection speed 20–40 ml/min, which was 71.43%–91.25% more than the foam volume produced by CO2 injection, and the foam production was positively correlated with the protein concentration of the foam. In the early stage of incubation, the foam was 20–100 μm in diameter, with high protein concentration and strong foam stability, which slowed down the drainage, polymerization, and disproportionation of the liquid film of the foam system. The foam performance test results show that the foam half-lifetime is long, up to 109 min. Foam culture medium has good viscosity reduction effect, emulsifying properties and less corrosive. The displacement experiment shows that the foam generated in situ by PAO1 in the core has good stability, reproducibility, and profile control performance, which can reduce the permeability of the core to half of the initial permeability and improve the reservoir heterogeneity. Therefore, microbial in situ foam production can be an effective method to enhance oil recovery in heterogeneous reservoirs, which is low cost, low pollution, and simple operation.    
-
-    
-
 ## Study on the Carbon Emission Efficiency of the Logistics Industry in the Yangtze River Delta Region   
 
 OpenAlex: https://openalex.org/W4401097916    
@@ -1304,6 +1337,17 @@ Open access: False
 [Shuangyin Wang](https://openalex.org/A5042902756), [Yujie Wang](https://openalex.org/A5032451159), [Xiaorong Zhu](https://openalex.org/A5024839012), [Qizheng An](https://openalex.org/A5007894308), [Xiaoran Zhang](https://openalex.org/A5100784912), [Xiaoxiao Wei](https://openalex.org/A5101480790), [Chen Chen](https://openalex.org/A5100418413), [Han Li](https://openalex.org/A5100452620), [Dawei Chen](https://openalex.org/A5100322107), [Yalin Zhou](https://openalex.org/A5029153523), [Qinghua Liu](https://openalex.org/A5100414758), [Huaiyu Shao](https://openalex.org/A5011385180), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202410938.
     
 The electrocatalytic C−N coupling from CO2 and nitrate emerges as one of the solutions for waste upgrading and urea synthesis. In this work, we constructed electron‐deficient Cu sites by the strong metal‐polymer semiconductor interaction, to boost efficient and durable urea synthesis. In situ Raman spectroscopy identified the existence of electron‐deficient Cu sites and was able to withstand electrochemical reduction conditions. Operando synchrotron‐radiation Fourier transform infrared spectroscopy and theoretical calculations disclosed the vital role of electron‐deficient Cu in adsorption and C−N coupling of oxygen‐containing species. The electron‐deficient Cu displayed a high urea yield rate of 255.0 mmol h−1 g−1 at −1.4 V versus the reversible hydrogen electrode and excellent electrochemical durability, superior than that of non‐electron‐deficient counterpart with conductive carbon material as the support. It can be concluded that the regulation of site electronic structure is more important than the optimization of catalyst conductive properties in the C−N coupling reactions.    
+
+    
+
+## Characteristics and performance evaluation of foam in situ generated by microorganisms   
+
+OpenAlex: https://openalex.org/W4401257396    
+Open access: False
+    
+[Jian Fu](https://openalex.org/A5103375875), [Yulong Liu](https://openalex.org/A5021987401), [Cenqian Zhang](https://openalex.org/A5030003731), [Chenyue Wang](https://openalex.org/A5082614247), [Qing Feng](https://openalex.org/A5100550190), [Xiaonan Li](https://openalex.org/A5100711201), [Shanshan Sun](https://openalex.org/A5101923705), [Yuehui She](https://openalex.org/A5103839281), [Fan Zhang](https://openalex.org/A5100403551), Physics of Fluids. 36(8)] 2024.https://doi.org/10.1063/5.0219942.
+    
+Foam can effectively improve reservoir heterogeneity, increase gas–liquid flow rate, reduce viscous fingering, and help to improve sweep efficiency. This paper mainly studies the characteristics and performance of microbial foam production, and proposes an enhanced oil recovery method for profile control by in situ microbial foam production. By optimizing the carbon and nitrogen sources of the medium, Pseudomonas aeruginosa PAO1 produced single and double rhamnolipids and biogas composed of N2, CO2, and CH4, and it could also produce foam in high salt, weak acid, and weak alkali environments. Gas injection experiments were carried out using self-produced biogas, the foaming effect is good in the range of gas–liquid ratio 1:1–3:1 and gas injection speed 20–40 ml/min, which was 71.43%–91.25% more than the foam volume produced by CO2 injection, and the foam production was positively correlated with the protein concentration of the foam. In the early stage of incubation, the foam was 20–100 μm in diameter, with high protein concentration and strong foam stability, which slowed down the drainage, polymerization, and disproportionation of the liquid film of the foam system. The foam performance test results show that the foam half-lifetime is long, up to 109 min. Foam culture medium has good viscosity reduction effect, emulsifying properties and less corrosive. The displacement experiment shows that the foam generated in situ by PAO1 in the core has good stability, reproducibility, and profile control performance, which can reduce the permeability of the core to half of the initial permeability and improve the reservoir heterogeneity. Therefore, microbial in situ foam production can be an effective method to enhance oil recovery in heterogeneous reservoirs, which is low cost, low pollution, and simple operation.    
 
     
 
@@ -1414,6 +1458,17 @@ Open access: True
 [McKenna Thompson](https://openalex.org/A5064840464), [Rosemary Castorina](https://openalex.org/A5032697055), [Wenhao Chen](https://openalex.org/A5100457358), [David J. Moore](https://openalex.org/A5035653637), [Kyle Peerless](https://openalex.org/A5093342934), [Susan Hurley](https://openalex.org/A5079002228), Atmosphere. 15(8)] 2024.https://doi.org/10.3390/atmos15080901.
     
 Reducing children’s exposure to air pollution is a priority among California communities heavily impacted by air pollution exposures. We conducted an observational air quality study at a school to investigate the effectiveness of improved Heating, Ventilation, and Cooling (HVAC) system filters and portable air cleaners (PACs) in reducing children’s exposure to fine particulate matter (PM2.5) under real-world classroom conditions. This study included five classrooms, three of which had PACs. Halfway through the study period, high-efficiency HVAC filters were installed in all five classrooms. Continuous measurements of outdoor and in-classroom PM2.5 concentrations were used to evaluate filtration effectiveness. The air filtration strategies, alone and in combination, demonstrated 14–56% reductions in indoor PM2.5 concentrations compared to outdoor levels. There were significant improvements in filtration resulting from HVAC filter upgrades in the two classrooms without PACs (11% and 22% improvement, p < 0.001). Upgrading HVAC filters in classrooms with PACs did not significantly improve filtration effectiveness, suggesting that utilizing both strategies simultaneously may not meaningfully improve air quality under these circumstances. CO2 data, as a proxy for ventilation, helped demonstrate that the observed filtration effectiveness was likely impacted by the variable HVAC system use and open doors.    
+
+    
+
+## Changes in the Properties of Green Concrete Due to an Acidic Environment   
+
+OpenAlex: https://openalex.org/W4401300351    
+Open access: False
+    
+[Irma Aswani Ahmad](https://openalex.org/A5003170491), [Noor Fadilah Romadhani](https://openalex.org/A5019285887), [Muhammad Idhil Maming](https://openalex.org/A5029118170), International Journal on Advanced Science Engineering and Information Technology. 14(4)] 2024.https://doi.org/10.18517/ijaseit.14.4.17495.
+    
+The problem in this research is the negative environmental impact of cement production and the decrease in concrete durability due to acid rain. This research aims to create an equation for the relationship between concrete's mechanical properties and the concrete's age in an acidic environment. This equation is used to predict the quality of green concrete produced according to the mix design and to measure the reduction in strength of green concrete in an acidic environment. The method used is experimental research with wet-dry acid rain simulations (a mixture of sulfuric acid and nitric acid solutions) in the laboratory using rice husk ash (RHA) as a cement substitute. This research uses 5% and 10% of RHA variations of cement weight and immersion in pH3 and pH4 acid solutions. The results showed that adding 5% RHA increased the compressive and flexural strength of concrete, both in normal and acidic environments, with a significant increase in concrete life up to 120 days. However, the addition of 10% RHA showed decreased performance in acidic environments, although it still provided benefits under normal conditions. The potential environmental and sustainability benefits of using RHA as a cement substitute are significant, as it can reduce CO2 emissions, overcome waste disposal problems, and increase the durability of green concrete in acidic environments. This finding provides an environmentally friendly and sustainable solution for the construction industry, especially in areas vulnerable to acidic environments (acid rain).    
 
     
 

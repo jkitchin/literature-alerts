@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Aug 2024 01:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 01:13:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -306,6 +306,16 @@
       <author/>
       <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i015_1828877</guid>
+    </item>
+    <item>
+      <title>Investigating the Origin of Epimerization Attenuation during Pd-Catalyzed Cross-Coupling Reactions</title>
+      <link>https://doi.org/10.1021/acscatal.4c03401</link>
+      <description>Isabelle Cai, Thomas C. Malig, Kenji L. Kurita, Joshua S. Derasp, Lauren E. Sirois, Jason E. Hein, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401285753
+
+                No abstract</description>
+      <author>Isabelle Cai, Thomas C. Malig, Kenji L. Kurita, Joshua S. Derasp, Lauren E. Sirois, Jason E. Hein</author>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03401</guid>
     </item>
   </channel>
 </rss>
