@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Aug  5 01:13:19 2024
+Created on Tue Aug  6 01:11:36 2024
 
-Found 134 results from 2024-07-29 to 2024-08-05
+Found 139 results from 2024-07-30 to 2024-08-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -78,7 +78,7 @@ No abstract
 OpenAlex: https://openalex.org/W4401064146    
 Open access: False
     
-[Huawei Huang](https://openalex.org/A5064586018), [Liangliang Xu](https://openalex.org/A5101978721), [Shouwei Zuo](https://openalex.org/A5033564313), [Song Lu](https://openalex.org/A5012289270), [Chen Zou](https://openalex.org/A5101864882), [Max García‐Melchor](https://openalex.org/A5049133522), [Yang Li](https://openalex.org/A5100421631), [Yuxun Ren](https://openalex.org/A5103242510), [Magnus Rueping](https://openalex.org/A5071153001), [Huabin Zhang](https://openalex.org/A5019144758), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202405128.
+[Huawei Huang](https://openalex.org/A5064586018), [Liangliang Xu](https://openalex.org/A5101978721), [Shouwei Zuo](https://openalex.org/A5033564313), [Song Lu](https://openalex.org/A5012289270), [Chen Zou](https://openalex.org/A5101864882), [Max Garcı́a-Melchor](https://openalex.org/A5049133522), [Yang Li](https://openalex.org/A5100421631), [Yuxun Ren](https://openalex.org/A5103242510), [Magnus Rueping](https://openalex.org/A5071153001), [Huabin Zhang](https://openalex.org/A5019144758), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202405128.
     
 Abstract In alkaline water electrolysis and anion exchange membrane water electrolysis technologies, the hydrogen evolution reaction (HER) at the cathode is significantly constrained by a high energy barrier during the water dissociation step. This study employs a phase engineering strategy to construct heterostructures composed of crystalline Ni 4 W and amorphous WO x aiming to enhance catalytic performance in the HER under alkaline conditions. This work systematically modulates the oxidation states of W within the amorphous WO x of the heterostructure to adjust the electronic states of the phase boundary, the energy barriers associated with the water dissociation step, and the adsorption/desorption properties of intermediates during the alkaline HER process. The optimized catalyst, Ni 4 W/WO x ‐2, with a quasi‐metallic state of W coordinated by a low oxygen content in amorphous WO x , demonstrates exceptional catalytic performance (22 mV@10 mA cm −2 ), outperforming commercial Pt/C (30 mV@10 mA cm −2 ). Furthermore, the operando X‐ray absorption spectroscopy analysis and theoretical calculations reveal that the optimized W atoms in amorphous WO x serve as active sites for water dissociation and the nearby Ni atoms in crystalline Ni 4 W facilitated the release of H 2 . These findings provide valuable insights into designing efficient heterostructured materials for energy conversion.    
 
@@ -733,6 +733,28 @@ No abstract
 
     
 
+## Bifunctional Oxygen‐Defect Bismuth Catalyst toward Concerted Production of H2O2 with over 150% Cell Faradaic Efficiency in Continuously Flowing Paired‐Electrosynthesis System   
+
+OpenAlex: https://openalex.org/W4401308478    
+Open access: False
+    
+[Qiqi Zhang](https://openalex.org/A5100707003), [Changsheng Cao](https://openalex.org/A5089023981), [Shenghua Zhou](https://openalex.org/A5100765488), [Wei Wang](https://openalex.org/A5100392071), [Xin Chen](https://openalex.org/A5101654049), [Rongjie Xu](https://openalex.org/A5100977654), [Xintao Wu](https://openalex.org/A5101932008), [Qi‐Long Zhu](https://openalex.org/A5036344147), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202408341.
+    
+Abstract The electrosynthesis of hydrogen peroxide (H 2 O 2 ) from O 2 or H 2 O via the two‐electron (2e − ) oxygen reduction (2e − ORR) or water oxidation (2e − WOR) reaction provides a green and sustainable alternative to the traditional anthraquinone process. Herein, a paired‐electrosynthesis tactic is reported for concerted H 2 O 2 production at a high rate by coupling the 2e − ORR and 2e − WOR, in which the bifunctional oxygen‐vacancy‐enriched Bi 2 O 3 nanorods (O v ‐Bi 2 O 3 ‐EO), obtained through electrochemically oxidative reconstruction of Bi‐based metal–organic framework (Bi‐MOF) nanorod precursor, are used as both efficient anodic and cathodic electrocatalysts, achieving concurrent H 2 O 2 production at both electrodes with high Faradaic efficiencies. Specifically, the coupled 2e − ORR//2e − WOR electrolysis system based on such distinctive oxygen‐defect Bi catalyst displays excellent performance for the paired‐electrosynthesis of H 2 O 2 , delivering a remarkable cell Faradaic efficiency of 154.8% and an ultrahigh H 2 O 2 production rate of 4.3 mmol h −1 cm −2 . Experiments combined with theoretical analysis reveal the crucial role of oxygen vacancies in optimizing the adsorption of intermediates associated with the selective two‐electron reaction pathways, thereby improving the activity and selectivity of the 2e − reaction processes at both electrodes. This work establishes a new paradigm for developing advanced electrocatalysts and designing novel paired‐electrolysis systems for scalable and sustainable H 2 O 2 electrosynthesis.    
+
+    
+
+## NiCo-LDH sheets and Ag3PO4 nanoparticles decorated on graphitic carbon nitride for efficient oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4401311945    
+Open access: False
+    
+[Kotesh Kumar Mandari](https://openalex.org/A5057222563), [Younghwan Im](https://openalex.org/A5077449173), [Misook Kang](https://openalex.org/A5029753585), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.175860.
+    
+No abstract    
+
+    
+
 ## Impact of Organic Anions on Metal Hydroxide Oxygen Evolution Catalysts   
 
 OpenAlex: https://openalex.org/W4401074450    
@@ -761,6 +783,17 @@ OpenAlex: https://openalex.org/W4401207527
 Open access: False
     
 [Sheng Wang](https://openalex.org/A5100371335), [Xiongwei Zhong](https://openalex.org/A5079367889), [Zhikun Liu](https://openalex.org/A5090012174), [Kang-Lin Peng](https://openalex.org/A5081952140), Transactions of Tianjin University. None(None)] 2024.https://doi.org/10.1007/s12209-024-00405-1.
+    
+No abstract    
+
+    
+
+## Fluorine-assisted asphalts waste carbonization to Ni-F-C electrocatalyst by mechanochemistry for efficient oxygen evolution   
+
+OpenAlex: https://openalex.org/W4401045614    
+Open access: False
+    
+[Jiahua Zhao](https://openalex.org/A5020099150), [Xuanyu Zhou](https://openalex.org/A5101932552), [Qiang Niu](https://openalex.org/A5072202821), [Junjun Zhang](https://openalex.org/A5100632999), [Pengfei Zhang](https://openalex.org/A5100426079), Fuel. 375(None)] 2024.https://doi.org/10.1016/j.fuel.2024.132612.
     
 No abstract    
 
@@ -854,17 +887,6 @@ Electrocatalytic hydrogen evolution via water splitting occurs at the electrode 
 
     
 
-## Suppressing Product Crossover and C-C Bond Cleavage in a Glycerol Membrane Electrode Assembly Reformer   
-
-OpenAlex: https://openalex.org/W4401234420    
-Open access: False
-    
-[Chencheng Dai](https://openalex.org/A5017680037), [Qian Wu](https://openalex.org/A5060985978), [Tianze Wu](https://openalex.org/A5103137050), [Shouxin Zhang](https://openalex.org/A5101742243), [Libo Sun](https://openalex.org/A5048054881), [Xiaogang Wang](https://openalex.org/A5100444820), [Adrian C. Fisher](https://openalex.org/A5057145033), [Zhichuan J. Xu](https://openalex.org/A5034440449), Energy & Environmental Science. None(None)] 2024.https://doi.org/10.1039/d4ee01824a.
-    
-Generating hydrogen through water electrolysis is impeded by high costs and substantial energy consumption mainly due to high equilibrium potential and sluggish kinetics of the oxygen evolution reaction (OER). Glycerol...    
-
-    
-
 ## The ultrafast reconfigurability and ultrahigh durability of NiFe phosphides electrocatalyst with a Fe-rich surface induced by in-situ acid corrosion for water oxidations   
 
 OpenAlex: https://openalex.org/W4401173936    
@@ -873,6 +895,17 @@ Open access: False
 [Min Jiang](https://openalex.org/A5100659026), [Jiaming Zhang](https://openalex.org/A5100453779), [Hanxiao Liao](https://openalex.org/A5050871189), [Huanhuan Zhai](https://openalex.org/A5026581920), [Xuanzhi Liu](https://openalex.org/A5007629234), [Pengfei Tan](https://openalex.org/A5101497824), [Yi‐Yang Sun](https://openalex.org/A5088539022), [Yongjin Ma](https://openalex.org/A5102791559), Inorganic Chemistry Frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi01378f.
     
 NiFe based catalysts are expected to replace commercially available noble metal-based electrocatalysts for oxygen evolution reaction (OER) due to their reconfigurability into high performance NiFe oxyhydroxides from their phosphides. However,...    
+
+    
+
+## Suppressing Product Crossover and C-C Bond Cleavage in a Glycerol Membrane Electrode Assembly Reformer   
+
+OpenAlex: https://openalex.org/W4401234420    
+Open access: False
+    
+[Chencheng Dai](https://openalex.org/A5017680037), [Qian Wu](https://openalex.org/A5060985978), [Tianze Wu](https://openalex.org/A5103137050), [Shouxin Zhang](https://openalex.org/A5101742243), [Libo Sun](https://openalex.org/A5048054881), [Xiaogang Wang](https://openalex.org/A5100444820), [Adrian C. Fisher](https://openalex.org/A5057145033), [Zhichuan J. Xu](https://openalex.org/A5034440449), Energy & Environmental Science. None(None)] 2024.https://doi.org/10.1039/d4ee01824a.
+    
+Generating hydrogen through water electrolysis is impeded by high costs and substantial energy consumption mainly due to high equilibrium potential and sluggish kinetics of the oxygen evolution reaction (OER). Glycerol...    
 
     
 
@@ -953,6 +986,17 @@ Manganese oxide is a unique type of transition metal oxide that effectively func
 
     
 
+## Rod‐Shaped Au@Ce Nano‐Platforms for Enhancing Photodynamic Tumor Collaborative Therapy   
+
+OpenAlex: https://openalex.org/W4401308457    
+Open access: False
+    
+[Yuxiang Sun](https://openalex.org/A5073484102), [Ziqi Cao](https://openalex.org/A5057348218), [Xiaoli Zhang](https://openalex.org/A5071795590), [Xingchen Zhu](https://openalex.org/A5010027478), [Zhenyang Xu](https://openalex.org/A5102292871), [Huaichun Zhou](https://openalex.org/A5077044973), [Xiaoer Wei](https://openalex.org/A5073093619), [Wenxian Du](https://openalex.org/A5020547568), [Li Xu](https://openalex.org/A5103571491), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202400945.
+    
+Abstract Tumor photodynamic therapy (PDT) relies on intratumoral free radicals, while the limited oxygen source and the depletion of tissue oxygen may exacerbate the hypoxia. As the treatment progresses, there will eventually be a problem of insufficient free radicals. Here, it is found that Au@CeO 2 nano‐rods (Au@Ce NRs), assembled by gold nano‐rods (Au NRs) and ceria nanoparticles (CeO 2 NPs), can efficaciously absorb near‐infrared light (NIR) to promote the release of oxygen and free radicals. Au@Ce NRs exhibit a higher proportion of Ce 3+ (Ce 2 O 3 ) after oxygen release, while Ce 3+ is subsequently oxidized to Ce 4+ (CeO 2 ) by trace H 2 O 2 . Interestingly, Au@Ce NRs re‐oxidized by trace H 2 O 2 can re‐releasing oxygen and free radicals again upon NIR treatment, achieving oxygenation/oxygen evolution, similar to charging/discharging. This loop maximizes the conversion of limited oxygen source into highly cytotoxic free radicals. As a result, when B16‐F10 cells are treated by NIR/Au@Ce NRs, more tumor cells undergo apoptosis, consistent with the higher level of free radicals. Importantly, NIR/Au@Ce NRs successfully suppresses tumor growth and promotes the generation of epidermal collagen fibers in the transplanted tumor model. Therefore, the rod‐shaped Au@Ce NRs provide an ideal platform for maximizing the utilization of intratumoral oxygen sources and improving the treatment of melanoma.    
+
+    
+
 ## Molybdenum and Vanadium-Codoped Cobalt Carbonate Nanosheets Deposited on Nickel Foam as a High-Efficient Bifunctional Catalyst for Overall Alkaline Water Splitting   
 
 OpenAlex: https://openalex.org/W4401112899    
@@ -975,17 +1019,6 @@ Photo-biocatalysts are one of nature's finest in transmuting inorganic carbon in
 
     
 
-## CoFe2O4 Nanoparticles on Bio-Based Polymer Derived Nitrogen Doped Carbon as Bifunctional Electrocatalyst for Li-Air Battery   
-
-OpenAlex: https://openalex.org/W4401160320    
-Open access: True
-    
-[Pirapath Arkasalerks](https://openalex.org/A5106109622), [Amarshi Patra](https://openalex.org/A5086257334), [Kottisa Sumala Patnaik](https://openalex.org/A5033359188), [Koichi Higashimine](https://openalex.org/A5080200773), [Noriyoshi Matsumi](https://openalex.org/A5072439341), Journal of The Electrochemical Society. None(None)] 2024.https://doi.org/10.1149/1945-7111/ad69c9.
-    
-Abstract Lithium-air batteries (LABs) are gaining attention as a promising energy storage solution. Their theoretical energy density of 3,505 Whkg-1 exceeds that of conventional lithium-ion batteries (500–800 Whkg-1). The commercial viability and widespread adoption of lithium-air batteries face challenges such as poor cycling stability, limited lifespan, and unresolved side reactions. In this study, we synthesized spinel CoFe2O4-decorated on bio-based poly(2,5-benzimidazole) derived N-doped carbon for electrocatalysts. Notably, strong metal-substrate interaction (SMSI) was observed through various characterizations. The bifunctional electrocatalytic activity and stability toward oxygen reduction reaction and oxygen evolution reaction were significantly enhanced by the SMSI, The LAB demonstrated a high discharge capacity of 18,356 mAhg-1 at a current density of 200 mAg-1, maintaining a remarkable discharge capacity of 1,000 mAhg-1 even at a high current density of 400 mAg-1 for 200 cycles. CoFe2O4-decorated on bio-derived ABPBI holds promise as a practical air-breathing electrode for high-capacity rechargeable LABs.    
-
-    
-
 ## Harnessing the Power of PM6:Y6 Semitransparent Photoanodes by Computational Balancement of Photon Absorption in Photoanode/Photovoltaic Organic Tandems: >7 mA cm−2 Solar Synthetic Fuels Production at Bias‐Free Potentials   
 
 OpenAlex: https://openalex.org/W4401230065    
@@ -994,6 +1027,17 @@ Open access: True
 [Francisco Bernal‐Texca](https://openalex.org/A5034030210), [Emmanouela Andrioti](https://openalex.org/A5098277941), [Jordi Martorell](https://openalex.org/A5002276985), [Carles Ros](https://openalex.org/A5086260708), Energy & environment materials. None(None)] 2024.https://doi.org/10.1002/eem2.12809.
     
 This study first demonstrates the potential of organic photoabsorbing blends in overcoming a critical limitation of metal oxide photoanodes in tandem modules: insufficient photogenerated current. Various organic blends, including PTB7‐Th:FOIC, PTB7‐Th:O6T‐4F, PM6:Y6, and PM6:FM, were systematically tested. When coupled with electron transport layer (ETL) contacts, these blends exhibit exceptional charge separation and extraction, with PM6:Y6 achieving saturation photocurrents up to 16.8 mA cm −2 at 1.23 V RHE (oxygen evolution thermodynamic potential). For the first time, a tandem structure utilizing organic photoanodes has been computationally designed and fabricated and the implementation of a double PM6:Y6 photoanode/photovoltaic structure resulted in photogenerated currents exceeding 7 mA cm −2 at 0 V RHE (hydrogen evolution thermodynamic potential) and anodic current onset potentials as low as −0.5 V RHE . The herein‐presented organic‐based approach paves the way for further exploration of different blend combinations to target specific oxidative reactions by selecting precise donor/acceptor candidates among the multiple existing ones.    
+
+    
+
+## CoFe2O4 Nanoparticles on Bio-Based Polymer Derived Nitrogen Doped Carbon as Bifunctional Electrocatalyst for Li-Air Battery   
+
+OpenAlex: https://openalex.org/W4401160320    
+Open access: True
+    
+[Pirapath Arkasalerks](https://openalex.org/A5106109622), [Amarshi Patra](https://openalex.org/A5086257334), [Kottisa Sumala Patnaik](https://openalex.org/A5033359188), [Koichi Higashimine](https://openalex.org/A5080200773), [Noriyoshi Matsumi](https://openalex.org/A5072439341), Journal of The Electrochemical Society. None(None)] 2024.https://doi.org/10.1149/1945-7111/ad69c9.
+    
+Abstract Lithium-air batteries (LABs) are gaining attention as a promising energy storage solution. Their theoretical energy density of 3,505 Whkg-1 exceeds that of conventional lithium-ion batteries (500–800 Whkg-1). The commercial viability and widespread adoption of lithium-air batteries face challenges such as poor cycling stability, limited lifespan, and unresolved side reactions. In this study, we synthesized spinel CoFe2O4-decorated on bio-based poly(2,5-benzimidazole) derived N-doped carbon for electrocatalysts. Notably, strong metal-substrate interaction (SMSI) was observed through various characterizations. The bifunctional electrocatalytic activity and stability toward oxygen reduction reaction and oxygen evolution reaction were significantly enhanced by the SMSI, The LAB demonstrated a high discharge capacity of 18,356 mAhg-1 at a current density of 200 mAg-1, maintaining a remarkable discharge capacity of 1,000 mAhg-1 even at a high current density of 400 mAg-1 for 200 cycles. CoFe2O4-decorated on bio-derived ABPBI holds promise as a practical air-breathing electrode for high-capacity rechargeable LABs.    
 
     
 
@@ -1140,17 +1184,6 @@ Extensive research on transition metal perovskite oxides as electrodes in solid 
 
     
 
-## Research on the Low-Temperature Oxygen Consumption and Low-Oxygen Gas Emission Law in Goaf of Ultrathick Coal Seams   
-
-OpenAlex: https://openalex.org/W4401041677    
-Open access: True
-    
-[Xu Zheng](https://openalex.org/A5086218993), [Jia Liu](https://openalex.org/A5101327033), [Peng Liu](https://openalex.org/A5100346870), [Yangmin Li](https://openalex.org/A5027712402), [Ping Luo](https://openalex.org/A5102200436), [Guangzu Hao](https://openalex.org/A5008960853), [Fei Wang](https://openalex.org/A5100455952), [Tingting Cai](https://openalex.org/A5020258987), ACS Omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c02310.
-    
-Low-oxygen (oxygen concentration below 18.5%) phenomena often occur in the top coal caving working face of ultrathick coal seams, posing a serious threat to the safety of workers. The characteristics of oxygen consumption and gas production at low-constant temperature and the corresponding functional group evolution of residual coal in goaf were studied by temperature-programmed and infrared spectrum experiments. The influence of different factors on the emission of low-oxygen gases was studied through numerical calculation. The results show that low-temperature oxygen consumption and gas production occurred when the coal was about 40 °C. When the temperature was constant, the oxygen consumption and gas production rate increased with the extension of time. In the early stage of coal oxidation, the aliphatic C–H components were attacked by oxygen molecules and reacted with them. The asymmetric methyl and methylene groups were more likely to oxidize and produce carbonyl compounds. With the increase of nitrogen injection, the overall width of the oxidation zone (oxygen concentration was defined as 10–18%) narrowed, and the range of the oxidation zone moved forward from the depth of the goaf. The oxygen concentration in the air return corner decreased gradually, and the low-oxygen area in the air return corner expanded gradually. The distance between the low-oxygen area of the working face and the air intake corner was gradually shortened. With the increase of air intake, the width of the oxidation zone increased and moved to the depth of goaf, and the degree of low oxygen in the air return corner increased. The research results are of great significance for the understanding and prevention of the low-oxygen phenomenon in ultrathick coal seams.    
-
-    
-
 ## Inter-atomic Electronic Interactions Enables by Rh Single Atoms/CuCo2S4@MoS2 Core-Shell Heterostructure for High-efficiency Solar-assisted Water Splitting   
 
 OpenAlex: https://openalex.org/W4401242535    
@@ -1159,6 +1192,17 @@ Open access: False
 [Xinfeng Zhu](https://openalex.org/A5102498412), [Kaixuan Dong](https://openalex.org/A5076997344), [Dinh Chuong Nguyen](https://openalex.org/A5028918749), [Sampath Prabhakaran](https://openalex.org/A5069304290), [Do Hwan Kim](https://openalex.org/A5022726594), [Duy Thanh Tran](https://openalex.org/A5101870136), [Nam Hoon Kim](https://openalex.org/A5100615737), [Joong Hee Lee](https://openalex.org/A5068920211), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta02881c.
     
 In this work, we developed an electrocatalyst based on the Rh single atoms confined CuCo2S4@MoS2 core–shell heterostructure, namely Rh SAs/CuCo2S4@MoS2, for the cathodic hydrogen evolution reaction (HER) and anodic oxygen...    
+
+    
+
+## Research on the Low-Temperature Oxygen Consumption and Low-Oxygen Gas Emission Law in Goaf of Ultrathick Coal Seams   
+
+OpenAlex: https://openalex.org/W4401041677    
+Open access: True
+    
+[Xu Zheng](https://openalex.org/A5086218993), [Jia Liu](https://openalex.org/A5101327033), [Peng Liu](https://openalex.org/A5100346870), [Yangmin Li](https://openalex.org/A5027712402), [Ping Luo](https://openalex.org/A5102200436), [Guangzu Hao](https://openalex.org/A5008960853), [Fei Wang](https://openalex.org/A5100455952), [Tingting Cai](https://openalex.org/A5020258987), ACS Omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c02310.
+    
+Low-oxygen (oxygen concentration below 18.5%) phenomena often occur in the top coal caving working face of ultrathick coal seams, posing a serious threat to the safety of workers. The characteristics of oxygen consumption and gas production at low-constant temperature and the corresponding functional group evolution of residual coal in goaf were studied by temperature-programmed and infrared spectrum experiments. The influence of different factors on the emission of low-oxygen gases was studied through numerical calculation. The results show that low-temperature oxygen consumption and gas production occurred when the coal was about 40 °C. When the temperature was constant, the oxygen consumption and gas production rate increased with the extension of time. In the early stage of coal oxidation, the aliphatic C–H components were attacked by oxygen molecules and reacted with them. The asymmetric methyl and methylene groups were more likely to oxidize and produce carbonyl compounds. With the increase of nitrogen injection, the overall width of the oxidation zone (oxygen concentration was defined as 10–18%) narrowed, and the range of the oxidation zone moved forward from the depth of the goaf. The oxygen concentration in the air return corner decreased gradually, and the low-oxygen area in the air return corner expanded gradually. The distance between the low-oxygen area of the working face and the air intake corner was gradually shortened. With the increase of air intake, the width of the oxidation zone increased and moved to the depth of goaf, and the degree of low oxygen in the air return corner increased. The research results are of great significance for the understanding and prevention of the low-oxygen phenomenon in ultrathick coal seams.    
 
     
 
@@ -1218,17 +1262,6 @@ Abstract. The Devonian is a warmer-than-present geological period spanning from 
 
     
 
-## Piezo‐catalysis Mechanism Elucidation by Tracking Oxygen Reduction to Hydrogen Peroxide with In‐situ EPR Spectroscopy   
-
-OpenAlex: https://openalex.org/W4401225169    
-Open access: False
-    
-[Jie He](https://openalex.org/A5100611166), [Zhi Li](https://openalex.org/A5100382241), [Pengju Feng](https://openalex.org/A5085027918), [Gang Lu](https://openalex.org/A5090681044), [Tengda Ding](https://openalex.org/A5051057084), [Li Chen](https://openalex.org/A5100379155), [Xiaoguang Duan](https://openalex.org/A5006059700), [Mingshan Zhu](https://openalex.org/A5034231874), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202410381.
-    
-For piezoelectric catalysis, the catalytic mechanism is a topic of great controversy, with debates centered around whether it belongs to the energy band theory of photocatalysis or the screening charge effect of electrochemical catalysis. Due to the formation of different intermediate active‐species during two‐electron oxygen reduction reaction (ORR) via electro‐ and photo‐catalysis, the key to solving this problem is precisely monitoring the active species involved in ORR during electro‐, photo‐, and piezo‐catalysis under identical condition. Here, a semiconductor material, BiOBr with abundant oxygen vacancies (BOB‐OV) was found remarkable catalytic activity in H2O2 production by all three catalytic methods. By employing in‐situ electron paramagnetic resonance (EPR) spectroscopy, the H2O2 evolution pathway through piezo‐catalysis over BOB‐OV was monitored, which showed a similar reaction pathway to that observed in photo‐catalytic process. This finding represents solid evidence supporting the notion that piezo‐catalytic mechanism of ORR is more inclined towards photo‐catalysis rather than electro‐catalysis. Significantly, this exploratory conclusion provides insight to deepen our understanding of piezo‐catalysis.    
-
-    
-
 ## Magnetite geochemistry of giant alkalic-type epithermal gold deposits: Insights into the magmatic evolution of mineralized alkaline systems   
 
 OpenAlex: https://openalex.org/W4401134345    
@@ -1237,6 +1270,17 @@ Open access: True
 [Michaël Schirra](https://openalex.org/A5078715064), [Zoltán Zajacz](https://openalex.org/A5020642779), [Daniel Müller](https://openalex.org/A5016902693), Geological Society London Special Publications. 551(1)] 2024.https://doi.org/10.1144/sp551-2024-57.
     
 Magnetite, a common mineral in alkaline magmatic complexes hosting giant epithermal Au deposits, is examined to obtain insights into the magmatic evolution and ore fertility of alkaline systems. Textural and compositional analyses of magmatic magnetite from Cripple Creek, USA, and Lihir Island, Papua New Guinea, reveal distinct magma sources and evolution paths. High HFSE concentrations and high La/Yb ratios in magnetite from Cripple Creek suggest relatively low-degree partial melting of lithospheric and asthenospheric mantle sources, whereas magnetite from Lihir Island indicates higher degree partial melting from subduction-modified mantle. Chromium concentrations track magma evolution, while V systematics record decreasing oxygen fugacity with magma differentiation. Sulfide saturation is observed at Cripple Creek, potentially affecting ore fertility. Magnetite itself bears the capability to scavenge Au from melts as indicated by Au concentrations of up to 40 ng/g. This might point towards elevated Au concentrations in the parental magmas, although experimental data on Au partitioning is lacking. Magnetite compositions overlap across different mineralization styles, challenging its reliability as an exploration tool but analysis of noble metals in magnetite and its inclusion cargo could offer promising alternative approaches. Overall, magnetite serves as a valuable tool for investigating ore deposit petrogenesis and holds potential for exploration.    
+
+    
+
+## Piezo‐catalysis Mechanism Elucidation by Tracking Oxygen Reduction to Hydrogen Peroxide with In‐situ EPR Spectroscopy   
+
+OpenAlex: https://openalex.org/W4401225169    
+Open access: False
+    
+[Jie He](https://openalex.org/A5100611166), [Zhi Li](https://openalex.org/A5100382241), [Pengju Feng](https://openalex.org/A5085027918), [Gang Lu](https://openalex.org/A5090681044), [Tengda Ding](https://openalex.org/A5051057084), [Li Chen](https://openalex.org/A5100379155), [Xiaoguang Duan](https://openalex.org/A5006059700), [Mingshan Zhu](https://openalex.org/A5034231874), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202410381.
+    
+For piezoelectric catalysis, the catalytic mechanism is a topic of great controversy, with debates centered around whether it belongs to the energy band theory of photocatalysis or the screening charge effect of electrochemical catalysis. Due to the formation of different intermediate active‐species during two‐electron oxygen reduction reaction (ORR) via electro‐ and photo‐catalysis, the key to solving this problem is precisely monitoring the active species involved in ORR during electro‐, photo‐, and piezo‐catalysis under identical condition. Here, a semiconductor material, BiOBr with abundant oxygen vacancies (BOB‐OV) was found remarkable catalytic activity in H2O2 production by all three catalytic methods. By employing in‐situ electron paramagnetic resonance (EPR) spectroscopy, the H2O2 evolution pathway through piezo‐catalysis over BOB‐OV was monitored, which showed a similar reaction pathway to that observed in photo‐catalytic process. This finding represents solid evidence supporting the notion that piezo‐catalytic mechanism of ORR is more inclined towards photo‐catalysis rather than electro‐catalysis. Significantly, this exploratory conclusion provides insight to deepen our understanding of piezo‐catalysis.    
 
     
 
@@ -1351,14 +1395,14 @@ Dopants can significantly affect the properties of oxide ceramics through their 
 
     
 
-## Nanoceramic particle reinforced high alloying Al-Zn-Mg-Cu composites   
+## S-scheme carbon doped-TiO2/ZnIn2S4 heterojunction for enhanced photocatalytic degradation of microcystin-LR and hydrogen evolution   
 
-OpenAlex: https://openalex.org/W4401277442    
+OpenAlex: https://openalex.org/W4401270799    
 Open access: False
     
-[Hailong Cong](https://openalex.org/A5034612283), [Xianping Zhang](https://openalex.org/A5059685798), [ZeFan Cheng](https://openalex.org/A5102632677), [Hai Chao Li](https://openalex.org/A5035380792), [Pei Wang](https://openalex.org/A5100462640), [Wanting Sun](https://openalex.org/A5040146013), Proceedings of the Institution of Mechanical Engineers Part L Journal of Materials Design and Applications. None(None)] 2024.https://doi.org/10.1177/14644207241269595.
+[Li Wang](https://openalex.org/A5100322864), [Lin Ding](https://openalex.org/A5079947882), [Xibao Li](https://openalex.org/A5009441423), [Zhenzhou Wang](https://openalex.org/A5101745263), [Xiwei Xu](https://openalex.org/A5100619109), [Xubiao Luo](https://openalex.org/A5103055527), [Xubiao Luo](https://openalex.org/A5103055527), Chemosphere. None(None)] 2024.https://doi.org/10.1016/j.chemosphere.2024.142996.
     
-In the metal matrix composites (MMCs) reinforced with nanoparticles, the enhancement of composite performance is often closely associated with the types of nanoparticles. It is vital to explore the influences and differences of various nanoparticles on the microstructure evolution and mechanical properties of highly alloyed aluminum-based composites. This study is the first to employ hot pressing for preparing Al-Zn-Mg-Cu composite materials reinforced with SiC and Al 2 O 3 nano-ceramic particles, respectively. By employing hot extrusion and T6 heat treatment techniques, a systematic investigation was conducted on the effects of the addition of nano-ceramic particles on the microstructure evolution and mechanical properties of the Al-Zn-Mg-Cu composites, and a comparative analysis was performed on the two types of composite materials. The experimental results demonstrated that the Mg atoms in the α-Al matrix were consumed by the addition of SiC/Al 2 O 3 nano-ceramic particles, and thereby the grain size primary η’ (MgZn 2 ) strengthening phase was refined, leading to an enhanced overall mechanical performance of the Al-Zn-Mg-Cu composite. In particular, the Mg 2 Si phase was generated by the addition of SiC nanoceramic particles, through the interfacial reactions, and thus with the synergistic effects of precipitation strengthening and Orowan strengthening, the ultimate compressive strength and compressibility of Al-Zn-Mg-Cu composite can be increased to 844 MPa and 27.5%, respectively. On the other hand, the addition of Al 2 O 3 nanoceramic particles can bring about the formation of an oxygen-rich phase and refined precipitates at grain boundaries. Accordingly, the elongation is increased to 43.5% while a high ultimate compressive strength in the composites can be maintained. It is anticipated that nanoceramic particle-reinforced Al-based metal composites have significant potential for achieving both high strength and exceptional ductility for the application in the industry field.    
+Photocatalytic degradation of pollutants coupled with hydrogen (H2) evolution has emerged as a promising solution for environmental and energy crises. However, the fast recombination of photoexcited electrons and holes limits photocatalytic activities. Herein, an S-scheme heterojunction carbon doped-TiO2 /ZnIn2S4 (C-TiO2/ZnIn2S4) was designed by substituting oxygen sites within C-TiO2 by ZnIn2S4. Under visible light irradiation, the optimal C-TiO2/ZnIn2S4 exhibits a higher degradation efficiency (88.6%) of microcystin-LR (MC-LR), compared to pristine C-TiO2 (72.9%) and ZnIn2S4 (66.8%). Furthermore, the H2 yield of the C-TiO2/ZnIn2S4 reaches 1526.9 μmol·g−1·h−1, which is 3.83 times and 2.87 times that of the C-TiO2 and ZnIn2S4, respectively. Experimental and theoretical investigations reveal that an internal electric field (IEF) informed in the C-TiO2/ZnIn2S4 heterojunction, accelerates the separation of photogenerated charge pairs, thereby enhancing photocatalytic efficiency of MC-LR degradation and H2 production. This work highlights a new perspective on the development of high-performance photocatalysts for wastewater treatment and H2 generation.    
 
     
 
@@ -1370,6 +1414,17 @@ Open access: False
 [Yifei Zhang](https://openalex.org/A5039320774), Applied and Computational Engineering. 85(1)] 2024.https://doi.org/10.54254/2755-2721/85/20240962.
     
 The paper delves deeply into crucial subjects spanning the birth of our solar system to humanitys ascendancy on Earth. It aims to enable humankind to gain a deeper understanding of our own origins and the Earths genesis and evolution. Given that Earth is our sole habitat, we must gain insights into the conditions necessary for it to sustain life or identify potential terrestrial planets suitable for human habitation. Throughout its history, Earth has weathered countless encounters with meteorites, comets, and asteroids, dating back to the formation of the solar system. These events, though rare, played a pivotal role in shaping our planets atmosphere, magnetic field, and unique environmental characteristics. Perhaps the most extraordinary aspect of Earths history is the emergence of life itselfa true marvel. Starting with single-celled protists, life evolved into complex multicellular organisms. Yet, a pivotal moment in Earths history came with a momentous global extinction event triggered by the rise of oxygen. This event reshaped the planets natural ecosystem, leading to the extinction of many species and the emergence of new ones. Humanitys own journey, navigating the depths of history, eventually led to our dominance over the Earth.    
+
+    
+
+## Nanoceramic particle reinforced high alloying Al-Zn-Mg-Cu composites   
+
+OpenAlex: https://openalex.org/W4401277442    
+Open access: False
+    
+[Hailong Cong](https://openalex.org/A5034612283), [Xianping Zhang](https://openalex.org/A5059685798), [ZeFan Cheng](https://openalex.org/A5102632677), [Hai Chao Li](https://openalex.org/A5035380792), [Pei Wang](https://openalex.org/A5100462640), [Wanting Sun](https://openalex.org/A5040146013), Proceedings of the Institution of Mechanical Engineers Part L Journal of Materials Design and Applications. None(None)] 2024.https://doi.org/10.1177/14644207241269595.
+    
+In the metal matrix composites (MMCs) reinforced with nanoparticles, the enhancement of composite performance is often closely associated with the types of nanoparticles. It is vital to explore the influences and differences of various nanoparticles on the microstructure evolution and mechanical properties of highly alloyed aluminum-based composites. This study is the first to employ hot pressing for preparing Al-Zn-Mg-Cu composite materials reinforced with SiC and Al 2 O 3 nano-ceramic particles, respectively. By employing hot extrusion and T6 heat treatment techniques, a systematic investigation was conducted on the effects of the addition of nano-ceramic particles on the microstructure evolution and mechanical properties of the Al-Zn-Mg-Cu composites, and a comparative analysis was performed on the two types of composite materials. The experimental results demonstrated that the Mg atoms in the α-Al matrix were consumed by the addition of SiC/Al 2 O 3 nano-ceramic particles, and thereby the grain size primary η’ (MgZn 2 ) strengthening phase was refined, leading to an enhanced overall mechanical performance of the Al-Zn-Mg-Cu composite. In particular, the Mg 2 Si phase was generated by the addition of SiC nanoceramic particles, through the interfacial reactions, and thus with the synergistic effects of precipitation strengthening and Orowan strengthening, the ultimate compressive strength and compressibility of Al-Zn-Mg-Cu composite can be increased to 844 MPa and 27.5%, respectively. On the other hand, the addition of Al 2 O 3 nanoceramic particles can bring about the formation of an oxygen-rich phase and refined precipitates at grain boundaries. Accordingly, the elongation is increased to 43.5% while a high ultimate compressive strength in the composites can be maintained. It is anticipated that nanoceramic particle-reinforced Al-based metal composites have significant potential for achieving both high strength and exceptional ductility for the application in the industry field.    
 
     
 

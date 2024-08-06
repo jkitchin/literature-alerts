@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Aug  5 01:13:24 2024
+Created on Tue Aug  6 01:11:45 2024
 
-Found 31 results from 2024-07-29 to 2024-08-05
+Found 32 results from 2024-07-30 to 2024-08-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -652,6 +652,27 @@ No abstract
 OpenAlex: https://openalex.org/W4401285753 (Open access: True)
     
 [[https://openalex.org/A5091542238][Isabelle Cai]], [[https://openalex.org/A5013941438][Thomas C. Malig]], [[https://openalex.org/A5043483014][Kenji L. Kurita]], [[https://openalex.org/A5091569189][Joshua S. Derasp]], [[https://openalex.org/A5058605673][Lauren E. Sirois]], [[https://openalex.org/A5003345103][Jason E. Hein]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03401 
+     
+No abstract    
+
+    
+
+* Proton Transfers at the Water/Solid Interface of α-Al2O3–Supported Ni Clusters under Steam Reforming Conditions: An AIMD Study  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401309074
+:TOPICS: Catalytic Nanomaterials, Electrocatalysis for Energy Conversion, Emergent Phenomena at Oxide Interfaces
+:PUBLICATION_DATE: 2024-08-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02514")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401309074"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401309074"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401309074"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401309074 (Open access: False)
+    
+[[https://openalex.org/A5100307279][Zhu Ling]], [[https://openalex.org/A5080670426][Tingyu Lei]], [[https://openalex.org/A5100644714][Xingchen Liu]], [[https://openalex.org/A5007065150][Xinchun Yang]], [[https://openalex.org/A5100392786][Bin Zhang]], [[https://openalex.org/A5087368338][Haijun Jiao]], [[https://openalex.org/A5103793376][Wenping Guo]], [[https://openalex.org/A5030872083][Botao Teng]], [[https://openalex.org/A5047313833][Xiaodong Wen]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02514 
      
 No abstract    
 

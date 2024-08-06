@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Aug  5 01:13:24 2024
+Created on Tue Aug  6 01:11:45 2024
 
-Found 31 results from 2024-07-29 to 2024-08-05
+Found 32 results from 2024-07-30 to 2024-08-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -342,6 +342,17 @@ OpenAlex: https://openalex.org/W4401285753
 Open access: True
     
 [Isabelle Cai](https://openalex.org/A5091542238), [Thomas C. Malig](https://openalex.org/A5013941438), [Kenji L. Kurita](https://openalex.org/A5043483014), [Joshua S. Derasp](https://openalex.org/A5091569189), [Lauren E. Sirois](https://openalex.org/A5058605673), [Jason E. Hein](https://openalex.org/A5003345103), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03401.
+    
+No abstract    
+
+    
+
+## Proton Transfers at the Water/Solid Interface of α-Al2O3–Supported Ni Clusters under Steam Reforming Conditions: An AIMD Study   
+
+OpenAlex: https://openalex.org/W4401309074    
+Open access: False
+    
+[Zhu Ling](https://openalex.org/A5100307279), [Tingyu Lei](https://openalex.org/A5080670426), [Xingchen Liu](https://openalex.org/A5100644714), [Xinchun Yang](https://openalex.org/A5007065150), [Bin Zhang](https://openalex.org/A5100392786), [Haijun Jiao](https://openalex.org/A5087368338), [Wenping Guo](https://openalex.org/A5103793376), [Botao Teng](https://openalex.org/A5030872083), [Xiaodong Wen](https://openalex.org/A5047313833), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02514.
     
 No abstract    
 

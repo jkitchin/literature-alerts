@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Aug  5 01:13:23 2024
+Created on Tue Aug  6 01:11:43 2024
 
-Found 142 results from 2024-07-29 to 2024-08-05
+Found 146 results from 2024-07-30 to 2024-08-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -889,6 +889,27 @@ We report the use of fluorinated polymer zwitterions to build hybrid systems for
 
     
 
+* Reduction of uncertainties in rice yield response to elevated CO2 by experiment-model integration: A case study in East China  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401314152
+:TOPICS: Adaptation to Climate Change in Agriculture, Impacts of Elevated CO2 and Ozone on Plant Physiology, Rice Water Management and Productivity Enhancement
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cj.2024.06.012")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401314152"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401314152"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401314152"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401314152 (Open access: True)
+    
+[[https://openalex.org/A5026288671][Zihao Wang]], [[https://openalex.org/A5101844896][Zhang Yu]], [[https://openalex.org/A5090515333][Xueni Wang]], [[https://openalex.org/A5014959820][Yanfeng Ding]], [[https://openalex.org/A5036230343][Songhan Wang]], The Crop Journal. None(None)] 2024. https://doi.org/10.1016/j.cj.2024.06.012 
+     
+No abstract    
+
+    
+
 * Copper Electrocatalyst Modified with Pyridinium-Based Ionic Liquids for the Efficient Synthesis of Ethylene Through Electrocatalytic Co2 Reduction Reaction  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401244846
@@ -1185,27 +1206,6 @@ In the backdrop of escalating global vehicle proliferation and the consequent su
 
 * Thin film Ag electrodes fabrication for sustainable and high-efficiency electroreduction of CO2 to CO  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401221971
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Molecular Electronic Devices and Systems, Thermoelectric Materials
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-q7lwd")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401221971"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401221971"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401221971"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401221971 (Open access: False)
-    
-[[https://openalex.org/A5064515574][Domenico Grammatico]], [[https://openalex.org/A5078428552][Janine Lichtenberger]], [[https://openalex.org/A5035468865][Christian M. Pichler]], [[https://openalex.org/A5067497887][Matthias Kogler]], [[https://openalex.org/A5012195289][Théodoros Dimopoulos]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-q7lwd 
-     
-The electroreduction of carbon dioxide (CO2RR) is one of the most promising ways to valorise CO2 as a source of carbon. The development of novel, efficient and scalable catalysts for CO2 electroreduction within electrolysers is still a big challenge. Here, we report the preparation of sustainable, efficient and stable gas diffusion electrodes utilizing Ag as catalyst for the CO2 electroreduction to CO. These cathodic materials are prepared by sputter deposition and subjected to post-deposition modification using dry, reactive processes. The catalyst is uniformly deposited as a thin layer on the porous structure of PTFE minimizing the amount of Ag required. This approach allows for fine tuning of the morphology, chemical composition and loading of Ag and their impact on the CO2RR. These electrodes have been evaluated for the CO2 electroreduction and for electrocatalytic studies in a flow reactor with gas-fed CO2. The optimized electrodes show high activity, with current densities > 20 mA/cm2 at -1,18 V vs. RHE, and faradaic efficiency for CO > 90 %. The stability was tested over periods up to 24 hours showing a significant impact of the post-deposition modification. Higher porosity, roughness and electrochemical surface area have been achieved after the modification. Noteworthy, our approach allows for outstanding performances using a minimal amount of metal, while using the processing advantages of sputtering as an industrial state-of-the-art, high-throughput, and roll-to-roll compatible technique. Moreover, this route enables the deposition of different metals and alloys of tailored composition for the electrocatalytic CO2 reduction beyond CO.    
-
-    
-
-* Thin film Ag electrodes fabrication for sustainable and high-efficiency electroreduction of CO2 to CO  :CO2RR:
-:PROPERTIES:
 :UUID: https://openalex.org/W4401272189
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Molecular Electronic Devices and Systems, Thermoelectric Materials
 :PUBLICATION_DATE: 2024-08-02
@@ -1220,6 +1220,27 @@ The electroreduction of carbon dioxide (CO2RR) is one of the most promising ways
 OpenAlex: https://openalex.org/W4401272189 (Open access: False)
     
 [[https://openalex.org/A5064515574][Domenico Grammatico]], [[https://openalex.org/A5078428552][Janine Lichtenberger]], [[https://openalex.org/A5035468865][Christian M. Pichler]], [[https://openalex.org/A5067497887][Matthias Kogler]], [[https://openalex.org/A5012195289][Théodoros Dimopoulos]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-q7lwd-v2 
+     
+The electroreduction of carbon dioxide (CO2RR) is one of the most promising ways to valorise CO2 as a source of carbon. The development of novel, efficient and scalable catalysts for CO2 electroreduction within electrolysers is still a big challenge. Here, we report the preparation of sustainable, efficient and stable gas diffusion electrodes utilizing Ag as catalyst for the CO2 electroreduction to CO. These cathodic materials are prepared by sputter deposition and subjected to post-deposition modification using dry, reactive processes. The catalyst is uniformly deposited as a thin layer on the porous structure of PTFE minimizing the amount of Ag required. This approach allows for fine tuning of the morphology, chemical composition and loading of Ag and their impact on the CO2RR. These electrodes have been evaluated for the CO2 electroreduction and for electrocatalytic studies in a flow reactor with gas-fed CO2. The optimized electrodes show high activity, with current densities > 20 mA/cm2 at -1,18 V vs. RHE, and faradaic efficiency for CO > 90 %. The stability was tested over periods up to 24 hours showing a significant impact of the post-deposition modification. Higher porosity, roughness and electrochemical surface area have been achieved after the modification. Noteworthy, our approach allows for outstanding performances using a minimal amount of metal, while using the processing advantages of sputtering as an industrial state-of-the-art, high-throughput, and roll-to-roll compatible technique. Moreover, this route enables the deposition of different metals and alloys of tailored composition for the electrocatalytic CO2 reduction beyond CO.    
+
+    
+
+* Thin film Ag electrodes fabrication for sustainable and high-efficiency electroreduction of CO2 to CO  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401221971
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Molecular Electronic Devices and Systems, Thermoelectric Materials
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-q7lwd")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401221971"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401221971"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401221971"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401221971 (Open access: False)
+    
+[[https://openalex.org/A5064515574][Domenico Grammatico]], [[https://openalex.org/A5078428552][Janine Lichtenberger]], [[https://openalex.org/A5035468865][Christian M. Pichler]], [[https://openalex.org/A5067497887][Matthias Kogler]], [[https://openalex.org/A5012195289][Théodoros Dimopoulos]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-q7lwd 
      
 The electroreduction of carbon dioxide (CO2RR) is one of the most promising ways to valorise CO2 as a source of carbon. The development of novel, efficient and scalable catalysts for CO2 electroreduction within electrolysers is still a big challenge. Here, we report the preparation of sustainable, efficient and stable gas diffusion electrodes utilizing Ag as catalyst for the CO2 electroreduction to CO. These cathodic materials are prepared by sputter deposition and subjected to post-deposition modification using dry, reactive processes. The catalyst is uniformly deposited as a thin layer on the porous structure of PTFE minimizing the amount of Ag required. This approach allows for fine tuning of the morphology, chemical composition and loading of Ag and their impact on the CO2RR. These electrodes have been evaluated for the CO2 electroreduction and for electrocatalytic studies in a flow reactor with gas-fed CO2. The optimized electrodes show high activity, with current densities > 20 mA/cm2 at -1,18 V vs. RHE, and faradaic efficiency for CO > 90 %. The stability was tested over periods up to 24 hours showing a significant impact of the post-deposition modification. Higher porosity, roughness and electrochemical surface area have been achieved after the modification. Noteworthy, our approach allows for outstanding performances using a minimal amount of metal, while using the processing advantages of sputtering as an industrial state-of-the-art, high-throughput, and roll-to-roll compatible technique. Moreover, this route enables the deposition of different metals and alloys of tailored composition for the electrocatalytic CO2 reduction beyond CO.    
 
@@ -1393,27 +1414,6 @@ Effective management of asphaltene-paraffin-resin deposits in the installations 
 
     
 
-* Advancing Fast Frequency Response Ancillary Services in Renewable-Heavy Grids: A Global Review of Energy Storage-Based Solutions and Market Dynamics  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401074415
-:TOPICS: Load Frequency Control in Power Systems, Control and Synchronization in Microgrid Systems, Modular Multilevel Converters in HVDC Systems
-:PUBLICATION_DATE: 2024-07-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/en17153737")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401074415"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401074415"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401074415"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401074415 (Open access: True)
-    
-[[https://openalex.org/A5092978785][Gergo Varhegyi]], [[https://openalex.org/A5023520313][Mutasim Nour]], Energies. 17(15)] 2024. https://doi.org/10.3390/en17153737 
-     
-This paper addresses the growing challenges and developments in frequency control within power systems influenced by the increasing penetration of renewable energy sources. It evaluates the advancements and limitations of renewable-based control technologies and explores the critical role of diverse energy storage technologies in providing fast frequency response ancillary services. Through a comprehensive analysis of the global literature, this paper categorises energy storage solutions according to their efficacy in meeting fast frequency response demands and potential for revenue generation. It reveals significant gaps in the current research, which predominantly focuses on battery energy storage systems and microgrid applications, with insufficient attention to grid-scale storage solutions and innovative energy storage technologies. This analysis identifies a lack of detailed technical simulations and hybrid storage models for frequency control, as well as a minimal exploration of the environmental benefits, particularly in terms of carbon dioxide emission reductions, associated with deploying new energy storage technologies in ancillary service markets. The paper concludes by emphasising the urgent need for further research incorporating detailed techno-economic evaluations and the carbon dioxide reduction potential of modular, scalable energy storage technologies, which should be facilitated by advanced network simulation models and comprehensive market analysis to drive future advancements in the field.    
-
-    
-
 * SPAIN’S EUROPEAN POLICY DURING ITS PRESIDENCY OF THE COUNCIL OF THE EU  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401074416
@@ -1432,6 +1432,27 @@ OpenAlex: https://openalex.org/W4401074416 (Open access: False)
 [[https://openalex.org/A5106154233][A.S. SHAHBAZOV]], Sociopolitical sciences. 13(5)] 2023. https://doi.org/10.33693/2223-0092-2023-13-5-72-76 
      
 The article examines the main aspects of the Spain’s European policy as the President of the EU Council. The further course of the Kingdom’s European policy depends on the effectiveness of the Spanish government’s work in the Council in the second half of 2023. In addition to the main topic of the European agenda - geopolitical challenges - such important issues as energy independence and reduction of carbon dioxide emissions, migration, as well as taxation rules were touched upon. In addition, the integration process is discussed in the context of the new expansion policy. The Spanish government will have to balance a neutral position in the Council and the national interests of the country.    
+
+    
+
+* Advancing Fast Frequency Response Ancillary Services in Renewable-Heavy Grids: A Global Review of Energy Storage-Based Solutions and Market Dynamics  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401074415
+:TOPICS: Load Frequency Control in Power Systems, Control and Synchronization in Microgrid Systems, Modular Multilevel Converters in HVDC Systems
+:PUBLICATION_DATE: 2024-07-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/en17153737")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401074415"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401074415"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401074415"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401074415 (Open access: True)
+    
+[[https://openalex.org/A5092978785][Gergo Varhegyi]], [[https://openalex.org/A5023520313][Mutasim Nour]], Energies. 17(15)] 2024. https://doi.org/10.3390/en17153737 
+     
+This paper addresses the growing challenges and developments in frequency control within power systems influenced by the increasing penetration of renewable energy sources. It evaluates the advancements and limitations of renewable-based control technologies and explores the critical role of diverse energy storage technologies in providing fast frequency response ancillary services. Through a comprehensive analysis of the global literature, this paper categorises energy storage solutions according to their efficacy in meeting fast frequency response demands and potential for revenue generation. It reveals significant gaps in the current research, which predominantly focuses on battery energy storage systems and microgrid applications, with insufficient attention to grid-scale storage solutions and innovative energy storage technologies. This analysis identifies a lack of detailed technical simulations and hybrid storage models for frequency control, as well as a minimal exploration of the environmental benefits, particularly in terms of carbon dioxide emission reductions, associated with deploying new energy storage technologies in ancillary service markets. The paper concludes by emphasising the urgent need for further research incorporating detailed techno-economic evaluations and the carbon dioxide reduction potential of modular, scalable energy storage technologies, which should be facilitated by advanced network simulation models and comprehensive market analysis to drive future advancements in the field.    
 
     
 
@@ -1540,27 +1561,6 @@ For often unclear reasons, the survival times of critically buried avalanche vic
 
     
 
-* Potentieller Beitrag der Landwirtschaft zur Verminderung der Treibhausgasemissionen in Deutschland  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401219924
-:TOPICS: European Agricultural Policy and Reform
-:PUBLICATION_DATE: 2006-05-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.52825/gjae.v55i4.1659")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401219924"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401219924"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401219924"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401219924 (Open access: False)
-    
-[[https://openalex.org/A5082411008][Jens Karl Wegener]], [[https://openalex.org/A5037709330][Wolfgang Lücke]], [[https://openalex.org/A5106216616][Jörg Heinzemann]], German Journal of Agricultural Economics. 55(4)] 2006. https://doi.org/10.52825/gjae.v55i4.1659 
-     
-In 2002, the German agricultural sector contributed 8.7 % of the total national green house gas emissions. The main sources were animal digestion, manure management and agricultural soils. From the technical point of view, the manure management has the biggest potential of green house gas reduction by using biogas technology. Thereby methane emission from manure, which otherwise had been emitted into the atmosphere, can be recaptured and used to substitute fossil fuels. Regarding the whole output of manure from cattle and swine in Germany, the emission reduction is 56 Mio. t CO2-equivalent. This amount is equivalent to 4.5% of the emissions in 1990/95 for the Kyoto protocol. Regarding the biomass potential which is technically feasible at the moment, the reduction potential growth to 276 Mio. t CO2-equivalent or 22% of emissions. This is 27.5 times more than the reduction commitment of the German industry for EU-emissions trading in the period from 2005-2012.    
-
-    
-
 * Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401045414
@@ -1579,6 +1579,27 @@ OpenAlex: https://openalex.org/W4401045414 (Open access: True)
 [[https://openalex.org/A5044399467][Jeffrey Dankwa Ampah]], [[https://openalex.org/A5101961986][Chao Jin]], [[https://openalex.org/A5100325566][Haifeng Liu]], [[https://openalex.org/A5065939686][Mingfa Yao]], [[https://openalex.org/A5021147590][Sandylove Afrane]], [[https://openalex.org/A5027923888][Humphrey Adun]], [[https://openalex.org/A5034052350][Jay Fuhrman]], [[https://openalex.org/A5080281932][David T. Ho]], [[https://openalex.org/A5062879289][Haewon McJeon]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-50594-5 
      
 Abstract Existing studies indicate that future global carbon dioxide (CO 2 ) removal (CDR) efforts could largely be concentrated in Asia. However, there is limited understanding of how individual Asian countries and regions will respond to varying and uncertain scales of future CDR concerning their energy-land-water system. We address this gap by modeling various levels of CDR-reliant pathways under climate change ambitions in Asia. We find that high CDR reliance leads to residual fossil fuel and industry emissions of about 8 Gigatonnes CO 2 yr −1 (GtCO 2 yr −1 ) by 2050, compared to less than 1 GtCO 2 yr −1 under moderate-to-low CDR reliance. Moreover, expectations of multi-gigatonne CDR could delay the achievement of domestic net zero CO 2 emissions for several Asian countries and regions, and lead to higher land allocation and fertilizer demand for bioenergy crop cultivation. Here, we show that Asian countries and regions should prioritize emission reduction strategies while capitalizing on the advantages of carbon removal when it is most viable.    
+
+    
+
+* Potentieller Beitrag der Landwirtschaft zur Verminderung der Treibhausgasemissionen in Deutschland  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401219924
+:TOPICS: European Agricultural Policy and Reform
+:PUBLICATION_DATE: 2006-05-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.52825/gjae.v55i4.1659")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401219924"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401219924"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401219924"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401219924 (Open access: False)
+    
+[[https://openalex.org/A5082411008][Jens Karl Wegener]], [[https://openalex.org/A5037709330][Wolfgang Lücke]], [[https://openalex.org/A5106216616][Jörg Heinzemann]], German Journal of Agricultural Economics. 55(4)] 2006. https://doi.org/10.52825/gjae.v55i4.1659 
+     
+In 2002, the German agricultural sector contributed 8.7 % of the total national green house gas emissions. The main sources were animal digestion, manure management and agricultural soils. From the technical point of view, the manure management has the biggest potential of green house gas reduction by using biogas technology. Thereby methane emission from manure, which otherwise had been emitted into the atmosphere, can be recaptured and used to substitute fossil fuels. Regarding the whole output of manure from cattle and swine in Germany, the emission reduction is 56 Mio. t CO2-equivalent. This amount is equivalent to 4.5% of the emissions in 1990/95 for the Kyoto protocol. Regarding the biomass potential which is technically feasible at the moment, the reduction potential growth to 276 Mio. t CO2-equivalent or 22% of emissions. This is 27.5 times more than the reduction commitment of the German industry for EU-emissions trading in the period from 2005-2012.    
 
     
 
@@ -1960,27 +1981,6 @@ Abstract This study focuses on the development and improvement of a new combined
 
     
 
-* The Environmental Consequences of Engine Emissions in Air and Road Transport  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401173147
-:TOPICS: Estimating Vehicle Fuel Consumption and Emissions, Health Effects of Air Pollution, Understanding Attitudes Towards Public Transport and Private Car
-:PUBLICATION_DATE: 2024-07-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/atmos15080903")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401173147"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401173147"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401173147"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401173147 (Open access: True)
-    
-[[https://openalex.org/A5000722770][Kristína Kováčiková]], [[https://openalex.org/A5047063756][Andrej Novák]], [[https://openalex.org/A5091547994][Alena Novák Sedláčková]], [[https://openalex.org/A5038497288][Martina Kováčiková]], Atmosphere. 15(8)] 2024. https://doi.org/10.3390/atmos15080903 
-     
-This study evaluated the environmental consequences of engine emissions from road and air transport on three commonly traveled routes between Berlin and the cities of Frankfurt, Paris, and Barcelona. The focus was on CO2 emissions due to their significant impact on climate change. By collecting and analyzing comprehensive data on vehicle and aircraft emissions, this study aimed to compare the CO2 output of each transport mode under different passenger load scenarios. The findings indicate that air transport is generally more efficient in terms of CO2 emissions per passenger for longer distances. For instance, the CO2 emissions per passenger ranged from 22.6 kg to 79.8 kg for air transport and from 64.7 kg to 220.8 kg for road transport, demonstrating reductions of approximately 65% to 72%. This study underscores the importance of considering both distance and passenger load when evaluating the environmental impact of different transport modes and highlights the need for a multifaceted approach to reducing transport emissions, including technological innovations, policy interventions, and behavioral changes.    
-
-    
-
 * Selection of sheep skin bacteria to reduce blood feeding by biting midges under laboratory conditions  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401219824
@@ -2002,6 +2002,27 @@ Abstract Biting midges of the genus Culicoides (Diptera: Ceratopogonidae) are of
 
     
 
+* The Environmental Consequences of Engine Emissions in Air and Road Transport  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401173147
+:TOPICS: Estimating Vehicle Fuel Consumption and Emissions, Health Effects of Air Pollution, Understanding Attitudes Towards Public Transport and Private Car
+:PUBLICATION_DATE: 2024-07-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/atmos15080903")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401173147"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401173147"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401173147"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401173147 (Open access: True)
+    
+[[https://openalex.org/A5000722770][Kristína Kováčiková]], [[https://openalex.org/A5047063756][Andrej Novák]], [[https://openalex.org/A5091547994][Alena Novák Sedláčková]], [[https://openalex.org/A5038497288][Martina Kováčiková]], Atmosphere. 15(8)] 2024. https://doi.org/10.3390/atmos15080903 
+     
+This study evaluated the environmental consequences of engine emissions from road and air transport on three commonly traveled routes between Berlin and the cities of Frankfurt, Paris, and Barcelona. The focus was on CO2 emissions due to their significant impact on climate change. By collecting and analyzing comprehensive data on vehicle and aircraft emissions, this study aimed to compare the CO2 output of each transport mode under different passenger load scenarios. The findings indicate that air transport is generally more efficient in terms of CO2 emissions per passenger for longer distances. For instance, the CO2 emissions per passenger ranged from 22.6 kg to 79.8 kg for air transport and from 64.7 kg to 220.8 kg for road transport, demonstrating reductions of approximately 65% to 72%. This study underscores the importance of considering both distance and passenger load when evaluating the environmental impact of different transport modes and highlights the need for a multifaceted approach to reducing transport emissions, including technological innovations, policy interventions, and behavioral changes.    
+
+    
+
 * Bridging the Energy Efficiency Gap for Low-Income Households in Charlottesville  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401122767
@@ -2020,6 +2041,27 @@ OpenAlex: https://openalex.org/W4401122767 (Open access: True)
 [[https://openalex.org/A5030428047][Zhigang Xue]], E3S Web of Conferences. 554(None)] 2024. https://doi.org/10.1051/e3sconf/202455401005 
      
 Residential energy usage in Charlottesville, Virginia, accounts for nearly 30% of the city’s greenhouse gas emissions. Without significant changes, Charlottesville is unlikely to meet its goal of reducing emissions by 45% by 2030. Improving residential energy efficiency is key to lowering emissions and reducing energy costs for residents. However, the high upfront cost of these upgrades is unaffordable for over a third of Charlottesville households. As electricity prices rise due to Virginia’s upcoming carbon dioxide cap-and-trade program, low-income households that can’t afford efficiency upgrades will face higher energy bills and greater financial strain. This study explores the feasibility of a residential efficiency financing program designed to improve the affordability and accessibility of energy upgrades for low-income households in Charlottesville. Through a detailed benefit-cost analysis, various policy alternatives, including On-Bill Financing, Revolving Loan Fund, and Loan Loss Reserve, were evaluated for their effectiveness, equity, and implementation feasibility. The recommended option, On-Bill Financing, would allow Charlottesville Gas to cover the upfront costs of energy efficiency upgrades. Customers would repay the investment over time through their gas bills, thereby enjoying immediate reductions in energy consumption and costs. This policy would fairly enhance residential energy efficiency and provide critical financial assistance to households that otherwise couldn’t afford these upgrades.    
+
+    
+
+* Integrated processes (HPSE+scCO2) to prepare sterilized alginate-gelatine-based aerogel  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401262440
+:TOPICS: Chemistry and Applications of Aerogels, Electrospun Nanofibers in Biomedical Applications, 3D Bioprinting Technology
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijpharm.2024.124546")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401262440"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401262440"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401262440"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401262440 (Open access: True)
+    
+[[https://openalex.org/A5016736595][Cristiana S.A. Bento]], [[https://openalex.org/A5067214799][Dhara Leite Lopes]], [[https://openalex.org/A5043072126][Cristiane Flora Villarreal]], [[https://openalex.org/A5031533778][Nuno Empadinhas]], [[https://openalex.org/A5085827103][Susana Alarico]], [[https://openalex.org/A5087018197][Hermínio C. de Sousa]], [[https://openalex.org/A5078738556][Mara E.M. Braga]], International Journal of Pharmaceutics. None(None)] 2024. https://doi.org/10.1016/j.ijpharm.2024.124546 
+     
+Biopolymers application in biomedical areas has been limited due to the physicochemical degradation that occurs using conventional processing/sterilization methods (e.g., steam heat, γ-radiation, ethylene oxide). Aiming to avoid/minimize degradation and preserve their properties, supercritical carbon dioxide (scCO2) has been proposed as an alternative sterilization method for such materials. ScCO2 can simultaneously be used as a drying method to produce aerogels (i) and sterilize them (ii). However, a solvent exchange is required to prepare the alcogel from hydrogel, achievable through high-pressure solvent exchange (HPSE) (iii). This study integrated three processes: HPSE, scCO2 drying, and sterilization to prepare alginate-gelatine sterilized aerogels. Two scCO2 sterilization methods were tested. Results showed that sterilization did not compromise the aerogels' chemical, thermal and swelling properties. Conversely, Young's Modulus increased, and BET surface area decreased, due to the structural changes caused by the fast pressurization/depressurization rates applied during sterilization. Regarding the sterilization efficiency, results showed a reduction in contamination throughout the process, achieving a SAL of 10-4. The sterilized aerogels were non-cytotoxic in vitro and showed improved wound-healing properties. The innovative integrated process produced decontaminated/sterile and ready-to-use aerogels reducing process time by 75 %, from 2 days up to 12 h without compromising the aerogel's properties.    
 
     
 
@@ -2104,6 +2146,27 @@ OpenAlex: https://openalex.org/W4401157535 (Open access: True)
 [[https://openalex.org/A5106014739][Tamanna Zafrin Orin]], [[https://openalex.org/A5013071299][Md Tauhidur Rahman]], [[https://openalex.org/A5008989015][Mohammad Amirul Islam]], [[https://openalex.org/A5100830173][Khurshed Alam]], [[https://openalex.org/A5106210992][A.S.M. Mannafi]], [[https://openalex.org/A5062908658][Khairul Habib]], Journal of Advanced Research in Applied Sciences and Engineering Technology. 49(1)] 2024. https://doi.org/10.37934/araset.49.1.149160  ([[https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/article/download/6019/5431][pdf]])
      
 Primary recovery techniques of hydrocarbons are insufficient to meet the ever-growing energy demand. This fact encourages researchers to establish tertiary hydrocarbon extraction techniques to increase production and meet the energy demand. The implementation of CO2 flooding has been widely regarded as a highly favourable approach for enhancing the recovery of both light and heavy oil resources. The rate of CO2 injection must be consistent so that viscosity decreases, and medium crude oil mobility is increased in accordance with production requirements. In this research, the compositional simulation model for CO2 flooding has been developed using Eclipse 2010.1 software with Lorentz-Bray-Clark correlation for enhanced oil recovery by reducing viscosity with constant CO2 injection. The compositional reservoir simulated model was executed from January 1, 2027 to January 1, 2050. From January 1, 2027 to January 1, 2048, the oil production rate remained constant. The concentration of CO2 in the oil phase has exhibited a notable increase, rising from 27.25% to 58.658% over the course of the twenty-three-year simulation period. This observation indicates that the oil phase has experienced a greater dissolution of CO2. Consequently, there has been a reduction in the viscosity of the reservoir oil, with a decrease from 0.126 centipoise (cp) to 0.088 cp, representing a 69.84 percent decline. Additionally, there has been an increase in the mobility of the reservoir oil. Furthermore, the enhanced oil recovery technique successfully achieved the recovery of 35.77 million stock tank barrels per day of medium crude oil. Finally, CO2 flooding reduces the amount of CO2 in nature, which is extremely significant from an environmental standpoint.    
+
+    
+
+* Reducerea impactului negativ al CO2 asupra mediului și promovarea unui model sustenabil de activitate  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401313551
+:TOPICS: Life Cycle Assessment and Environmental Impact Analysis
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.53486/sstc.v3.36")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401313551"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401313551"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401313551"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401313551 (Open access: False)
+    
+[[https://openalex.org/A5106279242][Mădălina Tonu]], No host. None(None)] 2024. https://doi.org/10.53486/sstc.v3.36 
+     
+In recent years, issues related to climate change and the negative impact of greenhouse gas emissions on the environment have become increasingly acute, attracting the attention of governments, non-governmental organizations, and the international community as a whole. Now more than ever, the development of sustainable models of activity is necessary to reduce the negative impact of CO2 on the environment and to promote sustainable development. Transport is one of the biggest polluters and We think that we can change it. Reducing transport emissions can significantly contribute to achieving greenhouse gas reduction targets. In this regard, public transportation is much more energy-efficient than individual cars and can significantly reduce CO2 emissions. Additionally, promoting the use of eco-friendly modes of transportation, such as bicycles or electric vehicles, can also contribute to reducing transport emissions. Promoting sustainable transport can be an effective solution to reducing the negative impact of CO2 on the environment and creating a sustainable model of activity. If we want a better life for us and our future generations, we must know and promote a policy that will reduce the emissions of CO2 and will transform our planet into a better place.    
 
     
 
@@ -2338,27 +2401,6 @@ Background: Indonesia is still an energy importer, especially in the form of cru
 
     
 
-* NH2-MIL-125 Nanosheets Prepared via Crystallization Kinetics Modulation for Ultrathin Membrane Fabrication  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401093599
-:TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Membrane Gas Separation Technology, Novel Methods for Cesium Removal from Wastewater
-:PUBLICATION_DATE: 2024-07-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/cbe.4c00103")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401093599"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401093599"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401093599"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401093599 (Open access: True)
-    
-[[https://openalex.org/A5101060593][Yanwei Sun]], [[https://openalex.org/A5048301114][Jiahui Yan]], [[https://openalex.org/A5007514279][Mingming Wu]], [[https://openalex.org/A5043074429][Jie Jiang]], [[https://openalex.org/A5100730678][Yi Liu]], Chem & Bio Engineering. None(None)] 2024. https://doi.org/10.1021/cbe.4c00103 
-     
-Regulating both crystallographic orientation and thickness of titanium metal–organic framework (Ti-MOF) membranes remains a significant challenge. In this study, we pioneered the fabrication of uniform 29 nm thick NH2-MIL-125 nanosheet seeds by employing crystallization kinetics modulation approach. Through innovating confined counter-diffusion-assisted epitaxial growth under single-mode microwave heating, a highly c-oriented 80 nm thick NH2-MIL-125 membrane was prepared. Significant reduction in thickness endowed the membrane with unprecedented H2 permeance (1350 GPU) along with considerable H2/CO2 selectivity (19.1), exceeding the performance benchmarks of state-of-the-art NH2-MIL-125 membranes.    
-
-    
-
 * Economic Analysis of a Hybrid Energy System for Rural Electrification for the Hasik Area, Oman  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401163958
@@ -2377,6 +2419,27 @@ OpenAlex: https://openalex.org/W4401163958 (Open access: False)
 [[https://openalex.org/A5007087804][Abdullah Al‐Badi]], [[https://openalex.org/A5018079959][Ahmed Al-Farsi]], [[https://openalex.org/A5090684914][Tariq Al-Abri]], [[https://openalex.org/A5075817975][Mohammed Al-Mamari]], No host. 48(2)] 2023. https://doi.org/10.56476/jed.v48i2.7 
      
 Renewable energy resources have become the best way to solve the issues created by traditional power resources in terms of environmental effects, energy cost reduction, and high-power demand. The hybrid-based system gives a realistic economic solution where grid extension is non-feasible especially for remote areas. The main objective of this study is to determine the optimum size of a hybrid-based system to fulfill the requirements of remote sites located in the Hasik area in the southern part of Oman. The work is carried out using HOMER Pro and MATLAB software. The proposed hybrid system in the Hasik network is a combination of PV systems with existing diesel generation. Real load data as well as solar radiations were utilized in the proposed model. HOMER selected an optimum solution for the hybrid system resulting in a combination of a 2,500 kW PV system and 3,100 kW diesel generation as well as providing a reduction in the cost of energy and CO2 emissions by 13% and 22%, respectively. The optimum PV sizing for the hybrid system was determined using a genetic algorithm tool in MATLAB. The optimization was based on reducing the system power losses, improving the voltage profile, and minimizing cost. Optimization verification was done using load flow analysis by MATLAB to determine the PV sizing effects on the system power losses and voltage profile. Based on the model results, the hybrid system is feasible in the Hasik area.    
+
+    
+
+* NH2-MIL-125 Nanosheets Prepared via Crystallization Kinetics Modulation for Ultrathin Membrane Fabrication  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401093599
+:TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Membrane Gas Separation Technology, Novel Methods for Cesium Removal from Wastewater
+:PUBLICATION_DATE: 2024-07-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/cbe.4c00103")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401093599"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401093599"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401093599"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401093599 (Open access: True)
+    
+[[https://openalex.org/A5101060593][Yanwei Sun]], [[https://openalex.org/A5048301114][Jiahui Yan]], [[https://openalex.org/A5007514279][Mingming Wu]], [[https://openalex.org/A5043074429][Jie Jiang]], [[https://openalex.org/A5100730678][Yi Liu]], Chem & Bio Engineering. None(None)] 2024. https://doi.org/10.1021/cbe.4c00103 
+     
+Regulating both crystallographic orientation and thickness of titanium metal–organic framework (Ti-MOF) membranes remains a significant challenge. In this study, we pioneered the fabrication of uniform 29 nm thick NH2-MIL-125 nanosheet seeds by employing crystallization kinetics modulation approach. Through innovating confined counter-diffusion-assisted epitaxial growth under single-mode microwave heating, a highly c-oriented 80 nm thick NH2-MIL-125 membrane was prepared. Significant reduction in thickness endowed the membrane with unprecedented H2 permeance (1350 GPU) along with considerable H2/CO2 selectivity (19.1), exceeding the performance benchmarks of state-of-the-art NH2-MIL-125 membranes.    
 
     
 
@@ -2779,27 +2842,6 @@ Reducing children’s exposure to air pollution is a priority among California c
 
     
 
-* Changes in the Properties of Green Concrete Due to an Acidic Environment  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401300351
-:TOPICS: Synthesis and Applications of Sulfur Nanoparticles
-:PUBLICATION_DATE: 2024-07-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.18517/ijaseit.14.4.17495")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401300351"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401300351"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401300351"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401300351 (Open access: False)
-    
-[[https://openalex.org/A5003170491][Irma Aswani Ahmad]], [[https://openalex.org/A5019285887][Noor Fadilah Romadhani]], [[https://openalex.org/A5029118170][Muhammad Idhil Maming]], International Journal on Advanced Science Engineering and Information Technology. 14(4)] 2024. https://doi.org/10.18517/ijaseit.14.4.17495 
-     
-The problem in this research is the negative environmental impact of cement production and the decrease in concrete durability due to acid rain. This research aims to create an equation for the relationship between concrete's mechanical properties and the concrete's age in an acidic environment. This equation is used to predict the quality of green concrete produced according to the mix design and to measure the reduction in strength of green concrete in an acidic environment. The method used is experimental research with wet-dry acid rain simulations (a mixture of sulfuric acid and nitric acid solutions) in the laboratory using rice husk ash (RHA) as a cement substitute. This research uses 5% and 10% of RHA variations of cement weight and immersion in pH3 and pH4 acid solutions. The results showed that adding 5% RHA increased the compressive and flexural strength of concrete, both in normal and acidic environments, with a significant increase in concrete life up to 120 days. However, the addition of 10% RHA showed decreased performance in acidic environments, although it still provided benefits under normal conditions. The potential environmental and sustainability benefits of using RHA as a cement substitute are significant, as it can reduce CO2 emissions, overcome waste disposal problems, and increase the durability of green concrete in acidic environments. This finding provides an environmentally friendly and sustainable solution for the construction industry, especially in areas vulnerable to acidic environments (acid rain).    
-
-    
-
 * LCA Operational Carbon Reduction Based on Energy Strategies Analysis in a Mass Timber Building  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401219155
@@ -2821,6 +2863,27 @@ Buildings play a significant role in the rise of energy consumption and carbon e
 
     
 
+* Changes in the Properties of Green Concrete Due to an Acidic Environment  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401300351
+:TOPICS: Synthesis and Applications of Sulfur Nanoparticles
+:PUBLICATION_DATE: 2024-07-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.18517/ijaseit.14.4.17495")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401300351"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401300351"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401300351"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401300351 (Open access: False)
+    
+[[https://openalex.org/A5003170491][Irma Aswani Ahmad]], [[https://openalex.org/A5019285887][Noor Fadilah Romadhani]], [[https://openalex.org/A5029118170][Muhammad Idhil Maming]], International Journal on Advanced Science Engineering and Information Technology. 14(4)] 2024. https://doi.org/10.18517/ijaseit.14.4.17495 
+     
+The problem in this research is the negative environmental impact of cement production and the decrease in concrete durability due to acid rain. This research aims to create an equation for the relationship between concrete's mechanical properties and the concrete's age in an acidic environment. This equation is used to predict the quality of green concrete produced according to the mix design and to measure the reduction in strength of green concrete in an acidic environment. The method used is experimental research with wet-dry acid rain simulations (a mixture of sulfuric acid and nitric acid solutions) in the laboratory using rice husk ash (RHA) as a cement substitute. This research uses 5% and 10% of RHA variations of cement weight and immersion in pH3 and pH4 acid solutions. The results showed that adding 5% RHA increased the compressive and flexural strength of concrete, both in normal and acidic environments, with a significant increase in concrete life up to 120 days. However, the addition of 10% RHA showed decreased performance in acidic environments, although it still provided benefits under normal conditions. The potential environmental and sustainability benefits of using RHA as a cement substitute are significant, as it can reduce CO2 emissions, overcome waste disposal problems, and increase the durability of green concrete in acidic environments. This finding provides an environmentally friendly and sustainable solution for the construction industry, especially in areas vulnerable to acidic environments (acid rain).    
+
+    
+
 * Applications of the Microalgae Chlamydomonas and Its Bacterial Consortia in Detoxification and Bioproduction  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401211738
@@ -2839,6 +2902,27 @@ OpenAlex: https://openalex.org/W4401211738 (Open access: True)
 [[https://openalex.org/A5066389149][María J. Torres]], [[https://openalex.org/A5008909769][Carmen M. Bellido-Pedraza]], [[https://openalex.org/A5002602530][Ángel Llamas]], Life. 14(8)] 2024. https://doi.org/10.3390/life14080940 
      
 The wide metabolic diversity of microalgae, their fast growth rates, and low-cost production make these organisms highly promising resources for a variety of biotechnological applications, addressing critical needs in industry, agriculture, and medicine. The use of microalgae in consortia with bacteria is proving valuable in several areas of biotechnology, including the treatment of various types of wastewater, the production of biofertilizers, and the extraction of various products from their biomass. The monoculture of the microalga Chlamydomonas has been a prominent research model for many years and has been extensively used in the study of photosynthesis, sulphur and phosphorus metabolism, nitrogen metabolism, respiration, and flagellar synthesis, among others. Recent research has increasingly recognised the potential of Chlamydomonas–bacteria consortia as a biotechnological tool for various applications. The detoxification of wastewater using Chlamydomonas and its bacterial consortia offers significant potential for sustainable reduction of contaminants, while facilitating resource recovery and the valorisation of microalgal biomass. The use of Chlamydomonas and its bacterial consortia as biofertilizers can offer several benefits, such as increasing crop yields, protecting crops, maintaining soil fertility and stability, contributing to CO2 mitigation, and contributing to sustainable agricultural practises. Chlamydomonas–bacterial consortia play an important role in the production of high-value products, particularly in the production of biofuels and the enhancement of H2 production. This review aims to provide a comprehensive understanding of the potential of Chlamydomonas monoculture and its bacterial consortia to identify current applications and to propose new research and development directions to maximise their potential.    
+
+    
+
+* Investigation of modal integration for transit-access trips in motorcycle dependent cities—The case study of Hanoi, Vietnam  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401317410
+:TOPICS: Understanding Attitudes Towards Public Transport and Private Car, Influence of Built Environment on Active Travel, Modeling and Control of Traffic Flow Systems
+:PUBLICATION_DATE: 2024-08-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.24294/jipd.v8i8.5351")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401317410"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401317410"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401317410"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401317410 (Open access: True)
+    
+[[https://openalex.org/A5004213833][Khuat Viet Hung]], [[https://openalex.org/A5101839978][An Minh Ngoc]], [[https://openalex.org/A5106281438][Hoang Huu Thanh]], Journal of Infrastructure Policy and Development. 8(8)] 2024. https://doi.org/10.24294/jipd.v8i8.5351 
+     
+Micro-mobility has the potential to address first -mile challenges, improving transit accessibility and encouraging public transit usage. However, users’ acceptability of modal integration between various micro-mobility options and public transit remains largely unexplored in the literature. Our study investigates the user behavior for first-mile options, focusing on four alternatives: walking, bicycling, motorcycling, and bus, to access urban mass rapid transit (UMRT) in Hanoi, Vietnam. Based on data collected from 1380 individuals, a Nested Logit Model (NLM) was proposed to analyze the determinants of users’ acceptability under each access mode option as well as evaluate further impacts of shifts in access mode choice on vehicle-kilometer traveled and emissions. The analysis shows that the availability of access modes might increase UMRT use by 47.83%. While this increase further generates additional vehicle-kilometer traveled due to the increase in park-and-ride users, this is offset overall by the large number of motorcycle users shifting to UMRT. Under the most optimistic scenario, modal integration for transit-access trips leads to an average reduction of 17.7% in net vehicle-kilometer traveled or 14.5% in net CO2 emissions or 10.9% in NOx from private vehicles. Our findings also imply that the introduction of parking fees for bicycling- or motorcycling-access trips, while impactful, does not significantly change UMRT choice. Therefore, the pricing schemes should be a focus of parking planning surrounding stations. Finally, a number of policy suggestions for parking planning and first-mile vehicles are presented.    
 
     
 

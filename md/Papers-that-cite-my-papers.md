@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Aug  5 01:13:34 2024
+Created on Tue Aug  6 01:11:59 2024
 
-Found 56 results from 2024-07-29 to 2024-08-05
+Found 57 results from 2024-07-30 to 2024-08-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -608,6 +608,17 @@ Open access: False
 [Zahra Almisbaa](https://openalex.org/A5091956320), [Philippe Sautet](https://openalex.org/A5025258970), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.07.050.
     
 No abstract    
+
+    
+
+## Magnetic order in the computational 2D materials database (C2DB) from high throughput spin spiral calculations   
+
+OpenAlex: https://openalex.org/W4401315005    
+Open access: True
+    
+[Joachim Sødequist](https://openalex.org/A5019722836), [Thomas Olsen](https://openalex.org/A5025812655), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01318-2.
+    
+Abstract We report high throughput computational screening for magnetic ground state order in 2D materials. The workflow is based on spin spiral calculations and yields the magnetic order in terms of a two-dimensional ordering vector Q . We then include spin-orbit coupling to extract the easy and hard axes for collinear structures and the orientation of spiral planes in non-collinear structures. Finally, for all predicted ferromagnets we compute the Dzyaloshinskii-Moriya interactions and determine whether or not these are strong enough to overcome the magnetic anisotropy and stabilise a chiral spin spiral ground state. We find 58 ferromagnets, 21 collinear anti-ferromagnets, and 85 non-collinear ground states of which 15 are chiral spin spirals driven by Dzyaloshinskii-Moriya interactions. The results show that non-collinear order is in fact as common as collinear order in these materials and emphasise the need for detailed investigation of the magnetic ground state when reporting magnetic properties of new materials.    
 
     
 
