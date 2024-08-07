@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Aug  6 01:11:59 2024
+Created on Wed Aug  7 01:12:37 2024
 
-Found 57 results from 2024-07-30 to 2024-08-06
+Found 58 results from 2024-07-31 to 2024-08-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -607,7 +607,7 @@ Open access: False
     
 [Zahra Almisbaa](https://openalex.org/A5091956320), [Philippe Sautet](https://openalex.org/A5025258970), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.07.050.
     
-No abstract    
+Ammonia decomposition is a key reaction in the context of hydrogen storage, transport, and release. This study combines density functional theory (DFT) calculations with microkinetic modeling to address the promotion mechanism of Ba species for ammonia decomposition on Co catalysts. The modified adsorption properties of Co upon the addition of metallic Ba or BaO suggest that the promoters play a role in alleviating the competitive adsorption of H. Calculating the full reaction pathway of ammonia decomposition shows that limiting the investigation to the N–N association step, as done previously, overlooks the effect of the promoter on the energy barriers of the NHx dehydrogenation steps. Challenges of modeling the ammonia decomposition reaction are addressed by understanding that the NH2 intermediate is stabilized on the step sites rather than the terrace sites. When the effect of H-coverage on the adsorption of NH3 is not considered in the microkinetic simulations, the results conflict with the experiments. However, accounting for the effect of H-coverage, as performed here, shows that BaO-doped Co has higher rates than pristine Co and Ba-doped Co at the reaction temperature of 723.15 K. When H is adsorbed on the Ba-doped Co, the adsorption of ammonia becomes significantly endergonic, which makes the rates relatively slow. The superiority of the BaO-promoted catalyst is attributed to a lower energy for the transition state of the rate-determining step, coupled with a reduced impact of the hydrogen coverage on weakening the ammonia adsorption. The kinetic analysis of the influence of Ba and BaO on the Co surface shows that BaO-doped Co aligns more closely with experimental observations than Ba-doped Co. This implies that Ba on the Co surface is likely to be in an oxide form under reaction conditions. Understanding the kinetics of the ammonia decomposition reaction provides a foundation for developing highly effective catalysts to accelerate the industrial utilization of ammonia as a sustainable hydrogen carrier.    
 
     
 
@@ -619,6 +619,17 @@ Open access: True
 [Joachim Sødequist](https://openalex.org/A5019722836), [Thomas Olsen](https://openalex.org/A5025812655), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01318-2.
     
 Abstract We report high throughput computational screening for magnetic ground state order in 2D materials. The workflow is based on spin spiral calculations and yields the magnetic order in terms of a two-dimensional ordering vector Q . We then include spin-orbit coupling to extract the easy and hard axes for collinear structures and the orientation of spiral planes in non-collinear structures. Finally, for all predicted ferromagnets we compute the Dzyaloshinskii-Moriya interactions and determine whether or not these are strong enough to overcome the magnetic anisotropy and stabilise a chiral spin spiral ground state. We find 58 ferromagnets, 21 collinear anti-ferromagnets, and 85 non-collinear ground states of which 15 are chiral spin spirals driven by Dzyaloshinskii-Moriya interactions. The results show that non-collinear order is in fact as common as collinear order in these materials and emphasise the need for detailed investigation of the magnetic ground state when reporting magnetic properties of new materials.    
+
+    
+
+## Spglib: a software library for crystal symmetry search   
+
+OpenAlex: https://openalex.org/W4401339223    
+Open access: True
+    
+[Atsushi Togo](https://openalex.org/A5057622973), [K. Shinohara](https://openalex.org/A5061893393), [Isao Tanaka](https://openalex.org/A5042843695), Science and Technology of Advanced Materials Methods. None(None)] 2024.https://doi.org/10.1080/27660400.2024.2384822.
+    
+No abstract    
 
     
 

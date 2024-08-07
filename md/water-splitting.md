@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Tue Aug  6 01:11:36 2024
+Created on Wed Aug  7 01:12:21 2024
 
-Found 139 results from 2024-07-30 to 2024-08-06
+Found 140 results from 2024-07-31 to 2024-08-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -78,7 +78,7 @@ No abstract
 OpenAlex: https://openalex.org/W4401064146    
 Open access: False
     
-[Huawei Huang](https://openalex.org/A5064586018), [Liangliang Xu](https://openalex.org/A5101978721), [Shouwei Zuo](https://openalex.org/A5033564313), [Song Lu](https://openalex.org/A5012289270), [Chen Zou](https://openalex.org/A5101864882), [Max Garcı́a-Melchor](https://openalex.org/A5049133522), [Yang Li](https://openalex.org/A5100421631), [Yuxun Ren](https://openalex.org/A5103242510), [Magnus Rueping](https://openalex.org/A5071153001), [Huabin Zhang](https://openalex.org/A5019144758), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202405128.
+[Huawei Huang](https://openalex.org/A5064586018), [Liangliang Xu](https://openalex.org/A5101978721), [Shouwei Zuo](https://openalex.org/A5033564313), [Song Lu](https://openalex.org/A5012289270), [Chen Zou](https://openalex.org/A5101864882), [Max García‐Melchor](https://openalex.org/A5049133522), [Yang Li](https://openalex.org/A5100421631), [Yuxun Ren](https://openalex.org/A5103242510), [Magnus Rueping](https://openalex.org/A5071153001), [Huabin Zhang](https://openalex.org/A5019144758), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202405128.
     
 Abstract In alkaline water electrolysis and anion exchange membrane water electrolysis technologies, the hydrogen evolution reaction (HER) at the cathode is significantly constrained by a high energy barrier during the water dissociation step. This study employs a phase engineering strategy to construct heterostructures composed of crystalline Ni 4 W and amorphous WO x aiming to enhance catalytic performance in the HER under alkaline conditions. This work systematically modulates the oxidation states of W within the amorphous WO x of the heterostructure to adjust the electronic states of the phase boundary, the energy barriers associated with the water dissociation step, and the adsorption/desorption properties of intermediates during the alkaline HER process. The optimized catalyst, Ni 4 W/WO x ‐2, with a quasi‐metallic state of W coordinated by a low oxygen content in amorphous WO x , demonstrates exceptional catalytic performance (22 mV@10 mA cm −2 ), outperforming commercial Pt/C (30 mV@10 mA cm −2 ). Furthermore, the operando X‐ray absorption spectroscopy analysis and theoretical calculations reveal that the optimized W atoms in amorphous WO x serve as active sites for water dissociation and the nearby Ni atoms in crystalline Ni 4 W facilitated the release of H 2 . These findings provide valuable insights into designing efficient heterostructured materials for energy conversion.    
 
@@ -755,6 +755,17 @@ No abstract
 
     
 
+## Review on chemisorbed oxyanions on electrocatalysts for efficient oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4401344088    
+Open access: False
+    
+[Han-Ming Zhang](https://openalex.org/A5030069686), Nano Energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.110089.
+    
+No abstract    
+
+    
+
 ## Impact of Organic Anions on Metal Hydroxide Oxygen Evolution Catalysts   
 
 OpenAlex: https://openalex.org/W4401074450    
@@ -887,17 +898,6 @@ Electrocatalytic hydrogen evolution via water splitting occurs at the electrode 
 
     
 
-## The ultrafast reconfigurability and ultrahigh durability of NiFe phosphides electrocatalyst with a Fe-rich surface induced by in-situ acid corrosion for water oxidations   
-
-OpenAlex: https://openalex.org/W4401173936    
-Open access: False
-    
-[Min Jiang](https://openalex.org/A5100659026), [Jiaming Zhang](https://openalex.org/A5100453779), [Hanxiao Liao](https://openalex.org/A5050871189), [Huanhuan Zhai](https://openalex.org/A5026581920), [Xuanzhi Liu](https://openalex.org/A5007629234), [Pengfei Tan](https://openalex.org/A5101497824), [Yi‐Yang Sun](https://openalex.org/A5088539022), [Yongjin Ma](https://openalex.org/A5102791559), Inorganic Chemistry Frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi01378f.
-    
-NiFe based catalysts are expected to replace commercially available noble metal-based electrocatalysts for oxygen evolution reaction (OER) due to their reconfigurability into high performance NiFe oxyhydroxides from their phosphides. However,...    
-
-    
-
 ## Suppressing Product Crossover and C-C Bond Cleavage in a Glycerol Membrane Electrode Assembly Reformer   
 
 OpenAlex: https://openalex.org/W4401234420    
@@ -906,6 +906,17 @@ Open access: False
 [Chencheng Dai](https://openalex.org/A5017680037), [Qian Wu](https://openalex.org/A5060985978), [Tianze Wu](https://openalex.org/A5103137050), [Shouxin Zhang](https://openalex.org/A5101742243), [Libo Sun](https://openalex.org/A5048054881), [Xiaogang Wang](https://openalex.org/A5100444820), [Adrian C. Fisher](https://openalex.org/A5057145033), [Zhichuan J. Xu](https://openalex.org/A5034440449), Energy & Environmental Science. None(None)] 2024.https://doi.org/10.1039/d4ee01824a.
     
 Generating hydrogen through water electrolysis is impeded by high costs and substantial energy consumption mainly due to high equilibrium potential and sluggish kinetics of the oxygen evolution reaction (OER). Glycerol...    
+
+    
+
+## The ultrafast reconfigurability and ultrahigh durability of NiFe phosphides electrocatalyst with a Fe-rich surface induced by in-situ acid corrosion for water oxidations   
+
+OpenAlex: https://openalex.org/W4401173936    
+Open access: False
+    
+[Min Jiang](https://openalex.org/A5100659026), [Jiaming Zhang](https://openalex.org/A5100453779), [Hanxiao Liao](https://openalex.org/A5050871189), [Huanhuan Zhai](https://openalex.org/A5026581920), [Xuanzhi Liu](https://openalex.org/A5007629234), [Pengfei Tan](https://openalex.org/A5101497824), [Yi‐Yang Sun](https://openalex.org/A5088539022), [Yongjin Ma](https://openalex.org/A5102791559), Inorganic Chemistry Frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi01378f.
+    
+NiFe based catalysts are expected to replace commercially available noble metal-based electrocatalysts for oxygen evolution reaction (OER) due to their reconfigurability into high performance NiFe oxyhydroxides from their phosphides. However,...    
 
     
 
@@ -1251,17 +1262,6 @@ Metal-poor massive stars drive the evolution of low-mass galaxies, both locally 
 
     
 
-## Exploring the mechanisms of Devonian oceanic anoxia: impact of ocean dynamics, palaeogeography and orbital forcing   
-
-OpenAlex: https://openalex.org/W4401225082    
-Open access: True
-    
-[Justin Gérard](https://openalex.org/A5012858588), [Loïc Sablon](https://openalex.org/A5089047693), [Jarno J. C. Huygh](https://openalex.org/A5094140266), [Anne‐Christine Da Silva](https://openalex.org/A5011112009), [Alexandre Pohl](https://openalex.org/A5060357851), [Christian Vérard](https://openalex.org/A5081234776), [Michel Crucifix](https://openalex.org/A5091655942), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-1983.
-    
-Abstract. The Devonian is a warmer-than-present geological period spanning from 419 to 359 million years ago (Ma) characterized by multiple identified ocean anoxic/hypoxic events. Despite decades of extensive investigation, no consensus has been reached regarding the drivers of these anoxic events. While growing geological evidence has demonstrated a temporal correlation between astronomical forcing and anoxia during this period, underlying physical mechanisms remain unknown, hence questioning causality. Here, we perform multiple sensitivity experiments, using an Earth system model of intermediate complexity (cGENIE), to isolate the influences of specific Devonian climate and palaeogeography components on ocean oxygen levels, contributing to the better understanding of the intricate interplay of factors preconditioning the ocean to anoxia. We quantify the impact of continental configuration, ocean-atmosphere biogeochemistry (global mean oceanic PO4 concentration and atmospheric pO2), climatic forcing (pCO2) and astronomical forcing on background oceanic circulation and oxygenation during the Devonian. Our results indicate that continental configuration is crucial for Devonian ocean anoxia, significantly influencing ocean circulation and oxygen levels while consistently modulating the effects of other Devonian climate components such as oceanic PO4 concentration, atmospheric pO2 and pCO2, and orbital forcing. The evolution of continental configuration provides a plausible explanation for the increased frequency of ocean anoxic events identified during the Middle and Late Devonian periods, as it contributed to the expansion of oxygen-depleted zones. Our simulations also show that both the decreased atmospheric pO2 and increased oceanic PO2 concentration exacerbate ocean anoxia, consistent with established knowledge. The variation of pCO2 reveals a wide range of ocean dynamics patterns, including stable oscillations, multiple convection cells, multistability and hysteresis; all leading to significant variations of the ocean oxygen levels, therefore strongly impacting the preconditioning of the ocean to anoxia. Furthermore, multistability and important hysteresis (particularly slow ocean time response) offer different mechanisms to account for the prolonged duration of some ocean anoxic events. Finally, we found that astronomical forcing substantially impacts ocean anoxia by altering ocean circulation and oxygen solubility, with obliquity consistently emerging as the primary orbital parameter driving ocean oxygen variations.    
-
-    
-
 ## Magnetite geochemistry of giant alkalic-type epithermal gold deposits: Insights into the magmatic evolution of mineralized alkaline systems   
 
 OpenAlex: https://openalex.org/W4401134345    
@@ -1270,6 +1270,17 @@ Open access: True
 [Michaël Schirra](https://openalex.org/A5078715064), [Zoltán Zajacz](https://openalex.org/A5020642779), [Daniel Müller](https://openalex.org/A5016902693), Geological Society London Special Publications. 551(1)] 2024.https://doi.org/10.1144/sp551-2024-57.
     
 Magnetite, a common mineral in alkaline magmatic complexes hosting giant epithermal Au deposits, is examined to obtain insights into the magmatic evolution and ore fertility of alkaline systems. Textural and compositional analyses of magmatic magnetite from Cripple Creek, USA, and Lihir Island, Papua New Guinea, reveal distinct magma sources and evolution paths. High HFSE concentrations and high La/Yb ratios in magnetite from Cripple Creek suggest relatively low-degree partial melting of lithospheric and asthenospheric mantle sources, whereas magnetite from Lihir Island indicates higher degree partial melting from subduction-modified mantle. Chromium concentrations track magma evolution, while V systematics record decreasing oxygen fugacity with magma differentiation. Sulfide saturation is observed at Cripple Creek, potentially affecting ore fertility. Magnetite itself bears the capability to scavenge Au from melts as indicated by Au concentrations of up to 40 ng/g. This might point towards elevated Au concentrations in the parental magmas, although experimental data on Au partitioning is lacking. Magnetite compositions overlap across different mineralization styles, challenging its reliability as an exploration tool but analysis of noble metals in magnetite and its inclusion cargo could offer promising alternative approaches. Overall, magnetite serves as a valuable tool for investigating ore deposit petrogenesis and holds potential for exploration.    
+
+    
+
+## Exploring the mechanisms of Devonian oceanic anoxia: impact of ocean dynamics, palaeogeography and orbital forcing   
+
+OpenAlex: https://openalex.org/W4401225082    
+Open access: True
+    
+[Justin Gérard](https://openalex.org/A5012858588), [Loïc Sablon](https://openalex.org/A5089047693), [Jarno J. C. Huygh](https://openalex.org/A5094140266), [Anne‐Christine Da Silva](https://openalex.org/A5011112009), [Alexandre Pohl](https://openalex.org/A5060357851), [Christian Vérard](https://openalex.org/A5081234776), [Michel Crucifix](https://openalex.org/A5091655942), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-1983.
+    
+Abstract. The Devonian is a warmer-than-present geological period spanning from 419 to 359 million years ago (Ma) characterized by multiple identified ocean anoxic/hypoxic events. Despite decades of extensive investigation, no consensus has been reached regarding the drivers of these anoxic events. While growing geological evidence has demonstrated a temporal correlation between astronomical forcing and anoxia during this period, underlying physical mechanisms remain unknown, hence questioning causality. Here, we perform multiple sensitivity experiments, using an Earth system model of intermediate complexity (cGENIE), to isolate the influences of specific Devonian climate and palaeogeography components on ocean oxygen levels, contributing to the better understanding of the intricate interplay of factors preconditioning the ocean to anoxia. We quantify the impact of continental configuration, ocean-atmosphere biogeochemistry (global mean oceanic PO4 concentration and atmospheric pO2), climatic forcing (pCO2) and astronomical forcing on background oceanic circulation and oxygenation during the Devonian. Our results indicate that continental configuration is crucial for Devonian ocean anoxia, significantly influencing ocean circulation and oxygen levels while consistently modulating the effects of other Devonian climate components such as oceanic PO4 concentration, atmospheric pO2 and pCO2, and orbital forcing. The evolution of continental configuration provides a plausible explanation for the increased frequency of ocean anoxic events identified during the Middle and Late Devonian periods, as it contributed to the expansion of oxygen-depleted zones. Our simulations also show that both the decreased atmospheric pO2 and increased oceanic PO2 concentration exacerbate ocean anoxia, consistent with established knowledge. The variation of pCO2 reveals a wide range of ocean dynamics patterns, including stable oscillations, multiple convection cells, multistability and hysteresis; all leading to significant variations of the ocean oxygen levels, therefore strongly impacting the preconditioning of the ocean to anoxia. Furthermore, multistability and important hysteresis (particularly slow ocean time response) offer different mechanisms to account for the prolonged duration of some ocean anoxic events. Finally, we found that astronomical forcing substantially impacts ocean anoxia by altering ocean circulation and oxygen solubility, with obliquity consistently emerging as the primary orbital parameter driving ocean oxygen variations.    
 
     
 

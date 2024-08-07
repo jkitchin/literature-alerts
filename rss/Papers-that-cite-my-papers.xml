@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Aug 2024 01:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 01:12:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -542,7 +542,7 @@
       <link>https://doi.org/10.1016/j.jechem.2024.07.050</link>
       <description>Zahra Almisbaa, Philippe Sautet, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4401306038
 
-                No abstract</description>
+                Ammonia decomposition is a key reaction in the context of hydrogen storage, transport, and release. This study combines density functional theory (DFT) calculations with microkinetic modeling to address the promotion mechanism of Ba species for ammonia decomposition on Co catalysts. The modified adsorption properties of Co upon the addition of metallic Ba or BaO suggest that the promoters play a role in alleviating the competitive adsorption of H. Calculating the full reaction pathway of ammonia decomposition shows that limiting the investigation to the N&#8211;N association step, as done previously, overlooks the effect of the promoter on the energy barriers of the NHx dehydrogenation steps. Challenges of modeling the ammonia decomposition reaction are addressed by understanding that the NH2 intermediate is stabilized on the step sites rather than the terrace sites. When the effect of H-coverage on the adsorption of NH3 is not considered in the microkinetic simulations, the results conflict with the experiments. However, accounting for the effect of H-coverage, as performed here, shows that BaO-doped Co has higher rates than pristine Co and Ba-doped Co at the reaction temperature of 723.15 K. When H is adsorbed on the Ba-doped Co, the adsorption of ammonia becomes significantly endergonic, which makes the rates relatively slow. The superiority of the BaO-promoted catalyst is attributed to a lower energy for the transition state of the rate-determining step, coupled with a reduced impact of the hydrogen coverage on weakening the ammonia adsorption. The kinetic analysis of the influence of Ba and BaO on the Co surface shows that BaO-doped Co aligns more closely with experimental observations than Ba-doped Co. This implies that Ba on the Co surface is likely to be in an oxide form under reaction conditions. Understanding the kinetics of the ammonia decomposition reaction provides a foundation for developing highly effective catalysts to accelerate the industrial utilization of ammonia as a sustainable hydrogen carrier.</description>
       <author>Zahra Almisbaa, Philippe Sautet</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.07.050</guid>
@@ -556,6 +556,16 @@
       <author>Joachim S&#248;dequist, Thomas Olsen</author>
       <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01318-2</guid>
+    </item>
+    <item>
+      <title>Spglib: a software library for crystal symmetry search</title>
+      <link>https://doi.org/10.1080/27660400.2024.2384822</link>
+      <description>Atsushi Togo, K. Shinohara, Isao Tanaka, Science and Technology of Advanced Materials Methods. None(None)] 2024. https://openalex.org/W4401339223
+
+                No abstract</description>
+      <author>Atsushi Togo, K. Shinohara, Isao Tanaka</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/27660400.2024.2384822</guid>
     </item>
     <item>
       <title>HfS2/BN Heterostructures: A Repeatable Detectable Water Sensing Material</title>

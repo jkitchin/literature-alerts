@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Aug 2024 01:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 01:12:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -226,6 +226,16 @@
       <author>Meiling Liu, Rao Fu, Tao Xu, Qiming Fu, Chao Liu</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.134933</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;Reduction of lauric acid in coconut copra by supercritical carbon dioxide extraction: Process optimization and design of functional cookies using the lauric acid&#8208;lean copra meal&#8221;</title>
+      <link>https://doi.org/10.1111/jfpe.14700</link>
+      <description>, Journal of Food Process Engineering. 47(8)] 2024. https://openalex.org/W4401346381
+
+                No abstract</description>
+      <author/>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1111/jfpe.14700</guid>
     </item>
     <item>
       <title>Potential-driven constructing interface and tensile strain of derived-Cu catalyst for enhancing CO2 electrocatalytic reduction</title>
@@ -580,16 +590,6 @@
     </item>
     <item>
       <title>Thin film Ag electrodes fabrication for sustainable and high-efficiency electroreduction of CO2 to CO</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-q7lwd-v2</link>
-      <description>Domenico Grammatico, Janine Lichtenberger, Christian M. Pichler, Matthias Kogler, Th&#233;odoros Dimopoulos, No host. None(None)] 2024. https://openalex.org/W4401272189
-
-                The electroreduction of carbon dioxide (CO2RR) is one of the most promising ways to valorise CO2 as a source of carbon. The development of novel, efficient and scalable catalysts for CO2 electroreduction within electrolysers is still a big challenge. Here, we report the preparation of sustainable, efficient and stable gas diffusion electrodes utilizing Ag as catalyst for the CO2 electroreduction to CO. These cathodic materials are prepared by sputter deposition and subjected to post-deposition modification using dry, reactive processes. The catalyst is uniformly deposited as a thin layer on the porous structure of PTFE minimizing the amount of Ag required. This approach allows for fine tuning of the morphology, chemical composition and loading of Ag and their impact on the CO2RR. These electrodes have been evaluated for the CO2 electroreduction and for electrocatalytic studies in a flow reactor with gas-fed CO2. The optimized electrodes show high activity, with current densities &gt; 20 mA/cm2 at -1,18 V vs. RHE, and faradaic efficiency for CO &gt; 90 %. The stability was tested over periods up to 24 hours showing a significant impact of the post-deposition modification. Higher porosity, roughness and electrochemical surface area have been achieved after the modification. Noteworthy, our approach allows for outstanding performances using a minimal amount of metal, while using the processing advantages of sputtering as an industrial state-of-the-art, high-throughput, and roll-to-roll compatible technique. Moreover, this route enables the deposition of different metals and alloys of tailored composition for the electrocatalytic CO2 reduction beyond CO.</description>
-      <author>Domenico Grammatico, Janine Lichtenberger, Christian M. Pichler, Matthias Kogler, Th&#233;odoros Dimopoulos</author>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-q7lwd-v2</guid>
-    </item>
-    <item>
-      <title>Thin film Ag electrodes fabrication for sustainable and high-efficiency electroreduction of CO2 to CO</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-q7lwd</link>
       <description>Domenico Grammatico, Janine Lichtenberger, Christian M. Pichler, Matthias Kogler, Th&#233;odoros Dimopoulos, No host. None(None)] 2024. https://openalex.org/W4401221971
 
@@ -597,6 +597,16 @@
       <author>Domenico Grammatico, Janine Lichtenberger, Christian M. Pichler, Matthias Kogler, Th&#233;odoros Dimopoulos</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-q7lwd</guid>
+    </item>
+    <item>
+      <title>Thin film Ag electrodes fabrication for sustainable and high-efficiency electroreduction of CO2 to CO</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-q7lwd-v2</link>
+      <description>Domenico Grammatico, Janine Lichtenberger, Christian M. Pichler, Matthias Kogler, Th&#233;odoros Dimopoulos, No host. None(None)] 2024. https://openalex.org/W4401272189
+
+                The electroreduction of carbon dioxide (CO2RR) is one of the most promising ways to valorise CO2 as a source of carbon. The development of novel, efficient and scalable catalysts for CO2 electroreduction within electrolysers is still a big challenge. Here, we report the preparation of sustainable, efficient and stable gas diffusion electrodes utilizing Ag as catalyst for the CO2 electroreduction to CO. These cathodic materials are prepared by sputter deposition and subjected to post-deposition modification using dry, reactive processes. The catalyst is uniformly deposited as a thin layer on the porous structure of PTFE minimizing the amount of Ag required. This approach allows for fine tuning of the morphology, chemical composition and loading of Ag and their impact on the CO2RR. These electrodes have been evaluated for the CO2 electroreduction and for electrocatalytic studies in a flow reactor with gas-fed CO2. The optimized electrodes show high activity, with current densities &gt; 20 mA/cm2 at -1,18 V vs. RHE, and faradaic efficiency for CO &gt; 90 %. The stability was tested over periods up to 24 hours showing a significant impact of the post-deposition modification. Higher porosity, roughness and electrochemical surface area have been achieved after the modification. Noteworthy, our approach allows for outstanding performances using a minimal amount of metal, while using the processing advantages of sputtering as an industrial state-of-the-art, high-throughput, and roll-to-roll compatible technique. Moreover, this route enables the deposition of different metals and alloys of tailored composition for the electrocatalytic CO2 reduction beyond CO.</description>
+      <author>Domenico Grammatico, Janine Lichtenberger, Christian M. Pichler, Matthias Kogler, Th&#233;odoros Dimopoulos</author>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-q7lwd-v2</guid>
     </item>
     <item>
       <title>Strategic Siting of Direct Air Capture Facilities in the United States</title>
@@ -637,6 +647,16 @@
       <author>Toyin Amunigun</author>
       <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.56293/ijasr.2022.5543</guid>
+    </item>
+    <item>
+      <title>An Analysis of Copper Enrichment on a Gold Electrocatalyst as a Method of Syngas Synthesis from CO2</title>
+      <link>https://doi.org/10.47611/jsrhs.v13i1.6228</link>
+      <description>Juliet Winiecki, Xu Guo, Journal of Student Research. 13(1)] 2024. https://openalex.org/W4401324089
+
+                This literary review examines the work of a distinguished research team from the University of Berkeley and the University of Toronto. The work in question was a key paper in the global search within the scientific community to find a solution to the excess of fossil fuels within the atmosphere. Specifically, this research team&#8217;s focus was the electrochemical reduction of carbon dioxide to hydrogen gas and carbon monoxide. This review offers a fundamental standpoint, honing in on a specific technique that is cutting-edge in terms of technology, research, and methodology, while also being broadly applicable. The technique includes the use of a gold (Au) electrode precisely coated with a copper (Cu) monolayer, which (altogether) serves as the electrocatalyst powering the reaction. Techniques like Raman spectroscopy and cyclic voltammetry, coupled with concepts such as Molecular Orbital Theory, helped to explain the inner workings of the carbon dioxide reduction reaction. This study demonstrated that changing the amount of Cu deposited onto a Au surface affected the produced hydrogen gas (H2) to carbon monoxide (CO) ratio. This review also considered the appropriateness of Raman spectroscopy, and whether or not it was the best technical choice given the context of this experiment. Altogether, this review uses fundamental concepts in chemistry to analyze a new method of reducing carbon dioxide, an electrochemical process that is growing increasingly relevant in today&#8217;s efforts to reduce fossil fuel emissions.</description>
+      <author>Juliet Winiecki, Xu Guo</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.47611/jsrhs.v13i1.6228</guid>
     </item>
     <item>
       <title>Indoor Environmental Quality and Effectiveness of Portable Air Cleaners in Reducing Levels of Airborne Particles during Schools&#8217; Reopening in the COVID-19 Pandemic</title>
@@ -749,16 +769,6 @@
       <guid isPermaLink="true">https://doi.org/10.1113/jp284607</guid>
     </item>
     <item>
-      <title>Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia&#8217;s energy-water-land nexus</title>
-      <link>https://doi.org/10.1038/s41467-024-50594-5</link>
-      <description>Jeffrey Dankwa Ampah, Chao Jin, Haifeng Liu, Mingfa Yao, Sandylove Afrane, Humphrey Adun, Jay Fuhrman, David T. Ho, Haewon McJeon, Nature Communications. 15(1)] 2024. https://openalex.org/W4401045414
-
-                Abstract Existing studies indicate that future global carbon dioxide (CO 2 ) removal (CDR) efforts could largely be concentrated in Asia. However, there is limited understanding of how individual Asian countries and regions will respond to varying and uncertain scales of future CDR concerning their energy-land-water system. We address this gap by modeling various levels of CDR-reliant pathways under climate change ambitions in Asia. We find that high CDR reliance leads to residual fossil fuel and industry emissions of about 8 Gigatonnes CO 2 yr &#8722;1 (GtCO 2 yr &#8722;1 ) by 2050, compared to less than 1 GtCO 2 yr &#8722;1 under moderate-to-low CDR reliance. Moreover, expectations of multi-gigatonne CDR could delay the achievement of domestic net zero CO 2 emissions for several Asian countries and regions, and lead to higher land allocation and fertilizer demand for bioenergy crop cultivation. Here, we show that Asian countries and regions should prioritize emission reduction strategies while capitalizing on the advantages of carbon removal when it is most viable.</description>
-      <author>Jeffrey Dankwa Ampah, Chao Jin, Haifeng Liu, Mingfa Yao, Sandylove Afrane, Humphrey Adun, Jay Fuhrman, David T. Ho, Haewon McJeon</author>
-      <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50594-5</guid>
-    </item>
-    <item>
       <title>Potentieller Beitrag der Landwirtschaft zur Verminderung der Treibhausgasemissionen in Deutschland</title>
       <link>https://doi.org/10.52825/gjae.v55i4.1659</link>
       <description>Jens Karl Wegener, Wolfgang L&#252;cke, J&#246;rg Heinzemann, German Journal of Agricultural Economics. 55(4)] 2006. https://openalex.org/W4401219924
@@ -767,6 +777,16 @@
       <author>Jens Karl Wegener, Wolfgang L&#252;cke, J&#246;rg Heinzemann</author>
       <pubDate>Fri, 19 May 2006 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.52825/gjae.v55i4.1659</guid>
+    </item>
+    <item>
+      <title>Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia&#8217;s energy-water-land nexus</title>
+      <link>https://doi.org/10.1038/s41467-024-50594-5</link>
+      <description>Jeffrey Dankwa Ampah, Chao Jin, Haifeng Liu, Mingfa Yao, Sandylove Afrane, Humphrey Adun, Jay Fuhrman, David T. Ho, Haewon McJeon, Nature Communications. 15(1)] 2024. https://openalex.org/W4401045414
+
+                Abstract Existing studies indicate that future global carbon dioxide (CO 2 ) removal (CDR) efforts could largely be concentrated in Asia. However, there is limited understanding of how individual Asian countries and regions will respond to varying and uncertain scales of future CDR concerning their energy-land-water system. We address this gap by modeling various levels of CDR-reliant pathways under climate change ambitions in Asia. We find that high CDR reliance leads to residual fossil fuel and industry emissions of about 8 Gigatonnes CO 2 yr &#8722;1 (GtCO 2 yr &#8722;1 ) by 2050, compared to less than 1 GtCO 2 yr &#8722;1 under moderate-to-low CDR reliance. Moreover, expectations of multi-gigatonne CDR could delay the achievement of domestic net zero CO 2 emissions for several Asian countries and regions, and lead to higher land allocation and fertilizer demand for bioenergy crop cultivation. Here, we show that Asian countries and regions should prioritize emission reduction strategies while capitalizing on the advantages of carbon removal when it is most viable.</description>
+      <author>Jeffrey Dankwa Ampah, Chao Jin, Haifeng Liu, Mingfa Yao, Sandylove Afrane, Humphrey Adun, Jay Fuhrman, David T. Ho, Haewon McJeon</author>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50594-5</guid>
     </item>
     <item>
       <title>Renewable Energy Sources in The Context of Emissions Reduction: Geographical Aspects And Challenges for Sustainable Development</title>
@@ -799,16 +819,6 @@
       <guid isPermaLink="true">https://doi.org/10.1111/1751-7915.14539</guid>
     </item>
     <item>
-      <title>N-Formylation of Carbon Dioxide and Amines with EDTA as a Recyclable Catalyst under Ambient Conditions</title>
-      <link>https://doi.org/10.3390/catal14080492</link>
-      <description>Qiqi Zhou, Yu Chen, Xuexin Yuan, Hai&#8208;Jian Yang, Yu&#8208;Shi He, Juncheng Hu, Cun&#8208;Yue Guo, Catalysts. 14(8)] 2024. https://openalex.org/W4401173145
-
-                The reduction of CO2 is an important method to produce chemicals such as methanol, formic acid, formaldehyde, etc. In general, the reduction of CO2 is carried out at high temperatures and pressures with precious metals as catalysts, which is not favorable for industrial procedures. Thus, it will be very useful if researchers can find cost-effective catalysts for industrial application in CO2 reduction. In this work, commercially available ethylenediaminetetraacetic acid (EDTA) was tested as a cheap, non-toxic, and recyclable catalyst to initiate the N-carbonylation reaction of CO2 with amines. After screening various reaction parameters, including temperature, pressure, time, solvent, and reducing agent, the optimal reaction conditions were obtained: 80 &#176;C, 2 MPa, 6 h, 50 mmol% catalyst dosage, 1 mL DMSO, and 1:1 molar ratio of amine to reducing agent. Notably, further studies confirmed that EDTA could also be effective for N-formylation even under ambient conditions (0.1 MPa and room temperature). The suitability of the catalyst for 26 kinds of substrates (including aliphatic amines, aromatic amines, and alicyclic amines) and its reusability were also investigated, with satisfactory results. Scale-up research has been performed effectively with a high conversion of amine (83%) to obtain the mono-formylated product selectively. Finally, the mechanism of the reaction between amine and CO2 has been proposed via control experiments and compared with results in the literature.</description>
-      <author>Qiqi Zhou, Yu Chen, Xuexin Yuan, Hai&#8208;Jian Yang, Yu&#8208;Shi He, Juncheng Hu, Cun&#8208;Yue Guo</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14080492</guid>
-    </item>
-    <item>
       <title>Transition&#8208;Metal&#8208;Doped CeO2 for the Reverse Water&#8208;Gas Shift Reaction: An Experimental and Theoretical Study on CO2 Adsorption and Surface Vacancy Effects</title>
       <link>https://doi.org/10.1002/cssc.202400681</link>
       <description>Yue Yu, Wei Xia, Aiping Yu, David S. A. Simakov, Luis Ricardez&#8208;Sandoval, ChemSusChem. None(None)] 2024. https://openalex.org/W4401172161
@@ -817,6 +827,16 @@
       <author>Yue Yu, Wei Xia, Aiping Yu, David S. A. Simakov, Luis Ricardez&#8208;Sandoval</author>
       <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202400681</guid>
+    </item>
+    <item>
+      <title>N-Formylation of Carbon Dioxide and Amines with EDTA as a Recyclable Catalyst under Ambient Conditions</title>
+      <link>https://doi.org/10.3390/catal14080492</link>
+      <description>Qiqi Zhou, Yu Chen, Xuexin Yuan, Hai&#8208;Jian Yang, Yu&#8208;Shi He, Juncheng Hu, Cun&#8208;Yue Guo, Catalysts. 14(8)] 2024. https://openalex.org/W4401173145
+
+                The reduction of CO2 is an important method to produce chemicals such as methanol, formic acid, formaldehyde, etc. In general, the reduction of CO2 is carried out at high temperatures and pressures with precious metals as catalysts, which is not favorable for industrial procedures. Thus, it will be very useful if researchers can find cost-effective catalysts for industrial application in CO2 reduction. In this work, commercially available ethylenediaminetetraacetic acid (EDTA) was tested as a cheap, non-toxic, and recyclable catalyst to initiate the N-carbonylation reaction of CO2 with amines. After screening various reaction parameters, including temperature, pressure, time, solvent, and reducing agent, the optimal reaction conditions were obtained: 80 &#176;C, 2 MPa, 6 h, 50 mmol% catalyst dosage, 1 mL DMSO, and 1:1 molar ratio of amine to reducing agent. Notably, further studies confirmed that EDTA could also be effective for N-formylation even under ambient conditions (0.1 MPa and room temperature). The suitability of the catalyst for 26 kinds of substrates (including aliphatic amines, aromatic amines, and alicyclic amines) and its reusability were also investigated, with satisfactory results. Scale-up research has been performed effectively with a high conversion of amine (83%) to obtain the mono-formylated product selectively. Finally, the mechanism of the reaction between amine and CO2 has been proposed via control experiments and compared with results in the literature.</description>
+      <author>Qiqi Zhou, Yu Chen, Xuexin Yuan, Hai&#8208;Jian Yang, Yu&#8208;Shi He, Juncheng Hu, Cun&#8208;Yue Guo</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14080492</guid>
     </item>
     <item>
       <title>CO2 laser-assisted sclerectomy surgery for secondary open-angle glaucoma after vitrectomy</title>
@@ -849,6 +869,16 @@
       <guid isPermaLink="true">https://doi.org/10.3389/fsci.2024.1349770</guid>
     </item>
     <item>
+      <title>Molecular Electrochemical Catalysis of CO-to-Formaldehyde Conversion with a Cobalt Complex</title>
+      <link>https://doi.org/10.1021/jacs.4c06878</link>
+      <description>Ajeet Singh, Afridi Zamader, Reza Khakpour, Kari Laasonen, Michael Busch, Marc Robert, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4401163853
+
+                Formox, a highly energy-intensive process, currently serves as the primary source of formaldehyde (HCHO), for which there is a crucial and steadily growing chemical demand. The alternative electrochemical production of HCHO from C1 carbon sources such as CO2 and CO is still in its early stages, with even the few identified cases lacking mechanistic rationalization. In this study, we demonstrate that cobalt phthalocyanine (CoPc) immobilized on multiwalled carbon nanotubes (MW-CNTs) constitutes an excellent electrocatalytic system for producing HCHO with productivity through the direct reduction of CO, the two-electron reduction product of CO2. By carefully adjusting both the pH and the applied potential, we identified conditions that enable the production of HCHO with a partial current density of 0.64 mA cm&#8211;2 (17.5% Faradaic efficiency, FE) and a total FE of 61.2% for the liquid products (formaldehyde and methanol). A reduction mechanism is proposed.</description>
+      <author>Ajeet Singh, Afridi Zamader, Reza Khakpour, Kari Laasonen, Michael Busch, Marc Robert</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c06878</guid>
+    </item>
+    <item>
       <title>The impact of greenhouse gases, regions, and sectors on future temperature anomaly with the FaIR model</title>
       <link>https://doi.org/10.59720/24-067</link>
       <description>Tej Kosaraju, Paul Griffiths, No host. None(None)] 2024. https://openalex.org/W4401088442
@@ -879,16 +909,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/elsa.202400007</guid>
     </item>
     <item>
-      <title>Bio-Char Used for Carbon Sequestration and to Balance the CO2 Concentration in Atmosphere: A Review</title>
-      <link>https://doi.org/10.51583/ijltemas.2024.130706</link>
-      <description>Rakhman Sarwono, International Journal of Latest Technology in Engineering Management &amp; Applied Science. 13(7)] 2024. https://openalex.org/W4401093478
-
-                Abstract: The Carbon concentration in earth is closed system, therefore, the contain of carbon in each elements are different. The concentration of CO2 in atmosphere is lower compared with N2 and O2 gas but CO2 concentration is great effect to the atmosphere temperature, it may cause the global warming and climate change. The CO2 concentration in atmosphere should be maintained to slower increase in order to reduce the effect of CO2 in atmosphere. Balancing of carbon positive and negative is concerned to maintain the CO2 concentration in atmosphere. Bio-chars are materials carbon that can be used as soil amendment to increase crop production. Recently, the carbon positive more than the carbon negative, resulted the CO2 concentration in atmosphere was increased gradually. Biochar has been possibility to produce in a large quantity to utilize of waste biomass. We needs a large quantity of biochar to be produced and mixed with soil and store in the ground as carbon sequestration, those biochar increase the soil fertility. Scenarios stabilization wedge represents an activity that starts at zero reduction of emissions in 2005 and increase linearly until it accounts for 1 GtC/ year or 1 wedges reduced carbon emissions in the year 2055.</description>
-      <author>Rakhman Sarwono</author>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.51583/ijltemas.2024.130706</guid>
-    </item>
-    <item>
       <title>Optimization of High-Temperature CO2 Capture by Lithium Orthosilicate-Based Sorbents Using Response Surface Methodology</title>
       <link>https://doi.org/10.3390/atmos15080908</link>
       <description>Eleonora Stefanelli, Flavio Francalanci, Sandra Vitolo, Monica Puccini, Atmosphere. 15(8)] 2024. https://openalex.org/W4401173161
@@ -897,6 +917,16 @@
       <author>Eleonora Stefanelli, Flavio Francalanci, Sandra Vitolo, Monica Puccini</author>
       <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/atmos15080908</guid>
+    </item>
+    <item>
+      <title>Bio-Char Used for Carbon Sequestration and to Balance the CO2 Concentration in Atmosphere: A Review</title>
+      <link>https://doi.org/10.51583/ijltemas.2024.130706</link>
+      <description>Rakhman Sarwono, International Journal of Latest Technology in Engineering Management &amp; Applied Science. 13(7)] 2024. https://openalex.org/W4401093478
+
+                Abstract: The Carbon concentration in earth is closed system, therefore, the contain of carbon in each elements are different. The concentration of CO2 in atmosphere is lower compared with N2 and O2 gas but CO2 concentration is great effect to the atmosphere temperature, it may cause the global warming and climate change. The CO2 concentration in atmosphere should be maintained to slower increase in order to reduce the effect of CO2 in atmosphere. Balancing of carbon positive and negative is concerned to maintain the CO2 concentration in atmosphere. Bio-chars are materials carbon that can be used as soil amendment to increase crop production. Recently, the carbon positive more than the carbon negative, resulted the CO2 concentration in atmosphere was increased gradually. Biochar has been possibility to produce in a large quantity to utilize of waste biomass. We needs a large quantity of biochar to be produced and mixed with soil and store in the ground as carbon sequestration, those biochar increase the soil fertility. Scenarios stabilization wedge represents an activity that starts at zero reduction of emissions in 2005 and increase linearly until it accounts for 1 GtC/ year or 1 wedges reduced carbon emissions in the year 2055.</description>
+      <author>Rakhman Sarwono</author>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.51583/ijltemas.2024.130706</guid>
     </item>
     <item>
       <title>Approaching Splendid Catalysts for Li&#8211;CO&lt;sub&gt;2&lt;/sub&gt; Battery from the Theory to Practical Designing: A Review</title>
@@ -940,16 +970,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202411967</guid>
     </item>
     <item>
-      <title>Multiaspect analysis and optimization of a power and cooling cogeneration plant integrated with a multilevel waste heat recovery system</title>
-      <link>https://doi.org/10.1093/ijlct/ctae134</link>
-      <description>Tao Hai, Ihab Omar, Mohamed R El-Sharkawy, Murizah Kassim, Husam Rajab, Esraa Ahmed Said, Abbas Hameed Abdul Hussein, Wesam Abed AL Hassan Alhaidry, Ameer Hassan Idan, Mehrsam Alizadeh, International Journal of Low-Carbon Technologies. 19(None)] 2024. https://openalex.org/W4401156852
-
-                Abstract This study focuses on the development and improvement of a new combined power and cooling system called the power-cooling cogeneration system (PCCS). The PCCS incorporates a tri-tier waste heat recovery system that includes an organic Rankine cycle (ORC) system and an ejector-driven refrigeration mechanism. The cogeneration system design incorporates a thorough assessment of thermodynamic efficiency, cost-efficiency, and environmental consequences. A dual-objective optimization technique is developed to decrease expenses while simultaneously improving exergy efficiency. In addition, the complex behavior of PCCS is compared to a standard system that uses a one-stage recovery-ORC system and a compressor-based refrigeration approach. Also, the effectiveness of the PCCS was evaluated through the utilization of several environmentally friendly refrigerants. Environmental evaluations employ two metrics: total equivalent-warming impact (TE-WI) and life cycle-climate performance (LC-CP), emphasizing substantial reductions in environmental harm through improved waste heat recovery. The results demonstrate that the R1234-yf refrigerant achieves the best possible performance in both configurations, resulting in a significant increase of roughly 10.1% in exergetic efficiency compared to the standard system. Simultaneously, the PCCS experiences a decrease in exergy loss and annual costs of around 7.25% and 21.16%, respectively, as compared to the baseline. Incorporating an ejector into the refrigeration cycle has the potential to reduce carbon dioxide emissions by up to 11.41 &#215; 106 kg.</description>
-      <author>Tao Hai, Ihab Omar, Mohamed R El-Sharkawy, Murizah Kassim, Husam Rajab, Esraa Ahmed Said, Abbas Hameed Abdul Hussein, Wesam Abed AL Hassan Alhaidry, Ameer Hassan Idan, Mehrsam Alizadeh</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/ijlct/ctae134</guid>
-    </item>
-    <item>
       <title>Selection of sheep skin bacteria to reduce blood feeding by biting midges under laboratory conditions</title>
       <link>https://doi.org/10.1111/eea.13503</link>
       <description>Paula S. Brok, S. Jost, Niels O. Verhulst, Entomologia Experimentalis et Applicata. None(None)] 2024. https://openalex.org/W4401219824
@@ -958,16 +978,6 @@
       <author>Paula S. Brok, S. Jost, Niels O. Verhulst</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1111/eea.13503</guid>
-    </item>
-    <item>
-      <title>The Environmental Consequences of Engine Emissions in Air and Road Transport</title>
-      <link>https://doi.org/10.3390/atmos15080903</link>
-      <description>Krist&#237;na Kov&#225;&#269;ikov&#225;, Andrej Nov&#225;k, Alena Nov&#225;k Sedl&#225;&#269;kov&#225;, Martina Kov&#225;&#269;ikov&#225;, Atmosphere. 15(8)] 2024. https://openalex.org/W4401173147
-
-                This study evaluated the environmental consequences of engine emissions from road and air transport on three commonly traveled routes between Berlin and the cities of Frankfurt, Paris, and Barcelona. The focus was on CO2 emissions due to their significant impact on climate change. By collecting and analyzing comprehensive data on vehicle and aircraft emissions, this study aimed to compare the CO2 output of each transport mode under different passenger load scenarios. The findings indicate that air transport is generally more efficient in terms of CO2 emissions per passenger for longer distances. For instance, the CO2 emissions per passenger ranged from 22.6 kg to 79.8 kg for air transport and from 64.7 kg to 220.8 kg for road transport, demonstrating reductions of approximately 65% to 72%. This study underscores the importance of considering both distance and passenger load when evaluating the environmental impact of different transport modes and highlights the need for a multifaceted approach to reducing transport emissions, including technological innovations, policy interventions, and behavioral changes.</description>
-      <author>Krist&#237;na Kov&#225;&#269;ikov&#225;, Andrej Nov&#225;k, Alena Nov&#225;k Sedl&#225;&#269;kov&#225;, Martina Kov&#225;&#269;ikov&#225;</author>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/atmos15080903</guid>
     </item>
     <item>
       <title>Bridging the Energy Efficiency Gap for Low-Income Households in Charlottesville</title>
@@ -988,6 +998,26 @@
       <author>Cristiana S.A. Bento, Dhara Leite Lopes, Cristiane Flora Villarreal, Nuno Empadinhas, Susana Alarico, Herm&#237;nio C. de Sousa, Mara E.M. Braga</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijpharm.2024.124546</guid>
+    </item>
+    <item>
+      <title>Multiaspect analysis and optimization of a power and cooling cogeneration plant integrated with a multilevel waste heat recovery system</title>
+      <link>https://doi.org/10.1093/ijlct/ctae134</link>
+      <description>Tao Hai, Ihab Omar, Mohamed R El-Sharkawy, Murizah Kassim, Husam Rajab, Esraa Ahmed Said, Abbas Hameed Abdul Hussein, Wesam Abed AL Hassan Alhaidry, Ameer Hassan Idan, Mehrsam Alizadeh, International Journal of Low-Carbon Technologies. 19(None)] 2024. https://openalex.org/W4401156852
+
+                Abstract This study focuses on the development and improvement of a new combined power and cooling system called the power-cooling cogeneration system (PCCS). The PCCS incorporates a tri-tier waste heat recovery system that includes an organic Rankine cycle (ORC) system and an ejector-driven refrigeration mechanism. The cogeneration system design incorporates a thorough assessment of thermodynamic efficiency, cost-efficiency, and environmental consequences. A dual-objective optimization technique is developed to decrease expenses while simultaneously improving exergy efficiency. In addition, the complex behavior of PCCS is compared to a standard system that uses a one-stage recovery-ORC system and a compressor-based refrigeration approach. Also, the effectiveness of the PCCS was evaluated through the utilization of several environmentally friendly refrigerants. Environmental evaluations employ two metrics: total equivalent-warming impact (TE-WI) and life cycle-climate performance (LC-CP), emphasizing substantial reductions in environmental harm through improved waste heat recovery. The results demonstrate that the R1234-yf refrigerant achieves the best possible performance in both configurations, resulting in a significant increase of roughly 10.1% in exergetic efficiency compared to the standard system. Simultaneously, the PCCS experiences a decrease in exergy loss and annual costs of around 7.25% and 21.16%, respectively, as compared to the baseline. Incorporating an ejector into the refrigeration cycle has the potential to reduce carbon dioxide emissions by up to 11.41 &#215; 106 kg.</description>
+      <author>Tao Hai, Ihab Omar, Mohamed R El-Sharkawy, Murizah Kassim, Husam Rajab, Esraa Ahmed Said, Abbas Hameed Abdul Hussein, Wesam Abed AL Hassan Alhaidry, Ameer Hassan Idan, Mehrsam Alizadeh</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/ijlct/ctae134</guid>
+    </item>
+    <item>
+      <title>The Environmental Consequences of Engine Emissions in Air and Road Transport</title>
+      <link>https://doi.org/10.3390/atmos15080903</link>
+      <description>Krist&#237;na Kov&#225;&#269;ikov&#225;, Andrej Nov&#225;k, Alena Nov&#225;k Sedl&#225;&#269;kov&#225;, Martina Kov&#225;&#269;ikov&#225;, Atmosphere. 15(8)] 2024. https://openalex.org/W4401173147
+
+                This study evaluated the environmental consequences of engine emissions from road and air transport on three commonly traveled routes between Berlin and the cities of Frankfurt, Paris, and Barcelona. The focus was on CO2 emissions due to their significant impact on climate change. By collecting and analyzing comprehensive data on vehicle and aircraft emissions, this study aimed to compare the CO2 output of each transport mode under different passenger load scenarios. The findings indicate that air transport is generally more efficient in terms of CO2 emissions per passenger for longer distances. For instance, the CO2 emissions per passenger ranged from 22.6 kg to 79.8 kg for air transport and from 64.7 kg to 220.8 kg for road transport, demonstrating reductions of approximately 65% to 72%. This study underscores the importance of considering both distance and passenger load when evaluating the environmental impact of different transport modes and highlights the need for a multifaceted approach to reducing transport emissions, including technological innovations, policy interventions, and behavioral changes.</description>
+      <author>Krist&#237;na Kov&#225;&#269;ikov&#225;, Andrej Nov&#225;k, Alena Nov&#225;k Sedl&#225;&#269;kov&#225;, Martina Kov&#225;&#269;ikov&#225;</author>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/atmos15080903</guid>
     </item>
     <item>
       <title>Tetracationic Cobalt 3,4&#8208;pyridinoporphyrazine for Direct CO2 to Methanol Conversion Escaping the CO Intermediate Pathway</title>
@@ -1100,6 +1130,16 @@
       <guid isPermaLink="true">https://doi.org/10.30564/jees.v6i3.6502</guid>
     </item>
     <item>
+      <title>Estimation of Compressibility and Other Thermodynamic Derivative Properties of CO2 Using Sonic Velocity for CCS and Enhanced Geothermal Applications</title>
+      <link>https://doi.org/10.2118/221413-ms</link>
+      <description>Ram R. Ratnakar, No host. 59(None)] 2024. https://openalex.org/W4401349083
+
+                Abstract Reduction in Carbon-footprint has been gaining attention in variety of industries from manufacturing to energy due to the geopolitical pressures and climate related issues. Carbon capture and storage (CCS) and enhanced geothermal systems using CO2 as energy carrier are some of the possible decarbonization pathways. Process design for these options requires accurate estimation of thermochemical properties of CO2 at various temperature/pressure conditions, in both subcritical and supercritical regions. The objective of this work is to present coupled experimental- and equation-of-state (EOS) modeling based on general framework to estimate heat capacities, enthalpy, entropy, sonic velocity, density, Joule-Thomson coefficient, and compressibility of CO2 that is applicable to wide range of pressure and temperature conditions. The sonic velocity measurement is based on a pulse-echo technique while the density measurements were performed in a PVT cell. The subject measurements were conducted at two temperatures (300 and 311K), one below and the other one being above the critical temperature of CO2 (304K). The pressure points for the measurements range between 1 - 200 bar. Phase behavior is modeled using Peng and Robinson (1976, 1978) Equation of State (PR78-EOS) with Peneloux et al. (1982) volume-shift shift to accurately determine the CO2 density. First, the ideal part of the CO2 heat capacity is obtained from correlations available in literature and the residual part is obtained using the EOS. After evaluation of the heat capacities, enthalpy, entropy, speed of sound, Joule-Thomson coefficient and compressibility are directly obtained from EOS. This work presents experimental and modeling results on sonic velocity and density of CO2 at two different temperatures (300 and 311K) within the pressure range of 1- 200 bar. An EOS-based framework, utilizing PR78 with Peneloux et al. volume shift, is developed to determine the CO2 properties (such as phase boundary, density, heat capacities, enthalpy, entropy, sonic velocity and compressibility) at extended pressure and temperature conditions. The main results of this study are as follows: Experimental results on density and sonic velocity are aligned with the measured data found in the literature.Estimation of the CO2 properties from EOS-based framework agrees very well with the literature and newly presented data within, all within 1-3% relative error.Compressibility of the fluid is derived directly from the experimental measurements, bypassing the density-derivative-based approach and hence avoiding the significant errors associated with the discrete density data containing noise/fluctuations and as well as the nature of the compressibility being a derivative property.Most importantly, the framework is general, and applicable for the use of other EOS models, and can also be extended to other fluid systems. Novelty of this work lies in new experimental data on sonic velocity and density of CO2 (especially at high pressures) as well as development of an EOS-framework to determine thermodynamic properties of CO2 through sonic velocity. Proposed framework leads to more accurate estimation of compressibility, density, sonic velocity, heat capacities, enthalpy and entropy.</description>
+      <author>Ram R. Ratnakar</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2118/221413-ms</guid>
+    </item>
+    <item>
       <title>Characteristic of Specialized Geochemistry of the Ngoc Tu Granitoid Block KonTum, Vietnam</title>
       <link>https://doi.org/10.5772/intechopen.112208</link>
       <description>Nguyen Thanh Duc, Niem Van Nguyen, Hieu Cong Duong, Tan Trong Bui, Linh Thuy Thi Hoang, Tien Cong Dinh, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4401219965
@@ -1150,16 +1190,6 @@
       <guid isPermaLink="true">https://doi.org/10.61511/aes.v2i1.2024.820</guid>
     </item>
     <item>
-      <title>Economic Analysis of a Hybrid Energy System for Rural Electrification for the Hasik Area, Oman</title>
-      <link>https://doi.org/10.56476/jed.v48i2.7</link>
-      <description>Abdullah Al&#8208;Badi, Ahmed Al-Farsi, Tariq Al-Abri, Mohammed Al-Mamari, No host. 48(2)] 2023. https://openalex.org/W4401163958
-
-                Renewable energy resources have become the best way to solve the issues created by traditional power resources in terms of environmental effects, energy cost reduction, and high-power demand. The hybrid-based system gives a realistic economic solution where grid extension is non-feasible especially for remote areas. The main objective of this study is to determine the optimum size of a hybrid-based system to fulfill the requirements of remote sites located in the Hasik area in the southern part of Oman. The work is carried out using HOMER Pro and MATLAB software. The proposed hybrid system in the Hasik network is a combination of PV systems with existing diesel generation. Real load data as well as solar radiations were utilized in the proposed model. HOMER selected an optimum solution for the hybrid system resulting in a combination of a 2,500 kW PV system and 3,100 kW diesel generation as well as providing a reduction in the cost of energy and CO2 emissions by 13% and 22%, respectively. The optimum PV sizing for the hybrid system was determined using a genetic algorithm tool in MATLAB. The optimization was based on reducing the system power losses, improving the voltage profile, and minimizing cost. Optimization verification was done using load flow analysis by MATLAB to determine the PV sizing effects on the system power losses and voltage profile. Based on the model results, the hybrid system is feasible in the Hasik area.</description>
-      <author>Abdullah Al&#8208;Badi, Ahmed Al-Farsi, Tariq Al-Abri, Mohammed Al-Mamari</author>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.56476/jed.v48i2.7</guid>
-    </item>
-    <item>
       <title>NH&lt;sub&gt;2&lt;/sub&gt;-MIL-125 Nanosheets Prepared via Crystallization Kinetics Modulation for Ultrathin Membrane Fabrication</title>
       <link>https://doi.org/10.1021/cbe.4c00103</link>
       <description>Yanwei Sun, Jiahui Yan, Mingming Wu, Jie Jiang, Yi Liu, Chem &amp; Bio Engineering. None(None)] 2024. https://openalex.org/W4401093599
@@ -1168,6 +1198,16 @@
       <author>Yanwei Sun, Jiahui Yan, Mingming Wu, Jie Jiang, Yi Liu</author>
       <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/cbe.4c00103</guid>
+    </item>
+    <item>
+      <title>Economic Analysis of a Hybrid Energy System for Rural Electrification for the Hasik Area, Oman</title>
+      <link>https://doi.org/10.56476/jed.v48i2.7</link>
+      <description>Abdullah Al&#8208;Badi, Ahmed Al-Farsi, Tariq Al-Abri, Mohammed Al-Mamari, No host. 48(2)] 2023. https://openalex.org/W4401163958
+
+                Renewable energy resources have become the best way to solve the issues created by traditional power resources in terms of environmental effects, energy cost reduction, and high-power demand. The hybrid-based system gives a realistic economic solution where grid extension is non-feasible especially for remote areas. The main objective of this study is to determine the optimum size of a hybrid-based system to fulfill the requirements of remote sites located in the Hasik area in the southern part of Oman. The work is carried out using HOMER Pro and MATLAB software. The proposed hybrid system in the Hasik network is a combination of PV systems with existing diesel generation. Real load data as well as solar radiations were utilized in the proposed model. HOMER selected an optimum solution for the hybrid system resulting in a combination of a 2,500 kW PV system and 3,100 kW diesel generation as well as providing a reduction in the cost of energy and CO2 emissions by 13% and 22%, respectively. The optimum PV sizing for the hybrid system was determined using a genetic algorithm tool in MATLAB. The optimization was based on reducing the system power losses, improving the voltage profile, and minimizing cost. Optimization verification was done using load flow analysis by MATLAB to determine the PV sizing effects on the system power losses and voltage profile. Based on the model results, the hybrid system is feasible in the Hasik area.</description>
+      <author>Abdullah Al&#8208;Badi, Ahmed Al-Farsi, Tariq Al-Abri, Mohammed Al-Mamari</author>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.56476/jed.v48i2.7</guid>
     </item>
     <item>
       <title>Structural Changes in Chile&#8217;s Industries to Reduce Carbon Dioxide (CO2) Emissions: An Emissions Multiplier Product Matrix Analysis (eMPM)</title>
@@ -1230,6 +1270,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202410938</guid>
     </item>
     <item>
+      <title>Characteristics and performance evaluation of foam &lt;i&gt;in situ&lt;/i&gt; generated by microorganisms</title>
+      <link>https://doi.org/10.1063/5.0219942</link>
+      <description>Jian Fu, Yulong Liu, Cenqian Zhang, Chenyue Wang, Qing Feng, Xiaonan Li, Shanshan Sun, Yuehui She, Fan Zhang, Physics of Fluids. 36(8)] 2024. https://openalex.org/W4401257396
+
+                Foam can effectively improve reservoir heterogeneity, increase gas&#8211;liquid flow rate, reduce viscous fingering, and help to improve sweep efficiency. This paper mainly studies the characteristics and performance of microbial foam production, and proposes an enhanced oil recovery method for profile control by in situ microbial foam production. By optimizing the carbon and nitrogen sources of the medium, Pseudomonas aeruginosa PAO1 produced single and double rhamnolipids and biogas composed of N2, CO2, and CH4, and it could also produce foam in high salt, weak acid, and weak alkali environments. Gas injection experiments were carried out using self-produced biogas, the foaming effect is good in the range of gas&#8211;liquid ratio 1:1&#8211;3:1 and gas injection speed 20&#8211;40 ml/min, which was 71.43%&#8211;91.25% more than the foam volume produced by CO2 injection, and the foam production was positively correlated with the protein concentration of the foam. In the early stage of incubation, the foam was 20&#8211;100 &#956;m in diameter, with high protein concentration and strong foam stability, which slowed down the drainage, polymerization, and disproportionation of the liquid film of the foam system. The foam performance test results show that the foam half-lifetime is long, up to 109 min. Foam culture medium has good viscosity reduction effect, emulsifying properties and less corrosive. The displacement experiment shows that the foam generated in situ by PAO1 in the core has good stability, reproducibility, and profile control performance, which can reduce the permeability of the core to half of the initial permeability and improve the reservoir heterogeneity. Therefore, microbial in situ foam production can be an effective method to enhance oil recovery in heterogeneous reservoirs, which is low cost, low pollution, and simple operation.</description>
+      <author>Jian Fu, Yulong Liu, Cenqian Zhang, Chenyue Wang, Qing Feng, Xiaonan Li, Shanshan Sun, Yuehui She, Fan Zhang</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0219942</guid>
+    </item>
+    <item>
       <title>Study on the Carbon Emission Efficiency of the Logistics Industry in the Yangtze River Delta Region</title>
       <link>https://doi.org/10.62517/jse.202411105</link>
       <description>Heping Ding, Colin C.J. Cheng, No host. 1(1)] 2024. https://openalex.org/W4401097916
@@ -1250,16 +1300,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202410938</guid>
     </item>
     <item>
-      <title>Characteristics and performance evaluation of foam &lt;i&gt;in situ&lt;/i&gt; generated by microorganisms</title>
-      <link>https://doi.org/10.1063/5.0219942</link>
-      <description>Jian Fu, Yulong Liu, Cenqian Zhang, Chenyue Wang, Qing Feng, Xiaonan Li, Shanshan Sun, Yuehui She, Fan Zhang, Physics of Fluids. 36(8)] 2024. https://openalex.org/W4401257396
-
-                Foam can effectively improve reservoir heterogeneity, increase gas&#8211;liquid flow rate, reduce viscous fingering, and help to improve sweep efficiency. This paper mainly studies the characteristics and performance of microbial foam production, and proposes an enhanced oil recovery method for profile control by in situ microbial foam production. By optimizing the carbon and nitrogen sources of the medium, Pseudomonas aeruginosa PAO1 produced single and double rhamnolipids and biogas composed of N2, CO2, and CH4, and it could also produce foam in high salt, weak acid, and weak alkali environments. Gas injection experiments were carried out using self-produced biogas, the foaming effect is good in the range of gas&#8211;liquid ratio 1:1&#8211;3:1 and gas injection speed 20&#8211;40 ml/min, which was 71.43%&#8211;91.25% more than the foam volume produced by CO2 injection, and the foam production was positively correlated with the protein concentration of the foam. In the early stage of incubation, the foam was 20&#8211;100 &#956;m in diameter, with high protein concentration and strong foam stability, which slowed down the drainage, polymerization, and disproportionation of the liquid film of the foam system. The foam performance test results show that the foam half-lifetime is long, up to 109 min. Foam culture medium has good viscosity reduction effect, emulsifying properties and less corrosive. The displacement experiment shows that the foam generated in situ by PAO1 in the core has good stability, reproducibility, and profile control performance, which can reduce the permeability of the core to half of the initial permeability and improve the reservoir heterogeneity. Therefore, microbial in situ foam production can be an effective method to enhance oil recovery in heterogeneous reservoirs, which is low cost, low pollution, and simple operation.</description>
-      <author>Jian Fu, Yulong Liu, Cenqian Zhang, Chenyue Wang, Qing Feng, Xiaonan Li, Shanshan Sun, Yuehui She, Fan Zhang</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0219942</guid>
-    </item>
-    <item>
       <title>Studi Penurunan Emisi GRK dan Analisa Ekonomi Pada Pembangkit Listrik Tenaga Surya (PLTS) Apung Tembesi 46 MWP</title>
       <link>https://doi.org/10.47467/edu.v4i2.4325</link>
       <description>Juanda Fransiskus Lumbantobing, Atok Setiyawan, EduInovasi Journal of Basic Educational Studies. 4(2)] 2024. https://openalex.org/W4401152940
@@ -1268,6 +1308,16 @@
       <author>Juanda Fransiskus Lumbantobing, Atok Setiyawan</author>
       <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.47467/edu.v4i2.4325</guid>
+    </item>
+    <item>
+      <title>Green Shipping Contracts</title>
+      <link>https://doi.org/10.5040/9781509967957</link>
+      <description>Pia Rebelo, Hart Publishing eBooks. None(None)] 2024. https://openalex.org/W4401267127
+
+                This book applies a contract-governance theory to the implementation of decarbonisation objectives in the international maritime sector. In doing so, it provides an overview of how the network of contractual relationships that characterise commercial shipping can become effective sites of collaboration between shipping actors to improve upon energy efficiency and CO2 reduction. To achieve this aim, the book investigates and develops a set of contractual tools that can enable private actors to strengthen their commitments to net-zero targets (whether state-mandated or voluntary) and develop cooperative norms to guide decision-making and contractual interpretation. These mechanisms include contractual clauses and drafting considerations which can secure a desired outcome for contractual performance, thereby managing climate risks and providing adequate remedy where such risks materialise. In a transnational sector such as shipping, where contracts can exert greater influence on corporate decarbonisation efforts than international regulation, the book challenges the traditional limitations of contract law and calls for a deeper integration of green principles into private relationships.</description>
+      <author>Pia Rebelo</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5040/9781509967957</guid>
     </item>
     <item>
       <title>Optimization of electromagnetic layout for E-machine in electric vehicles: Achieving high performance, efficiency and NVH</title>
@@ -1290,14 +1340,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/app14156654</guid>
     </item>
     <item>
-      <title>Green Shipping Contracts</title>
-      <link>https://doi.org/10.5040/9781509967957</link>
-      <description>Pia Rebelo, Hart Publishing eBooks. None(None)] 2024. https://openalex.org/W4401267127
+      <title>Low-carbon wastewater treatment and resource recovery of recirculating aquaculture system by immobilized chlorella vulgaris based on machine learning optimization</title>
+      <link>https://doi.org/10.1016/j.biortech.2024.131208</link>
+      <description>Shuqian Cheng, Xiaolei Liu, Carlo Pastore, Luigi di Bitonto, Anjie Li, Bioresource Technology. None(None)] 2024. https://openalex.org/W4401305169
 
-                This book applies a contract-governance theory to the implementation of decarbonisation objectives in the international maritime sector. In doing so, it provides an overview of how the network of contractual relationships that characterise commercial shipping can become effective sites of collaboration between shipping actors to improve upon energy efficiency and CO2 reduction. To achieve this aim, the book investigates and develops a set of contractual tools that can enable private actors to strengthen their commitments to net-zero targets (whether state-mandated or voluntary) and develop cooperative norms to guide decision-making and contractual interpretation. These mechanisms include contractual clauses and drafting considerations which can secure a desired outcome for contractual performance, thereby managing climate risks and providing adequate remedy where such risks materialise. In a transnational sector such as shipping, where contracts can exert greater influence on corporate decarbonisation efforts than international regulation, the book challenges the traditional limitations of contract law and calls for a deeper integration of green principles into private relationships.</description>
-      <author>Pia Rebelo</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5040/9781509967957</guid>
+                Immobilized microalgae biotechnologies can conserve water and space by low-carbon wastewater treatment and resource recovery in a recirculating aquaculture system (RAS). However, technical process parameters have been unoptimized considering the mutual interaction between factors. In this study, machine learning optimized the parameters of alginate-immobilized Chlorella vulgaris (C. vulgaris), that is, 474 &#956;mol/(m2&#183;s) of light intensity, 23 &#215; 106 cells/mL for initial cell number, and 2.07 mm particle size. Importantly, under continuous illumination, the immobilized C. vulgaris and microalgal-bacterial consortium improved water purification and biomass reutilization. Transcriptomics of C. vulgaris showed enhanced nitrogen removal by increasing pyridine nucleotide and lipid accumulation via enhanced triacylglycerol synthesis. Symbiotic bacteria upregulated genes for nitrate reduction and organic matter degradation, which stimulated biomass accumulation through CO2 fixation and starch synthesis. The recoverable microalgae (1.94 g/L biomass, 47 % protein, 26.23 % lipids), struvite (64.79 % phosphorus), and alginate (79.52 %) every two weeks demonstrates a low-carbon resource recovery in RAS.</description>
+      <author>Shuqian Cheng, Xiaolei Liu, Carlo Pastore, Luigi di Bitonto, Anjie Li</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.biortech.2024.131208</guid>
     </item>
     <item>
       <title>Research for Flow Behavior of Heavy Oil by CO2 Foam Viscosity Reducer-Assisted Steam (CFVAS) Flooding: Microscopic Displacement Experiment Study</title>
@@ -1330,16 +1380,6 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1402-4896/ad69d2</guid>
     </item>
     <item>
-      <title>Decarbonisation of Cities in the Context of their Sustainable Inclusive Development</title>
-      <link>https://doi.org/10.1088/1755-1315/1376/1/012028</link>
-      <description>Taras I. Pushkar, Daria Serogina, Natalia Matveeva, Hanna Sobolieva, Hanna A. Zhovtyak, IOP Conference Series Earth and Environmental Science. 1376(1)] 2024. https://openalex.org/W4401213065
-
-                Abstract Urbanisation processes contribute to an increase in the level of harmful emissions in cities, which significantly increases the relevance of sustainable inclusive development based on the principles of decarbonisation and the transition to zero-emission cities. The purpose of the study is to summarise the global experience of implementing sustainable urban development programmes and their transition to zero-emission cities and to develop proposals for its implementation in the substantiation of urban development programmes in Ukraine. The study is based on a system of methods that includes conceptual approaches to sustainable inclusive development based on a balanced approach, generalisation of global digital trends in the transition of cities to zero CO2 emissions, practical results of decarbonisation projects and identification of indicators for their achievement. In the context of the formation of &#8220;smart&#8221; city strategies in Ukraine, the current areas of decarbonisation of urban development, based on the feasibility and limited funding, are optimisation of urban traffic, creation of &#8220;green&#8221; zones with zero emissions, implementation of a set of measures and introduction of renewable energy, promotion of projects that reduce greenhouse gas emissions in construction, including their reduction at all stages of the life cycle of buildings, as well as the implementation of a &#8220;smart&#8221; waste management system Based on a synthesis of international experience, the study outlines the basic indicators for achieving decarbonisation goals, which can be used in the future to substantiate sustainable development strategies for Ukrainian cities.</description>
-      <author>Taras I. Pushkar, Daria Serogina, Natalia Matveeva, Hanna Sobolieva, Hanna A. Zhovtyak</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/1755-1315/1376/1/012028</guid>
-    </item>
-    <item>
       <title>BIMETALLIC Ni&#8208;Co SUPPORTED ON NITROGEN&#8208;DOPED CARBON NANOTUBES FOR PROX REACTION</title>
       <link>https://doi.org/10.1002/cctc.202400099</link>
       <description>H&#225;killa Priscyila de Jesus Souza, Fabio Souza Toniolo, Mart&#237;n Schmal, ChemCatChem. None(None)] 2024. https://openalex.org/W4401064533
@@ -1348,6 +1388,16 @@
       <author>H&#225;killa Priscyila de Jesus Souza, Fabio Souza Toniolo, Mart&#237;n Schmal</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400099</guid>
+    </item>
+    <item>
+      <title>Decarbonisation of Cities in the Context of their Sustainable Inclusive Development</title>
+      <link>https://doi.org/10.1088/1755-1315/1376/1/012028</link>
+      <description>Taras I. Pushkar, Daria Serogina, Natalia Matveeva, Hanna Sobolieva, Hanna A. Zhovtyak, IOP Conference Series Earth and Environmental Science. 1376(1)] 2024. https://openalex.org/W4401213065
+
+                Abstract Urbanisation processes contribute to an increase in the level of harmful emissions in cities, which significantly increases the relevance of sustainable inclusive development based on the principles of decarbonisation and the transition to zero-emission cities. The purpose of the study is to summarise the global experience of implementing sustainable urban development programmes and their transition to zero-emission cities and to develop proposals for its implementation in the substantiation of urban development programmes in Ukraine. The study is based on a system of methods that includes conceptual approaches to sustainable inclusive development based on a balanced approach, generalisation of global digital trends in the transition of cities to zero CO2 emissions, practical results of decarbonisation projects and identification of indicators for their achievement. In the context of the formation of &#8220;smart&#8221; city strategies in Ukraine, the current areas of decarbonisation of urban development, based on the feasibility and limited funding, are optimisation of urban traffic, creation of &#8220;green&#8221; zones with zero emissions, implementation of a set of measures and introduction of renewable energy, promotion of projects that reduce greenhouse gas emissions in construction, including their reduction at all stages of the life cycle of buildings, as well as the implementation of a &#8220;smart&#8221; waste management system Based on a synthesis of international experience, the study outlines the basic indicators for achieving decarbonisation goals, which can be used in the future to substantiate sustainable development strategies for Ukrainian cities.</description>
+      <author>Taras I. Pushkar, Daria Serogina, Natalia Matveeva, Hanna Sobolieva, Hanna A. Zhovtyak</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1755-1315/1376/1/012028</guid>
     </item>
     <item>
       <title>Effectiveness of Air Filtration in Reducing PM2.5 Exposures at a School in a Community Heavily Impacted by Air Pollution</title>
@@ -1360,16 +1410,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/atmos15080901</guid>
     </item>
     <item>
-      <title>LCA Operational Carbon Reduction Based on Energy Strategies Analysis in a Mass Timber Building</title>
-      <link>https://doi.org/10.3390/su16156579</link>
-      <description>Moein Hemmati, Tahar Messadi, Hongmei Gu, Mahboobeh Hemmati, Sustainability. 16(15)] 2024. https://openalex.org/W4401219155
-
-                Buildings play a significant role in the rise of energy consumption and carbon emissions. Building operations are responsible for 28% of the world&#8217;s carbon emissions. It is crucial, therefore, to evaluate the environmental impact of various buildings&#8217; operational phase in order to implement sustainable strategies for the mitigation of their energy usage and associated carbon footprint. While numerous studies have been conducted to determine the carbon footprint of conventional building operation phases, there are still a lack of actual data on the operational carbon (OC) emissions of mass timber buildings. There is also a lack of research pertaining to the operational carbon of buildings within larger campuses and their inherent energy usage. This study, therefore, aims to quantify empirical data on the carbon footprint of a mass timber building, using, as a case study, the recent Adohi Hall building, situated at the University of Arkansas, Fayetteville. The study also aims to examine and identify the best energy use scenarios for the campus building under consideration. The research team obtained data on Adohi Hall&#8217;s energy consumption, fuel input usage, and other utilities (such as water, electricity, chilled water, and natural gas) accounting for the operation of the building from 2021 to 2023, a span of three years. The University of Arkansas Facilities Management (FAMA) provided the data. The study relies on the life cycle assessment (LCA) as its primary approach, with SimaPro 9, Ecoinvent v3.7 database, DataSmart, version 2023.1 and the U.S. Life Cycle Inventory (USLCI) database utilized to model the energy and water consumption of Adohi Hall during the operational phase (B6 &amp; B7). The results indicate 4496 kg CO2 eq emissions associated with the operation per square meter of Adohi Hall over its 50-year lifespan. The study also examines various scenarios of fuel sources leading to carbon emissions and provides insights into reduction strategies during the operational phase of buildings. Among them, the electricity based on a cleaner fuel source diversification, according to realistic expectations and technological advancements projections, results in a 17% reduction in Adohi Hall&#8217;s OC. Due to the usage of the combined heat and power (CHP) plant on the campus of the University of Arkansas as a complementary source of electricity and heating for Adohi Hall, the resulting carbon emission is approximately 21% (20.73%) less when compared to similar buildings in the same city but outside the campus. The study, therefore, reveals that CHP plant development is a highly effective strategy for building OC reduction.</description>
-      <author>Moein Hemmati, Tahar Messadi, Hongmei Gu, Mahboobeh Hemmati</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16156579</guid>
-    </item>
-    <item>
       <title>Changes in the Properties of Green Concrete Due to an Acidic Environment</title>
       <link>https://doi.org/10.18517/ijaseit.14.4.17495</link>
       <description>Irma Aswani Ahmad, Noor Fadilah Romadhani, Muhammad Idhil Maming, International Journal on Advanced Science Engineering and Information Technology. 14(4)] 2024. https://openalex.org/W4401300351
@@ -1378,6 +1418,16 @@
       <author>Irma Aswani Ahmad, Noor Fadilah Romadhani, Muhammad Idhil Maming</author>
       <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.18517/ijaseit.14.4.17495</guid>
+    </item>
+    <item>
+      <title>LCA Operational Carbon Reduction Based on Energy Strategies Analysis in a Mass Timber Building</title>
+      <link>https://doi.org/10.3390/su16156579</link>
+      <description>Moein Hemmati, Tahar Messadi, Hongmei Gu, Mahboobeh Hemmati, Sustainability. 16(15)] 2024. https://openalex.org/W4401219155
+
+                Buildings play a significant role in the rise of energy consumption and carbon emissions. Building operations are responsible for 28% of the world&#8217;s carbon emissions. It is crucial, therefore, to evaluate the environmental impact of various buildings&#8217; operational phase in order to implement sustainable strategies for the mitigation of their energy usage and associated carbon footprint. While numerous studies have been conducted to determine the carbon footprint of conventional building operation phases, there are still a lack of actual data on the operational carbon (OC) emissions of mass timber buildings. There is also a lack of research pertaining to the operational carbon of buildings within larger campuses and their inherent energy usage. This study, therefore, aims to quantify empirical data on the carbon footprint of a mass timber building, using, as a case study, the recent Adohi Hall building, situated at the University of Arkansas, Fayetteville. The study also aims to examine and identify the best energy use scenarios for the campus building under consideration. The research team obtained data on Adohi Hall&#8217;s energy consumption, fuel input usage, and other utilities (such as water, electricity, chilled water, and natural gas) accounting for the operation of the building from 2021 to 2023, a span of three years. The University of Arkansas Facilities Management (FAMA) provided the data. The study relies on the life cycle assessment (LCA) as its primary approach, with SimaPro 9, Ecoinvent v3.7 database, DataSmart, version 2023.1 and the U.S. Life Cycle Inventory (USLCI) database utilized to model the energy and water consumption of Adohi Hall during the operational phase (B6 &amp; B7). The results indicate 4496 kg CO2 eq emissions associated with the operation per square meter of Adohi Hall over its 50-year lifespan. The study also examines various scenarios of fuel sources leading to carbon emissions and provides insights into reduction strategies during the operational phase of buildings. Among them, the electricity based on a cleaner fuel source diversification, according to realistic expectations and technological advancements projections, results in a 17% reduction in Adohi Hall&#8217;s OC. Due to the usage of the combined heat and power (CHP) plant on the campus of the University of Arkansas as a complementary source of electricity and heating for Adohi Hall, the resulting carbon emission is approximately 21% (20.73%) less when compared to similar buildings in the same city but outside the campus. The study, therefore, reveals that CHP plant development is a highly effective strategy for building OC reduction.</description>
+      <author>Moein Hemmati, Tahar Messadi, Hongmei Gu, Mahboobeh Hemmati</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su16156579</guid>
     </item>
     <item>
       <title>Applications of the Microalgae Chlamydomonas and Its Bacterial Consortia in Detoxification and Bioproduction</title>
@@ -1428,6 +1478,16 @@
       <author>Wen Yi, Xiaotong Wang, Tingkun He, Huan Liu, Zhenyu Luo, Zhaofeng Lv, Kebin He</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/essd-2024-258</guid>
+    </item>
+    <item>
+      <title>The Beneficial Effects of Fruits and Vegetables on Kidney Disease Progression and Cardiovascular Disease Risk</title>
+      <link>https://doi.org/10.1016/j.amjmed.2024.07.029</link>
+      <description>Claretha Lyas, The American Journal of Medicine. None(None)] 2024. https://openalex.org/W4401305591
+
+                Chronic kidney disease and cardiovascular disease are common causes of morbidity and mortality in the United States. In addition to pharmacologic therapy, dietary modification is an important strategy to mitigate disease progression. Diets rich in fruits and vegetable, such as the DASH (Dietary Approaches to Stop Hypertension) diet, the Mediterranean Diet, and vegan diets, have been shown to attenuate the risk of progressive chronic kidney disease and cardiovascular disease through a variety of mechanisms that are incompletely understood. Evidence suggests that these diets are high in potassium, which is an important dietary factor for blood pressure reduction, and high in magnesium which has been shown to lower the production of inflammatory and proatherogenic cytokines in endothelial cells2Morales-Alvarez M. et al.Effects of Reduced Dietary Sodium and the DASH Diet on GFR: The DASH-sodium trial.Kidney360. 2024; 5: 569-576Crossref Scopus (1) Google Scholar. Furthermore, diets high in fruits and vegetables have a reduced dietary acid load and provide a net alkalizing effect through its potassium, magnesium, and calcium content, which is in contrast to high acid diets, such as the typical Western diet or diets high in animal protein that have been shown to provide a net acidifying effect through its generation of hydrogen ions from phosphorus and protein3Noce A. et al.Nutritional Approaches for the Management of Metabolic Acidosis in Chronic Kidney Disease.Nutrients. 2021; 13: 2534Crossref PubMed Scopus (16) Google Scholar. High animal protein diets impose their adverse effects to the kidney through tubular toxicity from elevated ammonium concentration and activation of the renin-angiotensin system, and through the alternative complement pathway4Banerjee T. et al.High Dietary Acid Load Predicts ESRD among Adults with CKD.Journal of the American Association of Nephrology. 2015; 26: 1693-1700Crossref PubMed Scopus (0) Google Scholar. In this issue of AJM, Goraya and colleagues report the benefit of diets high in fruits and vegetables on chronic kidney disease progression, blood pressure control, and indices of cardiovascular disease risk in a primary hypertension patient population. They describe a randomized control trial of 153 ambulatory patients 18-70 years of age with macroalbuminuria defined as urine albumin-to-creatinine ratio &gt;200mg/g without diabetes, no known cardiovascular (CV) disease but at increased risk of developing CV disease due to having macroalbuminuria, normal plasma CO2 level, and normal kidney function to evaluate kidney disease progression and cardiovascular disease risk indices over five years. This patient population was selected as they had no known cardiovascular disease but were at increased risk and therefore had the greatest potential to benefit from dietary modification. The authors randomized ambulatory patients with hypertension in a 1:1:1 ratio to fruits and vegetables, sodium bicarbonate tablets to match the alkali content of the fruits and vegetables group, or to usual care with 51 patients in each of the three groups. All individuals received guideline-directed therapy of angiotensin converting enzyme inhibitors (enalapril) and statin therapy (atorvastatin) as tolerated by patients. The investigators found that when compared to usual care both the fruit and vegetable group and oral sodium bicarbonate group resulted in a statistically significant reduction in albuminuria and slower decline in eGFR. These reductions occurred as early as year 2 in this five year study with the degree of albuminuria reduction as high as 33mg/g and the range of eGFR decline of 4.78-6.03ml/min/1.73m2 compared to 8.6-10.8ml/min/1.73m2 in the usual care group. The greatest reduction in CV disease risk indices of systolic blood pressure, LDL cholesterol, Lp(a) cholesterol, and BMI occurred in the fruits and vegetables group compared to both the usual care and the oral sodium bicarbonate groups. Clinically, these changes were equivalent to roughly 5mmHg reduction in systolic blood pressure, 6mg/dl reduction in LDL cholesterol, 3mg/dl reduction in Lp(a) cholesterol, and 1kg/m2 reduction in BMI when compared to enalapril and atorvastatin alone. The authors showed that median doses of antihypertensive medications and statins were lower in the fruits and vegetables group compared to the usual care group. Therefore, fruits and vegetables showed an added benefit to usual care. This study was a remarkable achievement in the way in which it was conducted, the limitation in resources available, and the diverse study population recruited. It took 10 years to enroll the necessary sample size of individuals that uniquely had hypertension, macroalbuminuria without diabetes, and normal kidney function with an estimated glomerular filtration rate &gt;90ml/min/1.73m2. Also, it enrolled a study population of 47% African American individuals which can be difficult to achieve in clinical trials. The large number of African Americans in the study cohort speaks to the trial's ability to generalize to a diverse patient population and speaks to the potential success of a dietary intervention in minority populations who are at risk of having limited resources and poor access to medical care. Furthermore, it provides a rationale for more dietary intervention studies in populations who would otherwise be skeptical of traditional pharmacologic care. This is the first interventional, randomized control trial that compared the alkali producing potential of fruits and vegetables against oral sodium bicarbonate therapy and its effect on kidney disease progression and cardiovascular disease risk in a patient population with normal kidney function. Furthermore, it shows that fruits and vegetables are an added benefit to usual care, and it provides the foundational support for routine assessment of albuminuria in a primary hypertension patient population. This study compliments a similar study by the authors that investigated similar parameters in a CKD Stage 3 population (eGFR 30-59ml/min/1.73m2), not a population with normal kidney function as this study, where similar results were reported, thus signifying an enduring benefit of fruit and vegetable consumption on kidney disease progression and cardiovascular disease risk5Goraya N. et al.Fruits and Vegetable Treatment of Chronic Kidney Disease-Related Metabolic Acidosis Reduces Cardiovascular Risk Better than Sodium Bicarbonate.American Journal of Nephrology. 2019; 49: 438-448Crossref PubMed Scopus (0) Google Scholar. Compared to the authors' previous study, this current study was conducted in a larger patient cohort but with similar numbers of African American and Hispanic individuals. Also, outcomes in the current study were investigated equally as compared to the previous study where outcomes were delineated as primary (eGFR change) versus secondary (urinary excretion of kidney injury parameters, body mass index, systolic blood pressure, and plasma levels of cholesterol), making the cardiovascular disease risk indices in this current study more robust. This study highlights the benefits of fruits and vegetables on cardiovascular and renal indices while also showcasing the continued limitations of delivering healthy foods and sustaining a dietary intervention, particularly in marginalized communities. The authors describe a significant investment of time and resources to retain this study cohort as this unique patient population makes up less than 1% of patients with primary hypertension and comprises a small number of individuals from which to recruit. Additionally, these patients were almost 50% African American, which undoubtedly made retention efforts different than what would be necessary for non-minority communities. As such, this study not only speaks to the willingness and engagement of minority communities in a dietary intervention but also further highlights the need for systemic change to make fruits and vegetables more widely available for all communities given that this study adds more evidence to support the need for fruit and vegetable intake in the management of chronic kidney disease and cardiovascular disease. Policy initiatives to include eliminating food deserts, creating subsidies or vouchers for fruits and vegetables, incentivizing community gardens, engaging community and civic organizations, and combining reductions in insurance premiums with increased consumption of fruits and vegetables are all areas to consider for practical implementation and for overcoming the barrier this dietary change would create. There are a few study limitations the authors cite. For example, the investigators describe a lack of specific data on adherence with sodium bicarbonate therapy as a major limitation of the study. Other limitations include a lack of data on differences in dietary sodium intake that could either contribute or attenuate the study results. Also, there is a lack of confirmation of the prespecified amount of fruits and vegetables consumed, although they did show that plasma total CO2 levels and plasma bicarbonate concentrations were higher in the sodium bicarbonate therapy and fruits and vegetable groups. Future studies could further test these findings in larger patient populations and further unravel the mechanisms of how high dietary fruit and vegetable intake attenuate the risk of kidney disease and cardiovascular disease progression. Furthermore, future studies with larger sample sizes and longer follow up periods could determine if high fruit and vegetable consumption decrease cardiovascular events and outcomes. 1Appel L. A Clinical Trial of the Effects of Dietary Patterns on Blood Pressure.NEJM. 1997; 336: 1117-1124Crossref PubMed Scopus (0) Google Scholar Claretha Lyas: Writing &#8211; original draft, Writing &#8211; review &amp; editing. I was a paid consultant in 2022 for Baxter Healthcare for my expertise in sepsis related acute kidney injury. This consulting work is not related to the current commentary.</description>
+      <author>Claretha Lyas</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.amjmed.2024.07.029</guid>
     </item>
     <item>
       <title>Optimizing Alkali-Activated Mortars with Steel Slag and Eggshell Powder</title>

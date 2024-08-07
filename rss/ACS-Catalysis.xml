@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Aug 2024 01:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 01:12:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -72,7 +72,7 @@
       <link>https://doi.org/10.1021/acscatal.4c03153</link>
       <description>Nicolas G.-Simonian, M&#230; F&#233;o, Cl&#233;ment Tanguy, Claire Troufflard, Guillaume Lef&#232;vre, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401114634
 
-                No abstract</description>
+                The field of iron catalysis often faces hurdles in accommodating its transient and unstable low-valent intermediates. By harnessing the noninnocent character of commercial bathocuproine ligand, we managed to develop a reliable functionalization of alkynes with primary, secondary, and tertiary silanes but also with germanium hydrides, catalyzed by a low-valent iron complex. The robustness of the catalyst enabled gram-scale synthesis of vinylsilanes, low catalytic loading, one-pot, hetero, bis-hydrosilylation, but also high steric build-up. Mechanistic studies suggest an important effect of the MgII cation resulting from the reduction of the precatalyst, by assisting the dynamic generation of a highly reactive, under-coordinated iron species from a stable complex.</description>
       <author>Nicolas G.-Simonian, M&#230; F&#233;o, Cl&#233;ment Tanguy, Claire Troufflard, Guillaume Lef&#232;vre</author>
       <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03153</guid>
@@ -162,7 +162,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02995</link>
       <description>L. Ernst, Christian Njel, Wijnand Marquart, Shaine Raseale, Michael Claeys, Nico Fischer, Ingo Krossing, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401163510
 
-                No abstract</description>
+                Oxidative fluorination is reported to increase methanol (MeOH) productivity of binary copper&#8211;zinc oxide (CZ) catalyst systems yet is incompatible with all the hitherto tested ternary support materials. Here, we show that the oxidative fluorination with F2 gas of CZ MeOH catalysts including iron oxide as a support material improves catalytic performances. A systematic variation of the compositions of the investigated ternary CZFe (copper, zinc, and iron) catalyst system led to a total of 13 different systems. The subsequent oxidative fluorination of all systems with a low F2 pressure of 200 mbar showed significant improvement in the MeOH productivity and selectivity for almost all systems tested. High-iron systems benefited most from oxidative fluorination. In addition, selected systems were exposed to higher F2 amounts and were studied. Further measurements showed that the crystallinity, surface area, and high-temperature carbonate content of the CZFe systems are very well tunable. Kinetic investigations indicated that fluorination leads to an increase in the number of active sites for the MeOH synthesis and at the same time increases the apparent activation energy for the RWGS reaction. In addition, oxidative fluorination at total F2 pressures of and higher than 1250 mbar shuts down the iron-induced parasitic Fischer&#8211;Tropsch-type hydrogenation to hydrocarbons and results in the highest MeOH production rates.</description>
       <author>L. Ernst, Christian Njel, Wijnand Marquart, Shaine Raseale, Michael Claeys, Nico Fischer, Ingo Krossing</author>
       <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02995</guid>
@@ -326,6 +326,26 @@
       <author>Zhu Ling, Tingyu Lei, Xingchen Liu, Xinchun Yang, Bin Zhang, Haijun Jiao, Wenping Guo, Botao Teng, Xiaodong Wen</author>
       <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02514</guid>
+    </item>
+    <item>
+      <title>Hafnium(IV)-Salen-Catalyzed Highly Reactive and Enantioselective Epoxidation Directed by Amides</title>
+      <link>https://doi.org/10.1021/acscatal.4c03648</link>
+      <description>J. M. Yao, Zhi Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401324944
+
+                No abstract</description>
+      <author>J. M. Yao, Zhi Li</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03648</guid>
+    </item>
+    <item>
+      <title>Industrial and Laboratory Technologies for the Chemical Recycling of Plastic Waste</title>
+      <link>https://doi.org/10.1021/acscatal.4c03194</link>
+      <description>Mason T. Chin, Tianning Diao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401326880
+
+                No abstract</description>
+      <author>Mason T. Chin, Tianning Diao</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03194</guid>
     </item>
   </channel>
 </rss>

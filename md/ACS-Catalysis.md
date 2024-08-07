@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Aug  6 01:11:45 2024
+Created on Wed Aug  7 01:12:28 2024
 
-Found 32 results from 2024-07-30 to 2024-08-06
+Found 34 results from 2024-07-31 to 2024-08-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -79,7 +79,7 @@ Open access: False
     
 [Nicolas G.-Simonian](https://openalex.org/A5087311486), [Mæ Féo](https://openalex.org/A5036378312), [Clément Tanguy](https://openalex.org/A5097930684), [Claire Troufflard](https://openalex.org/A5048317143), [Guillaume Lefèvre](https://openalex.org/A5021299818), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03153.
     
-No abstract    
+The field of iron catalysis often faces hurdles in accommodating its transient and unstable low-valent intermediates. By harnessing the noninnocent character of commercial bathocuproine ligand, we managed to develop a reliable functionalization of alkynes with primary, secondary, and tertiary silanes but also with germanium hydrides, catalyzed by a low-valent iron complex. The robustness of the catalyst enabled gram-scale synthesis of vinylsilanes, low catalytic loading, one-pot, hetero, bis-hydrosilylation, but also high steric build-up. Mechanistic studies suggest an important effect of the MgII cation resulting from the reduction of the precatalyst, by assisting the dynamic generation of a highly reactive, under-coordinated iron species from a stable complex.    
 
     
 
@@ -178,7 +178,7 @@ Open access: False
     
 [L. Ernst](https://openalex.org/A5024147094), [Christian Njel](https://openalex.org/A5062169154), [Wijnand Marquart](https://openalex.org/A5087185974), [Shaine Raseale](https://openalex.org/A5091840224), [Michael Claeys](https://openalex.org/A5081932269), [Nico Fischer](https://openalex.org/A5043608368), [Ingo Krossing](https://openalex.org/A5035919046), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02995.
     
-No abstract    
+Oxidative fluorination is reported to increase methanol (MeOH) productivity of binary copper–zinc oxide (CZ) catalyst systems yet is incompatible with all the hitherto tested ternary support materials. Here, we show that the oxidative fluorination with F2 gas of CZ MeOH catalysts including iron oxide as a support material improves catalytic performances. A systematic variation of the compositions of the investigated ternary CZFe (copper, zinc, and iron) catalyst system led to a total of 13 different systems. The subsequent oxidative fluorination of all systems with a low F2 pressure of 200 mbar showed significant improvement in the MeOH productivity and selectivity for almost all systems tested. High-iron systems benefited most from oxidative fluorination. In addition, selected systems were exposed to higher F2 amounts and were studied. Further measurements showed that the crystallinity, surface area, and high-temperature carbonate content of the CZFe systems are very well tunable. Kinetic investigations indicated that fluorination leads to an increase in the number of active sites for the MeOH synthesis and at the same time increases the apparent activation energy for the RWGS reaction. In addition, oxidative fluorination at total F2 pressures of and higher than 1250 mbar shuts down the iron-induced parasitic Fischer–Tropsch-type hydrogenation to hydrocarbons and results in the highest MeOH production rates.    
 
     
 
@@ -353,6 +353,28 @@ OpenAlex: https://openalex.org/W4401309074
 Open access: False
     
 [Zhu Ling](https://openalex.org/A5100307279), [Tingyu Lei](https://openalex.org/A5080670426), [Xingchen Liu](https://openalex.org/A5100644714), [Xinchun Yang](https://openalex.org/A5007065150), [Bin Zhang](https://openalex.org/A5100392786), [Haijun Jiao](https://openalex.org/A5087368338), [Wenping Guo](https://openalex.org/A5103793376), [Botao Teng](https://openalex.org/A5030872083), [Xiaodong Wen](https://openalex.org/A5047313833), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02514.
+    
+No abstract    
+
+    
+
+## Hafnium(IV)-Salen-Catalyzed Highly Reactive and Enantioselective Epoxidation Directed by Amides   
+
+OpenAlex: https://openalex.org/W4401324944    
+Open access: False
+    
+[J. M. Yao](https://openalex.org/A5087164138), [Zhi Li](https://openalex.org/A5014835616), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03648.
+    
+No abstract    
+
+    
+
+## Industrial and Laboratory Technologies for the Chemical Recycling of Plastic Waste   
+
+OpenAlex: https://openalex.org/W4401326880    
+Open access: True
+    
+[Mason T. Chin](https://openalex.org/A5090190903), [Tianning Diao](https://openalex.org/A5032981628), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03194.
     
 No abstract    
 

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Aug 2024 01:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 01:12:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -70,10 +70,10 @@
     <item>
       <title>Manipulation of Oxidation States on Phase Boundary via Surface Layer Modification for Enhanced Alkaline Hydrogen Electrocatalysis</title>
       <link>https://doi.org/10.1002/adma.202405128</link>
-      <description>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#305;&#769;a-Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang, Advanced Materials. None(None)] 2024. https://openalex.org/W4401064146
+      <description>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#237;a&#8208;Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang, Advanced Materials. None(None)] 2024. https://openalex.org/W4401064146
 
                 Abstract In alkaline water electrolysis and anion exchange membrane water electrolysis technologies, the hydrogen evolution reaction (HER) at the cathode is significantly constrained by a high energy barrier during the water dissociation step. This study employs a phase engineering strategy to construct heterostructures composed of crystalline Ni 4 W and amorphous WO x aiming to enhance catalytic performance in the HER under alkaline conditions. This work systematically modulates the oxidation states of W within the amorphous WO x of the heterostructure to adjust the electronic states of the phase boundary, the energy barriers associated with the water dissociation step, and the adsorption/desorption properties of intermediates during the alkaline HER process. The optimized catalyst, Ni 4 W/WO x &#8208;2, with a quasi&#8208;metallic state of W coordinated by a low oxygen content in amorphous WO x , demonstrates exceptional catalytic performance (22 mV@10 mA cm &#8722;2 ), outperforming commercial Pt/C (30 mV@10 mA cm &#8722;2 ). Furthermore, the operando X&#8208;ray absorption spectroscopy analysis and theoretical calculations reveal that the optimized W atoms in amorphous WO x serve as active sites for water dissociation and the nearby Ni atoms in crystalline Ni 4 W facilitated the release of H 2 . These findings provide valuable insights into designing efficient heterostructured materials for energy conversion.</description>
-      <author>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#305;&#769;a-Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang</author>
+      <author>Huawei Huang, Liangliang Xu, Shouwei Zuo, Song Lu, Chen Zou, Max Garc&#237;a&#8208;Melchor, Yang Li, Yuxun Ren, Magnus Rueping, Huabin Zhang</author>
       <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202405128</guid>
     </item>
@@ -688,6 +688,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.175860</guid>
     </item>
     <item>
+      <title>Review on chemisorbed oxyanions on electrocatalysts for efficient oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.110089</link>
+      <description>Han-Ming Zhang, Nano Energy. None(None)] 2024. https://openalex.org/W4401344088
+
+                No abstract</description>
+      <author>Han-Ming Zhang</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.110089</guid>
+    </item>
+    <item>
       <title>Impact of Organic Anions on Metal Hydroxide Oxygen Evolution Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c01907</link>
       <description>Shujin Hou, Li&#8208;Li Xu, Soumya Mukherjee, Jian Zhou, Kun&#8208;Ting Song, Zhenyu Zhou, Shengli Zhang, Xiaoxin Ma, Julien Warnan, Aliaksandr S. Bandarenka, Roland A. Fischer, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401074450
@@ -808,16 +818,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00906</guid>
     </item>
     <item>
-      <title>The ultrafast reconfigurability and ultrahigh durability of NiFe phosphides electrocatalyst with a Fe-rich surface induced by in-situ acid corrosion for water oxidations</title>
-      <link>https://doi.org/10.1039/d4qi01378f</link>
-      <description>Min Jiang, Jiaming Zhang, Hanxiao Liao, Huanhuan Zhai, Xuanzhi Liu, Pengfei Tan, Yi&#8208;Yang Sun, Yongjin Ma, Inorganic Chemistry Frontiers. None(None)] 2024. https://openalex.org/W4401173936
-
-                NiFe based catalysts are expected to replace commercially available noble metal-based electrocatalysts for oxygen evolution reaction (OER) due to their reconfigurability into high performance NiFe oxyhydroxides from their phosphides. However,...</description>
-      <author>Min Jiang, Jiaming Zhang, Hanxiao Liao, Huanhuan Zhai, Xuanzhi Liu, Pengfei Tan, Yi&#8208;Yang Sun, Yongjin Ma</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4qi01378f</guid>
-    </item>
-    <item>
       <title>Suppressing Product Crossover and C-C Bond Cleavage in a Glycerol Membrane Electrode Assembly Reformer</title>
       <link>https://doi.org/10.1039/d4ee01824a</link>
       <description>Chencheng Dai, Qian Wu, Tianze Wu, Shouxin Zhang, Libo Sun, Xiaogang Wang, Adrian C. Fisher, Zhichuan J. Xu, Energy &amp; Environmental Science. None(None)] 2024. https://openalex.org/W4401234420
@@ -826,6 +826,16 @@
       <author>Chencheng Dai, Qian Wu, Tianze Wu, Shouxin Zhang, Libo Sun, Xiaogang Wang, Adrian C. Fisher, Zhichuan J. Xu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ee01824a</guid>
+    </item>
+    <item>
+      <title>The ultrafast reconfigurability and ultrahigh durability of NiFe phosphides electrocatalyst with a Fe-rich surface induced by in-situ acid corrosion for water oxidations</title>
+      <link>https://doi.org/10.1039/d4qi01378f</link>
+      <description>Min Jiang, Jiaming Zhang, Hanxiao Liao, Huanhuan Zhai, Xuanzhi Liu, Pengfei Tan, Yi&#8208;Yang Sun, Yongjin Ma, Inorganic Chemistry Frontiers. None(None)] 2024. https://openalex.org/W4401173936
+
+                NiFe based catalysts are expected to replace commercially available noble metal-based electrocatalysts for oxygen evolution reaction (OER) due to their reconfigurability into high performance NiFe oxyhydroxides from their phosphides. However,...</description>
+      <author>Min Jiang, Jiaming Zhang, Hanxiao Liao, Huanhuan Zhai, Xuanzhi Liu, Pengfei Tan, Yi&#8208;Yang Sun, Yongjin Ma</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qi01378f</guid>
     </item>
     <item>
       <title>FeNi alloys embedded in porous carbon shells on dual-substrate as efficient electrocatalyst for zinc-air batteries</title>
@@ -1139,16 +1149,6 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2407.20313</guid>
     </item>
     <item>
-      <title>Exploring the mechanisms of Devonian oceanic anoxia: impact of ocean dynamics, palaeogeography and orbital forcing</title>
-      <link>https://doi.org/10.5194/egusphere-2024-1983</link>
-      <description>Justin G&#233;rard, Lo&#239;c Sablon, Jarno J. C. Huygh, Anne&#8208;Christine Da Silva, Alexandre Pohl, Christian V&#233;rard, Michel Crucifix, No host. None(None)] 2024. https://openalex.org/W4401225082
-
-                Abstract. The Devonian is a warmer-than-present geological period spanning from 419 to 359 million years ago (Ma) characterized by multiple identified ocean anoxic/hypoxic events. Despite decades of extensive investigation, no consensus has been reached regarding the drivers of these anoxic events. While growing geological evidence has demonstrated a temporal correlation between astronomical forcing and anoxia during this period, underlying physical mechanisms remain unknown, hence questioning causality. Here, we perform multiple sensitivity experiments, using an Earth system model of intermediate complexity (cGENIE), to isolate the influences of specific Devonian climate and palaeogeography components on ocean oxygen levels, contributing to the better understanding of the intricate interplay of factors preconditioning the ocean to anoxia. We quantify the impact of continental configuration, ocean-atmosphere biogeochemistry (global mean oceanic PO4 concentration and atmospheric pO2), climatic forcing (pCO2) and astronomical forcing on background oceanic circulation and oxygenation during the Devonian. Our results indicate that continental configuration is crucial for Devonian ocean anoxia, significantly influencing ocean circulation and oxygen levels while consistently modulating the effects of other Devonian climate components such as oceanic PO4 concentration, atmospheric pO2 and pCO2, and orbital forcing. The evolution of continental configuration provides a plausible explanation for the increased frequency of ocean anoxic events identified during the Middle and Late Devonian periods, as it contributed to the expansion of oxygen-depleted zones. Our simulations also show that both the decreased atmospheric pO2 and increased oceanic PO2 concentration exacerbate ocean anoxia, consistent with established knowledge. The variation of pCO2 reveals a wide range of ocean dynamics patterns, including stable oscillations, multiple convection cells, multistability and hysteresis; all leading to significant variations of the ocean oxygen levels, therefore strongly impacting the preconditioning of the ocean to anoxia. Furthermore, multistability and important hysteresis (particularly slow ocean time response) offer different mechanisms to account for the prolonged duration of some ocean anoxic events. Finally, we found that astronomical forcing substantially impacts ocean anoxia by altering ocean circulation and oxygen solubility, with obliquity consistently emerging as the primary orbital parameter driving ocean oxygen variations.</description>
-      <author>Justin G&#233;rard, Lo&#239;c Sablon, Jarno J. C. Huygh, Anne&#8208;Christine Da Silva, Alexandre Pohl, Christian V&#233;rard, Michel Crucifix</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-1983</guid>
-    </item>
-    <item>
       <title>Magnetite geochemistry of giant alkalic-type epithermal gold deposits: Insights into the magmatic evolution of mineralized alkaline systems</title>
       <link>https://doi.org/10.1144/sp551-2024-57</link>
       <description>Micha&#235;l Schirra, Zolt&#225;n Zajacz, Daniel M&#252;ller, Geological Society London Special Publications. 551(1)] 2024. https://openalex.org/W4401134345
@@ -1157,6 +1157,16 @@
       <author>Micha&#235;l Schirra, Zolt&#225;n Zajacz, Daniel M&#252;ller</author>
       <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1144/sp551-2024-57</guid>
+    </item>
+    <item>
+      <title>Exploring the mechanisms of Devonian oceanic anoxia: impact of ocean dynamics, palaeogeography and orbital forcing</title>
+      <link>https://doi.org/10.5194/egusphere-2024-1983</link>
+      <description>Justin G&#233;rard, Lo&#239;c Sablon, Jarno J. C. Huygh, Anne&#8208;Christine Da Silva, Alexandre Pohl, Christian V&#233;rard, Michel Crucifix, No host. None(None)] 2024. https://openalex.org/W4401225082
+
+                Abstract. The Devonian is a warmer-than-present geological period spanning from 419 to 359 million years ago (Ma) characterized by multiple identified ocean anoxic/hypoxic events. Despite decades of extensive investigation, no consensus has been reached regarding the drivers of these anoxic events. While growing geological evidence has demonstrated a temporal correlation between astronomical forcing and anoxia during this period, underlying physical mechanisms remain unknown, hence questioning causality. Here, we perform multiple sensitivity experiments, using an Earth system model of intermediate complexity (cGENIE), to isolate the influences of specific Devonian climate and palaeogeography components on ocean oxygen levels, contributing to the better understanding of the intricate interplay of factors preconditioning the ocean to anoxia. We quantify the impact of continental configuration, ocean-atmosphere biogeochemistry (global mean oceanic PO4 concentration and atmospheric pO2), climatic forcing (pCO2) and astronomical forcing on background oceanic circulation and oxygenation during the Devonian. Our results indicate that continental configuration is crucial for Devonian ocean anoxia, significantly influencing ocean circulation and oxygen levels while consistently modulating the effects of other Devonian climate components such as oceanic PO4 concentration, atmospheric pO2 and pCO2, and orbital forcing. The evolution of continental configuration provides a plausible explanation for the increased frequency of ocean anoxic events identified during the Middle and Late Devonian periods, as it contributed to the expansion of oxygen-depleted zones. Our simulations also show that both the decreased atmospheric pO2 and increased oceanic PO2 concentration exacerbate ocean anoxia, consistent with established knowledge. The variation of pCO2 reveals a wide range of ocean dynamics patterns, including stable oscillations, multiple convection cells, multistability and hysteresis; all leading to significant variations of the ocean oxygen levels, therefore strongly impacting the preconditioning of the ocean to anoxia. Furthermore, multistability and important hysteresis (particularly slow ocean time response) offer different mechanisms to account for the prolonged duration of some ocean anoxic events. Finally, we found that astronomical forcing substantially impacts ocean anoxia by altering ocean circulation and oxygen solubility, with obliquity consistently emerging as the primary orbital parameter driving ocean oxygen variations.</description>
+      <author>Justin G&#233;rard, Lo&#239;c Sablon, Jarno J. C. Huygh, Anne&#8208;Christine Da Silva, Alexandre Pohl, Christian V&#233;rard, Michel Crucifix</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-1983</guid>
     </item>
     <item>
       <title>Piezo&#8208;catalysis Mechanism Elucidation by Tracking Oxygen Reduction to Hydrogen Peroxide with In&#8208;situ EPR Spectroscopy</title>

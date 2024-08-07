@@ -1,8 +1,8 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Tue Aug  6 01:11:36 2024
+Created on Wed Aug  7 01:12:21 2024
 
-Found 139 results from 2024-07-30 to 2024-08-06
+Found 140 results from 2024-07-31 to 2024-08-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution]]
@@ -148,7 +148,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4401064146 (Open access: False)
     
-[[https://openalex.org/A5064586018][Huawei Huang]], [[https://openalex.org/A5101978721][Liangliang Xu]], [[https://openalex.org/A5033564313][Shouwei Zuo]], [[https://openalex.org/A5012289270][Song Lu]], [[https://openalex.org/A5101864882][Chen Zou]], [[https://openalex.org/A5049133522][Max Garcı́a-Melchor]], [[https://openalex.org/A5100421631][Yang Li]], [[https://openalex.org/A5103242510][Yuxun Ren]], [[https://openalex.org/A5071153001][Magnus Rueping]], [[https://openalex.org/A5019144758][Huabin Zhang]], Advanced Materials. None(None)] 2024. https://doi.org/10.1002/adma.202405128 
+[[https://openalex.org/A5064586018][Huawei Huang]], [[https://openalex.org/A5101978721][Liangliang Xu]], [[https://openalex.org/A5033564313][Shouwei Zuo]], [[https://openalex.org/A5012289270][Song Lu]], [[https://openalex.org/A5101864882][Chen Zou]], [[https://openalex.org/A5049133522][Max García‐Melchor]], [[https://openalex.org/A5100421631][Yang Li]], [[https://openalex.org/A5103242510][Yuxun Ren]], [[https://openalex.org/A5071153001][Magnus Rueping]], [[https://openalex.org/A5019144758][Huabin Zhang]], Advanced Materials. None(None)] 2024. https://doi.org/10.1002/adma.202405128 
      
 Abstract In alkaline water electrolysis and anion exchange membrane water electrolysis technologies, the hydrogen evolution reaction (HER) at the cathode is significantly constrained by a high energy barrier during the water dissociation step. This study employs a phase engineering strategy to construct heterostructures composed of crystalline Ni 4 W and amorphous WO x aiming to enhance catalytic performance in the HER under alkaline conditions. This work systematically modulates the oxidation states of W within the amorphous WO x of the heterostructure to adjust the electronic states of the phase boundary, the energy barriers associated with the water dissociation step, and the adsorption/desorption properties of intermediates during the alkaline HER process. The optimized catalyst, Ni 4 W/WO x ‐2, with a quasi‐metallic state of W coordinated by a low oxygen content in amorphous WO x , demonstrates exceptional catalytic performance (22 mV@10 mA cm −2 ), outperforming commercial Pt/C (30 mV@10 mA cm −2 ). Furthermore, the operando X‐ray absorption spectroscopy analysis and theoretical calculations reveal that the optimized W atoms in amorphous WO x serve as active sites for water dissociation and the nearby Ni atoms in crystalline Ni 4 W facilitated the release of H 2 . These findings provide valuable insights into designing efficient heterostructured materials for energy conversion.    
 
@@ -1396,7 +1396,7 @@ No abstract
 * Bifunctional Oxygen‐Defect Bismuth Catalyst toward Concerted Production of H2O2 with over 150% Cell Faradaic Efficiency in Continuously Flowing Paired‐Electrosynthesis System  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401308478
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials
+:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-08-04
 :END:    
     
@@ -1430,6 +1430,27 @@ Abstract The electrosynthesis of hydrogen peroxide (H 2 O 2 ) from O 2 or H 2 O 
 OpenAlex: https://openalex.org/W4401311945 (Open access: False)
     
 [[https://openalex.org/A5057222563][Kotesh Kumar Mandari]], [[https://openalex.org/A5077449173][Younghwan Im]], [[https://openalex.org/A5029753585][Misook Kang]], Journal of Alloys and Compounds. None(None)] 2024. https://doi.org/10.1016/j.jallcom.2024.175860 
+     
+No abstract    
+
+    
+
+* Review on chemisorbed oxyanions on electrocatalysts for efficient oxygen evolution reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401344088
+:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Memristive Devices for Neuromorphic Computing
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nanoen.2024.110089")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401344088"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401344088"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401344088"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401344088 (Open access: False)
+    
+[[https://openalex.org/A5030069686][Han-Ming Zhang]], Nano Energy. None(None)] 2024. https://doi.org/10.1016/j.nanoen.2024.110089 
      
 No abstract    
 
@@ -1687,27 +1708,6 @@ Electrocatalytic hydrogen evolution via water splitting occurs at the electrode 
 
     
 
-* The ultrafast reconfigurability and ultrahigh durability of NiFe phosphides electrocatalyst with a Fe-rich surface induced by in-situ acid corrosion for water oxidations  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401173936
-:TOPICS: Electrocatalysis for Energy Conversion, Desulfurization Technologies for Fuels, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4qi01378f")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401173936"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401173936"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401173936"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401173936 (Open access: False)
-    
-[[https://openalex.org/A5100659026][Min Jiang]], [[https://openalex.org/A5100453779][Jiaming Zhang]], [[https://openalex.org/A5050871189][Hanxiao Liao]], [[https://openalex.org/A5026581920][Huanhuan Zhai]], [[https://openalex.org/A5007629234][Xuanzhi Liu]], [[https://openalex.org/A5101497824][Pengfei Tan]], [[https://openalex.org/A5088539022][Yi‐Yang Sun]], [[https://openalex.org/A5102791559][Yongjin Ma]], Inorganic Chemistry Frontiers. None(None)] 2024. https://doi.org/10.1039/d4qi01378f 
-     
-NiFe based catalysts are expected to replace commercially available noble metal-based electrocatalysts for oxygen evolution reaction (OER) due to their reconfigurability into high performance NiFe oxyhydroxides from their phosphides. However,...    
-
-    
-
 * Suppressing Product Crossover and C-C Bond Cleavage in a Glycerol Membrane Electrode Assembly Reformer  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401234420
@@ -1726,6 +1726,27 @@ OpenAlex: https://openalex.org/W4401234420 (Open access: False)
 [[https://openalex.org/A5017680037][Chencheng Dai]], [[https://openalex.org/A5060985978][Qian Wu]], [[https://openalex.org/A5103137050][Tianze Wu]], [[https://openalex.org/A5101742243][Shouxin Zhang]], [[https://openalex.org/A5048054881][Libo Sun]], [[https://openalex.org/A5100444820][Xiaogang Wang]], [[https://openalex.org/A5057145033][Adrian C. Fisher]], [[https://openalex.org/A5034440449][Zhichuan J. Xu]], Energy & Environmental Science. None(None)] 2024. https://doi.org/10.1039/d4ee01824a 
      
 Generating hydrogen through water electrolysis is impeded by high costs and substantial energy consumption mainly due to high equilibrium potential and sluggish kinetics of the oxygen evolution reaction (OER). Glycerol...    
+
+    
+
+* The ultrafast reconfigurability and ultrahigh durability of NiFe phosphides electrocatalyst with a Fe-rich surface induced by in-situ acid corrosion for water oxidations  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401173936
+:TOPICS: Electrocatalysis for Energy Conversion, Desulfurization Technologies for Fuels, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4qi01378f")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401173936"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401173936"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401173936"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401173936 (Open access: False)
+    
+[[https://openalex.org/A5100659026][Min Jiang]], [[https://openalex.org/A5100453779][Jiaming Zhang]], [[https://openalex.org/A5050871189][Hanxiao Liao]], [[https://openalex.org/A5026581920][Huanhuan Zhai]], [[https://openalex.org/A5007629234][Xuanzhi Liu]], [[https://openalex.org/A5101497824][Pengfei Tan]], [[https://openalex.org/A5088539022][Yi‐Yang Sun]], [[https://openalex.org/A5102791559][Yongjin Ma]], Inorganic Chemistry Frontiers. None(None)] 2024. https://doi.org/10.1039/d4qi01378f 
+     
+NiFe based catalysts are expected to replace commercially available noble metal-based electrocatalysts for oxygen evolution reaction (OER) due to their reconfigurability into high performance NiFe oxyhydroxides from their phosphides. However,...    
 
     
 
@@ -1879,7 +1900,7 @@ Manganese oxide is a unique type of transition metal oxide that effectively func
 * Rod‐Shaped Au@Ce Nano‐Platforms for Enhancing Photodynamic Tumor Collaborative Therapy  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401308457
-:TOPICS: Nanotechnology and Imaging for Cancer Therapy and Diagnosis, Nanomaterials with Enzyme-Like Characteristics, DNA Nanotechnology and Bioanalytical Applications
+:TOPICS: Nanomaterials with Enzyme-Like Characteristics, Nanotechnology and Imaging for Cancer Therapy and Diagnosis, Structural and Functional Study of Noble Metal Nanoclusters
 :PUBLICATION_DATE: 2024-08-04
 :END:    
     
@@ -2380,27 +2401,6 @@ Metal-poor massive stars drive the evolution of low-mass galaxies, both locally 
 
     
 
-* Exploring the mechanisms of Devonian oceanic anoxia: impact of ocean dynamics, palaeogeography and orbital forcing  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401225082
-:TOPICS: Geological Evolution of South China Sea, Paleoredox and Paleoproductivity Proxies, Geological Evolution of the Arctic Region
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/egusphere-2024-1983")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401225082"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401225082"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401225082"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401225082 (Open access: True)
-    
-[[https://openalex.org/A5012858588][Justin Gérard]], [[https://openalex.org/A5089047693][Loïc Sablon]], [[https://openalex.org/A5094140266][Jarno J. C. Huygh]], [[https://openalex.org/A5011112009][Anne‐Christine Da Silva]], [[https://openalex.org/A5060357851][Alexandre Pohl]], [[https://openalex.org/A5081234776][Christian Vérard]], [[https://openalex.org/A5091655942][Michel Crucifix]], No host. None(None)] 2024. https://doi.org/10.5194/egusphere-2024-1983 
-     
-Abstract. The Devonian is a warmer-than-present geological period spanning from 419 to 359 million years ago (Ma) characterized by multiple identified ocean anoxic/hypoxic events. Despite decades of extensive investigation, no consensus has been reached regarding the drivers of these anoxic events. While growing geological evidence has demonstrated a temporal correlation between astronomical forcing and anoxia during this period, underlying physical mechanisms remain unknown, hence questioning causality. Here, we perform multiple sensitivity experiments, using an Earth system model of intermediate complexity (cGENIE), to isolate the influences of specific Devonian climate and palaeogeography components on ocean oxygen levels, contributing to the better understanding of the intricate interplay of factors preconditioning the ocean to anoxia. We quantify the impact of continental configuration, ocean-atmosphere biogeochemistry (global mean oceanic PO4 concentration and atmospheric pO2), climatic forcing (pCO2) and astronomical forcing on background oceanic circulation and oxygenation during the Devonian. Our results indicate that continental configuration is crucial for Devonian ocean anoxia, significantly influencing ocean circulation and oxygen levels while consistently modulating the effects of other Devonian climate components such as oceanic PO4 concentration, atmospheric pO2 and pCO2, and orbital forcing. The evolution of continental configuration provides a plausible explanation for the increased frequency of ocean anoxic events identified during the Middle and Late Devonian periods, as it contributed to the expansion of oxygen-depleted zones. Our simulations also show that both the decreased atmospheric pO2 and increased oceanic PO2 concentration exacerbate ocean anoxia, consistent with established knowledge. The variation of pCO2 reveals a wide range of ocean dynamics patterns, including stable oscillations, multiple convection cells, multistability and hysteresis; all leading to significant variations of the ocean oxygen levels, therefore strongly impacting the preconditioning of the ocean to anoxia. Furthermore, multistability and important hysteresis (particularly slow ocean time response) offer different mechanisms to account for the prolonged duration of some ocean anoxic events. Finally, we found that astronomical forcing substantially impacts ocean anoxia by altering ocean circulation and oxygen solubility, with obliquity consistently emerging as the primary orbital parameter driving ocean oxygen variations.    
-
-    
-
 * Magnetite geochemistry of giant alkalic-type epithermal gold deposits: Insights into the magmatic evolution of mineralized alkaline systems  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401134345
@@ -2419,6 +2419,27 @@ OpenAlex: https://openalex.org/W4401134345 (Open access: True)
 [[https://openalex.org/A5078715064][Michaël Schirra]], [[https://openalex.org/A5020642779][Zoltán Zajacz]], [[https://openalex.org/A5016902693][Daniel Müller]], Geological Society London Special Publications. 551(1)] 2024. https://doi.org/10.1144/sp551-2024-57 
      
 Magnetite, a common mineral in alkaline magmatic complexes hosting giant epithermal Au deposits, is examined to obtain insights into the magmatic evolution and ore fertility of alkaline systems. Textural and compositional analyses of magmatic magnetite from Cripple Creek, USA, and Lihir Island, Papua New Guinea, reveal distinct magma sources and evolution paths. High HFSE concentrations and high La/Yb ratios in magnetite from Cripple Creek suggest relatively low-degree partial melting of lithospheric and asthenospheric mantle sources, whereas magnetite from Lihir Island indicates higher degree partial melting from subduction-modified mantle. Chromium concentrations track magma evolution, while V systematics record decreasing oxygen fugacity with magma differentiation. Sulfide saturation is observed at Cripple Creek, potentially affecting ore fertility. Magnetite itself bears the capability to scavenge Au from melts as indicated by Au concentrations of up to 40 ng/g. This might point towards elevated Au concentrations in the parental magmas, although experimental data on Au partitioning is lacking. Magnetite compositions overlap across different mineralization styles, challenging its reliability as an exploration tool but analysis of noble metals in magnetite and its inclusion cargo could offer promising alternative approaches. Overall, magnetite serves as a valuable tool for investigating ore deposit petrogenesis and holds potential for exploration.    
+
+    
+
+* Exploring the mechanisms of Devonian oceanic anoxia: impact of ocean dynamics, palaeogeography and orbital forcing  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401225082
+:TOPICS: Geological Evolution of South China Sea, Paleoredox and Paleoproductivity Proxies, Geological Evolution of the Arctic Region
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/egusphere-2024-1983")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401225082"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401225082"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401225082"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401225082 (Open access: True)
+    
+[[https://openalex.org/A5012858588][Justin Gérard]], [[https://openalex.org/A5089047693][Loïc Sablon]], [[https://openalex.org/A5094140266][Jarno J. C. Huygh]], [[https://openalex.org/A5011112009][Anne‐Christine Da Silva]], [[https://openalex.org/A5060357851][Alexandre Pohl]], [[https://openalex.org/A5081234776][Christian Vérard]], [[https://openalex.org/A5091655942][Michel Crucifix]], No host. None(None)] 2024. https://doi.org/10.5194/egusphere-2024-1983 
+     
+Abstract. The Devonian is a warmer-than-present geological period spanning from 419 to 359 million years ago (Ma) characterized by multiple identified ocean anoxic/hypoxic events. Despite decades of extensive investigation, no consensus has been reached regarding the drivers of these anoxic events. While growing geological evidence has demonstrated a temporal correlation between astronomical forcing and anoxia during this period, underlying physical mechanisms remain unknown, hence questioning causality. Here, we perform multiple sensitivity experiments, using an Earth system model of intermediate complexity (cGENIE), to isolate the influences of specific Devonian climate and palaeogeography components on ocean oxygen levels, contributing to the better understanding of the intricate interplay of factors preconditioning the ocean to anoxia. We quantify the impact of continental configuration, ocean-atmosphere biogeochemistry (global mean oceanic PO4 concentration and atmospheric pO2), climatic forcing (pCO2) and astronomical forcing on background oceanic circulation and oxygenation during the Devonian. Our results indicate that continental configuration is crucial for Devonian ocean anoxia, significantly influencing ocean circulation and oxygen levels while consistently modulating the effects of other Devonian climate components such as oceanic PO4 concentration, atmospheric pO2 and pCO2, and orbital forcing. The evolution of continental configuration provides a plausible explanation for the increased frequency of ocean anoxic events identified during the Middle and Late Devonian periods, as it contributed to the expansion of oxygen-depleted zones. Our simulations also show that both the decreased atmospheric pO2 and increased oceanic PO2 concentration exacerbate ocean anoxia, consistent with established knowledge. The variation of pCO2 reveals a wide range of ocean dynamics patterns, including stable oscillations, multiple convection cells, multistability and hysteresis; all leading to significant variations of the ocean oxygen levels, therefore strongly impacting the preconditioning of the ocean to anoxia. Furthermore, multistability and important hysteresis (particularly slow ocean time response) offer different mechanisms to account for the prolonged duration of some ocean anoxic events. Finally, we found that astronomical forcing substantially impacts ocean anoxia by altering ocean circulation and oxygen solubility, with obliquity consistently emerging as the primary orbital parameter driving ocean oxygen variations.    
 
     
 
