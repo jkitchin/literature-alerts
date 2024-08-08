@@ -1,175 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Aug  7 01:12:28 2024
+Created on Thu Aug  8 01:12:12 2024
 
-Found 34 results from 2024-07-31 to 2024-08-07
+Found 35 results from 2024-08-01 to 2024-08-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Direct Fluorosulfonamidation of (Hetero)arenes and Alkenes with Photoredox-Active Fluorosulfamoyl Radical Reagents   
-
-OpenAlex: https://openalex.org/W4401072738    
-Open access: False
-    
-[Ting Xiong](https://openalex.org/A5100543607), [Qilong Chen](https://openalex.org/A5066801001), [Ziyan Zhang](https://openalex.org/A5100658084), [Gui Lu](https://openalex.org/A5031120242), [Jiang Weng](https://openalex.org/A5036002937), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03550.
-    
-Sulfur(VI) fluoride exchange (SuFEx) is a second-generation click chemistry reaction that relies on the unique reactivities of SVI–F bonds. The development of efficient methods for incorporating a S(VI)–F motif into molecules is of great significance. Sulfamoyl fluorides (R1R2NSO2F), serving as versatile SuFExable hubs, are typically synthesized by using "+SO2F" reagents to establish N-SO2F bonds. In this study, we report the development of N-fluorosulfamoyl pyridium salts (NFSAPs) as radical fluorosulfonamidation reagents that are readily accessible and bench-stable. By employing NFSAPs as essential fluorosulfamoyl radical (•NSO2F) precursors, the direct installation of the NSO2F group onto (hetero)arenes and alkenes is achieved through distinct C–N bond formation reactions. This platform facilitates the collective synthesis of highly functionalized N-aryl, N-alkyl, and N-alkenyl sulfamoyl fluorides (R1R2NSO2F) under mild photocatalytic conditions and has been applied in the late-stage functionalization of pharmaceuticals and peptides.    
-
-    
-
-## Impact of Organic Anions on Metal Hydroxide Oxygen Evolution Catalysts   
-
-OpenAlex: https://openalex.org/W4401074450    
-Open access: True
-    
-[Shujin Hou](https://openalex.org/A5065449154), [Li‐Li Xu](https://openalex.org/A5078636212), [Soumya Mukherjee](https://openalex.org/A5039230118), [Jian Zhou](https://openalex.org/A5071920812), [Kun‐Ting Song](https://openalex.org/A5021982220), [Zhenyu Zhou](https://openalex.org/A5101796436), [Shengli Zhang](https://openalex.org/A5100413426), [Xiaoxin Ma](https://openalex.org/A5001827089), [Julien Warnan](https://openalex.org/A5018555955), [Aliaksandr S. Bandarenka](https://openalex.org/A5082470409), [Roland A. Fischer](https://openalex.org/A5037112345), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01907.
-    
-Structural metamorphosis of metal–organic frameworks (MOFs) eliciting highly active metal-hydroxide catalysts has come to the fore lately, with much promise. However, the role of organic ligands leaching into electrolytes during alkaline hydrolysis remains unclear. Here, we elucidate the influence of organic carboxylate anions on a family of Ni or NiFe-based hydroxide type catalysts during the oxygen evolution reaction. After excluding interfering variables, i.e., electrolyte purity, Ohmic loss, and electrolyte pH, the experimental results indicate that adding organic anions to the electrolyte profoundly impacts the redox potential of the Ni species versus with only a negligible effect on the oxygen evolution activities. In-depth studies demonstrate plausible reasons behind those observations and allude to far-reaching implications in controlling electrocatalysis in MOFs, mainly where compositional modularity entails fine-tuning organic anions.    
-
-    
-
-## Enhanced Activity of MOF-Based Pd/Electron-Transfer Mediator Catalysts in Oxidation Reactions Involving Isonitrile by Defect Engineering   
-
-OpenAlex: https://openalex.org/W4401088520    
-Open access: False
-    
-[Shaoting Su](https://openalex.org/A5002443406), [Yanwei Ren](https://openalex.org/A5023680214), [Huanfeng Jiang](https://openalex.org/A5034933969), [Wanqing Wu](https://openalex.org/A5006920141), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01838.
-    
-Herein, we report a Pd/electron-transfer mediator (ETM) catalyst "Pd/Cu-UiO-67(N)x" based on defect-engineered metal–organic frameworks (MOFs), which exhibits high activity and stability in the aminoamidation reaction of N-sulfonyl-2-allyl aniline with isonitrile insertion. The Pd turnover number of the Pd/Cu-UiO-67(N)x system is about 30 times higher than that of existing catalytic systems by decreasing the loading of Pd and base. This work systematically investigates the specific effects of defects on the activation of the reactants. The rationally anchored Pd(II) and Cu(II) in the framework interact with the O2 trapped in the defective MOF to achieve reoxidation of Pd(0). This strategy not only confers high activity and stability to Pd(II) species but also provides access to the application of MOFs in large-size substrate transformations.    
-
-    
-
-## Quinone-Initiated Photocatalytic Enantioselective Giese Radical Addition with Ethers, Thioethers, Amines, and Alkanes   
-
-OpenAlex: https://openalex.org/W4401097311    
-Open access: False
-    
-[Yao Luo](https://openalex.org/A5067614802), [Yuqiao Zhou](https://openalex.org/A5000050521), [Fengnan Xiao](https://openalex.org/A5101210793), [Xin He](https://openalex.org/A5012771471), [Ziwei Zhong](https://openalex.org/A5073484937), [Qi‐Lin Zhou](https://openalex.org/A5075038156), [Weidi Cao](https://openalex.org/A5055774457), [Xiaohua Liu](https://openalex.org/A5100370781), [Xiaoming Feng](https://openalex.org/A5077217676), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03512.
-    
-Photocatalytic enantioselective Giese radical addition with inert C(sp3)–H bonds represents a highly efficient and economically favorable approach to synthesizing diverse value-added chiral molecules from abundant feedstock. Herein, we disclose a quinone-initiated photocatalytic asymmetric Giese radical addition of α-substituted acrylamides with inert C(sp3)–H bonds by applying simple quinones as HAT photocatalysts in combination with a chiral N,N′-dioxide/praseodymium(III) catalyst. A wide array of ethers, thioethers, selenide, amines, and alkanes can smoothly transform into the corresponding chiral α-aryl amide derivatives with satisfactory enantioselectivities (68 examples, up to 95% ee) under mild conditions. Based on spectroscopy studies and control experiments, a quinone-initiated HAT catalytic cycle was proposed, and DFT calculations revealed that the interaction between quinone and chiral Lewis acid was essential for enantio-induction in the asymmetric back hydrogen atom transfer process.    
-
-    
-
-## Pd/NBE-Catalyzed One-Pot Modular Synthesis of Polycyclic Fused δ-Lactams and Investigation of Room-Temperature Phosphorescence   
-
-OpenAlex: https://openalex.org/W4401108241    
-Open access: False
-    
-[Chen Chen](https://openalex.org/A5100418462), [Chang Ni](https://openalex.org/A5101755597), [Jia-Hui Song](https://openalex.org/A5100953285), [Luyao Ding](https://openalex.org/A5014721633), [Xiaoxu Zhang](https://openalex.org/A5100372790), [Hongda Guo](https://openalex.org/A5033144431), [Kui Wang](https://openalex.org/A5100342677), [Zhijun Chen](https://openalex.org/A5100739496), [Bolin Zhu](https://openalex.org/A5064849055), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03757.
-    
-No abstract    
-
-    
-
-## Amination of Phenols and Halophenols via Pyridinium–Iridium Dual Photocatalysis   
-
-OpenAlex: https://openalex.org/W4401109390    
-Open access: False
-    
-[Matthew C. Carson](https://openalex.org/A5000748871), [C. Liu](https://openalex.org/A5089641936), [Yaning Liu](https://openalex.org/A5101615178), [Marisa C. Kozlowski](https://openalex.org/A5052701906), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02797.
-    
-No abstract    
-
-    
-
-## Cation-Assisted Hydrosilylation of Alkynes Catalyzed by a Low-Valent Iron Complex Bearing Noninnocent Ligands   
-
-OpenAlex: https://openalex.org/W4401114634    
-Open access: False
-    
-[Nicolas G.-Simonian](https://openalex.org/A5087311486), [Mæ Féo](https://openalex.org/A5036378312), [Clément Tanguy](https://openalex.org/A5097930684), [Claire Troufflard](https://openalex.org/A5048317143), [Guillaume Lefèvre](https://openalex.org/A5021299818), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03153.
-    
-The field of iron catalysis often faces hurdles in accommodating its transient and unstable low-valent intermediates. By harnessing the noninnocent character of commercial bathocuproine ligand, we managed to develop a reliable functionalization of alkynes with primary, secondary, and tertiary silanes but also with germanium hydrides, catalyzed by a low-valent iron complex. The robustness of the catalyst enabled gram-scale synthesis of vinylsilanes, low catalytic loading, one-pot, hetero, bis-hydrosilylation, but also high steric build-up. Mechanistic studies suggest an important effect of the MgII cation resulting from the reduction of the precatalyst, by assisting the dynamic generation of a highly reactive, under-coordinated iron species from a stable complex.    
-
-    
-
-## Manipulating Superexchange Interaction of Ru–O–Fe Sites for Enhanced Electrocatalytic Nitrate-to-Ammonia Selectivity   
-
-OpenAlex: https://openalex.org/W4401116291    
-Open access: False
-    
-[Mengyang Xia](https://openalex.org/A5057537960), [Chao Zhao](https://openalex.org/A5101602777), [Hang Xiao](https://openalex.org/A5012832110), [Wei Liu](https://openalex.org/A5100431810), [Jia Li](https://openalex.org/A5100454297), [He Li](https://openalex.org/A5100317861), [Honghui Ou](https://openalex.org/A5036297610), [Guidong Yang](https://openalex.org/A5070723191), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02698.
-    
-No abstract    
-
-    
-
-## Ni3V2O8 Nanospheres for Sustained and Efficient Enhancement of Electrocatalytic H2O2 Production in pH-Universal Solutions   
-
-OpenAlex: https://openalex.org/W4401117078    
-Open access: False
-    
-[Zhikang Bao](https://openalex.org/A5000447021), [Wenjuan Fang](https://openalex.org/A5019281384), [Jia Li](https://openalex.org/A5100454297), [Yizhen Shao](https://openalex.org/A5053507645), [Yuanan Li](https://openalex.org/A5059216111), [Shijie Zhang](https://openalex.org/A5100669789), [Xiaoge Peng](https://openalex.org/A5029564085), [Chenghang Jiang](https://openalex.org/A5023282481), [Xing Zhong](https://openalex.org/A5031589981), [Jianguo Wang](https://openalex.org/A5100336346), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02945.
-    
-No abstract    
-
-    
-
-## Chlorine-Mediated Electrooxidation of Cyclohexene at High Current Density in a Liquid Diffusion Electrode Reactor   
-
-OpenAlex: https://openalex.org/W4401138875    
-Open access: False
-    
-[Adrien Deberghes](https://openalex.org/A5015499190), [Mark J. Kazour](https://openalex.org/A5106061602), [Justin M. Notestein](https://openalex.org/A5030553728), [Linsey C. Seitz](https://openalex.org/A5037183181), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03356.
-    
-No abstract    
-
-    
-
-## Unraveling High Chemoselectivity in Oxidative Dehydration of Glycerol into Acrylic Acid over a Bifunctional Metal–Organic Framework–Polyoxometalate Composite Catalyst   
-
-OpenAlex: https://openalex.org/W4401139726    
-Open access: False
-    
-[Paramita Koley](https://openalex.org/A5021988849), [Subhash Chandra Shit](https://openalex.org/A5022870015), [Takefumi Yoshida](https://openalex.org/A5026093970), [Hiroko Ariga-Miwa](https://openalex.org/A5049181660), [Tomoya Uruga](https://openalex.org/A5102823752), [Tayebeh Hosseinnejad](https://openalex.org/A5086875707), [PR. Selvakannan](https://openalex.org/A5012948297), [Wooyul Kim](https://openalex.org/A5006624960), [Dharmendra D. Mandaliya](https://openalex.org/A5046001639), [Ravindra D. Gudi](https://openalex.org/A5082292904), [Yasuhiro Iwasawa](https://openalex.org/A5010832615), [Suresh K. Bhargava](https://openalex.org/A5062644316), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03482.
-    
-No abstract    
-
-    
-
-## Enantioselective Synthesis of Secondary Homoallyl Borons by Copper-Catalyzed 1,1-Borylallylation of Terminal Alkynes   
-
-OpenAlex: https://openalex.org/W4401140383    
-Open access: False
-    
-[Haibo Liu](https://openalex.org/A5100394072), [Kang Ding](https://openalex.org/A5034029974), [Bo Su](https://openalex.org/A5083902642), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03735.
-    
-No abstract    
-
-    
-
-## In Situ Analysis Photogenerated Electron Transport Behavior of C Self-Doped Carbon Nitride for Photocatalytic H2 Production   
-
-OpenAlex: https://openalex.org/W4401140855    
-Open access: False
-    
-[Zehao Li](https://openalex.org/A5101934873), [Yufei Chen](https://openalex.org/A5100411552), [Jiangxue Pei](https://openalex.org/A5037253059), [Xiang Zhou](https://openalex.org/A5027462342), [Siyun Chen](https://openalex.org/A5101476827), [Fengqiang Sun](https://openalex.org/A5103011761), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02090.
-    
-No abstract    
-
-    
-
-## Modulating the Surface Concentration and Lifetime of Active Hydrogen in Cu-Based Layered Double Hydroxides for Electrocatalytic Nitrate Reduction to Ammonia   
-
-OpenAlex: https://openalex.org/W4401157812    
-Open access: False
-    
-[Hongmei Li](https://openalex.org/A5100377015), [S Li](https://openalex.org/A5044549935), [R.F. Guan](https://openalex.org/A5048619020), [Zhaoyu Jin](https://openalex.org/A5028640942), [Dan Xiao](https://openalex.org/A5058096242), [Yong Guo](https://openalex.org/A5007792891), [Panpan Li](https://openalex.org/A5100384492), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03245.
-    
-Strategies incorporating heterometals to introduce surface-active hydrogen (*H) have been extensively utilized to enhance the electrocatalytic activity of Cu-based catalysts in the nitrate reduction reaction (NitRR). However, a comprehensive understanding of *H behavior and its specific impact on regulating the NitRR pathway remains elusive, particularly in a quantitative manner. In this study, we prepared a group of layered double hydroxides (LDHs) as model catalysts with diverse *H concentrations and lifetimes. Our findings reveal that the NitRR activity of Cu-based LDHs is highly dependent on the *H species that could be modulated by the incorporated heterometallic sites. Specifically, we conducted in situ analysis of different Cu-based LDH catalysts using time-resolved scanning electrochemical microscopy. The surface concentration and lifetime of *H at various applied potentials were quantified, enabling us to establish the relationship between the *H behavior and NitRR performance. Therefore, optimal NitRR performance was achieved with CuNi-LDHs, exhibiting a faradaic efficiency of 94.6% and yield rate of 2.7 mg h–1 cm–2 because of its appropriate *H surface concentration and lifetime. Additionally, we observe a trend of CuNi > CuCo > Cu > CuRu > CuFe > CuMg in terms of the faradaic efficiency for NH3 production. These results suggest that by effectively utilizing the stable *H produced by the catalyst, one would allow favorable NitRR performance, offering a promising strategy for other electrocatalytic hydrogenation reactions.    
-
-    
-
-## Ru-Enriched Metal–Organic Framework Enabling a Self-Powered Hydrogen Production System   
-
-OpenAlex: https://openalex.org/W4401158112    
-Open access: False
-    
-[Xuefei Xu](https://openalex.org/A5067333581), [Linfeng Li](https://openalex.org/A5100343203), [Hsiao‐Chien Chen](https://openalex.org/A5023282498), [Xia Zhang](https://openalex.org/A5100461897), [Yaping Huang](https://openalex.org/A5100977675), [Muhammad Humayun](https://openalex.org/A5083742662), [Yasser A. Attia](https://openalex.org/A5036654649), [Yuanjie Pang](https://openalex.org/A5088633622), [Deli Wang](https://openalex.org/A5100780460), [Xin Wang](https://openalex.org/A5100327964), [Chundong Wang](https://openalex.org/A5031825962), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03722.
-    
-Constructing a direct hydrazine fuel cell (DHzFC)-driven overall hydrazine splitting (OHzS) system is a conceptual idea for hydrogen generation with theoretical zero-energy consumption, which remains a formidable challenge. Herein, a two-dimensional Ru-enriched metal–organic framework catalyst (NiRu-ABDC) is prepared via a self-sacrificing template strategy. The experimental and density functional theory (DFT) calculation results indicate that Ru serves as an active site for both the hydrogen evolution reaction (HER) and hydrazine oxidation reaction (HzOR), endowing NiRu-ABDC∥NiRu-ABDC with outstanding OHzS performance. The DFT results further clarify that Ru incorporation facilitates electron localization and strengthens the M–O bonds in the Ni-ABDC framework, enabling the NiRu-ABDC∥NiRu-ABDC electrolyzer cell to be stable for over 100 h. Further, a self-powered hydrogen production system is constructed with anodic NiRu-ABDC, in which OHzS is successfully powered by synthesized DHzFCs, achieving hydrogen yield of 14.3 mol h–1 m–2, showing its feasibility for practical applications.    
-
-    
 
 ## Oxidative Fluorination of a Ternary Cu/ZnO/FeOx Methanol Catalyst─A Proof of Principle   
 
@@ -358,6 +193,17 @@ No abstract
 
     
 
+## The Catalytic Coupling of CO2 and Glycidol toward Glycerol Carbonate   
+
+OpenAlex: https://openalex.org/W4401324703    
+Open access: False
+    
+[Claire Muzyka](https://openalex.org/A5006348808), [Diana Silva](https://openalex.org/A5032867366), [Bruno Grignard](https://openalex.org/A5055169937), [Christophe Detrembleur](https://openalex.org/A5012810514), [Jean‐Christophe M. Monbaliu](https://openalex.org/A5001225766), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01622.
+    
+No abstract    
+
+    
+
 ## Hafnium(IV)-Salen-Catalyzed Highly Reactive and Enantioselective Epoxidation Directed by Amides   
 
 OpenAlex: https://openalex.org/W4401324944    
@@ -375,6 +221,171 @@ OpenAlex: https://openalex.org/W4401326880
 Open access: True
     
 [Mason T. Chin](https://openalex.org/A5090190903), [Tianning Diao](https://openalex.org/A5032981628), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03194.
+    
+No abstract    
+
+    
+
+## Structural Changes of ZSM-5 Catalysts during Methanol-to-Hydrocarbons Conversion Processes   
+
+OpenAlex: https://openalex.org/W4401331217    
+Open access: True
+    
+[Chao Wang](https://openalex.org/A5100407014), [Tomás Aztiria](https://openalex.org/A5106283860), [Przemysław Rzepka](https://openalex.org/A5011286202), [Réne Verel](https://openalex.org/A5086705545), [Jun Xu](https://openalex.org/A5100632673), [Feng Deng](https://openalex.org/A5055850550), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), [Vladimir Paunović](https://openalex.org/A5059144530), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02625.
+    
+No abstract    
+
+    
+
+## Rh-Catalyzed Asymmetric Allylic Substitution with Photo-Generated Alkyl Radical Species   
+
+OpenAlex: https://openalex.org/W4401333908    
+Open access: False
+    
+[Li Wang](https://openalex.org/A5100322864), [Pengtao Yang](https://openalex.org/A5072886636), [Yuan‐Zheng Cheng](https://openalex.org/A5002861511), [Shu‐Li You](https://openalex.org/A5019588728), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03683.
+    
+No abstract    
+
+    
+
+## Photoredox/Nickel Dual-Catalyzed Allylation of Aldehydes with Allylic Alcohols and Mechanistic Insights in the Presence of CO2   
+
+OpenAlex: https://openalex.org/W4401335095    
+Open access: False
+    
+[Shouxin Zhang](https://openalex.org/A5101742243), [Zongchang Han](https://openalex.org/A5004444053), [Jia Li](https://openalex.org/A5100454297), [Han‐Shi Hu](https://openalex.org/A5020194359), [Jun Li](https://openalex.org/A5100361956), [Chanjuan Xi](https://openalex.org/A5049754752), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03991.
+    
+No abstract    
+
+    
+
+## Stable Three-Dimensional Macroporous Iron-Foam Catalyst for Direct Conversion of CO2 to Olefins   
+
+OpenAlex: https://openalex.org/W4401338297    
+Open access: False
+    
+[Yi Liu](https://openalex.org/A5100330442), [Xiaoqian Gong](https://openalex.org/A5101013253), [Ruonan He](https://openalex.org/A5055139864), [Zhihua Han](https://openalex.org/A5063888686), [Hao Chen](https://openalex.org/A5100353673), [Bo Feng](https://openalex.org/A5101684892), [Xingfeng Xu](https://openalex.org/A5045121982), [Aihua Xing](https://openalex.org/A5101805228), [Rongrong Jin](https://openalex.org/A5081853826), [Pengju Ren](https://openalex.org/A5070260505), [Bin Wang](https://openalex.org/A5100372378), [Zhou‐jun Wang](https://openalex.org/A5010034920), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03148.
+    
+No abstract    
+
+    
+
+## Hydroboration of Terminal Alkynes Catalyzed by a Mn(I) Alkyl PCP Pincer Complex Following Two Diverging Pathways   
+
+OpenAlex: https://openalex.org/W4401339108    
+Open access: True
+    
+[Daniel Zobernig](https://openalex.org/A5009876836), [Berthold Stöger](https://openalex.org/A5072268363), [Luı́s F. Veiros](https://openalex.org/A5046772276), [Karl Kirchner](https://openalex.org/A5047476885), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03805.
+    
+No abstract    
+
+    
+
+## Homogeneous Tungsten Catalysis for Controllable Selective Oxidation of Anilines via the W(O)(η2-O2)2 Intermediate   
+
+OpenAlex: https://openalex.org/W4401339488    
+Open access: False
+    
+[Heng Song](https://openalex.org/A5026126152), [Jingjing Wei](https://openalex.org/A5101535462), [Zengping Wang](https://openalex.org/A5030750004), [Yuzan Liu](https://openalex.org/A5104270144), [Shangxun Zhao](https://openalex.org/A5101359696), [Xingwei Cai](https://openalex.org/A5077715008), [Yuting Xiao](https://openalex.org/A5068169743), [Liqing Yang](https://openalex.org/A5102875048), [P. Bai](https://openalex.org/A5043882874), [Fang Li](https://openalex.org/A5100394211), [Fu Yang](https://openalex.org/A5006345780), [Shaojun Zheng](https://openalex.org/A5017533894), [Wenjing Zhang](https://openalex.org/A5100407184), [Jianming Pan](https://openalex.org/A5101726310), [Chen Xu](https://openalex.org/A5101715319), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02875.
+    
+No abstract    
+
+    
+
+## Mechanism of Two-Component Mono-Oxygenases Involved in Anthracycline 1-Hydroxylation   
+
+OpenAlex: https://openalex.org/W4401339902    
+Open access: True
+    
+[Benjamin Nji Wandi](https://openalex.org/A5051365207), [Pedro Dinis](https://openalex.org/A5050821612), [Vilja Siitonen](https://openalex.org/A5038994232), [G. Schneider](https://openalex.org/A5010549483), [R. Schnell](https://openalex.org/A5006165963), [Mikko Metsä‐Ketelä](https://openalex.org/A5003353973), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02623.
+    
+No abstract    
+
+    
+
+## Cesium and Phenoxide Interaction Enabled by Rh Overrides the Innate Solvent-Mediated Chemoselectivity   
+
+OpenAlex: https://openalex.org/W4401341539    
+Open access: False
+    
+[Romin Gogoi](https://openalex.org/A5092208838), [Garima Jindal](https://openalex.org/A5050353667), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03131.
+    
+No abstract    
+
+    
+
+## Kinetic and Thermodynamic Requirements for Polyoxymethylene Dimethyl Ether Synthesis Catalyzed by Ion-Exchange Resin   
+
+OpenAlex: https://openalex.org/W4401353172    
+Open access: False
+    
+[Junfeng Guo](https://openalex.org/A5100584999), [Ya-Huei Cathy Chin](https://openalex.org/A5039229575), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01616.
+    
+No abstract    
+
+    
+
+## Synergistic V–Nb Sites Modulate Selective Alkene Epoxidation with In Situ Photogenerated H2O2 over COF@MXene Heterostructures   
+
+OpenAlex: https://openalex.org/W4401356192    
+Open access: False
+    
+[Huang Yi](https://openalex.org/A5010249313), [Huajun Gu](https://openalex.org/A5065770280), [Huihui Zhang](https://openalex.org/A5072972530), [Xinglin Wang](https://openalex.org/A5101808417), [Linlin Gao](https://openalex.org/A5064709911), [Yuanyuan Cui](https://openalex.org/A5101764594), [Baoning Zong](https://openalex.org/A5010477817), [Hexing Li](https://openalex.org/A5052465367), [Wei‐Lin Dai](https://openalex.org/A5073522891), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03630.
+    
+No abstract    
+
+    
+
+## Substrate Trapping in Polyketide Synthase Thioesterase Domains: Structural Basis for Macrolactone Formation   
+
+OpenAlex: https://openalex.org/W4401356480    
+Open access: False
+    
+[Tyler M. McCullough](https://openalex.org/A5065954713), [Vishakha Choudhary](https://openalex.org/A5001246407), [D.L. Akey](https://openalex.org/A5091848020), [Meredith A. Skiba](https://openalex.org/A5013891106), [Steffen M. Bernard](https://openalex.org/A5057420960), [Jeffrey D. Kittendorf](https://openalex.org/A5009365812), [Jennifer J. Schmidt](https://openalex.org/A5039545753), [David H. Sherman](https://openalex.org/A5020610727), [Janet L. Smith](https://openalex.org/A5083355596), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03637.
+    
+No abstract    
+
+    
+
+## Radical Cation Diels–Alder Reaction by Photocatalysis at a Dye Sensitized Photoanode   
+
+OpenAlex: https://openalex.org/W4401357127    
+Open access: False
+    
+[Michael D. Turlington](https://openalex.org/A5070606256), [Sohel Ahmed](https://openalex.org/A5047751089), [Kirk S. Schanze](https://openalex.org/A5021837706), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01288.
+    
+No abstract    
+
+    
+
+## Upgrading Single S-Scheme Heterojunction to Multi-S-Scheme Ones for Better Synergy of Photocatalytic CO2 Reduction and H2O Oxidation: The Third Component Location Matters   
+
+OpenAlex: https://openalex.org/W4401357704    
+Open access: False
+    
+[Fengying Cao](https://openalex.org/A5042828955), [Wei Wang](https://openalex.org/A5100392071), [Xiangyue Niu](https://openalex.org/A5050562392), [Xinyuan Lin](https://openalex.org/A5082331140), [Guoxiu Tong](https://openalex.org/A5028158255), [Shuxian Zhong](https://openalex.org/A5037678225), [Hongjun Lin](https://openalex.org/A5103099430), [Leihong Zhao](https://openalex.org/A5056196238), [Song Bai](https://openalex.org/A5011190440), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03286.
+    
+No abstract    
+
+    
+
+## Rational Engineering of Enzymes for Enhanced Cold Activity   
+
+OpenAlex: https://openalex.org/W4401357986    
+Open access: False
+    
+[Weigao Wang](https://openalex.org/A5040728210), [James R. Swartz](https://openalex.org/A5066541730), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02580.
+    
+No abstract    
+
+    
+
+## Contrasting Metallic (Rh0) and Carbidic (2D-Mo2C MXene) Surfaces in Olefin Hydrogenation Provides Insights on the Origin of the Pairwise Hydrogen Addition   
+
+OpenAlex: https://openalex.org/W4401358690    
+Open access: True
+    
+[Ling Meng](https://openalex.org/A5006408002), [Ekaterina V. Pokochueva](https://openalex.org/A5012781928), [Zixuan Chen](https://openalex.org/A5057400624), [Alexey Fedorov](https://openalex.org/A5007422032), [Francesc Viñes](https://openalex.org/A5102782406), [Francesc Illas](https://openalex.org/A5012273051), [Igor V. Koptyug](https://openalex.org/A5024317980), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02534.
     
 No abstract    
 
