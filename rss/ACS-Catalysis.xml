@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Aug 2024 01:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 01:13:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Oxidative Fluorination of a Ternary Cu/ZnO/FeO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Methanol Catalyst&#9472;A Proof of Principle</title>
-      <link>https://doi.org/10.1021/acscatal.4c02995</link>
-      <description>L. Ernst, Christian Njel, Wijnand Marquart, Shaine Raseale, Michael Claeys, Nico Fischer, Ingo Krossing, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401163510
-
-                Oxidative fluorination is reported to increase methanol (MeOH) productivity of binary copper&#8211;zinc oxide (CZ) catalyst systems yet is incompatible with all the hitherto tested ternary support materials. Here, we show that the oxidative fluorination with F2 gas of CZ MeOH catalysts including iron oxide as a support material improves catalytic performances. A systematic variation of the compositions of the investigated ternary CZFe (copper, zinc, and iron) catalyst system led to a total of 13 different systems. The subsequent oxidative fluorination of all systems with a low F2 pressure of 200 mbar showed significant improvement in the MeOH productivity and selectivity for almost all systems tested. High-iron systems benefited most from oxidative fluorination. In addition, selected systems were exposed to higher F2 amounts and were studied. Further measurements showed that the crystallinity, surface area, and high-temperature carbonate content of the CZFe systems are very well tunable. Kinetic investigations indicated that fluorination leads to an increase in the number of active sites for the MeOH synthesis and at the same time increases the apparent activation energy for the RWGS reaction. In addition, oxidative fluorination at total F2 pressures of and higher than 1250 mbar shuts down the iron-induced parasitic Fischer&#8211;Tropsch-type hydrogenation to hydrocarbons and results in the highest MeOH production rates.</description>
-      <author>L. Ernst, Christian Njel, Wijnand Marquart, Shaine Raseale, Michael Claeys, Nico Fischer, Ingo Krossing</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02995</guid>
-    </item>
-    <item>
-      <title>Nickel-Catalyzed Reductive Decarboxylative Coupling of Diacyl Peroxides with Aryl/Vinyl Halides</title>
-      <link>https://doi.org/10.1021/acscatal.4c04002</link>
-      <description>Canbin Qiu, Qifa Chen, Hegui Gong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401175043
-
-                No abstract</description>
-      <author>Canbin Qiu, Qifa Chen, Hegui Gong</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04002</guid>
-    </item>
     <item>
       <title>Dynamically Restructuring Nanoporous Cu&#8211;Co Electrocatalyst for Efficient Nitrate Electroreduction to Ammonia</title>
       <link>https://doi.org/10.1021/acscatal.4c03336</link>
@@ -356,6 +336,106 @@
       <author>Ling Meng, Ekaterina V. Pokochueva, Zixuan Chen, Alexey Fedorov, Francesc Vi&#241;es, Francesc Illas, Igor V. Koptyug</author>
       <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02534</guid>
+    </item>
+    <item>
+      <title>Halide Salts Alleviate TMSOK Inhibition in Suzuki&#8211;Miyaura Cross-Couplings</title>
+      <link>https://doi.org/10.1021/acscatal.4c02407</link>
+      <description>Yao Shi, Joshua S. Derasp, Selene Sep&#250;lveda Guzm&#225;n, Brian O. Patrick, Jason E. Hein, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401384127
+
+                No abstract</description>
+      <author>Yao Shi, Joshua S. Derasp, Selene Sep&#250;lveda Guzm&#225;n, Brian O. Patrick, Jason E. Hein</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02407</guid>
+    </item>
+    <item>
+      <title>Simultaneously Boosting Catalyst Activity and Stability by Construction of Low-Temperature Strong Metal&#8722;Support Interaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c03421</link>
+      <description>Hailian Tang, Faqin Dong, Siyuan Chen, Jinlong Huang, Feng Hong, Yang Su, Guoyi Bai, Botao Qiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401384634
+
+                No abstract</description>
+      <author>Hailian Tang, Faqin Dong, Siyuan Chen, Jinlong Huang, Feng Hong, Yang Su, Guoyi Bai, Botao Qiao</author>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03421</guid>
+    </item>
+    <item>
+      <title>Energy Maps of Complex Catalyst Surfaces</title>
+      <link>https://doi.org/10.1021/acscatal.4c01308</link>
+      <description>Andrey Tarasov, Sabine Wrabetz, Jutta Kr&#246;hnert, Frank Rosowski, Annette Trunschke, Annette Trunschke, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401386255
+
+                No abstract</description>
+      <author>Andrey Tarasov, Sabine Wrabetz, Jutta Kr&#246;hnert, Frank Rosowski, Annette Trunschke, Annette Trunschke</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01308</guid>
+    </item>
+    <item>
+      <title>Boosting Higher Alcohols Selectivity via Regulating Basicity of Ni/Hydroxyapatite in Ethanol Upgrading</title>
+      <link>https://doi.org/10.1021/acscatal.4c03891</link>
+      <description>Machen Xue, Zongzi Jin, Bolun Yang, Chungu Xia, Gangli Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401386829
+
+                No abstract</description>
+      <author>Machen Xue, Zongzi Jin, Bolun Yang, Chungu Xia, Gangli Zhu</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03891</guid>
+    </item>
+    <item>
+      <title>Transition-Metal and Photocatalyst-Free, Redox-Neutral Heteroarylation of C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Bonds</title>
+      <link>https://doi.org/10.1021/acscatal.4c03766</link>
+      <description>Kamila Almagambetova, Kathiravan Murugesan, Magnus Rueping, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401386860
+
+                No abstract</description>
+      <author>Kamila Almagambetova, Kathiravan Murugesan, Magnus Rueping</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03766</guid>
+    </item>
+    <item>
+      <title>Understanding and Controlling Reactivity Patterns of Pd&lt;sub&gt;1&lt;/sub&gt;@C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;-Catalyzed Suzuki&#8211;Miyaura Couplings</title>
+      <link>https://doi.org/10.1021/acscatal.4c03531</link>
+      <description>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401388208
+
+                No abstract</description>
+      <author>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03531</guid>
+    </item>
+    <item>
+      <title>Merging Pd(0)-Catalyzed Selective C&lt;sub&gt;acyl&lt;/sub&gt;&#8211;O Bond Activation of Enol Esters with &#960;-Acid Catalysis: Net Hydroxyacylation of Aliphatic Alkynes with Carboxylic Acids</title>
+      <link>https://doi.org/10.1021/acscatal.4c03945</link>
+      <description>Kenichi Michigami, Yoshiki Otawa, Yasuharu Kanda, Daiki Kawakami, Masato Ohashi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401388292
+
+                No abstract</description>
+      <author>Kenichi Michigami, Yoshiki Otawa, Yasuharu Kanda, Daiki Kawakami, Masato Ohashi</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03945</guid>
+    </item>
+    <item>
+      <title>Uncovering Hydroxynitrile Lyase Variants with Promiscuous Diastereoselective Nitroaldolase Activity toward the Highly Stereocontrolled Synthesis of &lt;i&gt;Anti&lt;/i&gt; &#946;-Nitroalcohols</title>
+      <link>https://doi.org/10.1021/acscatal.4c04000</link>
+      <description>Ayon Chatterjee, G. Priyanka, N. Prakash Prabhu, Santosh Kumar Padhi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401390891
+
+                No abstract</description>
+      <author>Ayon Chatterjee, G. Priyanka, N. Prakash Prabhu, Santosh Kumar Padhi</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04000</guid>
+    </item>
+    <item>
+      <title>Hydrogenation of CO&lt;sub&gt;2&lt;/sub&gt; to CH&lt;sub&gt;3&lt;/sub&gt;OH on the Cu&#8211;ZnO&#8211;SrTiO&lt;sub&gt;3&lt;/sub&gt; Catalysts: The Electronic Metal&#8211;Support Interaction Induces Oxygen Vacancy Generation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02289</link>
+      <description>Yaxin Liu, Xuguang Wang, Zihao Wang, Chonghao Chen, Jianhua Song, Ling Zhang, Weizhong Bao, Bin Sun, Lei Wang, Dianhua Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401395710
+
+                No abstract</description>
+      <author>Yaxin Liu, Xuguang Wang, Zihao Wang, Chonghao Chen, Jianhua Song, Ling Zhang, Weizhong Bao, Bin Sun, Lei Wang, Dianhua Liu</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02289</guid>
+    </item>
+    <item>
+      <title>Magnetron Sputtering of Pure &#948;-Ni&lt;sub&gt;5&lt;/sub&gt;Ga&lt;sub&gt;3&lt;/sub&gt; Thin Films for CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c03345</link>
+      <description>Filippo Romeggio, Jonathan F. Schouenborg, Peter C. K. Vesborg, Ole Hansen, Jakob Kibsgaard, Ib Chorkendorff, Christian Danvad Damsgaard, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401399230
+
+                No abstract</description>
+      <author>Filippo Romeggio, Jonathan F. Schouenborg, Peter C. K. Vesborg, Ole Hansen, Jakob Kibsgaard, Ib Chorkendorff, Christian Danvad Damsgaard</author>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03345</guid>
     </item>
   </channel>
 </rss>

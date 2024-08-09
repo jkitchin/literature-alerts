@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Aug 2024 01:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 01:13:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Boosting stable lithium deposition via Li3N-Enriched inorganic SEI induced by a polycationic polymer layer</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.07.246</link>
-      <description>Wenzhu Cao, Weimin Chen, Zonghe Lai, Hong Chen, Tian Du, Liang Wang, Faquan Yu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4401160073
-
-                No abstract</description>
-      <author>Wenzhu Cao, Weimin Chen, Zonghe Lai, Hong Chen, Tian Du, Liang Wang, Faquan Yu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.07.246</guid>
-    </item>
-    <item>
-      <title>Corrosion and Enhanced Hydrogen Evolution in Electrochemical Reduction of Ammonium Carbamate on Transition Metal Surfaces</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c01638</link>
-      <description>Jounghwan Choi, Shawn Chiu, Avishek Banerjee, Robert L. Sacci, Gabriel M. Veith, S. Chantal E. Stieber, Christopher Hahn, Anastassia N. Alexandrova, Carlos G. Morales&#8208;Guio, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4401167274
-
-                Experiments and theory are combined to search for catalyst activity and stability descriptors for the direct reactive capture and conversion (RCC) of CO</description>
-      <author>Jounghwan Choi, Shawn Chiu, Avishek Banerjee, Robert L. Sacci, Gabriel M. Veith, S. Chantal E. Stieber, Christopher Hahn, Anastassia N. Alexandrova, Carlos G. Morales&#8208;Guio</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01638</guid>
-    </item>
-    <item>
-      <title>Mapping High entropy State Spaces for Novel Material Discovery</title>
-      <link>https://doi.org/10.1016/j.actamat.2024.120237</link>
-      <description>Johnathan von der Heyde, Walter Malone, Abdelkader Kara, Acta Materialia. None(None)] 2024. https://openalex.org/W4401168949
-
-                No abstract</description>
-      <author>Johnathan von der Heyde, Walter Malone, Abdelkader Kara</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120237</guid>
-    </item>
-    <item>
-      <title>Recent Progress in Metallic-Oxygen Semiconductors Systems Towards Solar-Hydrogen Production and Investigating Mechanisms Through Different Characterization Techniques</title>
-      <link>https://doi.org/10.1016/j.mtphys.2024.101525</link>
-      <description>Lingpu Jia, Jafar Hussain Shah, Yuan Luo, Lida Huang, Wenlong Liao, Kunping Liu, Zhiming Wang, Materials Today Physics. 46(None)] 2024. https://openalex.org/W4401170220
-
-                No abstract</description>
-      <author>Lingpu Jia, Jafar Hussain Shah, Yuan Luo, Lida Huang, Wenlong Liao, Kunping Liu, Zhiming Wang</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101525</guid>
-    </item>
-    <item>
-      <title>Elastic plate basis for the deformation and electron diffraction of twisted bilayer graphene on a substrate</title>
-      <link>https://doi.org/10.1103/physrevb.110.024116</link>
-      <description>Moon&#8208;ki Choi, Suk Hyun Sung, Robert Hovden, Ellad B. Tadmor, Physical review. B./Physical review. B. 110(2)] 2024. https://openalex.org/W4401174216
-
-                No abstract</description>
-      <author>Moon&#8208;ki Choi, Suk Hyun Sung, Robert Hovden, Ellad B. Tadmor</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.024116</guid>
-    </item>
-    <item>
-      <title>Activity versus stability of atomically dispersed transition-metal electrocatalysts</title>
-      <link>https://doi.org/10.1038/s41578-024-00703-z</link>
-      <description>Gang Wu, Piotr Zelenay, Nature Reviews Materials. None(None)] 2024. https://openalex.org/W4401178518
-
-                No abstract</description>
-      <author>Gang Wu, Piotr Zelenay</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41578-024-00703-z</guid>
-    </item>
-    <item>
-      <title>Low&#8208;Cost Self&#8208;Reconstructed High Entropy Oxide as an Ultra&#8208;Durable OER Electrocatalyst for Anion Exchange Membrane Water Electrolyzer</title>
-      <link>https://doi.org/10.1002/smll.202402241</link>
-      <description>S. Karthikeyan, S. Ramakrishnan, Sampath Prabhakaran, Mohan Raj Subramaniam, Mohamed Mamlouk, Do Hwan Kim, Dong Jin Yoo, Small. None(None)] 2024. https://openalex.org/W4401179912
-
-                Abstract Future energy loss can be minimized to a greater extent via developing highly active electrocatalysts for alkaline water electrolyzers. Incorporating an innovative design like high entropy oxides, dealloying, structural reconstruction, in situ activation can potentially reduce the energy barriers between practical and theoretical potentials. Here, a Fd&#8208;3m spinel group high entropy oxide is developed via a simple solvothermal and calcination approach. The developed (FeCoMnZnMg) 3 O 4 electrocatalyst shows a near equimolar distribution of all the metal elements resulting in higher entropy (&#916;S &#8776;1.61R) and higher surface area. The self&#8208;reconstructed spinel high entropy oxide (S&#8208;HEO) catalyst exhibited a lower overpotential of 240 mV to reach 10 mA cm &#8722;2 and enhanced reaction kinetics (59 mV dec &#8722;1 ). Noticeably, the S&#8208;HEO displayed an outstanding durability of 1000 h without any potential loss, significantly outperforming most of the reported OER electrocatalysts. Further, S&#8208;HEO is evaluated as the anode catalyst for an anion exchange membrane water electrolyzer (AEMWE) in 1 m , 0.1 m KOH, and DI water at 20 and 60 &#176;C. These results demonstrate that S&#8208;HEO is a highly attractive, non&#8208;noble class of materials for high active oxygen evolution reaction (OER) electrocatalysts allowing fine&#8208;tuning beyond the limits of bi&#8208; or trimetallic oxides.</description>
-      <author>S. Karthikeyan, S. Ramakrishnan, Sampath Prabhakaran, Mohan Raj Subramaniam, Mohamed Mamlouk, Do Hwan Kim, Dong Jin Yoo</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202402241</guid>
-    </item>
-    <item>
-      <title>Rational Design of Earth&#8208;Abundant Catalysts toward Sustainability</title>
-      <link>https://doi.org/10.1002/adma.202407102</link>
-      <description>Jianpeng Guo, Yousof Haghshenas, Yiran Jiao, Priyank V. Kumar, Boris I. Yakobson, Ajit K. Roy, Yan Jiao, Klaus Regenauer&#8208;Lieb, David Nguyen, Zhenhai Xia, Advanced Materials. None(None)] 2024. https://openalex.org/W4401191227
-
-                Abstract Catalysis is crucial for clean energy, green chemistry, and environmental remediation, but traditional methods rely on expensive and scarce precious metals. This review addresses this challenge by highlighting the promise of earth&#8208;abundant catalysts and the recent advancements in their rational design. Innovative strategies such as physics&#8208;inspired descriptors, high&#8208;throughput computational techniques, and artificial intelligence (AI)&#8208;assisted design with machine learning (ML) are explored, moving beyond time&#8208;consuming trial&#8208;and&#8208;error approaches. Additionally, biomimicry, inspired by efficient enzymes in nature, offers valuable insights. This review systematically analyses these design strategies, providing a roadmap for developing high&#8208;performance catalysts from abundant elements. Clean energy applications (water splitting, fuel cells, batteries) and green chemistry (ammonia synthesis, CO 2 reduction) are targeted while delving into the fundamental principles, biomimetic approaches, and current challenges in this field. The way to a more sustainable future is paved by overcoming catalyst scarcity through rational design.</description>
-      <author>Jianpeng Guo, Yousof Haghshenas, Yiran Jiao, Priyank V. Kumar, Boris I. Yakobson, Ajit K. Roy, Yan Jiao, Klaus Regenauer&#8208;Lieb, David Nguyen, Zhenhai Xia</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202407102</guid>
-    </item>
-    <item>
-      <title>Role of bonding filling on HER/OER/ORR multifunctional catalytic activity in transition-metals-doped PdPX (X = S, Se, Te)</title>
-      <link>https://doi.org/10.1007/s12598-024-02924-1</link>
-      <description>Hai&#8208;Hua Huang, Wei Li, Chengchao Hu, Xueqin Sun, Li-Qiang Lu, Xiaofeng Fan, Rare Metals. None(None)] 2024. https://openalex.org/W4401196366
-
-                No abstract</description>
-      <author>Hai&#8208;Hua Huang, Wei Li, Chengchao Hu, Xueqin Sun, Li-Qiang Lu, Xiaofeng Fan</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02924-1</guid>
-    </item>
-    <item>
-      <title>Suppressing the Hydrogen Bonding Interaction with *OOH toward Efficient H2O2 Electrosynthesis via Remote Electronic Tuning of Co-N4</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124448</link>
-      <description>Jiawei Zhang, Hongwei Zeng, Bingling He, Ying Liu, Jing Xu, Tengfei Niu, Chengsi Pan, Ying Zhang, Yang Lou, Yao Wang, Yuming Dong, Yongfa Zhu, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4401198331
-
-                No abstract</description>
-      <author>Jiawei Zhang, Hongwei Zeng, Bingling He, Ying Liu, Jing Xu, Tengfei Niu, Chengsi Pan, Ying Zhang, Yang Lou, Yao Wang, Yuming Dong, Yongfa Zhu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124448</guid>
-    </item>
-    <item>
-      <title>Activation of inert surface of monolayer MoS2 by transition metal and nitrogen co-doping to promote hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.cplett.2024.141504</link>
-      <description>Yu&#8208;Cheng Chen, Yafei Zhao, Haoshan Gao, Liang He, Chemical Physics Letters. None(None)] 2024. https://openalex.org/W4401199160
-
-                No abstract</description>
-      <author>Yu&#8208;Cheng Chen, Yafei Zhao, Haoshan Gao, Liang He</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141504</guid>
-    </item>
     <item>
       <title>Self&#8208;Recoverable Symmetric Protonic Ceramic Fuel Cell with Smart Reversible Exsolution/Dissolution Electrode</title>
       <link>https://doi.org/10.1002/adfm.202404846</link>
@@ -362,7 +252,7 @@
       <link>https://doi.org/10.1002/smll.202403967</link>
       <description>Yeyu Deng, Haibo Liu, Leo Lai, Fangxin She, Fangzhou Liu, Mohan Li, Zixun Yu, Jing Li, Di Zhu, Hao Li, Li Wei, Yuan Chen, Small. None(None)] 2024. https://openalex.org/W4401357624
 
-                Abstract Platinum&#8208;Ruthenium (PtRu) bimetallic nanoparticles are promising catalysts for methanol oxidation reaction (MOR) required by direct methanol fuel cells. However, existing catalyst synthesis methods have difficulty controlling their composition and structures. Here, a direct Joule heating method to yield highly active and stable PtRu catalysts for MOR is shown. The optimized Joule heating condition at 1000 &#176;C over 50 microseconds produces uniform PtRu nanoparticles (6.32 wt.% Pt and 2.97 wt% Ru) with an average size of 2.0 &#177; 0.5 nanometers supported on carbon black substrates. They have a large electrochemically active surface area (ECSA) of 239 m 2 g &#8722;1 and a high ECSA normalized specific activity of 0.295 mA cm &#8722;2 . They demonstrate a peak mass activity of 705.9 mA mg Pt &#8722;1 for MOR, 2.8 times that of commercial 20 wt.% platinum/carbon catalysts, and much superior to PtRu catalysts obtained by standard hydrothermal synthesis. Theoretical calculation results indicate that the superior catalytic activity can be attributed to modified Pt sites in PtRu nanoparticles, enabling strong methanol adsorption and weak carbon monoxide binding. Further, the PtRu catalyst demonstrates excellent stability in two&#8208;electrode methanol fuel cell tests with 85.3% current density retention and minimum Pt surface oxidation after 24 h.</description>
+                Platinum-Ruthenium (PtRu) bimetallic nanoparticles are promising catalysts for methanol oxidation reaction (MOR) required by direct methanol fuel cells. However, existing catalyst synthesis methods have difficulty controlling their composition and structures. Here, a direct Joule heating method to yield highly active and stable PtRu catalysts for MOR is shown. The optimized Joule heating condition at 1000 &#176;C over 50 microseconds produces uniform PtRu nanoparticles (6.32 wt.% Pt and 2.97 wt% Ru) with an average size of 2.0 &#177; 0.5 nanometers supported on carbon black substrates. They have a large electrochemically active surface area (ECSA) of 239 m</description>
       <author>Yeyu Deng, Haibo Liu, Leo Lai, Fangxin She, Fangzhou Liu, Mohan Li, Zixun Yu, Jing Li, Di Zhu, Hao Li, Li Wei, Yuan Chen</author>
       <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202403967</guid>
@@ -388,6 +278,66 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104919</guid>
     </item>
     <item>
+      <title>Electronic Properties of Single-Atom Metal Catalysts Supported on Nitrogen-Doped Carbon</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c03232</link>
+      <description>Maria G. Minotaki, N&#250;ria L&#243;pez, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4401389123
+
+                No abstract</description>
+      <author>Maria G. Minotaki, N&#250;ria L&#243;pez</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03232</guid>
+    </item>
+    <item>
+      <title>New Insights into the ORR Catalysis on Pt Alloy Nanoparticles from an Element Specific &lt;i&gt;d&lt;/i&gt;-Band Analysis</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c01912</link>
+      <description>Tyler Joe Ziehl, Junrui Li, Shouheng Sun, Peng Zhang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4401395709
+
+                No abstract</description>
+      <author>Tyler Joe Ziehl, Junrui Li, Shouheng Sun, Peng Zhang</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01912</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic Ammonia Oxidation to Nitrite and Nitrate with NiOOH&#8208;Ni</title>
+      <link>https://doi.org/10.1002/aenm.202401675</link>
+      <description>Hanwen Liu, Cheng&#8208;Jie Yang, Chung&#8208;Li Dong, Jiashu Wang, Xin Zhang, Andrey Lyalin, Tetsuya Taketsugu, Zhiqi Chen, Daqin Guan, Xiaomin Xu, Zongping Shao, Zhenguo Huang, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4401396156
+
+                Abstract Ammonia electrooxidation in aqueous solutions can be a highly energy&#8208;efficient process in producing nitrate and nitrite while generating hydrogen under ambient conditions. However, the kinetics of this reaction are slow and the role of catalyst in facilitating ammonia electrooxidation is not well understood. In this study, a high&#8208;performance NiOOH&#8208;Ni catalyst is introduced for converting ammonia into nitrite with Faraday efficiency of up to 90.4% and nitrate production rate of 1 mg h &#8722;1 cm &#8722;2 . By employing Operando techniques, the role of NiOOH catalyst is elucidated in the dynamic electrooxidation of ammonia. Density functional theory (DFT) calculations support experimental observations and reveal the mechanism of the electrochemical oxidation of ammonia to nitrite and nitrate. Overall, this research contributes to the development of a cost&#8208;effective and highly efficient catalyst for large&#8208;scale ammonia electrolysis, while shedding light on the underlying mechanism of the NiOOH catalyst in ammonia electrooxidation.</description>
+      <author>Hanwen Liu, Cheng&#8208;Jie Yang, Chung&#8208;Li Dong, Jiashu Wang, Xin Zhang, Andrey Lyalin, Tetsuya Taketsugu, Zhiqi Chen, Daqin Guan, Xiaomin Xu, Zongping Shao, Zhenguo Huang</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202401675</guid>
+    </item>
+    <item>
+      <title>Metal Atom&#8211;Support Interaction in Single Atom Catalysts toward Hydrogen Peroxide Electrosynthesis</title>
+      <link>https://doi.org/10.1021/acsnano.4c07916</link>
+      <description>Jizhou Duan, Haitao Xu, Wang Gao, Shanshan Chen, Feng Li, Dongyuan Zhao, ACS Nano. None(None)] 2024. https://openalex.org/W4401397949
+
+                No abstract</description>
+      <author>Jizhou Duan, Haitao Xu, Wang Gao, Shanshan Chen, Feng Li, Dongyuan Zhao</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c07916</guid>
+    </item>
+    <item>
+      <title>Importance of Morphology of Layered Double Hydroxide in Electrochemical Energy Storage and Catalysis</title>
+      <link>https://doi.org/10.1002/smtd.202400519</link>
+      <description>Peng Song, Qianfeng Pan, Yixuan Qiao, Tiantian Wang, Nyan Lynn Htut, Bo Chen, Marc A. Anderson, Yang Wang, Han Hu, Small Methods. None(None)] 2024. https://openalex.org/W4401400887
+
+                Abstract The development of nanomaterials for energy storage and conversion has always been important. Layered double hydroxide (LDH) is a promising material due to its high capacity, tunable composition and easy synthesis. In this work, the morphology of NiCo&#8208;LDH is tuned with surfactants including sodium dodecyl sulfate (SDS) and cetyltrimethylammonium bromide (CTAB), and investigated the correlation between morphology and electrochemical properties. NiCo&#8208;LDH&#8208;SDS with a layered structure exhibited a specific capacitance of 1004 C g &#8722;1 at 1 A g &#8722;1 , which is higher than that of the needle&#8208;like NiCo&#8208;LDH&#8208;CTAB (678 C g &#8722;1 ) and the rod&#8208;like NiCo&#8208;LDH (279 C g &#8722;1 ). Meanwhile, NiCo&#8208;LDH&#8208;SDS and NiCo&#8208;LDH&#8208;CTAB showed a reduction of 36 and 19 mV, respectively, in their overpotentials at 10 mA cm &#8722;2 compared to NiCo&#8208;LDH. Contact angle and adhesive force measurements proved the influence of morphology on the interfacial properties that layered structure is favorable for the timely detachment of the bubbles. Therefore, rational morphology regulation of LDH can effectively alter the gas&#8211;liquid&#8211;solid interface and thereby accelerate the reaction kinetics. The connections between morphologies, bubbles releasing and electrochemical performance are well established in this work, which can be applied in the investigation of nanomaterials for energy&#8208;related activities, especially the ones concerning bubbles releasing processes.</description>
+      <author>Peng Song, Qianfeng Pan, Yixuan Qiao, Tiantian Wang, Nyan Lynn Htut, Bo Chen, Marc A. Anderson, Yang Wang, Han Hu</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202400519</guid>
+    </item>
+    <item>
+      <title>Emerging electrocatalysts for green ammonia production: Recent progress and future outlook</title>
+      <link>https://doi.org/10.1016/j.arabjc.2024.105950</link>
+      <description>Sajid Mahmood, Shahid Iqbal, Sajid Mahmood, Muhammad Ammar, Muhammad Javed Iqbal, Ali Bahadur, Nasser S. Awwad, Hala A. Ibrahium, Arabian Journal of Chemistry. None(None)] 2024. https://openalex.org/W4401406586
+
+                No abstract</description>
+      <author>Sajid Mahmood, Shahid Iqbal, Sajid Mahmood, Muhammad Ammar, Muhammad Javed Iqbal, Ali Bahadur, Nasser S. Awwad, Hala A. Ibrahium</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.arabjc.2024.105950</guid>
+    </item>
+    <item>
       <title>HfS2/BN Heterostructures: A Repeatable Detectable Water Sensing Material</title>
       <link>https://doi.org/10.1016/j.surfin.2024.104906</link>
       <description>Jiashuo Zhang, Zihan Chen, Tongtong Li, Junkuo Gao, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401295962
@@ -398,14 +348,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104906</guid>
     </item>
     <item>
-      <title>AlloyBERT: Alloy property prediction with large language models</title>
-      <link>https://doi.org/10.1016/j.commatsci.2024.113256</link>
-      <description>Akshat Chaudhari, Chakradhar Guntuboina, Hongshuo Huang, Amir Barati Farimani, Computational Materials Science. 244(None)] 2024. https://openalex.org/W4401194786
+      <title>Spatially Resolved Uncertainties for Machine Learning Potentials</title>
+      <link>https://doi.org/10.1021/acs.jcim.4c00904</link>
+      <description>Esther Heid, Johannes Sch&#246;rghuber, Ralf Wanzenb&#246;ck, Georg K. H. Madsen, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4401386355
 
                 No abstract</description>
-      <author>Akshat Chaudhari, Chakradhar Guntuboina, Hongshuo Huang, Amir Barati Farimani</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113256</guid>
+      <author>Esther Heid, Johannes Sch&#246;rghuber, Ralf Wanzenb&#246;ck, Georg K. H. Madsen</author>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c00904</guid>
     </item>
   </channel>
 </rss>

@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Aug  8 01:12:12 2024
+Created on Fri Aug  9 01:13:18 2024
 
-Found 35 results from 2024-08-01 to 2024-08-08
+Found 43 results from 2024-08-02 to 2024-08-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Oxidative Fluorination of a Ternary Cu/ZnO/FeOx Methanol Catalyst─A Proof of Principle   
-
-OpenAlex: https://openalex.org/W4401163510    
-Open access: False
-    
-[L. Ernst](https://openalex.org/A5024147094), [Christian Njel](https://openalex.org/A5062169154), [Wijnand Marquart](https://openalex.org/A5087185974), [Shaine Raseale](https://openalex.org/A5091840224), [Michael Claeys](https://openalex.org/A5081932269), [Nico Fischer](https://openalex.org/A5043608368), [Ingo Krossing](https://openalex.org/A5035919046), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02995.
-    
-Oxidative fluorination is reported to increase methanol (MeOH) productivity of binary copper–zinc oxide (CZ) catalyst systems yet is incompatible with all the hitherto tested ternary support materials. Here, we show that the oxidative fluorination with F2 gas of CZ MeOH catalysts including iron oxide as a support material improves catalytic performances. A systematic variation of the compositions of the investigated ternary CZFe (copper, zinc, and iron) catalyst system led to a total of 13 different systems. The subsequent oxidative fluorination of all systems with a low F2 pressure of 200 mbar showed significant improvement in the MeOH productivity and selectivity for almost all systems tested. High-iron systems benefited most from oxidative fluorination. In addition, selected systems were exposed to higher F2 amounts and were studied. Further measurements showed that the crystallinity, surface area, and high-temperature carbonate content of the CZFe systems are very well tunable. Kinetic investigations indicated that fluorination leads to an increase in the number of active sites for the MeOH synthesis and at the same time increases the apparent activation energy for the RWGS reaction. In addition, oxidative fluorination at total F2 pressures of and higher than 1250 mbar shuts down the iron-induced parasitic Fischer–Tropsch-type hydrogenation to hydrocarbons and results in the highest MeOH production rates.    
-
-    
-
-## Nickel-Catalyzed Reductive Decarboxylative Coupling of Diacyl Peroxides with Aryl/Vinyl Halides   
-
-OpenAlex: https://openalex.org/W4401175043    
-Open access: False
-    
-[Canbin Qiu](https://openalex.org/A5017717675), [Qifa Chen](https://openalex.org/A5012876772), [Hegui Gong](https://openalex.org/A5007859420), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04002.
-    
-No abstract    
-
-    
 
 ## Dynamically Restructuring Nanoporous Cu–Co Electrocatalyst for Efficient Nitrate Electroreduction to Ammonia   
 
@@ -386,6 +364,116 @@ OpenAlex: https://openalex.org/W4401358690
 Open access: True
     
 [Ling Meng](https://openalex.org/A5006408002), [Ekaterina V. Pokochueva](https://openalex.org/A5012781928), [Zixuan Chen](https://openalex.org/A5057400624), [Alexey Fedorov](https://openalex.org/A5007422032), [Francesc Viñes](https://openalex.org/A5102782406), [Francesc Illas](https://openalex.org/A5012273051), [Igor V. Koptyug](https://openalex.org/A5024317980), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02534.
+    
+No abstract    
+
+    
+
+## Halide Salts Alleviate TMSOK Inhibition in Suzuki–Miyaura Cross-Couplings   
+
+OpenAlex: https://openalex.org/W4401384127    
+Open access: True
+    
+[Yao Shi](https://openalex.org/A5045320710), [Joshua S. Derasp](https://openalex.org/A5091569189), [Selene Sepúlveda Guzmán](https://openalex.org/A5060504209), [Brian O. Patrick](https://openalex.org/A5081446249), [Jason E. Hein](https://openalex.org/A5003345103), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02407.
+    
+No abstract    
+
+    
+
+## Simultaneously Boosting Catalyst Activity and Stability by Construction of Low-Temperature Strong Metal−Support Interaction   
+
+OpenAlex: https://openalex.org/W4401384634    
+Open access: False
+    
+[Hailian Tang](https://openalex.org/A5003882350), [Faqin Dong](https://openalex.org/A5057073683), [Siyuan Chen](https://openalex.org/A5100429247), [Jinlong Huang](https://openalex.org/A5071495674), [Feng Hong](https://openalex.org/A5007578853), [Yang Su](https://openalex.org/A5084652193), [Guoyi Bai](https://openalex.org/A5040518460), [Botao Qiao](https://openalex.org/A5102868281), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03421.
+    
+No abstract    
+
+    
+
+## Energy Maps of Complex Catalyst Surfaces   
+
+OpenAlex: https://openalex.org/W4401386255    
+Open access: True
+    
+[Andrey Tarasov](https://openalex.org/A5049622748), [Sabine Wrabetz](https://openalex.org/A5036649608), [Jutta Kröhnert](https://openalex.org/A5072582193), [Frank Rosowski](https://openalex.org/A5061251166), [Annette Trunschke](https://openalex.org/A5010271376), [Annette Trunschke](https://openalex.org/A5010271376), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01308.
+    
+No abstract    
+
+    
+
+## Boosting Higher Alcohols Selectivity via Regulating Basicity of Ni/Hydroxyapatite in Ethanol Upgrading   
+
+OpenAlex: https://openalex.org/W4401386829    
+Open access: False
+    
+[Machen Xue](https://openalex.org/A5060223393), [Zongzi Jin](https://openalex.org/A5039276490), [Bolun Yang](https://openalex.org/A5079262155), [Chungu Xia](https://openalex.org/A5016648658), [Gangli Zhu](https://openalex.org/A5014441711), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03891.
+    
+No abstract    
+
+    
+
+## Transition-Metal and Photocatalyst-Free, Redox-Neutral Heteroarylation of C(sp3)–H Bonds   
+
+OpenAlex: https://openalex.org/W4401386860    
+Open access: False
+    
+[Kamila Almagambetova](https://openalex.org/A5106344935), [Kathiravan Murugesan](https://openalex.org/A5062247890), [Magnus Rueping](https://openalex.org/A5071153001), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03766.
+    
+No abstract    
+
+    
+
+## Understanding and Controlling Reactivity Patterns of Pd1@C3N4-Catalyzed Suzuki–Miyaura Couplings   
+
+OpenAlex: https://openalex.org/W4401388208    
+Open access: True
+    
+[Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Georgios Giannakakis](https://openalex.org/A5003291079), [Aram L. Bugaev](https://openalex.org/A5041768941), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03531.
+    
+No abstract    
+
+    
+
+## Merging Pd(0)-Catalyzed Selective Cacyl–O Bond Activation of Enol Esters with π-Acid Catalysis: Net Hydroxyacylation of Aliphatic Alkynes with Carboxylic Acids   
+
+OpenAlex: https://openalex.org/W4401388292    
+Open access: False
+    
+[Kenichi Michigami](https://openalex.org/A5031386202), [Yoshiki Otawa](https://openalex.org/A5106345303), [Yasuharu Kanda](https://openalex.org/A5003799051), [Daiki Kawakami](https://openalex.org/A5106345304), [Masato Ohashi](https://openalex.org/A5103249359), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03945.
+    
+No abstract    
+
+    
+
+## Uncovering Hydroxynitrile Lyase Variants with Promiscuous Diastereoselective Nitroaldolase Activity toward the Highly Stereocontrolled Synthesis of Anti β-Nitroalcohols   
+
+OpenAlex: https://openalex.org/W4401390891    
+Open access: False
+    
+[Ayon Chatterjee](https://openalex.org/A5068835736), [G. Priyanka](https://openalex.org/A5011537875), [N. Prakash Prabhu](https://openalex.org/A5017053564), [Santosh Kumar Padhi](https://openalex.org/A5019648537), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04000.
+    
+No abstract    
+
+    
+
+## Hydrogenation of CO2 to CH3OH on the Cu–ZnO–SrTiO3 Catalysts: The Electronic Metal–Support Interaction Induces Oxygen Vacancy Generation   
+
+OpenAlex: https://openalex.org/W4401395710    
+Open access: False
+    
+[Yaxin Liu](https://openalex.org/A5100622194), [Xuguang Wang](https://openalex.org/A5101598359), [Zihao Wang](https://openalex.org/A5100413093), [Chonghao Chen](https://openalex.org/A5054702314), [Jianhua Song](https://openalex.org/A5035700327), [Ling Zhang](https://openalex.org/A5100599001), [Weizhong Bao](https://openalex.org/A5103449139), [Bin Sun](https://openalex.org/A5102375164), [Lei Wang](https://openalex.org/A5100436052), [Dianhua Liu](https://openalex.org/A5036892042), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02289.
+    
+No abstract    
+
+    
+
+## Magnetron Sputtering of Pure δ-Ni5Ga3 Thin Films for CO2 Hydrogenation   
+
+OpenAlex: https://openalex.org/W4401399230    
+Open access: True
+    
+[Filippo Romeggio](https://openalex.org/A5094056805), [Jonathan F. Schouenborg](https://openalex.org/A5106349809), [Peter C. K. Vesborg](https://openalex.org/A5059074346), [Ole Hansen](https://openalex.org/A5089737511), [Jakob Kibsgaard](https://openalex.org/A5047292046), [Ib Chorkendorff](https://openalex.org/A5090008029), [Christian Danvad Damsgaard](https://openalex.org/A5027682734), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03345.
     
 No abstract    
 
