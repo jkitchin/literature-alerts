@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Aug  9 01:13:29 2024
+Created on Sat Aug 10 01:13:09 2024
 
-Found 35 results from 2024-08-02 to 2024-08-09
+Found 42 results from 2024-08-03 to 2024-08-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967]]
@@ -16,48 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357]]
-
-* Self‐Recoverable Symmetric Protonic Ceramic Fuel Cell with Smart Reversible Exsolution/Dissolution Electrode  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401222606
-:TOPICS: Fuel Cell Membrane Technology, Solid Oxide Fuel Cells, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202404846")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401222606"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401222606"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401222606"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401222606 (Open access: True)
-    
-[[https://openalex.org/A5100370111][Yuhao Wang]], [[https://openalex.org/A5100401114][Zheng Wang]], [[https://openalex.org/A5063045887][Kaichuang Yang]], [[https://openalex.org/A5100743473][Jiapeng Liu]], [[https://openalex.org/A5055550850][Yufei Song]], [[https://openalex.org/A5100416947][Jingwei Li]], [[https://openalex.org/A5003964217][Zhiwei Hu]], [[https://openalex.org/A5074367971][Matthew J. Robson]], [[https://openalex.org/A5100765062][Zhiqi Zhang]], [[https://openalex.org/A5010315884][Yunfeng Tian]], [[https://openalex.org/A5049290424][Sai Xu]], [[https://openalex.org/A5101534850][Ying Lu]], [[https://openalex.org/A5080598507][Ho Mei Law]], [[https://openalex.org/A5100415265][Feng Liu]], [[https://openalex.org/A5078610325][Qing Chen]], [[https://openalex.org/A5021426844][Zhibin Yang]], [[https://openalex.org/A5029424400][Francesco Ciucci]], Advanced Functional Materials. None(None)] 2024. https://doi.org/10.1002/adfm.202404846 
-     
-Abstract This study unveils a novel concept of symmetric protonic ceramic fuel cells (symm‐PCFCs) with the introduction of a self‐recoverable electrode design, employing the innovative material BaCo 0.4 Fe 0.4 Zr 0.1 Y 0.1 O 3‐δ (BCFZY). This research marks a significant milestone as it demonstrates the bi‐functional electrocatalytic activity of BCFZY for the first time. Utilizing density functional theory simulations, the molecular orbital interactions and defect chemistry of BCFZY are explored, uncovering its unique capability for the reversible exsolution and dissolution of Co‐Fe nanoparticles under redox conditions. This feature is pivotal in promoting both hydrogen oxidation and oxygen reduction reactions. Leveraging this insight, a cell is fabricated exhibiting high electrocatalytic activity and fuel flexibility as evidenced by the peak power densities of ≈350, 287, and 221 mW cm −2 (at 600 °C) with hydrogen, methanol, and methane as fuels, respectively. Experiments also show that the reversible exsolution/dissolution mitigates performance degradation, enabling prolonged operational life through self‐recovery. This approach paves the way for novel, advanced, durable, and commercially viable symm‐PCFCs.    
-
-    
-
-* Systematic assessment of various universal machine‐learning interatomic potentials  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401233871
-:TOPICS: Accelerating Materials Innovation through Informatics, Atomic Force Microscopy Techniques, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-07-31
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/mgea.58")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401233871"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401233871"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401233871"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401233871 (Open access: True)
-    
-[[https://openalex.org/A5101842185][Haochen Yu]], [[https://openalex.org/A5072458070][Matteo Giantomassi]], [[https://openalex.org/A5020375166][Giuliana Materzanini]], [[https://openalex.org/A5100395804][Junjie Wang]], [[https://openalex.org/A5085863268][Gian‐Marco Rignanese]], Materials Genome Engineering Advances. None(None)] 2024. https://doi.org/10.1002/mgea.58 
-     
-Abstract Machine‐learning interatomic potentials have revolutionized materials modeling at the atomic scale. Thanks to these, it is now indeed possible to perform simulations of ab initio quality over very large time and length scales. More recently, various universal machine‐learning models have been proposed as an out‐of‐box approach avoiding the need to train and validate specific potentials for each particular material of interest. In this paper, we review and evaluate four different universal machine‐learning interatomic potentials (uMLIPs), all based on graph neural network architectures which have demonstrated transferability from one chemical system to another. The evaluation procedure relies on data both from a recent verification study of density‐functional‐theory implementations and from the Materials Project. Through this comprehensive evaluation, we aim to provide guidance to materials scientists in selecting suitable models for their specific research problems, offer recommendations for model selection and optimization, and stimulate discussion on potential areas for improvement in current machine‐learning methodologies in materials science.    
-
-    
 
 * Spinel oxide modified FeCoNi alloy composites prepared with one-step pyrolytic reduction as bifunctional catalyst for ORR/OER  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -416,6 +374,27 @@ Abstract We report high throughput computational screening for magnetic ground s
 
     
 
+* Colloidal copper nanospheres boost propanol electrosynthesis from CO  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401323735
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-08-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-4544481/v1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401323735"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401323735"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401323735"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401323735 (Open access: True)
+    
+[[https://openalex.org/A5100661200][Min Wang]], [[https://openalex.org/A5046602252][Anna Loiudice]], [[https://openalex.org/A5093893762][Enric Ibáñez Alé]], [[https://openalex.org/A5002274234][Krishna Kumar]], [[https://openalex.org/A5026194866][Dragos Stoian]], [[https://openalex.org/A5003157104][Zan Lian]], [[https://openalex.org/A5043822542][Petru P. Albertini]], [[https://openalex.org/A5001668263][Ludovic Zaza]], [[https://openalex.org/A5072758385][Jari Leemans]], [[https://openalex.org/A5100605805][Núria López]], [[https://openalex.org/A5003246811][Raffaella Buonsanti]], Research Square (Research Square). None(None)] 2024. https://doi.org/10.21203/rs.3.rs-4544481/v1  ([[https://www.researchsquare.com/article/rs-4544481/latest.pdf][pdf]])
+     
+Abstract Achieving a carbon neutral manufacturing of chemicals is imperative to accelerate the transition towards a sustainable future. Propanol electrosynthesis from CO electroreduction represents a promising alternative to the current manufacturing of this chemical. Yet, the catalyst features driving propanol formation are poorly understood, which limits further advancement in the performance. Herein, we report on a comprehensive mapping of the sensitivity of the CO electroreduction to the catalyst structure exploiting well-defined copper nanocrystals (NCs) with tunable shape and size synthesized via colloidal chemistry. In addition to clarify the dependence from the exposed surfaces, we discover that spheres uniquely promote n-propanol selectivity, which we explain mostly with strain effects. Driven by this novel insight, we achieve unprecedent n-propanol production via electrosynthesis with a copper catalyst. We demonstrate that colloidal copper nanospheres with a diameter of 4 nm deliver n-propanol faradaic efficiency of 39.6±1.4% at 119±4.2 mA/cm2 production rate, the latter being ten times the current state of the art for copper catalysts.    
+
+    
+
 * Ionic liquid–electrode interface: classification of ions, saturation of layers, and structure-determined potentials  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401325023
@@ -622,7 +601,7 @@ OpenAlex: https://openalex.org/W4401395709 (Open access: False)
     
 [[https://openalex.org/A5020007180][Tyler Joe Ziehl]], [[https://openalex.org/A5084775819][Junrui Li]], [[https://openalex.org/A5065440051][Shouheng Sun]], [[https://openalex.org/A5103286383][Peng Zhang]], The Journal of Physical Chemistry Letters. None(None)] 2024. https://doi.org/10.1021/acs.jpclett.4c01912 
      
-No abstract    
+Bolstered by their unique atomic structures and tailored compositions, nanoalloys exhibit extraordinary properties making them ideal materials to solve challenges in energy storage and conversion catalysis. However, a quantitative description of the structure-property relationships using an accurate descriptor-based model for nanoalloys, ranging from bimetallic to multimetallic compositions, is needed to drive efficient material design toward high-performance catalysis. In this work, we highlight the electronic property and catalytic activity relationship from an element specific    
 
     
 
@@ -664,7 +643,7 @@ OpenAlex: https://openalex.org/W4401397949 (Open access: False)
     
 [[https://openalex.org/A5039719123][Jizhou Duan]], [[https://openalex.org/A5008599015][Haitao Xu]], [[https://openalex.org/A5100648729][Wang Gao]], [[https://openalex.org/A5100416650][Shanshan Chen]], [[https://openalex.org/A5100767435][Feng Li]], [[https://openalex.org/A5100649707][Dongyuan Zhao]], ACS Nano. None(None)] 2024. https://doi.org/10.1021/acsnano.4c07916 
      
-No abstract    
+Single metal atom catalysts (SACs) have garnered considerable attention as promising agents for catalyzing important industrial reactions, particularly the electrochemical synthesis of hydrogen peroxide (H    
 
     
 
@@ -685,7 +664,7 @@ OpenAlex: https://openalex.org/W4401400887 (Open access: False)
     
 [[https://openalex.org/A5030964596][Peng Song]], [[https://openalex.org/A5033634373][Qianfeng Pan]], [[https://openalex.org/A5027724689][Yixuan Qiao]], [[https://openalex.org/A5100423064][Tiantian Wang]], [[https://openalex.org/A5106350832][Nyan Lynn Htut]], [[https://openalex.org/A5100427392][Bo Chen]], [[https://openalex.org/A5103530725][Marc A. Anderson]], [[https://openalex.org/A5100322915][Yang Wang]], [[https://openalex.org/A5048769631][Han Hu]], Small Methods. None(None)] 2024. https://doi.org/10.1002/smtd.202400519 
      
-Abstract The development of nanomaterials for energy storage and conversion has always been important. Layered double hydroxide (LDH) is a promising material due to its high capacity, tunable composition and easy synthesis. In this work, the morphology of NiCo‐LDH is tuned with surfactants including sodium dodecyl sulfate (SDS) and cetyltrimethylammonium bromide (CTAB), and investigated the correlation between morphology and electrochemical properties. NiCo‐LDH‐SDS with a layered structure exhibited a specific capacitance of 1004 C g −1 at 1 A g −1 , which is higher than that of the needle‐like NiCo‐LDH‐CTAB (678 C g −1 ) and the rod‐like NiCo‐LDH (279 C g −1 ). Meanwhile, NiCo‐LDH‐SDS and NiCo‐LDH‐CTAB showed a reduction of 36 and 19 mV, respectively, in their overpotentials at 10 mA cm −2 compared to NiCo‐LDH. Contact angle and adhesive force measurements proved the influence of morphology on the interfacial properties that layered structure is favorable for the timely detachment of the bubbles. Therefore, rational morphology regulation of LDH can effectively alter the gas–liquid–solid interface and thereby accelerate the reaction kinetics. The connections between morphologies, bubbles releasing and electrochemical performance are well established in this work, which can be applied in the investigation of nanomaterials for energy‐related activities, especially the ones concerning bubbles releasing processes.    
+The development of nanomaterials for energy storage and conversion has always been important. Layered double hydroxide (LDH) is a promising material due to its high capacity, tunable composition and easy synthesis. In this work, the morphology of NiCo-LDH is tuned with surfactants including sodium dodecyl sulfate (SDS) and cetyltrimethylammonium bromide (CTAB), and investigated the correlation between morphology and electrochemical properties. NiCo-LDH-SDS with a layered structure exhibited a specific capacitance of 1004 C g    
 
     
 
@@ -710,6 +689,153 @@ No abstract
 
     
 
+* Tunable topological magnetism in superlattices of nonmagnetic B20 systems  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401418556
+:TOPICS: Magnetic Skyrmions and Spintronics, Mechanical Properties of Metallic Glasses, Synthesis and Properties of Boron-based Materials
+:PUBLICATION_DATE: 2024-08-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1103/physrevb.110.l060407")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401418556"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401418556"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401418556"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401418556 (Open access: True)
+    
+[[https://openalex.org/A5059946451][Vladislav Borisov]], [[https://openalex.org/A5000450963][Anna Delin]], [[https://openalex.org/A5064187188][Olle Eriksson]], Physical review. B./Physical review. B. 110(6)] 2024. https://doi.org/10.1103/physrevb.110.l060407 
+     
+We predict topological magnetic properties of B20 systems, that are organized in atomically thin multilayers. In particular, we focus on FeSi/CoSi and FeSi/FeGe superlattices with different numbers of layers and interface structures. We demonstrate that the absence of long-range magnetic order, previously observed in bulk FeSi and CoSi, is broken near the FeSi/CoSi interface, where a magnetic state with a nontrivial topological texture appears. Using the Heisenberg and Dzyaloshinskii-Moriya (DM) interactions calculated from first principles, we perform finite-temperature atomistic spin dynamics simulations for up to 2×106 spins to capture the complexity of noncollinear textures. Our simulations predict the formation of antiskyrmions in a [001]-oriented FeSi/CoSi multilayer, intermediate skyrmions in a [111]-oriented FeSi/CoSi system, and Bloch skyrmions in the FeSi/FeGe (001) system, with a size between 7 and 37 nm. These varieties of topological magnetic textures in the studied systems can be attributed to the complex asymmetric structure of the DM matrix, which is different from previously known magnetic materials. We demonstrate that through structural engineering both ferromagnetic and antiferromagnetic skyrmions can be stabilized, where the latter are especially appealing for applications due to the zero skyrmion Hall effect. The proposed B20 multilayers show a potential for further exploration and call for experimental confirmation. Published by the American Physical Society 2024    
+
+    
+
+* Enhancing Low Temperature Lithium-ion Battery Performance under High-rate Conditions with Niobium Oxides  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401422129
+:TOPICS: Lithium-ion Battery Technology, Lithium Battery Technologies, Battery Recycling and Rare Earth Recovery
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mtener.2024.101663")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401422129"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401422129"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401422129"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401422129 (Open access: False)
+    
+[[https://openalex.org/A5073315754][Elizabeth A. Pogue]], [[https://openalex.org/A5087885200][Spencer Langevin]], [[https://openalex.org/A5072491631][Tanner Hamann]], [[https://openalex.org/A5038524359][Karun K. Rao]], [[https://openalex.org/A5066321829][Marshall A. Schroeder]], [[https://openalex.org/A5027907644][Nam Q. Le]], [[https://openalex.org/A5025986733][Courtney McHale]], [[https://openalex.org/A5095955718][Zachary Burchfield]], [[https://openalex.org/A5080572468][Jesse S. Ko]], Materials Today Energy. None(None)] 2024. https://doi.org/10.1016/j.mtener.2024.101663 
+     
+No abstract    
+
+    
+
+* Review of Extrinsic Factors That Limit the Catalytic Performance of Transition Metal Dichalcogenides (TMDs) in Hydrogen Evolution Reactions (HER)  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401427676
+:TOPICS: Thin-Film Solar Cell Technology, Two-Dimensional Materials, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-08-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/celc.202400259")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401427676"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401427676"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401427676"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401427676 (Open access: True)
+    
+[[https://openalex.org/A5065698004][Jeyavelan Muthu]], [[https://openalex.org/A5059883196][Farheen Khurshid]], [[https://openalex.org/A5087242105][Mario Hofmann]], [[https://openalex.org/A5028064495][Ya‐Ping Hsieh]], ChemElectroChem. None(None)] 2024. https://doi.org/10.1002/celc.202400259 
+     
+Abstract Transition metal dichalcogenides (TMDs) have garnered attention as potential catalysts for water splitting owing to their unique structures, diverse electronic properties, and composition from earth‐abundant elements. While certain TMD catalysts, notably MoS 2 , have shown promising activity for hydrogen evolution reactions (HER), achieving performance comparable to traditional platinum catalysts remains a challenge. While significant effort has been invested into understanding the effect of TMD's structural properties, such as defectiveness and crystalline phases, recent work has emphasized the role of extrinsic factors on HER. This review summarizes the current understanding of the impact of commonly overlooked electrocatalytic effects that exhibit an enhanced importance in TMD‐based HER. By combining recent advances in theoretical modeling and experimental work, we review the dominating effects of extrinsic factors including electronic resistance, interfacial barriers, surface roughness, oxidation, and valence impurities. Our work aims to provide insights into optimizing TMDs as highly efficient catalysts for HER, facilitating future advancements in hydrogen generation technology.    
+
+    
+
+* Exploring Direct Electrochemical Fischer–Tropsch Chemistry of C1–C7 Hydrocarbons via Perimeter Engineering of Au–SrTiO3 Catalyst  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401427793
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-08-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aenm.202402062")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401427793"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401427793"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401427793"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401427793 (Open access: True)
+    
+[[https://openalex.org/A5103940136][Ju Hyun Yang]], [[https://openalex.org/A5106359982][Gi Beom Sim]], [[https://openalex.org/A5101647024][So Jeong Park]], [[https://openalex.org/A5062873772][Choong Kyun Rhee]], [[https://openalex.org/A5018915169][Chang Woo Myung]], [[https://openalex.org/A5035286820][Youngku Sohn]], Advanced Energy Materials. None(None)] 2024. https://doi.org/10.1002/aenm.202402062 
+     
+Abstract Traditionally, Fischer–Tropsch (FT) synthesis is performed using thermal catalysts and syngas (CO and H 2 ) under high‐pressure and high‐temperature conditions. However, this study introduces an approach that relies on FT chemistry assisted by electrochemistry, referred to here as direct electrochemical (EC) FT chemistry, under ambient conditions. A series of CH 4 , C n H 2n , and C n H 2n+2 hydrocarbons (n = 1–7) is successfully produced over gold (Au) nanoparticle‐loaded perovskite strontium titanate (SrTiO 3 ) nanostructures grown on rutile TiO 2 supported on Ti. Au (1.0 nm)–SrTiO 3 shows the best interface formation, with the highest Faradaic efficiency for C 2+ hydrocarbons. This direct EC‐FT process proceeds via a C─C coupling chain growth reaction at the Au‐SrTiO 3 interface as evidenced by the hydrocarbon weight distribution analysis and density functional theory calculations. The robust combination of experimental and computational findings reveals that optimum conditions for producing surface hydrogenation and C─C coupling polymerization, initiated by surface * CO and * H are achieved by controlling the undercoordinated Au at the perimeter sites of supported Au nanoparticles and by ensuring a harmonized density of states between Au and SrTiO 3 . This EC‐FT process opens a promising avenue for the direct conversion of CO 2 and H 2 O into value‐added long‐chain hydrocarbons.    
+
+    
+
+* Breaking the scaling relations of effective CO2 electrochemical reduction in diatomic catalysts by adjusting the flow direction of intermediate structures  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401430982
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4sc03085k")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401430982"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401430982"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401430982"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401430982 (Open access: True)
+    
+[[https://openalex.org/A5100329827][Yanwen Zhang]], [[https://openalex.org/A5060867417][Zhaoqun Yao]], [[https://openalex.org/A5104173743][Yiming Yang]], [[https://openalex.org/A5077400199][Xingwu Zhai]], [[https://openalex.org/A5100401293][Feng Zhang]], [[https://openalex.org/A5014584400][Zhijun Guo]], [[https://openalex.org/A5019992212][Xinghuan Liu]], [[https://openalex.org/A5039611354][Bin Yang]], [[https://openalex.org/A5102874682][Yunxia Liang]], [[https://openalex.org/A5019544231][Guixian Ge]], [[https://openalex.org/A5044619703][Xin Jia]], Chemical Science. None(None)] 2024. https://doi.org/10.1039/d4sc03085k 
+     
+High-throughput calculations show 11 flow directions from *CO to *CHO on DACs. The catalyst disrupting the linear adsorption relationship is linked to multiple, not just one, flow direction.    
+
+    
+
+* Photoelectrochemical enhancement for TiO2-based photoanodes: in-situ electrochemical analysis, modification strategies and mechanism studies  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401433845
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Photocatalysis and Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.144859")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401433845"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401433845"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401433845"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401433845 (Open access: False)
+    
+[[https://openalex.org/A5103136988][Xiaoying Shang]], [[https://openalex.org/A5101742243][Shouxin Zhang]], [[https://openalex.org/A5100409072][Zhiwei Li]], [[https://openalex.org/A5101430852][Li Fu]], Electrochimica Acta. None(None)] 2024. https://doi.org/10.1016/j.electacta.2024.144859 
+     
+No abstract    
+
+    
+
+* Oxophilic gallium single atoms bridged ruthenium clusters for practical anion-exchange membrane electrolyzer  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401437692
+:TOPICS: Electrocatalysis for Energy Conversion, Lithium-ion Battery Technology, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-08-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-51200-4")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401437692"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401437692"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401437692"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401437692 (Open access: True)
+    
+[[https://openalex.org/A5101843604][Chenhui Zhou]], [[https://openalex.org/A5050065678][Jia Shi]], [[https://openalex.org/A5100904892][Zhaoqi Dong]], [[https://openalex.org/A5100783047][Yunqi Liu]], [[https://openalex.org/A5100378023][Yan Chen]], [[https://openalex.org/A5008643265][Ying Han]], [[https://openalex.org/A5100386336][Lu Li]], [[https://openalex.org/A5100385193][Wenyu Zhang]], [[https://openalex.org/A5100327261][Qinghua Zhang]], [[https://openalex.org/A5016680184][Lin Gu]], [[https://openalex.org/A5026393313][Fan Lv]], [[https://openalex.org/A5001987994][Mingchuan Luo]], [[https://openalex.org/A5069379580][Shaojun Guo]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-51200-4 
+     
+The development of highly efficient and durable alkaline hydrogen evolution reaction (HER) catalysts is crucial for achieving high-performance practical anion exchange membrane water electrolyzer (AEMWE) at ampere-level current density. Herein, we report a design concept by employing Ga single atoms as an electronic bridge to stabilize the Ru clusters for boosting alkaline HER performance in practical AEMWE. Experimental and theoretical results collectively reveal that the bridged Ga sites trigger strong metal-support interaction for the homogeneous distribution of Ru clusters with high density, as well as optimize the Ru-H bond strength due to the electron transfer between Ru and Ga for enhanced intrinsic HER activity. Moreover, the oxophilic Ga sites near the Ru clusters tend to adsorb the hydroxyl species and accelerate the water dissociation for sufficient proton supplement in an alkaline medium. The Ru-Ga    
+
+    
+
 * HfS2/BN Heterostructures: A Repeatable Detectable Water Sensing Material  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401295962
@@ -731,6 +857,27 @@ No abstract
 
     
 
+* First-principles data for solid solution niobium-tantalum-vanadium alloys with body-centered-cubic structures  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401335548
+:TOPICS: High-Entropy Alloys: Novel Designs and Properties, Design and Applications of Intermetallic Alloys, Advancements in Density Functional Theory
+:PUBLICATION_DATE: 2024-08-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401335548"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401335548"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401335548"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401335548 (Open access: True)
+    
+[[https://openalex.org/A5019108731][Massimiliano Lupo Pasini]], [[https://openalex.org/A5049071685][German D. Samolyuk]], [[https://openalex.org/A5066258147][Markus Eisenbach]], [[https://openalex.org/A5054451484][Jong Youl Choi]], [[https://openalex.org/A5051882926][Junqi Yin]], [[https://openalex.org/A5010692490][Ying Yang]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2  ([[https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/66aa8490c9c6a5c07a9f6106/original/first-principles-data-for-solid-solution-niobium-tantalum-vanadium-alloys-with-body-centered-cubic-structures.pdf][pdf]])
+     
+We present four open-source datasets that provide results of density functional theory (DFT) calculations of ground-state properties of refractory solid solution binary alloys niobium-tantalum (NbTa), niobium-vanadium (NbV), tantalum-vanadium (TaV), and ternary alloys NbTaV ordered in body-centered-cubic (BCC) structures with 128 Bravais lattice sites. The first-principles code used to run the calculations is the Vienna Ab-Initio Simulation Package. The calculations have been collected by uniformly sampling chemical compositions across the entire compositional range. For each chemical composition, the calculations have been run for 100 randomized arrangements of the constituents on the BCC lattice sites. This sampling methodology resulted in running DFT simulations for a total of 3,100 randomized atomic configurations over 31 chemical compositions for each of the three binary alloys Nb-Ta, Nb-V, Ta-V, and a total of 10,500 randomized atomic structures over 105 chemical compositions for the ternary alloys Nb-Ta-V. For each atomic configuration, geometry optimization has been performed, and the data released contains information about each step of geometry optimization for each atomic configuration.    
+
+    
+
 * Spatially Resolved Uncertainties for Machine Learning Potentials  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401386355
@@ -748,6 +895,6 @@ OpenAlex: https://openalex.org/W4401386355 (Open access: True)
     
 [[https://openalex.org/A5018855407][Esther Heid]], [[https://openalex.org/A5096114238][Johannes Schörghuber]], [[https://openalex.org/A5017149091][Ralf Wanzenböck]], [[https://openalex.org/A5047162823][Georg K. H. Madsen]], Journal of Chemical Information and Modeling. None(None)] 2024. https://doi.org/10.1021/acs.jcim.4c00904 
      
-No abstract    
+Machine learning potentials have become an essential tool for atomistic simulations, yielding results close to ab initio simulations at a fraction of computational cost. With recent improvements on the achievable accuracies, the focus has now shifted on the data set composition itself. The reliable identification of erroneously predicted configurations to extend a given data set is therefore of high priority. Yet, uncertainty estimation techniques have achieved mixed results for machine learning potentials. Consequently, a general and versatile method to correlate energy or atomic force uncertainties with the model error has remained elusive to date. In the current work, we show that epistemic uncertainty cannot correlate with model error by definition but can be aggregated over groups of atoms to yield a strong correlation. We demonstrate that our method correctly estimates prediction errors both globally per structure and locally resolved per atom. The direct correlation of local uncertainty and local error is used to design an active learning framework based on identifying local subregions of a large simulation cell and performing ab initio calculations only for the subregion subsequently. We successfully utilized this method to perform active learning in the low-data regime for liquid water.    
 
     

@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Aug  9 01:13:18 2024
+Created on Sat Aug 10 01:12:57 2024
 
-Found 43 results from 2024-08-02 to 2024-08-09
+Found 40 results from 2024-08-03 to 2024-08-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Dynamically Restructuring Nanoporous Cu–Co Electrocatalyst for Efficient Nitrate Electroreduction to Ammonia   
-
-OpenAlex: https://openalex.org/W4401213797    
-Open access: False
-    
-[Xue Zhou](https://openalex.org/A5045617155), [Wence Xu](https://openalex.org/A5102484637), [Yanqin Liang](https://openalex.org/A5031396859), [Hui Jiang](https://openalex.org/A5006080282), [Zhaoyang Li](https://openalex.org/A5100457035), [Shuilin Wu](https://openalex.org/A5102804002), [Zhonghui Gao](https://openalex.org/A5102179235), [Zhenduo Cui](https://openalex.org/A5026967518), [Shengli Zhu](https://openalex.org/A5100627713), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03336.
-    
-No abstract    
-
-    
-
-## Design and Implementation of a CO2 Reduction Catalyst with an Internal Electron Transfer Mediator: Improving Turnover Frequency by More than 10-Fold   
-
-OpenAlex: https://openalex.org/W4401213805    
-Open access: False
-    
-[Bach Xuan Nguyen](https://openalex.org/A5025736332), [Xiaohan Li](https://openalex.org/A5065439988), [Jeffrey J. Warren](https://openalex.org/A5000268359), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01791.
-    
-No abstract    
-
-    
-
-## Redox Properties of Pyrroloquinoline Quinone in Pyranose Dehydrogenase Measured by Direct Electron Transfer   
-
-OpenAlex: https://openalex.org/W4401215094    
-Open access: True
-    
-[Kota Takeda](https://openalex.org/A5090036744), [James A. Birrell](https://openalex.org/A5085023912), [Ryo Kusuoka](https://openalex.org/A5010745574), [Toshio Minami](https://openalex.org/A5036412124), [Kiyohiko Igarashi](https://openalex.org/A5015988150), [Nobuhumi Nakamura](https://openalex.org/A5002811926), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02319.
-    
-No abstract    
-
-    
-
-## Rhodium(II)-Catalyzed Strain-Enabled Stereoselective Synthesis of Skipped Dienes   
-
-OpenAlex: https://openalex.org/W4401216041    
-Open access: False
-    
-[Ganesh Arjun Kadam](https://openalex.org/A5072627303), [Tushar Singha](https://openalex.org/A5076385126), [Sunil Rawat](https://openalex.org/A5046980281), [Durga Prasad Hari](https://openalex.org/A5007453620), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03569.
-    
-No abstract    
-
-    
-
-## Lanthanide–Titanium Oxo Cluster and BiVO4 Z-Scheme Photocatalyst Sheets for Carbon Dioxide Reduction   
-
-OpenAlex: https://openalex.org/W4401216093    
-Open access: False
-    
-[Rong Chen](https://openalex.org/A5100419038), [Qingjie Wang](https://openalex.org/A5102808778), [Guodong Gao](https://openalex.org/A5008257597), [Linxiao Wu](https://openalex.org/A5029087360), [Jingshan Luo](https://openalex.org/A5053608507), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03595.
-    
-No abstract    
-
-    
-
-## Overturning CO2 Hydrogenation Selectivity by Tailoring the Local Electron Density of Ru/CeO2 Catalysts   
-
-OpenAlex: https://openalex.org/W4401219306    
-Open access: False
-    
-[Yu Xie](https://openalex.org/A5100758646), [J CHEN](https://openalex.org/A5101452799), [Junjie Wen](https://openalex.org/A5100933410), [Zonglin Li](https://openalex.org/A5100731663), [Fangxian Cao](https://openalex.org/A5080043681), [Sai Zhang](https://openalex.org/A5100369668), [Qiming Sun](https://openalex.org/A5081252508), [Ping Ning](https://openalex.org/A5032793669), [Qiulin Zhang](https://openalex.org/A5025364613), [Jiming Hao](https://openalex.org/A5105250235), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03094.
-    
-No abstract    
-
-    
 
 ## Biochemical Investigation and Engineering of a Tardigrade X Family DNA Polymerase for Template-Independent DNA Synthesis   
 
@@ -141,9 +75,9 @@ No abstract
 ## Issue Editorial Masthead   
 
 OpenAlex: https://openalex.org/W4401273891    
-Open access: False
+Open access: True
     
-, ACS Catalysis. 14(15)] 2024.https://doi.org/10.1021/csv014i015_1828877.
+, ACS Catalysis. 14(15)] 2024.https://doi.org/10.1021/csv014i015_1828877 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i015_1828877)).
     
 No abstract    
 
@@ -176,9 +110,9 @@ No abstract
 OpenAlex: https://openalex.org/W4401324703    
 Open access: False
     
-[Claire Muzyka](https://openalex.org/A5006348808), [Diana Silva](https://openalex.org/A5032867366), [Bruno Grignard](https://openalex.org/A5055169937), [Christophe Detrembleur](https://openalex.org/A5012810514), [Jean‐Christophe M. Monbaliu](https://openalex.org/A5001225766), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01622.
+[Claire Muzyka](https://openalex.org/A5006348808), [Diana V. Silva-Brenes](https://openalex.org/A5032867366), [Bruno Grignard](https://openalex.org/A5055169937), [Christophe Detrembleur](https://openalex.org/A5012810514), [Jean‐Christophe M. Monbaliu](https://openalex.org/A5001225766), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01622.
     
-No abstract    
+Ambitious environmental objectives have driven research and innovation toward the production of biorenewable chemicals, such as glycerol carbonate. In particular, the production of glycerol carbonate from the coupling of CO2 and glycidol has received considerable attention from the chemistry and chemical engineering communities. This route became particularly appealing considering that glycidol is an activated derivative of glycerol, which, together with CO2, is an industrial waste. To keep the chain of value toward high value-added glycerol carbonate as attractive as possible, numerous metal-based and organo-catalysts have been developed. We provide with this review a pragmatic overview of the most promising catalytic protocols toward glycerol carbonate reported over the past 8 years. Special attention is given to inherent mechanistic and structure-(re)activity features as key parameters driving reaction performances. This review also addresses the preparation of a selection of catalysts, as well as the global efficiency and sustainability of the chain of value toward glycerol carbonate. Such a holistic review is intended to feed inspiration for future highly efficient catalytic systems.    
 
     
 
@@ -474,6 +408,39 @@ OpenAlex: https://openalex.org/W4401399230
 Open access: True
     
 [Filippo Romeggio](https://openalex.org/A5094056805), [Jonathan F. Schouenborg](https://openalex.org/A5106349809), [Peter C. K. Vesborg](https://openalex.org/A5059074346), [Ole Hansen](https://openalex.org/A5089737511), [Jakob Kibsgaard](https://openalex.org/A5047292046), [Ib Chorkendorff](https://openalex.org/A5090008029), [Christian Danvad Damsgaard](https://openalex.org/A5027682734), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03345.
+    
+No abstract    
+
+    
+
+## Revealing Dynamic Surface and Subsurface Reconstruction of High-Entropy Alloy Electrocatalysts during the Oxygen Evolution Reaction at the Atomic Scale   
+
+OpenAlex: https://openalex.org/W4401414586    
+Open access: False
+    
+[Chenglong Luan](https://openalex.org/A5030813571), [Daniel Escalera‐López](https://openalex.org/A5053923970), [Ulrich Hagemann](https://openalex.org/A5074048659), [Aleksander Kostka](https://openalex.org/A5050028599), [Guillaume Laplanche](https://openalex.org/A5006249660), [Dongshuang Wu](https://openalex.org/A5048887110), [Serhiy Cherevko](https://openalex.org/A5073666601), [Tong Li](https://openalex.org/A5100783224), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02792.
+    
+No abstract    
+
+    
+
+## Organocatalytic Asymmetric Synthesis of Sulfonyl-Substituted Furans via a Cascade 1,6-Addition/Cyclization/Enantioselective Protonation Pathway   
+
+OpenAlex: https://openalex.org/W4401416632    
+Open access: False
+    
+[Pengfei Lian](https://openalex.org/A5014282282), [Zihao Li](https://openalex.org/A5003543732), [Xinyue Qiu](https://openalex.org/A5062014828), [Tong‐Mei Ding](https://openalex.org/A5082526564), [Shu‐Yu Zhang](https://openalex.org/A5001134518), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03027.
+    
+No abstract    
+
+    
+
+## Modulation of Lewis Acidity and Steric Parameters in Cyclic Boronates: Copper-Catalyzed Internal-Selective Borylation of Challenging Terminal Alkynes   
+
+OpenAlex: https://openalex.org/W4401418101    
+Open access: True
+    
+[Takumi Tsushima](https://openalex.org/A5048852523), [Masaaki Nakamoto](https://openalex.org/A5065656472), [Hiroto Yoshida](https://openalex.org/A5054639429), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04451.
     
 No abstract    
 

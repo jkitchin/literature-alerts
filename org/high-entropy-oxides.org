@@ -1,15 +1,36 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Fri Aug  9 01:13:16 2024
+Created on Sat Aug 10 01:12:55 2024
 
-Found 1 results from 2024-08-02 to 2024-08-09
+Found 2 results from 2024-08-03 to 2024-08-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
+
+* Two-dimensional single-crystalline mesoporous high-entropy oxide nanoplates for efficient electrochemical biomass upgrading  :high_entropy_oxides:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401419486
+:TOPICS: Electrocatalysis for Energy Conversion, Materials for Electrochemical Supercapacitors, High-Entropy Alloys: Novel Designs and Properties
+:PUBLICATION_DATE: 2024-08-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-50721-2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401419486"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401419486"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401419486"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401419486 (Open access: True)
+    
+[[https://openalex.org/A5100651384][Yanzhi Wang]], [[https://openalex.org/A5101283720][Hangjuan He]], [[https://openalex.org/A5101354290][LV Hao]], [[https://openalex.org/A5102220391][Fengrui Jia]], [[https://openalex.org/A5019358573][Ben Liu]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-50721-2 
+     
+Abstract Mesoporous single crystals have received more attention than ever in catalysis-related applications due to their unique structural functions. Despite great efforts, their progress in engineering crystallinity and composition has been remarkably slower than expected. In this manuscript, a template-free strategy is developed to prepare two-dimensional high-entropy oxide (HEO) nanoplates with single-crystallinity and penetrated mesoporosity, which further ensures precise control over high-entropy compositions and crystalline phases. Single-crystalline mesoporous HEOs (SC-MHEOs) disclose high electrocatalytic performance in 5-hydroxymethylfurfural oxidation reaction (HMFOR) for efficient biomass upgrading, with remarkable HMF conversion of 99.3% and superior 2,5-furandicarboxylic acid (FDCA) selectivity of 97.7%. Moreover, with nitrate reduction as coupling cathode reaction, SC-MHEO realizes concurrent electrosynthesis of value-added FDCA and ammonia in the two-electrode cell. Our study provides a powerful paradigm for producing a library of novel mesoporous single crystals for important catalysis-related applications, especially in the two-electrode cell.    
+
+    
 
 * Comparative Study of Porous High‐entropy Oxides as Low‐temperature Catalysts for CO2 Methanation  :high_entropy_oxides:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401333650
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation
+:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Desulfurization Technologies for Fuels
 :PUBLICATION_DATE: 2024-08-05
 :END:    
     
@@ -19,7 +40,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401333650"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401333650"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401333650 (Open access: False)
+OpenAlex: https://openalex.org/W4401333650 (Open access: True)
     
 [[https://openalex.org/A5025967953][Amy J. Knorpp]], [[https://openalex.org/A5106310285][Monika Mielniczuk]], [[https://openalex.org/A5029742679][Marin Nikolić]], [[https://openalex.org/A5018960376][Alexander Vogel]], [[https://openalex.org/A5011464877][Renato Figi]], [[https://openalex.org/A5014885938][Claudia Schreiner]], [[https://openalex.org/A5088521783][Andreas Borgschulte]], [[https://openalex.org/A5014688343][Michael Stuer]], European Journal of Inorganic Chemistry. None(None)] 2024. https://doi.org/10.1002/ejic.202400476 
      

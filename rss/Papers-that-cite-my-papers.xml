@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Aug 2024 01:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 01:13:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Self&#8208;Recoverable Symmetric Protonic Ceramic Fuel Cell with Smart Reversible Exsolution/Dissolution Electrode</title>
-      <link>https://doi.org/10.1002/adfm.202404846</link>
-      <description>Yuhao Wang, Zheng Wang, Kaichuang Yang, Jiapeng Liu, Yufei Song, Jingwei Li, Zhiwei Hu, Matthew J. Robson, Zhiqi Zhang, Yunfeng Tian, Sai Xu, Ying Lu, Ho Mei Law, Feng Liu, Qing Chen, Zhibin Yang, Francesco Ciucci, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401222606
-
-                Abstract This study unveils a novel concept of symmetric protonic ceramic fuel cells (symm&#8208;PCFCs) with the introduction of a self&#8208;recoverable electrode design, employing the innovative material BaCo 0.4 Fe 0.4 Zr 0.1 Y 0.1 O 3&#8208;&#948; (BCFZY). This research marks a significant milestone as it demonstrates the bi&#8208;functional electrocatalytic activity of BCFZY for the first time. Utilizing density functional theory simulations, the molecular orbital interactions and defect chemistry of BCFZY are explored, uncovering its unique capability for the reversible exsolution and dissolution of Co&#8208;Fe nanoparticles under redox conditions. This feature is pivotal in promoting both hydrogen oxidation and oxygen reduction reactions. Leveraging this insight, a cell is fabricated exhibiting high electrocatalytic activity and fuel flexibility as evidenced by the peak power densities of &#8776;350, 287, and 221 mW cm &#8722;2 (at 600 &#176;C) with hydrogen, methanol, and methane as fuels, respectively. Experiments also show that the reversible exsolution/dissolution mitigates performance degradation, enabling prolonged operational life through self&#8208;recovery. This approach paves the way for novel, advanced, durable, and commercially viable symm&#8208;PCFCs.</description>
-      <author>Yuhao Wang, Zheng Wang, Kaichuang Yang, Jiapeng Liu, Yufei Song, Jingwei Li, Zhiwei Hu, Matthew J. Robson, Zhiqi Zhang, Yunfeng Tian, Sai Xu, Ying Lu, Ho Mei Law, Feng Liu, Qing Chen, Zhibin Yang, Francesco Ciucci</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202404846</guid>
-    </item>
-    <item>
-      <title>Systematic assessment of various universal machine&#8208;learning interatomic potentials</title>
-      <link>https://doi.org/10.1002/mgea.58</link>
-      <description>Haochen Yu, Matteo Giantomassi, Giuliana Materzanini, Junjie Wang, Gian&#8208;Marco Rignanese, Materials Genome Engineering Advances. None(None)] 2024. https://openalex.org/W4401233871
-
-                Abstract Machine&#8208;learning interatomic potentials have revolutionized materials modeling at the atomic scale. Thanks to these, it is now indeed possible to perform simulations of ab initio quality over very large time and length scales. More recently, various universal machine&#8208;learning models have been proposed as an out&#8208;of&#8208;box approach avoiding the need to train and validate specific potentials for each particular material of interest. In this paper, we review and evaluate four different universal machine&#8208;learning interatomic potentials (uMLIPs), all based on graph neural network architectures which have demonstrated transferability from one chemical system to another. The evaluation procedure relies on data both from a recent verification study of density&#8208;functional&#8208;theory implementations and from the Materials Project. Through this comprehensive evaluation, we aim to provide guidance to materials scientists in selecting suitable models for their specific research problems, offer recommendations for model selection and optimization, and stimulate discussion on potential areas for improvement in current machine&#8208;learning methodologies in materials science.</description>
-      <author>Haochen Yu, Matteo Giantomassi, Giuliana Materzanini, Junjie Wang, Gian&#8208;Marco Rignanese</author>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/mgea.58</guid>
-    </item>
     <item>
       <title>Spinel oxide modified FeCoNi alloy composites prepared with one-step pyrolytic reduction as bifunctional catalyst for ORR/OER</title>
       <link>https://doi.org/10.1016/j.jallcom.2024.175802</link>
@@ -198,6 +178,16 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01318-2</guid>
     </item>
     <item>
+      <title>Colloidal copper nanospheres boost propanol electrosynthesis from CO</title>
+      <link>https://doi.org/10.21203/rs.3.rs-4544481/v1</link>
+      <description>Min Wang, Anna Loiudice, Enric Ib&#225;&#241;ez Al&#233;, Krishna Kumar, Dragos Stoian, Zan Lian, Petru P. Albertini, Ludovic Zaza, Jari Leemans, N&#250;ria L&#243;pez, Raffaella Buonsanti, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4401323735
+
+                Abstract Achieving a carbon neutral manufacturing of chemicals is imperative to accelerate the transition towards a sustainable future. Propanol electrosynthesis from CO electroreduction represents a promising alternative to the current manufacturing of this chemical. Yet, the catalyst features driving propanol formation are poorly understood, which limits further advancement in the performance. Herein, we report on a comprehensive mapping of the sensitivity of the CO electroreduction to the catalyst structure exploiting well-defined copper nanocrystals (NCs) with tunable shape and size synthesized via colloidal chemistry. In addition to clarify the dependence from the exposed surfaces, we discover that spheres uniquely promote n-propanol selectivity, which we explain mostly with strain effects. Driven by this novel insight, we achieve unprecedent n-propanol production via electrosynthesis with a copper catalyst. We demonstrate that colloidal copper nanospheres with a diameter of 4 nm deliver n-propanol faradaic efficiency of 39.6&#177;1.4% at 119&#177;4.2 mA/cm2 production rate, the latter being ten times the current state of the art for copper catalysts.</description>
+      <author>Min Wang, Anna Loiudice, Enric Ib&#225;&#241;ez Al&#233;, Krishna Kumar, Dragos Stoian, Zan Lian, Petru P. Albertini, Ludovic Zaza, Jari Leemans, N&#250;ria L&#243;pez, Raffaella Buonsanti</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4544481/v1</guid>
+    </item>
+    <item>
       <title>Ionic liquid&#8211;electrode interface: classification of ions, saturation of layers, and structure-determined potentials</title>
       <link>https://doi.org/10.1016/j.electacta.2024.144829</link>
       <description>Karl Karu, E.R. Nerut, Xueran Tao, Sergei A. Kislenko, Kaija P&#245;hako&#8208;Esko, Iuliia V. Voroshylova, Vladislav Ivani&#353;t&#353;ev, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4401325023
@@ -292,7 +282,7 @@
       <link>https://doi.org/10.1021/acs.jpclett.4c01912</link>
       <description>Tyler Joe Ziehl, Junrui Li, Shouheng Sun, Peng Zhang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4401395709
 
-                No abstract</description>
+                Bolstered by their unique atomic structures and tailored compositions, nanoalloys exhibit extraordinary properties making them ideal materials to solve challenges in energy storage and conversion catalysis. However, a quantitative description of the structure-property relationships using an accurate descriptor-based model for nanoalloys, ranging from bimetallic to multimetallic compositions, is needed to drive efficient material design toward high-performance catalysis. In this work, we highlight the electronic property and catalytic activity relationship from an element specific</description>
       <author>Tyler Joe Ziehl, Junrui Li, Shouheng Sun, Peng Zhang</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01912</guid>
@@ -312,7 +302,7 @@
       <link>https://doi.org/10.1021/acsnano.4c07916</link>
       <description>Jizhou Duan, Haitao Xu, Wang Gao, Shanshan Chen, Feng Li, Dongyuan Zhao, ACS Nano. None(None)] 2024. https://openalex.org/W4401397949
 
-                No abstract</description>
+                Single metal atom catalysts (SACs) have garnered considerable attention as promising agents for catalyzing important industrial reactions, particularly the electrochemical synthesis of hydrogen peroxide (H</description>
       <author>Jizhou Duan, Haitao Xu, Wang Gao, Shanshan Chen, Feng Li, Dongyuan Zhao</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c07916</guid>
@@ -322,7 +312,7 @@
       <link>https://doi.org/10.1002/smtd.202400519</link>
       <description>Peng Song, Qianfeng Pan, Yixuan Qiao, Tiantian Wang, Nyan Lynn Htut, Bo Chen, Marc A. Anderson, Yang Wang, Han Hu, Small Methods. None(None)] 2024. https://openalex.org/W4401400887
 
-                Abstract The development of nanomaterials for energy storage and conversion has always been important. Layered double hydroxide (LDH) is a promising material due to its high capacity, tunable composition and easy synthesis. In this work, the morphology of NiCo&#8208;LDH is tuned with surfactants including sodium dodecyl sulfate (SDS) and cetyltrimethylammonium bromide (CTAB), and investigated the correlation between morphology and electrochemical properties. NiCo&#8208;LDH&#8208;SDS with a layered structure exhibited a specific capacitance of 1004 C g &#8722;1 at 1 A g &#8722;1 , which is higher than that of the needle&#8208;like NiCo&#8208;LDH&#8208;CTAB (678 C g &#8722;1 ) and the rod&#8208;like NiCo&#8208;LDH (279 C g &#8722;1 ). Meanwhile, NiCo&#8208;LDH&#8208;SDS and NiCo&#8208;LDH&#8208;CTAB showed a reduction of 36 and 19 mV, respectively, in their overpotentials at 10 mA cm &#8722;2 compared to NiCo&#8208;LDH. Contact angle and adhesive force measurements proved the influence of morphology on the interfacial properties that layered structure is favorable for the timely detachment of the bubbles. Therefore, rational morphology regulation of LDH can effectively alter the gas&#8211;liquid&#8211;solid interface and thereby accelerate the reaction kinetics. The connections between morphologies, bubbles releasing and electrochemical performance are well established in this work, which can be applied in the investigation of nanomaterials for energy&#8208;related activities, especially the ones concerning bubbles releasing processes.</description>
+                The development of nanomaterials for energy storage and conversion has always been important. Layered double hydroxide (LDH) is a promising material due to its high capacity, tunable composition and easy synthesis. In this work, the morphology of NiCo-LDH is tuned with surfactants including sodium dodecyl sulfate (SDS) and cetyltrimethylammonium bromide (CTAB), and investigated the correlation between morphology and electrochemical properties. NiCo-LDH-SDS with a layered structure exhibited a specific capacitance of 1004 C g</description>
       <author>Peng Song, Qianfeng Pan, Yixuan Qiao, Tiantian Wang, Nyan Lynn Htut, Bo Chen, Marc A. Anderson, Yang Wang, Han Hu</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smtd.202400519</guid>
@@ -338,6 +328,76 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.arabjc.2024.105950</guid>
     </item>
     <item>
+      <title>Tunable topological magnetism in superlattices of nonmagnetic B20 systems</title>
+      <link>https://doi.org/10.1103/physrevb.110.l060407</link>
+      <description>Vladislav Borisov, Anna Delin, Olle Eriksson, Physical review. B./Physical review. B. 110(6)] 2024. https://openalex.org/W4401418556
+
+                We predict topological magnetic properties of B20 systems, that are organized in atomically thin multilayers. In particular, we focus on FeSi/CoSi and FeSi/FeGe superlattices with different numbers of layers and interface structures. We demonstrate that the absence of long-range magnetic order, previously observed in bulk FeSi and CoSi, is broken near the FeSi/CoSi interface, where a magnetic state with a nontrivial topological texture appears. Using the Heisenberg and Dzyaloshinskii-Moriya (DM) interactions calculated from first principles, we perform finite-temperature atomistic spin dynamics simulations for up to 2&#215;106 spins to capture the complexity of noncollinear textures. Our simulations predict the formation of antiskyrmions in a [001]-oriented FeSi/CoSi multilayer, intermediate skyrmions in a [111]-oriented FeSi/CoSi system, and Bloch skyrmions in the FeSi/FeGe (001) system, with a size between 7 and 37 nm. These varieties of topological magnetic textures in the studied systems can be attributed to the complex asymmetric structure of the DM matrix, which is different from previously known magnetic materials. We demonstrate that through structural engineering both ferromagnetic and antiferromagnetic skyrmions can be stabilized, where the latter are especially appealing for applications due to the zero skyrmion Hall effect. The proposed B20 multilayers show a potential for further exploration and call for experimental confirmation. Published by the American Physical Society 2024</description>
+      <author>Vladislav Borisov, Anna Delin, Olle Eriksson</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.l060407</guid>
+    </item>
+    <item>
+      <title>Enhancing Low Temperature Lithium-ion Battery Performance under High-rate Conditions with Niobium Oxides</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101663</link>
+      <description>Elizabeth A. Pogue, Spencer Langevin, Tanner Hamann, Karun K. Rao, Marshall A. Schroeder, Nam Q. Le, Courtney McHale, Zachary Burchfield, Jesse S. Ko, Materials Today Energy. None(None)] 2024. https://openalex.org/W4401422129
+
+                No abstract</description>
+      <author>Elizabeth A. Pogue, Spencer Langevin, Tanner Hamann, Karun K. Rao, Marshall A. Schroeder, Nam Q. Le, Courtney McHale, Zachary Burchfield, Jesse S. Ko</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101663</guid>
+    </item>
+    <item>
+      <title>Review of Extrinsic Factors That Limit the Catalytic Performance of Transition Metal Dichalcogenides (TMDs) in Hydrogen Evolution Reactions (HER)</title>
+      <link>https://doi.org/10.1002/celc.202400259</link>
+      <description>Jeyavelan Muthu, Farheen Khurshid, Mario Hofmann, Ya&#8208;Ping Hsieh, ChemElectroChem. None(None)] 2024. https://openalex.org/W4401427676
+
+                Abstract Transition metal dichalcogenides (TMDs) have garnered attention as potential catalysts for water splitting owing to their unique structures, diverse electronic properties, and composition from earth&#8208;abundant elements. While certain TMD catalysts, notably MoS 2 , have shown promising activity for hydrogen evolution reactions (HER), achieving performance comparable to traditional platinum catalysts remains a challenge. While significant effort has been invested into understanding the effect of TMD's structural properties, such as defectiveness and crystalline phases, recent work has emphasized the role of extrinsic factors on HER. This review summarizes the current understanding of the impact of commonly overlooked electrocatalytic effects that exhibit an enhanced importance in TMD&#8208;based HER. By combining recent advances in theoretical modeling and experimental work, we review the dominating effects of extrinsic factors including electronic resistance, interfacial barriers, surface roughness, oxidation, and valence impurities. Our work aims to provide insights into optimizing TMDs as highly efficient catalysts for HER, facilitating future advancements in hydrogen generation technology.</description>
+      <author>Jeyavelan Muthu, Farheen Khurshid, Mario Hofmann, Ya&#8208;Ping Hsieh</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/celc.202400259</guid>
+    </item>
+    <item>
+      <title>Exploring Direct Electrochemical Fischer&#8211;Tropsch Chemistry of C&lt;sub&gt;1&lt;/sub&gt;&#8211;C&lt;sub&gt;7&lt;/sub&gt; Hydrocarbons via Perimeter Engineering of Au&#8211;SrTiO&lt;sub&gt;3&lt;/sub&gt; Catalyst</title>
+      <link>https://doi.org/10.1002/aenm.202402062</link>
+      <description>Ju Hyun Yang, Gi Beom Sim, So Jeong Park, Choong Kyun Rhee, Chang Woo Myung, Youngku Sohn, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4401427793
+
+                Abstract Traditionally, Fischer&#8211;Tropsch (FT) synthesis is performed using thermal catalysts and syngas (CO and H 2 ) under high&#8208;pressure and high&#8208;temperature conditions. However, this study introduces an approach that relies on FT chemistry assisted by electrochemistry, referred to here as direct electrochemical (EC) FT chemistry, under ambient conditions. A series of CH 4 , C n H 2n , and C n H 2n+2 hydrocarbons (n = 1&#8211;7) is successfully produced over gold (Au) nanoparticle&#8208;loaded perovskite strontium titanate (SrTiO 3 ) nanostructures grown on rutile TiO 2 supported on Ti. Au (1.0 nm)&#8211;SrTiO 3 shows the best interface formation, with the highest Faradaic efficiency for C 2+ hydrocarbons. This direct EC&#8208;FT process proceeds via a C&#9472;C coupling chain growth reaction at the Au&#8208;SrTiO 3 interface as evidenced by the hydrocarbon weight distribution analysis and density functional theory calculations. The robust combination of experimental and computational findings reveals that optimum conditions for producing surface hydrogenation and C&#9472;C coupling polymerization, initiated by surface * CO and * H are achieved by controlling the undercoordinated Au at the perimeter sites of supported Au nanoparticles and by ensuring a harmonized density of states between Au and SrTiO 3 . This EC&#8208;FT process opens a promising avenue for the direct conversion of CO 2 and H 2 O into value&#8208;added long&#8208;chain hydrocarbons.</description>
+      <author>Ju Hyun Yang, Gi Beom Sim, So Jeong Park, Choong Kyun Rhee, Chang Woo Myung, Youngku Sohn</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202402062</guid>
+    </item>
+    <item>
+      <title>Breaking the scaling relations of effective CO&lt;sub&gt;2&lt;/sub&gt; electrochemical reduction in diatomic catalysts by adjusting the flow direction of intermediate structures</title>
+      <link>https://doi.org/10.1039/d4sc03085k</link>
+      <description>Yanwen Zhang, Zhaoqun Yao, Yiming Yang, Xingwu Zhai, Feng Zhang, Zhijun Guo, Xinghuan Liu, Bin Yang, Yunxia Liang, Guixian Ge, Xin Jia, Chemical Science. None(None)] 2024. https://openalex.org/W4401430982
+
+                High-throughput calculations show 11 flow directions from *CO to *CHO on DACs. The catalyst disrupting the linear adsorption relationship is linked to multiple, not just one, flow direction.</description>
+      <author>Yanwen Zhang, Zhaoqun Yao, Yiming Yang, Xingwu Zhai, Feng Zhang, Zhijun Guo, Xinghuan Liu, Bin Yang, Yunxia Liang, Guixian Ge, Xin Jia</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4sc03085k</guid>
+    </item>
+    <item>
+      <title>Photoelectrochemical enhancement for TiO2-based photoanodes: in-situ electrochemical analysis, modification strategies and mechanism studies</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144859</link>
+      <description>Xiaoying Shang, Shouxin Zhang, Zhiwei Li, Li Fu, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4401433845
+
+                No abstract</description>
+      <author>Xiaoying Shang, Shouxin Zhang, Zhiwei Li, Li Fu</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144859</guid>
+    </item>
+    <item>
+      <title>Oxophilic gallium single atoms bridged ruthenium clusters for practical anion-exchange membrane electrolyzer</title>
+      <link>https://doi.org/10.1038/s41467-024-51200-4</link>
+      <description>Chenhui Zhou, Jia Shi, Zhaoqi Dong, Yunqi Liu, Yan Chen, Ying Han, Lu Li, Wenyu Zhang, Qinghua Zhang, Lin Gu, Fan Lv, Mingchuan Luo, Shaojun Guo, Nature Communications. 15(1)] 2024. https://openalex.org/W4401437692
+
+                The development of highly efficient and durable alkaline hydrogen evolution reaction (HER) catalysts is crucial for achieving high-performance practical anion exchange membrane water electrolyzer (AEMWE) at ampere-level current density. Herein, we report a design concept by employing Ga single atoms as an electronic bridge to stabilize the Ru clusters for boosting alkaline HER performance in practical AEMWE. Experimental and theoretical results collectively reveal that the bridged Ga sites trigger strong metal-support interaction for the homogeneous distribution of Ru clusters with high density, as well as optimize the Ru-H bond strength due to the electron transfer between Ru and Ga for enhanced intrinsic HER activity. Moreover, the oxophilic Ga sites near the Ru clusters tend to adsorb the hydroxyl species and accelerate the water dissociation for sufficient proton supplement in an alkaline medium. The Ru-Ga</description>
+      <author>Chenhui Zhou, Jia Shi, Zhaoqi Dong, Yunqi Liu, Yan Chen, Ying Han, Lu Li, Wenyu Zhang, Qinghua Zhang, Lin Gu, Fan Lv, Mingchuan Luo, Shaojun Guo</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-51200-4</guid>
+    </item>
+    <item>
       <title>HfS2/BN Heterostructures: A Repeatable Detectable Water Sensing Material</title>
       <link>https://doi.org/10.1016/j.surfin.2024.104906</link>
       <description>Jiashuo Zhang, Zihan Chen, Tongtong Li, Junkuo Gao, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401295962
@@ -348,11 +408,21 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104906</guid>
     </item>
     <item>
+      <title>First-principles data for solid solution niobium-tantalum-vanadium alloys with body-centered-cubic structures</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2</link>
+      <description>Massimiliano Lupo Pasini, German D. Samolyuk, Markus Eisenbach, Jong Youl Choi, Junqi Yin, Ying Yang, No host. None(None)] 2024. https://openalex.org/W4401335548
+
+                We present four open-source datasets that provide results of density functional theory (DFT) calculations of ground-state properties of refractory solid solution binary alloys niobium-tantalum (NbTa), niobium-vanadium (NbV), tantalum-vanadium (TaV), and ternary alloys NbTaV ordered in body-centered-cubic (BCC) structures with 128 Bravais lattice sites. The first-principles code used to run the calculations is the Vienna Ab-Initio Simulation Package. The calculations have been collected by uniformly sampling chemical compositions across the entire compositional range. For each chemical composition, the calculations have been run for 100 randomized arrangements of the constituents on the BCC lattice sites. This sampling methodology resulted in running DFT simulations for a total of 3,100 randomized atomic configurations over 31 chemical compositions for each of the three binary alloys Nb-Ta, Nb-V, Ta-V, and a total of 10,500 randomized atomic structures over 105 chemical compositions for the ternary alloys Nb-Ta-V. For each atomic configuration, geometry optimization has been performed, and the data released contains information about each step of geometry optimization for each atomic configuration.</description>
+      <author>Massimiliano Lupo Pasini, German D. Samolyuk, Markus Eisenbach, Jong Youl Choi, Junqi Yin, Ying Yang</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2</guid>
+    </item>
+    <item>
       <title>Spatially Resolved Uncertainties for Machine Learning Potentials</title>
       <link>https://doi.org/10.1021/acs.jcim.4c00904</link>
       <description>Esther Heid, Johannes Sch&#246;rghuber, Ralf Wanzenb&#246;ck, Georg K. H. Madsen, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4401386355
 
-                No abstract</description>
+                Machine learning potentials have become an essential tool for atomistic simulations, yielding results close to ab initio simulations at a fraction of computational cost. With recent improvements on the achievable accuracies, the focus has now shifted on the data set composition itself. The reliable identification of erroneously predicted configurations to extend a given data set is therefore of high priority. Yet, uncertainty estimation techniques have achieved mixed results for machine learning potentials. Consequently, a general and versatile method to correlate energy or atomic force uncertainties with the model error has remained elusive to date. In the current work, we show that epistemic uncertainty cannot correlate with model error by definition but can be aggregated over groups of atoms to yield a strong correlation. We demonstrate that our method correctly estimates prediction errors both globally per structure and locally resolved per atom. The direct correlation of local uncertainty and local error is used to design an active learning framework based on identifying local subregions of a large simulation cell and performing ab initio calculations only for the subregion subsequently. We successfully utilized this method to perform active learning in the low-data regime for liquid water.</description>
       <author>Esther Heid, Johannes Sch&#246;rghuber, Ralf Wanzenb&#246;ck, Georg K. H. Madsen</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c00904</guid>

@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Aug 2024 01:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 01:12:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Dynamically Restructuring Nanoporous Cu&#8211;Co Electrocatalyst for Efficient Nitrate Electroreduction to Ammonia</title>
-      <link>https://doi.org/10.1021/acscatal.4c03336</link>
-      <description>Xue Zhou, Wence Xu, Yanqin Liang, Hui Jiang, Zhaoyang Li, Shuilin Wu, Zhonghui Gao, Zhenduo Cui, Shengli Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401213797
-
-                No abstract</description>
-      <author>Xue Zhou, Wence Xu, Yanqin Liang, Hui Jiang, Zhaoyang Li, Shuilin Wu, Zhonghui Gao, Zhenduo Cui, Shengli Zhu</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03336</guid>
-    </item>
-    <item>
-      <title>Design and Implementation of a CO&lt;sub&gt;2&lt;/sub&gt; Reduction Catalyst with an Internal Electron Transfer Mediator: Improving Turnover Frequency by More than 10-Fold</title>
-      <link>https://doi.org/10.1021/acscatal.4c01791</link>
-      <description>Bach Xuan Nguyen, Xiaohan Li, Jeffrey J. Warren, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401213805
-
-                No abstract</description>
-      <author>Bach Xuan Nguyen, Xiaohan Li, Jeffrey J. Warren</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01791</guid>
-    </item>
-    <item>
-      <title>Redox Properties of Pyrroloquinoline Quinone in Pyranose Dehydrogenase Measured by Direct Electron Transfer</title>
-      <link>https://doi.org/10.1021/acscatal.4c02319</link>
-      <description>Kota Takeda, James A. Birrell, Ryo Kusuoka, Toshio Minami, Kiyohiko Igarashi, Nobuhumi Nakamura, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401215094
-
-                No abstract</description>
-      <author>Kota Takeda, James A. Birrell, Ryo Kusuoka, Toshio Minami, Kiyohiko Igarashi, Nobuhumi Nakamura</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02319</guid>
-    </item>
-    <item>
-      <title>Rhodium(II)-Catalyzed Strain-Enabled Stereoselective Synthesis of Skipped Dienes</title>
-      <link>https://doi.org/10.1021/acscatal.4c03569</link>
-      <description>Ganesh Arjun Kadam, Tushar Singha, Sunil Rawat, Durga Prasad Hari, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401216041
-
-                No abstract</description>
-      <author>Ganesh Arjun Kadam, Tushar Singha, Sunil Rawat, Durga Prasad Hari</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03569</guid>
-    </item>
-    <item>
-      <title>Lanthanide&#8211;Titanium Oxo Cluster and BiVO&lt;sub&gt;4&lt;/sub&gt; Z-Scheme Photocatalyst Sheets for Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c03595</link>
-      <description>Rong Chen, Qingjie Wang, Guodong Gao, Linxiao Wu, Jingshan Luo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401216093
-
-                No abstract</description>
-      <author>Rong Chen, Qingjie Wang, Guodong Gao, Linxiao Wu, Jingshan Luo</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03595</guid>
-    </item>
-    <item>
-      <title>Overturning CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation Selectivity by Tailoring the Local Electron Density of Ru/CeO&lt;sub&gt;2&lt;/sub&gt; Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c03094</link>
-      <description>Yu Xie, J CHEN, Junjie Wen, Zonglin Li, Fangxian Cao, Sai Zhang, Qiming Sun, Ping Ning, Qiulin Zhang, Jiming Hao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401219306
-
-                No abstract</description>
-      <author>Yu Xie, J CHEN, Junjie Wen, Zonglin Li, Fangxian Cao, Sai Zhang, Qiming Sun, Ping Ning, Qiulin Zhang, Jiming Hao</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03094</guid>
-    </item>
     <item>
       <title>Biochemical Investigation and Engineering of a Tardigrade X Family DNA Polymerase for Template-Independent DNA Synthesis</title>
       <link>https://doi.org/10.1021/acscatal.4c00756</link>
@@ -160,10 +100,10 @@
     <item>
       <title>The Catalytic Coupling of CO&lt;sub&gt;2&lt;/sub&gt; and Glycidol toward Glycerol Carbonate</title>
       <link>https://doi.org/10.1021/acscatal.4c01622</link>
-      <description>Claire Muzyka, Diana Silva, Bruno Grignard, Christophe Detrembleur, Jean&#8208;Christophe M. Monbaliu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401324703
+      <description>Claire Muzyka, Diana V. Silva-Brenes, Bruno Grignard, Christophe Detrembleur, Jean&#8208;Christophe M. Monbaliu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401324703
 
-                No abstract</description>
-      <author>Claire Muzyka, Diana Silva, Bruno Grignard, Christophe Detrembleur, Jean&#8208;Christophe M. Monbaliu</author>
+                Ambitious environmental objectives have driven research and innovation toward the production of biorenewable chemicals, such as glycerol carbonate. In particular, the production of glycerol carbonate from the coupling of CO2 and glycidol has received considerable attention from the chemistry and chemical engineering communities. This route became particularly appealing considering that glycidol is an activated derivative of glycerol, which, together with CO2, is an industrial waste. To keep the chain of value toward high value-added glycerol carbonate as attractive as possible, numerous metal-based and organo-catalysts have been developed. We provide with this review a pragmatic overview of the most promising catalytic protocols toward glycerol carbonate reported over the past 8 years. Special attention is given to inherent mechanistic and structure-(re)activity features as key parameters driving reaction performances. This review also addresses the preparation of a selection of catalysts, as well as the global efficiency and sustainability of the chain of value toward glycerol carbonate. Such a holistic review is intended to feed inspiration for future highly efficient catalytic systems.</description>
+      <author>Claire Muzyka, Diana V. Silva-Brenes, Bruno Grignard, Christophe Detrembleur, Jean&#8208;Christophe M. Monbaliu</author>
       <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01622</guid>
     </item>
@@ -436,6 +376,36 @@
       <author>Filippo Romeggio, Jonathan F. Schouenborg, Peter C. K. Vesborg, Ole Hansen, Jakob Kibsgaard, Ib Chorkendorff, Christian Danvad Damsgaard</author>
       <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03345</guid>
+    </item>
+    <item>
+      <title>Revealing Dynamic Surface and Subsurface Reconstruction of High-Entropy Alloy Electrocatalysts during the Oxygen Evolution Reaction at the Atomic Scale</title>
+      <link>https://doi.org/10.1021/acscatal.4c02792</link>
+      <description>Chenglong Luan, Daniel Escalera&#8208;L&#243;pez, Ulrich Hagemann, Aleksander Kostka, Guillaume Laplanche, Dongshuang Wu, Serhiy Cherevko, Tong Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401414586
+
+                No abstract</description>
+      <author>Chenglong Luan, Daniel Escalera&#8208;L&#243;pez, Ulrich Hagemann, Aleksander Kostka, Guillaume Laplanche, Dongshuang Wu, Serhiy Cherevko, Tong Li</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02792</guid>
+    </item>
+    <item>
+      <title>Organocatalytic Asymmetric Synthesis of Sulfonyl-Substituted Furans via a Cascade 1,6-Addition/Cyclization/Enantioselective Protonation Pathway</title>
+      <link>https://doi.org/10.1021/acscatal.4c03027</link>
+      <description>Pengfei Lian, Zihao Li, Xinyue Qiu, Tong&#8208;Mei Ding, Shu&#8208;Yu Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401416632
+
+                No abstract</description>
+      <author>Pengfei Lian, Zihao Li, Xinyue Qiu, Tong&#8208;Mei Ding, Shu&#8208;Yu Zhang</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03027</guid>
+    </item>
+    <item>
+      <title>Modulation of Lewis Acidity and Steric Parameters in Cyclic Boronates: Copper-Catalyzed Internal-Selective Borylation of Challenging Terminal Alkynes</title>
+      <link>https://doi.org/10.1021/acscatal.4c04451</link>
+      <description>Takumi Tsushima, Masaaki Nakamoto, Hiroto Yoshida, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401418101
+
+                No abstract</description>
+      <author>Takumi Tsushima, Masaaki Nakamoto, Hiroto Yoshida</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04451</guid>
     </item>
   </channel>
 </rss>
