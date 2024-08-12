@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Aug 2024 01:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 01:14:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synthesis of polyhedral Pt-Pd-Ni nanobelts regulated by W(CO)6 and applied as a highly performing oxygen reduction reaction electrocatalyst</title>
-      <link>https://doi.org/10.1016/j.cej.2024.154476</link>
-      <description>Yuanyan Luo, Tao Zhou, Costas Molochas, Yifang Ouyang, Xiaoting Huang, Zhen&#8208;Yu Chen, Jinliang Zhu, Panagiotis Tsiakaras, Pei Kang Shen, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4401282320
-
-                No abstract</description>
-      <author>Yuanyan Luo, Tao Zhou, Costas Molochas, Yifang Ouyang, Xiaoting Huang, Zhen&#8208;Yu Chen, Jinliang Zhu, Panagiotis Tsiakaras, Pei Kang Shen</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154476</guid>
-    </item>
-    <item>
-      <title>Boosting the Electrochemical Oxygen Evolution with Nickel Oxide Nanoparticle-Modified Glassy Carbon Electrodes in Alkaline Solutions</title>
-      <link>https://doi.org/10.1021/acsomega.4c04700</link>
-      <description>Abdulrahman I. Alharthi, Omar A. Hazazi, Badreah A. Al Jahdaly, Mohammed A. Kassem, Mohamed I. Awad, ACS Omega. None(None)] 2024. https://openalex.org/W4401282919
-
-                No abstract</description>
-      <author>Abdulrahman I. Alharthi, Omar A. Hazazi, Badreah A. Al Jahdaly, Mohammed A. Kassem, Mohamed I. Awad</author>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c04700</guid>
-    </item>
-    <item>
-      <title>Recent advancements in aqueous electrowinning for metal recovery: A comprehensive review</title>
-      <link>https://doi.org/10.1016/j.mineng.2024.108897</link>
-      <description>Zuowei Liu, Xueyi Guo, Zhipeng Xu, Qinghua Tian, Minerals Engineering. 216(None)] 2024. https://openalex.org/W4401283898
-
-                No abstract</description>
-      <author>Zuowei Liu, Xueyi Guo, Zhipeng Xu, Qinghua Tian</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mineng.2024.108897</guid>
-    </item>
-    <item>
-      <title>Machine-learned interatomic potentials for transition metal dichalcogenide Mo1&#8722;xWxS2&#8722;2ySe2y alloys</title>
-      <link>https://doi.org/10.1038/s41524-024-01357-9</link>
-      <description>Anas Siddiqui, Nicholas D. M. Hine, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4401284655
-
-                Abstract Machine Learned Interatomic Potentials (MLIPs) combine the predictive power of Density Functional Theory (DFT) with the speed and scaling of interatomic potentials, enabling theoretical spectroscopy to be applied to larger and more complex systems than is possible with DFT. In this work, we train an MLIP for quaternary Transition Metal Dichalcogenide (TMD) alloy systems of the form Mo 1&#8722; x W x S 2&#8722;2 y Se 2 y , using the equivariant Neural Network (NN) MACE. We demonstrate the ability of this potential to calculate vibrational properties of alloy TMDs including phonon spectra for pure monolayers, and Vibrational Density of States (VDOS) and first-order Raman spectra for alloys across the range of x and y . We show that we retain DFT level accuracy while greatly extending feasible system size and extent of sampling over alloy configurations. We are able to characterize the first-order Raman active modes across the whole range of concentration, particularly for the &#8220;disorder-induced&#8221; modes.</description>
-      <author>Anas Siddiqui, Nicholas D. M. Hine</author>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01357-9</guid>
-    </item>
-    <item>
-      <title>First-Principles Structure Search Study of 17-&#946;-Estradiol Adsorption on Graphene</title>
-      <link>https://doi.org/10.1021/acsomega.4c03485</link>
-      <description>Suvi Sippola, Milica Todorovi&#263;, Emilia Peltola, ACS Omega. None(None)] 2024. https://openalex.org/W4401286422
-
-                No abstract</description>
-      <author>Suvi Sippola, Milica Todorovi&#263;, Emilia Peltola</author>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c03485</guid>
-    </item>
-    <item>
-      <title>A Theoretical Inquest of Atomically Injected Ni-Atom over Graphene and Analogous Substrates for Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1007/s12678-024-00884-9</link>
-      <description>Hemang P. Tanna, Prafulla K. Jha, Electrocatalysis. None(None)] 2024. https://openalex.org/W4401290965
-
-                No abstract</description>
-      <author>Hemang P. Tanna, Prafulla K. Jha</author>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12678-024-00884-9</guid>
-    </item>
-    <item>
-      <title>Axial Ligand Engineering Enhanced CoN4-Based catalysts as efficient Electrocatalysts for ORR/OER with low overpotentials: A DFT study</title>
-      <link>https://doi.org/10.1016/j.colsurfa.2024.135001</link>
-      <description>Zhihua Ju, X.Y. Zhang, Yong Wang, Qingxin Kang, Yan Liang, Fapeng Yu, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2024. https://openalex.org/W4401304827
-
-                No abstract</description>
-      <author>Zhihua Ju, X.Y. Zhang, Yong Wang, Qingxin Kang, Yan Liang, Fapeng Yu</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.135001</guid>
-    </item>
-    <item>
-      <title>Ba promoter effect on cobalt-catalyzed ammonia decomposition kinetics: A theoretical analysis</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.07.050</link>
-      <description>Zahra Almisbaa, Philippe Sautet, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4401306038
-
-                Ammonia decomposition is a key reaction in the context of hydrogen storage, transport, and release. This study combines density functional theory (DFT) calculations with microkinetic modeling to address the promotion mechanism of Ba species for ammonia decomposition on Co catalysts. The modified adsorption properties of Co upon the addition of metallic Ba or BaO suggest that the promoters play a role in alleviating the competitive adsorption of H. Calculating the full reaction pathway of ammonia decomposition shows that limiting the investigation to the N&#8211;N association step, as done previously, overlooks the effect of the promoter on the energy barriers of the NHx dehydrogenation steps. Challenges of modeling the ammonia decomposition reaction are addressed by understanding that the NH2 intermediate is stabilized on the step sites rather than the terrace sites. When the effect of H-coverage on the adsorption of NH3 is not considered in the microkinetic simulations, the results conflict with the experiments. However, accounting for the effect of H-coverage, as performed here, shows that BaO-doped Co has higher rates than pristine Co and Ba-doped Co at the reaction temperature of 723.15 K. When H is adsorbed on the Ba-doped Co, the adsorption of ammonia becomes significantly endergonic, which makes the rates relatively slow. The superiority of the BaO-promoted catalyst is attributed to a lower energy for the transition state of the rate-determining step, coupled with a reduced impact of the hydrogen coverage on weakening the ammonia adsorption. The kinetic analysis of the influence of Ba and BaO on the Co surface shows that BaO-doped Co aligns more closely with experimental observations than Ba-doped Co. This implies that Ba on the Co surface is likely to be in an oxide form under reaction conditions. Understanding the kinetics of the ammonia decomposition reaction provides a foundation for developing highly effective catalysts to accelerate the industrial utilization of ammonia as a sustainable hydrogen carrier.</description>
-      <author>Zahra Almisbaa, Philippe Sautet</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.07.050</guid>
-    </item>
     <item>
       <title>Magnetic order in the computational 2D materials database (C2DB) from high throughput spin spiral calculations</title>
       <link>https://doi.org/10.1038/s41524-024-01318-2</link>
@@ -458,14 +378,34 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124486</guid>
     </item>
     <item>
-      <title>HfS2/BN Heterostructures: A Repeatable Detectable Water Sensing Material</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.104906</link>
-      <description>Jiashuo Zhang, Zihan Chen, Tongtong Li, Junkuo Gao, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401295962
+      <title>Electrochemical Reaction Kinetics at Constant Interfacial Potential</title>
+      <link>https://doi.org/10.1021/acscatal.4c04034</link>
+      <description>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401481375
 
                 No abstract</description>
-      <author>Jiashuo Zhang, Zihan Chen, Tongtong Li, Junkuo Gao</author>
+      <author>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao</author>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04034</guid>
+    </item>
+    <item>
+      <title>Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface</title>
+      <link>https://doi.org/10.1038/s43246-024-00595-0</link>
+      <description>Rinon Iwasaki, Naoto Tanibata, Hayami Takeda, Masanobu Nakayama, Communications Materials. 5(1)] 2024. https://openalex.org/W4401483015
+
+                Abstract All-solid-state Li-metal batteries can conceivably improve the safety and extend the driving ranges of electric vehicles. In this regard, the garnet-type solid electrolyte Li 7 La 3 Zr 2 O 12 (LLZ) has garnered considerable attention because of its high Li-ion conductivity and nonreactivity towards molten Li metal. Here, we perform molecular dynamics (MD) simulations using a universal neural network potential (UNNP) to analyse the Li-ion exchange at the LLZ/Li interface at the atomic scale. The UNNP-MD calculations show that Li ions traverse the LLZ/Li interface and that excess Li ions relative to the stoichiometric composition accumulate in an approximately 1 nm-thick zone near the LLZ phase interface, signifying the formation of a space-charge layer. Electronic structural analysis of the UNNP-MD-derived configuration, performed using density functional theory calculations, reveals band bending near the LLZ phase interface and the simultaneous suppression of Li metal reduction. These findings can help expedite the development of rationally designed all-solid-state Li-metal batteries.</description>
+      <author>Rinon Iwasaki, Naoto Tanibata, Hayami Takeda, Masanobu Nakayama</author>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s43246-024-00595-0</guid>
+    </item>
+    <item>
+      <title>Binary ruthenium dioxide and nickel oxide ultrafine particles loaded on carbon nanotubes for high-stability oxygen evolution reaction at high current densities</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.08.047</link>
+      <description>Chen Yang, Qing Zhang, Ting Li, Xiaohong Chen, Xiao Lin Li, Hong Qun Luo, Nian Bing Li, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4401487165
+
+                No abstract</description>
+      <author>Chen Yang, Qing Zhang, Ting Li, Xiaohong Chen, Xiao Lin Li, Hong Qun Luo, Nian Bing Li</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104906</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.047</guid>
     </item>
     <item>
       <title>First-principles data for solid solution niobium-tantalum-vanadium alloys with body-centered-cubic structures</title>

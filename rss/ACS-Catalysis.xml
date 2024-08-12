@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Aug 2024 01:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 01:14:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Investigating the Origin of Epimerization Attenuation during Pd-Catalyzed Cross-Coupling Reactions</title>
-      <link>https://doi.org/10.1021/acscatal.4c03401</link>
-      <description>Isabelle Cai, Thomas C. Malig, Kenji L. Kurita, Joshua S. Derasp, Lauren E. Sirois, Jason E. Hein, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401285753
-
-                No abstract</description>
-      <author>Isabelle Cai, Thomas C. Malig, Kenji L. Kurita, Joshua S. Derasp, Lauren E. Sirois, Jason E. Hein</author>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03401</guid>
-    </item>
     <item>
       <title>Proton Transfers at the Water/Solid Interface of &#945;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;&#8211;Supported Ni Clusters under Steam Reforming Conditions: An AIMD Study</title>
       <link>https://doi.org/10.1021/acscatal.4c02514</link>
@@ -260,10 +250,10 @@
     <item>
       <title>Understanding and Controlling Reactivity Patterns of Pd&lt;sub&gt;1&lt;/sub&gt;@C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;-Catalyzed Suzuki&#8211;Miyaura Couplings</title>
       <link>https://doi.org/10.1021/acscatal.4c03531</link>
-      <description>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez-Ram&#305;&#769;rez, Sharon Mitchell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401388208
+      <description>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401388208
 
                 No abstract</description>
-      <author>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez-Ram&#305;&#769;rez, Sharon Mitchell</author>
+      <author>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03531</guid>
     </item>
@@ -446,6 +436,26 @@
       <author>Diego Gianolio, Michael D. Higham, Matthew G. Quesne, Matteo Aramini, Ruoyu Xu, Alex Large, Georg Held, Juan&#8208;Jes&#250;s Velasco&#8208;V&#233;lez, Michael Haevecker, Ovidiu Ersen, Chiara Genovese, Claudio Ampelli, M. Schuster, Siglinda Perathoner, Gabriele Centi, C. Richard A. Catlow, Rosa Arrigo</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04364</guid>
+    </item>
+    <item>
+      <title>Pd(0)-Catalyzed Enantioselective and Regiodivergent Annulations of 1-Heterodienes and Racemic Allenes</title>
+      <link>https://doi.org/10.1021/acscatal.4c04038</link>
+      <description>Ru&#8208;Jie Yan, Yuan Hu, Lei Zhu, Jian Zhang, Xiaogang Wang, Jinyu Huang, Zhichao Chen, Qin Ouyang, Wei Du, Ying&#8208;Chun Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401481352
+
+                No abstract</description>
+      <author>Ru&#8208;Jie Yan, Yuan Hu, Lei Zhu, Jian Zhang, Xiaogang Wang, Jinyu Huang, Zhichao Chen, Qin Ouyang, Wei Du, Ying&#8208;Chun Chen</author>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04038</guid>
+    </item>
+    <item>
+      <title>Electrochemical Reaction Kinetics at Constant Interfacial Potential</title>
+      <link>https://doi.org/10.1021/acscatal.4c04034</link>
+      <description>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401481375
+
+                No abstract</description>
+      <author>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao</author>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04034</guid>
     </item>
   </channel>
 </rss>

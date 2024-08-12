@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Aug 11 01:17:58 2024
+Created on Mon Aug 12 01:14:22 2024
 
-Found 44 results from 2024-08-04 to 2024-08-11
+Found 45 results from 2024-08-05 to 2024-08-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Investigating the Origin of Epimerization Attenuation during Pd-Catalyzed Cross-Coupling Reactions   
-
-OpenAlex: https://openalex.org/W4401285753    
-Open access: True
-    
-[Isabelle Cai](https://openalex.org/A5091542238), [Thomas C. Malig](https://openalex.org/A5013941438), [Kenji L. Kurita](https://openalex.org/A5043483014), [Joshua S. Derasp](https://openalex.org/A5091569189), [Lauren E. Sirois](https://openalex.org/A5058605673), [Jason E. Hein](https://openalex.org/A5003345103), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03401.
-    
-No abstract    
-
-    
 
 ## Proton Transfers at the Water/Solid Interface of α-Al2O3–Supported Ni Clusters under Steam Reforming Conditions: An AIMD Study   
 
@@ -286,7 +275,7 @@ No abstract
 OpenAlex: https://openalex.org/W4401388208    
 Open access: True
     
-[Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Georgios Giannakakis](https://openalex.org/A5003291079), [Aram L. Bugaev](https://openalex.org/A5041768941), [Javier Pérez-Ramı́rez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03531.
+[Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Georgios Giannakakis](https://openalex.org/A5003291079), [Aram L. Bugaev](https://openalex.org/A5041768941), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03531.
     
 No abstract    
 
@@ -485,6 +474,28 @@ OpenAlex: https://openalex.org/W4401460337
 Open access: True
     
 [Diego Gianolio](https://openalex.org/A5008063541), [Michael D. Higham](https://openalex.org/A5074429295), [Matthew G. Quesne](https://openalex.org/A5065464233), [Matteo Aramini](https://openalex.org/A5070409393), [Ruoyu Xu](https://openalex.org/A5101736181), [Alex Large](https://openalex.org/A5013851227), [Georg Held](https://openalex.org/A5040757867), [Juan‐Jesús Velasco‐Vélez](https://openalex.org/A5091326723), [Michael Haevecker](https://openalex.org/A5041356620), [Ovidiu Ersen](https://openalex.org/A5048537351), [Chiara Genovese](https://openalex.org/A5009927622), [Claudio Ampelli](https://openalex.org/A5040517441), [M. Schuster](https://openalex.org/A5101996017), [Siglinda Perathoner](https://openalex.org/A5065688781), [Gabriele Centi](https://openalex.org/A5008025988), [C. Richard A. Catlow](https://openalex.org/A5042572313), [Rosa Arrigo](https://openalex.org/A5007560583), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04364.
+    
+No abstract    
+
+    
+
+## Pd(0)-Catalyzed Enantioselective and Regiodivergent Annulations of 1-Heterodienes and Racemic Allenes   
+
+OpenAlex: https://openalex.org/W4401481352    
+Open access: False
+    
+[Ru‐Jie Yan](https://openalex.org/A5038274292), [Yuan Hu](https://openalex.org/A5101038176), [Lei Zhu](https://openalex.org/A5101773400), [Jian Zhang](https://openalex.org/A5102870678), [Xiaogang Wang](https://openalex.org/A5100444820), [Jinyu Huang](https://openalex.org/A5101926479), [Zhichao Chen](https://openalex.org/A5100619480), [Qin Ouyang](https://openalex.org/A5053632028), [Wei Du](https://openalex.org/A5040284332), [Ying‐Chun Chen](https://openalex.org/A5100767573), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04038.
+    
+No abstract    
+
+    
+
+## Electrochemical Reaction Kinetics at Constant Interfacial Potential   
+
+OpenAlex: https://openalex.org/W4401481375    
+Open access: False
+    
+[Huan Li](https://openalex.org/A5100319216), [Dong Luan](https://openalex.org/A5027648567), [Jun Long](https://openalex.org/A5030617408), [Pu Guo](https://openalex.org/A5102537365), [Jianping Xiao](https://openalex.org/A5004947752), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04034.
     
 No abstract    
 
