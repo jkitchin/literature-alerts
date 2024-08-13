@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Aug 12 01:14:22 2024
+Created on Tue Aug 13 01:14:03 2024
 
-Found 45 results from 2024-08-05 to 2024-08-12
+Found 44 results from 2024-08-06 to 2024-08-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Proton Transfers at the Water/Solid Interface of α-Al2O3–Supported Ni Clusters under Steam Reforming Conditions: An AIMD Study  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401309074
-:TOPICS: Catalytic Nanomaterials, Electrocatalysis for Energy Conversion, Emergent Phenomena at Oxide Interfaces
-:PUBLICATION_DATE: 2024-08-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02514")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401309074"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401309074"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401309074"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401309074 (Open access: False)
-    
-[[https://openalex.org/A5100307279][Zhu Ling]], [[https://openalex.org/A5080670426][Tingyu Lei]], [[https://openalex.org/A5100644714][Xingchen Liu]], [[https://openalex.org/A5007065150][Xinchun Yang]], [[https://openalex.org/A5100392786][Bin Zhang]], [[https://openalex.org/A5087368338][Haijun Jiao]], [[https://openalex.org/A5103793376][Wenping Guo]], [[https://openalex.org/A5030872083][Botao Teng]], [[https://openalex.org/A5047313833][Xiaodong Wen]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02514 
-     
-No abstract    
-
-    
 
 * The Catalytic Coupling of CO2 and Glycidol toward Glycerol Carbonate  :ACS_Catalysis:
 :PROPERTIES:

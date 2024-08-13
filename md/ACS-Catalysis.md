@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Aug 12 01:14:22 2024
+Created on Tue Aug 13 01:14:03 2024
 
-Found 45 results from 2024-08-05 to 2024-08-12
+Found 44 results from 2024-08-06 to 2024-08-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Proton Transfers at the Water/Solid Interface of α-Al2O3–Supported Ni Clusters under Steam Reforming Conditions: An AIMD Study   
-
-OpenAlex: https://openalex.org/W4401309074    
-Open access: False
-    
-[Zhu Ling](https://openalex.org/A5100307279), [Tingyu Lei](https://openalex.org/A5080670426), [Xingchen Liu](https://openalex.org/A5100644714), [Xinchun Yang](https://openalex.org/A5007065150), [Bin Zhang](https://openalex.org/A5100392786), [Haijun Jiao](https://openalex.org/A5087368338), [Wenping Guo](https://openalex.org/A5103793376), [Botao Teng](https://openalex.org/A5030872083), [Xiaodong Wen](https://openalex.org/A5047313833), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02514.
-    
-No abstract    
-
-    
 
 ## The Catalytic Coupling of CO2 and Glycidol toward Glycerol Carbonate   
 

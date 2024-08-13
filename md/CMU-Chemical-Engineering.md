@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon Aug 12 01:14:22 2024
+Created on Tue Aug 13 01:14:04 2024
 
-Found 17 results from 2024-08-05 to 2024-08-12
+Found 20 results from 2024-08-06 to 2024-08-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -110,7 +110,7 @@ Circular systems design is an emerging approach for promoting sustainable develo
 OpenAlex: https://openalex.org/W4401458740    
 Open access: False
     
-[Héctor A. Pedrozo](https://openalex.org/A5079899169), [Miguel Zamarripa](https://openalex.org/A5015881602), [JP Osorio Su�rez](https://openalex.org/A5106372551), [A Uribe-Rodr�guez](https://openalex.org/A5106372552), [M. Soledad Díaz](https://openalex.org/A5042182449), [Lorenz T. Biegler](https://openalex.org/A5052825722), No host. 3(None)] 2024.https://doi.org/10.69997/sct.193976.
+[Héctor Pedrozo](https://openalex.org/A5079899169), [Miguel Zamarripa](https://openalex.org/A5015881602), [JP Osorio Su�rez](https://openalex.org/A5106372551), [A Uribe-Rodr�guez](https://openalex.org/A5106372552), [M. Soledad Díaz](https://openalex.org/A5042182449), [Lorenz T. Biegler](https://openalex.org/A5052825722), No host. 3(None)] 2024.https://doi.org/10.69997/sct.193976.
     
 Post-combustion carbon capture technologies have the potential to contribute significantly to achieving the environmental goals of reducing CO2 emissions in the short term. However, these technologies are energy and cost-intensive, and the variability of flue gas represents important challenges. The optimal design and optimization of such systems are critical to reaching the net zero and net negative goals, in this context, the use of computer-aided process design can be very effective in overcoming these issues. In this study, we explore the implementation of carbon capture technologies within an industrial complex, by considering the pooling of CO2 streams. We present an optimization formulation to design carbon capture plants with the goal of enhancing efficiency and minimizing the capture costs. Capital and operating costs are represented via surrogate models (SMs) that are trained using rigorous process models in Aspen Plus, each data point is obtained by solving an optimization problem in Aspen Plus equation-oriented approach. Since selecting the functional form of the surrogate model is crucial for the solution performance; we study different SM approaches (i.e., ALAMO, kriging, radial basis function, polynomials, and artificial neural networks) and analyze their impact on solver performance. Numerical results show the computational advantage of using ALAMO while highlighting the increased complexity of using ANN and kriging to formulate optimization problems. Regarding the pooling of CO2 streams, the optimal designs for the network are not trivial, thus showing the importance of addressing the problem systematically.    
 
@@ -188,6 +188,39 @@ OpenAlex: https://openalex.org/W4401476302
 Open access: False
     
 [Unnatti Sharma](https://openalex.org/A5034884349), [Angela Nguyen](https://openalex.org/A5004814346), [John R. Kitchin](https://openalex.org/A5003442464), [Zachary W. Ulissi](https://openalex.org/A5024574386), [Michael J. Janik](https://openalex.org/A5031735060), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4921171.
+    
+No abstract    
+
+    
+
+## CFD Modeling of High-Flux Plate-and-Frame Membrane Modules for Industrial Carbon Capture   
+
+OpenAlex: https://openalex.org/W4401496885    
+Open access: False
+    
+[Cheick Dosso](https://openalex.org/A5093713938), [Héctor Pedrozo](https://openalex.org/A5079899169), [Thien Tran](https://openalex.org/A5037749425), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor A. Kusuma](https://openalex.org/A5041659494), [David Hopkinson](https://openalex.org/A5101028600), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2427396.
+    
+No abstract    
+
+    
+
+## Optimization of Membrane-based Carbon Capture using Dimensional Analysis, CFD and Process System Engineering   
+
+OpenAlex: https://openalex.org/W4401496910    
+Open access: False
+    
+[Héctor Pedrozo](https://openalex.org/A5079899169), [Cheick Dosso](https://openalex.org/A5093713938), [Thien Tran](https://openalex.org/A5037749425), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor A. Kusuma](https://openalex.org/A5041659494), [David Hopkinson](https://openalex.org/A5101028600), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2427395.
+    
+No abstract    
+
+    
+
+## NETL Research & Innovation Center - Membrane Capture Media Development   
+
+OpenAlex: https://openalex.org/W4401497006    
+Open access: False
+    
+[Lingxiang Zhu](https://openalex.org/A5002137675), [Thien Tran](https://openalex.org/A5037749425), [Fangming Xiang](https://openalex.org/A5076767088), [Victor A. Kusuma](https://openalex.org/A5041659494), [Cheick Dosso](https://openalex.org/A5093713938), [Héctor Pedrozo](https://openalex.org/A5079899169), [Grigorios Panagakos](https://openalex.org/A5028498558), [Neil Pergar](https://openalex.org/A5098681635), [Brenda Petrilena](https://openalex.org/A5098681636), [David Hopkinson](https://openalex.org/A5021768097), No host. None(None)] 2024.https://doi.org/10.2172/2427262.
     
 No abstract    
 

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Aug 2024 01:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 01:14:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -100,10 +100,10 @@
     <item>
       <title>Impact of surrogate modeling in the formulation of pooling optimization problems for the CO2 point sources</title>
       <link>https://doi.org/10.69997/sct.193976</link>
-      <description>H&#233;ctor A. Pedrozo, Miguel Zamarripa, JP Osorio Su&#65533;rez, A Uribe-Rodr&#65533;guez, M. Soledad D&#237;az, Lorenz T. Biegler, No host. 3(None)] 2024. https://openalex.org/W4401458740
+      <description>H&#233;ctor Pedrozo, Miguel Zamarripa, JP Osorio Su&#65533;rez, A Uribe-Rodr&#65533;guez, M. Soledad D&#237;az, Lorenz T. Biegler, No host. 3(None)] 2024. https://openalex.org/W4401458740
 
                 Post-combustion carbon capture technologies have the potential to contribute significantly to achieving the environmental goals of reducing CO2 emissions in the short term. However, these technologies are energy and cost-intensive, and the variability of flue gas represents important challenges. The optimal design and optimization of such systems are critical to reaching the net zero and net negative goals, in this context, the use of computer-aided process design can be very effective in overcoming these issues. In this study, we explore the implementation of carbon capture technologies within an industrial complex, by considering the pooling of CO2 streams. We present an optimization formulation to design carbon capture plants with the goal of enhancing efficiency and minimizing the capture costs. Capital and operating costs are represented via surrogate models (SMs) that are trained using rigorous process models in Aspen Plus, each data point is obtained by solving an optimization problem in Aspen Plus equation-oriented approach. Since selecting the functional form of the surrogate model is crucial for the solution performance; we study different SM approaches (i.e., ALAMO, kriging, radial basis function, polynomials, and artificial neural networks) and analyze their impact on solver performance. Numerical results show the computational advantage of using ALAMO while highlighting the increased complexity of using ANN and kriging to formulate optimization problems. Regarding the pooling of CO2 streams, the optimal designs for the network are not trivial, thus showing the importance of addressing the problem systematically.</description>
-      <author>H&#233;ctor A. Pedrozo, Miguel Zamarripa, JP Osorio Su&#65533;rez, A Uribe-Rodr&#65533;guez, M. Soledad D&#237;az, Lorenz T. Biegler</author>
+      <author>H&#233;ctor Pedrozo, Miguel Zamarripa, JP Osorio Su&#65533;rez, A Uribe-Rodr&#65533;guez, M. Soledad D&#237;az, Lorenz T. Biegler</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.69997/sct.193976</guid>
     </item>
@@ -176,6 +176,36 @@
       <author>Unnatti Sharma, Angela Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4921171</guid>
+    </item>
+    <item>
+      <title>CFD Modeling of High-Flux Plate-and-Frame Membrane Modules for Industrial Carbon Capture</title>
+      <link>https://doi.org/10.2172/2427396</link>
+      <description>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4401496885
+
+                No abstract</description>
+      <author>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2427396</guid>
+    </item>
+    <item>
+      <title>Optimization of Membrane-based Carbon Capture using Dimensional Analysis, CFD and Process System Engineering</title>
+      <link>https://doi.org/10.2172/2427395</link>
+      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4401496910
+
+                No abstract</description>
+      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2427395</guid>
+    </item>
+    <item>
+      <title>NETL Research &amp;amp; Innovation Center - Membrane Capture Media Development</title>
+      <link>https://doi.org/10.2172/2427262</link>
+      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4401497006
+
+                No abstract</description>
+      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2427262</guid>
     </item>
   </channel>
 </rss>

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Aug 2024 01:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 01:14:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Magnetic order in the computational 2D materials database (C2DB) from high throughput spin spiral calculations</title>
-      <link>https://doi.org/10.1038/s41524-024-01318-2</link>
-      <description>Joachim S&#248;dequist, Thomas Olsen, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4401315005
-
-                Abstract We report high throughput computational screening for magnetic ground state order in 2D materials. The workflow is based on spin spiral calculations and yields the magnetic order in terms of a two-dimensional ordering vector Q . We then include spin-orbit coupling to extract the easy and hard axes for collinear structures and the orientation of spiral planes in non-collinear structures. Finally, for all predicted ferromagnets we compute the Dzyaloshinskii-Moriya interactions and determine whether or not these are strong enough to overcome the magnetic anisotropy and stabilise a chiral spin spiral ground state. We find 58 ferromagnets, 21 collinear anti-ferromagnets, and 85 non-collinear ground states of which 15 are chiral spin spirals driven by Dzyaloshinskii-Moriya interactions. The results show that non-collinear order is in fact as common as collinear order in these materials and emphasise the need for detailed investigation of the magnetic ground state when reporting magnetic properties of new materials.</description>
-      <author>Joachim S&#248;dequist, Thomas Olsen</author>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01318-2</guid>
-    </item>
     <item>
       <title>Colloidal copper nanospheres boost propanol electrosynthesis from CO</title>
       <link>https://doi.org/10.21203/rs.3.rs-4544481/v1</link>
@@ -196,6 +186,16 @@
       <author>Elizabeth A. Pogue, Spencer Langevin, Tanner Hamann, Karun K. Rao, Marshall A. Schroeder, Nam Q. Le, Courtney McHale, Zachary Burchfield, Jesse S. Ko</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101663</guid>
+    </item>
+    <item>
+      <title>Financiamento ambiental e a atividade de captura e armazenamento de CO2: instrumentos para efetiva&#231;&#227;o da responsabilidade de longo prazo no Brasil</title>
+      <link>https://doi.org/10.11606/t.106.2024.tde-22072024-155313</link>
+      <description>Silvia Andrea Cupertino, No host. None(None)] 2024. https://openalex.org/W4401422708
+
+                No abstract</description>
+      <author>Silvia Andrea Cupertino</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.11606/t.106.2024.tde-22072024-155313</guid>
     </item>
     <item>
       <title>Review of Extrinsic Factors That Limit the Catalytic Performance of Transition Metal Dichalcogenides (TMDs) in Hydrogen Evolution Reactions (HER)</title>
@@ -408,6 +408,46 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.047</guid>
     </item>
     <item>
+      <title>N&#8208;Doped Carbon Modified (Ni&lt;sub&gt;x&lt;/sub&gt;Fe&lt;sub&gt;1&#8208;x&lt;/sub&gt;)Se Supported on Vertical Graphene toward Efficient and Stable OER Performance</title>
+      <link>https://doi.org/10.1002/smll.202404545</link>
+      <description>Beirong Ye, Yue&#8208;Fei Zhang, Chen Li, Shouxin Zhang, Yongqi Li, Ting Li, Fengyu Huang, Chong Tang, Renhong Chen, Tao Tang, Abolhassan Noori, Liujiang Zhou, Xinhui Xia, Mir F. Mousavi, Yongqi Zhang, Small. None(None)] 2024. https://openalex.org/W4401490730
+
+                Abstract NiFe&#8208;based nanomaterials are extensively studied as one of the promising candidates for the oxygen evolution reaction (OER). However, their practical application is still largely impeded by the unsatisfied activity and poor durability caused by the severe leaching of active species. Herein, a rapid and facile combustion method is developed to synthesize the vertical graphene (VG) supported N&#8208;doped carbon modified (Ni x Fe 1&#8208;x )Se composites (NC@(Ni x Fe 1&#8208;x )Se/VG). The interconnected heterostructure of obtained materials plays a vital role in boosting the catalytic performance, offering rich active sites and convenient pathways for rapid electron and ion transport. The incorporation of Se into NiFe facilitates the formation of active species via in situ surface reconstruction. According to density functional theory (DFT) calculations, the in situ formation of a Ni 0.75 Fe 0.25 Se/Ni 0.75 Fe 0.25 OOH layer significantly enhances the catalytic activity of NC@(Ni x Fe 1&#8208;x )Se/VG. Furthermore, the surface&#8208;adsorbed selenoxide species contribute to the stabilization of the catalytic active phase and increase the overall stability. The obtained NC@(Ni x Fe 1&#8208;x )Se/VG exhibits a low overpotential of 220 mV at 20 mA cm &#8722;2 and long&#8208;term stability over 300 h. This work offers a novel perspective on the design and fabrication of OER electrocatalysts with high activity and stability.</description>
+      <author>Beirong Ye, Yue&#8208;Fei Zhang, Chen Li, Shouxin Zhang, Yongqi Li, Ting Li, Fengyu Huang, Chong Tang, Renhong Chen, Tao Tang, Abolhassan Noori, Liujiang Zhou, Xinhui Xia, Mir F. Mousavi, Yongqi Zhang</author>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404545</guid>
+    </item>
+    <item>
+      <title>Superaerophobic Ni3N/Ni@W2N3 multi-heterointerfacial nanoarrays for efficient alkaline electrocatalytic hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.cej.2024.154776</link>
+      <description>Haidong Wang, Yongxin Jiao, Guanghui Zhang, Zexi Zhang, Weiguang Ma, Chenghua Sun, Xu Zong, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4401494305
+
+                No abstract</description>
+      <author>Haidong Wang, Yongxin Jiao, Guanghui Zhang, Zexi Zhang, Weiguang Ma, Chenghua Sun, Xu Zong</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154776</guid>
+    </item>
+    <item>
+      <title>Modification of metals and ligands in two-dimensional conjugated metal-organic frameworks for CO2 electroreduction: A combined density functional theory and machine learning study</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.08.069</link>
+      <description>Guanru Xing, Shize Liu, Guang&#8208;Yan Sun, Jing-yao Liu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4401496468
+
+                No abstract</description>
+      <author>Guanru Xing, Shize Liu, Guang&#8208;Yan Sun, Jing-yao Liu</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.069</guid>
+    </item>
+    <item>
+      <title>Preparation and application of single-atom nanozymes in oncology: a review</title>
+      <link>https://doi.org/10.3389/fchem.2024.1442689</link>
+      <description>Huiyuan Liang, Yubin Xian, Xujing Wang, Frontiers in Chemistry. 12(None)] 2024. https://openalex.org/W4401499087
+
+                Single-atom nanozymes (SAzymes) represent a cutting-edge advancement in nanomaterials, merging the high catalytic efficiency of natural enzymes with the benefits of atomic economy. Traditionally, natural enzymes exhibit high specificity and efficiency, but their stability are limited by environmental conditions and production costs. Here we show that SAzymes, with their large specific surface area and high atomic utilization, achieve superior catalytic activity. However, their high dispersibility poses stability challenges. Our review focuses on recent structural and preparative advancements aimed at enhancing the catalytic specificity and stability of SAzymes. Compared to previous nanozymes, SAzymes demonstrate significantly improved performance in biomedical applications, particularly in tumor medicine. This progress positions SAzymes as a promising tool for future cancer treatment strategies, integrating the robustness of inorganic materials with the specificity of biological systems. The development and application of SAzymes could revolutionize the field of biocatalysis, offering a stable, cost-effective alternative to natural enzymes.</description>
+      <author>Huiyuan Liang, Yubin Xian, Xujing Wang</author>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1442689</guid>
+    </item>
+    <item>
       <title>First-principles data for solid solution niobium-tantalum-vanadium alloys with body-centered-cubic structures</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2</link>
       <description>Massimiliano Lupo Pasini, German D. Samolyuk, Markus Eisenbach, Jong Youl Choi, Junqi Yin, Ying Yang, No host. None(None)] 2024. https://openalex.org/W4401335548
@@ -426,6 +466,16 @@
       <author>Esther Heid, Johannes Sch&#246;rghuber, Ralf Wanzenb&#246;ck, Georg K. H. Madsen</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c00904</guid>
+    </item>
+    <item>
+      <title>Effects of Tuning Decision Trees in Random Forest Regression on Predicting Porosity of a Hydrocarbon Reservoir. Case Study: Volve Oil Field, North Sea</title>
+      <link>https://doi.org/10.1039/d4ya00313f</link>
+      <description>Kushan Sandunil, Ziad Bennour, Hisham Ben Mahmud, Ausama Giwelli, Energy Advances. None(None)] 2024. https://openalex.org/W4401432831
+
+                Machine learning (ML) has emerged as a powerful tool in petroleum engineering for predicting reservoir properties such as porosity. Random forest regression (RFR) is one such widely used ML technique....</description>
+      <author>Kushan Sandunil, Ziad Bennour, Hisham Ben Mahmud, Ausama Giwelli</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ya00313f</guid>
     </item>
   </channel>
 </rss>
