@@ -1,8 +1,8 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Tue Aug 13 01:14:01 2024
+Created on Wed Aug 14 01:12:47 2024
 
-Found 2 results from 2024-08-06 to 2024-08-13
+Found 1 results from 2024-08-07 to 2024-08-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
@@ -24,26 +24,5 @@ OpenAlex: https://openalex.org/W4401419486 (Open access: True)
 [[https://openalex.org/A5100651384][Yanzhi Wang]], [[https://openalex.org/A5101283720][Hangjuan He]], [[https://openalex.org/A5101354290][LV Hao]], [[https://openalex.org/A5102220391][Fengrui Jia]], [[https://openalex.org/A5019358573][Ben Liu]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-50721-2 
      
 Abstract Mesoporous single crystals have received more attention than ever in catalysis-related applications due to their unique structural functions. Despite great efforts, their progress in engineering crystallinity and composition has been remarkably slower than expected. In this manuscript, a template-free strategy is developed to prepare two-dimensional high-entropy oxide (HEO) nanoplates with single-crystallinity and penetrated mesoporosity, which further ensures precise control over high-entropy compositions and crystalline phases. Single-crystalline mesoporous HEOs (SC-MHEOs) disclose high electrocatalytic performance in 5-hydroxymethylfurfural oxidation reaction (HMFOR) for efficient biomass upgrading, with remarkable HMF conversion of 99.3% and superior 2,5-furandicarboxylic acid (FDCA) selectivity of 97.7%. Moreover, with nitrate reduction as coupling cathode reaction, SC-MHEO realizes concurrent electrosynthesis of value-added FDCA and ammonia in the two-electrode cell. Our study provides a powerful paradigm for producing a library of novel mesoporous single crystals for important catalysis-related applications, especially in the two-electrode cell.    
-
-    
-
-* Comparative Study of Porous High‐entropy Oxides as Low‐temperature Catalysts for CO2 Methanation  :high_entropy_oxides:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401333650
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ejic.202400476")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401333650"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401333650"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401333650"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401333650 (Open access: True)
-    
-[[https://openalex.org/A5025967953][Amy J. Knorpp]], [[https://openalex.org/A5106310285][Monika Mielniczuk]], [[https://openalex.org/A5029742679][Marin Nikolić]], [[https://openalex.org/A5018960376][Alexander Vogel]], [[https://openalex.org/A5011464877][Renato Figi]], [[https://openalex.org/A5014885938][Claudia Schreiner]], [[https://openalex.org/A5088521783][Andreas Borgschulte]], [[https://openalex.org/A5014688343][Michael Stuer]], European Journal of Inorganic Chemistry. None(None)] 2024. https://doi.org/10.1002/ejic.202400476 
-     
-High‐entropy oxides (HEOs) are an emerging class of materials whose compositional complexity has garnered attention because of their tailorable chemistries and unique properties arising from extreme configurational entropy. Solid‐state methods are often employed to synthesize HEOs, but such methods result in poor material properties for catalytic processes, leaving HEOs less studied for catalysis. Here we utilize different wet‐synthesis strategies to produce porous HEOs and investigate their performance in heterogeneous CO2 hydrogenation to methane. Specifically, HEOs were synthesized using hydrothermal, co‐precipitation, and solvothermal methods, resulting in different morphologies like platelets or spheres. Of the tested materials, HEOs with 2‐D platelets derived from hydrothermally‐synthesized high‐entropy layered double hydroxides had superior catalytic performance, especially in low‐temperature regimes (<300°C). K‐edge XANES indicated that metallic sites (Ni0‐Co0) were formed during the reaction, and these metallic sites are dispersed into the HEO matrix which is confirmed by STEM/elemental mapping. This facile synthesis approach allows for realized synergy between the metallic sites and the HEO support, leading to superior performance for CO2 methanation compared to low‐entropy counterparts. Finally, this study illustrates how HEOs offer new avenues of tailorability in terms of the interplay between support, active site and reaction temperatures for heterogeneous catalysis.    
 
     

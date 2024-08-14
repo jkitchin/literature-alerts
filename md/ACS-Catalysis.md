@@ -1,131 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Aug 13 01:14:03 2024
+Created on Wed Aug 14 01:12:49 2024
 
-Found 44 results from 2024-08-06 to 2024-08-13
+Found 34 results from 2024-08-07 to 2024-08-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## The Catalytic Coupling of CO2 and Glycidol toward Glycerol Carbonate   
-
-OpenAlex: https://openalex.org/W4401324703    
-Open access: False
-    
-[Claire Muzyka](https://openalex.org/A5006348808), [Diana V. Silva-Brenes](https://openalex.org/A5032867366), [Bruno Grignard](https://openalex.org/A5055169937), [Christophe Detrembleur](https://openalex.org/A5012810514), [Jean‐Christophe M. Monbaliu](https://openalex.org/A5001225766), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01622.
-    
-Ambitious environmental objectives have driven research and innovation toward the production of biorenewable chemicals, such as glycerol carbonate. In particular, the production of glycerol carbonate from the coupling of CO2 and glycidol has received considerable attention from the chemistry and chemical engineering communities. This route became particularly appealing considering that glycidol is an activated derivative of glycerol, which, together with CO2, is an industrial waste. To keep the chain of value toward high value-added glycerol carbonate as attractive as possible, numerous metal-based and organo-catalysts have been developed. We provide with this review a pragmatic overview of the most promising catalytic protocols toward glycerol carbonate reported over the past 8 years. Special attention is given to inherent mechanistic and structure-(re)activity features as key parameters driving reaction performances. This review also addresses the preparation of a selection of catalysts, as well as the global efficiency and sustainability of the chain of value toward glycerol carbonate. Such a holistic review is intended to feed inspiration for future highly efficient catalytic systems.    
-
-    
-
-## Hafnium(IV)-Salen-Catalyzed Highly Reactive and Enantioselective Epoxidation Directed by Amides   
-
-OpenAlex: https://openalex.org/W4401324944    
-Open access: False
-    
-[J. M. Yao](https://openalex.org/A5087164138), [Zhi Li](https://openalex.org/A5014835616), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03648.
-    
-No abstract    
-
-    
-
-## Industrial and Laboratory Technologies for the Chemical Recycling of Plastic Waste   
-
-OpenAlex: https://openalex.org/W4401326880    
-Open access: True
-    
-[Mason T. Chin](https://openalex.org/A5090190903), [Tianning Diao](https://openalex.org/A5032981628), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03194.
-    
-No abstract    
-
-    
-
-## Structural Changes of ZSM-5 Catalysts during Methanol-to-Hydrocarbons Conversion Processes   
-
-OpenAlex: https://openalex.org/W4401331217    
-Open access: True
-    
-[Chao Wang](https://openalex.org/A5100407014), [Tomás Aztiria](https://openalex.org/A5106283860), [Przemysław Rzepka](https://openalex.org/A5011286202), [Réne Verel](https://openalex.org/A5086705545), [Jun Xu](https://openalex.org/A5100632673), [Feng Deng](https://openalex.org/A5055850550), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), [Vladimir Paunović](https://openalex.org/A5059144530), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02625.
-    
-No abstract    
-
-    
-
-## Rh-Catalyzed Asymmetric Allylic Substitution with Photo-Generated Alkyl Radical Species   
-
-OpenAlex: https://openalex.org/W4401333908    
-Open access: False
-    
-[Li Wang](https://openalex.org/A5100322864), [Pengtao Yang](https://openalex.org/A5072886636), [Yuan‐Zheng Cheng](https://openalex.org/A5002861511), [Shu‐Li You](https://openalex.org/A5019588728), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03683.
-    
-No abstract    
-
-    
-
-## Photoredox/Nickel Dual-Catalyzed Allylation of Aldehydes with Allylic Alcohols and Mechanistic Insights in the Presence of CO2   
-
-OpenAlex: https://openalex.org/W4401335095    
-Open access: False
-    
-[Shouxin Zhang](https://openalex.org/A5101742243), [Zongchang Han](https://openalex.org/A5004444053), [Jia Li](https://openalex.org/A5100454297), [Han‐Shi Hu](https://openalex.org/A5020194359), [Jun Li](https://openalex.org/A5100361956), [Chanjuan Xi](https://openalex.org/A5049754752), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03991.
-    
-No abstract    
-
-    
-
-## Stable Three-Dimensional Macroporous Iron-Foam Catalyst for Direct Conversion of CO2 to Olefins   
-
-OpenAlex: https://openalex.org/W4401338297    
-Open access: False
-    
-[Yi Liu](https://openalex.org/A5100330442), [Xiaoqian Gong](https://openalex.org/A5101013253), [Ruonan He](https://openalex.org/A5055139864), [Zhihua Han](https://openalex.org/A5063888686), [Hao Chen](https://openalex.org/A5100353673), [Bo Feng](https://openalex.org/A5101684892), [Xingfeng Xu](https://openalex.org/A5045121982), [Aihua Xing](https://openalex.org/A5101805228), [Rongrong Jin](https://openalex.org/A5081853826), [Pengju Ren](https://openalex.org/A5070260505), [Bin Wang](https://openalex.org/A5100372378), [Zhou‐jun Wang](https://openalex.org/A5010034920), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03148.
-    
-No abstract    
-
-    
-
-## Hydroboration of Terminal Alkynes Catalyzed by a Mn(I) Alkyl PCP Pincer Complex Following Two Diverging Pathways   
-
-OpenAlex: https://openalex.org/W4401339108    
-Open access: True
-    
-[Daniel Zobernig](https://openalex.org/A5009876836), [Berthold Stöger](https://openalex.org/A5072268363), [Luı́s F. Veiros](https://openalex.org/A5046772276), [Karl Kirchner](https://openalex.org/A5047476885), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03805.
-    
-No abstract    
-
-    
-
-## Homogeneous Tungsten Catalysis for Controllable Selective Oxidation of Anilines via the W(O)(η2-O2)2 Intermediate   
-
-OpenAlex: https://openalex.org/W4401339488    
-Open access: False
-    
-[Heng Song](https://openalex.org/A5026126152), [Jingjing Wei](https://openalex.org/A5101535462), [Zengping Wang](https://openalex.org/A5030750004), [Yuzan Liu](https://openalex.org/A5104270144), [Shangxun Zhao](https://openalex.org/A5101359696), [Xingwei Cai](https://openalex.org/A5077715008), [Yuting Xiao](https://openalex.org/A5068169743), [Liqing Yang](https://openalex.org/A5102875048), [P. Bai](https://openalex.org/A5043882874), [Fang Li](https://openalex.org/A5100394211), [Fu Yang](https://openalex.org/A5006345780), [Shaojun Zheng](https://openalex.org/A5017533894), [Wenjing Zhang](https://openalex.org/A5100407184), [Jianming Pan](https://openalex.org/A5101726310), [Chen Xu](https://openalex.org/A5101715319), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02875.
-    
-No abstract    
-
-    
-
-## Mechanism of Two-Component Mono-Oxygenases Involved in Anthracycline 1-Hydroxylation   
-
-OpenAlex: https://openalex.org/W4401339902    
-Open access: True
-    
-[Benjamin Nji Wandi](https://openalex.org/A5051365207), [Pedro Dinis](https://openalex.org/A5050821612), [Vilja Siitonen](https://openalex.org/A5038994232), [G. Schneider](https://openalex.org/A5010549483), [R. Schnell](https://openalex.org/A5006165963), [Mikko Metsä‐Ketelä](https://openalex.org/A5003353973), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02623.
-    
-No abstract    
-
-    
-
-## Cesium and Phenoxide Interaction Enabled by Rh Overrides the Innate Solvent-Mediated Chemoselectivity   
-
-OpenAlex: https://openalex.org/W4401341539    
-Open access: False
-    
-[Romin Gogoi](https://openalex.org/A5092208838), [Garima Jindal](https://openalex.org/A5050353667), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03131.
-    
-No abstract    
-
-    
 
 ## Kinetic and Thermodynamic Requirements for Polyoxymethylene Dimethyl Ether Synthesis Catalyzed by Ion-Exchange Resin   
 
@@ -209,9 +88,9 @@ No abstract
 OpenAlex: https://openalex.org/W4401384127    
 Open access: True
     
-[Yao Shi](https://openalex.org/A5045320710), [Joshua S. Derasp](https://openalex.org/A5091569189), [Selene Sepúlveda Guzmán](https://openalex.org/A5060504209), [Brian O. Patrick](https://openalex.org/A5081446249), [Jason E. Hein](https://openalex.org/A5003345103), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02407.
+[Yao Shi](https://openalex.org/A5045320710), [Joshua S. Derasp](https://openalex.org/A5091569189), [Selene Sepúlveda Guzmán](https://openalex.org/A5060504209), [Brian O. Patrick](https://openalex.org/A5081446249), [Jason E. Hein](https://openalex.org/A5003345103), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02407 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02407)).
     
-No abstract    
+The Suzuki–Miyaura cross-coupling (SMC) remains one of the most widely used transformations available to chemists. Recently, robust new conditions achieving rapid reactivity under homogeneous aprotic conditions enabled by the use of potassium trimethylsilanolate (TMSOK) as a base were reported. However, the strong inhibitory effect of TMSOK restricts the generality of such conditions. Moreover, the basic nature of TMSOK impedes the use of protic heterocycles as substrates, as these latter anionic species are even more potent catalyst inhibitors. Herein, we report a thorough mechanistic study of these novel SMC conditions. Halide salt additives were found to provide a dramatic rate acceleration and mitigate the inhibitory effect of TMSOK. NMR experiments revealed that this is largely achieved by impacting the unexpected formation of inactive [LnPd(Ar)(μ–OH)]2, favoring the formation of active LnPd(Ar)(X) instead. These findings enabled an impressive substrate scope even at low catalyst loadings (0.1 mol %). Finally, halide additives were observed to enable the use of protic heterocyclic substrates, which could otherwise completely inhibit reactivity.    
 
     
 
@@ -264,7 +143,7 @@ No abstract
 OpenAlex: https://openalex.org/W4401388208    
 Open access: True
     
-[Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Georgios Giannakakis](https://openalex.org/A5003291079), [Aram L. Bugaev](https://openalex.org/A5041768941), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03531.
+[Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Georgios Giannakakis](https://openalex.org/A5003291079), [Aram L. Bugaev](https://openalex.org/A5041768941), [Javier Pérez-Ramı́rez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03531.
     
 No abstract    
 
@@ -485,6 +364,17 @@ OpenAlex: https://openalex.org/W4401481375
 Open access: False
     
 [Huan Li](https://openalex.org/A5100319216), [Dong Luan](https://openalex.org/A5027648567), [Jun Long](https://openalex.org/A5030617408), [Pu Guo](https://openalex.org/A5102537365), [Jianping Xiao](https://openalex.org/A5004947752), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04034.
+    
+No abstract    
+
+    
+
+## Targeted Peptide Modification Using an Engineered Bacterial N-Glycosyltransferase   
+
+OpenAlex: https://openalex.org/W4401507008    
+Open access: True
+    
+[Ayoola B. Smith](https://openalex.org/A5088779060), [Jonathan R. Chekan](https://openalex.org/A5042836241), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01958.
     
 No abstract    
 

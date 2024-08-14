@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Aug 2024 01:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 01:12:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Colloidal copper nanospheres boost propanol electrosynthesis from CO</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4544481/v1</link>
-      <description>Min Wang, Anna Loiudice, Enric Ib&#225;&#241;ez Al&#233;, Krishna Kumar, Dragos Stoian, Zan Lian, Petru P. Albertini, Ludovic Zaza, Jari Leemans, N&#250;ria L&#243;pez, Raffaella Buonsanti, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4401323735
-
-                Abstract Achieving a carbon neutral manufacturing of chemicals is imperative to accelerate the transition towards a sustainable future. Propanol electrosynthesis from CO electroreduction represents a promising alternative to the current manufacturing of this chemical. Yet, the catalyst features driving propanol formation are poorly understood, which limits further advancement in the performance. Herein, we report on a comprehensive mapping of the sensitivity of the CO electroreduction to the catalyst structure exploiting well-defined copper nanocrystals (NCs) with tunable shape and size synthesized via colloidal chemistry. In addition to clarify the dependence from the exposed surfaces, we discover that spheres uniquely promote n-propanol selectivity, which we explain mostly with strain effects. Driven by this novel insight, we achieve unprecedent n-propanol production via electrosynthesis with a copper catalyst. We demonstrate that colloidal copper nanospheres with a diameter of 4 nm deliver n-propanol faradaic efficiency of 39.6&#177;1.4% at 119&#177;4.2 mA/cm2 production rate, the latter being ten times the current state of the art for copper catalysts.</description>
-      <author>Min Wang, Anna Loiudice, Enric Ib&#225;&#241;ez Al&#233;, Krishna Kumar, Dragos Stoian, Zan Lian, Petru P. Albertini, Ludovic Zaza, Jari Leemans, N&#250;ria L&#243;pez, Raffaella Buonsanti</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4544481/v1</guid>
-    </item>
-    <item>
-      <title>Ionic liquid&#8211;electrode interface: classification of ions, saturation of layers, and structure-determined potentials</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144829</link>
-      <description>Karl Karu, E.R. Nerut, Xueran Tao, Sergei A. Kislenko, Kaija P&#245;hako&#8208;Esko, Iuliia V. Voroshylova, Vladislav Ivani&#353;t&#353;ev, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4401325023
-
-                No abstract</description>
-      <author>Karl Karu, E.R. Nerut, Xueran Tao, Sergei A. Kislenko, Kaija P&#245;hako&#8208;Esko, Iuliia V. Voroshylova, Vladislav Ivani&#353;t&#353;ev</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144829</guid>
-    </item>
-    <item>
-      <title>Machine learning driven advancements in catalysis for predicting hydrogen evolution reaction activity</title>
-      <link>https://doi.org/10.1016/j.matchemphys.2024.129805</link>
-      <description>Priyanka Sinha, M. V. Jyothirmai, B. Moses Abraham, Jayant K. Singh, Materials Chemistry and Physics. None(None)] 2024. https://openalex.org/W4401326351
-
-                No abstract</description>
-      <author>Priyanka Sinha, M. V. Jyothirmai, B. Moses Abraham, Jayant K. Singh</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matchemphys.2024.129805</guid>
-    </item>
-    <item>
-      <title>Learnings from Up-Scaling CO2 Capture: Challenges and Experiences with Pilot work</title>
-      <link>https://doi.org/10.1016/j.ces.2024.120576</link>
-      <description>Sai Hema Bhavya Vinjarapu, Isaac A. L&#248;ge, Randi Neerup, Anders Hellerup Larsen, Valdemar Emil Rasmussen, Jens Kristian J&#248;rsboe, Sebastian Nis Bay Villadsen, S&#248;ren Holdt Jensen, Jakob Lindkvist Karlsson, Jannik Kappel, Henrik Lassen, Peter Blinksbjerg, Nicolas von Solms, Philip Loldrup Fosb&#248;l, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4401337693
-
-                No abstract</description>
-      <author>Sai Hema Bhavya Vinjarapu, Isaac A. L&#248;ge, Randi Neerup, Anders Hellerup Larsen, Valdemar Emil Rasmussen, Jens Kristian J&#248;rsboe, Sebastian Nis Bay Villadsen, S&#248;ren Holdt Jensen, Jakob Lindkvist Karlsson, Jannik Kappel, Henrik Lassen, Peter Blinksbjerg, Nicolas von Solms, Philip Loldrup Fosb&#248;l</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120576</guid>
-    </item>
-    <item>
-      <title>Spglib: a software library for crystal symmetry search</title>
-      <link>https://doi.org/10.1080/27660400.2024.2384822</link>
-      <description>Atsushi Togo, K. Shinohara, Isao Tanaka, Science and Technology of Advanced Materials Methods. None(None)] 2024. https://openalex.org/W4401339223
-
-                No abstract</description>
-      <author>Atsushi Togo, K. Shinohara, Isao Tanaka</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/27660400.2024.2384822</guid>
-    </item>
-    <item>
-      <title>Nano&#8208;Single&#8208;Atom Heterointerface Engineering for pH&#8208;Universal Electrochemical Nitrate Reduction to Ammonia</title>
-      <link>https://doi.org/10.1002/adfm.202409089</link>
-      <description>Jian Song, Sheng&#8722;Jie Qian, Wenqiang Yang, Jiali Mu, Jingwei Li, Yaping Liu, Fanfei Sun, Shuwen Yu, Feifei Xu, Xiangen Song, Dehui Deng, Yang&#8208;Gang Wang, Yan Li, Yunjie Ding, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401339369
-
-                Abstract Nano&#8208;single&#8208;atom&#8208;catalysts have the potential to combine the respective advantages of both nano&#8208;catalysts and single&#8208;atom&#8208;catalysts and thus exhibit enhanced performance. Generally, the separation of active sites in space limits the interaction between single atoms and nanoparticles. Heterointerface engineering has the potential to break this limitation. Regretfully, studies on the interface effect between single atoms and nanoparticles are rarely reported. Herein, an unprecedented nano&#8208;single&#8208;atom heterointerface composed of Fe single&#8208;atoms and carbon&#8208;shell&#8208;coated FeP nanoparticles (Fe SAC/FeP@C) is demonstrated as an efficient electrocatalyst for the nitrate reduction process from alkaline to acidic. Compared with typical nano&#8208;single&#8208;atom&#8208;catalysts (Fe SAC/FePO 4 ) and single&#8208;atom&#8208;catalysts (Fe SAC), the constructed Fe SAC/FeP@C heterostructure exhibits dramatically enhanced nitrate&#8208;to&#8208;ammonia performance. Especially in acidic media, the maxmium Faradaic efficiency of ammonia (NH 3 ) can reach 95.6 &#177; 0.5%, with a maximum NH 3 yield of 36.2 &#177; 3.1 mg h &#8722;1 mg cat &#8722;1 (pH = 1.2), which is considerably higher than previously reported. Density functional theory calculations and in situ spectroscopic investigations indicate that the unique charge redistribution at the interface, together with the optimized electronic structure of Fe single&#8208;atoms, strengthens intermediate adsorption and catalytic activity. This work provides a feasible strategy for designing nano&#8208;single&#8208;atom&#8208;catalysts with unique heterointerfaces, as well as valuable insights into nitrate conversion under environmentally relevant wastewater conditions.</description>
-      <author>Jian Song, Sheng&#8722;Jie Qian, Wenqiang Yang, Jiali Mu, Jingwei Li, Yaping Liu, Fanfei Sun, Shuwen Yu, Feifei Xu, Xiangen Song, Dehui Deng, Yang&#8208;Gang Wang, Yan Li, Yunjie Ding</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409089</guid>
-    </item>
     <item>
       <title>Platinum&#8208;Ruthenium Bimetallic Nanoparticle Catalysts Synthesized Via Direct Joule Heating for Methanol Fuel Cells</title>
       <link>https://doi.org/10.1002/smll.202403967</link>
@@ -160,11 +100,11 @@
     <item>
       <title>Emerging electrocatalysts for green ammonia production: Recent progress and future outlook</title>
       <link>https://doi.org/10.1016/j.arabjc.2024.105950</link>
-      <description>Sajid Mahmood, Shahid Iqbal, Sajid Mahmood, Muhammad Ammar, Muhammad Javed Iqbal, Ali Bahadur, Nasser S. Awwad, Hala A. Ibrahium, Arabian Journal of Chemistry. None(None)] 2024. https://openalex.org/W4401406586
+      <description>Sajid Mahmood, Shahid Iqbal, Sajid Mahmood, Muhammad Ammar, Muhammad Javed Iqbal, Ali Bahadur, Nasser S. Awwad, Hala A. Ibrahium, Arabian Journal of Chemistry. 17(10)] 2024. https://openalex.org/W4401406586
 
-                No abstract</description>
+                In the Haber-Bosch process (HBp), which uses elevated pressure and temperature to produce more concentration of nitrogen and hydrogen gases, 90% of the 175 million metric tons of NH3 generated worldwide in 2016 were manufactured in this process. According to the road plan for sustainable ammonia production sustainably, using water as a reducing agent is the most effective way to fix nitrogen in close-quarters ambiance. A complete explanation of theoretical and practical work on electrocatalytic nitrogen reduction is provided in this article, with special attention paid to the low selectivity of nitrogen reduction to ammonia in comparison to protons to hydrogen. Since they are essential for accurately achieving high nitrogen production and Faradaic efficiency (FE), their information outlines electrocatalysts, electrolyte selection criteria, and managed experiment design. Under diverse conditions, the evolution of theory and experiment is examined. Finally, feedback is given on this field's present issues and prospects.</description>
       <author>Sajid Mahmood, Shahid Iqbal, Sajid Mahmood, Muhammad Ammar, Muhammad Javed Iqbal, Ali Bahadur, Nasser S. Awwad, Hala A. Ibrahium</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.arabjc.2024.105950</guid>
     </item>
     <item>
@@ -222,7 +162,7 @@
       <link>https://doi.org/10.1039/d4sc03085k</link>
       <description>Yanwen Zhang, Zhaoqun Yao, Yiming Yang, Xingwu Zhai, Feng Zhang, Zhijun Guo, Xinghuan Liu, Bin Yang, Yunxia Liang, Guixian Ge, Xin Jia, Chemical Science. None(None)] 2024. https://openalex.org/W4401430982
 
-                High-throughput calculations show 11 flow directions from *CO to *CHO on DACs. The catalyst disrupting the linear adsorption relationship is linked to multiple, not just one, flow direction.</description>
+                The electrocatalytic carbon dioxide reduction reaction (CO</description>
       <author>Yanwen Zhang, Zhaoqun Yao, Yiming Yang, Xingwu Zhai, Feng Zhang, Zhijun Guo, Xinghuan Liu, Bin Yang, Yunxia Liang, Guixian Ge, Xin Jia</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4sc03085k</guid>
@@ -446,16 +386,6 @@
       <author>Huiyuan Liang, Yubin Xian, Xujing Wang</author>
       <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1442689</guid>
-    </item>
-    <item>
-      <title>First-principles data for solid solution niobium-tantalum-vanadium alloys with body-centered-cubic structures</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2</link>
-      <description>Massimiliano Lupo Pasini, German D. Samolyuk, Markus Eisenbach, Jong Youl Choi, Junqi Yin, Ying Yang, No host. None(None)] 2024. https://openalex.org/W4401335548
-
-                We present four open-source datasets that provide results of density functional theory (DFT) calculations of ground-state properties of refractory solid solution binary alloys niobium-tantalum (NbTa), niobium-vanadium (NbV), tantalum-vanadium (TaV), and ternary alloys NbTaV ordered in body-centered-cubic (BCC) structures with 128 Bravais lattice sites. The first-principles code used to run the calculations is the Vienna Ab-Initio Simulation Package. The calculations have been collected by uniformly sampling chemical compositions across the entire compositional range. For each chemical composition, the calculations have been run for 100 randomized arrangements of the constituents on the BCC lattice sites. This sampling methodology resulted in running DFT simulations for a total of 3,100 randomized atomic configurations over 31 chemical compositions for each of the three binary alloys Nb-Ta, Nb-V, Ta-V, and a total of 10,500 randomized atomic structures over 105 chemical compositions for the ternary alloys Nb-Ta-V. For each atomic configuration, geometry optimization has been performed, and the data released contains information about each step of geometry optimization for each atomic configuration.</description>
-      <author>Massimiliano Lupo Pasini, German D. Samolyuk, Markus Eisenbach, Jong Youl Choi, Junqi Yin, Ying Yang</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2</guid>
     </item>
     <item>
       <title>Spatially Resolved Uncertainties for Machine Learning Potentials</title>

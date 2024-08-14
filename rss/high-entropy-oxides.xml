@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Aug 2024 01:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 01:12:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,16 +16,6 @@
       <author>Yanzhi Wang, Hangjuan He, LV Hao, Fengrui Jia, Ben Liu</author>
       <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-50721-2</guid>
-    </item>
-    <item>
-      <title>Comparative Study of Porous High&#8208;entropy Oxides as Low&#8208;temperature Catalysts for CO2 Methanation</title>
-      <link>https://doi.org/10.1002/ejic.202400476</link>
-      <description>Amy J. Knorpp, Monika Mielniczuk, Marin Nikoli&#263;, Alexander Vogel, Renato Figi, Claudia Schreiner, Andreas Borgschulte, Michael Stuer, European Journal of Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4401333650
-
-                High&#8208;entropy oxides (HEOs) are an emerging class of materials whose compositional complexity has garnered attention because of their tailorable chemistries and unique properties arising from extreme configurational entropy. Solid&#8208;state methods are often employed to synthesize HEOs, but such methods result in poor material properties for catalytic processes, leaving HEOs less studied for catalysis. Here we utilize different wet&#8208;synthesis strategies to produce porous HEOs and investigate their performance in heterogeneous CO2 hydrogenation to methane. Specifically, HEOs were synthesized using hydrothermal, co&#8208;precipitation, and solvothermal methods, resulting in different morphologies like platelets or spheres. Of the tested materials, HEOs with 2&#8208;D platelets derived from hydrothermally&#8208;synthesized high&#8208;entropy layered double hydroxides had superior catalytic performance, especially in low&#8208;temperature regimes (&lt;300&#176;C). K&#8208;edge XANES indicated that metallic sites (Ni0&#8208;Co0) were formed during the reaction, and these metallic sites are dispersed into the HEO matrix which is confirmed by STEM/elemental mapping. This facile synthesis approach allows for realized synergy between the metallic sites and the HEO support, leading to superior performance for CO2 methanation compared to low&#8208;entropy counterparts. Finally, this study illustrates how HEOs offer new avenues of tailorability in terms of the interplay between support, active site and reaction temperatures for heterogeneous catalysis.</description>
-      <author>Amy J. Knorpp, Monika Mielniczuk, Marin Nikoli&#263;, Alexander Vogel, Renato Figi, Claudia Schreiner, Andreas Borgschulte, Michael Stuer</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ejic.202400476</guid>
     </item>
   </channel>
 </rss>

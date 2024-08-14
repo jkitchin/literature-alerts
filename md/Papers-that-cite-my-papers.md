@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Aug 13 01:14:15 2024
+Created on Wed Aug 14 01:12:57 2024
 
-Found 47 results from 2024-08-06 to 2024-08-13
+Found 40 results from 2024-08-07 to 2024-08-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -16,72 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357)
-
-## Colloidal copper nanospheres boost propanol electrosynthesis from CO   
-
-OpenAlex: https://openalex.org/W4401323735    
-Open access: True
-    
-[Min Wang](https://openalex.org/A5100661200), [Anna Loiudice](https://openalex.org/A5046602252), [Enric Ibáñez Alé](https://openalex.org/A5093893762), [Krishna Kumar](https://openalex.org/A5002274234), [Dragos Stoian](https://openalex.org/A5026194866), [Zan Lian](https://openalex.org/A5003157104), [Petru P. Albertini](https://openalex.org/A5043822542), [Ludovic Zaza](https://openalex.org/A5001668263), [Jari Leemans](https://openalex.org/A5072758385), [Núria López](https://openalex.org/A5100605805), [Raffaella Buonsanti](https://openalex.org/A5003246811), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4544481/v1 ([pdf](https://www.researchsquare.com/article/rs-4544481/latest.pdf)).
-    
-Abstract Achieving a carbon neutral manufacturing of chemicals is imperative to accelerate the transition towards a sustainable future. Propanol electrosynthesis from CO electroreduction represents a promising alternative to the current manufacturing of this chemical. Yet, the catalyst features driving propanol formation are poorly understood, which limits further advancement in the performance. Herein, we report on a comprehensive mapping of the sensitivity of the CO electroreduction to the catalyst structure exploiting well-defined copper nanocrystals (NCs) with tunable shape and size synthesized via colloidal chemistry. In addition to clarify the dependence from the exposed surfaces, we discover that spheres uniquely promote n-propanol selectivity, which we explain mostly with strain effects. Driven by this novel insight, we achieve unprecedent n-propanol production via electrosynthesis with a copper catalyst. We demonstrate that colloidal copper nanospheres with a diameter of 4 nm deliver n-propanol faradaic efficiency of 39.6±1.4% at 119±4.2 mA/cm2 production rate, the latter being ten times the current state of the art for copper catalysts.    
-
-    
-
-## Ionic liquid–electrode interface: classification of ions, saturation of layers, and structure-determined potentials   
-
-OpenAlex: https://openalex.org/W4401325023    
-Open access: True
-    
-[Karl Karu](https://openalex.org/A5061171446), [E.R. Nerut](https://openalex.org/A5070789838), [Xueran Tao](https://openalex.org/A5007019024), [Sergei A. Kislenko](https://openalex.org/A5011106912), [Kaija Põhako‐Esko](https://openalex.org/A5027890395), [Iuliia V. Voroshylova](https://openalex.org/A5003958967), [Vladislav Ivaništšev](https://openalex.org/A5083085585), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144829.
-    
-No abstract    
-
-    
-
-## Machine learning driven advancements in catalysis for predicting hydrogen evolution reaction activity   
-
-OpenAlex: https://openalex.org/W4401326351    
-Open access: False
-    
-[Priyanka Sinha](https://openalex.org/A5000668703), [M. V. Jyothirmai](https://openalex.org/A5008388762), [B. Moses Abraham](https://openalex.org/A5068866911), [Jayant K. Singh](https://openalex.org/A5071427213), Materials Chemistry and Physics. None(None)] 2024.https://doi.org/10.1016/j.matchemphys.2024.129805.
-    
-No abstract    
-
-    
-
-## Learnings from Up-Scaling CO2 Capture: Challenges and Experiences with Pilot work   
-
-OpenAlex: https://openalex.org/W4401337693    
-Open access: True
-    
-[Sai Hema Bhavya Vinjarapu](https://openalex.org/A5089279754), [Isaac A. Løge](https://openalex.org/A5069159211), [Randi Neerup](https://openalex.org/A5060839819), [Anders Hellerup Larsen](https://openalex.org/A5041481191), [Valdemar Emil Rasmussen](https://openalex.org/A5088551940), [Jens Kristian Jørsboe](https://openalex.org/A5047548383), [Sebastian Nis Bay Villadsen](https://openalex.org/A5055953431), [Søren Holdt Jensen](https://openalex.org/A5103115969), [Jakob Lindkvist Karlsson](https://openalex.org/A5029804032), [Jannik Kappel](https://openalex.org/A5079865639), [Henrik Lassen](https://openalex.org/A5005991895), [Peter Blinksbjerg](https://openalex.org/A5078582273), [Nicolas von Solms](https://openalex.org/A5058844732), [Philip Loldrup Fosbøl](https://openalex.org/A5071572962), Chemical Engineering Science. None(None)] 2024.https://doi.org/10.1016/j.ces.2024.120576.
-    
-No abstract    
-
-    
-
-## Spglib: a software library for crystal symmetry search   
-
-OpenAlex: https://openalex.org/W4401339223    
-Open access: True
-    
-[Atsushi Togo](https://openalex.org/A5057622973), [K. Shinohara](https://openalex.org/A5061893393), [Isao Tanaka](https://openalex.org/A5042843695), Science and Technology of Advanced Materials Methods. None(None)] 2024.https://doi.org/10.1080/27660400.2024.2384822.
-    
-No abstract    
-
-    
-
-## Nano‐Single‐Atom Heterointerface Engineering for pH‐Universal Electrochemical Nitrate Reduction to Ammonia   
-
-OpenAlex: https://openalex.org/W4401339369    
-Open access: False
-    
-[Jian Song](https://openalex.org/A5100403308), [Sheng−Jie Qian](https://openalex.org/A5047556765), [Wenqiang Yang](https://openalex.org/A5029181893), [Jiali Mu](https://openalex.org/A5074517048), [Jingwei Li](https://openalex.org/A5100416947), [Yaping Liu](https://openalex.org/A5102759116), [Fanfei Sun](https://openalex.org/A5073162955), [Shuwen Yu](https://openalex.org/A5052931336), [Feifei Xu](https://openalex.org/A5061946640), [Xiangen Song](https://openalex.org/A5100571440), [Dehui Deng](https://openalex.org/A5022049240), [Yang‐Gang Wang](https://openalex.org/A5077960687), [Yan Li](https://openalex.org/A5100380263), [Yunjie Ding](https://openalex.org/A5064371893), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202409089.
-    
-Abstract Nano‐single‐atom‐catalysts have the potential to combine the respective advantages of both nano‐catalysts and single‐atom‐catalysts and thus exhibit enhanced performance. Generally, the separation of active sites in space limits the interaction between single atoms and nanoparticles. Heterointerface engineering has the potential to break this limitation. Regretfully, studies on the interface effect between single atoms and nanoparticles are rarely reported. Herein, an unprecedented nano‐single‐atom heterointerface composed of Fe single‐atoms and carbon‐shell‐coated FeP nanoparticles (Fe SAC/FeP@C) is demonstrated as an efficient electrocatalyst for the nitrate reduction process from alkaline to acidic. Compared with typical nano‐single‐atom‐catalysts (Fe SAC/FePO 4 ) and single‐atom‐catalysts (Fe SAC), the constructed Fe SAC/FeP@C heterostructure exhibits dramatically enhanced nitrate‐to‐ammonia performance. Especially in acidic media, the maxmium Faradaic efficiency of ammonia (NH 3 ) can reach 95.6 ± 0.5%, with a maximum NH 3 yield of 36.2 ± 3.1 mg h −1 mg cat −1 (pH = 1.2), which is considerably higher than previously reported. Density functional theory calculations and in situ spectroscopic investigations indicate that the unique charge redistribution at the interface, together with the optimized electronic structure of Fe single‐atoms, strengthens intermediate adsorption and catalytic activity. This work provides a feasible strategy for designing nano‐single‐atom‐catalysts with unique heterointerfaces, as well as valuable insights into nitrate conversion under environmentally relevant wastewater conditions.    
-
-    
 
 ## Platinum‐Ruthenium Bimetallic Nanoparticle Catalysts Synthesized Via Direct Joule Heating for Methanol Fuel Cells   
 
@@ -187,9 +121,9 @@ The development of nanomaterials for energy storage and conversion has always be
 OpenAlex: https://openalex.org/W4401406586    
 Open access: True
     
-[Sajid Mahmood](https://openalex.org/A5037137868), [Shahid Iqbal](https://openalex.org/A5080510826), [Sajid Mahmood](https://openalex.org/A5037137868), [Muhammad Ammar](https://openalex.org/A5022610278), [Muhammad Javed Iqbal](https://openalex.org/A5022077571), [Ali Bahadur](https://openalex.org/A5066297578), [Nasser S. Awwad](https://openalex.org/A5043577597), [Hala A. Ibrahium](https://openalex.org/A5061201872), Arabian Journal of Chemistry. None(None)] 2024.https://doi.org/10.1016/j.arabjc.2024.105950.
+[Sajid Mahmood](https://openalex.org/A5037137868), [Shahid Iqbal](https://openalex.org/A5080510826), [Sajid Mahmood](https://openalex.org/A5037137868), [Muhammad Ammar](https://openalex.org/A5022610278), [Muhammad Javed Iqbal](https://openalex.org/A5022077571), [Ali Bahadur](https://openalex.org/A5066297578), [Nasser S. Awwad](https://openalex.org/A5043577597), [Hala A. Ibrahium](https://openalex.org/A5061201872), Arabian Journal of Chemistry. 17(10)] 2024.https://doi.org/10.1016/j.arabjc.2024.105950.
     
-No abstract    
+In the Haber-Bosch process (HBp), which uses elevated pressure and temperature to produce more concentration of nitrogen and hydrogen gases, 90% of the 175 million metric tons of NH3 generated worldwide in 2016 were manufactured in this process. According to the road plan for sustainable ammonia production sustainably, using water as a reducing agent is the most effective way to fix nitrogen in close-quarters ambiance. A complete explanation of theoretical and practical work on electrocatalytic nitrogen reduction is provided in this article, with special attention paid to the low selectivity of nitrogen reduction to ammonia in comparison to protons to hydrogen. Since they are essential for accurately achieving high nitrogen production and Faradaic efficiency (FE), their information outlines electrocatalysts, electrolyte selection criteria, and managed experiment design. Under diverse conditions, the evolution of theory and experiment is examined. Finally, feedback is given on this field's present issues and prospects.    
 
     
 
@@ -255,7 +189,7 @@ Open access: True
     
 [Yanwen Zhang](https://openalex.org/A5100329827), [Zhaoqun Yao](https://openalex.org/A5060867417), [Yiming Yang](https://openalex.org/A5104173743), [Xingwu Zhai](https://openalex.org/A5077400199), [Feng Zhang](https://openalex.org/A5100401293), [Zhijun Guo](https://openalex.org/A5014584400), [Xinghuan Liu](https://openalex.org/A5019992212), [Bin Yang](https://openalex.org/A5039611354), [Yunxia Liang](https://openalex.org/A5102874682), [Guixian Ge](https://openalex.org/A5019544231), [Xin Jia](https://openalex.org/A5044619703), Chemical Science. None(None)] 2024.https://doi.org/10.1039/d4sc03085k.
     
-High-throughput calculations show 11 flow directions from *CO to *CHO on DACs. The catalyst disrupting the linear adsorption relationship is linked to multiple, not just one, flow direction.    
+The electrocatalytic carbon dioxide reduction reaction (CO    
 
     
 
@@ -498,17 +432,6 @@ Open access: True
 [Huiyuan Liang](https://openalex.org/A5101210613), [Yubin Xian](https://openalex.org/A5066425552), [Xujing Wang](https://openalex.org/A5102788743), Frontiers in Chemistry. 12(None)] 2024.https://doi.org/10.3389/fchem.2024.1442689.
     
 Single-atom nanozymes (SAzymes) represent a cutting-edge advancement in nanomaterials, merging the high catalytic efficiency of natural enzymes with the benefits of atomic economy. Traditionally, natural enzymes exhibit high specificity and efficiency, but their stability are limited by environmental conditions and production costs. Here we show that SAzymes, with their large specific surface area and high atomic utilization, achieve superior catalytic activity. However, their high dispersibility poses stability challenges. Our review focuses on recent structural and preparative advancements aimed at enhancing the catalytic specificity and stability of SAzymes. Compared to previous nanozymes, SAzymes demonstrate significantly improved performance in biomedical applications, particularly in tumor medicine. This progress positions SAzymes as a promising tool for future cancer treatment strategies, integrating the robustness of inorganic materials with the specificity of biological systems. The development and application of SAzymes could revolutionize the field of biocatalysis, offering a stable, cost-effective alternative to natural enzymes.    
-
-    
-
-## First-principles data for solid solution niobium-tantalum-vanadium alloys with body-centered-cubic structures   
-
-OpenAlex: https://openalex.org/W4401335548    
-Open access: True
-    
-[Massimiliano Lupo Pasini](https://openalex.org/A5019108731), [German D. Samolyuk](https://openalex.org/A5049071685), [Markus Eisenbach](https://openalex.org/A5066258147), [Jong Youl Choi](https://openalex.org/A5054451484), [Junqi Yin](https://openalex.org/A5051882926), [Ying Yang](https://openalex.org/A5010692490), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-qpwsg-v2 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/66aa8490c9c6a5c07a9f6106/original/first-principles-data-for-solid-solution-niobium-tantalum-vanadium-alloys-with-body-centered-cubic-structures.pdf)).
-    
-We present four open-source datasets that provide results of density functional theory (DFT) calculations of ground-state properties of refractory solid solution binary alloys niobium-tantalum (NbTa), niobium-vanadium (NbV), tantalum-vanadium (TaV), and ternary alloys NbTaV ordered in body-centered-cubic (BCC) structures with 128 Bravais lattice sites. The first-principles code used to run the calculations is the Vienna Ab-Initio Simulation Package. The calculations have been collected by uniformly sampling chemical compositions across the entire compositional range. For each chemical composition, the calculations have been run for 100 randomized arrangements of the constituents on the BCC lattice sites. This sampling methodology resulted in running DFT simulations for a total of 3,100 randomized atomic configurations over 31 chemical compositions for each of the three binary alloys Nb-Ta, Nb-V, Ta-V, and a total of 10,500 randomized atomic structures over 105 chemical compositions for the ternary alloys Nb-Ta-V. For each atomic configuration, geometry optimization has been performed, and the data released contains information about each step of geometry optimization for each atomic configuration.    
 
     
 
