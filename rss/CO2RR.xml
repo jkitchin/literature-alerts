@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Aug 2024 01:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 01:09:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ionic Liquids Functionalized Copper Catalytic Systems for Electrocatalytic Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1002/cctc.202401049</link>
-      <description>Zhengyi Fu, Jingfang Zhang, Haonan Wu, Yanan Gao, Hui Hu, Lijuan Shi, Qun Yi, ChemCatChem. None(None)] 2024. https://openalex.org/W4401366230
-
-                The extensive combustion of fossil fuels results in excessive release of carbon dioxide (CO2), causing a global environmental crisis. It is imperative to develop sustainable methods for converting CO2 into renewable energy sources. Electrochemical reduction of CO2 (CO2RR) offers the potential to generate valuable chemicals, including C1 products (e.g., carbon monoxide, methane, etc.) and C2+ products (e.g., ethene, ethanol, acetic acid, propyl alcohol, etc.). Copper&#8208;based (Cu&#8208;based) catalysts show promise for producing value&#8208;added C2+ products, but they face challenges like low selectivity and stability. The catalytic performances of Cu&#8208;based catalysts can be promoted through electronic structure adjustment, selective crystal face exposure, as well as molecular additive approaches. Ionic liquids (ILs), known for their strong CO2 adsorption capacity, adjustable hydrophobicity, and wide chemical window, hold significant promise for addressing the current challenges associated with Cu&#8208;based catalysts. This review provides a comprehensive overview of the structural characterization and catalytic mechanisms of ILs used in Cu&#8208;based CO2RR catalytic systems. Additionally, it offers suggestions for future research avenues regarding IL&#8208;functionalized Cu catalysts.</description>
-      <author>Zhengyi Fu, Jingfang Zhang, Haonan Wu, Yanan Gao, Hui Hu, Lijuan Shi, Qun Yi</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401049</guid>
-    </item>
     <item>
       <title>Covalent Organic Frameworks for Photocatalytic Reduction of Carbon Dioxide: A Review</title>
       <link>https://doi.org/10.1021/acsnano.4c06783</link>
@@ -78,16 +68,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.110330</guid>
     </item>
     <item>
-      <title>Synergistic reduction of air pollutants and carbon dioxide emissions in Shanxi Province, China from 2013 to 2020</title>
-      <link>https://doi.org/10.1016/j.scitotenv.2024.175342</link>
-      <description>Li&#8208;Ling Wu, Shida Sun, G. M. Zhang, Zimu Jia, Yuyun Liu, Chenxi Xu, Mengjie Guo, Luyao Zhang, C. Cai, Runcao Zhang, Jialin Zheng, Wenjie He, Jun Yu, Bo Yu, Kebin He, The Science of The Total Environment. None(None)] 2024. https://openalex.org/W4401351327
-
-                Synergistic reduction of air pollutants and carbon dioxide (CO</description>
-      <author>Li&#8208;Ling Wu, Shida Sun, G. M. Zhang, Zimu Jia, Yuyun Liu, Chenxi Xu, Mengjie Guo, Luyao Zhang, C. Cai, Runcao Zhang, Jialin Zheng, Wenjie He, Jun Yu, Bo Yu, Kebin He</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.scitotenv.2024.175342</guid>
-    </item>
-    <item>
       <title>Electrocatalysts for Urea Synthesis from CO2 and Nitrogenous Species: from CO2 and N2/NOx Reduction to urea synthesis</title>
       <link>https://doi.org/10.1002/cssc.202401333</link>
       <description>Li Chun, Qiuji Zhu, Chaojie Song, Yimin Zeng, Ying Zheng, ChemSusChem. None(None)] 2024. https://openalex.org/W4401452383
@@ -116,26 +96,6 @@
       <author>Stefan Lindner</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s38313-024-1954-9</guid>
-    </item>
-    <item>
-      <title>Electrolyte manipulation on Cu-based electrocatalysts for electrochemical CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.07.055</link>
-      <description>Hongyao Zhou, Wanlong Xi, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4401358412
-
-                No abstract</description>
-      <author>Hongyao Zhou, Wanlong Xi, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.07.055</guid>
-    </item>
-    <item>
-      <title>Reduction of Non-CO2 Greenhouse Gas Emissions by Catalytic Processes</title>
-      <link>https://doi.org/10.1007/978-1-4614-6431-0_49-4</link>
-      <description>Gabriele Centi, Siglinda Perathoner, Springer eBooks. None(None)] 2024. https://openalex.org/W4401366802
-
-                No abstract</description>
-      <author>Gabriele Centi, Siglinda Perathoner</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-1-4614-6431-0_49-4</guid>
     </item>
     <item>
       <title>Study on the electrocatalytic CO2 reduction performance of shape-controlled bismuth nanowires</title>
@@ -168,66 +128,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202402477</guid>
     </item>
     <item>
-      <title>Review for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v2/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4401352454
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v2/review1</guid>
-    </item>
-    <item>
-      <title>Review for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v2/review2</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4401353277
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v2/review2</guid>
-    </item>
-    <item>
-      <title>Ag/Cu Foam Catalyst for Selective Reduction of Co2 to Ch3oh at Low Potential</title>
-      <link>https://doi.org/10.2139/ssrn.4916909</link>
-      <description>Xiaolong Deng, Renfeng Nie, H. Yang, Hongwei Chen, Jie Yang, Meijuan Lu, Kaiping Peng, Xiaoyu Zhou, Chen Yang, Juan Xie, Hu Wang, No host. None(None)] 2024. https://openalex.org/W4401378139
-
-                No abstract</description>
-      <author>Xiaolong Deng, Renfeng Nie, H. Yang, Hongwei Chen, Jie Yang, Meijuan Lu, Kaiping Peng, Xiaoyu Zhou, Chen Yang, Juan Xie, Hu Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4916909</guid>
-    </item>
-    <item>
-      <title>Review for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v1/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4401352451
-
-                No abstract</description>
-      <author/>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v1/review1</guid>
-    </item>
-    <item>
-      <title>Review for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v1/review2</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4401353249
-
-                No abstract</description>
-      <author/>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v1/review2</guid>
-    </item>
-    <item>
-      <title>Review for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v1/review3</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4401353499
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v1/review3</guid>
-    </item>
-    <item>
       <title>A high-performance watermelon skin ion-solvating membrane for electrochemical CO2 reduction</title>
       <link>https://doi.org/10.1038/s41467-024-51139-6</link>
       <description>Qing-Lu Liu, Tang Tang, Zhimei Tian, Shiwen Ding, Linqin Wang, Dexin Chen, Zhiwei Wang, Wentao Zheng, Husileng Lee, Xingyu Lu, Xiaohe Miao, Lin Liu, Licheng Sun, Nature Communications. 15(1)] 2024. https://openalex.org/W4401389316
@@ -248,54 +148,14 @@
       <guid isPermaLink="true">https://doi.org/10.69997/sct.155078</guid>
     </item>
     <item>
-      <title>Decision letter for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v1/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4401352985
+      <title>Reductive&#8208;Transmetalation Reactions of ZnR2/(AlCp*)4 Heterobimetallic Combinations and Application towards CO2 Insertion</title>
+      <link>https://doi.org/10.1002/ejic.202400418</link>
+      <description>Fabian Dankert, Eva Hevia, European Journal of Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4401506794
 
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v1/decision1</guid>
-    </item>
-    <item>
-      <title>Carbon-based metal-oxides and MOFs for efficient CO2 detection/reduction to chemical/fuels</title>
-      <link>https://doi.org/10.1016/j.mtsust.2024.100952</link>
-      <description>Deepak Kumar, Pashupati Pratap Neelratan, Anshika Gupta, Neeru Sharma, Manisha Sharma, Sangeeta Shukla, Satendra Pal Singh, Jong&#8208;Sung Yu, Ajeet Kaushik, Sanjeev Kumar Sharma, Materials Today Sustainability. None(None)] 2024. https://openalex.org/W4401361304
-
-                No abstract</description>
-      <author>Deepak Kumar, Pashupati Pratap Neelratan, Anshika Gupta, Neeru Sharma, Manisha Sharma, Sangeeta Shukla, Satendra Pal Singh, Jong&#8208;Sung Yu, Ajeet Kaushik, Sanjeev Kumar Sharma</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtsust.2024.100952</guid>
-    </item>
-    <item>
-      <title>Decision letter for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v2/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4401353005
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v2/decision1</guid>
-    </item>
-    <item>
-      <title>Author response for "Catalytic reduction of CO2 with 4e: formaldehyde, acetal synthesis and complex transformations"</title>
-      <link>https://doi.org/10.1039/d4sc02888k/v2/response1</link>
-      <description>Sarah Desmons, Julien Bonin, Marc Robert, S&#233;bastien Bontemps, No host. None(None)] 2024. https://openalex.org/W4401353001
-
-                No abstract</description>
-      <author>Sarah Desmons, Julien Bonin, Marc Robert, S&#233;bastien Bontemps</author>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02888k/v2/response1</guid>
-    </item>
-    <item>
-      <title>Efficient Dimension Reduction of Complex Three-dimensional CO2 Saturation using Deep Learning Models</title>
-      <link>https://doi.org/10.2172/2426378</link>
-      <description>Hongsheng Wang, Seyyed A. Hosseini, No host. None(None)] 2024. https://openalex.org/W4401437836
-
-                No abstract</description>
-      <author>Hongsheng Wang, Seyyed A. Hosseini</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2426378</guid>
+                Organo&#8208;aluminum compounds are usually derived via salt metathesis reactions starting from aluminum halides and s&#8208;block organometallics such as organolithiums or Grignard reagents. Herein, an alternative route is reported using an Cp*Al(I)/Zn(II)R2 (Cp*= C5Me5; R = aryl) system which facilitates the formation of a range of halide and donor free heteroleptic triorgano&#8208;alanes of the general formula [Al(Cp*)R2]. Exposing the obtained alanes to an atmosphere of CO2 enables for the selective insertion of CO2 in their AlCp* moieties. State of the art quantum chemical calculations support experimental observations providing mechanistic insights on the observed reactivity of the [Al(Cp*)R2] complexes towards this unsaturated organic molecule.</description>
+      <author>Fabian Dankert, Eva Hevia</author>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ejic.202400418</guid>
     </item>
     <item>
       <title>Mechanistic insight into electrocatalytic CO2 reduction to formate by the iron(I) porphyrin complex: A DFT study</title>
@@ -308,14 +168,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114430</guid>
     </item>
     <item>
-      <title>In situ post-modification of substoichiometric 2D conjugated MOFs to boost ethylene selectivity in electrocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1039/d4ta04011b</link>
-      <description>Jia Li, Jianning Lu, Shuai Li, Lu Dai, Kai Wang, Pengfei Li, Journal of Materials Chemistry A. None(None)] 2024. https://openalex.org/W4401377717
+      <title>Efficient Dimension Reduction of Complex Three-dimensional CO2 Saturation using Deep Learning Models</title>
+      <link>https://doi.org/10.2172/2426378</link>
+      <description>Hongsheng Wang, Seyyed A. Hosseini, No host. None(None)] 2024. https://openalex.org/W4401437836
 
-                2D conjugated MOFs (2D c-MOFs) have attracted significant interest in electrocatalysis due to their intrinsic electrical conductivity. Their catalytic performance heavily relied on the metal centers and structures of highly...</description>
-      <author>Jia Li, Jianning Lu, Shuai Li, Lu Dai, Kai Wang, Pengfei Li</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta04011b</guid>
+                No abstract</description>
+      <author>Hongsheng Wang, Seyyed A. Hosseini</author>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2426378</guid>
     </item>
     <item>
       <title>Altering electronic states of Cu sites in Covalent organic frameworks for synthesis of formate via CO2 reduction</title>
@@ -428,16 +288,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401057</guid>
     </item>
     <item>
-      <title>Corrigendum to &#8220;SEWGS integration in a direct reduction steelmaking process for CO2 mitigation&#8221; [International Journal of Greenhouse Gas Control, Volume 130 (2023), 103991]</title>
-      <link>https://doi.org/10.1016/j.ijggc.2024.104203</link>
-      <description>Nicola Zecca, P.D. Cobden, Leonie L&#252;cking, Giampaolo Manzolini, International journal of greenhouse gas control. None(None)] 2024. https://openalex.org/W4401354476
-
-                No abstract</description>
-      <author>Nicola Zecca, P.D. Cobden, Leonie L&#252;cking, Giampaolo Manzolini</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijggc.2024.104203</guid>
-    </item>
-    <item>
       <title>Does economic growth targets setting lead to carbon emissions? An empirical study from China</title>
       <link>https://doi.org/10.1016/j.jenvman.2024.122084</link>
       <description>Beibei Shi, Guiyi Zhu, Nan Li, Journal of Environmental Management. 368(None)] 2024. https://openalex.org/W4401408719
@@ -448,16 +298,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.122084</guid>
     </item>
     <item>
-      <title>Design and Optimization of Methanol Production using PyBOUND</title>
-      <link>https://doi.org/10.69997/sct.194568</link>
-      <description>Prapatsorn Borisut, Bianca Williams, Aroonsri Nuchitprasittichai, Selen Cremaschi, No host. 3(None)] 2024. https://openalex.org/W4401442238
-
-                In this paper, we study the design optimization of methanol production with the goal of minimizing methanol production cost. One challenge of methanol production via carbon dioxide (CO2) hydrogenation is the reduction of operating costs. The simulation of methanol production is implemented within the Aspen HYSYS simulator. The feeds are pure hydrogen and captured CO2. The process simulation involves a single reactor and incorporates recycling at a ratio of 0.995. The methanol production cost is determined using an economic analysis. The cost includes capital and operating costs, which are determined through the equations and data from the capital equipment-costing program. The decision variables are the pressure and temperature of the reactor contents. The optimization problem is solved using a derivative-free algorithm, pyBOUND, a Python-based black-box model optimization algorithm that uses random forests (RFs) and multivariate adaptive regression splines (MARS). The predicted minimum methanol production cost by pyBOUND is $1396.56 per tonne of methanol, which corresponds to the pressure of 68.82 bar and temperature of 192.23&#65533;C while the actual cost is $1393.95 per tonne of methanol at these conditions. The cost breakdown of methanol production is 75% hydrogen price, 11% utility cost, 8% capital cost, 5% carbon dioxide price, and 1% operating cost.</description>
-      <author>Prapatsorn Borisut, Bianca Williams, Aroonsri Nuchitprasittichai, Selen Cremaschi</author>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.69997/sct.194568</guid>
-    </item>
-    <item>
       <title>Assessment of Power Generation Systems With and Without Carbon Capture on Offshore Hydrocarbon Processing Facilities</title>
       <link>https://doi.org/10.1115/omae2024-135750</link>
       <description>Jaime HuiChoo Tan, C. Lee, Ravi Kumar Mantry, No host. None(None)] 2024. https://openalex.org/W4401458469
@@ -466,6 +306,16 @@
       <author>Jaime HuiChoo Tan, C. Lee, Ravi Kumar Mantry</author>
       <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1115/omae2024-135750</guid>
+    </item>
+    <item>
+      <title>Design and Optimization of Methanol Production using PyBOUND</title>
+      <link>https://doi.org/10.69997/sct.194568</link>
+      <description>Prapatsorn Borisut, Bianca Williams, Aroonsri Nuchitprasittichai, Selen Cremaschi, No host. 3(None)] 2024. https://openalex.org/W4401442238
+
+                In this paper, we study the design optimization of methanol production with the goal of minimizing methanol production cost. One challenge of methanol production via carbon dioxide (CO2) hydrogenation is the reduction of operating costs. The simulation of methanol production is implemented within the Aspen HYSYS simulator. The feeds are pure hydrogen and captured CO2. The process simulation involves a single reactor and incorporates recycling at a ratio of 0.995. The methanol production cost is determined using an economic analysis. The cost includes capital and operating costs, which are determined through the equations and data from the capital equipment-costing program. The decision variables are the pressure and temperature of the reactor contents. The optimization problem is solved using a derivative-free algorithm, pyBOUND, a Python-based black-box model optimization algorithm that uses random forests (RFs) and multivariate adaptive regression splines (MARS). The predicted minimum methanol production cost by pyBOUND is $1396.56 per tonne of methanol, which corresponds to the pressure of 68.82 bar and temperature of 192.23&#65533;C while the actual cost is $1393.95 per tonne of methanol at these conditions. The cost breakdown of methanol production is 75% hydrogen price, 11% utility cost, 8% capital cost, 5% carbon dioxide price, and 1% operating cost.</description>
+      <author>Prapatsorn Borisut, Bianca Williams, Aroonsri Nuchitprasittichai, Selen Cremaschi</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.194568</guid>
     </item>
     <item>
       <title>Experimental Study on Shale Mechanical Properties Interacted with Supercritical Carbon Dioxide and Brine</title>
@@ -498,16 +348,6 @@
       <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0671</guid>
     </item>
     <item>
-      <title>Stability Study of Tight Sandstone Reservoirs During CO2 Dynamic Storage Process</title>
-      <link>https://doi.org/10.56952/arma-2024-0142</link>
-      <description>Yuting He, Yuetian Liu, Jingru Wang, Jingpeng Li, Peiying Zhang, Rukuan Chai, Pingtian Fan, No host. None(None)] 2024. https://openalex.org/W4401479289
-
-                ABSTRACT: The tight sandstone reservoirs present a viable option for geological CO2 storage. The stability and safety of the reservoir rock are fundamental for long-term CO2 storage. However, the injection may lead to interactions between H2O, CO2, and rock, potentially impacting the mineral composition and physical properties of the reservoir. This ultimately leads to a decrease in the mechanical properties of the rock and disrupts the stability of the reservoir in high-pressure environments. In this study, rock mechanics experiments, nuclear magnetic resonance (NMR) experiments, and scanning electron microscopy (SEM) experiments were carried out to investigate the changes in mechanical properties, pore size, and microstructure of cores with different mineral compositions treated with aqueous carbonate solution under different confining pressures, in order to analyze the effects of the dynamic CO2 storage process on reservoir stability. The results show that the presence of CO2 under confining pressure leads to a decrease in rock strength. Carbonic acid solution can effectively dissolve feldspars and clay minerals in the rock composition, causing changes in pore structure and leading to a decrease in rock strength. The study aims to provide insights and recommendations for developing oil and gas extraction and carbon sequestration. 1. INTRODUCTION Carbon dioxide geological storage technology is one of the effective ways to mitigate the global warming trend, and its basic principle is to inject captured carbon dioxide into deep underground rock pores for long-term isolation and fixation (Chen et al., 2023; Farquhar et al., 2015). Among the many potential storage media, tight sandstone reservoirs have received great attention from scientists and industry for their complex pore structure and high storage capacity (Bachu et al., 1994; Michael et al., 2009). However, CO2 injection affects the porosity, permeability, and mechanical properties of reservoirs, which may cause reservoir damage and reduced storage efficiency (Yu et al., 2012). For example, CO2 reacts chemically with minerals in the rock, which may lead to dissolution or precipitation of minerals, and thus change the physical structure of the rock (Fischer et al., 2010). The physical structure of the rock may be altered. Therefore, the mechanical response of rocks during CO2 injection must be thoroughly studied to ensure the safety and efficiency of the storage process. In recent years, in the field of CO2 geological storage research, scholars have carried out a large number of experimental and simulation studies, aiming to explore the mechanism of CO2 interaction with reservoir rocks and trying to predict and optimize the reservoir performance (Vafaie et al., 2023). The CO2 has different dissolution capacities for different minerals, leading to changes in the microstructure and mechanical properties of mineral surfaces, which indirectly leads to the decline of rock mechanical properties, thus affecting the production of unconventional oil and gas and reservoir stability (Vogt et al., 2014; Zhang et al., 2020; Zhang et al., 2022). Among various minerals, carbonate minerals (e.g., calcite and dolomite) have the highest solubility and the fastest reaction rate, while silicate minerals such as feldspar and quartz have lower solubility and slower reaction rate (Memon et al., 2022; Ranjith et al., 2019; Xing et al., 2019). Under the combined effect of CO2, the compressive strength and modulus of elasticity of the rock are significantly reduced (Huang et al., 2020; Rathnaweera et al., 2015; Zhou et al., 2024). The geological sequestration of carbon dioxide is a dynamic process, with the continuous injection of fluids, the formation pressure gradually increases. In fractured and low-permeability formations, the physical properties of rocks are affected by the increase in pore pressure, and their physical properties change significantly, which affects reservoir capacity (D&#225;vila et al., 2017; Pavan &amp; Govindarajan, 2023; Vialle &amp; Vanorio, 2011). Zhao et al. carried out CO2 in brine solution saturated dense sandstone reservoir core samples for oil repulsion and explained the increase in porosity and permeability due to the increase in pore pressure (Zhao et al., 2021). Liteanu et al. investigated the effect of supercritical CO2 on rock mechanics, where carbonic acid solution led to stress corrosion fracturing and strength reduction of rocks (Liteanu et al., 2013).</description>
-      <author>Yuting He, Yuetian Liu, Jingru Wang, Jingpeng Li, Peiying Zhang, Rukuan Chai, Pingtian Fan</author>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0142</guid>
-    </item>
-    <item>
       <title>Parameter Estimation of Breakthrough Curve Models in the Adsorption Process of H2S and CO2 Using the Markov Chain Monte Carlo Method</title>
       <link>https://doi.org/10.3390/app14166956</link>
       <description>Haianny Beatriz Saraiva Lima, Ana Paula Souza de Sousa, Wellington Betencurte da Silva, Deibson Silva da Costa, Emerson Cardoso Rodrigues, Diego Cardoso Estumano, Applied Sciences. 14(16)] 2024. https://openalex.org/W4401410408
@@ -516,6 +356,16 @@
       <author>Haianny Beatriz Saraiva Lima, Ana Paula Souza de Sousa, Wellington Betencurte da Silva, Deibson Silva da Costa, Emerson Cardoso Rodrigues, Diego Cardoso Estumano</author>
       <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/app14166956</guid>
+    </item>
+    <item>
+      <title>Stability Study of Tight Sandstone Reservoirs During CO2 Dynamic Storage Process</title>
+      <link>https://doi.org/10.56952/arma-2024-0142</link>
+      <description>Yuting He, Yuetian Liu, Jingru Wang, Jingpeng Li, Peiying Zhang, Rukuan Chai, Pingtian Fan, No host. None(None)] 2024. https://openalex.org/W4401479289
+
+                ABSTRACT: The tight sandstone reservoirs present a viable option for geological CO2 storage. The stability and safety of the reservoir rock are fundamental for long-term CO2 storage. However, the injection may lead to interactions between H2O, CO2, and rock, potentially impacting the mineral composition and physical properties of the reservoir. This ultimately leads to a decrease in the mechanical properties of the rock and disrupts the stability of the reservoir in high-pressure environments. In this study, rock mechanics experiments, nuclear magnetic resonance (NMR) experiments, and scanning electron microscopy (SEM) experiments were carried out to investigate the changes in mechanical properties, pore size, and microstructure of cores with different mineral compositions treated with aqueous carbonate solution under different confining pressures, in order to analyze the effects of the dynamic CO2 storage process on reservoir stability. The results show that the presence of CO2 under confining pressure leads to a decrease in rock strength. Carbonic acid solution can effectively dissolve feldspars and clay minerals in the rock composition, causing changes in pore structure and leading to a decrease in rock strength. The study aims to provide insights and recommendations for developing oil and gas extraction and carbon sequestration. 1. INTRODUCTION Carbon dioxide geological storage technology is one of the effective ways to mitigate the global warming trend, and its basic principle is to inject captured carbon dioxide into deep underground rock pores for long-term isolation and fixation (Chen et al., 2023; Farquhar et al., 2015). Among the many potential storage media, tight sandstone reservoirs have received great attention from scientists and industry for their complex pore structure and high storage capacity (Bachu et al., 1994; Michael et al., 2009). However, CO2 injection affects the porosity, permeability, and mechanical properties of reservoirs, which may cause reservoir damage and reduced storage efficiency (Yu et al., 2012). For example, CO2 reacts chemically with minerals in the rock, which may lead to dissolution or precipitation of minerals, and thus change the physical structure of the rock (Fischer et al., 2010). The physical structure of the rock may be altered. Therefore, the mechanical response of rocks during CO2 injection must be thoroughly studied to ensure the safety and efficiency of the storage process. In recent years, in the field of CO2 geological storage research, scholars have carried out a large number of experimental and simulation studies, aiming to explore the mechanism of CO2 interaction with reservoir rocks and trying to predict and optimize the reservoir performance (Vafaie et al., 2023). The CO2 has different dissolution capacities for different minerals, leading to changes in the microstructure and mechanical properties of mineral surfaces, which indirectly leads to the decline of rock mechanical properties, thus affecting the production of unconventional oil and gas and reservoir stability (Vogt et al., 2014; Zhang et al., 2020; Zhang et al., 2022). Among various minerals, carbonate minerals (e.g., calcite and dolomite) have the highest solubility and the fastest reaction rate, while silicate minerals such as feldspar and quartz have lower solubility and slower reaction rate (Memon et al., 2022; Ranjith et al., 2019; Xing et al., 2019). Under the combined effect of CO2, the compressive strength and modulus of elasticity of the rock are significantly reduced (Huang et al., 2020; Rathnaweera et al., 2015; Zhou et al., 2024). The geological sequestration of carbon dioxide is a dynamic process, with the continuous injection of fluids, the formation pressure gradually increases. In fractured and low-permeability formations, the physical properties of rocks are affected by the increase in pore pressure, and their physical properties change significantly, which affects reservoir capacity (D&#225;vila et al., 2017; Pavan &amp; Govindarajan, 2023; Vialle &amp; Vanorio, 2011). Zhao et al. carried out CO2 in brine solution saturated dense sandstone reservoir core samples for oil repulsion and explained the increase in porosity and permeability due to the increase in pore pressure (Zhao et al., 2021). Liteanu et al. investigated the effect of supercritical CO2 on rock mechanics, where carbonic acid solution led to stress corrosion fracturing and strength reduction of rocks (Liteanu et al., 2013).</description>
+      <author>Yuting He, Yuetian Liu, Jingru Wang, Jingpeng Li, Peiying Zhang, Rukuan Chai, Pingtian Fan</author>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0142</guid>
     </item>
     <item>
       <title>Machine Learning Application for CCUS Carbon Storage: Fracture Analysis and Mapping in the Illinois Basin</title>
@@ -558,14 +408,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202405157</guid>
     </item>
     <item>
-      <title>Molecular enhancement of Cu-based catalysts for CO&lt;sub&gt;2&lt;/sub&gt; electroreduction</title>
-      <link>https://doi.org/10.1039/d4cc02619e</link>
-      <description>Haiqiang Luo, Bo Li, Jian&#8208;Gong Ma, Peng Cheng, Chemical Communications. None(None)] 2024. https://openalex.org/W4401375322
+      <title>Thermodynamic Modeling of Carbonation of Blended Cements for Wellbore Integrity</title>
+      <link>https://doi.org/10.56952/arma-2024-1110</link>
+      <description>Farzana Rahman, Raissa Douglas Ferron, No host. None(None)] 2024. https://openalex.org/W4401480260
 
-                The electrochemical carbon dioxide reduction reaction (eCO</description>
-      <author>Haiqiang Luo, Bo Li, Jian&#8208;Gong Ma, Peng Cheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc02619e</guid>
+                ABSTRACT: Carbon capture and storage (CCS) holds promise for mitigating global greenhouse gas emissions by capturing carbon dioxide (CO2) from industrial sources and storing it in deep geological formations. However, the potential impacts of CCS on oil well cements, critical components for wellbore integrity, demand careful evaluation. These cements are employed in primary, remedial cementing and plugging and abandonment operations of oil and gas wells. Alteration of cement hydration products via carbonation poses threat to wellbore integrity since it leads to leaching of cement matrix. Although carbonation of Portland cement is an inevitable process due to its favorable thermodynamic conditions, its negative impacts can be mitigated by optimizing the chemical composition of blended cements, tailored to specific thermodynamic environments. These blended cements incorporate supplementary cementitious materials (SCMS), such as silica, calcined clay, limestone, fly ash etc, to promote pozzolanic reactions. These pozzolanic reactions in blended systems produce chemically resistant hydration products. These hydration products differ from those of neat Portland cement due to the blend's initial lower calcium-to-silica (C/S) ratio. Blending cements with a low C/S ratio have been shown to produce hydration products that are less susceptible to CO2 attack. This study investigates the carbonation behavior of blended cements using thermodynamic modeling. Predicted carbonated phase assemblages indicate blended cements with SCMs are expected to provide wellbore integrity in the long run under static conditions. Thermodynamic modeling of neat and blended cements will provide us with insight to understand the progress of carbonation and the effectiveness of SCMs in blended cements for improving carbonation resistance. 1. INTRODUCTION Recent years have seen a spike in global interest to reduce carbon footprint in hopes of mitigating climate change. More actions are being taken by global society towards a low carbon future. Keeping that in mind, the energy industry is adapting to the emerging needs of the 21st century by means of effective sustainable practices and development. Oil and gas wells require high temperature and pressure (HTHP) resistant cement sheath that provides structural integrity and zonal isolation to these wells. At the end of their service life, these geothermal wells require plugging and abandonment (P&amp;A) in the form of cement sealant to prevent hydrocarbon leakage. It is estimated that over 2 million of unplugged abandoned wells in U.S. are leaking pollutants such as methane into groundwater reservoir, sea, and ocean, causing severe environmental pollution (Marcacci, 2020). Thus, advanced cement performance is required for geothermal cementing to mitigate issues related to leaky wellbore (both active and abandoned). Additionally, cement production itself is a carbon intensive process, which accounts for at least 8% of global CO2 emission. The cement industry needs to cut down its emission by at least 16% by 2030 to comply with the Paris Agreement (Tigue, 2022). Although concrete construction is considered as an avenue for such a reduction, one area that is overlooked is the cement used in the wellbores.</description>
+      <author>Farzana Rahman, Raissa Douglas Ferron</author>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-1110</guid>
     </item>
     <item>
       <title>Breaking the scaling relations of effective CO&lt;sub&gt;2&lt;/sub&gt; electrochemical reduction in diatomic catalysts by adjusting the flow direction of intermediate structures</title>
@@ -578,14 +428,14 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4sc03085k</guid>
     </item>
     <item>
-      <title>Thermodynamic Modeling of Carbonation of Blended Cements for Wellbore Integrity</title>
-      <link>https://doi.org/10.56952/arma-2024-1110</link>
-      <description>Farzana Rahman, Raissa Douglas Ferron, No host. None(None)] 2024. https://openalex.org/W4401480260
+      <title>Thermal Contribution in Fault Stability Assessment During Fluid Injection: Improvement of the Analytical Probabilistic Approach of an In-House Tool</title>
+      <link>https://doi.org/10.56952/arma-2024-0330</link>
+      <description>Stefania Petroselli, A. Stiz, M. Brignoli, S. Monaco, F. Marton, D. Grilli, Guglielmo Luigi Daniele Facchi, F. Bottazzi, Stefano Mantica, No host. None(None)] 2024. https://openalex.org/W4401479448
 
-                ABSTRACT: Carbon capture and storage (CCS) holds promise for mitigating global greenhouse gas emissions by capturing carbon dioxide (CO2) from industrial sources and storing it in deep geological formations. However, the potential impacts of CCS on oil well cements, critical components for wellbore integrity, demand careful evaluation. These cements are employed in primary, remedial cementing and plugging and abandonment operations of oil and gas wells. Alteration of cement hydration products via carbonation poses threat to wellbore integrity since it leads to leaching of cement matrix. Although carbonation of Portland cement is an inevitable process due to its favorable thermodynamic conditions, its negative impacts can be mitigated by optimizing the chemical composition of blended cements, tailored to specific thermodynamic environments. These blended cements incorporate supplementary cementitious materials (SCMS), such as silica, calcined clay, limestone, fly ash etc, to promote pozzolanic reactions. These pozzolanic reactions in blended systems produce chemically resistant hydration products. These hydration products differ from those of neat Portland cement due to the blend's initial lower calcium-to-silica (C/S) ratio. Blending cements with a low C/S ratio have been shown to produce hydration products that are less susceptible to CO2 attack. This study investigates the carbonation behavior of blended cements using thermodynamic modeling. Predicted carbonated phase assemblages indicate blended cements with SCMs are expected to provide wellbore integrity in the long run under static conditions. Thermodynamic modeling of neat and blended cements will provide us with insight to understand the progress of carbonation and the effectiveness of SCMs in blended cements for improving carbonation resistance. 1. INTRODUCTION Recent years have seen a spike in global interest to reduce carbon footprint in hopes of mitigating climate change. More actions are being taken by global society towards a low carbon future. Keeping that in mind, the energy industry is adapting to the emerging needs of the 21st century by means of effective sustainable practices and development. Oil and gas wells require high temperature and pressure (HTHP) resistant cement sheath that provides structural integrity and zonal isolation to these wells. At the end of their service life, these geothermal wells require plugging and abandonment (P&amp;A) in the form of cement sealant to prevent hydrocarbon leakage. It is estimated that over 2 million of unplugged abandoned wells in U.S. are leaking pollutants such as methane into groundwater reservoir, sea, and ocean, causing severe environmental pollution (Marcacci, 2020). Thus, advanced cement performance is required for geothermal cementing to mitigate issues related to leaky wellbore (both active and abandoned). Additionally, cement production itself is a carbon intensive process, which accounts for at least 8% of global CO2 emission. The cement industry needs to cut down its emission by at least 16% by 2030 to comply with the Paris Agreement (Tigue, 2022). Although concrete construction is considered as an avenue for such a reduction, one area that is overlooked is the cement used in the wellbores.</description>
-      <author>Farzana Rahman, Raissa Douglas Ferron</author>
+                ABSTRACT: Among the geomechanical aspects associated to the fluid injection in a reservoir, the effective stress reduction due to a cold fluid may be critical for the fault stability. To account for this aspect, Eni has implemented the thermal contribution in the in-house SAFE tool used for the fault stability assessment associated to injection projects. The validation of this feature has been carried out using Perkins and Gonzales (1984) model as a benchmark, considering a hypothetical vertical fault at a certain distance from the injection well, and oriented perpendicularly to the minimum horizontal stress direction. The results in terms of stress have been compared to a 2D Finite Element Abaqus simulation of the same case, previously validated with the benchmark. Finally, the unfavorable impact of the thermal aspect when a fluid colder than the rock mass is injected in a formation has been analyzed through a synthetic case. 1. INTRODUCTION One of the most critical challenges related to the actual problem of global climate change is to find an environmentally and economical solution to immediately reduce greenhouse gases emissions, particularly the carbon dioxide (CO2). To this aim, CO2 capture and storage (CCS) in deep geologic formations, such as depleted oil and gas reservoirs or deep saline aquifers, will have a crucial role in reducing gas emissions. To implement CCS on the scale needed to make noticeable changes, geological media suitable for gas storage must have sufficient capacity and injectivity, and a comprehensive understanding of their hydrologic-geochemical-geomechanical is needed to ensure the confinement for the lateral or vertical migration of CO2 to the surface (Rutqvist, 2012). The importance of geomechanics associated to carbon storage started to be recognized in the 2000s, when studies of actual CO2 injection sites have shown that significant geomechanical changes may indeed occur, depending on the injection conditions and the site-specific properties (Rutqvist et al., 2010). Among all known phenomena related to fluid injection, rock integrity and fault stability are key factors to be evaluated for reservoir development. Fault reactivation and associated induced seismicity have been observed in many water injection projects in the US, where the earthquake rate increase, since 2001, is due to the injection of water resulting from hydraulic fracturing operations in nearby disposal wells. High CO2 injection pressures can induce fluid driven fractures as well, triggering displacements along pre-existing faults and generating seismic events (Ellsworth, 2013). Moreover, the injection of a fluid with different temperature than the formation temperature leads to a thermal effect on the geomechanical integrity, adding a stress variation that could alter the fault resistance. More specifically, once the fluid is injected, rock usually cools down in the area around the well. In this condition, within the cooled zone, horizontal earth tension decreases as a result of the formation rock contracting (Perkins &amp; Gonzales, 1984; Kim &amp; Hosseini, 2017).</description>
+      <author>Stefania Petroselli, A. Stiz, M. Brignoli, S. Monaco, F. Marton, D. Grilli, Guglielmo Luigi Daniele Facchi, F. Bottazzi, Stefano Mantica</author>
       <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-1110</guid>
+      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0330</guid>
     </item>
     <item>
       <title>A Review on the Influence of Crystal Facets on the Product Selectivity of CO&lt;sub&gt;2&lt;/sub&gt;RR over Cu Metal Catalysts</title>
@@ -596,16 +446,6 @@
       <author>Dandan Ma, Chuanqi Zhi, Yimeng Zhang, Jiantao Chen, Yanmin Zhang, Jian&#8208;Wen Shi</author>
       <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c05326</guid>
-    </item>
-    <item>
-      <title>Thermal Contribution in Fault Stability Assessment During Fluid Injection: Improvement of the Analytical Probabilistic Approach of an In-House Tool</title>
-      <link>https://doi.org/10.56952/arma-2024-0330</link>
-      <description>Stefania Petroselli, A. Stiz, M. Brignoli, S. Monaco, F. Marton, D. Grilli, Guglielmo Luigi Daniele Facchi, F. Bottazzi, Stefano Mantica, No host. None(None)] 2024. https://openalex.org/W4401479448
-
-                ABSTRACT: Among the geomechanical aspects associated to the fluid injection in a reservoir, the effective stress reduction due to a cold fluid may be critical for the fault stability. To account for this aspect, Eni has implemented the thermal contribution in the in-house SAFE tool used for the fault stability assessment associated to injection projects. The validation of this feature has been carried out using Perkins and Gonzales (1984) model as a benchmark, considering a hypothetical vertical fault at a certain distance from the injection well, and oriented perpendicularly to the minimum horizontal stress direction. The results in terms of stress have been compared to a 2D Finite Element Abaqus simulation of the same case, previously validated with the benchmark. Finally, the unfavorable impact of the thermal aspect when a fluid colder than the rock mass is injected in a formation has been analyzed through a synthetic case. 1. INTRODUCTION One of the most critical challenges related to the actual problem of global climate change is to find an environmentally and economical solution to immediately reduce greenhouse gases emissions, particularly the carbon dioxide (CO2). To this aim, CO2 capture and storage (CCS) in deep geologic formations, such as depleted oil and gas reservoirs or deep saline aquifers, will have a crucial role in reducing gas emissions. To implement CCS on the scale needed to make noticeable changes, geological media suitable for gas storage must have sufficient capacity and injectivity, and a comprehensive understanding of their hydrologic-geochemical-geomechanical is needed to ensure the confinement for the lateral or vertical migration of CO2 to the surface (Rutqvist, 2012). The importance of geomechanics associated to carbon storage started to be recognized in the 2000s, when studies of actual CO2 injection sites have shown that significant geomechanical changes may indeed occur, depending on the injection conditions and the site-specific properties (Rutqvist et al., 2010). Among all known phenomena related to fluid injection, rock integrity and fault stability are key factors to be evaluated for reservoir development. Fault reactivation and associated induced seismicity have been observed in many water injection projects in the US, where the earthquake rate increase, since 2001, is due to the injection of water resulting from hydraulic fracturing operations in nearby disposal wells. High CO2 injection pressures can induce fluid driven fractures as well, triggering displacements along pre-existing faults and generating seismic events (Ellsworth, 2013). Moreover, the injection of a fluid with different temperature than the formation temperature leads to a thermal effect on the geomechanical integrity, adding a stress variation that could alter the fault resistance. More specifically, once the fluid is injected, rock usually cools down in the area around the well. In this condition, within the cooled zone, horizontal earth tension decreases as a result of the formation rock contracting (Perkins &amp; Gonzales, 1984; Kim &amp; Hosseini, 2017).</description>
-      <author>Stefania Petroselli, A. Stiz, M. Brignoli, S. Monaco, F. Marton, D. Grilli, Guglielmo Luigi Daniele Facchi, F. Bottazzi, Stefano Mantica</author>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0330</guid>
     </item>
     <item>
       <title>Environmental Forcing and Policy Synergy: A Multidimensional Approach in the Governance of Air Pollution and Carbon Emission</title>
@@ -628,26 +468,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/bse.3922</guid>
     </item>
     <item>
-      <title>Prediction of hydrogen production potential of wastewater based on GRA-BiLSTM model under shared socioeconomic pathway in Guangdong</title>
-      <link>https://doi.org/10.1016/j.desal.2024.117988</link>
-      <description>Bingchun Liu, Yawei Du, Mingzhao Lai, Desalination. None(None)] 2024. https://openalex.org/W4401361114
-
-                With the deepening of the energy transition, hydrogen production from wastewater has attracted widespread attention as an energy production method that can realize resource recycling. To explore whether hydrogen production from wastewater can have a significant role in the energy transition, it is crucial to effectively assess the future potential of hydrogen production from municipal wastewater. Based on the Guangdong Province of China, this study proposed a prediction model combining grey relation analysis (GRA) and bi-directional long short term memory (BiLSTM). Combined with a common socio-economic pathway (SSP), wastewater production is predicted from 2023 to 2050, and the potential for hydrogen production from wastewater is further analyzed. The cost of hydrogen production and carbon reduction potential under different scenarios are explored on this basis. The results show that by 2050, the SSP4 (Inequality) scenario will produce the most hydrogen, which will reach 22.0 billion m3, and reduce 247.2 billion tons of carbon dioxide emissions. In contrast, the SSP1 (Sustainability) scenario will produce 7.5 billion m3 of hydrogen and reduce carbon emissions by 84.5 billion tons. From the perspective of energy production and environmental protection, future hydrogen production from wastewater will make a great contribution to the global energy transition and sustainable development.</description>
-      <author>Bingchun Liu, Yawei Du, Mingzhao Lai</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.desal.2024.117988</guid>
-    </item>
-    <item>
-      <title>Institutional Performance and Carbon Reduction Effect of High-Quality Development of New Energy: China&#8217;s Experience and Policy Implication</title>
-      <link>https://doi.org/10.3390/su16166734</link>
-      <description>L. Zhang, Dong Zheng-ai, Zhixiong Tan, Jiahui Luo, Dong Yan, Sustainability. 16(16)] 2024. https://openalex.org/W4401354919
-
-                Based on the policy text from 1999 to 2022, this paper quantitatively analyzes photovoltaic power, wind power and new energy policies in mainland China by keyword capture and policy strength and establishes a spatial Durbin model to study the carbon reduction effects. The results show the following: (1) The development of new energy is primarily project-based and concentrated in rural areas. (2) Financial support is a double-edged sword. (3) After the implementation of the Renewable Energy Law in 2015, the change trend in policy quantity, total policy intensity, and average policy intensity is generally consistent. (4) The increase in the strength of new energy policies has effectively reduced the intensity of provincial carbon dioxide emissions. (5) New energy policies introduced in a single region are less effective in reducing carbon emissions than joint regional regulation. Therefore, it is necessary to improve the quality and coordination of new energy policies through the effective convergence of policies and regular evaluations to enhance the positive guidance of the policies. Policy measures for new energy are refined in three areas: improving the amount and quality of new energy policies, strengthening new energy policies and establishing cooperation mechanisms for the cross-regional consumption of new energy.</description>
-      <author>L. Zhang, Dong Zheng-ai, Zhixiong Tan, Jiahui Luo, Dong Yan</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16166734</guid>
-    </item>
-    <item>
       <title>Cyanobacterial Artificial Plants for Enhanced Indoor Carbon Capture and Utilization</title>
       <link>https://doi.org/10.1002/adsu.202400401</link>
       <description>Maryam Rezaie, Seokheun Choi, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4401482587
@@ -668,16 +488,6 @@
       <guid isPermaLink="true">https://doi.org/10.69997/sct.150076</guid>
     </item>
     <item>
-      <title>Combustion Mode Evaluation of a Methanol&#8211;Diesel Dual Direct Injection Engine with a Control of Injection Timing and Energy Substitution Ratio</title>
-      <link>https://doi.org/10.4271/03-18-01-0002</link>
-      <description>Yifan Zhao, Xinyu Liu, Sanghoon Kook, SAE International Journal of Engines. 18(1)] 2024. https://openalex.org/W4401486134
-
-                &lt;div&gt;Methanol, as a renewable fuel, is an attractive option for internal combustion engines. The dual direct injection method is one of the most promising strategies for applying methanol fuel in diesel engines as the flexible injection control enables combustion mode switching. In this study, a 1-L single-cylinder common-rail diesel engine with a compression ratio of 17.4 is retrofitted by installing an additional methanol direct injector with 35 MPa injection pressure. The engine is operated at 1400 rpm, intermediate load, and fixed midpoint combustion phasing of 10 &#176;CA aTDC with a fixed total amount of energy while applying an energy substitution principle with up to 70% energy supplied by methanol. From the experiments, three distinct combustion modes were identified. When early methanol injection timings were selected in the range of 180&#8211;60 &#176;CA bTDC, the primary combustion mode was premixed burn. Late injection timings of 10 &#176;CA bTDC to TDC led to heat release rate shapes of the diffusion flame mode. In between these injection timings, partially premixed combustion was achieved where the higher methanol substitution ratio achieved carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) emissions reduction by up to 11% and nitrogen oxides (NO&lt;sub&gt;x&lt;/sub&gt;) emission suppression by up to 12%. It was also found that with increasing methanol energy substitution ratio, a significant reduction in smoke emissions was achieved. However, the decreased power output and increased emissions of unburnt hydrocarbon (uHC) and carbon monoxide (CO) were measured due to incomplete combustion caused by lower flame temperature of methanol.&lt;/div&gt;</description>
-      <author>Yifan Zhao, Xinyu Liu, Sanghoon Kook</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.4271/03-18-01-0002</guid>
-    </item>
-    <item>
       <title>Machine Learning&#8208;Driven Selection of Two&#8208;Dimensional Carbon&#8208;Based Supports for Dual&#8208;Atom Catalysts in CO2 Electroreduction</title>
       <link>https://doi.org/10.1002/cctc.202400470</link>
       <description>Zhen Tan, Xinyu Li, Yanzhang Zhao, Zhen Zhang, Qinfeng Shi, Haobo Li, ChemCatChem. None(None)] 2024. https://openalex.org/W4401498041
@@ -688,34 +498,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400470</guid>
     </item>
     <item>
-      <title>Research progress of photoelectrochemical conversion of CO&lt;sub&gt;2&lt;/sub&gt; to C&lt;sub&gt;2+&lt;/sub&gt; products</title>
-      <link>https://doi.org/10.20517/cs.2024.03</link>
-      <description>Xia Jiang, Rui Chen, Yanxin Chen, Can&#8208;Zhong Lu, Chemical Synthesis. 4(3)] 2024. https://openalex.org/W4401375495
+      <title>Combustion Mode Evaluation of a Methanol&#8211;Diesel Dual Direct Injection Engine with a Control of Injection Timing and Energy Substitution Ratio</title>
+      <link>https://doi.org/10.4271/03-18-01-0002</link>
+      <description>Yifan Zhao, Xinyu Liu, Sanghoon Kook, SAE International Journal of Engines. 18(1)] 2024. https://openalex.org/W4401486134
 
-                The reduction of CO2 to C2+ products using photoelectrochemistry (PEC) is significant and highly challenging. However, systematic summaries on PEC CO2 conversion into C2+ products are lacking. Therefore, this paper systematically reviews the current research status of the PEC CO2 conversion for the preparation of C2+ products, including the pathways of C2+ products, the usage of catalysts and reactors, and methods for improving C2+ product selectivity. Besides, the deficiencies in current research are analyzed, and future developments are discussed.</description>
-      <author>Xia Jiang, Rui Chen, Yanxin Chen, Can&#8208;Zhong Lu</author>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20517/cs.2024.03</guid>
-    </item>
-    <item>
-      <title>Steering the Site Distance of Atomic Cu&#8208;Cu Pairs by First&#8208;Shell Halogen Coordination Boosts CO2&#8208;to&#8208;C2 Selectivity</title>
-      <link>https://doi.org/10.1002/ange.202412785</link>
-      <description>Fengya Ma, Pengfang Zhang, Xiaoyan Zheng, Liang Chen, Yunrui Li, Zechao Zhuang, Yameng Fan, Peng Jiang, Hui Zhao, Jiawei Zhang, Yuming Dong, Yongfa Zhu, Dingsheng Wang, Xiaojing Yao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401368251
-
-                Electrocatalytic reduction of CO2 into C2 products of high economic value provides a promising strategy to realize resourceful CO2 utilization. Rational design and construct dual sites to realize the CO protonation and C&#8208;C coupling to unravel their structure&#8208;performance correlation is of great significance in catalysing electrochemical CO2 reduction reactions. Herein, Cu&#8208;Cu dual sites with different site distance coordinated by halogen at the first&#8208;shell are constructed and shows a higher intramolecular electron redispersion and coordination symmetry configurations. The long&#8208;range Cu&#8208;Cu (Cu&#8208;I&#8208;Cu) dual sites show an enhanced Faraday efficiency of C2 products, up to 74.1%, and excellent stability. In addition, the linear relationships that the long&#8208;range Cu&#8208;Cu dual site is accelerated to C2H4 generation and short&#8208;range Cu&#8208;Cu (Cu&#8208;Cl&#8208;Cu) dual site is beneficial for C2H5OH formation are disclosed. In situ electrochemical attenuated total reflection surface enhanced infrared absorption spectroscopy, in situ Raman and theoretical calculations manifest that long&#8208;range Cu&#8208;Cu dual sites can weaken reaction energy barriers of CO hydrogenation and C&#8208;C coupling, as well as accelerating deoxygenation of *CH2CHO. This study uncovers the exploitation of site&#8208;distance&#8208;dependent electrochemical property to steer the CO2 reduction pathway, as well as a potential generic tactic to target C2 synthesis by constructing the desired Cu&#8208;Cu dual sites.</description>
-      <author>Fengya Ma, Pengfang Zhang, Xiaoyan Zheng, Liang Chen, Yunrui Li, Zechao Zhuang, Yameng Fan, Peng Jiang, Hui Zhao, Jiawei Zhang, Yuming Dong, Yongfa Zhu, Dingsheng Wang, Xiaojing Yao</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202412785</guid>
-    </item>
-    <item>
-      <title>Steering the Site Distance of Atomic Cu&#8208;Cu Pairs by First&#8208;Shell Halogen Coordination Boosts CO2&#8208;to&#8208;C2 Selectivity</title>
-      <link>https://doi.org/10.1002/anie.202412785</link>
-      <description>Fengya Ma, Pengfang Zhang, Xiaoyan Zheng, Liang Chen, Yunrui Li, Zechao Zhuang, Yameng Fan, Peng Jiang, Hui Zhao, Jiawei Zhang, Yuming Dong, Yongfa Zhu, Dingsheng Wang, Xiaojing Yao, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401368113
-
-                Electrocatalytic reduction of CO2 into C2 products of high economic value provides a promising strategy to realize resourceful CO2 utilization. Rational design and construct dual sites to realize the CO protonation and C-C coupling to unravel their structure-performance correlation is of great significance in catalysing electrochemical CO2 reduction reactions. Herein, Cu-Cu dual sites with different site distance coordinated by halogen at the first-shell are constructed and shows a higher intramolecular electron redispersion and coordination symmetry configurations. The long-range Cu-Cu (Cu-I-Cu) dual sites show an enhanced Faraday efficiency of C2 products, up to 74.1%, and excellent stability. In addition, the linear relationships that the long-range Cu-Cu dual site is accelerated to C2H4 generation and short-range Cu-Cu (Cu-Cl-Cu) dual site is beneficial for C2H5OH formation are disclosed. In situ electrochemical attenuated total reflection surface enhanced infrared absorption spectroscopy, in situ Raman and theoretical calculations manifest that long-range Cu-Cu dual sites can weaken reaction energy barriers of CO hydrogenation and C-C coupling, as well as accelerating deoxygenation of *CH2CHO. This study uncovers the exploitation of site-distance-dependent electrochemical property to steer the CO2 reduction pathway, as well as a potential generic tactic to target C2 synthesis by constructing the desired Cu-Cu dual sites.</description>
-      <author>Fengya Ma, Pengfang Zhang, Xiaoyan Zheng, Liang Chen, Yunrui Li, Zechao Zhuang, Yameng Fan, Peng Jiang, Hui Zhao, Jiawei Zhang, Yuming Dong, Yongfa Zhu, Dingsheng Wang, Xiaojing Yao</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202412785</guid>
+                &lt;div&gt;Methanol, as a renewable fuel, is an attractive option for internal combustion engines. The dual direct injection method is one of the most promising strategies for applying methanol fuel in diesel engines as the flexible injection control enables combustion mode switching. In this study, a 1-L single-cylinder common-rail diesel engine with a compression ratio of 17.4 is retrofitted by installing an additional methanol direct injector with 35 MPa injection pressure. The engine is operated at 1400 rpm, intermediate load, and fixed midpoint combustion phasing of 10 &#176;CA aTDC with a fixed total amount of energy while applying an energy substitution principle with up to 70% energy supplied by methanol. From the experiments, three distinct combustion modes were identified. When early methanol injection timings were selected in the range of 180&#8211;60 &#176;CA bTDC, the primary combustion mode was premixed burn. Late injection timings of 10 &#176;CA bTDC to TDC led to heat release rate shapes of the diffusion flame mode. In between these injection timings, partially premixed combustion was achieved where the higher methanol substitution ratio achieved carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) emissions reduction by up to 11% and nitrogen oxides (NO&lt;sub&gt;x&lt;/sub&gt;) emission suppression by up to 12%. It was also found that with increasing methanol energy substitution ratio, a significant reduction in smoke emissions was achieved. However, the decreased power output and increased emissions of unburnt hydrocarbon (uHC) and carbon monoxide (CO) were measured due to incomplete combustion caused by lower flame temperature of methanol.&lt;/div&gt;</description>
+      <author>Yifan Zhao, Xinyu Liu, Sanghoon Kook</author>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.4271/03-18-01-0002</guid>
     </item>
     <item>
       <title>Forecasting Air Quality Indeks Using Long Short Term Memory</title>
@@ -758,26 +548,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/biomass4030050</guid>
     </item>
     <item>
-      <title>Unlocking CO2 emissions in East Asia Pacific-5 countries: Exploring the dynamics relationships among economic growth, foreign direct investment, trade openness, financial development and energy consumption</title>
-      <link>https://doi.org/10.24294/jipd.v8i8.5639</link>
-      <description>Happy Febrina Hariyani, Dani Galih Prasetyo, Taemin Ha, Bich Ha Dam, Tran Thai Ha Nguyen, Journal of Infrastructure Policy and Development. 8(8)] 2024. https://openalex.org/W4401432095
-
-                The increase in world carbon emissions is always in line with national economic growth programs, which create negative environmental externalities. To understand the effectiveness of related factors in mitigating CO2 emissions, this study investigates the intricate relationship among macro-pillars such as economic growth, foreign investment, trade and finance, energy, and renewable energy with CO2 emissions of the high gross domestic product economies in East Asia Pacific, such as China, Japan, Korea, Australia and Indonesia (EAP-5). Through the application of the Vector Error Correction Model (VECM), this research reveals the long-term equilibrium and short-term dynamics between CO2 emissions and selected factors from 1991 to 2020. The long-term cointegration vector test results show that economic growth and foreign investment contribute to carbon reduction. Meanwhile, the short-term Granger causality test shows that economic growth has a two-way causality towards carbon emissions, while energy consumption and renewable energy consumption have a one-way causality towards carbon emissions. In contrast, the variables trade, foreign direct investment, and domestic credit to the private sector do not have two-way causality towards CO2 emissions. The findings reveal that economic growth and foreign investment play significant roles in carbon reduction, which are observed in long-term causality relationships, while energy consumption and renewable energy are notable factors. Thus, the study offers implications for mitigating environmental concerns on national economic growth agendas by scrutinizing and examining the efficacy of related factors.</description>
-      <author>Happy Febrina Hariyani, Dani Galih Prasetyo, Taemin Ha, Bich Ha Dam, Tran Thai Ha Nguyen</author>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.24294/jipd.v8i8.5639</guid>
-    </item>
-    <item>
-      <title>Tuning the Product Selectivity of Single-Atom Catalysts for CO&lt;sub&gt;2&lt;/sub&gt; Reduction Beyond CO Formation by Orbital Engineering</title>
-      <link>https://doi.org/10.1039/d4nr02650k</link>
-      <description>Vasanthapandiyan Mari, Naiwrit Karmodak, Nanoscale. None(None)] 2024. https://openalex.org/W4401461304
-
-                Electrochemical CO2 reduction (CO2R) is one of the promising strategies for developing sustainable energy resources. Single-atom catalysts (SACs) have emerged as efficient catalysts for CO2R. However, the efficiency of SACs...</description>
-      <author>Vasanthapandiyan Mari, Naiwrit Karmodak</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4nr02650k</guid>
-    </item>
-    <item>
       <title>Tuning the Inter&#8208;Metal Interaction between Ni and Fe Atoms in Dual&#8208;Atom Catalysts to Boost CO2 Electroreduction</title>
       <link>https://doi.org/10.1002/anie.202411543</link>
       <description>Jing Wang, Jia Li, Xiaoli Pan, Ning Li, Zhounan Yu, Li Wang, Tianyi Ma, Sen Lin, Jian Lin, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401420908
@@ -798,6 +568,26 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202411543</guid>
     </item>
     <item>
+      <title>Unlocking CO2 emissions in East Asia Pacific-5 countries: Exploring the dynamics relationships among economic growth, foreign direct investment, trade openness, financial development and energy consumption</title>
+      <link>https://doi.org/10.24294/jipd.v8i8.5639</link>
+      <description>Happy Febrina Hariyani, Dani Galih Prasetyo, Taemin Ha, Bich Ha Dam, Tran Thai Ha Nguyen, Journal of Infrastructure Policy and Development. 8(8)] 2024. https://openalex.org/W4401432095
+
+                The increase in world carbon emissions is always in line with national economic growth programs, which create negative environmental externalities. To understand the effectiveness of related factors in mitigating CO2 emissions, this study investigates the intricate relationship among macro-pillars such as economic growth, foreign investment, trade and finance, energy, and renewable energy with CO2 emissions of the high gross domestic product economies in East Asia Pacific, such as China, Japan, Korea, Australia and Indonesia (EAP-5). Through the application of the Vector Error Correction Model (VECM), this research reveals the long-term equilibrium and short-term dynamics between CO2 emissions and selected factors from 1991 to 2020. The long-term cointegration vector test results show that economic growth and foreign investment contribute to carbon reduction. Meanwhile, the short-term Granger causality test shows that economic growth has a two-way causality towards carbon emissions, while energy consumption and renewable energy consumption have a one-way causality towards carbon emissions. In contrast, the variables trade, foreign direct investment, and domestic credit to the private sector do not have two-way causality towards CO2 emissions. The findings reveal that economic growth and foreign investment play significant roles in carbon reduction, which are observed in long-term causality relationships, while energy consumption and renewable energy are notable factors. Thus, the study offers implications for mitigating environmental concerns on national economic growth agendas by scrutinizing and examining the efficacy of related factors.</description>
+      <author>Happy Febrina Hariyani, Dani Galih Prasetyo, Taemin Ha, Bich Ha Dam, Tran Thai Ha Nguyen</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.24294/jipd.v8i8.5639</guid>
+    </item>
+    <item>
+      <title>Tuning the Product Selectivity of Single-Atom Catalysts for CO&lt;sub&gt;2&lt;/sub&gt; Reduction Beyond CO Formation by Orbital Engineering</title>
+      <link>https://doi.org/10.1039/d4nr02650k</link>
+      <description>Vasanthapandiyan Mari, Naiwrit Karmodak, Nanoscale. None(None)] 2024. https://openalex.org/W4401461304
+
+                Electrochemical CO2 reduction (CO2R) is one of the promising strategies for developing sustainable energy resources. Single-atom catalysts (SACs) have emerged as efficient catalysts for CO2R. However, the efficiency of SACs...</description>
+      <author>Vasanthapandiyan Mari, Naiwrit Karmodak</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4nr02650k</guid>
+    </item>
+    <item>
       <title>Determination of Thermo-Mechanical Coal Deformations and Implication for CO2 Storage in Deep Coal Formations</title>
       <link>https://doi.org/10.56952/arma-2024-0409</link>
       <description>Zhang Kunming, Shimin Liu, No host. None(None)] 2024. https://openalex.org/W4401480269
@@ -808,6 +598,16 @@
       <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0409</guid>
     </item>
     <item>
+      <title>Emission Inventory of Central Processing Plant in the Oil and Gas Industry in Central Sulawesi</title>
+      <link>https://doi.org/10.59188/devotion.v5i7.758</link>
+      <description>Achmad Alvinsyah Rasyidi, Arie Dipareza Syafei, Joni Hermana, Abdu F. Assomadi, Devotion Journal of Research and Community Service. 5(7)] 2024. https://openalex.org/W4401512240
+
+                The Central Processing Plant (CPP) in Central Sulawesi, Indonesia, is one of the largest oil and gas industries in the world. This study aims to determine the magnitude of the greenhouse gas emission load and identify the operational facilities that produce the highest GHG emissions from CPP Donggi. The study results show an emission inventory for 2021 is 7.609ton CO2-eq per year or 365.78 tonnes of CO2 per TJ in 2021, for 2022 is 8.084ton C2Eq/355.50 tonnes CO2/TJ, and dan for 2023 is 7.565ton. The three highest carbon emission-generating facilities are the Gas Turbine Generator, Acid Gas Removal Unit, and Oil Heater. The research contributes to understanding the scale and distribution of greenhouse gas emissions from a specific industrial source and aids in directing efforts for emission reduction.</description>
+      <author>Achmad Alvinsyah Rasyidi, Arie Dipareza Syafei, Joni Hermana, Abdu F. Assomadi</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.59188/devotion.v5i7.758</guid>
+    </item>
+    <item>
       <title>Advances in Geochemical Monitoring Technologies for CO2 Geological Storage</title>
       <link>https://doi.org/10.3390/su16166784</link>
       <description>Jianhua Ma, Yongzhang Zhou, Yijun Zheng, Lixiang He, Hanyu Wang, L. L. Niu, Xinhui Yu, Wei Cao, Sustainability. 16(16)] 2024. https://openalex.org/W4401418288
@@ -816,16 +616,6 @@
       <author>Jianhua Ma, Yongzhang Zhou, Yijun Zheng, Lixiang He, Hanyu Wang, L. L. Niu, Xinhui Yu, Wei Cao</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/su16166784</guid>
-    </item>
-    <item>
-      <title>Antimicrobial activity of laser assisted endodontic therapy in disinfecting root canals</title>
-      <link>https://doi.org/10.6026/973206300200610</link>
-      <description>Shivam Patel, Harpreet Hundal, Geeta Nishad, Nityanand Shetty, Vinita Banjare, Jyotsna Sethumadhavan, Ramanpal Singh Makkad, Anushree Tiwari, Bioinformation. 20(6)] 2024. https://openalex.org/W4401366283
-
-                Light Amplified Stimulated Emission of Radiation (LASER) is nowadays widely studied regarding their use in endodontics and restorative dentistry. Therefore, it is of interest to evaluate the antibacterial activity of three types of LASERs namely CO2 LASER.Er, Cr:YSGG LASER and Diode LASER in disinfection of root canals. 70 patients (105 single rooted teeth) were included in the study. There was application of 2% Sodium Hypochlorite (NaOCl), 2780 nm Er,Cr:YSGG LASER, 900 nm Diode LASER and CO2 LASER. Microbial samples were collected from root canals both before and after the interventions through paper points. These parameters were evaluated in microbiology laboratory to obtain Log10 Colony Forming Units (CFUs). There was significant reduction in CFUs of microorganisms inside root canal in all three LASERs evaluated and NaOCl. The reduction in CFUs in LASERs was comparable to NaOCl. Then secondly we applied each LASER in combination with NaOCl. It was observed that reduction in CFU was greater when combination of LASER with NaOCl was applied as compared when applied alone. It can be inferred that LASER when applied with NaOCl can have significant role in disinfection of root canals.</description>
-      <author>Shivam Patel, Harpreet Hundal, Geeta Nishad, Nityanand Shetty, Vinita Banjare, Jyotsna Sethumadhavan, Ramanpal Singh Makkad, Anushree Tiwari</author>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6026/973206300200610</guid>
     </item>
     <item>
       <title>Physiological and Biochemical Responses of Maize to Elevated CO2 Concentrations: Implications for Growth and Metabolism</title>
@@ -878,6 +668,16 @@
       <guid isPermaLink="true">https://doi.org/10.69997/sct.123118</guid>
     </item>
     <item>
+      <title>Flexural behavior of reinforced bubble arch slabs: A Review</title>
+      <link>https://doi.org/10.61268/9s4s3q70</link>
+      <description>, Al Rafidain Journal of Engineering Sciences. None(None)] 2024. https://openalex.org/W4401535377
+
+                Concrete slabs are essential components of any building structure, providing thermal comfort and enhancing the overall quality of life for occupants. However, concrete slabs require a significant amount of concrete for flooring and roofing, contributing to substantial CO2 emissions&#8212;over 5% globally from cement production alone. This study explores the reduction of concrete in slabs through the incorporation of high-density polyethylene (HDPE) hollow spheres. These hollow spheres effectively eliminate non-structural concrete from the slab's middle, reducing its self-weight and increasing efficiency. This technique produces slabs that are 35-50% lighter, reducing loads on columns, walls, and foundations, while also cutting costs and CO2 emissions. Additionally, employing arched shapes, known for their structural efficiency, can further decrease material usage and associated costs. By combining arched and bubble techniques, we achieve our goal of creating lighter, more efficient concrete slabs.</description>
+      <author/>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.61268/9s4s3q70</guid>
+    </item>
+    <item>
       <title>Well Integrity Analysis During CO2 Injection in a Depleted Chalk Field</title>
       <link>https://doi.org/10.56952/arma-2024-0944</link>
       <description>F. Amour, Mohammad Reza Hajiabadi, Seyedbehzad Hosseinzadehsadati, Hamidreza M. Nick, No host. None(None)] 2024. https://openalex.org/W4401481624
@@ -886,16 +686,6 @@
       <author>F. Amour, Mohammad Reza Hajiabadi, Seyedbehzad Hosseinzadehsadati, Hamidreza M. Nick</author>
       <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0944</guid>
-    </item>
-    <item>
-      <title>Assessing Caprock Integrity Through Thermo-Hydro-Mechanical Modeling of CO2 in a Deformable Chalk Depleted Gas Reservoir</title>
-      <link>https://doi.org/10.56952/arma-2024-0507</link>
-      <description>Bahram Hosseinzadeh Samani, F. Amour, Alejandro Barrera C., Mohammad Reza Hajiabadi, Carlos A. S. Ferreira, Hamidreza M. Nick, No host. None(None)] 2024. https://openalex.org/W4401480316
-
-                ABSTRACT: This paper presents a hydromechanical simulation of large-scale analysis to assess the risk of CO2 leakage through faults within the reservoir and caprock as potential pathways. The study involves the evaluation of slip tendency and distance to failure of existing faults in both the caprock and reservoir, which are crucial parameters influencing the potential for induced seismicity. To that aim, thermo-hydro-mechanical simulation of cold CO2 injection close to the cap rock and within a high-temperature (110&#176;C) depleted gas reservoir is carried out to quantify the additional stresses and strains caused by the thermal expansion/contraction of the rocks. Since preferential fluid flow is more pronounced through faults and fractures experiencing high slip tendency, here the assessment of slip tendency shows no concerns regarding fault seal and the behavior of faults as pathways for the migration of CO2 injection. In addition, this study utilizes distance to failure analysis by driving data from analyses of stress orientation, magnitude, fault geometry, and temperature. The findings indicate that there are no significant concerns regarding the integrity of fault seals or the behavior of faults as potential routes for CO2 injection migration. 1. INTRODUCTION The injection of CO2 alters both the reservoir pressure and the distribution of effective stress within the reservoir and caprock formations. The primary mechanism influencing hydromechanical behavior is the overall reduction in effective stresses, which is induced by the high-pressure injection of CO2 around the injection well. However, injecting CO2 into depleted gas reservoirs requires further analysis. During gas production, the reservoir pressure significantly decreases, leading to an increase in effective stresses. This study presents a numerical simulation of large-scale coupled analysis to evaluate the risk of fault reactivation within the reservoir and caprock. Rohmer &amp; Seyedi (2010) conducted an analysis of fault slip potential during CO2 injection, accounting for factors such as fluid pressure, stress fields, and poro-elastic effects. Through coupled simulation, they demonstrated that the maximum sustainable overpressure is strongly dependent on the in-situ stress state. Soltanzadeh &amp; Hawkes (2008) explored how changes in fluid pressure within porous reservoirs can lead to stress alterations in surrounding rocks, potentially triggering the reactivation of existing faults. The findings indicate that, under fluid injection into a reservoir experiencing an extensional stress regime, fault reactivation tendencies are observed solely in rocks situated above and below the reservoir. Conversely, within a compressional stress regime, fault reactivation is more likely to manifest within the reservoir itself. Ferrill et al. (2020) explored the interconnected concepts of failure mode and resolved stress analysis, offering examples of fault geometry in normal and reverse faulting stress regimes. These analyses predicted deformation behavior and elucidated how variations in fault geometry and associated deformation mechanisms influence fluid transmission.</description>
-      <author>Bahram Hosseinzadeh Samani, F. Amour, Alejandro Barrera C., Mohammad Reza Hajiabadi, Carlos A. S. Ferreira, Hamidreza M. Nick</author>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0507</guid>
     </item>
     <item>
       <title>Continuous in Situ Characterization by AFM of Surface Mechanical and Electrical Features of Shale Organic Matter Under Different Atmospheres</title>
@@ -908,6 +698,26 @@
       <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0681</guid>
     </item>
     <item>
+      <title>Magnesium (Mg/Ca, &#948;&lt;sup&gt;26&lt;/sup&gt;Mg), boron (B/Ca, &#948;&lt;sup&gt;11&lt;/sup&gt;B), and calcium ([Ca&lt;sup&gt;2+&lt;/sup&gt;]) geochemistry of Arctica islandica and Crassostrea virginica extrapallial fluid and shell under ocean acidification</title>
+      <link>https://doi.org/10.5194/egusphere-2024-1957</link>
+      <description>Blanca Alvarez Caraveo, Maxence Guillermic, Alan M. Downey&#8208;Wall, Louise P. Cameron, Jill Sutton, John A. Higgins, Justin B. Ries, Katie E. Lotterhos, Robert A. Eagle, No host. None(None)] 2024. https://openalex.org/W4401518269
+
+                Abstract. The geochemistry of biogenic carbonates has long been used as proxies to record changing seawater parameters. However, the effect of ocean acidification on seawater chemistry and organism physiology could impact isotopic signatures and how elements are incorporated into the shell. In this study, we investigated the geochemistry of three reservoirs important for biomineralization &#8211; seawater, the extrapallial fluid (EPF), and the shell &#8211; in two bivalve species, Crassostrea virginica and Arctica islandica. Additionally, we examined the effects of three ocean acidification conditions (ambient: 500 ppm CO2, moderate: 900 ppm CO2, and high: 2800 ppm CO2) on the geochemistry of the same three reservoirs for C. virginica. We present data on calcification rates, EPF pH, measured elemental ratios (Mg/Ca, B/Ca), and isotopic signatures (&#948;26Mg, &#948;11B). In both species, comparisons of seawater and EPF Mg/Ca and B/Ca, [Ca2+], and &#948;26Mg indicate that the EPF has a distinct composition that differs from seawater. Shell &#948;11B did not faithfully record seawater pH and &#948;11B-calculated pH values were consistently higher than pH measurements of the EPF with microelectrodes, indicating that the shell &#948;11B may reflect a localized environment within the entire EPF reservoir. In C. virginica, EPF Mg/Ca and B/Ca, as well as absolute concentrations of Mg, B, and [Ca2+], were all significantly affected by ocean acidification, indicating that OA affects the physiological pathways regulating or storing these ions, an observation that complicates their use as proxies. Reduction in EPF [Ca2+] may represent an additional mechanism underlying reduction in calcification in C. virginica in response to seawater acidification. The complexity of dynamics of EPF chemistry suggest boron proxies in these two mollusc species are not straightforwardly related to seawater pH, but ocean acidification does lead to both a decrease in microelectrode pH and boron-isotope-based pH, potentially showing applicability of boron isotopes in recording physiological changes. Collectively, our findings show that bivalves have high physiological control over the internal calcifying fluid, which presents a challenge to using boron isotopes for reconstructing seawater pH.</description>
+      <author>Blanca Alvarez Caraveo, Maxence Guillermic, Alan M. Downey&#8208;Wall, Louise P. Cameron, Jill Sutton, John A. Higgins, Justin B. Ries, Katie E. Lotterhos, Robert A. Eagle</author>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-1957</guid>
+    </item>
+    <item>
+      <title>Assessing Caprock Integrity Through Thermo-Hydro-Mechanical Modeling of CO2 in a Deformable Chalk Depleted Gas Reservoir</title>
+      <link>https://doi.org/10.56952/arma-2024-0507</link>
+      <description>Bahram Hosseinzadeh Samani, F. Amour, Alejandro Barrera C., Mohammad Reza Hajiabadi, Carlos A. S. Ferreira, Hamidreza M. Nick, No host. None(None)] 2024. https://openalex.org/W4401480316
+
+                ABSTRACT: This paper presents a hydromechanical simulation of large-scale analysis to assess the risk of CO2 leakage through faults within the reservoir and caprock as potential pathways. The study involves the evaluation of slip tendency and distance to failure of existing faults in both the caprock and reservoir, which are crucial parameters influencing the potential for induced seismicity. To that aim, thermo-hydro-mechanical simulation of cold CO2 injection close to the cap rock and within a high-temperature (110&#176;C) depleted gas reservoir is carried out to quantify the additional stresses and strains caused by the thermal expansion/contraction of the rocks. Since preferential fluid flow is more pronounced through faults and fractures experiencing high slip tendency, here the assessment of slip tendency shows no concerns regarding fault seal and the behavior of faults as pathways for the migration of CO2 injection. In addition, this study utilizes distance to failure analysis by driving data from analyses of stress orientation, magnitude, fault geometry, and temperature. The findings indicate that there are no significant concerns regarding the integrity of fault seals or the behavior of faults as potential routes for CO2 injection migration. 1. INTRODUCTION The injection of CO2 alters both the reservoir pressure and the distribution of effective stress within the reservoir and caprock formations. The primary mechanism influencing hydromechanical behavior is the overall reduction in effective stresses, which is induced by the high-pressure injection of CO2 around the injection well. However, injecting CO2 into depleted gas reservoirs requires further analysis. During gas production, the reservoir pressure significantly decreases, leading to an increase in effective stresses. This study presents a numerical simulation of large-scale coupled analysis to evaluate the risk of fault reactivation within the reservoir and caprock. Rohmer &amp; Seyedi (2010) conducted an analysis of fault slip potential during CO2 injection, accounting for factors such as fluid pressure, stress fields, and poro-elastic effects. Through coupled simulation, they demonstrated that the maximum sustainable overpressure is strongly dependent on the in-situ stress state. Soltanzadeh &amp; Hawkes (2008) explored how changes in fluid pressure within porous reservoirs can lead to stress alterations in surrounding rocks, potentially triggering the reactivation of existing faults. The findings indicate that, under fluid injection into a reservoir experiencing an extensional stress regime, fault reactivation tendencies are observed solely in rocks situated above and below the reservoir. Conversely, within a compressional stress regime, fault reactivation is more likely to manifest within the reservoir itself. Ferrill et al. (2020) explored the interconnected concepts of failure mode and resolved stress analysis, offering examples of fault geometry in normal and reverse faulting stress regimes. These analyses predicted deformation behavior and elucidated how variations in fault geometry and associated deformation mechanisms influence fluid transmission.</description>
+      <author>Bahram Hosseinzadeh Samani, F. Amour, Alejandro Barrera C., Mohammad Reza Hajiabadi, Carlos A. S. Ferreira, Hamidreza M. Nick</author>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0507</guid>
+    </item>
+    <item>
       <title>Study of High-Temperature HDR Fracture Features Under True-Triaxial Stress with Supercritical CO2 Fracturing</title>
       <link>https://doi.org/10.56952/arma-2024-1015</link>
       <description>Xuhao Fan, Haizhu Wang, Mingsheng Liu, Bin Wang, Yunpeng Zhang, Zhenchuan Mao, Hao Chen, Sergei Stanchits, &#1040;lexey Cheremisin, No host. None(None)] 2024. https://openalex.org/W4401480441
@@ -916,16 +726,6 @@
       <author>Xuhao Fan, Haizhu Wang, Mingsheng Liu, Bin Wang, Yunpeng Zhang, Zhenchuan Mao, Hao Chen, Sergei Stanchits, &#1040;lexey Cheremisin</author>
       <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-1015</guid>
-    </item>
-    <item>
-      <title>Evaluation of Waste Management Performance in Pariaman City Using Life Cycle Assessment (LCA)</title>
-      <link>https://doi.org/10.24036/cived.v10i3.326</link>
-      <description>Dyah Paramita, Rizki Aziz, Shinta Indah, CIVED. 10(3)] 2023. https://openalex.org/W4401373126
-
-                Pariaman City's waste generation in 2022 is 38.26 tons/day. Waste management in Pariaman City is still not optimal, resulting in waste piling up in TPA South Tungkal. The waste reduction value at the research location after processing with BSF larvae can reduce 0.005 tons/day or 0.02% of the total waste generation in Pariaman City. The environmental impacts in waste management studied are Global Warming Potential (GWP), Acidification Potential (AP), and Eutrophication Potential (EP). Reducing the environmental impact of processing organic waste has been carried out, the smallest impact reduction results were obtained, namely in scenario 1, namely processing organic waste with BSF larvae in waste banks and TPS 3R. The results obtained were the impact characterization value from comparing several impact categories. GWP value 32,060,838.136 103 kg CO2-eq, AP 0.00246 x103 SO2-eq, and EP 0.00134 x103 kg PO4-3. So it can be concluded that scenario 1 has a smaller GWP, AP, and EP impact on the environment compared to scenario 0 and is used as the best alternative scenario for waste management in Pariaman City</description>
-      <author>Dyah Paramita, Rizki Aziz, Shinta Indah</author>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.24036/cived.v10i3.326</guid>
     </item>
     <item>
       <title>Screening New Mungbean Varieties for Terminal Drought Tolerance</title>
@@ -988,16 +788,6 @@
       <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0969</guid>
     </item>
     <item>
-      <title>Mechanistic Study on the Stabilization of CO2 Oil-Based Foam by a Novel Compound Surfactant</title>
-      <link>https://doi.org/10.1115/omae2024-122352</link>
-      <description>Zhoujie Wang, Kaiqiang Zhang, Shaopeng Li, Jia Li, No host. None(None)] 2024. https://openalex.org/W4401458221
-
-                Abstract The effectiveness of CO2 oil-based foam in conventional and unconventional oil and gas development, as well as CO2 storage, relies on its stability. This study delves into the gas-liquid surface properties and liquid film behavior of a compound surfactant FS oil-based foam system, with a focus on understanding the mechanisms influencing its stability. The investigation reveals that the viscoelastic modulus of the FS surfactant system initially rises and then stabilizes with increased concentration, reaching a peak of 15.43 mN/m at 1.5 wt%. In the FS oil-based foaming system, the inhibition of sliding between liquid molecules enhances resistance to external deformation, promoting stability. Observing the liquid film of FS oil-based foam, color transitions signify evolving film thickness. The film initially displays various colors, gradually shifting from cyan and purple to deep blue and brown. As the film stratifies, forming dark domains that expand and eventually lead to rupture, FS significantly prolongs thinning time and reduces film thickness. At 2 wt% FS concentration, the foam rupture time is maximized at 4550 s. The presence of surfactant molecules forming a molecular layer in the liquid film strengthens and toughens the film, enhancing durability against external forces. This research suggests that the FS oil-based foam system with a 2 wt% concentration exhibits superior stability. Insights gained from this study contribute to the strategic use of oil-based foam, offering potential benefits for enhancing oilfield development efficiency and supporting carbon reduction goals.</description>
-      <author>Zhoujie Wang, Kaiqiang Zhang, Shaopeng Li, Jia Li</author>
-      <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1115/omae2024-122352</guid>
-    </item>
-    <item>
       <title>Environmental impact assessment in the Caspian region</title>
       <link>https://doi.org/10.32454/0016-7762-2024-66-2-124-140</link>
       <description>Elnur Aliyev, V. Yu. Kerimov, Yu. &#1040;. Lobanov, Proceedings of higher educational establishments Geology and Exploration. 66(2)] 2024. https://openalex.org/W4401399031
@@ -1006,6 +796,16 @@
       <author>Elnur Aliyev, V. Yu. Kerimov, Yu. &#1040;. Lobanov</author>
       <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.32454/0016-7762-2024-66-2-124-140</guid>
+    </item>
+    <item>
+      <title>Mechanistic Study on the Stabilization of CO2 Oil-Based Foam by a Novel Compound Surfactant</title>
+      <link>https://doi.org/10.1115/omae2024-122352</link>
+      <description>Zhoujie Wang, Kaiqiang Zhang, Shaopeng Li, Jia Li, No host. None(None)] 2024. https://openalex.org/W4401458221
+
+                Abstract The effectiveness of CO2 oil-based foam in conventional and unconventional oil and gas development, as well as CO2 storage, relies on its stability. This study delves into the gas-liquid surface properties and liquid film behavior of a compound surfactant FS oil-based foam system, with a focus on understanding the mechanisms influencing its stability. The investigation reveals that the viscoelastic modulus of the FS surfactant system initially rises and then stabilizes with increased concentration, reaching a peak of 15.43 mN/m at 1.5 wt%. In the FS oil-based foaming system, the inhibition of sliding between liquid molecules enhances resistance to external deformation, promoting stability. Observing the liquid film of FS oil-based foam, color transitions signify evolving film thickness. The film initially displays various colors, gradually shifting from cyan and purple to deep blue and brown. As the film stratifies, forming dark domains that expand and eventually lead to rupture, FS significantly prolongs thinning time and reduces film thickness. At 2 wt% FS concentration, the foam rupture time is maximized at 4550 s. The presence of surfactant molecules forming a molecular layer in the liquid film strengthens and toughens the film, enhancing durability against external forces. This research suggests that the FS oil-based foam system with a 2 wt% concentration exhibits superior stability. Insights gained from this study contribute to the strategic use of oil-based foam, offering potential benefits for enhancing oilfield development efficiency and supporting carbon reduction goals.</description>
+      <author>Zhoujie Wang, Kaiqiang Zhang, Shaopeng Li, Jia Li</author>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1115/omae2024-122352</guid>
     </item>
     <item>
       <title>Emerging clean technologies: policy-driven cost reductions, implications and perspectives</title>
@@ -1038,24 +838,14 @@
       <guid isPermaLink="true">https://doi.org/10.34719/tcud9414</guid>
     </item>
     <item>
-      <title>Reconstruction of Ferromagnetic/non&#8208;magnetic Cobalt&#8208;based Electrocatalysts under Gradient Magnetic Fields for Enhanced Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/anie.202412821</link>
-      <description>Song Ma, Kaixi Wang, Moniba Rafique, Jiecai Han, Qiang Fu, Sida Jiang, Xianjie Wang, Tai Yao, Ping Xu, Bo Song, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401373364
+      <title>Biofuels with Carbon Capture and Storage in the United States Transportation Sector</title>
+      <link>https://doi.org/10.69997/sct.167890</link>
+      <description>Caleb H. Geissler, Christos T. Maravelias, No host. 3(None)] 2024. https://openalex.org/W4401461015
 
-                The rational manipulation of the surface reconstruction of catalysts is a key factor in achieving highly efficient water oxidation, but it is a challenge due to the complex reaction conditions. Herein, we introduce a novel in situ reconstruction strategy under a gradient magnetic field to form highly catalytically active species on the surface of ferromagnetic/non-magnetic CoFe2O4@CoBDC core-shell structure for electrochemical oxygen evolution reaction (OER). We demonstrate that the Kelvin force from the cores' local gradient magnetic field modulates the shells' surface reconstruction, leading to a higher proportion of Co2+ as active sites. These Co sites with optimized electronic configuration exhibit more favorable adsorption energy for oxygen-containing intermediates and lower the activation energy of the overall catalytic reaction. As a result, a significant enhancement in OER performance is achieved with a large current density increment about 128% at 1.63 V and an overpotential reduction by 28 mV at 10 mA cm-2 after reconstruction. Interestingly, after removing the external magnetic field, the activity could persist for over 100 h. This work showcases the directional surface reconstruction of catalysts under a gradient magnetic field for enhanced water oxidation.</description>
-      <author>Song Ma, Kaixi Wang, Moniba Rafique, Jiecai Han, Qiang Fu, Sida Jiang, Xianjie Wang, Tai Yao, Ping Xu, Bo Song</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202412821</guid>
-    </item>
-    <item>
-      <title>Reconstruction of Ferromagnetic/non&#8208;magnetic Cobalt&#8208;based Electrocatalysts under Gradient Magnetic Fields for Enhanced Oxygen Evolution</title>
-      <link>https://doi.org/10.1002/ange.202412821</link>
-      <description>Song Ma, Kaixi Wang, Moniba Rafique, Jiecai Han, Qiang Fu, Sida Jiang, Xianjie Wang, Tai Yao, Ping Xu, Bo Song, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401376553
-
-                The rational manipulation of the surface reconstruction of catalysts is a key factor in achieving highly efficient water oxidation, but it is a challenge due to the complex reaction conditions. Herein, we introduce a novel in situ reconstruction strategy under a gradient magnetic field to form highly catalytically active species on the surface of ferromagnetic/non&#8208;magnetic CoFe2O4@CoBDC core&#8208;shell structure for electrochemical oxygen evolution reaction (OER). We demonstrate that the Kelvin force from the cores&#8217; local gradient magnetic field modulates the shells&#8217; surface reconstruction, leading to a higher proportion of Co2+ as active sites. These Co sites with optimized electronic configuration exhibit more favorable adsorption energy for oxygen&#8208;containing intermediates and lower the activation energy of the overall catalytic reaction. As a result, a significant enhancement in OER performance is achieved with a large current density increment about 128% at 1.63 V and an overpotential reduction by 28 mV at 10 mA cm&#8208;2 after reconstruction. Interestingly, after removing the external magnetic field, the activity could persist for over 100 h. This work showcases the directional surface reconstruction of catalysts under a gradient magnetic field for enhanced water oxidation.</description>
-      <author>Song Ma, Kaixi Wang, Moniba Rafique, Jiecai Han, Qiang Fu, Sida Jiang, Xianjie Wang, Tai Yao, Ping Xu, Bo Song</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202412821</guid>
+                There is a need to drastically reduce greenhouse gas emissions. While significant progress has been made in electrifying transport, heavy duty transportation and aviation are not likely to be capable of electrification in the near term, spurring significant research into biofuels. When coupled with carbon capture and storage, biofuels can achieve net-negative greenhouse gas emissions via many different conversion technologies such as fermentation, pyrolysis, or gasification to produce ethanol, gasoline, diesel, or jet fuel. However, each pathway has a different efficiency, capital and operating costs, and potential for carbon capture, making the optimal pathway dependent on policy and spatial factors. We use the Integrated Markal-EFOM System model applied to the USA, adding a rich suite of biofuel and carbon capture technologies, region-specific CO2 transportation and injection costs, and government incentives from the Inflation Reduction Act. We find that under current government incentives, biofuels and carbon capture from biorefineries are primarily focused in the Midwest and South of the USA, but play a relatively small role in the overall USA transportation sector even in 2055. However, increased government incentives, biomass availability, or oil price could lead to increased biofuel production and reduced transportation emissions.</description>
+      <author>Caleb H. Geissler, Christos T. Maravelias</author>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.69997/sct.167890</guid>
     </item>
     <item>
       <title>Simulating Coupled THM Problem and Wellbore Integrity Analyses with Two-Phase Fluid Flow in Naturally Fractured Reservoirs</title>
@@ -1068,26 +858,6 @@
       <guid isPermaLink="true">https://doi.org/10.56952/arma-2024-0123</guid>
     </item>
     <item>
-      <title>Biofuels with Carbon Capture and Storage in the United States Transportation Sector</title>
-      <link>https://doi.org/10.69997/sct.167890</link>
-      <description>Caleb H. Geissler, Christos T. Maravelias, No host. 3(None)] 2024. https://openalex.org/W4401461015
-
-                There is a need to drastically reduce greenhouse gas emissions. While significant progress has been made in electrifying transport, heavy duty transportation and aviation are not likely to be capable of electrification in the near term, spurring significant research into biofuels. When coupled with carbon capture and storage, biofuels can achieve net-negative greenhouse gas emissions via many different conversion technologies such as fermentation, pyrolysis, or gasification to produce ethanol, gasoline, diesel, or jet fuel. However, each pathway has a different efficiency, capital and operating costs, and potential for carbon capture, making the optimal pathway dependent on policy and spatial factors. We use the Integrated Markal-EFOM System model applied to the USA, adding a rich suite of biofuel and carbon capture technologies, region-specific CO2 transportation and injection costs, and government incentives from the Inflation Reduction Act. We find that under current government incentives, biofuels and carbon capture from biorefineries are primarily focused in the Midwest and South of the USA, but play a relatively small role in the overall USA transportation sector even in 2055. However, increased government incentives, biomass availability, or oil price could lead to increased biofuel production and reduced transportation emissions.</description>
-      <author>Caleb H. Geissler, Christos T. Maravelias</author>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.69997/sct.167890</guid>
-    </item>
-    <item>
-      <title>Selective electroreduction of CO&lt;sub&gt;2&lt;/sub&gt; to C&lt;sub&gt;2+&lt;/sub&gt; products on cobalt decorated copper catalysts</title>
-      <link>https://doi.org/10.20517/cs.2024.11</link>
-      <description>Sanaz Soodi, Junjun Zhang, Jie Zhang, Yuefeng Liu, Mohsen Lashgari, Spyridon Zafeiratos, Andreas Z&#252;ttel, Kun Zhao, Wen Luo, Chemical Synthesis. 4(3)] 2024. https://openalex.org/W4401373815
-
-                Cu-catalyzed electrochemical CO2 reduction reaction (CO2RR) to multi-carbon (C2+) products is often plagued by low selectivity because the adsorption energies of different reaction intermediates are in a linear scaling relationship. Development of Cu-based bimetallic catalysts has been considered as an attractive strategy to address this issue; however, conventional bimetallic catalysts often avoid metals with strong CO adsorption energies to prevent surface poisoning. Herein, we demonstrated that limiting the amount of Co in CuCo bimetallic catalysts can enhance C2+ product selectivity. Specifically, we synthesized a series of CuCox catalysts with trace amounts of Co (0.07-1.8 at%) decorated on the surface of Cu nanowires using a simple dip coating method. Our results revealed a volcano-shaped correlation between Co loading and C2+ selectivity, with the CuCo0.4% catalyst exhibiting a 2-fold increase in C2+ selectivity compared to the Cu nanowire sample. In situ Raman and Infrared spectroscopies suggested that an optimal amount of Co could stabilize the Cu oxide/hydroxide species under the CO2RR condition and promote the adsorption of CO, thus enhancing the C2+ selectivity. This work expands the potential for developing Cu-based bimetallic catalysts for CO2RR.</description>
-      <author>Sanaz Soodi, Junjun Zhang, Jie Zhang, Yuefeng Liu, Mohsen Lashgari, Spyridon Zafeiratos, Andreas Z&#252;ttel, Kun Zhao, Wen Luo</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20517/cs.2024.11</guid>
-    </item>
-    <item>
       <title>Revealing the Role of Lithium Carbonate at Lithium Metal Anodes Through Study of Gas-Reacted Interphases</title>
       <link>https://doi.org/10.1149/1945-7111/ad6d92</link>
       <description>Katherine Steinberg, Betar M. Gallant, Journal of The Electrochemical Society. None(None)] 2024. https://openalex.org/W4401447826
@@ -1098,14 +868,14 @@
       <guid isPermaLink="true">https://doi.org/10.1149/1945-7111/ad6d92</guid>
     </item>
     <item>
-      <title>Valorizing Polymeric Wastes and Biomass through Optimized Co-Pyrolysis for Upgraded Pyrolysis Oil: A study on TG-FTIR and Fixed bed reactor</title>
-      <link>https://doi.org/10.1016/j.jaap.2024.106686</link>
-      <description>Gulzeb Rajput, Bin Liu, Minhui Pan, Akash Kumar, Lata Kumari, Muhammad Zohaib Farooq, Dan Li, Fawei Lin, Longlong Ma, Journal of Analytical and Applied Pyrolysis. None(None)] 2024. https://openalex.org/W4401362519
+      <title>Use of pumice stone and silica fume as precursor material for the design of a geopolymer</title>
+      <link>https://doi.org/10.12688/f1000research.147701.2</link>
+      <description>Alexis Iv&#225;n Andrade Valle, Tito Castillo, Cristian Andr&#233;s Marcillo Zapata, M Rodr&#237;guez, Andrea Natal&#237; Z&#225;rate Villacr&#233;s, Marcelo David Guerra Valladares, Mayte Lisbeth Mieles Mari&#241;o, Jefferson Javier Castillo Cevallos, F1000Research. 13(None)] 2024. https://openalex.org/W4401521981
 
-                The co-pyrolysis of biomass and polymeric wastes offers a promising approach for waste reduction and valuable product recovery while decreasing fossil fuel dependence. This study aimed to investigate the synergistic effects of blending waste tire (WT) or polystyrene (PS) with sawdust (SD) at varying effective hydrogen/carbon ratio (H/Ceff) on liquid product distribution. Thermal degradation behavior was analyzed using TGA-FTIR, followed by fixed-bed reactor pyrolysis experiments at different temperatures. The devolatilization of SD primarily occurred between 185 and 390&#176;C, while WT and PS decomposed between 250-500&#176;C and 350-460&#176;C, respectively. Results showed that SD addition to WT accelerated degradation at lower temperatures. Optimal H/Ceff ratios were 0.42 for WT/SD and 0.64 for PS/SD blends at 500&#176;C, maximizing valued hydrocarbons, reducing pollutants, and yielding the highest liquid fraction. TGA-FTIR analysis revealed the presence of various functional groups, including C-H, C=C, CO2, and O-H. The pyrolytic oil showed improved stability with significantly fewer undesired compounds. This research provides theoretical and practical insights into the control and application potential as well as the limitations of high-value energy products derived from the co-pyrolysis of SD, WT, and PS.</description>
-      <author>Gulzeb Rajput, Bin Liu, Minhui Pan, Akash Kumar, Lata Kumari, Muhammad Zohaib Farooq, Dan Li, Fawei Lin, Longlong Ma</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106686</guid>
+                Background Geopolymers are alternative materials to cement because they require less energy in their production process; hence, they contribute to the reduction in CO2 emissions. This study aims to evaluate the possibility of using industrial residues such as silica fume (SF) to improve the physical and mechanical properties of a pumice stone (PS)-based geopolymer. Methods Through an experimental methodology, the process starts with the extraction, grinding, and sieving of the raw material to carry out the physical and chemical characterization of the resulting material, followed by the dosage of the geopolymer mixture considering the factors that influence the resistance mechanical strength. Finally, the physical and mechanical properties of the geopolymer were characterized. This research was carried out in four stages: characterization of the pumice stone, design of the geopolymer through laboratory tests, application according to the dosage of the concrete, and analysis of the data through a multi-criteria analysis. Results It was determined that the optimal percentage of SF replacement is 10%, which to improves the properties of the geopolymer allowing to reach a maximum resistance to compression and flexion of 14.10 MPa and 4.78 MPa respectively, showing that there is a direct relationship between the percentage of SF and the resistance. Conclusions Geopolymer preparation involves the use of PS powder with a composition rich in silicon and aluminum. The factors influencing strength include the ratio of sodium silicate to sodium hydroxide, water content, temperature, curing time, molarity of sodium hydroxide, and binder ratio. The results showed an increase in the compression and flexural strength with 10% SF replacement. The geopolymer&#8217;s maximum compressive strength indicates its non-structural use, but it can be improved by reducing the PS powder size.</description>
+      <author>Alexis Iv&#225;n Andrade Valle, Tito Castillo, Cristian Andr&#233;s Marcillo Zapata, M Rodr&#237;guez, Andrea Natal&#237; Z&#225;rate Villacr&#233;s, Marcelo David Guerra Valladares, Mayte Lisbeth Mieles Mari&#241;o, Jefferson Javier Castillo Cevallos</author>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.12688/f1000research.147701.2</guid>
     </item>
     <item>
       <title>Nano Technolgy Application to Enhance the Emission Control by Using Activated Carbons Modified by Magnesium Oxide</title>
@@ -1148,16 +918,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/buildings14082462</guid>
     </item>
     <item>
-      <title>The Potential For Ch4-enriched Biogas As A Transport Fuel In Ireland</title>
-      <link>https://doi.org/10.34719/vrkk7758</link>
-      <description>Niamh Power, No host. None(None)] 2024. https://openalex.org/W4401364246
-
-                "Ireland needs a biofuel industry- to aid compliance with the Kyoto Protocol, the Biofuels Directive and to secure its energ&gt;' supply. The overall aim of this work is to assess the potential of CH4-enriched biogas as a transport fuel in Ireland. Biogas is produced during the anaerobic digestion of biomass. This work investigates biogas production from two different feedstocks; biodegradable municipal waste and agricultural crops. To assess the potential for biogas as a transport fuel the alternatives to biogas are investigated and compared. Thus digestion and composting of biodegradable municipal waste, and biogas and ethanol production from agricultural crops arc investigated on a technical, economic and environmental basis. Ireland is facing a waste crisis; municipal waste production has grown at a significant rate over the last number of years; to compound this problem the Landfill Directive requires a reduction in the quantity of biodegradable municipal waste consigned to landfill. This thesis compares composting to anaerobic digestion with biogas utilisation as a transport fuel. The composting model is based on two weeks in-vessel composting followed by eight to ten weeks aerated static pile composting. The anaerobic digestion model is based on a dry digestion process, followed by water absorption for biogas upgrading, and biogas compression. At present biogas is not subjected to excise duty; if this situation remains then biogas is economically preferable to composting when treating more than 18,000 t/a (which equates to the waste produced by 80,000 people). However, if excise duty were applied to biogas, then composting is economically preferable when treating less than 48,000 t/a. The area of land that is available for energy crops was examined. Crops for energy production can be grown on set-aside land and land previously under sugar beet without affecting food production. Currently there are three main crops in Ireland; wheat, barley and sugar beet. Biogas production from these crops is investigated for various rotations, however in addition to biogas these crops can also be used for ethanol production. Thus biogas from these crops is in direct competition with ethanol; consequently biogas and ethanol are compared. On a technical basis it was found that biogas produces more energy per hectare than ethanol. It was also found that a crop rotation of wheat, wheat and sugar beet is preferable in terms of energy production for both biogas and ethanol production. On an economic basis, biogas is preferable to ethanol when compared per unit of energy&#8217;. On an environmental basis ethanol saves more CO2 than biogas; this is due to present documented levels of leakage of methane at the biogas facilities. If biogas losses were reduced to between 3.4-4.4% then biogas saves more CO2 than ethanol. Overall this work shows that biogas from biodegradable municipal waste and agricultural crops on 48,000 ha of land previously under sugar beet and set aside can replace up to 3.3% of petroleum fuels in 2010. Biogas on its own will not enable Ireland to comply with the Biofuels Directive but can aid Ireland if used in a combined approach with other renew able fuels and biogas from different sources."</description>
-      <author>Niamh Power</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.34719/vrkk7758</guid>
-    </item>
-    <item>
       <title>Fluid Flow in a Fracture Network Under Changing Stresses: A Laboratory Study</title>
       <link>https://doi.org/10.56952/arma-2024-0170</link>
       <description>Zili Mei, Wei Li, Wencheng Jin, Ghanashyam Neupane, Trevor A. Atkinson, No host. None(None)] 2024. https://openalex.org/W4401480268
@@ -1178,16 +938,6 @@
       <guid isPermaLink="true">https://doi.org/10.47191/ijcsrr/v7-i8-21</guid>
     </item>
     <item>
-      <title>Impact of mediterranean diet promotion on environmental sustainability: a longitudinal analysis</title>
-      <link>https://doi.org/10.32920/26528053</link>
-      <description>Laura &#193;lvarez&#8208;&#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n, No host. None(None)] 2024. https://openalex.org/W4401455005
-
-                &lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This article aims to estimate the differences in environmental impact (greenhouse gas [GHG] emissions, land use, energy used, acidification and potential eutrophication) after one year of promoting a Mediterranean diet (MD).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Baseline and 1-year follow-up data from 5800 participants in the PREDIMED-Plus study were used. Each participant's food intake was estimated using validated semi-quantitative food frequency questionnaires, and the adherence to MD using the Dietary Score. The influence of diet on environmental impact was assessed through the EAT-Lancet Commission tables. The influence of diet on environmental impact was assessed through the EAT-Lancet Commission tables. The association between MD adherence and its environmental impact was calculated using adjusted multivariate linear regression models.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;After one year of intervention, the kcal/day consumed was significantly reduced (&#8722;125,1 kcal/day), adherence to a MD pattern was improved (+0,9) and the environmental impact due to the diet was significantly reduced (GHG: &#8722;361 g/CO2-eq; Acidification:-11,5 g SO2-eq; Eutrophication:-4,7 g PO4-eq; Energy use:-842,7 kJ; and Land use:-2,2 m2). Higher adherence to MD (high vs. low) was significantly associated with lower environmental impact both at baseline and one year follow-up.&lt;/p&gt; &lt;p&gt;Meat products had the greatest environmental impact in all the factors analysed, both at baseline and at one-year follow-up, in spite of the reduction observed in their consumption.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;A program promoting a MD, after one year of intervention, significantly reduced the environmental impact in all the factors analysed. Meat products had the greatest environmental impact in all the dimensions analysed.&lt;/p&gt;</description>
-      <author>Laura &#193;lvarez&#8208;&#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.32920/26528053</guid>
-    </item>
-    <item>
       <title>PEMAKAIAN GEOGRAPHIC INFORMATION SYSTEM UNTUK PEMETAAN EMISI GAS RUMAH KACA SEKTOR LIMBAH DI KABUPATEN KARANGASEM</title>
       <link>https://doi.org/10.36002/jutik.v6i3.1307</link>
       <description>Affan Irfan Fauziawan, I Made Agus Wirahadi Putra, Ratna Kartika Wiyati, Jurnal Teknologi Informasi dan Komputer. 6(3)] 2021. https://openalex.org/W4401494427
@@ -1196,6 +946,16 @@
       <author>Affan Irfan Fauziawan, I Made Agus Wirahadi Putra, Ratna Kartika Wiyati</author>
       <pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.36002/jutik.v6i3.1307</guid>
+    </item>
+    <item>
+      <title>Impact of mediterranean diet promotion on environmental sustainability: a longitudinal analysis</title>
+      <link>https://doi.org/10.32920/26528053</link>
+      <description>Laura &#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n, No host. None(None)] 2024. https://openalex.org/W4401455005
+
+                &lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This article aims to estimate the differences in environmental impact (greenhouse gas [GHG] emissions, land use, energy used, acidification and potential eutrophication) after one year of promoting a Mediterranean diet (MD).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Baseline and 1-year follow-up data from 5800 participants in the PREDIMED-Plus study were used. Each participant's food intake was estimated using validated semi-quantitative food frequency questionnaires, and the adherence to MD using the Dietary Score. The influence of diet on environmental impact was assessed through the EAT-Lancet Commission tables. The influence of diet on environmental impact was assessed through the EAT-Lancet Commission tables. The association between MD adherence and its environmental impact was calculated using adjusted multivariate linear regression models.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;After one year of intervention, the kcal/day consumed was significantly reduced (&#8722;125,1 kcal/day), adherence to a MD pattern was improved (+0,9) and the environmental impact due to the diet was significantly reduced (GHG: &#8722;361 g/CO2-eq; Acidification:-11,5 g SO2-eq; Eutrophication:-4,7 g PO4-eq; Energy use:-842,7 kJ; and Land use:-2,2 m2). Higher adherence to MD (high vs. low) was significantly associated with lower environmental impact both at baseline and one year follow-up.&lt;/p&gt; &lt;p&gt;Meat products had the greatest environmental impact in all the factors analysed, both at baseline and at one-year follow-up, in spite of the reduction observed in their consumption.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;A program promoting a MD, after one year of intervention, significantly reduced the environmental impact in all the factors analysed. Meat products had the greatest environmental impact in all the dimensions analysed.&lt;/p&gt;</description>
+      <author>Laura &#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n</author>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.32920/26528053</guid>
     </item>
     <item>
       <title>Evolution of the Reservoir Stress Path During Depletion and Re-Inflation and its Implications</title>
@@ -1210,10 +970,10 @@
     <item>
       <title>Impact of mediterranean diet promotion on environmental sustainability: a longitudinal analysis</title>
       <link>https://doi.org/10.32920/26528053.v1</link>
-      <description>Laura &#193;lvarez&#8208;&#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n, No host. None(None)] 2024. https://openalex.org/W4401476329
+      <description>Laura &#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n, No host. None(None)] 2024. https://openalex.org/W4401476329
 
                 &lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This article aims to estimate the differences in environmental impact (greenhouse gas [GHG] emissions, land use, energy used, acidification and potential eutrophication) after one year of promoting a Mediterranean diet (MD).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Baseline and 1-year follow-up data from 5800 participants in the PREDIMED-Plus study were used. Each participant's food intake was estimated using validated semi-quantitative food frequency questionnaires, and the adherence to MD using the Dietary Score. The influence of diet on environmental impact was assessed through the EAT-Lancet Commission tables. The influence of diet on environmental impact was assessed through the EAT-Lancet Commission tables. The association between MD adherence and its environmental impact was calculated using adjusted multivariate linear regression models.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;After one year of intervention, the kcal/day consumed was significantly reduced (&#8722;125,1 kcal/day), adherence to a MD pattern was improved (+0,9) and the environmental impact due to the diet was significantly reduced (GHG: &#8722;361 g/CO2-eq; Acidification:-11,5 g SO2-eq; Eutrophication:-4,7 g PO4-eq; Energy use:-842,7 kJ; and Land use:-2,2 m2). Higher adherence to MD (high vs. low) was significantly associated with lower environmental impact both at baseline and one year follow-up.&lt;/p&gt; &lt;p&gt;Meat products had the greatest environmental impact in all the factors analysed, both at baseline and at one-year follow-up, in spite of the reduction observed in their consumption.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;A program promoting a MD, after one year of intervention, significantly reduced the environmental impact in all the factors analysed. Meat products had the greatest environmental impact in all the dimensions analysed.&lt;/p&gt;</description>
-      <author>Laura &#193;lvarez&#8208;&#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n</author>
+      <author>Laura &#193;lvarez, Facundo Vitelli&#8208;Storelli, Mar&#237;a Rub&#237;n&#8208;Garc&#237;a, Silvia Garc&#237;a, Cristina Bouzas, Miguel Ruiz&#8208;Canela, Dolores Corella, Jordi Salas&#8208;Salvad&#243;, Montserrat Fit&#243;, J. Alfredo Mart&#237;n&#233;z, Lucas Tojal&#8208;Sierra, Julia W&#228;rnberg, Jes&#250;s Vioqu&#233;, Dora Romaguera, Jos&#233; L&#243;pez&#8208;Miranda, Ram&#243;n Estruch, Francisco J. Tinahones, Manuel Ortega&#8208;Calvo, Llu&#237;s Serra&#8208;Majem, Aurora Bueno&#8208;Cavanillas, Cristina Garc&#237;a&#8208;Fern&#225;ndez, Virginia Esteve-Luque, Miguel Delgado-Rodr&#305;&#769;guez, Macarena Torrego-Ellacur&#237;a, Josep Vidal, Lu&#237;s Prieto, Lidia Daimiel, Rosa Casas, Ana Garc&#237;a&#8208;Arellano, Sangeetha Shyam, Jos&#233; I. Gonz&#225;lez, Olga Casta&#241;er, Antonio Garc&#237;a&#8208;R&#237;os, Fran&#231;ois D&#237;az, Antonio Castro Fern&#225;ndez, Almudena S&#225;nchez&#8208;Villegas, Marga Morey, Naomi Cano&#8208;Ib&#225;&#241;ez, Carolina Sorto-S&#225;nchez, M. Rosa Bernal&#8208;L&#243;pez, Maira Bes&#8208;Rastrollo, Stephanie Nishi, &#211;scar Coltell, Mar&#237;a Dolores Zome&#241;o, Patricia J. Pe&#241;a&#8208;Orihuela, D.V. Aparicio, M. &#193;ngeles Zulet, Zenaida V&#225;zquez&#8208;Ruiz, Nancy Babi&#243;, K.A. P&#233;rez, Josep A. Tur, Vicente Mart&#237;n</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.32920/26528053.v1</guid>
     </item>

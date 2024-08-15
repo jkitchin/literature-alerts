@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Aug 2024 01:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 01:09:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Platinum&#8208;Ruthenium Bimetallic Nanoparticle Catalysts Synthesized Via Direct Joule Heating for Methanol Fuel Cells</title>
-      <link>https://doi.org/10.1002/smll.202403967</link>
-      <description>Yeyu Deng, Haibo Liu, Leo Lai, Fangxin She, Fangzhou Liu, Mohan Li, Zixun Yu, Jing Li, Di Zhu, Hao Li, Li Wei, Yuan Chen, Small. None(None)] 2024. https://openalex.org/W4401357624
-
-                Platinum-Ruthenium (PtRu) bimetallic nanoparticles are promising catalysts for methanol oxidation reaction (MOR) required by direct methanol fuel cells. However, existing catalyst synthesis methods have difficulty controlling their composition and structures. Here, a direct Joule heating method to yield highly active and stable PtRu catalysts for MOR is shown. The optimized Joule heating condition at 1000 &#176;C over 50 microseconds produces uniform PtRu nanoparticles (6.32 wt.% Pt and 2.97 wt% Ru) with an average size of 2.0 &#177; 0.5 nanometers supported on carbon black substrates. They have a large electrochemically active surface area (ECSA) of 239 m</description>
-      <author>Yeyu Deng, Haibo Liu, Leo Lai, Fangxin She, Fangzhou Liu, Mohan Li, Zixun Yu, Jing Li, Di Zhu, Hao Li, Li Wei, Yuan Chen</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202403967</guid>
-    </item>
-    <item>
-      <title>Bi&lt;sub&gt;1&lt;/sub&gt;&#8208;CuCo&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Hollow Carbon Nanofibers Boosts NH&lt;sub&gt;3&lt;/sub&gt; Production from Electrocatalytic Nitrate Reduction</title>
-      <link>https://doi.org/10.1002/adfm.202409696</link>
-      <description>Hexing Lin, Jinshan Wei, Ying Guo, Yi Li, Xihui Lu, Chucheng Zhou, Shaoqing Liu, Ya&#8208;yun Li, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401358428
-
-                Abstract Ammonia, as a high&#8208;energy&#8208;density carrier for hydrogen storage, is in great demand worldwide. Electrocatalytic nitrate reduction reaction (NO 3 RR) provides a green NH 3 production process. However, the complex reaction pathways for NO 3 RR to NH 3 and the difficulty in controlling intermediate products limit the reduction process. Herein, by incorporating atomic&#8208;level bismuth (Bi) into CuCo 2 O 4 hollow carbon nanofibers, the catalytic activity of the electrocatalyst for NO 3 RR is enhanced. The maximum Faradaic efficiency of Bi 1 &#8208;CuCo 2 O 4 is 95.53%, with an NH 3 yield of 448.74 &#181;mol h &#8722;1 cm &#8722;2 at &#8722;0.8 V versus RHE. Density Functional Theory calculations show that the presence of Bi lowers the reaction barrier for the hydrogenation step from *NO 2 to *NO 2 H, while promoting mass transfer on the release of *NH 3 and the reactivation of surface&#8208;active sites. Differential charge density calculations also show that after Bi doping, the charge supplied by the catalyst to NO 3 &#8722; increases from 0.62 to 0.72 e &#8208; , thus reasoned for enhanced NO 3 RR activity. The established nitrate&#8208;Zn battery shows an energy density of 2.81 mW cm &#8722;2 , thus implying the potential application.</description>
-      <author>Hexing Lin, Jinshan Wei, Ying Guo, Yi Li, Xihui Lu, Chucheng Zhou, Shaoqing Liu, Ya&#8208;yun Li</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202409696</guid>
-    </item>
-    <item>
-      <title>First-principles investigation of the two-dimensional van der Waals g-C3N4/g-ZnO heterojunction: Enhancing the photocatalytic hydrogen evolution activity</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.104919</link>
-      <description>Xinxin Tian, Zizhou Cai, Yunlan Sun, Minggao Xu, Baozhong Zhu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401371191
-
-                No abstract</description>
-      <author>Xinxin Tian, Zizhou Cai, Yunlan Sun, Minggao Xu, Baozhong Zhu</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104919</guid>
-    </item>
     <item>
       <title>Electronic Properties of Single-Atom Metal Catalysts Supported on Nitrogen-Doped Carbon</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c03232</link>
@@ -386,6 +356,16 @@
       <author>Huiyuan Liang, Yubin Xian, Xujing Wang</author>
       <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1442689</guid>
+    </item>
+    <item>
+      <title>NJmat: Data-Driven Machine Learning Interface to Accelerate Material Design</title>
+      <link>https://doi.org/10.1021/acs.jcim.4c00493</link>
+      <description>Yiru Huang, Lei Zhang, Hao Deng, Junfei Mao, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4401508126
+
+                Machine learning techniques have significantly transformed the way materials scientists conduct research. However, the widespread deployment of machine learning software in daily experimental and simulation research for materials and chemical design has been limited. This is partly due to the substantial time investment and learning curve associated with mastering the necessary codes and computational environments. In this paper, we introduce a user-friendly, data-driven machine learning interface featuring multiple "button-clicking" functionalities to streamline the design of materials and chemicals. This interface automates the processes of transforming materials and molecules, performing feature selection, constructing machine learning models, making virtual predictions, and visualizing results. Such automation accelerates materials prediction and analysis in the inverse design process, aligning with the time criteria outlined by the Materials Genome Initiative. With simple button clicks, researchers can build machine learning models and predict new materials once they have gathered experimental or simulation data. Beyond the ease of use, NJmat offers three additional features for data-driven materials design: (1) automatic feature generation for both inorganic materials (from chemical formulas) and organic molecules (from SMILES), (2) automatic generation of Shapley plots, and (3) automatic construction of "white-box" genetic models and decision trees to provide scientific insights. We present case studies on surface design for halide perovskite materials encompassing both inorganic and organic species. These case studies illustrate general machine learning models for virtual predictions as well as the automatic featurization and Shapley/genetic model construction capabilities. We anticipate that this software tool will expedite materials and molecular design within the scope of the Materials Genome Initiative, particularly benefiting experimentalists.</description>
+      <author>Yiru Huang, Lei Zhang, Hao Deng, Junfei Mao</author>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c00493</guid>
     </item>
     <item>
       <title>Spatially Resolved Uncertainties for Machine Learning Potentials</title>

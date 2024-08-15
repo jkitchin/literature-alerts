@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Aug 2024 01:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 01:09:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -206,6 +206,16 @@
       <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
       <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2427262</guid>
+    </item>
+    <item>
+      <title>Ligand Shell Thickness of PEGylated Gold Nanoparticles Controls Cellular Uptake and Radiation Enhancement</title>
+      <link>https://doi.org/10.1021/acsomega.4c06568</link>
+      <description>Paul T. Lawrence, Andrew J. Gellman, Allison J. Tierney, E. Charles H. Sykes, Charles R. Mace, ACS Omega. None(None)] 2024. https://openalex.org/W4401534980
+
+                No abstract</description>
+      <author>Paul T. Lawrence, Andrew J. Gellman, Allison J. Tierney, E. Charles H. Sykes, Charles R. Mace</author>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c06568</guid>
     </item>
   </channel>
 </rss>

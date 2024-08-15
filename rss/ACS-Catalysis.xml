@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Aug 2024 01:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 01:09:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Kinetic and Thermodynamic Requirements for Polyoxymethylene Dimethyl Ether Synthesis Catalyzed by Ion-Exchange Resin</title>
-      <link>https://doi.org/10.1021/acscatal.4c01616</link>
-      <description>Junfeng Guo, Ya-Huei Cathy Chin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401353172
-
-                No abstract</description>
-      <author>Junfeng Guo, Ya-Huei Cathy Chin</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01616</guid>
-    </item>
-    <item>
-      <title>Synergistic V&#8211;Nb Sites Modulate Selective Alkene Epoxidation with In Situ Photogenerated H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; over COF@MXene Heterostructures</title>
-      <link>https://doi.org/10.1021/acscatal.4c03630</link>
-      <description>Huang Yi, Huajun Gu, Huihui Zhang, Xinglin Wang, Linlin Gao, Yuanyuan Cui, Baoning Zong, Hexing Li, Wei&#8208;Lin Dai, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401356192
-
-                No abstract</description>
-      <author>Huang Yi, Huajun Gu, Huihui Zhang, Xinglin Wang, Linlin Gao, Yuanyuan Cui, Baoning Zong, Hexing Li, Wei&#8208;Lin Dai</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03630</guid>
-    </item>
-    <item>
-      <title>Substrate Trapping in Polyketide Synthase Thioesterase Domains: Structural Basis for Macrolactone Formation</title>
-      <link>https://doi.org/10.1021/acscatal.4c03637</link>
-      <description>Tyler M. McCullough, Vishakha Choudhary, D.L. Akey, Meredith A. Skiba, Steffen M. Bernard, Jeffrey D. Kittendorf, Jennifer J. Schmidt, David H. Sherman, Janet L. Smith, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401356480
-
-                No abstract</description>
-      <author>Tyler M. McCullough, Vishakha Choudhary, D.L. Akey, Meredith A. Skiba, Steffen M. Bernard, Jeffrey D. Kittendorf, Jennifer J. Schmidt, David H. Sherman, Janet L. Smith</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03637</guid>
-    </item>
-    <item>
-      <title>Radical Cation Diels&#8211;Alder Reaction by Photocatalysis at a Dye Sensitized Photoanode</title>
-      <link>https://doi.org/10.1021/acscatal.4c01288</link>
-      <description>Michael D. Turlington, Sohel Ahmed, Kirk S. Schanze, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401357127
-
-                No abstract</description>
-      <author>Michael D. Turlington, Sohel Ahmed, Kirk S. Schanze</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01288</guid>
-    </item>
-    <item>
-      <title>Upgrading Single S-Scheme Heterojunction to Multi-S-Scheme Ones for Better Synergy of Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction and H&lt;sub&gt;2&lt;/sub&gt;O Oxidation: The Third Component Location Matters</title>
-      <link>https://doi.org/10.1021/acscatal.4c03286</link>
-      <description>Fengying Cao, Wei Wang, Xiangyue Niu, Xinyuan Lin, Guoxiu Tong, Shuxian Zhong, Hongjun Lin, Leihong Zhao, Song Bai, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401357704
-
-                No abstract</description>
-      <author>Fengying Cao, Wei Wang, Xiangyue Niu, Xinyuan Lin, Guoxiu Tong, Shuxian Zhong, Hongjun Lin, Leihong Zhao, Song Bai</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03286</guid>
-    </item>
-    <item>
-      <title>Rational Engineering of Enzymes for Enhanced Cold Activity</title>
-      <link>https://doi.org/10.1021/acscatal.4c02580</link>
-      <description>Weigao Wang, James R. Swartz, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401357986
-
-                No abstract</description>
-      <author>Weigao Wang, James R. Swartz</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02580</guid>
-    </item>
-    <item>
-      <title>Contrasting Metallic (Rh&lt;sup&gt;0&lt;/sup&gt;) and Carbidic (2D-Mo&lt;sub&gt;2&lt;/sub&gt;C MXene) Surfaces in Olefin Hydrogenation Provides Insights on the Origin of the Pairwise Hydrogen Addition</title>
-      <link>https://doi.org/10.1021/acscatal.4c02534</link>
-      <description>Ling Meng, Ekaterina V. Pokochueva, Zixuan Chen, Alexey Fedorov, Francesc Vi&#241;es, Francesc Illas, Igor V. Koptyug, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401358690
-
-                No abstract</description>
-      <author>Ling Meng, Ekaterina V. Pokochueva, Zixuan Chen, Alexey Fedorov, Francesc Vi&#241;es, Francesc Illas, Igor V. Koptyug</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02534</guid>
-    </item>
     <item>
       <title>Halide Salts Alleviate TMSOK Inhibition in Suzuki&#8211;Miyaura Cross-Couplings</title>
       <link>https://doi.org/10.1021/acscatal.4c02407</link>
@@ -130,10 +60,10 @@
     <item>
       <title>Understanding and Controlling Reactivity Patterns of Pd&lt;sub&gt;1&lt;/sub&gt;@C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;-Catalyzed Suzuki&#8211;Miyaura Couplings</title>
       <link>https://doi.org/10.1021/acscatal.4c03531</link>
-      <description>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez-Ram&#305;&#769;rez, Sharon Mitchell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401388208
+      <description>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401388208
 
                 No abstract</description>
-      <author>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez-Ram&#305;&#769;rez, Sharon Mitchell</author>
+      <author>Marc&#8208;Eduard Usteri, Georgios Giannakakis, Aram L. Bugaev, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03531</guid>
     </item>
@@ -346,6 +276,16 @@
       <author>Ayoola B. Smith, Jonathan R. Chekan</author>
       <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01958</guid>
+    </item>
+    <item>
+      <title>Alkene Cyclopropanation with &lt;i&gt;gem&lt;/i&gt;-Dichloroalkanes Catalyzed by (PNN)Co Complexes: Scope and Mechanism</title>
+      <link>https://doi.org/10.1021/acscatal.4c03059</link>
+      <description>Bin Cao, Guixia Liu, Zheng Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401512854
+
+                No abstract</description>
+      <author>Bin Cao, Guixia Liu, Zheng Huang</author>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03059</guid>
     </item>
   </channel>
 </rss>

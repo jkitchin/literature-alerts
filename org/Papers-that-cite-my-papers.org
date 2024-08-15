@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Wed Aug 14 01:12:57 2024
+Created on Thu Aug 15 01:09:33 2024
 
-Found 40 results from 2024-08-07 to 2024-08-14
+Found 38 results from 2024-08-08 to 2024-08-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967]]
@@ -16,69 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357]]
-
-* Platinum‐Ruthenium Bimetallic Nanoparticle Catalysts Synthesized Via Direct Joule Heating for Methanol Fuel Cells  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401357624
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-08-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202403967")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401357624"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401357624"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401357624"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401357624 (Open access: True)
-    
-[[https://openalex.org/A5016264335][Yeyu Deng]], [[https://openalex.org/A5100394072][Haibo Liu]], [[https://openalex.org/A5102769761][Leo Lai]], [[https://openalex.org/A5025067670][Fangxin She]], [[https://openalex.org/A5100683474][Fangzhou Liu]], [[https://openalex.org/A5100716226][Mohan Li]], [[https://openalex.org/A5063873435][Zixun Yu]], [[https://openalex.org/A5100336948][Jing Li]], [[https://openalex.org/A5100784061][Di Zhu]], [[https://openalex.org/A5100348631][Hao Li]], [[https://openalex.org/A5100454543][Li Wei]], [[https://openalex.org/A5100400885][Yuan Chen]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202403967 
-     
-Platinum-Ruthenium (PtRu) bimetallic nanoparticles are promising catalysts for methanol oxidation reaction (MOR) required by direct methanol fuel cells. However, existing catalyst synthesis methods have difficulty controlling their composition and structures. Here, a direct Joule heating method to yield highly active and stable PtRu catalysts for MOR is shown. The optimized Joule heating condition at 1000 °C over 50 microseconds produces uniform PtRu nanoparticles (6.32 wt.% Pt and 2.97 wt% Ru) with an average size of 2.0 ± 0.5 nanometers supported on carbon black substrates. They have a large electrochemically active surface area (ECSA) of 239 m    
-
-    
-
-* Bi1‐CuCo2O4 Hollow Carbon Nanofibers Boosts NH3 Production from Electrocatalytic Nitrate Reduction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401358428
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Materials and Methods for Hydrogen Storage
-:PUBLICATION_DATE: 2024-08-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202409696")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401358428"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401358428"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401358428"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401358428 (Open access: False)
-    
-[[https://openalex.org/A5101285299][Hexing Lin]], [[https://openalex.org/A5003649038][Jinshan Wei]], [[https://openalex.org/A5026685456][Ying Guo]], [[https://openalex.org/A5100730622][Yi Li]], [[https://openalex.org/A5101285300][Xihui Lu]], [[https://openalex.org/A5065059381][Chucheng Zhou]], [[https://openalex.org/A5101768312][Shaoqing Liu]], [[https://openalex.org/A5034787311][Ya‐yun Li]], Advanced Functional Materials. None(None)] 2024. https://doi.org/10.1002/adfm.202409696 
-     
-Abstract Ammonia, as a high‐energy‐density carrier for hydrogen storage, is in great demand worldwide. Electrocatalytic nitrate reduction reaction (NO 3 RR) provides a green NH 3 production process. However, the complex reaction pathways for NO 3 RR to NH 3 and the difficulty in controlling intermediate products limit the reduction process. Herein, by incorporating atomic‐level bismuth (Bi) into CuCo 2 O 4 hollow carbon nanofibers, the catalytic activity of the electrocatalyst for NO 3 RR is enhanced. The maximum Faradaic efficiency of Bi 1 ‐CuCo 2 O 4 is 95.53%, with an NH 3 yield of 448.74 µmol h −1 cm −2 at −0.8 V versus RHE. Density Functional Theory calculations show that the presence of Bi lowers the reaction barrier for the hydrogenation step from *NO 2 to *NO 2 H, while promoting mass transfer on the release of *NH 3 and the reactivation of surface‐active sites. Differential charge density calculations also show that after Bi doping, the charge supplied by the catalyst to NO 3 − increases from 0.62 to 0.72 e ‐ , thus reasoned for enhanced NO 3 RR activity. The established nitrate‐Zn battery shows an energy density of 2.81 mW cm −2 , thus implying the potential application.    
-
-    
-
-* First-principles investigation of the two-dimensional van der Waals g-C3N4/g-ZnO heterojunction: Enhancing the photocatalytic hydrogen evolution activity  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401371191
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Perovskite Solar Cell Technology, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.surfin.2024.104919")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401371191"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401371191"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401371191"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401371191 (Open access: False)
-    
-[[https://openalex.org/A5101425039][Xinxin Tian]], [[https://openalex.org/A5101941133][Zizhou Cai]], [[https://openalex.org/A5101843202][Yunlan Sun]], [[https://openalex.org/A5056327769][Minggao Xu]], [[https://openalex.org/A5065681651][Baozhong Zhu]], Surfaces and Interfaces. None(None)] 2024. https://doi.org/10.1016/j.surfin.2024.104919 
-     
-No abstract    
-
-    
 
 * Electronic Properties of Single-Atom Metal Catalysts Supported on Nitrogen-Doped Carbon  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -815,10 +752,31 @@ Single-atom nanozymes (SAzymes) represent a cutting-edge advancement in nanomate
 
     
 
+* NJmat: Data-Driven Machine Learning Interface to Accelerate Material Design  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401508126
+:TOPICS: Accelerating Materials Innovation through Informatics, Atom Probe Tomography Research, Powder Diffraction Analysis
+:PUBLICATION_DATE: 2024-08-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jcim.4c00493")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401508126"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401508126"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401508126"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401508126 (Open access: False)
+    
+[[https://openalex.org/A5101410114][Yiru Huang]], [[https://openalex.org/A5100665846][Lei Zhang]], [[https://openalex.org/A5005349829][Hao Deng]], [[https://openalex.org/A5101261363][Junfei Mao]], Journal of Chemical Information and Modeling. None(None)] 2024. https://doi.org/10.1021/acs.jcim.4c00493 
+     
+Machine learning techniques have significantly transformed the way materials scientists conduct research. However, the widespread deployment of machine learning software in daily experimental and simulation research for materials and chemical design has been limited. This is partly due to the substantial time investment and learning curve associated with mastering the necessary codes and computational environments. In this paper, we introduce a user-friendly, data-driven machine learning interface featuring multiple "button-clicking" functionalities to streamline the design of materials and chemicals. This interface automates the processes of transforming materials and molecules, performing feature selection, constructing machine learning models, making virtual predictions, and visualizing results. Such automation accelerates materials prediction and analysis in the inverse design process, aligning with the time criteria outlined by the Materials Genome Initiative. With simple button clicks, researchers can build machine learning models and predict new materials once they have gathered experimental or simulation data. Beyond the ease of use, NJmat offers three additional features for data-driven materials design: (1) automatic feature generation for both inorganic materials (from chemical formulas) and organic molecules (from SMILES), (2) automatic generation of Shapley plots, and (3) automatic construction of "white-box" genetic models and decision trees to provide scientific insights. We present case studies on surface design for halide perovskite materials encompassing both inorganic and organic species. These case studies illustrate general machine learning models for virtual predictions as well as the automatic featurization and Shapley/genetic model construction capabilities. We anticipate that this software tool will expedite materials and molecular design within the scope of the Materials Genome Initiative, particularly benefiting experimentalists.    
+
+    
+
 * Spatially Resolved Uncertainties for Machine Learning Potentials  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401386355
-:TOPICS: Accelerating Materials Innovation through Informatics, Time Series Forecasting Methods
+:TOPICS: Accelerating Materials Innovation through Informatics, Protein Structure Prediction and Analysis, Computational Methods in Drug Discovery
 :PUBLICATION_DATE: 2024-08-07
 :END:    
     
@@ -830,7 +788,7 @@ Single-atom nanozymes (SAzymes) represent a cutting-edge advancement in nanomate
 
 OpenAlex: https://openalex.org/W4401386355 (Open access: True)
     
-[[https://openalex.org/A5018855407][Esther Heid]], [[https://openalex.org/A5096114238][Johannes Schörghuber]], [[https://openalex.org/A5017149091][Ralf Wanzenböck]], [[https://openalex.org/A5047162823][Georg K. H. Madsen]], Journal of Chemical Information and Modeling. None(None)] 2024. https://doi.org/10.1021/acs.jcim.4c00904 
+[[https://openalex.org/A5018855407][Esther Heid]], [[https://openalex.org/A5096114238][Johannes Schörghuber]], [[https://openalex.org/A5017149091][Ralf Wanzenböck]], [[https://openalex.org/A5047162823][Georg K. H. Madsen]], Journal of Chemical Information and Modeling. None(None)] 2024. https://doi.org/10.1021/acs.jcim.4c00904  ([[https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.4c00904][pdf]])
      
 Machine learning potentials have become an essential tool for atomistic simulations, yielding results close to ab initio simulations at a fraction of computational cost. With recent improvements on the achievable accuracies, the focus has now shifted on the data set composition itself. The reliable identification of erroneously predicted configurations to extend a given data set is therefore of high priority. Yet, uncertainty estimation techniques have achieved mixed results for machine learning potentials. Consequently, a general and versatile method to correlate energy or atomic force uncertainties with the model error has remained elusive to date. In the current work, we show that epistemic uncertainty cannot correlate with model error by definition but can be aggregated over groups of atoms to yield a strong correlation. We demonstrate that our method correctly estimates prediction errors both globally per structure and locally resolved per atom. The direct correlation of local uncertainty and local error is used to design an active learning framework based on identifying local subregions of a large simulation cell and performing ab initio calculations only for the subregion subsequently. We successfully utilized this method to perform active learning in the low-data regime for liquid water.    
 
