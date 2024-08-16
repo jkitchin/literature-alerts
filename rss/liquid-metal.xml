@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Aug 2024 01:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 01:12:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>3D Shape Reconstruction of Ge Nanowires during Vapor&#8211;Liquid&#8211;Solid Growth under Modulating Electric Field</title>
+      <link>https://doi.org/10.1021/acsnano.4c00087</link>
+      <description>Ivan Erofeev, Khakimjon Saidov, Zhaslan Baraissov, Hongwei Yan, Jean&#8208;Luc Maurice, Federico Panciera, Utkur Mirsaidov, ACS Nano. None(None)] 2024. https://openalex.org/W4401510259
+
+                Bottom-up growth offers precise control over the structure and geometry of semiconductor nanowires (NWs), enabling a wide range of possible shapes and seamless heterostructures for applications in nanophotonics and electronics. The most common vapor-liquid-solid (VLS) growth method features a complex interaction between the liquid metal catalyst droplet and the anisotropic structure of the crystalline NW, and the growth is mainly orchestrated by the triple-phase line (TPL). Despite the intrinsic mismatch between the droplet and the NW symmetries, its discussion has been largely avoided because of its complexity, which has led to the situation when multiple observed phenomena such as NW axial asymmetry or the oscillating truncation at the TPL still lack detailed explanation. The introduction of an electric field control of the droplet has opened even more questions, which cannot be answered without properly addressing three-dimensional (3D) structure and morphology of the NW and the droplet. This work describes the details of electric-field-controlled VLS growth of germanium (Ge) NWs using environmental transmission electron microscopy (ETEM). We perform TEM tomography of the droplet-NW system during an unperturbed growth, then track its evolution while modulating the bias potential. Using 3D finite element method (FEM) modeling and crystallographic considerations, we provide a detailed and consistent mechanism for VLS growth, which naturally explains the observed asymmetries and features of a growing NW based on its crystal structure. Our findings provide a solid framework for the fabrication of complex 3D semiconductor nanostructures with ultimate control over their morphology.</description>
+      <author>Ivan Erofeev, Khakimjon Saidov, Zhaslan Baraissov, Hongwei Yan, Jean&#8208;Luc Maurice, Federico Panciera, Utkur Mirsaidov</author>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c00087</guid>
+    </item>
   </channel>
 </rss>
