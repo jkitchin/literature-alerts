@@ -1,52 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Aug 16 01:12:11 2024
+Created on Sat Aug 17 01:10:21 2024
 
-Found 24 results from 2024-08-09 to 2024-08-16
+Found 22 results from 2024-08-10 to 2024-08-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Conflict-Based Model Predictive Control for Scalable Multi-Robot Motion Planning  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401415691
-:TOPICS: Model Predictive Control in Industrial Processes, Sampling-Based Motion Planning Algorithms, Process Fault Detection and Diagnosis in Industries
-:PUBLICATION_DATE: 2024-05-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1109/icra57147.2024.10611078")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401415691"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401415691"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401415691"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401415691 (Open access: False)
-    
-[[https://openalex.org/A5014691724][Ardalan Tajbakhsh]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5081925724][Aaron M. Johnson]], No host. None(None)] 2024. https://doi.org/10.1109/icra57147.2024.10611078 
-     
-No abstract    
-
-    
-
-* Substantial contribution of transported emissions to organic aerosol in Beijing  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401428022
-:TOPICS: Atmospheric Aerosols and their Impacts, Health Effects of Air Pollution, Estimating Vehicle Fuel Consumption and Emissions
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41561-024-01493-3")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401428022"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401428022"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401428022"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401428022 (Open access: True)
-    
-[[https://openalex.org/A5066037967][Kaspar R. Daellenbach]], [[https://openalex.org/A5064822057][Jing Cai]], [[https://openalex.org/A5030695012][Simo Hakala]], [[https://openalex.org/A5049539173][Lubna Dada]], [[https://openalex.org/A5049317897][Chao Yan]], [[https://openalex.org/A5023469926][Wei Du]], [[https://openalex.org/A5045164504][Lei Yao]], [[https://openalex.org/A5035640974][Feixue Zheng]], [[https://openalex.org/A5053595484][Jialiang Ma]], [[https://openalex.org/A5079930426][Florian Ungeheuer]], [[https://openalex.org/A5008883975][Alexander Vogel]], [[https://openalex.org/A5063223340][Dominik Stolzenburg]], [[https://openalex.org/A5089709539][Yufang Hao]], [[https://openalex.org/A5101668971][Yongchun Liu]], [[https://openalex.org/A5075179945][Federico Bianchi]], [[https://openalex.org/A5050712421][Gaëlle Uzu]], [[https://openalex.org/A5058155602][Jean‐Luc Jaffrezo]], [[https://openalex.org/A5026978286][Douglas R. Worsnop]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5000471665][Markku Kulmala]], Nature Geoscience. 17(8)] 2024. https://doi.org/10.1038/s41561-024-01493-3 
-     
-Haze in Beijing is linked to atmospherically formed secondary organic aerosol, which has been shown to be particularly harmful to human health. However, the sources and formation pathways of these secondary aerosols remain largely unknown, hindering effective pollution mitigation. Here we have quantified the sources of organic aerosol via direct near-molecular observations in central Beijing. In winter, organic aerosol pollution arises mainly from fresh solid-fuel emissions and secondary organic aerosols originating from both solid-fuel combustion and aqueous processes, probably involving multiphase chemistry with aromatic compounds. The most severe haze is linked to secondary organic aerosols originating from solid-fuel combustion, transported from the Beijing-Tianjing-Hebei Plain and rural mountainous areas west of Beijing. In summer, the increased fraction of secondary organic aerosol is dominated by aromatic emissions from the Xi'an-Shanghai-Beijing region, while the contribution of biogenic emissions remains relatively small. Overall, we identify the main sources of secondary organic aerosol affecting Beijing, which clearly extend beyond the local emissions in Beijing. Our results suggest that targeting key organic precursor emission sectors regionally may be needed to effectively mitigate organic aerosol pollution.    
-
-    
 
 * Economic Optimization and Impact of Utility Costs on the Optimal Design of Piperazine-Based Carbon Capture  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -294,7 +252,7 @@ Critical minerals and rare earth elements play an important role in our climate 
 
 OpenAlex: https://openalex.org/W4401460148 (Open access: False)
     
-[[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5007578706][S. Jan]], [[https://openalex.org/A5086695747][Josh Morgan]], [[https://openalex.org/A5015881602][Miguel Zamarripa]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. 3(None)] 2024. https://doi.org/10.69997/sct.112787 
+[[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5007578706][S. Jan]], [[https://openalex.org/A5106538947][Joshua C. Morgan]], [[https://openalex.org/A5015881602][Miguel Zamarripa]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. 3(None)] 2024. https://doi.org/10.69997/sct.112787 
      
 Developing methods for rapid, large-scale deployment of carbon capture systems is critical for meeting climate change goals. Optimization-based decisions can be employed at the design and manufacturing phases to minimize the costs of deployment and operation. Manufacturing standardization results in significant cost savings due to economies of numbers. Building on previous work, we present a process family design approach to design a set of carbon capture systems while explicitly including economies of numbers savings within the formulation. Our formulation optimizes both the number and characteristics of the common components in the platform and simultaneously designs the resulting set of carbon capture systems. Savings from economies of numbers are explicitly included in the formulation to determine the number of components in the platform. We show and discuss the savings we gain from economies of numbers.    
 

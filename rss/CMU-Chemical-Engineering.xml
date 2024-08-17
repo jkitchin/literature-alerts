@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Aug 2024 01:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 01:10:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Conflict-Based Model Predictive Control for Scalable Multi-Robot Motion Planning</title>
-      <link>https://doi.org/10.1109/icra57147.2024.10611078</link>
-      <description>Ardalan Tajbakhsh, Lorenz T. Biegler, Aaron M. Johnson, No host. None(None)] 2024. https://openalex.org/W4401415691
-
-                No abstract</description>
-      <author>Ardalan Tajbakhsh, Lorenz T. Biegler, Aaron M. Johnson</author>
-      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1109/icra57147.2024.10611078</guid>
-    </item>
-    <item>
-      <title>Substantial contribution of transported emissions to organic aerosol in Beijing</title>
-      <link>https://doi.org/10.1038/s41561-024-01493-3</link>
-      <description>Kaspar R. Daellenbach, Jing Cai, Simo Hakala, Lubna Dada, Chao Yan, Wei Du, Lei Yao, Feixue Zheng, Jialiang Ma, Florian Ungeheuer, Alexander Vogel, Dominik Stolzenburg, Yufang Hao, Yongchun Liu, Federico Bianchi, Ga&#235;lle Uzu, Jean&#8208;Luc Jaffrezo, Douglas R. Worsnop, Neil M. Donahue, Markku Kulmala, Nature Geoscience. 17(8)] 2024. https://openalex.org/W4401428022
-
-                Haze in Beijing is linked to atmospherically formed secondary organic aerosol, which has been shown to be particularly harmful to human health. However, the sources and formation pathways of these secondary aerosols remain largely unknown, hindering effective pollution mitigation. Here we have quantified the sources of organic aerosol via direct near-molecular observations in central Beijing. In winter, organic aerosol pollution arises mainly from fresh solid-fuel emissions and secondary organic aerosols originating from both solid-fuel combustion and aqueous processes, probably involving multiphase chemistry with aromatic compounds. The most severe haze is linked to secondary organic aerosols originating from solid-fuel combustion, transported from the Beijing-Tianjing-Hebei Plain and rural mountainous areas west of Beijing. In summer, the increased fraction of secondary organic aerosol is dominated by aromatic emissions from the Xi'an-Shanghai-Beijing region, while the contribution of biogenic emissions remains relatively small. Overall, we identify the main sources of secondary organic aerosol affecting Beijing, which clearly extend beyond the local emissions in Beijing. Our results suggest that targeting key organic precursor emission sectors regionally may be needed to effectively mitigate organic aerosol pollution.</description>
-      <author>Kaspar R. Daellenbach, Jing Cai, Simo Hakala, Lubna Dada, Chao Yan, Wei Du, Lei Yao, Feixue Zheng, Jialiang Ma, Florian Ungeheuer, Alexander Vogel, Dominik Stolzenburg, Yufang Hao, Yongchun Liu, Federico Bianchi, Ga&#235;lle Uzu, Jean&#8208;Luc Jaffrezo, Douglas R. Worsnop, Neil M. Donahue, Markku Kulmala</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41561-024-01493-3</guid>
-    </item>
     <item>
       <title>Economic Optimization and Impact of Utility Costs on the Optimal Design of Piperazine-Based Carbon Capture</title>
       <link>https://doi.org/10.69997/sct.147100</link>
@@ -140,10 +120,10 @@
     <item>
       <title>Optimal Design Approaches for Cost-Effective Manufacturing and Deployment of Chemical Process Families with Economies of Numbers</title>
       <link>https://doi.org/10.69997/sct.112787</link>
-      <description>Georgia Stinchfield, S. Jan, Josh Morgan, Miguel Zamarripa, Carl D. Laird, No host. 3(None)] 2024. https://openalex.org/W4401460148
+      <description>Georgia Stinchfield, S. Jan, Joshua C. Morgan, Miguel Zamarripa, Carl D. Laird, No host. 3(None)] 2024. https://openalex.org/W4401460148
 
                 Developing methods for rapid, large-scale deployment of carbon capture systems is critical for meeting climate change goals. Optimization-based decisions can be employed at the design and manufacturing phases to minimize the costs of deployment and operation. Manufacturing standardization results in significant cost savings due to economies of numbers. Building on previous work, we present a process family design approach to design a set of carbon capture systems while explicitly including economies of numbers savings within the formulation. Our formulation optimizes both the number and characteristics of the common components in the platform and simultaneously designs the resulting set of carbon capture systems. Savings from economies of numbers are explicitly included in the formulation to determine the number of components in the platform. We show and discuss the savings we gain from economies of numbers.</description>
-      <author>Georgia Stinchfield, S. Jan, Josh Morgan, Miguel Zamarripa, Carl D. Laird</author>
+      <author>Georgia Stinchfield, S. Jan, Joshua C. Morgan, Miguel Zamarripa, Carl D. Laird</author>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.69997/sct.112787</guid>
     </item>
