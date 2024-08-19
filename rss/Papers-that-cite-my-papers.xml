@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Aug 2024 01:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 01:13:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,36 +16,6 @@
       <author>Guanru Xing, Shize Liu, Guang&#8208;Yan Sun, Jing-yao Liu</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.069</guid>
-    </item>
-    <item>
-      <title>Electrochemical Reaction Kinetics at Constant Interfacial Potential</title>
-      <link>https://doi.org/10.1021/acscatal.4c04034</link>
-      <description>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401481375
-
-                No abstract</description>
-      <author>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao</author>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04034</guid>
-    </item>
-    <item>
-      <title>Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface</title>
-      <link>https://doi.org/10.1038/s43246-024-00595-0</link>
-      <description>Rinon Iwasaki, Naoto Tanibata, Hayami Takeda, Masanobu Nakayama, Communications Materials. 5(1)] 2024. https://openalex.org/W4401483015
-
-                Abstract All-solid-state Li-metal batteries can conceivably improve the safety and extend the driving ranges of electric vehicles. In this regard, the garnet-type solid electrolyte Li 7 La 3 Zr 2 O 12 (LLZ) has garnered considerable attention because of its high Li-ion conductivity and nonreactivity towards molten Li metal. Here, we perform molecular dynamics (MD) simulations using a universal neural network potential (UNNP) to analyse the Li-ion exchange at the LLZ/Li interface at the atomic scale. The UNNP-MD calculations show that Li ions traverse the LLZ/Li interface and that excess Li ions relative to the stoichiometric composition accumulate in an approximately 1 nm-thick zone near the LLZ phase interface, signifying the formation of a space-charge layer. Electronic structural analysis of the UNNP-MD-derived configuration, performed using density functional theory calculations, reveals band bending near the LLZ phase interface and the simultaneous suppression of Li metal reduction. These findings can help expedite the development of rationally designed all-solid-state Li-metal batteries.</description>
-      <author>Rinon Iwasaki, Naoto Tanibata, Hayami Takeda, Masanobu Nakayama</author>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43246-024-00595-0</guid>
-    </item>
-    <item>
-      <title>Binary ruthenium dioxide and nickel oxide ultrafine particles loaded on carbon nanotubes for high-stability oxygen evolution reaction at high current densities</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.08.047</link>
-      <description>Chen Yang, Qing Zhang, Ting Li, Xiaohong Chen, Xiao Lin Li, Hong Qun Luo, Nian Bing Li, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4401487165
-
-                No abstract</description>
-      <author>Chen Yang, Qing Zhang, Ting Li, Xiaohong Chen, Xiao Lin Li, Hong Qun Luo, Nian Bing Li</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.047</guid>
     </item>
     <item>
       <title>N&#8208;Doped Carbon Modified (Ni&lt;sub&gt;x&lt;/sub&gt;Fe&lt;sub&gt;1&#8208;x&lt;/sub&gt;)Se Supported on Vertical Graphene toward Efficient and Stable OER Performance</title>
@@ -402,7 +372,7 @@
       <link>https://doi.org/10.1021/acs.jctc.4c00792</link>
       <description>Shin-ichi Koda, Shinji Saito, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4401628311
 
-                No abstract</description>
+                Rapid generation of a plausible reaction path connecting a given reactant and product in advance is crucial for the efficient computation of precise reaction paths or transition states. We propose a computationally efficient potential energy based on the molecular structure to generate such paths. This potential energy has a flat bottom consisting of structures without atomic collisions while preserving nonreactive chemical bonds, bond angles, and partial planar structures. By combining this potential energy with the direct MaxFlux method, a recently developed reaction-path/transition-state search method, we can find the shortest plausible path passing within the bottom. Numerical results show that this combination yields lower energy paths compared to the paths obtained by the well-known image-dependent pair potential. We also theoretically investigate the differences between these two potential energies. The proposed potential energy and path generation routine are implemented in our Python version of the direct MaxFlux method, available on GitHub.</description>
       <author>Shin-ichi Koda, Shinji Saito</author>
       <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00792</guid>
@@ -412,7 +382,7 @@
       <link>https://doi.org/10.1021/acs.jpca.4c01546</link>
       <description>Yezhi Jin, Gustavo R. P&#233;rez-Lemus, Pablo F. Zubieta Rico, Juan Pablo, The Journal of Physical Chemistry A. None(None)] 2024. https://openalex.org/W4401628476
 
-                No abstract</description>
+                Machine learned force fields offer the potential for faster execution times while retaining the accuracy of traditional DFT calculations, making them promising candidates for molecular simulations in cases where reliable classical force fields are not available. Some of the challenges associated with machine learned force fields include simulation stability over extended periods of time and ensuring that the statistical and dynamical properties of the underlying simulated systems are correctly captured. In this work, we propose a systematic training pipeline for such force fields that leads to improved model quality, compared to that achieved by traditional data generation and training approaches. That pipeline relies on the use of enhanced sampling techniques, and it is demonstrated here in the context of a liquid crystal, which exemplifies many of the challenges that are encountered in fluids and materials with complex free energy landscapes. Our results indicate that, whereas the majority of traditional machine learned force field training approaches lead to molecular dynamics simulations that are only stable over hundred-picosecond trajectories, our approach allows for stable simulations over tens of nanoseconds for organic molecular systems comprising thousands of atoms.</description>
       <author>Yezhi Jin, Gustavo R. P&#233;rez-Lemus, Pablo F. Zubieta Rico, Juan Pablo</author>
       <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c01546</guid>
@@ -432,7 +402,7 @@
       <link>https://doi.org/10.1021/acs.chemrev.3c00943</link>
       <description>Jia&#8208;Kai Sun, Jinhu Dong, Lijun Gao, Yu&#8208;Quan Zhao, Hyunjin Moon, Susannah L. Scott, Chemical Reviews. None(None)] 2024. https://openalex.org/W4401631518
 
-                No abstract</description>
+                The large production volumes of commodity polyolefins (specifically, polyethylene, polypropylene, polystyrene, and poly(vinyl chloride)), in conjunction with their low unit values and multitude of short-term uses, have resulted in a significant and pressing waste management challenge. Only a small fraction of these polyolefins is currently mechanically recycled, with the rest being incinerated, accumulating in landfills, or leaking into the natural environment. Since polyolefins are energy-rich materials, there is considerable interest in recouping some of their chemical value while simultaneously motivating more responsible end-of-life management. An emerging strategy is catalytic depolymerization, in which a portion of the C-C bonds in the polyolefin backbone is broken with the assistance of a catalyst and, in some cases, additional small molecule reagents. When the products are small molecules or materials with higher value in their own right, or as chemical feedstocks, the process is called upcycling. This review summarizes recent progress for four major catalytic upcycling strategies: hydrogenolysis, (hydro)cracking, tandem processes involving metathesis, and selective oxidation. Key considerations include macromolecular reaction mechanisms relative to small molecule mechanisms, catalyst design for macromolecular transformations, and the effect of process conditions on product selectivity. Metrics for describing polyolefin upcycling are critically evaluated, and an outlook for future advances is described.</description>
       <author>Jia&#8208;Kai Sun, Jinhu Dong, Lijun Gao, Yu&#8208;Quan Zhao, Hyunjin Moon, Susannah L. Scott</author>
       <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.3c00943</guid>
@@ -496,6 +466,36 @@
       <author>Songhu Bi, Zhen Geng, Luyu Yang, Linyi Zhao, Chenxu Qu, Zijian Gao, Liming Jin, Mingzhe Xue, Cunman Zhang</author>
       <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202303623</guid>
+    </item>
+    <item>
+      <title>Optimizing heterointerface of NiCoP&#8211;Co/MXene with regulated charge distribution via built-in electric field for efficient overall water-splitting</title>
+      <link>https://doi.org/10.1007/s12598-024-02950-z</link>
+      <description>Yan Liang, Yonghang Chen, Juan Xie, Hao Li, Rare Metals. None(None)] 2024. https://openalex.org/W4401660767
+
+                No abstract</description>
+      <author>Yan Liang, Yonghang Chen, Juan Xie, Hao Li</author>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02950-z</guid>
+    </item>
+    <item>
+      <title>New global minimum conformers for the Pt$$_{19}$$ and Pt$$_{20}$$ clusters: low symmetric species featuring different active sites</title>
+      <link>https://doi.org/10.1007/s00894-024-06099-5</link>
+      <description>Jos&#233; Manuel Guevara&#8208;Vela, Miguel Gallegos, Tom&#225;s Rocha&#8208;Rinza, &#193;lvaro Mu&#241;oz-Castro, P. Ke&#223;ler, &#193;ngel Mart&#237;n Pend&#225;s, Journal of Molecular Modeling. 30(9)] 2024. https://openalex.org/W4401664223
+
+                Abstract Context The study of platinum (Pt) clusters and nanoparticles is essential due to their extensive range of potential technological applications, particularly in catalysis. The electronic properties that yield optimal catalytic performance at the nanoscale are significantly influenced by the size and structure of Pt clusters. This research aimed to identify the lowest-energy conformers for Pt $$_{18}$$    18    , Pt $$_{19}$$    19    , and Pt $$_{20}$$    20    species using Density Functional Theory (DFT). We discovered new low-symmetry conformers for Pt $$_{19}$$    19    and Pt $$_{20}$$    20    , which are 3.0 and 1.0 kcal/mol more stable, respectively, than previously reported structures. Our study highlights the importance of using density functional approximations that incorporate moderate levels of exact Hartree-Fock exchange, alongside basis sets of at least quadruple-zeta quality. The resulting structures are asymmetric with varying active sites, as evidenced by sigma hole analysis on the electrostatic potential surface. This suggests a potential correlation between electronic structure and catalytic properties, warranting further investigation. Methods An equivariant graph neural network interatomic potential (NequIP) within the Atomic Simulation Environment suite (ASE) was used to provide initial geometries of the aggregates under study. DFT calculations were performed with the ORCA 5 package, using functional approximations that included Generalized Gradient Approximation (PBE), meta-GGA (TPSS, M06-L), hybrid (PBE0, PBEh), meta-GGA hybrid (TPSSh), and range-separated hybrid ( $$\omega $$  &#969;  B97x) functionals. Def2-TZVP and Def2-QZVP as well as members of the cc-pwCVXZ-PP family to check basis set convergence were used. QTAIM calculations were performed using the AIMAll suite. Structures were visualized with the AVOGADRO code.</description>
+      <author>Jos&#233; Manuel Guevara&#8208;Vela, Miguel Gallegos, Tom&#225;s Rocha&#8208;Rinza, &#193;lvaro Mu&#241;oz-Castro, P. Ke&#223;ler, &#193;ngel Mart&#237;n Pend&#225;s</author>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s00894-024-06099-5</guid>
+    </item>
+    <item>
+      <title>Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell</title>
+      <link>https://doi.org/10.1007/s11581-024-05767-z</link>
+      <description>K.P. Jithul, B. Tamilarasi, Jay Pandey, Ionics. None(None)] 2024. https://openalex.org/W4401664259
+
+                No abstract</description>
+      <author>K.P. Jithul, B. Tamilarasi, Jay Pandey</author>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05767-z</guid>
     </item>
     <item>
       <title>Binding energies of CD4 and fragment species to Pt(111): Implications for measurements of anion electron stimulated desorption</title>

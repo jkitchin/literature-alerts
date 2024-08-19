@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Aug 2024 01:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 01:13:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Pd(0)-Catalyzed Enantioselective and Regiodivergent Annulations of 1-Heterodienes and Racemic Allenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c04038</link>
-      <description>Ru&#8208;Jie Yan, Yuan Hu, Lei Zhu, Jian Zhang, Xiaogang Wang, Jinyu Huang, Zhichao Chen, Qin Ouyang, Wei Du, Ying&#8208;Chun Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401481352
-
-                No abstract</description>
-      <author>Ru&#8208;Jie Yan, Yuan Hu, Lei Zhu, Jian Zhang, Xiaogang Wang, Jinyu Huang, Zhichao Chen, Qin Ouyang, Wei Du, Ying&#8208;Chun Chen</author>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04038</guid>
-    </item>
-    <item>
-      <title>Electrochemical Reaction Kinetics at Constant Interfacial Potential</title>
-      <link>https://doi.org/10.1021/acscatal.4c04034</link>
-      <description>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401481375
-
-                No abstract</description>
-      <author>Huan Li, Dong Luan, Jun Long, Pu Guo, Jianping Xiao</author>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04034</guid>
-    </item>
     <item>
       <title>Ultrahigh-Throughput Single Emulsion Droplet Screening for the Discovery of New B Antigen Cleaving Enzymes</title>
       <link>https://doi.org/10.1021/acscatal.4c02165</link>
@@ -336,6 +316,26 @@
       <author>Jun Tang, Xiaowei Guo, Jing Yang, Yongjiang Wang, Jianying Luo, Min Yin, Yijun Yan, Sheng&#8208;Xiong Huang</author>
       <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03332</guid>
+    </item>
+    <item>
+      <title>Hydrogenation of CO&lt;sub&gt;2&lt;/sub&gt; by a Tripodal Palladium Pincer Complex</title>
+      <link>https://doi.org/10.1021/acscatal.4c02523</link>
+      <description>Nandita Biswas, Peter L&#246;nnecke, E. Kirillov, Dmitri Gelman, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401660020
+
+                No abstract</description>
+      <author>Nandita Biswas, Peter L&#246;nnecke, E. Kirillov, Dmitri Gelman</author>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02523</guid>
+    </item>
+    <item>
+      <title>Alkene Isomerization Catalyzed by a Mn(I) Bisphosphine Borohydride Complex</title>
+      <link>https://doi.org/10.1021/acscatal.4c03364</link>
+      <description>Ines Blaha, Stefan Weber, Robin D&#252;lger, Lu&#305;&#769;s F. Veiros, Karl Kirchner, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401660026
+
+                No abstract</description>
+      <author>Ines Blaha, Stefan Weber, Robin D&#252;lger, Lu&#305;&#769;s F. Veiros, Karl Kirchner</author>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03364</guid>
     </item>
   </channel>
 </rss>

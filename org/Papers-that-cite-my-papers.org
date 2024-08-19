@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Aug 18 01:16:52 2024
+Created on Mon Aug 19 01:13:51 2024
 
-Found 50 results from 2024-08-11 to 2024-08-18
+Found 50 results from 2024-08-12 to 2024-08-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967]]
@@ -35,69 +35,6 @@ OpenAlex: https://openalex.org/W4401496468 (Open access: False)
 [[https://openalex.org/A5023014154][Guanru Xing]], [[https://openalex.org/A5084675881][Shize Liu]], [[https://openalex.org/A5051482789][Guang‐Yan Sun]], [[https://openalex.org/A5013853310][Jing-yao Liu]], Journal of Colloid and Interface Science. 677(None)] 2025. https://doi.org/10.1016/j.jcis.2024.08.069 
      
 Electrochemical carbon dioxide reduction reaction (CO    
-
-    
-
-* Electrochemical Reaction Kinetics at Constant Interfacial Potential  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401481375
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Ammonia Synthesis and Electrocatalysis
-:PUBLICATION_DATE: 2024-08-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04034")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481375"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481375"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481375"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401481375 (Open access: False)
-    
-[[https://openalex.org/A5100319216][Huan Li]], [[https://openalex.org/A5027648567][Dong Luan]], [[https://openalex.org/A5030617408][Jun Long]], [[https://openalex.org/A5102537365][Pu Guo]], [[https://openalex.org/A5004947752][Jianping Xiao]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04034 
-     
-No abstract    
-
-    
-
-* Universal-neural-network-potential molecular dynamics for lithium metal and garnet-type solid electrolyte interface  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401483015
-:TOPICS: Accelerating Materials Innovation through Informatics, Fuel Cell Membrane Technology, Solid Acids in Protonic Conduction and Ferroelectricity
-:PUBLICATION_DATE: 2024-08-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43246-024-00595-0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401483015"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401483015"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401483015"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401483015 (Open access: True)
-    
-[[https://openalex.org/A5051969000][Rinon Iwasaki]], [[https://openalex.org/A5083644015][Naoto Tanibata]], [[https://openalex.org/A5035360618][Hayami Takeda]], [[https://openalex.org/A5023575100][Masanobu Nakayama]], Communications Materials. 5(1)] 2024. https://doi.org/10.1038/s43246-024-00595-0 
-     
-Abstract All-solid-state Li-metal batteries can conceivably improve the safety and extend the driving ranges of electric vehicles. In this regard, the garnet-type solid electrolyte Li 7 La 3 Zr 2 O 12 (LLZ) has garnered considerable attention because of its high Li-ion conductivity and nonreactivity towards molten Li metal. Here, we perform molecular dynamics (MD) simulations using a universal neural network potential (UNNP) to analyse the Li-ion exchange at the LLZ/Li interface at the atomic scale. The UNNP-MD calculations show that Li ions traverse the LLZ/Li interface and that excess Li ions relative to the stoichiometric composition accumulate in an approximately 1 nm-thick zone near the LLZ phase interface, signifying the formation of a space-charge layer. Electronic structural analysis of the UNNP-MD-derived configuration, performed using density functional theory calculations, reveals band bending near the LLZ phase interface and the simultaneous suppression of Li metal reduction. These findings can help expedite the development of rationally designed all-solid-state Li-metal batteries.    
-
-    
-
-* Binary ruthenium dioxide and nickel oxide ultrafine particles loaded on carbon nanotubes for high-stability oxygen evolution reaction at high current densities  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401487165
-:TOPICS: Electrocatalysis for Energy Conversion, Memristive Devices for Neuromorphic Computing, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.08.047")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401487165"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401487165"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401487165"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401487165 (Open access: False)
-    
-[[https://openalex.org/A5062835441][Chen Yang]], [[https://openalex.org/A5100358805][Qing Zhang]], [[https://openalex.org/A5100416864][Ting Li]], [[https://openalex.org/A5100373745][Xiaohong Chen]], [[https://openalex.org/A5090243149][Xiao Lin Li]], [[https://openalex.org/A5035390246][Hong Qun Luo]], [[https://openalex.org/A5029750679][Nian Bing Li]], Journal of Colloid and Interface Science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.08.047 
-     
-No abstract    
 
     
 
@@ -853,7 +790,7 @@ OpenAlex: https://openalex.org/W4401628311 (Open access: False)
     
 [[https://openalex.org/A5079870436][Shin-ichi Koda]], [[https://openalex.org/A5007756230][Shinji Saito]], Journal of Chemical Theory and Computation. None(None)] 2024. https://doi.org/10.1021/acs.jctc.4c00792 
      
-No abstract    
+Rapid generation of a plausible reaction path connecting a given reactant and product in advance is crucial for the efficient computation of precise reaction paths or transition states. We propose a computationally efficient potential energy based on the molecular structure to generate such paths. This potential energy has a flat bottom consisting of structures without atomic collisions while preserving nonreactive chemical bonds, bond angles, and partial planar structures. By combining this potential energy with the direct MaxFlux method, a recently developed reaction-path/transition-state search method, we can find the shortest plausible path passing within the bottom. Numerical results show that this combination yields lower energy paths compared to the paths obtained by the well-known image-dependent pair potential. We also theoretically investigate the differences between these two potential energies. The proposed potential energy and path generation routine are implemented in our Python version of the direct MaxFlux method, available on GitHub.    
 
     
 
@@ -874,7 +811,7 @@ OpenAlex: https://openalex.org/W4401628476 (Open access: False)
     
 [[https://openalex.org/A5064017386][Yezhi Jin]], [[https://openalex.org/A5085538670][Gustavo R. Pérez-Lemus]], [[https://openalex.org/A5021545629][Pablo F. Zubieta Rico]], [[https://openalex.org/A5068853530][Juan Pablo]], The Journal of Physical Chemistry A. None(None)] 2024. https://doi.org/10.1021/acs.jpca.4c01546 
      
-No abstract    
+Machine learned force fields offer the potential for faster execution times while retaining the accuracy of traditional DFT calculations, making them promising candidates for molecular simulations in cases where reliable classical force fields are not available. Some of the challenges associated with machine learned force fields include simulation stability over extended periods of time and ensuring that the statistical and dynamical properties of the underlying simulated systems are correctly captured. In this work, we propose a systematic training pipeline for such force fields that leads to improved model quality, compared to that achieved by traditional data generation and training approaches. That pipeline relies on the use of enhanced sampling techniques, and it is demonstrated here in the context of a liquid crystal, which exemplifies many of the challenges that are encountered in fluids and materials with complex free energy landscapes. Our results indicate that, whereas the majority of traditional machine learned force field training approaches lead to molecular dynamics simulations that are only stable over hundred-picosecond trajectories, our approach allows for stable simulations over tens of nanoseconds for organic molecular systems comprising thousands of atoms.    
 
     
 
@@ -916,7 +853,7 @@ OpenAlex: https://openalex.org/W4401631518 (Open access: True)
     
 [[https://openalex.org/A5014663677][Jia‐Kai Sun]], [[https://openalex.org/A5001717404][Jinhu Dong]], [[https://openalex.org/A5037900285][Lijun Gao]], [[https://openalex.org/A5032353804][Yu‐Quan Zhao]], [[https://openalex.org/A5101695925][Hyunjin Moon]], [[https://openalex.org/A5029871622][Susannah L. Scott]], Chemical Reviews. None(None)] 2024. https://doi.org/10.1021/acs.chemrev.3c00943 
      
-No abstract    
+The large production volumes of commodity polyolefins (specifically, polyethylene, polypropylene, polystyrene, and poly(vinyl chloride)), in conjunction with their low unit values and multitude of short-term uses, have resulted in a significant and pressing waste management challenge. Only a small fraction of these polyolefins is currently mechanically recycled, with the rest being incinerated, accumulating in landfills, or leaking into the natural environment. Since polyolefins are energy-rich materials, there is considerable interest in recouping some of their chemical value while simultaneously motivating more responsible end-of-life management. An emerging strategy is catalytic depolymerization, in which a portion of the C-C bonds in the polyolefin backbone is broken with the assistance of a catalyst and, in some cases, additional small molecule reagents. When the products are small molecules or materials with higher value in their own right, or as chemical feedstocks, the process is called upcycling. This review summarizes recent progress for four major catalytic upcycling strategies: hydrogenolysis, (hydro)cracking, tandem processes involving metathesis, and selective oxidation. Key considerations include macromolecular reaction mechanisms relative to small molecule mechanisms, catalyst design for macromolecular transformations, and the effect of process conditions on product selectivity. Metrics for describing polyolefin upcycling are critically evaluated, and an outlook for future advances is described.    
 
     
 
@@ -1043,6 +980,69 @@ OpenAlex: https://openalex.org/W4401654459 (Open access: False)
 [[https://openalex.org/A5051021038][Songhu Bi]], [[https://openalex.org/A5100354408][Zhen Geng]], [[https://openalex.org/A5072923982][Luyu Yang]], [[https://openalex.org/A5076707758][Linyi Zhao]], [[https://openalex.org/A5102621202][Chenxu Qu]], [[https://openalex.org/A5033956358][Zijian Gao]], [[https://openalex.org/A5102963241][Liming Jin]], [[https://openalex.org/A5100760144][Mingzhe Xue]], [[https://openalex.org/A5078891674][Cunman Zhang]], Advanced Energy Materials. None(None)] 2024. https://doi.org/10.1002/aenm.202303623 
      
 Abstract Alkaline water electrolysis is the promising technical pathway of large‐scale green hydrogen production. However, its hydrogen evolution reaction (HER) is hindered by the alkaline environment, leading to slow H 2 O splitting kinetics, especially for NiMoCu alloy catalysts which are considered potential alkaline HER catalysts. In this work, the Ru‐substrate modified NiMoCu 20 porous electrode is designed by a continuous multistep electrodeposition method. It shows the good alkaline HER performance at the high current density of 1000 mA cm −2 , which is attributed to the synergistic charge‐reconfiguration effects between Ru‐substrate and NiMoCu alloy by density functional theory (DFT) calculations and in situ Raman spectra analysis. It indicates that the Ru‐substrate is capable of encouraging H‐OH* bond breakage and optimizing transition‐state H* adsorption. Further, the overall water electrolysis results of the alkaline water electrolysis cell (30 wt% KOH) at 70 °C show that it has good performance at the large current density of 1000 mA cm −2 with 2.05 V and good stability at 600 mA cm −2 up to 500 h. It provides the possibility of designing the high‐performance HER electrode from the view of industrial applications.    
+
+    
+
+* Optimizing heterointerface of NiCoP–Co/MXene with regulated charge distribution via built-in electric field for efficient overall water-splitting  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401660767
+:TOPICS: Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Memristive Devices for Neuromorphic Computing, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-08-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s12598-024-02950-z")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401660767"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401660767"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401660767"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401660767 (Open access: False)
+    
+[[https://openalex.org/A5028924137][Yan Liang]], [[https://openalex.org/A5045072070][Yonghang Chen]], [[https://openalex.org/A5000995402][Juan Xie]], [[https://openalex.org/A5100348490][Hao Li]], Rare Metals. None(None)] 2024. https://doi.org/10.1007/s12598-024-02950-z 
+     
+No abstract    
+
+    
+
+* New global minimum conformers for the Pt$$_{19}$$ and Pt$$_{20}$$ clusters: low symmetric species featuring different active sites  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401664223
+:TOPICS: Advancements in Density Functional Theory, Structural and Functional Study of Noble Metal Nanoclusters, Molecular Magnetism and Spintronics
+:PUBLICATION_DATE: 2024-08-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s00894-024-06099-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401664223"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401664223"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401664223"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401664223 (Open access: True)
+    
+[[https://openalex.org/A5022859338][José Manuel Guevara‐Vela]], [[https://openalex.org/A5033123690][Miguel Gallegos]], [[https://openalex.org/A5078023435][Tomás Rocha‐Rinza]], [[https://openalex.org/A5010883295][Álvaro Muñoz-Castro]], [[https://openalex.org/A5072145975][P. Keßler]], [[https://openalex.org/A5024706573][Ángel Martín Pendás]], Journal of Molecular Modeling. 30(9)] 2024. https://doi.org/10.1007/s00894-024-06099-5 
+     
+Abstract Context The study of platinum (Pt) clusters and nanoparticles is essential due to their extensive range of potential technological applications, particularly in catalysis. The electronic properties that yield optimal catalytic performance at the nanoscale are significantly influenced by the size and structure of Pt clusters. This research aimed to identify the lowest-energy conformers for Pt $$_{18}$$    18    , Pt $$_{19}$$    19    , and Pt $$_{20}$$    20    species using Density Functional Theory (DFT). We discovered new low-symmetry conformers for Pt $$_{19}$$    19    and Pt $$_{20}$$    20    , which are 3.0 and 1.0 kcal/mol more stable, respectively, than previously reported structures. Our study highlights the importance of using density functional approximations that incorporate moderate levels of exact Hartree-Fock exchange, alongside basis sets of at least quadruple-zeta quality. The resulting structures are asymmetric with varying active sites, as evidenced by sigma hole analysis on the electrostatic potential surface. This suggests a potential correlation between electronic structure and catalytic properties, warranting further investigation. Methods An equivariant graph neural network interatomic potential (NequIP) within the Atomic Simulation Environment suite (ASE) was used to provide initial geometries of the aggregates under study. DFT calculations were performed with the ORCA 5 package, using functional approximations that included Generalized Gradient Approximation (PBE), meta-GGA (TPSS, M06-L), hybrid (PBE0, PBEh), meta-GGA hybrid (TPSSh), and range-separated hybrid ( $$\omega $$  ω  B97x) functionals. Def2-TZVP and Def2-QZVP as well as members of the cc-pwCVXZ-PP family to check basis set convergence were used. QTAIM calculations were performed using the AIMAll suite. Structures were visualized with the AVOGADRO code.    
+
+    
+
+* Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401664259
+:TOPICS: Fuel Cell Membrane Technology, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-08-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s11581-024-05767-z")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401664259"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401664259"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401664259"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401664259 (Open access: False)
+    
+[[https://openalex.org/A5093799732][K.P. Jithul]], [[https://openalex.org/A5093799731][B. Tamilarasi]], [[https://openalex.org/A5090330319][Jay Pandey]], Ionics. None(None)] 2024. https://doi.org/10.1007/s11581-024-05767-z 
+     
+No abstract    
 
     
 

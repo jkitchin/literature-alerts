@@ -1,53 +1,11 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Aug 18 01:16:43 2024
+Created on Mon Aug 19 01:13:41 2024
 
-Found 104 results from 2024-08-11 to 2024-08-18
+Found 80 results from 2024-08-12 to 2024-08-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* Nickel phthalocyanine anchored onto N-doped biochar for efficient electrocatalytic carbon dioxide reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401486392
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Porous Crystalline Organic Frameworks for Energy and Separation Applications, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.154686")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401486392"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401486392"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401486392"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401486392 (Open access: False)
-    
-[[https://openalex.org/A5101710150][Kai Hu]], [[https://openalex.org/A5069973741][Shuna Jia]], [[https://openalex.org/A5101969452][Boxiong Shen]], [[https://openalex.org/A5100404745][Zhiqiang Wang]], [[https://openalex.org/A5041840130][Zhijiang Dong]], [[https://openalex.org/A5070830004][Honghong Lyu]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.154686 
-     
-No abstract    
-
-    
-
-* 2D and 3D phthalocyanine covalent organic frameworks for electrocatalytic carbon dioxide reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401486413
-:TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cclet.2024.110330")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401486413"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401486413"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401486413"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401486413 (Open access: False)
-    
-[[https://openalex.org/A5100360355][Qi Zhang]], [[https://openalex.org/A5102995607][Bin Han]], [[https://openalex.org/A5074999963][Yucheng Jin]], [[https://openalex.org/A5088277370][Mingrun Li]], [[https://openalex.org/A5031378187][Enhui Zhang]], [[https://openalex.org/A5088303205][Jianzhuang Jiang]], Chinese Chemical Letters. None(None)] 2024. https://doi.org/10.1016/j.cclet.2024.110330 
-     
-No abstract    
-
-    
 
 * Advances in photochemical/electrochemical synthesis of heterocyclic compounds from carbon dioxide  :CO2RR:
 :PROPERTIES:
@@ -191,6 +149,27 @@ No abstract
 OpenAlex: https://openalex.org/W4401615139 (Open access: False)
     
 [[https://openalex.org/A5024776929][Yujing Jiang]], [[https://openalex.org/A5048387481][Hanyu Li]], [[https://openalex.org/A5048251870][Wenlei Zhu]], Trends in Chemistry. None(None)] 2024. https://doi.org/10.1016/j.trechm.2024.07.003 
+     
+No abstract    
+
+    
+
+* Exploring the Critical Role of Binders in Electrochemical CO2 Reduction Reactions  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401668207
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nanoen.2024.110134")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401668207"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401668207"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401668207"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401668207 (Open access: False)
+    
+[[https://openalex.org/A5029076152][Younghyun Chae]], [[https://openalex.org/A5106582826][Hyunwook Kim]], [[https://openalex.org/A5101696641][Dong Ki Lee]], [[https://openalex.org/A5074251562][Ung Lee]], [[https://openalex.org/A5052598115][Da Hye Won]], Nano Energy. None(None)] 2024. https://doi.org/10.1016/j.nanoen.2024.110134 
      
 No abstract    
 
@@ -385,24 +364,24 @@ No abstract
 
     
 
-* Role of primary drivers leading to emission reduction of major air pollutants and CO2 from global power plants  :CO2RR:
+* Dual structure cobalt sites on surface hydroxyl and oxygen vacancy of BiOCl for cooperative CO2 reduction and tetracycline oxidation  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401478231
-:TOPICS: Atmospheric Aerosols and their Impacts, Global Methane Emissions and Impacts, Estimating Vehicle Fuel Consumption and Emissions
+:UUID: https://openalex.org/W4401659343
+:TOPICS: Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion, Emergent Phenomena at Oxide Interfaces
 :PUBLICATION_DATE: 2024-08-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.envint.2024.108936")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.124514")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401478231"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401478231"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401478231"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401659343"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401659343"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401659343"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401478231 (Open access: True)
+OpenAlex: https://openalex.org/W4401659343 (Open access: False)
     
-[[https://openalex.org/A5101602463][Haoran Xu]], [[https://openalex.org/A5102972275][Wenxiao Zhang]], [[https://openalex.org/A5059350540][Yu’ang Ren]], [[https://openalex.org/A5101629331][Yuanzheng Zhang]], [[https://openalex.org/A5100638647][Jin Li]], [[https://openalex.org/A5074550236][Shuxiu Zheng]], [[https://openalex.org/A5100630052][Rongji Dai]], [[https://openalex.org/A5010492003][Jianying Hu]], [[https://openalex.org/A5041899854][Hefa Cheng]], [[https://openalex.org/A5019734665][Guofeng Shen]], [[https://openalex.org/A5070512232][Huizhong Shen]], [[https://openalex.org/A5100758068][Jianmin Ma]], [[https://openalex.org/A5025961370][Shu Tao]], Environment International. 190(None)] 2024. https://doi.org/10.1016/j.envint.2024.108936 
+[[https://openalex.org/A5040035723][Haoyu Sun]], [[https://openalex.org/A5090567072][Haili Lin]], [[https://openalex.org/A5102725255][Xuemei Jia]], [[https://openalex.org/A5100357321][Xinyue Li]], [[https://openalex.org/A5100415877][Shuang Li]], [[https://openalex.org/A5087427967][Xin Jin]], [[https://openalex.org/A5075121594][Qianlong Wang]], [[https://openalex.org/A5102723191][Shifu Chen]], [[https://openalex.org/A5101854189][Jing Cao]], Applied Catalysis B Environment and Energy. None(None)] 2024. https://doi.org/10.1016/j.apcatb.2024.124514 
      
-Electricity production is a significant source of air pollution. Various factors, including electricity demand, generation efficiency, energy mix, and end-of-pipe control measures, are responsible for the emission changes during electricity generation. Although electricity production more than doubled from 1990 to 2017, air pollutant emissions showed a moderate increase or decrease, which was attributed to mitigating drivers such as increased clean energy use, improved power generation efficiency, and widespread installation of end-of-pipe control facilities. The absence of these mitigating drivers would have increased CO    
+No abstract    
 
     
 
@@ -422,27 +401,6 @@ Electricity production is a significant source of air pollution. Various factors
 OpenAlex: https://openalex.org/W4401560596 (Open access: False)
     
 [[https://openalex.org/A5028306581][Meng Yang]], [[https://openalex.org/A5103663873][Feng Yue]], [[https://openalex.org/A5100715607][Shuo Zhang]], [[https://openalex.org/A5021071496][L. Zhang]], [[https://openalex.org/A5100331571][Cong Li]], [[https://openalex.org/A5101270406][Mengke Shi]], [[https://openalex.org/A5034115595][Yongpeng Ma]], [[https://openalex.org/A5018324241][Mario Berrettoni]], [[https://openalex.org/A5100432831][Xiaojing Zhang]], [[https://openalex.org/A5101411261][Hongzhong Zhang]], Carbon Capture Science & Technology. 13(None)] 2024. https://doi.org/10.1016/j.ccst.2024.100274 
-     
-No abstract    
-
-    
-
-* Moving towards synergistic reductions on PM2.5 and CO2 and its mechanism: A case study of Yangtze River Economic Belt, China  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401481960
-:TOPICS: Life Cycle Assessment and Environmental Impact Analysis, Economic Implications of Climate Change Policies, Economic Impact of Environmental Policies and Resources
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s11442-024-2258-3")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481960"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481960"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481960"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401481960 (Open access: False)
-    
-[[https://openalex.org/A5084648622][Binjie Gu]], [[https://openalex.org/A5101106100][Haixia Zhao]], [[https://openalex.org/A5101731513][Xin Li]], [[https://openalex.org/A5100349108][Qianqian Zhang]], Journal of Geographical Sciences. 34(8)] 2024. https://doi.org/10.1007/s11442-024-2258-3 
      
 No abstract    
 
@@ -511,6 +469,27 @@ Converting carbon dioxide (CO2) into high-value-added chemicals using solar ener
 
     
 
+* A new strategy for CO2 storage and Al2O3 recovery from blast furnace slag and coal fly ash by employing vacuum reduction and alkali dissolution methods  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401665404
+:TOPICS: Geochemistry and Utilization of Coal and Coal Byproducts, Utilization of Waste Materials in Construction and Ceramics, Geopolymer and Alternative Cementitious Materials
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.energy.2024.132865")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401665404"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401665404"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401665404"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401665404 (Open access: False)
+    
+[[https://openalex.org/A5100560327][Haitao Yuan]], [[https://openalex.org/A5086296054][Wenzhou Yu]], [[https://openalex.org/A5106581689][Jiale Wen]], [[https://openalex.org/A5100378741][Jing Wang]], [[https://openalex.org/A5068149545][Joseph Emmanuel Nyarko-Appiah]], [[https://openalex.org/A5106581690][Chenguang Bai]], Energy. None(None)] 2024. https://doi.org/10.1016/j.energy.2024.132865 
+     
+No abstract    
+
+    
+
 * Stepped copper sites coupling voltage-induced surfactant assembly to achieve efficient CO2 electroreduction to formate  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401581067
@@ -571,6 +550,27 @@ OpenAlex: https://openalex.org/W4401536401 (Open access: True)
 [[https://openalex.org/A5100421122][Yu Yang]], [[https://openalex.org/A5100722807][Xuehui Liu]], [[https://openalex.org/A5088780105][Shilin Huang]], [[https://openalex.org/A5105546237][J. Jia]], [[https://openalex.org/A5056737809][C.X. Wang]], [[https://openalex.org/A5025163855][Lening Hu]], [[https://openalex.org/A5106485383][Ke Li]], [[https://openalex.org/A5017874185][Hua Deng]], Microorganisms. 12(8)] 2024. https://doi.org/10.3390/microorganisms12081666 
      
 In order to study the effects of wildfires on soil carbon dioxide (CO2) emissions and microbial communities in planted forests, Pinus massoniana Lamb. and Cunninghamia lanceolata (Lamb.) Hook. forests were selected as the research subjects. Through a culture test with 60 days of indoor constant temperature, the soil physical and chemical properties, organic carbon mineralization, organic carbon components, enzyme activity, and microbial community structure changes of the two plantations after fire were analyzed. The results showed that wildfires significantly reduced soil CO2 emissions from the Pinus massoniana forests and Cunninghamia lanceolata forests by 270.67 mg·kg−1 and 470.40 mg·kg−1, respectively, with Cunninghamia lanceolata forests exhibiting the greatest reduction in soil CO2 emissions compared to unburned soils. Bioinformatics analysis revealed that the abundance of soil Proteobacteria in the Pinus massoniana and Cunninghamia lanceolata forests decreased by 6.00% and 4.55%, respectively, after wildfires. Additionally, redundancy analysis indicated a significant positive correlation between Proteobacteria and soil CO2 emissions, suggesting that the decrease in Proteobacteria may inhibit soil CO2 emissions. The Cunninghamia lanceolata forests exhibited a significant increase in soil available nutrients and inhibition of enzyme activities after the wildfire. Additionally, soil CO2 emissions decreased more, indicating a stronger adaptive capacity to environmental changes following the wildfire. In summary, wildfire in the Cunninghamia lanceolata forests led to the most pronounced reduction in soil CO2 emissions, thereby mitigating soil carbon emissions in the region.    
+
+    
+
+* Homogeneous Catalysis in N‐formylation/N‐methylation Utilizing Carbon Dioxide as the C1 Source  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401668431
+:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Epigenetic Modifications and Their Functional Implications, Deuterium Incorporation in Pharmaceutical Research
+:PUBLICATION_DATE: 2024-08-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/asia.202400497")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401668431"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401668431"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401668431"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401668431 (Open access: False)
+    
+[[https://openalex.org/A5074334575][Kuo‐Wei Huang]], [[https://openalex.org/A5070496153][Indranil Dutta]], [[https://openalex.org/A5016620208][Sandeep Suryabhan Gholap]], [[https://openalex.org/A5100686991][Mohammad Misbahur Rahman]], [[https://openalex.org/A5087382327][Davin Tan]], [[https://openalex.org/A5101742243][Shouxin Zhang]], [[https://openalex.org/A5011994750][Shashikant U. Dighe]], Chemistry - An Asian Journal. None(None)] 2024. https://doi.org/10.1002/asia.202400497 
+     
+The growing emphasis on sustainable chemistry has driven research into utilizing carbon dioxide (CO2) as a nontoxic, abundant, and cost‐effective C1 building block. CO2 offers a promising avenue for direct conversion into valuable chemicals ranging from fuels to pharmaceuticals. This review focuses on the utilization of CO2 for reductive N‐formylation/N‐methylation reactions of various amines, providing advantages over conventional methods involving toxic CO and other methylating reagents. The approach employs readily available reductants such as silane, borane reagents, and hydrogen (H2). The discussion encompasses recent developments in transition metal and organocatalyst systems for these reactions, highlighting mechanistic interpretations and factors influencing product selectivity.    
 
     
 
@@ -637,48 +637,6 @@ Abstract. This study investigates the rain-initiated mixing and variability in t
 
     
 
-* Experimental Study on Shale Mechanical Properties Interacted with Supercritical Carbon Dioxide and Brine  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401479189
-:TOPICS: Drilling Fluid Technology and Well Integrity, Hydraulic Fracturing in Shale Gas Reservoirs, Carbon Dioxide Sequestration in Geological Formations
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0352")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479189"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479189"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479189"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401479189 (Open access: False)
-    
-[[https://openalex.org/A5035374461][Wenying Li]], [[https://openalex.org/A5051239640][Tianshou Ma]], [[https://openalex.org/A5100355667][Yang Liu]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0352 
-     
-ABSTRACT: Supercritical carbon dioxide (SC-CO2) can be utilized to displace methane in shale gas reservoirs due to its low viscosity, high diffusivity, and high density. However, injection of SC-CO2 can cause a series of physical and chemical interactions with the pore brine and shale rock, leading to irreversible changes in the mechanical properties of the shale. To investigate changes in the mechanical properties of the shale that interacted with SC-CO2 and brine, Longmaxi shale samples were soaked in pure SC-CO2 and SC-CO2 + brine for seven days at 50 ° C and 15MPa. Uniaxial and triaxial compression tests were performed on the soaked samples, and acoustic emission was monitored during the loading process. The results indicated that the Longmaxi shale exhibited a more pronounced reduction in strength under the SC-CO2+brine condition compared to the pure SC-CO2 condition. In the loading process, the acoustic emission signals exhibit a distinct staged characteristic, and the signals are generated primarily during the unstable crack expansion stage. The observed increase in the fractal dimension of the signals at the same circumferential pressure indicates that the shale damage is multifaceted, resulting in a reduction in the stability of the shale. This study may help to elucidate the alterations in the mechanical properties of shale as a consequence of its interaction with SC-CO2. Furthermore, the findings may provide a foundation for the recovery of shale gas using CO2 displacement. 1. INTRODUCTION With the rapid growth of the global economy and the increasing level of industrialization, the supply of traditional fossil energy has gradually failed to meet the energy needs of today's society (Zou et al., 2016). Shale gas, as one of the most important unconventional oil and gas resources, has attracted a lot of attention because of its abundant reserves, cleanliness, low cost, and long supply cycle (Zhou and Zhang, 2020). Shale reservoirs are typically characterized by low porosity, low permeability, and high clay content (Jin et al., 2012), so hydraulic fracturing is commonly used to enhance shale gas production (Daneshy, 2010). However, it can result in significant water loss, damage to the physical properties of the reservoir, and contamination of surface water with back-draining fluids (Estrada and Bhamidimarri, 2016; Yang et al., 2019; DiStefano et al., 2019). Supercritical carbon dioxide (SC-CO2) is often used to enhance shale gas recovery due to its low viscosity, low surface tension, and high extraction capacity in its supercritical state (Adwani, 2007; Wang et al., 2011; Yang et al., 2008). This method has several advantages, including no damage to the reservoir, high efficiency of jet breakthrough, and the ability to lower the viscosity of crude oil and displace shale gas (Lu et al., 2021; Zhao et al., 2021).    
-
-    
-
-* Copper Atom Pairs Stabilize *OCCO Dipole Toward Highly Selective CO2 Electroreduction to C2H4  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401526274
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Ammonia Synthesis and Electrocatalysis, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-08-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202411591")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401526274"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401526274"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401526274"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401526274 (Open access: False)
-    
-[[https://openalex.org/A5032988244][Shenghua Chen]], [[https://openalex.org/A5006411143][Xiaobo Zheng]], [[https://openalex.org/A5025853223][Peng Zhu]], [[https://openalex.org/A5100404468][Yapeng Li]], [[https://openalex.org/A5014611868][Zechao Zhuang]], [[https://openalex.org/A5048026107][Hangjuan Wu]], [[https://openalex.org/A5027375542][Jiexin Zhu]], [[https://openalex.org/A5101734901][Chunhui Xiao]], [[https://openalex.org/A5048612772][Mingzhao Chen]], [[https://openalex.org/A5020149505][Pingshan Wang]], [[https://openalex.org/A5042841794][Dingsheng Wang]], [[https://openalex.org/A5103443552][Ya‐Ling He]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202411591 
-     
-Deeply electrolytic reduction of carbon dioxide (CO2) to high‐value ethylene (C2H4) is very attractive. However, the sluggish kinetics of C‐C coupling seriously results in the low selectivity of CO2 electroreduction to C2H4. Herein, we report a copper‐based polyhedron (Cu2) that features uniformly distributed and atomically precise bi‐Cu units, which can stabilize *OCCO dipole to facilitate the C‐C coupling for high selective C2H4 production. The C2H4 faradaic efficiency (FE) reaches 51% with a current density of 469.4 mA cm−2, much superior to the Cu single site catalyst (Cu SAC) (~0%). Moreover, the Cu2 catalyst has a higher turnover frequency (TOF, ~520 h‐1) compared to Cu nanoparticles (~9.42 h‐1) and Cu SAC (~0.87 h‐1). In situ characterizations and theoretical calculations revealed that the unique Cu2 structural configuration could optimize the dipole moments and stabilize the *OCCO adsorbate to promote the generation of C2H4.    
-
-    
-
 * Reducing Methane, Carbon Dioxide, and Ammonia Emissions from Stored Pig Slurry Using Bacillus-Biological Additives and Aeration  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401510872
@@ -697,27 +655,6 @@ OpenAlex: https://openalex.org/W4401510872 (Open access: True)
 [[https://openalex.org/A5037270077][Oumaima El bied]], [[https://openalex.org/A5093414334][Martire Angélica Terrero Turbí]], [[https://openalex.org/A5103334824][Melisa Gómez Garrido]], [[https://openalex.org/A5062155419][Ángel Faz Cano]], [[https://openalex.org/A5010523572][José A. Acosta]], Environments. 11(8)] 2024. https://doi.org/10.3390/environments11080171 
      
 This study delves into the innovative application of a novel bacterial and enzyme mixture alone or combined with aeration in mitigating emissions from pig slurry storage and explores their impacts on the methane (CH4), carbon dioxide (CO2), and ammonia (NH3) emissions from stored pig slurry. A dynamic chamber was used in this research to assess the efficacy of the treatments. Biological additives (HIPO-PURÍN) of specific microbial strains were tested (a mixture ofof Bacillus subtilis, Bacillus megaterium, Bacillus licheniformis, Bacillus amyloliquefacien, and Bacillus thuringiensis) alone and combined with an aeration system (OXI-FUCH). Controlled experiments simulated storage conditions, where emissions of ammonia, methane, and carbon dioxide were measured. By analyzing the results statistically, the treatment with HIPO-PURÍN demonstrated a significant reduction in CH4 emissions by 67% and CO2 emissions by 60% with the use of biological additives, which was increased to 99% and 87%, respectively, when combined with OXI-FUCH aeration, compared to untreated slurry. Ammonia emissions were substantially reduced by 90% with biological additives alone and by 76% when combined with aeration. The study was driven by the need to develop sustainable solutions for livestock waste management, particularly in reducing emissions from pig slurry. It introduces techniques that significantly lower greenhouse gases, aligning with circular economy goals and setting a new standard for sustainable agriculture. Furthermore, there is a need to validate that farmers can independently manage pig slurry using simple and effective treatments techniques with profound environmental benefits, encouraging broader adoption of climate-conscious practices.    
-
-    
-
-* DOE's Carbon Transport and Storage Program: Supporting Storage Infrastructure Build-Out Critical for Decarbonization  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401481715
-:TOPICS: Environmental Impacts of Solar Energy Technologies, Life Cycle Assessment and Environmental Impact Analysis, Integration of Renewable Energy Systems in Power Grids
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-1223")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481715"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481715"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481715"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401481715 (Open access: False)
-    
-[[https://openalex.org/A5042461595][I. G. Rosen]], [[https://openalex.org/A5106385265][Amanda Raddatz Bopp]], [[https://openalex.org/A5029292901][Darin Damiani]], [[https://openalex.org/A5018244164][Traci Rodosta]], [[https://openalex.org/A5005077458][Rajesh Pawar]], [[https://openalex.org/A5055111416][Robert H. Smith]], [[https://openalex.org/A5086180730][Kevin Dooley]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-1223 
-     
-ABSTRACT: For decades, the U.S. Department of Energy (DOE) Office of Fossil Energy and Carbon Management's (FECM) Carbon Transport and Storage (CTS) Program has invested in projects to validate safe and secure geologic storage of captured carbon dioxide (CO2) through technology development and pilot- and large-scale field tests. Recent U.S. legislation, such as the Bipartisan Infrastructure Law (BIL) and the Inflation Reduction Act (IRA), provide the financial backing and policy incentives that have enabled the CTS Program to accelerate the deployment of carbon capture and storage (CCS), storage-based carbon dioxide removal (CDR), and multi-modal CO2 transport systems, which are crucial for helping the administration meet its incremental decarbonization goals through 2050. With appropriations enacted under the BIL, the CTS Program is investing in projects that will help facilitate the build-out and expansion of industry-led CCS/CDR and CO2 transport projects that are safe, efficient, equitable, and environmentally responsible. In addition, annual appropriations for the base CTS Program are supporting BIL-funded efforts by investing in projects that will facilitate development and validation of cost-effective next generation technologies, expand basin-scale storage resource assessment and management, provide technical assistance to stakeholders and impacted communities, and establish a CO2 transport research program that considers multiple modes of transport, such as pipeline, ship, rail, and truck. The CTS Program will accelerate CCS/CDR and transport deployment through strategically interfacing five key initiatives: Carbon Storage Assurance Facility Enterprise (CarbonSAFE), Carbon Basin Assessment and Storage Evaluation (CarbonBASE), Carbon Storage Technology Operations and Research (CarbonSTORE), regional technical assistance, and a CO2 transport research consortium. The CTS Program recognizes that accelerating CCS/CDR and CO2 transport infrastructure development will require technical assistance to stakeholders and communities. To achieve this, the CTS Program's technical assistance projects are building on past successes and the ongoing Regional Initiative projects by providing stakeholders with access to expertise in areas such as characterization methods, consultation on permitting and monitoring strategies, business model development, and community engagement. The most recent regional technical assistance projects selected in 2023 are focused on assistance for developers of large- and hub-scaled projects with a strong emphasis on community engagement and participation. In 2024, the CTS Program is expected to select new Regional Initiative Technical Assistance Partnership (RITAP) projects that is expected to address the unique challenges and opportunities of multiple CCS/CDR and CO2 transport projects developed within a single geologic basin. Technical assistance may include properly siting storage projects to avoid pressure interference between neighboring storage facilities, pore space and mineral rights issues, transportation rights-of way, navigating diverse regulatory jurisdictions, storage resource management, and other aspects.    
 
     
 
@@ -742,24 +679,24 @@ Deeply electrolytic reduction of carbon dioxide (CO2) to high‐value ethylene (
 
     
 
-* Evaluation of Caprock Integrity with Laboratory Scale In-Situ CO2 Injection Test  :CO2RR:
+* Copper Atom Pairs Stabilize *OCCO Dipole Toward Highly Selective CO2 Electroreduction to C2H4  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401481137
-:TOPICS: Drilling Fluid Technology and Well Integrity, Rock Mechanics and Engineering, Carbon Dioxide Sequestration in Geological Formations
-:PUBLICATION_DATE: 2024-06-23
+:UUID: https://openalex.org/W4401526274
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Ammonia Synthesis and Electrocatalysis, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-08-13
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0671")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202411591")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481137"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481137"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481137"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401526274"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401526274"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401526274"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401481137 (Open access: False)
+OpenAlex: https://openalex.org/W4401526274 (Open access: False)
     
-[[https://openalex.org/A5010611200][Kanitthorn Adisornsupawat]], [[https://openalex.org/A5038094524][Anusarn Sangnimnuan]], [[https://openalex.org/A5106385026][Porranut Rabiabpo]], [[https://openalex.org/A5015958493][Sudarshan Govindarajan]], [[https://openalex.org/A5028571707][Akshay Thombare]], [[https://openalex.org/A5030072808][Deepak Gokaraju]], [[https://openalex.org/A5014583188][Munir Aldin]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0671 
+[[https://openalex.org/A5032988244][Shenghua Chen]], [[https://openalex.org/A5006411143][Xiaobo Zheng]], [[https://openalex.org/A5025853223][Peng Zhu]], [[https://openalex.org/A5100404468][Yapeng Li]], [[https://openalex.org/A5014611868][Zechao Zhuang]], [[https://openalex.org/A5048026107][Hangjuan Wu]], [[https://openalex.org/A5027375542][Jiexin Zhu]], [[https://openalex.org/A5101734901][Chunhui Xiao]], [[https://openalex.org/A5048612772][Mingzhao Chen]], [[https://openalex.org/A5020149505][Pingshan Wang]], [[https://openalex.org/A5042841794][Dingsheng Wang]], [[https://openalex.org/A5103443552][Ya‐Ling He]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202411591 
      
-ABSTRACT: Maximum injection or breakthrough pressure is a key factor to determine storage volume of CO2 and to ensure integrity of caprock. In some studies, the maximum injection pressure is based on 90% of fracture pressure (Solomon, 2007). Seal capacity using Mercury Injection Capillary Pressure (MICP) has mainly been utilized in petroleum industry to obtain maximum injection pressure (Purcell, 1949). Laboratory experiments of injection pressure can be performed using both direct and indirect method. The indirect method that widely used mainly consists of mercury intrusion porosimetry. This can quickly estimate breakthrough pressure. However, conversion factor from mercury-air condition into CO2-brine condition is needed. In addition, most of the tests are conducted at ambient condition where impact of pressure and temperature are excluded. In this study, Super Critical CO2 is injected directly into reservoir samples to obtain maximum injection pressure under reservoir condition. The step rate pressure was then applied at a series of increasing magnitudes with a steady holding period until breakthrough pressure is observed. Representative stress and temperature were maintained using confining pressure and heater in triaxial system. Acoustic and resistivity sensors were recorded in real-time. Results of pressure breakthrough for outcrops and reservoir samples are presented. 1. INTRODUCTION With the increase of global warming due to excessive release of CO2 emission, Carbon dioxide capture and geological storage or utilization and storage (CCS or CCUS) has become crucial and to be implemented to meet the net zero emission goals (Masson-Delmotte et al., 2018, Metz et al., 2005). In many industries, the policies start to include the net zero emission as one of the main company's goals. Carbon credit will also be obtained as the CO2 emission has been reduced. The implementation of CCS and CCUS has started globally, including the US, EU, and Asia. The policy for each region/country differs but under the same goal to reduce CO2 emission. The success of a CCUS operation and emissions reduction is dependent on injecting CO2 back to the reservoir after production and keeping the CO2 stored inside the reservoir without migrating to the caprock. Therefore, the caprock sealing ability is crucial and needs to be studied thoroughly. One of the parameters used to characterize the caprock integrity is the breakthrough pressure, which is the point where CO2 starts to leak into the caprock after being injected into the reservoir. The breakthrough or maximum injection pressure is also used to design the CO2 storage volume in reservoir or aquifer. Whether the desired volume can be achieved or not, successful sealing is directly dependent on breakthrough pressure. If the breakthrough pressure used in the study is too low, the storage volume might not be enough to meet the CO2 reduction and carbon credit goal set by the company. This will result in a new site or an additional site to be able to meet the injection target (Smith et al., 2011, DOE-NETL, 2017).    
+Deeply electrolytic reduction of carbon dioxide (CO2) to high‐value ethylene (C2H4) is very attractive. However, the sluggish kinetics of C‐C coupling seriously results in the low selectivity of CO2 electroreduction to C2H4. Herein, we report a copper‐based polyhedron (Cu2) that features uniformly distributed and atomically precise bi‐Cu units, which can stabilize *OCCO dipole to facilitate the C‐C coupling for high selective C2H4 production. The C2H4 faradaic efficiency (FE) reaches 51% with a current density of 469.4 mA cm−2, much superior to the Cu single site catalyst (Cu SAC) (~0%). Moreover, the Cu2 catalyst has a higher turnover frequency (TOF, ~520 h‐1) compared to Cu nanoparticles (~9.42 h‐1) and Cu SAC (~0.87 h‐1). In situ characterizations and theoretical calculations revealed that the unique Cu2 structural configuration could optimize the dipole moments and stabilize the *OCCO adsorbate to promote the generation of C2H4.    
 
     
 
@@ -784,45 +721,24 @@ One of the main agents responsible for global warming is greenhouse gases, espec
 
     
 
-* Stability Study of Tight Sandstone Reservoirs During CO2 Dynamic Storage Process  :CO2RR:
+* Response of babassu coconut shell and açai biochar on soil attributes and gas emission  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401479289
-:TOPICS: Pore-scale Imaging and Enhanced Oil Recovery, Carbon Dioxide Sequestration in Geological Formations, Hydraulic Fracturing in Shale Gas Reservoirs
-:PUBLICATION_DATE: 2024-06-23
+:UUID: https://openalex.org/W4401669857
+:TOPICS: Utilization of Forest Biomass for Various Applications, Plant Nutrition and Growth Optimization, Effects of Soil Compaction on Crop Production
+:PUBLICATION_DATE: 2024-08-16
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0142")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56238/sevened2024.023-008")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479289"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479289"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479289"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401669857"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401669857"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401669857"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401479289 (Open access: False)
+OpenAlex: https://openalex.org/W4401669857 (Open access: False)
     
-[[https://openalex.org/A5101476694][Yuting He]], [[https://openalex.org/A5101576088][Yuetian Liu]], [[https://openalex.org/A5100723967][Jingru Wang]], [[https://openalex.org/A5101935288][Jingpeng Li]], [[https://openalex.org/A5067299655][Peiying Zhang]], [[https://openalex.org/A5064389911][Rukuan Chai]], [[https://openalex.org/A5066160741][Pingtian Fan]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0142 
+[[https://openalex.org/A5058200426][Alexander Meneses‐Jácome]], [[https://openalex.org/A5015786554][Lídia de Sousa]], [[https://openalex.org/A5104143074][Alan Teixeira Alves]], [[https://openalex.org/A5080202932][Matteus Silva]], [[https://openalex.org/A5090078652][Hellen Patrícia Lemos Cordovil]], [[https://openalex.org/A5102199006][Leane Castro de Souza]], [[https://openalex.org/A5084647423][Luma Castro de Souza]], [[https://openalex.org/A5058902921][Raphael Leone Cruz Ferreira]], [[https://openalex.org/A5022358457][Cândido Ferreira de Oliveira Neto]], [[https://openalex.org/A5033499115][Kamila Cunha de Meneses]], [[https://openalex.org/A5023016776][Nilvan Carvalho Melo]], [[https://openalex.org/A5046280078][Flávio José Rodrigues Cruz]], Seven Editora eBooks. None(None)] 2024. https://doi.org/10.56238/sevened2024.023-008 
      
-ABSTRACT: The tight sandstone reservoirs present a viable option for geological CO2 storage. The stability and safety of the reservoir rock are fundamental for long-term CO2 storage. However, the injection may lead to interactions between H2O, CO2, and rock, potentially impacting the mineral composition and physical properties of the reservoir. This ultimately leads to a decrease in the mechanical properties of the rock and disrupts the stability of the reservoir in high-pressure environments. In this study, rock mechanics experiments, nuclear magnetic resonance (NMR) experiments, and scanning electron microscopy (SEM) experiments were carried out to investigate the changes in mechanical properties, pore size, and microstructure of cores with different mineral compositions treated with aqueous carbonate solution under different confining pressures, in order to analyze the effects of the dynamic CO2 storage process on reservoir stability. The results show that the presence of CO2 under confining pressure leads to a decrease in rock strength. Carbonic acid solution can effectively dissolve feldspars and clay minerals in the rock composition, causing changes in pore structure and leading to a decrease in rock strength. The study aims to provide insights and recommendations for developing oil and gas extraction and carbon sequestration. 1. INTRODUCTION Carbon dioxide geological storage technology is one of the effective ways to mitigate the global warming trend, and its basic principle is to inject captured carbon dioxide into deep underground rock pores for long-term isolation and fixation (Chen et al., 2023; Farquhar et al., 2015). Among the many potential storage media, tight sandstone reservoirs have received great attention from scientists and industry for their complex pore structure and high storage capacity (Bachu et al., 1994; Michael et al., 2009). However, CO2 injection affects the porosity, permeability, and mechanical properties of reservoirs, which may cause reservoir damage and reduced storage efficiency (Yu et al., 2012). For example, CO2 reacts chemically with minerals in the rock, which may lead to dissolution or precipitation of minerals, and thus change the physical structure of the rock (Fischer et al., 2010). The physical structure of the rock may be altered. Therefore, the mechanical response of rocks during CO2 injection must be thoroughly studied to ensure the safety and efficiency of the storage process. In recent years, in the field of CO2 geological storage research, scholars have carried out a large number of experimental and simulation studies, aiming to explore the mechanism of CO2 interaction with reservoir rocks and trying to predict and optimize the reservoir performance (Vafaie et al., 2023). The CO2 has different dissolution capacities for different minerals, leading to changes in the microstructure and mechanical properties of mineral surfaces, which indirectly leads to the decline of rock mechanical properties, thus affecting the production of unconventional oil and gas and reservoir stability (Vogt et al., 2014; Zhang et al., 2020; Zhang et al., 2022). Among various minerals, carbonate minerals (e.g., calcite and dolomite) have the highest solubility and the fastest reaction rate, while silicate minerals such as feldspar and quartz have lower solubility and slower reaction rate (Memon et al., 2022; Ranjith et al., 2019; Xing et al., 2019). Under the combined effect of CO2, the compressive strength and modulus of elasticity of the rock are significantly reduced (Huang et al., 2020; Rathnaweera et al., 2015; Zhou et al., 2024). The geological sequestration of carbon dioxide is a dynamic process, with the continuous injection of fluids, the formation pressure gradually increases. In fractured and low-permeability formations, the physical properties of rocks are affected by the increase in pore pressure, and their physical properties change significantly, which affects reservoir capacity (Dávila et al., 2017; Pavan & Govindarajan, 2023; Vialle & Vanorio, 2011). Zhao et al. carried out CO2 in brine solution saturated dense sandstone reservoir core samples for oil repulsion and explained the increase in porosity and permeability due to the increase in pore pressure (Zhao et al., 2021). Liteanu et al. investigated the effect of supercritical CO2 on rock mechanics, where carbonic acid solution led to stress corrosion fracturing and strength reduction of rocks (Liteanu et al., 2013).    
-
-    
-
-* Machine Learning Application for CCUS Carbon Storage: Fracture Analysis and Mapping in the Illinois Basin  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401479922
-:TOPICS: Characterization of Shale Gas Pore Structure, Hydraulic Fracturing in Shale Gas Reservoirs, Seismic Waveform Inversion in Geophysics
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-1183")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479922"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479922"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479922"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401479922 (Open access: False)
-    
-[[https://openalex.org/A5100682327][Gao Liu]], [[https://openalex.org/A5102854668][Abhash Kumar]], [[https://openalex.org/A5088202784][William Harbert]], [[https://openalex.org/A5063899452][Hema Siriwardane]], [[https://openalex.org/A5031467187][Dustin Crandall]], [[https://openalex.org/A5083258381][Luciane Cunha]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-1183 
-     
-ABSTRACT: In this paper, an innovative method comprising of multi-tiered analysis has been developed to leverage advanced Machine Learning (ML) techniques to process passive seismic monitoring data acquired over a three-year injection period into a CO2 storage site in the Illinois Basin for potential fracture/fault analysis. The study is aimed at contributing to monitoring design and de-risking operation for carbon capture, utilization, and storage (CCUS) and improving monitoring, verification, and accounting (MVA) of injected subsurface CO2. Information on fractures from well logs and core data is integrated together to develop a comprehensive understanding of how these fractures correlate with the rock petrophysical properties. The fracture networks obtained from this approach can directly benefit field operations and reservoir management decision-making for CCUS, which include the dynamic injection scheduling/workover, risk assessment, and further monitoring design. Furthermore, the proposed methodology is potentially applicable to oil and gas assets as well as geothermal development, operations, and monitoring. 1. INTRODUCTION Injecting significant volume of anthropogenic carbon dioxide (CO2) into geological reservoirs is one of the piloted practices for greenhouse gas reduction. These operations have gained considerable traction in the last decade as a viable option to reduce the long-term environmental footprint. However, monitoring the storage reservoir to ensure safe and long-term storage of CO2 for de-risk operations and storage management is undergoing dynamic shifts, expanding opportunities for implementing innovative techniques and applications, especially for the commercial-scale deployment. This study is part of the Science-informed Machine Learning (ML) for Accelerating Real-Time Decisions in Subsurface Applications (SMART) Initiative which have funded by the US Department of Energy Carbon Storage program to transform our ability to make better, informed decisions related to the subsurface through real-time visualization, forecasting, and virtual learning. The outcomes of the SMART Initiative are science-informed machine learning-based tools that can be applied at carbon storage sites throughout the nation and the world to 1) improve the ability to consolidate technical knowledge, site-specific characterization information, and real-time data in a digestible way; 2) enable the optimization of carbon storage reservoirs by creating a capability for "real-time" forecasting of carbon storage reservoir behavior; and 3) improve the ability to understand and communicate subsurface behavior during carbon storage operations to non-experts. The ultimate objectives aim in helping accelerate the deployment of field scale carbon storage in the US and the world.    
+Biochar from waste produced by pyrolysis benefits soil fertility, increases water and nutrient retention and reduces greenhouse gas emissions, promoting more sustainable agricultural practices. Thus, the objective of this study was to investigate the benefits of biochar produced from babassu and açaí coconut shells on the physical, chemical and biological attributes of the soil, as well as on the mitigation of greenhouse gas emissions. A comprehensive literature review was carried out, exploring articles and books in scientific databases. The results showed that the biochar of babassu coconut shells and açaí have significant impacts on the soil. In terms of soil attributes, an increase in water retention capacity, improvement in soil structure and an increase in the availability of essential nutrients for plants were observed. In addition, there was a reduction in the emission of gases such as carbon dioxide-CO2, methane-CH4 and nitrous oxide-N2O, important greenhouse gases, indicating the potential of biochar in mitigating climate change when incorporated into agricultural practices.    
 
     
 
@@ -847,108 +763,24 @@ Carbon emissions are one of the components of greenhouse gas (GHG) emissions in 
 
     
 
-* Wavelet Transform and Hidden Markov Model Application for Unsupervised Clustering of Microseismic Events from CO2 Injection  :CO2RR:
+* Carbon dioxide induced cerebral vasomotor reactivity in moderate-to-severe cerebral venous thrombosis patients and its impact on prognosis: A transcranial doppler-based prospective exploratory study  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401481726
-:TOPICS: Machine Learning for Earthquake Early Warning Systems
-:PUBLICATION_DATE: 2024-06-23
+:UUID: https://openalex.org/W4401536133
+:TOPICS: Diagnosis and Management of Cerebral Vein Thrombosis, Management and Pathophysiology of Traumatic Brain Injury, Cerebrospinal Fluid Disorders and Hematomas
+:PUBLICATION_DATE: 2024-10-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0844")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jocn.2024.110779")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481726"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481726"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481726"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401536133"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401536133"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401536133"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401481726 (Open access: False)
+OpenAlex: https://openalex.org/W4401536133 (Open access: False)
     
-[[https://openalex.org/A5102186653][Richard Willis]], [[https://openalex.org/A5089401974][Hongkyu Yoon]], [[https://openalex.org/A5078547451][Jenny Harding]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0844 
+[[https://openalex.org/A5066118761][Prachi Sharma]], [[https://openalex.org/A5101496347][Radhakrishnan Muthuchellappan]], [[https://openalex.org/A5054657449][Suparna Bharadwaj]], [[https://openalex.org/A5088702816][Dhritiman Chakrabarti]], [[https://openalex.org/A5001909850][Priya Baby]], [[https://openalex.org/A5047844526][Pritam Raja]], [[https://openalex.org/A5088819544][Abhinith Shashidhar]], [[https://openalex.org/A5012512674][Alok Mohan Uppar]], Journal of Clinical Neuroscience. 128(None)] 2024. https://doi.org/10.1016/j.jocn.2024.110779 
      
-ABSTRACT: Injection of CO2 increases pore pressures that trigger complex subsurface interactions, leading to slip or reactivation of pre-existing faults/fractures and/or creating fractures. Understanding the subsurface response is key to preserving the integrity of the storage site, optimizing the injection, and mitigating the risk of seismic hazards. Machine learning (ML) models have shown the potential to improve our understanding of complex earth systems by identifying subtle changes in patterns of seismic and microseismic data. Furthermore, ML has shown great promise in revealing patterns in time-dependent spectral properties of (micro-) seismic data to identify differences in subsurface response. In this study, a wavelet transform scheme is implemented to isolate high energy frequency bands within microseismic data from the Illinois Basin Decatur Project (IBDP). Subsequently, an unsupervised ML method is used to identify various subsurface responses attributed to CO2 injection at the IBDP. Specifically, the unsupervised method known as SpecUFEx is used to further reduce the dimensionality of the reconstructed high energy micro-seismic spectrograms, solve for characteristic fingerprints, and apply K-means clustering to group similar fingerprints. Finally, a comparison is made between our clustering results and an implementation of SpecUFEx where the full frequency spectrum of the microseismic data was used. 1 INTRODUCTION Carbon capture and storage (CCS) has emerged as a critical technology in the global effort to mitigate climate change by reducing carbon dioxide (CO2) emissions from industrial processes and power generation. The concept of CCS involves capturing CO2 emissions from large point sources such as power plants and industrial facilities, transporting the captured CO2 to suitable storage sites, and securely storing it underground in geological formations to prevent its release into the atmosphere. This approach not only helps reduce greenhouse gas emissions but also enables the continued use of fossil fuels while transitioning to cleaner energy sources. As nations strive to meet ambitious climate targets, CCS is increasingly recognized as a key component of the portfolio of solutions needed to achieve significant and sustained reductions in CO2 emissions on a global scale. However, one primary risk of CCS is induced seismicity. Injecting CO2 into subsurface formations increases pore pressure, leading to changes in local stress conditions and potentially triggering micro-seismic events within basement rock. Accurate monitoring and modeling are imperative for the success of CCS projects, ensuring efficiency, safety, and societal acceptance.    
-
-    
-
-* Electron Reservoir Effect of Adjacent Fe Nanoclusters Boosts Atomic Fe Active Sites on Porous Carbon for the Both Electrocatalytic Oxygen Reduction and CO2 Reduction Reaction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401485552
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-08-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202405157")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401485552"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401485552"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401485552"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401485552 (Open access: False)
-    
-[[https://openalex.org/A5100685165][Jiaxin He]], [[https://openalex.org/A5100654141][Li Xu]], [[https://openalex.org/A5056461668][Chenchen Qin]], [[https://openalex.org/A5103120904][Jian Zhang]], [[https://openalex.org/A5025754715][Daomeng Liu]], [[https://openalex.org/A5025332292][Qingyi Li]], [[https://openalex.org/A5101510510][Ziyi Feng]], [[https://openalex.org/A5005006281][Junzhong Wang]], [[https://openalex.org/A5103069824][Peigen Liu]], [[https://openalex.org/A5089713422][Hongbao Li]], [[https://openalex.org/A5018789987][Zhengkun Yang]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202405157 
-     
-Electrochemical oxygen reduction reaction (ORR) and carbon dioxide reduction reaction (CO    
-
-    
-
-* Thermodynamic Modeling of Carbonation of Blended Cements for Wellbore Integrity  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401480260
-:TOPICS: Drilling Fluid Technology and Well Integrity, Hydraulic Fracturing in Shale Gas Reservoirs, Carbon Dioxide Sequestration in Geological Formations
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-1110")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480260"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480260"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480260"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401480260 (Open access: False)
-    
-[[https://openalex.org/A5057079573][Farzana Rahman]], [[https://openalex.org/A5049909802][Raissa Douglas Ferron]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-1110 
-     
-ABSTRACT: Carbon capture and storage (CCS) holds promise for mitigating global greenhouse gas emissions by capturing carbon dioxide (CO2) from industrial sources and storing it in deep geological formations. However, the potential impacts of CCS on oil well cements, critical components for wellbore integrity, demand careful evaluation. These cements are employed in primary, remedial cementing and plugging and abandonment operations of oil and gas wells. Alteration of cement hydration products via carbonation poses threat to wellbore integrity since it leads to leaching of cement matrix. Although carbonation of Portland cement is an inevitable process due to its favorable thermodynamic conditions, its negative impacts can be mitigated by optimizing the chemical composition of blended cements, tailored to specific thermodynamic environments. These blended cements incorporate supplementary cementitious materials (SCMS), such as silica, calcined clay, limestone, fly ash etc, to promote pozzolanic reactions. These pozzolanic reactions in blended systems produce chemically resistant hydration products. These hydration products differ from those of neat Portland cement due to the blend's initial lower calcium-to-silica (C/S) ratio. Blending cements with a low C/S ratio have been shown to produce hydration products that are less susceptible to CO2 attack. This study investigates the carbonation behavior of blended cements using thermodynamic modeling. Predicted carbonated phase assemblages indicate blended cements with SCMs are expected to provide wellbore integrity in the long run under static conditions. Thermodynamic modeling of neat and blended cements will provide us with insight to understand the progress of carbonation and the effectiveness of SCMs in blended cements for improving carbonation resistance. 1. INTRODUCTION Recent years have seen a spike in global interest to reduce carbon footprint in hopes of mitigating climate change. More actions are being taken by global society towards a low carbon future. Keeping that in mind, the energy industry is adapting to the emerging needs of the 21st century by means of effective sustainable practices and development. Oil and gas wells require high temperature and pressure (HTHP) resistant cement sheath that provides structural integrity and zonal isolation to these wells. At the end of their service life, these geothermal wells require plugging and abandonment (P&A) in the form of cement sealant to prevent hydrocarbon leakage. It is estimated that over 2 million of unplugged abandoned wells in U.S. are leaking pollutants such as methane into groundwater reservoir, sea, and ocean, causing severe environmental pollution (Marcacci, 2020). Thus, advanced cement performance is required for geothermal cementing to mitigate issues related to leaky wellbore (both active and abandoned). Additionally, cement production itself is a carbon intensive process, which accounts for at least 8% of global CO2 emission. The cement industry needs to cut down its emission by at least 16% by 2030 to comply with the Paris Agreement (Tigue, 2022). Although concrete construction is considered as an avenue for such a reduction, one area that is overlooked is the cement used in the wellbores.    
-
-    
-
-* A Review on the Influence of Crystal Facets on the Product Selectivity of CO2RR over Cu Metal Catalysts  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401477842
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation
-:PUBLICATION_DATE: 2024-08-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.4c05326")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401477842"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401477842"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401477842"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401477842 (Open access: False)
-    
-[[https://openalex.org/A5101923092][Dandan Ma]], [[https://openalex.org/A5104328505][Chuanqi Zhi]], [[https://openalex.org/A5100744381][Yimeng Zhang]], [[https://openalex.org/A5048053569][Jiantao Chen]], [[https://openalex.org/A5066930734][Yanmin Zhang]], [[https://openalex.org/A5009198853][Jian‐Wen Shi]], ACS Nano. None(None)] 2024. https://doi.org/10.1021/acsnano.4c05326 
-     
-The electrocatalytic carbon dioxide reduction reaction (ECRR) is promising in converting environmentally harmful CO    
-
-    
-
-* Thermal Contribution in Fault Stability Assessment During Fluid Injection: Improvement of the Analytical Probabilistic Approach of an In-House Tool  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401479448
-:TOPICS: Risk Analysis and Management, Process Fault Detection and Diagnosis in Industries, Materials Engineering in Industrial Applications
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0330")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479448"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479448"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479448"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401479448 (Open access: False)
-    
-[[https://openalex.org/A5026670002][Stefania Petroselli]], [[https://openalex.org/A5106384369][A. Stiz]], [[https://openalex.org/A5043073273][M. Brignoli]], [[https://openalex.org/A5039977938][S. Monaco]], [[https://openalex.org/A5045115220][F. Marton]], [[https://openalex.org/A5000441568][D. Grilli]], [[https://openalex.org/A5015403129][Guglielmo Luigi Daniele Facchi]], [[https://openalex.org/A5053465780][F. Bottazzi]], [[https://openalex.org/A5073616431][Stefano Mantica]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0330 
-     
-ABSTRACT: Among the geomechanical aspects associated to the fluid injection in a reservoir, the effective stress reduction due to a cold fluid may be critical for the fault stability. To account for this aspect, Eni has implemented the thermal contribution in the in-house SAFE tool used for the fault stability assessment associated to injection projects. The validation of this feature has been carried out using Perkins and Gonzales (1984) model as a benchmark, considering a hypothetical vertical fault at a certain distance from the injection well, and oriented perpendicularly to the minimum horizontal stress direction. The results in terms of stress have been compared to a 2D Finite Element Abaqus simulation of the same case, previously validated with the benchmark. Finally, the unfavorable impact of the thermal aspect when a fluid colder than the rock mass is injected in a formation has been analyzed through a synthetic case. 1. INTRODUCTION One of the most critical challenges related to the actual problem of global climate change is to find an environmentally and economical solution to immediately reduce greenhouse gases emissions, particularly the carbon dioxide (CO2). To this aim, CO2 capture and storage (CCS) in deep geologic formations, such as depleted oil and gas reservoirs or deep saline aquifers, will have a crucial role in reducing gas emissions. To implement CCS on the scale needed to make noticeable changes, geological media suitable for gas storage must have sufficient capacity and injectivity, and a comprehensive understanding of their hydrologic-geochemical-geomechanical is needed to ensure the confinement for the lateral or vertical migration of CO2 to the surface (Rutqvist, 2012). The importance of geomechanics associated to carbon storage started to be recognized in the 2000s, when studies of actual CO2 injection sites have shown that significant geomechanical changes may indeed occur, depending on the injection conditions and the site-specific properties (Rutqvist et al., 2010). Among all known phenomena related to fluid injection, rock integrity and fault stability are key factors to be evaluated for reservoir development. Fault reactivation and associated induced seismicity have been observed in many water injection projects in the US, where the earthquake rate increase, since 2001, is due to the injection of water resulting from hydraulic fracturing operations in nearby disposal wells. High CO2 injection pressures can induce fluid driven fractures as well, triggering displacements along pre-existing faults and generating seismic events (Ellsworth, 2013). Moreover, the injection of a fluid with different temperature than the formation temperature leads to a thermal effect on the geomechanical integrity, adding a stress variation that could alter the fault resistance. More specifically, once the fluid is injected, rock usually cools down in the area around the well. In this condition, within the cooled zone, horizontal earth tension decreases as a result of the formation rock contracting (Perkins & Gonzales, 1984; Kim & Hosseini, 2017).    
+Hyperventilation-induced intracranial pressure reduction might be impaired in cerebral venous thrombosis (CVT) patients. Using transcranial Doppler, we assessed carbon dioxide-vasomotor reactivity (CO    
 
     
 
@@ -970,27 +802,6 @@ OpenAlex: https://openalex.org/W4401590158 (Open access: True)
 [[https://openalex.org/A5081231223][Yuming Dong]], [[https://openalex.org/A5007018625][Jialin Gao]], [[https://openalex.org/A5075176370][Qiu Jian-yu]], [[https://openalex.org/A5009189751][Yiniu Cui]], [[https://openalex.org/A5032351846][Mengyao Guo]], Frontiers in Environmental Science. 12(None)] 2024. https://doi.org/10.3389/fenvs.2024.1432457 
      
 This article is based on panel data from 266 cities in China from 2009 to 2020. Classical economics theory and Marxist political economy theory are used as the theoretical basis for the study. Static spatial Durbin model regression and dynamic spatial Durbin model regression are conducted to analyze the impact of education investment on carbon dioxide emissions. The results show that education investment can significantly reduce carbon dioxide emissions, not only through spatial spillover effects, but also through dynamic effects over time. The implementation of education investment in one city can have a positive impact on surrounding cities, thereby achieving a certain degree of reduction in carbon emissions. Additionally, the inhibitory effect of education investment on carbon emissions is more significant in the short term. Furthermore, the study found that there is significant heterogeneity in the effect of education investment on carbon dioxide emissions between northern and southern cities, with education investment in southern cities having a more significant effect. This may be related to the industrial structure and climate of southern cities. The conclusions of this study provide useful reference for the development of education policies and environmental protection policies. In the future, the government can increase education investment appropriately to achieve the goal of reducing carbon dioxide emissions. And research has shown that education investment can suppress carbon emissions by influencing changes in energy and industrial structures. Therefore, when using measures to reduce emissions in education investment, we can focus on these two aspects.    
-
-    
-
-* Carbon dioxide induced cerebral vasomotor reactivity in moderate-to-severe cerebral venous thrombosis patients and its impact on prognosis: A transcranial doppler-based prospective exploratory study  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401536133
-:TOPICS: Diagnosis and Management of Cerebral Vein Thrombosis, Management and Pathophysiology of Traumatic Brain Injury, Cerebrospinal Fluid Disorders and Hematomas
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jocn.2024.110779")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401536133"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401536133"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401536133"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401536133 (Open access: False)
-    
-[[https://openalex.org/A5066118761][Prachi Sharma]], [[https://openalex.org/A5101496347][Radhakrishnan Muthuchellappan]], [[https://openalex.org/A5054657449][Suparna Bharadwaj]], [[https://openalex.org/A5088702816][Dhritiman Chakrabarti]], [[https://openalex.org/A5001909850][Priya Baby]], [[https://openalex.org/A5047844526][Pritam Raja]], [[https://openalex.org/A5088819544][Abhinith Shashidhar]], [[https://openalex.org/A5012512674][Alok Mohan Uppar]], Journal of Clinical Neuroscience. 128(None)] 2024. https://doi.org/10.1016/j.jocn.2024.110779 
-     
-Hyperventilation-induced intracranial pressure reduction might be impaired in cerebral venous thrombosis (CVT) patients. Using transcranial Doppler, we assessed carbon dioxide-vasomotor reactivity (CO    
 
     
 
@@ -1057,27 +868,6 @@ Objective: In this work we evaluate the phosphorus fertilization without burning
 
     
 
-* Cyanobacterial Artificial Plants for Enhanced Indoor Carbon Capture and Utilization  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401482587
-:TOPICS: Microalgae as a Source for Biofuels Production
-:PUBLICATION_DATE: 2024-08-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adsu.202400401")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401482587"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401482587"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401482587"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401482587 (Open access: True)
-    
-[[https://openalex.org/A5026349064][Maryam Rezaie]], [[https://openalex.org/A5044889212][Seokheun Choi]], Advanced Sustainable Systems. None(None)] 2024. https://doi.org/10.1002/adsu.202400401 
-     
-Abstract Indoor carbon dioxide (CO 2 ) levels are often significantly higher than those outdoors, which is a growing health concern, particularly in urban areas where people spend over 80% of their time indoors. Traditional CO 2 mitigation methods, such as ventilation and filtration, are becoming less effective as outdoor CO 2 levels increase due to global warming. This study introduces a novel solution: cyanobacterial artificial plants that enhance indoor carbon capture while converting CO 2 into oxygen (O 2 ) and bioelectricity. These artificial plants use indoor light to drive photosynthesis, achieving a 90% reduction in indoor CO 2 levels, from 5000 to 500 ppm—far surpassing the 10% reduction seen with natural plants. In addition to improving air quality, the system produces O 2 and enough bioelectricity to power portable electronics. Each artificial leaf contains five biological solar cells that generate electricity during photosynthesis, with water and nutrients supplied through transpiration and capillary action, mimicking natural plant systems. The system generates an open circuit voltage of 2.7 V and a maximum power output of 140 µW. This decentralized approach offers a sustainable, energy‐efficient solution to indoor environmental challenges, providing improved air quality and renewable electricity amid rising global CO 2 levels.    
-
-    
-
 * Analysis of Synergistic Drivers of CO2 and NOX Emissions from Thermal Power Generating Units in Beijing-Tianjin-Hebei, 2010-2020  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401589512
@@ -1120,24 +910,24 @@ The electrocatalytic reduction of carbon dioxide by metal catalysts featuring du
 
     
 
-* Combustion Mode Evaluation of a Methanol–Diesel Dual Direct Injection Engine with a Control of Injection Timing and Energy Substitution Ratio  :CO2RR:
+* Direct Air Capture: Economy and Technical Cost of Low-Purity CO2 on Post-Capture Operating Cost  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401486134
-:TOPICS: Chemical Kinetics of Combustion Processes, Technical Aspects of Biodiesel Production, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-08-09
+:UUID: https://openalex.org/W4401611181
+:TOPICS: Economic Implications of Climate Change Policies, Carbon Dioxide Capture and Storage Technologies, Rebound Effect on Energy Efficiency and Consumption
+:PUBLICATION_DATE: 2024-08-02
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4271/03-18-01-0002")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4314/fuoyejet.v9i2.19")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401486134"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401486134"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401486134"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401611181"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401611181"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401611181"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401486134 (Open access: False)
+OpenAlex: https://openalex.org/W4401611181 (Open access: True)
     
-[[https://openalex.org/A5062382247][Yifan Zhao]], [[https://openalex.org/A5026058374][Xinyu Liu]], [[https://openalex.org/A5003090345][Sanghoon Kook]], SAE International Journal of Engines. 18(1)] 2024. https://doi.org/10.4271/03-18-01-0002 
+[[https://openalex.org/A5078857315][Luqman K. Abidoye]], FUOYE Journal of Engineering and Technology. 9(2)] 2024. https://doi.org/10.4314/fuoyejet.v9i2.19 
      
-<div>Methanol, as a renewable fuel, is an attractive option for internal combustion engines. The dual direct injection method is one of the most promising strategies for applying methanol fuel in diesel engines as the flexible injection control enables combustion mode switching. In this study, a 1-L single-cylinder common-rail diesel engine with a compression ratio of 17.4 is retrofitted by installing an additional methanol direct injector with 35 MPa injection pressure. The engine is operated at 1400 rpm, intermediate load, and fixed midpoint combustion phasing of 10 °CA aTDC with a fixed total amount of energy while applying an energy substitution principle with up to 70% energy supplied by methanol. From the experiments, three distinct combustion modes were identified. When early methanol injection timings were selected in the range of 180–60 °CA bTDC, the primary combustion mode was premixed burn. Late injection timings of 10 °CA bTDC to TDC led to heat release rate shapes of the diffusion flame mode. In between these injection timings, partially premixed combustion was achieved where the higher methanol substitution ratio achieved carbon dioxide (CO<sub>2</sub>) emissions reduction by up to 11% and nitrogen oxides (NO<sub>x</sub>) emission suppression by up to 12%. It was also found that with increasing methanol energy substitution ratio, a significant reduction in smoke emissions was achieved. However, the decreased power output and increased emissions of unburnt hydrocarbon (uHC) and carbon monoxide (CO) were measured due to incomplete combustion caused by lower flame temperature of methanol.</div>    
+Direct air capture has the potential to capture from innumerable random, mobile and immobile small-scale carbon-emission sources. In this study, simulations result of Direct Air Capture (DAC) reveal the isentropic compression work increases as the mole fraction of CO2 decreases in the stream. At the same depth of sequestration, compression power requirement increases by 20% to sequestrate 10% CO2 stream compared to pure CO2. Also, sequestration at deeper geological layer further raises the power cost of the compression by approximately 14% from 1000 to 1500m and by almost 32% from 1500m to 2500m depth, for pure CO2. This increases to around 34% for storage at 2500m with 50% CO2 mole fraction and 36% for 20% CO2 fraction at the same depth. Similarly, the cost of cooling compressed CO2 increases in proportion to the reduction in CO2 mole fraction in the gas stream. It was shown that the solution density increase with impurities as a result of falling pH in the presence of N2 and O2.    
 
     
 
@@ -1159,27 +949,6 @@ OpenAlex: https://openalex.org/W4401658727 (Open access: False)
 [[https://openalex.org/A5053030986][Shiqing Huang]], [[https://openalex.org/A5102222111][F K Lin]], [[https://openalex.org/A5035679191][Shitao Wang]], [[https://openalex.org/A5090980609][Xiaofei Zeng]], [[https://openalex.org/A5064183920][Hao Ling]], [[https://openalex.org/A5101513178][Xiayi Hu]], [[https://openalex.org/A5002665150][Zhigang Shen]], [[https://openalex.org/A5056166029][Dapeng Cao]], Advanced Materials. None(None)] 2024. https://doi.org/10.1002/adma.202407974 
      
 Abstract Dual‐atom catalysts (DACs) with atomically dispersed dual‐sites, as an extension of single‐atom catalysts (SACs), have recently become a new hot topic in heterogeneous catalysis due to their maximized atom efficiency and dual‐site diverse synergy, because the synergistic diversity of dual‐sites achieved by asymmetric microenvironment tailoring can efficiently boost the catalytic activity by optimizing the electronic structure of DACs. Here, this work first summarizes the frequently‐used experimental synthesis and characterization methods of DACs. Then, four synergistic catalytic mechanisms (cascade mechanism, assistance mechanism, co‐adsorption mechanism and bifunction mechanism) and four key modulating methods (active site asymmetric strategy, transverse/axial‐modification engineering, distance engineering and strain engineering) are elaborated comprehensively. The emphasis is placed on the effects of asymmetric microenvironment of DACs on oxygen/carbon dioxide reduction reaction. Finally, some perspectives and outlooks are also addressed. In short, the review summarizes a useful asymmetric microenvironment tailoring strategy to speed up synthesis of high‐performance electrocatalysts for different reactions.    
-
-    
-
-* Direct Air Capture: Economy and Technical Cost of Low-Purity CO2 on Post-Capture Operating Cost  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401611181
-:TOPICS: Economic Implications of Climate Change Policies, Carbon Dioxide Capture and Storage Technologies, Rebound Effect on Energy Efficiency and Consumption
-:PUBLICATION_DATE: 2024-08-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4314/fuoyejet.v9i2.19")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401611181"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401611181"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401611181"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401611181 (Open access: True)
-    
-[[https://openalex.org/A5078857315][Luqman K. Abidoye]], FUOYE Journal of Engineering and Technology. 9(2)] 2024. https://doi.org/10.4314/fuoyejet.v9i2.19 
-     
-Direct air capture has the potential to capture from innumerable random, mobile and immobile small-scale carbon-emission sources. In this study, simulations result of Direct Air Capture (DAC) reveal the isentropic compression work increases as the mole fraction of CO2 decreases in the stream. At the same depth of sequestration, compression power requirement increases by 20% to sequestrate 10% CO2 stream compared to pure CO2. Also, sequestration at deeper geological layer further raises the power cost of the compression by approximately 14% from 1000 to 1500m and by almost 32% from 1500m to 2500m depth, for pure CO2. This increases to around 34% for storage at 2500m with 50% CO2 mole fraction and 36% for 20% CO2 fraction at the same depth. Similarly, the cost of cooling compressed CO2 increases in proportion to the reduction in CO2 mole fraction in the gas stream. It was shown that the solution density increase with impurities as a result of falling pH in the presence of N2 and O2.    
 
     
 
@@ -1225,27 +994,6 @@ The photoconversion of CO2 into valuable chemical products using solar energy is
 
     
 
-* Strategy Development for Hydrogen-Conversion Businesses in Côte d’Ivoire  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401482426
-:TOPICS: Hydrogen Energy Systems and Technologies, Catalytic Carbon Dioxide Hydrogenation, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-08-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/biomass4030050")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401482426"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401482426"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401482426"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401482426 (Open access: True)
-    
-[[https://openalex.org/A5093850164][Kassé Jean Hugues Angbé]], [[https://openalex.org/A5044619713][Yawovi Nougbléga]], [[https://openalex.org/A5086935301][Satyanarayana Narra]], [[https://openalex.org/A5100854196][Vidhi Singh]], Biomass. 4(3)] 2024. https://doi.org/10.3390/biomass4030050 
-     
-Côte d’Ivoire has substantially neglected crop residues from farms in rural areas, so this study aimed to provide strategies for the sustainable conversion of these products to hydrogen. The use of existing data showed that, in the Côte d’Ivoire, there were up to 16,801,306 tons of crop residues from 11 crop types in 2019, from which 1,296,424.84 tons of hydrogen could potentially be derived via theoretical gasification and dark fermentation approaches. As 907,497.39 tons of hydrogen is expected annually, the following estimations were derived. The three hydrogen-project implementation scenarios developed indicate that Ivorian industries could be supplied with 9,026,635 gigajoules of heat, alongside 17,910 cars and 4732 buses in the transport sector. It was estimated that 817,293.95 tons of green ammonia could be supplied to farmers. According to the study, 5,727,992 households could be expected to have access to 1718.40 gigawatts of electricity. Due to these changes in the transport, energy, industry, and agricultural sectors, a reduction of 1,644,722.08 tons of carbon dioxide per year could theoretically be achieved. With these scenarios, around 263,276.87 tons of hydrogen could be exported to other countries. The conversion of crop residues to hydrogen is a promising opportunity with environmental and socio-economic impacts. Therefore, this study requires further extensive research.    
-
-    
-
 * Boosted Solar Thermochemical Low‐temperature CO2 Splitting On Pt/CeO2 By Interface Catalysis  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401647596
@@ -1288,24 +1036,24 @@ Building renovation is a key initiative to promote energy efficiency, the integr
 
     
 
-* Determination of Thermo-Mechanical Coal Deformations and Implication for CO2 Storage in Deep Coal Formations  :CO2RR:
+* IS CORPORATE SOCIAL RESPONSIBILITY A TOOL USED BY COMPANIES TO ENHANCE THEIR REPUTATION OR A CONTRIBUTION TO SUSTAINABILITY?  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401480269
-:TOPICS: Rock Mechanics and Wave Propagation in Geomedia, Underground Coal Gasification: Fundamentals and Applications, Coalbed Methane Recovery and Utilization Practices
-:PUBLICATION_DATE: 2024-06-23
+:UUID: https://openalex.org/W4401662104
+:TOPICS: Drivers and Impacts of Green Consumer Behavior, Corporate Social Responsibility and Financial Performance, Sustainability Education in Higher Education Institutions
+:PUBLICATION_DATE: 2024-08-16
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0409")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.31435/rsglobal_ijite/30092024/8211")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480269"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480269"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480269"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401662104"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401662104"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401662104"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401480269 (Open access: False)
+OpenAlex: https://openalex.org/W4401662104 (Open access: True)
     
-[[https://openalex.org/A5023466839][Zhang Kunming]], [[https://openalex.org/A5100692291][Shimin Liu]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0409 
+[[https://openalex.org/A5093485106][Aysel Eminova]], International Journal of Innovative Technologies in Economy. None(3(47))] 2024. https://doi.org/10.31435/rsglobal_ijite/30092024/8211 
      
-ABSTRACT: CO2 sequestration along with enhanced coalbed methane (ECBM) has received considerable attention for energy recovery and CO2 storage. CO2 injection not only reduces permeability due to the swelling effect but modifies the temperature field, resulting in coupled thermo-mechanical coal deformations. Limited efforts have been devoted towards the understanding of thermo-mechanical deformations in the coalbed methane (CBM) industry. This study proposed a theoretical model of thermal expansion coefficients through energy principle. Direct measurements of coal deformations with variations in temperature and pressure were carried out. The results indicate that thermo-induced deformation linearly correlates with temperature variations with estimated thermo-deformative coefficients between 8×10-5/K to 10×10-5/K, falling within the theoretical bounds. Additionally, the coal matrix retains its elastic properties after thermal cycling. The mechanical compression at different temperatures exhibits similar trends, increasing linearly with pressure. The matrix bulk modulus increases with pressure cycles at elevated temperatures, indicating that the coal becomes stiffer due to residual strain and gradually increases with pressure depletion. Anisotropic matrix deformation was observed when the temperature was above 273.15 K. The deformation of the coal can have significant implications on the evolution of effective stress, permeability, and localized failure, ultimately controlling CO2 sequestration and long-term CBM production. 1. INTRODUCTION CBM is an unconventional natural gas resource stored within coal seams. Over the past four decades, CBM has developed rapidly and become an important energy source in the United States, Canada, Australia, China, et al. (Yang & Liu, 2021). CBM is known for its relatively low risk associated with low costs due to the maturity of CBM exploration, drilling, completion, and stimulation processes (Flores, 2013). In the United States, CBM production peaked at 1.97 trillion cubic feet (TCF) in 2008, and as of 2022, it still contributes 0.72 TCF, accounting for 2% of the overall U.S. natural gas production (U.S. Department of Energy, 2022, 2023). ECBM was first proposed by Puri (Puri & Yee, 1990) to address the inefficiencies resulting from the reservoir pressure reduction during the late time reservoir depletion. More recent attention has focused on the CO2-ECBM technology and CO2 storage, as depicted in Figure 1 (a) (Jessen, Tang, & Kovscek, 2008; Lin, Ren, Cheng, & Nemcik, 2021; Mazzotti, Pini, & Storti, 2009). CO2 can displace methane attributed to its higher affinity for coal, effectively enhancing methane recovery, particularly in low-permeability CBM reservoirs (White, Strazisar, Granite, Hoffman, & Pennline, 2003). Furthermore, this innovative process has a long-term environmental benefit of sequestering and storing CO2 within underground coal seams. The storage potential of CO2 in unminable coal seams is considerable, with estimated capacities ranging from 3 to 200 GtCO2, making it a relevant option for mitigating anthropogenic CO2 emissions (Mazzotti et al., 2009; Metz, Davidson, De Coninck, Loos, & Meyer, 2005). Many researchers have considered that during the CO2 injection process, CO2 adsorption can induce a significant matrix swelling (Figure 1 (b)), resulting in cleat closure and reduction in permeability (Pekot & Reeves, 2002; J.-Q. Shi & Durucan, 2005; Siriwardane, Gondle, & Smith, 2009; G. X. Wang, Wei, Wang, Massarotto, & Rudolph, 2010; White et al., 2005). This reduction in permeability limits the CO2 injection rate, which is critical for the success of CO2-ECBM (Bai et al., 2022; Lu & Connell, 2008; Zhang & Ranjith, 2019). Indeed, in addition to sorption-induced strain, the coal deformation can also be influenced by fluid composition, temperature, and water saturation, as demonstrated in Figure 1 (c), (d), and (e).    
+Sustainable development, corporate social responsibility and social sustainability, joint efforts for the benefit of society, reduction of carbon dioxide emissions are among the most discussed topics in modern economic literature and articles. Events, discussions and debates are held in this direction. Companies, regardless of size, join this trend and try to make CSR a major part of their strategy. The group of companies really does it and strives to take care of their employees, their families, other stakeholders and society as a whole, and does it with a true sense of social responsibility. Their only goal is to improve the social well-being of their employees, create equal, comfortable working conditions, provide social comfort in society and transmit positive energy. This can be considered an activity that has achieved its goal.On the other hand, some companies approach this work as a part of their marketing activities only to raise their reputation. Sometimes they use CSR to attract customers and partners who are sensitive to sustainable development and the environment, sometimes to increase the attractiveness of their brand, sometimes to avoid sanctions imposed by the government.The real value of CSR lies in honest intent and a long-term commitment to doing the right thing. Transparency, consistency and a focus on measurable impact are key. When businesses approach CSR with integrity, they not only improve their reputation, but also play a vital role in creating a sustainable and fair world for all.    
 
     
 
@@ -1477,27 +1225,6 @@ Abstract. With global warming, forests are increasingly exposed to “compound s
 
     
 
-* Analysis of the Influence of Defective Cement Ring on Casing Stress During CO2 Geological Storage  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401479379
-:TOPICS: Carbon Dioxide Sequestration in Geological Formations, Drilling Fluid Technology and Well Integrity, Rock Mechanics and Engineering
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0224")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479379"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479379"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479379"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401479379 (Open access: False)
-    
-[[https://openalex.org/A5103151229][Hui Li]], [[https://openalex.org/A5100361841][Jun Li]], [[https://openalex.org/A5100930427][Shan Lu]], [[https://openalex.org/A5101645285][Wei Lian]], [[https://openalex.org/A5066012800][Jinlu Liu]], [[https://openalex.org/A5100545391][Xing Zhao]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0224 
-     
-ABSTRACT: In the CCUS operation site, CO2 geological buried Wells are mostly worn out or abandoned old oil and gas reservoir Wells, which have undergone well testing, production, stimulation (fracturing, acidification) and other operations. The temperature and pressure in the wellbore have undergone great changes, and the wellbore cement ring has defects due to elastic mismatch. In this paper, from the perspective of missing ring opening, missing thickness, missing location, casing eccentricity, etc., the finite element numerical simulation method is used to establish a casing - cement ring with defects - formation model, and analyze the stress change rule of casing at the missing part of cement ring under the influence of temperature and non-uniform ground stress during CO2 injection. The research shows that the higher the ratio of cement ring diameter to thickness, the greater the casing stress, the casing is still in a safe state; The circumferential missing Angle of cement ring has great influence on the casing stress. When the missing Angle is 60°, the casing has reached the maximum stress state and has been damaged. The azimuth Angle of cement ring is closely related to the ground stress, and the casing has been damaged at 0-60°. The eccentricity of cement ring has no obvious effect on the stress rush of casing. Therefore, it is necessary to control reasonable CO2 injection parameters for the wellbore with cement ring defects, so as to improve the safety of the casing during CO2 storage and ensure the integrity of the wellbore. 1. INTRODUCTION With the rapid development of social economy, greenhouse gases generated by human activities have been discharged into the atmosphere beyond the standard, resulting in an increase in global temperature year by year (HööK, et al., 2023; Qureshi, et al., 2016; Peter, et al., 2018). According to the International Energy Agency's 2021 report, global carbon emissions will continue to grow in the future, predicting that global CO2 emissions will increase by 500 million tons by 2030, 600 million tons by 2040, and 700 million tons by 2050. The problem of climate change and environmental pollution caused by excessive CO2 emissions has attracted great attention from the international community. In order to cope with this problem, countries have actively explored CO2 emission reduction technologies, among which CCUS technology is one of the effective ways. CO2 storage technology is the core component of CCUS technology, aiming to store CO2 captured from industry or other emission sources in geological environment. Achieve long-term isolation of CO2 and atmospheric environment. The target reservoirs for CO2 geological storage mainly include deep salt water, depleted oil and gas reservoirs, unconventional oil and gas Wells and CO2 geothermal enhanced reservoirs, etc. The depleted oil and gas reservoirs are widely distributed and have good closed circles, which can not only efficiently bury CO2 to reduce its leakage risk, but also have good economic and social benefits. Therefore, CO2 injection into abandoned reservoirs is one of the important ways to achieve efficient CO2 storage.    
-
-    
-
 * Improving the Carbonation of Steel Slags Through Concurrent Wet Milling  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401510092
@@ -1561,27 +1288,6 @@ With the increasing environmental impacts of human activities, the problem of po
 
     
 
-* Well Integrity Analysis During CO2 Injection in a Depleted Chalk Field  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401481624
-:TOPICS: Hydraulic Fracturing in Shale Gas Reservoirs, Drilling Fluid Technology and Well Integrity, Carbon Dioxide Sequestration in Geological Formations
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0944")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481624"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481624"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481624"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401481624 (Open access: False)
-    
-[[https://openalex.org/A5091470715][F. Amour]], [[https://openalex.org/A5018584164][Mohammad Reza Hajiabadi]], [[https://openalex.org/A5049556685][Seyedbehzad Hosseinzadehsadati]], [[https://openalex.org/A5048751702][Hamidreza M. Nick]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0944 
-     
-ABSTRACT: The present study is part of the Bifrost project and aims at assessing the feasibility of storing CO2 in chalk reservoirs by using the depleted Harald East gas field located in the northern part of the Danish North Sea as a showcase. Chalk is a singular rock with a high compressibility and the resulting pronounced compaction during hydrocarbon exploitation and possibly during CO2 storage raises questions on the integrity of cement surrounding the legacy, monitoring, and injector wells. In this context, the study carries out a well stability analysis of a well present in the field. The strain and stress distribution computed by a full-field coupled thermo-hydro-mechanical model is used as input data in a finite element model, which captures the properties and mechanical behavior of a near wellbore area (formation, cement, and casing) located in the seal interval of the field. The results show negligible deformation in the cement during hydrocarbon production and CO2 storage, thereby suggesting low risk of leakage along the studied well. 1. INTRODUCTION Complying with the ambitious objectives of the intergovernmental panel on climate change in terms of amount of greenhouse gas emission reduction requires the quick implementation of multiple carbon capture storage (CCS) projects worldwide (IPCC, 2005). In this context, the re-use of pre-existing oil and gas infrastructures and fields that were thoroughly studied for decades represents a time- and cost-efficient opportunity associated with a relatively low risk of leakage due to a proof of containment at least at pre-production time (Schmelz et al., 2020). In the Danish North Sea, over 800 Mt of CO2 storage capacity was estimated within mature chalk fields (Bonto et al., 2021). Assessing the possibility of storing CO2 in chalk deposits is currently based on laboratory studies such as batch-reactor and flow-through experiments combined with triaxial tests. Exposures of the rock to CO2 in supercritical and gas phase under temperature and pressure conditions relevant for the subsurface of the North Sea indicate no to minor mechanical alteration of the elastic, shear, plastic, and time-dependent properties (Alam et al., 2014; Ditlevsen & Christensen, 2010; Liteanu et al., 2013; Schroeder et al., 2001).    
-
-    
-
 * Production of eco-friendly high-performance mortar with the addition of iron ore tailings  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401630600
@@ -1603,45 +1309,24 @@ This study investigated the mechanical performance and durability of high-perfor
 
     
 
-* Continuous in Situ Characterization by AFM of Surface Mechanical and Electrical Features of Shale Organic Matter Under Different Atmospheres  :CO2RR:
+* Magnesium (Mg/Ca, δ26Mg), boron (B/Ca, δ11B), and calcium ([Ca2+]) geochemistry of Arctica islandica and Crassostrea virginica extrapallial fluid and shell under ocean acidification  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4401481377
-:TOPICS: Comminution in Mineral Processing, Mining Technology and Safety Measures, Drilling Fluid Technology and Well Integrity
-:PUBLICATION_DATE: 2024-06-23
+:UUID: https://openalex.org/W4401518269
+:TOPICS: Impact of Ocean Acidification on Marine Ecosystems, Impact of Aquaculture on Marine Ecosystems and Food Supply
+:PUBLICATION_DATE: 2024-08-12
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0681")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/egusphere-2024-1957")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481377"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481377"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481377"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401518269"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401518269"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401518269"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4401481377 (Open access: False)
+OpenAlex: https://openalex.org/W4401518269 (Open access: True)
     
-[[https://openalex.org/A5002461389][Ying Kang]], [[https://openalex.org/A5079342782][Zhengfu Ning]], [[https://openalex.org/A5057980658][Fangtao Lyu]], [[https://openalex.org/A5011590567][Zejiang Jia]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0681 
+[[https://openalex.org/A5015762521][Blanca Alvarez Caraveo]], [[https://openalex.org/A5034738918][Maxence Guillermic]], [[https://openalex.org/A5057230417][Alan M. Downey‐Wall]], [[https://openalex.org/A5052251031][Louise P. Cameron]], [[https://openalex.org/A5035078159][Jill Sutton]], [[https://openalex.org/A5037050446][John A. Higgins]], [[https://openalex.org/A5055894630][Justin B. Ries]], [[https://openalex.org/A5040130605][Katie E. Lotterhos]], [[https://openalex.org/A5081947189][Robert A. Eagle]], No host. None(None)] 2024. https://doi.org/10.5194/egusphere-2024-1957 
      
-ABSTRACT: Unconventional reservoirs, which are the mainstay of CO2 enhancement and carbon sequestration, are not well characterized in terms of micro-surface electrical properties. In this study, the micro-surface morphology and potential of organic matter (OM) under three atmospheres: dry, water-wet, and ScCO2 were characterized in detail using atomic force microscopy (Tapping mode, KPFM). The results showed that the micro-surface morphology of the OM fluctuated in the range of less than ten nanometers, and the micro-surface roughness under dry and ScCO2 conditions was higher than that under water-wet conditions, which indicated that the ScCO2 extraction and induced swelling were effective. In addition, the contact potential difference of the organic surface under water-wet and ScCO2 conditions was positive, and there was no correlation with the change of surface morphology. Combined with the reduction of Young's modulus, the difference of organic surface potential and the reduction of Young's modulus provide a good physical basis for the emergence of micro-cracks and other defects under the external forces, and provide a new idea for revealing the adsorption characteristics of unconventional reservoirs and realizing the long-term and stable carbon geologic sequestration. 1. INTRODUCTION Due to the decrease of conventional oil and gas resource production rates and the impact of the greenhouse effect in recent years, unconventional oil and gas reservoirs, such as shale, have become an important option for enhancing resource production rates and realizing carbon geologic sequestration (Farokhpoor et al., 2013; J. Zhang et al., 2023). A large number of studies have been carried out on rock damage, fracture generation and other related phenomena, but most of these studies have focused on the macro-scale level and lacked detailed analysis of related changes at the micro- and nano-scale (J. He et al., 2020; Yin et al., 2023; Gu et al., 2023). For unconventional reservoirs such as shale, which is both a key target for the implementation of CO2 enhanced recovery measures and an ideal place to realize efficient and stable carbon geological storage. Direct surface characterization of them can provide a better understanding of the CO2 action mechanism.    
-
-    
-
-* Study of High-Temperature HDR Fracture Features Under True-Triaxial Stress with Supercritical CO2 Fracturing  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401480441
-:TOPICS: Dynamic Material Behavior under Extreme Conditions, Drilling Fluid Technology and Well Integrity, Hydraulic Fracturing in Shale Gas Reservoirs
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-1015")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480441"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480441"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480441"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401480441 (Open access: False)
-    
-[[https://openalex.org/A5101299172][Xuhao Fan]], [[https://openalex.org/A5102973407][Haizhu Wang]], [[https://openalex.org/A5101533705][Mingsheng Liu]], [[https://openalex.org/A5017416079][Bin Wang]], [[https://openalex.org/A5027319824][Yunpeng Zhang]], [[https://openalex.org/A5029093502][Zhenchuan Mao]], [[https://openalex.org/A5100353673][Hao Chen]], [[https://openalex.org/A5031394202][Sergei Stanchits]], [[https://openalex.org/A5089063993][Аlexey Cheremisin]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-1015 
-     
-ABSTRACT: The paper presents fracturing experiments on Hot Dry Rock using water and SC-CO2 (supercritical CO2) to obtain the characteristics of fracture morphologies under actual temperature and pressure conditions. These experiments utilized an in-house developed, real-time, high-temperature, high-pressure, true triaxial experimental system. The study investigates fracture propagation characteristics under various formation stresses and initial rock temperatures while quantitatively analyzing post-fracturing parameters such as fractal dimension, using tools like surface profilometers. The results demonstrate that the fracturing pressure with SC-CO2 is significantly lower than that of conventional hydraulic fracturing, with the fracture pressure of the rock reduced from 21.8 MPa to approximately 14.9 MPa, a decrease of 31.7%, and SC-CO2 fracturing results in more complex fracture morphologies and larger fractal dimensions of the fracture surfaces. Under the same conditions, compared to hydraulic fracturing, the increase in temperature results in a greater reduction in rock fracture pressure and a larger increase in fractal dimension with SC-CO2 fracturing. Additionally, high stress differentials impact fracture orientation and complexity. This research elucidates the fracture characteristics of Hot Dry Rock induced by SC-CO2, laying a foundation for understanding the complex fracture formation mechanisms in Hot Dry Rock SC-CO2 fracturing. 1. INTRODUCTION With the continuous rapid development of the national economy, human demand for energy is increasing day by day. Conventional fossil fuels such as oil and coal are non-renewable resources, not only facing the problems of diminishing reserves and resource depletion, but also severe environmental pollution issues (Yijin, 2015). Therefore, the development and utilization of new alternative energy sources is urgent, and the vigorous development of clean renewable energy has become an important measure for countries around the world to cope with energy shortages and environmental pollution issues (Panwar et al., 2011; Pachauri et al., 2014). Geothermal energy, as an important clean and renewable energy source, has the characteristics of low carbon, environmental protection, stability, and efficiency. Compared with wind and solar energy, it is not affected by external factors such as seasons, climate, and day and night, making it a realistic and competitive new energy source (Chao et al., 2020). Hot Dry Rock (HDR) is a thermal rock body that contains no water or only a small amount of water (which cannot flow) and is an important component of geothermal energy resources (Tianfu et al., 2016). China is rich in HDR resources. According to data from the China Geological Survey, the resource amount of HDR buried at depths of 3 to 10 km is equivalent to 856 trillion tons of standard coal (Guiling et al., 2020). Therefore, accelerating the efficient development and utilization of HDR resources has significant political and economic significance in terms of meeting China's energy demand, optimizing the energy structure, and achieving carbon peak and carbon neutrality goals (Yaofeng, 2015; Zhu et al., 2015; Zhonghe et al., 2020; Breede and Dzebisashvili et al., 2013). Enhanced Geothermal Systems (EGS) are currently the main means of developing HDR (Anderson et al., 2019; Geothermal energy terms, 2018), which involves creating artificial reservoirs in high-temperature formations through methods such as hydraulic fracturing to form a network of fractures connecting injection wells and production wells, followed by circulating a working fluid for heat extraction, power generation, and comprehensive utilization. HDR reservoirs have characteristics such as hardness, density, and high geostress, requiring fracturing to enhance permeability and form effective heat exchange channels. However, traditional water-based fracturing methods and heat extraction technologies face challenges such as high fracturing pressure, poor enhancement effect, and low heat extraction efficiency, severely limiting the development and utilization of HDR (Zhigang et al., 2019). SC-CO2 fluid refers to CO2 fluid at temperatures and pressures exceeding its critical temperature (31.1°C) and critical pressure (7.38MPa), characterized by high density, high diffusivity, low viscosity, and low surface tension. Compared with conventional water-based fracturing fluids, SC-CO2 has strong fluidity and diffusivity, effectively reducing the fracturing pressure required for the reservoir and helping to form complex fracture networks, and its superiority in transforming low-permeability/dense reservoirs has been widely recognized (Haizhu et al., 2020; Haizhu et al.,2012; Junping et al., 2019; Middleton et al., 2015). Studies have shown that using SC-CO2 for fracturing HDR has the following technical advantages(Bing et al., 2021; Legarth et al., 2003; Honglian et al., 2022): (1) low viscosity and near-zero surface tension of SC-CO2, strong penetration ability, and the capability to connect more natural fractures; (2) extremely weak intermolecular forces and very low surface tension of SC-CO2, resulting in strong fluidity and facilitating SC-CO2 flow and diffusion in formations; (3) injection of CO2 into geothermal formations can promote water-rock reactions, increasing reservoir porosity and permeability, thereby enhancing heat extraction efficiency; (4) full utilization of greenhouse gas CO2 for fracturing, saving water resources, and facilitating CO2 geological sequestration. However, due to the high-temperature and high-stress environment of HDR reservoirs, the mechanical properties of rocks and CO2 flow parameters change, causing the CO2 fracturing mechanism in HDR reservoirs to differ from traditional fracture mechanics theories, making them unsuitable for guiding CO2 fracturing design and construction in HDR reservoirs.    
+Abstract. The geochemistry of biogenic carbonates has long been used as proxies to record changing seawater parameters. However, the effect of ocean acidification on seawater chemistry and organism physiology could impact isotopic signatures and how elements are incorporated into the shell. In this study, we investigated the geochemistry of three reservoirs important for biomineralization – seawater, the extrapallial fluid (EPF), and the shell – in two bivalve species, Crassostrea virginica and Arctica islandica. Additionally, we examined the effects of three ocean acidification conditions (ambient: 500 ppm CO2, moderate: 900 ppm CO2, and high: 2800 ppm CO2) on the geochemistry of the same three reservoirs for C. virginica. We present data on calcification rates, EPF pH, measured elemental ratios (Mg/Ca, B/Ca), and isotopic signatures (δ26Mg, δ11B). In both species, comparisons of seawater and EPF Mg/Ca and B/Ca, [Ca2+], and δ26Mg indicate that the EPF has a distinct composition that differs from seawater. Shell δ11B did not faithfully record seawater pH and δ11B-calculated pH values were consistently higher than pH measurements of the EPF with microelectrodes, indicating that the shell δ11B may reflect a localized environment within the entire EPF reservoir. In C. virginica, EPF Mg/Ca and B/Ca, as well as absolute concentrations of Mg, B, and [Ca2+], were all significantly affected by ocean acidification, indicating that OA affects the physiological pathways regulating or storing these ions, an observation that complicates their use as proxies. Reduction in EPF [Ca2+] may represent an additional mechanism underlying reduction in calcification in C. virginica in response to seawater acidification. The complexity of dynamics of EPF chemistry suggest boron proxies in these two mollusc species are not straightforwardly related to seawater pH, but ocean acidification does lead to both a decrease in microelectrode pH and boron-isotope-based pH, potentially showing applicability of boron isotopes in recording physiological changes. Collectively, our findings show that bivalves have high physiological control over the internal calcifying fluid, which presents a challenge to using boron isotopes for reconstructing seawater pH.    
 
     
 
@@ -1708,69 +1393,6 @@ The electrochemical conversion of CO2 into valuable chemicals is a promising rou
 
     
 
-* Study on Fracture Initiation and Expansion of Coal Rock by CO2 Foam Fracturing  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401480054
-:TOPICS: Tunnel Grouting Techniques, Study on Rock Mechanics in Deep Mining Engineering, Rock Mechanics and Engineering
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-1023")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480054"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480054"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480054"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401480054 (Open access: False)
-    
-[[https://openalex.org/A5101784996][Yong-Gang Xie]], [[https://openalex.org/A5101299172][Xuhao Fan]], [[https://openalex.org/A5027092778][Changjing Zhou]], [[https://openalex.org/A5102973407][Haizhu Wang]], [[https://openalex.org/A5029093502][Zhenchuan Mao]], [[https://openalex.org/A5100322864][Li Wang]], [[https://openalex.org/A5080230841][Feng Mao]], [[https://openalex.org/A5031394202][Sergei Stanchits]], [[https://openalex.org/A5089063993][Аlexey Cheremisin]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-1023 
-     
-ABSTRACT: To investigate the crack initiation and propagation mechanism of CO2 foam fracturing coal rock. In this study, experiments were conducted on CO2 foam fracturing of coal rock using custom-designed indoor quasi-triaxial and true-triaxial fracturing equipment. The resulting fracture parameters (fracture area, width, fractal dimension) were quantitatively analyzed through CT scanning and topography scanning. The research investigated the influence of varying foam quality, temperature, and flow rate on the initiation and propagation of fractures in coal rock. The results indicate that with a higher CO2 foam mass fraction, the fractures exhibit a higher level of complexity and lower fracturing pressure. Specifically, the initiation pressure at 70% foam mass is 7.1% lower than that at 40% foam mass, As the quality of CO2 foam improves, the post-fracturing fracture area and fractal dimension increase, indicating a rougher fracture surface and enhanced conductivity. As the temperature rises, the foaming volume of the foam decreases, leading to a shorter half-life, reduced interaction with coal rock, and slightly higher initiation pressure; CO2 foam fracturing can maintain larger fracture widths and has a greater fractal dimension compared to conventional fracturing fluids. This study reveals the fracture initiation and propagation mechanism of coal rock by CO2 foam fracturing. 1. INTRODUCTION The rapid development of China's economy and society drives a surge in oil and gas consumption, while conventional resources dwindle. This reliance on foreign oil and gas constrains China's economic and social progress. Coalbed methane products mainly comprise methane, an associated gas generated during coal production. Coalbed methane products primarily consist of methane, an associated gas formed during coal production. Comparable to natural gas, this clean energy source boasts high heat levels (Zonghu, 2006). The energy generated per 1000m3 of coalbed methane is equal to the energy generated by 1 ton of fuel oil and 1.25 ton of standard coal. With a calorific value of up to 33.44MJ/m3, CBM matches the quality of high-grade coal (Bozhang, 2005). Aligned with the "double carbon" objective, the exploration and exploitation of coalbed methane embody key values of "economy, safety, and environmental protection", contributing to a reduction in greenhouse gas emissions. Positioned as a pivotal facet and growth trajectory within the energy sector, coalbed methane holds immense promise for expansion and implementation, poised to emerge as a vital avenue addressing societal energy needs in the years ahead (Lei, 2018). China possesses abundant coalbed methane resources, ranking second globally after Russia and Canada (Qingbo & Wenguang, 2008; CHO and KIM, 2013), surpassing the United States and Australia by a significant margin. Despite this abundance, China has maintained relatively low production of coalbed methane. The inherent characteristics of Chinese coalbed methane reservoirs, characterized by low pressure, low saturation, low permeability, and high adsorption, constitute the primary bottleneck hindering the accelerated development of coalbed methane (Yali et al., 2021). Based on statistical data, China's geological coalbed methane resources stand at 29.8×10^12 m3, with technically recoverable resources estimated at 11.2×10^12 m3. The majority of these resources are situated within the three main regions of Northeast China, North China, and Northwest China. The top four regions with the most significant deposits include Ordos Basin, Qinshui Basin, Eastern Yunnan and Western Guizhou, and Junggar Basin, accounting for 24.4%, 13.4%, 11.6%, and 10.4% of total reserves, respectively (Xiaozhi et al., 2022). Currently, the development of coalbed methane faces a number of challenges, including the unclear migration mechanism and stimulation process for horizontal wells. The conventional method of hydraulic fracturing is often utilized, but it yields limited fractures, higher initial fracturing pressure, and simplistic fracture networks. Further, this approach wastes significant amounts of water resources and can even damage surface environments (Shaokai & Deli, 2019; Johnson & Johnson, 2012; Bostrom et al., 2014; Shibing et al., 2014; Haizhu et al., 2015; Zhonghou et al., 2010; Xiaojiang et al., 2017; Zhonghou et al., 2011). In response to diverse geological and technological demands, a range of CO2 fracturing technologies have surfaced, including CO2 foam fracturing, pre-CO2 energy-increasing fracturing, quasidry CO2 fracturing, dry CO2 fracturing, and various other variants. Notably, CO2 foam fracturing involves the injection of liquid CO2 into the well using a dedicated CO2 pump truck. This liquid CO2 is combined with gel fluid during the process and utilized for sand fracturing purposes (Changlin et al., 2016; Ting et al., 2016; Jidong et al., 2004). Due to the distinctive structure of the foam system, it boasts exceptional capabilities in minimizing sand sedimentation rates, even under high sand ratios. This unique structure enables excellent suspension and efficient transport of sand particles within the system (Shaohua, 2014; Siwei et al., 2024; Bo et al., 2023). Based on field data, the CO2 foam fracturing process has demonstrated significant advantages over conventional water-based fracturing methods. It enables complete self-flowing drainage post-fracturing, resulting in a high flowback rate and shorter drainage time. Moreover, this process causes minimal damage to the formation and fractures, while yielding remarkable fracturing outcomes (Hui & Xuxing, 2018; Xuxing et al., 2019; Zhandong, 2010; Honglian et al., 2022; Junping et al., 2019). The fracture characteristics observed in laboratory-scale experiments can offer insights into field construction scenarios. However, the in-depth exploration of the fracture initiation mechanism in CO2 foam fracturing of coal rock remains relatively limited. This study aims to address this gap by conducting CO2 foam fracturing experiments on coal rock using self-designed indoor quasi-triaxial and true-triaxial fracturing experimental equipment. The integration of CT scanning and morphology scanning allows for the quantitative analysis of fracture parameters, such as fractal dimension, fracture width, and fracture area. Furthermore, the study investigates the influence of various factors, including foam quality, temperature, stress differential, and flow rate, on the initiation and propagation patterns of cracks in coal rock. The experimental findings uncover the laws governing crack initiation and propagation in coal rock fractured by CO2 foam, offering an experimental foundation for the application of CO2 foam fracturing in coalbed methane development and contributing to the advancement of CO2 foam fracturing technology.    
-
-    
-
-* Effect of Thermal Cycling on Cemented Sandstone in Relation to CCS  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401479112
-:TOPICS: Drilling Fluid Technology and Well Integrity, Prediction of Tunnel Boring Machine Performance, Tunnel Grouting Techniques
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0797")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479112"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479112"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479112"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401479112 (Open access: False)
-    
-[[https://openalex.org/A5038597438][H. Smith]], [[https://openalex.org/A5047230454][Magnus Soldal]], [[https://openalex.org/A5023448541][L. Grande]], [[https://openalex.org/A5008962171][Luke Griffiths]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0797 
-     
-ABSTRACT: As widespread Carbon Capture and Sequestration becomes more relevant, challenges related to thermal cooling upon injection and the potential for significant stress perturbation needs to be accounted for in geomechanical modelling. The current work shows an example of how temperature fluctuations related to CO2 injection can affect the stress changes within a reservoir using a stiff cemented sandstone analogue for deep reservoirs, and further demonstrates how a laboratory test program can be efficiently used to better define thermal aspects of typical geomechanical parameters such as Young's moduli and Poisson's ratio. The current program has shown how elastic moduli can be affected by changes in temperature, and how these changes can affect the estimation of stress changes within a reservoir. This comprehensive triaxial test also displayed a non-linear behavior at lower effective radial stresses during temperature reduction, which can be related to plastic deformation achieved during cooling. 1. INTRODUCTION As carbon capture and Sequestration (CCS) has gained the public's attention, the necessity to demonstrate that CCS can be deployed safely is key to make CCS an accepted solution as a contribution for reducing global emissions. To predict the reservoir response and ensure safe operations, geomechanical models are used to determine the influence of pressure and temperature change due to injection on the in situ stress conditions. To provide accurate predictions, one of the first steps will be the production of relevant laboratory data to both populate numerical models with the relevant parameters, and to validate these models through laboratory experiments simulating pressure and temperature changes expected due to injection. These models will need to accommodate reservoir responses to typical challenges related to CCS. Thermal effects play a significant role in the geomechanical behavior of reservoirs during CCS operations, where cool CO2 is injected into a warmer reservoir. The resulting changes in temperature lead to contraction of the rock matrix and modification of the stress state (Fjær, 2008; Søreide et al., 2014; Thompson et al., 2021). In sandstone reservoirs, cooling is expected to lead to reduction of effective horizontal stress due to thermal contraction of the rock (Søreide et al., 2014). This reduction in horizontal stress can potentially lead to a more critical stress-state. To understand and predict the influence of temperature on stress in the reservoir, it is critical to determine the relative parameters that may be used to model the influence of cooling.    
-
-    
-
-* Consolidation Behaviors of Clays, Mudstones and Shales -CO2 Storage Sites in Horda Platform, Offshore Norway  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401481650
-:TOPICS: Carbon Dioxide Sequestration in Geological Formations, Anaerobic Methane Oxidation and Gas Hydrates, Geological Modeling and Uncertainty Analysis
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0457")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401481650"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401481650"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401481650"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401481650 (Open access: False)
-    
-[[https://openalex.org/A5023448541][L. Grande]], [[https://openalex.org/A5018197432][E. Skurtveit]], [[https://openalex.org/A5015365954][Jung Chan Choi]], [[https://openalex.org/A5086503131][Nazmul Haque Mondol]], [[https://openalex.org/A5086503131][Nazmul Haque Mondol]], [[https://openalex.org/A5036354794][N. Thompson]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0457 
-     
-ABSTRACT: Clays, mudstones and shales above CO2 storage reservoirs are all together defining the top seal. In this paper, we evaluate the constrained modulus (M) and permeability (k) of clay sediments, mudstones and shales from the Horda Platform area, offshore Norway, where the CO2 storage sites Aurora, Smeaheia and Luna are located. We utilize a dataset of uniaxial strain tests in depth range 0-2.6 km including Quaternary clays from geotechnical site investigations (depth &lt;220m), three mudstones (depth ca 1.1-1.4km) and one deep shale (depth ca 2.6km) and combine with the larger NGI database and previous tests on synthetic mixtures of clay and silt. M and k are key input to a range of analysis i.e. settlement of structures (geotechnical), burial compaction in sedimentary basins, surface settlement or heave from petroleum production or subsurface CO2 storage. New empirical relationships for M, based on modulus number (m), volume of clay (Vcl), plasticity index (Ip) and water content (wi) are suggested, and new method for upscaling M using Vcl from gamma ray logs are demonstrated from clays at geotechnical through mudstones down to depth of caprock for Smeaheia CO2 storage site. Permeabilities (k) in the mechanically compacted natural clays and mudstones aligns well into an exponential trendline when compared against maximum burial depth. 1. INTRODUCTION The impact of geological history on rheology and stresses in sedimentary basins has been evaluated for various CO2 storage sites in the SHARP project (www.sharp-storage-act-eu). This includes burial compaction, erosion and uplift, glacial loading during the last ice age. Constrained modulus (M) and permeability (k) are key parameters in modelling deformation responses during compaction, tectonic uplift, erosion and glacial loading/unloading in sedimentary basins including time-dependent undrained vs. drained behaviors and overpressure developments. M and k are also key parameters in field scale ground models, i.e. to evaluate reservoir deformation from CO2 injection using predictions based on monitoring of surface heave (i.e., Bohloli et al., 2022). In such cases, parameters covering the entire lithology from the seabed to the CO2 storage reservoirs are needed. Empirical correlations for M vs. index properties have been developed for geotechnical applications (i.e. Andersen and Schjetne, 2013; DeGroot et al., 2019). Empirical correlations stiffness based on velocity logs are normally used for mudstones and shales (i.e. Horsrud et al., 2001, Grande et al. 2008 and 2022). However, the transition zone at ca 0.2 - 1 km, deeper than geotechnical borehole and shallower than what is normally cored in petroleum and CCS projects, are not well constrained in empirical correlations. High-stress uniaxial strain tests (UST) on mixtures of sediments with well-known mineralogy are useful to constrain engineering parameters, i.e. systematic studies of sand (Chuhan et al., 2002 and 2003) and silt-clays mixtures (Mondol et al., 2009 and Grande et al., 2013). Ageing and mineral transformation can occur in the transition of clays to mudstones (&lt;2km); however chemical compaction process (diagenesis) and porosity reduction and stiffening from cementation, starts at temperatures &gt;70°C, further transforming mudstones to shales (Bjørlykke and Høeg, 1997, Bjørlykke, 1998). Nevertheless, the initial composition of the sediment defines the behavior of deeper mudstones and significant parts of sealing units for CO2 storage.    
-
-    
-
 * Evaluating CO2 emissions in the residential sector: Life cycle assessment (LCA) using regional forestry design models in system dynamics (SD)  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401537529
@@ -1789,27 +1411,6 @@ OpenAlex: https://openalex.org/W4401537529 (Open access: True)
 [[https://openalex.org/A5059057520][Shunsuke Kaneko]], [[https://openalex.org/A5008640196][Hyun Bae Kim]], [[https://openalex.org/A5087709220][Takuyuki Yoshioka]], BioResources. 19(4)] 2024. https://doi.org/10.15376/biores.19.4.7072-7079 
      
 This study used a sub-model within system dynamics to simulate and quantify CO2 emissions in the residential sector, focusing on the Nishikawa forestry region in Saitama Prefecture. The model evaluated emissions from the life cycle of houses, including production, transportation, use, maintenance, and disposal. The business as usual (BAU) scenario projects annual new housing inflows. The woody biomass utilization (WBU) scenario showed a 10% carbon reduction over 30 years by replacing new housing with timber construction, despite increased emissions from new constructions. The study highlights the economic benefits of utilizing carbon credits to support reforestation, making it possible to secure the sustainability of regional forestry to supply timber materials to the residential sector.    
-
-    
-
-* A New Geomechanical Modeling Workflow for CCUS Near-Well Integrity Assessment in Layered Poroelastic Medium  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401480199
-:TOPICS: Drilling Fluid Technology and Well Integrity, Hydraulic Fracturing in Shale Gas Reservoirs, Seismic Waveform Inversion in Geophysics
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0969")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480199"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480199"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480199"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401480199 (Open access: False)
-    
-[[https://openalex.org/A5033144287][Guang Zhai]], [[https://openalex.org/A5057620310][E. Peters]], [[https://openalex.org/A5016220459][Thibault Candela]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0969 
-     
-ABSTRACT: The practice of cold CO2 injection into depleted oil/gas reservoirs addressing the increasing global emissions requires efficient and robust geomechanical assessment of near-well (caprock) damage risks. The geomechanical responses involve driving forces of small-footprint cooling zones from thermal effects, large-footprint pressure plumes from fluid diffusion, and possible continuing reservoir inelastic compaction. The workflow of coupling these processes to rock mechanics for geomechanical assessment is based on numerical or (semi-)analytical solutions. Among the latter, the recent development of MACRIS at TNO considers the fundamental point-source solution in homogeneous half-space which has been validated with FEM methods and is computationally efficient. Here, we extend the MACRIS framework and use the point-source solution in a layered, poroelastic half-space. Such improvement can provide several advantages of considering vertical heterogeneity of earth medium, solid-fluid coupling outside the reservoir, and undrained conditions in caprock. By incorporating the layered poroelastic point-source solution, we develop a workflow consisting of reservoir hydro-thermal simulation for temperature and fluid pressure distributions, calculating point-source mechanical influence functions in layered poroelastic medium, and integration for geomechanical assessment at targets. Finally, we demonstrate the workflow and show results from a case study using realistic model parameters provided by operators. 1. INTRODUCTION Enabling large-scale CO2 capture, utilization and storage (CCUS) is crucial to ensure global emission reductions in line with the Paris agreement (Hennessy et al., 2022). Several previous large-scale projects for CO2 storage have been focused on deep aquifers, e.g., in the Salah CO2 storage site in Algeria (Ringrose et al., 2013). Recently, using depleted oil/gas reservoir for large-scale CCUS has been proposed to be promising for addressing the increasing global emissions, since they are well characterized from previous O&G activities with large pressure margins for safe storage (Wei et al., 2023). During the practice of CCUS in the context of depleted oil/gas reservoirs, one of the major challenges is the timely and robust geomechanical assessment of near-well damage hazards, which can help mitigate potential damage-related risks and enhance the safe operations (Wei et al., 2023). The geomechanical assessment may require the consideration of both reservoir depletion (oil/gas production) and re-pressurization (CO2 injection) phases, since the reservoir deformation processes during the two phases can be physically linked. In reservoir leakage pathways. Such processes have not received much study to date (Fan et al., 2020; Liu et al., 2020).    
 
     
 
@@ -1852,6 +1453,27 @@ OpenAlex: https://openalex.org/W4401548542 (Open access: False)
 [[https://openalex.org/A5033311901][Yeryeong Lee]], [[https://openalex.org/A5034642303][Jayaraman Theerthagiri]], [[https://openalex.org/A5059644018][Nuttapon Yodsin]], [[https://openalex.org/A5000061857][Ahreum Min]], [[https://openalex.org/A5011667598][Cheol Joo Moon]], [[https://openalex.org/A5047856039][Siriporn Jungsuttiwong]], [[https://openalex.org/A5067975222][Myong Yong Choi]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202413774 
      
 Developing sustainable energy solutions is critical for addressing the dual challenges of energy demand and environmental impact. In this study, a zinc‐nitrate (Zn‐NO3−) battery system was designed for the simultaneous production of ammonia (NH3) via the electrocatalytic NO3− reduction reaction (NO3RR) and electricity generation. Continuous wave CO2 laser irradiation yielded precisely controlled CoFe2O4@nitrogen‐doped carbon (CoFe2O4@NC) hollow nanocubes from CoFe Prussian blue analogs (CoFe‐PBA) as the integral electrocatalyst for NO3RR in 1.0‐M KOH, achieving a remarkable NH3 production rate of 10.9 mgh−1cm−2 at −0.47 V versus RHE with exceptional stability. In‐situ and ex‐situ methods revealed that the CoFe2O4@NC surface transformed into high‐valent Fe/CoOOH active‐species, optimizing the adsorption energy of NO3RR (*NO2 and *NO species) intermediates. Furthermore, DFT calculations validated the possible NO3RR pathway on CoFe2O4@NC starting with NO3− conversion to *NO2 intermediates, followed by reduction to *NO. Subsequent protonation forms the *NH and *NH2 species, leading to NH3 formation via final protonation. The Zn‐NO3− battery utilizing the CoFe2O4@NC cathode exhibits dual functionality by generating electricity with a stable open‐circuit voltage of 1.38‐V versus Zn/Zn2+ and producing NH3. This study inspires the simple design of low‐cost catalysts for NO3RR‐to‐NH3 conversion and positions the Zn‐NO3− battery as a promising technology for industrial applications.    
+
+    
+
+* Evaluation of concretes produced with different ore sands – In search of highperformance and sustainable dosages  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401669938
+:TOPICS: Geopolymer and Alternative Cementitious Materials, Operations Research in Mine Planning, Underground Coal Gasification: Fundamentals and Applications
+:PUBLICATION_DATE: 2024-08-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.29183/2596-237x.ensus2024.v12.n1.p629-637")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401669938"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401669938"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401669938"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401669938 (Open access: False)
+    
+[[https://openalex.org/A5106583647][Cheila Barbosa de Souza]], [[https://openalex.org/A5010490542][Mariana Rodrigues da Silva de Menezes]], No host. None(None)] 2024. https://doi.org/10.29183/2596-237x.ensus2024.v12.n1.p629-637 
+     
+The sand from the processing of iron ore has been widely used in civil construction in Brazil, especially in the states of Minas Gerais, Espírito Santo and São Paulo. It is used as fine aggregate in the production of mortars, cement products and concrete. With the possibility of producing new sand in several iron ore mines in the state of Minas Gerais, the present study aimed to develop and analyze concrete dosages with various ore sands and sands present in the industrial market in the Belo Horizonte region. The replacement of natural river sand with mining sand in concrete dosages was evaluated and the Abrams curves were analyzed for the various dosages developed. It was possible to observe a performance gain in the dosages carried out with ore sands, with a reduction of up to 7% in cement consumption in the mixes. Thus, it can be concluded that the use of mining sand in the production of concrete is efficient, with technical and productive gains, promoting sustainable construction, reducing CO2 and promoting the circular economy in the construction chain.    
 
     
 
@@ -1960,27 +1582,6 @@ Microbial methanogenesis from crude oil is an important source of CH4 for gas re
 
     
 
-* Simulating Coupled THM Problem and Wellbore Integrity Analyses with Two-Phase Fluid Flow in Naturally Fractured Reservoirs  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401479268
-:TOPICS: Hydraulic Fracturing in Shale Gas Reservoirs, Advanced Techniques in Reservoir Management, Drilling Fluid Technology and Well Integrity
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0123")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479268"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479268"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479268"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401479268 (Open access: False)
-    
-[[https://openalex.org/A5062041635][Yarlong Wang]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0123 
-     
-ABSTRACT: Multi-phase fluid flow in naturally fractured reservoirs (NFR) is a complex and important process to be studied in energy and environmental industries. Either during CH4/H2/CO2 injection/sequestration or thermal EOR process, both fluid pressure and temperature changes may take place which will lead to significant thermal-hydraulic-mechanical (THM) responses that will impact both safety and efficiency of the project. Simulating THM responses in NFR, Formulation for an implicit pressure and explicit saturation (IMPES+T) finite element approach with an explicit thermal coupling is developed. Different shape functions, i.e. Petrov-Galerkin method, are applied to the saturation, displacement, fluid pressures, and temperature with convective energy transport calculation. In addition, a simplified coupled hydraulic-mechanical (HM) algorithm is proposed for displacement-pressures calculations, which is also coupled to an independently calculated convective-conductive thermal process. The induced pore pressure and critical stresses are highlighted in a dual-porosity medium, evaluating the wellbore integrity during injection and production in naturally fractured formations. A thermally induced tangential stress increase of 1 MPa on the wellbore wall is equivalent to a formation strength reduction of the same magnitude and yet more than 50% increase of the effective tangential stress, the key stress affecting wellbore integrity, at the wellbore wall in the fracture system may be achievable in the naturally fractured media (NFM). 1. INTRODUCTION To simulate multiphase fluid flow, heat transport and skeleton deformation processes in NFR [Bai et al., 1993; Khalili, and Valliappan, 1996; Khalili, 2008], numerical method such finite element method has been applied to approximate solutions of the Thermal-Hydraulic-Mechanical (THM) responses. Isothermal multi-phase fluid flow and non-isothermal single-phase cases are extensively dealt with, respectively [Lewis and Ghafouri, 1997; Nair et al., 2005; Pao and Lewis, 2002; Gelet et al., 2012; Khoei et al., 2016; Arzanfudi and Al-Khoury, 2017]. Simulating CO2 injection, energy enhanced production and geothermal energy extraction processes in a NFR, a fully coupled THM model with multi-phase fluid flow is required and thus developed in this paper.    
-
-    
-
 * Grand-Canonical Variational Theory of Oscillatory Fields at Electrified Metal-Solution Interfaces  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401651543
@@ -2065,69 +1666,6 @@ Due to the material properties of current ski face masks for adolescents, moistu
 
     
 
-* Geomechanical Lessons from Oil and Gas Produced Water Injection Towards Subsurface Carbon Dioxide Sequestration  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401480262
-:TOPICS: Carbon Dioxide Sequestration in Geological Formations, Anaerobic Methane Oxidation and Gas Hydrates, Hydraulic Fracturing in Shale Gas Reservoirs
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-1043")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480262"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480262"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480262"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401480262 (Open access: False)
-    
-[[https://openalex.org/A5101470390][G. Ramos]], [[https://openalex.org/A5031713576][John McLennan]], [[https://openalex.org/A5010537992][Ion Ispas]], [[https://openalex.org/A5037018257][Sídney Green]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-1043 
-     
-ABSTRACT: The petroleum sector, with its competencies in water flooding and produced-water re-injection (PWRI), provides complementary technologies for carbon capture and sequestration (CCS). Our objective is to identify oil & gas technologies and procedures that would be beneficial to future CCS implementations. We reviewed PWRI operations in 3 major petroleum basins. We then compared their geological and geomechanical settings, PWRI data, and induced seismicity. The most prominent impact is induced seismicity, as others have shown, the cause being the increase of pore pressure in faults. Contributing causes of rock failure and pressure communication are perturbation of the in-situ stresses, water-induced weakening, static creep, and fatigue-induced weakening. Measures for effective risk reduction are volume/pressure management, well placement, managed pumping schedules, high-resolution reservoir description, frequent monitoring coupled with laboratory programs, and strain-coupled reservoir simulation. We recommend adopting these practices learned from water-flood oil-gas operations. These would help promote gradual ramping of the reservoir pressure, a uniform CO2 flooding front, flooding profile control, and most importantly, rock stability. 1. INTRODUCTION With growing public interest and government incentives for carbon capture, the oil and gas sectors are uniquely positioned in future implementation of large-scale carbon capture and sequestration as supercritical CO2 (sCO2 or "CCS"). The industry's experience, personnel, infrastructure, and core competencies in deep subsurface operations can immediately provide complementary technologies for subsurface Carbon Sequestration (CS). As geo-engineers/scientists in the upstream petroleum sector, we offer practical lessons from our experience in large-scale water floods and Produced Water Re-Injection (PWRI), also called Salt Water Disposal (SWD). The multimillion-barrel daily produced water disposal operations in Texas and Oklahoma are very relevant to future high-tonnage injection of sCO2. The most prominent adverse impact is induced seismicity, because of its impact on structures and the general public. Another unfavorable effect is the contamination of freshwater aquifers. Lesser known and poorly understood effects are induced microseismicity, surface heave, loss of injectivity, and overestimation of reservoir capacity. All of these arise from combinations of factors such as: pore pressure rise, proximity to unmapped structures, perturbation of in-situ stresses leading to rock failure, injection fluids' geochemical effects, induced fatigue from pumping schedules, concentration of pressurized zones/bulbs, and perturbation of pre-existing geologic creep rate. This paper provides an overview of PWRI operations in 3 major oil and gas (O/G) fields in Texas and Oklahoma, and how seismicity may have developed. We identified other geomechanical processes that contribute to rock weakening and debilitation of rock interfaces.    
-
-    
-
-* Evaluating the Impact of CO2 on Calcium SulphoAluminate (CSA) Concrete  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401484366
-:TOPICS: Geopolymer and Alternative Cementitious Materials, Reinforcement Corrosion in Concrete Structures, Magnesium-Based Cements and Nanomaterials
-:PUBLICATION_DATE: 2024-08-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/buildings14082462")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401484366"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401484366"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401484366"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401484366 (Open access: True)
-    
-[[https://openalex.org/A5088656218][Daniel D. Akerele]], [[https://openalex.org/A5086237596][Federico Aguayo]], Buildings. 14(8)] 2024. https://doi.org/10.3390/buildings14082462 
-     
-The construction industry is a significant contributor to global CO2 emissions, primarily due to the extensive use of ordinary portland cement (OPC). In response to the urgent need for sustainable construction materials, calcium sulphoaluminate (CSA) cement has emerged as a promising alternative. CSA cement is renowned for its low carbon footprint, high early-age strength, and superior durability, making it an attractive option for reducing the environmental impact of construction activities. While CSA cement offers benefits in carbon emissions reduction, its susceptibility to carbonation presents challenges. Although the body of literature on CSA cement is rapidly expanding, its adoption rate remains low. This disparity may be attributed to several factors including the level of scientific contribution in terms of research focus and lack of comprehensive standards for various applications. As a result, the present study sets out to track the research trajectory within the CSA cement research landscape through a systematic literature review. The study employed the Prefer Reporting Item for Systematic Review and Meta-Analysis (PRISMA) framework to conduct a literature search on three prominent databases, and a thematic analysis was conducted to identify the knowledge gap for future exploration. The study revealed that while CSA concrete demonstrates superior early-age strength and environmental resistance, its susceptibility to carbonation can compromise structural integrity over time. Key mitigation strategies identified include the incorporation of supplementary cementitious materials (SCMs), use of corrosion inhibitors, and optimization of mix designs. The review also highlights the global distribution of research, with notable contributions from the USA, China, and Europe, emphasizing the collaborative effort in advancing CSA concrete technology. The findings are crucial for enhancing sustainability and durability in the construction sector and advancing CSA binders as a sustainable alternative to traditional cement.    
-
-    
-
-* Fluid Flow in a Fracture Network Under Changing Stresses: A Laboratory Study  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401480268
-:TOPICS: Hydraulic Fracturing in Shale Gas Reservoirs, Drilling Fluid Technology and Well Integrity, Groundwater Flow and Transport Modeling
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0170")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480268"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480268"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480268"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401480268 (Open access: False)
-    
-[[https://openalex.org/A5020902460][Zili Mei]], [[https://openalex.org/A5052226698][Wei Li]], [[https://openalex.org/A5027004271][Wencheng Jin]], [[https://openalex.org/A5025095654][Ghanashyam Neupane]], [[https://openalex.org/A5080851706][Trevor A. Atkinson]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0170 
-     
-ABSTRACT: Fluid flow in fractured rocks is ubiquitous in natural and human-induced subsurface processes. Subsurface technologies, such as in-situ mining, CO2 storage and geothermal exploitations, require large contact areas between the flowing fluid and the rock to facilitate efficient heat and mass transport and, therefore, ensure the effectiveness of these technologies. Much of the experimental research on fluid flow in fractures has focused on a single fractures in a rock specimen, which leaves the fluid flow in fracture networks under changing stresses largely unexplored. Here, we study fluid flow in a fracture network under changing stresses using a triaxial system. We create the fracture network composed of five orthogonal fractures in rock specimens by assembling six saw-cut rock parts. We measure the overall permeability of the fracture networks under changing vertical and horizontal stresses. We find that the fracture network permeability decreases when the vertical and horizontal stresses both increase. A greater reduction of permeability is observed with increasing horizontal stress than that with increasing vertical stress. We show that this phenomenon results from the larger total area of the vertical fractures than that of the horizontal fractures, making the fracture network more sensitive to horizontal stress changes. Our study shows the importance of the relative orientations between the fractures and the stresses in determining the permeability of the fracture network. This insight can be incorporated to improve the discrete and continuum modeling of fracture networks. 1 INTRODUCTION Fracture networks are the "highways" for the fluid flow in subsurface rock-fluid systems. They provide a fast path for contaminant transport in fractured aquifers (Tsang and Tsang, 1987; Grisak and Pickens, 1980; Grisak et al., 1980). They could increase the permeability of a geothermal reservoir and, at the same time, reduce the heat extraction efficiency by inducing short-circuiting (Gee et al., 2021). They can also localize the dissolution of porous rocks to the fracture along and induce larger cavities earlier (Li et al., 2021). The overall permeability of a fracture network is affected by the fracture orientation, stress conditions, and fluid pressure. Understanding and predicting the the fracture network permeability as the stresses and pore pressure changes are important for many engineering applications in the subsurface rock-fluid systems.    
-
-    
-
 * PEMAKAIAN GEOGRAPHIC INFORMATION SYSTEM UNTUK PEMETAAN EMISI GAS RUMAH KACA SEKTOR LIMBAH DI KABUPATEN KARANGASEM  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401494427
@@ -2146,47 +1684,5 @@ OpenAlex: https://openalex.org/W4401494427 (Open access: True)
 [[https://openalex.org/A5106390279][Affan Irfan Fauziawan]], [[https://openalex.org/A5106390280][I Made Agus Wirahadi Putra]], [[https://openalex.org/A5106390281][Ratna Kartika Wiyati]], Jurnal Teknologi Informasi dan Komputer. 6(3)] 2021. https://doi.org/10.36002/jutik.v6i3.1307 
      
 ABSTRACTWaste production increases with the increase in population, urbanization rate and people’s income. Solid waste is a contributor to greenhouse gas (GHG) emissions which can cause global warming. At the Conference of Parties 25 (COP 25) in Madrid 2019, the Indonesian government is still commited to reducing GHG emissions and working to reduce/limit the increase in temperature below 1.50C. Karangasem regency is an area located in the eastern part of Bali Island, which administratively is one of the regency in Bali Province. The population of Karangasem regency in 2018 based on results of population registration was 414,800 people. The population is spread across 8 sub-districs with the population growth rate in Karangasem averaging 0.88% per year. The distribution of the population will be directly proportional to the distribution of solid waste produced. The method for calculating municipal solid waste will be carried out using the First Order Decay method contained in the IPCC (Intergovernmental Panel on Climate Change) Guidelines. From the calculation results, GHG emission have been obtained in each sub-district in Karangasem regency. Total GHG emission in 2019 amounted to 11,764 tonnes of CO2-e. Mapping the area in Karangasem district to determine the amount of waste produced by each district is deemed necessary as a mitigation effort to be implemented. In this study, a mapping of each sub-district was carried out on the basis of Geographical Information System (GIS). It is necessary to carry out a GHG inventory at the district level, to determine how much GHG emission are generated from the waste sector. After the GHG emission in known, a mapping of each sub-district will be made to determine the level of emission produced, so that this GHG emission reduction mitigation action will focus more on the sub-districts that produce the most emission first followed by other sub-districts.Keywords: Waste, GHG Inventory, First Order Decay, Geographic Information System.ABSTRAKProduksi limbah meningkat seiring dengan meningkatnya jumlah penduduk, tingkat urbanisasi dan pendapatan masyarakat. Sampah merupakan salah satu penyumbang emisi gas rumah kaca (GRK) yang dapat menyebabkan adanya pemanasan global (global warming). Pada Conference of Parties 25 (COP 25) di Madrid tahun 2019, pemerintah Indonesia masih berkomitmen untuk dapat menurunkan emisi gas rumah kaca dan berupaya untuk mengurangi/membatasi peningkatan suhu dibawah 1,50C. Kabupaten Karangasem, merupakan daerah yang berada di belahan timur Pulau Bali, yang secara administratif merupakan salah satu kabupaten dalam wilayah Provinsi Bali. Jumlah penduduk Kabupaten Karangasem pada tahun 2018 berdasarkan hasil registrasi penduduk adalah 414.800 jiwa. Jumlah penduduk tersebut tersebar dalam 8 kecamatan dengan angka pertambahan penduduk di Karangasem rata-rata 0,88% per tahun. Sebaran jumlah penduduk akan berbanding lurus dengan sebaran limbah padat yang dihasilkan. Metode penghitungan limbah padat kota akan dilakukan dengan menggunakan metode First Order Decay yang terdapat pada IPCC (Intergovernmental Panel on Climate Change) Guidelines. Dari hasil perhitungan telah didapatkan emisi GRK di tiap-tiap kecamatan yang ada di Kabupaten Karangasem. Total emisi GRK pada tahun 2019 yaitu sebesar 11.764 ton CO2-e. Pemetaan wilayah di kabupaten392 Jurnal Teknologi Informasi dan Komputer, Volume 6, Nomor 3, Oktober 2020Karangasem untuk mengetahui jumlah sampah yang dihasilkan tiap kecamatan dipandang perlu dilaksanakan sebagai upaya mitigasi yang akan dilaksanakan. Pada penelitian ini dilaksanakan pemetaan tiap-tiap kecamatan dengan basis Sistem Informasi Geografis (SIG). Inventarisasi GRK di tingkat kabupaten ini perlu dilakukan, untuk mengetahui sampai berapa besar emisi GRK yang dihasilkan dari sektor limbah tersebut. Setelah emisi GRK sudah diketahui, maka akan dibuat sebuah pemetaan tiap-tiap kecamatan untuk mengetahui tingkat emisi yang dihasilkan, sehingga aksi mitigasi penurunan emisi GRK ini akan lebih fokus pada kecamatan-kecamatan yang menghasilkan emisi paling besar terlebih dahulu dilanjutkan dengan kecamatan yang lainnya.Kata Kunci : Limbah, Inventarisasi GRK, First Order Decay, Sistem Informasi Geografis.    
-
-    
-
-* Evolution of the Reservoir Stress Path During Depletion and Re-Inflation and its Implications  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401479572
-:TOPICS: Characterization of Shale Gas Pore Structure, Advanced Techniques in Reservoir Management, Hydraulic Fracturing in Shale Gas Reservoirs
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0272")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401479572"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401479572"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401479572"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401479572 (Open access: False)
-    
-[[https://openalex.org/A5017318656][Puneet Seth]], [[https://openalex.org/A5021901700][Duane Mikulencak]], [[https://openalex.org/A5014119350][Ronny Hofmann]], [[https://openalex.org/A5057627347][J. W. Dudley]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0272 
-     
-ABSTRACT: Several researchers have studied the impact of reservoir depletion on rock mechanical behavior and associated changes in in-situ stresses and reservoir depletion stress path. However, the evolution of the reservoir stress path (ratio of change in minimum horizontal stress with reservoir pressure change) due to re-inflation of the reservoir during injection operations such as waterflooding is less understood. In this work, a more fundamental approach to the evolution of the reservoir stress path under both depletion and re-inflation is studied through core plug uniaxial-strain experiments and field-scale numerical modeling which includes the impact of plastic deformation. Both unconsolidated and consolidated sandstones are considered. Results from the uniaxial-strain compaction experiments agree with findings from 3-D field scale numerical modeling that the injection stress path coefficient γh,i = Δσh/ΔPinj is either similar or greater than the depletion stress path coefficient γh,d = Δσh/ΔPdep. The findings in this study have significant implications for waterflooding operations, infill drilling window estimation for re-inflated reservoirs, and CO2 capture and storage operations (CCS). The assumptions on γh,i directly impact the allowable injection pressure, injection rate, and storage capacity for CCS projects. Hence a more thorough understanding could prevent overly conservative designs and promote a more accurate screening of potential waterflooding, infill drilling, and CCS projects. 1. INTRODUCTION The reservoir minimum horizontal stress path is the ratio of change in total minimum horizontal stress, Δσh to change in reservoir pressure, ΔP: (equation) It is crucial to understand the anticipated minimum horizontal stress changes in a reservoir during long-term production and during injection operations such as waterflooding because σh is closely related to hydraulic fracturing in a normal stress environment. When describing the reduction in σh from depletion, the stress path coefficient is defined as γh,d. When describing the increase in σh from re-inflation, the stress path coefficient is defined as γh,i. The Δ's in these definitions are defined to always give positive values of γh,d or γh,i. The assumptions on γh,i (injection stress path coefficient) could impact the allowable injection pressure, injection rate, and storage capacity for waterflooding & CCS projects and a more thorough understanding could prevent overly conservative designs.    
-
-    
-
-* Fluid Injection-Rate Controls on Seismic Moment  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401480396
-:TOPICS: Seismic Waveform Inversion in Geophysics, Hydraulic Fracturing in Shale Gas Reservoirs, Rock Mechanics and Wave Propagation in Geomedia
-:PUBLICATION_DATE: 2024-06-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.56952/arma-2024-0686")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401480396"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401480396"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401480396"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401480396 (Open access: False)
-    
-[[https://openalex.org/A5106384757][M. Roseboom]], [[https://openalex.org/A5046806334][Agathe M. Eijsink]], [[https://openalex.org/A5000342506][D. Elsworth]], [[https://openalex.org/A5089977649][Jianjun Yu]], [[https://openalex.org/A5076902907][C. Marone]], [[https://openalex.org/A5071950778][Jacques Rivière]], [[https://openalex.org/A5057413558][Parisa Shokouhi]], [[https://openalex.org/A5100605880][John Wang]], No host. None(None)] 2024. https://doi.org/10.56952/arma-2024-0686 
-     
-ABSTRACT: Fluid-induced shear reactivation of pre-stressed faults poses a project terminating risk during reservoir stimulation in geothermal, CO2 sequestration, wastewater disposal injection and hydraulic fracturing operations. Micro-earthquakes (MEQs) can be tolerated but fluid injection is capable of triggering large earthquakes that can cause major damage to surface infrastructure. Understanding the linkage between fluid-injection volume or injection rate and seismic moment is essential in safeguarding such infrastructure. We report shear experiments that specifically explore the link between fluid-injection rate and seismic moment resulting from shear reactivation of laboratory faults. Experiments are performed on granitoid cores from the UtahFORGE EGS demonstration site containing a single inclined fracture and with small-scale roughness added to the fracture surface. We inject fluids into the fracture and measure the resulting slip and drop in frictional shear stress. We record reactivation and pressure distributions over a range of fluid injection rates. Along-fault pressure distributions are progressively less-uniform as injection rates increase representing a switch from steady-state to transient conditions. Triggered shear displacement is used as a proxy for seismic moment and is indexed against cumulative injection volume and rate. Preliminary results suggest that seismic moment and injection volume increase with increased fluid-injection rates. 1. INTRODUCTION Anthropogenic induced seismicity typically stems from industrial operations in energy developments such as engineered geothermal systems and shale gas recovery as well as in carbon sequestration and wastewater disposal. Fluid injection associated with these activities is known to alter the state of stress in subsurface formations due to the increase in pore pressure and reduction in fault shear strength, sometimes inducing earthquakes in critically-stressed faults (Nicholson and Wesson, 1990; McGarr et al., 2002; Evans et al., 2012; Ellsworth, 2013). In particular, triggered and induced seismic events have terminated geothermal projects in Basel, Switzerland in 2006 and Pohang, South Korea in 2017 (Giardini, 2009; Kim et al., 2018; Kwiatek, 2019; Ji and Wu, 2020). Additionally, fluid injection through wastewater disposal has triggered events, including that in Prague, Oklahoma in 2011, resulting in an M=5.7 earthquake (Sumy et al., 2014). It remains a challenge to define the seismic moment of potential seismic events triggered by fluid injection, as much of our understanding derives from analyzing unintended earthquakes and evaluating the mechanisms that control shear reactivation and fault slip (Keranen et al., 2014; Walsh and Zoback, 2015; Bao, 2016; Ji and Wu, 2020). Generally, induced seismicity may result from: 1) increase in pore pressure where the effective normal stress is reduced, therefore, destabilizing pre-existing faults in shear, or 2) regional tectonic stresses that are perturbed by poroelastic effects which increase shear stresses and trigger failure (Ellsworth, 2013; Bao, 2016; Guglielmi et al., 2016).    
 
     
