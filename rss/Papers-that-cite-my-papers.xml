@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Aug 2024 01:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 01:12:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Modification of metals and ligands in two-dimensional conjugated metal-organic frameworks for CO2 electroreduction: A combined density functional theory and machine learning study</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.08.069</link>
-      <description>Guanru Xing, Shize Liu, Guang&#8208;Yan Sun, Jing-yao Liu, Journal of Colloid and Interface Science. 677(None)] 2025. https://openalex.org/W4401496468
-
-                Electrochemical carbon dioxide reduction reaction (CO</description>
-      <author>Guanru Xing, Shize Liu, Guang&#8208;Yan Sun, Jing-yao Liu</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.069</guid>
-    </item>
-    <item>
-      <title>N&#8208;Doped Carbon Modified (Ni&lt;sub&gt;x&lt;/sub&gt;Fe&lt;sub&gt;1&#8208;x&lt;/sub&gt;)Se Supported on Vertical Graphene toward Efficient and Stable OER Performance</title>
-      <link>https://doi.org/10.1002/smll.202404545</link>
-      <description>Beirong Ye, Yue&#8208;Fei Zhang, Chen Li, Shouxin Zhang, Yongqi Li, Ting Li, Fengyu Huang, Chong Tang, Renhong Chen, Tao Tang, Abolhassan Noori, Liujiang Zhou, Xinhui Xia, Mir F. Mousavi, Yongqi Zhang, Small. None(None)] 2024. https://openalex.org/W4401490730
-
-                Abstract NiFe&#8208;based nanomaterials are extensively studied as one of the promising candidates for the oxygen evolution reaction (OER). However, their practical application is still largely impeded by the unsatisfied activity and poor durability caused by the severe leaching of active species. Herein, a rapid and facile combustion method is developed to synthesize the vertical graphene (VG) supported N&#8208;doped carbon modified (Ni x Fe 1&#8208;x )Se composites (NC@(Ni x Fe 1&#8208;x )Se/VG). The interconnected heterostructure of obtained materials plays a vital role in boosting the catalytic performance, offering rich active sites and convenient pathways for rapid electron and ion transport. The incorporation of Se into NiFe facilitates the formation of active species via in situ surface reconstruction. According to density functional theory (DFT) calculations, the in situ formation of a Ni 0.75 Fe 0.25 Se/Ni 0.75 Fe 0.25 OOH layer significantly enhances the catalytic activity of NC@(Ni x Fe 1&#8208;x )Se/VG. Furthermore, the surface&#8208;adsorbed selenoxide species contribute to the stabilization of the catalytic active phase and increase the overall stability. The obtained NC@(Ni x Fe 1&#8208;x )Se/VG exhibits a low overpotential of 220 mV at 20 mA cm &#8722;2 and long&#8208;term stability over 300 h. This work offers a novel perspective on the design and fabrication of OER electrocatalysts with high activity and stability.</description>
-      <author>Beirong Ye, Yue&#8208;Fei Zhang, Chen Li, Shouxin Zhang, Yongqi Li, Ting Li, Fengyu Huang, Chong Tang, Renhong Chen, Tao Tang, Abolhassan Noori, Liujiang Zhou, Xinhui Xia, Mir F. Mousavi, Yongqi Zhang</author>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404545</guid>
-    </item>
-    <item>
-      <title>Superaerophobic Ni3N/Ni@W2N3 multi-heterointerfacial nanoarrays for efficient alkaline electrocatalytic hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.cej.2024.154776</link>
-      <description>Haidong Wang, Yongxin Jiao, Guanghui Zhang, Zexi Zhang, Weiguang Ma, Chenghua Sun, Xu Zong, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4401494305
-
-                No abstract</description>
-      <author>Haidong Wang, Yongxin Jiao, Guanghui Zhang, Zexi Zhang, Weiguang Ma, Chenghua Sun, Xu Zong</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.154776</guid>
-    </item>
-    <item>
-      <title>Preparation and application of single-atom nanozymes in oncology: a review</title>
-      <link>https://doi.org/10.3389/fchem.2024.1442689</link>
-      <description>Huiyuan Liang, Yubin Xian, Xujing Wang, Frontiers in Chemistry. 12(None)] 2024. https://openalex.org/W4401499087
-
-                Single-atom nanozymes (SAzymes) represent a cutting-edge advancement in nanomaterials, merging the high catalytic efficiency of natural enzymes with the benefits of atomic economy. Traditionally, natural enzymes exhibit high specificity and efficiency, but their stability are limited by environmental conditions and production costs. Here we show that SAzymes, with their large specific surface area and high atomic utilization, achieve superior catalytic activity. However, their high dispersibility poses stability challenges. Our review focuses on recent structural and preparative advancements aimed at enhancing the catalytic specificity and stability of SAzymes. Compared to previous nanozymes, SAzymes demonstrate significantly improved performance in biomedical applications, particularly in tumor medicine. This progress positions SAzymes as a promising tool for future cancer treatment strategies, integrating the robustness of inorganic materials with the specificity of biological systems. The development and application of SAzymes could revolutionize the field of biocatalysis, offering a stable, cost-effective alternative to natural enzymes.</description>
-      <author>Huiyuan Liang, Yubin Xian, Xujing Wang</author>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1442689</guid>
-    </item>
     <item>
       <title>Modified Cu active sites by alloying for efficient electrocatalytic reduction CO2 to CO</title>
       <link>https://doi.org/10.1016/j.jechem.2024.08.005</link>
@@ -430,10 +390,10 @@
     <item>
       <title>Electrocatalytic Properties of Ni&lt;sub&gt;1+&lt;/sub&gt;&lt;i&gt;&lt;sub&gt;x&lt;/sub&gt;&lt;/i&gt;Fe&lt;sub&gt;3&#8722;&lt;/sub&gt;&lt;i&gt;&lt;sub&gt;x&lt;/sub&gt;&lt;/i&gt;&lt;sub&gt;&#8722;&lt;/sub&gt;&lt;i&gt;&lt;sub&gt;y&lt;/sub&gt;&lt;/i&gt;A&lt;i&gt;&lt;sub&gt;y&lt;/sub&gt;&lt;/i&gt;N (A = Mo, W): The Effect of Mo and W in the Oxygen Evolution and Hydrogen Evolution Reaction in Alkaline Media</title>
       <link>https://doi.org/10.1002/nano.202400051</link>
-      <description>Jos&#233; Antonio Coca Clemente, Isabel Rodr&#305;&#769;guez-Garc&#305;&#769;a, A. Tolosana-Moranchel, Jos&#233; Luis G&#243;mez de la Fuente, P. Oc&#243;n, M. Retuerto, Sergio Rojas, Nano Select. None(None)] 2024. https://openalex.org/W4401638572
+      <description>Jos&#233; Antonio Coca Clemente, Isabel Rodr&#237;guez&#8208;Garc&#237;a, A. Tolosana-Moranchel, Jos&#233; Luis G&#243;mez de la Fuente, P. Oc&#243;n, M. Retuerto, Sergio Rojas, Nano Select. None(None)] 2024. https://openalex.org/W4401638572
 
                 ABSTRACT Ni, Fe&#8208;based nitrides have been widely studied for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in alkaline media, displaying electrocatalytic activities similar to Pt and other noble metal electrocatalysts. The incorporation of small amounts of Mo or W on these Ni, Fe&#8208;based nitrides is expected to have a significant effect on the electrocatalytic performance of these materials, especially for the HER activity. In this work, transition metal nitrides (TMNs) with the empirical formula Ni 1+ x Fe 3&#8722; x &#8722; y A y N (A = Mo, W), were obtained in two steps: synthesis of the transition metal oxide precursors by an easy, one&#8208;pot sol&#8211;gel polymerization method followed by nitridation under ammonia atmosphere to obtain the final TMNs. Their HER and OER catalytic performances in alkaline electrolyte (0.1 M KOH solution) were studied and it was observed that the incorporation of small quantities of Mo or W in these Ni, Fe&#8208;based nitrides (Ni 1+ x Fe 3&#8722; x &#8722; y A y N, where y = 0.1) results in improved HER and OER activities, especially in the TMN that contains W (i.e., Ni 1+ x Fe 2.9&#8722; x W 0.1 N), where the overpotentials were 348 mV for OER and 269 mV for HER. These values are lower than those obtained for Ni 1+ x Fe 3&#8722; x N, which are 395 mV for OER and 368 mV for HER.</description>
-      <author>Jos&#233; Antonio Coca Clemente, Isabel Rodr&#305;&#769;guez-Garc&#305;&#769;a, A. Tolosana-Moranchel, Jos&#233; Luis G&#243;mez de la Fuente, P. Oc&#243;n, M. Retuerto, Sergio Rojas</author>
+      <author>Jos&#233; Antonio Coca Clemente, Isabel Rodr&#237;guez&#8208;Garc&#237;a, A. Tolosana-Moranchel, Jos&#233; Luis G&#243;mez de la Fuente, P. Oc&#243;n, M. Retuerto, Sergio Rojas</author>
       <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/nano.202400051</guid>
     </item>
@@ -496,6 +456,46 @@
       <author>K.P. Jithul, B. Tamilarasi, Jay Pandey</author>
       <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05767-z</guid>
+    </item>
+    <item>
+      <title>Janus NbOBrI monolayer for efficient photocatalytic overall water splitting</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.104980</link>
+      <description>Xue Deng, Tie Zhou, Xiao Long, Jing Xie, Bing Lv, Yangfang Liao, Wenzhong Wang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401675459
+
+                No abstract</description>
+      <author>Xue Deng, Tie Zhou, Xiao Long, Jing Xie, Bing Lv, Yangfang Liao, Wenzhong Wang</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104980</guid>
+    </item>
+    <item>
+      <title>Machine Learning for High-Throughput Configuration Sampling of Li&#8722;La&#8722;Ti&#8722;O Disordered Solid-State Electrolyte</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01221</link>
+      <description>Mohamad Ataya, Eric McCalla, Rustam Z. Khaliullin, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4401684476
+
+                No abstract</description>
+      <author>Mohamad Ataya, Eric McCalla, Rustam Z. Khaliullin</author>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01221</guid>
+    </item>
+    <item>
+      <title>Machine Learning&#8208;Assisted Design of Nitrogen&#8208;Rich Covalent Triazine Frameworks Photocatalysts</title>
+      <link>https://doi.org/10.1002/adfm.202413453</link>
+      <description>Mingliang Wu, Zhilong Song, Yu Cui, Zhanzhao Fu, Kunquan Hong, Qiang Li, Zhiyang Lyu, Wei Wang, Jinlan Wang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401686058
+
+                Abstract Covalent triazine frameworks (CTFs), noted for their rich nitrogen content, have attracted significant attention as promising photocatalysts. However, the structural complexity introduced by the diversity of nitrogen atoms in nitrogen&#8208;rich CTFs poses a substantial challenge in discovering high&#8208;performance CTFs. To address this challenge, a machine&#8208;learning approach is developed to rationally design nitrogen&#8208;rich CTFs, which is subsequently validated through experimental methods. A framework is employed based on the special orthogonal group in three dimensions (SO(3))&#8208;invariant graph neural networks to predict photocatalytic properties of CTFs structures. This approach achieves exceptionally high accuracies with R 2 scores exceeding 0.98. From a dataset of 14920 CTFs structures, this framework identifies 45 high&#8208;performance candidates. Guided by these predictions, a novel CTF structure, pyridine&#8208;2,5&#8208;dicarbaldehyde (CTF&#8208;DCPD) is selected and successfully synthesized, which exhibits an ultrahigh hydrogen evolution rate of 17.70 mmol g &#8722;1 h &#8722;1 . This rate significantly surpasses that of the widely studied CTF&#8208;1,4&#8208;dicyanobenzene (CTF&#8208;DCB, 10.41 mmol g &#8722;1 h &#8722;1 ). This work provides a new paradigm for machine learning to accelerate materials development, which can be generalized to the development of other functional materials.</description>
+      <author>Mingliang Wu, Zhilong Song, Yu Cui, Zhanzhao Fu, Kunquan Hong, Qiang Li, Zhiyang Lyu, Wei Wang, Jinlan Wang</author>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413453</guid>
+    </item>
+    <item>
+      <title>Empirical Study and Mitigation Methods of Bias in LLM-Based Robots</title>
+      <link>https://doi.org/10.54097/re9qp070</link>
+      <description>Zhou Ren, Academic Journal of Science and Technology. 12(1)] 2024. https://openalex.org/W4401684575
+
+                Our study provides a comprehensive analysis of biased behaviors exhibited by robots utilizing large language models (LLMs) in real-world applications, focusing on five experimental scenarios: customer service, education, healthcare, recruitment, and social interaction. The analysis reveals significant differences in user experiences based on race, health status, work experience, and social status. For instance, the average satisfaction score for white customers is 4.2, compared to 3.5 for black customers, and the response accuracy for white students is 92%, versus 85% for black students. To address these biases, we propose several mitigation methods, including data resampling, model regularization, post-processing techniques, diversity assessment, and user feedback mechanisms. These methods aim to enhance the fairness and inclusivity of robotic systems, promoting healthy human-robot interactions. By combining our quantitative data analysis with existing research, we affirm the importance of bias detection and mitigation, and propose various improvement strategies. Future research should further explore data balancing strategies, fairness-constrained models, real-time monitoring and adjustment mechanisms, and cross-domain studies to comprehensively evaluate and improve the performance of LLM-based robotic systems across various tasks.</description>
+      <author>Zhou Ren</author>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54097/re9qp070</guid>
     </item>
     <item>
       <title>Binding energies of CD4 and fragment species to Pt(111): Implications for measurements of anion electron stimulated desorption</title>

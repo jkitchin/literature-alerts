@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Aug 19 01:13:51 2024
+Created on Tue Aug 20 01:12:26 2024
 
-Found 50 results from 2024-08-12 to 2024-08-19
+Found 50 results from 2024-08-13 to 2024-08-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357)
-
-## Modification of metals and ligands in two-dimensional conjugated metal-organic frameworks for CO2 electroreduction: A combined density functional theory and machine learning study   
-
-OpenAlex: https://openalex.org/W4401496468    
-Open access: False
-    
-[Guanru Xing](https://openalex.org/A5023014154), [Shize Liu](https://openalex.org/A5084675881), [Guang‐Yan Sun](https://openalex.org/A5051482789), [Jing-yao Liu](https://openalex.org/A5013853310), Journal of Colloid and Interface Science. 677(None)] 2025.https://doi.org/10.1016/j.jcis.2024.08.069.
-    
-Electrochemical carbon dioxide reduction reaction (CO    
-
-    
-
-## N‐Doped Carbon Modified (NixFe1‐x)Se Supported on Vertical Graphene toward Efficient and Stable OER Performance   
-
-OpenAlex: https://openalex.org/W4401490730    
-Open access: False
-    
-[Beirong Ye](https://openalex.org/A5072490935), [Yue‐Fei Zhang](https://openalex.org/A5053902650), [Chen Li](https://openalex.org/A5100369937), [Shouxin Zhang](https://openalex.org/A5101742243), [Yongqi Li](https://openalex.org/A5029489135), [Ting Li](https://openalex.org/A5100416908), [Fengyu Huang](https://openalex.org/A5069959593), [Chong Tang](https://openalex.org/A5031954241), [Renhong Chen](https://openalex.org/A5043653464), [Tao Tang](https://openalex.org/A5087513292), [Abolhassan Noori](https://openalex.org/A5000754874), [Liujiang Zhou](https://openalex.org/A5073805543), [Xinhui Xia](https://openalex.org/A5069358349), [Mir F. Mousavi](https://openalex.org/A5084644769), [Yongqi Zhang](https://openalex.org/A5045112676), Small. None(None)] 2024.https://doi.org/10.1002/smll.202404545.
-    
-Abstract NiFe‐based nanomaterials are extensively studied as one of the promising candidates for the oxygen evolution reaction (OER). However, their practical application is still largely impeded by the unsatisfied activity and poor durability caused by the severe leaching of active species. Herein, a rapid and facile combustion method is developed to synthesize the vertical graphene (VG) supported N‐doped carbon modified (Ni x Fe 1‐x )Se composites (NC@(Ni x Fe 1‐x )Se/VG). The interconnected heterostructure of obtained materials plays a vital role in boosting the catalytic performance, offering rich active sites and convenient pathways for rapid electron and ion transport. The incorporation of Se into NiFe facilitates the formation of active species via in situ surface reconstruction. According to density functional theory (DFT) calculations, the in situ formation of a Ni 0.75 Fe 0.25 Se/Ni 0.75 Fe 0.25 OOH layer significantly enhances the catalytic activity of NC@(Ni x Fe 1‐x )Se/VG. Furthermore, the surface‐adsorbed selenoxide species contribute to the stabilization of the catalytic active phase and increase the overall stability. The obtained NC@(Ni x Fe 1‐x )Se/VG exhibits a low overpotential of 220 mV at 20 mA cm −2 and long‐term stability over 300 h. This work offers a novel perspective on the design and fabrication of OER electrocatalysts with high activity and stability.    
-
-    
-
-## Superaerophobic Ni3N/Ni@W2N3 multi-heterointerfacial nanoarrays for efficient alkaline electrocatalytic hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4401494305    
-Open access: False
-    
-[Haidong Wang](https://openalex.org/A5100703721), [Yongxin Jiao](https://openalex.org/A5008617950), [Guanghui Zhang](https://openalex.org/A5100459831), [Zexi Zhang](https://openalex.org/A5024962801), [Weiguang Ma](https://openalex.org/A5034271384), [Chenghua Sun](https://openalex.org/A5058308419), [Xu Zong](https://openalex.org/A5059076745), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.154776.
-    
-No abstract    
-
-    
-
-## Preparation and application of single-atom nanozymes in oncology: a review   
-
-OpenAlex: https://openalex.org/W4401499087    
-Open access: True
-    
-[Huiyuan Liang](https://openalex.org/A5101210613), [Yubin Xian](https://openalex.org/A5066425552), [Xujing Wang](https://openalex.org/A5102788743), Frontiers in Chemistry. 12(None)] 2024.https://doi.org/10.3389/fchem.2024.1442689.
-    
-Single-atom nanozymes (SAzymes) represent a cutting-edge advancement in nanomaterials, merging the high catalytic efficiency of natural enzymes with the benefits of atomic economy. Traditionally, natural enzymes exhibit high specificity and efficiency, but their stability are limited by environmental conditions and production costs. Here we show that SAzymes, with their large specific surface area and high atomic utilization, achieve superior catalytic activity. However, their high dispersibility poses stability challenges. Our review focuses on recent structural and preparative advancements aimed at enhancing the catalytic specificity and stability of SAzymes. Compared to previous nanozymes, SAzymes demonstrate significantly improved performance in biomedical applications, particularly in tumor medicine. This progress positions SAzymes as a promising tool for future cancer treatment strategies, integrating the robustness of inorganic materials with the specificity of biological systems. The development and application of SAzymes could revolutionize the field of biocatalysis, offering a stable, cost-effective alternative to natural enzymes.    
-
-    
 
 ## Modified Cu active sites by alloying for efficient electrocatalytic reduction CO2 to CO   
 
@@ -484,7 +440,7 @@ No abstract
 OpenAlex: https://openalex.org/W4401638572    
 Open access: True
     
-[José Antonio Coca Clemente](https://openalex.org/A5087244461), [Isabel Rodrı́guez-Garcı́a](https://openalex.org/A5013694721), [A. Tolosana-Moranchel](https://openalex.org/A5035762737), [José Luis Gómez de la Fuente](https://openalex.org/A5036497172), [P. Ocón](https://openalex.org/A5055560922), [M. Retuerto](https://openalex.org/A5023870821), [Sergio Rojas](https://openalex.org/A5023421479), Nano Select. None(None)] 2024.https://doi.org/10.1002/nano.202400051.
+[José Antonio Coca Clemente](https://openalex.org/A5087244461), [Isabel Rodríguez‐García](https://openalex.org/A5013694721), [A. Tolosana-Moranchel](https://openalex.org/A5035762737), [José Luis Gómez de la Fuente](https://openalex.org/A5036497172), [P. Ocón](https://openalex.org/A5055560922), [M. Retuerto](https://openalex.org/A5023870821), [Sergio Rojas](https://openalex.org/A5023421479), Nano Select. None(None)] 2024.https://doi.org/10.1002/nano.202400051.
     
 ABSTRACT Ni, Fe‐based nitrides have been widely studied for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in alkaline media, displaying electrocatalytic activities similar to Pt and other noble metal electrocatalysts. The incorporation of small amounts of Mo or W on these Ni, Fe‐based nitrides is expected to have a significant effect on the electrocatalytic performance of these materials, especially for the HER activity. In this work, transition metal nitrides (TMNs) with the empirical formula Ni 1+ x Fe 3− x − y A y N (A = Mo, W), were obtained in two steps: synthesis of the transition metal oxide precursors by an easy, one‐pot sol–gel polymerization method followed by nitridation under ammonia atmosphere to obtain the final TMNs. Their HER and OER catalytic performances in alkaline electrolyte (0.1 M KOH solution) were studied and it was observed that the incorporation of small quantities of Mo or W in these Ni, Fe‐based nitrides (Ni 1+ x Fe 3− x − y A y N, where y = 0.1) results in improved HER and OER activities, especially in the TMN that contains W (i.e., Ni 1+ x Fe 2.9− x W 0.1 N), where the overpotentials were 348 mV for OER and 269 mV for HER. These values are lower than those obtained for Ni 1+ x Fe 3− x N, which are 395 mV for OER and 368 mV for HER.    
 
@@ -553,6 +509,50 @@ Open access: False
 [K.P. Jithul](https://openalex.org/A5093799732), [B. Tamilarasi](https://openalex.org/A5093799731), [Jay Pandey](https://openalex.org/A5090330319), Ionics. None(None)] 2024.https://doi.org/10.1007/s11581-024-05767-z.
     
 No abstract    
+
+    
+
+## Janus NbOBrI monolayer for efficient photocatalytic overall water splitting   
+
+OpenAlex: https://openalex.org/W4401675459    
+Open access: False
+    
+[Xue Deng](https://openalex.org/A5101694902), [Tie Zhou](https://openalex.org/A5102080852), [Xiao Long](https://openalex.org/A5055615038), [Jing Xie](https://openalex.org/A5014462733), [Bing Lv](https://openalex.org/A5069755291), [Yangfang Liao](https://openalex.org/A5027292892), [Wenzhong Wang](https://openalex.org/A5066863305), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.104980.
+    
+No abstract    
+
+    
+
+## Machine Learning for High-Throughput Configuration Sampling of Li−La−Ti−O Disordered Solid-State Electrolyte   
+
+OpenAlex: https://openalex.org/W4401684476    
+Open access: False
+    
+[Mohamad Ataya](https://openalex.org/A5028206585), [Eric McCalla](https://openalex.org/A5045883957), [Rustam Z. Khaliullin](https://openalex.org/A5041593378), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01221.
+    
+No abstract    
+
+    
+
+## Machine Learning‐Assisted Design of Nitrogen‐Rich Covalent Triazine Frameworks Photocatalysts   
+
+OpenAlex: https://openalex.org/W4401686058    
+Open access: False
+    
+[Mingliang Wu](https://openalex.org/A5019757765), [Zhilong Song](https://openalex.org/A5085689796), [Yu Cui](https://openalex.org/A5007253367), [Zhanzhao Fu](https://openalex.org/A5029332865), [Kunquan Hong](https://openalex.org/A5079305035), [Qiang Li](https://openalex.org/A5100429936), [Zhiyang Lyu](https://openalex.org/A5018753503), [Wei Wang](https://openalex.org/A5100392071), [Jinlan Wang](https://openalex.org/A5020585562), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202413453.
+    
+Abstract Covalent triazine frameworks (CTFs), noted for their rich nitrogen content, have attracted significant attention as promising photocatalysts. However, the structural complexity introduced by the diversity of nitrogen atoms in nitrogen‐rich CTFs poses a substantial challenge in discovering high‐performance CTFs. To address this challenge, a machine‐learning approach is developed to rationally design nitrogen‐rich CTFs, which is subsequently validated through experimental methods. A framework is employed based on the special orthogonal group in three dimensions (SO(3))‐invariant graph neural networks to predict photocatalytic properties of CTFs structures. This approach achieves exceptionally high accuracies with R 2 scores exceeding 0.98. From a dataset of 14920 CTFs structures, this framework identifies 45 high‐performance candidates. Guided by these predictions, a novel CTF structure, pyridine‐2,5‐dicarbaldehyde (CTF‐DCPD) is selected and successfully synthesized, which exhibits an ultrahigh hydrogen evolution rate of 17.70 mmol g −1 h −1 . This rate significantly surpasses that of the widely studied CTF‐1,4‐dicyanobenzene (CTF‐DCB, 10.41 mmol g −1 h −1 ). This work provides a new paradigm for machine learning to accelerate materials development, which can be generalized to the development of other functional materials.    
+
+    
+
+## Empirical Study and Mitigation Methods of Bias in LLM-Based Robots   
+
+OpenAlex: https://openalex.org/W4401684575    
+Open access: False
+    
+[Zhou Ren](https://openalex.org/A5083293468), Academic Journal of Science and Technology. 12(1)] 2024.https://doi.org/10.54097/re9qp070.
+    
+Our study provides a comprehensive analysis of biased behaviors exhibited by robots utilizing large language models (LLMs) in real-world applications, focusing on five experimental scenarios: customer service, education, healthcare, recruitment, and social interaction. The analysis reveals significant differences in user experiences based on race, health status, work experience, and social status. For instance, the average satisfaction score for white customers is 4.2, compared to 3.5 for black customers, and the response accuracy for white students is 92%, versus 85% for black students. To address these biases, we propose several mitigation methods, including data resampling, model regularization, post-processing techniques, diversity assessment, and user feedback mechanisms. These methods aim to enhance the fairness and inclusivity of robotic systems, promoting healthy human-robot interactions. By combining our quantitative data analysis with existing research, we affirm the importance of bias detection and mitigation, and propose various improvement strategies. Future research should further explore data balancing strategies, fairness-constrained models, real-time monitoring and adjustment mechanisms, and cross-domain studies to comprehensively evaluate and improve the performance of LLM-based robotic systems across various tasks.    
 
     
 

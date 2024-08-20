@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Aug 2024 01:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 01:12:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CFD Modeling of High-Flux Plate-and-Frame Membrane Modules for Industrial Carbon Capture</title>
-      <link>https://doi.org/10.2172/2427396</link>
-      <description>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4401496885
-
-                No abstract</description>
-      <author>Cheick Dosso, H&#233;ctor Pedrozo, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2427396</guid>
-    </item>
-    <item>
-      <title>Optimization of Membrane-based Carbon Capture using Dimensional Analysis, CFD and Process System Engineering</title>
-      <link>https://doi.org/10.2172/2427395</link>
-      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4401496910
-
-                No abstract</description>
-      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2427395</guid>
-    </item>
-    <item>
-      <title>NETL Research &amp;amp; Innovation Center - Membrane Capture Media Development</title>
-      <link>https://doi.org/10.2172/2427262</link>
-      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4401497006
-
-                No abstract</description>
-      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2427262</guid>
-    </item>
     <item>
       <title>Self-stabilizing economic nonlinear model predictive control applied to modular systems</title>
       <link>https://doi.org/10.1016/j.compchemeng.2024.108825</link>

@@ -1,73 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon Aug 19 01:13:43 2024
+Created on Tue Aug 20 01:12:13 2024
 
-Found 7 results from 2024-08-12 to 2024-08-19
+Found 4 results from 2024-08-13 to 2024-08-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* CFD Modeling of High-Flux Plate-and-Frame Membrane Modules for Industrial Carbon Capture  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401496885
-:TOPICS: Cryogenic Fluid Storage and Management, Membrane Gas Separation Technology, Characterization and Behavior of Nuclear Graphite Materials
-:PUBLICATION_DATE: 2024-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2427396")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401496885"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401496885"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401496885"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401496885 (Open access: False)
-    
-[[https://openalex.org/A5093713938][Cheick Dosso]], [[https://openalex.org/A5079899169][Héctor Pedrozo]], [[https://openalex.org/A5037749425][Thien Tran]], [[https://openalex.org/A5002137675][Lingxiang Zhu]], [[https://openalex.org/A5041659494][Victor A. Kusuma]], [[https://openalex.org/A5101028600][David Hopkinson]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], No host. None(None)] 2024. https://doi.org/10.2172/2427396 
-     
-No abstract    
-
-    
-
-* Optimization of Membrane-based Carbon Capture using Dimensional Analysis, CFD and Process System Engineering  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401496910
-:TOPICS: Membrane Gas Separation Technology
-:PUBLICATION_DATE: 2024-08-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2427395")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401496910"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401496910"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401496910"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401496910 (Open access: False)
-    
-[[https://openalex.org/A5079899169][Héctor Pedrozo]], [[https://openalex.org/A5093713938][Cheick Dosso]], [[https://openalex.org/A5037749425][Thien Tran]], [[https://openalex.org/A5002137675][Lingxiang Zhu]], [[https://openalex.org/A5041659494][Victor A. Kusuma]], [[https://openalex.org/A5101028600][David Hopkinson]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], No host. None(None)] 2024. https://doi.org/10.2172/2427395 
-     
-No abstract    
-
-    
-
-* NETL Research & Innovation Center - Membrane Capture Media Development  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401497006
-:TOPICS: Wireless Sensor Networks: Survey and Applications, Self-Reconfigurable Robotic Systems and Modular Robotics
-:PUBLICATION_DATE: 2024-08-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2427262")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401497006"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401497006"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401497006"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401497006 (Open access: False)
-    
-[[https://openalex.org/A5002137675][Lingxiang Zhu]], [[https://openalex.org/A5037749425][Thien Tran]], [[https://openalex.org/A5076767088][Fangming Xiang]], [[https://openalex.org/A5041659494][Victor A. Kusuma]], [[https://openalex.org/A5093713938][Cheick Dosso]], [[https://openalex.org/A5079899169][Héctor Pedrozo]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], [[https://openalex.org/A5098681635][Neil Pergar]], [[https://openalex.org/A5098681636][Brenda Petrilena]], [[https://openalex.org/A5021768097][David Hopkinson]], No host. None(None)] 2024. https://doi.org/10.2172/2427262 
-     
-No abstract    
-
-    
 
 * Self-stabilizing economic nonlinear model predictive control applied to modular systems  :CMU_Chemical_Engineering:
 :PROPERTIES:
