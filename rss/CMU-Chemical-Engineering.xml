@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Aug 2024 01:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 01:12:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Self-stabilizing economic nonlinear model predictive control applied to modular systems</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108825</link>
-      <description>San Dinh, Kuan&#8208;Han Lin, Fernando V. Lima, Lorenz T. Biegler, Computers &amp; Chemical Engineering. None(None)] 2024. https://openalex.org/W4401503825
-
-                No abstract</description>
-      <author>San Dinh, Kuan&#8208;Han Lin, Fernando V. Lima, Lorenz T. Biegler</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108825</guid>
-    </item>
     <item>
       <title>Ligand Shell Thickness of PEGylated Gold Nanoparticles Controls Cellular Uptake and Radiation Enhancement</title>
       <link>https://doi.org/10.1021/acsomega.4c06568</link>
