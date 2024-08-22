@@ -1,21 +1,10 @@
 # authors
 Description: List of authors
-Created on Wed Aug 21 01:11:54 2024
+Created on Thu Aug 22 01:13:47 2024
 
-Found 2 results from 2024-08-14 to 2024-08-21
+Found 1 results from 2024-08-15 to 2024-08-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464)
-
-## Structure Sensitive Reaction Kinetics of Chiral Molecules on Intrinsically Chiral Surfaces   
-
-OpenAlex: https://openalex.org/W4401547089    
-Open access: True
-    
-[Kareem Abdelmaqsoud](https://openalex.org/A5106436405), [Michael Radetic](https://openalex.org/A5089242859), [Carlos Fernández-Cabán](https://openalex.org/A5064713425), [Michael Widom](https://openalex.org/A5019536088), [John R. Kitchin](https://openalex.org/A5003442464), [Andrew J. Gellman](https://openalex.org/A5040842816), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c04224.
-    
-No abstract    
-
-    
 
 ## Investigating the Error Imbalance of Large-Scale Machine Learning Potentials in Catalysis   
 

@@ -1,52 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Aug 21 01:12:00 2024
+Created on Thu Aug 22 01:13:53 2024
 
-Found 3 results from 2024-08-14 to 2024-08-21
+Found 1 results from 2024-08-15 to 2024-08-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Ligand Shell Thickness of PEGylated Gold Nanoparticles Controls Cellular Uptake and Radiation Enhancement  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401534980
-:TOPICS: Particle Therapy for Cancer Treatment, Boron Neutron Capture Therapy, Neurotoxic Effects of Anesthetic Agents on Brain Development
-:PUBLICATION_DATE: 2024-08-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsomega.4c06568")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401534980"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401534980"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401534980"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401534980 (Open access: True)
-    
-[[https://openalex.org/A5035192083][Paul T. Lawrence]], [[https://openalex.org/A5040842816][Andrew J. Gellman]], [[https://openalex.org/A5063793928][Allison J. Tierney]], [[https://openalex.org/A5078222261][E. Charles H. Sykes]], [[https://openalex.org/A5022714228][Charles R. Mace]], ACS Omega. None(None)] 2024. https://doi.org/10.1021/acsomega.4c06568 
-     
-No abstract    
-
-    
-
-* Structure Sensitive Reaction Kinetics of Chiral Molecules on Intrinsically Chiral Surfaces  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401547089
-:TOPICS: Engineering of Surface Nanostructures, Accelerating Materials Innovation through Informatics, Advancements in Density Functional Theory
-:PUBLICATION_DATE: 2024-08-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c04224")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401547089"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401547089"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401547089"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401547089 (Open access: True)
-    
-[[https://openalex.org/A5106436405][Kareem Abdelmaqsoud]], [[https://openalex.org/A5089242859][Michael Radetic]], [[https://openalex.org/A5064713425][Carlos Fernández-Cabán]], [[https://openalex.org/A5019536088][Michael Widom]], [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5040842816][Andrew J. Gellman]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c04224 
-     
-No abstract    
-
-    
 
 * Investigating the Error Imbalance of Large-Scale Machine Learning Potentials in Catalysis  :CMU_Chemical_Engineering:
 :PROPERTIES:
