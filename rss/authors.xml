@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Aug 2024 01:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 01:12:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Investigating the Error Imbalance of Large-Scale Machine Learning Potentials in Catalysis</title>
-      <link>https://doi.org/10.1039/d4cy00615a</link>
-      <description>Kareem Abdelmaqsoud, Muhammed Shuaibi, Adeesh Kolluru, Raffaele Cheula, John R. Kitchin, Catalysis Science &amp; Technology. None(None)] 2024. https://openalex.org/W4401579937
-
-                Machine learning potentials (MLPs) have greatly accelerated atomistic simulations for material dis- covery. The Open Catalyst 2020 (OC20) dataset is one of the largest datasets for training MLPs for heterogeneous...</description>
-      <author>Kareem Abdelmaqsoud, Muhammed Shuaibi, Adeesh Kolluru, Raffaele Cheula, John R. Kitchin</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cy00615a</guid>
-    </item>
   </channel>
 </rss>

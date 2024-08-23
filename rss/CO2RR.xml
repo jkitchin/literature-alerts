@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Aug 2024 01:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 01:12:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -98,6 +98,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cartre.2024.100396</guid>
     </item>
     <item>
+      <title>IONIC LIQUIDS AS POTENTIAL CO-CATALYST FOR CO2 ELECTROCHEMICAL REDUCTION</title>
+      <link>https://doi.org/10.22452/mjs.vol43sp1.9</link>
+      <description>Sulafa Abdalmageed Saadaldeen Mohammed, Wan Zaireen Nisa Yahya, Mohamad Azmi Bustam, Maleeha Hassan, Asiah Nusaibah Masri, Md Golam Kibria, Malaysian Journal of Science. 43(sp1)] 2024. https://openalex.org/W4401717218
+
+                Carbon dioxide electrochemical reduction (CO2ER) presents numerous advantages in mitigating greenhouse gas emissions by converting CO2 into value-added chemicals and can be integrated with renewable energy sources such as solar and wind. Nevertheless, establishing an electrochemically stable catalytic system that can effectively decrease the overpotential while maintaining high current density and faradaic efficiency is challenging. The precise mechanisms causing the reactions and the specific functions of the electrode with electrolytes are still not fully understood. Hence, a significant increase in attention has been paid to using ionic liquids (ILs) as electrolytes for CO2ER. This phenomenon is attributed to the unique capabilities of ILs to reduce overpotential, increase current density, and improve electrochemical stability. Therefore, this study evaluated the effect of incorporating ILs into electrolytes to comprehend the cation and anion influences on CO2ER reactions. Linear sweep voltammetry (LSV) and chronoamperometry (CA) were employed to examine the reduction peaks and current density values for different electrolytes, respectively. Consequently, a 0.1 M NBu4PF6 acetonitrile solution containing 1-ethyl-3-methylimidazolium tetrafluoroborate [EMIM][BF4] demonstrated a significantly lower onset potential of the reduction by 320 mV. A reduced CO2ER efficiency involving ILs with long alkyl chains was also observed. Meanwhile, a novel hypothesis concerning molecular orbitals for the CO2ER reaction mechanism was discussed. Overall, various performance variables (reduction stability, applied potential, and current density) of CO2ER were improved using cations with short alkyl chains, anions with high highest occupied molecular orbital (HOMO) levels, and appropriate solvation media. These findings can serve as selection criteria to aid in choosing appropriate ionic liquids for CO2 electrochemical reduction (CO2ER).</description>
+      <author>Sulafa Abdalmageed Saadaldeen Mohammed, Wan Zaireen Nisa Yahya, Mohamad Azmi Bustam, Maleeha Hassan, Asiah Nusaibah Masri, Md Golam Kibria</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22452/mjs.vol43sp1.9</guid>
+    </item>
+    <item>
       <title>The Effect of Geopolymers and Limestone Calcined Clay in Reduction of Anthropogenic Carbon dioxide Emissions: A Review</title>
       <link>https://doi.org/10.1109/seb4sdg60871.2024.10629713</link>
       <description>Ayodeji K. Ogundana, No host. None(None)] 2024. https://openalex.org/W4401608346
@@ -116,6 +126,16 @@
       <author>Krzysztof Bie&#324;kowski, Renata Solarska</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01442411mtgabs</guid>
+    </item>
+    <item>
+      <title>Addition of nitrous oxide and oxygen to carbon dioxide pneumoperitoneum during laparoscopic surgery for pain reduction: A double-blinded randomized controlled trial.</title>
+      <link>https://doi.org/10.1111/1471-0528.17939</link>
+      <description>Jasper Verguts, Eline Soors, Ina Callebaut, Stefan Evers, Jeroen Vandenbrande, Angelique Ceulemans, W. Smeets, Layth Al Tmimi, Bj&#246;rn Stessel, PubMed. None(None)] 2024. https://openalex.org/W4401729113
+
+                To examine if peritoneal conditioning with an altered insufflation gas mixture is associated with reduced postoperative pain intensity compared to the standard insufflation gas (i.e., 100% CO</description>
+      <author>Jasper Verguts, Eline Soors, Ina Callebaut, Stefan Evers, Jeroen Vandenbrande, Angelique Ceulemans, W. Smeets, Layth Al Tmimi, Bj&#246;rn Stessel</author>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1111/1471-0528.17939</guid>
     </item>
     <item>
       <title>Single-bacterium modification strategies for photobiocatalytic CO2 reduction</title>
@@ -168,14 +188,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jhydrol.2024.131844</guid>
     </item>
     <item>
-      <title>Atomically precise alkynyl-protected Ag19Cu2 nanoclusters: Synthesis, structure analysis, and electrocatalytic CO2 reduction application</title>
-      <link>https://doi.org/10.1039/d4nr02702g</link>
-      <description>Xiangou Zhu, Zhu Pan, Xuzi Cong, Guanyu Ma, Qing Tang, Li Wang, Zhenghua Tang, Nanoscale. None(None)] 2024. https://openalex.org/W4401559294
+      <title>IMMOBILISATION OF COPPER (I) OXIDE/ZINC OXIDE NANOPARTICLES ON THE GAS DIFFUSION LAYER FOR CO2 REDUCTION REACTION APPLICATION</title>
+      <link>https://doi.org/10.22452/mjs.vol43sp1.2</link>
+      <description>Nor Hafizah Yasin, Wan Zaireen Nisa Yahya, Malaysian Journal of Science. 43(sp1)] 2024. https://openalex.org/W4401717133
 
-                We report the synthesis, structure analysis, and electrocatalytic CO2 reduction application of Ag19Cu2(C&#8801;CArF)12(PPh3)6Cl6 (abbrevaited as Ag19Cu2, C&#8801;CArF: 3, 5-bis(trifluoromethyl)phenylacetylene) nanoclusters. Ag19Cu2 has characteristic absorbance feature, and is a superatomic cluster...</description>
-      <author>Xiangou Zhu, Zhu Pan, Xuzi Cong, Guanyu Ma, Qing Tang, Li Wang, Zhenghua Tang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4nr02702g</guid>
+                The electrochemical reduction of carbon dioxide (CO&#8322;RR) represents a promising strategy for CO&#8322; mitigation, requiring highly efficient catalysts integrated into electrochemical devices to achieve high conversion rates and energy efficiencies for desired products. Establishing a gas diffusion electrode is crucial for practical applications of CO&#8322; electrochemical reduction reactions (CO&#8322;RR). This study uses the air-spraying method to immobilise nano-catalysts onto a gas diffusion layer (GDL) with exceptional homogeneity. A composite of copper(I) oxide (Cu&#8322;O) and zinc oxide (ZnO) nanoparticles in a 4:1 ratio was deposited onto the GDL. Surface morphology analysis revealed the successful immobilisation of cubic Cu&#8322;O and hexagonal wurtzite ZnO with a uniform distribution, indicating potential improvements in CO&#8322;RR performance. Contact angle measurements were conducted to assess surface hydrophobicity, comparing pristine GDL with Cu&#8322;O/ZnO-based GDL. Although the contact angle on the surface of the Cu&#8322;O/ZnO-based GDL slightly reduced from 143.69&#176; to 134.82&#176;, it maintained its hydrophobic nature. This reduction is attributed to Nafion, a binder in the catalyst ink mixture. The sustained high contact angle is crucial for the CO&#8322; reduction reaction process. X-ray diffraction (XRD) diffractograms of Cu&#8322;O/ZnO-based GDL were compared with reference Cu&#8322;O, ZnO, and bare GDL. The presence of all essential peaks confirms the successful immobilisation. The air-spraying technique effectively achieved a favourable distribution of active metals.</description>
+      <author>Nor Hafizah Yasin, Wan Zaireen Nisa Yahya</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22452/mjs.vol43sp1.2</guid>
     </item>
     <item>
       <title>Activity and Selectivity in the Electrochemical Reduction of CO2 at CuSnx Electrocatalysts Using a Zero-Gap Membrane Electrode Assembly</title>
@@ -218,16 +238,6 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s11426-024-2075-6</guid>
     </item>
     <item>
-      <title>Mathematical modeling of CO2 emission reduction of line 107 of bus rapid transit in Tehran (BRT Tajrish Square - Railway Square)</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4902000/v1</link>
-      <description>Farid Rahimi, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4401593239
-
-                Abstract In this paper, we examine the possibility of diminishing carbon dioxide (CO2) discharges from the Tajrish Square - Railway Square rapid bus system (Tehran BRT line 107) by eliminating the Tajrish terminal and substituting it with a conventional station. Decreasing the generation and release of CO2 is a crucial goal of urban administration and environmental preservation. Rapid buses, being one of the most utilized modes of public transportation in Tehran, generate a significant quantity of CO2. Consequently, it is crucial to explore measures that can decrease the production and emission of CO2 from this system. In this research, the main question is what impact removing one of the terminals of Tehran BRT line 107 and replacing it with a regular station will have on reducing the production and emission of CO2 of this system. Also, this hypothesis is raised that based on it, this action will result in a noticeable reduction in the production and emission of CO2 of this system. The results of mathematical modeling show that this action leads to a significant reduction in time, fuel and CO2. By doing this, 2370 minutes in time, 59.25 liters in fuel and 154.168 kilograms of CO2 emissions will be reduced. Eliminating the Tajrish terminal can lead to improving the performance and reducing the pollution of the Tajrish Sq. - Railway Sq. rapid bus system. By eliminating this terminal, the duration of trips will decrease by 12.56% (one-eighth), diesel consumption by 2.71%, and CO2 production by 2.71%. This improvement means increasing efficiency, reducing costs and reducing environmental damages. Therefore, it is recommended that this action be performed as soon as possible and its results be investigated on other bus lines.</description>
-      <author>Farid Rahimi</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4902000/v1</guid>
-    </item>
-    <item>
       <title>Transition Metal-Loaded C2n Catalysts for Selective Co2 Reduction to Ch4: Insights from First-Principles Calculations</title>
       <link>https://doi.org/10.2139/ssrn.4926762</link>
       <description>Shun Li, Shitao Peng, Zhaoyu Qi, Lijia Tong, No host. None(None)] 2024. https://openalex.org/W4401705470
@@ -246,16 +256,6 @@
       <author>Haoyu Sun, Haili Lin, Xuemei Jia, Xinyue Li, Shuang Li, Xin Jin, Qianlong Wang, Shifu Chen, Jing Cao</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124514</guid>
-    </item>
-    <item>
-      <title>Zr-MOF/MXene composite for enhanced photothermal catalytic CO2 reduction in atmospheric and industrial flue gas streams</title>
-      <link>https://doi.org/10.1016/j.ccst.2024.100274</link>
-      <description>Meng Yang, Feng Yue, Shuo Zhang, L. Zhang, Cong Li, Mengke Shi, Yongpeng Ma, Mario Berrettoni, Xiaojing Zhang, Hongzhong Zhang, Carbon Capture Science &amp; Technology. 13(None)] 2024. https://openalex.org/W4401560596
-
-                No abstract</description>
-      <author>Meng Yang, Feng Yue, Shuo Zhang, L. Zhang, Cong Li, Mengke Shi, Yongpeng Ma, Mario Berrettoni, Xiaojing Zhang, Hongzhong Zhang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2024.100274</guid>
     </item>
     <item>
       <title>Theoretical study on the electrochemical CO2 reduction performance of MoS2-supported Ni single atoms with transition metal substrate doping</title>
@@ -288,26 +288,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.132865</guid>
     </item>
     <item>
-      <title>Activation of Bi2MoO6/Zn0.5Cd0.5S charge transfer through interface chemical bonds and surface defects for photothermal catalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.08.103</link>
-      <description>Zhongqiang Yuan, Jie Liu, Xiang Yu, Xuan Jian, Hao Zhang, Mimi Liu, Rui Cao, Yanan Hu, Xiaoming Gao, Journal of Colloid and Interface Science. 677(None)] 2025. https://openalex.org/W4401559079
-
-                The photocatalytic reduction of CO</description>
-      <author>Zhongqiang Yuan, Jie Liu, Xiang Yu, Xuan Jian, Hao Zhang, Mimi Liu, Rui Cao, Yanan Hu, Xiaoming Gao</author>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.103</guid>
-    </item>
-    <item>
-      <title>Stepped copper sites coupling voltage-induced surfactant assembly to achieve efficient CO2 electroreduction to formate</title>
-      <link>https://doi.org/10.1039/d4ee02697g</link>
-      <description>Sicong Qiao, Guikai Zhang, Chun Song, Wenjie Xu, Wei Jiang, Yuyan Cao, Zhihui Zhang, Jing Zhang, Qingliang He, Li Song, Energy &amp; Environmental Science. None(None)] 2024. https://openalex.org/W4401581067
-
-                The electrochemical reduction of carbon dioxide (CO2) into formate holds great promise. However, the ongoing competition of parallel reactions, including the generation of hydrogen (H2), carbon monoxide (CO), and multi-carbon...</description>
-      <author>Sicong Qiao, Guikai Zhang, Chun Song, Wenjie Xu, Wei Jiang, Yuyan Cao, Zhihui Zhang, Jing Zhang, Qingliang He, Li Song</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ee02697g</guid>
-    </item>
-    <item>
       <title>Exploring the Frontiers of Cathode Catalysts in Lithium&#8211;Carbon Dioxide Batteries: A Mini Review</title>
       <link>https://doi.org/10.3390/inorganics12080222</link>
       <description>Jing Guo, Xin Yan, Xue Meng, Pengwei Li, Qin Wang, Qian Zhang, Shu Yan, Shaohua Luo, Inorganics. 12(8)] 2024. https://openalex.org/W4401647013
@@ -326,16 +306,6 @@
       <author>Bruno Bunya, C&#233;sar Adolfo Rodr&#237;guez Sotomonte, Alisson Aparecido Vitoriano Julio, Jo&#227;o Luiz Junho Pereira, T&#250;lio Augusto Zucareli de Souza, Matheus Brendon Francisco, Christian Jeremi R. Coronado</author>
       <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/e26080698</guid>
-    </item>
-    <item>
-      <title>Enhancing Soil Carbon Sequestration and Land Restoration through Tropical Forest Management</title>
-      <link>https://doi.org/10.56556/jase.v2i2.906</link>
-      <description>Md. Shoaibur Rahman, Asif Raihan, S M A Bin Al Islam, Parson Paul, Sourav Karmakar, Journal of Agriculture Sustainability and Environment. 2(2)] 2023. https://openalex.org/W4401658720
-
-                Soil has a high capacity for absorbing carbon dioxide (CO2). The significance of soil organic carbon (SOC) in tropical regions is often overlooked, despite its crucial role. This study investigates the potential of forest management to enhance the sequestration of SOC and rehabilitate degraded tropical ecosystems. Sequestering soil organic carbon has the potential to improve soil fertility while also mitigating land degradation and reducing greenhouse gas (GHG) emissions. The improvement of soil structure, aggregation, infiltration, faunal mobility, and nutrient cycling (specifically carbon, nitrogen, phosphorus, and sulfur) is observed. Managing forest ecosystems enhances carbon sequestration, mitigates climate change, and rehabilitates degraded land. By integrating organic residue management with nitrogen-fixing plants, afforestation or reforestation of marginal or degraded lands can effectively increase carbon storage in both biomass and soil. This approach also promotes soil health, improves food productivity, restores land quality, and contributes to the reduction of GHG emissions. The sequestration of carbon promotes the biological, physical, and chemical fertility of the soil, hence enhancing soil health.</description>
-      <author>Md. Shoaibur Rahman, Asif Raihan, S M A Bin Al Islam, Parson Paul, Sourav Karmakar</author>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.56556/jase.v2i2.906</guid>
     </item>
     <item>
       <title>Fe-MOF-74 Reactivity Explored: Comprehensive Computational Assessment of O and S Atom Influence on CO&lt;sub&gt;2&lt;/sub&gt; and CO Reduction Reactions</title>
@@ -369,16 +339,6 @@
     </item>
     <item>
       <title>Steering the Selectivity of CORR from Acetate to Ethanol via Tailoring the Thermodynamic Activity of Water</title>
-      <link>https://doi.org/10.1002/anie.202412266</link>
-      <description>Jia Liu, Bao Zhang, Derong Chen, Ouwen Peng, Haibin Ma, Shibo Xi, Chao Wu, Qikun Hu, Kun Zhang, Junyuan Feng, Kian Ping Loh, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401686463
-
-                The electrochemical conversion of carbon monoxide (CO) into oxygenated C2+ products at high rates and selectivity offers a promising approach for the two&#8208;step conversion of carbon dioxide (CO2). However, a major drawback of the CO electrochemical reduction in alkaline electrolyte is the preference for the acetate pathway over the more valuable ethanol pathway. Recent research has shed light on the significant impact of thermodynamic water activity on the electrochemical CO2 reduction reaction pathways, but less is understood for the electrochemical reduction of CO. In this study, we investigated how the water activity at the electrified interface can be enhanced to adjust the selectivity between acetate and ethanol. We employed an ionomer modifier to lower the local concentration of alkali ions (via Donnan exclusion), successfully enhancing ethanol production while suppressing acetate formation. We observed a remarkable improvement in the Faradaic efficiency of ethanol and alcohol (i.e. ethanol, propanol etc), which reached 42.5% and 55.1%, respectively, at a current density of 700 mA cm&#8208;2. The partial current densities of ethanol and alcohol reached 698 and 942 mA cm&#8208;2 at 2000 mA cm&#8208;2. Furthermore, we achieved a 3.7&#8208;fold increase in the ethanol/acetate ratio, providing clear evidence of our successful modulation of product selectivity.</description>
-      <author>Jia Liu, Bao Zhang, Derong Chen, Ouwen Peng, Haibin Ma, Shibo Xi, Chao Wu, Qikun Hu, Kun Zhang, Junyuan Feng, Kian Ping Loh</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202412266</guid>
-    </item>
-    <item>
-      <title>Steering the Selectivity of CORR from Acetate to Ethanol via Tailoring the Thermodynamic Activity of Water</title>
       <link>https://doi.org/10.1002/ange.202412266</link>
       <description>Jia Liu, Bao Zhang, Derong Chen, Ouwen Peng, Haibin Ma, Shibo Xi, Chao Wu, Qikun Hu, Kun Zhang, Junyuan Feng, Kian Ping Loh, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401685940
 
@@ -386,6 +346,16 @@
       <author>Jia Liu, Bao Zhang, Derong Chen, Ouwen Peng, Haibin Ma, Shibo Xi, Chao Wu, Qikun Hu, Kun Zhang, Junyuan Feng, Kian Ping Loh</author>
       <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202412266</guid>
+    </item>
+    <item>
+      <title>Steering the Selectivity of CORR from Acetate to Ethanol via Tailoring the Thermodynamic Activity of Water</title>
+      <link>https://doi.org/10.1002/anie.202412266</link>
+      <description>Jia Liu, Bao Zhang, Derong Chen, Ouwen Peng, Haibin Ma, Shibo Xi, Chao Wu, Qikun Hu, Kun Zhang, Junyuan Feng, Kian Ping Loh, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401686463
+
+                The electrochemical conversion of carbon monoxide (CO) into oxygenated C2+ products at high rates and selectivity offers a promising approach for the two&#8208;step conversion of carbon dioxide (CO2). However, a major drawback of the CO electrochemical reduction in alkaline electrolyte is the preference for the acetate pathway over the more valuable ethanol pathway. Recent research has shed light on the significant impact of thermodynamic water activity on the electrochemical CO2 reduction reaction pathways, but less is understood for the electrochemical reduction of CO. In this study, we investigated how the water activity at the electrified interface can be enhanced to adjust the selectivity between acetate and ethanol. We employed an ionomer modifier to lower the local concentration of alkali ions (via Donnan exclusion), successfully enhancing ethanol production while suppressing acetate formation. We observed a remarkable improvement in the Faradaic efficiency of ethanol and alcohol (i.e. ethanol, propanol etc), which reached 42.5% and 55.1%, respectively, at a current density of 700 mA cm&#8208;2. The partial current densities of ethanol and alcohol reached 698 and 942 mA cm&#8208;2 at 2000 mA cm&#8208;2. Furthermore, we achieved a 3.7&#8208;fold increase in the ethanol/acetate ratio, providing clear evidence of our successful modulation of product selectivity.</description>
+      <author>Jia Liu, Bao Zhang, Derong Chen, Ouwen Peng, Haibin Ma, Shibo Xi, Chao Wu, Qikun Hu, Kun Zhang, Junyuan Feng, Kian Ping Loh</author>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202412266</guid>
     </item>
     <item>
       <title>Hetero-Bimetallic Paddlewheel Complexes for Enhanced CO&lt;sub&gt;2&lt;/sub&gt; Reduction Selectivity: A First Principles Study</title>
@@ -396,6 +366,16 @@
       <author>Gavin A. McCarver, Taner Yildirim, Wei Zhou</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372151mtgabs</guid>
+    </item>
+    <item>
+      <title>Enhancing Soil Carbon Sequestration and Land Restoration through Tropical Forest Management</title>
+      <link>https://doi.org/10.56556/jase.v2i2.906</link>
+      <description>Md. Shoaibur Rahman, Asif Raihan, S M A Bin Al Islam, Parson Paul, Sourav Karmakar, Journal of Agriculture Sustainability and Environment. 2(2)] 2023. https://openalex.org/W4401658720
+
+                Soil has a high capacity for absorbing carbon dioxide (CO2). The significance of soil organic carbon (SOC) in tropical regions is often overlooked, despite its crucial role. This study investigates the potential of forest management to enhance the sequestration of SOC and rehabilitate degraded tropical ecosystems. Sequestering soil organic carbon has the potential to improve soil fertility while also mitigating land degradation and reducing greenhouse gas (GHG) emissions. The improvement of soil structure, aggregation, infiltration, faunal mobility, and nutrient cycling (specifically carbon, nitrogen, phosphorus, and sulfur) is observed. Managing forest ecosystems enhances carbon sequestration, mitigates climate change, and rehabilitates degraded land. By integrating organic residue management with nitrogen-fixing plants, afforestation or reforestation of marginal or degraded lands can effectively increase carbon storage in both biomass and soil. This approach also promotes soil health, improves food productivity, restores land quality, and contributes to the reduction of GHG emissions. The sequestration of carbon promotes the biological, physical, and chemical fertility of the soil, hence enhancing soil health.</description>
+      <author>Md. Shoaibur Rahman, Asif Raihan, S M A Bin Al Islam, Parson Paul, Sourav Karmakar</author>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.56556/jase.v2i2.906</guid>
     </item>
     <item>
       <title>Sustainable solutions analysis of a bi-objective green inventory routing problem with heterogeneous fleet and different types of fuels</title>
@@ -436,16 +416,6 @@
       <author>A. Ochoa, Faezeh Habibzadeh, El&#337;d Gyenge</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01562977mtgabs</guid>
-    </item>
-    <item>
-      <title>The dynamic spatial effects of education investment on carbon emissions: heterogeneous analysis based on north-south differences in China</title>
-      <link>https://doi.org/10.3389/fenvs.2024.1432457</link>
-      <description>Yuming Dong, Jialin Gao, Qiu Jian-yu, Yiniu Cui, Mengyao Guo, Frontiers in Environmental Science. 12(None)] 2024. https://openalex.org/W4401590158
-
-                This article is based on panel data from 266 cities in China from 2009 to 2020. Classical economics theory and Marxist political economy theory are used as the theoretical basis for the study. Static spatial Durbin model regression and dynamic spatial Durbin model regression are conducted to analyze the impact of education investment on carbon dioxide emissions. The results show that education investment can significantly reduce carbon dioxide emissions, not only through spatial spillover effects, but also through dynamic effects over time. The implementation of education investment in one city can have a positive impact on surrounding cities, thereby achieving a certain degree of reduction in carbon emissions. Additionally, the inhibitory effect of education investment on carbon emissions is more significant in the short term. Furthermore, the study found that there is significant heterogeneity in the effect of education investment on carbon dioxide emissions between northern and southern cities, with education investment in southern cities having a more significant effect. This may be related to the industrial structure and climate of southern cities. The conclusions of this study provide useful reference for the development of education policies and environmental protection policies. In the future, the government can increase education investment appropriately to achieve the goal of reducing carbon dioxide emissions. And research has shown that education investment can suppress carbon emissions by influencing changes in energy and industrial structures. Therefore, when using measures to reduce emissions in education investment, we can focus on these two aspects.</description>
-      <author>Yuming Dong, Jialin Gao, Qiu Jian-yu, Yiniu Cui, Mengyao Guo</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fenvs.2024.1432457</guid>
     </item>
     <item>
       <title>(Invited) Electrosynthesis of Carbon Dioxide to Ethylene</title>
@@ -508,16 +478,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372190mtgabs</guid>
     </item>
     <item>
-      <title>The iron nitrogenase reduces carbon dioxide to formate and methane under physiological conditions: A route to feedstock chemicals</title>
-      <link>https://doi.org/10.1126/sciadv.ado7729</link>
-      <description>Niels N. Oehlmann, Frederik V. Schmidt, M Herzog, Annelise L. Goldman, Johannes G. Rebelein, Science Advances. 10(33)] 2024. https://openalex.org/W4401567175
-
-                Nitrogenases are the only known enzymes that reduce molecular nitrogen (N 2 ) to ammonia. Recent findings have demonstrated that nitrogenases also reduce the greenhouse gas carbon dioxide (CO 2 ), suggesting CO 2 to be a competitor of N 2 . However, the impact of omnipresent CO 2 on N 2 fixation has not been investigated to date. Here, we study the competing reduction of CO 2 and N 2 by the two nitrogenases of Rhodobacter capsulatus , the molybdenum and the iron nitrogenase. The iron nitrogenase is almost threefold more efficient in CO 2 reduction and profoundly less selective for N 2 than the molybdenum isoform under mixtures of N 2 and CO 2 . Correspondingly, the growth rate of diazotrophically grown R. capsulatus strains relying on the iron nitrogenase notably decreased after adding CO 2 . The in vivo CO 2 activity of the iron nitrogenase facilitates the light-driven extracellular accumulation of formate and methane, one-carbon substrates for other microbes, and feedstock chemicals for a circular economy.</description>
-      <author>Niels N. Oehlmann, Frederik V. Schmidt, M Herzog, Annelise L. Goldman, Johannes G. Rebelein</author>
-      <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.ado7729</guid>
-    </item>
-    <item>
       <title>In situ/Operando Investigation for Heterogeneous Electro-Catalysts: From Model Catalysts to State-of-the-Art Catalysts</title>
       <link>https://doi.org/10.1021/acsenergylett.4c01488</link>
       <description>Jingting Song, Zhengxin Qian, Ji Yang, Xiu-Mei Lin, Qingchi Xu, Jianfeng Li, ACS Energy Letters. None(None)] 2024. https://openalex.org/W4401664940
@@ -528,16 +488,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c01488</guid>
     </item>
     <item>
-      <title>Phosphate Fertilization Without Pasture Burning Increase Biomass Productivity and Reduce Carbon Loss</title>
-      <link>https://doi.org/10.24857/rgsa.v18n4-179</link>
-      <description>Luiz Carlos da Silva, Francisco de Almeida Lobo, Revista de Gest&#227;o Social e Ambiental. 18(4)] 2024. https://openalex.org/W4401575936
-
-                Objective: In this work we evaluate the phosphorus fertilization without burning on the biomass productivity and the reduction of carbon loss from the pasture of Brachiaria brizantha in the Brazilian Amazon. Theoretical Framework: Brachiaria brizantha is the main cultivated pasture species in Brazil. The overgrazing and no nutrient replenishment in addition to the periodical burnings are the trigger factors of a gradual degradation since the 70&#8217;s in the Amazon. That fact suggests the need for research solutions to eliminate the use of this practice for pasture management. Method: A field experiment was carried out from September to November 2015 in a completely randomized blocks design. The treatments consisted of unburned pasture treated with 0, 25, 100 and 200 kg ha-1 of phosphorus compared to the pasture burning, with 4 blocks and 20 experimental plots. The experimental plots treated with phosphorus received agronomic doses of potassium and nitrogen applied on the soil surface. After applying the treatments, including the burning, the pasture was desiccated in order to homogenize the plant emergence and growth after the period without rain from July to September. Results and Discussion: The soil fertility attributes, components of biomass productivity, partial carbon stocks and the partial carbon retained in the pasture (not lost as carbon dioxide) were quantified at 56 days after the beggining of the experimental period. In comparison to the pasture burning, the treatments alter the soil phosphorus availability and, as a result, increase the partial biomass productivity and its carbon content, reducing the loss of carbon dioxide to the atmosphere. Research Implications: The practical and theoretical implications of this research are discussed, providing insights into how the results can be applied or influence practices in the field of pasture management without fire using. These implications could encompass on how to apply and how much of an alternative phosphate must be applied to the soil in order to supply phosphorus for B. brizantha instead of using fire as a strategy of pasture management. Originality/Value: This study contributes to the literature by highlighting the superiority of phosphorus application from alternative source allied to N and K fertilization compared to the pasture burning practice in the Southwestern Amazon. This innovative approach can be used as a base for new researches and applied in the level of cattle farmers.</description>
-      <author>Luiz Carlos da Silva, Francisco de Almeida Lobo</author>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.24857/rgsa.v18n4-179</guid>
-    </item>
-    <item>
       <title>How Mechanical Challenges Affect the Performance of Industrial Scale Carbon Dioxide Electrolyzer Cells?</title>
       <link>https://doi.org/10.1149/ma2024-01372155mtgabs</link>
       <description>Egon Kecsenovity, Dorottya Hurs&#225;n, Csaba Jan&#225;ky, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401700440
@@ -546,6 +496,26 @@
       <author>Egon Kecsenovity, Dorottya Hurs&#225;n, Csaba Jan&#225;ky</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372155mtgabs</guid>
+    </item>
+    <item>
+      <title>Sustainable negative emissions in Europe: Evaluating scenarios to meet carbon neutrality by 2050</title>
+      <link>https://doi.org/10.1088/1748-9326/ad71e1</link>
+      <description>Johanna Markkanen, Kati Koponen, Antti Lehtil&#228;, Environmental Research Letters. None(None)] 2024. https://openalex.org/W4401719592
+
+                Abstract With the Pan-European TIMES-VTT model, we studied pathways for carbon neutrality by 2050 for 31 European countries by modelling a large portfolio of varius terrestial and technological carbon dioxide removal (CDR) strategies. Negative emission technologies and practices (NETPs) such as af-/reforestation, soil carbon sequestration, bioenergy with carbon capture and storage, direct air capture and storage, biochar, and enhanced weathering, were considered. Three different storylines were created to describe the role for NETPs in varying future developments. The scenario storylines illustrated potential opportunities and constraints for a large scale NETP implementation focusing on 1) optimistic technology development, 2) strict protection of planetary boundaries, and 3) increased self-sufficiency due to geopolitical risks with policy fragmentation. The results show that the demand for NETPs could be in a gigaton scale to reach carbon neutrality in Europe by 2050. As different countries have different opportunities to implement NETPs, none of the NETP options should be excluded from mitigation portfolios at this stage. The results also indicate the potential of NETPs in providing cost-effective solutions for achieving the climate targets. On the other hand, stricter greenhouse gas emission reduction polices are needed to avoid over-reliance on CDR.&amp;#xD;</description>
+      <author>Johanna Markkanen, Kati Koponen, Antti Lehtil&#228;</author>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1748-9326/ad71e1</guid>
+    </item>
+    <item>
+      <title>Octanuclear Zinc Clusters in Microporous Organic Polymers: Network&#8208;Enhanced Reductive CO&lt;sub&gt;2&lt;/sub&gt; Fixation to Formamides at Room Temperature</title>
+      <link>https://doi.org/10.1002/smll.202405098</link>
+      <description>June Young Jang, Gang Min Lee, Yoon Kee Kim, Sang Moon Lee, Hae&#8208;Jin Kim, Ga&#8208;Young Lee, Kyoung Chul Ko, Seung Uk Son, Small. None(None)] 2024. https://openalex.org/W4401726674
+
+                Abstract A building block containing eight zincs and eight iodo groups (8 Zn) is obtained by the Zn complexation of a salen ligand bearing two additional hydroxy groups. Through the Sonogashira&#8211;Hagihara coupling of 8 Zn with 1,3,5,7&#8208;tetra(4&#8208;ethynylphenyl) adamantane, microporous organic polymers bearing octanuclear zinc clusters (MOP&#8208;8 Zn) are prepared, exhibiting a high surface area of 562 m 2 g &#8722;1 , microporosity, and a particulate morphology with an average diameter of 249 nm. The MOP&#8208;8 Zn exhibits significantly enhanced catalytic performance, compared to molecular counterparts, in the reductive carbon dioxide fixation to formamides, possibly due to the cooperative adsorption and confinement effect of networks on substrates.</description>
+      <author>June Young Jang, Gang Min Lee, Yoon Kee Kim, Sang Moon Lee, Hae&#8208;Jin Kim, Ga&#8208;Young Lee, Kyoung Chul Ko, Seung Uk Son</author>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202405098</guid>
     </item>
     <item>
       <title>ADEQUACY OF GREEN OPEN SPACE TO REDUCE CARBON DIOXIDE (CO2) AT UNESA CAMPUS JL. KETINTANG, SURABAYA, INDONESIA</title>
@@ -576,16 +546,6 @@
       <author>Hanqing Pan, Christopher J. Barile</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01442417mtgabs</guid>
-    </item>
-    <item>
-      <title>Analysis of Synergistic Drivers of CO2 and NOX Emissions from Thermal Power Generating Units in Beijing-Tianjin-Hebei, 2010-2020</title>
-      <link>https://doi.org/10.20944/preprints202408.0134.v1</link>
-      <description>Yaolin Wang, Zilin Yuan, Haixu Zhang, Qingsong Guan, Shengxiang Rao, Chunlai Jiang, Zhongxia Duan, No host. None(None)] 2024. https://openalex.org/W4401589512
-
-                Synergistic control of emissions of air pollutants and CO2 is critical to the dual challenges of air quality improvement and climate change in China. Based on the emission inventories of thermal power units in Beijing, Tianjin, and Hebei, this study analyzes the CO2 and NOX emission characteristics of these units, identifies and quantifies the synergistic drivers affecting these emission trends. Inventory data show that between 2010 and 2020, NOX emissions were reduced by 86.1%, while CO2 emissions were reduced by only 29.8%. Although significant progress has been made in reducing NOX emissions through measures such as end-of-pipe treatment, controlling CO2 emissions remains a difficult task. The index decomposition analysis reveals that economic growth is the main driver of CO2 and NOx emission growth, energy intensity reduction is the main driver of CO2 emission reduction, and end-of-pipe treatment is the main driver of NOX emission reduction. Currently, coal occupies about 87% of the energy consumption of thermal power units in the Beijing-Tianjin-Hebei, and remains the main type of energy for synergistic emissions, and the potential for emission reduction in the energy structure remains huge. For NOX emissions, it is expected that 90% of the reduction potential can be achieved through energy restructuring and end-of-pipe treatment. In conclusion, the high-precision unit-by-unit emission study confirms the effectiveness of the control policy for thermal power units in the region and provides some scientific reference for future policy formulation.</description>
-      <author>Yaolin Wang, Zilin Yuan, Haixu Zhang, Qingsong Guan, Shengxiang Rao, Chunlai Jiang, Zhongxia Duan</author>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20944/preprints202408.0134.v1</guid>
     </item>
     <item>
       <title>Research on Tool Wear and Machining Characteristics of TC6 Titanium Alloy with Cryogenic Minimum Quantity Lubrication (CMQL) Technology</title>
@@ -638,16 +598,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01141123mtgabs</guid>
     </item>
     <item>
-      <title>(Invited) Novel High Entropy Perovskite Oxides for High-Performance Protonic Ceramic Electrochemical Cells</title>
-      <link>https://doi.org/10.1149/ma2024-01372183mtgabs</link>
-      <description>Jianhua Tong, Minda Zou, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401695637
-
-                Due to the intermediate operating temperatures (400-600 o C), protonic ceramic electrochemical cells have attracted significant attention in the last 10 years because of the demonstration of potential applications of fuel-flexible fuel cells, water electrolysis to produce hydrogen, solid-state ammonia synthesis, electrochemical reduction of carbon dioxide to fuels, and fuel processing (e.g., natural gas to liquids). In addition to developing specific fuel electrodes for different electrocatalytic reactions, we need to discover new electrolyte and oxygen electrode materials generically for all the protonic ceramic electrochemical cells to further decrease the operating temperatures, increase performance, and prolong the long-term stability. The recently emerging materials of high entropy perovskite oxides have been reported to be able to serve as promising electrolyte and oxygen electrode materials. In this talk, we will summarize what Clemson University has done about developing, characterizing, understanding, and demonstrating high entropy perovskite oxides as high-performance and stable electrolyte and oxygen electrode materials for protonic ceramic electrochemical cells.</description>
-      <author>Jianhua Tong, Minda Zou</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372183mtgabs</guid>
-    </item>
-    <item>
       <title>Direct Air Capture: Economy and Technical Cost of Low-Purity CO2 on Post-Capture Operating Cost</title>
       <link>https://doi.org/10.4314/fuoyejet.v9i2.19</link>
       <description>Luqman K. Abidoye, FUOYE Journal of Engineering and Technology. 9(2)] 2024. https://openalex.org/W4401611181
@@ -666,6 +616,16 @@
       <author>Shiqing Huang, F K Lin, Shitao Wang, Xiaofei Zeng, Hao Ling, Xiayi Hu, Zhigang Shen, Dapeng Cao</author>
       <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202407974</guid>
+    </item>
+    <item>
+      <title>(Invited) Novel High Entropy Perovskite Oxides for High-Performance Protonic Ceramic Electrochemical Cells</title>
+      <link>https://doi.org/10.1149/ma2024-01372183mtgabs</link>
+      <description>Jianhua Tong, Minda Zou, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401695637
+
+                Due to the intermediate operating temperatures (400-600 o C), protonic ceramic electrochemical cells have attracted significant attention in the last 10 years because of the demonstration of potential applications of fuel-flexible fuel cells, water electrolysis to produce hydrogen, solid-state ammonia synthesis, electrochemical reduction of carbon dioxide to fuels, and fuel processing (e.g., natural gas to liquids). In addition to developing specific fuel electrodes for different electrocatalytic reactions, we need to discover new electrolyte and oxygen electrode materials generically for all the protonic ceramic electrochemical cells to further decrease the operating temperatures, increase performance, and prolong the long-term stability. The recently emerging materials of high entropy perovskite oxides have been reported to be able to serve as promising electrolyte and oxygen electrode materials. In this talk, we will summarize what Clemson University has done about developing, characterizing, understanding, and demonstrating high entropy perovskite oxides as high-performance and stable electrolyte and oxygen electrode materials for protonic ceramic electrochemical cells.</description>
+      <author>Jianhua Tong, Minda Zou</author>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372183mtgabs</guid>
     </item>
     <item>
       <title>Synthesis of Multi-Metallic Alloy Nanoparticles and Electrochemical Applications on CO&lt;sub&gt;2&lt;/sub&gt; Conversion and Hydrogen Evolution Reaction</title>
@@ -698,14 +658,14 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01241403mtgabs</guid>
     </item>
     <item>
-      <title>Modeling the Optimal Transition of an Urban Neighborhood towards an Energy Community and a Positive Energy District</title>
-      <link>https://doi.org/10.3390/en17164047</link>
-      <description>Diego Viesi, Gregorio Borelli, Silvia Ricciuti, Giovanni Pernigotto, Md Shahriar Mahbub, Energies. 17(16)] 2024. https://openalex.org/W4401618776
+      <title>Synergistic Effects of the Electric Field Induced by Imidazolium Rotation and Hydrogen Bonding in Electrocatalysis of CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/jacs.4c05172</link>
+      <description>Oguz Kagan Coskun, Zeynep Bagbudar, Vaishali Khokhar, Saudagar Dongare, Robert E. Warburton, Burcu Gurkan, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4401618125
 
-                Building renovation is a key initiative to promote energy efficiency, the integration of renewable energy sources (RESs), and a reduction in CO2 emissions. Supporting these goals, emerging research is dedicated to energy communities and positive energy districts. In this work, an urban neighborhood of six buildings in Trento (Italy) is considered. Firstly, the six buildings are modeled with the Urban Modeling Interface tool to evaluate the energy performances in 2024 and 2050, also accounting for the different climatic conditions for these two time periods. Energy demands for space heating, domestic hot water, space cooling, electricity, and transport are computed. Then, EnergyPLAN coupled with a multi-objective evolutionary algorithm is used to investigate 12 different energy decarbonization scenarios in 2024 and 2050 based on different boundaries for RESs, energy storage, hydrogen, energy system integration, and energy community incentives. Two conflicting objectives are considered: cost and CO2 emission reductions. The results show, on the one hand, the key role of sector coupling technologies such as heat pumps and electric vehicles in exploiting local renewables and, on the other hand, the higher costs in introducing both electricity storage to approach complete decarbonization and hydrogen as an alternative strategy in the electricity, thermal, and transport sectors. As an example of the quantitative valuable finding of this work, in scenario S1 &#8220;all sectors and EC incentive&#8221; for the year 2024, a large reduction of 55% of CO2 emissions with a modest increase of 11% of the total annual cost is identified along the Pareto front.</description>
-      <author>Diego Viesi, Gregorio Borelli, Silvia Ricciuti, Giovanni Pernigotto, Md Shahriar Mahbub</author>
+                The roles of the ionic liquid (IL), 1-ethyl-3-methylimidazolium tetrafluoroborate ([EMIM][BF4]), and water in controlling the mechanism, energetics, and electrocatalytic activity of CO2 reduction to CO on silver in nonaqueous electrolytes were investigated. The first electron transfer occurs to CO2 at reduced overpotentials when it is trapped between the planes of the [EMIM]+ ring and the electrode surface due to cation reorientation as determined from voltammetry, in situ surface-enhanced Raman spectroscopy, and density functional theory calculations. Within this interface, water up to 0.5 M does not induce significant Faradaic activity, opposing the notion of it being a free proton source. Instead, water acts as a hydrogen bond donor, and the proton is sourced from [EMIM]+. Furthermore, this study demonstrates that alcohols with varying acidities tune the hydrogen bonding network in the interfacial microenvironment to lower the energetics required for CO2 reduction. The hydrogen bonding suppresses the formation of inactive carboxylate species, thus preserving the catalytic activity of [EMIM]+. The ability to tune the hydrogen bonding network opens new avenues for advancing IL-mediated electrocatalytic reactions in nonaqueous electrolytes.</description>
+      <author>Oguz Kagan Coskun, Zeynep Bagbudar, Vaishali Khokhar, Saudagar Dongare, Robert E. Warburton, Burcu Gurkan</author>
       <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17164047</guid>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c05172</guid>
     </item>
     <item>
       <title>Boosted Solar Thermochemical Low&#8208;temperature CO2 Splitting On Pt/CeO2 By Interface Catalysis</title>
@@ -718,14 +678,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401295</guid>
     </item>
     <item>
-      <title>Integrated Experiment-Theory Framework for Studying Mass Transport Effects in Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Copper</title>
-      <link>https://doi.org/10.1149/ma2024-01372150mtgabs</link>
-      <description>Jesse E. Matthews, Nitish Govindarajan, Joel B. Varley, Jack Guo, Victoria M. Ehlinger, Thomas Roy, An Chu, Ara Cho, Flemming Pedersen, Michal Bajdich, Dong Un Lee, Tao Lin, Christopher Hahn, Thomas F. Jaramillo, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401698404
+      <title>Modeling the Optimal Transition of an Urban Neighborhood towards an Energy Community and a Positive Energy District</title>
+      <link>https://doi.org/10.3390/en17164047</link>
+      <description>Diego Viesi, Gregorio Borelli, Silvia Ricciuti, Giovanni Pernigotto, Md Shahriar Mahbub, Energies. 17(16)] 2024. https://openalex.org/W4401618776
 
-                Electrochemical carbon dioxide reduction (eCO 2 R) has emerged as a promising approach to produce high-value fuels and chemicals using renewable energy sources. In particular, Cu catalysts can convert CO 2 to a wide range of hydrocarbon and oxygenate products, including CO, formate, ethanol and ethylene. However, the activity and selectivity of eCO 2 R is highly dependent on mass transport and the corresponding reaction microenvironment present under operating conditions. In this talk, we present an integrated framework that combines experiments with computational fluid dynamics (CFD) and density functional theory (DFT) based microkinetic modeling to predict the effect of varying mass transport on eCO 2 R in a custom-designed flow cell. The flow cell is designed with multiple electrolyte jets impinging onto the electrocatalyst surface for rapid and homogeneous reactant transport. We first demonstrate the effect of mass transport in a flow cell architecture by controlling the flow rate of CO 2 -saturated 0.1 M KHCO 3 to a Cu electrocatalyst. Significant increases in the production rates of formate and CO are observed with increasing flow rate, as well as an enhancement in multi-carbon products at high overpotentials. Increasing flow rate promotes hydrogen evolution at low overpotentials but has little effect at large overpotentials, suggesting a transition from HCO 3 - to water as the dominant proton donor with increasing overpotential. CFD simulations are employed to model the distribution of boundary layer thicknesses within the flow cell, which subsequently set the boundary conditions for the coupled 1D transport-microkinetic model. The calculated boundary layer thickness values are corroborated by experimentally measured transport-limited currents. Our model successfully predicts experimentally observed trends in selectivity with mass transport, such as an increase in the production of ethylene and ethanol at high flow rates due to enhanced CO 2 transport. The slight suppression of hydrogen reduction at higher flow rates due to an increase in *CO coverage is also predicted and supported by experimental results. This work demonstrates the importance of incorporating transport processes in the CFD-DFT coupled modeling of device performance for electrochemical CO 2 reduction. This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. LLNL release number: LLNL-ABS-857566.</description>
-      <author>Jesse E. Matthews, Nitish Govindarajan, Joel B. Varley, Jack Guo, Victoria M. Ehlinger, Thomas Roy, An Chu, Ara Cho, Flemming Pedersen, Michal Bajdich, Dong Un Lee, Tao Lin, Christopher Hahn, Thomas F. Jaramillo</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372150mtgabs</guid>
+                Building renovation is a key initiative to promote energy efficiency, the integration of renewable energy sources (RESs), and a reduction in CO2 emissions. Supporting these goals, emerging research is dedicated to energy communities and positive energy districts. In this work, an urban neighborhood of six buildings in Trento (Italy) is considered. Firstly, the six buildings are modeled with the Urban Modeling Interface tool to evaluate the energy performances in 2024 and 2050, also accounting for the different climatic conditions for these two time periods. Energy demands for space heating, domestic hot water, space cooling, electricity, and transport are computed. Then, EnergyPLAN coupled with a multi-objective evolutionary algorithm is used to investigate 12 different energy decarbonization scenarios in 2024 and 2050 based on different boundaries for RESs, energy storage, hydrogen, energy system integration, and energy community incentives. Two conflicting objectives are considered: cost and CO2 emission reductions. The results show, on the one hand, the key role of sector coupling technologies such as heat pumps and electric vehicles in exploiting local renewables and, on the other hand, the higher costs in introducing both electricity storage to approach complete decarbonization and hydrogen as an alternative strategy in the electricity, thermal, and transport sectors. As an example of the quantitative valuable finding of this work, in scenario S1 &#8220;all sectors and EC incentive&#8221; for the year 2024, a large reduction of 55% of CO2 emissions with a modest increase of 11% of the total annual cost is identified along the Pareto front.</description>
+      <author>Diego Viesi, Gregorio Borelli, Silvia Ricciuti, Giovanni Pernigotto, Md Shahriar Mahbub</author>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/en17164047</guid>
     </item>
     <item>
       <title>Theoretical Investigation of the Adsorbate and Potential-Induced Stability of Cu Facets during Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; and CO Reduction</title>
@@ -736,6 +696,16 @@
       <author>Joel B. Varley, Henry Yu, Nitish Govindarajan, Stephen E. Weitzner, Sneha A. Akhade</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372157mtgabs</guid>
+    </item>
+    <item>
+      <title>Integrated Experiment-Theory Framework for Studying Mass Transport Effects in Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Copper</title>
+      <link>https://doi.org/10.1149/ma2024-01372150mtgabs</link>
+      <description>Jesse E. Matthews, Nitish Govindarajan, Joel B. Varley, Jack Guo, Victoria M. Ehlinger, Thomas Roy, An Chu, Ara Cho, Flemming Pedersen, Michal Bajdich, Dong Un Lee, Tao Lin, Christopher Hahn, Thomas F. Jaramillo, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401698404
+
+                Electrochemical carbon dioxide reduction (eCO 2 R) has emerged as a promising approach to produce high-value fuels and chemicals using renewable energy sources. In particular, Cu catalysts can convert CO 2 to a wide range of hydrocarbon and oxygenate products, including CO, formate, ethanol and ethylene. However, the activity and selectivity of eCO 2 R is highly dependent on mass transport and the corresponding reaction microenvironment present under operating conditions. In this talk, we present an integrated framework that combines experiments with computational fluid dynamics (CFD) and density functional theory (DFT) based microkinetic modeling to predict the effect of varying mass transport on eCO 2 R in a custom-designed flow cell. The flow cell is designed with multiple electrolyte jets impinging onto the electrocatalyst surface for rapid and homogeneous reactant transport. We first demonstrate the effect of mass transport in a flow cell architecture by controlling the flow rate of CO 2 -saturated 0.1 M KHCO 3 to a Cu electrocatalyst. Significant increases in the production rates of formate and CO are observed with increasing flow rate, as well as an enhancement in multi-carbon products at high overpotentials. Increasing flow rate promotes hydrogen evolution at low overpotentials but has little effect at large overpotentials, suggesting a transition from HCO 3 - to water as the dominant proton donor with increasing overpotential. CFD simulations are employed to model the distribution of boundary layer thicknesses within the flow cell, which subsequently set the boundary conditions for the coupled 1D transport-microkinetic model. The calculated boundary layer thickness values are corroborated by experimentally measured transport-limited currents. Our model successfully predicts experimentally observed trends in selectivity with mass transport, such as an increase in the production of ethylene and ethanol at high flow rates due to enhanced CO 2 transport. The slight suppression of hydrogen reduction at higher flow rates due to an increase in *CO coverage is also predicted and supported by experimental results. This work demonstrates the importance of incorporating transport processes in the CFD-DFT coupled modeling of device performance for electrochemical CO 2 reduction. This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. LLNL release number: LLNL-ABS-857566.</description>
+      <author>Jesse E. Matthews, Nitish Govindarajan, Joel B. Varley, Jack Guo, Victoria M. Ehlinger, Thomas Roy, An Chu, Ara Cho, Flemming Pedersen, Michal Bajdich, Dong Un Lee, Tao Lin, Christopher Hahn, Thomas F. Jaramillo</author>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372150mtgabs</guid>
     </item>
     <item>
       <title>Factors driving reduction in CO &lt;sub&gt;2&lt;/sub&gt; emissions from personal travel: A repeated cross-sectional analysis</title>
@@ -758,24 +728,24 @@
       <guid isPermaLink="true">https://doi.org/10.31435/rsglobal_ijite/30092024/8211</guid>
     </item>
     <item>
-      <title>Determination of the Diffusion Coefficients of Binary CH4 and C2H6 in a Supercritical CO2 Environment (500&#8211;2000 K and 100&#8211;1000 atm) by Molecular Dynamics Simulations</title>
-      <link>https://doi.org/10.3390/en17164028</link>
-      <description>Chun&#8208;Hung Wang, K. R. V. Manikantachari, Art&#235;m E. Masunov, Subith Vasu, Energies. 17(16)] 2024. https://openalex.org/W4401584565
+      <title>CHARACTERISATION OF EGG WHITE-IMPREGNATED ACTIVATED CARBON FOR CO2 ADSORPTION APPLICATION</title>
+      <link>https://doi.org/10.22452/mjs.vol43sp1.4</link>
+      <description>Nur Syahirah Mohamed Hatta, Farihahusnah Hussin, Lai Ti Gew, Mohamed Kheireddine Aroua, Malaysian Journal of Science. 43(sp1)] 2024. https://openalex.org/W4401717203
 
-                The self-diffusion coefficients of carbonaceous fuels in a supercritical CO2 environment provide transport information that can help us understand the Allam Cycle mechanism at a high pressure of 300 atm. The diffusion coefficients of pure CO2 and binary CO2/CH4 and CO2/C2H6 at high temperatures (500 K~2000 K) and high pressures (100 atm~1000 atm) are determined by molecular dynamics simulations in this study. Increasing the temperature leads to an increase in the diffusion coefficient, and increasing the pressure leads to a decrease in the diffusion coefficients for both methane and ethane. The diffusion coefficient of methane at 300 atm is approximately 0.012 cm2/s at 1000 K and 0.032 cm2/s at 1500 K. The diffusion coefficient of ethane at 300 atm is approximately 0.016 cm2/s at 1000 K and 0.045 cm2/s at 1500 K. The understanding of diffusion coefficients potentially leads to the reduction in fuel consumption and minimization of greenhouse gas emissions in the Allam Cycle.</description>
-      <author>Chun&#8208;Hung Wang, K. R. V. Manikantachari, Art&#235;m E. Masunov, Subith Vasu</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17164028</guid>
+                In this study egg white was used as a source of natural amino acids to modify the surface properties of palm shell activated carbon towards enhancing its CO2 capture performance. A simple impregnation method was employed for this purpose. Characterisation analysis was performed on the egg white-impregnated activated carbon to examine any changes on its surface properties prior to CO2 adsorption test. The modified adsorbent showed high thermal stability below 300&#176;C and comprised of new amide functional group. Furthermore, the modified adsorbent exhibited 31% higher breakthrough time and maintained its CO2 adsorption capacity at 0.3 mmol/g in comparison to raw activated carbon, regardless of the reduction of surface area and micropore volume by 17% and 18% respectively. These findings provide evidence on the prospect of egg white-impregnated activated carbon for CO2 adsorption application which could pave the way for a new generation of affordable and eco-friendly adsorbents.</description>
+      <author>Nur Syahirah Mohamed Hatta, Farihahusnah Hussin, Lai Ti Gew, Mohamed Kheireddine Aroua</author>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22452/mjs.vol43sp1.4</guid>
     </item>
     <item>
-      <title>Environmental Policies and Countermeasures for the Phase-Out of Ozone-Depleting Substances (ODSs) over the Last 30 Years: A Case Study in Taiwan</title>
-      <link>https://doi.org/10.3390/atmos15080961</link>
-      <description>Wen&#8208;Tien Tsai, Atmosphere. 15(8)] 2024. https://openalex.org/W4401583992
+      <title>CO&lt;sub&gt;2&lt;/sub&gt; Conversion to Butene via a Tandem Photovoltaic&#8211;Electrochemical/Photothermocatalytic Process: A Co-design Approach to Coupled Microenvironments</title>
+      <link>https://doi.org/10.1021/acsenergylett.4c01866</link>
+      <description>Kyra M. K. Yap, Aisulu Aitbekova, Matthew Salazar, Tobias A. Kistler, Melanie Rodr&#237;guez Pab&#243;n, Magel P. Su, Nicholas B. Watkins, Sang&#8208;Won Lee, Peter Agbo, Adam Z. Weber, Jonas C. Peters, Theodor Agapie, Adam C. Nielander, Harry A. Atwater, Thomas F. Jaramillo, Alexis T. Bell, ACS Energy Letters. None(None)] 2024. https://openalex.org/W4401607429
 
-                It is well established that the reaction cycles involving some halogenated alkanes (so-called ozone-depleting substances&#8212;ODSs) contribute to the depletion of ozone in the stratosphere, prompting the Montreal Protocol (initially signed in 1987), and later amendments. The Protocol called for the scheduled phase-out of ODSs, including chlorofluorocarbons (CFCs), hydrochlorofluorocarbons (HCFCs), carbon tetrachloride (CCl4), halon, methyl chloroform (CH3CCl3), methyl chloride (CH3Cl), and even hydrofluorocarbons (HFCs). In view of the urgent importance of ozone layer protection to the global ecological environment, the Taiwanese government has taken regulatory actions to reduce ODS consumption since 1993, through the joint venture of the central competent authorities. Under the government&#8217;s regulatory requirements, and the industry&#8217;s efforts to adopt both alternatives to ODSs and abatement technologies, the phase-out of some ODSs (i.e., CFCs, CCl4, halon, and CH3CCl3) was achieved prior to 2010. The consumption of HCFCs and methyl chloride has significantly declined over the past three decades (1993&#8211;2022). However, HFC emissions indicated a V-type variation during this period. Due to local production and extensive use of HFCs in Taiwan, the country&#8217;s emissions increased from 663 kilotons of carbon dioxide equivalents (CO2eq) in 1993 to 2330 kilotons of CO2eq in 2001, and then decreased to 373 kilotons of CO2eq in 2011. Since then, the emissions of HFCs largely used as the alternatives to ODSs showed an upward trend, increasing to 1555 kilotons of CO2eq in 2022. To be in compliance with the Kigali Amendment (KA-2015) to the Montreal Protocol for mitigating global warming, the Taiwanese government has taken regulatory actions to reduce the consumption of some HFC substances with high global warming potential (GWP) under the authorization of the Climate Change Response Act in 2023, aiming at an 80% reduction by 2045 of the baseline consumption in 2024.</description>
-      <author>Wen&#8208;Tien Tsai</author>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/atmos15080961</guid>
+                We developed a tandem, unassisted, solar-driven electrochemical and photothermocatalytic process for the single-pass conversion of CO2 to butene using only simulated solar irradiation as the energetic input. The two-step process involves electrochemical CO2 reduction (CO2R) to ethylene followed by ethylene dimerization to butene. We assessed two unassisted electrochemical setups to concentrate ethylene in the CO2R reactor, achieving concentrations up to 5.4 vol% with 1.8% average solar-to-ethylene conversion and 5.6% average CO2-to-ethylene single-pass conversion under 1-sun illumination. When the effluent electrochemical gas stream was passed through the photothermocatalytic ethylene oligomerization reactor, we generated 600 ppm of butene under 3-sun illumination. Through analysis of this process, we identified that the presence of H2, CO, and H2O leads to rapid deactivation of the Ni-based ethylene oligomerization catalyst.</description>
+      <author>Kyra M. K. Yap, Aisulu Aitbekova, Matthew Salazar, Tobias A. Kistler, Melanie Rodr&#237;guez Pab&#243;n, Magel P. Su, Nicholas B. Watkins, Sang&#8208;Won Lee, Peter Agbo, Adam Z. Weber, Jonas C. Peters, Theodor Agapie, Adam C. Nielander, Harry A. Atwater, Thomas F. Jaramillo, Alexis T. Bell</author>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c01866</guid>
     </item>
     <item>
       <title>Minimize Energy Consumption of CO&lt;sub&gt;2&lt;/sub&gt; Release in a Flow Electrolyzer By Optimizing Direct Air Capture Solvents</title>
@@ -788,6 +758,16 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01271447mtgabs</guid>
     </item>
     <item>
+      <title>Sustainable tourism in the Tremiti Islands (South Italy)</title>
+      <link>https://doi.org/10.1038/s41598-024-70171-6</link>
+      <description>Francesca Ranieri, Gianfranco D&#8217;Onghia, Antonio Felice Uricchio, Ranieri Ada Cristina, Luigi Lopopolo, Ezio Ranieri, Scientific Reports. 14(1)] 2024. https://openalex.org/W4401633551
+
+                An analysis of the pressure factors that influence the sustainable tourism in the Tremiti Islands (TI) has been performed. Tourist's fluxes have been investigated in terms of monthly arrival and presences showing a high value of the territorial exploitation index with high number of arrivals, particularly in August, and low occupancy rate. Effects of climatic change has been analyzed in TI with reference to the increase of average air and sea temperature in the islands. Some measures of contrast to climate change and to favour sustainable tourism have been discussed also. The CO2 emissions by ferries transport, solid waste and wastewater treatment have been calculated. Environmental taxation for sustainable tourism aimed tat CO2 content reduction is also assessed identifying the value in 1.47 &#8364;/capita on the basis of the tourist arrivals and presences considering the environmental cost for CO2 removal and showing that tourism taxation should be well accepted if funds are destined to environmental purposes.</description>
+      <author>Francesca Ranieri, Gianfranco D&#8217;Onghia, Antonio Felice Uricchio, Ranieri Ada Cristina, Luigi Lopopolo, Ezio Ranieri</author>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-70171-6</guid>
+    </item>
+    <item>
       <title>Electrochemical Conversion of Bicarbonate Using Proton Exchange Membrane-Based Electrolyzer</title>
       <link>https://doi.org/10.1149/ma2024-01372169mtgabs</link>
       <description>Hui&#8208;Yun Jeong, Christopher Hahn, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401695850
@@ -798,34 +778,14 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372169mtgabs</guid>
     </item>
     <item>
-      <title>Prediction of building carbon emission based on grey Markov theory</title>
-      <link>https://doi.org/10.54254/2753-8818/40/20240222</link>
-      <description>Chenhao Zhao, Theoretical and Natural Science. 40(1)] 2024. https://openalex.org/W4401589743
-
-                The increase in carbon emissions in the construction industry is one of the factors that lead to environmental problems and hinder the sustainable development of society and the construction industry. Therefore, there is an urgent need to rationally control carbon emissions by formulating scientific and effective energy-saving and emission reduction policies so as to safeguard the development of the industry. However, because of the uncertainty and complexity of CO2 emissions, more reliable prediction and assessment tools are needed to comprehensively analyze and predict CO2 emissions. This study combines the gray system theory and Markov principle to give full play to the advantages of the two methods, using Markov theory to determine the state transition probability, find out the characteristics of carbon emissions in the construction industry, and form a suitable gray Markov prediction model. The feasibility of the prediction model is demonstrated by calculating and examining the prediction model using data related to carbon emissions from the U.S. buildings from 2002 to 2022, which greatly improves the accuracy of CO2 emissions prediction.</description>
-      <author>Chenhao Zhao</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54254/2753-8818/40/20240222</guid>
-    </item>
-    <item>
       <title>Degradation of biorefractory compounds by anodic oxidation on Magn&#233;li phase and electro-Fenton process </title>
       <link>https://doi.org/10.21203/rs.3.rs-4773662/v1</link>
-      <description>Imane Ouagued, Stella Lacour, Eddy Petit, A. Djafer, Abdellah Ouagued, Marc Cretin, No host. None(None)] 2024. https://openalex.org/W4401647924
+      <description>Imane Ouagued, Stella Lacour, Eddy Petit, A. Djafer, Abdellah Ouagued, Marc Cretin, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4401647924
 
                 Abstract The degradation of Rhodamine B (RhB) was studied using advanced electrochemical oxidation processes (EAOP): electro-Fenton (EF), anodic oxidation (AO) and electro-Fenton coupled with anodic oxidation (EF/AO) on a carbon felt (CF) cathode paired with either a sub-stoichiometric titanium dioxide Magn&#233;li phase (Ti4O7) anode or a platinized titanium (Ti/Pt) anode. The study revealed that operating conditions significantly impacted the kinetics of electrochemical reactions. Increasing the current density from 10 to 50 mA cm&#8722; 2 significantly accelerated the degradation of RhB, with 30 mA cm&#8722; 2 identified as the optimal current density, balancing energy consumption and degradation efficiency. The RhB concentration also influenced the degradation kinetics: higher concentrations required longer treatment times. The EF/AO coupling process proved particularly effective in degrading higher concentrations of RhB. Toxicity evaluation using the Microtox&#174; bioluminescence inhibition test showed reduced toxicity during the electrochemical degradation of the pollutant, with EF/AO presenting the most significant reduction. The EF/AO coupling also demonstrated superior total organic carbon (TOC) removal, reaching 90% at pH 3 compared to EF and AO alone, suggesting efficient mineralization of RhB and its by-products. Energy consumption (EC) remained relatively stable across all processes during a 480 min electrolysis period. High-resolution mass spectrometry confirmed the degradation pathways of RhB, involving chain oxidation reactions leading to the formation of intermediate products and mineralization to CO2 and H2O. This study demonstrates the potential of EF, AO and EF/AO coupling as effective methods for mineralizing Rhodamine B (RhB) from wastewater, contributing to sustainable and environmentally friendly wastewater treatment strategies.</description>
       <author>Imane Ouagued, Stella Lacour, Eddy Petit, A. Djafer, Abdellah Ouagued, Marc Cretin</author>
       <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4773662/v1</guid>
-    </item>
-    <item>
-      <title>(Invited) First Principles Treatments of Heterogeneous Electrocatalysis &#8211; Reactivity Trends and Electrocatalyst Structure</title>
-      <link>https://doi.org/10.1149/ma2024-01452553mtgabs</link>
-      <description>Ankita Morankar, Siddharth Deshpande, Gaurav Deshmukh, Pushkar Ghanekar, Zhenhua Zeng, Jeffrey Greeley, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(45)] 2024. https://openalex.org/W4401697609
-
-                Advances in the theoretical understanding of electrochemical systems have, over the past decade, led to growing use of periodic Density Functional Theory studies to treat a surprisingly large ensemble of electrocatalytic reactions, ranging from carbon dioxide electroreduction to oxygen evolution. Many such studies have employed simplified models of the electrochemical environment to determine reactivity trends across a broad space of catalytic materials, while other efforts have focused on developing detailed descriptions of electrochemical phenomena, such as the structure of electrochemical double layers, on model catalyst structures. An emerging challenge is to combine these approaches to ultimately enable theoretical design of electrocatalysts for reactions of significantly expanded chemical and materials complexity. In this talk, I will begin by discussing how we have applied strategies from computational heterogeneous catalysis to design enhanced electrocatalysts for the classic oxygen reduction reaction. In such treatments, we have effected highly detailed analyses of the catalyst surface structure and have employed machine learning-based methods to describe interactions between the various ORR reaction intermediates that are present at significant surface coverages. I will then explore challenges in obtaining more detailed descriptions of the electrocatalytic reaction environment, including the structure of catalysts with solid/solid interfaces, the distribution of charges in electrochemical double layers, and the structure and entropy of solvents near the electrocatalyst surface. I will conclude with some perspectives on how these complexities may be incorporated into traditional computational catalyst screening approaches to identify improved materials for more complex electrocatalytic systems.</description>
-      <author>Ankita Morankar, Siddharth Deshpande, Gaurav Deshmukh, Pushkar Ghanekar, Zhenhua Zeng, Jeffrey Greeley</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01452553mtgabs</guid>
     </item>
     <item>
       <title>(Invited) Probing Electrolysis Interfacial Chemistry: From Well-Defined to Complex Interfaces Under in Situ and Operando Conditions Using Ambient Pressure XPS</title>
@@ -836,6 +796,16 @@
       <author>Ethan J. Crumlin</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01351978mtgabs</guid>
+    </item>
+    <item>
+      <title>(Invited) First Principles Treatments of Heterogeneous Electrocatalysis &#8211; Reactivity Trends and Electrocatalyst Structure</title>
+      <link>https://doi.org/10.1149/ma2024-01452553mtgabs</link>
+      <description>Ankita Morankar, Siddharth Deshpande, Gaurav Deshmukh, Pushkar Ghanekar, Zhenhua Zeng, Jeffrey Greeley, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(45)] 2024. https://openalex.org/W4401697609
+
+                Advances in the theoretical understanding of electrochemical systems have, over the past decade, led to growing use of periodic Density Functional Theory studies to treat a surprisingly large ensemble of electrocatalytic reactions, ranging from carbon dioxide electroreduction to oxygen evolution. Many such studies have employed simplified models of the electrochemical environment to determine reactivity trends across a broad space of catalytic materials, while other efforts have focused on developing detailed descriptions of electrochemical phenomena, such as the structure of electrochemical double layers, on model catalyst structures. An emerging challenge is to combine these approaches to ultimately enable theoretical design of electrocatalysts for reactions of significantly expanded chemical and materials complexity. In this talk, I will begin by discussing how we have applied strategies from computational heterogeneous catalysis to design enhanced electrocatalysts for the classic oxygen reduction reaction. In such treatments, we have effected highly detailed analyses of the catalyst surface structure and have employed machine learning-based methods to describe interactions between the various ORR reaction intermediates that are present at significant surface coverages. I will then explore challenges in obtaining more detailed descriptions of the electrocatalytic reaction environment, including the structure of catalysts with solid/solid interfaces, the distribution of charges in electrochemical double layers, and the structure and entropy of solvents near the electrocatalyst surface. I will conclude with some perspectives on how these complexities may be incorporated into traditional computational catalyst screening approaches to identify improved materials for more complex electrocatalytic systems.</description>
+      <author>Ankita Morankar, Siddharth Deshpande, Gaurav Deshmukh, Pushkar Ghanekar, Zhenhua Zeng, Jeffrey Greeley</author>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01452553mtgabs</guid>
     </item>
     <item>
       <title>Rational Design and Synthesis of CO&lt;sub&gt;2 &lt;/sub&gt; Reduction Reaction Catalysts of High Faradaic Efficiency Toward C&lt;sub&gt;2&lt;/sub&gt; &lt;sup&gt;+&lt;/sup&gt; Chemical Conversions</title>
@@ -858,6 +828,16 @@
       <guid isPermaLink="true">https://doi.org/10.29183/2447-3073.mix2024.v10.n3.195-211</guid>
     </item>
     <item>
+      <title>The carbon emission reduction effect of China&#8217;s national high-tech industrial development zones</title>
+      <link>https://doi.org/10.1038/s41598-024-69753-1</link>
+      <description>Zhong Shen, Yaqian Wu, Junzhi Li, Scientific Reports. 14(1)] 2024. https://openalex.org/W4401654987
+
+                The double carbon goal is a wide and profound economic and social systematic change. It is also crucial to China's sustainable development. How to promote emission reduction, the National High-Tech Industrial Development Zones(NHTDZs) policy is the key to addressing this problem. Based on urban data from 2003 to 2019 from China, this paper uses the multi-time point asymptotic difference method to explore the impact of the NHTDZs establishment on carbon emissions. The establishment of NHTDZs reduces CO2 emissions, which remains valid through robustness tests. The mechanism analysis demonstrated that the construction of NHTDZs reduces CO2 emissions by increasing innovation levels, increasing research expenditures and emphasizing human capital. Further analysis shown that geographic location, initial resource endowment, population size, and level of green finance development are difference in different cities. This provides guidance promoting the development of NHTDZs and future layout.</description>
+      <author>Zhong Shen, Yaqian Wu, Junzhi Li</author>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-69753-1</guid>
+    </item>
+    <item>
       <title>Enhancing Microkinetic Modeling for CO&lt;sub&gt;2 &lt;/sub&gt;Reduction Reaction: Integrating Electrolyte Effects</title>
       <link>https://doi.org/10.1149/ma2024-01452525mtgabs</link>
       <description>Ara Cho, Frank Ablid-Pedersen, Michal Bajdich, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(45)] 2024. https://openalex.org/W4401697323
@@ -878,16 +858,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372220mtgabs</guid>
     </item>
     <item>
-      <title>The carbon emission reduction effect of China&#8217;s national high-tech industrial development zones</title>
-      <link>https://doi.org/10.1038/s41598-024-69753-1</link>
-      <description>Zhong Shen, Yaqian Wu, Junzhi Li, Scientific Reports. 14(1)] 2024. https://openalex.org/W4401654987
-
-                The double carbon goal is a wide and profound economic and social systematic change. It is also crucial to China's sustainable development. How to promote emission reduction, the National High-Tech Industrial Development Zones(NHTDZs) policy is the key to addressing this problem. Based on urban data from 2003 to 2019 from China, this paper uses the multi-time point asymptotic difference method to explore the impact of the NHTDZs establishment on carbon emissions. The establishment of NHTDZs reduces CO2 emissions, which remains valid through robustness tests. The mechanism analysis demonstrated that the construction of NHTDZs reduces CO2 emissions by increasing innovation levels, increasing research expenditures and emphasizing human capital. Further analysis shown that geographic location, initial resource endowment, population size, and level of green finance development are difference in different cities. This provides guidance promoting the development of NHTDZs and future layout.</description>
-      <author>Zhong Shen, Yaqian Wu, Junzhi Li</author>
-      <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-69753-1</guid>
-    </item>
-    <item>
       <title>Sewage Vertical Infiltration Introduced Polygenic Multipollutants into Groundwater</title>
       <link>https://doi.org/10.3390/w16162305</link>
       <description>Yihan Dong, Yifan Han, Xu Han, Yaoxuan Chen, Yuanzheng Zhai, Water. 16(16)] 2024. https://openalex.org/W4401642880
@@ -898,6 +868,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/w16162305</guid>
     </item>
     <item>
+      <title>Performance of an All-Aqueous Thermally Regenerative Flow Battery Using CNT/Carbon Cloth Composite Electrodes</title>
+      <link>https://doi.org/10.1021/acs.iecr.4c01842</link>
+      <description>S.J. Li, Yichao An, Liang Zhang, Jun Li, Weiguang Wang, Xuhui Jiang, Peng Zou, Zhang Luo, Industrial &amp; Engineering Chemistry Research. None(None)] 2024. https://openalex.org/W4401723167
+
+                All-aqueous thermally regenerative battery (ATRB) is a promising electrochemical device for converting low-grade waste heat into electrical energy, while the low specific surface area of electrodes limits its performance. To improve the performance, the carbon nanotube/carbon cloth (CNT/CC) composite electrode with a highly specific surface area is proposed for ATRB in this study. The use of the CNT/CC composite electrodes induces a 37.4% higher maximum power density of ATRB (409.6 W/m2) compared with that of ATRB with the carbon cloth (CC) electrodes. The optimal CNT loading amount is determined to further enhance ATRB performance. Increasing the flow rate helps facilitate mass transfer, the optimal flow rate (50 mL/min) is selected considering the influence of the hydrodynamic loss. Concerning the expend application, a series stack of ATRB is constructed to successfully drive an electrochemical CO2 reduction device, resulting in a comparable Faraday efficiency for the conversion of CO2 to CO.</description>
+      <author>S.J. Li, Yichao An, Liang Zhang, Jun Li, Weiguang Wang, Xuhui Jiang, Peng Zou, Zhang Luo</author>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c01842</guid>
+    </item>
+    <item>
       <title>Production of eco-friendly high-performance mortar with the addition of iron ore tailings</title>
       <link>https://doi.org/10.29183/2596-237x.ensus2024.v12.n1.p540-549</link>
       <description>Abner Ara&#250;jo Fajardo, Silvia Roberta Souza, Jordana G Macedo, Vinicius Ferreira Lanna, White Jos&#233; dos Santos, No host. None(None)] 2024. https://openalex.org/W4401630600
@@ -906,26 +886,6 @@
       <author>Abner Ara&#250;jo Fajardo, Silvia Roberta Souza, Jordana G Macedo, Vinicius Ferreira Lanna, White Jos&#233; dos Santos</author>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.29183/2596-237x.ensus2024.v12.n1.p540-549</guid>
-    </item>
-    <item>
-      <title>Dual&#8208;metal sites drive tandem electrocatalytic CO2 to C2+ products</title>
-      <link>https://doi.org/10.1002/anie.202412568</link>
-      <description>Guangwen Xie, Weiwei Guo, Zijian Fang, Zongxia Duan, Xianzhen Lang, Doudou Liu, Guoliang Mei, Yanling Zhai, Xiaofu Sun, Xiaoquan Lu, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4401580599
-
-                The electrochemical conversion of CO2 into valuable chemicals is a promising route for renowable energy storage and the mitigation of greenhouse gas emission, and production of multicarbon (C2+) products is highly desired. Here, we report a 1.4%Pd&#8208;Cu@CuPz2 comprising of dispersive CuOx and PdO dual nanoclusters embedded in the MOF CuPz2 (Pz = Pyrazole), which achieves a high C2+ Faradaic efficiency (FEC2+) of 81.9% and C2+ alcohol FE of 47.5% with remarkable stability when using 0.1 M KCl aqueous solution as electrolyte in a typical H&#8208;cell. Particularly, the FE of alcohol is obviously improved on 1.4%Pd&#8208;Cu@CuPz2 compared to Cu@CuPz2. Theoretical calculations have revealed that revealed that the enhanced interfacial electron transfer facilitates the adsorption of *CO intermediate and *CO&#8722;*CO dimerization on the Cu&#8208;Pd dual sites bridged by Cu nodes of CuPz2. Additionally, the oxophilicity of Pd can stabilize the key intermediate *CH2CHO and promote subsequent proton&#8208;coupled electron transfer more efficiently, confirming that the formation pathway is skew towards *C2H5OH. Consequently, the Cu&#8208;Pd dual sites play a synergistic tandem role in cooperatively improving the selectivity of alcohol and accelerating reductive conversion of CO2 to C2+.</description>
-      <author>Guangwen Xie, Weiwei Guo, Zijian Fang, Zongxia Duan, Xianzhen Lang, Doudou Liu, Guoliang Mei, Yanling Zhai, Xiaofu Sun, Xiaoquan Lu</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202412568</guid>
-    </item>
-    <item>
-      <title>Dual&#8208;metal sites drive tandem electrocatalytic CO2 to C2+ products</title>
-      <link>https://doi.org/10.1002/ange.202412568</link>
-      <description>Guangwen Xie, Weiwei Guo, Zijian Fang, Zongxia Duan, Xianzhen Lang, Doudou Liu, Guoliang Mei, Yanling Zhai, Xiaofu Sun, Xiaoquan Lu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401584145
-
-                The electrochemical conversion of CO2 into valuable chemicals is a promising route for renowable energy storage and the mitigation of greenhouse gas emission, and production of multicarbon (C2+) products is highly desired. Here, we report a 1.4%Pd&#8208;Cu@CuPz2 comprising of dispersive CuOx and PdO dual nanoclusters embedded in the MOF CuPz2 (Pz = Pyrazole), which achieves a high C2+ Faradaic efficiency (FEC2+) of 81.9% and C2+ alcohol FE of 47.5% with remarkable stability when using 0.1 M KCl aqueous solution as electrolyte in a typical H&#8208;cell. Particularly, the FE of alcohol is obviously improved on 1.4%Pd&#8208;Cu@CuPz2 compared to Cu@CuPz2. Theoretical calculations have revealed that revealed that the enhanced interfacial electron transfer facilitates the adsorption of *CO intermediate and *CO&#8722;*CO dimerization on the Cu&#8208;Pd dual sites bridged by Cu nodes of CuPz2. Additionally, the oxophilicity of Pd can stabilize the key intermediate *CH2CHO and promote subsequent proton&#8208;coupled electron transfer more efficiently, confirming that the formation pathway is skew towards *C2H5OH. Consequently, the Cu&#8208;Pd dual sites play a synergistic tandem role in cooperatively improving the selectivity of alcohol and accelerating reductive conversion of CO2 to C2+.</description>
-      <author>Guangwen Xie, Weiwei Guo, Zijian Fang, Zongxia Duan, Xianzhen Lang, Doudou Liu, Guoliang Mei, Yanling Zhai, Xiaofu Sun, Xiaoquan Lu</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202412568</guid>
     </item>
     <item>
       <title>Sustainable Carbon Utilization for a Climate-Neutral Economy&#8211;Framework Necessities and Assessment Criteria</title>
@@ -946,6 +906,16 @@
       <author>Karnamohit Ranka, Richard Kang, Prabhat Prakash, Soonho Kwon, Frances A. Houle, Martin Head&#8208;Gordon, William A. Goddard</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01472616mtgabs</guid>
+    </item>
+    <item>
+      <title>Simulation-based assessment of natural and mechanical ventilation solutions for renovated apartment buildings in Denmark</title>
+      <link>https://doi.org/10.1051/e3sconf/202456209003</link>
+      <description>Andreas Egholm Nielsen, Oliver Hvidtfeldt Jakobsen, Kevin Michael Smith, Jakub Kola&#345;&#237;k, E3S Web of Conferences. 562(None)] 2024. https://openalex.org/W4401717048
+
+                Many European buildings require renovation, often involving window replacements and improved airtightness, leading to increased mold risk and indoor air quality (IAQ) issues. Solutions include adjustable air inlets with mechanical exhaust or balanced heat recovery ventilation. Using building performance simulations, we studied control strategies for renovated apartment building with natural or mechanical ventilation. CO2 - controlled air inlets proved most effective for IAQ and energy reduction. In different apartment positions, air inlet performance varied based on available stack effect. Mechanical exhaust cases were less affected by airtightness changes. Altogether, the mechanical ventilation was more robust, but all strategies were sensitive to closed doors.</description>
+      <author>Andreas Egholm Nielsen, Oliver Hvidtfeldt Jakobsen, Kevin Michael Smith, Jakub Kola&#345;&#237;k</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202456209003</guid>
     </item>
     <item>
       <title>Influence of Carbon Nanotube Support on Electrochemical Nitrate Reduction Catalyzed by a Cobalt Complex</title>
@@ -998,6 +968,16 @@
       <guid isPermaLink="true">https://doi.org/10.18552/2024/scmt/115</guid>
     </item>
     <item>
+      <title>Net zero performance evaluation of European Continent Countries considering Paris Agreement climate goals</title>
+      <link>https://doi.org/10.1108/k-04-2024-0859</link>
+      <description>Mehtap Dursun, Rana Duygu Alkurt, Kybernetes. None(None)] 2024. https://openalex.org/W4401672959
+
+                Purpose Today&#8217;s one of the most important difficulties is tackling climate change and its effects on the environment. The Paris Agreement states that nations must balance the amount of greenhouse gases they emit and absorb until 2050 to contribute to the mitigation of greenhouse gases and to support sustainable development. According to the agreement, each country must determine, plan and regularly report on its contributions. Thus, it is important for the countries to predict and analyze their net zero performances in 2050. Therefore, the aim of this study is to evaluate European Continent Countries' net zero performances at the targeted year. Design/methodology/approach The European Continent Countries that ratified the Paris Agreement are specified as decision making units (DMUs). Input and output indicators are specified as primary energy consumption, freshwater withdrawals, gross domestic product (GDP), carbon-dioxide (CO 2 ) and nitrous-oxide (N 2 O) emissions. Data from 1980 to 2019 are obtained and forecasted using autoregressive integrated moving average (ARIMA) until 2050. Then, the countries are clustered based on the forecasts of primary energy consumption and freshwater withdrawals using k-means algorithm. As desirable and undesirable outputs arise simultaneously, the performances are computed using Pure Environmental Index (PEI) and Mixed Environmental Index (MEI) data envelopment analysis (DEA) models. Findings It is expected that by 2050, CO 2 emissions of seven countries remain constant, N 2 O emissions of seven countries remain stable and five countries&#8217; both CO 2 and N 2 O emissions remain constant. While it can be seen as success that many countries are expected to at least stabilize one emission, the likelihood of achieving net zero targets diminishes unless countries undertake significant reductions in emissions. According to the results, in Cluster 1, Turkey ranks last, while France, Germany, Italy and Spain are efficient countries. In Cluster 2, the United Kingdom ranks at last, while Greece, Luxembourg, Malta and Sweden are efficient countries. Originality/value In the literature, generally, CO 2 emission is considered as greenhouse gas. Moreover, none of the studies measured the net-zero performance of the countries in 2050 employing analytical techniques. This study objects to investigate how well European Continent Countries can comply with the necessities of the Agreement. Besides CO 2 emission, N 2 O emission is also considered and the data of European Continent Countries in 2050 are estimated using ARIMA. Then, countries are clustered using k-means algorithm. DEA models are employed to measure the performances of the countries. Finally, forecasts and models validations are performed and comprehensive analysis of the results is conducted.</description>
+      <author>Mehtap Dursun, Rana Duygu Alkurt</author>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1108/k-04-2024-0859</guid>
+    </item>
+    <item>
       <title>Bipolar Membranes for Photoelectrochemical CO&lt;sub&gt;2&lt;/sub&gt; Conversion</title>
       <link>https://doi.org/10.1149/ma2024-01372240mtgabs</link>
       <description>Sara Cavali&#232;re, P. Blanchard, Francesco Spanu, Morgan Nouxet, Jacqu&#233;s Rozi&#232;re, Deborah J. Jones, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401699716
@@ -1016,16 +996,6 @@
       <author>Aditya Prajapati, Maxwell Goldman, Eric Krall, Auston L. Clemens, Michell Marufu, An T. Chu, Laura Gutierrez, Eric B. Duoss, Sarah E. Baker, Christopher Hahn</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01271445mtgabs</guid>
-    </item>
-    <item>
-      <title>Net zero performance evaluation of European Continent Countries considering Paris Agreement climate goals</title>
-      <link>https://doi.org/10.1108/k-04-2024-0859</link>
-      <description>Mehtap Dursun, Rana Duygu Alkurt, Kybernetes. None(None)] 2024. https://openalex.org/W4401672959
-
-                Purpose Today&#8217;s one of the most important difficulties is tackling climate change and its effects on the environment. The Paris Agreement states that nations must balance the amount of greenhouse gases they emit and absorb until 2050 to contribute to the mitigation of greenhouse gases and to support sustainable development. According to the agreement, each country must determine, plan and regularly report on its contributions. Thus, it is important for the countries to predict and analyze their net zero performances in 2050. Therefore, the aim of this study is to evaluate European Continent Countries' net zero performances at the targeted year. Design/methodology/approach The European Continent Countries that ratified the Paris Agreement are specified as decision making units (DMUs). Input and output indicators are specified as primary energy consumption, freshwater withdrawals, gross domestic product (GDP), carbon-dioxide (CO 2 ) and nitrous-oxide (N 2 O) emissions. Data from 1980 to 2019 are obtained and forecasted using autoregressive integrated moving average (ARIMA) until 2050. Then, the countries are clustered based on the forecasts of primary energy consumption and freshwater withdrawals using k-means algorithm. As desirable and undesirable outputs arise simultaneously, the performances are computed using Pure Environmental Index (PEI) and Mixed Environmental Index (MEI) data envelopment analysis (DEA) models. Findings It is expected that by 2050, CO 2 emissions of seven countries remain constant, N 2 O emissions of seven countries remain stable and five countries&#8217; both CO 2 and N 2 O emissions remain constant. While it can be seen as success that many countries are expected to at least stabilize one emission, the likelihood of achieving net zero targets diminishes unless countries undertake significant reductions in emissions. According to the results, in Cluster 1, Turkey ranks last, while France, Germany, Italy and Spain are efficient countries. In Cluster 2, the United Kingdom ranks at last, while Greece, Luxembourg, Malta and Sweden are efficient countries. Originality/value In the literature, generally, CO 2 emission is considered as greenhouse gas. Moreover, none of the studies measured the net-zero performance of the countries in 2050 employing analytical techniques. This study objects to investigate how well European Continent Countries can comply with the necessities of the Agreement. Besides CO 2 emission, N 2 O emission is also considered and the data of European Continent Countries in 2050 are estimated using ARIMA. Then, countries are clustered using k-means algorithm. DEA models are employed to measure the performances of the countries. Finally, forecasts and models validations are performed and comprehensive analysis of the results is conducted.</description>
-      <author>Mehtap Dursun, Rana Duygu Alkurt</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1108/k-04-2024-0859</guid>
     </item>
     <item>
       <title>Quantifying Regulating Ecosystem Services of Urban Trees: A Case Study of a Green Space at Chungnam National University Using i-Tree Eco</title>
@@ -1048,16 +1018,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01462598mtgabs</guid>
     </item>
     <item>
-      <title>Use of Distributed Energy Resources Integrated with the Electric Grid in the Amazon: A Case Study of the UFPA Poraqu&#234; Electric Boat Using Digital Twin</title>
-      <link>https://doi.org/10.20944/preprints202408.0420.v1</link>
-      <description>Bruno Santana De Albuquerque, Maria Em&#237;lia de Lima Tostes, Ubiratan Holanda Bezerra, Carminda Carvalho, A. R. do Nascimento, No host. None(None)] 2024. https://openalex.org/W4401590368
-
-                Electric mobility is a global trend and necessity, with electric and solar boats offering a promising alternative for transportation electrification and carbon emission reduction, especially in the Amazon region. This study analyzes the system of a solar boat from the SIMA project, to be implemented at UFPA, using MATLAB software for modeling. The Simulink tool was utilized to model the system, focusing on operational parameters such as module voltage, converter voltage, and speed. Results indicate that the solar boat's operational cost is significantly lower compared to a similar internal combustion model, considering diesel's high consumption and cost. The environmental impact is also reduced, with nearly 72 tons of CO2 emissions avoided annually, thanks to Brazil's renewable energy matrix. Simulations confirmed the project's parameters, demonstrating the efficiency of digital twin technology in monitoring and predicting system performance. The study underscores the importance of digital twins and renewable energy in promoting sustainable transportation solutions, advocating for the replication of such projects globally. Future research should focus on further advancing digital twin applications in electric mobility to enhance predictive maintenance and operational efficiency.</description>
-      <author>Bruno Santana De Albuquerque, Maria Em&#237;lia de Lima Tostes, Ubiratan Holanda Bezerra, Carminda Carvalho, A. R. do Nascimento</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20944/preprints202408.0420.v1</guid>
-    </item>
-    <item>
       <title>Probing the Depths of Electrocatalysis Systems: X-Ray Absorption Spectroscopy Reveals Catalyst Behavior</title>
       <link>https://doi.org/10.1149/ma2024-01462596mtgabs</link>
       <description>Ershuai Liu, Walter S. Drisdell, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(46)] 2024. https://openalex.org/W4401697567
@@ -1078,16 +1038,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16167027</guid>
     </item>
     <item>
-      <title>Scaling-up a Photo-Electrocatalytic Reactor for CO&lt;sub&gt;2&lt;/sub&gt; Capture and Conversion to Syngas</title>
-      <link>https://doi.org/10.1149/ma2024-01352004mtgabs</link>
-      <description>Simelys Hern&#225;ndez, Hilmar Guzm&#225;n, Federica Zammillo, Roger Mir&#243;, Alberto Lopera, Alberto Lopera, Adrianna Nogalska, Maria J. Lopez Tendero, Miriam D&#237;az de los Bernardos, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(35)] 2024. https://openalex.org/W4401695969
-
-                The most challenging deal we face today is the need to lower greenhouse gas (GHG) emissions and tackle climate change. Though calls to reduce them are growing louder yearly, emissions remain unsustainably high. CO 2 is the key contributor to global climate change in the atmosphere. Electrochemical CO 2 reduction (EC CO 2 R) into chemicals or fuels holds great research interest as a promising approach to mitigate CO 2 emissions and reach a carbon-neutral future. 1 In this regard, an extraordinary effort has been made to discover new efficient and sustainable catalysts at the laboratory level over recent years. High-performance electrocatalysts in aqueous electrolytes often rely on noble metals, which may hinder their industrial applications. Herein, we successfully synthesized core-shell Cu 2 O/SnO 2 nanoparticles 2&#8211;4 functionalized with a silane group, using a simple and versatile methodology based on a three-step scalable synthesis method involving wet precipitation followed by salinization and, finally, a rhenium-based complex has been assembled by electro-polymerization. 5 The carbon paper-supported Cu 2 O/SnO 2 -Re electrocatalyst was characterized at 10 cm 2 scale achieving a CO:H 2 ratio from 3 to 9, and demonstrating an stable syngas production up to 24 hours at -20 mA&#183;cm -2 . To translate those developments from the laboratory level to a higher TRL towards the practical application of CO 2 capture and utilization 6 , an additional chamber was added to the system for the continuous CO 2 capture and electrochemical conversion, increasing the electrode area from 10 cm 2 to 100 cm 2 . Captured CO 2 co-electrolysis to syngas (H 2 :CO ratio of 5) in one step was demonstrated with a high CO 2 conversion at a current up to -2 A, indicating the scale-up potential of this intensified system. The technology is currently under validation in a TRL4 reactor composed of an array of 5 modules ( i.e. , 4 x 5 cells x 100 cm 2 ) with a total active area of or 0.2m 2 for direct CO 2 conversion from simulated anthropogenic sources. The design integrates low-cost photovoltaic (PV) cells to provide any required additional bias to drive the reaction, thus, Perovskite PV panels with a cost of up to 5 times lower (10 &#8364;/m 2 ) than Si PV cells were used. The TRL5 demonstration of the developed technology will be done with real flue gas emissions the first semester of 2024. Acknowledgements The financial support of the SUNCOCHEM project (Grant Agreement No 862192) of the European Union&#8217;s Horizon 2020 Research and Innovation Action programme is acknowledged. References Guzm&#225;n, H., Russo, N. &amp; Hern&#225;ndez, S. CO 2 valorisation towards alcohols by Cu-based electrocatalysts: challenges and perspectives. Green Chemistry vol. 23 1896&#8211;1920 Preprint at https://doi.org/10.1039/d0gc03334k (2021). Cuatto, G. et al. Standardization of Cu2O nanocubes synthesis: Role of precipitation process parameters on physico-chemical and photo-electrocatalytic properties. Chemical Engineering Research and Design 199 , 384&#8211;398 (2023). Zoli, M., Guzm&#225;n, H., Sacco, A., Russo, N. &amp; Hern&#225;ndez, S. Cu2O/SnO2 Heterostructures: Role of the Synthesis Procedure on PEC CO2 Conversion. Materials 16 , (2023). Zoli, M. et al. Facile and scalable synthesis of Cu2O-SnO2 catalyst for the photoelectrochemical CO2 conversion. Catal Today 413&#8211;415 , 113985 (2023). Mir&#243;, R. et al. Solar-driven CO2 reduction catalysed by hybrid supramolecular photocathodes and enhanced by ionic liquids. Catal Sci Technol 13 , 1708&#8211;1717 (2023). Sullivan, I. et al. Coupling electrochemical CO 2 conversion with CO 2 capture. Nat Catal 4 , 952&#8211;958 (2021). Figure 1</description>
-      <author>Simelys Hern&#225;ndez, Hilmar Guzm&#225;n, Federica Zammillo, Roger Mir&#243;, Alberto Lopera, Alberto Lopera, Adrianna Nogalska, Maria J. Lopez Tendero, Miriam D&#237;az de los Bernardos</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01352004mtgabs</guid>
-    </item>
-    <item>
       <title>One-Step Fabrication of Composite Hydrophobic Electrically Heated Graphene Surface</title>
       <link>https://doi.org/10.3390/coatings14081052</link>
       <description>Mian Zhong, Shichen Li, Hongyun Fan, Huazhong Zhang, Yong Jiang, Jinling Luo, Liang Yang, Coatings. 14(8)] 2024. https://openalex.org/W4401707101
@@ -1096,6 +1046,16 @@
       <author>Mian Zhong, Shichen Li, Hongyun Fan, Huazhong Zhang, Yong Jiang, Jinling Luo, Liang Yang</author>
       <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/coatings14081052</guid>
+    </item>
+    <item>
+      <title>Scaling-up a Photo-Electrocatalytic Reactor for CO&lt;sub&gt;2&lt;/sub&gt; Capture and Conversion to Syngas</title>
+      <link>https://doi.org/10.1149/ma2024-01352004mtgabs</link>
+      <description>Simelys Hern&#225;ndez, Hilmar Guzm&#225;n, Federica Zammillo, Roger Mir&#243;, Alberto Lopera, Alberto Lopera, Adrianna Nogalska, Maria J. Lopez Tendero, Miriam D&#237;az de los Bernardos, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(35)] 2024. https://openalex.org/W4401695969
+
+                The most challenging deal we face today is the need to lower greenhouse gas (GHG) emissions and tackle climate change. Though calls to reduce them are growing louder yearly, emissions remain unsustainably high. CO 2 is the key contributor to global climate change in the atmosphere. Electrochemical CO 2 reduction (EC CO 2 R) into chemicals or fuels holds great research interest as a promising approach to mitigate CO 2 emissions and reach a carbon-neutral future. 1 In this regard, an extraordinary effort has been made to discover new efficient and sustainable catalysts at the laboratory level over recent years. High-performance electrocatalysts in aqueous electrolytes often rely on noble metals, which may hinder their industrial applications. Herein, we successfully synthesized core-shell Cu 2 O/SnO 2 nanoparticles 2&#8211;4 functionalized with a silane group, using a simple and versatile methodology based on a three-step scalable synthesis method involving wet precipitation followed by salinization and, finally, a rhenium-based complex has been assembled by electro-polymerization. 5 The carbon paper-supported Cu 2 O/SnO 2 -Re electrocatalyst was characterized at 10 cm 2 scale achieving a CO:H 2 ratio from 3 to 9, and demonstrating an stable syngas production up to 24 hours at -20 mA&#183;cm -2 . To translate those developments from the laboratory level to a higher TRL towards the practical application of CO 2 capture and utilization 6 , an additional chamber was added to the system for the continuous CO 2 capture and electrochemical conversion, increasing the electrode area from 10 cm 2 to 100 cm 2 . Captured CO 2 co-electrolysis to syngas (H 2 :CO ratio of 5) in one step was demonstrated with a high CO 2 conversion at a current up to -2 A, indicating the scale-up potential of this intensified system. The technology is currently under validation in a TRL4 reactor composed of an array of 5 modules ( i.e. , 4 x 5 cells x 100 cm 2 ) with a total active area of or 0.2m 2 for direct CO 2 conversion from simulated anthropogenic sources. The design integrates low-cost photovoltaic (PV) cells to provide any required additional bias to drive the reaction, thus, Perovskite PV panels with a cost of up to 5 times lower (10 &#8364;/m 2 ) than Si PV cells were used. The TRL5 demonstration of the developed technology will be done with real flue gas emissions the first semester of 2024. Acknowledgements The financial support of the SUNCOCHEM project (Grant Agreement No 862192) of the European Union&#8217;s Horizon 2020 Research and Innovation Action programme is acknowledged. References Guzm&#225;n, H., Russo, N. &amp; Hern&#225;ndez, S. CO 2 valorisation towards alcohols by Cu-based electrocatalysts: challenges and perspectives. Green Chemistry vol. 23 1896&#8211;1920 Preprint at https://doi.org/10.1039/d0gc03334k (2021). Cuatto, G. et al. Standardization of Cu2O nanocubes synthesis: Role of precipitation process parameters on physico-chemical and photo-electrocatalytic properties. Chemical Engineering Research and Design 199 , 384&#8211;398 (2023). Zoli, M., Guzm&#225;n, H., Sacco, A., Russo, N. &amp; Hern&#225;ndez, S. Cu2O/SnO2 Heterostructures: Role of the Synthesis Procedure on PEC CO2 Conversion. Materials 16 , (2023). Zoli, M. et al. Facile and scalable synthesis of Cu2O-SnO2 catalyst for the photoelectrochemical CO2 conversion. Catal Today 413&#8211;415 , 113985 (2023). Mir&#243;, R. et al. Solar-driven CO2 reduction catalysed by hybrid supramolecular photocathodes and enhanced by ionic liquids. Catal Sci Technol 13 , 1708&#8211;1717 (2023). Sullivan, I. et al. Coupling electrochemical CO 2 conversion with CO 2 capture. Nat Catal 4 , 952&#8211;958 (2021). Figure 1</description>
+      <author>Simelys Hern&#225;ndez, Hilmar Guzm&#225;n, Federica Zammillo, Roger Mir&#243;, Alberto Lopera, Alberto Lopera, Adrianna Nogalska, Maria J. Lopez Tendero, Miriam D&#237;az de los Bernardos</author>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01352004mtgabs</guid>
     </item>
     <item>
       <title>Iron Production By Molten Sulfide Electrolysis</title>
@@ -1148,16 +1108,6 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-c5dvr</guid>
     </item>
     <item>
-      <title>(Invited) Perspectives from in Situ spectroscopy on the Molecular-Level Interactions of Carbon Dioxide in Nanomaterials for Capture and Conversion</title>
-      <link>https://doi.org/10.1149/ma2024-01462597mtgabs</link>
-      <description>Rosa Arrigo, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(46)] 2024. https://openalex.org/W4401698654
-
-                Understanding the molecular level foundations of CO 2 capture and conversion might unveil design strategies for efficient materials for these key decarbonization technologies. The control over the reaction channel in the complex network of reactions to produce selectively and on-demand chemicals from CO 2 via electrocatalysis is appealing to scientists worldwide on a fundamental and technological level. Operando techniques have become very popular to help achieve this goal as demonstrated by a flourishing number of dedicated studies [1-3] and other initiatives for discussion [4-6]. In this contribution, I will present recent work on the spectroscopic characterisation of the CO 2 interaction with several prototypical nanostructural systems of relevance, [7-11] emphasising characteristic spectroscopic fingerprints and their critical assessment. This contribution aims to discuss opportunities and current limitations encountered in situ X-ray methods to extract mechanistic insights. [1] Y. Han, H. Zhang, Y. Yu, Z. Liu, In Situ Characterization of Catalysis and Electrocatalysis Using APXPS, ACS Catalysis , 11 (2021), 1464-1484. [2] V. Pfeifer, M. H&#228;vecker, J. J. Velasco V&#233;lez, A. Knop-Gericke, R. Schl&#246;gl, R. Arrigo, An in situ electrochemical cell for studying OER materials, Topics in Catalysis , 61 (2019), 2064-2084. [3] G. Held, F. Venturini, D. C. Grinter, P. Ferrer, R. Arrigo, L. Deacon, W. Quevedo Garzon, K. Roy, A. Large, C. Stephens, A. Watts, P. Larkin, M. Hand, H. Wang, L. Pratt, J. J. Mudd, T. Richardson, S. Patel, M. Hillman and S. Scott, Ambient-pressure end station of the Versatile Soft X-ray (VerSoX) beamline at Diamond Light Source, J. Synchrotron Rad. , 27 (2020), 1153-1166. [4] R. Arrigo, A. Logsdail, L. Torrente-Murciano, Highlights from Faraday Discussion on Designing Nanoparticle Systems for Catalysis, London, UK, May 2018, (Conference Report) Chem. Commun ., 2018, 54, 9385-9393DOI: 10.1039/C8CC90324G; [5] R. Arrigo et al ., The challenges of characterising nanoparticulate catalysts: general discussion Faraday Discussion , 208 (2018), 339-394. [6] C. R. A. Catlow, P. wells, D. Gianolio Synchrotron radiation techniques in catalytic science , Phys. Chem. Chem. Phys ., 22 (2020), 18745-18746. [7] R. Arrigo, R. Blume, V. Streibel, C. Genovese, A. Roldan, M. E. Schuster, C. Ampelli, S. Perathoner, J.-J. Velasco-V&#233;lez, M. H&#228;vecker, A. Knop-Gericke, R. Schl&#246;gl, G. Centi, Dynamics at Polarized, Carbon Dioxide/Iron Oxyhydroxide Interfaces Unveil the Origin of Multicarbon Product Formation , ACS Catalysis, 12 (2021) 411-430. [8] J.-J. Velasco-V&#233;lez, T. Jones, D. Gao, E. Carbonio, R. Arrigo, C.-J. Hsu, Y.-C. Huang, C.-L. Dong, J.-M. Chen, J.-F. Lee, P. Strasser, B. Roldan Cuenya, R. Schl&#246;gl, A. Knop-Gericke, C.-H. Chuang, The Role ofthe Copper Oxidation State in the Electrocatalytic Reduction of CO 2 into Valuable Hydrocarbons, ACS Sustainable Chem. Eng. , 7 (2019), 1485&#8211;1492. [9] J.-J. Velasco-V&#233;lez, C.-H. Chuang, D. Gao, Q. Zhu, D. Ivanov, H. S. Jeon, R. Arrigo, R. V. Mom, E. Stotz, H.-L. Wu, T. E. Jones, B. Roldan Cuenya, A. Knop-Gericke, R. Schl&#246;gl, On the activity/selectivity and phase stability of thermally grown copper oxides during the electrocatalytic reduction of CO 2 , ACS Catalysis , 10 (2020) 11510-11518. [10] J-J. Velasco-Velez, R.V. Mom, L.-E. Sandoval-Diaz, L. J. Falling, C.-H. Chuang, D. Gao, T. E. Jones, Q. Zhu, R. Arrigo, B. Roldan Cuenya, A. Knop-Gericke, T. Lunkenbein, R. Schl&#246;gl, Revealing the ActivePhase of Copper during the Electroreduction of CO 2 in Aqueous Electrolyte by Correlating In Situ X-ray Spectroscopy and In Situ Electron Microscopy, ACS Energy Lett ., 5 (2020), 2106&#8211;2111. [11] R. Arrigo, R. Blume, A. Large, J.-J. Velesco-Velez, M., Haevecker, A. Knop-Gericke, G. Held, Dynamics over a Cu-graphite electrode during the gas-phase CO 2 reduction investigated by APXPS, Faraday Discuss., 236 (2022) 126-140.</description>
-      <author>Rosa Arrigo</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01462597mtgabs</guid>
-    </item>
-    <item>
       <title>(Invited) Atomically Dispersed Metal Electrocatalysts for CO&lt;sub&gt;2&lt;/sub&gt; to CO Conversion: From Single to Dual Metal Sites</title>
       <link>https://doi.org/10.1149/ma2024-01372163mtgabs</link>
       <description>Gang Wu, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(37)] 2024. https://openalex.org/W4401698257
@@ -1166,6 +1116,16 @@
       <author>Gang Wu</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372163mtgabs</guid>
+    </item>
+    <item>
+      <title>(Invited) Perspectives from in Situ spectroscopy on the Molecular-Level Interactions of Carbon Dioxide in Nanomaterials for Capture and Conversion</title>
+      <link>https://doi.org/10.1149/ma2024-01462597mtgabs</link>
+      <description>Rosa Arrigo, Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(46)] 2024. https://openalex.org/W4401698654
+
+                Understanding the molecular level foundations of CO 2 capture and conversion might unveil design strategies for efficient materials for these key decarbonization technologies. The control over the reaction channel in the complex network of reactions to produce selectively and on-demand chemicals from CO 2 via electrocatalysis is appealing to scientists worldwide on a fundamental and technological level. Operando techniques have become very popular to help achieve this goal as demonstrated by a flourishing number of dedicated studies [1-3] and other initiatives for discussion [4-6]. In this contribution, I will present recent work on the spectroscopic characterisation of the CO 2 interaction with several prototypical nanostructural systems of relevance, [7-11] emphasising characteristic spectroscopic fingerprints and their critical assessment. This contribution aims to discuss opportunities and current limitations encountered in situ X-ray methods to extract mechanistic insights. [1] Y. Han, H. Zhang, Y. Yu, Z. Liu, In Situ Characterization of Catalysis and Electrocatalysis Using APXPS, ACS Catalysis , 11 (2021), 1464-1484. [2] V. Pfeifer, M. H&#228;vecker, J. J. Velasco V&#233;lez, A. Knop-Gericke, R. Schl&#246;gl, R. Arrigo, An in situ electrochemical cell for studying OER materials, Topics in Catalysis , 61 (2019), 2064-2084. [3] G. Held, F. Venturini, D. C. Grinter, P. Ferrer, R. Arrigo, L. Deacon, W. Quevedo Garzon, K. Roy, A. Large, C. Stephens, A. Watts, P. Larkin, M. Hand, H. Wang, L. Pratt, J. J. Mudd, T. Richardson, S. Patel, M. Hillman and S. Scott, Ambient-pressure end station of the Versatile Soft X-ray (VerSoX) beamline at Diamond Light Source, J. Synchrotron Rad. , 27 (2020), 1153-1166. [4] R. Arrigo, A. Logsdail, L. Torrente-Murciano, Highlights from Faraday Discussion on Designing Nanoparticle Systems for Catalysis, London, UK, May 2018, (Conference Report) Chem. Commun ., 2018, 54, 9385-9393DOI: 10.1039/C8CC90324G; [5] R. Arrigo et al ., The challenges of characterising nanoparticulate catalysts: general discussion Faraday Discussion , 208 (2018), 339-394. [6] C. R. A. Catlow, P. wells, D. Gianolio Synchrotron radiation techniques in catalytic science , Phys. Chem. Chem. Phys ., 22 (2020), 18745-18746. [7] R. Arrigo, R. Blume, V. Streibel, C. Genovese, A. Roldan, M. E. Schuster, C. Ampelli, S. Perathoner, J.-J. Velasco-V&#233;lez, M. H&#228;vecker, A. Knop-Gericke, R. Schl&#246;gl, G. Centi, Dynamics at Polarized, Carbon Dioxide/Iron Oxyhydroxide Interfaces Unveil the Origin of Multicarbon Product Formation , ACS Catalysis, 12 (2021) 411-430. [8] J.-J. Velasco-V&#233;lez, T. Jones, D. Gao, E. Carbonio, R. Arrigo, C.-J. Hsu, Y.-C. Huang, C.-L. Dong, J.-M. Chen, J.-F. Lee, P. Strasser, B. Roldan Cuenya, R. Schl&#246;gl, A. Knop-Gericke, C.-H. Chuang, The Role ofthe Copper Oxidation State in the Electrocatalytic Reduction of CO 2 into Valuable Hydrocarbons, ACS Sustainable Chem. Eng. , 7 (2019), 1485&#8211;1492. [9] J.-J. Velasco-V&#233;lez, C.-H. Chuang, D. Gao, Q. Zhu, D. Ivanov, H. S. Jeon, R. Arrigo, R. V. Mom, E. Stotz, H.-L. Wu, T. E. Jones, B. Roldan Cuenya, A. Knop-Gericke, R. Schl&#246;gl, On the activity/selectivity and phase stability of thermally grown copper oxides during the electrocatalytic reduction of CO 2 , ACS Catalysis , 10 (2020) 11510-11518. [10] J-J. Velasco-Velez, R.V. Mom, L.-E. Sandoval-Diaz, L. J. Falling, C.-H. Chuang, D. Gao, T. E. Jones, Q. Zhu, R. Arrigo, B. Roldan Cuenya, A. Knop-Gericke, T. Lunkenbein, R. Schl&#246;gl, Revealing the ActivePhase of Copper during the Electroreduction of CO 2 in Aqueous Electrolyte by Correlating In Situ X-ray Spectroscopy and In Situ Electron Microscopy, ACS Energy Lett ., 5 (2020), 2106&#8211;2111. [11] R. Arrigo, R. Blume, A. Large, J.-J. Velesco-Velez, M., Haevecker, A. Knop-Gericke, G. Held, Dynamics over a Cu-graphite electrode during the gas-phase CO 2 reduction investigated by APXPS, Faraday Discuss., 236 (2022) 126-140.</description>
+      <author>Rosa Arrigo</author>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01462597mtgabs</guid>
     </item>
     <item>
       <title>Efficient Ni-NC Gas Diffusion Electrodes for CO&lt;sub&gt;2&lt;/sub&gt; Electrolyzer with High Utilization Efficiencies and Single Pass Conversions Towards CO</title>
@@ -1208,14 +1168,14 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01442432mtgabs</guid>
     </item>
     <item>
-      <title>Impact of Changing Inlet Modes in Ski Face Masks on Adolescent Skiing: A Finite Element Analysis Based on Head Models</title>
-      <link>https://doi.org/10.3390/modelling5030049</link>
-      <description>Minxin Huang, Ruiqiu Zhang, X. Zhang, Modelling&#8212;International Open Access Journal of Modelling in Engineering Science. 5(3)] 2024. https://openalex.org/W4401577321
+      <title>Enhanced CO&lt;sub&gt;2&lt;/sub&gt; Reduction on a Cu-Decorated Single-Atom Catalyst via an Inverse Sandwich M-Graphene-Cu Structure</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c01858</link>
+      <description>Jie Su, Linke Yu, Bing Han, Fengyu Li, Zhongfang Chen, Xiao Cheng Zeng, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4401614304
 
-                Due to the material properties of current ski face masks for adolescents, moisture in exhaled air can become trapped within the material fibers and freeze, leading to potential issues such as breathing difficulties and increased risk of facial frostbite after prolonged skiing. This paper proposes a research approach combining computational fluid dynamics (CFD) and ergonomics to address these issues and enhance the comfort of adolescent skiers. We developed head and face mask models based on the head dimensions of 15&#8211;17-year-old males. For enclosed cavities, ensuring the smooth expulsion of exhaled air to prevent re-inhalation is the primary challenge. Through fluid simulation of airflow characteristics within the cavity, we evaluated three different inlet configurations. The results indicate that the location of the air inlets significantly affects the airflow characteristics within the cavity. The side inlet design (type II) showed an average face temperature of 35.35 &#176;C, a 38.5% reduction in average CO2 concentration within the cavity, and a smaller vortex area compared to the other two inlet configurations. Although the difference in airflow velocity within the cavity among the three configurations was minimal, the average exit velocity differed by up to 0.11 m/s. Thus, we conclude that the side inlet configuration offers minimal obstruction to airflow circulation and better thermal insulation when used in the design of fully enclosed helmets. This enhances the safety and comfort of adolescent wearers during physical activities in cold environments. Through this study, we aim to further promote the development of skiing education, enhance the overall quality of adolescents&#8217; skiing, and thus provide them with more opportunities for the future.</description>
-      <author>Minxin Huang, Ruiqiu Zhang, X. Zhang</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/modelling5030049</guid>
+                The highly active and selective electrochemical CO2 reduction reaction (CO2RR) can be exploited to produce valuable chemicals and fuels and is also crucial for achieving clean energy goals and environmental remediation. Decorated single-atom catalysts (D-SACs), which feature synergistic interactions between the active metal site (M) and an axially decorated ligand, have been extensively explored for the CO2RR. Very recently, novel double-atom catalysts (DACs) featuring inverse sandwich structures were theoretically proposed and identified as promising CO2RR electrocatalysts. However, the experimental synthesis of DACs remains a challenge. To facilitate the fabrication and to realize the potential of these novel DACs, we designed a D-SAC system, denoted as M1@gra+Cuslab. This system features a graphene layer with a vacancy-anchored SAC, all stacked on a Cu(111) surface, thereby embodying a Cu slab-supported inverse sandwich M-graphene-Cu structure. Using density functional theory calculations, we evaluated the stability, selectivity, and activity of 27 M1@gra+Cuslab systems (M = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Zr, Nb, Mo, Ru, Rh, Pd, Ag, Cd, Hf, Ta, W, Re, Os, Ir, Pt, or Au) and showed five M1@gra+Cuslab (M = Co, Ni, Cu, Rh, or Pd) systems exhibit optimal characteristics for the CO2RR and can potentially outperform their SAC and DAC counterparts. This study offers a new strategy for developing highly efficient CO2RR D-SACs with an inverse sandwich structural moiety.</description>
+      <author>Jie Su, Linke Yu, Bing Han, Fengyu Li, Zhongfang Chen, Xiao Cheng Zeng</author>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01858</guid>
     </item>
     <item>
       <title>A Spray-Drying Approach for Highly Active Amorphous NiFe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for AEM Water Electrolysis</title>
@@ -1236,6 +1196,16 @@
       <author>Harrison Mar, Peter Mardle, Ken Tsay, Wei Qu, Guangyu Wang, Zhong Xie</author>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2024-01372207mtgabs</guid>
+    </item>
+    <item>
+      <title>Understanding and mitigating climate change impacts on ecosystem health and functionality</title>
+      <link>https://doi.org/10.1007/s12210-024-01259-4</link>
+      <description>Kumari Anandita, Anand Kumar Sinha, C. Jeganathan, Rendiconti lincei. Scienze fisiche e naturali. None(None)] 2024. https://openalex.org/W4401656839
+
+                The impacts of climate change on forest ecosystems are profound and far-reaching, influencing not only the physiological responses of individual trees but also the ecological services and overall health of forests worldwide. This review synthesises current knowledge on climate change's physiological and ecological implications for forest health, underscoring forests' critical role in carbon sequestration, biodiversity maintenance, water cycle regulation, soil conservation, disaster risk reduction, and climate regulation. Forests, covering about 31% of the Earth's land area, are vital carbon sinks and pivotal in sustaining biodiversity, with over three-quarters of terrestrial biodiversity residing within them. Climate change, characterised by rising temperatures, shifting precipitation patterns, and increasing frequency of extreme weather events, poses significant threats to these ecosystems. These include altered forest structure and function, degradation of soil quality, changes in phenology, increased pest attacks, and heightened susceptibility to wildfires, all of which compromise the forests' ability to deliver essential ecological services. The physiological responses of forests to changing climatic conditions&#8212;such as variations in photosynthesis rates, respiration, and water use efficiency&#8212;play a key role in determining their health and capacity to support biodiversity and ecosystem services. Changes in abiotic factors like temperature, moisture, O2 and CO2 levels directly affect these physiological processes, subsequently influencing forest productivity and resilience. The review highlights the importance of understanding these dynamic interactions to develop effective forest conservation and climate change mitigation strategies. Moreover, the review delves into the multifaceted impacts of climate change on various ecosystem services provided by forests, including biodiversity support, water cycle regulation, soil conservation, and climate regulation through carbon sequestration. As climate change continues to alter these vital ecosystems, understanding their physiological responses and the consequent effect on ecological services becomes imperative.</description>
+      <author>Kumari Anandita, Anand Kumar Sinha, C. Jeganathan</author>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12210-024-01259-4</guid>
     </item>
     <item>
       <title>(Invited) Nanowire Catalysts and Adsorbents</title>

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Aug 22 01:14:04 2024
+Created on Fri Aug 23 01:12:57 2024
 
-Found 44 results from 2024-08-15 to 2024-08-22
+Found 38 results from 2024-08-16 to 2024-08-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -16,83 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357)
-
-## Electrodeposition of FeNiCoCrMn high-entropy alloys on copper foam for enhanced hydrogen evolution reaction——influence of additives and deposition potential   
-
-OpenAlex: https://openalex.org/W4401571786    
-Open access: False
-    
-[Liu Ju](https://openalex.org/A5066741309), [Wangping Wu](https://openalex.org/A5021146456), [Yicheng Zhou](https://openalex.org/A5100558255), [Yi Zhang](https://openalex.org/A5100388230), [Qinqin Wang](https://openalex.org/A5102002906), Materials Letters. None(None)] 2024.https://doi.org/10.1016/j.matlet.2024.137195.
-    
-No abstract    
-
-    
-
-## A-site doping of cobalt-free Ba1-xAxFeO3-δ (A=Ca, Sr) as cathode for proton-conducting ceramic cells   
-
-OpenAlex: https://openalex.org/W4401583093    
-Open access: False
-    
-[Chenxiao Wang](https://openalex.org/A5102987728), [Kui Liu](https://openalex.org/A5100374012), [Yinghao Wu](https://openalex.org/A5024861014), [Guangjun Zhang](https://openalex.org/A5100602615), [Xuelian Li](https://openalex.org/A5100659162), [Jiaxin Wu](https://openalex.org/A5101787744), [Ruili Sun](https://openalex.org/A5032828349), [Ting Chen](https://openalex.org/A5100663544), [Lang Xu](https://openalex.org/A5101197692), [Shaorong Wang](https://openalex.org/A5103246302), International Journal of Hydrogen Energy. 83(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.08.194.
-    
-No abstract    
-
-    
-
-## Quantum computing in bioinformatics: a systematic review mapping   
-
-OpenAlex: https://openalex.org/W4401583942    
-Open access: True
-    
-[Katarzyna Nałęcz-Charkiewicz](https://openalex.org/A5005602830), [Kamil Charkiewicz](https://openalex.org/A5082343247), [Robert Nowak](https://openalex.org/A5002830474), Briefings in Bioinformatics. 25(5)] 2024.https://doi.org/10.1093/bib/bbae391.
-    
-Abstract The field of quantum computing (QC) is expanding, with efforts being made to apply it to areas previously covered by classical algorithms and methods. Bioinformatics is one such domain that is developing in terms of QC. This article offers a broad mapping review of methods and algorithms of QC in bioinformatics, marking the first of its kind. It presents an overview of the domain and aids researchers in identifying further research directions in the early stages of this field of knowledge. The work presented here shows the current state-of-the-art solutions, focuses on general future directions, and highlights the limitations of current methods. The gathered data includes a comprehensive list of identified methods along with descriptions, classifications, and elaborations of their advantages and disadvantages. Results are presented not just in a descriptive table but also in an aggregated and visual format.    
-
-    
-
-## i-PI 3.0: A flexible and efficient framework for advanced atomistic simulations   
-
-OpenAlex: https://openalex.org/W4401584941    
-Open access: False
-    
-[Yair Litman](https://openalex.org/A5089096336), [Venkat Kapil](https://openalex.org/A5009821984), [Yotam M. Y. Feldman](https://openalex.org/A5008913566), [Davide Tisi](https://openalex.org/A5070688184), [Tomislav Begušić](https://openalex.org/A5029246276), [Karen Fidanyan](https://openalex.org/A5090841989), [Guillaume Fraux](https://openalex.org/A5015199441), [Jacob Higer](https://openalex.org/A5098901950), [Matthias Kellner](https://openalex.org/A5078131046), [Tao E. Li](https://openalex.org/A5031745251), [Eszter S. Pós](https://openalex.org/A5043611789), [Elia Stocco](https://openalex.org/A5098901948), [George Trenins](https://openalex.org/A5048889959), [Barak Hirshberg](https://openalex.org/A5080937382), [Mariana Rossi](https://openalex.org/A5091149531), [Michele Ceriotti](https://openalex.org/A5021241296), The Journal of Chemical Physics. 161(6)] 2024.https://doi.org/10.1063/5.0215869.
-    
-Atomic-scale simulations have progressed tremendously over the past decade, largely thanks to the availability of machine-learning interatomic potentials. These potentials combine the accuracy of electronic structure calculations with the ability to reach extensive length and time scales. The i-PI package facilitates integrating the latest developments in this field with advanced modeling techniques thanks to a modular software architecture based on inter-process communication through a socket interface. The choice of Python for implementation facilitates rapid prototyping but can add computational overhead. In this new release, we carefully benchmarked and optimized i-PI for several common simulation scenarios, making such overhead negligible when i-PI is used to model systems up to tens of thousands of atoms using widely adopted machine learning interatomic potentials, such as Behler–Parinello, DeePMD, and MACE neural networks. We also present the implementation of several new features, including an efficient algorithm to model bosonic and fermionic exchange, a framework for uncertainty quantification to be used in conjunction with machine-learning potentials, a communication infrastructure that allows for deeper integration with electronic-driven simulations, and an approach to simulate coupled photon-nuclear dynamics in optical or plasmonic cavities.    
-
-    
-
-## Uncertainty quantification in atomistic simulations of silicon using interatomic potentials   
-
-OpenAlex: https://openalex.org/W4401584960    
-Open access: False
-    
-[I. R. Best](https://openalex.org/A5094008708), [T. J. Sullivan](https://openalex.org/A5063265366), [James R. Kermode](https://openalex.org/A5027629516), The Journal of Chemical Physics. 161(6)] 2024.https://doi.org/10.1063/5.0214590.
-    
-Atomistic simulations often rely on interatomic potentials to access greater time and length scales than those accessible to first-principles methods, such as density functional theory. However, since a parameterized potential typically cannot reproduce the true potential energy surface of a given system, we should expect a decrease in accuracy and increase in error in quantities of interest calculated from these simulations. Quantifying the uncertainty on the outputs of atomistic simulations is thus an important, necessary step so that there is confidence in the results and available metrics to explore improvements in said simulations. Here, we address this research question by forming ensembles of atomic cluster expansion potentials, and using conformal prediction with ab initio training data to provide meaningful, calibrated error bars on several quantities of interest for silicon: the bulk modulus, elastic constants, relaxed vacancy formation energy, and the vacancy migration barrier. We evaluate the effects on uncertainty bounds using a range of different potentials and training sets.    
-
-    
-
-## High throughput MN4-G screening electrocatalyst for highly selective acetylene semi-hydrogenation   
-
-OpenAlex: https://openalex.org/W4401585544    
-Open access: False
-    
-[Kai Xu](https://openalex.org/A5058436913), [Mingqiang Liu](https://openalex.org/A5030610538), [Song Xiaoning](https://openalex.org/A5100577718), [Shengyuan Xu](https://openalex.org/A5100363679), [Liang Huang](https://openalex.org/A5070706724), [Kefeng Xie](https://openalex.org/A5029755515), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.129160.
-    
-No abstract    
-
-    
-
-## Electronic properties modulation for two-dimensional materials of boron phosphorus monolayer and derived single atom catalysts for the hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4401585584    
-Open access: False
-    
-[Yuhua Wei](https://openalex.org/A5014056102), [Feng Gao](https://openalex.org/A5077258816), [Haibo Liu](https://openalex.org/A5100394072), [Qi Wei](https://openalex.org/A5078789898), [Sichao Du](https://openalex.org/A5013645993), [Hao Xie](https://openalex.org/A5084257637), [Duo Xiao](https://openalex.org/A5090038443), Materials Today Communications. None(None)] 2024.https://doi.org/10.1016/j.mtcomm.2024.110088.
-    
-No abstract    
-
-    
 
 ## Single-, Double-, and Triple-atom Catalysts on PC6 for Nitrate Reduction to Ammonia: A Computational Screening   
 
@@ -149,17 +72,6 @@ No abstract
 
     
 
-## Synergistic Effects of the Electric Field Induced by Imidazolium Rotation and Hydrogen Bonding in Electrocatalysis of CO2   
-
-OpenAlex: https://openalex.org/W4401618125    
-Open access: False
-    
-[Oguz Kagan Coskun](https://openalex.org/A5019878465), [Zeynep Bagbudar](https://openalex.org/A5106533775), [Vaishali Khokhar](https://openalex.org/A5054036993), [Saudagar Dongare](https://openalex.org/A5028625087), [Robert E. Warburton](https://openalex.org/A5037300903), [Burcu Gurkan](https://openalex.org/A5003053406), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c05172.
-    
-The roles of the ionic liquid (IL), 1-ethyl-3-methylimidazolium tetrafluoroborate ([EMIM][BF    
-
-    
-
 ## Optimizing the Lattice Nitrogen Coordination to Break the Performance Limitation of Metal Nitrides for Electrocatalytic Nitrogen Reduction   
 
 OpenAlex: https://openalex.org/W4401627407    
@@ -204,17 +116,6 @@ Abstract Context The study of platinum (Pt) clusters and nanoparticles is essent
 
     
 
-## Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell   
-
-OpenAlex: https://openalex.org/W4401664259    
-Open access: False
-    
-[K.P. Jithul](https://openalex.org/A5093799732), [B. Tamilarasi](https://openalex.org/A5093799731), [Jay Pandey](https://openalex.org/A5090330319), Ionics. None(None)] 2024.https://doi.org/10.1007/s11581-024-05767-z.
-    
-No abstract    
-
-    
-
 ## Janus NbOBrI monolayer for efficient photocatalytic overall water splitting   
 
 OpenAlex: https://openalex.org/W4401675459    
@@ -234,6 +135,17 @@ Open access: False
 [Mohamad Ataya](https://openalex.org/A5028206585), [Eric McCalla](https://openalex.org/A5045883957), [Rustam Z. Khaliullin](https://openalex.org/A5041593378), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01221.
     
 No abstract    
+
+    
+
+## Synergistic Effects of the Electric Field Induced by Imidazolium Rotation and Hydrogen Bonding in Electrocatalysis of CO2   
+
+OpenAlex: https://openalex.org/W4401618125    
+Open access: False
+    
+[Oguz Kagan Coskun](https://openalex.org/A5019878465), [Zeynep Bagbudar](https://openalex.org/A5106533775), [Vaishali Khokhar](https://openalex.org/A5054036993), [Saudagar Dongare](https://openalex.org/A5028625087), [Robert E. Warburton](https://openalex.org/A5037300903), [Burcu Gurkan](https://openalex.org/A5003053406), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c05172.
+    
+The roles of the ionic liquid (IL), 1-ethyl-3-methylimidazolium tetrafluoroborate ([EMIM][BF4]), and water in controlling the mechanism, energetics, and electrocatalytic activity of CO2 reduction to CO on silver in nonaqueous electrolytes were investigated. The first electron transfer occurs to CO2 at reduced overpotentials when it is trapped between the planes of the [EMIM]+ ring and the electrode surface due to cation reorientation as determined from voltammetry, in situ surface-enhanced Raman spectroscopy, and density functional theory calculations. Within this interface, water up to 0.5 M does not induce significant Faradaic activity, opposing the notion of it being a free proton source. Instead, water acts as a hydrogen bond donor, and the proton is sourced from [EMIM]+. Furthermore, this study demonstrates that alcohols with varying acidities tune the hydrogen bonding network in the interfacial microenvironment to lower the energetics required for CO2 reduction. The hydrogen bonding suppresses the formation of inactive carboxylate species, thus preserving the catalytic activity of [EMIM]+. The ability to tune the hydrogen bonding network opens new avenues for advancing IL-mediated electrocatalytic reactions in nonaqueous electrolytes.    
 
     
 
@@ -347,6 +259,17 @@ No abstract
 
     
 
+## Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell   
+
+OpenAlex: https://openalex.org/W4401664259    
+Open access: False
+    
+[K.P. Jithul](https://openalex.org/A5093799732), [B. Tamilarasi](https://openalex.org/A5093799731), [Jay Pandey](https://openalex.org/A5090330319), Ionics. None(None)] 2024.https://doi.org/10.1007/s11581-024-05767-z.
+    
+No abstract    
+
+    
+
 ## Machine Learning‐Assisted Design of Nitrogen‐Rich Covalent Triazine Frameworks Photocatalysts   
 
 OpenAlex: https://openalex.org/W4401686058    
@@ -443,6 +366,17 @@ Open access: True
 [Đặng Long Quân](https://openalex.org/A5032431481), [Soong‐Hyuck Suh](https://openalex.org/A5102130084), [Do Ngoc Son](https://openalex.org/A5048914742), RSC Advances. 14(36)] 2024.https://doi.org/10.1039/d4ra04493b.
     
 Methanol oxidation efficiency and resistance to CO poisoning are the most challenging issues associated with direct methanol fuel cells. Much experimental effort has been undertaken, such as generating Pt-based binary and ternary nanoparticles, creating composite substrates, and fabricating nanoparticles with special shapes, to overcome these drawbacks. Our previous experiment showed that ternary PtRuM    
+
+    
+
+## Theoretical Investigation on Enhanced HER Electrocatalytic Activities of SiC Monolayers through Nonmetal Doping and Strain Engineering   
+
+OpenAlex: https://openalex.org/W4401717241    
+Open access: False
+    
+[Bingwen Li](https://openalex.org/A5049213804), [Hongrui Shi](https://openalex.org/A5084710583), [Zeyun Ni](https://openalex.org/A5102587916), [Haifeng Zheng](https://openalex.org/A5050128295), [Kehao Chen](https://openalex.org/A5051379734), [Yuting Yan](https://openalex.org/A5039343841), [Huimin Qi](https://openalex.org/A5008426233), [Yu Xue](https://openalex.org/A5052691524), [Xinfang Wang](https://openalex.org/A5089939997), [Liming Fan](https://openalex.org/A5077242074), CrystEngComm. None(None)] 2024.https://doi.org/10.1039/d4ce00633j.
+    
+Efficient hydrogen evolution reaction (HER) electrocatalysts are crucial for renewable energy storage and conversion.    
 
     
 

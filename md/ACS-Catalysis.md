@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Aug 22 01:13:53 2024
+Created on Fri Aug 23 01:12:47 2024
 
-Found 31 results from 2024-08-15 to 2024-08-22
+Found 26 results from 2024-08-16 to 2024-08-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Manganese as Electron Reservoir Stabilized RuMnOx@RuOx with Enhanced Activity and Robust Durability for Acidic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4401565261    
-Open access: False
-    
-[Qin Yue](https://openalex.org/A5021708087), [Xiaopo Niu](https://openalex.org/A5006593466), [Rong Zhao](https://openalex.org/A5101524811), [Jiuyi Sun](https://openalex.org/A5087536804), [Zhi-Hui Xu](https://openalex.org/A5080400195), [Zhenguo Chi](https://openalex.org/A5047556152), [Danni Liu](https://openalex.org/A5018366757), [Lili Guo](https://openalex.org/A5101683562), [Chang Liu](https://openalex.org/A5051852456), [Junfeng Zhang](https://openalex.org/A5100427805), [Qingfa Wang](https://openalex.org/A5017217608), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01707.
-    
-No abstract    
-
-    
-
-## Mechanistic Insight into the Superior Catalytic Activity of Au/Co3O4 Interface in Glucose Sensors   
-
-OpenAlex: https://openalex.org/W4401567137    
-Open access: False
-    
-[Yun Xie](https://openalex.org/A5059460662), [Guang‐Jie Xia](https://openalex.org/A5066878588), [Weiping Gong](https://openalex.org/A5048164749), [Fanglong Zhu](https://openalex.org/A5100511024), [Zhenting Zhao](https://openalex.org/A5017864612), [Yang−Gang Wang](https://openalex.org/A5077960687), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03419.
-    
-No abstract    
-
-    
-
-## Effective Screening Descriptors of Metal–Organic Framework-Supported Single-Atom Catalysts for Electrochemical CO2 Reduction Reactions: A Computational Study   
-
-OpenAlex: https://openalex.org/W4401575850    
-Open access: False
-    
-[Li-Hui Mou](https://openalex.org/A5086547994), [Jiahui Du](https://openalex.org/A5017538890), [Yanbo Li](https://openalex.org/A5100652701), [Jun Jiang](https://openalex.org/A5100619997), [Linjiang Chen](https://openalex.org/A5053751282), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03937.
-    
-No abstract    
-
-    
-
-## Developing Catalysts for the Hydrolysis of Glycosidic Bonds in Oligosaccharides Using a Spectrophotometric Screening Assay   
-
-OpenAlex: https://openalex.org/W4401590676    
-Open access: True
-    
-[Susanne Striegler](https://openalex.org/A5088338125), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03261.
-    
-No abstract    
-
-    
-
-## The Effect of the Tetraalkylammonium Cation in the Electrochemical CO2 Reduction Reaction on Copper Electrode   
-
-OpenAlex: https://openalex.org/W4401591465    
-Open access: True
-    
-[Connor Deacon-Price](https://openalex.org/A5062895183), [Louis Changeur](https://openalex.org/A5106519923), [Cássia Sidney Santana](https://openalex.org/A5074326369), [Amanda C. Garcia](https://openalex.org/A5079766978), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02297.
-    
-No abstract    
-
-    
-
-## Highly Selective Dual-Atom Pd Heterogeneous Catalyst Prepared by Size-Selected Cluster Beam   
-
-OpenAlex: https://openalex.org/W4401606577    
-Open access: False
-    
-[Wenka Zhu](https://openalex.org/A5046863535), [Wen Wu Xu](https://openalex.org/A5101962097), [Xingen Lin](https://openalex.org/A5033926331), [S.F. Hu](https://openalex.org/A5101659241), [Sichen Tang](https://openalex.org/A5102547330), [Syed Adil Shah](https://openalex.org/A5045284604), [Zixiang Zhao](https://openalex.org/A5101213568), [Yongxin Zhang](https://openalex.org/A5100768241), [Siqi Lu](https://openalex.org/A5013262767), [X. F. Lu](https://openalex.org/A5027629406), [J. G. Wan](https://openalex.org/A5101650984), [Wen Wu Xu](https://openalex.org/A5101962097), [Huang Zhou](https://openalex.org/A5011982705), [Kuo‐Juei Hu](https://openalex.org/A5055199008), [Zhongkang Han](https://openalex.org/A5087862339), [Yuen Wu](https://openalex.org/A5022989538), [Fengqi Song](https://openalex.org/A5055941645), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02500.
-    
-No abstract    
-
-    
-
-## Rhodium-Catalyzed Asymmetric Hydroselenation of 1-Alkynylindoles for Atroposelective Synthesis of Vinyl Selenoethers   
-
-OpenAlex: https://openalex.org/W4401608966    
-Open access: False
-    
-[Yu-Long Kang](https://openalex.org/A5013313471), [Fen Wang](https://openalex.org/A5100752623), [Xingwei Li](https://openalex.org/A5061667297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03710.
-    
-No abstract    
-
-    
 
 ## Stereoselective Fe-Catalyzed Decoupled Cross-Couplings: Chiral Vinyl Oxazolidinones as Effective Radical Lynchpins for Diastereoselective C(sp2)–C(sp3) Bond Formation   
 
@@ -100,28 +23,6 @@ OpenAlex: https://openalex.org/W4401613110
 Open access: True
     
 [Siriphong Somprasong](https://openalex.org/A5028901741), [Marta Castiñeira Reis](https://openalex.org/A5052232106), [Syuzanna R. Harutyunyan](https://openalex.org/A5012293576), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03520.
-    
-No abstract    
-
-    
-
-## Acid–Base Bifunctional Catalysis of the Lewis Acidic Isolated Co(OH)2 and Basic N Anion Generated from CeO2 and 2-Cyanopyridine   
-
-OpenAlex: https://openalex.org/W4401613654    
-Open access: False
-    
-[Masazumi Tamura](https://openalex.org/A5074282622), [Masanobu Haga](https://openalex.org/A5009823089), [Anchalee Junkaew](https://openalex.org/A5005601022), [Daiki Asada](https://openalex.org/A5087295336), [Riko Ichikawa](https://openalex.org/A5023402348), [Ryo Toyoshima](https://openalex.org/A5008012900), [Akira Nakayama](https://openalex.org/A5106262571), [Hiroshi Kondoh](https://openalex.org/A5041562042), [Yoshinao Nakagawa](https://openalex.org/A5053881651), [Keiichi Tomishige](https://openalex.org/A5053906254), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02378.
-    
-No abstract    
-
-    
-
-## Confinement Effect and Application in Catalytic Oxidation–Reduction Reaction of Confined Single-Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4401614499    
-Open access: False
-    
-[X.‐B. Fan](https://openalex.org/A5103508715), [Donghao Li](https://openalex.org/A5100607527), [Yuanxiang Shu](https://openalex.org/A5079426674), [Yimeng Feng](https://openalex.org/A5103113889), [Fengxiang Li](https://openalex.org/A5100611624), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02113.
     
 No abstract    
 
@@ -182,6 +83,28 @@ No abstract
 
     
 
+## Highly Selective Dual-Atom Pd Heterogeneous Catalyst Prepared by Size-Selected Cluster Beam   
+
+OpenAlex: https://openalex.org/W4401606577    
+Open access: False
+    
+[Wenka Zhu](https://openalex.org/A5046863535), [Wen Wu Xu](https://openalex.org/A5101962097), [Xingen Lin](https://openalex.org/A5033926331), [S.F. Hu](https://openalex.org/A5101659241), [Sichen Tang](https://openalex.org/A5102547330), [Syed Adil Shah](https://openalex.org/A5045284604), [Zixiang Zhao](https://openalex.org/A5101213568), [Yongxin Zhang](https://openalex.org/A5100768241), [Siqi Lu](https://openalex.org/A5013262767), [X. F. Lu](https://openalex.org/A5027629406), [J. G. Wan](https://openalex.org/A5101650984), [Wen Wu Xu](https://openalex.org/A5101962097), [Huang Zhou](https://openalex.org/A5011982705), [Kuo‐Juei Hu](https://openalex.org/A5055199008), [Zhongkang Han](https://openalex.org/A5087862339), [Yuen Wu](https://openalex.org/A5022989538), [Fengqi Song](https://openalex.org/A5055941645), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02500.
+    
+Atomic dispersed heterogeneous catalysts have emerged as a prominent research focus in catalysis due to their exceptional atom utilization, robust activity, and remarkable selectivity. However, the design and synthesis of catalysts with a precisely defined atomic number and exceptional dispersion still pose significant challenges. In this study, we employed a magnetron sputtering cluster source equipped with a mass selector to selectively fabricate single-atom, dual-atom, and clusters with precise atomic numbers catalysts supported on mesoporous graphitic carbon nitride (mpg-C3N4). This method provides a universally applicable approach for synthesizing highly pure diatomic catalysts. Furthermore, the dual-atom Pd catalyst exhibits an outstanding turnover frequency of 5819 h–1 in the hydrogenation of nitrobenzene, surpassing that of both single-atom Pd and Pd2057 clusters. Density functional theory calculations reveal that excellent hydrogenation performance benefits from the easier dissociation of H–H bonds at the atomic geminal Pd2 sites in the hydrogenation process of nitrobenzene compared to that of single-atom Pd and Pd clusters. This work presents a universal synthetic strategy for precisely constructing multimetal atomic centers, showcasing the advantages of geminal metal sites in catalyzing multimolecule-involved reactions.    
+
+    
+
+## Rhodium-Catalyzed Asymmetric Hydroselenation of 1-Alkynylindoles for Atroposelective Synthesis of Vinyl Selenoethers   
+
+OpenAlex: https://openalex.org/W4401608966    
+Open access: False
+    
+[Yu-Long Kang](https://openalex.org/A5013313471), [Fen Wang](https://openalex.org/A5100752623), [Xingwei Li](https://openalex.org/A5061667297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03710.
+    
+Catalytic asymmetric hydrofunctionalization of π-bonds has been extensively studied, but the asymmetric hydrofunctionalization of alkynes that affords atropoisometric products remains heavily underexplored. We herein report [Rh(COD)OAc]2/Mg(NTf2)2-catayzed highly atroposelective hydroselenation of two classes of 1-alkynylindoles using selenophenols, where the Mg(II) salt both activates the Rh catalyst and provides a key NTf2 anion essential for the catalytic activity and enantioselectivity, affording C–N axially chiral trisubstituted olefins that bear a relatively low racemization barrier (ΔG‡ ∼ 27 kcal/mol). The catalytic system features high activity, mild reaction conditions, good functional group tolerance, and high regio-, (E)-, and enantioselectivity. The selenoether moiety in the product framework can be readily functionalized to give synthetically useful products.    
+
+    
+
 ## Two-Electron or Four-Electron Nanocatalysis for Aerobic Glucose Oxidation: A Mechanism-Driven Prediction Model   
 
 OpenAlex: https://openalex.org/W4401611661    
@@ -190,6 +113,28 @@ Open access: False
 [Sheng Wang](https://openalex.org/A5100371335), [Qiao-Zhi Li](https://openalex.org/A5088455541), [Jia‐Jia Zheng](https://openalex.org/A5080159973), [Xingfa Gao](https://openalex.org/A5057337824), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03226.
     
 The nanomaterial-catalyzed oxidation of glucose can produce H2O2 or H2O as the oxygen reduction products. However, the theoretical model predicting the selection between H2O2 and H2O products is still lacking, which limits the rational design of aerobic glucose oxidation nanocatalysts for H2O2-targeted applications in disease diagnoses and therapies. In this work, a mechanism-driven prediction model that can predict whether a nanocatalyst preferably undergoes the 2e-catalysis to produce H2O2 or the 4e-catalysis to produce H2O is developed. The development of the model is first based on the reaction thermodynamics, and then a correction constant is introduced in conjunction with experimental reports to compensate to some extent for the lack of consideration of other influencing factors such as the reaction kinetics. The predictive power of the model is verified by density functional theory investigations on the mechanisms and kinetics of the experimentally reported noble metal nanocatalysts. Using the model, binary alloy nanomaterials, which preferably undergo 2e-catalysis to produce H2O2, have been predicted. This work provides theoretical guidelines for the rational design of aerobic glucose oxidation nanocatalysts capable of producing H2O2 and facilitates their application in H2O2-targeted biomedicine.    
+
+    
+
+## Acid–Base Bifunctional Catalysis of the Lewis Acidic Isolated Co(OH)2 and Basic N Anion Generated from CeO2 and 2-Cyanopyridine   
+
+OpenAlex: https://openalex.org/W4401613654    
+Open access: False
+    
+[Masazumi Tamura](https://openalex.org/A5074282622), [Masanobu Haga](https://openalex.org/A5009823089), [Anchalee Junkaew](https://openalex.org/A5005601022), [Daiki Asada](https://openalex.org/A5087295336), [Riko Ichikawa](https://openalex.org/A5023402348), [Ryo Toyoshima](https://openalex.org/A5008012900), [Akira Nakayama](https://openalex.org/A5106262571), [Hiroshi Kondoh](https://openalex.org/A5041562042), [Yoshinao Nakagawa](https://openalex.org/A5053881651), [Keiichi Tomishige](https://openalex.org/A5053906254), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02378.
+    
+Acid–base bifunctional catalysts, which have both acid and base sites that are arranged at an appropriate distance, are one of the effective catalyst categories and have been extensively studied as a simple and effective method for designing heterogeneous and homogeneous catalysts in both the laboratories and industry. Recently, we found that a heterogeneous–homogeneous hybrid strong base site of N– was constructed only by mixing 2-cyanopyridine and CeO2 in the solution, where the N– site was formed by the covalent bonding between the lattice O atom of CeO2 and the C atom of the CN group in 2-cyanopyridine. Herein, an effective acid–base bifunctional catalyst with proximal sites of the heterogeneous–homogeneous hybrid base site and metal species-derived Lewis acid site is presented. The introduction of Co species into CeO2 forms isolated Co(OH)2 on CeO2, and further introduction of 2-cyanopyridine generates the heterogeneous–homogeneous hybrid base site of N– near the Co(OH)2 without the interference of these sites. The acid–base bifunctional sites work cooperatively to provide about 10-fold higher activity to the hydromethoxylation of acrylonitrile than the heterogeneous–homogeneous hybrid base site alone. Catalyst characterizations such as XRD, TEM, UV–vis, NO adsorption, XPS, Raman, XAS, NH3-TPD and in situ XPS, DFT calculations, and kinetic studies show that acrylonitrile and methanol are activated by the Lewis acidic Co(OH)2 and the hybrid base site, respectively, and the cooperative work results in the large rate enhancement.    
+
+    
+
+## Confinement Effect and Application in Catalytic Oxidation–Reduction Reaction of Confined Single-Atom Catalysts   
+
+OpenAlex: https://openalex.org/W4401614499    
+Open access: False
+    
+[X.‐B. Fan](https://openalex.org/A5103508715), [Donghao Li](https://openalex.org/A5100607527), [Yuanxiang Shu](https://openalex.org/A5079426674), [Yimeng Feng](https://openalex.org/A5103113889), [Fengxiang Li](https://openalex.org/A5100611624), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02113.
+    
+Single-atom catalysts (SACs) exhibit remarkable 100% atomic economy, making them highly efficient in various fields, including production processes, energy systems, and environmental remediation. However, the migration and agglomeration of single atoms significantly diminish reactivity and increase the operating cost of the catalyst. Due to the size effect, the space confinement effect, and the electron confinement effect, the single atoms are stabilized, and overall catalytic performance is also improved. The confinement effect can be enhanced by modifying the supporting materials with ordered and regular pore structures and improving the binding mode between the support and the single atom. In this Review, the confined functional structure will be explained for the synthesis of confined SACs. It elucidates mechanisms for the formation of the confinement effect and elaborates how the confinement effect improves catalytic performance. This Review is helpful for better understanding, controlling, and utilizing the confinement effect to design confined SACs with impressive catalytic performance.    
 
     
 

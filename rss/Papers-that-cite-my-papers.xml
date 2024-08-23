@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Aug 2024 01:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 01:12:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrodeposition of FeNiCoCrMn high-entropy alloys on copper foam for enhanced hydrogen evolution reaction&#8212;&#8212;influence of additives and deposition potential</title>
-      <link>https://doi.org/10.1016/j.matlet.2024.137195</link>
-      <description>Liu Ju, Wangping Wu, Yicheng Zhou, Yi Zhang, Qinqin Wang, Materials Letters. None(None)] 2024. https://openalex.org/W4401571786
-
-                No abstract</description>
-      <author>Liu Ju, Wangping Wu, Yicheng Zhou, Yi Zhang, Qinqin Wang</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2024.137195</guid>
-    </item>
-    <item>
-      <title>A-site doping of cobalt-free Ba1-xAxFeO3-&#948; (A=Ca, Sr) as cathode for proton-conducting ceramic cells</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.08.194</link>
-      <description>Chenxiao Wang, Kui Liu, Yinghao Wu, Guangjun Zhang, Xuelian Li, Jiaxin Wu, Ruili Sun, Ting Chen, Lang Xu, Shaorong Wang, International Journal of Hydrogen Energy. 83(None)] 2024. https://openalex.org/W4401583093
-
-                No abstract</description>
-      <author>Chenxiao Wang, Kui Liu, Yinghao Wu, Guangjun Zhang, Xuelian Li, Jiaxin Wu, Ruili Sun, Ting Chen, Lang Xu, Shaorong Wang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.194</guid>
-    </item>
-    <item>
-      <title>Quantum computing in bioinformatics: a systematic review mapping</title>
-      <link>https://doi.org/10.1093/bib/bbae391</link>
-      <description>Katarzyna Na&#322;&#281;cz-Charkiewicz, Kamil Charkiewicz, Robert Nowak, Briefings in Bioinformatics. 25(5)] 2024. https://openalex.org/W4401583942
-
-                Abstract The field of quantum computing (QC) is expanding, with efforts being made to apply it to areas previously covered by classical algorithms and methods. Bioinformatics is one such domain that is developing in terms of QC. This article offers a broad mapping review of methods and algorithms of QC in bioinformatics, marking the first of its kind. It presents an overview of the domain and aids researchers in identifying further research directions in the early stages of this field of knowledge. The work presented here shows the current state-of-the-art solutions, focuses on general future directions, and highlights the limitations of current methods. The gathered data includes a comprehensive list of identified methods along with descriptions, classifications, and elaborations of their advantages and disadvantages. Results are presented not just in a descriptive table but also in an aggregated and visual format.</description>
-      <author>Katarzyna Na&#322;&#281;cz-Charkiewicz, Kamil Charkiewicz, Robert Nowak</author>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/bib/bbae391</guid>
-    </item>
-    <item>
-      <title>i-PI 3.0: A flexible and efficient framework for advanced atomistic simulations</title>
-      <link>https://doi.org/10.1063/5.0215869</link>
-      <description>Yair Litman, Venkat Kapil, Yotam M. Y. Feldman, Davide Tisi, Tomislav Begu&#353;i&#263;, Karen Fidanyan, Guillaume Fraux, Jacob Higer, Matthias Kellner, Tao E. Li, Eszter S. P&#243;s, Elia Stocco, George Trenins, Barak Hirshberg, Mariana Rossi, Michele Ceriotti, The Journal of Chemical Physics. 161(6)] 2024. https://openalex.org/W4401584941
-
-                Atomic-scale simulations have progressed tremendously over the past decade, largely thanks to the availability of machine-learning interatomic potentials. These potentials combine the accuracy of electronic structure calculations with the ability to reach extensive length and time scales. The i-PI package facilitates integrating the latest developments in this field with advanced modeling techniques thanks to a modular software architecture based on inter-process communication through a socket interface. The choice of Python for implementation facilitates rapid prototyping but can add computational overhead. In this new release, we carefully benchmarked and optimized i-PI for several common simulation scenarios, making such overhead negligible when i-PI is used to model systems up to tens of thousands of atoms using widely adopted machine learning interatomic potentials, such as Behler&#8211;Parinello, DeePMD, and MACE neural networks. We also present the implementation of several new features, including an efficient algorithm to model bosonic and fermionic exchange, a framework for uncertainty quantification to be used in conjunction with machine-learning potentials, a communication infrastructure that allows for deeper integration with electronic-driven simulations, and an approach to simulate coupled photon-nuclear dynamics in optical or plasmonic cavities.</description>
-      <author>Yair Litman, Venkat Kapil, Yotam M. Y. Feldman, Davide Tisi, Tomislav Begu&#353;i&#263;, Karen Fidanyan, Guillaume Fraux, Jacob Higer, Matthias Kellner, Tao E. Li, Eszter S. P&#243;s, Elia Stocco, George Trenins, Barak Hirshberg, Mariana Rossi, Michele Ceriotti</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0215869</guid>
-    </item>
-    <item>
-      <title>Uncertainty quantification in atomistic simulations of silicon using interatomic potentials</title>
-      <link>https://doi.org/10.1063/5.0214590</link>
-      <description>I. R. Best, T. J. Sullivan, James R. Kermode, The Journal of Chemical Physics. 161(6)] 2024. https://openalex.org/W4401584960
-
-                Atomistic simulations often rely on interatomic potentials to access greater time and length scales than those accessible to first-principles methods, such as density functional theory. However, since a parameterized potential typically cannot reproduce the true potential energy surface of a given system, we should expect a decrease in accuracy and increase in error in quantities of interest calculated from these simulations. Quantifying the uncertainty on the outputs of atomistic simulations is thus an important, necessary step so that there is confidence in the results and available metrics to explore improvements in said simulations. Here, we address this research question by forming ensembles of atomic cluster expansion potentials, and using conformal prediction with ab initio training data to provide meaningful, calibrated error bars on several quantities of interest for silicon: the bulk modulus, elastic constants, relaxed vacancy formation energy, and the vacancy migration barrier. We evaluate the effects on uncertainty bounds using a range of different potentials and training sets.</description>
-      <author>I. R. Best, T. J. Sullivan, James R. Kermode</author>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0214590</guid>
-    </item>
-    <item>
-      <title>High throughput MN4-G screening electrocatalyst for highly selective acetylene semi-hydrogenation</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.129160</link>
-      <description>Kai Xu, Mingqiang Liu, Song Xiaoning, Shengyuan Xu, Liang Huang, Kefeng Xie, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4401585544
-
-                No abstract</description>
-      <author>Kai Xu, Mingqiang Liu, Song Xiaoning, Shengyuan Xu, Liang Huang, Kefeng Xie</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.129160</guid>
-    </item>
-    <item>
-      <title>Electronic properties modulation for two-dimensional materials of boron phosphorus monolayer and derived single atom catalysts for the hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.110088</link>
-      <description>Yuhua Wei, Feng Gao, Haibo Liu, Qi Wei, Sichao Du, Hao Xie, Duo Xiao, Materials Today Communications. None(None)] 2024. https://openalex.org/W4401585584
-
-                No abstract</description>
-      <author>Yuhua Wei, Feng Gao, Haibo Liu, Qi Wei, Sichao Du, Hao Xie, Duo Xiao</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.110088</guid>
-    </item>
     <item>
       <title>Single-, Double-, and Triple-atom Catalysts on PC6 for Nitrate Reduction to Ammonia: A Computational Screening</title>
       <link>https://doi.org/10.1016/j.electacta.2024.144915</link>
@@ -128,16 +58,6 @@
       <guid isPermaLink="true">https://doi.org/10.21105/joss.06194</guid>
     </item>
     <item>
-      <title>Synergistic Effects of the Electric Field Induced by Imidazolium Rotation and Hydrogen Bonding in Electrocatalysis of CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/jacs.4c05172</link>
-      <description>Oguz Kagan Coskun, Zeynep Bagbudar, Vaishali Khokhar, Saudagar Dongare, Robert E. Warburton, Burcu Gurkan, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4401618125
-
-                The roles of the ionic liquid (IL), 1-ethyl-3-methylimidazolium tetrafluoroborate ([EMIM][BF</description>
-      <author>Oguz Kagan Coskun, Zeynep Bagbudar, Vaishali Khokhar, Saudagar Dongare, Robert E. Warburton, Burcu Gurkan</author>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c05172</guid>
-    </item>
-    <item>
       <title>Optimizing the Lattice Nitrogen Coordination to Break the Performance Limitation of Metal Nitrides for Electrocatalytic Nitrogen Reduction</title>
       <link>https://doi.org/10.1021/jacsau.4c00377</link>
       <description>Haiyang Yuan, Chen Zhu, Yu Hou, Hua Gui Yang, Haifeng Wang, JACS Au. None(None)] 2024. https://openalex.org/W4401627407
@@ -178,16 +98,6 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s00894-024-06099-5</guid>
     </item>
     <item>
-      <title>Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell</title>
-      <link>https://doi.org/10.1007/s11581-024-05767-z</link>
-      <description>K.P. Jithul, B. Tamilarasi, Jay Pandey, Ionics. None(None)] 2024. https://openalex.org/W4401664259
-
-                No abstract</description>
-      <author>K.P. Jithul, B. Tamilarasi, Jay Pandey</author>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05767-z</guid>
-    </item>
-    <item>
       <title>Janus NbOBrI monolayer for efficient photocatalytic overall water splitting</title>
       <link>https://doi.org/10.1016/j.surfin.2024.104980</link>
       <description>Xue Deng, Tie Zhou, Xiao Long, Jing Xie, Bing Lv, Yangfang Liao, Wenzhong Wang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401675459
@@ -206,6 +116,16 @@
       <author>Mohamad Ataya, Eric McCalla, Rustam Z. Khaliullin</author>
       <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01221</guid>
+    </item>
+    <item>
+      <title>Synergistic Effects of the Electric Field Induced by Imidazolium Rotation and Hydrogen Bonding in Electrocatalysis of CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/jacs.4c05172</link>
+      <description>Oguz Kagan Coskun, Zeynep Bagbudar, Vaishali Khokhar, Saudagar Dongare, Robert E. Warburton, Burcu Gurkan, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4401618125
+
+                The roles of the ionic liquid (IL), 1-ethyl-3-methylimidazolium tetrafluoroborate ([EMIM][BF4]), and water in controlling the mechanism, energetics, and electrocatalytic activity of CO2 reduction to CO on silver in nonaqueous electrolytes were investigated. The first electron transfer occurs to CO2 at reduced overpotentials when it is trapped between the planes of the [EMIM]+ ring and the electrode surface due to cation reorientation as determined from voltammetry, in situ surface-enhanced Raman spectroscopy, and density functional theory calculations. Within this interface, water up to 0.5 M does not induce significant Faradaic activity, opposing the notion of it being a free proton source. Instead, water acts as a hydrogen bond donor, and the proton is sourced from [EMIM]+. Furthermore, this study demonstrates that alcohols with varying acidities tune the hydrogen bonding network in the interfacial microenvironment to lower the energetics required for CO2 reduction. The hydrogen bonding suppresses the formation of inactive carboxylate species, thus preserving the catalytic activity of [EMIM]+. The ability to tune the hydrogen bonding network opens new avenues for advancing IL-mediated electrocatalytic reactions in nonaqueous electrolytes.</description>
+      <author>Oguz Kagan Coskun, Zeynep Bagbudar, Vaishali Khokhar, Saudagar Dongare, Robert E. Warburton, Burcu Gurkan</author>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c05172</guid>
     </item>
     <item>
       <title>Small basis set density functional theory method for cost-efficient, large-scale condensed matter simulations</title>
@@ -308,6 +228,16 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02950-z</guid>
     </item>
     <item>
+      <title>Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell</title>
+      <link>https://doi.org/10.1007/s11581-024-05767-z</link>
+      <description>K.P. Jithul, B. Tamilarasi, Jay Pandey, Ionics. None(None)] 2024. https://openalex.org/W4401664259
+
+                No abstract</description>
+      <author>K.P. Jithul, B. Tamilarasi, Jay Pandey</author>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05767-z</guid>
+    </item>
+    <item>
       <title>Machine Learning&#8208;Assisted Design of Nitrogen&#8208;Rich Covalent Triazine Frameworks Photocatalysts</title>
       <link>https://doi.org/10.1002/adfm.202413453</link>
       <description>Mingliang Wu, Zhilong Song, Yu Cui, Zhanzhao Fu, Kunquan Hong, Qiang Li, Zhiyang Lyu, Wei Wang, Jinlan Wang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401686058
@@ -396,6 +326,16 @@
       <author>&#272;&#7863;ng Long Qu&#226;n, Soong&#8208;Hyuck Suh, Do Ngoc Son</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ra04493b</guid>
+    </item>
+    <item>
+      <title>Theoretical Investigation on Enhanced HER Electrocatalytic Activities of SiC Monolayers through Nonmetal Doping and Strain Engineering</title>
+      <link>https://doi.org/10.1039/d4ce00633j</link>
+      <description>Bingwen Li, Hongrui Shi, Zeyun Ni, Haifeng Zheng, Kehao Chen, Yuting Yan, Huimin Qi, Yu Xue, Xinfang Wang, Liming Fan, CrystEngComm. None(None)] 2024. https://openalex.org/W4401717241
+
+                Efficient hydrogen evolution reaction (HER) electrocatalysts are crucial for renewable energy storage and conversion.</description>
+      <author>Bingwen Li, Hongrui Shi, Zeyun Ni, Haifeng Zheng, Kehao Chen, Yuting Yan, Huimin Qi, Yu Xue, Xinfang Wang, Liming Fan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ce00633j</guid>
     </item>
     <item>
       <title>Empirical Study and Mitigation Methods of Bias in LLM-Based Robots</title>
