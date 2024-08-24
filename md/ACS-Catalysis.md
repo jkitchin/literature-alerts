@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Aug 23 01:12:47 2024
+Created on Sat Aug 24 01:11:38 2024
 
-Found 26 results from 2024-08-16 to 2024-08-23
+Found 26 results from 2024-08-17 to 2024-08-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Stereoselective Fe-Catalyzed Decoupled Cross-Couplings: Chiral Vinyl Oxazolidinones as Effective Radical Lynchpins for Diastereoselective C(sp2)–C(sp3) Bond Formation   
-
-OpenAlex: https://openalex.org/W4401611031    
-Open access: True
-    
-[Tapas Maity](https://openalex.org/A5012541428), [Ángel Rentería‐Gómez](https://openalex.org/A5046224682), [Osvaldo Gutiérrez](https://openalex.org/A5038942712), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04568.
-    
-No abstract    
-
-    
-
-## Grignard Reagent Addition to Pyridinium Salts: A Catalytic Approach to Chiral 1,4-Dihydropyridines   
-
-OpenAlex: https://openalex.org/W4401613110    
-Open access: True
-    
-[Siriphong Somprasong](https://openalex.org/A5028901741), [Marta Castiñeira Reis](https://openalex.org/A5052232106), [Syuzanna R. Harutyunyan](https://openalex.org/A5012293576), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03520.
-    
-No abstract    
-
-    
-
-## Benchtop-Stable Carbyl Iminopyridyl NiII Complexes for Olefin Polymerization   
-
-OpenAlex: https://openalex.org/W4401629582    
-Open access: True
-    
-[Hasaan Rauf](https://openalex.org/A5090769339), [Yu‐Sheng Liu](https://openalex.org/A5100671448), [Muhammad Arslan](https://openalex.org/A5106560081), [Surya Pratap S. Solanki](https://openalex.org/A5060701151), [Éric Deydier](https://openalex.org/A5063346563), [Rinaldo Poli](https://openalex.org/A5073644685), [Lars C. Grabow](https://openalex.org/A5029991019), [Eva Harth](https://openalex.org/A5007452156), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02708.
-    
-No abstract    
-
-    
 
 ## P-Block Elements Activate Pt Surfaces for the Electrooxidation of Alcohols and Polyols When Promoting the −OH formation   
 
@@ -80,72 +47,6 @@ Open access: True
 [Ines Blaha](https://openalex.org/A5031505385), [Stefan Weber](https://openalex.org/A5071469908), [Robin Dülger](https://openalex.org/A5099525009), [Luı́s F. Veiros](https://openalex.org/A5046772276), [Karl Kirchner](https://openalex.org/A5047476885), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03364.
     
 No abstract    
-
-    
-
-## Highly Selective Dual-Atom Pd Heterogeneous Catalyst Prepared by Size-Selected Cluster Beam   
-
-OpenAlex: https://openalex.org/W4401606577    
-Open access: False
-    
-[Wenka Zhu](https://openalex.org/A5046863535), [Wen Wu Xu](https://openalex.org/A5101962097), [Xingen Lin](https://openalex.org/A5033926331), [S.F. Hu](https://openalex.org/A5101659241), [Sichen Tang](https://openalex.org/A5102547330), [Syed Adil Shah](https://openalex.org/A5045284604), [Zixiang Zhao](https://openalex.org/A5101213568), [Yongxin Zhang](https://openalex.org/A5100768241), [Siqi Lu](https://openalex.org/A5013262767), [X. F. Lu](https://openalex.org/A5027629406), [J. G. Wan](https://openalex.org/A5101650984), [Wen Wu Xu](https://openalex.org/A5101962097), [Huang Zhou](https://openalex.org/A5011982705), [Kuo‐Juei Hu](https://openalex.org/A5055199008), [Zhongkang Han](https://openalex.org/A5087862339), [Yuen Wu](https://openalex.org/A5022989538), [Fengqi Song](https://openalex.org/A5055941645), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02500.
-    
-Atomic dispersed heterogeneous catalysts have emerged as a prominent research focus in catalysis due to their exceptional atom utilization, robust activity, and remarkable selectivity. However, the design and synthesis of catalysts with a precisely defined atomic number and exceptional dispersion still pose significant challenges. In this study, we employed a magnetron sputtering cluster source equipped with a mass selector to selectively fabricate single-atom, dual-atom, and clusters with precise atomic numbers catalysts supported on mesoporous graphitic carbon nitride (mpg-C3N4). This method provides a universally applicable approach for synthesizing highly pure diatomic catalysts. Furthermore, the dual-atom Pd catalyst exhibits an outstanding turnover frequency of 5819 h–1 in the hydrogenation of nitrobenzene, surpassing that of both single-atom Pd and Pd2057 clusters. Density functional theory calculations reveal that excellent hydrogenation performance benefits from the easier dissociation of H–H bonds at the atomic geminal Pd2 sites in the hydrogenation process of nitrobenzene compared to that of single-atom Pd and Pd clusters. This work presents a universal synthetic strategy for precisely constructing multimetal atomic centers, showcasing the advantages of geminal metal sites in catalyzing multimolecule-involved reactions.    
-
-    
-
-## Rhodium-Catalyzed Asymmetric Hydroselenation of 1-Alkynylindoles for Atroposelective Synthesis of Vinyl Selenoethers   
-
-OpenAlex: https://openalex.org/W4401608966    
-Open access: False
-    
-[Yu-Long Kang](https://openalex.org/A5013313471), [Fen Wang](https://openalex.org/A5100752623), [Xingwei Li](https://openalex.org/A5061667297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03710.
-    
-Catalytic asymmetric hydrofunctionalization of π-bonds has been extensively studied, but the asymmetric hydrofunctionalization of alkynes that affords atropoisometric products remains heavily underexplored. We herein report [Rh(COD)OAc]2/Mg(NTf2)2-catayzed highly atroposelective hydroselenation of two classes of 1-alkynylindoles using selenophenols, where the Mg(II) salt both activates the Rh catalyst and provides a key NTf2 anion essential for the catalytic activity and enantioselectivity, affording C–N axially chiral trisubstituted olefins that bear a relatively low racemization barrier (ΔG‡ ∼ 27 kcal/mol). The catalytic system features high activity, mild reaction conditions, good functional group tolerance, and high regio-, (E)-, and enantioselectivity. The selenoether moiety in the product framework can be readily functionalized to give synthetically useful products.    
-
-    
-
-## Two-Electron or Four-Electron Nanocatalysis for Aerobic Glucose Oxidation: A Mechanism-Driven Prediction Model   
-
-OpenAlex: https://openalex.org/W4401611661    
-Open access: False
-    
-[Sheng Wang](https://openalex.org/A5100371335), [Qiao-Zhi Li](https://openalex.org/A5088455541), [Jia‐Jia Zheng](https://openalex.org/A5080159973), [Xingfa Gao](https://openalex.org/A5057337824), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03226.
-    
-The nanomaterial-catalyzed oxidation of glucose can produce H2O2 or H2O as the oxygen reduction products. However, the theoretical model predicting the selection between H2O2 and H2O products is still lacking, which limits the rational design of aerobic glucose oxidation nanocatalysts for H2O2-targeted applications in disease diagnoses and therapies. In this work, a mechanism-driven prediction model that can predict whether a nanocatalyst preferably undergoes the 2e-catalysis to produce H2O2 or the 4e-catalysis to produce H2O is developed. The development of the model is first based on the reaction thermodynamics, and then a correction constant is introduced in conjunction with experimental reports to compensate to some extent for the lack of consideration of other influencing factors such as the reaction kinetics. The predictive power of the model is verified by density functional theory investigations on the mechanisms and kinetics of the experimentally reported noble metal nanocatalysts. Using the model, binary alloy nanomaterials, which preferably undergo 2e-catalysis to produce H2O2, have been predicted. This work provides theoretical guidelines for the rational design of aerobic glucose oxidation nanocatalysts capable of producing H2O2 and facilitates their application in H2O2-targeted biomedicine.    
-
-    
-
-## Acid–Base Bifunctional Catalysis of the Lewis Acidic Isolated Co(OH)2 and Basic N Anion Generated from CeO2 and 2-Cyanopyridine   
-
-OpenAlex: https://openalex.org/W4401613654    
-Open access: False
-    
-[Masazumi Tamura](https://openalex.org/A5074282622), [Masanobu Haga](https://openalex.org/A5009823089), [Anchalee Junkaew](https://openalex.org/A5005601022), [Daiki Asada](https://openalex.org/A5087295336), [Riko Ichikawa](https://openalex.org/A5023402348), [Ryo Toyoshima](https://openalex.org/A5008012900), [Akira Nakayama](https://openalex.org/A5106262571), [Hiroshi Kondoh](https://openalex.org/A5041562042), [Yoshinao Nakagawa](https://openalex.org/A5053881651), [Keiichi Tomishige](https://openalex.org/A5053906254), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02378.
-    
-Acid–base bifunctional catalysts, which have both acid and base sites that are arranged at an appropriate distance, are one of the effective catalyst categories and have been extensively studied as a simple and effective method for designing heterogeneous and homogeneous catalysts in both the laboratories and industry. Recently, we found that a heterogeneous–homogeneous hybrid strong base site of N– was constructed only by mixing 2-cyanopyridine and CeO2 in the solution, where the N– site was formed by the covalent bonding between the lattice O atom of CeO2 and the C atom of the CN group in 2-cyanopyridine. Herein, an effective acid–base bifunctional catalyst with proximal sites of the heterogeneous–homogeneous hybrid base site and metal species-derived Lewis acid site is presented. The introduction of Co species into CeO2 forms isolated Co(OH)2 on CeO2, and further introduction of 2-cyanopyridine generates the heterogeneous–homogeneous hybrid base site of N– near the Co(OH)2 without the interference of these sites. The acid–base bifunctional sites work cooperatively to provide about 10-fold higher activity to the hydromethoxylation of acrylonitrile than the heterogeneous–homogeneous hybrid base site alone. Catalyst characterizations such as XRD, TEM, UV–vis, NO adsorption, XPS, Raman, XAS, NH3-TPD and in situ XPS, DFT calculations, and kinetic studies show that acrylonitrile and methanol are activated by the Lewis acidic Co(OH)2 and the hybrid base site, respectively, and the cooperative work results in the large rate enhancement.    
-
-    
-
-## Confinement Effect and Application in Catalytic Oxidation–Reduction Reaction of Confined Single-Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4401614499    
-Open access: False
-    
-[X.‐B. Fan](https://openalex.org/A5103508715), [Donghao Li](https://openalex.org/A5100607527), [Yuanxiang Shu](https://openalex.org/A5079426674), [Yimeng Feng](https://openalex.org/A5103113889), [Fengxiang Li](https://openalex.org/A5100611624), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02113.
-    
-Single-atom catalysts (SACs) exhibit remarkable 100% atomic economy, making them highly efficient in various fields, including production processes, energy systems, and environmental remediation. However, the migration and agglomeration of single atoms significantly diminish reactivity and increase the operating cost of the catalyst. Due to the size effect, the space confinement effect, and the electron confinement effect, the single atoms are stabilized, and overall catalytic performance is also improved. The confinement effect can be enhanced by modifying the supporting materials with ordered and regular pore structures and improving the binding mode between the support and the single atom. In this Review, the confined functional structure will be explained for the synthesis of confined SACs. It elucidates mechanisms for the formation of the confinement effect and elaborates how the confinement effect improves catalytic performance. This Review is helpful for better understanding, controlling, and utilizing the confinement effect to design confined SACs with impressive catalytic performance.    
-
-    
-
-## Synergistic Cooperation of Dual-Phase Redox Catalysts in Chemical Looping Oxidative Coupling of Methane   
-
-OpenAlex: https://openalex.org/W4401628374    
-Open access: False
-    
-[Leo Brody](https://openalex.org/A5087288709), [Bar Mosevitzky Lis](https://openalex.org/A5036437960), [Abigail Pérez Ortiz](https://openalex.org/A5072485858), [Mohammadreza Kosari](https://openalex.org/A5066686606), [Kyle Vogt‐Lowell](https://openalex.org/A5037267949), [Sam Portillo](https://openalex.org/A5064788542), [Reinhard Schomäcker](https://openalex.org/A5021619062), [Israel E. Wachs](https://openalex.org/A5066491588), [Fanxing Li](https://openalex.org/A5081461600), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03001.
-    
-Chemical looping oxidative coupling of methane (CL-OCM) presents a promising route for light olefin production, offering a simpler alternative to conventional methane steam reforming approaches. The selection of the redox catalyst used in CL-OCM is critical since it must achieve high C2+ yields (>25%) while maintaining longevity in harsh reaction environments. We present a comprehensive performance evaluation and characterization of an understudied, yet highly effective redox catalyst capable of achieving and maintaining a C2+ yield of 26.8% at 840 °C. Through extensive ex situ and in situ analyses, including X-ray diffraction, near-ambient pressure X-ray photoelectron spectroscopy (NAP-XPS), and Raman spectroscopy, we have characterized the catalyst and identified two distinct bulk, crystalline phases: cubic LixMg6–xMnO8 and orthorhombic Mg3–xMnx(BO3)O2. Calcination at 1200 °C, as opposed to a typical calcination temperature of 900 °C, increased the orthoborate oxide phase to ∼45 wt % while reducing the BET surface area by 65%. By investigating performance differences between these catalysts in their "sintered" and "presintered" states, we have unveiled surprising cooperative effects between the two phases. Experiments with physical mixing of these two phases (granular stacking and mortar mixing) revealed that observed differences in CL-OCM efficacy cannot be solely due to sintering-induced loss of surface area but are also the result of synergistic, dual-phase interactions that enhance overall C2+ yield. H2-temperature programmed reduction measurements and ex situ XPS analysis demonstrate that the sintered catalyst has a lower average Mn-oxidation state, enabling more selective lattice oxygen release and limiting overoxidation to COx species. Additionally, NAP-XPS and in situ Raman characterization suggest that boron–oxygen coordinated sites (BOx) may also play a role in improving selectivity. Leveraging insights from our phase mixture CL-OCM performance tests, steady-state experiments with cofed O2, and corroborative in situ characterizations, we propose that the synergistic interplay between LixMg6–xMnO8 and Mg3–xMnx(BO3)O2 may be the result of facile oxygen release from the more redox-active LixMg6–xMnO8 phase combined with Li+ migration to the orthoborate oxide phase.    
 
     
 
@@ -289,5 +190,104 @@ Open access: False
 [Luyang Qiao](https://openalex.org/A5059456132), [Xi-guang Wang](https://openalex.org/A5073916217), [Shanshan Zong](https://openalex.org/A5008824073), [Zhi Gao Huang](https://openalex.org/A5040025789), [Zhangfeng Zhou](https://openalex.org/A5048710212), [Maohong Fan](https://openalex.org/A5079808010), [Yuan‐Gen Yao](https://openalex.org/A5006305984), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02874.
     
 No abstract    
+
+    
+
+## Tailoring and Visualizing Macropores of the Zeolite Monolith to Reveal the Coke Resistance Performance for Bio-oil Hydrodeoxygenation   
+
+OpenAlex: https://openalex.org/W4401732939    
+Open access: False
+    
+[Fengli Gan](https://openalex.org/A5023215914), [Xia Jiang](https://openalex.org/A5100705051), [Ziheng Jin](https://openalex.org/A5020872993), [Mingwu Tan](https://openalex.org/A5031845348), [Xindi Xie](https://openalex.org/A5104225318), [Qinjun Peng](https://openalex.org/A5023655660), [Guang‐Mei Cao](https://openalex.org/A5030467601), [Shenggui Ma](https://openalex.org/A5101685178), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02914.
+    
+Mass transport in conventional microporous zeolite catalysts can be enhanced by introducing secondary mesopores during hydrodeoxygenation (HDO). However, the impact of the macropore architecture with intrinsic mass transfer advantages over mesopores on HDO performance remains elusive. In this study, a macroporous zeolite monolith catalyst without a template and binder was synthesized using a crystal space-confined growth method. This catalyst exhibited a 1.3 times higher macropore volume (0.566 m3/g) than a conventional zeolite catalyst, while the microporous structure was similar. Moreover, the high degree macropore connectivity was directly visualized and quantified with an advanced nanocomputed tomography technique. The macroporous catalyst achieved a higher guaiacol conversion rate of 93% and better coke resistance (3.2 wt % coke) than the conventional zeolite catalyst, which showed a 90% guaiacol conversion rate and 5.6 wt % coke. This improvement was primarily due to faster diffusion rates and an increased number of acid sites in the macropores.    
+
+    
+
+## Stereocomplementary Unspecific Peroxygenases for Asymmetric Anti-Markovnikov Wacker-Type Oxidation and Epoxidation of Styrenes   
+
+OpenAlex: https://openalex.org/W4401733354    
+Open access: True
+    
+[Alexander Swoboda](https://openalex.org/A5068953844), [Zerina Duhović](https://openalex.org/A5092059447), [Isabella E. E. Kroschel](https://openalex.org/A5106635513), [Moritz Bürgler](https://openalex.org/A5092931390), [Katharina Ebner](https://openalex.org/A5074940796), [Anton Glieder](https://openalex.org/A5046566413), [Wolfgang Kroutil](https://openalex.org/A5009412615), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02169.
+    
+The Wacker reaction gives access to carbonyls from olefins and is traditionally relying on metals, mostly palladium. Here, unspecific peroxygenases (UPOs) are spotlighted as palladium-free biocatalysts for asymmetric anti-Markovnikov Wacker-type oxidation of styrenes, moving them beyond their traditional role in C–H oxidation and stereoselective epoxidation. Screening 53 wild-type UPOs for the oxidation of styrene and derivatives revealed examples of high reaction selectivity leading mostly to the epoxide with an epoxide selectivity of up to >99%. For selected UPOs and styrene derivatives, aldehyde formation was found with an aldehyde selectivity of up to 86%. Conversions of up to 89% were reached (preferring epoxidation). Stereocomplementary UPOs were identified for the epoxidation, giving access to the (R)- and (S)-epoxides with ee values of up to 94%. Also, for the anti-Markovnikov Wacker-type oxidation of α-methylstyrene, stereocomplementary enzymes were identified, leading to an excess of either the (R)- or (S)-enantiomer of 2-phenylpropanal. Most interestingly, it was found that the absolute configuration of the aldehyde formed does not necessarily correlate with the absolute configuration of the epoxide; thus, aldehyde and epoxide may have the same or the opposite absolute configurations.    
+
+    
+
+## Atomic Carbon Equivalent: Design and Application to Diversity-Generating Skeletal Editing from Indoles to 3-Functionalized Quinolines   
+
+OpenAlex: https://openalex.org/W4401733426    
+Open access: False
+    
+[Fu‐Peng Wu](https://openalex.org/A5074843530), [Jasper L. Tyler](https://openalex.org/A5056128769), [Constantin G. Daniliuc](https://openalex.org/A5034751002), [Frank Glorius](https://openalex.org/A5017167322), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03868.
+    
+No abstract    
+
+    
+
+## Investigating Alloy-Induced Modifications in the Oxygen Reduction Reaction Mechanism on PtPd Single Crystals   
+
+OpenAlex: https://openalex.org/W4401733612    
+Open access: True
+    
+[Pepe Jordá-Faus](https://openalex.org/A5066156698), [Rubén Rizo](https://openalex.org/A5089866638), [Enrique Herrero](https://openalex.org/A5005047028), [Rosa M. Arán‐Ais](https://openalex.org/A5058030839), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03565.
+    
+No abstract    
+
+    
+
+## Photoinduced Surface Oxidation of GaN Nanowires Facilitates Hydrogen Evolution   
+
+OpenAlex: https://openalex.org/W4401733800    
+Open access: False
+    
+[Jan Paul Menzel](https://openalex.org/A5005426309), [Wan Jae Dong](https://openalex.org/A5005809281), [Elijah Gruszecki](https://openalex.org/A5106653817), [Ke Yang](https://openalex.org/A5010438957), [Zetian Mi](https://openalex.org/A5070775523), [Víctor S. Batista](https://openalex.org/A5089129603), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00308.
+    
+Gallium nitride nanowires (GaN NWs) have shown great potential in applications to photocatalysis, including photocatalytic hydrogen evolution for solar energy storage. Previous studies have shown that GaN NWs can undergo self-improvement under light irradiation, which is attributed to surface oxidation, forming gallium oxynitride (GaON). However, the exact oxidation pathways and the effect of surface oxidation on catalytic performance remain to be understood at the molecular level. In this study, we combine computational modeling at the density functional theory (DFT) level with linear sweep voltammetry and chronoamperometric measurements to investigate the photoinduced surface oxidation of GaN NWs. We find that the oxidation of GaN to GaON is competitive with water oxidation. The oxidized surface shows almost no change in its water oxidation capabilities, although the potential required for hydrogen evolution is significantly reduced. Oxidation of the surface also leads to changes in the electronic structure, shifting the valence band edge states toward the surface adsorbed hydroxide, making hole localization there more likely. Calculations are consistent with the observation of shifts in the onset potential for photoelectrochemical hydrogen evolution toward more positive potentials over an extended 18 h period. The reported findings on the mechanism of photoinduced surface oxidation of GaN NWs and the effect of surface oxidation on hydrogen evolution provide valuable insights for the development of more efficient GaN NW-based photocatalytic surfaces for hydrogen evolution.    
+
+    
+
+## Copper-Catalyzed Enantioselective O,S-Rearrangement of Propargylic Xanthates: Efficient Synthesis of Chiral Propargylic Sulfur Compounds   
+
+OpenAlex: https://openalex.org/W4401733990    
+Open access: False
+    
+[Cheng Wang](https://openalex.org/A5100730519), [Mengwu Xiao](https://openalex.org/A5022818689), [Wei Li](https://openalex.org/A5100640331), [Li‐Jie Cheng](https://openalex.org/A5027064569), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04509.
+    
+No abstract    
+
+    
+
+## Chiral Brønsted Acid-Catalyzed Regio-, Diastereo-, and Enantioselective Formal [2 + 2 + 2] Cycloaddition of 3-Vinyl-1H-indoles with Nitrosobenzenes   
+
+OpenAlex: https://openalex.org/W4401734759    
+Open access: False
+    
+[Lei Yu](https://openalex.org/A5101541464), [Jorge Aurelio Díaz](https://openalex.org/A5000975362), [Asja A. Kroeger](https://openalex.org/A5045881368), [Michelle L. Coote](https://openalex.org/A5083158068), [Philip Wai Hong Chan](https://openalex.org/A5039408031), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05041.
+    
+No abstract    
+
+    
+
+## Effects of Local Structural Changes of Orthorhombic Mo3VOx Induced by High-Temperature Heat Treatment on Catalytic Ammoxidation of Propane   
+
+OpenAlex: https://openalex.org/W4401742552    
+Open access: False
+    
+[Kosuke Shimoda](https://openalex.org/A5088504570), [Satoshi Ishikawa](https://openalex.org/A5012589233), [Ken‐ichi Shimizu](https://openalex.org/A5101436764), [Wataru Ueda](https://openalex.org/A5008300693), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02923.
+    
+The orthorhombic Mo3VOx (MoVO) crystal catalyst has a crystal structure analogous to that of the industrial catalyst for propane ammoxidation. However, it has been observed that MoVO exhibits poor selectivity for the formation of acrylonitrile (AN). Here, we found that a higher AN yield was attainable over the MoVO heat-treated at higher temperatures (600 °C) in a pure nitrogen stream. Structural analyses revealed that high-temperature heat treatment caused local structural changes through the migration and the segregation of VO2+ without altering the basic crystal structure of MoVO. This resulted in the change in the chemical formula from Mo30.66V11.34O114 to Mo30.66V7.22O104. The kinetic analysis revealed that the local structure after the segregation of VO2+ exhibited improved catalytic activity for the ammoxidation of propylene as the primary product for this reaction, resulting in a high AN yield in the propane ammoxidation. The obtained results offer a new insight into the catalytically active structure of the Mo–V-based mixed metal oxide for the ammoxidation of propane.    
+
+    
+
+## Asymmetric Clicking of Alkynyl Dipolarophiles and Nitrones Catalyzed by a Well-Defined Chiral Iron Complex   
+
+OpenAlex: https://openalex.org/W4401793206    
+Open access: False
+    
+[Zhen‐Ni Zhao](https://openalex.org/A5082482425), [Fengkai He](https://openalex.org/A5076578556), [Yuhao Wang](https://openalex.org/A5100370117), [Yichao Li](https://openalex.org/A5071231776), [Zi‐Han Li](https://openalex.org/A5046785243), [Xiaoyu Yang](https://openalex.org/A5100435418), [Uwe Schneider](https://openalex.org/A5051985200), [Yiyong Huang](https://openalex.org/A5024383687), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03508.
+    
+The enantioselective 1,3-dipolar cycloaddition of alkynes and α-aliphatic nitrones has long been recognized as an important challenge, while considerable progress has been made for the alkenes and aromatic nitrones. We herein report an example of an earth-abundant iron-catalyzed enantioselective click-approach 1,3-dipolar cycloaddition of nonterminal alkynyl imides and α-aliphatic nitrones, and highly functionalized chiral 4-isoxazolines having a 3-alkyl-substituted stereogenic carbon center are modularly generated in up to >99% yield and 98% ee (54 examples). Although the steric bulk substituent on the nitrone plays a key role in achieving effective enantiocontrol, the challenge of steric bias differentiation between linear alkyl chain (Me, Et, etc.) and H of nitrones is also successfully overcome. The enantioface discrimination is presumably rooted in the well-defined octahedral mononuclear ferrous complex containing dual tridentate ligands (L*·Fe(OTf)2·L*, L* = (R,R)-DBFOX-Ph) and possible dual-mode σ,π-binding activation, which is evidenced by ESI-HRMS and single crystal X-ray analysis, as well as the L*/Fe ratio effect and DFT calculations. Arguably, the most interesting aspect is that the chiral iron complex can induce a superpositive nonlinear effect and the chiral bisoxazoline ligand with a low enantiopurity of 22% ee results in an 84% ee for the cycloadduct. Practicability and utility are demonstrated by the gram-scale synthesis and ready downstream functionalization based on the chiral 4-isoxazoline core and imide functional group.    
 
     
