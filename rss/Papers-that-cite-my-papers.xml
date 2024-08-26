@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Aug 2024 01:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 01:13:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>New global minimum conformers for the Pt$$_{19}$$ and Pt$$_{20}$$ clusters: low symmetric species featuring different active sites</title>
-      <link>https://doi.org/10.1007/s00894-024-06099-5</link>
-      <description>Jos&#233; Manuel Guevara&#8208;Vela, Miguel Gallegos, Tom&#225;s Rocha&#8208;Rinza, &#193;lvaro Mu&#241;oz-Castro, P. Ke&#223;ler, &#193;ngel Mart&#237;n Pend&#225;s, Journal of Molecular Modeling. 30(9)] 2024. https://openalex.org/W4401664223
-
-                Abstract Context The study of platinum (Pt) clusters and nanoparticles is essential due to their extensive range of potential technological applications, particularly in catalysis. The electronic properties that yield optimal catalytic performance at the nanoscale are significantly influenced by the size and structure of Pt clusters. This research aimed to identify the lowest-energy conformers for Pt $$_{18}$$    18    , Pt $$_{19}$$    19    , and Pt $$_{20}$$    20    species using Density Functional Theory (DFT). We discovered new low-symmetry conformers for Pt $$_{19}$$    19    and Pt $$_{20}$$    20    , which are 3.0 and 1.0 kcal/mol more stable, respectively, than previously reported structures. Our study highlights the importance of using density functional approximations that incorporate moderate levels of exact Hartree-Fock exchange, alongside basis sets of at least quadruple-zeta quality. The resulting structures are asymmetric with varying active sites, as evidenced by sigma hole analysis on the electrostatic potential surface. This suggests a potential correlation between electronic structure and catalytic properties, warranting further investigation. Methods An equivariant graph neural network interatomic potential (NequIP) within the Atomic Simulation Environment suite (ASE) was used to provide initial geometries of the aggregates under study. DFT calculations were performed with the ORCA 5 package, using functional approximations that included Generalized Gradient Approximation (PBE), meta-GGA (TPSS, M06-L), hybrid (PBE0, PBEh), meta-GGA hybrid (TPSSh), and range-separated hybrid ( $$\omega $$  &#969;  B97x) functionals. Def2-TZVP and Def2-QZVP as well as members of the cc-pwCVXZ-PP family to check basis set convergence were used. QTAIM calculations were performed using the AIMAll suite. Structures were visualized with the AVOGADRO code.</description>
-      <author>Jos&#233; Manuel Guevara&#8208;Vela, Miguel Gallegos, Tom&#225;s Rocha&#8208;Rinza, &#193;lvaro Mu&#241;oz-Castro, P. Ke&#223;ler, &#193;ngel Mart&#237;n Pend&#225;s</author>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s00894-024-06099-5</guid>
-    </item>
-    <item>
-      <title>Janus NbOBrI monolayer for efficient photocatalytic overall water splitting</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.104980</link>
-      <description>Xue Deng, Tie Zhou, Xiao Long, Jing Xie, Bing Lv, Yangfang Liao, Wenzhong Wang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4401675459
-
-                No abstract</description>
-      <author>Xue Deng, Tie Zhou, Xiao Long, Jing Xie, Bing Lv, Yangfang Liao, Wenzhong Wang</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104980</guid>
-    </item>
     <item>
       <title>Machine Learning for High-Throughput Configuration Sampling of Li&#8722;La&#8722;Ti&#8722;O Disordered Solid-State Electrolyte</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c01221</link>
@@ -36,16 +16,6 @@
       <author>Mohamad Ataya, Eric McCalla, Rustam Z. Khaliullin</author>
       <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01221</guid>
-    </item>
-    <item>
-      <title>Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell</title>
-      <link>https://doi.org/10.1007/s11581-024-05767-z</link>
-      <description>K.P. Jithul, B. Tamilarasi, Jay Pandey, Ionics. None(None)] 2024. https://openalex.org/W4401664259
-
-                No abstract</description>
-      <author>K.P. Jithul, B. Tamilarasi, Jay Pandey</author>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05767-z</guid>
     </item>
     <item>
       <title>Machine Learning&#8208;Assisted Design of Nitrogen&#8208;Rich Covalent Triazine Frameworks Photocatalysts</title>
@@ -538,6 +508,56 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114449</guid>
     </item>
     <item>
+      <title>Navigating challenges and possibilities for improving polymer electrolyte membrane fuel cells via Pt electrocatalyst, support and ionomer advancements</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.08.323</link>
+      <description>Md. Ahsanul Haque, Tokuhisa Kawawaki, Yuichi Negishi, International Journal of Hydrogen Energy. 85(None)] 2024. https://openalex.org/W4401836660
+
+                No abstract</description>
+      <author>Md. Ahsanul Haque, Tokuhisa Kawawaki, Yuichi Negishi</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.323</guid>
+    </item>
+    <item>
+      <title>Role of intrinsic point defects on electrocatalytic activity of a metal-free two-dimensional Polyaramid for enhanced hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.08.255</link>
+      <description>Archana Sharma, Brahmananda Chakraborty, International Journal of Hydrogen Energy. 85(None)] 2024. https://openalex.org/W4401836747
+
+                No abstract</description>
+      <author>Archana Sharma, Brahmananda Chakraborty</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.255</guid>
+    </item>
+    <item>
+      <title>Coupling High&#8208;Entropy Core with Rh Shell for Efficient pH&#8208;Universal Hydrogen Evolution</title>
+      <link>https://doi.org/10.1002/smll.202403353</link>
+      <description>Min Wei, Yuyan Sun, Junyu Zhang, Jianrong Zeng, Jike Wang, Small. None(None)] 2024. https://openalex.org/W4401844907
+
+                Abstract Constructing high&#8208;entropy alloys (HEAs) with core&#8211;shell (CS) nanostructure is efficient for enhancing catalytic activity. However, it is extremely challenging to incorporate the CS structure with HEAs. Herein, PtCoNiMoRh@Rh CS nanoparticles (PtCoNiMoRh@Rh) with &#8764;5.7 nm for pH&#8208;universal hydrogen evolution reaction (HER) are reported for the first time. The PtCoNiMoRh@Rh just require 9.1, 24.9, and 17.1 mV to achieve &#8722;10 mA cm &#8722;2 in acid, neutral, and alkaline electrolyte, and the corresponding mass activity are 5.8, 2.79, and 91.8 times higher than that of Rh/C. Comparing to PtCoNiMoRh nanoparticles, the PtCoNiMoRh@Rh exhibit excellent HER activity attributed to the decrease of Rh 4d especially 4d 5/2 unoccupied state induced by the multi&#8208;active sites in HEA, as well as the synergistic effect in Rh shell and HEA core. Theorical calculation exhibits that Rh&#8208;d yz , d x2 , and d xz orbitals experience a negative shift with shell thickness increasing. The HEAs with CS structure would facilitate the rational design of high&#8208;performance HEAs catalysts.</description>
+      <author>Min Wei, Yuyan Sun, Junyu Zhang, Jianrong Zeng, Jike Wang</author>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202403353</guid>
+    </item>
+    <item>
+      <title>tosr: Create the Tree of Science from WoS and Scopus</title>
+      <link>https://doi.org/10.5530/jscires.13.2.36</link>
+      <description>Sebasti&#225;n Robledo, Luis Eduardo Pel&#225;ez Valencia, Martha Zuluaga, &#211;scar Echeverri, Jorge William Arboleda Valencia, Journal of Scientometric Research. 13(2)] 2024. https://openalex.org/W4401845777
+
+                Sebastian Robledo1, Luis Valencia2, Martha Zuluaga1, Oscar Arbelaez Echeverri3 and Jorge W. Arboleda Valencia45 Author informationPDFCitations 1Direcci&#243;n Acad&#233;mica, Universidad Nacional de Colombia, Sede de La Paz, Cesar, COLOMBIA 2Centro de Bioinform&#225;tica y Biolog&#237;a Computacional de Colombia &#8211; BIOS, COLOMBIA 3Core of Science, IRELAND 4FITOBIOL, Instituto de Biolog&#237;a, Facultad de Ciencias Exactas y Naturales, Universidad de</description>
+      <author>Sebasti&#225;n Robledo, Luis Eduardo Pel&#225;ez Valencia, Martha Zuluaga, &#211;scar Echeverri, Jorge William Arboleda Valencia</author>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5530/jscires.13.2.36</guid>
+    </item>
+    <item>
+      <title>Molecular dynamics of liquid&#8211;electrode interface by integrating &lt;scp&gt;Coulomb&lt;/scp&gt; interaction into universal neural network potential</title>
+      <link>https://doi.org/10.1002/jcc.27487</link>
+      <description>Kaoru Hisama, Gerardo Valadez Huerta, Michihisa Koyama, Journal of Computational Chemistry. None(None)] 2024. https://openalex.org/W4401851483
+
+                Abstract Computational understanding of the liquid&#8211;electrode interface faces challenges in efficiently incorporating reactive force fields and electrostatic potentials within reasonable computational costs. Although universal neural network potentials (UNNPs), representing pretrained machine learning interatomic potentials, are emerging, current UNNP models lack explicit treatment of Coulomb potentials, and methods for integrating additional charges on the electrode remain to be established. We propose a method to analyze liquid&#8211;electrode interfaces by integrating a UNNP, known as the preferred potential, with Coulomb potentials using the ONIOM method. This approach extends the applicability of UNNPs to electrode&#8211;liquid interface systems. Through molecular dynamics simulations of graphene&#8211;water and graphene oxide (GO)&#8211;water interfaces, we demonstrate the effectiveness of our method. Our findings emphasize the necessity of incorporating long&#8208;range Coulomb potentials into the water potential to accurately describe water polarization at the interface. Furthermore, we observe that functional groups on the GO electrode influence both polarization and capacitance.</description>
+      <author>Kaoru Hisama, Gerardo Valadez Huerta, Michihisa Koyama</author>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27487</guid>
+    </item>
+    <item>
       <title>Empirical Study and Mitigation Methods of Bias in LLM-Based Robots</title>
       <link>https://doi.org/10.54097/re9qp070</link>
       <description>Zhou Ren, Academic Journal of Science and Technology. 12(1)] 2024. https://openalex.org/W4401684575
@@ -548,26 +568,6 @@
       <guid isPermaLink="true">https://doi.org/10.54097/re9qp070</guid>
     </item>
     <item>
-      <title>Fraud Detection in Credit Risk Assessment Using Supervised Learning Algorithms</title>
-      <link>https://doi.org/10.54097/qw9j1892</link>
-      <description>Tianyi Xu, No host. 12(2)] 2024. https://openalex.org/W4401667087
-
-                Our study systematically evaluates the performance of various supervised learning algorithms in credit risk assessment and fraud detection, including Logistic Regression, Decision Tree, Support Vector Machine, Random Forest, Gradient Boosting Tree, and Neural Network. The results show that in credit risk assessment, the Gradient Boosting Tree performed best with an accuracy of 90.5% and a ROC-AUC of 0.84, followed by Random Forest and Neural Network, with accuracies of 89.2% and 88.8%, and ROC-AUCs of 0.82 and 0.81, respectively. In the fraud detection task, the Neural Network performed best with an accuracy of 97.5% and a ROC-AUC of 0.88, while Gradient Boosting Tree and Random Forest achieved accuracies of 97.1% and 96.3%, and ROC-AUCs of 0.87 and 0.85, respectively. Feature importance analysis indicates that repayment history, credit limit, bill amount, and repayment amount are key features in credit risk assessment, while transaction amount, transaction time, and location are crucial for fraud detection. Data preprocessing and feature engineering played critical roles in enhancing model performance. Further optimization of model hyperparameters and addressing data imbalance issues will help improve model performance. In conclusion, ensemble learning methods and Neural Networks exhibit significant advantages in credit risk assessment and fraud detection. By employing scientific data preprocessing and feature engineering, combined with advanced machine learning algorithms, financial institutions can significantly enhance their risk management effectiveness.</description>
-      <author>Tianyi Xu</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54097/qw9j1892</guid>
-    </item>
-    <item>
-      <title>Risks of Discrimination Violence and Unlawful Actions in LLM-Driven Robots</title>
-      <link>https://doi.org/10.54097/taqbjh83</link>
-      <description>Zhou Ren, No host. 12(2)] 2024. https://openalex.org/W4401667091
-
-                The integration of Large Language Models (LLMs) into robotics heralds significant advancements in human-robot interaction, enabling robots to perform complex tasks involving natural language understanding, common sense reasoning, and human modeling. However, despite their impressive capabilities, LLMs pose substantial ethical and safety concerns, particularly the risk of enacting discrimination, violence, and unlawful actions. This study conducts a comprehensive Human-Robot Interaction (HRI)-based evaluation of several highly-rated LLMs, focusing on their bias and safety criteria. Our findings reveal that LLMs exhibit significant biases across diverse demographic groups and frequently produce unsafe or unlawful responses when faced with unconstrained natural language inputs. These results underscore the urgent need for systematic risk assessments and robust ethical guidelines to ensure the responsible deployment of LLM-driven robots. We propose detailed strategies for mitigating these risks, including advanced bias detection techniques, robust safety mechanisms, and collaborative standards development. By addressing these critical issues, we aim to pave the way for the development of safer, fairer, and more reliable robotic systems.</description>
-      <author>Zhou Ren</author>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54097/taqbjh83</guid>
-    </item>
-    <item>
       <title>Neural Network-Driven Smart City Security Monitoring in Beijing Multimodal Data Integration and Real-Time Anomaly Detection</title>
       <link>https://doi.org/10.62051/ijcsit.v3n3.11</link>
       <description>Yao Yao, International Journal of Computer Science and Information Technology. 3(3)] 2024. https://openalex.org/W4401767742
@@ -576,6 +576,16 @@
       <author>Yao Yao</author>
       <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.62051/ijcsit.v3n3.11</guid>
+    </item>
+    <item>
+      <title>Scalable Low-Temperature CO&lt;sub&gt;2&lt;/sub&gt; Electrolysis: Current Status and Outlook</title>
+      <link>https://doi.org/10.1021/jacsau.4c00583</link>
+      <description>Hojeong Lee, Seontaek Kwon, Namgyoo Park, Sun Gwan, Eunyoung Lee, Tae&#8208;Hoon Kong, Jihoo Cha, Youngkook Kwon, JACS Au. None(None)] 2024. https://openalex.org/W4401843733
+
+                The electrochemical CO2 reduction (eCO2R) in membrane electrode assemblies (MEAs) has brought e-chemical production one step closer to commercialization because of its advantages of minimized ohmic resistance and stackability. However, the current performance of reported eCO2R in MEAs is still far below the threshold for economic feasibility where low overall cell voltage (&lt;2 V) and extensive stability (&gt;5 years) are required. Furthermore, while the production cost of e-chemicals heavily relies on the carbon capture and product separation processes, these areas have received much less attention compared to CO2 electrolysis, itself. In this perspective, we examine the current status of eCO2R technologies from both academic and industrial points of view. We highlight the gap between current capabilities and commercialization standards and offer future research directions for eCO2R technologies with the hope of achieving industrially viable e-chemical production.</description>
+      <author>Hojeong Lee, Seontaek Kwon, Namgyoo Park, Sun Gwan, Eunyoung Lee, Tae&#8208;Hoon Kong, Jihoo Cha, Youngkook Kwon</author>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.4c00583</guid>
     </item>
     <item>
       <title>Hydrogen, Oxygen, and Lead Adsorbates on Al&lt;sub&gt;13&lt;/sub&gt;Co&lt;sub&gt;4&lt;/sub&gt;(100): Accurate Potential Energy Surfaces at Low Computational Cost by Machine Learning and DFT-Based Data</title>

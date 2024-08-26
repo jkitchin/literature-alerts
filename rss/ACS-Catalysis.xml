@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Aug 2024 01:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 01:13:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -216,6 +216,16 @@
       <author>Hui Xie, Haohua Chen, Uttam Dutta, Yu Lan, Bernhard Breit</author>
       <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04209</guid>
+    </item>
+    <item>
+      <title>Nitrogen-Rich Carbon Dots as Effective Catalysts in the 1,4-Reduction of &#945;,&#946;-Unsaturated Aldehydes via Ion Pair Asymmetric Nano-Organocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c03532</link>
+      <description>Alessio Carioscia, Emanuele Cocco, Maria Edith Casacchia, Giuseppe Gentile, Martina Mamone, Giuliana Giorgianni, Elena Incerto, Maurizio Prato, Fabio Pesciaioli, Giacomo Filippini, Armando Carlone, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401844482
+
+                The development of nanostructured organocatalysts is emerging as a prominent field in materials science. To this purpose, nitrogen-doped carbon dots (CDs) have been effectively employed in enantioselective enamine organocatalysis. On the other hand, enantioselective iminium ion nano-organocatalysis is much less explored. In this Letter, the use of CDs in asymmetric iminium ion catalysis via asymmetric counteranion-directed catalysis (ACDC) is disclosed. Nonchiral CDs bearing butylenediamine residues proved to be the most effective ones, in combination with (S)-TRIP as a chiral phosphoric acid (CPA). A correlation between the features of the CDs' surfaces and their catalytic performance was shown, and the catalytic activity of the employed CDs proved to be higher than that of simple molecular amines. An extensive reaction optimization allowed the reduction of different &#945;,&#946;-unsatured aldehydes in good yield and ee, using a low catalyst loading.</description>
+      <author>Alessio Carioscia, Emanuele Cocco, Maria Edith Casacchia, Giuseppe Gentile, Martina Mamone, Giuliana Giorgianni, Elena Incerto, Maurizio Prato, Fabio Pesciaioli, Giacomo Filippini, Armando Carlone</author>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03532</guid>
     </item>
   </channel>
 </rss>

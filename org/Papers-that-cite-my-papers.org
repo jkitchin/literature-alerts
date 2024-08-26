@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Aug 25 01:18:48 2024
+Created on Mon Aug 26 01:13:50 2024
 
-Found 59 results from 2024-08-18 to 2024-08-25
+Found 60 results from 2024-08-19 to 2024-08-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967]]
@@ -16,48 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357]]
-
-* New global minimum conformers for the Pt$$_{19}$$ and Pt$$_{20}$$ clusters: low symmetric species featuring different active sites  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401664223
-:TOPICS: Advancements in Density Functional Theory, Accelerating Materials Innovation through Informatics, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-08-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s00894-024-06099-5")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401664223"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401664223"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401664223"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401664223 (Open access: True)
-    
-[[https://openalex.org/A5022859338][José Manuel Guevara‐Vela]], [[https://openalex.org/A5033123690][Miguel Gallegos]], [[https://openalex.org/A5078023435][Tomás Rocha‐Rinza]], [[https://openalex.org/A5010883295][Álvaro Muñoz-Castro]], [[https://openalex.org/A5072145975][P. Keßler]], [[https://openalex.org/A5024706573][Ángel Martín Pendás]], Journal of Molecular Modeling. 30(9)] 2024. https://doi.org/10.1007/s00894-024-06099-5 
-     
-Abstract Context The study of platinum (Pt) clusters and nanoparticles is essential due to their extensive range of potential technological applications, particularly in catalysis. The electronic properties that yield optimal catalytic performance at the nanoscale are significantly influenced by the size and structure of Pt clusters. This research aimed to identify the lowest-energy conformers for Pt $$_{18}$$    18    , Pt $$_{19}$$    19    , and Pt $$_{20}$$    20    species using Density Functional Theory (DFT). We discovered new low-symmetry conformers for Pt $$_{19}$$    19    and Pt $$_{20}$$    20    , which are 3.0 and 1.0 kcal/mol more stable, respectively, than previously reported structures. Our study highlights the importance of using density functional approximations that incorporate moderate levels of exact Hartree-Fock exchange, alongside basis sets of at least quadruple-zeta quality. The resulting structures are asymmetric with varying active sites, as evidenced by sigma hole analysis on the electrostatic potential surface. This suggests a potential correlation between electronic structure and catalytic properties, warranting further investigation. Methods An equivariant graph neural network interatomic potential (NequIP) within the Atomic Simulation Environment suite (ASE) was used to provide initial geometries of the aggregates under study. DFT calculations were performed with the ORCA 5 package, using functional approximations that included Generalized Gradient Approximation (PBE), meta-GGA (TPSS, M06-L), hybrid (PBE0, PBEh), meta-GGA hybrid (TPSSh), and range-separated hybrid ( $$\omega $$  ω  B97x) functionals. Def2-TZVP and Def2-QZVP as well as members of the cc-pwCVXZ-PP family to check basis set convergence were used. QTAIM calculations were performed using the AIMAll suite. Structures were visualized with the AVOGADRO code.    
-
-    
-
-* Janus NbOBrI monolayer for efficient photocatalytic overall water splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401675459
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Two-Dimensional Materials, Perovskite Solar Cell Technology
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.surfin.2024.104980")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401675459"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401675459"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401675459"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401675459 (Open access: False)
-    
-[[https://openalex.org/A5101694902][Xue Deng]], [[https://openalex.org/A5102080852][Tie Zhou]], [[https://openalex.org/A5055615038][Xiao Long]], [[https://openalex.org/A5014462733][Jing Xie]], [[https://openalex.org/A5069755291][Bing Lv]], [[https://openalex.org/A5027292892][Yangfang Liao]], [[https://openalex.org/A5066863305][Wenzhong Wang]], Surfaces and Interfaces. None(None)] 2024. https://doi.org/10.1016/j.surfin.2024.104980 
-     
-No abstract    
-
-    
 
 * Machine Learning for High-Throughput Configuration Sampling of Li−La−Ti−O Disordered Solid-State Electrolyte  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -75,27 +33,6 @@ No abstract
 OpenAlex: https://openalex.org/W4401684476 (Open access: False)
     
 [[https://openalex.org/A5028206585][Mohamad Ataya]], [[https://openalex.org/A5045883957][Eric McCalla]], [[https://openalex.org/A5041593378][Rustam Z. Khaliullin]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c01221 
-     
-No abstract    
-
-    
-
-* Electrocatalyst for the oxygen reduction reaction (ORR): towards an active and stable electrocatalyst for low-temperature PEM fuel cell  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401664259
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-08-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s11581-024-05767-z")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401664259"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401664259"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401664259"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401664259 (Open access: False)
-    
-[[https://openalex.org/A5093799732][K.P. Jithul]], [[https://openalex.org/A5093799731][B. Tamilarasi]], [[https://openalex.org/A5090330319][Jay Pandey]], Ionics. None(None)] 2024. https://doi.org/10.1007/s11581-024-05767-z 
      
 No abstract    
 
@@ -1130,6 +1067,111 @@ No abstract
 
     
 
+* Navigating challenges and possibilities for improving polymer electrolyte membrane fuel cells via Pt electrocatalyst, support and ionomer advancements  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401836660
+:TOPICS: Fuel Cell Membrane Technology, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.08.323")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401836660"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401836660"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401836660"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401836660 (Open access: False)
+    
+[[https://openalex.org/A5030586170][Md. Ahsanul Haque]], [[https://openalex.org/A5081138591][Tokuhisa Kawawaki]], [[https://openalex.org/A5043613374][Yuichi Negishi]], International Journal of Hydrogen Energy. 85(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.08.323 
+     
+No abstract    
+
+    
+
+* Role of intrinsic point defects on electrocatalytic activity of a metal-free two-dimensional Polyaramid for enhanced hydrogen evolution reaction  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401836747
+:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Conducting Polymer Research
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.08.255")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401836747"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401836747"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401836747"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401836747 (Open access: False)
+    
+[[https://openalex.org/A5100768951][Archana Sharma]], [[https://openalex.org/A5087958993][Brahmananda Chakraborty]], International Journal of Hydrogen Energy. 85(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.08.255 
+     
+No abstract    
+
+    
+
+* Coupling High‐Entropy Core with Rh Shell for Efficient pH‐Universal Hydrogen Evolution  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401844907
+:TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-08-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202403353")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401844907"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401844907"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401844907"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401844907 (Open access: False)
+    
+[[https://openalex.org/A5084055697][Min Wei]], [[https://openalex.org/A5100734389][Yuyan Sun]], [[https://openalex.org/A5101898223][Junyu Zhang]], [[https://openalex.org/A5068006098][Jianrong Zeng]], [[https://openalex.org/A5065805707][Jike Wang]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202403353 
+     
+Abstract Constructing high‐entropy alloys (HEAs) with core–shell (CS) nanostructure is efficient for enhancing catalytic activity. However, it is extremely challenging to incorporate the CS structure with HEAs. Herein, PtCoNiMoRh@Rh CS nanoparticles (PtCoNiMoRh@Rh) with ∼5.7 nm for pH‐universal hydrogen evolution reaction (HER) are reported for the first time. The PtCoNiMoRh@Rh just require 9.1, 24.9, and 17.1 mV to achieve −10 mA cm −2 in acid, neutral, and alkaline electrolyte, and the corresponding mass activity are 5.8, 2.79, and 91.8 times higher than that of Rh/C. Comparing to PtCoNiMoRh nanoparticles, the PtCoNiMoRh@Rh exhibit excellent HER activity attributed to the decrease of Rh 4d especially 4d 5/2 unoccupied state induced by the multi‐active sites in HEA, as well as the synergistic effect in Rh shell and HEA core. Theorical calculation exhibits that Rh‐d yz , d x2 , and d xz orbitals experience a negative shift with shell thickness increasing. The HEAs with CS structure would facilitate the rational design of high‐performance HEAs catalysts.    
+
+    
+
+* tosr: Create the Tree of Science from WoS and Scopus  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401845777
+:TOPICS: Challenges and Innovations in Bioinformatics Education, Bibliometric Analysis and Research Evaluation, Management and Reproducibility of Scientific Workflows
+:PUBLICATION_DATE: 2024-08-22
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5530/jscires.13.2.36")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401845777"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401845777"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401845777"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401845777 (Open access: True)
+    
+[[https://openalex.org/A5065807756][Sebastián Robledo]], [[https://openalex.org/A5009085915][Luis Eduardo Peláez Valencia]], [[https://openalex.org/A5085239964][Martha Zuluaga]], [[https://openalex.org/A5015870803][Óscar Echeverri]], [[https://openalex.org/A5103142442][Jorge William Arboleda Valencia]], Journal of Scientometric Research. 13(2)] 2024. https://doi.org/10.5530/jscires.13.2.36  ([[https://jourdata.s3.us-west-2.amazonaws.com/jscires/JScientometRes-13-2-459.pdf][pdf]])
+     
+Sebastian Robledo1, Luis Valencia2, Martha Zuluaga1, Oscar Arbelaez Echeverri3 and Jorge W. Arboleda Valencia45 Author informationPDFCitations 1Dirección Académica, Universidad Nacional de Colombia, Sede de La Paz, Cesar, COLOMBIA 2Centro de Bioinformática y Biología Computacional de Colombia – BIOS, COLOMBIA 3Core of Science, IRELAND 4FITOBIOL, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de    
+
+    
+
+* Molecular dynamics of liquid–electrode interface by integrating Coulomb interaction into universal neural network potential  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401851483
+:TOPICS: Electrochemical Detection of Heavy Metal Ions, Accelerating Materials Innovation through Informatics, Breath Analysis Technology
+:PUBLICATION_DATE: 2024-08-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/jcc.27487")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401851483"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401851483"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401851483"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401851483 (Open access: True)
+    
+[[https://openalex.org/A5000424688][Kaoru Hisama]], [[https://openalex.org/A5033717894][Gerardo Valadez Huerta]], [[https://openalex.org/A5060491556][Michihisa Koyama]], Journal of Computational Chemistry. None(None)] 2024. https://doi.org/10.1002/jcc.27487  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.27487][pdf]])
+     
+Abstract Computational understanding of the liquid–electrode interface faces challenges in efficiently incorporating reactive force fields and electrostatic potentials within reasonable computational costs. Although universal neural network potentials (UNNPs), representing pretrained machine learning interatomic potentials, are emerging, current UNNP models lack explicit treatment of Coulomb potentials, and methods for integrating additional charges on the electrode remain to be established. We propose a method to analyze liquid–electrode interfaces by integrating a UNNP, known as the preferred potential, with Coulomb potentials using the ONIOM method. This approach extends the applicability of UNNPs to electrode–liquid interface systems. Through molecular dynamics simulations of graphene–water and graphene oxide (GO)–water interfaces, we demonstrate the effectiveness of our method. Our findings emphasize the necessity of incorporating long‐range Coulomb potentials into the water potential to accurately describe water polarization at the interface. Furthermore, we observe that functional groups on the GO electrode influence both polarization and capacitance.    
+
+    
+
 * Empirical Study and Mitigation Methods of Bias in LLM-Based Robots  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401684575
@@ -1151,48 +1193,6 @@ Our study provides a comprehensive analysis of biased behaviors exhibited by rob
 
     
 
-* Fraud Detection in Credit Risk Assessment Using Supervised Learning Algorithms  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401667087
-:TOPICS: Handling Imbalanced Data in Classification Problems, Bankruptcy Prediction and Credit Scoring Models, Classification of Brain Tumor Type and Grade
-:PUBLICATION_DATE: 2024-08-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.54097/qw9j1892")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401667087"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401667087"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401667087"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401667087 (Open access: True)
-    
-[[https://openalex.org/A5051440813][Tianyi Xu]], No host. 12(2)] 2024. https://doi.org/10.54097/qw9j1892  ([[https://drpress.org/ojs/index.php/cpl/article/download/24593/24091][pdf]])
-     
-Our study systematically evaluates the performance of various supervised learning algorithms in credit risk assessment and fraud detection, including Logistic Regression, Decision Tree, Support Vector Machine, Random Forest, Gradient Boosting Tree, and Neural Network. The results show that in credit risk assessment, the Gradient Boosting Tree performed best with an accuracy of 90.5% and a ROC-AUC of 0.84, followed by Random Forest and Neural Network, with accuracies of 89.2% and 88.8%, and ROC-AUCs of 0.82 and 0.81, respectively. In the fraud detection task, the Neural Network performed best with an accuracy of 97.5% and a ROC-AUC of 0.88, while Gradient Boosting Tree and Random Forest achieved accuracies of 97.1% and 96.3%, and ROC-AUCs of 0.87 and 0.85, respectively. Feature importance analysis indicates that repayment history, credit limit, bill amount, and repayment amount are key features in credit risk assessment, while transaction amount, transaction time, and location are crucial for fraud detection. Data preprocessing and feature engineering played critical roles in enhancing model performance. Further optimization of model hyperparameters and addressing data imbalance issues will help improve model performance. In conclusion, ensemble learning methods and Neural Networks exhibit significant advantages in credit risk assessment and fraud detection. By employing scientific data preprocessing and feature engineering, combined with advanced machine learning algorithms, financial institutions can significantly enhance their risk management effectiveness.    
-
-    
-
-* Risks of Discrimination Violence and Unlawful Actions in LLM-Driven Robots  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4401667091
-:TOPICS: Ethical Implications of Artificial Intelligence, Explainable Artificial Intelligence, Artificial Intelligence in Medicine
-:PUBLICATION_DATE: 2024-08-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.54097/taqbjh83")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401667091"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401667091"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401667091"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4401667091 (Open access: True)
-    
-[[https://openalex.org/A5083293468][Zhou Ren]], No host. 12(2)] 2024. https://doi.org/10.54097/taqbjh83  ([[https://drpress.org/ojs/index.php/cpl/article/download/24598/24096][pdf]])
-     
-The integration of Large Language Models (LLMs) into robotics heralds significant advancements in human-robot interaction, enabling robots to perform complex tasks involving natural language understanding, common sense reasoning, and human modeling. However, despite their impressive capabilities, LLMs pose substantial ethical and safety concerns, particularly the risk of enacting discrimination, violence, and unlawful actions. This study conducts a comprehensive Human-Robot Interaction (HRI)-based evaluation of several highly-rated LLMs, focusing on their bias and safety criteria. Our findings reveal that LLMs exhibit significant biases across diverse demographic groups and frequently produce unsafe or unlawful responses when faced with unconstrained natural language inputs. These results underscore the urgent need for systematic risk assessments and robust ethical guidelines to ensure the responsible deployment of LLM-driven robots. We propose detailed strategies for mitigating these risks, including advanced bias detection techniques, robust safety mechanisms, and collaborative standards development. By addressing these critical issues, we aim to pave the way for the development of safer, fairer, and more reliable robotic systems.    
-
-    
-
 * Neural Network-Driven Smart City Security Monitoring in Beijing Multimodal Data Integration and Real-Time Anomaly Detection  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401767742
@@ -1211,6 +1211,27 @@ OpenAlex: https://openalex.org/W4401767742 (Open access: True)
 [[https://openalex.org/A5037143401][Yao Yao]], International Journal of Computer Science and Information Technology. 3(3)] 2024. https://doi.org/10.62051/ijcsit.v3n3.11  ([[http://wepub.org/index.php/IJCSIT/article/download/3041/3323][pdf]])
      
 Our study presents the development and implementation of a neural network-based smart city security monitoring system tailored for the urban environment of Beijing. Leveraging multimodal data integration, the system processes over 1,200 hours of video footage, 800 hours of audio recordings, and 400 hours of thermal data to provide comprehensive surveillance and real-time anomaly detection. The system achieved high accuracy rates of 96% for overcrowding detection, 93% for unauthorized access, and 90% for unattended objects, with corresponding precision rates of 96%, 95%, and 93%. The recall rates were slightly lower, at 89%, 87%, and 85%, respectively. Our system's implementation of edge computing enabled rapid response times, recorded at 1.5 seconds for subway stations, 2.0 seconds for Tiananmen Square, and 1.2 seconds for public transport hubs. These results underscore the system's effectiveness in delivering real-time monitoring and timely alerts, crucial for managing high-density areas and critical infrastructure in Beijing. The integration of advanced AI techniques, including transfer learning and Generative Adversarial Networks (GANs), further enhanced the system's adaptability and robustness in detecting rare and unlabeled events. This study highlights the system's potential to significantly improve urban security infrastructure, offering a scalable and efficient solution for smart city applications.    
+
+    
+
+* Scalable Low-Temperature CO2 Electrolysis: Current Status and Outlook  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401843733
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-08-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacsau.4c00583")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401843733"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401843733"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401843733"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401843733 (Open access: True)
+    
+[[https://openalex.org/A5049287614][Hojeong Lee]], [[https://openalex.org/A5035769197][Seontaek Kwon]], [[https://openalex.org/A5078178326][Namgyoo Park]], [[https://openalex.org/A5106344844][Sun Gwan]], [[https://openalex.org/A5100348728][Eunyoung Lee]], [[https://openalex.org/A5091233789][Tae‐Hoon Kong]], [[https://openalex.org/A5102624792][Jihoo Cha]], [[https://openalex.org/A5064502248][Youngkook Kwon]], JACS Au. None(None)] 2024. https://doi.org/10.1021/jacsau.4c00583 
+     
+The electrochemical CO2 reduction (eCO2R) in membrane electrode assemblies (MEAs) has brought e-chemical production one step closer to commercialization because of its advantages of minimized ohmic resistance and stackability. However, the current performance of reported eCO2R in MEAs is still far below the threshold for economic feasibility where low overall cell voltage (<2 V) and extensive stability (>5 years) are required. Furthermore, while the production cost of e-chemicals heavily relies on the carbon capture and product separation processes, these areas have received much less attention compared to CO2 electrolysis, itself. In this perspective, we examine the current status of eCO2R technologies from both academic and industrial points of view. We highlight the gap between current capabilities and commercialization standards and offer future research directions for eCO2R technologies with the hope of achieving industrially viable e-chemical production.    
 
     
 
