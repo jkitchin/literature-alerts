@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon Aug 26 01:13:42 2024
+Created on Tue Aug 27 01:14:34 2024
 
-Found 6 results from 2024-08-19 to 2024-08-26
+Found 6 results from 2024-08-20 to 2024-08-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -55,7 +55,7 @@ No abstract
 OpenAlex: https://openalex.org/W4401830628    
 Open access: False
     
-[Daniel J. Laky](https://openalex.org/A5068550448), [Michael Bynum](https://openalex.org/A5031357535), [Shankar Vaidyaraman](https://openalex.org/A5004225517), [Salvador Garcı́a-Muñoz](https://openalex.org/A5060552015), [Carl D. Laird](https://openalex.org/A5030631754), No host. None(None)] 2023.https://doi.org/10.2172/2432198.
+[Daniel J. Laky](https://openalex.org/A5068550448), [Michael Bynum](https://openalex.org/A5031357535), [Shankar Vaidyaraman](https://openalex.org/A5004225517), [Salvador García‐Muñoz](https://openalex.org/A5060552015), [Carl D. Laird](https://openalex.org/A5030631754), No host. None(None)] 2023.https://doi.org/10.2172/2432198.
     
 No abstract    
 

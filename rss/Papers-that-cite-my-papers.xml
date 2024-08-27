@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 26 Aug 2024 01:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 01:14:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Machine Learning for High-Throughput Configuration Sampling of Li&#8722;La&#8722;Ti&#8722;O Disordered Solid-State Electrolyte</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01221</link>
-      <description>Mohamad Ataya, Eric McCalla, Rustam Z. Khaliullin, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4401684476
-
-                No abstract</description>
-      <author>Mohamad Ataya, Eric McCalla, Rustam Z. Khaliullin</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01221</guid>
-    </item>
-    <item>
-      <title>Machine Learning&#8208;Assisted Design of Nitrogen&#8208;Rich Covalent Triazine Frameworks Photocatalysts</title>
-      <link>https://doi.org/10.1002/adfm.202413453</link>
-      <description>Mingliang Wu, Zhilong Song, Yu Cui, Zhanzhao Fu, Kunquan Hong, Qiang Li, Zhiyang Lyu, Wei Wang, Jinlan Wang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401686058
-
-                Abstract Covalent triazine frameworks (CTFs), noted for their rich nitrogen content, have attracted significant attention as promising photocatalysts. However, the structural complexity introduced by the diversity of nitrogen atoms in nitrogen&#8208;rich CTFs poses a substantial challenge in discovering high&#8208;performance CTFs. To address this challenge, a machine&#8208;learning approach is developed to rationally design nitrogen&#8208;rich CTFs, which is subsequently validated through experimental methods. A framework is employed based on the special orthogonal group in three dimensions (SO(3))&#8208;invariant graph neural networks to predict photocatalytic properties of CTFs structures. This approach achieves exceptionally high accuracies with R 2 scores exceeding 0.98. From a dataset of 14920 CTFs structures, this framework identifies 45 high&#8208;performance candidates. Guided by these predictions, a novel CTF structure, pyridine&#8208;2,5&#8208;dicarbaldehyde (CTF&#8208;DCPD) is selected and successfully synthesized, which exhibits an ultrahigh hydrogen evolution rate of 17.70 mmol g &#8722;1 h &#8722;1 . This rate significantly surpasses that of the widely studied CTF&#8208;1,4&#8208;dicyanobenzene (CTF&#8208;DCB, 10.41 mmol g &#8722;1 h &#8722;1 ). This work provides a new paradigm for machine learning to accelerate materials development, which can be generalized to the development of other functional materials.</description>
-      <author>Mingliang Wu, Zhilong Song, Yu Cui, Zhanzhao Fu, Kunquan Hong, Qiang Li, Zhiyang Lyu, Wei Wang, Jinlan Wang</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413453</guid>
-    </item>
     <item>
       <title>Structurally optimized rosette-like microspheres carbon with Fe-Ni single atom sites for bifunctional oxygen electrocatalysis in Zinc-Air batteries</title>
       <link>https://doi.org/10.1016/j.cej.2024.154963</link>
@@ -288,6 +268,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c05772</guid>
     </item>
     <item>
+      <title>Solution-plasma interaction for synthesizing highly active Pt&#8211;Ni alloy oxygen reduction nanocatalysts for PEMFCs</title>
+      <link>https://doi.org/10.1039/d4cc03008g</link>
+      <description>Shuxiu Yang, Yu Tang, Yawen Tan, Baoqin Fu, Mingyang Liu, Qingzhu Shu, Shuhong Liu, Hong Zhao, Chemical Communications. None(None)] 2024. https://openalex.org/W4401794352
+
+                A highly active PtNi-alloy catalyst (</description>
+      <author>Shuxiu Yang, Yu Tang, Yawen Tan, Baoqin Fu, Mingyang Liu, Qingzhu Shu, Shuhong Liu, Hong Zhao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cc03008g</guid>
+    </item>
+    <item>
       <title>Cu-S Planes in a Metal-Organic Framework for Selective Electrochemical Conversion of CO2 to Formate</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-trn26</link>
       <description>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, A. Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri, No host. None(None)] 2024. https://openalex.org/W4401797419
@@ -528,6 +518,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.255</guid>
     </item>
     <item>
+      <title>Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114489</link>
+      <description>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen, Molecular Catalysis. 567(None)] 2024. https://openalex.org/W4401844774
+
+                No abstract</description>
+      <author>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114489</guid>
+    </item>
+    <item>
       <title>Coupling High&#8208;Entropy Core with Rh Shell for Efficient pH&#8208;Universal Hydrogen Evolution</title>
       <link>https://doi.org/10.1002/smll.202403353</link>
       <description>Min Wei, Yuyan Sun, Junyu Zhang, Jianrong Zeng, Jike Wang, Small. None(None)] 2024. https://openalex.org/W4401844907
@@ -558,14 +558,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/jcc.27487</guid>
     </item>
     <item>
-      <title>Empirical Study and Mitigation Methods of Bias in LLM-Based Robots</title>
-      <link>https://doi.org/10.54097/re9qp070</link>
-      <description>Zhou Ren, Academic Journal of Science and Technology. 12(1)] 2024. https://openalex.org/W4401684575
+      <title>Strain engineering of CoSAN C catalyst toward enhancing the oxygen reduction reaction activity</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.08.165</link>
+      <description>Hong Yin, Yuehong Deng, Zhe He, Wenyuan Xu, Zhaohui Hou, Binhong He, &#304;hsan &#199;aha, Jo&#227;o Cunha, Maryam Karimi, Zhipeng Yu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4401862691
 
-                Our study provides a comprehensive analysis of biased behaviors exhibited by robots utilizing large language models (LLMs) in real-world applications, focusing on five experimental scenarios: customer service, education, healthcare, recruitment, and social interaction. The analysis reveals significant differences in user experiences based on race, health status, work experience, and social status. For instance, the average satisfaction score for white customers is 4.2, compared to 3.5 for black customers, and the response accuracy for white students is 92%, versus 85% for black students. To address these biases, we propose several mitigation methods, including data resampling, model regularization, post-processing techniques, diversity assessment, and user feedback mechanisms. These methods aim to enhance the fairness and inclusivity of robotic systems, promoting healthy human-robot interactions. By combining our quantitative data analysis with existing research, we affirm the importance of bias detection and mitigation, and propose various improvement strategies. Future research should further explore data balancing strategies, fairness-constrained models, real-time monitoring and adjustment mechanisms, and cross-domain studies to comprehensively evaluate and improve the performance of LLM-based robotic systems across various tasks.</description>
-      <author>Zhou Ren</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54097/re9qp070</guid>
+                No abstract</description>
+      <author>Hong Yin, Yuehong Deng, Zhe He, Wenyuan Xu, Zhaohui Hou, Binhong He, &#304;hsan &#199;aha, Jo&#227;o Cunha, Maryam Karimi, Zhipeng Yu</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.165</guid>
     </item>
     <item>
       <title>Neural Network-Driven Smart City Security Monitoring in Beijing Multimodal Data Integration and Real-Time Anomaly Detection</title>

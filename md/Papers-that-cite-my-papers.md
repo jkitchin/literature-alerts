@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Aug 26 01:13:50 2024
+Created on Tue Aug 27 01:14:47 2024
 
-Found 60 results from 2024-08-19 to 2024-08-26
+Found 60 results from 2024-08-20 to 2024-08-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -16,28 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357)
-
-## Machine Learning for High-Throughput Configuration Sampling of Li−La−Ti−O Disordered Solid-State Electrolyte   
-
-OpenAlex: https://openalex.org/W4401684476    
-Open access: False
-    
-[Mohamad Ataya](https://openalex.org/A5028206585), [Eric McCalla](https://openalex.org/A5045883957), [Rustam Z. Khaliullin](https://openalex.org/A5041593378), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01221.
-    
-No abstract    
-
-    
-
-## Machine Learning‐Assisted Design of Nitrogen‐Rich Covalent Triazine Frameworks Photocatalysts   
-
-OpenAlex: https://openalex.org/W4401686058    
-Open access: False
-    
-[Mingliang Wu](https://openalex.org/A5019757765), [Zhilong Song](https://openalex.org/A5085689796), [Yu Cui](https://openalex.org/A5007253367), [Zhanzhao Fu](https://openalex.org/A5029332865), [Kunquan Hong](https://openalex.org/A5079305035), [Qiang Li](https://openalex.org/A5100429936), [Zhiyang Lyu](https://openalex.org/A5018753503), [Wei Wang](https://openalex.org/A5100392071), [Jinlan Wang](https://openalex.org/A5020585562), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202413453.
-    
-Abstract Covalent triazine frameworks (CTFs), noted for their rich nitrogen content, have attracted significant attention as promising photocatalysts. However, the structural complexity introduced by the diversity of nitrogen atoms in nitrogen‐rich CTFs poses a substantial challenge in discovering high‐performance CTFs. To address this challenge, a machine‐learning approach is developed to rationally design nitrogen‐rich CTFs, which is subsequently validated through experimental methods. A framework is employed based on the special orthogonal group in three dimensions (SO(3))‐invariant graph neural networks to predict photocatalytic properties of CTFs structures. This approach achieves exceptionally high accuracies with R 2 scores exceeding 0.98. From a dataset of 14920 CTFs structures, this framework identifies 45 high‐performance candidates. Guided by these predictions, a novel CTF structure, pyridine‐2,5‐dicarbaldehyde (CTF‐DCPD) is selected and successfully synthesized, which exhibits an ultrahigh hydrogen evolution rate of 17.70 mmol g −1 h −1 . This rate significantly surpasses that of the widely studied CTF‐1,4‐dicyanobenzene (CTF‐DCB, 10.41 mmol g −1 h −1 ). This work provides a new paradigm for machine learning to accelerate materials development, which can be generalized to the development of other functional materials.    
-
-    
 
 ## Structurally optimized rosette-like microspheres carbon with Fe-Ni single atom sites for bifunctional oxygen electrocatalysis in Zinc-Air batteries   
 
@@ -325,6 +303,17 @@ Electrochemical nitrate reduction reaction (NO
 
     
 
+## Solution-plasma interaction for synthesizing highly active Pt–Ni alloy oxygen reduction nanocatalysts for PEMFCs   
+
+OpenAlex: https://openalex.org/W4401794352    
+Open access: False
+    
+[Shuxiu Yang](https://openalex.org/A5076381284), [Yu Tang](https://openalex.org/A5027796655), [Yawen Tan](https://openalex.org/A5102488533), [Baoqin Fu](https://openalex.org/A5007081452), [Mingyang Liu](https://openalex.org/A5100443412), [Qingzhu Shu](https://openalex.org/A5089159113), [Shuhong Liu](https://openalex.org/A5069268661), [Hong Zhao](https://openalex.org/A5016581404), Chemical Communications. None(None)] 2024.https://doi.org/10.1039/d4cc03008g.
+    
+A highly active PtNi-alloy catalyst (    
+
+    
+
 ## Cu-S Planes in a Metal-Organic Framework for Selective Electrochemical Conversion of CO2 to Formate   
 
 OpenAlex: https://openalex.org/W4401797419    
@@ -589,6 +578,17 @@ No abstract
 
     
 
+## Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study   
+
+OpenAlex: https://openalex.org/W4401844774    
+Open access: False
+    
+[Ting Yao](https://openalex.org/A5102006398), [Huohai Yang](https://openalex.org/A5003167045), [Xiaoyue Fu](https://openalex.org/A5032775500), [Yingjie Feng](https://openalex.org/A5101532301), [Xingbo Ge](https://openalex.org/A5063446819), [Qiang Ke](https://openalex.org/A5102836658), [Xin Chen](https://openalex.org/A5024977426), Molecular Catalysis. 567(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114489.
+    
+No abstract    
+
+    
+
 ## Coupling High‐Entropy Core with Rh Shell for Efficient pH‐Universal Hydrogen Evolution   
 
 OpenAlex: https://openalex.org/W4401844907    
@@ -622,14 +622,14 @@ Abstract Computational understanding of the liquid–electrode interface faces c
 
     
 
-## Empirical Study and Mitigation Methods of Bias in LLM-Based Robots   
+## Strain engineering of CoSAN C catalyst toward enhancing the oxygen reduction reaction activity   
 
-OpenAlex: https://openalex.org/W4401684575    
+OpenAlex: https://openalex.org/W4401862691    
 Open access: False
     
-[Zhou Ren](https://openalex.org/A5083293468), Academic Journal of Science and Technology. 12(1)] 2024.https://doi.org/10.54097/re9qp070.
+[Hong Yin](https://openalex.org/A5100387954), [Yuehong Deng](https://openalex.org/A5056619271), [Zhe He](https://openalex.org/A5016683809), [Wenyuan Xu](https://openalex.org/A5061562797), [Zhaohui Hou](https://openalex.org/A5080587663), [Binhong He](https://openalex.org/A5101724554), [İhsan Çaha](https://openalex.org/A5057534534), [João Cunha](https://openalex.org/A5101501172), [Maryam Karimi](https://openalex.org/A5101849966), [Zhipeng Yu](https://openalex.org/A5031553868), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.08.165.
     
-Our study provides a comprehensive analysis of biased behaviors exhibited by robots utilizing large language models (LLMs) in real-world applications, focusing on five experimental scenarios: customer service, education, healthcare, recruitment, and social interaction. The analysis reveals significant differences in user experiences based on race, health status, work experience, and social status. For instance, the average satisfaction score for white customers is 4.2, compared to 3.5 for black customers, and the response accuracy for white students is 92%, versus 85% for black students. To address these biases, we propose several mitigation methods, including data resampling, model regularization, post-processing techniques, diversity assessment, and user feedback mechanisms. These methods aim to enhance the fairness and inclusivity of robotic systems, promoting healthy human-robot interactions. By combining our quantitative data analysis with existing research, we affirm the importance of bias detection and mitigation, and propose various improvement strategies. Future research should further explore data balancing strategies, fairness-constrained models, real-time monitoring and adjustment mechanisms, and cross-domain studies to comprehensively evaluate and improve the performance of LLM-based robotic systems across various tasks.    
+No abstract    
 
     
 
