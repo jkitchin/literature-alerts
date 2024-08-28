@@ -1,18 +1,8 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Tue Aug 27 01:14:32 2024
+Created on Wed Aug 28 01:14:46 2024
 
-Found 1 results from 2024-08-20 to 2024-08-27
+Found 0 results from 2024-08-21 to 2024-08-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
 
-## Understanding the Role of Strain on Electrochemical Reaction Kinetics: Oxygen Evolution on Mechanically Strained Rutile TiO2 As a Model System   
-
-OpenAlex: https://openalex.org/W4401698405    
-Open access: False
-    
-[O. Quinn Carvalho](https://openalex.org/A5106617349), [Elisa M. Miller](https://openalex.org/A5030845529), [Ann L. Greenaway](https://openalex.org/A5071458569), Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM). MA2024-01(38)] 2024.https://doi.org/10.1149/ma2024-01382264mtgabs.
-    
-Electrocatalysis offers a green alternative (when coupled with renewably-sourced electrons) to conventional carbon-intensive chemical fuel and commodity production processes. Electrochemical device efficiency, however, is limited by the sluggish kinetics of multi-electron transfer reactions, such as the oxygen evolution reaction (OER). Theoretical adsorption free energy scaling relationships predict large oxygen evolution overpotentials (>370 mV) for metal oxides performing the adsorbate evolution mechanism, a series of four proton-concerted electron transfer steps. 1 Identifying catalyst design strategies that overcome or “break” scaling relations (i.e. strain, 2 high entropy alloys, 3 non-concerted proton and electron transfer mechanisms 4,5 ) would provide a means to lower kinetic potential energy penalties and enhance the efficiency and economic incentives for further development of renewably-driven electrochemical reactions. Here we investigate the role of mechanically induced strain on the OER activity of polycrystalline rutile TiO 2 thin films, grown on the super elastic alloy nitinol (NiTi) and mechanically strained by tensile tester. Our work characterizes how strain manifests in these complex polycrystalline systems with complementary physical characterization techniques (e.g. X-ray diffraction and Raman spectroscopy) and relates strain to OER performance in alkaline electrolytes. We contextualize our results within the framework of conventional adsorption scaling relationships to hypothesize how tensile strain influences reaction intermediate adsorption affinities, inferring implications for the OER kinetics of benchmark IrO 2 and RuO 2 catalysts that share the same crystal structure as the rutile TiO 2 considered here. (1) Jaramillo, T. F.; Nørskov, J. K.; Rossmeisl, J. Universality in Oxygen Evolution Electrocatalysis on Oxide Surfaces. ChemCatChem 2011 , 3 (7), 1159–1165. https://doi.org/10.1002/cctc.201000397. (2) Khorshidi, A.; Violet, J.; Hashemi, J.; Peterson, A. A. How Strain Can Break the Scaling Relations of Catalysis. Nat Catal 2018 , 1 (4), 263–268. https://doi.org/10.1038/s41929-018-0054-0. (3) Kante, M. V.; Weber, M. L.; Ni, S.; van den Bosch, I. C. G.; van der Minne, E.; Heymann, L.; Falling, L. J.; Gauquelin, N.; Tsvetanova, M.; Cunha, D. M.; Koster, G.; Gunkel, F.; Nemšák, S.; Hahn, H.; Velasco Estrada, L.; Baeumer, C. A High-Entropy Oxide as High-Activity Electrocatalyst for Water Oxidation. ACS Nano 2023 , 17 (6), 5329–5339. https://doi.org/10.1021/acsnano.2c08096. (4) Grimaud, A.; Diaz-Morales, O.; Han, B.; Hong, W. T.; Lee, Y.-L.; Giordano, L.; Stoerzinger, K. A.; Koper, M. T. M.; Shao-Horn, Y. Activating Lattice Oxygen Redox Reactions in Metal Oxides to Catalyse Oxygen Evolution. Nature Chem 2017 , 9 (5), 457–465. https://doi.org/10.1038/nchem.2695. (5) Yoo, J. S.; Rong, X.; Liu, Y.; Kolpak, A. M. Role of Lattice Oxygen Participation in Understanding Trends in the Oxygen Evolution Reaction on Perovskites. ACS Catal. 2018 , 8 (5), 4628–4636. https://doi.org/10.1021/acscatal.8b00612.    
-
-    

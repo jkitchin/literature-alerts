@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Aug 2024 01:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 01:14:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Copper-Catalyzed Site-Selective C(sp&lt;sup&gt;2&lt;/sup&gt;)&#8211;H Alkynylation of Allenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c03688</link>
-      <description>Duan Xiu, Qihao Jin, Sheng Wang, Yifan Sun, Youhao Wei, Li Wang, Jiang&#8208;Kai Qiu, Kai Guo, Xiaoguang Bao, Xinxin Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401691251
-
-                No abstract</description>
-      <author>Duan Xiu, Qihao Jin, Sheng Wang, Yifan Sun, Youhao Wei, Li Wang, Jiang&#8208;Kai Qiu, Kai Guo, Xiaoguang Bao, Xinxin Wu</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03688</guid>
-    </item>
-    <item>
-      <title>Controllable Multihalogenation of a Non-native Substrate by the SyrB2 Iron Halogenase</title>
-      <link>https://doi.org/10.1021/acscatal.4c02816</link>
-      <description>R. Hunter Wilson, Sourav Chatterjee, Elizabeth R. Smithwick, Anoop R. Damodaran, Ambika Bhagi&#8208;Damodaran, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401694293
-
-                No abstract</description>
-      <author>R. Hunter Wilson, Sourav Chatterjee, Elizabeth R. Smithwick, Anoop R. Damodaran, Ambika Bhagi&#8208;Damodaran</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02816</guid>
-    </item>
-    <item>
-      <title>Photocatalytic Oxyalkynylation of Unactivated Alkenes Enabled by Hypervalent Iodine(III) Reagents</title>
-      <link>https://doi.org/10.1021/acscatal.4c02977</link>
-      <description>Hanzhang Qin, Zhengyi Liu, Yixin Zhang, Yiyun Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401697138
-
-                No abstract</description>
-      <author>Hanzhang Qin, Zhengyi Liu, Yixin Zhang, Yiyun Chen</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02977</guid>
-    </item>
-    <item>
-      <title>Enantioselective N-Heterocyclic Carbene-Catalyzed Hauser-Kraus Annulations for the Construction of C&#8211;N Axially Chiral Phthalimde Derivatives</title>
-      <link>https://doi.org/10.1021/acscatal.4c03263</link>
-      <description>Panlong Ren, Qing Zhao, Kang Xu, Tingshun Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401701297
-
-                No abstract</description>
-      <author>Panlong Ren, Qing Zhao, Kang Xu, Tingshun Zhu</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03263</guid>
-    </item>
-    <item>
-      <title>Anion-Doping-Mediated Metal&#8211;Support Interactions in CeO&lt;sub&gt;2&lt;/sub&gt;-Supported Pd Catalysts for CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02874</link>
-      <description>Luyang Qiao, Xi-guang Wang, Shanshan Zong, Zhi Gao Huang, Zhangfeng Zhou, Maohong Fan, Yuan&#8208;Gen Yao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401707800
-
-                No abstract</description>
-      <author>Luyang Qiao, Xi-guang Wang, Shanshan Zong, Zhi Gao Huang, Zhangfeng Zhou, Maohong Fan, Yuan&#8208;Gen Yao</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02874</guid>
-    </item>
     <item>
       <title>Tailoring and Visualizing Macropores of the Zeolite Monolith to Reveal the Coke Resistance Performance for Bio-oil Hydrodeoxygenation</title>
       <link>https://doi.org/10.1021/acscatal.4c02914</link>
@@ -158,26 +108,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03041</guid>
     </item>
     <item>
-      <title>Confined Intermediates Boost C2+ Selectivity in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c02823</link>
-      <description>Wanhe Li, Yahui Chen, Chengqi Guo, Shuhan Jia, Yiying Zhou, Zhonghuan Liu, Enhui Jiang, Xiaoke Chen, Yue Zou, Pengwei Huo, Yongsheng Yan, Zhi Zhu, Yun Hau Ng, Yanjun Gong, John C. Crittenden, Yan Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401804406
-
-                Addressing the efficient electrochemical conversion of CO2 (CO2RR) into valuable multicarbon (C2+) products necessitates innovative strategies to boost carbon (C1) intermediate coupling on catalyst surfaces. In this work, we introduce a surface-confinement strategy on Cu2O nanoparticles by long alkyl chain grafting to create a spatially confined environment, impeding C1 intermediate detachment and promoting C&#8211;C coupling in the CO2RR. The optimized C12&#8211;Cu2O sample exhibits a Faradaic efficiency (FE) over 63.0% for C2H4, more than double the yield of pristine Cu2O (FE = 25.7%). In situ ATR-FTIR spectroscopy provides direct evidence of rapid C1 intermediate enrichment and restricted diffusion within the surface-confined environment. Molecular dynamics simulations further support these findings by identifying a prolonged residency time that is proportionate to the alkyl chain length, thereby maximizing C2+ selectivity. This surface-confinement approach marks a previously overlooked but immensely promising paradigm in the catalyst design for the CO2RR.</description>
-      <author>Wanhe Li, Yahui Chen, Chengqi Guo, Shuhan Jia, Yiying Zhou, Zhonghuan Liu, Enhui Jiang, Xiaoke Chen, Yue Zou, Pengwei Huo, Yongsheng Yan, Zhi Zhu, Yun Hau Ng, Yanjun Gong, John C. Crittenden, Yan Yan</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02823</guid>
-    </item>
-    <item>
-      <title>Highly Stereoselective Biocatalytic One-Pot Synthesis of Chiral Saturated Oxygen Heterocycles by Integration of a Biosynthetic Heterocyclase into Multiple-Enzyme Cascades</title>
-      <link>https://doi.org/10.1021/acscatal.4c03692</link>
-      <description>Theresa Ro&#223;-Taschner, Sebastian Derra, J&#246;rg Stang, Luca Schlotte, Anthony Putratama, Frank Hahn, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401805036
-
-                No abstract</description>
-      <author>Theresa Ro&#223;-Taschner, Sebastian Derra, J&#246;rg Stang, Luca Schlotte, Anthony Putratama, Frank Hahn</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03692</guid>
-    </item>
-    <item>
       <title>Regioselective Enzymatic Galactosylation Enabled Divergent Synthesis of Asymmetrical Biantennary Human Milk Oligosaccharides</title>
       <link>https://doi.org/10.1021/acscatal.4c03373</link>
       <description>Hui Xia, Kan Zhong, Yun Li, Jinfeng Ye, Sheng Wang, Chao Cai, Wanmeng Mu, Changcheng Liu, Hongzhi Cao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401811657
@@ -198,16 +128,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04263</guid>
     </item>
     <item>
-      <title>A Career in Catalysis: Mark E. Davis</title>
-      <link>https://doi.org/10.1021/acscatal.4c03617</link>
-      <description>Juan P. Arhancet, Cong-Yan Chen, Viktor J. Cybulskis, Rajamani Gounder, Suk Bong Hong, Christopher W. Jones, Jong Hun Kang, Yoshihiro Kubota, Hyunjoo Lee, Marat Orazov, Yuriy Rom&#225;n&#8208;Leshkov, Joel E. Schmidt, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401813537
-
-                Mark E. Davis led an independent research program from 1981 to 2023, beginning at the Virginia Polytechnic Institute and State University (VPI) and then transitioning to the California Institute of Technology (Caltech). His research program was marked by exceptional creativity, breadth, and depth. With classical training in reaction engineering, Davis developed expertise in experimental heterogeneous catalysis and led work in this discipline for more than 40 years. His name is synonymous with zeolites, and today, he is one of the most widely recognized experts in zeolite synthesis, characterization, and catalysis in the world. Early work at the VPI focused on zeolites and catalysis with supported metal coordination complexes. His creativity was evident at the earliest stages of his career, with the development of supported aqueous phase catalysts and the world's first crystalline, extra-large pore molecular sieve, both reported in the late 1980s. A move to Caltech saw a significant expansion of his zeolite synthesis program and the rapid acceleration of a multidecade collaboration with Dr. Stacey I. Zones of Chevron. At Caltech, his work expanded to include studies of molecular recognition and catalysis with organic/inorganic hybrid materials, and he developed a large, parallel program in drug delivery. His work on catalysis heavily emphasized zeolite catalysis, including major thrusts on the conversion of sugars in the liquid phase and methanol in the gas phase. Numerous new zeolites and molecular sieves were discovered throughout the four decades of the Davis laboratory, highlighted by a successful, multidecade quest to prepare a chiral zeolite with enantioselective catalytic properties. Davis is one of the most decorated researchers of the last four decades. He is one of only 21 living people currently elected to all of the US National Academies (Engineering, Science, Medicine) and elected as a Fellow of the National Academy of Inventors. He was the first engineer to win the NSF's Alan T. Waterman Award and is one of only two researchers (to date) to win the International Zeolite Association's Donald Breck Award twice (1989, 2019). Awards from the ACS (Ipatieff, Murphree, and Somorjai Awards), AIChE (Colburn, Professional Progress Awards), and North American Catalysis Society (Emmett Award) are among his accolades.</description>
-      <author>Juan P. Arhancet, Cong-Yan Chen, Viktor J. Cybulskis, Rajamani Gounder, Suk Bong Hong, Christopher W. Jones, Jong Hun Kang, Yoshihiro Kubota, Hyunjoo Lee, Marat Orazov, Yuriy Rom&#225;n&#8208;Leshkov, Joel E. Schmidt</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03617</guid>
-    </item>
-    <item>
       <title>Photochemical Asymmetric Palladium-Catalyzed Allylation Reaction: Expeditious Entry to Chiral 1,2-Amino Alcohols and 1,2-Diamines</title>
       <link>https://doi.org/10.1021/acscatal.4c04209</link>
       <description>Hui Xie, Haohua Chen, Uttam Dutta, Yu Lan, Bernhard Breit, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401821535
@@ -226,6 +146,36 @@
       <author>Alessio Carioscia, Emanuele Cocco, Maria Edith Casacchia, Giuseppe Gentile, Martina Mamone, Giuliana Giorgianni, Elena Incerto, Maurizio Prato, Fabio Pesciaioli, Giacomo Filippini, Armando Carlone</author>
       <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03532</guid>
+    </item>
+    <item>
+      <title>Confined Intermediates Boost C2+ Selectivity in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c02823</link>
+      <description>Wanhe Li, Yahui Chen, Chengqi Guo, Shuhan Jia, Yiying Zhou, Zhonghuan Liu, Enhui Jiang, Xiaoke Chen, Yue Zou, Pengwei Huo, Yongsheng Yan, Zhi Zhu, Yun Hau Ng, Yanjun Gong, John C. Crittenden, Yan Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401804406
+
+                Addressing the efficient electrochemical conversion of CO2 (CO2RR) into valuable multicarbon (C2+) products necessitates innovative strategies to boost carbon (C1) intermediate coupling on catalyst surfaces. In this work, we introduce a surface-confinement strategy on Cu2O nanoparticles by long alkyl chain grafting to create a spatially confined environment, impeding C1 intermediate detachment and promoting C&#8211;C coupling in the CO2RR. The optimized C12&#8211;Cu2O sample exhibits a Faradaic efficiency (FE) over 63.0% for C2H4, more than double the yield of pristine Cu2O (FE = 25.7%). In situ ATR-FTIR spectroscopy provides direct evidence of rapid C1 intermediate enrichment and restricted diffusion within the surface-confined environment. Molecular dynamics simulations further support these findings by identifying a prolonged residency time that is proportionate to the alkyl chain length, thereby maximizing C2+ selectivity. This surface-confinement approach marks a previously overlooked but immensely promising paradigm in the catalyst design for the CO2RR.</description>
+      <author>Wanhe Li, Yahui Chen, Chengqi Guo, Shuhan Jia, Yiying Zhou, Zhonghuan Liu, Enhui Jiang, Xiaoke Chen, Yue Zou, Pengwei Huo, Yongsheng Yan, Zhi Zhu, Yun Hau Ng, Yanjun Gong, John C. Crittenden, Yan Yan</author>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02823</guid>
+    </item>
+    <item>
+      <title>Highly Stereoselective Biocatalytic One-Pot Synthesis of Chiral Saturated Oxygen Heterocycles by Integration of a Biosynthetic Heterocyclase into Multiple-Enzyme Cascades</title>
+      <link>https://doi.org/10.1021/acscatal.4c03692</link>
+      <description>Theresa Ro&#223;-Taschner, Sebastian Derra, J&#246;rg Stang, Luca Schlotte, Anthony Putratama, Frank Hahn, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401805036
+
+                The secondary metabolism is a rich source of enzymes with new synthetically attractive activities that have not yet been integrated into the toolbox of biocatalysis. Chiral saturated oxygen heterocycles (CSOHs) are abundant structural elements of natural products and other value-added compounds. We present a biocatalytic method for the synthesis of CSOHs from readily accessible precursors that combines an intramolecular oxa-Michael addition (IMOMA)-catalyzing cyclase (CYC) from a biosynthetic pathway with alcohol dehydrogenases (ADHs) and thioester-derivatizing enzymes. The one-pot ADH&#8211;CYC reaction enables access to various tetrahydropyran (THP) and tetrahydrofuran thioesters under control of up to four stereocenters. These products are readily convertible into useful CSOH ketone, amide, aldehyde/alcohol, ester, and carboxylic acid building blocks by chemical and enzymatic means. The extendibility to more complex multienzyme cascades was demonstrated by the addition of a thioesterase and a carboxylic acid reductase, allowing the straightforward chemoenzymatic synthesis of the natural product (&#8722;)-civet, a new derivative, and a THP alcohol. The integration of IMOMA cyclases into enzymatic cascades allows better exploitation of the high synthetic potential of this new group of ring-forming enzymes and expands the repertoire for the synthesis of pharmacologically relevant CSOHs as a highly selective and versatile alternative. This approach will be adaptable for the synthesis of a wide range of CSOHs by varying ADHs, IMOMA cyclases, and modifying enzymes.</description>
+      <author>Theresa Ro&#223;-Taschner, Sebastian Derra, J&#246;rg Stang, Luca Schlotte, Anthony Putratama, Frank Hahn</author>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03692</guid>
+    </item>
+    <item>
+      <title>A Career in Catalysis: Mark E. Davis</title>
+      <link>https://doi.org/10.1021/acscatal.4c03617</link>
+      <description>Juan P. Arhancet, Cong-Yan Chen, Viktor J. Cybulskis, Rajamani Gounder, Suk Bong Hong, Christopher W. Jones, Jong Hun Kang, Yoshihiro Kubota, Hyunjoo Lee, Marat Orazov, Yuriy Rom&#225;n&#8208;Leshkov, Joel E. Schmidt, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401813537
+
+                Mark E. Davis led an independent research program from 1981 to 2023, beginning at the Virginia Polytechnic Institute and State University (VPI) and then transitioning to the California Institute of Technology (Caltech). His research program was marked by exceptional creativity, breadth, and depth. With classical training in reaction engineering, Davis developed expertise in experimental heterogeneous catalysis and led work in this discipline for more than 40 years. His name is synonymous with zeolites, and today, he is one of the most widely recognized experts in zeolite synthesis, characterization, and catalysis in the world. Early work at the VPI focused on zeolites and catalysis with supported metal coordination complexes. His creativity was evident at the earliest stages of his career, with the development of supported aqueous phase catalysts and the world's first crystalline, extra-large pore molecular sieve, both reported in the late 1980s. A move to Caltech saw a significant expansion of his zeolite synthesis program and the rapid acceleration of a multidecade collaboration with Dr. Stacey I. Zones of Chevron. At Caltech, his work expanded to include studies of molecular recognition and catalysis with organic/inorganic hybrid materials, and he developed a large, parallel program in drug delivery. His work on catalysis heavily emphasized zeolite catalysis, including major thrusts on the conversion of sugars in the liquid phase and methanol in the gas phase. Numerous new zeolites and molecular sieves were discovered throughout the four decades of the Davis laboratory, highlighted by a successful, multidecade quest to prepare a chiral zeolite with enantioselective catalytic properties. Davis is one of the most decorated researchers of the last four decades. He is one of only 21 living people currently elected to all of the US National Academies (Engineering, Science, Medicine) and elected as a Fellow of the National Academy of Inventors. He was the first engineer to win the NSF's Alan T. Waterman Award and is one of only two researchers (to date) to win the International Zeolite Association's Donald Breck Award twice (1989, 2019). Awards from the ACS (Ipatieff, Murphree, and Somorjai Awards), AIChE (Colburn, Professional Progress Awards), and North American Catalysis Society (Emmett Award) are among his accolades.</description>
+      <author>Juan P. Arhancet, Cong-Yan Chen, Viktor J. Cybulskis, Rajamani Gounder, Suk Bong Hong, Christopher W. Jones, Jong Hun Kang, Yoshihiro Kubota, Hyunjoo Lee, Marat Orazov, Yuriy Rom&#225;n&#8208;Leshkov, Joel E. Schmidt</author>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03617</guid>
     </item>
   </channel>
 </rss>
