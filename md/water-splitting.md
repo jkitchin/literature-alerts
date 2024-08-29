@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Wed Aug 28 01:14:39 2024
+Created on Thu Aug 29 01:15:12 2024
 
-Found 117 results from 2024-08-21 to 2024-08-28
+Found 126 results from 2024-08-22 to 2024-08-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -37,6 +37,17 @@ Open access: False
 [Xiaofeng Wang](https://openalex.org/A5100333244), [Yangping Zhang](https://openalex.org/A5056349795), [Tianpeng Liu](https://openalex.org/A5059102739), [Zhengying Wu](https://openalex.org/A5010896261), [Jun Yu](https://openalex.org/A5101531198), [Yukou Du](https://openalex.org/A5004666624), Journal of Colloid and Interface Science. 677(None)] 2025.https://doi.org/10.1016/j.jcis.2024.08.111.
     
 Zeolitic imidazolate frameworks (ZIFs), a class of promising metal organic frameworks (MOFs) material, display high porosity and chemical/thermal stability. However, there are problems such as few active sites and restricted exposed active areas, which limit the oxygen evolution reaction (OER) performance of catalysts. Here, starting from zeolitic imidazolate framework-67 (ZIF-67), we have successfully synthesized Pt-doped CoFe layered double hydroxide (Pt/CoFe LDH) catalysts for efficient OER catalysis. The obtained Pt/CoFe LDH-4 catalysts provides large surface areas and abundant active sites, which further improves the OER performance. In detail, the Pt/CoFe LDH-4 exhibits a lower overpotential of 263 mV at a current density of 40 mA cm    
+
+    
+
+## Evaluation of individual metal contribution on active sites tailoring in multimetallic oxygen evolution catalytic system   
+
+OpenAlex: https://openalex.org/W4401802739    
+Open access: False
+    
+[Jiejie Feng](https://openalex.org/A5058756798), [Liling Wei](https://openalex.org/A5017227275), [Huayi Li](https://openalex.org/A5070897349), [Jianquan Shen](https://openalex.org/A5100800908), Journal of Colloid and Interface Science. 678(None)] 2025.https://doi.org/10.1016/j.jcis.2024.08.167.
+    
+Synergistic effects among different metals have positioned multimetallic electrocatalysts as promising facilitators for enhancing the oxygen evolution reaction (OER), though understanding their precise mechanisms has remained elusive. Delving into the unique contributions of individual metals is crucial for comprehending the complex synergy within multimetallic systems. In this study, we employed quinary (Co, Ce, Fe, Cu, and Mn) molybdates as a model to systematically investigate the role of each metal species in tailoring active sites. Our systematic analyses unveiled the presence of crucial oxygen vacancies, which can be considered as the active sites in OER. Comparative analyses of the top-performing quinary molybdates and their quaternary counterparts highlighted distinct electronic interactions and varying densities of oxygen vacancies, indicative of the diverse electron and vacancy engineering capabilities inherent to different metals. Mott-schottky plots demonstrated the predominant contribution of Mn to specific catalytic activity, followed by Ce, Fe, Cu, and Co. Leveraging an in-situ methanol probing method, it was found that the introduction of Cu, Ce, Fe, and Mn weakened intermediate adsorption, with Mn and Ce having the most significant effects, whereas Co strengthened adsorption. This work can advance our comprehension of the role played by individual metals within multimetallic catalysts, thereby promoting a more profound understanding of synergistic effects.    
 
     
 
@@ -403,17 +414,6 @@ No abstract
 
     
 
-## Evaluation of individual metal contribution on active sites tailoring in multimetallic oxygen evolution catalytic system   
-
-OpenAlex: https://openalex.org/W4401802739    
-Open access: False
-    
-[Jiejie Feng](https://openalex.org/A5058756798), [Liling Wei](https://openalex.org/A5017227275), [Huayi Li](https://openalex.org/A5070897349), [Jianquan Shen](https://openalex.org/A5100800908), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.08.167.
-    
-No abstract    
-
-    
-
 ## Review for "Investigating metal (M = Mn, Fe, and Ni)-doped Co(OH)<sub>2</sub> nanofibers for electrocatalytic oxygen evolution and electrochemical biosensing performance"   
 
 OpenAlex: https://openalex.org/W4401807112    
@@ -722,6 +722,160 @@ No abstract
 
     
 
+## Review for "Ultrathin iridium carbonyl formate for efficient and durable acidic oxygen evolution electrocatalysis"   
+
+OpenAlex: https://openalex.org/W4401935618    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta04064c/v2/review1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Ultrathin iridium carbonyl formate for efficient and durable acidic oxygen evolution electrocatalysis"   
+
+OpenAlex: https://openalex.org/W4401935662    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta04064c/v2/decision1.
+    
+No abstract    
+
+    
+
+## Review for "Ultrathin iridium carbonyl formate for efficient and durable acidic oxygen evolution electrocatalysis"   
+
+OpenAlex: https://openalex.org/W4401935697    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta04064c/v1/review2.
+    
+No abstract    
+
+    
+
+## Review for "Ultrathin iridium carbonyl formate for efficient and durable acidic oxygen evolution electrocatalysis"   
+
+OpenAlex: https://openalex.org/W4401935698    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta04064c/v1/review1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Ultrathin iridium carbonyl formate for efficient and durable acidic oxygen evolution electrocatalysis"   
+
+OpenAlex: https://openalex.org/W4401935802    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta04064c/v1/decision1.
+    
+No abstract    
+
+    
+
+## Review for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401937743    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v1/review2.
+    
+No abstract    
+
+    
+
+## Review for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401937824    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v1/review1.
+    
+No abstract    
+
+    
+
+## Review for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401937912    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v2/review2.
+    
+No abstract    
+
+    
+
+## Review for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401937913    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v3/review1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401938081    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v3/decision1.
+    
+No abstract    
+
+    
+
+## Review for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401938123    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v2/review1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401938303    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v1/decision1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401938401    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v4/decision1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Interplay Between Element-Specific Distortions and Electrocatalytic Oxygen Evolution for Cobalt-Iron Hydroxides"   
+
+OpenAlex: https://openalex.org/W4401938503    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc01841a/v2/decision1.
+    
+No abstract    
+
+    
+
 ## Compositional Tuning of Nickel Sulfoselenides for Use As Bifunctional Oxygen Electrocatalysts in Aqueous Electrochemical Energy Storage   
 
 OpenAlex: https://openalex.org/W4401788105    
@@ -843,28 +997,6 @@ Introducing heterogeneous elements into the lattice of materials to form oxygen 
 
     
 
-## 2D NiFe   
-
-OpenAlex: https://openalex.org/W4401716084    
-Open access: False
-    
-[Hongbo Zhang](https://openalex.org/A5100461087), [Yiting Zhao](https://openalex.org/A5000109291), [Zhenfeng Cheng](https://openalex.org/A5000547991), [Jingyun Jiang](https://openalex.org/A5062871552), [Jianwei Fu](https://openalex.org/A5054516212), [Qun Xu](https://openalex.org/A5073882835), PubMed. None(None)] 2024.https://doi.org/10.1002/smll.202405225.
-    
-To meet the industrial demand for overall water splitting, oxygen evolution reaction (OER) electrocatalysts with low-cost, highly effective, and durable properties are urgently required. Herein, a facile confined strategy is utilized to construct 2D NiFe    
-
-    
-
-## High-Performance Low-Iridium Catalyst for Water Oxidation: Breaking Long-Ranged Order of IrO   
-
-OpenAlex: https://openalex.org/W4401715207    
-Open access: False
-    
-[Yifan Wang](https://openalex.org/A5104258996), [Y.S. Qin](https://openalex.org/A5041866251), [Rou Wen](https://openalex.org/A5088170517), [L Wang](https://openalex.org/A5090646025), [Meiling Dou](https://openalex.org/A5033783993), [Feng Wang](https://openalex.org/A5100431311), PubMed. None(None)] 2024.https://doi.org/10.1002/smll.202401964.
-    
-Exploring efficacious low-Ir electrocatalysts for oxygen evolution reaction (OER) is crucial for large-scale application of proton exchange membrane water electrolysis (PEMWE). Herein, an efficient non-precious lanthanide-metal-doped IrO    
-
-    
-
 ##  growth of CaMoO   
 
 OpenAlex: https://openalex.org/W4401729102    
@@ -873,17 +1005,6 @@ Open access: False
 [Nikki Garg](https://openalex.org/A5045452789), [Ashok K. Ganguli](https://openalex.org/A5035556455), PubMed. 14(36)] 2024.https://doi.org/10.1039/d4ra03196b.
     
 Electrochemical water splitting stands as a promising avenue for sustainable hydrogen production, with the oxygen evolution reaction (OER) playing a pivotal role. Efficient and durable electrocatalysts are crucial for expediting the sluggish kinetics of OER. In this work, we investigate the synthesis and performance of a novel CaMoO    
-
-    
-
-## Unraveling the Dynamic Reconstruction of Active Co(IV)-O Sites on Ultrathin Amorphous Cobalt-Iron Hydroxide Nanosheets for Efficient Oxygen-Evolving.   
-
-OpenAlex: https://openalex.org/W4401715604    
-Open access: False
-    
-[Ying Wang](https://openalex.org/A5100346973), [Yuntang Zhuang](https://openalex.org/A5086447167), [Guihua Yang](https://openalex.org/A5062258132), [Chaoqun Dong](https://openalex.org/A5056708198), [Ming He](https://openalex.org/A5100420225), PubMed. None(None)] 2024.https://doi.org/10.1002/smll.202404205.
-    
-Highly-efficient and cost-effective electrocatalysts toward the oxygen evolution reaction (OER) are crucial for advancing sustainable energy technologies. Herein, a novel approach leveraging corrosion engineering is presented to facilitate the in situ growth of amorphous cobalt-iron hydroxides on nickel-iron foam (CoFe(OH)    
 
     
 
@@ -964,17 +1085,6 @@ Although the electronic state of catalysts is strongly corrected with their oxyg
 
     
 
-## Enhancing Benzylamine Electro-oxidation and Hydrogen Evolution through in-situ Electrochemical Activation of CoC2O4 Nanoarray.   
-
-OpenAlex: https://openalex.org/W4401715084    
-Open access: False
-    
-[Guanqiao Zhang](https://openalex.org/A5078430522), [Jialai Hu](https://openalex.org/A5034368370), [Wanling Zhang](https://openalex.org/A5058788440), [Kun Yu](https://openalex.org/A5101301843), [Wenbiao Zhang](https://openalex.org/A5101436430), [Qingsheng Gao](https://openalex.org/A5044287015), PubMed. None(None)] 2024.https://doi.org/10.1002/cssc.202401446.
-    
-The sluggish anodic oxygen evolution reaction (OER) seriously restricts the overall efficiency of water splitting. Here, we present an environmentally friendly and efficient aniline oxidation (BOR) to replace the sluggish OER, accomplishing the co-production of H2 and high value-added benzonitrile (BN) at low voltages. Cobalt oxalates grown on cobalt foam (CoC2O4·2H2O/CF) are adopted as the pre-catalysts, which further evolve into working electrocatalysts active for BOR and HER after appropriate electrochemical activation. Thereinto, cyclic voltammetry activation at positive potentials is performed to reconstruct cobalt oxalate via extensive oxidation, resulting in enriched Co(III) species and nanoporous structures beneficial for BOR, while chronoamperometry at negative potentials is introduced for the cathodic activation toward efficient HER with obvious improvement. The two activated electrodes can be combined into a two-electrode system, which achieves a high current density of 75 mA cm-2 at the voltage of 1.95 V, with the high Faraday efficiencies of both BOR (90.0%) and HER (90.0%) and the satisfactory yield of BN (76.8%).    
-
-    
-
 ## Synergy of Interface Coupling and Sulfur Vacancies in Ni3S2/Fe2P for Water Splitting   
 
 OpenAlex: https://openalex.org/W4401733790    
@@ -1016,17 +1126,6 @@ Open access: False
 [Pinki Rani](https://openalex.org/A5001957644), [Rathindranath Biswas](https://openalex.org/A5022351799), [Arnab Dutta](https://openalex.org/A5005081322), [Prashant S. Alegaonkar](https://openalex.org/A5032006365), Energy & Fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c02226.
     
 Transition metal tellurides have emerged as leading materials for energy applications due to their unique electrochemical properties. Here, cobalt telluride (CoTe) is tactically included with MnO2 on a boron nitride template via a hydrothermal method to generate the CoTe/MnO2/BN (CTMOBN) ternary heterostructure composite, which was probed for the electrocatalytic oxygen evolution reaction (OER) in water. The CTMOBN material was duly studied via an array of spectroscopic and microscopic techniques, including Fourier-transform infrared spectroscopy, X-ray diffraction, field emission scanning electron microscopy, X-ray photoelectron spectroscopy, and Raman spectroscopy. The detailed analysis revealed a hierarchical structure for the composite, with the distinct presence of CoTe nanosheets, MnO2 rods, and boron nitride flakes. The catalytic activity of this ternary CTMOBN composite exhibited efficient OER activity in alkaline aqueous media while displaying a relatively low overpotential of 273 mV to reach an anodic current density of 10 mA/cm2 with a fast catalysis rate (Tafel slope ∼81 mV/dec). The comparative studies also highlighted the significance of the presence of all three components in the composite for displaying such an excellent electrocatalytic OER activity.    
-
-    
-
-## Tailoring Single-Atom Coordination Environments in Carbon Nanofibers via Flash Heating for Highly Efficient Bifunctional Oxygen Electrocatalysis.   
-
-OpenAlex: https://openalex.org/W4401715544    
-Open access: False
-    
-[Qingliang Luo](https://openalex.org/A5029667992), [Kangkang Wang](https://openalex.org/A5025311574), [Qiangqiang Zhang](https://openalex.org/A5051338981), [Wei Wang](https://openalex.org/A5100392071), [Rongwu Wang](https://openalex.org/A5069148464), [Linlin Li](https://openalex.org/A5100318916), [Shengjie Peng](https://openalex.org/A5101636108), [Dongxiao Ji](https://openalex.org/A5047495779), [Xiaohong Qin](https://openalex.org/A5034059094), PubMed. None(None)] 2024.https://doi.org/10.1002/anie.202413369.
-    
-The rational design of carbon-supported transition metal single-atom catalysts necessitates precise atomic positioning within the precursor. However, structural collapse during pyrolysis can occlude single atoms, posing significant challenges in controlling both their utilization and coordination environment. Herein, we present a surface atom adsorption-flash heating (FH) strategy, which ensures that the pre-designed carbon nanofiber structure remains intact during heating, preventing unforeseen collapse effects and enabling the formation of metal atoms in nano-environments with either tetra-nitrogen or penta-nitrogen coordination at different flash heating temperatures. Theoretical calculations and in situ Raman spectroscopy reveal that penta-nitrogen coordinated cobalt atoms (Co-N5) promote a lower energy pathway for oxygen reduction and oxygen evolution reactions compared to the commonly formed Co-N4 sites. This strategy ensures that Co-N5 sites are fully exposed on the surface, achieving exceptionally high atomic utilization. The turnover frequency (65.33 s-1) is 47.4 times higher than that of 20% Pt/C under alkaline conditions. The porous, flexible carbon nanofibers significantly enhance zinc-air battery performance, with a high peak power density (273.8 mW cm-2), large specific capacity (784.2 mA h g-1), and long-term cycling stability over 600 h. Additionally, the flexible fiber-shaped zinc-air battery can power wearable devices, demonstrating significant potential in flexible electronics applications.    
 
     
 
@@ -1239,17 +1338,6 @@ SUMMARY 12‐Oxo‐phytodienoic acid reductases (OPRs) perform vital functions i
 
     
 
-## The Impact of Antioxidant-Ciprofloxacin Combinations on the Evolution of Antibiotic Resistance in Pseudomonas aeruginosa Biofilms   
-
-OpenAlex: https://openalex.org/W4401881589    
-Open access: True
-    
-[Oana Ciofu](https://openalex.org/A5009112406), [Doaa Higazy](https://openalex.org/A5035109855), [Marwa Ahmed](https://openalex.org/A5076397036), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4756544/v1 ([pdf](https://www.researchsquare.com/article/rs-4756544/latest.pdf)).
-    
-Abstract Antibiotic resistance in biofilms is a critical challenge driven by mechanisms such as increased oxidative stress, which could lead to enhanced mutagenesis. Experimental evolution studies have shown that biofilm growth fosters antimicrobial resistance and tolerance. The bactericidal antibiotic ciprofloxacin (CIP) exacerbates oxidative stress, enhancing reactive oxygen species (ROS) production and mutagenesis at sub-inhibitory concentrations. This study tests the hypothesis that antioxidants (AOs) such as N-acetyl-cysteine (NAC), and Edaravone (ED) could serve as anti-evolutionary drugs to prevent or reduce antimicrobial resistance in P. aeruginosa biofilms exposed to sub-inhibitory concentrations of ciprofloxacin (CIP), with Thiourea (THU) used as a control. In vitro experimental evolution studies using the monitor strain PAO1-mCherry-PCD-gfp + were conducted in flow cells and glass beads biofilm models. The harvested biofilm populations underwent population analysis and the flow-cell populations were also whole genome sequenced (WGS). The results showed that the CIP-AO combination of CIP-THU could reduce the fast increase of mutagenic resistance in both biofilm models. The confocal laser microscopy of flow cells biofilms showed a reduction in the percentage of nfxB mutants in biofilms treated with all the three CIP-AO combinations compared to the CIP treatment alone following 24h of treatment. The population analysis revealed a significant reduction of the subpopulations growing on 0.5 mg/L of CIP-supplemented plates in all the combined treatments of CIP-AO as compared to CIP populations. The WGS results showed CIP-specific mutants in the CIP-treated populations including nfxB and nalC mutations which were not observed in CIP-AO-treated ones. Flagellar gene mutations appeared in CIP-ED (fliG) and CIP-NAC (flhA) treatments. Additionally, wspA, which regulates biofilm formation, had a transversion mutation in CIP-ED and a deletion mutation in CIP-NAC. The minimum inhibitory concentrations (MICs) level for CIP-treated isolates was significantly higher than all isolates from CIP-AO treatments in both tested biofilm models of flow cells and glass beads. Overall, these findings suggest that the two clinical antioxidants may have a potential role in mitigating the development of antibiotic resistance in biofilms.    
-
-    
-
 ## Determining the Best Noninvasive Test for Peripheral Arterial Disease Diagnosis to Predict Diabetic Foot Ulcer Healing in Patients Following Endovascular Revascularization   
 
 OpenAlex: https://openalex.org/W4401834237    
@@ -1258,6 +1346,17 @@ Open access: True
 [Francisco Javier Álvaro‐Afonso](https://openalex.org/A5084275282), [Yolanda García‐Álvarez](https://openalex.org/A5065329781), [Esther García‐Morales](https://openalex.org/A5060368242), [Sebastián Flores‐Escobar](https://openalex.org/A5019649767), [L. de Benito-Fernández](https://openalex.org/A5062574377), [J.M. Alfayate-García](https://openalex.org/A5062518718), [Juan Pedro Sánchez‐Ríos](https://openalex.org/A5018742370), [E. Puras-Mallagray](https://openalex.org/A5003438897), [Esteban Javier Malo-Benages](https://openalex.org/A5025381329), [Margarita Ramírez-Ortega](https://openalex.org/A5000409166), [Sandra Redondo López](https://openalex.org/A5067110600), [Almudena Cecilia-Matilla](https://openalex.org/A5079164161), [José Luis Lázaro‐Martínez](https://openalex.org/A5029358489), Healthcare. 12(16)] 2024.https://doi.org/10.3390/healthcare12161664.
     
 Background/Objectives: To analyze the best noninvasive tests prognosis marker in patients with diabetic foot ulcer (DFU) who underwent endovascular revascularization based on clinical outcomes, such as healing rate, time to heal, and free amputation survival after at least a six-month follow-up. Methods: A multicentric prospective observational study was performed with 28 participants with ischemic or neuroischemic DFU who came to the participant centers and underwent endovascular revascularization between January 2022 and March 2023. Toe systolic pressure (TP), ankle systolic pressure (AP), the ankle brachial pressure index (ABPI), the toe brachial pressure index (TBPI), transcutaneous pressure of oxygen (TcPO2), and skin perfusion pressure (SPP) were evaluated using PeriFlux 6000 System, Perimed, Sweden, before (Visit 0) and four weeks after revascularization (Visit 1). The primary clinical outcome was an evaluation of the clinical evolution of noninvasive tests comparing Visit 0 and Visit 1, estimating the sensitivity for predicting wound healing of noninvasive tests at six months following initial recruitment. Results: After six months, 71.43% (n = 20) of DFU healed, four patients (14.3%) received major amputations, and one (3.5%) died. The two tests that best predicted wound healing after revascularization according to the ROC curve were TcPO2 and TP with sensitivities of 0.89 and 0.70 for the cut-off points of 24 mmHg and 46 mmHg, respectively. Conclusions: TcPO2 and TP were the two tests that best predicted wound healing in patients who underwent endovascular revascularization. Clinicians should consider the importance of the evaluation of microcirculation in the healing prognosis of patients with diabetic foot ulcers.    
+
+    
+
+## The Impact of Antioxidant-Ciprofloxacin Combinations on the Evolution of Antibiotic Resistance in Pseudomonas aeruginosa Biofilms   
+
+OpenAlex: https://openalex.org/W4401881589    
+Open access: True
+    
+[Oana Ciofu](https://openalex.org/A5009112406), [Doaa Higazy](https://openalex.org/A5035109855), [Marwa Ahmed](https://openalex.org/A5076397036), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4756544/v1 ([pdf](https://www.researchsquare.com/article/rs-4756544/latest.pdf)).
+    
+Abstract Antibiotic resistance in biofilms is a critical challenge driven by mechanisms such as increased oxidative stress, which could lead to enhanced mutagenesis. Experimental evolution studies have shown that biofilm growth fosters antimicrobial resistance and tolerance. The bactericidal antibiotic ciprofloxacin (CIP) exacerbates oxidative stress, enhancing reactive oxygen species (ROS) production and mutagenesis at sub-inhibitory concentrations. This study tests the hypothesis that antioxidants (AOs) such as N-acetyl-cysteine (NAC), and Edaravone (ED) could serve as anti-evolutionary drugs to prevent or reduce antimicrobial resistance in P. aeruginosa biofilms exposed to sub-inhibitory concentrations of ciprofloxacin (CIP), with Thiourea (THU) used as a control. In vitro experimental evolution studies using the monitor strain PAO1-mCherry-PCD-gfp + were conducted in flow cells and glass beads biofilm models. The harvested biofilm populations underwent population analysis and the flow-cell populations were also whole genome sequenced (WGS). The results showed that the CIP-AO combination of CIP-THU could reduce the fast increase of mutagenic resistance in both biofilm models. The confocal laser microscopy of flow cells biofilms showed a reduction in the percentage of nfxB mutants in biofilms treated with all the three CIP-AO combinations compared to the CIP treatment alone following 24h of treatment. The population analysis revealed a significant reduction of the subpopulations growing on 0.5 mg/L of CIP-supplemented plates in all the combined treatments of CIP-AO as compared to CIP populations. The WGS results showed CIP-specific mutants in the CIP-treated populations including nfxB and nalC mutations which were not observed in CIP-AO-treated ones. Flagellar gene mutations appeared in CIP-ED (fliG) and CIP-NAC (flhA) treatments. Additionally, wspA, which regulates biofilm formation, had a transversion mutation in CIP-ED and a deletion mutation in CIP-NAC. The minimum inhibitory concentrations (MICs) level for CIP-treated isolates was significantly higher than all isolates from CIP-AO treatments in both tested biofilm models of flow cells and glass beads. Overall, these findings suggest that the two clinical antioxidants may have a potential role in mitigating the development of antibiotic resistance in biofilms.    
 
     
 

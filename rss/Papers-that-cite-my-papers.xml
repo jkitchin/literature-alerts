@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Aug 2024 01:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 01:15:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -338,16 +338,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.08.017</guid>
     </item>
     <item>
-      <title>Ultrafine ruthenium-based nanoclusters regulated by a three-phase heterogeneous interface exhibiting superior mass activity for alkaline hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144953</link>
-      <description>Xinyu Zhu, Minghao Fang, Bozhi Yang, Shujie Yang, Zhanwen Liu, Yanghong Li, Manjun Zhan, Xin Min, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4401829933
-
-                No abstract</description>
-      <author>Xinyu Zhu, Minghao Fang, Bozhi Yang, Shujie Yang, Zhanwen Liu, Yanghong Li, Manjun Zhan, Xin Min</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144953</guid>
-    </item>
-    <item>
       <title>Facile synthesis of NiCo2O4 nanosheets efficient for electrocatalysis of water</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.161013</link>
       <description>Yujie Wang, Yan Duan, Yaogang Chen, Man Zhang, Yuchen Wang, &#1041;&#1086; &#1051;&#1102;, Xiaodie Zhang, Yutong Zhang, Rongliang Qiu, Kai Yan, Applied Surface Science. None(None)] 2024. https://openalex.org/W4401831611
@@ -478,16 +468,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.165</guid>
     </item>
     <item>
-      <title>Theoretical Investigation on Enhanced HER Electrocatalytic Activities of SiC Monolayers through Nonmetal Doping and Strain Engineering</title>
-      <link>https://doi.org/10.1039/d4ce00633j</link>
-      <description>Bingwen Li, Hongrui Shi, Zeyun Ni, Haifeng Zheng, Kehao Chen, Yuting Yan, Huimin Qi, Xue Yu, Xinfang Wang, Liming Fan, CrystEngComm. None(None)] 2024. https://openalex.org/W4401717241
-
-                Efficient hydrogen evolution reaction (HER) electrocatalysts are crucial for renewable energy storage and conversion.</description>
-      <author>Bingwen Li, Hongrui Shi, Zeyun Ni, Haifeng Zheng, Kehao Chen, Yuting Yan, Huimin Qi, Xue Yu, Xinfang Wang, Liming Fan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ce00633j</guid>
-    </item>
-    <item>
       <title>Cu-S Planes in a Metal-Organic Framework for Selective Electrochemical Conversion of CO2 to Formate</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-trn26</link>
       <description>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, A. Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri, No host. None(None)] 2024. https://openalex.org/W4401797419
@@ -496,6 +476,26 @@
       <author>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, A. Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri</author>
       <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-trn26</guid>
+    </item>
+    <item>
+      <title>Ultrafine ruthenium-based nanoclusters regulated by a three-phase heterogeneous interface exhibiting superior mass activity for alkaline hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144953</link>
+      <description>Xinyu Zhu, Minghao Fang, Bozhi Yang, Shujie Yang, Jie Li, Yanghong Li, Manjun Zhan, Xin Min, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4401829933
+
+                No abstract</description>
+      <author>Xinyu Zhu, Minghao Fang, Bozhi Yang, Shujie Yang, Jie Li, Yanghong Li, Manjun Zhan, Xin Min</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144953</guid>
+    </item>
+    <item>
+      <title>Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115725</link>
+      <description>James M. Mayer, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4401892778
+
+                No abstract</description>
+      <author>James M. Mayer</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115725</guid>
     </item>
     <item>
       <title>Neural Network-Driven Smart City Security Monitoring in Beijing Multimodal Data Integration and Real-Time Anomaly Detection</title>

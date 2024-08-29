@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Wed Aug 28 01:15:00 2024
+Created on Thu Aug 29 01:15:26 2024
 
-Found 52 results from 2024-08-21 to 2024-08-28
+Found 52 results from 2024-08-22 to 2024-08-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -380,17 +380,6 @@ No abstract
 
     
 
-## Ultrafine ruthenium-based nanoclusters regulated by a three-phase heterogeneous interface exhibiting superior mass activity for alkaline hydrogen evolution   
-
-OpenAlex: https://openalex.org/W4401829933    
-Open access: False
-    
-[Xinyu Zhu](https://openalex.org/A5101532554), [Minghao Fang](https://openalex.org/A5038903476), [Bozhi Yang](https://openalex.org/A5050219680), [Shujie Yang](https://openalex.org/A5101399094), [Zhanwen Liu](https://openalex.org/A5100348369), [Yanghong Li](https://openalex.org/A5106550001), [Manjun Zhan](https://openalex.org/A5031361649), [Xin Min](https://openalex.org/A5018974034), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144953.
-    
-No abstract    
-
-    
-
 ## Facile synthesis of NiCo2O4 nanosheets efficient for electrocatalysis of water   
 
 OpenAlex: https://openalex.org/W4401831611    
@@ -534,17 +523,6 @@ No abstract
 
     
 
-## Theoretical Investigation on Enhanced HER Electrocatalytic Activities of SiC Monolayers through Nonmetal Doping and Strain Engineering   
-
-OpenAlex: https://openalex.org/W4401717241    
-Open access: False
-    
-[Bingwen Li](https://openalex.org/A5049213804), [Hongrui Shi](https://openalex.org/A5084710583), [Zeyun Ni](https://openalex.org/A5102587916), [Haifeng Zheng](https://openalex.org/A5050128295), [Kehao Chen](https://openalex.org/A5051379734), [Yuting Yan](https://openalex.org/A5039343841), [Huimin Qi](https://openalex.org/A5008426233), [Xue Yu](https://openalex.org/A5106732831), [Xinfang Wang](https://openalex.org/A5089939997), [Liming Fan](https://openalex.org/A5077242074), CrystEngComm. None(None)] 2024.https://doi.org/10.1039/d4ce00633j.
-    
-Efficient hydrogen evolution reaction (HER) electrocatalysts are crucial for renewable energy storage and conversion.    
-
-    
-
 ## Cu-S Planes in a Metal-Organic Framework for Selective Electrochemical Conversion of CO2 to Formate   
 
 OpenAlex: https://openalex.org/W4401797419    
@@ -553,6 +531,28 @@ Open access: True
 [Khatereh Roohi](https://openalex.org/A5084439148), [Mohammad Soleimani](https://openalex.org/A5102862060), [Nabil Khossossi](https://openalex.org/A5023894442), [Stefano Canossa](https://openalex.org/A5001012453), [A. Kosari](https://openalex.org/A5007501668), [Seyedamirhossein Mohseni Armaki](https://openalex.org/A5106669448), [Majid Ahmadi](https://openalex.org/A5061945130), [Ewout van der Veer](https://openalex.org/A5039124254), [Mahinder Ramdin](https://openalex.org/A5091298778), [Prasaanth Ravi Anusuyadevi](https://openalex.org/A5034762750), [Prasad Gonugunta](https://openalex.org/A5024511684), [J.M.C. Mol](https://openalex.org/A5005758024), [Poulumi Dey](https://openalex.org/A5054711582), [Peyman Taheri](https://openalex.org/A5038962777), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-trn26 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/66c34fdfa4e53c4876db99a9/original/cu-s-planes-in-a-metal-organic-framework-for-selective-electrochemical-conversion-of-co2-to-formate.pdf)).
     
 The electrochemical reduction of CO2 into value-added chemicals is pivotal for advancing toward carbon neutrality and sustainable energy sources. However, achieving high selectivity for specific products remains challenging due to numerous potential reaction pathways. In this work, we present an innovative copper-sulfur planar structure, Cu-S-BDC, within a metal-organic framework (MOF) catalyst, which demonstrates remarkable selectivity towards formate as the sole carbon product. Notably, it achieves a 59% Faradaic efficiency (FE) for formate at -0.4 V vs. the reversible hydrogen electrode (RHE) in a 1 M KOH electrolyte. The reaction mechanism uncovers that the Cu-S catalytic sites within the MOF stabilize the HCOO* intermediate, thereby facilitating selective formate production. Additionally, we elucidate the electronic properties of the MOF, revealing a narrow band gap of 1.203 eV, which enhances the charge transfer within the quasi-2D inorganic building unit structure of the MOF and consequently increases the electrochemical reaction current density. This study highlights the potential of engineering the metal coordination environment within MOFs to enhance both product selectivity and conductivity in electrochemical CO2 reduction.    
+
+    
+
+## Ultrafine ruthenium-based nanoclusters regulated by a three-phase heterogeneous interface exhibiting superior mass activity for alkaline hydrogen evolution   
+
+OpenAlex: https://openalex.org/W4401829933    
+Open access: False
+    
+[Xinyu Zhu](https://openalex.org/A5101532554), [Minghao Fang](https://openalex.org/A5038903476), [Bozhi Yang](https://openalex.org/A5050219680), [Shujie Yang](https://openalex.org/A5101399094), [Jie Li](https://openalex.org/A5100348369), [Yanghong Li](https://openalex.org/A5106550001), [Manjun Zhan](https://openalex.org/A5031361649), [Xin Min](https://openalex.org/A5018974034), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144953.
+    
+No abstract    
+
+    
+
+## Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle   
+
+OpenAlex: https://openalex.org/W4401892778    
+Open access: False
+    
+[James M. Mayer](https://openalex.org/A5037787121), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115725.
+    
+No abstract    
 
     
 
