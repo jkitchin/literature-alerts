@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Aug 2024 01:15:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 01:15:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,36 +46,6 @@
       <author>Jiejie Feng, Liling Wei, Huayi Li, Jianquan Shen</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.167</guid>
-    </item>
-    <item>
-      <title>Uncovering quantum characteristics of incipient evolutions at the photosynthetic oxygen evolving complex</title>
-      <link>https://doi.org/10.1063/5.0220777</link>
-      <description>Pei-Ying Huo, Wei-Zhou Jiang, Rong-Yao Yang, Xiurong Zhang, Applied Physics Letters. 125(8)] 2024. https://openalex.org/W4401726335
-
-                Water oxidation of photosynthesis at the oxygen evolving complex (OEC) is driven by the polarization field induced by the photoelectric hole. By highlighting the role of the polarization field in reshaping the spin and orbit potentials, we reveal in this work the characteristics and underlying mechanism in the relatively simpler OEC evolutions within the states S0&#8211;S2 prior to the water oxidation. The characteristic shifts of the density of states (DOS) of the electron donor Mn atom are observed in the vicinity of the Fermi surface to occur with the spin flips of Mn atoms and the change in the Mn oxidation states during the electron transfer. Notably, the spin flips of Mn atoms point to the resulting spin configuration of the next states. It is found that the electron transfer tends to stabilize the catalyst OEC itself, whereas the proton transfer pushes the evolution forward by preparing a new electron donor, demonstrating the proton-coupled electron transfer. Meanwhile, it shows that the Mn&#8211;O bonds around the candidate Mn atom of the electron donor undergo characteristic changes in the bond lengths during the electron transfer. These concomitant phenomena uncovered in first-principle calculations characterize the essential equilibrium of the OEC between the state evolution and stability that forms the groundwork of the dynamic OEC cycles. In particular, the characteristic undulation of the DOS around the Fermi level occurring at the proton-coupled electron transfer can be used to reveal crucial processes in a wide range of realistic systems.</description>
-      <author>Pei-Ying Huo, Wei-Zhou Jiang, Rong-Yao Yang, Xiurong Zhang</author>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0220777</guid>
-    </item>
-    <item>
-      <title>Elucidating the Synergistic Promotional Mechanism of Water and Oxygen in the Aerobic C&#8211;C Homocoupling Reaction Catalyzed by Visible-Light-Derived Core&#8211;Shell Pd@A-CQDs Nanostructures</title>
-      <link>https://doi.org/10.1021/acsami.4c04739</link>
-      <description>Surendra Kumar Saini, Krishan Kumar, Pratibha Saini, Mukul Sethi, Priyanka Meena, Anshu Dandia, Wolfgang Weigand, Vijay Parewa, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4401728254
-
-                Rational design and precise synthesis of biogenic noble-metal-based catalysts possessing distinctive structure and composition play a crucial role in the chemical industry, enabling sustainable construction of an inclusive range of chemical resources. In this study, we have effectively fabricated Pd@A-CQDs through a straightforward one-pot aqueous protocol assisted by visible light employing renewable biomass-derived amine-rich carbon quantum dots (A-CQDs). The remarkable visible light harnessing capability (bandgap, ca. 2.81 eV), high density (35.7 &#215; 10</description>
-      <author>Surendra Kumar Saini, Krishan Kumar, Pratibha Saini, Mukul Sethi, Priyanka Meena, Anshu Dandia, Wolfgang Weigand, Vijay Parewa</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c04739</guid>
-    </item>
-    <item>
-      <title>Ni-doping Optimized d-Band Center in Bifunctional Fe2O3 Modified by Bamboo-Like NCNTs as Cathode Material for Zn-air Battery</title>
-      <link>https://doi.org/10.1039/d4dt01733a</link>
-      <description>Jing Wang, Songhan Hu, Xinxin Xu, Jin Chen, Dalton Transactions. None(None)] 2024. https://openalex.org/W4401729508
-
-                During the development of Zn-air batteries, designing an affordable, efficient and stable electrocatalyst for both oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) presents a great challenge. Fe</description>
-      <author>Jing Wang, Songhan Hu, Xinxin Xu, Jin Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dt01733a</guid>
     </item>
     <item>
       <title>Optimal Design of a Binder-Free Manganese/Cobalt Bilayer Bifunctional Catalyst for Rechargeable Zinc&#8211;Air Batteries</title>
@@ -558,16 +528,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.296</guid>
     </item>
     <item>
-      <title>Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114489</link>
-      <description>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen, Molecular Catalysis. 567(None)] 2024. https://openalex.org/W4401844774
-
-                No abstract</description>
-      <author>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114489</guid>
-    </item>
-    <item>
       <title>Construction of Surface Ru&lt;sub&gt;oct&lt;/sub&gt;&#9472;O&#9472;Co&lt;sub&gt;oct&lt;/sub&gt; Units With Optimized Co&lt;sub&gt;oct&lt;/sub&gt; Spin States for Enhanced Oxygen Reduction and Evolution</title>
       <link>https://doi.org/10.1002/smll.202405865</link>
       <description>Can&#8208;Wen Yu, Zi&#8208;Qiang Chen, Hongyi Xu, Ting Ouyang, Zhao&#8208;Qing Liu, Small. None(None)] 2024. https://openalex.org/W4401844947
@@ -636,6 +596,16 @@
       <author>Deepak R. Patil, Harish S. Chavan, A. F. Lee, Geon Lee, Deepak R. Patil, Ki&#8208;Young Lee</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4936286</guid>
+    </item>
+    <item>
+      <title>Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114489</link>
+      <description>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen, Molecular Catalysis. 567(None)] 2024. https://openalex.org/W4401844774
+
+                No abstract</description>
+      <author>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114489</guid>
     </item>
     <item>
       <title>Heterointerface engineering of yolk-shell-structured Mn2O3/RuO2 for boosting oxygen electrocatalysis in rechargeable liquid and flexible zinc-air batteries</title>
@@ -858,16 +828,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c01641</guid>
     </item>
     <item>
-      <title>Evolution of key oxygen-sensing genes is associated with hypoxia tolerance in fishes.</title>
-      <link>https://doi.org/10.1093/gbe/evae183</link>
-      <description>Courtney H. Babin, F&#233;lix P. Leiva, Wilco C. E. P. Verberk, B. Rees, PubMed. None(None)] 2024. https://openalex.org/W4401729186
-
-                Low dissolved oxygen (hypoxia) is recognized as a major threat to aquatic ecosystems worldwide. Because oxygen is paramount for the energy metabolism of animals, understanding the functional and genetic drivers of whole-animal hypoxia tolerance is critical to predicting the impacts of aquatic hypoxia. In this study, we investigate the molecular evolution of key genes involved in the detection of and response to hypoxia in ray-finned fishes: the prolyl-hydroxylase domain (PHD) - hypoxia inducible factor (HIF) oxygen sensing system, also known as the EGLN (egg-laying nine) - HIF oxygen sensing system. We searched fish genomes for HIFA and EGLN genes, discovered new paralogs from both gene families, and analyzed protein coding sites under positive selection. The physicochemical properties of these positively selected amino acid sites were summarized using linear discriminants for each gene. We employed Phylogenetic Generalized Least Squares to assess the relationship between these linear discriminants for each HIFA and EGLN and hypoxia tolerance as reflected by the critical oxygen tension (Pcrit) of the corresponding species. Our results demonstrate that Pcrit in ray-finned fishes correlates with the physicochemical variation of positively selected sites in specific HIFA and EGLN genes. For HIF2A, two linear discriminants captured more than 90% of the physicochemical variation of these sites and explained between 20 and 39% of the variation in Pcrit. Thus, variation in HIF2A among fishes may contribute to their capacity to cope with aquatic hypoxia, similar to its proposed role in conferring tolerance to high altitude hypoxia in certain lineages of terrestrial vertebrates.</description>
-      <author>Courtney H. Babin, F&#233;lix P. Leiva, Wilco C. E. P. Verberk, B. Rees</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/gbe/evae183</guid>
-    </item>
-    <item>
       <title>Revealing the role of oxygen on the defect evolution of electron-irradiated tungsten: A combined experimental and simulation study</title>
       <link>https://doi.org/10.1016/j.jnucmat.2024.155353</link>
       <description>Zhiwei Hu, Qigui Yang, Fran&#231;ois Jomard, C&#233;cile Genevois, C&#233;cile Genevois, Joby Joseph, P&#228;r Olsson, Thomas Jourdan, M.F. Barthe, Journal of Nuclear Materials. None(None)] 2024. https://openalex.org/W4401817560
@@ -908,16 +868,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c03071</guid>
     </item>
     <item>
-      <title> growth of CaMoO</title>
-      <link>https://doi.org/10.1039/d4ra03196b</link>
-      <description>Nikki Garg, Ashok K. Ganguli, PubMed. 14(36)] 2024. https://openalex.org/W4401729102
-
-                Electrochemical water splitting stands as a promising avenue for sustainable hydrogen production, with the oxygen evolution reaction (OER) playing a pivotal role. Efficient and durable electrocatalysts are crucial for expediting the sluggish kinetics of OER. In this work, we investigate the synthesis and performance of a novel CaMoO</description>
-      <author>Nikki Garg, Ashok K. Ganguli</author>
-      <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra03196b</guid>
-    </item>
-    <item>
       <title>Designing Salen&#8208;Based Porous Organic Polymers for Enhanced Electrolytic Water Splitting into Oxygen</title>
       <link>https://doi.org/10.1002/adfm.202408255</link>
       <description>Haridas Pal, Arun Karmakar, Arnab Sadhukhan, Kalipada Koner, Shayan Karak, Rahul Kumar Sharma, Manasi Ghosh, Krishna Kishor Dey, Biswarup Pathak, Subrata Kundu, Rahul Banerjee, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401738371
@@ -926,26 +876,6 @@
       <author>Haridas Pal, Arun Karmakar, Arnab Sadhukhan, Kalipada Koner, Shayan Karak, Rahul Kumar Sharma, Manasi Ghosh, Krishna Kishor Dey, Biswarup Pathak, Subrata Kundu, Rahul Banerjee</author>
       <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408255</guid>
-    </item>
-    <item>
-      <title>Chemical Epitaxy of Iridium Oxide on Tin Oxide Enhances Stability of Supported OER Catalyst</title>
-      <link>https://doi.org/10.1002/smll.202404118</link>
-      <description>&#1052;. &#1042;. &#1050;&#1086;&#1089;&#1090;&#1100;, Matthias Kornherr, Peter M. Zehetmaier, Hannah Illner, D.S. Jeon, Hubert A. Gasteiger, Markus D&#246;blinger, Dina Fattakhova&#8208;Rohlfing, Thomas Bein, Small. None(None)] 2024. https://openalex.org/W4401728758
-
-                Significantly reducing the iridium content in oxygen evolution reaction (OER) catalysts while maintaining high electrocatalytic activity and stability is a key priority in the development of large-scale proton exchange membrane (PEM) electrolyzers. In practical catalysts, this is usually achieved by depositing thin layers of iridium oxide on a dimensionally stable metal oxide support material that reduces the volumetric packing density of iridium in the electrode assembly. By comparing two support materials with different structure types, it is shown that the chemical nature of the metal oxide support can have a strong influence on the crystallization of the iridium oxide phase and the direction of crystal growth. Epitaxial growth of crystalline IrO</description>
-      <author>&#1052;. &#1042;. &#1050;&#1086;&#1089;&#1090;&#1100;, Matthias Kornherr, Peter M. Zehetmaier, Hannah Illner, D.S. Jeon, Hubert A. Gasteiger, Markus D&#246;blinger, Dina Fattakhova&#8208;Rohlfing, Thomas Bein</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404118</guid>
-    </item>
-    <item>
-      <title>Celebrating Ten Years of Covalent Organic Frameworks for Solar Energy Conversion: Past, Present and Future</title>
-      <link>https://doi.org/10.1002/ange.202413096</link>
-      <description>Andr&#233;s Rodr&#237;guez&#8208;Camargo, Kenichi Endo, Bettina V. Lotsch, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401779188
-
-                Accelerated anthropogenic emission of greenhouse gases due to increasing energy demands has created a negative impact on our planet. Therefore, replacement of fossil by renewable energy resources has become of paramount interest. It is within this setting that organic photocatalysts have emerged as a new generation of earth&#8208;abundant catalysts for the conversion of solar radiation into chemical energy. In 2014, the first example of a covalent organic framework (COF) photocatalyst for the hydrogen evolution reaction has been reported by our group, which has not only marked the beginning of COF photocatalysis for solar fuel production, but also helped to accelerate research into &#8220;soft photocatalysis&#8221;. In the last decade, significant progress has been made towards developing COFs as robust, molecularly precise platforms emulating artificial photosynthesis. This mini&#8208;review commemorates the 10th year anniversary of COF photocatalysis and gives a brief historical overview of the milestones in the field. We review milestones in the development of COFs for solar fuel production and related photocatalytic transformations, including hydrogen evolution, oxygen evolution, overall water splitting, CO2 reduction, N2 fixation, oxygen reduction and alcohol oxidation. We discuss lessons learnt for the design of structure&#8208;property&#8208;function relationships in COF photocatalysts, and future perspectives and challenges for the field.</description>
-      <author>Andr&#233;s Rodr&#237;guez&#8208;Camargo, Kenichi Endo, Bettina V. Lotsch</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202413096</guid>
     </item>
     <item>
       <title>Celebrating Ten Years of Covalent Organic Frameworks for Solar Energy Conversion: Past, Present and Future</title>
@@ -958,6 +888,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202413096</guid>
     </item>
     <item>
+      <title>Celebrating Ten Years of Covalent Organic Frameworks for Solar Energy Conversion: Past, Present and Future</title>
+      <link>https://doi.org/10.1002/ange.202413096</link>
+      <description>Andr&#233;s Rodr&#237;guez&#8208;Camargo, Kenichi Endo, Bettina V. Lotsch, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4401779188
+
+                Accelerated anthropogenic emission of greenhouse gases due to increasing energy demands has created a negative impact on our planet. Therefore, replacement of fossil by renewable energy resources has become of paramount interest. It is within this setting that organic photocatalysts have emerged as a new generation of earth&#8208;abundant catalysts for the conversion of solar radiation into chemical energy. In 2014, the first example of a covalent organic framework (COF) photocatalyst for the hydrogen evolution reaction has been reported by our group, which has not only marked the beginning of COF photocatalysis for solar fuel production, but also helped to accelerate research into &#8220;soft photocatalysis&#8221;. In the last decade, significant progress has been made towards developing COFs as robust, molecularly precise platforms emulating artificial photosynthesis. This mini&#8208;review commemorates the 10th year anniversary of COF photocatalysis and gives a brief historical overview of the milestones in the field. We review milestones in the development of COFs for solar fuel production and related photocatalytic transformations, including hydrogen evolution, oxygen evolution, overall water splitting, CO2 reduction, N2 fixation, oxygen reduction and alcohol oxidation. We discuss lessons learnt for the design of structure&#8208;property&#8208;function relationships in COF photocatalysts, and future perspectives and challenges for the field.</description>
+      <author>Andr&#233;s Rodr&#237;guez&#8208;Camargo, Kenichi Endo, Bettina V. Lotsch</author>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202413096</guid>
+    </item>
+    <item>
       <title>Nickel Hydroxysulfide Electrocatalyst Promotes Urea Oxidation for Energy&#8208;Saving Hydrogen Production</title>
       <link>https://doi.org/10.1002/cctc.202401235</link>
       <description>Hui Li, Mengyuan Li, Wen You, Kun Xiang, Mingjiang Xie, ChemCatChem. None(None)] 2024. https://openalex.org/W4401750652
@@ -966,16 +906,6 @@
       <author>Hui Li, Mengyuan Li, Wen You, Kun Xiang, Mingjiang Xie</author>
       <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401235</guid>
-    </item>
-    <item>
-      <title>Three-Dimensional Metallic Surface Micropatterning through Tailored Photolithography-Transfer-Plating.</title>
-      <link>https://doi.org/10.1021/acsami.4c10550</link>
-      <description>Liyang Chen, J. Schmid, Anetta P&#322;atek-Mielczarek, T.R. Armstrong, Thomas M. Schutzius, PubMed. None(None)] 2024. https://openalex.org/W4401729499
-
-                Precise micropatterning on three-dimensional (3D) surfaces is desired for a variety of applications, from microelectronics to metamaterials, which can be realized by transfer printing techniques. However, a nontrivial deficiency of this approach is that the transferred microstructures are adsorbed on the target surface with weak adhesion, limiting the applications to external force-free conditions. We propose a scalable "photolithography-transfer-plating" method to pattern stable and durable microstructures on 3D metallic surfaces with precise dimension and location control of the micropatterns. Surface patterning on metallic parts with different metals and isotropic and anisotropic curvatures is showcased. This method can also fabricate hierarchical structures with nanoscale vertical and microscale horizontal dimensions. The plated patterns are stable enough to mold soft materials, and the structure durability is validated by 24 h thermofluidic tests. We demonstrate micropatterned nickel electrodes for oxygen evolution reaction acceleration in hydrogen production, showing the potential of micropatterned 3D metallic surfaces for energy applications.</description>
-      <author>Liyang Chen, J. Schmid, Anetta P&#322;atek-Mielczarek, T.R. Armstrong, Thomas M. Schutzius</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c10550</guid>
     </item>
     <item>
       <title>Understanding the Role of Spin State in Cobalt Oxyhydroxides for Water Oxidation</title>
@@ -1118,16 +1048,6 @@
       <guid isPermaLink="true">https://doi.org/10.3847/psj/ad65d4</guid>
     </item>
     <item>
-      <title>Hypoxia-sonic hedgehog axis as a driver of primitive hematopoiesis development and evolution in cavefish</title>
-      <link>https://doi.org/10.1016/j.ydbio.2024.08.008</link>
-      <description>Corine M. van der Weele, Katrina C. Hospes, Kenneth E. Rowe, William R. Jeffery, Developmental Biology. 516(None)] 2024. https://openalex.org/W4401729669
-
-                The teleost Astyanax mexicanus consists of surface dwelling (surface fish) and cave dwelling (cavefish) forms. Cavefish have evolved in subterranean habitats characterized by reduced oxygen levels (hypoxia) and exhibit a subset of phenotypic traits controlled by increased Sonic hedgehog (Shh) signaling along the embryonic midline. The enhancement of primitive hematopoietic domains, which are formed bilaterally in the anterior and posterior lateral plate mesoderm, are responsible for the development of more larval erythrocytes in cavefish relative to surface fish. In this study, we determine the role of hypoxia and Shh signaling in the development and evolution of primitive hematopoiesis in cavefish. We show that hypoxia treatment during embryogenesis increases primitive hematopoiesis and erythrocyte development in surface fish. We also demonstrate that upregulation of Shh midline signaling by the Smoothened agonist SAG increases primitive hematopoiesis and erythrocyte development in surface fish, whereas Shh downregulation via treatment with the Smoothened inhibitor cyclopamine decreases these traits in cavefish. Together these results suggest that hematopoietic enhancement is regulated by hypoxia and Shh signaling. Lastly, we demonstrate that hypoxia enhances expression of Shh signaling along the midline of surface fish embryos. We conclude that hypoxia-mediated Shh plasticity may be a driving force for the adaptive evolution of primitive hematopoiesis and erythrocyte development in cavefish.</description>
-      <author>Corine M. van der Weele, Katrina C. Hospes, Kenneth E. Rowe, William R. Jeffery</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ydbio.2024.08.008</guid>
-    </item>
-    <item>
       <title>2D TMDC aging: a case study of monolayer WS2 and mitigation strategies</title>
       <link>https://doi.org/10.1088/1361-6528/ad72fb</link>
       <description>Pieter-Jan Wyndaele, Jean&#8208;Fran&#231;ois de Marneffe, Robbe Slaets, Benjamin Groven, Alexis Franquet, Philipp Br&#252;ner, Thomas Grehl, Stefan De Gendt, Nanotechnology. None(None)] 2024. https://openalex.org/W4401797782
@@ -1136,16 +1056,6 @@
       <author>Pieter-Jan Wyndaele, Jean&#8208;Fran&#231;ois de Marneffe, Robbe Slaets, Benjamin Groven, Alexis Franquet, Philipp Br&#252;ner, Thomas Grehl, Stefan De Gendt</author>
       <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/1361-6528/ad72fb</guid>
-    </item>
-    <item>
-      <title>Reconstructing Early Microbial Life</title>
-      <link>https://doi.org/10.1146/annurev-micro-041522-103400</link>
-      <description>Bet&#252;l Ka&#231;ar, Annual Review of Microbiology. None(None)] 2024. https://openalex.org/W4401724623
-
-                For more than 3.5 billion years, life experienced dramatic environmental extremes on Earth. These include shifts from oxygen-less to overoxygenated atmospheres and cycling between hothouse conditions and global glaciations. Meanwhile, an ecological revolution took place. Earth evolved from one dominated by microbial life to one containing the plants and animals that are most familiar today. Many key cellular features evolved early in the history of life, collectively defining the nature of our biosphere and underpinning human survival. Recent advances in molecular and evolutionary biology have profoundly deepened our understanding of the origin and evolution of microbes across deep time. However, the incorporation of molecular genetics, population biology, and evolutionary biology approaches into the study of Precambrian biota remains a significant challenge. This review synthesizes our current knowledge of early microbial life with an emphasis on ancient metabolisms. It also outlines the foundations of an emerging interdisciplinary area that integrates microbiology, paleobiology, and evolutionary synthetic biology to reconstruct ancient biological innovations.</description>
-      <author>Bet&#252;l Ka&#231;ar</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1146/annurev-micro-041522-103400</guid>
     </item>
     <item>
       <title>PHOTOCATALYTIC WATER SPLITTING USING THE SEMICONDUCTOR HETEROJUNCTION BETWEEN MoO3-X/CDS</title>
@@ -1218,16 +1128,6 @@
       <guid isPermaLink="true">https://doi.org/10.1111/tpj.16990</guid>
     </item>
     <item>
-      <title>Determining the Best Noninvasive Test for Peripheral Arterial Disease Diagnosis to Predict Diabetic Foot Ulcer Healing in Patients Following Endovascular Revascularization</title>
-      <link>https://doi.org/10.3390/healthcare12161664</link>
-      <description>Francisco Javier &#193;lvaro&#8208;Afonso, Yolanda Garc&#237;a&#8208;&#193;lvarez, Esther Garc&#237;a&#8208;Morales, Sebasti&#225;n Flores&#8208;Escobar, L. de Benito-Fern&#225;ndez, J.M. Alfayate-Garc&#237;a, Juan Pedro S&#225;nchez&#8208;R&#237;os, E. Puras-Mallagray, Esteban Javier Malo-Benages, Margarita Ram&#237;rez-Ortega, Sandra Redondo L&#243;pez, Almudena Cecilia-Matilla, Jos&#233; Luis L&#225;zaro&#8208;Mart&#237;nez, Healthcare. 12(16)] 2024. https://openalex.org/W4401834237
-
-                Background/Objectives: To analyze the best noninvasive tests prognosis marker in patients with diabetic foot ulcer (DFU) who underwent endovascular revascularization based on clinical outcomes, such as healing rate, time to heal, and free amputation survival after at least a six-month follow-up. Methods: A multicentric prospective observational study was performed with 28 participants with ischemic or neuroischemic DFU who came to the participant centers and underwent endovascular revascularization between January 2022 and March 2023. Toe systolic pressure (TP), ankle systolic pressure (AP), the ankle brachial pressure index (ABPI), the toe brachial pressure index (TBPI), transcutaneous pressure of oxygen (TcPO2), and skin perfusion pressure (SPP) were evaluated using PeriFlux 6000 System, Perimed, Sweden, before (Visit 0) and four weeks after revascularization (Visit 1). The primary clinical outcome was an evaluation of the clinical evolution of noninvasive tests comparing Visit 0 and Visit 1, estimating the sensitivity for predicting wound healing of noninvasive tests at six months following initial recruitment. Results: After six months, 71.43% (n = 20) of DFU healed, four patients (14.3%) received major amputations, and one (3.5%) died. The two tests that best predicted wound healing after revascularization according to the ROC curve were TcPO2 and TP with sensitivities of 0.89 and 0.70 for the cut-off points of 24 mmHg and 46 mmHg, respectively. Conclusions: TcPO2 and TP were the two tests that best predicted wound healing in patients who underwent endovascular revascularization. Clinicians should consider the importance of the evaluation of microcirculation in the healing prognosis of patients with diabetic foot ulcers.</description>
-      <author>Francisco Javier &#193;lvaro&#8208;Afonso, Yolanda Garc&#237;a&#8208;&#193;lvarez, Esther Garc&#237;a&#8208;Morales, Sebasti&#225;n Flores&#8208;Escobar, L. de Benito-Fern&#225;ndez, J.M. Alfayate-Garc&#237;a, Juan Pedro S&#225;nchez&#8208;R&#237;os, E. Puras-Mallagray, Esteban Javier Malo-Benages, Margarita Ram&#237;rez-Ortega, Sandra Redondo L&#243;pez, Almudena Cecilia-Matilla, Jos&#233; Luis L&#225;zaro&#8208;Mart&#237;nez</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/healthcare12161664</guid>
-    </item>
-    <item>
       <title>The Impact of Antioxidant-Ciprofloxacin Combinations on the Evolution of Antibiotic Resistance in Pseudomonas aeruginosa Biofilms</title>
       <link>https://doi.org/10.21203/rs.3.rs-4756544/v1</link>
       <description>Oana Ciofu, Doaa Higazy, Marwa Ahmed, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4401881589
@@ -1236,6 +1136,16 @@
       <author>Oana Ciofu, Doaa Higazy, Marwa Ahmed</author>
       <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4756544/v1</guid>
+    </item>
+    <item>
+      <title>Determining the Best Noninvasive Test for Peripheral Arterial Disease Diagnosis to Predict Diabetic Foot Ulcer Healing in Patients Following Endovascular Revascularization</title>
+      <link>https://doi.org/10.3390/healthcare12161664</link>
+      <description>Francisco Javier &#193;lvaro&#8208;Afonso, Yolanda Garc&#237;a&#8208;&#193;lvarez, Esther Garc&#237;a&#8208;Morales, Sebasti&#225;n Flores&#8208;Escobar, L. de Benito-Fern&#225;ndez, J.M. Alfayate-Garc&#237;a, Juan Pedro S&#225;nchez&#8208;R&#237;os, E. Puras-Mallagray, Esteban Javier Malo-Benages, Margarita Ram&#237;rez-Ortega, Sandra Redondo L&#243;pez, Almudena Cecilia-Matilla, Jos&#233; Luis L&#225;zaro&#8208;Mart&#237;nez, Healthcare. 12(16)] 2024. https://openalex.org/W4401834237
+
+                Background/Objectives: To analyze the best noninvasive tests prognosis marker in patients with diabetic foot ulcer (DFU) who underwent endovascular revascularization based on clinical outcomes, such as healing rate, time to heal, and free amputation survival after at least a six-month follow-up. Methods: A multicentric prospective observational study was performed with 28 participants with ischemic or neuroischemic DFU who came to the participant centers and underwent endovascular revascularization between January 2022 and March 2023. Toe systolic pressure (TP), ankle systolic pressure (AP), the ankle brachial pressure index (ABPI), the toe brachial pressure index (TBPI), transcutaneous pressure of oxygen (TcPO2), and skin perfusion pressure (SPP) were evaluated using PeriFlux 6000 System, Perimed, Sweden, before (Visit 0) and four weeks after revascularization (Visit 1). The primary clinical outcome was an evaluation of the clinical evolution of noninvasive tests comparing Visit 0 and Visit 1, estimating the sensitivity for predicting wound healing of noninvasive tests at six months following initial recruitment. Results: After six months, 71.43% (n = 20) of DFU healed, four patients (14.3%) received major amputations, and one (3.5%) died. The two tests that best predicted wound healing after revascularization according to the ROC curve were TcPO2 and TP with sensitivities of 0.89 and 0.70 for the cut-off points of 24 mmHg and 46 mmHg, respectively. Conclusions: TcPO2 and TP were the two tests that best predicted wound healing in patients who underwent endovascular revascularization. Clinicians should consider the importance of the evaluation of microcirculation in the healing prognosis of patients with diabetic foot ulcers.</description>
+      <author>Francisco Javier &#193;lvaro&#8208;Afonso, Yolanda Garc&#237;a&#8208;&#193;lvarez, Esther Garc&#237;a&#8208;Morales, Sebasti&#225;n Flores&#8208;Escobar, L. de Benito-Fern&#225;ndez, J.M. Alfayate-Garc&#237;a, Juan Pedro S&#225;nchez&#8208;R&#237;os, E. Puras-Mallagray, Esteban Javier Malo-Benages, Margarita Ram&#237;rez-Ortega, Sandra Redondo L&#243;pez, Almudena Cecilia-Matilla, Jos&#233; Luis L&#225;zaro&#8208;Mart&#237;nez</author>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/healthcare12161664</guid>
     </item>
     <item>
       <title>On the Solvent-mediated Stabilization of Phenol-formaldehyde Resole Resin- A Revisit</title>

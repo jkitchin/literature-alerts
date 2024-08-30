@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Thu Aug 29 01:15:15 2024
+Created on Fri Aug 30 01:15:26 2024
 
-Found 92 results from 2024-08-22 to 2024-08-29
+Found 86 results from 2024-08-23 to 2024-08-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -73,6 +73,17 @@ No abstract
 
     
 
+## Unveiling key impact parameters and mechanistic insights towards activated biochar performance for carbon dioxide reduction   
+
+OpenAlex: https://openalex.org/W4401859355    
+Open access: False
+    
+[Wen Qian Chen](https://openalex.org/A5002591582), [Foo Jit Cyrus Loong](https://openalex.org/A5106712106), [Wen‐Da Oh](https://openalex.org/A5011638228), [Wei Ping Chan](https://openalex.org/A5001788280), [Li Ya Ge](https://openalex.org/A5011993184), [Grzegorz Lisak](https://openalex.org/A5047887050), Bioresource Technology. None(None)] 2024.https://doi.org/10.1016/j.biortech.2024.131355.
+    
+Chemically activated biochar is effective in supercapacitors and water splitting, but low conductivity hinders its application as a carbon support in carbon dioxide reduction reaction (CO    
+
+    
+
 ## Health equity and synergistic abatement strategies of carbon dioxide and air pollutant emissions reduction in China's eastern coastal area   
 
 OpenAlex: https://openalex.org/W4401744669    
@@ -84,17 +95,6 @@ Abstract Quantifying regional health disparities linked to air pollution is esse
 
     
 
-## Unveiling key impact parameters and mechanistic insights towards activated biochar performance for carbon dioxide reduction   
-
-OpenAlex: https://openalex.org/W4401859355    
-Open access: False
-    
-[Wen Qian Chen](https://openalex.org/A5002591582), [Foo Jit Cyrus Loong](https://openalex.org/A5106712106), [Wen‐Da Oh](https://openalex.org/A5011638228), [Wei Ping Chan](https://openalex.org/A5001788280), [Li Ya Ge](https://openalex.org/A5011993184), [Grzegorz Lisak](https://openalex.org/A5047887050), Bioresource Technology. None(None)] 2024.https://doi.org/10.1016/j.biortech.2024.131355.
-    
-No abstract    
-
-    
-
 ## Insights into Bimetallic Ag2Cu2O3 Precatalyst for Electrochemical CO2 Reduction to Ethanol   
 
 OpenAlex: https://openalex.org/W4401746126    
@@ -103,17 +103,6 @@ Open access: False
 [Li Wang](https://openalex.org/A5100322864), [Yuanwei Liu](https://openalex.org/A5076863392), [Xin Yan Li](https://openalex.org/A5085558988), [Yi Xu](https://openalex.org/A5012899479), [Xiaolei Xu](https://openalex.org/A5020365731), [Jing He](https://openalex.org/A5049641499), [Qiang Niu](https://openalex.org/A5072202821), [Pengfei Liu](https://openalex.org/A5100355012), [Hua Gui Yang](https://openalex.org/A5100770981), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202400992.
     
 The electrochemical CO2 reduction reaction (CO2RR) into valuable chemicals represents an effective approach for realizing carbon neutralization goals. Copper oxide‐derived catalysts are particularly promising due to their tunable electronic structures. In this study, we focused on investigating the Ag2Cu2O3 model catalyst and a mixture of CuO and Ag2O with an identical metal molar ratio (denoted an M‐CuAgO). Electrochemical CO2RR tests revealed that Ag2Cu2O3 exhibited selectivity towards ethanol, while M‐CuAgO showed no selectivity towards multi‐carbon products. Characterizations of the post‐reaction materials showed differences in the specific crystal structures of the two catalysts. Further X‐ray photoelectron spectroscopy (XPS) analysis demonstrated that the Ag2Cu2O3 structure, after the reaction, facilitated the transfer of electrons from Cu to Ag, thereby promoting the formation of multi‐carbon products. This work underscores the significance of structural design in precatalysts and opens up new avenues for the design of high‐performance catalysts.    
-
-    
-
-## Addition of nitrous oxide and oxygen to carbon dioxide pneumoperitoneum during laparoscopic surgery for pain reduction: A double‐blinded randomized controlled trial   
-
-OpenAlex: https://openalex.org/W4401729113    
-Open access: False
-    
-[Jasper Verguts](https://openalex.org/A5009252288), [Eline Soors](https://openalex.org/A5106625858), [Ina Callebaut](https://openalex.org/A5038470846), [Stefan Evers](https://openalex.org/A5084565202), [Jeroen Vandenbrande](https://openalex.org/A5008672382), [Angelique Ceulemans](https://openalex.org/A5001368639), [W. Smeets](https://openalex.org/A5023135883), [Layth Al Tmimi](https://openalex.org/A5067387152), [Björn Stessel](https://openalex.org/A5006132957), BJOG An International Journal of Obstetrics & Gynaecology. None(None)] 2024.https://doi.org/10.1111/1471-0528.17939.
-    
-To examine if peritoneal conditioning with an altered insufflation gas mixture is associated with reduced postoperative pain intensity compared to the standard insufflation gas (i.e., 100% CO    
 
     
 
@@ -235,17 +224,6 @@ Open access: True
 [Yiying Zhou](https://openalex.org/A5008204312), [Jinfa Cai](https://openalex.org/A5086458240), [Yuming Sun](https://openalex.org/A5103363691), [Shuhan Jia](https://openalex.org/A5090614452), [Zhonghuan Liu](https://openalex.org/A5104324143), [Xu Tang](https://openalex.org/A5100385897), [Bo Hu](https://openalex.org/A5083412798), [Qian Zhang](https://openalex.org/A5101742243), [Yan Yan](https://openalex.org/A5024670135), [Zhi Zhu](https://openalex.org/A5102776020), Catalysts. 14(8)] 2024.https://doi.org/10.3390/catal14080546.
     
 In this work, the successful synthesis of a Cu@g-C3N4/CeO2-like Z-scheme heterojunction through hydrothermal and photo-deposition methods represents high CO2 reduction activity with remarkable CO selectivity, as evidenced by the impressive CO yield of 33.8 μmol/g for Cu@g-C3N4/CeO2, which is over 10 times higher than that of g-C3N4 and CeO2 individually. The characterization and control experimental results indicate that the formation of heterojunctions and the introduction of Cu sites promote charge separation and the transfer of hot electrons, as well as the photothermal effect, which are the essential reasons for the improved CO2 reduction activity. Remarkably, Cu@g-C3N4/CeO2 still exhibits about 92% performance even after multiple cycles. In situ FTIR was utilized to confirm the production of COOH* at 1472 cm−1 and to elucidate the mechanism behind the high selectivity for CO production. The study’s investigation into the wide-ranging applicability of the Cu@g-C3N4/CeO2-like Z-scheme heterojunction catalysts is noteworthy, and the exploration of potential reaction mechanisms for CO2 reduction adds valuable insights to the field of catalysis.    
-
-    
-
-## How local electric field regulates C–C coupling at a single nanocavity in electrocatalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4401728353    
-Open access: True
-    
-[Ruixin Yang](https://openalex.org/A5101079403), [Yanming Cai](https://openalex.org/A5058402695), [Yongbing Qi](https://openalex.org/A5009096854), [Zhuodong Tang](https://openalex.org/A5070919642), [Jun‐Jie Zhu](https://openalex.org/A5059078547), [Jinxiang Li](https://openalex.org/A5101552511), [Wenlei Zhu](https://openalex.org/A5048251870), [Zixuan Chen](https://openalex.org/A5008996538), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-51397-4.
-    
-C-C coupling is of utmost importance in the electrocatalytic reduction of CO    
 
     
 
@@ -447,28 +425,6 @@ Given the great significance of defect and Cu compounds for the reduction of CO2
 
     
 
-## Sustainable negative emissions in Europe: Evaluating scenarios to meet carbon neutrality by 2050   
-
-OpenAlex: https://openalex.org/W4401719592    
-Open access: True
-    
-[Johanna Markkanen](https://openalex.org/A5044312406), [Kati Koponen](https://openalex.org/A5091330647), [Antti Lehtilä](https://openalex.org/A5082490830), Environmental Research Letters. None(None)] 2024.https://doi.org/10.1088/1748-9326/ad71e1.
-    
-Abstract With the Pan-European TIMES-VTT model, we studied pathways for carbon neutrality by 2050 for 31 European countries by modelling a large portfolio of varius terrestial and technological carbon dioxide removal (CDR) strategies. Negative emission technologies and practices (NETPs) such as af-/reforestation, soil carbon sequestration, bioenergy with carbon capture and storage, direct air capture and storage, biochar, and enhanced weathering, were considered. Three different storylines were created to describe the role for NETPs in varying future developments. The scenario storylines illustrated potential opportunities and constraints for a large scale NETP implementation focusing on 1) optimistic technology development, 2) strict protection of planetary boundaries, and 3) increased self-sufficiency due to geopolitical risks with policy fragmentation. The results show that the demand for NETPs could be in a gigaton scale to reach carbon neutrality in Europe by 2050. As different countries have different opportunities to implement NETPs, none of the NETP options should be excluded from mitigation portfolios at this stage. The results also indicate the potential of NETPs in providing cost-effective solutions for achieving the climate targets. On the other hand, stricter greenhouse gas emission reduction polices are needed to avoid over-reliance on CDR.&#xD;    
-
-    
-
-## Octanuclear Zinc Clusters in Microporous Organic Polymers: Network‐Enhanced Reductive CO2 Fixation to Formamides at Room Temperature   
-
-OpenAlex: https://openalex.org/W4401726674    
-Open access: False
-    
-[June Young Jang](https://openalex.org/A5100977595), [Gang Min Lee](https://openalex.org/A5074508057), [Yoon Kee Kim](https://openalex.org/A5008331641), [Sang Moon Lee](https://openalex.org/A5101420260), [Hae‐Jin Kim](https://openalex.org/A5103147513), [Ga‐Young Lee](https://openalex.org/A5100733254), [Kyoung Chul Ko](https://openalex.org/A5005966850), [Seung Uk Son](https://openalex.org/A5022506164), Small. None(None)] 2024.https://doi.org/10.1002/smll.202405098.
-    
-Abstract A building block containing eight zincs and eight iodo groups (8 Zn) is obtained by the Zn complexation of a salen ligand bearing two additional hydroxy groups. Through the Sonogashira–Hagihara coupling of 8 Zn with 1,3,5,7‐tetra(4‐ethynylphenyl) adamantane, microporous organic polymers bearing octanuclear zinc clusters (MOP‐8 Zn) are prepared, exhibiting a high surface area of 562 m 2 g −1 , microporosity, and a particulate morphology with an average diameter of 249 nm. The MOP‐8 Zn exhibits significantly enhanced catalytic performance, compared to molecular counterparts, in the reductive carbon dioxide fixation to formamides, possibly due to the cooperative adsorption and confinement effect of networks on substrates.    
-
-    
-
 ## Borohydride Compounds Catalyze the Selective 4e– Reduction of CO2 with 9-BBN   
 
 OpenAlex: https://openalex.org/W4401733413    
@@ -601,6 +557,17 @@ CO2-enhanced oil recovery (CO2-EOR) is a crucial method for CO2 utilization and 
 
     
 
+## Investigating the Dynamic Change and Driving Force of Vegetation Carbon Sink in Taihang Mountain, China   
+
+OpenAlex: https://openalex.org/W4401893496    
+Open access: True
+    
+[Qiushi Qu](https://openalex.org/A5101858804), [Jian Sun](https://openalex.org/A5062319704), [Anguo Chen](https://openalex.org/A5043760151), [Chiwei Xiao](https://openalex.org/A5054380334), Land. 13(9)] 2024.https://doi.org/10.3390/land13091348 ([pdf](https://www.mdpi.com/2073-445X/13/9/1348/pdf?version=1724502657)).
+    
+Vegetation plays an important role in absorbing carbon dioxide and accelerating the achievement of carbon neutrality. As the ecological barrier of North China, the Taihang Mountains are pivotal to the ecological construction project of China. Nevertheless, the dynamic development of the vegetation carbon sink in the region and the impact factors on the sink have not been systematically evaluated. This study employed a comprehensive approach, utilising remote sensing technology and meteorological and topographic data, in conjunction with the net ecosystem productivity (NEP) estimation model to reveal the characteristics of vegetation carbon sinks in the Taihang Mountain, and then revealed the dynamics evolution of the NEP and the inter-annual trend by using Theil–Sen Median slope estimation, the Mann–Kendall test, and the coefficient of dissociation and analysed the driving roles of the influencing factors by using the parameter optimal geographic detector. Our findings suggest that the NEP in the Taihang Mountain area has a clear growth trend in time, the average value of NEP in the Taihang Mountain area is 289 gC-m−2-a−1 from 2000 to 2022, and the spatial distribution shows the characteristics of high in the northeast and low in the middle and west, with a gradual increase from the northeast to the southwest; the areas with high fluctuation of NEP are mainly distributed in the areas around some cities that are susceptible to the interference of natural or anthropogenic factors. The vegetation carbon sinks in the Taihang Mountains are influenced by a variety of natural factors, among which the explanatory power of each natural factor is as follows: DEM (0.174) > temperature (0.148) > precipitation (0.026) > slope (0.017) > slope direction (0.003). The natural factor DEM had the strongest explanatory power for NEP changes, and the two-by-two effects of the natural factors on vegetation carbon sinks were all significantly stronger than the effects of a single factor, in which the interaction between DEM and precipitation had the strongest explanatory power; distinguishing from climate change factors, the contribution of anthropogenic activities to NEP changes in more than 90% of the area of the Taihang Mountainous Region was more than 60%, and the driving force of anthropogenic factors on NEP changes in the Taihang Mountainous Region was significantly stronger than that of natural climate change. The contribution of anthropogenic factors to NEP changes in the Taihang Mountains was significantly stronger than that of natural climate change. The results of this study can not only provide a reference for carbon reduction and sink increase and ecological restoration projects in the Taihang Mountains but also benefit the research paradigm of vegetation carbon sequestration in other regions.    
+
+    
+
 ## The Freshwater Cyanobacterium Synechococcus elongatus PCC 7942 Does Not Require an Active External Carbonic Anhydrase   
 
 OpenAlex: https://openalex.org/W4401765935    
@@ -623,17 +590,6 @@ Abstract Catalytic reactions mainly depend on the adsorption properties of react
 
     
 
-## Low Pressure Heliox-based Rebreather System to Reduce Work of Breathing and Conserve Gas   
-
-OpenAlex: https://openalex.org/W4401908687    
-Open access: False
-    
-[Sairam Parthasarathy](https://openalex.org/A5020095687), [Christopher J. Morton](https://openalex.org/A5046506057), Respiratory Care. None(None)] 2024.https://doi.org/10.4187/respcare.12184.
-    
-Background: To test the ability of a low-pressure, low-flow, Heliox-based rebreathing system to reduce work of breathing and conserve gas while preserving CO2 concentration, temperature, and humidity at physiological levels in a bench study. Methods: We performed a bench study of a novel low-pressure, low-flow, noninvasive Heliox rebreathing system with CO2 scrubber that was connected to an artificial lung simulator with careful monitoring of flow, pressure, work of breathing, oxygen (O2), carbon-dioxide (CO2), temperature, and humidity levels. Multiple runs of breathing were performed while manipulating levels of resistance (5 – 30 cm H2O/L/sec), gas mixtures (room air, 79% Helium 21% O2, and 70% Helium and 30% O2), and leak levels (ultra-low, low, and high). Results: We found significant reductions in work of breathing (up to 64%) while conserving gas with estimates of up to 54-fold reduction in medical gas wastage (P<0.001). Specifically, at resistances of 5, 10, 20, and 30 cm H2O/L/sec we demonstrated 64%, 57%, 36%, and 7% reduction in work of breathing (P<0.0001). Gas wastage was reduced by 10- to 54-fold while the end-tidal CO2 concentration, humidity, and temperature were maintained by the device at physiological levels. Conclusions: In a bench-test, a low-pressure, low-flow, noninvasive Heliox rebreathing system with CO2 scrubber reduced work of breathing and conserved gas while preserving CO2 concentration, temperature, and humidity at physiological levels. Future studies in human subjects need to be performed to determine whether reduction of work of breathing and gas conservation can be achieved.    
-
-    
-
 ## Facilitating Gas Accessibility via Macropore Engineering in Amine-Loaded Silica Particles for Enhanced CO2 Adsorption Performance   
 
 OpenAlex: https://openalex.org/W4401817292    
@@ -642,6 +598,17 @@ Open access: False
 [Tung Van Pham](https://openalex.org/A5085162393), [Tomoyuki Hirano](https://openalex.org/A5052994146), [Kiet Le Anh Cao](https://openalex.org/A5015348062), [Eka Lutfi Septiani](https://openalex.org/A5033601181), [Eishi Tanabe](https://openalex.org/A5103518404), [Takashi Ogi](https://openalex.org/A5027842278), Energy & Fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c02937.
     
 The urgent need to mitigate climate change has spurred the development of efficient adsorbents for CO2 capture. Porous solid sorbents, especially those incorporating amine-modified porous silica materials, offer a promising alternative due to their superior selectivity and reversibility. However, the existing research has focused on developing mesoporous silica for CO2 adsorption applications, often overlooking the role of macropores. One critical challenge with mesoporous silica is the restriction in the loading amount of amine due to low pore volume, which is followed by reduction of the CO2 capture capacity due to pore blocking and a decrease in surface area at high amine concentration. Macroporous silica particles offer promising advantages over mesopores in CO2 adsorption performance, including improved mass transfer kinetics and enhanced accessibility of CO2 to amine sites. Therefore, the CO2 adsorption capacity of porous silica materials may not have reached its full potential, and the influence of macropore sizes ranging from 60 to 400 nm has yet to be fully explored. This research, for the first time, aims to address current limitations in CO2 capture methodologies by engineering controllable porous silica particles with various macropore sizes utilizing a spray process followed by tetraethylenepentamine (TEPA) modification. Results indicate that increasing TEPA concentration up to 70 wt % enhanced the CO2 adsorption capacity of the particles. The absorption performance was maximized in macroporous silica with a poly(methyl methacrylate) (PMMA) template size of 291 nm (6.08 mmol CO2/g of absorbent). Generally, larger macropore size facilitates CO2 diffusion within the particles, preventing the formation of inactive TEPA sites and reducing the CO2 diffusion resistance. This study not only highlights the relationship between the macroporous structure, TEPA modification, and CO2 adsorption capacity but also provides valuable insights for advancing carbon capture and storage (CCS) technologies, emphasizing the potential of macroporous silica to overcome the inherent limitations of its mesoporous counterpart.    
+
+    
+
+## Low Pressure Heliox-based Rebreather System to Reduce Work of Breathing and Conserve Gas   
+
+OpenAlex: https://openalex.org/W4401908687    
+Open access: False
+    
+[Sairam Parthasarathy](https://openalex.org/A5020095687), [Christopher J. Morton](https://openalex.org/A5046506057), Respiratory Care. None(None)] 2024.https://doi.org/10.4187/respcare.12184.
+    
+Background: To test the ability of a low-pressure, low-flow, Heliox-based rebreathing system to reduce work of breathing and conserve gas while preserving CO2 concentration, temperature, and humidity at physiological levels in a bench study. Methods: We performed a bench study of a novel low-pressure, low-flow, noninvasive Heliox rebreathing system with CO2 scrubber that was connected to an artificial lung simulator with careful monitoring of flow, pressure, work of breathing, oxygen (O2), carbon-dioxide (CO2), temperature, and humidity levels. Multiple runs of breathing were performed while manipulating levels of resistance (5 – 30 cm H2O/L/sec), gas mixtures (room air, 79% Helium 21% O2, and 70% Helium and 30% O2), and leak levels (ultra-low, low, and high). Results: We found significant reductions in work of breathing (up to 64%) while conserving gas with estimates of up to 54-fold reduction in medical gas wastage (P<0.001). Specifically, at resistances of 5, 10, 20, and 30 cm H2O/L/sec we demonstrated 64%, 57%, 36%, and 7% reduction in work of breathing (P<0.0001). Gas wastage was reduced by 10- to 54-fold while the end-tidal CO2 concentration, humidity, and temperature were maintained by the device at physiological levels. Conclusions: In a bench-test, a low-pressure, low-flow, noninvasive Heliox rebreathing system with CO2 scrubber reduced work of breathing and conserved gas while preserving CO2 concentration, temperature, and humidity at physiological levels. Future studies in human subjects need to be performed to determine whether reduction of work of breathing and gas conservation can be achieved.    
 
     
 
@@ -656,17 +623,6 @@ Abstract Recovery of natural gas liquid (NGL) from flared gas is considered one 
 
     
 
-## Selection and Optimization of China’s Energy Transformation Pathway Under Carbon-Neutral Targets   
-
-OpenAlex: https://openalex.org/W4401761761    
-Open access: True
-    
-[Yingying Qi](https://openalex.org/A5101324221), [Guohua Yu](https://openalex.org/A5009259211), Processes. 12(8)] 2024.https://doi.org/10.3390/pr12081758.
-    
-This paper uses a bottom-up national energy technology model to study the optimization of China’s energy transformation pathway. The model clarifies specific action plans for China’s energy transformation pathway from 2020 to 2060, total carbon emissions, industry emission reduction responsibilities, and other dimensions. The results show that: (1) The proportion of renewable energy consumption in China’s entire energy system from 2020 to 2060 will gradually exceed that of fossil energy under ideal circumstances, and the energy system will transition from traditional fossil energy to renewable energy. Meanwhile, the proportion of low-carbon energy sources, such as renewable energy, in primary energy demand will jump from 15.9% in 2020 to over 80% by 2060. (2) China’s CO2 emissions will be approximately 3 billion tons, 2 billion tons, and 1 billion tons under three different socio-economic development scenarios of low, medium, and high speed in 2060. At that time, China will still need to absorb CO2 through carbon sinks in forests, oceans, and wetlands. (3) The electricity industry has the highest CO2 emissions compared to other industries. The electricity industry must bear significant responsibility for carbon reduction in future energy transformation and economic development.    
-
-    
-
 ## Assessing Maize Yield Variability under Climate Change Using DSSAT Model   
 
 OpenAlex: https://openalex.org/W4401845087    
@@ -675,6 +631,17 @@ Open access: True
 [Sanjay Koushal](https://openalex.org/A5106655292), [G. Rajesh](https://openalex.org/A5031793101), [J. B. Kambale](https://openalex.org/A5034583985), [Hridesh Harsha Sarma](https://openalex.org/A5104318815), [Bhim Pratap Singh](https://openalex.org/A5052489579), [S P Sharan](https://openalex.org/A5106655293), [Okram Ricky Devi](https://openalex.org/A5058616988), [Bibek Laishram](https://openalex.org/A5058919916), Journal of Scientific Research and Reports. 30(9)] 2024.https://doi.org/10.9734/jsrr/2024/v30i92333.
     
 Crop production is inherently sensitive to variability in climate. Temperature and CO2 are two important parameters related to climate change, affecting crop yield in a particular region. In this study, an attempt has been made to assess the impact of these two parameters on the productivity of maize crop taking sub tropical region of Jammu as study area. A CERES-Maize model 4.0 was used for this purpose. Three-year weather data (2004-06) is used to simulate the actual yield under rainfed and irrigated conditions. Yield was simulated with elevated temperature (1, 3 and 5oC) and CO2 (440, 550 and 660 ppm) during the growing season. As changes in CO2 concentration and temperature likely to occur concomitantly, so growth and development of maize plant at three temperature regimes (1, 3 and 5oC) under double (660 ppm) CO2 concentration to the baseline (330 ppm) was also assessed. The difference in yield, biomass, grain number and LAI was estimated and analyzed to assess the effect of elevated temperature and CO2. Results revealed that the rise in temperature accelerated plant phenology, reducing dry matter accumulation and crop yield by 5 to 60 per cent. Elevation of CO2 in the level of 440, 550 and 660 ppm showed gradual yield increment of 2.01, 3.92 and 5.37 per cent under rainfed conditions and 2.33, 4.52 and 7.41 per cent under irrigated conditions, respectively. Doubled CO2 increased yield at all the temperature rise situation and completely mitigated the yield and biomass reduction due to temperature rise up to 1oC.    
+
+    
+
+## Selection and Optimization of China’s Energy Transformation Pathway Under Carbon-Neutral Targets   
+
+OpenAlex: https://openalex.org/W4401761761    
+Open access: True
+    
+[Yingying Qi](https://openalex.org/A5101324221), [Guohua Yu](https://openalex.org/A5009259211), Processes. 12(8)] 2024.https://doi.org/10.3390/pr12081758.
+    
+This paper uses a bottom-up national energy technology model to study the optimization of China’s energy transformation pathway. The model clarifies specific action plans for China’s energy transformation pathway from 2020 to 2060, total carbon emissions, industry emission reduction responsibilities, and other dimensions. The results show that: (1) The proportion of renewable energy consumption in China’s entire energy system from 2020 to 2060 will gradually exceed that of fossil energy under ideal circumstances, and the energy system will transition from traditional fossil energy to renewable energy. Meanwhile, the proportion of low-carbon energy sources, such as renewable energy, in primary energy demand will jump from 15.9% in 2020 to over 80% by 2060. (2) China’s CO2 emissions will be approximately 3 billion tons, 2 billion tons, and 1 billion tons under three different socio-economic development scenarios of low, medium, and high speed in 2060. At that time, China will still need to absorb CO2 through carbon sinks in forests, oceans, and wetlands. (3) The electricity industry has the highest CO2 emissions compared to other industries. The electricity industry must bear significant responsibility for carbon reduction in future energy transformation and economic development.    
 
     
 
@@ -810,17 +777,6 @@ The electrochemical CO2 reduction (eCO2R) in membrane electrode assemblies (MEAs
 
     
 
-## Performance of an All-Aqueous Thermally Regenerative Flow Battery Using CNT/Carbon Cloth Composite Electrodes   
-
-OpenAlex: https://openalex.org/W4401723167    
-Open access: False
-    
-[S.J. Li](https://openalex.org/A5003465082), [Yichao An](https://openalex.org/A5080701820), [Liang Zhang](https://openalex.org/A5100425267), [Jun Li](https://openalex.org/A5100361782), [Weiguang Wang](https://openalex.org/A5085144376), [Xuhui Jiang](https://openalex.org/A5022673052), [Peng Zou](https://openalex.org/A5044508608), [Zhang Luo](https://openalex.org/A5053069825), Industrial & Engineering Chemistry Research. None(None)] 2024.https://doi.org/10.1021/acs.iecr.4c01842.
-    
-All-aqueous thermally regenerative battery (ATRB) is a promising electrochemical device for converting low-grade waste heat into electrical energy, while the low specific surface area of electrodes limits its performance. To improve the performance, the carbon nanotube/carbon cloth (CNT/CC) composite electrode with a highly specific surface area is proposed for ATRB in this study. The use of the CNT/CC composite electrodes induces a 37.4% higher maximum power density of ATRB (409.6 W/m2) compared with that of ATRB with the carbon cloth (CC) electrodes. The optimal CNT loading amount is determined to further enhance ATRB performance. Increasing the flow rate helps facilitate mass transfer, the optimal flow rate (50 mL/min) is selected considering the influence of the hydrodynamic loss. Concerning the expend application, a series stack of ATRB is constructed to successfully drive an electrochemical CO2 reduction device, resulting in a comparable Faraday efficiency for the conversion of CO2 to CO.    
-
-    
-
 ## Identification of Patterns in CO2 Emissions among 208 Countries: K-Means Clustering Combined with PCA and Non-Linear t-SNE Visualization   
 
 OpenAlex: https://openalex.org/W4401794845    
@@ -876,17 +832,6 @@ Tar build-up is one of the bottlenecks of biomass gasification process. Dry refo
 
     
 
-## ENVIROMENTAL LIFE CYCLE ASSESSMENT OF CACTUS MUCILAGE-MODIFIED CONCRETE   
-
-OpenAlex: https://openalex.org/W4401730650    
-Open access: False
-    
-[Denis A. Lorika](https://openalex.org/A5092391873), [Bilal S. Hamad](https://openalex.org/A5002777110), [Alissar Yehya](https://openalex.org/A5043679792), [Darine A. Salam](https://openalex.org/A5035712526), Sustainable construction materials and technologies. 2(None)] 2024.https://doi.org/10.18552/2024/scmt/328.
-    
-development and employment trends in Emerging Markets and Developing Economies (EMDEs). Cement-based materials are the most consumed in infrastructure projects, and embodied carbon in construction materials contribute approximately to 13% of the global GHG emissions. This paper presents findings of an experimental and environmental impact evaluation, conducted on Normal Strength Concrete (NSC) mixtures dosed with Opuntia ficus-indica mucilage (Ofim) as a bio-additive by mass-replacement of the mixing water. A 15% mixing-water mass-replacement resulted in 20% enhancement of compressive strength relative to the conventional mix. In addition, it achieved an average reduction in greenhouse gas (GHG) emissions of 9.6% with a notable decrease in CO2 equivalents resulting from a lower cement content in the Ofim-modified mix. Moreover, enhancement in durability properties of concrete elongates maintenance cycles reducing the demand for materials that would otherwise be used for frequent repairs. The study concluded that Ofim-modified concrete is an environmentally improved material.    
-
-    
-
 ## Environmental impact assessment and comparative analysis of hot stamping and cold stamping processes: A cradle-to-gate lifecycle assessment study   
 
 OpenAlex: https://openalex.org/W4401881225    
@@ -906,17 +851,6 @@ Open access: False
 [Trio Ardhimansyah](https://openalex.org/A5106753787), [Muammar Khaddafi](https://openalex.org/A5106741537), Deleted Journal. 2(7)] 2024.https://doi.org/10.46799/adv.v2i7.270.
     
 This research discusses administrative challenges and market strategies in implementing a carbon tax in Indonesia. The carbon tax was introduced through the 2021 Harmonization of Tax Regulations Law to control CO2 emissions from fossil fuels such as coal, oil and natural gas. Key challenges include administrative complexity, strong inter-agency coordination, effective monitoring systems, and consistent law enforcement. The global carbon market in 2023 shows great potential for economically efficient emissions reductions, but implementing this model requires adapting to Indonesia's socio-economic landscape. The research method used is a qualitative approach with case studies, combining data from policy documents, interviews with tax experts, and local carbon market analysis. The research results show that the implementation of a carbon tax is faced with several major challenges, including a lack of accurate data on emissions, an immature monitoring system, and resistance from certain industrial sectors. Effective market management strategies, such as the allocation of tax revenues to sustainable projects, are key to mitigating negative economic impacts and encouraging investment in green technologies. This research makes a significant contribution to the understanding of the complexity of carbon tax implementation in developing countries and its relevance in the global context for achieving climate change goals.    
-
-    
-
-## Impact of an Integral Management System with Constructed Wetlands in Pig Slurry Traceability and GHG/NH3 Emissions   
-
-OpenAlex: https://openalex.org/W4401727833    
-Open access: True
-    
-[Melisa Gómez‐Garrido](https://openalex.org/A5065016035), [Martire Angélica Terrero Turbí](https://openalex.org/A5093414334), [Oumaima El bied](https://openalex.org/A5037270077), [Ángel Faz Cano](https://openalex.org/A5062155419), Water. 16(16)] 2024.https://doi.org/10.3390/w16162351 ([pdf](https://www.mdpi.com/2073-4441/16/16/2351/pdf?version=1724314067)).
-    
-The sustainable management of pig slurry (PS) in intensive farms is essential to reduce adverse environmental impacts and reduce the ecological footprint. If not managed properly, PS can release GHG/NH3 gases into the atmosphere and contaminate waters. This study evaluates the impact of an integral management system with physical and biological stages to mitigate the impact of PS. The system resulted in effective PS traceability, studying its physicochemical properties. The synergism in the whole system allowed a decrease in the most analyzed parameters during the autumn, spring, and summer. The pretreatment contributed significantly to obtaining an appreciable percentage of reduction in the constructed wetlands of SS (99–100%), COD (56–87%), TN (50–57%), and PO43− (88–100%). The emission values (g/m2/day) were 0–2.14 (CH4), 0–473.76 (CO2), 0–179.77 (H2O), 0–0.265 (N2O), and 0–0.195 (NH3), highlighting the raw, separated and manure fractions with the highest values. It is concluded that the system proves to be a practical, low-cost, and efficient technique for the treatment of PS. It significantly reduces the concentration of nutrients, and the intercepted byproducts can be valuable for application to the soil. In addition, the system effectively reduces GHG/NH3 emissions in decanted, purified, and wetland PS fractions.    
 
     
 

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Aug 2024 01:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 01:15:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The effect of charge screening for cationic surfactants on the rigidity of interfacial nanoparticle assemblies</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.08.133</link>
-      <description>Henrik Siegel, Mariska de Ruiter, Tagbo H. R. Niepa, Martin F. Haase, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4401731301
-
-                No abstract</description>
-      <author>Henrik Siegel, Mariska de Ruiter, Tagbo H. R. Niepa, Martin F. Haase</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.133</guid>
-    </item>
     <item>
       <title>Nonlinear model predictive control for mode&#8208;switching operation of reversible solid oxide cell systems</title>
       <link>https://doi.org/10.1002/aic.18550</link>

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Aug 2024 01:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 01:15:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,26 +26,6 @@
       <author>Zhaoxia Rao, Rui Huang, Wei Cai, Fengqi Wang, Wenfu Yan, Xue Yang, Fei Long, Zhenhua Wang, Yilong Ma, Rongli Gao, Gang Chen, Xiaoling Deng, Xiang Lei, Chunlin Fu</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.129293</guid>
-    </item>
-    <item>
-      <title>Au@AuPd Core-Alloyed Shell Nanoparticles for Enhanced Electrocatalytic Activity and Selectivity under Visible Light Excitation</title>
-      <link>https://doi.org/10.1021/acsnano.4c07076</link>
-      <description>Kaline N. da Silva, Shwetha Shetty, Sam Sullivan&#8722;Allsop, Rongsheng Cai, Shiqi Wang, Jhon Quiroz, Mykhailo Chundak, Hugo L. S. Santos, Ibrahim Abdelsalam, F. Palacio, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Niko Heikkinen, Elton Sitta, Tiago Vinicius Alves, Mikko Ritala, Wenyi Huo, Thomas J. A. Slater, Sarah J. Haigh, Pedro H. C. Camargo, ACS Nano. None(None)] 2024. https://openalex.org/W4401727953
-
-                Plasmonic catalysis has been employed to enhance molecular transformations under visible light excitation, leveraging the localized surface plasmon resonance (LSPR) in plasmonic nanoparticles. While plasmonic catalysis has been employed for accelerating reaction rates, achieving control over the reaction selectivity has remained a challenge. In addition, the incorporation of catalytic components into traditional plasmonic-catalytic antenna-reactor nanoparticles often leads to a decrease in optical absorption. To address these issues, this study focuses on the synthesis of bimetallic core@shell Au@AuPd nanoparticles (NPs) with ultralow loadings of palladium (Pd) into gold (Au) NPs. The goal is to achieve NPs with an Au core and a dilute alloyed shell containing both Au and Pd, with a low Pd content of around 10 atom %. By employing the (photo)electrocatalytic nitrite reduction reaction (NO</description>
-      <author>Kaline N. da Silva, Shwetha Shetty, Sam Sullivan&#8722;Allsop, Rongsheng Cai, Shiqi Wang, Jhon Quiroz, Mykhailo Chundak, Hugo L. S. Santos, Ibrahim Abdelsalam, F. Palacio, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Niko Heikkinen, Elton Sitta, Tiago Vinicius Alves, Mikko Ritala, Wenyi Huo, Thomas J. A. Slater, Sarah J. Haigh, Pedro H. C. Camargo</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c07076</guid>
-    </item>
-    <item>
-      <title>Theoretical insight into the NO* Coverage-Dependent selectivity of Pd and Cu electrocatalysts for nitrate reduction</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115706</link>
-      <description>Yu Chen, Thomas P. Senftle, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4401731492
-
-                No abstract</description>
-      <author>Yu Chen, Thomas P. Senftle</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115706</guid>
     </item>
     <item>
       <title>Electrowinning for Room-Temperature Ironmaking: Mapping the Electrochemical Aqueous Iron Interface</title>
@@ -408,16 +388,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.255</guid>
     </item>
     <item>
-      <title>Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114489</link>
-      <description>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen, Molecular Catalysis. 567(None)] 2024. https://openalex.org/W4401844774
-
-                No abstract</description>
-      <author>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114489</guid>
-    </item>
-    <item>
       <title>Coupling High&#8208;Entropy Core with Rh Shell for Efficient pH&#8208;Universal Hydrogen Evolution</title>
       <link>https://doi.org/10.1002/smll.202403353</link>
       <description>Min Wei, Yuyan Sun, Junyu Zhang, Jianrong Zeng, Jike Wang, Small. None(None)] 2024. https://openalex.org/W4401844907
@@ -488,6 +458,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144953</guid>
     </item>
     <item>
+      <title>Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114489</link>
+      <description>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen, Molecular Catalysis. 567(None)] 2024. https://openalex.org/W4401844774
+
+                No abstract</description>
+      <author>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114489</guid>
+    </item>
+    <item>
       <title>Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle</title>
       <link>https://doi.org/10.1016/j.jcat.2024.115725</link>
       <description>James M. Mayer, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4401892778
@@ -496,6 +476,16 @@
       <author>James M. Mayer</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115725</guid>
+    </item>
+    <item>
+      <title>Bifunctional Electrocatalysts</title>
+      <link>https://doi.org/10.1039/bk9781837674497-part2</link>
+      <description>, Royal Society of Chemistry eBooks. None(None)] 2024. https://openalex.org/W4401960484
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/bk9781837674497-part2</guid>
     </item>
     <item>
       <title>Neural Network-Driven Smart City Security Monitoring in Beijing Multimodal Data Integration and Real-Time Anomaly Detection</title>

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Aug 29 01:15:26 2024
+Created on Fri Aug 30 01:15:37 2024
 
-Found 52 results from 2024-08-22 to 2024-08-29
+Found 51 results from 2024-08-23 to 2024-08-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967)
@@ -34,28 +34,6 @@ OpenAlex: https://openalex.org/W4401831925
 Open access: False
     
 [Zhaoxia Rao](https://openalex.org/A5043763621), [Rui Huang](https://openalex.org/A5003637819), [Wei Cai](https://openalex.org/A5100742971), [Fengqi Wang](https://openalex.org/A5001527161), [Wenfu Yan](https://openalex.org/A5076675436), [Xue Yang](https://openalex.org/A5089609434), [Fei Long](https://openalex.org/A5006097541), [Zhenhua Wang](https://openalex.org/A5100395233), [Yilong Ma](https://openalex.org/A5086015496), [Rongli Gao](https://openalex.org/A5027777822), [Gang Chen](https://openalex.org/A5100389310), [Xiaoling Deng](https://openalex.org/A5102014411), [Xiang Lei](https://openalex.org/A5006375413), [Chunlin Fu](https://openalex.org/A5049146246), Separation and Purification Technology. 354(None)] 2025.https://doi.org/10.1016/j.seppur.2024.129293.
-    
-No abstract    
-
-    
-
-## Au@AuPd Core-Alloyed Shell Nanoparticles for Enhanced Electrocatalytic Activity and Selectivity under Visible Light Excitation   
-
-OpenAlex: https://openalex.org/W4401727953    
-Open access: False
-    
-[Kaline N. da Silva](https://openalex.org/A5028041010), [Shwetha Shetty](https://openalex.org/A5012389165), [Sam Sullivan−Allsop](https://openalex.org/A5092811467), [Rongsheng Cai](https://openalex.org/A5050114741), [Shiqi Wang](https://openalex.org/A5100385188), [Jhon Quiroz](https://openalex.org/A5077432463), [Mykhailo Chundak](https://openalex.org/A5059069686), [Hugo L. S. Santos](https://openalex.org/A5007266608), [Ibrahim Abdelsalam](https://openalex.org/A5016922508), [F. Palacio](https://openalex.org/A5101721063), [Víctor A. de la Peña O’Shea](https://openalex.org/A5084324626), [Niko Heikkinen](https://openalex.org/A5075759273), [Elton Sitta](https://openalex.org/A5004973088), [Tiago Vinicius Alves](https://openalex.org/A5046450322), [Mikko Ritala](https://openalex.org/A5081018621), [Wenyi Huo](https://openalex.org/A5085031916), [Thomas J. A. Slater](https://openalex.org/A5001815175), [Sarah J. Haigh](https://openalex.org/A5080752278), [Pedro H. C. Camargo](https://openalex.org/A5020973088), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c07076.
-    
-Plasmonic catalysis has been employed to enhance molecular transformations under visible light excitation, leveraging the localized surface plasmon resonance (LSPR) in plasmonic nanoparticles. While plasmonic catalysis has been employed for accelerating reaction rates, achieving control over the reaction selectivity has remained a challenge. In addition, the incorporation of catalytic components into traditional plasmonic-catalytic antenna-reactor nanoparticles often leads to a decrease in optical absorption. To address these issues, this study focuses on the synthesis of bimetallic core@shell Au@AuPd nanoparticles (NPs) with ultralow loadings of palladium (Pd) into gold (Au) NPs. The goal is to achieve NPs with an Au core and a dilute alloyed shell containing both Au and Pd, with a low Pd content of around 10 atom %. By employing the (photo)electrocatalytic nitrite reduction reaction (NO    
-
-    
-
-## Theoretical insight into the NO* Coverage-Dependent selectivity of Pd and Cu electrocatalysts for nitrate reduction   
-
-OpenAlex: https://openalex.org/W4401731492    
-Open access: False
-    
-[Yu Chen](https://openalex.org/A5100401978), [Thomas P. Senftle](https://openalex.org/A5067754249), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115706.
     
 No abstract    
 
@@ -457,17 +435,6 @@ No abstract
 
     
 
-## Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study   
-
-OpenAlex: https://openalex.org/W4401844774    
-Open access: False
-    
-[Ting Yao](https://openalex.org/A5102006398), [Huohai Yang](https://openalex.org/A5003167045), [Xiaoyue Fu](https://openalex.org/A5032775500), [Yingjie Feng](https://openalex.org/A5101532301), [Xingbo Ge](https://openalex.org/A5063446819), [Qiang Ke](https://openalex.org/A5102836658), [Xin Chen](https://openalex.org/A5024977426), Molecular Catalysis. 567(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114489.
-    
-No abstract    
-
-    
-
 ## Coupling High‐Entropy Core with Rh Shell for Efficient pH‐Universal Hydrogen Evolution   
 
 OpenAlex: https://openalex.org/W4401844907    
@@ -545,12 +512,34 @@ No abstract
 
     
 
+## Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study   
+
+OpenAlex: https://openalex.org/W4401844774    
+Open access: False
+    
+[Ting Yao](https://openalex.org/A5102006398), [Huohai Yang](https://openalex.org/A5003167045), [Xiaoyue Fu](https://openalex.org/A5032775500), [Yingjie Feng](https://openalex.org/A5101532301), [Xingbo Ge](https://openalex.org/A5063446819), [Qiang Ke](https://openalex.org/A5102836658), [Xin Chen](https://openalex.org/A5024977426), Molecular Catalysis. 567(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114489.
+    
+No abstract    
+
+    
+
 ## Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle   
 
 OpenAlex: https://openalex.org/W4401892778    
 Open access: False
     
 [James M. Mayer](https://openalex.org/A5037787121), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115725.
+    
+No abstract    
+
+    
+
+## Bifunctional Electrocatalysts   
+
+OpenAlex: https://openalex.org/W4401960484    
+Open access: False
+    
+, Royal Society of Chemistry eBooks. None(None)] 2024.https://doi.org/10.1039/bk9781837674497-part2.
     
 No abstract    
 
