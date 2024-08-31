@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Aug 2024 01:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 01:15:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalytic Large Atomic Model (CLAM): A Machine-Learning-Based Interatomic Potential Universal Model</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-2xzct</link>
-      <description>Zhihong Wu, Li Wang, Peng&#8208;Fei Hou, Yuyan Liu, Tianyin Guo, Jincheng Liu, No host. None(None)] 2024. https://openalex.org/W4401763559
-
-                Catalysis involves complex reactions with dynamic changes in catalyst morphology, challenging the capabilities of traditional Density Functional Theory (DFT) methods. To address this, we present the Catalytic Large Atomic Model (CLAM), a machine-learning-based interatomic potential designed for heterogeneous catalysis. Trained on a comprehensive dataset that includes metals, alloys, oxides, clusters, zeolites, 2D materials, and small molecules, CLAM ensures high accuracy across diverse catalytic systems. We also introduce a "local fine-tuning" algorithm that enhances the model&#8217;s applicability by accelerating structural optimizations and transition state searches while maintaining precision. Additionally, CLAM facilitates rapid reaction network construction and efficient kinetic analysis. This work advances computational catalysis by providing a universal and robust tool for catalyst design and mechanism exploration.</description>
-      <author>Zhihong Wu, Li Wang, Peng&#8208;Fei Hou, Yuyan Liu, Tianyin Guo, Jincheng Liu</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-2xzct</guid>
-    </item>
     <item>
       <title>Bi6Fe2Ti3O18 ferroelectrics with various morphologies under mild conditions by crystal growth control for promoted adsorption-piezo-photocatalytic degradation performances</title>
       <link>https://doi.org/10.1016/j.seppur.2024.129293</link>
@@ -26,156 +16,6 @@
       <author>Zhaoxia Rao, Rui Huang, Wei Cai, Fengqi Wang, Wenfu Yan, Xue Yang, Fei Long, Zhenhua Wang, Yilong Ma, Rongli Gao, Gang Chen, Xiaoling Deng, Xiang Lei, Chunlin Fu</author>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.129293</guid>
-    </item>
-    <item>
-      <title>Electrowinning for Room-Temperature Ironmaking: Mapping the Electrochemical Aqueous Iron Interface</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01867</link>
-      <description>Lance Kavalsky, Venkatasubramanian Viswanathan, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4401733049
-
-                A promising route toward room-temperature ironmaking is electrowinning, where iron ore dissolution is coupled with cation electrodeposition to grow pure iron. However, poor faradaic efficiencies against the hydrogen evolution reaction (HER) is a major bottleneck. To develop a mechanistic picture of this technology, we conduct a first-principles thermodynamic analysis of the Fe110 aqueous electrochemical interface. Constructing a surface Pourbaix diagram, we predict that the iron surface will always drive toward adsorbate coverage. We calculate theoretical overpotentials for terrace and step sites and predict that growth at the step sites are likely to dominate. Investigating the hydrogen surface phases, we model several hydrogen absorption mechanisms, all of which are predicted to be endothermic. Additionally, for HER we identify step sites as being more reactive than on the terrace and with competitive limiting potentials to iron plating. The results presented here further motivate electrolyte design toward HER suppression.</description>
-      <author>Lance Kavalsky, Venkatasubramanian Viswanathan</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01867</guid>
-    </item>
-    <item>
-      <title>Force-Free Identification of Minimum-Energy Pathways and Transition States for Stochastic Electronic Structure Theories</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00214</link>
-      <description>Gopal R. Iyer, Noah Whelpley, Juha Tiihonen, Paul R. C. Kent, Jaron T. Krogel, Brenda M. Rubenstein, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4401733394
-
-                The accurate mapping of potential energy surfaces (PESs) is crucial to our understanding of the numerous physical and chemical processes mediated by atomic rearrangements, such as conformational changes and chemical reactions, and the thermodynamic and kinetic feasibility of these processes. Stochastic electronic structure theories, e.g., Quantum Monte Carlo (QMC) methods, enable highly accurate total energy calculations that in principle can be used to construct the PES. However, their stochastic nature poses a challenge to the computation and use of forces and Hessians, which are typically required in algorithms for minimum-energy pathway (MEP) and transition state (TS) identification, such as the nudged elastic band (NEB) algorithm and its climbing image formulation. Here, we present strategies that utilize the surrogate Hessian line-search method, previously developed for QMC structural optimization, to efficiently identify MEP and TS structures without requiring force calculations at the level of the stochastic electronic structure theory. By modifying the surrogate Hessian algorithm to operate in path-orthogonal subspaces and at saddle points, we show that it is possible to identify MEPs and TSs by using a force-free QMC approach. We demonstrate these strategies via two examples, the inversion of the ammonia (NH3) molecule and the nucleophilic substitution (SN2) reaction F&#8211; + CH3F &#8594; FCH3 + F&#8211;. We validate our results using Density Functional Theory (DFT)- and Coupled Cluster (CCSD, CCSD(T))-based NEB calculations. We then introduce a hybrid DFT-QMC approach to compute thermodynamic and kinetic quantities, free energy differences, rate constants, and equilibrium constants that incorporates stochastically optimized structures and their energies, and show that this scheme improves upon DFT accuracy. Our methods generalize straightforwardly to other systems and other high-accuracy theories that similarly face challenges computing energy gradients, paving the way for highly accurate PES mapping, transition state determination, and thermodynamic and kinetic calculations at significantly reduced computational expense.</description>
-      <author>Gopal R. Iyer, Noah Whelpley, Juha Tiihonen, Paul R. C. Kent, Jaron T. Krogel, Brenda M. Rubenstein</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00214</guid>
-    </item>
-    <item>
-      <title>Exploring the Polymorphism of Dicalcium Silicates Using Transfer Learning Enhanced Machine Learning Atomic Potentials</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00479</link>
-      <description>Jon L&#243;pez-Zorrilla, Xabier M. Aretxabaleta, Hegoi Manzano, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4401733605
-
-                Belitic cements are a greener alternative to Ordinary Portland Cement due to the lower CO2 associated with their production. However, their low reactivity with water is currently a drawback, resulting in longer setting times. In this study, we utilize a combination of evolutionary algorithms and machine learning atomic potentials (MLPs) to identify previously unreported belite polymorphs that may exhibit higher hydraulic reactivity than the known phases. To address the high computational demand of this methodology, we propose a novel transfer learning approach for generating MLPs. First, the models are pretrained on a large set of classical data (ReaxFF) and then retrained with density functional theory (DFT) data. We demonstrate that the transfer learning enhanced potentials exhibit higher accuracy, require less training data, and are more transferable than those trained exclusively on DFT data. The generated machine learning potential enables a fast, exhaustive, and reliable exploration of the dicalcium silicate polymorphs. This includes studying their stability through phonon analysis and calculating their structural and elastic properties. Overall, we identify ten new belite polymorphs within the energy range of the existing ones, including a layered phase with potentially high reactivity.</description>
-      <author>Jon L&#243;pez-Zorrilla, Xabier M. Aretxabaleta, Hegoi Manzano</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00479</guid>
-    </item>
-    <item>
-      <title>Photoinduced Surface Oxidation of GaN Nanowires Facilitates Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acscatal.4c00308</link>
-      <description>Jan Paul Menzel, Wan Jae Dong, Elijah Gruszecki, Ke Yang, Zetian Mi, V&#237;ctor S. Batista, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401733800
-
-                Gallium nitride nanowires (GaN NWs) have shown great potential in applications to photocatalysis, including photocatalytic hydrogen evolution for solar energy storage. Previous studies have shown that GaN NWs can undergo self-improvement under light irradiation, which is attributed to surface oxidation, forming gallium oxynitride (GaON). However, the exact oxidation pathways and the effect of surface oxidation on catalytic performance remain to be understood at the molecular level. In this study, we combine computational modeling at the density functional theory (DFT) level with linear sweep voltammetry and chronoamperometric measurements to investigate the photoinduced surface oxidation of GaN NWs. We find that the oxidation of GaN to GaON is competitive with water oxidation. The oxidized surface shows almost no change in its water oxidation capabilities, although the potential required for hydrogen evolution is significantly reduced. Oxidation of the surface also leads to changes in the electronic structure, shifting the valence band edge states toward the surface adsorbed hydroxide, making hole localization there more likely. Calculations are consistent with the observation of shifts in the onset potential for photoelectrochemical hydrogen evolution toward more positive potentials over an extended 18 h period. The reported findings on the mechanism of photoinduced surface oxidation of GaN NWs and the effect of surface oxidation on hydrogen evolution provide valuable insights for the development of more efficient GaN NW-based photocatalytic surfaces for hydrogen evolution.</description>
-      <author>Jan Paul Menzel, Wan Jae Dong, Elijah Gruszecki, Ke Yang, Zetian Mi, V&#237;ctor S. Batista</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00308</guid>
-    </item>
-    <item>
-      <title>Improving the Catalytic Activity of TiC in Li&#8211;O&lt;sub&gt;2&lt;/sub&gt; Batteries through C Surface Modification: A First-Principle Study</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02956</link>
-      <description>Yingying Yang, Junfeng Cui, Jian Chen, Jiahao Chen, Zhipeng Tang, Qiqian Gao, Yonghui Zhang, Yuping Sun, Fei Xing, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4401733890
-
-                Rechargeable lithium&#8211;oxygen (Li&#8211;O2) batteries are known for their ultrahigh theoretical energy density among chemical batteries. However, the low catalytic activity and poor stability of the cathode catalyst are the root issues limiting their practical applications. In this work, a design strategy to enhance the catalytic activity of the TiC material was devised by C surface modification. The carbon-coated core&#8211;shell TiC@C nanomaterial was designed, which combined the good electrical conductivity and low density of carbon materials with the excellent catalysis of TiC. The calculated catalytic activities of TiC (100) with and without C coating were compared by first-principles calculations, showing that the TiC (100)@C surface has a lower ORR/OER overpotential. The C layer enhances the conductivity of the TiC (100) surface significantly. This work fully demonstrates the synergistic catalysis of TiC material and C coating, which not only effectively accelerates the practical process by improving the charging and discharging kinetic rate of Li&#8211;O2 batteries but also provides an efficient catalyst design strategy for other energy-catalytic industries.</description>
-      <author>Yingying Yang, Junfeng Cui, Jian Chen, Jiahao Chen, Zhipeng Tang, Qiqian Gao, Yonghui Zhang, Yuping Sun, Fei Xing</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02956</guid>
-    </item>
-    <item>
-      <title>Theoretical Study on the Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction Mechanism of Single-Atom Co Complexed Carbon-Based (Co&#8211;N&lt;sub&gt;&#967;&lt;/sub&gt;@C) Catalysts Supported on Carbon Nanotubes</title>
-      <link>https://doi.org/10.1021/acsami.4c08246</link>
-      <description>Qisen Guo, Guilin Zhang, Yang Wu, Xiaoqin Liang, Laicai Li, Jiajia Yang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4401733933
-
-                Electrocatalytic CO2 reduction serves as an effective strategy to tackle energy crises and mitigate greenhouse gas effects. The development of efficient and cost-effective electrocatalysts has been a research hotspot in the field. In this study, we designed four Co-doped single-atom catalysts (Co&#8211;N&#967;@C) using carbon nanotubes as carriers, these catalysts included tri- and dicoordinated N-doped carbon nanoribbons, as well as tri- and dicoordinated N-doped graphene, respectively denoted as H3(H2)-Co/CNT and 3(2)-Co/CNT. The stable configurations of these Co&#8211;N&#967;@C catalysts were optimized using the PBE+D3 method. Additionally, we explored the reaction mechanisms of these catalysts for the electrocatalytic reduction of CO2 into four C1 products, including CO, HCOOH, CH3OH and CH4, in detail. Upon comparing the limiting potentials (UL) across the Co&#8211;N&#967;@C catalysts, the activity sequence for the electrocatalytic reduction of CO2 was H2&#8211;Co/CNT &gt; 3-Co/CNT &gt; H3&#8211;Co/CNT &gt; 2-Co/CNT. Meanwhile, our investigation of the hydrogen evolution reaction (HER) with four catalysts elucidated the influence of acidic conditions on the electrocatalytic CO2 reduction process. Specifically, controlling the acidity of the solution was crucial when using the H3&#8211;Co/CNT and H2&#8211;Co/CNT catalysts, while the 3-Co/CNT and 2-Co/CNT catalysts were almost unaffected by the solution's acidity. We hope that our research will provide a theoretical foundation for designing more effective CO2 reduction electrocatalysts.</description>
-      <author>Qisen Guo, Guilin Zhang, Yang Wu, Xiaoqin Liang, Laicai Li, Jiajia Yang</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c08246</guid>
-    </item>
-    <item>
-      <title>Elucidating the Catalytic Valorization of Ethanol over Hydroxyapatite for Sustainable Butanol Production: A First-Principles Mechanistic Study</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03937</link>
-      <description>Albert F. B. Bittencourt, Gustavo Paim Valen&#231;a, Juarez L. F. Da Silva, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4401735142
-
-                The widespread concern about the burning of fossil fuels and its effects on the environment has driven our research efforts toward sustainable energy solutions. As a result, there is a strong drive to improve the eco-friendly production of chemical compounds sourced from renewable resources. Here, we report a first-principle mechanistic study of the conversion of ethanol to butanol using a hydroxyapatite (HAP) catalyst. Basically, we combined density functional theory calculations, the unity bond index-quadratic exponential potential approximation to analyze the reaction mechanism, and microkinetic simulations to address the influence of the kinetic parameters on the chemical distribution of formed species on the HAP catalyst. From our calculations and analyses, the sequence of elementary reaction steps follows the Guerbet reaction pathway, which involves ethanol dehydrogenation, aldol condensation, and subsequent hydrogenation steps. The results indicate that the bifunctional nature of the HAP surface is key to facilitate the initial dehydrogenation of ethanol and subsequent C&#8211;C coupling via aldol condensation, determining reactions to the formation of C4 species. Furthermore, microkinetic analysis shows that butanol is the main product, with minimal formation of other C4 byproducts. However, higher initial ethanol coverages decrease the rate of conversion because of limited active sites. The conversion of the aldol intermediate is crucial for efficient butanol production. These findings provide valuable information for the future development of HAP-based catalysts for sustainable biofuel production.</description>
-      <author>Albert F. B. Bittencourt, Gustavo Paim Valen&#231;a, Juarez L. F. Da Silva</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03937</guid>
-    </item>
-    <item>
-      <title>Self-supported porous carbon decorated with coralline RuCo alloy for efficient OER in acid</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.08.262</link>
-      <description>Hairui Cai, Nan Jiang, Laifei Xiong, Fanfan Shang, Jie Hou, Yichao Lin, Chao Li, Xiaojing Zhang, Di Su, Shengchun Yang, International Journal of Hydrogen Energy. 84(None)] 2024. https://openalex.org/W4401741205
-
-                No abstract</description>
-      <author>Hairui Cai, Nan Jiang, Laifei Xiong, Fanfan Shang, Jie Hou, Yichao Lin, Chao Li, Xiaojing Zhang, Di Su, Shengchun Yang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.262</guid>
-    </item>
-    <item>
-      <title>In Situ Controllably Self&#8208;Assembled CoFe&#8208;TDPAT Metal&#8211;Organic Framework Nanosheet Arrays on Iron Foam as Highly Efficient Bifunctional Catalytic Electrodes for Overall Water Splitting at Large Current Density</title>
-      <link>https://doi.org/10.1002/adfm.202411904</link>
-      <description>Weiguang Hu, Chun-Hou Zheng, Xiaoyan Wang, Jianguo L&#252;, Qinggang He, Yehai Yan, Weiyong Yuan, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4401742395
-
-                Abstract For the first time, a Co and Fe bimetallic metal&#8208;organic framework (BMOF) nanosheet array (NSA) employing 5,5&#8242;,5&#8242;'&#8208;(1,3,5&#8208;triazine&#8208;2,4,6&#8208;triyl)tris(azanediyl)triisophthalic acid (H 6 TDPAT) as the organic ligand is in situ controllably self&#8208;assembled on iron foam (IF). The obtained IF@CoFe&#8208;TDPAT NSA exhibits an oxygen evolution reaction (OER) activity much superior to most reported catalysts and even Ru and Ir&#8208;based ones and hydrogen evolution reaction (HER) activity higher than most metal&#8208;organic framework (MOF)&#8208;based catalysts. The excellent bifunctional activities are ascribed to the superhydrophilic (3D) vertically aligned, interconnected NSA of CoFe&#8208;TDPAT MOF with in situ activated coordinatively unsaturated metal sites remarkably enhancing OH &#8722; and H 2 O adsorption, accelerating electron transfer and transport, and facilitating O 2 /H 2 diffusion. When adopted as a bifunctional electrode for overall water splitting, it achieves 300 mA cm &#8722;2 at 1.753 V and exhibits negligible current decay after 100 h. This performance is the highest of recently reported noble&#8208;metal&#8208;free water electrolyzers, and even much higher than those using commercial noble metal&#8208;based catalysts. This work offers an economical, facile, and controllable strategy to fabricate low&#8208;cost, highly efficient, and bifunctional BMOF nanostructured array electrodes for large&#8208;current&#8208;density water splitting, and also sheds light on the mechanisms for in situ self&#8208;assembly and outstanding OER and HER performance of 3D free&#8208;standing complex&#8208;organic&#8208;ligand&#8208;based BMOF nanoarchitectures.</description>
-      <author>Weiguang Hu, Chun-Hou Zheng, Xiaoyan Wang, Jianguo L&#252;, Qinggang He, Yehai Yan, Weiyong Yuan</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202411904</guid>
-    </item>
-    <item>
-      <title>Composition-dependent catalytic performance of AuxAg25-x alloy nanoclusters for oxygen reduction reaction</title>
-      <link>https://doi.org/10.1007/s12274-024-6875-z</link>
-      <description>Chuan Mu, Biao Wang, Qiaofeng Yao, He Qian, Jianping Xie, Nano Research. None(None)] 2024. https://openalex.org/W4401751341
-
-                No abstract</description>
-      <author>Chuan Mu, Biao Wang, Qiaofeng Yao, He Qian, Jianping Xie</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6875-z</guid>
-    </item>
-    <item>
-      <title>Oxidation of Aminoacetaldehyde Initiated by the OH Radical: A Theoretical Mechanistic and Kinetic Study</title>
-      <link>https://doi.org/10.3390/atmos15081011</link>
-      <description>Ashraful Alam, Gabriel da Silva, Atmosphere. 15(8)] 2024. https://openalex.org/W4401765164
-
-                Aminoacetaldehyde (glycinal, NH2CH2CHO) is a first-generation oxidation product of monoethanolamine (MEA, NH2CH2CH2OH), a solvent widely used for CO2 gas separation, which is proposed as the basis for a range of carbon capture technologies. A complete oxidation mechanism for MEA is required to understand the atmospheric transformation of carbon capture plant emissions, as well as the degradation of this solvent during its use and the oxidative destruction of waste solvent. In this study, we have investigated the &#8226;OH radical-initiated oxidation chemistry of aminoacetaldehyde using quantum chemical calculations and RRKM theory/master equation kinetic modeling. This work predicts that aminoacetaldehyde has a tropospheric lifetime of around 6 h and that the reaction predominantly produces the NH2CH2C&#8226;O radical intermediate at room temperature, along with minor contributions from NH2&#8226;CHCHO and &#8226;NHCH2CHO. The dominant radical intermediate NH2CH2C&#8226;O is predicted to promptly dissociate to NH2&#8226;CH2 and CO, where NH2&#8226;CH2 is known to react with O2 under tropospheric conditions to form the imine NH = CH2 + HO2. The NH2&#8226;CHCHO radical experiences captodative stabilization and is found to form a weakly bound peroxyl radical upon reaction with O2. Instead, the major oxidation product of NH2&#8226;CHCHO and the aminyl radical &#8226;NHCH2CHO is the imine NH = CHCHO (+HO2). In the atmosphere, the dominant fate of imine compounds is thought to be hydrolysis, where NH = CH2 will form ammonia and formaldehyde, and NH = CHCHO will produce ammonia and glyoxal. Efficient conversion of the dominant first-generation oxidation products of MEA to ammonia is consistent with field observations and supports the important role of imine intermediates in MEA oxidation.</description>
-      <author>Ashraful Alam, Gabriel da Silva</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/atmos15081011</guid>
-    </item>
-    <item>
-      <title>Electrochemical Kinetics of Multistep Reactions in General and the HOR/HER on Platinum in Particular</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-n79xj-v2</link>
-      <description>Benedikt Axel Brandes, Christodoulos Chatzichristodoulou, No host. None(None)] 2024. https://openalex.org/W4401771576
-
-                While multistep reactions in electrochemistry are ubiquitous, their analytical treatment has been incomplete and at times misleading. Several misconceptions have led to incorrect conclusions, derailing the analysis of electrochemical processes. In this work we present a rigorous application of the Butler-Volmer model and develop a coherent nomenclature and methodology on how to analyze multistep reactions. We discuss how a universal definition of the exchange current density does not exist for multistep reactions, clarify the meaning of the Tafel slope, often misinterpreted in the electrochemical literature. Eventually we discuss the classically proposed HOR/HER mechanisms on platinum, briefly discuss their origin, show how mass transport effects should be correctly analyzed by introduce a new equation that complements the Kouteck&#253;-Levich equation in the micropolarization region. We then perform a thorough experimental investigation of the HOR/HER kinetics over a wide range of combination of cations, anions, concentration, and buffers. There we reveal that buffers seem to take directly part in the HOR/HER and discuss the supposed &#8220;cation-effect&#8221;. Through the analysis of the micropolarization, Tafel region, and kinetics of the H-upd we propose a new mechanistic description of the HOR/HER with substantial experimental agreement and discuss how anions in the interface play a deciding role in the HOR/HER and H-upd on polycrystalline platinum.</description>
-      <author>Benedikt Axel Brandes, Christodoulos Chatzichristodoulou</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-n79xj-v2</guid>
-    </item>
-    <item>
-      <title>On the wellposedness for a fuel cell problem</title>
-      <link>https://doi.org/10.33044/revuma.3697</link>
-      <description>Luisa Consiglieri, Revista de la Uni&#243;n Matem&#225;tica Argentina. None(None)] 2024. https://openalex.org/W4401793242
-
-                This paper investigates the existence of weak solutions to two problem sets of elliptic equations in adjoining domains, with Beavers-Joseph-Saffman and regularized Butler-Volmer boundary conditions being prescribed on the common interfaces, porous-fluid and membrane, respectively.Mathematically, the modeling tool is the coupled Stokes/Darcy system, completed by the thermoelectrochemical (TEC) system, in the multiregion domain.The Stokes/Darcy system consists of the Stokes equation on one part of the domain coupled to the Darcy equation, where the flow velocities are small and mainly driven by the pressure gradient in porous medium.The TEC system consists of the energy equation and the mass transport associated with electrochemical reactions, where the fluxes are given by generalized Fourier, Fick and Ohm laws, by including the Dufour-Soret and Peltier-Seebeck cross effects.The present model includes macrohomogeneous models for both hydrogen and methanol crossover.The novelty in the presented model lies in the presence of the Joule effect into the Stokes/Darcy-TEC system altogether to the quasilinear character given by temperature dependence of the physical parameters such as the viscosities and the diffusion coefficients, by the concentration-temperature dependence of cross-effect coefficients, and by the pressure dependence of the permeability.The purpose of the present work is to derive quantitative estimates of the solutions to clarify smallness conditions on the data.We use fixed point and compactness arguments based on the quantitative estimates of approximated solutions.</description>
-      <author>Luisa Consiglieri</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.33044/revuma.3697</guid>
-    </item>
-    <item>
-      <title>Controlled Defective Engineering on CuIr Catalyst Promotes Nitrate Selective Reduction to Ammonia</title>
-      <link>https://doi.org/10.1021/acsnano.4c05772</link>
-      <description>Xiaotian Guo, Jidong Yu, Shijie Ren, Rui&#8208;Ting Gao, Limin Wu, Lei Wang, ACS Nano. None(None)] 2024. https://openalex.org/W4401793891
-
-                Electrochemical nitrate reduction reaction (NO</description>
-      <author>Xiaotian Guo, Jidong Yu, Shijie Ren, Rui&#8208;Ting Gao, Limin Wu, Lei Wang</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c05772</guid>
-    </item>
-    <item>
-      <title>Solution-plasma interaction for synthesizing highly active Pt&#8211;Ni alloy oxygen reduction nanocatalysts for PEMFCs</title>
-      <link>https://doi.org/10.1039/d4cc03008g</link>
-      <description>Shuxiu Yang, Yu Tang, Yawen Tan, Baoqin Fu, Mingyang Liu, Qingzhu Shu, Shuhong Liu, Hong Zhao, Chemical Communications. None(None)] 2024. https://openalex.org/W4401794352
-
-                A highly active PtNi-alloy catalyst (</description>
-      <author>Shuxiu Yang, Yu Tang, Yawen Tan, Baoqin Fu, Mingyang Liu, Qingzhu Shu, Shuhong Liu, Hong Zhao</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc03008g</guid>
     </item>
     <item>
       <title>High-efficiency photocatalyst and high-response ultraviolet photodetector based on the Ga2SSe@GaN heterojunctions</title>
@@ -438,16 +278,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.165</guid>
     </item>
     <item>
-      <title>Cu-S Planes in a Metal-Organic Framework for Selective Electrochemical Conversion of CO2 to Formate</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-trn26</link>
-      <description>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, A. Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri, No host. None(None)] 2024. https://openalex.org/W4401797419
-
-                The electrochemical reduction of CO2 into value-added chemicals is pivotal for advancing toward carbon neutrality and sustainable energy sources. However, achieving high selectivity for specific products remains challenging due to numerous potential reaction pathways. In this work, we present an innovative copper-sulfur planar structure, Cu-S-BDC, within a metal-organic framework (MOF) catalyst, which demonstrates remarkable selectivity towards formate as the sole carbon product. Notably, it achieves a 59% Faradaic efficiency (FE) for formate at -0.4 V vs. the reversible hydrogen electrode (RHE) in a 1 M KOH electrolyte. The reaction mechanism uncovers that the Cu-S catalytic sites within the MOF stabilize the HCOO* intermediate, thereby facilitating selective formate production. Additionally, we elucidate the electronic properties of the MOF, revealing a narrow band gap of 1.203 eV, which enhances the charge transfer within the quasi-2D inorganic building unit structure of the MOF and consequently increases the electrochemical reaction current density. This study highlights the potential of engineering the metal coordination environment within MOFs to enhance both product selectivity and conductivity in electrochemical CO2 reduction.</description>
-      <author>Khatereh Roohi, Mohammad Soleimani, Nabil Khossossi, Stefano Canossa, A. Kosari, Seyedamirhossein Mohseni Armaki, Majid Ahmadi, Ewout van der Veer, Mahinder Ramdin, Prasaanth Ravi Anusuyadevi, Prasad Gonugunta, J.M.C. Mol, Poulumi Dey, Peyman Taheri</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-trn26</guid>
-    </item>
-    <item>
       <title>Ultrafine ruthenium-based nanoclusters regulated by a three-phase heterogeneous interface exhibiting superior mass activity for alkaline hydrogen evolution</title>
       <link>https://doi.org/10.1016/j.electacta.2024.144953</link>
       <description>Xinyu Zhu, Minghao Fang, Bozhi Yang, Shujie Yang, Jie Li, Yanghong Li, Manjun Zhan, Xin Min, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4401829933
@@ -486,16 +316,6 @@
       <author/>
       <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/bk9781837674497-part2</guid>
-    </item>
-    <item>
-      <title>Neural Network-Driven Smart City Security Monitoring in Beijing Multimodal Data Integration and Real-Time Anomaly Detection</title>
-      <link>https://doi.org/10.62051/ijcsit.v3n3.11</link>
-      <description>Yao Yao, International Journal of Computer Science and Information Technology. 3(3)] 2024. https://openalex.org/W4401767742
-
-                Our study presents the development and implementation of a neural network-based smart city security monitoring system tailored for the urban environment of Beijing. Leveraging multimodal data integration, the system processes over 1,200 hours of video footage, 800 hours of audio recordings, and 400 hours of thermal data to provide comprehensive surveillance and real-time anomaly detection. The system achieved high accuracy rates of 96% for overcrowding detection, 93% for unauthorized access, and 90% for unattended objects, with corresponding precision rates of 96%, 95%, and 93%. The recall rates were slightly lower, at 89%, 87%, and 85%, respectively. Our system's implementation of edge computing enabled rapid response times, recorded at 1.5 seconds for subway stations, 2.0 seconds for Tiananmen Square, and 1.2 seconds for public transport hubs. These results underscore the system's effectiveness in delivering real-time monitoring and timely alerts, crucial for managing high-density areas and critical infrastructure in Beijing. The integration of advanced AI techniques, including transfer learning and Generative Adversarial Networks (GANs), further enhanced the system's adaptability and robustness in detecting rare and unlabeled events. This study highlights the system's potential to significantly improve urban security infrastructure, offering a scalable and efficient solution for smart city applications.</description>
-      <author>Yao Yao</author>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.62051/ijcsit.v3n3.11</guid>
     </item>
     <item>
       <title>Scalable Low-Temperature CO&lt;sub&gt;2&lt;/sub&gt; Electrolysis: Current Status and Outlook</title>

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Aug 2024 01:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 01:15:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Nonlinear model predictive control for mode&#8208;switching operation of reversible solid oxide cell systems</title>
-      <link>https://doi.org/10.1002/aic.18550</link>
-      <description>Mingrui Li, Douglas A. Allan, San Dinh, Debangsu Bhattacharyya, Vibhav Dabadghao, Nishant Giridhar, Stephen E. Zitney, Lorenz T. Biegler, AIChE Journal. None(None)] 2024. https://openalex.org/W4401779733
-
-                Abstract Solid oxide cells (SOCs) are a promising dual&#8208;mode technology for the production of hydrogen through high&#8208;temperature water electrolysis, and the generation of power through a fuel cell reaction that consumes hydrogen. Switching between these two modes as the price of electricity fluctuates requires reversible SOC operation and accurate tracking of hydrogen and power production set points. Moreover, a well&#8208;functioning control system is important to avoid cell degradation during mode&#8208;switching operation. In this article, we apply nonlinear model predictive control (NMPC) to an SOC module and supporting equipment and compare NMPC performance to classical proportional&#8208;integral (PI) control strategies, while switching between the modes of hydrogen and power production. While both control methods provide similar performance across various metrics during mode switching, NMPC demonstrates a significant advantage in reducing cell thermal gradients and curvatures (mixed spatial&#8208;temporal partial derivatives), thereby helping to mitigate long&#8208;term degradation.</description>
-      <author>Mingrui Li, Douglas A. Allan, San Dinh, Debangsu Bhattacharyya, Vibhav Dabadghao, Nishant Giridhar, Stephen E. Zitney, Lorenz T. Biegler</author>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18550</guid>
-    </item>
     <item>
       <title>Membrane-based Carbon Capture Process Optimization using CFD Modeling</title>
       <link>https://doi.org/10.2172/2432376</link>
@@ -26,16 +16,6 @@
       <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2432376</guid>
-    </item>
-    <item>
-      <title>Optimization in Engineering with Embedded Linear Model Decision Trees</title>
-      <link>https://doi.org/10.2172/2430593</link>
-      <description>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Taehun Kim, Michael Bynum, William E. Hart, Joshua L. Pulsipher, Carl D. Laird, No host. None(None)] 2023. https://openalex.org/W4401795919
-
-                No abstract</description>
-      <author>Bashar Ammari, Emma S. Johnson, Georgia Stinchfield, Taehun Kim, Michael Bynum, William E. Hart, Joshua L. Pulsipher, Carl D. Laird</author>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2430593</guid>
     </item>
     <item>
       <title>Progressive relaxations for efficient determination of conservative design spaces</title>
