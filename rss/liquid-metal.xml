@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 Aug 2024 01:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 01:26:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>From CO2 to solid carbon: reaction mechanism, active species, and conditioning the Ce-alloyed GaInSn catalyst</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-1t2ss</link>
-      <description>Daniel L&#246;rch, Aya Gomaa Abdelkader Mohamed, Holger Euchner, J. David Timm, Jonas Hiller, Peter Bogdanoff, Matthias M. May, No host. None(None)] 2024. https://openalex.org/W4401814905
-
-                The electrochemical reduction of CO2 is a promising realisation of negative emissions to mitigate climate change, aiming at the efficient production and safe longterm storage of carbon-rich sink products. This approach, however, necessitates novel catalyst materials specifically targeting electrochemical carbon dioxide removal. In this work, we investigate synthesis routes for a cerium-incorporated GaInSn-based liquid metal catalyst, focusing on the electrochemical production of graphitic carbon. Preparation and preconditioning of the catalyst are found to be crucial for carbon production, while trace amounts of H2O and OH in the organic electrolyte play a decisive role for the efficiency of the electrocatalytic process. Finally, for a better understanding of the reaction mechanism and the involved active species, experimental findings and density functional theory-based calculations are combined, suggesting a two-step reduction pathway with Ce(OH)x as the catalytically active surface species.</description>
-      <author>Daniel L&#246;rch, Aya Gomaa Abdelkader Mohamed, Holger Euchner, J. David Timm, Jonas Hiller, Peter Bogdanoff, Matthias M. May</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-1t2ss</guid>
-    </item>
   </channel>
 </rss>

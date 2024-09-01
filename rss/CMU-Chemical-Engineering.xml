@@ -4,38 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 Aug 2024 01:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 01:26:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Membrane-based Carbon Capture Process Optimization using CFD Modeling</title>
-      <link>https://doi.org/10.2172/2432376</link>
-      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4401830824
-
-                No abstract</description>
-      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2432376</guid>
-    </item>
-    <item>
-      <title>Progressive relaxations for efficient determination of conservative design spaces</title>
-      <link>https://doi.org/10.2172/2432198</link>
-      <description>Daniel J. Laky, Michael Bynum, Shankar Vaidyaraman, Salvador Garc&#237;a&#8208;Mu&#241;oz, Carl D. Laird, No host. None(None)] 2023. https://openalex.org/W4401830628
-
-                No abstract</description>
-      <author>Daniel J. Laky, Michael Bynum, Shankar Vaidyaraman, Salvador Garc&#237;a&#8208;Mu&#241;oz, Carl D. Laird</author>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2432198</guid>
-    </item>
-    <item>
-      <title>Machine Learning Surrogates with OMLT and IDAES for Improved Design and Analysis of Energy Systems</title>
-      <link>https://doi.org/10.2172/2432248</link>
-      <description>Bashar Ammari, Francesco Ceccon, Jordan Jalving, Joshua Haddad, Alexander Thebelt, Calvin Tsay, Michael Bynum, Carl D. Laird, Ruth Misener, No host. None(None)] 2022. https://openalex.org/W4401830542
-
-                No abstract</description>
-      <author>Bashar Ammari, Francesco Ceccon, Jordan Jalving, Joshua Haddad, Alexander Thebelt, Calvin Tsay, Michael Bynum, Carl D. Laird, Ruth Misener</author>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2432248</guid>
-    </item>
   </channel>
 </rss>

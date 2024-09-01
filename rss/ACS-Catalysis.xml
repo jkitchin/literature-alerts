@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 Aug 2024 01:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 01:26:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>On the pH Dependency of the Catalysis by a Lytic Polysaccharide Monooxygenase from the Fungus &lt;i&gt;Trichoderma reesei&lt;/i&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c03041</link>
-      <description>Silja Kuusk, Maarja Lipp, Surabhi Mahajan, Priit V&#228;ljam&#228;e, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401801713
-
-                Lytic polysaccharide monooxygenases (LPMOs) catalyze the oxidative cleavage of glycosidic bonds in industrially important polysaccharides like cellulose. The activity of these monocopper enzymes depends on the presence of H2O2 cosubstrate and reductant. Besides the polysaccharide peroxygenase reaction, LPMOs catalyze reductant oxidase and peroxidase side reactions. The multiplicity and interplay between different LPMO reactions hamper the interpretation of the kinetic data, which is best reflected by the scarcity of the studies of the pH dependency of the LPMO catalysis. Here, we studied the pH dependency of the reductant oxidase/peroxidase as well as the cellulose peroxygenase reactions of TrAA9A, an LPMO from the fungus Trichoderma reesei. The pH dependency of reductant oxidase/peroxidase reaction was governed by the rate-limiting step (reduction of LPMO-Cu(II) or reoxidation of LPMO-Cu(I)) depending on the experimental conditions. The pH dependency of the kcat and Km(H2O2) of the cellulose peroxygenase reaction was best described by the single base catalysis with pKa around 3.5&#8211;4.0. Experiments made in D2O showed isotope effects but only at pD values below 5.0. The conserved second coordination sphere histidine (His163) is the most probable candidate responsible for shaping the pH dependency of the TrAA9A peroxygenase reaction. We propose that the double protonation of His163 at acidic pH alters its conformation to the catalytically incompetent one. However, the little pH dependency of the kcat/Km(H2O2) of the cellulose peroxygenase reaction suggests that at very low H2O2 concentrations, TrAA9A may be efficient catalyst also in the acidic conditions that prevail in fungal habitats.</description>
-      <author>Silja Kuusk, Maarja Lipp, Surabhi Mahajan, Priit V&#228;ljam&#228;e</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03041</guid>
-    </item>
-    <item>
-      <title>Regioselective Enzymatic Galactosylation Enabled Divergent Synthesis of Asymmetrical Biantennary Human Milk Oligosaccharides</title>
-      <link>https://doi.org/10.1021/acscatal.4c03373</link>
-      <description>Hui Xia, Kan Zhong, Yun Li, Jinfeng Ye, Sheng Wang, Chao Cai, Wanmeng Mu, Changcheng Liu, Hongzhi Cao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401811657
-
-                Human milk oligosaccharides (HMOs) are essential nutritional and bioactive components of human breast milk, conferring numerous beneficial effects on neonatal health. The HMO repertoire comprises over 200 unique glycan structures, and more than half of them are branched oligosaccharides. Owing to the structural diversity and complexity, the synthesis of branched HMOs remains challenging, which significantly hinders their functional study. We herein present a highly efficient biomimetic approach for the rapid and scaled-up chemoenzymatic synthesis of asymmetrical biantennary HMOs. Taking advantage of the inherent regioselectivity of a panel of bacterial galactosyltransferases, two asymmetrical branched pentasaccharide intermediates were obtained through the regioselective enzymatic &#946;1,3- or &#946;1,4-galactosylation of a readily available chemically synthesized biantennary symmetrical tetrasaccharide precursor. The two asymmetrical pentasaccharide intermediates were further diversified by sequential multienzyme cascade reactions to afford a library of over 20 structurally well-defined asymmetrical biantennary lacto-N-hexaose (LNH) and lacto-N-neo-hexaose (LNnH) series HMOs in less than 5 linear steps.</description>
-      <author>Hui Xia, Kan Zhong, Yun Li, Jinfeng Ye, Sheng Wang, Chao Cai, Wanmeng Mu, Changcheng Liu, Hongzhi Cao</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03373</guid>
-    </item>
-    <item>
-      <title>Computational Insights for Electrocatalytic Synthesis of Glycine</title>
-      <link>https://doi.org/10.1021/acscatal.4c04263</link>
-      <description>Jian Lin, Jun Long, Xiaoyan Fu, Dong Luan, Pu Guo, Huijuan Jing, Huan Li, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401813492
-
-                No abstract</description>
-      <author>Jian Lin, Jun Long, Xiaoyan Fu, Dong Luan, Pu Guo, Huijuan Jing, Huan Li, Jianping Xiao</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04263</guid>
-    </item>
-    <item>
-      <title>Photochemical Asymmetric Palladium-Catalyzed Allylation Reaction: Expeditious Entry to Chiral 1,2-Amino Alcohols and 1,2-Diamines</title>
-      <link>https://doi.org/10.1021/acscatal.4c04209</link>
-      <description>Hui Xie, Haohua Chen, Uttam Dutta, Yu Lan, Bernhard Breit, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401821535
-
-                The construction of diverse alkyl amines is of importance in drug discovery and natural product synthesis. Herein, we report an efficient photoredox/palladium dual catalysis for the construction of protected 1,2-amino alcohols and 1,2-diamines via the asymmetric allylation of &#945;-silyl amines with heteroatom-substituted allenes and 1,3-dienes. This protocol is characterized by its mild conditions, high regio- and enantioselectivities, and wide substrate scope, including aliphatic amines or N-heterocyclic substrates especially. Computational and experimental mechanistic studies indicate that the reaction proceeds through a sequence of oxidative addition of the Pd(0) catalyst by PPTS, allene insertion, outer-sphere radical substitution-type C&#8211;C bond formation, and reduction of Pd(I) by Ir(II). Thereinto, the outer-sphere radical substitution is the enantio- and regioselectivity determining step.</description>
-      <author>Hui Xie, Haohua Chen, Uttam Dutta, Yu Lan, Bernhard Breit</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04209</guid>
-    </item>
     <item>
       <title>Nitrogen-Rich Carbon Dots as Effective Catalysts in the 1,4-Reduction of &#945;,&#946;-Unsaturated Aldehydes via Ion Pair Asymmetric Nano-Organocatalysis</title>
       <link>https://doi.org/10.1021/acscatal.4c03532</link>
@@ -56,36 +16,6 @@
       <author>Alessio Carioscia, Emanuele Cocco, Maria Edith Casacchia, Giuseppe Gentile, Martina Mamone, Giuliana Giorgianni, Elena Incerto, Maurizio Prato, Fabio Pesciaioli, Giacomo Filippini, Armando Carlone</author>
       <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03532</guid>
-    </item>
-    <item>
-      <title>Confined Intermediates Boost C2+ Selectivity in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c02823</link>
-      <description>Wanhe Li, Yahui Chen, Chengqi Guo, Shuhan Jia, Yiying Zhou, Zhonghuan Liu, Enhui Jiang, Xiaoke Chen, Yue Zou, Pengwei Huo, Yongsheng Yan, Zhi Zhu, Yun Hau Ng, Yanjun Gong, John C. Crittenden, Yan Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401804406
-
-                Addressing the efficient electrochemical conversion of CO2 (CO2RR) into valuable multicarbon (C2+) products necessitates innovative strategies to boost carbon (C1) intermediate coupling on catalyst surfaces. In this work, we introduce a surface-confinement strategy on Cu2O nanoparticles by long alkyl chain grafting to create a spatially confined environment, impeding C1 intermediate detachment and promoting C&#8211;C coupling in the CO2RR. The optimized C12&#8211;Cu2O sample exhibits a Faradaic efficiency (FE) over 63.0% for C2H4, more than double the yield of pristine Cu2O (FE = 25.7%). In situ ATR-FTIR spectroscopy provides direct evidence of rapid C1 intermediate enrichment and restricted diffusion within the surface-confined environment. Molecular dynamics simulations further support these findings by identifying a prolonged residency time that is proportionate to the alkyl chain length, thereby maximizing C2+ selectivity. This surface-confinement approach marks a previously overlooked but immensely promising paradigm in the catalyst design for the CO2RR.</description>
-      <author>Wanhe Li, Yahui Chen, Chengqi Guo, Shuhan Jia, Yiying Zhou, Zhonghuan Liu, Enhui Jiang, Xiaoke Chen, Yue Zou, Pengwei Huo, Yongsheng Yan, Zhi Zhu, Yun Hau Ng, Yanjun Gong, John C. Crittenden, Yan Yan</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02823</guid>
-    </item>
-    <item>
-      <title>Highly Stereoselective Biocatalytic One-Pot Synthesis of Chiral Saturated Oxygen Heterocycles by Integration of a Biosynthetic Heterocyclase into Multiple-Enzyme Cascades</title>
-      <link>https://doi.org/10.1021/acscatal.4c03692</link>
-      <description>Theresa Ro&#223;-Taschner, Sebastian Derra, J&#246;rg Stang, Luca Schlotte, Anthony Putratama, Frank Hahn, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401805036
-
-                The secondary metabolism is a rich source of enzymes with new synthetically attractive activities that have not yet been integrated into the toolbox of biocatalysis. Chiral saturated oxygen heterocycles (CSOHs) are abundant structural elements of natural products and other value-added compounds. We present a biocatalytic method for the synthesis of CSOHs from readily accessible precursors that combines an intramolecular oxa-Michael addition (IMOMA)-catalyzing cyclase (CYC) from a biosynthetic pathway with alcohol dehydrogenases (ADHs) and thioester-derivatizing enzymes. The one-pot ADH&#8211;CYC reaction enables access to various tetrahydropyran (THP) and tetrahydrofuran thioesters under control of up to four stereocenters. These products are readily convertible into useful CSOH ketone, amide, aldehyde/alcohol, ester, and carboxylic acid building blocks by chemical and enzymatic means. The extendibility to more complex multienzyme cascades was demonstrated by the addition of a thioesterase and a carboxylic acid reductase, allowing the straightforward chemoenzymatic synthesis of the natural product (&#8722;)-civet, a new derivative, and a THP alcohol. The integration of IMOMA cyclases into enzymatic cascades allows better exploitation of the high synthetic potential of this new group of ring-forming enzymes and expands the repertoire for the synthesis of pharmacologically relevant CSOHs as a highly selective and versatile alternative. This approach will be adaptable for the synthesis of a wide range of CSOHs by varying ADHs, IMOMA cyclases, and modifying enzymes.</description>
-      <author>Theresa Ro&#223;-Taschner, Sebastian Derra, J&#246;rg Stang, Luca Schlotte, Anthony Putratama, Frank Hahn</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03692</guid>
-    </item>
-    <item>
-      <title>A Career in Catalysis: Mark E. Davis</title>
-      <link>https://doi.org/10.1021/acscatal.4c03617</link>
-      <description>Juan P. Arhancet, Cong-Yan Chen, Viktor J. Cybulskis, Rajamani Gounder, Suk Bong Hong, Christopher W. Jones, Jong Hun Kang, Yoshihiro Kubota, Hyunjoo Lee, Marat Orazov, Yuriy Rom&#225;n&#8208;Leshkov, Joel E. Schmidt, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401813537
-
-                Mark E. Davis led an independent research program from 1981 to 2023, beginning at the Virginia Polytechnic Institute and State University (VPI) and then transitioning to the California Institute of Technology (Caltech). His research program was marked by exceptional creativity, breadth, and depth. With classical training in reaction engineering, Davis developed expertise in experimental heterogeneous catalysis and led work in this discipline for more than 40 years. His name is synonymous with zeolites, and today, he is one of the most widely recognized experts in zeolite synthesis, characterization, and catalysis in the world. Early work at the VPI focused on zeolites and catalysis with supported metal coordination complexes. His creativity was evident at the earliest stages of his career, with the development of supported aqueous phase catalysts and the world's first crystalline, extra-large pore molecular sieve, both reported in the late 1980s. A move to Caltech saw a significant expansion of his zeolite synthesis program and the rapid acceleration of a multidecade collaboration with Dr. Stacey I. Zones of Chevron. At Caltech, his work expanded to include studies of molecular recognition and catalysis with organic/inorganic hybrid materials, and he developed a large, parallel program in drug delivery. His work on catalysis heavily emphasized zeolite catalysis, including major thrusts on the conversion of sugars in the liquid phase and methanol in the gas phase. Numerous new zeolites and molecular sieves were discovered throughout the four decades of the Davis laboratory, highlighted by a successful, multidecade quest to prepare a chiral zeolite with enantioselective catalytic properties. Davis is one of the most decorated researchers of the last four decades. He is one of only 21 living people currently elected to all of the US National Academies (Engineering, Science, Medicine) and elected as a Fellow of the National Academy of Inventors. He was the first engineer to win the NSF's Alan T. Waterman Award and is one of only two researchers (to date) to win the International Zeolite Association's Donald Breck Award twice (1989, 2019). Awards from the ACS (Ipatieff, Murphree, and Somorjai Awards), AIChE (Colburn, Professional Progress Awards), and North American Catalysis Society (Emmett Award) are among his accolades.</description>
-      <author>Juan P. Arhancet, Cong-Yan Chen, Viktor J. Cybulskis, Rajamani Gounder, Suk Bong Hong, Christopher W. Jones, Jong Hun Kang, Yoshihiro Kubota, Hyunjoo Lee, Marat Orazov, Yuriy Rom&#225;n&#8208;Leshkov, Joel E. Schmidt</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03617</guid>
     </item>
   </channel>
 </rss>
