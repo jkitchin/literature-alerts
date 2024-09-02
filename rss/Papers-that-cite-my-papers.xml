@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Sep 2024 01:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 01:17:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Coupling High&#8208;Entropy Core with Rh Shell for Efficient pH&#8208;Universal Hydrogen Evolution</title>
-      <link>https://doi.org/10.1002/smll.202403353</link>
-      <description>Min Wei, Yuyan Sun, Junyu Zhang, Jianrong Zeng, Jike Wang, Small. None(None)] 2024. https://openalex.org/W4401844907
-
-                Abstract Constructing high&#8208;entropy alloys (HEAs) with core&#8211;shell (CS) nanostructure is efficient for enhancing catalytic activity. However, it is extremely challenging to incorporate the CS structure with HEAs. Herein, PtCoNiMoRh@Rh CS nanoparticles (PtCoNiMoRh@Rh) with &#8764;5.7 nm for pH&#8208;universal hydrogen evolution reaction (HER) are reported for the first time. The PtCoNiMoRh@Rh just require 9.1, 24.9, and 17.1 mV to achieve &#8722;10 mA cm &#8722;2 in acid, neutral, and alkaline electrolyte, and the corresponding mass activity are 5.8, 2.79, and 91.8 times higher than that of Rh/C. Comparing to PtCoNiMoRh nanoparticles, the PtCoNiMoRh@Rh exhibit excellent HER activity attributed to the decrease of Rh 4d especially 4d 5/2 unoccupied state induced by the multi&#8208;active sites in HEA, as well as the synergistic effect in Rh shell and HEA core. Theorical calculation exhibits that Rh&#8208;d yz , d x2 , and d xz orbitals experience a negative shift with shell thickness increasing. The HEAs with CS structure would facilitate the rational design of high&#8208;performance HEAs catalysts.</description>
-      <author>Min Wei, Yuyan Sun, Junyu Zhang, Jianrong Zeng, Jike Wang</author>
-      <pubDate>Sat, 24 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202403353</guid>
-    </item>
-    <item>
-      <title>tosr: Create the Tree of Science from WoS and Scopus</title>
-      <link>https://doi.org/10.5530/jscires.13.2.36</link>
-      <description>Sebasti&#225;n Robledo, Luis Eduardo Pel&#225;ez Valencia, Martha Zuluaga, &#211;scar Echeverri, Jorge William Arboleda Valencia, Journal of Scientometric Research. 13(2)] 2024. https://openalex.org/W4401845777
-
-                Sebastian Robledo1, Luis Valencia2, Martha Zuluaga1, Oscar Arbelaez Echeverri3 and Jorge W. Arboleda Valencia45 Author informationPDFCitations 1Direcci&#243;n Acad&#233;mica, Universidad Nacional de Colombia, Sede de La Paz, Cesar, COLOMBIA 2Centro de Bioinform&#225;tica y Biolog&#237;a Computacional de Colombia &#8211; BIOS, COLOMBIA 3Core of Science, IRELAND 4FITOBIOL, Instituto de Biolog&#237;a, Facultad de Ciencias Exactas y Naturales, Universidad de</description>
-      <author>Sebasti&#225;n Robledo, Luis Eduardo Pel&#225;ez Valencia, Martha Zuluaga, &#211;scar Echeverri, Jorge William Arboleda Valencia</author>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5530/jscires.13.2.36</guid>
-    </item>
-    <item>
-      <title>Molecular dynamics of liquid&#8211;electrode interface by integrating &lt;scp&gt;Coulomb&lt;/scp&gt; interaction into universal neural network potential</title>
-      <link>https://doi.org/10.1002/jcc.27487</link>
-      <description>Kaoru Hisama, Gerardo Valadez Huerta, Michihisa Koyama, Journal of Computational Chemistry. None(None)] 2024. https://openalex.org/W4401851483
-
-                Abstract Computational understanding of the liquid&#8211;electrode interface faces challenges in efficiently incorporating reactive force fields and electrostatic potentials within reasonable computational costs. Although universal neural network potentials (UNNPs), representing pretrained machine learning interatomic potentials, are emerging, current UNNP models lack explicit treatment of Coulomb potentials, and methods for integrating additional charges on the electrode remain to be established. We propose a method to analyze liquid&#8211;electrode interfaces by integrating a UNNP, known as the preferred potential, with Coulomb potentials using the ONIOM method. This approach extends the applicability of UNNPs to electrode&#8211;liquid interface systems. Through molecular dynamics simulations of graphene&#8211;water and graphene oxide (GO)&#8211;water interfaces, we demonstrate the effectiveness of our method. Our findings emphasize the necessity of incorporating long&#8208;range Coulomb potentials into the water potential to accurately describe water polarization at the interface. Furthermore, we observe that functional groups on the GO electrode influence both polarization and capacitance.</description>
-      <author>Kaoru Hisama, Gerardo Valadez Huerta, Michihisa Koyama</author>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27487</guid>
-    </item>
     <item>
       <title>Key role of nonprecious oxygen-evolving active site in NiOOH electrocatalysts for oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.161066</link>
@@ -58,16 +28,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.165</guid>
     </item>
     <item>
-      <title>Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114489</link>
-      <description>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen, Molecular Catalysis. 567(None)] 2024. https://openalex.org/W4401844774
-
-                No abstract</description>
-      <author>Ting Yao, Huohai Yang, Xiaoyue Fu, Yingjie Feng, Xingbo Ge, Qiang Ke, Xin Chen</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114489</guid>
-    </item>
-    <item>
       <title>Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle</title>
       <link>https://doi.org/10.1016/j.jcat.2024.115725</link>
       <description>James M. Mayer, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4401892778
@@ -76,6 +36,16 @@
       <author>James M. Mayer</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115725</guid>
+    </item>
+    <item>
+      <title>Hydroxyl group modification improves the selectivity of metal single atom on poly(heptazine imide) for electrocatalytic acetylene semi-hydrogenation</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.161075</link>
+      <description>Xiaoxiao Chen, Yi Li, Yaofeng Yuan, Yidong Hou, Applied Surface Science. None(None)] 2024. https://openalex.org/W4401922753
+
+                No abstract</description>
+      <author>Xiaoxiao Chen, Yi Li, Yaofeng Yuan, Yidong Hou</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161075</guid>
     </item>
     <item>
       <title>Suppressing the competing hydrogen evolution reaction in CO2 electroreduction: A review</title>
@@ -88,6 +58,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.rser.2024.114869</guid>
     </item>
     <item>
+      <title>Facilitation of Pd&#8211;Ru Mixing in Nanoalloys of Immiscible Palladium and Ruthenium by NO Adsorption</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c03350</link>
+      <description>Y&#363;suke Nanba, Masaaki Haneda, Michihisa Koyama, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4401939920
+
+                Surface formation markedly influences the stability and properties of nanoalloys. The surface states of nanoalloys are sensitive to the constituent elements and to the surrounding environment. In this study, Fourier transform-infrared (FT-IR) spectroscopy and an evolution strategy (ES) combined with density functional theory calculations and multivariate analysis were used to explore the stable configuration of NO-adsorbed PdRu nanoalloys. FT-IR analysis indicated that the NO molecules were adsorbed on the Ru-related sites, which was inconsistent with the stable surface state of the isolated PdRu nanoalloy models. The ES revealed that the stable surface state consisted mainly of Ru atoms owing to molecular adsorption. In addition, the Pd&#8211;Ru mixing was facilitated by the adsorption. According to the multivariate analysis, the adsorption energies on the Ru-related sites were more negative than those on the Pd-related sites and became more negative as the number of neighboring Pd atoms increased. These adsorption characteristics are opposite to those of the stability of the isolated PdRu nanoalloys. The energy gain owing to NO adsorption overcomes the energy loss due to the Pd&#8211;Ru bonds and placement of Ru atoms at the surface. This study highlights the importance of understanding stable surface states in a reactive atmosphere for the application of nanoalloys.</description>
+      <author>Y&#363;suke Nanba, Masaaki Haneda, Michihisa Koyama</author>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03350</guid>
+    </item>
+    <item>
       <title>Cobalt Phthalocyanine&#8208;Based Photo/Electrocatalysts for Hydrogen Evolution Reaction</title>
       <link>https://doi.org/10.1002/aesr.202400169</link>
       <description>Sheriff A. Balogun, Dina Thole, Daniel Masekela, Kwena D. Modibane, Advanced Energy and Sustainability Research. None(None)] 2024. https://openalex.org/W4401957318
@@ -96,6 +76,16 @@
       <author>Sheriff A. Balogun, Dina Thole, Daniel Masekela, Kwena D. Modibane</author>
       <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400169</guid>
+    </item>
+    <item>
+      <title>Rational design of graphdiyne-based single-atom catalysts for electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction reaction</title>
+      <link>https://doi.org/10.1039/d4ra04643a</link>
+      <description>Liyun Jiang, Mengdie Zhao, Qi Yu, RSC Advances. 14(37)] 2024. https://openalex.org/W4401959655
+
+                Graphdiyne (GDY) has achieved great success in the application of two-dimensional carbon materials in recent years due to its excellent electrochemical catalytic capacity.</description>
+      <author>Liyun Jiang, Mengdie Zhao, Qi Yu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra04643a</guid>
     </item>
     <item>
       <title>Bifunctional Electrocatalysts</title>
@@ -108,14 +98,24 @@
       <guid isPermaLink="true">https://doi.org/10.1039/bk9781837674497-part2</guid>
     </item>
     <item>
-      <title>Scalable Low-Temperature CO&lt;sub&gt;2&lt;/sub&gt; Electrolysis: Current Status and Outlook</title>
-      <link>https://doi.org/10.1021/jacsau.4c00583</link>
-      <description>Hojeong Lee, Seontaek Kwon, Namgyoo Park, Sun Gwan, Eunyoung Lee, Tae&#8208;Hoon Kong, Jihoo Cha, Youngkook Kwon, JACS Au. None(None)] 2024. https://openalex.org/W4401843733
+      <title>Transition Metal Embedded MoS2 as efficient Trifunctional Electrocatalyst: A Computational Study</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144968</link>
+      <description>K. Simmy Joseph, Shweta D. Dabhi, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4402034466
 
-                The electrochemical CO2 reduction (eCO2R) in membrane electrode assemblies (MEAs) has brought e-chemical production one step closer to commercialization because of its advantages of minimized ohmic resistance and stackability. However, the current performance of reported eCO2R in MEAs is still far below the threshold for economic feasibility where low overall cell voltage (&lt;2 V) and extensive stability (&gt;5 years) are required. Furthermore, while the production cost of e-chemicals heavily relies on the carbon capture and product separation processes, these areas have received much less attention compared to CO2 electrolysis, itself. In this perspective, we examine the current status of eCO2R technologies from both academic and industrial points of view. We highlight the gap between current capabilities and commercialization standards and offer future research directions for eCO2R technologies with the hope of achieving industrially viable e-chemical production.</description>
-      <author>Hojeong Lee, Seontaek Kwon, Namgyoo Park, Sun Gwan, Eunyoung Lee, Tae&#8208;Hoon Kong, Jihoo Cha, Youngkook Kwon</author>
-      <pubDate>Sat, 24 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.4c00583</guid>
+                No abstract</description>
+      <author>K. Simmy Joseph, Shweta D. Dabhi</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144968</guid>
+    </item>
+    <item>
+      <title>Revealing the Potential-Determining Steps of Reduction of Nitrate to Ammonia on Transition Metal Porphyrins Catalysts</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105022</link>
+      <description>Chun&#8208;Ying Wu, Yanqing Shen, Xiaogang Wang, Lingling Lv, Xianghui Meng, Xiangqian Jiang, Dewei Gong, Qing Ai, Yong Shuai, Zhongxiang Zhou, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4402096483
+
+                No abstract</description>
+      <author>Chun&#8208;Ying Wu, Yanqing Shen, Xiaogang Wang, Lingling Lv, Xianghui Meng, Xiangqian Jiang, Dewei Gong, Qing Ai, Yong Shuai, Zhongxiang Zhou</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105022</guid>
     </item>
     <item>
       <title>Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation A Comprehensive Study on Cross Modal AI Applications</title>
@@ -128,6 +128,16 @@
       <guid isPermaLink="true">https://doi.org/10.54097/h8wf8vah</guid>
     </item>
     <item>
+      <title>Modeling and Comparative Analysis of CO2 Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-x7xkz-v2</link>
+      <description>Katelyn M. Ripley, Fikile R. Brushett, No host. None(None)] 2024. https://openalex.org/W4402072119
+
+                Deployment of post-combustion carbon dioxide (CO2) capture technologies is needed to reduce emissions from power and industrial sources. Comparisons between existing thermochemical CO2 capture methods and emerging electrochemical concepts can help contextualize the promise of these new approaches. Here, we investigate the required absorber sizes for three capture systems: amine scrubbing using monoethanolamine (MEA), direct electrochemical (redox-active sorbent), and indirect electrochemical (pH-swing). For the electrochemical systems, we study how column size varies as a function of molecular properties and operating conditions, finding that parameters most closely related to CO2 uptake rates (i.e., rate constants and pKa) have the greatest impact. Through a Monte Carlo analysis, we find that the direct process can be designed to have column sizes similar to the thermochemical process, however, the CO2 uptake rate in the indirect process is too slow to enable smaller columns. Broadly, this work connects system input parameters to absorber performance for electrochemical CO2 capture and provides a foundation for technoeconomic and engineering analyses.</description>
+      <author>Katelyn M. Ripley, Fikile R. Brushett</author>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-x7xkz-v2</guid>
+    </item>
+    <item>
       <title>Application of Predictive Control Strategies for Water-Gas Shift Membrane Reactors Using Data-Driven Models</title>
       <link>https://doi.org/10.33915/etd.12598</link>
       <description>Bernardo de Oliveira Vecchio, No host. None(None)] 2024. https://openalex.org/W4401953006
@@ -136,6 +146,16 @@
       <author>Bernardo de Oliveira Vecchio</author>
       <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.33915/etd.12598</guid>
+    </item>
+    <item>
+      <title>Anion-Exchange Membrane Oxygen Separator</title>
+      <link>https://doi.org/10.1021/acsorginorgau.4c00052</link>
+      <description>Maisa Faour, Karam Yassin, Dario R. Dekel, ACS Organic &amp; Inorganic Au. None(None)] 2024. https://openalex.org/W4401991440
+
+                Anion-exchange membranes (AEMs), known for enabling the high conductivity of hydroxide anions through dense polymeric structures, are pivotal components in fuel cells, electrolyzers, and other important electrochemical systems. This paper unveils an unprecedented utilization of AEMs in an electrochemical oxygen separation process, a new technology able to generate enriched oxygen from an O2/N2 mixture using a small voltage input. We demonstrate a first-of-its-kind AEM-based electrochemical device that operates under mild conditions, is free of liquid electrolytes or sweep gases, and produces oxygen of over 96% purity. Additionally, we develop and apply a one-dimensional time-dependent and isothermal model, which accurately captures the unique operational dynamics of our device, demonstrates good agreement with the experimental data, and allows us to explore the device's potential capabilities. This novel technology has far-reaching applications in many industrial processes, medical oxygen therapy, and other diverse fields while reducing operational complexity and environmental impact, thereby paving the way for sustainable on-site oxygen generation.</description>
+      <author>Maisa Faour, Karam Yassin, Dario R. Dekel</author>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsorginorgau.4c00052</guid>
     </item>
   </channel>
 </rss>

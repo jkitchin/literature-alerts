@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Sep 2024 01:26:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 01:17:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Optimal operation of solid-oxide electrolysis cells considering long-term chemical degradation</title>
+      <link>https://doi.org/10.1016/j.enconman.2024.118950</link>
+      <description>Nishant V. Giridhar, Douglas A. Allan, Mingrui Li, Stephen E. Zitney, Lorenz T. Biegler, Debangsu Bhattacharyya, Energy Conversion and Management. 319(None)] 2024. https://openalex.org/W4401905708
+
+                No abstract</description>
+      <author>Nishant V. Giridhar, Douglas A. Allan, Mingrui Li, Stephen E. Zitney, Lorenz T. Biegler, Debangsu Bhattacharyya</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.enconman.2024.118950</guid>
+    </item>
   </channel>
 </rss>

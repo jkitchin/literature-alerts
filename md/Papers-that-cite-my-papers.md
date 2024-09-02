@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Sep  1 01:27:05 2024
+Created on Mon Sep  2 01:17:20 2024
 
-Found 13 results from 2024-08-25 to 2024-09-01
+Found 15 results from 2024-08-26 to 2024-09-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -16,39 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Coupling High‐Entropy Core with Rh Shell for Efficient pH‐Universal Hydrogen Evolution   
-
-OpenAlex: https://openalex.org/W4401844907    
-Open access: False
-    
-[Min Wei](https://openalex.org/A5084055697), [Yuyan Sun](https://openalex.org/A5100734389), [Junyu Zhang](https://openalex.org/A5101898223), [Jianrong Zeng](https://openalex.org/A5068006098), [Jike Wang](https://openalex.org/A5065805707), Small. None(None)] 2024.https://doi.org/10.1002/smll.202403353.
-    
-Abstract Constructing high‐entropy alloys (HEAs) with core–shell (CS) nanostructure is efficient for enhancing catalytic activity. However, it is extremely challenging to incorporate the CS structure with HEAs. Herein, PtCoNiMoRh@Rh CS nanoparticles (PtCoNiMoRh@Rh) with ∼5.7 nm for pH‐universal hydrogen evolution reaction (HER) are reported for the first time. The PtCoNiMoRh@Rh just require 9.1, 24.9, and 17.1 mV to achieve −10 mA cm −2 in acid, neutral, and alkaline electrolyte, and the corresponding mass activity are 5.8, 2.79, and 91.8 times higher than that of Rh/C. Comparing to PtCoNiMoRh nanoparticles, the PtCoNiMoRh@Rh exhibit excellent HER activity attributed to the decrease of Rh 4d especially 4d 5/2 unoccupied state induced by the multi‐active sites in HEA, as well as the synergistic effect in Rh shell and HEA core. Theorical calculation exhibits that Rh‐d yz , d x2 , and d xz orbitals experience a negative shift with shell thickness increasing. The HEAs with CS structure would facilitate the rational design of high‐performance HEAs catalysts.    
-
-    
-
-## tosr: Create the Tree of Science from WoS and Scopus   
-
-OpenAlex: https://openalex.org/W4401845777    
-Open access: True
-    
-[Sebastián Robledo](https://openalex.org/A5065807756), [Luis Eduardo Peláez Valencia](https://openalex.org/A5009085915), [Martha Zuluaga](https://openalex.org/A5085239964), [Óscar Echeverri](https://openalex.org/A5015870803), [Jorge William Arboleda Valencia](https://openalex.org/A5103142442), Journal of Scientometric Research. 13(2)] 2024.https://doi.org/10.5530/jscires.13.2.36 ([pdf](https://jourdata.s3.us-west-2.amazonaws.com/jscires/JScientometRes-13-2-459.pdf)).
-    
-Sebastian Robledo1, Luis Valencia2, Martha Zuluaga1, Oscar Arbelaez Echeverri3 and Jorge W. Arboleda Valencia45 Author informationPDFCitations 1Dirección Académica, Universidad Nacional de Colombia, Sede de La Paz, Cesar, COLOMBIA 2Centro de Bioinformática y Biología Computacional de Colombia – BIOS, COLOMBIA 3Core of Science, IRELAND 4FITOBIOL, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de    
-
-    
-
-## Molecular dynamics of liquid–electrode interface by integrating Coulomb interaction into universal neural network potential   
-
-OpenAlex: https://openalex.org/W4401851483    
-Open access: True
-    
-[Kaoru Hisama](https://openalex.org/A5000424688), [Gerardo Valadez Huerta](https://openalex.org/A5033717894), [Michihisa Koyama](https://openalex.org/A5060491556), Journal of Computational Chemistry. None(None)] 2024.https://doi.org/10.1002/jcc.27487 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcc.27487)).
-    
-Abstract Computational understanding of the liquid–electrode interface faces challenges in efficiently incorporating reactive force fields and electrostatic potentials within reasonable computational costs. Although universal neural network potentials (UNNPs), representing pretrained machine learning interatomic potentials, are emerging, current UNNP models lack explicit treatment of Coulomb potentials, and methods for integrating additional charges on the electrode remain to be established. We propose a method to analyze liquid–electrode interfaces by integrating a UNNP, known as the preferred potential, with Coulomb potentials using the ONIOM method. This approach extends the applicability of UNNPs to electrode–liquid interface systems. Through molecular dynamics simulations of graphene–water and graphene oxide (GO)–water interfaces, we demonstrate the effectiveness of our method. Our findings emphasize the necessity of incorporating long‐range Coulomb potentials into the water potential to accurately describe water polarization at the interface. Furthermore, we observe that functional groups on the GO electrode influence both polarization and capacitance.    
-
-    
 
 ## Key role of nonprecious oxygen-evolving active site in NiOOH electrocatalysts for oxygen evolution reaction   
 
@@ -72,23 +39,23 @@ No abstract
 
     
 
-## Metallated graphynes as a bifunctional electrocatalyst for oxygen reduction and oxygen evolution reactions: A DFT study   
-
-OpenAlex: https://openalex.org/W4401844774    
-Open access: False
-    
-[Ting Yao](https://openalex.org/A5102006398), [Huohai Yang](https://openalex.org/A5003167045), [Xiaoyue Fu](https://openalex.org/A5032775500), [Yingjie Feng](https://openalex.org/A5101532301), [Xingbo Ge](https://openalex.org/A5063446819), [Qiang Ke](https://openalex.org/A5102836658), [Xin Chen](https://openalex.org/A5024977426), Molecular Catalysis. 567(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114489.
-    
-No abstract    
-
-    
-
 ## Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle   
 
 OpenAlex: https://openalex.org/W4401892778    
 Open access: False
     
 [James M. Mayer](https://openalex.org/A5037787121), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115725.
+    
+No abstract    
+
+    
+
+## Hydroxyl group modification improves the selectivity of metal single atom on poly(heptazine imide) for electrocatalytic acetylene semi-hydrogenation   
+
+OpenAlex: https://openalex.org/W4401922753    
+Open access: False
+    
+[Xiaoxiao Chen](https://openalex.org/A5100694728), [Yi Li](https://openalex.org/A5100358257), [Yaofeng Yuan](https://openalex.org/A5055496058), [Yidong Hou](https://openalex.org/A5061785514), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.161075.
     
 No abstract    
 
@@ -105,6 +72,17 @@ No abstract
 
     
 
+## Facilitation of Pd–Ru Mixing in Nanoalloys of Immiscible Palladium and Ruthenium by NO Adsorption   
+
+OpenAlex: https://openalex.org/W4401939920    
+Open access: False
+    
+[Yūsuke Nanba](https://openalex.org/A5074654451), [Masaaki Haneda](https://openalex.org/A5002334052), [Michihisa Koyama](https://openalex.org/A5060491556), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c03350.
+    
+Surface formation markedly influences the stability and properties of nanoalloys. The surface states of nanoalloys are sensitive to the constituent elements and to the surrounding environment. In this study, Fourier transform-infrared (FT-IR) spectroscopy and an evolution strategy (ES) combined with density functional theory calculations and multivariate analysis were used to explore the stable configuration of NO-adsorbed PdRu nanoalloys. FT-IR analysis indicated that the NO molecules were adsorbed on the Ru-related sites, which was inconsistent with the stable surface state of the isolated PdRu nanoalloy models. The ES revealed that the stable surface state consisted mainly of Ru atoms owing to molecular adsorption. In addition, the Pd–Ru mixing was facilitated by the adsorption. According to the multivariate analysis, the adsorption energies on the Ru-related sites were more negative than those on the Pd-related sites and became more negative as the number of neighboring Pd atoms increased. These adsorption characteristics are opposite to those of the stability of the isolated PdRu nanoalloys. The energy gain owing to NO adsorption overcomes the energy loss due to the Pd–Ru bonds and placement of Ru atoms at the surface. This study highlights the importance of understanding stable surface states in a reactive atmosphere for the application of nanoalloys.    
+
+    
+
 ## Cobalt Phthalocyanine‐Based Photo/Electrocatalysts for Hydrogen Evolution Reaction   
 
 OpenAlex: https://openalex.org/W4401957318    
@@ -113,6 +91,17 @@ Open access: True
 [Sheriff A. Balogun](https://openalex.org/A5025403395), [Dina Thole](https://openalex.org/A5095763967), [Daniel Masekela](https://openalex.org/A5042364701), [Kwena D. Modibane](https://openalex.org/A5019702691), Advanced Energy and Sustainability Research. None(None)] 2024.https://doi.org/10.1002/aesr.202400169.
     
 Cobalt phthalocyanine (CoPc)‐based catalysts have garnered significant interest as efficient materials for hydrogen evolution reactions (HER) due to their abundant availability, low cost, tunable electronic structures, and unique light absorption performance. This review offers a thorough examination of the latest developments in CoPc‐based catalysts for HER. It entails a wide range of synthesis approaches, intrinsic characteristics, and catalytic mechanisms associated with these catalysts for HER. We also compare the photo/electrocatalytic performance of these catalysts using parameters like Tafel slope, exchange current density, overpotential, hydrogen yield, turnover frequency, stability, specific surface area, etc. The review shows that the commonly used electrolytes for electrocatalytic HER are KOH, LiClO 4 /PBS, and H 2 SO 4 , while for photocatalytic HER, triethylamine, water, and triethanolamine are frequently used. Among all the electrocatalysts understudied, poly[CoOTPc]‐KB and GO/4N‐CoPc are the best, owing to their lowest overpotentials and Tafel slopes. In terms of photocatalytic hydrogen production, CoPc/TiO 2 /Pt has better photocatalytic HER performance compared to its counterparts. This review also highlights the effects of incorporating CoPc with different materials on the photo/electrocatalytic HER performance. Furthermore, the review discusses the challenges and prospects, emphasizing the chances for improving and incorporating CoPc‐based catalysts as a viable option for hydrogen production in the future.    
+
+    
+
+## Rational design of graphdiyne-based single-atom catalysts for electrochemical CO2 reduction reaction   
+
+OpenAlex: https://openalex.org/W4401959655    
+Open access: True
+    
+[Liyun Jiang](https://openalex.org/A5004763124), [Mengdie Zhao](https://openalex.org/A5101470930), [Qi Yu](https://openalex.org/A5017725939), RSC Advances. 14(37)] 2024.https://doi.org/10.1039/d4ra04643a.
+    
+Graphdiyne (GDY) has achieved great success in the application of two-dimensional carbon materials in recent years due to its excellent electrochemical catalytic capacity.    
 
     
 
@@ -127,14 +116,25 @@ No abstract
 
     
 
-## Scalable Low-Temperature CO2 Electrolysis: Current Status and Outlook   
+## Transition Metal Embedded MoS2 as efficient Trifunctional Electrocatalyst: A Computational Study   
 
-OpenAlex: https://openalex.org/W4401843733    
-Open access: True
+OpenAlex: https://openalex.org/W4402034466    
+Open access: False
     
-[Hojeong Lee](https://openalex.org/A5049287614), [Seontaek Kwon](https://openalex.org/A5035769197), [Namgyoo Park](https://openalex.org/A5078178326), [Sun Gwan](https://openalex.org/A5106344844), [Eunyoung Lee](https://openalex.org/A5100348728), [Tae‐Hoon Kong](https://openalex.org/A5091233789), [Jihoo Cha](https://openalex.org/A5102624792), [Youngkook Kwon](https://openalex.org/A5064502248), JACS Au. None(None)] 2024.https://doi.org/10.1021/jacsau.4c00583.
+[K. Simmy Joseph](https://openalex.org/A5102518461), [Shweta D. Dabhi](https://openalex.org/A5018687599), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144968.
     
-The electrochemical CO2 reduction (eCO2R) in membrane electrode assemblies (MEAs) has brought e-chemical production one step closer to commercialization because of its advantages of minimized ohmic resistance and stackability. However, the current performance of reported eCO2R in MEAs is still far below the threshold for economic feasibility where low overall cell voltage (<2 V) and extensive stability (>5 years) are required. Furthermore, while the production cost of e-chemicals heavily relies on the carbon capture and product separation processes, these areas have received much less attention compared to CO2 electrolysis, itself. In this perspective, we examine the current status of eCO2R technologies from both academic and industrial points of view. We highlight the gap between current capabilities and commercialization standards and offer future research directions for eCO2R technologies with the hope of achieving industrially viable e-chemical production.    
+No abstract    
+
+    
+
+## Revealing the Potential-Determining Steps of Reduction of Nitrate to Ammonia on Transition Metal Porphyrins Catalysts   
+
+OpenAlex: https://openalex.org/W4402096483    
+Open access: False
+    
+[Chun‐Ying Wu](https://openalex.org/A5014703182), [Yanqing Shen](https://openalex.org/A5088245131), [Xiaogang Wang](https://openalex.org/A5100444820), [Lingling Lv](https://openalex.org/A5103143899), [Xianghui Meng](https://openalex.org/A5102005227), [Xiangqian Jiang](https://openalex.org/A5101736838), [Dewei Gong](https://openalex.org/A5101490562), [Qing Ai](https://openalex.org/A5084336869), [Yong Shuai](https://openalex.org/A5049375655), [Zhongxiang Zhou](https://openalex.org/A5010285977), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105022.
+    
+No abstract    
 
     
 
@@ -149,6 +149,17 @@ Our study presents significant advancements in the handling of multimodal data t
 
     
 
+## Modeling and Comparative Analysis of CO2 Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems   
+
+OpenAlex: https://openalex.org/W4402072119    
+Open access: True
+    
+[Katelyn M. Ripley](https://openalex.org/A5066536072), [Fikile R. Brushett](https://openalex.org/A5042249105), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-x7xkz-v2 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/66cf8923a4e53c4876ed16ac/original/modeling-and-comparative-analysis-of-co2-absorption-columns-in-electrochemical-and-thermochemical-carbon-capture-systems.pdf)).
+    
+Deployment of post-combustion carbon dioxide (CO2) capture technologies is needed to reduce emissions from power and industrial sources. Comparisons between existing thermochemical CO2 capture methods and emerging electrochemical concepts can help contextualize the promise of these new approaches. Here, we investigate the required absorber sizes for three capture systems: amine scrubbing using monoethanolamine (MEA), direct electrochemical (redox-active sorbent), and indirect electrochemical (pH-swing). For the electrochemical systems, we study how column size varies as a function of molecular properties and operating conditions, finding that parameters most closely related to CO2 uptake rates (i.e., rate constants and pKa) have the greatest impact. Through a Monte Carlo analysis, we find that the direct process can be designed to have column sizes similar to the thermochemical process, however, the CO2 uptake rate in the indirect process is too slow to enable smaller columns. Broadly, this work connects system input parameters to absorber performance for electrochemical CO2 capture and provides a foundation for technoeconomic and engineering analyses.    
+
+    
+
 ## Application of Predictive Control Strategies for Water-Gas Shift Membrane Reactors Using Data-Driven Models   
 
 OpenAlex: https://openalex.org/W4401953006    
@@ -157,5 +168,16 @@ Open access: True
 [Bernardo de Oliveira Vecchio](https://openalex.org/A5106802533), No host. None(None)] 2024.https://doi.org/10.33915/etd.12598 ([pdf](https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=13306&context=etd)).
     
 As demand for more efficient processes keeps rising and more restrictive environmental legislation requires higher levels of both yield and purity, the process industry has now, more than ever, been looking for new ways to achieve these goals. One approach has been the implementation of Process Intensification (PI). PI aims to combine multiple unit operations into a single one, promoting efficiency gains on multiple levels. This combination, however, leads to complex process dynamics, and controlling such processes, particularly when setup as multi-input-multi-output (MIMO) systems, presents a great challenge due to highly interactive complex process dynamics and the imposition of many operating constraints. The objectives of this research are to generate first-principles and data-driven water-gas shift membrane reactor (WGS-MR) models and to create predictive control schemes to perform effective setpoint tracking under a MIMO framework. The AVEVA Process Simulation platform is chosen for simulating the first-principles model and both Gaussian Processes using a Squared Exponential kernel (GP-SE) and Bayesian Smoothing Spline Analysis of Variance (BSS-ANOVA) are explored as possible frameworks for data-driven models. A Proportional–Integral– Derivative (PID) controller is created as a benchmark and a Quadratic Dynamic Matrix Controller (QDMC) is developed for advanced control of the system. The GP model is later used as a digital twin of the plant for calculating a control action trajectory that could be applied to the physical system in case of a desired setpoint change. The results demonstrate the superiority of the BSS-ANOVA model over the GP-SE, especially under open-loop simulation conditions. Also, both PID and QDMC perform well under the tested conditions, but the QDMC is able to deliver smoother control action, specially under noisy signals. Finally, when operating under closed-loop control, the BSS-ANOVA model is capable of providing a good representation of one of the variables being studied, namely carbon capture, with Integral of the Absolute Error (IAE) values ranging from 0.39 to 12.6, while creating a fit for the other variable, namely hydrogen recovery, with IAE measurements ranging from 3.71 to 26.7. These results indicate that the proposed framework is viable, although not universal, as each variable desired to be modeled and controlled should be tested and have its viability carefully assessed.    
+
+    
+
+## Anion-Exchange Membrane Oxygen Separator   
+
+OpenAlex: https://openalex.org/W4401991440    
+Open access: True
+    
+[Maisa Faour](https://openalex.org/A5106808057), [Karam Yassin](https://openalex.org/A5019382684), [Dario R. Dekel](https://openalex.org/A5065902234), ACS Organic & Inorganic Au. None(None)] 2024.https://doi.org/10.1021/acsorginorgau.4c00052.
+    
+Anion-exchange membranes (AEMs), known for enabling the high conductivity of hydroxide anions through dense polymeric structures, are pivotal components in fuel cells, electrolyzers, and other important electrochemical systems. This paper unveils an unprecedented utilization of AEMs in an electrochemical oxygen separation process, a new technology able to generate enriched oxygen from an O2/N2 mixture using a small voltage input. We demonstrate a first-of-its-kind AEM-based electrochemical device that operates under mild conditions, is free of liquid electrolytes or sweep gases, and produces oxygen of over 96% purity. Additionally, we develop and apply a one-dimensional time-dependent and isothermal model, which accurately captures the unique operational dynamics of our device, demonstrates good agreement with the experimental data, and allows us to explore the device's potential capabilities. This novel technology has far-reaching applications in many industrial processes, medical oxygen therapy, and other diverse fields while reducing operational complexity and environmental impact, thereby paving the way for sustainable on-site oxygen generation.    
 
     
