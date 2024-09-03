@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Sep 2024 01:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 01:14:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,26 @@
       <author>Nishant V. Giridhar, Douglas A. Allan, Mingrui Li, Stephen E. Zitney, Lorenz T. Biegler, Debangsu Bhattacharyya</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.enconman.2024.118950</guid>
+    </item>
+    <item>
+      <title>Optimal Planning of Offshore Oilfield Infrastructure</title>
+      <link>https://doi.org/10.1007/978-3-030-54621-2_472-1</link>
+      <description>Ignacio E. Grossmann, Susara Van den Heever, Springer eBooks. None(None)] 2024. https://openalex.org/W4401954751
+
+                No abstract</description>
+      <author>Ignacio E. Grossmann, Susara Van den Heever</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_472-1</guid>
+    </item>
+    <item>
+      <title>Advanced Process Control and Dynamic Optimization of Reversible Solid Oxide Cell Systems for Performance and Long-Term Health</title>
+      <link>https://doi.org/10.2172/2434318</link>
+      <description>Douglas Allan, Steve Zitney, Eric Liese, Lorenz T. Biegler, San Dinh, Mingrui Li, Nishant Giridhar, Quang A. Le, Daniel Beahr, Debangsu Bhattacharyya, No host. None(None)] 2024. https://openalex.org/W4401971298
+
+                No abstract</description>
+      <author>Douglas Allan, Steve Zitney, Eric Liese, Lorenz T. Biegler, San Dinh, Mingrui Li, Nishant Giridhar, Quang A. Le, Daniel Beahr, Debangsu Bhattacharyya</author>
+      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2434318</guid>
     </item>
   </channel>
 </rss>

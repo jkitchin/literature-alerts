@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Sep 2024 01:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 01:14:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Pulse Manipulation on Cu-Based Catalysts for Electrochemical Reduction of CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c03513</link>
+      <description>Wanlong Xi, Hongyao Zhou, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402031369
+
+                Electrocatalytic carbon dioxide reduction (CO2RR) over Cu-based catalysts has emerged as a promising strategy for value-added artificial carbon cycling, addressing the current climate and energy challenges. However, the product selectivity and long-term stability of Cu-based catalysts are limited by their instability at constant potential. Recent advancements in pulsed techniques aim to overcome these limitations, enhancing the industrial feasibility of the CO2RR systems. This review critically examines recent research progress in pulsed CO2RR over Cu-based catalysts, offering a comprehensive synthesis of current findings. Key pulse parameters and characterization strategies are explored to uncover the mechanisms behind the enhanced CO2RR performance. The focus is on surface reconstruction, encompassing the regeneration and stabilization of the Cu oxidation states alongside morphological evolution, while also discussing microenvironment changes, including local CO2 concentration, local pH, and ionic arrangement. The intricate modulation mechanisms of pulse mode, potential, and duration on the CO2RR performance are elucidated, highlighting their interconnections. Finally, we identify the prevailing challenges and propose future directions for achieving environmentally friendly and economically viable artificial carbon cycling. By providing insightful perspectives on optimizing pulsed CO2RR, this review paves the way for developing more efficient and robust Cu-based catalytic systems.</description>
+      <author>Wanlong Xi, Hongyao Zhou, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu</author>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03513</guid>
+    </item>
     <item>
       <title>Physicochemical Principles of AC Electrosynthesis: Reversible Reactions</title>
       <link>https://doi.org/10.1021/jacs.4c06664</link>

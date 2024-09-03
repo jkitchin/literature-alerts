@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Sep 2024 01:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 01:14:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Metal-Carbenoid-Mediated Selective Transformation: Experimental and DFT Studies of Ag, Pd, and Rh with Enaminones and Diazoesters</title>
+      <link>https://doi.org/10.1021/acscatal.4c03136</link>
+      <description>Xin Zhang, Lijuan Song, Yi Jin, Kaixiu Luo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401877969
+
+                Transition-metal-catalyzed transfer of a carbene group via in situ generated carbenoid intermediates from &#945;-diazocarbonyls is a powerful method for initiating diverse cascade sequences that rapidly lead to the generation of structural complexity. Despite significant advancements in carbenoid-enabled catalytic pathways, such as insertions and cyclopropane formation, there has been limited exploration of the selective control of catalytic processes involving carbenoid chemistry. In this study, we reported a metal-carbenoid-mediated cascade transformation approach that allows for selective control by employing different transition metals, including silver, palladium, and rhodium, assisted by a comprehensive density functional theory (DFT) mechanism investigation. Through detailed mechanistic studies, we demonstrate that silver-carbenoids and rhodium-carbenoids yield distinct tandem cyclization products, while palladium-carbenoids afford quaternary &#945;-imine compounds as the final product through direct proton transfer from the same intermediate. Furthermore, the origin of the catalyst-dependent selectivity is elucidated through DFT calculations.</description>
+      <author>Xin Zhang, Lijuan Song, Yi Jin, Kaixiu Luo</author>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03136</guid>
+    </item>
     <item>
       <title>Alcohols as Alkyl Synthons Enabled by Photoredox-Catalyzed Deoxygenative Activation</title>
       <link>https://doi.org/10.1021/acscatal.4c03560</link>
@@ -48,6 +58,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03269</guid>
     </item>
     <item>
+      <title>Charge Transfer Drives Hydrogen Adsorption, Spillover, and Hydroxylation at the Pt/&#947;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Interface</title>
+      <link>https://doi.org/10.1021/acscatal.4c03485</link>
+      <description>George Yan, Salman A. Khan, Dionisios G. Vlachos, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401946493
+
+                Metal&#8211;support interactions have garnered much attention due to their impact on the structure and reactivity of supported metal catalysts. Despite the widespread recognition of multifunctional mechanisms in metal/metal oxide systems, much less attention has been paid to how the metal influences its support. Here, we explore metal&#8211;support interactions using hydrogen adsorption on a dehydroxylated &#947;-Al2O3(110) supported Pt10 cluster as a prototype. Through molecular dynamics simulations performed using an actively trained machine-learned force field, we observed reversible hydrogen spillover between the support and the metal. Analysis of the electronic structure and chemical nature of the interface reveals that charge transfer from H to the Pt10 cluster drives the spillover by stabilizing H adsorbed on the support. The same charge transfer concept also explains the stabilization of OH fragments at the Pt10/&#947;-Al2O3(110) interface despite the scarcely impacted or even reduced acidity of interfacial Al sites. These findings demonstrate the rich chemistry of metal&#8211;support interfaces and the importance of "inverse" effects in the fundamental understanding of supported catalysts.</description>
+      <author>George Yan, Salman A. Khan, Dionisios G. Vlachos</author>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03485</guid>
+    </item>
+    <item>
       <title>Formation of Chiral All-Carbon Quaternary Stereocenters by Photoinduced Cobalt-Catalyzed Enantioselective Radical Coupling</title>
       <link>https://doi.org/10.1021/acscatal.4c04249</link>
       <description>Yue Jia, Kai Zhang, Liang&#8208;Qiu Lu, Ying Cheng, Wen&#8208;Jing Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401952585
@@ -68,6 +88,46 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03843</guid>
     </item>
     <item>
+      <title>Hyper-Cross-Linked Polymer-Based Self-Supported Reusable Ru-NHC Catalyst for Amine-Assisted Hydrogenation of CO&lt;sub&gt;2&lt;/sub&gt; to Methanol</title>
+      <link>https://doi.org/10.1021/acscatal.4c02513</link>
+      <description>Ravi Kumar, Tanmoy Mandal, Arindom Bhattacherya, Madhusudan K. Pandey, Jitendra K. Bera, Joyanta Choudhury, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401981354
+
+                Research on the capture and catalytic conversion of CO2 to valuable chemicals and alternative fuel candidates has multifaceted relevance from the perspective of sustainable development goals (SDGs). Methanol, advocated as an alternative fuel, can be produced via amine-assisted integrated capture of CO2 and the subsequent hydrogenation via a formamide intermediate. Notably, amines not only function as CO2-capturing agents but also assist in crucial H2 activation by a metal catalyst during a series of hydrogenation steps to form methanol. Toward implementation of this cascade strategy of amine-assisted hydrogenation of CO2 to MeOH, herein, we developed an NHC-based pincer ligand-bound homogeneous molecular Ru catalyst (Ru-1), which was then translated into a porous hyper-cross-linked polymer (HCP)-based self-supported single-site heterogeneous catalyst, termed as HCP-Ru-1. Initially, a control mechanistic investigation was performed in order to get insights into the crucial H2 activation step at the Ru center of the catalyst assisted by the amine used in the reaction. Next, the formation of the formamide intermediate by both catalyst candidates Ru-1 and HCP-Ru-1 was probed and confirmed, employing several amines in the presence of pressurized CO2 and H2 at a relatively mild temperature of 120 &#176;C, where the catalysts exhibited turnover numbers (TONs) up to 3520 and 15,750, respectively, indicating their high catalytic efficiency. Finally, for the catalytic CO2-to-MeOH production reaction, a polyamine, namely, pentaethylenehexamine (PEHA), was used due to its high efficiency in CO2 capture as well as ability to act as a suitable organic base for deprotonative H2 activation, and the Ru-1 and HCP-Ru-1 systems displayed single-run TONs of 400 and 1150, respectively. As the most significant advancement in this process, the heterogeneous HCP-Ru-1 catalyst turned out to be highly reusable, and in a 10-cycle reuse demonstration experiment, it achieved a cumulative TON of 10,370 with merely 1.13% loss in activity per cycle.</description>
+      <author>Ravi Kumar, Tanmoy Mandal, Arindom Bhattacherya, Madhusudan K. Pandey, Jitendra K. Bera, Joyanta Choudhury</author>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02513</guid>
+    </item>
+    <item>
+      <title>Convergent Active Site Evolution in Platinum Single Atom Catalysts for Acetylene Hydrochlorination and Implications for Toxicity Minimization</title>
+      <link>https://doi.org/10.1021/acscatal.4c03533</link>
+      <description>Vera Giulimondi, Matteo Vanni, Suyash Damir, Tao Zou, Sharon Mitchell, Frank Krumeich, Andrea Ruiz&#8208;Ferrando, N&#250;ria L&#243;pez, J.J. Gata-Cuesta, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez, Joost J. Smit, Peter Johnston, Javier P&#233;rez-Ram&#305;&#769;rez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401991372
+
+                Platinum single atoms anchored onto activated carbon enable highly stable Hg-free synthesis of vinyl chloride (VCM) via acetylene hydrochlorination. Compared to gold-based alternatives, platinum catalysts are in initial phases of development. Most synthetic approaches rely on chloroplatinic acid, presenting opportunities to explore other precursors and their impact on catalyst structure, reactivity, and toxicity aspects. Here, we synthesize platinum single atom catalysts (Pt SACs, 0.2&#8211;0.8 wt % Pt) employing diverse Pt2+ and Pt4+ complexes with ammine, hydroxyl, nitrate, and chloride ligands, following a scalable impregnation protocol on activated carbon extrudates. X-ray absorption spectroscopy (XAS) reveals that Pt4+ species reduce to Pt2+ upon deposition onto the support. Despite similar oxidation states, the initial activity is precursor dependent, with tetraammine-derived Pt SACs displaying 2-fold higher VCM yield than chlorinated counterparts, linked to superior hydrogen chloride binding abilities by density functional theory (DFT) simulations. Their activity gradually converges due to dynamic active site restructuring, delivering remarkable precursor-independent stability over 150 h. Operando XAS and DFT studies uncover reaction-induced ligand exchange, generating common active and stable Pt&#8211;Clx (x = 2&#8211;3) species. Convergent active site evolution enables flexibility in metal precursor selection and thus toxicity minimization through multiparameter assessment. This study advances safe-by-design catalysts for VCM synthesis, highlighting the importance of toxicity analyses in early-stage catalyst development programs.</description>
+      <author>Vera Giulimondi, Matteo Vanni, Suyash Damir, Tao Zou, Sharon Mitchell, Frank Krumeich, Andrea Ruiz&#8208;Ferrando, N&#250;ria L&#243;pez, J.J. Gata-Cuesta, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez, Joost J. Smit, Peter Johnston, Javier P&#233;rez-Ram&#305;&#769;rez</author>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03533</guid>
+    </item>
+    <item>
+      <title>Carbon Dioxide Origin during High-Yield Partial Oxidation of Methane to Protected Methyl Esters</title>
+      <link>https://doi.org/10.1021/acscatal.4c04105</link>
+      <description>Andrea N. Blankenship, Alexandru-Tudor Todera&#351;c, Vladimir Paunovi&#263;, Jeroen A. van Bokhoven, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401991373
+
+                Mn/TiO2 catalysts are highly active for the partial oxidation of methane using dioxygen in acidic media to form oxidation-protected methyl esters. Nonetheless, the formation of carbon dioxide in these systems remains significant. In this study, we used 13C isotope-labeled methane to trace the origin of the carbon dioxide formation. These experiments showed that carbon dioxide primarily stems from acid degradation rather than product overoxidation in this system, confirming the high-yield methane partial oxidation of the esterification approach. Evaluation of activities and selectivities of the catalysts with different initial manganese distributions under different methane partial pressures and reaction temperatures revealed that ester selectivity within the liquid products remains nearly constant, while lower temperatures minimize the parasitic overoxidation of solvent. Using this knowledge, we demonstrated that a Mn/TiO2 catalyst synthesized via coprecipitation can provide 90% ester selectivity at 21% methane conversion within 3 h at 215 &#176;C, representing the best reported heterogeneously catalyzed system for methane partial oxidation with molecular oxygen. This study identifies the road ahead for this chemistry, entailing further optimization of solid catalysts for improved ester productivity and high product yields while curtailing undesired side reactions unrelated to methane conversion.</description>
+      <author>Andrea N. Blankenship, Alexandru-Tudor Todera&#351;c, Vladimir Paunovi&#263;, Jeroen A. van Bokhoven</author>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04105</guid>
+    </item>
+    <item>
+      <title>Pulse Manipulation on Cu-Based Catalysts for Electrochemical Reduction of CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c03513</link>
+      <description>Wanlong Xi, Hongyao Zhou, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402031369
+
+                Electrocatalytic carbon dioxide reduction (CO2RR) over Cu-based catalysts has emerged as a promising strategy for value-added artificial carbon cycling, addressing the current climate and energy challenges. However, the product selectivity and long-term stability of Cu-based catalysts are limited by their instability at constant potential. Recent advancements in pulsed techniques aim to overcome these limitations, enhancing the industrial feasibility of the CO2RR systems. This review critically examines recent research progress in pulsed CO2RR over Cu-based catalysts, offering a comprehensive synthesis of current findings. Key pulse parameters and characterization strategies are explored to uncover the mechanisms behind the enhanced CO2RR performance. The focus is on surface reconstruction, encompassing the regeneration and stabilization of the Cu oxidation states alongside morphological evolution, while also discussing microenvironment changes, including local CO2 concentration, local pH, and ionic arrangement. The intricate modulation mechanisms of pulse mode, potential, and duration on the CO2RR performance are elucidated, highlighting their interconnections. Finally, we identify the prevailing challenges and propose future directions for achieving environmentally friendly and economically viable artificial carbon cycling. By providing insightful perspectives on optimizing pulsed CO2RR, this review paves the way for developing more efficient and robust Cu-based catalytic systems.</description>
+      <author>Wanlong Xi, Hongyao Zhou, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu</author>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03513</guid>
+    </item>
+    <item>
       <title>Synergistic Effects of Complex Cu Species in Cu&#8211;MgO Catalysts for the Water Gas Shift Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c04064</link>
       <description>Mei&#8208;Yao Wu, Shanqing Li, Wei-Wei Wang, Chun&#8208;Jiang Jia, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402031423
@@ -86,6 +146,26 @@
       <author>Bedraj Pandey, Jeanette A. Krause, Hairong Guan</author>
       <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04109</guid>
+    </item>
+    <item>
+      <title>Chromium Promotes Phase Transformation to Active Oxyhydroxide for Efficient Oxygen Evolution</title>
+      <link>https://doi.org/10.1021/acscatal.4c03974</link>
+      <description>Yong Wang, Sijia Liu, Yunpu Qin, Yongzhi Zhao, Luan Liu, Di Zhang, Jianfang Liu, Yadong Liu, Aimin Chu, Haoyang Wu, Baorui Jia, Xuanhui Qu, Hao Li, Mingli Qin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402079069
+
+                The oxygen evolution reaction (OER) is crucial for renewable energy technologies like metal&#8211;air batteries and water splitting. However, it suffers from sluggish kinetics, necessitating a high-activity and stable catalyst. In this study, we used Density Functional Theory (DFT) calculations to demonstrate that Cr doping favors the phase transition of metal (Fe, Co, Ni) hydroxide to the active phase oxyhydroxide. We synthesized FeCoNiCr hydroxide using an aqueous sol&#8211;gel method, ensuring that the four elements Fe, Co, Ni, and Cr are uniformly distributed at the atomic level. As an OER catalyst, FeCoNiCr hydroxide exhibits a very low overpotential of 224 mV in alkaline media, which is 52 mV lower than that of FeCoNi hydroxide, placing it among the best nonprecious metal catalysts reported so far. Additionally, it demonstrates long-term catalytic stability of 150 h. An assembled Zn-Air battery with FeCoNiCr hydroxides was cycled stably for 160 h with a low discharge/charge voltage difference of 0.70 V. DFT calculations and microkinetic modeling demonstrated that Cr doping significantly optimized the adsorption energies of OER intermediates at the Ni and Co sites, thereby enhancing overall OER activity. Bader charge calculations further revealed that Ni and Co in the catalysts consistently maintained a +3 valence throughout the OER process, which is beneficial for OER catalysis.</description>
+      <author>Yong Wang, Sijia Liu, Yunpu Qin, Yongzhi Zhao, Luan Liu, Di Zhang, Jianfang Liu, Yadong Liu, Aimin Chu, Haoyang Wu, Baorui Jia, Xuanhui Qu, Hao Li, Mingli Qin</author>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03974</guid>
+    </item>
+    <item>
+      <title>Crystalline Oxygen-Modified Carbon Nitride Photocatalyst with Enhanced Internal Electric Field and Strong Resistance to Ionic Interference for Robust Seawater Splitting</title>
+      <link>https://doi.org/10.1021/acscatal.4c03031</link>
+      <description>Jing Wang, N. Cao, Xiaoming Liu, Fengting He, Yang&#8208;Ming Lu, Shuling Wang, Chaocheng Zhao, Yongqiang Wang, Jinqiang Zhang, Shaobin Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402079090
+
+                Photocatalytic seawater splitting to produce clean hydrogen from nonpotable water using sunlight is a crucial endeavor. However, the scarcity of high-performance photocatalysts in the promising yet fledgling field presents a formidable challenge. Herein, we successfully synthesized a crystalline oxygen-modified carbon nitride (CCNO) polymeric semiconductor that served as an effective photocatalyst for seawater splitting. Comprehensive characterizations and theoretical calculations revealed that nitrogen vacancies and bridging oxygen in the CCNO lattice acted as potent Lewis acid&#8211;base pairs, creating an enhanced built-in electric field. This advancement significantly accelerated charge dynamics and bolstered resistance to ionic interference in seawater. Consequently, CCNO exhibited a robust photocatalytic H2 evolution activity of 29.51 mmol g&#8211;1 h&#8211;1 in natural seawater, with an impressive apparent quantum efficiency of 66.86% under 420 nm monochromatic light. Seawater splitting for H2 production reached 16.83 mmol g&#8211;1 under natural light irradiation for 3 h (9&#8211;12 o'clock), showcasing its great potential for practical applications. This work presents strategies for developing a metal-free photocatalyst and elucidates its reaction mechanism in the seawater splitting process, laying the foundation for scalable production of clean hydrogen.</description>
+      <author>Jing Wang, N. Cao, Xiaoming Liu, Fengting He, Yang&#8208;Ming Lu, Shuling Wang, Chaocheng Zhao, Yongqiang Wang, Jinqiang Zhang, Shaobin Wang</author>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03031</guid>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,31 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Sep  2 01:17:06 2024
+Created on Tue Sep  3 01:14:56 2024
 
-Found 8 results from 2024-08-26 to 2024-09-02
+Found 16 results from 2024-08-27 to 2024-09-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
+
+* Metal-Carbenoid-Mediated Selective Transformation: Experimental and DFT Studies of Ag, Pd, and Rh with Enaminones and Diazoesters  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401877969
+:TOPICS: Catalytic Carbene Chemistry in Organic Synthesis, Gold Catalysis in Organic Synthesis, Homogeneous Catalysis with Transition Metals
+:PUBLICATION_DATE: 2024-08-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03136")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401877969"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401877969"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401877969"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401877969 (Open access: False)
+    
+[[https://openalex.org/A5100665996][Xin Zhang]], [[https://openalex.org/A5016812225][Lijuan Song]], [[https://openalex.org/A5101528778][Yi Jin]], [[https://openalex.org/A5041009620][Kaixiu Luo]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03136 
+     
+Transition-metal-catalyzed transfer of a carbene group via in situ generated carbenoid intermediates from α-diazocarbonyls is a powerful method for initiating diverse cascade sequences that rapidly lead to the generation of structural complexity. Despite significant advancements in carbenoid-enabled catalytic pathways, such as insertions and cyclopropane formation, there has been limited exploration of the selective control of catalytic processes involving carbenoid chemistry. In this study, we reported a metal-carbenoid-mediated cascade transformation approach that allows for selective control by employing different transition metals, including silver, palladium, and rhodium, assisted by a comprehensive density functional theory (DFT) mechanism investigation. Through detailed mechanistic studies, we demonstrate that silver-carbenoids and rhodium-carbenoids yield distinct tandem cyclization products, while palladium-carbenoids afford quaternary α-imine compounds as the final product through direct proton transfer from the same intermediate. Furthermore, the origin of the catalyst-dependent selectivity is elucidated through DFT calculations.    
+
+    
 
 * Alcohols as Alkyl Synthons Enabled by Photoredox-Catalyzed Deoxygenative Activation  :ACS_Catalysis:
 :PROPERTIES:
@@ -90,6 +111,27 @@ Extra-framework aluminum (EFAl) species are known to alter the acidic nature of 
 
     
 
+* Charge Transfer Drives Hydrogen Adsorption, Spillover, and Hydroxylation at the Pt/γ-Al2O3 Interface  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401946493
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-08-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03485")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401946493"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401946493"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401946493"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401946493 (Open access: False)
+    
+[[https://openalex.org/A5011433079][George Yan]], [[https://openalex.org/A5061440664][Salman A. Khan]], [[https://openalex.org/A5066110304][Dionisios G. Vlachos]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03485 
+     
+Metal–support interactions have garnered much attention due to their impact on the structure and reactivity of supported metal catalysts. Despite the widespread recognition of multifunctional mechanisms in metal/metal oxide systems, much less attention has been paid to how the metal influences its support. Here, we explore metal–support interactions using hydrogen adsorption on a dehydroxylated γ-Al2O3(110) supported Pt10 cluster as a prototype. Through molecular dynamics simulations performed using an actively trained machine-learned force field, we observed reversible hydrogen spillover between the support and the metal. Analysis of the electronic structure and chemical nature of the interface reveals that charge transfer from H to the Pt10 cluster drives the spillover by stabilizing H adsorbed on the support. The same charge transfer concept also explains the stabilization of OH fragments at the Pt10/γ-Al2O3(110) interface despite the scarcely impacted or even reduced acidity of interfacial Al sites. These findings demonstrate the rich chemistry of metal–support interfaces and the importance of "inverse" effects in the fundamental understanding of supported catalysts.    
+
+    
+
 * Formation of Chiral All-Carbon Quaternary Stereocenters by Photoinduced Cobalt-Catalyzed Enantioselective Radical Coupling  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4401952585
@@ -132,6 +174,90 @@ Cationic, 20-electron bis(η6-arene)Co(I) complexes have been synthesized and ev
 
     
 
+* Hyper-Cross-Linked Polymer-Based Self-Supported Reusable Ru-NHC Catalyst for Amine-Assisted Hydrogenation of CO2 to Methanol  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401981354
+:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2024-08-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02513")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401981354"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401981354"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401981354"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401981354 (Open access: False)
+    
+[[https://openalex.org/A5100736399][Ravi Kumar]], [[https://openalex.org/A5019807745][Tanmoy Mandal]], [[https://openalex.org/A5060560826][Arindom Bhattacherya]], [[https://openalex.org/A5079219873][Madhusudan K. Pandey]], [[https://openalex.org/A5069247977][Jitendra K. Bera]], [[https://openalex.org/A5042658817][Joyanta Choudhury]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02513 
+     
+Research on the capture and catalytic conversion of CO2 to valuable chemicals and alternative fuel candidates has multifaceted relevance from the perspective of sustainable development goals (SDGs). Methanol, advocated as an alternative fuel, can be produced via amine-assisted integrated capture of CO2 and the subsequent hydrogenation via a formamide intermediate. Notably, amines not only function as CO2-capturing agents but also assist in crucial H2 activation by a metal catalyst during a series of hydrogenation steps to form methanol. Toward implementation of this cascade strategy of amine-assisted hydrogenation of CO2 to MeOH, herein, we developed an NHC-based pincer ligand-bound homogeneous molecular Ru catalyst (Ru-1), which was then translated into a porous hyper-cross-linked polymer (HCP)-based self-supported single-site heterogeneous catalyst, termed as HCP-Ru-1. Initially, a control mechanistic investigation was performed in order to get insights into the crucial H2 activation step at the Ru center of the catalyst assisted by the amine used in the reaction. Next, the formation of the formamide intermediate by both catalyst candidates Ru-1 and HCP-Ru-1 was probed and confirmed, employing several amines in the presence of pressurized CO2 and H2 at a relatively mild temperature of 120 °C, where the catalysts exhibited turnover numbers (TONs) up to 3520 and 15,750, respectively, indicating their high catalytic efficiency. Finally, for the catalytic CO2-to-MeOH production reaction, a polyamine, namely, pentaethylenehexamine (PEHA), was used due to its high efficiency in CO2 capture as well as ability to act as a suitable organic base for deprotonative H2 activation, and the Ru-1 and HCP-Ru-1 systems displayed single-run TONs of 400 and 1150, respectively. As the most significant advancement in this process, the heterogeneous HCP-Ru-1 catalyst turned out to be highly reusable, and in a 10-cycle reuse demonstration experiment, it achieved a cumulative TON of 10,370 with merely 1.13% loss in activity per cycle.    
+
+    
+
+* Convergent Active Site Evolution in Platinum Single Atom Catalysts for Acetylene Hydrochlorination and Implications for Toxicity Minimization  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401991372
+:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-08-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03533")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401991372"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401991372"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401991372"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401991372 (Open access: True)
+    
+[[https://openalex.org/A5019535382][Vera Giulimondi]], [[https://openalex.org/A5047112176][Matteo Vanni]], [[https://openalex.org/A5076120898][Suyash Damir]], [[https://openalex.org/A5016773798][Tao Zou]], [[https://openalex.org/A5012059689][Sharon Mitchell]], [[https://openalex.org/A5013336575][Frank Krumeich]], [[https://openalex.org/A5060916943][Andrea Ruiz‐Ferrando]], [[https://openalex.org/A5100605805][Núria López]], [[https://openalex.org/A5106808031][J.J. Gata-Cuesta]], [[https://openalex.org/A5059336153][Gonzalo Guillén‐Gosálbez]], [[https://openalex.org/A5044704693][Joost J. Smit]], [[https://openalex.org/A5033243946][Peter Johnston]], [[https://openalex.org/A5007349453][Javier Pérez-Ramı́rez]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03533 
+     
+Platinum single atoms anchored onto activated carbon enable highly stable Hg-free synthesis of vinyl chloride (VCM) via acetylene hydrochlorination. Compared to gold-based alternatives, platinum catalysts are in initial phases of development. Most synthetic approaches rely on chloroplatinic acid, presenting opportunities to explore other precursors and their impact on catalyst structure, reactivity, and toxicity aspects. Here, we synthesize platinum single atom catalysts (Pt SACs, 0.2–0.8 wt % Pt) employing diverse Pt2+ and Pt4+ complexes with ammine, hydroxyl, nitrate, and chloride ligands, following a scalable impregnation protocol on activated carbon extrudates. X-ray absorption spectroscopy (XAS) reveals that Pt4+ species reduce to Pt2+ upon deposition onto the support. Despite similar oxidation states, the initial activity is precursor dependent, with tetraammine-derived Pt SACs displaying 2-fold higher VCM yield than chlorinated counterparts, linked to superior hydrogen chloride binding abilities by density functional theory (DFT) simulations. Their activity gradually converges due to dynamic active site restructuring, delivering remarkable precursor-independent stability over 150 h. Operando XAS and DFT studies uncover reaction-induced ligand exchange, generating common active and stable Pt–Clx (x = 2–3) species. Convergent active site evolution enables flexibility in metal precursor selection and thus toxicity minimization through multiparameter assessment. This study advances safe-by-design catalysts for VCM synthesis, highlighting the importance of toxicity analyses in early-stage catalyst development programs.    
+
+    
+
+* Carbon Dioxide Origin during High-Yield Partial Oxidation of Methane to Protected Methyl Esters  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4401991373
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2024-08-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04105")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4401991373"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4401991373"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4401991373"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4401991373 (Open access: True)
+    
+[[https://openalex.org/A5030330488][Andrea N. Blankenship]], [[https://openalex.org/A5008110991][Alexandru-Tudor Toderaşc]], [[https://openalex.org/A5059144530][Vladimir Paunović]], [[https://openalex.org/A5054120563][Jeroen A. van Bokhoven]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04105 
+     
+Mn/TiO2 catalysts are highly active for the partial oxidation of methane using dioxygen in acidic media to form oxidation-protected methyl esters. Nonetheless, the formation of carbon dioxide in these systems remains significant. In this study, we used 13C isotope-labeled methane to trace the origin of the carbon dioxide formation. These experiments showed that carbon dioxide primarily stems from acid degradation rather than product overoxidation in this system, confirming the high-yield methane partial oxidation of the esterification approach. Evaluation of activities and selectivities of the catalysts with different initial manganese distributions under different methane partial pressures and reaction temperatures revealed that ester selectivity within the liquid products remains nearly constant, while lower temperatures minimize the parasitic overoxidation of solvent. Using this knowledge, we demonstrated that a Mn/TiO2 catalyst synthesized via coprecipitation can provide 90% ester selectivity at 21% methane conversion within 3 h at 215 °C, representing the best reported heterogeneously catalyzed system for methane partial oxidation with molecular oxygen. This study identifies the road ahead for this chemistry, entailing further optimization of solid catalysts for improved ester productivity and high product yields while curtailing undesired side reactions unrelated to methane conversion.    
+
+    
+
+* Pulse Manipulation on Cu-Based Catalysts for Electrochemical Reduction of CO2  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402031369
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Thermoelectric Materials
+:PUBLICATION_DATE: 2024-08-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03513")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402031369"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402031369"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402031369"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402031369 (Open access: False)
+    
+[[https://openalex.org/A5101364539][Wanlong Xi]], [[https://openalex.org/A5055828743][Hongyao Zhou]], [[https://openalex.org/A5100681631][Peng Yang]], [[https://openalex.org/A5089177148][Huiting Huang]], [[https://openalex.org/A5061908731][Jia Tian]], [[https://openalex.org/A5039124217][Marina Ratova]], [[https://openalex.org/A5100779279][Dan Wu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03513 
+     
+Electrocatalytic carbon dioxide reduction (CO2RR) over Cu-based catalysts has emerged as a promising strategy for value-added artificial carbon cycling, addressing the current climate and energy challenges. However, the product selectivity and long-term stability of Cu-based catalysts are limited by their instability at constant potential. Recent advancements in pulsed techniques aim to overcome these limitations, enhancing the industrial feasibility of the CO2RR systems. This review critically examines recent research progress in pulsed CO2RR over Cu-based catalysts, offering a comprehensive synthesis of current findings. Key pulse parameters and characterization strategies are explored to uncover the mechanisms behind the enhanced CO2RR performance. The focus is on surface reconstruction, encompassing the regeneration and stabilization of the Cu oxidation states alongside morphological evolution, while also discussing microenvironment changes, including local CO2 concentration, local pH, and ionic arrangement. The intricate modulation mechanisms of pulse mode, potential, and duration on the CO2RR performance are elucidated, highlighting their interconnections. Finally, we identify the prevailing challenges and propose future directions for achieving environmentally friendly and economically viable artificial carbon cycling. By providing insightful perspectives on optimizing pulsed CO2RR, this review paves the way for developing more efficient and robust Cu-based catalytic systems.    
+
+    
+
 * Synergistic Effects of Complex Cu Species in Cu–MgO Catalysts for the Water Gas Shift Reaction  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402031423
@@ -171,5 +297,47 @@ OpenAlex: https://openalex.org/W4402079016 (Open access: False)
 [[https://openalex.org/A5029483451][Bedraj Pandey]], [[https://openalex.org/A5040305041][Jeanette A. Krause]], [[https://openalex.org/A5062126454][Hairong Guan]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04109 
      
 Dehydrogenation of formic acid without using additives and solvents is a challenging research problem in base metal catalysis. In this study, cobalt complexes of the type (iPrPPRP)CoH(PMe3) (iPrPPRP = (o-iPr2PC6H4)2PR; R = H or Me) are shown to catalyze the additive-free dehydrogenation of neat formic acid to carbon dioxide. The iPrPPMeP-ligated cobalt hydride is particularly effective, giving catalytic turnover numbers of up to 7122 with a single load of formic acid and 10,338 with a continuous addition of formic acid. Mechanistic investigation focusing on (iPrPPMeP)CoH(PMe3) reveals that the hydride complex is initially converted to [(iPrPPMeP)CoH2(PMe3)]+ and then to "(iPrPPMeP)Co(OCHO)" as the key intermediates for releasing H2 and CO2, respectively. As the catalytic reaction proceeds, decarbonylation of formic acid produces CO, which transforms the intermediates to [(iPrPPMeP)Co(CO)(PMe3)]+ and (iPrPPMeP)Co(CO)H as the less active forms of the catalyst. Further degradation to [(iPrPPMeP)Co(CO)2]+, protonated phosphine ligands, and cobalt formate ends the catalyst's life. Contrary to many other catalytic systems, the cobalt catalysts described here are more active in neat formic acid than in formic acid solutions, which can be attributed to the removal of PMe3 from the coordination sphere (via phosphine protonation) to generate a more reactive intermediate.    
+
+    
+
+* Chromium Promotes Phase Transformation to Active Oxyhydroxide for Efficient Oxygen Evolution  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402079069
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Catalytic Reduction of Nitro Compounds
+:PUBLICATION_DATE: 2024-08-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03974")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402079069"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402079069"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402079069"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402079069 (Open access: True)
+    
+[[https://openalex.org/A5100424369][Yong Wang]], [[https://openalex.org/A5100321837][Sijia Liu]], [[https://openalex.org/A5015864066][Yunpu Qin]], [[https://openalex.org/A5065153952][Yongzhi Zhao]], [[https://openalex.org/A5077301732][Luan Liu]], [[https://openalex.org/A5100366358][Di Zhang]], [[https://openalex.org/A5101982413][Jianfang Liu]], [[https://openalex.org/A5100613436][Yadong Liu]], [[https://openalex.org/A5069994656][Aimin Chu]], [[https://openalex.org/A5080543622][Haoyang Wu]], [[https://openalex.org/A5034103613][Baorui Jia]], [[https://openalex.org/A5073931088][Xuanhui Qu]], [[https://openalex.org/A5100348631][Hao Li]], [[https://openalex.org/A5050125163][Mingli Qin]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03974 
+     
+The oxygen evolution reaction (OER) is crucial for renewable energy technologies like metal–air batteries and water splitting. However, it suffers from sluggish kinetics, necessitating a high-activity and stable catalyst. In this study, we used Density Functional Theory (DFT) calculations to demonstrate that Cr doping favors the phase transition of metal (Fe, Co, Ni) hydroxide to the active phase oxyhydroxide. We synthesized FeCoNiCr hydroxide using an aqueous sol–gel method, ensuring that the four elements Fe, Co, Ni, and Cr are uniformly distributed at the atomic level. As an OER catalyst, FeCoNiCr hydroxide exhibits a very low overpotential of 224 mV in alkaline media, which is 52 mV lower than that of FeCoNi hydroxide, placing it among the best nonprecious metal catalysts reported so far. Additionally, it demonstrates long-term catalytic stability of 150 h. An assembled Zn-Air battery with FeCoNiCr hydroxides was cycled stably for 160 h with a low discharge/charge voltage difference of 0.70 V. DFT calculations and microkinetic modeling demonstrated that Cr doping significantly optimized the adsorption energies of OER intermediates at the Ni and Co sites, thereby enhancing overall OER activity. Bader charge calculations further revealed that Ni and Co in the catalysts consistently maintained a +3 valence throughout the OER process, which is beneficial for OER catalysis.    
+
+    
+
+* Crystalline Oxygen-Modified Carbon Nitride Photocatalyst with Enhanced Internal Electric Field and Strong Resistance to Ionic Interference for Robust Seawater Splitting  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402079090
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, DNA Nanotechnology and Bioanalytical Applications
+:PUBLICATION_DATE: 2024-08-31
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03031")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402079090"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402079090"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402079090"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402079090 (Open access: False)
+    
+[[https://openalex.org/A5100378741][Jing Wang]], [[https://openalex.org/A5076337365][N. Cao]], [[https://openalex.org/A5081664000][Xiaoming Liu]], [[https://openalex.org/A5082378693][Fengting He]], [[https://openalex.org/A5002365215][Yang‐Ming Lu]], [[https://openalex.org/A5100683179][Shuling Wang]], [[https://openalex.org/A5103046228][Chaocheng Zhao]], [[https://openalex.org/A5038714931][Yongqiang Wang]], [[https://openalex.org/A5100753713][Jinqiang Zhang]], [[https://openalex.org/A5100338047][Shaobin Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03031 
+     
+Photocatalytic seawater splitting to produce clean hydrogen from nonpotable water using sunlight is a crucial endeavor. However, the scarcity of high-performance photocatalysts in the promising yet fledgling field presents a formidable challenge. Herein, we successfully synthesized a crystalline oxygen-modified carbon nitride (CCNO) polymeric semiconductor that served as an effective photocatalyst for seawater splitting. Comprehensive characterizations and theoretical calculations revealed that nitrogen vacancies and bridging oxygen in the CCNO lattice acted as potent Lewis acid–base pairs, creating an enhanced built-in electric field. This advancement significantly accelerated charge dynamics and bolstered resistance to ionic interference in seawater. Consequently, CCNO exhibited a robust photocatalytic H2 evolution activity of 29.51 mmol g–1 h–1 in natural seawater, with an impressive apparent quantum efficiency of 66.86% under 420 nm monochromatic light. Seawater splitting for H2 production reached 16.83 mmol g–1 under natural light irradiation for 3 h (9–12 o'clock), showcasing its great potential for practical applications. This work presents strategies for developing a metal-free photocatalyst and elucidates its reaction mechanism in the seawater splitting process, laying the foundation for scalable production of clean hydrogen.    
 
     
