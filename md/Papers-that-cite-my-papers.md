@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Sep  3 01:15:06 2024
+Created on Wed Sep  4 01:16:22 2024
 
-Found 28 results from 2024-08-27 to 2024-09-03
+Found 41 results from 2024-08-28 to 2024-09-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -17,6 +17,17 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
 
+## Multi-dimensional neural network interatomic potentials for CO on NaCl(100)   
+
+OpenAlex: https://openalex.org/W4401956767    
+Open access: True
+    
+[Shreya Sinha](https://openalex.org/A5022082072), [Bruno Mladineo](https://openalex.org/A5010287641), [Ivor Lončarić](https://openalex.org/A5082425434), [Peter Saalfrank](https://openalex.org/A5061906414), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-nxd7d ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/66cdba9da4e53c4876c8df23/original/multi-dimensional-neural-network-interatomic-potentials-for-co-on-na-cl-100.pdf)).
+    
+The advent of machine learning (ML) models has unlocked new possibilities in the realm of interatomic potentials. An equivariant, graph neural network (NN), NequIP, recently developed by Batzner et al., [1,2] is utilized for a versatile system, CO on a NaCl(100) surface, to construct interatomic potentials and mediate efficient large-scale atomistic simulations with ab initio molecular dynamics accuracy. We report two neural network potentials, one trained on equilibrium configurations at finite temperatures (T = 30, 300 K), and the other additionally trained upon non-equilibrium trajectories of pre-excited CO adsorbates. We demonstrate first applications of the ML potentials for (i) adsorption energies and barriers for reactions, (ii) potential energy landscapes for submonolayer and monolayer coverages, (iii) vibrational spectra at finite temperatures as well as (iv) vibrational relaxation dynamics. Further possible applications are discussed.    
+
+    
+
 ## Competitive Strain Modulation of Oxygen Reduction Reaction in Monolayer Binary Alloy Surfaces   
 
 OpenAlex: https://openalex.org/W4401956928    
@@ -28,14 +39,14 @@ Binary alloys of transition metals are promising catalytic materials for the cat
 
     
 
-## Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle   
+## Solar energy powered electrochemical reduction of CO2 on In2O3 nanosheets with high energy conversion efficiency at a large current density   
 
-OpenAlex: https://openalex.org/W4401892778    
+OpenAlex: https://openalex.org/W4402034343    
 Open access: False
     
-[James M. Mayer](https://openalex.org/A5037787121), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115725.
+[Wei Xing Zheng](https://openalex.org/A5100611600), [Peihao Sun](https://openalex.org/A5047502122), [Бо Лю](https://openalex.org/A5100461728), [Wenzheng Nie](https://openalex.org/A5073048967), [Huihui Bao](https://openalex.org/A5103777071), [Linglan Men](https://openalex.org/A5042527734), [Qing Li](https://openalex.org/A5100404186), [Zhong Su](https://openalex.org/A5103106222), [Yangyang Wan](https://openalex.org/A5060400342), [Changlei Xia](https://openalex.org/A5018304054), [Huan Xie](https://openalex.org/A5079597182), Journal of Colloid and Interface Science. 678(None)] 2025.https://doi.org/10.1016/j.jcis.2024.08.177.
     
-No abstract    
+Electrochemical CO    
 
     
 
@@ -72,6 +83,17 @@ Surface formation markedly influences the stability and properties of nanoalloys
 
     
 
+## Advanced Progress for Promoting Anodic Hydrogen Oxidation Activity and Anti-CO Poisoning in Fuel Cells   
+
+OpenAlex: https://openalex.org/W4401945974    
+Open access: False
+    
+[Bin Cai](https://openalex.org/A5053891639), [Xiaodong Chen](https://openalex.org/A5100373719), [Lei Wang](https://openalex.org/A5100663225), [Honggang Fu](https://openalex.org/A5055445325), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03588.
+    
+The hydrogen oxidation reaction (HOR) is the anodic reaction of hydrogen–oxygen fuel cells, which plays a decisive role in the whole-device performance. However, inexpensive crude hydrogen inevitably contains carbon monoxide (CO) impurities, and even the state-of-the-art platinum (Pt) electrocatalysts can suffer an obvious activity decrease due to the poisoning of active sites, seriously hindering the efficiency of fuel cells. Developing electrocatalysts with promoted CO tolerance necessitates the elucidation of the HOR mechanism and deep understanding of the intrinsic nature of fuel cell poisoning. To date, weakening CO adsorption or accelerating its oxidation could improve the CO tolerance of the catalyst, so it is critical to seek much more effective strategies. Based on the study of the reaction mechanism, this Review summarizes the latest progress of HOR electrocatalysts with high stability and high activity against CO poisoning from two typical theories: hydrogen binding energy theory and bifunctional theory. The strategies for enhancing the CO tolerance of catalysts are gathered, including electronic structure modulation, oxophilic sites, and dual-site construction. In addition, the applications of catalysts in practical fuel cells is outlined. In conclusion, the discussion focuses on the challenges and future outlook of CO-tolerant HOR electrocatalysts, with the objective of offering distinct perspectives on the engineering design of HOR electrocatalysts with superior CO tolerance.    
+
+    
+
 ## Cobalt Phthalocyanine‐Based Photo/Electrocatalysts for Hydrogen Evolution Reaction   
 
 OpenAlex: https://openalex.org/W4401957318    
@@ -90,7 +112,7 @@ Open access: True
     
 [Liyun Jiang](https://openalex.org/A5004763124), [Mengdie Zhao](https://openalex.org/A5101470930), [Qi Yu](https://openalex.org/A5017725939), RSC Advances. 14(37)] 2024.https://doi.org/10.1039/d4ra04643a.
     
-Graphdiyne (GDY) has achieved great success in the application of two-dimensional carbon materials in recent years due to its excellent electrochemical catalytic capacity.    
+Graphdiyne (GDY) has achieved great success in the application of two-dimensional carbon materials in recent years due to its excellent electrochemical catalytic capacity. Considering the unique electronic structure of GDY, transition metal (TM    
 
     
 
@@ -102,6 +124,17 @@ Open access: False
 , Royal Society of Chemistry eBooks. None(None)] 2024.https://doi.org/10.1039/bk9781837674497-part2.
     
 No abstract    
+
+    
+
+## Hierarchical self-assembly of Au-nanoparticles into filaments: evolution and break   
+
+OpenAlex: https://openalex.org/W4401963289    
+Open access: True
+    
+[M. Tiberi](https://openalex.org/A5028939552), [Francesca Baletto](https://openalex.org/A5070612623), RSC Advances. 14(37)] 2024.https://doi.org/10.1039/d4ra04100c.
+    
+We compare the assembly of individual Au nanoparticles in a vacuum and between two Au(111) surfaces    
 
     
 
@@ -144,6 +177,17 @@ OpenAlex: https://openalex.org/W4401995869
 Open access: True
     
 [Rangsiman Ketkaew](https://openalex.org/A5088530950), [Fabrizio Creazzo](https://openalex.org/A5066926677), [Kevin Sivula](https://openalex.org/A5087847162), [Sandra Luber](https://openalex.org/A5084103690), Chem Catalysis. None(None)] 2024.https://doi.org/10.1016/j.checat.2024.101085.
+    
+No abstract    
+
+    
+
+## The Relationship Between Team Diversity and Team Performance: Reconciling Promise and Reality Through a Comprehensive Meta-Analysis Registered Report   
+
+OpenAlex: https://openalex.org/W4402018951    
+Open access: False
+    
+[Lukas Wallrich](https://openalex.org/A5074635467), [Victoria Opara](https://openalex.org/A5053032146), [Miki Wesołowska](https://openalex.org/A5095778720), [Ditte Barnoth](https://openalex.org/A5052383998), [Somayeh Yousefi](https://openalex.org/A5027720362), Journal of Business and Psychology. None(None)] 2024.https://doi.org/10.1007/s10869-024-09977-0.
     
 No abstract    
 
@@ -193,6 +237,17 @@ No abstract
 
     
 
+## Breaking the Fe3O4-wrapped copper microstructure to enhance copper–slag separation   
+
+OpenAlex: https://openalex.org/W4402050597    
+Open access: False
+    
+[Xiaopeng Chi](https://openalex.org/A5003577907), [Sheng Wang](https://openalex.org/A5100371335), [Jun Xia](https://openalex.org/A5106670417), [Hang Chen](https://openalex.org/A5050068450), [Xiangtao Yu](https://openalex.org/A5001457573), [Wei Weng](https://openalex.org/A5049245287), [Shuiping Zhong](https://openalex.org/A5081510057), International Journal of Minerals Metallurgy and Materials. 31(10)] 2024.https://doi.org/10.1007/s12613-024-2861-4.
+    
+No abstract    
+
+    
+
 ## Effect of the Precursor Metal Salt on the Oxygen Evolution Reaction for NiFe Oxide Materials   
 
 OpenAlex: https://openalex.org/W4402055549    
@@ -226,6 +281,17 @@ No abstract
 
     
 
+## Temperature and volumetric effects on structural and dielectric properties of hybrid perovskites   
+
+OpenAlex: https://openalex.org/W4402077844    
+Open access: True
+    
+[Andrzej Nowok](https://openalex.org/A5006362153), [Szymon Sobczak](https://openalex.org/A5048324432), [Kinga Roszak](https://openalex.org/A5068439725), [Anna Z. Szeremeta](https://openalex.org/A5068831491), [Mirosław Ma̧czka](https://openalex.org/A5014340686), [Andrzej Katrusiak](https://openalex.org/A5038667320), [Sebastian Pawlus](https://openalex.org/A5074572774), [Filip Formalik](https://openalex.org/A5028024581), [Antonio J. Barros dos Santos](https://openalex.org/A5008913966), [Waldeci Paraguassu](https://openalex.org/A5023976011), [Adam Sieradzki](https://openalex.org/A5044470648), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-51396-5.
+    
+Three-dimensional organic-inorganic perovskites are rapidly evolving materials with diverse applications. This study focuses on their two representatives - acetamidinium manganese(II) formate (AceMn) and formamidinium manganese(II) formate (FMDMn) - subjected to varying temperature and pressure. We show that AceMn undergoes atypical pressure-induced structural transformations at room temperature, increasing the symmetry from ambient-pressure P2    
+
+    
+
 ## Competing Kinetic Consequences of CO2 on the Oxidative Degradation of Branched Poly(ethylenimine)   
 
 OpenAlex: https://openalex.org/W4402079119    
@@ -233,7 +299,7 @@ Open access: True
     
 [Sichi Li](https://openalex.org/A5001581010), [Yoseph A. Guta](https://openalex.org/A5014851679), [Marcos F. Calegari Andrade](https://openalex.org/A5009911063), [Elwin Hunter‐Sellars](https://openalex.org/A5057320459), [Amitesh Maiti](https://openalex.org/A5030123751), [Anthony J. Varni](https://openalex.org/A5019294328), [Pingying Tang](https://openalex.org/A5024443673), [Carsten Sievers](https://openalex.org/A5088976109), [Simon H. Pang](https://openalex.org/A5037709742), [Christopher W. Jones](https://openalex.org/A5052807182), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c08126.
     
-Amine-functionalized porous solid materials are effective sorbents for direct air capture (DAC) of CO2. However, they are prone to oxidative degradation in service, increasing the materials cost for widespread implementation. While the identification of oxidation products has given insights into degradation pathways, the roles of some species, like CO2 itself, remain unresolved, with conflicting information in the literature. Here, we investigate the impact of CO2 on the oxidative degradation of poly(ethylenimine)–alumina (PEI/Al2O3) sorbents under conditions encompassing a wide range of CO2-air mixture compositions and temperatures relevant to DAC conditions, thereby reconciling the conflicting data in the literature. Degradation profiles characterized by thermogravimetric analysis, in situ ATR-FTIR, and CO2 capacity measurements reveal nonmonotonic effects of CO2 concentrations and temperatures on oxidation kinetics. Specifically, 0.04% CO2 accelerates PEI/Al2O3 oxidation more at low temperatures (<90 °C) compared to 1% and 5% CO2, but this trend reverses at high temperatures (>90 °C). First-principles metadynamics, machine learning accelerated molecular dynamics simulations, and 1H relaxometry experiments show that chemisorbed CO2 acid-catalyzes critical oxidation reactions, while extensive CO2 uptake reduces PEI branch mobility, slowing radical propagation. These contrasting kinetic effects of CO2 explain the complex degradation profiles observed in this work and in prior literature. Collectively, this work highlights the importance of considering atmospheric components in the design of DAC sorbents and processes. Additionally, it identifies the unconstrained branch mobility and local acid environment as two of the major culprits in the oxidation of amine-based sorbents, suggesting potential strategies to mitigate sorbent degradation.    
+Amine-functionalized porous solid materials are effective sorbents for direct air capture (DAC) of CO    
 
     
 
@@ -245,6 +311,17 @@ Open access: False
 [Tian Du](https://openalex.org/A5100716864), [Weimin Chen](https://openalex.org/A5100442505), [Yue Shen](https://openalex.org/A5090011683), [Wenzhu Cao](https://openalex.org/A5088276337), [Wenwen Miao](https://openalex.org/A5064074348), [Zonghe Lai](https://openalex.org/A5035766233), [Hong Chen](https://openalex.org/A5100420473), [Shanshan Yang](https://openalex.org/A5100711724), [Liang Wang](https://openalex.org/A5100456548), [Faquan Yu](https://openalex.org/A5080606995), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.155256.
     
 No abstract    
+
+    
+
+## Ichor: A Python library for computational chemistry data management and machine learning force field development   
+
+OpenAlex: https://openalex.org/W4402093726    
+Open access: True
+    
+[Yulian Manchev](https://openalex.org/A5034555399), [Matthew J. Burn](https://openalex.org/A5024957621), [Paul L. A. Popelier](https://openalex.org/A5078177431), Journal of Computational Chemistry. None(None)] 2024.https://doi.org/10.1002/jcc.27477.
+    
+Abstract We present ichor , an open‐source Python library that simplifies data management in computational chemistry and streamlines machine learning force field development. Ichor implements many easily extensible file management tools, in addition to a lazy file reading system, allowing efficient management of hundreds of thousands of computational chemistry files. Data from calculations can be readily stored into databases for easy sharing and post‐processing. Raw data can be directly processed by ichor to create machine learning‐ready datasets. In addition to powerful data‐related capabilities, ichor provides interfaces to popular workload management software employed by High Performance Computing clusters, making for effortless submission of thousands of separate calculations with only a single line of Python code. Furthermore, a simple‐to‐use command line interface has been implemented through a series of menu systems to further increase accessibility and efficiency of common important ichor tasks. Finally, ichor implements general tools for visualization and analysis of datasets and tools for measuring machine‐learning model quality both on test set data and in simulations. With the current functionalities, ichor can serve as an end‐to‐end data procurement, data management, and analysis solution for machine‐learning force‐field development.    
 
     
 
@@ -270,6 +347,17 @@ No abstract
 
     
 
+## Adsorbtive removal of HF toxic gas via tinsulfide monolayer modification: A molecular perspective   
+
+OpenAlex: https://openalex.org/W4402099609    
+Open access: False
+    
+[Masoud Arabieh](https://openalex.org/A5051509205), [Mohammad-Reza Basaadat](https://openalex.org/A5038780452), Chemosphere. None(None)] 2024.https://doi.org/10.1016/j.chemosphere.2024.143231.
+    
+Hydrofluoric Acid (HF) is considered one of the most hazardous chemicals used in industrial plants. Even small exposures to HF can have fatal consequences if not promptly and properly treated. Various research teams have presented numerous substances with the objective of capturing or detecting toxic HF gas. In this study, we explore the impact of HF gas on a single layer of SnS by employing density functional theory (DFT). The interaction nature between the gas molecule and the adsorbent is elucidated by analyzing the related adsorption energy, electronic structure properties and differential charge transfer. The findings indicate that HF is physically adsorbed on the pristine SnS with an adsorption energy value of -0.63 eV. By introducing a Sn mono vacancy defect, the modification of SnS enhances the adsorption energy to -1.26 eV, resulting in a chemisorption process. Molecular fluorine (F2) was discovered to undergo a barrierless reaction with SnS, resulting in the formation of fluorine-substituted SnS. It has been discovered that the substitution of fluorine atoms enhances the reactivity of SnS towards hydro- gen fluoride gas. The adsorption potential of the studied structures towards HF gas was determined to be in the following order: F2SnS > VSn-SnS > VS-SnS ∼ SnS. The current study is anticipated to offer new molecular insights that could lead to the creation of innovative devices for detecting or eliminating HF toxic gas from a specific atmosphere.    
+
+    
+
 ## MXene introduced between CoNi LDH and NiMoO4 nanorods arrays: A bifunctional multistage composite for OER catalyst and supercapacitors   
 
 OpenAlex: https://openalex.org/W4402115937    
@@ -281,6 +369,39 @@ No abstract
 
     
 
+## A compendium of all-in-one solar-driven water splitting using ZnIn2S4-based photocatalysts: guiding the path from the past to the limitless future   
+
+OpenAlex: https://openalex.org/W4402127839    
+Open access: False
+    
+[Wei‐Kean Chong](https://openalex.org/A5090211503), [Boon‐Junn Ng](https://openalex.org/A5054209619), [Lling‐Lling Tan](https://openalex.org/A5014285647), [Siang‐Piao Chai](https://openalex.org/A5000154274), Chemical Society Reviews. None(None)] 2024.https://doi.org/10.1039/d3cs01040f.
+    
+We discuss the unique properties of zinc indium sulfide associated with the exploitation of multifarious material design strategies to realise sustainable solar-driven overall water splitting for green hydrogen production.    
+
+    
+
+## Bridging the size gap between experiment and theory: large-scale DFT calculations on realistic sized Pd particles for acetylene hydrogenation   
+
+OpenAlex: https://openalex.org/W4402138240    
+Open access: True
+    
+[Apostolos Kordatos](https://openalex.org/A5011014029), [Khaled M. H. Mohammed](https://openalex.org/A5072552961), [Reza Vakili](https://openalex.org/A5011747109), [Haresh Manyar](https://openalex.org/A5053291487), [Alexandre Goguet](https://openalex.org/A5003249228), [Emma K. Gibson](https://openalex.org/A5015977939), [Marina Carravetta](https://openalex.org/A5057278135), [Peter P. Wells](https://openalex.org/A5086621789), [Chris‐Kriton Skylaris](https://openalex.org/A5005828580), RSC Advances. 14(38)] 2024.https://doi.org/10.1039/d4ra03369h.
+    
+The hydrogenation of acetylene on entire large Pd/PdC x nanoparticles has been investigated via large-scale DFT simulations. The impact of interstitial C has been examined whilst addressing the challenge of the simulation system size.    
+
+    
+
+## Plasma‐Induced Oxygen Defect Engineering in Perovskite Oxide for Boosting Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4402146252    
+Open access: True
+    
+[Kaiteng Wang](https://openalex.org/A5002375564), [Jun Zhou](https://openalex.org/A5024073247), [Lei Fu](https://openalex.org/A5071723684), [Yunqing Kang](https://openalex.org/A5012515854), [Zilin Zhou](https://openalex.org/A5092521721), [Zhengdong Wang](https://openalex.org/A5026852887), [Kai Wu](https://openalex.org/A5100651690), [Yusuke Yamauchi](https://openalex.org/A5037509120), Small. None(None)] 2024.https://doi.org/10.1002/smll.202404239.
+    
+Abstract Perovskite oxides are considered highly promising candidates for oxygen evolution reaction (OER) catalysts due to their low cost and adaptable electronic structure. However, modulating the electronic structure of catalysts without altering their nanomorphology is crucial for understanding the structure‐property relationship. In this study, a simple plasma bombardment strategy is developed to optimize the catalytic activity of perovskite oxides. Experimental characterization of plasma‐treated LaCo 0.9 Fe 0.1 O 3 (P‐LCFO) reveals abundant oxygen vacancies, which expose numerous active sites. Additionally, X‐ray photoelectron spectroscopy and X‐ray absorption fine structure analyses indicate a low Co valence state in P‐LCFO, likely due to the presence of these oxygen vacancies, which contributes to an optimized electronic structure that enhances OER performance. Consequently, P‐LCFO exhibits significantly improved OER catalytic activity, with a low overpotential of 294 mV at a current density of 10 mA cm −2 , outperforming commercial RuO 2 . This work underscores the benefits of plasma engineering for studying structure‐property relationships and developing highly active perovskite oxide catalysts for water splitting.    
+
+    
+
 ## Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation A Comprehensive Study on Cross Modal AI Applications   
 
 OpenAlex: https://openalex.org/W4402026964    
@@ -289,6 +410,17 @@ Open access: False
 [Zhou Ren](https://openalex.org/A5083293468), Journal of Computing and Electronic Information Management. 13(3)] 2024.https://doi.org/10.54097/h8wf8vah.
     
 Our study presents significant advancements in the handling of multimodal data through an extended Retrieval-Augmented Generation (RAG) model. By integrating advanced embedding techniques, efficient retrieval mechanisms, and robust generative capabilities, our model demonstrates notable improvements in retrieval accuracy, real-time efficiency, generative quality, and scalability. The retrieval accuracy of our model reached 85%, showing a 10% improvement over existing benchmarks. Furthermore, the retrieval time was reduced by 40%, enhancing real-time application performance. The model's generative quality was also significantly improved, with BLEU and ROUGE scores increasing by 15% and 12%, respectively. These results validate the effectiveness of our approach and its applicability to various AI applications, including information retrieval, recommendation systems, and content creation. Future research directions include the integration of additional modalities and further optimization of retrieval mechanisms to broaden the applicability of our model.    
+
+    
+
+## Putting error bars on density functional theory   
+
+OpenAlex: https://openalex.org/W4402049949    
+Open access: True
+    
+[Simuck F. Yuk](https://openalex.org/A5046284155), [Irmak Sargin](https://openalex.org/A5046044336), [Noah Meyer](https://openalex.org/A5005928101), [Jaron T. Krogel](https://openalex.org/A5064813165), [Scott P. Beckman](https://openalex.org/A5089623658), [Valentino R. Cooper](https://openalex.org/A5041140366), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-69194-w.
+    
+Predicting the error in density functional theory (DFT) calculations due to the choice of exchange-correlation (XC) functional is crucial to the success of DFT, but currently, there are limited options to estimate this a priori. This is particularly important for high-throughput screening of new materials. In this work, the structure and elastic properties of binary and ternary oxides are computed using four XC functionals: LDA, PBE-GGA, PBEsol, and vdW-DF with C09 exchange. To analyze the systemic errors inherent to each XC functional, we employed materials informatics methods to predict the expected errors. The predicted errors were also used to better the DFT-predicted lattice parameters. Our results emphasize the link between the computed errors and the electron density and hybridization errors of a functional. In essence, these results provide "error bars" for choosing a functional for the creation of high-accuracy, high-throughput datasets as well as avenues for the development of XC functionals with enhanced performance, thereby enabling the accelerated discovery and design of new materials.    
 
     
 
@@ -322,5 +454,16 @@ Open access: True
 [Maisa Faour](https://openalex.org/A5106808057), [Karam Yassin](https://openalex.org/A5019382684), [Dario R. Dekel](https://openalex.org/A5065902234), ACS Organic & Inorganic Au. None(None)] 2024.https://doi.org/10.1021/acsorginorgau.4c00052.
     
 Anion-exchange membranes (AEMs), known for enabling the high conductivity of hydroxide anions through dense polymeric structures, are pivotal components in fuel cells, electrolyzers, and other important electrochemical systems. This paper unveils an unprecedented utilization of AEMs in an electrochemical oxygen separation process, a new technology able to generate enriched oxygen from an O2/N2 mixture using a small voltage input. We demonstrate a first-of-its-kind AEM-based electrochemical device that operates under mild conditions, is free of liquid electrolytes or sweep gases, and produces oxygen of over 96% purity. Additionally, we develop and apply a one-dimensional time-dependent and isothermal model, which accurately captures the unique operational dynamics of our device, demonstrates good agreement with the experimental data, and allows us to explore the device's potential capabilities. This novel technology has far-reaching applications in many industrial processes, medical oxygen therapy, and other diverse fields while reducing operational complexity and environmental impact, thereby paving the way for sustainable on-site oxygen generation.    
+
+    
+
+## Adult Migrants’ Formal and Informal Language Learning Opportunities: Availability, Choice, and Social Integration   
+
+OpenAlex: https://openalex.org/W4401950850    
+Open access: False
+    
+[Katherine Rehner](https://openalex.org/A5022014908), [John Ippolito](https://openalex.org/A5087096817), [Ivan Lasan](https://openalex.org/A5039937840), [Gilles Forget](https://openalex.org/A5008158087), [Claire Gouveia](https://openalex.org/A5106802344), [Sarah Jones](https://openalex.org/A5048226565), [Haibo Liu](https://openalex.org/A5100394072), Canadian Modern Language Review/ La Revue canadienne des langues vivantes. None(None)] 2024.https://doi.org/10.3138/cmlr-2023-0075.
+    
+This study explores adult migrants’ formal and informal opportunities for learning their host country’s dominant language: specifically, the availability, accessibility, and effects of these opportunities on the migrants’ social integration. It prioritizes the migrants’ experience by reporting findings obtained from analyses of questionnaire data collected from 76 migrants in Canada, the United States, and Italy and from interview data collected from a subset of 18 of these migrants. The findings are supplemented by analyses of questionnaire data collected from 12 service providers at the same research sites. The findings show that across the three sites, adult migrants value both formal and informal learning opportunities; that in both learning contexts they prioritize the development of communicative competence, particularly speaking and listening skills; and that outside the classroom they prefer to interact with locals who do not share their home language, and find these interactions very useful in their social integration efforts. However, the findings also reveal that the migrants are not always able to choose freely to engage in the kinds of language learning opportunities that would help them meet their language learning or social integration goals because these opportunities may be unavailable, inaccessible, or insufficiently designed to meet their needs.    
 
     

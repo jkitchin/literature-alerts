@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Sep  3 01:14:57 2024
+Created on Wed Sep  4 01:16:11 2024
 
-Found 3 results from 2024-08-27 to 2024-09-03
+Found 4 results from 2024-08-28 to 2024-09-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -36,5 +36,16 @@ Open access: False
 [Douglas Allan](https://openalex.org/A5070732014), [Steve Zitney](https://openalex.org/A5012099582), [Eric Liese](https://openalex.org/A5037132412), [Lorenz T. Biegler](https://openalex.org/A5052825722), [San Dinh](https://openalex.org/A5059801671), [Mingrui Li](https://openalex.org/A5100684502), [Nishant Giridhar](https://openalex.org/A5094303018), [Quang A. Le](https://openalex.org/A5033092324), [Daniel Beahr](https://openalex.org/A5075358388), [Debangsu Bhattacharyya](https://openalex.org/A5037148093), No host. None(None)] 2024.https://doi.org/10.2172/2434318.
     
 No abstract    
+
+    
+
+## Constraining Aerosol-Cloud Adjustments by Uniting Surface Observations with a Perturbed Parameter Ensemble   
+
+OpenAlex: https://openalex.org/W4402053303    
+Open access: True
+    
+[Anders Mikkelsen](https://openalex.org/A5027787343), [Daniel T. McCoy](https://openalex.org/A5052404448), [Trude Eidhammer](https://openalex.org/A5076884167), [Andrew Gettelman](https://openalex.org/A5016753222), [C. H. Song](https://openalex.org/A5103217491), [Hamish Gordon](https://openalex.org/A5086004922), [Isabel L. McCoy](https://openalex.org/A5082829446), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-2158.
+    
+Abstract. Aerosol-cloud interactions (aci) are the largest source of uncertainty in inferring the magnitude of future warming consistent with the observational record. The effective radiative forcing due to aci (ERFaci) is dominated by liquid clouds and is composed of two terms: the change in cloud albedo due to redistributing liquid over a larger number of cloud droplets (Nd) and the change in cloud macrophysical properties due to changes in cloud microphysics. These terms are respectively referred to as the radiative forcing due to aci (RFaci) and aerosol-cloud adjustments. While the magnitude of RFaci is uncertain, its sign is confidently negative and results in a cooling in the historical record. In contrast, the adjustment of cloud liquid water path (LWP) to enhanced Nd and associated radiative forcing is uncertain in sign. Increased LWP in response to increased Nd is consistent with precipitation suppression while decreased LWP in response to increased Nd is consistent with enhanced evaporation from cloud top. Observational constraints of these processes are poor in part because of causal ambiguity in the relationship between Nd and LWP. To better understand this relationship, precipitation (P), Nd, and LWP surface observations from the Eastern North Atlantic (ENA) atmospheric observatory are combined with the output from a perturbed parameter ensemble (PPE) hosted in the Community Atmosphere Model version 6 (CAM6). This allows causal interpretation of observed covariability. Observations of precipitation and cloud from ENA constrain the range of possible LWP aerosol-cloud adjustments relative to the prior from the PPE by 15 %, resulting in a global value that is confidently positive (a historical cooling) ranging from 2.1 to 6.9 g/m2. It is found that observed covariability between Nd and LWP is dominated by coalescence scavenging and that this observed covariability is not strongly related to aerosol-cloud adjustments.    
 
     

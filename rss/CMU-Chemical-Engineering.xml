@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Sep 2024 01:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 01:16:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Douglas Allan, Steve Zitney, Eric Liese, Lorenz T. Biegler, San Dinh, Mingrui Li, Nishant Giridhar, Quang A. Le, Daniel Beahr, Debangsu Bhattacharyya</author>
       <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2434318</guid>
+    </item>
+    <item>
+      <title>Constraining Aerosol-Cloud Adjustments by Uniting Surface Observations with a Perturbed Parameter Ensemble</title>
+      <link>https://doi.org/10.5194/egusphere-2024-2158</link>
+      <description>Anders Mikkelsen, Daniel T. McCoy, Trude Eidhammer, Andrew Gettelman, C. H. Song, Hamish Gordon, Isabel L. McCoy, No host. None(None)] 2024. https://openalex.org/W4402053303
+
+                Abstract. Aerosol-cloud interactions (aci) are the largest source of uncertainty in inferring the magnitude of future warming consistent with the observational record. The effective radiative forcing due to aci (ERFaci) is dominated by liquid clouds and is composed of two terms: the change in cloud albedo due to redistributing liquid over a larger number of cloud droplets (Nd) and the change in cloud macrophysical properties due to changes in cloud microphysics. These terms are respectively referred to as the radiative forcing due to aci (RFaci) and aerosol-cloud adjustments. While the magnitude of RFaci is uncertain, its sign is confidently negative and results in a cooling in the historical record. In contrast, the adjustment of cloud liquid water path (LWP) to enhanced Nd and associated radiative forcing is uncertain in sign. Increased LWP in response to increased Nd is consistent with precipitation suppression while decreased LWP in response to increased Nd is consistent with enhanced evaporation from cloud top. Observational constraints of these processes are poor in part because of causal ambiguity in the relationship between Nd and LWP. To better understand this relationship, precipitation (P), Nd, and LWP surface observations from the Eastern North Atlantic (ENA) atmospheric observatory are combined with the output from a perturbed parameter ensemble (PPE) hosted in the Community Atmosphere Model version 6 (CAM6). This allows causal interpretation of observed covariability. Observations of precipitation and cloud from ENA constrain the range of possible LWP aerosol-cloud adjustments relative to the prior from the PPE by 15 %, resulting in a global value that is confidently positive (a historical cooling) ranging from 2.1 to 6.9 g/m2. It is found that observed covariability between Nd and LWP is dominated by coalescence scavenging and that this observed covariability is not strongly related to aerosol-cloud adjustments.</description>
+      <author>Anders Mikkelsen, Daniel T. McCoy, Trude Eidhammer, Andrew Gettelman, C. H. Song, Hamish Gordon, Isabel L. McCoy</author>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-2158</guid>
     </item>
   </channel>
 </rss>

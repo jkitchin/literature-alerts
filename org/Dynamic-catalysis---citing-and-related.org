@@ -1,8 +1,8 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Tue Sep  3 01:14:58 2024
+Created on Wed Sep  4 01:16:12 2024
 
-Found 2 results from 2024-08-27 to 2024-09-03
+Found 2 results from 2024-08-28 to 2024-09-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
@@ -31,7 +31,7 @@ Electrocatalytic carbon dioxide reduction (CO2RR) over Cu-based catalysts has em
 * Physicochemical Principles of AC Electrosynthesis: Reversible Reactions  :Dynamic_catalysis___citing_and_related:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402079108
-:TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Breath Analysis Technology
+:TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Applications of Photoredox Catalysis in Organic Synthesis
 :PUBLICATION_DATE: 2024-08-30
 :END:    
     

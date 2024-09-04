@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Sep 2024 01:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 01:16:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Multi-dimensional neural network interatomic potentials for CO on NaCl(100)</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-nxd7d</link>
+      <description>Shreya Sinha, Bruno Mladineo, Ivor Lon&#269;ari&#263;, Peter Saalfrank, No host. None(None)] 2024. https://openalex.org/W4401956767
+
+                The advent of machine learning (ML) models has unlocked new possibilities in the realm of interatomic potentials. An equivariant, graph neural network (NN), NequIP, recently developed by Batzner et al., [1,2] is utilized for a versatile system, CO on a NaCl(100) surface, to construct interatomic potentials and mediate efficient large-scale atomistic simulations with ab initio molecular dynamics accuracy. We report two neural network potentials, one trained on equilibrium configurations at finite temperatures (T = 30, 300 K), and the other additionally trained upon non-equilibrium trajectories of pre-excited CO adsorbates. We demonstrate first applications of the ML potentials for (i) adsorption energies and barriers for reactions, (ii) potential energy landscapes for submonolayer and monolayer coverages, (iii) vibrational spectra at finite temperatures as well as (iv) vibrational relaxation dynamics. Further possible applications are discussed.</description>
+      <author>Shreya Sinha, Bruno Mladineo, Ivor Lon&#269;ari&#263;, Peter Saalfrank</author>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-nxd7d</guid>
+    </item>
     <item>
       <title>Competitive Strain Modulation of Oxygen Reduction Reaction in Monolayer Binary Alloy Surfaces</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-j9g93</link>
@@ -18,14 +28,14 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-j9g93</guid>
     </item>
     <item>
-      <title>Site heterogeneity and broad surface-binding isotherms in modern catalysis: Building intuition beyond the Sabatier principle</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115725</link>
-      <description>James M. Mayer, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4401892778
+      <title>Solar energy powered electrochemical reduction of CO2 on In2O3 nanosheets with high energy conversion efficiency at a large current density</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.08.177</link>
+      <description>Wei Xing Zheng, Peihao Sun, &#1041;&#1086; &#1051;&#1102;, Wenzheng Nie, Huihui Bao, Linglan Men, Qing Li, Zhong Su, Yangyang Wan, Changlei Xia, Huan Xie, Journal of Colloid and Interface Science. 678(None)] 2025. https://openalex.org/W4402034343
 
-                No abstract</description>
-      <author>James M. Mayer</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115725</guid>
+                Electrochemical CO</description>
+      <author>Wei Xing Zheng, Peihao Sun, &#1041;&#1086; &#1051;&#1102;, Wenzheng Nie, Huihui Bao, Linglan Men, Qing Li, Zhong Su, Yangyang Wan, Changlei Xia, Huan Xie</author>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.08.177</guid>
     </item>
     <item>
       <title>Hydroxyl group modification improves the selectivity of metal single atom on poly(heptazine imide) for electrocatalytic acetylene semi-hydrogenation</title>
@@ -58,6 +68,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03350</guid>
     </item>
     <item>
+      <title>Advanced Progress for Promoting Anodic Hydrogen Oxidation Activity and Anti-CO Poisoning in Fuel Cells</title>
+      <link>https://doi.org/10.1021/acscatal.4c03588</link>
+      <description>Bin Cai, Xiaodong Chen, Lei Wang, Honggang Fu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401945974
+
+                The hydrogen oxidation reaction (HOR) is the anodic reaction of hydrogen&#8211;oxygen fuel cells, which plays a decisive role in the whole-device performance. However, inexpensive crude hydrogen inevitably contains carbon monoxide (CO) impurities, and even the state-of-the-art platinum (Pt) electrocatalysts can suffer an obvious activity decrease due to the poisoning of active sites, seriously hindering the efficiency of fuel cells. Developing electrocatalysts with promoted CO tolerance necessitates the elucidation of the HOR mechanism and deep understanding of the intrinsic nature of fuel cell poisoning. To date, weakening CO adsorption or accelerating its oxidation could improve the CO tolerance of the catalyst, so it is critical to seek much more effective strategies. Based on the study of the reaction mechanism, this Review summarizes the latest progress of HOR electrocatalysts with high stability and high activity against CO poisoning from two typical theories: hydrogen binding energy theory and bifunctional theory. The strategies for enhancing the CO tolerance of catalysts are gathered, including electronic structure modulation, oxophilic sites, and dual-site construction. In addition, the applications of catalysts in practical fuel cells is outlined. In conclusion, the discussion focuses on the challenges and future outlook of CO-tolerant HOR electrocatalysts, with the objective of offering distinct perspectives on the engineering design of HOR electrocatalysts with superior CO tolerance.</description>
+      <author>Bin Cai, Xiaodong Chen, Lei Wang, Honggang Fu</author>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03588</guid>
+    </item>
+    <item>
       <title>Cobalt Phthalocyanine&#8208;Based Photo/Electrocatalysts for Hydrogen Evolution Reaction</title>
       <link>https://doi.org/10.1002/aesr.202400169</link>
       <description>Sheriff A. Balogun, Dina Thole, Daniel Masekela, Kwena D. Modibane, Advanced Energy and Sustainability Research. None(None)] 2024. https://openalex.org/W4401957318
@@ -72,7 +92,7 @@
       <link>https://doi.org/10.1039/d4ra04643a</link>
       <description>Liyun Jiang, Mengdie Zhao, Qi Yu, RSC Advances. 14(37)] 2024. https://openalex.org/W4401959655
 
-                Graphdiyne (GDY) has achieved great success in the application of two-dimensional carbon materials in recent years due to its excellent electrochemical catalytic capacity.</description>
+                Graphdiyne (GDY) has achieved great success in the application of two-dimensional carbon materials in recent years due to its excellent electrochemical catalytic capacity. Considering the unique electronic structure of GDY, transition metal (TM</description>
       <author>Liyun Jiang, Mengdie Zhao, Qi Yu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ra04643a</guid>
@@ -86,6 +106,16 @@
       <author/>
       <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/bk9781837674497-part2</guid>
+    </item>
+    <item>
+      <title>Hierarchical self-assembly of Au-nanoparticles into filaments: evolution and break</title>
+      <link>https://doi.org/10.1039/d4ra04100c</link>
+      <description>M. Tiberi, Francesca Baletto, RSC Advances. 14(37)] 2024. https://openalex.org/W4401963289
+
+                We compare the assembly of individual Au nanoparticles in a vacuum and between two Au(111) surfaces</description>
+      <author>M. Tiberi, Francesca Baletto</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra04100c</guid>
     </item>
     <item>
       <title>Coupling Ir single atom with NiFe LDH/NiMo heterointerface toward efficient and durable water splitting at large current density</title>
@@ -128,6 +158,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2024.101085</guid>
     </item>
     <item>
+      <title>The Relationship Between Team Diversity and Team Performance: Reconciling Promise and Reality Through a Comprehensive Meta-Analysis Registered Report</title>
+      <link>https://doi.org/10.1007/s10869-024-09977-0</link>
+      <description>Lukas Wallrich, Victoria Opara, Miki Weso&#322;owska, Ditte Barnoth, Somayeh Yousefi, Journal of Business and Psychology. None(None)] 2024. https://openalex.org/W4402018951
+
+                No abstract</description>
+      <author>Lukas Wallrich, Victoria Opara, Miki Weso&#322;owska, Ditte Barnoth, Somayeh Yousefi</author>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10869-024-09977-0</guid>
+    </item>
+    <item>
       <title>Bifunctional Electrocatalyst&#8211;Driven Hybrid Water Splitting for Energy&#8208;Saving Coproduction of Green H &lt;sub&gt;2&lt;/sub&gt; and Valuable Chemicals</title>
       <link>https://doi.org/10.1002/9781394234110.ch10</link>
       <description>Hui Jiang, Guoliang Mei, Bao Yu Xia, No host. None(None)] 2024. https://openalex.org/W4402030913
@@ -168,6 +208,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.459</guid>
     </item>
     <item>
+      <title>Breaking the Fe3O4-wrapped copper microstructure to enhance copper&#8211;slag separation</title>
+      <link>https://doi.org/10.1007/s12613-024-2861-4</link>
+      <description>Xiaopeng Chi, Sheng Wang, Jun Xia, Hang Chen, Xiangtao Yu, Wei Weng, Shuiping Zhong, International Journal of Minerals Metallurgy and Materials. 31(10)] 2024. https://openalex.org/W4402050597
+
+                No abstract</description>
+      <author>Xiaopeng Chi, Sheng Wang, Jun Xia, Hang Chen, Xiangtao Yu, Wei Weng, Shuiping Zhong</author>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12613-024-2861-4</guid>
+    </item>
+    <item>
       <title>Effect of the Precursor Metal Salt on the Oxygen Evolution Reaction for NiFe Oxide Materials</title>
       <link>https://doi.org/10.1002/celc.202400151</link>
       <description>A. Zuber, Ilias M. Oikonomou, Lee Gannon, I. I. Chunin, L.A. Reith, Berrin Zeliha Can, Mailis Lounasvuori, Thorsten Schultz, Norbert Koch, Cormac McGuinness, Prashanth W. Menezes, Valeria Nicolosi, Michelle P. Browne, ChemElectroChem. None(None)] 2024. https://openalex.org/W4402055549
@@ -198,11 +248,21 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.176239</guid>
     </item>
     <item>
+      <title>Temperature and volumetric effects on structural and dielectric properties of hybrid perovskites</title>
+      <link>https://doi.org/10.1038/s41467-024-51396-5</link>
+      <description>Andrzej Nowok, Szymon Sobczak, Kinga Roszak, Anna Z. Szeremeta, Miros&#322;aw Ma&#807;czka, Andrzej Katrusiak, Sebastian Pawlus, Filip Formalik, Antonio J. Barros dos Santos, Waldeci Paraguassu, Adam Sieradzki, Nature Communications. 15(1)] 2024. https://openalex.org/W4402077844
+
+                Three-dimensional organic-inorganic perovskites are rapidly evolving materials with diverse applications. This study focuses on their two representatives - acetamidinium manganese(II) formate (AceMn) and formamidinium manganese(II) formate (FMDMn) - subjected to varying temperature and pressure. We show that AceMn undergoes atypical pressure-induced structural transformations at room temperature, increasing the symmetry from ambient-pressure P2</description>
+      <author>Andrzej Nowok, Szymon Sobczak, Kinga Roszak, Anna Z. Szeremeta, Miros&#322;aw Ma&#807;czka, Andrzej Katrusiak, Sebastian Pawlus, Filip Formalik, Antonio J. Barros dos Santos, Waldeci Paraguassu, Adam Sieradzki</author>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-51396-5</guid>
+    </item>
+    <item>
       <title>Competing Kinetic Consequences of CO&lt;sub&gt;2&lt;/sub&gt; on the Oxidative Degradation of Branched Poly(ethylenimine)</title>
       <link>https://doi.org/10.1021/jacs.4c08126</link>
       <description>Sichi Li, Yoseph A. Guta, Marcos F. Calegari Andrade, Elwin Hunter&#8208;Sellars, Amitesh Maiti, Anthony J. Varni, Pingying Tang, Carsten Sievers, Simon H. Pang, Christopher W. Jones, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4402079119
 
-                Amine-functionalized porous solid materials are effective sorbents for direct air capture (DAC) of CO2. However, they are prone to oxidative degradation in service, increasing the materials cost for widespread implementation. While the identification of oxidation products has given insights into degradation pathways, the roles of some species, like CO2 itself, remain unresolved, with conflicting information in the literature. Here, we investigate the impact of CO2 on the oxidative degradation of poly(ethylenimine)&#8211;alumina (PEI/Al2O3) sorbents under conditions encompassing a wide range of CO2-air mixture compositions and temperatures relevant to DAC conditions, thereby reconciling the conflicting data in the literature. Degradation profiles characterized by thermogravimetric analysis, in situ ATR-FTIR, and CO2 capacity measurements reveal nonmonotonic effects of CO2 concentrations and temperatures on oxidation kinetics. Specifically, 0.04% CO2 accelerates PEI/Al2O3 oxidation more at low temperatures (&lt;90 &#176;C) compared to 1% and 5% CO2, but this trend reverses at high temperatures (&gt;90 &#176;C). First-principles metadynamics, machine learning accelerated molecular dynamics simulations, and 1H relaxometry experiments show that chemisorbed CO2 acid-catalyzes critical oxidation reactions, while extensive CO2 uptake reduces PEI branch mobility, slowing radical propagation. These contrasting kinetic effects of CO2 explain the complex degradation profiles observed in this work and in prior literature. Collectively, this work highlights the importance of considering atmospheric components in the design of DAC sorbents and processes. Additionally, it identifies the unconstrained branch mobility and local acid environment as two of the major culprits in the oxidation of amine-based sorbents, suggesting potential strategies to mitigate sorbent degradation.</description>
+                Amine-functionalized porous solid materials are effective sorbents for direct air capture (DAC) of CO</description>
       <author>Sichi Li, Yoseph A. Guta, Marcos F. Calegari Andrade, Elwin Hunter&#8208;Sellars, Amitesh Maiti, Anthony J. Varni, Pingying Tang, Carsten Sievers, Simon H. Pang, Christopher W. Jones</author>
       <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08126</guid>
@@ -216,6 +276,16 @@
       <author>Tian Du, Weimin Chen, Yue Shen, Wenzhu Cao, Wenwen Miao, Zonghe Lai, Hong Chen, Shanshan Yang, Liang Wang, Faquan Yu</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155256</guid>
+    </item>
+    <item>
+      <title>Ichor: A Python library for computational chemistry data management and machine learning force field development</title>
+      <link>https://doi.org/10.1002/jcc.27477</link>
+      <description>Yulian Manchev, Matthew J. Burn, Paul L. A. Popelier, Journal of Computational Chemistry. None(None)] 2024. https://openalex.org/W4402093726
+
+                Abstract We present ichor , an open&#8208;source Python library that simplifies data management in computational chemistry and streamlines machine learning force field development. Ichor implements many easily extensible file management tools, in addition to a lazy file reading system, allowing efficient management of hundreds of thousands of computational chemistry files. Data from calculations can be readily stored into databases for easy sharing and post&#8208;processing. Raw data can be directly processed by ichor to create machine learning&#8208;ready datasets. In addition to powerful data&#8208;related capabilities, ichor provides interfaces to popular workload management software employed by High Performance Computing clusters, making for effortless submission of thousands of separate calculations with only a single line of Python code. Furthermore, a simple&#8208;to&#8208;use command line interface has been implemented through a series of menu systems to further increase accessibility and efficiency of common important ichor tasks. Finally, ichor implements general tools for visualization and analysis of datasets and tools for measuring machine&#8208;learning model quality both on test set data and in simulations. With the current functionalities, ichor can serve as an end&#8208;to&#8208;end data procurement, data management, and analysis solution for machine&#8208;learning force&#8208;field development.</description>
+      <author>Yulian Manchev, Matthew J. Burn, Paul L. A. Popelier</author>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27477</guid>
     </item>
     <item>
       <title>Recent advancements in two-dimensional transition metal dichalcogenide materials towards hydrogen-evolution electrocatalysis</title>
@@ -238,6 +308,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105022</guid>
     </item>
     <item>
+      <title>Adsorbtive removal of HF toxic gas via tinsulfide monolayer modification: A molecular perspective</title>
+      <link>https://doi.org/10.1016/j.chemosphere.2024.143231</link>
+      <description>Masoud Arabieh, Mohammad-Reza Basaadat, Chemosphere. None(None)] 2024. https://openalex.org/W4402099609
+
+                Hydrofluoric Acid (HF) is considered one of the most hazardous chemicals used in industrial plants. Even small exposures to HF can have fatal consequences if not promptly and properly treated. Various research teams have presented numerous substances with the objective of capturing or detecting toxic HF gas. In this study, we explore the impact of HF gas on a single layer of SnS by employing density functional theory (DFT). The interaction nature between the gas molecule and the adsorbent is elucidated by analyzing the related adsorption energy, electronic structure properties and differential charge transfer. The findings indicate that HF is physically adsorbed on the pristine SnS with an adsorption energy value of -0.63 eV. By introducing a Sn mono vacancy defect, the modification of SnS enhances the adsorption energy to -1.26 eV, resulting in a chemisorption process. Molecular fluorine (F2) was discovered to undergo a barrierless reaction with SnS, resulting in the formation of fluorine-substituted SnS. It has been discovered that the substitution of fluorine atoms enhances the reactivity of SnS towards hydro- gen fluoride gas. The adsorption potential of the studied structures towards HF gas was determined to be in the following order: F2SnS &gt; VSn-SnS &gt; VS-SnS &#8764; SnS. The current study is anticipated to offer new molecular insights that could lead to the creation of innovative devices for detecting or eliminating HF toxic gas from a specific atmosphere.</description>
+      <author>Masoud Arabieh, Mohammad-Reza Basaadat</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.chemosphere.2024.143231</guid>
+    </item>
+    <item>
       <title>MXene introduced between CoNi LDH and NiMoO4 nanorods arrays: A bifunctional multistage composite for OER catalyst and supercapacitors</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.08.466</link>
       <description>Li Wang, N&#252; Wang, Xiangyang Zhou, Zhongren Yue, Yan Shan, Kezheng Chen, Xuegang Yu, International Journal of Hydrogen Energy. 86(None)] 2024. https://openalex.org/W4402115937
@@ -248,6 +328,36 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.466</guid>
     </item>
     <item>
+      <title>A compendium of all-in-one solar-driven water splitting using ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;-based photocatalysts: guiding the path from the past to the limitless future</title>
+      <link>https://doi.org/10.1039/d3cs01040f</link>
+      <description>Wei&#8208;Kean Chong, Boon&#8208;Junn Ng, Lling&#8208;Lling Tan, Siang&#8208;Piao Chai, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4402127839
+
+                We discuss the unique properties of zinc indium sulfide associated with the exploitation of multifarious material design strategies to realise sustainable solar-driven overall water splitting for green hydrogen production.</description>
+      <author>Wei&#8208;Kean Chong, Boon&#8208;Junn Ng, Lling&#8208;Lling Tan, Siang&#8208;Piao Chai</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cs01040f</guid>
+    </item>
+    <item>
+      <title>Bridging the size gap between experiment and theory: large-scale DFT calculations on realistic sized Pd particles for acetylene hydrogenation</title>
+      <link>https://doi.org/10.1039/d4ra03369h</link>
+      <description>Apostolos Kordatos, Khaled M. H. Mohammed, Reza Vakili, Haresh Manyar, Alexandre Goguet, Emma K. Gibson, Marina Carravetta, Peter P. Wells, Chris&#8208;Kriton Skylaris, RSC Advances. 14(38)] 2024. https://openalex.org/W4402138240
+
+                The hydrogenation of acetylene on entire large Pd/PdC x nanoparticles has been investigated via large-scale DFT simulations. The impact of interstitial C has been examined whilst addressing the challenge of the simulation system size.</description>
+      <author>Apostolos Kordatos, Khaled M. H. Mohammed, Reza Vakili, Haresh Manyar, Alexandre Goguet, Emma K. Gibson, Marina Carravetta, Peter P. Wells, Chris&#8208;Kriton Skylaris</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra03369h</guid>
+    </item>
+    <item>
+      <title>Plasma&#8208;Induced Oxygen Defect Engineering in Perovskite Oxide for Boosting Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/smll.202404239</link>
+      <description>Kaiteng Wang, Jun Zhou, Lei Fu, Yunqing Kang, Zilin Zhou, Zhengdong Wang, Kai Wu, Yusuke Yamauchi, Small. None(None)] 2024. https://openalex.org/W4402146252
+
+                Abstract Perovskite oxides are considered highly promising candidates for oxygen evolution reaction (OER) catalysts due to their low cost and adaptable electronic structure. However, modulating the electronic structure of catalysts without altering their nanomorphology is crucial for understanding the structure&#8208;property relationship. In this study, a simple plasma bombardment strategy is developed to optimize the catalytic activity of perovskite oxides. Experimental characterization of plasma&#8208;treated LaCo 0.9 Fe 0.1 O 3 (P&#8208;LCFO) reveals abundant oxygen vacancies, which expose numerous active sites. Additionally, X&#8208;ray photoelectron spectroscopy and X&#8208;ray absorption fine structure analyses indicate a low Co valence state in P&#8208;LCFO, likely due to the presence of these oxygen vacancies, which contributes to an optimized electronic structure that enhances OER performance. Consequently, P&#8208;LCFO exhibits significantly improved OER catalytic activity, with a low overpotential of 294 mV at a current density of 10 mA cm &#8722;2 , outperforming commercial RuO 2 . This work underscores the benefits of plasma engineering for studying structure&#8208;property relationships and developing highly active perovskite oxide catalysts for water splitting.</description>
+      <author>Kaiteng Wang, Jun Zhou, Lei Fu, Yunqing Kang, Zilin Zhou, Zhengdong Wang, Kai Wu, Yusuke Yamauchi</author>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404239</guid>
+    </item>
+    <item>
       <title>Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation A Comprehensive Study on Cross Modal AI Applications</title>
       <link>https://doi.org/10.54097/h8wf8vah</link>
       <description>Zhou Ren, Journal of Computing and Electronic Information Management. 13(3)] 2024. https://openalex.org/W4402026964
@@ -256,6 +366,16 @@
       <author>Zhou Ren</author>
       <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.54097/h8wf8vah</guid>
+    </item>
+    <item>
+      <title>Putting error bars on density functional theory</title>
+      <link>https://doi.org/10.1038/s41598-024-69194-w</link>
+      <description>Simuck F. Yuk, Irmak Sargin, Noah Meyer, Jaron T. Krogel, Scott P. Beckman, Valentino R. Cooper, Scientific Reports. 14(1)] 2024. https://openalex.org/W4402049949
+
+                Predicting the error in density functional theory (DFT) calculations due to the choice of exchange-correlation (XC) functional is crucial to the success of DFT, but currently, there are limited options to estimate this a priori. This is particularly important for high-throughput screening of new materials. In this work, the structure and elastic properties of binary and ternary oxides are computed using four XC functionals: LDA, PBE-GGA, PBEsol, and vdW-DF with C09 exchange. To analyze the systemic errors inherent to each XC functional, we employed materials informatics methods to predict the expected errors. The predicted errors were also used to better the DFT-predicted lattice parameters. Our results emphasize the link between the computed errors and the electron density and hybridization errors of a functional. In essence, these results provide "error bars" for choosing a functional for the creation of high-accuracy, high-throughput datasets as well as avenues for the development of XC functionals with enhanced performance, thereby enabling the accelerated discovery and design of new materials.</description>
+      <author>Simuck F. Yuk, Irmak Sargin, Noah Meyer, Jaron T. Krogel, Scott P. Beckman, Valentino R. Cooper</author>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-69194-w</guid>
     </item>
     <item>
       <title>Modeling and Comparative Analysis of CO2 Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems</title>
@@ -286,6 +406,16 @@
       <author>Maisa Faour, Karam Yassin, Dario R. Dekel</author>
       <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsorginorgau.4c00052</guid>
+    </item>
+    <item>
+      <title>Adult Migrants&#8217; Formal and Informal Language Learning Opportunities: Availability, Choice, and Social Integration</title>
+      <link>https://doi.org/10.3138/cmlr-2023-0075</link>
+      <description>Katherine Rehner, John Ippolito, Ivan Lasan, Gilles Forget, Claire Gouveia, Sarah Jones, Haibo Liu, Canadian Modern Language Review/ La Revue canadienne des langues vivantes. None(None)] 2024. https://openalex.org/W4401950850
+
+                This study explores adult migrants&#8217; formal and informal opportunities for learning their host country&#8217;s dominant language: specifically, the availability, accessibility, and effects of these opportunities on the migrants&#8217; social integration. It prioritizes the migrants&#8217; experience by reporting findings obtained from analyses of questionnaire data collected from 76 migrants in Canada, the United States, and Italy and from interview data collected from a subset of 18 of these migrants. The findings are supplemented by analyses of questionnaire data collected from 12 service providers at the same research sites. The findings show that across the three sites, adult migrants value both formal and informal learning opportunities; that in both learning contexts they prioritize the development of communicative competence, particularly speaking and listening skills; and that outside the classroom they prefer to interact with locals who do not share their home language, and find these interactions very useful in their social integration efforts. However, the findings also reveal that the migrants are not always able to choose freely to engage in the kinds of language learning opportunities that would help them meet their language learning or social integration goals because these opportunities may be unavailable, inaccessible, or insufficiently designed to meet their needs.</description>
+      <author>Katherine Rehner, John Ippolito, Ivan Lasan, Gilles Forget, Claire Gouveia, Sarah Jones, Haibo Liu</author>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3138/cmlr-2023-0075</guid>
     </item>
   </channel>
 </rss>

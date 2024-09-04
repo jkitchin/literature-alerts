@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Sep  3 01:14:56 2024
+Created on Wed Sep  4 01:16:10 2024
 
-Found 16 results from 2024-08-27 to 2024-09-03
+Found 18 results from 2024-08-28 to 2024-09-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Metal-Carbenoid-Mediated Selective Transformation: Experimental and DFT Studies of Ag, Pd, and Rh with Enaminones and Diazoesters   
-
-OpenAlex: https://openalex.org/W4401877969    
-Open access: False
-    
-[Xin Zhang](https://openalex.org/A5100665996), [Lijuan Song](https://openalex.org/A5016812225), [Yi Jin](https://openalex.org/A5101528778), [Kaixiu Luo](https://openalex.org/A5041009620), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03136.
-    
-Transition-metal-catalyzed transfer of a carbene group via in situ generated carbenoid intermediates from α-diazocarbonyls is a powerful method for initiating diverse cascade sequences that rapidly lead to the generation of structural complexity. Despite significant advancements in carbenoid-enabled catalytic pathways, such as insertions and cyclopropane formation, there has been limited exploration of the selective control of catalytic processes involving carbenoid chemistry. In this study, we reported a metal-carbenoid-mediated cascade transformation approach that allows for selective control by employing different transition metals, including silver, palladium, and rhodium, assisted by a comprehensive density functional theory (DFT) mechanism investigation. Through detailed mechanistic studies, we demonstrate that silver-carbenoids and rhodium-carbenoids yield distinct tandem cyclization products, while palladium-carbenoids afford quaternary α-imine compounds as the final product through direct proton transfer from the same intermediate. Furthermore, the origin of the catalyst-dependent selectivity is elucidated through DFT calculations.    
-
-    
-
-## Alcohols as Alkyl Synthons Enabled by Photoredox-Catalyzed Deoxygenative Activation   
-
-OpenAlex: https://openalex.org/W4401894447    
-Open access: False
-    
-[Tanumoy Mandal](https://openalex.org/A5028442064), [Samrat Mallick](https://openalex.org/A5038796931), [Malekul Islam](https://openalex.org/A5101320118), [Suman De Sarkar](https://openalex.org/A5030434402), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03560.
-    
-Alcohols are abundant with versatile structural variety and have ample use as pivotal functional groups in numerous organic processes. Because of their frequent occurrence in enumerable natural products, bioactive molecules, and medicinal components, alcohol functionalities provide a promising scope of research to advance the operational diversity for improving clinical success. Recent years have witnessed the design of modern C–C and C–heteroatom bond-forming approaches with easily accessible and commercially available unactivated aliphatic alcohols as native adaptive sp3 handles, hence offering groundbreaking transformative pathways for the functionalization of complex molecular architectures. The judicial application of appropriate activating groups to generate the alkyl radical from the alcohol through sp3 C–O bond fragmentation and employ it as a potential alkylating agent unfolds unique synthetic strategies, thereby replacing the obvious requirement of alkyl halides. This review elaborately discusses the recent trends regarding using alcohols as the C(sp3)-centered alkylating agent in various chemical transformations by exploiting different activation modes for the disrupter of the C–O bond under photoredox catalysis. The presentation is organized by the nature of the activation of the alcohol scaffolds, the kind of bond formation, and the progress achieved in this domain since the original discovery by providing illustrative examples with mechanistic details, with a focus on difficulties and future prospects.    
-
-    
 
 ## Stable Ultrahighly Branched Polyethylene Synthesis via Externally Robust Chain-Walking Polymerization   
 
@@ -61,6 +39,17 @@ Extra-framework aluminum (EFAl) species are known to alter the acidic nature of 
 
     
 
+## Advanced Progress for Promoting Anodic Hydrogen Oxidation Activity and Anti-CO Poisoning in Fuel Cells   
+
+OpenAlex: https://openalex.org/W4401945974    
+Open access: False
+    
+[Bin Cai](https://openalex.org/A5053891639), [Xiaodong Chen](https://openalex.org/A5100373719), [Lei Wang](https://openalex.org/A5100663225), [Honggang Fu](https://openalex.org/A5055445325), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03588.
+    
+The hydrogen oxidation reaction (HOR) is the anodic reaction of hydrogen–oxygen fuel cells, which plays a decisive role in the whole-device performance. However, inexpensive crude hydrogen inevitably contains carbon monoxide (CO) impurities, and even the state-of-the-art platinum (Pt) electrocatalysts can suffer an obvious activity decrease due to the poisoning of active sites, seriously hindering the efficiency of fuel cells. Developing electrocatalysts with promoted CO tolerance necessitates the elucidation of the HOR mechanism and deep understanding of the intrinsic nature of fuel cell poisoning. To date, weakening CO adsorption or accelerating its oxidation could improve the CO tolerance of the catalyst, so it is critical to seek much more effective strategies. Based on the study of the reaction mechanism, this Review summarizes the latest progress of HOR electrocatalysts with high stability and high activity against CO poisoning from two typical theories: hydrogen binding energy theory and bifunctional theory. The strategies for enhancing the CO tolerance of catalysts are gathered, including electronic structure modulation, oxophilic sites, and dual-site construction. In addition, the applications of catalysts in practical fuel cells is outlined. In conclusion, the discussion focuses on the challenges and future outlook of CO-tolerant HOR electrocatalysts, with the objective of offering distinct perspectives on the engineering design of HOR electrocatalysts with superior CO tolerance.    
+
+    
+
 ## Charge Transfer Drives Hydrogen Adsorption, Spillover, and Hydroxylation at the Pt/γ-Al2O3 Interface   
 
 OpenAlex: https://openalex.org/W4401946493    
@@ -80,6 +69,17 @@ Open access: False
 [Yue Jia](https://openalex.org/A5002811594), [Kai Zhang](https://openalex.org/A5100323915), [Liang‐Qiu Lu](https://openalex.org/A5029146832), [Ying Cheng](https://openalex.org/A5051697029), [Wen‐Jing Xiao](https://openalex.org/A5044960680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04249.
     
 Photoinduced enantioselective strategies provide an efficient way to access chiral all-carbon quaternary stereocenters. Compared with the well-developed metal-catalyzed asymmetric conjugate addition of organometallic reagents to enones, the construction of chiral all-carbon quaternary stereocenters through a radical process still remains challenging, especially for the acyclic enones due to their enhanced conformational mobility. Herein, we disclose a photoinduced cobalt-catalyzed asymmetric radical coupling of α,β-unsaturated 2-acyl imidazoles and α-silylamines to give β,β-disubstituted γ-amino acid derivatives with acyclic quaternary carbon stereocenters. The facile protocol shows good functional group tolerance and a broad substrate scope. The corresponding chiral products were obtained in generally good yields (up to 96%) with high enantioselectivities (up to 99:1 e.r.).    
+
+    
+
+## Unveiling the Mechanism of Aerobic Photocatalytic Nitrogen Fixation over Dynamic Structural Renovation on Bi2MO6 (M = Mo, W)   
+
+OpenAlex: https://openalex.org/W4401956315    
+Open access: False
+    
+[Xin Huang](https://openalex.org/A5052348093), [Rui Du](https://openalex.org/A5052170131), [Jingyu Ren](https://openalex.org/A5007781988), [Xiang Li](https://openalex.org/A5100389927), [Meng-Xi Fu](https://openalex.org/A5061413795), [Shu-Ping Fu](https://openalex.org/A5071449781), [Taoxia Ma](https://openalex.org/A5053213041), [Li Guo](https://openalex.org/A5101634171), [Razium Ali Soomro](https://openalex.org/A5039929927), [Chunming Yang](https://openalex.org/A5054029664), [Danjun Wang](https://openalex.org/A5009165223), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03183.
+    
+The aerobic photocatalytic nitrogen reduction reaction (pNRR) is the photocatalytic synthesis of ammonia with air (N2/O2) instead of a high-purity nitrogen source, which can avoid the use of high-cost air separation equipment, thus reducing the production cost of synthetic ammonia. Nevertheless, the mechanism of the effect of oxygen (O2) on the structure and catalytic performance of photocatalysts in the aerobic pNRR is still unclear. Herein, a trace Bi0 loaded Bi2MO6 (M = Mo, W) was ingeniously synthesized by a solvothermal strategy, which demonstrated a superior aerobic pNRR performance. The mechanism of the aerobic pNRR was elucidated by quasi in situ X-ray photoelectron spectroscopy, in situ electron spin resonance and density functional theory calculation. The presence of O2 inhibited the formation of excess Bi0 by competing for photogenerated electrons and generating ·O2–, which dynamically renovated the structure of the catalyst. The polarization dipole field induced by an appropriate amount of Bi0 boosted the photocarrier spatial separation/transfer of the aerobic pNRR.    
 
     
 
@@ -110,7 +110,7 @@ Research on the capture and catalytic conversion of CO2 to valuable chemicals an
 OpenAlex: https://openalex.org/W4401991372    
 Open access: True
     
-[Vera Giulimondi](https://openalex.org/A5019535382), [Matteo Vanni](https://openalex.org/A5047112176), [Suyash Damir](https://openalex.org/A5076120898), [Tao Zou](https://openalex.org/A5016773798), [Sharon Mitchell](https://openalex.org/A5012059689), [Frank Krumeich](https://openalex.org/A5013336575), [Andrea Ruiz‐Ferrando](https://openalex.org/A5060916943), [Núria López](https://openalex.org/A5100605805), [J.J. Gata-Cuesta](https://openalex.org/A5106808031), [Gonzalo Guillén‐Gosálbez](https://openalex.org/A5059336153), [Joost J. Smit](https://openalex.org/A5044704693), [Peter Johnston](https://openalex.org/A5033243946), [Javier Pérez-Ramı́rez](https://openalex.org/A5007349453), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03533.
+[Vera Giulimondi](https://openalex.org/A5019535382), [Matteo Vanni](https://openalex.org/A5047112176), [Suyash Damir](https://openalex.org/A5076120898), [Tao Zou](https://openalex.org/A5016773798), [Sharon Mitchell](https://openalex.org/A5012059689), [Frank Krumeich](https://openalex.org/A5013336575), [Andrea Ruiz‐Ferrando](https://openalex.org/A5060916943), [Núria López](https://openalex.org/A5100605805), [J.J. Gata-Cuesta](https://openalex.org/A5106808031), [Gonzalo Guillén‐Gosálbez](https://openalex.org/A5059336153), [Joost J. Smit](https://openalex.org/A5044704693), [Peter Johnston](https://openalex.org/A5033243946), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03533.
     
 Platinum single atoms anchored onto activated carbon enable highly stable Hg-free synthesis of vinyl chloride (VCM) via acetylene hydrochlorination. Compared to gold-based alternatives, platinum catalysts are in initial phases of development. Most synthetic approaches rely on chloroplatinic acid, presenting opportunities to explore other precursors and their impact on catalyst structure, reactivity, and toxicity aspects. Here, we synthesize platinum single atom catalysts (Pt SACs, 0.2–0.8 wt % Pt) employing diverse Pt2+ and Pt4+ complexes with ammine, hydroxyl, nitrate, and chloride ligands, following a scalable impregnation protocol on activated carbon extrudates. X-ray absorption spectroscopy (XAS) reveals that Pt4+ species reduce to Pt2+ upon deposition onto the support. Despite similar oxidation states, the initial activity is precursor dependent, with tetraammine-derived Pt SACs displaying 2-fold higher VCM yield than chlorinated counterparts, linked to superior hydrogen chloride binding abilities by density functional theory (DFT) simulations. Their activity gradually converges due to dynamic active site restructuring, delivering remarkable precursor-independent stability over 150 h. Operando XAS and DFT studies uncover reaction-induced ligand exchange, generating common active and stable Pt–Clx (x = 2–3) species. Convergent active site evolution enables flexibility in metal precursor selection and thus toxicity minimization through multiparameter assessment. This study advances safe-by-design catalysts for VCM synthesis, highlighting the importance of toxicity analyses in early-stage catalyst development programs.    
 
@@ -149,6 +149,17 @@ No abstract
 
     
 
+## Selectivity Switching by Ligand Coordination Sites─The Key to Promote the CO2/C2H4 Coupling Reaction over the Ru-Based Catalyst   
+
+OpenAlex: https://openalex.org/W4402031922    
+Open access: False
+    
+[Youcai Zhu](https://openalex.org/A5101456709), [Li Sun](https://openalex.org/A5061849630), [Zuoxiang Zeng](https://openalex.org/A5047635222), [Zhen Liu](https://openalex.org/A5100412091), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03808.
+    
+The mechanism of the CO2/C2H4-coupling reaction catalyzed by Ru/dmpe (dmpe = PMe2CH2CH2PMe2) and Ru/PP3 (PP3 = P(CH2CH2PMe2)3) catalysts has been revealed using density functional theory method. Three possible pathways for the catalytic conversion of CO2/C2H4 were proposed, including the formation of acrylic acid, the insertion reaction of ruthenalactone, and the base-assisted formation of acrylate. The resting state was studied by considering the two possible spin states (singlet and triplet) through a principal interacting orbital analysis to anticipate potential competition between low-lying spin states. The higher energy of the triplet compared with the singlet state is due to the interplay between orbital interactions and the coordination mode. Then, the differences in the catalytic mechanism between diphosphine ligands and tetradentate phosphine ligands have been revealed. In the Ru/dmpe system, the size of ruthenalactone can be influenced by the addition of ethylene, resulting in the formation of a homologous series of unsaturated Ru carboxylate products. However, additional ligands cannot bind to the transition metal because the tetra-coordinated PP3-ligated ruthenalactone is saturated with 18 electrons. Meanwhile, the release of the ligand site by dissociation of the Ru–P bond turned out to be infeasible, because it was a high-energy step. As another possible pathway for catalytic synthesis in the Ru/PP3 system, base-promoted β-H abstraction to produce acrylate salts is found to occur readily. In contrast, the electron-deficient Ru/dmpe system is unlikely to produce acrylate salts due to the methoxide coordinated complexes being too stable. Subsequently, potential enhancements to the Ru-catalyzed acrylate salt formation reaction were identified through an extensive screening of ligands and methoxides. Overall, the coordination sites of the phosphine ligand switch the selectivity of the reaction by influencing the electronic arrangement of the transition metal valence orbitals. The coordination sites and electronic properties of the ligand are important descriptors in determining the fate of the CO2/C2H4 coupling, which provides a valuable perspective for future catalyst design.    
+
+    
+
 ## Cobalt-Catalyzed Additive-Free Dehydrogenation of Neat Formic Acid   
 
 OpenAlex: https://openalex.org/W4402079016    
@@ -179,5 +190,16 @@ Open access: False
 [Jing Wang](https://openalex.org/A5100378741), [N. Cao](https://openalex.org/A5076337365), [Xiaoming Liu](https://openalex.org/A5081664000), [Fengting He](https://openalex.org/A5082378693), [Yang‐Ming Lu](https://openalex.org/A5002365215), [Shuling Wang](https://openalex.org/A5100683179), [Chaocheng Zhao](https://openalex.org/A5103046228), [Yongqiang Wang](https://openalex.org/A5038714931), [Jinqiang Zhang](https://openalex.org/A5100753713), [Shaobin Wang](https://openalex.org/A5100338047), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03031.
     
 Photocatalytic seawater splitting to produce clean hydrogen from nonpotable water using sunlight is a crucial endeavor. However, the scarcity of high-performance photocatalysts in the promising yet fledgling field presents a formidable challenge. Herein, we successfully synthesized a crystalline oxygen-modified carbon nitride (CCNO) polymeric semiconductor that served as an effective photocatalyst for seawater splitting. Comprehensive characterizations and theoretical calculations revealed that nitrogen vacancies and bridging oxygen in the CCNO lattice acted as potent Lewis acid–base pairs, creating an enhanced built-in electric field. This advancement significantly accelerated charge dynamics and bolstered resistance to ionic interference in seawater. Consequently, CCNO exhibited a robust photocatalytic H2 evolution activity of 29.51 mmol g–1 h–1 in natural seawater, with an impressive apparent quantum efficiency of 66.86% under 420 nm monochromatic light. Seawater splitting for H2 production reached 16.83 mmol g–1 under natural light irradiation for 3 h (9–12 o'clock), showcasing its great potential for practical applications. This work presents strategies for developing a metal-free photocatalyst and elucidates its reaction mechanism in the seawater splitting process, laying the foundation for scalable production of clean hydrogen.    
+
+    
+
+## Organocatalytic Asymmetric Synthesis of 2,3-Dihydro-4H-imidazol-4-ones via Cyclocondensation of N-Silyl Iminoesters   
+
+OpenAlex: https://openalex.org/W4402138488    
+Open access: False
+    
+[Kiyoshi Ogura](https://openalex.org/A5071017713), [Shinichi Ando](https://openalex.org/A5079069151), [Tsunayoshi Takehara](https://openalex.org/A5022094424), [Takeyuki Suzuki](https://openalex.org/A5101692925), [Shuichi Nakamura](https://openalex.org/A5037788901), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04230.
+    
+No abstract    
 
     
