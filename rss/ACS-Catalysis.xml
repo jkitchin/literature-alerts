@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Sep 2024 01:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 01:16:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Stable Ultrahighly Branched Polyethylene Synthesis via Externally Robust Chain-Walking Polymerization</title>
-      <link>https://doi.org/10.1021/acscatal.4c02385</link>
-      <description>Huijun Fan, Xiaohui Kang, Shengyu Dai, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401913517
-
-                Recently, late-transition-metal-catalyzed chain-walking polymerization has emerged as a promising method for synthesizing a range of polyethylenes, including linear, branched, and hyperbranched structures, solely from ethylene feedstock. The spatial configuration of the catalyst is a crucial factor in determining the branching patterns observed in the resulting polyethylene. In this study, we designed and employed a series of stereoscopically bulky &#945;-diimine Ni(II) and Pd(II) complexes featuring axial flexible cycloalkyl substituents and an equatorial rigid dibenzobarrelene backbone for ethylene (co)polymerization. These Ni(II) complexes exhibited high catalytic activity, reaching up to 106 g/(mol Ni&#183;h), and yielded very-high-molecular-weight polyethylene with extremely narrow molecular weight distributions (1.00&#8211;1.27) and very high branching densities (105&#8211;153/1000C) in a living ethylene polymerization behavior under various polymerization temperatures. Most interestingly, the branching density of polyethylene from the cyclohexyl-substituted Ni(II) complex is almost independent of the polymerization conditions and ultrahighly branched polyethylene with ultrahigh molecular weight (up to 1097 kg/mol) can be accessed. On the other hand, the corresponding Pd(II) complexes also demonstrated moderate catalytic activity, achieving up to 105 g/(mol Pd&#183;h), and yielded highly branched polyethylene with high molecular weights ranging from 160.8 to 511.9 kg/mol. Moreover, these Pd(II) complexes were capable of generating high-molecular-weight E-MA copolymers with adjustable incorporation ratios (0.85&#8211;2.77 mol %) and high branching densities (106&#8211;117/1000C). Through a comparative analysis of single-crystal structures and DFT calculations, we found that the axial flexible cycloalkyl substituents and equatorial rigid dibenzobarrelene backbone of these complexes create an interesting ligand environment that favors chain walking over chain propagation in the nickel-catalyzed ethylene polymerization system. This finding provides valuable insights into the design of more efficient and controllable catalysts for the synthesis of polyethylenes with tailored properties.</description>
-      <author>Huijun Fan, Xiaohui Kang, Shengyu Dai</author>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02385</guid>
-    </item>
-    <item>
-      <title>Reversed Charge Transfer Enables Dual Active Sites on Ir/hBN for Synergistic N&lt;sub&gt;2&lt;/sub&gt;O Valorization and Propane Selective Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c03697</link>
-      <description>Y.M. Wu, Yuxin Sun, Xuanhao Wu, Haiqiang Wang, Zhongbiao Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401920318
-
-                Valorization of nitrous oxide (N2O) as a mild oxygen source for light alkanes presents a promising and economical method for mitigating global warming. However, activating N2O and alkane together often leads to overoxidation and poor selectivity of the products. To disentangle the trade-off between activity and selectivity, herein, an Ir-based hexagonal boron nitride (hBN) catalyst was synthesized to obtain a reversed charge transfer (RCT) from the support to metal centers, forming dual active sites on Ir clusters and the separation of redox centers, as determined via operando near-ambient-pressure X-ray photoelectron spectroscopy (NAP-XPS) and density functional theory (DFT) calculations. Ir/hBN demonstrated a high N2O conversion (99.5%) and syngas yield (95.9 mol of CO kgcat&#8211;1 h&#8211;1 and 41.9 mol of H2 kgcat&#8211;1 h&#8211;1) during the selective oxidation of propane (C3H8) at 450 &#176;C. The electron-rich Ir interfacial perimeter sites (Ir&#948;&#8722;) enhance N2O adsorption and N&#8211;O bond dissociation to produce active O*; however, facial metallic Ir0 sites effectively facilitate C3H8 activation, including dehydrogenation and cracking. The separation of H* and O* intermediates, along with the frustrated H*/O* spillover, effectively facilitates the formation of H2. The *CH2 intermediate from C3H8 breakage migrates and reacts with O* bound to Ir interfacial sites, where it is oxidized to CO32&#8211; and subsequently liberates CO. This study provides mechanistic insights into the O element valorization from N2O with synergetic enhancement in selective oxidation of light alkanes.</description>
-      <author>Y.M. Wu, Yuxin Sun, Xuanhao Wu, Haiqiang Wang, Zhongbiao Wu</author>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03697</guid>
-    </item>
     <item>
       <title>Influence of Extra-Framework Aluminum Species on the Catalytic Properties of Acidic USY Zeolite in (Hydro)cracking Reactions</title>
       <link>https://doi.org/10.1021/acscatal.4c03269</link>
@@ -186,6 +166,26 @@
       <author>Kiyoshi Ogura, Shinichi Ando, Tsunayoshi Takehara, Takeyuki Suzuki, Shuichi Nakamura</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04230</guid>
+    </item>
+    <item>
+      <title>Generalized Principles for the Descriptor-Based Design of Supported Gold Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c04049</link>
+      <description>Lavie Rekhi, Quang Thang Tr&#7883;nh, Asmee M. Prabhu, Tej S. Choksi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402190568
+
+                No abstract</description>
+      <author>Lavie Rekhi, Quang Thang Tr&#7883;nh, Asmee M. Prabhu, Tej S. Choksi</author>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04049</guid>
+    </item>
+    <item>
+      <title>Heterolytic Hydrogenation and H&lt;sup&gt;&#8211;&lt;/sup&gt; Migration-Assisted Hydrodeoxygenation Reaction under Mild Conditions over Pt/TiO&lt;sub&gt;2&lt;/sub&gt;-D</title>
+      <link>https://doi.org/10.1021/acscatal.4c04196</link>
+      <description>Xinchao Wang, Tingting Xiao, Yanchun Liu, Chao Zhang, Fengyu Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402199449
+
+                No abstract</description>
+      <author>Xinchao Wang, Tingting Xiao, Yanchun Liu, Chao Zhang, Fengyu Zhao</author>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04196</guid>
     </item>
   </channel>
 </rss>
