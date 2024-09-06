@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Sep 2024 01:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 01:15:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>The Potential of Zero Total Charge Predicts Cation Effects for the Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsenergylett.4c01897</link>
+      <description>Jay T. Bender, Rohan Yuri Sanspeur, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco, ACS Energy Letters. None(None)] 2024. https://openalex.org/W4402230343
+
+                No abstract</description>
+      <author>Jay T. Bender, Rohan Yuri Sanspeur, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco</author>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c01897</guid>
+    </item>
   </channel>
 </rss>

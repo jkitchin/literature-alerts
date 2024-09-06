@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Sep  5 01:16:12 2024
+Created on Fri Sep  6 01:16:01 2024
 
-Found 18 results from 2024-08-29 to 2024-09-05
+Found 14 results from 2024-08-30 to 2024-09-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Influence of Extra-Framework Aluminum Species on the Catalytic Properties of Acidic USY Zeolite in (Hydro)cracking Reactions   
-
-OpenAlex: https://openalex.org/W4401943162    
-Open access: False
-    
-[Sohrab Askarli](https://openalex.org/A5106801701), [Ildar Mukhambetov](https://openalex.org/A5043281751), [Sang‒Ho Chung](https://openalex.org/A5023228106), [Mohammad Awwad](https://openalex.org/A5071024706), [José Almeida](https://openalex.org/A5088878327), [Sarah Komaty](https://openalex.org/A5017278097), [Juan Carlos Navarro de Miguel](https://openalex.org/A5035975994), [Teng Li](https://openalex.org/A5100416764), [Javier Ruiz‐Martínez](https://openalex.org/A5051034025), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03269.
-    
-Extra-framework aluminum (EFAl) species are known to alter the acidic nature of zeolites and therefore their catalytic properties. Although it has been reported that the formation of such species leads to a change in the concentration and strength of acidity, the influence of those on hydrocracking warrants further exploration. To investigate these concepts, faujasite zeolite (ultrastable Y, USY) samples with various SiO2/Al2O3 ratios were steamed at different conditions until they showed similar hydrocracking activity to the reference USY sample. The steaming process results in zeolite samples with similar catalytic activity and selectivity but different levels of EFAl. Hexane cracking tests and pentylamine adsorption followed by two-dimensional 1H–27Al heteronuclear nuclear magnetic resonance spectroscopy show that samples with a high number of EFAl sites have a larger number of those species in close proximity to the Brønsted acid site (BAS). After the extensive characterization, we concluded that the catalytic activity and product selectivity in hydrocracking is unrelated to both Brønsted acid strength and EFAl species near BAS, leaving the number of BAS as the main activity descriptor.    
-
-    
-
-## Advanced Progress for Promoting Anodic Hydrogen Oxidation Activity and Anti-CO Poisoning in Fuel Cells   
-
-OpenAlex: https://openalex.org/W4401945974    
-Open access: False
-    
-[Bin Cai](https://openalex.org/A5053891639), [Xiaodong Chen](https://openalex.org/A5100373719), [Lei Wang](https://openalex.org/A5100663225), [Honggang Fu](https://openalex.org/A5055445325), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03588.
-    
-The hydrogen oxidation reaction (HOR) is the anodic reaction of hydrogen–oxygen fuel cells, which plays a decisive role in the whole-device performance. However, inexpensive crude hydrogen inevitably contains carbon monoxide (CO) impurities, and even the state-of-the-art platinum (Pt) electrocatalysts can suffer an obvious activity decrease due to the poisoning of active sites, seriously hindering the efficiency of fuel cells. Developing electrocatalysts with promoted CO tolerance necessitates the elucidation of the HOR mechanism and deep understanding of the intrinsic nature of fuel cell poisoning. To date, weakening CO adsorption or accelerating its oxidation could improve the CO tolerance of the catalyst, so it is critical to seek much more effective strategies. Based on the study of the reaction mechanism, this Review summarizes the latest progress of HOR electrocatalysts with high stability and high activity against CO poisoning from two typical theories: hydrogen binding energy theory and bifunctional theory. The strategies for enhancing the CO tolerance of catalysts are gathered, including electronic structure modulation, oxophilic sites, and dual-site construction. In addition, the applications of catalysts in practical fuel cells is outlined. In conclusion, the discussion focuses on the challenges and future outlook of CO-tolerant HOR electrocatalysts, with the objective of offering distinct perspectives on the engineering design of HOR electrocatalysts with superior CO tolerance.    
-
-    
-
-## Charge Transfer Drives Hydrogen Adsorption, Spillover, and Hydroxylation at the Pt/γ-Al2O3 Interface   
-
-OpenAlex: https://openalex.org/W4401946493    
-Open access: False
-    
-[George Yan](https://openalex.org/A5011433079), [Salman A. Khan](https://openalex.org/A5061440664), [Dionisios G. Vlachos](https://openalex.org/A5066110304), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03485.
-    
-Metal–support interactions have garnered much attention due to their impact on the structure and reactivity of supported metal catalysts. Despite the widespread recognition of multifunctional mechanisms in metal/metal oxide systems, much less attention has been paid to how the metal influences its support. Here, we explore metal–support interactions using hydrogen adsorption on a dehydroxylated γ-Al2O3(110) supported Pt10 cluster as a prototype. Through molecular dynamics simulations performed using an actively trained machine-learned force field, we observed reversible hydrogen spillover between the support and the metal. Analysis of the electronic structure and chemical nature of the interface reveals that charge transfer from H to the Pt10 cluster drives the spillover by stabilizing H adsorbed on the support. The same charge transfer concept also explains the stabilization of OH fragments at the Pt10/γ-Al2O3(110) interface despite the scarcely impacted or even reduced acidity of interfacial Al sites. These findings demonstrate the rich chemistry of metal–support interfaces and the importance of "inverse" effects in the fundamental understanding of supported catalysts.    
-
-    
-
-## Formation of Chiral All-Carbon Quaternary Stereocenters by Photoinduced Cobalt-Catalyzed Enantioselective Radical Coupling   
-
-OpenAlex: https://openalex.org/W4401952585    
-Open access: False
-    
-[Yue Jia](https://openalex.org/A5002811594), [Kai Zhang](https://openalex.org/A5100323915), [Liang‐Qiu Lu](https://openalex.org/A5029146832), [Ying Cheng](https://openalex.org/A5051697029), [Wen‐Jing Xiao](https://openalex.org/A5044960680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04249.
-    
-Photoinduced enantioselective strategies provide an efficient way to access chiral all-carbon quaternary stereocenters. Compared with the well-developed metal-catalyzed asymmetric conjugate addition of organometallic reagents to enones, the construction of chiral all-carbon quaternary stereocenters through a radical process still remains challenging, especially for the acyclic enones due to their enhanced conformational mobility. Herein, we disclose a photoinduced cobalt-catalyzed asymmetric radical coupling of α,β-unsaturated 2-acyl imidazoles and α-silylamines to give β,β-disubstituted γ-amino acid derivatives with acyclic quaternary carbon stereocenters. The facile protocol shows good functional group tolerance and a broad substrate scope. The corresponding chiral products were obtained in generally good yields (up to 96%) with high enantioselectivities (up to 99:1 e.r.).    
-
-    
-
-## Unveiling the Mechanism of Aerobic Photocatalytic Nitrogen Fixation over Dynamic Structural Renovation on Bi2MO6 (M = Mo, W)   
-
-OpenAlex: https://openalex.org/W4401956315    
-Open access: False
-    
-[Xin Huang](https://openalex.org/A5052348093), [Rui Du](https://openalex.org/A5052170131), [Jingyu Ren](https://openalex.org/A5007781988), [Xiang Li](https://openalex.org/A5100389927), [Meng-Xi Fu](https://openalex.org/A5061413795), [Shu-Ping Fu](https://openalex.org/A5071449781), [Taoxia Ma](https://openalex.org/A5053213041), [Li Guo](https://openalex.org/A5101634171), [Razium Ali Soomro](https://openalex.org/A5039929927), [Chunming Yang](https://openalex.org/A5054029664), [Danjun Wang](https://openalex.org/A5009165223), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03183.
-    
-The aerobic photocatalytic nitrogen reduction reaction (pNRR) is the photocatalytic synthesis of ammonia with air (N2/O2) instead of a high-purity nitrogen source, which can avoid the use of high-cost air separation equipment, thus reducing the production cost of synthetic ammonia. Nevertheless, the mechanism of the effect of oxygen (O2) on the structure and catalytic performance of photocatalysts in the aerobic pNRR is still unclear. Herein, a trace Bi0 loaded Bi2MO6 (M = Mo, W) was ingeniously synthesized by a solvothermal strategy, which demonstrated a superior aerobic pNRR performance. The mechanism of the aerobic pNRR was elucidated by quasi in situ X-ray photoelectron spectroscopy, in situ electron spin resonance and density functional theory calculation. The presence of O2 inhibited the formation of excess Bi0 by competing for photogenerated electrons and generating ·O2–, which dynamically renovated the structure of the catalyst. The polarization dipole field induced by an appropriate amount of Bi0 boosted the photocarrier spatial separation/transfer of the aerobic pNRR.    
-
-    
-
-## Cationic Bis(η6-arene) Cobalt(I) Complexes: Enabling Catalyst Discovery by High-Throughput Experimentation   
-
-OpenAlex: https://openalex.org/W4401976037    
-Open access: False
-    
-[Maya J. Lebowitz](https://openalex.org/A5090932079), [Connor S. MacNeil](https://openalex.org/A5058908729), [Lauren N. Mendelsohn](https://openalex.org/A5010961434), [Michael Shevlin](https://openalex.org/A5061305059), [Matthew V. Pecoraro](https://openalex.org/A5084018341), [Gabriele Hierlmeier](https://openalex.org/A5024024488), [Paul J. Chirik](https://openalex.org/A5087910041), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03843.
-    
-Cationic, 20-electron bis(η6-arene)Co(I) complexes have been synthesized and evaluated as precursors for the generation of bis(phosphine) cobalt(I) η6-arene precatalysts. The arenes and anions in the precursors were varied, with isolated examples, including [Al(pftb)4]− (pftb = (CF3)3CO), [BArF4]− (tetrakis[3,5-bis(trifluoromethyl)phenyl]borate), and [SbF6]−. Treatment of the isolated precursors with a series bis(phosphines) resulted in arene displacement and isolation of well-defined [(bis(phosphine))Co(η6-arene)][X] (X = Al(pftb)4– and SbF6–; arene = C6H6, C6H5Me, and C6H5Et) complexes in 84–99% yield. This ligand substitution enabled unprecedented generation of catalyst libraries using high-throughput experimentation (HTE) for asymmetric alkene hydrogenation, as well as formal [2 + 2] cycloaddition, hydroboration, and C(sp2)–H functionalization. These versatile precursors simplify increasingly complex chemical transformations by introducing single-component, well-defined precatalysts through general ligand substitution.    
-
-    
-
-## Hyper-Cross-Linked Polymer-Based Self-Supported Reusable Ru-NHC Catalyst for Amine-Assisted Hydrogenation of CO2 to Methanol   
-
-OpenAlex: https://openalex.org/W4401981354    
-Open access: False
-    
-[Ravi Kumar](https://openalex.org/A5100736399), [Tanmoy Mandal](https://openalex.org/A5019807745), [Arindom Bhattacherya](https://openalex.org/A5060560826), [Madhusudan K. Pandey](https://openalex.org/A5079219873), [Jitendra K. Bera](https://openalex.org/A5069247977), [Joyanta Choudhury](https://openalex.org/A5042658817), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02513.
-    
-Research on the capture and catalytic conversion of CO2 to valuable chemicals and alternative fuel candidates has multifaceted relevance from the perspective of sustainable development goals (SDGs). Methanol, advocated as an alternative fuel, can be produced via amine-assisted integrated capture of CO2 and the subsequent hydrogenation via a formamide intermediate. Notably, amines not only function as CO2-capturing agents but also assist in crucial H2 activation by a metal catalyst during a series of hydrogenation steps to form methanol. Toward implementation of this cascade strategy of amine-assisted hydrogenation of CO2 to MeOH, herein, we developed an NHC-based pincer ligand-bound homogeneous molecular Ru catalyst (Ru-1), which was then translated into a porous hyper-cross-linked polymer (HCP)-based self-supported single-site heterogeneous catalyst, termed as HCP-Ru-1. Initially, a control mechanistic investigation was performed in order to get insights into the crucial H2 activation step at the Ru center of the catalyst assisted by the amine used in the reaction. Next, the formation of the formamide intermediate by both catalyst candidates Ru-1 and HCP-Ru-1 was probed and confirmed, employing several amines in the presence of pressurized CO2 and H2 at a relatively mild temperature of 120 °C, where the catalysts exhibited turnover numbers (TONs) up to 3520 and 15,750, respectively, indicating their high catalytic efficiency. Finally, for the catalytic CO2-to-MeOH production reaction, a polyamine, namely, pentaethylenehexamine (PEHA), was used due to its high efficiency in CO2 capture as well as ability to act as a suitable organic base for deprotonative H2 activation, and the Ru-1 and HCP-Ru-1 systems displayed single-run TONs of 400 and 1150, respectively. As the most significant advancement in this process, the heterogeneous HCP-Ru-1 catalyst turned out to be highly reusable, and in a 10-cycle reuse demonstration experiment, it achieved a cumulative TON of 10,370 with merely 1.13% loss in activity per cycle.    
-
-    
 
 ## Convergent Active Site Evolution in Platinum Single Atom Catalysts for Acetylene Hydrochlorination and Implications for Toxicity Minimization   
 
@@ -102,6 +25,17 @@ Open access: True
 [Andrea N. Blankenship](https://openalex.org/A5030330488), [Alexandru-Tudor Toderaşc](https://openalex.org/A5008110991), [Vladimir Paunović](https://openalex.org/A5059144530), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04105.
     
 Mn/TiO2 catalysts are highly active for the partial oxidation of methane using dioxygen in acidic media to form oxidation-protected methyl esters. Nonetheless, the formation of carbon dioxide in these systems remains significant. In this study, we used 13C isotope-labeled methane to trace the origin of the carbon dioxide formation. These experiments showed that carbon dioxide primarily stems from acid degradation rather than product overoxidation in this system, confirming the high-yield methane partial oxidation of the esterification approach. Evaluation of activities and selectivities of the catalysts with different initial manganese distributions under different methane partial pressures and reaction temperatures revealed that ester selectivity within the liquid products remains nearly constant, while lower temperatures minimize the parasitic overoxidation of solvent. Using this knowledge, we demonstrated that a Mn/TiO2 catalyst synthesized via coprecipitation can provide 90% ester selectivity at 21% methane conversion within 3 h at 215 °C, representing the best reported heterogeneously catalyzed system for methane partial oxidation with molecular oxygen. This study identifies the road ahead for this chemistry, entailing further optimization of solid catalysts for improved ester productivity and high product yields while curtailing undesired side reactions unrelated to methane conversion.    
+
+    
+
+## CO-Induced Dynamic Behavior of Al2O3-Supported Pd Nanoparticles at Room Temperature   
+
+OpenAlex: https://openalex.org/W4402030794    
+Open access: False
+    
+[Alberto Ricchebuono](https://openalex.org/A5058152174), [Eleonora Vottero](https://openalex.org/A5040008182), [Daniele Bonavia](https://openalex.org/A5097333236), [Paolo Lazzarini](https://openalex.org/A5106870383), [Riccardo Pellegrini](https://openalex.org/A5074571660), [Valentina Crocellà](https://openalex.org/A5000715246), [Natale G. Porcaro](https://openalex.org/A5063016148), [Stefano Checchia](https://openalex.org/A5011287994), [Davide Ferri](https://openalex.org/A5041651435), [Andrea Piovano](https://openalex.org/A5079985042), [Elena Groppo](https://openalex.org/A5033138022), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01888.
+    
+Supported metal nanoparticles may undergo adsorbate-induced phenomena, with evident consequences for their performance in catalytic applications. CO-induced surface phenomena involving Pd nanoparticles have been documented mostly at high temperatures. In this work, we report an unusual step-shaped CO adsorption isotherm at 30 °C on Pd/Al2O3, associated with an unexpected increase in the heat of adsorption and with a modification in the relative abundance of the different Pd-carbonyl species. These three independent observations can be reconciled by considering a partially reversible CO-induced roughening of the Pd(100) facets, entailing the creation of novel defective sites. The detailed knowledge of the interaction of CO with Pd nanoparticles at mild temperatures in terms of strength, coverage, and adsorption mode/sites is a key to control reactivity and has analytical relevance for the correct interpretation of CO chemisorption measurements. Our experimental strategy has the potential to become a benchmark in the investigation of the adsorbate-induced dynamic behavior of supported metal nanoparticles.    
 
     
 
@@ -182,12 +116,34 @@ No abstract
 
     
 
+## Ni-Catalyzed Desymmetric Radical Cross-Coupling Reaction to Access Axially Chiral Biaryls   
+
+OpenAlex: https://openalex.org/W4402190459    
+Open access: False
+    
+[Yue-Die Zhu](https://openalex.org/A5101282484), [Zhen-Yao Dai](https://openalex.org/A5025674972), [Min Jiang](https://openalex.org/A5050255768), [Pu‐Sheng Wang](https://openalex.org/A5082627703), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03944.
+    
+No abstract    
+
+    
+
 ## Generalized Principles for the Descriptor-Based Design of Supported Gold Catalysts   
 
 OpenAlex: https://openalex.org/W4402190568    
 Open access: False
     
 [Lavie Rekhi](https://openalex.org/A5084825721), [Quang Thang Trịnh](https://openalex.org/A5063917098), [Asmee M. Prabhu](https://openalex.org/A5057608617), [Tej S. Choksi](https://openalex.org/A5085930319), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04049.
+    
+No abstract    
+
+    
+
+## Designing ASSMD Strategy for Exploring and Engineering Extreme Thermophilic Ancestral Nitrilase for Nitriles Biocatalysis   
+
+OpenAlex: https://openalex.org/W4402192297    
+Open access: False
+    
+[Zi Kai Wang](https://openalex.org/A5075914047), [Dexin Feng](https://openalex.org/A5085466171), [Chang Su](https://openalex.org/A5084707022), [Hui Li](https://openalex.org/A5100423896), [Zhiming Rao](https://openalex.org/A5077886604), [Yijian Rao](https://openalex.org/A5028839532), [Zhen-Ming Lu](https://openalex.org/A5001239428), [Jin‐Song Shi](https://openalex.org/A5051831791), [Zhenghong Xu](https://openalex.org/A5071567678), [Jin‐Song Gong](https://openalex.org/A5036737662), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03851.
     
 No abstract    
 
