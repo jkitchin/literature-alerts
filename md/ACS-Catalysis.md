@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Sep  6 01:16:01 2024
+Created on Sat Sep  7 01:14:42 2024
 
-Found 14 results from 2024-08-30 to 2024-09-06
+Found 18 results from 2024-08-31 to 2024-09-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Convergent Active Site Evolution in Platinum Single Atom Catalysts for Acetylene Hydrochlorination and Implications for Toxicity Minimization   
-
-OpenAlex: https://openalex.org/W4401991372    
-Open access: True
-    
-[Vera Giulimondi](https://openalex.org/A5019535382), [Matteo Vanni](https://openalex.org/A5047112176), [Suyash Damir](https://openalex.org/A5076120898), [Tao Zou](https://openalex.org/A5016773798), [Sharon Mitchell](https://openalex.org/A5012059689), [Frank Krumeich](https://openalex.org/A5013336575), [Andrea Ruiz‐Ferrando](https://openalex.org/A5060916943), [Núria López](https://openalex.org/A5100605805), [J.J. Gata-Cuesta](https://openalex.org/A5106808031), [Gonzalo Guillén‐Gosálbez](https://openalex.org/A5059336153), [Joost J. Smit](https://openalex.org/A5044704693), [Peter Johnston](https://openalex.org/A5033243946), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03533.
-    
-Platinum single atoms anchored onto activated carbon enable highly stable Hg-free synthesis of vinyl chloride (VCM) via acetylene hydrochlorination. Compared to gold-based alternatives, platinum catalysts are in initial phases of development. Most synthetic approaches rely on chloroplatinic acid, presenting opportunities to explore other precursors and their impact on catalyst structure, reactivity, and toxicity aspects. Here, we synthesize platinum single atom catalysts (Pt SACs, 0.2–0.8 wt % Pt) employing diverse Pt2+ and Pt4+ complexes with ammine, hydroxyl, nitrate, and chloride ligands, following a scalable impregnation protocol on activated carbon extrudates. X-ray absorption spectroscopy (XAS) reveals that Pt4+ species reduce to Pt2+ upon deposition onto the support. Despite similar oxidation states, the initial activity is precursor dependent, with tetraammine-derived Pt SACs displaying 2-fold higher VCM yield than chlorinated counterparts, linked to superior hydrogen chloride binding abilities by density functional theory (DFT) simulations. Their activity gradually converges due to dynamic active site restructuring, delivering remarkable precursor-independent stability over 150 h. Operando XAS and DFT studies uncover reaction-induced ligand exchange, generating common active and stable Pt–Clx (x = 2–3) species. Convergent active site evolution enables flexibility in metal precursor selection and thus toxicity minimization through multiparameter assessment. This study advances safe-by-design catalysts for VCM synthesis, highlighting the importance of toxicity analyses in early-stage catalyst development programs.    
-
-    
-
-## Carbon Dioxide Origin during High-Yield Partial Oxidation of Methane to Protected Methyl Esters   
-
-OpenAlex: https://openalex.org/W4401991373    
-Open access: True
-    
-[Andrea N. Blankenship](https://openalex.org/A5030330488), [Alexandru-Tudor Toderaşc](https://openalex.org/A5008110991), [Vladimir Paunović](https://openalex.org/A5059144530), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04105.
-    
-Mn/TiO2 catalysts are highly active for the partial oxidation of methane using dioxygen in acidic media to form oxidation-protected methyl esters. Nonetheless, the formation of carbon dioxide in these systems remains significant. In this study, we used 13C isotope-labeled methane to trace the origin of the carbon dioxide formation. These experiments showed that carbon dioxide primarily stems from acid degradation rather than product overoxidation in this system, confirming the high-yield methane partial oxidation of the esterification approach. Evaluation of activities and selectivities of the catalysts with different initial manganese distributions under different methane partial pressures and reaction temperatures revealed that ester selectivity within the liquid products remains nearly constant, while lower temperatures minimize the parasitic overoxidation of solvent. Using this knowledge, we demonstrated that a Mn/TiO2 catalyst synthesized via coprecipitation can provide 90% ester selectivity at 21% methane conversion within 3 h at 215 °C, representing the best reported heterogeneously catalyzed system for methane partial oxidation with molecular oxygen. This study identifies the road ahead for this chemistry, entailing further optimization of solid catalysts for improved ester productivity and high product yields while curtailing undesired side reactions unrelated to methane conversion.    
-
-    
 
 ## CO-Induced Dynamic Behavior of Al2O3-Supported Pd Nanoparticles at Room Temperature   
 
@@ -155,6 +133,72 @@ OpenAlex: https://openalex.org/W4402199449
 Open access: False
     
 [Xinchao Wang](https://openalex.org/A5101504177), [Tingting Xiao](https://openalex.org/A5101444494), [Yanchun Liu](https://openalex.org/A5101923543), [Chao Zhang](https://openalex.org/A5100460077), [Fengyu Zhao](https://openalex.org/A5078562796), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04196.
+    
+No abstract    
+
+    
+
+## Iron Catalysts Supported by a PNP Ligand with an Additional Hemilabile Donor for CO2 Hydrogenation   
+
+OpenAlex: https://openalex.org/W4402216832    
+Open access: False
+    
+[Justin C. Wedal](https://openalex.org/A5004434822), [Kyler B. Virtue](https://openalex.org/A5106986437), [Wesley H. Bernskoetter](https://openalex.org/A5072613391), [Nilay Hazari](https://openalex.org/A5062709693), [Brandon Q. Mercado](https://openalex.org/A5038732109), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04127.
+    
+No abstract    
+
+    
+
+## Interface-Engineering Strategy for Boosting Low-Ir Catalytic Water Oxidation Using a Conductive Ti4O7 Support   
+
+OpenAlex: https://openalex.org/W4402217473    
+Open access: False
+    
+[Yufeng Qin](https://openalex.org/A5011958585), [Yifan Wang](https://openalex.org/A5100398573), [Rou Wen](https://openalex.org/A5088170517), [Longxiang Wang](https://openalex.org/A5090646025), [Meiling Dou](https://openalex.org/A5033783993), [Feng Wang](https://openalex.org/A5100431311), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03862.
+    
+No abstract    
+
+    
+
+## Discovery and Enantioselective Synthesis of Tetra-Substituted Methylene Oxindole Atropisomers by Palladium-Catalyzed Domino Cyclization   
+
+OpenAlex: https://openalex.org/W4402222372    
+Open access: False
+    
+[An Mei](https://openalex.org/A5101351132), [Chuan‐Jun Lu](https://openalex.org/A5048037708), [Fang‐Bei Ge](https://openalex.org/A5019359057), [Wenguang Zhou](https://openalex.org/A5060690682), [Li‐Wen Zhan](https://openalex.org/A5026135056), [Shuwei Zhang](https://openalex.org/A5100727566), [Jianrong Gao](https://openalex.org/A5101717225), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04455.
+    
+No abstract    
+
+    
+
+## Modulating Pore Sizes and Electronic Properties of Covalent Organic Polymers for the Catalysis of Two-Electron Oxygen Reduction Reaction in Neutral Media   
+
+OpenAlex: https://openalex.org/W4402235675    
+Open access: False
+    
+[Xuewen Li](https://openalex.org/A5100441260), [Shuai Yang](https://openalex.org/A5100784279), [Xiubei Yang](https://openalex.org/A5032456464), [Shuzhan Zheng](https://openalex.org/A5042690082), [Qing Xu](https://openalex.org/A5069765087), [Gaofeng Zeng](https://openalex.org/A5028394871), [Zheng Jiang](https://openalex.org/A5038741162), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02881.
+    
+No abstract    
+
+    
+
+## Er-Doping Enhances the Oxygen Evolution Performance of Cobalt Oxide in Acidic Medium   
+
+OpenAlex: https://openalex.org/W4402274848    
+Open access: True
+    
+[San-Jiang Pan](https://openalex.org/A5086797292), [Hang Li](https://openalex.org/A5100455126), [Sheng Wang](https://openalex.org/A5100371335), [Yang Fu](https://openalex.org/A5101307839), [Shenao Wang](https://openalex.org/A5101315919), [Zhong‐Yang Xie](https://openalex.org/A5011438427), [Li Wei](https://openalex.org/A5100454543), [Hao Li](https://openalex.org/A5100348631), [Nan Li](https://openalex.org/A5077445812), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03088.
+    
+No abstract    
+
+    
+
+## Enhanced Charge Transfer Dynamics in a NiCo2S4–ZnxCd1–xS Photothermal Catalyst for Efficient Photoreforming of Waste Plastic   
+
+OpenAlex: https://openalex.org/W4402276044    
+Open access: True
+    
+[Wenjie Su](https://openalex.org/A5101500272), [Yule Zhang](https://openalex.org/A5071925579), [Artem V. Kuklin](https://openalex.org/A5087272960), [Yiguo Xu](https://openalex.org/A5100993054), [V. S. Gerasimov](https://openalex.org/A5024425002), [Zehao Ma](https://openalex.org/A5072411807), [Han Zhang](https://openalex.org/A5100399276), [Hans Ågren](https://openalex.org/A5053665869), [Ye Zhang](https://openalex.org/A5100449334), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02269.
     
 No abstract    
 

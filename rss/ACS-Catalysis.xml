@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Sep 2024 01:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 01:14:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Convergent Active Site Evolution in Platinum Single Atom Catalysts for Acetylene Hydrochlorination and Implications for Toxicity Minimization</title>
-      <link>https://doi.org/10.1021/acscatal.4c03533</link>
-      <description>Vera Giulimondi, Matteo Vanni, Suyash Damir, Tao Zou, Sharon Mitchell, Frank Krumeich, Andrea Ruiz&#8208;Ferrando, N&#250;ria L&#243;pez, J.J. Gata-Cuesta, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez, Joost J. Smit, Peter Johnston, Javier P&#233;rez&#8208;Ram&#237;rez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401991372
-
-                Platinum single atoms anchored onto activated carbon enable highly stable Hg-free synthesis of vinyl chloride (VCM) via acetylene hydrochlorination. Compared to gold-based alternatives, platinum catalysts are in initial phases of development. Most synthetic approaches rely on chloroplatinic acid, presenting opportunities to explore other precursors and their impact on catalyst structure, reactivity, and toxicity aspects. Here, we synthesize platinum single atom catalysts (Pt SACs, 0.2&#8211;0.8 wt % Pt) employing diverse Pt2+ and Pt4+ complexes with ammine, hydroxyl, nitrate, and chloride ligands, following a scalable impregnation protocol on activated carbon extrudates. X-ray absorption spectroscopy (XAS) reveals that Pt4+ species reduce to Pt2+ upon deposition onto the support. Despite similar oxidation states, the initial activity is precursor dependent, with tetraammine-derived Pt SACs displaying 2-fold higher VCM yield than chlorinated counterparts, linked to superior hydrogen chloride binding abilities by density functional theory (DFT) simulations. Their activity gradually converges due to dynamic active site restructuring, delivering remarkable precursor-independent stability over 150 h. Operando XAS and DFT studies uncover reaction-induced ligand exchange, generating common active and stable Pt&#8211;Clx (x = 2&#8211;3) species. Convergent active site evolution enables flexibility in metal precursor selection and thus toxicity minimization through multiparameter assessment. This study advances safe-by-design catalysts for VCM synthesis, highlighting the importance of toxicity analyses in early-stage catalyst development programs.</description>
-      <author>Vera Giulimondi, Matteo Vanni, Suyash Damir, Tao Zou, Sharon Mitchell, Frank Krumeich, Andrea Ruiz&#8208;Ferrando, N&#250;ria L&#243;pez, J.J. Gata-Cuesta, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez, Joost J. Smit, Peter Johnston, Javier P&#233;rez&#8208;Ram&#237;rez</author>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03533</guid>
-    </item>
-    <item>
-      <title>Carbon Dioxide Origin during High-Yield Partial Oxidation of Methane to Protected Methyl Esters</title>
-      <link>https://doi.org/10.1021/acscatal.4c04105</link>
-      <description>Andrea N. Blankenship, Alexandru-Tudor Todera&#351;c, Vladimir Paunovi&#263;, Jeroen A. van Bokhoven, ACS Catalysis. None(None)] 2024. https://openalex.org/W4401991373
-
-                Mn/TiO2 catalysts are highly active for the partial oxidation of methane using dioxygen in acidic media to form oxidation-protected methyl esters. Nonetheless, the formation of carbon dioxide in these systems remains significant. In this study, we used 13C isotope-labeled methane to trace the origin of the carbon dioxide formation. These experiments showed that carbon dioxide primarily stems from acid degradation rather than product overoxidation in this system, confirming the high-yield methane partial oxidation of the esterification approach. Evaluation of activities and selectivities of the catalysts with different initial manganese distributions under different methane partial pressures and reaction temperatures revealed that ester selectivity within the liquid products remains nearly constant, while lower temperatures minimize the parasitic overoxidation of solvent. Using this knowledge, we demonstrated that a Mn/TiO2 catalyst synthesized via coprecipitation can provide 90% ester selectivity at 21% methane conversion within 3 h at 215 &#176;C, representing the best reported heterogeneously catalyzed system for methane partial oxidation with molecular oxygen. This study identifies the road ahead for this chemistry, entailing further optimization of solid catalysts for improved ester productivity and high product yields while curtailing undesired side reactions unrelated to methane conversion.</description>
-      <author>Andrea N. Blankenship, Alexandru-Tudor Todera&#351;c, Vladimir Paunovi&#263;, Jeroen A. van Bokhoven</author>
-      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04105</guid>
-    </item>
     <item>
       <title>CO-Induced Dynamic Behavior of Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;-Supported Pd Nanoparticles at Room Temperature</title>
       <link>https://doi.org/10.1021/acscatal.4c01888</link>
@@ -146,6 +126,66 @@
       <author>Xinchao Wang, Tingting Xiao, Yanchun Liu, Chao Zhang, Fengyu Zhao</author>
       <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04196</guid>
+    </item>
+    <item>
+      <title>Iron Catalysts Supported by a PNP Ligand with an Additional Hemilabile Donor for CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c04127</link>
+      <description>Justin C. Wedal, Kyler B. Virtue, Wesley H. Bernskoetter, Nilay Hazari, Brandon Q. Mercado, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402216832
+
+                No abstract</description>
+      <author>Justin C. Wedal, Kyler B. Virtue, Wesley H. Bernskoetter, Nilay Hazari, Brandon Q. Mercado</author>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04127</guid>
+    </item>
+    <item>
+      <title>Interface-Engineering Strategy for Boosting Low-Ir Catalytic Water Oxidation Using a Conductive Ti&lt;sub&gt;4&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; Support</title>
+      <link>https://doi.org/10.1021/acscatal.4c03862</link>
+      <description>Yufeng Qin, Yifan Wang, Rou Wen, Longxiang Wang, Meiling Dou, Feng Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402217473
+
+                No abstract</description>
+      <author>Yufeng Qin, Yifan Wang, Rou Wen, Longxiang Wang, Meiling Dou, Feng Wang</author>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03862</guid>
+    </item>
+    <item>
+      <title>Discovery and Enantioselective Synthesis of Tetra-Substituted Methylene Oxindole Atropisomers by Palladium-Catalyzed Domino Cyclization</title>
+      <link>https://doi.org/10.1021/acscatal.4c04455</link>
+      <description>An Mei, Chuan&#8208;Jun Lu, Fang&#8208;Bei Ge, Wenguang Zhou, Li&#8208;Wen Zhan, Shuwei Zhang, Jianrong Gao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402222372
+
+                No abstract</description>
+      <author>An Mei, Chuan&#8208;Jun Lu, Fang&#8208;Bei Ge, Wenguang Zhou, Li&#8208;Wen Zhan, Shuwei Zhang, Jianrong Gao</author>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04455</guid>
+    </item>
+    <item>
+      <title>Modulating Pore Sizes and Electronic Properties of Covalent Organic Polymers for the Catalysis of Two-Electron Oxygen Reduction Reaction in Neutral Media</title>
+      <link>https://doi.org/10.1021/acscatal.4c02881</link>
+      <description>Xuewen Li, Shuai Yang, Xiubei Yang, Shuzhan Zheng, Qing Xu, Gaofeng Zeng, Zheng Jiang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402235675
+
+                No abstract</description>
+      <author>Xuewen Li, Shuai Yang, Xiubei Yang, Shuzhan Zheng, Qing Xu, Gaofeng Zeng, Zheng Jiang</author>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02881</guid>
+    </item>
+    <item>
+      <title>Er-Doping Enhances the Oxygen Evolution Performance of Cobalt Oxide in Acidic Medium</title>
+      <link>https://doi.org/10.1021/acscatal.4c03088</link>
+      <description>San-Jiang Pan, Hang Li, Sheng Wang, Yang Fu, Shenao Wang, Zhong&#8208;Yang Xie, Li Wei, Hao Li, Nan Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402274848
+
+                No abstract</description>
+      <author>San-Jiang Pan, Hang Li, Sheng Wang, Yang Fu, Shenao Wang, Zhong&#8208;Yang Xie, Li Wei, Hao Li, Nan Li</author>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03088</guid>
+    </item>
+    <item>
+      <title>Enhanced Charge Transfer Dynamics in a NiCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;&#8211;Zn&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Cd&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;S Photothermal Catalyst for Efficient Photoreforming of Waste Plastic</title>
+      <link>https://doi.org/10.1021/acscatal.4c02269</link>
+      <description>Wenjie Su, Yule Zhang, Artem V. Kuklin, Yiguo Xu, V. S. Gerasimov, Zehao Ma, Han Zhang, Hans &#197;gren, Ye Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402276044
+
+                No abstract</description>
+      <author>Wenjie Su, Yule Zhang, Artem V. Kuklin, Yiguo Xu, V. S. Gerasimov, Zehao Ma, Han Zhang, Hans &#197;gren, Ye Zhang</author>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02269</guid>
     </item>
   </channel>
 </rss>
