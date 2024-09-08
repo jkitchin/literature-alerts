@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Sep  7 01:14:42 2024
+Created on Sun Sep  8 01:21:48 2024
 
-Found 18 results from 2024-08-31 to 2024-09-07
+Found 19 results from 2024-09-01 to 2024-09-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## CO-Induced Dynamic Behavior of Al2O3-Supported Pd Nanoparticles at Room Temperature   
-
-OpenAlex: https://openalex.org/W4402030794    
-Open access: False
-    
-[Alberto Ricchebuono](https://openalex.org/A5058152174), [Eleonora Vottero](https://openalex.org/A5040008182), [Daniele Bonavia](https://openalex.org/A5097333236), [Paolo Lazzarini](https://openalex.org/A5106870383), [Riccardo Pellegrini](https://openalex.org/A5074571660), [Valentina Crocellà](https://openalex.org/A5000715246), [Natale G. Porcaro](https://openalex.org/A5063016148), [Stefano Checchia](https://openalex.org/A5011287994), [Davide Ferri](https://openalex.org/A5041651435), [Andrea Piovano](https://openalex.org/A5079985042), [Elena Groppo](https://openalex.org/A5033138022), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01888.
-    
-Supported metal nanoparticles may undergo adsorbate-induced phenomena, with evident consequences for their performance in catalytic applications. CO-induced surface phenomena involving Pd nanoparticles have been documented mostly at high temperatures. In this work, we report an unusual step-shaped CO adsorption isotherm at 30 °C on Pd/Al2O3, associated with an unexpected increase in the heat of adsorption and with a modification in the relative abundance of the different Pd-carbonyl species. These three independent observations can be reconciled by considering a partially reversible CO-induced roughening of the Pd(100) facets, entailing the creation of novel defective sites. The detailed knowledge of the interaction of CO with Pd nanoparticles at mild temperatures in terms of strength, coverage, and adsorption mode/sites is a key to control reactivity and has analytical relevance for the correct interpretation of CO chemisorption measurements. Our experimental strategy has the potential to become a benchmark in the investigation of the adsorbate-induced dynamic behavior of supported metal nanoparticles.    
-
-    
-
-## Pulse Manipulation on Cu-Based Catalysts for Electrochemical Reduction of CO2   
-
-OpenAlex: https://openalex.org/W4402031369    
-Open access: False
-    
-[Wanlong Xi](https://openalex.org/A5101364539), [Hongyao Zhou](https://openalex.org/A5055828743), [Peng Yang](https://openalex.org/A5100681631), [Huiting Huang](https://openalex.org/A5089177148), [Jia Tian](https://openalex.org/A5061908731), [Marina Ratova](https://openalex.org/A5039124217), [Dan Wu](https://openalex.org/A5100779279), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03513.
-    
-Electrocatalytic carbon dioxide reduction (CO2RR) over Cu-based catalysts has emerged as a promising strategy for value-added artificial carbon cycling, addressing the current climate and energy challenges. However, the product selectivity and long-term stability of Cu-based catalysts are limited by their instability at constant potential. Recent advancements in pulsed techniques aim to overcome these limitations, enhancing the industrial feasibility of the CO2RR systems. This review critically examines recent research progress in pulsed CO2RR over Cu-based catalysts, offering a comprehensive synthesis of current findings. Key pulse parameters and characterization strategies are explored to uncover the mechanisms behind the enhanced CO2RR performance. The focus is on surface reconstruction, encompassing the regeneration and stabilization of the Cu oxidation states alongside morphological evolution, while also discussing microenvironment changes, including local CO2 concentration, local pH, and ionic arrangement. The intricate modulation mechanisms of pulse mode, potential, and duration on the CO2RR performance are elucidated, highlighting their interconnections. Finally, we identify the prevailing challenges and propose future directions for achieving environmentally friendly and economically viable artificial carbon cycling. By providing insightful perspectives on optimizing pulsed CO2RR, this review paves the way for developing more efficient and robust Cu-based catalytic systems.    
-
-    
-
-## Synergistic Effects of Complex Cu Species in Cu–MgO Catalysts for the Water Gas Shift Reaction   
-
-OpenAlex: https://openalex.org/W4402031423    
-Open access: False
-    
-[Mei‐Yao Wu](https://openalex.org/A5073956048), [Shanqing Li](https://openalex.org/A5034786834), [Wei-Wei Wang](https://openalex.org/A5062640350), [Chun‐Jiang Jia](https://openalex.org/A5068667116), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04064.
-    
-No abstract    
-
-    
-
-## Selectivity Switching by Ligand Coordination Sites─The Key to Promote the CO2/C2H4 Coupling Reaction over the Ru-Based Catalyst   
-
-OpenAlex: https://openalex.org/W4402031922    
-Open access: False
-    
-[Youcai Zhu](https://openalex.org/A5101456709), [Li Sun](https://openalex.org/A5061849630), [Zuoxiang Zeng](https://openalex.org/A5047635222), [Zhen Liu](https://openalex.org/A5100412091), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03808.
-    
-The mechanism of the CO2/C2H4-coupling reaction catalyzed by Ru/dmpe (dmpe = PMe2CH2CH2PMe2) and Ru/PP3 (PP3 = P(CH2CH2PMe2)3) catalysts has been revealed using density functional theory method. Three possible pathways for the catalytic conversion of CO2/C2H4 were proposed, including the formation of acrylic acid, the insertion reaction of ruthenalactone, and the base-assisted formation of acrylate. The resting state was studied by considering the two possible spin states (singlet and triplet) through a principal interacting orbital analysis to anticipate potential competition between low-lying spin states. The higher energy of the triplet compared with the singlet state is due to the interplay between orbital interactions and the coordination mode. Then, the differences in the catalytic mechanism between diphosphine ligands and tetradentate phosphine ligands have been revealed. In the Ru/dmpe system, the size of ruthenalactone can be influenced by the addition of ethylene, resulting in the formation of a homologous series of unsaturated Ru carboxylate products. However, additional ligands cannot bind to the transition metal because the tetra-coordinated PP3-ligated ruthenalactone is saturated with 18 electrons. Meanwhile, the release of the ligand site by dissociation of the Ru–P bond turned out to be infeasible, because it was a high-energy step. As another possible pathway for catalytic synthesis in the Ru/PP3 system, base-promoted β-H abstraction to produce acrylate salts is found to occur readily. In contrast, the electron-deficient Ru/dmpe system is unlikely to produce acrylate salts due to the methoxide coordinated complexes being too stable. Subsequently, potential enhancements to the Ru-catalyzed acrylate salt formation reaction were identified through an extensive screening of ligands and methoxides. Overall, the coordination sites of the phosphine ligand switch the selectivity of the reaction by influencing the electronic arrangement of the transition metal valence orbitals. The coordination sites and electronic properties of the ligand are important descriptors in determining the fate of the CO2/C2H4 coupling, which provides a valuable perspective for future catalyst design.    
-
-    
-
-## Cobalt-Catalyzed Additive-Free Dehydrogenation of Neat Formic Acid   
-
-OpenAlex: https://openalex.org/W4402079016    
-Open access: False
-    
-[Bedraj Pandey](https://openalex.org/A5029483451), [Jeanette A. Krause](https://openalex.org/A5040305041), [Hairong Guan](https://openalex.org/A5062126454), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04109.
-    
-Dehydrogenation of formic acid without using additives and solvents is a challenging research problem in base metal catalysis. In this study, cobalt complexes of the type (iPrPPRP)CoH(PMe3) (iPrPPRP = (o-iPr2PC6H4)2PR; R = H or Me) are shown to catalyze the additive-free dehydrogenation of neat formic acid to carbon dioxide. The iPrPPMeP-ligated cobalt hydride is particularly effective, giving catalytic turnover numbers of up to 7122 with a single load of formic acid and 10,338 with a continuous addition of formic acid. Mechanistic investigation focusing on (iPrPPMeP)CoH(PMe3) reveals that the hydride complex is initially converted to [(iPrPPMeP)CoH2(PMe3)]+ and then to "(iPrPPMeP)Co(OCHO)" as the key intermediates for releasing H2 and CO2, respectively. As the catalytic reaction proceeds, decarbonylation of formic acid produces CO, which transforms the intermediates to [(iPrPPMeP)Co(CO)(PMe3)]+ and (iPrPPMeP)Co(CO)H as the less active forms of the catalyst. Further degradation to [(iPrPPMeP)Co(CO)2]+, protonated phosphine ligands, and cobalt formate ends the catalyst's life. Contrary to many other catalytic systems, the cobalt catalysts described here are more active in neat formic acid than in formic acid solutions, which can be attributed to the removal of PMe3 from the coordination sphere (via phosphine protonation) to generate a more reactive intermediate.    
-
-    
-
-## Chromium Promotes Phase Transformation to Active Oxyhydroxide for Efficient Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4402079069    
-Open access: True
-    
-[Yong Wang](https://openalex.org/A5100424369), [Sijia Liu](https://openalex.org/A5100321837), [Yunpu Qin](https://openalex.org/A5015864066), [Yongzhi Zhao](https://openalex.org/A5065153952), [Luan Liu](https://openalex.org/A5077301732), [Di Zhang](https://openalex.org/A5100366358), [Jianfang Liu](https://openalex.org/A5101982413), [Yadong Liu](https://openalex.org/A5100613436), [Aimin Chu](https://openalex.org/A5069994656), [Haoyang Wu](https://openalex.org/A5080543622), [Baorui Jia](https://openalex.org/A5034103613), [Xuanhui Qu](https://openalex.org/A5073931088), [Hao Li](https://openalex.org/A5100348631), [Mingli Qin](https://openalex.org/A5050125163), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03974.
-    
-The oxygen evolution reaction (OER) is crucial for renewable energy technologies like metal–air batteries and water splitting. However, it suffers from sluggish kinetics, necessitating a high-activity and stable catalyst. In this study, we used Density Functional Theory (DFT) calculations to demonstrate that Cr doping favors the phase transition of metal (Fe, Co, Ni) hydroxide to the active phase oxyhydroxide. We synthesized FeCoNiCr hydroxide using an aqueous sol–gel method, ensuring that the four elements Fe, Co, Ni, and Cr are uniformly distributed at the atomic level. As an OER catalyst, FeCoNiCr hydroxide exhibits a very low overpotential of 224 mV in alkaline media, which is 52 mV lower than that of FeCoNi hydroxide, placing it among the best nonprecious metal catalysts reported so far. Additionally, it demonstrates long-term catalytic stability of 150 h. An assembled Zn-Air battery with FeCoNiCr hydroxides was cycled stably for 160 h with a low discharge/charge voltage difference of 0.70 V. DFT calculations and microkinetic modeling demonstrated that Cr doping significantly optimized the adsorption energies of OER intermediates at the Ni and Co sites, thereby enhancing overall OER activity. Bader charge calculations further revealed that Ni and Co in the catalysts consistently maintained a +3 valence throughout the OER process, which is beneficial for OER catalysis.    
-
-    
-
-## Crystalline Oxygen-Modified Carbon Nitride Photocatalyst with Enhanced Internal Electric Field and Strong Resistance to Ionic Interference for Robust Seawater Splitting   
-
-OpenAlex: https://openalex.org/W4402079090    
-Open access: False
-    
-[Jing Wang](https://openalex.org/A5100378741), [N. Cao](https://openalex.org/A5076337365), [Xiaoming Liu](https://openalex.org/A5081664000), [Fengting He](https://openalex.org/A5082378693), [Yang‐Ming Lu](https://openalex.org/A5002365215), [Shuling Wang](https://openalex.org/A5100683179), [Chaocheng Zhao](https://openalex.org/A5103046228), [Yongqiang Wang](https://openalex.org/A5038714931), [Jinqiang Zhang](https://openalex.org/A5100753713), [Shaobin Wang](https://openalex.org/A5100338047), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03031.
-    
-Photocatalytic seawater splitting to produce clean hydrogen from nonpotable water using sunlight is a crucial endeavor. However, the scarcity of high-performance photocatalysts in the promising yet fledgling field presents a formidable challenge. Herein, we successfully synthesized a crystalline oxygen-modified carbon nitride (CCNO) polymeric semiconductor that served as an effective photocatalyst for seawater splitting. Comprehensive characterizations and theoretical calculations revealed that nitrogen vacancies and bridging oxygen in the CCNO lattice acted as potent Lewis acid–base pairs, creating an enhanced built-in electric field. This advancement significantly accelerated charge dynamics and bolstered resistance to ionic interference in seawater. Consequently, CCNO exhibited a robust photocatalytic H2 evolution activity of 29.51 mmol g–1 h–1 in natural seawater, with an impressive apparent quantum efficiency of 66.86% under 420 nm monochromatic light. Seawater splitting for H2 production reached 16.83 mmol g–1 under natural light irradiation for 3 h (9–12 o'clock), showcasing its great potential for practical applications. This work presents strategies for developing a metal-free photocatalyst and elucidates its reaction mechanism in the seawater splitting process, laying the foundation for scalable production of clean hydrogen.    
-
-    
 
 ## Organocatalytic Asymmetric Synthesis of 2,3-Dihydro-4H-imidazol-4-ones via Cyclocondensation of N-Silyl Iminoesters   
 
@@ -91,6 +14,17 @@ Open access: False
 [Kiyoshi Ogura](https://openalex.org/A5071017713), [Shinichi Ando](https://openalex.org/A5079069151), [Tsunayoshi Takehara](https://openalex.org/A5022094424), [Takeyuki Suzuki](https://openalex.org/A5101692925), [Shuichi Nakamura](https://openalex.org/A5037788901), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04230.
     
 No abstract    
+
+    
+
+## Time-Resolved Infrared Spectroscopic Evidence for Interfacial pH-Dependent Kinetics of Formate Evolution on Cu Electrodes   
+
+OpenAlex: https://openalex.org/W4402183660    
+Open access: True
+    
+[Georgios Katsoukis](https://openalex.org/A5020644555), [Hilbert C Heida](https://openalex.org/A5093888054), [Merlin Gutgesell](https://openalex.org/A5093888055), [Guido Mul](https://openalex.org/A5081753198), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03521 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c03521?ref=article_openPDF)).
+    
+By deployment of rapid-scan (second time scale) electrochemical FT-IR reflection–absorption spectroscopy, we studied the reduction of CO2 in 0.1 M Na2SO4 in deuterated water at a pD of 3.7. We report on the impact of dynamic changes in the bicarbonate equilibrium concentration in the vicinity of a polycrystalline Cu electrode, induced by step changes in applied electrode potential. We correlate these changes in interfacial composition and concentrations of dissolved species to the formation rate of formate, and provide evidence for the following conclusions: (i) the kinetics for the conversion of dissolved CO2 to formate (formic acid) are fast, (ii) bicarbonate is also converted to formate, but with less favorable kinetics, and (iii) carbonate does not yield any formate. These results reveal that formate formation requires (mildly) acidic conditions at the interface for CO2 to undergo a proton-coupled conversion step, and we postulate that bicarbonate reduction to formate is driven by catalytic hydrogenation via in situ formed H2. Interestingly CO was not observed, suggesting that the kinetics of the CO2 to CO reaction are significantly less favorable than formate formation under the experimental conditions (pH and applied potential). We also analyzed the feasibility of pulsed electrolysis to enhance the (average) rate of formation of formate. While a short positive potential pulse enhances the CO2 concentration, this also leads to the formation of basic copper carbonates, resulting in electrode deactivation. These observations demonstrate the potential of rapid-scan EC-IRRAS to elucidate the mechanisms and kinetics of electrochemical reactions, offering valuable insights for optimizing catalyst and electrolyte performance and advancing CO2 reduction technologies.    
 
     
 
@@ -199,6 +133,83 @@ OpenAlex: https://openalex.org/W4402276044
 Open access: True
     
 [Wenjie Su](https://openalex.org/A5101500272), [Yule Zhang](https://openalex.org/A5071925579), [Artem V. Kuklin](https://openalex.org/A5087272960), [Yiguo Xu](https://openalex.org/A5100993054), [V. S. Gerasimov](https://openalex.org/A5024425002), [Zehao Ma](https://openalex.org/A5072411807), [Han Zhang](https://openalex.org/A5100399276), [Hans Ågren](https://openalex.org/A5053665869), [Ye Zhang](https://openalex.org/A5100449334), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02269.
+    
+No abstract    
+
+    
+
+## A Cobalt Biphenanthroline Complex/Carbon Nanotubes Hybrid as Robust and Efficient Electrocatalyst for Nitrite Reduction to Ammonia   
+
+OpenAlex: https://openalex.org/W4402298934    
+Open access: False
+    
+[Yue Wei](https://openalex.org/A5036686013), [Lingjing Chen](https://openalex.org/A5036950255), [Hua‐Tian Shi](https://openalex.org/A5029958142), [Wai‐Lun Man](https://openalex.org/A5012005897), [Gui Chen](https://openalex.org/A5100750605), [Changping Li](https://openalex.org/A5100711688), [Tai‐Chu Lau](https://openalex.org/A5071430741), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03214.
+    
+No abstract    
+
+    
+
+## Photocatalytic Oxidative Activation of Bicyclo[1.1.0]butanes for Formal [2σ+2π] Cycloadditions   
+
+OpenAlex: https://openalex.org/W4402305805    
+Open access: True
+    
+[Maxim Golfmann](https://openalex.org/A5021149642), [Marius Reinhold](https://openalex.org/A5040406948), [Jorn D. Steen](https://openalex.org/A5031334631), [Malte S. Deike](https://openalex.org/A5107038764), [Behrend Rodemann](https://openalex.org/A5107038765), [Christopher Golz](https://openalex.org/A5065143464), [Stefano Crespi](https://openalex.org/A5036603407), [Johannes C. L. Walker](https://openalex.org/A5058577209), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05067.
+    
+No abstract    
+
+    
+
+## Catalyst Site Requirements for Olefin Etherification over H-Beta Zeolites   
+
+OpenAlex: https://openalex.org/W4402306518    
+Open access: False
+    
+[Wen-Sheng Lee](https://openalex.org/A5038164794), [Paulami Majumdar](https://openalex.org/A5004644378), [Kimberly T. Dinh](https://openalex.org/A5016935054), [Swati Naik](https://openalex.org/A5036222762), [Binghe Gu](https://openalex.org/A5102109182), [Joo Kang](https://openalex.org/A5101933262), [Xiaohua Qiu](https://openalex.org/A5041667858), [Siaka Yusuf](https://openalex.org/A5051266486), [Denise Anaya](https://openalex.org/A5080269043), [John Klann](https://openalex.org/A5042695717), [Wang‐Lin Yu](https://openalex.org/A5103417630), [Thomas Peterson](https://openalex.org/A5075643028), [David G. Barton](https://openalex.org/A5032708311), [Rachel E. M. Brooner](https://openalex.org/A5072517964), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03487.
+    
+No abstract    
+
+    
+
+## Gallium Cluster-Promoted In2O3 Catalyst for CO2 Hydrogenation to Methanol   
+
+OpenAlex: https://openalex.org/W4402313018    
+Open access: False
+    
+[Yuxiang Yang](https://openalex.org/A5005904006), [Linlin Wu](https://openalex.org/A5000102044), [Bingqing Yao](https://openalex.org/A5040756088), [Lei Zhang](https://openalex.org/A5100433795), [Munam Jung](https://openalex.org/A5101954728), [Qianjun He](https://openalex.org/A5062663978), [Ning Yan](https://openalex.org/A5071951449), [Changjun Liu](https://openalex.org/A5063052790), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03045.
+    
+No abstract    
+
+    
+
+## Iron Nitride Formation and Decomposition during Ammonia Decomposition over a Wustite-Based Bulk Iron Catalyst   
+
+OpenAlex: https://openalex.org/W4402315319    
+Open access: False
+    
+[Maximilian Purcel](https://openalex.org/A5049073282), [Stefan Berendts](https://openalex.org/A5058679048), [Luigi Bonati](https://openalex.org/A5090217494), [Simone Perego](https://openalex.org/A5004491813), [Arnd Müller](https://openalex.org/A5002562419), [Martin Lerch](https://openalex.org/A5046219608), [Michele Parrinello](https://openalex.org/A5023487560), [Martin Muhler](https://openalex.org/A5039691617), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04415.
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4402320406    
+Open access: False
+    
+, ACS Catalysis. 14(17)] 2024.https://doi.org/10.1021/csv014i017_1841510.
+    
+No abstract    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4402320654    
+Open access: False
+    
+, ACS Catalysis. 14(17)] 2024.https://doi.org/10.1021/csv014i017_1841511.
     
 No abstract    
 

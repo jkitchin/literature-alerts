@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Sep 2024 01:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 01:21:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CO-Induced Dynamic Behavior of Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;-Supported Pd Nanoparticles at Room Temperature</title>
-      <link>https://doi.org/10.1021/acscatal.4c01888</link>
-      <description>Alberto Ricchebuono, Eleonora Vottero, Daniele Bonavia, Paolo Lazzarini, Riccardo Pellegrini, Valentina Crocell&#224;, Natale G. Porcaro, Stefano Checchia, Davide Ferri, Andrea Piovano, Elena Groppo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402030794
-
-                Supported metal nanoparticles may undergo adsorbate-induced phenomena, with evident consequences for their performance in catalytic applications. CO-induced surface phenomena involving Pd nanoparticles have been documented mostly at high temperatures. In this work, we report an unusual step-shaped CO adsorption isotherm at 30 &#176;C on Pd/Al2O3, associated with an unexpected increase in the heat of adsorption and with a modification in the relative abundance of the different Pd-carbonyl species. These three independent observations can be reconciled by considering a partially reversible CO-induced roughening of the Pd(100) facets, entailing the creation of novel defective sites. The detailed knowledge of the interaction of CO with Pd nanoparticles at mild temperatures in terms of strength, coverage, and adsorption mode/sites is a key to control reactivity and has analytical relevance for the correct interpretation of CO chemisorption measurements. Our experimental strategy has the potential to become a benchmark in the investigation of the adsorbate-induced dynamic behavior of supported metal nanoparticles.</description>
-      <author>Alberto Ricchebuono, Eleonora Vottero, Daniele Bonavia, Paolo Lazzarini, Riccardo Pellegrini, Valentina Crocell&#224;, Natale G. Porcaro, Stefano Checchia, Davide Ferri, Andrea Piovano, Elena Groppo</author>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01888</guid>
-    </item>
-    <item>
-      <title>Pulse Manipulation on Cu-Based Catalysts for Electrochemical Reduction of CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c03513</link>
-      <description>Wanlong Xi, Hongyao Zhou, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402031369
-
-                Electrocatalytic carbon dioxide reduction (CO2RR) over Cu-based catalysts has emerged as a promising strategy for value-added artificial carbon cycling, addressing the current climate and energy challenges. However, the product selectivity and long-term stability of Cu-based catalysts are limited by their instability at constant potential. Recent advancements in pulsed techniques aim to overcome these limitations, enhancing the industrial feasibility of the CO2RR systems. This review critically examines recent research progress in pulsed CO2RR over Cu-based catalysts, offering a comprehensive synthesis of current findings. Key pulse parameters and characterization strategies are explored to uncover the mechanisms behind the enhanced CO2RR performance. The focus is on surface reconstruction, encompassing the regeneration and stabilization of the Cu oxidation states alongside morphological evolution, while also discussing microenvironment changes, including local CO2 concentration, local pH, and ionic arrangement. The intricate modulation mechanisms of pulse mode, potential, and duration on the CO2RR performance are elucidated, highlighting their interconnections. Finally, we identify the prevailing challenges and propose future directions for achieving environmentally friendly and economically viable artificial carbon cycling. By providing insightful perspectives on optimizing pulsed CO2RR, this review paves the way for developing more efficient and robust Cu-based catalytic systems.</description>
-      <author>Wanlong Xi, Hongyao Zhou, Peng Yang, Huiting Huang, Jia Tian, Marina Ratova, Dan Wu</author>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03513</guid>
-    </item>
-    <item>
-      <title>Synergistic Effects of Complex Cu Species in Cu&#8211;MgO Catalysts for the Water Gas Shift Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04064</link>
-      <description>Mei&#8208;Yao Wu, Shanqing Li, Wei-Wei Wang, Chun&#8208;Jiang Jia, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402031423
-
-                No abstract</description>
-      <author>Mei&#8208;Yao Wu, Shanqing Li, Wei-Wei Wang, Chun&#8208;Jiang Jia</author>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04064</guid>
-    </item>
-    <item>
-      <title>Selectivity Switching by Ligand Coordination Sites&#9472;The Key to Promote the CO&lt;sub&gt;2&lt;/sub&gt;/C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; Coupling Reaction over the Ru-Based Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c03808</link>
-      <description>Youcai Zhu, Li Sun, Zuoxiang Zeng, Zhen Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402031922
-
-                The mechanism of the CO2/C2H4-coupling reaction catalyzed by Ru/dmpe (dmpe = PMe2CH2CH2PMe2) and Ru/PP3 (PP3 = P(CH2CH2PMe2)3) catalysts has been revealed using density functional theory method. Three possible pathways for the catalytic conversion of CO2/C2H4 were proposed, including the formation of acrylic acid, the insertion reaction of ruthenalactone, and the base-assisted formation of acrylate. The resting state was studied by considering the two possible spin states (singlet and triplet) through a principal interacting orbital analysis to anticipate potential competition between low-lying spin states. The higher energy of the triplet compared with the singlet state is due to the interplay between orbital interactions and the coordination mode. Then, the differences in the catalytic mechanism between diphosphine ligands and tetradentate phosphine ligands have been revealed. In the Ru/dmpe system, the size of ruthenalactone can be influenced by the addition of ethylene, resulting in the formation of a homologous series of unsaturated Ru carboxylate products. However, additional ligands cannot bind to the transition metal because the tetra-coordinated PP3-ligated ruthenalactone is saturated with 18 electrons. Meanwhile, the release of the ligand site by dissociation of the Ru&#8211;P bond turned out to be infeasible, because it was a high-energy step. As another possible pathway for catalytic synthesis in the Ru/PP3 system, base-promoted &#946;-H abstraction to produce acrylate salts is found to occur readily. In contrast, the electron-deficient Ru/dmpe system is unlikely to produce acrylate salts due to the methoxide coordinated complexes being too stable. Subsequently, potential enhancements to the Ru-catalyzed acrylate salt formation reaction were identified through an extensive screening of ligands and methoxides. Overall, the coordination sites of the phosphine ligand switch the selectivity of the reaction by influencing the electronic arrangement of the transition metal valence orbitals. The coordination sites and electronic properties of the ligand are important descriptors in determining the fate of the CO2/C2H4 coupling, which provides a valuable perspective for future catalyst design.</description>
-      <author>Youcai Zhu, Li Sun, Zuoxiang Zeng, Zhen Liu</author>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03808</guid>
-    </item>
-    <item>
-      <title>Cobalt-Catalyzed Additive-Free Dehydrogenation of Neat Formic Acid</title>
-      <link>https://doi.org/10.1021/acscatal.4c04109</link>
-      <description>Bedraj Pandey, Jeanette A. Krause, Hairong Guan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402079016
-
-                Dehydrogenation of formic acid without using additives and solvents is a challenging research problem in base metal catalysis. In this study, cobalt complexes of the type (iPrPPRP)CoH(PMe3) (iPrPPRP = (o-iPr2PC6H4)2PR; R = H or Me) are shown to catalyze the additive-free dehydrogenation of neat formic acid to carbon dioxide. The iPrPPMeP-ligated cobalt hydride is particularly effective, giving catalytic turnover numbers of up to 7122 with a single load of formic acid and 10,338 with a continuous addition of formic acid. Mechanistic investigation focusing on (iPrPPMeP)CoH(PMe3) reveals that the hydride complex is initially converted to [(iPrPPMeP)CoH2(PMe3)]+ and then to "(iPrPPMeP)Co(OCHO)" as the key intermediates for releasing H2 and CO2, respectively. As the catalytic reaction proceeds, decarbonylation of formic acid produces CO, which transforms the intermediates to [(iPrPPMeP)Co(CO)(PMe3)]+ and (iPrPPMeP)Co(CO)H as the less active forms of the catalyst. Further degradation to [(iPrPPMeP)Co(CO)2]+, protonated phosphine ligands, and cobalt formate ends the catalyst's life. Contrary to many other catalytic systems, the cobalt catalysts described here are more active in neat formic acid than in formic acid solutions, which can be attributed to the removal of PMe3 from the coordination sphere (via phosphine protonation) to generate a more reactive intermediate.</description>
-      <author>Bedraj Pandey, Jeanette A. Krause, Hairong Guan</author>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04109</guid>
-    </item>
-    <item>
-      <title>Chromium Promotes Phase Transformation to Active Oxyhydroxide for Efficient Oxygen Evolution</title>
-      <link>https://doi.org/10.1021/acscatal.4c03974</link>
-      <description>Yong Wang, Sijia Liu, Yunpu Qin, Yongzhi Zhao, Luan Liu, Di Zhang, Jianfang Liu, Yadong Liu, Aimin Chu, Haoyang Wu, Baorui Jia, Xuanhui Qu, Hao Li, Mingli Qin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402079069
-
-                The oxygen evolution reaction (OER) is crucial for renewable energy technologies like metal&#8211;air batteries and water splitting. However, it suffers from sluggish kinetics, necessitating a high-activity and stable catalyst. In this study, we used Density Functional Theory (DFT) calculations to demonstrate that Cr doping favors the phase transition of metal (Fe, Co, Ni) hydroxide to the active phase oxyhydroxide. We synthesized FeCoNiCr hydroxide using an aqueous sol&#8211;gel method, ensuring that the four elements Fe, Co, Ni, and Cr are uniformly distributed at the atomic level. As an OER catalyst, FeCoNiCr hydroxide exhibits a very low overpotential of 224 mV in alkaline media, which is 52 mV lower than that of FeCoNi hydroxide, placing it among the best nonprecious metal catalysts reported so far. Additionally, it demonstrates long-term catalytic stability of 150 h. An assembled Zn-Air battery with FeCoNiCr hydroxides was cycled stably for 160 h with a low discharge/charge voltage difference of 0.70 V. DFT calculations and microkinetic modeling demonstrated that Cr doping significantly optimized the adsorption energies of OER intermediates at the Ni and Co sites, thereby enhancing overall OER activity. Bader charge calculations further revealed that Ni and Co in the catalysts consistently maintained a +3 valence throughout the OER process, which is beneficial for OER catalysis.</description>
-      <author>Yong Wang, Sijia Liu, Yunpu Qin, Yongzhi Zhao, Luan Liu, Di Zhang, Jianfang Liu, Yadong Liu, Aimin Chu, Haoyang Wu, Baorui Jia, Xuanhui Qu, Hao Li, Mingli Qin</author>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03974</guid>
-    </item>
-    <item>
-      <title>Crystalline Oxygen-Modified Carbon Nitride Photocatalyst with Enhanced Internal Electric Field and Strong Resistance to Ionic Interference for Robust Seawater Splitting</title>
-      <link>https://doi.org/10.1021/acscatal.4c03031</link>
-      <description>Jing Wang, N. Cao, Xiaoming Liu, Fengting He, Yang&#8208;Ming Lu, Shuling Wang, Chaocheng Zhao, Yongqiang Wang, Jinqiang Zhang, Shaobin Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402079090
-
-                Photocatalytic seawater splitting to produce clean hydrogen from nonpotable water using sunlight is a crucial endeavor. However, the scarcity of high-performance photocatalysts in the promising yet fledgling field presents a formidable challenge. Herein, we successfully synthesized a crystalline oxygen-modified carbon nitride (CCNO) polymeric semiconductor that served as an effective photocatalyst for seawater splitting. Comprehensive characterizations and theoretical calculations revealed that nitrogen vacancies and bridging oxygen in the CCNO lattice acted as potent Lewis acid&#8211;base pairs, creating an enhanced built-in electric field. This advancement significantly accelerated charge dynamics and bolstered resistance to ionic interference in seawater. Consequently, CCNO exhibited a robust photocatalytic H2 evolution activity of 29.51 mmol g&#8211;1 h&#8211;1 in natural seawater, with an impressive apparent quantum efficiency of 66.86% under 420 nm monochromatic light. Seawater splitting for H2 production reached 16.83 mmol g&#8211;1 under natural light irradiation for 3 h (9&#8211;12 o'clock), showcasing its great potential for practical applications. This work presents strategies for developing a metal-free photocatalyst and elucidates its reaction mechanism in the seawater splitting process, laying the foundation for scalable production of clean hydrogen.</description>
-      <author>Jing Wang, N. Cao, Xiaoming Liu, Fengting He, Yang&#8208;Ming Lu, Shuling Wang, Chaocheng Zhao, Yongqiang Wang, Jinqiang Zhang, Shaobin Wang</author>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03031</guid>
-    </item>
     <item>
       <title>Organocatalytic Asymmetric Synthesis of 2,3-Dihydro-4&lt;i&gt;H&lt;/i&gt;-imidazol-4-ones via Cyclocondensation of &lt;i&gt;N&lt;/i&gt;-Silyl Iminoesters</title>
       <link>https://doi.org/10.1021/acscatal.4c04230</link>
@@ -86,6 +16,16 @@
       <author>Kiyoshi Ogura, Shinichi Ando, Tsunayoshi Takehara, Takeyuki Suzuki, Shuichi Nakamura</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04230</guid>
+    </item>
+    <item>
+      <title>Time-Resolved Infrared Spectroscopic Evidence for Interfacial pH-Dependent Kinetics of Formate Evolution on Cu Electrodes</title>
+      <link>https://doi.org/10.1021/acscatal.4c03521</link>
+      <description>Georgios Katsoukis, Hilbert C Heida, Merlin Gutgesell, Guido Mul, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402183660
+
+                By deployment of rapid-scan (second time scale) electrochemical FT-IR reflection&#8211;absorption spectroscopy, we studied the reduction of CO2 in 0.1 M Na2SO4 in deuterated water at a pD of 3.7. We report on the impact of dynamic changes in the bicarbonate equilibrium concentration in the vicinity of a polycrystalline Cu electrode, induced by step changes in applied electrode potential. We correlate these changes in interfacial composition and concentrations of dissolved species to the formation rate of formate, and provide evidence for the following conclusions: (i) the kinetics for the conversion of dissolved CO2 to formate (formic acid) are fast, (ii) bicarbonate is also converted to formate, but with less favorable kinetics, and (iii) carbonate does not yield any formate. These results reveal that formate formation requires (mildly) acidic conditions at the interface for CO2 to undergo a proton-coupled conversion step, and we postulate that bicarbonate reduction to formate is driven by catalytic hydrogenation via in situ formed H2. Interestingly CO was not observed, suggesting that the kinetics of the CO2 to CO reaction are significantly less favorable than formate formation under the experimental conditions (pH and applied potential). We also analyzed the feasibility of pulsed electrolysis to enhance the (average) rate of formation of formate. While a short positive potential pulse enhances the CO2 concentration, this also leads to the formation of basic copper carbonates, resulting in electrode deactivation. These observations demonstrate the potential of rapid-scan EC-IRRAS to elucidate the mechanisms and kinetics of electrochemical reactions, offering valuable insights for optimizing catalyst and electrolyte performance and advancing CO2 reduction technologies.</description>
+      <author>Georgios Katsoukis, Hilbert C Heida, Merlin Gutgesell, Guido Mul</author>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03521</guid>
     </item>
     <item>
       <title>Ni-Catalyzed Desymmetric Radical Cross-Coupling Reaction to Access Axially Chiral Biaryls</title>
@@ -186,6 +126,76 @@
       <author>Wenjie Su, Yule Zhang, Artem V. Kuklin, Yiguo Xu, V. S. Gerasimov, Zehao Ma, Han Zhang, Hans &#197;gren, Ye Zhang</author>
       <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02269</guid>
+    </item>
+    <item>
+      <title>A Cobalt Biphenanthroline Complex/Carbon Nanotubes Hybrid as Robust and Efficient Electrocatalyst for Nitrite Reduction to Ammonia</title>
+      <link>https://doi.org/10.1021/acscatal.4c03214</link>
+      <description>Yue Wei, Lingjing Chen, Hua&#8208;Tian Shi, Wai&#8208;Lun Man, Gui Chen, Changping Li, Tai&#8208;Chu Lau, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402298934
+
+                No abstract</description>
+      <author>Yue Wei, Lingjing Chen, Hua&#8208;Tian Shi, Wai&#8208;Lun Man, Gui Chen, Changping Li, Tai&#8208;Chu Lau</author>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03214</guid>
+    </item>
+    <item>
+      <title>Photocatalytic Oxidative Activation of Bicyclo[1.1.0]butanes for Formal [2&#963;+2&#960;] Cycloadditions</title>
+      <link>https://doi.org/10.1021/acscatal.4c05067</link>
+      <description>Maxim Golfmann, Marius Reinhold, Jorn D. Steen, Malte S. Deike, Behrend Rodemann, Christopher Golz, Stefano Crespi, Johannes C. L. Walker, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402305805
+
+                No abstract</description>
+      <author>Maxim Golfmann, Marius Reinhold, Jorn D. Steen, Malte S. Deike, Behrend Rodemann, Christopher Golz, Stefano Crespi, Johannes C. L. Walker</author>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05067</guid>
+    </item>
+    <item>
+      <title>Catalyst Site Requirements for Olefin Etherification over H-Beta Zeolites</title>
+      <link>https://doi.org/10.1021/acscatal.4c03487</link>
+      <description>Wen-Sheng Lee, Paulami Majumdar, Kimberly T. Dinh, Swati Naik, Binghe Gu, Joo Kang, Xiaohua Qiu, Siaka Yusuf, Denise Anaya, John Klann, Wang&#8208;Lin Yu, Thomas Peterson, David G. Barton, Rachel E. M. Brooner, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402306518
+
+                No abstract</description>
+      <author>Wen-Sheng Lee, Paulami Majumdar, Kimberly T. Dinh, Swati Naik, Binghe Gu, Joo Kang, Xiaohua Qiu, Siaka Yusuf, Denise Anaya, John Klann, Wang&#8208;Lin Yu, Thomas Peterson, David G. Barton, Rachel E. M. Brooner</author>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03487</guid>
+    </item>
+    <item>
+      <title>Gallium Cluster-Promoted In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Catalyst for CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation to Methanol</title>
+      <link>https://doi.org/10.1021/acscatal.4c03045</link>
+      <description>Yuxiang Yang, Linlin Wu, Bingqing Yao, Lei Zhang, Munam Jung, Qianjun He, Ning Yan, Changjun Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402313018
+
+                No abstract</description>
+      <author>Yuxiang Yang, Linlin Wu, Bingqing Yao, Lei Zhang, Munam Jung, Qianjun He, Ning Yan, Changjun Liu</author>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03045</guid>
+    </item>
+    <item>
+      <title>Iron Nitride Formation and Decomposition during Ammonia Decomposition over a Wustite-Based Bulk Iron Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c04415</link>
+      <description>Maximilian Purcel, Stefan Berendts, Luigi Bonati, Simone Perego, Arnd M&#252;ller, Martin Lerch, Michele Parrinello, Martin Muhler, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402315319
+
+                No abstract</description>
+      <author>Maximilian Purcel, Stefan Berendts, Luigi Bonati, Simone Perego, Arnd M&#252;ller, Martin Lerch, Michele Parrinello, Martin Muhler</author>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04415</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i017_1841510</link>
+      <description>, ACS Catalysis. 14(17)] 2024. https://openalex.org/W4402320406
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i017_1841510</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i017_1841511</link>
+      <description>, ACS Catalysis. 14(17)] 2024. https://openalex.org/W4402320654
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i017_1841511</guid>
     </item>
   </channel>
 </rss>
