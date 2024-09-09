@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Sep  8 01:21:59 2024
+Created on Mon Sep  9 01:18:39 2024
 
-Found 61 results from 2024-09-01 to 2024-09-08
+Found 61 results from 2024-09-02 to 2024-09-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -25,50 +25,6 @@ Open access: False
 [Shujie Liu](https://openalex.org/A5034770439), [Wei Yan](https://openalex.org/A5081598013), [Mingkui Wang](https://openalex.org/A5041280820), [Yan Shen](https://openalex.org/A5003395657), Coordination Chemistry Reviews. 522(None)] 2025.https://doi.org/10.1016/j.ccr.2024.216190.
     
 No abstract    
-
-    
-
-## Ichor: A Python library for computational chemistry data management and machine learning force field development   
-
-OpenAlex: https://openalex.org/W4402093726    
-Open access: True
-    
-[Yulian Manchev](https://openalex.org/A5034555399), [Matthew J. Burn](https://openalex.org/A5024957621), [Paul L. A. Popelier](https://openalex.org/A5078177431), Journal of Computational Chemistry. None(None)] 2024.https://doi.org/10.1002/jcc.27477.
-    
-Abstract We present ichor , an open‐source Python library that simplifies data management in computational chemistry and streamlines machine learning force field development. Ichor implements many easily extensible file management tools, in addition to a lazy file reading system, allowing efficient management of hundreds of thousands of computational chemistry files. Data from calculations can be readily stored into databases for easy sharing and post‐processing. Raw data can be directly processed by ichor to create machine learning‐ready datasets. In addition to powerful data‐related capabilities, ichor provides interfaces to popular workload management software employed by High Performance Computing clusters, making for effortless submission of thousands of separate calculations with only a single line of Python code. Furthermore, a simple‐to‐use command line interface has been implemented through a series of menu systems to further increase accessibility and efficiency of common important ichor tasks. Finally, ichor implements general tools for visualization and analysis of datasets and tools for measuring machine‐learning model quality both on test set data and in simulations. With the current functionalities, ichor can serve as an end‐to‐end data procurement, data management, and analysis solution for machine‐learning force‐field development.    
-
-    
-
-## Recent advancements in two-dimensional transition metal dichalcogenide materials towards hydrogen-evolution electrocatalysis   
-
-OpenAlex: https://openalex.org/W4402096433    
-Open access: True
-    
-[Jianmin Yu](https://openalex.org/A5100726094), [Gongao Peng](https://openalex.org/A5101304442), [Lishan Peng](https://openalex.org/A5072264076), [Qingjun Chen](https://openalex.org/A5006210903), [Chenliang Su](https://openalex.org/A5079209602), [Lu Shang](https://openalex.org/A5007039765), [Tierui Zhang](https://openalex.org/A5042712935), Green Energy & Environment. None(None)] 2024.https://doi.org/10.1016/j.gee.2024.08.009.
-    
-No abstract    
-
-    
-
-## Revealing the Potential-Determining Steps of Reduction of Nitrate to Ammonia on Transition Metal Porphyrins Catalysts   
-
-OpenAlex: https://openalex.org/W4402096483    
-Open access: False
-    
-[Chun‐Ying Wu](https://openalex.org/A5014703182), [Yanqing Shen](https://openalex.org/A5088245131), [Xiaogang Wang](https://openalex.org/A5100444820), [Lingling Lv](https://openalex.org/A5103143899), [Xianghui Meng](https://openalex.org/A5102005227), [Xiangqian Jiang](https://openalex.org/A5101736838), [Dewei Gong](https://openalex.org/A5101490562), [Qing Ai](https://openalex.org/A5084336869), [Yong Shuai](https://openalex.org/A5049375655), [Zhongxiang Zhou](https://openalex.org/A5010285977), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105022.
-    
-No abstract    
-
-    
-
-## Adsorbtive removal of HF toxic gas via tinsulfide monolayer modification: A molecular perspective   
-
-OpenAlex: https://openalex.org/W4402099609    
-Open access: False
-    
-[Masoud Arabieh](https://openalex.org/A5051509205), [Mohammad-Reza Basaadat](https://openalex.org/A5038780452), Chemosphere. None(None)] 2024.https://doi.org/10.1016/j.chemosphere.2024.143231.
-    
-Hydrofluoric Acid (HF) is considered one of the most hazardous chemicals used in industrial plants. Even small exposures to HF can have fatal consequences if not promptly and properly treated. Various research teams have presented numerous substances with the objective of capturing or detecting toxic HF gas. In this study, we explore the impact of HF gas on a single layer of SnS by employing density functional theory (DFT). The interaction nature between the gas molecule and the adsorbent is elucidated by analyzing the related adsorption energy, electronic structure properties and differential charge transfer. The findings indicate that HF is physically adsorbed on the pristine SnS with an adsorption energy value of -0.63 eV. By introducing a Sn mono vacancy defect, the modification of SnS enhances the adsorption energy to -1.26 eV, resulting in a chemisorption process. Molecular fluorine (F2) was discovered to undergo a barrierless reaction with SnS, resulting in the formation of fluorine-substituted SnS. It has been discovered that the substitution of fluorine atoms enhances the reactivity of SnS towards hydro- gen fluoride gas. The adsorption potential of the studied structures towards HF gas was determined to be in the following order: F2SnS > VSn-SnS > VS-SnS ∼ SnS. The current study is anticipated to offer new molecular insights that could lead to the creation of innovative devices for detecting or eliminating HF toxic gas from a specific atmosphere.    
 
     
 
@@ -275,7 +231,7 @@ who have been working with me and sharing their experience and knowledge to me.I
 OpenAlex: https://openalex.org/W4402208249    
 Open access: False
     
-[Lingxiang Liu](https://openalex.org/A5069019411), [Li Wang](https://openalex.org/A5100322864), [Shasha Cui](https://openalex.org/A5079949918), [T. Li](https://openalex.org/A5101891379), [Xiaomeng Yang](https://openalex.org/A5005227650), [Zhijuan Liu](https://openalex.org/A5034970777), [Yanyong Wang](https://openalex.org/A5004517213), International Journal of Hydrogen Energy. 86(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.08.368.
+[Lingxiang Liu](https://openalex.org/A5069019411), [Li Wang](https://openalex.org/A5100322864), [Shasha Cui](https://openalex.org/A5079949918), [Tingting Li](https://openalex.org/A5100416461), [Xiaomeng Yang](https://openalex.org/A5005227650), [Zhijuan Liu](https://openalex.org/A5034970777), [Yanyong Wang](https://openalex.org/A5004517213), International Journal of Hydrogen Energy. 86(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.08.368.
     
 No abstract    
 
@@ -530,6 +486,17 @@ Open access: False
     
 [Ziwei Chai](https://openalex.org/A5056731969), [Sandra Luber](https://openalex.org/A5084103690), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c00671.
     
+In electrochemical experiments, the number of electrons of the electrode immersed in the electrolyte is usually variable. Additionally, the numbers of adsorbed substances on the surface of the electrode, the solvent molecules, and counter charge ions in the near-surface region can also vary. Treating electrochemical solid-liquid interfaces with the typical fixed electron number density functional theory (DFT) approach tends to be a challenge. This can be addressed by using grand canonical ensemble approaches. We present the implementation of two grand canonical ensemble approaches in the open-source computational chemistry software CP2K that go beyond the existing canonical ensemble paradigm. The first approach is based on implicit solvent models and explicit atomistic solute (electrode with/without adsorbed species) models, and includes two recent developments: (a) grand canonical self-consistent field (GC-SCF) method (    
+
+    
+
+## Rapid Reconstruction of Nickel Iron Hydrogen Cyanamide with in-situ Produced Proton Acceptor for Efficient Oxygen Evolution   
+
+OpenAlex: https://openalex.org/W4402308153    
+Open access: False
+    
+[Muhammad Ajmal](https://openalex.org/A5101763098), [Shishi Zhang](https://openalex.org/A5014320453), [Xiaolei Guo](https://openalex.org/A5091291681), [Xiaokang Liu](https://openalex.org/A5100628113), [Chengxiang Shi](https://openalex.org/A5024785407), [Ruijie Gao](https://openalex.org/A5071600788), [Zhen‐Feng Huang](https://openalex.org/A5031106159), [Lun Pan](https://openalex.org/A5021815094), [Xiangwen Zhang](https://openalex.org/A5068228666), [Ji‐Jun Zou](https://openalex.org/A5078341960), Applied Catalysis B Environment and Energy. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124561.
+    
 No abstract    
 
     
@@ -644,6 +611,28 @@ The artificial photocatalytic synthesis based on graphitic carbon nitride (g-C
 
     
 
+## Ultrathin ternary PtNiRu nanowires for enhanced oxygen reduction and methanol oxidation catalysis via d-band center regulation   
+
+OpenAlex: https://openalex.org/W4402327197    
+Open access: False
+    
+[Guopu Cai](https://openalex.org/A5104297152), [Chun Hua](https://openalex.org/A5101989793), [Hongji Ren](https://openalex.org/A5066497447), [Renqin Yu](https://openalex.org/A5018364030), [Deying Xu](https://openalex.org/A5101081988), [Muhammad Arif Khan](https://openalex.org/A5004346220), [Jian Guo](https://openalex.org/A5042853375), [Yu Sun](https://openalex.org/A5101897750), [Ya Tang](https://openalex.org/A5076144371), [Huidong Qian](https://openalex.org/A5006813618), [Zhonghong Xia](https://openalex.org/A5044475805), [Daixin Ye](https://openalex.org/A5055593637), [Jiujun Zhang](https://openalex.org/A5101499774), [Hongbin Zhao](https://openalex.org/A5102018883), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.054.
+    
+No abstract    
+
+    
+
+## Influence of the electric field on the electronic structure of flat hexagonal two-dimensional GaN bilayers   
+
+OpenAlex: https://openalex.org/W4402332529    
+Open access: False
+    
+[R.A. Reyna-Lara](https://openalex.org/A5107058138), [J.D. Correa](https://openalex.org/A5025834879), [K.A. Rodríguez-Magdaleno](https://openalex.org/A5015272747), [F.M. Nava-Maldonado](https://openalex.org/A5009103331), [M.E. Mora‐Ramos](https://openalex.org/A5052839007), [J.C. Martı́nez-Orozco](https://openalex.org/A5064444988), Materials Today Communications. None(None)] 2024.https://doi.org/10.1016/j.mtcomm.2024.110356.
+    
+No abstract    
+
+    
+
 ## Cd0.9Zn0.1S/NiB Schottky Heterojunction for Efficient Photothermal-assisted Photocatalytic Hydrogen Evolution   
 
 OpenAlex: https://openalex.org/W4402177300    
@@ -663,6 +652,17 @@ Open access: False
 [Ah‐Young Song](https://openalex.org/A5056365904), [John Young](https://openalex.org/A5025869729), [Jie‐Yu Wang](https://openalex.org/A5005650392), [S Fricke](https://openalex.org/A5010555283), [Katia Piscina](https://openalex.org/A5106993109), [Raynald Giovine](https://openalex.org/A5041154391), [Susana García](https://openalex.org/A5044341184), [Mijndert van der Spek](https://openalex.org/A5062642687), [Jeffrey A. Reimer](https://openalex.org/A5076195940), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta05578k.
     
 CO 2 adsorption is influenced by its concentration and H 2 O presence. While concentration governs chemisorbed species formation, H 2 O significantly impacts CO 2 adsorption capacity, especially under dilute conditions mimicking direct air capture (DAC).    
+
+    
+
+## Degradation of amine-functionalized adsorbents in carbon capture and direct air capture applications: Mechanism and solutions   
+
+OpenAlex: https://openalex.org/W4402328721    
+Open access: False
+    
+[Shu Zhao](https://openalex.org/A5011586053), [Yiran Zhang](https://openalex.org/A5084348639), [Linjia Li](https://openalex.org/A5082224453), [Jiaqi Feng](https://openalex.org/A5101609902), [Qiuping Wei](https://openalex.org/A5091447898), [Yudong Ning](https://openalex.org/A5053884776), [Zhen Huang](https://openalex.org/A5100778511), [He Lin](https://openalex.org/A5100779353), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.129586.
+    
+No abstract    
 
     
 

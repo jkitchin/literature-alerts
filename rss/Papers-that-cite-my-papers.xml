@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Sep 2024 01:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 01:18:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,46 +16,6 @@
       <author>Shujie Liu, Wei Yan, Mingkui Wang, Yan Shen</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216190</guid>
-    </item>
-    <item>
-      <title>Ichor: A Python library for computational chemistry data management and machine learning force field development</title>
-      <link>https://doi.org/10.1002/jcc.27477</link>
-      <description>Yulian Manchev, Matthew J. Burn, Paul L. A. Popelier, Journal of Computational Chemistry. None(None)] 2024. https://openalex.org/W4402093726
-
-                Abstract We present ichor , an open&#8208;source Python library that simplifies data management in computational chemistry and streamlines machine learning force field development. Ichor implements many easily extensible file management tools, in addition to a lazy file reading system, allowing efficient management of hundreds of thousands of computational chemistry files. Data from calculations can be readily stored into databases for easy sharing and post&#8208;processing. Raw data can be directly processed by ichor to create machine learning&#8208;ready datasets. In addition to powerful data&#8208;related capabilities, ichor provides interfaces to popular workload management software employed by High Performance Computing clusters, making for effortless submission of thousands of separate calculations with only a single line of Python code. Furthermore, a simple&#8208;to&#8208;use command line interface has been implemented through a series of menu systems to further increase accessibility and efficiency of common important ichor tasks. Finally, ichor implements general tools for visualization and analysis of datasets and tools for measuring machine&#8208;learning model quality both on test set data and in simulations. With the current functionalities, ichor can serve as an end&#8208;to&#8208;end data procurement, data management, and analysis solution for machine&#8208;learning force&#8208;field development.</description>
-      <author>Yulian Manchev, Matthew J. Burn, Paul L. A. Popelier</author>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27477</guid>
-    </item>
-    <item>
-      <title>Recent advancements in two-dimensional transition metal dichalcogenide materials towards hydrogen-evolution electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.gee.2024.08.009</link>
-      <description>Jianmin Yu, Gongao Peng, Lishan Peng, Qingjun Chen, Chenliang Su, Lu Shang, Tierui Zhang, Green Energy &amp; Environment. None(None)] 2024. https://openalex.org/W4402096433
-
-                No abstract</description>
-      <author>Jianmin Yu, Gongao Peng, Lishan Peng, Qingjun Chen, Chenliang Su, Lu Shang, Tierui Zhang</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.gee.2024.08.009</guid>
-    </item>
-    <item>
-      <title>Revealing the Potential-Determining Steps of Reduction of Nitrate to Ammonia on Transition Metal Porphyrins Catalysts</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105022</link>
-      <description>Chun&#8208;Ying Wu, Yanqing Shen, Xiaogang Wang, Lingling Lv, Xianghui Meng, Xiangqian Jiang, Dewei Gong, Qing Ai, Yong Shuai, Zhongxiang Zhou, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4402096483
-
-                No abstract</description>
-      <author>Chun&#8208;Ying Wu, Yanqing Shen, Xiaogang Wang, Lingling Lv, Xianghui Meng, Xiangqian Jiang, Dewei Gong, Qing Ai, Yong Shuai, Zhongxiang Zhou</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105022</guid>
-    </item>
-    <item>
-      <title>Adsorbtive removal of HF toxic gas via tinsulfide monolayer modification: A molecular perspective</title>
-      <link>https://doi.org/10.1016/j.chemosphere.2024.143231</link>
-      <description>Masoud Arabieh, Mohammad-Reza Basaadat, Chemosphere. None(None)] 2024. https://openalex.org/W4402099609
-
-                Hydrofluoric Acid (HF) is considered one of the most hazardous chemicals used in industrial plants. Even small exposures to HF can have fatal consequences if not promptly and properly treated. Various research teams have presented numerous substances with the objective of capturing or detecting toxic HF gas. In this study, we explore the impact of HF gas on a single layer of SnS by employing density functional theory (DFT). The interaction nature between the gas molecule and the adsorbent is elucidated by analyzing the related adsorption energy, electronic structure properties and differential charge transfer. The findings indicate that HF is physically adsorbed on the pristine SnS with an adsorption energy value of -0.63 eV. By introducing a Sn mono vacancy defect, the modification of SnS enhances the adsorption energy to -1.26 eV, resulting in a chemisorption process. Molecular fluorine (F2) was discovered to undergo a barrierless reaction with SnS, resulting in the formation of fluorine-substituted SnS. It has been discovered that the substitution of fluorine atoms enhances the reactivity of SnS towards hydro- gen fluoride gas. The adsorption potential of the studied structures towards HF gas was determined to be in the following order: F2SnS &gt; VSn-SnS &gt; VS-SnS &#8764; SnS. The current study is anticipated to offer new molecular insights that could lead to the creation of innovative devices for detecting or eliminating HF toxic gas from a specific atmosphere.</description>
-      <author>Masoud Arabieh, Mohammad-Reza Basaadat</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.chemosphere.2024.143231</guid>
     </item>
     <item>
       <title>MXene introduced between CoNi LDH and NiMoO4 nanorods arrays: A bifunctional multistage composite for OER catalyst and supercapacitors</title>
@@ -240,10 +200,10 @@
     <item>
       <title>Electrocatalytic micro-environment regulation of ZIF-67 with broadened pore structure and unsaturated coordination sites for oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.08.368</link>
-      <description>Lingxiang Liu, Li Wang, Shasha Cui, T. Li, Xiaomeng Yang, Zhijuan Liu, Yanyong Wang, International Journal of Hydrogen Energy. 86(None)] 2024. https://openalex.org/W4402208249
+      <description>Lingxiang Liu, Li Wang, Shasha Cui, Tingting Li, Xiaomeng Yang, Zhijuan Liu, Yanyong Wang, International Journal of Hydrogen Energy. 86(None)] 2024. https://openalex.org/W4402208249
 
                 No abstract</description>
-      <author>Lingxiang Liu, Li Wang, Shasha Cui, T. Li, Xiaomeng Yang, Zhijuan Liu, Yanyong Wang</author>
+      <author>Lingxiang Liu, Li Wang, Shasha Cui, Tingting Li, Xiaomeng Yang, Zhijuan Liu, Yanyong Wang</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.368</guid>
     </item>
@@ -472,10 +432,20 @@
       <link>https://doi.org/10.1021/acs.jctc.4c00671</link>
       <description>Ziwei Chai, Sandra Luber, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4402305073
 
-                No abstract</description>
+                In electrochemical experiments, the number of electrons of the electrode immersed in the electrolyte is usually variable. Additionally, the numbers of adsorbed substances on the surface of the electrode, the solvent molecules, and counter charge ions in the near-surface region can also vary. Treating electrochemical solid-liquid interfaces with the typical fixed electron number density functional theory (DFT) approach tends to be a challenge. This can be addressed by using grand canonical ensemble approaches. We present the implementation of two grand canonical ensemble approaches in the open-source computational chemistry software CP2K that go beyond the existing canonical ensemble paradigm. The first approach is based on implicit solvent models and explicit atomistic solute (electrode with/without adsorbed species) models, and includes two recent developments: (a) grand canonical self-consistent field (GC-SCF) method (</description>
       <author>Ziwei Chai, Sandra Luber</author>
       <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00671</guid>
+    </item>
+    <item>
+      <title>Rapid Reconstruction of Nickel Iron Hydrogen Cyanamide with in-situ Produced Proton Acceptor for Efficient Oxygen Evolution</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124561</link>
+      <description>Muhammad Ajmal, Shishi Zhang, Xiaolei Guo, Xiaokang Liu, Chengxiang Shi, Ruijie Gao, Zhen&#8208;Feng Huang, Lun Pan, Xiangwen Zhang, Ji&#8208;Jun Zou, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4402308153
+
+                No abstract</description>
+      <author>Muhammad Ajmal, Shishi Zhang, Xiaolei Guo, Xiaokang Liu, Chengxiang Shi, Ruijie Gao, Zhen&#8208;Feng Huang, Lun Pan, Xiangwen Zhang, Ji&#8208;Jun Zou</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124561</guid>
     </item>
     <item>
       <title>First-principles study of structural, electronic, and magnetic properties at the &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml:mn&gt;0001&lt;/mml:mn&gt;&lt;mml:mo&gt;)&lt;/mml:mo&gt;&lt;/mml:mrow&gt;&lt;mml:mspace width="0.16em"/&gt;&lt;mml:msub&gt;&lt;mml:mi&gt;Cr&lt;/mml:mi&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;mml:msub&gt;&lt;mml:mi mathvariant="normal"&gt;O&lt;/mml:mi&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;mml:mo&gt;&#8722;&lt;/mml:mo&gt;&lt;mml:mrow&gt;&lt;mml:mo&gt;(&lt;/mml:mo&gt;&lt;mml:mn&gt;111&lt;/mml:mn&gt;&lt;mml:mo&gt;)&lt;/mml:mo&gt;&lt;/mml:mrow&gt;&lt;mml:mi&gt;Pt&lt;/&#8230;</title>
@@ -578,6 +548,26 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-52158-z</guid>
     </item>
     <item>
+      <title>Ultrathin ternary PtNiRu nanowires for enhanced oxygen reduction and methanol oxidation catalysis via d-band center regulation</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.09.054</link>
+      <description>Guopu Cai, Chun Hua, Hongji Ren, Renqin Yu, Deying Xu, Muhammad Arif Khan, Jian Guo, Yu Sun, Ya Tang, Huidong Qian, Zhonghong Xia, Daixin Ye, Jiujun Zhang, Hongbin Zhao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4402327197
+
+                No abstract</description>
+      <author>Guopu Cai, Chun Hua, Hongji Ren, Renqin Yu, Deying Xu, Muhammad Arif Khan, Jian Guo, Yu Sun, Ya Tang, Huidong Qian, Zhonghong Xia, Daixin Ye, Jiujun Zhang, Hongbin Zhao</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.054</guid>
+    </item>
+    <item>
+      <title>Influence of the electric field on the electronic structure of flat hexagonal two-dimensional GaN bilayers</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2024.110356</link>
+      <description>R.A. Reyna-Lara, J.D. Correa, K.A. Rodr&#237;guez-Magdaleno, F.M. Nava-Maldonado, M.E. Mora&#8208;Ramos, J.C. Mart&#305;&#769;nez-Orozco, Materials Today Communications. None(None)] 2024. https://openalex.org/W4402332529
+
+                No abstract</description>
+      <author>R.A. Reyna-Lara, J.D. Correa, K.A. Rodr&#237;guez-Magdaleno, F.M. Nava-Maldonado, M.E. Mora&#8208;Ramos, J.C. Mart&#305;&#769;nez-Orozco</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.110356</guid>
+    </item>
+    <item>
       <title>Cd0.9Zn0.1S/NiB Schottky Heterojunction for Efficient Photothermal-assisted Photocatalytic Hydrogen Evolution</title>
       <link>https://doi.org/10.1016/j.jallcom.2024.176311</link>
       <description>Zhe Kong, Dong Zhang, Jintao Dong, Jiahui Yu, Dafeng Zhang, Junchang Liu, Peiqing Cai, Xipeng Pu, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4402177300
@@ -596,6 +586,16 @@
       <author>Ah&#8208;Young Song, John Young, Jie&#8208;Yu Wang, S Fricke, Katia Piscina, Raynald Giovine, Susana Garc&#237;a, Mijndert van der Spek, Jeffrey A. Reimer</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta05578k</guid>
+    </item>
+    <item>
+      <title>Degradation of amine-functionalized adsorbents in carbon capture and direct air capture applications: Mechanism and solutions</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.129586</link>
+      <description>Shu Zhao, Yiran Zhang, Linjia Li, Jiaqi Feng, Qiuping Wei, Yudong Ning, Zhen Huang, He Lin, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4402328721
+
+                No abstract</description>
+      <author>Shu Zhao, Yiran Zhang, Linjia Li, Jiaqi Feng, Qiuping Wei, Yudong Ning, Zhen Huang, He Lin</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.129586</guid>
     </item>
     <item>
       <title>Spin Manipulation of Co sites in Co&lt;sub&gt;9&lt;/sub&gt;S&lt;sub&gt;8&lt;/sub&gt;/Nb&lt;sub&gt;2&lt;/sub&gt;CT&lt;sub&gt;x&lt;/sub&gt; Mott&#8211;Schottky Heterojunction for Boosting the Electrocatalytic Nitrogen Reduction Reaction</title>
