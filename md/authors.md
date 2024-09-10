@@ -1,8 +1,8 @@
 # authors
 Description: List of authors
-Created on Mon Sep  9 01:18:19 2024
+Created on Tue Sep 10 01:16:56 2024
 
-Found 1 results from 2024-09-02 to 2024-09-09
+Found 1 results from 2024-09-03 to 2024-09-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464)
 

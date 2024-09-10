@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Sep 2024 01:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 01:17:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Jay T. Bender, Rohan Yuri Sanspeur, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco</author>
       <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c01897</guid>
+    </item>
+    <item>
+      <title>Globally Convergent Method for Optimal Control of Hybrid Dynamical Systems</title>
+      <link>https://doi.org/10.1016/j.ifacol.2024.08.446</link>
+      <description>Saif R. Kazi, Mandar Thombre, Lorenz T. Biegler, IFAC-PapersOnLine. 58(14)] 2024. https://openalex.org/W4402305491
+
+                No abstract</description>
+      <author>Saif R. Kazi, Mandar Thombre, Lorenz T. Biegler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ifacol.2024.08.446</guid>
     </item>
     <item>
       <title>Self-Stabilizing Economic Nonlinear Model Predictive Control for Membrane Reactors</title>

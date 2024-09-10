@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon Sep  9 01:18:26 2024
+Created on Tue Sep 10 01:17:02 2024
 
-Found 4 results from 2024-09-02 to 2024-09-09
+Found 5 results from 2024-09-03 to 2024-09-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -12,6 +12,17 @@ OpenAlex: https://openalex.org/W4402230343
 Open access: False
     
 [Jay T. Bender](https://openalex.org/A5030622040), [Rohan Yuri Sanspeur](https://openalex.org/A5071284998), [Angel E. Valles](https://openalex.org/A5106990669), [Alyssa K. Uvodich](https://openalex.org/A5106990670), [Delia J. Milliron](https://openalex.org/A5077085087), [John R. Kitchin](https://openalex.org/A5003442464), [Joaquin Resasco](https://openalex.org/A5018687349), ACS Energy Letters. None(None)] 2024.https://doi.org/10.1021/acsenergylett.4c01897.
+    
+No abstract    
+
+    
+
+## Globally Convergent Method for Optimal Control of Hybrid Dynamical Systems   
+
+OpenAlex: https://openalex.org/W4402305491    
+Open access: True
+    
+[Saif R. Kazi](https://openalex.org/A5046223915), [Mandar Thombre](https://openalex.org/A5071147001), [Lorenz T. Biegler](https://openalex.org/A5052825722), IFAC-PapersOnLine. 58(14)] 2024.https://doi.org/10.1016/j.ifacol.2024.08.446.
     
 No abstract    
 

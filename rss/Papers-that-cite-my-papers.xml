@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Sep 2024 01:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 01:17:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,16 +16,6 @@
       <author>Shujie Liu, Wei Yan, Mingkui Wang, Yan Shen</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216190</guid>
-    </item>
-    <item>
-      <title>MXene introduced between CoNi LDH and NiMoO4 nanorods arrays: A bifunctional multistage composite for OER catalyst and supercapacitors</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.08.466</link>
-      <description>Li Wang, N&#252; Wang, Xiangyang Zhou, Zhongren Yue, Yan Shan, Kezheng Chen, Xuegang Yu, International Journal of Hydrogen Energy. 86(None)] 2024. https://openalex.org/W4402115937
-
-                No abstract</description>
-      <author>Li Wang, N&#252; Wang, Xiangyang Zhou, Zhongren Yue, Yan Shan, Kezheng Chen, Xuegang Yu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.466</guid>
     </item>
     <item>
       <title>A compendium of all-in-one solar-driven water splitting using ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;-based photocatalysts: guiding the path from the past to the limitless future</title>
@@ -328,6 +318,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c07953</guid>
     </item>
     <item>
+      <title>Density Functional Theory Study of the Relationship between N-Dopants and Vacancy Defects on Graphene Quantum Dots for Oxygen Reduction Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acsanm.4c03480</link>
+      <description>Jianguang Feng, Song Xu, Chenhao Xia, Na Song, Hongzhou Dong, Liyan Yu, Lifeng Dong, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4402272835
+
+                No abstract</description>
+      <author>Jianguang Feng, Song Xu, Chenhao Xia, Na Song, Hongzhou Dong, Liyan Yu, Lifeng Dong</author>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c03480</guid>
+    </item>
+    <item>
       <title>Light element (B, N) co-doped graphitic films on copper as highly robust current collectors for anode-free Li metal battery applications</title>
       <link>https://doi.org/10.1063/5.0208785</link>
       <description>Sunita Bhagwat, Shweta Hiwase, M. M. Hossain, Supriya Kadam, Minal Wable, Sunit Rane, S. Mondal ., Bidisa Das, Abhik Banerjee, Satishchandra Ogale, Applied Physics Reviews. 11(3)] 2024. https://openalex.org/W4402273256
@@ -466,6 +466,16 @@
       <author>B. Li, Sida Jiang, Qiang Fu, Ran Wang, Weizhi Xu, Junxiang Chen, &#1041;&#1086; &#1051;&#1102;, Ping Xu, Xianjie Wang, Jianhua Li, Hongbo Fan, Juntao Huo, Jianfei Sun, Zhiliang Ning, Bo Song</author>
       <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413088</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic oxygen reduction reaction mechanism in pristine TPO-graphene and its boron doped derivative in acidic medium: A density-functional theory forecast</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.08.493</link>
+      <description>Debaprem Bhattacharya, Debnarayan Jana, International Journal of Hydrogen Energy. 86(None)] 2024. https://openalex.org/W4402310813
+
+                No abstract</description>
+      <author>Debaprem Bhattacharya, Debnarayan Jana</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.493</guid>
     </item>
     <item>
       <title>Force training neural network potential energy surface models</title>
@@ -616,6 +626,16 @@
       <author>Gerg&#337; Ign&#225;cz, L.R. Bader, Aron K. Beke, Yasir Ghunaim, Tejus Shastry, Hakkim Vovusha, Matthew R. Carbone, Bernard Ghanem, Gy&#246;rgy Sz&#233;kely</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.memsci.2024.123256</guid>
+    </item>
+    <item>
+      <title>The cultural identity of first-generation adult immigrants: A meta-analysis</title>
+      <link>https://doi.org/10.1080/15298868.2024.2399559</link>
+      <description>D&#233;bora B. Maehler, Jessica Daikeler, Self and Identity. None(None)] 2024. https://openalex.org/W4402339395
+
+                No abstract</description>
+      <author>D&#233;bora B. Maehler, Jessica Daikeler</author>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/15298868.2024.2399559</guid>
     </item>
   </channel>
 </rss>

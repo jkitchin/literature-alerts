@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Sep  9 01:18:39 2024
+Created on Tue Sep 10 01:17:13 2024
 
-Found 61 results from 2024-09-02 to 2024-09-09
+Found 63 results from 2024-09-03 to 2024-09-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -23,17 +23,6 @@ OpenAlex: https://openalex.org/W4402275658
 Open access: False
     
 [Shujie Liu](https://openalex.org/A5034770439), [Wei Yan](https://openalex.org/A5081598013), [Mingkui Wang](https://openalex.org/A5041280820), [Yan Shen](https://openalex.org/A5003395657), Coordination Chemistry Reviews. 522(None)] 2025.https://doi.org/10.1016/j.ccr.2024.216190.
-    
-No abstract    
-
-    
-
-## MXene introduced between CoNi LDH and NiMoO4 nanorods arrays: A bifunctional multistage composite for OER catalyst and supercapacitors   
-
-OpenAlex: https://openalex.org/W4402115937    
-Open access: False
-    
-[Li Wang](https://openalex.org/A5100322864), [Nü Wang](https://openalex.org/A5091014243), [Xiangyang Zhou](https://openalex.org/A5006717881), [Zhongren Yue](https://openalex.org/A5053629047), [Yan Shan](https://openalex.org/A5102221200), [Kezheng Chen](https://openalex.org/A5101640499), [Xuegang Yu](https://openalex.org/A5012215834), International Journal of Hydrogen Energy. 86(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.08.466.
     
 No abstract    
 
@@ -369,6 +358,17 @@ Strain engineering is an effective strategy to improve the activity of catalysts
 
     
 
+## Density Functional Theory Study of the Relationship between N-Dopants and Vacancy Defects on Graphene Quantum Dots for Oxygen Reduction Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4402272835    
+Open access: False
+    
+[Jianguang Feng](https://openalex.org/A5054391204), [Song Xu](https://openalex.org/A5076788700), [Chenhao Xia](https://openalex.org/A5077763880), [Na Song](https://openalex.org/A5052639398), [Hongzhou Dong](https://openalex.org/A5100995660), [Liyan Yu](https://openalex.org/A5040601742), [Lifeng Dong](https://openalex.org/A5066507565), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.4c03480.
+    
+No abstract    
+
+    
+
 ## Light element (B, N) co-doped graphitic films on copper as highly robust current collectors for anode-free Li metal battery applications   
 
 OpenAlex: https://openalex.org/W4402273256    
@@ -520,6 +520,17 @@ Open access: False
 [B. Li](https://openalex.org/A5101842385), [Sida Jiang](https://openalex.org/A5052513858), [Qiang Fu](https://openalex.org/A5006955672), [Ran Wang](https://openalex.org/A5100447500), [Weizhi Xu](https://openalex.org/A5101811312), [Junxiang Chen](https://openalex.org/A5091082342), [Бо Лю](https://openalex.org/A5100394072), [Ping Xu](https://openalex.org/A5100396255), [Xianjie Wang](https://openalex.org/A5103190586), [Jianhua Li](https://openalex.org/A5100391348), [Hongbo Fan](https://openalex.org/A5046197166), [Juntao Huo](https://openalex.org/A5090354769), [Jianfei Sun](https://openalex.org/A5048402838), [Zhiliang Ning](https://openalex.org/A5101153539), [Bo Song](https://openalex.org/A5006913021), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202413088.
     
 Abstract Efficient oxygen evolution reaction (OER) electrocatalysts play a pivotal role in water electrolysis, notably for industrial high current densities (>1000 mA cm −2 ). Crystalline/amorphous heterostructure interfaces have proven to be advantageous for enhancing the OER activities of electrocatalytic materials. However, the constructing and tailoring for crystalline/amorphous interfaces still remain a great challenge due to the destruction of active substrates by intricate post‐treatment. Here, a strategy to tailor nanocrystalline/amorphous (N/A) interface and optimize the electrocatalytic performance of as‐cast N/A alloys by adjusting the size of nanocrystals is proposed. The N/A alloy fibers obtained based on this strategy exhibit superior OER performance with an overpotential of 227 mV (@10 mA cm −2 ), maintaining stability for over 1000, 600, and 240 h under high current densities of 500, 1000, and 1800 mA cm −2 , respectively. Theoretical calculations and material characterizations reveal that N/A interfaces, facilitated by appropriately sized nanocrystals possessing a loose atomic arrangement, favorable surface electronic structure, advantageous local coordination, and optimal O‐contained intermediate adsorption, can yield abundant active sites without compromising stability. This study not only provides a deeper understanding of the tailoring mechanism of N/A interfaces but also offers a new design perspective for the development of cost‐effective, industrial‐grade electrocatalysts.    
+
+    
+
+## Electrocatalytic oxygen reduction reaction mechanism in pristine TPO-graphene and its boron doped derivative in acidic medium: A density-functional theory forecast   
+
+OpenAlex: https://openalex.org/W4402310813    
+Open access: False
+    
+[Debaprem Bhattacharya](https://openalex.org/A5059813576), [Debnarayan Jana](https://openalex.org/A5005176601), International Journal of Hydrogen Energy. 86(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.08.493.
+    
+No abstract    
 
     
 
@@ -683,6 +694,17 @@ OpenAlex: https://openalex.org/W4402206339
 Open access: False
     
 [Gergő Ignácz](https://openalex.org/A5001071046), [L.R. Bader](https://openalex.org/A5065534902), [Aron K. Beke](https://openalex.org/A5074858811), [Yasir Ghunaim](https://openalex.org/A5062058587), [Tejus Shastry](https://openalex.org/A5092156280), [Hakkim Vovusha](https://openalex.org/A5035749157), [Matthew R. Carbone](https://openalex.org/A5067892749), [Bernard Ghanem](https://openalex.org/A5024763828), [György Székely](https://openalex.org/A5091741402), Journal of Membrane Science. None(None)] 2024.https://doi.org/10.1016/j.memsci.2024.123256.
+    
+No abstract    
+
+    
+
+## The cultural identity of first-generation adult immigrants: A meta-analysis   
+
+OpenAlex: https://openalex.org/W4402339395    
+Open access: True
+    
+[Débora B. Maehler](https://openalex.org/A5063861358), [Jessica Daikeler](https://openalex.org/A5022174396), Self and Identity. None(None)] 2024.https://doi.org/10.1080/15298868.2024.2399559.
     
 No abstract    
 
