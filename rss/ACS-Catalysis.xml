@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Sep 2024 01:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 01:16:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Organocatalytic Asymmetric Synthesis of 2,3-Dihydro-4&lt;i&gt;H&lt;/i&gt;-imidazol-4-ones via Cyclocondensation of &lt;i&gt;N&lt;/i&gt;-Silyl Iminoesters</title>
-      <link>https://doi.org/10.1021/acscatal.4c04230</link>
-      <description>Kiyoshi Ogura, Shinichi Ando, Tsunayoshi Takehara, Takeyuki Suzuki, Shuichi Nakamura, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402138488
-
-                No abstract</description>
-      <author>Kiyoshi Ogura, Shinichi Ando, Tsunayoshi Takehara, Takeyuki Suzuki, Shuichi Nakamura</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04230</guid>
-    </item>
     <item>
       <title>Time-Resolved Infrared Spectroscopic Evidence for Interfacial pH-Dependent Kinetics of Formate Evolution on Cu Electrodes</title>
       <link>https://doi.org/10.1021/acscatal.4c03521</link>
@@ -226,6 +216,26 @@
       <author/>
       <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i017_1841511</guid>
+    </item>
+    <item>
+      <title>Advancing CO&lt;sub&gt;2&lt;/sub&gt;RR with O-Coordinated Single-Atom Nanozymes: A DFT and Machine Learning Exploration</title>
+      <link>https://doi.org/10.1021/acscatal.4c02799</link>
+      <description>Hao Sun, Jing&#8208;yao Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402349498
+
+                No abstract</description>
+      <author>Hao Sun, Jing&#8208;yao Liu</author>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02799</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;Double Asymmetric Hydrogenation of &#945;-Iminoketones: Facile Synthesis of Enantiopure Vicinal Amino Alcohols&#8221;</title>
+      <link>https://doi.org/10.1021/acscatal.4c04811</link>
+      <description>Sheng Wang, Xin Lin, Pan&#8208;Lin Shao, Jingyuan Song, Jialin Wen, Xumu Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402355125
+
+                No abstract</description>
+      <author>Sheng Wang, Xin Lin, Pan&#8208;Lin Shao, Jingyuan Song, Jialin Wen, Xumu Zhang</author>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04811</guid>
     </item>
   </channel>
 </rss>

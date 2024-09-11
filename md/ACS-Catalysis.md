@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Sep 10 01:17:01 2024
+Created on Wed Sep 11 01:16:14 2024
 
-Found 22 results from 2024-09-03 to 2024-09-10
+Found 23 results from 2024-09-04 to 2024-09-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Organocatalytic Asymmetric Synthesis of 2,3-Dihydro-4H-imidazol-4-ones via Cyclocondensation of N-Silyl Iminoesters   
-
-OpenAlex: https://openalex.org/W4402138488    
-Open access: False
-    
-[Kiyoshi Ogura](https://openalex.org/A5071017713), [Shinichi Ando](https://openalex.org/A5079069151), [Tsunayoshi Takehara](https://openalex.org/A5022094424), [Takeyuki Suzuki](https://openalex.org/A5101692925), [Shuichi Nakamura](https://openalex.org/A5037788901), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04230.
-    
-No abstract    
-
-    
 
 ## Time-Resolved Infrared Spectroscopic Evidence for Interfacial pH-Dependent Kinetics of Formate Evolution on Cu Electrodes   
 
@@ -243,6 +232,28 @@ OpenAlex: https://openalex.org/W4402320654
 Open access: False
     
 , ACS Catalysis. 14(17)] 2024.https://doi.org/10.1021/csv014i017_1841511.
+    
+No abstract    
+
+    
+
+## Advancing CO2RR with O-Coordinated Single-Atom Nanozymes: A DFT and Machine Learning Exploration   
+
+OpenAlex: https://openalex.org/W4402349498    
+Open access: False
+    
+[Hao Sun](https://openalex.org/A5022883932), [Jing‐yao Liu](https://openalex.org/A5013853310), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02799.
+    
+No abstract    
+
+    
+
+## Correction to “Double Asymmetric Hydrogenation of α-Iminoketones: Facile Synthesis of Enantiopure Vicinal Amino Alcohols”   
+
+OpenAlex: https://openalex.org/W4402355125    
+Open access: False
+    
+[Sheng Wang](https://openalex.org/A5100371335), [Xin Lin](https://openalex.org/A5090993141), [Pan‐Lin Shao](https://openalex.org/A5006067896), [Jingyuan Song](https://openalex.org/A5007909589), [Jialin Wen](https://openalex.org/A5070019572), [Xumu Zhang](https://openalex.org/A5025921875), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04811.
     
 No abstract    
 
