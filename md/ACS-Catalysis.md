@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Sep 11 01:16:14 2024
+Created on Thu Sep 12 01:16:40 2024
 
-Found 23 results from 2024-09-04 to 2024-09-11
+Found 25 results from 2024-09-05 to 2024-09-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Time-Resolved Infrared Spectroscopic Evidence for Interfacial pH-Dependent Kinetics of Formate Evolution on Cu Electrodes   
-
-OpenAlex: https://openalex.org/W4402183660    
-Open access: True
-    
-[Georgios Katsoukis](https://openalex.org/A5020644555), [Hilbert C Heida](https://openalex.org/A5093888054), [Merlin Gutgesell](https://openalex.org/A5093888055), [Guido Mul](https://openalex.org/A5081753198), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03521 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c03521?ref=article_openPDF)).
-    
-By deployment of rapid-scan (second time scale) electrochemical FT-IR reflection–absorption spectroscopy, we studied the reduction of CO2 in 0.1 M Na2SO4 in deuterated water at a pD of 3.7. We report on the impact of dynamic changes in the bicarbonate equilibrium concentration in the vicinity of a polycrystalline Cu electrode, induced by step changes in applied electrode potential. We correlate these changes in interfacial composition and concentrations of dissolved species to the formation rate of formate, and provide evidence for the following conclusions: (i) the kinetics for the conversion of dissolved CO2 to formate (formic acid) are fast, (ii) bicarbonate is also converted to formate, but with less favorable kinetics, and (iii) carbonate does not yield any formate. These results reveal that formate formation requires (mildly) acidic conditions at the interface for CO2 to undergo a proton-coupled conversion step, and we postulate that bicarbonate reduction to formate is driven by catalytic hydrogenation via in situ formed H2. Interestingly CO was not observed, suggesting that the kinetics of the CO2 to CO reaction are significantly less favorable than formate formation under the experimental conditions (pH and applied potential). We also analyzed the feasibility of pulsed electrolysis to enhance the (average) rate of formation of formate. While a short positive potential pulse enhances the CO2 concentration, this also leads to the formation of basic copper carbonates, resulting in electrode deactivation. These observations demonstrate the potential of rapid-scan EC-IRRAS to elucidate the mechanisms and kinetics of electrochemical reactions, offering valuable insights for optimizing catalyst and electrolyte performance and advancing CO2 reduction technologies.    
-
-    
-
-## Ni-Catalyzed Desymmetric Radical Cross-Coupling Reaction to Access Axially Chiral Biaryls   
-
-OpenAlex: https://openalex.org/W4402190459    
-Open access: False
-    
-[Yue-Die Zhu](https://openalex.org/A5101282484), [Zhen-Yao Dai](https://openalex.org/A5025674972), [Min Jiang](https://openalex.org/A5050255768), [Pu‐Sheng Wang](https://openalex.org/A5082627703), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03944.
-    
-No abstract    
-
-    
-
-## Generalized Principles for the Descriptor-Based Design of Supported Gold Catalysts   
-
-OpenAlex: https://openalex.org/W4402190568    
-Open access: False
-    
-[Lavie Rekhi](https://openalex.org/A5084825721), [Quang Thang Trịnh](https://openalex.org/A5063917098), [Asmee M. Prabhu](https://openalex.org/A5057608617), [Tej S. Choksi](https://openalex.org/A5085930319), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04049.
-    
-No abstract    
-
-    
-
-## Designing ASSMD Strategy for Exploring and Engineering Extreme Thermophilic Ancestral Nitrilase for Nitriles Biocatalysis   
-
-OpenAlex: https://openalex.org/W4402192297    
-Open access: False
-    
-[Zi Kai Wang](https://openalex.org/A5075914047), [Dexin Feng](https://openalex.org/A5085466171), [Chang Su](https://openalex.org/A5084707022), [Hui Li](https://openalex.org/A5100423896), [Zhiming Rao](https://openalex.org/A5077886604), [Yijian Rao](https://openalex.org/A5028839532), [Zhen-Ming Lu](https://openalex.org/A5001239428), [Jin‐Song Shi](https://openalex.org/A5051831791), [Zhenghong Xu](https://openalex.org/A5071567678), [Jin‐Song Gong](https://openalex.org/A5036737662), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03851.
-    
-No abstract    
-
-    
-
-## Heterolytic Hydrogenation and H– Migration-Assisted Hydrodeoxygenation Reaction under Mild Conditions over Pt/TiO2-D   
-
-OpenAlex: https://openalex.org/W4402199449    
-Open access: False
-    
-[Xinchao Wang](https://openalex.org/A5101504177), [Tingting Xiao](https://openalex.org/A5101444494), [Yanchun Liu](https://openalex.org/A5101923543), [Chao Zhang](https://openalex.org/A5100460077), [Fengyu Zhao](https://openalex.org/A5078562796), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04196.
-    
-No abstract    
-
-    
 
 ## Iron Catalysts Supported by a PNP Ligand with an Additional Hemilabile Donor for CO2 Hydrogenation   
 
@@ -122,17 +67,6 @@ OpenAlex: https://openalex.org/W4402274752
 Open access: False
     
 [Jinze Du](https://openalex.org/A5053026456), [Anyao Liu](https://openalex.org/A5087059179), [Qian Zhang](https://openalex.org/A5101742243), [Shi‐Hong Luo](https://openalex.org/A5064431144), [Hequan Yao](https://openalex.org/A5037824730), [Yuli He](https://openalex.org/A5057133110), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04371.
-    
-No abstract    
-
-    
-
-## Er-Doping Enhances the Oxygen Evolution Performance of Cobalt Oxide in Acidic Medium   
-
-OpenAlex: https://openalex.org/W4402274848    
-Open access: True
-    
-[San-Jiang Pan](https://openalex.org/A5086797292), [Hang Li](https://openalex.org/A5100455126), [Sheng Wang](https://openalex.org/A5100371335), [Yang Fu](https://openalex.org/A5101307839), [Shenao Wang](https://openalex.org/A5101315919), [Zhong‐Yang Xie](https://openalex.org/A5011438427), [Li Wei](https://openalex.org/A5100454543), [Hao Li](https://openalex.org/A5100348631), [Nan Li](https://openalex.org/A5077445812), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03088.
     
 No abstract    
 
@@ -237,6 +171,17 @@ No abstract
 
     
 
+## Er-Doping Enhances the Oxygen Evolution Performance of Cobalt Oxide in Acidic Medium   
+
+OpenAlex: https://openalex.org/W4402274848    
+Open access: True
+    
+[San-Jiang Pan](https://openalex.org/A5086797292), [Hang Li](https://openalex.org/A5100455126), [Sheng Wang](https://openalex.org/A5100371335), [Yang Fu](https://openalex.org/A5101307839), [Shenao Wang](https://openalex.org/A5101315919), [Zhong‐Yang Xie](https://openalex.org/A5011438427), [Li Wei](https://openalex.org/A5100454543), [Hao Li](https://openalex.org/A5100348631), [Nan Li](https://openalex.org/A5077445812), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03088.
+    
+No abstract    
+
+    
+
 ## Advancing CO2RR with O-Coordinated Single-Atom Nanozymes: A DFT and Machine Learning Exploration   
 
 OpenAlex: https://openalex.org/W4402349498    
@@ -254,6 +199,83 @@ OpenAlex: https://openalex.org/W4402355125
 Open access: False
     
 [Sheng Wang](https://openalex.org/A5100371335), [Xin Lin](https://openalex.org/A5090993141), [Pan‐Lin Shao](https://openalex.org/A5006067896), [Jingyuan Song](https://openalex.org/A5007909589), [Jialin Wen](https://openalex.org/A5070019572), [Xumu Zhang](https://openalex.org/A5025921875), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04811.
+    
+No abstract    
+
+    
+
+## Optimizing Reaction Kinetics and Thermodynamics for Photocatalytic CO2 Reduction through Spin Polarization Manipulation   
+
+OpenAlex: https://openalex.org/W4402391463    
+Open access: False
+    
+[Mingyang Li](https://openalex.org/A5100443402), [Shiqun Wu](https://openalex.org/A5067320385), [Dongni Liu](https://openalex.org/A5023555576), [Zhong Chen](https://openalex.org/A5100430408), [Chengxuan He](https://openalex.org/A5020243600), [Jinlong Wang](https://openalex.org/A5100340119), [Xiaoyi Gu](https://openalex.org/A5100515230), [Zehan Zhang](https://openalex.org/A5017622447), [Zhangyong Ning](https://openalex.org/A5042146073), [Jinlong Zhang](https://openalex.org/A5100602288), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03802.
+    
+No abstract    
+
+    
+
+## Saccharide-Assisted Resolution of Bioactive Chiral Carboxylic Acids via NHC-Catalyzed Regioselective Transesterification   
+
+OpenAlex: https://openalex.org/W4402393645    
+Open access: False
+    
+[Shuolu Dai](https://openalex.org/A5086382595), [Juan Zou](https://openalex.org/A5030033717), [Haiqi Wang](https://openalex.org/A5053075491), [Min Xu](https://openalex.org/A5054974793), [Erqi Xu](https://openalex.org/A5025107938), [Jia Song](https://openalex.org/A5063725510), [Hong Yu](https://openalex.org/A5103284363), [Shaojun Li](https://openalex.org/A5086115155), [Wen‐Xin Lv](https://openalex.org/A5036339070), [Yonggui Robin](https://openalex.org/A5056403313), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04076.
+    
+No abstract    
+
+    
+
+## Interception of Transient anti-Allyl–Ir Species with Cu–Azomethine Ylide: Mechanistic Origins of Z-Selectivity in an Asymmetric Allylation Reaction   
+
+OpenAlex: https://openalex.org/W4402398972    
+Open access: False
+    
+[Hui Xu](https://openalex.org/A5087329421), [Xinxin Niu](https://openalex.org/A5042911065), [Yanfeng Dang](https://openalex.org/A5078790723), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03771.
+    
+No abstract    
+
+    
+
+## Mechanistic Insights into the Dealumination of an H-ZSM-5 Zeolite Using Reactive Molecular Dynamics Simulations   
+
+OpenAlex: https://openalex.org/W4402406071    
+Open access: False
+    
+[E. Grajales-González](https://openalex.org/A5002011190), [M. Monge-Palacios](https://openalex.org/A5067884469), [Sirio Brunialti](https://openalex.org/A5015640220), [S. Mani Sarathy](https://openalex.org/A5005332754), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05168.
+    
+No abstract    
+
+    
+
+## Effects of Acid Sites and Formaldehyde Decomposition on the Catalyst Lifetime for Methanol-to-Olefins over Ca-Modified HZSM-5   
+
+OpenAlex: https://openalex.org/W4402413025    
+Open access: False
+    
+[Jinsong Luo](https://openalex.org/A5066043510), [Tianci Xiao](https://openalex.org/A5035010166), [Wu Wen](https://openalex.org/A5038049020), [Jun Bao](https://openalex.org/A5086265105), [Chengyuan Liu](https://openalex.org/A5031824581), [Yang Pan](https://openalex.org/A5077453562), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02842.
+    
+No abstract    
+
+    
+
+## Metallaphotoredox Synthesis of Axially Chiral Tetrasubstituted Allenes through Regio- and Enantioselective 1,4-Carbocyanation of 1,3-Enynes   
+
+OpenAlex: https://openalex.org/W4402413186    
+Open access: False
+    
+[Kang Peng](https://openalex.org/A5090451489), [Ya-Sheng Cao](https://openalex.org/A5043516326), [Quanyuan Wang](https://openalex.org/A5059732206), [Xia Zhou](https://openalex.org/A5060503383), [Ya Chen](https://openalex.org/A5100762737), [Yixin Lü](https://openalex.org/A5066554626), [Guo‐Jun Deng](https://openalex.org/A5088322277), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04330.
+    
+No abstract    
+
+    
+
+## Hydrogen Peroxide Generation and Hydrogen Oxidation Reaction on Pt/Co/Pt(111) and Pt/Co/Pt(100) Single-Crystal Model Catalyst Surface   
+
+OpenAlex: https://openalex.org/W4402413399    
+Open access: False
+    
+[Kenta Hayashi](https://openalex.org/A5031938885), [Takeru Tomimori](https://openalex.org/A5066466655), [Yoshihiro Chida](https://openalex.org/A5038361346), [Naoto Todoroki](https://openalex.org/A5068147445), [Toshimasa Wadayama](https://openalex.org/A5074172776), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03106.
     
 No abstract    
 
