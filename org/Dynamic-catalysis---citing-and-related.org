@@ -1,32 +1,11 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Thu Sep 12 01:16:42 2024
+Created on Fri Sep 13 01:16:55 2024
 
-Found 2 results from 2024-09-05 to 2024-09-12
+Found 1 results from 2024-09-06 to 2024-09-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
-
-* Design and screening of bimetallic catalysts for nitric oxide reduction by CO: a study of kinetic Monte Carlo simulation based on first-principles calculations  :Dynamic_catalysis___citing_and_related:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402237559
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Ammonia Synthesis and Electrocatalysis
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cp02613f")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402237559"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402237559"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402237559"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402237559 (Open access: False)
-    
-[[https://openalex.org/A5024429244][Caimu Wang]], [[https://openalex.org/A5070805773][Renyi Li]], [[https://openalex.org/A5100416207][Wei Guo]], Physical Chemistry Chemical Physics. None(None)] 2024. https://doi.org/10.1039/d4cp02613f 
-     
-This study investigates the potential of striped bimetallic catalysts for NO reduction by CO using kinetic Monte Carlo simulations based on first-principles calculations.    
-
-    
 
 * Reaction Rate Theory for Electric Field Catalysis in Solution  :Dynamic_catalysis___citing_and_related:
 :PROPERTIES:

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Sep 2024 01:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 01:17:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,76 +16,6 @@
       <author>Shujie Liu, Wei Yan, Mingkui Wang, Yan Shen</author>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216190</guid>
-    </item>
-    <item>
-      <title>Innovative Pathways to Sustainable Energy: Advancements in Clean Coal Technologies in Bangladesh - A review</title>
-      <link>https://doi.org/10.1016/j.clet.2024.100805</link>
-      <description>Faysal Ahamed Akash, Shaik Muntasir Shovon, Md. Abdur Rahman, Wahida Rahman, Prosenjeet Chakraborty, Md. Nazwanul Haque, Minhaj Uddin Monir, Md. Ahosan Habib, Arup Kumar Biswas, Shahariar Chowdhury, Mohammad Forrukh Hossain Khan, Tofan Agung Eka Prasetya, Cleaner Engineering and Technology. None(None)] 2024. https://openalex.org/W4402215720
-
-                No abstract</description>
-      <author>Faysal Ahamed Akash, Shaik Muntasir Shovon, Md. Abdur Rahman, Wahida Rahman, Prosenjeet Chakraborty, Md. Nazwanul Haque, Minhaj Uddin Monir, Md. Ahosan Habib, Arup Kumar Biswas, Shahariar Chowdhury, Mohammad Forrukh Hossain Khan, Tofan Agung Eka Prasetya</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.clet.2024.100805</guid>
-    </item>
-    <item>
-      <title>Two-dimensional metalloporphyrin-based covalent organic frameworks as bifunctional electrocatalysts for OER and ORR: A computational study</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114517</link>
-      <description>Xinyang Liu, Donghui Zhang, J. W. Liu, Gang Li, Jingxiang Zhao, Molecular Catalysis. 568(None)] 2024. https://openalex.org/W4402216913
-
-                No abstract</description>
-      <author>Xinyang Liu, Donghui Zhang, J. W. Liu, Gang Li, Jingxiang Zhao</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114517</guid>
-    </item>
-    <item>
-      <title>Quantitative study of electrochemical adsorption and oxidation on Pt(111) and its vicinal surfaces</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145014</link>
-      <description>Francesc Valls Mascar&#243;, Marc T. M. Koper, Marcel J. Rost, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4402218622
-
-                No abstract</description>
-      <author>Francesc Valls Mascar&#243;, Marc T. M. Koper, Marcel J. Rost</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145014</guid>
-    </item>
-    <item>
-      <title>Activating Ru nanoclusters for robust oxygen reduction in aqueous wide-temperature zinc-air batteries</title>
-      <link>https://doi.org/10.1016/j.matt.2024.08.005</link>
-      <description>Rupeng Liu, Chunhuan Jiang, Jin-Han Guo, Yang Zheng, Leting Zhang, Xiaolong Liang, Huimin Gao, Jiancheng Zhao, Yunhang Fan, Qing Chen, Wenhui He, Lehui Lu, Matter. None(None)] 2024. https://openalex.org/W4402223338
-
-                No abstract</description>
-      <author>Rupeng Liu, Chunhuan Jiang, Jin-Han Guo, Yang Zheng, Leting Zhang, Xiaolong Liang, Huimin Gao, Jiancheng Zhao, Yunhang Fan, Qing Chen, Wenhui He, Lehui Lu</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matt.2024.08.005</guid>
-    </item>
-    <item>
-      <title>Large Language Models as Molecular Design Engines</title>
-      <link>https://doi.org/10.1021/acs.jcim.4c01396</link>
-      <description>Debjyoti Bhattacharya, Harrison J. Cassady, Michael A. Hickner, Wesley F. Reinhart, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4402224813
-
-                The design of small molecules is crucial for technological applications ranging from drug discovery to energy storage. Due to the vast design space available to modern synthetic chemistry, the community has increasingly sought to use data-driven and machine learning approaches to navigate this space. Although generative machine learning methods have recently shown potential for computational molecular design, their use is hindered by complex training procedures, and they often fail to generate valid and unique molecules. In this context, pretrained Large Language Models (LLMs) have emerged as potential tools for molecular design, as they appear to be capable of creating and modifying molecules based on simple instructions provided through natural language prompts. In this work, we show that the Claude 3 Opus LLM can read, write, and modify molecules according to prompts, with impressive 97% valid and unique molecules. By quantifying these modifications in a low-dimensional latent space, we systematically evaluate the model's behavior under different prompting conditions. Notably, the model is able to perform guided molecular generation when asked to manipulate the electronic structure of molecules using simple, natural-language prompts. Our findings highlight the potential of LLMs as powerful and versatile molecular design engines.</description>
-      <author>Debjyoti Bhattacharya, Harrison J. Cassady, Michael A. Hickner, Wesley F. Reinhart</author>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c01396</guid>
-    </item>
-    <item>
-      <title>The Potential of Zero Total Charge Predicts Cation Effects for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsenergylett.4c01897</link>
-      <description>Jay T. Bender, Rohan Yuri Sanspeur, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco, ACS Energy Letters. None(None)] 2024. https://openalex.org/W4402230343
-
-                No abstract</description>
-      <author>Jay T. Bender, Rohan Yuri Sanspeur, Angel E. Valles, Alyssa K. Uvodich, Delia J. Milliron, John R. Kitchin, Joaquin Resasco</author>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c01897</guid>
-    </item>
-    <item>
-      <title>Effects of oxygen vacancies in different valence states on the electronic structure and photoelectric properties of 2D-TiO2(001): N under biaxial strain</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.08.498</link>
-      <description>Wenxing Wang, Qingyu Hou, International Journal of Hydrogen Energy. 86(None)] 2024. https://openalex.org/W4402236076
-
-                No abstract</description>
-      <author>Wenxing Wang, Qingyu Hou</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.08.498</guid>
     </item>
     <item>
       <title>Breaking the Linear Scaling Relationship by Alloying Micro Sn to a Cu Surface toward CO&lt;sub&gt;2&lt;/sub&gt; Electrochemical Reduction</title>
@@ -538,6 +468,16 @@
       <guid isPermaLink="true">https://doi.org/10.1134/s2635167623601304</guid>
     </item>
     <item>
+      <title>On the Structure Sensitivity of CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation over Cu/ZrO&lt;sub&gt;2&lt;/sub&gt;: Insights into the Role of the Support and the Active Sites</title>
+      <link>https://doi.org/10.1021/acscatal.4c03803</link>
+      <description>Tom&#225;s Vergara, Daviel G&#243;mez, Lucas Warmuth, Annika E. Enss, Martin Peterlechner, Rodrigo Pallac&#225;n, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Felix Studt, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402402343
+
+                No abstract</description>
+      <author>Tom&#225;s Vergara, Daviel G&#243;mez, Lucas Warmuth, Annika E. Enss, Martin Peterlechner, Rodrigo Pallac&#225;n, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Felix Studt, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic</author>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03803</guid>
+    </item>
+    <item>
       <title>Catalysis of oxygen reduction reaction by iron porphyrin and its sensing application</title>
       <link>https://doi.org/10.1016/j.jelechem.2024.118647</link>
       <description>Tidapa Rattanaumpa, Pakuna Panbo, Suwit Suthirakun, Keerakit Kaewket, Jinnapat Wijitsak, Piyanut Pinyou, Kamonwad Ngamchuea, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4402404651
@@ -548,6 +488,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118647</guid>
     </item>
     <item>
+      <title>Electrocatalytic Activity of Bimetallic Transition Metal Oxides for O&lt;sub&gt;2&lt;/sub&gt; Evolution Reactions</title>
+      <link>https://doi.org/10.1021/acsaem.4c01417</link>
+      <description>Shagun Singh, Naiwrit Karmodak, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4402404992
+
+                No abstract</description>
+      <author>Shagun Singh, Naiwrit Karmodak</author>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c01417</guid>
+    </item>
+    <item>
       <title>Navigating Alkaline Hydrogen Evolution Reaction Descriptors for Electrocatalyst Design</title>
       <link>https://doi.org/10.3390/catal14090608</link>
       <description>Samuel Akinlolu Ogunkunle, Fabien Mortier, Assil Bouzid, Jack Jon Hinsch, Lei Zhang, Zhenzhen Wu, Samuel Bernard, Yong Zhu, Yun Wang, Catalysts. 14(9)] 2024. https://openalex.org/W4402411006
@@ -556,6 +506,16 @@
       <author>Samuel Akinlolu Ogunkunle, Fabien Mortier, Assil Bouzid, Jack Jon Hinsch, Lei Zhang, Zhenzhen Wu, Samuel Bernard, Yong Zhu, Yun Wang</author>
       <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/catal14090608</guid>
+    </item>
+    <item>
+      <title>Catalysing (organo-)catalysis: Trends in the application of machine learning to enantioselective organocatalysis</title>
+      <link>https://doi.org/10.3762/bjoc.20.196</link>
+      <description>Stefan P. Schmid, Leon Schlosser, Frank Glorius, Kjell Jorner, Beilstein Journal of Organic Chemistry. 20(None)] 2024. https://openalex.org/W4402411271
+
+                Organocatalysis has established itself as a third pillar of homogeneous catalysis, besides transition metal catalysis and biocatalysis, as its use for enantioselective reactions has gathered significant interest over the last decades. Concurrent to this development, machine learning (ML) has been increasingly applied in the chemical domain to efficiently uncover hidden patterns in data and accelerate scientific discovery. While the uptake of ML in organocatalysis has been comparably slow, the last two decades have showed an increased interest from the community. This review gives an overview of the work in the field of ML in organocatalysis. The review starts by giving a short primer on ML for experimental chemists, before discussing its application for predicting the selectivity of organocatalytic transformations. Subsequently, we review ML employed for privileged catalysts, before focusing on its application for catalyst and reaction design. Concluding, we give our view on current challenges and future directions for this field, drawing inspiration from the application of ML to other scientific domains.</description>
+      <author>Stefan P. Schmid, Leon Schlosser, Frank Glorius, Kjell Jorner</author>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3762/bjoc.20.196</guid>
     </item>
     <item>
       <title>Enhancing Nitrogen Activation in Electrochemical Reduction: The Role of Rare Earth Oxide Surface Configurations</title>
@@ -578,14 +538,24 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03106</guid>
     </item>
     <item>
-      <title>Discerning molecular-level CO&lt;sub&gt;2&lt;/sub&gt; adsorption behavior in amine-modified sorbents within a controlled CO&lt;sub&gt;2&lt;/sub&gt;/H&lt;sub&gt;2&lt;/sub&gt;O environment towards direct air capture</title>
-      <link>https://doi.org/10.1039/d4ta05578k</link>
-      <description>Ah&#8208;Young Song, John Young, Jie&#8208;Yu Wang, S Fricke, Katia Piscina, Raynald Giovine, Susana Garc&#237;a, Mijndert van der Spek, Jeffrey A. Reimer, Journal of Materials Chemistry A. None(None)] 2024. https://openalex.org/W4402236934
+      <title>Toward Reliable Conformational Energies of Amino Acids and Dipeptides&#9472;The DipCONFS Benchmark and DipCONL Datasets</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c00801</link>
+      <description>Christoph Plett, Stefan Grimme, Andreas Hansen, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4402435288
 
-                CO 2 adsorption is influenced by its concentration and H 2 O presence. While concentration governs chemisorbed species formation, H 2 O significantly impacts CO 2 adsorption capacity, especially under dilute conditions mimicking direct air capture (DAC).</description>
-      <author>Ah&#8208;Young Song, John Young, Jie&#8208;Yu Wang, S Fricke, Katia Piscina, Raynald Giovine, Susana Garc&#237;a, Mijndert van der Spek, Jeffrey A. Reimer</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05578k</guid>
+                No abstract</description>
+      <author>Christoph Plett, Stefan Grimme, Andreas Hansen</author>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00801</guid>
+    </item>
+    <item>
+      <title>Tunable long-lived exciton lifetime and high carrier mobilities in Group III A elements doped two-dimensional blue phosphorene: A time domain &lt;i&gt;ab initio&lt;/i&gt; study</title>
+      <link>https://doi.org/10.1063/5.0219326</link>
+      <description>Chang Liu, Yulong Qiu, Caifeng Zhou, Hao Dong, Applied Physics Letters. 125(11)] 2024. https://openalex.org/W4402443529
+
+                In this Letter, we combine first-principles calculations with the non-adiabatic molecular dynamics (NAMD) method to investigate the photocatalytic and excited-state properties of blue phosphorene (BlueP). Doping with Group III A elements not only maintains an appropriate bandgap and band edge positions for photocatalytic water splitting but also converts the indirect bandgap of BlueP to a direct bandgap, significantly enhancing photon absorption efficiency. The dopants effectively improve optical absorption in the visible and ultraviolet light regions, potentially enabling a solar-to-hydrogen conversion efficiency of 22.3% in the photocatalytic water splitting process. In NAMD calculations, we consider the dynamics of the electron&#8211;hole pair recombination process between the valence band maximum and conduction band minimum. We demonstrate the regulatory impact of dopant elements, temperature, and non-adiabatic coupling strength on the exciton lifetime of doped BlueP through ab initio molecular dynamics and NAMD methods. This study reveals the relationship between the charge transfer mechanism and non-adiabatic coupling in low-dimensional materials, offering valuable insights into the excited-state properties of optoelectronic materials. Ultimately, our findings contribute to the development of tunable, long-lived exciton lifetimes and high carrier mobilities in doped BlueP, which hold significant potential for photocatalytic water splitting to generate hydrogen.</description>
+      <author>Chang Liu, Yulong Qiu, Caifeng Zhou, Hao Dong</author>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0219326</guid>
     </item>
     <item>
       <title>Degradation of amine-functionalized adsorbents in carbon capture and direct air capture applications: Mechanism and solutions</title>

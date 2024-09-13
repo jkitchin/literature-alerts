@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Sep 12 01:16:53 2024
+Created on Fri Sep 13 01:17:06 2024
 
-Found 63 results from 2024-09-05 to 2024-09-12
+Found 60 results from 2024-09-06 to 2024-09-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -23,83 +23,6 @@ OpenAlex: https://openalex.org/W4402275658
 Open access: False
     
 [Shujie Liu](https://openalex.org/A5034770439), [Wei Yan](https://openalex.org/A5081598013), [Mingkui Wang](https://openalex.org/A5041280820), [Yan Shen](https://openalex.org/A5003395657), Coordination Chemistry Reviews. 522(None)] 2025.https://doi.org/10.1016/j.ccr.2024.216190.
-    
-No abstract    
-
-    
-
-## Innovative Pathways to Sustainable Energy: Advancements in Clean Coal Technologies in Bangladesh - A review   
-
-OpenAlex: https://openalex.org/W4402215720    
-Open access: True
-    
-[Faysal Ahamed Akash](https://openalex.org/A5091325577), [Shaik Muntasir Shovon](https://openalex.org/A5083982811), [Md. Abdur Rahman](https://openalex.org/A5100674580), [Wahida Rahman](https://openalex.org/A5104253632), [Prosenjeet Chakraborty](https://openalex.org/A5066319921), [Md. Nazwanul Haque](https://openalex.org/A5060789779), [Minhaj Uddin Monir](https://openalex.org/A5030348207), [Md. Ahosan Habib](https://openalex.org/A5103080738), [Arup Kumar Biswas](https://openalex.org/A5103033000), [Shahariar Chowdhury](https://openalex.org/A5047980146), [Mohammad Forrukh Hossain Khan](https://openalex.org/A5072071908), [Tofan Agung Eka Prasetya](https://openalex.org/A5007034658), Cleaner Engineering and Technology. None(None)] 2024.https://doi.org/10.1016/j.clet.2024.100805.
-    
-No abstract    
-
-    
-
-## Two-dimensional metalloporphyrin-based covalent organic frameworks as bifunctional electrocatalysts for OER and ORR: A computational study   
-
-OpenAlex: https://openalex.org/W4402216913    
-Open access: False
-    
-[Xinyang Liu](https://openalex.org/A5100625902), [Donghui Zhang](https://openalex.org/A5100344040), [J. W. Liu](https://openalex.org/A5062071148), [Gang Li](https://openalex.org/A5100438640), [Jingxiang Zhao](https://openalex.org/A5100590210), Molecular Catalysis. 568(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114517.
-    
-No abstract    
-
-    
-
-## Quantitative study of electrochemical adsorption and oxidation on Pt(111) and its vicinal surfaces   
-
-OpenAlex: https://openalex.org/W4402218622    
-Open access: False
-    
-[Francesc Valls Mascaró](https://openalex.org/A5001942424), [Marc T. M. Koper](https://openalex.org/A5028485156), [Marcel J. Rost](https://openalex.org/A5011269114), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145014.
-    
-No abstract    
-
-    
-
-## Activating Ru nanoclusters for robust oxygen reduction in aqueous wide-temperature zinc-air batteries   
-
-OpenAlex: https://openalex.org/W4402223338    
-Open access: False
-    
-[Rupeng Liu](https://openalex.org/A5051107259), [Chunhuan Jiang](https://openalex.org/A5087321392), [Jin-Han Guo](https://openalex.org/A5063720130), [Yang Zheng](https://openalex.org/A5102284554), [Leting Zhang](https://openalex.org/A5088911992), [Xiaolong Liang](https://openalex.org/A5101821898), [Huimin Gao](https://openalex.org/A5102735067), [Jiancheng Zhao](https://openalex.org/A5104365042), [Yunhang Fan](https://openalex.org/A5015840487), [Qing Chen](https://openalex.org/A5100371369), [Wenhui He](https://openalex.org/A5035989529), [Lehui Lu](https://openalex.org/A5034003453), Matter. None(None)] 2024.https://doi.org/10.1016/j.matt.2024.08.005.
-    
-No abstract    
-
-    
-
-## Large Language Models as Molecular Design Engines   
-
-OpenAlex: https://openalex.org/W4402224813    
-Open access: False
-    
-[Debjyoti Bhattacharya](https://openalex.org/A5015386412), [Harrison J. Cassady](https://openalex.org/A5003420008), [Michael A. Hickner](https://openalex.org/A5052734441), [Wesley F. Reinhart](https://openalex.org/A5035545283), Journal of Chemical Information and Modeling. None(None)] 2024.https://doi.org/10.1021/acs.jcim.4c01396.
-    
-The design of small molecules is crucial for technological applications ranging from drug discovery to energy storage. Due to the vast design space available to modern synthetic chemistry, the community has increasingly sought to use data-driven and machine learning approaches to navigate this space. Although generative machine learning methods have recently shown potential for computational molecular design, their use is hindered by complex training procedures, and they often fail to generate valid and unique molecules. In this context, pretrained Large Language Models (LLMs) have emerged as potential tools for molecular design, as they appear to be capable of creating and modifying molecules based on simple instructions provided through natural language prompts. In this work, we show that the Claude 3 Opus LLM can read, write, and modify molecules according to prompts, with impressive 97% valid and unique molecules. By quantifying these modifications in a low-dimensional latent space, we systematically evaluate the model's behavior under different prompting conditions. Notably, the model is able to perform guided molecular generation when asked to manipulate the electronic structure of molecules using simple, natural-language prompts. Our findings highlight the potential of LLMs as powerful and versatile molecular design engines.    
-
-    
-
-## The Potential of Zero Total Charge Predicts Cation Effects for the Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4402230343    
-Open access: False
-    
-[Jay T. Bender](https://openalex.org/A5030622040), [Rohan Yuri Sanspeur](https://openalex.org/A5071284998), [Angel E. Valles](https://openalex.org/A5106990669), [Alyssa K. Uvodich](https://openalex.org/A5106990670), [Delia J. Milliron](https://openalex.org/A5077085087), [John R. Kitchin](https://openalex.org/A5003442464), [Joaquin Resasco](https://openalex.org/A5018687349), ACS Energy Letters. None(None)] 2024.https://doi.org/10.1021/acsenergylett.4c01897.
-    
-No abstract    
-
-    
-
-## Effects of oxygen vacancies in different valence states on the electronic structure and photoelectric properties of 2D-TiO2(001): N under biaxial strain   
-
-OpenAlex: https://openalex.org/W4402236076    
-Open access: False
-    
-[Wenxing Wang](https://openalex.org/A5101656665), [Qingyu Hou](https://openalex.org/A5101590650), International Journal of Hydrogen Energy. 86(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.08.498.
     
 No abstract    
 
@@ -600,12 +523,34 @@ No abstract
 
     
 
+## On the Structure Sensitivity of CO2 Hydrogenation over Cu/ZrO2: Insights into the Role of the Support and the Active Sites   
+
+OpenAlex: https://openalex.org/W4402402343    
+Open access: False
+    
+[Tomás Vergara](https://openalex.org/A5010297350), [Daviel Gómez](https://openalex.org/A5086322000), [Lucas Warmuth](https://openalex.org/A5029207861), [Annika E. Enss](https://openalex.org/A5000543656), [Martin Peterlechner](https://openalex.org/A5041157553), [Rodrigo Pallacán](https://openalex.org/A5107104458), [Vlad Martin‐Diaconescu](https://openalex.org/A5079824914), [Laura Simonelli](https://openalex.org/A5018172983), [Felix Studt](https://openalex.org/A5001805046), [Patricia Concepción](https://openalex.org/A5073126664), [Romel Jiménez](https://openalex.org/A5027708747), [Alejandro Karelovic](https://openalex.org/A5021037587), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03803.
+    
+No abstract    
+
+    
+
 ## Catalysis of oxygen reduction reaction by iron porphyrin and its sensing application   
 
 OpenAlex: https://openalex.org/W4402404651    
 Open access: False
     
 [Tidapa Rattanaumpa](https://openalex.org/A5007031865), [Pakuna Panbo](https://openalex.org/A5107105146), [Suwit Suthirakun](https://openalex.org/A5012885471), [Keerakit Kaewket](https://openalex.org/A5000223009), [Jinnapat Wijitsak](https://openalex.org/A5093096866), [Piyanut Pinyou](https://openalex.org/A5016872736), [Kamonwad Ngamchuea](https://openalex.org/A5045876440), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118647.
+    
+No abstract    
+
+    
+
+## Electrocatalytic Activity of Bimetallic Transition Metal Oxides for O2 Evolution Reactions   
+
+OpenAlex: https://openalex.org/W4402404992    
+Open access: False
+    
+[Shagun Singh](https://openalex.org/A5103275150), [Naiwrit Karmodak](https://openalex.org/A5078928618), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.4c01417.
     
 No abstract    
 
@@ -619,6 +564,17 @@ Open access: True
 [Samuel Akinlolu Ogunkunle](https://openalex.org/A5034047745), [Fabien Mortier](https://openalex.org/A5092543565), [Assil Bouzid](https://openalex.org/A5045431460), [Jack Jon Hinsch](https://openalex.org/A5010034747), [Lei Zhang](https://openalex.org/A5100433837), [Zhenzhen Wu](https://openalex.org/A5012609564), [Samuel Bernard](https://openalex.org/A5041285540), [Yong Zhu](https://openalex.org/A5017779668), [Yun Wang](https://openalex.org/A5100377604), Catalysts. 14(9)] 2024.https://doi.org/10.3390/catal14090608.
     
 The quest for efficient green hydrogen production through Alkaline Water Electrolysis (AWE) is a critical aspect of the clean energy transition. The hydrogen evolution reaction (HER) in alkaline media is central to this process, with the performance of electrocatalysts being a determining factor for overall efficiency. Theoretical studies using energy-based descriptors are essential for designing high-performance alkaline HER electrocatalysts. This review summarizes various descriptors, including water adsorption energy, water dissociation barrier, and Gibbs free energy changes of hydrogen and hydroxyl adsorption. Examples of how to apply these descriptors to identify the active site of materials and better design high-performance alkaline HER electrocatalysts are provided, highlighting the previously underappreciated role of hydroxyl adsorption-free energy changes. As research progresses, integrating these descriptors with experimental data will be paramount in advancing AWE technology for sustainable hydrogen production.    
+
+    
+
+## Catalysing (organo-)catalysis: Trends in the application of machine learning to enantioselective organocatalysis   
+
+OpenAlex: https://openalex.org/W4402411271    
+Open access: True
+    
+[Stefan P. Schmid](https://openalex.org/A5005892664), [Leon Schlosser](https://openalex.org/A5096004822), [Frank Glorius](https://openalex.org/A5017167322), [Kjell Jorner](https://openalex.org/A5084206216), Beilstein Journal of Organic Chemistry. 20(None)] 2024.https://doi.org/10.3762/bjoc.20.196.
+    
+Organocatalysis has established itself as a third pillar of homogeneous catalysis, besides transition metal catalysis and biocatalysis, as its use for enantioselective reactions has gathered significant interest over the last decades. Concurrent to this development, machine learning (ML) has been increasingly applied in the chemical domain to efficiently uncover hidden patterns in data and accelerate scientific discovery. While the uptake of ML in organocatalysis has been comparably slow, the last two decades have showed an increased interest from the community. This review gives an overview of the work in the field of ML in organocatalysis. The review starts by giving a short primer on ML for experimental chemists, before discussing its application for predicting the selectivity of organocatalytic transformations. Subsequently, we review ML employed for privileged catalysts, before focusing on its application for catalyst and reaction design. Concluding, we give our view on current challenges and future directions for this field, drawing inspiration from the application of ML to other scientific domains.    
 
     
 
@@ -644,14 +600,25 @@ No abstract
 
     
 
-## Discerning molecular-level CO2 adsorption behavior in amine-modified sorbents within a controlled CO2/H2O environment towards direct air capture   
+## Toward Reliable Conformational Energies of Amino Acids and Dipeptides─The DipCONFS Benchmark and DipCONL Datasets   
 
-OpenAlex: https://openalex.org/W4402236934    
+OpenAlex: https://openalex.org/W4402435288    
 Open access: False
     
-[Ah‐Young Song](https://openalex.org/A5056365904), [John Young](https://openalex.org/A5025869729), [Jie‐Yu Wang](https://openalex.org/A5005650392), [S Fricke](https://openalex.org/A5010555283), [Katia Piscina](https://openalex.org/A5106993109), [Raynald Giovine](https://openalex.org/A5041154391), [Susana García](https://openalex.org/A5044341184), [Mijndert van der Spek](https://openalex.org/A5062642687), [Jeffrey A. Reimer](https://openalex.org/A5076195940), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta05578k.
+[Christoph Plett](https://openalex.org/A5053745736), [Stefan Grimme](https://openalex.org/A5042863303), [Andreas Hansen](https://openalex.org/A5064712476), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c00801.
     
-CO 2 adsorption is influenced by its concentration and H 2 O presence. While concentration governs chemisorbed species formation, H 2 O significantly impacts CO 2 adsorption capacity, especially under dilute conditions mimicking direct air capture (DAC).    
+No abstract    
+
+    
+
+## Tunable long-lived exciton lifetime and high carrier mobilities in Group III A elements doped two-dimensional blue phosphorene: A time domain ab initio study   
+
+OpenAlex: https://openalex.org/W4402443529    
+Open access: False
+    
+[Chang Liu](https://openalex.org/A5100562349), [Yulong Qiu](https://openalex.org/A5022232084), [Caifeng Zhou](https://openalex.org/A5090688521), [Hao Dong](https://openalex.org/A5036993011), Applied Physics Letters. 125(11)] 2024.https://doi.org/10.1063/5.0219326.
+    
+In this Letter, we combine first-principles calculations with the non-adiabatic molecular dynamics (NAMD) method to investigate the photocatalytic and excited-state properties of blue phosphorene (BlueP). Doping with Group III A elements not only maintains an appropriate bandgap and band edge positions for photocatalytic water splitting but also converts the indirect bandgap of BlueP to a direct bandgap, significantly enhancing photon absorption efficiency. The dopants effectively improve optical absorption in the visible and ultraviolet light regions, potentially enabling a solar-to-hydrogen conversion efficiency of 22.3% in the photocatalytic water splitting process. In NAMD calculations, we consider the dynamics of the electron–hole pair recombination process between the valence band maximum and conduction band minimum. We demonstrate the regulatory impact of dopant elements, temperature, and non-adiabatic coupling strength on the exciton lifetime of doped BlueP through ab initio molecular dynamics and NAMD methods. This study reveals the relationship between the charge transfer mechanism and non-adiabatic coupling in low-dimensional materials, offering valuable insights into the excited-state properties of optoelectronic materials. Ultimately, our findings contribute to the development of tunable, long-lived exciton lifetimes and high carrier mobilities in doped BlueP, which hold significant potential for photocatalytic water splitting to generate hydrogen.    
 
     
 
