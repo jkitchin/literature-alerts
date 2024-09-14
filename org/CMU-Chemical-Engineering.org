@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Sep 13 01:16:53 2024
+Created on Sat Sep 14 01:15:49 2024
 
-Found 4 results from 2024-09-06 to 2024-09-13
+Found 6 results from 2024-09-07 to 2024-09-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -85,6 +85,48 @@ No abstract
 OpenAlex: https://openalex.org/W4402316253 (Open access: False)
     
 [[https://openalex.org/A5050086795][Paul Joyce]], [[https://openalex.org/A5086834252][Christine Allen]], [[https://openalex.org/A5018004246][Marı́a José Alonso]], [[https://openalex.org/A5061346222][Marianne Ashford]], [[https://openalex.org/A5060666434][Michelle S. Bradbury]], [[https://openalex.org/A5104097480][Matthieu Germain]], [[https://openalex.org/A5026784302][Maria Kavallaris]], [[https://openalex.org/A5042597057][Róbert Langer]], [[https://openalex.org/A5079522186][Twan Lammers]], [[https://openalex.org/A5081122145][Maria Teresa Peracchia]], [[https://openalex.org/A5055486123][Amirali Popat]], [[https://openalex.org/A5023179049][Clive A. Prestidge]], [[https://openalex.org/A5030346672][Cristianne J.F. Rijcken]], [[https://openalex.org/A5081844747][José das Neves]], [[https://openalex.org/A5038279504][Ruth Schmid]], [[https://openalex.org/A5004510357][Avi Schroeder]], [[https://openalex.org/A5014552906][Santhni Subramaniam]], [[https://openalex.org/A5000997068][Chelsea R. Thorn]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], [[https://openalex.org/A5019914168][Chun‐Xia Zhao]], [[https://openalex.org/A5071356523][Hélder A. Santos]], Nature Nanotechnology. None(None)] 2024. https://doi.org/10.1038/s41565-024-01754-7 
+     
+No abstract    
+
+    
+
+* Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402453418
+:TOPICS: Battery Recycling and Rare Earth Recovery
+:PUBLICATION_DATE: 2024-07-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2439776")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402453418"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402453418"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402453418"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402453418 (Open access: False)
+    
+[[https://openalex.org/A5106382650][Norman Tran]], [[https://openalex.org/A5067396423][Daniel Ovalle]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2024. https://doi.org/10.2172/2439776 
+     
+No abstract    
+
+    
+
+* IDAES Enterprise: Generation Expansion Planning with Enhanced Requirements for Capacity Adequacy Under Renewable Intermittency  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402464915
+:TOPICS: Electricity Market Operation and Optimization
+:PUBLICATION_DATE: 2021-07-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2439759")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402464915"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402464915"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402464915"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402464915 (Open access: False)
+    
+[[https://openalex.org/A5100346777][Peng Liu]], [[https://openalex.org/A5000874144][Benjamin Omell]], [[https://openalex.org/A5100334060][Can Li]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], No host. None(None)] 2021. https://doi.org/10.2172/2439759 
      
 No abstract    
 

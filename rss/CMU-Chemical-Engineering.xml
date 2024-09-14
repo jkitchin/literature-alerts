@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Sep 2024 01:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 01:15:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,26 @@
       <author>Paul Joyce, Christine Allen, Mar&#305;&#769;a Jos&#233; Alonso, Marianne Ashford, Michelle S. Bradbury, Matthieu Germain, Maria Kavallaris, R&#243;bert Langer, Twan Lammers, Maria Teresa Peracchia, Amirali Popat, Clive A. Prestidge, Cristianne J.F. Rijcken, Jos&#233; das Neves, Ruth Schmid, Avi Schroeder, Santhni Subramaniam, Chelsea R. Thorn, Kathryn A. Whitehead, Chun&#8208;Xia Zhao, H&#233;lder A. Santos</author>
       <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41565-024-01754-7</guid>
+    </item>
+    <item>
+      <title>Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization</title>
+      <link>https://doi.org/10.2172/2439776</link>
+      <description>Norman Tran, Daniel Ovalle, Ignacio E. Grossmann, Carl D. Laird, No host. None(None)] 2024. https://openalex.org/W4402453418
+
+                No abstract</description>
+      <author>Norman Tran, Daniel Ovalle, Ignacio E. Grossmann, Carl D. Laird</author>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2439776</guid>
+    </item>
+    <item>
+      <title>IDAES Enterprise: Generation Expansion Planning with Enhanced Requirements for Capacity Adequacy Under Renewable Intermittency</title>
+      <link>https://doi.org/10.2172/2439759</link>
+      <description>Peng Liu, Benjamin Omell, Can Li, Ignacio E. Grossmann, No host. None(None)] 2021. https://openalex.org/W4402464915
+
+                No abstract</description>
+      <author>Peng Liu, Benjamin Omell, Can Li, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2439759</guid>
     </item>
   </channel>
 </rss>

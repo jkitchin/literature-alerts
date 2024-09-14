@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Sep 13 01:16:53 2024
+Created on Sat Sep 14 01:15:49 2024
 
-Found 4 results from 2024-09-06 to 2024-09-13
+Found 6 results from 2024-09-07 to 2024-09-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -45,6 +45,28 @@ OpenAlex: https://openalex.org/W4402316253
 Open access: False
     
 [Paul Joyce](https://openalex.org/A5050086795), [Christine Allen](https://openalex.org/A5086834252), [Marı́a José Alonso](https://openalex.org/A5018004246), [Marianne Ashford](https://openalex.org/A5061346222), [Michelle S. Bradbury](https://openalex.org/A5060666434), [Matthieu Germain](https://openalex.org/A5104097480), [Maria Kavallaris](https://openalex.org/A5026784302), [Róbert Langer](https://openalex.org/A5042597057), [Twan Lammers](https://openalex.org/A5079522186), [Maria Teresa Peracchia](https://openalex.org/A5081122145), [Amirali Popat](https://openalex.org/A5055486123), [Clive A. Prestidge](https://openalex.org/A5023179049), [Cristianne J.F. Rijcken](https://openalex.org/A5030346672), [José das Neves](https://openalex.org/A5081844747), [Ruth Schmid](https://openalex.org/A5038279504), [Avi Schroeder](https://openalex.org/A5004510357), [Santhni Subramaniam](https://openalex.org/A5014552906), [Chelsea R. Thorn](https://openalex.org/A5000997068), [Kathryn A. Whitehead](https://openalex.org/A5010666650), [Chun‐Xia Zhao](https://openalex.org/A5019914168), [Hélder A. Santos](https://openalex.org/A5071356523), Nature Nanotechnology. None(None)] 2024.https://doi.org/10.1038/s41565-024-01754-7.
+    
+No abstract    
+
+    
+
+## Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization   
+
+OpenAlex: https://openalex.org/W4402453418    
+Open access: False
+    
+[Norman Tran](https://openalex.org/A5106382650), [Daniel Ovalle](https://openalex.org/A5067396423), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Carl D. Laird](https://openalex.org/A5030631754), No host. None(None)] 2024.https://doi.org/10.2172/2439776.
+    
+No abstract    
+
+    
+
+## IDAES Enterprise: Generation Expansion Planning with Enhanced Requirements for Capacity Adequacy Under Renewable Intermittency   
+
+OpenAlex: https://openalex.org/W4402464915    
+Open access: False
+    
+[Peng Liu](https://openalex.org/A5100346777), [Benjamin Omell](https://openalex.org/A5000874144), [Can Li](https://openalex.org/A5100334060), [Ignacio E. Grossmann](https://openalex.org/A5056017028), No host. None(None)] 2021.https://doi.org/10.2172/2439759.
     
 No abstract    
 
