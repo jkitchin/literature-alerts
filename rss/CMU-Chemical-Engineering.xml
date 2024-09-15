@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Sep 2024 01:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 01:24:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Globally Convergent Method for Optimal Control of Hybrid Dynamical Systems</title>
-      <link>https://doi.org/10.1016/j.ifacol.2024.08.446</link>
-      <description>Saif R. Kazi, Mandar Thombre, Lorenz T. Biegler, IFAC-PapersOnLine. 58(14)] 2024. https://openalex.org/W4402305491
-
-                No abstract</description>
-      <author>Saif R. Kazi, Mandar Thombre, Lorenz T. Biegler</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ifacol.2024.08.446</guid>
-    </item>
-    <item>
-      <title>Self-Stabilizing Economic Nonlinear Model Predictive Control for Membrane Reactors</title>
-      <link>https://doi.org/10.1016/j.ifacol.2024.08.390</link>
-      <description>San Dinh, Lorenz T. Biegler, IFAC-PapersOnLine. 58(14)] 2024. https://openalex.org/W4402307391
-
-                No abstract</description>
-      <author>San Dinh, Lorenz T. Biegler</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ifacol.2024.08.390</guid>
-    </item>
-    <item>
-      <title>Evaluation of Direct and Iterative Approaches for the Parallel Solution of Structured Nonlinear Optimization Problems</title>
-      <link>https://doi.org/10.1016/j.ifacol.2024.08.434</link>
-      <description>Laurens Lueg, Michael Bynum, David L. Woodruff, Lorenz T. Biegler, IFAC-PapersOnLine. 58(14)] 2024. https://openalex.org/W4402309059
-
-                No abstract</description>
-      <author>Laurens Lueg, Michael Bynum, David L. Woodruff, Lorenz T. Biegler</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ifacol.2024.08.434</guid>
-    </item>
-    <item>
-      <title>A translational framework to DELIVER nanomedicines to the clinic</title>
-      <link>https://doi.org/10.1038/s41565-024-01754-7</link>
-      <description>Paul Joyce, Christine Allen, Mar&#305;&#769;a Jos&#233; Alonso, Marianne Ashford, Michelle S. Bradbury, Matthieu Germain, Maria Kavallaris, R&#243;bert Langer, Twan Lammers, Maria Teresa Peracchia, Amirali Popat, Clive A. Prestidge, Cristianne J.F. Rijcken, Jos&#233; das Neves, Ruth Schmid, Avi Schroeder, Santhni Subramaniam, Chelsea R. Thorn, Kathryn A. Whitehead, Chun&#8208;Xia Zhao, H&#233;lder A. Santos, Nature Nanotechnology. None(None)] 2024. https://openalex.org/W4402316253
-
-                No abstract</description>
-      <author>Paul Joyce, Christine Allen, Mar&#305;&#769;a Jos&#233; Alonso, Marianne Ashford, Michelle S. Bradbury, Matthieu Germain, Maria Kavallaris, R&#243;bert Langer, Twan Lammers, Maria Teresa Peracchia, Amirali Popat, Clive A. Prestidge, Cristianne J.F. Rijcken, Jos&#233; das Neves, Ruth Schmid, Avi Schroeder, Santhni Subramaniam, Chelsea R. Thorn, Kathryn A. Whitehead, Chun&#8208;Xia Zhao, H&#233;lder A. Santos</author>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41565-024-01754-7</guid>
-    </item>
     <item>
       <title>Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization</title>
       <link>https://doi.org/10.2172/2439776</link>
@@ -56,6 +16,26 @@
       <author>Norman Tran, Daniel Ovalle, Ignacio E. Grossmann, Carl D. Laird</author>
       <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2439776</guid>
+    </item>
+    <item>
+      <title>The impact of ammonia on particle formation in the Asian Tropopause Aerosol Layer</title>
+      <link>https://doi.org/10.1038/s41612-024-00758-3</link>
+      <description>Christos Xenofontos, Matthias Kohl, Samuel Ruhl, J. Almeida, H. Beckmann, Luc&#237;a Caudillo-Plath, S&#233;bastian Ehrhart, Kristina H&#246;hler, Mathew Sebastian, Weimeng Kong, Felix Kunkler, Antti Onnela, P. Rato Mendes, D. A. Russell, Mario Simon, L. P. STARK, Nsikanabasi Silas Umo, Gabriela Rosalino Unfer, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Zhensen Zheng, Joachim Curtius, Neil M. Donahue, Imad El Haddad, Richard C. Flagan, Hamish Gordon, Hartwig Harder, Xu&#8208;Cheng He, J. Kirkby, Markku Kulmala, Ottmar M&#246;hler, Mira L. P&#246;hlker, Siegfried Schobesberger, Rainer Volkamer, Mingyi Wang, Stephan Borrmann, Andrea Pozzer, Jos Lelieveld, T. Christoudias, npj Climate and Atmospheric Science. 7(1)] 2024. https://openalex.org/W4402478760
+
+                Abstract During summer, ammonia emissions in Southeast Asia influence air pollution and cloud formation. Convective transport by the South Asian monsoon carries these pollutant air masses into the upper troposphere and lower stratosphere (UTLS), where they accumulate under anticyclonic flow conditions. This air mass accumulation is thought to contribute to particle formation and the development of the Asian Tropopause Aerosol Layer (ATAL). Despite the known influence of ammonia and particulate ammonium on air pollution, a comprehensive understanding of the ATAL is lacking. In this modelling study, the influence of ammonia on particle formation is assessed with emphasis on the ATAL. We use the EMAC chemistry-climate model, incorporating new particle formation parameterisations derived from experiments at the CERN CLOUD chamber. Our diurnal cycle analysis confirms that new particle formation mainly occurs during daylight, with a 10-fold enhancement in rate. This increase is prominent in the South Asian monsoon UTLS, where deep convection introduces high ammonia levels from the boundary layer, compared to a baseline scenario without ammonia. Our model simulations reveal that this ammonia-driven particle formation and growth contributes to an increase of up to 80% in cloud condensation nuclei (CCN) concentrations at cloud-forming heights in the South Asian monsoon region. We find that ammonia profoundly influences the aerosol mass and composition in the ATAL through particle growth, as indicated by an order of magnitude increase in nitrate levels linked to ammonia emissions. However, the effect of ammonia-driven new particle formation on aerosol mass in the ATAL is relatively small. Ammonia emissions enhance the regional aerosol optical depth (AOD) for shortwave solar radiation by up to 70%. We conclude that ammonia has a pronounced effect on the ATAL development, composition, the regional AOD, and CCN concentrations.</description>
+      <author>Christos Xenofontos, Matthias Kohl, Samuel Ruhl, J. Almeida, H. Beckmann, Luc&#237;a Caudillo-Plath, S&#233;bastian Ehrhart, Kristina H&#246;hler, Mathew Sebastian, Weimeng Kong, Felix Kunkler, Antti Onnela, P. Rato Mendes, D. A. Russell, Mario Simon, L. P. STARK, Nsikanabasi Silas Umo, Gabriela Rosalino Unfer, Boxing Yang, Wenjuan Yu, Marcel Zauner-Wieczorek, Imad Zgheib, Zhensen Zheng, Joachim Curtius, Neil M. Donahue, Imad El Haddad, Richard C. Flagan, Hamish Gordon, Hartwig Harder, Xu&#8208;Cheng He, J. Kirkby, Markku Kulmala, Ottmar M&#246;hler, Mira L. P&#246;hlker, Siegfried Schobesberger, Rainer Volkamer, Mingyi Wang, Stephan Borrmann, Andrea Pozzer, Jos Lelieveld, T. Christoudias</author>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41612-024-00758-3</guid>
+    </item>
+    <item>
+      <title>Ammonium CI-Orbitrap: a tool for characterizing the reactivity of oxygenated organic molecules</title>
+      <link>https://doi.org/10.5194/amt-17-5413-2024</link>
+      <description>Dandan Li, Dongyu S. Wang, Luc&#237;a Caudillo, Wiebke Scholz, Mingyi Wang, Sophie Tomaz, Guillaume Marie, Mihnea Surdu, Elias Eccli, Xianda Gong, Lo&#239;c Gonzalez-Carracedo, Manuel Granzin, Joschka Pfeifer, Birte R&#246;rup, Benjamin C. Schulze, Pekka Rantala, S. Perrier, Armin Hansel, Joachim Curtius, J. Kirkby, Neil M. Donahue, Christian George, Imad El Haddad, Matthieu Riva, Atmospheric measurement techniques. 17(17)] 2024. https://openalex.org/W4402525809
+
+                Abstract. Oxygenated organic molecules (OOMs) play an important role in the formation of atmospheric aerosols. Due to various analytical challenges with respect to measuring organic vapors, uncertainties remain regarding the formation and fate of OOMs. The chemical ionization Orbitrap (CI-Orbitrap) mass spectrometer has recently been shown to be a powerful technique that is able to accurately identify gaseous organic compounds due to its greater mass resolution. Here, we present the ammonium-ion-based CI-Orbitrap (NH4+-Orbitrap) as a technique capable of measuring a wide range of gaseous OOMs. The performance of the NH4+-Orbitrap is compared with that of state-of-the-art mass spectrometers, including a nitrate-ion-based chemical ionization atmospheric pressure interface coupled to a time-of-flight mass spectrometer (NO3--LTOF), a new generation of proton transfer reaction-TOF mass spectrometer (PTR3-TOF), and an iodide-based CI-TOF mass spectrometer equipped with a Filter Inlet for Gases and AEROsols (I&#8722;-CIMS). The instruments were deployed simultaneously in the Cosmic Leaving OUtdoors Droplets (CLOUD) chamber at the European Organization for Nuclear Research (CERN) during the CLOUD14 campaign in 2019. Products generated from &#945;-pinene ozonolysis under various experimental conditions were simultaneously measured by the mass spectrometers. The NH4+-Orbitrap was able to identify the widest range of OOMs (i.e., O &#8805; 2), from less-oxidized species to highly oxygenated organic molecules (HOMs). Excellent agreement was found between the NH4+-Orbitrap and the NO3--LTOF with respect to characterizing HOMs and with the PTR3-TOF for the less-oxidized monomeric species. OOM concentrations measured by NH4+-Orbitrap were estimated using calibration factors derived from the OOMs with high time-series correlations during the side-by-side measurements. As with the other mass spectrometry techniques used during this campaign, the detection sensitivity of the NH4+-Orbitrap to OOMs is greatly affected by relative humidity, which may be related to changes in ionization efficiency and/or multiphase chemistry. Overall, this study shows that NH4+-ion-based chemistry associated with the high mass resolution of the Orbitrap mass analyzer can measure almost all inclusive compounds. As a result, it is now possible to cover the entire range of compounds, which can lead to a better understanding of the oxidation processes.</description>
+      <author>Dandan Li, Dongyu S. Wang, Luc&#237;a Caudillo, Wiebke Scholz, Mingyi Wang, Sophie Tomaz, Guillaume Marie, Mihnea Surdu, Elias Eccli, Xianda Gong, Lo&#239;c Gonzalez-Carracedo, Manuel Granzin, Joschka Pfeifer, Birte R&#246;rup, Benjamin C. Schulze, Pekka Rantala, S. Perrier, Armin Hansel, Joachim Curtius, J. Kirkby, Neil M. Donahue, Christian George, Imad El Haddad, Matthieu Riva</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/amt-17-5413-2024</guid>
     </item>
     <item>
       <title>IDAES Enterprise: Generation Expansion Planning with Enhanced Requirements for Capacity Adequacy Under Renewable Intermittency</title>

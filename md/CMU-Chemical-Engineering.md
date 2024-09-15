@@ -1,54 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Sep 14 01:15:49 2024
+Created on Sun Sep 15 01:24:31 2024
 
-Found 6 results from 2024-09-07 to 2024-09-14
+Found 4 results from 2024-09-08 to 2024-09-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Globally Convergent Method for Optimal Control of Hybrid Dynamical Systems   
-
-OpenAlex: https://openalex.org/W4402305491    
-Open access: True
-    
-[Saif R. Kazi](https://openalex.org/A5046223915), [Mandar Thombre](https://openalex.org/A5071147001), [Lorenz T. Biegler](https://openalex.org/A5052825722), IFAC-PapersOnLine. 58(14)] 2024.https://doi.org/10.1016/j.ifacol.2024.08.446.
-    
-No abstract    
-
-    
-
-## Self-Stabilizing Economic Nonlinear Model Predictive Control for Membrane Reactors   
-
-OpenAlex: https://openalex.org/W4402307391    
-Open access: True
-    
-[San Dinh](https://openalex.org/A5059801671), [Lorenz T. Biegler](https://openalex.org/A5052825722), IFAC-PapersOnLine. 58(14)] 2024.https://doi.org/10.1016/j.ifacol.2024.08.390.
-    
-No abstract    
-
-    
-
-## Evaluation of Direct and Iterative Approaches for the Parallel Solution of Structured Nonlinear Optimization Problems   
-
-OpenAlex: https://openalex.org/W4402309059    
-Open access: True
-    
-[Laurens Lueg](https://openalex.org/A5017863327), [Michael Bynum](https://openalex.org/A5031357535), [David L. Woodruff](https://openalex.org/A5071131174), [Lorenz T. Biegler](https://openalex.org/A5052825722), IFAC-PapersOnLine. 58(14)] 2024.https://doi.org/10.1016/j.ifacol.2024.08.434.
-    
-No abstract    
-
-    
-
-## A translational framework to DELIVER nanomedicines to the clinic   
-
-OpenAlex: https://openalex.org/W4402316253    
-Open access: False
-    
-[Paul Joyce](https://openalex.org/A5050086795), [Christine Allen](https://openalex.org/A5086834252), [Marı́a José Alonso](https://openalex.org/A5018004246), [Marianne Ashford](https://openalex.org/A5061346222), [Michelle S. Bradbury](https://openalex.org/A5060666434), [Matthieu Germain](https://openalex.org/A5104097480), [Maria Kavallaris](https://openalex.org/A5026784302), [Róbert Langer](https://openalex.org/A5042597057), [Twan Lammers](https://openalex.org/A5079522186), [Maria Teresa Peracchia](https://openalex.org/A5081122145), [Amirali Popat](https://openalex.org/A5055486123), [Clive A. Prestidge](https://openalex.org/A5023179049), [Cristianne J.F. Rijcken](https://openalex.org/A5030346672), [José das Neves](https://openalex.org/A5081844747), [Ruth Schmid](https://openalex.org/A5038279504), [Avi Schroeder](https://openalex.org/A5004510357), [Santhni Subramaniam](https://openalex.org/A5014552906), [Chelsea R. Thorn](https://openalex.org/A5000997068), [Kathryn A. Whitehead](https://openalex.org/A5010666650), [Chun‐Xia Zhao](https://openalex.org/A5019914168), [Hélder A. Santos](https://openalex.org/A5071356523), Nature Nanotechnology. None(None)] 2024.https://doi.org/10.1038/s41565-024-01754-7.
-    
-No abstract    
-
-    
 
 ## Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization   
 
@@ -58,6 +14,28 @@ Open access: False
 [Norman Tran](https://openalex.org/A5106382650), [Daniel Ovalle](https://openalex.org/A5067396423), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Carl D. Laird](https://openalex.org/A5030631754), No host. None(None)] 2024.https://doi.org/10.2172/2439776.
     
 No abstract    
+
+    
+
+## The impact of ammonia on particle formation in the Asian Tropopause Aerosol Layer   
+
+OpenAlex: https://openalex.org/W4402478760    
+Open access: True
+    
+[Christos Xenofontos](https://openalex.org/A5102960249), [Matthias Kohl](https://openalex.org/A5078813162), [Samuel Ruhl](https://openalex.org/A5107158743), [J. Almeida](https://openalex.org/A5101612939), [H. Beckmann](https://openalex.org/A5077912415), [Lucía Caudillo-Plath](https://openalex.org/A5092936143), [Sébastian Ehrhart](https://openalex.org/A5054830781), [Kristina Höhler](https://openalex.org/A5070773876), [Mathew Sebastian](https://openalex.org/A5067455912), [Weimeng Kong](https://openalex.org/A5046351966), [Felix Kunkler](https://openalex.org/A5107158742), [Antti Onnela](https://openalex.org/A5089192083), [P. Rato Mendes](https://openalex.org/A5004351709), [D. A. Russell](https://openalex.org/A5009741925), [Mario Simon](https://openalex.org/A5086950058), [L. P. STARK](https://openalex.org/A5069343178), [Nsikanabasi Silas Umo](https://openalex.org/A5043100376), [Gabriela Rosalino Unfer](https://openalex.org/A5092262549), [Boxing Yang](https://openalex.org/A5101350413), [Wenjuan Yu](https://openalex.org/A5025334650), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Imad Zgheib](https://openalex.org/A5094097372), [Zhensen Zheng](https://openalex.org/A5082103355), [Joachim Curtius](https://openalex.org/A5031780924), [Neil M. Donahue](https://openalex.org/A5041685684), [Imad El Haddad](https://openalex.org/A5080319960), [Richard C. Flagan](https://openalex.org/A5012711441), [Hamish Gordon](https://openalex.org/A5086004922), [Hartwig Harder](https://openalex.org/A5023787844), [Xu‐Cheng He](https://openalex.org/A5043129752), [J. Kirkby](https://openalex.org/A5009274507), [Markku Kulmala](https://openalex.org/A5000471665), [Ottmar Möhler](https://openalex.org/A5102403106), [Mira L. Pöhlker](https://openalex.org/A5024073664), [Siegfried Schobesberger](https://openalex.org/A5033551265), [Rainer Volkamer](https://openalex.org/A5018521569), [Mingyi Wang](https://openalex.org/A5100768996), [Stephan Borrmann](https://openalex.org/A5091241245), [Andrea Pozzer](https://openalex.org/A5081741117), [Jos Lelieveld](https://openalex.org/A5027329208), [T. Christoudias](https://openalex.org/A5068413254), npj Climate and Atmospheric Science. 7(1)] 2024.https://doi.org/10.1038/s41612-024-00758-3.
+    
+Abstract During summer, ammonia emissions in Southeast Asia influence air pollution and cloud formation. Convective transport by the South Asian monsoon carries these pollutant air masses into the upper troposphere and lower stratosphere (UTLS), where they accumulate under anticyclonic flow conditions. This air mass accumulation is thought to contribute to particle formation and the development of the Asian Tropopause Aerosol Layer (ATAL). Despite the known influence of ammonia and particulate ammonium on air pollution, a comprehensive understanding of the ATAL is lacking. In this modelling study, the influence of ammonia on particle formation is assessed with emphasis on the ATAL. We use the EMAC chemistry-climate model, incorporating new particle formation parameterisations derived from experiments at the CERN CLOUD chamber. Our diurnal cycle analysis confirms that new particle formation mainly occurs during daylight, with a 10-fold enhancement in rate. This increase is prominent in the South Asian monsoon UTLS, where deep convection introduces high ammonia levels from the boundary layer, compared to a baseline scenario without ammonia. Our model simulations reveal that this ammonia-driven particle formation and growth contributes to an increase of up to 80% in cloud condensation nuclei (CCN) concentrations at cloud-forming heights in the South Asian monsoon region. We find that ammonia profoundly influences the aerosol mass and composition in the ATAL through particle growth, as indicated by an order of magnitude increase in nitrate levels linked to ammonia emissions. However, the effect of ammonia-driven new particle formation on aerosol mass in the ATAL is relatively small. Ammonia emissions enhance the regional aerosol optical depth (AOD) for shortwave solar radiation by up to 70%. We conclude that ammonia has a pronounced effect on the ATAL development, composition, the regional AOD, and CCN concentrations.    
+
+    
+
+## Ammonium CI-Orbitrap: a tool for characterizing the reactivity of oxygenated organic molecules   
+
+OpenAlex: https://openalex.org/W4402525809    
+Open access: True
+    
+[Dandan Li](https://openalex.org/A5100439908), [Dongyu S. Wang](https://openalex.org/A5100764279), [Lucía Caudillo](https://openalex.org/A5079509898), [Wiebke Scholz](https://openalex.org/A5076482580), [Mingyi Wang](https://openalex.org/A5100768996), [Sophie Tomaz](https://openalex.org/A5010549487), [Guillaume Marie](https://openalex.org/A5032794723), [Mihnea Surdu](https://openalex.org/A5076044930), [Elias Eccli](https://openalex.org/A5092642033), [Xianda Gong](https://openalex.org/A5073840672), [Loïc Gonzalez-Carracedo](https://openalex.org/A5089915939), [Manuel Granzin](https://openalex.org/A5070143068), [Joschka Pfeifer](https://openalex.org/A5043381937), [Birte Rörup](https://openalex.org/A5022780485), [Benjamin C. Schulze](https://openalex.org/A5008614828), [Pekka Rantala](https://openalex.org/A5076457575), [S. Perrier](https://openalex.org/A5105457154), [Armin Hansel](https://openalex.org/A5089489241), [Joachim Curtius](https://openalex.org/A5031780924), [J. Kirkby](https://openalex.org/A5009274507), [Neil M. Donahue](https://openalex.org/A5041685684), [Christian George](https://openalex.org/A5026216873), [Imad El Haddad](https://openalex.org/A5080319960), [Matthieu Riva](https://openalex.org/A5055594784), Atmospheric measurement techniques. 17(17)] 2024.https://doi.org/10.5194/amt-17-5413-2024.
+    
+Abstract. Oxygenated organic molecules (OOMs) play an important role in the formation of atmospheric aerosols. Due to various analytical challenges with respect to measuring organic vapors, uncertainties remain regarding the formation and fate of OOMs. The chemical ionization Orbitrap (CI-Orbitrap) mass spectrometer has recently been shown to be a powerful technique that is able to accurately identify gaseous organic compounds due to its greater mass resolution. Here, we present the ammonium-ion-based CI-Orbitrap (NH4+-Orbitrap) as a technique capable of measuring a wide range of gaseous OOMs. The performance of the NH4+-Orbitrap is compared with that of state-of-the-art mass spectrometers, including a nitrate-ion-based chemical ionization atmospheric pressure interface coupled to a time-of-flight mass spectrometer (NO3--LTOF), a new generation of proton transfer reaction-TOF mass spectrometer (PTR3-TOF), and an iodide-based CI-TOF mass spectrometer equipped with a Filter Inlet for Gases and AEROsols (I−-CIMS). The instruments were deployed simultaneously in the Cosmic Leaving OUtdoors Droplets (CLOUD) chamber at the European Organization for Nuclear Research (CERN) during the CLOUD14 campaign in 2019. Products generated from α-pinene ozonolysis under various experimental conditions were simultaneously measured by the mass spectrometers. The NH4+-Orbitrap was able to identify the widest range of OOMs (i.e., O ≥ 2), from less-oxidized species to highly oxygenated organic molecules (HOMs). Excellent agreement was found between the NH4+-Orbitrap and the NO3--LTOF with respect to characterizing HOMs and with the PTR3-TOF for the less-oxidized monomeric species. OOM concentrations measured by NH4+-Orbitrap were estimated using calibration factors derived from the OOMs with high time-series correlations during the side-by-side measurements. As with the other mass spectrometry techniques used during this campaign, the detection sensitivity of the NH4+-Orbitrap to OOMs is greatly affected by relative humidity, which may be related to changes in ionization efficiency and/or multiphase chemistry. Overall, this study shows that NH4+-ion-based chemistry associated with the high mass resolution of the Orbitrap mass analyzer can measure almost all inclusive compounds. As a result, it is now possible to cover the entire range of compounds, which can lead to a better understanding of the oxidation processes.    
 
     
 
