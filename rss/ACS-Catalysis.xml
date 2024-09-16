@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Sep 2024 01:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 01:21:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -158,6 +158,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01258</guid>
     </item>
     <item>
+      <title>Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges</title>
+      <link>https://doi.org/10.1021/acscatal.4c03358</link>
+      <description>Michelle A. Nolen, Carrie A. Farberow, Stephanie Kwon, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402438892
+
+                No abstract</description>
+      <author>Michelle A. Nolen, Carrie A. Farberow, Stephanie Kwon</author>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03358</guid>
+    </item>
+    <item>
       <title>Photoredox/Nickel Dual Catalysis for C(sp&lt;sup&gt;2&lt;/sup&gt;)&#8211;C(sp&lt;sup&gt;3&lt;/sup&gt;) Cross-Electrophile Coupling Reaction of Mesylates of Phenols and Primary Alcohols</title>
       <link>https://doi.org/10.1021/acscatal.4c03975</link>
       <description>Sayan K. Jana, R. N. Bhattacharya, Purusattam Dey, Sunit Chakraborty, Biplab Maji, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402439055
@@ -278,6 +288,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03962</guid>
     </item>
     <item>
+      <title>A Chemoenzymatic Hydroaminomethylation Strategy for the Selective Synthesis of Linear Primary Amines from Olefins by Sequential and Tandem Processes</title>
+      <link>https://doi.org/10.1021/acscatal.4c03770</link>
+      <description>Jenna L. Manske, Jeremy Nicolai, Brandon J. Bloomer, Douglas S. Clark, John F. Hartwig, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402504286
+
+                No abstract</description>
+      <author>Jenna L. Manske, Jeremy Nicolai, Brandon J. Bloomer, Douglas S. Clark, John F. Hartwig</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03770</guid>
+    </item>
+    <item>
+      <title>Regulating Steric Effect of Cobalt Corroles for Promoted Oxygen Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c03792</link>
+      <description>Yuhan Xu, Xiaotong Jin, Jieling Zhang, Haonan Qin, B. Mei, Tao Liu, Siyu Lei, Li Shen, Yongli Bo, Xialiang Li, Rui Cao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402504363
+
+                No abstract</description>
+      <author>Yuhan Xu, Xiaotong Jin, Jieling Zhang, Haonan Qin, B. Mei, Tao Liu, Siyu Lei, Li Shen, Yongli Bo, Xialiang Li, Rui Cao</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03792</guid>
+    </item>
+    <item>
       <title>Isotopic Studies of Reaction Pathways within Propylene Epoxidation over Promoted Silver Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c04218</link>
       <description>J. A. Esposito, Aditya Bhan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402518071
@@ -296,6 +326,36 @@
       <author>Hao-Gang Ding, Shisheng Zheng, Xingjie Yang, Junjie Pan, Zhefeng Chen, Mingzheng Zhang, Shunning Li, Feng Pan</author>
       <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02126</guid>
+    </item>
+    <item>
+      <title>Room-Temperature Secondary Ammonium Salt-Catalyzed Enantioselective Halogenation via Hydrogen-Bonded Ion Pair</title>
+      <link>https://doi.org/10.1021/acscatal.4c04829</link>
+      <description>Zhihuang Chen, Zhi&#8208;Peng Wu, Qinghai Zhou, Peng Yang, Xing Li, Xiaodong Xiong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402535481
+
+                No abstract</description>
+      <author>Zhihuang Chen, Zhi&#8208;Peng Wu, Qinghai Zhou, Peng Yang, Xing Li, Xiaodong Xiong</author>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04829</guid>
+    </item>
+    <item>
+      <title>Recent Progress on the Stability of Electrocatalysts under High Current Densities toward Industrial Water Splitting</title>
+      <link>https://doi.org/10.1021/acscatal.4c03700</link>
+      <description>Shumin Gong, Yao Meng, Jin Zhang, Hsien&#8208;Yi Hsu, Minshu Du, Feng Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402536151
+
+                No abstract</description>
+      <author>Shumin Gong, Yao Meng, Jin Zhang, Hsien&#8208;Yi Hsu, Minshu Du, Feng Liu</author>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03700</guid>
+    </item>
+    <item>
+      <title>Single-Site Catalysts for the Oxygen Reduction Reaction: Why Iron Is Better than Platinum</title>
+      <link>https://doi.org/10.1021/acscatal.4c02366</link>
+      <description>Alessandro Facchin, Daniel Forrer, Mirco Zerbetto, Francesco Cazzadori, Andrea Vittadini, Christian Durante, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402540243
+
+                No abstract</description>
+      <author>Alessandro Facchin, Daniel Forrer, Mirco Zerbetto, Francesco Cazzadori, Andrea Vittadini, Christian Durante</author>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02366</guid>
     </item>
   </channel>
 </rss>

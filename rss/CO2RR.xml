@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Sep 2024 01:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 01:21:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Strongly Coupled Metal/Hydroxide Heterostructure Cascades Carbon Dioxide and Nitrate Reduction Reactions toward Efficient Urea Electrosynthesis</title>
-      <link>https://doi.org/10.1002/anie.202410105</link>
-      <description>Wei Ye, Ye Zhang, Liang Chen, Fangfang Wu, Yuanhui Yao, Wei Wang, Genping Zhu, Gan Jia, Zhongchao Bai, Shi Xue Dou, Peng Gao, Nana Wang, Guoxiu Wang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402329286
-
-                The direct coupling of nitrate ions and carbon dioxide for urea synthesis presents an appealing alternative to the Bosch-Meiser process in industry. The simultaneous activation of carbon dioxide and nitrate, however, as well as efficient C-N coupling on single active site, poses significant challenges. Here, we propose a novel metal/hydroxide heterostructure strategy based on synthesizing an Ag-CuNi(OH)2 composite to cascade carbon dioxide and nitrate reduction reactions for urea electrosynthesis. The strongly coupled metal/hydroxide heterostructure interface integrates two distinct sites for carbon dioxide and nitrate activation, and facilitates the coupling of *CO (on silver, where * denotes an active site) and *NH2 (on hydroxide) for urea formation. Moreover, the strongly coupled interface optimizes the water splitting process and facilitates the supply of active hydrogen atoms, thereby expediting the deoxyreduction processes essential for urea formation. Consequently, our Ag-CuNi(OH)2 composite delivers a high urea yield rate of 25.6 mmol gcat.-1 h-1 and high urea Faradaic efficiency of 46.1%, as well as excellent cycling stability. This work provides new insights into the design of dual-site catalysts for C-N coupling, considering their role on the interface.</description>
-      <author>Wei Ye, Ye Zhang, Liang Chen, Fangfang Wu, Yuanhui Yao, Wei Wang, Genping Zhu, Gan Jia, Zhongchao Bai, Shi Xue Dou, Peng Gao, Nana Wang, Guoxiu Wang</author>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202410105</guid>
-    </item>
-    <item>
-      <title>A Strongly Coupled Metal/Hydroxide Heterostructure Cascades Carbon Dioxide and Nitrate Reduction Reactions toward Efficient Urea Electrosynthesis</title>
-      <link>https://doi.org/10.1002/ange.202410105</link>
-      <description>Wei Ye, Ye Zhang, Liang Chen, Fangfang Wu, Yuanhui Yao, Wei Wang, Genping Zhu, Gan Jia, Zhongchao Bai, Shi Xue Dou, Peng Gao, Nana Wang, Guoxiu Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402332725
-
-                The direct coupling of nitrate ions and carbon dioxide for urea synthesis presents an appealing alternative to the Bosch&#8211;Meiser process in industry. The simultaneous activation of carbon dioxide and nitrate, however, as well as efficient C&#8211;N coupling on single active site, poses significant challenges. Here, we propose a novel metal/hydroxide heterostructure strategy based on synthesizing an Ag&#8208;CuNi(OH)2 composite to cascade carbon dioxide and nitrate reduction reactions for urea electrosynthesis. The strongly coupled metal/hydroxide heterostructure interface integrates two distinct sites for carbon dioxide and nitrate activation, and facilitates the coupling of *CO (on silver, where * denotes an active site) and *NH2 (on hydroxide) for urea formation. Moreover, the strongly coupled interface optimizes the water splitting process and facilitates the supply of active hydrogen atoms, thereby expediting the deoxyreduction processes essential for urea formation. Consequently, our Ag&#8208;CuNi(OH)2 composite delivers a high urea yield rate of 25.6 mmol gcat.&#8211;1 h&#8211;1 and high urea Faradaic efficiency of 46.1%, as well as excellent cycling stability. This work provides new insights into the design of dual&#8208;site catalysts for C&#8211;N coupling, considering their role on the interface.</description>
-      <author>Wei Ye, Ye Zhang, Liang Chen, Fangfang Wu, Yuanhui Yao, Wei Wang, Genping Zhu, Gan Jia, Zhongchao Bai, Shi Xue Dou, Peng Gao, Nana Wang, Guoxiu Wang</author>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202410105</guid>
-    </item>
     <item>
       <title>An Atomic&#8208;scale Explanation For The High Selectivity Towards Carbon Dioxide Reduction Observed On Liquid Metal Catalysts</title>
       <link>https://doi.org/10.1002/ange.202407124</link>
@@ -66,6 +46,16 @@
       <author>Wei Yan, Chenpu He, Noushad Ullah, Youzhi Cao, Changwan Zhuang, Bing Wang, Jianhua Wang, Zhe Hu, Di Ma, Weichun Ye, Jinyuan Wang</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.105</guid>
+    </item>
+    <item>
+      <title>The Influence of Heat Treatment on the Photoactivity of Amine-Modified Titanium Dioxide in the Reduction of Carbon Dioxide</title>
+      <link>https://doi.org/10.3390/molecules29184348</link>
+      <description>Iwona Pe&#322;ech, Piotr Staciwa, Daniel Sibera, Konrad S. Sobczuk, Wiktoria Majewska, Ewelina Kusiak&#8208;Nejman, Antoni W. Morawski, Kaiying Wang, Urszula Narkiewicz, Molecules. 29(18)] 2024. https://openalex.org/W4402524757
+
+                Modification of titanium dioxide using ethylenediamine (EDA), diethylamine (DEA), and triethylamine (TEA) has been studied. As the reference material, titanium dioxide prepared by the sol&#8211;gel method using titanium(IV) isopropoxide as a precursor was applied. The preparation procedure involved heat treatment in the microwave reactor or in the high-temperature furnace. The obtained samples have been characterized in detail. The phase composition was determined through the X-ray diffraction method, and the average crystallite size was calculated based on it. Values for specific surface areas and the total pore volumes were calculated based on the isotherms obtained through the low-temperature nitrogen adsorption method. The bang gap energy was estimated based on Tauc&#8217;s plots. The influence of the type and content of amine, as well as heat treatment on the photocatalytic activity of modified titanium dioxide in the photocatalytic reduction of carbon dioxide, was determined and discussed. It was clear that, regardless of the amount and content of amine introduced, the higher photoactivity characterized the samples prepared in the microwave reactor. The highest amounts of hydrogen, carbon monoxide, and methane have been achieved using triethylamine-modified titanium dioxide.</description>
+      <author>Iwona Pe&#322;ech, Piotr Staciwa, Daniel Sibera, Konrad S. Sobczuk, Wiktoria Majewska, Ewelina Kusiak&#8208;Nejman, Antoni W. Morawski, Kaiying Wang, Urszula Narkiewicz</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules29184348</guid>
     </item>
     <item>
       <title>Solar-driven carbon dioxide reduction: a review of recent developments and future prospects</title>
@@ -118,16 +108,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cphc.202400442</guid>
     </item>
     <item>
-      <title>Understanding oxidation state of Cu-based catalysts for electrocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.jmst.2024.08.029</link>
-      <description>Ping Zhu, Yan Qin, X. Z. Cai, Wen&#8208;Min Wang, Hua Yin, Linlin Zhou, Penghui Liu, Peng L&#252;, Wenlong Wang, Qian-Yuan Wu, Journal of Material Science and Technology. None(None)] 2024. https://openalex.org/W4402327514
-
-                No abstract</description>
-      <author>Ping Zhu, Yan Qin, X. Z. Cai, Wen&#8208;Min Wang, Hua Yin, Linlin Zhou, Penghui Liu, Peng L&#252;, Wenlong Wang, Qian-Yuan Wu</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.08.029</guid>
-    </item>
-    <item>
       <title>Reduction Polymerization of CO2 with Phenylene Silanes Cata&#8208;lyzed by Single Component B(C6F5)3</title>
       <link>https://doi.org/10.1002/ange.202415626</link>
       <description>Wenhao He, Bingwen Li, Yuxuan Li, Xinli Liu, Dongmei Cui, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402489599
@@ -158,6 +138,16 @@
       <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-70145-0_79</guid>
     </item>
     <item>
+      <title>In-situ exsolved Ni nanoparticles for boosting CO2 reduction in solid oxide electrolysis cell</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2024.235456</link>
+      <description>Tao Chen, Fei Shan, Lingting Ye, Kui Xie, Journal of Power Sources. 623(None)] 2024. https://openalex.org/W4402507664
+
+                No abstract</description>
+      <author>Tao Chen, Fei Shan, Lingting Ye, Kui Xie</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.235456</guid>
+    </item>
+    <item>
       <title>Cu(I)&#8208;Induced &#8216;Click Reaction&#8217; Involving Coordination and Covalent Assembly of Hybrid Borates for the Electrocatalytic CO2 Reduction</title>
       <link>https://doi.org/10.1002/anie.202412073</link>
       <description>Jianbing Chen, Yinghua Yu, Hai&#8208;Xia Zhang, Jian Zhang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402531561
@@ -176,16 +166,6 @@
       <author>Jianbing Chen, Yinghua Yu, Hai&#8208;Xia Zhang, Jian Zhang</author>
       <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202412073</guid>
-    </item>
-    <item>
-      <title>Atomically dispersed nickel-bismuth dual-atom sites for high rate electrochemical CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.nantod.2024.102477</link>
-      <description>Xiaoxiong Huang, Shengli Wu, Zhichang Xiao, Linjie Zhi, Sheng Wang, Nano Today. 59(None)] 2024. https://openalex.org/W4402330941
-
-                No abstract</description>
-      <author>Xiaoxiong Huang, Shengli Wu, Zhichang Xiao, Linjie Zhi, Sheng Wang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nantod.2024.102477</guid>
     </item>
     <item>
       <title>Enzyme-Mimicking Redox-Active Vitamin B12 Functionalized MWCNT-Catalyst for Nearly 100% Faradaic Efficiency in Electrochemical CO2 Reduction</title>
@@ -268,14 +248,24 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4955477</guid>
     </item>
     <item>
-      <title>An eco-friendly system of thermally regenerative battery-driven electrochemical CO2 reduction: In-situ harvesting of low-grade heat as electrical power for reducing CO2 emissions of flue gas</title>
-      <link>https://doi.org/10.1016/j.enconman.2024.119029</link>
-      <description>S.J. Li, Zhenchong Xiao, Yu Shi, Liang Zhang, Jun Li, Zhuo Li, Xun Zhu, Qiang Liao, Energy Conversion and Management. 321(None)] 2024. https://openalex.org/W4402329047
+      <title>Achieving green synthesis of high-value-added chemicals via N-integrated CO2 co-reduction: a review</title>
+      <link>https://doi.org/10.1007/s12598-024-02954-9</link>
+      <description>Zhichao Wang, Sisi Liu, Yanzheng He, Yuzhuo Jiang, Yunfei Huan, Qiyang Cheng, Cheng-Tao Yang, Mengfan Wang, Chenglin Yan, Tao Qian, Rare Metals. None(None)] 2024. https://openalex.org/W4402545956
 
                 No abstract</description>
-      <author>S.J. Li, Zhenchong Xiao, Yu Shi, Liang Zhang, Jun Li, Zhuo Li, Xun Zhu, Qiang Liao</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.enconman.2024.119029</guid>
+      <author>Zhichao Wang, Sisi Liu, Yanzheng He, Yuzhuo Jiang, Yunfei Huan, Qiyang Cheng, Cheng-Tao Yang, Mengfan Wang, Chenglin Yan, Tao Qian</author>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02954-9</guid>
+    </item>
+    <item>
+      <title>Bismuth oxide nanoflakes grown on defective microporous carbon endows high-efficient CO2 reduction at ampere level</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.09.116</link>
+      <description>Minjun Zhou, Zhihao Guo, Mingwang Wang, Dewen Song, Rui Zhou, Quansheng Liu, Shuai Wang, Boshi Zheng, Xiaoshan Wang, Hui Ning, Mingbo Wu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4402537824
+
+                No abstract</description>
+      <author>Minjun Zhou, Zhihao Guo, Mingwang Wang, Dewen Song, Rui Zhou, Quansheng Liu, Shuai Wang, Boshi Zheng, Xiaoshan Wang, Hui Ning, Mingbo Wu</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.116</guid>
     </item>
     <item>
       <title>Single-atom Cu sites on covalent organic frameworks with Kagome lattices for visible-light-driven CO2 reduction to propylene</title>
@@ -356,16 +346,6 @@
       <author/>
       <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta04145c/v2/review1</guid>
-    </item>
-    <item>
-      <title>A Dft Study on the Structural Properties and Co2 Electrocatalytic Reduction Activity of Monolayer Graphitic Carbon Nitride Supported Ag/Au Single Atom Catalysts</title>
-      <link>https://doi.org/10.2139/ssrn.4949570</link>
-      <description>Hui-Ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Laicai Li, Yan Zheng, No host. None(None)] 2024. https://openalex.org/W4402331817
-
-                No abstract</description>
-      <author>Hui-Ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Laicai Li, Yan Zheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4949570</guid>
     </item>
     <item>
       <title>Decision letter for "Enzyme-Mimicking Redox-Active Vitamin B12 Functionalized MWCNT-Catalyst for Nearly 100% Faradaic Efficiency in Electrochemical CO2 Reduction"</title>
@@ -668,16 +648,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.compbiomed.2024.109109</guid>
     </item>
     <item>
-      <title>Reducing CO2 Emissions by Off-Grid Photovoltaic Systems: A Case Study in the Departamento del Magdalena - Colombia</title>
-      <link>https://doi.org/10.32479/ijeep.15750</link>
-      <description>Carlos Robles-Algar&#237;n, Diego Restrepo-Leal, Maryam Carrillo-Reales, International Journal of Energy Economics and Policy. 14(5)] 2024. https://openalex.org/W4402334455
-
-                This paper presents projections on the reduction of CO2 emissions through the implementation of off-grid PV systems on 33 farms located in rural areas of the Departamento del Magdalena, where horticultural activities are performed by small local producers. To achieve this, the emission reduction was estimated for a period of 25 years using the installed PV peak power on each farm, data from the Global Solar Atlas, the emission factor in Colombia for electricity generation and information established in the harmonization project of the National Renewable Energy Laboratory (NREL). In order to compare the estimations, temperature and solar irradiance data were obtained from 10 farms near the installations, located in 8 municipalities within the department. With these data and through mathematical modeling, the energy generated by each PV system and the projection of non-emitted CO2 emissions were calculated. The results obtained demonstrated that, in both cases, the projections for emission reduction are similar, highlighting that the municipalities of Ci&#233;naga and Sitio Nuevo contribute the highest amount of saved CO2 due to the projections of higher energy production in these locations.</description>
-      <author>Carlos Robles-Algar&#237;n, Diego Restrepo-Leal, Maryam Carrillo-Reales</author>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.32479/ijeep.15750</guid>
-    </item>
-    <item>
       <title>l-Lactate dehydrogenase from Cyanidioschyzon merolae shows high catalytic efficiency for pyruvate reduction and is inhibited by ATP</title>
       <link>https://doi.org/10.1007/s11103-024-01495-0</link>
       <description>Mai Sugiyama, Takashi Osanai, Shoki Ito, Plant Molecular Biology. 114(5)] 2024. https://openalex.org/W4402407183
@@ -796,6 +766,16 @@
       <author>Xenaneira Shodrokova, Anna Yulianita, Abdul Bashir</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.15826/vestnik.2024.23.3.024</guid>
+    </item>
+    <item>
+      <title>In Situ Fabrication of Plasmonic Bi@Bi2O2CO3 Core-Shell Heterostructure for Photocatalytic CO2 Reduction: Structural Insights into Selectivity Modulation</title>
+      <link>https://doi.org/10.1039/d4dt02203c</link>
+      <description>Yannan Zhou, Jingyun Jiang, Hang Yin, Shouren Zhang, Dalton Transactions. None(None)] 2024. https://openalex.org/W4402542556
+
+                The precise design of active sites and light absorbers is essential in developing highly efficient photocatalysts for CO2 reduction. Core-shell heterostructures constructed based on large-sized plasmonic Bi metals are ideal...</description>
+      <author>Yannan Zhou, Jingyun Jiang, Hang Yin, Shouren Zhang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dt02203c</guid>
     </item>
     <item>
       <title>Performance of Zeolite-Based Soil&#8211;Geopolymer Mixtures for Geostructures under Eccentric Loading</title>
@@ -928,6 +908,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202413297</guid>
     </item>
     <item>
+      <title>Design and production of a mini-turbo reactor and study of its dual-fuel (gas-hydrogen) operation</title>
+      <link>https://doi.org/10.46932/sfjdv5n9-019</link>
+      <description>Adel Miles, A. Bouchoucha, Driss Bendjaballah, South Florida Journal of Development. 5(9)] 2024. https://openalex.org/W4402542223
+
+                The objective of this research was to investigate the effects of hydrogen injection on the performance of a mini turbo reactor. To achieve this, an experimental test bench was constructed, incorporating a specially designed mini turbo reactor capable of operating on various fuel mixtures and a dry cell electrolyzer for on-site hydrogen production. A comprehensive testing campaign was conducted, comparing the mini turbo reactor performance when fueled with pure propane and a propane-hydrogen blend at varying concentrations. Parameters evaluated included power output, thermal efficiency, fuel mass flow rate, flame temperatures, and pollutant emissions (CO, CO2, NOx). The experimental results unequivocally demonstrated that the addition of hydrogen to propane significantly enhances the mini turbo reactor specific power while concurrently reducing CO and CO2 emissions. Furthermore, data analysis revealed an improvement in the thermal efficiency of the cycle, suggesting potential reductions in specific fuel consumption. These findings highlight the promising potential of hydrogen injection as a strategy to enhance the performance and environmental impact of mini turbo reactor.</description>
+      <author>Adel Miles, A. Bouchoucha, Driss Bendjaballah</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.46932/sfjdv5n9-019</guid>
+    </item>
+    <item>
       <title>A Study for Estimation of Greenhouse Gas Emissions of Cotton in Central Greece</title>
       <link>https://doi.org/10.32388/gh42x0.2</link>
       <description>Vassilis Engonopoulos, No host. None(None)] 2024. https://openalex.org/W4402452945
@@ -968,16 +958,6 @@
       <guid isPermaLink="true">https://doi.org/10.2118/223106-pa</guid>
     </item>
     <item>
-      <title>Synthesis and properties of catalytic chemisorbents based on titanium oxide</title>
-      <link>https://doi.org/10.14529/chem240109</link>
-      <description>N E Sal'nikova, Evgeny Smirnov, &#1044;. &#1040;. &#1055;&#1088;&#1086;&#1079;&#1086;&#1088;&#1086;&#1074;, Andrey V. Afineevskiy, &#1044;. &#1040;. &#1057;&#1084;&#1080;&#1088;&#1085;&#1086;&#1074;, Kirill Nikitin, Bulletin of the South Ural State University series Chemistry. 16(1)] 2024. https://openalex.org/W4402351025
-
-                In this work, we studied the synthesis and properties of catalytic chemisorbents based on titanium dioxide with additions of ZnO and &#947;-Al2O3. The goal was to obtain chemisorbents with desired performance characteristics and evaluate their potential in destructive hydrogenation of organo-sulfur compounds. Their sulfur capacity and hydrogenating capacity were measured by the static method with carbon disulfide absorption. Textural and morphological characteristics were deter-mined with the use of X-ray phase analysis, low-temperature nitrogen adsorption/desorption, and scanning electron microscopy. It was also found that addition of alumina did not give additional reflections on the X-ray pattern, in contrast to introduction of zinc oxide. It was found that addi-tion of zinc oxide significantly increased the values of the specific surface area, many times more than expected, according to additivity principle. Conversely, addition of alumina did not give the expected increase in surface area. The one and the other were explained through active interaction of phases. The ratios of components for obtaining chemisorbents with optimal strength properties were established. It was found that a composite consisting of titanium and aluminum oxides was more resistant to sulfurization than one with additions of zinc oxide. SEM and low-temperature ni-trogen adsorption/desorption methods confirmed the mesoporous structure of the studied samples, while the sample containing gamma alumina showed a more pronounced desorption branch to-gether with the surface consisting of spherical formations arranged in a regular order. The sample with zinc oxide had slit-like pores in its volume. Hydrogenation of thiophene with gaseous hydro-gen was carried out for the studied composites. Chromatographic analysis of the resulting product was performed. It was proven that composites based on titanium, zinc, and aluminum oxides not only had sorption properties with respect to organosulfur compounds, but also catalyzed their de-structive hydrogenation. Thus, it was established that the studied samples were chemisorbents. The study provides insight into synthesis and properties of catalytic titania-based chemisorbents, high-lighting the influence of additives and their potential for organosulfur reduction reactions.</description>
-      <author>N E Sal'nikova, Evgeny Smirnov, &#1044;. &#1040;. &#1055;&#1088;&#1086;&#1079;&#1086;&#1088;&#1086;&#1074;, Andrey V. Afineevskiy, &#1044;. &#1040;. &#1057;&#1084;&#1080;&#1088;&#1085;&#1086;&#1074;, Kirill Nikitin</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.14529/chem240109</guid>
-    </item>
-    <item>
       <title>Co-Precipitation Synthesized Ag-Doped Ceria Redox Material (ACRM) for the Thermochemical Conversion of CO2 into Solar Fuels</title>
       <link>https://doi.org/10.3390/app14188272</link>
       <description>Gorakshnath Takalkar, Sayma Akhter, Rahul R. Bhosale, Applied Sciences. 14(18)] 2024. https://openalex.org/W4402515786
@@ -986,6 +966,16 @@
       <author>Gorakshnath Takalkar, Sayma Akhter, Rahul R. Bhosale</author>
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/app14188272</guid>
+    </item>
+    <item>
+      <title>Synthesis and properties of catalytic chemisorbents based on titanium oxide</title>
+      <link>https://doi.org/10.14529/chem240109</link>
+      <description>N E Sal'nikova, Evgeny Smirnov, &#1044;. &#1040;. &#1055;&#1088;&#1086;&#1079;&#1086;&#1088;&#1086;&#1074;, Andrey V. Afineevskiy, &#1044;. &#1040;. &#1057;&#1084;&#1080;&#1088;&#1085;&#1086;&#1074;, Kirill Nikitin, Bulletin of the South Ural State University series Chemistry. 16(1)] 2024. https://openalex.org/W4402351025
+
+                In this work, we studied the synthesis and properties of catalytic chemisorbents based on titanium dioxide with additions of ZnO and &#947;-Al2O3. The goal was to obtain chemisorbents with desired performance characteristics and evaluate their potential in destructive hydrogenation of organo-sulfur compounds. Their sulfur capacity and hydrogenating capacity were measured by the static method with carbon disulfide absorption. Textural and morphological characteristics were deter-mined with the use of X-ray phase analysis, low-temperature nitrogen adsorption/desorption, and scanning electron microscopy. It was also found that addition of alumina did not give additional reflections on the X-ray pattern, in contrast to introduction of zinc oxide. It was found that addi-tion of zinc oxide significantly increased the values of the specific surface area, many times more than expected, according to additivity principle. Conversely, addition of alumina did not give the expected increase in surface area. The one and the other were explained through active interaction of phases. The ratios of components for obtaining chemisorbents with optimal strength properties were established. It was found that a composite consisting of titanium and aluminum oxides was more resistant to sulfurization than one with additions of zinc oxide. SEM and low-temperature ni-trogen adsorption/desorption methods confirmed the mesoporous structure of the studied samples, while the sample containing gamma alumina showed a more pronounced desorption branch to-gether with the surface consisting of spherical formations arranged in a regular order. The sample with zinc oxide had slit-like pores in its volume. Hydrogenation of thiophene with gaseous hydro-gen was carried out for the studied composites. Chromatographic analysis of the resulting product was performed. It was proven that composites based on titanium, zinc, and aluminum oxides not only had sorption properties with respect to organosulfur compounds, but also catalyzed their de-structive hydrogenation. Thus, it was established that the studied samples were chemisorbents. The study provides insight into synthesis and properties of catalytic titania-based chemisorbents, high-lighting the influence of additives and their potential for organosulfur reduction reactions.</description>
+      <author>N E Sal'nikova, Evgeny Smirnov, &#1044;. &#1040;. &#1055;&#1088;&#1086;&#1079;&#1086;&#1088;&#1086;&#1074;, Andrey V. Afineevskiy, &#1044;. &#1040;. &#1057;&#1084;&#1080;&#1088;&#1085;&#1086;&#1074;, Kirill Nikitin</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.14529/chem240109</guid>
     </item>
     <item>
       <title>EDUCATIONAL BUILDING RENOVATION USING GREEN ROOF TOWARDS ENERGY SAVINGS AND DECARBONIZATION OF CITIES</title>
@@ -1089,6 +1079,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/pr12091926</guid>
     </item>
     <item>
+      <title>Evaluating Engine Performance, Emissions, Noise, and Vibration: A Comparative Study of Diesel and Biodiesel Fuel Mixture</title>
+      <link>https://doi.org/10.30939/ijastech..1495167</link>
+      <description>Mahmut &#304;nce, Samet &#199;elebi, &#220;same Demir, Can HA&#350;&#304;MO&#286;LU, International Journal of Automotive Science And Technology. None(None)] 2024. https://openalex.org/W4402501667
+
+                This study investigates the performance, emissions, noise, and vibration characteristics of a single-cylinder, air-cooled, four-stroke diesel engine running on pure diesel (D100) and biodiesel blends (B10: 90% diesel, 10% biodiesel; B20: 80% diesel, 20% biodiesel) at 1800 rpm, where the engine delivers maximum torque. Key metrics such as torque, power, brake specific fuel consumption (BSFC), exhaust gas temperature, noise, vibration, and emissions (CO, CO2, HC, O2, NOx, and smoke opacity) were analyzed. The findings indicate that B10 enhances torque, power output, and overall fuel efficiency, especially at low to medium loads, with a significant 17.54% reduction in BSFC compared to D100 at 40% engine load. Vibration levels generally increased with biodiesel addition, while B10 and B20 both reduced smoke opacity, with B20 having a more substantial effect. HC emissions decreased at idle with B10 but increased at higher loads, suggesting more complete combustion with potential thermal stress on engine components. Noise and vibration results were mixed; B20 reduced noise at higher loads but increased vibration. At 100% load, B20 decreased noise by 1.42% compared to D100. Despite benefits such as improved torque and reduced particulate emissions, biodiesel blends, particularly B20, led to increased NOx and CO2 emissions, emphasizing the need for further op-timization of blend formulations and emission control strategies. This study provides valuable insights into the tradeoffs and potential of biodiesel blends as sustainable diesel alternatives.</description>
+      <author>Mahmut &#304;nce, Samet &#199;elebi, &#220;same Demir, Can HA&#350;&#304;MO&#286;LU</author>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.30939/ijastech..1495167</guid>
+    </item>
+    <item>
       <title>Maximizing Value Through the Adoption of Technologies to Ensure Near Zero Methane Emissions</title>
       <link>https://doi.org/10.2118/220438-ms</link>
       <description>Adnan A Madhi, Vijaya Bhaskar Reddy, Mahmoud Abdelmobdy, Khalid Yousef Al Awadhi, Pierre Bouilhol, Marie Morazzani, Amal Omar AlAwlaqi, Deo Kumar Chauhan, Angela Fandino, Paramjeet Singh, No host. None(None)] 2024. https://openalex.org/W4402397573
@@ -1109,6 +1109,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/stresses4030037</guid>
     </item>
     <item>
+      <title>178 Programing the rumen microbiome to optimize microbial efficiency in high forage diets</title>
+      <link>https://doi.org/10.1093/jas/skae234.452</link>
+      <description>Tim A. McAllister, Robert J. Gruninger, Stephanie A. Terry, Ajay Badhan, Yan Wang, Leluo Guan, Journal of Animal Science. 102(Supplement_3)] 2024. https://openalex.org/W4402533540
+
+                Abstract As the majority of energy and protein supplied to cattle arises as a result of ruminal fermentation, the rumen microbiome has an integral role in determining host feed efficiency. Counterintuitively, current evidence suggests that a less diverse rumen microbiome is associated with improved feed efficiency, possibly as a result of greater metabolic precision and avoidance of energy spilling fermentative pathways. The composition of the rumen microbiome is mainly determined by diet, but host traits such as rumen volume, rate of passage, rumination and immunity also have influence. Although less microbial diversity may improve feed efficiency in cattle fed a specific diet, reduced diversity may impair the ability of cattle to adapt to frequent changes in diet and the environment. Hydrogen exchange and capture is the energetic foundation of the rumen microbiome and considerable capital has been invested to develop additives that redirect hydrogen flow away from the reduction of CO2 to CH4 towards alternative sinks. These additives have been shown to reduce enteric CH4 emissions by 30 to 80%, but improvements in feed efficiency have been less than stoichiometric predictions. Approaches to improve the feed efficiency of cattle need to be multifaceted with consideration for host genetics, functional efficiency of the rumen microbiome, and the structure and composition of feed. Likewise, reductions in carbon emissions need to be broader than just CH4, with an appreciation of the role that cattle have within a circular bioeconomy to promote upcycling of nutrients and reductions in emissions from farming systems. Strategies to improve the efficiency of cattle production are a prerequisite for the sustainable intensification needed to ensure that the social license for milk and meat production from cattle is retained.</description>
+      <author>Tim A. McAllister, Robert J. Gruninger, Stephanie A. Terry, Ajay Badhan, Yan Wang, Leluo Guan</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/jas/skae234.452</guid>
+    </item>
+    <item>
       <title>An attempt towards ferrochromium production using molten oxide electrolysis</title>
       <link>https://doi.org/10.62053/njrr1937</link>
       <description>Jhuma Biswas, Lassi Klemettinen, Dmitry Sukhomlinov, W Malan, Daniel M. Lindberg, No host. None(None)] 2024. https://openalex.org/W4402383082
@@ -1117,6 +1127,16 @@
       <author>Jhuma Biswas, Lassi Klemettinen, Dmitry Sukhomlinov, W Malan, Daniel M. Lindberg</author>
       <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.62053/njrr1937</guid>
+    </item>
+    <item>
+      <title>301 Leveraging genomics to advance the breeding of Canadian livestock</title>
+      <link>https://doi.org/10.1093/jas/skae234.208</link>
+      <description>Emily M. Leishman, Ricarda E Jahnel, Alexandra Harlander, Owen W Willems, Benjamin J. Wood, Shai Barbut, Fl&#225;vio S. Schenkel, F. Miglior, R. Gervais, Paul Stothard, Christine F. Baes, Journal of Animal Science. 102(Supplement_3)] 2024. https://openalex.org/W4402541296
+
+                Abstract Implementing breeding strategies for a more sustainable food system is one of the most pressing topics for livestock industries. Although different species face different challenges, large-scale research projects can pave the way for future opportunities in these key sectors. Herein, we present two examples (dairy and poultry) of how research projects can result in meaningful changes to commercial breeding programs. The first example is an international large-scale dairy project, which will deliver a roadmap for greenhouse gas (GHG) management using genomics and nutrition. The project aims to facilitate a 55% reduction in GHG emissions from Canadian dairy at an estimated value of $338M CAD. This systems-level approach will leverage resources developed through previous and current large-scale projects to produce accurate multi-level emission estimates and identify opportunities to mitigate enteric GHG emissions. The results of this project will provide accurate, reliable, and robust data for industry stakeholders, national policy, and GHG inventories. The second example is a research collaboration with a commercial turkey breeding company that will enable breeding strategies for long-term and sustainable genetic improvement in health traits. This project aims to reduce preslaughter mortality by 5% and condemnations due to myopathies and health issues. This reduction alone is expected to result in 7.5M kg more turkey meat at a value of $19.8M CAD. Furthermore, there is also an expected reduction of 2.3M kg of CO2 equivalent per year for each 1% livability improvement due to production efficiencies and reduced inputs wasted for more sustainable and ethical meat production. Overall, ongoing and future research initiatives will continue to deliver solutions for key Canadian livestock sectors to improve animal health and welfare as well as efficiency and sustainability. The strides made in these ongoing collaborative projects are imperative for enhancing the sustainability of animal agriculture to feed the growing population.</description>
+      <author>Emily M. Leishman, Ricarda E Jahnel, Alexandra Harlander, Owen W Willems, Benjamin J. Wood, Shai Barbut, Fl&#225;vio S. Schenkel, F. Miglior, R. Gervais, Paul Stothard, Christine F. Baes</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/jas/skae234.208</guid>
     </item>
     <item>
       <title>Improving Vehicle Warm-Up Performance Using Phase-Change Materials and Thermal Storage Methods</title>
@@ -1167,6 +1187,16 @@
       <author>Xiaohuang Liu, Zijing Xue, Jiufen Liu, Xiaofeng Zhao, Yanguang Fu, Ran Wang, Xinping Luo, Liyuan Xing, Chao Wang, Honghui Zhao</author>
       <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/land13091454</guid>
+    </item>
+    <item>
+      <title>The environmental impact of a malaria clinical trial in Mali: Life cycle assessment reveals high emissions due to international travel and local electricity use and identifies opportunities for sustainable improvement</title>
+      <link>https://doi.org/10.31223/x5sh8r</link>
+      <description>Merel Smit, Almahamoudou Mahamar, E. Kooistra, Kjerstin Lanke, Koualy Sanogo, Patrick Wilikpan Okedy, Mohamed Yehia, Chris Drakeley, Hugo Touw, William J. Stone, Alassane Dicko, Teun Bousema, Tim Stobernack, No host. None(None)] 2024. https://openalex.org/W4402503927
+
+                Climate change may be the single largest threat facing humanity and ecosystems, necessitating decarbonization across all sectors, including healthcare and academia. With the aim of informing and supporting sustainable research practices, we performed a life cycle assessment of a clinical trial conducted in Mali. The trial involved 80 malaria-infected participants in Ou&#233;less&#233;bougou who were treated with antimalarials and followed for 28 days to determine their clinical and transmission-blocking efficacy. Data on consumables, transportation, travel, and electricity use were collected in Mali and the Netherlands, where additional laboratory analyses and sample storage occurred. Data were analysed using the ReCiPe 2016 method for midpoint impact assessment. The trial involved 3 intercontinental shipments of materials and samples, 59,900 km of travel by research staff, and ~55 kg of plastics. Trial conduct and reporting resulted in 20.5 metric tonnes of CO2-equivalent (CO2e) emissions. Major contributors were international travel (50%), electricity in Mali (28%), and air-transportation (14%). Laboratory consumables, while contributing up to 22% of the trial&#8217;s impact on land and water use, were less important sources of emissions (2% of CO2e). Whereas the electricity mix in Mali, ~60% fossil-fuel-based, was disadvantageous for the carbon footprint, laboratory analyses in the Netherlands benefited from 100% wind energy, resulting in a minor overall contribution to emissions (&amp;lt;1%). We observed no loss in stability of parasite genetic material (mRNA) in protective buffers when stored for 12 months at -20&#176;C, compared to conventional -70&#176;C. These results form a foundation for improving the environmental sustainability of clinical trials in Africa. Switching to energy-efficient equipment settings could reduce electricity consumption by over 30%. Implementing solar panels in the Mali laboratory would reduce CO2e emissions by 28%. Immediate CO2e reductions can be achieved through online conference attendance and alternative sample transportation, which would contribute an additional 10% CO2e reduction.</description>
+      <author>Merel Smit, Almahamoudou Mahamar, E. Kooistra, Kjerstin Lanke, Koualy Sanogo, Patrick Wilikpan Okedy, Mohamed Yehia, Chris Drakeley, Hugo Touw, William J. Stone, Alassane Dicko, Teun Bousema, Tim Stobernack</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31223/x5sh8r</guid>
     </item>
     <item>
       <title>SURFER v3.0: a fast model with ice sheet tipping points and carbon cycle feedbacks for short and long-term climate scenarios</title>
@@ -1258,6 +1288,16 @@
       <author>F. O. Ojo, Erkay &#214;zg&#246;r</author>
       <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.4314/tjpr.v23i6.5</guid>
+    </item>
+    <item>
+      <title>379 Application of an energy and nutrient matrix to a diet supplemented with a novel phytase achieved a production and sustainability benefit in pigs</title>
+      <link>https://doi.org/10.1093/jas/skae234.284</link>
+      <description>Deepak Velayudhan, Janet C Remus, Yueming Dersjant-Li, Ester Vinyeta, Journal of Animal Science. 102(Supplement_3)] 2024. https://openalex.org/W4402541986
+
+                Abstract The capacity of a novel consensus bacterial 6-phytase variant (PhyG) to maintain growth performance and production benefits of pigs when added to an energy and nutrient-reduced mixed cereal diet was assessed. Two experiments were conducted. In Exp. 1 (wean to finish), weaned pigs [n = 192; initial body weight (BW) 7.18 &#177; 0.38 kg] were randomized to 4 treatments from weaning until market weight. Diets were provided in 5 phases. Treatments included: 1) a nutritionally sufficient positive control (PC); 2) a negative control (NC1) without added inorganic phosphate, reduced (based on specific PhyG dose) in net energy (NE), calcium (Ca), digestible amino acids (AA) and sodium (Na) vs. PC, supplemented with PhyG at 1,000, 1,000, 750, 500 and 500 FTU/kg in each phase, respectively (NC1+low PhyG); 3) a negative control (NC2) as NC1 supplemented with PhyG at 2,000, 2,000, 1,000, 750 and 750 FTU/kg in each phase and further reduced in energy and nutrient based on specific PhyG dose (NC2+high PhyG), and; 4) a negative control (NC3) as 2) and supplemented with xylanase&#8211;&#946;-glucanase (XB) to provide 2,400 U/kg xylanase and 304 U/kg &#946;-glucanase, with additional reduction in NE and digestible AA based on the contribution of XB (NC3+low PhyG + XB). In Exp. 2 (nursery), weaned pigs (n = 360; initial BW 8.40 &#177; 0.78 kg) were assigned to 3 dietary treatments from weaning up to 35 d. Diets were offered in 2 phases. Treatments included a nutritionally adequate positive control (PC) and 2 PhyG-supplemented diets, reduced in digestible phosphorus, Ca, Na, NE and digestible AA vs. PC, according to the expected contribution of PhyG added at 1,000 FTU/kg (NC1) or 2,000 FTU/kg (NC2), respectively. Data were analyzed by ANOVA. Means separation was by Tukey&#8217;s HSD test. In Exp. 1, overall growth performance (114 d) in all enzyme-supplemented diets was maintained or improved compared with PC. Compared with PC, feed cost per kg BW gain was significantly reduced by 7.3% and total carbon footprint (CFP; CO2 eq. g/kg BW gain) was reduced by 6.8% with PhyG + XB combination. In Exp.2, overall growth performance (35 d), in all PhyG-supplemented, nutrient-reduced, treatments, were either not different from, or were improved, vs. PC. Total feed costs and estimated CFP per kg BW gain were reduced in all PhyG-supplemented, nutrient- and NE-reduced treatments vs. PC. In conclusion, the application of a full energy and nutrient matrix maintained the overall growth of pigs in both 114- and 35-d studies with the novel phytase. The addition of XB further improved the overall growth of market pigs. Moreover, full matrix application with PhyG achieved reductions in total feed cost and carbon footprint in both studies.</description>
+      <author>Deepak Velayudhan, Janet C Remus, Yueming Dersjant-Li, Ester Vinyeta</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/jas/skae234.284</guid>
     </item>
     <item>
       <title>Thinking Differently &#8211; Energy Optimization and Flaring Reduction Approach Improvising Sustainable Production</title>

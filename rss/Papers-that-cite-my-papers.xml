@@ -4,35 +4,15 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Sep 2024 01:24:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 01:21:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Influence of the electric field on the electronic structure of flat hexagonal two-dimensional GaN bilayers</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.110356</link>
-      <description>R.A. Reyna-Lara, J.D. Correa, K.A. Rodr&#237;guez-Magdaleno, F.M. Nava-Maldonado, M.E. Mora&#8208;Ramos, J.C. Mart&#305;&#769;nez-Orozco, Materials Today Communications. None(None)] 2024. https://openalex.org/W4402332529
-
-                No abstract</description>
-      <author>R.A. Reyna-Lara, J.D. Correa, K.A. Rodr&#237;guez-Magdaleno, F.M. Nava-Maldonado, M.E. Mora&#8208;Ramos, J.C. Mart&#305;&#769;nez-Orozco</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.110356</guid>
-    </item>
-    <item>
-      <title>Ultrathin ternary PtNiRu nanowires for enhanced oxygen reduction and methanol oxidation catalysis via d-band center regulation</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.09.054</link>
-      <description>Guopu Cai, Chun Hua, Hongji Ren, Renqin Yu, Deying Xu, Muhammad Arif Khan, Jian Guo, Yu Sun, Ya Tang, Huidong Qian, Zhonghong Xia, Daixin Ye, Jiujun Zhang, Hongbin Zhao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4402327197
-
-                Direct methanol fuel cells rely on the efficiency of their anode/cathode electrocatalysts to facilitate the methanol oxidation reaction and oxygen reduction reaction, respectively. Platinum-based nanocatalysts are at the forefront due to their superior catalytic properties. However, the high-cost, scarcity, and low CO tolerance of platinum pose challenges for the scalable application of DMFCs. Herein, we report novel ultrathin ternary PtNiRu alloy nanowires to improve Pt utilization and CO tolerance. These novel electrocatalysts incorporate the oxophilic metal Ru into ultrathin PtNi nanowires, aiming to enhance the intrinsic activity of platinum while leveraging the long-term durability and high utilization efficiency provided by the bimetallic synergistic effect. The PtNiRu NWs significantly enhance both mass activity and specific activity for ORR, performing about 6.9 times and 3.9 times better than commercial Pt/C, respectively. After a rigorous durability test of 10,000 cycles, the PtNiRu NWs only exhibited a 25.2 % loss in mass activity. Additionally, for MOR, the MA and SA of PtNiRu NWs exceed that of Pt/C catalyst by 4.30 and 2.72 times, respectively, and exhibit exceptional resistance to CO poisoning. Theoretical insights from density functional theory calculations suggest that the introduction of Ru modulates the d-band center of the surface Pt atoms, which contributes to decreased binding strength of oxygenated species and an elevated dissolution potential, substantiating the enhanced performance metrics, and the durability enhancement stems from the stronger PtM bonds than those in PtNiRu NWs resulted from PtRu covalent interactions. These findings not only provide a new perspective on platinum-based nanocatalysts but also significantly advance the quest for more efficient and durable electrocatalysts for DMFCs, representing a substantial stride in fuel cell technology.</description>
-      <author>Guopu Cai, Chun Hua, Hongji Ren, Renqin Yu, Deying Xu, Muhammad Arif Khan, Jian Guo, Yu Sun, Ya Tang, Huidong Qian, Zhonghong Xia, Daixin Ye, Jiujun Zhang, Hongbin Zhao</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.054</guid>
-    </item>
     <item>
       <title>Unraveling the catalytic performance of RuO2(1 1 0) for highly-selective ethylene production from methane at low temperature: Insights from first-principles and microkinetic simulations</title>
       <link>https://doi.org/10.1016/j.jcis.2024.09.059</link>
       <description>Santhanamoorthi Nachimuthu, Guan-Cheng Xie, Jyh&#8208;Chiang Jiang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4402339158
 
-                No abstract</description>
+                Despite significant progress in low-temperature methane (CH</description>
       <author>Santhanamoorthi Nachimuthu, Guan-Cheng Xie, Jyh&#8208;Chiang Jiang</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.059</guid>
@@ -268,6 +248,16 @@
       <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.093604</guid>
     </item>
     <item>
+      <title>In-situ surface activation of polycrystalline LaNiO3 electrocatalyst for the oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.09.038</link>
+      <description>Giuditta De Amicis, Anna Testolin, Cristina Cazzaniga, F. D&#8217;Acapito, Alessandro Minguzzi, Paolo Ghigna, Alberto Vertova, International Journal of Hydrogen Energy. 87(None)] 2024. https://openalex.org/W4402440638
+
+                No abstract</description>
+      <author>Giuditta De Amicis, Anna Testolin, Cristina Cazzaniga, F. D&#8217;Acapito, Alessandro Minguzzi, Paolo Ghigna, Alberto Vertova</author>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.038</guid>
+    </item>
+    <item>
       <title>Tunable long-lived exciton lifetime and high carrier mobilities in Group III A elements doped two-dimensional blue phosphorene: A time domain &lt;i&gt;ab initio&lt;/i&gt; study</title>
       <link>https://doi.org/10.1063/5.0219326</link>
       <description>Chang Liu, Yulong Qiu, Caifeng Zhou, Hao Dong, Applied Physics Letters. 125(11)] 2024. https://openalex.org/W4402443529
@@ -326,6 +316,16 @@
       <author>Zachary L. Whipple, Roma R. Ripani, Janki Brahmbhatt, Muhtar Ahart, Nilesh P. Salke, Yue Meng, Zhenxian Liu, Stella Chariton, Stephen A. Gramsch, Santanu Chaudhuri, Emmanuele Parisi, Roberto Centore, Russell J. Hemley</author>
       <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03637</guid>
+    </item>
+    <item>
+      <title>Controlling Plasmonic Catalysis via Strong Coupling with Electromagnetic Resonators</title>
+      <link>https://doi.org/10.1021/acs.nanolett.4c03153</link>
+      <description>Jakub Fojt, Paul Erhart, C. Sch&#228;fer, Nano Letters. None(None)] 2024. https://openalex.org/W4402477650
+
+                Plasmonic excitations decay within femtoseconds, leaving nonthermal (often referred to as "hot") charge carriers behind that can be injected into molecular structures to trigger chemical reactions that are otherwise out of reach&#9472;a process known as plasmonic catalysis. In this Letter, we demonstrate that strong coupling between resonator structures and plasmonic nanoparticles can be used to control the spectral overlap between the plasmonic excitation energy and the charge injection energy into nearby molecules. Our atomistic description couples real-time density-functional theory self-consistently to an electromagnetic resonator structure via the radiation-reaction potential. Control over the resonator provides then an additional knob for nonintrusively enhancing plasmonic catalysis, here more than 6-fold, and dynamically reacting to deterioration of the catalyst&#9472;a new facet of modern catalysis.</description>
+      <author>Jakub Fojt, Paul Erhart, C. Sch&#228;fer</author>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c03153</guid>
     </item>
     <item>
       <title>Impact of Polymer End Groups on the Formation of Solid Electrolyte Interphase at the Lithium Metal Interface: A First-Principles Calculations Study</title>
@@ -418,6 +418,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c04017</guid>
     </item>
     <item>
+      <title>Key Role of Density Functional Approximation in Predicting M&#8211;N&#8211;C Catalyst Activities for Oxygen Reduction</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c03322</link>
+      <description>Brett Henderson, Sofia Donnecke, Scott N. Genin, Ilya G. Ryabinkin, Irina Paci, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402504253
+
+                No abstract</description>
+      <author>Brett Henderson, Sofia Donnecke, Scott N. Genin, Ilya G. Ryabinkin, Irina Paci</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03322</guid>
+    </item>
+    <item>
       <title>References</title>
       <link>https://doi.org/10.1002/9781119744856.ref</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4402504857
@@ -426,6 +436,16 @@
       <author/>
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9781119744856.ref</guid>
+    </item>
+    <item>
+      <title>Innovations in Catalytic Understanding: A Journey through Advanced Characterization</title>
+      <link>https://doi.org/10.1016/j.mtcata.2024.100061</link>
+      <description>Ifeanyi Michael Smarte Anekwe, Stephen Okiemute Akpasi, Emeka Michael Enemuo, Darlington C. Ashiegbu, Sherif Ishola Mustapha, Yusuf Makarfi Isa, Materials Today Catalysis. None(None)] 2024. https://openalex.org/W4402511815
+
+                No abstract</description>
+      <author>Ifeanyi Michael Smarte Anekwe, Stephen Okiemute Akpasi, Emeka Michael Enemuo, Darlington C. Ashiegbu, Sherif Ishola Mustapha, Yusuf Makarfi Isa</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2024.100061</guid>
     </item>
     <item>
       <title>Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study</title>
@@ -458,14 +478,44 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.116</guid>
     </item>
     <item>
-      <title>Degradation of amine-functionalized adsorbents in carbon capture and direct air capture applications: Mechanism and solutions</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.129586</link>
-      <description>Shu Zhao, Yiran Zhang, Linjia Li, Jiaqi Feng, Qiuping Wei, Yudong Ning, Zhen Huang, He Lin, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4402328721
+      <title>Global Optimization of a Spin-Crossover Molecule on Monolayer MoS&lt;sub&gt;2&lt;/sub&gt;: Spin Transition-Induced Band Edge Shift</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c02110</link>
+      <description>Yachao Zhang, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402534544
 
                 No abstract</description>
-      <author>Shu Zhao, Yiran Zhang, Linjia Li, Jiaqi Feng, Qiuping Wei, Yudong Ning, Zhen Huang, He Lin</author>
+      <author>Yachao Zhang</author>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02110</guid>
+    </item>
+    <item>
+      <title>Construction of dual sites on FeS2 surface for enhanced electrocatalytic reduction of nitrite to ammonia</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.09.120</link>
+      <description>Heying Li, Xinyue Song, Nana Zhang, Ke Chu, Jingxiang Zhao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4402535516
+
+                No abstract</description>
+      <author>Heying Li, Xinyue Song, Nana Zhang, Ke Chu, Jingxiang Zhao</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.129586</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.120</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic synergies of melt-quenched Ni-Sn-Se-Te nanoalloy for direct seawater electrolysis</title>
+      <link>https://doi.org/10.1016/j.cej.2024.155775</link>
+      <description>John D. Rodney, Sindhur Joshi, Subhasmita Ray, L. Vaikunta Rao, S. Deepapriya, Karel Carva, Badekai Ramachandra Bhat, N.K. Udayashankar, Suresh Perumal, Sadhana Katlakunta, C. Justin Raj, Byung Chul Kim, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4402538290
+
+                No abstract</description>
+      <author>John D. Rodney, Sindhur Joshi, Subhasmita Ray, L. Vaikunta Rao, S. Deepapriya, Karel Carva, Badekai Ramachandra Bhat, N.K. Udayashankar, Suresh Perumal, Sadhana Katlakunta, C. Justin Raj, Byung Chul Kim</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155775</guid>
+    </item>
+    <item>
+      <title>Understanding the evolution of molybdenum-nitrogen doped carbon with long-term durability for efficient oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.cej.2024.155778</link>
+      <description>Xingyu Luo, Bingbao Mei, Ru Feng, Xiaofeng Xu, Zhongyan Zhang, Mingyu Ou, Fanfei Sun, Huajun Zheng, Meiqin Shi, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4402546983
+
+                No abstract</description>
+      <author>Xingyu Luo, Bingbao Mei, Ru Feng, Xiaofeng Xu, Zhongyan Zhang, Mingyu Ou, Fanfei Sun, Huajun Zheng, Meiqin Shi</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155778</guid>
     </item>
     <item>
       <title>Review of External Field Effects on Electrocatalysis: Machine Learning Guided Design</title>

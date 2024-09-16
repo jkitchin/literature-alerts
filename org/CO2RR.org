@@ -1,53 +1,11 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Sep 15 01:24:28 2024
+Created on Mon Sep 16 01:21:11 2024
 
-Found 127 results from 2024-09-08 to 2024-09-15
+Found 131 results from 2024-09-09 to 2024-09-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* A Strongly Coupled Metal/Hydroxide Heterostructure Cascades Carbon Dioxide and Nitrate Reduction Reactions toward Efficient Urea Electrosynthesis  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402329286
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-09-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202410105")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402329286"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402329286"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402329286"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402329286 (Open access: False)
-    
-[[https://openalex.org/A5008017336][Wei Ye]], [[https://openalex.org/A5100449333][Ye Zhang]], [[https://openalex.org/A5100731490][Liang Chen]], [[https://openalex.org/A5006908085][Fangfang Wu]], [[https://openalex.org/A5049900956][Yuanhui Yao]], [[https://openalex.org/A5100392005][Wei Wang]], [[https://openalex.org/A5053629215][Genping Zhu]], [[https://openalex.org/A5028410113][Gan Jia]], [[https://openalex.org/A5017632805][Zhongchao Bai]], [[https://openalex.org/A5101196493][Shi Xue Dou]], [[https://openalex.org/A5042237658][Peng Gao]], [[https://openalex.org/A5100364739][Nana Wang]], [[https://openalex.org/A5007273016][Guoxiu Wang]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202410105 
-     
-The direct coupling of nitrate ions and carbon dioxide for urea synthesis presents an appealing alternative to the Bosch-Meiser process in industry. The simultaneous activation of carbon dioxide and nitrate, however, as well as efficient C-N coupling on single active site, poses significant challenges. Here, we propose a novel metal/hydroxide heterostructure strategy based on synthesizing an Ag-CuNi(OH)2 composite to cascade carbon dioxide and nitrate reduction reactions for urea electrosynthesis. The strongly coupled metal/hydroxide heterostructure interface integrates two distinct sites for carbon dioxide and nitrate activation, and facilitates the coupling of *CO (on silver, where * denotes an active site) and *NH2 (on hydroxide) for urea formation. Moreover, the strongly coupled interface optimizes the water splitting process and facilitates the supply of active hydrogen atoms, thereby expediting the deoxyreduction processes essential for urea formation. Consequently, our Ag-CuNi(OH)2 composite delivers a high urea yield rate of 25.6 mmol gcat.-1 h-1 and high urea Faradaic efficiency of 46.1%, as well as excellent cycling stability. This work provides new insights into the design of dual-site catalysts for C-N coupling, considering their role on the interface.    
-
-    
-
-* A Strongly Coupled Metal/Hydroxide Heterostructure Cascades Carbon Dioxide and Nitrate Reduction Reactions toward Efficient Urea Electrosynthesis  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402332725
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-09-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202410105")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402332725"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402332725"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402332725"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402332725 (Open access: False)
-    
-[[https://openalex.org/A5008017336][Wei Ye]], [[https://openalex.org/A5100449333][Ye Zhang]], [[https://openalex.org/A5100731490][Liang Chen]], [[https://openalex.org/A5006908085][Fangfang Wu]], [[https://openalex.org/A5049900956][Yuanhui Yao]], [[https://openalex.org/A5036934388][Wei Wang]], [[https://openalex.org/A5053629215][Genping Zhu]], [[https://openalex.org/A5028410113][Gan Jia]], [[https://openalex.org/A5017632805][Zhongchao Bai]], [[https://openalex.org/A5101196493][Shi Xue Dou]], [[https://openalex.org/A5042237658][Peng Gao]], [[https://openalex.org/A5100364739][Nana Wang]], [[https://openalex.org/A5007273016][Guoxiu Wang]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202410105 
-     
-The direct coupling of nitrate ions and carbon dioxide for urea synthesis presents an appealing alternative to the Bosch–Meiser process in industry. The simultaneous activation of carbon dioxide and nitrate, however, as well as efficient C–N coupling on single active site, poses significant challenges. Here, we propose a novel metal/hydroxide heterostructure strategy based on synthesizing an Ag‐CuNi(OH)2 composite to cascade carbon dioxide and nitrate reduction reactions for urea electrosynthesis. The strongly coupled metal/hydroxide heterostructure interface integrates two distinct sites for carbon dioxide and nitrate activation, and facilitates the coupling of *CO (on silver, where * denotes an active site) and *NH2 (on hydroxide) for urea formation. Moreover, the strongly coupled interface optimizes the water splitting process and facilitates the supply of active hydrogen atoms, thereby expediting the deoxyreduction processes essential for urea formation. Consequently, our Ag‐CuNi(OH)2 composite delivers a high urea yield rate of 25.6 mmol gcat.–1 h–1 and high urea Faradaic efficiency of 46.1%, as well as excellent cycling stability. This work provides new insights into the design of dual‐site catalysts for C–N coupling, considering their role on the interface.    
-
-    
 
 * An Atomic‐scale Explanation For The High Selectivity Towards Carbon Dioxide Reduction Observed On Liquid Metal Catalysts  :CO2RR:
 :PROPERTIES:
@@ -130,6 +88,27 @@ OpenAlex: https://openalex.org/W4402471165 (Open access: False)
 [[https://openalex.org/A5100321778][Wei Yan]], [[https://openalex.org/A5015188116][Chenpu He]], [[https://openalex.org/A5009402460][Noushad Ullah]], [[https://openalex.org/A5022472965][Youzhi Cao]], [[https://openalex.org/A5016501540][Changwan Zhuang]], [[https://openalex.org/A5100382503][Bing Wang]], [[https://openalex.org/A5100420053][Jianhua Wang]], [[https://openalex.org/A5090365490][Zhe Hu]], [[https://openalex.org/A5053408004][Di Ma]], [[https://openalex.org/A5028592088][Weichun Ye]], [[https://openalex.org/A5101709510][Jinyuan Wang]], Journal of Colloid and Interface Science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.09.105 
      
 No abstract    
+
+    
+
+* The Influence of Heat Treatment on the Photoactivity of Amine-Modified Titanium Dioxide in the Reduction of Carbon Dioxide  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402524757
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials, Porous Crystalline Organic Frameworks for Energy and Separation Applications
+:PUBLICATION_DATE: 2024-09-13
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules29184348")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402524757"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402524757"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402524757"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402524757 (Open access: True)
+    
+[[https://openalex.org/A5075870135][Iwona Pełech]], [[https://openalex.org/A5071487792][Piotr Staciwa]], [[https://openalex.org/A5058790308][Daniel Sibera]], [[https://openalex.org/A5080095633][Konrad S. Sobczuk]], [[https://openalex.org/A5107186482][Wiktoria Majewska]], [[https://openalex.org/A5042774991][Ewelina Kusiak‐Nejman]], [[https://openalex.org/A5018078558][Antoni W. Morawski]], [[https://openalex.org/A5057176376][Kaiying Wang]], [[https://openalex.org/A5082246628][Urszula Narkiewicz]], Molecules. 29(18)] 2024. https://doi.org/10.3390/molecules29184348 
+     
+Modification of titanium dioxide using ethylenediamine (EDA), diethylamine (DEA), and triethylamine (TEA) has been studied. As the reference material, titanium dioxide prepared by the sol–gel method using titanium(IV) isopropoxide as a precursor was applied. The preparation procedure involved heat treatment in the microwave reactor or in the high-temperature furnace. The obtained samples have been characterized in detail. The phase composition was determined through the X-ray diffraction method, and the average crystallite size was calculated based on it. Values for specific surface areas and the total pore volumes were calculated based on the isotherms obtained through the low-temperature nitrogen adsorption method. The bang gap energy was estimated based on Tauc’s plots. The influence of the type and content of amine, as well as heat treatment on the photocatalytic activity of modified titanium dioxide in the photocatalytic reduction of carbon dioxide, was determined and discussed. It was clear that, regardless of the amount and content of amine introduced, the higher photoactivity characterized the samples prepared in the microwave reactor. The highest amounts of hydrogen, carbon monoxide, and methane have been achieved using triethylamine-modified titanium dioxide.    
 
     
 
@@ -238,27 +217,6 @@ Various Cu‐based materials in diverse forms have been investigated as efficien
 
     
 
-* Understanding oxidation state of Cu-based catalysts for electrocatalytic CO2 reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402327514
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Accelerating Materials Innovation through Informatics, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jmst.2024.08.029")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402327514"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402327514"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402327514"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402327514 (Open access: False)
-    
-[[https://openalex.org/A5101473090][Ping Zhu]], [[https://openalex.org/A5047573725][Yan Qin]], [[https://openalex.org/A5045658136][X. Z. Cai]], [[https://openalex.org/A5101514112][Wen‐Min Wang]], [[https://openalex.org/A5009292056][Hua Yin]], [[https://openalex.org/A5077989141][Linlin Zhou]], [[https://openalex.org/A5036233892][Penghui Liu]], [[https://openalex.org/A5100972089][Peng Lü]], [[https://openalex.org/A5100344693][Wenlong Wang]], [[https://openalex.org/A5062521388][Qian-Yuan Wu]], Journal of Material Science and Technology. None(None)] 2024. https://doi.org/10.1016/j.jmst.2024.08.029 
-     
-No abstract    
-
-    
-
 * Reduction Polymerization of CO2 with Phenylene Silanes Cata‐lyzed by Single Component B(C6F5)3  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402489599
@@ -322,6 +280,27 @@ No abstract
 
     
 
+* In-situ exsolved Ni nanoparticles for boosting CO2 reduction in solid oxide electrolysis cell  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402507664
+:TOPICS: Solid Oxide Fuel Cells, Catalytic Nanomaterials, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-09-13
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jpowsour.2024.235456")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402507664"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402507664"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402507664"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402507664 (Open access: False)
+    
+[[https://openalex.org/A5100428795][Tao Chen]], [[https://openalex.org/A5022915696][Fei Shan]], [[https://openalex.org/A5023525219][Lingting Ye]], [[https://openalex.org/A5016445881][Kui Xie]], Journal of Power Sources. 623(None)] 2024. https://doi.org/10.1016/j.jpowsour.2024.235456 
+     
+No abstract    
+
+    
+
 * Cu(I)‐Induced ‘Click Reaction’ Involving Coordination and Covalent Assembly of Hybrid Borates for the Electrocatalytic CO2 Reduction  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402531561
@@ -361,27 +340,6 @@ OpenAlex: https://openalex.org/W4402531493 (Open access: False)
 [[https://openalex.org/A5101731766][Jianbing Chen]], [[https://openalex.org/A5101358316][Yinghua Yu]], [[https://openalex.org/A5014825226][Hai‐Xia Zhang]], [[https://openalex.org/A5100410082][Jian Zhang]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202412073 
      
 The design and synthesis of hybrid borates by the organic ligand modification method are urgent and undeveloped areas of research. It is difficult to directly integrate organoboronic acids within inorganic borate chemistry by adopting the traditional preparation approaches. This work reports a facile synthetic method to synthesize a large family of pyrazole molecule‐protected borates in a rapid and precise manner under mild conditions. A unique cyclic eight‐membered B4O4‐ring has been identified as the cluster core for all these hybrid borates with two different conformations (boat and crown). This strategy can be applied to a system of pyrazolyl molecules to generate such hybrid borates in two independent routes from organoboronic or inorganic boric acids. Furtherly, the mechanism of ‘click reaction’ between boric acid and pyrazole induced by copper ions has been proposed based on the synthetic conditions and the structure of intermediate. Due to the bimetallic Cu sites and the functional surfaces, these materials can be used as electrocatalysts for CO2 reduction reaction and efficiently enhance the selectivity of HCOOH and C2H4. Our strategy can be regarded as a typical template technique for organic molecule‐protected borates.    
-
-    
-
-* Atomically dispersed nickel-bismuth dual-atom sites for high rate electrochemical CO2 reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402330941
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-12-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nantod.2024.102477")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402330941"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402330941"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402330941"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402330941 (Open access: False)
-    
-[[https://openalex.org/A5061324979][Xiaoxiong Huang]], [[https://openalex.org/A5087931512][Shengli Wu]], [[https://openalex.org/A5036575719][Zhichang Xiao]], [[https://openalex.org/A5086661934][Linjie Zhi]], [[https://openalex.org/A5100371335][Sheng Wang]], Nano Today. 59(None)] 2024. https://doi.org/10.1016/j.nantod.2024.102477 
-     
-No abstract    
 
     
 
@@ -553,22 +511,43 @@ No abstract
 
     
 
-* An eco-friendly system of thermally regenerative battery-driven electrochemical CO2 reduction: In-situ harvesting of low-grade heat as electrical power for reducing CO2 emissions of flue gas  :CO2RR:
+* Achieving green synthesis of high-value-added chemicals via N-integrated CO2 co-reduction: a review  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402329047
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-12-01
+:UUID: https://openalex.org/W4402545956
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-09-14
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.enconman.2024.119029")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s12598-024-02954-9")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402329047"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402329047"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402329047"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402545956"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402545956"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402545956"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402329047 (Open access: False)
+OpenAlex: https://openalex.org/W4402545956 (Open access: False)
     
-[[https://openalex.org/A5003465082][S.J. Li]], [[https://openalex.org/A5101249099][Zhenchong Xiao]], [[https://openalex.org/A5101986057][Yu Shi]], [[https://openalex.org/A5100425267][Liang Zhang]], [[https://openalex.org/A5100361782][Jun Li]], [[https://openalex.org/A5102018727][Zhuo Li]], [[https://openalex.org/A5100714863][Xun Zhu]], [[https://openalex.org/A5100409446][Qiang Liao]], Energy Conversion and Management. 321(None)] 2024. https://doi.org/10.1016/j.enconman.2024.119029 
+[[https://openalex.org/A5100398360][Zhichao Wang]], [[https://openalex.org/A5100644544][Sisi Liu]], [[https://openalex.org/A5070744215][Yanzheng He]], [[https://openalex.org/A5023123685][Yuzhuo Jiang]], [[https://openalex.org/A5079957444][Yunfei Huan]], [[https://openalex.org/A5059545154][Qiyang Cheng]], [[https://openalex.org/A5102690175][Cheng-Tao Yang]], [[https://openalex.org/A5100627066][Mengfan Wang]], [[https://openalex.org/A5009136959][Chenglin Yan]], [[https://openalex.org/A5009208811][Tao Qian]], Rare Metals. None(None)] 2024. https://doi.org/10.1007/s12598-024-02954-9 
+     
+No abstract    
+
+    
+
+* Bismuth oxide nanoflakes grown on defective microporous carbon endows high-efficient CO2 reduction at ampere level  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402537824
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion
+:PUBLICATION_DATE: 2024-09-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.09.116")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402537824"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402537824"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402537824"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402537824 (Open access: False)
+    
+[[https://openalex.org/A5104200742][Minjun Zhou]], [[https://openalex.org/A5100747197][Zhihao Guo]], [[https://openalex.org/A5048215639][Mingwang Wang]], [[https://openalex.org/A5043816342][Dewen Song]], [[https://openalex.org/A5006048658][Rui Zhou]], [[https://openalex.org/A5042781473][Quansheng Liu]], [[https://openalex.org/A5100328261][Shuai Wang]], [[https://openalex.org/A5066131031][Boshi Zheng]], [[https://openalex.org/A5100612567][Xiaoshan Wang]], [[https://openalex.org/A5032437864][Hui Ning]], [[https://openalex.org/A5063554744][Mingbo Wu]], Journal of Colloid and Interface Science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.09.116 
      
 No abstract    
 
@@ -737,27 +716,6 @@ No abstract
 OpenAlex: https://openalex.org/W4402398997 (Open access: False)
     
 , No host. None(None)] 2024. https://doi.org/10.1039/d4ta04145c/v2/review1 
-     
-No abstract    
-
-    
-
-* A Dft Study on the Structural Properties and Co2 Electrocatalytic Reduction Activity of Monolayer Graphitic Carbon Nitride Supported Ag/Au Single Atom Catalysts  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402331817
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4949570")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402331817"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402331817"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402331817"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402331817 (Open access: False)
-    
-[[https://openalex.org/A5081679759][Hui-Ling Shui]], [[https://openalex.org/A5037438524][G. S. Li]], [[https://openalex.org/A5002675645][Chao Fu]], [[https://openalex.org/A5089677738][Dong-Heng Li]], [[https://openalex.org/A5047708304][Xiaoqin Liang]], [[https://openalex.org/A5024867236][Laicai Li]], [[https://openalex.org/A5035956405][Yan Zheng]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4949570 
      
 No abstract    
 
@@ -1393,27 +1351,6 @@ The cardiovascular system interacts continuously with the respiratory system to 
 
     
 
-* Reducing CO2 Emissions by Off-Grid Photovoltaic Systems: A Case Study in the Departamento del Magdalena - Colombia  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402334455
-:TOPICS: Indoor Air Pollution in Developing Countries
-:PUBLICATION_DATE: 2024-09-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.32479/ijeep.15750")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402334455"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402334455"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402334455"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402334455 (Open access: True)
-    
-[[https://openalex.org/A5053935998][Carlos Robles-Algarín]], [[https://openalex.org/A5075683719][Diego Restrepo-Leal]], [[https://openalex.org/A5107058737][Maryam Carrillo-Reales]], International Journal of Energy Economics and Policy. 14(5)] 2024. https://doi.org/10.32479/ijeep.15750 
-     
-This paper presents projections on the reduction of CO2 emissions through the implementation of off-grid PV systems on 33 farms located in rural areas of the Departamento del Magdalena, where horticultural activities are performed by small local producers. To achieve this, the emission reduction was estimated for a period of 25 years using the installed PV peak power on each farm, data from the Global Solar Atlas, the emission factor in Colombia for electricity generation and information established in the harmonization project of the National Renewable Energy Laboratory (NREL). In order to compare the estimations, temperature and solar irradiance data were obtained from 10 farms near the installations, located in 8 municipalities within the department. With these data and through mathematical modeling, the energy generated by each PV system and the projection of non-emitted CO2 emissions were calculated. The results obtained demonstrated that, in both cases, the projections for emission reduction are similar, highlighting that the municipalities of Ciénaga and Sitio Nuevo contribute the highest amount of saved CO2 due to the projections of higher energy production in these locations.    
-
-    
-
 * l-Lactate dehydrogenase from Cyanidioschyzon merolae shows high catalytic efficiency for pyruvate reduction and is inhibited by ATP  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402407183
@@ -1663,6 +1600,27 @@ OpenAlex: https://openalex.org/W4402396017 (Open access: True)
 [[https://openalex.org/A5006947896][Xenaneira Shodrokova]], [[https://openalex.org/A5050723592][Anna Yulianita]], [[https://openalex.org/A5074601879][Abdul Bashir]], Journal of Applied Economic Research. 23(3)] 2024. https://doi.org/10.15826/vestnik.2024.23.3.024 
      
 The phenomenon of economic globalization (EG) has a significant impact on CO2 emissions in emerging countries. This research seeks to examine the influence of EG and renewable energy consumption (REC) on CO2 emissions by utilizing secondary data from the World Bank spanning the years 2000 to 2022. The study hypothesizes that EG contributes to higher CO2 emissions, whereas the REC leads to a reduction in CO2 emissions. This study uses the Data Regression Results Panel with a Random Effect Model to analyze the data. The results show that EG contributes to economic growth accompanied by increased CO2 emissions. Rapid increases in economic activity and industrialization, often driven by FDI and international trade, lead to increased use of fossil energy and CO2 emissions. These findings support the pollution haven hypothesis that suggests that high-polluting production tends to move to countries with looser environmental regulations. However, the study also found that increased REC is associated with a decrease in CO2 emissions. The theoretical significance of the results of this study shows that while EG can drive economic growth, it also has a negative impact on the environment. In practical terms, this research underscores the necessity for policies that promote the use of renewable energy, enhance energy efficiency, and enforce stringent environmental regulations to mitigate the adverse environmental effects of economic globalization. Measures such as the promotion of renewable energy, the transfer of green technologies, increasing public awareness of environmental sustainability, diversifying the economy into greener sectors, and developing green infrastructure are essential.    
+
+    
+
+* In Situ Fabrication of Plasmonic Bi@Bi2O2CO3 Core-Shell Heterostructure for Photocatalytic CO2 Reduction: Structural Insights into Selectivity Modulation  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402542556
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dt02203c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402542556"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402542556"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402542556"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402542556 (Open access: False)
+    
+[[https://openalex.org/A5034556726][Yannan Zhou]], [[https://openalex.org/A5062871552][Jingyun Jiang]], [[https://openalex.org/A5101417710][Hang Yin]], [[https://openalex.org/A5084707037][Shouren Zhang]], Dalton Transactions. None(None)] 2024. https://doi.org/10.1039/d4dt02203c 
+     
+The precise design of active sites and light absorbers is essential in developing highly efficient photocatalysts for CO2 reduction. Core-shell heterostructures constructed based on large-sized plasmonic Bi metals are ideal...    
 
     
 
@@ -1921,7 +1879,7 @@ The increase in atmospheric CO2 concentrations triggers a transient response in 
 * Highly Stable Propane Dehydrogenation on a Self‐supporting Single‐component Zn2SiO4 Catalyst  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402513873
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Mesoporous Materials, Zeolite Chemistry and Catalysis
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Zeolite Chemistry and Catalysis
 :PUBLICATION_DATE: 2024-09-13
 :END:    
     
@@ -1936,6 +1894,27 @@ OpenAlex: https://openalex.org/W4402513873 (Open access: False)
 [[https://openalex.org/A5046455995][Zhaohui Liu]], [[https://openalex.org/A5017570533][Min Mao]], [[https://openalex.org/A5072242008][Tie Shu]], [[https://openalex.org/A5068697796][Qingpeng Cheng]], [[https://openalex.org/A5100407439][Dong Liu]], [[https://openalex.org/A5100743393][Jianjian Wang]], [[https://openalex.org/A5056995430][Yun Zhao]], [[https://openalex.org/A5062345838][Lingmei Liu]], [[https://openalex.org/A5100462720][Yu Han]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202413297 
      
 Current industrial propane dehydrogenation (PDH) processes predominantly use either toxic Cr‐based or expensive Pt‐based catalysts, necessitating urgent exploration for alternatives. Herein, we present Zn2SiO4, an easily prepared, cost‐effective material, as a highly efficient and stable catalyst for PDH. Uniquely, Zn2SiO4 nanocrystals do not require dispersion on support materials, commonly needed for catalytic active oxide clusters, but function as a self‐supporting catalyst instead. During the reaction's induction period, surface Zn species on the Zn2SiO4 crystal reduce to coordinately unsaturated ZnOx single sites, serving as highly active catalytic centers. The Zn2SiO4 catalyst demonstrates a stable performance over 200 hours of PDH operation at 550 °C. We further find that introducing a minuscule amount of CO2 into the propane feed significantly extends the catalyst lifespan to over 2000 hours. This enhancement arises from the special role of CO2 in facilitating the removal of strongly adsorbed H*, preventing the complete reduction of ZnOx. After prolonged reaction, the activity of Zn2SiO4 can be fully restored by etching the surface layer to expose fresh Zn species, available throughout the crystals. The combination of CO2 introduction and catalytic site regeneration strategies is expected to enable a year‐long PDH operation using a single batch of Zn2SiO4 catalyst.    
+
+    
+
+* Design and production of a mini-turbo reactor and study of its dual-fuel (gas-hydrogen) operation  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402542223
+:TOPICS: Catalytic Nanomaterials, Hydrogen Energy Systems and Technologies, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2024-09-13
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.46932/sfjdv5n9-019")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402542223"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402542223"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402542223"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402542223 (Open access: False)
+    
+[[https://openalex.org/A5027004342][Adel Miles]], [[https://openalex.org/A5064835796][A. Bouchoucha]], [[https://openalex.org/A5082386239][Driss Bendjaballah]], South Florida Journal of Development. 5(9)] 2024. https://doi.org/10.46932/sfjdv5n9-019 
+     
+The objective of this research was to investigate the effects of hydrogen injection on the performance of a mini turbo reactor. To achieve this, an experimental test bench was constructed, incorporating a specially designed mini turbo reactor capable of operating on various fuel mixtures and a dry cell electrolyzer for on-site hydrogen production. A comprehensive testing campaign was conducted, comparing the mini turbo reactor performance when fueled with pure propane and a propane-hydrogen blend at varying concentrations. Parameters evaluated included power output, thermal efficiency, fuel mass flow rate, flame temperatures, and pollutant emissions (CO, CO2, NOx). The experimental results unequivocally demonstrated that the addition of hydrogen to propane significantly enhances the mini turbo reactor specific power while concurrently reducing CO and CO2 emissions. Furthermore, data analysis revealed an improvement in the thermal efficiency of the cycle, suggesting potential reductions in specific fuel consumption. These findings highlight the promising potential of hydrogen injection as a strategy to enhance the performance and environmental impact of mini turbo reactor.    
 
     
 
@@ -2023,27 +2002,6 @@ Summary Wettability alteration commonly occurs in subsurface two-phase displacem
 
     
 
-* Synthesis and properties of catalytic chemisorbents based on titanium oxide  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402351025
-:TOPICS: Materials Science and Technology
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.14529/chem240109")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402351025"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402351025"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402351025"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402351025 (Open access: True)
-    
-[[https://openalex.org/A5047400708][N E Sal'nikova]], [[https://openalex.org/A5026713106][Evgeny Smirnov]], [[https://openalex.org/A5060835159][Д. А. Прозоров]], [[https://openalex.org/A5032649526][Andrey V. Afineevskiy]], [[https://openalex.org/A5015462576][Д. А. Смирнов]], [[https://openalex.org/A5057517511][Kirill Nikitin]], Bulletin of the South Ural State University series Chemistry. 16(1)] 2024. https://doi.org/10.14529/chem240109 
-     
-In this work, we studied the synthesis and properties of catalytic chemisorbents based on titanium dioxide with additions of ZnO and γ-Al2O3. The goal was to obtain chemisorbents with desired performance characteristics and evaluate their potential in destructive hydrogenation of organo-sulfur compounds. Their sulfur capacity and hydrogenating capacity were measured by the static method with carbon disulfide absorption. Textural and morphological characteristics were deter-mined with the use of X-ray phase analysis, low-temperature nitrogen adsorption/desorption, and scanning electron microscopy. It was also found that addition of alumina did not give additional reflections on the X-ray pattern, in contrast to introduction of zinc oxide. It was found that addi-tion of zinc oxide significantly increased the values of the specific surface area, many times more than expected, according to additivity principle. Conversely, addition of alumina did not give the expected increase in surface area. The one and the other were explained through active interaction of phases. The ratios of components for obtaining chemisorbents with optimal strength properties were established. It was found that a composite consisting of titanium and aluminum oxides was more resistant to sulfurization than one with additions of zinc oxide. SEM and low-temperature ni-trogen adsorption/desorption methods confirmed the mesoporous structure of the studied samples, while the sample containing gamma alumina showed a more pronounced desorption branch to-gether with the surface consisting of spherical formations arranged in a regular order. The sample with zinc oxide had slit-like pores in its volume. Hydrogenation of thiophene with gaseous hydro-gen was carried out for the studied composites. Chromatographic analysis of the resulting product was performed. It was proven that composites based on titanium, zinc, and aluminum oxides not only had sorption properties with respect to organosulfur compounds, but also catalyzed their de-structive hydrogenation. Thus, it was established that the studied samples were chemisorbents. The study provides insight into synthesis and properties of catalytic titania-based chemisorbents, high-lighting the influence of additives and their potential for organosulfur reduction reactions.    
-
-    
-
 * Co-Precipitation Synthesized Ag-Doped Ceria Redox Material (ACRM) for the Thermochemical Conversion of CO2 into Solar Fuels  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402515786
@@ -2062,6 +2020,27 @@ OpenAlex: https://openalex.org/W4402515786 (Open access: True)
 [[https://openalex.org/A5021608775][Gorakshnath Takalkar]], [[https://openalex.org/A5102536223][Sayma Akhter]], [[https://openalex.org/A5027288897][Rahul R. Bhosale]], Applied Sciences. 14(18)] 2024. https://doi.org/10.3390/app14188272 
      
 In this investigation, an effort was made to introduce Ag into the CeO2 fluorite crystal lattice to form Ce0.99Ag0.01O2-δ (ACRM) using an ammonium hydroxide-assisted co-precipitation method. The resulting powder obtained after the co-precipitation reaction, filtration, and drying was annealed at 800 °C in a muffle furnace to obtain crystalline ACRM. The phase composition and microstructure of the synthesized ACRM were analyzed using a powder X-ray diffractometer (PXRD) and a scanning electron microscope (SEM). The characterized ACRM powder was then subjected to multiple thermochemical thermal reduction (TR) and CO2 splitting (CDS) cycles using a high-temperature thermogravimetric analyzer (TGA). The TR step was conducted using Ar gas as an inert atmosphere, maintaining the temperature at 1400 °C for 60 min. Subsequently, the same powder was subjected to the CDS step by treating it with a gaseous mixture of 50% CO2 and Ar gas at 1000 °C for 30 min. ACRM displayed stable redox reactivity towards thermochemical CDS cycles by generating an average of 50.9 μmol of O2/g·cycle and 101.6 μmol of CO/g·cycle, respectively, over 10 thermochemical cycles.    
+
+    
+
+* Synthesis and properties of catalytic chemisorbents based on titanium oxide  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402351025
+:TOPICS: Materials Science and Technology
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.14529/chem240109")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402351025"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402351025"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402351025"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402351025 (Open access: True)
+    
+[[https://openalex.org/A5047400708][N E Sal'nikova]], [[https://openalex.org/A5026713106][Evgeny Smirnov]], [[https://openalex.org/A5060835159][Д. А. Прозоров]], [[https://openalex.org/A5032649526][Andrey V. Afineevskiy]], [[https://openalex.org/A5015462576][Д. А. Смирнов]], [[https://openalex.org/A5057517511][Kirill Nikitin]], Bulletin of the South Ural State University series Chemistry. 16(1)] 2024. https://doi.org/10.14529/chem240109 
+     
+In this work, we studied the synthesis and properties of catalytic chemisorbents based on titanium dioxide with additions of ZnO and γ-Al2O3. The goal was to obtain chemisorbents with desired performance characteristics and evaluate their potential in destructive hydrogenation of organo-sulfur compounds. Their sulfur capacity and hydrogenating capacity were measured by the static method with carbon disulfide absorption. Textural and morphological characteristics were deter-mined with the use of X-ray phase analysis, low-temperature nitrogen adsorption/desorption, and scanning electron microscopy. It was also found that addition of alumina did not give additional reflections on the X-ray pattern, in contrast to introduction of zinc oxide. It was found that addi-tion of zinc oxide significantly increased the values of the specific surface area, many times more than expected, according to additivity principle. Conversely, addition of alumina did not give the expected increase in surface area. The one and the other were explained through active interaction of phases. The ratios of components for obtaining chemisorbents with optimal strength properties were established. It was found that a composite consisting of titanium and aluminum oxides was more resistant to sulfurization than one with additions of zinc oxide. SEM and low-temperature ni-trogen adsorption/desorption methods confirmed the mesoporous structure of the studied samples, while the sample containing gamma alumina showed a more pronounced desorption branch to-gether with the surface consisting of spherical formations arranged in a regular order. The sample with zinc oxide had slit-like pores in its volume. Hydrogenation of thiophene with gaseous hydro-gen was carried out for the studied composites. Chromatographic analysis of the resulting product was performed. It was proven that composites based on titanium, zinc, and aluminum oxides not only had sorption properties with respect to organosulfur compounds, but also catalyzed their de-structive hydrogenation. Thus, it was established that the studied samples were chemisorbents. The study provides insight into synthesis and properties of catalytic titania-based chemisorbents, high-lighting the influence of additives and their potential for organosulfur reduction reactions.    
 
     
 
@@ -2275,6 +2254,27 @@ To know the sustainable performance of calcium-based adsorbents is one of the im
 
     
 
+* Evaluating Engine Performance, Emissions, Noise, and Vibration: A Comparative Study of Diesel and Biodiesel Fuel Mixture  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402501667
+:TOPICS: Technical Aspects of Biodiesel Production, Chemical Kinetics of Combustion Processes, Heat Transfer to Supercritical Fluids in Channels
+:PUBLICATION_DATE: 2024-09-10
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.30939/ijastech..1495167")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402501667"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402501667"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402501667"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402501667 (Open access: True)
+    
+[[https://openalex.org/A5076498289][Mahmut İnce]], [[https://openalex.org/A5051931244][Samet Çelebi]], [[https://openalex.org/A5010021693][Üsame Demir]], [[https://openalex.org/A5001979588][Can HAŞİMOĞLU]], International Journal of Automotive Science And Technology. None(None)] 2024. https://doi.org/10.30939/ijastech..1495167 
+     
+This study investigates the performance, emissions, noise, and vibration characteristics of a single-cylinder, air-cooled, four-stroke diesel engine running on pure diesel (D100) and biodiesel blends (B10: 90% diesel, 10% biodiesel; B20: 80% diesel, 20% biodiesel) at 1800 rpm, where the engine delivers maximum torque. Key metrics such as torque, power, brake specific fuel consumption (BSFC), exhaust gas temperature, noise, vibration, and emissions (CO, CO2, HC, O2, NOx, and smoke opacity) were analyzed. The findings indicate that B10 enhances torque, power output, and overall fuel efficiency, especially at low to medium loads, with a significant 17.54% reduction in BSFC compared to D100 at 40% engine load. Vibration levels generally increased with biodiesel addition, while B10 and B20 both reduced smoke opacity, with B20 having a more substantial effect. HC emissions decreased at idle with B10 but increased at higher loads, suggesting more complete combustion with potential thermal stress on engine components. Noise and vibration results were mixed; B20 reduced noise at higher loads but increased vibration. At 100% load, B20 decreased noise by 1.42% compared to D100. Despite benefits such as improved torque and reduced particulate emissions, biodiesel blends, particularly B20, led to increased NOx and CO2 emissions, emphasizing the need for further op-timization of blend formulations and emission control strategies. This study provides valuable insights into the tradeoffs and potential of biodiesel blends as sustainable diesel alternatives.    
+
+    
+
 * Maximizing Value Through the Adoption of Technologies to Ensure Near Zero Methane Emissions  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402397573
@@ -2317,6 +2317,27 @@ Understanding the dynamics of physiological changes involved in the acclimation 
 
     
 
+* 178 Programing the rumen microbiome to optimize microbial efficiency in high forage diets  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402533540
+:TOPICS: Evolution and Ecology of Endophyte-Grass Symbiosis, Nutritional Strategies for Ruminant Health and Production
+:PUBLICATION_DATE: 2024-09-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/jas/skae234.452")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402533540"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402533540"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402533540"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402533540 (Open access: False)
+    
+[[https://openalex.org/A5042633786][Tim A. McAllister]], [[https://openalex.org/A5024027277][Robert J. Gruninger]], [[https://openalex.org/A5066121621][Stephanie A. Terry]], [[https://openalex.org/A5008528352][Ajay Badhan]], [[https://openalex.org/A5100417669][Yan Wang]], [[https://openalex.org/A5103913057][Leluo Guan]], Journal of Animal Science. 102(Supplement_3)] 2024. https://doi.org/10.1093/jas/skae234.452 
+     
+Abstract As the majority of energy and protein supplied to cattle arises as a result of ruminal fermentation, the rumen microbiome has an integral role in determining host feed efficiency. Counterintuitively, current evidence suggests that a less diverse rumen microbiome is associated with improved feed efficiency, possibly as a result of greater metabolic precision and avoidance of energy spilling fermentative pathways. The composition of the rumen microbiome is mainly determined by diet, but host traits such as rumen volume, rate of passage, rumination and immunity also have influence. Although less microbial diversity may improve feed efficiency in cattle fed a specific diet, reduced diversity may impair the ability of cattle to adapt to frequent changes in diet and the environment. Hydrogen exchange and capture is the energetic foundation of the rumen microbiome and considerable capital has been invested to develop additives that redirect hydrogen flow away from the reduction of CO2 to CH4 towards alternative sinks. These additives have been shown to reduce enteric CH4 emissions by 30 to 80%, but improvements in feed efficiency have been less than stoichiometric predictions. Approaches to improve the feed efficiency of cattle need to be multifaceted with consideration for host genetics, functional efficiency of the rumen microbiome, and the structure and composition of feed. Likewise, reductions in carbon emissions need to be broader than just CH4, with an appreciation of the role that cattle have within a circular bioeconomy to promote upcycling of nutrients and reductions in emissions from farming systems. Strategies to improve the efficiency of cattle production are a prerequisite for the sustainable intensification needed to ensure that the social license for milk and meat production from cattle is retained.    
+
+    
+
 * An attempt towards ferrochromium production using molten oxide electrolysis  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402383082
@@ -2335,6 +2356,27 @@ OpenAlex: https://openalex.org/W4402383082 (Open access: False)
 [[https://openalex.org/A5028011922][Jhuma Biswas]], [[https://openalex.org/A5002158256][Lassi Klemettinen]], [[https://openalex.org/A5074938051][Dmitry Sukhomlinov]], [[https://openalex.org/A5071088948][W Malan]], [[https://openalex.org/A5077840166][Daniel M. Lindberg]], No host. None(None)] 2024. https://doi.org/10.62053/njrr1937 
      
 In order to mitigate the effects of climate change, our society must be able to drastically reduce its CO2 emissions. As the metallurgical industry is a considerable contributor to these emissions, new greener technologies must be invented and developed. One option could be the direct production of metals from oxides using renewable electricity. The aim of this study was to investigate the possibility of using high-temperature molten oxide electrolysis (MOE) for iron and ferrochrome production. FactSage™, ver 8.2 (by Thermfact Ltd and GTT-Technologies) was utilised for estimating a feasible equilibrium electrolyte composition, and the experiments were conducted at 1550–1580°C in conical alumina crucibles with iridium wire as the cathode and platinum wire as the anode. The sources of iron and chromium were either pure FeO powder or industrial chromite pellets. Voltage was applied to the electrolysis cell for 6 hrs and the resulting current was measured, along with oxygen concentration in the off-gas line. The electrolyte comprised of SiO2, Al2O3, MgO and CaO. First, the effect of FeO concentration on iron reduction efficiency was investigated using only pure oxide powders as starting materials. The results indicated that 10 wt per cent FeO mixed with the electrolyte resulted in more efficient iron reduction compared to 20 wt per cent. In further experiments, industrial chromite pellets were ground and mixed with the CaO-free electrolyte. Iron and chromium reduction efficiencies were higher when approximately 19 wt per cent of the total sample mass consisted of pellets compared to increasing the pellet amount to 37 wt per cent. Generally, the chromium solubility in the liquid electrolyte was relatively low, and most of the chromium was confined to the spinel solid solution, from where its dissolution to the liquid electrolyte was very slow, resulting in slow reduction kinetics. For larger scale applications, economically more viable electrode materials should be investigated.    
+
+    
+
+* 301 Leveraging genomics to advance the breeding of Canadian livestock  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402541296
+:TOPICS: Genomic Selection in Plant and Animal Breeding, Transgenic Animal Research
+:PUBLICATION_DATE: 2024-09-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/jas/skae234.208")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402541296"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402541296"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402541296"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402541296 (Open access: False)
+    
+[[https://openalex.org/A5022761939][Emily M. Leishman]], [[https://openalex.org/A5107201502][Ricarda E Jahnel]], [[https://openalex.org/A5061707939][Alexandra Harlander]], [[https://openalex.org/A5055385919][Owen W Willems]], [[https://openalex.org/A5053930007][Benjamin J. Wood]], [[https://openalex.org/A5040685692][Shai Barbut]], [[https://openalex.org/A5016372019][Flávio S. Schenkel]], [[https://openalex.org/A5057941566][F. Miglior]], [[https://openalex.org/A5056526860][R. Gervais]], [[https://openalex.org/A5059930476][Paul Stothard]], [[https://openalex.org/A5019770270][Christine F. Baes]], Journal of Animal Science. 102(Supplement_3)] 2024. https://doi.org/10.1093/jas/skae234.208 
+     
+Abstract Implementing breeding strategies for a more sustainable food system is one of the most pressing topics for livestock industries. Although different species face different challenges, large-scale research projects can pave the way for future opportunities in these key sectors. Herein, we present two examples (dairy and poultry) of how research projects can result in meaningful changes to commercial breeding programs. The first example is an international large-scale dairy project, which will deliver a roadmap for greenhouse gas (GHG) management using genomics and nutrition. The project aims to facilitate a 55% reduction in GHG emissions from Canadian dairy at an estimated value of $338M CAD. This systems-level approach will leverage resources developed through previous and current large-scale projects to produce accurate multi-level emission estimates and identify opportunities to mitigate enteric GHG emissions. The results of this project will provide accurate, reliable, and robust data for industry stakeholders, national policy, and GHG inventories. The second example is a research collaboration with a commercial turkey breeding company that will enable breeding strategies for long-term and sustainable genetic improvement in health traits. This project aims to reduce preslaughter mortality by 5% and condemnations due to myopathies and health issues. This reduction alone is expected to result in 7.5M kg more turkey meat at a value of $19.8M CAD. Furthermore, there is also an expected reduction of 2.3M kg of CO2 equivalent per year for each 1% livability improvement due to production efficiencies and reduced inputs wasted for more sustainable and ethical meat production. Overall, ongoing and future research initiatives will continue to deliver solutions for key Canadian livestock sectors to improve animal health and welfare as well as efficiency and sustainability. The strides made in these ongoing collaborative projects are imperative for enhancing the sustainability of animal agriculture to feed the growing population.    
 
     
 
@@ -2440,6 +2482,27 @@ OpenAlex: https://openalex.org/W4402373528 (Open access: True)
 [[https://openalex.org/A5022583792][Xiaohuang Liu]], [[https://openalex.org/A5100549151][Zijing Xue]], [[https://openalex.org/A5102743580][Jiufen Liu]], [[https://openalex.org/A5101461438][Xiaofeng Zhao]], [[https://openalex.org/A5101656779][Yanguang Fu]], [[https://openalex.org/A5055365221][Ran Wang]], [[https://openalex.org/A5100887358][Xinping Luo]], [[https://openalex.org/A5103137651][Liyuan Xing]], [[https://openalex.org/A5100407006][Chao Wang]], [[https://openalex.org/A5100598686][Honghui Zhao]], Land. 13(9)] 2024. https://doi.org/10.3390/land13091454 
      
 The increase in atmospheric CO2 leads to global warming and ecological environment deterioration. Carbon storage modeling and assessment can promote the sustainable development of the ecological environment. This paper took Xinjiang as the study area, analyzed the spatial and temporal evolution of land use in four periods from 1990 to 2020, explored the spatial relationship of carbon stocks using the InVEST model, and coupled the GMOP model with the PLUS model to carry out multiple scenarios for the future simulation of land use in the study area. We found (1) Over time, the types with an increasing area were mainly impervious and cropland, and the types with a decreasing area were grassland, snow/ice, and barren; spatially, the types were predominantly barren and grassland, with the conversion of grassland to cropland being more evident in the south of Northern Xinjiang and north of Southern Xinjiang. (2) The evolutionary pattern of terrestrial carbon stocks is increasing and then decreasing in time, and the carbon sink areas are concentrated in the Tarim River Basin and the vicinity of the Ili River; spatially, there are differences in the aggregation between the northern, southern, and eastern borders. By analyzing the transfer in and out of various categories in Xinjiang over the past 30 years, it was obtained that the transfer out of grassland reduced the carbon stock by 5757.84 × 104 t, and the transfer out of Barren increased the carbon stock by 8586.12 × 104 t. (3) The land use layout of the sustainable development scenario is optimal under the conditions of satisfying economic and ecological development. The reduction in terrestrial carbon stocks under the 2020–2030 sustainable development scenario is 209.79 × 104 t, which is smaller than the reduction of 830.79 × 104 t in 2010–2020. Land optimization resulted in a lower loss of carbon stocks and a more rational land-use layout. Future planning in Xinjiang should be based on sustainable development scenarios, integrating land resources, and achieving sustainable economic and ecological development.    
+
+    
+
+* The environmental impact of a malaria clinical trial in Mali: Life cycle assessment reveals high emissions due to international travel and local electricity use and identifies opportunities for sustainable improvement  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402503927
+:TOPICS: Indoor Air Pollution in Developing Countries
+:PUBLICATION_DATE: 2024-09-13
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.31223/x5sh8r")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402503927"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402503927"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402503927"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402503927 (Open access: False)
+    
+[[https://openalex.org/A5080694704][Merel Smit]], [[https://openalex.org/A5103136730][Almahamoudou Mahamar]], [[https://openalex.org/A5072042297][E. Kooistra]], [[https://openalex.org/A5077345144][Kjerstin Lanke]], [[https://openalex.org/A5037712899][Koualy Sanogo]], [[https://openalex.org/A5107179868][Patrick Wilikpan Okedy]], [[https://openalex.org/A5049277835][Mohamed Yehia]], [[https://openalex.org/A5037076197][Chris Drakeley]], [[https://openalex.org/A5035089274][Hugo Touw]], [[https://openalex.org/A5102878975][William J. Stone]], [[https://openalex.org/A5009423673][Alassane Dicko]], [[https://openalex.org/A5036396443][Teun Bousema]], [[https://openalex.org/A5107179867][Tim Stobernack]], No host. None(None)] 2024. https://doi.org/10.31223/x5sh8r 
+     
+Climate change may be the single largest threat facing humanity and ecosystems, necessitating decarbonization across all sectors, including healthcare and academia. With the aim of informing and supporting sustainable research practices, we performed a life cycle assessment of a clinical trial conducted in Mali. The trial involved 80 malaria-infected participants in Ouélessébougou who were treated with antimalarials and followed for 28 days to determine their clinical and transmission-blocking efficacy. Data on consumables, transportation, travel, and electricity use were collected in Mali and the Netherlands, where additional laboratory analyses and sample storage occurred. Data were analysed using the ReCiPe 2016 method for midpoint impact assessment. The trial involved 3 intercontinental shipments of materials and samples, 59,900 km of travel by research staff, and ~55 kg of plastics. Trial conduct and reporting resulted in 20.5 metric tonnes of CO2-equivalent (CO2e) emissions. Major contributors were international travel (50%), electricity in Mali (28%), and air-transportation (14%). Laboratory consumables, while contributing up to 22% of the trial’s impact on land and water use, were less important sources of emissions (2% of CO2e). Whereas the electricity mix in Mali, ~60% fossil-fuel-based, was disadvantageous for the carbon footprint, laboratory analyses in the Netherlands benefited from 100% wind energy, resulting in a minor overall contribution to emissions (&lt;1%). We observed no loss in stability of parasite genetic material (mRNA) in protective buffers when stored for 12 months at -20°C, compared to conventional -70°C. These results form a foundation for improving the environmental sustainability of clinical trials in Africa. Switching to energy-efficient equipment settings could reduce electricity consumption by over 30%. Implementing solar panels in the Mali laboratory would reduce CO2e emissions by 28%. Immediate CO2e reductions can be achieved through online conference attendance and alternative sample transportation, which would contribute an additional 10% CO2e reduction.    
 
     
 
@@ -2629,6 +2692,27 @@ OpenAlex: https://openalex.org/W4402487962 (Open access: True)
 [[https://openalex.org/A5043574937][F. O. Ojo]], [[https://openalex.org/A5057577752][Erkay Özgör]], Tropical Journal of Pharmaceutical Research. 23(6)] 2024. https://doi.org/10.4314/tjpr.v23i6.5 
      
 Purpose: To determine the bioactive compounds in Moringa oleifera (MO) and Acanthospermum hispidum (AH) with antioxidant, anticancer, antifungal and antibacterial potentials. Methods: Fresh leaves of these plants were collected from Akinmoorin and Awe, Oyo State, Nigeria. Particle-induced x-ray emission (PIXE) technique was performed using a 2.5MeV proton beam (a non-destructive elemental analysis). Phytochemicals were qualitatively analyzed using High-performance liquid chromatography (HPLC), gas chromatographic-mass spectrophotometer (GC-MS) and standard procedures. Disc diffusion method was used to determine the minimum inhibitory concentration (MIC) for fungi and bacteria. Antioxidant properties were carried out by DPPH radical scavenging activity. Cancer cells (MDAMB 231 and HTC 15) were cultivated in the presence of the extracts at body temperature with 5 % CO2 and 95 % air in 100 % relative humidity. Thereafter, adherent cells were seeded and treated with increasing concentrations of the plant extracts for 48 – 72 h. Results: Phytochemical analysis showed that both plants contain alkaloids, flavonoids, anthraquinones, steroids and terpenoids, saponins, tannins, phenols and glycosides. The MIC for MO on fungi was 21.0 and 12.0 mg/mL for AH. Furthermore, MO MIC for bacteria was 25.25 mg/mL and 9.75 mg/mL for AH. Antioxidant properties revealed MO having 80.02 % and AH, 76 % at 32.00 µL. The ethanolic extracts showed a 50 % reduction in cancer cell viability at 24.5 μg/mL for MO and 16.0 μg/mL for AH, respectively, on MDAMB 231 and HTC 15 cells. Conclusion: Moringa oleifera (MO) and Acanthospermum hispidum (AH) extracts exhibit significant antioxidant, antitumor, antifungal and antibacterial activities. Further studies will require that the active constituents be isolated and formulated into suitable dosage forms.    
+
+    
+
+* 379 Application of an energy and nutrient matrix to a diet supplemented with a novel phytase achieved a production and sustainability benefit in pigs  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402541986
+:TOPICS: Significance of Phytic Acid in Nutrition and Agriculture, Animal Nutrition and Gut Health, Sustainable Diets and Environmental Impact
+:PUBLICATION_DATE: 2024-09-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/jas/skae234.284")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402541986"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402541986"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402541986"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402541986 (Open access: False)
+    
+[[https://openalex.org/A5002513434][Deepak Velayudhan]], [[https://openalex.org/A5081605977][Janet C Remus]], [[https://openalex.org/A5024452646][Yueming Dersjant-Li]], [[https://openalex.org/A5036921980][Ester Vinyeta]], Journal of Animal Science. 102(Supplement_3)] 2024. https://doi.org/10.1093/jas/skae234.284 
+     
+Abstract The capacity of a novel consensus bacterial 6-phytase variant (PhyG) to maintain growth performance and production benefits of pigs when added to an energy and nutrient-reduced mixed cereal diet was assessed. Two experiments were conducted. In Exp. 1 (wean to finish), weaned pigs [n = 192; initial body weight (BW) 7.18 ± 0.38 kg] were randomized to 4 treatments from weaning until market weight. Diets were provided in 5 phases. Treatments included: 1) a nutritionally sufficient positive control (PC); 2) a negative control (NC1) without added inorganic phosphate, reduced (based on specific PhyG dose) in net energy (NE), calcium (Ca), digestible amino acids (AA) and sodium (Na) vs. PC, supplemented with PhyG at 1,000, 1,000, 750, 500 and 500 FTU/kg in each phase, respectively (NC1+low PhyG); 3) a negative control (NC2) as NC1 supplemented with PhyG at 2,000, 2,000, 1,000, 750 and 750 FTU/kg in each phase and further reduced in energy and nutrient based on specific PhyG dose (NC2+high PhyG), and; 4) a negative control (NC3) as 2) and supplemented with xylanase–β-glucanase (XB) to provide 2,400 U/kg xylanase and 304 U/kg β-glucanase, with additional reduction in NE and digestible AA based on the contribution of XB (NC3+low PhyG + XB). In Exp. 2 (nursery), weaned pigs (n = 360; initial BW 8.40 ± 0.78 kg) were assigned to 3 dietary treatments from weaning up to 35 d. Diets were offered in 2 phases. Treatments included a nutritionally adequate positive control (PC) and 2 PhyG-supplemented diets, reduced in digestible phosphorus, Ca, Na, NE and digestible AA vs. PC, according to the expected contribution of PhyG added at 1,000 FTU/kg (NC1) or 2,000 FTU/kg (NC2), respectively. Data were analyzed by ANOVA. Means separation was by Tukey’s HSD test. In Exp. 1, overall growth performance (114 d) in all enzyme-supplemented diets was maintained or improved compared with PC. Compared with PC, feed cost per kg BW gain was significantly reduced by 7.3% and total carbon footprint (CFP; CO2 eq. g/kg BW gain) was reduced by 6.8% with PhyG + XB combination. In Exp.2, overall growth performance (35 d), in all PhyG-supplemented, nutrient-reduced, treatments, were either not different from, or were improved, vs. PC. Total feed costs and estimated CFP per kg BW gain were reduced in all PhyG-supplemented, nutrient- and NE-reduced treatments vs. PC. In conclusion, the application of a full energy and nutrient matrix maintained the overall growth of pigs in both 114- and 35-d studies with the novel phytase. The addition of XB further improved the overall growth of market pigs. Moreover, full matrix application with PhyG achieved reductions in total feed cost and carbon footprint in both studies.    
 
     
 

@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Sep 15 01:24:30 2024
+Created on Mon Sep 16 01:21:14 2024
 
-Found 29 results from 2024-09-08 to 2024-09-15
+Found 35 results from 2024-09-09 to 2024-09-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -171,6 +171,17 @@ No abstract
 
     
 
+## Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges   
+
+OpenAlex: https://openalex.org/W4402438892    
+Open access: False
+    
+[Michelle A. Nolen](https://openalex.org/A5091933579), [Carrie A. Farberow](https://openalex.org/A5050276234), [Stephanie Kwon](https://openalex.org/A5036308296), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03358.
+    
+No abstract    
+
+    
+
 ## Photoredox/Nickel Dual Catalysis for C(sp2)–C(sp3) Cross-Electrophile Coupling Reaction of Mesylates of Phenols and Primary Alcohols   
 
 OpenAlex: https://openalex.org/W4402439055    
@@ -303,6 +314,28 @@ No abstract
 
     
 
+## A Chemoenzymatic Hydroaminomethylation Strategy for the Selective Synthesis of Linear Primary Amines from Olefins by Sequential and Tandem Processes   
+
+OpenAlex: https://openalex.org/W4402504286    
+Open access: False
+    
+[Jenna L. Manske](https://openalex.org/A5002815618), [Jeremy Nicolai](https://openalex.org/A5098787611), [Brandon J. Bloomer](https://openalex.org/A5039367342), [Douglas S. Clark](https://openalex.org/A5009504410), [John F. Hartwig](https://openalex.org/A5088865204), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03770.
+    
+No abstract    
+
+    
+
+## Regulating Steric Effect of Cobalt Corroles for Promoted Oxygen Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4402504363    
+Open access: False
+    
+[Yuhan Xu](https://openalex.org/A5101426018), [Xiaotong Jin](https://openalex.org/A5076331499), [Jieling Zhang](https://openalex.org/A5041470396), [Haonan Qin](https://openalex.org/A5032545858), [B. Mei](https://openalex.org/A5062863440), [Tao Liu](https://openalex.org/A5100357450), [Siyu Lei](https://openalex.org/A5101684755), [Li Shen](https://openalex.org/A5101791434), [Yongli Bo](https://openalex.org/A5072741866), [Xialiang Li](https://openalex.org/A5076180712), [Rui Cao](https://openalex.org/A5023594276), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03792.
+    
+No abstract    
+
+    
+
 ## Isotopic Studies of Reaction Pathways within Propylene Epoxidation over Promoted Silver Catalysts   
 
 OpenAlex: https://openalex.org/W4402518071    
@@ -320,6 +353,39 @@ OpenAlex: https://openalex.org/W4402518798
 Open access: False
     
 [Hao-Gang Ding](https://openalex.org/A5022749472), [Shisheng Zheng](https://openalex.org/A5104307502), [Xingjie Yang](https://openalex.org/A5076764439), [Junjie Pan](https://openalex.org/A5101858494), [Zhefeng Chen](https://openalex.org/A5000755101), [Mingzheng Zhang](https://openalex.org/A5004026148), [Shunning Li](https://openalex.org/A5021329144), [Feng Pan](https://openalex.org/A5055477551), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02126.
+    
+No abstract    
+
+    
+
+## Room-Temperature Secondary Ammonium Salt-Catalyzed Enantioselective Halogenation via Hydrogen-Bonded Ion Pair   
+
+OpenAlex: https://openalex.org/W4402535481    
+Open access: False
+    
+[Zhihuang Chen](https://openalex.org/A5036102325), [Zhi‐Peng Wu](https://openalex.org/A5037531970), [Qinghai Zhou](https://openalex.org/A5001233354), [Peng Yang](https://openalex.org/A5088693897), [Xing Li](https://openalex.org/A5100651431), [Xiaodong Xiong](https://openalex.org/A5052467164), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04829.
+    
+No abstract    
+
+    
+
+## Recent Progress on the Stability of Electrocatalysts under High Current Densities toward Industrial Water Splitting   
+
+OpenAlex: https://openalex.org/W4402536151    
+Open access: False
+    
+[Shumin Gong](https://openalex.org/A5077354777), [Yao Meng](https://openalex.org/A5015103539), [Jin Zhang](https://openalex.org/A5100712266), [Hsien‐Yi Hsu](https://openalex.org/A5034134051), [Minshu Du](https://openalex.org/A5027323470), [Feng Liu](https://openalex.org/A5000372526), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03700.
+    
+No abstract    
+
+    
+
+## Single-Site Catalysts for the Oxygen Reduction Reaction: Why Iron Is Better than Platinum   
+
+OpenAlex: https://openalex.org/W4402540243    
+Open access: False
+    
+[Alessandro Facchin](https://openalex.org/A5041917393), [Daniel Forrer](https://openalex.org/A5072931547), [Mirco Zerbetto](https://openalex.org/A5020306387), [Francesco Cazzadori](https://openalex.org/A5107201117), [Andrea Vittadini](https://openalex.org/A5016845262), [Christian Durante](https://openalex.org/A5071952903), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02366.
     
 No abstract    
 
