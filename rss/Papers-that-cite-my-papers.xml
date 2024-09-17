@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Sep 2024 01:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 01:04:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unraveling the catalytic performance of RuO2(1 1 0) for highly-selective ethylene production from methane at low temperature: Insights from first-principles and microkinetic simulations</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.09.059</link>
-      <description>Santhanamoorthi Nachimuthu, Guan-Cheng Xie, Jyh&#8208;Chiang Jiang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4402339158
-
-                Despite significant progress in low-temperature methane (CH</description>
-      <author>Santhanamoorthi Nachimuthu, Guan-Cheng Xie, Jyh&#8208;Chiang Jiang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.059</guid>
-    </item>
     <item>
       <title>Alkali Metals Activated High Entropy Double Perovskites for Boosted Hydrogen Evolution Reaction</title>
       <link>https://doi.org/10.1002/advs.202406453</link>
@@ -380,10 +370,10 @@
     <item>
       <title>Mechanistic studies on defective hBN-supported metal-nonmetal synergistic catalysis for urea electrosynthesis</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.161230</link>
-      <description>Ziyang Qiu, Jing&#8208;Shuang Dang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4402495689
+      <description>Zi-Yang Qiu, Jing&#8208;Shuang Dang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4402495689
 
                 No abstract</description>
-      <author>Ziyang Qiu, Jing&#8208;Shuang Dang</author>
+      <author>Zi-Yang Qiu, Jing&#8208;Shuang Dang</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161230</guid>
     </item>
@@ -536,16 +526,6 @@
       <author>Tingting Xu, Jinting Chen, Jinghan Zhang, Haixiang Huang, Bogu Liu, Yawei Li, Xiaohong Chen, Hong Zeng, Ying Wu</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161209</guid>
-    </item>
-    <item>
-      <title>The cultural identity of first-generation adult immigrants: A meta-analysis</title>
-      <link>https://doi.org/10.1080/15298868.2024.2399559</link>
-      <description>D&#233;bora B. Maehler, Jessica Daikeler, Self and Identity. None(None)] 2024. https://openalex.org/W4402339395
-
-                No abstract</description>
-      <author>D&#233;bora B. Maehler, Jessica Daikeler</author>
-      <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/15298868.2024.2399559</guid>
     </item>
     <item>
       <title>Effect of the cryogenic treatment on the electrocatalytic performance of the active self-supporting nanoporous Pd&#8211;Ag catalyst with high-index facets&#8217; preferred orientation</title>

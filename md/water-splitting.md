@@ -1,33 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Sep 16 01:21:07 2024
+Created on Tue Sep 17 01:04:27 2024
 
-Found 119 results from 2024-09-09 to 2024-09-16
+Found 119 results from 2024-09-10 to 2024-09-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Manipulating the configuration entropy of layered hydroxides toward efficient oxygen evolution reaction for anion exchange membrane electrolyzer   
-
-OpenAlex: https://openalex.org/W4402339642    
-Open access: False
-    
-[Da Liu](https://openalex.org/A5100384551), [Peifang Guo](https://openalex.org/A5091204409), [Xiaoxiao Yan](https://openalex.org/A5066295597), [Yufei He](https://openalex.org/A5052932306), [Renbing Wu](https://openalex.org/A5000351527), Materials Today. None(None)] 2024.https://doi.org/10.1016/j.mattod.2024.08.008.
-    
-No abstract    
-
-    
-
-## Thinly-walled NiFe2O4 nanotubes derived from Ni, Fe, N-codoped carbon nanofibers toward oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4402341259    
-Open access: False
-    
-[Zhan Tian](https://openalex.org/A5072322326), [He Wang](https://openalex.org/A5101373391), [Guoqiang Li](https://openalex.org/A5100354165), [Hongrui Jia](https://openalex.org/A5002908323), [Guoxin Zhang](https://openalex.org/A5100730832), Solid State Sciences. None(None)] 2024.https://doi.org/10.1016/j.solidstatesciences.2024.107691.
-    
-No abstract    
-
-    
 
 ## Preparation of nickel-manganese based bimetallic hydroxide nanosheets for enhanced electrocatalytic oxygen evolution reaction   
 
@@ -733,6 +711,17 @@ No abstract
 
     
 
+## A Rechargeable Urea‐Assisted Zn‐Air Battery with High Energy Efficiency and Fast‐Charging Enabled by Engineering High‐Energy Interfacial Structures   
+
+OpenAlex: https://openalex.org/W4402542550    
+Open access: False
+    
+[Mingjie Wu](https://openalex.org/A5000272762), [Yinghui Xu](https://openalex.org/A5003409409), [Jian Luo](https://openalex.org/A5071388400), [Siyi Yang](https://openalex.org/A5103154463), [Gaixia Zhang](https://openalex.org/A5023395031), [Lei Du](https://openalex.org/A5017404634), [Huixia Luo](https://openalex.org/A5068328164), [Xun Cui](https://openalex.org/A5037920786), [Yingkui Yang](https://openalex.org/A5046799991), [Shuhui Sun](https://openalex.org/A5080743510), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202410845.
+    
+Electrochemical urea oxidation reaction (UOR) offers a promising alternative to the oxygen evolution reaction (OER) in clean energy conversion and storage systems. Nickel‐based catalysts are highly regarded as promising electrocatalysts for the UOR. However, their effectiveness is significantly hindered by the unavoidable self‐oxidation reaction of nickel species during UOR. To address this challenge, we proposed an interface chemistry modulation strategy to boost UOR kinetics by creating a high‐energy interfacial heterostructure. This heterostructure features the incorporation of Ag at the CoOOH@NiOOH heterojunction interface. Strong interactions significantly promote the electron exchanges in the heterointerface between the ‐OH and ‐O. Consequently, the improved electron delocalization led to the formation of stronger bonds between Co sites and urea CO(NH2)2, promoting a preference for urea to occupy Co active sites over OH*. The resulting catalyst, Ag‐CoOOH@NiOOH, affords an ultrahigh UOR activity with a low potential of 1.33 V at 100 mA cm‐2. The fabricated catalyst exhibits a mass activity exceeding that of initial cobalt oxyhydroxide by over 11.9 times. The rechargeable urea‐assisted zinc‐air batteries (ZABs) achieves a record‐breaking energy efficiency of 74.56% at 1 mA cm‐2, remarkable durability (1000 hours at even a current density of 50 mA cm‐2), and quick charge performances.    
+
+    
+
 ## Facile Synthesis of Carbon-Coated Nips3 Nanoparticle Electrocatalyst for Highly Efficient Oxygen Evolution Reaction   
 
 OpenAlex: https://openalex.org/W4402545967    
@@ -763,6 +752,28 @@ Open access: False
 [Ying Li](https://openalex.org/A5100414294), [Yang Liu](https://openalex.org/A5047614812), [Xiaolei Hao](https://openalex.org/A5008686232), [Xiaopei Xu](https://openalex.org/A5101064771), [Lingling Xu](https://openalex.org/A5016082953), [Bo Wei](https://openalex.org/A5085459146), [Zhongwei Chen](https://openalex.org/A5100784976), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202413916.
     
 Metal‐Organic Frameworks (MOFs), praised for structural flexibility and tunability, are prominent catalyst prototypes for exploring oxygen evolution reaction (OER). Yet, their intricate transformations under OER, especially in industrial high‐current environments, pose significant challenges in accurately elucidating their structure‐activity correlation. Here, we harnessed an electrooxidation process for controllable MOF reconstruction, discovering that Fe doping expedites Ni(Fe)‐MOF structural evolution, accompanied by the elongation of Ni‐O bonds, monitored by in‐situ Raman and UV‐visible spectroscopy. Theoretical modeling further reveals that Fe doping and defect‐induced tensile strain in the NiO6 octahedra augments the metal ds‐Op hybridization, optimizing their adsorption behavior and augmenting OER activity. The reconstructed Ni(Fe)‐MOF, serving as the anode in anion exchange membrane water electrolysis, achieves a noteworthy current density of 3.3 A cm‐2 at 2.2 V while maintaining equally stable operation for 160 h spanning from 0.5 A cm‐2 to 1 A cm‐2. This undertaking elevates our comprehension of OER catalyst reconstruction, furnishing promising avenues for designing highly efficacious catalysts across electrochemical platforms.    
+
+    
+
+## Electrospun Mn1-xCoxFe2O4 (x=0-0.7) Nanofibers for Supercapacitors and Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4402549944    
+Open access: False
+    
+[Zahra Ansari Jokandan](https://openalex.org/A5093713392), [J. Mazloom](https://openalex.org/A5085759711), [Morteza Safari](https://openalex.org/A5014599906), Materials Chemistry and Physics. None(None)] 2024.https://doi.org/10.1016/j.matchemphys.2024.129948.
+    
+No abstract    
+
+    
+
+## Fe, Cu bimetallic precursor-driven quaternary active sites boost oxygen reduction / evolution reaction bifunctional catalysts   
+
+OpenAlex: https://openalex.org/W4402550124    
+Open access: False
+    
+[Yurong Yuan](https://openalex.org/A5101383673), [Mengwei Pan](https://openalex.org/A5026379076), [Mengjie Zhang](https://openalex.org/A5101509462), [Yuchen Zhou](https://openalex.org/A5075343261), [Qin Fei-long](https://openalex.org/A5042495813), [Yaoyu Yang](https://openalex.org/A5074161773), [Rui Hao](https://openalex.org/A5002739525), [Weifang Liu](https://openalex.org/A5102784975), [Kaiyu Liu](https://openalex.org/A5034594327), Journal of Power Sources. 623(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.235423.
+    
+No abstract    
 
     
 
@@ -1065,17 +1076,6 @@ Abstract Monitoring the dynamic behavior of active species and modulating their 
 
 ## A Rechargeable Urea‐Assisted Zn‐Air Battery with High Energy Efficiency and Fast‐Charging Enabled by Engineering High‐Energy Interfacial Structures   
 
-OpenAlex: https://openalex.org/W4402542550    
-Open access: False
-    
-[Mingjie Wu](https://openalex.org/A5000272762), [Yinghui Xu](https://openalex.org/A5003409409), [Jian Luo](https://openalex.org/A5071388400), [Siyi Yang](https://openalex.org/A5103154463), [Gaixia Zhang](https://openalex.org/A5023395031), [Lei Du](https://openalex.org/A5017404634), [Huixia Luo](https://openalex.org/A5068328164), [Xun Cui](https://openalex.org/A5037920786), [Yingkui Yang](https://openalex.org/A5046799991), [Shuhui Sun](https://openalex.org/A5080743510), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202410845.
-    
-Electrochemical urea oxidation reaction (UOR) offers a promising alternative to the oxygen evolution reaction (OER) in clean energy conversion and storage systems. Nickel‐based catalysts are highly regarded as promising electrocatalysts for the UOR. However, their effectiveness is significantly hindered by the unavoidable self‐oxidation reaction of nickel species during UOR. To address this challenge, we proposed an interface chemistry modulation strategy to boost UOR kinetics by creating a high‐energy interfacial heterostructure. This heterostructure features the incorporation of Ag at the CoOOH@NiOOH heterojunction interface. Strong interactions significantly promote the electron exchanges in the heterointerface between the ‐OH and ‐O. Consequently, the improved electron delocalization led to the formation of stronger bonds between Co sites and urea CO(NH2)2, promoting a preference for urea to occupy Co active sites over OH*. The resulting catalyst, Ag‐CoOOH@NiOOH, affords an ultrahigh UOR activity with a low potential of 1.33 V at 100 mA cm‐2. The fabricated catalyst exhibits a mass activity exceeding that of initial cobalt oxyhydroxide by over 11.9 times. The rechargeable urea‐assisted zinc‐air batteries (ZABs) achieves a record‐breaking energy efficiency of 74.56% at 1 mA cm‐2, remarkable durability (1000 hours at even a current density of 50 mA cm‐2), and quick charge performances.    
-
-    
-
-## A Rechargeable Urea‐Assisted Zn‐Air Battery with High Energy Efficiency and Fast‐Charging Enabled by Engineering High‐Energy Interfacial Structures   
-
 OpenAlex: https://openalex.org/W4402542551    
 Open access: False
     
@@ -1162,17 +1162,6 @@ This talk will be pre-recorded, with virtual Q A. Medicago truncatula forms inde
 
     
 
-## Thermodynamic modelling of the Fe-Al-Ti-O system and evolution of Al-Ti complex inclusions during Ti-added ultra-low carbon steel production   
-
-OpenAlex: https://openalex.org/W4402383135    
-Open access: False
-    
-[Young Joo Park](https://openalex.org/A5100647740), [Youn‐Bae Kang](https://openalex.org/A5050299101), No host. None(None)] 2024.https://doi.org/10.62053/fwlu4527.
-    
-Ti-added ultra-low carbon (ULC) steel is produced by adding Al and Ti during the secondary refining process to deoxidise molten steel and to bind C and N which are detrimental to the deep drawing quality of the steel product. However, the production of Ti-added ULC steel faces challenges, including submerged entry nozzle clogging and surface defects on cold rolled coils. The troubles were often attributed to ‘Al-Ti complex inclusions’ in the molten steel. However, the evolution of oxide inclusions including their stability has been still unclear. In the present study, the evolution of these inclusions in Ti-added ULC steel was investigated by phase diagram measurement, CALPHAD thermodynamic modelling, high-temperature stability test for the oxides, and observation of transient behaviour of oxide inclusions in the steel. The phase diagram of the Al-Ti-O system was elucidated with an emphasis on oxygen potential, which significantly controls the stability of the oxides. CALPHAD thermodynamic models and a self-consistent database were developed. The transient behaviour of Al-Ti complex inclusions in Ti-added ULC steel was observed in situ using a confocal scanning laser microscope. This was additionally validated by the new thermodynamic model. The equilibrium phases of the oxide inclusions were investigated using a high-temperature resistance furnace, and were analysed using a secondary electron microscope, energy dispersive spectrometer, and electron back-scattered diffraction. By considering the morphology and crystal structure of these inclusions, the evolution of Al-Ti oxide inclusions was elucidated. Various behaviour of Al-Ti inclusions and their influence on steel cleanliness are discussed.    
-
-    
-
 ## Phase equilibria of Al2TiO5–Ti3O5 pseudobrookite solid solution in the Al2O3–TiOx system under various oxygen partial pressures   
 
 OpenAlex: https://openalex.org/W4402383589    
@@ -1181,6 +1170,17 @@ Open access: False
 [Young Joo Park](https://openalex.org/A5100647740), [W.K. Kim](https://openalex.org/A5083458420), [Youn‐Bae Kang](https://openalex.org/A5050299101), No host. None(None)] 2024.https://doi.org/10.62053/mcam4452.
     
 The phase equilibria in the Al2O3–TiOx system were investigated in wide ranges of temperature and oxygen partial pressure: 1300~1600°C and 10-16.6~10-8 atm, respectively. The equilibrium phases and their compositions were identified using X-ray diffraction (XRD) and electron probe micro-analysis (EPMA), respectively. Most noticeably, a wide range of pseudobrookite solid solution was found in equilibrium with almost pure alumina. At each temperature, the cationic ratio expressed as RTi = nTi/(nAl + nTi)) of the pseudobrookite solid solution showed a noteworthy dependency on the oxygen partial pressure. This resulted in the formation of a broad range of pseudobrookite solid solutions, ranging from Al2TiO5 (RTi = 1/3) to Ti3O5 (RTi = 1.0). Complete miscibility within the pseudobrookite solid solution was observed at 1600°C, with only a minor miscibility gap becoming evident below 1500°C. Based on the results obtained in the present study, the behaviours of Al2TiO5 pseudobrookite have implications in two key domains: (1) understanding changes in the physical properties of the materials, and (2) elucidating the evolution of Al–Ti complex oxide inclusions in liquid steel which can deteriorate the steel cleanliness.    
+
+    
+
+## Thermodynamic modelling of the Fe-Al-Ti-O system and evolution of Al-Ti complex inclusions during Ti-added ultra-low carbon steel production   
+
+OpenAlex: https://openalex.org/W4402383135    
+Open access: False
+    
+[Young Joo Park](https://openalex.org/A5100647740), [Youn‐Bae Kang](https://openalex.org/A5050299101), No host. None(None)] 2024.https://doi.org/10.62053/fwlu4527.
+    
+Ti-added ultra-low carbon (ULC) steel is produced by adding Al and Ti during the secondary refining process to deoxidise molten steel and to bind C and N which are detrimental to the deep drawing quality of the steel product. However, the production of Ti-added ULC steel faces challenges, including submerged entry nozzle clogging and surface defects on cold rolled coils. The troubles were often attributed to ‘Al-Ti complex inclusions’ in the molten steel. However, the evolution of oxide inclusions including their stability has been still unclear. In the present study, the evolution of these inclusions in Ti-added ULC steel was investigated by phase diagram measurement, CALPHAD thermodynamic modelling, high-temperature stability test for the oxides, and observation of transient behaviour of oxide inclusions in the steel. The phase diagram of the Al-Ti-O system was elucidated with an emphasis on oxygen potential, which significantly controls the stability of the oxides. CALPHAD thermodynamic models and a self-consistent database were developed. The transient behaviour of Al-Ti complex inclusions in Ti-added ULC steel was observed in situ using a confocal scanning laser microscope. This was additionally validated by the new thermodynamic model. The equilibrium phases of the oxide inclusions were investigated using a high-temperature resistance furnace, and were analysed using a secondary electron microscope, energy dispersive spectrometer, and electron back-scattered diffraction. By considering the morphology and crystal structure of these inclusions, the evolution of Al-Ti oxide inclusions was elucidated. Various behaviour of Al-Ti inclusions and their influence on steel cleanliness are discussed.    
 
     
 

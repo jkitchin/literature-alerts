@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Sep 16 01:21:12 2024
+Created on Tue Sep 17 01:04:32 2024
 
-Found 131 results from 2024-09-09 to 2024-09-16
+Found 131 results from 2024-09-10 to 2024-09-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -59,6 +59,17 @@ Open access: True
 [Iwona Pełech](https://openalex.org/A5075870135), [Piotr Staciwa](https://openalex.org/A5071487792), [Daniel Sibera](https://openalex.org/A5058790308), [Konrad S. Sobczuk](https://openalex.org/A5080095633), [Wiktoria Majewska](https://openalex.org/A5107186482), [Ewelina Kusiak‐Nejman](https://openalex.org/A5042774991), [Antoni W. Morawski](https://openalex.org/A5018078558), [Kaiying Wang](https://openalex.org/A5057176376), [Urszula Narkiewicz](https://openalex.org/A5082246628), Molecules. 29(18)] 2024.https://doi.org/10.3390/molecules29184348.
     
 Modification of titanium dioxide using ethylenediamine (EDA), diethylamine (DEA), and triethylamine (TEA) has been studied. As the reference material, titanium dioxide prepared by the sol–gel method using titanium(IV) isopropoxide as a precursor was applied. The preparation procedure involved heat treatment in the microwave reactor or in the high-temperature furnace. The obtained samples have been characterized in detail. The phase composition was determined through the X-ray diffraction method, and the average crystallite size was calculated based on it. Values for specific surface areas and the total pore volumes were calculated based on the isotherms obtained through the low-temperature nitrogen adsorption method. The bang gap energy was estimated based on Tauc’s plots. The influence of the type and content of amine, as well as heat treatment on the photocatalytic activity of modified titanium dioxide in the photocatalytic reduction of carbon dioxide, was determined and discussed. It was clear that, regardless of the amount and content of amine introduced, the higher photoactivity characterized the samples prepared in the microwave reactor. The highest amounts of hydrogen, carbon monoxide, and methane have been achieved using triethylamine-modified titanium dioxide.    
+
+    
+
+## Increasing electrochemical carbon dioxide reduction to methane via a novel copper-based conductive metal organic framework   
+
+OpenAlex: https://openalex.org/W4402550001    
+Open access: False
+    
+[Zhongyu Jing](https://openalex.org/A5045160070), [Wenli Su](https://openalex.org/A5104273139), [Yu Fan](https://openalex.org/A5100744610), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.124.
+    
+No abstract    
 
     
 
@@ -326,14 +337,14 @@ No abstract
 
     
 
-## Potential for nutrients reuse, carbon sequestration, and CO2 emissions reduction in the practice of domestic and industrial wastewater recycling into agricultural soils: A review   
+## Sn-modified Cu nanosheets catalyze CO2 reduction to C2H4 efficiently by stabilizing CO intermediates and promoting C C coupling   
 
-OpenAlex: https://openalex.org/W4402339247    
+OpenAlex: https://openalex.org/W4402550081    
 Open access: False
     
-[Thais Girardi Carpanez](https://openalex.org/A5035337503), [Jonathas Batista Gonçalves Silva](https://openalex.org/A5029531578), [Marcelo Henrique Otênio](https://openalex.org/A5071377364), [Míriam Cristina Santos Amaral](https://openalex.org/A5066731255), [Victor Rezende Moreira](https://openalex.org/A5066228961), Journal of Environmental Management. 370(None)] 2024.https://doi.org/10.1016/j.jenvman.2024.122443.
+[Hongfei Wang](https://openalex.org/A5079077156), [Fusen Zhang](https://openalex.org/A5077887658), [Yang Li](https://openalex.org/A5089939950), [Yingping Pang](https://openalex.org/A5054744038), [Xiqiang Zhao](https://openalex.org/A5100594238), [Zhanlong Song](https://openalex.org/A5028614042), [Wenlong Wang](https://openalex.org/A5100344713), [Jing Sun](https://openalex.org/A5004056151), [Yanpeng Mao](https://openalex.org/A5078703047), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.117.
     
-This review assesses the feasibility of reusing treated wastewater for irrigation in agricultural soils as a strategy for nutrients recycling and mitigation of CO    
+No abstract    
 
     
 
@@ -557,6 +568,17 @@ The ironmaking industry consumes a large amount of fossil fuel derived carbon as
 
     
 
+## PSV-14 The effects of calcium cyanamide on greenhouse gases, ammonia emissions, and the microbiome of dairy cattle lagoon water   
+
+OpenAlex: https://openalex.org/W4402533394    
+Open access: False
+    
+[Alice S. Rocha](https://openalex.org/A5007799035), [Bryan Morales](https://openalex.org/A5073535378), [Hamed M. El‐Mashad](https://openalex.org/A5032138066), [Yuee Pan](https://openalex.org/A5017148670), [Yongjing Zhao](https://openalex.org/A5062586133), [Frank M. Mitloehner](https://openalex.org/A5021442315), Journal of Animal Science. 102(Supplement_3)] 2024.https://doi.org/10.1093/jas/skae234.585.
+    
+Abstract Dairy manure management is responsible for a significant amount of greenhouse gas emissions (GHG) in California. Aside from redesigning infrastructure to adopt alternative manure management systems, there are few options available to farmers to mitigate emissions without substantial financial investment. Calcium cyanamide, a new manure additive, showed significant reductions in GHG emissions when applied to fresh dairy cow slurry, but has not been tested on dairy lagoon water. The aim of the present study was to investigate the effects of calcium cyanamide on GHG and NH3 emissions and the microbiome of dairy lagoon water. Lagoon water was collected from a commercial dairy, and distributed into 12 stainless steel barrels. Three treatments (n = 4/treatment) of different doses of calcium cyanamide were tested: high (LW-HD; 1 kg/m3 lagoon water), low (LW-LD; 0.5 kg/m3 lagoon water), and control with no calcium cyanamide (LW-CONT; n = 4). Each barrel was sampled over two, 14-d periods, staggered to four barrels at a time, using OdoFlux chambers to monitor emissions for carbon dioxide (CO2,), methane (CH4), nitrous oxide (N2O), and ammonia (NH3). Treatments LW-LD and LW-HD contained significantly more total solids, total nitrogen and total carbon compared with LW-CONT. There was also a significantly greater concentration of acetic acid in LW-LD and LW-HD treatments compared with LW-CONT. CO2 emissions in LW-LD and LW-HD were 2.96% and 12.03% less than LW-CONT. CH4 emissions in LW-LD and LW-HD were 80.9% and 85.13% less compared with LW-CONT. N2O emissions in LW-LD and LW-HD were 81.1% and 82.66% less than LW-CONT. However, NH3 fluxes were greater in LW-LD and LW-HD compared with LW-CONT by 65.26% and 65.73%, respectively. The microbiome of the lagoon water was also affected, with reductions in relative abundance of the Proteobacteria phylum responsible for nitrification in LW-LD and LW-HD and increases in the Firmicutes phylum containing acetogenic bacteria. Calcium cyanamide could inhibit methanogenesis by increasing acetogenic bacteria that compete with methanogens for fermentation substrates. Further research is needed to investigate the efficacy of calcium cyanamide in a commercial lagoon setting.    
+
+    
+
 ## Adaptive Control of Ships’ Oil-Fired Boilers Using Flame Image-Based IMC-PID and Deep Reinforcement Learning   
 
 OpenAlex: https://openalex.org/W4402412729    
@@ -634,17 +656,6 @@ To gain a deeper understanding of the intrinsic dynamic relationship between ene
 
     
 
-## Applicability of Hydrazine Alternatives to Water Treatment in Power Plants: Effects of Hydrazine Alternatives and Decomposition Products on Water Properties and Corrosion of Carbon Steel   
-
-OpenAlex: https://openalex.org/W4402517306    
-Open access: False
-    
-[Noriyuki Ida](https://openalex.org/A5044618929), [Junichi Tani](https://openalex.org/A5029070325), [Hirotaka Kawamura](https://openalex.org/A5056966122), CORROSION. None(None)] 2024.https://doi.org/10.5006/4621.
-    
-ABSTRACT The applicability of carbohydrazide (CHZ) and diethylhydroxilamine (DEHA) as hydrazine alternatives to the water treatment of water-steam circuits of power plants was investigated by assessing their effects on the corrosion of carbon steel and water properties, including the conductivity, conductivity after cation exchange (cation conductivity), dissolved-oxygen concentration (DO), and oxidation–reduction potential (ORP) of high-temperature water under simulated conditions of boiler feed water of power plants. Hydrazine and carbon dioxide were generated by CHZ decomposition, resulting in a decrease in DO and increases in both conductivity and cation conductivity. Various substances including diethylamine, ethylamine, and acetaldehyde were generated by DEHA decomposition, and the amines increased conductivity. Under the oxygen-containing condition, acetate was also formed, and cation conductivity was increased by DEHA injection. Measurements of DO and ORP suggested that high CHZ and DEHA concentrations or temperatures were required for them to exert their oxygen-scavenging effect and decrease the electrode potential of metals like hydrazine. Irrespective of the decomposition products of CHZ or DEHA, neither of these hydrazine alternatives accelerated the corrosion of carbon steel. In this study, various characteristics of CHZ and DEHA were clarified, and results suggest that CHZ is a safe choice, as long as hydrazine generation by CHZ decomposition does not conflict with hydrazine restriction.    
-
-    
-
 ## How Not to Reduce Carbon Dioxide Emissions: An Unbalanced Focus on Energy Efficiency in Germany’s Building Rehabilitation Policies   
 
 OpenAlex: https://openalex.org/W4402363897    
@@ -653,6 +664,17 @@ Open access: True
 [Ray Galvin](https://openalex.org/A5036949190), Energies. 17(17)] 2024.https://doi.org/10.3390/en17174524.
     
 Germany needs to reduce CO2 emissions from space heating in its old buildings to net zero by 2045 to fulfil its climate goals. However, direct CO2 reduction measures in existing buildings receive relatively little subsidy support from the federal government’s German Development Bank, compared to generous subsidies for energy efficiency measures. This interdisciplinary paper evaluates this phenomenon by comparing costs and CO2 abatement effects of ever higher energy efficiency measures, alongside the costs of direct CO2 reduction through heat pumps and onsite photovoltaics. It uses a set of carefully selected reports on the costs and benefits of renovation to a range of energy efficiency standards in three common types of multi-apartment buildings in Germany, updating these for 2024 construction, energy, and finance costs. The cost of the CO2 saved is extremely high with energy efficiency measures and absurdly high with the highest energy efficiency standards, up to 20 times the cost of CO2 abatement through other means, such as offsite renewables. This reduces markedly with onsite CO2 reduction measures. This paper sets this analysis in the context of asking what social, cultural, and discursive factors extol energy efficiency so highly that policy tends to thwart its own stated goal of deeply reducing CO2 emissions.    
+
+    
+
+## Applicability of Hydrazine Alternatives to Water Treatment in Power Plants: Effects of Hydrazine Alternatives and Decomposition Products on Water Properties and Corrosion of Carbon Steel   
+
+OpenAlex: https://openalex.org/W4402517306    
+Open access: False
+    
+[Noriyuki Ida](https://openalex.org/A5044618929), [Junichi Tani](https://openalex.org/A5029070325), [Hirotaka Kawamura](https://openalex.org/A5056966122), CORROSION. None(None)] 2024.https://doi.org/10.5006/4621.
+    
+ABSTRACT The applicability of carbohydrazide (CHZ) and diethylhydroxilamine (DEHA) as hydrazine alternatives to the water treatment of water-steam circuits of power plants was investigated by assessing their effects on the corrosion of carbon steel and water properties, including the conductivity, conductivity after cation exchange (cation conductivity), dissolved-oxygen concentration (DO), and oxidation–reduction potential (ORP) of high-temperature water under simulated conditions of boiler feed water of power plants. Hydrazine and carbon dioxide were generated by CHZ decomposition, resulting in a decrease in DO and increases in both conductivity and cation conductivity. Various substances including diethylamine, ethylamine, and acetaldehyde were generated by DEHA decomposition, and the amines increased conductivity. Under the oxygen-containing condition, acetate was also formed, and cation conductivity was increased by DEHA injection. Measurements of DO and ORP suggested that high CHZ and DEHA concentrations or temperatures were required for them to exert their oxygen-scavenging effect and decrease the electrode potential of metals like hydrazine. Irrespective of the decomposition products of CHZ or DEHA, neither of these hydrazine alternatives accelerated the corrosion of carbon steel. In this study, various characteristics of CHZ and DEHA were clarified, and results suggest that CHZ is a safe choice, as long as hydrazine generation by CHZ decomposition does not conflict with hydrazine restriction.    
 
     
 
@@ -1085,18 +1107,6 @@ This paper presents an analysis of the possible application of green roof on an 
 
     
 
-## Low latency carbon budget analysis reveals a large decline of the land
-  carbon sink in 2023   
-
-OpenAlex: https://openalex.org/W4402345875    
-Open access: True
-    
-[Piyu Ke](https://openalex.org/A5008170663), [P. Ciais](https://openalex.org/A5010234147), [Stephen Sitch](https://openalex.org/A5063621337), [Wei Li](https://openalex.org/A5100687391), [Ana Bastos](https://openalex.org/A5052018420), [Zhu Liu](https://openalex.org/A5101371176), [Yidi Xu](https://openalex.org/A5066328512), [Xiang Gui](https://openalex.org/A5090121233), [Jiang Bian](https://openalex.org/A5021438219), [Daniel Goll](https://openalex.org/A5063381462), [Yi Xi](https://openalex.org/A5039190988), [Wanjing Li](https://openalex.org/A5054075075), [Michael O’Sullivan](https://openalex.org/A5056668241), [Juander Antônio de Oliveira Souza](https://openalex.org/A5065723001), [Pierre Friedlingstein](https://openalex.org/A5065536477), [Frédéric Chevallier](https://openalex.org/A5003540571), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2407.12447 ([pdf](http://arxiv.org/pdf/2407.12447)).
-    
-In 2023, the CO2 growth rate was 3.37 +/- 0.11 ppm at Mauna Loa, 86% above the previous year, and hitting a record high since observations began in 1958, while global fossil fuel CO2 emissions only increased by 0.6 +/- 0.5%. This implies an unprecedented weakening of land and ocean sinks, and raises the question of where and why this reduction happened. Here we show a global net land CO2 sink of 0.44 +/- 0.21 GtC yr-1, the weakest since 2003. We used dynamic global vegetation models, satellites fire emissions, an atmospheric inversion based on OCO-2 measurements, and emulators of ocean biogeochemical and data driven models to deliver a fast-track carbon budget in 2023. Those models ensured consistency with previous carbon budgets. Regional flux anomalies from 2015-2022 are consistent between top-down and bottom-up approaches, with the largest abnormal carbon loss in the Amazon during the drought in the second half of 2023 (0.31 +/- 0.19 GtC yr-1), extreme fire emissions of 0.58 +/- 0.10 GtC yr-1 in Canada and a loss in South-East Asia (0.13 +/- 0.12 GtC yr-1). Since 2015, land CO2 uptake north of 20 degree N declined by half to 1.13 +/- 0.24 GtC yr-1 in 2023. Meanwhile, the tropics recovered from the 2015-16 El Nino carbon loss, gained carbon during the La Nina years (2020-2023), then switched to a carbon loss during the 2023 El Nino (0.56 +/- 0.23 GtC yr-1). The ocean sink was stronger than normal in the equatorial eastern Pacific due to reduced upwelling from La Nina's retreat in early 2023 and the development of El Nino later. Land regions exposed to extreme heat in 2023 contributed a gross carbon loss of 1.73 GtC yr-1, indicating that record warming in 2023 had a strong negative impact on the capacity of terrestrial ecosystems to mitigate climate change.    
-
-    
-
 ## How megacities can achieve carbon peak through structural adjustments: An input-output perspective   
 
 OpenAlex: https://openalex.org/W4402433485    
@@ -1108,17 +1118,6 @@ Abstract There is still a huge gap between the emissions pathways of megacities 
 
     
 
-## Thermodynamic Feasibility of Chemical Looping CO Production from Blast Furnace Gas Based on Fe-Ca-Based Carriers   
-
-OpenAlex: https://openalex.org/W4402480085    
-Open access: True
-    
-[Yang Gao](https://openalex.org/A5085464924), [Huaqing Xie](https://openalex.org/A5023446490), [Chao Sun](https://openalex.org/A5100945338), [Mengxin Qin](https://openalex.org/A5039119097), [Kun Wang](https://openalex.org/A5101733746), [Zhushan Shao](https://openalex.org/A5002741045), Processes. 12(9)] 2024.https://doi.org/10.3390/pr12091965.
-    
-In this paper, a novel process for synergistic carbon in situ capture and the utilization of blast furnace gas is proposed to produce CO via chemical looping. Through thermodynamic analysis, this process was studied in terms of the carbon fixation rate, CO yield, in situ CO2 utilization rate, CH4 conversion rate and energy consumption. It provides valuable insights for achieving efficient CO2 capture and in situ conversion. FeO and CaO are used as the oxygen carrier and the carbon carrier, respectively. Under the conditions of reaction temperature of 400 °C, pressure of 1 bar and FeO/CO ratio of 1, the carbon capture rate of blast furnace gas can reach more than 99%. In the carbon release reactor, the CO yield is lower than that in the original blast furnace gas (BFG) if no reduction gas is involved. Therefore, methane is introduced as a reducing gas to increase CO yield. When the reaction temperature is increased to 1000 °C, the pressure level is reduced to 0.01 bar and the CH4/C ratio is 1:1 (methane to carbon), the CO yield is four times that of the initial blast furnace gas. Under the optimal conditions, the energy consumption of the system is 0.2 MJ/kg, which is much lower than that of the traditional process. This paper verifies the feasibility of the new process from the perspective of thermodynamics.    
-
-    
-
 ## Effect of liquefaction controlling components in carbon-free mould powder for the continuous casting of ultra-low carbon steels   
 
 OpenAlex: https://openalex.org/W4402383147    
@@ -1127,6 +1126,17 @@ Open access: False
 [Nicolas Gruber](https://openalex.org/A5033288125), No host. None(None)] 2024.https://doi.org/10.62053/ypix4601.
     
 In the continuous casting of ultralow carbon (ULC) steels, free carbon is used to control the melting behaviour of mould powders. If the carbon is not completely removed during melting, it is enriched at the top of the slag pool. Liquid steel may come into contact with this layer because of the turbulence of the molten metal, resulting in its recarburisation, which negatively affects the desired product quality. Thus, a reduction in carbon input is desirable. For this purpose, SiC and/or Si3N4 with and without antioxidants were selected as melt-control additives to replace carbon in the mould powders. Thermodynamic calculations were performed to quantify their effect on the melting behaviour based on the chemical composition of a flux already applied to ULC steels. To experimentally assess the liquefaction behaviour, laboratory mould powders were prepared and annealed in steel crucibles closed with a lid. Crucibles were inserted into a furnace that was already preheated to selected temperatures between 900–1200°C for 10 mins and quenched to room temperature. Subsequently, the samples were mineralogically investigated. The results confirmed those obtained from the thermodynamic calculations. Si3N4, and SiC in particular, are suitable raw materials for delaying the solid-solid reactions of raw material components during melting. Owing to their stability at high temperatures, the necessary SiO2 content to form a liquid phase is not available, resulting in lower amounts of the liquid phase. The addition of antioxidants to delay the oxidation of SiC further reduces this positive effect. Attempts to decrease the SiC content without negatively affecting the melting behaviour resulted in a reduction in the CO2 emission by at least 27 g CO2/kg of mould powder when compared to the carbon-containing standard mould powder. These investigations revealed differences in the melting behaviours of granules and loose powders, which are related to their respective production processes.    
+
+    
+
+## Thermodynamic Feasibility of Chemical Looping CO Production from Blast Furnace Gas Based on Fe-Ca-Based Carriers   
+
+OpenAlex: https://openalex.org/W4402480085    
+Open access: True
+    
+[Yang Gao](https://openalex.org/A5085464924), [Huaqing Xie](https://openalex.org/A5023446490), [Chao Sun](https://openalex.org/A5100945338), [Mengxin Qin](https://openalex.org/A5039119097), [Kun Wang](https://openalex.org/A5101733746), [Zhushan Shao](https://openalex.org/A5002741045), Processes. 12(9)] 2024.https://doi.org/10.3390/pr12091965.
+    
+In this paper, a novel process for synergistic carbon in situ capture and the utilization of blast furnace gas is proposed to produce CO via chemical looping. Through thermodynamic analysis, this process was studied in terms of the carbon fixation rate, CO yield, in situ CO2 utilization rate, CH4 conversion rate and energy consumption. It provides valuable insights for achieving efficient CO2 capture and in situ conversion. FeO and CaO are used as the oxygen carrier and the carbon carrier, respectively. Under the conditions of reaction temperature of 400 °C, pressure of 1 bar and FeO/CO ratio of 1, the carbon capture rate of blast furnace gas can reach more than 99%. In the carbon release reactor, the CO yield is lower than that in the original blast furnace gas (BFG) if no reduction gas is involved. Therefore, methane is introduced as a reducing gas to increase CO yield. When the reaction temperature is increased to 1000 °C, the pressure level is reduced to 0.01 bar and the CH4/C ratio is 1:1 (methane to carbon), the CO yield is four times that of the initial blast furnace gas. Under the optimal conditions, the energy consumption of the system is 0.2 MJ/kg, which is much lower than that of the traditional process. This paper verifies the feasibility of the new process from the perspective of thermodynamics.    
 
     
 
@@ -1369,17 +1379,6 @@ Open access: True
 [Fatemeh Salehi](https://openalex.org/A5028641774), [Saeideh Shams Zamenjani](https://openalex.org/A5107107912), [Saum Rahimi](https://openalex.org/A5005863073), [Mina Fatehnejad](https://openalex.org/A5017922620), [Elham Feizabad](https://openalex.org/A5009219953), [Sara Saeedi](https://openalex.org/A5052021537), Fertility Gynecology and Andrology. 4(1)] 2024.https://doi.org/10.5812/fga-147734.
     
 Background: Shoulder pain following gynecological laparoscopy is a common complication that requires treatment. Objectives: This study aimed to evaluate the effect of manual maneuvers on shoulder pain following laparoscopic surgery in women. Methods: This parallel clinical trial was conducted with 77 female laparoscopy candidates referred to Yas Hospital in Tehran in 2023. After the laparoscopic procedure, the intervention group had CO2 gas actively removed from the abdomen during a two-handed abdominal massage, while the control group received only traditional passive gas evacuation. The intensity of pain was assessed 6- and 24-hours post-operation using the Visual Analogue Scale (VAS), and the number of painkillers and anti-nausea medications used was recorded in each patient's chart. All data were entered into SPSS software and analyzed using appropriate statistical tests. Results: The average age of the women was 39.4 ± 10.1 years, and the average body mass index (BMI) was 27.5 ± 2.5 kg/m². No significant difference was observed between the two groups in these characteristics. Six hours after the operation, the pain intensity was 4.6 ± 0.86 in the intervention group and 6.2 ± 1.1 in the control group, with a significant reduction in the intervention group (P = 0.001). Twenty-four hours post-operation, pain intensity was 2.7 ± 0.79 in the intervention group and 4.2 ± 1.1 in the control group, again showing a significant decrease in the intervention group (P = 0.001). Additionally, the need for analgesics was significantly lower in the intervention group (P = 0.001). Conclusions: The results of this study indicate that manual abdominal massage following laparoscopic surgery can significantly reduce shoulder pain, decrease the need for analgesics, and enhance patient satisfaction.    
-
-    
-
-## An Archive-Based Micro Genetic Algorithm Approach for Optimizing Wheel Bearing Performance and Reducing Friction   
-
-OpenAlex: https://openalex.org/W4402344909    
-Open access: False
-    
-[Fabio Bogliacino](https://openalex.org/A5093253429), [Paolo Re](https://openalex.org/A5103918520), [Alessandro Ferrero](https://openalex.org/A5024426392), SAE technical papers on CD-ROM/SAE technical paper series. 1(None)] 2024.https://doi.org/10.4271/2024-01-3046.
-    
-<div class="section abstract"><div class="htmlview paragraph">Cars and vans are accountable for 14.5% of the total CO2 emissions in the European Union, exerting a significant impact on public health and the environment. To align with the climate objectives set by the Council and the European Parliament, the Fit for 55 package encompasses a series of proposals aimed at revising and modernizing EU legislation while introducing new initiatives. The ultimate goal is to ensure that EU policies are in harmony with the climate targets, specifically the EU’s aspiration to reduce greenhouse gases (GHGs) by at least 55% by 2030 compared to 1990 levels and achieve climate neutrality by 2050. To meet the fleet average emissions targets, automotive Original Equipment Manufacturers (OEMs) are compelled to reduce emissions from their vehicles by addressing various components. The urgent need for car makers to reduce their carbon footprint, combined with the imperative to improve the mileage range of electric vehicles, has led to the creation of a novel methodology.</div><div class="htmlview paragraph">This approach focuses on optimizing car wheel bearing performance, with a particular emphasis on reducing friction. In contrast to traditional methodologies relying on Design of Experiments (DOE) investigations, the newly developed tool leverages an Archive-based Micro Genetic Algorithm (AMGA) for optimization. This algorithm excels in identifying the optimal bearing design within a constrained timeframe and significantly reduces the number of calculations required. Consequently, this innovation leads to a streamlined customer response process with a notably reduced lead time and fully customized design. The tool comprehensively improves bearing performance by evaluating the internal design geometry to assess ball set friction and identifying optimal dimensions for the seal design.</div><div class="htmlview paragraph">The objective of this paper is to delineate the comprehensive process involved in setting up and executing optimization, beginning with the identification of the most suitable algorithm. The paper further details the formulation of the optimization strategy tailored to meet customer requirements, highlights the key design factors identified for optimization and concludes by presenting the optimization results that underscore the potential for friction reduction. This holistic exploration covers the entire spectrum of optimization, offering insights into algorithm selection, strategy customization, and the tangible benefits achieved through friction reduction in the outcomes.</div></div>    
 
     
 
