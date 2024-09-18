@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Sep 17 01:04:34 2024
+Created on Wed Sep 18 01:16:46 2024
 
-Found 35 results from 2024-09-10 to 2024-09-17
+Found 33 results from 2024-09-11 to 2024-09-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Advancing CO2RR with O-Coordinated Single-Atom Nanozymes: A DFT and Machine Learning Exploration  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402349498
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-09-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02799")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402349498"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402349498"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402349498"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402349498 (Open access: False)
-    
-[[https://openalex.org/A5022883932][Hao Sun]], [[https://openalex.org/A5013853310][Jing‐yao Liu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02799 
-     
-No abstract    
-
-    
-
-* Correction to “Double Asymmetric Hydrogenation of α-Iminoketones: Facile Synthesis of Enantiopure Vicinal Amino Alcohols”  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402355125
-:TOPICS: Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-09-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04811")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402355125"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402355125"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402355125"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402355125 (Open access: False)
-    
-[[https://openalex.org/A5100371335][Sheng Wang]], [[https://openalex.org/A5090993141][Xin Lin]], [[https://openalex.org/A5006067896][Pan‐Lin Shao]], [[https://openalex.org/A5007909589][Jingyuan Song]], [[https://openalex.org/A5070019572][Jialin Wen]], [[https://openalex.org/A5025921875][Xumu Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04811 
-     
-No abstract    
-
-    
 
 * Iridium-Catalyzed Asymmetric Cascade Allylation/[1,4]-Phospha-Brook Rearrangement Reaction  :ACS_Catalysis:
 :PROPERTIES:

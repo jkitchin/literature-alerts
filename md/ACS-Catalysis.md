@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Sep 17 01:04:34 2024
+Created on Wed Sep 18 01:16:46 2024
 
-Found 35 results from 2024-09-10 to 2024-09-17
+Found 33 results from 2024-09-11 to 2024-09-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Advancing CO2RR with O-Coordinated Single-Atom Nanozymes: A DFT and Machine Learning Exploration   
-
-OpenAlex: https://openalex.org/W4402349498    
-Open access: False
-    
-[Hao Sun](https://openalex.org/A5022883932), [Jing‐yao Liu](https://openalex.org/A5013853310), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02799.
-    
-No abstract    
-
-    
-
-## Correction to “Double Asymmetric Hydrogenation of α-Iminoketones: Facile Synthesis of Enantiopure Vicinal Amino Alcohols”   
-
-OpenAlex: https://openalex.org/W4402355125    
-Open access: False
-    
-[Sheng Wang](https://openalex.org/A5100371335), [Xin Lin](https://openalex.org/A5090993141), [Pan‐Lin Shao](https://openalex.org/A5006067896), [Jingyuan Song](https://openalex.org/A5007909589), [Jialin Wen](https://openalex.org/A5070019572), [Xumu Zhang](https://openalex.org/A5025921875), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04811.
-    
-No abstract    
-
-    
 
 ## Iridium-Catalyzed Asymmetric Cascade Allylation/[1,4]-Phospha-Brook Rearrangement Reaction   
 

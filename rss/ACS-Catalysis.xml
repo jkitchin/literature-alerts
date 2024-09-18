@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Sep 2024 01:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 01:16:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Advancing CO&lt;sub&gt;2&lt;/sub&gt;RR with O-Coordinated Single-Atom Nanozymes: A DFT and Machine Learning Exploration</title>
-      <link>https://doi.org/10.1021/acscatal.4c02799</link>
-      <description>Hao Sun, Jing&#8208;yao Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402349498
-
-                No abstract</description>
-      <author>Hao Sun, Jing&#8208;yao Liu</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02799</guid>
-    </item>
-    <item>
-      <title>Correction to &#8220;Double Asymmetric Hydrogenation of &#945;-Iminoketones: Facile Synthesis of Enantiopure Vicinal Amino Alcohols&#8221;</title>
-      <link>https://doi.org/10.1021/acscatal.4c04811</link>
-      <description>Sheng Wang, Xin Lin, Pan&#8208;Lin Shao, Jingyuan Song, Jialin Wen, Xumu Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402355125
-
-                No abstract</description>
-      <author>Sheng Wang, Xin Lin, Pan&#8208;Lin Shao, Jingyuan Song, Jialin Wen, Xumu Zhang</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04811</guid>
-    </item>
     <item>
       <title>Iridium-Catalyzed Asymmetric Cascade Allylation/[1,4]-Phospha-Brook Rearrangement Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c04078</link>

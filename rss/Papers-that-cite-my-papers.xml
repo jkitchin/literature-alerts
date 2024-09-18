@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Sep 2024 01:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 01:16:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Alkali Metals Activated High Entropy Double Perovskites for Boosted Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/advs.202406453</link>
-      <description>Nian X. Sun, Zhuangzhuang Lai, Zihan Wang, Nader Sheibani, Tianyi Wang, Zhichuan Zheng, Bowen Zhang, Xin Dong, Wei Peng, Peng Du, Zhiwei Hu, Chih&#8208;Wen Pao, Wei&#8208;Hsiang Huang, Haifeng Wang, Ming Lei, Kai Huang, Runze Yu, Advanced Science. None(None)] 2024. https://openalex.org/W4402354851
-
-                Abstract An efficient and facile water dissociation process plays a crucial role in enhancing the activity of alkaline hydrogen evolution reaction (HER). Considering the intricate influence between interfacial water and intermediates in typical catalytic systems, meticulously engineered catalysts should be developed by modulating electron configurations and optimizing surface chemical bonds. Here, a high&#8208;entropy double perovskite (HEDP) electrocatalyst La 2 (Co 1/6 Ni 1/6 Mg 1/6 Zn 1/6 Na 1/6 Li 1/6 )RuO 6 , achieving a reduced overpotential of 40.7 mV at 10 mA cm &#8722;2 and maintaining exemplary stability over 82 h in a 1 m KOH electrolyte is reported. Advanced spectral characterization and first&#8208;principles calculations elucidate the electron transfer from Ru to Co and Ni positions, facilitated by alkali metal&#8208;induced super&#8208;exchange interaction in high&#8208;entropy crystals. This significantly optimizes hydrogen adsorption energy and lowers the water decomposition barrier. Concurrently, the super&#8208;exchange interaction enhances orbital hybridization and narrows the bandgap, thus improving catalytic efficiency and adsorption capacity while mitigating hysteresis&#8208;driven proton transfer. The high&#8208;entropy framework also ensures structural stability and longevity in alkaline environments. The work provides further insights into the formation mechanisms of HEDP and offers guidelines for discovering advanced, efficient hydrogen evolution catalysts through super&#8208;exchange interaction.</description>
-      <author>Nian X. Sun, Zhuangzhuang Lai, Zihan Wang, Nader Sheibani, Tianyi Wang, Zhichuan Zheng, Bowen Zhang, Xin Dong, Wei Peng, Peng Du, Zhiwei Hu, Chih&#8208;Wen Pao, Wei&#8208;Hsiang Huang, Haifeng Wang, Ming Lei, Kai Huang, Runze Yu</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202406453</guid>
-    </item>
-    <item>
-      <title>Dissolution Manufacturing Strategy for the Facile Synthesis of Nanoporous Metallic Glass Multifunctional Catalyst</title>
-      <link>https://doi.org/10.1002/smtd.202401109</link>
-      <description>Shenghao Zeng, Wenqing Ruan, Zhe Chen, Shuai Ren, J.Z. Jiang, Jiajia Lin, Heting Zhang, Zhenxuan Zhang, Jianan Fu, Qing Chen, Xiong Liang, Jiang Ma, Small Methods. None(None)] 2024. https://openalex.org/W4402362637
-
-                Abstract The quest for heightened energy efficiency is inextricably linked to advancements in energy storage and conversion technologies, wherein multifunctional catalysts play a pivotal role by mitigating the slow kinetics endemic to many catalytic reactions. The intricate synthesis and bespoke design of such catalysts, however, present notable challenges. Addressing this, the present study capitalizes on a novel dissolution manufacturing strategy to engineer self&#8208;supporting, nanoporous multifunctional electrocatalysts, circumventing the prevalent issue of customizing catalytic functionalities upon demand. This innovative approach grants the flexibility to finely tune the incorporation of active species and metalloid binders, culminating in the creation of a self&#8208;supporting nanoporous metal glass electrocatalyst doped with RuO 2 (NPMG@RuO 2 ) with outstanding performance in alkaline media. The catalyst showcases superior electrocatalytic activity, achieving low overpotentials of 41.50 mV for the Hydrogen Evolution Reaction and 226.0 mV for Oxygen Evolution Reaction alongside sustained stability over 620 hours.These achievements are attributed to the distinct nanoporous architecture that ensures a high density of catalytic sites and mechanical strength, bolstered by the synergistic interplay between RuO 2 and Pt&#8208;based metallic glass. The findings provide a versatile template for the development of nanoporous multifunctional catalysts, signifying a leap forward in the realm of energy conversion technologies.</description>
-      <author>Shenghao Zeng, Wenqing Ruan, Zhe Chen, Shuai Ren, J.Z. Jiang, Jiajia Lin, Heting Zhang, Zhenxuan Zhang, Jianan Fu, Qing Chen, Xiong Liang, Jiang Ma</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401109</guid>
-    </item>
-    <item>
-      <title>Spatially Confined Alloying of Pt Accelerates Mass Transport for Fuel Cell Oxygen Reduction</title>
-      <link>https://doi.org/10.1002/smll.202405748</link>
-      <description>Yuxin Gao, Huan Liu, Xintian Wang, Xiao Liu, Bin Shan, Rong Chen, Small. None(None)] 2024. https://openalex.org/W4402362698
-
-                Abstract Pt&#8208;based alloy with high mass activity and durability is highly desired for proton exchange membrane fuel cells, yet a great challenge remains due to the high mass transport resistance near catalysts with lowering Pt loading. Herein, an extensible approach employing atomic layer deposition to accurately introduce a gas&#8208;phase metal precursor into platinum nanoparticles (NPs) pre&#8208;filled mesoporous channels is reported, achieved by controlling both the deposition site and quantity. Following the spatially confined alloying treatment, the prepared PtSn alloy catalyst within mesopores demonstrates a small size and homogeneous distribution (2.10 &#177; 0.53 nm). The membrane electrode assembly with mesoporous carbon&#8208;supported PtSn alloy catalyst achieves a high initial mass activity of 0.85 A at 0.9 V, which is attributed to the smallest local oxygen transport resistance (3.68 S m &#8722;1 ) ever reported. The mass activity of the catalyst only decreases by 11% after 30000 cycles of accelerated durability test, representing superior full&#8208;cell durability among the reported Pt&#8208;based alloy catalysts. The enhanced activity and durability are attributed to the decreased adsorption energy of oxygen intermediates on Pt surface and the strong electronic interaction between Pt and Sn inhibiting Pt dissolution.</description>
-      <author>Yuxin Gao, Huan Liu, Xintian Wang, Xiao Liu, Bin Shan, Rong Chen</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202405748</guid>
-    </item>
-    <item>
-      <title>Hydrogen adsorption on fcc metal surfaces towards the rational design of electrode materials</title>
-      <link>https://doi.org/10.1038/s41598-024-71703-w</link>
-      <description>Cl&#225;udio M. Lousada, Atharva M Kotasthane, Scientific Reports. 14(1)] 2024. https://openalex.org/W4402369593
-
-                Abstract The successful large-scale implementation of hydrogen as an energy vector requires high performance electrodes and catalysts made of abundant materials. Rational materials design strategies are the most efficient means of reaching this goal. Here we present a study on the adsorption of H-atoms onto fcc transition metal surfaces and propose descriptors for the rational design of electrodes and catalysts by means of correlations between fundamental properties of the materials and among other properties, their experimentally measured performance as hydrogen evolution electrodes (HEE). A large set of quantum mechanical modelling data at the DFT level was produced, covering the adsorption of H-atoms onto the most stable surfaces (100), (110) and (111) of: Ag, Au, Co, Cu, Ir, Ni, Pd, Pt and Rh. For each material and surface, a coverage dependent set of minimum energy structures was produced and chemical potentials for adsorption of H-atoms were obtained. Averaging procedures are here proposed to approach modelling to the experiments. Several correlations between the computed data and experimentally measured quantities are done to validate our methodology: surface plane dependent adsorption energies, chemical potentials and experimentally determined surface energies and work functions. We search for descriptors of catalytic activity by testing correlations between the DFT data obtained from our averaging procedures and experimental data on HEE performance. Our methodology allows us to obtain linear correlations between the adsorption energy of H-atoms and the exchange current density ( i 0 ) in a HEE, avoiding the volcano-like plots. We show that the chemical potential has limitations as a descriptor of i 0 because it reaches an early plateau in terms of i 0 . Simple quantities obtained from database data such as the first stage electronegativity (&#967;) as devised by Mulliken has a strong linear correlation i 0 . With a quantity we denominate modified second-stage electronegativity (&#967; 2m ) we can reproduce the typical volcano plot in a correlation with i 0 . A theoretical and conceptual framework is presented. It shows that both &#967; and &#967; 2m , that depend on the first ionization potential, second ionization potential and electron affinity of the elements can be used as descriptors in rational design of electrodes or of catalysts for hydrogen systems.</description>
-      <author>Cl&#225;udio M. Lousada, Atharva M Kotasthane</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-71703-w</guid>
-    </item>
-    <item>
-      <title>Electron Release via Internal Polarization Fields for Optimal S&#8208;H Bonding States</title>
-      <link>https://doi.org/10.1002/adma.202411211</link>
-      <description>Hyunho Seok, Minjun Kim, Jinill Cho, Sihoon Son, Yonas Tsegaye Megra, Jin-Hyoung Lee, Myeong Gyun Nam, Keon&#8208;Woo Kim, K&#252;bra Ayd&#305;n, Seong Soo Yoo, Hyeonjeong Lee, Vinit Kanade, Muyoung Kim, Jihun Mun, Jin Kon Kim, Ji Won Suk, Hyeong&#8208;U Kim, Pil J. Yoo, Taesung Kim, Advanced Materials. None(None)] 2024. https://openalex.org/W4402376928
-
-                Abstract Transition metal dichalcogenides (TMDs) have received considerable attention as promising electrocatalysts for the hydrogen evolution reaction (HER), yet their potential is often constrained by the inertness of the basal planes arising from their poor hydrogen adsorption ability. Here, the relationship between the electronic structure of the WS 2 basal plane and HER activity is systemically analyzed to establish a clear insight. The valance state of the sulfur atoms on the basal plane has been tuned to enhance hydrogen adsorption through sequential engineering processes, including direct phase transition and heterostructure that induces work function&#8208;difference&#8208;induced unidirectional electron transfer. Additionally, an innovative synthetic approach, harnessing the built&#8208;in internal polarization field at the W&#8208;graphene heterointerface, triggers the in&#8208;situ formation of sulfur vacancies in the bottom WS x (x &lt; 2) layers. The resultant modulation of the valance state of the sulfur atom stabilizes the W&#8208;S bond, while destabilizing the S&#8208;H bond. The electronic structural changes are further amplified by the release and transfer of surplus electrons via sulfur vacancies, filling the valance state of W and S atoms. Consequently, this work provides a comprehensive understanding of the interplay between the electronic structure of the WS 2 basal plane and the HER activity, focusing on optimizing S&#8208;H bonding state.</description>
-      <author>Hyunho Seok, Minjun Kim, Jinill Cho, Sihoon Son, Yonas Tsegaye Megra, Jin-Hyoung Lee, Myeong Gyun Nam, Keon&#8208;Woo Kim, K&#252;bra Ayd&#305;n, Seong Soo Yoo, Hyeonjeong Lee, Vinit Kanade, Muyoung Kim, Jihun Mun, Jin Kon Kim, Ji Won Suk, Hyeong&#8208;U Kim, Pil J. Yoo, Taesung Kim</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202411211</guid>
-    </item>
-    <item>
-      <title>New Morphology Modifier Enables the Preparation of Ultra&#8208;Long Platinum Nanowires Excluding Mo Component for Efficient Oxygen Reduction Reaction Performance</title>
-      <link>https://doi.org/10.1002/smtd.202401138</link>
-      <description>Zhiwei Hu, Jiajia Yang, Lei Tang, &#1041;&#1086; &#1051;&#1102;, Yihua Zhu, R. Li, Cui Liu, Jianhua Shen, Small Methods. None(None)] 2024. https://openalex.org/W4402376933
-
-                Abstract The structural tailoring of Pt&#8208;based catalysts into 1D nanowires for oxygen reduction reactions (ORR) has been a focus of research. Mo(CO) 6 is commonly used as a morphological modifier to form nanowires, but it is found that it inevitably leads to Mo doping. This doping introduces unique electrochemical signals not seen in other Pt&#8208;based catalysts, which can directly reflect the stability of the catalyst. Through experiments, it is demonstrated that Mo doping is detrimental to ORR performance, and theoretical calculations have shown that Mo sites that are inherently inactive also poison the ORR activity of the surrounding Pt. Therefore, a novel gas&#8208;assisted technique is proposed to replace Mo(CO) 6 with CO, which forms ultrafine nanowires with an order of magnitude increase in length, ruling out the effect of Mo. The catalyst performs at 1.24 A mg Pt &#8722;1 , 7.45 times greater than Pt/C, demonstrating significant ORR mass activity, and a substantial improvement in stability. The proton exchange membrane fuel cell using this catalyst provides a higher power density (0.7 W cm &#8722;2 ). This study presents a new method for the preparation of ultra&#8208;long nanowires, which opens up new avenues for future practical applications of low&#8208;Pt catalysts in PEMFC.</description>
-      <author>Zhiwei Hu, Jiajia Yang, Lei Tang, &#1041;&#1086; &#1051;&#1102;, Yihua Zhu, R. Li, Cui Liu, Jianhua Shen</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401138</guid>
-    </item>
-    <item>
-      <title>Formation Characteristics of Pt&#8208;Ni Alloy Nanoparticles Fabricated by Nanolamination of Atomic Layer Deposition in Hydrogen</title>
-      <link>https://doi.org/10.1002/smll.202404943</link>
-      <description>Mei-Hsiu Liao, T.S. Chin, Xu&#8208;Feng Luo, Yu&#8208;Chun Chuang, Tsong&#8208;Pyng Perng, Small. None(None)] 2024. https://openalex.org/W4402377237
-
-                Abstract Forced&#8208;flow atomic layer deposition nanolamination is employed to fabricate Pt&#8208;Ni nanoparticles on XC&#8208;72, with the compositions ranging from Pt 94 Ni 6 to Pt 67 Ni 33 . Hydrogen is used as a co&#8208;reactant for depositing Pt and Ni. The growth rate of Pt is slower than that using oxygen reactant, and the growth exhibits preferred orientation along the (111) plane. Ni shows much slower growth rate than Pt, and it is only selectively deposited on Pt, not on the substrate. Higher ratios of Ni would hinder subsequent stacking of Pt atoms, resulting in lower overall growth rate and smaller particles (1.3&#8211;2.1 nm). Alloying of Pt with Ni causes shifted lattice that leads to larger lattice parameter and d&#8208;spacing as Ni fraction increases. From the electronic state analysis, Pt 4f peaks are shifted to lower binding energies with increasing the Ni content, suggesting charge transfer from Ni to Pt. Schematic of the growth behavior is proposed. Most of the alloy nanoparticles exhibit higher electrochemical surface area and oxygen reduction reaction activity than those of commercial Pt. Especially, Pt 83 Ni 17 and Pt 87 Ni 13 show excellent mass activities of 0.76 and 0.59 A mg Pt &#8722;1 , respectively, higher than the DOE target of 2025, 0.44 A mg Pt &#8722;1 .</description>
-      <author>Mei-Hsiu Liao, T.S. Chin, Xu&#8208;Feng Luo, Yu&#8208;Chun Chuang, Tsong&#8208;Pyng Perng</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404943</guid>
-    </item>
-    <item>
-      <title>Structural Modification Effect of Se&#8208;doped Porous Carbon for Hydrogen Evolution Coupled Selective Electrooxidation of Ethylene Glycol to Value&#8208;added Glycolic Acid</title>
-      <link>https://doi.org/10.1002/smll.202404540</link>
-      <description>Daehee Jang, Minseon Park, Junbeom Maeng, Jungseub Ha, Si&#8208;Young Choi, Nayeon Kim, Min Ho Seo, Won Bae Kim, Small. None(None)] 2024. https://openalex.org/W4402377581
-
-                Abstract The ethylene glycol oxidation reaction (EGOR) has attracted attention because ethylene glycol (EG), which exhibits large&#8208;scale production and a low market price, can be reformed into valuable glycolic acid (GCA) with the cogeneration of high&#8208;purity hydrogen gas during the reaction. In this study, a noble catalyst material of Pt nanoparticles supported on Se&#8208;doped porous carbon (Pt/SePC) is prepared and investigated for the selective electrochemical oxidation of EG to GCA. Pt/SePC achieved a maximum EG conversion of 94.6% and GCA selectivity of 84.4% and maintained this high performance with negligible degradation during durability tests. Furthermore, the EGOR required lower overpotential rather than the oxygen evolution reaction, thus the EGOR coupled with the hydrogen evolution reaction can reduce the cell overpotential to 0.60 V, which is much lower than that of water electrolysis (1.58 V). The effect of Se doping is investigated through experimental analyses and density functional theory (DFT) calculations, and they shows that Se modified the binding energy of Pt nanoparticles and the adsorption energy of reactants by lattice deformation and charge density modification. This study provides scientific insights and strategies for electrocatalyst design for the selective oxidation of polyols to value&#8208;added chemicals via the cogeneration of hydrogen gas.</description>
-      <author>Daehee Jang, Minseon Park, Junbeom Maeng, Jungseub Ha, Si&#8208;Young Choi, Nayeon Kim, Min Ho Seo, Won Bae Kim</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404540</guid>
-    </item>
-    <item>
-      <title>Magnetically Enhanced Oxygen Evolution Reaction in Mild Alkaline Electrolytes by Building Catalysts on Magnetic Frame</title>
-      <link>https://doi.org/10.1002/smll.202405946</link>
-      <description>Ming Xie, Haotian Wang, Xianjun Li, Guojun Han, Yongqiang Yang, Xinyue Shi, Shi&#8208;Yi Lin, Guo&#8208;Xing Miao, Meng&#8208;Hao Yang, Jing Fu, Small. None(None)] 2024. https://openalex.org/W4402377734
-
-                Abstract Under large current densities, the excessive hydroxide ion (OH) consumption hampers alkaline water splitting involving the oxygen evolution reaction (OER). High OH concentration (&#8776;30 wt.%) is often used to enhance the catalytic activity of OER, but it also leads to higher corrosion in practical systems. To achieve higher catalytic activity in low OH concentration, catalysts on magnetic frame (CMF) are built to utilize the local magnetic convection induced from the host frame's magnetic field distributions. This way, a higher reaction rate can be achieved in relatively lower OH concentrations. A CMF model system with catalytically active CoFeO x nanograins grown on the magnetic Ni foam is demonstrated. The OER current of CoFeO x @NF receives &#8776;90% enhancement under 400 mT (900 mA cm &#8722;2 at 1.65 V) compared to that in zero field, and exhibits remarkable durability over 120 h. As a demonstration, the water&#8208;splitting performance sees a maximum 45% magnetic enhancement under 400 mT in 1 m KOH (700 mA cm &#8722;2 at 2.4 V), equivalent to the concentration enhancement of the same electrode in a more corrosive 2 m KOH electrolyte. Therefore, the catalyst&#8208;on&#8208;magnetic&#8208;frame strategy can make efficient use of the catalysts and achieve higher catalytic activity in low OH concentration by harvesting local magnetic convection.</description>
-      <author>Ming Xie, Haotian Wang, Xianjun Li, Guojun Han, Yongqiang Yang, Xinyue Shi, Shi&#8208;Yi Lin, Guo&#8208;Xing Miao, Meng&#8208;Hao Yang, Jing Fu</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202405946</guid>
-    </item>
-    <item>
-      <title>Arsenene/Ti&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;2&lt;/sub&gt; Heterojunction as a Promising Z&#8208;Scheme Photocatalyst for Overall Water Splitting</title>
-      <link>https://doi.org/10.1002/adfm.202408353</link>
-      <description>Ling Hua, Youxi Wang, Zhenyu Li, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4402377844
-
-                Abstract In order to address imminent energy and environmental challenges, photocatalytic water splitting emerges as a promising way for harnessing solar radiation to generate clean chemical energy. 2D arsenene (&#946;&#8208;As) has notable catalytic activity in hydrogen production. Based on first principles calculations and non&#8208;adiabatic molecular dynamics (NAMD) simulations, the &#946;&#8208;As/Ti 2 CO 2 heterojunction is predicted to be a promising Z&#8208;scheme photocatalyst for overall solar water splitting. It has a desirable energy band structure with the valence band maximum of Ti 2 CO 2 and the conduction band minimum of &#946;&#8208;As well below and above the redox potentials of H 2 O. Both hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) can proceed spontaneously under light irradiation. NAMD simulations confirm that it is a Z&#8208;scheme photocatalyst with fast electron&#8211;hole combination dynamics. Instead of by intrinsic electric field, such a fast electron&#8211;hole combination is driven by a large nonadiabatic coupling. The heterojunction exhibits strong optical absorption in the visible and ultraviolet regions. The estimated solar&#8208;to&#8208;hydrogen (STH) efficiency limit of &#946;&#8208;As/Ti 2 CO 2 reaches 32%, which is the highest among all &#946;&#8208;As based junctions reported in the literature. These results suggest that &#946;&#8208;As/Ti 2 CO 2 is a promising photocatalyst for achieving overall water splitting.</description>
-      <author>Ling Hua, Youxi Wang, Zhenyu Li</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408353</guid>
-    </item>
     <item>
       <title>Enhancing hydrogen evolution reaction performance through defect engineering in WTeX (X= S, Se) monolayers: A first-principles study</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.09.069</link>
@@ -526,16 +426,6 @@
       <author>Tingting Xu, Jinting Chen, Jinghan Zhang, Haixiang Huang, Bogu Liu, Yawei Li, Xiaohong Chen, Hong Zeng, Ying Wu</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161209</guid>
-    </item>
-    <item>
-      <title>Effect of the cryogenic treatment on the electrocatalytic performance of the active self-supporting nanoporous Pd&#8211;Ag catalyst with high-index facets&#8217; preferred orientation</title>
-      <link>https://doi.org/10.1007/s11581-024-05798-6</link>
-      <description>Jihai Duan, Fang Si, Jiafen Wang, Linlin Lu, Jia Liu, Yanyan Song, Jiahui Mo, Jiaxin Yu, Jinlong Gao, Ionics. None(None)] 2024. https://openalex.org/W4402354303
-
-                No abstract</description>
-      <author>Jihai Duan, Fang Si, Jiafen Wang, Linlin Lu, Jia Liu, Yanyan Song, Jiahui Mo, Jiaxin Yu, Jinlong Gao</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05798-6</guid>
     </item>
     <item>
       <title>Ultrafast joule-heating synthesis of FeCoMnCuAl high-entropy-alloy nanoparticles as efficient OER electrocatalysts</title>
