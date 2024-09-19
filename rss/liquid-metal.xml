@@ -4,38 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Sep 2024 01:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 01:18:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>An Atomic&#8208;scale Explanation For The High Selectivity Towards Carbon Dioxide Reduction Observed On Liquid Metal Catalysts</title>
-      <link>https://doi.org/10.1002/ange.202407124</link>
-      <description>Charlie Ruffman, Krista G. Steenbergen, Nicola Gaston, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402396607
-
-                The low&#8208;temperature liquid metals Ga&#8208;In and Ga&#8208;Sn have previously showcased &gt;95% selectivity towards the electrochemical reduction of CO2 to formate, occuring only when the alloys are melted, not solid. Here, density functional theory molecular dynamics and metadynamics simulations reveal that CO2 does not directly adsorb to the Ga&#8208;alloy surface, but instead is reduced indirectly by reaction with an adsorbed hydrogen. The reaction barrier is vastly more favourable when this process occurs at In or Sn sites (average: 0.26 eV), than when it occurs on Ga (average: 0.47 eV). However, there is no difference in barrier between solid and liquid surfaces. Instead, we find that Hads is mobile only on the liquid surface, travelling due to the motion of the liquid beneath. This process drives Hads to In/Sn sites, allowing low&#8208;barrier CO2 reduction to occur only on the liquid. Therefore, the dynamic motion of liquid metal catalysts can underpin their unique reactivity. The result has far reaching implications for any protonation reaction conducted with a liquid metal catalyst.</description>
-      <author>Charlie Ruffman, Krista G. Steenbergen, Nicola Gaston</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202407124</guid>
-    </item>
-    <item>
-      <title>An Atomic&#8208;scale Explanation For The High Selectivity Towards Carbon Dioxide Reduction Observed On Liquid Metal Catalysts</title>
-      <link>https://doi.org/10.1002/anie.202407124</link>
-      <description>Charlie Ruffman, Krista G. Steenbergen, Nicola Gaston, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402414963
-
-                The low&#8208;temperature liquid metals Ga&#8208;In and Ga&#8208;Sn have previously showcased &gt;95% selectivity towards the electrochemical reduction of CO2 to formate, occuring only when the alloys are melted, not solid. Here, density functional theory molecular dynamics and metadynamics simulations reveal that CO2 does not directly adsorb to the Ga&#8208;alloy surface, but instead is reduced indirectly by reaction with an adsorbed hydrogen. The reaction barrier is vastly more favourable when this process occurs at In or Sn sites (average: 0.26 eV), than when it occurs on Ga (average: 0.47 eV). However, there is no difference in barrier between solid and liquid surfaces. Instead, we find that Hads is mobile only on the liquid surface, travelling due to the motion of the liquid beneath. This process drives Hads to In/Sn sites, allowing low&#8208;barrier CO2 reduction to occur only on the liquid. Therefore, the dynamic motion of liquid metal catalysts can underpin their unique reactivity. The result has far reaching implications for any protonation reaction conducted with a liquid metal catalyst.</description>
-      <author>Charlie Ruffman, Krista G. Steenbergen, Nicola Gaston</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202407124</guid>
-    </item>
-    <item>
-      <title>Hydrogen Adsorption on Solid and Liquid Surfaces of Ga&#8211;Sn and Ga&#8211;In</title>
-      <link>https://doi.org/10.1002/admi.202400456</link>
-      <description>Charlie Ruffman, Samuel R. B. Case, Timothy P. Grayson, Nicola Gaston, Advanced Materials Interfaces. None(None)] 2024. https://openalex.org/W4402396019
-
-                Abstract Dynamic liquid metal catalysts have remarkable activity and selectivity toward certain reactions, such as carbon dioxide reduction. The surface hydrogen coverage may play a role in this, including controlling competing reactions such as hydrogen evolution. Using a novel method of statistically selecting relevant snapshots from a dynamic liquid metal trajectory, the hydrogen adsorption energy is reported across liquid surfaces of Ga&#8211;Sn and Ga&#8211;In via density functional theory. A fully dynamic sampling of hydrogen adsorption to the liquid metal is also conducted with ab initio molecular dynamics at temperature. The results indicate that hydrogen only associates weakly with Ga&#8211;Sn and Ga&#8211;In surfaces, with minimal difference between the two materials. Hydrogen adsorbs only slightly more stably (&#8776;0.1 eV) to the liquid surfaces compared to the solid. A low hydrogen coverage is predicted on the liquid metal of &#8776;0.03 H &#197; &#8722;2 at potentials of around &#8211;1.15 V (vs RHE). However, the mobility of hydrogen on the liquid surface is much greater due to a novel mechanism whereby the dynamic surface rearranges, opening pathways for diffusion. The results suggest that the unique catalytic behavior of these liquid metal materials may be due to changes in adsorbate diffusivity when the metals are melted.</description>
-      <author>Charlie Ruffman, Samuel R. B. Case, Timothy P. Grayson, Nicola Gaston</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/admi.202400456</guid>
-    </item>
   </channel>
 </rss>

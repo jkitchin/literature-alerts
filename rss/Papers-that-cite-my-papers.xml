@@ -4,108 +4,38 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Sep 2024 01:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 01:18:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Enhancing hydrogen evolution reaction performance through defect engineering in WTeX (X= S, Se) monolayers: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.09.069</link>
-      <description>Wenhua Lou, Jingming Gao, Gang Liu, Asad Ali, Baonan Jia, Xiaoning Guan, Xiao&#8208;Guang Ma, International Journal of Hydrogen Energy. 87(None)] 2024. https://openalex.org/W4402395244
+      <title>Computational screening of transition metal atom doped ZnS and ZnSe nanostructures as promising bifunctional oxygen electrocatalysts</title>
+      <link>https://doi.org/10.1039/d4ra04011b</link>
+      <description>Feifei Xia, Shu Li, Fengli Yang, Yingpin Wen, Chunzhi Zheng, RSC Advances. 14(40)] 2024. https://openalex.org/W4402491900
+
+                The design of bifunctional oxygen electrocatalysts showing high catalytic performance for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) is of great significance for developing new renewable energy storage and conversion technologies. Herein, based on the first principles calculations, we systematically explored the electrocatalytic activity of a series of transition metal atom (Fe, Co, Ni, Cu, Pd and Pt)-doped ZnS and ZnSe nanostructures for OER and ORR. The calculated results revealed that Ni- and Pt-doped ZnS and ZnSe nanostructures exhibit promising electrocatalytic performance for both OER and ORR in comparison to the pristine ZnS and ZnSe nanostructures. Especially, the OER/ORR overpotentials of Ni-doped ZnS and ZnSe nanostructures are estimated to be 0.28/0.30 and 0.31/0.31 V, respectively, disclosing their great potential as bifunctional oxygen electrocatalysts. Moreover, it is found that Ni-doped ZnS and ZnSe nanostructures for OER and ORR are on the top of the volcano plots, evincing promising catalytic performance. Our results provide theoretical insights into a feasible strategy to synthesize highly efficient ZnS- and ZnSe-based bifunctional oxygen electrocatalysts in the future.</description>
+      <author>Feifei Xia, Shu Li, Fengli Yang, Yingpin Wen, Chunzhi Zheng</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra04011b</guid>
+    </item>
+    <item>
+      <title>Electrochemical Direct Methane to Methanol</title>
+      <link>https://doi.org/10.1016/b978-0-443-15740-0.00130-0</link>
+      <description>Ebrahim Ghanbari, Mohammad Reza Rahimpour, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4402559239
 
                 No abstract</description>
-      <author>Wenhua Lou, Jingming Gao, Gang Liu, Asad Ali, Baonan Jia, Xiaoning Guan, Xiao&#8208;Guang Ma</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.069</guid>
+      <author>Ebrahim Ghanbari, Mohammad Reza Rahimpour</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-15740-0.00130-0</guid>
     </item>
     <item>
-      <title>Hydrogen Adsorption on Solid and Liquid Surfaces of Ga&#8211;Sn and Ga&#8211;In</title>
-      <link>https://doi.org/10.1002/admi.202400456</link>
-      <description>Charlie Ruffman, Samuel R. B. Case, Timothy P. Grayson, Nicola Gaston, Advanced Materials Interfaces. None(None)] 2024. https://openalex.org/W4402396019
-
-                Abstract Dynamic liquid metal catalysts have remarkable activity and selectivity toward certain reactions, such as carbon dioxide reduction. The surface hydrogen coverage may play a role in this, including controlling competing reactions such as hydrogen evolution. Using a novel method of statistically selecting relevant snapshots from a dynamic liquid metal trajectory, the hydrogen adsorption energy is reported across liquid surfaces of Ga&#8211;Sn and Ga&#8211;In via density functional theory. A fully dynamic sampling of hydrogen adsorption to the liquid metal is also conducted with ab initio molecular dynamics at temperature. The results indicate that hydrogen only associates weakly with Ga&#8211;Sn and Ga&#8211;In surfaces, with minimal difference between the two materials. Hydrogen adsorbs only slightly more stably (&#8776;0.1 eV) to the liquid surfaces compared to the solid. A low hydrogen coverage is predicted on the liquid metal of &#8776;0.03 H &#197; &#8722;2 at potentials of around &#8211;1.15 V (vs RHE). However, the mobility of hydrogen on the liquid surface is much greater due to a novel mechanism whereby the dynamic surface rearranges, opening pathways for diffusion. The results suggest that the unique catalytic behavior of these liquid metal materials may be due to changes in adsorbate diffusivity when the metals are melted.</description>
-      <author>Charlie Ruffman, Samuel R. B. Case, Timothy P. Grayson, Nicola Gaston</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/admi.202400456</guid>
-    </item>
-    <item>
-      <title>Machine Learning for Determining the Architecture of Ensembles of Bimetallic PtCu Nanoparticles Based on Atomic Radial Distribution Functions</title>
-      <link>https://doi.org/10.1134/s2635167623601304</link>
-      <description>Ya. N. Gladchenko-Djevelekis, Darya Tolchina, V. V. Srabionyan, &#1042;. &#1040;. &#1044;&#1091;&#1088;&#1099;&#1084;&#1072;&#1085;&#1086;&#1074;, L. A. Avakyan, &#1051;. &#1040;. &#1041;&#1091;&#1075;&#1072;&#1077;&#1074;, Nanobiotechnology Reports. 19(2)] 2024. https://openalex.org/W4402398758
+      <title>Equivariance is essential, local representation is a need: A comprehensive and critical study of machine learning potentials for tobermorite phases</title>
+      <link>https://doi.org/10.1016/j.commatsci.2024.113363</link>
+      <description>Keming Zhu, Zhibin Zhang, Computational Materials Science. 246(None)] 2024. https://openalex.org/W4402565410
 
                 No abstract</description>
-      <author>Ya. N. Gladchenko-Djevelekis, Darya Tolchina, V. V. Srabionyan, &#1042;. &#1040;. &#1044;&#1091;&#1088;&#1099;&#1084;&#1072;&#1085;&#1086;&#1074;, L. A. Avakyan, &#1051;. &#1040;. &#1041;&#1091;&#1075;&#1072;&#1077;&#1074;</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1134/s2635167623601304</guid>
-    </item>
-    <item>
-      <title>On the Structure Sensitivity of CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation over Cu/ZrO&lt;sub&gt;2&lt;/sub&gt;: Insights into the Role of the Support and the Active Sites</title>
-      <link>https://doi.org/10.1021/acscatal.4c03803</link>
-      <description>Tom&#225;s Vergara, Daviel G&#243;mez, Lucas Warmuth, Annika E. Enss, Martin Peterlechner, Rodrigo Pallac&#225;n, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Felix Studt, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402402343
-
-                No abstract</description>
-      <author>Tom&#225;s Vergara, Daviel G&#243;mez, Lucas Warmuth, Annika E. Enss, Martin Peterlechner, Rodrigo Pallac&#225;n, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Felix Studt, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03803</guid>
-    </item>
-    <item>
-      <title>Catalysis of oxygen reduction reaction by iron porphyrin and its sensing application</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118647</link>
-      <description>Tidapa Rattanaumpa, Pakuna Panbo, Suwit Suthirakun, Keerakit Kaewket, Jinnapat Wijitsak, Piyanut Pinyou, Kamonwad Ngamchuea, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4402404651
-
-                No abstract</description>
-      <author>Tidapa Rattanaumpa, Pakuna Panbo, Suwit Suthirakun, Keerakit Kaewket, Jinnapat Wijitsak, Piyanut Pinyou, Kamonwad Ngamchuea</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118647</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic Activity of Bimetallic Transition Metal Oxides for O&lt;sub&gt;2&lt;/sub&gt; Evolution Reactions</title>
-      <link>https://doi.org/10.1021/acsaem.4c01417</link>
-      <description>Shagun Singh, Naiwrit Karmodak, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4402404992
-
-                No abstract</description>
-      <author>Shagun Singh, Naiwrit Karmodak</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c01417</guid>
-    </item>
-    <item>
-      <title>Navigating Alkaline Hydrogen Evolution Reaction Descriptors for Electrocatalyst Design</title>
-      <link>https://doi.org/10.3390/catal14090608</link>
-      <description>Samuel Akinlolu Ogunkunle, Fabien Mortier, Assil Bouzid, Jack Jon Hinsch, Lei Zhang, Zhenzhen Wu, Samuel Bernard, Yong Zhu, Yun Wang, Catalysts. 14(9)] 2024. https://openalex.org/W4402411006
-
-                The quest for efficient green hydrogen production through Alkaline Water Electrolysis (AWE) is a critical aspect of the clean energy transition. The hydrogen evolution reaction (HER) in alkaline media is central to this process, with the performance of electrocatalysts being a determining factor for overall efficiency. Theoretical studies using energy-based descriptors are essential for designing high-performance alkaline HER electrocatalysts. This review summarizes various descriptors, including water adsorption energy, water dissociation barrier, and Gibbs free energy changes of hydrogen and hydroxyl adsorption. Examples of how to apply these descriptors to identify the active site of materials and better design high-performance alkaline HER electrocatalysts are provided, highlighting the previously underappreciated role of hydroxyl adsorption-free energy changes. As research progresses, integrating these descriptors with experimental data will be paramount in advancing AWE technology for sustainable hydrogen production.</description>
-      <author>Samuel Akinlolu Ogunkunle, Fabien Mortier, Assil Bouzid, Jack Jon Hinsch, Lei Zhang, Zhenzhen Wu, Samuel Bernard, Yong Zhu, Yun Wang</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14090608</guid>
-    </item>
-    <item>
-      <title>Catalysing (organo-)catalysis: Trends in the application of machine learning to enantioselective organocatalysis</title>
-      <link>https://doi.org/10.3762/bjoc.20.196</link>
-      <description>Stefan P. Schmid, Leon Schlosser, Frank Glorius, Kjell Jorner, Beilstein Journal of Organic Chemistry. 20(None)] 2024. https://openalex.org/W4402411271
-
-                Organocatalysis has established itself as a third pillar of homogeneous catalysis, besides transition metal catalysis and biocatalysis, as its use for enantioselective reactions has gathered significant interest over the last decades. Concurrent to this development, machine learning (ML) has been increasingly applied in the chemical domain to efficiently uncover hidden patterns in data and accelerate scientific discovery. While the uptake of ML in organocatalysis has been comparably slow, the last two decades have showed an increased interest from the community. This review gives an overview of the work in the field of ML in organocatalysis. The review starts by giving a short primer on ML for experimental chemists, before discussing its application for predicting the selectivity of organocatalytic transformations. Subsequently, we review ML employed for privileged catalysts, before focusing on its application for catalyst and reaction design. Concluding, we give our view on current challenges and future directions for this field, drawing inspiration from the application of ML to other scientific domains.</description>
-      <author>Stefan P. Schmid, Leon Schlosser, Frank Glorius, Kjell Jorner</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3762/bjoc.20.196</guid>
-    </item>
-    <item>
-      <title>Enhancing Nitrogen Activation in Electrochemical Reduction: The Role of Rare Earth Oxide Surface Configurations</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02531</link>
-      <description>Sharmistha Karmakar, Meng Li, Abderrahman Atifi, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402413266
-
-                No abstract</description>
-      <author>Sharmistha Karmakar, Meng Li, Abderrahman Atifi</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02531</guid>
-    </item>
-    <item>
-      <title>Hydrogen Peroxide Generation and Hydrogen Oxidation Reaction on Pt/Co/Pt(111) and Pt/Co/Pt(100) Single-Crystal Model Catalyst Surface</title>
-      <link>https://doi.org/10.1021/acscatal.4c03106</link>
-      <description>Kenta Hayashi, Takeru Tomimori, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402413399
-
-                No abstract</description>
-      <author>Kenta Hayashi, Takeru Tomimori, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03106</guid>
+      <author>Keming Zhu, Zhibin Zhang</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113363</guid>
     </item>
     <item>
       <title>Toward Reliable Conformational Energies of Amino Acids and Dipeptides&#9472;The DipCONFS Benchmark and DipCONL Datasets</title>
@@ -258,16 +188,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141588</guid>
     </item>
     <item>
-      <title>Computational screening of transition metal atom doped ZnS and ZnSe nanostructures as promising bifunctional oxygen electrocatalysts</title>
-      <link>https://doi.org/10.1039/d4ra04011b</link>
-      <description>Feifei Xia, Shu Li, Fengli Yang, Yingpin Wen, Chunzhi Zheng, RSC Advances. 14(40)] 2024. https://openalex.org/W4402491900
-
-                The computed OER and ORR overpotentials of pristine and TM doped ZnX (X = S and Se) nanostructures.</description>
-      <author>Feifei Xia, Shu Li, Fengli Yang, Yingpin Wen, Chunzhi Zheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra04011b</guid>
-    </item>
-    <item>
       <title>Mechanistic studies on defective hBN-supported metal-nonmetal synergistic catalysis for urea electrosynthesis</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.161230</link>
       <description>Zi-Yang Qiu, Jing&#8208;Shuang Dang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4402495689
@@ -408,24 +328,24 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155778</guid>
     </item>
     <item>
-      <title>Review of External Field Effects on Electrocatalysis: Machine Learning Guided Design</title>
-      <link>https://doi.org/10.1002/adfm.202408870</link>
-      <description>Xiaogang Wang, Xuyan Zhou, Zhenlin Luo, Sida Liu, Shengying Yue, Yan Chen, Yilun Liu, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4402411627
-
-                Abstract External field&#8208;enhanced electrocatalysis is a novel and promising approach for boosting the efficiency of electrocatalytic reactions, potentially achieving significant enhancement without altering the composition and structure of electrocatalysts. In addition, the scaling relations of electrocatalysis typically lead to similar variations of initial&#8208;state and transition&#8208;state (TS) energy, which minimally impacts the reaction energy barrier. A sophisticated design of the external field effects shall break these scaling relations. This review provides a comprehensive overview of current research on the effect of mechanical, electric, and magnetic fields on electrocatalysis. It meticulously details the mechanisms underlying activity enhancement based on external field regulations, spanning from the synthesis of electrocatalytic materials to their behavior during the reaction process and modulation of the electrolyte environment. Additionally, the applications of emerging machine learning (ML) technologies in electrocatalysis design, including machine learning interatomic potentials (MLIPs) to simulate large&#8208;scale and dynamic chemical reaction processes, data&#8208;driven design and optimization of electrocatalysis performance, are briefly reviewed. In addition, the significant potential of ML technologies in conjunction with external field regulation, envisioning them as effective tools for optimizing or reverse designing electrocatalysis, considering both thermodynamic and kinetic factors as well as the dynamic effect of electrocatalyst surfaces under extreme external fields, is highlighted.</description>
-      <author>Xiaogang Wang, Xuyan Zhou, Zhenlin Luo, Sida Liu, Shengying Yue, Yan Chen, Yilun Liu</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202408870</guid>
-    </item>
-    <item>
-      <title>Effective improvement of lithium-ion battery anode performance of Ti3C2 by alkali metal ion treatment strategy</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161209</link>
-      <description>Tingting Xu, Jinting Chen, Jinghan Zhang, Haixiang Huang, Bogu Liu, Yawei Li, Xiaohong Chen, Hong Zeng, Ying Wu, Applied Surface Science. None(None)] 2024. https://openalex.org/W4402423943
+      <title>Hydrogen spillover enhances the selective hydrogenation of &#945;,&#946;-unsaturated aldehydes on the Cu-O-Ce interface</title>
+      <link>https://doi.org/10.1016/j.cjsc.2024.100438</link>
+      <description>Jinyun Cui, Jing Wang, Teng Xu, Jiabao Lin, Kunlong Liu, Pengxin Liu, Chinese Journal of Structural Chemistry. None(None)] 2024. https://openalex.org/W4402557608
 
                 No abstract</description>
-      <author>Tingting Xu, Jinting Chen, Jinghan Zhang, Haixiang Huang, Bogu Liu, Yawei Li, Xiaohong Chen, Hong Zeng, Ying Wu</author>
+      <author>Jinyun Cui, Jing Wang, Teng Xu, Jiabao Lin, Kunlong Liu, Pengxin Liu</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161209</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100438</guid>
+    </item>
+    <item>
+      <title>Efficient and Selective Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c02283</link>
+      <description>Guan-Ming Chen, Margherita Buraschi, Rashid Al-Heidous, Satyanarayana Bonakala, Fedwa El&#8208;Mellouhi, Clotilde S. Cucinotta, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402573649
+
+                No abstract</description>
+      <author>Guan-Ming Chen, Margherita Buraschi, Rashid Al-Heidous, Satyanarayana Bonakala, Fedwa El&#8208;Mellouhi, Clotilde S. Cucinotta</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02283</guid>
     </item>
     <item>
       <title>Ultrafast joule-heating synthesis of FeCoMnCuAl high-entropy-alloy nanoparticles as efficient OER electrocatalysts</title>

@@ -1,10 +1,31 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Sep 18 01:16:46 2024
+Created on Thu Sep 19 01:18:14 2024
 
-Found 4 results from 2024-09-11 to 2024-09-18
+Found 4 results from 2024-09-12 to 2024-09-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
+
+* The impact of ammonia on particle formation in the Asian Tropopause Aerosol Layer  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402478760
+:TOPICS: Atmospheric Aerosols and their Impacts, Stratospheric Chemistry and Climate Change Impacts, Aerosols' Impact on Climate and Hydrological Cycle
+:PUBLICATION_DATE: 2024-09-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41612-024-00758-3")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402478760"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402478760"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402478760"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402478760 (Open access: True)
+    
+[[https://openalex.org/A5102960249][Christos Xenofontos]], [[https://openalex.org/A5078813162][Matthias Kohl]], [[https://openalex.org/A5107158743][Samuel Ruhl]], [[https://openalex.org/A5101612939][J. Almeida]], [[https://openalex.org/A5077912415][H. Beckmann]], [[https://openalex.org/A5092936143][Lucía Caudillo-Plath]], [[https://openalex.org/A5054830781][Sébastian Ehrhart]], [[https://openalex.org/A5070773876][Kristina Höhler]], [[https://openalex.org/A5067455912][Mathew Sebastian]], [[https://openalex.org/A5046351966][Weimeng Kong]], [[https://openalex.org/A5107158742][Felix Kunkler]], [[https://openalex.org/A5089192083][Antti Onnela]], [[https://openalex.org/A5004351709][P. Rato Mendes]], [[https://openalex.org/A5009741925][D. A. Russell]], [[https://openalex.org/A5086950058][Mario Simon]], [[https://openalex.org/A5069343178][L. P. STARK]], [[https://openalex.org/A5043100376][Nsikanabasi Silas Umo]], [[https://openalex.org/A5092262549][Gabriela Rosalino Unfer]], [[https://openalex.org/A5101350413][Boxing Yang]], [[https://openalex.org/A5025334650][Wenjuan Yu]], [[https://openalex.org/A5017388605][Marcel Zauner-Wieczorek]], [[https://openalex.org/A5094097372][Imad Zgheib]], [[https://openalex.org/A5082103355][Zhensen Zheng]], [[https://openalex.org/A5031780924][Joachim Curtius]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5080319960][Imad El Haddad]], [[https://openalex.org/A5012711441][Richard C. Flagan]], [[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5023787844][Hartwig Harder]], [[https://openalex.org/A5043129752][Xu‐Cheng He]], [[https://openalex.org/A5009274507][J. Kirkby]], [[https://openalex.org/A5000471665][Markku Kulmala]], [[https://openalex.org/A5102403106][Ottmar Möhler]], [[https://openalex.org/A5024073664][Mira L. Pöhlker]], [[https://openalex.org/A5033551265][Siegfried Schobesberger]], [[https://openalex.org/A5018521569][Rainer Volkamer]], [[https://openalex.org/A5100768996][Mingyi Wang]], [[https://openalex.org/A5091241245][Stephan Borrmann]], [[https://openalex.org/A5081741117][Andrea Pozzer]], [[https://openalex.org/A5027329208][Jos Lelieveld]], [[https://openalex.org/A5068413254][T. Christoudias]], npj Climate and Atmospheric Science. 7(1)] 2024. https://doi.org/10.1038/s41612-024-00758-3 
+     
+During summer, ammonia emissions in Southeast Asia influence air pollution and cloud formation. Convective transport by the South Asian monsoon carries these pollutant air masses into the upper troposphere and lower stratosphere (UTLS), where they accumulate under anticyclonic flow conditions. This air mass accumulation is thought to contribute to particle formation and the development of the Asian Tropopause Aerosol Layer (ATAL). Despite the known influence of ammonia and particulate ammonium on air pollution, a comprehensive understanding of the ATAL is lacking. In this modelling study, the influence of ammonia on particle formation is assessed with emphasis on the ATAL. We use the EMAC chemistry-climate model, incorporating new particle formation parameterisations derived from experiments at the CERN CLOUD chamber. Our diurnal cycle analysis confirms that new particle formation mainly occurs during daylight, with a 10-fold enhancement in rate. This increase is prominent in the South Asian monsoon UTLS, where deep convection introduces high ammonia levels from the boundary layer, compared to a baseline scenario without ammonia. Our model simulations reveal that this ammonia-driven particle formation and growth contributes to an increase of up to 80% in cloud condensation nuclei (CCN) concentrations at cloud-forming heights in the South Asian monsoon region. We find that ammonia profoundly influences the aerosol mass and composition in the ATAL through particle growth, as indicated by an order of magnitude increase in nitrate levels linked to ammonia emissions. However, the effect of ammonia-driven new particle formation on aerosol mass in the ATAL is relatively small. Ammonia emissions enhance the regional aerosol optical depth (AOD) for shortwave solar radiation by up to 70%. We conclude that ammonia has a pronounced effect on the ATAL development, composition, the regional AOD, and CCN concentrations.    
+
+    
 
 * Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -24,27 +45,6 @@ OpenAlex: https://openalex.org/W4402453418 (Open access: False)
 [[https://openalex.org/A5106382650][Norman Tran]], [[https://openalex.org/A5067396423][Daniel Ovalle]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2024. https://doi.org/10.2172/2439776 
      
 No abstract    
-
-    
-
-* The impact of ammonia on particle formation in the Asian Tropopause Aerosol Layer  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402478760
-:TOPICS: Atmospheric Aerosols and their Impacts, Stratospheric Chemistry and Climate Change Impacts, Aerosols' Impact on Climate and Hydrological Cycle
-:PUBLICATION_DATE: 2024-09-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41612-024-00758-3")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402478760"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402478760"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402478760"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402478760 (Open access: True)
-    
-[[https://openalex.org/A5102960249][Christos Xenofontos]], [[https://openalex.org/A5078813162][Matthias Kohl]], [[https://openalex.org/A5107158743][Samuel Ruhl]], [[https://openalex.org/A5101612939][J. Almeida]], [[https://openalex.org/A5077912415][H. Beckmann]], [[https://openalex.org/A5092936143][Lucía Caudillo-Plath]], [[https://openalex.org/A5054830781][Sébastian Ehrhart]], [[https://openalex.org/A5070773876][Kristina Höhler]], [[https://openalex.org/A5067455912][Mathew Sebastian]], [[https://openalex.org/A5046351966][Weimeng Kong]], [[https://openalex.org/A5107158742][Felix Kunkler]], [[https://openalex.org/A5089192083][Antti Onnela]], [[https://openalex.org/A5004351709][P. Rato Mendes]], [[https://openalex.org/A5009741925][D. A. Russell]], [[https://openalex.org/A5086950058][Mario Simon]], [[https://openalex.org/A5069343178][L. P. STARK]], [[https://openalex.org/A5043100376][Nsikanabasi Silas Umo]], [[https://openalex.org/A5092262549][Gabriela Rosalino Unfer]], [[https://openalex.org/A5101350413][Boxing Yang]], [[https://openalex.org/A5025334650][Wenjuan Yu]], [[https://openalex.org/A5017388605][Marcel Zauner-Wieczorek]], [[https://openalex.org/A5094097372][Imad Zgheib]], [[https://openalex.org/A5082103355][Zhensen Zheng]], [[https://openalex.org/A5031780924][Joachim Curtius]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5080319960][Imad El Haddad]], [[https://openalex.org/A5012711441][Richard C. Flagan]], [[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5023787844][Hartwig Harder]], [[https://openalex.org/A5043129752][Xu‐Cheng He]], [[https://openalex.org/A5009274507][J. Kirkby]], [[https://openalex.org/A5000471665][Markku Kulmala]], [[https://openalex.org/A5102403106][Ottmar Möhler]], [[https://openalex.org/A5024073664][Mira L. Pöhlker]], [[https://openalex.org/A5033551265][Siegfried Schobesberger]], [[https://openalex.org/A5018521569][Rainer Volkamer]], [[https://openalex.org/A5100768996][Mingyi Wang]], [[https://openalex.org/A5091241245][Stephan Borrmann]], [[https://openalex.org/A5081741117][Andrea Pozzer]], [[https://openalex.org/A5027329208][Jos Lelieveld]], [[https://openalex.org/A5068413254][T. Christoudias]], npj Climate and Atmospheric Science. 7(1)] 2024. https://doi.org/10.1038/s41612-024-00758-3 
-     
-Abstract During summer, ammonia emissions in Southeast Asia influence air pollution and cloud formation. Convective transport by the South Asian monsoon carries these pollutant air masses into the upper troposphere and lower stratosphere (UTLS), where they accumulate under anticyclonic flow conditions. This air mass accumulation is thought to contribute to particle formation and the development of the Asian Tropopause Aerosol Layer (ATAL). Despite the known influence of ammonia and particulate ammonium on air pollution, a comprehensive understanding of the ATAL is lacking. In this modelling study, the influence of ammonia on particle formation is assessed with emphasis on the ATAL. We use the EMAC chemistry-climate model, incorporating new particle formation parameterisations derived from experiments at the CERN CLOUD chamber. Our diurnal cycle analysis confirms that new particle formation mainly occurs during daylight, with a 10-fold enhancement in rate. This increase is prominent in the South Asian monsoon UTLS, where deep convection introduces high ammonia levels from the boundary layer, compared to a baseline scenario without ammonia. Our model simulations reveal that this ammonia-driven particle formation and growth contributes to an increase of up to 80% in cloud condensation nuclei (CCN) concentrations at cloud-forming heights in the South Asian monsoon region. We find that ammonia profoundly influences the aerosol mass and composition in the ATAL through particle growth, as indicated by an order of magnitude increase in nitrate levels linked to ammonia emissions. However, the effect of ammonia-driven new particle formation on aerosol mass in the ATAL is relatively small. Ammonia emissions enhance the regional aerosol optical depth (AOD) for shortwave solar radiation by up to 70%. We conclude that ammonia has a pronounced effect on the ATAL development, composition, the regional AOD, and CCN concentrations.    
 
     
 

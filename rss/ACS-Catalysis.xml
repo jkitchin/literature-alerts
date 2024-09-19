@@ -4,118 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Sep 2024 01:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 01:18:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Iridium-Catalyzed Asymmetric Cascade Allylation/[1,4]-Phospha-Brook Rearrangement Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04078</link>
-      <description>Zhiyuan Yi, Hui Xu, Xin Chang, Yanfeng Dang, Xiu&#8208;Qin Dong, Chun&#8208;Jiang Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402389092
+      <title>Kinetic and Substrate Specificity Determination of Bacterial LPMOs</title>
+      <link>https://doi.org/10.1021/acscatal.4c04510</link>
+      <description>Alan Carletti, Florian Csarman, Marc&#243; Sola, Gianantonio Battistuzzi, Roland Ludwig, Giulia Di Rocco, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402566481
 
                 No abstract</description>
-      <author>Zhiyuan Yi, Hui Xu, Xin Chang, Yanfeng Dang, Xiu&#8208;Qin Dong, Chun&#8208;Jiang Wang</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04078</guid>
+      <author>Alan Carletti, Florian Csarman, Marc&#243; Sola, Gianantonio Battistuzzi, Roland Ludwig, Giulia Di Rocco</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04510</guid>
     </item>
     <item>
-      <title>Optimizing Reaction Kinetics and Thermodynamics for Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction through Spin Polarization Manipulation</title>
-      <link>https://doi.org/10.1021/acscatal.4c03802</link>
-      <description>Mingyang Li, Shiqun Wu, Dongni Liu, Zhong Chen, Chengxuan He, Jinlong Wang, Xiaoyi Gu, Zehan Zhang, Zhangyong Ning, Jinlong Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402391463
+      <title>Improved Near-Neutral Hydrogen Evolution Reaction Kinetics through Electrolyte Engineering with the Efficient Hydrogen Source NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c04048</link>
+      <description>Huang Xy, Junjie Xu, Xuefei Xu, Shujuan Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402570018
 
                 No abstract</description>
-      <author>Mingyang Li, Shiqun Wu, Dongni Liu, Zhong Chen, Chengxuan He, Jinlong Wang, Xiaoyi Gu, Zehan Zhang, Zhangyong Ning, Jinlong Zhang</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03802</guid>
-    </item>
-    <item>
-      <title>Ni-Catalyzed Deoxygenative Cross-Coupling of Alcohols with Aryl Chlorides via an Organic Photoredox Process</title>
-      <link>https://doi.org/10.1021/acscatal.4c03909</link>
-      <description>Weikang Xiong, Tengfei Kang, Fei Li, Huijuan Liao, Yonggang Yan, Jianyang Dong, Gang Li, Dong Xue, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402391640
-
-                No abstract</description>
-      <author>Weikang Xiong, Tengfei Kang, Fei Li, Huijuan Liao, Yonggang Yan, Jianyang Dong, Gang Li, Dong Xue</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03909</guid>
-    </item>
-    <item>
-      <title>Saccharide-Assisted Resolution of Bioactive Chiral Carboxylic Acids via NHC-Catalyzed Regioselective Transesterification</title>
-      <link>https://doi.org/10.1021/acscatal.4c04076</link>
-      <description>Shuolu Dai, Juan Zou, Haiqi Wang, Min Xu, Erqi Xu, Jia Song, Hong Yu, Shaojun Li, Wen&#8208;Xin Lv, Yonggui Robin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402393645
-
-                No abstract</description>
-      <author>Shuolu Dai, Juan Zou, Haiqi Wang, Min Xu, Erqi Xu, Jia Song, Hong Yu, Shaojun Li, Wen&#8208;Xin Lv, Yonggui Robin</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04076</guid>
-    </item>
-    <item>
-      <title>Interception of Transient &lt;i&gt;anti&lt;/i&gt;-Allyl&#8211;Ir Species with Cu&#8211;Azomethine Ylide: Mechanistic Origins of Z-Selectivity in an Asymmetric Allylation Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c03771</link>
-      <description>Hui Xu, Xinxin Niu, Yanfeng Dang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402398972
-
-                No abstract</description>
-      <author>Hui Xu, Xinxin Niu, Yanfeng Dang</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03771</guid>
-    </item>
-    <item>
-      <title>On the Structure Sensitivity of CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation over Cu/ZrO&lt;sub&gt;2&lt;/sub&gt;: Insights into the Role of the Support and the Active Sites</title>
-      <link>https://doi.org/10.1021/acscatal.4c03803</link>
-      <description>Tom&#225;s Vergara, Daviel G&#243;mez, Lucas Warmuth, Annika E. Enss, Martin Peterlechner, Rodrigo Pallac&#225;n, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Felix Studt, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402402343
-
-                No abstract</description>
-      <author>Tom&#225;s Vergara, Daviel G&#243;mez, Lucas Warmuth, Annika E. Enss, Martin Peterlechner, Rodrigo Pallac&#225;n, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Felix Studt, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03803</guid>
-    </item>
-    <item>
-      <title>Mechanistic Insights into the Dealumination of an H-ZSM-5 Zeolite Using Reactive Molecular Dynamics Simulations</title>
-      <link>https://doi.org/10.1021/acscatal.3c05168</link>
-      <description>E. Grajales-Gonz&#225;lez, M. Monge-Palacios, Sirio Brunialti, S. Mani Sarathy, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402406071
-
-                No abstract</description>
-      <author>E. Grajales-Gonz&#225;lez, M. Monge-Palacios, Sirio Brunialti, S. Mani Sarathy</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05168</guid>
-    </item>
-    <item>
-      <title>Effects of Acid Sites and Formaldehyde Decomposition on the Catalyst Lifetime for Methanol-to-Olefins over Ca-Modified HZSM-5</title>
-      <link>https://doi.org/10.1021/acscatal.4c02842</link>
-      <description>Jinsong Luo, Tianci Xiao, Wu Wen, Jun Bao, Chengyuan Liu, Yang Pan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402413025
-
-                No abstract</description>
-      <author>Jinsong Luo, Tianci Xiao, Wu Wen, Jun Bao, Chengyuan Liu, Yang Pan</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02842</guid>
-    </item>
-    <item>
-      <title>Metallaphotoredox Synthesis of Axially Chiral Tetrasubstituted Allenes through Regio- and Enantioselective 1,4-Carbocyanation of 1,3-Enynes</title>
-      <link>https://doi.org/10.1021/acscatal.4c04330</link>
-      <description>Kang Peng, Ya-Sheng Cao, Quanyuan Wang, Xia Zhou, Ya Chen, Yixin L&#252;, Guo&#8208;Jun Deng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402413186
-
-                No abstract</description>
-      <author>Kang Peng, Ya-Sheng Cao, Quanyuan Wang, Xia Zhou, Ya Chen, Yixin L&#252;, Guo&#8208;Jun Deng</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04330</guid>
-    </item>
-    <item>
-      <title>Hydrogen Peroxide Generation and Hydrogen Oxidation Reaction on Pt/Co/Pt(111) and Pt/Co/Pt(100) Single-Crystal Model Catalyst Surface</title>
-      <link>https://doi.org/10.1021/acscatal.4c03106</link>
-      <description>Kenta Hayashi, Takeru Tomimori, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402413399
-
-                No abstract</description>
-      <author>Kenta Hayashi, Takeru Tomimori, Yoshihiro Chida, Naoto Todoroki, Toshimasa Wadayama</author>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03106</guid>
-    </item>
-    <item>
-      <title>Enhanced Light Alkane Oxidation under Impurity-Containing Conditions by Low-Coordinated Co&#8211;O Structures Boosting C&#8211;H Bond Activation</title>
-      <link>https://doi.org/10.1021/acscatal.4c03638</link>
-      <description>Fan Dang, Zeyu Jiang, Yadi Wang, Jialei Wan, Chunli Ai, Mingjiao Tian, Yanfei Jian, Han Xu, Reem Albilali, Jiaguo Yu, Chi He, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402415844
-
-                No abstract</description>
-      <author>Fan Dang, Zeyu Jiang, Yadi Wang, Jialei Wan, Chunli Ai, Mingjiao Tian, Yanfei Jian, Han Xu, Reem Albilali, Jiaguo Yu, Chi He</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03638</guid>
+      <author>Huang Xy, Junjie Xu, Xuefei Xu, Shujuan Wang</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04048</guid>
     </item>
     <item>
       <title>Chiral Phosphate-Catalyzed Enantiodivergent Oxa-Diels&#8211;Alder Reaction of Trifluoropyruvate and Simple Dienes</title>
