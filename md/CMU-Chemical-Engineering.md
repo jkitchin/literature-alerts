@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Sep 19 01:18:14 2024
+Created on Fri Sep 20 01:17:59 2024
 
-Found 4 results from 2024-09-12 to 2024-09-19
+Found 2 results from 2024-09-13 to 2024-09-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -17,17 +17,6 @@ During summer, ammonia emissions in Southeast Asia influence air pollution and c
 
     
 
-## Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization   
-
-OpenAlex: https://openalex.org/W4402453418    
-Open access: False
-    
-[Norman Tran](https://openalex.org/A5106382650), [Daniel Ovalle](https://openalex.org/A5067396423), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Carl D. Laird](https://openalex.org/A5030631754), No host. None(None)] 2024.https://doi.org/10.2172/2439776.
-    
-No abstract    
-
-    
-
 ## Ammonium CI-Orbitrap: a tool for characterizing the reactivity of oxygenated organic molecules   
 
 OpenAlex: https://openalex.org/W4402525809    
@@ -36,16 +25,5 @@ Open access: True
 [Dandan Li](https://openalex.org/A5100439908), [Dongyu S. Wang](https://openalex.org/A5100764279), [Lucía Caudillo](https://openalex.org/A5079509898), [Wiebke Scholz](https://openalex.org/A5076482580), [Mingyi Wang](https://openalex.org/A5100768996), [Sophie Tomaz](https://openalex.org/A5010549487), [Guillaume Marie](https://openalex.org/A5032794723), [Mihnea Surdu](https://openalex.org/A5076044930), [Elias Eccli](https://openalex.org/A5092642033), [Xianda Gong](https://openalex.org/A5073840672), [Loïc Gonzalez-Carracedo](https://openalex.org/A5089915939), [Manuel Granzin](https://openalex.org/A5070143068), [Joschka Pfeifer](https://openalex.org/A5043381937), [Birte Rörup](https://openalex.org/A5022780485), [Benjamin C. Schulze](https://openalex.org/A5008614828), [Pekka Rantala](https://openalex.org/A5076457575), [S. Perrier](https://openalex.org/A5105457154), [Armin Hansel](https://openalex.org/A5089489241), [Joachim Curtius](https://openalex.org/A5031780924), [J. Kirkby](https://openalex.org/A5009274507), [Neil M. Donahue](https://openalex.org/A5041685684), [Christian George](https://openalex.org/A5026216873), [Imad El Haddad](https://openalex.org/A5080319960), [Matthieu Riva](https://openalex.org/A5055594784), Atmospheric measurement techniques. 17(17)] 2024.https://doi.org/10.5194/amt-17-5413-2024.
     
 Abstract. Oxygenated organic molecules (OOMs) play an important role in the formation of atmospheric aerosols. Due to various analytical challenges with respect to measuring organic vapors, uncertainties remain regarding the formation and fate of OOMs. The chemical ionization Orbitrap (CI-Orbitrap) mass spectrometer has recently been shown to be a powerful technique that is able to accurately identify gaseous organic compounds due to its greater mass resolution. Here, we present the ammonium-ion-based CI-Orbitrap (NH4+-Orbitrap) as a technique capable of measuring a wide range of gaseous OOMs. The performance of the NH4+-Orbitrap is compared with that of state-of-the-art mass spectrometers, including a nitrate-ion-based chemical ionization atmospheric pressure interface coupled to a time-of-flight mass spectrometer (NO3--LTOF), a new generation of proton transfer reaction-TOF mass spectrometer (PTR3-TOF), and an iodide-based CI-TOF mass spectrometer equipped with a Filter Inlet for Gases and AEROsols (I−-CIMS). The instruments were deployed simultaneously in the Cosmic Leaving OUtdoors Droplets (CLOUD) chamber at the European Organization for Nuclear Research (CERN) during the CLOUD14 campaign in 2019. Products generated from α-pinene ozonolysis under various experimental conditions were simultaneously measured by the mass spectrometers. The NH4+-Orbitrap was able to identify the widest range of OOMs (i.e., O ≥ 2), from less-oxidized species to highly oxygenated organic molecules (HOMs). Excellent agreement was found between the NH4+-Orbitrap and the NO3--LTOF with respect to characterizing HOMs and with the PTR3-TOF for the less-oxidized monomeric species. OOM concentrations measured by NH4+-Orbitrap were estimated using calibration factors derived from the OOMs with high time-series correlations during the side-by-side measurements. As with the other mass spectrometry techniques used during this campaign, the detection sensitivity of the NH4+-Orbitrap to OOMs is greatly affected by relative humidity, which may be related to changes in ionization efficiency and/or multiphase chemistry. Overall, this study shows that NH4+-ion-based chemistry associated with the high mass resolution of the Orbitrap mass analyzer can measure almost all inclusive compounds. As a result, it is now possible to cover the entire range of compounds, which can lead to a better understanding of the oxidation processes.    
-
-    
-
-## IDAES Enterprise: Generation Expansion Planning with Enhanced Requirements for Capacity Adequacy Under Renewable Intermittency   
-
-OpenAlex: https://openalex.org/W4402464915    
-Open access: False
-    
-[Peng Liu](https://openalex.org/A5100346777), [Benjamin Omell](https://openalex.org/A5000874144), [Can Li](https://openalex.org/A5100334060), [Ignacio E. Grossmann](https://openalex.org/A5056017028), No host. None(None)] 2021.https://doi.org/10.2172/2439759.
-    
-No abstract    
 
     

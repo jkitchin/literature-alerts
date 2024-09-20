@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Sep 19 01:18:23 2024
+Created on Fri Sep 20 01:18:09 2024
 
-Found 35 results from 2024-09-12 to 2024-09-19
+Found 33 results from 2024-09-13 to 2024-09-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092]]
@@ -35,6 +35,27 @@ OpenAlex: https://openalex.org/W4402491900 (Open access: True)
 [[https://openalex.org/A5008151031][Feifei Xia]], [[https://openalex.org/A5100707363][Shu Li]], [[https://openalex.org/A5101466950][Fengli Yang]], [[https://openalex.org/A5101694936][Yingpin Wen]], [[https://openalex.org/A5031745096][Chunzhi Zheng]], RSC Advances. 14(40)] 2024. https://doi.org/10.1039/d4ra04011b 
      
 The design of bifunctional oxygen electrocatalysts showing high catalytic performance for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) is of great significance for developing new renewable energy storage and conversion technologies. Herein, based on the first principles calculations, we systematically explored the electrocatalytic activity of a series of transition metal atom (Fe, Co, Ni, Cu, Pd and Pt)-doped ZnS and ZnSe nanostructures for OER and ORR. The calculated results revealed that Ni- and Pt-doped ZnS and ZnSe nanostructures exhibit promising electrocatalytic performance for both OER and ORR in comparison to the pristine ZnS and ZnSe nanostructures. Especially, the OER/ORR overpotentials of Ni-doped ZnS and ZnSe nanostructures are estimated to be 0.28/0.30 and 0.31/0.31 V, respectively, disclosing their great potential as bifunctional oxygen electrocatalysts. Moreover, it is found that Ni-doped ZnS and ZnSe nanostructures for OER and ORR are on the top of the volcano plots, evincing promising catalytic performance. Our results provide theoretical insights into a feasible strategy to synthesize highly efficient ZnS- and ZnSe-based bifunctional oxygen electrocatalysts in the future.    
+
+    
+
+* Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402519312
+:TOPICS: Formation and Properties of Nanocrystals and Nanostructures, Zinc Oxide Nanostructures, Emergent Phenomena at Oxide Interfaces
+:PUBLICATION_DATE: 2024-09-13
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.155692")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402519312"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402519312"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402519312"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402519312 (Open access: False)
+    
+[[https://openalex.org/A5056962682][Angelina Mary]], [[https://openalex.org/A5087263061][C. Murugan]], [[https://openalex.org/A5038842681][K. Karthick]], [[https://openalex.org/A5035439567][P. Murugan]], [[https://openalex.org/A5072349340][Alagarsamy Pandikumar]], Chemical Engineering Journal. 498(None)] 2024. https://doi.org/10.1016/j.cej.2024.155692 
+     
+No abstract    
 
     
 
@@ -80,108 +101,87 @@ No abstract
 
     
 
-* Toward Reliable Conformational Energies of Amino Acids and Dipeptides─The DipCONFS Benchmark and DipCONL Datasets  :Papers_that_cite_my_papers:
+* Rigidly Axial O Coordination-Induced Spin Polarization on Single Ni–N4–C Site by MXene Coupling for Boosting Electrochemical CO2 Reduction to CO  :Papers_that_cite_my_papers:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402435288
-:TOPICS: Peptide Synthesis and Drug Discovery, Mass Spectrometry Techniques, Protein Structure Prediction and Analysis
-:PUBLICATION_DATE: 2024-09-11
+:UUID: https://openalex.org/W4402567430
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Lithium-ion Battery Technology
+:PUBLICATION_DATE: 2024-09-17
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jctc.4c00801")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c09592")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402435288"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402435288"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402435288"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402567430"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402567430"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402567430"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402435288 (Open access: False)
+OpenAlex: https://openalex.org/W4402567430 (Open access: False)
     
-[[https://openalex.org/A5053745736][Christoph Plett]], [[https://openalex.org/A5042863303][Stefan Grimme]], [[https://openalex.org/A5064712476][Andreas Hansen]], Journal of Chemical Theory and Computation. None(None)] 2024. https://doi.org/10.1021/acs.jctc.4c00801 
+[[https://openalex.org/A5102544582][Guanping Wei]], [[https://openalex.org/A5106266841][Zongchang Mao]], [[https://openalex.org/A5101537081][Lingli Liu]], [[https://openalex.org/A5101142410][Tiantian Hao]], [[https://openalex.org/A5044320806][Ling Zhu]], [[https://openalex.org/A5033474784][Simin Xu]], [[https://openalex.org/A5053465205][Xijun Wang]], [[https://openalex.org/A5071613190][Shaobin Tang]], ACS Applied Materials & Interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.4c09592 
      
-Simulating peptides and proteins is becoming increasingly important, leading to a growing need for efficient computational methods. These are typically semiempirical quantum mechanical (SQM) methods, force fields (FFs), or machine-learned interatomic potentials (MLIPs), all of which require a large amount of accurate data for robust training and evaluation. To assess potential reference methods and complement the available data, we introduce two sets, DipCONFL and DipCONFS, which cover large parts of the conformational space of 17 amino acids and their 289 possible dipeptides in aqueous solution. The conformers were selected from the exhaustive PeptideCS dataset by Andris et al. [    
+Regulating the spin states in transition-metal (TM)-based single-atom catalysts (SACs), such as the TM-N    
 
     
 
-* Leveraging Machine Learning Potentials for In-Situ Searching of Active sites in Heterogeneous Catalysis  :Papers_that_cite_my_papers:
+* Modulation of catalytic activity of BSCF towards electrochemical oxygen reactions using different synthetic approaches  :Papers_that_cite_my_papers:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402438846
-:TOPICS: Accelerating Materials Innovation through Informatics, Computational Methods in Drug Discovery, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-09-11
+:UUID: https://openalex.org/W4402568572
+:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-09-17
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/prechem.4c00051")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.09.138")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402438846"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402438846"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402438846"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402568572"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402568572"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402568572"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402438846 (Open access: True)
+OpenAlex: https://openalex.org/W4402568572 (Open access: False)
     
-[[https://openalex.org/A5034105295][Xiran Cheng]], [[https://openalex.org/A5031938755][Cheng-Yen Wu]], [[https://openalex.org/A5070298925][Jiayan Xu]], [[https://openalex.org/A5102517611][Yulan Han]], [[https://openalex.org/A5040133021][Wenping Xie]], [[https://openalex.org/A5000214579][P. Hu]], Precision Chemistry. None(None)] 2024. https://doi.org/10.1021/prechem.4c00051 
-     
-No abstract    
-
-    
-
-* Core structure of dislocations in ordered ferromagnetic FeCo  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402440524
-:TOPICS: Materials Science and Engineering and Thermodynamics, High-Strength Steel Materials, Magnetic Materials and Devices
-:PUBLICATION_DATE: 2024-09-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1103/physrevmaterials.8.093604")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402440524"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402440524"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402440524"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402440524 (Open access: False)
-    
-[[https://openalex.org/A5006243447][A. D. Egorov]], [[https://openalex.org/A5042279860][Antoine Kraych]], [[https://openalex.org/A5032867953][Matous Mrovec]], [[https://openalex.org/A5022871779][Ralf Drautz]], [[https://openalex.org/A5052903842][Thomas Hammerschmidt]], Physical Review Materials. 8(9)] 2024. https://doi.org/10.1103/physrevmaterials.8.093604 
+[[https://openalex.org/A5045576247][Sachin Bhagat]], [[https://openalex.org/A5085652067][Nandita Singh]], [[https://openalex.org/A5101707351][Monika Singh]], [[https://openalex.org/A5035021700][Ashish Kumar Singh]], [[https://openalex.org/A5075153838][Suryabhan Singh]], [[https://openalex.org/A5049948393][Uday Pratap Azad]], [[https://openalex.org/A5044615009][Akhilesh Kumar Singh]], International Journal of Hydrogen Energy. 88(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.09.138 
      
 No abstract    
 
     
 
-* In-situ surface activation of polycrystalline LaNiO3 electrocatalyst for the oxygen evolution reaction  :Papers_that_cite_my_papers:
+* Efficient and Selective Electrochemical CO2 to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers  :Papers_that_cite_my_papers:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402440638
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-09-11
+:UUID: https://openalex.org/W4402573649
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-09-17
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.09.038")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c02283")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402440638"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402440638"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402440638"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402573649"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402573649"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402573649"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402440638 (Open access: True)
+OpenAlex: https://openalex.org/W4402573649 (Open access: True)
     
-[[https://openalex.org/A5092350462][Giuditta De Amicis]], [[https://openalex.org/A5090199124][Anna Testolin]], [[https://openalex.org/A5102528879][Cristina Cazzaniga]], [[https://openalex.org/A5031244506][F. D’Acapito]], [[https://openalex.org/A5045284208][Alessandro Minguzzi]], [[https://openalex.org/A5002558002][Paolo Ghigna]], [[https://openalex.org/A5016496410][Alberto Vertova]], International Journal of Hydrogen Energy. 87(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.09.038 
+[[https://openalex.org/A5068862389][Guan-Ming Chen]], [[https://openalex.org/A5004893218][Margherita Buraschi]], [[https://openalex.org/A5094186739][Rashid Al-Heidous]], [[https://openalex.org/A5037629153][Satyanarayana Bonakala]], [[https://openalex.org/A5038108143][Fedwa El‐Mellouhi]], [[https://openalex.org/A5045301145][Clotilde S. Cucinotta]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c02283 
      
 No abstract    
 
     
 
-* Tunable long-lived exciton lifetime and high carrier mobilities in Group III A elements doped two-dimensional blue phosphorene: A time domain ab initio study  :Papers_that_cite_my_papers:
+* Structural, Optical, and Magnetic Studies of Nickel-Doped β-Ga2O3 Monoclinic and Spinel Polycrystalline Powders  :Papers_that_cite_my_papers:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402443529
-:TOPICS: Two-Dimensional Materials, Perovskite Solar Cell Technology, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes)
-:PUBLICATION_DATE: 2024-09-09
+:UUID: https://openalex.org/W4402592270
+:TOPICS: Gallium Oxide (Ga2O3) Semiconductor Materials and Devices, Zinc Oxide Nanostructures, Photocatalytic Materials for Solar Energy Conversion
+:PUBLICATION_DATE: 2024-09-18
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0219326")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s11664-024-11452-8")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402443529"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402443529"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402443529"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402592270"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402592270"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402592270"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402443529 (Open access: False)
+OpenAlex: https://openalex.org/W4402592270 (Open access: False)
     
-[[https://openalex.org/A5100562349][Chang Liu]], [[https://openalex.org/A5022232084][Yulong Qiu]], [[https://openalex.org/A5090688521][Caifeng Zhou]], [[https://openalex.org/A5036993011][Hao Dong]], Applied Physics Letters. 125(11)] 2024. https://doi.org/10.1063/5.0219326 
+[[https://openalex.org/A5044389273][A. R. Suresh Babu]], [[https://openalex.org/A5063645802][N. Madhusudhana Rao]], Journal of Electronic Materials. None(None)] 2024. https://doi.org/10.1007/s11664-024-11452-8 
      
-In this Letter, we combine first-principles calculations with the non-adiabatic molecular dynamics (NAMD) method to investigate the photocatalytic and excited-state properties of blue phosphorene (BlueP). Doping with Group III A elements not only maintains an appropriate bandgap and band edge positions for photocatalytic water splitting but also converts the indirect bandgap of BlueP to a direct bandgap, significantly enhancing photon absorption efficiency. The dopants effectively improve optical absorption in the visible and ultraviolet light regions, potentially enabling a solar-to-hydrogen conversion efficiency of 22.3% in the photocatalytic water splitting process. In NAMD calculations, we consider the dynamics of the electron–hole pair recombination process between the valence band maximum and conduction band minimum. We demonstrate the regulatory impact of dopant elements, temperature, and non-adiabatic coupling strength on the exciton lifetime of doped BlueP through ab initio molecular dynamics and NAMD methods. This study reveals the relationship between the charge transfer mechanism and non-adiabatic coupling in low-dimensional materials, offering valuable insights into the excited-state properties of optoelectronic materials. Ultimately, our findings contribute to the development of tunable, long-lived exciton lifetimes and high carrier mobilities in doped BlueP, which hold significant potential for photocatalytic water splitting to generate hydrogen.    
+No abstract    
 
     
 
@@ -542,27 +542,6 @@ No abstract
 
     
 
-* Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402519312
-:TOPICS: Formation and Properties of Nanocrystals and Nanostructures, Zinc Oxide Nanostructures, Emergent Phenomena at Oxide Interfaces
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.155692")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402519312"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402519312"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402519312"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402519312 (Open access: False)
-    
-[[https://openalex.org/A5056962682][Angelina Mary]], [[https://openalex.org/A5087263061][C. Murugan]], [[https://openalex.org/A5038842681][K. Karthick]], [[https://openalex.org/A5035439567][P. Murugan]], [[https://openalex.org/A5072349340][Alagarsamy Pandikumar]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.155692 
-     
-No abstract    
-
-    
-
 * Earth-Abundant Electrocatalytic Material for Electrochemical Water Splitting  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402524041
@@ -705,27 +684,6 @@ No abstract
 OpenAlex: https://openalex.org/W4402557608 (Open access: False)
     
 [[https://openalex.org/A5069771958][Jinyun Cui]], [[https://openalex.org/A5100378741][Jing Wang]], [[https://openalex.org/A5103479656][Teng Xu]], [[https://openalex.org/A5033592988][Jiabao Lin]], [[https://openalex.org/A5101686093][Kunlong Liu]], [[https://openalex.org/A5047174451][Pengxin Liu]], Chinese Journal of Structural Chemistry. None(None)] 2024. https://doi.org/10.1016/j.cjsc.2024.100438 
-     
-No abstract    
-
-    
-
-* Efficient and Selective Electrochemical CO2 to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402573649
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c02283")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402573649"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402573649"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402573649"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402573649 (Open access: True)
-    
-[[https://openalex.org/A5068862389][Guan-Ming Chen]], [[https://openalex.org/A5004893218][Margherita Buraschi]], [[https://openalex.org/A5094186739][Rashid Al-Heidous]], [[https://openalex.org/A5037629153][Satyanarayana Bonakala]], [[https://openalex.org/A5038108143][Fedwa El‐Mellouhi]], [[https://openalex.org/A5045301145][Clotilde S. Cucinotta]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c02283 
      
 No abstract    
 

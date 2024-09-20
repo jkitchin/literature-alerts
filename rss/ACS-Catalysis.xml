@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Sep 2024 01:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 01:17:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -28,64 +28,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04048</guid>
     </item>
     <item>
-      <title>Chiral Phosphate-Catalyzed Enantiodivergent Oxa-Diels&#8211;Alder Reaction of Trifluoropyruvate and Simple Dienes</title>
-      <link>https://doi.org/10.1021/acscatal.4c04500</link>
-      <description>Chunming Yang, Shengkun Hu, T. Li, Long Zhang, Sanzhong Luo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402438123
+      <title>Theoretical Design of the Electrocatalytic Urea Synthesis from Carbon Dioxide and Nitric Oxides</title>
+      <link>https://doi.org/10.1021/acscatal.4c03785</link>
+      <description>Jun Long, Dong Luan, Xiaoyan Fu, Huan Li, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402591482
 
                 No abstract</description>
-      <author>Chunming Yang, Shengkun Hu, T. Li, Long Zhang, Sanzhong Luo</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04500</guid>
-    </item>
-    <item>
-      <title>Intramolecular C&#8211;H Oxidation in Iron(V)-oxo-carboxylato Species Relevant in the &#947;-Lactonization of Alkyl Carboxylic Acids</title>
-      <link>https://doi.org/10.1021/acscatal.4c01258</link>
-      <description>Andrea &#193;lvarez-N&#250;&#241;ez, Rudraditya Sarkar, Valeria Dantignana, Jin Xiong, Yisong Guo, Josep M. Luis, Miguel Costas, Anna Company, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402438205
-
-                No abstract</description>
-      <author>Andrea &#193;lvarez-N&#250;&#241;ez, Rudraditya Sarkar, Valeria Dantignana, Jin Xiong, Yisong Guo, Josep M. Luis, Miguel Costas, Anna Company</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01258</guid>
-    </item>
-    <item>
-      <title>Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges</title>
-      <link>https://doi.org/10.1021/acscatal.4c03358</link>
-      <description>Michelle A. Nolen, Carrie A. Farberow, Stephanie Kwon, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402438892
-
-                No abstract</description>
-      <author>Michelle A. Nolen, Carrie A. Farberow, Stephanie Kwon</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03358</guid>
-    </item>
-    <item>
-      <title>Photoredox/Nickel Dual Catalysis for C(sp&lt;sup&gt;2&lt;/sup&gt;)&#8211;C(sp&lt;sup&gt;3&lt;/sup&gt;) Cross-Electrophile Coupling Reaction of Mesylates of Phenols and Primary Alcohols</title>
-      <link>https://doi.org/10.1021/acscatal.4c03975</link>
-      <description>Sayan K. Jana, R. N. Bhattacharya, Purusattam Dey, Sunit Chakraborty, Biplab Maji, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402439055
-
-                No abstract</description>
-      <author>Sayan K. Jana, R. N. Bhattacharya, Purusattam Dey, Sunit Chakraborty, Biplab Maji</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03975</guid>
-    </item>
-    <item>
-      <title>Effect of Iron Doping in Ordered Nickel Oxide Thin Film Catalyst for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c02572</link>
-      <description>Ane Etxebarria, Mauricio L&#243;pez Luna, Andrea Martini, Uta Hejral, Martina R&#252;scher, Chao Zhan, Antonia Herzog, Afshan Jamshaid, David Kordus, Arno Bergmann, H. Kuhlenbeck, Beatriz Rold&#225;n Cuenya, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402449530
-
-                No abstract</description>
-      <author>Ane Etxebarria, Mauricio L&#243;pez Luna, Andrea Martini, Uta Hejral, Martina R&#252;scher, Chao Zhan, Antonia Herzog, Afshan Jamshaid, David Kordus, Arno Bergmann, H. Kuhlenbeck, Beatriz Rold&#225;n Cuenya</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02572</guid>
-    </item>
-    <item>
-      <title>Progress in Enzyme-Catalyzed C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Amination</title>
-      <link>https://doi.org/10.1021/acscatal.4c04947</link>
-      <description>Weinan Xu, Gao Yadong, Ping Su, Luqi Huang, Zhao&#8208;Lin He, Li&#8208;Cheng Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402454487
-
-                No abstract</description>
-      <author>Weinan Xu, Gao Yadong, Ping Su, Luqi Huang, Zhao&#8208;Lin He, Li&#8208;Cheng Yang</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04947</guid>
+      <author>Jun Long, Dong Luan, Xiaoyan Fu, Huan Li, Jianping Xiao</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03785</guid>
     </item>
     <item>
       <title>Imine Reductases and Reductive Aminases in Organic Synthesis</title>

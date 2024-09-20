@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Sep 19 01:18:23 2024
+Created on Fri Sep 20 01:18:09 2024
 
-Found 35 results from 2024-09-12 to 2024-09-19
+Found 33 results from 2024-09-13 to 2024-09-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -28,6 +28,17 @@ The design of bifunctional oxygen electrocatalysts showing high catalytic perfor
 
     
 
+## Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study   
+
+OpenAlex: https://openalex.org/W4402519312    
+Open access: False
+    
+[Angelina Mary](https://openalex.org/A5056962682), [C. Murugan](https://openalex.org/A5087263061), [K. Karthick](https://openalex.org/A5038842681), [P. Murugan](https://openalex.org/A5035439567), [Alagarsamy Pandikumar](https://openalex.org/A5072349340), Chemical Engineering Journal. 498(None)] 2024.https://doi.org/10.1016/j.cej.2024.155692.
+    
+No abstract    
+
+    
+
 ## Electrochemical Direct Methane to Methanol   
 
 OpenAlex: https://openalex.org/W4402559239    
@@ -50,58 +61,47 @@ No abstract
 
     
 
-## Toward Reliable Conformational Energies of Amino Acids and Dipeptides─The DipCONFS Benchmark and DipCONL Datasets   
+## Rigidly Axial O Coordination-Induced Spin Polarization on Single Ni–N4–C Site by MXene Coupling for Boosting Electrochemical CO2 Reduction to CO   
 
-OpenAlex: https://openalex.org/W4402435288    
+OpenAlex: https://openalex.org/W4402567430    
 Open access: False
     
-[Christoph Plett](https://openalex.org/A5053745736), [Stefan Grimme](https://openalex.org/A5042863303), [Andreas Hansen](https://openalex.org/A5064712476), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c00801.
+[Guanping Wei](https://openalex.org/A5102544582), [Zongchang Mao](https://openalex.org/A5106266841), [Lingli Liu](https://openalex.org/A5101537081), [Tiantian Hao](https://openalex.org/A5101142410), [Ling Zhu](https://openalex.org/A5044320806), [Simin Xu](https://openalex.org/A5033474784), [Xijun Wang](https://openalex.org/A5053465205), [Shaobin Tang](https://openalex.org/A5071613190), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c09592.
     
-Simulating peptides and proteins is becoming increasingly important, leading to a growing need for efficient computational methods. These are typically semiempirical quantum mechanical (SQM) methods, force fields (FFs), or machine-learned interatomic potentials (MLIPs), all of which require a large amount of accurate data for robust training and evaluation. To assess potential reference methods and complement the available data, we introduce two sets, DipCONFL and DipCONFS, which cover large parts of the conformational space of 17 amino acids and their 289 possible dipeptides in aqueous solution. The conformers were selected from the exhaustive PeptideCS dataset by Andris et al. [    
+Regulating the spin states in transition-metal (TM)-based single-atom catalysts (SACs), such as the TM-N    
 
     
 
-## Leveraging Machine Learning Potentials for In-Situ Searching of Active sites in Heterogeneous Catalysis   
+## Modulation of catalytic activity of BSCF towards electrochemical oxygen reactions using different synthetic approaches   
 
-OpenAlex: https://openalex.org/W4402438846    
+OpenAlex: https://openalex.org/W4402568572    
+Open access: False
+    
+[Sachin Bhagat](https://openalex.org/A5045576247), [Nandita Singh](https://openalex.org/A5085652067), [Monika Singh](https://openalex.org/A5101707351), [Ashish Kumar Singh](https://openalex.org/A5035021700), [Suryabhan Singh](https://openalex.org/A5075153838), [Uday Pratap Azad](https://openalex.org/A5049948393), [Akhilesh Kumar Singh](https://openalex.org/A5044615009), International Journal of Hydrogen Energy. 88(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.138.
+    
+No abstract    
+
+    
+
+## Efficient and Selective Electrochemical CO2 to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers   
+
+OpenAlex: https://openalex.org/W4402573649    
 Open access: True
     
-[Xiran Cheng](https://openalex.org/A5034105295), [Cheng-Yen Wu](https://openalex.org/A5031938755), [Jiayan Xu](https://openalex.org/A5070298925), [Yulan Han](https://openalex.org/A5102517611), [Wenping Xie](https://openalex.org/A5040133021), [P. Hu](https://openalex.org/A5000214579), Precision Chemistry. None(None)] 2024.https://doi.org/10.1021/prechem.4c00051.
+[Guan-Ming Chen](https://openalex.org/A5068862389), [Margherita Buraschi](https://openalex.org/A5004893218), [Rashid Al-Heidous](https://openalex.org/A5094186739), [Satyanarayana Bonakala](https://openalex.org/A5037629153), [Fedwa El‐Mellouhi](https://openalex.org/A5038108143), [Clotilde S. Cucinotta](https://openalex.org/A5045301145), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c02283.
     
 No abstract    
 
     
 
-## Core structure of dislocations in ordered ferromagnetic FeCo   
+## Structural, Optical, and Magnetic Studies of Nickel-Doped β-Ga2O3 Monoclinic and Spinel Polycrystalline Powders   
 
-OpenAlex: https://openalex.org/W4402440524    
+OpenAlex: https://openalex.org/W4402592270    
 Open access: False
     
-[A. D. Egorov](https://openalex.org/A5006243447), [Antoine Kraych](https://openalex.org/A5042279860), [Matous Mrovec](https://openalex.org/A5032867953), [Ralf Drautz](https://openalex.org/A5022871779), [Thomas Hammerschmidt](https://openalex.org/A5052903842), Physical Review Materials. 8(9)] 2024.https://doi.org/10.1103/physrevmaterials.8.093604.
+[A. R. Suresh Babu](https://openalex.org/A5044389273), [N. Madhusudhana Rao](https://openalex.org/A5063645802), Journal of Electronic Materials. None(None)] 2024.https://doi.org/10.1007/s11664-024-11452-8.
     
 No abstract    
-
-    
-
-## In-situ surface activation of polycrystalline LaNiO3 electrocatalyst for the oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4402440638    
-Open access: True
-    
-[Giuditta De Amicis](https://openalex.org/A5092350462), [Anna Testolin](https://openalex.org/A5090199124), [Cristina Cazzaniga](https://openalex.org/A5102528879), [F. D’Acapito](https://openalex.org/A5031244506), [Alessandro Minguzzi](https://openalex.org/A5045284208), [Paolo Ghigna](https://openalex.org/A5002558002), [Alberto Vertova](https://openalex.org/A5016496410), International Journal of Hydrogen Energy. 87(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.038.
-    
-No abstract    
-
-    
-
-## Tunable long-lived exciton lifetime and high carrier mobilities in Group III A elements doped two-dimensional blue phosphorene: A time domain ab initio study   
-
-OpenAlex: https://openalex.org/W4402443529    
-Open access: False
-    
-[Chang Liu](https://openalex.org/A5100562349), [Yulong Qiu](https://openalex.org/A5022232084), [Caifeng Zhou](https://openalex.org/A5090688521), [Hao Dong](https://openalex.org/A5036993011), Applied Physics Letters. 125(11)] 2024.https://doi.org/10.1063/5.0219326.
-    
-In this Letter, we combine first-principles calculations with the non-adiabatic molecular dynamics (NAMD) method to investigate the photocatalytic and excited-state properties of blue phosphorene (BlueP). Doping with Group III A elements not only maintains an appropriate bandgap and band edge positions for photocatalytic water splitting but also converts the indirect bandgap of BlueP to a direct bandgap, significantly enhancing photon absorption efficiency. The dopants effectively improve optical absorption in the visible and ultraviolet light regions, potentially enabling a solar-to-hydrogen conversion efficiency of 22.3% in the photocatalytic water splitting process. In NAMD calculations, we consider the dynamics of the electron–hole pair recombination process between the valence band maximum and conduction band minimum. We demonstrate the regulatory impact of dopant elements, temperature, and non-adiabatic coupling strength on the exciton lifetime of doped BlueP through ab initio molecular dynamics and NAMD methods. This study reveals the relationship between the charge transfer mechanism and non-adiabatic coupling in low-dimensional materials, offering valuable insights into the excited-state properties of optoelectronic materials. Ultimately, our findings contribute to the development of tunable, long-lived exciton lifetimes and high carrier mobilities in doped BlueP, which hold significant potential for photocatalytic water splitting to generate hydrogen.    
 
     
 
@@ -292,17 +292,6 @@ No abstract
 
     
 
-## Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study   
-
-OpenAlex: https://openalex.org/W4402519312    
-Open access: False
-    
-[Angelina Mary](https://openalex.org/A5056962682), [C. Murugan](https://openalex.org/A5087263061), [K. Karthick](https://openalex.org/A5038842681), [P. Murugan](https://openalex.org/A5035439567), [Alagarsamy Pandikumar](https://openalex.org/A5072349340), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.155692.
-    
-No abstract    
-
-    
-
 ## Earth-Abundant Electrocatalytic Material for Electrochemical Water Splitting   
 
 OpenAlex: https://openalex.org/W4402524041    
@@ -375,17 +364,6 @@ OpenAlex: https://openalex.org/W4402557608
 Open access: False
     
 [Jinyun Cui](https://openalex.org/A5069771958), [Jing Wang](https://openalex.org/A5100378741), [Teng Xu](https://openalex.org/A5103479656), [Jiabao Lin](https://openalex.org/A5033592988), [Kunlong Liu](https://openalex.org/A5101686093), [Pengxin Liu](https://openalex.org/A5047174451), Chinese Journal of Structural Chemistry. None(None)] 2024.https://doi.org/10.1016/j.cjsc.2024.100438.
-    
-No abstract    
-
-    
-
-## Efficient and Selective Electrochemical CO2 to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers   
-
-OpenAlex: https://openalex.org/W4402573649    
-Open access: True
-    
-[Guan-Ming Chen](https://openalex.org/A5068862389), [Margherita Buraschi](https://openalex.org/A5004893218), [Rashid Al-Heidous](https://openalex.org/A5094186739), [Satyanarayana Bonakala](https://openalex.org/A5037629153), [Fedwa El‐Mellouhi](https://openalex.org/A5038108143), [Clotilde S. Cucinotta](https://openalex.org/A5045301145), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c02283.
     
 No abstract    
 

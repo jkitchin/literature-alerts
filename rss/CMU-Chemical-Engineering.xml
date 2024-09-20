@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Sep 2024 01:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 01:17:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -18,16 +18,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41612-024-00758-3</guid>
     </item>
     <item>
-      <title>Optimal Membrane Cascade Design for Critical Mineral Recovery through Logic-based Superstructure Optimization</title>
-      <link>https://doi.org/10.2172/2439776</link>
-      <description>Norman Tran, Daniel Ovalle, Ignacio E. Grossmann, Carl D. Laird, No host. None(None)] 2024. https://openalex.org/W4402453418
-
-                No abstract</description>
-      <author>Norman Tran, Daniel Ovalle, Ignacio E. Grossmann, Carl D. Laird</author>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2439776</guid>
-    </item>
-    <item>
       <title>Ammonium CI-Orbitrap: a tool for characterizing the reactivity of oxygenated organic molecules</title>
       <link>https://doi.org/10.5194/amt-17-5413-2024</link>
       <description>Dandan Li, Dongyu S. Wang, Luc&#237;a Caudillo, Wiebke Scholz, Mingyi Wang, Sophie Tomaz, Guillaume Marie, Mihnea Surdu, Elias Eccli, Xianda Gong, Lo&#239;c Gonzalez-Carracedo, Manuel Granzin, Joschka Pfeifer, Birte R&#246;rup, Benjamin C. Schulze, Pekka Rantala, S. Perrier, Armin Hansel, Joachim Curtius, J. Kirkby, Neil M. Donahue, Christian George, Imad El Haddad, Matthieu Riva, Atmospheric measurement techniques. 17(17)] 2024. https://openalex.org/W4402525809
@@ -36,16 +26,6 @@
       <author>Dandan Li, Dongyu S. Wang, Luc&#237;a Caudillo, Wiebke Scholz, Mingyi Wang, Sophie Tomaz, Guillaume Marie, Mihnea Surdu, Elias Eccli, Xianda Gong, Lo&#239;c Gonzalez-Carracedo, Manuel Granzin, Joschka Pfeifer, Birte R&#246;rup, Benjamin C. Schulze, Pekka Rantala, S. Perrier, Armin Hansel, Joachim Curtius, J. Kirkby, Neil M. Donahue, Christian George, Imad El Haddad, Matthieu Riva</author>
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/amt-17-5413-2024</guid>
-    </item>
-    <item>
-      <title>IDAES Enterprise: Generation Expansion Planning with Enhanced Requirements for Capacity Adequacy Under Renewable Intermittency</title>
-      <link>https://doi.org/10.2172/2439759</link>
-      <description>Peng Liu, Benjamin Omell, Can Li, Ignacio E. Grossmann, No host. None(None)] 2021. https://openalex.org/W4402464915
-
-                No abstract</description>
-      <author>Peng Liu, Benjamin Omell, Can Li, Ignacio E. Grossmann</author>
-      <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2439759</guid>
     </item>
   </channel>
 </rss>

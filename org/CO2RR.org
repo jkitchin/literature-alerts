@@ -1,30 +1,30 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Thu Sep 19 01:18:10 2024
+Created on Fri Sep 20 01:17:57 2024
 
-Found 63 results from 2024-09-12 to 2024-09-19
+Found 58 results from 2024-09-13 to 2024-09-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
 
-* Opportunities for Ocean Carbon Dioxide Reduction  :CO2RR:
+* Theoretical Design of the Electrocatalytic Urea Synthesis from Carbon Dioxide and Nitric Oxides  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402432880
-:TOPICS: Global Energy Transition and Fossil Fuel Depletion
-:PUBLICATION_DATE: 2024-09-09
+:UUID: https://openalex.org/W4402591482
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-09-18
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5957/smc-2024-008")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03785")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402432880"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402432880"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402432880"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402591482"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402591482"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402591482"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402432880 (Open access: False)
+OpenAlex: https://openalex.org/W4402591482 (Open access: False)
     
-[[https://openalex.org/A5077234231][C. Barry]], [[https://openalex.org/A5068535546][Richard J. Akers]], SNAME Maritime Convention. None(None)] 2024. https://doi.org/10.5957/smc-2024-008 
+[[https://openalex.org/A5030617408][Jun Long]], [[https://openalex.org/A5027648567][Dong Luan]], [[https://openalex.org/A5102669510][Xiaoyan Fu]], [[https://openalex.org/A5100319216][Huan Li]], [[https://openalex.org/A5004947752][Jianping Xiao]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03785 
      
-Release of carbon dioxide (and other gases) into the atmosphere is becoming critical to climate change. Recent assessments not only have called for decarbonization of energy but for negative emissions; removals of carbon dioxide now in the atmosphere, in order to keep global warming to a sustainable level and control ocean acidification. The ocean is currently by far the major sink for carbon dioxide emissions and artificially enhancing these existing processes provides opportunities for substantial sequestration. These opportunities not only can help mitigate climate change but may provide new markets for various sectors of the marine industry.    
+No abstract    
 
     
 
@@ -156,27 +156,6 @@ Various Cu‐based materials in diverse forms have been investigated as efficien
 
 * Reduction Polymerization of CO2 with Phenylene Silanes Cata‐lyzed by Single Component B(C6F5)3  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402489599
-:TOPICS: Frustrated Lewis Pairs Chemistry, Carbon Dioxide Utilization for Chemical Synthesis, Chemistry of Main Group Elements and Compounds
-:PUBLICATION_DATE: 2024-09-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202415626")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402489599"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402489599"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402489599"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402489599 (Open access: False)
-    
-[[https://openalex.org/A5101669649][Wenhao He]], [[https://openalex.org/A5049213804][Bingwen Li]], [[https://openalex.org/A5100330850][Yuxuan Li]], [[https://openalex.org/A5042732771][Xinli Liu]], [[https://openalex.org/A5047110002][Dongmei Cui]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202415626 
-     
-CO2 is an abundant C1 resource but a green‐house gas and chemically inert. Thus, its utilization has been a promising but challenging project. Herein, we report the unprecedented polymerization of CO2 and C6H4(SiMe2H)2 using B(C6F5)3 alone under mild conditions to give poly(silphenylene siloxane) accompanied by releasing CH4. The copolymerization can be extended to comonomers of phenylene silanes bearing functional groups. Moreover, it combines with Piers‐Rubinsztajn reaction to establish a tandem polymerization system to achieve super thermal resistant poly(siloxane‐co‐silphenylene siloxane)s. Density functional theory reveals that B(C6F5)3 is activated by silanes to form free HB(C6F5)2, which is the true active species for CO2 reducing to borylformate, the rate controlling step of the polymerization procedure. The subsequent multiple reductions of borylformate to CH4 and the step‐growth to poly(silphenylene siloxane)s can be fulfilled by both B(C6F5)3 and HB(C6F5)2, and the former shows a slightly higher activity. This work opens a new avenue of utilizing CO2 to fabricate polysiloxanes that is unable to access using current manners.    
-
-    
-
-* Reduction Polymerization of CO2 with Phenylene Silanes Cata‐lyzed by Single Component B(C6F5)3  :CO2RR:
-:PROPERTIES:
 :UUID: https://openalex.org/W4402489449
 :TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Frustrated Lewis Pairs Chemistry, Porous Crystalline Organic Frameworks for Energy and Separation Applications
 :PUBLICATION_DATE: 2024-09-12
@@ -196,24 +175,24 @@ CO2 is an abundant C1 resource but a green‐house gas and chemically inert. Thu
 
     
 
-* Two-Track Approach to CO2 Reduction for Precast Eco-Concrete Components in Railway Construction  :CO2RR:
+* Reduction Polymerization of CO2 with Phenylene Silanes Cata‐lyzed by Single Component B(C6F5)3  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402465641
-:TOPICS: Reinforcement Corrosion in Concrete Structures, Civil Engineering and Construction, Development and Management of Urban Underground Space
-:PUBLICATION_DATE: 2024-01-01
+:UUID: https://openalex.org/W4402489599
+:TOPICS: Frustrated Lewis Pairs Chemistry, Carbon Dioxide Utilization for Chemical Synthesis, Chemistry of Main Group Elements and Compounds
+:PUBLICATION_DATE: 2024-09-12
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/978-3-031-70145-0_79")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202415626")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402465641"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402465641"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402465641"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402489599"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402489599"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402489599"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402465641 (Open access: False)
+OpenAlex: https://openalex.org/W4402489599 (Open access: False)
     
-[[https://openalex.org/A5107137929][Paul Heber]], [[https://openalex.org/A5107137930][Oliver Sikorski]], [[https://openalex.org/A5050511753][Ayman Suliman]], [[https://openalex.org/A5107137931][Paul-Martin Großkopff]], [[https://openalex.org/A5021622173][Steffen Marx]], Rilem bookseries. None(None)] 2024. https://doi.org/10.1007/978-3-031-70145-0_79 
+[[https://openalex.org/A5101669649][Wenhao He]], [[https://openalex.org/A5049213804][Bingwen Li]], [[https://openalex.org/A5100330850][Yuxuan Li]], [[https://openalex.org/A5042732771][Xinli Liu]], [[https://openalex.org/A5047110002][Dongmei Cui]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202415626 
      
-No abstract    
+CO2 is an abundant C1 resource but a green‐house gas and chemically inert. Thus, its utilization has been a promising but challenging project. Herein, we report the unprecedented polymerization of CO2 and C6H4(SiMe2H)2 using B(C6F5)3 alone under mild conditions to give poly(silphenylene siloxane) accompanied by releasing CH4. The copolymerization can be extended to comonomers of phenylene silanes bearing functional groups. Moreover, it combines with Piers‐Rubinsztajn reaction to establish a tandem polymerization system to achieve super thermal resistant poly(siloxane‐co‐silphenylene siloxane)s. Density functional theory reveals that B(C6F5)3 is activated by silanes to form free HB(C6F5)2, which is the true active species for CO2 reducing to borylformate, the rate controlling step of the polymerization procedure. The subsequent multiple reductions of borylformate to CH4 and the step‐growth to poly(silphenylene siloxane)s can be fulfilled by both B(C6F5)3 and HB(C6F5)2, and the former shows a slightly higher activity. This work opens a new avenue of utilizing CO2 to fabricate polysiloxanes that is unable to access using current manners.    
 
     
 
@@ -280,24 +259,24 @@ The design and synthesis of hybrid borates by the organic ligand modification me
 
     
 
-* Friction and Wear Reduction via Sustainable Fluids: Towards Better Energy Efficiency and Lower CO2 Emissions  :CO2RR:
+* Simplification of clean development mechanism to measure CO2 emission reductions from shifting private transportation to mass rapid transit: a case study of MRT Jakarta Phase 1  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402454970
-:TOPICS: Tribology of Polymers and Composites, Tribological Properties of Lubricants and Additives, Mechanics of Gecko Foot Adhesion
-:PUBLICATION_DATE: 2024-08-01
+:UUID: https://openalex.org/W4402579361
+:TOPICS: Estimating Vehicle Fuel Consumption and Emissions, Understanding Attitudes Towards Public Transport and Private Car, Rebound Effect on Energy Efficiency and Consumption
+:PUBLICATION_DATE: 2024-09-18
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.11159/iccpe24.114")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.12688/f1000research.155406.1")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402454970"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402454970"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402454970"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402579361"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402579361"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402579361"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402454970 (Open access: False)
+OpenAlex: https://openalex.org/W4402579361 (Open access: True)
     
-[[https://openalex.org/A5107132846][Farah Fazlina M Yasin]], [[https://openalex.org/A5053703610][Anna Dolfi]], [[https://openalex.org/A5023190384][C Perotto]], [[https://openalex.org/A5107132847][Maria Teresa Sateriale]], [[https://openalex.org/A5107132848][Francesco Bellino]], [[https://openalex.org/A5107132849][Tommaso Rizzuti]], [[https://openalex.org/A5013084870][Fadhli Wong]], Proceedings of the World Congress on Mechanical, Chemical, and Material Engineering. None(None)] 2024. https://doi.org/10.11159/iccpe24.114 
+[[https://openalex.org/A5080448160][Nunuj Nurdjanah]], [[https://openalex.org/A5029020060][Tri Edhi Budhi Soesilo]], [[https://openalex.org/A5018784186][K. Mizuno]], [[https://openalex.org/A5065712094][Raldi Hendro Koestoer]], F1000Research. 13(None)] 2024. https://doi.org/10.12688/f1000research.155406.1 
      
-No abstract    
+Background The Indonesian government built the Mass Rapid Transit (MRT) in Jakarta to reduce traffic congestion and carbon dioxide (CO2) emissions. The objective of this study is to estimate the CO2 emissions reductions from switching from private transport to MRT by using a methodology proposed by the United Nations Convention on Climate Change (UNFCCC) for developing countries, namely the Clean Development Mechanism (CDM) methodology, which generates Certified Emission Reductions (CERs). This methodology is more comprehensive than other available methodologies. However, this method has not been widely used to calculate greenhouse gas (GHG) emission reductions in mass transit projects because it is complex enough to require a lot of data based on primary surveys. Therefore, this research simplifies the CDM formula to make it easier and applicable in Indonesia. Methods The primary data were collected using a questionnaire distributed to 480 MRT Jakarta Phase 1 user respondents in September 2019 (baseline); the secondary data were obtained from The MRT Jakarta. The data were processed using IBM SPSS Statistics 27. The simplified Clean Development Mechanism Approved Consolidated Methodology 0016 (CDM ACM 0016) was the analysis method used. Result The results of this study indicate that 53.75% of MRT Jakarta Phase 1 users are shifting from private transportation, which has reduced CO2 emissions by 2,732.7 tons in 2019 and 6,043.9 tons in 2023. Increasing the number of MRT passengers who switch from private transportation will further reduce CO2 emissions. Conclusion and implications The simplified CDM ACM 0016 formula may be suitable for use in Indonesia. This would enable the measurement of CO2 emission reductions through mitigation actions through MRT development to be certified by the UNFCCC. Applying this method in calculating CO2 emission reductions, implementing strategies to increase MRT passengers, and using renewable energy electricity sources would increase CO2 emission reductions.    
 
     
 
@@ -427,27 +406,6 @@ No abstract
 
     
 
-* Single-atom Cu sites on covalent organic frameworks with Kagome lattices for visible-light-driven CO2 reduction to propylene  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402449270
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Porous Crystalline Organic Frameworks for Energy and Separation Applications, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-09-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.124587")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402449270"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402449270"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402449270"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402449270 (Open access: False)
-    
-[[https://openalex.org/A5030007642][Yuanjun Hu]], [[https://openalex.org/A5026033526][Guanhui Liu]], [[https://openalex.org/A5086882113][Ting Song]], [[https://openalex.org/A5101513178][Xiayi Hu]], [[https://openalex.org/A5101937531][Yexiang Tong]], [[https://openalex.org/A5088322277][Guo‐Jun Deng]], Applied Catalysis B Environment and Energy. 361(None)] 2024. https://doi.org/10.1016/j.apcatb.2024.124587 
-     
-No abstract    
-
-    
-
 * Regulating p-orbital electronic configuration of In2O3 by thickness-controlled carbon layer for efficient electrocatalytic CO2 reduction to HCOOH  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402494696
@@ -490,24 +448,24 @@ No abstract
 
     
 
-* Controlling the Phase Composition of Pre-Catalysts to Obtain Abundant Cu(111)/Cu(200) Grain Boundaries for Enhancing Electrocatalytic Co2 Reduction Selectivity to Ethylene  :CO2RR:
+* Boosting Ethylene Yield via Synergistic 2D/0D Nanostructured VCu Layered Double Hydroxide/TiO2 Catalyst in Electrochemical CO2 Reduction  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402447045
+:UUID: https://openalex.org/W4402578037
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-01-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4953862")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ya00417e")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402447045"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402447045"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402447045"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402578037"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402578037"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402578037"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402447045 (Open access: False)
+OpenAlex: https://openalex.org/W4402578037 (Open access: True)
     
-[[https://openalex.org/A5100639377][Zekun Zhang]], [[https://openalex.org/A5043357944][Shiji Li]], [[https://openalex.org/A5052752750][Qian Zhang]], [[https://openalex.org/A5100642462][Mingtao Li]], [[https://openalex.org/A5100355669][Yang Liu]], [[https://openalex.org/A5101957157][Wei Yan]], [[https://openalex.org/A5019911901][Xiangyang Hao]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4953862 
+[[https://openalex.org/A5020344184][Sneha Lavate]], [[https://openalex.org/A5070013777][Rohit Srivastava]], Energy Advances. None(None)] 2024. https://doi.org/10.1039/d4ya00417e 
      
-No abstract    
+The electrochemical conversion of CO2 into C1 to C2 hydrocarbon such as Methane and ethylene is a promising pathway towards to achieve net zero however due to high activation barrier...    
 
     
 
@@ -527,6 +485,27 @@ No abstract
 OpenAlex: https://openalex.org/W4402530045 (Open access: False)
     
 [[https://openalex.org/A5100434461][Hongxia Liu]], [[https://openalex.org/A5063066778][Ling Fu]], [[https://openalex.org/A5091561399][Chaozheng He]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4955180 
+     
+No abstract    
+
+    
+
+* Electrosynthesis of Methylamine by Co-Reduction of Co2 and No3− with a Series Catalyst Based on O-Doped Metal Phthalocyanine-Porphyrin Two-Dimensional Carbon-Rich Conjugated Framework  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402583930
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Porous Crystalline Organic Frameworks for Energy and Separation Applications, Chemistry and Applications of Metal-Organic Frameworks
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4958584")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402583930"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402583930"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402583930"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402583930 (Open access: False)
+    
+[[https://openalex.org/A5100526482][Fengling Luo]], [[https://openalex.org/A5100322864][Li Wang]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4958584 
      
 No abstract    
 
@@ -595,24 +574,24 @@ The key towards a sustainable future is the reduction of mankind&rsquo;s impact 
 
     
 
-* The role of gallium nitride in the evolution of electric vehicles: Energy applications, technology, and challenges  :CO2RR:
+* Carbon dioxide sequestration in brackish water: Principles, techniques and environmental benefits  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402456843
-:TOPICS: Power Electronics and Conversion Systems, Lithium-ion Battery Management in Electric Vehicles, First-Principles Calculations for III-Nitride Semiconductors
-:PUBLICATION_DATE: 2024-09-01
+:UUID: https://openalex.org/W4402576747
+:TOPICS: Carbon Dioxide Sequestration in Geological Formations, Hydrological Modeling and Water Resource Management
+:PUBLICATION_DATE: 2024-04-16
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0215799")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.61173/1njx1r03")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402456843"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402456843"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402456843"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402576747"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402576747"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402576747"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402456843 (Open access: False)
+OpenAlex: https://openalex.org/W4402576747 (Open access: False)
     
-[[https://openalex.org/A5059985106][Kazi Faridur Rahman]], [[https://openalex.org/A5008565247][Shaili Falina]], [[https://openalex.org/A5036620669][Mohamed Fauzi Packeer Mohamed]], [[https://openalex.org/A5059085489][Hiroshi Kawarada]], [[https://openalex.org/A5072500464][Mohd Syamsul]], Applied Physics Reviews. 11(3)] 2024. https://doi.org/10.1063/5.0215799 
+[[https://openalex.org/A5107289125][Zuhong Gong]], Science and Technology of Engineering Chemistry and Environmental Protection. 1(6)] 2024. https://doi.org/10.61173/1njx1r03 
      
-It is only recently that the electric vehicle (EV) has evolved into a contemporary invention. There has been a rapid acceleration in the development of EVs in a number of nations in order to lessen their reliance on oil and their contribution to environmental pollution. In the tangible world, fully EVs do not release any carbon dioxide (CO2) emissions from their tailpipes, unlike any other conventional vehicles. This results in a 50%–70% CO2 reduction in air pollution per year. The achievement of electrification in transportation has led to a reduction in the weight and size of the vehicles as the need for internal combustion engines can be eliminated. Wide bandgap materials such as silicon carbide (SiC) and gallium nitride (GaN) offer advantages in the manufacturing of EVs. Beginning the late 2000s, the EV industry has begun to adopt GaN devices in their manufacturing processes. The semiconductor material GaN stands out as a material for power electronic systems in EVs owing to its high switching frequency, higher temperature limit, and high voltage breakdown. This review aims to provide a comprehensive overview of semiconductor GaN materials for EV applications, which could be useful to provide insights for researchers and scientists to accelerate their innovation for the improvement of EVs. This review begins with an introduction to EVs, followed by the anticipated demand for EVs. The application of GaN devices in EVs, compared to the traditional Si and SiC devices, which are the primary power devices in current EVs, is discussed. The recent advancement in GaN devices that are capable of being used in various components of a fully automated EV, such as the battery, energy storage system, auxiliary power unit, and motor drive, in addition to their use in different non-automotive vehicles such as electric aircraft, electric ships, electric railways, electric submarines, and heavy duty vehicles, is also discussed. Finally, the challenges posed by GaN devices and potential solutions to overcome these shortcomings have been addressed.    
+Carbon dioxide storage is a technology to separate carbon dioxide gas from the atmosphere and inject it into the brackish water layer to achieve the purpose of carbon dioxide emission reduction. In this way, carbon dioxide is dissolved in salt water and then sequestered in deep underground water layers, preventing it from being released into the atmosphere and causing a greenhouse effect. This technology can effectively reduce carbon dioxide emissions, but also can use geological structures for storage, has great potential application prospects. It is important to note that further research and practice is needed to address possible environmental risks and costs.    
 
     
 
@@ -721,24 +700,24 @@ The US Pulp and Paper (P&P) industry heavily relies on fossil sources, with lime
 
     
 
-* Mechanistic Investigations of a Hydrogen-Evolving Cobalt Diimine-Dioxime Complex in an Oxygen Environment: Roles of Secondary Coordination Sphere, Brønsted Acid, and Axial Ligand  :CO2RR:
+* Reducing the carbon footprint for a 30-bed haemodialysis unit by changing the delivery of acid concentrate supplied by individual 5 L containers to a central delivery system  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402462026
-:TOPICS: Platinum-Based Cancer Chemotherapy, Molecular Magnetism and Spintronics, Chemistry and Applications of Metal-Organic Frameworks
-:PUBLICATION_DATE: 2024-09-11
+:UUID: https://openalex.org/W4402599258
+:TOPICS: Impact of Climate Change on Human Health, Chronic Kidney Disease and Dialysis Treatment, Strategies to Reduce Low-Value Health Care Services
+:PUBLICATION_DATE: 2024-09-18
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-0s03g")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s40620-024-02073-9")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402462026"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402462026"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402462026"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402599258"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402599258"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402599258"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402462026 (Open access: False)
+OpenAlex: https://openalex.org/W4402599258 (Open access: True)
     
-[[https://openalex.org/A5061737900][Yeun‐Min Tsai]], [[https://openalex.org/A5059227183][Yu-Wei Chen]], [[https://openalex.org/A5107135972][Charasee Laddika Dayawansa]], [[https://openalex.org/A5054620550][Hung‐Yu Chang]], [[https://openalex.org/A5083038289][Wen-Ching Chen]], [[https://openalex.org/A5014639716][Jiun‐Shian Shen]], [[https://openalex.org/A5032975171][Tiow‐Gan Ong]], [[https://openalex.org/A5013225612][Glenn P. A. Yap]], [[https://openalex.org/A5063253546][Vincent C.‐C. Wang]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-0s03g 
+[[https://openalex.org/A5009899542][Gareth Murcutt]], [[https://openalex.org/A5092443799][Rosie Hillson]], [[https://openalex.org/A5040095014][Cate Goodlad]], [[https://openalex.org/A5088913338][Andrew Davenport]], Journal of Nephrology. None(None)] 2024. https://doi.org/10.1007/s40620-024-02073-9 
      
-The development of molecular electrocatalysts for fuel-forming reactions, such as the hydrogen-evolving reaction (HER) or the reduction of carbon dioxide, is generally hindered by their susceptibility to dioxygen in practical applications, which results from the concomitant formation of reactive oxygen species. The concept of a secondary coordination sphere (SCS) has been widely adopted in designing molecular electrocatalysts to promote the aforementioned energy-conversion reactions. The impact of this supernumerary interaction through the SCS on the oxygen-tolerant properties of molecular electrocatalysts is less explored. A HER electrocatalyst, cobalt diimine-dioxime complex, is one of the metal complexes designed by the concept of SCS to facilitate HER and retain its reactivity in an oxygen environment. Nevertheless, the mechanism underlying its oxygen tolerance remains unclear. In this study, mechanistic studies of how this complex undergoes HER under aerobic conditions were conducted. The results reveal that the oxygen reduction reaction (ORR) predominates in the presence of molecular oxygen. Further studies uncover the intramolecular proton transfer through SCS and intermolecular proton transfer from exogenous proton sources mutually dictate the product selectivity of ORR between H2O2 and H2O, thereby determining the stability of the complex under HER. In addition, the choice of labile ligands has emerged as a useful factor in enhancing oxygen tolerance. These findings provide valuable design principles for developing oxygen-tolerant molecular catalysts and shed light on how the interplay of proton transfer routes between the secondary coordination sphere and exogenous pathway can impact reactivity and product selectivity.    
+Abstract Background Haemodialysis treatments generate greenhouse gas (GHG) emissions mainly as a result of the equipment, consumables and pharmaceuticals required. An internal audit demonstrated a 33% wastage of acid concentrate when using individual 5.0 L containers at a 1:44 dilution ratio. We therefore investigated whether changing the delivery system for acid concentrate would reduce wastage and any associated greenhouse gas emissions. Methods We calculated the difference for a 30-bed dialysis unit between receiving acid concentrate in single-use 5.0 L plastic containers versus bulk delivery for a central acid delivery system connected to the dialysis machines. Estimates of carbon dioxide equivalent (CO 2 e) emissions were made using the United Kingdom government database and other sources. Results A 30-station dialysis unit functioning at maximum capacity (3 shifts and 6 days/week), switching to bulk delivery and central acid delivery could realise an approximate total reduction of 33,841 kgCO 2 e/year; in reduced product wastage, saving 6192 kgCO 2 e, 5205 kgCO 2 e from fewer deliveries, and 22,444 kgCO 2 e saving from a reduction in packaging and waste generated, which equates approximately to a one tonne reduction in CO 2 e emissions per dialysis station/year. Conclusions Switching from delivering acid concentrate in individual 5.0 L containers to a central acid delivery system can result in substantial reductions in CO 2 e emissions within a dialysis clinic. The emission savings from reducing the single-use plastic packaging greatly outweigh any gains from eliminating wastage of acid concentrate. Dialysis companies and clinicians should consider reviewing the design of current and future dialysis facilities and policies to determine whether reductions in CO 2 e emissions can be made. Graphical Abstract    
 
     
 
@@ -910,27 +889,6 @@ The objective of this research was to investigate the effects of hydrogen inject
 
     
 
-* A Study for Estimation of Greenhouse Gas Emissions of Cotton in Central Greece  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402452945
-:TOPICS: Life Cycle Assessment and Environmental Impact Analysis
-:PUBLICATION_DATE: 2024-09-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.32388/gh42x0.2")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402452945"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402452945"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402452945"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402452945 (Open access: False)
-    
-[[https://openalex.org/A5089981017][Vassilis Engonopoulos]], No host. None(None)] 2024. https://doi.org/10.32388/gh42x0.2 
-     
-Cotton is an economically significant crop in Greece; however, there is a paucity of systematic quantification of greenhouse gas emissions associated with Greece's cotton production and analysis of the underlying causes. This study employed the Cool Farm Tool (CFT) to ascertain the principal constituents and motivating factors underlying the greenhouse gas (GHG) emissions associated with cotton production in Greece between 2020 and 2021, with reference to statistical data. The findings indicated that the greenhouse gas (GHG) emissions per unit of cotton cultivated in the Sterea Hellada and Thessaly regions of Central Greece reached 2,126. This equates to a reduction of 10 kg CO2 eq ha-1 or 460.8 kg CO2eq t-1 yield, respectively. From 2020 to 2021, greenhouse gas (GHG) emissions increased by 107.7 kg CO2-eq ha-1 or 32.9 kg CO2 eq t-1 yield due to an increased number of irrigation events and pesticide applications, which were necessitated by the extremely high temperatures that occurred during the flower to open boll period. The multiple regression model demonstrated that fertilizers exerted the most significant influence on carbon emissions. Enhancing the efficiency of cotton fertilization and guaranteeing the robust advancement of the cotton industry through the implementation of high-quality cultivation strategies will prove an effective approach to reducing the carbon footprint of cotton cultivation in the future.    
-
-    
-
 * Highly Stable Propane Dehydrogenation on a Self‐supporting Single‐component Zn2SiO4 Catalyst  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402514472
@@ -1036,24 +994,24 @@ This paper presents an analysis of the possible application of green roof on an 
 
     
 
-* How megacities can achieve carbon peak through structural adjustments: An input-output perspective  :CO2RR:
+* Trends in CO, CO<sub>2</sub>, CH<sub>4</sub>, BC, and NO<sub>x </sub>during the first 2020 COVID-19 lockdown: source insights from the WMO/GAW station of Lamezia Terme (Calabria, Southern Italy)  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402433485
-:TOPICS: Life Cycle Assessment and Environmental Impact Analysis
-:PUBLICATION_DATE: 2024-09-11
+:UUID: https://openalex.org/W4402559566
+:TOPICS: Impact of COVID-19 on Global Environment, Health Effects of Air Pollution, Low-Cost Air Quality Monitoring Systems
+:PUBLICATION_DATE: 2024-09-16
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1088/1748-9326/ad796a")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.20944/preprints202409.0915.v2")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402433485"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402433485"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402433485"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402559566"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402559566"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402559566"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402433485 (Open access: True)
+OpenAlex: https://openalex.org/W4402559566 (Open access: True)
     
-[[https://openalex.org/A5100397594][Yang Yang]], [[https://openalex.org/A5035710269][Wang Yiqi]], [[https://openalex.org/A5021730997][Junping Ji]], [[https://openalex.org/A5045655558][Yong Wang]], [[https://openalex.org/A5064848734][Qisheng Huang]], [[https://openalex.org/A5082144617][Daojing He]], Environmental Research Letters. None(None)] 2024. https://doi.org/10.1088/1748-9326/ad796a 
+[[https://openalex.org/A5101916131][Francesco D’Amico]], [[https://openalex.org/A5085477448][Ivano Ammoscato]], [[https://openalex.org/A5037863048][Daniel Gullì]], [[https://openalex.org/A5003696483][Elenio Avolio]], [[https://openalex.org/A5019248420][Teresa Lo Feudo]], [[https://openalex.org/A5079518186][Mariafrancesca De Pino]], [[https://openalex.org/A5013159030][Paolo Cristofanelli]], [[https://openalex.org/A5099128770][Luana Malacaria]], [[https://openalex.org/A5099128771][Domenico Parise]], [[https://openalex.org/A5102811601][Salvatore Sinopoli]], [[https://openalex.org/A5104971933][Giorgia De Benedetto]], [[https://openalex.org/A5002083226][Claudia Roberta Calidonna]], No host. None(None)] 2024. https://doi.org/10.20944/preprints202409.0915.v2 
      
-Abstract There is still a huge gap between the emissions pathways of megacities and the pathways to meeting the targets set by the Paris Agreement. Compared with technological emission reductions, structural emission reduction can provide cities with more stable and sustainable carbon-peaking solutions. This study constructs a scenario-based input-output optimization model, adopting a novel carbon emission accounting method for purchased electricity that considers shared responsibility, and systematically evaluates the decarbonization paths of megacities and their impacts on economic growth, energy consumption, and carbon emissions. The results show that (a) through industry substitution and manufacturing restructuring, Shenzhen is projected to peak at 57.68 MtCO2 emissions in 2026, with a 10.57% energy and a 19.55% carbon reduction by 2030. (b) Shenzhen can achieve its carbon emission peak target through the energy transition while accepting a loss of 0.97%-3.23% of GDP, requiring the maximum economic concession of 16.45% from the transportation sector (S10) in the early stage of transformation, while 12.24% from the extractive industry (S2) in the later stage. (c) The comprehensive structure adjustment proved to be more effective than other mitigation approaches, capable of achieving high-quality economic growth of 6.4% during the study period while reaching a peak target of 53.55 million tons of CO2 by 2026. (d) The emission reduction effect of the power sector was the most significant among all the scenarios, with emission reduction rates between 6.26% and 35.63%, and the cumulative emission reduction potential reached 38.1-110.6 MtCO2. The priority for emission reduction in the power sector is the coal phase-out plan, which is essential for achieving these significant reductions. This study provides an important reference for megacities facing similar challenges, especially those in developing countries, to achieve a stable and sustainable carbon peak pathway through structural adjustment.    
+In 2020, the Covid-19 outbreak led many countries across the globe to introduce lockdowns (LDs) that effectively caused most anthropic activities to either stop completely or be significantly reduced. In Europe, Italy played a pioneeristic role via the early introduction of a strict nationwide LD on March 9th. This study is aimed at evaluating, using both chemical and meteorological data, the environmental response to that occurrence as observed by the Lamezia Terme (LMT) GAW/WMO station in Calabria, Southern Italy. The first 2020 lockdown has therefore been used as a &ldquo;proving ground&rdquo; to assess CO, CO2, CH4, BC, and NOx concentrations in a rather unique context by exploiting the location of LMT in the context of the Mediterranean Basin. In fact, its location on the Tyrrhenian coast of Calabria and local wind circulation both lead to daily cycles where western-seaside winds depleted in anthropogenic pollutants can be easily differentiated from northeastern-continental winds, enriched in anthropogenic outputs. In addition to that, the first Italian LD occurred during the seasonal transition from Winter to Spring and, consequently, Summer, thus providing new insights on emission outputs correlated with seasons. Findings have clearly indicated BC and, in particular, CO as strongly correlated with average daily temperatures, and possibly domestic heating. CO2&rsquo;s reduction during the lockdown and consequent increase in the post-lockdown period, combined with wind data, has allowed to constrain local source of emissions located northeast from LMT. NOx reductions during specific circumstances are consistent with hypotheses from previous research which linked them to rush hour traffic and other forms of transportation emissions. CH4&rsquo;s stable patterns are consistent with livestock, landfills, and other sources assumed to be nearly constant during LD periods.    
 
     
 
@@ -1162,27 +1120,6 @@ Abstract Implementing breeding strategies for a more sustainable food system is 
 
     
 
-* Improving Vehicle Warm-Up Performance Using Phase-Change Materials and Thermal Storage Methods  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402455448
-:TOPICS: Aerodynamics of High-Speed Trains and Vehicles, Thermal Energy Storage with Phase Change Materials, Tribological Studies of Automotive Brake Friction Materials
-:PUBLICATION_DATE: 2024-09-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/en17184556")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402455448"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402455448"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402455448"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402455448 (Open access: True)
-    
-[[https://openalex.org/A5063189844][J. J. Lee]], [[https://openalex.org/A5048134300][Jungkoo Lee]], [[https://openalex.org/A5020167843][Kihyung Lee]], Energies. 17(18)] 2024. https://doi.org/10.3390/en17184556 
-     
-This study investigates the enhancement of vehicle warm-up performance using phase-change materials (PCMs) and various thermal storage methods. The primary objective is to utilize the thermal energy lost during engine cooling to improve the cold-start performance, thereby reducing fuel consumption and emissions. Thermal storage devices incorporating PCMs were developed and tested by measuring temperature changes and energy transfer over soaking periods of 4, 8, 16, and 24 h. The results show energy transfers of 591, 489, 446, and 315 kJ at 4, 8, 16, and 24 h, respectively. In terms of the warm-up time, the use of thermal storage devices reduced the time required to reach 70 °C by up to 24.45%, with significant reductions observed across all soaking periods. This reduction in the warm-up time directly contributes to faster engine stabilization, leading to proportional improvements in fuel efficiency and a corresponding decrease in exhaust emissions, including CO2. The findings highlight the effectiveness of PCMs in improving the engine warm-up performance and emphasize the importance of optimizing thermal storage systems to balance energy efficiency and practical application considerations. Additionally, the experimental data provide useful benchmark information for computational simulation validation, enabling the further optimization of automotive thermal management systems. Integrating a PCM-based thermal storage device can significantly enhance a vehicle’s warm-up performance, leading to reduced fuel consumption and lower emissions.    
-
-    
-
 * The environmental impact of a malaria clinical trial in Mali: Life cycle assessment reveals high emissions due to international travel and local electricity use and identifies opportunities for sustainable improvement  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402503927
@@ -1204,66 +1141,24 @@ Climate change may be the single largest threat facing humanity and ecosystems, 
 
     
 
-* SURFER v3.0: a fast model with ice sheet tipping points and carbon cycle feedbacks for short and long-term climate scenarios  :CO2RR:
+* Investigation of Plug-In Hybrid Light Duty Commercial Vehicle in Real-World Conditions by Simulation  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402434625
-:TOPICS: Impacts of Climate Change on Glaciers and Water Availability, Global Methane Emissions and Impacts, Anaerobic Methane Oxidation and Gas Hydrates
-:PUBLICATION_DATE: 2024-09-11
+:UUID: https://openalex.org/W4402588401
+:TOPICS: State of the Art in Electric and Hybrid Vehicles, Estimating Vehicle Fuel Consumption and Emissions, Chemical Kinetics of Combustion Processes
+:PUBLICATION_DATE: 2024-09-18
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/egusphere-2024-2279")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4271/2024-24-0016")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402434625"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402434625"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402434625"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402588401"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402588401"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402588401"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402434625 (Open access: True)
+OpenAlex: https://openalex.org/W4402588401 (Open access: False)
     
-[[https://openalex.org/A5074123879][Victor Couplet]], [[https://openalex.org/A5002739039][Marina Martínez Montero]], [[https://openalex.org/A5091655942][Michel Crucifix]], No host. None(None)] 2024. https://doi.org/10.5194/egusphere-2024-2279 
+[[https://openalex.org/A5073768559][Ezio Mancaruso]], [[https://openalex.org/A5083501499][Giovanni Meccariello]], [[https://openalex.org/A5022004944][Simona Rossetti]], SAE technical papers on CD-ROM/SAE technical paper series. 1(None)] 2024. https://doi.org/10.4271/2024-24-0016 
      
-Abstract. Simple climate models that are computationally inexpensive, transparent, and easy to modify are useful for assessing climate policies in the presence of uncertainties. This motivated the creation of SURFER v2.0, a model designed to estimate the impact of CO2 emissions and solar radiation modification on global mean temperatures, sea-level rise, and ocean pH. However, SURFER v2.0 is unsuitable for simulations beyond a few thousand years because it lacks some carbon cycle processes. This is problematic for assessing the long-term evolution of ice sheets and the associated sea level rise. Here, we present SURFER v3.0, an extension to SURFER v2.0 that allows for accurate simulation of the climate, carbon cycle, and sea level rise on time scales ranging from decades to millions of years. We incorporated in the model a dynamic cycling of alkalinity in the ocean, a carbonate sediments reservoir, and weathering fluxes. With these additions, we show that SURFER v3.0 reproduces results from a large class of models, ranging from centennial CMIP6 projections to 1 Myr runs performed with the cGENIE model of intermediate complexity. We show that compared to SURFER v2.0, including long-term carbon-cycle processes in SURFER v3.0 leads to a stabilisation of the Greenland ice sheet for the middle of the road emission scenarios, and a significant reduction in sea level rise contribution from Antarctica for high emissions scenarios.    
-
-    
-
-* Exploring Psychological Factors Influencing the Adoption of Sustainable Public Transit Considering Preference Heterogeneity  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402448235
-:TOPICS: Discrete Choice Models in Economics and Health Care, Influence of Built Environment on Active Travel, Factors Influencing Pro-environmental Behavior
-:PUBLICATION_DATE: 2024-09-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/su16187924")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402448235"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402448235"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402448235"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402448235 (Open access: True)
-    
-[[https://openalex.org/A5023739198][Gyeongjae Lee]], [[https://openalex.org/A5004979505][Sujae Kim]], [[https://openalex.org/A5009429205][Jahun Koo]], [[https://openalex.org/A5078800234][Sangho Choo]], Sustainability. 16(18)] 2024. https://doi.org/10.3390/su16187924 
-     
-Carbon emission reduction strategies are being implemented in the transportation sector by encouraging the adoption of eco-friendly vehicles and introducing demand management policies such as Mobility as a Service (MaaS). Nevertheless, the efficacy of MaaS in reducing carbon emissions remains uncertain. This study introduces Sustainable Public Transit (SPT) as a public transit alternative consisting of only green modes to promote sustainability. We explore the preferences of SPT in a commuting context, incorporating individual preference heterogeneity in a discrete choice model. We systematically identify the relationship between choice behaviors and individual heterogeneity in alternative attributes and psychological factors stemming from socio-demographic characteristics. The integrated choice and latent variable (ICLV) model with a mixed logit form is adopted, and the key findings can be summarized as follows: Preference heterogeneity is observed in the travel cost variable, which can be explained by characteristics such as the presence of a preschooler, household size, and income. CO2 emissions do not have a statistically significant impact on choices. Furthermore, psychological factors are also explained through socio-demographic characteristics, and it is found that low-carbon knowledge positively influences low-carbon habits. Psychological factors significantly affect choices. Respondents who dislike transfers and prioritize punctuality are less likely to choose SPT, while those who have positive low-carbon attitudes are more likely to do so. Finally, scenario analysis is conducted to forecast mode share based on improvements in SPT alternative attributes and variations in attribute levels. Policy implications are then provided to enhance the acceptability of SPT.    
-
-    
-
-* Comparison of high flow and standard oxygen therapy in patients with acute hypoxemic respiratory failure in emergency department. A randomized controlled cross over superiority trial  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402446901
-:TOPICS: Mechanical Ventilation in Respiratory Failure and ARDS, Management of Cardiac Arrest and Resuscitation, Standardisation and Management of COPD
-:PUBLICATION_DATE: 2024-09-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4081/ecj.2024.12815")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402446901"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402446901"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402446901"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402446901 (Open access: True)
-    
-[[https://openalex.org/A5065991179][Maheswaran Rohan]], [[https://openalex.org/A5101745485][Ashima Sharma]], [[https://openalex.org/A5078682984][Mohammed Ismail Nizami]], [[https://openalex.org/A5070541480][Lubna Tarannum]], Emergency Care Journal. None(None)] 2024. https://doi.org/10.4081/ecj.2024.12815 
-     
-The aim of our study was to determine whether high flow oxygen therapy reduced the rate of endotracheal intubation and improve pulmonary outcome score. A total of 300 consecutive patients were enrolled in the study. The etiologies of acute respiratory failure were classified into trauma, lung diseases, fluid overload states and undifferentiated. Patients were randomized by block randomization method into two groups. First group received HFNC while the second received conventional oxygen therapy. Patients in both the groups were escalated to either NIV or invasive mechanical ventilator support if there were any signs of respiratory distress noted. Pulmonary outcome scoring done at 2 hours was designed to see if there was any improvement in patient’s condition in both the groups. SPSS (version 21.0, Illinois, Chicago) was used for the statistical analysis. The partial pressures of oxygen improved significantly in the HFNC group as compared to the COT group irrespective of the etiology. The partial pressures of CO2 on ABG were similar in both the groups until 12 hrs. However, pCO2 was earlier reduced in the HFNC group as compared to the COT group. Steady decrease in serum lactate levels were observed in HFNC group. The base deficit was corrected between 6-12 hours in patients of HFNC group which could not be seen in patients of COT group. There was a statistically significant difference noted at 12 and 24 hours between the two groups. The mean length of stay in HFNC group was around 4 days which was less compared to the length of hospital stay in COT which was an average of 7 days. The mortality in HFNC group was 4% and in COT group was 7.33% in our study. The study demonstrated that the use of HFNC in ED patients presenting with AHRF was associated with a greater reduction in need for escalation of ventilation requirements and improves pulmonary outcomes compared with standard oxygen therapy.    
+<div class="section abstract"><div class="htmlview paragraph">Light commercial vehicles are an indispensable element for the transport of people and the delivery of goods, especially on extra-urban and long-distance routes. With a view to sustainable mobility, it is necessary to think about hybridizing these vehicles to reduce the fuel consumption as well as greenhouse gas emissions and particulate matter. These types of vehicles are generally powered by diesel and travel many kilometers a day. On the other hand, the use of light commercial vehicles in battery electric vehicle (BEV) configuration has already been started but is not receiving widespread recognition. In this panorama, starting from a study already developed for the hybridization of a plug-in light commercial vehicle in Worldwide harmonized Light vehicles Test Cycle (WLTC) condition, the simulation analysis has been extended to the plug-in hybrid vehicle (PHEV) operating in real driving emission conditions (RDE). In particular, using Advisor software, a vehicle has been simulated in different plug-in hybrid configurations. The software has been validated with real operation data of a euro 6 diesel engine. The general hypothesis underlying the research consists in the possibility of using these vehicles in totally electric mode in the city and in hybrid mode outside urban centers; with the aim of reducing polluting emissions in populated city but completing the delivery mission during all phases of vehicle operation. The PHEV simulations have been performed on both WLTC and RDE condition. In the latter mode, particular attention has been devoted to the interpretation of data from GPS sensor: like the slope of the route or the presence of tunnels. The success of the simulation depends on a correct and careful reconstruction of the GPS data. Three vehicles with different hybridization factors have been simulated: 0.44, 0.56, and 0.67, respectively, with power equal to that of the base vehicle. The battery packs have been sized for the three hybrid vehicles and simulations were carried out in both Charge Depleting and Charge Sustaining configuration. In charge depleting for the highest hybrid configuration (HF=0.66), the results demonstrate that a reduction of up to 80% and 76% in fuel can be saved While a reduction up to 75% and 45% in NOx emissions can be achieved on WLTC and RDE cycle, respectively. On the other hand, when the battery is discharged, for HF=0.67, although consumption can be reduced by up to 45%, NOx emissions also increase by 183% even if ICE operation mode has to be better optimize for hybrid operation. Finally, even if the hybrid solutions is really convenient if compared to the conventional vehicle in terms of fuel savings and NOx pollutant emissions, about a realistic estimation of the CO2 reduction that can be achieved the use of electrical energy must be take into account.</div></div>    
 
     
 

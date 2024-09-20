@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Sep 2024 01:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 01:18:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Feifei Xia, Shu Li, Fengli Yang, Yingpin Wen, Chunzhi Zheng</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ra04011b</guid>
+    </item>
+    <item>
+      <title>Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study</title>
+      <link>https://doi.org/10.1016/j.cej.2024.155692</link>
+      <description>Angelina Mary, C. Murugan, K. Karthick, P. Murugan, Alagarsamy Pandikumar, Chemical Engineering Journal. 498(None)] 2024. https://openalex.org/W4402519312
+
+                No abstract</description>
+      <author>Angelina Mary, C. Murugan, K. Karthick, P. Murugan, Alagarsamy Pandikumar</author>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155692</guid>
     </item>
     <item>
       <title>Electrochemical Direct Methane to Methanol</title>
@@ -38,54 +48,44 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113363</guid>
     </item>
     <item>
-      <title>Toward Reliable Conformational Energies of Amino Acids and Dipeptides&#9472;The DipCONFS Benchmark and DipCONL Datasets</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00801</link>
-      <description>Christoph Plett, Stefan Grimme, Andreas Hansen, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4402435288
+      <title>Rigidly Axial O Coordination-Induced Spin Polarization on Single Ni&#8211;N&lt;sub&gt;4&lt;/sub&gt;&#8211;C Site by MXene Coupling for Boosting Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CO</title>
+      <link>https://doi.org/10.1021/acsami.4c09592</link>
+      <description>Guanping Wei, Zongchang Mao, Lingli Liu, Tiantian Hao, Ling Zhu, Simin Xu, Xijun Wang, Shaobin Tang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402567430
 
-                Simulating peptides and proteins is becoming increasingly important, leading to a growing need for efficient computational methods. These are typically semiempirical quantum mechanical (SQM) methods, force fields (FFs), or machine-learned interatomic potentials (MLIPs), all of which require a large amount of accurate data for robust training and evaluation. To assess potential reference methods and complement the available data, we introduce two sets, DipCONFL and DipCONFS, which cover large parts of the conformational space of 17 amino acids and their 289 possible dipeptides in aqueous solution. The conformers were selected from the exhaustive PeptideCS dataset by Andris et al. [</description>
-      <author>Christoph Plett, Stefan Grimme, Andreas Hansen</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00801</guid>
+                Regulating the spin states in transition-metal (TM)-based single-atom catalysts (SACs), such as the TM-N</description>
+      <author>Guanping Wei, Zongchang Mao, Lingli Liu, Tiantian Hao, Ling Zhu, Simin Xu, Xijun Wang, Shaobin Tang</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c09592</guid>
     </item>
     <item>
-      <title>Leveraging Machine Learning Potentials for In-Situ Searching of Active sites in Heterogeneous Catalysis</title>
-      <link>https://doi.org/10.1021/prechem.4c00051</link>
-      <description>Xiran Cheng, Cheng-Yen Wu, Jiayan Xu, Yulan Han, Wenping Xie, P. Hu, Precision Chemistry. None(None)] 2024. https://openalex.org/W4402438846
+      <title>Modulation of catalytic activity of BSCF towards electrochemical oxygen reactions using different synthetic approaches</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.09.138</link>
+      <description>Sachin Bhagat, Nandita Singh, Monika Singh, Ashish Kumar Singh, Suryabhan Singh, Uday Pratap Azad, Akhilesh Kumar Singh, International Journal of Hydrogen Energy. 88(None)] 2024. https://openalex.org/W4402568572
 
                 No abstract</description>
-      <author>Xiran Cheng, Cheng-Yen Wu, Jiayan Xu, Yulan Han, Wenping Xie, P. Hu</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/prechem.4c00051</guid>
+      <author>Sachin Bhagat, Nandita Singh, Monika Singh, Ashish Kumar Singh, Suryabhan Singh, Uday Pratap Azad, Akhilesh Kumar Singh</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.138</guid>
     </item>
     <item>
-      <title>Core structure of dislocations in ordered ferromagnetic FeCo</title>
-      <link>https://doi.org/10.1103/physrevmaterials.8.093604</link>
-      <description>A. D. Egorov, Antoine Kraych, Matous Mrovec, Ralf Drautz, Thomas Hammerschmidt, Physical Review Materials. 8(9)] 2024. https://openalex.org/W4402440524
+      <title>Efficient and Selective Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c02283</link>
+      <description>Guan-Ming Chen, Margherita Buraschi, Rashid Al-Heidous, Satyanarayana Bonakala, Fedwa El&#8208;Mellouhi, Clotilde S. Cucinotta, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402573649
 
                 No abstract</description>
-      <author>A. D. Egorov, Antoine Kraych, Matous Mrovec, Ralf Drautz, Thomas Hammerschmidt</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.093604</guid>
+      <author>Guan-Ming Chen, Margherita Buraschi, Rashid Al-Heidous, Satyanarayana Bonakala, Fedwa El&#8208;Mellouhi, Clotilde S. Cucinotta</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02283</guid>
     </item>
     <item>
-      <title>In-situ surface activation of polycrystalline LaNiO3 electrocatalyst for the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.09.038</link>
-      <description>Giuditta De Amicis, Anna Testolin, Cristina Cazzaniga, F. D&#8217;Acapito, Alessandro Minguzzi, Paolo Ghigna, Alberto Vertova, International Journal of Hydrogen Energy. 87(None)] 2024. https://openalex.org/W4402440638
+      <title>Structural, Optical, and Magnetic Studies of Nickel-Doped &#946;-Ga2O3 Monoclinic and Spinel Polycrystalline Powders</title>
+      <link>https://doi.org/10.1007/s11664-024-11452-8</link>
+      <description>A. R. Suresh Babu, N. Madhusudhana Rao, Journal of Electronic Materials. None(None)] 2024. https://openalex.org/W4402592270
 
                 No abstract</description>
-      <author>Giuditta De Amicis, Anna Testolin, Cristina Cazzaniga, F. D&#8217;Acapito, Alessandro Minguzzi, Paolo Ghigna, Alberto Vertova</author>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.038</guid>
-    </item>
-    <item>
-      <title>Tunable long-lived exciton lifetime and high carrier mobilities in Group III A elements doped two-dimensional blue phosphorene: A time domain &lt;i&gt;ab initio&lt;/i&gt; study</title>
-      <link>https://doi.org/10.1063/5.0219326</link>
-      <description>Chang Liu, Yulong Qiu, Caifeng Zhou, Hao Dong, Applied Physics Letters. 125(11)] 2024. https://openalex.org/W4402443529
-
-                In this Letter, we combine first-principles calculations with the non-adiabatic molecular dynamics (NAMD) method to investigate the photocatalytic and excited-state properties of blue phosphorene (BlueP). Doping with Group III A elements not only maintains an appropriate bandgap and band edge positions for photocatalytic water splitting but also converts the indirect bandgap of BlueP to a direct bandgap, significantly enhancing photon absorption efficiency. The dopants effectively improve optical absorption in the visible and ultraviolet light regions, potentially enabling a solar-to-hydrogen conversion efficiency of 22.3% in the photocatalytic water splitting process. In NAMD calculations, we consider the dynamics of the electron&#8211;hole pair recombination process between the valence band maximum and conduction band minimum. We demonstrate the regulatory impact of dopant elements, temperature, and non-adiabatic coupling strength on the exciton lifetime of doped BlueP through ab initio molecular dynamics and NAMD methods. This study reveals the relationship between the charge transfer mechanism and non-adiabatic coupling in low-dimensional materials, offering valuable insights into the excited-state properties of optoelectronic materials. Ultimately, our findings contribute to the development of tunable, long-lived exciton lifetimes and high carrier mobilities in doped BlueP, which hold significant potential for photocatalytic water splitting to generate hydrogen.</description>
-      <author>Chang Liu, Yulong Qiu, Caifeng Zhou, Hao Dong</author>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0219326</guid>
+      <author>A. R. Suresh Babu, N. Madhusudhana Rao</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11664-024-11452-8</guid>
     </item>
     <item>
       <title>First-Principles investigation of H2O2 electrosynthesis on Cu-C24N24 single-atom catalyst</title>
@@ -258,16 +258,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2024.100061</guid>
     </item>
     <item>
-      <title>Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study</title>
-      <link>https://doi.org/10.1016/j.cej.2024.155692</link>
-      <description>Angelina Mary, C. Murugan, K. Karthick, P. Murugan, Alagarsamy Pandikumar, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4402519312
-
-                No abstract</description>
-      <author>Angelina Mary, C. Murugan, K. Karthick, P. Murugan, Alagarsamy Pandikumar</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155692</guid>
-    </item>
-    <item>
       <title>Earth-Abundant Electrocatalytic Material for Electrochemical Water Splitting</title>
       <link>https://doi.org/10.1007/978-3-031-65902-7_8</link>
       <description>Sharadchandra S. Patil, Jyotiprakash B. Yadav, No host. None(None)] 2024. https://openalex.org/W4402524041
@@ -336,16 +326,6 @@
       <author>Jinyun Cui, Jing Wang, Teng Xu, Jiabao Lin, Kunlong Liu, Pengxin Liu</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100438</guid>
-    </item>
-    <item>
-      <title>Efficient and Selective Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02283</link>
-      <description>Guan-Ming Chen, Margherita Buraschi, Rashid Al-Heidous, Satyanarayana Bonakala, Fedwa El&#8208;Mellouhi, Clotilde S. Cucinotta, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402573649
-
-                No abstract</description>
-      <author>Guan-Ming Chen, Margherita Buraschi, Rashid Al-Heidous, Satyanarayana Bonakala, Fedwa El&#8208;Mellouhi, Clotilde S. Cucinotta</author>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02283</guid>
     </item>
     <item>
       <title>Ultrafast joule-heating synthesis of FeCoMnCuAl high-entropy-alloy nanoparticles as efficient OER electrocatalysts</title>
