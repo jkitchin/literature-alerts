@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Sep 20 01:17:57 2024
+Created on Sat Sep 21 01:16:37 2024
 
-Found 58 results from 2024-09-13 to 2024-09-20
+Found 38 results from 2024-09-14 to 2024-09-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -15,17 +15,6 @@ Open access: False
 [Jun Long](https://openalex.org/A5030617408), [Dong Luan](https://openalex.org/A5027648567), [Xiaoyan Fu](https://openalex.org/A5102669510), [Huan Li](https://openalex.org/A5100319216), [Jianping Xiao](https://openalex.org/A5004947752), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03785.
     
 No abstract    
-
-    
-
-## Leaf-like MSX/TiN heterojunction photocathodes mimicking plant cell – An effective strategy to enhance photoelectrocatalytic carbon dioxide reduction and systematic mechanism investigation   
-
-OpenAlex: https://openalex.org/W4402471165    
-Open access: False
-    
-[Wei Yan](https://openalex.org/A5100321778), [Chenpu He](https://openalex.org/A5015188116), [Noushad Ullah](https://openalex.org/A5009402460), [Youzhi Cao](https://openalex.org/A5022472965), [Changwan Zhuang](https://openalex.org/A5016501540), [Bing Wang](https://openalex.org/A5100382503), [Jianhua Wang](https://openalex.org/A5100420053), [Zhe Hu](https://openalex.org/A5090365490), [Di Ma](https://openalex.org/A5053408004), [Weichun Ye](https://openalex.org/A5028592088), [Jinyuan Wang](https://openalex.org/A5101709510), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.105.
-    
-Semiconductors, such as metal oxides and metal sulfides (MS    
 
     
 
@@ -51,17 +40,6 @@ No abstract
 
     
 
-## Recent advances of in situ insights into CO2 reduction toward fuels   
-
-OpenAlex: https://openalex.org/W4402497787    
-Open access: False
-    
-[Liang Chen](https://openalex.org/A5100334558), [Chengbin Zhang](https://openalex.org/A5090550685), [Hao Chen](https://openalex.org/A5100353673), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401388.
-    
-The conversion of CO2 into valuable chemical fuels addresses both environmental pollution and energy scarcity. However, understanding reaction mechanisms and the dynamic catalyst evolution during CO2 reduction remains a challenge to data. In this review, we present a detailed description of recent advanced in situ characterization techniques, which provide a reliable means of monitoring the intermediate evolution during CO2 reduction and the dynamic evolution of the catalyst, respectively. Finally, we provide an outlook on the development of in situ characterization techniques.    
-
-    
-
 ## α-Amino Acids by Reductive Carboxylation of Imines Using Formate and CO2   
 
 OpenAlex: https://openalex.org/W4402503388    
@@ -70,39 +48,6 @@ Open access: False
 , Synfacts. 20(10)] 2024.https://doi.org/10.1055/s-0043-1775082.
     
 No abstract    
-
-    
-
-## Size and Morphology Dependent Activity of Cu Clusters for CO2 Activation and Reduction: A First Principles Investigation   
-
-OpenAlex: https://openalex.org/W4402499862    
-Open access: False
-    
-[Shahid Amin](https://openalex.org/A5060927195), [Saïlaja Krishnamurty](https://openalex.org/A5065840925), [Manzoor Ahmad Dar](https://openalex.org/A5007171575), [Krati Joshi](https://openalex.org/A5084584239), ChemPhysChem. None(None)] 2024.https://doi.org/10.1002/cphc.202400442.
-    
-Various Cu‐based materials in diverse forms have been investigated as efficient catalysts for electrochemical reduction of CO2; however, they suffer from issues such as higher over potential and poor selectivity. The activity and selectivity of CO2 electro reduction have been shown to change significantly when the surface morphology (steps, kinks, and edges) of these catalysts is altered. In light of this, size and morphology dependent activity of selected copper clusters, Cun (n=2‐20) have been evaluated for the activation and reduction of CO2 molecule. The phase‐space of these copper clusters is rich in conformations of distinct morphologies starting from planar, 2D geometries to prolate‐shaped geometries and also high‐symmetry structures. The binding efficiency and the activation of CO2 are highest for medium sized clusters (n=9‐17) with prolate‐morphologies as compared to small or larger sized CunCO2 clusters that are existing mainly as planar (triangular, tetragonal etc.) or highly‐symmetric geometries (icosahedron, capped‐icosahedron etc.), respectively. The best performing (prolate‐shaped) CunCO2 conformations are quite fluxional and also they are thermally stable, as demonstrated by the molecular dynamics simulations. Furthermore, on these CunCO2 conformations, the step‐by‐step hydrogenation pathways of CO2 to produce value‐added products like methanol, formic acid, and methane are exceptionally favorable and energy‐efficient.    
-
-    
-
-## Reduction Polymerization of CO2 with Phenylene Silanes Cata‐lyzed by Single Component B(C6F5)3   
-
-OpenAlex: https://openalex.org/W4402489449    
-Open access: False
-    
-[Wenhao He](https://openalex.org/A5101669649), [Bingwen Li](https://openalex.org/A5049213804), [Yuxuan Li](https://openalex.org/A5100330838), [Xinli Liu](https://openalex.org/A5042732771), [Dongmei Cui](https://openalex.org/A5047110002), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202415626.
-    
-CO2 is an abundant C1 resource but a green‐house gas and chemically inert. Thus, its utilization has been a promising but challenging project. Herein, we report the unprecedented polymerization of CO2 and C6H4(SiMe2H)2 using B(C6F5)3 alone under mild conditions to give poly(silphenylene siloxane) accompanied by releasing CH4. The copolymerization can be extended to comonomers of phenylene silanes bearing functional groups. Moreover, it combines with Piers‐Rubinsztajn reaction to establish a tandem polymerization system to achieve super thermal resistant poly(siloxane‐co‐silphenylene siloxane)s. Density functional theory reveals that B(C6F5)3 is activated by silanes to form free HB(C6F5)2, which is the true active species for CO2 reducing to borylformate, the rate controlling step of the polymerization procedure. The subsequent multiple reductions of borylformate to CH4 and the step‐growth to poly(silphenylene siloxane)s can be fulfilled by both B(C6F5)3 and HB(C6F5)2, and the former shows a slightly higher activity. This work opens a new avenue of utilizing CO2 to fabricate polysiloxanes that is unable to access using current manners.    
-
-    
-
-## Reduction Polymerization of CO2 with Phenylene Silanes Cata‐lyzed by Single Component B(C6F5)3   
-
-OpenAlex: https://openalex.org/W4402489599    
-Open access: False
-    
-[Wenhao He](https://openalex.org/A5101669649), [Bingwen Li](https://openalex.org/A5049213804), [Yuxuan Li](https://openalex.org/A5100330850), [Xinli Liu](https://openalex.org/A5042732771), [Dongmei Cui](https://openalex.org/A5047110002), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202415626.
-    
-CO2 is an abundant C1 resource but a green‐house gas and chemically inert. Thus, its utilization has been a promising but challenging project. Herein, we report the unprecedented polymerization of CO2 and C6H4(SiMe2H)2 using B(C6F5)3 alone under mild conditions to give poly(silphenylene siloxane) accompanied by releasing CH4. The copolymerization can be extended to comonomers of phenylene silanes bearing functional groups. Moreover, it combines with Piers‐Rubinsztajn reaction to establish a tandem polymerization system to achieve super thermal resistant poly(siloxane‐co‐silphenylene siloxane)s. Density functional theory reveals that B(C6F5)3 is activated by silanes to form free HB(C6F5)2, which is the true active species for CO2 reducing to borylformate, the rate controlling step of the polymerization procedure. The subsequent multiple reductions of borylformate to CH4 and the step‐growth to poly(silphenylene siloxane)s can be fulfilled by both B(C6F5)3 and HB(C6F5)2, and the former shows a slightly higher activity. This work opens a new avenue of utilizing CO2 to fabricate polysiloxanes that is unable to access using current manners.    
 
     
 
@@ -150,17 +95,6 @@ Background The Indonesian government built the Mass Rapid Transit (MRT) in Jakar
 
     
 
-## Selective reduction of CO2 to CO over alumina-supported catalysts of group 5 transition metal carbides   
-
-OpenAlex: https://openalex.org/W4402468312    
-Open access: True
-    
-[Arturo Pajares](https://openalex.org/A5052406463), [Pilar Ramı́rez de la Piscina](https://openalex.org/A5072617005), [Narcı́s Homs](https://openalex.org/A5028073487), Applied Catalysis A General. None(None)] 2024.https://doi.org/10.1016/j.apcata.2024.119963.
-    
-No abstract    
-
-    
-
 ## An empirical approach-based analysis for the exploration of ternary metal sulfide as an active and selective CO2 reduction electrocatalyst   
 
 OpenAlex: https://openalex.org/W4402532296    
@@ -200,28 +134,6 @@ OpenAlex: https://openalex.org/W4402537824
 Open access: False
     
 [Minjun Zhou](https://openalex.org/A5104200742), [Zhihao Guo](https://openalex.org/A5100747197), [Mingwang Wang](https://openalex.org/A5048215639), [Dewen Song](https://openalex.org/A5043816342), [Rui Zhou](https://openalex.org/A5006048658), [Quansheng Liu](https://openalex.org/A5042781473), [Shuai Wang](https://openalex.org/A5100328261), [Boshi Zheng](https://openalex.org/A5066131031), [Xiaoshan Wang](https://openalex.org/A5100612567), [Hui Ning](https://openalex.org/A5032437864), [Mingbo Wu](https://openalex.org/A5063554744), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.116.
-    
-No abstract    
-
-    
-
-## Aluminum Saving and CO2 Emission reduction from waste recycling of China’s Rooftop Photovoltaics under Carbon Neutrality Strategy   
-
-OpenAlex: https://openalex.org/W4402493855    
-Open access: True
-    
-[Bin Zhang](https://openalex.org/A5100392899), [Y. Zhang](https://openalex.org/A5008125654), [Yuantao Yang](https://openalex.org/A5027955945), [Zhaohua Wang](https://openalex.org/A5101730371), iScience. None(None)] 2024.https://doi.org/10.1016/j.isci.2024.110669.
-    
-No abstract    
-
-    
-
-## Regulating p-orbital electronic configuration of In2O3 by thickness-controlled carbon layer for efficient electrocatalytic CO2 reduction to HCOOH   
-
-OpenAlex: https://openalex.org/W4402494696    
-Open access: False
-    
-[Jian Meng](https://openalex.org/A5103176436), [Manfen Liang](https://openalex.org/A5036643123), [Jinglin Mu](https://openalex.org/A5034658119), [Zhichao Miao](https://openalex.org/A5057221265), [Hong Huang](https://openalex.org/A5063093220), [Ruirui Qi](https://openalex.org/A5093226533), [Lechen Diao](https://openalex.org/A5045744167), [Shuping Zhuo](https://openalex.org/A5047945843), [Jin Zhou](https://openalex.org/A5101549406), Applied Catalysis B Environment and Energy. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124596.
     
 No abstract    
 
@@ -326,17 +238,6 @@ Abstract Dairy manure management is responsible for a significant amount of gree
 
     
 
-## Design of Solar-Powered Cooling Systems Using Concentrating Photovoltaic/Thermal Systems for Residential Applications   
-
-OpenAlex: https://openalex.org/W4402495785    
-Open access: True
-    
-[Fadi A. Ghaith](https://openalex.org/A5063877801), [Taabish Siddiqui](https://openalex.org/A5044604562), [Mutasim Nour](https://openalex.org/A5023520313), Energies. 17(18)] 2024.https://doi.org/10.3390/en17184558.
-    
-This paper addresses the potential of integrating a concentrating photovoltaic thermal (CPV/T) system with an absorption chiller for the purpose of space cooling in residential buildings in the United Arab Emirates (UAE). The proposed system consists of a low concentrating photovoltaic thermal (CPV/T) collector that utilizes mono-crystalline silicon photovoltaic (PV) cells integrated with a single-effect absorption chiller. The integrated system was modeled using the Transient System Simulation (TRNSYS v17) software. The obtained model was implemented in a case study represented by a villa situated in Abu Dhabi having a peak cooling load of 366 kW. The hybrid system was proposed to have a contribution of 60% renewable energy and 40% conventional nonrenewable energy. A feasibility study was carried out that demonstrated that the system could save approximately 670,700 kWh annually and reduce carbon dioxide emissions by 461 tons per year. The reduction in carbon dioxide emissions is equivalent of removing approximately 98 cars off the road. The payback period for the system was estimated to be 3.12 years.    
-
-    
-
 ## The interaction between China’s economic recovery and environmental governance: a comprehensive analysis of energy consumption, CO2 emissions, and resource management   
 
 OpenAlex: https://openalex.org/W4402529246    
@@ -359,17 +260,6 @@ ABSTRACT The applicability of carbohydrazide (CHZ) and diethylhydroxilamine (DEH
 
     
 
-## Carbon footprint and techno-economic analysis to decarbonize the production of linerboard via fuel switching in the lime kiln and boiler: Development of a marginal abatement cost curve   
-
-OpenAlex: https://openalex.org/W4402475136    
-Open access: True
-    
-[Rodrigo Buitrago-Tello](https://openalex.org/A5069002768), [Richard A. Venditti](https://openalex.org/A5047502268), [Hasan Jameel](https://openalex.org/A5032739902), [PETER W. HART](https://openalex.org/A5043279181), [Ashok Ghosh](https://openalex.org/A5055318776), BioResources. 19(4)] 2024.https://doi.org/10.15376/biores.19.4.7806-7823.
-    
-The US Pulp and Paper (P&P) industry heavily relies on fossil sources, with lime kiln operations posing a significant challenge for achieving zero on-site fossil emissions. This study assesses the greenhouse gas (GHG) reduction potential and costs associated with alternative fuels in lime kiln operations for linerboard production. Various options, including bio-based fuels including pulverized biomass, gasification of biomass, crude tall oil, bio-methanol, and traditional fuels such as fuel oil and petcoke, were analyzed through detailed process simulations and Life Cycle Assessment. Results indicate that per ton of product, 2,789 kg of CO2-eq is emitted, with 69% being biogenic CO2 and 31% fossil CO2-eq. Notably, replacing the natural gas boiler with a biomass boiler reduces Global Warming Potential (GWP) by 41%, while switching lime kiln fuel to biofuels achieves a 5.5% reduction. Combining a biomass boiler with pulverized biomass fuel use in the lime kiln yields a substantial 93.1% reduction in Scope 1 and 2 emissions, at a cost of $76/ton of CO2-eq avoided.    
-
-    
-
 ## Reducing the carbon footprint for a 30-bed haemodialysis unit by changing the delivery of acid concentrate supplied by individual 5 L containers to a central delivery system   
 
 OpenAlex: https://openalex.org/W4402599258    
@@ -381,28 +271,6 @@ Abstract Background Haemodialysis treatments generate greenhouse gas (GHG) emiss
 
     
 
-## Life Cycle Assessment of Crude Oil-Contaminated Soil Treated by Low-Temperature Thermal Desorption and Its Beneficial Reuse for Soil Amendment   
-
-OpenAlex: https://openalex.org/W4402500415    
-Open access: True
-    
-[Young Rim Song](https://openalex.org/A5057249358), [Geon Yong Kim](https://openalex.org/A5058923531), [Da Yeon Kim](https://openalex.org/A5090035443), [Yong Woo Hwang](https://openalex.org/A5009797562), No host. None(None)] 2024.https://doi.org/10.20944/preprints202409.0872.v1.
-    
-The LTTD process for highly concentrated crude oil-contaminated soil was studied to evaluate the remediation efficiency. In addition, the environmental impact difference between HTTD and LTTD was studied. OpenLCA software obtained from PE International was used to perform the analyses. The total ADP environmental impact of the HTTD process was 1.63E-04 MJ, whereas the total GWP impact was 4.14E+02 kg CO2-eq. In contrast, the LTTD process exhibits total ADP and GWP environmental impacts of 1.29E-04 MJ and 2.78E+02 kg CO2 eq, respectively. Analysis of the overall environmental impact reduction revealed that replacing the HTTD process with the LTTD process resulted in a total ADP reduction of 3.40E-05 MJ (20.5%) and a GWP reduction of 1.36E+02 kg CO2 -eq (32.9%). It is inferred that the LTTD treatment of contaminated soil can significantly reduce the environmental impact compared with conventional incineration and HTTD processes. Additionally, the LTTD-treated soil with coke or carbonized residue could act like biochar as a soil amendment. Approximately 50% of organic hydrocarbon contaminants are sequestered into coke or carbonized residues on the soil surface. With additional analyses of various oil-contaminated soils, the potential utility of LTTD-treated soils is expected to be maximized.    
-
-    
-
-## High electrolysis performance of the SOEC cathode by creating oxygen vacancies to regulate the adsorption energy   
-
-OpenAlex: https://openalex.org/W4402499758    
-Open access: False
-    
-[Yongqian Du](https://openalex.org/A5100961379), [Longyan Zhao](https://openalex.org/A5101346467), [Yanzhi Xiao](https://openalex.org/A5009132163), [Jiangrong Kong](https://openalex.org/A5073170783), [Бо Лю](https://openalex.org/A5100394072), [Xianfeng Yang](https://openalex.org/A5045404255), [Tao Zhou](https://openalex.org/A5045411017), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta04915b.
-    
-Solid oxide electrolysis cell (SOEC), as an attractive means of CO2 emission reduction, possesses the advantages of high efficiency, greenness and flexibility. However, the catalytic performance of cathode materials currently...    
-
-    
-
 ## In Situ Fabrication of Plasmonic Bi@Bi2O2CO3 Core-Shell Heterostructure for Photocatalytic CO2 Reduction: Structural Insights into Selectivity Modulation   
 
 OpenAlex: https://openalex.org/W4402542556    
@@ -411,17 +279,6 @@ Open access: False
 [Yannan Zhou](https://openalex.org/A5034556726), [Jingyun Jiang](https://openalex.org/A5062871552), [Hang Yin](https://openalex.org/A5101417710), [Shouren Zhang](https://openalex.org/A5084707037), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d4dt02203c.
     
 The precise design of active sites and light absorbers is essential in developing highly efficient photocatalysts for CO2 reduction. Core-shell heterostructures constructed based on large-sized plasmonic Bi metals are ideal...    
-
-    
-
-## Performance of Zeolite-Based Soil–Geopolymer Mixtures for Geostructures under Eccentric Loading   
-
-OpenAlex: https://openalex.org/W4402484636    
-Open access: True
-    
-[Alaa H. J. Al-Rkaby](https://openalex.org/A5036169707), Infrastructures. 9(9)] 2024.https://doi.org/10.3390/infrastructures9090160.
-    
-Although soil stabilization with cement and lime is widely used to overcome the low shear strength of soft clay, which can cause severe damage to the infrastructures founded on such soils, such binders have severe impacts on the environment in terms of increasing emissions of carbon dioxide and the consumption of energy. Therefore, it is necessary to investigate soil improvement using sustainable materials such as byproducts or natural resources as alternatives to conventional binders—cement and lime. In this study, the combination of cement kiln dust as a byproduct and zeolite was used to produce an alkali-activated matrix. The results showed that the strength increased from 124 kPa for the untreated clay to 572 kPa for clay treated with 30% activated stabilizer agent (activated cement kiln dust). Moreover, incorporating zeolite as a partial replacement of the activated cement kiln dust increased the strength drastically to 960 and 2530 kPa for zeolite ratios of 0.1 and 0.6, respectively, which then decreased sharply to 1167 and 800 kPa with further increasing zeolite/pr to 0.8 and 1.0, respectively. The soil that was improved with the activated stabilizer agents was tested under footings subjected to eccentric loading. The results of large-scale loading tests showed clear improvements in terms of increasing the bearing capacity and decreasing the tilt of the footings. Also, a reduction occurred due to the eccentricity decreasing as a result of increasing the thickness of the treated soil layer beneath the footing.    
 
     
 
@@ -480,28 +337,6 @@ Current industrial propane dehydrogenation (PDH) processes predominantly use eit
 
     
 
-## Ink And Influence: The Role of Media on Climate Policy Understanding   
-
-OpenAlex: https://openalex.org/W4402474174    
-Open access: True
-    
-[İbrahim Dalkılıç](https://openalex.org/A5089666695), [Nezahat Doğan](https://openalex.org/A5006575478), CINEJ Cinema Journal. 12(1)] 2024.https://doi.org/10.5195/cinej.2024.645.
-    
-The main purpose of this study is to investigate the role of media (including cinema) on the CO2 emission levels of The United States of America (USA). Employing three co-integration methods, namely Canonical Co-Integrating Regression (CCR), Dynamic Least Squares (DOLS), and Fully Modified Least Squares (FMOLS), within the framework of Environmental Kuznet Curves (EKC) theory, we unravel the impact of media coverage on the USA’s carbon footprint. Utilizing Climate Policy Uncertainty index (CPU), extracted from prominent USA newspapers as a main concern, the analysis reveals a noteworthy outcome indicating media coverage pertaining to environmental issues, pollution, and climate changes emerges as a contributing factor in the reduction of CO2 emissions. The study also uses income per capita, renewable energy consumption and foreign direct investment as additional metrics of air pollution. The findings not only shed light on the influential role of media in shaping environmental outcomes but also offer valuable insights to policy makers and governors.    
-
-    
-
-## Pore-Scale Simulation of the Effect of Wettability Alteration on Flow Transport Kinetics in 3D Natural Porous Media   
-
-OpenAlex: https://openalex.org/W4402468078    
-Open access: False
-    
-[Yongfei Yang](https://openalex.org/A5011159421), [H.Y. Li](https://openalex.org/A5022618493), [Chuan Tong](https://openalex.org/A5041842304), [Lei Zhang](https://openalex.org/A5100782508), [Hai Sun](https://openalex.org/A5027254419), [Junjie Zhong](https://openalex.org/A5024357752), [Kai Zhang](https://openalex.org/A5100323988), [Jun Yao](https://openalex.org/A5102858122), SPE Journal. None(None)] 2024.https://doi.org/10.2118/223106-pa.
-    
-Summary Wettability alteration commonly occurs in subsurface two-phase displacements, such as enhanced hydrocarbon recovery, hydrogen storage, and carbon dioxide sequestration. A comprehensive understanding of two-phase flow transport kinetics during wettability alteration in natural rocks is essential for optimizing these processes. To address this, a wettability alteration model induced by low-salinity waterflooding (LSWF) was implemented based on the volume of fluid (VOF) method and the compressive continuous species transfer (C-CST) method in the OpenFOAM platform, which integrates the pore-scale two-phase fluid flow and the advection-diffusion of species. Following validation against experimental data from existing literature, extensive direct numerical simulations (DNSs) were conducted in an actual 3D sandstone sample obtained by microcomputed tomography (micro-CT) images. The effects of the wettability alteration degree, wettability alteration model, and capillary number on dynamic salt dispersion and fluid redistribution are considered in simulation works. The findings indicate that a higher wettability alteration degree facilitates the release of more oil trapped in smaller pores toward the outlet, while the mobilized oil might become trapped again due to snap-off in larger downstream pores. Moreover, due to the presence of alternative flow pathways in the system, the backflowed oil induced by heterogeneous salinity distribution might not be effectively recovered. A faster wettability alteration rate enhances the performance of LSWF because of the rapid reduction of entry capillary pressure and the delayed negative effect of salt dispersion. In terms of the capillary number, a higher capillary number accelerates the diffusion of species to the three-phase contact line and reduces the occurrence of snap-off retrapping, thereby increasing ultimate oil recovery. This study contributes to a deeper understanding of the microscopic displacement mechanism during the wettability alteration processes, especially for LSWF, in 3D heterogeneous porous media.    
-
-    
-
 ## Co-Precipitation Synthesized Ag-Doped Ceria Redox Material (ACRM) for the Thermochemical Conversion of CO2 into Solar Fuels   
 
 OpenAlex: https://openalex.org/W4402515786    
@@ -513,17 +348,6 @@ In this investigation, an effort was made to introduce Ag into the CeO2 fluorite
 
     
 
-## EDUCATIONAL BUILDING RENOVATION USING GREEN ROOF TOWARDS ENERGY SAVINGS AND DECARBONIZATION OF CITIES   
-
-OpenAlex: https://openalex.org/W4402473828    
-Open access: False
-    
-[J. P. Glišić](https://openalex.org/A5107157107), [Tamara Bajc](https://openalex.org/A5056612776), No host. None(None)] 2024.https://doi.org/10.46793/ieep24.397g.
-    
-This paper presents an analysis of the possible application of green roof on an existing educational building with a flat roof, through an analysis of the degree of energy efficiency improvement and CO2 emission reduction. The goal of the paper is to show, through the preparation of the energy efficiency report and Energy passport, the green roof as an exceptional tool for ensuring sustainable development, decarbonization and improving the quality of life of people in urban areas. This is important because urban areas have limited space for green infrastructure and high level of pollution. The research also clearly defines the impact of green roof installations on energy savings with the share for heating of 15% and air quality contributing to the about 6% lower CO2 emission, with attached methodological explanations for their application. Economic analysis and profitability of the proposed project are also provided as an additional indication of the relevance of this type of practice. In the economic analysis, the key indicators of the profitability of the investment are studied, in this investigation, the net present value (NPV) and the payback period (PBP) of the green roof project. PBP of 22 years was obtained, but it should not be considered separately of the other benefits of green roofs, which are not measurable in money, such as lower pollution in cities, habitats for pollinators, additional green areas for people, prevention of floods, etc.    
-
-    
-
 ## Trends in CO, CO<sub>2</sub>, CH<sub>4</sub>, BC, and NO<sub>x </sub>during the first 2020 COVID-19 lockdown: source insights from the WMO/GAW station of Lamezia Terme (Calabria, Southern Italy)   
 
 OpenAlex: https://openalex.org/W4402559566    
@@ -532,39 +356,6 @@ Open access: True
 [Francesco D’Amico](https://openalex.org/A5101916131), [Ivano Ammoscato](https://openalex.org/A5085477448), [Daniel Gullì](https://openalex.org/A5037863048), [Elenio Avolio](https://openalex.org/A5003696483), [Teresa Lo Feudo](https://openalex.org/A5019248420), [Mariafrancesca De Pino](https://openalex.org/A5079518186), [Paolo Cristofanelli](https://openalex.org/A5013159030), [Luana Malacaria](https://openalex.org/A5099128770), [Domenico Parise](https://openalex.org/A5099128771), [Salvatore Sinopoli](https://openalex.org/A5102811601), [Giorgia De Benedetto](https://openalex.org/A5104971933), [Claudia Roberta Calidonna](https://openalex.org/A5002083226), No host. None(None)] 2024.https://doi.org/10.20944/preprints202409.0915.v2.
     
 In 2020, the Covid-19 outbreak led many countries across the globe to introduce lockdowns (LDs) that effectively caused most anthropic activities to either stop completely or be significantly reduced. In Europe, Italy played a pioneeristic role via the early introduction of a strict nationwide LD on March 9th. This study is aimed at evaluating, using both chemical and meteorological data, the environmental response to that occurrence as observed by the Lamezia Terme (LMT) GAW/WMO station in Calabria, Southern Italy. The first 2020 lockdown has therefore been used as a &ldquo;proving ground&rdquo; to assess CO, CO2, CH4, BC, and NOx concentrations in a rather unique context by exploiting the location of LMT in the context of the Mediterranean Basin. In fact, its location on the Tyrrhenian coast of Calabria and local wind circulation both lead to daily cycles where western-seaside winds depleted in anthropogenic pollutants can be easily differentiated from northeastern-continental winds, enriched in anthropogenic outputs. In addition to that, the first Italian LD occurred during the seasonal transition from Winter to Spring and, consequently, Summer, thus providing new insights on emission outputs correlated with seasons. Findings have clearly indicated BC and, in particular, CO as strongly correlated with average daily temperatures, and possibly domestic heating. CO2&rsquo;s reduction during the lockdown and consequent increase in the post-lockdown period, combined with wind data, has allowed to constrain local source of emissions located northeast from LMT. NOx reductions during specific circumstances are consistent with hypotheses from previous research which linked them to rush hour traffic and other forms of transportation emissions. CH4&rsquo;s stable patterns are consistent with livestock, landfills, and other sources assumed to be nearly constant during LD periods.    
-
-    
-
-## Thermodynamic Feasibility of Chemical Looping CO Production from Blast Furnace Gas Based on Fe-Ca-Based Carriers   
-
-OpenAlex: https://openalex.org/W4402480085    
-Open access: True
-    
-[Yang Gao](https://openalex.org/A5085464924), [Huaqing Xie](https://openalex.org/A5023446490), [Chao Sun](https://openalex.org/A5100945338), [Mengxin Qin](https://openalex.org/A5039119097), [Kun Wang](https://openalex.org/A5101733746), [Zhushan Shao](https://openalex.org/A5002741045), Processes. 12(9)] 2024.https://doi.org/10.3390/pr12091965.
-    
-In this paper, a novel process for synergistic carbon in situ capture and the utilization of blast furnace gas is proposed to produce CO via chemical looping. Through thermodynamic analysis, this process was studied in terms of the carbon fixation rate, CO yield, in situ CO2 utilization rate, CH4 conversion rate and energy consumption. It provides valuable insights for achieving efficient CO2 capture and in situ conversion. FeO and CaO are used as the oxygen carrier and the carbon carrier, respectively. Under the conditions of reaction temperature of 400 °C, pressure of 1 bar and FeO/CO ratio of 1, the carbon capture rate of blast furnace gas can reach more than 99%. In the carbon release reactor, the CO yield is lower than that in the original blast furnace gas (BFG) if no reduction gas is involved. Therefore, methane is introduced as a reducing gas to increase CO yield. When the reaction temperature is increased to 1000 °C, the pressure level is reduced to 0.01 bar and the CH4/C ratio is 1:1 (methane to carbon), the CO yield is four times that of the initial blast furnace gas. Under the optimal conditions, the energy consumption of the system is 0.2 MJ/kg, which is much lower than that of the traditional process. This paper verifies the feasibility of the new process from the perspective of thermodynamics.    
-
-    
-
-## Effect of tetrandrine tablets on cytokines, immune function, blood gas and respiratory function in patients with stage II pneumoconiosis   
-
-OpenAlex: https://openalex.org/W4402487904    
-Open access: True
-    
-[Chongjian Wang](https://openalex.org/A5014333694), [Hongliang Li](https://openalex.org/A5100442422), [Jintao Wang](https://openalex.org/A5100379893), [Xiuwu Liu](https://openalex.org/A5002886581), Tropical Journal of Pharmaceutical Research. 23(6)] 2024.https://doi.org/10.4314/tjpr.v23i6.10.
-    
-Purpose: To investigate the impact of tetrandrine tablets on cytokines, immune function, blood gas and respiratory function in patients with stage II pneumoconiosis. Methods: 136 subjects with stage II pneumoconiosis diagnosed and treated in People's Hospital of Linyi City, Linyi City, China were divided into control and study cohorts, each with 68 individuals. Patients in control cohort received conventional symptomatic treatment, while study cohort additionally received tetrandrine tablets orally 3 times per day, for 4 weeks. Lung function, serum indicators and blood gas indicators were determined before and after treatment. Results: After treatment, the levels of forced expiratory volume in one second (FEV1) and FEV1/FVC in both groups were significantly increased in both cohorts, with significantly higher values in study cohort. In both cohorts, there were higher post-treatment numbers of CD4+ and CD8+ cells and CD4+/CD8+ ratio than before treatment, but with significantly higher values in study cohort (p < 0.05). After treatment, there were significantly raised levels of peripheral capillary oxygen saturation (SpO2), minute ventilation (VE) and tidal volume (VT) in the two cohorts, with higher values in the study group cohort (p < 0.05). Moreover, treatment resulted in a significant reduction in partial pressure of end-tidal carbon dioxide (PETCO2), with significantly lower levels in study cohort (p < 0.05). After treatment, concentrations of interleukin-1 beta (IL-1β), matrix metalloproteinase-7 (MMP-7), and tumor necrosis factor beta-1 (TNF-β1) in study cohort were significantly reduced, relative to pre-treatment. Conclusion: Tetrandrine tablets are efficacious in stage II pneumoconiosis patients. The drug is beneficial in improving immune function, reducing levels of inflammatory mediators, and improving lung function and blood gas indicators in patients. Future studies incorporating additional parameters and a larger number of patients will be required to provide a more comprehensive understanding of the efficacy and safety of this treatment protocol.    
-
-    
-
-## Evaluating Engine Performance, Emissions, Noise, and Vibration: A Comparative Study of Diesel and Biodiesel Fuel Mixture   
-
-OpenAlex: https://openalex.org/W4402501667    
-Open access: True
-    
-[Mahmut İnce](https://openalex.org/A5076498289), [Samet Çelebi](https://openalex.org/A5051931244), [Üsame Demir](https://openalex.org/A5010021693), [Can HAŞİMOĞLU](https://openalex.org/A5001979588), International Journal of Automotive Science And Technology. None(None)] 2024.https://doi.org/10.30939/ijastech..1495167.
-    
-This study investigates the performance, emissions, noise, and vibration characteristics of a single-cylinder, air-cooled, four-stroke diesel engine running on pure diesel (D100) and biodiesel blends (B10: 90% diesel, 10% biodiesel; B20: 80% diesel, 20% biodiesel) at 1800 rpm, where the engine delivers maximum torque. Key metrics such as torque, power, brake specific fuel consumption (BSFC), exhaust gas temperature, noise, vibration, and emissions (CO, CO2, HC, O2, NOx, and smoke opacity) were analyzed. The findings indicate that B10 enhances torque, power output, and overall fuel efficiency, especially at low to medium loads, with a significant 17.54% reduction in BSFC compared to D100 at 40% engine load. Vibration levels generally increased with biodiesel addition, while B10 and B20 both reduced smoke opacity, with B20 having a more substantial effect. HC emissions decreased at idle with B10 but increased at higher loads, suggesting more complete combustion with potential thermal stress on engine components. Noise and vibration results were mixed; B20 reduced noise at higher loads but increased vibration. At 100% load, B20 decreased noise by 1.42% compared to D100. Despite benefits such as improved torque and reduced particulate emissions, biodiesel blends, particularly B20, led to increased NOx and CO2 emissions, emphasizing the need for further op-timization of blend formulations and emission control strategies. This study provides valuable insights into the tradeoffs and potential of biodiesel blends as sustainable diesel alternatives.    
 
     
 
@@ -609,17 +400,6 @@ Open access: False
 [Ezio Mancaruso](https://openalex.org/A5073768559), [Giovanni Meccariello](https://openalex.org/A5083501499), [Simona Rossetti](https://openalex.org/A5022004944), SAE technical papers on CD-ROM/SAE technical paper series. 1(None)] 2024.https://doi.org/10.4271/2024-24-0016.
     
 <div class="section abstract"><div class="htmlview paragraph">Light commercial vehicles are an indispensable element for the transport of people and the delivery of goods, especially on extra-urban and long-distance routes. With a view to sustainable mobility, it is necessary to think about hybridizing these vehicles to reduce the fuel consumption as well as greenhouse gas emissions and particulate matter. These types of vehicles are generally powered by diesel and travel many kilometers a day. On the other hand, the use of light commercial vehicles in battery electric vehicle (BEV) configuration has already been started but is not receiving widespread recognition. In this panorama, starting from a study already developed for the hybridization of a plug-in light commercial vehicle in Worldwide harmonized Light vehicles Test Cycle (WLTC) condition, the simulation analysis has been extended to the plug-in hybrid vehicle (PHEV) operating in real driving emission conditions (RDE). In particular, using Advisor software, a vehicle has been simulated in different plug-in hybrid configurations. The software has been validated with real operation data of a euro 6 diesel engine. The general hypothesis underlying the research consists in the possibility of using these vehicles in totally electric mode in the city and in hybrid mode outside urban centers; with the aim of reducing polluting emissions in populated city but completing the delivery mission during all phases of vehicle operation. The PHEV simulations have been performed on both WLTC and RDE condition. In the latter mode, particular attention has been devoted to the interpretation of data from GPS sensor: like the slope of the route or the presence of tunnels. The success of the simulation depends on a correct and careful reconstruction of the GPS data. Three vehicles with different hybridization factors have been simulated: 0.44, 0.56, and 0.67, respectively, with power equal to that of the base vehicle. The battery packs have been sized for the three hybrid vehicles and simulations were carried out in both Charge Depleting and Charge Sustaining configuration. In charge depleting for the highest hybrid configuration (HF=0.66), the results demonstrate that a reduction of up to 80% and 76% in fuel can be saved While a reduction up to 75% and 45% in NOx emissions can be achieved on WLTC and RDE cycle, respectively. On the other hand, when the battery is discharged, for HF=0.67, although consumption can be reduced by up to 45%, NOx emissions also increase by 183% even if ICE operation mode has to be better optimize for hybrid operation. Finally, even if the hybrid solutions is really convenient if compared to the conventional vehicle in terms of fuel savings and NOx pollutant emissions, about a realistic estimation of the CO2 reduction that can be achieved the use of electrical energy must be take into account.</div></div>    
-
-    
-
-## Investigation of the bioactive constituents and some pharmacological activities of the ethanol extracts of <i>Acanthospermum hispidum</i> and <i>Moringa oleifera</i>   
-
-OpenAlex: https://openalex.org/W4402487962    
-Open access: True
-    
-[F. O. Ojo](https://openalex.org/A5043574937), [Erkay Özgör](https://openalex.org/A5057577752), Tropical Journal of Pharmaceutical Research. 23(6)] 2024.https://doi.org/10.4314/tjpr.v23i6.5.
-    
-Purpose: To determine the bioactive compounds in Moringa oleifera (MO) and Acanthospermum hispidum (AH) with antioxidant, anticancer, antifungal and antibacterial potentials. Methods: Fresh leaves of these plants were collected from Akinmoorin and Awe, Oyo State, Nigeria. Particle-induced x-ray emission (PIXE) technique was performed using a 2.5MeV proton beam (a non-destructive elemental analysis). Phytochemicals were qualitatively analyzed using High-performance liquid chromatography (HPLC), gas chromatographic-mass spectrophotometer (GC-MS) and standard procedures. Disc diffusion method was used to determine the minimum inhibitory concentration (MIC) for fungi and bacteria. Antioxidant properties were carried out by DPPH radical scavenging activity. Cancer cells (MDAMB 231 and HTC 15) were cultivated in the presence of the extracts at body temperature with 5 % CO2 and 95 % air in 100 % relative humidity. Thereafter, adherent cells were seeded and treated with increasing concentrations of the plant extracts for 48 – 72 h. Results: Phytochemical analysis showed that both plants contain alkaloids, flavonoids, anthraquinones, steroids and terpenoids, saponins, tannins, phenols and glycosides. The MIC for MO on fungi was 21.0 and 12.0 mg/mL for AH. Furthermore, MO MIC for bacteria was 25.25 mg/mL and 9.75 mg/mL for AH. Antioxidant properties revealed MO having 80.02 % and AH, 76 % at 32.00 µL. The ethanolic extracts showed a 50 % reduction in cancer cell viability at 24.5 μg/mL for MO and 16.0 μg/mL for AH, respectively, on MDAMB 231 and HTC 15 cells. Conclusion: Moringa oleifera (MO) and Acanthospermum hispidum (AH) extracts exhibit significant antioxidant, antitumor, antifungal and antibacterial activities. Further studies will require that the active constituents be isolated and formulated into suitable dosage forms.    
 
     
 

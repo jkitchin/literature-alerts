@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Sep 2024 01:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 01:16:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Computational screening of transition metal atom doped ZnS and ZnSe nanostructures as promising bifunctional oxygen electrocatalysts</title>
-      <link>https://doi.org/10.1039/d4ra04011b</link>
-      <description>Feifei Xia, Shu Li, Fengli Yang, Yingpin Wen, Chunzhi Zheng, RSC Advances. 14(40)] 2024. https://openalex.org/W4402491900
-
-                The design of bifunctional oxygen electrocatalysts showing high catalytic performance for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) is of great significance for developing new renewable energy storage and conversion technologies. Herein, based on the first principles calculations, we systematically explored the electrocatalytic activity of a series of transition metal atom (Fe, Co, Ni, Cu, Pd and Pt)-doped ZnS and ZnSe nanostructures for OER and ORR. The calculated results revealed that Ni- and Pt-doped ZnS and ZnSe nanostructures exhibit promising electrocatalytic performance for both OER and ORR in comparison to the pristine ZnS and ZnSe nanostructures. Especially, the OER/ORR overpotentials of Ni-doped ZnS and ZnSe nanostructures are estimated to be 0.28/0.30 and 0.31/0.31 V, respectively, disclosing their great potential as bifunctional oxygen electrocatalysts. Moreover, it is found that Ni-doped ZnS and ZnSe nanostructures for OER and ORR are on the top of the volcano plots, evincing promising catalytic performance. Our results provide theoretical insights into a feasible strategy to synthesize highly efficient ZnS- and ZnSe-based bifunctional oxygen electrocatalysts in the future.</description>
-      <author>Feifei Xia, Shu Li, Fengli Yang, Yingpin Wen, Chunzhi Zheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra04011b</guid>
-    </item>
     <item>
       <title>Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study</title>
       <link>https://doi.org/10.1016/j.cej.2024.155692</link>
@@ -86,136 +76,6 @@
       <author>A. R. Suresh Babu, N. Madhusudhana Rao</author>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11664-024-11452-8</guid>
-    </item>
-    <item>
-      <title>First-Principles investigation of H2O2 electrosynthesis on Cu-C24N24 single-atom catalyst</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114520</link>
-      <description>Junkai Wang, Yifei Wang, Zhenxia Huang, Qianku Hu, Aiguo Zhou, Shaowei Zhang, Molecular Catalysis. 569(None)] 2024. https://openalex.org/W4402467532
-
-                No abstract</description>
-      <author>Junkai Wang, Yifei Wang, Zhenxia Huang, Qianku Hu, Aiguo Zhou, Shaowei Zhang</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114520</guid>
-    </item>
-    <item>
-      <title>Unveiling the Composition-Dependent Catalytic Mechanism of Pt&#8211;Ni Alloys for Oxygen Reduction: A First-Principles Study</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c02164</link>
-      <description>Zhiyuan Xia, Xiangyu Zhu, Xing Chen, Yanan Zhou, Qiquan Luo, Jinlong Yang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4402469323
-
-                Unveiling the composition-dependent catalytic mechanism of Pt-based alloy cathodes for the oxygen reduction reaction (ORR) helps improve the proton exchange membrane fuel cells. Using density functional theory calculations, this study investigates the ORR catalytic performance of the Pt-Ni system with various compositions (1.00, &#8764;0.99, 0.75, 0.50, 0.25, &#8764;0.01, and 0.00). The ordered solid solution PtNi</description>
-      <author>Zhiyuan Xia, Xiangyu Zhu, Xing Chen, Yanan Zhou, Qiquan Luo, Jinlong Yang</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02164</guid>
-    </item>
-    <item>
-      <title>Solvent-mediated oxide hydrogenation in layered cathodes</title>
-      <link>https://doi.org/10.1126/science.adg4687</link>
-      <description>Gang Wan, Travis P. Pollard, Lin Ma, Marshall A. Schroeder, Chia&#8208;Chin Chen, Zihua Zhu, Zhan Zhang, Cheng Sun, Jiyu Cai, Harry L. Thaman, Art&#363;ras Vailionis, Haoyuan Li, Shelly D. Kelly, Zhenxing Feng, Joseph B. Franklin, Steven P. Harvey, Ye Zhang, Yingge Du, Zonghai Chen, Christopher J. Tassone, Hans&#8208;Georg Steinr&#252;ck, Quanquan Pang, Oleg Borodin, Michael F. Toney, Science. 385(6714)] 2024. https://openalex.org/W4402475620
-
-                Self-discharge and chemically induced mechanical effects degrade calendar and cycle life in intercalation-based electrochromic and electrochemical energy storage devices. In rechargeable lithium-ion batteries, self-discharge in cathodes causes voltage and capacity loss over time. The prevailing self-discharge model centers on the diffusion of lithium ions from the electrolyte into the cathode. We demonstrate an alternative pathway, where hydrogenation of layered transition metal oxide cathodes induces self-discharge through hydrogen transfer from carbonate solvents to delithiated oxides. In self-discharged cathodes, we further observe opposing proton and lithium ion concentration gradients, which contribute to chemical and structural heterogeneities within delithiated cathodes, accelerating degradation. Hydrogenation occurring in delithiated cathodes may affect the chemo-mechanical coupling of layered cathodes as well as the calendar life of lithium-ion batteries.</description>
-      <author>Gang Wan, Travis P. Pollard, Lin Ma, Marshall A. Schroeder, Chia&#8208;Chin Chen, Zihua Zhu, Zhan Zhang, Cheng Sun, Jiyu Cai, Harry L. Thaman, Art&#363;ras Vailionis, Haoyuan Li, Shelly D. Kelly, Zhenxing Feng, Joseph B. Franklin, Steven P. Harvey, Ye Zhang, Yingge Du, Zonghai Chen, Christopher J. Tassone, Hans&#8208;Georg Steinr&#252;ck, Quanquan Pang, Oleg Borodin, Michael F. Toney</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/science.adg4687</guid>
-    </item>
-    <item>
-      <title>Physics-Informed Active Learning for Accelerating Quantum Chemical Simulations</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00821</link>
-      <description>Yi-Fan Hou, Lina Zhang, Quanhao Zhang, Fuchun Ge, Pavlo O. Dral, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4402477242
-
-                Quantum chemical simulations can be greatly accelerated by constructing machine learning potentials, which is often done using active learning (AL). The usefulness of the constructed potentials is often limited by the high effort required and their insufficient robustness in the simulations. Here, we introduce the end-to-end AL for constructing robust data-efficient potentials with affordable investment of time and resources and minimum human interference. Our AL protocol is based on the physics-informed sampling of training points, automatic selection of initial data, uncertainty quantification, and convergence monitoring. The versatility of this protocol is shown in our implementation of quasi-classical molecular dynamics for simulating vibrational spectra, conformer search of a key biochemical molecule, and time-resolved mechanism of the Diels-Alder reaction. These investigations took us days instead of weeks of pure quantum chemical calculations on a high-performance computing cluster.</description>
-      <author>Yi-Fan Hou, Lina Zhang, Quanhao Zhang, Fuchun Ge, Pavlo O. Dral</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00821</guid>
-    </item>
-    <item>
-      <title>Structure, Bonding, and Vibrational Dynamics of a Triamine High Energy Density Material under Pressure</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03637</link>
-      <description>Zachary L. Whipple, Roma R. Ripani, Janki Brahmbhatt, Muhtar Ahart, Nilesh P. Salke, Yue Meng, Zhenxian Liu, Stella Chariton, Stephen A. Gramsch, Santanu Chaudhuri, Emmanuele Parisi, Roberto Centore, Russell J. Hemley, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402477400
-
-                No abstract</description>
-      <author>Zachary L. Whipple, Roma R. Ripani, Janki Brahmbhatt, Muhtar Ahart, Nilesh P. Salke, Yue Meng, Zhenxian Liu, Stella Chariton, Stephen A. Gramsch, Santanu Chaudhuri, Emmanuele Parisi, Roberto Centore, Russell J. Hemley</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03637</guid>
-    </item>
-    <item>
-      <title>Controlling Plasmonic Catalysis via Strong Coupling with Electromagnetic Resonators</title>
-      <link>https://doi.org/10.1021/acs.nanolett.4c03153</link>
-      <description>Jakub Fojt, Paul Erhart, C. Sch&#228;fer, Nano Letters. None(None)] 2024. https://openalex.org/W4402477650
-
-                Plasmonic excitations decay within femtoseconds, leaving nonthermal (often referred to as "hot") charge carriers behind that can be injected into molecular structures to trigger chemical reactions that are otherwise out of reach&#9472;a process known as plasmonic catalysis. In this Letter, we demonstrate that strong coupling between resonator structures and plasmonic nanoparticles can be used to control the spectral overlap between the plasmonic excitation energy and the charge injection energy into nearby molecules. Our atomistic description couples real-time density-functional theory self-consistently to an electromagnetic resonator structure via the radiation-reaction potential. Control over the resonator provides then an additional knob for nonintrusively enhancing plasmonic catalysis, here more than 6-fold, and dynamically reacting to deterioration of the catalyst&#9472;a new facet of modern catalysis.</description>
-      <author>Jakub Fojt, Paul Erhart, C. Sch&#228;fer</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c03153</guid>
-    </item>
-    <item>
-      <title>Impact of Polymer End Groups on the Formation of Solid Electrolyte Interphase at the Lithium Metal Interface: A First-Principles Calculations Study</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03261</link>
-      <description>Kazem Zhour, Andreas Heuer, Diddo Diddens, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402480543
-
-                No abstract</description>
-      <author>Kazem Zhour, Andreas Heuer, Diddo Diddens</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03261</guid>
-    </item>
-    <item>
-      <title>Heterogeneity in Point Defect Distribution and Mobility in Solid Ion Conductors</title>
-      <link>https://doi.org/10.1021/acsami.4c12128</link>
-      <description>Md Salman Rabbi Limon, Zeeshan Ahmad, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402482224
-
-                Alkali metal anodes paired with solid ion conductors offer promising avenues for enhancing battery energy density and safety. To facilitate rapid ion transport crucial for fast charging and discharging of batteries, it is essential to understand the behavior of point defects in these conductors. In this study, we investigate the heterogeneity of defect distribution in two prototypical solid ion conductors, Li</description>
-      <author>Md Salman Rabbi Limon, Zeeshan Ahmad</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c12128</guid>
-    </item>
-    <item>
-      <title>Unveiling O2 adsorption on non-metallic active site for selective photocatalytic H2O2 production</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124586</link>
-      <description>Jindi Yang, Hanqing Yin, Aijun Du, Mike Tebyetekerwa, Chuanbiao Bie, Xiaoyi Hu, Zhimeng Sun, Zhongguo Zhang, Xiangkang Zeng, Xiwang Zhang, Applied Catalysis B Environment and Energy. 361(None)] 2024. https://openalex.org/W4402482477
-
-                No abstract</description>
-      <author>Jindi Yang, Hanqing Yin, Aijun Du, Mike Tebyetekerwa, Chuanbiao Bie, Xiaoyi Hu, Zhimeng Sun, Zhongguo Zhang, Xiangkang Zeng, Xiwang Zhang</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124586</guid>
-    </item>
-    <item>
-      <title>Hydrogen evolution reaction on Ag12M icosahedrons: A DFT study</title>
-      <link>https://doi.org/10.1016/j.cplett.2024.141588</link>
-      <description>Peter L. Rodr&#237;guez&#8208;Kessler, Salom&#243;n Rodr&#237;guez-Carrera, Alvaro Mu&#241;oz&#8208;Castro, Chemical Physics Letters. None(None)] 2024. https://openalex.org/W4402488700
-
-                No abstract</description>
-      <author>Peter L. Rodr&#237;guez&#8208;Kessler, Salom&#243;n Rodr&#237;guez-Carrera, Alvaro Mu&#241;oz&#8208;Castro</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141588</guid>
-    </item>
-    <item>
-      <title>Mechanistic studies on defective hBN-supported metal-nonmetal synergistic catalysis for urea electrosynthesis</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161230</link>
-      <description>Zi-Yang Qiu, Jing&#8208;Shuang Dang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4402495689
-
-                No abstract</description>
-      <author>Zi-Yang Qiu, Jing&#8208;Shuang Dang</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161230</guid>
-    </item>
-    <item>
-      <title>Transition metal doped into layered double hydroxide as efficient electrocatalysts for oxygen evolution reaction: A DFT study</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161233</link>
-      <description>Shilong Li, Caiwei Yue, Haohao Wang, Jirui Du, Hongyun Cui, Min Pu, Ming Lei, Applied Surface Science. None(None)] 2024. https://openalex.org/W4402495714
-
-                No abstract</description>
-      <author>Shilong Li, Caiwei Yue, Haohao Wang, Jirui Du, Hongyun Cui, Min Pu, Ming Lei</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161233</guid>
-    </item>
-    <item>
-      <title>On the role of Zn and Fe doping in nitrogen-carbon electrocatalysts for oxygen reduction</title>
-      <link>https://doi.org/10.1007/s12274-024-6962-1</link>
-      <description>Yanan Zou, Yuanyuan Su, Yongchao Yu, Jinliang Luo, Xiaomin Kang, Jun Zhang, Linghan Lan, Tianshi Wang, Jun Li, Nano Research. None(None)] 2024. https://openalex.org/W4402500287
-
-                No abstract</description>
-      <author>Yanan Zou, Yuanyuan Su, Yongchao Yu, Jinliang Luo, Xiaomin Kang, Jun Zhang, Linghan Lan, Tianshi Wang, Jun Li</author>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6962-1</guid>
     </item>
     <item>
       <title>Self-Supported Metallic Glass as a Highly Durable HER Electrode under Fluctuating Renewable Power</title>
@@ -326,16 +186,6 @@
       <author>Jinyun Cui, Jing Wang, Teng Xu, Jiabao Lin, Kunlong Liu, Pengxin Liu</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100438</guid>
-    </item>
-    <item>
-      <title>Ultrafast joule-heating synthesis of FeCoMnCuAl high-entropy-alloy nanoparticles as efficient OER electrocatalysts</title>
-      <link>https://doi.org/10.1016/j.pnsc.2024.08.005</link>
-      <description>Xindong Zhu, Wen Huang, Yu Lou, Zhongzheng Yao, Huiqiang Ying, Min Dong, Lan Tan, Jianrong Zeng, Hua Ji, He Zhu, Si Lan, Progress in Natural Science Materials International. None(None)] 2024. https://openalex.org/W4402472017
-
-                No abstract</description>
-      <author>Xindong Zhu, Wen Huang, Yu Lou, Zhongzheng Yao, Huiqiang Ying, Min Dong, Lan Tan, Jianrong Zeng, Hua Ji, He Zhu, Si Lan</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.pnsc.2024.08.005</guid>
     </item>
   </channel>
 </rss>
