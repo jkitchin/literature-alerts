@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Sep 2024 01:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 01:25:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Assessing the stability of binary copper oxide photocathodes and augmenting CuO water reduction performance: Comprehensive experimental and theoretical study</title>
-      <link>https://doi.org/10.1016/j.cej.2024.155692</link>
-      <description>Angelina Mary, C. Murugan, K. Karthick, P. Murugan, Alagarsamy Pandikumar, Chemical Engineering Journal. 498(None)] 2024. https://openalex.org/W4402519312
-
-                No abstract</description>
-      <author>Angelina Mary, C. Murugan, K. Karthick, P. Murugan, Alagarsamy Pandikumar</author>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155692</guid>
-    </item>
     <item>
       <title>Electrochemical Direct Methane to Methanol</title>
       <link>https://doi.org/10.1016/b978-0-443-15740-0.00130-0</link>
@@ -76,86 +66,6 @@
       <author>A. R. Suresh Babu, N. Madhusudhana Rao</author>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11664-024-11452-8</guid>
-    </item>
-    <item>
-      <title>Self-Supported Metallic Glass as a Highly Durable HER Electrode under Fluctuating Renewable Power</title>
-      <link>https://doi.org/10.1021/acssuschemeng.4c04017</link>
-      <description>Liandong Li, Bing Lin, Hailong Zhang, J.C. Qiao, Takeshi Wada, Hidemi Kato, Junlei Tang, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4402503906
-
-                No abstract</description>
-      <author>Liandong Li, Bing Lin, Hailong Zhang, J.C. Qiao, Takeshi Wada, Hidemi Kato, Junlei Tang</author>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c04017</guid>
-    </item>
-    <item>
-      <title>Key Role of Density Functional Approximation in Predicting M&#8211;N&#8211;C Catalyst Activities for Oxygen Reduction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03322</link>
-      <description>Brett Henderson, Sofia Donnecke, Scott N. Genin, Ilya G. Ryabinkin, Irina Paci, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402504253
-
-                No abstract</description>
-      <author>Brett Henderson, Sofia Donnecke, Scott N. Genin, Ilya G. Ryabinkin, Irina Paci</author>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03322</guid>
-    </item>
-    <item>
-      <title>References</title>
-      <link>https://doi.org/10.1002/9781119744856.ref</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4402504857
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9781119744856.ref</guid>
-    </item>
-    <item>
-      <title>Innovations in Catalytic Understanding: A Journey through Advanced Characterization</title>
-      <link>https://doi.org/10.1016/j.mtcata.2024.100061</link>
-      <description>Ifeanyi Michael Smarte Anekwe, Stephen Okiemute Akpasi, Emeka Michael Enemuo, Darlington C. Ashiegbu, Sherif Ishola Mustapha, Yusuf Makarfi Isa, Materials Today Catalysis. None(None)] 2024. https://openalex.org/W4402511815
-
-                No abstract</description>
-      <author>Ifeanyi Michael Smarte Anekwe, Stephen Okiemute Akpasi, Emeka Michael Enemuo, Darlington C. Ashiegbu, Sherif Ishola Mustapha, Yusuf Makarfi Isa</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2024.100061</guid>
-    </item>
-    <item>
-      <title>Earth-Abundant Electrocatalytic Material for Electrochemical Water Splitting</title>
-      <link>https://doi.org/10.1007/978-3-031-65902-7_8</link>
-      <description>Sharadchandra S. Patil, Jyotiprakash B. Yadav, No host. None(None)] 2024. https://openalex.org/W4402524041
-
-                No abstract</description>
-      <author>Sharadchandra S. Patil, Jyotiprakash B. Yadav</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-65902-7_8</guid>
-    </item>
-    <item>
-      <title>A cation exchange strategy to construct highly dispersed copper-doped CdS nanoparticles for photocatalytic hydrogen production</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.09.116</link>
-      <description>Mingzhu Xue, Yuchen Dong, Xiaoyuan Ye, Xiangjiu Guan, Liejin Guo, International Journal of Hydrogen Energy. 87(None)] 2024. https://openalex.org/W4402530202
-
-                No abstract</description>
-      <author>Mingzhu Xue, Yuchen Dong, Xiaoyuan Ye, Xiangjiu Guan, Liejin Guo</author>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.116</guid>
-    </item>
-    <item>
-      <title>Global Optimization of a Spin-Crossover Molecule on Monolayer MoS&lt;sub&gt;2&lt;/sub&gt;: Spin Transition-Induced Band Edge Shift</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02110</link>
-      <description>Yachao Zhang, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402534544
-
-                No abstract</description>
-      <author>Yachao Zhang</author>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02110</guid>
-    </item>
-    <item>
-      <title>Construction of dual sites on FeS2 surface for enhanced electrocatalytic reduction of nitrite to ammonia</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.09.120</link>
-      <description>Heying Li, Xinyue Song, Nana Zhang, Ke Chu, Jingxiang Zhao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4402535516
-
-                No abstract</description>
-      <author>Heying Li, Xinyue Song, Nana Zhang, Ke Chu, Jingxiang Zhao</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.09.120</guid>
     </item>
     <item>
       <title>Electrocatalytic synergies of melt-quenched Ni-Sn-Se-Te nanoalloy for direct seawater electrolysis</title>

@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Sep 21 01:16:37 2024
+Created on Sun Sep 22 01:24:58 2024
 
-Found 38 results from 2024-09-14 to 2024-09-21
+Found 18 results from 2024-09-15 to 2024-09-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -28,27 +28,6 @@ No abstract
 
     
 
-* The Influence of Heat Treatment on the Photoactivity of Amine-Modified Titanium Dioxide in the Reduction of Carbon Dioxide  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402524757
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials, Porous Crystalline Organic Frameworks for Energy and Separation Applications
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules29184348")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402524757"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402524757"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402524757"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402524757 (Open access: True)
-    
-[[https://openalex.org/A5075870135][Iwona Pełech]], [[https://openalex.org/A5071487792][Piotr Staciwa]], [[https://openalex.org/A5058790308][Daniel Sibera]], [[https://openalex.org/A5080095633][Konrad S. Sobczuk]], [[https://openalex.org/A5107186482][Wiktoria Majewska]], [[https://openalex.org/A5042774991][Ewelina Kusiak‐Nejman]], [[https://openalex.org/A5018078558][Antoni W. Morawski]], [[https://openalex.org/A5057176376][Kaiying Wang]], [[https://openalex.org/A5082246628][Urszula Narkiewicz]], Molecules. 29(18)] 2024. https://doi.org/10.3390/molecules29184348 
-     
-Modification of titanium dioxide using ethylenediamine (EDA), diethylamine (DEA), and triethylamine (TEA) has been studied. As the reference material, titanium dioxide prepared by the sol–gel method using titanium(IV) isopropoxide as a precursor was applied. The preparation procedure involved heat treatment in the microwave reactor or in the high-temperature furnace. The obtained samples have been characterized in detail. The phase composition was determined through the X-ray diffraction method, and the average crystallite size was calculated based on it. Values for specific surface areas and the total pore volumes were calculated based on the isotherms obtained through the low-temperature nitrogen adsorption method. The bang gap energy was estimated based on Tauc’s plots. The influence of the type and content of amine, as well as heat treatment on the photocatalytic activity of modified titanium dioxide in the photocatalytic reduction of carbon dioxide, was determined and discussed. It was clear that, regardless of the amount and content of amine introduced, the higher photoactivity characterized the samples prepared in the microwave reactor. The highest amounts of hydrogen, carbon monoxide, and methane have been achieved using triethylamine-modified titanium dioxide.    
-
-    
-
 * Increasing electrochemical carbon dioxide reduction to methane via a novel copper-based conductive metal organic framework  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402550001
@@ -67,90 +46,6 @@ OpenAlex: https://openalex.org/W4402550001 (Open access: False)
 [[https://openalex.org/A5045160070][Zhongyu Jing]], [[https://openalex.org/A5104273139][Wenli Su]], [[https://openalex.org/A5100744610][Yu Fan]], Journal of Colloid and Interface Science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.09.124 
      
 No abstract    
-
-    
-
-* α-Amino Acids by Reductive Carboxylation of Imines Using Formate and CO2  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402503388
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Homogeneous Catalysis with Transition Metals, Transition Metal Catalysis
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1055/s-0043-1775082")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402503388"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402503388"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402503388"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402503388 (Open access: False)
-    
-, Synfacts. 20(10)] 2024. https://doi.org/10.1055/s-0043-1775082 
-     
-No abstract    
-
-    
-
-* In-situ exsolved Ni nanoparticles for boosting CO2 reduction in solid oxide electrolysis cell  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402507664
-:TOPICS: Solid Oxide Fuel Cells, Catalytic Nanomaterials, Electrochemical Reduction of CO2 to Fuels
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jpowsour.2024.235456")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402507664"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402507664"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402507664"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402507664 (Open access: False)
-    
-[[https://openalex.org/A5100428795][Tao Chen]], [[https://openalex.org/A5022915696][Fei Shan]], [[https://openalex.org/A5023525219][Lingting Ye]], [[https://openalex.org/A5016445881][Kui Xie]], Journal of Power Sources. 623(None)] 2024. https://doi.org/10.1016/j.jpowsour.2024.235456 
-     
-No abstract    
-
-    
-
-* Cu(I)‐Induced ‘Click Reaction’ Involving Coordination and Covalent Assembly of Hybrid Borates for the Electrocatalytic CO2 Reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402531561
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks
-:PUBLICATION_DATE: 2024-09-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202412073")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402531561"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402531561"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402531561"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402531561 (Open access: False)
-    
-[[https://openalex.org/A5101731766][Jianbing Chen]], [[https://openalex.org/A5101358316][Yinghua Yu]], [[https://openalex.org/A5014825226][Hai‐Xia Zhang]], [[https://openalex.org/A5100410082][Jian Zhang]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202412073 
-     
-The design and synthesis of hybrid borates by the organic ligand modification method are urgent and undeveloped areas of research. It is difficult to directly integrate organoboronic acids within inorganic borate chemistry by adopting the traditional preparation approaches. This work reports a facile synthetic method to synthesize a large family of pyrazole molecule‐protected borates in a rapid and precise manner under mild conditions. A unique cyclic eight‐membered B4O4‐ring has been identified as the cluster core for all these hybrid borates with two different conformations (boat and crown). This strategy can be applied to a system of pyrazolyl molecules to generate such hybrid borates in two independent routes from organoboronic or inorganic boric acids. Furtherly, the mechanism of ‘click reaction’ between boric acid and pyrazole induced by copper ions has been proposed based on the synthetic conditions and the structure of intermediate. Due to the bimetallic Cu sites and the functional surfaces, these materials can be used as electrocatalysts for CO2 reduction reaction and efficiently enhance the selectivity of HCOOH and C2H4. Our strategy can be regarded as a typical template technique for organic molecule‐protected borates.    
-
-    
-
-* Cu(I)‐Induced ‘Click Reaction’ Involving Coordination and Covalent Assembly of Hybrid Borates for the Electrocatalytic CO2 Reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402531493
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks
-:PUBLICATION_DATE: 2024-09-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202412073")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402531493"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402531493"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402531493"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402531493 (Open access: False)
-    
-[[https://openalex.org/A5101731766][Jianbing Chen]], [[https://openalex.org/A5101358316][Yinghua Yu]], [[https://openalex.org/A5014825226][Hai‐Xia Zhang]], [[https://openalex.org/A5100410082][Jian Zhang]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202412073 
-     
-The design and synthesis of hybrid borates by the organic ligand modification method are urgent and undeveloped areas of research. It is difficult to directly integrate organoboronic acids within inorganic borate chemistry by adopting the traditional preparation approaches. This work reports a facile synthetic method to synthesize a large family of pyrazole molecule‐protected borates in a rapid and precise manner under mild conditions. A unique cyclic eight‐membered B4O4‐ring has been identified as the cluster core for all these hybrid borates with two different conformations (boat and crown). This strategy can be applied to a system of pyrazolyl molecules to generate such hybrid borates in two independent routes from organoboronic or inorganic boric acids. Furtherly, the mechanism of ‘click reaction’ between boric acid and pyrazole induced by copper ions has been proposed based on the synthetic conditions and the structure of intermediate. Due to the bimetallic Cu sites and the functional surfaces, these materials can be used as electrocatalysts for CO2 reduction reaction and efficiently enhance the selectivity of HCOOH and C2H4. Our strategy can be regarded as a typical template technique for organic molecule‐protected borates.    
 
     
 
@@ -175,48 +70,6 @@ Background The Indonesian government built the Mass Rapid Transit (MRT) in Jakar
 
     
 
-* An empirical approach-based analysis for the exploration of ternary metal sulfide as an active and selective CO2 reduction electrocatalyst  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402532296
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mser.2024.100832")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402532296"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402532296"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402532296"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402532296 (Open access: True)
-    
-[[https://openalex.org/A5003419566][An Niza El Aisnada]], [[https://openalex.org/A5025235843][Yuhki Yui]], [[https://openalex.org/A5090865245][Ji‐Eun Lee]], [[https://openalex.org/A5026142377][Norio Kitadai]], [[https://openalex.org/A5047385896][Ryuhei Nakamura]], [[https://openalex.org/A5076083057][Masaya Ibe]], [[https://openalex.org/A5028472365][Masahiro Miyauchi]], [[https://openalex.org/A5049808190][Akira Yamaguchi]], Materials Science and Engineering R Reports. None(None)] 2024. https://doi.org/10.1016/j.mser.2024.100832 
-     
-No abstract    
-
-    
-
-* Enhanced Photoelectrocatalytic Co2 Reduction to Co Via Structure-Induced Carrier Separation in Coral-Like Cubi2o4-Bi2o3  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402516821
-:TOPICS: Catalytic Nanomaterials, Gas Sensing Technology and Materials, Electrochemical Reduction of CO2 to Fuels
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4955477")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402516821"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402516821"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402516821"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402516821 (Open access: False)
-    
-[[https://openalex.org/A5061651692][Guorui Liu]], [[https://openalex.org/A5100392071][Wei Wang]], [[https://openalex.org/A5100336796][Jing Li]], [[https://openalex.org/A5017290775][Haiqiang Mu]], [[https://openalex.org/A5101484569][Min Zhu]], [[https://openalex.org/A5003709365][J. Zhang]], [[https://openalex.org/A5100448964][Feng Li]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4955477 
-     
-No abstract    
-
-    
-
 * Achieving green synthesis of high-value-added chemicals via N-integrated CO2 co-reduction: a review  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402545956
@@ -233,27 +86,6 @@ No abstract
 OpenAlex: https://openalex.org/W4402545956 (Open access: False)
     
 [[https://openalex.org/A5100398360][Zhichao Wang]], [[https://openalex.org/A5100644544][Sisi Liu]], [[https://openalex.org/A5070744215][Yanzheng He]], [[https://openalex.org/A5023123685][Yuzhuo Jiang]], [[https://openalex.org/A5079957444][Yunfei Huan]], [[https://openalex.org/A5059545154][Qiyang Cheng]], [[https://openalex.org/A5102690175][Cheng-Tao Yang]], [[https://openalex.org/A5100627066][Mengfan Wang]], [[https://openalex.org/A5009136959][Chenglin Yan]], [[https://openalex.org/A5009208811][Tao Qian]], Rare Metals. None(None)] 2024. https://doi.org/10.1007/s12598-024-02954-9 
-     
-No abstract    
-
-    
-
-* Bismuth oxide nanoflakes grown on defective microporous carbon endows high-efficient CO2 reduction at ampere level  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402537824
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.09.116")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402537824"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402537824"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402537824"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402537824 (Open access: False)
-    
-[[https://openalex.org/A5104200742][Minjun Zhou]], [[https://openalex.org/A5100747197][Zhihao Guo]], [[https://openalex.org/A5048215639][Mingwang Wang]], [[https://openalex.org/A5043816342][Dewen Song]], [[https://openalex.org/A5006048658][Rui Zhou]], [[https://openalex.org/A5042781473][Quansheng Liu]], [[https://openalex.org/A5100328261][Shuai Wang]], [[https://openalex.org/A5066131031][Boshi Zheng]], [[https://openalex.org/A5100612567][Xiaoshan Wang]], [[https://openalex.org/A5032437864][Hui Ning]], [[https://openalex.org/A5063554744][Mingbo Wu]], Journal of Colloid and Interface Science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.09.116 
      
 No abstract    
 
@@ -301,27 +133,6 @@ The electrochemical conversion of CO2 into C1 to C2 hydrocarbon such as Methane 
 
     
 
-* Theoretical Prediction of the Reaction Mechanism Underlying the Active Phase of Bn (N=3-5) and Cu-Doped Electron Deficient Bn-1 Clusters: Reduction of Co2  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402530045
-:TOPICS: Chemistry of Noble Gas Compounds and Interactions, Lithium-ion Battery Technology, Synthesis and Properties of Inorganic Cluster Compounds
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4955180")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402530045"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402530045"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402530045"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402530045 (Open access: False)
-    
-[[https://openalex.org/A5100434461][Hongxia Liu]], [[https://openalex.org/A5063066778][Ling Fu]], [[https://openalex.org/A5091561399][Chaozheng He]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4955180 
-     
-No abstract    
-
-    
-
 * Electrosynthesis of Methylamine by Co-Reduction of Co2 and No3− with a Series Catalyst Based on O-Doped Metal Phthalocyanine-Porphyrin Two-Dimensional Carbon-Rich Conjugated Framework  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402583930
@@ -340,27 +151,6 @@ OpenAlex: https://openalex.org/W4402583930 (Open access: False)
 [[https://openalex.org/A5100526482][Fengling Luo]], [[https://openalex.org/A5100322864][Li Wang]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4958584 
      
 No abstract    
-
-    
-
-* Mini-Review on Recent Developments and Improvements in CO<sub>2</sub> Catalytic Conversion to Methanol: Prospects for the Cement Plant Industry  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402532128
-:TOPICS: Catalytic Carbon Dioxide Hydrogenation, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-09-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.20944/preprints202409.0961.v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402532128"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402532128"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402532128"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402532128 (Open access: True)
-    
-[[https://openalex.org/A5006758873][Luísa Marques]], [[https://openalex.org/A5104324299][Maria Clara Vieira]], [[https://openalex.org/A5013844504][José Condeço]], [[https://openalex.org/A5002190145][Carlos Henriques]], [[https://openalex.org/A5028106710][Maria Margarida Mateus]], No host. None(None)] 2024. https://doi.org/10.20944/preprints202409.0961.v1 
-     
-The cement industry has significant environmental impacts, stemming from natural resources extraction and fossil fuels combustion. Notably, carbon dioxide (CO2) emissions are a major concern associated with cement production. The cement industry emits 0.6 tons of CO2 per ton of cement production, which is around 8 % of the total CO2 emissions in the world. Meeting the 13th United Nations Sustainable Goals, cement plants aim to achieve carbon neutrality by 2050, resulting from reduction in CO2 emissions (change in the composition of cementitious materials) and the adoption of carbon capture and utilisation (CCU) technologies. A promising approach involves converting CO₂ into valuable chemicals and fuels, such as methanol (MeOH) through the power-to-liquid (PtL) technologies. In this process, CO2 captured from cement industry flue gas with hydrogen generated from renewable sources through electrolysis of water, catalytically transformed into renewable methanol (e-MeOH), offering a sustainable solution. To achieve this, it is crucial to advance the development of novel, highly efficient catalysts specifically designed for direct CO2 hydrogenation. In this sense, this review discusses recent developments and improvements in CO2 catalytic conversion, emphasizing catalyst performance, selectivity, and stability.    
 
     
 
@@ -385,27 +175,6 @@ Abstract. One of the proposed ways to reduce the climate impact of civil aviatio
 
     
 
-* Anthropic-Induced Variability of Greenhouse Gases and Aerosols at the WMO/GAW Coastal Site of Lamezia Terme (Calabria, Southern Italy): Towards a New Method to Assess the Weekly Distribution of Gathered Data  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402531837
-:TOPICS: Global Methane Emissions and Impacts, Low-Cost Air Quality Monitoring Systems, Stratospheric Chemistry and Climate Change Impacts
-:PUBLICATION_DATE: 2024-09-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.20944/preprints202409.0884.v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402531837"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402531837"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402531837"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402531837 (Open access: True)
-    
-[[https://openalex.org/A5101916131][Francesco D’Amico]], [[https://openalex.org/A5085477448][Ivano Ammoscato]], [[https://openalex.org/A5037863048][Daniel Gullì]], [[https://openalex.org/A5003696483][Elenio Avolio]], [[https://openalex.org/A5019248420][Teresa Lo Feudo]], [[https://openalex.org/A5079518186][Mariafrancesca De Pino]], [[https://openalex.org/A5013159030][Paolo Cristofanelli]], [[https://openalex.org/A5099128770][Luana Malacaria]], [[https://openalex.org/A5099128771][Domenico Parise]], [[https://openalex.org/A5102811601][Salvatore Sinopoli]], [[https://openalex.org/A5104971933][Giorgia De Benedetto]], [[https://openalex.org/A5002083226][Claudia Roberta Calidonna]], No host. None(None)] 2024. https://doi.org/10.20944/preprints202409.0884.v1 
-     
-The key towards a sustainable future is the reduction of mankind&rsquo;s impact on natural systems via the development of new technologies and the improvement of source apportionment. Though days, years and seasons are arbitrarily set, their mechanisms are based on natural cycles driven by Earth&rsquo;s orbital periods. This is not the case for weeks, which are a pure anthropic category and are known from literature to influence emission cycles. For the first time since it started data gathering operations, CO (carbon monoxide), CO2 (carbon dioxide), CH4 (methane) and eBC (equivalent black carbon) values detected by the Lamezia Terme WMO/GAW station in Calabria, Southern Italy have been evaluated via a two-pronged approach accounting for weekly variations in absolute concentrations, as well as the number of hourly averages exceeding select thresholds. The analyses were performed on seven continuous years of measurements, from 2016 to 2022. Moreso, the two results have been combined into a new parameter: the hereby defined WDWO (Weighed Distribution of Weekly Outbreaks) normalizes weekly trends of CO, CO2, CH4 and eBC on an absolute scale as percentages, with the scope of providing regulators and researchers alike with a new tool meant to better evaluate anthropogenic pollution and mitigate its effects.    
-
-    
-
 * Carbon dioxide sequestration in brackish water: Principles, techniques and environmental benefits  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402576747
@@ -424,69 +193,6 @@ OpenAlex: https://openalex.org/W4402576747 (Open access: False)
 [[https://openalex.org/A5107289125][Zuhong Gong]], Science and Technology of Engineering Chemistry and Environmental Protection. 1(6)] 2024. https://doi.org/10.61173/1njx1r03 
      
 Carbon dioxide storage is a technology to separate carbon dioxide gas from the atmosphere and inject it into the brackish water layer to achieve the purpose of carbon dioxide emission reduction. In this way, carbon dioxide is dissolved in salt water and then sequestered in deep underground water layers, preventing it from being released into the atmosphere and causing a greenhouse effect. This technology can effectively reduce carbon dioxide emissions, but also can use geological structures for storage, has great potential application prospects. It is important to note that further research and practice is needed to address possible environmental risks and costs.    
-
-    
-
-* PSV-14 The effects of calcium cyanamide on greenhouse gases, ammonia emissions, and the microbiome of dairy cattle lagoon water  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402533394
-:TOPICS: Antibiotic Resistance in Aquatic Environments and Wastewater, Microbial Nitrogen Cycling in Wastewater Treatment Systems, Application of Constructed Wetlands for Wastewater Treatment
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/jas/skae234.585")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402533394"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402533394"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402533394"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402533394 (Open access: False)
-    
-[[https://openalex.org/A5007799035][Alice S. Rocha]], [[https://openalex.org/A5073535378][Bryan Morales]], [[https://openalex.org/A5032138066][Hamed M. El‐Mashad]], [[https://openalex.org/A5017148670][Yuee Pan]], [[https://openalex.org/A5062586133][Yongjing Zhao]], [[https://openalex.org/A5021442315][Frank M. Mitloehner]], Journal of Animal Science. 102(Supplement_3)] 2024. https://doi.org/10.1093/jas/skae234.585 
-     
-Abstract Dairy manure management is responsible for a significant amount of greenhouse gas emissions (GHG) in California. Aside from redesigning infrastructure to adopt alternative manure management systems, there are few options available to farmers to mitigate emissions without substantial financial investment. Calcium cyanamide, a new manure additive, showed significant reductions in GHG emissions when applied to fresh dairy cow slurry, but has not been tested on dairy lagoon water. The aim of the present study was to investigate the effects of calcium cyanamide on GHG and NH3 emissions and the microbiome of dairy lagoon water. Lagoon water was collected from a commercial dairy, and distributed into 12 stainless steel barrels. Three treatments (n = 4/treatment) of different doses of calcium cyanamide were tested: high (LW-HD; 1 kg/m3 lagoon water), low (LW-LD; 0.5 kg/m3 lagoon water), and control with no calcium cyanamide (LW-CONT; n = 4). Each barrel was sampled over two, 14-d periods, staggered to four barrels at a time, using OdoFlux chambers to monitor emissions for carbon dioxide (CO2,), methane (CH4), nitrous oxide (N2O), and ammonia (NH3). Treatments LW-LD and LW-HD contained significantly more total solids, total nitrogen and total carbon compared with LW-CONT. There was also a significantly greater concentration of acetic acid in LW-LD and LW-HD treatments compared with LW-CONT. CO2 emissions in LW-LD and LW-HD were 2.96% and 12.03% less than LW-CONT. CH4 emissions in LW-LD and LW-HD were 80.9% and 85.13% less compared with LW-CONT. N2O emissions in LW-LD and LW-HD were 81.1% and 82.66% less than LW-CONT. However, NH3 fluxes were greater in LW-LD and LW-HD compared with LW-CONT by 65.26% and 65.73%, respectively. The microbiome of the lagoon water was also affected, with reductions in relative abundance of the Proteobacteria phylum responsible for nitrification in LW-LD and LW-HD and increases in the Firmicutes phylum containing acetogenic bacteria. Calcium cyanamide could inhibit methanogenesis by increasing acetogenic bacteria that compete with methanogens for fermentation substrates. Further research is needed to investigate the efficacy of calcium cyanamide in a commercial lagoon setting.    
-
-    
-
-* The interaction between China’s economic recovery and environmental governance: a comprehensive analysis of energy consumption, CO2 emissions, and resource management  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402529246
-:TOPICS: Economic Impact of Environmental Policies and Resources, Rebound Effect on Energy Efficiency and Consumption, Indoor Air Pollution in Developing Countries
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fenvs.2024.1459483")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402529246"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402529246"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402529246"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402529246 (Open access: True)
-    
-[[https://openalex.org/A5019473791][Yuting Duan]], Frontiers in Environmental Science. 12(None)] 2024. https://doi.org/10.3389/fenvs.2024.1459483 
-     
-To gain a deeper understanding of the intrinsic dynamic relationship between energy consumption and economic growth in China. This study employs panel cointegration and causality models, utilizing the SYS-GMM technique to assess the factors influencing economic growth in China’s green finance sector from 2002 to 2022. The research explores the interactions among multiple variables related to the Chinese economic context, including economic growth, carbon dioxide emissions, total natural resource rents, energy consumption, and environmental impact. While considering key factors that may cause structural disturbances in the time series analysis. The findings indicate the existence of long-term cointegration relationships among these variables, with positive correlations between economic growth and total natural resource rents, energy consumption, energy quantity, and ecological footprint. Results also show a bidirectional causal relationship between carbon dioxide emissions and energy consumption and a unidirectional correlation between energy consumption and GDP growth. Additionally, energy intensity (EI) improvements supported by green finance are linked to a significant reduction in CO 2 emissions, with a coefficient of −1.933 ( p &lt; 0.05), underscoring the role of technological innovation. Further evaluations suggest that investments in renewable energy can promote economic growth, create job opportunities, and reduce greenhouse gas emissions. Energy-saving measures and green finance-supported technological innovations play crucial roles in improving energy intensity and reducing CO 2 emissions. The study also underscores the importance of economic diversification to reduce dependence on natural resources and enhance economic stability. Future research should further explore the economic feasibility and environmental benefits of emerging technologies such as Carbon Capture and Storage (CCS), providing deeper insights into sustainable energy practices.    
-
-    
-
-* Applicability of Hydrazine Alternatives to Water Treatment in Power Plants: Effects of Hydrazine Alternatives and Decomposition Products on Water Properties and Corrosion of Carbon Steel  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402517306
-:TOPICS: Modern Electrostatic Gas Cleaning Technologies and Methods, Electrohydrodynamic Jet Printing and Nanoparticle Encapsulation
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5006/4621")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402517306"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402517306"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402517306"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402517306 (Open access: False)
-    
-[[https://openalex.org/A5044618929][Noriyuki Ida]], [[https://openalex.org/A5029070325][Junichi Tani]], [[https://openalex.org/A5056966122][Hirotaka Kawamura]], CORROSION. None(None)] 2024. https://doi.org/10.5006/4621 
-     
-ABSTRACT The applicability of carbohydrazide (CHZ) and diethylhydroxilamine (DEHA) as hydrazine alternatives to the water treatment of water-steam circuits of power plants was investigated by assessing their effects on the corrosion of carbon steel and water properties, including the conductivity, conductivity after cation exchange (cation conductivity), dissolved-oxygen concentration (DO), and oxidation–reduction potential (ORP) of high-temperature water under simulated conditions of boiler feed water of power plants. Hydrazine and carbon dioxide were generated by CHZ decomposition, resulting in a decrease in DO and increases in both conductivity and cation conductivity. Various substances including diethylamine, ethylamine, and acetaldehyde were generated by DEHA decomposition, and the amines increased conductivity. Under the oxygen-containing condition, acetate was also formed, and cation conductivity was increased by DEHA injection. Measurements of DO and ORP suggested that high CHZ and DEHA concentrations or temperatures were required for them to exert their oxygen-scavenging effect and decrease the electrode potential of metals like hydrazine. Irrespective of the decomposition products of CHZ or DEHA, neither of these hydrazine alternatives accelerated the corrosion of carbon steel. In this study, various characteristics of CHZ and DEHA were clarified, and results suggest that CHZ is a safe choice, as long as hydrazine generation by CHZ decomposition does not conflict with hydrazine restriction.    
 
     
 
@@ -532,27 +238,6 @@ The precise design of active sites and light absorbers is essential in developin
 
     
 
-* The effects of metal oxides doping on the surface stability of In2O3 for CO2 hydrogenation  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402513197
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Catalytic Carbon Dioxide Hydrogenation
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0224256")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402513197"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402513197"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402513197"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402513197 (Open access: True)
-    
-[[https://openalex.org/A5100917212][Xingtang Xu]], [[https://openalex.org/A5100727829][Yanwei Li]], [[https://openalex.org/A5090414534][Zhenhua Tao]], [[https://openalex.org/A5049265273][Jianliang Cao]], [[https://openalex.org/A5100322484][Yan Wang]], [[https://openalex.org/A5021549421][Xu-Long Qin]], AIP Advances. 14(9)] 2024. https://doi.org/10.1063/5.0224256 
-     
-The significance of maintaining the surface stability of the In2O3 catalyst in the conversion of CO2 to methanol through hydrogenation cannot be overstated. To improve surface stability, doping with metal oxides is usually employed. To explore high-efficiency In2O3 based catalysts, density functional theory calculations were utilized to explore the effects of doping CuO, Co2O3, NiO, TiO2, HfO2, Nb2O3, Ta2O5, and CeO2 on the stability of the In2O3(110) surface. It was found that in a CO atmosphere, the crucial step in determining the creation of oxygen vacancies on the In2O3 plane occurred during the desorption of CO2 from the vacancy location. The results indicate that doping CuO, Co2O3, NiO, Nb2O3, Ta2O5, and CeO2 on the In2O3(110) surface promotes the reduction process through the reaction of CO with the O atoms on the surface, resulting in reduced surface stability. Conversely, the doping of Ti and Hf can raise the reaction energy barriers for CO reacting with the O atoms on the surface and enhance CO2 molecule adsorption on vacant sites, thereby suggesting the potential of TiO2 and HfO2 as effective modifiers to improve the efficiency and durability of the In2O3 catalyst. Furthermore, it is crucial to enhance its stability by modifying the density of the electron cloud or Fermi level of the In2O3 catalyst.    
-
-    
-
 * PSV-10 Vaccination of beef cattle to reduce enteric methane emissions  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402541590
@@ -571,27 +256,6 @@ OpenAlex: https://openalex.org/W4402541590 (Open access: False)
 [[https://openalex.org/A5074018531][Musah Muntari]], [[https://openalex.org/A5107201659][Brigid R Arciero]], [[https://openalex.org/A5008257707][Christa Kühn]], [[https://openalex.org/A5107216196][Kate Mulcock]], [[https://openalex.org/A5106402515][Damon Smith]], [[https://openalex.org/A5060576489][Brette Poliakiwski]], [[https://openalex.org/A5086074658][Keara O’Reilly]], [[https://openalex.org/A5033288577][Odile Polanco Jiménez]], [[https://openalex.org/A5107216197][Jeff Bickmeier]], [[https://openalex.org/A5107216195][Sara Kimler]], [[https://openalex.org/A5101172046][John Sullivan]], [[https://openalex.org/A5082591435][Željko Radulović]], [[https://openalex.org/A5005540532][Laura Z Holland]], [[https://openalex.org/A5041378014][Taylor A Falk]], [[https://openalex.org/A5036081310][Chris Allen]], [[https://openalex.org/A5034162757][Lauren E Fitch]], [[https://openalex.org/A5072821930][James Spoonamore]], [[https://openalex.org/A5037700449][Kristin J. Adolfsen]], [[https://openalex.org/A5102917658][G. E. Carstens]], [[https://openalex.org/A5008383294][Ky G Pohler]], [[https://openalex.org/A5029734485][Cliff C Lamb]], [[https://openalex.org/A5103148346][Matthew R. Dunn]], Journal of Animal Science. 102(Supplement_3)] 2024. https://doi.org/10.1093/jas/skae234.581 
      
 Abstract Livestock methane (CH4) emissions total over 3 billion tonnes per year of carbon dioxide equivalents (CO2e) and are responsible for approximately 6% of total annual greenhouse gas emissions. The contribution of livestock CH4 emissions are only to be exacerbated as the global demand for meat and dairy products increases. Greater than 75% of livestock CH4 emissions are generated in dispersed production environments (e.g., cow-calf and stocker segments), which are not addressable by methane mitigation strategies requiring constant inputs. Thus, strategies that fit into standard agronomic practices, in particular dispersed production environments, are urgently needed to address the increasing carbon footprint associated with livestock production. Methane-reducing vaccines are a promising solution for addressing this need, due to their longevity of action, low cost, and ease of integration into standard agronomic practices, which could lower the barrier for adoption. Thus, this study aimed to assess the effects of a prototype vaccine on total and antigen-specific immune response, CH4 yield, and average daily gain (ADG) in cattle. Angus crossbred steers [n = 20; initial body weight (BW) = 537 ± 15 kg) fed on a high-forage diet were randomly assigned to either placebo- or vaccine-treated groups blocked by BW, breed, and feed intake. Steers were subcutaneously inoculated (2 mL dose) in the anterior region of the neck. Blood and saliva samples were collected, and total sera and salivary immunoglobulin (Ig) G and IgA were quantified using ELISA (Bethyl laboratories, Montgomery, TX). Antigen-specific sera IgG was measured using ELISA. Daily CH4 emissions and dry matter intake (DMI) were measured using GreenFeed systems (C-Lock Inc. Rapid City, SD) and GrowSafe feed bunks (Vytelle, Lenexa, KS), respectively. Body weights were recorded bi-weekly. Total sera IgA and IgG did not differ between the placebo-treated and vaccinated steers (P = 0.584 and P = 0.425, respectively), nor did total salivary IgA and IgG (P = 0.577 and P = 0.548, respectively). However, antigen-specific sera IgG did significantly increase following booster vaccination in the vaccinated steers, as compared with placebo-treated steers (d 0 vs. d 28; P &lt; 0.001). CH4 yield was significantly reduced in vaccinated steers following booster vaccination despite significantly increasing in placebo-treated steers over the same period (P = 0.002). This reduction in CH4 yield was not associated with a reduction in DMI nor ADG (P = 0.181 and P = 0.314, respectively), suggesting that vaccination did not negatively affect treated animals. These findings underscore the potential of vaccine-based solutions to mitigate the environmental impact of livestock CH4 emissions, especially from dispersed production environments where current options for mitigation strategies are limited.    
-
-    
-
-* Highly Stable Propane Dehydrogenation on a Self‐supporting Single‐component Zn2SiO4 Catalyst  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402513873
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Zeolite Chemistry and Catalysis
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202413297")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402513873"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402513873"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402513873"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402513873 (Open access: False)
-    
-[[https://openalex.org/A5046455995][Zhaohui Liu]], [[https://openalex.org/A5017570533][Min Mao]], [[https://openalex.org/A5072242008][Tie Shu]], [[https://openalex.org/A5068697796][Qingpeng Cheng]], [[https://openalex.org/A5100407439][Dong Liu]], [[https://openalex.org/A5100743393][Jianjian Wang]], [[https://openalex.org/A5056995430][Yun Zhao]], [[https://openalex.org/A5062345838][Lingmei Liu]], [[https://openalex.org/A5100462720][Yu Han]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202413297 
-     
-Current industrial propane dehydrogenation (PDH) processes predominantly use either toxic Cr‐based or expensive Pt‐based catalysts, necessitating urgent exploration for alternatives. Herein, we present Zn2SiO4, an easily prepared, cost‐effective material, as a highly efficient and stable catalyst for PDH. Uniquely, Zn2SiO4 nanocrystals do not require dispersion on support materials, commonly needed for catalytic active oxide clusters, but function as a self‐supporting catalyst instead. During the reaction's induction period, surface Zn species on the Zn2SiO4 crystal reduce to coordinately unsaturated ZnOx single sites, serving as highly active catalytic centers. The Zn2SiO4 catalyst demonstrates a stable performance over 200 hours of PDH operation at 550 °C. We further find that introducing a minuscule amount of CO2 into the propane feed significantly extends the catalyst lifespan to over 2000 hours. This enhancement arises from the special role of CO2 in facilitating the removal of strongly adsorbed H*, preventing the complete reduction of ZnOx. After prolonged reaction, the activity of Zn2SiO4 can be fully restored by etching the surface layer to expose fresh Zn species, available throughout the crystals. The combination of CO2 introduction and catalytic site regeneration strategies is expected to enable a year‐long PDH operation using a single batch of Zn2SiO4 catalyst.    
 
     
 
@@ -616,48 +280,6 @@ The objective of this research was to investigate the effects of hydrogen inject
 
     
 
-* Highly Stable Propane Dehydrogenation on a Self‐supporting Single‐component Zn2SiO4 Catalyst  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402514472
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Mesoporous Materials, Zeolite Chemistry and Catalysis
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202413297")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402514472"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402514472"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402514472"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402514472 (Open access: False)
-    
-[[https://openalex.org/A5046455995][Zhaohui Liu]], [[https://openalex.org/A5017570533][Min Mao]], [[https://openalex.org/A5072242008][Tie Shu]], [[https://openalex.org/A5068697796][Qingpeng Cheng]], [[https://openalex.org/A5100407439][Dong Liu]], [[https://openalex.org/A5100743393][Jianjian Wang]], [[https://openalex.org/A5056995430][Yun Zhao]], [[https://openalex.org/A5062345838][Lingmei Liu]], [[https://openalex.org/A5100462720][Yu Han]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202413297 
-     
-Current industrial propane dehydrogenation (PDH) processes predominantly use either toxic Cr‐based or expensive Pt‐based catalysts, necessitating urgent exploration for alternatives. Herein, we present Zn2SiO4, an easily prepared, cost‐effective material, as a highly efficient and stable catalyst for PDH. Uniquely, Zn2SiO4 nanocrystals do not require dispersion on support materials, commonly needed for catalytic active oxide clusters, but function as a self‐supporting catalyst instead. During the reaction's induction period, surface Zn species on the Zn2SiO4 crystal reduce to coordinately unsaturated ZnOx single sites, serving as highly active catalytic centers. The Zn2SiO4 catalyst demonstrates a stable performance over 200 hours of PDH operation at 550 °C. We further find that introducing a minuscule amount of CO2 into the propane feed significantly extends the catalyst lifespan to over 2000 hours. This enhancement arises from the special role of CO2 in facilitating the removal of strongly adsorbed H*, preventing the complete reduction of ZnOx. After prolonged reaction, the activity of Zn2SiO4 can be fully restored by etching the surface layer to expose fresh Zn species, available throughout the crystals. The combination of CO2 introduction and catalytic site regeneration strategies is expected to enable a year‐long PDH operation using a single batch of Zn2SiO4 catalyst.    
-
-    
-
-* Co-Precipitation Synthesized Ag-Doped Ceria Redox Material (ACRM) for the Thermochemical Conversion of CO2 into Solar Fuels  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402515786
-:TOPICS: Chemical-Looping Technologies, Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/app14188272")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402515786"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402515786"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402515786"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402515786 (Open access: True)
-    
-[[https://openalex.org/A5021608775][Gorakshnath Takalkar]], [[https://openalex.org/A5102536223][Sayma Akhter]], [[https://openalex.org/A5027288897][Rahul R. Bhosale]], Applied Sciences. 14(18)] 2024. https://doi.org/10.3390/app14188272 
-     
-In this investigation, an effort was made to introduce Ag into the CeO2 fluorite crystal lattice to form Ce0.99Ag0.01O2-δ (ACRM) using an ammonium hydroxide-assisted co-precipitation method. The resulting powder obtained after the co-precipitation reaction, filtration, and drying was annealed at 800 °C in a muffle furnace to obtain crystalline ACRM. The phase composition and microstructure of the synthesized ACRM were analyzed using a powder X-ray diffractometer (PXRD) and a scanning electron microscope (SEM). The characterized ACRM powder was then subjected to multiple thermochemical thermal reduction (TR) and CO2 splitting (CDS) cycles using a high-temperature thermogravimetric analyzer (TGA). The TR step was conducted using Ar gas as an inert atmosphere, maintaining the temperature at 1400 °C for 60 min. Subsequently, the same powder was subjected to the CDS step by treating it with a gaseous mixture of 50% CO2 and Ar gas at 1000 °C for 30 min. ACRM displayed stable redox reactivity towards thermochemical CDS cycles by generating an average of 50.9 μmol of O2/g·cycle and 101.6 μmol of CO/g·cycle, respectively, over 10 thermochemical cycles.    
-
-    
-
 * Trends in CO, CO<sub>2</sub>, CH<sub>4</sub>, BC, and NO<sub>x </sub>during the first 2020 COVID-19 lockdown: source insights from the WMO/GAW station of Lamezia Terme (Calabria, Southern Italy)  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402559566
@@ -679,27 +301,6 @@ In 2020, the Covid-19 outbreak led many countries across the globe to introduce 
 
     
 
-* 178 Programing the rumen microbiome to optimize microbial efficiency in high forage diets  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402533540
-:TOPICS: Evolution and Ecology of Endophyte-Grass Symbiosis, Nutritional Strategies for Ruminant Health and Production
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/jas/skae234.452")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402533540"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402533540"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402533540"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402533540 (Open access: False)
-    
-[[https://openalex.org/A5042633786][Tim A. McAllister]], [[https://openalex.org/A5024027277][Robert J. Gruninger]], [[https://openalex.org/A5066121621][Stephanie A. Terry]], [[https://openalex.org/A5008528352][Ajay Badhan]], [[https://openalex.org/A5100417669][Yan Wang]], [[https://openalex.org/A5103913057][Leluo Guan]], Journal of Animal Science. 102(Supplement_3)] 2024. https://doi.org/10.1093/jas/skae234.452 
-     
-Abstract As the majority of energy and protein supplied to cattle arises as a result of ruminal fermentation, the rumen microbiome has an integral role in determining host feed efficiency. Counterintuitively, current evidence suggests that a less diverse rumen microbiome is associated with improved feed efficiency, possibly as a result of greater metabolic precision and avoidance of energy spilling fermentative pathways. The composition of the rumen microbiome is mainly determined by diet, but host traits such as rumen volume, rate of passage, rumination and immunity also have influence. Although less microbial diversity may improve feed efficiency in cattle fed a specific diet, reduced diversity may impair the ability of cattle to adapt to frequent changes in diet and the environment. Hydrogen exchange and capture is the energetic foundation of the rumen microbiome and considerable capital has been invested to develop additives that redirect hydrogen flow away from the reduction of CO2 to CH4 towards alternative sinks. These additives have been shown to reduce enteric CH4 emissions by 30 to 80%, but improvements in feed efficiency have been less than stoichiometric predictions. Approaches to improve the feed efficiency of cattle need to be multifaceted with consideration for host genetics, functional efficiency of the rumen microbiome, and the structure and composition of feed. Likewise, reductions in carbon emissions need to be broader than just CH4, with an appreciation of the role that cattle have within a circular bioeconomy to promote upcycling of nutrients and reductions in emissions from farming systems. Strategies to improve the efficiency of cattle production are a prerequisite for the sustainable intensification needed to ensure that the social license for milk and meat production from cattle is retained.    
-
-    
-
 * 301 Leveraging genomics to advance the breeding of Canadian livestock  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4402541296
@@ -718,27 +319,6 @@ OpenAlex: https://openalex.org/W4402541296 (Open access: False)
 [[https://openalex.org/A5022761939][Emily M. Leishman]], [[https://openalex.org/A5107201502][Ricarda E Jahnel]], [[https://openalex.org/A5061707939][Alexandra Harlander]], [[https://openalex.org/A5055385919][Owen W Willems]], [[https://openalex.org/A5053930007][Benjamin J. Wood]], [[https://openalex.org/A5040685692][Shai Barbut]], [[https://openalex.org/A5016372019][Flávio S. Schenkel]], [[https://openalex.org/A5057941566][F. Miglior]], [[https://openalex.org/A5056526860][R. Gervais]], [[https://openalex.org/A5059930476][Paul Stothard]], [[https://openalex.org/A5019770270][Christine F. Baes]], Journal of Animal Science. 102(Supplement_3)] 2024. https://doi.org/10.1093/jas/skae234.208 
      
 Abstract Implementing breeding strategies for a more sustainable food system is one of the most pressing topics for livestock industries. Although different species face different challenges, large-scale research projects can pave the way for future opportunities in these key sectors. Herein, we present two examples (dairy and poultry) of how research projects can result in meaningful changes to commercial breeding programs. The first example is an international large-scale dairy project, which will deliver a roadmap for greenhouse gas (GHG) management using genomics and nutrition. The project aims to facilitate a 55% reduction in GHG emissions from Canadian dairy at an estimated value of $338M CAD. This systems-level approach will leverage resources developed through previous and current large-scale projects to produce accurate multi-level emission estimates and identify opportunities to mitigate enteric GHG emissions. The results of this project will provide accurate, reliable, and robust data for industry stakeholders, national policy, and GHG inventories. The second example is a research collaboration with a commercial turkey breeding company that will enable breeding strategies for long-term and sustainable genetic improvement in health traits. This project aims to reduce preslaughter mortality by 5% and condemnations due to myopathies and health issues. This reduction alone is expected to result in 7.5M kg more turkey meat at a value of $19.8M CAD. Furthermore, there is also an expected reduction of 2.3M kg of CO2 equivalent per year for each 1% livability improvement due to production efficiencies and reduced inputs wasted for more sustainable and ethical meat production. Overall, ongoing and future research initiatives will continue to deliver solutions for key Canadian livestock sectors to improve animal health and welfare as well as efficiency and sustainability. The strides made in these ongoing collaborative projects are imperative for enhancing the sustainability of animal agriculture to feed the growing population.    
-
-    
-
-* The environmental impact of a malaria clinical trial in Mali: Life cycle assessment reveals high emissions due to international travel and local electricity use and identifies opportunities for sustainable improvement  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402503927
-:TOPICS: Indoor Air Pollution in Developing Countries
-:PUBLICATION_DATE: 2024-09-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.31223/x5sh8r")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402503927"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402503927"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402503927"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402503927 (Open access: False)
-    
-[[https://openalex.org/A5080694704][Merel Smit]], [[https://openalex.org/A5103136730][Almahamoudou Mahamar]], [[https://openalex.org/A5072042297][E. Kooistra]], [[https://openalex.org/A5077345144][Kjerstin Lanke]], [[https://openalex.org/A5037712899][Koualy Sanogo]], [[https://openalex.org/A5107179868][Patrick Wilikpan Okedy]], [[https://openalex.org/A5049277835][Mohamed Yehia]], [[https://openalex.org/A5037076197][Chris Drakeley]], [[https://openalex.org/A5035089274][Hugo Touw]], [[https://openalex.org/A5102878975][William J. Stone]], [[https://openalex.org/A5009423673][Alassane Dicko]], [[https://openalex.org/A5036396443][Teun Bousema]], [[https://openalex.org/A5107179867][Tim Stobernack]], No host. None(None)] 2024. https://doi.org/10.31223/x5sh8r 
-     
-Climate change may be the single largest threat facing humanity and ecosystems, necessitating decarbonization across all sectors, including healthcare and academia. With the aim of informing and supporting sustainable research practices, we performed a life cycle assessment of a clinical trial conducted in Mali. The trial involved 80 malaria-infected participants in Ouélessébougou who were treated with antimalarials and followed for 28 days to determine their clinical and transmission-blocking efficacy. Data on consumables, transportation, travel, and electricity use were collected in Mali and the Netherlands, where additional laboratory analyses and sample storage occurred. Data were analysed using the ReCiPe 2016 method for midpoint impact assessment. The trial involved 3 intercontinental shipments of materials and samples, 59,900 km of travel by research staff, and ~55 kg of plastics. Trial conduct and reporting resulted in 20.5 metric tonnes of CO2-equivalent (CO2e) emissions. Major contributors were international travel (50%), electricity in Mali (28%), and air-transportation (14%). Laboratory consumables, while contributing up to 22% of the trial’s impact on land and water use, were less important sources of emissions (2% of CO2e). Whereas the electricity mix in Mali, ~60% fossil-fuel-based, was disadvantageous for the carbon footprint, laboratory analyses in the Netherlands benefited from 100% wind energy, resulting in a minor overall contribution to emissions (&lt;1%). We observed no loss in stability of parasite genetic material (mRNA) in protective buffers when stored for 12 months at -20°C, compared to conventional -70°C. These results form a foundation for improving the environmental sustainability of clinical trials in Africa. Switching to energy-efficient equipment settings could reduce electricity consumption by over 30%. Implementing solar panels in the Mali laboratory would reduce CO2e emissions by 28%. Immediate CO2e reductions can be achieved through online conference attendance and alternative sample transportation, which would contribute an additional 10% CO2e reduction.    
 
     
 
