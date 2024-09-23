@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Sep 2024 01:24:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 01:19:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -108,106 +108,6 @@
       <guid isPermaLink="true">https://doi.org/10.23919/ccc63176.2024.10661943</guid>
     </item>
     <item>
-      <title>Review for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"</title>
-      <link>https://doi.org/10.1039/d4ta05700g/v1/review2</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4402538460
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05700g/v1/review2</guid>
-    </item>
-    <item>
-      <title>Decision letter for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"</title>
-      <link>https://doi.org/10.1039/d4ta05700g/v1/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4402538465
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05700g/v1/decision1</guid>
-    </item>
-    <item>
-      <title>Author response for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"</title>
-      <link>https://doi.org/10.1039/d4ta05700g/v2/response1</link>
-      <description>Feifan Wang, Yukui Zhang, Jing Wang, No host. None(None)] 2024. https://openalex.org/W4402538479
-
-                No abstract</description>
-      <author>Feifan Wang, Yukui Zhang, Jing Wang</author>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05700g/v2/response1</guid>
-    </item>
-    <item>
-      <title>Review for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"</title>
-      <link>https://doi.org/10.1039/d4ta05700g/v1/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4402538494
-
-                No abstract</description>
-      <author/>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05700g/v1/review1</guid>
-    </item>
-    <item>
-      <title>Decision letter for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"</title>
-      <link>https://doi.org/10.1039/d4ta05700g/v2/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4402538504
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05700g/v2/decision1</guid>
-    </item>
-    <item>
-      <title>Review for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"</title>
-      <link>https://doi.org/10.1039/d4ta05700g/v2/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4402538882
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05700g/v2/review1</guid>
-    </item>
-    <item>
-      <title>A Rechargeable Urea&#8208;Assisted Zn&#8208;Air Battery with High Energy Efficiency and Fast&#8208;Charging Enabled by Engineering High&#8208;Energy Interfacial Structures</title>
-      <link>https://doi.org/10.1002/anie.202410845</link>
-      <description>Mingjie Wu, Yinghui Xu, Jian Luo, Siyi Yang, Gaixia Zhang, Lei Du, Huixia Luo, Xun Cui, Yingkui Yang, Shuhui Sun, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402542550
-
-                Electrochemical urea oxidation reaction (UOR) offers a promising alternative to the oxygen evolution reaction (OER) in clean energy conversion and storage systems. Nickel&#8208;based catalysts are highly regarded as promising electrocatalysts for the UOR. However, their effectiveness is significantly hindered by the unavoidable self&#8208;oxidation reaction of nickel species during UOR. To address this challenge, we proposed an interface chemistry modulation strategy to boost UOR kinetics by creating a high&#8208;energy interfacial heterostructure. This heterostructure features the incorporation of Ag at the CoOOH@NiOOH heterojunction interface. Strong interactions significantly promote the electron exchanges in the heterointerface between the &#8208;OH and &#8208;O. Consequently, the improved electron delocalization led to the formation of stronger bonds between Co sites and urea CO(NH2)2, promoting a preference for urea to occupy Co active sites over OH*. The resulting catalyst, Ag&#8208;CoOOH@NiOOH, affords an ultrahigh UOR activity with a low potential of 1.33 V at 100 mA cm&#8208;2. The fabricated catalyst exhibits a mass activity exceeding that of initial cobalt oxyhydroxide by over 11.9 times. The rechargeable urea&#8208;assisted zinc&#8208;air batteries (ZABs) achieves a record&#8208;breaking energy efficiency of 74.56% at 1 mA cm&#8208;2, remarkable durability (1000 hours at even a current density of 50 mA cm&#8208;2), and quick charge performances.</description>
-      <author>Mingjie Wu, Yinghui Xu, Jian Luo, Siyi Yang, Gaixia Zhang, Lei Du, Huixia Luo, Xun Cui, Yingkui Yang, Shuhui Sun</author>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202410845</guid>
-    </item>
-    <item>
-      <title>Facile Synthesis of Carbon-Coated Nips3 Nanoparticle Electrocatalyst for Highly Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.4956197</link>
-      <description>Dongjun Lee, Doyeon Lee, Wook Kim, Seong&#8208;Hyeon Hong, Hee Jo Song, No host. None(None)] 2024. https://openalex.org/W4402545967
-
-                No abstract</description>
-      <author>Dongjun Lee, Doyeon Lee, Wook Kim, Seong&#8208;Hyeon Hong, Hee Jo Song</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4956197</guid>
-    </item>
-    <item>
-      <title>Origin of Enhanced Oxygen Evolution in Restructured Metal&#8208;Organic Frameworks for Anion Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1002/ange.202413916</link>
-      <description>Ying Li, Jing Wang, Xiaolei Hao, Xiaopei Xu, Lingling Xu, Bo Wei, Zhongwei Chen, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402546461
-
-                Metal&#8208;Organic Frameworks (MOFs), praised for structural flexibility and tunability, are prominent catalyst prototypes for exploring oxygen evolution reaction (OER). Yet, their intricate transformations under OER, especially in industrial high&#8208;current environments, pose significant challenges in accurately elucidating their structure&#8208;activity correlation. Here, we harnessed an electrooxidation process for controllable MOF reconstruction, discovering that Fe doping expedites Ni(Fe)&#8208;MOF structural evolution, accompanied by the elongation of Ni&#8208;O bonds, monitored by in&#8208;situ Raman and UV&#8208;visible spectroscopy. Theoretical modeling further reveals that Fe doping and defect&#8208;induced tensile strain in the NiO6 octahedra augments the metal ds&#8208;Op hybridization, optimizing their adsorption behavior and augmenting OER activity. The reconstructed Ni(Fe)&#8208;MOF, serving as the anode in anion exchange membrane water electrolysis, achieves a noteworthy current density of 3.3 A cm&#8208;2 at 2.2 V while maintaining equally stable operation for 160 h spanning from 0.5 A cm&#8208;2 to 1 A cm&#8208;2. This undertaking elevates our comprehension of OER catalyst reconstruction, furnishing promising avenues for designing highly efficacious catalysts across electrochemical platforms.</description>
-      <author>Ying Li, Jing Wang, Xiaolei Hao, Xiaopei Xu, Lingling Xu, Bo Wei, Zhongwei Chen</author>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202413916</guid>
-    </item>
-    <item>
-      <title>Origin of Enhanced Oxygen Evolution in Restructured Metal&#8208;Organic Frameworks for Anion Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1002/anie.202413916</link>
-      <description>Ying Li, Yang Liu, Xiaolei Hao, Xiaopei Xu, Lingling Xu, Bo Wei, Zhongwei Chen, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402546561
-
-                Metal&#8208;Organic Frameworks (MOFs), praised for structural flexibility and tunability, are prominent catalyst prototypes for exploring oxygen evolution reaction (OER). Yet, their intricate transformations under OER, especially in industrial high&#8208;current environments, pose significant challenges in accurately elucidating their structure&#8208;activity correlation. Here, we harnessed an electrooxidation process for controllable MOF reconstruction, discovering that Fe doping expedites Ni(Fe)&#8208;MOF structural evolution, accompanied by the elongation of Ni&#8208;O bonds, monitored by in&#8208;situ Raman and UV&#8208;visible spectroscopy. Theoretical modeling further reveals that Fe doping and defect&#8208;induced tensile strain in the NiO6 octahedra augments the metal ds&#8208;Op hybridization, optimizing their adsorption behavior and augmenting OER activity. The reconstructed Ni(Fe)&#8208;MOF, serving as the anode in anion exchange membrane water electrolysis, achieves a noteworthy current density of 3.3 A cm&#8208;2 at 2.2 V while maintaining equally stable operation for 160 h spanning from 0.5 A cm&#8208;2 to 1 A cm&#8208;2. This undertaking elevates our comprehension of OER catalyst reconstruction, furnishing promising avenues for designing highly efficacious catalysts across electrochemical platforms.</description>
-      <author>Ying Li, Yang Liu, Xiaolei Hao, Xiaopei Xu, Lingling Xu, Bo Wei, Zhongwei Chen</author>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202413916</guid>
-    </item>
-    <item>
       <title>Electrospun Mn1-xCoxFe2O4 (x=0-0.7) Nanofibers for Supercapacitors and Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1016/j.matchemphys.2024.129948</link>
       <description>Zahra Ansari Jokandan, J. Mazloom, Morteza Safari, Materials Chemistry and Physics. None(None)] 2024. https://openalex.org/W4402549944
@@ -248,16 +148,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cjche.2024.07.023</guid>
     </item>
     <item>
-      <title>Understanding the evolution of molybdenum-nitrogen doped carbon with long-term durability for efficient oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.cej.2024.155778</link>
-      <description>Xingyu Luo, Bingbao Mei, Ru Feng, Xiaofeng Xu, Zhongyan Zhang, Mingyu Ou, Fanfei Sun, Huajun Zheng, Meiqin Shi, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4402546983
-
-                No abstract</description>
-      <author>Xingyu Luo, Bingbao Mei, Ru Feng, Xiaofeng Xu, Zhongyan Zhang, Mingyu Ou, Fanfei Sun, Huajun Zheng, Meiqin Shi</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155778</guid>
-    </item>
-    <item>
       <title>Mo-Induced Surface Reconstruction in Ni/Co-OOH Prickly Flower Clusters for Improving the Hydrogen Production in Alkaline Seawater Splitting.</title>
       <link>https://doi.org/10.1002/smll.202404858</link>
       <description>Wen Zhang, Jianyang Gao, Qixing Gong, Fusheng Liu, Yang Zhang, Guangrui Xu, Zexing Wu, Lei Wang, PubMed. None(None)] 2024. https://openalex.org/W4402554797
@@ -276,16 +166,6 @@
       <author>Maryam Shahrostami, Mehdi Eskandari, Davood Fathi</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1155/2024/9454136</guid>
-    </item>
-    <item>
-      <title>A Rechargeable Urea&#8208;Assisted Zn&#8208;Air Battery with High Energy Efficiency and Fast&#8208;Charging Enabled by Engineering High&#8208;Energy Interfacial Structures</title>
-      <link>https://doi.org/10.1002/ange.202410845</link>
-      <description>Mingjie Wu, Yinghui Xu, Jian Luo, Siyi Yang, Gaixia Zhang, Lei Du, Huixia Luo, Xun Cui, Yingkui Yang, Shuhui Sun, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402542551
-
-                Electrochemical urea oxidation reaction (UOR) offers a promising alternative to the oxygen evolution reaction (OER) in clean energy conversion and storage systems. Nickel&#8208;based catalysts are highly regarded as promising electrocatalysts for the UOR. However, their effectiveness is significantly hindered by the unavoidable self&#8208;oxidation reaction of nickel species during UOR. To address this challenge, we proposed an interface chemistry modulation strategy to boost UOR kinetics by creating a high&#8208;energy interfacial heterostructure. This heterostructure features the incorporation of Ag at the CoOOH@NiOOH heterojunction interface. Strong interactions significantly promote the electron exchanges in the heterointerface between the &#8208;OH and &#8208;O. Consequently, the improved electron delocalization led to the formation of stronger bonds between Co sites and urea CO(NH2)2, promoting a preference for urea to occupy Co active sites over OH*. The resulting catalyst, Ag&#8208;CoOOH@NiOOH, affords an ultrahigh UOR activity with a low potential of 1.33 V at 100 mA cm&#8208;2. The fabricated catalyst exhibits a mass activity exceeding that of initial cobalt oxyhydroxide by over 11.9 times. The rechargeable urea&#8208;assisted zinc&#8208;air batteries (ZABs) achieves a record&#8208;breaking energy efficiency of 74.56% at 1 mA cm&#8208;2, remarkable durability (1000 hours at even a current density of 50 mA cm&#8208;2), and quick charge performances.</description>
-      <author>Mingjie Wu, Yinghui Xu, Jian Luo, Siyi Yang, Gaixia Zhang, Lei Du, Huixia Luo, Xun Cui, Yingkui Yang, Shuhui Sun</author>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202410845</guid>
     </item>
     <item>
       <title>A perspective to efficient synthesis of zirconium carbide via novel pyro-vacuum method: lower temperatures and enhanced purity</title>
@@ -308,16 +188,6 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-vxdq4</guid>
     </item>
     <item>
-      <title>Depth-resolved characterization of Meissner screening breakdown in surface treated niobium</title>
-      <link>https://doi.org/10.1038/s41598-024-71724-5</link>
-      <description>Edward Thoeng, Md Asaduzzaman, Philipp Kolb, Ryan M. L. McFadden, G. D. Morris, John O. Ticknor, S. R. Dunsiger, Victoria L. Karner, Derek Fujimoto, Tobias Junginger, R. F. Kiefl, W. A. MacFarlane, Ruohong Li, Suresh Saminathan, Robert Laxdal, Scientific Reports. 14(1)] 2024. https://openalex.org/W4402541511
-
-                We report direct measurements of the magnetic field screening at the limits of the Meissner phase for two superconducting niobium (Nb) samples. The samples are processed with two different surface treatments that have been developed for superconducting radio-frequency (SRF) cavity applications-a "baseline" treatment and an oxygen-doping ("O-doping") treatment. The measurements show: (1) that the screening length is significantly longer in the "O-doping" sample compared to the "baseline" sample; (2) that the screening length near the limits of the Meissner phase increases with applied field; (3) the evolution of the screening profile as the material transitions from the Meissner phase to the mixed phase; and (4) a demonstration of the absence of any screening profile for the highest applied field, indicative of the full flux entering the sample. Measurements are performed utilizing the</description>
-      <author>Edward Thoeng, Md Asaduzzaman, Philipp Kolb, Ryan M. L. McFadden, G. D. Morris, John O. Ticknor, S. R. Dunsiger, Victoria L. Karner, Derek Fujimoto, Tobias Junginger, R. F. Kiefl, W. A. MacFarlane, Ruohong Li, Suresh Saminathan, Robert Laxdal</author>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-71724-5</guid>
-    </item>
-    <item>
       <title>Treatment of domestic wastewater and extracellular polymeric substance accumulation in siphon&#8208;type composite vertical subsurface flow constructed wetland</title>
       <link>https://doi.org/10.1002/wer.11132</link>
       <description>Hao Chen, Lin Qiu, Hong Wu, Fahui Nie, Yong Liu, Wenping Cao, Water Environment Research. 96(9)] 2024. https://openalex.org/W4402570326
@@ -326,16 +196,6 @@
       <author>Hao Chen, Lin Qiu, Hong Wu, Fahui Nie, Yong Liu, Wenping Cao</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/wer.11132</guid>
-    </item>
-    <item>
-      <title>Enhancing Built&#8208;In Electric Field via Defect&#8208;Mediated Interfacial Chemical Bond Construction in Chalcogenide Heterojunction for Alcohol Photooxidation Coupled with H&lt;sub&gt;2&lt;/sub&gt; Production</title>
-      <link>https://doi.org/10.1002/adfm.202411991</link>
-      <description>Yi&#8208;Wen Han, Ying&#8208;Hao Chu, Lei Ye, Tian&#8208;Jun Gong, Xuebin L&#252;, Yao Fu, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4402541839
-
-                Abstract Rationally designing nanostructures based on an adequate understanding of structure&#8208;performance relationships is key for directional charge transfer regulation in heterojunction photocatalysts. A general strategy is developed for synthesizing bifunctional Sv&#8208;chalcogenide/Ti 3 C 2 Schottky junctions (Sv = sulfur vacancies, chalcogenides containing CdS, CdIn 2 S 4 , ZnIn 2 S 4 , ZnS, CuInS 2 ) featuring a giant built&#8208;in electric field (BIEF) via defect&#8208;mediated heterocomponent anchorage, which consists of sulfur vacancy modulation of chalcogenides and Ti 3 C 2 nanoparticle anchoring at defects via interfacial Metal&#9472;Oxygen (M&#9472;O) bonds. These heterojunctions have the distinctive interface structure of semicoherent phase boundaries and a directionally aligned BIEF pointing from chalcogenides to Ti 3 C 2 . The enhanced BIEF creates an asymmetrical charge distribution, which not only governs the charge migration behavior by enabling charge carrier localization and delocalized electron transport continuity but also regulates the molecular catalytic behavior by optimizing pivotal intermediate adsorption/activation ( * Ar&#8208;CH(R 2 )&#8208;OH in dehydrogenation and H * in H 2 evolution) in selective alcohol photooxidation coupled with H 2 generation. Encouragingly, Sv&#8208;chalcogenide/Ti 3 C 2 exhibits unprecedented performance (up to 13.34&#8208;fold higher efficiency than unmodulated chalcogenides) and good substrate compatibility for various alcohols. This work demonstrates the synergistic effects of surface electron density control and interfacial interaction modulation in regulating BIEFs, elucidating the substantial impact of reinforced BIEF on carrier transport properties and molecular catalytic behavior.</description>
-      <author>Yi&#8208;Wen Han, Ying&#8208;Hao Chu, Lei Ye, Tian&#8208;Jun Gong, Xuebin L&#252;, Yao Fu</author>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202411991</guid>
     </item>
   </channel>
 </rss>

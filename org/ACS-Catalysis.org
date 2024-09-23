@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Sep 22 01:25:00 2024
+Created on Mon Sep 23 01:19:53 2024
 
-Found 4 results from 2024-09-15 to 2024-09-22
+Found 3 results from 2024-09-16 to 2024-09-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -64,27 +64,6 @@ No abstract
 OpenAlex: https://openalex.org/W4402591482 (Open access: False)
     
 [[https://openalex.org/A5030617408][Jun Long]], [[https://openalex.org/A5027648567][Dong Luan]], [[https://openalex.org/A5102669510][Xiaoyan Fu]], [[https://openalex.org/A5100319216][Huan Li]], [[https://openalex.org/A5004947752][Jianping Xiao]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03785 
-     
-No abstract    
-
-    
-
-* Single-Site Catalysts for the Oxygen Reduction Reaction: Why Iron Is Better than Platinum  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402540243
-:TOPICS: Electrocatalysis for Energy Conversion, Desulfurization Technologies for Fuels, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-09-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02366")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402540243"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402540243"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402540243"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402540243 (Open access: False)
-    
-[[https://openalex.org/A5041917393][Alessandro Facchin]], [[https://openalex.org/A5072931547][Daniel Forrer]], [[https://openalex.org/A5020306387][Mirco Zerbetto]], [[https://openalex.org/A5107201117][Francesco Cazzadori]], [[https://openalex.org/A5016845262][Andrea Vittadini]], [[https://openalex.org/A5071952903][Christian Durante]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02366 
      
 No abstract    
 

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Sep 22 01:25:10 2024
+Created on Mon Sep 23 01:20:01 2024
 
-Found 9 results from 2024-09-15 to 2024-09-22
+Found 7 results from 2024-09-16 to 2024-09-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -78,28 +78,6 @@ OpenAlex: https://openalex.org/W4402592270
 Open access: False
     
 [A. R. Suresh Babu](https://openalex.org/A5044389273), [N. Madhusudhana Rao](https://openalex.org/A5063645802), Journal of Electronic Materials. None(None)] 2024.https://doi.org/10.1007/s11664-024-11452-8.
-    
-No abstract    
-
-    
-
-## Electrocatalytic synergies of melt-quenched Ni-Sn-Se-Te nanoalloy for direct seawater electrolysis   
-
-OpenAlex: https://openalex.org/W4402538290    
-Open access: False
-    
-[John D. Rodney](https://openalex.org/A5038363413), [Sindhur Joshi](https://openalex.org/A5061362072), [Subhasmita Ray](https://openalex.org/A5066617173), [L. Vaikunta Rao](https://openalex.org/A5001393743), [S. Deepapriya](https://openalex.org/A5007215027), [Karel Carva](https://openalex.org/A5107200689), [Badekai Ramachandra Bhat](https://openalex.org/A5090974967), [N.K. Udayashankar](https://openalex.org/A5080946443), [Suresh Perumal](https://openalex.org/A5014748730), [Sadhana Katlakunta](https://openalex.org/A5062321936), [C. Justin Raj](https://openalex.org/A5032245114), [Byung Chul Kim](https://openalex.org/A5100710795), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.155775.
-    
-No abstract    
-
-    
-
-## Understanding the evolution of molybdenum-nitrogen doped carbon with long-term durability for efficient oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4402546983    
-Open access: False
-    
-[Xingyu Luo](https://openalex.org/A5039256728), [Bingbao Mei](https://openalex.org/A5032925772), [Ru Feng](https://openalex.org/A5102219039), [Xiaofeng Xu](https://openalex.org/A5070471951), [Zhongyan Zhang](https://openalex.org/A5090182164), [Mingyu Ou](https://openalex.org/A5083029433), [Fanfei Sun](https://openalex.org/A5073162955), [Huajun Zheng](https://openalex.org/A5052267311), [Meiqin Shi](https://openalex.org/A5068056660), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.155778.
     
 No abstract    
 

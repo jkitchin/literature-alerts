@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Sep 22 01:24:55 2024
+Created on Mon Sep 23 01:19:50 2024
 
-Found 33 results from 2024-09-15 to 2024-09-22
+Found 19 results from 2024-09-16 to 2024-09-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -117,116 +117,6 @@ No abstract
 
     
 
-## Review for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"   
-
-OpenAlex: https://openalex.org/W4402538460    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta05700g/v1/review2.
-    
-No abstract    
-
-    
-
-## Decision letter for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"   
-
-OpenAlex: https://openalex.org/W4402538465    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta05700g/v1/decision1.
-    
-No abstract    
-
-    
-
-## Author response for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"   
-
-OpenAlex: https://openalex.org/W4402538479    
-Open access: False
-    
-[Feifan Wang](https://openalex.org/A5016040017), [Yukui Zhang](https://openalex.org/A5101814743), [Jing Wang](https://openalex.org/A5100378741), No host. None(None)] 2024.https://doi.org/10.1039/d4ta05700g/v2/response1.
-    
-No abstract    
-
-    
-
-## Review for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"   
-
-OpenAlex: https://openalex.org/W4402538494    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta05700g/v1/review1.
-    
-No abstract    
-
-    
-
-## Decision letter for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"   
-
-OpenAlex: https://openalex.org/W4402538504    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta05700g/v2/decision1.
-    
-No abstract    
-
-    
-
-## Review for "Correlation between Spin Effect and Catalytic Activity of Two Dimensional Metal Organic Frameworks for Oxygen Evolution Reaction"   
-
-OpenAlex: https://openalex.org/W4402538882    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta05700g/v2/review1.
-    
-No abstract    
-
-    
-
-## A Rechargeable Urea‐Assisted Zn‐Air Battery with High Energy Efficiency and Fast‐Charging Enabled by Engineering High‐Energy Interfacial Structures   
-
-OpenAlex: https://openalex.org/W4402542550    
-Open access: False
-    
-[Mingjie Wu](https://openalex.org/A5000272762), [Yinghui Xu](https://openalex.org/A5003409409), [Jian Luo](https://openalex.org/A5071388400), [Siyi Yang](https://openalex.org/A5103154463), [Gaixia Zhang](https://openalex.org/A5023395031), [Lei Du](https://openalex.org/A5017404634), [Huixia Luo](https://openalex.org/A5068328164), [Xun Cui](https://openalex.org/A5037920786), [Yingkui Yang](https://openalex.org/A5046799991), [Shuhui Sun](https://openalex.org/A5080743510), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202410845.
-    
-Electrochemical urea oxidation reaction (UOR) offers a promising alternative to the oxygen evolution reaction (OER) in clean energy conversion and storage systems. Nickel‐based catalysts are highly regarded as promising electrocatalysts for the UOR. However, their effectiveness is significantly hindered by the unavoidable self‐oxidation reaction of nickel species during UOR. To address this challenge, we proposed an interface chemistry modulation strategy to boost UOR kinetics by creating a high‐energy interfacial heterostructure. This heterostructure features the incorporation of Ag at the CoOOH@NiOOH heterojunction interface. Strong interactions significantly promote the electron exchanges in the heterointerface between the ‐OH and ‐O. Consequently, the improved electron delocalization led to the formation of stronger bonds between Co sites and urea CO(NH2)2, promoting a preference for urea to occupy Co active sites over OH*. The resulting catalyst, Ag‐CoOOH@NiOOH, affords an ultrahigh UOR activity with a low potential of 1.33 V at 100 mA cm‐2. The fabricated catalyst exhibits a mass activity exceeding that of initial cobalt oxyhydroxide by over 11.9 times. The rechargeable urea‐assisted zinc‐air batteries (ZABs) achieves a record‐breaking energy efficiency of 74.56% at 1 mA cm‐2, remarkable durability (1000 hours at even a current density of 50 mA cm‐2), and quick charge performances.    
-
-    
-
-## Facile Synthesis of Carbon-Coated Nips3 Nanoparticle Electrocatalyst for Highly Efficient Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4402545967    
-Open access: False
-    
-[Dongjun Lee](https://openalex.org/A5100626026), [Doyeon Lee](https://openalex.org/A5005654711), [Wook Kim](https://openalex.org/A5100662247), [Seong‐Hyeon Hong](https://openalex.org/A5065081264), [Hee Jo Song](https://openalex.org/A5057076775), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4956197.
-    
-No abstract    
-
-    
-
-## Origin of Enhanced Oxygen Evolution in Restructured Metal‐Organic Frameworks for Anion Exchange Membrane Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4402546461    
-Open access: False
-    
-[Ying Li](https://openalex.org/A5100414299), [Jing Wang](https://openalex.org/A5100378741), [Xiaolei Hao](https://openalex.org/A5008686232), [Xiaopei Xu](https://openalex.org/A5101064771), [Lingling Xu](https://openalex.org/A5016082953), [Bo Wei](https://openalex.org/A5085459146), [Zhongwei Chen](https://openalex.org/A5100784976), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202413916.
-    
-Metal‐Organic Frameworks (MOFs), praised for structural flexibility and tunability, are prominent catalyst prototypes for exploring oxygen evolution reaction (OER). Yet, their intricate transformations under OER, especially in industrial high‐current environments, pose significant challenges in accurately elucidating their structure‐activity correlation. Here, we harnessed an electrooxidation process for controllable MOF reconstruction, discovering that Fe doping expedites Ni(Fe)‐MOF structural evolution, accompanied by the elongation of Ni‐O bonds, monitored by in‐situ Raman and UV‐visible spectroscopy. Theoretical modeling further reveals that Fe doping and defect‐induced tensile strain in the NiO6 octahedra augments the metal ds‐Op hybridization, optimizing their adsorption behavior and augmenting OER activity. The reconstructed Ni(Fe)‐MOF, serving as the anode in anion exchange membrane water electrolysis, achieves a noteworthy current density of 3.3 A cm‐2 at 2.2 V while maintaining equally stable operation for 160 h spanning from 0.5 A cm‐2 to 1 A cm‐2. This undertaking elevates our comprehension of OER catalyst reconstruction, furnishing promising avenues for designing highly efficacious catalysts across electrochemical platforms.    
-
-    
-
-## Origin of Enhanced Oxygen Evolution in Restructured Metal‐Organic Frameworks for Anion Exchange Membrane Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4402546561    
-Open access: False
-    
-[Ying Li](https://openalex.org/A5100414294), [Yang Liu](https://openalex.org/A5047614812), [Xiaolei Hao](https://openalex.org/A5008686232), [Xiaopei Xu](https://openalex.org/A5101064771), [Lingling Xu](https://openalex.org/A5016082953), [Bo Wei](https://openalex.org/A5085459146), [Zhongwei Chen](https://openalex.org/A5100784976), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202413916.
-    
-Metal‐Organic Frameworks (MOFs), praised for structural flexibility and tunability, are prominent catalyst prototypes for exploring oxygen evolution reaction (OER). Yet, their intricate transformations under OER, especially in industrial high‐current environments, pose significant challenges in accurately elucidating their structure‐activity correlation. Here, we harnessed an electrooxidation process for controllable MOF reconstruction, discovering that Fe doping expedites Ni(Fe)‐MOF structural evolution, accompanied by the elongation of Ni‐O bonds, monitored by in‐situ Raman and UV‐visible spectroscopy. Theoretical modeling further reveals that Fe doping and defect‐induced tensile strain in the NiO6 octahedra augments the metal ds‐Op hybridization, optimizing their adsorption behavior and augmenting OER activity. The reconstructed Ni(Fe)‐MOF, serving as the anode in anion exchange membrane water electrolysis, achieves a noteworthy current density of 3.3 A cm‐2 at 2.2 V while maintaining equally stable operation for 160 h spanning from 0.5 A cm‐2 to 1 A cm‐2. This undertaking elevates our comprehension of OER catalyst reconstruction, furnishing promising avenues for designing highly efficacious catalysts across electrochemical platforms.    
-
-    
-
 ## Electrospun Mn1-xCoxFe2O4 (x=0-0.7) Nanofibers for Supercapacitors and Oxygen Evolution Reaction   
 
 OpenAlex: https://openalex.org/W4402549944    
@@ -271,17 +161,6 @@ No abstract
 
     
 
-## Understanding the evolution of molybdenum-nitrogen doped carbon with long-term durability for efficient oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4402546983    
-Open access: False
-    
-[Xingyu Luo](https://openalex.org/A5039256728), [Bingbao Mei](https://openalex.org/A5032925772), [Ru Feng](https://openalex.org/A5102219039), [Xiaofeng Xu](https://openalex.org/A5070471951), [Zhongyan Zhang](https://openalex.org/A5090182164), [Mingyu Ou](https://openalex.org/A5083029433), [Fanfei Sun](https://openalex.org/A5073162955), [Huajun Zheng](https://openalex.org/A5052267311), [Meiqin Shi](https://openalex.org/A5068056660), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.155778.
-    
-No abstract    
-
-    
-
 ## Mo-Induced Surface Reconstruction in Ni/Co-OOH Prickly Flower Clusters for Improving the Hydrogen Production in Alkaline Seawater Splitting.   
 
 OpenAlex: https://openalex.org/W4402554797    
@@ -301,17 +180,6 @@ Open access: True
 [Maryam Shahrostami](https://openalex.org/A5094218383), [Mehdi Eskandari](https://openalex.org/A5021811079), [Davood Fathi](https://openalex.org/A5040960527), International Journal of Energy Research. 2024(1)] 2024.https://doi.org/10.1155/2024/9454136.
     
 Solar‐driven photoelectrochemical (PEC) water‐splitting cells coupled with a photovoltaic (PV) cell as a photoanode have become an intriguing topic in solar energy conversion. In this study, for the purpose of developing a system with high efficiency, several photoanode materials were investigated to adjust the oxygen evolution reaction and the hydrogen evolution reaction (HER) energy bands. Among all, MAPbBr 3 with a wide bandgap (2.3 eV) was selected. However, the power conversion efficiency of the PV cell was not desirable due to the low light absorption. Therefore, the NiO–GeSe core–shell was placed inside the perovskite layer to enhance light absorption and carrier generation. In order to achieve a cell with the maximum performance, the core–shell height, and the shell radius were optimized, where the optimum structure was recognized with a core–shell height of 300 nm and a radius of 25–60 nm. The system’s total efficiency, which is represented by the solar to hydrogen efficiency, was then increased from 5.49% to 19.74% for the planar and nanostructure photoanode, respectively. The proposed PEC cell with the optimized photoanode is considered as the most efficient half‐tandem and perovskite‐based reported coupled system, operating without the need for an external voltage. In this study, three optical, electrical, and electrochemical models were solved using the finite element method to analyze the coupled system.    
-
-    
-
-## A Rechargeable Urea‐Assisted Zn‐Air Battery with High Energy Efficiency and Fast‐Charging Enabled by Engineering High‐Energy Interfacial Structures   
-
-OpenAlex: https://openalex.org/W4402542551    
-Open access: False
-    
-[Mingjie Wu](https://openalex.org/A5000272762), [Yinghui Xu](https://openalex.org/A5003409409), [Jian Luo](https://openalex.org/A5071388400), [Siyi Yang](https://openalex.org/A5103154463), [Gaixia Zhang](https://openalex.org/A5023395031), [Lei Du](https://openalex.org/A5017404634), [Huixia Luo](https://openalex.org/A5068328164), [Xun Cui](https://openalex.org/A5037920786), [Yingkui Yang](https://openalex.org/A5046799991), [Shuhui Sun](https://openalex.org/A5080743510), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202410845.
-    
-Electrochemical urea oxidation reaction (UOR) offers a promising alternative to the oxygen evolution reaction (OER) in clean energy conversion and storage systems. Nickel‐based catalysts are highly regarded as promising electrocatalysts for the UOR. However, their effectiveness is significantly hindered by the unavoidable self‐oxidation reaction of nickel species during UOR. To address this challenge, we proposed an interface chemistry modulation strategy to boost UOR kinetics by creating a high‐energy interfacial heterostructure. This heterostructure features the incorporation of Ag at the CoOOH@NiOOH heterojunction interface. Strong interactions significantly promote the electron exchanges in the heterointerface between the ‐OH and ‐O. Consequently, the improved electron delocalization led to the formation of stronger bonds between Co sites and urea CO(NH2)2, promoting a preference for urea to occupy Co active sites over OH*. The resulting catalyst, Ag‐CoOOH@NiOOH, affords an ultrahigh UOR activity with a low potential of 1.33 V at 100 mA cm‐2. The fabricated catalyst exhibits a mass activity exceeding that of initial cobalt oxyhydroxide by over 11.9 times. The rechargeable urea‐assisted zinc‐air batteries (ZABs) achieves a record‐breaking energy efficiency of 74.56% at 1 mA cm‐2, remarkable durability (1000 hours at even a current density of 50 mA cm‐2), and quick charge performances.    
 
     
 
@@ -337,17 +205,6 @@ Two-dimensional (2D) Janus materials gain increasing attention as water splittin
 
     
 
-## Depth-resolved characterization of Meissner screening breakdown in surface treated niobium   
-
-OpenAlex: https://openalex.org/W4402541511    
-Open access: True
-    
-[Edward Thoeng](https://openalex.org/A5033617037), [Md Asaduzzaman](https://openalex.org/A5066212291), [Philipp Kolb](https://openalex.org/A5024868933), [Ryan M. L. McFadden](https://openalex.org/A5065665606), [G. D. Morris](https://openalex.org/A5017930902), [John O. Ticknor](https://openalex.org/A5054818798), [S. R. Dunsiger](https://openalex.org/A5020731483), [Victoria L. Karner](https://openalex.org/A5065523228), [Derek Fujimoto](https://openalex.org/A5082660511), [Tobias Junginger](https://openalex.org/A5047356504), [R. F. Kiefl](https://openalex.org/A5055420269), [W. A. MacFarlane](https://openalex.org/A5070714748), [Ruohong Li](https://openalex.org/A5002878273), [Suresh Saminathan](https://openalex.org/A5013346237), [Robert Laxdal](https://openalex.org/A5046714003), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-71724-5.
-    
-We report direct measurements of the magnetic field screening at the limits of the Meissner phase for two superconducting niobium (Nb) samples. The samples are processed with two different surface treatments that have been developed for superconducting radio-frequency (SRF) cavity applications-a "baseline" treatment and an oxygen-doping ("O-doping") treatment. The measurements show: (1) that the screening length is significantly longer in the "O-doping" sample compared to the "baseline" sample; (2) that the screening length near the limits of the Meissner phase increases with applied field; (3) the evolution of the screening profile as the material transitions from the Meissner phase to the mixed phase; and (4) a demonstration of the absence of any screening profile for the highest applied field, indicative of the full flux entering the sample. Measurements are performed utilizing the    
-
-    
-
 ## Treatment of domestic wastewater and extracellular polymeric substance accumulation in siphon‐type composite vertical subsurface flow constructed wetland   
 
 OpenAlex: https://openalex.org/W4402570326    
@@ -356,16 +213,5 @@ Open access: False
 [Hao Chen](https://openalex.org/A5100353673), [Lin Qiu](https://openalex.org/A5085485915), [Hong Wu](https://openalex.org/A5046179350), [Fahui Nie](https://openalex.org/A5102542811), [Yong Liu](https://openalex.org/A5101455992), [Wenping Cao](https://openalex.org/A5103208347), Water Environment Research. 96(9)] 2024.https://doi.org/10.1002/wer.11132.
     
 Abstract In this study, the siphon‐type composite vertical flow constructed wetland (Sc‐VSsFCW) was constructed with anthracite and shale ceramsite chosen as the substrate bed materials. During the 90‐day experiment, typical pollutant removal effects of wastewater and extracellular polymeric substance (EPS) accumulation were investigated. Meanwhile, X‐ray diffraction and scanning electron microscopy were used to examine the phase composition and surface morphology to analyze adsorptive property. Additionally, we evaluated the impact of siphon effluent on clogging and depolymerization by measuring the EPS components' evolution within the system. The findings reveal that both the anthracite and shale ceramsite systems exhibit impressive removal efficiencies for total phosphorus (TP), total dissolved phosphorus (TDP), soluble reactive phosphorus (SRP), chemical oxygen demand (COD), ammonium nitrogen (NH 4 + ‐N), and nitrate nitrogen (NO 3 − ‐N). However, as the experiment progressed, TP removal rates in both systems gradually declined because of the saturation of adsorption sites on the substrate surfaces. Although the dissolved oxygen (DO) levels remained relatively stable throughout the experiment, pH exhibited distinct patterns, suggesting that the anthracite system relies primarily on chemical adsorption, whereas the shale ceramsite system predominantly utilizes physical adsorption. After an initial period of fluctuation, the permeability coefficient and porosity of the system gradually stabilized, and the protein and polysaccharide contents in both systems exhibited a downward trend. The study underscores that anthracite and shale ceramsite have good effectiveness in pollutant removal as substrate materials. Overall, the hydraulic conditions of the double repeated oxygen coupling siphon in the Sc‐VSsFCW system contribute to enhanced re‐oxygenation capacity and permeability coefficient during operation. The changes in EPS content indicate that the siphon effluent exerts a certain depolymerization effect on the EPS within the system, thereby mitigating the risk of biological clogging to a certain extent. Practitioner Points The system can still maintain good pollutant treatment effect in long‐term operation. The re‐oxygenation method of the system can achieve efficient and long‐term re‐oxygenation effect. The siphon effluent has a certain improvement effect on the permeability coefficient and porosity, but it cannot effectively inhibit the occurrence of clogging. The EPS content did not change significantly during the operation of the system, and there was a risk of biological clogging.    
-
-    
-
-## Enhancing Built‐In Electric Field via Defect‐Mediated Interfacial Chemical Bond Construction in Chalcogenide Heterojunction for Alcohol Photooxidation Coupled with H2 Production   
-
-OpenAlex: https://openalex.org/W4402541839    
-Open access: False
-    
-[Yi‐Wen Han](https://openalex.org/A5103937843), [Ying‐Hao Chu](https://openalex.org/A5016978102), [Lei Ye](https://openalex.org/A5031783119), [Tian‐Jun Gong](https://openalex.org/A5049677180), [Xuebin Lü](https://openalex.org/A5049639221), [Yao Fu](https://openalex.org/A5100719200), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202411991.
-    
-Abstract Rationally designing nanostructures based on an adequate understanding of structure‐performance relationships is key for directional charge transfer regulation in heterojunction photocatalysts. A general strategy is developed for synthesizing bifunctional Sv‐chalcogenide/Ti 3 C 2 Schottky junctions (Sv = sulfur vacancies, chalcogenides containing CdS, CdIn 2 S 4 , ZnIn 2 S 4 , ZnS, CuInS 2 ) featuring a giant built‐in electric field (BIEF) via defect‐mediated heterocomponent anchorage, which consists of sulfur vacancy modulation of chalcogenides and Ti 3 C 2 nanoparticle anchoring at defects via interfacial Metal─Oxygen (M─O) bonds. These heterojunctions have the distinctive interface structure of semicoherent phase boundaries and a directionally aligned BIEF pointing from chalcogenides to Ti 3 C 2 . The enhanced BIEF creates an asymmetrical charge distribution, which not only governs the charge migration behavior by enabling charge carrier localization and delocalized electron transport continuity but also regulates the molecular catalytic behavior by optimizing pivotal intermediate adsorption/activation ( * Ar‐CH(R 2 )‐OH in dehydrogenation and H * in H 2 evolution) in selective alcohol photooxidation coupled with H 2 generation. Encouragingly, Sv‐chalcogenide/Ti 3 C 2 exhibits unprecedented performance (up to 13.34‐fold higher efficiency than unmodulated chalcogenides) and good substrate compatibility for various alcohols. This work demonstrates the synergistic effects of surface electron density control and interfacial interaction modulation in regulating BIEFs, elucidating the substantial impact of reinforced BIEF on carrier transport properties and molecular catalytic behavior.    
 
     

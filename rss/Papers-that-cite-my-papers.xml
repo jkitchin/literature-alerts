@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Sep 2024 01:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 01:20:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -66,26 +66,6 @@
       <author>A. R. Suresh Babu, N. Madhusudhana Rao</author>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11664-024-11452-8</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic synergies of melt-quenched Ni-Sn-Se-Te nanoalloy for direct seawater electrolysis</title>
-      <link>https://doi.org/10.1016/j.cej.2024.155775</link>
-      <description>John D. Rodney, Sindhur Joshi, Subhasmita Ray, L. Vaikunta Rao, S. Deepapriya, Karel Carva, Badekai Ramachandra Bhat, N.K. Udayashankar, Suresh Perumal, Sadhana Katlakunta, C. Justin Raj, Byung Chul Kim, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4402538290
-
-                No abstract</description>
-      <author>John D. Rodney, Sindhur Joshi, Subhasmita Ray, L. Vaikunta Rao, S. Deepapriya, Karel Carva, Badekai Ramachandra Bhat, N.K. Udayashankar, Suresh Perumal, Sadhana Katlakunta, C. Justin Raj, Byung Chul Kim</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155775</guid>
-    </item>
-    <item>
-      <title>Understanding the evolution of molybdenum-nitrogen doped carbon with long-term durability for efficient oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.cej.2024.155778</link>
-      <description>Xingyu Luo, Bingbao Mei, Ru Feng, Xiaofeng Xu, Zhongyan Zhang, Mingyu Ou, Fanfei Sun, Huajun Zheng, Meiqin Shi, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4402546983
-
-                No abstract</description>
-      <author>Xingyu Luo, Bingbao Mei, Ru Feng, Xiaofeng Xu, Zhongyan Zhang, Mingyu Ou, Fanfei Sun, Huajun Zheng, Meiqin Shi</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155778</guid>
     </item>
     <item>
       <title>Hydrogen spillover enhances the selective hydrogenation of &#945;,&#946;-unsaturated aldehydes on the Cu-O-Ce interface</title>

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Sep 2024 01:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 01:19:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,16 +36,6 @@
       <author>Jun Long, Dong Luan, Xiaoyan Fu, Huan Li, Jianping Xiao</author>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03785</guid>
-    </item>
-    <item>
-      <title>Single-Site Catalysts for the Oxygen Reduction Reaction: Why Iron Is Better than Platinum</title>
-      <link>https://doi.org/10.1021/acscatal.4c02366</link>
-      <description>Alessandro Facchin, Daniel Forrer, Mirco Zerbetto, Francesco Cazzadori, Andrea Vittadini, Christian Durante, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402540243
-
-                No abstract</description>
-      <author>Alessandro Facchin, Daniel Forrer, Mirco Zerbetto, Francesco Cazzadori, Andrea Vittadini, Christian Durante</author>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02366</guid>
     </item>
   </channel>
 </rss>
