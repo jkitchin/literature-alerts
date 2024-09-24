@@ -4,13 +4,13 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Sep 2024 01:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 01:20:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Manipulating the Electronic Properties of an Fe Single Atom Catalyst via Secondary Coordination Sphere Engineering to Provide Enhanced Oxygen Electrocatalytic Activity in Zinc-Air Batteries.</title>
+      <title>Manipulating the Electronic Properties of an Fe Single Atom Catalyst via Secondary Coordination Sphere Engineering to Provide Enhanced Oxygen Electrocatalytic Activity in Zinc&#8208;Air Batteries</title>
       <link>https://doi.org/10.1002/adma.202410121</link>
-      <description>Siqi Ji, Yimin Mou, Hongxue Liu, Xue Lu, Qian Zhang, Chunmin Guo, Kai Sun, Dong Liu, J. Hugh Horton, Li Wang, Yu Wang, Zhijun Li, PubMed. None(None)] 2024. https://openalex.org/W4402555445
+      <description>Siqi Ji, Yimin Mou, Hongxue Liu, Xue Lu, Qian Zhang, Chunmin Guo, Kai Sun, Dong Liu, J. Hugh Horton, Li Wang, Yu Wang, Zhijun Li, Advanced Materials. None(None)] 2024. https://openalex.org/W4402555445
 
                 Oxygen reduction and evolution reactions are two key processes in electrochemical energy conversion technologies. Synthesis of nonprecious metal, carbon-based electrocatalysts with high oxygen bifunctional activity and stability is a crucial, yet challenging step to achieving electrochemical energy conversion. Here, an approach to address this issue: synthesis of an atomically dispersed Fe electrocatalyst (Fe</description>
       <author>Siqi Ji, Yimin Mou, Hongxue Liu, Xue Lu, Qian Zhang, Chunmin Guo, Kai Sun, Dong Liu, J. Hugh Horton, Li Wang, Yu Wang, Zhijun Li</author>
@@ -56,6 +56,16 @@
       <author>Alexandre Bodard, Zhangsen Chen, Oumayma ELJarray, Gaixia Zhang</author>
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smtd.202400574</guid>
+    </item>
+    <item>
+      <title>Recommended practice for measurement and evaluation of oxygen evolution reaction electrocatalysis</title>
+      <link>https://doi.org/10.1002/eom2.12486</link>
+      <description>Hongyu An, Wanki Park, Heejong Shin, Dong Young Chung, EcoMat. None(None)] 2024. https://openalex.org/W4402567939
+
+                Abstract The Oxygen evolution reaction (OER) is a pivotal technology driving next&#8208;generation sustainable energy conversion and storage devices. Establishing a robust analytical methodology is paramount to fostering innovation in this field. This review offers a comprehensive discussion on measurement and interpretation, advocating for standardized protocols and best practices to mitigate the myriad factors that complicate analysis. The initial focus is directed toward substrate electrodes and gas bubbles, both significant contributors to reduced reliability and reproducibility. Subsequently, the review focuses on intrinsic activity assessment, identification of electrochemical active sites, and the disentanglement of competing process contributions. These careful methodologies ensure the systematic delivery of insights crucial for assessing OER performance. In conclusion, the review highlights the critical role played by precise measurement techniques and unbiased activity comparison methodologies in propelling advancements in OER catalyst development. image</description>
+      <author>Hongyu An, Wanki Park, Heejong Shin, Dong Young Chung</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/eom2.12486</guid>
     </item>
     <item>
       <title>Fluorine&#8208;lodged high&#8208;valent high&#8208;entropy layered double hydroxide for efficient, long&#8208;lasting zinc&#8208;air batteries</title>
@@ -108,34 +118,174 @@
       <guid isPermaLink="true">https://doi.org/10.23919/ccc63176.2024.10661943</guid>
     </item>
     <item>
-      <title>Electrospun Mn1-xCoxFe2O4 (x=0-0.7) Nanofibers for Supercapacitors and Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.matchemphys.2024.129948</link>
-      <description>Zahra Ansari Jokandan, J. Mazloom, Morteza Safari, Materials Chemistry and Physics. None(None)] 2024. https://openalex.org/W4402549944
+      <title>Fabrication of abundant oxygen vacancies in MOF-derived (Fe,Co)3O4 for oxygen evolution reaction and as an air cathode for zinc-air batteries</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.161264</link>
+      <description>Li Wang, Xinpeng Chen, Hua-Bin Yuan, Lili Xing, Desheng Sha, Aijing Li, Guoqiang Chen, Tieling Xing, Applied Surface Science. None(None)] 2024. https://openalex.org/W4402570641
 
                 No abstract</description>
-      <author>Zahra Ansari Jokandan, J. Mazloom, Morteza Safari</author>
+      <author>Li Wang, Xinpeng Chen, Hua-Bin Yuan, Lili Xing, Desheng Sha, Aijing Li, Guoqiang Chen, Tieling Xing</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matchemphys.2024.129948</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161264</guid>
     </item>
     <item>
-      <title>Fe, Cu bimetallic precursor-driven quaternary active sites boost oxygen reduction / evolution reaction bifunctional catalysts</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2024.235423</link>
-      <description>Yurong Yuan, Mengwei Pan, Mengjie Zhang, Yuchen Zhou, Qin Fei-long, Yaoyu Yang, Rui Hao, Weifang Liu, Kaiyu Liu, Journal of Power Sources. 623(None)] 2024. https://openalex.org/W4402550124
+      <title>Conjugated polycarboxylate ligand-coordinated NiFe LDH for enhanced oxygen evolution</title>
+      <link>https://doi.org/10.1039/d4ta04498c</link>
+      <description>Zi-Ye Liu, Qianyu Wang, Teng Xu, Ji&#8208;Ming Hu, Journal of Materials Chemistry A. None(None)] 2024. https://openalex.org/W4402578884
+
+                Nickel&#8211;iron layered double hydroxide (NiFe LDH) shows great performance in the oxygen evolution reaction (OER) due to the interaction between Ni and Fe.</description>
+      <author>Zi-Ye Liu, Qianyu Wang, Teng Xu, Ji&#8208;Ming Hu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta04498c</guid>
+    </item>
+    <item>
+      <title>Electrospun Iridium-Based Nanofiber Catalysts for Oxygen Evolution Reaction: Influence of Calcination on Activity&#8211;Stability Relation</title>
+      <link>https://doi.org/10.1021/acsami.4c07831</link>
+      <description>Mikl&#243;s M&#225;rton Kov&#225;cs, Birk Fritsch, Leopold Lahn, Julien Bachmann, Olga Kasian, Karl J. J. Mayrhofer, Andreas Hutzler, Dominik Dworschak, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402588976
+
+                The enhanced utilization of noble metal catalysts through highly porous nanostructures is crucial to advancing the commercialization prospects of proton exchange membrane water electrolysis (PEMWE). In this study, hierarchically structured IrO</description>
+      <author>Mikl&#243;s M&#225;rton Kov&#225;cs, Birk Fritsch, Leopold Lahn, Julien Bachmann, Olga Kasian, Karl J. J. Mayrhofer, Andreas Hutzler, Dominik Dworschak</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c07831</guid>
+    </item>
+    <item>
+      <title>Charge Transfer in n-FeO and p-&#945;-Fe2O3 Nanoparticles for Efficient Hydrogen and Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.3390/nano14181515</link>
+      <description>Amir Humayun, Nandapriya Manivelan, Prabakar Kandasamy, Nanomaterials. 14(18)] 2024. https://openalex.org/W4402599911
+
+                This study aims to explore the n-FeO and p-&#945;-Fe2O3 semiconductor nanoparticles in hydrogen (HER) and oxygen (OER) evolution reactions and a combined full cell electrocatalyst system to electrolyze the water. We have observed a distinct electrocatalytic performance for both HER and OER by tuning the interplay between iron oxidation states Fe2+ and Fe3+ and utilizing phase-transformed iron oxide nanoparticles (NPs). The Fe2+ rich n-FeO NPs exhibited superior HER performance compared to p-&#945;-Fe2O3 and Fe(OH)x NPs, which is attributed to the enhancement in n-type semiconducting nature under HER potential, facilitating the electron transfer for the reduction in H+ ions. In contrast, p-&#945;-Fe2O3 NPs demonstrated excellent OER activity. An H-cell constructed using n-FeO||p-&#945;-Fe2O3 NPs as cathode and anode achieved a cell voltage of 1.87 V at a current density of 50 mA/cm2. The cell exhibited remarkable stability after 30 h of activation and maintained the high current density of 100 mA/cm2 for 80 h with a negligible increase in cell voltage. This work highlights the semiconducting properties of n-FeO and p-&#945;-Fe2O3 for the electrochemical water splitting system using the band bending phenomenon under the applied potential.</description>
+      <author>Amir Humayun, Nandapriya Manivelan, Prabakar Kandasamy</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/nano14181515</guid>
+    </item>
+    <item>
+      <title>Review for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"</title>
+      <link>https://doi.org/10.1039/d4ma00667d/v2/review2</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402669476
 
                 No abstract</description>
-      <author>Yurong Yuan, Mengwei Pan, Mengjie Zhang, Yuchen Zhou, Qin Fei-long, Yaoyu Yang, Rui Hao, Weifang Liu, Kaiyu Liu</author>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.235423</guid>
+      <author/>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ma00667d/v2/review2</guid>
     </item>
     <item>
-      <title>Recommended practice for measurement and evaluation of oxygen evolution reaction electrocatalysis</title>
-      <link>https://doi.org/10.1002/eom2.12486</link>
-      <description>Hongyu An, Wanki Park, Heejong Shin, Dong Young Chung, EcoMat. None(None)] 2024. https://openalex.org/W4402567939
+      <title>Decision letter for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"</title>
+      <link>https://doi.org/10.1039/d4ma00667d/v2/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402669520
 
-                Abstract The Oxygen evolution reaction (OER) is a pivotal technology driving next&#8208;generation sustainable energy conversion and storage devices. Establishing a robust analytical methodology is paramount to fostering innovation in this field. This review offers a comprehensive discussion on measurement and interpretation, advocating for standardized protocols and best practices to mitigate the myriad factors that complicate analysis. The initial focus is directed toward substrate electrodes and gas bubbles, both significant contributors to reduced reliability and reproducibility. Subsequently, the review focuses on intrinsic activity assessment, identification of electrochemical active sites, and the disentanglement of competing process contributions. These careful methodologies ensure the systematic delivery of insights crucial for assessing OER performance. In conclusion, the review highlights the critical role played by precise measurement techniques and unbiased activity comparison methodologies in propelling advancements in OER catalyst development. image</description>
-      <author>Hongyu An, Wanki Park, Heejong Shin, Dong Young Chung</author>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/eom2.12486</guid>
+                No abstract</description>
+      <author/>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ma00667d/v2/decision1</guid>
+    </item>
+    <item>
+      <title>Decision letter for "Cost-effective synthesis of rGO/CeNiO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; perovskite nanocomposites for enhanced and stable supercapacitors and oxygen evolution reaction catalysts"</title>
+      <link>https://doi.org/10.1039/d4tc03159h/v2/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402669528
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v2/decision1</guid>
+    </item>
+    <item>
+      <title>Review for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"</title>
+      <link>https://doi.org/10.1039/d4ma00667d/v1/review2</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402669536
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ma00667d/v1/review2</guid>
+    </item>
+    <item>
+      <title>Review for "Cost-effective synthesis of rGO/CeNiO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; perovskite nanocomposites for enhanced and stable supercapacitors and oxygen evolution reaction catalysts"</title>
+      <link>https://doi.org/10.1039/d4tc03159h/v3/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402680871
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v3/review1</guid>
+    </item>
+    <item>
+      <title>Decision letter for "Cost-effective synthesis of rGO/CeNiO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; perovskite nanocomposites for enhanced and stable supercapacitors and oxygen evolution reaction catalysts"</title>
+      <link>https://doi.org/10.1039/d4tc03159h/v1/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681002
+
+                No abstract</description>
+      <author/>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v1/decision1</guid>
+    </item>
+    <item>
+      <title>Decision letter for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"</title>
+      <link>https://doi.org/10.1039/d4ma00667d/v1/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681075
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ma00667d/v1/decision1</guid>
+    </item>
+    <item>
+      <title>Decision letter for "Cost-effective synthesis of rGO/CeNiO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; perovskite nanocomposites for enhanced and stable supercapacitors and oxygen evolution reaction catalysts"</title>
+      <link>https://doi.org/10.1039/d4tc03159h/v3/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681089
+
+                No abstract</description>
+      <author/>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v3/decision1</guid>
+    </item>
+    <item>
+      <title>Review for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"</title>
+      <link>https://doi.org/10.1039/d4ma00667d/v2/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681112
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ma00667d/v2/review1</guid>
+    </item>
+    <item>
+      <title>Review for "Cost-effective synthesis of rGO/CeNiO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; perovskite nanocomposites for enhanced and stable supercapacitors and oxygen evolution reaction catalysts"</title>
+      <link>https://doi.org/10.1039/d4tc03159h/v1/review2</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681139
+
+                No abstract</description>
+      <author/>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v1/review2</guid>
+    </item>
+    <item>
+      <title>Review for "Cost-effective synthesis of rGO/CeNiO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; perovskite nanocomposites for enhanced and stable supercapacitors and oxygen evolution reaction catalysts"</title>
+      <link>https://doi.org/10.1039/d4tc03159h/v2/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681141
+
+                No abstract</description>
+      <author/>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v2/review1</guid>
+    </item>
+    <item>
+      <title>Review for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"</title>
+      <link>https://doi.org/10.1039/d4ma00667d/v1/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681196
+
+                No abstract</description>
+      <author/>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ma00667d/v1/review1</guid>
+    </item>
+    <item>
+      <title>Review for "Cost-effective synthesis of rGO/CeNiO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; perovskite nanocomposites for enhanced and stable supercapacitors and oxygen evolution reaction catalysts"</title>
+      <link>https://doi.org/10.1039/d4tc03159h/v1/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4402681201
+
+                No abstract</description>
+      <author/>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v1/review1</guid>
     </item>
     <item>
       <title>Ligand-tuning of coordination compound for improved oxygen evolution</title>
@@ -148,6 +298,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cjche.2024.07.023</guid>
     </item>
     <item>
+      <title>Phytic acid-modified NiFe-PBA stacked by &#960;-&#960; force for reinforcement electrocatalytic water oxidation</title>
+      <link>https://doi.org/10.1039/d4qi01520g</link>
+      <description>Yu Zheng, Chun Hua Han, Yuan Yuan, Gong Chen, Ye Fu, Yunhe Zhao, Inorganic Chemistry Frontiers. None(None)] 2024. https://openalex.org/W4402577708
+
+                Prussian blue analogues (PBAs) with unique three-dimensional (3D) open metal framework structure and easily adjustable composition have been widely used in oxygen evolution reaction (OER) under alkaline conditions. Herein, disintegrative...</description>
+      <author>Yu Zheng, Chun Hua Han, Yuan Yuan, Gong Chen, Ye Fu, Yunhe Zhao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qi01520g</guid>
+    </item>
+    <item>
       <title>Mo-Induced Surface Reconstruction in Ni/Co-OOH Prickly Flower Clusters for Improving the Hydrogen Production in Alkaline Seawater Splitting.</title>
       <link>https://doi.org/10.1002/smll.202404858</link>
       <description>Wen Zhang, Jianyang Gao, Qixing Gong, Fusheng Liu, Yang Zhang, Guangrui Xu, Zexing Wu, Lei Wang, PubMed. None(None)] 2024. https://openalex.org/W4402554797
@@ -156,6 +316,26 @@
       <author>Wen Zhang, Jianyang Gao, Qixing Gong, Fusheng Liu, Yang Zhang, Guangrui Xu, Zexing Wu, Lei Wang</author>
       <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202404858</guid>
+    </item>
+    <item>
+      <title>From One-Pot to Powerhouse: Al&#8211;Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Thin Films Coupled with Hexagonal ZnFe LDH for Water Oxidation in Alkaline Environment</title>
+      <link>https://doi.org/10.1021/acsami.4c12180</link>
+      <description>Ardra S. Darsan, P. Devi, P. Murugan, Alagarsamy Pandikumar, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402586343
+
+                As COVID-19 profoundly affected nations worldwide, there was a significant reduction in gas and electricity consumption, contrasting with the surplus production of oil and gas by companies. This situation has ignited a growing interest in researching alternative green fuels. Electrochemical water-splitting has emerged as a promising avenue for advancing the green hydrogen economy. However, the high costs associated with traditional catalysts have hindered the feasibility of this remarkable method on an industrial scale. Here, this study mainly objects to fabricating an efficient, low cost and stable oxygen evolution reaction (OER) catalyst and our focus has been on refining the morphology to enhance activity levels. The optimized one-pot synthesized 15% Al-doped Fe</description>
+      <author>Ardra S. Darsan, P. Devi, P. Murugan, Alagarsamy Pandikumar</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c12180</guid>
+    </item>
+    <item>
+      <title>A Lithium&#8208;Oxygen Battery Exploiting Carbon Nanotubes, Graphene and Gold Catalyst</title>
+      <link>https://doi.org/10.1002/adsu.202400381</link>
+      <description>Stanislav Levchenko, Giacomo Valente, Jusef Hassoun, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4402583165
+
+                Abstract Lithium&#8208;oxygen (Li&#8208;O 2 ) battery is considered a high&#8208;energy alternative to Li&#8208;ion one due its characteristic electrochemical conversion process, with the additional advantage of lower cost and environmental impact. However, this emerging battery still requires an enhancement of stability and lifespan to allow its use as a practical energy storage system. In this work we investigate an electrode material benefitting of multiwalled carbon nanotubes (MWCNTs), few layer graphene (FLG), and gold nano&#8208;powder catalyst to improve the Li&#8208;O 2 battery performances in terms of energy efficiency, cycle life and stability. Morphological, structural, and electrochemical tests indicate that the composite electrode can actually boost the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER), and enhance the Li&#8208;O 2 process reversibility, with a capacity of 1000 mAh g &#8722;1 over 70 cycles. On the other hand, the tests reveal the role of the gold in decreasing the polarization and increasing the cell life. Therefore, the results suggest the combination of carbons with various morphologies as a suitable architecture for hosting the Li&#8208;O 2 reaction products and allowing their reversible reaction. On the other hand, the results highlight the necessity for a better tuning the noble metal characteristics to further enhance the cell performances.</description>
+      <author>Stanislav Levchenko, Giacomo Valente, Jusef Hassoun</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400381</guid>
     </item>
     <item>
       <title>New Nanostructure NiO&#8211;GeSe Core&#8211;Shell/MAPbBr&lt;sub&gt;3&lt;/sub&gt; Solar Cell in Solar Photoelectrochemical Water Splitting: Superior Efficiency Enhancement</title>
@@ -196,6 +376,16 @@
       <author>Hao Chen, Lin Qiu, Hong Wu, Fahui Nie, Yong Liu, Wenping Cao</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/wer.11132</guid>
+    </item>
+    <item>
+      <title>The fate of nitrogen in deep magma oceans</title>
+      <link>https://doi.org/10.31223/x5db0k</link>
+      <description>Ekanshu Mallick, Kelsey B. Prissel, K. Righter, Colin J. Jackson, EarthArXiv (California Digital Library). None(None)] 2024. https://openalex.org/W4402591600
+
+                Nitrogen is important in planetary evolution because it is essential to life and the most abundant element in Earth&#8217;s atmosphere. Here, we investigate how core formation affects the distribution of N within accreting terrestrial planets. We conducted laser-heated diamond anvil cell experiments (LH-DAC) over a wide range of high pressure-temperature-compositional (PTX) conditions (38-103 GPa, 2728-5609 K, -1.95 to -1.03 &#8710;IW, 0.5-3.7 NBO/T) to study nitrogen partitioning in metal-silicate systems. Combining our data with existing low and high PT results, we developed a nitrogen partitioning model applicable from early accretion to extreme PT stages associated with giant impacts. We test the robustness of our model by accurately predicting nitrogen partitioning in a multi-anvil experiment conducted independently at 15 GPa, 2573 K with oxygen fugacity of -2.5 &#8710;IW. Our model shows that increasing pressure, oxygen fugacity, and N concentration in the alloy make nitrogen more siderophile, while increasing temperature, oxygen and silicon contents in the alloy, and the SiO2 content of the silicate melt make nitrogen less siderophile. Application of our model to core formation conditions under oxidized and reduced scenarios suggest that nitrogen can be siderophile or lithophile under low PT conditions but exhibits a neutral partitioning at high PT conditions (&amp;gt; 100 GPa, 5000 K) over a wide range of bulk planet compositions. Using our model, along with partitioning models for S and C, we examine how core formation scenarios can fractionate C/N and S/N ratios in the BSE. Our model suggests that backreaction of volatile rich cores from reduced, smaller impactors (sub-Mars-sized) within deep magma oceans can impart a wide range of C/N and S/N ratios on the magma ocean. We find that the amount of silicate entrainment has a strong control on elemental fractionations imparted to the magma oceans. Elevated C/N and S/N ratios are associated with larger degrees of silicate entrainment, and vice versa. Thus, Earth&#8217;s apparent depletion of N may relate to its volatiles being reprocessed within deep magma oceans, possibly during the end stages of accretion.</description>
+      <author>Ekanshu Mallick, Kelsey B. Prissel, K. Righter, Colin J. Jackson</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31223/x5db0k</guid>
     </item>
   </channel>
 </rss>

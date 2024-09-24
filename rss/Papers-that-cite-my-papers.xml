@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Sep 2024 01:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 01:20:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -20,10 +20,10 @@
     <item>
       <title>Equivariance is essential, local representation is a need: A comprehensive and critical study of machine learning potentials for tobermorite phases</title>
       <link>https://doi.org/10.1016/j.commatsci.2024.113363</link>
-      <description>Keming Zhu, Zhibin Zhang, Computational Materials Science. 246(None)] 2024. https://openalex.org/W4402565410
+      <description>Keming Zhu, Zhijuan Zhang, Computational Materials Science. 246(None)] 2024. https://openalex.org/W4402565410
 
                 No abstract</description>
-      <author>Keming Zhu, Zhibin Zhang</author>
+      <author>Keming Zhu, Zhijuan Zhang</author>
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113363</guid>
     </item>
@@ -36,6 +36,16 @@
       <author>Guanping Wei, Zongchang Mao, Lingli Liu, Tiantian Hao, Ling Zhu, Simin Xu, Xijun Wang, Shaobin Tang</author>
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c09592</guid>
+    </item>
+    <item>
+      <title>Concave Grain Boundaries Stabilized by Boron Segregation for Efficient and Durable Oxygen Reduction</title>
+      <link>https://doi.org/10.1002/adma.202404839</link>
+      <description>Xin Geng, Miquel Vega&#8208;Paredes, Xiaolong Lu, P. Chakraborty, Yue Li, Christina Scheu, Zhenyu Wang, Baptiste Gault, Advanced Materials. None(None)] 2024. https://openalex.org/W4402567530
+
+                Abstract The oxygen reduction reaction (ORR) is a critical process that limits the efficiency of fuel cells and metal&#8208;air batteries due to its slow kinetics, even when catalyzed by platinum (Pt). To reduce Pt usage, enhancing both the specific activity and electrochemically active surface area (ECSA) of Pt catalysts is essential. Here, ultrafine, grain boundary (GB)&#8208;rich Pt nanoparticle assemblies are proposed as efficient ORR catalysts. These nanowires offer a large ECSA and a high density of concave GB sites, which improve specific activity. Atoms at these GB sites exhibit increased coordination and lattice distortion, leading to a favorable reduction in oxygen binding energy and enhanced ORR performance. Furthermore, boron segregation stabilizes these GBs, preserving active sites during catalysis. The resulting boron&#8208;stabilized Pt nanoassemblies demonstrate ORR specific and mass activities of 9.18 mA cm &#8722;2 and 6.40 A mg &#8722;1 Pt (at 0.9 V vs. RHE), surpassing commercial Pt/C catalysts by over 35&#8208;fold, with minimal degradation after 60 000 potential cycles. This approach offers a versatile platform for optimizing the catalytic performance of a wide range of nanoparticle systems.</description>
+      <author>Xin Geng, Miquel Vega&#8208;Paredes, Xiaolong Lu, P. Chakraborty, Yue Li, Christina Scheu, Zhenyu Wang, Baptiste Gault</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202404839</guid>
     </item>
     <item>
       <title>Modulation of catalytic activity of BSCF towards electrochemical oxygen reactions using different synthetic approaches</title>
@@ -56,6 +66,26 @@
       <author>Guan-Ming Chen, Margherita Buraschi, Rashid Al-Heidous, Satyanarayana Bonakala, Fedwa El&#8208;Mellouhi, Clotilde S. Cucinotta</author>
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02283</guid>
+    </item>
+    <item>
+      <title>Structure phase change induced by nonequilibrium effects in molecular-scale junctions</title>
+      <link>https://doi.org/10.1103/physrevb.110.l121405</link>
+      <description>Hao Wang, Kah Meng Yam, Zhuoling Jiang, Na Guo, Chun Zhang, Physical review. B./Physical review. B. 110(12)] 2024. https://openalex.org/W4402576387
+
+                No abstract</description>
+      <author>Hao Wang, Kah Meng Yam, Zhuoling Jiang, Na Guo, Chun Zhang</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.l121405</guid>
+    </item>
+    <item>
+      <title>Enhanced ORR Kinetics and Stability Through Synergy of Pt-Ni Clustering and Porous N-doped C/Ca Aerogel Support</title>
+      <link>https://doi.org/10.1016/j.cep.2024.109999</link>
+      <description>Muhammad Umair Mushtaq, Lin Zhu, Danni Li, Khurram Shahzad Ayub, Zain Abbas, Waqas Qamar Zaman, Ji Yang, Chemical Engineering and Processing - Process Intensification. None(None)] 2024. https://openalex.org/W4402577767
+
+                No abstract</description>
+      <author>Muhammad Umair Mushtaq, Lin Zhu, Danni Li, Khurram Shahzad Ayub, Zain Abbas, Waqas Qamar Zaman, Ji Yang</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cep.2024.109999</guid>
     </item>
     <item>
       <title>Structural, Optical, and Magnetic Studies of Nickel-Doped &#946;-Ga2O3 Monoclinic and Spinel Polycrystalline Powders</title>

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Sep 2024 01:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 01:20:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Alan Carletti, Florian Csarman, Marc&#243; Sola, Gianantonio Battistuzzi, Roland Ludwig, Giulia Di Rocco</author>
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04510</guid>
+    </item>
+    <item>
+      <title>Rhodium-Catalyzed [5 + 1 + 2] Cycloaddition of Yne-3-acyloxy-1,4-enynes (YACEs) and Carbon Monoxide: Reaction Development and Mechanism</title>
+      <link>https://doi.org/10.1021/acscatal.4c04457</link>
+      <description>Qi Cui, Qian Zhang, Bingwen Li, Jin Yi, Qianwei Zhang, Huaiyong Bai, Zhi&#8208;Xiang Yu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402567401
+
+                No abstract</description>
+      <author>Qi Cui, Qian Zhang, Bingwen Li, Jin Yi, Qianwei Zhang, Huaiyong Bai, Zhi&#8208;Xiang Yu</author>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04457</guid>
     </item>
     <item>
       <title>Improved Near-Neutral Hydrogen Evolution Reaction Kinetics through Electrolyte Engineering with the Efficient Hydrogen Source NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;</title>
@@ -36,6 +46,36 @@
       <author>Jun Long, Dong Luan, Xiaoyan Fu, Huan Li, Jianping Xiao</author>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03785</guid>
+    </item>
+    <item>
+      <title>Sub-2 nm Ternary Metallic Alloy Encapsulated within Montmorillonite Interlayers for Efficient Hydrogen Generation from Ammonia Borane Hydrolysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c03380</link>
+      <description>Jiafu Li, Yanran Feng, Xingyun Li, Tianjun Zhang, Xingyun Li, Ning Wang, Qiming Sun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402596151
+
+                No abstract</description>
+      <author>Jiafu Li, Yanran Feng, Xingyun Li, Tianjun Zhang, Xingyun Li, Ning Wang, Qiming Sun</author>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03380</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i018_1847001</link>
+      <description>, ACS Catalysis. 14(18)] 2024. https://openalex.org/W4402689862
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i018_1847001</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i018_1847002</link>
+      <description>, ACS Catalysis. 14(18)] 2024. https://openalex.org/W4402690503
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i018_1847002</guid>
     </item>
   </channel>
 </rss>

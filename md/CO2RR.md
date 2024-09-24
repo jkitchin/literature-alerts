@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Sep 23 01:19:51 2024
+Created on Tue Sep 24 01:20:15 2024
 
-Found 11 results from 2024-09-16 to 2024-09-23
+Found 17 results from 2024-09-17 to 2024-09-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -18,12 +18,23 @@ No abstract
 
     
 
-## Increasing electrochemical carbon dioxide reduction to methane via a novel copper-based conductive metal organic framework   
+## Dynamically Stabilizing Oxygen Atoms in Silver Catalyst for Highly Selective and Durable CO2 Reduction Reaction.   
 
-OpenAlex: https://openalex.org/W4402550001    
+OpenAlex: https://openalex.org/W4402582103    
 Open access: False
     
-[Zhongyu Jing](https://openalex.org/A5045160070), [Wenli Su](https://openalex.org/A5104273139), [Yu Fan](https://openalex.org/A5100744610), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.124.
+[Xin Kong](https://openalex.org/A5101454175), [Yuanxin Mao](https://openalex.org/A5053611579), [Qing Mao](https://openalex.org/A5030089637), [Hongbin Yang](https://openalex.org/A5059627859), [Qi Liu](https://openalex.org/A5034064175), [Xufeng Dong](https://openalex.org/A5041140444), [Yifan Li](https://openalex.org/A5085794085), [Si Zhou](https://openalex.org/A5048114523), PubMed. None(None)] 2024.https://doi.org/10.1002/anie.202410932.
+    
+Oxide derived catalyst displays outstanding catalytic activity and selectivity in electrochemical carbon dioxide reduction reaction (CO2RR), in which, it is found that residue oxygen atoms play a pivotal role in regulating the catalyst's electronic structure and thus the CO2RR process. Unfortunately, the intrinsic thermodynamic instability of oxygen atoms in oxide derived catalyst under cathodic CO2RR potentials makes it unstable during continuous electrolysis, greatly hindering its practical industrial applications. In this work, we develop a pulsed-bias technique that is able to dynamically stabilize the residue oxygen atoms in oxide derived catalyst during electrochemical CO2RR. As a result, the oxide derived catalyst under pulsed bias exhibits super catalytic stability in catalyzing electrochemical CO2RR, while keeping excellent catalytic activity and selectivity.    
+
+    
+
+## Reduction of Co2 Emissions, Climate Damage and the Persistence of Business Cycles: A Model of (De)Coupling   
+
+OpenAlex: https://openalex.org/W4402678188    
+Open access: False
+    
+[Ettore Gallo](https://openalex.org/A5105302131), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4962752.
     
 No abstract    
 
@@ -40,12 +51,12 @@ Background The Indonesian government built the Mass Rapid Transit (MRT) in Jakar
 
     
 
-## Sn-modified Cu nanosheets catalyze CO2 reduction to C2H4 efficiently by stabilizing CO intermediates and promoting C C coupling   
+## Decision letter for "Effect of Cu/Bi ratio on the Photoelectrochemical Performance of CuBi2O4/CuO Nanocomposite Films for CO2 Reduction"   
 
-OpenAlex: https://openalex.org/W4402550081    
+OpenAlex: https://openalex.org/W4402681238    
 Open access: False
     
-[Hongfei Wang](https://openalex.org/A5079077156), [Fusen Zhang](https://openalex.org/A5077887658), [Yang Li](https://openalex.org/A5089939950), [Yingping Pang](https://openalex.org/A5054744038), [Xiqiang Zhao](https://openalex.org/A5100594238), [Zhanlong Song](https://openalex.org/A5028614042), [Wenlong Wang](https://openalex.org/A5100344713), [Jing Sun](https://openalex.org/A5004056151), [Yanpeng Mao](https://openalex.org/A5078703047), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.117.
+, No host. None(None)] 2024.https://doi.org/10.1088/2053-1591/ad7d6e/v1/decision1.
     
 No abstract    
 
@@ -62,6 +73,17 @@ The electrochemical conversion of CO2 into C1 to C2 hydrocarbon such as Methane 
 
     
 
+## Rare Earth Er‐Nd Dual Single‐Atomic Catalysts for Efficient Visible‐light Induced CO2 Reduction to CnH2n+1OH (n=1, 2)   
+
+OpenAlex: https://openalex.org/W4402660435    
+Open access: False
+    
+[Pengyan Li](https://openalex.org/A5052043222), [Zhenhong Qi](https://openalex.org/A5100784845), [Dongpeng Yan](https://openalex.org/A5101809051), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202411000.
+    
+Efficient synthesis of CnH2n+1OH (n=1, 2) via photochemical CO2 reduction holds promise for achieving carbon neutrality but remains challenging. Here, we present rare‐earth dual single atoms (SAs) catalysts containing ErN6 and NdN6 moieties, fabricated via an atom‐confinement and coordination method. The dual Er‐Nd SAs catalysts exhibit unprecedented generation rates of 1761.4 μmol g–1 h–1 and 987.7 μmol g–1 h–1 for CH3CH2OH and CH3OH, respectively. Through a combination of theoretical calculation, X‐ray absorption near edge structural analysis, aberration‐corrected transmission electron microscopy, and in‐situ FT‐IR spectroscopy, we demonstrate that the Er SAs facilitate charge transfer, serving as active centers for C−C bond formation, while Nd SAs provide the necessary *CO for C−C coupling in C2H5OH synthesis under visible light. Furthermore, the experiment and density functional theory calculation elucidate that the variety of electronic states induced by 4f orbitals of the Er SAs and the p−f orbital hybridization of Er−N moieties enable the formation of charge‐transfer channel. Therefore, this study sheds light on the pivotal role of *CO adsorption in achieving efficient conversion from CO2 to CnH2n+1OH (n=1, 2) via a novel rare‐earth‐based dual SAs photocatalysis approach.    
+
+    
+
 ## Electrosynthesis of Methylamine by Co-Reduction of Co2 and No3− with a Series Catalyst Based on O-Doped Metal Phthalocyanine-Porphyrin Two-Dimensional Carbon-Rich Conjugated Framework   
 
 OpenAlex: https://openalex.org/W4402583930    
@@ -73,14 +95,14 @@ No abstract
 
     
 
-## The importance of an informed choice of CO2-equivalence metrics for contrail avoidance   
+## A Comprehensive Review of the Impact of CO2 Emissions on Global Warming and the Potential Using Solar Energy Mitigation   
 
-OpenAlex: https://openalex.org/W4402552629    
+OpenAlex: https://openalex.org/W4402624263    
 Open access: True
     
-[Audran Borella](https://openalex.org/A5064864063), [Oliviér Boucher](https://openalex.org/A5077051671), [Keith P. Shine](https://openalex.org/A5042509503), [Marc Stettler](https://openalex.org/A5022531801), [Katsumasa Tanaka](https://openalex.org/A5033739527), [Roger Teoh](https://openalex.org/A5019349634), [Nicolas Bellouin](https://openalex.org/A5042660117), Atmospheric chemistry and physics. 24(16)] 2024.https://doi.org/10.5194/acp-24-9401-2024.
+, Al Rafidain Journal of Engineering Sciences. None(None)] 2024.https://doi.org/10.61268/et4axz89.
     
-Abstract. One of the proposed ways to reduce the climate impact of civil aviation is rerouting aircraft to minimise the formation of warming contrails. As this strategy may increase fuel consumption, it would only be beneficial if the climate impact reduction from the avoided contrails exceeds the negative impact of any additional carbon dioxide (CO2) emitted by the rerouted flight. In this study, we calculate the surface temperature response of almost half a million flights that crossed the North Atlantic sector in 2019 and compare it to the temperature response of hypothetical rerouted flights. The climate impacts of contrails and CO2 are assessed through the perspective of CO2-equivalence metrics, represented here as nine combinations of different definitions and time horizons. We estimate that the total emitted CO2 and the persistent contrails formed will have warmed the climate by 17.2 µK in 2039, 13.7 µK in 2069, and 14.1 µK in 2119. Under an idealised scenario where 1 % additional carbon dioxide is enough to reroute all contrail-forming flights and avoid contrail formation completely, total warming would decrease by 4.9 (−28 %), 2.6 (−19 %), and 1.9 (−13 %) µK in 2039, 2069, and 2119, respectively. In most rerouting cases, the results based on the nine different CO2-equivalence metrics agree that rerouting leads to a climate benefit, assuming that contrails are avoided as predicted. But the size of that benefit is very dependent on the choice of CO2-equivalence metrics, contrail efficacy and CO2 penalty. Sources of uncertainty not considered here could also heavily influence the perceived benefit. In about 10 % of rerouting cases, the climate damage resulting from contrail avoidance indicated by CO2-equivalence metrics integrated over a 100-year time horizon is not predicted by metrics integrated over a 20-year time horizon. This study highlights, using North Atlantic flights as a case study, the implications of the choice of CO2-equivalence metrics for contrail avoidance, but the choice of metric implies a focus on a specific climate objective, which is ultimately a political decision.    
+Carbon dioxide (CO2) emissions are the principal cause of global warming, a serious environmental issue with far-reaching implications. This extensive assessment investigates the multidimensional influence of CO2 emissions on global warming, looking at both the scientific basis and the possibility for solar energy as a mitigation approach. The evaluation focuses on solar energy's ability to reduce CO2 emissions and combat global warming. It investigates the benefits of solar energy as a clean, renewable, and sustainable source of electricity. The evaluation assesses the current state and future prospects of solar technology, focusing on its cost-effectiveness, scalability, and environmental benefits. Furthermore, the assessment looks at the obstacles and potential connected with solar energy deployment. It emphasizes the importance of legislative assistance, infrastructural development, and technology developments to hasten the transition to solar energy. The evaluation also evaluates the possible synergies between solar energy and other renewable energy sources as part of a comprehensive approach to CO2 emissions reduction. Finally, the assessment highlights the critical necessity for a worldwide response to the climate catastrophe. It advocates for bold and collaborative efforts to cut CO2 emissions and transition to sustainable energy systems, with solar energy playing a critical role. The review is an invaluable resource for policymakers, scientists, and stakeholders interested in the impact of CO2 emissions on global warming and the possibilities of solar energy mitigation    
 
     
 
@@ -95,6 +117,17 @@ Carbon dioxide storage is a technology to separate carbon dioxide gas from the a
 
     
 
+## Governance of carbon dioxide removal: an AI-enhanced systematic map of the scientific literature   
+
+OpenAlex: https://openalex.org/W4402583771    
+Open access: True
+    
+[Sarah Lück](https://openalex.org/A5041797666), [Anna Mohn](https://openalex.org/A5098930976), [William F. Lamb](https://openalex.org/A5002742682), Frontiers in Climate. 6(None)] 2024.https://doi.org/10.3389/fclim.2024.1425971.
+    
+Introduction For limiting global warming to well below 2°C rapid and stringent GHG emissions reductions are required. In addition, we also need to actively remove CO 2 from the atmosphere via carbon dioxide removal (CDR). This will require advances in policymaking and governance to incentivise, coordinate and regulate CDR, including strict monitoring to ensure durable, additional removals that do not compete with emission reduction efforts. While it is critical to learn from the existing evidence on CDR policy and governance, there is no overview of this dispersed body of literature right now. IPCC and other science assessments have therefore treated the subject very selectively. This work addresses this lack of overview by systematically mapping the literature assessing policy and governance dimensions of CDR. Methods Systematic mapping provides a comprehensive view of a research field by analysing the state of evidence, i.e. how much research is available at any point in time on which topics and geographies studied by whom, when and where. We use an AI-enhanced approach to systematic mapping, trimming down an initial set of about 30,000 documents on CDR to a set of 876 that deal with governance and policy issues. Results Our findings show sharply growing attention to CDR policies and governance issues over time, but with limited coverage of the Global South. Long established conventional CDR methods such as afforestation dominate the literatureparticularly in ex-post studies -with little coverage of many novel CDR methods, such as biochar or direct air carbon capture and storage. We observe a shift from an initial discussion on CDR in international agreements towards the planning and implementation phase of national and sub-national policies. Discussion Our map can help to inform upcoming science assessments with critical information around CDR policies and governance and might serve as a starting point for generating a rigorous knowledge base on the topic in the future.    
+
+    
+
 ## Reducing the carbon footprint for a 30-bed haemodialysis unit by changing the delivery of acid concentrate supplied by individual 5 L containers to a central delivery system   
 
 OpenAlex: https://openalex.org/W4402599258    
@@ -103,6 +136,17 @@ Open access: True
 [Gareth Murcutt](https://openalex.org/A5009899542), [Rosie Hillson](https://openalex.org/A5092443799), [Cate Goodlad](https://openalex.org/A5040095014), [Andrew Davenport](https://openalex.org/A5088913338), Journal of Nephrology. None(None)] 2024.https://doi.org/10.1007/s40620-024-02073-9.
     
 Abstract Background Haemodialysis treatments generate greenhouse gas (GHG) emissions mainly as a result of the equipment, consumables and pharmaceuticals required. An internal audit demonstrated a 33% wastage of acid concentrate when using individual 5.0 L containers at a 1:44 dilution ratio. We therefore investigated whether changing the delivery system for acid concentrate would reduce wastage and any associated greenhouse gas emissions. Methods We calculated the difference for a 30-bed dialysis unit between receiving acid concentrate in single-use 5.0 L plastic containers versus bulk delivery for a central acid delivery system connected to the dialysis machines. Estimates of carbon dioxide equivalent (CO 2 e) emissions were made using the United Kingdom government database and other sources. Results A 30-station dialysis unit functioning at maximum capacity (3 shifts and 6 days/week), switching to bulk delivery and central acid delivery could realise an approximate total reduction of 33,841 kgCO 2 e/year; in reduced product wastage, saving 6192 kgCO 2 e, 5205 kgCO 2 e from fewer deliveries, and 22,444 kgCO 2 e saving from a reduction in packaging and waste generated, which equates approximately to a one tonne reduction in CO 2 e emissions per dialysis station/year. Conclusions Switching from delivering acid concentrate in individual 5.0 L containers to a central acid delivery system can result in substantial reductions in CO 2 e emissions within a dialysis clinic. The emission savings from reducing the single-use plastic packaging greatly outweigh any gains from eliminating wastage of acid concentrate. Dialysis companies and clinicians should consider reviewing the design of current and future dialysis facilities and policies to determine whether reductions in CO 2 e emissions can be made. Graphical Abstract    
+
+    
+
+## Ecological and Cost Advantage from the Implementation of Flight Simulation Training Devices for Pilot Training   
+
+OpenAlex: https://openalex.org/W4402597485    
+Open access: True
+    
+[Marta Maciejewska](https://openalex.org/A5084348503), [Paula Kurzawska](https://openalex.org/A5079095941), [Marta Galant](https://openalex.org/A5053615393), [Michał Gołębiewski](https://openalex.org/A5056593935), [Remigiusz Jasiński](https://openalex.org/A5026563754), Applied Sciences. 14(18)] 2024.https://doi.org/10.3390/app14188401.
+    
+The paper discusses a case study of obtaining an airline pilot license in integrated training—the so-called “from zero to Airline Transport Pilot License”. The environmental implications of simulator-based training were examined across multiple dimensions. Key areas of research include the reduction of harmful exhaust gases pollution associated with traditional flight training activities. Based on our analysis, it can be stated that increasing the use of Flight Simulation Training Devices in pilot training should be significant consideration. This approach brings many benefits, especially ecological ones. Changing the training program and increasing the use of flight simulators can result in a reduction of CO2 emissions by up to 70%. Based on country specific electricity factors, CO2 emissions during flight training in each EU country were calculated. Using Levelized Cost of Electricity average value to calculate training costs in EU countries depends on the mix of energy sources (wind, photovoltaics, carbon and gas). The findings highlight the significant ecological advantages of simulator-based training methods in mitigating the environmental footprint of aviation operations. By seeking to minimize environmental disruption and increase training efficiency, the adoption of simulators is a sustainable approach to pilot training that is consistent with global efforts to mitigate climate change and protect natural ecosystems.    
 
     
 
@@ -117,6 +161,17 @@ In 2020, the Covid-19 outbreak led many countries across the globe to introduce 
 
     
 
+## TOWARDS CARBON-NEUTRAL FISH COLD STORAGE: A SUSTAINABLE APPROACH THROUGH RENEWABLE ENERGY   
+
+OpenAlex: https://openalex.org/W4402599936    
+Open access: False
+    
+[João Garcia](https://openalex.org/A5045400920), [Arian Semedo](https://openalex.org/A5098711014), No host. None(None)] 2024.https://doi.org/10.21134/pqcb0040.
+    
+Preserving perishable foods, particularly fish, demands meticulous attention throughout the entire supply chain, from capture to consumption. The critical role of cold storage facilities in maintaining optimal conditions, encompassing temperature and humidity regulation, is indispensable. Nevertheless, these facilities pose a considerable challenge due to their substantial electrical energy consumption, which significantly contributes to operational costs. In addressing this challenge, the implementation of energy-efficient strategies, including the utilization of advanced equipment and real-time monitoring facilitated by automation technologies, becomes imperative. This research investigates an innovative integrated cold storage system situated in Tarrafal, Santiago, Cape Verde, which harmoniously incorporates wind, solar, and tidal energy sources. The primary objectives are to evaluate the energy efficiency, financial viability, and environmental impact across four distinct hypothesis. Hypothesis 1 entails the deployment of two R134a refrigeration units powered by the conventional public grid, while Hypothesis 2 adopts a transcritical CO2 system reliant on grid electricity, Hypothesis 3 integrates CO2 technology with autonomous renewable energy sources and Hypothesis 4 leverages CO2 for refrigeration coupled with seawater heat exchange and autonomous renewable energy generation. The research findings strongly favor Hypothesis 4, demonstrating emissions of 15880 kg CO2eq with an impressive 5-year return on investment. The autonomous electricity production associated with this hypothesis markedly reduces emissions by more than 90%. Despite an initial higher investment, Hypothesis 3 showcases financial viability, contributing significantly to long-term energy sustainability. The autonomous energy production in this scenario results in a noteworthy reduction of more than 600000 kgCO2 compared to conventional systems, underscoring the positive impact of integrating local renewable energy sources.    
+
+    
+
 ## Investigation of Plug-In Hybrid Light Duty Commercial Vehicle in Real-World Conditions by Simulation   
 
 OpenAlex: https://openalex.org/W4402588401    
@@ -125,5 +180,16 @@ Open access: False
 [Ezio Mancaruso](https://openalex.org/A5073768559), [Giovanni Meccariello](https://openalex.org/A5083501499), [Simona Rossetti](https://openalex.org/A5022004944), SAE technical papers on CD-ROM/SAE technical paper series. 1(None)] 2024.https://doi.org/10.4271/2024-24-0016.
     
 <div class="section abstract"><div class="htmlview paragraph">Light commercial vehicles are an indispensable element for the transport of people and the delivery of goods, especially on extra-urban and long-distance routes. With a view to sustainable mobility, it is necessary to think about hybridizing these vehicles to reduce the fuel consumption as well as greenhouse gas emissions and particulate matter. These types of vehicles are generally powered by diesel and travel many kilometers a day. On the other hand, the use of light commercial vehicles in battery electric vehicle (BEV) configuration has already been started but is not receiving widespread recognition. In this panorama, starting from a study already developed for the hybridization of a plug-in light commercial vehicle in Worldwide harmonized Light vehicles Test Cycle (WLTC) condition, the simulation analysis has been extended to the plug-in hybrid vehicle (PHEV) operating in real driving emission conditions (RDE). In particular, using Advisor software, a vehicle has been simulated in different plug-in hybrid configurations. The software has been validated with real operation data of a euro 6 diesel engine. The general hypothesis underlying the research consists in the possibility of using these vehicles in totally electric mode in the city and in hybrid mode outside urban centers; with the aim of reducing polluting emissions in populated city but completing the delivery mission during all phases of vehicle operation. The PHEV simulations have been performed on both WLTC and RDE condition. In the latter mode, particular attention has been devoted to the interpretation of data from GPS sensor: like the slope of the route or the presence of tunnels. The success of the simulation depends on a correct and careful reconstruction of the GPS data. Three vehicles with different hybridization factors have been simulated: 0.44, 0.56, and 0.67, respectively, with power equal to that of the base vehicle. The battery packs have been sized for the three hybrid vehicles and simulations were carried out in both Charge Depleting and Charge Sustaining configuration. In charge depleting for the highest hybrid configuration (HF=0.66), the results demonstrate that a reduction of up to 80% and 76% in fuel can be saved While a reduction up to 75% and 45% in NOx emissions can be achieved on WLTC and RDE cycle, respectively. On the other hand, when the battery is discharged, for HF=0.67, although consumption can be reduced by up to 45%, NOx emissions also increase by 183% even if ICE operation mode has to be better optimize for hybrid operation. Finally, even if the hybrid solutions is really convenient if compared to the conventional vehicle in terms of fuel savings and NOx pollutant emissions, about a realistic estimation of the CO2 reduction that can be achieved the use of electrical energy must be take into account.</div></div>    
+
+    
+
+## Advanced Engineering Tools and Methodologies to Develop Fuel-Efficient and Zero-Impact H <sub>2</sub> Engines for On- and Off-Highway Installations   
+
+OpenAlex: https://openalex.org/W4402588370    
+Open access: False
+    
+[Thomas Koerfer](https://openalex.org/A5054965633), SAE technical papers on CD-ROM/SAE technical paper series. 1(None)] 2024.https://doi.org/10.4271/2024-24-0010.
+    
+<div class="section abstract"><div class="htmlview paragraph">The worldwide markets around the globe endure far from meeting the originally arranged primary objective outlined under the Paris Agreement on climate change in 2015: mitigating greenhouse gas (GHG) emissions to retain global average temperature rise to well below 2°C by 2100 and making every effort to stay below a 1.5°C elevation of the average temperature. Today’s emissions are rebounding from an intermediate decline during the economic downturn related to the implications coming from Covid-19 pandemic. To get back on track with the realization of the targets of the Paris Agreement, research suggests that GHG emissions should be reduced by approx. 50% by 2030 on a guiding trajectory to reach net zero by around mid-century. Although these objectives are all averaged global targets, every sector and country/market need to participate, especially prosperous and more developed countries bear in general the higher responsibility to act.</div><div class="htmlview paragraph">In 2020 direct tailpipe emissions from transport represented around 8 GtC02e, or approx. 15% of overall GHG emissions. This number elevates to nearly 10 GtC02e, if indirect emissions from electricity and fuel supply are added, accumulating to a total amount of roughly 18%. Following the latest tendency, direct and indirect emissions in transport could reach above 11 GtCOeq by 2050. Roughly 3/4 of transport emissions are related to land-based passenger and freight road transport. Emissions from aviation and marine transport account for the remaining 24% of the 2020 emissions. Efficiency enhancement and fuel change, including electrification, allow scaled emissions mitigation in the central scenario, and sustained action will be needed to ensure that by 2030 emissions are reduced by roughly 27% from 2020 levels. Reductions are foreseen to reach nearly 78% by 2050. When indirect emissions are included, transportation provides the opportunity to eliminate around 9.4 GtCOeq of emissions by 2050 (7 GtC02eq direct and 2.4 GtC02eq indirect), or around 13% of total mitigation.</div><div class="htmlview paragraph">In this context, carbon neutrality imposes substantial changes in our energy mix. Hydrogen (H2) is in this mainstream scenario considered to take a key role as a carbon-free and versatile energy carrier. Combustion of hydrogen in an ICE offers the potential to accelerate the introduction of carbon-neutral mobility in the short to medium term at competitive cost due to the utilization of well-proven and mature technology elements. Given the high technological maturity of internal combustion engines (ICEs), there is an increasing interest in ICEs powered by hydrogen as a CO2-free solution for all kinds of vehicles and applications, incl. racing. Depending on the application functional parameters differ in the ranking between power output, efficiency, and reliability, besides the efforts for the conversion for changing the fuel type.</div><div class="htmlview paragraph">The major intention and aim of this paper is given by the identification and description of the major modification and adaptation needs for the conversion of a classical Diesel engine towards hydrogen operation in order to pave the fast way forward to carbon-neutral propulsion systems in the mobility sector. The detailed content of this publication displays the necessary engineering steps and provides an orientation for the utilization of an advanced toolchain to successfully convert existing mature engines straightforward and effectively into high-efficiency H2 operation with ultra-low tailpipe emission behavior according to the targeted specifications, incl. high performance attributes. It is especially foreseen to pinpoint the major hurdles and obstacles during the engine conversion process from conventional fuel usage to hydrogen operation.</div><div class="htmlview paragraph">The paper closes with a compiling overview and examples of realized achievements, before summarizing the intention and motivation for the publication.</div></div>    
 
     
