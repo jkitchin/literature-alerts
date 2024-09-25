@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Sep 24 01:20:19 2024
+Created on Wed Sep 25 01:21:07 2024
 
-Found 7 results from 2024-09-17 to 2024-09-24
+Found 7 results from 2024-09-18 to 2024-09-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 

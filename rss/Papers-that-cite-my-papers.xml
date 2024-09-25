@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Sep 2024 01:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 01:21:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -96,16 +96,6 @@
       <author>A. R. Suresh Babu, N. Madhusudhana Rao</author>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11664-024-11452-8</guid>
-    </item>
-    <item>
-      <title>Hydrogen spillover enhances the selective hydrogenation of &#945;,&#946;-unsaturated aldehydes on the Cu-O-Ce interface</title>
-      <link>https://doi.org/10.1016/j.cjsc.2024.100438</link>
-      <description>Jinyun Cui, Jing Wang, Teng Xu, Jiabao Lin, Kunlong Liu, Pengxin Liu, Chinese Journal of Structural Chemistry. None(None)] 2024. https://openalex.org/W4402557608
-
-                No abstract</description>
-      <author>Jinyun Cui, Jing Wang, Teng Xu, Jiabao Lin, Kunlong Liu, Pengxin Liu</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100438</guid>
     </item>
   </channel>
 </rss>
