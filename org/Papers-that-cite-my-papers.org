@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Wed Sep 25 01:21:19 2024
+Created on Thu Sep 26 01:19:37 2024
 
-Found 9 results from 2024-09-18 to 2024-09-25
+Found 4 results from 2024-09-19 to 2024-09-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092]]
@@ -16,174 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2271640571%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Electrochemical Direct Methane to Methanol  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402559239
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-15740-0.00130-0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402559239"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402559239"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402559239"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402559239 (Open access: False)
-    
-[[https://openalex.org/A5106388994][Ebrahim Ghanbari]], [[https://openalex.org/A5063415111][Mohammad Reza Rahimpour]], Elsevier eBooks. None(None)] 2024. https://doi.org/10.1016/b978-0-443-15740-0.00130-0 
-     
-No abstract    
-
-    
-
-* Equivariance is essential, local representation is a need: A comprehensive and critical study of machine learning potentials for tobermorite phases  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402565410
-:TOPICS: Accelerating Materials Innovation through Informatics, Powder Diffraction Analysis, Neutron Imaging and Analysis Techniques
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.commatsci.2024.113363")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402565410"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402565410"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402565410"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402565410 (Open access: False)
-    
-[[https://openalex.org/A5100020653][Keming Zhu]], [[https://openalex.org/A5088334342][Zhijuan Zhang]], Computational Materials Science. 246(None)] 2024. https://doi.org/10.1016/j.commatsci.2024.113363 
-     
-No abstract    
-
-    
-
-* Rigidly Axial O Coordination-Induced Spin Polarization on Single Ni–N4–C Site by MXene Coupling for Boosting Electrochemical CO2 Reduction to CO  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402567430
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Lithium-ion Battery Technology
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c09592")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402567430"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402567430"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402567430"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402567430 (Open access: False)
-    
-[[https://openalex.org/A5102544582][Guanping Wei]], [[https://openalex.org/A5106266841][Zongchang Mao]], [[https://openalex.org/A5101537081][Lingli Liu]], [[https://openalex.org/A5101142410][Tiantian Hao]], [[https://openalex.org/A5044320806][Ling Zhu]], [[https://openalex.org/A5033474784][Simin Xu]], [[https://openalex.org/A5053465205][Xijun Wang]], [[https://openalex.org/A5071613190][Shaobin Tang]], ACS Applied Materials & Interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.4c09592 
-     
-Regulating the spin states in transition-metal (TM)-based single-atom catalysts (SACs), such as the TM-N    
-
-    
-
-* Concave Grain Boundaries Stabilized by Boron Segregation for Efficient and Durable Oxygen Reduction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402567530
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Lithium Battery Technologies
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adma.202404839")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402567530"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402567530"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402567530"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402567530 (Open access: True)
-    
-[[https://openalex.org/A5103891345][Xin Geng]], [[https://openalex.org/A5034762411][Miquel Vega‐Paredes]], [[https://openalex.org/A5107299544][Xiaolong Lu]], [[https://openalex.org/A5003280973][P. Chakraborty]], [[https://openalex.org/A5051325364][Yue Li]], [[https://openalex.org/A5087818652][Christina Scheu]], [[https://openalex.org/A5034632101][Zhenyu Wang]], [[https://openalex.org/A5086156055][Baptiste Gault]], Advanced Materials. None(None)] 2024. https://doi.org/10.1002/adma.202404839 
-     
-Abstract The oxygen reduction reaction (ORR) is a critical process that limits the efficiency of fuel cells and metal‐air batteries due to its slow kinetics, even when catalyzed by platinum (Pt). To reduce Pt usage, enhancing both the specific activity and electrochemically active surface area (ECSA) of Pt catalysts is essential. Here, ultrafine, grain boundary (GB)‐rich Pt nanoparticle assemblies are proposed as efficient ORR catalysts. These nanowires offer a large ECSA and a high density of concave GB sites, which improve specific activity. Atoms at these GB sites exhibit increased coordination and lattice distortion, leading to a favorable reduction in oxygen binding energy and enhanced ORR performance. Furthermore, boron segregation stabilizes these GBs, preserving active sites during catalysis. The resulting boron‐stabilized Pt nanoassemblies demonstrate ORR specific and mass activities of 9.18 mA cm −2 and 6.40 A mg −1 Pt (at 0.9 V vs. RHE), surpassing commercial Pt/C catalysts by over 35‐fold, with minimal degradation after 60 000 potential cycles. This approach offers a versatile platform for optimizing the catalytic performance of a wide range of nanoparticle systems.    
-
-    
-
-* Modulation of catalytic activity of BSCF towards electrochemical oxygen reactions using different synthetic approaches  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402568572
-:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.09.138")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402568572"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402568572"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402568572"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402568572 (Open access: False)
-    
-[[https://openalex.org/A5045576247][Sachin Bhagat]], [[https://openalex.org/A5085652067][Nandita Singh]], [[https://openalex.org/A5101707351][Monika Singh]], [[https://openalex.org/A5035021700][Ashish Kumar Singh]], [[https://openalex.org/A5075153838][Suryabhan Singh]], [[https://openalex.org/A5049948393][Uday Pratap Azad]], [[https://openalex.org/A5044615009][Akhilesh Kumar Singh]], International Journal of Hydrogen Energy. 88(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.09.138 
-     
-No abstract    
-
-    
-
-* Efficient and Selective Electrochemical CO2 to Formic Acid Conversion: A First-Principles Study of Single-Atom and Dual-Atom Catalysts on Tin Disulfide Monolayers  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402573649
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c02283")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402573649"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402573649"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402573649"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402573649 (Open access: True)
-    
-[[https://openalex.org/A5068862389][Guan-Ming Chen]], [[https://openalex.org/A5004893218][Margherita Buraschi]], [[https://openalex.org/A5094186739][Rashid Al-Heidous]], [[https://openalex.org/A5037629153][Satyanarayana Bonakala]], [[https://openalex.org/A5038108143][Fedwa El‐Mellouhi]], [[https://openalex.org/A5045301145][Clotilde S. Cucinotta]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c02283 
-     
-No abstract    
-
-    
-
-* Structure phase change induced by nonequilibrium effects in molecular-scale junctions  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402576387
-:TOPICS: Molecular Electronic Devices and Systems, Semiconductor Spintronics and Quantum Computing, Dynamics of Synchronization in Complex Networks
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1103/physrevb.110.l121405")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402576387"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402576387"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402576387"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402576387 (Open access: False)
-    
-[[https://openalex.org/A5100667659][Hao Wang]], [[https://openalex.org/A5055767857][Kah Meng Yam]], [[https://openalex.org/A5075154837][Zhuoling Jiang]], [[https://openalex.org/A5078364103][Na Guo]], [[https://openalex.org/A5100763540][Chun Zhang]], Physical review. B./Physical review. B. 110(12)] 2024. https://doi.org/10.1103/physrevb.110.l121405 
-     
-No abstract    
-
-    
-
-* Enhanced ORR Kinetics and Stability Through Synergy of Pt-Ni Clustering and Porous N-doped C/Ca Aerogel Support  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402577767
-:TOPICS: Materials for Electrochemical Supercapacitors, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cep.2024.109999")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402577767"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402577767"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402577767"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402577767 (Open access: False)
-    
-[[https://openalex.org/A5041882264][Muhammad Umair Mushtaq]], [[https://openalex.org/A5106130619][Lin Zhu]], [[https://openalex.org/A5100664693][Danni Li]], [[https://openalex.org/A5017637059][Khurram Shahzad Ayub]], [[https://openalex.org/A5030436586][Zain Abbas]], [[https://openalex.org/A5060774752][Waqas Qamar Zaman]], [[https://openalex.org/A5045154172][Ji Yang]], Chemical Engineering and Processing - Process Intensification. None(None)] 2024. https://doi.org/10.1016/j.cep.2024.109999 
-     
-No abstract    
-
-    
 
 * Structural, Optical, and Magnetic Studies of Nickel-Doped β-Ga2O3 Monoclinic and Spinel Polycrystalline Powders  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -203,5 +35,68 @@ OpenAlex: https://openalex.org/W4402592270 (Open access: False)
 [[https://openalex.org/A5044389273][A. R. Suresh Babu]], [[https://openalex.org/A5063645802][N. Madhusudhana Rao]], Journal of Electronic Materials. None(None)] 2024. https://doi.org/10.1007/s11664-024-11452-8 
      
 No abstract    
+
+    
+
+* Acid oxygen evolution reaction: Mechanisms, design principles, and prospects for application in membrane electrodes  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402654330
+:TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-09-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.155901")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402654330"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402654330"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402654330"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402654330 (Open access: False)
+    
+[[https://openalex.org/A5100364703][Zhao Liu]], [[https://openalex.org/A5100360033][Xiaoxia Wang]], [[https://openalex.org/A5012698401][Guanqun Xie]], [[https://openalex.org/A5041883522][Junjie Ge]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.155901 
+     
+No abstract    
+
+    
+
+* Exploring and Elucidating the CO2 Reduction Mechanisms on the Surface of Two-Dimensional Nitrogen-Vacancy (VN) Hexagonal Boron Nitride  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402741616
+:TOPICS: Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-09-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.energyfuels.4c02168")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402741616"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402741616"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402741616"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402741616 (Open access: False)
+    
+[[https://openalex.org/A5083060018][Lokesh Yadav]], [[https://openalex.org/A5062176232][Srimanta Pakhira]], Energy & Fuels. None(None)] 2024. https://doi.org/10.1021/acs.energyfuels.4c02168 
+     
+No abstract    
+
+    
+
+* LOS NANOMETALES  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402720219
+:TOPICS: Synthesis and Properties of Boron-based Materials, Diamond Nanotechnology and Applications, Carbon Nanotubes and their Applications
+:PUBLICATION_DATE: 2015-05-27
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.17533/udea.rcm.22872")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402720219"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402720219"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402720219"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402720219 (Open access: False)
+    
+[[https://openalex.org/A5107454899][Asdrúbal Valencia Giraldo]], Revista Colombiana de Materiales. None(6)] 2015. https://doi.org/10.17533/udea.rcm.22872 
+     
+.    
 
     

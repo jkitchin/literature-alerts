@@ -1,73 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Sep 25 01:21:07 2024
+Created on Thu Sep 26 01:19:25 2024
 
-Found 7 results from 2024-09-18 to 2024-09-25
+Found 4 results from 2024-09-19 to 2024-09-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Kinetic and Substrate Specificity Determination of Bacterial LPMOs  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402566481
-:TOPICS: Biodegradable Polymers as Biomaterials and Packaging, Fate and Effects of Surfactants in the Environment, Enzyme Immobilization Techniques
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04510")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402566481"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402566481"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402566481"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402566481 (Open access: False)
-    
-[[https://openalex.org/A5040585362][Alan Carletti]], [[https://openalex.org/A5011056508][Florian Csarman]], [[https://openalex.org/A5050529895][Marcó Sola]], [[https://openalex.org/A5023599155][Gianantonio Battistuzzi]], [[https://openalex.org/A5044352119][Roland Ludwig]], [[https://openalex.org/A5068179321][Giulia Di Rocco]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04510 
-     
-No abstract    
-
-    
-
-* Rhodium-Catalyzed [5 + 1 + 2] Cycloaddition of Yne-3-acyloxy-1,4-enynes (YACEs) and Carbon Monoxide: Reaction Development and Mechanism  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402567401
-:TOPICS: Gold Catalysis in Organic Synthesis, Transition Metal Catalysis, Transition-Metal-Catalyzed C–H Bond Functionalization
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04457")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402567401"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402567401"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402567401"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402567401 (Open access: False)
-    
-[[https://openalex.org/A5101734738][Qi Cui]], [[https://openalex.org/A5101742243][Qian Zhang]], [[https://openalex.org/A5049213804][Bingwen Li]], [[https://openalex.org/A5014513107][Jin Yi]], [[https://openalex.org/A5101980540][Qianwei Zhang]], [[https://openalex.org/A5017967474][Huaiyong Bai]], [[https://openalex.org/A5091670837][Zhi‐Xiang Yu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04457 
-     
-No abstract    
-
-    
-
-* Improved Near-Neutral Hydrogen Evolution Reaction Kinetics through Electrolyte Engineering with the Efficient Hydrogen Source NH4+  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402570018
-:TOPICS: Electrocatalysis for Energy Conversion, Materials and Methods for Hydrogen Storage, Ammonia Synthesis and Electrocatalysis
-:PUBLICATION_DATE: 2024-09-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04048")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402570018"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402570018"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402570018"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402570018 (Open access: False)
-    
-[[https://openalex.org/A5082712452][Huang Xy]], [[https://openalex.org/A5078244852][Junjie Xu]], [[https://openalex.org/A5067333581][Xuefei Xu]], [[https://openalex.org/A5100645207][Shujuan Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04048 
-     
-No abstract    
-
-    
 
 * Theoretical Design of the Electrocatalytic Urea Synthesis from Carbon Dioxide and Nitric Oxides  :ACS_Catalysis:
 :PROPERTIES:

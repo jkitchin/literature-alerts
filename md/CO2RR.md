@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Wed Sep 25 01:21:05 2024
+Created on Thu Sep 26 01:19:24 2024
 
-Found 17 results from 2024-09-18 to 2024-09-25
+Found 14 results from 2024-09-19 to 2024-09-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -18,17 +18,6 @@ No abstract
 
     
 
-## Dynamically Stabilizing Oxygen Atoms in Silver Catalyst for Highly Selective and Durable CO2 Reduction Reaction.   
-
-OpenAlex: https://openalex.org/W4402582103    
-Open access: False
-    
-[Xin Kong](https://openalex.org/A5101454175), [Yuanxin Mao](https://openalex.org/A5053611579), [Qing Mao](https://openalex.org/A5030089637), [Hongbin Yang](https://openalex.org/A5059627859), [Qi Liu](https://openalex.org/A5034064175), [Xufeng Dong](https://openalex.org/A5041140444), [Yifan Li](https://openalex.org/A5085794085), [Si Zhou](https://openalex.org/A5048114523), PubMed. None(None)] 2024.https://doi.org/10.1002/anie.202410932.
-    
-Oxide derived catalyst displays outstanding catalytic activity and selectivity in electrochemical carbon dioxide reduction reaction (CO2RR), in which, it is found that residue oxygen atoms play a pivotal role in regulating the catalyst's electronic structure and thus the CO2RR process. Unfortunately, the intrinsic thermodynamic instability of oxygen atoms in oxide derived catalyst under cathodic CO2RR potentials makes it unstable during continuous electrolysis, greatly hindering its practical industrial applications. In this work, we develop a pulsed-bias technique that is able to dynamically stabilize the residue oxygen atoms in oxide derived catalyst during electrochemical CO2RR. As a result, the oxide derived catalyst under pulsed bias exhibits super catalytic stability in catalyzing electrochemical CO2RR, while keeping excellent catalytic activity and selectivity.    
-
-    
-
 ## Reduction of Co2 Emissions, Climate Damage and the Persistence of Business Cycles: A Model of (De)Coupling   
 
 OpenAlex: https://openalex.org/W4402678188    
@@ -37,17 +26,6 @@ Open access: False
 [Ettore Gallo](https://openalex.org/A5105302131), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4962752.
     
 No abstract    
-
-    
-
-## Simplification of clean development mechanism to measure CO2 emission reductions from shifting private transportation to mass rapid transit: a case study of MRT Jakarta Phase 1   
-
-OpenAlex: https://openalex.org/W4402579361    
-Open access: True
-    
-[Nunuj Nurdjanah](https://openalex.org/A5080448160), [Tri Edhi Budhi Soesilo](https://openalex.org/A5029020060), [K. Mizuno](https://openalex.org/A5018784186), [Raldi Hendro Koestoer](https://openalex.org/A5065712094), F1000Research. 13(None)] 2024.https://doi.org/10.12688/f1000research.155406.1.
-    
-Background The Indonesian government built the Mass Rapid Transit (MRT) in Jakarta to reduce traffic congestion and carbon dioxide (CO2) emissions. The objective of this study is to estimate the CO2 emissions reductions from switching from private transport to MRT by using a methodology proposed by the United Nations Convention on Climate Change (UNFCCC) for developing countries, namely the Clean Development Mechanism (CDM) methodology, which generates Certified Emission Reductions (CERs). This methodology is more comprehensive than other available methodologies. However, this method has not been widely used to calculate greenhouse gas (GHG) emission reductions in mass transit projects because it is complex enough to require a lot of data based on primary surveys. Therefore, this research simplifies the CDM formula to make it easier and applicable in Indonesia. Methods The primary data were collected using a questionnaire distributed to 480 MRT Jakarta Phase 1 user respondents in September 2019 (baseline); the secondary data were obtained from The MRT Jakarta. The data were processed using IBM SPSS Statistics 27. The simplified Clean Development Mechanism Approved Consolidated Methodology 0016 (CDM ACM 0016) was the analysis method used. Result The results of this study indicate that 53.75% of MRT Jakarta Phase 1 users are shifting from private transportation, which has reduced CO2 emissions by 2,732.7 tons in 2019 and 6,043.9 tons in 2023. Increasing the number of MRT passengers who switch from private transportation will further reduce CO2 emissions. Conclusion and implications The simplified CDM ACM 0016 formula may be suitable for use in Indonesia. This would enable the measurement of CO2 emission reductions through mitigation actions through MRT development to be certified by the UNFCCC. Applying this method in calculating CO2 emission reductions, implementing strategies to increase MRT passengers, and using renewable energy electricity sources would increase CO2 emission reductions.    
 
     
 
@@ -62,17 +40,6 @@ No abstract
 
     
 
-## Boosting Ethylene Yield via Synergistic 2D/0D Nanostructured VCu Layered Double Hydroxide/TiO2 Catalyst in Electrochemical CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4402578037    
-Open access: True
-    
-[Sneha Lavate](https://openalex.org/A5020344184), [Rohit Srivastava](https://openalex.org/A5070013777), Energy Advances. None(None)] 2024.https://doi.org/10.1039/d4ya00417e.
-    
-The electrochemical conversion of CO2 into C1 to C2 hydrocarbon such as Methane and ethylene is a promising pathway towards to achieve net zero however due to high activation barrier...    
-
-    
-
 ## Rare Earth Er‐Nd Dual Single‐Atomic Catalysts for Efficient Visible‐light Induced CO2 Reduction to CnH2n+1OH (n=1, 2)   
 
 OpenAlex: https://openalex.org/W4402660435    
@@ -84,14 +51,14 @@ Efficient synthesis of CnH2n+1OH (n=1, 2) via photochemical CO2 reduction holds 
 
     
 
-## Electrosynthesis of Methylamine by Co-Reduction of Co2 and No3− with a Series Catalyst Based on O-Doped Metal Phthalocyanine-Porphyrin Two-Dimensional Carbon-Rich Conjugated Framework   
+## The Geochemical imaging Technique for CO2 Monitoring in the Saline Aquifer of Krechba Field Algeria   
 
-OpenAlex: https://openalex.org/W4402583930    
+OpenAlex: https://openalex.org/W4402752359    
 Open access: False
     
-[Fengling Luo](https://openalex.org/A5100526482), [Li Wang](https://openalex.org/A5100322864), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4958584.
+[Zeboudj Fayçal](https://openalex.org/A5009394185), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-5122014/v1.
     
-No abstract    
+Abstract As part of the reduction and elimination of anthropogenic emissions, carbon capture, and storage (CCS) has been applied in recent decades. One option for reducing greenhouse gas emissions GHG is to store carbon dioxide CO2 in deep saline aquifers. Due to their abundance and large capacity, deep saline aquifers make excellent storage sites due to their potential for long-term sequestration. In early 2006, in Salah Gas Krechba field in Algeria became the world's first onshore saline aquifer to begin sequestration. This paper will focus on new insights into surface CO2 monitoring. We will discuss the introduction of geochemical imaging as an emerging surface technique to monitor CO2, recently adopted to investigate and detect tracer gases leaks injected in 2007 from neighboring wells and the cap rock. In the following few pages, we will summarize the geochemical imaging survey process from the implementation design, samples signature measurement to chemical analysis using the sophisticated statistical geo-chemical methods in the final interpretation stage. As a conclusion, the comprehensive analysis of the geochemical data has allowed the Krechba team to investigate the CO2 leakage areas in the field and demonstrates to be an efficient valuable, and accurate method for CO2 monitoring    
 
     
 
@@ -106,25 +73,14 @@ Carbon dioxide (CO2) emissions are the principal cause of global warming, a seri
 
     
 
-## Carbon dioxide sequestration in brackish water: Principles, techniques and environmental benefits   
+## Experimental investigation of emissions from a single-cylinder diesel engine using methanol–diesel blends   
 
-OpenAlex: https://openalex.org/W4402576747    
-Open access: False
-    
-[Zuhong Gong](https://openalex.org/A5107289125), Science and Technology of Engineering Chemistry and Environmental Protection. 1(6)] 2024.https://doi.org/10.61173/1njx1r03.
-    
-Carbon dioxide storage is a technology to separate carbon dioxide gas from the atmosphere and inject it into the brackish water layer to achieve the purpose of carbon dioxide emission reduction. In this way, carbon dioxide is dissolved in salt water and then sequestered in deep underground water layers, preventing it from being released into the atmosphere and causing a greenhouse effect. This technology can effectively reduce carbon dioxide emissions, but also can use geological structures for storage, has great potential application prospects. It is important to note that further research and practice is needed to address possible environmental risks and costs.    
-
-    
-
-## Governance of carbon dioxide removal: an AI-enhanced systematic map of the scientific literature   
-
-OpenAlex: https://openalex.org/W4402583771    
+OpenAlex: https://openalex.org/W4402722556    
 Open access: True
     
-[Sarah Lück](https://openalex.org/A5041797666), [Anna Mohn](https://openalex.org/A5098930976), [William F. Lamb](https://openalex.org/A5002742682), Frontiers in Climate. 6(None)] 2024.https://doi.org/10.3389/fclim.2024.1425971.
+[Mohammed Qays Kadhim](https://openalex.org/A5099589609), [P. P. Oshchepkov](https://openalex.org/A5024861937), Frontiers in Energy Research. 12(None)] 2024.https://doi.org/10.3389/fenrg.2024.1449652.
     
-Introduction For limiting global warming to well below 2°C rapid and stringent GHG emissions reductions are required. In addition, we also need to actively remove CO 2 from the atmosphere via carbon dioxide removal (CDR). This will require advances in policymaking and governance to incentivise, coordinate and regulate CDR, including strict monitoring to ensure durable, additional removals that do not compete with emission reduction efforts. While it is critical to learn from the existing evidence on CDR policy and governance, there is no overview of this dispersed body of literature right now. IPCC and other science assessments have therefore treated the subject very selectively. This work addresses this lack of overview by systematically mapping the literature assessing policy and governance dimensions of CDR. Methods Systematic mapping provides a comprehensive view of a research field by analysing the state of evidence, i.e. how much research is available at any point in time on which topics and geographies studied by whom, when and where. We use an AI-enhanced approach to systematic mapping, trimming down an initial set of about 30,000 documents on CDR to a set of 876 that deal with governance and policy issues. Results Our findings show sharply growing attention to CDR policies and governance issues over time, but with limited coverage of the Global South. Long established conventional CDR methods such as afforestation dominate the literatureparticularly in ex-post studies -with little coverage of many novel CDR methods, such as biochar or direct air carbon capture and storage. We observe a shift from an initial discussion on CDR in international agreements towards the planning and implementation phase of national and sub-national policies. Discussion Our map can help to inform upcoming science assessments with critical information around CDR policies and governance and might serve as a starting point for generating a rigorous knowledge base on the topic in the future.    
+This study examines the effects of methanol–diesel blends on the emissions of a diesel engine, concentrating on carbon monoxide (CO), carbon dioxide (CO 2 ), nitrogen oxides (NOx), hydrocarbons (HCs), and particulate matter (PM). Using a single-cylinder four-stroke diesel engine at varying torque settings (2 N m–6 N m), significant reductions in CO, CO 2 , HC, and PM emissions were observed with increasing methanol content. CO emissions reduced by up to 81.8%, CO 2 by up to 64.2%, HC by up to 80.4%, and PM by up to 23.5% with the MD11 blend. NOx emissions initially increased but decreased by up to 20% at higher torques with the same blend. These results highlight the environmental benefits of methanol–diesel blends and the need for effective NOx reduction strategies.    
 
     
 
@@ -150,17 +106,6 @@ The paper discusses a case study of obtaining an airline pilot license in integr
 
     
 
-## Trends in CO, CO<sub>2</sub>, CH<sub>4</sub>, BC, and NO<sub>x </sub>during the first 2020 COVID-19 lockdown: source insights from the WMO/GAW station of Lamezia Terme (Calabria, Southern Italy)   
-
-OpenAlex: https://openalex.org/W4402559566    
-Open access: True
-    
-[Francesco D’Amico](https://openalex.org/A5101916131), [Ivano Ammoscato](https://openalex.org/A5085477448), [Daniel Gullì](https://openalex.org/A5037863048), [Elenio Avolio](https://openalex.org/A5003696483), [Teresa Lo Feudo](https://openalex.org/A5019248420), [Mariafrancesca De Pino](https://openalex.org/A5079518186), [Paolo Cristofanelli](https://openalex.org/A5013159030), [Luana Malacaria](https://openalex.org/A5099128770), [Domenico Parise](https://openalex.org/A5099128771), [Salvatore Sinopoli](https://openalex.org/A5102811601), [Giorgia De Benedetto](https://openalex.org/A5104971933), [Claudia Roberta Calidonna](https://openalex.org/A5002083226), No host. None(None)] 2024.https://doi.org/10.20944/preprints202409.0915.v2.
-    
-In 2020, the Covid-19 outbreak led many countries across the globe to introduce lockdowns (LDs) that effectively caused most anthropic activities to either stop completely or be significantly reduced. In Europe, Italy played a pioneeristic role via the early introduction of a strict nationwide LD on March 9th. This study is aimed at evaluating, using both chemical and meteorological data, the environmental response to that occurrence as observed by the Lamezia Terme (LMT) GAW/WMO station in Calabria, Southern Italy. The first 2020 lockdown has therefore been used as a &ldquo;proving ground&rdquo; to assess CO, CO2, CH4, BC, and NOx concentrations in a rather unique context by exploiting the location of LMT in the context of the Mediterranean Basin. In fact, its location on the Tyrrhenian coast of Calabria and local wind circulation both lead to daily cycles where western-seaside winds depleted in anthropogenic pollutants can be easily differentiated from northeastern-continental winds, enriched in anthropogenic outputs. In addition to that, the first Italian LD occurred during the seasonal transition from Winter to Spring and, consequently, Summer, thus providing new insights on emission outputs correlated with seasons. Findings have clearly indicated BC and, in particular, CO as strongly correlated with average daily temperatures, and possibly domestic heating. CO2&rsquo;s reduction during the lockdown and consequent increase in the post-lockdown period, combined with wind data, has allowed to constrain local source of emissions located northeast from LMT. NOx reductions during specific circumstances are consistent with hypotheses from previous research which linked them to rush hour traffic and other forms of transportation emissions. CH4&rsquo;s stable patterns are consistent with livestock, landfills, and other sources assumed to be nearly constant during LD periods.    
-
-    
-
 ## TOWARDS CARBON-NEUTRAL FISH COLD STORAGE: A SUSTAINABLE APPROACH THROUGH RENEWABLE ENERGY   
 
 OpenAlex: https://openalex.org/W4402599936    
@@ -169,6 +114,29 @@ Open access: False
 [João Garcia](https://openalex.org/A5045400920), [Arian Semedo](https://openalex.org/A5098711014), No host. None(None)] 2024.https://doi.org/10.21134/pqcb0040.
     
 Preserving perishable foods, particularly fish, demands meticulous attention throughout the entire supply chain, from capture to consumption. The critical role of cold storage facilities in maintaining optimal conditions, encompassing temperature and humidity regulation, is indispensable. Nevertheless, these facilities pose a considerable challenge due to their substantial electrical energy consumption, which significantly contributes to operational costs. In addressing this challenge, the implementation of energy-efficient strategies, including the utilization of advanced equipment and real-time monitoring facilitated by automation technologies, becomes imperative. This research investigates an innovative integrated cold storage system situated in Tarrafal, Santiago, Cape Verde, which harmoniously incorporates wind, solar, and tidal energy sources. The primary objectives are to evaluate the energy efficiency, financial viability, and environmental impact across four distinct hypothesis. Hypothesis 1 entails the deployment of two R134a refrigeration units powered by the conventional public grid, while Hypothesis 2 adopts a transcritical CO2 system reliant on grid electricity, Hypothesis 3 integrates CO2 technology with autonomous renewable energy sources and Hypothesis 4 leverages CO2 for refrigeration coupled with seawater heat exchange and autonomous renewable energy generation. The research findings strongly favor Hypothesis 4, demonstrating emissions of 15880 kg CO2eq with an impressive 5-year return on investment. The autonomous electricity production associated with this hypothesis markedly reduces emissions by more than 90%. Despite an initial higher investment, Hypothesis 3 showcases financial viability, contributing significantly to long-term energy sustainability. The autonomous energy production in this scenario results in a noteworthy reduction of more than 600000 kgCO2 compared to conventional systems, underscoring the positive impact of integrating local renewable energy sources.    
+
+    
+
+## Effects of Mischmetal Composition and Cooling Rates on the
+  Microstructure and Mechanical Properties of Al-(Ce, La, Nd) Eutectic Alloys   
+
+OpenAlex: https://openalex.org/W4402703840    
+Open access: True
+    
+[Jovid Rakhmonov](https://openalex.org/A5083973669), [Erin C. Bryan](https://openalex.org/A5107437482), [David C. Dunand](https://openalex.org/A5082095023), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2408.14489 ([pdf](http://arxiv.org/pdf/2408.14489)).
+    
+This study investigates the substitution of cerium (Ce) with mischmetal (MM) in cast Al-MM alloys, focusing on microstructure, hardness, tensile and compression properties, creep resistance, and coarsening resistance. Al-MM alloys with various MM compositions (Ce, Ce-50La, Ce-33La, and Ce-27La-19Nd, weight percent) exhibit near-eutectic and hyper-eutectic microstructures for Al-9MM and Al-12MM compositions, respectively, with similar as-cast hardness (~525 MPa). All Al-9MM alloys show tensile yield stress ~55 MPa, ultimate tensile strength ~130 MPa, and fracture strain ~8%.The microstructural and mechanical properties consistency demonstrates the flexibility of MM compositions in Al-MM alloys. Al-9MM exhibits excellent coarsening resistance, with minimal hardness reduction when exposed to 300 and 350 C for up to 11 weeks, and a modest ~15% hardness reduction at 400 C for 8 weeks, outperforming eutectic Al-12.6Si and Al-6.4Ni alloys. Additionally, Al-9MM shows higher creep resistance at 300 C compared to most precipitate-strengthened Al-Sc-Zr and solid-solution-strengthened Al-Mg/Mn alloys, but is outperformed by eutectic-strengthened Al-6.4Ni and Al-10Ce-5Ni alloys.The effect of casting cooling rate is investigated through wedge casting: Al-9Ce transitions from hypo- to hyper-eutectic as cooling rates decrease, while Al-12Ce consistently shows hyper-eutectic microstructures. Al11Ce3 lamellae become finer and more closely spaced with increasing cooling rates. Al-9Ce maintains steady hardness at high to moderate cooling rates but shows reduced hardness at lower rates, whereas Al-12Ce shows no change in hardness.With a 15% reduction in energy consumption and CO2 emissions, Al-Ce alloys where Ce is replaced with MM offer comparable mechanical properties and enhanced environmental benefits, highlighting the potential of MM as a sustainable alternative.    
+
+    
+
+## Role of Green Building Materials in Reducing Environmental and Human Health Impacts Using VIKOR Method   
+
+OpenAlex: https://openalex.org/W4402788835    
+Open access: False
+    
+, Trends in Finance and Economics. 2(3)] 2024.https://doi.org/10.46632/tfe/2/3/1.
+    
+Green Building Materials (GBMs) are construction materials Green building materials (GBMs), sustainable building practices, resource conservation, energy efficiency, indoor air quality, environmental impact reduction, and renewable and recyclable materials. The drive to adopt GBMs is fueled by the need to reduce energy consumption, cut greenhouse gas emissions, and preserve natural resources. By incorporating renewable, recyclable, and non-toxic elements, GBMs are integral to sustainable building practices, ensuring a balance between development and environmental responsibility. Growing awareness of environmental challenges and the emphasis on sustainable development have made green building materials a central focus in contemporary construction. Environmental Impact Reduction: GBMs help decrease the environmental footprint of construction by cutting waste, cutting greenhouse gas emissions, and using less energy. These minerals are essential for maintaining ecosystems and halting climate change. Health & Well-Being: Research on GBMs makes it easier to create materials that improve indoor air quality and reduce exposure to dangerous pollutants, which benefits building occupants' comfort and health. Resource Conservation: This study promotes the use of recyclable and renewable materials, helping to preserve the planet's finite natural resources and encouraging the building sector to implement circular economy principles. Alternatives taken as Bamboo, Recycled Steel, Cork, Rammed Earth, Hempcrete, Straw Bale. Evaluation Parameters taken as Thermal Insulation (Benefit), Sustainability Score (Benefit), Cost per Square Meter (Non-Benefit), CO2 Emissions during Production (Non-Benefit). The results indicate that Recycled Steel achieved the highest rank, while Straw Bale had the lowest rank being attained. “The value of the dataset for Green Building Materials, according to the VIKOR, Recycled Steel achieves the highest ranking.”    
 
     
 

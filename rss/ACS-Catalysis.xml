@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Sep 2024 01:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 01:19:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Kinetic and Substrate Specificity Determination of Bacterial LPMOs</title>
-      <link>https://doi.org/10.1021/acscatal.4c04510</link>
-      <description>Alan Carletti, Florian Csarman, Marc&#243; Sola, Gianantonio Battistuzzi, Roland Ludwig, Giulia Di Rocco, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402566481
-
-                No abstract</description>
-      <author>Alan Carletti, Florian Csarman, Marc&#243; Sola, Gianantonio Battistuzzi, Roland Ludwig, Giulia Di Rocco</author>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04510</guid>
-    </item>
-    <item>
-      <title>Rhodium-Catalyzed [5 + 1 + 2] Cycloaddition of Yne-3-acyloxy-1,4-enynes (YACEs) and Carbon Monoxide: Reaction Development and Mechanism</title>
-      <link>https://doi.org/10.1021/acscatal.4c04457</link>
-      <description>Qi Cui, Qian Zhang, Bingwen Li, Jin Yi, Qianwei Zhang, Huaiyong Bai, Zhi&#8208;Xiang Yu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402567401
-
-                No abstract</description>
-      <author>Qi Cui, Qian Zhang, Bingwen Li, Jin Yi, Qianwei Zhang, Huaiyong Bai, Zhi&#8208;Xiang Yu</author>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04457</guid>
-    </item>
-    <item>
-      <title>Improved Near-Neutral Hydrogen Evolution Reaction Kinetics through Electrolyte Engineering with the Efficient Hydrogen Source NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c04048</link>
-      <description>Huang Xy, Junjie Xu, Xuefei Xu, Shujuan Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402570018
-
-                No abstract</description>
-      <author>Huang Xy, Junjie Xu, Xuefei Xu, Shujuan Wang</author>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04048</guid>
-    </item>
     <item>
       <title>Theoretical Design of the Electrocatalytic Urea Synthesis from Carbon Dioxide and Nitric Oxides</title>
       <link>https://doi.org/10.1021/acscatal.4c03785</link>
