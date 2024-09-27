@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Sep 2024 01:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 01:20:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Structural, Optical, and Magnetic Studies of Nickel-Doped &#946;-Ga2O3 Monoclinic and Spinel Polycrystalline Powders</title>
-      <link>https://doi.org/10.1007/s11664-024-11452-8</link>
-      <description>A. R. Suresh Babu, N. Madhusudhana Rao, Journal of Electronic Materials. None(None)] 2024. https://openalex.org/W4402592270
-
-                No abstract</description>
-      <author>A. R. Suresh Babu, N. Madhusudhana Rao</author>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11664-024-11452-8</guid>
-    </item>
     <item>
       <title>Acid oxygen evolution reaction: Mechanisms, design principles, and prospects for application in membrane electrodes</title>
       <link>https://doi.org/10.1016/j.cej.2024.155901</link>
@@ -26,6 +16,16 @@
       <author>Zhao Liu, Xiaoxia Wang, Guanqun Xie, Junjie Ge</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155901</guid>
+    </item>
+    <item>
+      <title>Screening Transition-Metal-Incorporated &#946;-AgVO&lt;sub&gt;3&lt;/sub&gt; for Augmented Oxygen Reduction Activity</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c01636</link>
+      <description>Muhammed Fasil Puthiyaparambath, Raghu Chatanathodi, Langmuir. None(None)] 2024. https://openalex.org/W4402686808
+
+                Exploring cost-effective alternatives to Pt-based catalysts for the oxygen reduction reaction (ORR) in fuel cells is crucial for their large-scale deployment in green energy applications. Silver vanadate (AgVO</description>
+      <author>Muhammed Fasil Puthiyaparambath, Raghu Chatanathodi</author>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01636</guid>
     </item>
     <item>
       <title>Exploring and Elucidating the CO&lt;sub&gt;2&lt;/sub&gt; Reduction Mechanisms on the Surface of Two-Dimensional Nitrogen-Vacancy (V&lt;sub&gt;N&lt;/sub&gt;) Hexagonal Boron Nitride</title>

@@ -1,74 +1,11 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Thu Sep 26 01:19:22 2024
+Created on Fri Sep 27 01:20:16 2024
 
-Found 22 results from 2024-09-19 to 2024-09-26
+Found 17 results from 2024-09-20 to 2024-09-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution]]
-
-* Electrospun Iridium-Based Nanofiber Catalysts for Oxygen Evolution Reaction: Influence of Calcination on Activity–Stability Relation  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402588976
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-09-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c07831")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402588976"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402588976"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402588976"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402588976 (Open access: True)
-    
-[[https://openalex.org/A5002092859][Miklós Márton Kovács]], [[https://openalex.org/A5017138900][Birk Fritsch]], [[https://openalex.org/A5043972562][Leopold Lahn]], [[https://openalex.org/A5002887494][Julien Bachmann]], [[https://openalex.org/A5077398710][Olga Kasian]], [[https://openalex.org/A5053735446][Karl J. J. Mayrhofer]], [[https://openalex.org/A5019937016][Andreas Hutzler]], [[https://openalex.org/A5085821437][Dominik Dworschak]], ACS Applied Materials & Interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.4c07831 
-     
-The enhanced utilization of noble metal catalysts through highly porous nanostructures is crucial to advancing the commercialization prospects of proton exchange membrane water electrolysis (PEMWE). In this study, hierarchically structured IrO    
-
-    
-
-* Charge Transfer in n-FeO and p-α-Fe2O3 Nanoparticles for Efficient Hydrogen and Oxygen Evolution Reaction  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402599911
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Solar Water Splitting Technology
-:PUBLICATION_DATE: 2024-09-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/nano14181515")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402599911"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402599911"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402599911"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402599911 (Open access: True)
-    
-[[https://openalex.org/A5107295553][Amir Humayun]], [[https://openalex.org/A5038130129][Nandapriya Manivelan]], [[https://openalex.org/A5101483458][Prabakar Kandasamy]], Nanomaterials. 14(18)] 2024. https://doi.org/10.3390/nano14181515 
-     
-This study aims to explore the n-FeO and p-α-Fe2O3 semiconductor nanoparticles in hydrogen (HER) and oxygen (OER) evolution reactions and a combined full cell electrocatalyst system to electrolyze the water. We have observed a distinct electrocatalytic performance for both HER and OER by tuning the interplay between iron oxidation states Fe2+ and Fe3+ and utilizing phase-transformed iron oxide nanoparticles (NPs). The Fe2+ rich n-FeO NPs exhibited superior HER performance compared to p-α-Fe2O3 and Fe(OH)x NPs, which is attributed to the enhancement in n-type semiconducting nature under HER potential, facilitating the electron transfer for the reduction in H+ ions. In contrast, p-α-Fe2O3 NPs demonstrated excellent OER activity. An H-cell constructed using n-FeO||p-α-Fe2O3 NPs as cathode and anode achieved a cell voltage of 1.87 V at a current density of 50 mA/cm2. The cell exhibited remarkable stability after 30 h of activation and maintained the high current density of 100 mA/cm2 for 80 h with a negligible increase in cell voltage. This work highlights the semiconducting properties of n-FeO and p-α-Fe2O3 for the electrochemical water splitting system using the band bending phenomenon under the applied potential.    
-
-    
-
-* Highly Active and Robust Electrocatalyst Based on Nickel Phosphide Supported by Borophene for Oxygen Evolution Reaction  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402621252
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-09-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsaem.4c00652")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402621252"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402621252"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402621252"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402621252 (Open access: True)
-    
-[[https://openalex.org/A5054595652][Klaudia Maślana]], [[https://openalex.org/A5002058936][Xuecheng Chen]], [[https://openalex.org/A5064148144][Ewa Mijowska]], ACS Applied Energy Materials. None(None)] 2024. https://doi.org/10.1021/acsaem.4c00652 
-     
-No abstract    
-
-    
 
 * Acid oxygen evolution reaction: Mechanisms, design principles, and prospects for application in membrane electrodes  :water_splitting:
 :PROPERTIES:
@@ -406,65 +343,23 @@ No abstract
 
     
 
-* Influence of Oxygen and Nitrogen Flow Ratios on the Microstructure Evolution in AlCrTaTiZr High-Entropy Oxynitride Films  :water_splitting:
+* The Role of W ↔ N Electron Transport Channel in Potassium-Doped WO3/g-C3N4 Nanocomposites for Light-Assisted Electrocatalytic Oxygen and Hydrogen Evolution Reactions: Decoding the S-Scheme Mechanism  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4402599913
-:TOPICS: Mechanical Properties of Thin Film Coatings, Atomic Layer Deposition Technology, High-Entropy Alloys: Novel Designs and Properties
-:PUBLICATION_DATE: 2024-09-18
+:UUID: https://openalex.org/W4402675522
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Perovskite Solar Cell Technology, Gas Sensing Technology and Materials
+:PUBLICATION_DATE: 2024-09-20
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/coatings14091199")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acssuschemeng.4c04526")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402599913"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402599913"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402599913"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402675522"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402675522"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402675522"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4402599913 (Open access: True)
+OpenAlex: https://openalex.org/W4402675522 (Open access: False)
     
-[[https://openalex.org/A5091846575][Yung-Chu Liang]], [[https://openalex.org/A5103777372][Ching-Yin Lee]], [[https://openalex.org/A5008474862][Miao-I. Lin]], [[https://openalex.org/A5080771156][Ting-En Shen]], [[https://openalex.org/A5049832708][Jung-Fan Hung]], [[https://openalex.org/A5026954516][Jien‐Wei Yeh]], [[https://openalex.org/A5086316062][Che‐Wei Tsai]], Coatings. 14(9)] 2024. https://doi.org/10.3390/coatings14091199 
+[[https://openalex.org/A5101249145][Manju Kumari Jaiswal]], [[https://openalex.org/A5050623271][Suvankar Deka]], [[https://openalex.org/A5056793673][Tanmoy Kalita]], [[https://openalex.org/A5042617064][Dhruba Jyoti Kalita]], [[https://openalex.org/A5024103913][Biswajit Choudhury]], ACS Sustainable Chemistry & Engineering. None(None)] 2024. https://doi.org/10.1021/acssuschemeng.4c04526 
      
-This study explores the influence of oxygen and nitrogen flow ratios on the microstructure and mechanical properties of AlCrTaTiZr high-entropy oxynitride films. Oxygen flow rates (0%–0.75%) were adjusted while maintaining a fixed nitrogen flow ratio (RN = 15%) to fabricate films with similar compositions. The results show that increasing oxygen flow enhanced hardness through solid solution strengthening and grain refinement, though excessive oxygen caused an amorphous structure and reduced hardness. After annealing at 900 °C, the hardness of all films was further increased. The film with a nitrogen flow ratio 40 times higher than oxygen exhibited the highest hardness of 21.8 GPa, along with superior mechanical performance. These findings highlight the potential of high-entropy oxynitride films for applications requiring high wear resistance and adhesion.    
-
-    
-
-* Modulating Silver Performance in Electrocatalytic Oxidation of HCHO via SMSI between Ag‐Co3O4 Interfaces  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402605034
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-09-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202405358")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402605034"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402605034"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402605034"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402605034 (Open access: False)
-    
-[[https://openalex.org/A5045652935][Peiyuan Mao]], [[https://openalex.org/A5047640346][Bingbing Chen]], [[https://openalex.org/A5078462246][Rui Huang]], [[https://openalex.org/A5100378741][Jing Wang]], [[https://openalex.org/A5006373750][Long Xiao]], [[https://openalex.org/A5040600158][B. Zhang]], [[https://openalex.org/A5009298253][Chuan Shi]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202405358 
-     
-Abstract The replacement of oxygen evolution reactions with organic molecule oxidation reactions to enable energy‐efficient hydrogen production has been a subject of interest. However, further reducing reaction energy consumption and releasing hydrogen from organic molecules continue to pose significant challenges. Herein, a strategy is proposed to produce hydrogen and formic acid from formaldehyde using Ag/Co 3 O 4 interface catalysts at the anode. The key to improving the performance of Ag‐based catalysts for formaldehyde oxidation lies in the strong SMSI achieved through the well‐designed “spontaneous redox reaction” between Ag and Co 3 O 4 precursors. Nano‐sized Ag particles are uniformly dispersed on Co 3 O 4 nanosheets, and electron‐deficient Ag δ+ are formed by the SMSI between Ag and Co 3 O 4. Ag/Co 3 O 4 demonstrates exceptional formaldehyde oxidation activity at low potentials of 0.32 V versus RHE and 0.65 V versus RHE, achieving current densities of 10 and 100 mA cm −2 , respectively. The electrolyzer “Ag/Co 3 O 4 ||20% Pt/C” achieves over 195% hydrogen efficiency and over 98% formic acid selectivity, maintaining stable operation for 60 hours. This work not only presents a novel approach to precisely modulate Ag particle size and interface electronic structure via SMSI, but also provides a promising approach to efficient and energy‐saving hydrogen production and the transformation of harmful formaldehyde.    
-
-    
-
-* The fate of nitrogen in deep magma oceans  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402591600
-:TOPICS: Paleoredox and Paleoproductivity Proxies, Climate Change and Paleoclimatology, Anaerobic Methane Oxidation and Gas Hydrates
-:PUBLICATION_DATE: 2024-09-18
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.31223/x5db0k")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402591600"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402591600"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402591600"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402591600 (Open access: False)
-    
-[[https://openalex.org/A5107293066][Ekanshu Mallick]], [[https://openalex.org/A5066819520][Kelsey B. Prissel]], [[https://openalex.org/A5074746695][K. Righter]], [[https://openalex.org/A5052860841][Colin J. Jackson]], EarthArXiv (California Digital Library). None(None)] 2024. https://doi.org/10.31223/x5db0k 
-     
-Nitrogen is important in planetary evolution because it is essential to life and the most abundant element in Earth’s atmosphere. Here, we investigate how core formation affects the distribution of N within accreting terrestrial planets. We conducted laser-heated diamond anvil cell experiments (LH-DAC) over a wide range of high pressure-temperature-compositional (PTX) conditions (38-103 GPa, 2728-5609 K, -1.95 to -1.03 ∆IW, 0.5-3.7 NBO/T) to study nitrogen partitioning in metal-silicate systems. Combining our data with existing low and high PT results, we developed a nitrogen partitioning model applicable from early accretion to extreme PT stages associated with giant impacts. We test the robustness of our model by accurately predicting nitrogen partitioning in a multi-anvil experiment conducted independently at 15 GPa, 2573 K with oxygen fugacity of -2.5 ∆IW. Our model shows that increasing pressure, oxygen fugacity, and N concentration in the alloy make nitrogen more siderophile, while increasing temperature, oxygen and silicon contents in the alloy, and the SiO2 content of the silicate melt make nitrogen less siderophile. Application of our model to core formation conditions under oxidized and reduced scenarios suggest that nitrogen can be siderophile or lithophile under low PT conditions but exhibits a neutral partitioning at high PT conditions (&gt; 100 GPa, 5000 K) over a wide range of bulk planet compositions. Using our model, along with partitioning models for S and C, we examine how core formation scenarios can fractionate C/N and S/N ratios in the BSE. Our model suggests that backreaction of volatile rich cores from reduced, smaller impactors (sub-Mars-sized) within deep magma oceans can impart a wide range of C/N and S/N ratios on the magma ocean. We find that the amount of silicate entrainment has a strong control on elemental fractionations imparted to the magma oceans. Elevated C/N and S/N ratios are associated with larger degrees of silicate entrainment, and vice versa. Thus, Earth’s apparent depletion of N may relate to its volatiles being reprocessed within deep magma oceans, possibly during the end stages of accretion.    
+No abstract    
 
     

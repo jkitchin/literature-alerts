@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Sep 2024 01:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 01:20:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrospun Iridium-Based Nanofiber Catalysts for Oxygen Evolution Reaction: Influence of Calcination on Activity&#8211;Stability Relation</title>
-      <link>https://doi.org/10.1021/acsami.4c07831</link>
-      <description>Mikl&#243;s M&#225;rton Kov&#225;cs, Birk Fritsch, Leopold Lahn, Julien Bachmann, Olga Kasian, Karl J. J. Mayrhofer, Andreas Hutzler, Dominik Dworschak, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402588976
-
-                The enhanced utilization of noble metal catalysts through highly porous nanostructures is crucial to advancing the commercialization prospects of proton exchange membrane water electrolysis (PEMWE). In this study, hierarchically structured IrO</description>
-      <author>Mikl&#243;s M&#225;rton Kov&#225;cs, Birk Fritsch, Leopold Lahn, Julien Bachmann, Olga Kasian, Karl J. J. Mayrhofer, Andreas Hutzler, Dominik Dworschak</author>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c07831</guid>
-    </item>
-    <item>
-      <title>Charge Transfer in n-FeO and p-&#945;-Fe2O3 Nanoparticles for Efficient Hydrogen and Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.3390/nano14181515</link>
-      <description>Amir Humayun, Nandapriya Manivelan, Prabakar Kandasamy, Nanomaterials. 14(18)] 2024. https://openalex.org/W4402599911
-
-                This study aims to explore the n-FeO and p-&#945;-Fe2O3 semiconductor nanoparticles in hydrogen (HER) and oxygen (OER) evolution reactions and a combined full cell electrocatalyst system to electrolyze the water. We have observed a distinct electrocatalytic performance for both HER and OER by tuning the interplay between iron oxidation states Fe2+ and Fe3+ and utilizing phase-transformed iron oxide nanoparticles (NPs). The Fe2+ rich n-FeO NPs exhibited superior HER performance compared to p-&#945;-Fe2O3 and Fe(OH)x NPs, which is attributed to the enhancement in n-type semiconducting nature under HER potential, facilitating the electron transfer for the reduction in H+ ions. In contrast, p-&#945;-Fe2O3 NPs demonstrated excellent OER activity. An H-cell constructed using n-FeO||p-&#945;-Fe2O3 NPs as cathode and anode achieved a cell voltage of 1.87 V at a current density of 50 mA/cm2. The cell exhibited remarkable stability after 30 h of activation and maintained the high current density of 100 mA/cm2 for 80 h with a negligible increase in cell voltage. This work highlights the semiconducting properties of n-FeO and p-&#945;-Fe2O3 for the electrochemical water splitting system using the band bending phenomenon under the applied potential.</description>
-      <author>Amir Humayun, Nandapriya Manivelan, Prabakar Kandasamy</author>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/nano14181515</guid>
-    </item>
-    <item>
-      <title>Highly Active and Robust Electrocatalyst Based on Nickel Phosphide Supported by Borophene for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsaem.4c00652</link>
-      <description>Klaudia Ma&#347;lana, Xuecheng Chen, Ewa Mijowska, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4402621252
-
-                No abstract</description>
-      <author>Klaudia Ma&#347;lana, Xuecheng Chen, Ewa Mijowska</author>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00652</guid>
-    </item>
     <item>
       <title>Acid oxygen evolution reaction: Mechanisms, design principles, and prospects for application in membrane electrodes</title>
       <link>https://doi.org/10.1016/j.cej.2024.155901</link>
@@ -198,34 +168,14 @@
       <guid isPermaLink="true">https://doi.org/10.56042/ijc.v63i9.10838</guid>
     </item>
     <item>
-      <title>Influence of Oxygen and Nitrogen Flow Ratios on the Microstructure Evolution in AlCrTaTiZr High-Entropy Oxynitride Films</title>
-      <link>https://doi.org/10.3390/coatings14091199</link>
-      <description>Yung-Chu Liang, Ching-Yin Lee, Miao-I. Lin, Ting-En Shen, Jung-Fan Hung, Jien&#8208;Wei Yeh, Che&#8208;Wei Tsai, Coatings. 14(9)] 2024. https://openalex.org/W4402599913
+      <title>The Role of W &#8596; N Electron Transport Channel in Potassium-Doped WO&lt;sub&gt;3&lt;/sub&gt;/g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; Nanocomposites for Light-Assisted Electrocatalytic Oxygen and Hydrogen Evolution Reactions: Decoding the S-Scheme Mechanism</title>
+      <link>https://doi.org/10.1021/acssuschemeng.4c04526</link>
+      <description>Manju Kumari Jaiswal, Suvankar Deka, Tanmoy Kalita, Dhruba Jyoti Kalita, Biswajit Choudhury, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4402675522
 
-                This study explores the influence of oxygen and nitrogen flow ratios on the microstructure and mechanical properties of AlCrTaTiZr high-entropy oxynitride films. Oxygen flow rates (0%&#8211;0.75%) were adjusted while maintaining a fixed nitrogen flow ratio (RN = 15%) to fabricate films with similar compositions. The results show that increasing oxygen flow enhanced hardness through solid solution strengthening and grain refinement, though excessive oxygen caused an amorphous structure and reduced hardness. After annealing at 900 &#176;C, the hardness of all films was further increased. The film with a nitrogen flow ratio 40 times higher than oxygen exhibited the highest hardness of 21.8 GPa, along with superior mechanical performance. These findings highlight the potential of high-entropy oxynitride films for applications requiring high wear resistance and adhesion.</description>
-      <author>Yung-Chu Liang, Ching-Yin Lee, Miao-I. Lin, Ting-En Shen, Jung-Fan Hung, Jien&#8208;Wei Yeh, Che&#8208;Wei Tsai</author>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/coatings14091199</guid>
-    </item>
-    <item>
-      <title>Modulating Silver Performance in Electrocatalytic Oxidation of HCHO via SMSI between Ag&#8208;Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Interfaces</title>
-      <link>https://doi.org/10.1002/smll.202405358</link>
-      <description>Peiyuan Mao, Bingbing Chen, Rui Huang, Jing Wang, Long Xiao, B. Zhang, Chuan Shi, Small. None(None)] 2024. https://openalex.org/W4402605034
-
-                Abstract The replacement of oxygen evolution reactions with organic molecule oxidation reactions to enable energy&#8208;efficient hydrogen production has been a subject of interest. However, further reducing reaction energy consumption and releasing hydrogen from organic molecules continue to pose significant challenges. Herein, a strategy is proposed to produce hydrogen and formic acid from formaldehyde using Ag/Co 3 O 4 interface catalysts at the anode. The key to improving the performance of Ag&#8208;based catalysts for formaldehyde oxidation lies in the strong SMSI achieved through the well&#8208;designed &#8220;spontaneous redox reaction&#8221; between Ag and Co 3 O 4 precursors. Nano&#8208;sized Ag particles are uniformly dispersed on Co 3 O 4 nanosheets, and electron&#8208;deficient Ag &#948;+ are formed by the SMSI between Ag and Co 3 O 4. Ag/Co 3 O 4 demonstrates exceptional formaldehyde oxidation activity at low potentials of 0.32 V versus RHE and 0.65 V versus RHE, achieving current densities of 10 and 100 mA cm &#8722;2 , respectively. The electrolyzer &#8220;Ag/Co 3 O 4 ||20% Pt/C&#8221; achieves over 195% hydrogen efficiency and over 98% formic acid selectivity, maintaining stable operation for 60 hours. This work not only presents a novel approach to precisely modulate Ag particle size and interface electronic structure via SMSI, but also provides a promising approach to efficient and energy&#8208;saving hydrogen production and the transformation of harmful formaldehyde.</description>
-      <author>Peiyuan Mao, Bingbing Chen, Rui Huang, Jing Wang, Long Xiao, B. Zhang, Chuan Shi</author>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202405358</guid>
-    </item>
-    <item>
-      <title>The fate of nitrogen in deep magma oceans</title>
-      <link>https://doi.org/10.31223/x5db0k</link>
-      <description>Ekanshu Mallick, Kelsey B. Prissel, K. Righter, Colin J. Jackson, EarthArXiv (California Digital Library). None(None)] 2024. https://openalex.org/W4402591600
-
-                Nitrogen is important in planetary evolution because it is essential to life and the most abundant element in Earth&#8217;s atmosphere. Here, we investigate how core formation affects the distribution of N within accreting terrestrial planets. We conducted laser-heated diamond anvil cell experiments (LH-DAC) over a wide range of high pressure-temperature-compositional (PTX) conditions (38-103 GPa, 2728-5609 K, -1.95 to -1.03 &#8710;IW, 0.5-3.7 NBO/T) to study nitrogen partitioning in metal-silicate systems. Combining our data with existing low and high PT results, we developed a nitrogen partitioning model applicable from early accretion to extreme PT stages associated with giant impacts. We test the robustness of our model by accurately predicting nitrogen partitioning in a multi-anvil experiment conducted independently at 15 GPa, 2573 K with oxygen fugacity of -2.5 &#8710;IW. Our model shows that increasing pressure, oxygen fugacity, and N concentration in the alloy make nitrogen more siderophile, while increasing temperature, oxygen and silicon contents in the alloy, and the SiO2 content of the silicate melt make nitrogen less siderophile. Application of our model to core formation conditions under oxidized and reduced scenarios suggest that nitrogen can be siderophile or lithophile under low PT conditions but exhibits a neutral partitioning at high PT conditions (&amp;gt; 100 GPa, 5000 K) over a wide range of bulk planet compositions. Using our model, along with partitioning models for S and C, we examine how core formation scenarios can fractionate C/N and S/N ratios in the BSE. Our model suggests that backreaction of volatile rich cores from reduced, smaller impactors (sub-Mars-sized) within deep magma oceans can impart a wide range of C/N and S/N ratios on the magma ocean. We find that the amount of silicate entrainment has a strong control on elemental fractionations imparted to the magma oceans. Elevated C/N and S/N ratios are associated with larger degrees of silicate entrainment, and vice versa. Thus, Earth&#8217;s apparent depletion of N may relate to its volatiles being reprocessed within deep magma oceans, possibly during the end stages of accretion.</description>
-      <author>Ekanshu Mallick, Kelsey B. Prissel, K. Righter, Colin J. Jackson</author>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31223/x5db0k</guid>
+                No abstract</description>
+      <author>Manju Kumari Jaiswal, Suvankar Deka, Tanmoy Kalita, Dhruba Jyoti Kalita, Biswajit Choudhury</author>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c04526</guid>
     </item>
   </channel>
 </rss>
