@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Sep 27 01:20:18 2024
+Created on Sat Sep 28 01:19:24 2024
 
-Found 11 results from 2024-09-20 to 2024-09-27
+Found 11 results from 2024-09-21 to 2024-09-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -29,28 +29,6 @@ No abstract
 
     
 
-## Rare Earth Er‐Nd Dual Single‐Atomic Catalysts for Efficient Visible‐light Induced CO2 Reduction to CnH2n+1OH (n=1, 2)   
-
-OpenAlex: https://openalex.org/W4402660435    
-Open access: False
-    
-[Pengyan Li](https://openalex.org/A5052043222), [Zhenhong Qi](https://openalex.org/A5100784845), [Dongpeng Yan](https://openalex.org/A5101809051), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202411000.
-    
-Efficient synthesis of CnH2n+1OH (n=1, 2) via photochemical CO2 reduction holds promise for achieving carbon neutrality but remains challenging. Here, we present rare‐earth dual single atoms (SAs) catalysts containing ErN6 and NdN6 moieties, fabricated via an atom‐confinement and coordination method. The dual Er‐Nd SAs catalysts exhibit unprecedented generation rates of 1761.4 μmol g–1 h–1 and 987.7 μmol g–1 h–1 for CH3CH2OH and CH3OH, respectively. Through a combination of theoretical calculation, X‐ray absorption near edge structural analysis, aberration‐corrected transmission electron microscopy, and in‐situ FT‐IR spectroscopy, we demonstrate that the Er SAs facilitate charge transfer, serving as active centers for C−C bond formation, while Nd SAs provide the necessary *CO for C−C coupling in C2H5OH synthesis under visible light. Furthermore, the experiment and density functional theory calculation elucidate that the variety of electronic states induced by 4f orbitals of the Er SAs and the p−f orbital hybridization of Er−N moieties enable the formation of charge‐transfer channel. Therefore, this study sheds light on the pivotal role of *CO adsorption in achieving efficient conversion from CO2 to CnH2n+1OH (n=1, 2) via a novel rare‐earth‐based dual SAs photocatalysis approach.    
-
-    
-
-## Rare Earth Er‐Nd Dual Single‐Atomic Catalysts for Efficient Visible‐light Induced CO2 Reduction to CnH2n+1OH (n=1, 2)   
-
-OpenAlex: https://openalex.org/W4402660373    
-Open access: False
-    
-[Pengyan Li](https://openalex.org/A5052043222), [Zhenhong Qi](https://openalex.org/A5100784845), [Dongpeng Yan](https://openalex.org/A5060021689), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202411000.
-    
-Efficient synthesis of CnH2n+1OH (n=1, 2) via photochemical CO2 reduction holds promise for achieving carbon neutrality but remains challenging. Here, we present rare‐earth dual single atoms (SAs) catalysts containing ErN6 and NdN6 moieties, fabricated via an atom‐confinement and coordination method. The dual Er‐Nd SAs catalysts exhibit unprecedented generation rates of 1761.4 μmol g–1 h–1 and 987.7 μmol g–1 h–1 for CH3CH2OH and CH3OH, respectively. Through a combination of theoretical calculation, X‐ray absorption near edge structural analysis, aberration‐corrected transmission electron microscopy, and in‐situ FT‐IR spectroscopy, we demonstrate that the Er SAs facilitate charge transfer, serving as active centers for C−C bond formation, while Nd SAs provide the necessary *CO for C−C coupling in C2H5OH synthesis under visible light. Furthermore, the experiment and density functional theory calculation elucidate that the variety of electronic states induced by 4f orbitals of the Er SAs and the p−f orbital hybridization of Er−N moieties enable the formation of charge‐transfer channel. Therefore, this study sheds light on the pivotal role of *CO adsorption in achieving efficient conversion from CO2 to CnH2n+1OH (n=1, 2) via a novel rare‐earth‐based dual SAs photocatalysis approach.    
-
-    
-
 ## Pengaruh Modifikasi Permukaan Piston terhadap Emisi Gas Buang Motor Bakar Kapasitas 100 cc   
 
 OpenAlex: https://openalex.org/W4402788974    
@@ -73,14 +51,14 @@ Abstract As part of the reduction and elimination of anthropogenic emissions, ca
 
     
 
-## A Comprehensive Review of the Impact of CO2 Emissions on Global Warming and the Potential Using Solar Energy Mitigation   
+## The Impact of Economic Factors on Changing Carbon Emission Landscape in ASEAN With ARDL Approach   
 
-OpenAlex: https://openalex.org/W4402624263    
+OpenAlex: https://openalex.org/W4402849537    
 Open access: True
     
-, Al Rafidain Journal of Engineering Sciences. None(None)] 2024.https://doi.org/10.61268/et4axz89.
+[Hasbi Hasbi](https://openalex.org/A5003264851), KINERJA. 28(2)] 2024.https://doi.org/10.24002/kinerja.v28i2.8583.
     
-Carbon dioxide (CO2) emissions are the principal cause of global warming, a serious environmental issue with far-reaching implications. This extensive assessment investigates the multidimensional influence of CO2 emissions on global warming, looking at both the scientific basis and the possibility for solar energy as a mitigation approach. The evaluation focuses on solar energy's ability to reduce CO2 emissions and combat global warming. It investigates the benefits of solar energy as a clean, renewable, and sustainable source of electricity. The evaluation assesses the current state and future prospects of solar technology, focusing on its cost-effectiveness, scalability, and environmental benefits. Furthermore, the assessment looks at the obstacles and potential connected with solar energy deployment. It emphasizes the importance of legislative assistance, infrastructural development, and technology developments to hasten the transition to solar energy. The evaluation also evaluates the possible synergies between solar energy and other renewable energy sources as part of a comprehensive approach to CO2 emissions reduction. Finally, the assessment highlights the critical necessity for a worldwide response to the climate catastrophe. It advocates for bold and collaborative efforts to cut CO2 emissions and transition to sustainable energy systems, with solar energy playing a critical role. The review is an invaluable resource for policymakers, scientists, and stakeholders interested in the impact of CO2 emissions on global warming and the possibilities of solar energy mitigation    
+This study aims to analyze the factors influencing carbon emissions in the member countries of the Association of Southeast Asian Nations (ASEAN). The data used in this study covers the period from 1990 to 2021, utilizing the Autoregressive Distributed Lag (ARDL) analysis method. All independent variables show a significant impact on carbon emissions in both the short and long term. This research provides evidence that factors such as urbanization, foreign direct investment, population, and economic growth significantly contribute to the increase in carbon emissions in ASEAN countries. The findings also validate the Environmental Kuznets Curve hypothesis for carbon emissions in ASEAN countries. In other words, economic growth leads to a reduction in carbon emissions. The ASEAN region has experienced substantial economic growth over the past few decades. However, carbon dioxide (CO2) remains a socio-economic issue in the ASEAN region. The results of this study can be highly beneficial for policymakers in the region regarding sustainability and economic development.    
 
     
 
@@ -92,6 +70,28 @@ Open access: True
 [Mohammed Qays Kadhim](https://openalex.org/A5099589609), [P. P. Oshchepkov](https://openalex.org/A5024861937), Frontiers in Energy Research. 12(None)] 2024.https://doi.org/10.3389/fenrg.2024.1449652.
     
 This study examines the effects of methanol–diesel blends on the emissions of a diesel engine, concentrating on carbon monoxide (CO), carbon dioxide (CO 2 ), nitrogen oxides (NOx), hydrocarbons (HCs), and particulate matter (PM). Using a single-cylinder four-stroke diesel engine at varying torque settings (2 N m–6 N m), significant reductions in CO, CO 2 , HC, and PM emissions were observed with increasing methanol content. CO emissions reduced by up to 81.8%, CO 2 by up to 64.2%, HC by up to 80.4%, and PM by up to 23.5% with the MD11 blend. NOx emissions initially increased but decreased by up to 20% at higher torques with the same blend. These results highlight the environmental benefits of methanol–diesel blends and the need for effective NOx reduction strategies.    
+
+    
+
+## Impact of Energy Transition on the Factors Shaping International Oil and Gas Companies’ Corporate Strategy   
+
+OpenAlex: https://openalex.org/W4402668642    
+Open access: False
+    
+[T. Isobe](https://openalex.org/A5052832241), [Riverson Oppong](https://openalex.org/A5067947538), [Ourania Papasozomenou](https://openalex.org/A5055376584), [Yaw Frempong Koduah-Sarpong](https://openalex.org/A5107436163), SPE Annual Technical Conference and Exhibition. 66116(None)] 2024.https://doi.org/10.2118/221073-ms.
+    
+Abstract Oil has played a crucial role in the global economy since its discovery in the mid–19th century. Due to technological advancements, oil became a crucial energy source in the 20th century, and its demand has risen in tandem with economic advancements since its discovery (Fattouh et al., 2019). Apart from oil being crucial for modern transportation, as the International Energy Agency (IEA, 2018, p. 12) stated, "most items created today, from apparel to autos to agricultural inputs to medical stockpiles are all derived from fossil– fuel by-products". As per OPEC (2004) estimates, over the 20th and into the 21st centuries, industrial production of oil increased by roughly fifty (50) folds. Hence, oil was dubbed as the "lifeblood" of modern civilisation, and affectionately referred to as the "black gold" by industry players. And during this period fossil–fuels (oil, gas and coal) have been the most critical energy source available globally (Bahgat, 2003).Fossil– fuels supplied more than 85% of the total energy supplied or consumed in 2019 globally (IEA, 2019).As a result of being crucial to modern society and a key energy source globally, oil and gas have become a huge geopolitical tool. Oil reserves, price, ownership, and accompanying riches all have had an impact on global economics and geopolitics. The Paris Accord is a legally binding global treaty on climate change that was signed by 196 territories to "limit global warming to below 2°C, preferably 1.5°C, in contrast to pre–industrial levels". To remain within the global carbon emission targets, a sturdy energy transition with a reduction in fossil–fuel demand is needed (Rogelj et al., 2019). The Accord should serve as motivation for IOCs to adapt their corporate strategies to the evolving ecosystem of the energy transition. But the IOCs’ response, meanwhile, has been quite inconsistent up to this point. Some have refused to set concrete aims, and are spending more on initiatives that contradict the Paris goals and objectives (UNFCCC, 2016). Theenergy demand is expected to continue to rise as societies advance and citizens seek out an improved living standard.In 2017, energy demand soared, with fossil–fuels accounting for more than 80% of the energy mix.Hence, the want for "more energy and less carbon" is a doublesocial dilemma (BP, 2018: IEA, 2018). The emergence of issues regarding global warming, climate change, and the rise of the low–carbon economy has generated added pressure on states and corporations to reduce their carbon footprint (i.e. decarbonise) activities within their economies and corporations. It has become a change agenda to address issues regarding climate change, and this is due to greenhouse gas (GHG) emissions, especially carbon dioxide (CO2) from carbon– intensive fossil– fuel sources that have fuelled global economies for centuries. Hence,the need for profound changes to infrastructure, technologies, and behaviour to help reduce emissions. Failure to put these in place will escalate among others the likelihood of severe, pervasive and irreversible impacts on ecologies, that will threaten water security, livelihoods, agricultural production, and economic growth globally(OECD, 2013a; 2012).A prime example is the transition from a pre–industrial system built on water, traditional biomass, wind, and muscular ability to an industrial era marked by pervasive mechanisation, steam power, and coal (Grubler, 2012).This study aims to assess the shift in corporate strategy regarding factors arising due to the energy transition and how it is redefining corporate strategy. As stated, IOCs can't ignore energy transition, and corporate strategy is needed to adapt for future survival (Stevens, 2016).    
+
+    
+
+## Applying Boundary Conditions for Large Aquifer Models in Geological CO2 Storage Projects; Why and How?   
+
+OpenAlex: https://openalex.org/W4402668169    
+Open access: False
+    
+[Yousef Ghomian](https://openalex.org/A5015063042), [Matthew Bennett](https://openalex.org/A5077378769), [Chris Skrivanos](https://openalex.org/A5106961671), [Iryna Marchiano](https://openalex.org/A5107489186), [Andrew Haynes](https://openalex.org/A5003674780), SPE Annual Technical Conference and Exhibition. 44(None)] 2024.https://doi.org/10.2118/220913-ms.
+    
+Abstract Around the world many projects are being considered for the geological storage of CO2 in large saline aquifers. The aerial extent of pressure and saturation plume forecasts, known as Area of Review (AOR) in the United States, can have a significant impact on the monitoring costs and liabilities associated with existing legacy wells within the vicinity of the carbon storage projects. Appropriately modeling how aquifer systems react to large scale CO2 injection has relevance to potential geomechanical integrity, fault reactivation, seismicity, and impact on underground sources of drinking water (USDW). Static and dynamic models are generally built over a smaller portion of large saline aquifer system. This is typically tied to the balance between model size, fidelity, and computational expenses. Assigning the appropriate boundary conditions to replicate the true extent of the aquifer is investigated in this study. Scoping the aquifer's size, geology, and properties is an important step that allows for the quantification of the appropriate pore volume beyond the area of the numerical model. Results from our study indicate that using pore volume (PV) multipliers is a reasonable approach if accompanied by transmissibility reduction at the interface between the PV modifications and the reservoir model. A simple model was developed to create the true solution for comparison and verification purposes. Based on the results of this study, we find that using a combination of PV and transmissibility multipliers replicates the true solution more accurately. We demonstrate that large PV adjustments without transmissibility reductions overestimates the true aquifer strength, resulting in overall lower pressures due to large-scale CO2 injection. We demonstrate a systematic methodology for calculating the simultaneous PV increase and transmissibility reduction that scales easily for a wide range of scenarios. Further investigation shows that as the PV multiplier grows large, the approach of reducing the transmissibility with a single multiplier starts to choke off the large added pore volume. This study proposes an innovative approach which demonstrates that applying a gradually increasing PV multiplier combined with gradually reducing transmissibility is a more accurate representation of the true aquifer system when compared to a single large PV multiplier and a single transmissibility reduction. The proposed approach was applied to large 3-D models and significant impact was observed in pressure diffusion front shape and extent when compared to more simplified approaches. Assignment of boundary conditions for a variety of different scenarios were also investigated in this study. It was shown that this novel approach will be the most accurate method of applying appropriate boundary conditions in obtaining reliable AOR forecasts when modeling large aquifer systems for CO2 storage projects.    
 
     
 

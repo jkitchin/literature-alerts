@@ -1,22 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Fri Sep 27 01:20:16 2024
+Created on Sat Sep 28 01:19:21 2024
 
-Found 17 results from 2024-09-20 to 2024-09-27
+Found 17 results from 2024-09-21 to 2024-09-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Acid oxygen evolution reaction: Mechanisms, design principles, and prospects for application in membrane electrodes   
-
-OpenAlex: https://openalex.org/W4402654330    
-Open access: False
-    
-[Zhao Liu](https://openalex.org/A5100364703), [Xiaoxia Wang](https://openalex.org/A5100360033), [Guanqun Xie](https://openalex.org/A5012698401), [Junjie Ge](https://openalex.org/A5041883522), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.155901.
-    
-No abstract    
-
-    
 
 ## Review for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"   
 
@@ -156,6 +145,17 @@ OpenAlex: https://openalex.org/W4402681201
 Open access: False
     
 , No host. None(None)] 2024.https://doi.org/10.1039/d4tc03159h/v1/review1.
+    
+No abstract    
+
+    
+
+## Amorphous Fe-Mo oxides activated by hydrogen peroxide etching for enhanced electrocatalytic oxygen evolution   
+
+OpenAlex: https://openalex.org/W4402715087    
+Open access: False
+    
+[Wei He](https://openalex.org/A5007172285), [Menglu Gan](https://openalex.org/A5014982941), [Jun Tang](https://openalex.org/A5089182802), [ZhengMing Sun](https://openalex.org/A5100748993), Materials Letters. 377(None)] 2024.https://doi.org/10.1016/j.matlet.2024.137405.
     
 No abstract    
 

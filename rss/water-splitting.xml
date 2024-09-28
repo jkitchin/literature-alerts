@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Sep 2024 01:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 01:19:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Acid oxygen evolution reaction: Mechanisms, design principles, and prospects for application in membrane electrodes</title>
-      <link>https://doi.org/10.1016/j.cej.2024.155901</link>
-      <description>Zhao Liu, Xiaoxia Wang, Guanqun Xie, Junjie Ge, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4402654330
-
-                No abstract</description>
-      <author>Zhao Liu, Xiaoxia Wang, Guanqun Xie, Junjie Ge</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.155901</guid>
-    </item>
     <item>
       <title>Review for "Rapid microwave synthesis of medium and high entropy oxides for outstanding oxygen evolution reaction performance"</title>
       <link>https://doi.org/10.1039/d4ma00667d/v2/review2</link>
@@ -146,6 +136,16 @@
       <author/>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4tc03159h/v1/review1</guid>
+    </item>
+    <item>
+      <title>Amorphous Fe-Mo oxides activated by hydrogen peroxide etching for enhanced electrocatalytic oxygen evolution</title>
+      <link>https://doi.org/10.1016/j.matlet.2024.137405</link>
+      <description>Wei He, Menglu Gan, Jun Tang, ZhengMing Sun, Materials Letters. 377(None)] 2024. https://openalex.org/W4402715087
+
+                No abstract</description>
+      <author>Wei He, Menglu Gan, Jun Tang, ZhengMing Sun</author>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2024.137405</guid>
     </item>
     <item>
       <title>Enhance the Proportion of Fe3+ in NiFe&#8208;Layered Double Hydroxides by utilizing Citric Acid to Improve the Efficiency and Durability of the Oxygen Evolution Reaction</title>
