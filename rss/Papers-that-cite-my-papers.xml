@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Sep 2024 01:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 01:26:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Screening Transition-Metal-Incorporated &#946;-AgVO&lt;sub&gt;3&lt;/sub&gt; for Augmented Oxygen Reduction Activity</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c01636</link>
-      <description>Muhammed Fasil Puthiyaparambath, Raghu Chatanathodi, Langmuir. None(None)] 2024. https://openalex.org/W4402686808
-
-                Exploring cost-effective alternatives to Pt-based catalysts for the oxygen reduction reaction (ORR) in fuel cells is crucial for their large-scale deployment in green energy applications. Silver vanadate (AgVO</description>
-      <author>Muhammed Fasil Puthiyaparambath, Raghu Chatanathodi</author>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01636</guid>
-    </item>
-    <item>
-      <title>Few-shot learning for screening 2D Ga2CoS4&#8722; supported single-atom catalysts for hydrogen production</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.09.009</link>
-      <description>Nabil Khossossi, Poulumi Dey, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4402695792
-
-                No abstract</description>
-      <author>Nabil Khossossi, Poulumi Dey</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.09.009</guid>
-    </item>
     <item>
       <title>Exploring and Elucidating the CO&lt;sub&gt;2&lt;/sub&gt; Reduction Mechanisms on the Surface of Two-Dimensional Nitrogen-Vacancy (V&lt;sub&gt;N&lt;/sub&gt;) Hexagonal Boron Nitride</title>
       <link>https://doi.org/10.1021/acs.energyfuels.4c02168</link>

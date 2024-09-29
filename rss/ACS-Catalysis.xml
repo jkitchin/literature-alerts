@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Sep 2024 01:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 01:26:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/csv014i018_1847001</link>
-      <description>, ACS Catalysis. 14(18)] 2024. https://openalex.org/W4402689862
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i018_1847001</guid>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/csv014i018_1847002</link>
-      <description>, ACS Catalysis. 14(18)] 2024. https://openalex.org/W4402690503
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i018_1847002</guid>
-    </item>
   </channel>
 </rss>

@@ -1,49 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Sep 28 01:19:25 2024
+Created on Sun Sep 29 01:26:06 2024
 
-Found 2 results from 2024-09-21 to 2024-09-28
+Found 0 results from 2024-09-22 to 2024-09-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
-* Issue Publication Information  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402689862
-:TOPICS: 
-:PUBLICATION_DATE: 2024-09-20
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i018_1847001")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402689862"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402689862"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402689862"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402689862 (Open access: False)
-    
-, ACS Catalysis. 14(18)] 2024. https://doi.org/10.1021/csv014i018_1847001 
-     
-No abstract    
-
-    
-
-* Issue Editorial Masthead  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402690503
-:TOPICS: 
-:PUBLICATION_DATE: 2024-09-20
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i018_1847002")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402690503"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402690503"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402690503"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402690503 (Open access: False)
-    
-, ACS Catalysis. 14(18)] 2024. https://doi.org/10.1021/csv014i018_1847002 
-     
-No abstract    
-
-    
