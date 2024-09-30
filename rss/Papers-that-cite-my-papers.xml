@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Sep 2024 01:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 01:22:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,26 @@
       <author>Lokesh Yadav, Srimanta Pakhira</author>
       <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c02168</guid>
+    </item>
+    <item>
+      <title>Structural evolution and catalytic mechanisms of perovskite oxides in electrocatalysis</title>
+      <link>https://doi.org/10.1126/sciadv.adq4696</link>
+      <description>J. W. Zhao, Yunxiang Li, Deyan Luan, Xiong Wen Lou, Science Advances. 10(39)] 2024. https://openalex.org/W4402831200
+
+                Electrocatalysis plays a pivotal role in driving the progress of modern technologies and industrial processes such as energy conversion and emission reduction. Perovskite oxides, an important family of electrocatalysts, have garnered substantial attention in diverse catalytic reactions because of their highly tunable composition and structure, as well as their considerable activity and stability. This review delves into the mechanisms of electrocatalytic reactions that use perovskite oxides as electrocatalysts, while also providing a comprehensive summary of the potential key factors that influence catalytic activity across various reactions. Furthermore, this review offers an overview of advanced characterizations used for studying catalytic mechanisms and proposes approaches to designing highly efficient perovskite oxide electrocatalysts.</description>
+      <author>J. W. Zhao, Yunxiang Li, Deyan Luan, Xiong Wen Lou</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adq4696</guid>
+    </item>
+    <item>
+      <title>Basics of the reaction kinetics on metallic alloys</title>
+      <link>https://doi.org/10.1103/physreve.110.034804</link>
+      <description>Vladimir P. Zhdanov, Physical review. E. 110(3)] 2024. https://openalex.org/W4402859641
+
+                No abstract</description>
+      <author>Vladimir P. Zhdanov</author>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physreve.110.034804</guid>
     </item>
     <item>
       <title>LOS NANOMETALES</title>

@@ -1,11 +1,77 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Sep 29 01:26:05 2024
+Created on Mon Sep 30 01:22:25 2024
 
-Found 5 results from 2024-09-22 to 2024-09-29
+Found 14 results from 2024-09-23 to 2024-09-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
+
+## Review for "Accelerated screening of gas diffusion electrodes for carbon dioxide reduction"   
+
+OpenAlex: https://openalex.org/W4402934411    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4dd00061g/v1/review2.
+    
+No abstract    
+
+    
+
+## Decision letter for "Accelerated screening of gas diffusion electrodes for carbon dioxide reduction"   
+
+OpenAlex: https://openalex.org/W4402935014    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4dd00061g/v2/decision1.
+    
+No abstract    
+
+    
+
+## Review for "Accelerated screening of gas diffusion electrodes for carbon dioxide reduction"   
+
+OpenAlex: https://openalex.org/W4402934444    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4dd00061g/v1/review1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Accelerated screening of gas diffusion electrodes for carbon dioxide reduction"   
+
+OpenAlex: https://openalex.org/W4402934858    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4dd00061g/v1/decision1.
+    
+No abstract    
+
+    
+
+## Electrochemical CO2 reduction reaction on TM-C3N5 for C1 products: A DFT study   
+
+OpenAlex: https://openalex.org/W4402724209    
+Open access: False
+    
+[Huijun Cao](https://openalex.org/A5077187237), [Li Sheng](https://openalex.org/A5100623680), New Journal of Chemistry. None(None)] 2024.https://doi.org/10.1039/d4nj02934h.
+    
+In the electrochemical CO2 reduction reaction (CO2RR), transition metal atoms embedded in carbon and nitrogen materials are widely seen as highly efficient catalysts because of their excellent catalytic activity and...    
+
+    
+
+## Water-induced Switching in Selectivity and Steric Control of Activity in Photochemical CO2 Reduction Catalyzed by RhCp*(bpy) Derivatives   
+
+OpenAlex: https://openalex.org/W4402852228    
+Open access: False
+    
+[Dongseb Lee](https://openalex.org/A5063894173), [Kosei Yamauchi](https://openalex.org/A5039693008), [Ken Sakai](https://openalex.org/A5066627191), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-t3ltd-v3.
+    
+Photocatalytic reduction of CO2 to formic acid (HCOOH) was investigated in either organic or aqueous/organic media by employing three water-soluble [RhIIICp*(LH2)Cl]+ (LH2 = n,n’-dihydroxy-2,2’-bipyridine; n = 4, 5, or 6) in the presence of [Ru(bpy)3]2+, 1,3-dimethyl-2-phenyl-2,3-dihydro-1H-benzo[d]imidazole (BIH) and triethanolamine (TEOA). Through studying the electron-donating effects of two hydroxyl groups introduced to the bipyridyl ligand, we found that the substituent positions greatly affect both the catalytic efficiency and selectivity in CO2 reduction. More importantly, the HCOOH selectivity shows a dramatic increase from 14% to 83% upon switching the solvent media from pure organic to aqueous/organic mixture, where the H2 selectivity shows a reverse phenomenon. The enhanced HCOOH selectivity and the drastic decrease in the H2 yield are well rationalized by the fact that the catalytic CO2 hydrogenation is not only driven photochemically via the attack of RhIII(H)Cp*(LH2-•) on CO2 but also partly bypassed by a dark H2 addition reaction yielding [RhIII(H)Cp*(L)]- from [RhIIICp*(L)Cl]+, which was also separately investigated under the dark conditions. Combination of experimental and theoretical approaches were made to clarify the pKa values of catalyst intermediates together with the abundant species responsible for the major catalytic processes. Our DFT studies unveil that the exceptionally large structural strain given by the steric contacts between the 6,6’-dihydroxyl groups and the Cp* moiety plays a significant role in bringing about an outstanding catalytic performance of the 6,6’-subsituted derivative. The intrinsic reaction coordinate calculations were carried out to clarify the mechanism of hydride transfer steps leading to generate formate together the heterolytic H2 cleavage steps leading to afford the key hydridorhodium intermediates. This study represents the first report on the water-induced high selectivity in CO2-to-HCOOH conversion, shedding a new light on the strategy to control the efficiency and selectivity in the catalysis of CO2 reduction.    
+
+    
 
 ## Pengaruh Modifikasi Permukaan Piston terhadap Emisi Gas Buang Motor Bakar Kapasitas 100 cc   
 
@@ -51,6 +117,28 @@ This study examines the effects of methanol–diesel blends on the emissions of 
 
     
 
+## Investigating the Relationship between Energy Consumption and Environmental Degradation with the Moderating Influence of Technological Innovation   
+
+OpenAlex: https://openalex.org/W4402760981    
+Open access: True
+    
+[Suzan Sameer Issa](https://openalex.org/A5104617705), [Mosab I. Tabash](https://openalex.org/A5047532391), [Adel Ahmed](https://openalex.org/A5053922098), [Hosam Alden Riyadh](https://openalex.org/A5063324086), [Mohammed Alnahhal‬‏](https://openalex.org/A5007231493), [Manishkumar Varma](https://openalex.org/A5031656708), Journal of risk and financial management. 17(9)] 2024.https://doi.org/10.3390/jrfm17090419.
+    
+Energy consumption (ECON) in BRICS countries is fueled by fossil fuels, mainly coal. Increased environmental degradation (ED) in BRICS countries is mostly driven by coal consumption. This study utilizes quantile regression for the analysis, enabling the development of targeted energy reorganization and emission reduction policies in BRICS countries. This study uses data spanning from 1990 to 2022 to explore the impact of ECON on ED. Additionally, technological innovation was used to create a moderating role in the nexus between ECON and ED. The model focuses on CO2 emissions and the ecological footprint across ten BRICS countries. Among the nations included in the panel, the results indicate a significant dependence on cross-sectional factors. The study shows that ECON has a detrimental impact on ED across all quantiles. However, technological innovation reduces ED. In terms of a moderating role, technological innovation mitigates the negative influence of ECON on ED. Therefore, it is necessary to implement distinct policies in order to accomplish carbon emission reduction goals in various countries.    
+
+    
+
+## Development of the National Cooling Action Plan of the Philippines   
+
+OpenAlex: https://openalex.org/W4402732280    
+Open access: True
+    
+[A. Calderón](https://openalex.org/A5100774791), IOP Conference Series Earth and Environmental Science. 1395(1)] 2024.https://doi.org/10.1088/1755-1315/1395/1/012042.
+    
+Abstract The Philippines NCAP was developed to account for the environmental impacts of energy consumption (indirect impacts) and use of high-GWP refrigerants (direct impacts) from the RAC Sector that can be mitigated by transitioning to more climate-friendly and higher-efficiency refrigerants. Utilizing the NCAP Methodology developed by the UNEP-led Cool Coalition, UN ESCAP in collaboration with Alliance for an Energy Efficient Economy (AEEE) together with and built on the expertise of the Cool Coalition’s NCAP Working Group facilitated by The Kigali Cooling Efficiency Programme (K-CEP), the Philippines NCAP was launched by the Philippines Department of Energy – Energy Utilization and Management Bureau, Department of Environment and Natural Resources, and United Nations Development Programme (Philippines Country Office). This paper presented the Reference Cooling Scenario (RCS) and the Sustainable Cooling Scenario (SCS) adopted from the business-as-usual (BAU) and Clean Energy Scenario (CES) of the Philippine Energy Outlook. With these assumptions on RCS and SCS, the domestic refrigeration sector will save 4.41 TWh while the residential cooling sector will save 12.15 TWh. There is a net effect in total emission reduction estimates of 10.68 MT CO2 equivalent which is close to 12 % of the unconditional target submitted to UNFCCC.    
+
+    
+
 ## Role of Green Building Materials in Reducing Environmental and Human Health Impacts Using VIKOR Method   
 
 OpenAlex: https://openalex.org/W4402788835    
@@ -59,5 +147,16 @@ Open access: False
 , Trends in Finance and Economics. 2(3)] 2024.https://doi.org/10.46632/tfe/2/3/1.
     
 Green Building Materials (GBMs) are construction materials Green building materials (GBMs), sustainable building practices, resource conservation, energy efficiency, indoor air quality, environmental impact reduction, and renewable and recyclable materials. The drive to adopt GBMs is fueled by the need to reduce energy consumption, cut greenhouse gas emissions, and preserve natural resources. By incorporating renewable, recyclable, and non-toxic elements, GBMs are integral to sustainable building practices, ensuring a balance between development and environmental responsibility. Growing awareness of environmental challenges and the emphasis on sustainable development have made green building materials a central focus in contemporary construction. Environmental Impact Reduction: GBMs help decrease the environmental footprint of construction by cutting waste, cutting greenhouse gas emissions, and using less energy. These minerals are essential for maintaining ecosystems and halting climate change. Health & Well-Being: Research on GBMs makes it easier to create materials that improve indoor air quality and reduce exposure to dangerous pollutants, which benefits building occupants' comfort and health. Resource Conservation: This study promotes the use of recyclable and renewable materials, helping to preserve the planet's finite natural resources and encouraging the building sector to implement circular economy principles. Alternatives taken as Bamboo, Recycled Steel, Cork, Rammed Earth, Hempcrete, Straw Bale. Evaluation Parameters taken as Thermal Insulation (Benefit), Sustainability Score (Benefit), Cost per Square Meter (Non-Benefit), CO2 Emissions during Production (Non-Benefit). The results indicate that Recycled Steel achieved the highest rank, while Straw Bale had the lowest rank being attained. “The value of the dataset for Green Building Materials, according to the VIKOR, Recycled Steel achieves the highest ranking.”    
+
+    
+
+## Decarbonizing Commercial Vehicles: Life Cycle Assessment of Diesel, Petrol and Electric Trucks   
+
+OpenAlex: https://openalex.org/W4402732046    
+Open access: True
+    
+[Siti Indati Mustapa](https://openalex.org/A5068709071), [Vigna K. Ramachandaramurthy](https://openalex.org/A5017310885), [Norsyahida Mohammad](https://openalex.org/A5086466560), [Faheemullah Shaikh](https://openalex.org/A5077551868), IOP Conference Series Earth and Environmental Science. 1395(1)] 2024.https://doi.org/10.1088/1755-1315/1395/1/012016.
+    
+Abstract The electric vehicle (EV) landscape in Malaysia is still trailing behind the more established internal combustion engine industry. However, the promotion of EVs has become an increasing priority for the government, especially after committing to achieving net-zero emissions by 2050 at the earliest, as outlined in the 12th Malaysia Plan. Malaysia has set a target of having 1.5 million EVs by 2040, with a notable portion consisting of commercial EVs like buses and trucks. Developing the EV ecosystem and sustainable trucks in Malaysia faces challenges such as high costs and insufficient supporting infrastructure. This study aims to assess the Well-to-wheel life cycle of CO 2 emissions and total cost of ownership (TCO) of diesel trucks (DTs), petrol trucks (PTs), and electric trucks (ETs). The study employs IPCC 2006 guidelines to estimate CO 2 emissions and a TCO assessment method. The results indicate that the average CO2 emissions of ET are 38% lower than those of DT, and 33% lower than PT. Furthermore, the TCO of ET is 30% and 15% higher than that of DT and PT, respectively. Despite the higher cost, the study concludes that ETs display superior performance in terms of CO 2 emission reduction. These findings contribute significantly to the development of policies and knowledge aimed at promoting sustainable trucks, aligning with the country’s net-zero goals.    
 
     

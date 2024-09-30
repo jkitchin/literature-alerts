@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Sep 29 01:26:18 2024
+Created on Mon Sep 30 01:22:47 2024
 
-Found 2 results from 2024-09-22 to 2024-09-29
+Found 4 results from 2024-09-23 to 2024-09-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2112767720)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092)
@@ -23,6 +23,28 @@ OpenAlex: https://openalex.org/W4402741616
 Open access: False
     
 [Lokesh Yadav](https://openalex.org/A5083060018), [Srimanta Pakhira](https://openalex.org/A5062176232), Energy & Fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c02168.
+    
+No abstract    
+
+    
+
+## Structural evolution and catalytic mechanisms of perovskite oxides in electrocatalysis   
+
+OpenAlex: https://openalex.org/W4402831200    
+Open access: True
+    
+[J. W. Zhao](https://openalex.org/A5106235913), [Yunxiang Li](https://openalex.org/A5100690422), [Deyan Luan](https://openalex.org/A5069187134), [Xiong Wen Lou](https://openalex.org/A5032280861), Science Advances. 10(39)] 2024.https://doi.org/10.1126/sciadv.adq4696.
+    
+Electrocatalysis plays a pivotal role in driving the progress of modern technologies and industrial processes such as energy conversion and emission reduction. Perovskite oxides, an important family of electrocatalysts, have garnered substantial attention in diverse catalytic reactions because of their highly tunable composition and structure, as well as their considerable activity and stability. This review delves into the mechanisms of electrocatalytic reactions that use perovskite oxides as electrocatalysts, while also providing a comprehensive summary of the potential key factors that influence catalytic activity across various reactions. Furthermore, this review offers an overview of advanced characterizations used for studying catalytic mechanisms and proposes approaches to designing highly efficient perovskite oxide electrocatalysts.    
+
+    
+
+## Basics of the reaction kinetics on metallic alloys   
+
+OpenAlex: https://openalex.org/W4402859641    
+Open access: False
+    
+[Vladimir P. Zhdanov](https://openalex.org/A5003936887), Physical review. E. 110(3)] 2024.https://doi.org/10.1103/physreve.110.034804.
     
 No abstract    
 

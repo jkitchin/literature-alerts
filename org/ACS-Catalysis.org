@@ -1,8 +1,91 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Sep 29 01:26:06 2024
+Created on Mon Sep 30 01:22:27 2024
 
-Found 0 results from 2024-09-22 to 2024-09-29
+Found 4 results from 2024-09-23 to 2024-09-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
+* Cation Effects on the Brønsted Acidity of Solid Tungstosilicic Acid Clusters  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402731483
+:TOPICS: Polyoxometalate Clusters and Materials, Catalytic Dehydrogenation of Light Alkanes, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-09-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03233")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402731483"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402731483"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402731483"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402731483 (Open access: False)
+    
+[[https://openalex.org/A5067244216][Guangming Cai]], [[https://openalex.org/A5004875114][Prashant Deshlahra]], [[https://openalex.org/A5039229575][Ya-Huei Cathy Chin]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03233 
+     
+No abstract    
+
+    
+
+* Iron(I) Tetraphenylporphyrin Is an Active Catalyst in Reductive Deoxygenation when Switching from CO2 to Isoelectronic N2O  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402803986
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Role of Porphyrins and Phthalocyanines in Materials Chemistry
+:PUBLICATION_DATE: 2024-09-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05259")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402803986"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402803986"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402803986"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402803986 (Open access: False)
+    
+[[https://openalex.org/A5051267180][C. Chartier]], [[https://openalex.org/A5023975269][Rana Deeba]], [[https://openalex.org/A5060643613][A. Collard]], [[https://openalex.org/A5088894574][Sylvie Chardon‐Noblat]], [[https://openalex.org/A5069277615][Cyrille Costentin]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05259 
+     
+No abstract    
+
+    
+
+* Reactive Surface Explored by NAP-XPS: Why Ionic Conductors Are Promoters for Water Gas Shift Reaction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402830959
+:TOPICS: Catalytic Nanomaterials, Atomic Layer Deposition Technology, Solid Oxide Fuel Cells
+:PUBLICATION_DATE: 2024-09-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04287")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402830959"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402830959"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402830959"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402830959 (Open access: True)
+    
+[[https://openalex.org/A5013920391][Nuria García‐Moncada]], [[https://openalex.org/A5078941828][Anna Penkova]], [[https://openalex.org/A5058516998][Miriam González‐Castaño]], [[https://openalex.org/A5083582086][J.A. Odriozola]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04287 
+     
+No abstract    
+
+    
+
+* Direct Deoxygenative Homocoupling of Alcohols to Access C(sp3)–C(sp3) Bonds via Synergistic Ruthenium/Nickel Catalysis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402839609
+:TOPICS: Homogeneous Catalysis with Transition Metals, Innovations in Organic Synthesis Reactions, Catalytic Conversion of Biomass to Fuels and Chemicals
+:PUBLICATION_DATE: 2024-09-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04400")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402839609"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402839609"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402839609"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402839609 (Open access: False)
+    
+[[https://openalex.org/A5102739406][Dawei Cao]], [[https://openalex.org/A5038425347][Shumei Xia]], [[https://openalex.org/A5100419702][Lijuan Li]], [[https://openalex.org/A5029284131][Huiying Zeng]], [[https://openalex.org/A5021388534][Chao‐Jun Li]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04400 
+     
+No abstract    
+
+    

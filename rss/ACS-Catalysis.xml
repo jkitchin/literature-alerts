@@ -4,8 +4,48 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 29 Sep 2024 01:26:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 01:22:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Cation Effects on the Br&#248;nsted Acidity of Solid Tungstosilicic Acid Clusters</title>
+      <link>https://doi.org/10.1021/acscatal.4c03233</link>
+      <description>Guangming Cai, Prashant Deshlahra, Ya-Huei Cathy Chin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402731483
+
+                No abstract</description>
+      <author>Guangming Cai, Prashant Deshlahra, Ya-Huei Cathy Chin</author>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03233</guid>
+    </item>
+    <item>
+      <title>Iron(I) Tetraphenylporphyrin Is an Active Catalyst in Reductive Deoxygenation when Switching from CO&lt;sub&gt;2&lt;/sub&gt; to Isoelectronic N&lt;sub&gt;2&lt;/sub&gt;O</title>
+      <link>https://doi.org/10.1021/acscatal.4c05259</link>
+      <description>C. Chartier, Rana Deeba, A. Collard, Sylvie Chardon&#8208;Noblat, Cyrille Costentin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402803986
+
+                No abstract</description>
+      <author>C. Chartier, Rana Deeba, A. Collard, Sylvie Chardon&#8208;Noblat, Cyrille Costentin</author>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05259</guid>
+    </item>
+    <item>
+      <title>Reactive Surface Explored by NAP-XPS: Why Ionic Conductors Are Promoters for Water Gas Shift Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c04287</link>
+      <description>Nuria Garc&#237;a&#8208;Moncada, Anna Penkova, Miriam Gonz&#225;lez&#8208;Casta&#241;o, J.A. Odriozola, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402830959
+
+                No abstract</description>
+      <author>Nuria Garc&#237;a&#8208;Moncada, Anna Penkova, Miriam Gonz&#225;lez&#8208;Casta&#241;o, J.A. Odriozola</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04287</guid>
+    </item>
+    <item>
+      <title>Direct Deoxygenative Homocoupling of Alcohols to Access C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;C(sp&lt;sup&gt;3&lt;/sup&gt;) Bonds via Synergistic Ruthenium/Nickel Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c04400</link>
+      <description>Dawei Cao, Shumei Xia, Lijuan Li, Huiying Zeng, Chao&#8208;Jun Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402839609
+
+                No abstract</description>
+      <author>Dawei Cao, Shumei Xia, Lijuan Li, Huiying Zeng, Chao&#8208;Jun Li</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04400</guid>
+    </item>
   </channel>
 </rss>
