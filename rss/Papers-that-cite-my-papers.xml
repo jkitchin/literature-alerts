@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Sep 2024 01:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 01:27:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Heterogeneous single-cluster catalysts (Ni4, Fe4) supported on 2D materials (ZnO monolayer, graphene and borophene) for efficient hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.commatsci.2024.113407</link>
+      <description>Rongzhi Wang, Jin&#8208;Cheng Zheng, Computational Materials Science. 246(None)] 2024. https://openalex.org/W4402737319
+
+                No abstract</description>
+      <author>Rongzhi Wang, Jin&#8208;Cheng Zheng</author>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113407</guid>
+    </item>
     <item>
       <title>Exploring and Elucidating the CO&lt;sub&gt;2&lt;/sub&gt; Reduction Mechanisms on the Surface of Two-Dimensional Nitrogen-Vacancy (V&lt;sub&gt;N&lt;/sub&gt;) Hexagonal Boron Nitride</title>
       <link>https://doi.org/10.1021/acs.energyfuels.4c02168</link>
@@ -16,6 +26,16 @@
       <author>Lokesh Yadav, Srimanta Pakhira</author>
       <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c02168</guid>
+    </item>
+    <item>
+      <title>Modulated electronic structure of atomic W-doped NiO/Cr2S3 nanotube heterostructure on nickel foam for enhanced overall water splitting</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124641</link>
+      <description>Mai Mai, Van Hien Hoa, Sampath Prabhakaran, Huyen Dao, Do Hwan Kim, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4402829680
+
+                No abstract</description>
+      <author>Mai Mai, Van Hien Hoa, Sampath Prabhakaran, Huyen Dao, Do Hwan Kim</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124641</guid>
     </item>
     <item>
       <title>Structural evolution and catalytic mechanisms of perovskite oxides in electrocatalysis</title>
@@ -28,6 +48,36 @@
       <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adq4696</guid>
     </item>
     <item>
+      <title>Studies on Porous Nanostructured Palladium&#8211;Cobalt&#8211;Silica as Heterogeneous Catalysts for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1134/s1023193524700344</link>
+      <description>P.C. P&#225;ndey, Chetna Singh, Russian Journal of Electrochemistry. 60(9)] 2024. https://openalex.org/W4402840311
+
+                No abstract</description>
+      <author>P.C. P&#225;ndey, Chetna Singh</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1134/s1023193524700344</guid>
+    </item>
+    <item>
+      <title>Toward High-Performance Electrochemical Ammonia Synthesis by Circumventing the Surface H-Mediated N&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/jacsau.4c00741</link>
+      <description>Zhe Chen, Tao Wang, JACS Au. None(None)] 2024. https://openalex.org/W4402840771
+
+                No abstract</description>
+      <author>Zhe Chen, Tao Wang</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.4c00741</guid>
+    </item>
+    <item>
+      <title>A Combined First-Principles and Data-Driven Computational Framework to Analyze the Surface Structure, Composition, and Stability of Binary Alloy Catalysts</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04150</link>
+      <description>Gaurav Deshmukh, Pushkar Ghanekar, Jeffrey Greeley, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4402887368
+
+                No abstract</description>
+      <author>Gaurav Deshmukh, Pushkar Ghanekar, Jeffrey Greeley</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04150</guid>
+    </item>
+    <item>
       <title>Basics of the reaction kinetics on metallic alloys</title>
       <link>https://doi.org/10.1103/physreve.110.034804</link>
       <description>Vladimir P. Zhdanov, Physical review. E. 110(3)] 2024. https://openalex.org/W4402859641
@@ -36,16 +86,6 @@
       <author>Vladimir P. Zhdanov</author>
       <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1103/physreve.110.034804</guid>
-    </item>
-    <item>
-      <title>LOS NANOMETALES</title>
-      <link>https://doi.org/10.17533/udea.rcm.22872</link>
-      <description>Asdr&#250;bal Valencia Giraldo, Revista Colombiana de Materiales. None(6)] 2015. https://openalex.org/W4402720219
-
-                .</description>
-      <author>Asdr&#250;bal Valencia Giraldo</author>
-      <pubDate>Wed, 27 May 2015 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.17533/udea.rcm.22872</guid>
     </item>
   </channel>
 </rss>

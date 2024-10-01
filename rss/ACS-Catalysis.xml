@@ -4,18 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Sep 2024 01:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 01:27:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Cation Effects on the Br&#248;nsted Acidity of Solid Tungstosilicic Acid Clusters</title>
-      <link>https://doi.org/10.1021/acscatal.4c03233</link>
-      <description>Guangming Cai, Prashant Deshlahra, Ya-Huei Cathy Chin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402731483
+      <title>Enhanced Radical Dehydrogenation over Carbon Monoxide-Decorated Palladium Sites for Linear &#945;-Olefin Production from Biomass-Derived Fatty Acids</title>
+      <link>https://doi.org/10.1021/acscatal.4c03129</link>
+      <description>Genheng Li, Juntao Ren, Zhipeng Huang, Jianyu Han, Nengchao Luo, Yanming Hu, Feng Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402781688
 
                 No abstract</description>
-      <author>Guangming Cai, Prashant Deshlahra, Ya-Huei Cathy Chin</author>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03233</guid>
+      <author>Genheng Li, Juntao Ren, Zhipeng Huang, Jianyu Han, Nengchao Luo, Yanming Hu, Feng Wang</author>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03129</guid>
+    </item>
+    <item>
+      <title>Fe-Based Materials for Photocatalytic Nitrogen Reduction to Ammonia: Unique Advantages, Challenges, and Perspectives</title>
+      <link>https://doi.org/10.1021/acscatal.4c03431</link>
+      <description>Tong Hu, Xiaodi Cheng, Jie Luo, Yupeng Yan, Qin Zhang, Li Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402794200
+
+                No abstract</description>
+      <author>Tong Hu, Xiaodi Cheng, Jie Luo, Yupeng Yan, Qin Zhang, Li Yang</author>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03431</guid>
     </item>
     <item>
       <title>Iron(I) Tetraphenylporphyrin Is an Active Catalyst in Reductive Deoxygenation when Switching from CO&lt;sub&gt;2&lt;/sub&gt; to Isoelectronic N&lt;sub&gt;2&lt;/sub&gt;O</title>
@@ -26,6 +36,16 @@
       <author>C. Chartier, Rana Deeba, A. Collard, Sylvie Chardon&#8208;Noblat, Cyrille Costentin</author>
       <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05259</guid>
+    </item>
+    <item>
+      <title>Suppressing H&lt;sub&gt;2&lt;/sub&gt; Evolution with Sterically Encumbered Proton Sources to Improve the Faradaic Efficiency for CO&lt;sub&gt;2&lt;/sub&gt; Reduction to Formate</title>
+      <link>https://doi.org/10.1021/acscatal.4c03809</link>
+      <description>Andrew D. Cypcar, Kevin Bui, Jenny Y. Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402819074
+
+                No abstract</description>
+      <author>Andrew D. Cypcar, Kevin Bui, Jenny Y. Yang</author>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03809</guid>
     </item>
     <item>
       <title>Reactive Surface Explored by NAP-XPS: Why Ionic Conductors Are Promoters for Water Gas Shift Reaction</title>
@@ -46,6 +66,16 @@
       <author>Dawei Cao, Shumei Xia, Lijuan Li, Huiying Zeng, Chao&#8208;Jun Li</author>
       <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04400</guid>
+    </item>
+    <item>
+      <title>Photo-Induced Pyridylic C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Alkylation with Unactivated Alkenes Enabled by Hydrogen Atom Transfer/Lewis Acid Cocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05026</link>
+      <description>Yusuke Kuroda, Hikaru Saito, Tsukasa Tawatari, Kiyosei Takasu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402903128
+
+                No abstract</description>
+      <author>Yusuke Kuroda, Hikaru Saito, Tsukasa Tawatari, Kiyosei Takasu</author>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05026</guid>
     </item>
   </channel>
 </rss>

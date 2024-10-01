@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Sep 2024 01:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 01:27:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Finding a natural rhythm</title>
+      <link>https://doi.org/10.1038/s44286-024-00117-2</link>
+      <description>Paul J. Dauenhauer, Nature Chemical Engineering. 1(9)] 2024. https://openalex.org/W4402744874
+
+                No abstract</description>
+      <author>Paul J. Dauenhauer</author>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s44286-024-00117-2</guid>
+    </item>
   </channel>
 </rss>

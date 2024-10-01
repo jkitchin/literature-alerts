@@ -4,8 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Sep 2024 01:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 01:27:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Design and Optimization of Processes for Recovering Rare Earth Elements from End-of-Life Hard Disk Drives</title>
+      <link>https://doi.org/10.2172/2447625</link>
+      <description>Chris Laliwala, Ana I. Torres, No host. None(None)] 2024. https://openalex.org/W4402876652
+
+                No abstract</description>
+      <author>Chris Laliwala, Ana I. Torres</author>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2447625</guid>
+    </item>
+    <item>
+      <title>Scale-Bridging Optimization Framework for Desalination Integrated Produced Water Networks</title>
+      <link>https://doi.org/10.2172/2447622</link>
+      <description>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven, No host. None(None)] 2024. https://openalex.org/W4402876667
+
+                No abstract</description>
+      <author>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven</author>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2447622</guid>
+    </item>
   </channel>
 </rss>
