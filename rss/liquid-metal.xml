@@ -4,8 +4,38 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Oct 2024 01:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 01:20:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Design and Application of a Liquid Metal Ball-Supported Layered Double Hydroxide Core-Shell Structure as Highly Efficient Catalysts for the Oxygen Evolution Reaction in Rechargeable Zinc-Air Batteries</title>
+      <link>https://doi.org/10.2139/ssrn.4968676</link>
+      <description>Liqing Qiao, Wenwei Liu, Na Du, Wangwang Xu, Yankun Li, Haofeng Wu, Zhonghua Bao, No host. None(None)] 2024. https://openalex.org/W4402889971
+
+                No abstract</description>
+      <author>Liqing Qiao, Wenwei Liu, Na Du, Wangwang Xu, Yankun Li, Haofeng Wu, Zhonghua Bao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4968676</guid>
+    </item>
+    <item>
+      <title>Microwave-powered liquid metal depolymerization for plastic upcycling</title>
+      <link>https://doi.org/10.21203/rs.3.rs-3550378/v1</link>
+      <description>Jianye Gao, Jun Zhao, Zerong Xing, Minghui Guo, Haijiao Xie, Wangjing Ma, Jing Liu, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4402956622
+
+                Abstract Upcycling waste plastics is highly promising to tackle the global white pollution while achieving sustainable development. However, prevailing approaches often encounter challenges in scalable engineering practices due to either insufficient capability or arduousness in separation, recovery, and purification of catalysts, which inevitably augments the cost of plastic upcycling. Here, we present the microwave-powered liquid metal synergetic depolymerization to facilitate low-cost plastic upcycling. By leveraging the fluidity of liquid metals and their exceptional chemical-bond activation ability under microwave field, this method efficiently converts various polyolefins into narrowband hydrocarbon oil (Oil yield: 81 wt% for PP, 85.9 wt% for PE) and high-value olefin monomers (C2-4= selectivity: 50% for PE, 65.3% for PP) over 30 successive cycles, resulting in a high turnover frequency of 2.83 kgPlastic/mLCatalyst. These captivating advantages offered by electromagnetically-powered liquid metals are also supported by their self-separation features, thereby paving the way for large-scale engineering solutions in waste plastic upcycling.</description>
+      <author>Jianye Gao, Jun Zhao, Zerong Xing, Minghui Guo, Haijiao Xie, Wangjing Ma, Jing Liu</author>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3550378/v1</guid>
+    </item>
+    <item>
+      <title>An X&#8208;Ray Absorption Spectroscopy Investigation into the Fundamental Structure of Liquid Metal Alloys</title>
+      <link>https://doi.org/10.1002/smsc.202400317</link>
+      <description>Jaydon Meilak, Karma Zuraiqi, Valerie D. Mitchell, Bernt Johannessen, Brittany Kerr, Pierre H. A. Vaillant, Krystina Lamb, Patjaree Aukarasereenont, Caiden J. Parker, Taren Cataldo, Fran&#231;ois Malherbe, Andrew J. Christofferson, Torben Daeneke, Rosalie K. Hocking, Small Science. None(None)] 2024. https://openalex.org/W4402782973
+
+                Gallium and gallium alloys have gained significant interest due to gallium's low melting point. This property allows for gallium&#8208;based catalysts to take advantage of the unique reaction environments only available in the liquid state. While understanding of the catalytic properties of liquid metals is emerging, a comprehensive investigation into the fundamental structures of these materials has yet to be undertaken. Herein, the structure of liquid gallium, along with related liquid alloys EGaIn, EGaSn, and Galinstan are explored using X&#8208;ray absorption spectroscopy (XAS). In contrast to some other studies that show dimers, analysis of the XAS data both in X&#8208;ray absorption near edge structure and extended X&#8208;ray absorption fine structure shows that when fully dissolved the materials are largely homogenous with no obvious signs of local structures. Ga shows a bond contraction when melted which is consistent with its increase in density; however, an expansion in bond length is observed when alloyed with In and Sn. XAS data indicate that the effective nuclear charge ( Z eff ) of In and Sn follows the trend expected based on electronegativity. Molecular dynamic (MD) simulations are performed to simulate the structure and trends between MD and XAS; the trends agree well but MD overestimates bond lengths.</description>
+      <author>Jaydon Meilak, Karma Zuraiqi, Valerie D. Mitchell, Bernt Johannessen, Brittany Kerr, Pierre H. A. Vaillant, Krystina Lamb, Patjaree Aukarasereenont, Caiden J. Parker, Taren Cataldo, Fran&#231;ois Malherbe, Andrew J. Christofferson, Torben Daeneke, Rosalie K. Hocking</author>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smsc.202400317</guid>
+    </item>
   </channel>
 </rss>

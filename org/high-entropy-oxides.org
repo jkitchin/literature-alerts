@@ -1,8 +1,28 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Tue Oct  1 01:27:14 2024
+Created on Wed Oct  2 01:20:06 2024
 
-Found 0 results from 2024-09-24 to 2024-10-01
+Found 1 results from 2024-09-25 to 2024-10-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
+* High entropy alloys: assessing atomic-scale mixing and surface passivation with time-of-flight secondary ion mass spectrometry  :high_entropy_oxides:
+:PROPERTIES:
+:UUID: https://openalex.org/W4402848206
+:TOPICS: Ion Beam Surface Analysis and Nanoscale Patterning, Atom Probe Tomography Research, High-Entropy Alloys: Novel Designs and Properties
+:PUBLICATION_DATE: 2024-09-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-gnlt0")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402848206"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402848206"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402848206"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4402848206 (Open access: False)
+    
+[[https://openalex.org/A5069160885][O. Laurent]], [[https://openalex.org/A5058380649][Maria Letizia De Marco]], [[https://openalex.org/A5065949519][Marco Faustini]], [[https://openalex.org/A5052141810][Laurence Rozes]], [[https://openalex.org/A5022961903][Claude Poleunis]], [[https://openalex.org/A5028537733][Arnaud Delcorte]], [[https://openalex.org/A5054134347][Damien P. Debecker]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-gnlt0 
+     
+High entropy alloys (HEAs) are alloys that consist of five or more principal elements in near-equiatomic proportions, that tend to form simple solid solutions during solidification owing to high mixing entropy. HEAs have been identified as promising candidates for various heterogeneous catalysis and electrocatalysis applications. This work illustrates the utility of time-of-flight secondary ion mass spectrometry (ToF-SIMS) in analyzing HEAs, offering detailed chemical information about the top layers of a sample. Ru-Pt-Pd-Ir-Rh based porous HEAs with different mixing characteristics were analyzed alongside seven simpler alloys. An automatic quantification process was developed to effectively deal with the large data sets obtained from ToF-SIMS spectra of HEAs, allowing for accurate and reliable data interpretation. The complex chemical fingerprint obtained from the alloys surface was translated into a matrix showing the individual isotopic mass distributions of each poly atomic chemical species. From this, we introduce two key metrics: the Cluster Ratio (CR) and the Oxide Ratio (OR), to quantify respectively the degree of atomic-level mixing and the surface oxidation. With such data processing framework in hands, ToF-SIMS becomes a highly effective tool for assessing the properties of HEAs. Our findings reveal that increasing elemental complexity (number of different elements in the alloy) enhances atomic mixing. Moreover, HEAs with enhanced atomic mixing are shown to be more resistant to surface oxidation.    
+
+    

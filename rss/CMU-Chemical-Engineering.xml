@@ -4,9 +4,49 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Oct 2024 01:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 01:20:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Optimal Design of Intensified Towers for CO2 Capture with Internal, Printed Heat Exchangers</title>
+      <link>https://doi.org/10.2172/2447116</link>
+      <description>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski, No host. None(None)] 2024. https://openalex.org/W4402785471
+
+                No abstract</description>
+      <author>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski</author>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2447116</guid>
+    </item>
+    <item>
+      <title>Unifying theory of electronic descriptors of metal surfaces upon perturbation</title>
+      <link>https://doi.org/10.1103/physrevb.110.l121404</link>
+      <description>Yen-Chen Huang, Shih&#8208;Han Wang, Mohith Kamanuru, Luke E. K. Achenie, John R. Kitchin, Hongliang Xin, Physical review. B./Physical review. B. 110(12)] 2024. https://openalex.org/W4402796790
+
+                No abstract</description>
+      <author>Yen-Chen Huang, Shih&#8208;Han Wang, Mohith Kamanuru, Luke E. K. Achenie, John R. Kitchin, Hongliang Xin</author>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.l121404</guid>
+    </item>
+    <item>
+      <title>Self&#8208;organized Patterns in Non&#8208;reciprocal Active Droplet Systems</title>
+      <link>https://doi.org/10.1002/anie.202409382</link>
+      <description>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402831696
+
+                Non&#8208;equilibrium patterns are widespread in nature and often arise from the self&#8208;organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil&#8208;in&#8208;water droplet mixtures with predator&#8208;prey interactions can result in a variety of self&#8208;organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self&#8208;organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.</description>
+      <author>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202409382</guid>
+    </item>
+    <item>
+      <title>Self&#8208;organized Patterns in Non&#8208;reciprocal Active Droplet Systems</title>
+      <link>https://doi.org/10.1002/ange.202409382</link>
+      <description>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402836320
+
+                Non&#8208;equilibrium patterns are widespread in nature and often arise from the self&#8208;organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil&#8208;in&#8208;water droplet mixtures with predator&#8208;prey interactions can result in a variety of self&#8208;organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self&#8208;organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.</description>
+      <author>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409382</guid>
+    </item>
     <item>
       <title>Design and Optimization of Processes for Recovering Rare Earth Elements from End-of-Life Hard Disk Drives</title>
       <link>https://doi.org/10.2172/2447625</link>
@@ -26,6 +66,106 @@
       <author>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven</author>
       <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2447622</guid>
+    </item>
+    <item>
+      <title>Author response for "Temperature, humidity, and ionisation effect of iodine oxoacid nucleation"</title>
+      <link>https://doi.org/10.1039/d4ea00013g/v2/response1</link>
+      <description>Birte R&#246;rup, Xu&#8208;Cheng He, Jiali Shen, Rima Baalbaki, Lubna Dada, Mikko Sipil&#228;, J. Kirkby, Markku Kulmala, A. Amorim, Andrea Baccarini, David M. Bell, Luc&#237;a Caudillo-Plath, Jonathan Duplissy, Henning Finkenzeller, Andreas Kuerten, Houssni Lamkaddam, Chuan Ping Lee, Vladimir Makhmutov, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Bernhard Mentler, Antti Onnela, Maxim Philippov, Christian W. Scholz, Mario Simon, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Mingyi Wang, Dongyu S. Wang, Yonghong Wang, Stefan K. Weber, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Neil M. Donahue, Imad El Haddad, Richard C. Flagan, Armin Hansel, Ottmar M&#246;hler, Tuukka Pet&#228;j&#228;, Rainer Volkamer, Douglas R. Worsnop, Katrianne Lehtipalo, No host. None(None)] 2024. https://openalex.org/W4402882181
+
+                No abstract</description>
+      <author>Birte R&#246;rup, Xu&#8208;Cheng He, Jiali Shen, Rima Baalbaki, Lubna Dada, Mikko Sipil&#228;, J. Kirkby, Markku Kulmala, A. Amorim, Andrea Baccarini, David M. Bell, Luc&#237;a Caudillo-Plath, Jonathan Duplissy, Henning Finkenzeller, Andreas Kuerten, Houssni Lamkaddam, Chuan Ping Lee, Vladimir Makhmutov, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Bernhard Mentler, Antti Onnela, Maxim Philippov, Christian W. Scholz, Mario Simon, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Mingyi Wang, Dongyu S. Wang, Yonghong Wang, Stefan K. Weber, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Neil M. Donahue, Imad El Haddad, Richard C. Flagan, Armin Hansel, Ottmar M&#246;hler, Tuukka Pet&#228;j&#228;, Rainer Volkamer, Douglas R. Worsnop, Katrianne Lehtipalo</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00013g/v2/response1</guid>
+    </item>
+    <item>
+      <title>Author response for "Interactions of peroxy radicals from monoterpene and isoprene oxidation simulated in the radical volatility basis set"</title>
+      <link>https://doi.org/10.1039/d4ea00056k/v2/response1</link>
+      <description>Meredith Schervish, Martin Heinritzi, Dominik Stolzenburg, Lubna Dada, Mingyi Wang, Qing Ye, Victoria Hofbauer, Jenna DeVivo, Federico Bianchi, Sophia Brilke, Jonathan Duplissy, Imad El Haddad, Henning Finkenzeller, Xu&#8208;Cheng He, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Changhyuk Kim, J. Kirkby, Markku Kulmala, Katrianne Lehtipalo, Brandon Lopez, Vladimir Makhmutov, Bernhard Mentler, Ugo Molteni, Wei Nie, Tuuka Petaja, Lauriane L. J. Qu&#233;l&#233;ver, Rainer Volkamer, Andrea C. Wagner, Paul M. Winkler, Chao Yan, Neil M. Donahue, No host. None(None)] 2024. https://openalex.org/W4402882186
+
+                No abstract</description>
+      <author>Meredith Schervish, Martin Heinritzi, Dominik Stolzenburg, Lubna Dada, Mingyi Wang, Qing Ye, Victoria Hofbauer, Jenna DeVivo, Federico Bianchi, Sophia Brilke, Jonathan Duplissy, Imad El Haddad, Henning Finkenzeller, Xu&#8208;Cheng He, &#1040;. &#1053;. &#1050;&#1074;&#1072;&#1096;&#1085;&#1080;&#1085;, Changhyuk Kim, J. Kirkby, Markku Kulmala, Katrianne Lehtipalo, Brandon Lopez, Vladimir Makhmutov, Bernhard Mentler, Ugo Molteni, Wei Nie, Tuuka Petaja, Lauriane L. J. Qu&#233;l&#233;ver, Rainer Volkamer, Andrea C. Wagner, Paul M. Winkler, Chao Yan, Neil M. Donahue</author>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00056k/v2/response1</guid>
+    </item>
+    <item>
+      <title>Integrating the Design of Desalination Technologies into Produced Water Network Optimization</title>
+      <link>https://doi.org/10.2172/2447902</link>
+      <description>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven, No host. None(None)] 2024. https://openalex.org/W4402947496
+
+                No abstract</description>
+      <author>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven</author>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2447902</guid>
+    </item>
+    <item>
+      <title>Progressive Hedging Decomposition for Solutions of Large-Scale Process Family Design Problems</title>
+      <link>https://doi.org/10.2172/2447903</link>
+      <description>Georgia Stinchfield, Jean&#8208;Paul Watson, Carl D. Laird, No host. None(None)] 2024. https://openalex.org/W4402948304
+
+                No abstract</description>
+      <author>Georgia Stinchfield, Jean&#8208;Paul Watson, Carl D. Laird</author>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2447903</guid>
+    </item>
+    <item>
+      <title>Author response for "Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer"</title>
+      <link>https://doi.org/10.1039/d3ea00001j/v2/response1</link>
+      <description>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu S. Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad, No host. None(None)] 2023. https://openalex.org/W4402882105
+
+                No abstract</description>
+      <author>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu S. Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad</author>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ea00001j/v2/response1</guid>
+    </item>
+    <item>
+      <title>Author response for "Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer"</title>
+      <link>https://doi.org/10.1039/d3ea00001j/v3/response1</link>
+      <description>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu S. Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad, No host. None(None)] 2023. https://openalex.org/W4402882307
+
+                No abstract</description>
+      <author>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu S. Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad</author>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ea00001j/v3/response1</guid>
+    </item>
+    <item>
+      <title>Author response for "Single particle measurements of mixing between mimics for biomass burning and aged secondary organic aerosols"</title>
+      <link>https://doi.org/10.1039/d2ea00017b/v2/response1</link>
+      <description>Luke Habib, Neil M. Donahue, No host. None(None)] 2022. https://openalex.org/W4402880915
+
+                No abstract</description>
+      <author>Luke Habib, Neil M. Donahue</author>
+      <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d2ea00017b/v2/response1</guid>
+    </item>
+    <item>
+      <title>Author response for "Survival of newly formed particles in haze conditions"</title>
+      <link>https://doi.org/10.1039/d2ea00007e/v2/response1</link>
+      <description>Ruby Marten, Mao Xiao, Birte R&#246;rup, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu S. Wang, Wiebke Scholz, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Biwu Chu, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, Armin Hansel, Martin Heinritzi, Victoria Hofbauer, Deniz Kemppainen, Andreas K&#252;rten, Markus Lampim&#228;ki, Katrianne Lehtipalo, Vladimir Makhmutov, Hanna E. Manninen, Bernhard Mentler, Tuukka Pet&#228;j&#228;, Maxim Philippov, Jiali Shen, Mario Simon, Y. I. Stozhkov, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Yonghong Wang, Stefan K. Weber, Yusheng Wu, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Ottmar M&#246;hler, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad, No host. None(None)] 2022. https://openalex.org/W4402880965
+
+                No abstract</description>
+      <author>Ruby Marten, Mao Xiao, Birte R&#246;rup, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu S. Wang, Wiebke Scholz, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Biwu Chu, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, Armin Hansel, Martin Heinritzi, Victoria Hofbauer, Deniz Kemppainen, Andreas K&#252;rten, Markus Lampim&#228;ki, Katrianne Lehtipalo, Vladimir Makhmutov, Hanna E. Manninen, Bernhard Mentler, Tuukka Pet&#228;j&#228;, Maxim Philippov, Jiali Shen, Mario Simon, Y. I. Stozhkov, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Yonghong Wang, Stefan K. Weber, Yusheng Wu, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Ottmar M&#246;hler, Rainer Volkamer, Paul M. Winkler, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad</author>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d2ea00007e/v2/response1</guid>
+    </item>
+    <item>
+      <title>Author response for "Dilution and photooxidation driven processes explain the evolution of organic aerosol in wildfire plumes"</title>
+      <link>https://doi.org/10.1039/d1ea00082a/v2/response1</link>
+      <description>Ali Akherati, Yicong He, Lauren A. Garofalo, Anna L. Hodshire, Delphine K. Farmer, Sonia M. Kreidenweis, Wade Permar, Lu Hu, Emily V. Fischer, Coty N. Jen, A. H. Goldstein, Ezra J. T. Levin, Paul J. DeMott, T. Campos, F. Flocke, J. M. Reeves, D. W. Toohey, Jeffrey R. Pierce, Shantanu H. Jathar, No host. None(None)] 2022. https://openalex.org/W4402881792
+
+                No abstract</description>
+      <author>Ali Akherati, Yicong He, Lauren A. Garofalo, Anna L. Hodshire, Delphine K. Farmer, Sonia M. Kreidenweis, Wade Permar, Lu Hu, Emily V. Fischer, Coty N. Jen, A. H. Goldstein, Ezra J. T. Levin, Paul J. DeMott, T. Campos, F. Flocke, J. M. Reeves, D. W. Toohey, Jeffrey R. Pierce, Shantanu H. Jathar</author>
+      <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d1ea00082a/v2/response1</guid>
+    </item>
+    <item>
+      <title>Author response for "Peroxy radical kinetics and new particle formation"</title>
+      <link>https://doi.org/10.1039/d0ea00017e/v2/response1</link>
+      <description>Meredith Schervish, Neil M. Donahue, No host. None(None)] 2020. https://openalex.org/W4402880552
+
+                No abstract</description>
+      <author>Meredith Schervish, Neil M. Donahue</author>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d0ea00017e/v2/response1</guid>
     </item>
   </channel>
 </rss>
