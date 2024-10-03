@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Oct 2024 01:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 01:20:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>High-throughput screening of efficient graphdiyne supported transition metal single atom toward water electrolysis and oxygen reduction</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115773</link>
-      <description>Chunyan Sun, Shengming Zhang, Peijie Wang, Minghui Wei, Li Wang, Xue&#8208;Rong Shi, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4402759016
-
-                No abstract</description>
-      <author>Chunyan Sun, Shengming Zhang, Peijie Wang, Minghui Wei, Li Wang, Xue&#8208;Rong Shi</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115773</guid>
-    </item>
-    <item>
-      <title>FeNi nanoparticle-modified reduced graphene oxide as a durable electrocatalyst for oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115771</link>
-      <description>Inna Yusnila Khairani, Benjin Jin, Sidney M. Palardonio, Ulrich Hagemann, Beatriz Alonso, Amaya Ortega, Carlos Do&#241;ate&#8208;Buend&#237;a, Jordi Martorell, Carles Ros, Tanja Kallio, Bilal G&#246;kce, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4402759044
-
-                No abstract</description>
-      <author>Inna Yusnila Khairani, Benjin Jin, Sidney M. Palardonio, Ulrich Hagemann, Beatriz Alonso, Amaya Ortega, Carlos Do&#241;ate&#8208;Buend&#237;a, Jordi Martorell, Carles Ros, Tanja Kallio, Bilal G&#246;kce</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115771</guid>
-    </item>
-    <item>
-      <title>Scalable Solid-State Synthesis of Carbon-Supported Ir Electrocatalysts for Acidic Oxygen Evolution Reaction: Exploring the Structure&#8211;Activity Relationship</title>
-      <link>https://doi.org/10.1021/acsami.4c10522</link>
-      <description>Ebrahim Sadeghi, P. Morgen, Darko Makovec, Sa&#353;o Gyergyek, Raghunandan Sharma, Shuang Ma Andersen, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402759968
-
-                Enhancing iridium (Ir)-based electrocatalysts to achieve high activity and robust durability for the oxygen evolution reaction (OER) in acidic environments has been an ongoing mission in the commercialization of proton exchange membrane (PEM) electrolyzers. In this study, we present the synthesis of carbon-supported Ir nanoparticles (NPs) using a modified impregnation method followed by solid-state reduction, with Ir loadings of 20 and 40 wt % on carbon. Among the catalysts, the sample with an Ir loading of 20 wt % synthesized at 1000 &#176;C with a heating rate of 300 &#176;C/h demonstrated the highest mass-normalized OER performance of 1209 A g</description>
-      <author>Ebrahim Sadeghi, P. Morgen, Darko Makovec, Sa&#353;o Gyergyek, Raghunandan Sharma, Shuang Ma Andersen</author>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c10522</guid>
-    </item>
-    <item>
-      <title>Customizing Ionic Liquids Functionalized MOFs Composites with Hydrophobic Interface for Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acsami.4c10640</link>
-      <description>Jie Wang, Meng Shi, Liping Tang, Songju Ruan, Ying-Ying Chao, Peng Chen, Feng&#8208;Cui Shen, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402761092
-
-                The electrochemical carbon dioxide reduction reaction (CO</description>
-      <author>Jie Wang, Meng Shi, Liping Tang, Songju Ruan, Ying-Ying Chao, Peng Chen, Feng&#8208;Cui Shen</author>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c10640</guid>
-    </item>
-    <item>
-      <title>In Situ Facet Transformation Engineering over Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for Highly Efficient Electroreduction of Nitrate to Ammonia</title>
-      <link>https://doi.org/10.1021/acscatal.4c05292</link>
-      <description>Suwei Lu, Guohui Lin, Hongping Yan, Yuhang Li, Tingting Qi, Yuanjin Li, Shijing Liang, Lilong Jiang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402764591
-
-                No abstract</description>
-      <author>Suwei Lu, Guohui Lin, Hongping Yan, Yuhang Li, Tingting Qi, Yuanjin Li, Shijing Liang, Lilong Jiang</author>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05292</guid>
-    </item>
-    <item>
-      <title>Electroreduction of CO2 to methane with triazole molecular catalysts</title>
-      <link>https://doi.org/10.1038/s41560-024-01645-0</link>
-      <description>Zhanyou Xu, Ruihu Lu, Zih&#8208;Yi Lin, Weixing Wu, Hsin-Jung Tsai, Qian L&#252;, Yuguang Li, Sung&#8208;Fu Hung, Chunshan Song, Jimmy C. Yu, Ziyun Wang, Ying Wang, Nature Energy. None(None)] 2024. https://openalex.org/W4402769985
-
-                No abstract</description>
-      <author>Zhanyou Xu, Ruihu Lu, Zih&#8208;Yi Lin, Weixing Wu, Hsin-Jung Tsai, Qian L&#252;, Yuguang Li, Sung&#8208;Fu Hung, Chunshan Song, Jimmy C. Yu, Ziyun Wang, Ying Wang</author>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41560-024-01645-0</guid>
-    </item>
-    <item>
-      <title>A review of power-to-X and its prospects for integration in Nigeria&#8217;s energy transition plan</title>
-      <link>https://doi.org/10.1186/s40807-024-00129-9</link>
-      <description>Mahlon Kida Marvin, Zakiyyu Muhammad Sarkinbaka, Sustainable Energy Research. 11(1)] 2024. https://openalex.org/W4402773244
-
-                Abstract Nigeria currently relies on 80% thermal energy generation. However, studies have shown that less than 60% of the population have access to power. To address this issue, Nigeria has developed an energy transition plan to achieve net-zero emissions by utilizing eco-friendly and sustainable renewable energy sources. However, the effectiveness of renewable energy resources is often hampered by seasonal variations, which limit the amount of energy that can be produced to meet growing demand. One effective solution to this challenge is long-term energy storage, particularly during periods of low demand. Power-to-X (PtX) technology offers a promising approach by enabling long-term sustainable energy generation and storage for future use when renewable energy availability decreases during peak demands. This study critically reviews the latest advancements in renewable PtX technology and evaluates its potential application within Nigeria's energy sector. Furthermore, it explores the potential obstacles to the widespread adoption of PtX technology in Nigeria. Despite Nigeria&#8217;s significant potential for implementing PtX initiatives, the country currently falls behind in technology deployment and viable production pathways for sustainable PtX implementation. This shortfall is primarily due to lack of policies, frameworks, and financing schemes to support infrastructural development, especially for long-term energy storage. Given the intermittent nature of renewable energy, a transition strategy that includes adequate storage capacity is crucial. Although green hydrogen, a key component of PtX, has substantial potential as an energy carrier in Nigeria, its immediate use is limited by high production costs. Nonetheless, ongoing efforts to diversify Nigeria&#8217;s energy mix through infrastructure and policy developments could eventually establish a roadmap for PtX implementation, promoting long-term energy sustainability and distribution efficiency.</description>
-      <author>Mahlon Kida Marvin, Zakiyyu Muhammad Sarkinbaka</author>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1186/s40807-024-00129-9</guid>
-    </item>
-    <item>
-      <title>Tailoring Oxygen Reduction Reaction on M&#8211;N&#8211;C Catalysts via Axial Coordination Engineering</title>
-      <link>https://doi.org/10.1002/smll.202406078</link>
-      <description>Dandan Liu, Xin Wan, Jianglan Shui, Small. None(None)] 2024. https://openalex.org/W4402781874
-
-                Abstract The development of fuel cells and metal&#8208;air batteries is an important link in realizing a sustainable energy supply and a green environment for the future. Oxygen reduction reaction (ORR) is the core reaction of such energy conversion devices. M&#8211;N&#8211;C catalysts exhibit encouraging ORR catalytic activity and are the most promising candidates for replacing Pt/C. The electrocatalytic performance of M&#8211;N&#8211;C catalysts is intimately related to the specific metal species and the coordination environment of the central metal atom. Axial coordination engineering presents an avenue for the development of highly active ORR catalysts and has seen considerable progress over the past decade. Nevertheless, the accurate control over the coordination environment and electronic structure of M&#8211;N&#8211;C catalysts at the atomic scale poses a big challenge. Herein, the diverse axial ligands, characterization techniques, and modulation mechanisms for axial coordination engineering are encompassed and discussed. Furthermore, some pressing matters to be solved and challenges that deserve to be explored and investigated in the future for axial coordination engineering are proposed.</description>
-      <author>Dandan Liu, Xin Wan, Jianglan Shui</author>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202406078</guid>
-    </item>
-    <item>
-      <title>Enhancement of molecular circular dichroism with silver nanoparticles</title>
-      <link>https://doi.org/10.1103/physrevb.110.115423</link>
-      <description>Ville J. H&#228;rk&#246;nen, Tuomas P. Rossi, Mikael Kuisma, Patrick Rinke, Xi Chen, Physical review. B./Physical review. B. 110(11)] 2024. https://openalex.org/W4402794734
-
-                No abstract</description>
-      <author>Ville J. H&#228;rk&#246;nen, Tuomas P. Rossi, Mikael Kuisma, Patrick Rinke, Xi Chen</author>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.115423</guid>
-    </item>
-    <item>
-      <title>Unifying theory of electronic descriptors of metal surfaces upon perturbation</title>
-      <link>https://doi.org/10.1103/physrevb.110.l121404</link>
-      <description>Yen-Chen Huang, Shih&#8208;Han Wang, Mohith Kamanuru, Luke E. K. Achenie, John R. Kitchin, Hongliang Xin, Physical review. B./Physical review. B. 110(12)] 2024. https://openalex.org/W4402796790
-
-                No abstract</description>
-      <author>Yen-Chen Huang, Shih&#8208;Han Wang, Mohith Kamanuru, Luke E. K. Achenie, John R. Kitchin, Hongliang Xin</author>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.l121404</guid>
-    </item>
     <item>
       <title>Non-radical photoelectrochemical production of free chlorine from diluted chloride solutions on BiVO4</title>
       <link>https://doi.org/10.1016/j.apcatb.2024.124644</link>
@@ -476,6 +376,126 @@
       <author>Subin Choi, Sejun Kim, Sunghoon Han, Jian Wang, Juwon Kim, Bonho Koo, Alexander A. Ryabin, Sebastian Kunze, Hyejeong Hyun, Jeongwoo Han, Shu-Chih Haw, Keun Hwa Chae, Chang Hyuck Choi, Hyungjun Kim, Jongwoo Lim</author>
       <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03594</guid>
+    </item>
+    <item>
+      <title>A Constraint-Based Orbital-Optimized Excited State Method (COOX)</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c00467</link>
+      <description>J&#246;rg Ku&#223;mann, Yannick Lemke, Anthea Weinbrenner, Christian Ochsenfeld, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4402987837
+
+                In this work, we present a novel method to directly calculate targeted electronic excited states within a self-consistent field calculation based on constrained density functional theory (cDFT). The constraint is constructed from the static occupied-occupied and virtual-virtual parts of the excited state difference density from (simplified) linear-response time-dependent density functional theory calculations (LR-TDDFT). Our new method shows a stable convergence behavior, provides an accurate excited state density adhering to the Aufbau principle, and can be solved within a restricted SCF for singlet excitations to avoid spin contamination. This also allows the straightforward application of post-SCF electron-correlation methods like MP2 or direct RPA methods. We present the details of our constraint-based orbital-optimized excited state method (COOX) and compare it to similar schemes. The accuracy of excitation energies will be analyzed for a benchmark of systems, while the quality of the resulting excited state densities is investigated by evaluating excited state nuclear forces and excited state structure optimizations. We also investigate the performance of the proposed COOX method for long-range charge transfer excitations and conical intersections with the ground-state.</description>
+      <author>J&#246;rg Ku&#223;mann, Yannick Lemke, Anthea Weinbrenner, Christian Ochsenfeld</author>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00467</guid>
+    </item>
+    <item>
+      <title>Photoanode Applications of Polyene-Diphenylaniline Dyes Molecules Adsorbed on TiO2 Brookite Cluster</title>
+      <link>https://doi.org/10.5772/intechopen.1005450</link>
+      <description>Ife Elegbeleye, Eric Maluta, Rapela R. Maphanga, Michael Walter, Oliver Br&#252;gner, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4402990515
+
+                TiO2 has excellent photoelectrochemical properties, which makes its suitable for photoanode applications. TiO2 is widely utilized as semiconductor for dye-sensitized photoanode owing to its excellent stability and availability. The brookite polymorph of TiO2 has been suggested to demonstrate better photocatalytic properties. In this work, we studied the adsorption of polyenediphenyl-aniline dyes on (TiO2) n = 8, 68 brookite clusters using density functional theory (DFT). We report our results on the UV&#8211;Vis absorption spectra of the dyes and dyes adsorbed on TiO2 clusters, adsorption energies of the dyes adsorbed on TiO2 clusters, electronic density of states and projected electronic density of states of the dyes adsorbed on TiO2 complex, and electron density of the main molecular orbitals involved in photoexcitation for dye-sensitized solar cells application. The calculated adsorption energies of D5@(TiO2)68, D7@(TiO2)68, D9@(TiO2)68, and D11@(TiO2)68 are 4.84, 4.78, 4.66 and 4.92 eV, respectively. The results of the adsorption energies are in the order D11@(TiO2)8 &gt; D9@(TiO2)8 &gt; D7@(TiO2)8 &gt; D5@(TiO2)8 and D11@ (TiO2)68 &gt; D5@ (TiO2)68 &gt; D7@ (TiO2)68 &gt; D9@ (TiO2)68. This implies that D11 dye molecule reacts more strongly with (TiO2)8 and (TiO2)68 brookite clusters than the other corresponding dye molecules.</description>
+      <author>Ife Elegbeleye, Eric Maluta, Rapela R. Maphanga, Michael Walter, Oliver Br&#252;gner</author>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.1005450</guid>
+    </item>
+    <item>
+      <title>Structure&#8211;Activity Relationships in Oxygen Electrocatalysis</title>
+      <link>https://doi.org/10.1002/adma.202408139</link>
+      <description>Jingqi Guan, Jingru Sun, Siyu Chen, Siying Zhang, Luoluo Qi, Anaer Husile, Jingqi Guan, Advanced Materials. None(None)] 2024. https://openalex.org/W4402994393
+
+                Abstract Oxygen electrocatalysis, as the pivotal circle of many green energy technologies, sets off a worldwide research boom in full swing, while its large kinetic obstacles require remarkable catalysts to break through. Here, based on summarizing reaction mechanisms and in situ characterizations, the structure&#8211;activity relationships of oxygen electrocatalysts are emphatically overviewed, including the influence of geometric morphology and chemical structures on the electrocatalytic performances. Subsequently, experimental/theoretical research is combined with device applications to comprehensively summarize the cutting&#8208;edge oxygen electrocatalysts according to various material categories. Finally, future challenges are forecasted from the perspective of catalyst development and device applications, favoring researchers to promote the industrialization of oxygen electrocatalysis at an early date.</description>
+      <author>Jingqi Guan, Jingru Sun, Siyu Chen, Siying Zhang, Luoluo Qi, Anaer Husile, Jingqi Guan</author>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202408139</guid>
+    </item>
+    <item>
+      <title>Enhancing &lt;scp&gt;HER&lt;/scp&gt; catalyst screening of modified &lt;scp&gt;MXenes&lt;/scp&gt; through &lt;scp&gt;DFT&lt;/scp&gt; and machine learning integration</title>
+      <link>https://doi.org/10.1002/aic.18618</link>
+      <description>Hui Xu, Wei Lv, Shaojie Yang, Shihe Yang, Yawei Liu, Feng Huo, AIChE Journal. None(None)] 2024. https://openalex.org/W4402997886
+
+                Abstract MXenes doped with non&#8208;metallic and transition metal elements exhibit remarkable potential as catalysts in the hydrogen energy. Nonetheless, efficiently identifying viable materials from a vast array of candidates remains a formidable challenge. Here, we conducted density functional theory (DFT) calculations to obtain the hydrogen adsorption free energy () of 78 types of doped TiVCO 2 MXene catalysts. Then we employed machine learning models to categorize the values of the 78 catalysts, resulted in an accurate model which only uses 7 readily available elemental features but has an impressive accuracy of 93.6%. Our model successfully predicting 5 TiVCO 2 catalysts doped with S with superior performance, subsequently validated through DFT calculations. This classification methodology not only evaluates the range of effectively but also facilitates qualitative prediction and screening of catalysts, presenting a novel approach for catalytic systems with limited available data.</description>
+      <author>Hui Xu, Wei Lv, Shaojie Yang, Shihe Yang, Yawei Liu, Feng Huo</author>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aic.18618</guid>
+    </item>
+    <item>
+      <title>Regulating Fe Intermediate Spin States via FeN&lt;sub&gt;4&lt;/sub&gt;&#8208;Cl&#8208;Ti Structure for Enhanced Oxygen Reduction</title>
+      <link>https://doi.org/10.1002/aenm.202403899</link>
+      <description>Shuren Zhang, Yitong Han, Rui Zhang, Qian Zhang, Genban Sun, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4403000792
+
+                Abstract Modulating the spin states of FeN 4 moieties is critical for enhancing the electrocatalytic oxygen reduction reaction (ORR). In this study, Ti 4 N 3 Cl x and Ti 4 N 3 O x MXenes are synthesized and functionalized with iron phthalocyanine (FePc) to form model catalysts with well&#8208;defined FeN 4 &#8208;Cl&#8208;Ti and FeN 4 &#8208;O&#8208;Ti structures, respectively. The FeN 4 &#8208;Cl&#8208;Ti structure, formed within the Ti 4 N 3 Cl x /FePc composite, enables precise modulation of FeN 4 spin states from low to intermediate spin, significantly enhancing ORR performance. In contrast, the FeN 4 &#8208;O&#8208;Ti structure in Ti 4 N 3 O x /FePc shows less effective spin state modulation, leading to comparatively lower ORR activity. Compared to FePc and Ti 4 N 3 O x /FePc, Ti 4 N 3 Cl x /FePc demonstrates superior electrochemical performance, with an ORR half&#8208;wave potential of +0.91 V versus RHE and doubled power densities in Zn&#8211;air batteries (214.5 mW cm &#8722;2 ). Theoretical studies confirm that the intermediate spin states induced by the weak&#8208;field ligand&#8208;modified FeN 4 &#8208;Cl&#8208;Ti structure in Ti 4 N 3 Cl x /FePc facilitate electron filling in the antibonding orbital composed of Fe 3dz 2 and O 2 &#960;* orbitals, greatly enhancing O&#8322; activation and ORR activity. These findings underscore the superior catalytic properties of FeN 4 &#8208;Cl&#8208;Ti compared to FeN 4 &#8208;O&#8208;Ti, advancing the understanding of spin state&#8208;related catalytic mechanisms and guiding the design of high&#8208;performance ORR catalysts.</description>
+      <author>Shuren Zhang, Yitong Han, Rui Zhang, Qian Zhang, Genban Sun</author>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403899</guid>
+    </item>
+    <item>
+      <title>Exploring the potential of &#945;-Ge(1 1 1) monolayer in photocatalytic water splitting for hydrogen production</title>
+      <link>https://doi.org/10.1016/j.flatc.2024.100753</link>
+      <description>Vin&#237;cius G. Garcia, Guilherme J. Inacio, L. Fiorini Filho, Lu&#237;za T. Pacheco, F.N.N. Pansini, Marcos G. Menezes, Wendel S. Paz, FlatChem. None(None)] 2024. https://openalex.org/W4403001015
+
+                No abstract</description>
+      <author>Vin&#237;cius G. Garcia, Guilherme J. Inacio, L. Fiorini Filho, Lu&#237;za T. Pacheco, F.N.N. Pansini, Marcos G. Menezes, Wendel S. Paz</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.flatc.2024.100753</guid>
+    </item>
+    <item>
+      <title>Topological Synthesis of 2D High&#8208;Entropy Multimetallic (Oxy)hydroxide for Enhanced Lattice Oxygen Oxidation Mechanism</title>
+      <link>https://doi.org/10.1002/adma.202409530</link>
+      <description>Sijia Liu, Baorui Jia, Sheng Wang, Yongzhi Zhao, Luan Liu, Fengmei Fan, Yunpu Qin, Jianfang Liu, Yirui Jiang, Bin Sun, Hong Zhao, Hao Li, Wenxiang Zhou, Haoyang Wu, Deyin Zhang, Xuanhui Qu, Mingli Qin, Advanced Materials. None(None)] 2024. https://openalex.org/W4403002748
+
+                Abstract Owing to sluggish reaction kinetics and high potential, oxygen evolution reaction (OER) electrocatalysts face a trade&#8208;off between activity and stability. Herein, an innovative topological strategy is presented for preparing 2D multimetallic (oxy)hydroxide, including ternary CoFeZn, quaternary CoFeMnZn, and high&#8208;entropy CoFeMnCuZn. The key to the synthesis lies in using Ca&#8208;rich brownmillerite oxide as a precursor, which possesses inherent structural flexibility enabling tailored elemental adjustments and topologically transforms from a point&#8208;shared structure of metal&#8208;oxygen octahedrons into an edge&#8208;shared structure under alkaline conditions. The presence of Zn in the catalysts causes a shift in the center of the O2p band toward the Fermi level, resulting in more Co 4+ species, which drive holes into oxygen ligands to promote intramolecular oxygen coupling. The triggered lattice oxidation mechanism is identified by detecting peroxo&#8208;like (O 2 2&#8722; ) negative species using tetramethylammonium chemical probe, along with 18 O isotope labeling experiments. As a result, the catalyst demonstrates an overpotential of 267 mV at 10 mA cm &#8722;2 , ranking it among the top&#8208;performing non&#8208;Ni&#8208;based catalysts. Importantly, the catalysts also show high Fe&#8208;leaching resistance during OER compared to conventional NiFe and CoFe hydroxides/(oxy)hydroxides. The assembled zinc&#8208;air battery enables stable operation for over 225 h at a low charging voltage of 1.93 V.</description>
+      <author>Sijia Liu, Baorui Jia, Sheng Wang, Yongzhi Zhao, Luan Liu, Fengmei Fan, Yunpu Qin, Jianfang Liu, Yirui Jiang, Bin Sun, Hong Zhao, Hao Li, Wenxiang Zhou, Haoyang Wu, Deyin Zhang, Xuanhui Qu, Mingli Qin</author>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202409530</guid>
+    </item>
+    <item>
+      <title>Monovacant Janus WSSe designed as a bifunctional photocatalyst for OER and CO2RR with multiple C1 products</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105206</link>
+      <description>Xiunan Chen, Yuhong Huang, Haiping Lin, Ruhai Du, Xiumei Wei, Fei Ma, Jing Liu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4403012848
+
+                No abstract</description>
+      <author>Xiunan Chen, Yuhong Huang, Haiping Lin, Ruhai Du, Xiumei Wei, Fei Ma, Jing Liu</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105206</guid>
+    </item>
+    <item>
+      <title>Chalcogen vacancy-enhanced electrocatalytic activity of 2D Janus NbSSe monolayers for hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.09.322</link>
+      <description>A. L. Verma, Anirban Dutta, International Journal of Hydrogen Energy. None(None)] 2024. https://openalex.org/W4403014682
+
+                No abstract</description>
+      <author>A. L. Verma, Anirban Dutta</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.322</guid>
+    </item>
+    <item>
+      <title>PtCu-a-SnO2 interface engineering on PtCu-SnO2 aerogels for ethanol oxidation electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.cej.2024.156321</link>
+      <description>Yongying Wang, Yangge Guo, Zhengwei Zhang, Zirui Wu, Chanez Maouche, Shuiyun Shen, Yi Li, Junliang Zhang, Juan Yang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403015148
+
+                No abstract</description>
+      <author>Yongying Wang, Yangge Guo, Zhengwei Zhang, Zirui Wu, Chanez Maouche, Shuiyun Shen, Yi Li, Junliang Zhang, Juan Yang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156321</guid>
+    </item>
+    <item>
+      <title>A review of CO2 capture for amine-based deep eutectic solvents</title>
+      <link>https://doi.org/10.1016/j.jil.2024.100114</link>
+      <description>Maizatul Akmar Ismail, Asiah Nusaibah Masri, Naghmana Rashid, Izni Mariah Ibrahim, Journal of Ionic Liquids. None(None)] 2024. https://openalex.org/W4403016401
+
+                No abstract</description>
+      <author>Maizatul Akmar Ismail, Asiah Nusaibah Masri, Naghmana Rashid, Izni Mariah Ibrahim</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jil.2024.100114</guid>
+    </item>
+    <item>
+      <title>Exploring Electrolyte Adsorption on the Different Types of Layered Cathode Surfaces in Lithium-Ion Batteries via a Universal Neural Network Potential Method</title>
+      <link>https://doi.org/10.1021/acsomega.4c02484</link>
+      <description>Attila T&#225;borosi, Hiromasa Shiiba, Michihisa Koyama, Nobuyuki Zettsu, ACS Omega. None(None)] 2024. https://openalex.org/W4403016978
+
+                No abstract</description>
+      <author>Attila T&#225;borosi, Hiromasa Shiiba, Michihisa Koyama, Nobuyuki Zettsu</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c02484</guid>
     </item>
     <item>
       <title>Hydrogenated Pyridine&#8208;Pyrrole Nitrogen&#8208;Doped Carbon for High&#8208;Efficiency Electrosynthesis of Hydrogen Peroxide in NaCl Electrolyte</title>

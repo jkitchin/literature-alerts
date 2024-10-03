@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Oct 2024 01:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 01:20:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unifying theory of electronic descriptors of metal surfaces upon perturbation</title>
-      <link>https://doi.org/10.1103/physrevb.110.l121404</link>
-      <description>Yen-Chen Huang, Shih&#8208;Han Wang, Mohith Kamanuru, Luke E. K. Achenie, John R. Kitchin, Hongliang Xin, Physical review. B./Physical review. B. 110(12)] 2024. https://openalex.org/W4402796790
-
-                No abstract</description>
-      <author>Yen-Chen Huang, Shih&#8208;Han Wang, Mohith Kamanuru, Luke E. K. Achenie, John R. Kitchin, Hongliang Xin</author>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.l121404</guid>
-    </item>
   </channel>
 </rss>

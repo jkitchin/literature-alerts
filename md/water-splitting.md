@@ -1,330 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Wed Oct  2 01:20:01 2024
+Created on Thu Oct  3 01:20:09 2024
 
-Found 136 results from 2024-09-25 to 2024-10-02
+Found 109 results from 2024-09-26 to 2024-10-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Tuning electronic structure of cobaltous nitride-manganous oxide heterojunction by N-vacancy engineering for optimizing oxygen electrocatalysis activity   
-
-OpenAlex: https://openalex.org/W4402757307    
-Open access: False
-    
-[Xiaoqin Xu](https://openalex.org/A5032756107), [Tianmi Tang](https://openalex.org/A5006901660), [Guiru Zhang](https://openalex.org/A5077435969), [Jingqi Guan](https://openalex.org/A5074571254), Nano Energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.110294.
-    
-No abstract    
-
-    
-
-## Potential-Driven Structural Evolution of Single-Atom Rhenium Sites Enables High-Performance Oxygen Electrode Reaction and Rechargeable Zn-Air Battery   
-
-OpenAlex: https://openalex.org/W4402757746    
-Open access: True
-    
-[Luoluo Qi](https://openalex.org/A5023454042), [Min Lu](https://openalex.org/A5033769817), [Xiaogang Wang](https://openalex.org/A5100444820), [Zhiyao Duan](https://openalex.org/A5007032744), [Jia Li](https://openalex.org/A5100454297), [Jingqi Guan](https://openalex.org/A5074571254), CCS Chemistry. None(None)] 2024.https://doi.org/10.31635/ccschem.024.202404810.
-    
-No abstract    
-
-    
-
-## Deeply understanding electrocatalytic oxygen evolution reaction from the perspective of defect structures   
-
-OpenAlex: https://openalex.org/W4402758639    
-Open access: False
-    
-[Huan Wang](https://openalex.org/A5100331995), [Fan Wu](https://openalex.org/A5003655552), [Songlan Yang](https://openalex.org/A5055179363), [Guannan Gong](https://openalex.org/A5102525517), [Sen Chen](https://openalex.org/A5100658274), [Liqing Jiao](https://openalex.org/A5066029529), [Feifei You](https://openalex.org/A5005436632), [Jian Qi](https://openalex.org/A5082699212), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156124.
-    
-No abstract    
-
-    
-
-## FeNi nanoparticle-modified reduced graphene oxide as a durable electrocatalyst for oxygen evolution   
-
-OpenAlex: https://openalex.org/W4402759044    
-Open access: True
-    
-[Inna Yusnila Khairani](https://openalex.org/A5055878362), [Benjin Jin](https://openalex.org/A5088447630), [Sidney M. Palardonio](https://openalex.org/A5068152349), [Ulrich Hagemann](https://openalex.org/A5074048659), [Beatriz Alonso](https://openalex.org/A5022111830), [Amaya Ortega](https://openalex.org/A5085432322), [Carlos Doñate‐Buendía](https://openalex.org/A5086528627), [Jordi Martorell](https://openalex.org/A5002276985), [Carles Ros](https://openalex.org/A5086260708), [Tanja Kallio](https://openalex.org/A5078947642), [Bilal Gökce](https://openalex.org/A5064040676), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115771.
-    
-No abstract    
-
-    
-
-## Scalable Solid-State Synthesis of Carbon-Supported Ir Electrocatalysts for Acidic Oxygen Evolution Reaction: Exploring the Structure–Activity Relationship   
-
-OpenAlex: https://openalex.org/W4402759968    
-Open access: False
-    
-[Ebrahim Sadeghi](https://openalex.org/A5077985944), [P. Morgen](https://openalex.org/A5044593278), [Darko Makovec](https://openalex.org/A5057716057), [Sašo Gyergyek](https://openalex.org/A5082111268), [Raghunandan Sharma](https://openalex.org/A5028577447), [Shuang Ma Andersen](https://openalex.org/A5032516491), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c10522.
-    
-Enhancing iridium (Ir)-based electrocatalysts to achieve high activity and robust durability for the oxygen evolution reaction (OER) in acidic environments has been an ongoing mission in the commercialization of proton exchange membrane (PEM) electrolyzers. In this study, we present the synthesis of carbon-supported Ir nanoparticles (NPs) using a modified impregnation method followed by solid-state reduction, with Ir loadings of 20 and 40 wt % on carbon. Among the catalysts, the sample with an Ir loading of 20 wt % synthesized at 1000 °C with a heating rate of 300 °C/h demonstrated the highest mass-normalized OER performance of 1209 A g    
-
-    
-
-## In− Situ Construction of Fe−Doped NiOOH on the 3D Ni(OH)2 Hierarchical Nanosheet Array for Efficient Electrocatalytic Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4402762775    
-Open access: True
-    
-[Mengyang Li](https://openalex.org/A5100462417), [Mingran Wang](https://openalex.org/A5054598101), [Qianwei Wang](https://openalex.org/A5089537090), [Yang Cao](https://openalex.org/A5100868596), [Jie Gao](https://openalex.org/A5070844152), [Sheng Wang](https://openalex.org/A5100371335), [Meiqi Gao](https://openalex.org/A5101325137), [Guosheng Duan](https://openalex.org/A5011851464), [Feng Cao](https://openalex.org/A5018845108), Materials. 17(18)] 2024.https://doi.org/10.3390/ma17184670.
-    
-Accessible and superior electrocatalysts to overcome the sluggish oxygen evolution reaction (OER) are pivotal for sustainable and low-cost hydrogen production through electrocatalytic water splitting. The iron and nickel oxohydroxide complexes are regarded as the most promising OER electrocatalyst attributed to their inexpensive costs, easy preparation, and robust stability. In particular, the Fe-doped NiOOH is widely deemed to be superior constituents for OER in an alkaline environment. However, the facile construction of robust Fe-doped NiOOH electrocatalysts is still a great challenge. Herein, we report the facile construction of Fe-doped NiOOH on Ni(OH)2 hierarchical nanosheet arrays grown on nickel foam (FeNi@NiA) as efficient OER electrocatalysts through a facile in-situ electrochemical activation of FeNi-based Prussian blue analogues (PBA) derived from Ni(OH)2. The resultant FeNi@NiA heterostructure shows high intrinsic activity for OER due to the modulation of the overall electronic energy state and the electrical conductivity. Importantly, the electrochemical measurement revealed that FeNi@NiA exhibits a low overpotential of 240 mV at 10 mA/cm2 with a small Tafel slope of 62 mV dec−1 in 1.0 M KOH, outperforming the commercial RuO2 electrocatalysts for OER.    
-
-    
-
-## Developing a Cobalt Phosphide Catalyst with Combined Cobalt Defects and Phosphorus Vacancies to Boost Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4402763060    
-Open access: True
-    
-[Wen Ou](https://openalex.org/A5042493730), [Ligui Li](https://openalex.org/A5046123156), [Wei Zhou](https://openalex.org/A5085945257), [Minzhe Chen](https://openalex.org/A5031461890), [Chuheng Zhu](https://openalex.org/A5018409412), [Xiaoyan Zhu](https://openalex.org/A5100520463), [Ke Yuan](https://openalex.org/A5030597175), Materials. 17(18)] 2024.https://doi.org/10.3390/ma17184647.
-    
-Defect engineering, by adjusting the surface charge and active sites of CoP catalysts, significantly enhances the efficiency of the oxygen evolution reaction (OER). We have developed a new Co1−xPv catalyst that has both cobalt defects and phosphorus vacancies, demonstrating excellent OER performance. Under both basic and acidic media, the catalyst incurs a modest overvoltage, with 238 mV and 249 mV needed, respectively, to attain a current density of 10 mA cm−2. In the practical test of alkaline electrocatalytic water splitting (EWS), the Co1−xPv || Pt/C EWS shows a low cell voltage of 1.51 V and superior performance compared to the noble metal-based EWS (RuO2 || Pt/C, 1.66 V). This catalyst’s exceptional catalytic efficiency and longevity are mainly attributed to its tunable electronic structure. The presence of cobalt defects facilitates the transformation of Co2+ to Co3+, while phosphorus vacancies enhance the interaction with oxygen species (*OH, *O, *OOH), working in concert to improve the OER efficiency. This strategy offers a new approach to designing transition metal phosphide catalysts with coexisting metal defects and phosphorus vacancies, which is crucial for improving energy conversion efficiency and catalyst performance.    
-
-    
-
-## Bimetallic Cu–Zn Prussian blue analogue nanoparticles for enhanced oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4402765493    
-Open access: False
-    
-[B. Purusottam Reddy](https://openalex.org/A5050080601), [Ammar M. Tighezza](https://openalex.org/A5021817115), [Mallesham Godumala](https://openalex.org/A5002788875), [M. Chandra Sekhar](https://openalex.org/A5067953248), [Youngsuk Suh](https://openalex.org/A5101626809), [Si‐Hyun Park](https://openalex.org/A5050964308), Journal of Materials Science. None(None)] 2024.https://doi.org/10.1007/s10853-024-10219-0.
-    
-No abstract    
-
-    
-
-## Unveiling the Dynamic Evolution of Catalytic Sites in N-Doped Leaf-like Carbon Frames Embedded with Co Particles for Rechargeable Zn–Air Batteries   
-
-OpenAlex: https://openalex.org/W4402767509    
-Open access: True
-    
-[Yuebin Lian](https://openalex.org/A5035531804), [Wei-Long Xu](https://openalex.org/A5006599392), [Xiaojiao Du](https://openalex.org/A5052462507), [Yannan Zhang](https://openalex.org/A5009714711), [Weibai Bian](https://openalex.org/A5013879253), [Yuan Liu](https://openalex.org/A5100390844), [Xiao Jin](https://openalex.org/A5100736497), [Likun Xiong](https://openalex.org/A5070381470), [Jirong Bai](https://openalex.org/A5017868526), Molecules. 29(18)] 2024.https://doi.org/10.3390/molecules29184494.
-    
-The advancement of cost-effective, high-performance catalysts for both electrochemical oxygen reduction reactions (ORRs) and oxygen evolution reactions (OERs) is crucial for the widespread implementation of metal–air batteries. In this research, we fabricated leaf-like N-doped carbon frames embedded with Co nanoparticles by pyrolyzing a ZIF-L/carbon nanofiber (ZIF-L/CNF) composite. Consequently, the optimized ZIF-L/CNF-700 catalyst exhibit exceptional catalytic activities in both ORRs and OERs, comparable to the benchmark 20 wt% Pt/C and RuO2. Addressing the issue of diminished cycle performance in the Zn–air battery cycle process, further detailed investigations into the post-electrolytic composition reveal that both the carbon framework and Co nanoparticles undergo partial oxidation during both OERs and ORRs. Owing to the varying local pH on the catalyst surface due to the consumption and generation of OH− by OERs and ORRs, after OERs, the product is reduced-size Co particles, while after ORRs, the product is outer-layer Co(OH)2-enveloping Co particles.    
-
-    
-
-## Fe/Ce Co-Doped Ni2p Catalyst to Enhance Alkaline Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4402768204    
-Open access: False
-    
-[Luo Zhao](https://openalex.org/A5100955218), [Li Wang](https://openalex.org/A5058825953), [Ruijie Shi](https://openalex.org/A5102216039), [Hao Xu](https://openalex.org/A5103087557), [Zixuan Zeng](https://openalex.org/A5106223898), [Xiaomin Lang](https://openalex.org/A5009766808), [Shuang Wang](https://openalex.org/A5100375586), [Yuping Liu](https://openalex.org/A5100673296), [Xiaoqin Liao](https://openalex.org/A5067708304), [Ming Nie](https://openalex.org/A5101395088), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4958120.
-    
-No abstract    
-
-    
-
-## Harnessing 4f Electron Itinerancy for Integrated Dual‐Band Redox Systems Boosts Lithium‐Oxygen Batteries Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4402768861    
-Open access: False
-    
-[Mengyao Huang](https://openalex.org/A5020592013), [Lina Song](https://openalex.org/A5101552448), [Nan Wang](https://openalex.org/A5100332724), [Yaning Fu](https://openalex.org/A5073199913), [Rufei Ren](https://openalex.org/A5010211703), [Zhongjun Li](https://openalex.org/A5100727448), [Youcai Lu](https://openalex.org/A5101721363), [Jijing Xu](https://openalex.org/A5100295522), [Qingchao Liu](https://openalex.org/A5034599031), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202414893.
-    
-In‐depth comprehension and manipulation of band occupation at metal centers are crucial for facilitating effective adsorption and electron transfer in lithium‐oxygen battery (LOB) reactions. Rare earth elements play a unique role in band hybridization due to their deep orbitals and strong localization of 4f electrons. Herein, we anchor single Ce atoms onto CoO, constructing a highly active and stable catalyst with d‐f a dual‐band redox center. It is discovered that the itinerant behavior of 4f electrons introduces an enhanced spin‐orbit coupling effect, which facilitates ideal σ/π bonding and flexible adsorption between the Ce/Co active sites and *O. Simultaneously, the injection of localized Ce 4f electrons strengthens the orbital bonding capacity of Co‐O, effectively inhibits the dissolution of Co sites and improves the structural stability of the cathode material. Bracingly, the Ce1/CoO‐based LOB exhibits an ultra‐low charge‐discharge polarization (0.46 V) and stable cyclic performance (1088 hours). This work breaks through the traditional limitations in catalyst activity and stability, providing new strategies and theoretical insights for developing high‐performance LOBs powered by rare‐earth elements.    
-
-    
-
-## 3d Needle-Like Heterostructured Sulfide Fes/Ni3s2/Nf Toward Highly Efficient Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4402772077    
-Open access: False
-    
-[Xiaolian Xu](https://openalex.org/A5088678481), [Congmin Fan](https://openalex.org/A5018630081), [Yang Pan](https://openalex.org/A5077453562), [Tianli Feng](https://openalex.org/A5061996241), [Hairong Lv](https://openalex.org/A5074195858), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4965997.
-    
-No abstract    
-
-    
-
-## Photo Electrocatalytic Water Splitting Using Sn Doped In2S3 Homologous Series Synthesized in Oxygen Deficient Flame   
-
-OpenAlex: https://openalex.org/W4402772699    
-Open access: True
-    
-[Suman Pokhrel](https://openalex.org/A5015678884), [Jakob Stahl](https://openalex.org/A5090601049), [Lizhuo Wang](https://openalex.org/A5104667722), [Rui Tang](https://openalex.org/A5007160885), [Haoyue Sun](https://openalex.org/A5071889169), [Malte Schalk](https://openalex.org/A5070488971), [Marco Schowalter](https://openalex.org/A5065706302), [Andreas Rosenauer](https://openalex.org/A5072109726), [Jun Huang](https://openalex.org/A5015226338), [Johannes Kiefer](https://openalex.org/A5021303769), [Johannes Birkenstock](https://openalex.org/A5044920675), [Lutz Mädler](https://openalex.org/A5031108258), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202411521.
-    
-Abstract The innovative development of reactive‐spray systems for gas‐phase production of metal sulfides are potential materials for next‐generation technologies. These flame‐synthesized sulfides (doped, functionalized, and heterogeneously mixed derivatives) hold significant potential as photocatalysts for water splitting. The knowledge acquired from nonaqueous precursor‐solvent and high‐temperature aerosol chemistries, optimal process parameters are established to generate In 2‐(4/3)x Sn x S 3 , solid‐solutions. The thermally driven reducing gas‐phase reactions are controlled through fuel/oxygen ratio. Particles characterizations (X‐ray diffraction, transmission electron microscopy (TEM) and imaging) revealed structural stability and crystallinity. The In 2‐(4/3)x Sn x S 3 , at higher Sn doping had enhanced photoexcitation. Donor‐acceptor levels within the material facilitated electron‐hole pair trapping, crucial for redox reactions. With suitable band gap energies for water oxidation (1.91.1 eV) closely matched flat band potentials (4.384.67 eV) for redox reactions. The powder characterization showed 8% In 2 O 3 in InSn 0.75 S 3 after photocatalysis due to S‐degradation in the initial light “on/off cycles”. The pioneering process of employing oxygen‐deficient reducing flame enabled a series of photo‐catalytically active metal sulfide nanoparticles with work function energies in the range of 5.195.37 eV. This synthesis strategy holds the potential for impactful advancements in both industry and R&D, addressing the urgent need for new materials capable of inducing water oxidation under visible light.    
-
-    
-
-## Unveiling the potential of ultra-low load Co on porous carbon-rich SiCN(O) fibre mats towards oxygen electrocatalysis in alkaline medium   
-
-OpenAlex: https://openalex.org/W4402776835    
-Open access: True
-    
-[Eranezhuth Wasan Awin](https://openalex.org/A5056922612), [Marwan Ben Miled](https://openalex.org/A5035363263), [Clément Comminges](https://openalex.org/A5079207786), [Aurélien Habrioux](https://openalex.org/A5017898294), [Samuel Bernard](https://openalex.org/A5041285540), [Stefan Schafföner](https://openalex.org/A5003635185), [Günter Motz](https://openalex.org/A5054095248), International Journal of Hydrogen Energy. 88(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.206.
-    
-No abstract    
-
-    
-
-## Quenching-etching surface engineering of NiO nanosheets with rich defects for highly enhanced electrocatalytic oxygen evolution activity   
-
-OpenAlex: https://openalex.org/W4402777600    
-Open access: False
-    
-[Hua Li](https://openalex.org/A5100616218), [Shuiqiang Chen](https://openalex.org/A5020793716), [Fang Su](https://openalex.org/A5100610583), [Kewen Tang](https://openalex.org/A5006957980), International Journal of Hydrogen Energy. 88(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.250.
-    
-No abstract    
-
-    
-
-## Advances in Stability of NiFe‐Based Anodes toward Oxygen Evolution Reaction for Alkaline Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4402781797    
-Open access: False
-    
-[Weiming Song](https://openalex.org/A5017584765), [Chenfeng Xia](https://openalex.org/A5050889666), [Shahid Zaman](https://openalex.org/A5066262857), [Shenghua Chen](https://openalex.org/A5032988244), [Chunhui Xiao](https://openalex.org/A5049259092), Small. None(None)] 2024.https://doi.org/10.1002/smll.202406075.
-    
-Abstract Alkaline electrolysis plays a crucial role in sustainable energy solutions by utilizing electrolytic cells to produce hydrogen gas, providing a clean and efficient method for energy storage and conversion. Efficient, stable, and low‐cost electrocatalysts for the oxygen evolution reaction (OER) are essential to facilitate alkaline water electrolysis on a commercial scale. Nickel‐iron‐based (NiFe‐based) transition metal electrocatalysts are considered the most promising non‐precious metal catalysts for alkaline OER due to their low cost, abundance, and tunable catalytic properties. Nevertheless, the majority of existing NiFe‐based catalysts suffer from limited activity and poor stability, posing a significant challenge in meeting industrial applications. This also highlights a common situation where the emphasis on material activity receives significant attention, while the equally critical stability aspect is often underemphasized. Initiating with a comprehensive exploration of the stability of NiFe‐based OER materials, this article first summarizes the debate surrounding the determination of active sites in NiFe‐based OER electrocatalysts. Subsequently, the degradation mechanisms of recently reported NiFe‐based electrocatalysts are outlined, encompassing assessments of both chemical and mechanical endurance, along with essential approaches for enhancing their stability. Finally, suggestions are put forth regarding the essential considerations for the design of NiFe‐based OER electrocatalysts, with a focus on heightened stability.    
-
-    
-
-## Electrocatalytic activity of La0.6Sr0. 4Co1-yCuyO3 (y = 0.1, 0.2, and 0.3) for oxygen evolution in an alkaline medium at 25℃   
-
-OpenAlex: https://openalex.org/W4402782270    
-Open access: False
-    
-, Indian Journal of Chemistry. 63(9)] 2024.https://doi.org/10.56042/ijc.v63i9.10838.
-    
-No abstract    
-
-    
-
-## Synthesis and characterization of highly conductive MXene@Bi2O3 electrode material for improved oxygen evolution: the role of electrocatalyst for oxygen evolution reactions   
-
-OpenAlex: https://openalex.org/W4402782621    
-Open access: False
-    
-[Amal BaQais](https://openalex.org/A5054656755), [Mohammad Shariq](https://openalex.org/A5073894344), [Hanan A. Althikrallah](https://openalex.org/A5075916883), [Tasneem H. Alshareef](https://openalex.org/A5097398726), [Kamelah S. Al-Rashdi](https://openalex.org/A5085650396), [Abdulrahman F. Alharbi](https://openalex.org/A5069547063), [Dalal Alhashmialameer](https://openalex.org/A5055687712), [Imtiaz Ahmed](https://openalex.org/A5042201959), Applied Physics A. 130(10)] 2024.https://doi.org/10.1007/s00339-024-07836-6.
-    
-No abstract    
-
-    
-
-## Rational Construction of Cyanide‐Functionalized D‐A‐π‐D Covalent Organic Framework for Highly Efficient Overall H2O2 Photosynthesis from Air and Water   
-
-OpenAlex: https://openalex.org/W4402784517    
-Open access: False
-    
-[Liecheng Guo](https://openalex.org/A5050310430), [Lele Gong](https://openalex.org/A5001469778), [Yuting Yang](https://openalex.org/A5101757875), [Zhecheng Huang](https://openalex.org/A5025518519), [Xing Liu](https://openalex.org/A5100381463), [Feng Luo](https://openalex.org/A5007896601), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202414658.
-    
-Sacrificial‐agent‐free overall photosynthesis of H2O2 from water and air represents currently a promising route to reform the industrial anthraquinone production manner, but, still blocks by the requirement of pure O2 feedstock, due to the insufficient oxygen supply from water under air. Herein, we report a rational molecule design on COFs (covalent organic frameworks) equiped with cyanide‐functionalized D‐A‐π‐D system for highly efficient overall H2O2 production from air and water through photocatalytic oxygen reduction reactions (ORR) and water oxidation reaction (WOR). Without using any sacrificial agent, the as‐synthesized D‐A‐π‐D COF is found to enable a H2O2 production rate as high as 4742 μmol h‐1 g‐1 from water and air and an O2 utilization and conversion rate up to 88%, exceeding the other D‐A‐π‐A COF by respectively 1.9‐ and 1.3‐fold. Such high performance is attributed to the tuned electronic structure and prolonged charge lifetime facilitated by the unique D‐A‐π‐D structure and cyanide groups. This work highlights a fundamental molecule design on advanced photocatalytic COFs with complicated D‐A system for low‐cost and massive H2O2 production.    
-
-    
-
-## Bimetallic Single-Atom Catalysts for Water Splitting   
-
-OpenAlex: https://openalex.org/W4402785825    
-Open access: True
-    
-[Megha A. Deshmukh](https://openalex.org/A5042057828), [Aristides Bakandritsos](https://openalex.org/A5067607489), [Radek Zbořil](https://openalex.org/A5041956422), Nano-Micro Letters. 17(1)] 2024.https://doi.org/10.1007/s40820-024-01505-2.
-    
-Abstract Green hydrogen from water splitting has emerged as a critical energy vector with the potential to spearhead the global transition to a fossil fuel-independent society. The field of catalysis has been revolutionized by single-atom catalysts (SACs), which exhibit unique and intricate interactions between atomically dispersed metal atoms and their supports. Recently, bimetallic SACs (bimSACs) have garnered significant attention for leveraging the synergistic functions of two metal ions coordinated on appropriately designed supports. BimSACs offer an avenue for rich metal–metal and metal–support cooperativity, potentially addressing current limitations of SACs in effectively furnishing transformations which involve synchronous proton–electron exchanges, substrate activation with reversible redox cycles, simultaneous multi-electron transfer, regulation of spin states, tuning of electronic properties, and cyclic transition states with low activation energies. This review aims to encapsulate the growing advancements in bimSACs, with an emphasis on their pivotal role in hydrogen generation via water splitting. We subsequently delve into advanced experimental methodologies for the elaborate characterization of SACs, elucidate their electronic properties, and discuss their local coordination environment. Overall, we present comprehensive discussion on the deployment of bimSACs in both hydrogen evolution reaction and oxygen evolution reaction, the two half-reactions of the water electrolysis process.    
-
-    
-
-## Construction of a Highly Efficient MoS2-Based Composite Electrocatalyst for the Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4402785987    
-Open access: False
-    
-[Mengyan Huang](https://openalex.org/A5037395563), [Bo Liu](https://openalex.org/A5084816463), [Wei Wang](https://openalex.org/A5100392071), [Junfeng Gu](https://openalex.org/A5082733809), [Yichen Zheng](https://openalex.org/A5020656663), [Peiyan Ma](https://openalex.org/A5078466458), [Bin Li](https://openalex.org/A5100365152), [Zhengyi Fu](https://openalex.org/A5019325306), Catalysis Science & Technology. None(None)] 2024.https://doi.org/10.1039/d4cy00923a.
-    
-Molybdenum disulfide (MoS2) has great potential for the catalysis of the oxygen evolution reaction (OER) due to its suitable valence band edge. However, the high adsorption energy barriers of the...    
-
-    
-
-## Interfacial Electron Redistribution Through the Ru-N-Fe Bond to Stabilize High-Valence Metal Sites for Efficient Electrocatalytic Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4402789720    
-Open access: False
-    
-[Wei Wang](https://openalex.org/A5100392173), [Li Yingwei](https://openalex.org/A5106134163), [Zhigang Wang](https://openalex.org/A5053840511), [Rui Xiao](https://openalex.org/A5011907451), [Kuan‐Guan Liu](https://openalex.org/A5071773947), [Xudong Song](https://openalex.org/A5017688381), [Guangsuo Yu](https://openalex.org/A5003907985), [Baojun Ma](https://openalex.org/A5009516813), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4966767.
-    
-No abstract    
-
-    
-
-## Enhanced oxygen evolution reaction activity of oxygen-deficient perovskite catalysts with A-site defects boosted by self-assembled silver nanoparticles   
-
-OpenAlex: https://openalex.org/W4402792466    
-Open access: False
-    
-[Ziwei Huo](https://openalex.org/A5080234583), [Siliang Wu](https://openalex.org/A5046117894), [Yiqi Zhang](https://openalex.org/A5100624501), [Yue Hu](https://openalex.org/A5011543233), [Gang Dong](https://openalex.org/A5064086421), [Jiarun Cheng](https://openalex.org/A5077459057), [Dongsheng Geng](https://openalex.org/A5091129156), [Yanning Zhang](https://openalex.org/A5101590880), International Journal of Hydrogen Energy. 88(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.246.
-    
-No abstract    
-
-    
-
-## Bimetallic MOF-derived CoFe phosphide nanomaterials imparted efficient synergism for oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4402793410    
-Open access: True
-    
-[Linlin Hao](https://openalex.org/A5071502466), [Yangge Guo](https://openalex.org/A5063251180), [Junliang Zhang](https://openalex.org/A5048609660), [Shuiyun Shen](https://openalex.org/A5053423773), Journal of Physics Conference Series. 2840(1)] 2024.https://doi.org/10.1088/1742-6596/2840/1/012015.
-    
-Abstract The study introduces novel and efficient metal-organic framework (MOF) derivatives, pivotal for advancing high-performance catalyst fabrication and applications. We synthesized a MOF-CoFe phosphide catalyst through a combination of MOF derivation and phosphating techniques, exhibiting significant catalytic synergy for the electrochemical OER. The optimized catalysts displayed superior OER performance, achieving the overpotential of 270 mV at 10 mA cm −2 significantly outperforming the original MOF-CoFe. This research broadens the potential applications of MOF derivatives in catalysis and energy conversion, marking a significant contribution to the field.    
-
-    
-
-## Ni-Phthalocyanine Derived Electrocatalysts for Oxygen Reduction Reaction and Hydrogen Evolution Reaction: Active Sites Formation and Electrocatalytic Activity   
-
-OpenAlex: https://openalex.org/W4402802854    
-Open access: False
-    
-[Seyed Ariana Mirshokraee](https://openalex.org/A5034830406), [Mohsin Muhyuddin](https://openalex.org/A5049830375), [Nicolò Pianta](https://openalex.org/A5030209272), [Enrico Berretti](https://openalex.org/A5058615059), [Laura Capozzoli](https://openalex.org/A5048423697), [Jacopo Orsilli](https://openalex.org/A5052477234), [F. D’Acapito](https://openalex.org/A5031244506), [Rosanna Viscardi](https://openalex.org/A5068751687), [Alessio Cosenza](https://openalex.org/A5045224480), [Plamen Atanassov](https://openalex.org/A5080704605), [Carlo Santoro](https://openalex.org/A5071362248), [Alessandro Lavacchi](https://openalex.org/A5038183338), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03814.
-    
-No abstract    
-
-    
-
-## Intrinsic Oxygen Evolution Reaction Activity and Stability Enhancement of Irox Electrocatalysts by Microwave Irradiation   
-
-OpenAlex: https://openalex.org/W4402813363    
-Open access: False
-    
-[Shuang Ma Andersen](https://openalex.org/A5032516491), [Swapnil S. Karade](https://openalex.org/A5055576103), [Raghunandan Sharma](https://openalex.org/A5028577447), [P. Morgen](https://openalex.org/A5044593278), [Rebecca Pittkowski](https://openalex.org/A5043738774), [Kirsten M. Ø. Jensen](https://openalex.org/A5055671702), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4959401.
-    
-No abstract    
-
-    
-
-## Highly Hydrophilic and Surface Defect-Rich MOF-74-PA15 By Phytic Acid Etching as Robust Catalyst of Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4402814449    
-Open access: False
-    
-[Jinxi Chen](https://openalex.org/A5064607429), [Xi Deng](https://openalex.org/A5008780246), [Wenjing Shang](https://openalex.org/A5101709832), [Ke Zhang](https://openalex.org/A5100365712), [Yongbing Lou](https://openalex.org/A5035748124), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d4dt02419b.
-    
-Water splitting is an energy conversion process of vital importance. Oxygen evolution reaction (OER), as the half-reaction of water splitting, has very slow kinetics due to the complex quaternary electron...    
-
-    
-
-## Dual‐Carbon Assisted Oxygen Vacancy Engineering for Optimizing Mn(III) Sites to Enhance Zn–air Battery Performances   
-
-OpenAlex: https://openalex.org/W4402821849    
-Open access: False
-    
-[Dianbo Ruan](https://openalex.org/A5101341434), [Nengneng Xu](https://openalex.org/A5056662019), [Tuo Lu](https://openalex.org/A5009117148), [Yongxia Wang](https://openalex.org/A5008705459), [Yunzhi Gao](https://openalex.org/A5076855541), [Dongqing Cai](https://openalex.org/A5077627215), [Liangcai Wu](https://openalex.org/A5010500633), [Woochul Yang](https://openalex.org/A5082836865), [Guicheng Liu](https://openalex.org/A5026712535), [Joong Kee Lee](https://openalex.org/A5044812217), [Jinli Qiao](https://openalex.org/A5007984066), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202414269.
-    
-Abstract Owing to kinetic‐sluggish nature of electrocatalytic oxygen transformation processes, it is pivotal to develop durable and efficient bifunctional air electrode catalysts for fabricating high‐performance Zn–air batteries (ZABs). In this work, oxygen vacancy (Ov) induced Mn(III) sites optimization is achieved via nano‐micro structure modulation. Protonated carbon nitride (p‐C 3 N 4 ) is applied as a structure‐stiffening module to immobilize α‐MnO 2 on N/P‐doped active carbon (NPAC) and induce Ov construction. X‐ray adsorption spectra (XAS) disclose the formation of Ov and Mn(III) sites in MCC, the unit coordination structure is well maintained with the aid of a dual‐carbon strategy. Mn(III) sites efficiently catalyze oxygen reduction/evolution reaction (ORR/OER), MCC shows high half‐wave potential ( E 1/2 ) of 0.88 V for ORR and low potential at 10 mA cm −2 ( E j = 10 ) of 1.64 V for OER. According to density functional theory (DFT) simulations analysis, the gorgeous bifunctional activity is owing to that optimized charge distribution facilitates the intermediates transformation. Aqueous ZABs based on MCC manifests high peak power density of 452 mW cm −2 and durable cycling stability of 1640 h. Quasi‐solid‐state ZABs based on MCC also show satisfactory performances (175 mW cm −2 , 105 h). This work provides the route to develop efficient and durable electrocatalyst for constructing ZABs with long lifespan and high‐power‐density.    
-
-    
-
-## Influence of Cr3＋ doping on oxygen evolution reaction kinetics and photoluminescence properties of ZnSnO3 nanoparticles   
-
-OpenAlex: https://openalex.org/W4402823051    
-Open access: False
-    
-[Vishwalinga Prasad B.](https://openalex.org/A5098728391), [C. Ningappa](https://openalex.org/A5067278285), [H.C. Manjunatha](https://openalex.org/A5001779977), [Y.S. Vidya](https://openalex.org/A5022022001), [S. Manjunatha](https://openalex.org/A5000007903), [M. Shivanna](https://openalex.org/A5029870316), [B. Daruka Prasad](https://openalex.org/A5005489730), [R. Sahana](https://openalex.org/A5012792906), [R. Munirathnam](https://openalex.org/A5034463147), [K. Manjunatha](https://openalex.org/A5002399450), [Sheng Yun Wu](https://openalex.org/A5017999320), Materials Science and Engineering B. 310(None)] 2024.https://doi.org/10.1016/j.mseb.2024.117685.
-    
-No abstract    
-
-    
 
 ## Is the oxygen plasma cleaning technique indicated for any electrochemical purpose?: the case of FTO electrodes   
 
@@ -887,6 +568,17 @@ Mn:CsPbX3 (X= Cl, Br) nanosheets with excellent electrocatalytic properties are 
 
     
 
+## Bimetal Metaphosphate/Molybdenum Oxide Heterostructure Nanowires for Boosting Overall Freshwater/Seawater Splitting at High Current Densities   
+
+OpenAlex: https://openalex.org/W4402967691    
+Open access: True
+    
+[Pan Wang](https://openalex.org/A5055443524), [Pan Wang](https://openalex.org/A5055443524), [Tongwei Wu](https://openalex.org/A5005829003), [Xuping Sun](https://openalex.org/A5073001285), [Yanning Zhang](https://openalex.org/A5101590880), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202407892.
+    
+Abstract Exploring excellent non‐noble bifunctional electrocatalysts for freshwater/seawater splitting at high current densities has attracted extensive interest owing to strong anodic oxidation and severe chloride corrosion challenges. Herein, hierarchical bimetal Ni‐Co metaphosphate/molybdenum oxide heterostructure nanowires (NiCoMoPO) are rationally designed and fabricated to efficiently boost oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) in alkaline freshwater/seawater, where the favorable electronic structure from heterostructures, signified by X‐ray absorption spectra, endows NiCoMoPO with the enhanced intrinsic activity, while its hierarchical nanowire structure and heterostructures provide abundant active sites. Additionally, the PO 3 − improves the chloride‐corrosion resistance and efficiently facilitates the OER kinetics verified by theoretical and experimental studies. Therefore, NiCoMoPO drives 1000 mA cm −2 at low overpotentials of 467 and 442 mV for OER and HER in alkaline freshwater respectively, as well as a small cell voltage of 2.135 V for overall freshwater splitting with robust durability of 300 h. Impressively, due to the strong corrosion resistance, at 500 mA cm −2 of overall seawater splitting, NiCoMoPO maintains almost 2.096 V for 1200 h, indicating promising practical applications. This work sheds light on the rational design and fabrication of outstanding electrocatalysts at high current densities of seawater/freshwater splitting.    
+
+    
+
 ## Tailoring of Zinc Oxide-based microstructures to efficiently promote piezocatalytic water oxidation and oxygen production   
 
 OpenAlex: https://openalex.org/W4402968254    
@@ -975,23 +667,133 @@ No abstract
 
     
 
-## A review of properties and applications of utilization of high entropy alloys in oxygen evolution reactions   
+## Axial modulation of catalysis mechanism via charge-asymmetric for enhanced electrocatalytic performance toward hydrogen and oxygen evolution reactions   
 
-OpenAlex: https://openalex.org/W4402772857    
+OpenAlex: https://openalex.org/W4402979999    
 Open access: False
     
-[Tao Tian](https://openalex.org/A5100419145), [Xiaolin Zhang](https://openalex.org/A5100403837), [Yanze Xue](https://openalex.org/A5101321924), [Huabo Huang](https://openalex.org/A5104228828), [Qianqian Jiang](https://openalex.org/A5050661386), [Jianguo Tang](https://openalex.org/A5056770846), Molecular Catalysis. 569(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114571.
+[Bin Wang](https://openalex.org/A5100782624), [Tianmin Zhang](https://openalex.org/A5047864405), [Wang Gui](https://openalex.org/A5100711518), [Xiyue Han](https://openalex.org/A5102912886), [Xingqun Zheng](https://openalex.org/A5054705554), [Guangtao Mao](https://openalex.org/A5104257283), [Qingmei Wang](https://openalex.org/A5068952541), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.129934.
     
 No abstract    
 
     
 
-## Efficient synthesis of nano high-entropy compounds for advanced oxygen evolution reaction   
+## Structure–Activity Relationships in Oxygen Electrocatalysis   
 
-OpenAlex: https://openalex.org/W4402812818    
+OpenAlex: https://openalex.org/W4402994393    
 Open access: False
     
-[Genxiang Wang](https://openalex.org/A5044113422), [Feng Yan](https://openalex.org/A5053760337), [Peng Wang](https://openalex.org/A5102933607), [Junfeng Wang](https://openalex.org/A5100377335), [Fen Qiao](https://openalex.org/A5085740179), [Zhenhai Wen](https://openalex.org/A5080926762), Chinese Chemical Letters. None(None)] 2024.https://doi.org/10.1016/j.cclet.2024.110498.
+[Jingqi Guan](https://openalex.org/A5074571254), [Jingru Sun](https://openalex.org/A5100921699), [Siyu Chen](https://openalex.org/A5100325199), [Siying Zhang](https://openalex.org/A5084162974), [Luoluo Qi](https://openalex.org/A5023454042), [Anaer Husile](https://openalex.org/A5104207162), [Jingqi Guan](https://openalex.org/A5074571254), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202408139.
+    
+Abstract Oxygen electrocatalysis, as the pivotal circle of many green energy technologies, sets off a worldwide research boom in full swing, while its large kinetic obstacles require remarkable catalysts to break through. Here, based on summarizing reaction mechanisms and in situ characterizations, the structure–activity relationships of oxygen electrocatalysts are emphatically overviewed, including the influence of geometric morphology and chemical structures on the electrocatalytic performances. Subsequently, experimental/theoretical research is combined with device applications to comprehensively summarize the cutting‐edge oxygen electrocatalysts according to various material categories. Finally, future challenges are forecasted from the perspective of catalyst development and device applications, favoring researchers to promote the industrialization of oxygen electrocatalysis at an early date.    
+
+    
+
+## Formation of H2O2 in Near-Neutral Zn-air Batteries Enables Efficient Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4402996465    
+Open access: False
+    
+[Roman R. Kapaev](https://openalex.org/A5075478873), [Nicole Leifer](https://openalex.org/A5051157530), [Alagar Raja Kottaichamy](https://openalex.org/A5085689365), [Amit Ohayon](https://openalex.org/A5036768325), [Langyuan Wu](https://openalex.org/A5102107999), [Menny Shalom](https://openalex.org/A5047007925), [Malachi Noked](https://openalex.org/A5064986148), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-3k21g-v2.
+    
+Rechargeable Zn-air batteries with near-neutral electrolytes hold promise as cheap, safe and sustainable devices, but they suffer from slow charge kinetics and remain poorly studied. Here we reveal a charge storage mechanism of near-neutral Zn-air batteries that is mediated by H2O2 formation upon cell discharge and its oxidation upon charge. The manifestation of this mechanism strongly depends on the electrolyte composition and positive electrode material, being pronounced when ZnSO4 solutions and carbon nanotubes are employed. Oxidation of dissolved H2O2 is facile, enabling oxygen evolution reaction (OER) at low potentials (~1.5 V vs. Zn2+/Zn) which, in contrast to conventional four-electron OER, does not induce corrosion of carbon electrodes. Facilitation of the H2O2-mediated pathway might therefore be helpful for developing high-performance near-neutral Zn-air batteries.    
+
+    
+
+## Mn─O Covalency as a Lever for Na⁺ Intercalation Kinetics: The Role of Oxygen Edge‐Sharing Co Octahedral Sites in MnO₂   
+
+OpenAlex: https://openalex.org/W4402999596    
+Open access: False
+    
+[Yuanming Liu](https://openalex.org/A5062043883), [Weijie Fu](https://openalex.org/A5064073927), [Shuyun Yao](https://openalex.org/A5041204496), [Shiyu Wang](https://openalex.org/A5100437632), [Yingjie Ji](https://openalex.org/A5081392288), [Jingxian Li](https://openalex.org/A5101698919), [Lanlan Shi](https://openalex.org/A5089513430), [Sheng Wang](https://openalex.org/A5100371335), [Feike Zhang](https://openalex.org/A5009865163), [Jing Wang](https://openalex.org/A5100378741), [Renhuai Liu](https://openalex.org/A5041519631), [Jiangzhou Xie](https://openalex.org/A5074075605), [Zhiyu Yang](https://openalex.org/A5021414632), [Yi‐Ming Yan](https://openalex.org/A5055699044), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407690.
+    
+Abstract The strategic enhancement of manganese–oxygen (Mn─O) covalency is a promising approach to improve the intercalation kinetics of sodium ions (Na⁺) in manganese dioxide (MnO 2 ). In this study, an augmenting Mn─O covalency in MnO 2 by strategically incorporating cobalt at oxygen edge‐sharing Co octahedral sites is focused on. Both experimental results and density functional theory (DFT) calculations reveal an increased electron polarization from oxygen to manganese, surpassing that directed toward cobalt, thereby facilitating enhanced electron transfer and strengthening covalency. The synthesized Co–MnO 2 material exhibits outstanding electrochemical performance, demonstrating a superior specific capacitance of 388 F g −1 at 1 A g −1 and maintaining 97.21% capacity retention after 12000 cycles. Additionally, an asymmetric supercapacitor constructed using Co–MnO 2 achieved a high energy density of 35 Wh kg −1 at a power density of 1000 W kg −1 , underscoring the efficacy of this material in practical applications. This work highlights the critical role of transition metal–oxygen interactions in optimizing electrode materials and introduces a robust approach to enhance the functional properties of manganese oxides, thereby advancing high‐performance energy storage technologies.    
+
+    
+
+## Introducing oxygen evolution promoting hole defect states at BiVO4 surface for enhanced photoelectrochemical activity   
+
+OpenAlex: https://openalex.org/W4403000453    
+Open access: True
+    
+[Fatima Chmali](https://openalex.org/A5107669070), [Basanth S. Kalanoor](https://openalex.org/A5032802373), [Shankara S. Kalanur](https://openalex.org/A5048345538), [Bruno G. Pollet](https://openalex.org/A5045098563), Nano Materials Science. None(None)] 2024.https://doi.org/10.1016/j.nanoms.2024.09.009.
+    
+No abstract    
+
+    
+
+## Topological Synthesis of 2D High‐Entropy Multimetallic (Oxy)hydroxide for Enhanced Lattice Oxygen Oxidation Mechanism   
+
+OpenAlex: https://openalex.org/W4403002748    
+Open access: False
+    
+[Sijia Liu](https://openalex.org/A5100321844), [Baorui Jia](https://openalex.org/A5034103613), [Sheng Wang](https://openalex.org/A5100371335), [Yongzhi Zhao](https://openalex.org/A5065153952), [Luan Liu](https://openalex.org/A5077301732), [Fengmei Fan](https://openalex.org/A5045473963), [Yunpu Qin](https://openalex.org/A5015864066), [Jianfang Liu](https://openalex.org/A5101982413), [Yirui Jiang](https://openalex.org/A5004489366), [Bin Sun](https://openalex.org/A5100641761), [Hong Zhao](https://openalex.org/A5101489925), [Hao Li](https://openalex.org/A5100348490), [Wenxiang Zhou](https://openalex.org/A5054957394), [Haoyang Wu](https://openalex.org/A5080543622), [Deyin Zhang](https://openalex.org/A5103179713), [Xuanhui Qu](https://openalex.org/A5073931088), [Mingli Qin](https://openalex.org/A5009868752), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202409530.
+    
+Abstract Owing to sluggish reaction kinetics and high potential, oxygen evolution reaction (OER) electrocatalysts face a trade‐off between activity and stability. Herein, an innovative topological strategy is presented for preparing 2D multimetallic (oxy)hydroxide, including ternary CoFeZn, quaternary CoFeMnZn, and high‐entropy CoFeMnCuZn. The key to the synthesis lies in using Ca‐rich brownmillerite oxide as a precursor, which possesses inherent structural flexibility enabling tailored elemental adjustments and topologically transforms from a point‐shared structure of metal‐oxygen octahedrons into an edge‐shared structure under alkaline conditions. The presence of Zn in the catalysts causes a shift in the center of the O2p band toward the Fermi level, resulting in more Co 4+ species, which drive holes into oxygen ligands to promote intramolecular oxygen coupling. The triggered lattice oxidation mechanism is identified by detecting peroxo‐like (O 2 2− ) negative species using tetramethylammonium chemical probe, along with 18 O isotope labeling experiments. As a result, the catalyst demonstrates an overpotential of 267 mV at 10 mA cm −2 , ranking it among the top‐performing non‐Ni‐based catalysts. Importantly, the catalysts also show high Fe‐leaching resistance during OER compared to conventional NiFe and CoFe hydroxides/(oxy)hydroxides. The assembled zinc‐air battery enables stable operation for over 225 h at a low charging voltage of 1.93 V.    
+
+    
+
+## Tailoring Ni‐Fe‐B Electronic Effects in Layered Double Hydroxides for Enhanced Oxygen Evolution Activity   
+
+OpenAlex: https://openalex.org/W4403005540    
+Open access: False
+    
+[Yuke Bai](https://openalex.org/A5041079582), [Zhaojun Liu](https://openalex.org/A5100399045), [Xiaoxiao Wang](https://openalex.org/A5100355072), [Zhixue Zhang](https://openalex.org/A5059955195), [Kai Liu](https://openalex.org/A5101553988), [Chuanbo Gao](https://openalex.org/A5069932905), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407564.
+    
+Abstract NiFe layered double hydroxides (LDHs) are state‐of‐the‐art catalysts for the oxygen evolution reaction (OER) in alkaline media, yet they still face significant overpotentials. Here, quantitative boron (B) doping is introduced in NiFe LDHs (ranging from 0% to 20.3%) to effectively tailor the Ni‐Fe‐B electronic interactions for enhanced OER performance. The co‐hydrolysis synthesis approach synchronizes the hydrolysis rates of Ni and Fe precursors with the formation rate of B─O─M (M: Ni, Fe) bonds, ensuring precise B doping into the NiFe LDHs. It is demonstrated that B, as an electron‐deficient element, acts as an “electron sink” at doping levels from 0% to 13.5%, facilitating the transition of Ni 2+ to the active Ni 3+δ , thereby accelerating OER kinetics. However, excessive B doping (13.5–20.3%) effectively generates oxygen vacancies in the LDHs, which increases electron density at Ni 2+ sites and hinders their transition to Ni 3+δ , thereby reducing OER activity. Optimal OER performance is achieved at a B doping level of 13.5%, with an overpotential of only 208 mV to reach a current density of 500 mA cm −2 , placing it among the most effective OER catalysts to date. This Ni‐Fe‐B electronic engineering opens new avenues for developing highly efficient anode catalysts for water‐splitting hydrogen production.    
+
+    
+
+## In Situ Construction of SnS2@SnO2 Heterostructure for Photo‐Assisted Electrocatalysis of Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4403005567    
+Open access: False
+    
+[J. Wang](https://openalex.org/A5003846738), [Ze Wang](https://openalex.org/A5100443546), [Jie He](https://openalex.org/A5004579894), [L.F. Han](https://openalex.org/A5024609980), [Xin Li](https://openalex.org/A5055112199), [Keyi Han](https://openalex.org/A5102587384), [Tianen Chen](https://openalex.org/A5088752886), [Qianyu Zhou](https://openalex.org/A5089365740), [Lizhong Yang](https://openalex.org/A5057863437), [Dongye Zhao](https://openalex.org/A5042316272), [Yuanhao Wang](https://openalex.org/A5100704643), [Shifeng Wang](https://openalex.org/A5035381595), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407659.
+    
+Abstract Photo‐assisted electrocatalysis has arisen as a promising approach for hydrogen generation by incorporating photocatalysts into electrocatalysts. 2D SnS 2 is a photocatalyst that absorbs visible light. However, the rapid recombination of photo‐generated electron‐hole pairs significantly reduces the overall photocatalytic efficiency of SnS 2 , limiting its practical application. Thus, this study prepares an in situ heterojunction SnS 2 @SnO 2 using a one‐step hydrothermal method. The degradation efficiency of methyl orange (MO) using SnS 2 @SnO 2 is measured, achieving a degradation rate of 92.75% within 1 h, which is 1.9 times higher than that of pure SnS 2 . Additionally, FeNiS/SnS 2 @SnO 2 is synthesized and exhibited significant improvements in the photo‐assisted oxygen evolution reaction (OER). It achieves an overpotential of 260 mV and a Tafel slope of 65.1 mV dec −1 at 10 mA cm −2 , showing reductions of 11.8% and 31.8%, respectively, compared to FeNiS alone. These enhancements highlight the strong photo‐response capability of SnS 2 @SnO 2 . Under the internal electric field of SnS 2 @SnO 2 , the photogenerated electrons in the conduction band of SnS 2 quickly move toward SnO 2 , facilitating efficient photocatalytic reactions. FeNiS, with a lower Fermi energy level (E F ), facilitates electron transfer from SnS 2 @SnO 2 and enhances OER performance by efficiently participating in the reaction. This study paves a new path for 2D photocatalyst materials.    
+
+    
+
+## An impedance spectroscopy study to unravel the effect of water on proton and oxygen transport in PEM fuel cells   
+
+OpenAlex: https://openalex.org/W4403014868    
+Open access: False
+    
+[Tatyana V. Reshetenko](https://openalex.org/A5075358378), [Ying Sun](https://openalex.org/A5066639396), [Thomas Kadyk](https://openalex.org/A5077559192), [Michael Eikerling](https://openalex.org/A5054676737), [Andrei Kulikovsky](https://openalex.org/A5025378949), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145172.
+    
+No abstract    
+
+    
+
+## Review for "Ce-Doped Nanorod-like NiFe-MOF with Coordination Substitution Based on In-situ Co-Doping Method for Boosting the Oxygen Evolution Reaction"   
+
+OpenAlex: https://openalex.org/W4403017663    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta03929g/v1/review2.
+    
+No abstract    
+
+    
+
+## Decision letter for "Ce-Doped Nanorod-like NiFe-MOF with Coordination Substitution Based on In-situ Co-Doping Method for Boosting the Oxygen Evolution Reaction"   
+
+OpenAlex: https://openalex.org/W4403017949    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta03929g/v1/decision1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Ce-Doped Nanorod-like NiFe-MOF with Coordination Substitution Based on In-situ Co-Doping Method for Boosting the Oxygen Evolution Reaction"   
+
+OpenAlex: https://openalex.org/W4403018525    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta03929g/v2/decision1.
     
 No abstract    
 
@@ -1041,17 +843,6 @@ No abstract
 
     
 
-## Enhanced oxygen evolution and power density of Co/Zn@NC@MWCNTs for the application of zinc-air batteries   
-
-OpenAlex: https://openalex.org/W4402758907    
-Open access: False
-    
-[Tien-Hung Chen](https://openalex.org/A5056713077), [Chung‐Sheng Ni](https://openalex.org/A5037709231), [Chi‐Yu Lai](https://openalex.org/A5056442594), [Sanna Gull](https://openalex.org/A5040164264), [Ying Chu](https://openalex.org/A5001177397), [Wen‐Yang Jao](https://openalex.org/A5010247693), [Chi‐Chang Hu](https://openalex.org/A5031732506), [Shih‐Fu Liu](https://openalex.org/A5029187842), [Chong‐Chi Chi](https://openalex.org/A5088158028), [Tsung‐Yi Chen](https://openalex.org/A5014438110), [Jyh‐Fu Lee](https://openalex.org/A5009664001), [Chih‐Wen Pao](https://openalex.org/A5052311733), [Jeng‐Lung Chen](https://openalex.org/A5064103813), [Han‐Yi Chen](https://openalex.org/A5084555578), [Jin‐Hua Huang](https://openalex.org/A5101799040), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.09.187.
-    
-No abstract    
-
-    
-
 ## Defects trigger redox reactivities between metal and lattice oxygen in high-entropy layered double hydroxide for boosting oxygen evolution in alkaline   
 
 OpenAlex: https://openalex.org/W4402950979    
@@ -1085,14 +876,36 @@ No abstract
 
     
 
-## Construction of a Three-Phase MnS2/Co4S3/Ni3S2 Heterostructure for Boosting Oxygen Evolution   
+## Ce-Doped Nanorod-like NiFe-MOF with Coordination Substitution Based on In-situ Co-Doping Method for Boosting the Oxygen Evolution Reaction   
 
-OpenAlex: https://openalex.org/W4402764827    
+OpenAlex: https://openalex.org/W4402986707    
 Open access: False
     
-[Haoran Gao](https://openalex.org/A5043819086), [Zhikun Xu](https://openalex.org/A5100874726), [Shuang‐Yan Lin](https://openalex.org/A5089160420), [Yukui Zhang](https://openalex.org/A5101814743), [Lin Li](https://openalex.org/A5100412895), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c02475.
+[Shujin Li](https://openalex.org/A5100634574), [Shinichi Hata](https://openalex.org/A5024674091), [Zhengying Wu](https://openalex.org/A5100579423), [Yukou Du](https://openalex.org/A5004666624), [Wei Xiao](https://openalex.org/A5101440960), [Shudi Yu](https://openalex.org/A5079994695), [Jie Li](https://openalex.org/A5100428255), [Tianpeng Liu](https://openalex.org/A5080236662), [Yukihide Shiraishi](https://openalex.org/A5074065546), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta03929g.
     
-The rational construction of highly efficient electrocatalysts for the oxygen evolution reaction (OER) plays a critical role in energy conversion systems. Designing heterostructures is a common and effective strategy to improve the performance of electrocatalysts. In this paper, an MnS    
+Heteroatom doped metal-organic frameworks (MOFs) have been widely used in OER catalysis. However, the effects of doping methods on these materials are still rarely reported. Herein, the structure and activity...    
+
+    
+
+## Review for "Ce-Doped Nanorod-like NiFe-MOF with Coordination Substitution Based on In-situ Co-Doping Method for Boosting the Oxygen Evolution Reaction"   
+
+OpenAlex: https://openalex.org/W4403017676    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta03929g/v1/review1.
+    
+No abstract    
+
+    
+
+## Review for "Ce-Doped Nanorod-like NiFe-MOF with Coordination Substitution Based on In-situ Co-Doping Method for Boosting the Oxygen Evolution Reaction"   
+
+OpenAlex: https://openalex.org/W4403018667    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ta03929g/v2/review1.
+    
+No abstract    
 
     
 
@@ -1173,39 +986,6 @@ Oxygen electrocatalysts play a key role in renewable and fossil‐free energy pr
 
     
 
-## Fabrication of Bi‐Functional Samarium Oxide/Copper Oxide Nanocuboid Electrocatalyst for Electrochemical Water Splitting   
-
-OpenAlex: https://openalex.org/W4402762190    
-Open access: False
-    
-[Muhammad Kashif Saleem](https://openalex.org/A5102510365), [Niaz Ahmad Niaz](https://openalex.org/A5075415522), [Abdul Shakoor](https://openalex.org/A5100671089), [Fayyaz Hussain](https://openalex.org/A5002074910), [Sumaira Manzoor](https://openalex.org/A5049370676), [Safyan Akram Khan](https://openalex.org/A5038659622), [Duncan H. Gregory](https://openalex.org/A5048364753), Energy Technology. None(None)] 2024.https://doi.org/10.1002/ente.202400502.
-    
-The development of low‐cost, high‐performance electrocatalysts for the oxygen evolution reaction (OER) is essential for a vast array of chemical and energy transformation applications. Using non‐platinum metals as electrocatalysts in a key process such as OER has become increasingly attractive given their relatively low cost, high electrocatalytic activity, and low environmental impact. Herein, to achieve a better catalytic material with high permeability and mass charge transfer in a catalytic framework, a novel, oxygen‐defective Sm 2 O 3 /CuO nanohybrid with nanocuboid architecture is developed. The creation of a new composite material which consist of samarium oxide and copper oxide, demonstrates high effectiveness in the process of electrochemical water splitting. The combined use of samarium oxide and copper oxide improves the electrocatalytic performance, stability, and durability due to it synergistic effect. In alkaline media, the Sm 2 O 3 /CuO nanocomposite exhibits an astonishing overpotential of 248 mV along with a lower Tafel value of 46 mVdec −1 for OER and nanocomposite also exhibits acceptable hydrogen evolution reaction (HER) performance. Due to the unprecedented porous nanocuboid morphology and the strong synergistic effect between the two materials, the oxygen‐defective Sm 2 O 3 /CuO composite exhibits impressive electrical properties and performs exceptionally well as an electrocatalyst for intrinsic water splitting. At an operational potential of 0.5 V, porous Sm 2 O 3 /CuO displays outstanding reactivity, Sm 2 O 3 /CuO exhibits remarkable results during electrochemical operation.    
-
-    
-
-## Plasma‐electrified synthesis of atom‐efficient electrocatalysts for sustainable water catalysis and beyond   
-
-OpenAlex: https://openalex.org/W4402786968    
-Open access: False
-    
-[M. Gimhani N. Perera](https://openalex.org/A5050157867), [Mitchell Barclay](https://openalex.org/A5003540204), [Kostya Ostrikov](https://openalex.org/A5013359536), [Jennifer MacLeod](https://openalex.org/A5010681017), [Anthony P. O’Mullane](https://openalex.org/A5036319813), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202400899.
-    
-The downsizing of metal structures to the nano and atomic level, thereby creating nanoparticle catalysts (NPCs), sub‐nanometer cluster catalysts (SNCCs) or single atom catalysts (SACs), has gained significant interest. In particular, synthesizing these types of catalysts using low temperature plasma electrified methods is an emerging field which is highly applicable to electrochemical water splitting for the sustainable production of green hydrogen. Surface modification via plasma treatment provides a route for nanoparticle immobilization or single atom trapping which ensures high atom utilization during electrolysis reactions. Plasma can also be used to create NPCs, SNCCs and SACs from various precursors as well as modify their surface properties once formed which impacts significantly on the oxygen evolution reaction and hydrogen evolution reaction. Therefore, in this review we emphasize the role that low temperature plasma electrified synthetic strategies play in electrocatalyst development for water splitting reactions and explore the crucial relationship between the electronic and coordination environment of atom efficient catalysts and their resulting catalytic activity. We also discuss methods to characterize these types of catalysts and the possibility for scaling up this technology which will be required for commercial applications.    
-
-    
-
-## Bimetal Metaphosphate/Molybdenum Oxide Heterostructure Nanowires for Boosting Overall Freshwater/Seawater Splitting at High Current Densities   
-
-OpenAlex: https://openalex.org/W4402967691    
-Open access: True
-    
-[Pan Wang](https://openalex.org/A5055443524), [Pan Wang](https://openalex.org/A5055443524), [Tongwei Wu](https://openalex.org/A5005829003), [Xuping Sun](https://openalex.org/A5073001285), [Yanning Zhang](https://openalex.org/A5101590880), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202407892.
-    
-Abstract Exploring excellent non‐noble bifunctional electrocatalysts for freshwater/seawater splitting at high current densities has attracted extensive interest owing to strong anodic oxidation and severe chloride corrosion challenges. Herein, hierarchical bimetal Ni‐Co metaphosphate/molybdenum oxide heterostructure nanowires (NiCoMoPO) are rationally designed and fabricated to efficiently boost oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) in alkaline freshwater/seawater, where the favorable electronic structure from heterostructures, signified by X‐ray absorption spectra, endows NiCoMoPO with the enhanced intrinsic activity, while its hierarchical nanowire structure and heterostructures provide abundant active sites. Additionally, the PO 3 − improves the chloride‐corrosion resistance and efficiently facilitates the OER kinetics verified by theoretical and experimental studies. Therefore, NiCoMoPO drives 1000 mA cm −2 at low overpotentials of 467 and 442 mV for OER and HER in alkaline freshwater respectively, as well as a small cell voltage of 2.135 V for overall freshwater splitting with robust durability of 300 h. Impressively, due to the strong corrosion resistance, at 500 mA cm −2 of overall seawater splitting, NiCoMoPO maintains almost 2.096 V for 1200 h, indicating promising practical applications. This work sheds light on the rational design and fabrication of outstanding electrocatalysts at high current densities of seawater/freshwater splitting.    
-
-    
-
 ## Biology‐Based Synthesis of Nickel Single Atoms on the Surface of Geobacter sulfurreducens as an Efficient Electrocatalyst for Alkaline Water Electrolysis   
 
 OpenAlex: https://openalex.org/W4402883795    
@@ -1214,17 +994,6 @@ Open access: False
 [Rodrigo Jimenez‐Sandoval](https://openalex.org/A5037851194), [Krishna P. Katuri](https://openalex.org/A5048626035), [Harshini V. Annadata](https://openalex.org/A5062431371), [Chandrani Nayak](https://openalex.org/A5035187522), [Nimer Wehbe](https://openalex.org/A5015992768), [Georgian Melinte](https://openalex.org/A5018952682), [Pascal E. Saikaly](https://openalex.org/A5009332627), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407261.
     
 Abstract Single‐atom metal catalysts are promising electrocatalysts for water electrolysis. Nickel‐based electrocatalysts have shown attractive application prospects for water electrolysis. However, synthesizing stable Ni single atoms using chemical and physical approaches remains a practical challenge. Here, a facile and precise method for synthesizing stable nickel single atoms on the surface of Geobacter sulfurreducens using a microbial‐mediated extracellular electron transfer (EET) process is demonstrated. It is shown that G. sulfurreducens can effectively anchor nickel single atoms on their surface. X‐ray absorption near‐edge structure and Fourier‐transformed extended X‐ray absorption fine structure spectroscopy confirm that the nickel single atom is coordinated to nitrogen in the cytochromes. The as‐synthesized nickel single atoms on G. sulfurreducens exhibit excellent bifunctional catalytic properties for alkaline water electrolysis with low overpotential ( η ) to achieve current density (10 mA cm −2 ) for both hydrogen evolution reactions ( η = 80 mV) and oxygen evolution reaction ( η = 330 mV) with minimal catalyst loading of 0.0015 mg Ni cm −2 . The nickel single‐atom catalyst shows long‐term stability at a constant electrode potential. This synthesis method based on the EET capability of electroactive bacteria provides a simple and scalable approach for producing low‐cost and highly efficient nonnoble transition metal single‐atom catalysts for practical applications.    
-
-    
-
-## Unveiling the Role of Boron on Nickel‐Based Catalyst for Efficient Urea Oxidation Assisted Hydrogen Production   
-
-OpenAlex: https://openalex.org/W4402810034    
-Open access: False
-    
-[Yixuan Hu](https://openalex.org/A5102311220), [Li Shao](https://openalex.org/A5063764108), [Zhiqi Jiang](https://openalex.org/A5101280638), [Lei Shi](https://openalex.org/A5100657783), [Qiuju Li](https://openalex.org/A5100646111), [Kaiqian Shu](https://openalex.org/A5038386186), [Hui Chen](https://openalex.org/A5100334137), [Guodong Li](https://openalex.org/A5100360760), [Dong Yan](https://openalex.org/A5100675435), [Tongzhou Wang](https://openalex.org/A5031555539), [Jihong Li](https://openalex.org/A5082170164), [Lifang Jiao](https://openalex.org/A5014197896), [Yida Deng](https://openalex.org/A5073977425), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202411011.
-    
-Abstract Urea oxidation reaction (UOR) is an ideal alternative to oxygen evolution reaction (OER) for efficient hydrogen production but is immensely plagued by slow kinetics. Herein, a multilayer hole amorphous boron‐nickel catalyst (a‐NiB x ) is fabricated through a simple chemical plating method, which displays intriguing catalytic activity toward UOR, demanding a low working potential of 1.4 V to reach 100 mA cm −2 . The high performance is credited to the formation of metaborate (BO 2 − ), which can promote the formation of high‐oxidation‐state NiOOH active phase and optimize the adsorption of urea molecules. This can be confirmed by the operando spectroscopy characteristics and density functional theory calculations. Consequently, the assembled electrolyzer utilizing NiB x as bifunctional catalysts exhibited splendid catalytic activity, requiring an evidently lower voltage of 1.66 V to reach a current density of 100 mA cm −2 and 1.57 V when using Pt/C as a cathode catalyst. Moreover, the assembled electrolyzer secured a robust stability of over 200 h, as well as a four times higher hydrogen production rate than traditional water electrolysis.    
 
     
 
@@ -1316,28 +1085,6 @@ Multiple insect lineages have successfully reinvaded the aquatic environment, ev
 
     
 
-## Will the antioxidant supplements impact the mitigation of oxidative stress in Parkinson's disease?   
-
-OpenAlex: https://openalex.org/W4402768739    
-Open access: True
-    
-[Drishya Anil Kumar](https://openalex.org/A5050215474), [Balamuralikrishnan Balasubramanian](https://openalex.org/A5040221642), [Kathirvel Bharathi](https://openalex.org/A5027118949), [Karthika Pushparaj](https://openalex.org/A5035823331), [Manikantan Pappuswamy](https://openalex.org/A5070738015), [Arun Meyyazhagan](https://openalex.org/A5037715468), [Thangavelu Sangeetha](https://openalex.org/A5084276941), [Vijaya Anand Arumugam](https://openalex.org/A5015319626), [Mohandass Kaviya](https://openalex.org/A5066520411), Natural Resources for Human Health. 4(4)] 2024.https://doi.org/10.53365/nrfhh/192939.
-    
-Parkinson's disease is a frequent neurodegenerative condition marked by both non-motor and motor symptoms. It is brought on by the selective depletion of dopamine neurons from the substantia nigra region of the midbrain. Numerous variables, including lifestyle, environment, age, smoking, and underlying medical disorders, affect the occurrence of Parkinson's disease. The free radicals created by oxidative stress have an impact on the morphology and function of neuronal cells and are a factor in many neurodegenerative disorders, including Parkinson’s and Alzheimer’s, disorder. Although the pathophysiological mechanism causing neuronal degeneration is still unknown, oxidative stress plays a critical role in the pathogenesis of idiopathic Parkinson's disease. It also has an association with numerous proteins, including α-synuclein, amyloid, DJ-1 protein and several signalling pathways like extracellular regulated protein kinases. Reactive oxygen species also contribute to complex I's mitochondrial respiratory activity. The naturally occurring antioxidants are the phenols, anthocyanins, carotenoids, flavonoids, vitamins, and lignans. These antioxidants retain the reactive oxygen species generation and plays a role in several biological effects. As a result, natural plant antioxidants may have an impact on Parkinson's disease and offer an alternative therapy that minimises oxidative stress and slows down the evolution of the disease.    
-
-    
-
-## Integrating Gen AI and Adaptive AI for Enterprise Solutions   
-
-OpenAlex: https://openalex.org/W4402798801    
-Open access: False
-    
-[Chalamayya Batchu -](https://openalex.org/A5093687887), [Veera Venkt Satya -](https://openalex.org/A5093687888), Journal of Artificial Intelligence & Cloud Computing. None(None)] 2022.https://doi.org/10.47363/jaicc/2022(1)e146.
-    
-Artificial Intelligence has revolutionized so much that it is influenced into our lives through all day-to-day objects such as phones, IoT objects and other technologies. In the evolution of AI two ground breaking technologies are making a huge impact, Generative AI and Adaptive AI. These technologies can groom the current AI by giving future scope in various domains of digital transformation. When Gen AI is like oxygen in AI as can learn pattern and relationship in a data set well enough to create unique images, text, audio, and video that still adhere to the underlying pattern. Adaptive AI is another emerging field of AI that seek to create intelligent systems to adapt changing circumstances and learning new circumstances. It's so flexible that it is capable of modifying the behavior in response to new information as changes are required in the environment. This paper focus on benefits and scope of integrating both technologies Gen AI and Adaptive AI for the enterprise solutions.    
-
-    
-
 ## Resolving Atmospheric Oxygenated Organic Molecules in Urban Beijing Using Online Ultrahigh-Resolution Chemical Ionization Mass Spectrometry   
 
 OpenAlex: https://openalex.org/W4402927351    
@@ -1393,25 +1140,14 @@ The ability of additive manufacturing to generate intricate structures has led t
 
     
 
-## AGN feedback can produce metal enrichment on galaxy scales   
+## Multifunctional Nanostructured Carbon and Inorganic Nanoparticles Based Nanocomposites for Electrochemical Energy Applications   
 
-OpenAlex: https://openalex.org/W4402795799    
+OpenAlex: https://openalex.org/W4402994702    
 Open access: False
     
-[M. Villar‐Martín](https://openalex.org/A5057411880), [Carlos López-Cobá](https://openalex.org/A5031474592), [S. Cazzoli](https://openalex.org/A5065812328), [E. Pérez-Montero](https://openalex.org/A5107331522), [A. Cabrera Lavers](https://openalex.org/A5037036816), Astronomy and Astrophysics. None(None)] 2024.https://doi.org/10.1051/0004-6361/202449621.
+[Mohammed Rafi Shaik](https://openalex.org/A5080574678), [Mufsir Kuniyil](https://openalex.org/A5045606932), [Mujeeb Khan](https://openalex.org/A5065675626), [Mohammad Rafe Hatshan](https://openalex.org/A5038193185), [Muhammad Tahir](https://openalex.org/A5101456998), [Syed Farooq Adil](https://openalex.org/A5060629326), [Mujeeb Khan](https://openalex.org/A5065675626), IntechOpen eBooks. None(None)] 2024.https://doi.org/10.5772/intechopen.114238.
     
-Giant ($>$100 kpc) nebulae associated with active galaxies provide rich information about the circumgalactic medium around galaxies, its link with the interstellar medium of the hosts, and the mechanisms involved in their evolution. We have studied the giant nebula associated with the Teacup ($z$=0.085) quasar based on VLT MUSE integral field spectroscopy to investigate whether the well-known giant (sim 10 kpc) active galactic nucleus (AGN) -induced outflow has an impact on the distribution of heavy elements in and outside the host galaxy. We have mapped the oxygen and nitrogen gas relative abundances (O/H and N/O) in two spatial dimensions across the giant nebula and within the galaxy by means of comparing emission line ratios with photoionisation model predictions. The widely studied AGN-driven outflow responsible for the sim 10 kpc ionised bubble is enhancing the gas metal abundance up to sim 10 kpc from the AGN. O/H is solar or slightly higher at the edges of the bubble, in comparison with the subsolar abundances across the rest of the nebula median (O/Hsim 0.63 (O/H)$_ odot AGN feedback can produce metal enrichment at large extranuclear distances in galaxies (ge 10 kpc).    
-
-    
-
-## 1D modeling of plasma streamers at ammonia-air flame conditions   
-
-OpenAlex: https://openalex.org/W4402789426    
-Open access: False
-    
-[Taaresh Sanjeev Taneja](https://openalex.org/A5088894816), [Hariswaran Sitaraman](https://openalex.org/A5050866562), [Suo Yang](https://openalex.org/A5079644726), Journal of Physics D Applied Physics. None(None)] 2024.https://doi.org/10.1088/1361-6463/ad7ecb.
-    
-Abstract This work is a self-consistent 1D modeling of streamers in ammonia-oxygen-nitrogen-water mixtures. A fluid model that includes species transport, electrostatic potential, and detailed chemistry was developed and verified. This model is then used to simulate the avalanche, streamer formation and propagation phases, driven by a nanosecond voltage pulse, at different thermochemical conditions derived from a 1D laminar premixed ammonia-air flame. The applicability of the Meek’s criterion in predicting the streamer inception location was successfully confirmed. Streamer formation and propagation duration were found to vary significantly with different thermochemical conditions, due to the difference in ionization rates. The thermochemical state also affected the breakdown characteristics which was tested by maintaining the background reduced electric field constant. Detailed kinetic analyses revealed the importance of O(1D) in the production of key radicals, such as O, OH, and NH2. Furthermore, the contributions of the dissociative electronic excitation of NH3 towards the production of H and NH2 radicals have also been reported. Spatial and temporal evolution of the electron energy loss fractions for various inelastic collision processes at different thermochemical states uncovered the input plasma energy spent of fuel dissociation and the large variability in the dominant processes during the avalanche and streamer propagation phases. The methodology and analyses reported in this work are key towards developing effective strategies for controlled nanosecond-pulsed non-equilibrium plasma sources used for ammonia ignition and flame stabilization.    
+Electrochemical energy conversion and storage technologies play a crucial role in ensuring a sustainable energy future. In these regards, nanostructured carbon-based materials (NCMs) are very critical in the development of novel energy technologies and devices. NCMs include CNTs, graphene, fullerene, and ordered mesoporous carbon materials, which exist in different morphologies. NCMs offer great opportunities for effective modifications through surface functionalization, doping with heteroatoms, and fabrication of composites with organic or inorganic species. Particularly, the composites of NCMs with inorganic materials such as metallic NPs, metal oxide NPs, and their other derivatives (MNPs) have gained considerable recognition in electrochemical energy applications. These materials demonstrate distinct properties, including excellent thermal and electrical conductivity, large surface area, and chemical stability. Herein, we have highlighted some of the trends and outlooks in this exciting area, including fundamentals of these substances according to material science perspective. Besides, the latest research and development of multifunctional MNPs@NCMs composites for electrochemical energy applications have also been illustrated. Particularly, the utilization of these composites from the perspective of different electrochemical energy applications has been summarized, such as energy conversion processes like hydrogen evolution reactions (HER), oxygen reduction reactions (ORR), and energy storage devices like batteries and supercapacitors.    
 
     
 
@@ -1438,28 +1174,6 @@ Globular clusters (GCs) are sites of extremely efficient star formation, and rec
 
     
 
-## Synergistic Interactions of Bulk Polarization and Built‐In Electric Field Inducing 2D/2D S‐Scheme Homojunction Toward Enhanced Photocatalytic Performance   
-
-OpenAlex: https://openalex.org/W4402781729    
-Open access: False
-    
-[Xiaohui Li](https://openalex.org/A5100338539), [Zhiqi Su](https://openalex.org/A5102587395), [Shiting Wu](https://openalex.org/A5067049042), [Lingxia Zheng](https://openalex.org/A5025261475), [Huajun Zheng](https://openalex.org/A5100412650), [Liang Mao](https://openalex.org/A5074463904), [Xiaowei Shi](https://openalex.org/A5084297439), Small. None(None)] 2024.https://doi.org/10.1002/smll.202406485.
-    
-Abstract The rational design of S‐scheme photocatalysts, achieved by serially integrating two different semiconductors, represents a promising strategy for efficient charge separation and amplified photocatalytic performance, yet it remains a challenge. Herein, ZnIn 2 S 4 (ZIS) and oxygen‐doped ZnIn 2 S 4 (O‐ZIS) nanosheets are chosen to construct a homojunction catalyst architecture. Theoretical simulations alongside comprehensive in situ and ex situ characterizations confirm that ZIS and O‐ZIS with noncentrosymmetric layered structures can generate a polarization‐induced bulk‐internal electric field (IEF) within the crystal. A robust interface‐IEF is also created by the strong interfacial interaction between O‐ZIS and ZIS with different work functions. Owing to these features, the O‐ZIS/ZIS homojunction adopts an S‐scheme directional charge transfer route, wherein photoexcited electrons in ZIS and holes in O‐ZIS concurrently migrate to their interface and subsequently recombine. This enables spatial charge separation and provides a high driving force for both reduction and oxidation reactions simultaneously. Consequently, such photocatalyst exhibits an H 2 evolution rate up to 142.9 µmol h −1 without any cocatalysts, which is 4.6‐ and 3.4‐fold higher than that of pristine ZIS and O‐ZIS, respectively. Benzaldehyde is also produced as a value‐added oxidation product with a rate of 146.9 µmol h −1 . This work offers a new perspective on the design of S‐scheme systems.    
-
-    
-
-## Fe, Zn, and Mg stable isotope systematics of acapulcoite lodranite clan meteorites   
-
-OpenAlex: https://openalex.org/W4402780915    
-Open access: True
-    
-[Stepan M. Chernonozhkin](https://openalex.org/A5027226074), [Lidia Pittarello](https://openalex.org/A5028576701), [Geneviève Hublet](https://openalex.org/A5030480665), [Philippe Claeys](https://openalex.org/A5032588554), [Vinciane Debaille](https://openalex.org/A5075762231), [Frank Vanhaecke](https://openalex.org/A5002207397), [Steven Goderis](https://openalex.org/A5062114510), Meteoritics and Planetary Science. None(None)] 2024.https://doi.org/10.1111/maps.14258.
-    
-Abstract The processes of planetary accretion and differentiation, whereby an unsorted mass of primitive solar system material evolves into a body composed of a silicate mantle and metallic core, remain poorly understood. Mass‐dependent variations of the isotope ratios of non‐traditional stable isotope systems in meteorites are known to record events in the nebula and planetary evolution processes. Partial melting and melt separation, evaporation and condensation, diffusion, and thermal equilibration between minerals at the parent body (PB) scale can be recorded in the isotopic signatures of meteorites. In this context, the acapulcoite–lodranite meteorite clan (ALC), which represents the products of thermal metamorphism and low‐degree partial melting of a primitive asteroid, is an attractive target to study the processes of early planetary differentiation. Here, we present a comprehensive data set of mass‐dependent Fe, Zn, and Mg isotope ratio variations in bulk ALC species, their separated silicate and metal phases, and in handpicked mineral fractions. These non‐traditional stable isotope ratios are governed by mass‐dependent isotope fractionation and provide a state‐of‐the‐art perspective on the evolution of the ALC PB, which is complementary to interpretations based on the petrology, trace element composition, and isotope geochemistry of the ALC. None of the isotopic signatures of ALC species show convincing co‐variation with the oxygen isotope ratios, which are considered to record nebular processes occurring prior to the PB formation. Iron isotopic compositions of ALC metal and silicate phases broadly fall on the isotherms within the temperature ranges predicted by pyroxene thermometry. The isotope ratios of Mg in ALC meteorites and their silicate minerals are within the range of chondritic meteorites, with only accessory spinel group minerals having significantly different compositions. Overall, the Mg and Fe isotopic signatures of the ALC species analyzed are in line with their formation as products of high‐degree thermal metamorphism and low‐degree partial melting of primitive precursors. The δ 66/64 Zn values of the ALC meteorites demonstrate a range of ~3.5‰ and the Zn is overall isotopically heavier than in chondrites. The superchondritic Zn isotopic signatures have possibly resulted from evaporative Zn losses, as observed for other meteorite parent bodies. This is unlikely to be the result of PB differentiation processes, as the Zn isotope ratio data show no covariation with the proxies of partial melting, such as the mass fractions of the platinum group and rare earth elements.    
-
-    
-
 ## Study on the response mechanisms and evolution prediction of groundwater microbial‐toxicological indicators   
 
 OpenAlex: https://openalex.org/W4402933969    
@@ -1479,17 +1193,6 @@ Open access: True
 [Miguel Ramos](https://openalex.org/A5015824831), [Miquel Solà](https://openalex.org/A5035251076), [Albert Poater](https://openalex.org/A5091859825), Journal of Molecular Modeling. 30(10)] 2024.https://doi.org/10.1007/s00894-024-06152-3.
     
 Abstract Context The field of chemistry has significantly evolved, with catalysis playing a crucial role in transforming chemical processes. From Valerius’ use of sulfuric acid in the sixteenth century to modern advancements, catalysis has driven innovations across various industries. The introduction of gold as a catalyst marked a pivotal shift, expanding its applications beyond ornamentation to homogeneous catalysis. Gold’s unique properties, such as its electrophilic nature and flexibility, have enabled its use in synthesizing complex molecules, including those in nanomedicine and sustainable chemical processes. The development of gold-based complexes, particularly in hydroalkoxylation and hydroamination reactions, showcases their efficiency in forming carbon–oxygen bonds under mild conditions. Recent studies on dual gold catalysis and heterobimetallic complexes further highlight gold’s versatility in achieving high turnover rates and selectivity. This evolution underscores the potential of gold catalysis in advancing environmentally sustainable methodologies and enhancing the scope of modern synthetic chemistry. The debate about the nature of monogold and dual-gold catalysis is open. Methods DFT calculations have played a key role in promoting the activation of alkynes, in particular the hydrophenoxylation of alkynes by metal-based catalysts. They not only help identify the most efficient and selective catalysts but also aid in screening for those capable of performing a dual metal catalytic mechanism. The most commonly used functionals are BP86 and B3LYP, with the SVP and 6-31G(d) basis sets employed for geometry optimizations, and M06 with TZVP or 6-311G(d,p) basis sets used for single-point energy calculations in a solvent. Grimme dispersion correction has been explicitly added either in the solvent single point energy calculations or in the gas phase geometry optimizations or in both. To point out that M06 implicitly includes part of this dispersion scheme.    
-
-    
-
-## Paschen-Back Effect-Driven Coordination Modulation of SO₄²⁻ Hydration for Dendrite-Free Zn Ion Batteries via Magnetized Electrolyte   
-
-OpenAlex: https://openalex.org/W4402808216    
-Open access: False
-    
-[Zhi Wang](https://openalex.org/A5100376404), [Xiayan Yao](https://openalex.org/A5100817854), [Jianwei Guo](https://openalex.org/A5101643707), [Guoyu Qian](https://openalex.org/A5103086308), [Hongchen Wang](https://openalex.org/A5040126938), [Xuzhong Gong](https://openalex.org/A5035723991), [Dong Wang](https://openalex.org/A5100391555), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4970085/v1.
-    
-Abstract Tuning the anionic solvation structure and dynamic processes at solid‒liquid interfaces are critical yet challenging for stabilizing Zn metal anodes in Zn ion batteries. Here, we demonstrate that highly hydrated SO42− can be modulated under a strong magnetic field (MF) via the Paschen-Back effect on the O-H stretching mode, which reorients individual water molecules to manipulate Zn²⁺ solvation and protonated water clusters (H3O+). This high level of hydration was confirmed through Raman spectroscopy, molecular dynamics (MD) simulations, and ¹⁷O/¹H nuclear magnetic resonance (NMR) with coaxial insert tubes. Our findings reveal that the MF disrupts the hydrogen-bonded water structure (DDAA), leading to charge redistribution and localization onto the SO42− -4H₂O (DDA) complex, inhibiting the intra-molecular Fermi resonance of free O-H stretch water (DAA-OH) and suppressing the Zn2+-6H₂O interaction. Additionally, MD simulations and electrochemical characterizations show that these hydrated SO42−-H₂O complexes favor Zn2+ nucleation and deposition on the (002) plane, with the preferential adsorption of oxygen on Zn (002) inhibiting 2D Zn2+ diffusion. Combined with density functional theory (DFT) analysis, we demonstrate that magnetically treated ZnSO4 electrolytes exposed to a 3 T MF for 25 minutes can disrupt the Grotthuss proton-transport mechanism, suppressing H2 evolution and achieving 100% dendrite-free growth. This work highlights the critical role of magnetization pretreatment in enhancing the stability of electrochemical interfaces, offering insights for the molecular design of interfacial water in various aqueous Zn-based batteries.    
 
     
 
