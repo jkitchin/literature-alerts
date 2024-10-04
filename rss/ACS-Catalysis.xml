@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 03 Oct 2024 01:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 01:20:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Reactive Surface Explored by NAP-XPS: Why Ionic Conductors Are Promoters for Water Gas Shift Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04287</link>
-      <description>Nuria Garc&#237;a&#8208;Moncada, Anna Penkova, Miriam Gonz&#225;lez&#8208;Casta&#241;o, J.A. Odriozola, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402830959
-
-                No abstract</description>
-      <author>Nuria Garc&#237;a&#8208;Moncada, Anna Penkova, Miriam Gonz&#225;lez&#8208;Casta&#241;o, J.A. Odriozola</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04287</guid>
-    </item>
-    <item>
-      <title>Bench-Stable Low-Valent Chromium Catalysts for Hydrogenation of CO&lt;sub&gt;2&lt;/sub&gt;, Bicarbonate, and Inorganic Carbonates to Formate</title>
-      <link>https://doi.org/10.1021/acscatal.4c04492</link>
-      <description>Tushar Singh, Akash Gutal, Anitta Regina, Amitava Banerjee, Manikandan Paranjothy, Subrata Chakraborty, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402831263
-
-                No abstract</description>
-      <author>Tushar Singh, Akash Gutal, Anitta Regina, Amitava Banerjee, Manikandan Paranjothy, Subrata Chakraborty</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04492</guid>
-    </item>
-    <item>
-      <title>Pt-Loaded CoFe-Layered Double Hydroxides for Simultaneously Driving HER and HzOR</title>
-      <link>https://doi.org/10.1021/acscatal.4c03881</link>
-      <description>Tianrui Yu, Guihao Liu, Tianqi Nie, Zhaohui Wu, Ziheng Song, Xiaoliang Sun, Yu&#8208;Fei Song, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402836976
-
-                No abstract</description>
-      <author>Tianrui Yu, Guihao Liu, Tianqi Nie, Zhaohui Wu, Ziheng Song, Xiaoliang Sun, Yu&#8208;Fei Song</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03881</guid>
-    </item>
-    <item>
-      <title>Perovskite Oxide Materials for Solar Thermochemical Hydrogen Production from Water Splitting through Chemical Looping</title>
-      <link>https://doi.org/10.1021/acscatal.4c03357</link>
-      <description>Cijie Liu, Jiyun Park, H&#233;ctor A. De Santiago, Boyuan Xu, Wei Li, Dawei Zhang, Lingfeng Zhou, Yue Qi, Jian Luo, Xingbo Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402837571
-
-                No abstract</description>
-      <author>Cijie Liu, Jiyun Park, H&#233;ctor A. De Santiago, Boyuan Xu, Wei Li, Dawei Zhang, Lingfeng Zhou, Yue Qi, Jian Luo, Xingbo Liu</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03357</guid>
-    </item>
-    <item>
-      <title>Direct Deoxygenative Homocoupling of Alcohols to Access C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;C(sp&lt;sup&gt;3&lt;/sup&gt;) Bonds via Synergistic Ruthenium/Nickel Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c04400</link>
-      <description>Dawei Cao, Shumei Xia, Lijuan Li, Huiying Zeng, Chao&#8208;Jun Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402839609
-
-                No abstract</description>
-      <author>Dawei Cao, Shumei Xia, Lijuan Li, Huiying Zeng, Chao&#8208;Jun Li</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04400</guid>
-    </item>
-    <item>
-      <title>Reductive Olefin Bicyclo[1.1.0]butane Coupling Enabled by Iron Hydride Hydrogen Atom Transfer</title>
-      <link>https://doi.org/10.1021/acscatal.4c04837</link>
-      <description>Guang Chen, Dayu Tian, Xiaocheng Wang, Hai&#8208;Jun Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402846874
-
-                No abstract</description>
-      <author>Guang Chen, Dayu Tian, Xiaocheng Wang, Hai&#8208;Jun Zhang</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04837</guid>
-    </item>
-    <item>
-      <title>Strengthened Delocalized Electronic Effect in Nano-Nickel@Carbon with High Pyrrolic Nitrogen for Selective Hydrogenation of Substituted Nitrobenzene Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c03995</link>
-      <description>Yongyue Yao, Chunyu Yin, Wei He, Yebin Zhou, Chaofan Ma, Yi Liu, Xiao&#8208;Nian Li, Chunshan Lu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402847293
-
-                No abstract</description>
-      <author>Yongyue Yao, Chunyu Yin, Wei He, Yebin Zhou, Chaofan Ma, Yi Liu, Xiao&#8208;Nian Li, Chunshan Lu</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03995</guid>
-    </item>
-    <item>
-      <title>Nature of Glucose Epimerization Catalyzed by Mo-Containing Bulk Catalysts in Aqueous Phase</title>
-      <link>https://doi.org/10.1021/acscatal.4c02893</link>
-      <description>&#1041;&#1086; &#1051;&#1102;, Youzhou He, Yingying Jiao, Ling Ding, Di An, Yang Yang, Qingqing Hao, Huiyong Chen, Qun&#8208;Xing Luo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402850082
-
-                No abstract</description>
-      <author>&#1041;&#1086; &#1051;&#1102;, Youzhou He, Yingying Jiao, Ling Ding, Di An, Yang Yang, Qingqing Hao, Huiyong Chen, Qun&#8208;Xing Luo</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02893</guid>
-    </item>
     <item>
       <title>Multi-Band Centre Co-Tailoring of Iridium Diphosphide Nanoclusters Motivating Industrial Current Density Hydrogen Production</title>
       <link>https://doi.org/10.1021/acscatal.4c04561</link>
@@ -168,6 +88,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03594</guid>
     </item>
     <item>
+      <title>Highly Acid-Resistant Co&lt;sub&gt;NPs&lt;/sub&gt;@Co-N-C Catalyst for the Efficient Aqueous-Phase Hydrogenation of Maleic Acid to Succinic Acid</title>
+      <link>https://doi.org/10.1021/acscatal.4c03990</link>
+      <description>Zhengyu Zhao, Zongxuan Yang, Hongmei Bai, Hongwei Zhang, Bowen Zhang, Xinru Wu, Zimeng Li, Cejun Hu, Xiaojun Bao, Pei Yuan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403011320
+
+                No abstract</description>
+      <author>Zhengyu Zhao, Zongxuan Yang, Hongmei Bai, Hongwei Zhang, Bowen Zhang, Xinru Wu, Zimeng Li, Cejun Hu, Xiaojun Bao, Pei Yuan</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03990</guid>
+    </item>
+    <item>
+      <title>Ti-Catalyzed Oxidative Amination Using Anilines</title>
+      <link>https://doi.org/10.1021/acscatal.4c04879</link>
+      <description>Steven K. Butler, Ethan P. Ashbrook, Madeleine G. Harris, Ian A. Tonks, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403017940
+
+                No abstract</description>
+      <author>Steven K. Butler, Ethan P. Ashbrook, Madeleine G. Harris, Ian A. Tonks</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04879</guid>
+    </item>
+    <item>
       <title>Redefining the Symphony of Light Aromatic Synthesis Beyond Fossil Fuels: A Journey Navigating through a Fe-Based/HZSM-5 Tandem Route for Syngas Conversion</title>
       <link>https://doi.org/10.1021/acscatal.4c03941</link>
       <description>Muhammad Asif Nawaz, Rub&#233;n Blay-Roger, Maria Saif, Fanhui Meng, Luis F. Bobadilla, Tom&#225;s Ram&#305;&#769;rez Reina, J.A. Odriozola, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403019032
@@ -176,6 +116,86 @@
       <author>Muhammad Asif Nawaz, Rub&#233;n Blay-Roger, Maria Saif, Fanhui Meng, Luis F. Bobadilla, Tom&#225;s Ram&#305;&#769;rez Reina, J.A. Odriozola</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03941</guid>
+    </item>
+    <item>
+      <title>Dehydrogenation of &lt;i&gt;n&lt;/i&gt;-Butane on Metal Cobalt Sites Confined within Ceria Nanoislands</title>
+      <link>https://doi.org/10.1021/acscatal.4c04157</link>
+      <description>Xinbao Zhang, Xiangxue Zhu, Junjie Li, Jianyang Wang, Shaoguo Li, Rongtan Li, Zhicheng Tang, Rentao Mu, Qiang Fu, Longya Xu, Xiangxue Zhu, Xiujie Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403042776
+
+                No abstract</description>
+      <author>Xinbao Zhang, Xiangxue Zhu, Junjie Li, Jianyang Wang, Shaoguo Li, Rongtan Li, Zhicheng Tang, Rentao Mu, Qiang Fu, Longya Xu, Xiangxue Zhu, Xiujie Li</author>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04157</guid>
+    </item>
+    <item>
+      <title>Designed CYP450 Scaffold That Possesses a Local Electric Field Biodegrades Polyethylene Terephthalate</title>
+      <link>https://doi.org/10.1021/acscatal.4c05363</link>
+      <description>Shakir Ali Siddiqui, Sason Shaik, Kshatresh Dutta Dubey, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403042803
+
+                No abstract</description>
+      <author>Shakir Ali Siddiqui, Sason Shaik, Kshatresh Dutta Dubey</author>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05363</guid>
+    </item>
+    <item>
+      <title>Hydrogen Evolution Reaction Activity in Mo&lt;sub&gt;2&lt;/sub&gt;TiC&lt;sub&gt;2&lt;/sub&gt;T&lt;i&gt;x&lt;/i&gt; MXene Derived from Mo&lt;sub&gt;2&lt;/sub&gt;TiAlC&lt;sub&gt;2&lt;/sub&gt; MAX Phase: Insights from Compositional Transformations</title>
+      <link>https://doi.org/10.1021/acscatal.4c04099</link>
+      <description>Jan Luxa, Petr Kupka, Fedor Lipilin, Ji&#345;&#237; &#352;turala, Amutha Subramani, Petr Lazar, Zden&#283;k Sofer, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403052741
+
+                No abstract</description>
+      <author>Jan Luxa, Petr Kupka, Fedor Lipilin, Ji&#345;&#237; &#352;turala, Amutha Subramani, Petr Lazar, Zden&#283;k Sofer</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04099</guid>
+    </item>
+    <item>
+      <title>Breaking the Trade-Off between CO Tolerance and Intrinsic Activity in Hydrogenation on Metal Oxide-Supported Noble Metal Single Atoms through Coordination Environment Engineering</title>
+      <link>https://doi.org/10.1021/acscatal.4c04297</link>
+      <description>Xiaojun Zhao, Liqiang Wang, Guangji Zhang, Ping An, Min Yu, Lizhen Lian, Chengcheng Zhang, Dongsheng Ouyang, Yuchen Yan, Limiao Chen, Tiechui Yuan, You&#8208;Nian Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403058917
+
+                No abstract</description>
+      <author>Xiaojun Zhao, Liqiang Wang, Guangji Zhang, Ping An, Min Yu, Lizhen Lian, Chengcheng Zhang, Dongsheng Ouyang, Yuchen Yan, Limiao Chen, Tiechui Yuan, You&#8208;Nian Liu</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04297</guid>
+    </item>
+    <item>
+      <title>Benzyl Alcohol Valorization via the In Situ Production of Reactive Oxygen Species</title>
+      <link>https://doi.org/10.1021/acscatal.4c04698</link>
+      <description>Gordon Sharp, Richard J. Lewis, Junhong Liu, Giovanni Magr&#236;, David Morgan, Thomas E. Davies, &#193;ngeles L&#243;pez&#8208;Mart&#237;n, Rong-Jian Li, Caroline Morris, Damien M. Murphy, Andrea Folli, A. Iulian Dugulan, Liwei Chen, Xi Liu, Graham J. Hutchings, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403063962
+
+                No abstract</description>
+      <author>Gordon Sharp, Richard J. Lewis, Junhong Liu, Giovanni Magr&#236;, David Morgan, Thomas E. Davies, &#193;ngeles L&#243;pez&#8208;Mart&#237;n, Rong-Jian Li, Caroline Morris, Damien M. Murphy, Andrea Folli, A. Iulian Dugulan, Liwei Chen, Xi Liu, Graham J. Hutchings</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04698</guid>
+    </item>
+    <item>
+      <title>Interdependence Between the Extent of Ga Promotion, the Nature of Active Sites, and the Reaction Mechanism Over Cu Catalysts for CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation to Methanol</title>
+      <link>https://doi.org/10.1021/acscatal.4c04577</link>
+      <description>Daviel G&#243;mez, Tom&#225;s Vergara, Maray Ortega, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403063965
+
+                No abstract</description>
+      <author>Daviel G&#243;mez, Tom&#225;s Vergara, Maray Ortega, Vlad Martin&#8208;Diaconescu, Laura Simonelli, Patricia Concepci&#243;n, Romel Jim&#233;nez, Alejandro Karelovic</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04577</guid>
+    </item>
+    <item>
+      <title>The Role of General Acid Catalysis in the Mechanism of an Alkyl Transferase Ribozyme</title>
+      <link>https://doi.org/10.1021/acscatal.4c04571</link>
+      <description>Timothy J. Wilson, Erika McCarthy, &#350;&#246;len Ekesan, Timothy J. Giese, Nan&#8208;Sheng Li, Lin Huang, Joseph A. Piccirilli, Darrin M. York, David M.J. Lilley, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403064227
+
+                No abstract</description>
+      <author>Timothy J. Wilson, Erika McCarthy, &#350;&#246;len Ekesan, Timothy J. Giese, Nan&#8208;Sheng Li, Lin Huang, Joseph A. Piccirilli, Darrin M. York, David M.J. Lilley</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04571</guid>
+    </item>
+    <item>
+      <title>Restructuring of the Lewis Acid Sites in Y-Modified Dealuminated Beta-Zeolite by Hydrothermal Treatment</title>
+      <link>https://doi.org/10.1021/acscatal.4c04135</link>
+      <description>Fan Lin, Meijun Li, Stephen C. Purdy, Junyan Zhang, Yilin Wang, Sung Min Kim, Mark Engelhard, Zhenglong Li, Andrew D. Sutton, Yong Wang, Jian Zhi Hu, Huamin Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403064484
+
+                No abstract</description>
+      <author>Fan Lin, Meijun Li, Stephen C. Purdy, Junyan Zhang, Yilin Wang, Sung Min Kim, Mark Engelhard, Zhenglong Li, Andrew D. Sutton, Yong Wang, Jian Zhi Hu, Huamin Wang</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04135</guid>
     </item>
   </channel>
 </rss>

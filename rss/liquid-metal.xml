@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 03 Oct 2024 01:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 01:20:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Cellulose Pyrolysis via Liquid Metal Catalysis</title>
+      <link>https://doi.org/10.1016/j.jaap.2024.106800</link>
+      <description>Aaditya Hari Bharanidharan, Kyle McGaugh, Aime Laurent Twizeriman, Kaylen Ocampo, G&#246;tz Veser, Mohammad S. Masnadi, Journal of Analytical and Applied Pyrolysis. None(None)] 2024. https://openalex.org/W4403064947
+
+                No abstract</description>
+      <author>Aaditya Hari Bharanidharan, Kyle McGaugh, Aime Laurent Twizeriman, Kaylen Ocampo, G&#246;tz Veser, Mohammad S. Masnadi</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106800</guid>
+    </item>
     <item>
       <title>Design and Application of a Liquid Metal Ball-Supported Layered Double Hydroxide Core-Shell Structure as Highly Efficient Catalysts for the Oxygen Evolution Reaction in Rechargeable Zinc-Air Batteries</title>
       <link>https://doi.org/10.2139/ssrn.4968676</link>

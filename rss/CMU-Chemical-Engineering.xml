@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 03 Oct 2024 01:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 01:20:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Self&#8208;organized Patterns in Non&#8208;reciprocal Active Droplet Systems</title>
-      <link>https://doi.org/10.1002/anie.202409382</link>
-      <description>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402831696
-
-                Non&#8208;equilibrium patterns are widespread in nature and often arise from the self&#8208;organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil&#8208;in&#8208;water droplet mixtures with predator&#8208;prey interactions can result in a variety of self&#8208;organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self&#8208;organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.</description>
-      <author>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202409382</guid>
-    </item>
-    <item>
-      <title>Self&#8208;organized Patterns in Non&#8208;reciprocal Active Droplet Systems</title>
-      <link>https://doi.org/10.1002/ange.202409382</link>
-      <description>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402836320
-
-                Non&#8208;equilibrium patterns are widespread in nature and often arise from the self&#8208;organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil&#8208;in&#8208;water droplet mixtures with predator&#8208;prey interactions can result in a variety of self&#8208;organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self&#8208;organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.</description>
-      <author>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202409382</guid>
-    </item>
     <item>
       <title>Design and Optimization of Processes for Recovering Rare Earth Elements from End-of-Life Hard Disk Drives</title>
       <link>https://doi.org/10.2172/2447625</link>

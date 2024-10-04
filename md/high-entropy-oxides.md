@@ -1,18 +1,8 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Thu Oct  3 01:20:13 2024
+Created on Fri Oct  4 01:20:16 2024
 
-Found 1 results from 2024-09-26 to 2024-10-03
+Found 0 results from 2024-09-27 to 2024-10-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
 
-## High entropy alloys: assessing atomic-scale mixing and surface passivation with time-of-flight secondary ion mass spectrometry   
-
-OpenAlex: https://openalex.org/W4402848206    
-Open access: False
-    
-[O. Laurent](https://openalex.org/A5069160885), [Maria Letizia De Marco](https://openalex.org/A5058380649), [Marco Faustini](https://openalex.org/A5065949519), [Laurence Rozes](https://openalex.org/A5052141810), [Claude Poleunis](https://openalex.org/A5022961903), [Arnaud Delcorte](https://openalex.org/A5028537733), [Damien P. Debecker](https://openalex.org/A5054134347), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-gnlt0.
-    
-High entropy alloys (HEAs) are alloys that consist of five or more principal elements in near-equiatomic proportions, that tend to form simple solid solutions during solidification owing to high mixing entropy. HEAs have been identified as promising candidates for various heterogeneous catalysis and electrocatalysis applications. This work illustrates the utility of time-of-flight secondary ion mass spectrometry (ToF-SIMS) in analyzing HEAs, offering detailed chemical information about the top layers of a sample. Ru-Pt-Pd-Ir-Rh based porous HEAs with different mixing characteristics were analyzed alongside seven simpler alloys. An automatic quantification process was developed to effectively deal with the large data sets obtained from ToF-SIMS spectra of HEAs, allowing for accurate and reliable data interpretation. The complex chemical fingerprint obtained from the alloys surface was translated into a matrix showing the individual isotopic mass distributions of each poly atomic chemical species. From this, we introduce two key metrics: the Cluster Ratio (CR) and the Oxide Ratio (OR), to quantify respectively the degree of atomic-level mixing and the surface oxidation. With such data processing framework in hands, ToF-SIMS becomes a highly effective tool for assessing the properties of HEAs. Our findings reveal that increasing elemental complexity (number of different elements in the alloy) enhances atomic mixing. Moreover, HEAs with enhanced atomic mixing are shown to be more resistant to surface oxidation.    
-
-    

@@ -1,10 +1,31 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Thu Oct  3 01:20:13 2024
+Created on Fri Oct  4 01:20:15 2024
 
-Found 2 results from 2024-09-26 to 2024-10-03
+Found 3 results from 2024-09-27 to 2024-10-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
+
+* Cellulose Pyrolysis via Liquid Metal Catalysis  :liquid_metal:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403064947
+:TOPICS: Biomass Pyrolysis and Conversion Technologies, Recycling Technologies for Carbon Fiber Composites, Characterization and Behavior of Nuclear Graphite Materials
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jaap.2024.106800")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403064947"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403064947"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403064947"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403064947 (Open access: False)
+    
+[[https://openalex.org/A5107698611][Aaditya Hari Bharanidharan]], [[https://openalex.org/A5107698612][Kyle McGaugh]], [[https://openalex.org/A5107698613][Aime Laurent Twizeriman]], [[https://openalex.org/A5107698614][Kaylen Ocampo]], [[https://openalex.org/A5027700633][Götz Veser]], [[https://openalex.org/A5013059036][Mohammad S. Masnadi]], Journal of Analytical and Applied Pyrolysis. None(None)] 2024. https://doi.org/10.1016/j.jaap.2024.106800 
+     
+No abstract    
+
+    
 
 * Design and Application of a Liquid Metal Ball-Supported Layered Double Hydroxide Core-Shell Structure as Highly Efficient Catalysts for the Oxygen Evolution Reaction in Rechargeable Zinc-Air Batteries  :liquid_metal:
 :PROPERTIES:

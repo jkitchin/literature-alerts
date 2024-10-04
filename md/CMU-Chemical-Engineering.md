@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Oct  3 01:20:15 2024
+Created on Fri Oct  4 01:20:17 2024
 
-Found 14 results from 2024-09-26 to 2024-10-03
+Found 12 results from 2024-09-27 to 2024-10-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Self‐organized Patterns in Non‐reciprocal Active Droplet Systems   
-
-OpenAlex: https://openalex.org/W4402831696    
-Open access: False
-    
-[Yutong Liu](https://openalex.org/A5100696601), [R. Kailasham](https://openalex.org/A5034160371), [Pepijn G. Moerman](https://openalex.org/A5011172184), [Aditya S. Khair](https://openalex.org/A5018420940), [Lauren D. Zarzar](https://openalex.org/A5022036259), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202409382.
-    
-Non‐equilibrium patterns are widespread in nature and often arise from the self‐organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil‐in‐water droplet mixtures with predator‐prey interactions can result in a variety of self‐organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self‐organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.    
-
-    
-
-## Self‐organized Patterns in Non‐reciprocal Active Droplet Systems   
-
-OpenAlex: https://openalex.org/W4402836320    
-Open access: False
-    
-[Yutong Liu](https://openalex.org/A5100696601), [R. Kailasham](https://openalex.org/A5034160371), [Pepijn G. Moerman](https://openalex.org/A5011172184), [Aditya S. Khair](https://openalex.org/A5018420940), [Lauren D. Zarzar](https://openalex.org/A5022036259), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202409382.
-    
-Non‐equilibrium patterns are widespread in nature and often arise from the self‐organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil‐in‐water droplet mixtures with predator‐prey interactions can result in a variety of self‐organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self‐organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.    
-
-    
 
 ## Design and Optimization of Processes for Recovering Rare Earth Elements from End-of-Life Hard Disk Drives   
 
