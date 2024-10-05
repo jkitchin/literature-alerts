@@ -1,8 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Fri Oct  4 01:20:15 2024
+Created on Sat Oct  5 01:19:04 2024
 
-Found 3 results from 2024-09-27 to 2024-10-04
+Found 2 results from 2024-09-28 to 2024-10-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
@@ -22,27 +22,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 OpenAlex: https://openalex.org/W4403064947 (Open access: False)
     
 [[https://openalex.org/A5107698611][Aaditya Hari Bharanidharan]], [[https://openalex.org/A5107698612][Kyle McGaugh]], [[https://openalex.org/A5107698613][Aime Laurent Twizeriman]], [[https://openalex.org/A5107698614][Kaylen Ocampo]], [[https://openalex.org/A5027700633][Götz Veser]], [[https://openalex.org/A5013059036][Mohammad S. Masnadi]], Journal of Analytical and Applied Pyrolysis. None(None)] 2024. https://doi.org/10.1016/j.jaap.2024.106800 
-     
-No abstract    
-
-    
-
-* Design and Application of a Liquid Metal Ball-Supported Layered Double Hydroxide Core-Shell Structure as Highly Efficient Catalysts for the Oxygen Evolution Reaction in Rechargeable Zinc-Air Batteries  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402889971
-:TOPICS: Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4968676")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402889971"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402889971"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402889971"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402889971 (Open access: False)
-    
-[[https://openalex.org/A5029078467][Liqing Qiao]], [[https://openalex.org/A5101991818][Wenwei Liu]], [[https://openalex.org/A5079336629][Na Du]], [[https://openalex.org/A5074814486][Wangwang Xu]], [[https://openalex.org/A5074870071][Yankun Li]], [[https://openalex.org/A5009161590][Haofeng Wu]], [[https://openalex.org/A5101026895][Zhonghua Bao]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4968676 
      
 No abstract    
 
