@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 05 Oct 2024 01:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 01:25:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Georgia Stinchfield, Jean&#8208;Paul Watson, Carl D. Laird</author>
       <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2447903</guid>
+    </item>
+    <item>
+      <title>Amine headgroups in ionizable lipids drive immune responses to lipid nanoparticles by binding to the receptors TLR4 and CD1d</title>
+      <link>https://doi.org/10.1038/s41551-024-01256-w</link>
+      <description>Namit Chaudhary, Lisa N. Kasiewicz, Alexandra N. Newby, Mariah L. Arral, Saigopalakrishna S. Yerneni, Jilian R. Melamed, Samuel T. LoPresti, Katherine C. Fein, Daria M. Strelkova Petersen, Sushant Kumar, Rahul Purwar, Kathryn A. Whitehead, Nature Biomedical Engineering. None(None)] 2024. https://openalex.org/W4403104998
+
+                No abstract</description>
+      <author>Namit Chaudhary, Lisa N. Kasiewicz, Alexandra N. Newby, Mariah L. Arral, Saigopalakrishna S. Yerneni, Jilian R. Melamed, Samuel T. LoPresti, Katherine C. Fein, Daria M. Strelkova Petersen, Sushant Kumar, Rahul Purwar, Kathryn A. Whitehead</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41551-024-01256-w</guid>
     </item>
   </channel>
 </rss>

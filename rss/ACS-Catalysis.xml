@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 05 Oct 2024 01:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 01:25:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Initiation of the Phillips Cr(VI) Catalyst by Alkenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c04326</link>
-      <description>Masud Monwar, Jared L. Barr, Kathy S. Clear, Carlos Cruz, Mitchell D. Refvik, Max P. McDaniel, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402916732
-
-                No abstract</description>
-      <author>Masud Monwar, Jared L. Barr, Kathy S. Clear, Carlos Cruz, Mitchell D. Refvik, Max P. McDaniel</author>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04326</guid>
-    </item>
-    <item>
-      <title>Unveiling Plasmon-Induced Suzuki&#8211;Miyaura Reactions on Silver Nanoparticles via Raman Spectroscopy</title>
-      <link>https://doi.org/10.1021/acscatal.4c04578</link>
-      <description>Yunjia Wei, Dexiang Chen, Xingce Fan, Xiao Tang, Lei Yao, Xing Zhao, Qiang Li, Jiawei Wang, Teng Qiu, Qi Hao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402917486
-
-                No abstract</description>
-      <author>Yunjia Wei, Dexiang Chen, Xingce Fan, Xiao Tang, Lei Yao, Xing Zhao, Qiang Li, Jiawei Wang, Teng Qiu, Qi Hao</author>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04578</guid>
-    </item>
-    <item>
-      <title>Retraction of &#8220;Pd-Partially Reduced Graphene Oxide Catalysts (Pd/PRGO): Laser Synthesis of Pd Nanoparticles Supported on PRGO Nanosheets for Carbon&#8211;Carbon Cross Coupling Reactions&#8221;</title>
-      <link>https://doi.org/10.1021/acscatal.4c04278</link>
-      <description>Sherif Moussa, Ali R. Siamaki, B. Frank Gupton, M. Samy El&#8208;Shall, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402921986
-
-                No abstract</description>
-      <author>Sherif Moussa, Ali R. Siamaki, B. Frank Gupton, M. Samy El&#8208;Shall</author>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04278</guid>
-    </item>
-    <item>
-      <title>Nonmetal Plasmon-Induced Carrier Backflow and Prolonged Lifetime for CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04644</link>
-      <description>Peiyu Hu, Jianjun Zhang, Guijie Liang, Jiaguo Yu, Feiyan Xu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402926732
-
-                No abstract</description>
-      <author>Peiyu Hu, Jianjun Zhang, Guijie Liang, Jiaguo Yu, Feiyan Xu</author>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04644</guid>
-    </item>
-    <item>
-      <title>Converting the 4-Flash Photosynthetic O&lt;sub&gt;2&lt;/sub&gt; Evolution Cycle to a 2-Flash Catalytic Cycle with a Simple Cocatalyst: Counting Electrons and Holes Directly and Transparently</title>
-      <link>https://doi.org/10.1021/acscatal.4c03896</link>
-      <description>Colin Gates, Gennady Ananyev, Shatabdi Roy-Chowdhury, Petra Fromme, G. Charles Dismukes, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402941784
-
-                No abstract</description>
-      <author>Colin Gates, Gennady Ananyev, Shatabdi Roy-Chowdhury, Petra Fromme, G. Charles Dismukes</author>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03896</guid>
-    </item>
     <item>
       <title>Enhancing Oxygen Evolution Reaction via a Surface Reconstruction-Induced Lattice Oxygen Mechanism</title>
       <link>https://doi.org/10.1021/acscatal.4c03594</link>
@@ -198,6 +148,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04135</guid>
     </item>
     <item>
+      <title>Electrostatic Preorganization in Three Distinct Heterogeneous Proteasome &#946;-Subunits</title>
+      <link>https://doi.org/10.1021/acscatal.4c04964</link>
+      <description>S&#305;&#769;lvia Ferrer, Vicent Moliner, Katarzyna &#346;widerek, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403065969
+
+                No abstract</description>
+      <author>S&#305;&#769;lvia Ferrer, Vicent Moliner, Katarzyna &#346;widerek</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04964</guid>
+    </item>
+    <item>
+      <title>Mechanism and Kinetics of Ethanol&#8211;Acetaldehyde Conversion to 1,3-Butadiene over Isolated Lewis Acid La Sites in Silanol Nests in Dealuminated Beta Zeolite</title>
+      <link>https://doi.org/10.1021/acscatal.4c03935</link>
+      <description>Yanfei Zhang, Liang Qi, Yuting Li, Ting-shu Yang, D&#233;bora Motta Meira, Chaochao Dun, Haocheng Hu, Huihui Chen, Shutao Xu, Jeffrey J. Urban, Aaron D. Sadow, Takeshi Kobayashi, Long Qi, Peng Tian, Alexis T. Bell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403067834
+
+                No abstract</description>
+      <author>Yanfei Zhang, Liang Qi, Yuting Li, Ting-shu Yang, D&#233;bora Motta Meira, Chaochao Dun, Haocheng Hu, Huihui Chen, Shutao Xu, Jeffrey J. Urban, Aaron D. Sadow, Takeshi Kobayashi, Long Qi, Peng Tian, Alexis T. Bell</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03935</guid>
+    </item>
+    <item>
       <title>Selective Syntheses of Unsymmetrical Diaryl Sulfides Enabled by a Sulfur Dioxide Surrogate as a Divalent Sulfur Source and an Activating Agent</title>
       <link>https://doi.org/10.1021/acscatal.4c04604</link>
       <description>Hideyuki Konishi, Yohei Aoki, Miyuki Yamaguchi, Kei Manabe, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403079755
@@ -216,6 +186,16 @@
       <author>Christopher J. Lee, Marcus A. Sharp, Benjamin A. Jackson, Mausumi Mahapatra, Simone Raugei, L&#237;ney &#193;rnad&#243;ttir, Mal&#8208;Soon Lee, Bruce D. Kay, Zdenek Dohn&#225;lek</author>
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03582</guid>
+    </item>
+    <item>
+      <title>Unveiling the Synergy between Surface Terminations and Boron Configuration in Boron-Based Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt; MXenes Electrocatalysts for Nitrogen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c03415</link>
+      <description>Ling Meng, Francesc Vi&#241;es, Francesc Illas, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403085318
+
+                No abstract</description>
+      <author>Ling Meng, Francesc Vi&#241;es, Francesc Illas</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03415</guid>
     </item>
     <item>
       <title>Annulation Producing Diverse Heterocycles Promoted by Cobalt Hydride</title>
@@ -246,6 +226,96 @@
       <author>Alexandria Castillo, Kali Rigby, Jae&#8208;Hong Kim, Jorge L. Gardea&#8208;Torresdey, D. Villagr&#225;n</author>
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03635</guid>
+    </item>
+    <item>
+      <title>Integrating Hydrogenated TiO&lt;sub&gt;2&lt;/sub&gt;-Modified Carbon-Supported PtRu Anodes and Fe&#8211;N&#8211;C Cathodes for High-Performance Direct Methanol Fuel Cells</title>
+      <link>https://doi.org/10.1021/acscatal.4c03089</link>
+      <description>Archana Sekar, Yachao Zeng, Sabari Rajendran, Nathaniel Metzger, Xianglin Li, Gang Wu, Jun Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403095966
+
+                No abstract</description>
+      <author>Archana Sekar, Yachao Zeng, Sabari Rajendran, Nathaniel Metzger, Xianglin Li, Gang Wu, Jun Li</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03089</guid>
+    </item>
+    <item>
+      <title>Consecutive Regulation of H* Adsorption Equilibrium via Selenium-Enriched Engineering for Boosted Photocatalytic Hydrogen Evolution</title>
+      <link>https://doi.org/10.1021/acscatal.4c03916</link>
+      <description>Jiachao Xu, Xidong Zhang, Xuefei Wang, Jianjun Zhang, Jiaguo Yu, Huogen Yu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403096171
+
+                No abstract</description>
+      <author>Jiachao Xu, Xidong Zhang, Xuefei Wang, Jianjun Zhang, Jiaguo Yu, Huogen Yu</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03916</guid>
+    </item>
+    <item>
+      <title>Controllable Growing Defects in Cambered Boron Nitride Utilizing a Plane Bending Strategy for Efficient Oxidative Dehydrogenation of Propane</title>
+      <link>https://doi.org/10.1021/acscatal.4c04463</link>
+      <description>Xinping Zhang, Yanan Huang, Wenhua Zhou, Qinlan Luo, Yangqiang Huang, Xiao Luo, Jiayu Dai, Hao Chen, Jianghao Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403099792
+
+                No abstract</description>
+      <author>Xinping Zhang, Yanan Huang, Wenhua Zhou, Qinlan Luo, Yangqiang Huang, Xiao Luo, Jiayu Dai, Hao Chen, Jianghao Wang</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04463</guid>
+    </item>
+    <item>
+      <title>Mechanism of Asymmetric &#8220;Ru&#8211;B&#8221; Double Site Synergy in Breaking C&#8211;C Bonds of Lignin Derivatives in Bio-char</title>
+      <link>https://doi.org/10.1021/acscatal.4c04491</link>
+      <description>Zhiyuan Tang, Qi Zhang, Yishuang Wang, Yuzhen Hu, Longlong Ma, Mingqiang Chen, Xinghua Zhang, Lungang Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403102056
+
+                No abstract</description>
+      <author>Zhiyuan Tang, Qi Zhang, Yishuang Wang, Yuzhen Hu, Longlong Ma, Mingqiang Chen, Xinghua Zhang, Lungang Chen</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04491</guid>
+    </item>
+    <item>
+      <title>Efficient Conversion of CO&lt;sub&gt;2&lt;/sub&gt; and Homopropargylic Amines Promoted by a Stable Noble Metal-Free Cu&lt;sub&gt;2&lt;/sub&gt;O@MOF Heterogeneous Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c05376</link>
+      <description>Zhi&#8208;Lei Wu, Cang-Hua Zhang, LI-YING GUO, Tianding Hu, Yaxin Zhang, Bin Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403105770
+
+                No abstract</description>
+      <author>Zhi&#8208;Lei Wu, Cang-Hua Zhang, LI-YING GUO, Tianding Hu, Yaxin Zhang, Bin Zhao</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05376</guid>
+    </item>
+    <item>
+      <title>Advances in Palladium-Catalyzed C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Functionalization: The Role of Traceless Directing Groups</title>
+      <link>https://doi.org/10.1021/acscatal.4c04801</link>
+      <description>Masoud Sadeghi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403107361
+
+                No abstract</description>
+      <author>Masoud Sadeghi</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04801</guid>
+    </item>
+    <item>
+      <title>Investigation of Ethane Dehydrogenation and Hydrogenolysis on Pt(111), Pt(211), and Pt(100): Bayesian Quantification and Correction of DFT-Based Enthalpic and Entropic Uncertainties</title>
+      <link>https://doi.org/10.1021/acscatal.4c03455</link>
+      <description>Mubarak Bello, Olajide H. Bamidele, Gabriel Terejanu, Andreas Heyden, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403123296
+
+                No abstract</description>
+      <author>Mubarak Bello, Olajide H. Bamidele, Gabriel Terejanu, Andreas Heyden</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03455</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i019_1852106</link>
+      <description>, ACS Catalysis. 14(19)] 2024. https://openalex.org/W4403139929
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i019_1852106</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i019_1852107</link>
+      <description>, ACS Catalysis. 14(19)] 2024. https://openalex.org/W4403140357
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i019_1852107</guid>
     </item>
   </channel>
 </rss>
