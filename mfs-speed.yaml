@@ -1,0 +1,7 @@
+queries:
+- created: [2024-10-06 Sun]
+  description: Papers for MFS-speed
+  filter:
+  - related_to:https://openalex.org/W4319941021
+  - cites:https://openalex.org/W4319941021
+  label: MFS-speed
