@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Oct  6 01:25:39 2024
+Created on Mon Oct  7 01:22:26 2024
 
-Found 73 results from 2024-09-29 to 2024-10-06
+Found 85 results from 2024-09-30 to 2024-10-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -154,6 +154,27 @@ The incorporation of transition‐metal single atoms as molecular functional ent
 
     
 
+* Effect of urban vegetation cover on CO2 reduction in the city  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403140935
+:TOPICS: Global Methane Emissions and Impacts, Applications of Remote Sensing in Geoscience and Agriculture, Estimating Vehicle Fuel Consumption and Emissions
+:PUBLICATION_DATE: 2024-09-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.31705/cers.2024.28")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140935"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140935"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140935"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403140935 (Open access: False)
+    
+[[https://openalex.org/A5107763076][H.K.P. Chanika]], [[https://openalex.org/A5092061121][Nilanka Harshani Weerasinghe]], [[https://openalex.org/A5075098117][R.U. Halwatura]], No host. None(None)] 2024. https://doi.org/10.31705/cers.2024.28 
+     
+Rising urban carbon dioxide levels have emerged as a critical issue due to their adverse effects on public health and the environment. Trees are a natural and sustainable solution to mitigate urban carbon dioxide (CO2) concentrations, as they absorb CO2 from the atmosphere through photosynthesis. However, the specific relationship between tree density and CO2 concentration within cities is unclear. The main objectives of this research are to determine the relationship between tree density and CO2 concentration reduction in cities and to identify the optimum tree density to reduce the CO2 level in the city to obtain the required CO2 level. For this study, data were collected in the densely urbanized city of Colombo and various urban areas within the Hambantota district. Tree densities and CO2 concentration reduction data were collected from 300 sample plots, each with a fixed size of 50m x 50m, near roads in selected urban areas. When calculating tree density, it is important to calculate canopy volumes of trees. It depends on canopy height, crown diameter and canopy shape. The tree density of the sample plot was calculated by dividing the total canopy volume by the area of the sample plot. A digital portable CO2 meter was used to measure the CO2 level. First the CO2 concentration was measured at the centre of the road and then the CO2 concentration was measured at the centre of the sample plot. The reduction in CO2 level was calculated by the difference between these two readings. By analysing tree densities and CO2 concentration data collected through field data studies, a linear relationship was obtained between tree density and CO2 concentration reduction in urban areas. The plotted line got a R2 value of 0.8806 indicating a well-fitting model. Therefore, this linear plotted line can be described as a reasonable fitted line representing all collected data. Also, the data was classified based on the CO2 concentration in the centre of the road and the behaviour of the CO2 concentration reduction Vs tree density relationship was studied in each range. A linear relationship was obtained in each of those ranges. When all the collected data were classified as residential and non-residential based on the usage of the sample plots, the R2 values obtained from those graphs were higher than the R2 value of the graph drawn without classification. The R2 value of the graph for non-residential areas has increased relative to the value of the graph for residential areas. Accordingly, classifying in this manner led to an increase in the accuracy of the relationship. Using these relationships, the optimum tree density required to obtain the required CO2 reduction in urban areas can be identified. The results of this study will be valuable for policymakers and urban planners looking for ways to improve air quality and create more sustainable urban environments.    
+
+    
+
 * Graphene-Based Photocatalysts for CO2 Reduction  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403072741
@@ -193,6 +214,27 @@ OpenAlex: https://openalex.org/W4403005598 (Open access: False)
 [[https://openalex.org/A5102715021][X. N. Li]], [[https://openalex.org/A5045124309][Tianxiang Yan]], [[https://openalex.org/A5001369399][Yichen Meng]], [[https://openalex.org/A5102665350][Zhanpeng Liang]], [[https://openalex.org/A5000657358][Tianying Zhang]], [[https://openalex.org/A5018909513][Haoyuan Chi]], [[https://openalex.org/A5008104343][Ziting Fan]], [[https://openalex.org/A5008657732][Yifan Jin]], [[https://openalex.org/A5101413103][Haoran Zhang]], [[https://openalex.org/A5100394033][Sheng Zhang]], Science China Chemistry. None(None)] 2024. https://doi.org/10.1007/s11426-024-2144-0 
      
 No abstract    
+
+    
+
+* Mechanistic Study of the Electrochemical Reduction of CO2 in Aprotic Ionic Liquid in Air  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403140372
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Catalytic Dehydrogenation of Light Alkanes
+:PUBLICATION_DATE: 2024-10-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202401832")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140372"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140372"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140372"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403140372 (Open access: False)
+    
+[[https://openalex.org/A5085350531][Go Iijima]], [[https://openalex.org/A5037589641][Kazumitsu Sugiura]], [[https://openalex.org/A5088783282][Kazuhiko Morishita]], [[https://openalex.org/A5051420489][Hajime Shingai]], [[https://openalex.org/A5055114575][Junichi Naruse]], [[https://openalex.org/A5101683322][Atsushi Yamamoto]], [[https://openalex.org/A5043263625][Yuki Fujita]], [[https://openalex.org/A5073315241][Hiroaki Yoto]], ChemSusChem. None(None)] 2024. https://doi.org/10.1002/cssc.202401832 
+     
+The capture and electrochemical conversion of dilute CO2 in air is a promising approach to mitigate global warming. Aiming to increase the efficiency of the electrochemical reduction of CO2, we fabricated electrodes and developed a custom‐designed sealed electrochemical reaction system to study the mechanism of this conversion. The performance of three metal electrodes, Ag, Cu, and SUS 316L, was compared in an aprotic ionic liquid as the electrolyte to monitor the CO2 concentration and chemical reactions using a CO2 sensor and diffuse reflectance infrared Fourier transform spectroscopy and Raman spectroscopy in CO2/N2 (400 ppm CO2 and 99.96% N2) or synthetic air (400 ppm CO2, 21% O2, and 79% N2). The CO2 concentration decreased at negative potentials and was more drastic in synthetic air than in CO2/N2. At negative potential in synthetic air, IR revealed carbon monoxide, carbonate, or peroxydicarbonate on the Ag, Cu, or SUS 316L electrodes, respectively. Reaction intermediates were identified using Raman spectroscopy. Superoxide (O2•−), produced by the reduction of O2 on each electrode, promotes the electrochemical reduction of CO2 whose reduction potential is higher on the negative side than that of O2. This research deepens our understanding of the electrochemical capture/release and conversion of dilute CO2.    
 
     
 
@@ -298,6 +340,27 @@ OpenAlex: https://openalex.org/W4403032159 (Open access: True)
 [[https://openalex.org/A5102402335][Yunfang Xu]], [[https://openalex.org/A5105697328][Y. L. Han]], [[https://openalex.org/A5100427812][Lixin Zhang]], AIP Advances. 14(10)] 2024. https://doi.org/10.1063/5.0216818 
      
 It is well accepted that the Cu(100) surface is catalytic active for C–C coupling in CO2 reduction. However, the (100) surface is less active for the preceding CO* formation process and, most importantly, less stable than other surfaces. In this work, we investigate the relationship between catalytic effects and general factors such as coordination number and spacing (strain) of the Cu surface atoms. We find that the former affects the CO* formation only and the latter affects both the CO* formation and the subsequent C–C coupling. Among all the strained surfaces with larger atomic spacing, the more stable Cu(111) surface is extraordinary and outperforms Cu(100) and the high index surfaces for CO2 reduction to C2 on Cu.    
+
+    
+
+* A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403117340
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.161421")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403117340"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403117340"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403117340"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403117340 (Open access: False)
+    
+[[https://openalex.org/A5031624398][Xiaowen Wang]], [[https://openalex.org/A5087000964][Fei Ma]], [[https://openalex.org/A5023261675][Haiqiao Wei]], [[https://openalex.org/A5101942399][Jiaying Pan]], [[https://openalex.org/A5100660669][Wenjia Li]], [[https://openalex.org/A5100530177][Jun Zhao]], [[https://openalex.org/A5002224809][Xiaotao Yang]], Applied Surface Science. None(None)] 2024. https://doi.org/10.1016/j.apsusc.2024.161421 
+     
+No abstract    
 
     
 
@@ -422,6 +485,27 @@ No abstract
 OpenAlex: https://openalex.org/W4403077551 (Open access: True)
     
 [[https://openalex.org/A5014445605][Wuyang Lin]], [[https://openalex.org/A5012436930][Matteo Palma]], [[https://openalex.org/A5076994358][Devis Di Tommaso]], Molecular Catalysis. 569(None)] 2024. https://doi.org/10.1016/j.mcat.2024.114591 
+     
+No abstract    
+
+    
+
+* Fabrication of mesoporous sulfated ZnO-modified g-C3N4 and TiO2 photocatalysts for CO2 reduction in gas phase  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403157643
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cattod.2024.115089")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403157643"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403157643"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403157643"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403157643 (Open access: False)
+    
+[[https://openalex.org/A5039200898][L.A. Al-Hajji]], [[https://openalex.org/A5087857810][Adel A. Ismail]], [[https://openalex.org/A5052431130][M. Alsaidi]], [[https://openalex.org/A5082555423][Ahmed Abdel Nazeer]], [[https://openalex.org/A5053395832][Ahmed Mohamed El‐Toni]], [[https://openalex.org/A5107769307][S.F. Al-Ruwayeh]], [[https://openalex.org/A5103869609][S.A. Ahmed]], [[https://openalex.org/A5107769308][T. Al-Sharrah]], Catalysis Today. None(None)] 2024. https://doi.org/10.1016/j.cattod.2024.115089 
      
 No abstract    
 
@@ -679,6 +763,48 @@ The shift towards economic decarbonization through the reduction of carbon dioxi
 
     
 
+* Impacts of Land Use and Land Cover Changes on Biomass and Carbon Sequestration in Coastal Kinondoni, Tanzania  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403137310
+:TOPICS: Drivers and Impacts of Tropical Deforestation
+:PUBLICATION_DATE: 2024-10-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.9734/ijecc/2024/v14i104498")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403137310"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403137310"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403137310"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403137310 (Open access: True)
+    
+[[https://openalex.org/A5039210884][Luzabeth J. Kitali]], [[https://openalex.org/A5076559339][Adili Y. Zella]], International Journal of Environment and Climate Change. 14(10)] 2024. https://doi.org/10.9734/ijecc/2024/v14i104498 
+     
+This study analyzes the impact of land use and land cover (LULC) alterations on biomass depletion and carbon sequestration in Kinondoni, Tanzania, over a 30-year period from 1993 to 2023. This study employs the National Forest Resources Monitoring and Assessment (NAFORMA) models and geospatial analysis to quantify the environmental and economic effects of urbanization, agricultural growth, and infrastructural development on local ecosystems. The deterioration of mangrove forests, essential for carbon sequestration, has resulted in an estimated biomass reduction of 65,600 tonnes, with mangroves representing 93.1% of the overall losses. This deterioration has markedly diminished the region's carbon storage capacity, leading to the emission of 30,830 tonnes of carbon, which is equivalent to 113,150 tonnes of carbon dioxide (CO₂). The economic impact of this decrease in carbon sequestration capacity is estimated at around US$ 452,610, signifying a lost opportunity for carbon trading. The degradation of mangroves is recognized as the principal cause of these losses. The study highlights the critical necessity for conservation and restoration measures, specifically aimed at mangrove ecosystems, to alleviate additional environmental and economic deterioration. It promotes sustainable land use regulations and the incorporation of ecosystem services valuation in decision-making processes to improve resilience in coastal Tanzania.    
+
+    
+
+* Development of Sustainable Goals Emissions Reduction Value to Measure Climate Change  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403122357
+:TOPICS: Economic Implications of Climate Change Policies, Discrete Choice Models in Economics and Health Care, Measurement and Evaluation of Sustainable Development
+:PUBLICATION_DATE: 2024-10-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4018/979-8-3693-7230-2.ch007")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403122357"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403122357"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403122357"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403122357 (Open access: False)
+    
+[[https://openalex.org/A5107743204][J. Bala Murugan]], [[https://openalex.org/A5107743221][L. Priya Dharsini]], [[https://openalex.org/A5080609977][C. Prabakaran]], [[https://openalex.org/A5076970010][P. S. Ranjit]], [[https://openalex.org/A5069695739][S. Menaka]], [[https://openalex.org/A5016552396][R. Senthamil Selvan]], Practice, progress, and proficiency in sustainability. None(None)] 2024. https://doi.org/10.4018/979-8-3693-7230-2.ch007 
+     
+The Sustainable Development Goals, or SDGs, goal indicators and the steps taken to slow down climate change have trade-offs and synergies. Although some research has evaluated these linkages, nothing is known about how much of an interaction there is. This section illustrates how reducing CO2 emissions relates to the SDGs. They created the “marginal SDG-emissions-reduction values (MSVs),” which show how a unit decrease in CO2 emissions affects certain SDG indicators on a marginal basis. This measure was utilised and may be used for national evaluations. They discovered significant correlations between rates of CO2 emission reduction and several SDG objectives. For example, a 1% reduction in CO2 may save 0.57% of premature deaths linked to air pollution (SDG3), whereas the same CO2 reduction can result in a 0.026% drop in mean species richness (SDG15) (excluding the effects of climate change). Our results help evaluate the implications of CO2 emissions reduction objectives for the SDGs, which will assist in informing national climate strategies.    
+
+    
+
 * Impacts of climate change on phenology, yield, and water productivity of wheat in a semi-arid region of India using the CERES-Wheat model  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403026224
@@ -808,7 +934,7 @@ The last decade has registered a rapid development of new artificial CO2-bioconv
 * A New Approach for Improving Flame Retardancy of Automotive Interior Upholstery  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403074905
-:TOPICS: Flame Retardant Polymer Materials, Fire Safety in Tunnel Fires, Inverse Radiative Heat Transfer Analysis
+:TOPICS: Flame Retardant Polymer Materials, Fire Safety in Tunnel Fires, Recycling Technologies for Carbon Fiber Composites
 :PUBLICATION_DATE: 2024-09-27
 :END:    
     
@@ -847,27 +973,6 @@ The reactivity of nitrogen oxide, NO, as a ligand in complexes with [Fe2-S2] and
 
     
 
-* Photocatalytic CO2 Reduction to CO Catalysed by Lanthanide Complexes  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403005889
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cc03175j")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403005889"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403005889"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403005889"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403005889 (Open access: False)
-    
-[[https://openalex.org/A5013241583][Yingzhe Zhao]], [[https://openalex.org/A5088758006][Jianling Zhang]], [[https://openalex.org/A5101687637][Haoxiang Wang]], [[https://openalex.org/A5087866064][Renjie Zhang]], [[https://openalex.org/A5102689999][Yunan Teng]], [[https://openalex.org/A5100714696][Meiling Li]], [[https://openalex.org/A5055988117][Yi Song]], [[https://openalex.org/A5016948713][Zhonghao Tan]], Chemical Communications. None(None)] 2024. https://doi.org/10.1039/d4cc03175j 
-     
-Here we demonstrate the efficient CO2 reduction to CO catalysed by lanthanide-based complexes under light irradiation, by which the highest CO evolution rate can reach 78±8 μmol g-1 h-1 in...    
-
-    
-
 * Performance Evaluation of CO2 + SiCl4 Binary Mixture in Recompression Brayton Cycle for Warm Climates  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403106930
@@ -886,6 +991,27 @@ OpenAlex: https://openalex.org/W4403106930 (Open access: True)
 [[https://openalex.org/A5030409287][Muhammad Ehtisham Siddiqui]], [[https://openalex.org/A5091854456][Khalid H. Almitani]], Processes. 12(10)] 2024. https://doi.org/10.3390/pr12102155 
      
 This work demonstrates the potential of CO2 + SiCl4 binary mixture as a working fluid for power generation cycle. Recompression Brayton cycle configuration is considered due to its proven record of high performance for medium- to high-temperature sources. The objective of this study is to assess the thermodynamic performance of a recompression Brayton cycle using a CO2 + SiCl4 binary mixture as a working fluid, particularly under warm climate conditions. The cycle is simulated using the Peng–Robinson equation of state in Aspen Hysys (v11) software, and the model is validated by comparing VLE data against experimental data from the literature. The analysis involves the assessment of cycle’s thermal efficiency and exergy efficiency under warm climatic conditions, with a minimum cycle temperature of 40 °C. The results demonstrate a notable improvement in the cycle’s thermodynamic performance with CO2 + SiCl4 binary mixture compared to pure CO2. A small concentration (5%) of SiCl4 in CO2 increases the thermal efficiency of the cycle from 41.7% to 43.4%. Moreover, irreversibility losses in the cooler and the heat recovery unit are significantly lower with the CO2 + SiCl4 binary mixture than with pure CO2. This improvement enhances the overall exergy efficiency of the cycle, increasing it from 62.1% to 70.2%. The primary reason for this enhancement is the substantial reduction in irreversibility losses in both the cooler and the HTR. This study reveals that when using a CO2 + SiCl4 mixture, the concentration must be optimized to avoid condensation in the compressor, which can cause physical damage to the compressor blades and other components, as well as increase power input. This issue arises from the higher glide temperature of the mixture at increased SiCl4 concentrations and the limited heat recovery from the cycle.    
+
+    
+
+* Photocatalytic CO2 Reduction to CO Catalysed by Lanthanide Complexes  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403005889
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cc03175j")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403005889"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403005889"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403005889"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403005889 (Open access: False)
+    
+[[https://openalex.org/A5013241583][Yingzhe Zhao]], [[https://openalex.org/A5088758006][Jianling Zhang]], [[https://openalex.org/A5101687637][Haoxiang Wang]], [[https://openalex.org/A5087866064][Renjie Zhang]], [[https://openalex.org/A5102689999][Yunan Teng]], [[https://openalex.org/A5100714696][Meiling Li]], [[https://openalex.org/A5055988117][Yi Song]], [[https://openalex.org/A5016948713][Zhonghao Tan]], Chemical Communications. None(None)] 2024. https://doi.org/10.1039/d4cc03175j 
+     
+Here we demonstrate the efficient CO2 reduction to CO catalysed by lanthanide-based complexes under light irradiation, by which the highest CO evolution rate can reach 78±8 μmol g-1 h-1 in...    
 
     
 
@@ -1183,6 +1309,27 @@ Single‐atom iron embedded in N‐doped carbon (Fe‐N‐C) is among the most r
 
     
 
+* Towards a Synthetic Positive Energy District (PED) in İstanbul: Balancing Cost, Mobility, and Environmental Impact  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403107776
+:TOPICS: Hydrogen Energy Systems and Technologies, Integration of Renewable Energy Systems in Power Grids, Indoor Air Pollution in Developing Countries
+:PUBLICATION_DATE: 2024-10-03
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/buildings14103153")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403107776"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403107776"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403107776"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403107776 (Open access: True)
+    
+[[https://openalex.org/A5049358939][Mi̇ne Sertsöz]], Buildings. 14(10)] 2024. https://doi.org/10.3390/buildings14103153 
+     
+The influence of mobility modes within Positive Energy Districts (PEDs) has gained limited attention, despite their crucial role in reducing energy consumption and greenhouse gas emissions. Buildings in the European Union (EU) account for 40% of energy consumption and 36% of greenhouse gas emissions. In comparison, transport contributes 28% of energy use and 25% of emissions, with road transport responsible for 72% of these emissions. This study aims to design and optimize a synthetic PED in Istanbul that integrates renewable energy sources and public mobility systems to address these challenges. The renewable energy sources integrated into the synthetic PED model include solar energy, hydrogen energy, and regenerative braking energy from a tram system. Solar panels provided a substantial portion of the energy, while hydrogen energy contributed to additional electricity generation. Regenerative braking energy from the tram system was also utilized to further optimize energy production within the district. This system powers a middle school, 10 houses, a supermarket, and the tram itself. Optimization techniques, including Linear Programming (LP) for economic purposes and the Weighted Sum Method (WSM) for environmental goals, were applied to balance cost and CO2 emissions. The LP method identified that the PED model can achieve cost competitiveness with conventional energy grids when hydrogen costs are below $93.16/MWh. Meanwhile, the WSM approach demonstrated that achieving a minimal CO2 emission level of 5.74 tons requires hydrogen costs to be $32.55/MWh or lower. Compared to a conventional grid producing 97 tons of CO2 annually, the PED model achieved reductions of up to 91.26 tons. This study contributes to the ongoing discourse on sustainable urban energy systems by addressing key research gaps related to the integration of mobility modes within PEDs and offering insights into the optimization of renewable energy sources for reducing emissions and energy consumption.    
+
+    
+
 * Renewable Energy Credits Transforming Market Dynamics  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403101705
@@ -1201,6 +1348,27 @@ OpenAlex: https://openalex.org/W4403101705 (Open access: True)
 [[https://openalex.org/A5004894444][Bankole I. Oladapo]], [[https://openalex.org/A5084529772][Mattew A. Olawumi]], [[https://openalex.org/A5003790244][Francis T. Omigbodun]], Sustainability. 16(19)] 2024. https://doi.org/10.3390/su16198602 
      
 This research uses advanced statistical methods to examine climate change mitigation policies’ economic and environmental impacts. The primary objective is to assess the effectiveness of carbon pricing, renewable energy subsidies, emission trading schemes, and regulatory standards in reducing CO2 emissions, fostering economic growth, and promoting employment. A mixed-methods approach was employed, combining regression analysis, cost–benefit analysis (CBA), and computable general equilibrium (CGE) models. Data were collected from national and global databases, and sensitivity analyses were conducted to ensure the robustness of the findings. Key findings revealed a statistically significant reduction in CO2 emissions by 0.45% for each unit increase in carbon pricing (p < 0.01). Renewable energy subsidies were positively correlated with a 3.5% increase in employment in the green sector (p < 0.05). Emission trading schemes were projected to increase GDP by 1.2% over a decade (p < 0.05). However, chi-square tests indicated that carbon pricing disproportionately affects low-income households (p < 0.05), highlighting the need for compensatory policies. The study concluded that a balanced policy mix, tailored to national contexts, can optimise economic and environmental outcomes while addressing social equity concerns. Error margins in GDP projections remained below ±0.3%, confirming the models’ reliability.    
+
+    
+
+* Ionomer and Membrane Designs for Low‐Temperature CO2 and CO Electrolysis  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403146014
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Fuel Cell Membrane Technology, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-10-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202401728")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403146014"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403146014"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403146014"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403146014 (Open access: False)
+    
+[[https://openalex.org/A5030347659][Huihua Deng]], [[https://openalex.org/A5100345056][Zhuo Chen]], [[https://openalex.org/A5100322864][Li Wang]], ChemSusChem. None(None)] 2024. https://doi.org/10.1002/cssc.202401728 
+     
+Low‐temperature electroreduction of CO2 and CO (CO(2)RR) into valuable chemicals and fuels offers a promising pathway to reduce greenhouse gas emissions and achieve carbon neutrality. Today's low‐temperature CO(2)RR technology relies on the use of ionomers, polymers with ionized groups, primarily as catalyst layer (CL) additives. In the meantime, ionomers can assemble into ion‐exchange membranes (IEMs), serving as important components of electrolyzers. According to the ion‐exchange functions, ionomer additives are classified as cation‐exchange ionomers (CEIs) and anion‐exchange ionomers (AEIs); similarly, IEMs are divided into cation‐exchange membranes (CEMs) and anion‐exchange membranes (AEMs), as well as the multilayer polymer electrolytes (MPEs). Recent studies show that ionomer additives can regulate the catalytic microenvironment and thereby enhance performance towards desired products. This Review discusses the roles of ionomer additives and IEMs in CO2 and CO reduction reactions, highlighting the latest mechanistic insights and performance advances. It outlines challenges in designing ionomer additives and IEMs to improve product selectivity, energy efficiency (EE), and operational lifetime of CO(2)RR electrolyzers, while also providing perspectives on future research directions. The aim is to connect the current status of ionomer and membrane development with performance metrics analysis, offering insights for the advancement of commercially relevant low‐temperature CO(2)RR electrolyzers.    
 
     
 
@@ -1243,6 +1411,27 @@ OpenAlex: https://openalex.org/W4402994082 (Open access: True)
 [[https://openalex.org/A5084924196][Yuemin Liu]], [[https://openalex.org/A5008618886][Yunxiang Gao]], [[https://openalex.org/A5001151503][Tariq Altalhi]], [[https://openalex.org/A5017861528][Di‐Jia Liu]], [[https://openalex.org/A5003665485][Boris I. Yakobson]], Nanomaterials. 14(19)] 2024. https://doi.org/10.3390/nano14191576 
      
 Among C60’s diverse functionalities, its potential application in CO2 sequestration has gained increasing interest. However, the processes involved are sensitive to the molecule’s electronic structure, aspects of which remain debated and require greater precision. To address this, we performed structural optimization of fullerene C60 using the QM MP2/6–31G* method. The nonplanarity of the optimized icosahedron is characterized by two types of dihedral angles: 138° and 143°. The 120 dihedrals of 138° occur between two hexagons intersecting at C–C bonds of 1.42 Å, while the 60 dihedrals of 143° are observed between hexagons and pentagons at C–C bonds of 1.47 Å. NBO analysis reveals less pyramidal sp1.78 hybridization for carbons at the 1.42 Å bonds and more pyramidal sp2.13 hybridization for the 1.47 Å bonds. Electrostatic potential charges range from −0.04 a.u. to 0.04 a.u. on the carbon atoms. Second-order perturbation analysis indicates that delocalization interactions in the C–C bonds of 1.42 Å (143.70 kcal/mol) and 1.47 Å (34.98 kcal/mol) are 22% and 38% higher, respectively, than those in benzene. MP2/Def2SVP calculations yield a correlation energy of 13.49 kcal/mol per electron for C60, slightly higher than the 11.68 kcal/mol for benzene. However, the results from HOMO-LUMO calculations should be interpreted with caution. This study may assist in the rational design of fullerene C60 derivatives for CO2 reduction systems.    
+
+    
+
+* The Impact of Hydrogen on Flame Characteristics and Pollutant Emissions in Natural Gas Industrial Combustion Systems  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403140808
+:TOPICS: Chemical Kinetics of Combustion Processes, Global Impact of Gas Flaring, Estimating Vehicle Fuel Consumption and Emissions
+:PUBLICATION_DATE: 2024-10-03
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/en17194959")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140808"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140808"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140808"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403140808 (Open access: True)
+    
+[[https://openalex.org/A5082256677][Yamei Lan]], [[https://openalex.org/A5100322864][Li Wang]], [[https://openalex.org/A5013851053][Jingxiang Xu]], [[https://openalex.org/A5103075380][Yi Wang]], Energies. 17(19)] 2024. https://doi.org/10.3390/en17194959 
+     
+To improve energy savings and emission reduction in industrial heating furnaces, this study investigated the impact of various molar fractions of hydrogen on natural gas combustion and compared the results of the Non-Premixed Combustion Model with the Eddy Dissipation Combustion Model. Initially, natural gas combustion in an industrial heating furnace was investigated experimentally, and these results were used as boundary conditions for CFD simulations. The diffusion flame and combustion characteristics of natural gas were simulated using both the non-premixed combustion model and the Eddy Dissipation Combustion Model. The results indicated that the Non-Premixed Combustion Model provided simulations more consistent with experimental data, within acceptable error margins, thus validating the accuracy of the numerical simulations. Additionally, to analyze the impact of hydrogen doping on the performance of an industrial gas heater, four gas mixtures with varying hydrogen contents (15% H2, 30% H2, 45% H2, and 60% H2) were studied while maintaining constant fuel inlet temperature and flow rate. The results demonstrate that the Non-Premixed Combustion Model more accurately simulates complex flue gas flow and chemical reactions during combustion. Moreover, hydrogen-doped natural gas significantly reduces CO and CO2 emissions compared to pure natural gas combustion. Specifically, at 60% hydrogen content, CO and CO2 levels decrease by 70% and 37.5%, respectively, while NO emissions increase proportionally; at this hydrogen content, NO concentration in the furnace chamber rises by 155%.    
 
     
 
@@ -1372,6 +1561,27 @@ One of the primary global objectives is to decrease building energy consumption 
 
     
 
+* Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403140466
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Content-Centric Networking for Information Delivery
+:PUBLICATION_DATE: 2024-10-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202416878")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140466"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140466"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140466"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403140466 (Open access: False)
+    
+[[https://openalex.org/A5001070807][Ziming Su]], [[https://openalex.org/A5100340517][Xiangyu Chen]], [[https://openalex.org/A5104180415][Mingke Sun]], [[https://openalex.org/A5058342388][Xiuyi Yang]], [[https://openalex.org/A5100447386][Jianxin Kang]], [[https://openalex.org/A5058443202][Zhi Cai]], [[https://openalex.org/A5100629806][Xiaotian Wang]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202416878 
+     
+One‐dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard‐soft acids‐bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure‐regulating agent and morphology‐directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu‐SR bond. Due to the combined advantages of amorphous structure and one‐dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu‐based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.    
+
+    
+
 * Extended emission footprint analysis of dispatchable gas-based power generation technologies with exhaust aftertreatment technologies  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403007972
@@ -1390,6 +1600,27 @@ OpenAlex: https://openalex.org/W4403007972 (Open access: False)
 [[https://openalex.org/A5044884645][Christian Goßrau]], [[https://openalex.org/A5023839322][Nils Holger Petersen]], [[https://openalex.org/A5003572868][L. de la Cruz-May]], [[https://openalex.org/A5005350540][Manfred Wirsum]], [[https://openalex.org/A5107672289][Alexander Lampkowski]], [[https://openalex.org/A5014925020][Ariel Schönberger Alvarez]], [[https://openalex.org/A5076463194][J. Classen]], [[https://openalex.org/A5042106002][Stefan Pischinger]], Proceedings. None(None)] 2024. https://doi.org/10.33737/gpps24-tc-088 
      
 The mitigation of climate change poses severe pressure on the rapid replacement of conventional power generation technologies by renewables. Due to the inherent volatility of renewable power generation technologies, dispatchable power generation units, such as gas turbines (GT) and gas-based reciprocating internal combustion engines (RICE), must be operated to maintain grid stability. While RICE are equipped with exhaust aftertreatment (EAT) technologies as standard to meet regulatory emission limits, this may also become important for GT in the near future. The present study therefore investigates the influence of EAT on emissions, taking into account oxidation catalysts (OC) and selective catalytic reduction (SCR) catalysts. Single-cycle power plant configurations for both technologies are studied under different operation scenarios, with emphasis on start-ups and partial load operation. Emissions are assessed as “generated mass per electrical output” (g=kWhel), considering both greenhouse gases and local pollutants. To holistically assess the environmental footprint, emissions are converted into impact categories such as Global Warming Potential (GWP), Respiratory Inorganics (RI), Photochemical Ozone Formation (POF) and Human Toxicity Potential (HTP). The increasing variability of operation demands of gas-based power generation technologies leads to a significant increase of emissions and environmental impact without EAT, highlighting the overall need for EAT systems to meet regulatory limits in the future. Both technologies show a significant reduction in the environmental impact factors (RI: > 46 %, POF: > 87 %, HTP: > 86 %) with EAT deployment in all load profile scenarios. With CO2 largely unaffected by EAT, RICE has a lower GWP100 than GT for all load scenarios (-2.6 to -11.4 %) because of the higher average plant efficiency. Due to their modularity, RICE plants can be operated over most of the plant load range without excessive emissions, whereas GT plants are limited to operation above 30 %.    
+
+    
+
+* Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403141185
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Reduction of Nitro Compounds, Photocatalytic Materials for Solar Energy Conversion
+:PUBLICATION_DATE: 2024-10-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202416878")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403141185"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403141185"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403141185"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403141185 (Open access: False)
+    
+[[https://openalex.org/A5001070807][Ziming Su]], [[https://openalex.org/A5035573035][Xiang‐Yu Chen]], [[https://openalex.org/A5104180415][Mingke Sun]], [[https://openalex.org/A5058342388][Xiuyi Yang]], [[https://openalex.org/A5100447380][Jianxin Kang]], [[https://openalex.org/A5075989623][Zhi Cai]], [[https://openalex.org/A5102772793][Lin Guo]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202416878 
+     
+One‐dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard‐soft acids‐bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure‐regulating agent and morphology‐directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu‐SR bond. Due to the combined advantages of amorphous structure and one‐dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu‐based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.    
 
     
 
@@ -1453,6 +1684,27 @@ OpenAlex: https://openalex.org/W4403048859 (Open access: False)
 [[https://openalex.org/A5093369284][A M Yagoot]], [[https://openalex.org/A5041872360][Hassan A. Khalil]], [[https://openalex.org/A5101760929][Mohammed A. Alharbi]], [[https://openalex.org/A5096913865][G. Almalayo]], [[https://openalex.org/A5018917563][Anwar Borai]], Clinical Chemistry. 70(Supplement_1)] 2024. https://doi.org/10.1093/clinchem/hvae106.395 
      
 Abstract Background A comprehensive Quality Management System starts with performing a daily Quality Control (Q.C.) process. The daily Q.C. process monitors the Instrument’s optimal performance and detects shifts and trends. However, the existing traditional daily Q.C. process is not only prone to manual errors, but also time consuming, costly and labor intensive. We evaluated a Bio-Rad InteliQTM Load and go Quality Control that comes in a barcoded tube ready to be loaded. We monitored the workflow efficiency gained in comparison to the traditional quality control material that comes in glass vials. Methods We evaluated the new quality control material ready to load on the instrument. This new Q.C. (Bio-Rad InteliQ Assayed Multiqual Control - 3 levels) were processed in parallel with our routine Q.C. (Bio-Rad Assayed Chemistry Lyphocheck vials - 2 levels). We performed the evaluation on Abbott Architect c8000 Chemistry analyzers in our central Laboratory (NGHA-Jeddah). The Q.C. was stored frozen. Before testing it was thawed at room temperature as per the insert instruction. Over a 5 days period, in parallel with our routine quality control, we run the new Q.C. Two times per day for 33 analytes. We monitored the processing time difference between the new and current approaches. We monitored the stability of all the analytes in the tube after Two days and again after Five days. We also monitored the cost effectiveness, labor intensiveness, probability of operator error and the overall improvement in workflow and Turn Around Time. Results Over the evaluation period, we observed the following: - Saving 40 minutes in average per week only for chemistry Q.C (time spent in reconstituting, mixing and aliquoting old Q.C) - 100% reduction in waste of plastic consumables such as pipette and plastic tubes. - Save an average of 1.0 ml dead volume in every 5.0 ml old Q.C. vial (20% of the volume, hence saving 20% of the total Q.C. cost). The dead volume wasted due to aliquoting step using the old Q.C. - 100% Eliminated delays caused by operator error such as wrong reconstitution, inadequate mixing and wrong Q.C. aliquoting. Not needed for the InteliQ. - High score of staff satisfaction. - Stability of the 32 analytes was excellent except that of Co2, which deteriorated by 14% after Two days as indicated in the insert package. Co2 day five result deteriorated by 34%. Conclusions Bio-Rad InteliQ is easy to use. It saves time and cost. When combined with Unity Q.C. data management solution it can streamline Q.C. workflow, eliminate operator errors, reduce T.A.T. and increase the overall laboratory performance. It may also work optimally with Instruments that have on-board fridge for Q.C.    
+
+    
+
+* 12201 Ketogenic-diet As A Trigger Of First Episode Diabetic Ketoacidosis In A Woman Living With Type 1 Diabetes Mellitus  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403153887
+:TOPICS: Effects of Ketogenic Diet on Health, Brown Adipose Tissue Function and Physiology, Genetics and Pathogenesis of Type 1 Diabetes
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1210/jendso/bvae163.826")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403153887"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403153887"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403153887"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403153887 (Open access: True)
+    
+[[https://openalex.org/A5060989480][Margarida Cruz]], [[https://openalex.org/A5022612153][Alex N Gonzalez Bossolo]], [[https://openalex.org/A5030452799][Gabriel Jose Mora Osoria]], Journal of the Endocrine Society. 8(Supplement_1)] 2024. https://doi.org/10.1210/jendso/bvae163.826 
+     
+Abstract Disclosure: M.E. Chacon Cruz: None. A.N. Gonzalez Bossolo: None. G.J. Mora Osoria: None. A number of dietary patterns have been proposed as an effective method for weight reduction. A keto diet is a strict low-carbohydrate and high-fat diet. The reduction in carbohydrates enables the body to rely on fat as a predominant energy source leading to a state of ketosis. However, a serious but rare complication of the ketogenic diet is ketoacidosis associated with low carbohydrate intake, which should be cautiously monitored in people with a predisposition to the condition, such patient with diabetes mellitus type 1. We report the case of a female patient living with type 1 diabetes mellitus female who developed her first episodes of diabetic ketoacidosis (DKA) as the following the course of ketogenic diet. A 53 y/o Female patient with past medical history diabetes mellitus type 1 and pernicious anemia went emergency department complaining pelvic pain associated with weakness, nausea and vomiting for about 1 day of evolution. Patient also refers that during the past 2 weeks she has been doing a detox and taking some herbal and tea. Other physical examinations were unremarkable except for moderate dehydration. The initial testing revealed patients meet criteria for severe diabetes ketoacidosis (DKA) with a pH: 7.04, CO2 15, serum central bicarbonate in 6 mmol/L and elevated blood glucose in 504 mg/dl and positive urine and serum ketones, C-Peptide less than 0.02 ng/ml. and glycosylated hemoglobin in 8.25%. She was admitted to the intensive care unit and treated with intravenous saline, intravenous insulin infusion, and electrolyte repletion. Blood glucose levels and metabolic acidosis improved. After DKA resolved patient refers that week started with Keto-diet and was restricting carbohydrates. Patient was discharge home with multiple injection insulin and followed by Endocrinologist services in the external clinic for a follow up. This case illustrates the challenges and the importance of dietary history providing clues to the diagnosis. If we had never asked her about her diet, we would not have found the reason that brought her to the DKA. This case demonstrates the development of DKA following ketogenic diet in a patient with type 1 diabetes. It is important for physicians to be aware of this rare potential complication of ketogenic diet which is infrequently reported in literature. Therefore, physicians should be cognizant of the complications and risks, and benefits of the ketogenic diet. Risks and benefits of the ketogenic diet should be discussed with patients before initiation of this diet. The patient was followed in an outpatient clinic with Endocrinologist service for evaluation for an insulin pump. Presentation: 6/1/2024    
 
     
 

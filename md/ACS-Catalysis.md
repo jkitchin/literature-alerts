@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Oct  6 01:25:41 2024
+Created on Mon Oct  7 01:22:28 2024
 
-Found 31 results from 2024-09-29 to 2024-10-06
+Found 35 results from 2024-09-30 to 2024-10-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -314,6 +314,17 @@ No abstract
 
     
 
+## Asymmetric Hydrogenation of Naphthalenes with Molybdenum Catalysts: Ligand Design Improves Chemoselectivity   
+
+OpenAlex: https://openalex.org/W4403122253    
+Open access: False
+    
+[Priyanka Gupta](https://openalex.org/A5084336122), [Gabriele Hierlmeier](https://openalex.org/A5024024488), [Carina Baete](https://openalex.org/A5107743173), [Matthew V. Pecoraro](https://openalex.org/A5084018341), [Paolo Tosatti](https://openalex.org/A5038528916), [Kurt Puentener](https://openalex.org/A5047117069), [Paul J. Chirik](https://openalex.org/A5087910041), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04620.
+    
+No abstract    
+
+    
+
 ## Investigation of Ethane Dehydrogenation and Hydrogenolysis on Pt(111), Pt(211), and Pt(100): Bayesian Quantification and Correction of DFT-Based Enthalpic and Entropic Uncertainties   
 
 OpenAlex: https://openalex.org/W4403123296    
@@ -342,6 +353,39 @@ OpenAlex: https://openalex.org/W4403140357
 Open access: False
     
 , ACS Catalysis. 14(19)] 2024.https://doi.org/10.1021/csv014i019_1852107.
+    
+No abstract    
+
+    
+
+## CGC-Scandium-Mediated Copolymerization of Ethylene with Amine-Functionalized Cyclic Olefins   
+
+OpenAlex: https://openalex.org/W4403147082    
+Open access: False
+    
+[Shuqi Dong](https://openalex.org/A5059736858), [Ling Cai](https://openalex.org/A5101142958), [Zhaoxue Han](https://openalex.org/A5043496191), [Bo Liu](https://openalex.org/A5040881117), [Dongmei Cui](https://openalex.org/A5047110002), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05343.
+    
+No abstract    
+
+    
+
+## Selective Electroreduction of CO2 to Ethanol via Cobalt–Copper Tandem Catalysts   
+
+OpenAlex: https://openalex.org/W4403147101    
+Open access: False
+    
+[Soressa Abera Chala](https://openalex.org/A5055513670), [Rongji Liu](https://openalex.org/A5089443613), [Ekemena O. Oseghe](https://openalex.org/A5002238224), [Simon T. Clausing](https://openalex.org/A5015893436), [Christopher J. Kampf](https://openalex.org/A5088849372), [Joachim Bansmann](https://openalex.org/A5086773329), [Adam H. Clark](https://openalex.org/A5015698882), [Yazhou Zhou](https://openalex.org/A5031969759), [Ingo Lieberwirth](https://openalex.org/A5086925656), [Johannes Biskupek](https://openalex.org/A5002418054), [Ute Kaiser](https://openalex.org/A5017684207), [Carsten Streb](https://openalex.org/A5080329256), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05286.
+    
+No abstract    
+
+    
+
+## Integrated CO2 Capture and Utilization: Selection, Matching, and Interactions between Adsorption and Catalytic Sites   
+
+OpenAlex: https://openalex.org/W4403155268    
+Open access: True
+    
+[Hongman Sun](https://openalex.org/A5004667543), [Shuzhuang Sun](https://openalex.org/A5005001820), [Xiaoteng Liu](https://openalex.org/A5057337284), [Jingbin Zeng](https://openalex.org/A5026305878), [Youhe Wang](https://openalex.org/A5089942938), [Zifeng Yan](https://openalex.org/A5100456337), [Chunfei Wu](https://openalex.org/A5032589855), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03861.
     
 No abstract    
 

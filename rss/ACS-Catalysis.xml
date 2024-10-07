@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Oct 2024 01:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 01:22:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -288,6 +288,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04801</guid>
     </item>
     <item>
+      <title>Asymmetric Hydrogenation of Naphthalenes with Molybdenum Catalysts: Ligand Design Improves Chemoselectivity</title>
+      <link>https://doi.org/10.1021/acscatal.4c04620</link>
+      <description>Priyanka Gupta, Gabriele Hierlmeier, Carina Baete, Matthew V. Pecoraro, Paolo Tosatti, Kurt Puentener, Paul J. Chirik, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403122253
+
+                No abstract</description>
+      <author>Priyanka Gupta, Gabriele Hierlmeier, Carina Baete, Matthew V. Pecoraro, Paolo Tosatti, Kurt Puentener, Paul J. Chirik</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04620</guid>
+    </item>
+    <item>
       <title>Investigation of Ethane Dehydrogenation and Hydrogenolysis on Pt(111), Pt(211), and Pt(100): Bayesian Quantification and Correction of DFT-Based Enthalpic and Entropic Uncertainties</title>
       <link>https://doi.org/10.1021/acscatal.4c03455</link>
       <description>Mubarak Bello, Olajide H. Bamidele, Gabriel Terejanu, Andreas Heyden, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403123296
@@ -316,6 +326,36 @@
       <author/>
       <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i019_1852107</guid>
+    </item>
+    <item>
+      <title>CGC-Scandium-Mediated Copolymerization of Ethylene with Amine-Functionalized Cyclic Olefins</title>
+      <link>https://doi.org/10.1021/acscatal.4c05343</link>
+      <description>Shuqi Dong, Ling Cai, Zhaoxue Han, Bo Liu, Dongmei Cui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403147082
+
+                No abstract</description>
+      <author>Shuqi Dong, Ling Cai, Zhaoxue Han, Bo Liu, Dongmei Cui</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05343</guid>
+    </item>
+    <item>
+      <title>Selective Electroreduction of CO&lt;sub&gt;2&lt;/sub&gt; to Ethanol via Cobalt&#8211;Copper Tandem Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c05286</link>
+      <description>Soressa Abera Chala, Rongji Liu, Ekemena O. Oseghe, Simon T. Clausing, Christopher J. Kampf, Joachim Bansmann, Adam H. Clark, Yazhou Zhou, Ingo Lieberwirth, Johannes Biskupek, Ute Kaiser, Carsten Streb, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403147101
+
+                No abstract</description>
+      <author>Soressa Abera Chala, Rongji Liu, Ekemena O. Oseghe, Simon T. Clausing, Christopher J. Kampf, Joachim Bansmann, Adam H. Clark, Yazhou Zhou, Ingo Lieberwirth, Johannes Biskupek, Ute Kaiser, Carsten Streb</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05286</guid>
+    </item>
+    <item>
+      <title>Integrated CO&lt;sub&gt;2&lt;/sub&gt; Capture and Utilization: Selection, Matching, and Interactions between Adsorption and Catalytic Sites</title>
+      <link>https://doi.org/10.1021/acscatal.4c03861</link>
+      <description>Hongman Sun, Shuzhuang Sun, Xiaoteng Liu, Jingbin Zeng, Youhe Wang, Zifeng Yan, Chunfei Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403155268
+
+                No abstract</description>
+      <author>Hongman Sun, Shuzhuang Sun, Xiaoteng Liu, Jingbin Zeng, Youhe Wang, Zifeng Yan, Chunfei Wu</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03861</guid>
     </item>
   </channel>
 </rss>

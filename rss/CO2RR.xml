@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Oct 2024 01:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 01:22:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -78,6 +78,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202418269</guid>
     </item>
     <item>
+      <title>Effect of urban vegetation cover on CO2 reduction in the city</title>
+      <link>https://doi.org/10.31705/cers.2024.28</link>
+      <description>H.K.P. Chanika, Nilanka Harshani Weerasinghe, R.U. Halwatura, No host. None(None)] 2024. https://openalex.org/W4403140935
+
+                Rising urban carbon dioxide levels have emerged as a critical issue due to their adverse effects on public health and the environment. Trees are a natural and sustainable solution to mitigate urban carbon dioxide (CO2) concentrations, as they absorb CO2 from the atmosphere through photosynthesis. However, the specific relationship between tree density and CO2 concentration within cities is unclear. The main objectives of this research are to determine the relationship between tree density and CO2 concentration reduction in cities and to identify the optimum tree density to reduce the CO2 level in the city to obtain the required CO2 level. For this study, data were collected in the densely urbanized city of Colombo and various urban areas within the Hambantota district. Tree densities and CO2 concentration reduction data were collected from 300 sample plots, each with a fixed size of 50m x 50m, near roads in selected urban areas. When calculating tree density, it is important to calculate canopy volumes of trees. It depends on canopy height, crown diameter and canopy shape. The tree density of the sample plot was calculated by dividing the total canopy volume by the area of the sample plot. A digital portable CO2 meter was used to measure the CO2 level. First the CO2 concentration was measured at the centre of the road and then the CO2 concentration was measured at the centre of the sample plot. The reduction in CO2 level was calculated by the difference between these two readings. By analysing tree densities and CO2 concentration data collected through field data studies, a linear relationship was obtained between tree density and CO2 concentration reduction in urban areas. The plotted line got a R2 value of 0.8806 indicating a well-fitting model. Therefore, this linear plotted line can be described as a reasonable fitted line representing all collected data. Also, the data was classified based on the CO2 concentration in the centre of the road and the behaviour of the CO2 concentration reduction Vs tree density relationship was studied in each range. A linear relationship was obtained in each of those ranges. When all the collected data were classified as residential and non-residential based on the usage of the sample plots, the R2 values obtained from those graphs were higher than the R2 value of the graph drawn without classification. The R2 value of the graph for non-residential areas has increased relative to the value of the graph for residential areas. Accordingly, classifying in this manner led to an increase in the accuracy of the relationship. Using these relationships, the optimum tree density required to obtain the required CO2 reduction in urban areas can be identified. The results of this study will be valuable for policymakers and urban planners looking for ways to improve air quality and create more sustainable urban environments.</description>
+      <author>H.K.P. Chanika, Nilanka Harshani Weerasinghe, R.U. Halwatura</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31705/cers.2024.28</guid>
+    </item>
+    <item>
       <title>Graphene-Based Photocatalysts for CO2 Reduction</title>
       <link>https://doi.org/10.1007/978-3-031-66260-7_29</link>
       <description>Jos&#233; M. Barrera&#8208;Andrade, Elim Albiter, Miguel A. Valenzuela, E. Rojas Garc&#237;a, Advanced structured materials. None(None)] 2024. https://openalex.org/W4403072741
@@ -96,6 +106,16 @@
       <author>X. N. Li, Tianxiang Yan, Yichen Meng, Zhanpeng Liang, Tianying Zhang, Haoyuan Chi, Ziting Fan, Yifan Jin, Haoran Zhang, Sheng Zhang</author>
       <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11426-024-2144-0</guid>
+    </item>
+    <item>
+      <title>Mechanistic Study of the Electrochemical Reduction of CO2 in Aprotic Ionic Liquid in Air</title>
+      <link>https://doi.org/10.1002/cssc.202401832</link>
+      <description>Go Iijima, Kazumitsu Sugiura, Kazuhiko Morishita, Hajime Shingai, Junichi Naruse, Atsushi Yamamoto, Yuki Fujita, Hiroaki Yoto, ChemSusChem. None(None)] 2024. https://openalex.org/W4403140372
+
+                The capture and electrochemical conversion of dilute CO2 in air is a promising approach to mitigate global warming. Aiming to increase the efficiency of the electrochemical reduction of CO2, we fabricated electrodes and developed a custom&#8208;designed sealed electrochemical reaction system to study the mechanism of this conversion. The performance of three metal electrodes, Ag, Cu, and SUS 316L, was compared in an aprotic ionic liquid as the electrolyte to monitor the CO2 concentration and chemical reactions using a CO2 sensor and diffuse reflectance infrared Fourier transform spectroscopy and Raman spectroscopy in CO2/N2 (400 ppm CO2 and 99.96% N2) or synthetic air (400 ppm CO2, 21% O2, and 79% N2). The CO2 concentration decreased at negative potentials and was more drastic in synthetic air than in CO2/N2. At negative potential in synthetic air, IR revealed carbon monoxide, carbonate, or peroxydicarbonate on the Ag, Cu, or SUS 316L electrodes, respectively. Reaction intermediates were identified using Raman spectroscopy. Superoxide (O2&#8226;&#8722;), produced by the reduction of O2 on each electrode, promotes the electrochemical reduction of CO2 whose reduction potential is higher on the negative side than that of O2. This research deepens our understanding of the electrochemical capture/release and conversion of dilute CO2.</description>
+      <author>Go Iijima, Kazumitsu Sugiura, Kazuhiko Morishita, Hajime Shingai, Junichi Naruse, Atsushi Yamamoto, Yuki Fujita, Hiroaki Yoto</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401832</guid>
     </item>
     <item>
       <title>Cu-Modified Nb2o5 Photocatalysts for High Performance of Co2 Reduction</title>
@@ -146,6 +166,16 @@
       <author>Yunfang Xu, Y. L. Han, Lixin Zhang</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0216818</guid>
+    </item>
+    <item>
+      <title>A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.161421</link>
+      <description>Xiaowen Wang, Fei Ma, Haiqiao Wei, Jiaying Pan, Wenjia Li, Jun Zhao, Xiaotao Yang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4403117340
+
+                No abstract</description>
+      <author>Xiaowen Wang, Fei Ma, Haiqiao Wei, Jiaying Pan, Wenjia Li, Jun Zhao, Xiaotao Yang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161421</guid>
     </item>
     <item>
       <title>Precise Synthesis of Dual&#8208;single&#8208;atom Electrocatalysts through Pre&#8208;coordination&#8208;directed in situ Confinement for CO2 Reduction</title>
@@ -206,6 +236,16 @@
       <author>Wuyang Lin, Matteo Palma, Devis Di Tommaso</author>
       <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114591</guid>
+    </item>
+    <item>
+      <title>Fabrication of mesoporous sulfated ZnO-modified g-C3N4 and TiO2 photocatalysts for CO2 reduction in gas phase</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.115089</link>
+      <description>L.A. Al-Hajji, Adel A. Ismail, M. Alsaidi, Ahmed Abdel Nazeer, Ahmed Mohamed El&#8208;Toni, S.F. Al-Ruwayeh, S.A. Ahmed, T. Al-Sharrah, Catalysis Today. None(None)] 2024. https://openalex.org/W4403157643
+
+                No abstract</description>
+      <author>L.A. Al-Hajji, Adel A. Ismail, M. Alsaidi, Ahmed Abdel Nazeer, Ahmed Mohamed El&#8208;Toni, S.F. Al-Ruwayeh, S.A. Ahmed, T. Al-Sharrah</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115089</guid>
     </item>
     <item>
       <title>Rare-earth metal neodymium anchored into graphene as a promising CO2 reduction electrocatalyst by regulating the coordination environment</title>
@@ -328,6 +368,26 @@
       <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202457405007</guid>
     </item>
     <item>
+      <title>Impacts of Land Use and Land Cover Changes on Biomass and Carbon Sequestration in Coastal Kinondoni, Tanzania</title>
+      <link>https://doi.org/10.9734/ijecc/2024/v14i104498</link>
+      <description>Luzabeth J. Kitali, Adili Y. Zella, International Journal of Environment and Climate Change. 14(10)] 2024. https://openalex.org/W4403137310
+
+                This study analyzes the impact of land use and land cover (LULC) alterations on biomass depletion and carbon sequestration in Kinondoni, Tanzania, over a 30-year period from 1993 to 2023. This study employs the National Forest Resources Monitoring and Assessment (NAFORMA) models and geospatial analysis to quantify the environmental and economic effects of urbanization, agricultural growth, and infrastructural development on local ecosystems. The deterioration of mangrove forests, essential for carbon sequestration, has resulted in an estimated biomass reduction of 65,600 tonnes, with mangroves representing 93.1% of the overall losses. This deterioration has markedly diminished the region's carbon storage capacity, leading to the emission of 30,830 tonnes of carbon, which is equivalent to 113,150 tonnes of carbon dioxide (CO&#8322;). The economic impact of this decrease in carbon sequestration capacity is estimated at around US$ 452,610, signifying a lost opportunity for carbon trading. The degradation of mangroves is recognized as the principal cause of these losses. The study highlights the critical necessity for conservation and restoration measures, specifically aimed at mangrove ecosystems, to alleviate additional environmental and economic deterioration. It promotes sustainable land use regulations and the incorporation of ecosystem services valuation in decision-making processes to improve resilience in coastal Tanzania.</description>
+      <author>Luzabeth J. Kitali, Adili Y. Zella</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.9734/ijecc/2024/v14i104498</guid>
+    </item>
+    <item>
+      <title>Development of Sustainable Goals Emissions Reduction Value to Measure Climate Change</title>
+      <link>https://doi.org/10.4018/979-8-3693-7230-2.ch007</link>
+      <description>J. Bala Murugan, L. Priya Dharsini, C. Prabakaran, P. S. Ranjit, S. Menaka, R. Senthamil Selvan, Practice, progress, and proficiency in sustainability. None(None)] 2024. https://openalex.org/W4403122357
+
+                The Sustainable Development Goals, or SDGs, goal indicators and the steps taken to slow down climate change have trade-offs and synergies. Although some research has evaluated these linkages, nothing is known about how much of an interaction there is. This section illustrates how reducing CO2 emissions relates to the SDGs. They created the &#8220;marginal SDG-emissions-reduction values (MSVs),&#8221; which show how a unit decrease in CO2 emissions affects certain SDG indicators on a marginal basis. This measure was utilised and may be used for national evaluations. They discovered significant correlations between rates of CO2 emission reduction and several SDG objectives. For example, a 1% reduction in CO2 may save 0.57% of premature deaths linked to air pollution (SDG3), whereas the same CO2 reduction can result in a 0.026% drop in mean species richness (SDG15) (excluding the effects of climate change). Our results help evaluate the implications of CO2 emissions reduction objectives for the SDGs, which will assist in informing national climate strategies.</description>
+      <author>J. Bala Murugan, L. Priya Dharsini, C. Prabakaran, P. S. Ranjit, S. Menaka, R. Senthamil Selvan</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.4018/979-8-3693-7230-2.ch007</guid>
+    </item>
+    <item>
       <title>Impacts of climate change on phenology, yield, and water productivity of wheat in a semi-arid region of India using the CERES-Wheat model</title>
       <link>https://doi.org/10.2166/wcc.2024.139</link>
       <description>Himani Bisht, S.S. Punia, Bipin Kumar, Jitendra Rajput, D. K. Singh, Lata Vishnoi, Rajvir Singh, Manisha Tamta, Shweta Gautam, Journal of Water and Climate Change. None(None)] 2024. https://openalex.org/W4403026224
@@ -408,16 +468,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/ma17194764</guid>
     </item>
     <item>
-      <title>Photocatalytic CO2 Reduction to CO Catalysed by Lanthanide Complexes</title>
-      <link>https://doi.org/10.1039/d4cc03175j</link>
-      <description>Yingzhe Zhao, Jianling Zhang, Haoxiang Wang, Renjie Zhang, Yunan Teng, Meiling Li, Yi Song, Zhonghao Tan, Chemical Communications. None(None)] 2024. https://openalex.org/W4403005889
-
-                Here we demonstrate the efficient CO2 reduction to CO catalysed by lanthanide-based complexes under light irradiation, by which the highest CO evolution rate can reach 78&#177;8 &#956;mol g-1 h-1 in...</description>
-      <author>Yingzhe Zhao, Jianling Zhang, Haoxiang Wang, Renjie Zhang, Yunan Teng, Meiling Li, Yi Song, Zhonghao Tan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc03175j</guid>
-    </item>
-    <item>
       <title>Performance Evaluation of CO2 + SiCl4 Binary Mixture in Recompression Brayton Cycle for Warm Climates</title>
       <link>https://doi.org/10.3390/pr12102155</link>
       <description>Muhammad Ehtisham Siddiqui, Khalid H. Almitani, Processes. 12(10)] 2024. https://openalex.org/W4403106930
@@ -426,6 +476,16 @@
       <author>Muhammad Ehtisham Siddiqui, Khalid H. Almitani</author>
       <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/pr12102155</guid>
+    </item>
+    <item>
+      <title>Photocatalytic CO2 Reduction to CO Catalysed by Lanthanide Complexes</title>
+      <link>https://doi.org/10.1039/d4cc03175j</link>
+      <description>Yingzhe Zhao, Jianling Zhang, Haoxiang Wang, Renjie Zhang, Yunan Teng, Meiling Li, Yi Song, Zhonghao Tan, Chemical Communications. None(None)] 2024. https://openalex.org/W4403005889
+
+                Here we demonstrate the efficient CO2 reduction to CO catalysed by lanthanide-based complexes under light irradiation, by which the highest CO evolution rate can reach 78&#177;8 &#956;mol g-1 h-1 in...</description>
+      <author>Yingzhe Zhao, Jianling Zhang, Haoxiang Wang, Renjie Zhang, Yunan Teng, Meiling Li, Yi Song, Zhonghao Tan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cc03175j</guid>
     </item>
     <item>
       <title>The Effect of Climate Change on Plant Parasitic Nematodes</title>
@@ -568,6 +628,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202411765</guid>
     </item>
     <item>
+      <title>Towards a Synthetic Positive Energy District (PED) in &#304;stanbul: Balancing Cost, Mobility, and Environmental Impact</title>
+      <link>https://doi.org/10.3390/buildings14103153</link>
+      <description>Mi&#775;ne Serts&#246;z, Buildings. 14(10)] 2024. https://openalex.org/W4403107776
+
+                The influence of mobility modes within Positive Energy Districts (PEDs) has gained limited attention, despite their crucial role in reducing energy consumption and greenhouse gas emissions. Buildings in the European Union (EU) account for 40% of energy consumption and 36% of greenhouse gas emissions. In comparison, transport contributes 28% of energy use and 25% of emissions, with road transport responsible for 72% of these emissions. This study aims to design and optimize a synthetic PED in Istanbul that integrates renewable energy sources and public mobility systems to address these challenges. The renewable energy sources integrated into the synthetic PED model include solar energy, hydrogen energy, and regenerative braking energy from a tram system. Solar panels provided a substantial portion of the energy, while hydrogen energy contributed to additional electricity generation. Regenerative braking energy from the tram system was also utilized to further optimize energy production within the district. This system powers a middle school, 10 houses, a supermarket, and the tram itself. Optimization techniques, including Linear Programming (LP) for economic purposes and the Weighted Sum Method (WSM) for environmental goals, were applied to balance cost and CO2 emissions. The LP method identified that the PED model can achieve cost competitiveness with conventional energy grids when hydrogen costs are below $93.16/MWh. Meanwhile, the WSM approach demonstrated that achieving a minimal CO2 emission level of 5.74 tons requires hydrogen costs to be $32.55/MWh or lower. Compared to a conventional grid producing 97 tons of CO2 annually, the PED model achieved reductions of up to 91.26 tons. This study contributes to the ongoing discourse on sustainable urban energy systems by addressing key research gaps related to the integration of mobility modes within PEDs and offering insights into the optimization of renewable energy sources for reducing emissions and energy consumption.</description>
+      <author>Mi&#775;ne Serts&#246;z</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/buildings14103153</guid>
+    </item>
+    <item>
       <title>Renewable Energy Credits Transforming Market Dynamics</title>
       <link>https://doi.org/10.3390/su16198602</link>
       <description>Bankole I. Oladapo, Mattew A. Olawumi, Francis T. Omigbodun, Sustainability. 16(19)] 2024. https://openalex.org/W4403101705
@@ -576,6 +646,16 @@
       <author>Bankole I. Oladapo, Mattew A. Olawumi, Francis T. Omigbodun</author>
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/su16198602</guid>
+    </item>
+    <item>
+      <title>Ionomer and Membrane Designs for Low&#8208;Temperature CO2 and CO Electrolysis</title>
+      <link>https://doi.org/10.1002/cssc.202401728</link>
+      <description>Huihua Deng, Zhuo Chen, Li Wang, ChemSusChem. None(None)] 2024. https://openalex.org/W4403146014
+
+                Low&#8208;temperature electroreduction of CO2 and CO (CO(2)RR) into valuable chemicals and fuels offers a promising pathway to reduce greenhouse gas emissions and achieve carbon neutrality. Today's low&#8208;temperature CO(2)RR technology relies on the use of ionomers, polymers with ionized groups, primarily as catalyst layer (CL) additives. In the meantime, ionomers can assemble into ion&#8208;exchange membranes (IEMs), serving as important components of electrolyzers. According to the ion&#8208;exchange functions, ionomer additives are classified as cation&#8208;exchange ionomers (CEIs) and anion&#8208;exchange ionomers (AEIs); similarly, IEMs are divided into cation&#8208;exchange membranes (CEMs) and anion&#8208;exchange membranes (AEMs), as well as the multilayer polymer electrolytes (MPEs). Recent studies show that ionomer additives can regulate the catalytic microenvironment and thereby enhance performance towards desired products. This Review discusses the roles of ionomer additives and IEMs in CO2 and CO reduction reactions, highlighting the latest mechanistic insights and performance advances. It outlines challenges in designing ionomer additives and IEMs to improve product selectivity, energy efficiency (EE), and operational lifetime of CO(2)RR electrolyzers, while also providing perspectives on future research directions. The aim is to connect the current status of ionomer and membrane development with performance metrics analysis, offering insights for the advancement of commercially relevant low&#8208;temperature CO(2)RR electrolyzers.</description>
+      <author>Huihua Deng, Zhuo Chen, Li Wang</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401728</guid>
     </item>
     <item>
       <title>A Highly Conjugated Nickel(II)&#8208;Acetylide Framework for Efficient Photocatalytic Carbon Dioxide Reduction</title>
@@ -596,6 +676,16 @@
       <author>Yuemin Liu, Yunxiang Gao, Tariq Altalhi, Di&#8208;Jia Liu, Boris I. Yakobson</author>
       <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/nano14191576</guid>
+    </item>
+    <item>
+      <title>The Impact of Hydrogen on Flame Characteristics and Pollutant Emissions in Natural Gas Industrial Combustion Systems</title>
+      <link>https://doi.org/10.3390/en17194959</link>
+      <description>Yamei Lan, Li Wang, Jingxiang Xu, Yi Wang, Energies. 17(19)] 2024. https://openalex.org/W4403140808
+
+                To improve energy savings and emission reduction in industrial heating furnaces, this study investigated the impact of various molar fractions of hydrogen on natural gas combustion and compared the results of the Non-Premixed Combustion Model with the Eddy Dissipation Combustion Model. Initially, natural gas combustion in an industrial heating furnace was investigated experimentally, and these results were used as boundary conditions for CFD simulations. The diffusion flame and combustion characteristics of natural gas were simulated using both the non-premixed combustion model and the Eddy Dissipation Combustion Model. The results indicated that the Non-Premixed Combustion Model provided simulations more consistent with experimental data, within acceptable error margins, thus validating the accuracy of the numerical simulations. Additionally, to analyze the impact of hydrogen doping on the performance of an industrial gas heater, four gas mixtures with varying hydrogen contents (15% H2, 30% H2, 45% H2, and 60% H2) were studied while maintaining constant fuel inlet temperature and flow rate. The results demonstrate that the Non-Premixed Combustion Model more accurately simulates complex flue gas flow and chemical reactions during combustion. Moreover, hydrogen-doped natural gas significantly reduces CO and CO2 emissions compared to pure natural gas combustion. Specifically, at 60% hydrogen content, CO and CO2 levels decrease by 70% and 37.5%, respectively, while NO emissions increase proportionally; at this hydrogen content, NO concentration in the furnace chamber rises by 155%.</description>
+      <author>Yamei Lan, Li Wang, Jingxiang Xu, Yi Wang</author>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/en17194959</guid>
     </item>
     <item>
       <title>Study of The Energy, Economic, Environmental, and Thermal Comfort Impact of The Integration of Hemp Concrete and Hemp Plaster in a Residential Building Envelope in Morocco</title>
@@ -658,6 +748,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17194882</guid>
     </item>
     <item>
+      <title>Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production</title>
+      <link>https://doi.org/10.1002/ange.202416878</link>
+      <description>Ziming Su, Xiangyu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Xiaotian Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403140466
+
+                One&#8208;dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard&#8208;soft acids&#8208;bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure&#8208;regulating agent and morphology&#8208;directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu&#8208;SR bond. Due to the combined advantages of amorphous structure and one&#8208;dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu&#8208;based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.</description>
+      <author>Ziming Su, Xiangyu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Xiaotian Wang</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202416878</guid>
+    </item>
+    <item>
       <title>Extended emission footprint analysis of dispatchable gas-based power generation technologies with exhaust aftertreatment technologies</title>
       <link>https://doi.org/10.33737/gpps24-tc-088</link>
       <description>Christian Go&#223;rau, Nils Holger Petersen, L. de la Cruz-May, Manfred Wirsum, Alexander Lampkowski, Ariel Sch&#246;nberger Alvarez, J. Classen, Stefan Pischinger, Proceedings. None(None)] 2024. https://openalex.org/W4403007972
@@ -666,6 +766,16 @@
       <author>Christian Go&#223;rau, Nils Holger Petersen, L. de la Cruz-May, Manfred Wirsum, Alexander Lampkowski, Ariel Sch&#246;nberger Alvarez, J. Classen, Stefan Pischinger</author>
       <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.33737/gpps24-tc-088</guid>
+    </item>
+    <item>
+      <title>Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production</title>
+      <link>https://doi.org/10.1002/anie.202416878</link>
+      <description>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403141185
+
+                One&#8208;dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard&#8208;soft acids&#8208;bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure&#8208;regulating agent and morphology&#8208;directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu&#8208;SR bond. Due to the combined advantages of amorphous structure and one&#8208;dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu&#8208;based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.</description>
+      <author>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202416878</guid>
     </item>
     <item>
       <title>Monitoring and adjustments of combustion parameters in reheating furnaces using a digital tool</title>
@@ -698,6 +808,16 @@
       <author>A M Yagoot, Hassan A. Khalil, Mohammed A. Alharbi, G. Almalayo, Anwar Borai</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1093/clinchem/hvae106.395</guid>
+    </item>
+    <item>
+      <title>12201 Ketogenic-diet As A Trigger Of First Episode Diabetic Ketoacidosis In A Woman Living With Type 1 Diabetes Mellitus</title>
+      <link>https://doi.org/10.1210/jendso/bvae163.826</link>
+      <description>Margarida Cruz, Alex N Gonzalez Bossolo, Gabriel Jose Mora Osoria, Journal of the Endocrine Society. 8(Supplement_1)] 2024. https://openalex.org/W4403153887
+
+                Abstract Disclosure: M.E. Chacon Cruz: None. A.N. Gonzalez Bossolo: None. G.J. Mora Osoria: None. A number of dietary patterns have been proposed as an effective method for weight reduction. A keto diet is a strict low-carbohydrate and high-fat diet. The reduction in carbohydrates enables the body to rely on fat as a predominant energy source leading to a state of ketosis. However, a serious but rare complication of the ketogenic diet is ketoacidosis associated with low carbohydrate intake, which should be cautiously monitored in people with a predisposition to the condition, such patient with diabetes mellitus type 1. We report the case of a female patient living with type 1 diabetes mellitus female who developed her first episodes of diabetic ketoacidosis (DKA) as the following the course of ketogenic diet. A 53 y/o Female patient with past medical history diabetes mellitus type 1 and pernicious anemia went emergency department complaining pelvic pain associated with weakness, nausea and vomiting for about 1 day of evolution. Patient also refers that during the past 2 weeks she has been doing a detox and taking some herbal and tea. Other physical examinations were unremarkable except for moderate dehydration. The initial testing revealed patients meet criteria for severe diabetes ketoacidosis (DKA) with a pH: 7.04, CO2 15, serum central bicarbonate in 6 mmol/L and elevated blood glucose in 504 mg/dl and positive urine and serum ketones, C-Peptide less than 0.02 ng/ml. and glycosylated hemoglobin in 8.25%. She was admitted to the intensive care unit and treated with intravenous saline, intravenous insulin infusion, and electrolyte repletion. Blood glucose levels and metabolic acidosis improved. After DKA resolved patient refers that week started with Keto-diet and was restricting carbohydrates. Patient was discharge home with multiple injection insulin and followed by Endocrinologist services in the external clinic for a follow up. This case illustrates the challenges and the importance of dietary history providing clues to the diagnosis. If we had never asked her about her diet, we would not have found the reason that brought her to the DKA. This case demonstrates the development of DKA following ketogenic diet in a patient with type 1 diabetes. It is important for physicians to be aware of this rare potential complication of ketogenic diet which is infrequently reported in literature. Therefore, physicians should be cognizant of the complications and risks, and benefits of the ketogenic diet. Risks and benefits of the ketogenic diet should be discussed with patients before initiation of this diet. The patient was followed in an outpatient clinic with Endocrinologist service for evaluation for an insulin pump. Presentation: 6/1/2024</description>
+      <author>Margarida Cruz, Alex N Gonzalez Bossolo, Gabriel Jose Mora Osoria</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1210/jendso/bvae163.826</guid>
     </item>
     <item>
       <title>A Novel Hybrid Physics/Data-Driven Model for Fractured Reservoir Simulation</title>

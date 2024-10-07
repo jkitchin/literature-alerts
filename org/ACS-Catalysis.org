@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Oct  6 01:25:41 2024
+Created on Mon Oct  7 01:22:28 2024
 
-Found 31 results from 2024-09-29 to 2024-10-06
+Found 35 results from 2024-09-30 to 2024-10-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -594,6 +594,27 @@ No abstract
 
     
 
+* Asymmetric Hydrogenation of Naphthalenes with Molybdenum Catalysts: Ligand Design Improves Chemoselectivity  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403122253
+:TOPICS: Homogeneous Catalysis with Transition Metals, Engineering of Surface Nanostructures, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-10-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04620")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403122253"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403122253"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403122253"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403122253 (Open access: False)
+    
+[[https://openalex.org/A5084336122][Priyanka Gupta]], [[https://openalex.org/A5024024488][Gabriele Hierlmeier]], [[https://openalex.org/A5107743173][Carina Baete]], [[https://openalex.org/A5084018341][Matthew V. Pecoraro]], [[https://openalex.org/A5038528916][Paolo Tosatti]], [[https://openalex.org/A5047117069][Kurt Puentener]], [[https://openalex.org/A5087910041][Paul J. Chirik]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04620 
+     
+No abstract    
+
+    
+
 * Investigation of Ethane Dehydrogenation and Hydrogenolysis on Pt(111), Pt(211), and Pt(100): Bayesian Quantification and Correction of DFT-Based Enthalpic and Entropic Uncertainties  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403123296
@@ -652,6 +673,69 @@ No abstract
 OpenAlex: https://openalex.org/W4403140357 (Open access: False)
     
 , ACS Catalysis. 14(19)] 2024. https://doi.org/10.1021/csv014i019_1852107 
+     
+No abstract    
+
+    
+
+* CGC-Scandium-Mediated Copolymerization of Ethylene with Amine-Functionalized Cyclic Olefins  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403147082
+:TOPICS: Transition Metal Catalysis, Carbon Dioxide Utilization for Chemical Synthesis, Olefin Metathesis Chemistry
+:PUBLICATION_DATE: 2024-10-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05343")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403147082"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403147082"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403147082"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403147082 (Open access: False)
+    
+[[https://openalex.org/A5059736858][Shuqi Dong]], [[https://openalex.org/A5101142958][Ling Cai]], [[https://openalex.org/A5043496191][Zhaoxue Han]], [[https://openalex.org/A5040881117][Bo Liu]], [[https://openalex.org/A5047110002][Dongmei Cui]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05343 
+     
+No abstract    
+
+    
+
+* Selective Electroreduction of CO2 to Ethanol via Cobalt–Copper Tandem Catalysts  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403147101
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-10-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05286")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403147101"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403147101"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403147101"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403147101 (Open access: False)
+    
+[[https://openalex.org/A5055513670][Soressa Abera Chala]], [[https://openalex.org/A5089443613][Rongji Liu]], [[https://openalex.org/A5002238224][Ekemena O. Oseghe]], [[https://openalex.org/A5015893436][Simon T. Clausing]], [[https://openalex.org/A5088849372][Christopher J. Kampf]], [[https://openalex.org/A5086773329][Joachim Bansmann]], [[https://openalex.org/A5015698882][Adam H. Clark]], [[https://openalex.org/A5031969759][Yazhou Zhou]], [[https://openalex.org/A5086925656][Ingo Lieberwirth]], [[https://openalex.org/A5002418054][Johannes Biskupek]], [[https://openalex.org/A5017684207][Ute Kaiser]], [[https://openalex.org/A5080329256][Carsten Streb]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05286 
+     
+No abstract    
+
+    
+
+* Integrated CO2 Capture and Utilization: Selection, Matching, and Interactions between Adsorption and Catalytic Sites  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403155268
+:TOPICS: Carbon Dioxide Capture and Storage Technologies, Chemical-Looping Technologies, Membrane Gas Separation Technology
+:PUBLICATION_DATE: 2024-10-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03861")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403155268"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403155268"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403155268"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403155268 (Open access: True)
+    
+[[https://openalex.org/A5004667543][Hongman Sun]], [[https://openalex.org/A5005001820][Shuzhuang Sun]], [[https://openalex.org/A5057337284][Xiaoteng Liu]], [[https://openalex.org/A5026305878][Jingbin Zeng]], [[https://openalex.org/A5089942938][Youhe Wang]], [[https://openalex.org/A5100456337][Zifeng Yan]], [[https://openalex.org/A5032589855][Chunfei Wu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03861 
      
 No abstract    
 

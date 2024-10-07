@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Oct 2024 01:25:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 01:22:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -388,6 +388,16 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0232257</guid>
     </item>
     <item>
+      <title>NiFe&#8208;Based Electrocatalysts for Alkaline Oxygen Evolution: Challenges, Strategies, and Advances Toward Industrial&#8208;Scale Deployment</title>
+      <link>https://doi.org/10.1002/adfm.202410618</link>
+      <description>Yansong Zhou, Zhitong Wang, Minghui Cui, Haiyan Wu, Ying Liu, Qiongrong Ou, Xinlong Tian, Shuyu Zhang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403108901
+
+                Abstract Developing high&#8208;efficiency alkaline water splitting technology holds great promise in potentially revolutionizing the traditional petrochemical industry to a more sustainable hydrogen economy. Importantly, the oxygen evolution reaction (OER) accompanied at the anode is considered as a critical bottleneck in terms of both complicated mechanism and sluggish kinetics, requiring rational design of OER electrocatalysts to elucidate the structure&#8208;performance relationship and reduce the applied overpotential. As a benchmarked non&#8208;precious metal candidate, NiFe&#8208;based electrocatalysts have gained enormous attention due to low&#8208;cost, earth&#8208;abundance, and remarkable intrinsic OER activity, which are expected to be implemented in industrial alkaline water splitting. In this contribution, a comprehensive overview of NiFe&#8208;based OER electrocatalysts is provided, starting with fundamental mechanisms, evaluation metrics, and synthetic protocols. Subsequently, basic principles with corresponding regulatory strategies are summarized following the sequence of substrate&#8208;catalyst&#8208;electrolyte design of efficient and robust NiFe&#8208;based electrocatalysts toward industrial&#8208;scale deployment. Perspectives on remaining challenges and instructive opportunities in this booming field are finally discussed.</description>
+      <author>Yansong Zhou, Zhitong Wang, Minghui Cui, Haiyan Wu, Ying Liu, Qiongrong Ou, Xinlong Tian, Shuyu Zhang</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202410618</guid>
+    </item>
+    <item>
       <title>P-functionalization of Ni Fe &#8722; Electrocatalysts from Prussian blue analogue for enhanced anode in anion exchange membrane water electrolysers</title>
       <link>https://doi.org/10.1016/j.cej.2024.156256</link>
       <description>Beatrice Ricciardi, Williane da Silva Freitas, Barbara Mecheri, J.M. Luque-Centeno, Cinthia Alegre, David Sebasti&#225;n, M.J. L&#225;zaro, Alessandra D&#8217;Epifanio, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403112516
@@ -398,14 +408,124 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156256</guid>
     </item>
     <item>
+      <title>Atom-glue stabilized Pt-based intermetallic nanoparticles</title>
+      <link>https://doi.org/10.1126/sciadv.adq6727</link>
+      <description>Zhongliang Huang, Y Wang, Jing Xia, Shengnan Hu, Nanjun Chen, Tianyi Ding, Changhong Zhan, Chih&#8208;Wen Pao, Zhiwei Hu, Wei&#8208;Hsiang Huang, Tong Shi, Xiang&#8208;Min Meng, Yong Xu, Liang Cao, Xiaoqing Huang, Science Advances. 10(40)] 2024. https://openalex.org/W4403114801
+
+                Pt-based nanoparticles (NPs) have been widely used in catalysis. However, this suffers from aggregation and/or sintering at working conditions. We demonstrate a robust strategy for stabilizing PtCo NPs under high temperature with strong interaction between M&#8211;N&#8211;C and PtCo NPs with Pt&#8211;M&#8211;N coordination, namely, &#8220;atom glue.&#8221; Such atom glue for stabilizing Pt-based NPs can be extended to Zn, Mn, Fe, Ni, Co, and Cu, being a versatile strategy for stabilizing PtCo NPs, which substantially promotes the performance toward oxygen reduction reaction (ORR) and fuel cell. Impressively, the mass activity (MA) reaches 2.99 A mg Pt &#8722;1 for ORR over g -Zn&#8211;N&#8211;C/PtCo, and 79.3% of the initial MA is maintained after 90K cycles in fuel cell. This work provides a versatile strategy for stabilizing Pt-based NPs via atom glue, which is likely to spark widespread interest across various fields.</description>
+      <author>Zhongliang Huang, Y Wang, Jing Xia, Shengnan Hu, Nanjun Chen, Tianyi Ding, Changhong Zhan, Chih&#8208;Wen Pao, Zhiwei Hu, Wei&#8208;Hsiang Huang, Tong Shi, Xiang&#8208;Min Meng, Yong Xu, Liang Cao, Xiaoqing Huang</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adq6727</guid>
+    </item>
+    <item>
+      <title>A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.161421</link>
+      <description>Xiaowen Wang, Fei Ma, Haiqiao Wei, Jiaying Pan, Wenjia Li, Jun Zhao, Xiaotao Yang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4403117340
+
+                No abstract</description>
+      <author>Xiaowen Wang, Fei Ma, Haiqiao Wei, Jiaying Pan, Wenjia Li, Jun Zhao, Xiaotao Yang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161421</guid>
+    </item>
+    <item>
       <title>Electronic communications between active sites on individual metallic nanoparticles in catalysis</title>
       <link>https://doi.org/10.1038/s41467-024-52997-w</link>
       <description>Dongrun Xu, Yaowei Jin, Bowen He, Xue Fang, Guokang Chen, Weiye Qu, Chenxin Xu, Junxiao Chen, Zhen Ma, Liwei Chen, Xingfu Tang, Xi Liu, Guangfeng Wei, Yaxin Chen, Nature Communications. 15(1)] 2024. https://openalex.org/W4403128752
 
-                No abstract</description>
+                Catalytic activity of metal particles is reported to originate from the appearance of nonmetallic states, but conductive metallic particles, as an electron reservoir, should render electron delivery between reactants more favorably so as to have higher activity. We present that metallic rhodium particle catalysts are highly active in the low-temperature oxidation of carbon monoxide, whereas nonmetallic rhodium clusters or monoatoms on alumina remain catalytically inert. Experimental and theoretical results evidence the presence of electronic communications in between vertex atom active sites of individual metallic particles in the reaction. The electronic communications dramatically lower apparent activation energies via coupling two electrochemical-like half-reactions occurring on different active sites, which enable the metallic particles to show turnover frequencies at least four orders of magnitude higher than the nonmetallic clusters or monoatoms. Similar results are found for other metallic particle catalysts, implying the importance of electronic communications between active sites in heterogeneous catalysis.</description>
       <author>Dongrun Xu, Yaowei Jin, Bowen He, Xue Fang, Guokang Chen, Weiye Qu, Chenxin Xu, Junxiao Chen, Zhen Ma, Liwei Chen, Xingfu Tang, Xi Liu, Guangfeng Wei, Yaxin Chen</author>
       <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-52997-w</guid>
+    </item>
+    <item>
+      <title>Bias-dependent surface stress by density functional theory combined with the effective screening medium method</title>
+      <link>https://doi.org/10.1103/physrevb.110.155409</link>
+      <description>Satoshi Hagiwara, Shoji Ishibashi, Minoru Otani, Physical review. B./Physical review. B. 110(15)] 2024. https://openalex.org/W4403130582
+
+                No abstract</description>
+      <author>Satoshi Hagiwara, Shoji Ishibashi, Minoru Otani</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.155409</guid>
+    </item>
+    <item>
+      <title>Oriented Crystal Polarization Tuning Bulk Charge and Single&#8208;Site Chemical State for Exceptional Hydrogen Photo&#8208;Production</title>
+      <link>https://doi.org/10.1002/adma.202411339</link>
+      <description>Zijian Zhu, Jingcong Hu, Cheng Hu, Yue Lu, Shengqi Chu, Fang Chen, Hongwei Huang, Hongwei Huang, Advanced Materials. None(None)] 2024. https://openalex.org/W4403140168
+
+                Abstract Rapid bulk charge recombination and mediocre surface catalytic sites harshly restrict the photocatalytic activities. Herein, the aforementioned concerns are well addressed by coupling macroscopic spontaneous polarization and atomic&#8208;site engineering of CdS single&#8208;crystal nanorods for superb H 2 photo&#8208;production. The oriented growth of CdS nanorods along the polar axis, vectorially superimposing substantial polar units with orderly arrangement, renders a strong polarization electric field (20.1 times enhancement), which boosts bulk charge separation with an efficiency up to 72.4% (80.4&#8208;fold). Remarkably, polarization electric field alters the chemical state of Pt single sites by orderly reducing the binding energy of Pt atom with stepwise polarization enhancement of CdS substrate, which increases the onsite electron density of Pt from 10.232 to 10.261e &#8722; and *H key intermediates, providing preponderant Volmer&#8208;Tafel/Volmer&#8208;Heyrovsky reaction pathways with significantly decreased energy barriers for H 2 production. Thus, highly polarized CdS nanorods with atomically dispersed Pt sites perform an outstanding H 2 space&#8208;time yield of 118.5 mmol g &#8722;1 h &#8722;1 and apparent quantum efficiency of 57.7% at &#955; = 420 nm, and a record&#8208;high H 2 turnover frequency of 57798.4 h &#8722;1 , being one of the best catalysts for photocatalytic H 2 evolution. This work highlights the function of polarization in manipulating charge separation and catalytic reaction.</description>
+      <author>Zijian Zhu, Jingcong Hu, Cheng Hu, Yue Lu, Shengqi Chu, Fang Chen, Hongwei Huang, Hongwei Huang</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202411339</guid>
+    </item>
+    <item>
+      <title>Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.10.010</link>
+      <description>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4403144529
+
+                No abstract</description>
+      <author>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.010</guid>
+    </item>
+    <item>
+      <title>Surgical dissection of ignition behavior of aluminum nanoparticles using molecular dynamics</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.133316</link>
+      <description>Yiming Lu, Lili Ye, Hongxin Luo, Mingshu Bi, Fuel. 381(None)] 2024. https://openalex.org/W4403146634
+
+                No abstract</description>
+      <author>Yiming Lu, Lili Ye, Hongxin Luo, Mingshu Bi</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.133316</guid>
+    </item>
+    <item>
+      <title>First-Principles Calculations and Machine Learning of Hydrogen Evolution Reaction Activity of Nonmetallic Doped &#946;-Mo&lt;sub&gt;2&lt;/sub&gt;C Support Pt Single-Atom Catalysts</title>
+      <link>https://doi.org/10.1021/acsami.4c10705</link>
+      <description>Minhui Song, Mei Yang, Shuo Yang, Li Wang, Chenyang Cao, Hongfei Li, Xiao&#8208;Xu Wang, Panpan Gao, Ping Qian, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403146651
+
+                The most widely used catalyst for the hydrogen evolution reaction (HER) is Pt, but the high cost and low abundance of Pt need to be urgently addressed. Single-atom catalysts (SACs) have been an effective means of improving the utilization of Pt atoms. In this work, we used a nonmetal (NM = B, N, O, F, Si, P, S, Cl, As, Se, Br, Te, and I) doped &#946;-Mo</description>
+      <author>Minhui Song, Mei Yang, Shuo Yang, Li Wang, Chenyang Cao, Hongfei Li, Xiao&#8208;Xu Wang, Panpan Gao, Ping Qian</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c10705</guid>
+    </item>
+    <item>
+      <title>Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs</title>
+      <link>https://doi.org/10.1016/j.actamat.2024.120447</link>
+      <description>Qinsheng He, Tian&#8208;Yu Sun, Liang&#8208;Feng Huang, Acta Materialia. None(None)] 2024. https://openalex.org/W4403154326
+
+                No abstract</description>
+      <author>Qinsheng He, Tian&#8208;Yu Sun, Liang&#8208;Feng Huang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120447</guid>
+    </item>
+    <item>
+      <title>Nanohybrids of B- and N-codoped reduced graphene oxide/CeO2&#8211;Co3O4 nanocomposite for efficient water oxidation</title>
+      <link>https://doi.org/10.1016/j.matchemphys.2024.129984</link>
+      <description>Zohreh Shaghaghi, Farnaz Ebrahimi, Sahar Jafari Nivlouei, Materials Chemistry and Physics. 328(None)] 2024. https://openalex.org/W4403156921
+
+                No abstract</description>
+      <author>Zohreh Shaghaghi, Farnaz Ebrahimi, Sahar Jafari Nivlouei</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matchemphys.2024.129984</guid>
+    </item>
+    <item>
+      <title>Pathways and enhancement strategies for magnesium hardness removal in modified induced crystallization softening</title>
+      <link>https://doi.org/10.1016/j.jenvman.2024.122729</link>
+      <description>Changgeng Li, Cheng Liu, Yun Han, Weibin Xu, Bing Yan, Aijun Du, Qin Li, Qi Yu, Journal of Environmental Management. 370(None)] 2024. https://openalex.org/W4403157311
+
+                No abstract</description>
+      <author>Changgeng Li, Cheng Liu, Yun Han, Weibin Xu, Bing Yan, Aijun Du, Qin Li, Qi Yu</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.122729</guid>
+    </item>
+    <item>
+      <title>Selective Area Epitaxy of Gallium Phosphide-Based Nanostructures on Microsphere Lithography-Patterned Si Wafers for Visible Light Optoelectronics</title>
+      <link>https://doi.org/10.1016/j.materresbull.2024.113126</link>
+      <description>Vladimir V. Fedorov, Vladimir V. Fedorov, A. V. Pavlov, Sergey Komarov, E. I. Moiseev, Dmitry Miniv, &#1040;. &#1050;. &#1050;&#1072;&#1074;&#1077;&#1077;&#1074;, A. Smirnov, &#1044;. &#1040;. &#1050;&#1080;&#1088;&#1080;&#1083;&#1077;&#1085;&#1082;&#1086;, &#1040; &#1052; &#1052;&#1086;&#1078;&#1072;&#1088;&#1086;&#1074;, Ivan S. Mukhin, Materials Research Bulletin. None(None)] 2024. https://openalex.org/W4403157700
+
+                No abstract</description>
+      <author>Vladimir V. Fedorov, Vladimir V. Fedorov, A. V. Pavlov, Sergey Komarov, E. I. Moiseev, Dmitry Miniv, &#1040;. &#1050;. &#1050;&#1072;&#1074;&#1077;&#1077;&#1074;, A. Smirnov, &#1044;. &#1040;. &#1050;&#1080;&#1088;&#1080;&#1083;&#1077;&#1085;&#1082;&#1086;, &#1040; &#1052; &#1052;&#1086;&#1078;&#1072;&#1088;&#1086;&#1074;, Ivan S. Mukhin</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.materresbull.2024.113126</guid>
     </item>
     <item>
       <title>Interaction of H2S with perfect and O-covered Pd(100) surface: A first-principles study</title>
@@ -416,6 +536,16 @@
       <author>Tariq Usman, Asif Ilyas, Salman Ali Khan, Sajid Khan, Majed A. Alotaibi, Ming-Qiu Tan</author>
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.439</guid>
+    </item>
+    <item>
+      <title>On the selection of control structures using process operability analysis</title>
+      <link>https://doi.org/10.1016/j.conengprac.2024.106117</link>
+      <description>Victor Alves, Fernando V. Lima, Control Engineering Practice. 153(None)] 2024. https://openalex.org/W4403155926
+
+                No abstract</description>
+      <author>Victor Alves, Fernando V. Lima</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.conengprac.2024.106117</guid>
     </item>
     <item>
       <title>Bringing Molecules Together: Synergistic Coadsorption at Dopant Sites of Single Atom Alloys</title>

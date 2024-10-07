@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Oct 2024 01:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 01:22:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Integrating the Design of Desalination Technologies into Produced Water Network Optimization</title>
-      <link>https://doi.org/10.2172/2447902</link>
-      <description>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven, No host. None(None)] 2024. https://openalex.org/W4402947496
-
-                No abstract</description>
-      <author>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven</author>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2447902</guid>
-    </item>
-    <item>
-      <title>Progressive Hedging Decomposition for Solutions of Large-Scale Process Family Design Problems</title>
-      <link>https://doi.org/10.2172/2447903</link>
-      <description>Georgia Stinchfield, Jean&#8208;Paul Watson, Carl D. Laird, No host. None(None)] 2024. https://openalex.org/W4402948304
-
-                No abstract</description>
-      <author>Georgia Stinchfield, Jean&#8208;Paul Watson, Carl D. Laird</author>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2447903</guid>
-    </item>
     <item>
       <title>Amine headgroups in ionizable lipids drive immune responses to lipid nanoparticles by binding to the receptors TLR4 and CD1d</title>
       <link>https://doi.org/10.1038/s41551-024-01256-w</link>
