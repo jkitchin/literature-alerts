@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Oct  7 01:22:39 2024
+Created on Tue Oct  8 01:20:24 2024
 
-Found 55 results from 2024-09-30 to 2024-10-07
+Found 59 results from 2024-10-01 to 2024-10-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -512,6 +512,17 @@ Abstract Rapid bulk charge recombination and mediocre surface catalytic sites ha
 
     
 
+## Chemiresistive triethylamine detection based on the novel Ti3C2Tx/Co-BDC gas sensor   
+
+OpenAlex: https://openalex.org/W4403140557    
+Open access: False
+    
+[Huan Liu](https://openalex.org/A5100338887), [Qingcai Chen](https://openalex.org/A5072624830), [Ting Xu](https://openalex.org/A5003419469), [Heng Liu](https://openalex.org/A5100753324), [Miao Lei](https://openalex.org/A5103577828), [Wenhao Liu](https://openalex.org/A5100429106), [Jingwen Cheng](https://openalex.org/A5091313402), [Shu Yin](https://openalex.org/A5077743963), [Chuanyi Wang](https://openalex.org/A5084410248), [Jincai Zhao](https://openalex.org/A5032690227), Sensors and Actuators B Chemical. None(None)] 2024.https://doi.org/10.1016/j.snb.2024.136738.
+    
+No abstract    
+
+    
+
 ## Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity   
 
 OpenAlex: https://openalex.org/W4403144529    
@@ -586,6 +597,39 @@ Open access: False
 [Vladimir V. Fedorov](https://openalex.org/A5043170458), [Vladimir V. Fedorov](https://openalex.org/A5043170458), [A. V. Pavlov](https://openalex.org/A5008181530), [Sergey Komarov](https://openalex.org/A5002034432), [E. I. Moiseev](https://openalex.org/A5072425838), [Dmitry Miniv](https://openalex.org/A5017501458), [А. К. Кавеев](https://openalex.org/A5066506304), [A. Smirnov](https://openalex.org/A5048753962), [Д. А. Кириленко](https://openalex.org/A5067894635), [А М Можаров](https://openalex.org/A5083636356), [Ivan S. Mukhin](https://openalex.org/A5000270191), Materials Research Bulletin. None(None)] 2024.https://doi.org/10.1016/j.materresbull.2024.113126.
     
 No abstract    
+
+    
+
+## Important structural parameter for curvature effect of TM-N4 embeded C70 fullerenes as electrocatalysts for CO2 reduction interpreted with machine learning and first-principles calculations   
+
+OpenAlex: https://openalex.org/W4403168428    
+Open access: False
+    
+[Aling Ma](https://openalex.org/A5009783384), [Zongpeng Ding](https://openalex.org/A5012102127), [YuShan Pang](https://openalex.org/A5102634533), [Guohong Fan](https://openalex.org/A5038934588), [Hong Xu](https://openalex.org/A5017163237), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105233.
+    
+No abstract    
+
+    
+
+## Catalytic oxidation of 1,2-dichlorobenzene over CoxCry oxides   
+
+OpenAlex: https://openalex.org/W4403169200    
+Open access: False
+    
+[Chensheng Tu](https://openalex.org/A5001181946), [Shijie Shao](https://openalex.org/A5060956337), [Wangjia Xi](https://openalex.org/A5009664529), [Hao Zhang](https://openalex.org/A5100740136), [Qiguang Dai](https://openalex.org/A5035446292), [Xingyi Wang](https://openalex.org/A5100737863), [Yanglong Guo](https://openalex.org/A5080435466), Applied Catalysis A General. None(None)] 2024.https://doi.org/10.1016/j.apcata.2024.119975.
+    
+No abstract    
+
+    
+
+## Research Progress in Structure Evolution and Durability Modulation of Ir‐ and Ru‐Based OER Catalysts under Acidic Conditions   
+
+OpenAlex: https://openalex.org/W4403170675    
+Open access: False
+    
+[You Zi](https://openalex.org/A5029664909), [Chengxu Zhang](https://openalex.org/A5064403506), [Jian-Qiang Zhao](https://openalex.org/A5077422333), [Ying Cheng](https://openalex.org/A5043905805), [Jinliang Yuan](https://openalex.org/A5043053835), [Jue Hu](https://openalex.org/A5027149538), Small. None(None)] 2024.https://doi.org/10.1002/smll.202406657.
+    
+Abstract Green hydrogen energy, as one of the most promising energy carriers, plays a crucial role in addressing energy and environmental issues. Oxygen evolution reaction catalysts, as the key to water electrolysis hydrogen production technology, have been subject to durability constraints, preventing large‐scale commercial development. Under the high current density and harsh acid‐base electrolyte conditions of the water electrolysis reaction, the active metals in the catalysts are easily converted into high‐valent soluble species to dissolve, leading to poor structural durability of the catalysts. There is an urgent need to overcome the durability challenges under acidic conditions and develop electrocatalysts with both high catalytic activity and high durability. In this review, the latest research results are analyzed in depth from both thermodynamic and kinetic perspectives. First, a comprehensive summary of the structural deactivation state process of noble metal oxide catalysts is presented. Second, the evolution of the structure of catalysts possessing high durability is discussed. Finally, four new strategies for the preparation of stable catalysts, “electron buffer (ECB) strategy”, combination strength control, strain control, and surface coating, are summarized. The challenges and prospects are also elaborated for the future synthesis of more effective Ru/Ir‐based catalysts and boost their future application.    
 
     
 

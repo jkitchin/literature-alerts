@@ -1,8 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Mon Oct  7 01:22:27 2024
+Created on Tue Oct  8 01:20:11 2024
 
-Found 2 results from 2024-09-30 to 2024-10-07
+Found 1 results from 2024-10-01 to 2024-10-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
@@ -24,26 +24,5 @@ OpenAlex: https://openalex.org/W4403064947 (Open access: False)
 [[https://openalex.org/A5107698611][Aaditya Hari Bharanidharan]], [[https://openalex.org/A5107698612][Kyle McGaugh]], [[https://openalex.org/A5107698613][Aime Laurent Twizeriman]], [[https://openalex.org/A5107698614][Kaylen Ocampo]], [[https://openalex.org/A5027700633][Götz Veser]], [[https://openalex.org/A5013059036][Mohammad S. Masnadi]], Journal of Analytical and Applied Pyrolysis. None(None)] 2024. https://doi.org/10.1016/j.jaap.2024.106800 
      
 No abstract    
-
-    
-
-* Microwave-powered liquid metal depolymerization for plastic upcycling  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402956622
-:TOPICS: Global E-Waste Recycling and Management
-:PUBLICATION_DATE: 2024-09-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-3550378/v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402956622"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402956622"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402956622"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402956622 (Open access: False)
-    
-[[https://openalex.org/A5083945376][Jianye Gao]], [[https://openalex.org/A5031591139][Jun Zhao]], [[https://openalex.org/A5086869260][Zerong Xing]], [[https://openalex.org/A5076508346][Minghui Guo]], [[https://openalex.org/A5085237771][Haijiao Xie]], [[https://openalex.org/A5101764262][Wangjing Ma]], [[https://openalex.org/A5100725601][Jing Liu]], Research Square (Research Square). None(None)] 2024. https://doi.org/10.21203/rs.3.rs-3550378/v1 
-     
-Abstract Upcycling waste plastics is highly promising to tackle the global white pollution while achieving sustainable development. However, prevailing approaches often encounter challenges in scalable engineering practices due to either insufficient capability or arduousness in separation, recovery, and purification of catalysts, which inevitably augments the cost of plastic upcycling. Here, we present the microwave-powered liquid metal synergetic depolymerization to facilitate low-cost plastic upcycling. By leveraging the fluidity of liquid metals and their exceptional chemical-bond activation ability under microwave field, this method efficiently converts various polyolefins into narrowband hydrocarbon oil (Oil yield: 81 wt% for PP, 85.9 wt% for PE) and high-value olefin monomers (C2-4= selectivity: 50% for PE, 65.3% for PP) over 30 successive cycles, resulting in a high turnover frequency of 2.83 kgPlastic/mLCatalyst. These captivating advantages offered by electromagnetically-powered liquid metals are also supported by their self-separation features, thereby paving the way for large-scale engineering solutions in waste plastic upcycling.    
 
     

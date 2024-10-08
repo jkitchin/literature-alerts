@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Oct 2024 01:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 01:20:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -458,6 +458,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202411339</guid>
     </item>
     <item>
+      <title>Chemiresistive triethylamine detection based on the novel Ti3C2Tx/Co-BDC gas sensor</title>
+      <link>https://doi.org/10.1016/j.snb.2024.136738</link>
+      <description>Huan Liu, Qingcai Chen, Ting Xu, Heng Liu, Miao Lei, Wenhao Liu, Jingwen Cheng, Shu Yin, Chuanyi Wang, Jincai Zhao, Sensors and Actuators B Chemical. None(None)] 2024. https://openalex.org/W4403140557
+
+                No abstract</description>
+      <author>Huan Liu, Qingcai Chen, Ting Xu, Heng Liu, Miao Lei, Wenhao Liu, Jingwen Cheng, Shu Yin, Chuanyi Wang, Jincai Zhao</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.snb.2024.136738</guid>
+    </item>
+    <item>
       <title>Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity</title>
       <link>https://doi.org/10.1016/j.jcis.2024.10.010</link>
       <description>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4403144529
@@ -526,6 +536,36 @@
       <author>Vladimir V. Fedorov, Vladimir V. Fedorov, A. V. Pavlov, Sergey Komarov, E. I. Moiseev, Dmitry Miniv, &#1040;. &#1050;. &#1050;&#1072;&#1074;&#1077;&#1077;&#1074;, A. Smirnov, &#1044;. &#1040;. &#1050;&#1080;&#1088;&#1080;&#1083;&#1077;&#1085;&#1082;&#1086;, &#1040; &#1052; &#1052;&#1086;&#1078;&#1072;&#1088;&#1086;&#1074;, Ivan S. Mukhin</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.materresbull.2024.113126</guid>
+    </item>
+    <item>
+      <title>Important structural parameter for curvature effect of TM-N4 embeded C70 fullerenes as electrocatalysts for CO2 reduction interpreted with machine learning and first-principles calculations</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105233</link>
+      <description>Aling Ma, Zongpeng Ding, YuShan Pang, Guohong Fan, Hong Xu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4403168428
+
+                No abstract</description>
+      <author>Aling Ma, Zongpeng Ding, YuShan Pang, Guohong Fan, Hong Xu</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105233</guid>
+    </item>
+    <item>
+      <title>Catalytic oxidation of 1,2-dichlorobenzene over CoxCry oxides</title>
+      <link>https://doi.org/10.1016/j.apcata.2024.119975</link>
+      <description>Chensheng Tu, Shijie Shao, Wangjia Xi, Hao Zhang, Qiguang Dai, Xingyi Wang, Yanglong Guo, Applied Catalysis A General. None(None)] 2024. https://openalex.org/W4403169200
+
+                No abstract</description>
+      <author>Chensheng Tu, Shijie Shao, Wangjia Xi, Hao Zhang, Qiguang Dai, Xingyi Wang, Yanglong Guo</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcata.2024.119975</guid>
+    </item>
+    <item>
+      <title>Research Progress in Structure Evolution and Durability Modulation of Ir&#8208; and Ru&#8208;Based OER Catalysts under Acidic Conditions</title>
+      <link>https://doi.org/10.1002/smll.202406657</link>
+      <description>You Zi, Chengxu Zhang, Jian-Qiang Zhao, Ying Cheng, Jinliang Yuan, Jue Hu, Small. None(None)] 2024. https://openalex.org/W4403170675
+
+                Abstract Green hydrogen energy, as one of the most promising energy carriers, plays a crucial role in addressing energy and environmental issues. Oxygen evolution reaction catalysts, as the key to water electrolysis hydrogen production technology, have been subject to durability constraints, preventing large&#8208;scale commercial development. Under the high current density and harsh acid&#8208;base electrolyte conditions of the water electrolysis reaction, the active metals in the catalysts are easily converted into high&#8208;valent soluble species to dissolve, leading to poor structural durability of the catalysts. There is an urgent need to overcome the durability challenges under acidic conditions and develop electrocatalysts with both high catalytic activity and high durability. In this review, the latest research results are analyzed in depth from both thermodynamic and kinetic perspectives. First, a comprehensive summary of the structural deactivation state process of noble metal oxide catalysts is presented. Second, the evolution of the structure of catalysts possessing high durability is discussed. Finally, four new strategies for the preparation of stable catalysts, &#8220;electron buffer (ECB) strategy&#8221;, combination strength control, strain control, and surface coating, are summarized. The challenges and prospects are also elaborated for the future synthesis of more effective Ru/Ir&#8208;based catalysts and boost their future application.</description>
+      <author>You Zi, Chengxu Zhang, Jian-Qiang Zhao, Ying Cheng, Jinliang Yuan, Jue Hu</author>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202406657</guid>
     </item>
     <item>
       <title>Interaction of H2S with perfect and O-covered Pd(100) surface: A first-principles study</title>

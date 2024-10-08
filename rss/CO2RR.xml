@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Oct 2024 01:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 01:20:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -88,6 +88,16 @@
       <guid isPermaLink="true">https://doi.org/10.31705/cers.2024.28</guid>
     </item>
     <item>
+      <title>Understanding the Electrochemical Carbon Dioxide Reduction Reaction Mechanism of Lattice Tuning of Copper by Silver Single&#8208;Crystal Surface</title>
+      <link>https://doi.org/10.1002/cphc.202400757</link>
+      <description>Tao Zheng, Xia&#8208;Guang Zhang, ChemPhysChem. None(None)] 2024. https://openalex.org/W4403140632
+
+                Intermolecular interactions and adsorbate coverage on a metal electrode's surface/interface play an important role in CO2 reduction reaction (CO2RR). Herein, the activity and selectivity of CO2RR on bimetallic electrode, where a full monoatomic Cu layer covers on Ag surface (CuML/Ag) are investigated by using density functional theory calculations. The surface geometric and electronic structure results indicate that there is high electrocatalytic activity for CO2RR on the CuML/Ag electrode. Specifically, the CuML/Ag surface can accelerate the H2O and CO2 adsorption and hydrogenation while lowering the reaction energy of the rate&#8208;determining step. The structure parameters of chemisorbed CO2 with and without H2O demonstrate that activated H2O not only promotes the C&#8208;O dissociation but also provides the protons required for CO2RR on the CuML/Ag electrode surface. Furthermore, the various reaction mechanism diagrams indicate that the CuML/Ag electrode has high selectivity for CO2RR, and the efficiency of products can be regulated by modulating the reaction's electric potential.</description>
+      <author>Tao Zheng, Xia&#8208;Guang Zhang</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cphc.202400757</guid>
+    </item>
+    <item>
       <title>Graphene-Based Photocatalysts for CO2 Reduction</title>
       <link>https://doi.org/10.1007/978-3-031-66260-7_29</link>
       <description>Jos&#233; M. Barrera&#8208;Andrade, Elim Albiter, Miguel A. Valenzuela, E. Rojas Garc&#237;a, Advanced structured materials. None(None)] 2024. https://openalex.org/W4403072741
@@ -118,6 +128,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401832</guid>
     </item>
     <item>
+      <title>Research progress of copper-based catalysts for CO2 electrochemical reduction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.09.304</link>
+      <description>Yan Jia, Weixiu Song, Zhenli Zhao, Manyu Zhang, Yan Jing Wu, Lianhong Zhang, International Journal of Hydrogen Energy. 89(None)] 2024. https://openalex.org/W4403030261
+
+                No abstract</description>
+      <author>Yan Jia, Weixiu Song, Zhenli Zhao, Manyu Zhang, Yan Jing Wu, Lianhong Zhang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.304</guid>
+    </item>
+    <item>
       <title>Cu-Modified Nb2o5 Photocatalysts for High Performance of Co2 Reduction</title>
       <link>https://doi.org/10.2139/ssrn.4974364</link>
       <description>Junli Chen, Tao Wang, Ziqi Yang, Pan Gao, No host. None(None)] 2024. https://openalex.org/W4403069376
@@ -138,36 +158,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2024.100308</guid>
     </item>
     <item>
-      <title>Research progress of copper-based catalysts for CO2 electrochemical reduction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.09.304</link>
-      <description>Yan Jia, Weixiu Song, Zhenli Zhao, Manyu Zhang, Yan Jing Wu, Lianhong Zhang, International Journal of Hydrogen Energy. 89(None)] 2024. https://openalex.org/W4403030261
-
-                No abstract</description>
-      <author>Yan Jia, Weixiu Song, Zhenli Zhao, Manyu Zhang, Yan Jing Wu, Lianhong Zhang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.304</guid>
-    </item>
-    <item>
-      <title>Effect of Interfacial Electric Field on 2D Metal/Graphene Electrocatalysts for CO2 Reduction Reaction</title>
-      <link>https://doi.org/10.1002/cssc.202401673</link>
-      <description>Jinwon Cho, Faisal M. Alamgir, Seung Soon Jang, ChemSusChem. None(None)] 2024. https://openalex.org/W4402966995
-
-                Understanding the influence of local electric fields on electrochemical reactions is crucial for designing highly selective electrocatalysts for CO2 reduction reactions (CO2RR). In this study, we provide a theoretical investigation of the effect of the local electric field induced by the negative&#8208;biased electrode and cations in the electrolyte on the energetics and reaction kinetics of CO2RR on 2D hybrid metal/graphene electrocatalysts. Our findings reveal that the electronic structures of the CO2 molecule undergo substantial modification, resulting in the increased adsorption energy of CO&#173;2 on metal/graphene structures, thus reducing the initial barrier of the CO2RR mechanism. This field&#8208;assisted CO2RR mechanism promotes CO production while suppressing HCOOH production. Our findings highlight the potential of manipulating electric fields to tailor the pathways of CO2RR, providing new avenues designing selective electrocatalysts.</description>
-      <author>Jinwon Cho, Faisal M. Alamgir, Seung Soon Jang</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401673</guid>
-    </item>
-    <item>
-      <title>Strained Cu(111) surface can be catalytic efficient for C&#8211;C coupling in CO2 electrochemical reduction</title>
-      <link>https://doi.org/10.1063/5.0216818</link>
-      <description>Yunfang Xu, Y. L. Han, Lixin Zhang, AIP Advances. 14(10)] 2024. https://openalex.org/W4403032159
-
-                It is well accepted that the Cu(100) surface is catalytic active for C&#8211;C coupling in CO2 reduction. However, the (100) surface is less active for the preceding CO* formation process and, most importantly, less stable than other surfaces. In this work, we investigate the relationship between catalytic effects and general factors such as coordination number and spacing (strain) of the Cu surface atoms. We find that the former affects the CO* formation only and the latter affects both the CO* formation and the subsequent C&#8211;C coupling. Among all the strained surfaces with larger atomic spacing, the more stable Cu(111) surface is extraordinary and outperforms Cu(100) and the high index surfaces for CO2 reduction to C2 on Cu.</description>
-      <author>Yunfang Xu, Y. L. Han, Lixin Zhang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0216818</guid>
-    </item>
-    <item>
       <title>A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.161421</link>
       <description>Xiaowen Wang, Fei Ma, Haiqiao Wei, Jiaying Pan, Wenjia Li, Jun Zhao, Xiaotao Yang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4403117340
@@ -178,34 +168,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161421</guid>
     </item>
     <item>
-      <title>Precise Synthesis of Dual&#8208;single&#8208;atom Electrocatalysts through Pre&#8208;coordination&#8208;directed in situ Confinement for CO2 Reduction</title>
-      <link>https://doi.org/10.1002/anie.202415223</link>
-      <description>Peng Rao, Xing&#8208;Qi Han, Haochen Sun, Fangyuan Wang, Ying Liang, Jing Li, Daoxiong Wu, Xiaodong Shi, Zhenye Kang, Zhengpei Miao, Peilin Deng, Xinlong Tian, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4402962730
+      <title>Strained Cu(111) surface can be catalytic efficient for C&#8211;C coupling in CO2 electrochemical reduction</title>
+      <link>https://doi.org/10.1063/5.0216818</link>
+      <description>Yunfang Xu, Y. L. Han, Lixin Zhang, AIP Advances. 14(10)] 2024. https://openalex.org/W4403032159
 
-                Dual&#8208;single&#8208;atom catalysts (DSACs) are the next paradigm shift in single&#8208;atom catalysts because of the enhanced performance brought about by the synergistic effects between adjacent bimetallic pairs. However, there are few methods for synthesizing DSACs with precise bimetallic structures. Herein, a pre&#8208;coordination strategy is proposed to precisely synthesize a library of DSACs. This strategy ensures the selective and effective coordination of two metals via phthalocyanines with specific coordination sites, such as &#8211;F&#8211; and &#8211;OH&#8211;. Subsequently, in&#8208;situ confinement inhibits the migration of metal pairs during high&#8208;temperature pyrolysis, and obtains the DSACs with precisely constructed metal pairs. Despite changing synthetic parameters, including transition metal centers, metal pairs, and spatial geometry, the products exhibit similar atomic metal pairs dispersion properties, demonstrating the universality of the strategy. The pre&#8208;coordination strategy synthesized DSACs shows significant CO2 reduction reaction performance in both flow&#8208;cell and practical rechargeable Zn&#8208;CO2 batteries. This work not only provides new insights into the precise synthesis of DSACs, but also offers guidelines for the accelerated discovery of efficient catalysts.</description>
-      <author>Peng Rao, Xing&#8208;Qi Han, Haochen Sun, Fangyuan Wang, Ying Liang, Jing Li, Daoxiong Wu, Xiaodong Shi, Zhenye Kang, Zhengpei Miao, Peilin Deng, Xinlong Tian</author>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202415223</guid>
-    </item>
-    <item>
-      <title>Precise Synthesis of Dual&#8208;single&#8208;atom Electrocatalysts through Pre&#8208;coordination&#8208;directed in situ Confinement for CO2 Reduction</title>
-      <link>https://doi.org/10.1002/ange.202415223</link>
-      <description>Peng Rao, Xing&#8208;Qi Han, Haochen Sun, Fangyuan Wang, Ying Liang, Jing Li, Daoxiong Wu, Xiaodong Shi, Zhenye Kang, Zhengpei Miao, Peilin Deng, Xinlong Tian, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4402962769
-
-                Dual&#8208;single&#8208;atom catalysts (DSACs) are the next paradigm shift in single&#8208;atom catalysts because of the enhanced performance brought about by the synergistic effects between adjacent bimetallic pairs. However, there are few methods for synthesizing DSACs with precise bimetallic structures. Herein, a pre&#8208;coordination strategy is proposed to precisely synthesize a library of DSACs. This strategy ensures the selective and effective coordination of two metals via phthalocyanines with specific coordination sites, such as &#8211;F&#8211; and &#8211;OH&#8211;. Subsequently, in&#8208;situ confinement inhibits the migration of metal pairs during high&#8208;temperature pyrolysis, and obtains the DSACs with precisely constructed metal pairs. Despite changing synthetic parameters, including transition metal centers, metal pairs, and spatial geometry, the products exhibit similar atomic metal pairs dispersion properties, demonstrating the universality of the strategy. The pre&#8208;coordination strategy synthesized DSACs shows significant CO2 reduction reaction performance in both flow&#8208;cell and practical rechargeable Zn&#8208;CO2 batteries. This work not only provides new insights into the precise synthesis of DSACs, but also offers guidelines for the accelerated discovery of efficient catalysts.</description>
-      <author>Peng Rao, Xing&#8208;Qi Han, Haochen Sun, Fangyuan Wang, Ying Liang, Jing Li, Daoxiong Wu, Xiaodong Shi, Zhenye Kang, Zhengpei Miao, Peilin Deng, Xinlong Tian</author>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202415223</guid>
-    </item>
-    <item>
-      <title>Co Cluster-Modified Ni Nanoparticles with Superior Light-Driven Thermocatalytic Co2 Reduction by Ch4</title>
-      <link>https://doi.org/10.2139/ssrn.4976153</link>
-      <description>Qian Zhang, Mei Li, Yuhua Zhang, Na Sun, Dan Cheng, Peng Sun, Shaowen Wu, No host. None(None)] 2024. https://openalex.org/W4403093962
-
-                No abstract</description>
-      <author>Qian Zhang, Mei Li, Yuhua Zhang, Na Sun, Dan Cheng, Peng Sun, Shaowen Wu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4976153</guid>
+                It is well accepted that the Cu(100) surface is catalytic active for C&#8211;C coupling in CO2 reduction. However, the (100) surface is less active for the preceding CO* formation process and, most importantly, less stable than other surfaces. In this work, we investigate the relationship between catalytic effects and general factors such as coordination number and spacing (strain) of the Cu surface atoms. We find that the former affects the CO* formation only and the latter affects both the CO* formation and the subsequent C&#8211;C coupling. Among all the strained surfaces with larger atomic spacing, the more stable Cu(111) surface is extraordinary and outperforms Cu(100) and the high index surfaces for CO2 reduction to C2 on Cu.</description>
+      <author>Yunfang Xu, Y. L. Han, Lixin Zhang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0216818</guid>
     </item>
     <item>
       <title>Porous nickel-based catalyst doped with fluorine can efficiently electrocatalyze the reduction of CO2 to CO</title>
@@ -238,14 +208,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114591</guid>
     </item>
     <item>
-      <title>Fabrication of mesoporous sulfated ZnO-modified g-C3N4 and TiO2 photocatalysts for CO2 reduction in gas phase</title>
-      <link>https://doi.org/10.1016/j.cattod.2024.115089</link>
-      <description>L.A. Al-Hajji, Adel A. Ismail, M. Alsaidi, Ahmed Abdel Nazeer, Ahmed Mohamed El&#8208;Toni, S.F. Al-Ruwayeh, S.A. Ahmed, T. Al-Sharrah, Catalysis Today. None(None)] 2024. https://openalex.org/W4403157643
+      <title>Co Cluster-Modified Ni Nanoparticles with Superior Light-Driven Thermocatalytic Co2 Reduction by Ch4</title>
+      <link>https://doi.org/10.2139/ssrn.4976153</link>
+      <description>Qian Zhang, Mei Li, Yuhua Zhang, Na Sun, Dan Cheng, Peng Sun, Shaowen Wu, No host. None(None)] 2024. https://openalex.org/W4403093962
 
                 No abstract</description>
-      <author>L.A. Al-Hajji, Adel A. Ismail, M. Alsaidi, Ahmed Abdel Nazeer, Ahmed Mohamed El&#8208;Toni, S.F. Al-Ruwayeh, S.A. Ahmed, T. Al-Sharrah</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115089</guid>
+      <author>Qian Zhang, Mei Li, Yuhua Zhang, Na Sun, Dan Cheng, Peng Sun, Shaowen Wu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4976153</guid>
     </item>
     <item>
       <title>Rare-earth metal neodymium anchored into graphene as a promising CO2 reduction electrocatalyst by regulating the coordination environment</title>
@@ -256,6 +226,16 @@
       <author>Siying Liu, Huohai Yang, Xingbo Ge, Yingjie Feng, Xiaoyue Fu, Xin Chen</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105203</guid>
+    </item>
+    <item>
+      <title>Fabrication of mesoporous sulfated ZnO-modified g-C3N4 and TiO2 photocatalysts for CO2 reduction in gas phase</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.115089</link>
+      <description>L.A. Al-Hajji, Adel A. Ismail, M. Alsaidi, Ahmed Abdel Nazeer, Ahmed Mohamed El&#8208;Toni, S.F. Al-Ruwayeh, S.A. Ahmed, T. Al-Sharrah, Catalysis Today. None(None)] 2024. https://openalex.org/W4403157643
+
+                No abstract</description>
+      <author>L.A. Al-Hajji, Adel A. Ismail, M. Alsaidi, Ahmed Abdel Nazeer, Ahmed Mohamed El&#8208;Toni, S.F. Al-Ruwayeh, S.A. Ahmed, T. Al-Sharrah</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115089</guid>
     </item>
     <item>
       <title>Photoirradiation-enhanced behavior via morphological manipulation of CoFe2O4/g-C3N4 heterojunction for supercapacitor and CO2 reduction</title>
@@ -298,6 +278,16 @@
       <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1448700</guid>
     </item>
     <item>
+      <title>Important structural parameter for curvature effect of TM-N4 embeded C70 fullerenes as electrocatalysts for CO2 reduction interpreted with machine learning and first-principles calculations</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105233</link>
+      <description>Aling Ma, Zongpeng Ding, YuShan Pang, Guohong Fan, Hong Xu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4403168428
+
+                No abstract</description>
+      <author>Aling Ma, Zongpeng Ding, YuShan Pang, Guohong Fan, Hong Xu</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105233</guid>
+    </item>
+    <item>
       <title>Carbon Capture and Storage Via Electrochemical and Bioelectrochemical Techniques: A Review</title>
       <link>https://doi.org/10.4314/cajost.v6i2.3</link>
       <description>John Tsado Mathew, Abel Inobeme, Yakubu Azeh, Musah Monday, Abdullahi Abdulkadir, Elijah Yanda Shaba, M. B. Etsuyankpa, Tanko S. Musa, A. I. Muhammad, Hina Ismail, Abubakar Mohammed Kanwa, Amos Mamman, Jonathan Hussaini, Caliphate Journal of Science and Technology. 6(2)] 2024. https://openalex.org/W4403103147
@@ -316,6 +306,16 @@
       <author>Sergey F. Fominykh, Dusan Stanar</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.46793/eee24-1.22f</guid>
+    </item>
+    <item>
+      <title>INTEGRATED TECHNOLOGY OF BIOGAS UTILIZATION OF SOLID HOUSEHOLD WASTE LANDFILLS WITH THE PRODUCTION OF ELECTROCITY, HEAT AND CARBON DIOXIDE</title>
+      <link>https://doi.org/10.33070/etars.3.2024.04</link>
+      <description>Yu.V. Ivanov, Serhii Krushnevych, H.V. Zhuk, &#1051;.&#1056;. &#1054;&#1085;&#1086;&#1087;&#1072;, O.V. Verbovskyi, Dmitrii Komissarenko, Energy Technologies &amp; Resource Saving. 80(3)] 2024. https://openalex.org/W4403167145
+
+                The presence of carbon dioxyl as a non-combustible admixture in the landfill biogas of solid household waste and the absorption of ambient air into the layer of landfill waste, and therefore its entry into the landfill gas, significantly reduces the concentration of methane in it, which affects the efficient operation of the gas piston engine of the power plant and the reduction of volumes electricity generation. With the use of computer modeling for the composition of biogas with an increased content of N2 and a reduced concentration of CH4 &#163; 32 %, calculations were made on the enrichment of biogas to concentrations of CH4 in it of 36&#8211;44 % due to the use of CO2 amine absorption technologies, in which the costs for the regeneration of the absorbent are compensated by the produced thermal energy of the gas piston engine of the power plant. The removal of carbon dioxide from biogas makes it possible to simultaneously increase the concentration of methane in it at the input to the heat engine, which contributes to the stable and efficient operation of the gas piston engine of the power plant and the increase in the amount of electricity generation as a result of energy utilization of landfill gas. The use of complex biogas utilization technology in the cogeneration mode allows obtaining not only electricity, but also heat, which can be used in absorption amine technologies for CO2 extraction from biogas and thus reducing carbon dioxide emissions into the atmosphere. Bibl. 17, Fig. 9, Tab. 3.</description>
+      <author>Yu.V. Ivanov, Serhii Krushnevych, H.V. Zhuk, &#1051;.&#1056;. &#1054;&#1085;&#1086;&#1087;&#1072;, O.V. Verbovskyi, Dmitrii Komissarenko</author>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.33070/etars.3.2024.04</guid>
     </item>
     <item>
       <title>Structural and Reservoir Characteristics of Potential Carbon Dioxide Storage Sites in the Northern South Yellow Sea Basin, Offshore Eastern China</title>
@@ -356,6 +356,26 @@
       <author>Rapha&#235;l J. Labidi, Bruno Faivre, Philippe Carpentier, Julien P&#233;rard, Philipp Gotico, Yun Li, Mohamed Atta, Marc Fontecave</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08927</guid>
+    </item>
+    <item>
+      <title>The Reduction in the Number of CO&lt;sub&gt;2&lt;/sub&gt; Defects in the Process of Obtaining Breathing Air for Hyperbaric Oxygen Conditions</title>
+      <link>https://doi.org/10.2478/phr-2023-0001</link>
+      <description>Arkadiusz Wo&#378;niak, Polish Hyperbaric Research. 82(1)] 2023. https://openalex.org/W4403162272
+
+                Abstract Maintaining a stable carbon dioxide content in the process of obtaining breathing air is essential for safe underwater operations and the reduction of the cost of losses resulting from a poor quality product. The paper addresses the modification of the hyperbaric breathing air production process in terms of eliminating harmful carbon dioxide contaminants. It presents the effects of the modifications made to the process in order to minimise the proportion of defects. A description is given of the status of the process before and after the correction in terms of the identified areas of improvement leading to the achievement of the defined critical requirements of the process. Achievement of the objective to rationalise the breathing air production process was confirmed by results of tests carried out at KTPP AMW 1 based on the compressed air supply system of the DGKN - 120 complex 2 .</description>
+      <author>Arkadiusz Wo&#378;niak</author>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2478/phr-2023-0001</guid>
+    </item>
+    <item>
+      <title>Biomass Loss and Land Use Land Cover from Habitat Conversion in Kahe Forest Reserve, Northern Tanzania</title>
+      <link>https://doi.org/10.9734/ijecc/2024/v14i104500</link>
+      <description>Adili Y. Zella, Luzabeth J. Kitali, International Journal of Environment and Climate Change. 14(10)] 2024. https://openalex.org/W4403132622
+
+                This paper offers a less known biomass depletion and atmospheric carbon emissions due to habitat alteration in the Kahe Forest Reserve (KFR), Northern Tanzania, during a two-decade span (2003&#8211;2023). The paper measures biomass depletion, carbon emissions, carbon dioxide emissions, and the consequent economic effects due to losses in carbon trading. The study used the NAFORMA methodology alongside geospatial analysis to evaluate the ecological and economic impacts of land-use and land-cover alterations inside the reserve. The findings indicate a significant biomass reduction of roughly 23,019.6 tonnes, with corresponding carbon emissions totaling 10,819.2 tonnes. The study quantifies carbon dioxide emissions at 39,706.46 tonnes and assesses a carbon trade loss amounting to US$ 158,825.83. The data underscore the considerable environmental issues confronting KFR, intensified by a 141.4% surge in the human population in the adjacent districts from 1967 to 2022. This demographic pressure has resulted in unlawful agricultural encroachment, although existing protective restrictions, undermining the forest's ecological integrity and carbon sequestration potential. The results highlight the immediate necessity for action to prevent additional habitat deterioration and biodiversity decline. The study concludes with multiple policy recommendations, such as strengthened enforcement of forest protection measures, enhanced community engagement and education, promotion of sustainable agricultural practices beyond the reserve, restoration initiatives, and the incorporation of KFR into global carbon markets. These measures are essential for preserving the ecological integrity of the reserve and guaranteeing the sustainable stewardship of the region's natural resources.</description>
+      <author>Adili Y. Zella, Luzabeth J. Kitali</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.9734/ijecc/2024/v14i104500</guid>
     </item>
     <item>
       <title>Life Cycle Analysis of a Renovation Project for Old Housing in Tashkent to Reduce Greenhouse Gas Emissions</title>
@@ -468,16 +488,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/ma17194764</guid>
     </item>
     <item>
-      <title>Performance Evaluation of CO2 + SiCl4 Binary Mixture in Recompression Brayton Cycle for Warm Climates</title>
-      <link>https://doi.org/10.3390/pr12102155</link>
-      <description>Muhammad Ehtisham Siddiqui, Khalid H. Almitani, Processes. 12(10)] 2024. https://openalex.org/W4403106930
-
-                This work demonstrates the potential of CO2 + SiCl4 binary mixture as a working fluid for power generation cycle. Recompression Brayton cycle configuration is considered due to its proven record of high performance for medium- to high-temperature sources. The objective of this study is to assess the thermodynamic performance of a recompression Brayton cycle using a CO2 + SiCl4 binary mixture as a working fluid, particularly under warm climate conditions. The cycle is simulated using the Peng&#8211;Robinson equation of state in Aspen Hysys (v11) software, and the model is validated by comparing VLE data against experimental data from the literature. The analysis involves the assessment of cycle&#8217;s thermal efficiency and exergy efficiency under warm climatic conditions, with a minimum cycle temperature of 40 &#176;C. The results demonstrate a notable improvement in the cycle&#8217;s thermodynamic performance with CO2 + SiCl4 binary mixture compared to pure CO2. A small concentration (5%) of SiCl4 in CO2 increases the thermal efficiency of the cycle from 41.7% to 43.4%. Moreover, irreversibility losses in the cooler and the heat recovery unit are significantly lower with the CO2 + SiCl4 binary mixture than with pure CO2. This improvement enhances the overall exergy efficiency of the cycle, increasing it from 62.1% to 70.2%. The primary reason for this enhancement is the substantial reduction in irreversibility losses in both the cooler and the HTR. This study reveals that when using a CO2 + SiCl4 mixture, the concentration must be optimized to avoid condensation in the compressor, which can cause physical damage to the compressor blades and other components, as well as increase power input. This issue arises from the higher glide temperature of the mixture at increased SiCl4 concentrations and the limited heat recovery from the cycle.</description>
-      <author>Muhammad Ehtisham Siddiqui, Khalid H. Almitani</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/pr12102155</guid>
-    </item>
-    <item>
       <title>Photocatalytic CO2 Reduction to CO Catalysed by Lanthanide Complexes</title>
       <link>https://doi.org/10.1039/d4cc03175j</link>
       <description>Yingzhe Zhao, Jianling Zhang, Haoxiang Wang, Renjie Zhang, Yunan Teng, Meiling Li, Yi Song, Zhonghao Tan, Chemical Communications. None(None)] 2024. https://openalex.org/W4403005889
@@ -486,6 +496,16 @@
       <author>Yingzhe Zhao, Jianling Zhang, Haoxiang Wang, Renjie Zhang, Yunan Teng, Meiling Li, Yi Song, Zhonghao Tan</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4cc03175j</guid>
+    </item>
+    <item>
+      <title>Performance Evaluation of CO2 + SiCl4 Binary Mixture in Recompression Brayton Cycle for Warm Climates</title>
+      <link>https://doi.org/10.3390/pr12102155</link>
+      <description>Muhammad Ehtisham Siddiqui, Khalid H. Almitani, Processes. 12(10)] 2024. https://openalex.org/W4403106930
+
+                This work demonstrates the potential of CO2 + SiCl4 binary mixture as a working fluid for power generation cycle. Recompression Brayton cycle configuration is considered due to its proven record of high performance for medium- to high-temperature sources. The objective of this study is to assess the thermodynamic performance of a recompression Brayton cycle using a CO2 + SiCl4 binary mixture as a working fluid, particularly under warm climate conditions. The cycle is simulated using the Peng&#8211;Robinson equation of state in Aspen Hysys (v11) software, and the model is validated by comparing VLE data against experimental data from the literature. The analysis involves the assessment of cycle&#8217;s thermal efficiency and exergy efficiency under warm climatic conditions, with a minimum cycle temperature of 40 &#176;C. The results demonstrate a notable improvement in the cycle&#8217;s thermodynamic performance with CO2 + SiCl4 binary mixture compared to pure CO2. A small concentration (5%) of SiCl4 in CO2 increases the thermal efficiency of the cycle from 41.7% to 43.4%. Moreover, irreversibility losses in the cooler and the heat recovery unit are significantly lower with the CO2 + SiCl4 binary mixture than with pure CO2. This improvement enhances the overall exergy efficiency of the cycle, increasing it from 62.1% to 70.2%. The primary reason for this enhancement is the substantial reduction in irreversibility losses in both the cooler and the HTR. This study reveals that when using a CO2 + SiCl4 mixture, the concentration must be optimized to avoid condensation in the compressor, which can cause physical damage to the compressor blades and other components, as well as increase power input. This issue arises from the higher glide temperature of the mixture at increased SiCl4 concentrations and the limited heat recovery from the cycle.</description>
+      <author>Muhammad Ehtisham Siddiqui, Khalid H. Almitani</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/pr12102155</guid>
     </item>
     <item>
       <title>The Effect of Climate Change on Plant Parasitic Nematodes</title>
@@ -576,6 +596,16 @@
       <author>Tian Xia, Julia Raneses, Brixon Schmiesing, Raquel Garc&#237;a&#8208;Esteban, Alison Walding, Richardo DeMajo, Amy J. Schulz, Stuart Batterman</author>
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fpubh.2024.1427116</guid>
+    </item>
+    <item>
+      <title>Hemodynamic Disorders in Alcohol Withdrawal Syndrome</title>
+      <link>https://doi.org/10.17816/pavlovj623055</link>
+      <description>S.I. Utkin, &#1054;. &#1046;. &#1041;&#1091;&#1079;&#1080;&#1082;, I P Pavlov Russian Medical Biological Herald. 32(3)] 2024. https://openalex.org/W4403135275
+
+                INTRODUCTION: The introduction of the study is determined by a high prevalence of alcoholism and a high incidence of complications from the cardiovascular system. AIM: To study the features of hemodynamics in patients with uncomplicated alcohol withdrawal syndrome (AWS) and in those with alcohol withdrawal delirium (delirium tremens). MATERIALS AND METHODS: The study enrolled 116 men, 58 of them with uncomplicated AWS, 78 with AWS and delirium. Basic hemodynamic parameters were studied: heart rate (HR), blood pressure (BP), and integral parameters &#8212; cardiac index (CI), total peripheral resistance (TPR), shock index (SI). Comparisons between the groups and correlation analysis were conducted to find relationships between hemodynamic parameters and clinical data. RESULTS: In patients with alcoholic delirium, hemodynamic parameters were statistically significantly higher than in patients with uncomplicated AWS: HR (&#1088; = 0.003), systolic BP (&#1088; = 0.02) and diastolic BP (&#1088; = 0.04), while no statistically significant differences in the integral parameters (CI, TPR, SI) were found between the groups. In patients of both groups, CI linearly decreased with age (p 0.0001). The same linearly CI decreased with increase in the duration of alcoholism (p = 0.02). With an increase in the amount of consumed alcohol during the binge period, a linear growth of CI was observed in withdrawal state (p = 0.001). The value of TPR increased with age (p = 0.005). Only in patients with delirium tremens, there was an inverse relationship between SI and partial tension of carbon dioxide in venous blood (r = -0.4; p = 0.014). Besides, only in patients with delirium tremens, by the 7th day of withdrawal, a direct relationship was established between the cardiac index and blood potassium level (r = 0.36; p = 0.03). CONCLUSIONS: There was no significant difference between hemodynamic parameters in uncomplicated AWS and in delirium tremens. CI in patients with uncomplicated AWS and in those with DT decreased with age and with increase in the alcohol load. The vessel tone was inversely proportional to CI throughout the entire period of observation. With the development of delirium, a correlation was noted between a decrease in the level of energy metabolism and the probability for decompensation of systemic circulation. At the stage of reduction of delirium tremens, a correlation was noted between CI and the blood potassium level that reflected the exhaustion of the cardiovascular system and reduction of its compensatory capacities.</description>
+      <author>S.I. Utkin, &#1054;. &#1046;. &#1041;&#1091;&#1079;&#1080;&#1082;</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.17816/pavlovj623055</guid>
     </item>
     <item>
       <title>Effect of Customized Fertilizer Formulations on Brinjal (Solanum melongena L.) under Sodic Soil</title>
@@ -738,16 +768,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401663</guid>
     </item>
     <item>
-      <title>Energy Efficiency and Sustainability in Food Retail Buildings: Introducing a Novel Assessment Framework</title>
-      <link>https://doi.org/10.3390/en17194882</link>
-      <description>Simone Forastiere, Cristina Piselli, Andrea Silei, Fabio Sciurpi, Anna Laura Pisello, Franco Cotana, Carla Balocco, Energies. 17(19)] 2024. https://openalex.org/W4402964044
-
-                One of the primary global objectives is to decrease building energy consumption to promote energy efficiency and environmental sustainability. The large-scale food retail trade sector accounts for over 15% of total primary energy consumption in Europe, posing a significant challenge to the transition towards green energy. This study proposes a simple method for energy efficiency, environmental sustainability, and cost-saving assessment and improvement in large-scale food retail trade buildings. It aims to analyze the energy and environmental performance of building&#8211;plant systems, establishing an interactive network to assess intervention potential for the energy transition. The investigation focuses on the proper selection and analysis of the benefits of retrofit solution implementation, emphasizing potential energy savings in current and future climate change scenarios. Dynamic simulation with the Building Energy Model (BEM) was used to evaluate the impacts of building&#8211;plant system retrofit solutions, such as high thermal insulation, photovoltaic (PV) panels, Light Emitting Diode (LED) installation, waste heat recovery, and improvement in refrigeration units. The results show a reduction in annual energy consumption for the PV panel installation by up to 29% and lighting systems with high-quality LED to 60%. Additionally, CO2 emissions can be decreased by up to 41% by combining these two strategies.</description>
-      <author>Simone Forastiere, Cristina Piselli, Andrea Silei, Fabio Sciurpi, Anna Laura Pisello, Franco Cotana, Carla Balocco</author>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17194882</guid>
-    </item>
-    <item>
       <title>Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production</title>
       <link>https://doi.org/10.1002/ange.202416878</link>
       <description>Ziming Su, Xiangyu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Xiaotian Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403140466
@@ -766,26 +786,6 @@
       <author>Christian Go&#223;rau, Nils Holger Petersen, L. de la Cruz-May, Manfred Wirsum, Alexander Lampkowski, Ariel Sch&#246;nberger Alvarez, J. Classen, Stefan Pischinger</author>
       <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.33737/gpps24-tc-088</guid>
-    </item>
-    <item>
-      <title>Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production</title>
-      <link>https://doi.org/10.1002/anie.202416878</link>
-      <description>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403141185
-
-                One&#8208;dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard&#8208;soft acids&#8208;bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure&#8208;regulating agent and morphology&#8208;directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu&#8208;SR bond. Due to the combined advantages of amorphous structure and one&#8208;dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu&#8208;based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.</description>
-      <author>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202416878</guid>
-    </item>
-    <item>
-      <title>Monitoring and adjustments of combustion parameters in reheating furnaces using a digital tool</title>
-      <link>https://doi.org/10.70342/dyin3512</link>
-      <description>K&#225;ssio Nogueira Can&#231;ado, Aristides Almeida Rocha, Rafaela Rapalo, Paula Pomaro, Lis Nunes Soares, No host. 1(2)] 2024. https://openalex.org/W4402964415
-
-                Improving the energy efficiency of a reheating furnace is not a simple task because it involves a large number of parameters that, most of the time, are connected in a complex way. To be feasible, the evaluation of such a vast number of variables must be supported by digital tools that are embedded with artificial intelligence. The SMS group has developed a digital tool that effectively supports operators and engineers in enhancing energy efficiency within the reheating furnaces of hot rolling mills. This paper presents a quick study case of the use of Viridis Performance, an application of Viridis Energy &amp; Sustainability Suite, in the analysis and correction of the deviations in the air-gas ratio of a reheating furnace. In this study, a production period of 8 hours was evaluated, during which the air-gas ratio presented a significant deviation. Analysis showed that the probable cause of the deviation was a production stoppage where the furnace control was set to manual mode. A reduction potential of 0.26 Gcal/h and a 13 kg/h decrease in CO2 emissions were identified. Viridis Performance would support the process by guiding the decisions of the operator in a way that energy losses would be avoided or minimized. The potential economic savings were also quantified. This task is performed in the system by Viridis Moneybox, which is another application of Viridis Energy &amp; Sustainability Suite. The results showed potential savings of 13 US $/h. In addition to the gains and savings outlined in this study, the utilization of Viridis Performance encompasses numerous other advantages, such as enhanced operational standardization and improved process capability, to name just a few.</description>
-      <author>K&#225;ssio Nogueira Can&#231;ado, Aristides Almeida Rocha, Rafaela Rapalo, Paula Pomaro, Lis Nunes Soares</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.70342/dyin3512</guid>
     </item>
     <item>
       <title>Accelerated training of deep learning surrogate models for surface

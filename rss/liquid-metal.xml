@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Oct 2024 01:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 01:20:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,16 +16,6 @@
       <author>Aaditya Hari Bharanidharan, Kyle McGaugh, Aime Laurent Twizeriman, Kaylen Ocampo, G&#246;tz Veser, Mohammad S. Masnadi</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106800</guid>
-    </item>
-    <item>
-      <title>Microwave-powered liquid metal depolymerization for plastic upcycling</title>
-      <link>https://doi.org/10.21203/rs.3.rs-3550378/v1</link>
-      <description>Jianye Gao, Jun Zhao, Zerong Xing, Minghui Guo, Haijiao Xie, Wangjing Ma, Jing Liu, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4402956622
-
-                Abstract Upcycling waste plastics is highly promising to tackle the global white pollution while achieving sustainable development. However, prevailing approaches often encounter challenges in scalable engineering practices due to either insufficient capability or arduousness in separation, recovery, and purification of catalysts, which inevitably augments the cost of plastic upcycling. Here, we present the microwave-powered liquid metal synergetic depolymerization to facilitate low-cost plastic upcycling. By leveraging the fluidity of liquid metals and their exceptional chemical-bond activation ability under microwave field, this method efficiently converts various polyolefins into narrowband hydrocarbon oil (Oil yield: 81 wt% for PP, 85.9 wt% for PE) and high-value olefin monomers (C2-4= selectivity: 50% for PE, 65.3% for PP) over 30 successive cycles, resulting in a high turnover frequency of 2.83 kgPlastic/mLCatalyst. These captivating advantages offered by electromagnetically-powered liquid metals are also supported by their self-separation features, thereby paving the way for large-scale engineering solutions in waste plastic upcycling.</description>
-      <author>Jianye Gao, Jun Zhao, Zerong Xing, Minghui Guo, Haijiao Xie, Wangjing Ma, Jing Liu</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3550378/v1</guid>
     </item>
   </channel>
 </rss>
