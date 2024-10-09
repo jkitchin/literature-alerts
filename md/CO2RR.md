@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Tue Oct  8 01:20:11 2024
+Created on Wed Oct  9 01:19:43 2024
 
-Found 85 results from 2024-10-01 to 2024-10-08
+Found 72 results from 2024-10-02 to 2024-10-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Intrinsic Electron Transfer in Heteronuclear Dual‐Atom Sites Facilitates Selective Electrocatalytic Carbon Dioxide Reduction   
-
-OpenAlex: https://openalex.org/W4402993961    
-Open access: False
-    
-[Qi Tang](https://openalex.org/A5101926099), [Qi Hao](https://openalex.org/A5101853152), [Qian Zhu](https://openalex.org/A5086452619), [Junxiu Wu](https://openalex.org/A5020591091), [Keke Huang](https://openalex.org/A5058587719), [Kai Liu](https://openalex.org/A5100399849), [Jun Lü](https://openalex.org/A5100674628), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202403778.
-    
-Abstract The metal–metal (M 1 –M 2 ) interactions in heteronuclear dual‐atom catalysts (HNDACs) significantly optimize the electronic properties of the active sites, resulting in the promotion of the reaction kinetics in electrocatalysis. However, the regulation mechanisms in these M 1 –M 2 dual‐atom sites still remain unclear. Herein, the intrinsic electron transfer in Fe–Zn dual‐atom sites are revealed for facilitating electrocatalytic carbon dioxide reduction (ECO 2 R) to carbon monoxide (CO). The electronegativity difference between the Fe and Zn centers induces the specific electron transfer from Zn to Fe, which regulates the electron structures of the active Zn sites, leading to the optimized reaction pathway of CO 2 ‐to‐CO conversion on these sites. The Fe–Zn HNDAC (FeZnNC) exhibits superior ECO 2 R performances than the single‐atom Fe/Zn catalysts (FeNC and ZnNC) in the typical H‐cell system, the maximum CO partial current density on FeZnNC reaches more than 3.3 and 1.8 folds of those on FeNC and ZnNC, respectively. More importantly, in a strongly acidic medium (pH = 1), FeZnNC achieves CO Faradaic efficiencies greater than 94% in the current density range of 100–400 mA cm −2 . This work uncovers the intrinsic electron transfer at the heteronuclear diatomic sites, providing new insights for the rational design of high‐performance HNDACs toward industrial electrocatalysis.    
-
-    
 
 ## Ugi's amine based coordination polymers as a synergistic catalysts for electrocatalytic reduction of carbon dioxide   
 
@@ -84,6 +73,17 @@ The incorporation of transition‐metal single atoms as molecular functional ent
 
     
 
+## Carbon Dioxide and Nitrate Reduction Reactions Tailoring Kinetics Over Cu2o with Mesoporous Carbon Channels for Boosting Electrocatalytic Urea Synthesis   
+
+OpenAlex: https://openalex.org/W4403183577    
+Open access: False
+    
+[Jiamin Zhao](https://openalex.org/A5100709035), [Ying Yuan](https://openalex.org/A5019381699), [Meimei Kou](https://openalex.org/A5104339006), [Jinsheng Zhao](https://openalex.org/A5074336795), [Wei Lin](https://openalex.org/A5103152647), [Jinsheng Zhao](https://openalex.org/A5074336795), [Panagiotis Tsiakaras](https://openalex.org/A5047349369), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4978955.
+    
+No abstract    
+
+    
+
 ## Effect of urban vegetation cover on CO2 reduction in the city   
 
 OpenAlex: https://openalex.org/W4403140935    
@@ -112,17 +112,6 @@ OpenAlex: https://openalex.org/W4403072741
 Open access: False
     
 [José M. Barrera‐Andrade](https://openalex.org/A5055420228), [Elim Albiter](https://openalex.org/A5014043779), [Miguel A. Valenzuela](https://openalex.org/A5076263633), [E. Rojas García](https://openalex.org/A5063052194), Advanced structured materials. None(None)] 2024.https://doi.org/10.1007/978-3-031-66260-7_29.
-    
-No abstract    
-
-    
-
-## Tandem electrocatalysis for CO2 reduction to multi-carbons   
-
-OpenAlex: https://openalex.org/W4403005598    
-Open access: False
-    
-[X. N. Li](https://openalex.org/A5102715021), [Tianxiang Yan](https://openalex.org/A5045124309), [Yichen Meng](https://openalex.org/A5001369399), [Zhanpeng Liang](https://openalex.org/A5102665350), [Tianying Zhang](https://openalex.org/A5000657358), [Haoyuan Chi](https://openalex.org/A5018909513), [Ziting Fan](https://openalex.org/A5008104343), [Yifan Jin](https://openalex.org/A5008657732), [Haoran Zhang](https://openalex.org/A5101413103), [Sheng Zhang](https://openalex.org/A5100394033), Science China Chemistry. None(None)] 2024.https://doi.org/10.1007/s11426-024-2144-0.
     
 No abstract    
 
@@ -161,14 +150,14 @@ No abstract
 
     
 
-## CO2 electrochemical reduction to formic acid: An overview of process sustainability   
+## Strained Cu(111) surface can be catalytic efficient for C–C coupling in CO2 electrochemical reduction   
 
-OpenAlex: https://openalex.org/W4402999323    
-Open access: False
+OpenAlex: https://openalex.org/W4403032159    
+Open access: True
     
-[Zeyad M. Ghazi](https://openalex.org/A5107668608), [Dina Ewis](https://openalex.org/A5066670339), [Hazim Qiblawey](https://openalex.org/A5070862521), [Muftah H. El‐Naas](https://openalex.org/A5011669590), Carbon Capture Science & Technology. 13(None)] 2024.https://doi.org/10.1016/j.ccst.2024.100308.
+[Yunfang Xu](https://openalex.org/A5102402335), [Y. L. Han](https://openalex.org/A5105697328), [Lixin Zhang](https://openalex.org/A5100427812), AIP Advances. 14(10)] 2024.https://doi.org/10.1063/5.0216818.
     
-No abstract    
+It is well accepted that the Cu(100) surface is catalytic active for C–C coupling in CO2 reduction. However, the (100) surface is less active for the preceding CO* formation process and, most importantly, less stable than other surfaces. In this work, we investigate the relationship between catalytic effects and general factors such as coordination number and spacing (strain) of the Cu surface atoms. We find that the former affects the CO* formation only and the latter affects both the CO* formation and the subsequent C–C coupling. Among all the strained surfaces with larger atomic spacing, the more stable Cu(111) surface is extraordinary and outperforms Cu(100) and the high index surfaces for CO2 reduction to C2 on Cu.    
 
     
 
@@ -183,34 +172,12 @@ No abstract
 
     
 
-## Strained Cu(111) surface can be catalytic efficient for C–C coupling in CO2 electrochemical reduction   
+## Air pollution mitigation and CO2 emission reduction effects of heterogeneous enterprises synergistic agglomeration   
 
-OpenAlex: https://openalex.org/W4403032159    
-Open access: True
-    
-[Yunfang Xu](https://openalex.org/A5102402335), [Y. L. Han](https://openalex.org/A5105697328), [Lixin Zhang](https://openalex.org/A5100427812), AIP Advances. 14(10)] 2024.https://doi.org/10.1063/5.0216818.
-    
-It is well accepted that the Cu(100) surface is catalytic active for C–C coupling in CO2 reduction. However, the (100) surface is less active for the preceding CO* formation process and, most importantly, less stable than other surfaces. In this work, we investigate the relationship between catalytic effects and general factors such as coordination number and spacing (strain) of the Cu surface atoms. We find that the former affects the CO* formation only and the latter affects both the CO* formation and the subsequent C–C coupling. Among all the strained surfaces with larger atomic spacing, the more stable Cu(111) surface is extraordinary and outperforms Cu(100) and the high index surfaces for CO2 reduction to C2 on Cu.    
-
-    
-
-## Porous nickel-based catalyst doped with fluorine can efficiently electrocatalyze the reduction of CO2 to CO   
-
-OpenAlex: https://openalex.org/W4402971244    
+OpenAlex: https://openalex.org/W4403170973    
 Open access: False
     
-[Beifang Lu](https://openalex.org/A5101335981), [Tianxia Liu](https://openalex.org/A5048906150), [Li Jia](https://openalex.org/A5100668226), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.176771.
-    
-No abstract    
-
-    
-
-## Z-scheme ZnIn2S4/CuxO heterostructure on flexible substrate for efficient photothermal catalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4402980246    
-Open access: False
-    
-[Jiping Shi](https://openalex.org/A5083270177), [Liuqing Hua](https://openalex.org/A5071810183), [Lu Ruan](https://openalex.org/A5050887627), [Xingjian Zhang](https://openalex.org/A5100635716), [Zhengdao Li](https://openalex.org/A5101635375), [Fengyun Su](https://openalex.org/A5026722987), [Xin Li](https://openalex.org/A5100353880), [Haiquan Xie](https://openalex.org/A5100959252), [Yong Zhou](https://openalex.org/A5074136896), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.161369.
+[Jiamin Liu](https://openalex.org/A5100327223), [Xiaoyu Ma](https://openalex.org/A5039772760), [Jiaoning Zhang](https://openalex.org/A5062966512), [Chiqun Hu](https://openalex.org/A5073728540), [Qiuqiu Guo](https://openalex.org/A5068545546), Environment Development and Sustainability. None(None)] 2024.https://doi.org/10.1007/s10668-024-05497-2.
     
 No abstract    
 
@@ -233,6 +200,17 @@ OpenAlex: https://openalex.org/W4403093962
 Open access: False
     
 [Qian Zhang](https://openalex.org/A5029731724), [Mei Li](https://openalex.org/A5100331926), [Yuhua Zhang](https://openalex.org/A5101769539), [Na Sun](https://openalex.org/A5101705073), [Dan Cheng](https://openalex.org/A5059984618), [Peng Sun](https://openalex.org/A5100601973), [Shaowen Wu](https://openalex.org/A5054075598), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4976153.
+    
+No abstract    
+
+    
+
+## Electrodeposited Cu2o@Cu Hierarchical Structures for Electrocatalytic Co2 Reduction: Morphological Tuning and Copper Mediation   
+
+OpenAlex: https://openalex.org/W4403176058    
+Open access: False
+    
+[Wang Zhen](https://openalex.org/A5100626308), [Yanmin Zhao](https://openalex.org/A5032386955), [Weirui Chen](https://openalex.org/A5028786427), [Gaozu Liao](https://openalex.org/A5018986225), [Laisheng Li](https://openalex.org/A5101797518), [Jing Wang](https://openalex.org/A5100378635), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4979269.
     
 No abstract    
 
@@ -323,17 +301,6 @@ Open access: False
 [John Tsado Mathew](https://openalex.org/A5085535317), [Abel Inobeme](https://openalex.org/A5062698417), [Yakubu Azeh](https://openalex.org/A5027622259), [Musah Monday](https://openalex.org/A5019284131), [Abdullahi Abdulkadir](https://openalex.org/A5102814551), [Elijah Yanda Shaba](https://openalex.org/A5043282915), [M. B. Etsuyankpa](https://openalex.org/A5043095884), [Tanko S. Musa](https://openalex.org/A5078905516), [A. I. Muhammad](https://openalex.org/A5045091973), [Hina Ismail](https://openalex.org/A5031970670), [Abubakar Mohammed Kanwa](https://openalex.org/A5104939874), [Amos Mamman](https://openalex.org/A5042677157), [Jonathan Hussaini](https://openalex.org/A5104954257), Caliphate Journal of Science and Technology. 6(2)] 2024.https://doi.org/10.4314/cajost.v6i2.3.
     
 The urgent need to mitigate climate change has spurred innovative research in carbon capture and storage (CCS) technologies. Electrochemical approaches utilize electrocatalysis and electrochemical reduction to capture carbon dioxide (CO2) from industrial emissions, demonstrating high selectivity and enabling the production of valuable chemicals and fuels from captured CO2. Bioelectrochemical techniques leverage microorganisms to convert CO2 into biomass or biofuels, enhancing carbon capture efficiency through biological and electrochemical synergy. Integrating bioelectrochemical systems with renewable energy sources provides a carbon-negative pathway, aiding industry decarbonization. This review underscores the transformative potential of these techniques in revolutionizing CCS strategies, emphasizing their role in addressing climate change while fostering a sustainable, circular economy.    
-
-    
-
-## Unravelling the Serbian Energy Transition Puzzle: Driving an Electric Vehicle Result in Higher CO2 Emissions than Driving a Traditional Internal Combustion Engine Counterparty   
-
-OpenAlex: https://openalex.org/W4402974272    
-Open access: True
-    
-[Sergey F. Fominykh](https://openalex.org/A5038125617), [Dusan Stanar](https://openalex.org/A5107652997), Energija Ekonomija Ekologija. XXVI(1)] 2024.https://doi.org/10.46793/eee24-1.22f.
-    
-his article delves into the intriguing paradox emerging in Serbia's transportation landscape, where electric vehicles (EVs) are projected to generate more carbon dioxide (CO2) emissions than internal combustion engine (ICE) until 2030. Driving an EV within Serbia over the upcoming five years is estimated to contribute to roughly 25% more CO2 emissions compared to ICE vehicles. The study unveils the underlying factors behind this paradox, including Serbia's energy mix dominated by lignite. By contrasting this with the European Union's cleaner energy sources, the article underscores the delayed CO2 emissions reduction from EVs in Serbia. Furthermore, it explores the carbon footprint associated with EV production and highlights the challenges posed by the country's energy infrastructure and vehicle fleet. The article concludes with insights into potential solutions, emphasizing the need for Serbia to accelerate its transition to renewables, aiming to align with 2030 targets, while parity with EU emissions levels is projected by 2040.    
 
     
 
@@ -436,6 +403,17 @@ This study analyzes the impact of land use and land cover (LULC) alterations on 
 
     
 
+## The Effects on Climate Change Due to Kitchen Waste Composting and Emissions of Carbon Dioxide   
+
+OpenAlex: https://openalex.org/W4403154375    
+Open access: False
+    
+[Nora’aini Ali](https://openalex.org/A5043105108), [Riaz Husnain](https://openalex.org/A5107767888), [Munir Baber Bakht](https://openalex.org/A5107767889), [Iqbal Tasawar](https://openalex.org/A5107767890), No host. 03(ICCC(special))] 2024.https://doi.org/10.70436/nuijb.v3i02.198.
+    
+The emission of greenhouse gases into the atmosphere due to anthropogenic activities, including the disposal of large quantities of organic kitchen waste into the environment. There is currently no evidence suggesting the likelihood of a future reversal or pause in emissions. The process of carbon sequestration serves to mitigate the emission of greenhouse gases from kitchen organic waste through the creation of compost. Composting is proposed as a potentially effective and cost-efficient solution to address the issue production of kitchen organic waste, which is contributing to environmental pollution. The escalation in complete carbon dioxide and microbial biomass carbon emissions can be attributed to a concurrent reduction in the levels of dissolved organic carbon as the treatments experienced a noteworthy decrease in dissolved organic carbon concentrations. The application of banana and potato compost has been found to have a positive impact on the macro aggregates of soil, leading to an increase in soil stability due to the compost's ability to stabilize soil particles. The study indicate that composting represents the most effective approach for mitigating greenhouse gas emissions originating from kitchen organic waste, while also enhancing the biological and physicochemical characteristics of soil.    
+
+    
+
 ## Development of Sustainable Goals Emissions Reduction Value to Measure Climate Change   
 
 OpenAlex: https://openalex.org/W4403122357    
@@ -491,28 +469,6 @@ Advancements in the reduction of carbon dioxide emissions from ships are driving
 
     
 
-## The role of procurement activities in reducing the hydrocarbon footprint in the Arctic zone of the Russian Federation   
-
-OpenAlex: https://openalex.org/W4402993335    
-Open access: False
-    
-[Alexandra A. Saitova](https://openalex.org/A5046064748), [Enver R. Dzhemilev](https://openalex.org/A5107666108), [Tatyana P. Bozhikova](https://openalex.org/A5107666109), Herald of Omsk University Series Economics. 22(1)] 2024.https://doi.org/10.24147/1812-3988.2024.22(1).50-60.
-    
-One of the main tasks of the modern energy industry is not only to maximize the efficient use of natural energy resources and preserve their diversity, but also to increase the potential of this sector in the stable growth of the state's economy, improving the quality of life of the population and maintaining a favorable environmental situation in the country. Decarbonization, which implies a reduction in carbon dioxide (CO<sub>2</sub>) and methane emissions, is a key challenge facing the global energy industry. The purpose of this study is to assess greenhouse gas emissions produced as a result of the activities of the largest energy companies operating in the Arctic zone of the Russian Federation, namely PJSC LUKOIL and PJSC NOVATEK through the analysis of their policies and measures to reduce the carbon footprint, preserve biological diversity and develop the northern region of Russia, identify links between the conduct of procurement activities and support for the sustainable development of the enterprise, including in the environmental field. In the course of the work, a comparative analysis of the activities of companies in the Arctic zone was carried out, their current and prospective projects were described, data on greenhouse gas emissions of the enterprises in question were structured by year, their procurement policy, the necessary requirements for potential suppliers, implemented educational programs and activities for the development of professional skills of personnel were considered, and additional tools were proposed that they will be able to contribute not only to improving the sustainable development of companies in the Arctic, but also, as a result, conservation of natural diversity in the northern part of the Russian Federation.    
-
-    
-
-## The Biochemistry of Artificial CO2-Fixation Pathways: The Exploitation of Carboxylase Enzymes Alternative to Rubisco   
-
-OpenAlex: https://openalex.org/W4403006956    
-Open access: True
-    
-[Immacolata Tommasi](https://openalex.org/A5017636644), Catalysts. 14(10)] 2024.https://doi.org/10.3390/catal14100679.
-    
-The last decade has registered a rapid development of new artificial CO2-bioconversion processes mirroring natural CO2-fixation by carboxylation and/or reduction reactions. The development of artificial pathways has shown that we have sufficient tools to design and implement, both in vitro and in vivo, complex reaction sequences pointing to construct microbial cell-factories to produce target chemicals at scale. This review is aimed to focus on the most efficient artificial CO2-fixing autotrophic cycles based on the use of carboxylase enzymes that, similarly to Rubisco enzyme, build a C–CO2 bond by reacting an enediolate or an enolate anion with CO2. The development of artificial CO2-fixing autotrophic cycles encompasses the analysis of the complete library of natural carboxylase enzymes taking part in the so called “central” and “assimilation” metabolism to select only those enzymes characterized by high catalytic efficiency, great stability, high substrate affinity, and oxygen tolerability. The review analyzes the biochemistry of the most efficient artificial CO2-fixation pathways implemented up today, evidencing the biosynthetic strategies adopted, the development of replenishing routes, and their integration with cell metabolism.    
-
-    
-
 ## A New Approach for Improving Flame Retardancy of Automotive Interior Upholstery   
 
 OpenAlex: https://openalex.org/W4403074905    
@@ -521,28 +477,6 @@ Open access: False
 [Özlem Erdem Yılmaz](https://openalex.org/A5003241982), [Ali Can Yılmaz](https://openalex.org/A5068006582), [Ahmet Çoşgun](https://openalex.org/A5023710707), Çukurova Üniversitesi Mühendislik Fakültesi Dergisi. None(None)] 2024.https://doi.org/10.21605/cukurovaumfd.1559895.
     
 This study presents the flame retardant (FR) performance of chemically treated automotive upholstery fabrics using two different impregnation methods of Resin Transfer Molding (RTM) and supercritical carbon dioxide (scCO2). Referring to the related standards, untreated seat fabric obtained from seat upholstery of a bus (neat fabric, NF) and treated fabric samples underwent burning rate (BR) and limiting oxygen index (LOI) tests to compare effect of treatment and impregnation methods on FR performance. Thermal analysis was also conducted on the samples considering onset degradation temperatures and char yields. The results showed that BR and LOI of all samples were in acceptable range and treatment provided enhancement in FR performance of NF. The treated sample using scCO2 method gave the highest LOI value of 32% and the lowest BR of 21 mm/min subtending to 18.5% increase in LOI and 30% reduction in BR compared to those of NF. The performance of treatment in RTM was worse than that of scCO2 and better than that of NF. The results confirm that both treatment and methods used in this study give promising results for safety against fire in transportation vehicles.    
-
-    
-
-## Adsorption and Catalytic Reduction of Nitrogen Oxides (NO, N2O) on Disulfide Cluster Complexes of Cobalt and Iron—A Density Functional Study   
-
-OpenAlex: https://openalex.org/W4402990736    
-Open access: True
-    
-[Ellie L. Uzunova](https://openalex.org/A5090426636), [Ivelina Georgieva](https://openalex.org/A5088933747), Materials. 17(19)] 2024.https://doi.org/10.3390/ma17194764.
-    
-The reactivity of nitrogen oxide, NO, as a ligand in complexes with [Fe2-S2] and [Co2-S2] non-planar rhombic cores is examined by density functional theory (DFT). The cobalt-containing nitrosyl complexes are less stable than the iron complexes because the Co-S bonds in the [Co2-S2] core are weakened upon NO coordination. Various positions of NO were examined, including its binding to sulfur centers. The release of NO molecules can be monitored photochemically. The ability of NO to form a (NO)2 dimer provides a favorable route of electrochemical reduction, as protonation significantly stabilizes the dimeric species over the monomers. The quasilinear dimer ONNO, with trans-orientation of oxygen atoms, gains higher stability under protonation and reduction via proton–electron transfer. The first two reduction steps lead to an N2O intermediate, whose reduction is more energy demanding: in the two latter reaction steps the highest energy barrier for Co2S2(CO)6 is 109 kJ mol−1, and for Fe2S2(CO)6, it is 133 kJ mol−1. Again, the presence of favorable light absorption bands allows for a photochemical route to overcome these energy barriers. All elementary steps are exothermic, and the final products are molecular nitrogen and water.    
-
-    
-
-## Photocatalytic CO2 Reduction to CO Catalysed by Lanthanide Complexes   
-
-OpenAlex: https://openalex.org/W4403005889    
-Open access: False
-    
-[Yingzhe Zhao](https://openalex.org/A5013241583), [Jianling Zhang](https://openalex.org/A5088758006), [Haoxiang Wang](https://openalex.org/A5101687637), [Renjie Zhang](https://openalex.org/A5087866064), [Yunan Teng](https://openalex.org/A5102689999), [Meiling Li](https://openalex.org/A5100714696), [Yi Song](https://openalex.org/A5055988117), [Zhonghao Tan](https://openalex.org/A5016948713), Chemical Communications. None(None)] 2024.https://doi.org/10.1039/d4cc03175j.
-    
-Here we demonstrate the efficient CO2 reduction to CO catalysed by lanthanide-based complexes under light irradiation, by which the highest CO evolution rate can reach 78±8 μmol g-1 h-1 in...    
 
     
 
@@ -568,17 +502,6 @@ Climate change is defined as permanent changes in the Earth’s weather conditio
 
     
 
-## Regional impacts of solar radiation modification on surface temperature and precipitation in Mainland Southeast Asia and the adjacent oceans   
-
-OpenAlex: https://openalex.org/W4402982875    
-Open access: True
-    
-[Pornampai Narenpitak](https://openalex.org/A5001927660), [Siriwat Kongkulsiri](https://openalex.org/A5045183820), [Saifhon Tomkratoke](https://openalex.org/A5004990734), [Sirod Sirisup](https://openalex.org/A5067929195), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-73149-6.
-    
-Solar radiation modification (SRM) has been proposed to temporarily reduce anthropogenic warming. This study presents an assessment of the regional impacts of SRM via solar dimming and stratospheric aerosol injection (SAI) on temperature and precipitation over 0°-30° N and 90° E-110° E, covering Mainland Southeast Asia and adjacent oceans. Using data from the Geoengineering Model Intercomparison Project Phase 6 (GeoMIP6), we examine regional impacts of SRM using three SRM experiments: (1) G6Sulfur, which reduces radiative forcing from the high-emission SSP5-8.5 scenario to the moderate-emission SSP2-4.5 scenario by injecting sulfate aerosols; (2) G6Solar, which similarly reduces radiative forcing from the high-emission to moderate-emission scenarios but by uniformly reducing the solar constant; and (3) G1ext, which reduces radiative forcing from a quadrupled carbon dioxide concentration to pre-industrial levels by uniform solar constant reduction. Our findings show that higher greenhouse gas emissions increase overall precipitation, along with tendencies to have extreme rainfall events and more dry episodes in between. While SRM can partially cool down the surface temperature warming caused by increased greenhouse gas emissions, its effects on precipitation are complex: Solar dimming in G6Solar and G1ext tends to reduce overall precipitation, and tropical sulfate injection in G6Sulfur could lead to further drying in the tropics because of the stratospheric warming associated with the injected aerosols. Different SRM strategies might result in different responses on precipitation.    
-
-    
-
 ## Modeling Exhaust Emissions in Older Vehicles in the Era of New Technologies   
 
 OpenAlex: https://openalex.org/W4403027898    
@@ -598,28 +521,6 @@ Open access: False
 [Noel Rouven Stierlin](https://openalex.org/A5096910016), [A Hemmerle](https://openalex.org/A5096941573), [Martin Risch](https://openalex.org/A5084754410), [Lorenz Risch](https://openalex.org/A5049354618), Clinical Chemistry. 70(Supplement_1)] 2024.https://doi.org/10.1093/clinchem/hvae106.123.
     
 Abstract Background This research explores the ecological implications associated with different methods of transporting medical samples, specifically focusing on drones, combustion cars, and electric cars within two laboratories in central European countries. With the primary goal of assessing and comparing CO2 consumption, delivery time, and overall environmental impact, the study aims to provide a basis for adopting sustainable practices in healthcare logistics. Methods The transportation of medical samples occurred between two laboratories in the Principality of Liechtenstein and Switzerland, utilizing authorized aerial and road routes. Various weather conditions and distances were considered for sample transports using different vehicles (8 combustion cars, two electric cars, and one drone model). Energy consumption was documented, and the CO2 footprint was calculated based on data from the Swiss Federal Office for the Environment (FOEN) for both imported and renewable electricity. Comparative analyses were conducted to quantify the environmental impact of each transportation method. Results In terms of CO2 footprint, combustion cars exhibited a CO2 release of 159.5 g/km, while electric cars showed 3.43g (2.15 to 4.08% of combustion cars). Drones demonstrated a minimal 0.09g CO2 emission per kilometer (0.066% of combustion car CO2 emission; 2.6% of electric car CO2 emission). The distance traveled by drones was significantly shorter (16.7% to 50%). Additionally, the efficiency of drone transport was emphasized by its ability to avoid traffic jams and associated detours, resulting in time savings ranging from 31.25 to 50% per delivery when comparing transport times during rush hour and regular hours in the selected setting. Conclusions The integration of drone technology emerges as a crucial strategy for establishing a “green laboratory.” The substantial reduction in CO2 emissions and enhanced delivery efficiency position drone transport as a sustainable and operationally effective solution for medical sample logistics, offering shorter delivery times. These findings highlight the potential for transformative change in healthcare logistics, aligning with the global shift towards sustainability and green practices.    
-
-    
-
-## Assessing Drought Impacts on Gross Primary Productivity of Rubber Plantations Using Flux Observations and Remote Sensing in China and Thailand   
-
-OpenAlex: https://openalex.org/W4402995540    
-Open access: True
-    
-[Weiguang Li](https://openalex.org/A5100393226), [Meiting Hou](https://openalex.org/A5001964018), [Shaojun Liu](https://openalex.org/A5100358850), [Jinghong Zhang](https://openalex.org/A5101730910), [Haiping Zou](https://openalex.org/A5034318393), [Xiaomin Chen](https://openalex.org/A5047124828), [Rui Bai](https://openalex.org/A5006577214), [Run Lv](https://openalex.org/A5068301972), [Wei Hou](https://openalex.org/A5104010914), Forests. 15(10)] 2024.https://doi.org/10.3390/f15101732.
-    
-Rubber (Hevea brasiliensis Muell.) plantations are vital agricultural ecosystems in tropical regions. These plantations provide key industrial raw materials and sequester large amounts of carbon dioxide, playing a vital role in the global carbon cycle. Climate change has intensified droughts in Southeast Asia, negatively affecting rubber plantation growth. Limited in situ observations and short monitoring periods hinder accurate assessment of drought impacts on the gross primary productivity (GPP) of rubber plantations. This study used GPP data from flux observations at four rubber plantation sites in China and Thailand, along with solar-induced chlorophyll fluorescence (SIF), enhanced vegetation index (EVI), normalized difference vegetation index (NDVI), near-infrared reflectance of vegetation (NIRv), and photosynthetically active radiation (PAR) indices, to develop a robust GPP estimation model. The model reconstructed eight-day interval GPP data from 2001 to 2020 for the four sites. Finally, the study analyzed the seasonal drought impacts on GPP in these four regions. The results indicate that the GPP prediction model developed using SIF, EVI, NDVI, NIRv, and PAR has high accuracy and robustness. The model’s predictions have a relative root mean square error (rRMSE) of 0.22 compared to flux-observed GPP, with smaller errors in annual GPP predictions than the MOD17A3HGF model, thereby better reflecting the interannual variability in the GPP of rubber plantations. Drought significantly affects rubber plantation GPP, with impacts varying by region and season. In China and northern Thailand (NR site), short-term (3 months) and long-term (12 months) droughts during cool and warm dry seasons cause GPP declines of 4% to 29%. Other influencing factors may alleviate or offset GPP reductions caused by drought. During the rainy season across all four regions and the cool dry season with adequate rainfall in southern Thailand (SR site), mild droughts have negligible effects on GPP and may even slightly increase GPP values due to enhanced PAR. Overall, the study shows that drought significantly impacts rubber the GPP of rubber plantations, with effects varying by region and season. When assessing drought’s impact on rubber plantation GPP or carbon sequestration, it is essential to consider differences in drought thresholds within the climatic context.    
-
-    
-
-## Exploring the Effect of Ionic Liquid Conformation on the Selective CO2 Capture of Supported Ionic Liquid-Phase Adsorbents Based on ZIFs   
-
-OpenAlex: https://openalex.org/W4402983609    
-Open access: True
-    
-[Charitomeni M. Veziri](https://openalex.org/A5064208391), [George V. Theodorakopoulos](https://openalex.org/A5001412190), [K. Beltsios](https://openalex.org/A5059860743), [George E. Romanos](https://openalex.org/A5076240526), Materials. 17(19)] 2024.https://doi.org/10.3390/ma17194829.
-    
-The CO2 adsorption capacity and the CO2/N2 selectivity of a series of Supported Ionic Liquid-Phase adsorbents (SILPs), including the novel inversely structured SILP “Inverse SILPs”, are thoroughly investigated. ZIF-8, ZIF-69 and ZIF-70 were involved as the solid matrix, while ILs, having tricyanomethanide (TCM) as an anion and alkyl-methylimidazolium of different alkyl chain lengths (C2, C6, C8) as a cation, were used as the liquid constituents of the SILPs. The ultimate target of the work was to ratify a few recently reported cases of enhanced CO2 absorptivity in ILs due to their incorporation in ZIFs and to corroborate phenomena of CO2/N2 selectivity improvements in ZIFs, due to the presence of ILs. This ambiguity originates from the vague assumption that the pores of the ZIF are filled with the IL phase, and the free pore volume of a SILP is almost zero. Yet, through the integration of theoretical predictions with N2 porosimetry analysis of an actual sample, it is suggested that a thin layer of IL covered the exterior surface of a ZIF crystal. This layer could act as an impermeable barrier for N2, inhibiting the gas molecules from reaching the empty cavities laying underneath the liquid film during porosimetry analysis. This consideration is based on the fact that the solubility of N2 in the IL is very low, and the diffusivity at 77 K is negligible. In this context, the observed result reflects an averaged adsorptivity of both the IL phase and the empty pores of the ZIF. Therefore, it is incorrect to attribute the adsorption capacity of the SILP solely to the mass of the IL that ‘hypothetically’ nests inside the pore cavities. In fact, the CO2 adsorption capacity of SILPs is always less than the average adsorptivity of an ideal ZIF/IL mixture, where the two phases do not interact. This reduction occurs because some ZIF pores may become inaccessible, particularly when the IL forms a layer on the pore walls, leaving only a small empty core accessible to CO2 molecules. Additionally, the IL layer masks the active sites on the ZIF’s pore walls. It should also be noted that the CO2/N2 selectivity increases only when the ZIF’s pores are completely filled with the IL phase. This is because ILs have a higher CO2/N2 selectivity compared to the bare ZIF.    
 
     
 
@@ -664,17 +565,6 @@ Open access: False
 [S.I. Utkin](https://openalex.org/A5044093708), [О. Ж. Бузик](https://openalex.org/A5006781008), I P Pavlov Russian Medical Biological Herald. 32(3)] 2024.https://doi.org/10.17816/pavlovj623055.
     
 INTRODUCTION: The introduction of the study is determined by a high prevalence of alcoholism and a high incidence of complications from the cardiovascular system. AIM: To study the features of hemodynamics in patients with uncomplicated alcohol withdrawal syndrome (AWS) and in those with alcohol withdrawal delirium (delirium tremens). MATERIALS AND METHODS: The study enrolled 116 men, 58 of them with uncomplicated AWS, 78 with AWS and delirium. Basic hemodynamic parameters were studied: heart rate (HR), blood pressure (BP), and integral parameters — cardiac index (CI), total peripheral resistance (TPR), shock index (SI). Comparisons between the groups and correlation analysis were conducted to find relationships between hemodynamic parameters and clinical data. RESULTS: In patients with alcoholic delirium, hemodynamic parameters were statistically significantly higher than in patients with uncomplicated AWS: HR (р = 0.003), systolic BP (р = 0.02) and diastolic BP (р = 0.04), while no statistically significant differences in the integral parameters (CI, TPR, SI) were found between the groups. In patients of both groups, CI linearly decreased with age (p 0.0001). The same linearly CI decreased with increase in the duration of alcoholism (p = 0.02). With an increase in the amount of consumed alcohol during the binge period, a linear growth of CI was observed in withdrawal state (p = 0.001). The value of TPR increased with age (p = 0.005). Only in patients with delirium tremens, there was an inverse relationship between SI and partial tension of carbon dioxide in venous blood (r = -0.4; p = 0.014). Besides, only in patients with delirium tremens, by the 7th day of withdrawal, a direct relationship was established between the cardiac index and blood potassium level (r = 0.36; p = 0.03). CONCLUSIONS: There was no significant difference between hemodynamic parameters in uncomplicated AWS and in delirium tremens. CI in patients with uncomplicated AWS and in those with DT decreased with age and with increase in the alcohol load. The vessel tone was inversely proportional to CI throughout the entire period of observation. With the development of delirium, a correlation was noted between a decrease in the level of energy metabolism and the probability for decompensation of systemic circulation. At the stage of reduction of delirium tremens, a correlation was noted between CI and the blood potassium level that reflected the exhaustion of the cardiovascular system and reduction of its compensatory capacities.    
-
-    
-
-## Effect of Customized Fertilizer Formulations on Brinjal (Solanum melongena L.) under Sodic Soil   
-
-OpenAlex: https://openalex.org/W4402991788    
-Open access: True
-    
-[Sherene Jenita Rajammal](https://openalex.org/A5083553064), [A. Kaleeswari T](https://openalex.org/A5103665465), [S. Maragatham](https://openalex.org/A5081381388), [R. Arulmozhian](https://openalex.org/A5012762880), Asian Journal of Soil Science and Plant Nutrition. 10(4)] 2024.https://doi.org/10.9734/ajsspn/2024/v10i4391.
-    
-The Customized Fertilizer Formulation (CFF) applications on growth and yield of Brinjal (Solanum melongena L.) varieties Manaparai local and CO-2 under sodic soils were studied with eleven CFF combinations. No Significant observations in growth yield and yield parameter was recorded due to the combined application of CFF and organic amendments on sodic soils. The symptoms of salt injury were well pronounced in brinjal cv. Manaparai local when compared to brinjal cv. CO2 though the sodic soil reclamation was done with gypsum @1.1 t/Ha. The salt injury was further confirmed with electrolyte leakage study conducted at field level. However, the treatment T11 i.e. CFF2 100% macro nutrients as straight fertilizers, liquid micronutrient formulation and composted Press mud @ 5 t/ha was found to have the brinjal fruit yield of 1.39 t/ha in cv. CO2 which was not a desirable yield. This might be due to the yield reduction per unit increase in salt content.    
 
     
 
@@ -766,17 +656,6 @@ The incorporation of transition‐metal single atoms as molecular functional ent
 
     
 
-## A Quantum Mechanical MP2 Study of the Electronic Effect of Nonplanarity on the Carbon Pyramidalization of Fullerene C60   
-
-OpenAlex: https://openalex.org/W4402994082    
-Open access: True
-    
-[Yuemin Liu](https://openalex.org/A5084924196), [Yunxiang Gao](https://openalex.org/A5008618886), [Tariq Altalhi](https://openalex.org/A5001151503), [Di‐Jia Liu](https://openalex.org/A5017861528), [Boris I. Yakobson](https://openalex.org/A5003665485), Nanomaterials. 14(19)] 2024.https://doi.org/10.3390/nano14191576.
-    
-Among C60’s diverse functionalities, its potential application in CO2 sequestration has gained increasing interest. However, the processes involved are sensitive to the molecule’s electronic structure, aspects of which remain debated and require greater precision. To address this, we performed structural optimization of fullerene C60 using the QM MP2/6–31G* method. The nonplanarity of the optimized icosahedron is characterized by two types of dihedral angles: 138° and 143°. The 120 dihedrals of 138° occur between two hexagons intersecting at C–C bonds of 1.42 Å, while the 60 dihedrals of 143° are observed between hexagons and pentagons at C–C bonds of 1.47 Å. NBO analysis reveals less pyramidal sp1.78 hybridization for carbons at the 1.42 Å bonds and more pyramidal sp2.13 hybridization for the 1.47 Å bonds. Electrostatic potential charges range from −0.04 a.u. to 0.04 a.u. on the carbon atoms. Second-order perturbation analysis indicates that delocalization interactions in the C–C bonds of 1.42 Å (143.70 kcal/mol) and 1.47 Å (34.98 kcal/mol) are 22% and 38% higher, respectively, than those in benzene. MP2/Def2SVP calculations yield a correlation energy of 13.49 kcal/mol per electron for C60, slightly higher than the 11.68 kcal/mol for benzene. However, the results from HOMO-LUMO calculations should be interpreted with caution. This study may assist in the rational design of fullerene C60 derivatives for CO2 reduction systems.    
-
-    
-
 ## The Impact of Hydrogen on Flame Characteristics and Pollutant Emissions in Natural Gas Industrial Combustion Systems   
 
 OpenAlex: https://openalex.org/W4403140808    
@@ -854,27 +733,14 @@ One‐dimensional (1D) amorphous nanomaterials combine the advantages of high ac
 
     
 
-## Extended emission footprint analysis of dispatchable gas-based power generation technologies with exhaust aftertreatment technologies   
+## Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production   
 
-OpenAlex: https://openalex.org/W4403007972    
+OpenAlex: https://openalex.org/W4403141185    
 Open access: False
     
-[Christian Goßrau](https://openalex.org/A5044884645), [Nils Holger Petersen](https://openalex.org/A5023839322), [L. de la Cruz-May](https://openalex.org/A5003572868), [Manfred Wirsum](https://openalex.org/A5005350540), [Alexander Lampkowski](https://openalex.org/A5107672289), [Ariel Schönberger Alvarez](https://openalex.org/A5014925020), [J. Classen](https://openalex.org/A5076463194), [Stefan Pischinger](https://openalex.org/A5042106002), Proceedings. None(None)] 2024.https://doi.org/10.33737/gpps24-tc-088.
+[Ziming Su](https://openalex.org/A5001070807), [Xiang‐Yu Chen](https://openalex.org/A5035573035), [Mingke Sun](https://openalex.org/A5104180415), [Xiuyi Yang](https://openalex.org/A5058342388), [Jianxin Kang](https://openalex.org/A5100447380), [Zhi Cai](https://openalex.org/A5075989623), [Lin Guo](https://openalex.org/A5102772793), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202416878.
     
-The mitigation of climate change poses severe pressure on the rapid replacement of conventional power generation technologies by renewables. Due to the inherent volatility of renewable power generation technologies, dispatchable power generation units, such as gas turbines (GT) and gas-based reciprocating internal combustion engines (RICE), must be operated to maintain grid stability. While RICE are equipped with exhaust aftertreatment (EAT) technologies as standard to meet regulatory emission limits, this may also become important for GT in the near future. The present study therefore investigates the influence of EAT on emissions, taking into account oxidation catalysts (OC) and selective catalytic reduction (SCR) catalysts. Single-cycle power plant configurations for both technologies are studied under different operation scenarios, with emphasis on start-ups and partial load operation. Emissions are assessed as “generated mass per electrical output” (g=kWhel), considering both greenhouse gases and local pollutants. To holistically assess the environmental footprint, emissions are converted into impact categories such as Global Warming Potential (GWP), Respiratory Inorganics (RI), Photochemical Ozone Formation (POF) and Human Toxicity Potential (HTP). The increasing variability of operation demands of gas-based power generation technologies leads to a significant increase of emissions and environmental impact without EAT, highlighting the overall need for EAT systems to meet regulatory limits in the future. Both technologies show a significant reduction in the environmental impact factors (RI: > 46 %, POF: > 87 %, HTP: > 86 %) with EAT deployment in all load profile scenarios. With CO2 largely unaffected by EAT, RICE has a lower GWP100 than GT for all load scenarios (-2.6 to -11.4 %) because of the higher average plant efficiency. Due to their modularity, RICE plants can be operated over most of the plant load range without excessive emissions, whereas GT plants are limited to operation above 30 %.    
-
-    
-
-## Accelerated training of deep learning surrogate models for surface
-  displacement and flow, with application to MCMC-based history matching of CO2
-  storage operations   
-
-OpenAlex: https://openalex.org/W4403007308    
-Open access: True
-    
-[Yifu Han](https://openalex.org/A5055381891), [François P. Hamon](https://openalex.org/A5047662931), [Louis J. Durlofsky](https://openalex.org/A5002057296), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2408.10717 ([pdf](http://arxiv.org/pdf/2408.10717)).
-    
-Deep learning surrogate modeling shows great promise for subsurface flow applications, but the training demands can be substantial. Here we introduce a new surrogate modeling framework to predict CO2 saturation, pressure and surface displacement for use in the history matching of carbon storage operations. Rather than train using a large number of expensive coupled flow-geomechanics simulation runs, training here involves a large number of inexpensive flow-only simulations combined with a much smaller number of coupled runs. The flow-only runs use an effective rock compressibility, which is shown to provide accurate predictions for saturation and pressure for our system. A recurrent residual U-Net architecture is applied for the saturation and pressure surrogate models, while a new residual U-Net model is introduced to predict surface displacement. The surface displacement surrogate accepts, as inputs, geomodel quantities along with saturation and pressure surrogate predictions. Median relative error for a diverse test set is less than 4% for all variables. The surrogate models are incorporated into a hierarchical Markov chain Monte Carlo history matching workflow. Surrogate error is included using a new treatment involving the full model error covariance matrix. A high degree of prior uncertainty, with geomodels characterized by uncertain geological scenario parameters (metaparameters) and associated realizations, is considered. History matching results for a synthetic true model are generated using in-situ monitoring-well data only, surface displacement data only, and both data types. The enhanced uncertainty reduction achieved with both data types is quantified. Posterior saturation and surface displacement fields are shown to correspond well with the true solution.    
+One‐dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard‐soft acids‐bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure‐regulating agent and morphology‐directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu‐SR bond. Due to the combined advantages of amorphous structure and one‐dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu‐based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.    
 
     
 
@@ -930,16 +796,5 @@ Open access: False
 [S. S. Ramdasi](https://openalex.org/A5000757204), ARAI Journal of Mobility Technology. 4(3)] 2024.https://doi.org/10.37285/ajmt.4.3.0.
     
 Rise in greenhouse gas emissions which is resulting into ozone layer depletion and global warming effect is alarming to control CO2 emissions by drastically reducing fossil fuel consumption from the vehicles. This need has already started trend towards extreme downsizing and down speeding of Internal Combustion Engines (ICE) for making them highly efficient. In addition to this use of after treatment devices viz. Diesel Oxidation Catalyst (DOC), Diesel Particulate Filter (DPF), Lean NOx Catalyst (LNT), Selective Catalytic Reduction (SCR) are helping to a great extent for meeting emission norms till Euro - VI for automotive sector, Tier–IV F and Stage V for Off Highway Power sector. However, to address present greenhouse effect along with exponential decay of fossil fuels, there is need to achieve CO2 emissions less than 100 g/km or to achieve practically zero carbon footprint using an alternate powertrain. Electrification is one of the promising solutions and which is three-fold in present situation. The first level of electrification comes in the form of Hybrid Electric Vehicle (HEV) technology followed by Battery Electric Vehicles and Fuel Cell Electric Vehicles as second and third level of electrification respectively. In all these technologies a common thread is running in the form of an efficient electric drive train. Several efforts have been taken to improve torque per unit ampere by use of efficient motor and motor control algorithms viz PMSM powered with FOC, by developing controls which take care of parametric variations and external force disturbances by use of back stepping techniques which are based on rotor resistance estimation by fuzzy logic, FOC techniques based on adaptive input-output feedback linearization, by shifting towards high voltage systems, by going for higher switching frequencies for inverters which uses silicon carbide based MOSFET switches, by exploring use of multilevel inverters for Total Harmonic Distortion (THD) control etc. Use of E Axle based powertrains in EV, HEV and FCEV offers additional complimentary benefits apart from technology options described above. E Axle based powertrains offers flexibility in generating three variants of vehicle using one electric drive train architecture viz. making EV, HEV & FCEV. Compactness, modularity, scalability, flexibility along with efficient cooling system management and control over active current losses due to use of bus bars are the implicit advantages of E Axle based powertrains. These advantages further get multiplies if we go for 3 in 1 (gearbox + Stator housing + Inverter) architectures which are predominantly used in independent suspension-based vehicles. Lot of efforts are going on to inherit this technology for rigid axle suspension based commercial vehicles. Research in this area is getting further extended to make 5 in 1 E Axles where there will addition of DC - DC converter and On-Board Charger (OBC) apart from components present in 3 in 1 configuration. Two major challenges need to be addressed and to be resolved while designing E Axle based powertrains by doing concurrent vehicle engineering. This is mainly due to increased unsprang weight that need to be handled by suspension system and exposed electric drive components to excitation loads coming from roads. Fig: Indigenously Developed E Axle Based Powertrain for Small Commercial VehiclesBy proper lay outing for effective vehicle mass distribution and required CG location which is essential from overall vehicle dynamics, more space can be offered by E Axle based powertrains for increasing battery energy density for getting more electric range in case of BEV’s. This add on space benefit extend help in packaging of hydrogen fuel cell integrated with power cells in case of FCEV’s. Thus, E Axle based powertrains proves to be modern and most efficient way of making EV, HEV & FCEV’s.    
-
-    
-
-## Comments: Global Implications and Challenges of Electrification   
-
-OpenAlex: https://openalex.org/W4402970937    
-Open access: False
-    
-[Pam Boschee](https://openalex.org/A5069367188), Journal of Petroleum Technology. 76(10)] 2024.https://doi.org/10.2118/1024-0014-jpt.
-    
-_ Electrification is widely seen as crucial for decarbonization. To be successful on a global scale, a mix of complex challenges require coordinated efforts across the diversification of the energy mix, technology development, infrastructure investment, policy support, and regional planning. The International Energy Agency’s (IEA) Net Zero Emissions by 2050 Scenario suggests electricity should account for nearly 30% of final energy consumption by 2030, up from an estimated 20% in 2023, to progress to net zero. Are net zero emissions achievable by 2050? SPE President Olivier Houzé delves into the IEA’s three main energy transition scenarios in this month’s vodcast and column. Among his conclusions: “Beyond 2050, the anticipation is a decline of around 50% for oil and 25% for gas in the following 20 years. The one thing everybody agrees on is that no one really knows.” The following updates offer a glimpse at efforts to electrify oil and gas assets and bring clean energy solutions to remote and underserved communities. Norway’s Offshore Success Electrifying upstream oil and gas production facilities using renewable energy or otherwise flared natural gas could reduce emissions by more than 80%. Rystad Energy’s recent analysis highlighted Norway as currently leading the way, thanks to its wealth of renewable resources and production sites’ proximity to them. Electrification of rigs and other assets on Norway’s Continental Shelf (NCS) has resulted in a drop from 8.4 kg to 1.2 kg CO2/BOE—an 86% reduction in the same assets’ emissions before electrification. Norway’s literal powerhouse is hydroelectric energy, tallying more than 1,500 hydropower plants, normally producing 133 TWh annually, or 96% of the country’s total power production. This supply has made the transition of many of its offshore facilities to cleaner energy more feasible than in other regions of the world, particularly for power-from-shore projects such as Troll A, Martin Linge, and Johan Sverdrup. As of 2 years ago, Norway had seven fields fully or partially electrified from shore. Onshore Electrification—Drilling With Clean(er) Energy Other players in the industry grapple with less advantageous scenarios, facing hurdles such as facilities located far from renewable energy sources, which may be limited, and inadequate grid infrastructure. SPE 218649, presented at the SPE Conference at Oman Petroleum & Energy Show in April, discussed using electrical utility power in drilling operations. The authors noted that a drilling rig typically consumes 6 to 50 MWh of energy per day, averaging around 20 MWh. Diesel-powered rigs emit about 1.0 metric tonne of CO2e/MWh, totaling roughly 20 metric tonnes of CO2e per day. In contrast, grid-powered rigs emit about 0.39 metric tonnes of CO2e/MWh, less than half the emissions of diesel-powered rigs. An example from the paper illustrates how incremental changes can reduce emissions intensity, even when the solution is a step toward “cleaner” energy, though not yet fully aligned with ideal clean energy standards. Comparing drilling operations in North Dakota, where 57% of the state’s power generation uses coal, to Texas where 18% uses coal, the authors noted that the “emissions intensity on a North Dakota rig tied to the grid is higher than that of an electrified rig working in Texas but is still notably lower than the intensity of an average drilling rig powered by a diesel generator, which is approximately 1.0 metric tonnes CO2e/MWh.” Broader Implications and Challenges of Electrification The upfront costs of electrification are substantial, especially for entities in remote areas with limited grid access. This challenge affects not only the oil and gas industry but also efforts to bring electricity to underserved communities. A paper presented at the SPE Nigeria Annual International Conference and Exhibition in August (SPE 221709) studied the viability and impact of solar mini-grid systems for electrification of rural communities in Sub-Saharan Africa where approximately 600 million people lack electricity, and around 690 million lack access to clean cooking stoves. The authors wrote, “In Nigeria, about 45% of the population, more than 90 million people, do not have electricity, with 60% of these individuals residing in rural areas. Nigeria also has one of the lowest per capita electricity generation rates globally, with an installed grid-connected capacity of about 13,000 MW but an average actual output of just 4,000 MW.” The authors included a table showing a cost summary including capital, the cost of installation, and other specifications for an 87.5-kWp (kilowatt peak) solar-power system. They calculated a levelized cost of electricity of 47.1 cents/kWh over the system’s estimated lifetime of 25 years—approximately six times that of a US residential solar system and roughly three times more than an average US residential utility rate of 16 cents/kWh (although this varies significantly by state and region). In the end, achieving a more electrified and sustainable energy future depends on a combination of factors: strategic investment, robust infrastructure, accessible energy resources, collaboration among key stakeholders, ongoing technological innovation, and supportive policy frameworks.    
 
     

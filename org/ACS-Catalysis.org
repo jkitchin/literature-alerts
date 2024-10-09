@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Oct  8 01:20:13 2024
+Created on Wed Oct  9 01:19:46 2024
 
-Found 35 results from 2024-10-01 to 2024-10-08
+Found 34 results from 2024-10-02 to 2024-10-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Enhancing Oxygen Evolution Reaction via a Surface Reconstruction-Induced Lattice Oxygen Mechanism  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4402976597
-:TOPICS: Electrocatalysis for Energy Conversion, Memristive Devices for Neuromorphic Computing, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-09-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03594")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4402976597"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4402976597"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4402976597"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4402976597 (Open access: False)
-    
-[[https://openalex.org/A5101881557][Subin Choi]], [[https://openalex.org/A5101730893][Sejun Kim]], [[https://openalex.org/A5079005872][Sunghoon Han]], [[https://openalex.org/A5100712245][Jian Wang]], [[https://openalex.org/A5100665647][Juwon Kim]], [[https://openalex.org/A5060437714][Bonho Koo]], [[https://openalex.org/A5044051822][Alexander A. Ryabin]], [[https://openalex.org/A5061938345][Sebastian Kunze]], [[https://openalex.org/A5030487796][Hyejeong Hyun]], [[https://openalex.org/A5020460471][Jeongwoo Han]], [[https://openalex.org/A5049059695][Shu-Chih Haw]], [[https://openalex.org/A5063597709][Keun Hwa Chae]], [[https://openalex.org/A5072570172][Chang Hyuck Choi]], [[https://openalex.org/A5100388376][Hyungjun Kim]], [[https://openalex.org/A5079871073][Jongwoo Lim]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03594 
-     
-No abstract    
-
-    
-
-* Highly Acid-Resistant CoNPs@Co-N-C Catalyst for the Efficient Aqueous-Phase Hydrogenation of Maleic Acid to Succinic Acid  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403011320
-:TOPICS: Catalytic Reduction of Nitro Compounds, Desulfurization Technologies for Fuels, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03990")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403011320"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403011320"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403011320"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403011320 (Open access: False)
-    
-[[https://openalex.org/A5058084433][Zhengyu Zhao]], [[https://openalex.org/A5100582708][Zongxuan Yang]], [[https://openalex.org/A5049821928][Hongmei Bai]], [[https://openalex.org/A5021835538][Hongwei Zhang]], [[https://openalex.org/A5100385156][Bowen Zhang]], [[https://openalex.org/A5101579536][Xinru Wu]], [[https://openalex.org/A5088518232][Zimeng Li]], [[https://openalex.org/A5043850612][Cejun Hu]], [[https://openalex.org/A5052807800][Xiaojun Bao]], [[https://openalex.org/A5012688685][Pei Yuan]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03990 
-     
-No abstract    
-
-    
 
 * Ti-Catalyzed Oxidative Amination Using Anilines  :ACS_Catalysis:
 :PROPERTIES:
@@ -738,5 +696,26 @@ OpenAlex: https://openalex.org/W4403155268 (Open access: True)
 [[https://openalex.org/A5004667543][Hongman Sun]], [[https://openalex.org/A5005001820][Shuzhuang Sun]], [[https://openalex.org/A5057337284][Xiaoteng Liu]], [[https://openalex.org/A5026305878][Jingbin Zeng]], [[https://openalex.org/A5089942938][Youhe Wang]], [[https://openalex.org/A5100456337][Zifeng Yan]], [[https://openalex.org/A5032589855][Chunfei Wu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03861 
      
 No abstract    
+
+    
+
+* Mechanistic Investigation into Copper(I) Hydride Catalyzed Formic Acid Dehydrogenation  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403171995
+:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Homogeneous Catalysis with Transition Metals, Transition Metal Catalysis
+:PUBLICATION_DATE: 2024-10-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05008")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403171995"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403171995"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403171995"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403171995 (Open access: True)
+    
+[[https://openalex.org/A5038235290][Roel L. M. Bienenmann]], [[https://openalex.org/A5093928496][Anne Olarte Loyo]], [[https://openalex.org/A5037093217][Martin Lutz]], [[https://openalex.org/A5087272505][Daniël L. J. Broere]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05008 
+     
+Copper(I) hydride complexes are typically known to react with CO2 to form their corresponding copper formate counterparts. However, recently it has been observed that some multinuclear copper hydrides can feature the opposite reactivity and catalyze the dehydrogenation of formic acid. Here we report the use of a multinuclear PNNP copper hydride complex as an active (pre)catalyst for this reaction. Mechanistic investigations provide insights into the catalyst resting state and the rate-determining step and identify an off-cycle species that is responsible for the unexpected substrate inhibition in this reaction.    
 
     

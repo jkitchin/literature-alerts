@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Oct  8 01:20:24 2024
+Created on Wed Oct  9 01:19:58 2024
 
-Found 59 results from 2024-10-01 to 2024-10-08
+Found 49 results from 2024-10-02 to 2024-10-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -16,138 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## First principles study of V2CT2-based MXenes materials in oxygen reduction and oxygen evolution reactions   
-
-OpenAlex: https://openalex.org/W4402973557    
-Open access: False
-    
-[Wang Zhang](https://openalex.org/A5100329318), [Shanmin Gao](https://openalex.org/A5050025983), [Xinyu Yang](https://openalex.org/A5101405917), [Long Lin](https://openalex.org/A5101531761), [Zhongzhou Dong](https://openalex.org/A5045935811), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118686.
-    
-No abstract    
-
-    
-
-## Enhancing Oxygen Evolution Reaction via a Surface Reconstruction-Induced Lattice Oxygen Mechanism   
-
-OpenAlex: https://openalex.org/W4402976597    
-Open access: False
-    
-[Subin Choi](https://openalex.org/A5101881557), [Sejun Kim](https://openalex.org/A5101730893), [Sunghoon Han](https://openalex.org/A5079005872), [Jian Wang](https://openalex.org/A5100712245), [Juwon Kim](https://openalex.org/A5100665647), [Bonho Koo](https://openalex.org/A5060437714), [Alexander A. Ryabin](https://openalex.org/A5044051822), [Sebastian Kunze](https://openalex.org/A5061938345), [Hyejeong Hyun](https://openalex.org/A5030487796), [Jeongwoo Han](https://openalex.org/A5020460471), [Shu-Chih Haw](https://openalex.org/A5049059695), [Keun Hwa Chae](https://openalex.org/A5063597709), [Chang Hyuck Choi](https://openalex.org/A5072570172), [Hyungjun Kim](https://openalex.org/A5100388376), [Jongwoo Lim](https://openalex.org/A5079871073), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03594.
-    
-No abstract    
-
-    
-
-## A Constraint-Based Orbital-Optimized Excited State Method (COOX)   
-
-OpenAlex: https://openalex.org/W4402987837    
-Open access: True
-    
-[Jörg Kußmann](https://openalex.org/A5065391607), [Yannick Lemke](https://openalex.org/A5070510745), [Anthea Weinbrenner](https://openalex.org/A5107664311), [Christian Ochsenfeld](https://openalex.org/A5015872488), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c00467.
-    
-In this work, we present a novel method to directly calculate targeted electronic excited states within a self-consistent field calculation based on constrained density functional theory (cDFT). The constraint is constructed from the static occupied-occupied and virtual-virtual parts of the excited state difference density from (simplified) linear-response time-dependent density functional theory calculations (LR-TDDFT). Our new method shows a stable convergence behavior, provides an accurate excited state density adhering to the Aufbau principle, and can be solved within a restricted SCF for singlet excitations to avoid spin contamination. This also allows the straightforward application of post-SCF electron-correlation methods like MP2 or direct RPA methods. We present the details of our constraint-based orbital-optimized excited state method (COOX) and compare it to similar schemes. The accuracy of excitation energies will be analyzed for a benchmark of systems, while the quality of the resulting excited state densities is investigated by evaluating excited state nuclear forces and excited state structure optimizations. We also investigate the performance of the proposed COOX method for long-range charge transfer excitations and conical intersections with the ground-state.    
-
-    
-
-## Photoanode Applications of Polyene-Diphenylaniline Dyes Molecules Adsorbed on TiO2 Brookite Cluster   
-
-OpenAlex: https://openalex.org/W4402990515    
-Open access: False
-    
-[Ife Elegbeleye](https://openalex.org/A5039977511), [Eric Maluta](https://openalex.org/A5014548053), [Rapela R. Maphanga](https://openalex.org/A5056612261), [Michael Walter](https://openalex.org/A5008194188), [Oliver Brügner](https://openalex.org/A5042659177), IntechOpen eBooks. None(None)] 2024.https://doi.org/10.5772/intechopen.1005450.
-    
-TiO2 has excellent photoelectrochemical properties, which makes its suitable for photoanode applications. TiO2 is widely utilized as semiconductor for dye-sensitized photoanode owing to its excellent stability and availability. The brookite polymorph of TiO2 has been suggested to demonstrate better photocatalytic properties. In this work, we studied the adsorption of polyenediphenyl-aniline dyes on (TiO2) n = 8, 68 brookite clusters using density functional theory (DFT). We report our results on the UV–Vis absorption spectra of the dyes and dyes adsorbed on TiO2 clusters, adsorption energies of the dyes adsorbed on TiO2 clusters, electronic density of states and projected electronic density of states of the dyes adsorbed on TiO2 complex, and electron density of the main molecular orbitals involved in photoexcitation for dye-sensitized solar cells application. The calculated adsorption energies of D5@(TiO2)68, D7@(TiO2)68, D9@(TiO2)68, and D11@(TiO2)68 are 4.84, 4.78, 4.66 and 4.92 eV, respectively. The results of the adsorption energies are in the order D11@(TiO2)8 > D9@(TiO2)8 > D7@(TiO2)8 > D5@(TiO2)8 and D11@ (TiO2)68 > D5@ (TiO2)68 > D7@ (TiO2)68 > D9@ (TiO2)68. This implies that D11 dye molecule reacts more strongly with (TiO2)8 and (TiO2)68 brookite clusters than the other corresponding dye molecules.    
-
-    
-
-## Accurate Crystal Structure Prediction of New 2D Hybrid Organic–Inorganic Perovskites   
-
-OpenAlex: https://openalex.org/W4402993739    
-Open access: True
-    
-[Nima Karimitari](https://openalex.org/A5055129496), [William J. Baldwin](https://openalex.org/A5041097921), [Evan W. Muller](https://openalex.org/A5052754482), [Zachary J. L. Bare](https://openalex.org/A5031606384), [W. Joshua Kennedy](https://openalex.org/A5008735503), [Gábor Cśanyi](https://openalex.org/A5025442671), [Christopher Sutton](https://openalex.org/A5045691554), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c06549.
-    
-Low-dimensional hybrid organic-inorganic perovskites (HOIPs) are promising electronically active materials for light absorption and emission. The design space of HOIPs is extremely large, as a variety of organic cations can be combined with different inorganic frameworks. This not only allows for tunable electronic and mechanical properties but also necessitates the development of new tools for in silico high throughput analysis of candidate materials. In this work, we present an accurate, efficient, and widely applicable machine learning interatomic potential (MLIP) trained on 86 diverse experimentally reported HOIP materials. This MLIP was tested on 73 experimentally reported perovskite compositions and achieves a high accuracy, relative to density functional theory (DFT). We also introduce a novel random structure search algorithm designed for the crystal structure prediction of 2D HOIPs. The combination of MLIP and the structure search algorithm reliably recovers the crystal structure of 14 known 2D perovskites by specifying only the organic molecule and inorganic cation/halide. Performing this crystal structure search with ab initio methods would be computationally prohibitive but is relatively inexpensive with the MLIP. Finally, the developed procedure is used to predict the structure of a totally new HOIP with cation (    
-
-    
-
-## Structure–Activity Relationships in Oxygen Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4402994393    
-Open access: False
-    
-[Jingqi Guan](https://openalex.org/A5074571254), [Jingru Sun](https://openalex.org/A5100921699), [Siyu Chen](https://openalex.org/A5100325199), [Siying Zhang](https://openalex.org/A5084162974), [Luoluo Qi](https://openalex.org/A5023454042), [Anaer Husile](https://openalex.org/A5104207162), [Jingqi Guan](https://openalex.org/A5074571254), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202408139.
-    
-Abstract Oxygen electrocatalysis, as the pivotal circle of many green energy technologies, sets off a worldwide research boom in full swing, while its large kinetic obstacles require remarkable catalysts to break through. Here, based on summarizing reaction mechanisms and in situ characterizations, the structure–activity relationships of oxygen electrocatalysts are emphatically overviewed, including the influence of geometric morphology and chemical structures on the electrocatalytic performances. Subsequently, experimental/theoretical research is combined with device applications to comprehensively summarize the cutting‐edge oxygen electrocatalysts according to various material categories. Finally, future challenges are forecasted from the perspective of catalyst development and device applications, favoring researchers to promote the industrialization of oxygen electrocatalysis at an early date.    
-
-    
-
-## Probing the Metal/Oxide Interface of IrCoCeOx in N2H4·H2O Decomposition: An Experimental and Computational Study   
-
-OpenAlex: https://openalex.org/W4402996365    
-Open access: False
-    
-[Silvio Bellomi](https://openalex.org/A5032945524), [Daniel C. Cano-Blanco](https://openalex.org/A5107667264), [Ilaria Barlocco](https://openalex.org/A5014039805), [Juan J. Delgado](https://openalex.org/A5062814647), [Xiaowei Chen](https://openalex.org/A5070974365), [Laura Prati](https://openalex.org/A5002017862), [Davide Ferri](https://openalex.org/A5041651435), [Nikolaos Dimitratos](https://openalex.org/A5008991879), [Alberto Roldán](https://openalex.org/A5085004954), [Alberto Villa](https://openalex.org/A5011812717), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c12306.
-    
-Understanding the structure of a functional catalyst is crucial to disclosing the complexity of heterogeneous processes and improving their efficiency. Herein, coprecipitated cobalt-ceria (CoCeO    
-
-    
-
-## Enhancing HER catalyst screening of modified MXenes through DFT and machine learning integration   
-
-OpenAlex: https://openalex.org/W4402997886    
-Open access: False
-    
-[Hui Xu](https://openalex.org/A5101578854), [Wei Lv](https://openalex.org/A5056242893), [Shaojie Yang](https://openalex.org/A5100653833), [Shihe Yang](https://openalex.org/A5055038257), [Yawei Liu](https://openalex.org/A5057458570), [Feng Huo](https://openalex.org/A5048459663), AIChE Journal. None(None)] 2024.https://doi.org/10.1002/aic.18618.
-    
-Abstract MXenes doped with non‐metallic and transition metal elements exhibit remarkable potential as catalysts in the hydrogen energy. Nonetheless, efficiently identifying viable materials from a vast array of candidates remains a formidable challenge. Here, we conducted density functional theory (DFT) calculations to obtain the hydrogen adsorption free energy () of 78 types of doped TiVCO 2 MXene catalysts. Then we employed machine learning models to categorize the values of the 78 catalysts, resulted in an accurate model which only uses 7 readily available elemental features but has an impressive accuracy of 93.6%. Our model successfully predicting 5 TiVCO 2 catalysts doped with S with superior performance, subsequently validated through DFT calculations. This classification methodology not only evaluates the range of effectively but also facilitates qualitative prediction and screening of catalysts, presenting a novel approach for catalytic systems with limited available data.    
-
-    
-
-## Regulating Fe Intermediate Spin States via FeN4‐Cl‐Ti Structure for Enhanced Oxygen Reduction   
-
-OpenAlex: https://openalex.org/W4403000792    
-Open access: False
-    
-[Shuren Zhang](https://openalex.org/A5088816787), [Yitong Han](https://openalex.org/A5100657898), [Rui Zhang](https://openalex.org/A5100422186), [Qian Zhang](https://openalex.org/A5101742243), [Genban Sun](https://openalex.org/A5047179940), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202403899.
-    
-Abstract Modulating the spin states of FeN 4 moieties is critical for enhancing the electrocatalytic oxygen reduction reaction (ORR). In this study, Ti 4 N 3 Cl x and Ti 4 N 3 O x MXenes are synthesized and functionalized with iron phthalocyanine (FePc) to form model catalysts with well‐defined FeN 4 ‐Cl‐Ti and FeN 4 ‐O‐Ti structures, respectively. The FeN 4 ‐Cl‐Ti structure, formed within the Ti 4 N 3 Cl x /FePc composite, enables precise modulation of FeN 4 spin states from low to intermediate spin, significantly enhancing ORR performance. In contrast, the FeN 4 ‐O‐Ti structure in Ti 4 N 3 O x /FePc shows less effective spin state modulation, leading to comparatively lower ORR activity. Compared to FePc and Ti 4 N 3 O x /FePc, Ti 4 N 3 Cl x /FePc demonstrates superior electrochemical performance, with an ORR half‐wave potential of +0.91 V versus RHE and doubled power densities in Zn–air batteries (214.5 mW cm −2 ). Theoretical studies confirm that the intermediate spin states induced by the weak‐field ligand‐modified FeN 4 ‐Cl‐Ti structure in Ti 4 N 3 Cl x /FePc facilitate electron filling in the antibonding orbital composed of Fe 3dz 2 and O 2 π* orbitals, greatly enhancing O₂ activation and ORR activity. These findings underscore the superior catalytic properties of FeN 4 ‐Cl‐Ti compared to FeN 4 ‐O‐Ti, advancing the understanding of spin state‐related catalytic mechanisms and guiding the design of high‐performance ORR catalysts.    
-
-    
-
-## Electrocatalysis, diverse and forever young   
-
-OpenAlex: https://openalex.org/W4403000938    
-Open access: False
-    
-[Tristan Asset](https://openalex.org/A5041681511), [Alexandr G. Oshchepkov](https://openalex.org/A5030145441), [Frédéric Maillard](https://openalex.org/A5035932055), [Galina A. Tsirlina](https://openalex.org/A5013168104), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145174.
-    
-No abstract    
-
-    
-
-## Exploring the potential of α-Ge(1 1 1) monolayer in photocatalytic water splitting for hydrogen production   
-
-OpenAlex: https://openalex.org/W4403001015    
-Open access: False
-    
-[Vinícius G. Garcia](https://openalex.org/A5102894921), [Guilherme J. Inacio](https://openalex.org/A5093312455), [L. Fiorini Filho](https://openalex.org/A5067037292), [Luíza T. Pacheco](https://openalex.org/A5077872411), [F.N.N. Pansini](https://openalex.org/A5030395045), [Marcos G. Menezes](https://openalex.org/A5056186696), [Wendel S. Paz](https://openalex.org/A5042437746), FlatChem. None(None)] 2024.https://doi.org/10.1016/j.flatc.2024.100753.
-    
-No abstract    
-
-    
-
-## Topological Synthesis of 2D High‐Entropy Multimetallic (Oxy)hydroxide for Enhanced Lattice Oxygen Oxidation Mechanism   
-
-OpenAlex: https://openalex.org/W4403002748    
-Open access: False
-    
-[Sijia Liu](https://openalex.org/A5100321844), [Baorui Jia](https://openalex.org/A5034103613), [Sheng Wang](https://openalex.org/A5100371335), [Yongzhi Zhao](https://openalex.org/A5065153952), [Luan Liu](https://openalex.org/A5077301732), [Fengmei Fan](https://openalex.org/A5045473963), [Yunpu Qin](https://openalex.org/A5015864066), [Jianfang Liu](https://openalex.org/A5101982413), [Yirui Jiang](https://openalex.org/A5004489366), [Bin Sun](https://openalex.org/A5100641761), [Hong Zhao](https://openalex.org/A5101489925), [Hao Li](https://openalex.org/A5100348490), [Wenxiang Zhou](https://openalex.org/A5054957394), [Haoyang Wu](https://openalex.org/A5080543622), [Deyin Zhang](https://openalex.org/A5103179713), [Xuanhui Qu](https://openalex.org/A5073931088), [Mingli Qin](https://openalex.org/A5009868752), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202409530.
-    
-Abstract Owing to sluggish reaction kinetics and high potential, oxygen evolution reaction (OER) electrocatalysts face a trade‐off between activity and stability. Herein, an innovative topological strategy is presented for preparing 2D multimetallic (oxy)hydroxide, including ternary CoFeZn, quaternary CoFeMnZn, and high‐entropy CoFeMnCuZn. The key to the synthesis lies in using Ca‐rich brownmillerite oxide as a precursor, which possesses inherent structural flexibility enabling tailored elemental adjustments and topologically transforms from a point‐shared structure of metal‐oxygen octahedrons into an edge‐shared structure under alkaline conditions. The presence of Zn in the catalysts causes a shift in the center of the O2p band toward the Fermi level, resulting in more Co 4+ species, which drive holes into oxygen ligands to promote intramolecular oxygen coupling. The triggered lattice oxidation mechanism is identified by detecting peroxo‐like (O 2 2− ) negative species using tetramethylammonium chemical probe, along with 18 O isotope labeling experiments. As a result, the catalyst demonstrates an overpotential of 267 mV at 10 mA cm −2 , ranking it among the top‐performing non‐Ni‐based catalysts. Importantly, the catalysts also show high Fe‐leaching resistance during OER compared to conventional NiFe and CoFe hydroxides/(oxy)hydroxides. The assembled zinc‐air battery enables stable operation for over 225 h at a low charging voltage of 1.93 V.    
-
-    
 
 ## Monovacant Janus WSSe designed as a bifunctional photocatalyst for OER and CO2RR with multiple C1 products   
 
@@ -501,6 +369,17 @@ No abstract
 
     
 
+## Determining the chemical ordering in nanoalloys by considering atomic coordination types   
+
+OpenAlex: https://openalex.org/W4403135114    
+Open access: False
+    
+[Riccardo Farris](https://openalex.org/A5017255135), [Konstantin M. Neyman](https://openalex.org/A5032114586), [Albert Bruix](https://openalex.org/A5061069452), The Journal of Chemical Physics. 161(13)] 2024.https://doi.org/10.1063/5.0214377.
+    
+The energetically most favorable chemical ordering of bimetallic nanoparticles can be characterized by combining global optimization algorithms and surrogate energy models. The latter approximate the energy of nanoalloys relying on structural descriptors, training models, and data. Here, we systematically evaluate the performance of highly data-efficient topological descriptors [Kozlov et al., Chem. Sci. 6, 3868 (2015)] for predicting the energies of metal nanoalloys with different chemical orderings. We also introduce a new descriptor based on atomic coordination types, which results in a less data-efficient and interpretable approach, but improves the general accuracy and the quantification of orderings in the inner parts of nanoparticles. The capacity of both the original and new approaches in combination with a basin hopping algorithm is illustrated by generating convex hulls of PdZn nanoalloys and predicting the resulting active surface site distribution as a function of particle composition. Finally, we show how these approaches can be combined with machine-learning adsorption models in electrocatalysis studies for a fast evaluation of the reactivity landscape of targeted nanoalloys.    
+
+    
+
 ## Oriented Crystal Polarization Tuning Bulk Charge and Single‐Site Chemical State for Exceptional Hydrogen Photo‐Production   
 
 OpenAlex: https://openalex.org/W4403140168    
@@ -585,7 +464,7 @@ Open access: False
     
 [Changgeng Li](https://openalex.org/A5102757661), [Cheng Liu](https://openalex.org/A5100384277), [Yun Han](https://openalex.org/A5052938560), [Weibin Xu](https://openalex.org/A5101194440), [Bing Yan](https://openalex.org/A5100760851), [Aijun Du](https://openalex.org/A5082839443), [Qin Li](https://openalex.org/A5100438898), [Qi Yu](https://openalex.org/A5100337768), Journal of Environmental Management. 370(None)] 2024.https://doi.org/10.1016/j.jenvman.2024.122729.
     
-No abstract    
+Elevated levels of total hardness in drinking water can readily result in scaling, which poses a threat to both the safety of water quality and the convenience of its use. While there is a wealth of research on the removal of calcium hardness, there is a dearth of studies focusing on the removal of magnesium hardness. In light of this, the present study employs modified induced crystallization softening (MICS) to delineate the removal pathways and mechanisms of magnesium hardness, and to investigate viable methods for its enhancement and application. Our research has determined that magnesium hardness can be effectively removed from water through the MICS, with the dosage of softening agents (NaOH) being a significant factor that influences this removal, whereas the fixed bed height within the fluidized bed exerts minimal impact on the process. In the low-dose stage (less than 250 mg/L), when the pH is below 10.0, up to 20% of magnesium hardness can be removed, predominantly through the crystallization of (Ca    
 
     
 
@@ -630,6 +509,17 @@ Open access: False
 [You Zi](https://openalex.org/A5029664909), [Chengxu Zhang](https://openalex.org/A5064403506), [Jian-Qiang Zhao](https://openalex.org/A5077422333), [Ying Cheng](https://openalex.org/A5043905805), [Jinliang Yuan](https://openalex.org/A5043053835), [Jue Hu](https://openalex.org/A5027149538), Small. None(None)] 2024.https://doi.org/10.1002/smll.202406657.
     
 Abstract Green hydrogen energy, as one of the most promising energy carriers, plays a crucial role in addressing energy and environmental issues. Oxygen evolution reaction catalysts, as the key to water electrolysis hydrogen production technology, have been subject to durability constraints, preventing large‐scale commercial development. Under the high current density and harsh acid‐base electrolyte conditions of the water electrolysis reaction, the active metals in the catalysts are easily converted into high‐valent soluble species to dissolve, leading to poor structural durability of the catalysts. There is an urgent need to overcome the durability challenges under acidic conditions and develop electrocatalysts with both high catalytic activity and high durability. In this review, the latest research results are analyzed in depth from both thermodynamic and kinetic perspectives. First, a comprehensive summary of the structural deactivation state process of noble metal oxide catalysts is presented. Second, the evolution of the structure of catalysts possessing high durability is discussed. Finally, four new strategies for the preparation of stable catalysts, “electron buffer (ECB) strategy”, combination strength control, strain control, and surface coating, are summarized. The challenges and prospects are also elaborated for the future synthesis of more effective Ru/Ir‐based catalysts and boost their future application.    
+
+    
+
+## Thermosalient Phase Transitions from Machine Learning Interatomic Potential   
+
+OpenAlex: https://openalex.org/W4403173139    
+Open access: False
+    
+[Bruno Mladineo](https://openalex.org/A5010287641), [Ivor Lončarić](https://openalex.org/A5082425434), Crystal Growth & Design. None(None)] 2024.https://doi.org/10.1021/acs.cgd.4c00905.
+    
+No abstract    
 
     
 

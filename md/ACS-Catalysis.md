@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Oct  8 01:20:13 2024
+Created on Wed Oct  9 01:19:46 2024
 
-Found 35 results from 2024-10-01 to 2024-10-08
+Found 34 results from 2024-10-02 to 2024-10-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Enhancing Oxygen Evolution Reaction via a Surface Reconstruction-Induced Lattice Oxygen Mechanism   
-
-OpenAlex: https://openalex.org/W4402976597    
-Open access: False
-    
-[Subin Choi](https://openalex.org/A5101881557), [Sejun Kim](https://openalex.org/A5101730893), [Sunghoon Han](https://openalex.org/A5079005872), [Jian Wang](https://openalex.org/A5100712245), [Juwon Kim](https://openalex.org/A5100665647), [Bonho Koo](https://openalex.org/A5060437714), [Alexander A. Ryabin](https://openalex.org/A5044051822), [Sebastian Kunze](https://openalex.org/A5061938345), [Hyejeong Hyun](https://openalex.org/A5030487796), [Jeongwoo Han](https://openalex.org/A5020460471), [Shu-Chih Haw](https://openalex.org/A5049059695), [Keun Hwa Chae](https://openalex.org/A5063597709), [Chang Hyuck Choi](https://openalex.org/A5072570172), [Hyungjun Kim](https://openalex.org/A5100388376), [Jongwoo Lim](https://openalex.org/A5079871073), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03594.
-    
-No abstract    
-
-    
-
-## Highly Acid-Resistant CoNPs@Co-N-C Catalyst for the Efficient Aqueous-Phase Hydrogenation of Maleic Acid to Succinic Acid   
-
-OpenAlex: https://openalex.org/W4403011320    
-Open access: False
-    
-[Zhengyu Zhao](https://openalex.org/A5058084433), [Zongxuan Yang](https://openalex.org/A5100582708), [Hongmei Bai](https://openalex.org/A5049821928), [Hongwei Zhang](https://openalex.org/A5021835538), [Bowen Zhang](https://openalex.org/A5100385156), [Xinru Wu](https://openalex.org/A5101579536), [Zimeng Li](https://openalex.org/A5088518232), [Cejun Hu](https://openalex.org/A5043850612), [Xiaojun Bao](https://openalex.org/A5052807800), [Pei Yuan](https://openalex.org/A5012688685), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03990.
-    
-No abstract    
-
-    
 
 ## Ti-Catalyzed Oxidative Amination Using Anilines   
 
@@ -388,5 +366,16 @@ Open access: True
 [Hongman Sun](https://openalex.org/A5004667543), [Shuzhuang Sun](https://openalex.org/A5005001820), [Xiaoteng Liu](https://openalex.org/A5057337284), [Jingbin Zeng](https://openalex.org/A5026305878), [Youhe Wang](https://openalex.org/A5089942938), [Zifeng Yan](https://openalex.org/A5100456337), [Chunfei Wu](https://openalex.org/A5032589855), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03861.
     
 No abstract    
+
+    
+
+## Mechanistic Investigation into Copper(I) Hydride Catalyzed Formic Acid Dehydrogenation   
+
+OpenAlex: https://openalex.org/W4403171995    
+Open access: True
+    
+[Roel L. M. Bienenmann](https://openalex.org/A5038235290), [Anne Olarte Loyo](https://openalex.org/A5093928496), [Martin Lutz](https://openalex.org/A5037093217), [Daniël L. J. Broere](https://openalex.org/A5087272505), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05008.
+    
+Copper(I) hydride complexes are typically known to react with CO2 to form their corresponding copper formate counterparts. However, recently it has been observed that some multinuclear copper hydrides can feature the opposite reactivity and catalyze the dehydrogenation of formic acid. Here we report the use of a multinuclear PNNP copper hydride complex as an active (pre)catalyst for this reaction. Mechanistic investigations provide insights into the catalyst resting state and the rate-determining step and identify an off-cycle species that is responsible for the unexpected substrate inhibition in this reaction.    
 
     

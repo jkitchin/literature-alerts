@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Oct 2024 01:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 01:19:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhancing Oxygen Evolution Reaction via a Surface Reconstruction-Induced Lattice Oxygen Mechanism</title>
-      <link>https://doi.org/10.1021/acscatal.4c03594</link>
-      <description>Subin Choi, Sejun Kim, Sunghoon Han, Jian Wang, Juwon Kim, Bonho Koo, Alexander A. Ryabin, Sebastian Kunze, Hyejeong Hyun, Jeongwoo Han, Shu-Chih Haw, Keun Hwa Chae, Chang Hyuck Choi, Hyungjun Kim, Jongwoo Lim, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402976597
-
-                No abstract</description>
-      <author>Subin Choi, Sejun Kim, Sunghoon Han, Jian Wang, Juwon Kim, Bonho Koo, Alexander A. Ryabin, Sebastian Kunze, Hyejeong Hyun, Jeongwoo Han, Shu-Chih Haw, Keun Hwa Chae, Chang Hyuck Choi, Hyungjun Kim, Jongwoo Lim</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03594</guid>
-    </item>
-    <item>
-      <title>Highly Acid-Resistant Co&lt;sub&gt;NPs&lt;/sub&gt;@Co-N-C Catalyst for the Efficient Aqueous-Phase Hydrogenation of Maleic Acid to Succinic Acid</title>
-      <link>https://doi.org/10.1021/acscatal.4c03990</link>
-      <description>Zhengyu Zhao, Zongxuan Yang, Hongmei Bai, Hongwei Zhang, Bowen Zhang, Xinru Wu, Zimeng Li, Cejun Hu, Xiaojun Bao, Pei Yuan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403011320
-
-                No abstract</description>
-      <author>Zhengyu Zhao, Zongxuan Yang, Hongmei Bai, Hongwei Zhang, Bowen Zhang, Xinru Wu, Zimeng Li, Cejun Hu, Xiaojun Bao, Pei Yuan</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03990</guid>
-    </item>
     <item>
       <title>Ti-Catalyzed Oxidative Amination Using Anilines</title>
       <link>https://doi.org/10.1021/acscatal.4c04879</link>
@@ -356,6 +336,16 @@
       <author>Hongman Sun, Shuzhuang Sun, Xiaoteng Liu, Jingbin Zeng, Youhe Wang, Zifeng Yan, Chunfei Wu</author>
       <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03861</guid>
+    </item>
+    <item>
+      <title>Mechanistic Investigation into Copper(I) Hydride Catalyzed Formic Acid Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c05008</link>
+      <description>Roel L. M. Bienenmann, Anne Olarte Loyo, Martin Lutz, Dani&#235;l L. J. Broere, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403171995
+
+                Copper(I) hydride complexes are typically known to react with CO2 to form their corresponding copper formate counterparts. However, recently it has been observed that some multinuclear copper hydrides can feature the opposite reactivity and catalyze the dehydrogenation of formic acid. Here we report the use of a multinuclear PNNP copper hydride complex as an active (pre)catalyst for this reaction. Mechanistic investigations provide insights into the catalyst resting state and the rate-determining step and identify an off-cycle species that is responsible for the unexpected substrate inhibition in this reaction.</description>
+      <author>Roel L. M. Bienenmann, Anne Olarte Loyo, Martin Lutz, Dani&#235;l L. J. Broere</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05008</guid>
     </item>
   </channel>
 </rss>

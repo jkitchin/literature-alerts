@@ -4,129 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Oct 2024 01:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 01:19:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First principles study of V2CT2-based MXenes materials in oxygen reduction and oxygen evolution reactions</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118686</link>
-      <description>Wang Zhang, Shanmin Gao, Xinyu Yang, Long Lin, Zhongzhou Dong, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4402973557
-
-                No abstract</description>
-      <author>Wang Zhang, Shanmin Gao, Xinyu Yang, Long Lin, Zhongzhou Dong</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118686</guid>
-    </item>
-    <item>
-      <title>Enhancing Oxygen Evolution Reaction via a Surface Reconstruction-Induced Lattice Oxygen Mechanism</title>
-      <link>https://doi.org/10.1021/acscatal.4c03594</link>
-      <description>Subin Choi, Sejun Kim, Sunghoon Han, Jian Wang, Juwon Kim, Bonho Koo, Alexander A. Ryabin, Sebastian Kunze, Hyejeong Hyun, Jeongwoo Han, Shu-Chih Haw, Keun Hwa Chae, Chang Hyuck Choi, Hyungjun Kim, Jongwoo Lim, ACS Catalysis. None(None)] 2024. https://openalex.org/W4402976597
-
-                No abstract</description>
-      <author>Subin Choi, Sejun Kim, Sunghoon Han, Jian Wang, Juwon Kim, Bonho Koo, Alexander A. Ryabin, Sebastian Kunze, Hyejeong Hyun, Jeongwoo Han, Shu-Chih Haw, Keun Hwa Chae, Chang Hyuck Choi, Hyungjun Kim, Jongwoo Lim</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03594</guid>
-    </item>
-    <item>
-      <title>A Constraint-Based Orbital-Optimized Excited State Method (COOX)</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00467</link>
-      <description>J&#246;rg Ku&#223;mann, Yannick Lemke, Anthea Weinbrenner, Christian Ochsenfeld, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4402987837
-
-                In this work, we present a novel method to directly calculate targeted electronic excited states within a self-consistent field calculation based on constrained density functional theory (cDFT). The constraint is constructed from the static occupied-occupied and virtual-virtual parts of the excited state difference density from (simplified) linear-response time-dependent density functional theory calculations (LR-TDDFT). Our new method shows a stable convergence behavior, provides an accurate excited state density adhering to the Aufbau principle, and can be solved within a restricted SCF for singlet excitations to avoid spin contamination. This also allows the straightforward application of post-SCF electron-correlation methods like MP2 or direct RPA methods. We present the details of our constraint-based orbital-optimized excited state method (COOX) and compare it to similar schemes. The accuracy of excitation energies will be analyzed for a benchmark of systems, while the quality of the resulting excited state densities is investigated by evaluating excited state nuclear forces and excited state structure optimizations. We also investigate the performance of the proposed COOX method for long-range charge transfer excitations and conical intersections with the ground-state.</description>
-      <author>J&#246;rg Ku&#223;mann, Yannick Lemke, Anthea Weinbrenner, Christian Ochsenfeld</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00467</guid>
-    </item>
-    <item>
-      <title>Photoanode Applications of Polyene-Diphenylaniline Dyes Molecules Adsorbed on TiO2 Brookite Cluster</title>
-      <link>https://doi.org/10.5772/intechopen.1005450</link>
-      <description>Ife Elegbeleye, Eric Maluta, Rapela R. Maphanga, Michael Walter, Oliver Br&#252;gner, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4402990515
-
-                TiO2 has excellent photoelectrochemical properties, which makes its suitable for photoanode applications. TiO2 is widely utilized as semiconductor for dye-sensitized photoanode owing to its excellent stability and availability. The brookite polymorph of TiO2 has been suggested to demonstrate better photocatalytic properties. In this work, we studied the adsorption of polyenediphenyl-aniline dyes on (TiO2) n = 8, 68 brookite clusters using density functional theory (DFT). We report our results on the UV&#8211;Vis absorption spectra of the dyes and dyes adsorbed on TiO2 clusters, adsorption energies of the dyes adsorbed on TiO2 clusters, electronic density of states and projected electronic density of states of the dyes adsorbed on TiO2 complex, and electron density of the main molecular orbitals involved in photoexcitation for dye-sensitized solar cells application. The calculated adsorption energies of D5@(TiO2)68, D7@(TiO2)68, D9@(TiO2)68, and D11@(TiO2)68 are 4.84, 4.78, 4.66 and 4.92 eV, respectively. The results of the adsorption energies are in the order D11@(TiO2)8 &gt; D9@(TiO2)8 &gt; D7@(TiO2)8 &gt; D5@(TiO2)8 and D11@ (TiO2)68 &gt; D5@ (TiO2)68 &gt; D7@ (TiO2)68 &gt; D9@ (TiO2)68. This implies that D11 dye molecule reacts more strongly with (TiO2)8 and (TiO2)68 brookite clusters than the other corresponding dye molecules.</description>
-      <author>Ife Elegbeleye, Eric Maluta, Rapela R. Maphanga, Michael Walter, Oliver Br&#252;gner</author>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.1005450</guid>
-    </item>
-    <item>
-      <title>Accurate Crystal Structure Prediction of New 2D Hybrid Organic&#8211;Inorganic Perovskites</title>
-      <link>https://doi.org/10.1021/jacs.4c06549</link>
-      <description>Nima Karimitari, William J. Baldwin, Evan W. Muller, Zachary J. L. Bare, W. Joshua Kennedy, G&#225;bor C&#347;anyi, Christopher Sutton, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4402993739
-
-                Low-dimensional hybrid organic-inorganic perovskites (HOIPs) are promising electronically active materials for light absorption and emission. The design space of HOIPs is extremely large, as a variety of organic cations can be combined with different inorganic frameworks. This not only allows for tunable electronic and mechanical properties but also necessitates the development of new tools for in silico high throughput analysis of candidate materials. In this work, we present an accurate, efficient, and widely applicable machine learning interatomic potential (MLIP) trained on 86 diverse experimentally reported HOIP materials. This MLIP was tested on 73 experimentally reported perovskite compositions and achieves a high accuracy, relative to density functional theory (DFT). We also introduce a novel random structure search algorithm designed for the crystal structure prediction of 2D HOIPs. The combination of MLIP and the structure search algorithm reliably recovers the crystal structure of 14 known 2D perovskites by specifying only the organic molecule and inorganic cation/halide. Performing this crystal structure search with ab initio methods would be computationally prohibitive but is relatively inexpensive with the MLIP. Finally, the developed procedure is used to predict the structure of a totally new HOIP with cation (</description>
-      <author>Nima Karimitari, William J. Baldwin, Evan W. Muller, Zachary J. L. Bare, W. Joshua Kennedy, G&#225;bor C&#347;anyi, Christopher Sutton</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c06549</guid>
-    </item>
-    <item>
-      <title>Structure&#8211;Activity Relationships in Oxygen Electrocatalysis</title>
-      <link>https://doi.org/10.1002/adma.202408139</link>
-      <description>Jingqi Guan, Jingru Sun, Siyu Chen, Siying Zhang, Luoluo Qi, Anaer Husile, Jingqi Guan, Advanced Materials. None(None)] 2024. https://openalex.org/W4402994393
-
-                Abstract Oxygen electrocatalysis, as the pivotal circle of many green energy technologies, sets off a worldwide research boom in full swing, while its large kinetic obstacles require remarkable catalysts to break through. Here, based on summarizing reaction mechanisms and in situ characterizations, the structure&#8211;activity relationships of oxygen electrocatalysts are emphatically overviewed, including the influence of geometric morphology and chemical structures on the electrocatalytic performances. Subsequently, experimental/theoretical research is combined with device applications to comprehensively summarize the cutting&#8208;edge oxygen electrocatalysts according to various material categories. Finally, future challenges are forecasted from the perspective of catalyst development and device applications, favoring researchers to promote the industrialization of oxygen electrocatalysis at an early date.</description>
-      <author>Jingqi Guan, Jingru Sun, Siyu Chen, Siying Zhang, Luoluo Qi, Anaer Husile, Jingqi Guan</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202408139</guid>
-    </item>
-    <item>
-      <title>Probing the Metal/Oxide Interface of IrCoCeO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; in N&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt;&#183;H&lt;sub&gt;2&lt;/sub&gt;O Decomposition: An Experimental and Computational Study</title>
-      <link>https://doi.org/10.1021/acsami.4c12306</link>
-      <description>Silvio Bellomi, Daniel C. Cano-Blanco, Ilaria Barlocco, Juan J. Delgado, Xiaowei Chen, Laura Prati, Davide Ferri, Nikolaos Dimitratos, Alberto Rold&#225;n, Alberto Villa, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4402996365
-
-                Understanding the structure of a functional catalyst is crucial to disclosing the complexity of heterogeneous processes and improving their efficiency. Herein, coprecipitated cobalt-ceria (CoCeO</description>
-      <author>Silvio Bellomi, Daniel C. Cano-Blanco, Ilaria Barlocco, Juan J. Delgado, Xiaowei Chen, Laura Prati, Davide Ferri, Nikolaos Dimitratos, Alberto Rold&#225;n, Alberto Villa</author>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c12306</guid>
-    </item>
-    <item>
-      <title>Enhancing &lt;scp&gt;HER&lt;/scp&gt; catalyst screening of modified &lt;scp&gt;MXenes&lt;/scp&gt; through &lt;scp&gt;DFT&lt;/scp&gt; and machine learning integration</title>
-      <link>https://doi.org/10.1002/aic.18618</link>
-      <description>Hui Xu, Wei Lv, Shaojie Yang, Shihe Yang, Yawei Liu, Feng Huo, AIChE Journal. None(None)] 2024. https://openalex.org/W4402997886
-
-                Abstract MXenes doped with non&#8208;metallic and transition metal elements exhibit remarkable potential as catalysts in the hydrogen energy. Nonetheless, efficiently identifying viable materials from a vast array of candidates remains a formidable challenge. Here, we conducted density functional theory (DFT) calculations to obtain the hydrogen adsorption free energy () of 78 types of doped TiVCO 2 MXene catalysts. Then we employed machine learning models to categorize the values of the 78 catalysts, resulted in an accurate model which only uses 7 readily available elemental features but has an impressive accuracy of 93.6%. Our model successfully predicting 5 TiVCO 2 catalysts doped with S with superior performance, subsequently validated through DFT calculations. This classification methodology not only evaluates the range of effectively but also facilitates qualitative prediction and screening of catalysts, presenting a novel approach for catalytic systems with limited available data.</description>
-      <author>Hui Xu, Wei Lv, Shaojie Yang, Shihe Yang, Yawei Liu, Feng Huo</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18618</guid>
-    </item>
-    <item>
-      <title>Regulating Fe Intermediate Spin States via FeN&lt;sub&gt;4&lt;/sub&gt;&#8208;Cl&#8208;Ti Structure for Enhanced Oxygen Reduction</title>
-      <link>https://doi.org/10.1002/aenm.202403899</link>
-      <description>Shuren Zhang, Yitong Han, Rui Zhang, Qian Zhang, Genban Sun, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4403000792
-
-                Abstract Modulating the spin states of FeN 4 moieties is critical for enhancing the electrocatalytic oxygen reduction reaction (ORR). In this study, Ti 4 N 3 Cl x and Ti 4 N 3 O x MXenes are synthesized and functionalized with iron phthalocyanine (FePc) to form model catalysts with well&#8208;defined FeN 4 &#8208;Cl&#8208;Ti and FeN 4 &#8208;O&#8208;Ti structures, respectively. The FeN 4 &#8208;Cl&#8208;Ti structure, formed within the Ti 4 N 3 Cl x /FePc composite, enables precise modulation of FeN 4 spin states from low to intermediate spin, significantly enhancing ORR performance. In contrast, the FeN 4 &#8208;O&#8208;Ti structure in Ti 4 N 3 O x /FePc shows less effective spin state modulation, leading to comparatively lower ORR activity. Compared to FePc and Ti 4 N 3 O x /FePc, Ti 4 N 3 Cl x /FePc demonstrates superior electrochemical performance, with an ORR half&#8208;wave potential of +0.91 V versus RHE and doubled power densities in Zn&#8211;air batteries (214.5 mW cm &#8722;2 ). Theoretical studies confirm that the intermediate spin states induced by the weak&#8208;field ligand&#8208;modified FeN 4 &#8208;Cl&#8208;Ti structure in Ti 4 N 3 Cl x /FePc facilitate electron filling in the antibonding orbital composed of Fe 3dz 2 and O 2 &#960;* orbitals, greatly enhancing O&#8322; activation and ORR activity. These findings underscore the superior catalytic properties of FeN 4 &#8208;Cl&#8208;Ti compared to FeN 4 &#8208;O&#8208;Ti, advancing the understanding of spin state&#8208;related catalytic mechanisms and guiding the design of high&#8208;performance ORR catalysts.</description>
-      <author>Shuren Zhang, Yitong Han, Rui Zhang, Qian Zhang, Genban Sun</author>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403899</guid>
-    </item>
-    <item>
-      <title>Electrocatalysis, diverse and forever young</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145174</link>
-      <description>Tristan Asset, Alexandr G. Oshchepkov, Fr&#233;d&#233;ric Maillard, Galina A. Tsirlina, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4403000938
-
-                No abstract</description>
-      <author>Tristan Asset, Alexandr G. Oshchepkov, Fr&#233;d&#233;ric Maillard, Galina A. Tsirlina</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145174</guid>
-    </item>
-    <item>
-      <title>Exploring the potential of &#945;-Ge(1 1 1) monolayer in photocatalytic water splitting for hydrogen production</title>
-      <link>https://doi.org/10.1016/j.flatc.2024.100753</link>
-      <description>Vin&#237;cius G. Garcia, Guilherme J. Inacio, L. Fiorini Filho, Lu&#237;za T. Pacheco, F.N.N. Pansini, Marcos G. Menezes, Wendel S. Paz, FlatChem. None(None)] 2024. https://openalex.org/W4403001015
-
-                No abstract</description>
-      <author>Vin&#237;cius G. Garcia, Guilherme J. Inacio, L. Fiorini Filho, Lu&#237;za T. Pacheco, F.N.N. Pansini, Marcos G. Menezes, Wendel S. Paz</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.flatc.2024.100753</guid>
-    </item>
-    <item>
-      <title>Topological Synthesis of 2D High&#8208;Entropy Multimetallic (Oxy)hydroxide for Enhanced Lattice Oxygen Oxidation Mechanism</title>
-      <link>https://doi.org/10.1002/adma.202409530</link>
-      <description>Sijia Liu, Baorui Jia, Sheng Wang, Yongzhi Zhao, Luan Liu, Fengmei Fan, Yunpu Qin, Jianfang Liu, Yirui Jiang, Bin Sun, Hong Zhao, Hao Li, Wenxiang Zhou, Haoyang Wu, Deyin Zhang, Xuanhui Qu, Mingli Qin, Advanced Materials. None(None)] 2024. https://openalex.org/W4403002748
-
-                Abstract Owing to sluggish reaction kinetics and high potential, oxygen evolution reaction (OER) electrocatalysts face a trade&#8208;off between activity and stability. Herein, an innovative topological strategy is presented for preparing 2D multimetallic (oxy)hydroxide, including ternary CoFeZn, quaternary CoFeMnZn, and high&#8208;entropy CoFeMnCuZn. The key to the synthesis lies in using Ca&#8208;rich brownmillerite oxide as a precursor, which possesses inherent structural flexibility enabling tailored elemental adjustments and topologically transforms from a point&#8208;shared structure of metal&#8208;oxygen octahedrons into an edge&#8208;shared structure under alkaline conditions. The presence of Zn in the catalysts causes a shift in the center of the O2p band toward the Fermi level, resulting in more Co 4+ species, which drive holes into oxygen ligands to promote intramolecular oxygen coupling. The triggered lattice oxidation mechanism is identified by detecting peroxo&#8208;like (O 2 2&#8722; ) negative species using tetramethylammonium chemical probe, along with 18 O isotope labeling experiments. As a result, the catalyst demonstrates an overpotential of 267 mV at 10 mA cm &#8722;2 , ranking it among the top&#8208;performing non&#8208;Ni&#8208;based catalysts. Importantly, the catalysts also show high Fe&#8208;leaching resistance during OER compared to conventional NiFe and CoFe hydroxides/(oxy)hydroxides. The assembled zinc&#8208;air battery enables stable operation for over 225 h at a low charging voltage of 1.93 V.</description>
-      <author>Sijia Liu, Baorui Jia, Sheng Wang, Yongzhi Zhao, Luan Liu, Fengmei Fan, Yunpu Qin, Jianfang Liu, Yirui Jiang, Bin Sun, Hong Zhao, Hao Li, Wenxiang Zhou, Haoyang Wu, Deyin Zhang, Xuanhui Qu, Mingli Qin</author>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202409530</guid>
-    </item>
     <item>
       <title>Monovacant Janus WSSe designed as a bifunctional photocatalyst for OER and CO2RR with multiple C1 products</title>
       <link>https://doi.org/10.1016/j.surfin.2024.105206</link>
@@ -448,6 +328,16 @@
       <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.155409</guid>
     </item>
     <item>
+      <title>Determining the chemical ordering in nanoalloys by considering atomic coordination types</title>
+      <link>https://doi.org/10.1063/5.0214377</link>
+      <description>Riccardo Farris, Konstantin M. Neyman, Albert Bruix, The Journal of Chemical Physics. 161(13)] 2024. https://openalex.org/W4403135114
+
+                The energetically most favorable chemical ordering of bimetallic nanoparticles can be characterized by combining global optimization algorithms and surrogate energy models. The latter approximate the energy of nanoalloys relying on structural descriptors, training models, and data. Here, we systematically evaluate the performance of highly data-efficient topological descriptors [Kozlov et al., Chem. Sci. 6, 3868 (2015)] for predicting the energies of metal nanoalloys with different chemical orderings. We also introduce a new descriptor based on atomic coordination types, which results in a less data-efficient and interpretable approach, but improves the general accuracy and the quantification of orderings in the inner parts of nanoparticles. The capacity of both the original and new approaches in combination with a basin hopping algorithm is illustrated by generating convex hulls of PdZn nanoalloys and predicting the resulting active surface site distribution as a function of particle composition. Finally, we show how these approaches can be combined with machine-learning adsorption models in electrocatalysis studies for a fast evaluation of the reactivity landscape of targeted nanoalloys.</description>
+      <author>Riccardo Farris, Konstantin M. Neyman, Albert Bruix</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0214377</guid>
+    </item>
+    <item>
       <title>Oriented Crystal Polarization Tuning Bulk Charge and Single&#8208;Site Chemical State for Exceptional Hydrogen Photo&#8208;Production</title>
       <link>https://doi.org/10.1002/adma.202411339</link>
       <description>Zijian Zhu, Jingcong Hu, Cheng Hu, Yue Lu, Shengqi Chu, Fang Chen, Hongwei Huang, Hongwei Huang, Advanced Materials. None(None)] 2024. https://openalex.org/W4403140168
@@ -522,7 +412,7 @@
       <link>https://doi.org/10.1016/j.jenvman.2024.122729</link>
       <description>Changgeng Li, Cheng Liu, Yun Han, Weibin Xu, Bing Yan, Aijun Du, Qin Li, Qi Yu, Journal of Environmental Management. 370(None)] 2024. https://openalex.org/W4403157311
 
-                No abstract</description>
+                Elevated levels of total hardness in drinking water can readily result in scaling, which poses a threat to both the safety of water quality and the convenience of its use. While there is a wealth of research on the removal of calcium hardness, there is a dearth of studies focusing on the removal of magnesium hardness. In light of this, the present study employs modified induced crystallization softening (MICS) to delineate the removal pathways and mechanisms of magnesium hardness, and to investigate viable methods for its enhancement and application. Our research has determined that magnesium hardness can be effectively removed from water through the MICS, with the dosage of softening agents (NaOH) being a significant factor that influences this removal, whereas the fixed bed height within the fluidized bed exerts minimal impact on the process. In the low-dose stage (less than 250 mg/L), when the pH is below 10.0, up to 20% of magnesium hardness can be removed, predominantly through the crystallization of (Ca</description>
       <author>Changgeng Li, Cheng Liu, Yun Han, Weibin Xu, Bing Yan, Aijun Du, Qin Li, Qi Yu</author>
       <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.122729</guid>
@@ -566,6 +456,16 @@
       <author>You Zi, Chengxu Zhang, Jian-Qiang Zhao, Ying Cheng, Jinliang Yuan, Jue Hu</author>
       <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202406657</guid>
+    </item>
+    <item>
+      <title>Thermosalient Phase Transitions from Machine Learning Interatomic Potential</title>
+      <link>https://doi.org/10.1021/acs.cgd.4c00905</link>
+      <description>Bruno Mladineo, Ivor Lon&#269;ari&#263;, Crystal Growth &amp; Design. None(None)] 2024. https://openalex.org/W4403173139
+
+                No abstract</description>
+      <author>Bruno Mladineo, Ivor Lon&#269;ari&#263;</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.4c00905</guid>
     </item>
     <item>
       <title>Interaction of H2S with perfect and O-covered Pd(100) surface: A first-principles study</title>
