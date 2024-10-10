@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Oct 2024 01:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 01:19:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Aaditya Hari Bharanidharan, Kyle McGaugh, Aime Laurent Twizeriman, Kaylen Ocampo, G&#246;tz Veser, Mohammad S. Masnadi</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106800</guid>
+    </item>
+    <item>
+      <title>Flexible Triboelectric Sensor based on Catalyst&#8208;Diffusion Self&#8208;Encapsulated Conductive Liquid&#8208;Metal&#8208;Silicone Ink for Somatosensory Soft Robotic System</title>
+      <link>https://doi.org/10.1002/adfm.202412293</link>
+      <description>Shuai Xian, Yong Xu, Yixin Li, Zhenfeng Wu, Xing Xie, Zhigang Wu, Xiya Yang, Yong Zhong, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403214305
+
+                Abstract The combination of fluidity and metallic conductivity has attracted considerable attention to liquid metal (LM), but its development remains challenging due to enormous surface tension. Here, vinyl&#8208;terminated silicone oil and platinum catalyst are added to LM to reduce its surface tension, which develops a special type of liquid&#8208;metal&#8208;silicone (LMS) ink with a catalyst diffusion effect. Combined with an embedded three&#8208;dimentional (3D) printing method, the LMS ink is printed on the support matrix, and the catalyst diffuses outward along the print path to cure the silicone around it, directly constructing self&#8208;encapsulated conductive composites with excellent conductivity and self&#8208;encapsulated flexible tactile sensors based on triboelectric nanogenerator (TENG). The sensor exhibits excellent sensitivity (0.308 V kPa &#8722;1 ), high linearity (&#8776;0.99), and good durability (over 10 000 cycles). Furthermore, when used in flexible wearable electronics, the sensor demonstrates a good performance with an accuracy of &#8776;96% in classifying different human postures using a convolutional neural network. Finally, through embedded 3D printing with LMS ink and silicone ink, a somatosensory soft robotic gripper with complex cavity structures is designed and manufactured in one step, achieving the all&#8208;in&#8208;one integration of sensors and actuators. This study shows great application potential in flexible electronics and soft robotic systems.</description>
+      <author>Shuai Xian, Yong Xu, Yixin Li, Zhenfeng Wu, Xing Xie, Zhigang Wu, Xiya Yang, Yong Zhong</author>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202412293</guid>
     </item>
   </channel>
 </rss>

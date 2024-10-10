@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Oct 2024 01:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 01:19:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ti-Catalyzed Oxidative Amination Using Anilines</title>
-      <link>https://doi.org/10.1021/acscatal.4c04879</link>
-      <description>Steven K. Butler, Ethan P. Ashbrook, Madeleine G. Harris, Ian A. Tonks, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403017940
-
-                No abstract</description>
-      <author>Steven K. Butler, Ethan P. Ashbrook, Madeleine G. Harris, Ian A. Tonks</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04879</guid>
-    </item>
-    <item>
-      <title>Redefining the Symphony of Light Aromatic Synthesis Beyond Fossil Fuels: A Journey Navigating through a Fe-Based/HZSM-5 Tandem Route for Syngas Conversion</title>
-      <link>https://doi.org/10.1021/acscatal.4c03941</link>
-      <description>Muhammad Asif Nawaz, Rub&#233;n Blay-Roger, Maria Saif, Fanhui Meng, Luis F. Bobadilla, Tom&#225;s Ram&#305;&#769;rez Reina, J.A. Odriozola, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403019032
-
-                No abstract</description>
-      <author>Muhammad Asif Nawaz, Rub&#233;n Blay-Roger, Maria Saif, Fanhui Meng, Luis F. Bobadilla, Tom&#225;s Ram&#305;&#769;rez Reina, J.A. Odriozola</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03941</guid>
-    </item>
-    <item>
-      <title>Radical Fluorosulfonylmethylation: A Photocatalytic and Facile Access to PMSF and Related Derivatives</title>
-      <link>https://doi.org/10.1021/acscatal.4c04391</link>
-      <description>Chenxi Mao, Yao Huang, Hao Li, Tianxiao Xu, Jianxu Chen, Saihu Liao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403036829
-
-                No abstract</description>
-      <author>Chenxi Mao, Yao Huang, Hao Li, Tianxiao Xu, Jianxu Chen, Saihu Liao</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04391</guid>
-    </item>
-    <item>
-      <title>Dehydrogenation of &lt;i&gt;n&lt;/i&gt;-Butane on Metal Cobalt Sites Confined within Ceria Nanoislands</title>
-      <link>https://doi.org/10.1021/acscatal.4c04157</link>
-      <description>Xinbao Zhang, Xiangxue Zhu, Junjie Li, Jianyang Wang, Shaoguo Li, Rongtan Li, Zhicheng Tang, Rentao Mu, Qiang Fu, Longya Xu, Xiangxue Zhu, Xiujie Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403042776
-
-                No abstract</description>
-      <author>Xinbao Zhang, Xiangxue Zhu, Junjie Li, Jianyang Wang, Shaoguo Li, Rongtan Li, Zhicheng Tang, Rentao Mu, Qiang Fu, Longya Xu, Xiangxue Zhu, Xiujie Li</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04157</guid>
-    </item>
-    <item>
-      <title>Designed CYP450 Scaffold That Possesses a Local Electric Field Biodegrades Polyethylene Terephthalate</title>
-      <link>https://doi.org/10.1021/acscatal.4c05363</link>
-      <description>Shakir Ali Siddiqui, Sason Shaik, Kshatresh Dutta Dubey, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403042803
-
-                No abstract</description>
-      <author>Shakir Ali Siddiqui, Sason Shaik, Kshatresh Dutta Dubey</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05363</guid>
-    </item>
-    <item>
-      <title>Hydrogen Evolution Reaction Activity in Mo&lt;sub&gt;2&lt;/sub&gt;TiC&lt;sub&gt;2&lt;/sub&gt;T&lt;i&gt;x&lt;/i&gt; MXene Derived from Mo&lt;sub&gt;2&lt;/sub&gt;TiAlC&lt;sub&gt;2&lt;/sub&gt; MAX Phase: Insights from Compositional Transformations</title>
-      <link>https://doi.org/10.1021/acscatal.4c04099</link>
-      <description>Jan Luxa, Petr Kupka, Fedor Lipilin, Ji&#345;&#237; &#352;turala, Amutha Subramani, Petr Lazar, Zden&#283;k Sofer, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403052741
-
-                No abstract</description>
-      <author>Jan Luxa, Petr Kupka, Fedor Lipilin, Ji&#345;&#237; &#352;turala, Amutha Subramani, Petr Lazar, Zden&#283;k Sofer</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04099</guid>
-    </item>
     <item>
       <title>Breaking the Trade-Off between CO Tolerance and Intrinsic Activity in Hydrogenation on Metal Oxide-Supported Noble Metal Single Atoms through Coordination Environment Engineering</title>
       <link>https://doi.org/10.1021/acscatal.4c04297</link>
@@ -346,6 +286,66 @@
       <author>Roel L. M. Bienenmann, Anne Olarte Loyo, Martin Lutz, Dani&#235;l L. J. Broere</author>
       <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05008</guid>
+    </item>
+    <item>
+      <title>Influence of Trace Metal in Plastics on Catalyst Activity and Reusability during Polyolefins Upcycling with Polyoxometalates</title>
+      <link>https://doi.org/10.1021/acscatal.4c04719</link>
+      <description>Hongda Zhu, Justin T. Douglas, Bala Subramaniam, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403172589
+
+                No abstract</description>
+      <author>Hongda Zhu, Justin T. Douglas, Bala Subramaniam</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04719</guid>
+    </item>
+    <item>
+      <title>Synthesis of &#946;&lt;i&gt;-&lt;/i&gt;(Hetero)aryl Ketones via Ligand-Enabled Nondirected C&#8211;H Alkylation</title>
+      <link>https://doi.org/10.1021/acscatal.4c04319</link>
+      <description>Yogesh Bairagi, Sandip Porey, Sai V. C. Vummaleti, Xinglong Zhang, Goutam Kumar Lahiri, Debabrata Maiti, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403184597
+
+                No abstract</description>
+      <author>Yogesh Bairagi, Sandip Porey, Sai V. C. Vummaleti, Xinglong Zhang, Goutam Kumar Lahiri, Debabrata Maiti</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04319</guid>
+    </item>
+    <item>
+      <title>Micelle-Dependent Spontaneous Formation of Gold(I) in Nanodendritic Chloride-Bridged Particles with Catalytic Activity for Cyclization of Alkynylanilines in an Aqueous Environment</title>
+      <link>https://doi.org/10.1021/acscatal.4c03427</link>
+      <description>Gaganpreet Kaur, Gaspard Hedouin, Raki Mandal, Jacek B. Jasi&#324;ski, Xiaoqing He, Min Su, Juejing Liu, Xiaofeng Guo, Justin R. Walensky, Gary A. Baker, Fabrice Gallou, Sachin Handa, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403184781
+
+                No abstract</description>
+      <author>Gaganpreet Kaur, Gaspard Hedouin, Raki Mandal, Jacek B. Jasi&#324;ski, Xiaoqing He, Min Su, Juejing Liu, Xiaofeng Guo, Justin R. Walensky, Gary A. Baker, Fabrice Gallou, Sachin Handa</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03427</guid>
+    </item>
+    <item>
+      <title>Lattice-Disordered Boron Nitride Colloidal Catalyst for Low-Temperature Selective Methane Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c03534</link>
+      <description>Younhwa Kim, Hyesung Choi, Yong Jin Kim, Sungsu Kang, Chanhee Choi, Jihoon Kim, Chyan Kyung Song, Jae Hyuck Sung, Jeong Woo Han, Jungwon Park, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403190398
+
+                No abstract</description>
+      <author>Younhwa Kim, Hyesung Choi, Yong Jin Kim, Sungsu Kang, Chanhee Choi, Jihoon Kim, Chyan Kyung Song, Jae Hyuck Sung, Jeong Woo Han, Jungwon Park</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03534</guid>
+    </item>
+    <item>
+      <title>Imaging Gas-Phase Methyl Radicals over a Ag/SiO&lt;sub&gt;2&lt;/sub&gt; Catalyst during the Partial Oxidation of Methanol</title>
+      <link>https://doi.org/10.1021/acscatal.4c03741</link>
+      <description>Sebastian Pfaff, Erxiong Huang, Jonathan H. Frank, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403199484
+
+                No abstract</description>
+      <author>Sebastian Pfaff, Erxiong Huang, Jonathan H. Frank</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03741</guid>
+    </item>
+    <item>
+      <title>In Situ ORR Dynamics of Non-Precious Transition Metal Electrocatalysts: the Case of Manganese Antimony X-ides</title>
+      <link>https://doi.org/10.1021/acscatal.4c03260</link>
+      <description>Gaurav A. Kamat, Melissa E. Kreider, Johanna Schr&#246;der, Roulince Bobby Dukuly, Joseph T. Perryman, Bj&#248;rt Joensen, Jesse E. Matthews, Ashton M. Aleman, Michaela Burke Stevens, Thomas F. Jaramillo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403213342
+
+                No abstract</description>
+      <author>Gaurav A. Kamat, Melissa E. Kreider, Johanna Schr&#246;der, Roulince Bobby Dukuly, Joseph T. Perryman, Bj&#248;rt Joensen, Jesse E. Matthews, Ashton M. Aleman, Michaela Burke Stevens, Thomas F. Jaramillo</author>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03260</guid>
     </item>
   </channel>
 </rss>
