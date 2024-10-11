@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Oct 10 01:19:56 2024
+Created on Fri Oct 11 01:20:02 2024
 
-Found 46 results from 2024-10-03 to 2024-10-10
+Found 47 results from 2024-10-04 to 2024-10-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076]]
@@ -16,132 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Engineering medium-entropy alloy nanoparticle nanotubes for efficient oxygen reduction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403063780
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2024.176859")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403063780"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403063780"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403063780"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403063780 (Open access: False)
-    
-[[https://openalex.org/A5100318569][Qian Liu]], [[https://openalex.org/A5056947298][Haoran Kang]], [[https://openalex.org/A5100345653][Yu Liu]], [[https://openalex.org/A5055925415][Xiaowei Zhang]], [[https://openalex.org/A5101152273][Yisong Zhao]], [[https://openalex.org/A5087291851][Ying Shirley Meng]], [[https://openalex.org/A5101597104][Faming Gao]], Journal of Alloys and Compounds. None(None)] 2024. https://doi.org/10.1016/j.jallcom.2024.176859 
-     
-No abstract    
-
-    
-
-* Ligand engineering regulates the electronic structure of Ni-N-C sites to promote electrocatalytic acetylene semi-hydrogenation  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403065344
-:TOPICS: Electrocatalysis for Energy Conversion, Lithium-ion Battery Technology, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcat.2024.115784")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403065344"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403065344"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403065344"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403065344 (Open access: False)
-    
-[[https://openalex.org/A5058436913][Kai Xu]], [[https://openalex.org/A5030610538][Mingqiang Liu]], [[https://openalex.org/A5100577718][Song Xiaoning]], [[https://openalex.org/A5100363679][Shengyuan Xu]], [[https://openalex.org/A5029755515][Kefeng Xie]], Journal of Catalysis. None(None)] 2024. https://doi.org/10.1016/j.jcat.2024.115784 
-     
-No abstract    
-
-    
-
-* Quantitative analysis of hydrogen leakage flow measurement and calculation in the on-board hydrogen system pipelines  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403073499
-:TOPICS: Challenges and Applications of Detonation Propulsion Technology, Cryogenic Fluid Storage and Management, Refrigeration Systems and Technologies
-:PUBLICATION_DATE: 2024-10-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.09.381")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403073499"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403073499"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403073499"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403073499 (Open access: False)
-    
-[[https://openalex.org/A5037373383][Chuan Qin]], [[https://openalex.org/A5022132361][Ying Tian]], [[https://openalex.org/A5082555841][Zirong Yang]], [[https://openalex.org/A5029170394][Dong Hao]], [[https://openalex.org/A5100448856][Lili Feng]], International Journal of Hydrogen Energy. 89(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.09.381 
-     
-No abstract    
-
-    
-
-* Surprising Dynamics Phenomena in the Diels–Alder Reaction of C60 Uncovered with AI  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403082209
-:TOPICS: Accelerating Materials Innovation through Informatics, Chemistry and Applications of Fullerenes, Advancements in Density Functional Theory
-:PUBLICATION_DATE: 2024-10-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.joc.4c01763")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403082209"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403082209"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403082209"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403082209 (Open access: False)
-    
-[[https://openalex.org/A5102916072][Yi-Fan Hou]], [[https://openalex.org/A5103025017][Quanhao Zhang]], [[https://openalex.org/A5063240098][Pavlo O. Dral]], The Journal of Organic Chemistry. None(None)] 2024. https://doi.org/10.1021/acs.joc.4c01763 
-     
-We performed an extensive artificial intelligence-accelerated quasi-classical molecular dynamics investigation of the time-resolved mechanism of the Diels-Alder reaction of fullerene C    
-
-    
-
-* Insights into the Effect of Crystal Facets and Sulfur Defects on the Product Selectivity of Various CdS Configurations for CO2 Photoreduction: A DFT Study  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403084362
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Applications of Quantum Dots in Nanotechnology, Formation and Properties of Nanocrystals and Nanostructures
-:PUBLICATION_DATE: 2024-10-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/catal14100688")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403084362"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403084362"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403084362"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403084362 (Open access: True)
-    
-[[https://openalex.org/A5019624996][Shuai Liu]], [[https://openalex.org/A5100378741][Jing Wang]], [[https://openalex.org/A5046045888][Yu Zhong]], [[https://openalex.org/A5020146176][Leiping Wang]], [[https://openalex.org/A5086597691][Ding‐Ming Xue]], [[https://openalex.org/A5063107775][Lei Tong]], [[https://openalex.org/A5100671934][Honglei Zhang]], [[https://openalex.org/A5043100976][Tao Wu]], [[https://openalex.org/A5102729565][Guangsuo Yu]], [[https://openalex.org/A5072659014][Hang Xiao]], Catalysts. 14(10)] 2024. https://doi.org/10.3390/catal14100688 
-     
-CO2 photoreduction into valuable hydrocarbons, such as CO, CH4, and C2H4, delivers a promising approach to address both environmental and energy challenges. Transition metal chalcogenides, particularly cadmium sulfide (CdS), have emerged as prominent candidates due to their tunable electronic properties and availability. This study delves into a comprehensive investigation of how CdS crystalline facets and sulfur-deficient surfaces modulate the product selectivity. Through employing density functional theory (DFT), we unravel the catalytic performance of various CdS crystal orientations and sulfur vacancy configurations. The results have shown that different CdS facets exhibit unique electronic characteristics and surface energetics, which influence the adsorption dynamics and reaction pathways. The introduction of sulfur vacancies further modulates the nature of active sites, leading to substantial shifts in product selectivity. A detailed investigation on the reaction mechanisms unveils that specific facets preferentially facilitate the formation of CO, while others are more conducive to the generation of hydrocarbons such as CH4 and C2H4, due to the variations in activation barriers and intermediate stabilities. These findings underscore the importance of crystal facet engineering and defect manipulation in tailoring catalyst performance thus providing valuable insights for the rational design of efficient and selective CO2 reduction metal catalysts.    
-
-    
-
-* Unveiling the Synergy between Surface Terminations and Boron Configuration in Boron-Based Ti3C2 MXenes Electrocatalysts for Nitrogen Reduction Reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403085318
-:TOPICS: Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-10-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03415")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403085318"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403085318"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403085318"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403085318 (Open access: True)
-    
-[[https://openalex.org/A5006408002][Ling Meng]], [[https://openalex.org/A5102782406][Francesc Viñes]], [[https://openalex.org/A5012273051][Francesc Illas]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03415 
-     
-No abstract    
-
-    
 
 * Uncertainty Quantification of Linear Scaling, Machine Learning, and Density Functional Theory Derived Thermodynamics for the Catalytic Partial Oxidation of Methane on Rhodium  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -266,6 +140,27 @@ OpenAlex: https://openalex.org/W4403099600 (Open access: False)
 [[https://openalex.org/A5082657818][Boyan Liu]], [[https://openalex.org/A5100322864][Li Wang]], [[https://openalex.org/A5067494756][Yingjuan Zhang]], [[https://openalex.org/A5100806779][Kang Wan]], [[https://openalex.org/A5074502871][Liangcheng Xu]], [[https://openalex.org/A5100930579][Siqing Ma]], [[https://openalex.org/A5039542828][Ruoting Zhao]], [[https://openalex.org/A5043018151][Songcan Wang]], [[https://openalex.org/A5101669002][Wei Huang]], Advanced Energy Materials. None(None)] 2024. https://doi.org/10.1002/aenm.202403835 
      
 Abstract Photoelectrochemical (PEC) water splitting is a promising technology for green hydrogen production. However, severe charge recombination in the photoelectrode materials is one of the key obstacles to achieving high performance. Herein, a BiVO₄ photoanode with lattice strain (Str‐BVO) is constructed by generating Bi vacancies to promote charge separation in the bulk. The optimized Str‐BVO photoanode achieves a photocurrent density of 6.20 mA cm⁻ 2 at 1.23 V versus the reversible hydrogen electrode under AM 1.5 G illumination, with an impressive charge separation efficiency close to 100%. Systematical experiments and density functional theory reveal that the surface Bi vacancies induced strain causes the distortion of a small number of VO 4 tetrahedra, which increases the antibonding state energy of most normal VO 4 tetrahedra and creates more electronic vacancy states, thereby significantly promoting electron–hole separation. By surface loading with a FeNiO x co‐catalyst, the photoanode exhibits excellent PEC water‐splitting performance and stability.    
+
+    
+
+* Preparation Technology of Nanomaterials  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403102968
+:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/978-981-97-8433-2_6")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403102968"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403102968"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403102968"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403102968 (Open access: True)
+    
+[[https://openalex.org/A5034879972][Shengjie Peng]], [[https://openalex.org/A5100432703][Peng Li]], Nanomaterials and Nanotechnology. None(None)] 2024. https://doi.org/10.1007/978-981-97-8433-2_6 
+     
+No abstract    
 
     
 
@@ -479,6 +374,27 @@ No abstract
 
     
 
+* Impact of Amorphous Structure on CO2 Electrocatalysis with Cu: A Combined Machine Learning Forcefield and DFT Modelling Approach  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403140832
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.145188")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140832"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140832"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140832"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403140832 (Open access: True)
+    
+[[https://openalex.org/A5072730395][Akshayini Muthuperiyanayagam]], [[https://openalex.org/A5076994358][Devis Di Tommaso]], Electrochimica Acta. None(None)] 2024. https://doi.org/10.1016/j.electacta.2024.145188 
+     
+No abstract    
+
+    
+
 * Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403144529
@@ -495,6 +411,27 @@ No abstract
 OpenAlex: https://openalex.org/W4403144529 (Open access: False)
     
 [[https://openalex.org/A5084804962][Rui Xiao]], [[https://openalex.org/A5065847227][Ding‐Kun Ji]], [[https://openalex.org/A5102649014][Liugang Wu]], [[https://openalex.org/A5102699034][Ziyan Fang]], [[https://openalex.org/A5101581701][Yanhui Guo]], [[https://openalex.org/A5009156159][Weiju Hao]], Journal of Colloid and Interface Science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.10.010 
+     
+No abstract    
+
+    
+
+* Correlating structure-activity-stability relationship of high-valent 3d-metal-based MOFs and MOF-derived materials for electrochemical energy conversion and storage  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403146622
+:TOPICS: Aqueous Zinc-Ion Battery Technology, Chemistry and Applications of Metal-Organic Frameworks, Lithium-ion Battery Technology
+:PUBLICATION_DATE: 2024-10-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ccr.2024.216239")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403146622"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403146622"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403146622"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403146622 (Open access: False)
+    
+[[https://openalex.org/A5071537088][Baghendra Singh]], [[https://openalex.org/A5100700219][Rakesh Kumar Sharma]], [[https://openalex.org/A5077518541][Apparao Draksharapu]], Coordination Chemistry Reviews. 523(None)] 2024. https://doi.org/10.1016/j.ccr.2024.216239 
      
 No abstract    
 
@@ -794,6 +731,27 @@ No abstract
 
     
 
+* Active Learning of Boltzmann Samplers and Potential Energies with Quantum Mechanical Accuracy  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403199069
+:TOPICS: Accelerating Materials Innovation through Informatics, Quantum Computing and Simulation, Quantum Size Effects in Metallic Nanostructures
+:PUBLICATION_DATE: 2024-10-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jctc.4c00506")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403199069"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403199069"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403199069"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403199069 (Open access: False)
+    
+[[https://openalex.org/A5093836192][Ana Molina-Taborda]], [[https://openalex.org/A5060434510][Pilar Cossio]], [[https://openalex.org/A5021542072][Olga Lopez‐Acevedo]], [[https://openalex.org/A5001522727][Marylou Gabrié]], Journal of Chemical Theory and Computation. None(None)] 2024. https://doi.org/10.1021/acs.jctc.4c00506 
+     
+Extracting consistent statistics between relevant free energy minima of a molecular system is essential for physics, chemistry, and biology. Molecular dynamics (MD) simulations can aid in this task but are computationally expensive, especially for systems that require quantum accuracy. To overcome this challenge, we developed an approach combining enhanced sampling with deep generative models and active learning of a machine learning potential (MLP). We introduce an adaptive Markov chain Monte Carlo framework that enables the training of one normalizing flow (NF) and one MLP per state, achieving rapid convergence toward the Boltzmann distribution. Leveraging the trained NF and MLP models, we compute thermodynamic observables such as free energy differences and optical spectra. We apply this method to study the isomerization of an ultrasmall silver nanocluster belonging to a set of systems with diverse applications in the fields of medicine and catalysis.    
+
+    
+
 * Engaging the Concepts of Bimetallicity and Mechanical Strain for N2 Activation: A Computational Exploration  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403199424
@@ -831,6 +789,27 @@ N
 OpenAlex: https://openalex.org/W4403199440 (Open access: False)
     
 [[https://openalex.org/A5022584221][Suk-Kyoung Hong]], [[https://openalex.org/A5075486320][Ze‐Cheng Yao]], [[https://openalex.org/A5000380050][Xing Cheng]], [[https://openalex.org/A5101930537][Zhe Jiang]], [[https://openalex.org/A5008036335][Tang Tang]], [[https://openalex.org/A5043884286][Jin‐Song Hu]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c05891 
+     
+No abstract    
+
+    
+
+* Reduction of N2 to NH3 using FeP(101)/TiO2 catalysts: A First-principles study  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403200020
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Reduction of Nitro Compounds, Content-Centric Networking for Information Delivery
+:PUBLICATION_DATE: 2024-10-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.09.423")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403200020"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403200020"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403200020"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403200020 (Open access: False)
+    
+[[https://openalex.org/A5069248635][Nandhini Panjulingam]], [[https://openalex.org/A5060557467][Senthilkumar Lakshmipathi]], International Journal of Hydrogen Energy. 90(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.09.423 
      
 No abstract    
 
@@ -899,6 +878,27 @@ Abstract Efficient, stable, and low‐cost oxygen reduction catalysts are the ke
 
     
 
+* Floatable Artificial Leaf to Couple Oxygen-Tolerant CO2 Conversion with Water-Purification  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403216551
+:TOPICS: Carbon Dioxide Capture and Storage Technologies, Catalytic Nanomaterials, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-10-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-5034862/v1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403216551"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403216551"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403216551"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403216551 (Open access: True)
+    
+[[https://openalex.org/A5083868402][Hua Sheng]], [[https://openalex.org/A5101742243][Qian Zhang]], [[https://openalex.org/A5100322864][Li Wang]], [[https://openalex.org/A5029682034][Yangen Xie]], [[https://openalex.org/A5016850068][Tetsuya Takemoto]], [[https://openalex.org/A5100615217][Qi Zhao]], [[https://openalex.org/A5076774741][Qing Huang]], [[https://openalex.org/A5042117264][Xingmiao Huang]], [[https://openalex.org/A5100677422][Boyang Zhang]], [[https://openalex.org/A5045295975][Wenjing Song]], [[https://openalex.org/A5064308160][Chuncheng Chen]], [[https://openalex.org/A5032690227][Jincai Zhao]], Research Square (Research Square). None(None)] 2024. https://doi.org/10.21203/rs.3.rs-5034862/v1  ([[https://www.researchsquare.com/article/rs-5034862/latest.pdf][pdf]])
+     
+Abstract To enable open-environment application of artificial photosynthesis, the direct utilization of environmental CO2 via an oxygen-tolerant reductive procedure is necessary. Herein, we introduce an in-situ growth strategy for fabricating two-dimensional heterojunctions between indium porphyrin metal-organic framework (In-MOF) and single-layer graphene oxide (GO). Upon illumination, the In-MOF/GO heterostructure facilitates a tandem CO2 capture and photocatalytic reduction on its hydroxylated In-node, prioritizing the reduction of dilute CO2 even in the presence of air-level O2. The In-MOF/GO heterostructure photocatalyst was integrated with a porous polytetrafluoroethylene (PTFE) membrane to construct a floatable artificial leaf. Through a triphase photocatalytic reaction, the floatable artificial leaf can remove aqueous contaminants from real water while efficiently reducing CO2 at low concentrations (10%, approximately the CO2 concentration in combustion flue gases) upon air-level O2. This study provides a scalable approach for the construction of photocatalytic devices for CO2 conversion in open environments.    
+
+    
+
 * Electrochemical conversion of CO2 via C−X bond formation: recent progress and perspective  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403219231
@@ -917,6 +917,48 @@ OpenAlex: https://openalex.org/W4403219231 (Open access: False)
 [[https://openalex.org/A5037425539][Shuaiqiang Jia]], [[https://openalex.org/A5073640458][Mengke Dong]], [[https://openalex.org/A5084603400][Qinggong Zhu]], [[https://openalex.org/A5026886212][Xinchen Kang]], [[https://openalex.org/A5046202330][Haihong Wu]], [[https://openalex.org/A5047044498][Buxing Han]], Chemical Synthesis. 4(4)] 2024. https://doi.org/10.20517/cs.2024.32 
      
 With the depletion of traditional energy sources and growing environmental concerns, it is becoming increasingly urgent to develop green, low-emission renewable energy technologies to replace fossil fuel-driven methods that emit carbon dioxide (CO2). Currently, the electrochemical production of high-value-added chemicals and fuels from CO2 has aroused great interest from scientists. However, to make full use of CO2 for the preparation of chemicals, it is necessary to expand the range of electrosynthesis methods, in particular by expanding reaction pathways through the reaction of CO2 with different substrates. In general, CO2 can form new covalent bonds with substrate molecules through the formation of C−X bonds, including C−H, C−C, C−N, C−O, and C−S bonds, which would expand the range of possible products by diversifying the reaction pathway. In this review, we focus on the research progress in electrochemical conversion of CO2 through C−X bond formation. We start by examining fundamentals of the reactions and summarizing the reaction modes. Next, we discuss the electrosynthesis of C−X bonds (C−H, C−C, C−N, C−O, C−S) using CO2 and different substrate molecules. Finally, (i) strategies for the design and activity optimization of catalyst materials and (ii) the future development of forming five types of bonds from CO2 and small molecules are discussed, along with an outlook on their future research prospects.    
+
+    
+
+* Oxide Acidity Modulates Structural Transformations in Hydrogen Titanates during Electrochemical Li-Ion Insertion  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403223585
+:TOPICS: Biohydrometallurgical Processes for Metal Extraction, Solid Acids in Protonic Conduction and Ferroelectricity, Neutron Imaging and Analysis Techniques
+:PUBLICATION_DATE: 2024-10-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.4c08063")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403223585"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403223585"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403223585"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403223585 (Open access: False)
+    
+[[https://openalex.org/A5059522404][Saeed Saeed]], [[https://openalex.org/A5044709351][Simon Fleischmann]], [[https://openalex.org/A5042306628][Takeshi Kobayashi]], [[https://openalex.org/A5045333222][Z. Jusys]], [[https://openalex.org/A5010726891][Eugene Mamontov]], [[https://openalex.org/A5077341845][Naresh C. Osti]], [[https://openalex.org/A5031830962][Noah P. Holzapfel]], [[https://openalex.org/A5067993891][Hooyoung Song]], [[https://openalex.org/A5100453381][Tao Wang]], [[https://openalex.org/A5018814519][Sheng Dai]], [[https://openalex.org/A5031199152][De‐en Jiang]], [[https://openalex.org/A5040566890][Veronica Augustyn]], Journal of the American Chemical Society. None(None)] 2024. https://doi.org/10.1021/jacs.4c08063 
+     
+Hydrogen titanates (HTOs) form a diverse group of metastable, layered titanium oxides with an interlayer containing both water molecules and structural protons. We investigated how the chemistry of this interlayer environment influenced electrochemical Li+-insertion in a series of HTOs, H2TiyO2y+1·nH2O (y = 3, 4, and 5). We correlated the electrochemical response with the physical and chemical properties of HTOs using operando X-ray diffraction, in situ differential electrochemical mass spectroscopy, solid-state proton nuclear magnetic resonance, and quasi-elastic neutron scattering. We found that the potential for the first reduction reaction trended with the relative acidity of the structural protons. This mechanism was supported with first-principles density functional theory (DFT) calculations. We propose that the electrochemical reaction involves reduction of the structural protons to yield hydrogen gas and formation of a lithiated hydrogen titanate (H2–xLixTiyO2y+1). The hydrogen gas is confined within the HTO lattice until the titanate structure expands upon subsequent oxidation. Our work has implications for the electrochemical behavior of insertion hosts containing hydrogen and structural water molecules, where hydrogen evolution is expected at potentials below the hydrogen reduction potential and in the absence of electrolyte proton donors. This behavior is an example of electrochemical electron transfer to a nonmetal element in a metal oxide host, in analogy to anion redox.    
+
+    
+
+* Eliminating the Deadwood: A Machine Learning Model for CCS Knowledge-Based Conformational Focusing for Lipids  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403224405
+:TOPICS: Computational Methods in Drug Discovery, Advances in Metabolomics Research, Metabolic Engineering and Synthetic Biology
+:PUBLICATION_DATE: 2024-10-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jcim.4c01051")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403224405"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403224405"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403224405"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403224405 (Open access: True)
+    
+[[https://openalex.org/A5039489419][Mithony Keng]], [[https://openalex.org/A5085994852][Kenneth M. Merz]], Journal of Chemical Information and Modeling. None(None)] 2024. https://doi.org/10.1021/acs.jcim.4c01051 
+     
+Accurate elucidation of gas-phase chemical structures using collision cross section (CCS) values obtained from ion-mobility mass spectrometry benefits from a synergism between experimental and in silico results. We have shown in recent work that for a molecule of modest size with a proscribed conformational space we can successfully capture a conformation(s) that can match experimental CCS values. However, for flexible systems such as fatty acids that have many rotatable bonds and multiple intramolecular London dispersion interactions, it becomes necessary to sample a much greater conformational space. Sampling more conformers, however, accrues significant computational cost downstream in optimization steps involving quantum mechanics. To reduce this computational expense for lipids, we have developed a novel machine learning (ML) model to facilitate conformer filtering according to the estimated gas-phase CCS values. Herein we report that the implementation of our CCS knowledge-based approach for conformational sampling resulted in improved structure prediction agreement with experiment by achieving favorable average CCS prediction errors of ∼2% for lipid systems in both the validation set and the test set. Moreover, most of the gas-phase candidate conformations obtained by using CCS focusing achieved lower energy-minimum geometries than the candidate conformations without focusing. Altogether, the implementation of this ML model into our modeling workflow has proven to be beneficial for both the quality of the results and the turnaround time. Finally, while our approach is limited to lipids, it can be readily extended to other molecules of interest.    
 
     
 
@@ -959,26 +1001,5 @@ OpenAlex: https://openalex.org/W4403155926 (Open access: False)
 [[https://openalex.org/A5033439256][Victor Alves]], [[https://openalex.org/A5008955099][Fernando V. Lima]], Control Engineering Practice. 153(None)] 2024. https://doi.org/10.1016/j.conengprac.2024.106117 
      
 No abstract    
-
-    
-
-* Bringing Molecules Together: Synergistic Coadsorption at Dopant Sites of Single Atom Alloys  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403062739
-:TOPICS: Accelerating Materials Innovation through Informatics, Catalytic Nanomaterials, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-10-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.4c07621")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403062739"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403062739"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403062739"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403062739 (Open access: True)
-    
-[[https://openalex.org/A5076262561][Fabian Berger]], [[https://openalex.org/A5003934748][Julia Schumann]], [[https://openalex.org/A5040089288][Romain Réocreux]], [[https://openalex.org/A5081859091][Michail Stamatakis]], [[https://openalex.org/A5056513432][Angelos Michaelides]], Journal of the American Chemical Society. None(None)] 2024. https://doi.org/10.1021/jacs.4c07621 
-     
-Bringing molecules together on a catalytic surface is a prerequisite for bimolecular and recombination reactions. However, in the absence of attractive interactions between reactants, such as hydrogen bonds, this poses a challenge. In contrast, based on density functional theory, we show that coadsorption at active sites of single-atom alloys (SAAs) is favored and that coadsorption is a general phenomenon observed for catalytically relevant adsorbates on a broad range of SAAs under temperature and pressure conditions commonly employed for catalysis. Dopants located in both terrace sites and in step edge defects exhibit a preference for coadsorption, displaying similar periodic trends. Using kinetic Monte Carlo simulations, we compare the reactivity of a model reaction on both a pure metal and an SAA and show that the preference for coadsorption significantly alters the overall reaction energy profile, even when the barriers for the rate-determining elementary step are identical. In our models, the coadsorption preference enhances the catalytic activity of the SAA surface by several orders of magnitude compared to the pure metal. We also report infrared (IR) spectroscopic signatures of coadsorption, which facilitate experimental detection. Analysis reveals that in these systems repulsive lateral interactions between nearby molecules are more than compensated for by the enhanced binding at dopant sites. Among the broad range of systems considered, SAAs containing early transition metals (TMs) exhibit the strongest coadsorption preference, which can be rationalized by assuming the existence of an optimal number of electrons involved in binding. The strong coadsorption preference, together with facile product desorption from early TMs, renders these systems attractive candidates for catalysis. Moreover, these SAAs could open new routes for reduction reactions because coadsorption with hydrogen is favored.    
 
     

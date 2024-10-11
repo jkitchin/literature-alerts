@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 10 Oct 2024 01:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 01:19:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Cellulose Pyrolysis via Liquid Metal Catalysis</title>
-      <link>https://doi.org/10.1016/j.jaap.2024.106800</link>
-      <description>Aaditya Hari Bharanidharan, Kyle McGaugh, Aime Laurent Twizeriman, Kaylen Ocampo, G&#246;tz Veser, Mohammad S. Masnadi, Journal of Analytical and Applied Pyrolysis. None(None)] 2024. https://openalex.org/W4403064947
-
-                No abstract</description>
-      <author>Aaditya Hari Bharanidharan, Kyle McGaugh, Aime Laurent Twizeriman, Kaylen Ocampo, G&#246;tz Veser, Mohammad S. Masnadi</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106800</guid>
-    </item>
     <item>
       <title>Flexible Triboelectric Sensor based on Catalyst&#8208;Diffusion Self&#8208;Encapsulated Conductive Liquid&#8208;Metal&#8208;Silicone Ink for Somatosensory Soft Robotic System</title>
       <link>https://doi.org/10.1002/adfm.202412293</link>
@@ -26,6 +16,16 @@
       <author>Shuai Xian, Yong Xu, Yixin Li, Zhenfeng Wu, Xing Xie, Zhigang Wu, Xiya Yang, Yong Zhong</author>
       <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202412293</guid>
+    </item>
+    <item>
+      <title>Liquid Metal Electrocatalyst with Ultralow Pt Loading for Ethanol Oxidation</title>
+      <link>https://doi.org/10.1002/smsc.202400370</link>
+      <description>Muhammad Hamza Nazir, Tu C. Le, Imtisal Zahid, Karma Zuraiqi, Mew P. Aukarasereenont, Caiden J. Parker, Pierre H. A. Vaillant, Fahad Jabbar, Chung Kim Nguyen, Mehmood Irfan, Mariam Ameen, Michelle J. S. Spencer, Andrew J. Christofferson, Salvy P. Russo, Ken Chiang, Nastaran Meftahi, Torben Daeneke, Dan Yang, Small Science. None(None)] 2024. https://openalex.org/W4403202030
+
+                Developing efficient and durable electrocatalysts for ethanol electro&#8208;oxidation is crucial for enabling the application of direct ethanol fuel cell technology. Herein, it is demonstrated that Pt&#8211;Ga liquid metal&#8208;based nanodroplets can serve as an efficient electrocatalyst to drive ethanol oxidation. The mass activity of Pt is significantly improved by alloying with liquid gallium. Guided by machine learning neural networks, a low&#8208;concentration alkaline electrolyte is specifically formulated to allow electrodes with ultralow Pt loading to demonstrate remarkable activity toward ethanol oxidation with a mass activity as high as 13.47 A mg &#8722;1 Pt , which is more than 14 times higher than that of commercial Pt/C electrocatalysts (i.e., 0.76 A mg &#8722;1 Pt ). Computational studies reveal that the superior activity is associated with the presence of Ga oxides adjacent to Pt on the catalyst surface which leads to energetically favorable pathways for the oxidation process. The findings reveal untapped opportunities in the realm of liquid metal catalysis and hold great promise for the future development of high&#8208;performance alcohol fuel cells.</description>
+      <author>Muhammad Hamza Nazir, Tu C. Le, Imtisal Zahid, Karma Zuraiqi, Mew P. Aukarasereenont, Caiden J. Parker, Pierre H. A. Vaillant, Fahad Jabbar, Chung Kim Nguyen, Mehmood Irfan, Mariam Ameen, Michelle J. S. Spencer, Andrew J. Christofferson, Salvy P. Russo, Ken Chiang, Nastaran Meftahi, Torben Daeneke, Dan Yang</author>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smsc.202400370</guid>
     </item>
   </channel>
 </rss>

@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 10 Oct 2024 01:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 01:20:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Engineering medium-entropy alloy nanoparticle nanotubes for efficient oxygen reduction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.176859</link>
-      <description>Qian Liu, Haoran Kang, Yu Liu, Xiaowei Zhang, Yisong Zhao, Ying Shirley Meng, Faming Gao, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403063780
-
-                No abstract</description>
-      <author>Qian Liu, Haoran Kang, Yu Liu, Xiaowei Zhang, Yisong Zhao, Ying Shirley Meng, Faming Gao</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.176859</guid>
-    </item>
-    <item>
-      <title>Ligand engineering regulates the electronic structure of Ni-N-C sites to promote electrocatalytic acetylene semi-hydrogenation</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115784</link>
-      <description>Kai Xu, Mingqiang Liu, Song Xiaoning, Shengyuan Xu, Kefeng Xie, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4403065344
-
-                No abstract</description>
-      <author>Kai Xu, Mingqiang Liu, Song Xiaoning, Shengyuan Xu, Kefeng Xie</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115784</guid>
-    </item>
-    <item>
-      <title>Quantitative analysis of hydrogen leakage flow measurement and calculation in the on-board hydrogen system pipelines</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.09.381</link>
-      <description>Chuan Qin, Ying Tian, Zirong Yang, Dong Hao, Lili Feng, International Journal of Hydrogen Energy. 89(None)] 2024. https://openalex.org/W4403073499
-
-                No abstract</description>
-      <author>Chuan Qin, Ying Tian, Zirong Yang, Dong Hao, Lili Feng</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.381</guid>
-    </item>
-    <item>
-      <title>Surprising Dynamics Phenomena in the Diels&#8211;Alder Reaction of C&lt;sub&gt;60&lt;/sub&gt; Uncovered with AI</title>
-      <link>https://doi.org/10.1021/acs.joc.4c01763</link>
-      <description>Yi-Fan Hou, Quanhao Zhang, Pavlo O. Dral, The Journal of Organic Chemistry. None(None)] 2024. https://openalex.org/W4403082209
-
-                We performed an extensive artificial intelligence-accelerated quasi-classical molecular dynamics investigation of the time-resolved mechanism of the Diels-Alder reaction of fullerene C</description>
-      <author>Yi-Fan Hou, Quanhao Zhang, Pavlo O. Dral</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.joc.4c01763</guid>
-    </item>
-    <item>
-      <title>Insights into the Effect of Crystal Facets and Sulfur Defects on the Product Selectivity of Various CdS Configurations for CO2 Photoreduction: A DFT Study</title>
-      <link>https://doi.org/10.3390/catal14100688</link>
-      <description>Shuai Liu, Jing Wang, Yu Zhong, Leiping Wang, Ding&#8208;Ming Xue, Lei Tong, Honglei Zhang, Tao Wu, Guangsuo Yu, Hang Xiao, Catalysts. 14(10)] 2024. https://openalex.org/W4403084362
-
-                CO2 photoreduction into valuable hydrocarbons, such as CO, CH4, and C2H4, delivers a promising approach to address both environmental and energy challenges. Transition metal chalcogenides, particularly cadmium sulfide (CdS), have emerged as prominent candidates due to their tunable electronic properties and availability. This study delves into a comprehensive investigation of how CdS crystalline facets and sulfur-deficient surfaces modulate the product selectivity. Through employing density functional theory (DFT), we unravel the catalytic performance of various CdS crystal orientations and sulfur vacancy configurations. The results have shown that different CdS facets exhibit unique electronic characteristics and surface energetics, which influence the adsorption dynamics and reaction pathways. The introduction of sulfur vacancies further modulates the nature of active sites, leading to substantial shifts in product selectivity. A detailed investigation on the reaction mechanisms unveils that specific facets preferentially facilitate the formation of CO, while others are more conducive to the generation of hydrocarbons such as CH4 and C2H4, due to the variations in activation barriers and intermediate stabilities. These findings underscore the importance of crystal facet engineering and defect manipulation in tailoring catalyst performance thus providing valuable insights for the rational design of efficient and selective CO2 reduction metal catalysts.</description>
-      <author>Shuai Liu, Jing Wang, Yu Zhong, Leiping Wang, Ding&#8208;Ming Xue, Lei Tong, Honglei Zhang, Tao Wu, Guangsuo Yu, Hang Xiao</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14100688</guid>
-    </item>
-    <item>
-      <title>Unveiling the Synergy between Surface Terminations and Boron Configuration in Boron-Based Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt; MXenes Electrocatalysts for Nitrogen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c03415</link>
-      <description>Ling Meng, Francesc Vi&#241;es, Francesc Illas, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403085318
-
-                No abstract</description>
-      <author>Ling Meng, Francesc Vi&#241;es, Francesc Illas</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03415</guid>
-    </item>
     <item>
       <title>Uncertainty Quantification of Linear Scaling, Machine Learning, and Density Functional Theory Derived Thermodynamics for the Catalytic Partial Oxidation of Methane on Rhodium</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c05107</link>
@@ -126,6 +66,16 @@
       <author>Boyan Liu, Li Wang, Yingjuan Zhang, Kang Wan, Liangcheng Xu, Siqing Ma, Ruoting Zhao, Songcan Wang, Wei Huang</author>
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403835</guid>
+    </item>
+    <item>
+      <title>Preparation Technology of Nanomaterials</title>
+      <link>https://doi.org/10.1007/978-981-97-8433-2_6</link>
+      <description>Shengjie Peng, Peng Li, Nanomaterials and Nanotechnology. None(None)] 2024. https://openalex.org/W4403102968
+
+                No abstract</description>
+      <author>Shengjie Peng, Peng Li</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-8433-2_6</guid>
     </item>
     <item>
       <title>Electronic structure of zaykovite Rh3Se4, prediction, and analysis of physical properties of related materials: Pd3Se4, Ir3Se4, and Pt3Se4</title>
@@ -228,6 +178,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.snb.2024.136738</guid>
     </item>
     <item>
+      <title>Impact of Amorphous Structure on CO2 Electrocatalysis with Cu: A Combined Machine Learning Forcefield and DFT Modelling Approach</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145188</link>
+      <description>Akshayini Muthuperiyanayagam, Devis Di Tommaso, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4403140832
+
+                No abstract</description>
+      <author>Akshayini Muthuperiyanayagam, Devis Di Tommaso</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145188</guid>
+    </item>
+    <item>
       <title>Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity</title>
       <link>https://doi.org/10.1016/j.jcis.2024.10.010</link>
       <description>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4403144529
@@ -236,6 +196,16 @@
       <author>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.010</guid>
+    </item>
+    <item>
+      <title>Correlating structure-activity-stability relationship of high-valent 3d-metal-based MOFs and MOF-derived materials for electrochemical energy conversion and storage</title>
+      <link>https://doi.org/10.1016/j.ccr.2024.216239</link>
+      <description>Baghendra Singh, Rakesh Kumar Sharma, Apparao Draksharapu, Coordination Chemistry Reviews. 523(None)] 2024. https://openalex.org/W4403146622
+
+                No abstract</description>
+      <author>Baghendra Singh, Rakesh Kumar Sharma, Apparao Draksharapu</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216239</guid>
     </item>
     <item>
       <title>Surgical dissection of ignition behavior of aluminum nanoparticles using molecular dynamics</title>
@@ -378,6 +348,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04330</guid>
     </item>
     <item>
+      <title>Active Learning of Boltzmann Samplers and Potential Energies with Quantum Mechanical Accuracy</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c00506</link>
+      <description>Ana Molina-Taborda, Pilar Cossio, Olga Lopez&#8208;Acevedo, Marylou Gabri&#233;, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4403199069
+
+                Extracting consistent statistics between relevant free energy minima of a molecular system is essential for physics, chemistry, and biology. Molecular dynamics (MD) simulations can aid in this task but are computationally expensive, especially for systems that require quantum accuracy. To overcome this challenge, we developed an approach combining enhanced sampling with deep generative models and active learning of a machine learning potential (MLP). We introduce an adaptive Markov chain Monte Carlo framework that enables the training of one normalizing flow (NF) and one MLP per state, achieving rapid convergence toward the Boltzmann distribution. Leveraging the trained NF and MLP models, we compute thermodynamic observables such as free energy differences and optical spectra. We apply this method to study the isomerization of an ultrasmall silver nanocluster belonging to a set of systems with diverse applications in the fields of medicine and catalysis.</description>
+      <author>Ana Molina-Taborda, Pilar Cossio, Olga Lopez&#8208;Acevedo, Marylou Gabri&#233;</author>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00506</guid>
+    </item>
+    <item>
       <title>Engaging the Concepts of Bimetallicity and Mechanical Strain for N&lt;sub&gt;2&lt;/sub&gt; Activation: A Computational Exploration</title>
       <link>https://doi.org/10.1021/acsami.4c09691</link>
       <description>Omer Elmutasim, Louai Mahdi Maghrabi, Dattatray S. Dhawale, Kyriaki Polychronopoulou, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403199424
@@ -396,6 +376,16 @@
       <author>Suk-Kyoung Hong, Ze&#8208;Cheng Yao, Xing Cheng, Zhe Jiang, Tang Tang, Jin&#8208;Song Hu</author>
       <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05891</guid>
+    </item>
+    <item>
+      <title>Reduction of N2 to NH3 using FeP(101)/TiO2 catalysts: A First-principles study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.09.423</link>
+      <description>Nandhini Panjulingam, Senthilkumar Lakshmipathi, International Journal of Hydrogen Energy. 90(None)] 2024. https://openalex.org/W4403200020
+
+                No abstract</description>
+      <author>Nandhini Panjulingam, Senthilkumar Lakshmipathi</author>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.423</guid>
     </item>
     <item>
       <title>Machine learning-assisted design of transition metal-doped 2D WSn&#8322;N&#8324; electrocatalysts for enhanced hydrogen evolution reaction</title>
@@ -428,6 +418,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401278</guid>
     </item>
     <item>
+      <title>Floatable Artificial Leaf to Couple Oxygen-Tolerant CO2 Conversion with Water-Purification</title>
+      <link>https://doi.org/10.21203/rs.3.rs-5034862/v1</link>
+      <description>Hua Sheng, Qian Zhang, Li Wang, Yangen Xie, Tetsuya Takemoto, Qi Zhao, Qing Huang, Xingmiao Huang, Boyang Zhang, Wenjing Song, Chuncheng Chen, Jincai Zhao, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4403216551
+
+                Abstract To enable open-environment application of artificial photosynthesis, the direct utilization of environmental CO2 via an oxygen-tolerant reductive procedure is necessary. Herein, we introduce an in-situ growth strategy for fabricating two-dimensional heterojunctions between indium porphyrin metal-organic framework (In-MOF) and single-layer graphene oxide (GO). Upon illumination, the In-MOF/GO heterostructure facilitates a tandem CO2 capture and photocatalytic reduction on its hydroxylated In-node, prioritizing the reduction of dilute CO2 even in the presence of air-level O2. The In-MOF/GO heterostructure photocatalyst was integrated with a porous polytetrafluoroethylene (PTFE) membrane to construct a floatable artificial leaf. Through a triphase photocatalytic reaction, the floatable artificial leaf can remove aqueous contaminants from real water while efficiently reducing CO2 at low concentrations (10%, approximately the CO2 concentration in combustion flue gases) upon air-level O2. This study provides a scalable approach for the construction of photocatalytic devices for CO2 conversion in open environments.</description>
+      <author>Hua Sheng, Qian Zhang, Li Wang, Yangen Xie, Tetsuya Takemoto, Qi Zhao, Qing Huang, Xingmiao Huang, Boyang Zhang, Wenjing Song, Chuncheng Chen, Jincai Zhao</author>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5034862/v1</guid>
+    </item>
+    <item>
       <title>Electrochemical conversion of CO&lt;sub&gt;2&lt;/sub&gt; via C&#8722;X bond formation: recent progress and perspective</title>
       <link>https://doi.org/10.20517/cs.2024.32</link>
       <description>Shuaiqiang Jia, Mengke Dong, Qinggong Zhu, Xinchen Kang, Haihong Wu, Buxing Han, Chemical Synthesis. 4(4)] 2024. https://openalex.org/W4403219231
@@ -436,6 +436,26 @@
       <author>Shuaiqiang Jia, Mengke Dong, Qinggong Zhu, Xinchen Kang, Haihong Wu, Buxing Han</author>
       <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.20517/cs.2024.32</guid>
+    </item>
+    <item>
+      <title>Oxide Acidity Modulates Structural Transformations in Hydrogen Titanates during Electrochemical Li-Ion Insertion</title>
+      <link>https://doi.org/10.1021/jacs.4c08063</link>
+      <description>Saeed Saeed, Simon Fleischmann, Takeshi Kobayashi, Z. Jusys, Eugene Mamontov, Naresh C. Osti, Noah P. Holzapfel, Hooyoung Song, Tao Wang, Sheng Dai, De&#8208;en Jiang, Veronica Augustyn, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403223585
+
+                Hydrogen titanates (HTOs) form a diverse group of metastable, layered titanium oxides with an interlayer containing both water molecules and structural protons. We investigated how the chemistry of this interlayer environment influenced electrochemical Li+-insertion in a series of HTOs, H2TiyO2y+1&#183;nH2O (y = 3, 4, and 5). We correlated the electrochemical response with the physical and chemical properties of HTOs using operando X-ray diffraction, in situ differential electrochemical mass spectroscopy, solid-state proton nuclear magnetic resonance, and quasi-elastic neutron scattering. We found that the potential for the first reduction reaction trended with the relative acidity of the structural protons. This mechanism was supported with first-principles density functional theory (DFT) calculations. We propose that the electrochemical reaction involves reduction of the structural protons to yield hydrogen gas and formation of a lithiated hydrogen titanate (H2&#8211;xLixTiyO2y+1). The hydrogen gas is confined within the HTO lattice until the titanate structure expands upon subsequent oxidation. Our work has implications for the electrochemical behavior of insertion hosts containing hydrogen and structural water molecules, where hydrogen evolution is expected at potentials below the hydrogen reduction potential and in the absence of electrolyte proton donors. This behavior is an example of electrochemical electron transfer to a nonmetal element in a metal oxide host, in analogy to anion redox.</description>
+      <author>Saeed Saeed, Simon Fleischmann, Takeshi Kobayashi, Z. Jusys, Eugene Mamontov, Naresh C. Osti, Noah P. Holzapfel, Hooyoung Song, Tao Wang, Sheng Dai, De&#8208;en Jiang, Veronica Augustyn</author>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08063</guid>
+    </item>
+    <item>
+      <title>Eliminating the Deadwood: A Machine Learning Model for CCS Knowledge-Based Conformational Focusing for Lipids</title>
+      <link>https://doi.org/10.1021/acs.jcim.4c01051</link>
+      <description>Mithony Keng, Kenneth M. Merz, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4403224405
+
+                Accurate elucidation of gas-phase chemical structures using collision cross section (CCS) values obtained from ion-mobility mass spectrometry benefits from a synergism between experimental and in silico results. We have shown in recent work that for a molecule of modest size with a proscribed conformational space we can successfully capture a conformation(s) that can match experimental CCS values. However, for flexible systems such as fatty acids that have many rotatable bonds and multiple intramolecular London dispersion interactions, it becomes necessary to sample a much greater conformational space. Sampling more conformers, however, accrues significant computational cost downstream in optimization steps involving quantum mechanics. To reduce this computational expense for lipids, we have developed a novel machine learning (ML) model to facilitate conformer filtering according to the estimated gas-phase CCS values. Herein we report that the implementation of our CCS knowledge-based approach for conformational sampling resulted in improved structure prediction agreement with experiment by achieving favorable average CCS prediction errors of &#8764;2% for lipid systems in both the validation set and the test set. Moreover, most of the gas-phase candidate conformations obtained by using CCS focusing achieved lower energy-minimum geometries than the candidate conformations without focusing. Altogether, the implementation of this ML model into our modeling workflow has proven to be beneficial for both the quality of the results and the turnaround time. Finally, while our approach is limited to lipids, it can be readily extended to other molecules of interest.</description>
+      <author>Mithony Keng, Kenneth M. Merz</author>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c01051</guid>
     </item>
     <item>
       <title>Interaction of H2S with perfect and O-covered Pd(100) surface: A first-principles study</title>
@@ -456,16 +476,6 @@
       <author>Victor Alves, Fernando V. Lima</author>
       <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.conengprac.2024.106117</guid>
-    </item>
-    <item>
-      <title>Bringing Molecules Together: Synergistic Coadsorption at Dopant Sites of Single Atom Alloys</title>
-      <link>https://doi.org/10.1021/jacs.4c07621</link>
-      <description>Fabian Berger, Julia Schumann, Romain R&#233;ocreux, Michail Stamatakis, Angelos Michaelides, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403062739
-
-                Bringing molecules together on a catalytic surface is a prerequisite for bimolecular and recombination reactions. However, in the absence of attractive interactions between reactants, such as hydrogen bonds, this poses a challenge. In contrast, based on density functional theory, we show that coadsorption at active sites of single-atom alloys (SAAs) is favored and that coadsorption is a general phenomenon observed for catalytically relevant adsorbates on a broad range of SAAs under temperature and pressure conditions commonly employed for catalysis. Dopants located in both terrace sites and in step edge defects exhibit a preference for coadsorption, displaying similar periodic trends. Using kinetic Monte Carlo simulations, we compare the reactivity of a model reaction on both a pure metal and an SAA and show that the preference for coadsorption significantly alters the overall reaction energy profile, even when the barriers for the rate-determining elementary step are identical. In our models, the coadsorption preference enhances the catalytic activity of the SAA surface by several orders of magnitude compared to the pure metal. We also report infrared (IR) spectroscopic signatures of coadsorption, which facilitate experimental detection. Analysis reveals that in these systems repulsive lateral interactions between nearby molecules are more than compensated for by the enhanced binding at dopant sites. Among the broad range of systems considered, SAAs containing early transition metals (TMs) exhibit the strongest coadsorption preference, which can be rationalized by assuming the existence of an optimal number of electrons involved in binding. The strong coadsorption preference, together with facile product desorption from early TMs, renders these systems attractive candidates for catalysis. Moreover, these SAAs could open new routes for reduction reactions because coadsorption with hydrogen is favored.</description>
-      <author>Fabian Berger, Julia Schumann, Romain R&#233;ocreux, Michail Stamatakis, Angelos Michaelides</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c07621</guid>
     </item>
   </channel>
 </rss>
