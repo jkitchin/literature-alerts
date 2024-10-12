@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Oct 11 01:20:02 2024
+Created on Sat Oct 12 01:18:16 2024
 
-Found 47 results from 2024-10-04 to 2024-10-11
+Found 36 results from 2024-10-05 to 2024-10-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -16,127 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Uncertainty Quantification of Linear Scaling, Machine Learning, and Density Functional Theory Derived Thermodynamics for the Catalytic Partial Oxidation of Methane on Rhodium   
-
-OpenAlex: https://openalex.org/W4403090590    
-Open access: True
-    
-[Christopher M. Blais](https://openalex.org/A5062941957), [Chao Xu](https://openalex.org/A5100385672), [Richard H. West](https://openalex.org/A5045093343), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c05107.
-    
-No abstract    
-
-    
-
-## Carbothermal Reduction-Assisted Synthesis of a Carbon-Supported Highly Dispersed PtSn Nanoalloy for the Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4403090945    
-Open access: False
-    
-[Jia Li](https://openalex.org/A5100454297), [Jing Liu](https://openalex.org/A5100375090), [Chuan Zhao](https://openalex.org/A5046268649), [Anjun Hu](https://openalex.org/A5018572654), [Xuping Sun](https://openalex.org/A5073001285), [Bingbao Mei](https://openalex.org/A5032925772), [Jianping Long](https://openalex.org/A5025023889), Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c03099.
-    
-Exploring high-performance and low-platinum-based electrocatalysts to accelerate the oxygen reduction reaction (ORR) at the air cathode of zinc-air batteries remains crucial. Herein, by combining electroless deposition and carbothermal reduction, a nitrogen-doped carbon-supported highly dispersed PtSn alloy nanocatalyst (PtSn/NC) was prepared for a high-efficiency ORR process. Electrochemical measurements show that PtSn/NC exhibits excellent electrocatalytic ORR activity with a half-wave potential of 0.850 V versus reversible hydrogen electrode (RHE), which is higher than that of commercial Pt/C (0.815 V). The PtSn/NC-based (20 μg    
-
-    
-
-## Transition metal sulfides: From design strategies to environmental and energy-related applications   
-
-OpenAlex: https://openalex.org/W4403093749    
-Open access: False
-    
-[Sharafat Ali](https://openalex.org/A5067345795), [Syed ul Hasnain Bakhtiar](https://openalex.org/A5043028390), [Ahmed Ismail](https://openalex.org/A5052065896), [Pir Muhammad Ismail](https://openalex.org/A5071571514), [Salman Hayat](https://openalex.org/A5082038645), [Amir Zada](https://openalex.org/A5021485709), [Xiaoqiang Wu](https://openalex.org/A5017761703), [Abdullah Alodhayb](https://openalex.org/A5026460148), [Muhammad Zahid](https://openalex.org/A5018020024), [Fazal Raziq](https://openalex.org/A5016111688), [Jiabao Yi](https://openalex.org/A5079135640), [Liang Qiao](https://openalex.org/A5062631493), Coordination Chemistry Reviews. 523(None)] 2024.https://doi.org/10.1016/j.ccr.2024.216237.
-    
-No abstract    
-
-    
-
-## Ab Initio Kinetics of Electrochemical Reactions Using the Computational Fc0/Fc+ Electrode   
-
-OpenAlex: https://openalex.org/W4403093990    
-Open access: False
-    
-[Aleksandr S. Kramarenko](https://openalex.org/A5098948196), [Dmitry Sharapa](https://openalex.org/A5029193865), [Evgeny A. Pidko](https://openalex.org/A5074252826), [Felix Studt](https://openalex.org/A5001805046), The Journal of Physical Chemistry A. None(None)] 2024.https://doi.org/10.1021/acs.jpca.4c04923.
-    
-The current state-of-the-art electron-transfer modeling primarily focuses on the kinetics of charge transfer between an electroactive species and an inert electrode. Experimental studies have revealed that the existing Butler-Volmer model fails to satisfactorily replicate experimental voltammetry results for both solution-based and surface-bound redox couples. Consequently, experimentalists lack an accurate tool for predicting electron-transfer kinetics. In response to this challenge, we developed a density functional theory-based approach for accurately predicting current peak potentials by using the Marcus-Hush model. Through extensive cyclic voltammetry simulations, we conducted a thorough exploration that offers valuable insights for conducting well-informed studies in the field of electrochemistry.    
-
-    
-
-## Highly dispersed Ir nanoparticles on Ti3C2Tx MXene nanosheets for efficient oxygen evolution in acidic media   
-
-OpenAlex: https://openalex.org/W4403097736    
-Open access: False
-    
-[Meihong Fan](https://openalex.org/A5071307879), [Lijia Liu](https://openalex.org/A5085713706), [Yue Li](https://openalex.org/A5100701568), [Fengmei Gu](https://openalex.org/A5002330277), [Xingquan He](https://openalex.org/A5036934018), [Hui Chen](https://openalex.org/A5100334137), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.009.
-    
-No abstract    
-
-    
-
-## Bismuth Vacancies Induced Lattice Strain in BiVO4 Photoanodes Boosting Charge Separation For Water Oxidation   
-
-OpenAlex: https://openalex.org/W4403099600    
-Open access: False
-    
-[Boyan Liu](https://openalex.org/A5082657818), [Li Wang](https://openalex.org/A5100322864), [Yingjuan Zhang](https://openalex.org/A5067494756), [Kang Wan](https://openalex.org/A5100806779), [Liangcheng Xu](https://openalex.org/A5074502871), [Siqing Ma](https://openalex.org/A5100930579), [Ruoting Zhao](https://openalex.org/A5039542828), [Songcan Wang](https://openalex.org/A5043018151), [Wei Huang](https://openalex.org/A5101669002), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202403835.
-    
-Abstract Photoelectrochemical (PEC) water splitting is a promising technology for green hydrogen production. However, severe charge recombination in the photoelectrode materials is one of the key obstacles to achieving high performance. Herein, a BiVO₄ photoanode with lattice strain (Str‐BVO) is constructed by generating Bi vacancies to promote charge separation in the bulk. The optimized Str‐BVO photoanode achieves a photocurrent density of 6.20 mA cm⁻ 2 at 1.23 V versus the reversible hydrogen electrode under AM 1.5 G illumination, with an impressive charge separation efficiency close to 100%. Systematical experiments and density functional theory reveal that the surface Bi vacancies induced strain causes the distortion of a small number of VO 4 tetrahedra, which increases the antibonding state energy of most normal VO 4 tetrahedra and creates more electronic vacancy states, thereby significantly promoting electron–hole separation. By surface loading with a FeNiO x co‐catalyst, the photoanode exhibits excellent PEC water‐splitting performance and stability.    
-
-    
-
-## Preparation Technology of Nanomaterials   
-
-OpenAlex: https://openalex.org/W4403102968    
-Open access: True
-    
-[Shengjie Peng](https://openalex.org/A5034879972), [Peng Li](https://openalex.org/A5100432703), Nanomaterials and Nanotechnology. None(None)] 2024.https://doi.org/10.1007/978-981-97-8433-2_6.
-    
-No abstract    
-
-    
-
-## Electronic structure of zaykovite Rh3Se4, prediction, and analysis of physical properties of related materials: Pd3Se4, Ir3Se4, and Pt3Se4   
-
-OpenAlex: https://openalex.org/W4403103981    
-Open access: False
-    
-[Leonid S. Taran](https://openalex.org/A5063646690), [С. В. Еремеев](https://openalex.org/A5041599641), [S. V. Streltsov](https://openalex.org/A5028239326), The Journal of Chemical Physics. 161(13)] 2024.https://doi.org/10.1063/5.0232257.
-    
-In this work, we explore the electronic properties and chemical bonding in the recently discovered mineral zaykovite, the first natural rhodium selenide Rh3Se4. We comprehensively studied the bulk electronic structure, hybridization of rhodium and selenium orbitals, and the influence of spin–orbit interaction on the electronic spectrum, as well as inspected its topological properties. In addition, we investigated the surface electronic structure of zaykovite and revealed the anisotropic Rashba-type spin splitting in the surface states. In addition, using calculations of the phonon spectra and enthalpy of formation, we predicted the family of similar selenides based on other 4d and 5d transition metals such as Ir, Pd, and Pt. The structural and electronic properties of these materials are discussed.    
-
-    
-
-## NiFe‐Based Electrocatalysts for Alkaline Oxygen Evolution: Challenges, Strategies, and Advances Toward Industrial‐Scale Deployment   
-
-OpenAlex: https://openalex.org/W4403108901    
-Open access: False
-    
-[Yansong Zhou](https://openalex.org/A5039977437), [Zhitong Wang](https://openalex.org/A5033273224), [Minghui Cui](https://openalex.org/A5079996275), [Haiyan Wu](https://openalex.org/A5019019685), [Ying Liu](https://openalex.org/A5100414413), [Qiongrong Ou](https://openalex.org/A5103249327), [Xinlong Tian](https://openalex.org/A5024069386), [Shuyu Zhang](https://openalex.org/A5100634783), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202410618.
-    
-Abstract Developing high‐efficiency alkaline water splitting technology holds great promise in potentially revolutionizing the traditional petrochemical industry to a more sustainable hydrogen economy. Importantly, the oxygen evolution reaction (OER) accompanied at the anode is considered as a critical bottleneck in terms of both complicated mechanism and sluggish kinetics, requiring rational design of OER electrocatalysts to elucidate the structure‐performance relationship and reduce the applied overpotential. As a benchmarked non‐precious metal candidate, NiFe‐based electrocatalysts have gained enormous attention due to low‐cost, earth‐abundance, and remarkable intrinsic OER activity, which are expected to be implemented in industrial alkaline water splitting. In this contribution, a comprehensive overview of NiFe‐based OER electrocatalysts is provided, starting with fundamental mechanisms, evaluation metrics, and synthetic protocols. Subsequently, basic principles with corresponding regulatory strategies are summarized following the sequence of substrate‐catalyst‐electrolyte design of efficient and robust NiFe‐based electrocatalysts toward industrial‐scale deployment. Perspectives on remaining challenges and instructive opportunities in this booming field are finally discussed.    
-
-    
-
-## P-functionalization of Ni Fe − Electrocatalysts from Prussian blue analogue for enhanced anode in anion exchange membrane water electrolysers   
-
-OpenAlex: https://openalex.org/W4403112516    
-Open access: True
-    
-[Beatrice Ricciardi](https://openalex.org/A5001756907), [Williane da Silva Freitas](https://openalex.org/A5088413674), [Barbara Mecheri](https://openalex.org/A5040393906), [J.M. Luque-Centeno](https://openalex.org/A5056936679), [Cinthia Alegre](https://openalex.org/A5030376621), [David Sebastián](https://openalex.org/A5088961346), [M.J. Lázaro](https://openalex.org/A5021024737), [Alessandra D’Epifanio](https://openalex.org/A5017653009), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156256.
-    
-No abstract    
-
-    
-
-## Atom-glue stabilized Pt-based intermetallic nanoparticles   
-
-OpenAlex: https://openalex.org/W4403114801    
-Open access: True
-    
-[Zhongliang Huang](https://openalex.org/A5103826082), [Y Wang](https://openalex.org/A5015769640), [Jing Xia](https://openalex.org/A5008759729), [Shengnan Hu](https://openalex.org/A5103717015), [Nanjun Chen](https://openalex.org/A5101403241), [Tianyi Ding](https://openalex.org/A5045799743), [Changhong Zhan](https://openalex.org/A5044071951), [Chih‐Wen Pao](https://openalex.org/A5052311733), [Zhiwei Hu](https://openalex.org/A5003964217), [Wei‐Hsiang Huang](https://openalex.org/A5078062437), [Tong Shi](https://openalex.org/A5020561641), [Xiang‐Min Meng](https://openalex.org/A5052411651), [Yong Xu](https://openalex.org/A5100625519), [Liang Cao](https://openalex.org/A5020824627), [Xiaoqing Huang](https://openalex.org/A5073869073), Science Advances. 10(40)] 2024.https://doi.org/10.1126/sciadv.adq6727.
-    
-Pt-based nanoparticles (NPs) have been widely used in catalysis. However, this suffers from aggregation and/or sintering at working conditions. We demonstrate a robust strategy for stabilizing PtCo NPs under high temperature with strong interaction between M–N–C and PtCo NPs with Pt–M–N coordination, namely, “atom glue.” Such atom glue for stabilizing Pt-based NPs can be extended to Zn, Mn, Fe, Ni, Co, and Cu, being a versatile strategy for stabilizing PtCo NPs, which substantially promotes the performance toward oxygen reduction reaction (ORR) and fuel cell. Impressively, the mass activity (MA) reaches 2.99 A mg Pt −1 for ORR over g -Zn–N–C/PtCo, and 79.3% of the initial MA is maintained after 90K cycles in fuel cell. This work provides a versatile strategy for stabilizing Pt-based NPs via atom glue, which is likely to spark widespread interest across various fields.    
-
-    
 
 ## A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol   
 
@@ -220,9 +99,9 @@ No abstract
 OpenAlex: https://openalex.org/W4403144529    
 Open access: False
     
-[Rui Xiao](https://openalex.org/A5084804962), [Ding‐Kun Ji](https://openalex.org/A5065847227), [Liugang Wu](https://openalex.org/A5102649014), [Ziyan Fang](https://openalex.org/A5102699034), [Yanhui Guo](https://openalex.org/A5101581701), [Weiju Hao](https://openalex.org/A5009156159), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.010.
+[Rui Xiao](https://openalex.org/A5084804962), [Ding‐Kun Ji](https://openalex.org/A5065847227), [Liugang Wu](https://openalex.org/A5102649014), [Ziyan Fang](https://openalex.org/A5102699034), [Yanhui Guo](https://openalex.org/A5101581701), [Weiju Hao](https://openalex.org/A5009156159), Journal of Colloid and Interface Science. 679(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.010.
     
-No abstract    
+The development of cost-effective and corrosion-resistant catalytic electrodes for chlorine/oxygen evolution reaction (CER/OER) in large-scale industrial applications is a significant challenge. Herein, the sol-gel method is employed to achieve a uniform coating of ruthenium (Ru) doping copper (Cu) on titanium sheet (Ru + 20 %Cu@Ti), and the highly efficient industrial grade stable Ti dimensional stable anode can be quickly constructed at 723.15 K for 2 h. Cu doping reduces the vacancy formation energy of surface oxygen, promotes additional lattice oxygen vacancy assisted hydrolysis dissociation pathway, improves the selectivity and specific activity of CER at high concentration doping, and reduces the binding energy of OER intermediates (e.g., *OH, *O, and *OOH) at adjacent Ru active sites. The overpotentials require to reach the current density of 10 mA cm    
 
     
 
@@ -363,7 +242,7 @@ No abstract
 OpenAlex: https://openalex.org/W4403195408    
 Open access: False
     
-[Zeeshan Ajmal](https://openalex.org/A5039619642), [Asif Hayat](https://openalex.org/A5040048786), [Abdul Qadeer](https://openalex.org/A5048817707), [Yuzeng Zhao](https://openalex.org/A5061078890), [Essam H. Ibrahim](https://openalex.org/A5026172778), [Mahmood Ul Haq](https://openalex.org/A5101982279), [Kanwal Iqbal](https://openalex.org/A5102949390), [Mohd Imran](https://openalex.org/A5043233686), [Mohammed Kuku](https://openalex.org/A5059334921), [Iftikhar Hussain](https://openalex.org/A5051845249), [Hamid Ali](https://openalex.org/A5041745214), [Yasin Orooji](https://openalex.org/A5085364028), [John L. Zhou](https://openalex.org/A5049437929), [Teng Ben](https://openalex.org/A5050079091), Coordination Chemistry Reviews. 523(None)] 2024.https://doi.org/10.1016/j.ccr.2024.216226.
+[Zeeshan Ajmal](https://openalex.org/A5039619642), [Asif Hayat](https://openalex.org/A5040048786), [Abdul Qadeer](https://openalex.org/A5048817707), [Yuzeng Zhao](https://openalex.org/A5061078890), [Essam H. Ibrahim](https://openalex.org/A5026172778), [Mahmood Ul Haq](https://openalex.org/A5101982279), [Kanwal Iqbal](https://openalex.org/A5102949390), [Mohd Imran](https://openalex.org/A5107998650), [Mohammed Kuku](https://openalex.org/A5059334921), [Iftikhar Hussain](https://openalex.org/A5051845249), [Hamid Ali](https://openalex.org/A5041745214), [Yasin Orooji](https://openalex.org/A5085364028), [John L. Zhou](https://openalex.org/A5049437929), [Teng Ben](https://openalex.org/A5050079091), Coordination Chemistry Reviews. 523(None)] 2024.https://doi.org/10.1016/j.ccr.2024.216226.
     
 No abstract    
 
@@ -512,14 +391,14 @@ Accurate elucidation of gas-phase chemical structures using collision cross sect
 
     
 
-## Interaction of H2S with perfect and O-covered Pd(100) surface: A first-principles study   
+## Bifunctional catalytic activity of anion-doped LaSrCoO 4 for oxygen reduction and evolution reactions   
 
-OpenAlex: https://openalex.org/W4403093953    
-Open access: False
+OpenAlex: https://openalex.org/W4403259305    
+Open access: True
     
-[Tariq Usman](https://openalex.org/A5091399282), [Asif Ilyas](https://openalex.org/A5076569619), [Salman Ali Khan](https://openalex.org/A5101835278), [Sajid Khan](https://openalex.org/A5049748617), [Majed A. Alotaibi](https://openalex.org/A5107720291), [Ming-Qiu Tan](https://openalex.org/A5059642812), International Journal of Hydrogen Energy. 89(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.439.
+[Ittoku Nozawa](https://openalex.org/A5030520387), [Hidehisa Hagiwara](https://openalex.org/A5003300746), Royal Society Open Science. 11(10)] 2024.https://doi.org/10.1098/rsos.240387 ([pdf](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.240387)).
     
-No abstract    
+Here, we synthesized Co-based, anion-incorporated‍ ‌R‌u‌d‌d‌l‌e‌s-d‌e‌n‌-‌Popper perovskite electrocatalysts (LaSrCoO    
 
     
 

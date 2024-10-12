@@ -1,28 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Oct 11 01:19:52 2024
+Created on Sat Oct 12 01:18:07 2024
 
-Found 1 results from 2024-10-04 to 2024-10-11
+Found 0 results from 2024-10-05 to 2024-10-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
-* Amine headgroups in ionizable lipids drive immune responses to lipid nanoparticles by binding to the receptors TLR4 and CD1d  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403104998
-:TOPICS: Innate Immune Recognition and Signaling Pathways, Immunobiology of Dendritic Cells, Mechanisms and Applications of RNA Interference
-:PUBLICATION_DATE: 2024-10-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41551-024-01256-w")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403104998"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403104998"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403104998"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403104998 (Open access: False)
-    
-[[https://openalex.org/A5073121497][Namit Chaudhary]], [[https://openalex.org/A5060967837][Lisa N. Kasiewicz]], [[https://openalex.org/A5080909957][Alexandra N. Newby]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5015320215][Saigopalakrishna S. Yerneni]], [[https://openalex.org/A5007318050][Jilian R. Melamed]], [[https://openalex.org/A5064315710][Samuel T. LoPresti]], [[https://openalex.org/A5087199847][Katherine C. Fein]], [[https://openalex.org/A5082946273][Daria M. Strelkova Petersen]], [[https://openalex.org/A5050503665][Sushant Kumar]], [[https://openalex.org/A5049093520][Rahul Purwar]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], Nature Biomedical Engineering. None(None)] 2024. https://doi.org/10.1038/s41551-024-01256-w 
-     
-No abstract    
-
-    

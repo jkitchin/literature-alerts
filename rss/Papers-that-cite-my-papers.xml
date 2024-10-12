@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Oct 2024 01:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 01:18:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Uncertainty Quantification of Linear Scaling, Machine Learning, and Density Functional Theory Derived Thermodynamics for the Catalytic Partial Oxidation of Methane on Rhodium</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c05107</link>
-      <description>Christopher M. Blais, Chao Xu, Richard H. West, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403090590
-
-                No abstract</description>
-      <author>Christopher M. Blais, Chao Xu, Richard H. West</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05107</guid>
-    </item>
-    <item>
-      <title>Carbothermal Reduction-Assisted Synthesis of a Carbon-Supported Highly Dispersed PtSn Nanoalloy for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c03099</link>
-      <description>Jia Li, Jing Liu, Chuan Zhao, Anjun Hu, Xuping Sun, Bingbao Mei, Jianping Long, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4403090945
-
-                Exploring high-performance and low-platinum-based electrocatalysts to accelerate the oxygen reduction reaction (ORR) at the air cathode of zinc-air batteries remains crucial. Herein, by combining electroless deposition and carbothermal reduction, a nitrogen-doped carbon-supported highly dispersed PtSn alloy nanocatalyst (PtSn/NC) was prepared for a high-efficiency ORR process. Electrochemical measurements show that PtSn/NC exhibits excellent electrocatalytic ORR activity with a half-wave potential of 0.850 V versus reversible hydrogen electrode (RHE), which is higher than that of commercial Pt/C (0.815 V). The PtSn/NC-based (20 &#956;g</description>
-      <author>Jia Li, Jing Liu, Chuan Zhao, Anjun Hu, Xuping Sun, Bingbao Mei, Jianping Long</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03099</guid>
-    </item>
-    <item>
-      <title>Transition metal sulfides: From design strategies to environmental and energy-related applications</title>
-      <link>https://doi.org/10.1016/j.ccr.2024.216237</link>
-      <description>Sharafat Ali, Syed ul Hasnain Bakhtiar, Ahmed Ismail, Pir Muhammad Ismail, Salman Hayat, Amir Zada, Xiaoqiang Wu, Abdullah Alodhayb, Muhammad Zahid, Fazal Raziq, Jiabao Yi, Liang Qiao, Coordination Chemistry Reviews. 523(None)] 2024. https://openalex.org/W4403093749
-
-                No abstract</description>
-      <author>Sharafat Ali, Syed ul Hasnain Bakhtiar, Ahmed Ismail, Pir Muhammad Ismail, Salman Hayat, Amir Zada, Xiaoqiang Wu, Abdullah Alodhayb, Muhammad Zahid, Fazal Raziq, Jiabao Yi, Liang Qiao</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216237</guid>
-    </item>
-    <item>
-      <title>Ab Initio Kinetics of Electrochemical Reactions Using the Computational Fc&lt;sup&gt;0&lt;/sup&gt;/Fc&lt;sup&gt;+&lt;/sup&gt; Electrode</title>
-      <link>https://doi.org/10.1021/acs.jpca.4c04923</link>
-      <description>Aleksandr S. Kramarenko, Dmitry Sharapa, Evgeny A. Pidko, Felix Studt, The Journal of Physical Chemistry A. None(None)] 2024. https://openalex.org/W4403093990
-
-                The current state-of-the-art electron-transfer modeling primarily focuses on the kinetics of charge transfer between an electroactive species and an inert electrode. Experimental studies have revealed that the existing Butler-Volmer model fails to satisfactorily replicate experimental voltammetry results for both solution-based and surface-bound redox couples. Consequently, experimentalists lack an accurate tool for predicting electron-transfer kinetics. In response to this challenge, we developed a density functional theory-based approach for accurately predicting current peak potentials by using the Marcus-Hush model. Through extensive cyclic voltammetry simulations, we conducted a thorough exploration that offers valuable insights for conducting well-informed studies in the field of electrochemistry.</description>
-      <author>Aleksandr S. Kramarenko, Dmitry Sharapa, Evgeny A. Pidko, Felix Studt</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c04923</guid>
-    </item>
-    <item>
-      <title>Highly dispersed Ir nanoparticles on Ti3C2Tx MXene nanosheets for efficient oxygen evolution in acidic media</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.10.009</link>
-      <description>Meihong Fan, Lijia Liu, Yue Li, Fengmei Gu, Xingquan He, Hui Chen, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4403097736
-
-                No abstract</description>
-      <author>Meihong Fan, Lijia Liu, Yue Li, Fengmei Gu, Xingquan He, Hui Chen</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.009</guid>
-    </item>
-    <item>
-      <title>Bismuth Vacancies Induced Lattice Strain in BiVO&lt;sub&gt;4&lt;/sub&gt; Photoanodes Boosting Charge Separation For Water Oxidation</title>
-      <link>https://doi.org/10.1002/aenm.202403835</link>
-      <description>Boyan Liu, Li Wang, Yingjuan Zhang, Kang Wan, Liangcheng Xu, Siqing Ma, Ruoting Zhao, Songcan Wang, Wei Huang, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4403099600
-
-                Abstract Photoelectrochemical (PEC) water splitting is a promising technology for green hydrogen production. However, severe charge recombination in the photoelectrode materials is one of the key obstacles to achieving high performance. Herein, a BiVO&#8324; photoanode with lattice strain (Str&#8208;BVO) is constructed by generating Bi vacancies to promote charge separation in the bulk. The optimized Str&#8208;BVO photoanode achieves a photocurrent density of 6.20 mA cm&#8315; 2 at 1.23 V versus the reversible hydrogen electrode under AM 1.5 G illumination, with an impressive charge separation efficiency close to 100%. Systematical experiments and density functional theory reveal that the surface Bi vacancies induced strain causes the distortion of a small number of VO 4 tetrahedra, which increases the antibonding state energy of most normal VO 4 tetrahedra and creates more electronic vacancy states, thereby significantly promoting electron&#8211;hole separation. By surface loading with a FeNiO x co&#8208;catalyst, the photoanode exhibits excellent PEC water&#8208;splitting performance and stability.</description>
-      <author>Boyan Liu, Li Wang, Yingjuan Zhang, Kang Wan, Liangcheng Xu, Siqing Ma, Ruoting Zhao, Songcan Wang, Wei Huang</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403835</guid>
-    </item>
-    <item>
-      <title>Preparation Technology of Nanomaterials</title>
-      <link>https://doi.org/10.1007/978-981-97-8433-2_6</link>
-      <description>Shengjie Peng, Peng Li, Nanomaterials and Nanotechnology. None(None)] 2024. https://openalex.org/W4403102968
-
-                No abstract</description>
-      <author>Shengjie Peng, Peng Li</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-8433-2_6</guid>
-    </item>
-    <item>
-      <title>Electronic structure of zaykovite Rh3Se4, prediction, and analysis of physical properties of related materials: Pd3Se4, Ir3Se4, and Pt3Se4</title>
-      <link>https://doi.org/10.1063/5.0232257</link>
-      <description>Leonid S. Taran, &#1057;. &#1042;. &#1045;&#1088;&#1077;&#1084;&#1077;&#1077;&#1074;, S. V. Streltsov, The Journal of Chemical Physics. 161(13)] 2024. https://openalex.org/W4403103981
-
-                In this work, we explore the electronic properties and chemical bonding in the recently discovered mineral zaykovite, the first natural rhodium selenide Rh3Se4. We comprehensively studied the bulk electronic structure, hybridization of rhodium and selenium orbitals, and the influence of spin&#8211;orbit interaction on the electronic spectrum, as well as inspected its topological properties. In addition, we investigated the surface electronic structure of zaykovite and revealed the anisotropic Rashba-type spin splitting in the surface states. In addition, using calculations of the phonon spectra and enthalpy of formation, we predicted the family of similar selenides based on other 4d and 5d transition metals such as Ir, Pd, and Pt. The structural and electronic properties of these materials are discussed.</description>
-      <author>Leonid S. Taran, &#1057;. &#1042;. &#1045;&#1088;&#1077;&#1084;&#1077;&#1077;&#1074;, S. V. Streltsov</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0232257</guid>
-    </item>
-    <item>
-      <title>NiFe&#8208;Based Electrocatalysts for Alkaline Oxygen Evolution: Challenges, Strategies, and Advances Toward Industrial&#8208;Scale Deployment</title>
-      <link>https://doi.org/10.1002/adfm.202410618</link>
-      <description>Yansong Zhou, Zhitong Wang, Minghui Cui, Haiyan Wu, Ying Liu, Qiongrong Ou, Xinlong Tian, Shuyu Zhang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403108901
-
-                Abstract Developing high&#8208;efficiency alkaline water splitting technology holds great promise in potentially revolutionizing the traditional petrochemical industry to a more sustainable hydrogen economy. Importantly, the oxygen evolution reaction (OER) accompanied at the anode is considered as a critical bottleneck in terms of both complicated mechanism and sluggish kinetics, requiring rational design of OER electrocatalysts to elucidate the structure&#8208;performance relationship and reduce the applied overpotential. As a benchmarked non&#8208;precious metal candidate, NiFe&#8208;based electrocatalysts have gained enormous attention due to low&#8208;cost, earth&#8208;abundance, and remarkable intrinsic OER activity, which are expected to be implemented in industrial alkaline water splitting. In this contribution, a comprehensive overview of NiFe&#8208;based OER electrocatalysts is provided, starting with fundamental mechanisms, evaluation metrics, and synthetic protocols. Subsequently, basic principles with corresponding regulatory strategies are summarized following the sequence of substrate&#8208;catalyst&#8208;electrolyte design of efficient and robust NiFe&#8208;based electrocatalysts toward industrial&#8208;scale deployment. Perspectives on remaining challenges and instructive opportunities in this booming field are finally discussed.</description>
-      <author>Yansong Zhou, Zhitong Wang, Minghui Cui, Haiyan Wu, Ying Liu, Qiongrong Ou, Xinlong Tian, Shuyu Zhang</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202410618</guid>
-    </item>
-    <item>
-      <title>P-functionalization of Ni Fe &#8722; Electrocatalysts from Prussian blue analogue for enhanced anode in anion exchange membrane water electrolysers</title>
-      <link>https://doi.org/10.1016/j.cej.2024.156256</link>
-      <description>Beatrice Ricciardi, Williane da Silva Freitas, Barbara Mecheri, J.M. Luque-Centeno, Cinthia Alegre, David Sebasti&#225;n, M.J. L&#225;zaro, Alessandra D&#8217;Epifanio, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403112516
-
-                No abstract</description>
-      <author>Beatrice Ricciardi, Williane da Silva Freitas, Barbara Mecheri, J.M. Luque-Centeno, Cinthia Alegre, David Sebasti&#225;n, M.J. L&#225;zaro, Alessandra D&#8217;Epifanio</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156256</guid>
-    </item>
-    <item>
-      <title>Atom-glue stabilized Pt-based intermetallic nanoparticles</title>
-      <link>https://doi.org/10.1126/sciadv.adq6727</link>
-      <description>Zhongliang Huang, Y Wang, Jing Xia, Shengnan Hu, Nanjun Chen, Tianyi Ding, Changhong Zhan, Chih&#8208;Wen Pao, Zhiwei Hu, Wei&#8208;Hsiang Huang, Tong Shi, Xiang&#8208;Min Meng, Yong Xu, Liang Cao, Xiaoqing Huang, Science Advances. 10(40)] 2024. https://openalex.org/W4403114801
-
-                Pt-based nanoparticles (NPs) have been widely used in catalysis. However, this suffers from aggregation and/or sintering at working conditions. We demonstrate a robust strategy for stabilizing PtCo NPs under high temperature with strong interaction between M&#8211;N&#8211;C and PtCo NPs with Pt&#8211;M&#8211;N coordination, namely, &#8220;atom glue.&#8221; Such atom glue for stabilizing Pt-based NPs can be extended to Zn, Mn, Fe, Ni, Co, and Cu, being a versatile strategy for stabilizing PtCo NPs, which substantially promotes the performance toward oxygen reduction reaction (ORR) and fuel cell. Impressively, the mass activity (MA) reaches 2.99 A mg Pt &#8722;1 for ORR over g -Zn&#8211;N&#8211;C/PtCo, and 79.3% of the initial MA is maintained after 90K cycles in fuel cell. This work provides a versatile strategy for stabilizing Pt-based NPs via atom glue, which is likely to spark widespread interest across various fields.</description>
-      <author>Zhongliang Huang, Y Wang, Jing Xia, Shengnan Hu, Nanjun Chen, Tianyi Ding, Changhong Zhan, Chih&#8208;Wen Pao, Zhiwei Hu, Wei&#8208;Hsiang Huang, Tong Shi, Xiang&#8208;Min Meng, Yong Xu, Liang Cao, Xiaoqing Huang</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adq6727</guid>
-    </item>
     <item>
       <title>A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.161421</link>
@@ -190,11 +80,11 @@
     <item>
       <title>Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity</title>
       <link>https://doi.org/10.1016/j.jcis.2024.10.010</link>
-      <description>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4403144529
+      <description>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao, Journal of Colloid and Interface Science. 679(None)] 2024. https://openalex.org/W4403144529
 
-                No abstract</description>
+                The development of cost-effective and corrosion-resistant catalytic electrodes for chlorine/oxygen evolution reaction (CER/OER) in large-scale industrial applications is a significant challenge. Herein, the sol-gel method is employed to achieve a uniform coating of ruthenium (Ru) doping copper (Cu) on titanium sheet (Ru + 20 %Cu@Ti), and the highly efficient industrial grade stable Ti dimensional stable anode can be quickly constructed at 723.15 K for 2 h. Cu doping reduces the vacancy formation energy of surface oxygen, promotes additional lattice oxygen vacancy assisted hydrolysis dissociation pathway, improves the selectivity and specific activity of CER at high concentration doping, and reduces the binding energy of OER intermediates (e.g., *OH, *O, and *OOH) at adjacent Ru active sites. The overpotentials require to reach the current density of 10 mA cm</description>
       <author>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.010</guid>
     </item>
     <item>
@@ -458,14 +348,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c01051</guid>
     </item>
     <item>
-      <title>Interaction of H2S with perfect and O-covered Pd(100) surface: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.09.439</link>
-      <description>Tariq Usman, Asif Ilyas, Salman Ali Khan, Sajid Khan, Majed A. Alotaibi, Ming-Qiu Tan, International Journal of Hydrogen Energy. 89(None)] 2024. https://openalex.org/W4403093953
+      <title>Bifunctional catalytic activity of anion-doped LaSrCoO &lt;sub&gt;4&lt;/sub&gt; for oxygen reduction and evolution reactions</title>
+      <link>https://doi.org/10.1098/rsos.240387</link>
+      <description>Ittoku Nozawa, Hidehisa Hagiwara, Royal Society Open Science. 11(10)] 2024. https://openalex.org/W4403259305
 
-                No abstract</description>
-      <author>Tariq Usman, Asif Ilyas, Salman Ali Khan, Sajid Khan, Majed A. Alotaibi, Ming-Qiu Tan</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.439</guid>
+                Here, we synthesized Co-based, anion-incorporated&#8205; &#8204;R&#8204;u&#8204;d&#8204;d&#8204;l&#8204;e&#8204;s-d&#8204;e&#8204;n&#8204;-&#8204;Popper perovskite electrocatalysts (LaSrCoO</description>
+      <author>Ittoku Nozawa, Hidehisa Hagiwara</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1098/rsos.240387</guid>
     </item>
     <item>
       <title>On the selection of control structures using process operability analysis</title>

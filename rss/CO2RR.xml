@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Oct 2024 01:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 01:18:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -108,16 +108,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401832</guid>
     </item>
     <item>
-      <title>COmbined suN-Driven Oxidation and CO2 Reduction for renewable energy storage</title>
-      <link>https://doi.org/10.3030/101006839</link>
-      <description>, No host. None(None)] 2020. https://openalex.org/W4403221851
-
-                No abstract</description>
-      <author/>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3030/101006839</guid>
-    </item>
-    <item>
       <title>Exploring Electrocatalytic CO2 Reduction Over Materials Derived from Cu&#8208;Based Metal&#8208;Organic Frameworks</title>
       <link>https://doi.org/10.1002/cctc.202401551</link>
       <description>Yining Li, Abhishek Dutta Chowdhury, ChemCatChem. None(None)] 2024. https://openalex.org/W4403195807
@@ -128,14 +118,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401551</guid>
     </item>
     <item>
-      <title>Hydroxylation boosted low-overpotential CO2 reduction to ethylene for Cu/PTFE electrode</title>
-      <link>https://doi.org/10.1039/d4cc03845b</link>
-      <description>Yifeng Wang, Haoliang Huang, Shengjie Zhang, Hao Zhang, Linjuan Zhang, Jing Wang, Jian&#8208;Qiang Wang, Chemical Communications. None(None)] 2024. https://openalex.org/W4403097913
+      <title>COmbined suN-Driven Oxidation and CO2 Reduction for renewable energy storage</title>
+      <link>https://doi.org/10.3030/101006839</link>
+      <description>, No host. None(None)] 2020. https://openalex.org/W4403221851
 
-                We observed that Cu/PTFE catalyst for CO2 reduction reaction generated high coverage of *OH which facilitates both the activation of CO2 and the C-C coupling leading to a Faradaic efficiency...</description>
-      <author>Yifeng Wang, Haoliang Huang, Shengjie Zhang, Hao Zhang, Linjuan Zhang, Jing Wang, Jian&#8208;Qiang Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc03845b</guid>
+                No abstract</description>
+      <author/>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3030/101006839</guid>
     </item>
     <item>
       <title>Dual Metallosalen&#8208;based Covalent Organic Frameworks for Artificial Photosynthetic Diluted CO2 Reduction</title>
@@ -238,26 +228,6 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s10668-024-05497-2</guid>
     </item>
     <item>
-      <title>Author response for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"</title>
-      <link>https://doi.org/10.1039/d4ey00141a/v2/response1</link>
-      <description>Jiangnan Li, Xinyi Duan, Chao Wu, Yucheng Cao, Zhiyao Duan, Peng Zhang, Wenjun Fan, Fuxiang Zhang, No host. None(None)] 2024. https://openalex.org/W4403224004
-
-                No abstract</description>
-      <author>Jiangnan Li, Xinyi Duan, Chao Wu, Yucheng Cao, Zhiyao Duan, Peng Zhang, Wenjun Fan, Fuxiang Zhang</author>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ey00141a/v2/response1</guid>
-    </item>
-    <item>
-      <title>Co Cluster-Modified Ni Nanoparticles with Superior Light-Driven Thermocatalytic Co2 Reduction by Ch4</title>
-      <link>https://doi.org/10.2139/ssrn.4976153</link>
-      <description>Qian Zhang, Mei Li, Yuhua Zhang, Na Sun, Dan Cheng, Peng Sun, Shaowen Wu, No host. None(None)] 2024. https://openalex.org/W4403093962
-
-                No abstract</description>
-      <author>Qian Zhang, Mei Li, Yuhua Zhang, Na Sun, Dan Cheng, Peng Sun, Shaowen Wu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4976153</guid>
-    </item>
-    <item>
       <title>Electrodeposited Cu2o@Cu Hierarchical Structures for Electrocatalytic Co2 Reduction: Morphological Tuning and Copper Mediation</title>
       <link>https://doi.org/10.2139/ssrn.4979269</link>
       <description>Wang Zhen, Yanmin Zhao, Weirui Chen, Gaozu Liao, Laisheng Li, Jing Wang, No host. None(None)] 2024. https://openalex.org/W4403176058
@@ -276,6 +246,16 @@
       <author/>
       <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ey00141a/v1/decision1</guid>
+    </item>
+    <item>
+      <title>Author response for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"</title>
+      <link>https://doi.org/10.1039/d4ey00141a/v2/response1</link>
+      <description>Jiangnan Li, Xinyi Duan, Chao Wu, Yucheng Cao, Zhiyao Duan, Peng Zhang, Wenjun Fan, Fuxiang Zhang, No host. None(None)] 2024. https://openalex.org/W4403224004
+
+                No abstract</description>
+      <author>Jiangnan Li, Xinyi Duan, Chao Wu, Yucheng Cao, Zhiyao Duan, Peng Zhang, Wenjun Fan, Fuxiang Zhang</author>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ey00141a/v2/response1</guid>
     </item>
     <item>
       <title>Decision letter for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"</title>
@@ -346,16 +326,6 @@
       <author>Aling Ma, Zongpeng Ding, YuShan Pang, Guohong Fan, Hong Xu</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105233</guid>
-    </item>
-    <item>
-      <title>Carbon Capture and Storage Via Electrochemical and Bioelectrochemical Techniques: A Review</title>
-      <link>https://doi.org/10.4314/cajost.v6i2.3</link>
-      <description>John Tsado Mathew, Abel Inobeme, Yakubu Azeh, Musah Monday, Abdullahi Abdulkadir, Elijah Yanda Shaba, M. B. Etsuyankpa, Tanko S. Musa, A. I. Muhammad, Hina Ismail, Abubakar Mohammed Kanwa, Amos Mamman, Jonathan Hussaini, Caliphate Journal of Science and Technology. 6(2)] 2024. https://openalex.org/W4403103147
-
-                The urgent need to mitigate climate change has spurred innovative research in carbon capture and storage (CCS) technologies. Electrochemical approaches utilize electrocatalysis and electrochemical reduction to capture carbon dioxide (CO2) from industrial emissions, demonstrating high selectivity and enabling the production of valuable chemicals and fuels from captured CO2. Bioelectrochemical techniques leverage microorganisms to convert CO2 into biomass or biofuels, enhancing carbon capture efficiency through biological and electrochemical synergy. Integrating bioelectrochemical systems with renewable energy sources provides a carbon-negative pathway, aiding industry decarbonization. This review underscores the transformative potential of these techniques in revolutionizing CCS strategies, emphasizing their role in addressing climate change while fostering a sustainable, circular economy.</description>
-      <author>John Tsado Mathew, Abel Inobeme, Yakubu Azeh, Musah Monday, Abdullahi Abdulkadir, Elijah Yanda Shaba, M. B. Etsuyankpa, Tanko S. Musa, A. I. Muhammad, Hina Ismail, Abubakar Mohammed Kanwa, Amos Mamman, Jonathan Hussaini</author>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.4314/cajost.v6i2.3</guid>
     </item>
     <item>
       <title>INTEGRATED TECHNOLOGY OF BIOGAS UTILIZATION OF SOLID HOUSEHOLD WASTE LANDFILLS WITH THE PRODUCTION OF ELECTROCITY, HEAT AND CARBON DIOXIDE</title>
@@ -448,6 +418,16 @@
       <guid isPermaLink="true">https://doi.org/10.9734/ijecc/2024/v14i104500</guid>
     </item>
     <item>
+      <title>Comparative analysis of embodied carbon in modular and conventional construction methods in Hong Kong</title>
+      <link>https://doi.org/10.1038/s41598-024-73906-7</link>
+      <description>Jiaying Wei, Bin Ge, Ying Zhong, Tik Long Lee, Yi Zhang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4403246062
+
+                Addressing the rise in global temperatures and the associated increase in greenhouse gases, particularly carbon dioxide, is a critical challenge necessitating innovative approaches within the building sector, a significant contributor to worldwide carbon emissions. While previous studies have demonstrated the prefabrication's potential in reducing emissions, comprehensive assessments using actual project data for buildings constructed entirely with modular methods in Hong Kong are lacking. This study bridges this gap by evaluating the modular integrated construction (MiC) method through an embodied carbon assessment of the Kai Tak Community Isolation Facility. Using comprehensive project data from China State Construction (HK) Limited, the research conducts a comparative analysis between the actual emissions of the MiC method and those of a hypothetical conventional construction approach. Quantitative analysis reveals that MiC achieves a 20.7% reduction in embodied carbon, primarily due to shortened construction timelines, decreased waste generation, and optimized material usage. This significant reduction suggests substantial potential for decreasing the construction industry's carbon footprint. The study provides empirical evidence supporting the environmental benefits of MiC in Hong Kong construction industry, promoting its broader adoption of MiC as a strategy for achieving carbon reduction targets. The findings align with Hong Kong's carbon neutrality goals and contribute to the global initiative to mitigate the effects of climate change.</description>
+      <author>Jiaying Wei, Bin Ge, Ying Zhong, Tik Long Lee, Yi Zhang</author>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-73906-7</guid>
+    </item>
+    <item>
       <title>Impacts of Land Use and Land Cover Changes on Biomass and Carbon Sequestration in Coastal Kinondoni, Tanzania</title>
       <link>https://doi.org/10.9734/ijecc/2024/v14i104498</link>
       <description>Luzabeth J. Kitali, Adili Y. Zella, International Journal of Environment and Climate Change. 14(10)] 2024. https://openalex.org/W4403137310
@@ -478,6 +458,16 @@
       <guid isPermaLink="true">https://doi.org/10.4018/979-8-3693-7230-2.ch007</guid>
     </item>
     <item>
+      <title>The Role of Catalytic Vehicles in the Reduction of Environmental Pollution in Nangrahar City of Afghanistan</title>
+      <link>https://doi.org/10.70436/nuijb.v3i02.293</link>
+      <description>Bashir ullah Safi, Fazal Rahman Mukhlis Safi, Abdul Rabi Atif, No host. 03(ICCC(special))] 2024. https://openalex.org/W4403228494
+
+                Due to the increase in the number of vehicles in the cities, air pollution is one of the serious environmental hazards because it increases the greenhouse gases in the atmosphere and causes climate change. To reduce the bad effects of the gases produced by car engines, the gases are filtered with the help of a catalytic in the silencer of the car (carbon monoxide to carbon dioxide, nitrogen monoxide to nitrogen oxide and hydrocarbons to water vapor) before it leaves the silencer of the car. The catalytic was synthesized in 1895 from various expensive (platinum, rhodium, palladium) materials that work as a result of chemical reactions and have a high price. The purpose of this research is to inform people about the role and value of catalytic in preventing environmental pollution in the eastern zone of Afghanistan. Data was collected through online questionnaire and interviews from 102 participants. The findings of the research show that the catalytic play a vital role in the reduction of environmental pollution in Nangarhar city of Afghanistan. The study revealed that catalytic helps the cars in the prevention of air pollution. The catalytic breaks down dangerous gases into environment friendly gases before they leave the silencer of the car and so has a great role in the reduction of environmental pollution. Similarly, the catalytic is an essential part of the car that has a vital role in the health of the car i.e., the car having the catalytic will be in good condition for a longer period of time, will go with high speed and will use less fuel. Moreover, the use of catalytic is recommended in every car and other fuel consuming machines to avoid environmental pollution.</description>
+      <author>Bashir ullah Safi, Fazal Rahman Mukhlis Safi, Abdul Rabi Atif</author>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.70436/nuijb.v3i02.293</guid>
+    </item>
+    <item>
       <title>Agricultural Productivity and Climate Mitigation</title>
       <link>https://doi.org/10.1146/annurev-resource-101323-094349</link>
       <description>Keith O. Fuglie, Thomas W. Hertel, David B. Lobell, Nelson B. Villoria, Annual Review of Resource Economics. 16(1)] 2024. https://openalex.org/W4403184700
@@ -486,16 +476,6 @@
       <author>Keith O. Fuglie, Thomas W. Hertel, David B. Lobell, Nelson B. Villoria</author>
       <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1146/annurev-resource-101323-094349</guid>
-    </item>
-    <item>
-      <title>Electrokinetic Analysis&#8208;Driven Promotion of Electrocatalytic CO Reduction to n&#8208;Propanol</title>
-      <link>https://doi.org/10.1002/smll.202406345</link>
-      <description>Yaqin Yan, Kunhao Liu, Chao Yang, Yangshen Chen, Ximeng Lv, Cejun Hu, Lijuan Zhang, Gengfeng Zheng, Small. None(None)] 2024. https://openalex.org/W4403109751
-
-                Abstract The electrocatalytic carbon dioxide or carbon monoxide reduction reaction (CO 2 RR or CORR) features a sustainable method for reducing carbon emissions and producing value&#8208;added chemicals. However, the generation of C 3 products with higher energy density and market values, such as n&#8208;propanol, remains highly challenging, which is attributed to the unclear formation mechanism of C 3+ versus C 2 products. In this work, by the Tafel slope analysis, electrolyte pH correlation exploration, and the kinetic analysis of CO partial pressure fitting, it is identified that both n&#8208;propanol and C 2 products share the same rate&#8208;determining step, which is the coupling of two C 1 intermediates via the derivation of the Butler&#8211;Volmer equation. In addition, inspired by the mechanistic study, it is proposed that a high OH &#9472; concentration and a water&#8208;limited environment are beneficial for promoting the subsequent *C 2 &#8211;*C 1 coupling to n&#8208;propanol. At 5.0 m [OH &#8722; ], the partial current density of producing n&#8208;propanol ( j n&#8208;propanol ) reached 45 mA cm &#8722;2 , which is 35 and 1.3 times higher than that at 0.01 m [OH &#8722; ] and 1.0 m [OH &#8722; ], respectively. This study provides a comprehensive kinetic analysis of n&#8208;propanol production and suggests opportunities for designing new catalytic systems for promoting the C 3 production.</description>
-      <author>Yaqin Yan, Kunhao Liu, Chao Yang, Yangshen Chen, Ximeng Lv, Cejun Hu, Lijuan Zhang, Gengfeng Zheng</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202406345</guid>
     </item>
     <item>
       <title>Self-Inhibition Phenomena in Cu&lt;sub&gt;3&lt;/sub&gt;Pt Oxidation by CO&lt;sub&gt;2&lt;/sub&gt;</title>
@@ -518,16 +498,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16198672</guid>
     </item>
     <item>
-      <title>Advanced Energy Management System for Generator&#8211;Battery Hybrid Power System in Ships: A Novel Approach with Optimal Control Algorithms</title>
-      <link>https://doi.org/10.3390/jmse12101755</link>
-      <description>EunMi Choi, Heemoon Kim, Journal of Marine Science and Engineering. 12(10)] 2024. https://openalex.org/W4403112671
-
-                Advancements in the reduction of carbon dioxide emissions from ships are driving the development of more efficient onboard power systems. The proposed non-equivalent parallel running operation system is explored in this study, which improves the efficiency of the main power generation source compared with traditional equal load-sharing methods used in power management systems. However, the asymmetric method reduces the efficiency of the auxiliary power sources. To address this issue, we propose a control method that integrates a battery system with an efficiency-based algorithm to optimize the overall system performance. The proposed approach involves establishing operation command values based on the characteristics of the power generation source and adjusting these commands according to the battery&#8217;s state of charge (SOC). MATLAB/Simulink simulations confirmed the effectiveness of this method across various operating modes and revealed no operational issues. When applied to a ship&#8217;s operating profile over 222 h, the method reduced fuel consumption by approximately 2.98 tons (5.57%) compared with conventional systems. Over 38 annual voyages, this reduction equates to savings of 115.96 tons of fuel or approximately 96.47 million Korean won. This study demonstrates that integrating an optimal efficiency algorithm into the energy management system significantly enhances both the propulsion and overall energy efficiency of ships.</description>
-      <author>EunMi Choi, Heemoon Kim</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/jmse12101755</guid>
-    </item>
-    <item>
       <title>Molecular Dynamics Simulations for Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction: Bridging Macroscopic Experimental Observations and Microscopic Explanatory Mechanisms</title>
       <link>https://doi.org/10.1002/adfm.202413703</link>
       <description>Yanzheng He, Mengfan Wang, Haoqing Ji, Qiyang Cheng, Sisi Liu, Yunfei Huan, Qian Tao, Chenglin Yan, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403202351
@@ -546,6 +516,16 @@
       <author>Kichul Kim, Jiwoong Kim, Yun Gyu Lee, Seunghwan Wi, Sumin Kim</author>
       <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1186/s42834-024-00231-z</guid>
+    </item>
+    <item>
+      <title>LCCO2 Assessment and Fertilizer Production from Absorbed-CO2 Solid Matter in a Small-Scale DACCU Plant</title>
+      <link>https://doi.org/10.3390/en17195011</link>
+      <description>Tianjiao Cheng, takeji hirota, Hiroshi Onoda, Andante Hadi Pandyaswargo, Energies. 17(19)] 2024. https://openalex.org/W4403250453
+
+                This study investigates a novel method of utilizing Direct Air Capture (DAC) technology for fertilizer production. Unlike traditional Direct Air Carbon Capture and Utilization (DACCU) technologies, Direct Air Carbon Capture for Fertilizers (FDAC) has the potential to produce fertilizers directly. This study aims to assess the feasibility of FDAC-based fertilizer production by examining the current state of traditional DAC technologies, evaluating the CO2 fixation potential of FDAC, and analyzing the decarbonization effect of producing fertilizers using FDAC. Our evaluation results indicate that CO2 emissions from producing 1 ton of conventional chemical fertilizer, FDAC fertilizer (current status), FDAC fertilizer with ingredient adjustment (sodium hydroxide), and FDAC fertilizer with ingredient adjustment (magnesium hydroxide) are 1.69, 1.12, 1.04, and 1.06 tons of CO2, respectively. The FDAC fertilizer (current status) emits 0.57 tons of CO2 per ton less than commercial fertilizers. FDAC fertilizers also have the potential to reduce CO2 emissions further when the fertilizer composition is adjusted, offering a promising solution for lowering the environmental impact of fertilizer production. Significant CO2 reduction can be expected by replacing conventional low-intensity chemical fertilizers with FDAC-produced fertilizers.</description>
+      <author>Tianjiao Cheng, takeji hirota, Hiroshi Onoda, Andante Hadi Pandyaswargo</author>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/en17195011</guid>
     </item>
     <item>
       <title>Life cycle assessment of energy green transition goals in Slovenia and Serbia: Heat pump example</title>
@@ -578,16 +558,6 @@
       <guid isPermaLink="true">https://doi.org/10.62476/ge.23209</guid>
     </item>
     <item>
-      <title>Performance Evaluation of CO2 + SiCl4 Binary Mixture in Recompression Brayton Cycle for Warm Climates</title>
-      <link>https://doi.org/10.3390/pr12102155</link>
-      <description>Muhammad Ehtisham Siddiqui, Khalid H. Almitani, Processes. 12(10)] 2024. https://openalex.org/W4403106930
-
-                This work demonstrates the potential of CO2 + SiCl4 binary mixture as a working fluid for power generation cycle. Recompression Brayton cycle configuration is considered due to its proven record of high performance for medium- to high-temperature sources. The objective of this study is to assess the thermodynamic performance of a recompression Brayton cycle using a CO2 + SiCl4 binary mixture as a working fluid, particularly under warm climate conditions. The cycle is simulated using the Peng&#8211;Robinson equation of state in Aspen Hysys (v11) software, and the model is validated by comparing VLE data against experimental data from the literature. The analysis involves the assessment of cycle&#8217;s thermal efficiency and exergy efficiency under warm climatic conditions, with a minimum cycle temperature of 40 &#176;C. The results demonstrate a notable improvement in the cycle&#8217;s thermodynamic performance with CO2 + SiCl4 binary mixture compared to pure CO2. A small concentration (5%) of SiCl4 in CO2 increases the thermal efficiency of the cycle from 41.7% to 43.4%. Moreover, irreversibility losses in the cooler and the heat recovery unit are significantly lower with the CO2 + SiCl4 binary mixture than with pure CO2. This improvement enhances the overall exergy efficiency of the cycle, increasing it from 62.1% to 70.2%. The primary reason for this enhancement is the substantial reduction in irreversibility losses in both the cooler and the HTR. This study reveals that when using a CO2 + SiCl4 mixture, the concentration must be optimized to avoid condensation in the compressor, which can cause physical damage to the compressor blades and other components, as well as increase power input. This issue arises from the higher glide temperature of the mixture at increased SiCl4 concentrations and the limited heat recovery from the cycle.</description>
-      <author>Muhammad Ehtisham Siddiqui, Khalid H. Almitani</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/pr12102155</guid>
-    </item>
-    <item>
       <title>Simultaneous seismic interpolation and statics estimation of land data</title>
       <link>https://doi.org/10.1190/geo2023-0668.1</link>
       <description>Ali M. Alfaraj, D. J. Verschuur, Felix J. Herrmann, Geophysics. None(None)] 2024. https://openalex.org/W4403185372
@@ -596,16 +566,6 @@
       <author>Ali M. Alfaraj, D. J. Verschuur, Felix J. Herrmann</author>
       <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1190/geo2023-0668.1</guid>
-    </item>
-    <item>
-      <title>The Effect of Climate Change on Plant Parasitic Nematodes</title>
-      <link>https://doi.org/10.69860/nobel.9786053359449.12</link>
-      <description>Bet&#252;l G&#220;RKAN, Tolga G&#220;RKAN, No host. None(None)] 2024. https://openalex.org/W4403108794
-
-                Climate change is defined as permanent changes in the Earth&#8217;s weather conditions, such as temperature, precipitation, and wind. The main impacts of climate change include global warming, increase in weather events, sea level rise, damage to ecosystems, melting of glaciers, negative impacts on agriculture, water resources and human health. The biology and physiology of plant parasitic nematodes are regulated by environmental factors, (such as temperature, humidity, precipitation, and soil CO2 levels). which is one of the indicators of climate change. Climate change weather extremes such as increased temperature due to global warming, drought, forest fires, high CO2 conditions, increased rainfall, humidity conditions and storms affect the biodiversity, distribution, reproduction, survival and parasitic potential of plant parasitic nematodes. Since changes in CO2, temperature and precipitation levels caused by climate change will increase the proliferation, distribution and damage potential of plant parasitic nematode populations, there is a need to develop appropriate strategies for the control of nematodes that will be effective in situations of global warming in order to prevent significant reductions in crop yields in the future.</description>
-      <author>Bet&#252;l G&#220;RKAN, Tolga G&#220;RKAN</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.69860/nobel.9786053359449.12</guid>
     </item>
     <item>
       <title>The Synergistic Effect of the Carbon Emission Trading Scheme on Pollution and Carbon Reduction in China&#8217;s Power Industry</title>
@@ -628,16 +588,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c09558</guid>
     </item>
     <item>
-      <title>How teacher behaviors and perceptions, air change rates, and portable air purifiers affect indoor air quality in naturally ventilated schools</title>
-      <link>https://doi.org/10.3389/fpubh.2024.1427116</link>
-      <description>Tian Xia, Julia Raneses, Brixon Schmiesing, Raquel Garc&#237;a&#8208;Esteban, Alison Walding, Richardo DeMajo, Amy J. Schulz, Stuart Batterman, Frontiers in Public Health. 12(None)] 2024. https://openalex.org/W4403102704
-
-                Introduction Many school buildings have inadequate ventilation, rudimentary if any air filtration, and aging and poorly maintained mechanical systems, all of which can lead to poor indoor air quality (IAQ). These issues are especially acute in environmental justice (EJ) communities where schools are located in polluted areas. This community-based participatory research examines how IAQ in naturally ventilated school buildings is affected by the use of air purifiers, air change rates, outdoor pollution levels, and teacher and staff behavior. Methods IAQ assessments were performed at two schools in Detroit, Michigan, which included building walk-through inspections and continuous indoor and outdoor measurements of black carbon (BC), particulate matter (PM 10 and PM 2.5 ), carbon dioxide (CO 2 ), air change rates (ACRs), temperature, humidity, and sound pressure levels. Air purifiers with usage monitors were then installed, and the IAQ assessments were repeated. Teachers were surveyed before and after purifier deployment. Results At baseline, classrooms had low ACRs (0.58&#8211;1.38 h &#8722;1 ), moderate PM 2.5 levels (2.8&#8211;8.9 &#956;g/m 3 ), highly variable PM 10 concentrations (4.7&#8211;37.5 &#956;g/m 3 ), and elevated BC levels (0.3&#8211;0.7 &#956;g/m 3 ), reflecting emissions from local traffic, industry and other sources. The installation and use of purifiers reduced pollutant levels and the overall performance matched the predictions of a single compartment model. However, daily reductions varied widely among classrooms, reflecting differences in teacher behavior regarding the frequency of opening windows and the operation of purifiers, including differences in purifier fan speed settings and whether purifiers were used at night. Survey responses indicated that many teachers were aware of IAQ problems. The higher rates reported for health symptoms and dissatisfaction at one school may have lowered the teachers&#8217; tolerance to noise and reduced purifier use. Discussion The study helps explain the variation reported in prior studies using purifiers, and it reinforces the need to monitor IAQ and purifier use, use enhanced filtration and increase ventilation, and engage with teachers and school staff to support and maintain IAQ programs in schools.</description>
-      <author>Tian Xia, Julia Raneses, Brixon Schmiesing, Raquel Garc&#237;a&#8208;Esteban, Alison Walding, Richardo DeMajo, Amy J. Schulz, Stuart Batterman</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fpubh.2024.1427116</guid>
-    </item>
-    <item>
       <title>Hemodynamic Disorders in Alcohol Withdrawal Syndrome</title>
       <link>https://doi.org/10.17816/pavlovj623055</link>
       <description>S.I. Utkin, &#1054;. &#1046;. &#1041;&#1091;&#1079;&#1080;&#1082;, I P Pavlov Russian Medical Biological Herald. 32(3)] 2024. https://openalex.org/W4403135275
@@ -646,16 +596,6 @@
       <author>S.I. Utkin, &#1054;. &#1046;. &#1041;&#1091;&#1079;&#1080;&#1082;</author>
       <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.17816/pavlovj623055</guid>
-    </item>
-    <item>
-      <title>Structural Reuse of Decommissioned Ski Lift Steel Trusses for Load-Bearing Applications</title>
-      <link>https://doi.org/10.3390/architecture4040044</link>
-      <description>Adrian Kiesel, G Brandi, Jael Schlatter, Andri Gerber, Silke Langenberg, Architecture. 4(4)] 2024. https://openalex.org/W4403187287
-
-                The ongoing effects of climate change have led to a rise in global temperature, significantly reducing snow cover and resulting in the abandonment of numerous ski areas across Switzerland. As a result, many ski lifts have been decommissioned and left to deteriorate due to lenient local regulations. To address this issue, this paper presents a case study approach to repurposing steel trusses from abandoned ski lifts for a new structural application within the building industry. The design, sourcing, and construction of a new load-supporting column are described, focusing on reusing the ski lift steel trusses as a whole, without dismantling them into their components. After collection, these elements are adapted to comply with current building standards. By pouring out the hollow structure with the recently developed building material Cleancrete &#169;, a new load-bearing structure is developed. A comprehensive life cycle assessment (LCA) demonstrates the environmental performance of the steel&#8211;Cleancrete hybrid construction, which achieves a global warming potential (GWP) of 536.58 kg CO2-eq. In comparison, alternative designs using wood and concrete exhibited GWP values of 679.45 kg CO2-eq, +26.6%, and 1593.72 kg CO2-eq, +197.02%, respectively. These findings suggest that repurposing abandoned ski lift structures can significantly contribute to sustainable building practices, waste reduction, and the promotion of circular economy principles. The process outlined in this paper holds potential for future applications, particularly in the reuse of other steel components, ensuring continued circularity even as the supply of ski lift structures may dwindle.</description>
-      <author>Adrian Kiesel, G Brandi, Jael Schlatter, Andri Gerber, Silke Langenberg</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/architecture4040044</guid>
     </item>
     <item>
       <title>The use of opioids in late&#8208;stage &lt;scp&gt;COPD&lt;/scp&gt;&#8212;Where are we now?</title>
@@ -668,34 +608,14 @@
       <guid isPermaLink="true">https://doi.org/10.1111/resp.14839</guid>
     </item>
     <item>
-      <title>Towards a Synthetic Positive Energy District (PED) in &#304;stanbul: Balancing Cost, Mobility, and Environmental Impact</title>
-      <link>https://doi.org/10.3390/buildings14103153</link>
-      <description>Mi&#775;ne Serts&#246;z, Buildings. 14(10)] 2024. https://openalex.org/W4403107776
+      <title>Structural Reuse of Decommissioned Ski Lift Steel Trusses for Load-Bearing Applications</title>
+      <link>https://doi.org/10.3390/architecture4040044</link>
+      <description>Adrian Kiesel, G Brandi, Jael Schlatter, Andri Gerber, Silke Langenberg, Architecture. 4(4)] 2024. https://openalex.org/W4403187287
 
-                The influence of mobility modes within Positive Energy Districts (PEDs) has gained limited attention, despite their crucial role in reducing energy consumption and greenhouse gas emissions. Buildings in the European Union (EU) account for 40% of energy consumption and 36% of greenhouse gas emissions. In comparison, transport contributes 28% of energy use and 25% of emissions, with road transport responsible for 72% of these emissions. This study aims to design and optimize a synthetic PED in Istanbul that integrates renewable energy sources and public mobility systems to address these challenges. The renewable energy sources integrated into the synthetic PED model include solar energy, hydrogen energy, and regenerative braking energy from a tram system. Solar panels provided a substantial portion of the energy, while hydrogen energy contributed to additional electricity generation. Regenerative braking energy from the tram system was also utilized to further optimize energy production within the district. This system powers a middle school, 10 houses, a supermarket, and the tram itself. Optimization techniques, including Linear Programming (LP) for economic purposes and the Weighted Sum Method (WSM) for environmental goals, were applied to balance cost and CO2 emissions. The LP method identified that the PED model can achieve cost competitiveness with conventional energy grids when hydrogen costs are below $93.16/MWh. Meanwhile, the WSM approach demonstrated that achieving a minimal CO2 emission level of 5.74 tons requires hydrogen costs to be $32.55/MWh or lower. Compared to a conventional grid producing 97 tons of CO2 annually, the PED model achieved reductions of up to 91.26 tons. This study contributes to the ongoing discourse on sustainable urban energy systems by addressing key research gaps related to the integration of mobility modes within PEDs and offering insights into the optimization of renewable energy sources for reducing emissions and energy consumption.</description>
-      <author>Mi&#775;ne Serts&#246;z</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/buildings14103153</guid>
-    </item>
-    <item>
-      <title>A Highly Conjugated Nickel(II)&#8208;Acetylide Framework for Efficient Photocatalytic Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1002/anie.202418269</link>
-      <description>Yingying Qin, Yang Wang, Jian L&#252;, Linli Xu, Wai&#8208;Yeung Wong, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403129176
-
-                The incorporation of transition&#8208;metal single atoms as molecular functional entities into the skeleton of graphdiyne (GDY) to construct novel two&#8208;dimensional (2D) metal&#8208;acetylide frameworks, known as metalated graphynes (MGYs), is a promising strategy for developing efficient catalysts, which can combine the tunable charge transfer of GDY frameworks, the catalytic activity of metal and the precise distribution of single metallic centers. Herein, four highly conjugated MGY photocatalysts based on NiII, PdII, PtII, and HgII were synthesized for the first time using the &#8216;bottom&#8208;up&#8217; strategy through the use of M&#8211;C bonds (&#8211;C&#8801;C&#8211;M&#8211;C&#8801;C&#8211;). Remarkably, the NiII&#8208;based graphyne (TEPY&#8208;Ni&#8208;GY) exhibited the highest CO generation rate of 18.3 mmol g&#8208;1 h&#8208;1 and a selectivity of 98.8%. This superior performance is attributed to the synergistic effects of pyrenyl and &#8211;C&#8801;C&#8211;Ni(PBu3)2&#8211;C&#8801;C&#8211; moieties. The pyrenyl block functions as an intramolecular &#960;&#8208;conjugation channel, facilitating kinetically favorable electron transfer, while the &#8211;C&#8801;C&#8211;Ni(PBu3)2&#8211;C&#8801;C&#8211; moiety serves as the catalytic site that enhances CO2 adsorption and activation, thereby suppressing competitive hydrogen evolution. This study provides a new perspective on MGY&#8208;based photocatalysts for developing highly active and low&#8208;cost catalysts for CO2 reduction.</description>
-      <author>Yingying Qin, Yang Wang, Jian L&#252;, Linli Xu, Wai&#8208;Yeung Wong</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202418269</guid>
-    </item>
-    <item>
-      <title>Renewable Energy Credits Transforming Market Dynamics</title>
-      <link>https://doi.org/10.3390/su16198602</link>
-      <description>Bankole I. Oladapo, Mattew A. Olawumi, Francis T. Omigbodun, Sustainability. 16(19)] 2024. https://openalex.org/W4403101705
-
-                This research uses advanced statistical methods to examine climate change mitigation policies&#8217; economic and environmental impacts. The primary objective is to assess the effectiveness of carbon pricing, renewable energy subsidies, emission trading schemes, and regulatory standards in reducing CO2 emissions, fostering economic growth, and promoting employment. A mixed-methods approach was employed, combining regression analysis, cost&#8211;benefit analysis (CBA), and computable general equilibrium (CGE) models. Data were collected from national and global databases, and sensitivity analyses were conducted to ensure the robustness of the findings. Key findings revealed a statistically significant reduction in CO2 emissions by 0.45% for each unit increase in carbon pricing (p &lt; 0.01). Renewable energy subsidies were positively correlated with a 3.5% increase in employment in the green sector (p &lt; 0.05). Emission trading schemes were projected to increase GDP by 1.2% over a decade (p &lt; 0.05). However, chi-square tests indicated that carbon pricing disproportionately affects low-income households (p &lt; 0.05), highlighting the need for compensatory policies. The study concluded that a balanced policy mix, tailored to national contexts, can optimise economic and environmental outcomes while addressing social equity concerns. Error margins in GDP projections remained below &#177;0.3%, confirming the models&#8217; reliability.</description>
-      <author>Bankole I. Oladapo, Mattew A. Olawumi, Francis T. Omigbodun</author>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16198602</guid>
+                The ongoing effects of climate change have led to a rise in global temperature, significantly reducing snow cover and resulting in the abandonment of numerous ski areas across Switzerland. As a result, many ski lifts have been decommissioned and left to deteriorate due to lenient local regulations. To address this issue, this paper presents a case study approach to repurposing steel trusses from abandoned ski lifts for a new structural application within the building industry. The design, sourcing, and construction of a new load-supporting column are described, focusing on reusing the ski lift steel trusses as a whole, without dismantling them into their components. After collection, these elements are adapted to comply with current building standards. By pouring out the hollow structure with the recently developed building material Cleancrete &#169;, a new load-bearing structure is developed. A comprehensive life cycle assessment (LCA) demonstrates the environmental performance of the steel&#8211;Cleancrete hybrid construction, which achieves a global warming potential (GWP) of 536.58 kg CO2-eq. In comparison, alternative designs using wood and concrete exhibited GWP values of 679.45 kg CO2-eq, +26.6%, and 1593.72 kg CO2-eq, +197.02%, respectively. These findings suggest that repurposing abandoned ski lift structures can significantly contribute to sustainable building practices, waste reduction, and the promotion of circular economy principles. The process outlined in this paper holds potential for future applications, particularly in the reuse of other steel components, ensuring continued circularity even as the supply of ski lift structures may dwindle.</description>
+      <author>Adrian Kiesel, G Brandi, Jael Schlatter, Andri Gerber, Silke Langenberg</author>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/architecture4040044</guid>
     </item>
     <item>
       <title>Ionomer and Membrane Designs for Low&#8208;Temperature CO2 and CO Electrolysis</title>
@@ -706,6 +626,16 @@
       <author>Huihua Deng, Zhuo Chen, Li Wang</author>
       <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401728</guid>
+    </item>
+    <item>
+      <title>A Highly Conjugated Nickel(II)&#8208;Acetylide Framework for Efficient Photocatalytic Carbon Dioxide Reduction</title>
+      <link>https://doi.org/10.1002/anie.202418269</link>
+      <description>Yingying Qin, Yang Wang, Jian L&#252;, Linli Xu, Wai&#8208;Yeung Wong, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403129176
+
+                The incorporation of transition&#8208;metal single atoms as molecular functional entities into the skeleton of graphdiyne (GDY) to construct novel two&#8208;dimensional (2D) metal&#8208;acetylide frameworks, known as metalated graphynes (MGYs), is a promising strategy for developing efficient catalysts, which can combine the tunable charge transfer of GDY frameworks, the catalytic activity of metal and the precise distribution of single metallic centers. Herein, four highly conjugated MGY photocatalysts based on NiII, PdII, PtII, and HgII were synthesized for the first time using the &#8216;bottom&#8208;up&#8217; strategy through the use of M&#8211;C bonds (&#8211;C&#8801;C&#8211;M&#8211;C&#8801;C&#8211;). Remarkably, the NiII&#8208;based graphyne (TEPY&#8208;Ni&#8208;GY) exhibited the highest CO generation rate of 18.3 mmol g&#8208;1 h&#8208;1 and a selectivity of 98.8%. This superior performance is attributed to the synergistic effects of pyrenyl and &#8211;C&#8801;C&#8211;Ni(PBu3)2&#8211;C&#8801;C&#8211; moieties. The pyrenyl block functions as an intramolecular &#960;&#8208;conjugation channel, facilitating kinetically favorable electron transfer, while the &#8211;C&#8801;C&#8211;Ni(PBu3)2&#8211;C&#8801;C&#8211; moiety serves as the catalytic site that enhances CO2 adsorption and activation, thereby suppressing competitive hydrogen evolution. This study provides a new perspective on MGY&#8208;based photocatalysts for developing highly active and low&#8208;cost catalysts for CO2 reduction.</description>
+      <author>Yingying Qin, Yang Wang, Jian L&#252;, Linli Xu, Wai&#8208;Yeung Wong</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202418269</guid>
     </item>
     <item>
       <title>The Impact of Hydrogen on Flame Characteristics and Pollutant Emissions in Natural Gas Industrial Combustion Systems</title>
@@ -738,16 +668,6 @@
       <guid isPermaLink="true">https://doi.org/10.3397/in_2024_3673</guid>
     </item>
     <item>
-      <title>Implementation of Energy-saving Technologies in House construction</title>
-      <link>https://doi.org/10.21822/2073-6185-2024-51-3-189-194</link>
-      <description>E. I. Krupnov, Irina A. Zaytseva, Svetlana Andreyevna Loginova, Aleksandr Vladimirovich Simagin, Herald of Dagestan State Technical University Technical Sciences. 51(3)] 2024. https://openalex.org/W4403088596
-
-                Objective. Over the past decades, heat pumps have gained great popularity due to their advantages in energy efficiency and environmental friendliness, becoming one of the most attractive alternatives to replace traditional heating systems running on fossil fuels. Heat pump efficiency is a decisive factor that should be taken into account when selecting and optimizing a heat pump system. The aim of the study was to evaluate the efficiency of air source heat pumps of the air-to-water system in the climatic conditions typical of the regions of the Central Federal District. Method . To evaluate the efficiency of air source heat pumps, a mathematical model is used that takes into account the multifactorial nature of the process under study. Result. To adequately compare the obtained research results with the passport performance indicators, the transformation coefficient (COP) was used, showing the ratio of the energy received to the expended work. As a result, the method of heating rooms with an air source heat pump with a combined operation mode was recognized as more preferable. Conclusion. Currently, the potential of heat pumps in the field of energy saving and CO2 emission reduction remains largely untapped, which sets the vector for further research.</description>
-      <author>E. I. Krupnov, Irina A. Zaytseva, Svetlana Andreyevna Loginova, Aleksandr Vladimirovich Simagin</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21822/2073-6185-2024-51-3-189-194</guid>
-    </item>
-    <item>
       <title>Fine-tuning syngas composition using laser surface modified silver electrode for CO2 electroreduction</title>
       <link>https://doi.org/10.2351/7.0001542</link>
       <description>Austin McKee, Wuji Huang, Ninggang Shen, Syed Mubeen, Hongtao Ding, Journal of Laser Applications. 36(4)] 2024. https://openalex.org/W4403218032
@@ -759,16 +679,6 @@
     </item>
     <item>
       <title>Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production</title>
-      <link>https://doi.org/10.1002/anie.202416878</link>
-      <description>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403141185
-
-                One&#8208;dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard&#8208;soft acids&#8208;bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure&#8208;regulating agent and morphology&#8208;directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu&#8208;SR bond. Due to the combined advantages of amorphous structure and one&#8208;dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu&#8208;based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.</description>
-      <author>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202416878</guid>
-    </item>
-    <item>
-      <title>Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production</title>
       <link>https://doi.org/10.1002/ange.202416878</link>
       <description>Ziming Su, Xiangyu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Xiaotian Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403140466
 
@@ -776,6 +686,16 @@
       <author>Ziming Su, Xiangyu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Xiaotian Wang</author>
       <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202416878</guid>
+    </item>
+    <item>
+      <title>Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production</title>
+      <link>https://doi.org/10.1002/anie.202416878</link>
+      <description>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403141185
+
+                One&#8208;dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard&#8208;soft acids&#8208;bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure&#8208;regulating agent and morphology&#8208;directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu&#8208;SR bond. Due to the combined advantages of amorphous structure and one&#8208;dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu&#8208;based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.</description>
+      <author>Ziming Su, Xiang&#8208;Yu Chen, Mingke Sun, Xiuyi Yang, Jianxin Kang, Zhi Cai, Lin Guo</author>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202416878</guid>
     </item>
     <item>
       <title>Decarbonizing European Industry: A Novel Technology to Heat Supply Using Waste and Renewable Energy</title>
@@ -806,16 +726,6 @@
       <author>Margarida Cruz, Alex N Gonzalez Bossolo, Gabriel Jose Mora Osoria</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1210/jendso/bvae163.826</guid>
-    </item>
-    <item>
-      <title>A Novel Hybrid Physics/Data-Driven Model for Fractured Reservoir Simulation</title>
-      <link>https://doi.org/10.2118/219110-pa</link>
-      <description>Billal Aslam, Bicheng Yan, Knut&#8211;Andreas Lie, Stein Krogstad, Olav M&#248;yner, Xupeng He, SPE Journal. None(None)] 2024. https://openalex.org/W4403091249
-
-                Summary Fractured reservoir simulation plays a crucial role in understanding various subsurface geo-energy recovery and storage processes, including shale gas/oil extraction, enhanced geothermal systems, and CO2 sequestration in basaltic rocks. However, such simulations often entail significant computational expenses due to the high contrast in permeability and pore volume (PV) between matrix and fractures. To address this challenge, we introduce a reduced-order model (ROM) tailored for fractured reservoir simulation that offers flexible fracture representations by generating coarse matrix nodes based on reservoir outlines and adding extra diagonal connections between unconnected matrix nodes, whose corresponding volumes are intersected by fractures. This approach avoids the need for additional fracture nodes, effectively reducing computational costs. Dimensionality reduction methods, such as principal component analysis (PCA), are used to give quality priors for sampling matrix transmissibility and PV arrays. Tuning to well observation data, such as flow rates and bottomhole pressures (BHPs), is achieved through a gradient-based optimization method within a general automatic-differentiable simulator framework. Our results demonstrate robust calibration using synthetic well observation data from a fine-scale reference simulation model. Incorporating dominant flow physics, such as water breakthrough, from observation data improves history-matching (HM) convergence and prediction accuracy. Additionally, PCA for parameterization enhances the convergence rate of model calibration compared with random initialization. Calibrated transmissibilities align with high-connectivity regions from the fine-scale reference model, rendering the model interpretable in terms of reservoir connectivity or geology. This feature enables our method to be used effectively for reservoir HM and optimization using field observation data.</description>
-      <author>Billal Aslam, Bicheng Yan, Knut&#8211;Andreas Lie, Stein Krogstad, Olav M&#248;yner, Xupeng He</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2118/219110-pa</guid>
     </item>
   </channel>
 </rss>
