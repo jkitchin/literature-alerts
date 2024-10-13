@@ -25,8 +25,10 @@ jobs:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}		
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
             lazotero -f catalysis.yml -s 1
+            oa-discord -f catalysis.yml -s 1
           
           
 
