@@ -1,32 +1,11 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Oct 12 01:18:04 2024
+Created on Sun Oct 13 01:25:12 2024
 
-Found 72 results from 2024-10-05 to 2024-10-12
+Found 58 results from 2024-10-06 to 2024-10-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* A Highly Conjugated Nickel(II)‐Acetylide Framework for Efficient Photocatalytic Carbon Dioxide Reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403129175
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202418269")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403129175"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403129175"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403129175"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403129175 (Open access: False)
-    
-[[https://openalex.org/A5081215511][Yingying Qin]], [[https://openalex.org/A5101934276][Yang Wang]], [[https://openalex.org/A5073851246][Jian Lu]], [[https://openalex.org/A5041540316][Linli Xu]], [[https://openalex.org/A5006003842][Wai‐Yeung Wong]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202418269 
-     
-The incorporation of transition‐metal single atoms as molecular functional entities into the skeleton of graphdiyne (GDY) to construct novel two‐dimensional (2D) metal‐acetylide frameworks, known as metalated graphynes (MGYs), is a promising strategy for developing efficient catalysts, which can combine the tunable charge transfer of GDY frameworks, the catalytic activity of metal and the precise distribution of single metallic centers. Herein, four highly conjugated MGY photocatalysts based on NiII, PdII, PtII, and HgII were synthesized for the first time using the ‘bottom‐up’ strategy through the use of M–C bonds (–C≡C–M–C≡C–). Remarkably, the NiII‐based graphyne (TEPY‐Ni‐GY) exhibited the highest CO generation rate of 18.3 mmol g‐1 h‐1 and a selectivity of 98.8%. This superior performance is attributed to the synergistic effects of pyrenyl and –C≡C–Ni(PBu3)2–C≡C– moieties. The pyrenyl block functions as an intramolecular π‐conjugation channel, facilitating kinetically favorable electron transfer, while the –C≡C–Ni(PBu3)2–C≡C– moiety serves as the catalytic site that enhances CO2 adsorption and activation, thereby suppressing competitive hydrogen evolution. This study provides a new perspective on MGY‐based photocatalysts for developing highly active and low‐cost catalysts for CO2 reduction.    
-
-    
 
 * Carbon Dioxide and Nitrate Reduction Reactions Tailoring Kinetics Over Cu2o with Mesoporous Carbon Channels for Boosting Electrocatalytic Urea Synthesis  :CO2RR:
 :PROPERTIES:
@@ -91,27 +70,6 @@ Nickel (II) complexes bearing tetradentate NCCN ligands comprised of optionally 
 
     
 
-* Effect of urban vegetation cover on CO2 reduction in the city  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403140935
-:TOPICS: Global Methane Emissions and Impacts, Applications of Remote Sensing in Geoscience and Agriculture, Estimating Vehicle Fuel Consumption and Emissions
-:PUBLICATION_DATE: 2024-09-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.31705/cers.2024.28")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140935"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140935"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140935"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403140935 (Open access: False)
-    
-[[https://openalex.org/A5107763076][H.K.P. Chanika]], [[https://openalex.org/A5092061121][Nilanka Harshani Weerasinghe]], [[https://openalex.org/A5075098117][R.U. Halwatura]], No host. None(None)] 2024. https://doi.org/10.31705/cers.2024.28 
-     
-Rising urban carbon dioxide levels have emerged as a critical issue due to their adverse effects on public health and the environment. Trees are a natural and sustainable solution to mitigate urban carbon dioxide (CO2) concentrations, as they absorb CO2 from the atmosphere through photosynthesis. However, the specific relationship between tree density and CO2 concentration within cities is unclear. The main objectives of this research are to determine the relationship between tree density and CO2 concentration reduction in cities and to identify the optimum tree density to reduce the CO2 level in the city to obtain the required CO2 level. For this study, data were collected in the densely urbanized city of Colombo and various urban areas within the Hambantota district. Tree densities and CO2 concentration reduction data were collected from 300 sample plots, each with a fixed size of 50m x 50m, near roads in selected urban areas. When calculating tree density, it is important to calculate canopy volumes of trees. It depends on canopy height, crown diameter and canopy shape. The tree density of the sample plot was calculated by dividing the total canopy volume by the area of the sample plot. A digital portable CO2 meter was used to measure the CO2 level. First the CO2 concentration was measured at the centre of the road and then the CO2 concentration was measured at the centre of the sample plot. The reduction in CO2 level was calculated by the difference between these two readings. By analysing tree densities and CO2 concentration data collected through field data studies, a linear relationship was obtained between tree density and CO2 concentration reduction in urban areas. The plotted line got a R2 value of 0.8806 indicating a well-fitting model. Therefore, this linear plotted line can be described as a reasonable fitted line representing all collected data. Also, the data was classified based on the CO2 concentration in the centre of the road and the behaviour of the CO2 concentration reduction Vs tree density relationship was studied in each range. A linear relationship was obtained in each of those ranges. When all the collected data were classified as residential and non-residential based on the usage of the sample plots, the R2 values obtained from those graphs were higher than the R2 value of the graph drawn without classification. The R2 value of the graph for non-residential areas has increased relative to the value of the graph for residential areas. Accordingly, classifying in this manner led to an increase in the accuracy of the relationship. Using these relationships, the optimum tree density required to obtain the required CO2 reduction in urban areas can be identified. The results of this study will be valuable for policymakers and urban planners looking for ways to improve air quality and create more sustainable urban environments.    
-
-    
-
 * Pitfalls in Photochemical and Photoelectrochemical Reduction of CO2 to Energy Products  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403218775
@@ -130,27 +88,6 @@ OpenAlex: https://openalex.org/W4403218775 (Open access: True)
 [[https://openalex.org/A5068301739][Tomasz Baran]], [[https://openalex.org/A5107822632][Domenico Caringella]], [[https://openalex.org/A5057065869][Angela Dibenedetto]], [[https://openalex.org/A5064915844][Michele Aresta]], Molecules. 29(19)] 2024. https://doi.org/10.3390/molecules29194758 
      
 The photochemical and photoelectrochemical reduction of CO2 is a promising approach for converting carbon dioxide into valuable chemicals (materials) and fuels. A key issue is ensuring the accuracy of experimental results in CO2 reduction reactions (CO2RRs) because of potential sources of false positives. This paper reports the results of investigations on various factors that may contribute to erroneous attribution of reduced-carbon species, including degradation of carbon species contained in photocatalysts, residual contaminants from synthetic procedures, laboratory glassware, environmental exposure, and the operator. The importance of rigorous experimental protocols, including the use of labeled 13CO2 and blank tests, to identify true CO2 reduction products (CO2RPs) accurately is highlighted. Our experimental data (eventually complemented with or compared to literature data) underline the possible sources of errors and, whenever possible, quantify the false positives with respect to the effective conversion of CO2 in clean conditions. This paper clarifies that the incidence of false positives is higher in the preliminary phase of photo-material development when CO2RPs are in the range of a few 10s of μg gcat−1 h−1, reducing its importance when significant conversions of CO2 are performed reaching 10s of mol gcat−1 h−1. This paper suggests procedures for improving the reliability and reproducibility of CO2RR experiments, thus validating such technologies.    
-
-    
-
-* Understanding the Electrochemical Carbon Dioxide Reduction Reaction Mechanism of Lattice Tuning of Copper by Silver Single‐Crystal Surface  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403140632
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cphc.202400757")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140632"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140632"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140632"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403140632 (Open access: False)
-    
-[[https://openalex.org/A5025848770][Tao Zheng]], [[https://openalex.org/A5008191380][Xia‐Guang Zhang]], ChemPhysChem. None(None)] 2024. https://doi.org/10.1002/cphc.202400757 
-     
-Intermolecular interactions and adsorbate coverage on a metal electrode's surface/interface play an important role in CO2 reduction reaction (CO2RR). Herein, the activity and selectivity of CO2RR on bimetallic electrode, where a full monoatomic Cu layer covers on Ag surface (CuML/Ag) are investigated by using density functional theory calculations. The surface geometric and electronic structure results indicate that there is high electrocatalytic activity for CO2RR on the CuML/Ag electrode. Specifically, the CuML/Ag surface can accelerate the H2O and CO2 adsorption and hydrogenation while lowering the reaction energy of the rate‐determining step. The structure parameters of chemisorbed CO2 with and without H2O demonstrate that activated H2O not only promotes the C‐O dissociation but also provides the protons required for CO2RR on the CuML/Ag electrode surface. Furthermore, the various reaction mechanism diagrams indicate that the CuML/Ag electrode has high selectivity for CO2RR, and the efficiency of products can be regulated by modulating the reaction's electric potential.    
 
     
 
@@ -196,45 +133,24 @@ No abstract
 
     
 
-* Mechanistic Study of the Electrochemical Reduction of CO2 in Aprotic Ionic Liquid in Air  :CO2RR:
+* Controlling the Polarity of Metal‐Organic Frameworks to Promote Electrochemical CO2 Reduction  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4403140372
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-10-04
+:UUID: https://openalex.org/W4403335645
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-10-11
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202401832")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202416367")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140372"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140372"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140372"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403335645"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403335645"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403335645"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4403140372 (Open access: False)
+OpenAlex: https://openalex.org/W4403335645 (Open access: False)
     
-[[https://openalex.org/A5085350531][Go Iijima]], [[https://openalex.org/A5037589641][Kazumitsu Sugiura]], [[https://openalex.org/A5088783282][Kazuhiko Morishita]], [[https://openalex.org/A5051420489][Hajime Shingai]], [[https://openalex.org/A5055114575][Junichi Naruse]], [[https://openalex.org/A5101683322][Atsushi Yamamoto]], [[https://openalex.org/A5043263625][Yuki Fujita]], [[https://openalex.org/A5073315241][Hiroaki Yoto]], ChemSusChem. None(None)] 2024. https://doi.org/10.1002/cssc.202401832 
+[[https://openalex.org/A5100395711][Xiaolong Zhang]], [[https://openalex.org/A5085985069][Junnan Chen]], [[https://openalex.org/A5100444820][Xiaogang Wang]], [[https://openalex.org/A5045927677][Yingjun Dong]], [[https://openalex.org/A5029491497][Jiapeng Ji]], [[https://openalex.org/A5101546109][Linbo Li]], [[https://openalex.org/A5100760140][Ming Xue]], [[https://openalex.org/A5100406789][Hui‐Ming Cheng]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202416367 
      
-The capture and electrochemical conversion of dilute CO2 in air is a promising approach to mitigate global warming. Aiming to increase the efficiency of the electrochemical reduction of CO2, we fabricated electrodes and developed a custom‐designed sealed electrochemical reaction system to study the mechanism of this conversion. The performance of three metal electrodes, Ag, Cu, and SUS 316L, was compared in an aprotic ionic liquid as the electrolyte to monitor the CO2 concentration and chemical reactions using a CO2 sensor and diffuse reflectance infrared Fourier transform spectroscopy and Raman spectroscopy in CO2/N2 (400 ppm CO2 and 99.96% N2) or synthetic air (400 ppm CO2, 21% O2, and 79% N2). The CO2 concentration decreased at negative potentials and was more drastic in synthetic air than in CO2/N2. At negative potential in synthetic air, IR revealed carbon monoxide, carbonate, or peroxydicarbonate on the Ag, Cu, or SUS 316L electrodes, respectively. Reaction intermediates were identified using Raman spectroscopy. Superoxide (O2•−), produced by the reduction of O2 on each electrode, promotes the electrochemical reduction of CO2 whose reduction potential is higher on the negative side than that of O2. This research deepens our understanding of the electrochemical capture/release and conversion of dilute CO2.    
-
-    
-
-* Exploring Electrocatalytic CO2 Reduction Over Materials Derived from Cu‐Based Metal‐Organic Frameworks  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403195807
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-10-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cctc.202401551")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403195807"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403195807"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403195807"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403195807 (Open access: False)
-    
-[[https://openalex.org/A5101546250][Yining Li]], [[https://openalex.org/A5037723826][Abhishek Dutta Chowdhury]], ChemCatChem. None(None)] 2024. https://doi.org/10.1002/cctc.202401551 
-     
-The direct valorization of carbon dioxide (CO2) into value‐added chemicals offers an efficient and attractive approach to promoting carbon neutrality. Among the available methods, the electrocatalytic CO2 reduction reaction (eCO2RR) for producing multi‐carbon products (C2+) is gaining attention due to its simplicity. However, achieving selective control over product formation remains a challenge. One key issue is the lack of a reliable correlation between the physicochemical properties of electrocatalytic materials and their activity and selectivity.To address this gap, we conducted a model study in which carbonized CuxZny@C materials, derived from metal‐organic frameworks (MOFs), were synthesized with varying Cu/Zn ratios. The pyrolyzed bimetallic MOFs retained key properties of the original MOFs while also developing new characteristics. These subtle changes in physicochemical properties influenced product selectivity. Our findings showed that higher Zn doping favors the formation of single‐carbon (C1) products, while it is less favorable for multi‐carbon (C2+) products. Optimizing the Cu/Zn ratio was emphasized through characterization techniques, which will help guide the design of improved electrocatalytic systems for the eCO2RR process.    
+The addition of polar functional groups to porous structures is an effective strategy for increasing the ability of metal‐organic frameworks (MOFs) to capture CO2 by enhancing interactions between the dipoles of the polar functional groups and the quadrupoles of CO2. However, the potential of MOFs grafted to polar functional group to activate CO2 has not been investigated in the context of CO2 electrolysis. In this study, we report a mixed‐ligand strategy to incorporate various functional groups in the MOFs. We found that substituents with strong polarity led to increased catalytic performance of electrochemical CO2 reduction for these polarized MOFs. Both experimental and theoretical evidence indicates that the presence of polar functional groups induces a charge redistribution in the micropores of MOFs. We have shown that higher electron densities of sp2‐carbon atoms in benzimidazolate ligands reduces the energy barrier to generate *COOH, which is simultaneously controlled by the mass transfer of CO2. Our research offers an effective method of disrupting local electron neutrality in the pores of electrocatalysts/supports to activate CO2 under electrochemical conditions.    
 
     
 
@@ -256,6 +172,27 @@ OpenAlex: https://openalex.org/W4403221851 (Open access: False)
 , No host. None(None)] 2020. https://doi.org/10.3030/101006839 
      
 No abstract    
+
+    
+
+* Exploring Electrocatalytic CO2 Reduction Over Materials Derived from Cu‐Based Metal‐Organic Frameworks  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403195807
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-10-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cctc.202401551")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403195807"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403195807"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403195807"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403195807 (Open access: False)
+    
+[[https://openalex.org/A5101546250][Yining Li]], [[https://openalex.org/A5037723826][Abhishek Dutta Chowdhury]], ChemCatChem. None(None)] 2024. https://doi.org/10.1002/cctc.202401551 
+     
+The direct valorization of carbon dioxide (CO2) into value‐added chemicals offers an efficient and attractive approach to promoting carbon neutrality. Among the available methods, the electrocatalytic CO2 reduction reaction (eCO2RR) for producing multi‐carbon products (C2+) is gaining attention due to its simplicity. However, achieving selective control over product formation remains a challenge. One key issue is the lack of a reliable correlation between the physicochemical properties of electrocatalytic materials and their activity and selectivity.To address this gap, we conducted a model study in which carbonized CuxZny@C materials, derived from metal‐organic frameworks (MOFs), were synthesized with varying Cu/Zn ratios. The pyrolyzed bimetallic MOFs retained key properties of the original MOFs while also developing new characteristics. These subtle changes in physicochemical properties influenced product selectivity. Our findings showed that higher Zn doping favors the formation of single‐carbon (C1) products, while it is less favorable for multi‐carbon (C2+) products. Optimizing the Cu/Zn ratio was emphasized through characterization techniques, which will help guide the design of improved electrocatalytic systems for the eCO2RR process.    
 
     
 
@@ -340,27 +277,6 @@ OpenAlex: https://openalex.org/W4403192270 (Open access: False)
 [[https://openalex.org/A5055546109][Goki Iwai]], [[https://openalex.org/A5045302625][Andrea Fiorani]], [[https://openalex.org/A5080741768][Chiaki Terashima]], [[https://openalex.org/A5054069544][Yasuaki Einaga]], Sustainable Energy & Fuels. None(None)] 2024. https://doi.org/10.1039/d4se00947a 
      
 In this study, photoelectrochemical water oxidation with a hematite (α-Fe 2 O 3 ) photoanode and electrochemical CO 2 reduction with a boron-doped diamond (BDD) cathode were combined to convert CO 2 into formic acid under...    
-
-    
-
-* A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403117340
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.161421")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403117340"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403117340"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403117340"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403117340 (Open access: False)
-    
-[[https://openalex.org/A5031624398][Xiaowen Wang]], [[https://openalex.org/A5087000964][Fei Ma]], [[https://openalex.org/A5023261675][Haiqiao Wei]], [[https://openalex.org/A5101942399][Jiaying Pan]], [[https://openalex.org/A5100660669][Wenjia Li]], [[https://openalex.org/A5100530177][Jun Zhao]], [[https://openalex.org/A5002224809][Xiaotao Yang]], Applied Surface Science. None(None)] 2024. https://doi.org/10.1016/j.apsusc.2024.161421 
-     
-No abstract    
 
     
 
@@ -469,6 +385,27 @@ No abstract
 
     
 
+* Author response for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403224004
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-09-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ey00141a/v2/response1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403224004"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403224004"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403224004"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403224004 (Open access: False)
+    
+[[https://openalex.org/A5101687908][Jiangnan Li]], [[https://openalex.org/A5084806004][Xinyi Duan]], [[https://openalex.org/A5062302560][Chao Wu]], [[https://openalex.org/A5032642250][Yucheng Cao]], [[https://openalex.org/A5007032744][Zhiyao Duan]], [[https://openalex.org/A5034984355][Peng Zhang]], [[https://openalex.org/A5101310705][Wenjun Fan]], [[https://openalex.org/A5033612713][Fuxiang Zhang]], No host. None(None)] 2024. https://doi.org/10.1039/d4ey00141a/v2/response1 
+     
+No abstract    
+
+    
+
 * Electrodeposited Cu2o@Cu Hierarchical Structures for Electrocatalytic Co2 Reduction: Morphological Tuning and Copper Mediation  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403176058
@@ -511,27 +448,6 @@ No abstract
 
     
 
-* Author response for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403224004
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis
-:PUBLICATION_DATE: 2024-09-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ey00141a/v2/response1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403224004"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403224004"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403224004"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403224004 (Open access: False)
-    
-[[https://openalex.org/A5101687908][Jiangnan Li]], [[https://openalex.org/A5084806004][Xinyi Duan]], [[https://openalex.org/A5062302560][Chao Wu]], [[https://openalex.org/A5032642250][Yucheng Cao]], [[https://openalex.org/A5007032744][Zhiyao Duan]], [[https://openalex.org/A5034984355][Peng Zhang]], [[https://openalex.org/A5101310705][Wenjun Fan]], [[https://openalex.org/A5033612713][Fuxiang Zhang]], No host. None(None)] 2024. https://doi.org/10.1039/d4ey00141a/v2/response1 
-     
-No abstract    
-
-    
-
 * Decision letter for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403224106
@@ -548,27 +464,6 @@ No abstract
 OpenAlex: https://openalex.org/W4403224106 (Open access: False)
     
 , No host. None(None)] 2024. https://doi.org/10.1039/d4ey00141a/v2/decision1 
-     
-No abstract    
-
-    
-
-* Fabrication of mesoporous sulfated ZnO-modified g-C3N4 and TiO2 photocatalysts for CO2 reduction in gas phase  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403157643
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cattod.2024.115089")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403157643"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403157643"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403157643"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403157643 (Open access: False)
-    
-[[https://openalex.org/A5039200898][L.A. Al-Hajji]], [[https://openalex.org/A5087857810][Adel A. Ismail]], [[https://openalex.org/A5052431130][M. Alsaidi]], [[https://openalex.org/A5082555423][Ahmed Abdel Nazeer]], [[https://openalex.org/A5053395832][Ahmed Mohamed El‐Toni]], [[https://openalex.org/A5107769307][S.F. Al-Ruwayeh]], [[https://openalex.org/A5103869609][S.A. Ahmed]], [[https://openalex.org/A5107769308][T. Al-Sharrah]], Catalysis Today. None(None)] 2024. https://doi.org/10.1016/j.cattod.2024.115089 
      
 No abstract    
 
@@ -592,6 +487,27 @@ OpenAlex: https://openalex.org/W4403190063 (Open access: True)
 [[https://openalex.org/A5062067459][Mohammad Ostadi]], [[https://openalex.org/A5019648851][D.R. Cohn]], [[https://openalex.org/A5066936008][Guiyan Zang]], [[https://openalex.org/A5043885940][L. Bromberg]], Sustainability. 16(19)] 2024. https://doi.org/10.3390/su16198649 
      
 This study evaluates the greenhouse gas (GHG) impacts of converting municipal solid waste (MSW) into methanol, focusing on both landfill methane (CH₄) emission avoidance and the provision of cleaner liquid fuels with lower carbon intensity. We conduct a life cycle assessment (LCA) to assess potential GHG reductions from MSW gasification to methanol, enhanced with hydrogen produced via natural gas pyrolysis or water electrolysis. Hydrogen enhancement effectively doubles the methanol yield from a given amount of MSW. Special attention is given to hydrogen production through natural gas pyrolysis due to its potential for lower-cost hydrogen and reduced reliance on renewable electricity compared to electrolytic hydrogen. Our analysis uses a case study of methanol production from an oxygen-fired entrained flow gasifier fed with refuse-derived fuel (RDF) simulated in Aspen HYSYS. The LCA incorporates the significant impact of landfill methane avoidance, particularly when considering the 20-year global warming potential (GWP). Based on the LCA, the process has illustrative net GHG emissions of 183 and 709 kgCO2e/t MeOH using renewable electricity for electrolytic hydrogen and pyrolytic hydrogen, respectively, for the 100-year GWP. The net GHG emissions using 20-year GWP are −1222 and −434 kgCO2e/t MeOH, respectively. Additionally, we analyze the sensitivity of net GHG emissions to varying levels of fugitive methane emissions.    
+
+    
+
+* Fabrication of mesoporous sulfated ZnO-modified g-C3N4 and TiO2 photocatalysts for CO2 reduction in gas phase  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403157643
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cattod.2024.115089")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403157643"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403157643"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403157643"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403157643 (Open access: False)
+    
+[[https://openalex.org/A5039200898][L.A. Al-Hajji]], [[https://openalex.org/A5087857810][Adel A. Ismail]], [[https://openalex.org/A5052431130][M. Alsaidi]], [[https://openalex.org/A5082555423][Ahmed Abdel Nazeer]], [[https://openalex.org/A5053395832][Ahmed Mohamed El‐Toni]], [[https://openalex.org/A5107769307][S.F. Al-Ruwayeh]], [[https://openalex.org/A5103869609][S.A. Ahmed]], [[https://openalex.org/A5107769308][T. Al-Sharrah]], Catalysis Today. None(None)] 2024. https://doi.org/10.1016/j.cattod.2024.115089 
+     
+No abstract    
 
     
 
@@ -632,27 +548,6 @@ The selective, transition metal‐free hydrosilylation of CO2 to CH2(OSiEt3)2 ha
 OpenAlex: https://openalex.org/W4403187249 (Open access: False)
     
 [[https://openalex.org/A5081867561][Saowaluk Intarasiri]], [[https://openalex.org/A5043190945][Surangkana Wannapop]], [[https://openalex.org/A5081447365][Asanee Somdee]], Journal of Electronic Materials. None(None)] 2024. https://doi.org/10.1007/s11664-024-11498-8 
-     
-No abstract    
-
-    
-
-* Engineering hierarchical TiO2/ZnIn2S4 hybrid heterostructure with synergistic interfaces: A dual-functional S-scheme photocatalyst for efficient CO2 reduction and norfloxacin degradation  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403140286
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Porous Crystalline Organic Frameworks for Energy and Separation Applications
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2024.176881")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140286"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140286"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140286"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403140286 (Open access: False)
-    
-[[https://openalex.org/A5100720909][Dong‐Eun Lee]], [[https://openalex.org/A5068866911][B. Moses Abraham]], [[https://openalex.org/A5029682924][M. Satyanarayana]], [[https://openalex.org/A5070474748][Devthade Vidyasagar]], [[https://openalex.org/A5056722059][Wan‐Kuen Jo]], [[https://openalex.org/A5002121237][Surendar Tonda]], Journal of Alloys and Compounds. None(None)] 2024. https://doi.org/10.1016/j.jallcom.2024.176881 
      
 No abstract    
 
@@ -700,24 +595,24 @@ The presence of carbon dioxyl as a non-combustible admixture in the landfill bio
 
     
 
-* Tracing the impact of global value chain participation on CO2 emissions under the tech-nology gap heterogeneity: Evidence from emerging and developing countries  :CO2RR:
+* Structural Control of Copper-Based MOF Catalysts for Electroreduction of CO2: A Review  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4403123031
-:TOPICS: Economic Impact of Environmental Policies and Resources, Life Cycle Assessment and Environmental Impact Analysis, Conceptualizing the Circular Economy and Sustainable Supply Chains
-:PUBLICATION_DATE: 2024-09-30
+:UUID: https://openalex.org/W4403296453
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-10-10
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.24136/oc.2717")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/pr12102205")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403123031"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403123031"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403123031"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403296453"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403296453"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403296453"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4403123031 (Open access: True)
+OpenAlex: https://openalex.org/W4403296453 (Open access: True)
     
-[[https://openalex.org/A5010440720][Wirginia Doryń]], [[https://openalex.org/A5018506556][Dorota Wawrzyniak]], Oeconomia Copernicana. 15(3)] 2024. https://doi.org/10.24136/oc.2717 
+[[https://openalex.org/A5028724152][Hongxin Fu]], [[https://openalex.org/A5061720775][Hailing Ma]], [[https://openalex.org/A5039113583][Shuaifei Zhao]], Processes. 12(10)] 2024. https://doi.org/10.3390/pr12102205 
      
-Research background: The issue of carbon dioxide (CO2) emissions, recognized as one of the major drivers of environmental degradation, has attracted considerable attention from academic researchers, policymakers, and professionals in relevant fields. Based on the existing research, countries’ pollution levels are shaped by a combination of factors, including their participation in global value chains (GVCs) and degree of technological advancement. Still, relatively little is known about the mutual interdependence of these factors in determining CO2 emissions, which creates the research gap that we address in this paper. Purpose of the article: The aim of this study is to broaden understanding of the impact of GVC involvement on CO2 emissions in emerging and developing countries. We examine the impact of GVC participation on CO2 emissions conditional on a country’s distance to the world’s technological frontier. The rationale is that a country’s technological advancement may underpin the environmental impact of GVC participation. We claim that the adoption of technology by less developed countries via GVCs is conditioned by their absorptive capacity, which is determined by their initial level of technological development. Methods: To investigate this issue, we employ the Arellano-Bond generalized method of moments (GMM) estimator and four patent-based technology gap indicators. The utilized data cover 90 emerging and developing countries. Findings & value added: Our study demonstrates that a country’s technological advancement is the key factor that conditions the acquisition of environmental benefits of GVC participation. We find that countries with shorter distances to the world’s technological frontier enjoy a decline in CO2 emissions as their GVC involvement increases. At the same time, countries that are further away from the technological leader may not be able to experience CO2 reduction with increased GVC integration due to their inadequate absorptive capacity, which hampers the environmental benefits related to technology diffusion through GVCs.    
+With the excessive use of fossil fuels, atmospheric carbon dioxide (CO2) concentrations have risen dramatically in recent decades, leading to serious environmental and social issues linked to global climate change. The emergence of renewable energy sources, such as solar, tidal, and wind energy, has created favorable conditions for large-scale electricity production. Recently, significant attention has been drawn to utilizing renewable energy to catalyze the conversion of CO2 into fuels, producing substantial industrial feedstocks. In these CO2 conversion processes, the structure and performance of catalysts are critical. Metal-organic frameworks (MOFs) and their derivatives have emerged as promising electrocatalysts for CO2 reduction, offering advantages such as high surface area, porosity, exceptional functionality, and high conversion efficiency. This article provides a comprehensive review of structural regulation strategies for copper-based MOFs, highlighting innovative mechanisms like synergistic bimetallic catalysis, targeted doping strategies, and the construction of heterostructures. These novel approaches distinguish this review from previous studies, offering new insights into the electrocatalytic performance of copper-based MOFs and proposing future research directions for improved catalyst design.    
 
     
 
@@ -847,27 +742,6 @@ The analysis of modern approaches and ideas for the production of new building c
 
     
 
-* Biomass Loss and Land Use Land Cover from Habitat Conversion in Kahe Forest Reserve, Northern Tanzania  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403132622
-:TOPICS: Drivers and Impacts of Tropical Deforestation, Rangeland Degradation and Pastoral Livelihoods, Climate Change Impacts on Forest Carbon Sequestration
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.9734/ijecc/2024/v14i104500")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403132622"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403132622"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403132622"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403132622 (Open access: True)
-    
-[[https://openalex.org/A5076559339][Adili Y. Zella]], [[https://openalex.org/A5039210884][Luzabeth J. Kitali]], International Journal of Environment and Climate Change. 14(10)] 2024. https://doi.org/10.9734/ijecc/2024/v14i104500 
-     
-This paper offers a less known biomass depletion and atmospheric carbon emissions due to habitat alteration in the Kahe Forest Reserve (KFR), Northern Tanzania, during a two-decade span (2003–2023). The paper measures biomass depletion, carbon emissions, carbon dioxide emissions, and the consequent economic effects due to losses in carbon trading. The study used the NAFORMA methodology alongside geospatial analysis to evaluate the ecological and economic impacts of land-use and land-cover alterations inside the reserve. The findings indicate a significant biomass reduction of roughly 23,019.6 tonnes, with corresponding carbon emissions totaling 10,819.2 tonnes. The study quantifies carbon dioxide emissions at 39,706.46 tonnes and assesses a carbon trade loss amounting to US$ 158,825.83. The data underscore the considerable environmental issues confronting KFR, intensified by a 141.4% surge in the human population in the adjacent districts from 1967 to 2022. This demographic pressure has resulted in unlawful agricultural encroachment, although existing protective restrictions, undermining the forest's ecological integrity and carbon sequestration potential. The results highlight the immediate necessity for action to prevent additional habitat deterioration and biodiversity decline. The study concludes with multiple policy recommendations, such as strengthened enforcement of forest protection measures, enhanced community engagement and education, promotion of sustainable agricultural practices beyond the reserve, restoration initiatives, and the incorporation of KFR into global carbon markets. These measures are essential for preserving the ecological integrity of the reserve and guaranteeing the sustainable stewardship of the region's natural resources.    
-
-    
-
 * Comparative analysis of embodied carbon in modular and conventional construction methods in Hong Kong  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403246062
@@ -889,27 +763,6 @@ Addressing the rise in global temperatures and the associated increase in greenh
 
     
 
-* Impacts of Land Use and Land Cover Changes on Biomass and Carbon Sequestration in Coastal Kinondoni, Tanzania  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403137310
-:TOPICS: Drivers and Impacts of Tropical Deforestation
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.9734/ijecc/2024/v14i104498")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403137310"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403137310"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403137310"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403137310 (Open access: True)
-    
-[[https://openalex.org/A5039210884][Luzabeth J. Kitali]], [[https://openalex.org/A5076559339][Adili Y. Zella]], International Journal of Environment and Climate Change. 14(10)] 2024. https://doi.org/10.9734/ijecc/2024/v14i104498 
-     
-This study analyzes the impact of land use and land cover (LULC) alterations on biomass depletion and carbon sequestration in Kinondoni, Tanzania, over a 30-year period from 1993 to 2023. This study employs the National Forest Resources Monitoring and Assessment (NAFORMA) models and geospatial analysis to quantify the environmental and economic effects of urbanization, agricultural growth, and infrastructural development on local ecosystems. The deterioration of mangrove forests, essential for carbon sequestration, has resulted in an estimated biomass reduction of 65,600 tonnes, with mangroves representing 93.1% of the overall losses. This deterioration has markedly diminished the region's carbon storage capacity, leading to the emission of 30,830 tonnes of carbon, which is equivalent to 113,150 tonnes of carbon dioxide (CO₂). The economic impact of this decrease in carbon sequestration capacity is estimated at around US$ 452,610, signifying a lost opportunity for carbon trading. The degradation of mangroves is recognized as the principal cause of these losses. The study highlights the critical necessity for conservation and restoration measures, specifically aimed at mangrove ecosystems, to alleviate additional environmental and economic deterioration. It promotes sustainable land use regulations and the incorporation of ecosystem services valuation in decision-making processes to improve resilience in coastal Tanzania.    
-
-    
-
 * The Effects on Climate Change Due to Kitchen Waste Composting and Emissions of Carbon Dioxide  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403154375
@@ -928,27 +781,6 @@ OpenAlex: https://openalex.org/W4403154375 (Open access: False)
 [[https://openalex.org/A5043105108][Nora’aini Ali]], [[https://openalex.org/A5107767888][Riaz Husnain]], [[https://openalex.org/A5107767889][Munir Baber Bakht]], [[https://openalex.org/A5107767890][Iqbal Tasawar]], No host. 03(ICCC(special))] 2024. https://doi.org/10.70436/nuijb.v3i02.198 
      
 The emission of greenhouse gases into the atmosphere due to anthropogenic activities, including the disposal of large quantities of organic kitchen waste into the environment. There is currently no evidence suggesting the likelihood of a future reversal or pause in emissions. The process of carbon sequestration serves to mitigate the emission of greenhouse gases from kitchen organic waste through the creation of compost. Composting is proposed as a potentially effective and cost-efficient solution to address the issue production of kitchen organic waste, which is contributing to environmental pollution. The escalation in complete carbon dioxide and microbial biomass carbon emissions can be attributed to a concurrent reduction in the levels of dissolved organic carbon as the treatments experienced a noteworthy decrease in dissolved organic carbon concentrations. The application of banana and potato compost has been found to have a positive impact on the macro aggregates of soil, leading to an increase in soil stability due to the compost's ability to stabilize soil particles. The study indicate that composting represents the most effective approach for mitigating greenhouse gas emissions originating from kitchen organic waste, while also enhancing the biological and physicochemical characteristics of soil.    
-
-    
-
-* Development of Sustainable Goals Emissions Reduction Value to Measure Climate Change  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403122357
-:TOPICS: Economic Implications of Climate Change Policies, Discrete Choice Models in Economics and Health Care, Measurement and Evaluation of Sustainable Development
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4018/979-8-3693-7230-2.ch007")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403122357"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403122357"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403122357"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403122357 (Open access: False)
-    
-[[https://openalex.org/A5107743204][J. Bala Murugan]], [[https://openalex.org/A5107743221][L. Priya Dharsini]], [[https://openalex.org/A5080609977][C. Prabakaran]], [[https://openalex.org/A5076970010][P. S. Ranjit]], [[https://openalex.org/A5069695739][S. Menaka]], [[https://openalex.org/A5016552396][R. Senthamil Selvan]], Practice, progress, and proficiency in sustainability. None(None)] 2024. https://doi.org/10.4018/979-8-3693-7230-2.ch007 
-     
-The Sustainable Development Goals, or SDGs, goal indicators and the steps taken to slow down climate change have trade-offs and synergies. Although some research has evaluated these linkages, nothing is known about how much of an interaction there is. This section illustrates how reducing CO2 emissions relates to the SDGs. They created the “marginal SDG-emissions-reduction values (MSVs),” which show how a unit decrease in CO2 emissions affects certain SDG indicators on a marginal basis. This measure was utilised and may be used for national evaluations. They discovered significant correlations between rates of CO2 emission reduction and several SDG objectives. For example, a 1% reduction in CO2 may save 0.57% of premature deaths linked to air pollution (SDG3), whereas the same CO2 reduction can result in a 0.026% drop in mean species richness (SDG15) (excluding the effects of climate change). Our results help evaluate the implications of CO2 emissions reduction objectives for the SDGs, which will assist in informing national climate strategies.    
 
     
 
@@ -1225,48 +1057,6 @@ Direct carboxylation of C–H bonds with CO2 represents an attractive strategy t
 
     
 
-* Hemodynamic Disorders in Alcohol Withdrawal Syndrome  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403135275
-:TOPICS: Diagnosis and Management of Wernicke-Korsakoff Syndrome, Pathogenesis and Treatment of Alcoholic Liver Disease, Hyperglycemic Chorea and Basal Ganglia Lesions
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.17816/pavlovj623055")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403135275"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403135275"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403135275"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403135275 (Open access: False)
-    
-[[https://openalex.org/A5044093708][S.I. Utkin]], [[https://openalex.org/A5006781008][О. Ж. Бузик]], I P Pavlov Russian Medical Biological Herald. 32(3)] 2024. https://doi.org/10.17816/pavlovj623055 
-     
-INTRODUCTION: The introduction of the study is determined by a high prevalence of alcoholism and a high incidence of complications from the cardiovascular system. AIM: To study the features of hemodynamics in patients with uncomplicated alcohol withdrawal syndrome (AWS) and in those with alcohol withdrawal delirium (delirium tremens). MATERIALS AND METHODS: The study enrolled 116 men, 58 of them with uncomplicated AWS, 78 with AWS and delirium. Basic hemodynamic parameters were studied: heart rate (HR), blood pressure (BP), and integral parameters — cardiac index (CI), total peripheral resistance (TPR), shock index (SI). Comparisons between the groups and correlation analysis were conducted to find relationships between hemodynamic parameters and clinical data. RESULTS: In patients with alcoholic delirium, hemodynamic parameters were statistically significantly higher than in patients with uncomplicated AWS: HR (р = 0.003), systolic BP (р = 0.02) and diastolic BP (р = 0.04), while no statistically significant differences in the integral parameters (CI, TPR, SI) were found between the groups. In patients of both groups, CI linearly decreased with age (p 0.0001). The same linearly CI decreased with increase in the duration of alcoholism (p = 0.02). With an increase in the amount of consumed alcohol during the binge period, a linear growth of CI was observed in withdrawal state (p = 0.001). The value of TPR increased with age (p = 0.005). Only in patients with delirium tremens, there was an inverse relationship between SI and partial tension of carbon dioxide in venous blood (r = -0.4; p = 0.014). Besides, only in patients with delirium tremens, by the 7th day of withdrawal, a direct relationship was established between the cardiac index and blood potassium level (r = 0.36; p = 0.03). CONCLUSIONS: There was no significant difference between hemodynamic parameters in uncomplicated AWS and in delirium tremens. CI in patients with uncomplicated AWS and in those with DT decreased with age and with increase in the alcohol load. The vessel tone was inversely proportional to CI throughout the entire period of observation. With the development of delirium, a correlation was noted between a decrease in the level of energy metabolism and the probability for decompensation of systemic circulation. At the stage of reduction of delirium tremens, a correlation was noted between CI and the blood potassium level that reflected the exhaustion of the cardiovascular system and reduction of its compensatory capacities.    
-
-    
-
-* The use of opioids in late‐stage COPD—Where are we now?  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403198556
-:TOPICS: Standardisation and Management of COPD, Mechanical Ventilation in Respiratory Failure and ARDS, Pediatric Pain Assessment and Management
-:PUBLICATION_DATE: 2024-10-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1111/resp.14839")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403198556"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403198556"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403198556"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403198556 (Open access: True)
-    
-[[https://openalex.org/A5004506727][Thomas J. Altree]], [[https://openalex.org/A5007993808][David C. Currow]], Respirology. None(None)] 2024. https://doi.org/10.1111/resp.14839 
-     
-Chronic breathlessness is defined as breathlessness that persists on minimal or no exertion despite the optimal treatment of the underlying disease and other contributing factors.1 It is a cardinal and prevalent symptom of late-stage chronic obstructive pulmonary disease (COPD). Chronic breathlessness is present in about 40% of people with COPD in high-income countries, worsening with age and severity of disease. The majority of people with late-stage COPD experience such breathlessness. COPD is also associated with a high frequency of comorbidities.2 Common symptoms related to COPD and its systemic manifestations include, but are not limited to, long-term pain, sleep disturbance, fatigue and cough. This paper focuses on chronic breathlessness. In COPD at a population level, breathlessness is more strongly associated with mortality than the measurable degree of airway obstruction.3, 4 There is also a relatively poor correlation between pulmonary function tests and the subjective assessments of chronic breathlessness. Other population-level associations with chronic breathlessness include poorer quality of life (physical and mental components)5; greater anxiety and depression; poorer workforce participation in people of working age; greater disability measured on the World Health Organization Disability Assessment Schedule (WHO-DAS); poorer perceived health; less sexual activity; and a smaller Life-Space geographic footprint. In symptom management, the first step in managing chronic breathlessness requires clinicians to ensure that reversible causes are optimally treated. More than one underlying aetiology often contributes to chronic breathlessness and all need to be addressed in each person's management plan. Non-pharmacological interventions include pulmonary rehabilitation, activity pacing, and a handheld battery-operated fan.6 Despite these measures, many people still require pharmacotherapy for the symptom, especially in late-stage disease. Several medications have been assessed in adequately powered studies, yet the only class of medications, to date, which has an evidence base is opioids. There are two main sources to inform clinical considerations of effectiveness of opioids for the symptomatic reduction of chronic breathlessness: meta-analyses; and adequately powered studies. A sub-group analysis of people with COPD and breathlessness in a recent meta-analysis of opioids administered long enough to reach steady state (n = 91) found an overall benefit favouring morphine over placebo.7 This suggests that there is a cohort who likely derive meaningful symptomatic benefit. Since the publication of that study, three large randomized, placebo-controlled studies have been reported (n = 284; n = 156; n = 111).8-10 Each had differing primary endpoints at different times (intensity of worst breathlessness at 1 week,9 intensity of breathlessness now at 1 week),8 and COPD Assessment Test (CAT) scores and PaCO2 at 4 weeks.11 Breathlessness remained unchanged in all three studies, however, two of the three studies reported sub-group analyses that described sub-populations that derived significant benefit. The study by Verberkt et al. found two significant improvements in its secondary outcomes: worst breathlessness at 28 days after commencing the study; and a difference between the active and placebo arms for the CAT score. The study by Ferreira et al. identified that people with the most severe breathlessness (mMRC3, 4) and COPD achieved significant clinical benefit.12 Accurately identifying patient characteristics that predict a beneficial response to regular, low-dose, sustained-release morphine remains a challenge for researchers and clinicians. Basic clinico-demographic factors have been defined in two studies using data from double-blind, placebo-controlled, randomized controlled trials.13, 14 In the study by Johnson et al. from four clinical studies of morphine for the symptomatic reduction of breathlessness (n = 213), baseline predictors of a greater likelihood of response included more intense breathlessness and younger age.14 Body mass index (BMI) was not available in this study. In the study by Verberkt et al., 21 participants in the active arm of their parallel arm clinical trial had a ≥1 point improvement on a 0–10 numerical rating scale.13 The two baseline predictors of response were higher baseline intensity of breathlessness and higher BMI. Age was not a predictor in this study. To date, exploring key single nucleotide polymorphisms (SNPs) relating to opioid metabolism, transport or receptors has not found predictors of response.15 There appear to be a group of people (who are yet to be characterized from their pre-treatment characteristics) who have a marked benefit from regular, low-dose, sustained release morphine. The benefits are described by trial participants as 'life-changing' and persisted for at least 6 months with no increase in morphine dose.16 Although there are small numbers who describe benefits of this magnitude, the benefits were further reflected in improved actigraph-measured activity and increased Global Impression of Change scores. Opioids for pain have a wide therapeutic index. Morphine for the symptomatic reduction of chronic breathlessness may have a far narrower window for net benefit. Many people reflect that even mild adverse events negate any symptomatic reduction in chronic breathlessness.17 In a meta-analysis of 64 studies, of which five had data on safety measures, Verberkt et al. found no evidence of rising carbon dioxide partial pressures nor of any drop in oxygenation—two principal concerns when prescribing opioids for people with COPD.11 A pre-planned secondary analysis of the BEAMS study found that daytime drowsiness was no worse in the morphine arm than placebo and that, at 4 weeks, participants who reported reduced breathlessness with morphine also had improvement in Leeds Sleep Evaluation Questionnaire (LSEQ) domain scores including perceived sleep quality and daytime functioning.18 However, objective assessment of the effects of low-dose, slow-release morphine during sleep in people with COPD and chronic breathlessness has identified that although there is no negative effect on next-day alertness (including driving simulator performance), morphine causes lighter sleep depth, higher mean and peak transcutaneous CO2 and lower oxygen saturations.18, 19 The longer-term consequences of these changes are yet to be determined. Of note, any therapeutic benefit does not seem to have a whole-of-class effect for opioids. Studies utilizing oxycodone do not seem to have any signal of symptomatic benefit. Interestingly, it may also be that not all underlying aetiologies of chronic breathlessness derive the same benefits. One study in pulmonary artery hypertension saw no signal of benefit in the primary nor secondary outcomes and another in interstitial lung disease.20 At present, data from a meta-analysis and two large, randomized, controlled studies indicate that in people with severe chronic breathlessness secondary to COPD, a short trial of low dose, sustained release morphine is safe and potentially beneficial. When introduced at a low dose and titrated slowly (at least 1 week between commencing and titration), a sub-group of people derive significant, sometimes life-changing, benefit. Developing accurate methods to identify which patients derive benefit from regular, low-dose, sustained-release morphine is a critical goal for future research. T.J.A. had no disclosures. D.C.C. is an Advisory Board member and consultant for Helsinn Pharmaceuticals; consultant and receives payment for intellectual property with Mayne Pharma International Pty Ltd.; subcontractor to Nous Group Pty Ltd.; Board member for icare Dust Diseases Care NSW; Board member/Director NSW Health Pathology; Board member/Director for Chris O'Brien Lifehouse Cancer Centre.    
-
-    
-
 * Structural Reuse of Decommissioned Ski Lift Steel Trusses for Load-Bearing Applications  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403187287
@@ -1288,66 +1078,24 @@ The ongoing effects of climate change have led to a rise in global temperature, 
 
     
 
-* Ionomer and Membrane Designs for Low‐Temperature CO2 and CO Electrolysis  :CO2RR:
+* The use of opioids in late‐stage COPD—Where are we now?  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4403146014
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Fuel Cell Membrane Technology, Carbon Dioxide Utilization for Chemical Synthesis
-:PUBLICATION_DATE: 2024-10-05
+:UUID: https://openalex.org/W4403198556
+:TOPICS: Standardisation and Management of COPD, Mechanical Ventilation in Respiratory Failure and ARDS, Pediatric Pain Assessment and Management
+:PUBLICATION_DATE: 2024-10-07
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202401728")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1111/resp.14839")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403146014"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403146014"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403146014"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403198556"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403198556"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403198556"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4403146014 (Open access: False)
+OpenAlex: https://openalex.org/W4403198556 (Open access: True)
     
-[[https://openalex.org/A5030347659][Huihua Deng]], [[https://openalex.org/A5100345056][Zhuo Chen]], [[https://openalex.org/A5100322864][Li Wang]], ChemSusChem. None(None)] 2024. https://doi.org/10.1002/cssc.202401728 
+[[https://openalex.org/A5004506727][Thomas J. Altree]], [[https://openalex.org/A5007993808][David C. Currow]], Respirology. None(None)] 2024. https://doi.org/10.1111/resp.14839 
      
-Low‐temperature electroreduction of CO2 and CO (CO(2)RR) into valuable chemicals and fuels offers a promising pathway to reduce greenhouse gas emissions and achieve carbon neutrality. Today's low‐temperature CO(2)RR technology relies on the use of ionomers, polymers with ionized groups, primarily as catalyst layer (CL) additives. In the meantime, ionomers can assemble into ion‐exchange membranes (IEMs), serving as important components of electrolyzers. According to the ion‐exchange functions, ionomer additives are classified as cation‐exchange ionomers (CEIs) and anion‐exchange ionomers (AEIs); similarly, IEMs are divided into cation‐exchange membranes (CEMs) and anion‐exchange membranes (AEMs), as well as the multilayer polymer electrolytes (MPEs). Recent studies show that ionomer additives can regulate the catalytic microenvironment and thereby enhance performance towards desired products. This Review discusses the roles of ionomer additives and IEMs in CO2 and CO reduction reactions, highlighting the latest mechanistic insights and performance advances. It outlines challenges in designing ionomer additives and IEMs to improve product selectivity, energy efficiency (EE), and operational lifetime of CO(2)RR electrolyzers, while also providing perspectives on future research directions. The aim is to connect the current status of ionomer and membrane development with performance metrics analysis, offering insights for the advancement of commercially relevant low‐temperature CO(2)RR electrolyzers.    
-
-    
-
-* A Highly Conjugated Nickel(II)‐Acetylide Framework for Efficient Photocatalytic Carbon Dioxide Reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403129176
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion, Porous Crystalline Organic Frameworks for Energy and Separation Applications
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202418269")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403129176"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403129176"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403129176"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403129176 (Open access: False)
-    
-[[https://openalex.org/A5081215511][Yingying Qin]], [[https://openalex.org/A5101934276][Yang Wang]], [[https://openalex.org/A5100341536][Jian Lü]], [[https://openalex.org/A5013976694][Linli Xu]], [[https://openalex.org/A5006003842][Wai‐Yeung Wong]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202418269 
-     
-The incorporation of transition‐metal single atoms as molecular functional entities into the skeleton of graphdiyne (GDY) to construct novel two‐dimensional (2D) metal‐acetylide frameworks, known as metalated graphynes (MGYs), is a promising strategy for developing efficient catalysts, which can combine the tunable charge transfer of GDY frameworks, the catalytic activity of metal and the precise distribution of single metallic centers. Herein, four highly conjugated MGY photocatalysts based on NiII, PdII, PtII, and HgII were synthesized for the first time using the ‘bottom‐up’ strategy through the use of M–C bonds (–C≡C–M–C≡C–). Remarkably, the NiII‐based graphyne (TEPY‐Ni‐GY) exhibited the highest CO generation rate of 18.3 mmol g‐1 h‐1 and a selectivity of 98.8%. This superior performance is attributed to the synergistic effects of pyrenyl and –C≡C–Ni(PBu3)2–C≡C– moieties. The pyrenyl block functions as an intramolecular π‐conjugation channel, facilitating kinetically favorable electron transfer, while the –C≡C–Ni(PBu3)2–C≡C– moiety serves as the catalytic site that enhances CO2 adsorption and activation, thereby suppressing competitive hydrogen evolution. This study provides a new perspective on MGY‐based photocatalysts for developing highly active and low‐cost catalysts for CO2 reduction.    
-
-    
-
-* The Impact of Hydrogen on Flame Characteristics and Pollutant Emissions in Natural Gas Industrial Combustion Systems  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403140808
-:TOPICS: Chemical Kinetics of Combustion Processes, Global Impact of Gas Flaring, Estimating Vehicle Fuel Consumption and Emissions
-:PUBLICATION_DATE: 2024-10-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/en17194959")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140808"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140808"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140808"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403140808 (Open access: True)
-    
-[[https://openalex.org/A5082256677][Yamei Lan]], [[https://openalex.org/A5100322864][Li Wang]], [[https://openalex.org/A5013851053][Jingxiang Xu]], [[https://openalex.org/A5103075380][Yi Wang]], Energies. 17(19)] 2024. https://doi.org/10.3390/en17194959 
-     
-To improve energy savings and emission reduction in industrial heating furnaces, this study investigated the impact of various molar fractions of hydrogen on natural gas combustion and compared the results of the Non-Premixed Combustion Model with the Eddy Dissipation Combustion Model. Initially, natural gas combustion in an industrial heating furnace was investigated experimentally, and these results were used as boundary conditions for CFD simulations. The diffusion flame and combustion characteristics of natural gas were simulated using both the non-premixed combustion model and the Eddy Dissipation Combustion Model. The results indicated that the Non-Premixed Combustion Model provided simulations more consistent with experimental data, within acceptable error margins, thus validating the accuracy of the numerical simulations. Additionally, to analyze the impact of hydrogen doping on the performance of an industrial gas heater, four gas mixtures with varying hydrogen contents (15% H2, 30% H2, 45% H2, and 60% H2) were studied while maintaining constant fuel inlet temperature and flow rate. The results demonstrate that the Non-Premixed Combustion Model more accurately simulates complex flue gas flow and chemical reactions during combustion. Moreover, hydrogen-doped natural gas significantly reduces CO and CO2 emissions compared to pure natural gas combustion. Specifically, at 60% hydrogen content, CO and CO2 levels decrease by 70% and 37.5%, respectively, while NO emissions increase proportionally; at this hydrogen content, NO concentration in the furnace chamber rises by 155%.    
+Chronic breathlessness is defined as breathlessness that persists on minimal or no exertion despite the optimal treatment of the underlying disease and other contributing factors.1 It is a cardinal and prevalent symptom of late-stage chronic obstructive pulmonary disease (COPD). Chronic breathlessness is present in about 40% of people with COPD in high-income countries, worsening with age and severity of disease. The majority of people with late-stage COPD experience such breathlessness. COPD is also associated with a high frequency of comorbidities.2 Common symptoms related to COPD and its systemic manifestations include, but are not limited to, long-term pain, sleep disturbance, fatigue and cough. This paper focuses on chronic breathlessness. In COPD at a population level, breathlessness is more strongly associated with mortality than the measurable degree of airway obstruction.3, 4 There is also a relatively poor correlation between pulmonary function tests and the subjective assessments of chronic breathlessness. Other population-level associations with chronic breathlessness include poorer quality of life (physical and mental components)5; greater anxiety and depression; poorer workforce participation in people of working age; greater disability measured on the World Health Organization Disability Assessment Schedule (WHO-DAS); poorer perceived health; less sexual activity; and a smaller Life-Space geographic footprint. In symptom management, the first step in managing chronic breathlessness requires clinicians to ensure that reversible causes are optimally treated. More than one underlying aetiology often contributes to chronic breathlessness and all need to be addressed in each person's management plan. Non-pharmacological interventions include pulmonary rehabilitation, activity pacing, and a handheld battery-operated fan.6 Despite these measures, many people still require pharmacotherapy for the symptom, especially in late-stage disease. Several medications have been assessed in adequately powered studies, yet the only class of medications, to date, which has an evidence base is opioids. There are two main sources to inform clinical considerations of effectiveness of opioids for the symptomatic reduction of chronic breathlessness: meta-analyses; and adequately powered studies. A sub-group analysis of people with COPD and breathlessness in a recent meta-analysis of opioids administered long enough to reach steady state (n = 91) found an overall benefit favouring morphine over placebo.7 This suggests that there is a cohort who likely derive meaningful symptomatic benefit. Since the publication of that study, three large randomized, placebo-controlled studies have been reported (n = 284; n = 156; n = 111).8-10 Each had differing primary endpoints at different times (intensity of worst breathlessness at 1 week,9 intensity of breathlessness now at 1 week),8 and COPD Assessment Test (CAT) scores and PaCO2 at 4 weeks.11 Breathlessness remained unchanged in all three studies, however, two of the three studies reported sub-group analyses that described sub-populations that derived significant benefit. The study by Verberkt et al. found two significant improvements in its secondary outcomes: worst breathlessness at 28 days after commencing the study; and a difference between the active and placebo arms for the CAT score. The study by Ferreira et al. identified that people with the most severe breathlessness (mMRC3, 4) and COPD achieved significant clinical benefit.12 Accurately identifying patient characteristics that predict a beneficial response to regular, low-dose, sustained-release morphine remains a challenge for researchers and clinicians. Basic clinico-demographic factors have been defined in two studies using data from double-blind, placebo-controlled, randomized controlled trials.13, 14 In the study by Johnson et al. from four clinical studies of morphine for the symptomatic reduction of breathlessness (n = 213), baseline predictors of a greater likelihood of response included more intense breathlessness and younger age.14 Body mass index (BMI) was not available in this study. In the study by Verberkt et al., 21 participants in the active arm of their parallel arm clinical trial had a ≥1 point improvement on a 0–10 numerical rating scale.13 The two baseline predictors of response were higher baseline intensity of breathlessness and higher BMI. Age was not a predictor in this study. To date, exploring key single nucleotide polymorphisms (SNPs) relating to opioid metabolism, transport or receptors has not found predictors of response.15 There appear to be a group of people (who are yet to be characterized from their pre-treatment characteristics) who have a marked benefit from regular, low-dose, sustained release morphine. The benefits are described by trial participants as 'life-changing' and persisted for at least 6 months with no increase in morphine dose.16 Although there are small numbers who describe benefits of this magnitude, the benefits were further reflected in improved actigraph-measured activity and increased Global Impression of Change scores. Opioids for pain have a wide therapeutic index. Morphine for the symptomatic reduction of chronic breathlessness may have a far narrower window for net benefit. Many people reflect that even mild adverse events negate any symptomatic reduction in chronic breathlessness.17 In a meta-analysis of 64 studies, of which five had data on safety measures, Verberkt et al. found no evidence of rising carbon dioxide partial pressures nor of any drop in oxygenation—two principal concerns when prescribing opioids for people with COPD.11 A pre-planned secondary analysis of the BEAMS study found that daytime drowsiness was no worse in the morphine arm than placebo and that, at 4 weeks, participants who reported reduced breathlessness with morphine also had improvement in Leeds Sleep Evaluation Questionnaire (LSEQ) domain scores including perceived sleep quality and daytime functioning.18 However, objective assessment of the effects of low-dose, slow-release morphine during sleep in people with COPD and chronic breathlessness has identified that although there is no negative effect on next-day alertness (including driving simulator performance), morphine causes lighter sleep depth, higher mean and peak transcutaneous CO2 and lower oxygen saturations.18, 19 The longer-term consequences of these changes are yet to be determined. Of note, any therapeutic benefit does not seem to have a whole-of-class effect for opioids. Studies utilizing oxycodone do not seem to have any signal of symptomatic benefit. Interestingly, it may also be that not all underlying aetiologies of chronic breathlessness derive the same benefits. One study in pulmonary artery hypertension saw no signal of benefit in the primary nor secondary outcomes and another in interstitial lung disease.20 At present, data from a meta-analysis and two large, randomized, controlled studies indicate that in people with severe chronic breathlessness secondary to COPD, a short trial of low dose, sustained release morphine is safe and potentially beneficial. When introduced at a low dose and titrated slowly (at least 1 week between commencing and titration), a sub-group of people derive significant, sometimes life-changing, benefit. Developing accurate methods to identify which patients derive benefit from regular, low-dose, sustained-release morphine is a critical goal for future research. T.J.A. had no disclosures. D.C.C. is an Advisory Board member and consultant for Helsinn Pharmaceuticals; consultant and receives payment for intellectual property with Mayne Pharma International Pty Ltd.; subcontractor to Nous Group Pty Ltd.; Board member for icare Dust Diseases Care NSW; Board member/Director NSW Health Pathology; Board member/Director for Chris O'Brien Lifehouse Cancer Centre.    
 
     
 
@@ -1411,48 +1159,6 @@ OpenAlex: https://openalex.org/W4403218032 (Open access: False)
 [[https://openalex.org/A5036503837][Austin McKee]], [[https://openalex.org/A5009794335][Wuji Huang]], [[https://openalex.org/A5056553738][Ninggang Shen]], [[https://openalex.org/A5102911514][Syed Mubeen]], [[https://openalex.org/A5031341048][Hongtao Ding]], Journal of Laser Applications. 36(4)] 2024. https://doi.org/10.2351/7.0001542 
      
 Electrochemical reduction of CO2 and H2O to synthesize gas (H2 and CO mixture) is of significant interest due to established industrial pathways to tune the H2 to CO composition to generate an array of valuable products including methanol, synthetic fuel, synthetic natural gas, and hydrogen. However, controlled H2:CO ratios are challenging on CO-active electrocatalysts like silver. We demonstrate that applying laser engineering to adjust the surface wetting state of a silver electrocatalyst with water contact angles θw ranging from 47° and 135°, H2:CO ratios can be tuned from 1 to 4 at modest potentials (−0.7 V versus RHE, RHE—reversible hydrogen electrode) with almost total unity Faradaic efficiency. Both hydrophilic (θw = 47°) and more hydrophobic (θw = 135°) samples showed an increasing H2:CO trend with rising potentials (0.7–1.2 V versus RHE) due to mass transport. Conversely, silver electrocatalyst with θw = 110° exhibited a constant H2:CO ratio of 4. This indicates catalyst wettability potentially affects *H and *HOCO intermediates’ adsorption, impacting H2:CO ratios. Our results show the feasibility of syngas composition control on silver catalysts via surface wettability, providing a simpler alternative to complex multicomponent electrocatalytic systems.    
-
-    
-
-* Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403140466
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Content-Centric Networking for Information Delivery
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202416878")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403140466"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403140466"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403140466"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403140466 (Open access: False)
-    
-[[https://openalex.org/A5001070807][Ziming Su]], [[https://openalex.org/A5100340517][Xiangyu Chen]], [[https://openalex.org/A5104180415][Mingke Sun]], [[https://openalex.org/A5058342388][Xiuyi Yang]], [[https://openalex.org/A5100447386][Jianxin Kang]], [[https://openalex.org/A5058443202][Zhi Cai]], [[https://openalex.org/A5100629806][Xiaotian Wang]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202416878 
-     
-One‐dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard‐soft acids‐bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure‐regulating agent and morphology‐directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu‐SR bond. Due to the combined advantages of amorphous structure and one‐dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu‐based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.    
-
-    
-
-* Amorphous Nanobelts for Efficient Electrocatalytic Ammonia Production  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403141185
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Reduction of Nitro Compounds, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-10-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202416878")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403141185"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403141185"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403141185"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403141185 (Open access: False)
-    
-[[https://openalex.org/A5001070807][Ziming Su]], [[https://openalex.org/A5035573035][Xiang‐Yu Chen]], [[https://openalex.org/A5104180415][Mingke Sun]], [[https://openalex.org/A5058342388][Xiuyi Yang]], [[https://openalex.org/A5100447380][Jianxin Kang]], [[https://openalex.org/A5075989623][Zhi Cai]], [[https://openalex.org/A5102772793][Lin Guo]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202416878 
-     
-One‐dimensional (1D) amorphous nanomaterials combine the advantages of high active site concentration of amorphous structure, high specific surface area and efficient charge transfer and mass transport of 1D materials, so they present promising opportunities for catalysis. However, a significant challenge involves achieving a balance between the high orientation of 1D morphology and the isotropy of amorphous structure, which severely obstructs the controllable preparation of 1D amorphous materials. Guided by the hard‐soft acids‐bases theory, here we develop a general strategy for preparing 1D amorphous nanomaterials through the precise modulation of bond strength between metal ions and organic ligands for a moderated fastness. The soft base dodecanethiol (DT) is multifunctionally served as both structure‐regulating agent and morphology‐directing agent. Compared with the borderline acids (e.g. Fe2+, Co2+, Ni2+) to construct amorphous structure, soft acid of Cu+ which produced crystalline nanobelts can still be amorphized by reducing the hardness of Cu ions through redox reaction to weak Cu‐SR bond. Due to the combined advantages of amorphous structure and one‐dimensional morphology, amorphous CuDT nanobelts exhibited excellent electrocatalytic activity in electrochemical nitrate reduction, outperformed the most of the reported Cu‐based catalysts. This work will effectively bridge the gap between traditional 1D crystalline nanomaterials and amorphization preparation.    
 
     
 

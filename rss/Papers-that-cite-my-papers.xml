@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Oct 2024 01:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 01:25:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161421</link>
-      <description>Xiaowen Wang, Fei Ma, Haiqiao Wei, Jiaying Pan, Wenjia Li, Jun Zhao, Xiaotao Yang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4403117340
-
-                No abstract</description>
-      <author>Xiaowen Wang, Fei Ma, Haiqiao Wei, Jiaying Pan, Wenjia Li, Jun Zhao, Xiaotao Yang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161421</guid>
-    </item>
-    <item>
-      <title>Electronic communications between active sites on individual metallic nanoparticles in catalysis</title>
-      <link>https://doi.org/10.1038/s41467-024-52997-w</link>
-      <description>Dongrun Xu, Yaowei Jin, Bowen He, Xue Fang, Guokang Chen, Weiye Qu, Chenxin Xu, Junxiao Chen, Zhen Ma, Liwei Chen, Xingfu Tang, Xi Liu, Guangfeng Wei, Yaxin Chen, Nature Communications. 15(1)] 2024. https://openalex.org/W4403128752
-
-                Catalytic activity of metal particles is reported to originate from the appearance of nonmetallic states, but conductive metallic particles, as an electron reservoir, should render electron delivery between reactants more favorably so as to have higher activity. We present that metallic rhodium particle catalysts are highly active in the low-temperature oxidation of carbon monoxide, whereas nonmetallic rhodium clusters or monoatoms on alumina remain catalytically inert. Experimental and theoretical results evidence the presence of electronic communications in between vertex atom active sites of individual metallic particles in the reaction. The electronic communications dramatically lower apparent activation energies via coupling two electrochemical-like half-reactions occurring on different active sites, which enable the metallic particles to show turnover frequencies at least four orders of magnitude higher than the nonmetallic clusters or monoatoms. Similar results are found for other metallic particle catalysts, implying the importance of electronic communications between active sites in heterogeneous catalysis.</description>
-      <author>Dongrun Xu, Yaowei Jin, Bowen He, Xue Fang, Guokang Chen, Weiye Qu, Chenxin Xu, Junxiao Chen, Zhen Ma, Liwei Chen, Xingfu Tang, Xi Liu, Guangfeng Wei, Yaxin Chen</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-52997-w</guid>
-    </item>
-    <item>
-      <title>Bias-dependent surface stress by density functional theory combined with the effective screening medium method</title>
-      <link>https://doi.org/10.1103/physrevb.110.155409</link>
-      <description>Satoshi Hagiwara, Shoji Ishibashi, Minoru Otani, Physical review. B./Physical review. B. 110(15)] 2024. https://openalex.org/W4403130582
-
-                No abstract</description>
-      <author>Satoshi Hagiwara, Shoji Ishibashi, Minoru Otani</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.155409</guid>
-    </item>
-    <item>
-      <title>Determining the chemical ordering in nanoalloys by considering atomic coordination types</title>
-      <link>https://doi.org/10.1063/5.0214377</link>
-      <description>Riccardo Farris, Konstantin M. Neyman, Albert Bruix, The Journal of Chemical Physics. 161(13)] 2024. https://openalex.org/W4403135114
-
-                The energetically most favorable chemical ordering of bimetallic nanoparticles can be characterized by combining global optimization algorithms and surrogate energy models. The latter approximate the energy of nanoalloys relying on structural descriptors, training models, and data. Here, we systematically evaluate the performance of highly data-efficient topological descriptors [Kozlov et al., Chem. Sci. 6, 3868 (2015)] for predicting the energies of metal nanoalloys with different chemical orderings. We also introduce a new descriptor based on atomic coordination types, which results in a less data-efficient and interpretable approach, but improves the general accuracy and the quantification of orderings in the inner parts of nanoparticles. The capacity of both the original and new approaches in combination with a basin hopping algorithm is illustrated by generating convex hulls of PdZn nanoalloys and predicting the resulting active surface site distribution as a function of particle composition. Finally, we show how these approaches can be combined with machine-learning adsorption models in electrocatalysis studies for a fast evaluation of the reactivity landscape of targeted nanoalloys.</description>
-      <author>Riccardo Farris, Konstantin M. Neyman, Albert Bruix</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0214377</guid>
-    </item>
-    <item>
-      <title>Oriented Crystal Polarization Tuning Bulk Charge and Single&#8208;Site Chemical State for Exceptional Hydrogen Photo&#8208;Production</title>
-      <link>https://doi.org/10.1002/adma.202411339</link>
-      <description>Zijian Zhu, Jingcong Hu, Cheng Hu, Yue Lu, Shengqi Chu, Fang Chen, Hongwei Huang, Hongwei Huang, Advanced Materials. None(None)] 2024. https://openalex.org/W4403140168
-
-                Abstract Rapid bulk charge recombination and mediocre surface catalytic sites harshly restrict the photocatalytic activities. Herein, the aforementioned concerns are well addressed by coupling macroscopic spontaneous polarization and atomic&#8208;site engineering of CdS single&#8208;crystal nanorods for superb H 2 photo&#8208;production. The oriented growth of CdS nanorods along the polar axis, vectorially superimposing substantial polar units with orderly arrangement, renders a strong polarization electric field (20.1 times enhancement), which boosts bulk charge separation with an efficiency up to 72.4% (80.4&#8208;fold). Remarkably, polarization electric field alters the chemical state of Pt single sites by orderly reducing the binding energy of Pt atom with stepwise polarization enhancement of CdS substrate, which increases the onsite electron density of Pt from 10.232 to 10.261e &#8722; and *H key intermediates, providing preponderant Volmer&#8208;Tafel/Volmer&#8208;Heyrovsky reaction pathways with significantly decreased energy barriers for H 2 production. Thus, highly polarized CdS nanorods with atomically dispersed Pt sites perform an outstanding H 2 space&#8208;time yield of 118.5 mmol g &#8722;1 h &#8722;1 and apparent quantum efficiency of 57.7% at &#955; = 420 nm, and a record&#8208;high H 2 turnover frequency of 57798.4 h &#8722;1 , being one of the best catalysts for photocatalytic H 2 evolution. This work highlights the function of polarization in manipulating charge separation and catalytic reaction.</description>
-      <author>Zijian Zhu, Jingcong Hu, Cheng Hu, Yue Lu, Shengqi Chu, Fang Chen, Hongwei Huang, Hongwei Huang</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202411339</guid>
-    </item>
-    <item>
-      <title>Chemiresistive triethylamine detection based on the novel Ti3C2Tx/Co-BDC gas sensor</title>
-      <link>https://doi.org/10.1016/j.snb.2024.136738</link>
-      <description>Huan Liu, Qingcai Chen, Ting Xu, Heng Liu, Miao Lei, Wenhao Liu, Jingwen Cheng, Shu Yin, Chuanyi Wang, Jincai Zhao, Sensors and Actuators B Chemical. None(None)] 2024. https://openalex.org/W4403140557
-
-                No abstract</description>
-      <author>Huan Liu, Qingcai Chen, Ting Xu, Heng Liu, Miao Lei, Wenhao Liu, Jingwen Cheng, Shu Yin, Chuanyi Wang, Jincai Zhao</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.snb.2024.136738</guid>
-    </item>
-    <item>
-      <title>Impact of Amorphous Structure on CO2 Electrocatalysis with Cu: A Combined Machine Learning Forcefield and DFT Modelling Approach</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145188</link>
-      <description>Akshayini Muthuperiyanayagam, Devis Di Tommaso, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4403140832
-
-                No abstract</description>
-      <author>Akshayini Muthuperiyanayagam, Devis Di Tommaso</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145188</guid>
-    </item>
-    <item>
-      <title>Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.10.010</link>
-      <description>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao, Journal of Colloid and Interface Science. 679(None)] 2024. https://openalex.org/W4403144529
-
-                The development of cost-effective and corrosion-resistant catalytic electrodes for chlorine/oxygen evolution reaction (CER/OER) in large-scale industrial applications is a significant challenge. Herein, the sol-gel method is employed to achieve a uniform coating of ruthenium (Ru) doping copper (Cu) on titanium sheet (Ru + 20 %Cu@Ti), and the highly efficient industrial grade stable Ti dimensional stable anode can be quickly constructed at 723.15 K for 2 h. Cu doping reduces the vacancy formation energy of surface oxygen, promotes additional lattice oxygen vacancy assisted hydrolysis dissociation pathway, improves the selectivity and specific activity of CER at high concentration doping, and reduces the binding energy of OER intermediates (e.g., *OH, *O, and *OOH) at adjacent Ru active sites. The overpotentials require to reach the current density of 10 mA cm</description>
-      <author>Rui Xiao, Ding&#8208;Kun Ji, Liugang Wu, Ziyan Fang, Yanhui Guo, Weiju Hao</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.010</guid>
-    </item>
-    <item>
-      <title>Correlating structure-activity-stability relationship of high-valent 3d-metal-based MOFs and MOF-derived materials for electrochemical energy conversion and storage</title>
-      <link>https://doi.org/10.1016/j.ccr.2024.216239</link>
-      <description>Baghendra Singh, Rakesh Kumar Sharma, Apparao Draksharapu, Coordination Chemistry Reviews. 523(None)] 2024. https://openalex.org/W4403146622
-
-                No abstract</description>
-      <author>Baghendra Singh, Rakesh Kumar Sharma, Apparao Draksharapu</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216239</guid>
-    </item>
-    <item>
-      <title>Surgical dissection of ignition behavior of aluminum nanoparticles using molecular dynamics</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.133316</link>
-      <description>Yiming Lu, Lili Ye, Hongxin Luo, Mingshu Bi, Fuel. 381(None)] 2024. https://openalex.org/W4403146634
-
-                No abstract</description>
-      <author>Yiming Lu, Lili Ye, Hongxin Luo, Mingshu Bi</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.133316</guid>
-    </item>
-    <item>
-      <title>First-Principles Calculations and Machine Learning of Hydrogen Evolution Reaction Activity of Nonmetallic Doped &#946;-Mo&lt;sub&gt;2&lt;/sub&gt;C Support Pt Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acsami.4c10705</link>
-      <description>Minhui Song, Mei Yang, Shuo Yang, Li Wang, Chenyang Cao, Hongfei Li, Xiao&#8208;Xu Wang, Panpan Gao, Ping Qian, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403146651
-
-                The most widely used catalyst for the hydrogen evolution reaction (HER) is Pt, but the high cost and low abundance of Pt need to be urgently addressed. Single-atom catalysts (SACs) have been an effective means of improving the utilization of Pt atoms. In this work, we used a nonmetal (NM = B, N, O, F, Si, P, S, Cl, As, Se, Br, Te, and I) doped &#946;-Mo</description>
-      <author>Minhui Song, Mei Yang, Shuo Yang, Li Wang, Chenyang Cao, Hongfei Li, Xiao&#8208;Xu Wang, Panpan Gao, Ping Qian</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c10705</guid>
-    </item>
     <item>
       <title>Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs</title>
       <link>https://doi.org/10.1016/j.actamat.2024.120447</link>
@@ -356,6 +246,36 @@
       <author>Ittoku Nozawa, Hidehisa Hagiwara</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1098/rsos.240387</guid>
+    </item>
+    <item>
+      <title>Potential-dependent kinetics of oxygen chemisorption as the crucial step of oxygen reduction reaction: GCDFT study</title>
+      <link>https://doi.org/10.1016/j.jelechem.2024.118708</link>
+      <description>Vitaliy A. Kislenko, &#1057;. &#1042;. &#1055;&#1072;&#1074;&#1083;&#1086;&#1074;, Sergey A. Kislenko, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4403287304
+
+                No abstract</description>
+      <author>Vitaliy A. Kislenko, &#1057;. &#1042;. &#1055;&#1072;&#1074;&#1083;&#1086;&#1074;, Sergey A. Kislenko</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118708</guid>
+    </item>
+    <item>
+      <title>Revealing OH species in situ generated on low-valence Cu sites for selective carbonyl oxidation</title>
+      <link>https://doi.org/10.1073/pnas.2408770121</link>
+      <description>Yang Cao, Qiaozhi Zhang, Iris K.M. Yu, Daniel C.W. Tsang, Proceedings of the National Academy of Sciences. 121(42)] 2024. https://openalex.org/W4403298282
+
+                Catalytic oxidation through the transfer of lattice oxygen from metal oxides to reactants, namely the Mars-van Krevelen mechanism, has been widely reported. In this study, we evidence the overlooked oxidation route that features the in situ formation of surface OH species on Cu catalysts and its selective addition to the reactant carbonyl group. We observed that glucose oxidation to gluconic acid in air (21% O</description>
+      <author>Yang Cao, Qiaozhi Zhang, Iris K.M. Yu, Daniel C.W. Tsang</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2408770121</guid>
+    </item>
+    <item>
+      <title>Used Literature</title>
+      <link>https://doi.org/10.1002/9781394173310.oth</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4403326060
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9781394173310.oth</guid>
     </item>
     <item>
       <title>On the selection of control structures using process operability analysis</title>

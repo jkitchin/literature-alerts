@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Oct 12 01:18:16 2024
+Created on Sun Oct 13 01:25:23 2024
 
-Found 36 results from 2024-10-05 to 2024-10-12
+Found 28 results from 2024-10-06 to 2024-10-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -16,127 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## A DFT and microkinetic modeling study of pressure effects on electroreduction reduction of CO2 to ethanol   
-
-OpenAlex: https://openalex.org/W4403117340    
-Open access: False
-    
-[Xiaowen Wang](https://openalex.org/A5031624398), [Fei Ma](https://openalex.org/A5087000964), [Haiqiao Wei](https://openalex.org/A5023261675), [Jiaying Pan](https://openalex.org/A5101942399), [Wenjia Li](https://openalex.org/A5100660669), [Jun Zhao](https://openalex.org/A5100530177), [Xiaotao Yang](https://openalex.org/A5002224809), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.161421.
-    
-No abstract    
-
-    
-
-## Electronic communications between active sites on individual metallic nanoparticles in catalysis   
-
-OpenAlex: https://openalex.org/W4403128752    
-Open access: True
-    
-[Dongrun Xu](https://openalex.org/A5040895703), [Yaowei Jin](https://openalex.org/A5048914293), [Bowen He](https://openalex.org/A5011306017), [Xue Fang](https://openalex.org/A5059390636), [Guokang Chen](https://openalex.org/A5039310816), [Weiye Qu](https://openalex.org/A5019126071), [Chenxin Xu](https://openalex.org/A5101486518), [Junxiao Chen](https://openalex.org/A5021956950), [Zhen Ma](https://openalex.org/A5072324563), [Liwei Chen](https://openalex.org/A5100625788), [Xingfu Tang](https://openalex.org/A5074328422), [Xi Liu](https://openalex.org/A5100450813), [Guangfeng Wei](https://openalex.org/A5015346622), [Yaxin Chen](https://openalex.org/A5100669108), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-52997-w.
-    
-Catalytic activity of metal particles is reported to originate from the appearance of nonmetallic states, but conductive metallic particles, as an electron reservoir, should render electron delivery between reactants more favorably so as to have higher activity. We present that metallic rhodium particle catalysts are highly active in the low-temperature oxidation of carbon monoxide, whereas nonmetallic rhodium clusters or monoatoms on alumina remain catalytically inert. Experimental and theoretical results evidence the presence of electronic communications in between vertex atom active sites of individual metallic particles in the reaction. The electronic communications dramatically lower apparent activation energies via coupling two electrochemical-like half-reactions occurring on different active sites, which enable the metallic particles to show turnover frequencies at least four orders of magnitude higher than the nonmetallic clusters or monoatoms. Similar results are found for other metallic particle catalysts, implying the importance of electronic communications between active sites in heterogeneous catalysis.    
-
-    
-
-## Bias-dependent surface stress by density functional theory combined with the effective screening medium method   
-
-OpenAlex: https://openalex.org/W4403130582    
-Open access: False
-    
-[Satoshi Hagiwara](https://openalex.org/A5005524440), [Shoji Ishibashi](https://openalex.org/A5042319192), [Minoru Otani](https://openalex.org/A5035293042), Physical review. B./Physical review. B. 110(15)] 2024.https://doi.org/10.1103/physrevb.110.155409.
-    
-No abstract    
-
-    
-
-## Determining the chemical ordering in nanoalloys by considering atomic coordination types   
-
-OpenAlex: https://openalex.org/W4403135114    
-Open access: False
-    
-[Riccardo Farris](https://openalex.org/A5017255135), [Konstantin M. Neyman](https://openalex.org/A5032114586), [Albert Bruix](https://openalex.org/A5061069452), The Journal of Chemical Physics. 161(13)] 2024.https://doi.org/10.1063/5.0214377.
-    
-The energetically most favorable chemical ordering of bimetallic nanoparticles can be characterized by combining global optimization algorithms and surrogate energy models. The latter approximate the energy of nanoalloys relying on structural descriptors, training models, and data. Here, we systematically evaluate the performance of highly data-efficient topological descriptors [Kozlov et al., Chem. Sci. 6, 3868 (2015)] for predicting the energies of metal nanoalloys with different chemical orderings. We also introduce a new descriptor based on atomic coordination types, which results in a less data-efficient and interpretable approach, but improves the general accuracy and the quantification of orderings in the inner parts of nanoparticles. The capacity of both the original and new approaches in combination with a basin hopping algorithm is illustrated by generating convex hulls of PdZn nanoalloys and predicting the resulting active surface site distribution as a function of particle composition. Finally, we show how these approaches can be combined with machine-learning adsorption models in electrocatalysis studies for a fast evaluation of the reactivity landscape of targeted nanoalloys.    
-
-    
-
-## Oriented Crystal Polarization Tuning Bulk Charge and Single‐Site Chemical State for Exceptional Hydrogen Photo‐Production   
-
-OpenAlex: https://openalex.org/W4403140168    
-Open access: False
-    
-[Zijian Zhu](https://openalex.org/A5051126172), [Jingcong Hu](https://openalex.org/A5068939581), [Cheng Hu](https://openalex.org/A5077569999), [Yue Lu](https://openalex.org/A5066620860), [Shengqi Chu](https://openalex.org/A5058067441), [Fang Chen](https://openalex.org/A5089355943), [Hongwei Huang](https://openalex.org/A5048638809), [Hongwei Huang](https://openalex.org/A5048638809), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202411339.
-    
-Abstract Rapid bulk charge recombination and mediocre surface catalytic sites harshly restrict the photocatalytic activities. Herein, the aforementioned concerns are well addressed by coupling macroscopic spontaneous polarization and atomic‐site engineering of CdS single‐crystal nanorods for superb H 2 photo‐production. The oriented growth of CdS nanorods along the polar axis, vectorially superimposing substantial polar units with orderly arrangement, renders a strong polarization electric field (20.1 times enhancement), which boosts bulk charge separation with an efficiency up to 72.4% (80.4‐fold). Remarkably, polarization electric field alters the chemical state of Pt single sites by orderly reducing the binding energy of Pt atom with stepwise polarization enhancement of CdS substrate, which increases the onsite electron density of Pt from 10.232 to 10.261e − and *H key intermediates, providing preponderant Volmer‐Tafel/Volmer‐Heyrovsky reaction pathways with significantly decreased energy barriers for H 2 production. Thus, highly polarized CdS nanorods with atomically dispersed Pt sites perform an outstanding H 2 space‐time yield of 118.5 mmol g −1 h −1 and apparent quantum efficiency of 57.7% at λ = 420 nm, and a record‐high H 2 turnover frequency of 57798.4 h −1 , being one of the best catalysts for photocatalytic H 2 evolution. This work highlights the function of polarization in manipulating charge separation and catalytic reaction.    
-
-    
-
-## Chemiresistive triethylamine detection based on the novel Ti3C2Tx/Co-BDC gas sensor   
-
-OpenAlex: https://openalex.org/W4403140557    
-Open access: False
-    
-[Huan Liu](https://openalex.org/A5100338887), [Qingcai Chen](https://openalex.org/A5072624830), [Ting Xu](https://openalex.org/A5003419469), [Heng Liu](https://openalex.org/A5100753324), [Miao Lei](https://openalex.org/A5103577828), [Wenhao Liu](https://openalex.org/A5100429106), [Jingwen Cheng](https://openalex.org/A5091313402), [Shu Yin](https://openalex.org/A5077743963), [Chuanyi Wang](https://openalex.org/A5084410248), [Jincai Zhao](https://openalex.org/A5032690227), Sensors and Actuators B Chemical. None(None)] 2024.https://doi.org/10.1016/j.snb.2024.136738.
-    
-No abstract    
-
-    
-
-## Impact of Amorphous Structure on CO2 Electrocatalysis with Cu: A Combined Machine Learning Forcefield and DFT Modelling Approach   
-
-OpenAlex: https://openalex.org/W4403140832    
-Open access: True
-    
-[Akshayini Muthuperiyanayagam](https://openalex.org/A5072730395), [Devis Di Tommaso](https://openalex.org/A5076994358), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145188.
-    
-No abstract    
-
-    
-
-## Mild and rapid construction of Ti electrodes for efficient and corrosion-resistant oxidative catalysis at industrial-grade intensity   
-
-OpenAlex: https://openalex.org/W4403144529    
-Open access: False
-    
-[Rui Xiao](https://openalex.org/A5084804962), [Ding‐Kun Ji](https://openalex.org/A5065847227), [Liugang Wu](https://openalex.org/A5102649014), [Ziyan Fang](https://openalex.org/A5102699034), [Yanhui Guo](https://openalex.org/A5101581701), [Weiju Hao](https://openalex.org/A5009156159), Journal of Colloid and Interface Science. 679(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.010.
-    
-The development of cost-effective and corrosion-resistant catalytic electrodes for chlorine/oxygen evolution reaction (CER/OER) in large-scale industrial applications is a significant challenge. Herein, the sol-gel method is employed to achieve a uniform coating of ruthenium (Ru) doping copper (Cu) on titanium sheet (Ru + 20 %Cu@Ti), and the highly efficient industrial grade stable Ti dimensional stable anode can be quickly constructed at 723.15 K for 2 h. Cu doping reduces the vacancy formation energy of surface oxygen, promotes additional lattice oxygen vacancy assisted hydrolysis dissociation pathway, improves the selectivity and specific activity of CER at high concentration doping, and reduces the binding energy of OER intermediates (e.g., *OH, *O, and *OOH) at adjacent Ru active sites. The overpotentials require to reach the current density of 10 mA cm    
-
-    
-
-## Correlating structure-activity-stability relationship of high-valent 3d-metal-based MOFs and MOF-derived materials for electrochemical energy conversion and storage   
-
-OpenAlex: https://openalex.org/W4403146622    
-Open access: False
-    
-[Baghendra Singh](https://openalex.org/A5071537088), [Rakesh Kumar Sharma](https://openalex.org/A5100700219), [Apparao Draksharapu](https://openalex.org/A5077518541), Coordination Chemistry Reviews. 523(None)] 2024.https://doi.org/10.1016/j.ccr.2024.216239.
-    
-No abstract    
-
-    
-
-## Surgical dissection of ignition behavior of aluminum nanoparticles using molecular dynamics   
-
-OpenAlex: https://openalex.org/W4403146634    
-Open access: False
-    
-[Yiming Lu](https://openalex.org/A5101098617), [Lili Ye](https://openalex.org/A5083571244), [Hongxin Luo](https://openalex.org/A5101086608), [Mingshu Bi](https://openalex.org/A5074258183), Fuel. 381(None)] 2024.https://doi.org/10.1016/j.fuel.2024.133316.
-    
-No abstract    
-
-    
-
-## First-Principles Calculations and Machine Learning of Hydrogen Evolution Reaction Activity of Nonmetallic Doped β-Mo2C Support Pt Single-Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4403146651    
-Open access: False
-    
-[Minhui Song](https://openalex.org/A5018828825), [Mei Yang](https://openalex.org/A5100602358), [Shuo Yang](https://openalex.org/A5042323916), [Li Wang](https://openalex.org/A5100322864), [Chenyang Cao](https://openalex.org/A5102504446), [Hongfei Li](https://openalex.org/A5100426997), [Xiao‐Xu Wang](https://openalex.org/A5014357385), [Panpan Gao](https://openalex.org/A5103212057), [Ping Qian](https://openalex.org/A5046561934), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c10705.
-    
-The most widely used catalyst for the hydrogen evolution reaction (HER) is Pt, but the high cost and low abundance of Pt need to be urgently addressed. Single-atom catalysts (SACs) have been an effective means of improving the utilization of Pt atoms. In this work, we used a nonmetal (NM = B, N, O, F, Si, P, S, Cl, As, Se, Br, Te, and I) doped β-Mo    
-
-    
 
 ## Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs   
 
@@ -399,6 +278,39 @@ Open access: True
 [Ittoku Nozawa](https://openalex.org/A5030520387), [Hidehisa Hagiwara](https://openalex.org/A5003300746), Royal Society Open Science. 11(10)] 2024.https://doi.org/10.1098/rsos.240387 ([pdf](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.240387)).
     
 Here, we synthesized Co-based, anion-incorporated‍ ‌R‌u‌d‌d‌l‌e‌s-d‌e‌n‌-‌Popper perovskite electrocatalysts (LaSrCoO    
+
+    
+
+## Potential-dependent kinetics of oxygen chemisorption as the crucial step of oxygen reduction reaction: GCDFT study   
+
+OpenAlex: https://openalex.org/W4403287304    
+Open access: False
+    
+[Vitaliy A. Kislenko](https://openalex.org/A5013321321), [С. В. Павлов](https://openalex.org/A5091258371), [Sergey A. Kislenko](https://openalex.org/A5074210515), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118708.
+    
+No abstract    
+
+    
+
+## Revealing OH species in situ generated on low-valence Cu sites for selective carbonyl oxidation   
+
+OpenAlex: https://openalex.org/W4403298282    
+Open access: True
+    
+[Yang Cao](https://openalex.org/A5051907554), [Qiaozhi Zhang](https://openalex.org/A5046328795), [Iris K.M. Yu](https://openalex.org/A5073545914), [Daniel C.W. Tsang](https://openalex.org/A5076771261), Proceedings of the National Academy of Sciences. 121(42)] 2024.https://doi.org/10.1073/pnas.2408770121.
+    
+Catalytic oxidation through the transfer of lattice oxygen from metal oxides to reactants, namely the Mars-van Krevelen mechanism, has been widely reported. In this study, we evidence the overlooked oxidation route that features the in situ formation of surface OH species on Cu catalysts and its selective addition to the reactant carbonyl group. We observed that glucose oxidation to gluconic acid in air (21% O    
+
+    
+
+## Used Literature   
+
+OpenAlex: https://openalex.org/W4403326060    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1002/9781394173310.oth.
+    
+No abstract    
 
     
 
