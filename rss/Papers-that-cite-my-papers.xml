@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Oct 2024 01:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 01:22:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs</title>
-      <link>https://doi.org/10.1016/j.actamat.2024.120447</link>
-      <description>Qinsheng He, Tian&#8208;Yu Sun, Liang&#8208;Feng Huang, Acta Materialia. None(None)] 2024. https://openalex.org/W4403154326
-
-                No abstract</description>
-      <author>Qinsheng He, Tian&#8208;Yu Sun, Liang&#8208;Feng Huang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120447</guid>
-    </item>
-    <item>
-      <title>Nanohybrids of B- and N-codoped reduced graphene oxide/CeO2&#8211;Co3O4 nanocomposite for efficient water oxidation</title>
-      <link>https://doi.org/10.1016/j.matchemphys.2024.129984</link>
-      <description>Zohreh Shaghaghi, Farnaz Ebrahimi, Sahar Jafari Nivlouei, Materials Chemistry and Physics. 328(None)] 2024. https://openalex.org/W4403156921
-
-                No abstract</description>
-      <author>Zohreh Shaghaghi, Farnaz Ebrahimi, Sahar Jafari Nivlouei</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matchemphys.2024.129984</guid>
-    </item>
-    <item>
-      <title>Pathways and enhancement strategies for magnesium hardness removal in modified induced crystallization softening</title>
-      <link>https://doi.org/10.1016/j.jenvman.2024.122729</link>
-      <description>Changgeng Li, Cheng Liu, Yun Han, Weibin Xu, Bing Yan, Aijun Du, Qin Li, Qi Yu, Journal of Environmental Management. 370(None)] 2024. https://openalex.org/W4403157311
-
-                Elevated levels of total hardness in drinking water can readily result in scaling, which poses a threat to both the safety of water quality and the convenience of its use. While there is a wealth of research on the removal of calcium hardness, there is a dearth of studies focusing on the removal of magnesium hardness. In light of this, the present study employs modified induced crystallization softening (MICS) to delineate the removal pathways and mechanisms of magnesium hardness, and to investigate viable methods for its enhancement and application. Our research has determined that magnesium hardness can be effectively removed from water through the MICS, with the dosage of softening agents (NaOH) being a significant factor that influences this removal, whereas the fixed bed height within the fluidized bed exerts minimal impact on the process. In the low-dose stage (less than 250 mg/L), when the pH is below 10.0, up to 20% of magnesium hardness can be removed, predominantly through the crystallization of (Ca</description>
-      <author>Changgeng Li, Cheng Liu, Yun Han, Weibin Xu, Bing Yan, Aijun Du, Qin Li, Qi Yu</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.122729</guid>
-    </item>
-    <item>
-      <title>Selective Area Epitaxy of Gallium Phosphide-Based Nanostructures on Microsphere Lithography-Patterned Si Wafers for Visible Light Optoelectronics</title>
-      <link>https://doi.org/10.1016/j.materresbull.2024.113126</link>
-      <description>Vladimir V. Fedorov, Vladimir V. Fedorov, A. V. Pavlov, Sergey Komarov, E. I. Moiseev, Dmitry Miniv, &#1040;. &#1050;. &#1050;&#1072;&#1074;&#1077;&#1077;&#1074;, A. Smirnov, &#1044;. &#1040;. &#1050;&#1080;&#1088;&#1080;&#1083;&#1077;&#1085;&#1082;&#1086;, &#1040; &#1052; &#1052;&#1086;&#1078;&#1072;&#1088;&#1086;&#1074;, Ivan S. Mukhin, Materials Research Bulletin. None(None)] 2024. https://openalex.org/W4403157700
-
-                No abstract</description>
-      <author>Vladimir V. Fedorov, Vladimir V. Fedorov, A. V. Pavlov, Sergey Komarov, E. I. Moiseev, Dmitry Miniv, &#1040;. &#1050;. &#1050;&#1072;&#1074;&#1077;&#1077;&#1074;, A. Smirnov, &#1044;. &#1040;. &#1050;&#1080;&#1088;&#1080;&#1083;&#1077;&#1085;&#1082;&#1086;, &#1040; &#1052; &#1052;&#1086;&#1078;&#1072;&#1088;&#1086;&#1074;, Ivan S. Mukhin</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.materresbull.2024.113126</guid>
-    </item>
     <item>
       <title>Important structural parameter for curvature effect of TM-N4 embeded C70 fullerenes as electrocatalysts for CO2 reduction interpreted with machine learning and first-principles calculations</title>
       <link>https://doi.org/10.1016/j.surfin.2024.105233</link>
@@ -268,6 +228,46 @@
       <guid isPermaLink="true">https://doi.org/10.1073/pnas.2408770121</guid>
     </item>
     <item>
+      <title>Interfacial Electric Fields Drive Rearrangement of Adsorbed Cysteine and Electrolyte Ions on Au Electrodes</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04216</link>
+      <description>H. Sudhakar, Julie Renner, Robert E. Warburton, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403298496
+
+                Electrode surfaces modified with peptides or other biomolecules are of great interest for applications in catalysis and separations. At the electrochemical interface, the structure of biomolecular adsorbates may be sensitive to the applied potential and the distribution of solvent and ions near the electrode surface. Herein, periodic density functional theory (DFT) calculations are used to describe changes in the adsorption structure of the l-cysteine amino acid on Au(111) as a function of applied potential. This theoretical study reveals the fundamental mechanisms of potential-dependent rearrangement of cysteine on electrode surfaces. These systems are analyzed using a hybrid quantum&#8211;classical computational approach that combines constant-potential periodic DFT with a classical representation of the liquid electrolyte. In agreement with experimental measurements, grand canonical thermodynamic analyses suggest that the cysteine exists primarily in its zwitterionic form over a wide range of applied potentials. The structure of adsorbed zwitterionic cysteine is dictated by the cationic ammonium and anionic carboxylate functional groups, where these charged moieties experience competing Coulombic interactions with the charged Au(111) surface and the electrolyte ions within the electric double layer. These competing interactions drive the rearrangement of cysteine with applied potential, which in turn determines the nature of ion structuring at the interface. The potential-dependent free energies of cysteine zwitterions are also significantly influenced by the ionic strength of the electrolyte because of the interactions between charged zwitterion functional groups and oppositely charged electrolyte ions. Understanding the interplay between adsorption structure, applied potential, and electrolyte ion structuring can guide the assembly of structured biomolecules on solid surfaces. The impact of zwitterionic amino acids and peptides on near-surface electrolyte composition may be further exploited to tailor microenvironments for various applications of interfacial electrochemistry.</description>
+      <author>H. Sudhakar, Julie Renner, Robert E. Warburton</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04216</guid>
+    </item>
+    <item>
+      <title>Cu&#8722;based bimetallic sites' p-d orbital hybridization promotes CO asymmetric coupling conversion to C2 products</title>
+      <link>https://doi.org/10.1016/j.mtphys.2024.101565</link>
+      <description>Jiayong Xiao, Jofrey J. Masana, Ming Qiu, Ying Yu, Materials Today Physics. None(None)] 2024. https://openalex.org/W4403302059
+
+                No abstract</description>
+      <author>Jiayong Xiao, Jofrey J. Masana, Ming Qiu, Ying Yu</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101565</guid>
+    </item>
+    <item>
+      <title>Recent advances and modulation tactics in Ru- and Ir-based electrocatalysts for PEMWE anodes at large current densities</title>
+      <link>https://doi.org/10.1016/j.esci.2024.100323</link>
+      <description>Yu Wang, Haijing Yan, Honggang Fu, eScience. None(None)] 2024. https://openalex.org/W4403302755
+
+                No abstract</description>
+      <author>Yu Wang, Haijing Yan, Honggang Fu</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100323</guid>
+    </item>
+    <item>
+      <title>Atomic Manipulation to Create High-Valent Fe&lt;sup&gt;4+&lt;/sup&gt; for Efficient and Ultrastable Oxygen Evolution at Industrial-Level Current Density</title>
+      <link>https://doi.org/10.1021/acsnano.4c09259</link>
+      <description>Yong Feng, Huan Wang, Kun Feng, Chengyu Li, Shuo Li, Cheng L&#252;, Youyong Li, Ding Ma, Jun Zhong, ACS Nano. None(None)] 2024. https://openalex.org/W4403318150
+
+                Manipulating the electronic structure of a catalyst at the atomic level is an effective but challenging way to improve the catalytic performance. Here, by stretching the Fe-O bond in FeOOH with an inserted Mo atom, a Fe-O-Mo unit can be created, which will induce the formation of high-valent Fe</description>
+      <author>Yong Feng, Huan Wang, Kun Feng, Chengyu Li, Shuo Li, Cheng L&#252;, Youyong Li, Ding Ma, Jun Zhong</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c09259</guid>
+    </item>
+    <item>
       <title>Used Literature</title>
       <link>https://doi.org/10.1002/9781394173310.oth</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4403326060
@@ -276,16 +276,6 @@
       <author/>
       <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9781394173310.oth</guid>
-    </item>
-    <item>
-      <title>On the selection of control structures using process operability analysis</title>
-      <link>https://doi.org/10.1016/j.conengprac.2024.106117</link>
-      <description>Victor Alves, Fernando V. Lima, Control Engineering Practice. 153(None)] 2024. https://openalex.org/W4403155926
-
-                No abstract</description>
-      <author>Victor Alves, Fernando V. Lima</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.conengprac.2024.106117</guid>
     </item>
   </channel>
 </rss>

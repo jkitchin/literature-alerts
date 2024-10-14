@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Oct 2024 01:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 01:22:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Interfacial Electric Fields Drive Rearrangement of Adsorbed Cysteine and Electrolyte Ions on Au Electrodes</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04216</link>
+      <description>H. Sudhakar, Julie Renner, Robert E. Warburton, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403298496
+
+                Electrode surfaces modified with peptides or other biomolecules are of great interest for applications in catalysis and separations. At the electrochemical interface, the structure of biomolecular adsorbates may be sensitive to the applied potential and the distribution of solvent and ions near the electrode surface. Herein, periodic density functional theory (DFT) calculations are used to describe changes in the adsorption structure of the l-cysteine amino acid on Au(111) as a function of applied potential. This theoretical study reveals the fundamental mechanisms of potential-dependent rearrangement of cysteine on electrode surfaces. These systems are analyzed using a hybrid quantum&#8211;classical computational approach that combines constant-potential periodic DFT with a classical representation of the liquid electrolyte. In agreement with experimental measurements, grand canonical thermodynamic analyses suggest that the cysteine exists primarily in its zwitterionic form over a wide range of applied potentials. The structure of adsorbed zwitterionic cysteine is dictated by the cationic ammonium and anionic carboxylate functional groups, where these charged moieties experience competing Coulombic interactions with the charged Au(111) surface and the electrolyte ions within the electric double layer. These competing interactions drive the rearrangement of cysteine with applied potential, which in turn determines the nature of ion structuring at the interface. The potential-dependent free energies of cysteine zwitterions are also significantly influenced by the ionic strength of the electrolyte because of the interactions between charged zwitterion functional groups and oppositely charged electrolyte ions. Understanding the interplay between adsorption structure, applied potential, and electrolyte ion structuring can guide the assembly of structured biomolecules on solid surfaces. The impact of zwitterionic amino acids and peptides on near-surface electrolyte composition may be further exploited to tailor microenvironments for various applications of interfacial electrochemistry.</description>
+      <author>H. Sudhakar, Julie Renner, Robert E. Warburton</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04216</guid>
+    </item>
     <item>
       <title>Catalytic Impedance Spectroscopy: Concept and Application on CO&lt;sub&gt;2&lt;/sub&gt; Methanation</title>
       <link>https://doi.org/10.1021/acs.jpclett.4c02442</link>

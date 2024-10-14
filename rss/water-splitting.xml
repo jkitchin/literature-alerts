@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Oct 2024 01:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 01:22:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Continuous lattice oxygen participation of NiFe stack anode for Sustainable water Splitting</title>
-      <link>https://doi.org/10.1016/j.cej.2024.156469</link>
-      <description>Sinwoo Kang, Dong-yeol Lee, Yeongin Kim, Sooan Bae, Jaeyoung Lee, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403152048
-
-                No abstract</description>
-      <author>Sinwoo Kang, Dong-yeol Lee, Yeongin Kim, Sooan Bae, Jaeyoung Lee</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156469</guid>
-    </item>
     <item>
       <title>High&#8208;Entropy Ag&#8208;Ru&#8208;based Electrocatalysts with Dual&#8208;Active&#8208;Center for Highly Stable Ultra&#8208;Low&#8208;Temperature Zinc&#8208;Air Batteries</title>
       <link>https://doi.org/10.1002/anie.202415216</link>
@@ -178,6 +168,76 @@
       <guid isPermaLink="true">https://doi.org/10.1098/rsos.240387</guid>
     </item>
     <item>
+      <title>Molten salt electrolytic CO2-derived NiCo2@C catalysts with enhanced oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.176950</link>
+      <description>Xinxin Liang, Yihan Wang, Yi Zheng, Peng Wang, Xiaodong Jia, Wei Weng, Wei Xiao, Jianbo Zhao, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403287527
+
+                No abstract</description>
+      <author>Xinxin Liang, Yihan Wang, Yi Zheng, Peng Wang, Xiaodong Jia, Wei Weng, Wei Xiao, Jianbo Zhao</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.176950</guid>
+    </item>
+    <item>
+      <title>Mn2+-doped Co3Si2O5(OH)4 serpentine nanosheets with tuned d-band centers for efficient oxygen evolution in alkaline and neutral electrolytes</title>
+      <link>https://doi.org/10.1007/s12598-024-02937-w</link>
+      <description>Shi-Cheng Huang, Yulong Zhou, Dongdong Zhang, Dingzhong Luo, Baopeng Yang, Gen Chen, Xiaohe Liu, Jia Tang, Ning Zhang, Rare Metals. None(None)] 2024. https://openalex.org/W4403295903
+
+                No abstract</description>
+      <author>Shi-Cheng Huang, Yulong Zhou, Dongdong Zhang, Dingzhong Luo, Baopeng Yang, Gen Chen, Xiaohe Liu, Jia Tang, Ning Zhang</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02937-w</guid>
+    </item>
+    <item>
+      <title>Strontium Doped IrOx Triggers Direct O&#8208;O Coupling to Boost Acid Water Oxidation Electrocatalysis</title>
+      <link>https://doi.org/10.1002/anie.202418456</link>
+      <description>Zhiyi Lu, Zhiyi Lu, Caihan Zhu, Yingjie Wen, Minli Wang, Yunan Wang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403299748
+
+                The discovery of efficient and stable electrocatalysts for the oxygen evolution reaction (OER) in acidic conditions is crucial for the commercialization of proton&#8208;exchange membrane water electrolyzers. In this work, we propose a Sr(OH)2&#8208;assisted method to fabricate a (200) facet highly exposed strontium&#8208;doped IrOx catalyst to provide available adjacent iridium sites with lower Ir&#8208;O covalency. This design facilitates direct O&#8208;O coupling during the acidic water oxidation process, thereby circumventing the high energy barrier associated with the generation of *OOH intermediates. Benefiting from this advantage, the resulting Sr&#8208;IrOx catalyst exhibits an impressive overpotential of 207 mV at a current density of 10 mA cm&#8208;2 in 0.5 M H2SO4. Furthermore, a PEMWE device utilizing Sr&#8208;IrOx as the anodic catalyst demonstrates a cell voltage of 1.72 V at 1 A cm&#8208;2 and maintains excellent stability for over 500 hours. Our work not only provides guidance for the design of improved acidic OER catalysts but also encourages the development of iridium&#8208;based electrocatalysts with novel mechanisms for other electrocatalytic reactions.</description>
+      <author>Zhiyi Lu, Zhiyi Lu, Caihan Zhu, Yingjie Wen, Minli Wang, Yunan Wang</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202418456</guid>
+    </item>
+    <item>
+      <title>Strontium Doped IrOx Triggers Direct O&#8208;O Coupling to Boost Acid Water Oxidation Electrocatalysis</title>
+      <link>https://doi.org/10.1002/ange.202418456</link>
+      <description>Zhiyi Lu, Zhiyi Lu, Caihan Zhu, Yingjie Wen, Minli Wang, Yunan Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403299861
+
+                The discovery of efficient and stable electrocatalysts for the oxygen evolution reaction (OER) in acidic conditions is crucial for the commercialization of proton&#8208;exchange membrane water electrolyzers. In this work, we propose a Sr(OH)2&#8208;assisted method to fabricate a (200) facet highly exposed strontium&#8208;doped IrOx catalyst to provide available adjacent iridium sites with lower Ir&#8208;O covalency. This design facilitates direct O&#8208;O coupling during the acidic water oxidation process, thereby circumventing the high energy barrier associated with the generation of *OOH intermediates. Benefiting from this advantage, the resulting Sr&#8208;IrOx catalyst exhibits an impressive overpotential of 207 mV at a current density of 10 mA cm&#8208;2 in 0.5 M H2SO4. Furthermore, a PEMWE device utilizing Sr&#8208;IrOx as the anodic catalyst demonstrates a cell voltage of 1.72 V at 1 A cm&#8208;2 and maintains excellent stability for over 500 hours. Our work not only provides guidance for the design of improved acidic OER catalysts but also encourages the development of iridium&#8208;based electrocatalysts with novel mechanisms for other electrocatalytic reactions.</description>
+      <author>Zhiyi Lu, Zhiyi Lu, Caihan Zhu, Yingjie Wen, Minli Wang, Yunan Wang</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202418456</guid>
+    </item>
+    <item>
+      <title>Stabilization of High&#8208;Valent Molecular Cobalt Sites through Oxidized Phosphorus in Reduced Graphene Oxide for Enhanced Oxygen Evolution Catalysis</title>
+      <link>https://doi.org/10.1002/ange.202416274</link>
+      <description>Xin Wang, Jing Wang, Guoliang Dai, Wenjuan Song, Poe Ei Phyu Win, Sheng Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403299947
+
+                Heterogeneous molecular cobalt (Co) sites represent one type of classical catalytic sites for electrochemical oxygen evolution reaction (OER) in alkaline solutions. There are dynamic equilibriums between Co2+, Co3+ and Co4+ states coupling with OH&#8722;/H+ interaction before and during the OER event. Since the emergence of Co2+ sites is detrimental to the OER cycle, the stabilization of high&#8208;valent Co sites to shift away from the equilibrium becomes critical and is proposed as a new strategy to enhance OER. Herein, phosphorus (P) atoms were doped into reduced graphene oxide to link molecular Co2+ acetylacetonate toward synthesizing a novel heterogeneous molecular catalyst. By increasing the oxidation states of P heteroatoms, the linked Co sites were spontaneously oxidized from 2+ to 3+ states in a KOH solution through OH&#8722; ions coupling at an open circuit condition. With excluding the Co2+ sites, the as&#8208;derived Co sites with 3+ initial states exhibited intrinsically high OER activity, validating the effectiveness of the strategy of stabilizing high valence Co sites.</description>
+      <author>Xin Wang, Jing Wang, Guoliang Dai, Wenjuan Song, Poe Ei Phyu Win, Sheng Wang</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202416274</guid>
+    </item>
+    <item>
+      <title>Architecting double-shelled hollow carbon nanocages embedded bimetallic sites as bifunctional oxygen electrocatalyst for zinc-air batteries</title>
+      <link>https://doi.org/10.1016/j.cclet.2024.110538</link>
+      <description>Congcong Wang, Kai Zhang, Bai Yang, Chinese Chemical Letters. None(None)] 2024. https://openalex.org/W4403302736
+
+                No abstract</description>
+      <author>Congcong Wang, Kai Zhang, Bai Yang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.110538</guid>
+    </item>
+    <item>
+      <title>Unlocking the Electrocatalytic Behavior of Cu&lt;sub&gt;2&lt;/sub&gt;MnS&lt;sub&gt;2&lt;/sub&gt; Nanoflake-Anchored rGO for the Oxygen Evolution Reaction in an Alkaline Medium</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c02824</link>
+      <description>Harshini Sharan, Jayachandran Madhavan, Ganeshbabu Mariappan, R. Kalai Selvan, A. Daya Mani, Langmuir. None(None)] 2024. https://openalex.org/W4403324220
+
+                A catalyst of the oxygen evolution reaction (OER) that is viable, affordable, and active for effective water-splitting applications is critical. A variety of electrocatalysts have been discovered to replace noble metal-based catalysts. Of these, transition metal-based sulfides are essential for incorporating carbonaceous materials to improve electrical conductivity, resulting in better electrocatalytic performance. Our study illustrates the synthesis of Cu</description>
+      <author>Harshini Sharan, Jayachandran Madhavan, Ganeshbabu Mariappan, R. Kalai Selvan, A. Daya Mani</author>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c02824</guid>
+    </item>
+    <item>
       <title>NiIr nanowire assembles as an efficient electrocatalyst towards oxygen evolution reaction in both acid and alkaline media</title>
       <link>https://doi.org/10.1002/asia.202400851</link>
       <description>Ning Zhang, Yalun Wang, Ronglan Wu, Xianwen Yang, Yan Wu, Fangmu Wang, Ping Cui, Guigao Liu, Wei Jiang, Haijiao Xie, Chemistry - An Asian Journal. None(None)] 2024. https://openalex.org/W4403334253
@@ -186,6 +246,16 @@
       <author>Ning Zhang, Yalun Wang, Ronglan Wu, Xianwen Yang, Yan Wu, Fangmu Wang, Ping Cui, Guigao Liu, Wei Jiang, Haijiao Xie</author>
       <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/asia.202400851</guid>
+    </item>
+    <item>
+      <title>A Straightforward Model for Quantifying Local pH Gradients Governing the Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/jacs.4c09521</link>
+      <description>Samuel S. Veroneau, Alaina C. Hartnett, Jaeyune Ryu, Hyukhun Hong, Cyrille Costentin, Daniel G. Nocera, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403326469
+
+                The production and consumption of protons by an electrocatalyst will, under certain conditions, generate localized microenvironments with properties distinct from those of the bulk solution. These local properties are particularly impactful for reactions involving proton-coupled electron transfer, where the generation of locally basic or acidic environments may significantly influence the energy efficiency and reaction selectivity of the electrocatalyst. Whereas local pH environments have been observed and characterized in reductive half-reactions, including the CO2 reduction and hydrogen evolution reactions, the incompatibility of conventional techniques and materials has limited studies in oxidative half-reactions, including the oxygen evolution reaction (OER), which provides the reducing equivalents for solar-to-fuels electrolysis. With the straightforward parameters bulk pH, buffer composition and pKa, and mass transport, we develop a model for describing local pH as a function of current density regardless of the microscopic details of the mechanism. Using an acid-stable PbOx OER catalyst, we observe the formation and dissipation of pH gradients during the OER and validate the model with voltammetric and potentiometric studies. The model predicts how local acidic environments can develop over a narrow OER current density window, thus providing further motivation for the development of OER catalysts that are stable to acid, even when operating in basic aqueous conditions. More generally, the model is not restricted to the OER and is useful for determining the onset of local pH gradients for other electrocatalytic reactions that involve the consumption or generation of protons in energy conversion reactions.</description>
+      <author>Samuel S. Veroneau, Alaina C. Hartnett, Jaeyune Ryu, Hyukhun Hong, Cyrille Costentin, Daniel G. Nocera</author>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c09521</guid>
     </item>
     <item>
       <title>Regulating Local Coordination Sphere of Ir Single Atoms at the Atomic Interface for Efficient Oxygen Evolution Reaction</title>
@@ -216,6 +286,16 @@
       <author>Yezeng He, Jiazhen Wu, Fangyu Hu, Liang Mao, Tejraj M. Aminabhavi, Yasser Vasseghian, Akbar Hojjati&#8211;Najafabadi</author>
       <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c01036</guid>
+    </item>
+    <item>
+      <title>Atomic Manipulation to Create High-Valent Fe&lt;sup&gt;4+&lt;/sup&gt; for Efficient and Ultrastable Oxygen Evolution at Industrial-Level Current Density</title>
+      <link>https://doi.org/10.1021/acsnano.4c09259</link>
+      <description>Yong Feng, Huan Wang, Kun Feng, Chengyu Li, Shuo Li, Cheng L&#252;, Youyong Li, Ding Ma, Jun Zhong, ACS Nano. None(None)] 2024. https://openalex.org/W4403318150
+
+                Manipulating the electronic structure of a catalyst at the atomic level is an effective but challenging way to improve the catalytic performance. Here, by stretching the Fe-O bond in FeOOH with an inserted Mo atom, a Fe-O-Mo unit can be created, which will induce the formation of high-valent Fe</description>
+      <author>Yong Feng, Huan Wang, Kun Feng, Chengyu Li, Shuo Li, Cheng L&#252;, Youyong Li, Ding Ma, Jun Zhong</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c09259</guid>
     </item>
     <item>
       <title>Size-Dependent Core&#8211;Shell Fine Structures and Oxygen Evolution Activity of Electrochemical IrO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Nanoparticles Revealed by Cryogenic Electron Microscopy</title>
@@ -276,16 +356,6 @@
       <author>Basundhara Dasgupta, Suptish Ghosh, Carsten Walter, Markus Stefan Budde, Georg J. Marquardt, Hong Chen, Markus G. M. Breithaupt, Taner Y&#305;lmaz, Christoph Garmatter, Tansir Ahamad, Ingo Zebger, Matthias Drie&#223;, Prashanth W. Menezes</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta05436a</guid>
-    </item>
-    <item>
-      <title>Optimizing the stability of NiFeOOH via oxyanion intercalation for water oxidation at large current densities</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.10.026</link>
-      <description>Xiaowen Zhang, Yijie Zhang, Zhenxin Wang, Qiang Zhao, jinping Li, Guang Liu, Journal of Colloid and Interface Science. 679(None)] 2024. https://openalex.org/W4403160806
-
-                In alkaline water splitting, transition metals (Ni, Fe) have received extensive attention, and NiFe-oxyhydroxide (NiFeOOH) is regarded as an exceptionally active electrocatalysts for oxygen evolution reaction (OER). However, maintaining the long-term stability of NiFeOOH at high current densities is challenging due to Fe segregation and catalyst degradation. Herein, this study proposes an approach to enhancing the stability of the Ni/Fe-O covalent bond by intercalating oxyanions (NO</description>
-      <author>Xiaowen Zhang, Yijie Zhang, Zhenxin Wang, Qiang Zhao, jinping Li, Guang Liu</author>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.026</guid>
     </item>
     <item>
       <title>The Construction of Face-to-Face Combination between NiFe-layered Double Hydroxide Nanosheets and Monolayer rGO for Efficient Water Splitting and Oxygen Reduction</title>
@@ -378,14 +448,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aoc.7795</guid>
     </item>
     <item>
-      <title>Ni&lt;sub&gt;x&lt;/sub&gt;B/Mo&lt;sub&gt;0.8&lt;/sub&gt;B&lt;sub&gt;3&lt;/sub&gt; Nanorods Encapsulated by a Boron&#8208;Rich Amorphous Layer for Universal pH Water Splitting at the Ampere Level</title>
-      <link>https://doi.org/10.1002/aenm.202402866</link>
-      <description>Madiha Rafiq, Karim Harrath, Minyan Feng, Jia Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4403158348
+      <title>NiFe LDH/Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;/Ni&lt;sub&gt;3&lt;/sub&gt;S&lt;sub&gt;2&lt;/sub&gt; Heterostructure with a Superhydrophilic/Superaerophobic Surface for Solar-Driven Electrolytic Water Splitting</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.4c03664</link>
+      <description>Daijie Deng, Qian Li, Sufen Lei, Wei Zhang, Henan Li, Li Xu, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4403298525
 
-                Abstract Heterostructured interfaces are crucial to electrocatalysts for water splitting. Herein, coral&#8208;like multiheterostructured Ni x B/Mo 0.8 B 3 (NMB) nanorods encapsulated by a boron&#8208;rich amorphous layer are prepared for water splitting. Density&#8208;functional theory (DFT) calculations indicate that the NMB interface adjusts the d &#8208;band center and electronic structure of the molybdenum sites. Owing to the strong electronic coupling between Ni, Mo, and B at the heterojunction, large number of exposed catalytic active sites, as well as the special hydrophilic characteristics endowed by the surrounding amorphous layer, the NMB catalyst exhibits remarkable universal&#8208;pH hydrogen evolution reaction (HER) activity with low overpotentials ( &#951; ) of 15, 26, and 83 mV to deliver 10 mA cm &#8722;2 in basic, acid, and neutral media, respectively, and outstanding oxygen evolution reaction (OER) characteristics in the basic medium with &#951; 10 and &#951; 500 of 170 and 420 mV, respectively. The unique self&#8208;supporting 3D hierarchical interconnected structure facilitates mass transport thus leading to high mechanical stability for 450 and 200 h in HER and OER at &#8776;1000 mA cm &#8722;2 . More importantly, the NMB exhibits excellent performance toward overall&#8208;water electrolysis as a bifunctional catalyst with ultralow cell voltages of 1.45/1.56/1.85 V @ 10/100/1000 mA cm &#8722;2 , demonstrating the large potential in industrial water splitting applications.</description>
-      <author>Madiha Rafiq, Karim Harrath, Minyan Feng, Jia Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202402866</guid>
+                The development of a bifunctional electrocatalyst with high efficiency, high stability, and low cost is of great significance in practical applications of electrocatalytic water splitting. Herein, a self-supporting bifunctional electrocatalyst with a NiFe layered double hydroxide/Fe2O3/Ni3S2 heterostructure (NiFe LDH/Fe2O3/Ni3S2/IF) for hydrogen evolution and oxygen evolution reactions (HER/OER) is synthesized by the self-corrosion of iron foam (IF) and hydrothermal strategies. The constructed NiFe LDH/Fe2O3/Ni3S2/IF hierarchical heterostructure was not only beneficial to expose active sites and promote charge/mass transfer but also generate a superhydrophilic/superaerophobic surface, thereby accelerating the reaction kinetics to improve the HER/OER activity. Therefore, NiFe LDH/Fe2O3/Ni3S2/IF exhibited superior overpotentials of 226.2 and 162.8 mV for the OER and HER at 100 mA cm&#8211;2, respectively. NiFe LDH/Fe2O3/Ni3S2/IF was employed as both the cathode and the anode to assemble a device for overall water splitting and displayed a voltage of 1.55 V at 10 mA cm&#8211;2. The overall water splitting device was coupled with a solar cell to simulate a solar-powered water splitting system, resulting in a superior solar-to-hydrogen conversion efficiency of 15.16%. This work can promote the development of clean energy sources such as solar hydrogen production.</description>
+      <author>Daijie Deng, Qian Li, Sufen Lei, Wei Zhang, Henan Li, Li Xu</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03664</guid>
     </item>
     <item>
       <title>High&#8208;Efficiency Photo&#8208;Assisted Large Current&#8208;Density Water Splitting with Mott&#8208;Schottky Heterojunctions</title>
@@ -428,6 +498,26 @@
       <guid isPermaLink="true">https://doi.org/10.3390/ma17194914</guid>
     </item>
     <item>
+      <title>Ultrafast Room-Temperature Synthesis of Phosphate-Intercalated NiFe Layered Double Hydroxides for High-Performance Alkaline Seawater Oxidation</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.4c03660</link>
+      <description>Lin Ye, Zhipeng Chen, Xinyue Xu, Wei Ma, Kaicai Fan, Lingbo Zong, Lei Wang, Guanjun Chen, Xingwei Li, Tianrong Zhan, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4403327950
+
+                Quick and easy synthetic methods and highly efficient catalytic performance are equally important to anodic oxygen evolution reaction (OER) electrocatalysts for alkaline seawater electrolysis. Herein, we report a facile one-step route to in situ growing PO43&#8211; intercalated NiFe layered double hydroxides (NiFe-LDH) on Ni foam (denoted as NiFe-P/NF) by a room-temperature immersion for several minutes. This ultrafast approach transforms the NF surface into a rough PO43&#8211; intercalated NiFe-LDH overlayer, which demonstrates outstanding OER performance in both alkaline simulated and natural seawaters owing to good hydrophilic interface and the electrostatic repulsion of PO43&#8211; against Cl&#8211; anions. Density functional theory calculations reveal that the intercalated PO43&#8211; can not only promote electron transfer but also prevent Cl&#8211; from entering the interlayer and simultaneously inhibit the migration of Cl&#8211; over the NiFe-LDH surface. In alkaline simulated and natural seawater electrolytes, NiFe-P/NF needs low overpotentials of 248 and 298 mV to achieve a current density of 100 mA cm&#8211;2, respectively. NiFe-P/NF can stably run over 42 h in an alkaline high-salty electrolyte (1 M KOH + 2.5 M NaCl) at 250 mA cm&#8211;2, more than 70 times that of NiFe/NF (0.6 h), emphasizing the critical role of the intercalated PO43&#8211; anions on the excellent durability. This study offers a new strategy to modify commercial NF to prepare efficient and stable OER catalysts for seawater electrolysis.</description>
+      <author>Lin Ye, Zhipeng Chen, Xinyue Xu, Wei Ma, Kaicai Fan, Lingbo Zong, Lei Wang, Guanjun Chen, Xingwei Li, Tianrong Zhan</author>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03660</guid>
+    </item>
+    <item>
+      <title>The earliest phases of CNO enrichment in galaxies</title>
+      <link>https://doi.org/10.1051/0004-6361/202451189</link>
+      <description>M. Rossi, D. Romano, A. Mucciarelli, Edoardo Ceccarelli, D. Massari, G. Zamorani, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4403294259
+
+                The recent detection of super-solar carbon-to-oxygen and nitrogen-to-oxygen abundance ratios in a group of metal-poor galaxies at high redshift by the James Webb Space Telescope has sparked renewed interest in exploring the chemical evolution of carbon, nitrogen, and oxygen (the CNO elements) at early times and prompted fresh inquiries into their origins. The main goal of this paper is to shed light onto the early evolution of the main CNO isotopes in the Galaxy and in young distant systems, such as GN-z11 at $z = 10.6$ and GS-z12 at $z = 12.5$ To this aim, we incorporated a stochastic star formation component into a chemical evolution model calibrated with high-quality Milky Way (MW) data while focusing on the contribution of Population III (Pop III) stars to the early chemical enrichment. By comparing the model predictions with CNO abundance measurements from high-resolution spectroscopy of an homogeneous sample of Galactic halo stars, we first demonstrate that the scatter observed in the metallicity range $-4.5 Fe/H -1.5$ can be explained by pre-enrichment from Pop III stars that explode as supernovae (SNe) with different initial masses and energies. Then, by exploiting the chemical evolution model, we provide testable predictions for log(C/N), log(N/O), and log(C/O) versus log(O/H)+12 in MW-like galaxies observed at different cosmic epochs (redshifts). Finally, by calibrating the chemical evolution model to replicate the observed properties of GN-z11 and GS-z12 we provide an alternative interpretation of their high N/O and C/O abundance ratios demonstrating that an anomalously high N or C content can be reproduced through enrichment from faint Pop III SNe. Stochastic chemical enrichment from primordial stars explains both the observed scatter in CNO abundances in MW halo stars and the exceptionally high C/O and N/O ratios in some distant galaxies. These findings emphasize the critical role of Pop III stars in shaping early chemical evolution.</description>
+      <author>M. Rossi, D. Romano, A. Mucciarelli, Edoardo Ceccarelli, D. Massari, G. Zamorani</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/0004-6361/202451189</guid>
+    </item>
+    <item>
       <title>The Inclusion Characteristics and Mechanical Properties of M2 High-Speed Steel Treated with a Vacuum Carbon Deoxidation Process</title>
       <link>https://doi.org/10.3390/met14101146</link>
       <description>Yuheng Dai, Tinghui Man, Zhongliang Wang, Yu Liu, Yan-ping Bao, Xicheng Wei, Metals. 14(10)] 2024. https://openalex.org/W4403217185
@@ -446,16 +536,6 @@
       <author>Weiguo Jing, Naeem ul Haq Tariq, Wenkang Hou, Tianying Xiong, Mingqiang Tang</author>
       <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/2053-1591/ad8411</guid>
-    </item>
-    <item>
-      <title>Revealing Local Grain Boundary Chemistry and Correlating it with Local Mass Transport in Mixed&#8208;Conducting Perovskite Electrodes</title>
-      <link>https://doi.org/10.1002/smll.202404702</link>
-      <description>Zijie Sha, James O. Douglas, Llu&#237;s Yedra, Ieuan D. Seymour, S&#242;nia Estrad&#233;, F. Peir&#243;, Stephen J. Skinner, John A. Kilner, Small. None(None)] 2024. https://openalex.org/W4403158504
-
-                Abstract Grain boundary (GB) mass transport, and chemistry exert a pronounced influence on both the performance and stability of electrodes for solid oxide electrochemical cells. Lanthanum strontium cobalt ferrite (LSCF6428) is applied as a model mixed ionic and electronic conducting (MIEC) perovskite oxide. The cation&#8208;vacancy distribution at the GBs is studied at both single and multi&#8208;grain scales using high&#8208;resolution characterization techniques and computational approaches. The accumulation of oxygen vacancies () in the GB region, rather than necessarily at the GB core, results in an enhancement of the oxygen diffusivity by 3 &#8211; 4 orders of magnitude along the GBs ( D gb ). At 350 &#176;C, the oxygen tracer diffusion coefficient ( D *) is measured as 2.5 &#215; 10 &#8722;14 cm 2 s &#8722;1 . The D gb is determined to be 2.8 &#215; 10 &#8722;10 cm 2 s &#8722;1 assuming a crystallographic GB width (&#948; crystal ) of 1 nm, and 2.5 &#215; 10 &#8722;11 cm 2 s &#8722;1 using a chemically measured &#948; chem of 11.10 nm by atom probe tomography (APT). The origin of the concomitant changes in the cation composition is also investigate. In addition to the host cations, strong Na segregation is detected at all the GBs examined. Despite the low (ppm) level of this impurity, its presence can affect the space charge potential (&#934; 0 ). This, in turn, will influence the evolution of GB chemistry.</description>
-      <author>Zijie Sha, James O. Douglas, Llu&#237;s Yedra, Ieuan D. Seymour, S&#242;nia Estrad&#233;, F. Peir&#243;, Stephen J. Skinner, John A. Kilner</author>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404702</guid>
     </item>
     <item>
       <title>Molten Salt&#8208;Assisted Synthesis of Ferric Oxide/M&#8211;N&#8211;C Nanosheet Electrocatalysts for Efficient Oxygen Reduction Reaction</title>
@@ -488,16 +568,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/1945-7111/ad83f6</guid>
     </item>
     <item>
-      <title>Differentiation of the Anammox Core Microbiome: Unraveling the Evolutionary Impetus of Scalable Gene Flow</title>
-      <link>https://doi.org/10.1016/j.watres.2024.122580</link>
-      <description>Quan Zhang, Xiao-Ming Ji, Xueting Wang, Wei Wang, Xijun Xu, Qi Zhang, Defeng Xing, Chuan Chen, Duu&#8208;Jong Lee, Chuan Chen, Water Research. 268(None)] 2024. https://openalex.org/W4403154407
-
-                Anaerobic ammonium oxidation bacteria (AAOB), distinguished by their unique autotrophic nitrogen metabolism, hold pivotal positions in the global nitrogen cycle and environmental biotechnologies. However, the ecophysiology and evolution of AAOB remain poorly understood, attributed to the absence of monocultures. Hence, a comprehensive elucidation of the AAOB-dominated core microbiome, anammox core, is imperative to further completing the theory of engineered nitrogen removal and ecological roles of anammox. Performing taxonomic and phylogenetic analyses on collected genome repertoires, we show here that Candidatus Brocadia and Candidatus Kuenenia possesses a more compact core than Candidatus Jettenia, which partly explains why the latter has a less common ecological presence. Evidence of gene flow is particularly striking in functions related to biosynthesis and oxygen detoxification, underscoring the evolutionary forces driving lineage and core differentiation. Furthermore, CRISPR spacer traceback of the AAOB metagenome-assembled genomes (MAGs) reveals a series of genetic traces for the concealed phages. By reconceptualizing the functional divergence of AAOB with the historical role of phages, we ultimately propose a coevolutionary framework to understand the evolutionary trajectory of anammox microecology. The discoveries provided in this study offer new insights into understanding the evolution of AAOB and the ecology of anammox.</description>
-      <author>Quan Zhang, Xiao-Ming Ji, Xueting Wang, Wei Wang, Xijun Xu, Qi Zhang, Defeng Xing, Chuan Chen, Duu&#8208;Jong Lee, Chuan Chen</author>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.watres.2024.122580</guid>
-    </item>
-    <item>
       <title>Self-Inhibition Phenomena in Cu&lt;sub&gt;3&lt;/sub&gt;Pt Oxidation by CO&lt;sub&gt;2&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acs.jpclett.4c02218</link>
       <description>Sheng Wang, Shyam Bharatkumar Patel, J. Anibal Boscoboinik, Adrian Hunt, Iradwikanari Waluyo, Guangwen Zhou, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4403183740
@@ -518,16 +588,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/jmor.21783</guid>
     </item>
     <item>
-      <title>Oxygen Isotope Exchange Between Dust Aggregates and Ambient Nebular Gas</title>
-      <link>https://doi.org/10.48550/arxiv.2409.02736</link>
-      <description>Sota Arakawa, Daiki Yamamoto, Lily Ishizaki, Tamami Okamoto, Noriyuki Kawasaki, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403160420
-
-                Meteorites and their components exhibit a diverse range of oxygen isotope compositions, and the isotopic exchange timescale between dust grains and ambient gas is a key parameter for understanding the spatiotemporal evolution of the solar nebula. As dust grains existed as macroscopic aggregates in the solar nebula, it is necessary to consider the isotopic exchange timescales for these aggregates. Here, we theoretically estimate the isotope exchange timescales between dust aggregates and ambient vapor. The isotope exchange process between aggregates and ambient vapor is divided into four processes: (i) supply of gas molecules to the aggregate surface, (ii) diffusion of molecules within the aggregate, (iii) isotope exchange on the surface of constituent particles, and (iv) isotope diffusion within the particles. We evaluate these timescales and assess which one becomes the rate-determining step. We reveal that the isotope exchange timescale is approximately the same as that of the constituent particles when the aggregate radius is smaller than the critical value, which is a few centimeters when considering the exchange reaction between amorphous forsterite aggregates and water vapor.</description>
-      <author>Sota Arakawa, Daiki Yamamoto, Lily Ishizaki, Tamami Okamoto, Noriyuki Kawasaki</author>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2409.02736</guid>
-    </item>
-    <item>
       <title>Transformation Dynamics of Nanosized Bi Films into Semiconductor Films of Bismuth Oxide in the Cold Plasma Device</title>
       <link>https://doi.org/10.1002/pssb.202400364</link>
       <description>Emrah Ko&#231;, B. G. Salamov, T. G. Mammadov, Nelli N. Lebedeva, V. I. Orbukh, physica status solidi (b). None(None)] 2024. https://openalex.org/W4403204707
@@ -538,14 +598,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/pssb.202400364</guid>
     </item>
     <item>
-      <title>AN ADVANCED APPROACH TO THE DEFINITION OF THE &#8220;MILKY WAY GALAXIES-ANALOGUES&#8221;</title>
-      <link>https://doi.org/10.15407/knit2024.04.081</link>
-      <description>Ya. S. Yatskiv, P. N. Fedorov, D. V. Dobrycheva, O. Sergijenko, A. A. Vasylenko, Artem Dmytrenko, Vladislav Khramtsov, O. V. KOMPANIIETS, Kosm&#236;&#269;na nauka &#236; tehnolog&#236;&#226;. 30(4)] 2024. https://openalex.org/W4403160335
+      <title>Gas&#8211;Liquid&#8211;Solid Three-Phase Boundary in Scanning Electrochemical Cell Microscopy</title>
+      <link>https://doi.org/10.1021/acsmeasuresciau.4c00061</link>
+      <description>C. Hyun Ryu, Depdeep Mandal, Hang Ren, ACS Measurement Science Au. None(None)] 2024. https://openalex.org/W4403297057
 
-                Our Galaxy &#8212; the Milky Way &#8212; has certain features of the structure and evolution. The morphological, photometric, kinematic, and chemodynamical properties are usually considered in search for the Milky Way galaxies-analogues (MWAs). The discovery of MWA galaxies with a larger number of simultaneous selection parameters, as well as more stringent constraints on a given parameter, yields a sample of MWA galaxies with properties closer to the true properties of the Milky Way. So, in general, such MW parameters as the morphological type, luminosity, color indices, structural parameters (size, bar, bulge, thin and thick disks, inner ring, halo), bulge- to-total ratio, stellar mass, star formation rate, metallicity, and rotation velocity were used in various combinations for comparison with other galaxies. However, the offset of some MW features in the multi-parameter space of MWAs features should be significant. The paper aims to give a brief overview of the problematics and to present our approach for studying Milky Way and MWAs match- ing characteristics (this project is supported by the National Research Fund of Ukraine). We propose to enlarge as much as possible the number of Milky Way features and compile various samples of MWAs in our co-moving cosmological volume for their further optimization. Such features can include 3D-kinematics of star&#8217;s movement in certain regions, low oxygen content on the periphery, low nuclear activity, and the lack of significant merging over the past 10 Gyrs (isolation criterion). This approach will make it possible to widely formulate the necessary and sufficient conditions for the detection of MWA galaxies as well as to reveal other MW multiwave- length features</description>
-      <author>Ya. S. Yatskiv, P. N. Fedorov, D. V. Dobrycheva, O. Sergijenko, A. A. Vasylenko, Artem Dmytrenko, Vladislav Khramtsov, O. V. KOMPANIIETS</author>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.15407/knit2024.04.081</guid>
+                The gas&#8211;liquid&#8211;solid interface plays a crucial role in various electrochemical energy conversion devices, including fuel cells and electrolyzers. Understanding the effect of gas transfer on the electrochemistry at this three-phase interface is a grand challenge. Scanning electrochemical cell microscopy (SECCM) is an emerging technique for mapping the heterogeneity in electrochemical activity; it also inherently features a three-phase boundary at the nanodroplet cell. Herein, we quantitatively analyze the role of the three-phase boundary in SECCM involving gas via finite element simulation. Oxygen reduction reaction is used as an example for reaction with a gas reactant, which shows that interfacial gas transfer can enhance the overall mass transport of reactant, allowing measuring current density of several A/cm2. The hydrogen evolution reaction is used as an example for reaction with a gas product, and fast interfacial gas transfer kinetics can significantly reduce the concentration of dissolved gas near the electrode. This helps to measure electrode kinetics at a high current density without the complication of gas bubble formation. The contribution of interfacial gas transfer can be understood by directly comparing its kinetics to the mass transfer coefficient from the solution. Our findings aid the quantitative application of SECCM in studying electrochemical reactions involving gases, establishing a basis for investigating electrochemistry at the three-phase boundary.</description>
+      <author>C. Hyun Ryu, Depdeep Mandal, Hang Ren</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmeasuresciau.4c00061</guid>
     </item>
     <item>
       <title>Insight into Structure, Regulatable Photoluminescence of Stably Self and Codoped Phosphor Ba&lt;sub&gt;3&lt;/sub&gt;Y&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;6&lt;/sub&gt;O&lt;sub&gt;15&lt;/sub&gt;: Dy/Eu for &lt;i&gt;n&lt;/i&gt;UV &lt;i&gt;w&lt;/i&gt;LEDs</title>
@@ -576,6 +636,16 @@
       <author>Hongchuan Cong, Peidong Han, Ziqi Zhou, Sun Zhong, Guang Xi</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0231525</guid>
+    </item>
+    <item>
+      <title>Mycoplasma pneumoniae Mediastinal Lymphadenitis in Children: A Case Series and a Review of the Literature</title>
+      <link>https://doi.org/10.1097/inf.0000000000004578</link>
+      <description>Laura Martino, Maria Cristina Savastano, Rosa Morello, Ilaria Lazzareschi, Francesco Proli, Giulia Bersani, Marilena La Sorda, Piero Valentini, Danilo Buonsenso, The Pediatric Infectious Disease Journal. None(None)] 2024. https://openalex.org/W4403299606
+
+                To the Editors: Mycoplasma pneumoniae is a common cause of upper and lower respiratory tract infections in children. The most frequent clinical manifestations include pharyngotonsillitis, acute bronchitis and community-acquired pneumonia, which is usually mild and self-limited while it can be severe and complicated in patients with immunodeficiency and chronic cardiorespiratory diseases. Mycoplasma pneumoniae infection accounts for 10%&#8211;40% of community-acquired pneumonia in children between 9 and 14 years old, and it is less frequent before 5 years of age.1,2 Mycoplasma pneumoniae infection can also be responsible for rare extrapulmonary manifestations.3,4 Macrolides (azithromycin, clarithromycin, erythromycin) are the recommended first-line treatment for moderate to severe Mycoplasma pneumoniae infection in school-aged children.5,6 However, the efficacy and clinical benefit of antibiotic therapy for this kind of infection is controversial. In this article, we report the cases of 2 children with Mycoplasma pneumoniae infection detected through polymerase chain reaction on nasopharyngeal swab who were admitted to our emergency department for persistent fever and had radiologic evidence of parenchymal hypoventilation and severe mediastinal lymphadenitis suspicious of active pulmonary tuberculosis. In addition, we performed a review literature to better investigate the association between Mycoplasma pneumoniae and mediastinal lymphadenitis. CASE 1 A 12-year-old girl with no significant medical history was admitted to our emergency department for fever for 4 days and chest pain. She came back from Romania the month before the appearance of clinical manifestations, where she met her grandfather who was receiving antitubercular treatment. The patient had just completed a 3-day treatment with clarithromycin prescribed by her pediatrician without clinical benefit. She had not experienced increased work of breathing and her vital parameters were the following: temperature 37.7&#176;C, blood pressure, heart rate, respiratory rate and peripheral oxygen saturation were normal. The physical examination showed bilateral basal hypophonesis in the respiratory auscultation, with abolished vesicular murmur, no wheezing. Blood laboratory tests revealed a C-reactive protein of 173.5 mg/L [normal values (n.v.) 0.00&#8211;5.00 mg/L], white blood cells 15.400/mmc (n.v 4.5&#8211;13.000/mmc), neutrophils 11.110/mmc (n.v. 1.5&#8211;6.000/mmc), normal hepato-renal function. Chest radiograph (Fig. 1A) was required and it showed left pleural effusion associated with basal consensual parenchymal hypoventilation and a bit enlarged cardiac shape.FIGURE 1.: Radiologic findings in 2 patients. A: Chest radiograph showing left pleural effusion associated with basal consensual parenchymal hypoventilation; (B) chest CT scan revealing a ribbon-like area of parenchymal consolidation with air bronchogram. This formation is surrounded by several areas of slightly increased density of the pulmonary parenchyma, with ground-glass appearance, with multiple centrilobular micronodules some of which had a tree-in-bud aspect. In the right superior lobe, some calcified nodular formations are described, associated with calcified lymph nodes, compatible with the primary complex. Furthermore, there are several mediastinal lymphadenopathies. C: Chest radiograph showing a right hilar round-shaped parenchymal hypoventilation, surrounded by another medio-basal hypoventilation; (D) Chest CT scan revealing several bilateral areas of parenchymal consolidation, with irregular margins and a confluent appearance, and partially obstructed bronchi; several mediastinal lymphadenopathies, some of which characterized by internal necrosis. CT indicates computed tomography.The patient was started on amoxicillin and clavulanic acid endovenous treatment and was admitted to the pediatric ward. We performed a bedside lung ultrasound showing bilateral pleural effusion and several atelectasis, so the antibiotic treatment was shifted to ceftriaxone. Since we did not observe clinical benefit, we added vancomycin to the treatment. In addition, due to the provenience from a high-tuberculosis (TB) burden country, we performed Mantoux intradermal skin test which resulted positive. Quantiferon test and microbiologic diagnostic tests to find Mycobacterium tuberculosis on 3 samples of sputum were negative. A chest computed tomography (CT) scan (Fig. 1B) was required to better characterize the images revealed with lung ultrasound and it showed a ribbon-like area of parenchymal consolidation with air bronchogram. This formation was surrounded by several areas of slightly increased density of the pulmonary parenchyma, with ground-glass appearance, with multiple centrilobular micronodules some of which had a tree-in-bud aspect. In the right superior lobe, some calcified nodular formations were described, associated with calcified lymph nodes, compatible with the primary complex. Interestingly, the CT scan showed several reactive mediastinal lymphadenopathies. In suspicion of active pulmonary tuberculosis, specific first-line antitubercular treatment was started. Because of the persistence of fever 15 days after the admission and the negativity of microbiologic analysis made on sputum, a fibrobronchoscopy was performed to obtain bronchoalveolar lavage fluid and to do a needle aspiration of the subcarinal lymphadenopathies. Mycoplasma pneumoniae was found both on nasopharyngeal swab and bronchoalveolar lavage fluid. The patient underwent a new chest CT scan 3 weeks later showing a significant reduction of the areas of parenchymal consolidation, whereas the mediastinal lymphadenitis was not resolved at all. In consideration of negativity of microbiologic examinations, during a follow-up evaluation, the antitubercular treatment was interrupted. Long-term follow-up confirmed full recovery and no new diagnosis of TB. CASE 2 A 9-year-old boy with no significant medical history was referred to our emergency department for fever and productive cough for 10 days. He was originally from India and his father was diagnosed with TB 1 year earlier. He had completed a 7-day course of amoxicillin and clavulanic acid on the recommendation of his pediatrician and he was afebrile only 1 day at the end of the antibiotic therapy. On clinical evaluation, his vital parameters were the following: temperature 39.4&#176;C, heart rate 80 bpm, peripheral oxygen saturation 98%&#8211;99%, normal respiratory rate. Physical examination revealed right basal hypophonesis, with diffuse wheezing. Laboratory tests found an increased value of C-reactive protein (39.5 mg/L, n.v. 0.00&#8211;5.00 mg/L), normal white blood cell count (7.890/mmc, n.v 4.5&#8211;13.000/mmc) and neutrophils (6.050/mmc, n.v. 1.5&#8211;6.000/mmc), normal hepatorenal function. Chest radiograph (Fig. 1C) showed a right hilar round-shaped parenchymal hypoventilation, surrounded by another medio-basal hypoventilation compatible with a tubercular excavation. He was admitted to the pediatric ward and isolated according to the suspicion of active pulmonary tuberculosis. We performed Quantiferon test and microscopic, molecular and cultural diagnostic tests on 3 samples of sputum to detect Mycobacterium tuberculosis but all of them resulted negative. Bedside lung ultrasound showed 3 consolidated areas of parenchyma with air-arborized bronchograms and left basal pleural effusion. Chest CT scan (Fig. 1D) performed to better characterize the formations described by radiograph and ultrasound revealed several bilateral areas of parenchymal consolidation, with irregular margins and a confluent appearance, and partially obstructed bronchi. Furthermore, the images showed areas with ground-glass appearance and several centrilobular micronodules, some of which had a tree-in-bud aspect. Also, in this case, there were several mediastinal lymphadenopathies, some of which were characterized by internal necrosis. Because of the high suspicion of tuberculosis, we prescribed first-line antitubercular treatment, interrupted 6 days later for intolerance. To obtain a definitive diagnosis, we required microbiologic analysis also on bronchoalveolar lavage fluid, which excluded a mycobacterium tuberculosis infection so we interrupted antitubercular treatment. The main microbiologic finding was a nasopharyngeal swab positive for Mycoplasma pneumoniae. Since the general clinical conditions of the patient were improving and the fever disappeared 6 days after the admission, we did not prescribe a specific macrolide treatment and we repeated 1 month after the beginning of the clinical manifestations in outpatient setting a lung ultrasound which was normal. Mycoplasma pneumoniae infection in children can cause different and noncharacteristic clinical, laboratory and radiologic manifestations.7 It is often responsible for self-limited community-acquired pneumonia, but sometimes it is the pathogen of severe low respiratory tract inflammation causing atelectasis and massive lung infiltration. In this article, we reported the cases of 2 children who came to our attention for persistent fever and with evidence of basal ipophonesis on respiratory auscultation. In both cases, CT scan showed parenchymal hypoventilation, areas with ground-glass appearance and centrilobular micronodules, some of which with a tree-in-bud aspect, compatible with the suspicion of tuberculosis. Interestingly both had severe mediastinal lymph node swelling. In a retrospective audit, we acknowledge the excessive diagnostic procedures (including invasive ones like CT and bronchoalveolar lavage), due to lack of awareness of this possible Mycoplasma pneumoniae localization and the social risk factors for TB. Pediatric mediastinal lymphadenitis has been rarely reported in literature as a possible radiographic pattern of Mycoplasma pneumoniae infection. Lee et al8 analyzed the CT features of Mycoplasma pneumoniae pneumonia in 11 pediatric patients and they described hilar and/or mediastinal lymphadenopathies in 9 of them. In a Chinese prospective study published in 2016,4 the authors made an analysis of the diagnostic value of CT scan images in Mycoplasma pneumoniae pneumonia during the pediatric age. Among the 1280 children included in the study, 128 (corresponding to 10%) had hilar and/or mediastinal lymphadenitis. Hsieh et al9 described clinical and radiographic features in 39 children with Mycoplasma pneumoniae and they found lymphadenopathy in 5 children, corresponding to 13% of the population. The authors also looked for a relationship between lymphadenopathy, duration of hospitalization, C reactive protein level and patient age but they found no significative values. As van der Pijl et al10 suggested, Mycoplasma pneumoniae infection should be suspected also in adults with radiologic evidence of enlarged mediastinal lymph nodes. These cases highlight the importance of considering Mycoplasma pneumoniae as a possible exclusive cause of mediastinal lymphadenitis, particularly if no other active tuberculosis clues like weight loss or positive interferon gamma release assays are associated. These reports are particularly important nowadays considering the huge increase in postpandemic Mycoplasma pneumoniae infections that is being recorded worldwide.11 As we learned from our experience, in these cases, close follow-up may be more reasonable rather than performing invasive diagnostic procedures. Our literature review showed that many authors focused only on the diagnostic phase, however it should be interesting to examine the clinical and radiologic evolution of these patterns as in our case the patients healed without a specific treatment in few weeks, therefore adding to the available knowledge about possible outcomes of Mycoplasma pneumoniae&#8211;associated mediastinal lymphadenitis.</description>
+      <author>Laura Martino, Maria Cristina Savastano, Rosa Morello, Ilaria Lazzareschi, Francesco Proli, Giulia Bersani, Marilena La Sorda, Piero Valentini, Danilo Buonsenso</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1097/inf.0000000000004578</guid>
     </item>
   </channel>
 </rss>

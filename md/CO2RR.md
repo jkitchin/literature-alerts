@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Oct 13 01:25:12 2024
+Created on Mon Oct 14 01:22:16 2024
 
-Found 58 results from 2024-10-06 to 2024-10-13
+Found 61 results from 2024-10-07 to 2024-10-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -84,17 +84,6 @@ The addition of polar functional groups to porous structures is an effective str
 
     
 
-## COmbined suN-Driven Oxidation and CO2 Reduction for renewable energy storage   
-
-OpenAlex: https://openalex.org/W4403221851    
-Open access: False
-    
-, No host. None(None)] 2020.https://doi.org/10.3030/101006839.
-    
-No abstract    
-
-    
-
 ## Exploring Electrocatalytic CO2 Reduction Over Materials Derived from Cu‐Based Metal‐Organic Frameworks   
 
 OpenAlex: https://openalex.org/W4403195807    
@@ -103,6 +92,17 @@ Open access: False
 [Yining Li](https://openalex.org/A5101546250), [Abhishek Dutta Chowdhury](https://openalex.org/A5037723826), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401551.
     
 The direct valorization of carbon dioxide (CO2) into value‐added chemicals offers an efficient and attractive approach to promoting carbon neutrality. Among the available methods, the electrocatalytic CO2 reduction reaction (eCO2RR) for producing multi‐carbon products (C2+) is gaining attention due to its simplicity. However, achieving selective control over product formation remains a challenge. One key issue is the lack of a reliable correlation between the physicochemical properties of electrocatalytic materials and their activity and selectivity.To address this gap, we conducted a model study in which carbonized CuxZny@C materials, derived from metal‐organic frameworks (MOFs), were synthesized with varying Cu/Zn ratios. The pyrolyzed bimetallic MOFs retained key properties of the original MOFs while also developing new characteristics. These subtle changes in physicochemical properties influenced product selectivity. Our findings showed that higher Zn doping favors the formation of single‐carbon (C1) products, while it is less favorable for multi‐carbon (C2+) products. Optimizing the Cu/Zn ratio was emphasized through characterization techniques, which will help guide the design of improved electrocatalytic systems for the eCO2RR process.    
+
+    
+
+## COmbined suN-Driven Oxidation and CO2 Reduction for renewable energy storage   
+
+OpenAlex: https://openalex.org/W4403221851    
+Open access: False
+    
+, No host. None(None)] 2020.https://doi.org/10.3030/101006839.
+    
+No abstract    
 
     
 
@@ -136,6 +136,17 @@ Open access: False
 [Dongfang Cheng](https://openalex.org/A5028424510), [Gong Zhang](https://openalex.org/A5102444773), [Lulu Li](https://openalex.org/A5100421905), [Xiangcheng Shi](https://openalex.org/A5031229807), [Wenjin Zhu](https://openalex.org/A5079509878), [Xintong Yuan](https://openalex.org/A5030680281), [Lyudmila V. Moskaleva](https://openalex.org/A5050666730), [Peng Zhang](https://openalex.org/A5100364230), [Zhi‐Jian Zhao](https://openalex.org/A5084194253), [Zhi‐Jian Zhao](https://openalex.org/A5084194253), Science China Chemistry. None(None)] 2024.https://doi.org/10.1007/s11426-024-2292-3.
     
 No abstract    
+
+    
+
+## Artificial photosynthetic system for diluted CO2 reduction in gas-solid phase   
+
+OpenAlex: https://openalex.org/W4403328377    
+Open access: True
+    
+[Ya Wang](https://openalex.org/A5067363194), [Jianxin Wei](https://openalex.org/A5020411455), [Hong‐Liang Tang](https://openalex.org/A5101662745), [Le Shao](https://openalex.org/A5102303682), [Long−Zhang Dong](https://openalex.org/A5033346425), [X. Chu](https://openalex.org/A5012693602), [Yanxia Jiang](https://openalex.org/A5017615701), [Guiling Zhang](https://openalex.org/A5055291760), [Fengming Zhang](https://openalex.org/A5066058184), [Ya‐Qian Lan](https://openalex.org/A5060057970), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53066-y.
+    
+Rational design of robust photocatalytic systems to direct capture and in-situ convert diluted CO2 from flue gas is a promising but challenging way to achieve carbon neutrality. Here, we report a new type of host-guest photocatalysts by integrating CO2-enriching ionic liquids and photoactive metal-organic frameworks PCN-250-Fe2M (M = Fe, Co, Ni, Zn, Mn) for artificial photosynthetic diluted CO2 reduction in gas-solid phase. As a result, [Emim]BF4(39.3 wt%)@PCN-250-Fe2Co exhibits a record high CO2-to-CO reduction rate of 313.34 μmol g−1 h−1 under pure CO2 atmosphere and 153.42 μmol g−1 h−1 under diluted CO2 (15%) with about 100% selectivity. In scaled-up experiments with 1.0 g catalyst and natural sunlight irradiation, the concentration of pure and diluted CO2 (15%) could be significantly decreased to below 85% and 10%, respectively, indicating its industrial application potential. Further experiments and theoretical calculations reveal that ionic liquids not only benefit CO2 enrichment, but also form synergistic effect with Co2+ sites in PCN-250-Fe2Co, resulting in a significant reduction in Gibbs energy barrier during the rate-determining step of CO2-to-CO conversion. Artificial photosynthetic diluted CO2 reduction from fuel gas is promising but challenging for carbon neutrality. Here, the authors report a host-guest system by integrating CO2-enriching ionic liquids and photoactive metal-organic frameworks, greatly enhancing CO2-to-CO conversion efficiency.    
 
     
 
@@ -205,17 +216,6 @@ No abstract
 
     
 
-## Author response for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
-
-OpenAlex: https://openalex.org/W4403224004    
-Open access: False
-    
-[Jiangnan Li](https://openalex.org/A5101687908), [Xinyi Duan](https://openalex.org/A5084806004), [Chao Wu](https://openalex.org/A5062302560), [Yucheng Cao](https://openalex.org/A5032642250), [Zhiyao Duan](https://openalex.org/A5007032744), [Peng Zhang](https://openalex.org/A5034984355), [Wenjun Fan](https://openalex.org/A5101310705), [Fuxiang Zhang](https://openalex.org/A5033612713), No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v2/response1.
-    
-No abstract    
-
-    
-
 ## Electrodeposited Cu2o@Cu Hierarchical Structures for Electrocatalytic Co2 Reduction: Morphological Tuning and Copper Mediation   
 
 OpenAlex: https://openalex.org/W4403176058    
@@ -233,6 +233,17 @@ OpenAlex: https://openalex.org/W4403223846
 Open access: False
     
 , No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v1/decision1.
+    
+No abstract    
+
+    
+
+## Author response for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
+
+OpenAlex: https://openalex.org/W4403224004    
+Open access: False
+    
+[Jiangnan Li](https://openalex.org/A5101687908), [Xinyi Duan](https://openalex.org/A5084806004), [Chao Wu](https://openalex.org/A5062302560), [Yucheng Cao](https://openalex.org/A5032642250), [Zhiyao Duan](https://openalex.org/A5007032744), [Peng Zhang](https://openalex.org/A5034984355), [Wenjun Fan](https://openalex.org/A5101310705), [Fuxiang Zhang](https://openalex.org/A5033612713), No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v2/response1.
     
 No abstract    
 
@@ -260,17 +271,6 @@ This study evaluates the greenhouse gas (GHG) impacts of converting municipal so
 
     
 
-## Fabrication of mesoporous sulfated ZnO-modified g-C3N4 and TiO2 photocatalysts for CO2 reduction in gas phase   
-
-OpenAlex: https://openalex.org/W4403157643    
-Open access: False
-    
-[L.A. Al-Hajji](https://openalex.org/A5039200898), [Adel A. Ismail](https://openalex.org/A5087857810), [M. Alsaidi](https://openalex.org/A5052431130), [Ahmed Abdel Nazeer](https://openalex.org/A5082555423), [Ahmed Mohamed El‐Toni](https://openalex.org/A5053395832), [S.F. Al-Ruwayeh](https://openalex.org/A5107769307), [S.A. Ahmed](https://openalex.org/A5103869609), [T. Al-Sharrah](https://openalex.org/A5107769308), Catalysis Today. None(None)] 2024.https://doi.org/10.1016/j.cattod.2024.115089.
-    
-No abstract    
-
-    
-
 ## Convenient partial reduction of CO2 to a useful C1 building block: efficient access to 13C‐labelled N‐heterocyclic carbenes   
 
 OpenAlex: https://openalex.org/W4403214267    
@@ -279,6 +279,17 @@ Open access: False
 [Nicholas A. Phillips](https://openalex.org/A5102128029), [Joshua S. Sapsford](https://openalex.org/A5051394623), [Dániel Csókás](https://openalex.org/A5058011790), [Bianka Kótai](https://openalex.org/A5041928994), [Ines Perez-Tabarnero](https://openalex.org/A5107821512), [Silvia Díez‐González](https://openalex.org/A5068447207), [Daniel Scott](https://openalex.org/A5008359579), [Imre Pápai](https://openalex.org/A5048846178), [Andrew E. Ashley](https://openalex.org/A5089340041), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401179.
     
 The selective, transition metal‐free hydrosilylation of CO2 to CH2(OSiEt3)2 has been achieved under mild conditions and in high isolated yields (up to 90%) using Et3SiH and the simple, easily prepared borohydride catalyst Li+[HB(C6F5)3]−. The resulting CO2‐derived bis(silyl)acetal product – whose mechanism of formation has been interrogated through detailed computational and experimental studies – can be rapidly valorized through the facile synthesis of N‐heterocyclic carbenes, via their corresponding imidazolium salts. By using relatively inexpensive, isotopically enriched 13CO2 this protocol can be exploited to prepare NHC isotopologues that are selectively 13C labelled at the key, ligating C2 position. This provides an electronically responsive 13C NMR spectroscopic handle with dramatically enhanced sensitivity which can directly benefit reactivity studies in both organo‐ and organometallic catalysis, where NHC use is ubiquitous.    
+
+    
+
+## N, S-coordinated Ni single-atom catalysts for efficient CO2 reduction in a zero-gap membrane electrode assembly electrolyzer   
+
+OpenAlex: https://openalex.org/W4403287192    
+Open access: False
+    
+[Ye Eun Jeon](https://openalex.org/A5061452320), [Jumi Hong](https://openalex.org/A5085227326), [Byeong‐Seon An](https://openalex.org/A5006231132), [Hyun You Kim](https://openalex.org/A5021028646), [Chunjoong Kim](https://openalex.org/A5085903184), [Jinwoo Lee](https://openalex.org/A5100398117), [Han-Koo Lee](https://openalex.org/A5029812266), [Jin-Won Park](https://openalex.org/A5101744614), [You Na Ko](https://openalex.org/A5029535447), [Youngeun Kim](https://openalex.org/A5086829943), Materials Today Energy. None(None)] 2024.https://doi.org/10.1016/j.mtener.2024.101706.
+    
+No abstract    
 
     
 
@@ -312,6 +323,17 @@ Open access: True
 [Yu.V. Ivanov](https://openalex.org/A5028585095), [Serhii Krushnevych](https://openalex.org/A5024576741), [H.V. Zhuk](https://openalex.org/A5042431894), [Л.Р. Онопа](https://openalex.org/A5079699978), [O.V. Verbovskyi](https://openalex.org/A5107787365), [Dmitrii Komissarenko](https://openalex.org/A5029606240), Energy Technologies & Resource Saving. 80(3)] 2024.https://doi.org/10.33070/etars.3.2024.04 ([pdf](https://etars-journal.org/index.php/journal/article/download/403/336)).
     
 The presence of carbon dioxyl as a non-combustible admixture in the landfill biogas of solid household waste and the absorption of ambient air into the layer of landfill waste, and therefore its entry into the landfill gas, significantly reduces the concentration of methane in it, which affects the efficient operation of the gas piston engine of the power plant and the reduction of volumes electricity generation. With the use of computer modeling for the composition of biogas with an increased content of N2 and a reduced concentration of CH4 £ 32 %, calculations were made on the enrichment of biogas to concentrations of CH4 in it of 36–44 % due to the use of CO2 amine absorption technologies, in which the costs for the regeneration of the absorbent are compensated by the produced thermal energy of the gas piston engine of the power plant. The removal of carbon dioxide from biogas makes it possible to simultaneously increase the concentration of methane in it at the input to the heat engine, which contributes to the stable and efficient operation of the gas piston engine of the power plant and the increase in the amount of electricity generation as a result of energy utilization of landfill gas. The use of complex biogas utilization technology in the cogeneration mode allows obtaining not only electricity, but also heat, which can be used in absorption amine technologies for CO2 extraction from biogas and thus reducing carbon dioxide emissions into the atmosphere. Bibl. 17, Fig. 9, Tab. 3.    
+
+    
+
+## Boosting Microbial CO2 Electroreduction by the Biocompatible and Electroactive Bimetallic Fe–Mn Oxide Cathode for Acetate Production   
+
+OpenAlex: https://openalex.org/W4403293539    
+Open access: False
+    
+[Jin Du](https://openalex.org/A5042774307), [Hebin Liang](https://openalex.org/A5108578919), [Yan–Rong Zou](https://openalex.org/A5047987597), [Bing Li](https://openalex.org/A5100451284), [Xiaoyan Li](https://openalex.org/A5100459427), [Lin Lin](https://openalex.org/A5090511363), ACS Sustainable Chemistry & Engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.4c06214.
+    
+The electroreduction of carbon dioxide (CO2) to high-value organic chemicals by the microbial electrosynthesis (MES) system relies heavily on the electrochemical properties of the electrode materials. In this work, CO2 reduction for acetate production was greatly boosted by decorating the carbon felt cathode using the Fe–Mn bimetallic oxides, using an enriched anaerobic mixed culture dominated by the homoacetogen Acetobacterium wieringae. In comparison with the unmodified carbon felt as the cathode in the MES reactor, modification with MnFe2O4 increased the acetate production rate from 28 to 78 g/(m2·d), higher than those with MnO at 59 g/(m2·d) and Fe2O3 at 62 g/(m2·d), and the relative abundance of A. wieringae increased dramatically from 51 to 87% in the biofilm. This was probably due to the mediated electron uptake via the redox cycles of Mn(III)/(II) and Fe(III)/(II), improved specific surface area, and enhanced hydrophilicity of the cathode, benefiting from the synergistic effect of Fe and Mn ions. Overall, this study provides a facile and promising electrode modification strategy for MES with Fe–Mn bimetallic oxides for efficient CO2 conversion and acetate production, bringing the world closer to achieving carbon neutrality.    
 
     
 
@@ -359,17 +381,6 @@ Abstract To address the issue of accurately controlling the carbon dioxide envir
 
     
 
-## The Reduction in the Number of CO2 Defects in the Process of Obtaining Breathing Air for Hyperbaric Oxygen Conditions   
-
-OpenAlex: https://openalex.org/W4403162272    
-Open access: False
-    
-[Arkadiusz Woźniak](https://openalex.org/A5070264803), Polish Hyperbaric Research. 82(1)] 2023.https://doi.org/10.2478/phr-2023-0001.
-    
-Abstract Maintaining a stable carbon dioxide content in the process of obtaining breathing air is essential for safe underwater operations and the reduction of the cost of losses resulting from a poor quality product. The paper addresses the modification of the hyperbaric breathing air production process in terms of eliminating harmful carbon dioxide contaminants. It presents the effects of the modifications made to the process in order to minimise the proportion of defects. A description is given of the status of the process before and after the correction in terms of the identified areas of improvement leading to the achievement of the defined critical requirements of the process. Achievement of the objective to rationalise the breathing air production process was confirmed by results of tests carried out at KTPP AMW 1 based on the compressed air supply system of the DGKN - 120 complex 2 .    
-
-    
-
 ## Carbon Dioxide Capture and Sequestration for Production of Synthetic Materials   
 
 OpenAlex: https://openalex.org/W4403219674    
@@ -400,17 +411,6 @@ Open access: True
 [Jiaying Wei](https://openalex.org/A5014167353), [Bin Ge](https://openalex.org/A5029104703), [Ying Zhong](https://openalex.org/A5100307040), [Tik Long Lee](https://openalex.org/A5035720224), [Yi Zhang](https://openalex.org/A5100388118), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-73906-7.
     
 Addressing the rise in global temperatures and the associated increase in greenhouse gases, particularly carbon dioxide, is a critical challenge necessitating innovative approaches within the building sector, a significant contributor to worldwide carbon emissions. While previous studies have demonstrated the prefabrication's potential in reducing emissions, comprehensive assessments using actual project data for buildings constructed entirely with modular methods in Hong Kong are lacking. This study bridges this gap by evaluating the modular integrated construction (MiC) method through an embodied carbon assessment of the Kai Tak Community Isolation Facility. Using comprehensive project data from China State Construction (HK) Limited, the research conducts a comparative analysis between the actual emissions of the MiC method and those of a hypothetical conventional construction approach. Quantitative analysis reveals that MiC achieves a 20.7% reduction in embodied carbon, primarily due to shortened construction timelines, decreased waste generation, and optimized material usage. This significant reduction suggests substantial potential for decreasing the construction industry's carbon footprint. The study provides empirical evidence supporting the environmental benefits of MiC in Hong Kong construction industry, promoting its broader adoption of MiC as a strategy for achieving carbon reduction targets. The findings align with Hong Kong's carbon neutrality goals and contribute to the global initiative to mitigate the effects of climate change.    
-
-    
-
-## The Effects on Climate Change Due to Kitchen Waste Composting and Emissions of Carbon Dioxide   
-
-OpenAlex: https://openalex.org/W4403154375    
-Open access: False
-    
-[Nora’aini Ali](https://openalex.org/A5043105108), [Riaz Husnain](https://openalex.org/A5107767888), [Munir Baber Bakht](https://openalex.org/A5107767889), [Iqbal Tasawar](https://openalex.org/A5107767890), No host. 03(ICCC(special))] 2024.https://doi.org/10.70436/nuijb.v3i02.198.
-    
-The emission of greenhouse gases into the atmosphere due to anthropogenic activities, including the disposal of large quantities of organic kitchen waste into the environment. There is currently no evidence suggesting the likelihood of a future reversal or pause in emissions. The process of carbon sequestration serves to mitigate the emission of greenhouse gases from kitchen organic waste through the creation of compost. Composting is proposed as a potentially effective and cost-efficient solution to address the issue production of kitchen organic waste, which is contributing to environmental pollution. The escalation in complete carbon dioxide and microbial biomass carbon emissions can be attributed to a concurrent reduction in the levels of dissolved organic carbon as the treatments experienced a noteworthy decrease in dissolved organic carbon concentrations. The application of banana and potato compost has been found to have a positive impact on the macro aggregates of soil, leading to an increase in soil stability due to the compost's ability to stabilize soil particles. The study indicate that composting represents the most effective approach for mitigating greenhouse gas emissions originating from kitchen organic waste, while also enhancing the biological and physicochemical characteristics of soil.    
 
     
 
@@ -557,17 +557,6 @@ Direct carboxylation of C–H bonds with CO2 represents an attractive strategy t
 
     
 
-## Structural Reuse of Decommissioned Ski Lift Steel Trusses for Load-Bearing Applications   
-
-OpenAlex: https://openalex.org/W4403187287    
-Open access: True
-    
-[Adrian Kiesel](https://openalex.org/A5107812154), [G Brandi](https://openalex.org/A5088592714), [Jael Schlatter](https://openalex.org/A5107812155), [Andri Gerber](https://openalex.org/A5049697232), [Silke Langenberg](https://openalex.org/A5031598808), Architecture. 4(4)] 2024.https://doi.org/10.3390/architecture4040044.
-    
-The ongoing effects of climate change have led to a rise in global temperature, significantly reducing snow cover and resulting in the abandonment of numerous ski areas across Switzerland. As a result, many ski lifts have been decommissioned and left to deteriorate due to lenient local regulations. To address this issue, this paper presents a case study approach to repurposing steel trusses from abandoned ski lifts for a new structural application within the building industry. The design, sourcing, and construction of a new load-supporting column are described, focusing on reusing the ski lift steel trusses as a whole, without dismantling them into their components. After collection, these elements are adapted to comply with current building standards. By pouring out the hollow structure with the recently developed building material Cleancrete ©, a new load-bearing structure is developed. A comprehensive life cycle assessment (LCA) demonstrates the environmental performance of the steel–Cleancrete hybrid construction, which achieves a global warming potential (GWP) of 536.58 kg CO2-eq. In comparison, alternative designs using wood and concrete exhibited GWP values of 679.45 kg CO2-eq, +26.6%, and 1593.72 kg CO2-eq, +197.02%, respectively. These findings suggest that repurposing abandoned ski lift structures can significantly contribute to sustainable building practices, waste reduction, and the promotion of circular economy principles. The process outlined in this paper holds potential for future applications, particularly in the reuse of other steel components, ensuring continued circularity even as the supply of ski lift structures may dwindle.    
-
-    
-
 ## The use of opioids in late‐stage COPD—Where are we now?   
 
 OpenAlex: https://openalex.org/W4403198556    
@@ -576,6 +565,17 @@ Open access: True
 [Thomas J. Altree](https://openalex.org/A5004506727), [David C. Currow](https://openalex.org/A5007993808), Respirology. None(None)] 2024.https://doi.org/10.1111/resp.14839.
     
 Chronic breathlessness is defined as breathlessness that persists on minimal or no exertion despite the optimal treatment of the underlying disease and other contributing factors.1 It is a cardinal and prevalent symptom of late-stage chronic obstructive pulmonary disease (COPD). Chronic breathlessness is present in about 40% of people with COPD in high-income countries, worsening with age and severity of disease. The majority of people with late-stage COPD experience such breathlessness. COPD is also associated with a high frequency of comorbidities.2 Common symptoms related to COPD and its systemic manifestations include, but are not limited to, long-term pain, sleep disturbance, fatigue and cough. This paper focuses on chronic breathlessness. In COPD at a population level, breathlessness is more strongly associated with mortality than the measurable degree of airway obstruction.3, 4 There is also a relatively poor correlation between pulmonary function tests and the subjective assessments of chronic breathlessness. Other population-level associations with chronic breathlessness include poorer quality of life (physical and mental components)5; greater anxiety and depression; poorer workforce participation in people of working age; greater disability measured on the World Health Organization Disability Assessment Schedule (WHO-DAS); poorer perceived health; less sexual activity; and a smaller Life-Space geographic footprint. In symptom management, the first step in managing chronic breathlessness requires clinicians to ensure that reversible causes are optimally treated. More than one underlying aetiology often contributes to chronic breathlessness and all need to be addressed in each person's management plan. Non-pharmacological interventions include pulmonary rehabilitation, activity pacing, and a handheld battery-operated fan.6 Despite these measures, many people still require pharmacotherapy for the symptom, especially in late-stage disease. Several medications have been assessed in adequately powered studies, yet the only class of medications, to date, which has an evidence base is opioids. There are two main sources to inform clinical considerations of effectiveness of opioids for the symptomatic reduction of chronic breathlessness: meta-analyses; and adequately powered studies. A sub-group analysis of people with COPD and breathlessness in a recent meta-analysis of opioids administered long enough to reach steady state (n = 91) found an overall benefit favouring morphine over placebo.7 This suggests that there is a cohort who likely derive meaningful symptomatic benefit. Since the publication of that study, three large randomized, placebo-controlled studies have been reported (n = 284; n = 156; n = 111).8-10 Each had differing primary endpoints at different times (intensity of worst breathlessness at 1 week,9 intensity of breathlessness now at 1 week),8 and COPD Assessment Test (CAT) scores and PaCO2 at 4 weeks.11 Breathlessness remained unchanged in all three studies, however, two of the three studies reported sub-group analyses that described sub-populations that derived significant benefit. The study by Verberkt et al. found two significant improvements in its secondary outcomes: worst breathlessness at 28 days after commencing the study; and a difference between the active and placebo arms for the CAT score. The study by Ferreira et al. identified that people with the most severe breathlessness (mMRC3, 4) and COPD achieved significant clinical benefit.12 Accurately identifying patient characteristics that predict a beneficial response to regular, low-dose, sustained-release morphine remains a challenge for researchers and clinicians. Basic clinico-demographic factors have been defined in two studies using data from double-blind, placebo-controlled, randomized controlled trials.13, 14 In the study by Johnson et al. from four clinical studies of morphine for the symptomatic reduction of breathlessness (n = 213), baseline predictors of a greater likelihood of response included more intense breathlessness and younger age.14 Body mass index (BMI) was not available in this study. In the study by Verberkt et al., 21 participants in the active arm of their parallel arm clinical trial had a ≥1 point improvement on a 0–10 numerical rating scale.13 The two baseline predictors of response were higher baseline intensity of breathlessness and higher BMI. Age was not a predictor in this study. To date, exploring key single nucleotide polymorphisms (SNPs) relating to opioid metabolism, transport or receptors has not found predictors of response.15 There appear to be a group of people (who are yet to be characterized from their pre-treatment characteristics) who have a marked benefit from regular, low-dose, sustained release morphine. The benefits are described by trial participants as 'life-changing' and persisted for at least 6 months with no increase in morphine dose.16 Although there are small numbers who describe benefits of this magnitude, the benefits were further reflected in improved actigraph-measured activity and increased Global Impression of Change scores. Opioids for pain have a wide therapeutic index. Morphine for the symptomatic reduction of chronic breathlessness may have a far narrower window for net benefit. Many people reflect that even mild adverse events negate any symptomatic reduction in chronic breathlessness.17 In a meta-analysis of 64 studies, of which five had data on safety measures, Verberkt et al. found no evidence of rising carbon dioxide partial pressures nor of any drop in oxygenation—two principal concerns when prescribing opioids for people with COPD.11 A pre-planned secondary analysis of the BEAMS study found that daytime drowsiness was no worse in the morphine arm than placebo and that, at 4 weeks, participants who reported reduced breathlessness with morphine also had improvement in Leeds Sleep Evaluation Questionnaire (LSEQ) domain scores including perceived sleep quality and daytime functioning.18 However, objective assessment of the effects of low-dose, slow-release morphine during sleep in people with COPD and chronic breathlessness has identified that although there is no negative effect on next-day alertness (including driving simulator performance), morphine causes lighter sleep depth, higher mean and peak transcutaneous CO2 and lower oxygen saturations.18, 19 The longer-term consequences of these changes are yet to be determined. Of note, any therapeutic benefit does not seem to have a whole-of-class effect for opioids. Studies utilizing oxycodone do not seem to have any signal of symptomatic benefit. Interestingly, it may also be that not all underlying aetiologies of chronic breathlessness derive the same benefits. One study in pulmonary artery hypertension saw no signal of benefit in the primary nor secondary outcomes and another in interstitial lung disease.20 At present, data from a meta-analysis and two large, randomized, controlled studies indicate that in people with severe chronic breathlessness secondary to COPD, a short trial of low dose, sustained release morphine is safe and potentially beneficial. When introduced at a low dose and titrated slowly (at least 1 week between commencing and titration), a sub-group of people derive significant, sometimes life-changing, benefit. Developing accurate methods to identify which patients derive benefit from regular, low-dose, sustained-release morphine is a critical goal for future research. T.J.A. had no disclosures. D.C.C. is an Advisory Board member and consultant for Helsinn Pharmaceuticals; consultant and receives payment for intellectual property with Mayne Pharma International Pty Ltd.; subcontractor to Nous Group Pty Ltd.; Board member for icare Dust Diseases Care NSW; Board member/Director NSW Health Pathology; Board member/Director for Chris O'Brien Lifehouse Cancer Centre.    
+
+    
+
+## Structural Reuse of Decommissioned Ski Lift Steel Trusses for Load-Bearing Applications   
+
+OpenAlex: https://openalex.org/W4403187287    
+Open access: True
+    
+[Adrian Kiesel](https://openalex.org/A5107812154), [G Brandi](https://openalex.org/A5088592714), [Jael Schlatter](https://openalex.org/A5107812155), [Andri Gerber](https://openalex.org/A5049697232), [Silke Langenberg](https://openalex.org/A5031598808), Architecture. 4(4)] 2024.https://doi.org/10.3390/architecture4040044.
+    
+The ongoing effects of climate change have led to a rise in global temperature, significantly reducing snow cover and resulting in the abandonment of numerous ski areas across Switzerland. As a result, many ski lifts have been decommissioned and left to deteriorate due to lenient local regulations. To address this issue, this paper presents a case study approach to repurposing steel trusses from abandoned ski lifts for a new structural application within the building industry. The design, sourcing, and construction of a new load-supporting column are described, focusing on reusing the ski lift steel trusses as a whole, without dismantling them into their components. After collection, these elements are adapted to comply with current building standards. By pouring out the hollow structure with the recently developed building material Cleancrete ©, a new load-bearing structure is developed. A comprehensive life cycle assessment (LCA) demonstrates the environmental performance of the steel–Cleancrete hybrid construction, which achieves a global warming potential (GWP) of 536.58 kg CO2-eq. In comparison, alternative designs using wood and concrete exhibited GWP values of 679.45 kg CO2-eq, +26.6%, and 1593.72 kg CO2-eq, +197.02%, respectively. These findings suggest that repurposing abandoned ski lift structures can significantly contribute to sustainable building practices, waste reduction, and the promotion of circular economy principles. The process outlined in this paper holds potential for future applications, particularly in the reuse of other steel components, ensuring continued circularity even as the supply of ski lift structures may dwindle.    
 
     
 
@@ -590,6 +590,17 @@ The search for the microorganisms responsible for sulfide formation and corrosio
 
     
 
+## A Straightforward Model for Quantifying Local pH Gradients Governing the Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4403326469    
+Open access: False
+    
+[Samuel S. Veroneau](https://openalex.org/A5056764620), [Alaina C. Hartnett](https://openalex.org/A5067806774), [Jaeyune Ryu](https://openalex.org/A5023905645), [Hyukhun Hong](https://openalex.org/A5006456333), [Cyrille Costentin](https://openalex.org/A5069277615), [Daniel G. Nocera](https://openalex.org/A5056442308), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c09521.
+    
+The production and consumption of protons by an electrocatalyst will, under certain conditions, generate localized microenvironments with properties distinct from those of the bulk solution. These local properties are particularly impactful for reactions involving proton-coupled electron transfer, where the generation of locally basic or acidic environments may significantly influence the energy efficiency and reaction selectivity of the electrocatalyst. Whereas local pH environments have been observed and characterized in reductive half-reactions, including the CO2 reduction and hydrogen evolution reactions, the incompatibility of conventional techniques and materials has limited studies in oxidative half-reactions, including the oxygen evolution reaction (OER), which provides the reducing equivalents for solar-to-fuels electrolysis. With the straightforward parameters bulk pH, buffer composition and pKa, and mass transport, we develop a model for describing local pH as a function of current density regardless of the microscopic details of the mechanism. Using an acid-stable PbOx OER catalyst, we observe the formation and dissipation of pH gradients during the OER and validate the model with voltammetric and potentiometric studies. The model predicts how local acidic environments can develop over a narrow OER current density window, thus providing further motivation for the development of OER catalysts that are stable to acid, even when operating in basic aqueous conditions. More generally, the model is not restricted to the OER and is useful for determining the onset of local pH gradients for other electrocatalytic reactions that involve the consumption or generation of protons in energy conversion reactions.    
+
+    
+
 ## Vibration reduction of an electric vehicle heat exchanger by controlling the polarization of its ferroelectric ceramics   
 
 OpenAlex: https://openalex.org/W4403266565    
@@ -601,6 +612,17 @@ The growing requirements in terms of CO2 emissions reduction in transports rende
 
     
 
+## The impact of future climate and land use changes on runoff in the Min-Tuo River Basin   
+
+OpenAlex: https://openalex.org/W4403296968    
+Open access: True
+    
+[Nan Jiang](https://openalex.org/A5041222483), [Quan Ni](https://openalex.org/A5109799001), [Yu Deng](https://openalex.org/A5051975245), [Mingyan Wu](https://openalex.org/A5103062117), [Ziying Yue](https://openalex.org/A5101272455), [Mengyu Zhu](https://openalex.org/A5100984570), [Huaizhun Ren](https://openalex.org/A5108998993), [Yuxuan Wang](https://openalex.org/A5100375979), Journal of Water and Climate Change. None(None)] 2024.https://doi.org/10.2166/wcc.2024.384 ([pdf](https://iwaponline.com/jwcc/article-pdf/doi/10.2166/wcc.2024.384/1493288/jwc2024384.pdf)).
+    
+ABSTRACT In the face of escalating global warming and intensified human activities, it is crucial to quantitatively assess the combined impacts of future climate change (CC) and land use change (LUCC) on runoff. This study employed simulation results of future CC and LUCC in the Min-Tuo River Basin, utilizing the CMIP6 and cellular automata (CA)-Markov models in conjunction with the SWAT model to project runoff changes under various scenarios. The findings indicate an anticipated increase in both precipitation and average temperature in the future. Projected LUCC involves a reduction in arable land and grassland, alongside expansion of other land cover types. Changes in basin runoff are predominantly influenced by precipitation, with a higher likelihood of extreme events as CO2 emissions increase. Across four emission scenarios, the impact of future CC on basin runoff varies from −5.21 to +6.09%, while future LUCC's contribution ranges from +0.05 to +0.07%. When both factors are considered, the overall trend indicates a decrease in future runoff changes, ranging from −0.27 to +0.17%. These findings underscore the greater influence of CC on runoff compared with LUCC, thereby providing a scientific foundation for ecological conservation and water resources management in the basin.    
+
+    
+
 ## Fine-tuning syngas composition using laser surface modified silver electrode for CO2 electroreduction   
 
 OpenAlex: https://openalex.org/W4403218032    
@@ -609,6 +631,17 @@ Open access: False
 [Austin McKee](https://openalex.org/A5036503837), [Wuji Huang](https://openalex.org/A5009794335), [Ninggang Shen](https://openalex.org/A5056553738), [Syed Mubeen](https://openalex.org/A5102911514), [Hongtao Ding](https://openalex.org/A5031341048), Journal of Laser Applications. 36(4)] 2024.https://doi.org/10.2351/7.0001542.
     
 Electrochemical reduction of CO2 and H2O to synthesize gas (H2 and CO mixture) is of significant interest due to established industrial pathways to tune the H2 to CO composition to generate an array of valuable products including methanol, synthetic fuel, synthetic natural gas, and hydrogen. However, controlled H2:CO ratios are challenging on CO-active electrocatalysts like silver. We demonstrate that applying laser engineering to adjust the surface wetting state of a silver electrocatalyst with water contact angles θw ranging from 47° and 135°, H2:CO ratios can be tuned from 1 to 4 at modest potentials (−0.7 V versus RHE, RHE—reversible hydrogen electrode) with almost total unity Faradaic efficiency. Both hydrophilic (θw = 47°) and more hydrophobic (θw = 135°) samples showed an increasing H2:CO trend with rising potentials (0.7–1.2 V versus RHE) due to mass transport. Conversely, silver electrocatalyst with θw = 110° exhibited a constant H2:CO ratio of 4. This indicates catalyst wettability potentially affects *H and *HOCO intermediates’ adsorption, impacting H2:CO ratios. Our results show the feasibility of syngas composition control on silver catalysts via surface wettability, providing a simpler alternative to complex multicomponent electrocatalytic systems.    
+
+    
+
+## Climate impact of alternative organic fertilizers using life cycle assessment   
+
+OpenAlex: https://openalex.org/W4403288892    
+Open access: True
+    
+[Xiaoyi Meng](https://openalex.org/A5059926845), [Marie Trydeman Knudsen](https://openalex.org/A5065730794), [Søren O. Petersen](https://openalex.org/A5038448586), [Henrik Bjarne Møller](https://openalex.org/A5010992813), [Fatemeh Hashemi](https://openalex.org/A5074297771), Environmental Research Letters. None(None)] 2024.https://doi.org/10.1088/1748-9326/ad8589.
+    
+Abstract Anaerobic digestion is a common method for managing liquid manure and other biomasses, generating biogas as a renewable energy source. The resulting digestate can be processed into organic fertilizers to enhance nutrient recycling, but its environmental impact warrants investigation. In this study, a life cycle assessment (LCA) was conducted to examine the impact of fertilizers derived from cattle slurry and grass-clover co-digestion on global warming (measured in CO2 equivalent) compared to untreated cattle slurry. The different treatments analyzed include untreated cattle slurry, digestate, liquid fractions from digestate separation, and an enriched liquid nitrogen-sulfur product derived from post-processing of biogas and drying the solid fraction. The functional units of this study were 100 kg of total nitrogen in the final organic fertilizer (FU1) with the cradle-to-processing gate boundary and the harvesting 1 ton of spring barley dry matter (FU2) with the cradle-to-field application boundary. The carbon footprint ranged from 24 to 49% of the baseline scenario for FU1, and from -6 to 177% of the baseline scenario for FU2. The main contributors to the carbon footprint of fertilizers included greenhouse gas emissions from storage and field application. However, biogas production from anaerobic digestion, together with the concurrent mitigation of CH4 emissions during storage, contributed most to a reduction in the overall global warming potential associated with anaerobic digestate and its liquid fraction. This study showed large climate prospects in replacing untreated slurry as organic fertilizer with alternatives resulting from its anaerobic digestion and post-treatment.    
 
     
 
@@ -634,13 +667,13 @@ This PhD thesis investigates the flexibility of metal-organic frameworks (MOFs) 
 
     
 
-## 12201 Ketogenic-diet As A Trigger Of First Episode Diabetic Ketoacidosis In A Woman Living With Type 1 Diabetes Mellitus   
+## Hyperthermia‐induced changes in blood flow dynamics and their influence on cardiac output   
 
-OpenAlex: https://openalex.org/W4403153887    
-Open access: True
+OpenAlex: https://openalex.org/W4403297931    
+Open access: False
     
-[Margarida Cruz](https://openalex.org/A5060989480), [Alex N Gonzalez Bossolo](https://openalex.org/A5022612153), [Gabriel Jose Mora Osoria](https://openalex.org/A5030452799), Journal of the Endocrine Society. 8(Supplement_1)] 2024.https://doi.org/10.1210/jendso/bvae163.826.
+[A. Morgan](https://openalex.org/A5051632535), The Journal of Physiology. None(None)] 2024.https://doi.org/10.1113/jp287447.
     
-Abstract Disclosure: M.E. Chacon Cruz: None. A.N. Gonzalez Bossolo: None. G.J. Mora Osoria: None. A number of dietary patterns have been proposed as an effective method for weight reduction. A keto diet is a strict low-carbohydrate and high-fat diet. The reduction in carbohydrates enables the body to rely on fat as a predominant energy source leading to a state of ketosis. However, a serious but rare complication of the ketogenic diet is ketoacidosis associated with low carbohydrate intake, which should be cautiously monitored in people with a predisposition to the condition, such patient with diabetes mellitus type 1. We report the case of a female patient living with type 1 diabetes mellitus female who developed her first episodes of diabetic ketoacidosis (DKA) as the following the course of ketogenic diet. A 53 y/o Female patient with past medical history diabetes mellitus type 1 and pernicious anemia went emergency department complaining pelvic pain associated with weakness, nausea and vomiting for about 1 day of evolution. Patient also refers that during the past 2 weeks she has been doing a detox and taking some herbal and tea. Other physical examinations were unremarkable except for moderate dehydration. The initial testing revealed patients meet criteria for severe diabetes ketoacidosis (DKA) with a pH: 7.04, CO2 15, serum central bicarbonate in 6 mmol/L and elevated blood glucose in 504 mg/dl and positive urine and serum ketones, C-Peptide less than 0.02 ng/ml. and glycosylated hemoglobin in 8.25%. She was admitted to the intensive care unit and treated with intravenous saline, intravenous insulin infusion, and electrolyte repletion. Blood glucose levels and metabolic acidosis improved. After DKA resolved patient refers that week started with Keto-diet and was restricting carbohydrates. Patient was discharge home with multiple injection insulin and followed by Endocrinologist services in the external clinic for a follow up. This case illustrates the challenges and the importance of dietary history providing clues to the diagnosis. If we had never asked her about her diet, we would not have found the reason that brought her to the DKA. This case demonstrates the development of DKA following ketogenic diet in a patient with type 1 diabetes. It is important for physicians to be aware of this rare potential complication of ketogenic diet which is infrequently reported in literature. Therefore, physicians should be cognizant of the complications and risks, and benefits of the ketogenic diet. Risks and benefits of the ketogenic diet should be discussed with patients before initiation of this diet. The patient was followed in an outpatient clinic with Endocrinologist service for evaluation for an insulin pump. Presentation: 6/1/2024    
+Our understanding of cardiovascular haemodynamics and the factors that govern it is vital for appreciating the workings of a healthy physiological system, as well as elucidating the pathophysiology behind disease and identifying potential treatment options. A recent article in The Journal of Physiology by Watanabe et al. (2024) sought to contribute to this field by exploring the impact of passive hyperthermia on human circulation and the underlying central and peripheral mechanisms. It has traditionally been believed that blood circulation is driven by the pressure created by the heart (Furst & González-Alonso, 2023). In hyperthermia, cardiac output is increased, and the traditional perspective would suggest that this is mainly due to an increased heart rate, supplemented by central mechanisms such as increased left ventricular systolic function. However, studies have shown that an increased heart rate alone is not sufficient to increase cardiac output (Joyce & Wang, 2021). Also, central mechanisms exert their effects with increases in core temperature at rest, which would not explain the increase in cardiac output seen with peripheral hyperthermia that does not affect core temperature. Therefore, it appears that other factors are involved in increasing cardiac output in peripheral hyperthermia, potentially including increased blood velocity or increased systemic vascular conductance. The exact mechanisms and their relationship to central forces are not well elucidated, and this is what Watanabe et al. (2024) set out to understand. The main aim set by Watanabe et al. (2024) was to explore how single-leg, two-leg, and whole-body hyperthermia affect peripheral and systemic circulation, as well as the metabolic and cardiorespiratory responses. They also aimed to investigate the factors affecting central haemodynamic changes in hyperthermia. Their hypothesis was that passive hyperthermia increases cardiac output, not due to central mechanisms like left ventricular contractility, but rather due to peripheral haemodynamic changes. The researchers enrolled eight young healthy males, and each participant was randomly assigned four counterbalanced protocols. These were 3 h of no heating as a control, 3 h of single-leg heating, 3 h of two-leg heating and 2.5 h of whole-body heating. The latter is shorter due to participant discomfort leading to early termination. The heating was provided using a water-perfused garment, and extensive measurements were taken throughout the protocols. To evaluate leg, arm, and head haemodynamics, ultrasound was used to measure blood flow at the common femoral artery, brachial artery, and common and internal carotid arteries. To evaluate cardiac function, echocardiography was used. Participants also underwent blood sampling, as well as respiratory, metabolic, blood pressure, and heart rate measurements. In single-leg heating, the study found that blood flow only increased in the leg. The two-leg and whole-body heating protocols, however, showed increased blood flow to both legs and forearms, with whole-body heating also leading to increased extracranial blood flow. None of the heating trials showed a significant difference in anterior cerebral blood flow. This finding is particularly interesting given the progressive increase in cardiac output across protocols. These results suggest that local mechanisms controlling blood flow differ across body sites, and that increased cardiac output alone does not increase perfusion. Importantly, the authors found that blood velocity increased to a greater extent than vessel diameter size, indicating that velocity predominantly contributed to the observed increase in blood flow. Additionally, there was a progressive increase in systemic vascular conductance across all heating protocols, along with increased blood kinetic energy in both two-leg and whole-body heating. Using correlational analysis, the authors showcased that increased local temperature was associated with increased local blood flow and vascular conductance. Further analysis suggests that increased cardiac output is linked with not only the aforementioned factors but also increased blood velocity and kinetic energy in the limbs and head. This supports the study's hypothesis and highlights that peripheral mechanisms may be more important than previously thought. Evaluating cardiac function revealed some key findings. Left ventricular ejection fraction and heart rate increased in all heating sessions. However, alongside the increase in heart rate was a reduction in left ventricular filling and ejection times. Despite this, stroke volume was increased or maintained in all heating protocols. This finding is likely to be due to an increase in venous return to the heart, with an increase in left ventricular end diastolic volume and a reduction in the end systolic volume. Collectively, these results indicate that hyperthermia not only drives heart rate but crucially increases venous return to enhance cardiac output. This goes against existing literature, which suggests hyperthermia reduces preload (Wilson & Crandall, 2011), possibly due to factors such as the method of assessing preload, environmental conditions, and participant characteristics. Further research would help to confirm this result. A unique finding was that whole-body heating increased left ventricular twist and untwisting rate, an effect not seen with leg-only heating. This suggests that systemic hyperthermia may engage more comprehensive cardiac adjustments, and that peripheral heating increases cardiac output without necessarily relying on central cardiac mechanisms. These findings come together to suggest an alternative model of circulation, contrary to the traditional cardio-centric view. The study found that respiratory and metabolic responses only changed in the whole-body heating protocol. There was an increase in oxygen uptake, carbon dioxide output, pulmonary ventilation, and end-tidal O2 pressure. In contrast, these changes were not observed in leg-only heating, yet cardiac output still increased. This differentiation suggests that metabolic and respiratory factors are not essential for increasing blood flow in peripheral hyperthermia, thereby strengthening the hypothesis of the study. However, it also shows the ongoing role of central mechanisms in certain hyperthermia conditions. This study is thoughtfully planned and provides robust data supporting the hypothesis. However, it should be noted that there are some limitations. One such limitation is the small and specific sample size of young healthy males. Although this is understandable in the context of an initial study exploring physiology in a normal state, it does reduce the generalisability of the results to other populations such as females and older groups with cardiovascular illness. Additionally, many measurements were derived using ultrasound, which tends to have a degree of inter-operator variability. It is unclear whether one or more operators were involved in conducting these measurements. However, the authors provide a thorough explanation of the ultrasound techniques used. Furthermore, the study did not directly measure right heart function or venous flow to the heart, instead inferring venous return data from their left ventricular recordings. Although this may lead to inaccuracies, similar techniques have been previously used and support this method. The authors also acknowledged that they used correlational analysis to evaluate the link between cardiac output and peripheral circulation, appropriately highlighting that this does not establish causation. The authors provide us with new insights into how human circulation is controlled, in a field where specific mechanisms behind heat-related changes are not well understood. With a deeper understanding of peripheral haemodynamics and the relationship with cardiac output, we are better positioned to conduct future research and explore treatment options for cardiovascular disease. For example, one can evaluate these findings in the context of heart failure and the potential use of lower limb heating to improve cardiac output. Although this has been previously studied (Inoue et al., 2012), there is a dearth of literature. Another interesting possibility is the use of the measurements from this study, such as blood kinetic energy, as markers of disease onset and progression, given their suggested importance. This is an important study from Watanabe et al. (2024), employing a well thought out methodology to suggest that peripheral mechanisms in passive hyperthermia are key to controlling blood circulation. They demonstrate that increases in cardiac output are linked with increases in local velocity and kinetic energy of blood flow secondary to heat, rather than central mechanisms. While there are some limitations to the research, the findings provide new insights into the study of human circulation and establish a platform for further research. This should include further physiological research in diverse populations to confirm the results, as well as clinical research to understand changes found in pathology and to identify possible treatment options. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article. No competing interests declared. Sole author. None.    
 
     

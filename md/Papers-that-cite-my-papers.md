@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Oct 13 01:25:23 2024
+Created on Mon Oct 14 01:22:31 2024
 
-Found 28 results from 2024-10-06 to 2024-10-13
+Found 27 results from 2024-10-07 to 2024-10-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs   
-
-OpenAlex: https://openalex.org/W4403154326    
-Open access: False
-    
-[Qinsheng He](https://openalex.org/A5033320475), [Tian‐Yu Sun](https://openalex.org/A5102920672), [Liang‐Feng Huang](https://openalex.org/A5059637267), Acta Materialia. None(None)] 2024.https://doi.org/10.1016/j.actamat.2024.120447.
-    
-No abstract    
-
-    
-
-## Nanohybrids of B- and N-codoped reduced graphene oxide/CeO2–Co3O4 nanocomposite for efficient water oxidation   
-
-OpenAlex: https://openalex.org/W4403156921    
-Open access: False
-    
-[Zohreh Shaghaghi](https://openalex.org/A5029537307), [Farnaz Ebrahimi](https://openalex.org/A5104336884), [Sahar Jafari Nivlouei](https://openalex.org/A5101655675), Materials Chemistry and Physics. 328(None)] 2024.https://doi.org/10.1016/j.matchemphys.2024.129984.
-    
-No abstract    
-
-    
-
-## Pathways and enhancement strategies for magnesium hardness removal in modified induced crystallization softening   
-
-OpenAlex: https://openalex.org/W4403157311    
-Open access: False
-    
-[Changgeng Li](https://openalex.org/A5102757661), [Cheng Liu](https://openalex.org/A5100384277), [Yun Han](https://openalex.org/A5052938560), [Weibin Xu](https://openalex.org/A5101194440), [Bing Yan](https://openalex.org/A5100760851), [Aijun Du](https://openalex.org/A5082839443), [Qin Li](https://openalex.org/A5100438898), [Qi Yu](https://openalex.org/A5100337768), Journal of Environmental Management. 370(None)] 2024.https://doi.org/10.1016/j.jenvman.2024.122729.
-    
-Elevated levels of total hardness in drinking water can readily result in scaling, which poses a threat to both the safety of water quality and the convenience of its use. While there is a wealth of research on the removal of calcium hardness, there is a dearth of studies focusing on the removal of magnesium hardness. In light of this, the present study employs modified induced crystallization softening (MICS) to delineate the removal pathways and mechanisms of magnesium hardness, and to investigate viable methods for its enhancement and application. Our research has determined that magnesium hardness can be effectively removed from water through the MICS, with the dosage of softening agents (NaOH) being a significant factor that influences this removal, whereas the fixed bed height within the fluidized bed exerts minimal impact on the process. In the low-dose stage (less than 250 mg/L), when the pH is below 10.0, up to 20% of magnesium hardness can be removed, predominantly through the crystallization of (Ca    
-
-    
-
-## Selective Area Epitaxy of Gallium Phosphide-Based Nanostructures on Microsphere Lithography-Patterned Si Wafers for Visible Light Optoelectronics   
-
-OpenAlex: https://openalex.org/W4403157700    
-Open access: False
-    
-[Vladimir V. Fedorov](https://openalex.org/A5043170458), [Vladimir V. Fedorov](https://openalex.org/A5043170458), [A. V. Pavlov](https://openalex.org/A5008181530), [Sergey Komarov](https://openalex.org/A5002034432), [E. I. Moiseev](https://openalex.org/A5072425838), [Dmitry Miniv](https://openalex.org/A5017501458), [А. К. Кавеев](https://openalex.org/A5066506304), [A. Smirnov](https://openalex.org/A5048753962), [Д. А. Кириленко](https://openalex.org/A5067894635), [А М Можаров](https://openalex.org/A5083636356), [Ivan S. Mukhin](https://openalex.org/A5000270191), Materials Research Bulletin. None(None)] 2024.https://doi.org/10.1016/j.materresbull.2024.113126.
-    
-No abstract    
-
-    
 
 ## Important structural parameter for curvature effect of TM-N4 embeded C70 fullerenes as electrocatalysts for CO2 reduction interpreted with machine learning and first-principles calculations   
 
@@ -303,23 +259,56 @@ Catalytic oxidation through the transfer of lattice oxygen from metal oxides to 
 
     
 
+## Interfacial Electric Fields Drive Rearrangement of Adsorbed Cysteine and Electrolyte Ions on Au Electrodes   
+
+OpenAlex: https://openalex.org/W4403298496    
+Open access: False
+    
+[H. Sudhakar](https://openalex.org/A5029388830), [Julie Renner](https://openalex.org/A5008988786), [Robert E. Warburton](https://openalex.org/A5037300903), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c04216.
+    
+Electrode surfaces modified with peptides or other biomolecules are of great interest for applications in catalysis and separations. At the electrochemical interface, the structure of biomolecular adsorbates may be sensitive to the applied potential and the distribution of solvent and ions near the electrode surface. Herein, periodic density functional theory (DFT) calculations are used to describe changes in the adsorption structure of the l-cysteine amino acid on Au(111) as a function of applied potential. This theoretical study reveals the fundamental mechanisms of potential-dependent rearrangement of cysteine on electrode surfaces. These systems are analyzed using a hybrid quantum–classical computational approach that combines constant-potential periodic DFT with a classical representation of the liquid electrolyte. In agreement with experimental measurements, grand canonical thermodynamic analyses suggest that the cysteine exists primarily in its zwitterionic form over a wide range of applied potentials. The structure of adsorbed zwitterionic cysteine is dictated by the cationic ammonium and anionic carboxylate functional groups, where these charged moieties experience competing Coulombic interactions with the charged Au(111) surface and the electrolyte ions within the electric double layer. These competing interactions drive the rearrangement of cysteine with applied potential, which in turn determines the nature of ion structuring at the interface. The potential-dependent free energies of cysteine zwitterions are also significantly influenced by the ionic strength of the electrolyte because of the interactions between charged zwitterion functional groups and oppositely charged electrolyte ions. Understanding the interplay between adsorption structure, applied potential, and electrolyte ion structuring can guide the assembly of structured biomolecules on solid surfaces. The impact of zwitterionic amino acids and peptides on near-surface electrolyte composition may be further exploited to tailor microenvironments for various applications of interfacial electrochemistry.    
+
+    
+
+## Cu−based bimetallic sites' p-d orbital hybridization promotes CO asymmetric coupling conversion to C2 products   
+
+OpenAlex: https://openalex.org/W4403302059    
+Open access: False
+    
+[Jiayong Xiao](https://openalex.org/A5044127926), [Jofrey J. Masana](https://openalex.org/A5010561224), [Ming Qiu](https://openalex.org/A5087111486), [Ying Yu](https://openalex.org/A5077909232), Materials Today Physics. None(None)] 2024.https://doi.org/10.1016/j.mtphys.2024.101565.
+    
+No abstract    
+
+    
+
+## Recent advances and modulation tactics in Ru- and Ir-based electrocatalysts for PEMWE anodes at large current densities   
+
+OpenAlex: https://openalex.org/W4403302755    
+Open access: True
+    
+[Yu Wang](https://openalex.org/A5100445300), [Haijing Yan](https://openalex.org/A5106715998), [Honggang Fu](https://openalex.org/A5055445325), eScience. None(None)] 2024.https://doi.org/10.1016/j.esci.2024.100323.
+    
+No abstract    
+
+    
+
+## Atomic Manipulation to Create High-Valent Fe4+ for Efficient and Ultrastable Oxygen Evolution at Industrial-Level Current Density   
+
+OpenAlex: https://openalex.org/W4403318150    
+Open access: False
+    
+[Yong Feng](https://openalex.org/A5022590049), [Huan Wang](https://openalex.org/A5101419633), [Kun Feng](https://openalex.org/A5019954363), [Chengyu Li](https://openalex.org/A5100385484), [Shuo Li](https://openalex.org/A5100386630), [Cheng Lü](https://openalex.org/A5007660467), [Youyong Li](https://openalex.org/A5035944985), [Ding Ma](https://openalex.org/A5055822249), [Jun Zhong](https://openalex.org/A5010968064), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c09259.
+    
+Manipulating the electronic structure of a catalyst at the atomic level is an effective but challenging way to improve the catalytic performance. Here, by stretching the Fe-O bond in FeOOH with an inserted Mo atom, a Fe-O-Mo unit can be created, which will induce the formation of high-valent Fe    
+
+    
+
 ## Used Literature   
 
 OpenAlex: https://openalex.org/W4403326060    
 Open access: False
     
 , No host. None(None)] 2024.https://doi.org/10.1002/9781394173310.oth.
-    
-No abstract    
-
-    
-
-## On the selection of control structures using process operability analysis   
-
-OpenAlex: https://openalex.org/W4403155926    
-Open access: False
-    
-[Victor Alves](https://openalex.org/A5033439256), [Fernando V. Lima](https://openalex.org/A5008955099), Control Engineering Practice. 153(None)] 2024.https://doi.org/10.1016/j.conengprac.2024.106117.
     
 No abstract    
 
