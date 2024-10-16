@@ -33,7 +33,7 @@ jobs:
             source .venv/bin/activate
             lazotero -f catalysis.yml -s 1
             oa-discord -f catalysis.yml -s 1
-            litalerts -s 1 -f catalysis.yaml
+            litalerts -s 1 -f catalysis.yml
           
           
 
