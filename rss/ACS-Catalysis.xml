@@ -4,108 +4,48 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Oct 2024 01:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 11:36:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mechanistic Investigation into Copper(I) Hydride Catalyzed Formic Acid Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c05008</link>
-      <description>Roel L. M. Bienenmann, Anne Olarte Loyo, Martin Lutz, Dani&#235;l L. J. Broere, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403171995
-
-                Copper(I) hydride complexes are typically known to react with CO2 to form their corresponding copper formate counterparts. However, recently it has been observed that some multinuclear copper hydrides can feature the opposite reactivity and catalyze the dehydrogenation of formic acid. Here we report the use of a multinuclear PNNP copper hydride complex as an active (pre)catalyst for this reaction. Mechanistic investigations provide insights into the catalyst resting state and the rate-determining step and identify an off-cycle species that is responsible for the unexpected substrate inhibition in this reaction.</description>
-      <author>Roel L. M. Bienenmann, Anne Olarte Loyo, Martin Lutz, Dani&#235;l L. J. Broere</author>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05008</guid>
-    </item>
-    <item>
-      <title>Influence of Trace Metal in Plastics on Catalyst Activity and Reusability during Polyolefins Upcycling with Polyoxometalates</title>
-      <link>https://doi.org/10.1021/acscatal.4c04719</link>
-      <description>Hongda Zhu, Justin T. Douglas, Bala Subramaniam, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403172589
-
-                No abstract</description>
-      <author>Hongda Zhu, Justin T. Douglas, Bala Subramaniam</author>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04719</guid>
-    </item>
-    <item>
-      <title>Synthesis of &#946;&lt;i&gt;-&lt;/i&gt;(Hetero)aryl Ketones via Ligand-Enabled Nondirected C&#8211;H Alkylation</title>
-      <link>https://doi.org/10.1021/acscatal.4c04319</link>
-      <description>Yogesh Bairagi, Sandip Porey, Sai V. C. Vummaleti, Xinglong Zhang, Goutam Kumar Lahiri, Debabrata Maiti, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403184597
-
-                No abstract</description>
-      <author>Yogesh Bairagi, Sandip Porey, Sai V. C. Vummaleti, Xinglong Zhang, Goutam Kumar Lahiri, Debabrata Maiti</author>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04319</guid>
-    </item>
-    <item>
-      <title>Micelle-Dependent Spontaneous Formation of Gold(I) in Nanodendritic Chloride-Bridged Particles with Catalytic Activity for Cyclization of Alkynylanilines in an Aqueous Environment</title>
-      <link>https://doi.org/10.1021/acscatal.4c03427</link>
-      <description>Gaganpreet Kaur, Gaspard Hedouin, Raki Mandal, Jacek B. Jasi&#324;ski, Xiaoqing He, Min Su, Juejing Liu, Xiaofeng Guo, Justin R. Walensky, Gary A. Baker, Fabrice Gallou, Sachin Handa, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403184781
-
-                No abstract</description>
-      <author>Gaganpreet Kaur, Gaspard Hedouin, Raki Mandal, Jacek B. Jasi&#324;ski, Xiaoqing He, Min Su, Juejing Liu, Xiaofeng Guo, Justin R. Walensky, Gary A. Baker, Fabrice Gallou, Sachin Handa</author>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03427</guid>
-    </item>
-    <item>
-      <title>Lattice-Disordered Boron Nitride Colloidal Catalyst for Low-Temperature Selective Methane Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c03534</link>
-      <description>Younhwa Kim, Hyesung Choi, Yong Jin Kim, Sungsu Kang, Chanhee Choi, Jihoon Kim, Chyan Kyung Song, Jae Hyuck Sung, Jeong Woo Han, Jungwon Park, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403190398
-
-                No abstract</description>
-      <author>Younhwa Kim, Hyesung Choi, Yong Jin Kim, Sungsu Kang, Chanhee Choi, Jihoon Kim, Chyan Kyung Song, Jae Hyuck Sung, Jeong Woo Han, Jungwon Park</author>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03534</guid>
-    </item>
-    <item>
-      <title>Deciphering the Link between Zeolite Crystal Size, Br&#248;nsted Acid Site Distribution, and Dual-Cycle Selectivity in Methanol-to-Olefins over Zeolite</title>
-      <link>https://doi.org/10.1021/acscatal.4c05555</link>
-      <description>Xiaogang Wang, Yan Wang, Yueying Chu, Yinghao Liu, Min Hu, Feng Deng, Jun Xu, Jihong Yu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403194508
-
-                No abstract</description>
-      <author>Xiaogang Wang, Yan Wang, Yueying Chu, Yinghao Liu, Min Hu, Feng Deng, Jun Xu, Jihong Yu</author>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05555</guid>
-    </item>
-    <item>
-      <title>Imaging Gas-Phase Methyl Radicals over a Ag/SiO&lt;sub&gt;2&lt;/sub&gt; Catalyst during the Partial Oxidation of Methanol</title>
-      <link>https://doi.org/10.1021/acscatal.4c03741</link>
-      <description>Sebastian Pfaff, Erxiong Huang, Jonathan H. Frank, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403199484
-
-                No abstract</description>
-      <author>Sebastian Pfaff, Erxiong Huang, Jonathan H. Frank</author>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03741</guid>
-    </item>
-    <item>
-      <title>Species Heterogeneity and Synergy to Boost Photocatalytic Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acscatal.4c03593</link>
-      <description>Jiankang Zhang, Panzhe Qiao, Hao Tan, Lin Cui, Zhan Zhou, Dong Lin, Yongxiao Tuo, Yong Qin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403208208
-
-                No abstract</description>
-      <author>Jiankang Zhang, Panzhe Qiao, Hao Tan, Lin Cui, Zhan Zhou, Dong Lin, Yongxiao Tuo, Yong Qin</author>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03593</guid>
-    </item>
     <item>
       <title>In Situ ORR Dynamics of Non-Precious Transition Metal Electrocatalysts: the Case of Manganese Antimony X-ides</title>
       <link>https://doi.org/10.1021/acscatal.4c03260</link>
       <description>Gaurav A. Kamat, Melissa E. Kreider, Johanna Schr&#246;der, Roulince Bobby Dukuly, Joseph T. Perryman, Bj&#248;rt Joensen, Jesse E. Matthews, Ashton M. Aleman, Michaela Burke Stevens, Thomas F. Jaramillo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403213342
 
-                No abstract</description>
+                Electrocatalysts enable the efficient conversion of molecules for applications in energy devices, but due to their material stability, the electrochemical performance tends to change over time under operating conditions. For the oxygen reduction reaction (ORR), transition metal x-ides (oxides, nitrides, sulfides) are a class of highly tunable, low-cost catalysts being considered as possible alternatives to expensive Pt-based materials. In this work, we take a multimodal characterization approach to investigate manganese antimony (MnSb) oxide, nitride, and sulfide nanoparticles for the ORR and characterize their performance in both acidic and alkaline conditions. X-ray photoelectron spectroscopy and transmission electron microscopy confirm that the three materials are of comparable morphology and polycrystallinity while having distinct elemental compositions. In pH 13 electrolyte, the nitride demonstrates a &#8764;40 mV higher ORR onset potential (at &#8722;0.1 mA cm&#8211;2geo) than both the oxide and sulfide and has nearly 100% selectivity toward H2O. In comparison, in pH 1 electrolyte, the nitride and sulfide are &#8764;300 mV higher in ORR onset (at &#8722;0.1 mA cm&#8211;2geo) than the oxide and both exhibit greater selectivity to H2O than the oxide. In situ Mn K-edge synchrotron X-ray absorption reveals that, despite significant material changes to the MnSb sulfide and nitride under electrochemical conditions, their Mn-oxidation state and ligand environment do not converge to those found in the MnSb oxide. Furthermore, online inductively coupled plasma&#8211;mass spectrometry of the materials elucidates distinct mechanisms of continuous dissolution and nanoparticle detachment that are functions of pH, potential, and material composition. Measuring changes in complex, nonprecious materials under dynamic electrochemical operation conditions provides insight into how an as-synthesized material can transform into a distinct active catalytic species. Moreover, correlating orthogonal online/operando/in situ measurement techniques in similar catalyst operation conditions is a powerful method for resolving mechanistic information about degradation and performance changes.</description>
       <author>Gaurav A. Kamat, Melissa E. Kreider, Johanna Schr&#246;der, Roulince Bobby Dukuly, Joseph T. Perryman, Bj&#248;rt Joensen, Jesse E. Matthews, Ashton M. Aleman, Michaela Burke Stevens, Thomas F. Jaramillo</author>
       <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03260</guid>
     </item>
     <item>
-      <title>Synthesis of &#945;-Quaternary Aldehydes via a Dual Ni/Rh-Catalyzed Tandem Isomerization&#8211;Propargylation Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c05021</link>
-      <description>Justin Ching, M. Jaschinski, Eun Seo Choi, Mark Lautens, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403213785
+      <title>Grain Boundary-Derived Local Amorphization Enhances Acidic OER</title>
+      <link>https://doi.org/10.1021/acscatal.4c03746</link>
+      <description>Mingze Sun, Helai Huang, Xiangfu Niu, Shuyan Gong, Zhengwen Li, Jinjie Fang, Xiang Liu, Yanjun Chen, Haohong Duan, Zhongbin Zhuang, Shigeaki Nagao, Yuki Aoki, Liang Zhang, Zhiqiang Niu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403244892
 
-                No abstract</description>
-      <author>Justin Ching, M. Jaschinski, Eun Seo Choi, Mark Lautens</author>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05021</guid>
+                IrOx of the amorphous phase has long been recognized to exhibit higher catalytic activity than crystalline analogues toward oxygen evolution reaction (OER) but always at the expense of reduced stability. Here, we report an ultrathin Ir surface with high-density grain boundaries (GBs), which transforms into locally stabilized amorphous IrOx by forming an Ir/IrOx interface under OER conditions. The catalyst displays a low overpotential of 263 mV at 10 mA cm&#8211;2 and a mass activity (5.8 A mgIr&#8211;1 at 1.53 V) of over 90-fold higher than that of commercial IrO2, along with long-term stability for over 350 h. The activity enhancement arises from the stronger binding strength of *OOH on the amorphous GBs relative to the crystalline region, thus breaking the scaling relationship between *OH and *OOH and reducing the energy barrier for the potential determining step of the OER. Proton exchange membrane water electrolysis using this catalyst achieves 2.7 A cm&#8211;2 at 2 V cell voltage and operates stably at 1 A cm&#8211;2 for over 200 h. The stabilization of the amorphous IrOx phase at GBs may accelerate the development of more active and robust acidic OER electrocatalysts.</description>
+      <author>Mingze Sun, Helai Huang, Xiangfu Niu, Shuyan Gong, Zhengwen Li, Jinjie Fang, Xiang Liu, Yanjun Chen, Haohong Duan, Zhongbin Zhuang, Shigeaki Nagao, Yuki Aoki, Liang Zhang, Zhiqiang Niu</author>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03746</guid>
+    </item>
+    <item>
+      <title>Synthesis of Medium-Sized Rings by &lt;i&gt;Z&lt;/i&gt;-Retentive Asymmetric Allylic Substitution-Enabled Intermolecular Cascade Cyclization under Iridium/Cinchona Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05266</link>
+      <description>Yang&#8208;Zi Liu, Chao Zheng, Shu&#8208;Li You, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403250785
+
+                Medium-sized rings are important structural units in organic molecules of significant interest. However, their efficient synthesis, especially in a highly enantioselective manner, has been a formidable challenge. Herein, we report an enantioselective synthesis of medium-sized aza-rings by a Z-retentive asymmetric allylic substitution-enabled intermolecular cascade cyclization via iridium/cinchona dual catalysis. The reaction was performed under mild conditions and with good functional group tolerance. Various nine- to eleven-membered aza-rings can be afforded in moderate to high yields (up to 98%) and enantioselectivities (up to 93% ee). The utilization of both Z-linear allylic dipole precursor and iridium/cinchona binary catalyst is critical for the desired reactivity.</description>
+      <author>Yang&#8208;Zi Liu, Chao Zheng, Shu&#8208;Li You</author>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05266</guid>
+    </item>
+    <item>
+      <title>NH&lt;sub&gt;3&lt;/sub&gt; Synthesis from N&lt;sub&gt;1&lt;/sub&gt; Compounds by Photocatalytic Technology: Promotion Mechanism, Reaction Pathways, and Efficiency Evaluation Criteria</title>
+      <link>https://doi.org/10.1021/acscatal.4c04732</link>
+      <description>Chunling Zhang, Jieyuan Li, Ruimin Chen, Shujie Shen, Jielin Wang, Yanjuan Sun, Fan Dong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403252707
+
+                Ammonia (NH3) is one of the most important chemicals in high demand in human society. Given the high-energy consumption and environmental impact associated with the Haber&#8211;Bosch process, an environmentally friendly method for NH3 synthesis under ambient conditions should be developed. The reduction of N1 compounds, including nitrate (NO3&#8211;), nitrite (NO2&#8211;), and nitric oxide (NOx), are more energetically favorable than that of nitrogen (N2), avoiding the activation of inert N&#8801;N bonds. Photocatalytic NH3 synthesis from N1 compounds' reduction, which utilizes sunlight to convert contaminants into value-added chemicals, offers an intriguing approach to NH3 synthesis. This review offers a comprehensive overview of the progress of research in photocatalysis technology for reduction of N1 compounds to NH3 synthesis. Insight into the efficiency promotion mechanism is provided, particularly focusing on the optimization of the photocatalyst, the activation and mass transfer of reactants, and the redox synergistic promotion. Moreover, the reaction pathways are summarized. The efficiency evaluation criteria, including accurate quantification of the NH3 yield, comprehensive performance evaluation indicators, and NH3 separation and recovery, are discussed to guide systematic and reliable NH3 synthesis. Finally, the current achievements and future challenges of photocatalytic N1 compounds to NH3 synthesis are critically discussed.</description>
+      <author>Chunling Zhang, Jieyuan Li, Ruimin Chen, Shujie Shen, Jielin Wang, Yanjuan Sun, Fan Dong</author>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04732</guid>
     </item>
     <item>
       <title>Substrate and Product Selective Supramolecular Catalysis by Pillar[5]arene in the Alkylation of Primary Linear Amines with Allyl Bromide</title>
@@ -146,6 +86,46 @@
       <author>Santiago Nahuel Chanquia, Jan Philipp Bittner, Paul Santner, L&#225;szl&#243; Kriszti&#225;n Szab&#243;, Julie Nielsen, Marcus Lyngdahl &#216;hlenschl&#230;ger, Ahmad Gheis Sarvari, Aske H&#248;j Merrild, Kathrine Gravlund Fo&#823;nss, Daily Jaron, Linnea Ute Lutz, Selin Kara, Bekir Engin Eser</author>
       <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02970</guid>
+    </item>
+    <item>
+      <title>Suzuki&#8211;Miyaura Cross-Couplings of Alkylboranes: Transmetalation Studies and Synthesis of Model Organopalladium Pretransmetalation Species</title>
+      <link>https://doi.org/10.1021/acscatal.4c05053</link>
+      <description>Angus Olding, Curtis C. Ho, Nigel T. Lucas, Brian F. Yates, Allan J. Canty, Alex C. Bissember, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403347353
+
+                No abstract</description>
+      <author>Angus Olding, Curtis C. Ho, Nigel T. Lucas, Brian F. Yates, Allan J. Canty, Alex C. Bissember</author>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05053</guid>
+    </item>
+    <item>
+      <title>Species Heterogeneity and Synergy to Boost Photocatalytic Hydrogen Evolution</title>
+      <link>https://doi.org/10.1021/acscatal.4c03593</link>
+      <description>Jiankang Zhang, Panzhe Qiao, Hao Tan, Lin Cui, Zhan Zhou, Dong Lin, Yongxiao Tuo, Yong Qin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403208208
+
+                Integrating different reaction sites, such as single atom (SA), nanocluster (NC), and oxygen vacancy (Ov), in a specific photocatalyst affords a new prospect to break through the limitations of SA catalysis. However, the intrinsic influence mechanisms of cocatalyst size and Ov on the photocatalytic performance and synergy are still not well unraveled. Herein, we report the synthesis and investigation of atomically dispersed Pt-based photocatalysts surface-confined in Ov-containing porous TiO2 nanoflowers via atomic layer deposition. The SA&#8211;NC coexisting PtSA+NC@TiO2 photocatalysts exhibit optimized hydrogen evolution activity (2260 h&#8211;1), which is 3.6-fold higher than that of PtSA@TiO2 counterparts. Moreover, the activity can be further remarkably enhanced to 3645 h&#8211;1 by engineering the cocatalyst size and Ov concentration. We identify the ad-/desorption sites of the reacting molecules and unravel the synergistic catalytic mechanisms of the active speciesthrough characterizations and density functional theory calculations: Pt NC is responsible for the adsorption&#8211;dissociation of H2O molecules preferentially adsorbed on Ti sites and meanwhile lowers the d-band center of Pt SA responsible for the desorption of H2 molecules, and the adjacent Ov can stabilize the cocatalysts and modify the electronic energy distribution of Pt NC, achieving the optimized adsorption state toward the *OH intermediate. The present multiple-site engineering concept and mechanistic insights are expected to shed light on the rational design of atomically dispersed photocatalysts.</description>
+      <author>Jiankang Zhang, Panzhe Qiao, Hao Tan, Lin Cui, Zhan Zhou, Dong Lin, Yongxiao Tuo, Yong Qin</author>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03593</guid>
+    </item>
+    <item>
+      <title>Synthesis of &#945;-Quaternary Aldehydes via a Dual Ni/Rh-Catalyzed Tandem Isomerization&#8211;Propargylation Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c05021</link>
+      <description>Justin Ching, Megan Jaschinski, Eun Seo Choi, Mark Lautens, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403213785
+
+                A dual Ni/Rh catalysis sequence toward &#945;-quaternary aldehydes is reported. An intramolecular approach from allyl propargyl carbonates alongside the intermolecular transformation from allylic alcohols and propargyl carbonates is described. Initial decarboxylative oxidative addition into the propargyl group by nickel generates the electrophilic Ni&#8211;allenyl species, and the resulting allylic alkoxide is isomerized into the nucleophilic Rh&#8211;enolate species. Upon recombination, the &#945;-propargylated aldehyde is obtained. Preliminary enantioselective results are reported, with varying protocols using either a dual metal single ligand or a dual metal dual ligand system.</description>
+      <author>Justin Ching, Megan Jaschinski, Eun Seo Choi, Mark Lautens</author>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05021</guid>
+    </item>
+    <item>
+      <title>Irreversible Catalyst Deactivation Mechanisms of PdO/&#947;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Catalysts for Lean Methane Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c03690</link>
+      <description>Hai-Ying Chen, Yuliana K. Lugo-Jos&#233;, Joseph M. Fedeyko, Todd J. Toops, Jacqueline Fidler, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403245003
+
+                PdO/&#947;-Al2O3 catalysts suffer from gradual and irreversible catalyst deactivation under lean CH4 oxidation conditions, especially in a wet feed. Time-resolved CO chemisorption DRIFTS measurements are conducted systematically on a series of PdO/&#947;-Al2O3 catalysts to probe the surface reactivity of PdO nanoparticles after various in situ pretreatments. At 80 &#176;C, CO barely adsorbs on fully oxidized PdO surfaces but interacts with coordinatively unsaturated Pd sites, causing gradual reduction of the PdO surfaces. This results in the formation of characteristic IR bands on various metallic Pd0 sites. By monitoring and comparing the formation kinetics of these IR bands on samples before and after CH4 oxidation, we theorize that the irreversible catalyst deactivation during CH4 oxidation is caused by PdO surface reconstruction, in which coordinatively unsaturated Pd sites gradually become fully coordinated by oxygen. Effectively, the surface reconstruction leads to the formation of a passivation layer on the PdO nanoparticles, which hinders their ability in activating CH4, and hence the subsequent oxidation reaction. Temperature-programmed reduction with CO as the reductant (CO-TPR) reveals that the passivation layer formed during CH4 oxidation is significant enough to increase the reduction temperature of PdO nanoparticles of the 3.0% PdO/&#947;-Al2O3 samples, although such an effect is less obvious for the 0.4% PdO/&#947;-Al2O3 samples. On the other hand, it is also discovered that the passivation layer is not completely inert. Under certain reaction conditions, with some being relatively mild, such as low-temperature CO oxidation in a net lean atmosphere and in the presence of H2O, the passivation layer can undergo structure change which results in regeneration or even activation of CH4 oxidation activity of an already deactivated catalyst. Additionally, it is discovered that the fully coordinated Pd&#8211;O surface is a metastable phase under CH4 oxidation conditions. In the presence of H2O and at ambient temperatures, surfaces with coordinatively unsaturated Pd sites are thermodynamically more favorable.</description>
+      <author>Hai-Ying Chen, Yuliana K. Lugo-Jos&#233;, Joseph M. Fedeyko, Todd J. Toops, Jacqueline Fidler</author>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03690</guid>
     </item>
   </channel>
 </rss>
