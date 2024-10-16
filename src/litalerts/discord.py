@@ -45,4 +45,6 @@ def oa_discord(fname, since):
         for result in results:
             msg = get_md_item(topic, result)
             # Messages seem to be limited to 2000 characters
-            webhook.send(msg[0:1980] + ' <truncated> ...')
+            if len(msg) > 2000:
+                msg = msg[0:1980] + ' <truncated> ...'
+            webhook.send(msg)
