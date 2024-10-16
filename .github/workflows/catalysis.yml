@@ -30,6 +30,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
+            source .venv/bin/activate
             lazotero -f catalysis.yml -s 1
             oa-discord -f catalysis.yml -s 1
             litalerts -s 1 -f catalysis.yaml
