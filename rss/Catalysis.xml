@@ -1,0 +1,41 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Catalysis</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Catalysis.xml</link>
+    <description>Catalysis journals</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Oct 2024 07:31:51 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Contents list</title>
+      <link>https://doi.org/10.1039/d4cy90086c</link>
+      <description>, Catalysis Science &amp; Technology. 14(20)] 2024. https://openalex.org/W4403394124
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy90086c</guid>
+    </item>
+    <item>
+      <title>Back cover</title>
+      <link>https://doi.org/10.1039/d4cy90087a</link>
+      <description>, Catalysis Science &amp; Technology. 14(20)] 2024. https://openalex.org/W4403394431
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy90087a</guid>
+    </item>
+    <item>
+      <title>Front cover</title>
+      <link>https://doi.org/10.1039/d4cy90085e</link>
+      <description>, Catalysis Science &amp; Technology. 14(20)] 2024. https://openalex.org/W4403394646
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy90085e</guid>
+    </item>
+  </channel>
+</rss>
