@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Oct 16 11:36:34 2024
+Created on Thu Oct 17 01:20:30 2024
 
-Found 12 results from 2024-10-09 to 2024-10-16
+Found 9 results from 2024-10-10 to 2024-10-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## In Situ ORR Dynamics of Non-Precious Transition Metal Electrocatalysts: the Case of Manganese Antimony X-ides   
-
-OpenAlex: https://openalex.org/W4403213342    
-Open access: False
-    
-[Gaurav A. Kamat](https://openalex.org/A5039639617), [Melissa E. Kreider](https://openalex.org/A5081607636), [Johanna Schröder](https://openalex.org/A5030228814), [Roulince Bobby Dukuly](https://openalex.org/A5093893786), [Joseph T. Perryman](https://openalex.org/A5013456013), [Bjørt Joensen](https://openalex.org/A5084371467), [Jesse E. Matthews](https://openalex.org/A5104667539), [Ashton M. Aleman](https://openalex.org/A5058486326), [Michaela Burke Stevens](https://openalex.org/A5016238956), [Thomas F. Jaramillo](https://openalex.org/A5078810774), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03260.
-    
-Electrocatalysts enable the efficient conversion of molecules for applications in energy devices, but due to their material stability, the electrochemical performance tends to change over time under operating conditions. For the oxygen reduction reaction (ORR), transition metal x-ides (oxides, nitrides, sulfides) are a class of highly tunable, low-cost catalysts being considered as possible alternatives to expensive Pt-based materials. In this work, we take a multimodal characterization approach to investigate manganese antimony (MnSb) oxide, nitride, and sulfide nanoparticles for the ORR and characterize their performance in both acidic and alkaline conditions. X-ray photoelectron spectroscopy and transmission electron microscopy confirm that the three materials are of comparable morphology and polycrystallinity while having distinct elemental compositions. In pH 13 electrolyte, the nitride demonstrates a ∼40 mV higher ORR onset potential (at −0.1 mA cm–2geo) than both the oxide and sulfide and has nearly 100% selectivity toward H2O. In comparison, in pH 1 electrolyte, the nitride and sulfide are ∼300 mV higher in ORR onset (at −0.1 mA cm–2geo) than the oxide and both exhibit greater selectivity to H2O than the oxide. In situ Mn K-edge synchrotron X-ray absorption reveals that, despite significant material changes to the MnSb sulfide and nitride under electrochemical conditions, their Mn-oxidation state and ligand environment do not converge to those found in the MnSb oxide. Furthermore, online inductively coupled plasma–mass spectrometry of the materials elucidates distinct mechanisms of continuous dissolution and nanoparticle detachment that are functions of pH, potential, and material composition. Measuring changes in complex, nonprecious materials under dynamic electrochemical operation conditions provides insight into how an as-synthesized material can transform into a distinct active catalytic species. Moreover, correlating orthogonal online/operando/in situ measurement techniques in similar catalyst operation conditions is a powerful method for resolving mechanistic information about degradation and performance changes.    
-
-    
 
 ## Grain Boundary-Derived Local Amorphization Enhances Acidic OER   
 
@@ -102,28 +91,6 @@ Open access: False
 [Angus Olding](https://openalex.org/A5042999031), [Curtis C. Ho](https://openalex.org/A5077666881), [Nigel T. Lucas](https://openalex.org/A5083995578), [Brian F. Yates](https://openalex.org/A5052630690), [Allan J. Canty](https://openalex.org/A5090203823), [Alex C. Bissember](https://openalex.org/A5015929176), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05053.
     
 No abstract    
-
-    
-
-## Species Heterogeneity and Synergy to Boost Photocatalytic Hydrogen Evolution   
-
-OpenAlex: https://openalex.org/W4403208208    
-Open access: False
-    
-[Jiankang Zhang](https://openalex.org/A5061126310), [Panzhe Qiao](https://openalex.org/A5101310078), [Hao Tan](https://openalex.org/A5069910699), [Lin Cui](https://openalex.org/A5077626770), [Zhan Zhou](https://openalex.org/A5060603592), [Dong Lin](https://openalex.org/A5100748799), [Yongxiao Tuo](https://openalex.org/A5081877243), [Yong Qin](https://openalex.org/A5074124495), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03593.
-    
-Integrating different reaction sites, such as single atom (SA), nanocluster (NC), and oxygen vacancy (Ov), in a specific photocatalyst affords a new prospect to break through the limitations of SA catalysis. However, the intrinsic influence mechanisms of cocatalyst size and Ov on the photocatalytic performance and synergy are still not well unraveled. Herein, we report the synthesis and investigation of atomically dispersed Pt-based photocatalysts surface-confined in Ov-containing porous TiO2 nanoflowers via atomic layer deposition. The SA–NC coexisting PtSA+NC@TiO2 photocatalysts exhibit optimized hydrogen evolution activity (2260 h–1), which is 3.6-fold higher than that of PtSA@TiO2 counterparts. Moreover, the activity can be further remarkably enhanced to 3645 h–1 by engineering the cocatalyst size and Ov concentration. We identify the ad-/desorption sites of the reacting molecules and unravel the synergistic catalytic mechanisms of the active speciesthrough characterizations and density functional theory calculations: Pt NC is responsible for the adsorption–dissociation of H2O molecules preferentially adsorbed on Ti sites and meanwhile lowers the d-band center of Pt SA responsible for the desorption of H2 molecules, and the adjacent Ov can stabilize the cocatalysts and modify the electronic energy distribution of Pt NC, achieving the optimized adsorption state toward the *OH intermediate. The present multiple-site engineering concept and mechanistic insights are expected to shed light on the rational design of atomically dispersed photocatalysts.    
-
-    
-
-## Synthesis of α-Quaternary Aldehydes via a Dual Ni/Rh-Catalyzed Tandem Isomerization–Propargylation Reaction   
-
-OpenAlex: https://openalex.org/W4403213785    
-Open access: False
-    
-[Justin Ching](https://openalex.org/A5070915646), [Megan Jaschinski](https://openalex.org/A5113422793), [Eun Seo Choi](https://openalex.org/A5016707689), [Mark Lautens](https://openalex.org/A5044555614), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05021.
-    
-A dual Ni/Rh catalysis sequence toward α-quaternary aldehydes is reported. An intramolecular approach from allyl propargyl carbonates alongside the intermolecular transformation from allylic alcohols and propargyl carbonates is described. Initial decarboxylative oxidative addition into the propargyl group by nickel generates the electrophilic Ni–allenyl species, and the resulting allylic alkoxide is isomerized into the nucleophilic Rh–enolate species. Upon recombination, the α-propargylated aldehyde is obtained. Preliminary enantioselective results are reported, with varying protocols using either a dual metal single ligand or a dual metal dual ligand system.    
 
     
 

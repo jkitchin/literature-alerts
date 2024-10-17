@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Wed Oct 16 11:36:32 2024
+Created on Thu Oct 17 01:20:28 2024
 
-Found 42 results from 2024-10-09 to 2024-10-16
+Found 23 results from 2024-10-10 to 2024-10-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -18,28 +18,6 @@ Electrocatalytic carbon dioxide reduction reaction (CO2RR) to formic acid (HCOOH
 
     
 
-## Pitfalls in Photochemical and Photoelectrochemical Reduction of CO2 to Energy Products   
-
-OpenAlex: https://openalex.org/W4403218775    
-Open access: True
-    
-[Tomasz Baran](https://openalex.org/A5068301739), [Domenico Caringella](https://openalex.org/A5107822632), [Angela Dibenedetto](https://openalex.org/A5057065869), [Michele Aresta](https://openalex.org/A5064915844), Molecules. 29(19)] 2024.https://doi.org/10.3390/molecules29194758.
-    
-The photochemical and photoelectrochemical reduction of CO2 is a promising approach for converting carbon dioxide into valuable chemicals (materials) and fuels. A key issue is ensuring the accuracy of experimental results in CO2 reduction reactions (CO2RRs) because of potential sources of false positives. This paper reports the results of investigations on various factors that may contribute to erroneous attribution of reduced-carbon species, including degradation of carbon species contained in photocatalysts, residual contaminants from synthetic procedures, laboratory glassware, environmental exposure, and the operator. The importance of rigorous experimental protocols, including the use of labeled 13CO2 and blank tests, to identify true CO2 reduction products (CO2RPs) accurately is highlighted. Our experimental data (eventually complemented with or compared to literature data) underline the possible sources of errors and, whenever possible, quantify the false positives with respect to the effective conversion of CO2 in clean conditions. This paper clarifies that the incidence of false positives is higher in the preliminary phase of photo-material development when CO2RPs are in the range of a few 10s of μg gcat−1 h−1, reducing its importance when significant conversions of CO2 are performed reaching 10s of mol gcat−1 h−1. This paper suggests procedures for improving the reliability and reproducibility of CO2RR experiments, thus validating such technologies.    
-
-    
-
-## Longitudinal trajectory of technological growth in Sub-Sahara Africa: new insights for achieving carbon dioxide emissions reduction and environmental sustainability   
-
-OpenAlex: https://openalex.org/W4403209063    
-Open access: False
-    
-[Seidu Abdulai Jamatutu](https://openalex.org/A5023778114), [Kashif Abbass](https://openalex.org/A5086420750), [Huaming Song](https://openalex.org/A5081166150), [Sidique Gawusu](https://openalex.org/A5057053493), [Kyei Emmanuel Yeboah](https://openalex.org/A5104827214), Environment Development and Sustainability. None(None)] 2024.https://doi.org/10.1007/s10668-024-05467-8.
-    
-No abstract    
-
-    
-
 ## Controlling the Polarity of Metal‐Organic Frameworks to Promote Electrochemical CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4403335645    
@@ -48,28 +26,6 @@ Open access: False
 [Xiaolong Zhang](https://openalex.org/A5100395711), [Junnan Chen](https://openalex.org/A5085985069), [Xiaogang Wang](https://openalex.org/A5100444820), [Yingjun Dong](https://openalex.org/A5045927677), [Jiapeng Ji](https://openalex.org/A5029491497), [Linbo Li](https://openalex.org/A5101546109), [Ming Xue](https://openalex.org/A5100760140), [Hui‐Ming Cheng](https://openalex.org/A5100406789), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202416367.
     
 The addition of polar functional groups to porous structures is an effective strategy for increasing the ability of metal‐organic frameworks (MOFs) to capture CO2 by enhancing interactions between the dipoles of the polar functional groups and the quadrupoles of CO2. However, the potential of MOFs grafted to polar functional group to activate CO2 has not been investigated in the context of CO2 electrolysis. In this study, we report a mixed‐ligand strategy to incorporate various functional groups in the MOFs. We found that substituents with strong polarity led to increased catalytic performance of electrochemical CO2 reduction for these polarized MOFs. Both experimental and theoretical evidence indicates that the presence of polar functional groups induces a charge redistribution in the micropores of MOFs. We have shown that higher electron densities of sp2‐carbon atoms in benzimidazolate ligands reduces the energy barrier to generate *COOH, which is simultaneously controlled by the mass transfer of CO2. Our research offers an effective method of disrupting local electron neutrality in the pores of electrocatalysts/supports to activate CO2 under electrochemical conditions.    
-
-    
-
-## COmbined suN-Driven Oxidation and CO2 Reduction for renewable energy storage   
-
-OpenAlex: https://openalex.org/W4403221851    
-Open access: False
-    
-, No host. None(None)] 2020.https://doi.org/10.3030/101006839.
-    
-No abstract    
-
-    
-
-## Why do CuAl catalysts outperform in CO2 electro-reduction to C2H4?   
-
-OpenAlex: https://openalex.org/W4403209488    
-Open access: False
-    
-[Dongfang Cheng](https://openalex.org/A5028424510), [Gong Zhang](https://openalex.org/A5102444773), [Lulu Li](https://openalex.org/A5100421905), [Xiangcheng Shi](https://openalex.org/A5031229807), [Wenjin Zhu](https://openalex.org/A5079509878), [Xintong Yuan](https://openalex.org/A5030680281), [Lyudmila V. Moskaleva](https://openalex.org/A5050666730), [Peng Zhang](https://openalex.org/A5100364230), [Zhi‐Jian Zhao](https://openalex.org/A5084194253), [Zhi‐Jian Zhao](https://openalex.org/A5084194253), Science China Chemistry. None(None)] 2024.https://doi.org/10.1007/s11426-024-2292-3.
-    
-No abstract    
 
     
 
@@ -84,67 +40,12 @@ Rational design of robust photocatalytic systems to direct capture and in-situ c
 
     
 
-## Review for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
+## Study on reaction mechanism of CO2 electro-reduction to CO in organic medium: Revealed by experimental and spectroscopic Investigations   
 
-OpenAlex: https://openalex.org/W4403224119    
+OpenAlex: https://openalex.org/W4403242096    
 Open access: False
     
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v1/review1.
-    
-No abstract    
-
-    
-
-## Review for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
-
-OpenAlex: https://openalex.org/W4403223487    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v1/review2.
-    
-No abstract    
-
-    
-
-## Review for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
-
-OpenAlex: https://openalex.org/W4403224103    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v2/review1.
-    
-No abstract    
-
-    
-
-## Decision letter for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
-
-OpenAlex: https://openalex.org/W4403223846    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v1/decision1.
-    
-No abstract    
-
-    
-
-## Author response for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
-
-OpenAlex: https://openalex.org/W4403224004    
-Open access: False
-    
-[Jiangnan Li](https://openalex.org/A5101687908), [Xinyi Duan](https://openalex.org/A5084806004), [Chao Wu](https://openalex.org/A5062302560), [Yucheng Cao](https://openalex.org/A5032642250), [Zhiyao Duan](https://openalex.org/A5007032744), [Peng Zhang](https://openalex.org/A5034984355), [Wenjun Fan](https://openalex.org/A5101310705), [Fuxiang Zhang](https://openalex.org/A5033612713), No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v2/response1.
-    
-No abstract    
-
-    
-
-## Decision letter for "Interplanar synergy of copper-based electrocatalyst favors reduction of CO2 into C2+ products"   
-
-OpenAlex: https://openalex.org/W4403224106    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ey00141a/v2/decision1.
+[Fengxia Shen](https://openalex.org/A5048438287), [Shuai Wu](https://openalex.org/A5101601645), [Mario Kurniawan](https://openalex.org/A5004116844), [David Ostheimer](https://openalex.org/A5040834817), [Jin Shi](https://openalex.org/A5102008386), [Tianyou Chen](https://openalex.org/A5101709429), [Andreas Bund](https://openalex.org/A5079679703), [Thomas Hannappel](https://openalex.org/A5031126542), [Jianxiong Liu](https://openalex.org/A5101804653), [Pengchong Zhao](https://openalex.org/A5109797647), [Shipeng Miao](https://openalex.org/A5101312059), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.161459.
     
 No abstract    
 
@@ -158,28 +59,6 @@ Open access: False
 [H. R. Manjunath](https://openalex.org/A5086502148), [Chob Singh](https://openalex.org/A5002934723), [Puneethkumar M. Srinivasappa](https://openalex.org/A5061056596), [Krishnan Ravi](https://openalex.org/A5045905211), [Ankush V. Biradar](https://openalex.org/A5089765698), [Hanimi Reddy Bapatu](https://openalex.org/A5013903925), [Arvind H. Jadhav](https://openalex.org/A5038200205), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.161468.
     
 No abstract    
-
-    
-
-## Study on reaction mechanism of CO2 electro-reduction to CO in organic medium: Revealed by experimental and spectroscopic Investigations   
-
-OpenAlex: https://openalex.org/W4403242096    
-Open access: False
-    
-[Fengxia Shen](https://openalex.org/A5048438287), [Shuai Wu](https://openalex.org/A5101601645), [Mario Kurniawan](https://openalex.org/A5004116844), [David Ostheimer](https://openalex.org/A5040834817), [Jin Shi](https://openalex.org/A5102008386), [Tianyou Chen](https://openalex.org/A5101709429), [Andreas Bund](https://openalex.org/A5079679703), [Thomas Hannappel](https://openalex.org/A5031126542), [Jianxiong Liu](https://openalex.org/A5101804653), [Pengchong Zhao](https://openalex.org/A5109797647), [Shipeng Miao](https://openalex.org/A5101312059), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.161459.
-    
-No abstract    
-
-    
-
-## Convenient partial reduction of CO2 to a useful C1 building block: efficient access to 13C‐labelled N‐heterocyclic carbenes   
-
-OpenAlex: https://openalex.org/W4403214267    
-Open access: True
-    
-[Nicholas A. Phillips](https://openalex.org/A5102128029), [Joshua S. Sapsford](https://openalex.org/A5051394623), [Dániel Csókás](https://openalex.org/A5058011790), [Bianka Kótai](https://openalex.org/A5041928994), [Ines Perez-Tabarnero](https://openalex.org/A5107821512), [Silvia Díez‐González](https://openalex.org/A5068447207), [Daniel Scott](https://openalex.org/A5008359579), [Imre Pápai](https://openalex.org/A5048846178), [Andrew E. Ashley](https://openalex.org/A5089340041), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401179 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cctc.202401179)).
-    
-The selective, transition metal‐free hydrosilylation of CO2 to CH2(OSiEt3)2 has been achieved under mild conditions and in high isolated yields (up to 90%) using Et3SiH and the simple, easily prepared borohydride catalyst Li+[HB(C6F5)3]−. The resulting CO2‐derived bis(silyl)acetal product – whose mechanism of formation has been interrogated through detailed computational and experimental studies – can be rapidly valorized through the facile synthesis of N‐heterocyclic carbenes, via their corresponding imidazolium salts. By using relatively inexpensive, isotopically enriched 13CO2 this protocol can be exploited to prepare NHC isotopologues that are selectively 13C labelled at the key, ligating C2 position. This provides an electronically responsive 13C NMR spectroscopic handle with dramatically enhanced sensitivity which can directly benefit reactivity studies in both organo‐ and organometallic catalysis, where NHC use is ubiquitous.    
 
     
 
@@ -216,17 +95,6 @@ With the excessive use of fossil fuels, atmospheric carbon dioxide (CO2) concent
 
     
 
-## Carbon Dioxide Capture and Sequestration for Production of Synthetic Materials   
-
-OpenAlex: https://openalex.org/W4403219674    
-Open access: False
-    
-[E.L. Kolychev](https://openalex.org/A5107823098), [Artem Sulimov](https://openalex.org/A5043473422), [К. А. Овчинников](https://openalex.org/A5103914421), [A. V. Kleimenov](https://openalex.org/A5029281669), Ecology and Industry of Russia. 28(10)] 2024.https://doi.org/10.18412/1816-0395-2024-10-4-9.
-    
-The processes of carbon dioxide sequestration at obtaining various inorganic carbonate materials, including with the use of biotechnologies, and formation of organic polymers and monomers for them from CO 2 are considered. It is revealed that in the case of inorganic materials the use of slags and sludges containing a large amount of metal oxides from various industries looks the most appropriate, and in the case of materials based on organic polymers the technologies based on polycarbonates, as well as polycarbonate-containing polyols and phosgene-free isocyanates for polyurethanes are preferable. New promising methods under active development but not yet industrially applied, such as electrochemical reduction of carbon dioxide and its condensation with butadiene, are analyzed.    
-
-    
-
 ## Comparative analysis of embodied carbon in modular and conventional construction methods in Hong Kong   
 
 OpenAlex: https://openalex.org/W4403246062    
@@ -246,39 +114,6 @@ Open access: False
 [Karthik Peramaiah](https://openalex.org/A5101257970), [Moyu Yi](https://openalex.org/A5039405568), [Indranil Dutta](https://openalex.org/A5070496153), [Sudipta Chatterjee](https://openalex.org/A5012663625), [Huabin Zhang](https://openalex.org/A5019144758), [Zhiping Lai](https://openalex.org/A5011908616), [Kuo‐Wei Huang](https://openalex.org/A5074334575), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202404980.
     
 Abstract Formic acid (FA) has emerged as a promising candidate for hydrogen energy storage due to its favorable properties such as low toxicity, low flammability, and high volumetric hydrogen storage capacity under ambient conditions. Recent analyses have suggested that FA produced by electrochemical carbon dioxide (CO 2 ) reduction reaction (eCO 2 RR) using low‐carbon electricity exhibits lower fugitive hydrogen (H 2 ) emissions and global warming potential (GWP) during the H 2 carrier production, storage and transportation processes compared to those of other alternatives like methanol, methylcyclohexane, and ammonia. eCO 2 RR to FA can enable industrially relevant current densities without the need for high pressures, high temperatures, or auxiliary hydrogen sources. However, the widespread implementation of eCO 2 RR to FA is hindered by the requirement for highly stable and selective catalysts. Herein, the aim is to explore and evaluate the potential of catalyst engineering in designing stable and selective nanostructured catalysts that can facilitate economically viable production of FA.    
-
-    
-
-## The Role of Catalytic Vehicles in the Reduction of Environmental Pollution in Nangrahar City of Afghanistan   
-
-OpenAlex: https://openalex.org/W4403228494    
-Open access: False
-    
-[Bashir ullah Safi](https://openalex.org/A5108160590), [Fazal Rahman Mukhlis Safi](https://openalex.org/A5108160591), [Abdul Rabi Atif](https://openalex.org/A5108160592), No host. 03(ICCC(special))] 2024.https://doi.org/10.70436/nuijb.v3i02.293.
-    
-Due to the increase in the number of vehicles in the cities, air pollution is one of the serious environmental hazards because it increases the greenhouse gases in the atmosphere and causes climate change. To reduce the bad effects of the gases produced by car engines, the gases are filtered with the help of a catalytic in the silencer of the car (carbon monoxide to carbon dioxide, nitrogen monoxide to nitrogen oxide and hydrocarbons to water vapor) before it leaves the silencer of the car. The catalytic was synthesized in 1895 from various expensive (platinum, rhodium, palladium) materials that work as a result of chemical reactions and have a high price. The purpose of this research is to inform people about the role and value of catalytic in preventing environmental pollution in the eastern zone of Afghanistan. Data was collected through online questionnaire and interviews from 102 participants. The findings of the research show that the catalytic play a vital role in the reduction of environmental pollution in Nangarhar city of Afghanistan. The study revealed that catalytic helps the cars in the prevention of air pollution. The catalytic breaks down dangerous gases into environment friendly gases before they leave the silencer of the car and so has a great role in the reduction of environmental pollution. Similarly, the catalytic is an essential part of the car that has a vital role in the health of the car i.e., the car having the catalytic will be in good condition for a longer period of time, will go with high speed and will use less fuel. Moreover, the use of catalytic is recommended in every car and other fuel consuming machines to avoid environmental pollution.    
-
-    
-
-## Dynamic Interactive Effects of Technological Innovation, Transportation Industry Development, and CO2 Emissions   
-
-OpenAlex: https://openalex.org/W4403216540    
-Open access: True
-    
-[Kaige An](https://openalex.org/A5013069987), [Li Wang](https://openalex.org/A5100322864), [Zhenning Wang](https://openalex.org/A5101634974), [Zisen He](https://openalex.org/A5100835325), [Yao Zhong](https://openalex.org/A5058610425), [Jia Shen](https://openalex.org/A5101475014), [Xiaohong Ren](https://openalex.org/A5034235407), Sustainability. 16(19)] 2024.https://doi.org/10.3390/su16198672 ([pdf](https://www.mdpi.com/2071-1050/16/19/8672/pdf?version=1728384856)).
-    
-This paper aims to clarify the intricate relationships between technological innovation, transportation industry development, and CO2 emissions to facilitate a positive synergy among technology, the economy, and climate, advancing the fulfillment of the ‘double carbon’ goal. Utilizing panel data from 30 provinces in China from 2005 to 2020, we employ the panel vector autoregressive model using a generalized method of moments to empirically examine the dynamic interactive effects between these participants. The findings reveal that the transportation industry significantly promoted the inhibitory impact of technological innovation on CO2 emissions. However, such reductions cannot counterbalance the rise in emissions from the transportation industry. Moreover, its effects varied significantly across regions. Specifically, transportation industry development within eastern China contributed to a shift in the local carbon emission effects from positive to negative under the positive influence of technological innovation. In the northeast, the transportation industry enhanced the inhibitory effect of technological innovation on CO2 emissions. In contrast, across the western region, industrial development in transportation intensified the role of technological innovation in promoting CO2 emissions. Furthermore, this work found that CO2 emissions notably diminished the CO2 reduction performance of technological innovation in the eastern part and enhanced this performance in the northeastern region. These findings further revealed the complex interplay between technological innovation, the transportation industry, and CO2 emissions. They offer insights for policymakers to tailor region-specific technologies to bolster the ‘dual carbon’ goal and sustainable transportation development strategies, thereby achieving CO2 reduction.    
-
-    
-
-## Proton-Responsive Ligands Promote CO2 Capture and Accelerate Catalytic CO2/HCO2– Interconversion   
-
-OpenAlex: https://openalex.org/W4403214359    
-Open access: False
-    
-[Jeffrey M. Barlow](https://openalex.org/A5079885851), [Nikita Gupta](https://openalex.org/A5101976674), [Ksenija D. Glusac](https://openalex.org/A5035954011), [David M. Tiede](https://openalex.org/A5067725076), [David M. Kaphan](https://openalex.org/A5024573620), Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c02092.
-    
-The synthesis and investigation of [Rh(DHMPE)2][BF4] (1) are reported. 1 features proton-responsive 1,2-bis[(dihydroxymethyl)phosphino]ethane (DHMPE) ligands, which readily capture CO2 from atmospheric sources upon deprotonation. The protonation state of the DHMPE ligand was observed to have a significant impact on the catalytic reactivity of 1 with CO2. Deprotonation and CO2 binding to 1 result in a ∼10-fold rate enhancement in catalytic degenerate CO2 reduction with formate, monitored by 12C/13C isotope exchange between H12CO2– and 13CO2. Studies performed using a similar complex lacking the hydroxyl ligand functionality ([Rh(DEPE)2][BF4] where DEPE = 1,2-bis(diethylphosphino)ethane) do not show the same rate enhancements when base is added. Based upon the cation-dependent activity of the catalyst, Eyring analysis, and cation sequestration experiments, CO2 binding to 1 is proposed to facilitate preorganization of formate/CO2 in the transition state via ligand-based encapsulation of Na+ or K+ cations to lower the activation energy and increase the observed catalytic rate. Incorporation of proton-responsive DHMPE ligands provides a unique approach to accelerate the kinetics of catalytic CO2 reduction to formate.    
 
     
 
@@ -315,17 +150,6 @@ This study investigates a novel method of utilizing Direct Air Capture (DAC) tec
 
     
 
-## Permeability evolution of sandstone caprock transverse fractures during intermittent CO2 injection in coal-bearing strata   
-
-OpenAlex: https://openalex.org/W4403217154    
-Open access: False
-    
-[Zhaolong Ge](https://openalex.org/A5103006931), [Qisi Huai](https://openalex.org/A5099362208), [Zhe Zhou](https://openalex.org/A5084427193), [Jingwei Zheng](https://openalex.org/A5016417719), [Qinglin Deng](https://openalex.org/A5082309852), [Yunzhong Jia](https://openalex.org/A5079249290), [Chunxiang Liu](https://openalex.org/A5101607979), Physics of Fluids. 36(10)] 2024.https://doi.org/10.1063/5.0231372.
-    
-The caprock of coal-bearing strata plays a critical role in CO2 geological storage, with the presence of fractures posing a heightened risk of CO2 leakage. The cyclic effects of CO2 injection and in situ stress influence the permeability of caprock fractures. However, the combined impact of CO2 and in situ stress on fracture permeability remains uncertain. This study conducted cyclic seepage experiments under varying amplitude stresses on fractured sandstone samples soaked in ScCO2 for different times (0, 15, 30, and 60 days). The microstructural characteristics of the fractured sandstone surfaces were analyzed using scanning electron microscopy and x-ray diffraction. The experimental results indicated that soaking in ScCO2 reduces sandstone fracture permeability, but the extent of this reduction is nonlinearly related to the soaking time. During the stress cycling process, due to the effect of plastic deformation, the permeability of sandstone fractures decreases with increasing cyclic amplitude and remains relatively constant with decreasing cyclic amplitude. At the same cyclic amplitude, the permeability of sandstone fractures initially increases and then decreases with prolonged soaking time. The impact of ScCO2 and stress cycling on the permeability of sandstone fractures is the result of a series of combined chemical–mechanical effects. The combined effects of chemical dissolution and mechanical degradation significantly influence the permeability of sandstone fractures, and this impact is notably time-dependent. During short-term soaking, geochemically induced changes in the surface structure of fractures cause fluctuations in permeability, while in long-term soaking, the combined chemical–mechanical effects promote a reduction in fracture permeability.    
-
-    
-
 ## Photoexcitation and One-Electron Reduction Processes of a CO2 Photoreduction Dyad Catalyst Having a Zinc(II) Porphyrin Photosensitizer   
 
 OpenAlex: https://openalex.org/W4403257236    
@@ -334,17 +158,6 @@ Open access: False
 [Toshio Honda](https://openalex.org/A5008497251), [Takumi Ehara](https://openalex.org/A5070012188), [Ren Sato](https://openalex.org/A5045348410), [Tomohiro Ogawa](https://openalex.org/A5021439767), [Yusuke Kuramochi](https://openalex.org/A5084182131), [Akiharu Satake](https://openalex.org/A5021053165), [Kiyoshi Miyata](https://openalex.org/A5077616838), [Ken Onda](https://openalex.org/A5048425067), Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c02271.
     
 We have explored the photophysical properties and one-electron reduction process in the dyad photocatalyst for CO2 photoreduction, ZnP-phen=Re, in which the catalyst of fac-[Re(1,10-phenanthoroline)(CO)3Br] is directly connected with the photosensitizer of zinc(II) porphyrin (ZnP), using time-resolved infrared spectroscopy, transient absorption spectroscopy, and quantum chemical calculations. We revealed the following photophysical properties: (1) the intersystem crossing occurs with a time constant of ∼20 ps, which is much faster than that of a ZnP single unit, and (2) the charge density in the excited singlet and triplet states is mainly localized on ZnP, which means that the excited state is assignable to the π–π* transition in ZnP. The one-electron reduction by 1,3-dimethyl-2-phenyl-2,3-dihydro-1H-benzo[d]imidazole occurs via the triplet excited state with the time constant of ∼100 ns and directly from the ground state with the time constant of ∼3 μs. The charge in the one-electron reduction species spans ZnP and the phenanthroline ligand, and the dihedral angle between ZnP and the phenanthroline ligand is rotated by ∼24° with respect to that in the ground state, which presumably offers an advantage for proceeding to the next CO2 reduction process. These insights could guide the new design of dyad photocatalysts with porphyrin photosensitizers.    
-
-    
-
-## The Synergistic Effect of the Carbon Emission Trading Scheme on Pollution and Carbon Reduction in China’s Power Industry   
-
-OpenAlex: https://openalex.org/W4403217171    
-Open access: True
-    
-[Xiling Zhang](https://openalex.org/A5077973578), [Xiaoqian Liu](https://openalex.org/A5100683618), [Zeyu Zhang](https://openalex.org/A5012609245), [Ruiyi Tang](https://openalex.org/A5030380172), [Ting Zhang](https://openalex.org/A5100458291), [Junqiang Yao](https://openalex.org/A5090357240), Sustainability. 16(19)] 2024.https://doi.org/10.3390/su16198681.
-    
-The synergistic effect of pollution and carbon reduction can alleviate the dual pressure of improving environmental quality and reducing greenhouse gas emissions in China. The carbon emission trading scheme (CETS) is a crucial market-based tool for carbon emission reduction, and understanding its synergistic impact on air pollution control is essential. Based on data from 30 provincial panels in China spanning from 2007 to 2021, we employ the difference-in-differences (DID) method to analyze the synergistic effects of the carbon emission trading plan in the power industry and its influence mechanisms are examined. We observe that the CETS significantly enhances both pollution and carbon reduction in China’s power sector, particularly demonstrating effective synergy in reducing CO2, SO2, and PM2.5 emissions. Furthermore, mechanism analysis reveals that the CETS achieves joint emission reductions by lowering energy consumption, influencing the power industry’s generation structure, promoting technological innovation among enterprises, and thereby realizing synergistic pollution and carbon reduction effects in China’s power sector. Heterogeneity analysis shows that regions with limited power facility, low electricity generation, and small economic scale exhibit the most pronounced synergistic benefits from pollution and carbon reduction efforts.    
 
     
 
@@ -367,6 +180,17 @@ Open access: False
 [Samuel S. Veroneau](https://openalex.org/A5056764620), [Alaina C. Hartnett](https://openalex.org/A5067806774), [Jaeyune Ryu](https://openalex.org/A5023905645), [Hyukhun Hong](https://openalex.org/A5006456333), [Cyrille Costentin](https://openalex.org/A5069277615), [Daniel G. Nocera](https://openalex.org/A5056442308), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c09521.
     
 The production and consumption of protons by an electrocatalyst will, under certain conditions, generate localized microenvironments with properties distinct from those of the bulk solution. These local properties are particularly impactful for reactions involving proton-coupled electron transfer, where the generation of locally basic or acidic environments may significantly influence the energy efficiency and reaction selectivity of the electrocatalyst. Whereas local pH environments have been observed and characterized in reductive half-reactions, including the CO2 reduction and hydrogen evolution reactions, the incompatibility of conventional techniques and materials has limited studies in oxidative half-reactions, including the oxygen evolution reaction (OER), which provides the reducing equivalents for solar-to-fuels electrolysis. With the straightforward parameters bulk pH, buffer composition and pKa, and mass transport, we develop a model for describing local pH as a function of current density regardless of the microscopic details of the mechanism. Using an acid-stable PbOx OER catalyst, we observe the formation and dissipation of pH gradients during the OER and validate the model with voltammetric and potentiometric studies. The model predicts how local acidic environments can develop over a narrow OER current density window, thus providing further motivation for the development of OER catalysts that are stable to acid, even when operating in basic aqueous conditions. More generally, the model is not restricted to the OER and is useful for determining the onset of local pH gradients for other electrocatalytic reactions that involve the consumption or generation of protons in energy conversion reactions.    
+
+    
+
+## Ag-Mediated Growth of Au/Ag–Cu Ternary Heterostructures for Selective Electrochemical CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4403382319    
+Open access: False
+    
+[Wenhao Xu](https://openalex.org/A5100739979), [Taishi Xiao](https://openalex.org/A5065297415), [Jie Chen](https://openalex.org/A5100332976), [Junxiang Shu](https://openalex.org/A5007134311), [Jili Li](https://openalex.org/A5101728260), [Yao Ma](https://openalex.org/A5100774845), [Xiang Li](https://openalex.org/A5100766450), [Zihan Zhong](https://openalex.org/A5077635168), [Zitao Zhang](https://openalex.org/A5101431231), [Yefei Li](https://openalex.org/A5091396785), [Qing Zhang](https://openalex.org/A5082752199), [Zhengzong Sun](https://openalex.org/A5001826868), [Yun Tang](https://openalex.org/A5046555301), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c12952.
+    
+Copper (Cu)-based nanocatalysts play crucial roles in the electrochemical CO2 reduction reaction (ECO2RR) for sustainable energy resources. Particularly, Cu-based nanostructures incorporating Au and Ag are promising, offering enhanced activity, selectivity, and stability. However, precise control over the structure and composition of heterostructures remains challenging, hindering the development of highly efficient catalysts. Herein, we present a silver (Ag) transition-layer-mediated approach to synthesize ternary heterostructures with two specific morphologies, namely, Au/Ag–Cu-side and Au/Ag–Cu-tip, which exhibit different Ag–Cu interface epitaxial patterns. The two heterostructures achieve high C2 product selectivity in ECO2RR. Especially, the Au/Ag–Cu-side structure achieves 50.3% C2 selectivity with 35.5% ethanol, while the tip structure shows higher ethylene selectivity. Our study reveals the impact of the Ag layer in directing deposition sites on heterostructure growth and further facilitating the design of multicomponent Cu-based catalysts with enhanced structural integrity and ECO2RR performance.    
 
     
 
@@ -403,17 +227,6 @@ ABSTRACT In the face of escalating global warming and intensified human activiti
 
     
 
-## Fine-tuning syngas composition using laser surface modified silver electrode for CO2 electroreduction   
-
-OpenAlex: https://openalex.org/W4403218032    
-Open access: False
-    
-[Austin McKee](https://openalex.org/A5036503837), [Wuji Huang](https://openalex.org/A5009794335), [Ninggang Shen](https://openalex.org/A5056553738), [Syed Mubeen](https://openalex.org/A5102911514), [Hongtao Ding](https://openalex.org/A5031341048), Journal of Laser Applications. 36(4)] 2024.https://doi.org/10.2351/7.0001542.
-    
-Electrochemical reduction of CO2 and H2O to synthesize gas (H2 and CO mixture) is of significant interest due to established industrial pathways to tune the H2 to CO composition to generate an array of valuable products including methanol, synthetic fuel, synthetic natural gas, and hydrogen. However, controlled H2:CO ratios are challenging on CO-active electrocatalysts like silver. We demonstrate that applying laser engineering to adjust the surface wetting state of a silver electrocatalyst with water contact angles θw ranging from 47° and 135°, H2:CO ratios can be tuned from 1 to 4 at modest potentials (−0.7 V versus RHE, RHE—reversible hydrogen electrode) with almost total unity Faradaic efficiency. Both hydrophilic (θw = 47°) and more hydrophobic (θw = 135°) samples showed an increasing H2:CO trend with rising potentials (0.7–1.2 V versus RHE) due to mass transport. Conversely, silver electrocatalyst with θw = 110° exhibited a constant H2:CO ratio of 4. This indicates catalyst wettability potentially affects *H and *HOCO intermediates’ adsorption, impacting H2:CO ratios. Our results show the feasibility of syngas composition control on silver catalysts via surface wettability, providing a simpler alternative to complex multicomponent electrocatalytic systems.    
-
-    
-
 ## Climate impact of alternative organic fertilizers using life cycle assessment   
 
 OpenAlex: https://openalex.org/W4403288892    
@@ -422,28 +235,6 @@ Open access: True
 [Xiaoyi Meng](https://openalex.org/A5059926845), [Marie Trydeman Knudsen](https://openalex.org/A5065730794), [Søren O. Petersen](https://openalex.org/A5038448586), [Henrik Bjarne Møller](https://openalex.org/A5010992813), [Fatemeh Hashemi](https://openalex.org/A5074297771), Environmental Research Letters. None(None)] 2024.https://doi.org/10.1088/1748-9326/ad8589.
     
 Abstract Anaerobic digestion is a common method for managing liquid manure and other biomasses, generating biogas as a renewable energy source. The resulting digestate can be processed into organic fertilizers to enhance nutrient recycling, but its environmental impact warrants investigation. In this study, a life cycle assessment (LCA) was conducted to examine the impact of fertilizers derived from cattle slurry and grass-clover co-digestion on global warming (measured in CO2 equivalent) compared to untreated cattle slurry. The different treatments analyzed include untreated cattle slurry, digestate, liquid fractions from digestate separation, and an enriched liquid nitrogen-sulfur product derived from post-processing of biogas and drying the solid fraction. The functional units of this study were 100 kg of total nitrogen in the final organic fertilizer (FU1) with the cradle-to-processing gate boundary and the harvesting 1 ton of spring barley dry matter (FU2) with the cradle-to-field application boundary. The carbon footprint ranged from 24 to 49% of the baseline scenario for FU1, and from -6 to 177% of the baseline scenario for FU2. The main contributors to the carbon footprint of fertilizers included greenhouse gas emissions from storage and field application. However, biogas production from anaerobic digestion, together with the concurrent mitigation of CH4 emissions during storage, contributed most to a reduction in the overall global warming potential associated with anaerobic digestate and its liquid fraction. This study showed large climate prospects in replacing untreated slurry as organic fertilizer with alternatives resulting from its anaerobic digestion and post-treatment.    
-
-    
-
-## Synthesis, Characterization, and Shaping of UiO-67 Metal-Organic Frameworks   
-
-OpenAlex: https://openalex.org/W4403222099    
-Open access: False
-    
-[Christia Jabbour](https://openalex.org/A5063599600), No host. None(None)] 2024.https://doi.org/10.33540/2439.
-    
-This PhD thesis investigates the flexibility of metal-organic frameworks (MOFs) materials, particularly focusing on their adaptable synthesis and shaping techniques. MOFs, known for their dynamic framework structures and flexible linkers, allow researchers to design new and existing porous materials for specific applications, such as catalysis and environmental protection. The research covers a range of topics, including synthesis, characterization, shaping, and catalytic testing, with particular emphasis on the flexible properties of MOFs. Chapter 2 focuses on the application of MOFs in active coatings on surfaces and functionalized fabrics to deactivate biological and chemical toxins, a crucial topic in light of the global health crisis induced by the SARS-CoV-2 outbreak. The chapter discusses advancements in metal- and metal-oxide-based catalysts for inactivating chemical and biological threats. It also explores MOF applications in textiles, which are designed to capture and degrade chemical warfare agents. Despite progress, challenges remain, particularly in translating laboratory results to real-world conditions, such as creating multifunctional protective suits that are durable and capable of detoxifying toxins while remaining comfortable. The chapter highlights the promise of MOFs in addressing these challenges, but also the need for improved manipulation onto fibers and long-term stability. Chapters 3, 4, and 5 delve into the catalytic potential of MOFs and their manipulation for specific applications. In Chapter 3, the focus is on the catalytic activity of platinum nanoparticles (Pt-NPs) embedded within the UiO-67 MOF structure, specifically investigating their role in the CO2 hydrogenation reaction. The study examines the effects of reduction and pyrolysis treatments on Pt-NPs, finding that certain treatment processes improve the selectivity for methanol formation. This chapter emphasizes the importance of understanding the catalytic properties of MOFs and their potential for CO2 conversion. Chapter 4 investigates surface-mounted MOFs (SURMOFs), which offer promising in situ measurement capabilities. The chapter discusses the synthesis and characterization of three different SURMOF materials: UU-1, ZIF-8, and UiO-67. It explores how different anchor molecules, substrates, and synthetic conditions affect the growth and morphology of these SURMOFs. The chapter also addresses the limitations of current analytical techniques and proposes transmission-based characterization on transparent substrates. The findings highlight the importance of spectroscopic characterization in understanding the behavior of SURMOFs during various processes, offering insights for their application in fields like sensing, separation, and catalysis. Finally, Chapter 5 addresses the challenge of shaping MOFs via mechanical pressure by presenting a synthesis procedure that forms MOF beads through entanglement with chitosan (CS). This method eliminates the need for mechanical pressure, which can be detrimental to MOF structures. The study compares two synthesis procedures—one-pot synthesis (OPS) and post-synthetic functionalization (PSF)—and finds that OPS leads to better incorporation of MOFs into CS beads, resulting in higher thermal stability. Overall, this thesis demonstrates the versatility of MOFs in catalysis, environmental protection, and material science, while also addressing the challenges associated with shaping and long-term stability.    
-
-    
-
-## 2024 Energy and Fuels Rising Stars   
-
-OpenAlex: https://openalex.org/W4403213946    
-Open access: True
-    
-[Hongwei Wu](https://openalex.org/A5006018670), Energy & Fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c04595 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.4c04595?ref=article_openPDF)).
-    
-InfoMetricsFiguresRef. Energy & FuelsASAPArticle This publication is free to access through this site. Learn More CiteCitationCitation and abstractCitation and referencesMore citation options ShareShare onFacebookX (Twitter)WeChatLinkedInRedditEmailJump toExpandCollapse EditorialOctober 8, 20242024 Energy and Fuels Rising StarsClick to copy article linkArticle link copied!Hongwei WuHongwei WuDiscipline of Chemical Engineering, Western Australian School of Mines: Minerals, Energy and Chemical Engineering, Curtin University, Kent Street, Bentley, Western Australia 6102, AustraliaMore by Hongwei Wuhttps://orcid.org/0000-0002-2816-749XOpen PDFEnergy & FuelsCite this: Energy Fuels 2024, XXXX, XXX, XXX-XXXClick to copy citationCitation copied!https://pubs.acs.org/doi/10.1021/acs.energyfuels.4c04595https://doi.org/10.1021/acs.energyfuels.4c04595Published October 8, 2024 Publication History Received 20 September 2024Published online 8 October 2024editorial© 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissionsThis publication is licensed for personal use by The American Chemical Society. ACS Publications© 2024 American Chemical SocietySubjectswhat are subjectsArticle subjects are automatically applied from the ACS Subject Taxonomy and describe the scientific concepts and themes of the article.BatteriesEnergyFossil fuelsFuelsRedox reactionsSince 2021, Energy & Fuels has established annual recognition of Energy and Fuels Rising Stars to honor some early- and midcareer researchers (EMCRs) who have made significant contributions to discovering new knowledge and/or advancing technological development in their respective fields of energy research. The candidates of rising stars were nominated by open call then finalized by our editorial office. At the time of nomination, a rising star candidate must be 12 years or less within the award of PhD degree and in independent research career. Energy & Fuels also publishes annually a Special Issue (SI) to highlight the group of rising stars in each year. (1−3)It is our great pleasure to announce the following cohort of 2024 Energy and Fuels Rising Stars (alphabetically ordered according to surname):Sili Deng, Massachusetts Institute of Technology, United StatesMichiel Dusselier, KU Leuven, BelgiumMelis Duyar, University of Surrey, United KingdomChiara Ferrara, Università degli Studi di Milano-Bicocca, ItalyMatteo Gazzani, Utrecht University, NetherlandsLei Ge, University of Southern Queensland, AustraliaJoshua Heyne, Washington State University and Pacific Northwest National Laboratory, United StatesJungho Jae, Pusan National University, South KoreaMuhammad Shahzad Kamal, King Fahd University of Petroleum and Minerals, Saudi ArabiaHaegyeom Kim, Lawrence Berkeley National Laboratory, United StatesLong Kong, Northwestern Polytechnical University, ChinaKongzhai Li, Kunming University of Science and Technology, ChinaY. Chris Li, State University of New York at Buffalo, United StatesCheng Lian, East China University of Science and Technology, ChinaXue Feng Lu, Fuzhou University, ChinaJianfeng Mao, The University of Adelaide, AustraliaPeng Tan, University of Science and Technology of China, ChinaJiayu Wan, Shanghai Jiao Tong University, ChinaJian Wang, City University of Hong Kong, ChinaLu Wang, The Chinese University of Hong Kong, Shenzhen, ChinaYi Wang, Huazhong University of Science and Technology, ChinaChularat Wattanakit, Vidyasirimedhi Institute of Science and Technology, ThailandXianyong Wu, University of Puerto Rico at Río Piedras, Puerto RicoQuan Xu, China University of Petroleum-Beijing, ChinaJin Xuan, University of Surrey, United KingdomChang Geun Yoo, State University of New York, United StatesGuanghui Zhang, Dalian University of Technology, ChinaKai Zhang, Nankai University, ChinaKai Zhu, Harbin Engineering University, ChinaEnergy& Fuels is also pleased to present this SI that highlights the invited research articles contributed by our 2024 Energy and Fuels Rising Stars. This SI includes 8 (mini)review papers and 21 original research articles. As shown in Table 1, these papers cover a wide range of research topics within the scope of Energy & Fuels and are expected to generate significant impacts in the field for many years to come. We trust that our readers will find these articles stimulating and interesting.Table 1. Full List of Papers in the SI Contributed by 2024 Energy and Fuels Rising Starsrising startitle (article type)DOIDeng, SiliFast QoI-Oriented Bayesian Experimental Design with Unified Neural Response Surfaces for Kinetic Uncertainty Reduction (Article)10.1021/acs.energyfuels.4c02299Dusselier, MichielThe One Step Methanol-Mediated CO2 Conversion to Gasoline: A Critical Review (Review)10.1021/acs.energyfuels.4c03013Duyar, MelisThe Effect of Na/Ca Adsorbent on NiRu-DFM Performance for Integrated CO2 Capture and Hydrogenation (Article)10.1021/acs.energyfuels.4c02601Ferrara, ChiaraLow Temperature Carbothermic Reduction for Recycling of LiCoO2 and Recovery of Critical Raw Materials (Article)10.1021/acs.energyfuels.4c02714Gazzani, MatteoHow Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture? (Article)10.1021/acs.energyfuels.4c01156Ge, LeiSteering CO Selectivity in CO2 Electroreduction over Silver Microtubular Gas-Diffusion Electrodes via Surface Reconstruction (Article)10.1021/acs.energyfuels.4c01240Heyne, JoshuaProbabilistic Fuel Property Prediction Methods for Design and Qualification of Aviation Fuels: A Review (Review)10.1021/acs.energyfuels.4c02457Jae, JunghoEffect of TiO2-Supported Pt–ReOx Bimetallic Catalyst on Selective Hydrogenation of Carboxylic Acids to Alcohols by Rhenium Deposition Method (Article)10.1021/acs.energyfuels.4c02475Kamal, Muhammad ShahzadDeep Eutectic Solvents: Comprehensive Review and Future Directions on Synthesis and Oilfield Applications (Review)10.1021/acs.energyfuels.4c01582Kim, HaegyeomInverse Consequences of the SnO2 Protection Layers on Pt/C Catalysts in Proton-Exchange Membrane Fuel Cells (Article)10.1021/acs.energyfuels.4c02232Kong, LongDisassociating Lithium Salts in Deep Eutectic Solvents and Inhibiting Aluminum Corrosion for Low-Temperature Lithium–Metal Batteries (Article)10.1021/acs.energyfuels.4c02174Li, KongzhaiRed Mud as the Catalyst for Energy and Environmental Catalysis: A Review (Review)10.1021/acs.energyfuels.4c02269Li, Y. ChrisEnhancing Local CO2 Concentration via Covalent Interaction for the Conversion of Carbonate to CO (Article)10.1021/acs.energyfuels.4c00335Lian, ChengUnderstanding the Mechanism of Ammonia Synthesis in Alkali Metal Hydride-Intercalated Graphene Catalysts (Article)10.1021/acs.energyfuels.4c01071Lu, Xue FengA Review on Highly Efficient Ru-Based Electrocatalysts for Acidic Oxygen Evolution Reaction (Review)10.1021/acs.energyfuels.4c02080Mao, JianfengSize-Controllable N-Doped Porous Carbon Derived from Metal–Organic Framework Enables High-Performance Lithium-Ion/Sodium-Ion Batteries (Article)10.1021/acs.energyfuels.4c02267Tan, PengExtending the Cycling Life of Lithium-Ion Batteries with Silicon/Graphite Composite Anodes by Automatic External Stress Regulation (Article)10.1021/acs.energyfuels.4c00880Wan, JiayuPerspectives on Ultrafast, Precise Synthesis and Regeneration of Advanced Battery Materials (Review)10.1021/acs.energyfuels.4c02209Wang, JianBenchmarking Metal Oxide Electrocatalysts for Oxygen Reduction (Article)10.1021/acs.energyfuels.4c04109Wang, LuShedding Light on Solar Olefin Synthesis: Advances and Perspectives (Review)10.1021/acs.energyfuels.4c01608Wang, YiImportance of Physical/Chemical Interactions between Rice Husk and Polypropylene during Their Copyrolysis (Article)10.1021/acs.energyfuels.4c01943Wattanakit, ChularatPerspectives on Recent Advances in Hierarchical Zeolites for Bioethanol Conversion to Chemicals, Jet Fuels, and Carbon Nanotubes (Review)10.1021/acs.energyfuels.4c02069Wu, XianyongBuilding a High-Potential Silver–Sulfur Redox Reaction Based on the Hard–Soft Acid–Base Theory (Article)10.1021/acs.energyfuels.4c00817Xu, QuanNitrogen-Doped Bismuth Oxide-Modified Carbon Cloth as a Bifunctional Electrocatalyst for Iron–Chromium Redox Flow Batteries (Article)10.1021/acs.energyfuels.4c01739Xuan, JinPotentials of Progressive and Disruptive Innovation-Driven Cost Reductions of Green Hydrogen Production (Article)10.1021/acs.energyfuels.4c01247Yoo, Chang GeunImpacts of Hydrogen Bond Donor Structure in Phenolic Aldehyde Deep Eutectic Solvent on Pretreatment Efficiency (Article)10.1021/acs.energyfuels.4c02301Zhang, GuanghuiHighly Active and Stable Isolated Irδ+ Sites in Iridium Phosphide for Propane Dehydrogenation (Article)10.1021/acs.energyfuels.4c02006Zhang, KaiHighly Reversible Zn Metal Anode Enabled by Interfacial Water Pocket (Article)10.1021/acs.energyfuels.4c02858Zhu, KaiTrace Amount of High Concentration Electrolyte for High-Performance Aqueous Zn Metal Anodes (Article)10.1021/acs.energyfuels.4c02637We extend our warmest congratulations to this group of 2024 Energy and Fuels Rising Stars!Author InformationClick to copy section linkSection link copied!Corresponding AuthorHongwei Wu, Editor-in-Chief, Discipline of Chemical Engineering, Western Australian School of Mines: Minerals, Energy and Chemical Engineering, Curtin University, Kent Street, Bentley, Western Australia 6102, Australia, https://orcid.org/0000-0002-2816-749XNotesViews expressed in this editorial are those of the author and not necessarily the views of the ACS.AcknowledgmentsClick to copy section linkSection link copied!We are grateful to our Editors, Editorial Advisory Board members, past Rising Stars, 2024 Rising Star candidates, reviewers, and the editorial assistance team for the great contributions that have made this 2024 Energy and Fuels Rising Stars initiative and SI possible.ReferencesClick to copy section linkSection link copied! This article references 3 other publications. 1Wu, H. 2021 Energy and Fuels Rising Stars. Energy Fuels 2021, 35, 15247– 15248, DOI: 10.1021/acs.energyfuels.1c03135 Google ScholarThere is no corresponding record for this reference.2Wu, H. 2022 Energy and Fuels Rising Stars. Energy Fuels 2022, 36, 12365– 12366, DOI: 10.1021/acs.energyfuels.2c03140 Google ScholarThere is no corresponding record for this reference.3Wu, H. 2023 Energy and Fuels Rising Stars. Energy Fuels 2023, 37, 15245– 15247, DOI: 10.1021/acs.energyfuels.3c03754 Google ScholarThere is no corresponding record for this reference.Cited By Click to copy section linkSection link copied!This article has not yet been cited by other publications.Download PDFFiguresReferencesOpen PDF Get e-AlertsGet e-AlertsEnergy & FuelsCite this: Energy Fuels 2024, XXXX, XXX, XXX-XXXClick to copy citationCitation copied!https://doi.org/10.1021/acs.energyfuels.4c04595Published October 8, 2024 Publication History Received 20 September 2024Published online 8 October 2024© 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissionsArticle Views83Altmetric-Citations-Learn about these metrics closeArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.Recommended Articles FiguresReferencesThis publication has no figures.References This article references 3 other publications. 1Wu, H. 2021 Energy and Fuels Rising Stars. Energy Fuels 2021, 35, 15247– 15248, DOI: 10.1021/acs.energyfuels.1c03135 There is no corresponding record for this reference.2Wu, H. 2022 Energy and Fuels Rising Stars. Energy Fuels 2022, 36, 12365– 12366, DOI: 10.1021/acs.energyfuels.2c03140 There is no corresponding record for this reference.3Wu, H. 2023 Energy and Fuels Rising Stars. Energy Fuels 2023, 37, 15245– 15247, DOI: 10.1021/acs.energyfuels.3c03754 There is no corresponding record for this reference.    
 
     
 
