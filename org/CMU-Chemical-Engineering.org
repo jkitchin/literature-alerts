@@ -1,8 +1,28 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Oct 17 01:20:30 2024
+Created on Fri Oct 18 01:20:42 2024
 
-Found 0 results from 2024-10-10 to 2024-10-17
+Found 1 results from 2024-10-11 to 2024-10-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
+* Generation of connections between protein sequence space and chemical space to enable a predictive model for biocatalysis  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403430013
+:TOPICS: Metabolic Engineering and Synthetic Biology, Prediction of Protein Subcellular Localization, Analysis of Gene Interaction Networks
+:PUBLICATION_DATE: 2024-10-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-w4dtr")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403430013"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403430013"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403430013"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403430013 (Open access: True)
+    
+[[https://openalex.org/A5039244003][Alan Paton]], [[https://openalex.org/A5065327102][Daniil A. Boiko]], [[https://openalex.org/A5062326194][Jonathan C. Perkins]], [[https://openalex.org/A5096130111][Nicholas Cemalovic]], [[https://openalex.org/A5081625865][Thiago Reschützegger]], [[https://openalex.org/A5048633127][Gabriel dos Passos Gomes]], [[https://openalex.org/A5002907157][Alison R. H. Narayan]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-w4dtr  ([[https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/670c192f51558a15eff5c275/original/generation-of-connections-between-protein-sequence-space-and-chemical-space-to-enable-a-predictive-model-for-biocatalysis.pdf][pdf]])
+     
+The application of biocatalysis in synthesis has the potential to offer dramatically streamlined routes toward target molecules, exquisite and tunable catalyst-controlled selectivity, as well as more sustainable processes. Despite these advantages, biocatalytic synthetic strategies can be high risk to implement. Successful execution of these approaches requires identifying an enzyme capable of performing chemistry on a specific intermediate in a synthesis which often calls for extensive screening of enzymes and protein engineering. Strategies for predicting which enzyme is most likely to be compatible with a given small molecule have been hindered by the lack of well-studied biocatalytic reactions. The under exploration of connections between chemical and protein sequence spaces constrains navigation between these two landscapes. Herein, this longstanding challenge is overcome in a two-phase effort relying on high throughput experimentation to populate connections between substrate chemical space and biocatalyst sequence space, and the subsequent development of machine learning models that enable the navigation between these two landscapes. Using a curated library of α-ketoglutarate-dependent non-heme iron (NHI) enzymes, the BioCatSet1 dataset was generated to capture the reactivity of each biocatalyst with >100 substrates. In addition to the discovery of novel chemistry, BioCatSet1 was leveraged to develop a predictive workflow that provides a ranked list of enzymes that have the greatest compatibility with a given substrate. To make this tool accessible to the community, we built CATNIP, an open access web interface to our predictive workflows. We anticipate our approach can be readily expanded to additional enzyme and transformation classes, and will derisk the application of biocatalysis in chemical synthesis.    
+
+    

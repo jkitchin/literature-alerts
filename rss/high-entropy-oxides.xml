@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Oct 2024 01:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 01:20:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Thermally Stable High&#8208;Entropy Layered Double Hydroxides for Advanced Catalysis</title>
+      <link>https://doi.org/10.1002/smll.202406685</link>
+      <description>Chang Deng, R. Liu, Peiwen Wu, Xiaogang Wang, Shibo Xi, Duan&#8208;Jian Tao, Qian He, Yanhong Chao, Wenshuai Zhu, Sheng Dai, Small. None(None)] 2024. https://openalex.org/W4403303982
+
+                Layered double hydroxides (LDHs), especially high-entropy LDHs (HE-LDHs), have gained increasing attention. However, HE-LDHs often possess poor thermal stability, restricting their applications in thermo-catalysis. Herein, a novel complexing nucleation method is proposed for engineering HE-LDHs with enhanced thermal stability. This approach precisely controls the nucleation of metal ions with different solubility products, achieving homogeneous nucleation and effectively mitigating phase segregation and transformation at elevated temperatures. The prepared HE-LDH sample demonstrated exceptional thermal stability at temperatures up to 300 &#176;C, outperforming all previously reported LDHs. Importantly, these HE-LDHs preserve both Lewis and Br&#248;nsted acidic sites, enabling the 100% removal of aromatic sulfides and alkaline nitrogen compounds from fuel oils in thermo-catalytic oxidation reactions. Experimental and characterization findings reveal that the metal-hydroxide bonds in the prepared HE-LDHs are strengthened by associated hydroxyl groups, inducing negative thermal expansion and augmenting the presence of acidic sites, thereby ensuring structural stability and enhancing catalytic activity. This study not only proposes a strategy for engineering HE-LDHs with remarkable thermal stability but also highlights potential applications of LDHs in thermo-catalysis.</description>
+      <author>Chang Deng, R. Liu, Peiwen Wu, Xiaogang Wang, Shibo Xi, Duan&#8208;Jian Tao, Qian He, Yanhong Chao, Wenshuai Zhu, Sheng Dai</author>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202406685</guid>
+    </item>
   </channel>
 </rss>

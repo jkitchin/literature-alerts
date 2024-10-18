@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Oct 2024 01:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 01:20:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Generation of connections between protein sequence space and chemical space to enable a predictive model for biocatalysis</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-w4dtr</link>
+      <description>Alan Paton, Daniil A. Boiko, Jonathan C. Perkins, Nicholas Cemalovic, Thiago Resch&#252;tzegger, Gabriel dos Passos Gomes, Alison R. H. Narayan, No host. None(None)] 2024. https://openalex.org/W4403430013
+
+                The application of biocatalysis in synthesis has the potential to offer dramatically streamlined routes toward target molecules, exquisite and tunable catalyst-controlled selectivity, as well as more sustainable processes. Despite these advantages, biocatalytic synthetic strategies can be high risk to implement. Successful execution of these approaches requires identifying an enzyme capable of performing chemistry on a specific intermediate in a synthesis which often calls for extensive screening of enzymes and protein engineering. Strategies for predicting which enzyme is most likely to be compatible with a given small molecule have been hindered by the lack of well-studied biocatalytic reactions. The under exploration of connections between chemical and protein sequence spaces constrains navigation between these two landscapes. Herein, this longstanding challenge is overcome in a two-phase effort relying on high throughput experimentation to populate connections between substrate chemical space and biocatalyst sequence space, and the subsequent development of machine learning models that enable the navigation between these two landscapes. Using a curated library of &#945;-ketoglutarate-dependent non-heme iron (NHI) enzymes, the BioCatSet1 dataset was generated to capture the reactivity of each biocatalyst with &gt;100 substrates. In addition to the discovery of novel chemistry, BioCatSet1 was leveraged to develop a predictive workflow that provides a ranked list of enzymes that have the greatest compatibility with a given substrate. To make this tool accessible to the community, we built CATNIP, an open access web interface to our predictive workflows. We anticipate our approach can be readily expanded to additional enzyme and transformation classes, and will derisk the application of biocatalysis in chemical synthesis.</description>
+      <author>Alan Paton, Daniil A. Boiko, Jonathan C. Perkins, Nicholas Cemalovic, Thiago Resch&#252;tzegger, Gabriel dos Passos Gomes, Alison R. H. Narayan</author>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-w4dtr</guid>
+    </item>
   </channel>
 </rss>
