@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Oct 2024 01:20:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 01:19:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,26 @@
       <author>Alan Paton, Daniil A. Boiko, Jonathan C. Perkins, Nicholas Cemalovic, Thiago Resch&#252;tzegger, Gabriel dos Passos Gomes, Alison R. H. Narayan</author>
       <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-w4dtr</guid>
+    </item>
+    <item>
+      <title>Modifying the Abdul-Razzak &amp;amp; Ghan aerosol activation parameterization (version ARG2000) impacts simulated cloud radiative effects (shown in the UK Met Office Unified Model, version 13.0)</title>
+      <link>https://doi.org/10.5194/egusphere-2024-2423</link>
+      <description>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Nina Xu, Wei Zhang, Hamish Gordon, No host. None(None)] 2024. https://openalex.org/W4403497021
+
+                Abstract. The representation of aerosol activation is a key source of uncertainty in global composition-climate model simulations of aerosol-cloud interactions. The Abdul-Razzak and Ghan (ARG) activation parameterization is used in several global and regional models that employ modal aerosol microphysics schemes. In this study, we investigate the ability of the ARG parameterization to reproduce simulations with a cloud parcel model, and find its performance is sensitive to the geometric standard deviations (widths) of the lognormal aerosol modes. We recommend adjustments to three constant parameters in the ARG equations, which improve the performance of the parameterization for small mode widths and its ability to simulate activation in polluted conditions. For the accumulation mode width of 1.4 used in the Met Office Unified Model (UM), our modifications decrease the mean bias in the activated fraction of aerosols compared to a cloud parcel model from -6.6 % to +1.2 %. We implemented our improvements in the UM and compared simulated global cloud droplet concentrations with satellite observations. The simulated cloud radiative effect changes by -1.43 Wm-2 and aerosol indirect radiative forcing over the industrial period changes by -0.10 Wm-2.</description>
+      <author>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Nina Xu, Wei Zhang, Hamish Gordon</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-2423</guid>
+    </item>
+    <item>
+      <title>Supplementary material to "Modifying the Abdul-Razzak &amp;amp; Ghan aerosol activation parameterization (version ARG2000) impacts simulated cloud radiative effects (shown in the UK Met Office Unified Model, version 13.0)"</title>
+      <link>https://doi.org/10.5194/egusphere-2024-2423-supplement</link>
+      <description>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon, No host. None(None)] 2024. https://openalex.org/W4403497188
+
+                No abstract</description>
+      <author>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-2423-supplement</guid>
     </item>
   </channel>
 </rss>

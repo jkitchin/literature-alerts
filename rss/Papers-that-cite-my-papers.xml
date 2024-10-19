@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Oct 2024 01:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 01:19:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Potential-dependent kinetics of oxygen chemisorption as the crucial step of oxygen reduction reaction: GCDFT study</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118708</link>
-      <description>Vitaliy A. Kislenko, &#1057;. &#1042;. &#1055;&#1072;&#1074;&#1083;&#1086;&#1074;, Sergey A. Kislenko, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4403287304
-
-                No abstract</description>
-      <author>Vitaliy A. Kislenko, &#1057;. &#1042;. &#1055;&#1072;&#1074;&#1083;&#1086;&#1074;, Sergey A. Kislenko</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118708</guid>
-    </item>
     <item>
       <title>Used Literature</title>
       <link>https://doi.org/10.1002/9781394173310.oth</link>
@@ -26,126 +16,6 @@
       <author/>
       <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9781394173310.oth</guid>
-    </item>
-    <item>
-      <title>A review on renewable energy: Conversion and utilization of biomass</title>
-      <link>https://doi.org/10.1002/smo.20240019</link>
-      <description>Xinping Yang, Yongjia Zhang, Peiliang Sun, Chong Peng, Smart Molecules. None(None)] 2024. https://openalex.org/W4403295336
-
-                Abstract The significant increase in demand for fuels and chemicals driven by global economic expansion has exacerbated concerns over fossil fuel consumption and environmental pollution. To achieve sustainable production of fuels and chemicals, biomass resources provide a rich repository for carbon&#8208;neutral, green renewable energy, and organic carbon. This paper reviews the transformation and utilization of lignocellulosic biomass and its derivatives, emphasizing their valorization into high&#8208;quality chemicals and biofuels. The advantages and disadvantages of various pretreatment methods are discussed based on the composition of lignocellulose. Furthermore, the methods and pathways for the valorization and conversion of cellulose, hemicellulose, and lignin are detailed according to the unique functional groups of different lignocellulosic platform molecules. However, the complex and resilient structure of biomass presents challenges for the disassembly and utilization of single components, and achieving high yields and selectivity for target products remains difficult. In conclusion, this paper comprehensively reviews the various types and pretreatment technologies of lignocellulose, focusing on the methods and pathways for the valorization of lignocellulosic biomass and its derivatives, thereby providing clear guidance and insights for optimizing lignocellulose utilization in the future.</description>
-      <author>Xinping Yang, Yongjia Zhang, Peiliang Sun, Chong Peng</author>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smo.20240019</guid>
-    </item>
-    <item>
-      <title>Revealing OH species in situ generated on low-valence Cu sites for selective carbonyl oxidation</title>
-      <link>https://doi.org/10.1073/pnas.2408770121</link>
-      <description>Yang Cao, Qiaozhi Zhang, Iris K.M. Yu, Daniel C.W. Tsang, Proceedings of the National Academy of Sciences. 121(42)] 2024. https://openalex.org/W4403298282
-
-                Catalytic oxidation through the transfer of lattice oxygen from metal oxides to reactants, namely the Mars-van Krevelen mechanism, has been widely reported. In this study, we evidence the overlooked oxidation route that features the in situ formation of surface OH species on Cu catalysts and its selective addition to the reactant carbonyl group. We observed that glucose oxidation to gluconic acid in air (21% O</description>
-      <author>Yang Cao, Qiaozhi Zhang, Iris K.M. Yu, Daniel C.W. Tsang</author>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2408770121</guid>
-    </item>
-    <item>
-      <title>Interfacial Electric Fields Drive Rearrangement of Adsorbed Cysteine and Electrolyte Ions on Au Electrodes</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c04216</link>
-      <description>H. Sudhakar, Julie Renner, Robert E. Warburton, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403298496
-
-                Electrode surfaces modified with peptides or other biomolecules are of great interest for applications in catalysis and separations. At the electrochemical interface, the structure of biomolecular adsorbates may be sensitive to the applied potential and the distribution of solvent and ions near the electrode surface. Herein, periodic density functional theory (DFT) calculations are used to describe changes in the adsorption structure of the l-cysteine amino acid on Au(111) as a function of applied potential. This theoretical study reveals the fundamental mechanisms of potential-dependent rearrangement of cysteine on electrode surfaces. These systems are analyzed using a hybrid quantum&#8211;classical computational approach that combines constant-potential periodic DFT with a classical representation of the liquid electrolyte. In agreement with experimental measurements, grand canonical thermodynamic analyses suggest that the cysteine exists primarily in its zwitterionic form over a wide range of applied potentials. The structure of adsorbed zwitterionic cysteine is dictated by the cationic ammonium and anionic carboxylate functional groups, where these charged moieties experience competing Coulombic interactions with the charged Au(111) surface and the electrolyte ions within the electric double layer. These competing interactions drive the rearrangement of cysteine with applied potential, which in turn determines the nature of ion structuring at the interface. The potential-dependent free energies of cysteine zwitterions are also significantly influenced by the ionic strength of the electrolyte because of the interactions between charged zwitterion functional groups and oppositely charged electrolyte ions. Understanding the interplay between adsorption structure, applied potential, and electrolyte ion structuring can guide the assembly of structured biomolecules on solid surfaces. The impact of zwitterionic amino acids and peptides on near-surface electrolyte composition may be further exploited to tailor microenvironments for various applications of interfacial electrochemistry.</description>
-      <author>H. Sudhakar, Julie Renner, Robert E. Warburton</author>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04216</guid>
-    </item>
-    <item>
-      <title>Cu&#8722;based bimetallic sites' p-d orbital hybridization promotes CO asymmetric coupling conversion to C2 products</title>
-      <link>https://doi.org/10.1016/j.mtphys.2024.101565</link>
-      <description>Jiayong Xiao, Jofrey J. Masana, Ming Qiu, Ying Yu, Materials Today Physics. None(None)] 2024. https://openalex.org/W4403302059
-
-                No abstract</description>
-      <author>Jiayong Xiao, Jofrey J. Masana, Ming Qiu, Ying Yu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101565</guid>
-    </item>
-    <item>
-      <title>Recent advances and modulation tactics in Ru- and Ir-based electrocatalysts for PEMWE anodes at large current densities</title>
-      <link>https://doi.org/10.1016/j.esci.2024.100323</link>
-      <description>Yu Wang, Haijing Yan, Honggang Fu, eScience. None(None)] 2024. https://openalex.org/W4403302755
-
-                No abstract</description>
-      <author>Yu Wang, Haijing Yan, Honggang Fu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100323</guid>
-    </item>
-    <item>
-      <title>First-principles Thermodynamical Modeling of Molecular Reactions on &#945;-U(001) and &#945;-UH3(001) Surfaces and Their Influence on Hydrogen Activation</title>
-      <link>https://doi.org/10.1016/j.jnucmat.2024.155455</link>
-      <description>Jinfan Chen, Tao Tang, Journal of Nuclear Materials. None(None)] 2024. https://openalex.org/W4403303670
-
-                No abstract</description>
-      <author>Jinfan Chen, Tao Tang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jnucmat.2024.155455</guid>
-    </item>
-    <item>
-      <title>Implementation of frozen density embedding in CP2K and OpenMolcas: CASSCF wavefunctions embedded in a Gaussian and plane wave DFT environment</title>
-      <link>https://doi.org/10.1063/5.0222409</link>
-      <description>Lukas Schreder, Sandra Luber, The Journal of Chemical Physics. 161(14)] 2024. https://openalex.org/W4403305801
-
-                Most chemical processes happen at a local scale where only a subset of molecular orbitals is directly involved and only a subset of covalent bonds may be rearranged. To model such reactions, Density Functional Theory (DFT) is often inadequate, and the use of computationally more expensive correlated wavefunction (WF) methods is required for accurate results. Mixed-resolution approaches backed by quantum embedding theory have been used extensively to approach this imbalance. Based on the frozen density embedding freeze-and-thaw algorithm, we describe an approach to embed complete active space self-consistent field simulations run in the OpenMolcas code in a DFT environment calculated in CP2K without requiring any external tools. This makes it possible to study a local, active part of a chemical system in a larger and relatively static environment with a computational cost balanced between the accuracy of a WF method and the efficiency of DFT, which we test on environment&#8211;subsystem pairs. Finally, we apply the implementation to an oxygen molecule leaving an aluminum (111) surface and a ruthenium(IV) oxide (110) surface.</description>
-      <author>Lukas Schreder, Sandra Luber</author>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0222409</guid>
-    </item>
-    <item>
-      <title>MOF-derived CuNi-doped RuO2 electrocatalyst with abundant oxygen vacancies for the oxygen evolution reaction in PEM water electrolysis</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.176940</link>
-      <description>Sunjin Park, Debasish Mandal, Hansung Kim, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403312301
-
-                No abstract</description>
-      <author>Sunjin Park, Debasish Mandal, Hansung Kim</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.176940</guid>
-    </item>
-    <item>
-      <title>The past, present, and future of low-dimensional materials</title>
-      <link>https://doi.org/10.1016/b978-0-443-29046-6.00013-4</link>
-      <description>Hui&#8208;Ming Cheng, Dai&#8208;Ming Tang, Xiaolong Zou, Lili Zhang, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4403316836
-
-                No abstract</description>
-      <author>Hui&#8208;Ming Cheng, Dai&#8208;Ming Tang, Xiaolong Zou, Lili Zhang</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-29046-6.00013-4</guid>
-    </item>
-    <item>
-      <title>Novel properties of low-dimensional materials</title>
-      <link>https://doi.org/10.1016/b978-0-443-29046-6.00011-0</link>
-      <description>Hui&#8208;Ming Cheng, Dai&#8208;Ming Tang, Xiaolong Zou, Lili Zhang, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4403316858
-
-                No abstract</description>
-      <author>Hui&#8208;Ming Cheng, Dai&#8208;Ming Tang, Xiaolong Zou, Lili Zhang</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-29046-6.00011-0</guid>
-    </item>
-    <item>
-      <title>Atomic Manipulation to Create High-Valent Fe&lt;sup&gt;4+&lt;/sup&gt; for Efficient and Ultrastable Oxygen Evolution at Industrial-Level Current Density</title>
-      <link>https://doi.org/10.1021/acsnano.4c09259</link>
-      <description>Yong Feng, Huan Wang, Kun Feng, Chengyu Li, Shuo Li, Cheng L&#252;, Youyong Li, Ding Ma, Jun Zhong, ACS Nano. None(None)] 2024. https://openalex.org/W4403318150
-
-                Manipulating the electronic structure of a catalyst at the atomic level is an effective but challenging way to improve the catalytic performance. Here, by stretching the Fe-O bond in FeOOH with an inserted Mo atom, a Fe-O-Mo unit can be created, which will induce the formation of high-valent Fe</description>
-      <author>Yong Feng, Huan Wang, Kun Feng, Chengyu Li, Shuo Li, Cheng L&#252;, Youyong Li, Ding Ma, Jun Zhong</author>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c09259</guid>
-    </item>
-    <item>
-      <title>Cutting-Edge PCN-ZnO Nanocomposites with Experimental and DFT Insights into Enhanced Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsaem.4c01932</link>
-      <description>Narayan N. Som, A. Opali&#324;ska, Madhurya Chandel, Pratik M. Pataniya, Iwona Koltsov, Julita Smalc&#8208;Koziorowska, Anna &#346;widerska&#8208;&#346;roda, S. Gierlotka, C.K. Sumesh, Witold &#321;ojkowski, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4403318557
-
-                No abstract</description>
-      <author>Narayan N. Som, A. Opali&#324;ska, Madhurya Chandel, Pratik M. Pataniya, Iwona Koltsov, Julita Smalc&#8208;Koziorowska, Anna &#346;widerska&#8208;&#346;roda, S. Gierlotka, C.K. Sumesh, Witold &#321;ojkowski</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c01932</guid>
     </item>
     <item>
       <title>Reduction of carbon dioxide to methane and ethanol on the surface of graphyne-like boron nitride (BNyen) monolayer: A DFT study</title>
@@ -368,6 +238,16 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0231559</guid>
     </item>
     <item>
+      <title>Influence of Capping Ligands on Metal-Nanoparticle-Driven Hydrogen Evolution and CO2 Reduction Reactions</title>
+      <link>https://doi.org/10.1007/3418_2024_116</link>
+      <description>Gerard Mart&#237;, &#193;lvaro Lozano-Roche, Nuria Romero, Laia Franc&#224;s, Karine Philippot, Roger Bofill, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala, Topics in organometallic chemistry. None(None)] 2024. https://openalex.org/W4403433128
+
+                No abstract</description>
+      <author>Gerard Mart&#237;, &#193;lvaro Lozano-Roche, Nuria Romero, Laia Franc&#224;s, Karine Philippot, Roger Bofill, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/3418_2024_116</guid>
+    </item>
+    <item>
       <title>Design of Electrocatalysts with High Performance Based on Thermodynamics and Kinetics: Progress and Prospects</title>
       <link>https://doi.org/10.1002/adfm.202413826</link>
       <description>Minshu Du, Feihan Yu, Shumin Gong, Liu Feng, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403433257
@@ -418,6 +298,76 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115798</guid>
     </item>
     <item>
+      <title>Machine Learning-Enhanced Screening of Single-Atom Alloy Clusters for Nitrogen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c12184</link>
+      <description>Arunendu Das, Diptendu Roy, A. Das, Biswarup Pathak, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403462161
+
+                The electrochemical nitrogen reduction reaction (eNRR) under ambient conditions is a promising method to generate ammonia (NH3), a crucial precursor for fertilizers and chemicals, without carbon emissions. Single-atom alloy catalysts (SAACs) have reinvigorated catalytic processes due to their high activity, selectivity, and efficient use of active atoms. Here, we employed density functional theory (DFT) calculations integrated with machine learning (ML) to investigate dodecahedral nanocluster-based SAACs for analyzing structure&#8211;activity relationships in eNRR. Over 300 nanocluster-based SAACs were screened with all the transition metals as dopants to develop an ML model predicting stability and catalytic performance. Facet sites were identified as optimal doping positions, particularly with late group transition metals showing superior stability and activity. Utilizing DFT+ML, we identified 8 highly suitable SAACs for eNRR. Interestingly, the number of valence d-electrons in dopants proved crucial in screening for eNRR activity. These catalysts exhibited low activity in hydrogen evolution reaction, further enhancing their suitability for eNRR. This successful ML-driven approach accelerates catalyst design and discovery, holding significant practical implications.</description>
+      <author>Arunendu Das, Diptendu Roy, A. Das, Biswarup Pathak</author>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c12184</guid>
+    </item>
+    <item>
+      <title>Enhanced CO2-to-CH4 conversion via grain boundary oxidation effect in CuAg systems</title>
+      <link>https://doi.org/10.1016/j.cej.2024.156728</link>
+      <description>Lei Wang, Xue Yao, Yi Xiao, Cheng Du, Xiyang Wang, Dmitry Akhmetzyanov, Zuolong Chen, Youchao Teng, Tao Guo, Yongzan Zhou, Joel P. Mills, Ning Chen, Weifeng Chen, Brant Billinghurst, Khaled M. Ibrahim, Jamie H. Warner, Chandra Veer Singh, Zhongchao Tan, Samira Siahrostami, Yimin A. Wu, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403466206
+
+                No abstract</description>
+      <author>Lei Wang, Xue Yao, Yi Xiao, Cheng Du, Xiyang Wang, Dmitry Akhmetzyanov, Zuolong Chen, Youchao Teng, Tao Guo, Yongzan Zhou, Joel P. Mills, Ning Chen, Weifeng Chen, Brant Billinghurst, Khaled M. Ibrahim, Jamie H. Warner, Chandra Veer Singh, Zhongchao Tan, Samira Siahrostami, Yimin A. Wu</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156728</guid>
+    </item>
+    <item>
+      <title>Atomically dispersed ruthenium single-atom alloy catalysts enabling efficient iodide oxidation reaction electrolysis in acidic media</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.10.155</link>
+      <description>Dessalew Berihun Adam, Wei&#8208;Hsiang Huang, Meng&#8722;Che Tsai, Wei&#8208;Nien Su, Bing&#8208;Joe Hwang, International Journal of Hydrogen Energy. 91(None)] 2024. https://openalex.org/W4403468069
+
+                No abstract</description>
+      <author>Dessalew Berihun Adam, Wei&#8208;Hsiang Huang, Meng&#8722;Che Tsai, Wei&#8208;Nien Su, Bing&#8208;Joe Hwang</author>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.155</guid>
+    </item>
+    <item>
+      <title>Fleeting-Active-Site-Thrust Oxygen Evolution Reaction by Iron Cations from the Electrolyte</title>
+      <link>https://doi.org/10.1021/jacs.4c09585</link>
+      <description>Zeyu Wang, Hai Xiao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403471736
+
+                Oxygen evolution reaction (OER) is key to sustainable energy and environmental engineering, thus necessitating rational design of high-performing electrocatalysts that requires understanding the structure-performance relationship with a possible dynamic nature under working conditions. Herein, we uncover a novel type of OER mechanisms thrust by the fleeting active sites (FASs) dynamically formed on Ni-based layered double hydroxides (Ni-LDHs) by Fe cations from the electrolyte under OER potentials. We employ grand-canonical ensemble methods and microkinetic modeling to elucidate the potential-dependent structures of FASs on Ni-LDHs and demonstrate that the fleeting-active-site-thrust (FAST) mechanism delivers superior OER activity via the FAST intramolecular oxygen coupling pathway, which also suppresses the lattice oxygen mechanism, leading to improved operando stability of Ni-LDHs. We further reveal that introducing only trace-level loadings (10-100 ppm) of FASs on Ni-LDHs can significantly boost and govern the catalytic performance for OER. This underscores the crucial importance of considering the novel FAST mechanism in OER and also suggests the electrolyte as a key part of the structure-performance relationship as well as an effective design strategy via engineering the electrolyte.</description>
+      <author>Zeyu Wang, Hai Xiao</author>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c09585</guid>
+    </item>
+    <item>
+      <title>Computational insight into the selectivity of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1392" altimg="si14.svg"&gt;&lt;mml:mi&gt;&#947;&lt;/mml:mi&gt;&lt;/mml:math&gt;-valerolactone hydrodeoxygenation over Rh(111) and Ru(0001)</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122624</link>
+      <description>Minttu M. Kauppinen, Ewa N. Szlapa, Jos&#233; Luis Gonz&#225;lez Escobedo, Riikka L. Puurunen, Karoliina Honkala, Surface Science. None(None)] 2024. https://openalex.org/W4403472824
+
+                No abstract</description>
+      <author>Minttu M. Kauppinen, Ewa N. Szlapa, Jos&#233; Luis Gonz&#225;lez Escobedo, Riikka L. Puurunen, Karoliina Honkala</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122624</guid>
+    </item>
+    <item>
+      <title>Catalyst Screening and Mechanism Elucidation of Two-Dimensional Transition Metal Coordinated Porphyrin-Analogue Materials for Nitrogen Fixation</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04313</link>
+      <description>Wenfeng Hu, Bingyi Song, Li&#8208;Ming Yang, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403480668
+
+                No abstract</description>
+      <author>Wenfeng Hu, Bingyi Song, Li&#8208;Ming Yang</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04313</guid>
+    </item>
+    <item>
+      <title>Research progress and prospects of unitized regenerative fuel cells</title>
+      <link>https://doi.org/10.1360/tb-2024-0560</link>
+      <description>Diankai Qiu, Yang Liu, Zhonghao Zhang, Mengdi Guo, Yang Miao, Linfa Peng, Chinese Science Bulletin (Chinese Version). None(None)] 2024. https://openalex.org/W4403482958
+
+                No abstract</description>
+      <author>Diankai Qiu, Yang Liu, Zhonghao Zhang, Mengdi Guo, Yang Miao, Linfa Peng</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1360/tb-2024-0560</guid>
+    </item>
+    <item>
       <title>Electrochemical regeneration of high-purity CO2 from (bi)carbonates in a porous solid electrolyte reactor for efficient carbon capture</title>
       <link>https://doi.org/10.1038/s41560-024-01654-z</link>
       <description>Xiao Zhang, Zhiwei Fang, Peng Zhu, Xia Yang, Haotian Wang, Nature Energy. None(None)] 2024. https://openalex.org/W4403338665
@@ -426,6 +376,16 @@
       <author>Xiao Zhang, Zhiwei Fang, Peng Zhu, Xia Yang, Haotian Wang</author>
       <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41560-024-01654-z</guid>
+    </item>
+    <item>
+      <title>In situ examination of oxygen vacancy dynamics in epitaxial LaCoO3 thin films</title>
+      <link>https://doi.org/10.1051/bioconf/202412922033</link>
+      <description>Seung Jo Yoo, Jihyun Lee, Sang&#8208;Gil Lee, Hyung Joong Yun, BIO Web of Conferences. 129(None)] 2024. https://openalex.org/W4403496353
+
+                No abstract</description>
+      <author>Seung Jo Yoo, Jihyun Lee, Sang&#8208;Gil Lee, Hyung Joong Yun</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/bioconf/202412922033</guid>
     </item>
     <item>
       <title>Recent development of non&#8208;iridium&#8208;based electrocatalysts for acidic oxygen evolution reaction</title>
@@ -438,6 +398,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cnl2.170</guid>
     </item>
     <item>
+      <title>Computational Design of Catalysts with Experimental Validation: Recent Successes, Effective Strategies, and Pitfalls</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04949</link>
+      <description>Hajar Hosseini, Connor J. Herring, Chukwudi F. Nwaokorie, Gloria A Sulley, M. M. Montemore, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403489277
+
+                No abstract</description>
+      <author>Hajar Hosseini, Connor J. Herring, Chukwudi F. Nwaokorie, Gloria A Sulley, M. M. Montemore</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04949</guid>
+    </item>
+    <item>
       <title>Predicting Crystalline Material Properties with AI: Bridging Molecular to Particle Scales</title>
       <link>https://doi.org/10.1021/acs.iecr.4c03224</link>
       <description>Weiye Chen, Muyang Li, Tuo Yao, &#1041;&#1086; &#1051;&#1102;, Shengzhe Jia, Zhenguo Gao, Junbo Gong, Industrial &amp; Engineering Chemistry Research. None(None)] 2024. https://openalex.org/W4403423791
@@ -446,6 +416,16 @@
       <author>Weiye Chen, Muyang Li, Tuo Yao, &#1041;&#1086; &#1051;&#1102;, Shengzhe Jia, Zhenguo Gao, Junbo Gong</author>
       <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c03224</guid>
+    </item>
+    <item>
+      <title>Porosity Prediction using Bagging Ensemble Machine Learning in CCUS Reservoirs. A Case Study: Darling Basin, Australia</title>
+      <link>https://doi.org/10.21203/rs.3.rs-4964600/v1</link>
+      <description>Kushan Sandunil, Ziad Bennour, Saaveethya Sivakumar, Hisham Ben Mahmud, Ausama Giwelli, No host. None(None)] 2024. https://openalex.org/W4403496931
+
+                Abstract Machine learning (ML), a subset of artificial intelligence, has been utilised in many engineering fields, such as computer engineering, electrical engineering, civil engineering petroleum engineering. Bagging ensemble algorithms have been employed for parameter prediction, as they theoretically outperform traditional ML algorithms. Carbon dioxide capture and storage (CCS) is a strategy implemented to mitigate carbon dioxide emissions. A vital aspect of CCS assessment is determining carbon storage capacity, which estimates the amount of CO2 that can be stored in the subsurface. Porosity is a critical parameter in calculating this capacity. In this study, the applicability of regression friendly bagging ensemble ML models; random forest regression (RFR) and extra tree regression (ETR) to estimate porosity of a sandstone layer as part of a CCS program was investigated. RFR models were developed considering caliper log (CAL), gamma ray log (GR), neutron log (NPHI), photoelectric factor log (PE) and deep laterolog (LLD) input features and calculated porosity as targets. Moreover, four traditional (classical) ML models, multilayer perceptron (MLP), support vector regression (SVR), k-nearest neighbor (KNN) and decision tree regression (DTR), were developed to compare them with the bagging ensemble models. The results showed that the RFR model achieved a testing model R2 value of 0.9668, while ETR model achieved a resting model R2 value of 0.9569. The higher R2 value of the RFR model makes it a better choice for predicting porosity in CCS assessment projects. However, if computational time is a critical factor, ETR could be preferable, as it required only1/3 of the computational time that of the RFR model. Furthermore, when the performance of these models was compared with the four traditional ML models the two bagging ensembles distinctly outperformed the traditional models.</description>
+      <author>Kushan Sandunil, Ziad Bennour, Saaveethya Sivakumar, Hisham Ben Mahmud, Ausama Giwelli</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4964600/v1</guid>
     </item>
   </channel>
 </rss>
