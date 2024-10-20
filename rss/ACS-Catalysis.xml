@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Oct 2024 01:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 01:26:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Suzuki&#8211;Miyaura Cross-Couplings of Alkylboranes: Transmetalation Studies and Synthesis of Model Organopalladium Pretransmetalation Species</title>
-      <link>https://doi.org/10.1021/acscatal.4c05053</link>
-      <description>Angus Olding, Curtis C. Ho, Nigel T. Lucas, Brian F. Yates, Allan J. Canty, Alex C. Bissember, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403347353
-
-                No abstract</description>
-      <author>Angus Olding, Curtis C. Ho, Nigel T. Lucas, Brian F. Yates, Allan J. Canty, Alex C. Bissember</author>
-      <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05053</guid>
-    </item>
-    <item>
-      <title>Pt&lt;sub&gt;1&lt;/sub&gt;Bi Single-Atom Alloy for a Coupled Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction and Aryl Olefin Oxidation System</title>
-      <link>https://doi.org/10.1021/acscatal.4c02868</link>
-      <description>Peng Bai, Yicheng Zhao, Yongdan Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403329007
-
-                No abstract</description>
-      <author>Peng Bai, Yicheng Zhao, Yongdan Li</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02868</guid>
-    </item>
-    <item>
-      <title>Efficient Dehydration of 1-Phenylethanol to Styrene by Copper(II) and Zinc(II) Fused-Bisoxazolidine Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c04572</link>
-      <description>Aurodeep Panda, Caroline R. Wood, William W. Brennessel, William D. Jones, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403332532
-
-                No abstract</description>
-      <author>Aurodeep Panda, Caroline R. Wood, William W. Brennessel, William D. Jones</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04572</guid>
-    </item>
-    <item>
-      <title>Tuning the Reconstruction of Metal&#8211;Organic Frameworks during the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c03618</link>
-      <description>Xiaoxin Ma, Lena Schr&#246;ck, Guanhui Gao, Qing Ai, Maider Zarrabeitia, Caiwu Liang, Mian Zahid Hussain, Rachit Khare, Kun&#8208;Ting Song, Daniel J. Zheng, Max Koch, Ifan E. L. Stephens, Shujin Hou, Yang Shao&#8208;Horn, Julien Warnan, Aliaksandr S. Bandarenka, Roland A. Fischer, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403333477
-
-                No abstract</description>
-      <author>Xiaoxin Ma, Lena Schr&#246;ck, Guanhui Gao, Qing Ai, Maider Zarrabeitia, Caiwu Liang, Mian Zahid Hussain, Rachit Khare, Kun&#8208;Ting Song, Daniel J. Zheng, Max Koch, Ifan E. L. Stephens, Shujin Hou, Yang Shao&#8208;Horn, Julien Warnan, Aliaksandr S. Bandarenka, Roland A. Fischer</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03618</guid>
-    </item>
-    <item>
-      <title>Molecular Understanding of Heterogeneous Hydroformylation on Rh&lt;sub&gt;1&lt;/sub&gt;/CeO&lt;sub&gt;2&lt;/sub&gt;: Morphology Effects</title>
-      <link>https://doi.org/10.1021/acscatal.4c04921</link>
-      <description>Boyang Liu, Yifan Sun, Muhan Li, Z.P. Fan, Xiao Chen, Xiaocheng Lan, Qin Zhong, Tiefeng Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403347687
-
-                No abstract</description>
-      <author>Boyang Liu, Yifan Sun, Muhan Li, Z.P. Fan, Xiao Chen, Xiaocheng Lan, Qin Zhong, Tiefeng Wang</author>
-      <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04921</guid>
-    </item>
     <item>
       <title>A Dynamic Loop in Halohydrin Dehalogenase HheG Regulates Activity and Enantioselectivity in Epoxide Ring Opening</title>
       <link>https://doi.org/10.1021/acscatal.4c04815</link>
@@ -206,6 +156,66 @@
       <author>Federico Dattila, Alessia Fortunati, Federica Zammillo, Hilmar Guzm&#225;n, N&#250;ria L&#243;pez, Simelys Hern&#225;ndez</author>
       <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05012</guid>
+    </item>
+    <item>
+      <title>Pore-Structure Engineering of Hierarchical &#946; Zeolites for the Enhanced Hydrocracking of Waste Plastics to Liquid Fuels</title>
+      <link>https://doi.org/10.1021/acscatal.4c05354</link>
+      <description>Muhammad Usman Azam, Auguste Fernandes, M.J. Ferreira, Waheed Afzal, In&#234;s Gra&#231;a, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403510371
+
+                No abstract</description>
+      <author>Muhammad Usman Azam, Auguste Fernandes, M.J. Ferreira, Waheed Afzal, In&#234;s Gra&#231;a</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05354</guid>
+    </item>
+    <item>
+      <title>Molybdenum-Catalyzed Reductive &lt;i&gt;Ortho&lt;/i&gt;-Allylation of Nitroarenes with 1,3-Dienes</title>
+      <link>https://doi.org/10.1021/acscatal.4c04404</link>
+      <description>Jin&#8208;Liang Lu, Zhi Zhang, Jing&#8208;Tong Deng, Jin&#8208;Bao Peng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403512934
+
+                No abstract</description>
+      <author>Jin&#8208;Liang Lu, Zhi Zhang, Jing&#8208;Tong Deng, Jin&#8208;Bao Peng</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04404</guid>
+    </item>
+    <item>
+      <title>P450DA Monooxygenase-Catalyzed Chemoselective and Enantiodivergent Epoxidation of Unactivated Alkenes</title>
+      <link>https://doi.org/10.1021/acscatal.4c04941</link>
+      <description>Jiajing Li, Xiaojian Zhou, Juan Ao, Jintao Gao, Anni Wang, Zhuanglin Shen, Yang Gu, Jiahai Zhou, Yong&#8208;Zheng Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403514864
+
+                No abstract</description>
+      <author>Jiajing Li, Xiaojian Zhou, Juan Ao, Jintao Gao, Anni Wang, Zhuanglin Shen, Yang Gu, Jiahai Zhou, Yong&#8208;Zheng Chen</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04941</guid>
+    </item>
+    <item>
+      <title>Leveraging Atomic-Scale Synergy for Selective CO&lt;sub&gt;2&lt;/sub&gt; Electrocatalysis to CO over CuNi Dual-Atom Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c05169</link>
+      <description>Bin Chen, Dehuan Shi, Rui Deng, Xin Xu, Wenxia Liu, Wei Yang, Zheyuan Liu, Shenghong Zhong, Jianfeng Huang, Yan Yu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403537276
+
+                No abstract</description>
+      <author>Bin Chen, Dehuan Shi, Rui Deng, Xin Xu, Wenxia Liu, Wei Yang, Zheyuan Liu, Shenghong Zhong, Jianfeng Huang, Yan Yu</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05169</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i020_1857514</link>
+      <description>, ACS Catalysis. 14(20)] 2024. https://openalex.org/W4403550324
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i020_1857514</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i020_1857513</link>
+      <description>, ACS Catalysis. 14(20)] 2024. https://openalex.org/W4403551257
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i020_1857513</guid>
     </item>
   </channel>
 </rss>
