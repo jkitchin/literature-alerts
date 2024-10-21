@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Oct 20 01:26:59 2024
+Created on Mon Oct 21 01:22:40 2024
 
-Found 41 results from 2024-10-13 to 2024-10-20
+Found 48 results from 2024-10-14 to 2024-10-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -16,17 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Cooperativity in Fe2N5P Dual-Atomic Site: Designing Dual Atom Catalysts for Water-Splitting Reactions   
-
-OpenAlex: https://openalex.org/W4403364356    
-Open access: False
-    
-[Tahereh Ghaed-Sharaf](https://openalex.org/A5076334045), [Akbar Omidvar](https://openalex.org/A5029287266), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177025.
-    
-No abstract    
-
-    
 
 ## Carbonate-carbonate coupling on platinum surface promotes electrochemical water oxidation to hydrogen peroxide   
 
@@ -226,6 +215,17 @@ No abstract
 
     
 
+## An Integrated Approach Combining Experimental, Informatics and Energetic Methods for Solid Form Derisking of PF-06282999   
+
+OpenAlex: https://openalex.org/W4403458371    
+Open access: False
+    
+[G. Sadiq](https://openalex.org/A5015048686), [Shubham Sharma](https://openalex.org/A5057052287), [Joanna S. Stevens](https://openalex.org/A5031022610), [Pablo Martínez-Bulit](https://openalex.org/A5029172775), [Lily M. Hunnisett](https://openalex.org/A5040990488), [Christopher P. Cameron](https://openalex.org/A5031732248), [Brian Samas](https://openalex.org/A5003106216), [Emma Hawking](https://openalex.org/A5114290184), [Nicholas Francia](https://openalex.org/A5014678969), [Jeff Lengyel](https://openalex.org/A5048107624), [Elna Pidcock](https://openalex.org/A5018620887), [Sadia Isfat Ara Rahman](https://openalex.org/A5021480019), [Matthew L. Nisbet](https://openalex.org/A5090717235), [Kevin Back](https://openalex.org/A5055891385), [C.L. Doherty](https://openalex.org/A5015532761), [Patricia Basford](https://openalex.org/A5099168465), [Timothy G. Cooper](https://openalex.org/A5031627476), [Garry O'Connor](https://openalex.org/A5063235209), [Rajni M. Bhardwaj](https://openalex.org/A5035281706), Journal of Pharmaceutical Sciences. None(None)] 2024.https://doi.org/10.1016/j.xphs.2024.10.013.
+    
+The landscapes of observed and predicted three-dimensional crystal packing arrangements of small-molecule drug candidates can be complex. The possible appearance of a more thermodynamically stable solid form during drug development has led to the digital workflow of informatics-based risk assessments, named a Solid Form Health Check. Herein, we describe the use of a combined approach consisting of experiments, informatics together with energetic calculations in analysis of four competing polymorphs of PF-06282999, a myeloperoxidase (MPO) inhibitor with conformational flexibility and multiple plausible hydrogen bond networks. This combined approach offered a comprehensive understanding of the solid form structure, properties, and performance, ensuring robust solid form derisking and selection.    
+
+    
+
 ## Machine Learning-Enhanced Screening of Single-Atom Alloy Clusters for Nitrogen Reduction Reaction   
 
 OpenAlex: https://openalex.org/W4403462161    
@@ -397,6 +397,83 @@ OpenAlex: https://openalex.org/W4403538511
 Open access: False
     
 [Latiful Kabir](https://openalex.org/A5093656885), [Karna Wijaya](https://openalex.org/A5073403376), [Jianjun Li](https://openalex.org/A5100439790), [Junjuda Unruangsri](https://openalex.org/A5048351176), [Won‐Chun Oh](https://openalex.org/A5028617030), Journal of environmental chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.jece.2024.114483.
+    
+No abstract    
+
+    
+
+## Single-Atom Underpotential Deposition at Specific Sites of N-Doped Graphene for Hydrogen Evolution Reaction Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4403545133    
+Open access: True
+    
+[Haofei Wu](https://openalex.org/A5009526361), [Qiwen Zhang](https://openalex.org/A5015575924), [Shufen Chu](https://openalex.org/A5024303490), [Hao Du](https://openalex.org/A5038294037), [Yanyue Wang](https://openalex.org/A5083141761), [Pan Liu](https://openalex.org/A5100713390), Materials. 17(20)] 2024.https://doi.org/10.3390/ma17205082.
+    
+Single-atom catalysts (SACs) have the advantages of good active site uniformity, high atom utilization, and high catalytic activity. However, the study of its controllable synthesis still needs to be thoroughly investigated. In this paper, we deposited Cu SAs on nanoporous N-doped graphene by underpotential deposition and further obtained a Pt SAC by a galvanic process. Electrochemical and spectroscopic analyses showed that the pyridine-like N defect sites are the specific sites for the underpotential-deposited SAs. The obtained Pt SAC exhibits a good activity in a hydrogen evolution reaction with a turnover frequency of 25.1 s−1. This work reveals the specific sites of UPD of SAs on N-doped graphene and their potential applications in HERs, which provides a new idea for the design and synthesis of SACs.    
+
+    
+
+## Exploring the Potential of Bimetallic PtPd/C Cathode Catalysts to Enhance the Performance of PEM Fuel Cells   
+
+OpenAlex: https://openalex.org/W4403546602    
+Open access: True
+    
+[В. Е. Гутерман](https://openalex.org/A5048319268), [А. А. Алексеенко](https://openalex.org/A5089436494), [С. В. Беленов](https://openalex.org/A5017267000), [Vladislav Menshikov](https://openalex.org/A5109713426), [Е. А. Могучих](https://openalex.org/A5113837739), [Irina Gerasimova](https://openalex.org/A5088256728), [Kirill Paperzh](https://openalex.org/A5061030710), [Ilya Pankov](https://openalex.org/A5039041883), Nanomaterials. 14(20)] 2024.https://doi.org/10.3390/nano14201672.
+    
+Bimetallic platinum-containing catalysts are deemed promising for electrolyzers and proton-exchange membrane fuel cells (PEMFCs). A significant number of laboratory studies and commercial offers are related to PtNi/C and PtCo/C electrocatalysts. The behavior of PtPd/C catalysts has been studied much less, although palladium itself is the metal closest to platinum in its properties. Using a series of characterization methods, this paper presents a comparative study of structural characteristics of the commercial PtPd/C catalysts containing 38% wt. of precious metals and the well-known HiSpec4000 Pt/C catalyst. The electrochemical behavior of the catalysts was studied both in a three-electrode electrochemical cell and in the membrane electrode assemblies (MEAs) of hydrogen–air PEMFCs. Both PtPd/C samples demonstrated higher values of the electrochemically active surface area, as well as greater specific and mass activity in the oxygen reduction reaction in comparison with conventional Pt/C, while not being inferior to the latter in durability. The MEA based on the best of the PtPd/C catalysts also exhibited higher performance in single tests and long-term durability testing. The results of this study conducted indicate the prospects of using bimetallic PtPd/C materials for cathode catalysts in PEMFCs.    
+
+    
+
+## Mass Transportation Facilitated Porous Fe/Co Dual‐Site Catalytic Cathodes for Ultrahigh‐Power‐Density Al–Air Fuel Cells   
+
+OpenAlex: https://openalex.org/W4403547980    
+Open access: False
+    
+[Kai Chen](https://openalex.org/A5049786309), [Yiqi Liang](https://openalex.org/A5051634881), [Duo Pan](https://openalex.org/A5060834430), [Junheng Huang](https://openalex.org/A5101104662), [Jiyuan Gao](https://openalex.org/A5047198144), [Zhiwen Lu](https://openalex.org/A5088630437), [Бо Лю](https://openalex.org/A5100394072), [Junxiang Chen](https://openalex.org/A5091082342), [Hao Zhang](https://openalex.org/A5100396924), [Xiang Hu](https://openalex.org/A5089926565), [Zhenhai Wen](https://openalex.org/A5080926762), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202404140.
+    
+Abstract The development of oxygen‐dependent fuel cells is frequently hindered by the high cost of cathode materials and the sluggish kinetics of the oxygen reduction reaction (ORR). It is thus crucial to explore low‐cost and high‐activity catalysts with accelerated mass transport. Here, a high‐throughput screening method is developed by integrating an explicit solvation model with machine learning potential‐based molecular dynamics simulations, which enables the efficient evaluation of a vast array of diverse diatomic combinations and ultimately identifying Fe–Co dual‐atomic sites as the optimal ORR electrocatalysts. The superior electrocatalytic performance of the diatomic Fe/Co sites loaded on 3D‐interconnected ordered macroporous carbon (FeCo‐3DMNC) is experimentally verified, achieving high ORR activity with half‐wave potentials of 0.806 V in acidic and 0.905 V in alkaline environments. Additionally, innovative hybrid acid/alkali aluminum–air fuel cells (hA/A‐AAFCs) incorporating FeCo‐3DMNC as the cathode catalyst demonstrate a notably high open‐circuit voltage of 2.72 V and a record‐breaking power density of 827 mW cm −2 , significantly outperforming conventional alkaline aluminum–air fuel cells. This work marks a significant advancement by combining cutting‐edge computational screening with rigorous experimental validation to develop promising electrocatalysts, potentially paving the way for the advanced energy storage and conversion technologies.    
+
+    
+
+## Active learning accelerated exploration of single-atom local environments in multimetallic systems for oxygen electrocatalysis   
+
+OpenAlex: https://openalex.org/W4403560061    
+Open access: True
+    
+[Hoje Chun](https://openalex.org/A5034081562), [Jaclyn R. Lunger](https://openalex.org/A5016649060), [Jeung Ku Kang](https://openalex.org/A5042923657), [Rafael Gómez‐Bombarelli](https://openalex.org/A5018079613), [Byungchan Han](https://openalex.org/A5036749276), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01432-1.
+    
+No abstract    
+
+    
+
+## Reviewing the Complexity of Endogenous Technological Learning for Energy System Modeling   
+
+OpenAlex: https://openalex.org/W4403561700    
+Open access: True
+    
+[Johannes Behrens](https://openalex.org/A5082244362), [Elisabeth Zeyen](https://openalex.org/A5081788699), [Maximilian Hoffmann](https://openalex.org/A5102510666), [Detlef Stolten](https://openalex.org/A5004526973), [Jann Michael Weinand](https://openalex.org/A5064139912), Advances in Applied Energy. None(None)] 2024.https://doi.org/10.1016/j.adapen.2024.100192.
+    
+No abstract    
+
+    
+
+## Revisiting the role of foreign atoms in CO2 reduction on CuSn single-atom surface alloys   
+
+OpenAlex: https://openalex.org/W4403563779    
+Open access: False
+    
+[Vitaliy A. Kislenko](https://openalex.org/A5013321321), [Sergey A. Kislenko](https://openalex.org/A5074210515), [Victoria A. Nikitina](https://openalex.org/A5068167659), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118718.
+    
+No abstract    
+
+    
+
+## Interfacial anchoring cobalt species mediated advanced oxidation: Degradation performance and mechanism of organic pollutants   
+
+OpenAlex: https://openalex.org/W4403563889    
+Open access: False
+    
+[Z. Chen](https://openalex.org/A5083981720), [Guanghao Meng](https://openalex.org/A5081767465), [Zenghui Han](https://openalex.org/A5073389894), [Hongjiang Li](https://openalex.org/A5101887632), [Shao‐Ming Chi](https://openalex.org/A5070554076), [Guangzhi Hu](https://openalex.org/A5053355651), [Xue Zhao](https://openalex.org/A5057904713), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.097.
     
 No abstract    
 

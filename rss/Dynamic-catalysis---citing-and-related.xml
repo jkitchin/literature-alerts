@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Oct 2024 01:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 01:22:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Sanaz Soodi, Eleonora Cal&#236;, Shailza Saini, William S. J. Skinner, Alex Martinez Martin, Gwilherm Kerherve, Marco Pietro Mezzapesa, Samir Bensaid, David J. Payne, Melis S. Duyar, Kalliopi Kousi</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta05812g</guid>
+    </item>
+    <item>
+      <title>Resolving Active and Spectator Species during the Oxidation of Carbon Monoxide over Pt(111) on the Microsecond Timescale</title>
+      <link>https://doi.org/10.21203/rs.3.rs-5072502/v1</link>
+      <description>Andrey Shavorskiy, Calley Eads, Weijia Wang, Ulrike K&#252;st, Julia Prumbs, Robert H. Temperton, Mattia Scardamaglia, Joachim Schnadt, Jan Jnudsen, No host. None(None)] 2024. https://openalex.org/W4403514136
+
+                Abstract Catalytic studies traditionally rely on steady-state conditions resulting in time-averaged datasets that do not differentiate between active and spectator species. This limitation can cause misinterpretations of catalytic function, as the signal of short-lived intermediates responsible for producing desired reaction products is often masked by more intense spectator species. Time-resolved ambient pressure X-ray photoelectron spectroscopy (tr-APXPS) mitigates this issue by combining microsecond time resolution under reaction conditions. Using tr-APXPS, we investigate the oxidation of CO over Pt(111) by concurrently tracking reaction products, surface intermediates, and catalyst response. Our findings reveal that chemisorbed oxygen, rather than Pt surface oxide, is the main species reacting with CO to form CO2, supporting a primary Langmuir-Hinshelwood mechanism. The results shed new light on a heavily-debated reaction in catalysis. Beyond using CO pulses to determine active species, we demonstrate how careful tuning of pulsing parameters can be used for dynamic catalyst operation to enhance CO2 formation.</description>
+      <author>Andrey Shavorskiy, Calley Eads, Weijia Wang, Ulrike K&#252;st, Julia Prumbs, Robert H. Temperton, Mattia Scardamaglia, Joachim Schnadt, Jan Jnudsen</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5072502/v1</guid>
     </item>
   </channel>
 </rss>

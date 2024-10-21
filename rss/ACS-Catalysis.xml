@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Oct 2024 01:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 01:22:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -102,7 +102,7 @@
       <link>https://doi.org/10.1021/acscatal.4c04227</link>
       <description>Haohan Wu, Bowen Liu, Yi Qi, Xueqing Qiu, Liheng Chen, Yanlin Qin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403483893
 
-                No abstract</description>
+                The electrocatalytic oxidation of 5-hydroxymethylfurfural (HMF) provides a viable pathway for the efficient utilization of biomass resources. However, designing and regulating the activity and selectivity of the corresponding electrocatalysts remain significant challenge. Spinel compounds show great potential as catalysts due to their adjustable electronic structures and notable catalytic properties, but their intrinsic low conductivity has limited their further application. Herein, a lignin-based carbon fiber (LCF) embedded CuFe2O4 catalyst (CuFe2O4/LCF) is successfully constructed using an electrospinning technique. The catalyst can efficiently and selectively synthesize 2,5-furandicarboxylic acid (FDCA) at a relatively low potential. The experimental results and theoretical simulations demonstrate that the introduction of lignin can significantly optimize the pregraphitic turbine carbon microstructure of the carbon fibers and facilitate rapid electron transfer between CuFe2O4 and the carbon layer. Furthermore, the ATd&#8211;O&#8211;BOh interactions on the surface of the CuFe2O4 spinel structure significantly enhance the adsorption capacity for the substrates and OH&#8211; species, effectively promoting the catalytic reaction. The findings hope to provide a unique perspective to improve the catalytic activity of lignin carbon fiber spinel catalysts and the stability of biomass value-added mechanism.</description>
       <author>Haohan Wu, Bowen Liu, Yi Qi, Xueqing Qiu, Liheng Chen, Yanlin Qin</author>
       <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04227</guid>
@@ -198,6 +198,36 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05169</guid>
     </item>
     <item>
+      <title>Regulation of the Properties of Hydrogen Dissociation and Transfer in the Presence of S Atoms for Efficient Hydrogenations</title>
+      <link>https://doi.org/10.1021/acscatal.4c05501</link>
+      <description>H. Liu, Mingyuan Zhang, Xin Liu, Jiali Liu, Huicong Dai, Wenhao Luo, Jian Liu, Rui Gao, Qihua Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403542795
+
+                No abstract</description>
+      <author>H. Liu, Mingyuan Zhang, Xin Liu, Jiali Liu, Huicong Dai, Wenhao Luo, Jian Liu, Rui Gao, Qihua Yang</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05501</guid>
+    </item>
+    <item>
+      <title>Regulating the d-Band Center of Metal&#8211;Organic Frameworks for Efficient Nitrate Reduction Reaction and Zinc-Nitrate Battery</title>
+      <link>https://doi.org/10.1021/acscatal.4c04340</link>
+      <description>Yuanhui Yao, Xiaofei Wei, Haiqiao Zhou, Kai Wei, Bin Kui, Fangfang Wu, Liang Chen, Wei Wang, Fangna Dai, Peng Gao, Nana Wang, Wei Ye, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403543782
+
+                No abstract</description>
+      <author>Yuanhui Yao, Xiaofei Wei, Haiqiao Zhou, Kai Wei, Bin Kui, Fangfang Wu, Liang Chen, Wei Wang, Fangna Dai, Peng Gao, Nana Wang, Wei Ye</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04340</guid>
+    </item>
+    <item>
+      <title>Kinetics, Mechanism, and Thermodynamics of Ceria-Zirconia Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c04771</link>
+      <description>Andrew Hwang, Andrew &#8220;Bean&#8221; Getsoian, Enrique Iglesia, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403544458
+
+                No abstract</description>
+      <author>Andrew Hwang, Andrew &#8220;Bean&#8221; Getsoian, Enrique Iglesia</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04771</guid>
+    </item>
+    <item>
       <title>Issue Editorial Masthead</title>
       <link>https://doi.org/10.1021/csv014i020_1857514</link>
       <description>, ACS Catalysis. 14(20)] 2024. https://openalex.org/W4403550324
@@ -216,6 +246,46 @@
       <author/>
       <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i020_1857513</guid>
+    </item>
+    <item>
+      <title>Regulating the Electrochemical Microenvironment of Ni(OH)&lt;sub&gt;2&lt;/sub&gt; by Cr Doping for Highly Efficient Methanol Electrooxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c05729</link>
+      <description>Hongye Qin, Yukun Ye, Guangliang Lin, Jinyang Zhang, Wenqi Jia, Wei Xia, Lifang Jiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403555556
+
+                No abstract</description>
+      <author>Hongye Qin, Yukun Ye, Guangliang Lin, Jinyang Zhang, Wenqi Jia, Wei Xia, Lifang Jiao</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05729</guid>
+    </item>
+    <item>
+      <title>Furan-Based HTCC/In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; Heterojunction Achieves Fast Charge Separation To Boost the Photocatalytic Generation of H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; in Pure Water</title>
+      <link>https://doi.org/10.1021/acscatal.4c04341</link>
+      <description>Xiaolong Tang, Changlin Yu, Jiaming Zhang, Kaiwei Liu, Debin Zeng, Fang Li, Feng Li, Guijun Ma, Yanbin Jiang, Yongfa Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403558316
+
+                No abstract</description>
+      <author>Xiaolong Tang, Changlin Yu, Jiaming Zhang, Kaiwei Liu, Debin Zeng, Fang Li, Feng Li, Guijun Ma, Yanbin Jiang, Yongfa Zhu</author>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04341</guid>
+    </item>
+    <item>
+      <title>Artificial Peroxidase Based on the Biotin&#8211;Streptavidin Technology that Rivals the Efficiency of Natural Peroxidases</title>
+      <link>https://doi.org/10.1021/acscatal.4c03208</link>
+      <description>Manjistha Mukherjee, Val&#233;rie Waser, E.R. Morris, Nico V. Igareta, Alec H. Follmer, R.P. Jakob, Dilbirin &#220;z&#252;mc&#252;, Timm Maier, Thomas R. Ward, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403558630
+
+                No abstract</description>
+      <author>Manjistha Mukherjee, Val&#233;rie Waser, E.R. Morris, Nico V. Igareta, Alec H. Follmer, R.P. Jakob, Dilbirin &#220;z&#252;mc&#252;, Timm Maier, Thomas R. Ward</author>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03208</guid>
+    </item>
+    <item>
+      <title>Enantioselective Synthesis of Helically Chiral Molecules Enabled by Asymmetric Organocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05345</link>
+      <description>Qingqin Huang, Yuping Tang, Cong-Zhen Zhang, Zhen Wang, Lei Dai, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403565410
+
+                No abstract</description>
+      <author>Qingqin Huang, Yuping Tang, Cong-Zhen Zhang, Zhen Wang, Lei Dai</author>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05345</guid>
     </item>
   </channel>
 </rss>

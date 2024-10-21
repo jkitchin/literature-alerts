@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Oct 20 01:26:50 2024
+Created on Mon Oct 21 01:22:26 2024
 
-Found 21 results from 2024-10-13 to 2024-10-20
+Found 28 results from 2024-10-14 to 2024-10-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -112,7 +112,7 @@ Open access: False
     
 [Haohan Wu](https://openalex.org/A5068717638), [Bowen Liu](https://openalex.org/A5100427700), [Yi Qi](https://openalex.org/A5074169626), [Xueqing Qiu](https://openalex.org/A5071160405), [Liheng Chen](https://openalex.org/A5000326951), [Yanlin Qin](https://openalex.org/A5103110216), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04227.
     
-No abstract    
+The electrocatalytic oxidation of 5-hydroxymethylfurfural (HMF) provides a viable pathway for the efficient utilization of biomass resources. However, designing and regulating the activity and selectivity of the corresponding electrocatalysts remain significant challenge. Spinel compounds show great potential as catalysts due to their adjustable electronic structures and notable catalytic properties, but their intrinsic low conductivity has limited their further application. Herein, a lignin-based carbon fiber (LCF) embedded CuFe2O4 catalyst (CuFe2O4/LCF) is successfully constructed using an electrospinning technique. The catalyst can efficiently and selectively synthesize 2,5-furandicarboxylic acid (FDCA) at a relatively low potential. The experimental results and theoretical simulations demonstrate that the introduction of lignin can significantly optimize the pregraphitic turbine carbon microstructure of the carbon fibers and facilitate rapid electron transfer between CuFe2O4 and the carbon layer. Furthermore, the ATd–O–BOh interactions on the surface of the CuFe2O4 spinel structure significantly enhance the adsorption capacity for the substrates and OH– species, effectively promoting the catalytic reaction. The findings hope to provide a unique perspective to improve the catalytic activity of lignin carbon fiber spinel catalysts and the stability of biomass value-added mechanism.    
 
     
 
@@ -215,6 +215,39 @@ No abstract
 
     
 
+## Regulation of the Properties of Hydrogen Dissociation and Transfer in the Presence of S Atoms for Efficient Hydrogenations   
+
+OpenAlex: https://openalex.org/W4403542795    
+Open access: True
+    
+[H. Liu](https://openalex.org/A5108047019), [Mingyuan Zhang](https://openalex.org/A5100761765), [Xin Liu](https://openalex.org/A5100352111), [Jiali Liu](https://openalex.org/A5100413115), [Huicong Dai](https://openalex.org/A5020370082), [Wenhao Luo](https://openalex.org/A5102811118), [Jian Liu](https://openalex.org/A5100414679), [Rui Gao](https://openalex.org/A5100626433), [Qihua Yang](https://openalex.org/A5004719521), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05501.
+    
+No abstract    
+
+    
+
+## Regulating the d-Band Center of Metal–Organic Frameworks for Efficient Nitrate Reduction Reaction and Zinc-Nitrate Battery   
+
+OpenAlex: https://openalex.org/W4403543782    
+Open access: False
+    
+[Yuanhui Yao](https://openalex.org/A5049900956), [Xiaofei Wei](https://openalex.org/A5086495232), [Haiqiao Zhou](https://openalex.org/A5007159370), [Kai Wei](https://openalex.org/A5107942856), [Bin Kui](https://openalex.org/A5020653776), [Fangfang Wu](https://openalex.org/A5006908085), [Liang Chen](https://openalex.org/A5100731490), [Wei Wang](https://openalex.org/A5100391858), [Fangna Dai](https://openalex.org/A5063818470), [Peng Gao](https://openalex.org/A5042237658), [Nana Wang](https://openalex.org/A5100364739), [Wei Ye](https://openalex.org/A5008017336), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04340.
+    
+No abstract    
+
+    
+
+## Kinetics, Mechanism, and Thermodynamics of Ceria-Zirconia Reduction   
+
+OpenAlex: https://openalex.org/W4403544458    
+Open access: False
+    
+[Andrew Hwang](https://openalex.org/A5104207060), [Andrew “Bean” Getsoian](https://openalex.org/A5046878357), [Enrique Iglesia](https://openalex.org/A5086150545), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04771.
+    
+No abstract    
+
+    
+
 ## Issue Editorial Masthead   
 
 OpenAlex: https://openalex.org/W4403550324    
@@ -232,6 +265,50 @@ OpenAlex: https://openalex.org/W4403551257
 Open access: False
     
 , ACS Catalysis. 14(20)] 2024.https://doi.org/10.1021/csv014i020_1857513.
+    
+No abstract    
+
+    
+
+## Regulating the Electrochemical Microenvironment of Ni(OH)2 by Cr Doping for Highly Efficient Methanol Electrooxidation   
+
+OpenAlex: https://openalex.org/W4403555556    
+Open access: False
+    
+[Hongye Qin](https://openalex.org/A5039881332), [Yukun Ye](https://openalex.org/A5033463400), [Guangliang Lin](https://openalex.org/A5005782269), [Jinyang Zhang](https://openalex.org/A5100648799), [Wenqi Jia](https://openalex.org/A5101068894), [Wei Xia](https://openalex.org/A5053858441), [Lifang Jiao](https://openalex.org/A5014197896), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05729.
+    
+No abstract    
+
+    
+
+## Furan-Based HTCC/In2S3 Heterojunction Achieves Fast Charge Separation To Boost the Photocatalytic Generation of H2O2 in Pure Water   
+
+OpenAlex: https://openalex.org/W4403558316    
+Open access: False
+    
+[Xiaolong Tang](https://openalex.org/A5020173371), [Changlin Yu](https://openalex.org/A5100687987), [Jiaming Zhang](https://openalex.org/A5100453782), [Kaiwei Liu](https://openalex.org/A5101517983), [Debin Zeng](https://openalex.org/A5085255502), [Fang Li](https://openalex.org/A5103855486), [Feng Li](https://openalex.org/A5100448864), [Guijun Ma](https://openalex.org/A5007957054), [Yanbin Jiang](https://openalex.org/A5073171054), [Yongfa Zhu](https://openalex.org/A5004893546), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04341.
+    
+No abstract    
+
+    
+
+## Artificial Peroxidase Based on the Biotin–Streptavidin Technology that Rivals the Efficiency of Natural Peroxidases   
+
+OpenAlex: https://openalex.org/W4403558630    
+Open access: False
+    
+[Manjistha Mukherjee](https://openalex.org/A5016843169), [Valérie Waser](https://openalex.org/A5089143434), [E.R. Morris](https://openalex.org/A5087463426), [Nico V. Igareta](https://openalex.org/A5084356621), [Alec H. Follmer](https://openalex.org/A5059450539), [R.P. Jakob](https://openalex.org/A5038752800), [Dilbirin Üzümcü](https://openalex.org/A5092830446), [Timm Maier](https://openalex.org/A5073528182), [Thomas R. Ward](https://openalex.org/A5057806953), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03208.
+    
+No abstract    
+
+    
+
+## Enantioselective Synthesis of Helically Chiral Molecules Enabled by Asymmetric Organocatalysis   
+
+OpenAlex: https://openalex.org/W4403565410    
+Open access: False
+    
+[Qingqin Huang](https://openalex.org/A5059831381), [Yuping Tang](https://openalex.org/A5070060890), [Cong-Zhen Zhang](https://openalex.org/A5112444128), [Zhen Wang](https://openalex.org/A5100422301), [Lei Dai](https://openalex.org/A5078690639), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05345.
     
 No abstract    
 
