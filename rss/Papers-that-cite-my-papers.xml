@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Oct 2024 01:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 01:21:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Carbonate-carbonate coupling on platinum surface promotes electrochemical water oxidation to hydrogen peroxide</title>
-      <link>https://doi.org/10.1038/s41467-024-53134-3</link>
-      <description>Heng Zhu, Xianshun Lv, Yuexu Wu, Li Wang, Yuping Wu, Shicheng Yan, Yuhui Chen, Nature Communications. 15(1)] 2024. https://openalex.org/W4403370664
-
-                Water electro-oxidation to form H2O2 is an important way to produce H2O2 which is widely applied in industry. However, its mechanism is under debate and HO(ads), hydroxyl group adsorbed onto the surface of the electrode, is regarded as an important intermediate. Herein, we study the mechanism of water oxidation to H2O2 at Pt electrode using in-situ Raman spectroscopy and differential electrochemical mass spectroscopy and find peroxide bond mainly originated from the coupling of two CO32- via a C2O62- intermediate. By quantifying the 18O isotope in the product, we find that 93% of H2O2 was formed via the CO32- coupling route and 7% of H2O2 is from OH(ads)-CO3&#8226;&#8722; route. The OH(ads)-OH(ads) coupling route has a negligible contribution. The comparison of various electrodes shows that the strong adsorption of CO3(ads) at the electrode surface is essential. Combining with a commercial cathode catalyst to produce H2O2 during oxygen reduction, we assemble a flow cell in which the cathode and anode simultaneously produce H2O2. It shows a Faradaic efficiency of 150% of H2O2 at 1 A cm&#8722;2 with a cell voltage of 2.3 V. Electrosynthesis via two electron water reactions offers a promising method for decentralized H2O2 production, yet its mechanism remains unclear. Here, the authors address the challenge by using in-situ Raman and DEMS, and demonstrate 93% of H2O2 forms via the carbonate coupling route through a C2O62&#8722; intermediate.</description>
-      <author>Heng Zhu, Xianshun Lv, Yuexu Wu, Li Wang, Yuping Wu, Shicheng Yan, Yuhui Chen</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53134-3</guid>
-    </item>
-    <item>
-      <title>A Theoretical Perspective for Ammonia Synthesis: Nitric Oxide or Nitrate Electroreduction?</title>
-      <link>https://doi.org/10.1002/smtd.202401208</link>
-      <description>Q.G. Wang, Pu Guo, Huan Li, Jun Long, Shaoxue Yang, Jianping Xiao, Small Methods. None(None)] 2024. https://openalex.org/W4403378857
-
-                Abstract Ammonia is an important raw material for agricultural production, playing a key role in global food production. However, conventional ammonia synthesis resulted in extensive greenhouse gas emissions and huge energy consumption. Recently, researchers have proposed electrocatalytic reverse artificial nitrogen cycle (eRANC) routes to circumvent these issues, which can be driven by electrocatalysis and sustainable electricity. Here, a theoretical and computational perspective on the challenges and opportunities with the comparison with experimental results: electrochemical reduction of nitrate (eNO 3 RR) and nitrite (eNO 2 RR), electrochemical reduction of nitric oxide (eNORR) combined with oxidative nitrogen fixation are presented. By comparison, the N 2 &#8594;NO&#8594;NH 3 route is proposed as the most promising in case the NO solubility can be solved well in reactor design. Its high efficiency of ammonia production is demonstrated. Instead, the eNO 3 RR can be another choice because it is non&#8208;toxic and the solid&#8208;liquid interface is usually efficient for electrochemical reactions, while its low selectivity at low overpotentials is an issue. These fundamentals highlight the potential and key factors of eRANC as an efficient and sustainable route for ammonia production.</description>
-      <author>Q.G. Wang, Pu Guo, Huan Li, Jun Long, Shaoxue Yang, Jianping Xiao</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401208</guid>
-    </item>
     <item>
       <title>Redox-mediated decoupled seawater direct splitting for H2 production</title>
       <link>https://doi.org/10.1038/s41467-024-53335-w</link>
@@ -428,6 +408,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.097</guid>
     </item>
     <item>
+      <title>1-Dimensional metal Nitride-Supported platinum nanoclusters for Low-Temperature hydrogen production from formic acid</title>
+      <link>https://doi.org/10.1016/j.cej.2024.156940</link>
+      <description>Liang Qiu, Bowen Sheng, Haotian Ye, Ping Wang, Jinglin Li, Ying Li, Yixin Li, Tianqi Yu, Muhammad Salman Nasir, Xinqiang Wang, Pan Hu, Zhen Huang, Baowen Zhou, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403574280
+
+                No abstract</description>
+      <author>Liang Qiu, Bowen Sheng, Haotian Ye, Ping Wang, Jinglin Li, Ying Li, Yixin Li, Tianqi Yu, Muhammad Salman Nasir, Xinqiang Wang, Pan Hu, Zhen Huang, Baowen Zhou</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156940</guid>
+    </item>
+    <item>
+      <title>Carbonized-nitridated Mo2N-MoC heterostructures towards universal-medium hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.cej.2024.156908</link>
+      <description>Xiang Chen, Song Xie, Fang Zhou, Biao Gao, Xuming Zhang, Shuangjie Wu, Li Huang, Yun Li, Paul K. Chu, Xiang Peng, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403574389
+
+                No abstract</description>
+      <author>Xiang Chen, Song Xie, Fang Zhou, Biao Gao, Xuming Zhang, Shuangjie Wu, Li Huang, Yun Li, Paul K. Chu, Xiang Peng</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156908</guid>
+    </item>
+    <item>
       <title>In situ examination of oxygen vacancy dynamics in epitaxial LaCoO3 thin films</title>
       <link>https://doi.org/10.1051/bioconf/202412922033</link>
       <description>Seung Jo Yoo, Jihyun Lee, Sang&#8208;Gil Lee, Hyung Joong Yun, BIO Web of Conferences. 129(None)] 2024. https://openalex.org/W4403496353
@@ -436,16 +436,6 @@
       <author>Seung Jo Yoo, Jihyun Lee, Sang&#8208;Gil Lee, Hyung Joong Yun</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1051/bioconf/202412922033</guid>
-    </item>
-    <item>
-      <title>Recent development of non&#8208;iridium&#8208;based electrocatalysts for acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1002/cnl2.170</link>
-      <description>Lei Shi, Wenhui Zhang, Jiayu Li, Qing Yan, Zhengfei Chen, Xianbo Zhou, Jihong Li, Ruiqin Gao, Yuxue Wu, Guodong Li, Carbon Neutralization. None(None)] 2024. https://openalex.org/W4403380005
-
-                Abstract Proton exchange membrane water electrolyser (PEMWE) possesses great significance for the production of high purity of hydrogen. To expedite the anodic oxygen evolution reaction (OER) that involved multiple electron&#8211;proton&#8208;coupled process, efficient and stable electrocatalysts are highly desired. Currently, noble&#8208;metal Ir&#8208;based materials are the benchmark anode due to its corrosion&#8208;resistant property and favourable combination of activity/stability. However, the large&#8208;scale deployment of PEMWE is usually constrained due to the use of the scarcest element iridium. In this review, we disclose the current research progress towards the non&#8208;iridium&#8208;based electrocatalysts for OER in acidic media, and then summarize some typical oxides that possesses good catalytic performance. Besides, we also present the unresolved problems and challenges in an attempt to enhance the activity/stability of these catalysts.</description>
-      <author>Lei Shi, Wenhui Zhang, Jiayu Li, Qing Yan, Zhengfei Chen, Xianbo Zhou, Jihong Li, Ruiqin Gao, Yuxue Wu, Guodong Li</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cnl2.170</guid>
     </item>
     <item>
       <title>Computational Design of Catalysts with Experimental Validation: Recent Successes, Effective Strategies, and Pitfalls</title>

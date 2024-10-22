@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Oct 2024 01:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 01:21:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -56,6 +56,16 @@
       <author>Guangxin Sun, Yimin Zhang, Haonan Xie, Ya He, Caiwei Zhang, Yukun Hu, Enzuo Liu, Chunnian He, Andrew Barnabas Wong</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.110385</guid>
+    </item>
+    <item>
+      <title>Repurposing First-Row Transition Metal Carbon Dioxide Reduction Electrocatalysts for Electrochemical Carboxylation of Benzyl Chloride</title>
+      <link>https://doi.org/10.1021/acsorginorgau.4c00051</link>
+      <description>Pornwimon Kongkiatkrai, Thana Anusanti, Teera Chantarojsiri, ACS Organic &amp; Inorganic Au. None(None)] 2024. https://openalex.org/W4403572803
+
+                No abstract</description>
+      <author>Pornwimon Kongkiatkrai, Thana Anusanti, Teera Chantarojsiri</author>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsorginorgau.4c00051</guid>
     </item>
     <item>
       <title>Electrodeposition of Cu 3D structures suitable for CO2 reduction</title>
@@ -168,16 +178,6 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-hfwdz</guid>
     </item>
     <item>
-      <title>Reduction of CO2 emissions by recycling low-potential heat from the Benfield CO2 removal process at a natural gas hydrogen production plant</title>
-      <link>https://doi.org/10.1007/s10098-024-03032-5</link>
-      <description>Dawid Hajduga, Lucjan Chmielarz, Marek Bugdol, Clean Technologies and Environmental Policy. None(None)] 2024. https://openalex.org/W4403377287
-
-                Abstract The EU policies related to CO 2 emission strictly define the stages of carbon neutrality achieving. According to these regulations, all production installations that emit carbon dioxide will be charged additional emission fees from 2026 to fully in 2035. Analysis of the increasing emission fees shows that in some industries incurring such additional costs will result in a lack of profitability of the products. Industries directly related to the food sector, such as nitrogen fertiliser production, are strategic in the economies of all countries. Nitrogen fertilisers are produced from ammonia, which is synthesised on a large scale from hydrogen and nitrogen. Hydrogen is produced by natural gas reforming with water vapour resulting in syngas (mixture of H 2 , CO, CO 2 , H 2 O), which CO in the next step reacts with water vapour (water gas shift reaction) producing H 2 and CO 2 . CO 2 is separated from hydrogen using the Benfield method. The analysis of the Benfield process (one process of hydrogen production) shows a possible way to reduce CO 2 emission by optimising heat balance. It was shown that in the proposed technology the heat recovery reaches 89%, while the level below 30% was reported for other available technologies. The proposed solution is based on recirculation and reuse of heat, which is lost in other technologies. The analysis is for a process balance in a medium-sized hydrogen production installation. The analysis considers also the correlations with other installations thermally linked to hydrogen production. The economic balance showed the great financial benefits of this solution. In the scenario discussed, the CO 2 emission factor was reduced by 20%. Graphical Abstract</description>
-      <author>Dawid Hajduga, Lucjan Chmielarz, Marek Bugdol</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10098-024-03032-5</guid>
-    </item>
-    <item>
       <title>Characterizing the Stability of Ultra-Thin Metal Oxide Catalyst Films in Non-thermal Plasma CO2 Reduction Reactions</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-k0svz</link>
       <description>Samuel K. Conlin, Joseph Joel Muhanga, David N. Parette, Robert H. Coridan, No host. None(None)] 2024. https://openalex.org/W4403540654
@@ -228,6 +228,16 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4987328</guid>
     </item>
     <item>
+      <title>Facile Synthesis of WCu-C/N for Effective Catalyst toward Electrochemical Reduction of CO2 to CO</title>
+      <link>https://doi.org/10.3740/mrsk.2024.34.9.409</link>
+      <description>Chaoyu Chen, Ze-Da Meng, &#1041;&#1086; &#1051;&#1102;, Yilei Sun, Liang Yuan, Won&#8208;Chun Oh, Korean Journal of Materials Research. 34(9)] 2024. https://openalex.org/W4403581781
+
+                No abstract</description>
+      <author>Chaoyu Chen, Ze-Da Meng, &#1041;&#1086; &#1051;&#1102;, Yilei Sun, Liang Yuan, Won&#8208;Chun Oh</author>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3740/mrsk.2024.34.9.409</guid>
+    </item>
+    <item>
       <title>Phase-controlled formation of NixPy catalyst using environmental TEM for potential application in CO2 reduction</title>
       <link>https://doi.org/10.1051/bioconf/202412926038</link>
       <description>Kshipra Sharma, Tianyi Hu, Kimberly A. Dick, BIO Web of Conferences. 129(None)] 2024. https://openalex.org/W4403496672
@@ -252,7 +262,7 @@
       <link>https://doi.org/10.1038/s41467-024-53377-0</link>
       <description>Xiaofeng Cui, Hui Bai, Jun Zhang, &#1041;&#1086; &#1051;&#1102;, Haiyan Yu, Y.Q. Wang, Tingting Kong, Mei&#8208;Yan Gao, Zhou Lu, Yujie Xiong, Nature Communications. 15(1)] 2024. https://openalex.org/W4403560302
 
-                No abstract</description>
+                Natural photosynthesis utilizes solar energy to convert water and atmospheric CO2 into carbohydrates through all-weather light/dark reactions based on molecule-based enzymes and coenzymes, inspiring extensive development of artificial photosynthesis. However, development of efficient artificial photosynthetic systems free of noble metals, as well as rational integration of functional units into a single system at the molecular level, remain challenging. Here we report an artificial system, the assembly system of Cu6 cluster and cobalt terpyridine complex, that mimics natural photosynthesis through precise integration of nanozyme complexes and ubiquinone (coenzyme Q) on Cu6 clusters. This biomimetic system efficiently reduces CO2 to CO in light reaction, achieving a production rate of 740.7 &#956;mol&#183;g&#8722;1&#183;h&#8722;1 with high durability for at least 188 hours. Notably, our system realizes the decoupling of light and dark reactions, utilizing the phenol-evolutive coenzyme Q acting as an electron reservoir. By regulating the stabilizer of coenzyme Q, the dark reaction time can be extended up to 8.5 hours, which fully meets the natural day/night cycle requirements. Our findings advance the molecular design of artificial systems that replicate the comprehensive functions of natural photosynthesis. Natural photosynthesis converts H2O and CO2 into carbohydrates through all-weather reactions based on enzymes and coenzymes. Here, the authors report an artificial photosynthesis system under intermittent light irradiation by integrating nanozyme complexes and ubiquinone on a copper nanocluster.</description>
       <author>Xiaofeng Cui, Hui Bai, Jun Zhang, &#1041;&#1086; &#1051;&#1102;, Haiyan Yu, Y.Q. Wang, Tingting Kong, Mei&#8208;Yan Gao, Zhou Lu, Yujie Xiong</author>
       <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53377-0</guid>
@@ -388,6 +398,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/app14209443</guid>
     </item>
     <item>
+      <title>Carbon footprints: Uncovering spatiotemporal dynamics of global container ship emissions during 2015&#8211;2021</title>
+      <link>https://doi.org/10.1016/j.marpolbul.2024.117165</link>
+      <description>Hongchu Yu, Qinglong Fang, Zhixiang Fang, Lei Xu, Jingxian Liu, Marine Pollution Bulletin. 209(None)] 2024. https://openalex.org/W4403523302
+
+                The proposed "peak carbon" and "carbon neutral" targets have catapulted the reduction of carbon dioxide (CO</description>
+      <author>Hongchu Yu, Qinglong Fang, Zhixiang Fang, Lei Xu, Jingxian Liu</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.marpolbul.2024.117165</guid>
+    </item>
+    <item>
       <title>Minimizing CO2 Emission of POME Treatment System Using MILP Model</title>
       <link>https://doi.org/10.20944/preprints202410.1065.v1</link>
       <description>Sivakumar Pallikodathan, Hasfalina Che Man, Tinia Idaty, A. B. R. Sulaiman, Gunasilan Nagarajoo, Mohamad Firdza Shukery, No host. None(None)] 2024. https://openalex.org/W4403439460
@@ -418,6 +438,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/catal14100721</guid>
     </item>
     <item>
+      <title>Carbon dioxide injection into the Achimov formations using reinjection technology by the example of Ach3-4 formation in the Novo-Urengoy area of the Urengoy field</title>
+      <link>https://doi.org/10.31660/0445-0108-2024-5-80-103</link>
+      <description>A. S. Rusanov, A.V. Strekalov, A. S. Romanov, E. A. Reitblat, M. Moskalets, Ashley C. Karp, &#1044;. &#1053;. &#1043;&#1083;&#1091;&#1084;&#1086;&#1074;, Oil and Gas Studies. None(5)] 2024. https://openalex.org/W4403575323
+
+                The prerequisites for the study are the calculation results for the cycling process, where carbon dioxide is proposed as the injection agent into the Achimov formations instead of dry gas, with the goal of increasing the condensate recovery factor. The work is focused on the efficiency assessment of carbon dioxide reinjection technology and reducing carbon footprint at a late stage of field development. The research object is the &#1040;ch 3-4 formation within the Novo-Urengoy license area of the Urengoy field. The leading method to identify this problem is the results of the full-scale composite dynamic model in the ECLIPSE 300 format. The model takes into account the history of field development on depletion. The articles deals with two schemes for injecting carbon dioxide into the formation. In the first scheme, pure carbon dioxide is injected in a closed-loop system, but carbon neutrality through storage is not achieved. In the second scheme, carbon dioxide is injected using reinjection technology. Once injection begins, gas production stops. Only the condensate separated from the formation gas during low-temperature separation is sold and sent for further processing. After allocation of the condensate, the mixture of natural gas and carbon dioxide, in a specific proportion, is sent to the compressor station for reinjection into the formation in a gaseous state. Injecting pure carbon dioxide achieves a condensate recovery factor similar to that of gas injection with a 30 % carbon dioxide mixture. However, this option is less economically viable compared to the base and other scenarios due to high capital costs for upgrading the existing gas processing equipment (requiring the construction of an amine treatment unit). With carbon dioxide injection using reinjection technology, in addition to recovering extra condensate that had condensed during natural depletion, a reduction in the carbon footprint is also achieved. To maximize the condensate recovery factor, the optimal concentration of carbon dioxide in the injection mixture has been determined. The optimal timing for the start of injection was identified to maximize gas recovery. Economic efficiency is expected from the additional recovery of condensate trapped in the reservoir and from achieving carbon neutrality through the monetization and storage of carbon dioxide.</description>
+      <author>A. S. Rusanov, A.V. Strekalov, A. S. Romanov, E. A. Reitblat, M. Moskalets, Ashley C. Karp, &#1044;. &#1053;. &#1043;&#1083;&#1091;&#1084;&#1086;&#1074;</author>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31660/0445-0108-2024-5-80-103</guid>
+    </item>
+    <item>
       <title>Site selection and effects of background towers on urban CO2 estimates: A case study from central downtown Zhengzhou in China</title>
       <link>https://doi.org/10.1016/j.envres.2024.120169</link>
       <description>Ge Ren, Kailun Du, A. Karion, Shiqi Zhao, Israel L&#243;pez-Coto, Wei Wang, J. R. Whetstone, Hong Lin, Environmental Research. None(None)] 2024. https://openalex.org/W4403457990
@@ -426,16 +456,6 @@
       <author>Ge Ren, Kailun Du, A. Karion, Shiqi Zhao, Israel L&#243;pez-Coto, Wei Wang, J. R. Whetstone, Hong Lin</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.120169</guid>
-    </item>
-    <item>
-      <title>Experimental investigation of dodecanoic acid&#8211;tetradecanoic acid&#8211;dodecanol ternary mixture based nanoparticle enriched-phase change material for food preservation applications</title>
-      <link>https://doi.org/10.1177/09544089241285099</link>
-      <description>Nilesh Kumar Jain, Deepak Paliwal, Pankaj Jain, Proceedings of the Institution of Mechanical Engineers Part E Journal of Process Mechanical Engineering. None(None)] 2024. https://openalex.org/W4403374824
-
-                In this research, a novel phase change material (PCM), containing dodecanoic acid-tetradecanoic acid-dodecanol ternary mixture, designated as pure mixture, dispersed with two carbon-based nanoparticles, i.e., graphene nanoplatelets - multiwall carbon nanotube and graphene nanoplatelets-titanium dioxide, with 1% weight fraction, is prepared and is designated as nanoparticle-enriched-phase change material. The chemical and thermal analysis of pure ternary mixture and nanoparticle-enriched-phase change material was conducted using X-ray diffraction, Scanning electron microscopy, Differential scanning calorimetry, Fourier transform infrared, Thermo gravimetric analyser and Thermal conductivity analyser techniques. The pure mixture possess melting and freezing temperature of 15.6&#176;C and 8.4&#176;C with a melting-freezing latent heat (LH) of 131.5 J/g and 125.4 J/g, respectively. The thermal conductivity exhibited a significant increase of 187.6% in the case of pure mixture with graphene nanoplatelets- multiwall carbon nanotube and 41.7% for pure mixture with graphene nanoplatelets-titanium dioxide. Moreover, the PCM remained thermally stable in both cases, even with the incorporation of nanoparticles. The melting as well as freezing LHs were reduced by about 18.17% and 18.02% for graphene nanoplatelets- multiwall carbon nanotube dispersed PCM and, 12.49% and 9.49% for graphene nanoplatelets- titanium dioxide dispersed PCM, respectively, in comparison with the pure mixture. Similarly, the melting/freezing temperatures, gets also reduced by 9.6%/8.3% and 10.9%/8.3%, respectively, for both mixtures. The pure mixture with graphene nanoplatelets- multiwall carbon nanotube exhibited a substantial decrease in both charging and discharging times, with reductions of 28.48% and 18.73%, respectively, in comparison to pure mixture, at an air inlet velocity of 3 m/s.</description>
-      <author>Nilesh Kumar Jain, Deepak Paliwal, Pankaj Jain</author>
-      <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1177/09544089241285099</guid>
     </item>
     <item>
       <title>The effect of green credit policy on carbon emissions based on China&#8217;s provincial panel data</title>
@@ -448,14 +468,14 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-73942-3</guid>
     </item>
     <item>
-      <title>Utilizing copper waste to develop silicon-carbon anode materi als for lithium-ion batteries</title>
-      <link>https://doi.org/10.52304/.v26i3.538</link>
-      <description>M. M. Kurbanov, A. Avvalboev, I. Ashurov, U. Choriev, &#1061;. &#1041;. &#1040;&#1096;&#1091;&#1088;&#1086;&#1074;, Penghui Ji, &#171;&#1059;&#1079;&#1073;&#1077;&#1082;&#1089;&#1082;&#1080;&#1081; &#1092;&#1080;&#1079;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1081; &#1078;&#1091;&#1088;&#1085;&#1072;&#1083;&#187;. 26(3)] 2024. https://openalex.org/W4403372153
+      <title>Whole-life greenhouse gas emission reduction and removal strategies for buildings: Impacts and diffusion potentials across EU Member States</title>
+      <link>https://doi.org/10.1016/j.jenvman.2024.122915</link>
+      <description>Nicolas Alaux, Csaba Marton, Jacob Steinmann, Dominik Maierhofer, Alessio Mastrucci, D. Petrou, Tajda Potr&#269; Obrecht, Delphine Ramon, Xavier Le Den, Karen Allacker, Alexander Passer, Martin R&#246;ck, Journal of Environmental Management. 370(None)] 2024. https://openalex.org/W4403527689
 
-                This study dedicated to a novel method for synthesizing silicon-carbon (Si/C) and silicon dioxide-carbon (SiO2/C) nanocomposite anodes for lithium-ion batteries, utilizing industrial copper slags from the Almalyk Mining and Metallurgical Complex as a cost-effective source of SiO2. The synthesized nanocomposites address key challenges in lithium-ion battery anodes, including the volumetric expansion of silicon and its low conductivity, by leveraging the high lithiation capacity of silicon combined with the structural stability and conductivity of carbon. Amorphous SiO3 was extracted from copper slags via ammonium fluoride (NH4F) treatment and subsequently reduced to metallurgical-grade silicon through carbothermal reduction. The resulting SiO2/C and Si/C composites were thoroughly characterized using SEM, XRD, and electrochemical analyses, demonstrating improved electrochemical performance, favorable particle size distribution, and stability. This approach not only reduces material costs but also promotes environmental sustainability by repurposing industrial waste, offering promising candidates for high-performance lithium-ion battery anodes.</description>
-      <author>M. M. Kurbanov, A. Avvalboev, I. Ashurov, U. Choriev, &#1061;. &#1041;. &#1040;&#1096;&#1091;&#1088;&#1086;&#1074;, Penghui Ji</author>
-      <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.52304/.v26i3.538</guid>
+                As the European Union (EU) is aiming to realize climate neutrality by 2050, there is a need to investigate greenhouse gas (GHG) reduction and carbon dioxide removal strategies (CRRS) from a life cycle perspective. Existing literature lacks harmonization of building-related strategies considering the whole-life cycle of buildings and the interlinkages across life cycle stages. The aim and novelty of this study was to systematically identify, classify and quantify the impacts of CRRS, as well as assess their applicability in different EU Member States. We identified a total of 35 measures grouped in 11 CRRS for the whole-life cycle of buildings. We classified these measures according to various criteria, such as the avoid-shift-improve framework or the life cycle stages influenced. We then assessed the potential diffusion of these strategies in each EU Member State up to 2050 via qualitative assessment criteria. We could achieve notable short-term reductions in GHG emissions by improving use-phase energy use, selecting low-carbon materials or reducing the per capital space demand. In the medium to long term, the applicability and reduction potential of strategies such as circularity and prioritizing renovation over new construction will increase as supply chains and skills develop across the EU. Due to their different potentials and times of implementation, the entire range of strategies is needed to support building and construction transition efforts.</description>
+      <author>Nicolas Alaux, Csaba Marton, Jacob Steinmann, Dominik Maierhofer, Alessio Mastrucci, D. Petrou, Tajda Potr&#269; Obrecht, Delphine Ramon, Xavier Le Den, Karen Allacker, Alexander Passer, Martin R&#246;ck</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.122915</guid>
     </item>
     <item>
       <title>Nitrate-dependent antimony oxidase in an uncultured &lt;i&gt;Symbiobacteriaceae&lt;/i&gt; member</title>
@@ -699,6 +719,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/atmos15101224</guid>
     </item>
     <item>
+      <title>Climate Change Effects in Stock Markets</title>
+      <link>https://doi.org/10.54097/430kvj67</link>
+      <description>Yang Ju, Highlights in Business Economics and Management. 41(None)] 2024. https://openalex.org/W4403572021
+
+                Climate change significantly impacts global stock markets through both short-term extreme weather events and long-term climate shifts. This study examines the relationship between CO2 emissions and stock returns across 19 countries from 2001 to 2020 using regression analysis. The findings also reveal a positive correlation between CO2 emissions and stock returns, indicating that investors anticipate higher returns to offset climate-related risks. This suggests that higher CO2 emissions drive investor expectations for increased returns to compensate for potential economic losses. The study highlights the importance of balanced emission reduction strategies and promoting green finance to support sustainable economic growth. Additionally, it underscores the need to integrate climate risks into financial decision-making, offering valuable insights into the financial implications of climate change and guiding policymakers and investors in addressing these challenges. By providing empirical evidence on the link between CO2 emissions and stock returns, this research enriches existing knowledge and emphasizes the financial risks and opportunities presented by climate change. The study's results align with the carbon risk premium theory, which posits that investors demand higher returns from companies with higher carbon emissions. This study advocates for policies that balance economic growth with environmental sustainability, promoting green finance initiatives to facilitate the transition to a low-carbon economy and mitigate the adverse effects of climate change on financial markets.</description>
+      <author>Yang Ju</author>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54097/430kvj67</guid>
+    </item>
+    <item>
       <title>Exploring the Nexus between Greenhouse Emissions, Environmental Degradation and Green Energy in Europe: A Critique of the Environmental Kuznets Curve</title>
       <link>https://doi.org/10.3390/en17205109</link>
       <description>Alexandra Horobe&#355;, Lucian Bela&#351;cu, Magdalena Radulescu, Daniel Balsalobre&#8208;Lorente, Cosmin-Alin Bo&#355;oroga, Cristina-Carmencita Negreanu, Energies. 17(20)] 2024. https://openalex.org/W4403392329
@@ -719,24 +749,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/ma17205020</guid>
     </item>
     <item>
-      <title>AI in Business Aviation Route Optimization: Reducing Fuel Consumption and Environmental Impact</title>
-      <link>https://doi.org/10.47941/jbsm.2284</link>
-      <description>Victor Mgbachi, Journal of Business and Strategic Management. 9(5)] 2024. https://openalex.org/W4403375924
+      <title>Entropy-Derived Synthesis of the CuPd Sub-1nm Alloy for CO&lt;sub&gt;2&lt;/sub&gt;-to-acetate Electroreduction</title>
+      <link>https://doi.org/10.1021/jacs.4c07711</link>
+      <description>Siyang Nie, Liang Wu, Qingda Liu, Xun Wang, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403560250
 
-                Purpose: This paper reviews ways that artificial intelligence could be used to make business aviation operations most fuel-efficient, cheapest in cost of operation, and smallest in terms of ecological footprint. The research elaborated possible ways of using AI in the spheres of flight planning, predictive maintenance, fuel management, emission tracking, and compliance in business aviation. Methodology: It was also empirical case-study-oriented research that investigated the impacts of AI-driven technologies on business aviation operators, basically NetJets, VistaJet, and Flexjet. The impacts are from route optimization to predictive maintenance, fuel management, and compliance with regulations. Information such as fuel consumption, CO2 emissions, and operational efficiency was obtained before and after the adoption of AI technologies. Findings: The fuel savings from AI-driven systems are reaching a point of salience, at 9 to 14% in the various cases, with associated reductions in CO2 emissions. AI-powered predictive maintenance resulted in a 20% reduction in unscheduled events, thereby bettering the availability of fleets. Artificial intelligence increased overall efficiency and improved decisions for in-flight, real-time operations management while conforming to regulatory requirements in reporting. Additionally, AI is going to bring tremendous values in optimizing SAFs and aircraft energy-efficient technology to make flying sustainable. Unique Contribution to Theory, Policy, and Practice: This work contributes to AI in aviation by demonstrating its practical application in reducing environmental impacts and operational costs in business aviation. It provides a framework for integrating AI into aviation management systems and highlights the importance of public-private cooperation for wider AI adoption. The findings are valuable for policymakers, business aviation operators, and industry leaders aiming to advance sustainability and regulatory compliance</description>
-      <author>Victor Mgbachi</author>
-      <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.47941/jbsm.2284</guid>
-    </item>
-    <item>
-      <title>Resource Efficiency as an environmental performance metric for industry: the case of clinker manufacturing in Europe</title>
-      <link>https://doi.org/10.31219/osf.io/8gd27</link>
-      <description>Ana Morgado, Hannes Gauch, Jonathan M. Cullen, No host. None(None)] 2024. https://openalex.org/W4403383923
-
-                Control-data exergy-based Resource Efficiency (RE) analysis is applied to investigate resource use and efficiency improvements in the cement industry to understand what insights can be gained into the efficiency of clinker manufacturing and possible decarbonisation options when having full access to material and energy flows from the manufacturing plant control system. Mapping of the resources in and out of the clinker manufacturing section showed that total resource input is dominated by the flow of fuels, with the clinker burning section constituting the most energy and emissions-intensive part of the process. The plant is found to have an annual mean RE of 47.8% in compound operation, and 38.3% in direct operation. Three improvement options are identified: recycling of dust, reduction of heat transfer losses across the kiln, and optimisation of the plant&#8217;s continuous operation, with heat losses reduction having the largest improvement potential in terms of the overall plant RE and the reduction of CO2 emissions. Despite providing a detailed representation of the real-time operation capable of identifying potential improvement interventions, the use of control-data is found to be highly intensive and time-consuming. In the future, it would be interesting to investigate whether the same level of insights into the efficiency and potential for decarbonisation of clinker manufacturing could be gained using less data.</description>
-      <author>Ana Morgado, Hannes Gauch, Jonathan M. Cullen</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31219/osf.io/8gd27</guid>
+                Bimetallic alloys exhibit remarkable properties in catalysis and energy storage, while their precise synthesis at the subnanoscale remains a formidable challenge due to their immiscible nature in thermodynamics. In this study, we engineer an atomically dispersed CuPd alloy with an average size of 1.5 nm loaded on CuO and phosphomolybdic acid (PMA) coassembly subnanosheets (CuO-PMA SNSs). Driven by the high vibrational entropy, Cu atoms could escape from CuO supports and bond with adjacent Pd single atoms, leading to the in situ formation of CuPd alloys. Furthermore, this strategy can also be utilized for synthesizing the ZnPt alloy with an average size of 1 nm, thereby providing a general pathway for the design of immiscible subnanoalloys. The fully exposed Cu&#8211;Pd pairs in CuPd subnanoalloys significantly enhance the adsorption and coverage of surface *CO during the electrochemical reduction of CO2, thereby leading to enhanced stability of ethenone intermediates and facilitating the production of C2 compounds. The resulting CuPd subnanoalloy exhibits a remarkable Faradaic efficiency of 46.5 &#177; 2.1% for CO2-to-acetate electroreduction and achieves a high acetate productivity of 99 &#177; 2.8 &#956;mol cm&#8211;2 at &#8722;0.7 V versus RHE.</description>
+      <author>Siyang Nie, Liang Wu, Qingda Liu, Xun Wang</author>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c07711</guid>
     </item>
     <item>
       <title>Thermochemical Heterolytic Hydrogenation Catalysis Proceeds Through Polarization-Driven Hydride Transfer</title>
@@ -799,16 +819,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/soilsystems8040107</guid>
     </item>
     <item>
-      <title>Ag-Mediated Growth of Au/Ag&#8211;Cu Ternary Heterostructures for Selective Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acsami.4c12952</link>
-      <description>Wenhao Xu, Taishi Xiao, Jie Chen, Junxiang Shu, Jili Li, Yao Ma, Xiang Li, Zihan Zhong, Zitao Zhang, Yefei Li, Qing Zhang, Zhengzong Sun, Yun Tang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403382319
-
-                Copper (Cu)-based nanocatalysts play crucial roles in the electrochemical CO2 reduction reaction (ECO2RR) for sustainable energy resources. Particularly, Cu-based nanostructures incorporating Au and Ag are promising, offering enhanced activity, selectivity, and stability. However, precise control over the structure and composition of heterostructures remains challenging, hindering the development of highly efficient catalysts. Herein, we present a silver (Ag) transition-layer-mediated approach to synthesize ternary heterostructures with two specific morphologies, namely, Au/Ag&#8211;Cu-side and Au/Ag&#8211;Cu-tip, which exhibit different Ag&#8211;Cu interface epitaxial patterns. The two heterostructures achieve high C2 product selectivity in ECO2RR. Especially, the Au/Ag&#8211;Cu-side structure achieves 50.3% C2 selectivity with 35.5% ethanol, while the tip structure shows higher ethylene selectivity. Our study reveals the impact of the Ag layer in directing deposition sites on heterostructure growth and further facilitating the design of multicomponent Cu-based catalysts with enhanced structural integrity and ECO2RR performance.</description>
-      <author>Wenhao Xu, Taishi Xiao, Jie Chen, Junxiang Shu, Jili Li, Yao Ma, Xiang Li, Zihan Zhong, Zitao Zhang, Yefei Li, Qing Zhang, Zhengzong Sun, Yun Tang</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c12952</guid>
-    </item>
-    <item>
       <title>Environmental and Socio-Economic Impact Assessment of Renewable Energy Using Machine Learning Models</title>
       <link>https://doi.org/10.32996/jefas.2024.6.5.13</link>
       <description>Md Fakhrul Islam Sumon, Md Osiujjaman, MD Azam Khan, Arifur Rahman, Md. Shazib Uddin, Laxmi Prasad Pant, Pravakar Debnath, Journal of Economics Finance and Accounting Studies. 6(5)] 2024. https://openalex.org/W4403567651
@@ -817,16 +827,6 @@
       <author>Md Fakhrul Islam Sumon, Md Osiujjaman, MD Azam Khan, Arifur Rahman, Md. Shazib Uddin, Laxmi Prasad Pant, Pravakar Debnath</author>
       <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.32996/jefas.2024.6.5.13</guid>
-    </item>
-    <item>
-      <title>Mechanism of Intracellular Elemental Sulfur Oxidation in Beggiatoa leptomitoformis, Where Persulfide Dioxygenase Plays a Key Role</title>
-      <link>https://doi.org/10.3390/ijms252010962</link>
-      <description>Tatyana S. Rudenko, Liubov Trubitsina, Vasily V. Terentyev, Ivan V. Trubitsin, Valentin Borshchevskiy, Svetlana Tishchenko, Azat Gabdulkhakov, Alexey A. Leontievsky, M. Yu. Grabovich, International Journal of Molecular Sciences. 25(20)] 2024. https://openalex.org/W4403379065
-
-                Representatives of the colorless sulfur bacteria of the genus Beggiatoa use reduced sulfur compounds in the processes of lithotrophic growth, which is accompanied by the storage of intracellular sulfur. However, it is still unknown how the transformation of intracellular sulfur occurs in Beggiatoa representatives. Annotation of the genome of Beggiatoa leptomitoformis D-402 did not identify any genes for the oxidation or reduction of elemental sulfur. By searching BLASTP, two putative persulfide dioxygenase (PDO) homologs were found in the genome of B. leptomitoformis. In some heterotrophic prokaryotes, PDO is involved in the oxidation of sulfane sulfur. According to HPLC-MS/MS, the revealed protein was reliably detected in a culture sample grown only in the presence of endogenous sulfur and CO2. The recombinant protein from B. leptomitoformis was active in the presence of glutathione persulfide. The crystal structure of recombinant PDO exhibited consistency with known structures of type I PDO. Thus, it was shown that B. leptomitoformis uses PDO to oxidize endogenous sulfur. Additionally, on the basis of HPLC-MS/MS, RT-qPCR, and the study of PDO reaction products, we predicted the interrelation of PDO and Sox-system function in the oxidation of endogenous sulfur in B. leptomitoformis and the connection of this process with energy metabolism.</description>
-      <author>Tatyana S. Rudenko, Liubov Trubitsina, Vasily V. Terentyev, Ivan V. Trubitsin, Valentin Borshchevskiy, Svetlana Tishchenko, Azat Gabdulkhakov, Alexey A. Leontievsky, M. Yu. Grabovich</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ijms252010962</guid>
     </item>
     <item>
       <title>Exploring Hybrid Vehicle Integration in Nablus Urban Shared-Taxis: Cost-Benefit and Exhaust Emissions Assessment</title>
@@ -859,6 +859,16 @@
       <guid isPermaLink="true">https://doi.org/10.13074/jent.2024.09.243840</guid>
     </item>
     <item>
+      <title>Warm Arctic-Cold Eurasia pattern helps predict spring wildfire burned area in West Siberia</title>
+      <link>https://doi.org/10.1038/s41467-024-53470-4</link>
+      <description>Zhicong Yin, Yijia Zhang, Shengping He, Huijun Wang, Nature Communications. 15(1)] 2024. https://openalex.org/W4403556988
+
+                Extreme wildfires have devastating impacts on multiple fronts, and associated carbon greatly heats the earth's climate. Whether and how to predict wildfires becomes a critical question. In this study, we find that the preceding-winter "warm Arctic-cold Eurasia" (WACE) pattern significantly enlarges the spring burned area in West Siberia. The winter WACE and accompanying snow reduction result in dryness and vegetation exposure in West Siberia in spring, increasing fire risks. A multiple linear regression model is constructed that successfully predicts the spring burned area in West Siberia one season in advance (R-squared coefficient=0.64). The same predictors also well predict the corresponding fire carbon emissions. Independent predictions for spring burned area in 2019 and 2020 are very close to observations, with a mean absolute percentage error of only 3.0%. The findings of this study provide a possibility for guarding humans against extreme wildfires and predicting sharp rises in carbon emissions. The authors show that the winter "warm Arctic-cold Eurasia" pattern significantly enhances spring fire activity in West Siberia, contributing to the prediction of wildfire burned area, and resulting CO2 emissions, one season in advance.</description>
+      <author>Zhicong Yin, Yijia Zhang, Shengping He, Huijun Wang</author>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53470-4</guid>
+    </item>
+    <item>
       <title>Global Freight Transport Emissions Responsibility</title>
       <link>https://doi.org/10.1021/acs.est.4c05658</link>
       <description>Jacob Fry, Keiichiro Kanemoto, Alastair Fraser, Keisuke Nansai, Environmental Science &amp; Technology. None(None)] 2024. https://openalex.org/W4403549224
@@ -867,16 +877,6 @@
       <author>Jacob Fry, Keiichiro Kanemoto, Alastair Fraser, Keisuke Nansai</author>
       <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.est.4c05658</guid>
-    </item>
-    <item>
-      <title>A New Look at Catalyst Surfaces at Work: introducing Mixed Isotope Operando Infrared Spectroscopy (MIOIRS)</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-k44l1</link>
-      <description>Matteo Monai, No host. None(None)] 2024. https://openalex.org/W4403377064
-
-                This perspective focuses on the characterization of supported metal catalyst by operando and CO infrared (IR) spectroscopy. CO IR spectroscopy is a powerful technique to probe catalyst surfaces, and is used to identify single atom catalysts, estimate metal surface availability to the gas phase, and measure catalyst Lewis acidity. However, the interpretation of CO IR spectra on metal surfaces is not trivial, and influenced by dipole-dipole interactions among CO molecules at medium to high coverage. Such phenomenon results in spectral distortions, such as intensity transfer among IR bands, appearance of spurious bands, and shifts in band position. Dipole-dipole interactions have been widely investigated and understood in the 1950s&#8211;90s, but the implications for operando spectroscopy have been seemingly overlooked in literature, with a few exceptions. Inspired by seminal studies in the field, I propose here the use of mixed isotopic streams, such as diluted 13CO in 12CO, to reduce dipole coupling effects and retrieve more information from operando IR spectra in reactions involving CO, such as CO oxidation or hydrogenation reactions. Similarly, mixed 13CO2/12CO2 streams may be applied in CO2 hydrogenation, where adsorbed CO is commonly observed. The proposed name of the technique is Mixed Isotope Operando IR Spectroscopy, MIOIRS. In this perspective, I will first summarize the nature of dipole-dipole interactions in adsorbed CO layers, and their effects on CO IR spectra. Then, I will briefly describe how diluted isotopic mixtures of CO can partially break the coupling among adsorbates and reduce spectral distortion. In both sections, I will give a few showcases of the implications of vibrational coupling in heterogeneous catalysts characterization. Finally, I will discuss the possible implications of MIOIRS for the detection and quantification of defect and surface sites on metal nanoparticles, the characterization of bimetallic nanoparticles surfaces, and the kinetics of CO intermediates adsorbed on different active sites. Notably, MIOIRS may be expanded to other reactions in which adsorbates have strong permanent dipoles, such as in self-catalytic reduction for NOx abatement.</description>
-      <author>Matteo Monai</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-k44l1</guid>
     </item>
   </channel>
 </rss>

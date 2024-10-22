@@ -1,55 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Oct 21 01:22:20 2024
+Created on Tue Oct 22 01:21:21 2024
 
-Found 107 results from 2024-10-14 to 2024-10-21
+Found 99 results from 2024-10-15 to 2024-10-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Novel molybdenum sulfide-decorated graphitic carbon nitride nanohybrid for enhanced electrochemical oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403370553    
-Open access: False
-    
-[Arooj Fatima](https://openalex.org/A5103220496), [Albandari W. Alrowaily](https://openalex.org/A5018295795), [Haifa A. Alyousef](https://openalex.org/A5085473140), [Basel Al-Otaibi](https://openalex.org/A5074670506), [A. Dahshan](https://openalex.org/A5017232290), Journal of Sol-Gel Science and Technology. None(None)] 2024.https://doi.org/10.1007/s10971-024-06561-z.
-    
-No abstract    
-
-    
-
-## Quaternary Mixed Oxides of Non-Noble Metals with Enhanced Stability during the Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4403375655    
-Open access: True
-    
-[Alexis Piñeiro‐García](https://openalex.org/A5047477578), [Xiuyu Wu](https://openalex.org/A5090680444), [Esdras J. Canto-Aguilar](https://openalex.org/A5039329189), [Alice Kuzhikandathil](https://openalex.org/A5111399425), [Mouna Rafei](https://openalex.org/A5033743300), [Eduardo Gracia‐Espino](https://openalex.org/A5085209636), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c10234.
-    
-Robust electrocatalysts required to drive the oxygen evolution reaction (OER) during water electrolysis are still a missing component toward the path for sustainable hydrogen production. Here a new family of OER active quaternary mixed-oxides based on X–Sn–Mo–Sb (X = Mn, Fe, Co, or Ni) is reported. These nonstoichiometric mixed oxides form a rutile-type crystal structure with a random atomic motif and diverse oxidation states, leading to the formation of cation vacancies and local disorder. The successful incorporation of all cations into a rutile structure was achieved using oxidizing agents that facilitates the formation of Sb5+ required to form the characteristic octahedral coordination in rutile. The mixed oxides exhibit enhanced stability in both acidic and alkaline environments under anodic potentials with no changes in their crystal structure after extensive electrochemical stress. The improved stability of these mixed oxides highlights their potential application as scaffolds to host and stabilize OER active metals.    
-
-    
-
-## Recent development of non‐iridium‐based electrocatalysts for acidic oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403380005    
-Open access: True
-    
-[Lei Shi](https://openalex.org/A5089235898), [Wenhui Zhang](https://openalex.org/A5100399726), [Jiayu Li](https://openalex.org/A5100435414), [Qing Yan](https://openalex.org/A5019072602), [Zhengfei Chen](https://openalex.org/A5042254031), [Xianbo Zhou](https://openalex.org/A5016819085), [Jihong Li](https://openalex.org/A5082170164), [Ruiqin Gao](https://openalex.org/A5102883565), [Yuxue Wu](https://openalex.org/A5113750068), [Guodong Li](https://openalex.org/A5100360760), Carbon Neutralization. None(None)] 2024.https://doi.org/10.1002/cnl2.170.
-    
-Abstract Proton exchange membrane water electrolyser (PEMWE) possesses great significance for the production of high purity of hydrogen. To expedite the anodic oxygen evolution reaction (OER) that involved multiple electron–proton‐coupled process, efficient and stable electrocatalysts are highly desired. Currently, noble‐metal Ir‐based materials are the benchmark anode due to its corrosion‐resistant property and favourable combination of activity/stability. However, the large‐scale deployment of PEMWE is usually constrained due to the use of the scarcest element iridium. In this review, we disclose the current research progress towards the non‐iridium‐based electrocatalysts for OER in acidic media, and then summarize some typical oxides that possesses good catalytic performance. Besides, we also present the unresolved problems and challenges in an attempt to enhance the activity/stability of these catalysts.    
-
-    
-
-## Innovative Air Cathode with Ni‐Doped Cobalt Sulfide in Highly Ordered Macroporous Carbon Matrix for Rechargeable Zn–Air Battery   
-
-OpenAlex: https://openalex.org/W4403383341    
-Open access: True
-    
-[Yujin Son](https://openalex.org/A5112932984), [Kyeongseok Min](https://openalex.org/A5043789079), [Sungkyun Cheong](https://openalex.org/A5111298112), [Bo‐Young Lee](https://openalex.org/A5101930082), [Sang Eun Shim](https://openalex.org/A5089106758), [Sung‐Hyeon Baeck](https://openalex.org/A5048322224), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202407915.
-    
-Abstract To realize the practical application of rechargeable Zn–Air batteries (ZABs), it is imperative to develop a non‐noble metal‐based electrocatalyst with high electrochemical performance for the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). Herein, Ni‐doped Co 9 S 8 nanoparticles dispersed on an inverse opal‐structured N, S co‐doped carbon matrix (IO─Ni x Co 9‐x S 8 @NSC) as a bifunctional electrocatalyst is presented. The unique 3D porous structure, arranged in an inverse opal pattern, provides a large active surface area. Also, the conductive carbon substrate ensures the homogeneous dispersion of Ni x Co 9‐x S 8 nanocrystals, preventing aggregation and increasing the exposure of active sites. The introduction of heteroatom dopants into the Co 9 S 8 structure generates defect sites and enhances surface polarity, thereby improving electrocatalytic performance in alkaline solutions. Consequently, the IO─Ni x Co 9‐x S 8 @NSC shows excellent bifunctional activity with a high half‐wave potential of 0.926 V for ORR and a low overpotential of 289 mV at 10 mA cm −2 for OER. Moreover, the rechargeable ZAB assembled with prepared electrocatalyst exhibits a higher specific capacity (768 mAh g Zn −1 ), peak power density (180.2 mW cm −2 ), and outstanding stability (over 160 h) compared to precious metal‐based electrocatalyst.    
-
-    
 
 ## Redox-mediated decoupled seawater direct splitting for H2 production   
 
@@ -557,6 +513,17 @@ No abstract
 
     
 
+## Recycling spent battery components into highly efficient hydrogen and oxygen evolution electro-nano-catalysts   
+
+OpenAlex: https://openalex.org/W4403574615    
+Open access: False
+    
+[Basel A. Samy](https://openalex.org/A5107181941), [Zaheer Khan](https://openalex.org/A5101503773), [Shaeel A. Al‐Thabaiti](https://openalex.org/A5074579094), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145268.
+    
+No abstract    
+
+    
+
 ## Oxyanions Enhancing Crystallinity of Reconstructed Phase for Oxygen Evolution Reaction   
 
 OpenAlex: https://openalex.org/W4403471129    
@@ -689,17 +656,6 @@ The need for efficient, economical, and clean energy systems is increasing, and 
 
     
 
-## Catalytic Performance of Base Metal Addition into Mn/CeO2 Catalyst for Low Temperature Oxidative Coupling of Methane   
-
-OpenAlex: https://openalex.org/W4403375774    
-Open access: True
-    
-[Ellen Gustiasih Maulidanti](https://openalex.org/A5092384729), [Kenji Asami](https://openalex.org/A5109375676), International journal of engineering and science invention. 13(8)] 2024.https://doi.org/10.35629/6734-13081222.
-    
-The addition of Mn into a CeO2-based catalyst has been proven to promote C2 products at low temperature OCM reactions. However, the addition of Mn results in additional lattice oxygen, which contributes to CO2 production. The addition of another metal is expected to increase the amount of surface electrophilic oxygen by changing the lattice oxygen reactivity of the 33 wt% of manganese/CeO2 (33Mn/Ce) catalyst, resulting in improved oxygen evolution via active metal addition. A series of 33MnX/Ce catalysts with various X metals were developed. The 33 wt% of manganese and 15 wt% of calcium over CeO2 catalyst (33Mn15Ca/Ce) has the highest catalytic activity at 450 oC. The catalysts were evaluated using XRD, Raman, N2 adsorption-desorption, and XPS analysis, which revealed that the addition of Ca promotes the formation of Mn3+ cation. However, the number of oxygen vacancies has decreased, but the amount of surface electrophilic oxygen has increased. 33Mn15Ca/Ce catalyst performs better in oxygen-rich conditions and has a longer contact time.    
-
-    
-
 ## Oxygen Plasma Triggered Co‐O‐Fe Motif in Prussian Blue Analogue for Efficient and Robust Alkaline Water Oxidation   
 
 OpenAlex: https://openalex.org/W4403463126    
@@ -708,17 +664,6 @@ Open access: True
 [Hao Xu](https://openalex.org/A5078633718), [Chen Zhu](https://openalex.org/A5020555164), [Hao Lin](https://openalex.org/A5038922752), [Ji Kai Liu](https://openalex.org/A5111316982), [Yi Xiao Wu](https://openalex.org/A5030580558), [Huai Qin Fu](https://openalex.org/A5067436028), [Xinyu Zhang](https://openalex.org/A5100390697), [Fangxin Mao](https://openalex.org/A5110620978), [Hai Yang Yuan](https://openalex.org/A5112754951), [Chenghua Sun](https://openalex.org/A5058308419), [Peng Fei Liu](https://openalex.org/A5038216739), [Hua Gui Yang](https://openalex.org/A5100770981), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202415423 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ange.202415423)).
     
 In the context of oxygen evolution reaction (OER), the construction of high‐valent transition metal sites to trigger the lattice oxygen oxidation mechanism is considered crucial for overcoming the performance limitations of traditional adsorbate evolution mechanism. However, the dynamic evolution of lattice oxygen during the reaction poses significant challenges for the stability of high‐valent metal sites, particularly in high‐current‐density water‐splitting systems. Here, we have successfully constructed Co‐O‐Fe catalytic active motifs in cobalt‐iron Prussian blue analogs (CoFe‐PBA) through oxygen plasma bombardment, effectively activating lattice oxygen reactivity while sustaining robust stability. Our spectroscopic and theoretical studies reveal that the Co‐O‐Fe bridged motifs enable a unique double‐exchange interaction between Co and Fe atoms, promoting the formation of high‐valent Co species as OER active centers while maintaining Fe in a low‐valent state, preventing its dissolution. The resultant catalyst (CoFe‐PBA‐30) requires an overpotential of only 276 mV to achieve 1000 mA cm‐2. Furthermore, the assembled alkaline exchange membrane electrolyzer using CoFe‐PBA‐30 as anode material achieves a high current density of 1 A cm‐2 at 1.76 V and continuously operates for 250 hours with negligible degradation. This work provides significant insights for activating lattice oxygen redox without compromising structure stability in practical water electrolyzers.    
-
-    
-
-## Potentiodynamic Polarization Study of PH3 Electrochemical Oxidation   
-
-OpenAlex: https://openalex.org/W4403376355    
-Open access: True
-    
-[Ainur Tukibayeva](https://openalex.org/A5059002189), [А. Bayeshov](https://openalex.org/A5063794529), [Dina Asylbekova](https://openalex.org/A5042774232), [Laura Aikozova](https://openalex.org/A5057222629), [Aizhan Essentayeva](https://openalex.org/A5111399757), Electrochemical Science Advances. None(None)] 2024.https://doi.org/10.1002/elsa.202400025.
-    
-ABSTRACT In this study, the electrochemical behaviour of phosphine in sulphuric acid solutions on the surface of various electrode materials was conducted by voltammetric investigations. The effects of electrode materials such as lead, copper, and platinum electrodes on the PH 3 anodic oxidation were investigated. Polarization curves were recorded by saturating the sulphuric acid solution with phosphine. The results received show that the electrochemical oxidation of phosphine on the lead electrode is accompanied by an oxygen evolution potential and, on the copper electrode, copper (II) ions show catalytic effects. The maximum anodic oxidation of phosphine on a platinum electrode was observed at the potential range of 0.8–1.0 V, and in the presence of copper (II) ions on the polarogram a maximum of phosphine oxidation is recorded at a potential of approximately 0.1–0.2 V.    
 
     
 
@@ -777,17 +722,6 @@ In this research, the electronic states, band structures, and bond properties of
 
     
 
-## Dynamic Micelle‐Hydrogels for 3D‐Architected Transition Metal Sulfides   
-
-OpenAlex: https://openalex.org/W4403382206    
-Open access: False
-    
-[Zhenzhen Wang](https://openalex.org/A5100439380), [Xiaozhuang Zhou](https://openalex.org/A5027636744), [Junen Wu](https://openalex.org/A5114245688), [Yimeng Wei](https://openalex.org/A5031954651), [Yubo Cui](https://openalex.org/A5102096038), [Yulong Xia](https://openalex.org/A5100529354), [Weiming Xu](https://openalex.org/A5111317738), [Shichun Mu](https://openalex.org/A5040396459), [Jiaxi Cui](https://openalex.org/A5070944532), Macromolecular Rapid Communications. None(None)] 2024.https://doi.org/10.1002/marc.202400740.
-    
-Abstract Additive manufacturing of transition metal sulfides (TMS) enables the creation of complex 3D structures, significantly expanding their applications. However, preparing 3D‐structured TMS remains challenging due to difficulties in developing suitable inks. In this study, a supramolecular micelle hydrogel as the ink to fabricate 3D‐structured TMS is utilized. Initially, the hydrogels are printed and infused with metal salt solutions to stabilize the structures, which are then calcined to convert into miniaturized 3D‐TMS replicas. The micellar hydrogels crosslink via hydrophobic interactions, with sodium dodecyl sulfonate (SDS) micelles providing both a hydrophobic environment and sulfur sources. During calcination, the decomposed sulfur precursors coordinate with metal ions to form various TMS, including FeS 2 , Cu 2 S, Ni 3 S 2 , and Co 9 S 8 , along with several metal sulfides like PbS and SnS. Additionally, the method also allows for the preparation of transition metal dichalcogenides such as MoS 2 and WS 2 . The formation mechanism is demonstrated using Ni 3 S 2 as an example which exhibits notable catalytic activity in oxygen evolution reactions (OER) and hydrogen evolution reactions (HER). Given its simplicity and versatility, this dynamic micellar hydrogel‐derived strategy offers a promising pathway for creating advanced TMS materials.    
-
-    
-
 ## Hybrid Nanoalloy‐Cluster‐Single Atom Sites Based Aerophilic Carbon Fiber Membranes as Binder‐Free Cathodes for Ultra‐Long‐Life Zn‐air Batteries   
 
 OpenAlex: https://openalex.org/W4403550838    
@@ -815,7 +749,7 @@ Abstract The escalating global demand for clean and sustainable energy has ignit
 OpenAlex: https://openalex.org/W4403565947    
 Open access: False
     
-[Shuangyin Wang](https://openalex.org/A5042902756), [Fuqiang Liu](https://openalex.org/A5100733010), [Wei Chen](https://openalex.org/A5100344502), [Tong Wang](https://openalex.org/A5100451018), [J. Zhang](https://openalex.org/A5091171579), [Deyong Yang](https://openalex.org/A5110762955), [Yinhao Dai](https://openalex.org/A5068733650), [G. Q. Liu](https://openalex.org/A5010519975), [Jian Zhou](https://openalex.org/A5033773916), [Xiaohong Guan](https://openalex.org/A5075845093), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202415438.
+[Shuangyin Wang](https://openalex.org/A5042902756), [Fuqiang Liu](https://openalex.org/A5100733010), [Wei Chen](https://openalex.org/A5100344502), [Tong Wang](https://openalex.org/A5100451018), [J. Zhang](https://openalex.org/A5091171579), [Deyong Yang](https://openalex.org/A5110762955), [Yinhao Dai](https://openalex.org/A5068733650), [Guizi Liu](https://openalex.org/A5010519975), [Jian Zhou](https://openalex.org/A5033773916), [Xiaohong Guan](https://openalex.org/A5075845093), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202415438.
     
 Electrocatalytic oxidation of aqueous phenol to para‐benzoquinone (p‐BQ) offers a sustainable approach for both pollutant abatement and value‐added chemicals production. However, achieving high phenol conversion and p‐BQ yield under neutral conditions remains challenging. Herein, we report a Ni(OH)2‐supported Ru nanoparticles (NiRu) hybrid electrocatalyst, which exhibits a superior phenol conversion of 96.5% and an excellent p‐BQ yield of 83.4% at pH 7.0, significantly outperforming previously reported electrocatalysts. This exceptional performance benefits from the triple synergistic modulation of the NiRu catalyst, including enhanced phenol adsorption, increased p‐BQ desorption, and suppressed oxygen evolution. By coupling a flow electrolyzer with an extraction‐distillation separation unit, the simultaneous phenol removal and p‐BQ recovery are realized. Additionally, the developed electrocatalytic system with the NiRu/C anode displays good stability, favorable energy consumption, and reduced greenhouse gas emissions for phenol‐containing wastewater treatment, demonstrating its potential for practical applications. This work offers a promising strategy for achieving low‐carbon emissions in phenol wastewater treatment.    
 
@@ -826,7 +760,7 @@ Electrocatalytic oxidation of aqueous phenol to para‐benzoquinone (p‐BQ) off
 OpenAlex: https://openalex.org/W4403565948    
 Open access: False
     
-[Shuangyin Wang](https://openalex.org/A5042902756), [Fuqiang Liu](https://openalex.org/A5100733010), [Wei Chen](https://openalex.org/A5100344502), [Tong Wang](https://openalex.org/A5100451018), [J. Zhang](https://openalex.org/A5091171579), [Deyong Yang](https://openalex.org/A5110762955), [Yinhao Dai](https://openalex.org/A5068733650), [G. Q. Liu](https://openalex.org/A5010519975), [Jian Zhou](https://openalex.org/A5033773916), [Xiaohong Guan](https://openalex.org/A5075845093), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202415438.
+[Shuangyin Wang](https://openalex.org/A5042902756), [Fuqiang Liu](https://openalex.org/A5100733010), [Wei Chen](https://openalex.org/A5100344502), [Tong Wang](https://openalex.org/A5100451018), [Juchao Zhang](https://openalex.org/A5091171579), [Deyong Yang](https://openalex.org/A5110762955), [Yinhao Dai](https://openalex.org/A5068733650), [Guizi Liu](https://openalex.org/A5010519975), [Jian Zhou](https://openalex.org/A5033773916), [Xiaohong Guan](https://openalex.org/A5075845093), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202415438.
     
 Electrocatalytic oxidation of aqueous phenol to para‐benzoquinone (p‐BQ) offers a sustainable approach for both pollutant abatement and value‐added chemicals production. However, achieving high phenol conversion and p‐BQ yield under neutral conditions remains challenging. Herein, we report a Ni(OH)2‐supported Ru nanoparticles (NiRu) hybrid electrocatalyst, which exhibits a superior phenol conversion of 96.5% and an excellent p‐BQ yield of 83.4% at pH 7.0, significantly outperforming previously reported electrocatalysts. This exceptional performance benefits from the triple synergistic modulation of the NiRu catalyst, including enhanced phenol adsorption, increased p‐BQ desorption, and suppressed oxygen evolution. By coupling a flow electrolyzer with an extraction‐distillation separation unit, the simultaneous phenol removal and p‐BQ recovery are realized. Additionally, the developed electrocatalytic system with the NiRu/C anode displays good stability, favorable energy consumption, and reduced greenhouse gas emissions for phenol‐containing wastewater treatment, demonstrating its potential for practical applications. This work offers a promising strategy for achieving low‐carbon emissions in phenol wastewater treatment.    
 
@@ -997,17 +931,6 @@ Key message Plant‐virus‐host interaction is a complex process involving seve
 
     
 
-## Celebration of the 50th Anniversary of ISOTT (September 27, 2023 Tokyo, Japan)   
-
-OpenAlex: https://openalex.org/W4403377477    
-Open access: False
-    
-[Duane F. Bruley](https://openalex.org/A5111730180), Advances in experimental medicine and biology. None(None)] 2024.https://doi.org/10.1007/978-3-031-67458-7_1.
-    
-In the early 1960s, I was working as a traditional chemical engineer studying inanimate objects without the slightest clue of the biological world. At that time, I met Dr Melvin H. Knisely and he encouraged me to use my engineering skills to improve on the Krogh capillary tissue cylinder. I derived a detailed mathematical model and performed a complex computer simulation to achieve that goal. We attended professional meetings on oxygen transport to tissue all over the world, but mainly in Europe, presenting case studies. It became my goal to honour Dr Knisely with a meeting on oxygen transport to tissue at Clemson University in South Carolina, USA. Melvin's wife, Verona, convinced me to also have the meeting at the Medical University of South Carolina located in Charleston, since it was meant to honour Dr Knisely's work with his quartz rod crystal for illumination. He is credited as the first human being to observe the particulate matter in blood flowing in the microcirculation. He was nominated for the Nobel prize four times as a result of his discoveries. When I decided to have part of the meeting at the medical school, I invited Dr Haim Bicher to work with me from there and I focused on Clemson University and the combined meeting structure. As the meeting evolved, we decided it would be a good idea to establish an international society and call it the "International Society on Oxygen Transport to Tissue" (ISOTT). I wrote a paper on the pillars of our young society, "ISOTT from the Beginning: A Tribute to Our Deceased Members (Icons)," and another that shares more detail about its beginnings, "The Founding of ISOTT: The Shamattawa of Engineering Science and Medical Science". The roots of ISOTT are all the members, new and old, who continue to make valuable contributions to an exceedingly important component of human health. I hope that the society lasts for a long time, continuing to make important contributions to the medical world. It is a society that has been instrumental in bringing together brilliant scientists from the medical, engineering, and natural science fields to work together. It has contributed to the evolution of "bioengineering" as we know it today.    
-
-    
-
 ## Abundances of iron-peak elements in 58 bulge spheroid stars from APOGEE   
 
 OpenAlex: https://openalex.org/W4403509626    
@@ -1038,6 +961,17 @@ Open access: True
 [Sota Arakawa](https://openalex.org/A5041381450), [Daiki Yamamoto](https://openalex.org/A5091633185), [Lily Ishizaki](https://openalex.org/A5092698821), [Tamami Okamoto](https://openalex.org/A5035791187), [Noriyuki Kawasaki](https://openalex.org/A5024341217), The Astrophysical Journal. 974(2)] 2024.https://doi.org/10.3847/1538-4357/ad7795.
     
 Abstract Meteorites and their components exhibit a diverse range of oxygen isotope compositions, and the isotopic exchange timescale between dust grains and ambient gas is a key parameter for understanding the spatiotemporal evolution of the solar nebula. As dust grains existed as macroscopic aggregates in the solar nebula, it is necessary to consider the isotopic exchange timescales for these aggregates. Here, we theoretically estimate the isotope exchange timescales between dust aggregates and ambient vapor. The isotope exchange process between aggregates and ambient vapor is divided into four processes: (i) supply of gas molecules to the aggregate surface, (ii) diffusion of molecules within the aggregate, (iii) isotope exchange on the surface of constituent particles, and (iv) isotope diffusion within the particles. We evaluate these timescales and assess which one becomes the rate-determining step. We reveal that the isotope exchange timescale is approximately the same as that of the constituent particles when the aggregate radius is smaller than the critical value, which is a few centimeters when considering the exchange reaction between amorphous forsterite aggregates and water vapor.    
+
+    
+
+## Abundances of iron-peak elements in 58 bulge spheroid stars from APOGEE   
+
+OpenAlex: https://openalex.org/W4403580076    
+Open access: True
+    
+[B. Barbuy](https://openalex.org/A5005656477), [A. C. S. Friaça](https://openalex.org/A5035306424), [H. Ernandes](https://openalex.org/A5051994017), [Patricia Siqueira Silva](https://openalex.org/A5025849197), [S. O. Souza](https://openalex.org/A5022886967), [J. G. Fernández-Trincado](https://openalex.org/A5108060944), [Kátia Cunha](https://openalex.org/A5059358944), [V. V. Smith](https://openalex.org/A5050430087), [T. Masseron](https://openalex.org/A5014987275), [Ángeles Pérez-Villegas](https://openalex.org/A5022487337), [C. Chiappini](https://openalex.org/A5011489447), [A. B. A. Queiroz](https://openalex.org/A5041087675), [B. X. Santiago](https://openalex.org/A5018834972), [T. C. Beers](https://openalex.org/A5051285265), [F. Anders](https://openalex.org/A5037705938), [Ricardo P. Schiavon](https://openalex.org/A5013918544), [M. Valentini](https://openalex.org/A5016002364), [D. Minniti](https://openalex.org/A5114321234), [D. Geisler](https://openalex.org/A5018367937), [Diogo Souto](https://openalex.org/A5077844186), [Vinicius M. Placco](https://openalex.org/A5054532941), [M. Zoccali](https://openalex.org/A5106133572), [S. Feltzing](https://openalex.org/A5051729278), [M. Schultheis](https://openalex.org/A5059001567), [C. Nitschelm](https://openalex.org/A5045277279), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.13751 ([pdf](http://arxiv.org/pdf/2410.13751)).
+    
+Stars presently identified in the bulge spheroid are probably very old, and their abundances can be interpreted as due to the fast chemical enrichment of the early Galactic bulge. The abundances of the iron-peak elements are important tracers of nucleosynthesis processes, in particular oxygen burning, silicon burning, the weak s-process, and alpha-rich freeze-out. Aims. The aim of this work is to derive the abundances of V, Cr, Mn, Co, Ni, and Cu in 58 bulge spheroid stars and to compare them with the results of a previous analysis of data from APOGEE. We selected the best lines for V, Cr, Mn, Co, Ni, and Cu located within the H-band of the spectrum, identifying the most suitable ones for abundance determination, and discarding severe blends. Using the stellar physical parameters available for our sample from the DR17 release of the APOGEE project, we derived the individual abundances through spectrum synthesis. We then complemented these measurements with similar results from different bulge field and globular cluster stars, in order to define the trends of the individual elements and compare with the results of chemical-evolution models. We verify that the H-band has useful lines for the derivation of the elements V, Cr, Mn, Co, Ni, and Cu in moderately metal-poor stars. The resulting abundances indicate that: V, Cr, and Ni vary in lockstep with Fe; Co tends to vary in lockstep with Fe, but could be showing a slight decrease with decreasing metallicity; and Mn and Cu decrease with decreasing metallicity. These behaviours are well reproduced by chemical-evolution models except for Cu, which appears to drop faster than the models predict for moderate metallicities. Finally, abundance indicators combined with kinematical and dynamical criteria appear to show that our 58 sample stars are likely to have originated in situ.    
 
     
 
@@ -1085,6 +1019,18 @@ Abstract We derive the nitrogen and oxygen abundances in the Narrow Line Regions
 
     
 
+## Giant Dynamical Paramagnetism in the driven pseudogap phase of $ \rm
+  YBa_2Cu_3O_{6+x}$   
+
+OpenAlex: https://openalex.org/W4403578830    
+Open access: True
+    
+[Marios H. Michael](https://openalex.org/A5015112349), [Duilio De Santis](https://openalex.org/A5006535426), [Eugene Demler](https://openalex.org/A5059690645), [Patrick A. Lee](https://openalex.org/A5026817577), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.12919 ([pdf](http://arxiv.org/pdf/2410.12919)).
+    
+In the past decade, photo-induced superconducting-like behaviors have been reported in a number of materials driven by intense pump fields. Of particular interest is the high-$T_c$ cuprate $\rm Y Ba_2 Cu_2 O_{6+x}$, where such effect has been reported up to the so-called pseudogap temperature $T^* \sim 300-400$ K. In a recent tour-de-force experiment, a transient magnetic field which is proportional to and in the same direction of an applied field has been observed outside the sample, suggestive of flux exclusion due to the Meissner effect. In this paper, we point out that the transient magnetic field could be explained by a model of bilayers of copper-oxygen planes with a local superconducting phase variable persisting up to the pseudo-gap temperature at equilibrium. Under pumping, the time evolution is described by a driven sine-Gordon equation. In the presence of an external magnetic field, this model exhibits a novel instability which amplifies the current at the edges of the bilayer formed by defects or grain boundaries, producing a giant paramagnetic magnetization in the same direction as the applied field. We present how this scenario can fit most of the available data and propose additional experimental tests which can distinguish our proposal from the Meissner flux exclusion scenario. To the extent that this model can account for the data, we conclude that the experiments have the important consequence of revealing the presence of local pairing in the pseudogap phase. More broadly, this work provides a new mechanism for amplifying external magnetic fields at ultra-fast time scales.    
+
+    
+
 ## PPCon 1.0: Biogeochemical-Argo profile prediction with 1D convolutional networks   
 
 OpenAlex: https://openalex.org/W4403473897    
@@ -1104,17 +1050,6 @@ Open access: True
 [Wenyao Chen](https://openalex.org/A5091762005), [Yao Shi](https://openalex.org/A5033120372), [Changwei Liu](https://openalex.org/A5100701769), [Zhouhong Ren](https://openalex.org/A5055993354), [Zhigang Huang](https://openalex.org/A5100649878), [Zhou Chen](https://openalex.org/A5100382828), [Xiangxue Zhang](https://openalex.org/A5009601207), [Shanshan Liang](https://openalex.org/A5071911822), [Lei Xie](https://openalex.org/A5028418565), [Cheng Lian](https://openalex.org/A5023414498), [Gang Qian](https://openalex.org/A5111211694), [Jing Zhang](https://openalex.org/A5100345361), [Xi Liu](https://openalex.org/A5100450813), [De Chen](https://openalex.org/A5043284449), [Xinggui Zhou](https://openalex.org/A5042349571), [Weikang Yuan](https://openalex.org/A5102162827), [Xuezhi Duan](https://openalex.org/A5047128288), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53474-0.
     
 Computationally derived volcano curve has become the gold standard in catalysis, whose practical application usually relies on empirical interpretations of composition or size effects by the identical active site assumption. Here, we present a proof-of-concept study on disclosing both the support- and adsorbate-induced restructuring of Pt-Co bimetallic catalysts, and the related interplays among different interfacial sites to propose the synergy-dependent volcano curves. Multiple characterizations, isotopic kinetic investigations, and multiscale simulations unravel that the progressive incorporation of Co into Pt catalysts, driven by strong Pt-C bonding (metal-support interfaces) and Co-O bonding (metal-adsorbate interfaces), initiates the formation of Pt-rich alloys accompanied by isolated Co species, then Co segregation to epitaxial CoOx overlayers and adjacent Co3O4 clusters, and ultimately structural collapse into amorphous alloys. Accordingly, three distinct synergies, involving lattice oxygen redox from Pt-Co alloy/Co3O4 clusters, dual-active sites engineering via Pt-rich alloy/CoOx overlayer, and electron coupling within exposed alloy, are identified and quantified for CO oxidation (gas-phase), ammonia borane hydrolysis (liquid-phase), and hydrogen evolution reaction (electrocatalysis), respectively. The resultant synergy-dependent volcano curves represent an advancement over traditional composition-/size-dependent ones, serving as a bridge between theoretical models and experimental observations in bimetallic catalysis. Volcano curves have become the gold standard in catalyst design. Here, the authors propose synergy-dependent volcano curves by disclosing both support- and adsorbate-induced catalyst restructuring, ideally bridging the gap between theoretical models and experimental observations.    
-
-    
-
-## Dynamic microbiome diversity shaping the adaptation of sponge holobionts in coastal waters   
-
-OpenAlex: https://openalex.org/W4403381149    
-Open access: True
-    
-[B. C. Gan](https://openalex.org/A5113403636), [Kai Wang](https://openalex.org/A5103905237), [Beibei Zhang](https://openalex.org/A5100441009), [Chenzheng Jia](https://openalex.org/A5074136236), [Xin Lin](https://openalex.org/A5091038325), [Jing Zhao](https://openalex.org/A5083239520), [Shaoxiong Ding](https://openalex.org/A5058032987), Microbiology Spectrum. None(None)] 2024.https://doi.org/10.1128/spectrum.01448-24.
-    
-ABSTRACT The microbial communities associated with sponges contribute to the adaptation of hosts to environments, which are essential for the trophic transformation of benthic-marine coupling. However, little is known about the symbiotic microbial community interactions and adaptative strategies of high- and low-microbial abundance (HMA and LMA) sponges, which represent two typical ecological phenotypes. Here, we compared the 1-year dynamic patterns of microbiomes with the HMA sponge Spongia officinalis and two LMA sponge species Tedania sp. and Haliclona simulans widespread on the coast of China. Symbiotic bacterial communities with the characteristic HMA–LMA dichotomy presented higher diversity and stability in S. officinalis than in Tedania sp. and H. simulans , while archaeal communities showed consistent diversity across all sponges throughout the year. Dissolved oxygen, dissolved inorganic phosphorus, dissolved organic phosphorus, and especially temperature were the major factors affecting the seasonal changes in sponge microbial communities. S. officinalis -associated microbiome had higher diversity, stronger stability, and closer interaction, which adopted a relatively isolated strategy to cope with environmental changes, while Tedania sp. and H. simulans were more susceptible and shared more bacterial Amplicon Sequence Variants (ASVs) with surrounding waters, with an open way facing the uncertainty of the environment. Meta-analysis of the microbiome in composition, diversity, and ecological function from 13 marine sponges further supported that bacterial communities associated with HMA and LMA sponges have evolved two distinct environmental adaptation strategies. We propose that the different adaptive ways of sponges responding to the environment may be responsible for their successful evolution and their competence in global ocean change. IMPORTANCE During long-term evolution, sponge holobionts, among the oldest symbiotic relationships between microbes and metazoans, developed two distinct phenotypes with high- and low-microbial abundance (HMA and LMA). Despite sporadic studies indicating that the characteristic microbial assemblages present in HMA and LMA sponges, the adaptation strategies of symbionts responding to environments are still unclear. This deficiency limits our understanding of the selection of symbionts and the ecological functions during the evolutionary history and the adaptative assessment of HMA and LMA sponges in variable environments. Here, we explored symbiotic communities with two distinct phenotypes in a 1-year dynamic environment and combined with the meta-analysis of 13 sponges. The different strategies of symbionts in adapting to the environment were basically drawn: microbes with LMA were more acclimated to environmental changes, forming relatively loose-connected communities, while HMA developed relatively tight-connected and more similar communities beyond the divergence of species and geographical location.    
 
     
 
@@ -1140,17 +1075,6 @@ Abstract Amid climate change, reducing reliance on fossil fuels and transitionin
 
     
 
-## Magma Degassing andGoldMineralizationinthe Alkaline Intrusion- HostedGiltEdgeGoldDeposit,NorthernBlackHills, SouthDakota,USA   
-
-OpenAlex: https://openalex.org/W4403379350    
-Open access: True
-    
-[John A. Groff](https://openalex.org/A5022034174), Earth and Planetary Science. 3(2)] 2024.https://doi.org/10.36956/eps.v3i2.1125 ([pdf](https://journals.nasspublishing.com/index.php/eps/article/download/1125/891)).
-    
-Gold mineralization in the Gilt Edge deposit was closely associated with magmatic differentiation and the formation of a Tertiary alkaline intrusive complex within the Lead–Deadwood dome.. Fluid inclusions and trace element geochemistry were used to study fluid evolution and determine sources. Quartz disseminated in unaltered trachyte porphyry hosts two populations of primary inclusions: 1) hypersaline i S–L–V a red hematite crystal and 2) mixtures of L–V and V– L that record phase separation at ~700oC. Whereas samples of hydrothermal quartz collected from in ore zones within and beyond structures (e.g., fault and breccia zones) contain dominant populations of V–L and L–V inclusions, respectively. Mineralization in structures formed from complex fluids of magmatic origin based on inclusions containing five transparent salt crystals and opaque crystals with cubic and round habits that have homogenization temperatures (Th) 650oC and salinities 63 wt.% NaCl equiv. In contrast, broader areas of disseminated mineralization in argillized and propylitized rocks contain hydrothermal quartz hosting large populations of L–V inclusions with Th of 200o360oC and salinities of 10–30 wt.% NaCl equiv., which reflect fluid mixing. Trace element concentrations are significantly higher in samples from structures and define zones of near surface Ag–As–Zn–Pb and deep Au–W–Mo–Cu. Whereas low trace element concentrations characterize propylitized quartz trachyte porphyry, except for high concentrations of Sb and Hg that occur at depth and likely track the retreat of isotherms as the hydrothermal system collapsed. These data show that during differentiation in a deep magma chamber, volatile-rich low-density fluids were periodically degassed into preexisting structures that were reactivated. Gold deposition during four stages of mineralization likely occurred due to boiling, changes in oxygen fugacity, and fluid mixing.    
-
-    
-
 ## The genome and comparative transcriptome of the euryhaline model ciliate Paramecium duboscqui reveal adaptations to environmental salinity   
 
 OpenAlex: https://openalex.org/W4403439852    
@@ -1159,17 +1083,6 @@ Open access: True
 [Yu Fu](https://openalex.org/A5100892251), [Ping Ni](https://openalex.org/A5103164688), [Qian Zhang](https://openalex.org/A5101742243), [Fasheng Liang](https://openalex.org/A5101389932), [Naomi A. Stover](https://openalex.org/A5045601583), [Lifang Li](https://openalex.org/A5100718001), BMC Biology. 22(1)] 2024.https://doi.org/10.1186/s12915-024-02026-5.
     
 As a potential model organism for studies of environmental and cell biology, Paramecium duboscqui is a special euryhaline species of Paramecium that can be found in fresh, brackish, or marine water in natural salinity ranges between 0‰ and 33‰. However, the genome information as well as molecular mechanisms that account for its remarkable halotolerant traits remain extremely unknown. To characterize its genome feature, we combined PacBio and Illumina sequencing to assemble the first high-quality and near-complete macronuclear genome of P. duboscqui. Meanwhile, comparative transcriptomic profiles under different salinities gave underlying insight into the molecular mechanism of its adaptations to environmental salinity. The results showed that the MAC genome of P. duboscqui comprises 160 contigs, with 113 of them possessing telomere (~ 28.82 Mb haploid genome size). Through comparative genomic analyses with the other ciliate, we found that gene families encoding transmembrane transporter proteins have been expanded in P. duboscqui, showing enormous potential in salinity adaptation. Like other Paramecium, P. duboscqui utilizes TGA as its only termination codon and has reassigned TAA and TAG to encode glutamine. P. duboscqui showed different growth rates under different salinities, with an optimum growth rate in 5‰ salinity. A comparison of the transcriptomic profiles among P. duboscqui grown under different concentrations showed that genes involved in protein folding, oxygen respiration, and glutathione-dependent detoxification were upregulated in the high-salt group, whereas genes encoding DNA-binding proteins and transcription factors were upregulated in the low-salt group, suggesting distinct mechanisms for responding to low and high salinity. Weighted gene coexpression network analysis (WGCNA) linked the hub genes expressed at 30‰ salinity to cysteine-type peptidase activity, lipid transfer, sodium hydrogen exchange, and cell division, with the hub genes expressed at 0‰ salinity involved in transmembrane transport and protein localization. This study characterizes a new euryhaline model Paramecium, provides novel insights into Paramecium evolution, and describes the molecular mechanisms that have allow P. duboscqui to adapt to different osmotic environments.    
-
-    
-
-## Study on Cycle Performance and Rate Performance of Lithium Cobalt Oxide   
-
-OpenAlex: https://openalex.org/W4403376205    
-Open access: False
-    
-[Nana He](https://openalex.org/A5010810658), [Chun Chu](https://openalex.org/A5111399648), No host. 6(4)] 2024.https://doi.org/10.69610/j.gsr.20240930.
-    
-Lithium cobalt oxide (LiCoO2 ) cathode material, with its high energy density and operating voltage, is currently a mainstream material for lithium-ion battery cathodes. &nbsp;&nbsp;However, &nbsp;the &nbsp;crystal &nbsp;structure &nbsp;collapse &nbsp;and &nbsp;lattice &nbsp;oxygen &nbsp;evolution under high-voltage conditions lead to rapid capacity decay, severely limiting its practical applications. &nbsp;&nbsp;This paper &nbsp;analyzes the main factors affecting the cycle performance and rate performance of lithium cobalt oxide, considering the physic- ochemical properties of the particles, including elemental content and particle size, and provides a mathematical model linking these properties to electrochemical per- formance. &nbsp;The study offers insights for the practical production of high-voltage lithium cobalt oxide materials. At the beginning, we embarked on investigating the correlation between the physicochemical attributes (encompassing elemental composition and particle size) of lithium cobalt oxide and its cycle performance. An Ordinary Least Squares (OLS) linear regression model was formulated, yielding a robust fit with an R-Squared value of 0.94. This model was subsequently optimized through the application of an XGBoost algorithm, achieving an R-Squared value nearing unity, signifying a remarkable enhancement in model accuracy. Visual analysis of the results pinpointed the primary determinants of cycle performance, arranged in descending order of significance: 'Cycle Index,' Mg content, particle size distribution (D10), Zn, and Al. Then, our attention shifted to examining the link between the aforementioned physicochemical characteristics and the rate performance of lithium cobalt oxide. The Jarque-Bera and Shapiro-Wilk tests confirmed the normality of the data, fulfilling the prerequisites for hypothesis testing. An OLS linear regression model was developed, demonstrating a strong goodness-of-fit with an R-Squared value exceeding 0.8. This model was further honed with an XGBoost model, which achieved an R-Squared score approaching 1, indicating a substantial refinement in model precision. The visualization of model outcomes illuminated the key factors influencing rate performance, ranked in descending order of importance: particle size distribution (D50), Al, Mn, Zn, Mg, Ni, and Fe. Lastly, we devised an optimal strategy that encompasses the incorporation of strategic doping elements, the utilization of high-temperature sol-gel methods to bolster cycle performance, and coating modifications aimed at enhancing rate performance. This holistic approach fosters the structural stability of lithium cobalt oxide crystals, fortifying their high-potential cycle capabilities, and concurrently elevating their rate performance.    
 
     
 

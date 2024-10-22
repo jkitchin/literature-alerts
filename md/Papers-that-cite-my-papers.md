@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Oct 21 01:22:40 2024
+Created on Tue Oct 22 01:21:43 2024
 
-Found 48 results from 2024-10-14 to 2024-10-21
+Found 47 results from 2024-10-15 to 2024-10-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -16,28 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Carbonate-carbonate coupling on platinum surface promotes electrochemical water oxidation to hydrogen peroxide   
-
-OpenAlex: https://openalex.org/W4403370664    
-Open access: True
-    
-[Heng Zhu](https://openalex.org/A5067425729), [Xianshun Lv](https://openalex.org/A5059436752), [Yuexu Wu](https://openalex.org/A5113431738), [Li Wang](https://openalex.org/A5100322864), [Yuping Wu](https://openalex.org/A5100368786), [Shicheng Yan](https://openalex.org/A5013461643), [Yuhui Chen](https://openalex.org/A5063337505), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53134-3.
-    
-Water electro-oxidation to form H2O2 is an important way to produce H2O2 which is widely applied in industry. However, its mechanism is under debate and HO(ads), hydroxyl group adsorbed onto the surface of the electrode, is regarded as an important intermediate. Herein, we study the mechanism of water oxidation to H2O2 at Pt electrode using in-situ Raman spectroscopy and differential electrochemical mass spectroscopy and find peroxide bond mainly originated from the coupling of two CO32- via a C2O62- intermediate. By quantifying the 18O isotope in the product, we find that 93% of H2O2 was formed via the CO32- coupling route and 7% of H2O2 is from OH(ads)-CO3•− route. The OH(ads)-OH(ads) coupling route has a negligible contribution. The comparison of various electrodes shows that the strong adsorption of CO3(ads) at the electrode surface is essential. Combining with a commercial cathode catalyst to produce H2O2 during oxygen reduction, we assemble a flow cell in which the cathode and anode simultaneously produce H2O2. It shows a Faradaic efficiency of 150% of H2O2 at 1 A cm−2 with a cell voltage of 2.3 V. Electrosynthesis via two electron water reactions offers a promising method for decentralized H2O2 production, yet its mechanism remains unclear. Here, the authors address the challenge by using in-situ Raman and DEMS, and demonstrate 93% of H2O2 forms via the carbonate coupling route through a C2O62− intermediate.    
-
-    
-
-## A Theoretical Perspective for Ammonia Synthesis: Nitric Oxide or Nitrate Electroreduction?   
-
-OpenAlex: https://openalex.org/W4403378857    
-Open access: True
-    
-[Q.G. Wang](https://openalex.org/A5076926414), [Pu Guo](https://openalex.org/A5102537365), [Huan Li](https://openalex.org/A5100622354), [Jun Long](https://openalex.org/A5030617408), [Shaoxue Yang](https://openalex.org/A5052017025), [Jianping Xiao](https://openalex.org/A5004947752), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202401208 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smtd.202401208)).
-    
-Abstract Ammonia is an important raw material for agricultural production, playing a key role in global food production. However, conventional ammonia synthesis resulted in extensive greenhouse gas emissions and huge energy consumption. Recently, researchers have proposed electrocatalytic reverse artificial nitrogen cycle (eRANC) routes to circumvent these issues, which can be driven by electrocatalysis and sustainable electricity. Here, a theoretical and computational perspective on the challenges and opportunities with the comparison with experimental results: electrochemical reduction of nitrate (eNO 3 RR) and nitrite (eNO 2 RR), electrochemical reduction of nitric oxide (eNORR) combined with oxidative nitrogen fixation are presented. By comparison, the N 2 →NO→NH 3 route is proposed as the most promising in case the NO solubility can be solved well in reactor design. Its high efficiency of ammonia production is demonstrated. Instead, the eNO 3 RR can be another choice because it is non‐toxic and the solid‐liquid interface is usually efficient for electrochemical reactions, while its low selectivity at low overpotentials is an issue. These fundamentals highlight the potential and key factors of eRANC as an efficient and sustainable route for ammonia production.    
-
-    
 
 ## Redox-mediated decoupled seawater direct splitting for H2 production   
 
@@ -479,6 +457,28 @@ No abstract
 
     
 
+## 1-Dimensional metal Nitride-Supported platinum nanoclusters for Low-Temperature hydrogen production from formic acid   
+
+OpenAlex: https://openalex.org/W4403574280    
+Open access: False
+    
+[Liang Qiu](https://openalex.org/A5082044293), [Bowen Sheng](https://openalex.org/A5014362602), [Haotian Ye](https://openalex.org/A5060673167), [Ping Wang](https://openalex.org/A5100338658), [Jinglin Li](https://openalex.org/A5100697369), [Ying Li](https://openalex.org/A5112603502), [Yixin Li](https://openalex.org/A5100459842), [Tianqi Yu](https://openalex.org/A5073191432), [Muhammad Salman Nasir](https://openalex.org/A5010133996), [Xinqiang Wang](https://openalex.org/A5018896619), [Pan Hu](https://openalex.org/A5101766390), [Zhen Huang](https://openalex.org/A5100778511), [Baowen Zhou](https://openalex.org/A5010878103), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156940.
+    
+No abstract    
+
+    
+
+## Carbonized-nitridated Mo2N-MoC heterostructures towards universal-medium hydrogen evolution reaction   
+
+OpenAlex: https://openalex.org/W4403574389    
+Open access: False
+    
+[Xiang Chen](https://openalex.org/A5100683760), [Song Xie](https://openalex.org/A5078318843), [Fang Zhou](https://openalex.org/A5032104255), [Biao Gao](https://openalex.org/A5052495839), [Xuming Zhang](https://openalex.org/A5101720038), [Shuangjie Wu](https://openalex.org/A5109462925), [Li Huang](https://openalex.org/A5103631890), [Yun Li](https://openalex.org/A5107957110), [Paul K. Chu](https://openalex.org/A5082656873), [Xiang Peng](https://openalex.org/A5034476487), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156908.
+    
+No abstract    
+
+    
+
 ## In situ examination of oxygen vacancy dynamics in epitaxial LaCoO3 thin films   
 
 OpenAlex: https://openalex.org/W4403496353    
@@ -487,17 +487,6 @@ Open access: True
 [Seung Jo Yoo](https://openalex.org/A5052630282), [Jihyun Lee](https://openalex.org/A5100413494), [Sang‐Gil Lee](https://openalex.org/A5050888634), [Hyung Joong Yun](https://openalex.org/A5103143674), BIO Web of Conferences. 129(None)] 2024.https://doi.org/10.1051/bioconf/202412922033.
     
 No abstract    
-
-    
-
-## Recent development of non‐iridium‐based electrocatalysts for acidic oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403380005    
-Open access: True
-    
-[Lei Shi](https://openalex.org/A5089235898), [Wenhui Zhang](https://openalex.org/A5100399726), [Jiayu Li](https://openalex.org/A5100435414), [Qing Yan](https://openalex.org/A5019072602), [Zhengfei Chen](https://openalex.org/A5042254031), [Xianbo Zhou](https://openalex.org/A5016819085), [Jihong Li](https://openalex.org/A5082170164), [Ruiqin Gao](https://openalex.org/A5102883565), [Yuxue Wu](https://openalex.org/A5113750068), [Guodong Li](https://openalex.org/A5100360760), Carbon Neutralization. None(None)] 2024.https://doi.org/10.1002/cnl2.170.
-    
-Abstract Proton exchange membrane water electrolyser (PEMWE) possesses great significance for the production of high purity of hydrogen. To expedite the anodic oxygen evolution reaction (OER) that involved multiple electron–proton‐coupled process, efficient and stable electrocatalysts are highly desired. Currently, noble‐metal Ir‐based materials are the benchmark anode due to its corrosion‐resistant property and favourable combination of activity/stability. However, the large‐scale deployment of PEMWE is usually constrained due to the use of the scarcest element iridium. In this review, we disclose the current research progress towards the non‐iridium‐based electrocatalysts for OER in acidic media, and then summarize some typical oxides that possesses good catalytic performance. Besides, we also present the unresolved problems and challenges in an attempt to enhance the activity/stability of these catalysts.    
 
     
 

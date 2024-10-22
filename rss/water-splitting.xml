@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Oct 2024 01:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 01:21:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Novel molybdenum sulfide-decorated graphitic carbon nitride nanohybrid for enhanced electrochemical oxygen evolution reaction</title>
-      <link>https://doi.org/10.1007/s10971-024-06561-z</link>
-      <description>Arooj Fatima, Albandari W. Alrowaily, Haifa A. Alyousef, Basel Al-Otaibi, A. Dahshan, Journal of Sol-Gel Science and Technology. None(None)] 2024. https://openalex.org/W4403370553
-
-                No abstract</description>
-      <author>Arooj Fatima, Albandari W. Alrowaily, Haifa A. Alyousef, Basel Al-Otaibi, A. Dahshan</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10971-024-06561-z</guid>
-    </item>
-    <item>
-      <title>Quaternary Mixed Oxides of Non-Noble Metals with Enhanced Stability during the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsami.4c10234</link>
-      <description>Alexis Pi&#241;eiro&#8208;Garc&#237;a, Xiuyu Wu, Esdras J. Canto-Aguilar, Alice Kuzhikandathil, Mouna Rafei, Eduardo Gracia&#8208;Espino, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403375655
-
-                Robust electrocatalysts required to drive the oxygen evolution reaction (OER) during water electrolysis are still a missing component toward the path for sustainable hydrogen production. Here a new family of OER active quaternary mixed-oxides based on X&#8211;Sn&#8211;Mo&#8211;Sb (X = Mn, Fe, Co, or Ni) is reported. These nonstoichiometric mixed oxides form a rutile-type crystal structure with a random atomic motif and diverse oxidation states, leading to the formation of cation vacancies and local disorder. The successful incorporation of all cations into a rutile structure was achieved using oxidizing agents that facilitates the formation of Sb5+ required to form the characteristic octahedral coordination in rutile. The mixed oxides exhibit enhanced stability in both acidic and alkaline environments under anodic potentials with no changes in their crystal structure after extensive electrochemical stress. The improved stability of these mixed oxides highlights their potential application as scaffolds to host and stabilize OER active metals.</description>
-      <author>Alexis Pi&#241;eiro&#8208;Garc&#237;a, Xiuyu Wu, Esdras J. Canto-Aguilar, Alice Kuzhikandathil, Mouna Rafei, Eduardo Gracia&#8208;Espino</author>
-      <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c10234</guid>
-    </item>
-    <item>
-      <title>Recent development of non&#8208;iridium&#8208;based electrocatalysts for acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1002/cnl2.170</link>
-      <description>Lei Shi, Wenhui Zhang, Jiayu Li, Qing Yan, Zhengfei Chen, Xianbo Zhou, Jihong Li, Ruiqin Gao, Yuxue Wu, Guodong Li, Carbon Neutralization. None(None)] 2024. https://openalex.org/W4403380005
-
-                Abstract Proton exchange membrane water electrolyser (PEMWE) possesses great significance for the production of high purity of hydrogen. To expedite the anodic oxygen evolution reaction (OER) that involved multiple electron&#8211;proton&#8208;coupled process, efficient and stable electrocatalysts are highly desired. Currently, noble&#8208;metal Ir&#8208;based materials are the benchmark anode due to its corrosion&#8208;resistant property and favourable combination of activity/stability. However, the large&#8208;scale deployment of PEMWE is usually constrained due to the use of the scarcest element iridium. In this review, we disclose the current research progress towards the non&#8208;iridium&#8208;based electrocatalysts for OER in acidic media, and then summarize some typical oxides that possesses good catalytic performance. Besides, we also present the unresolved problems and challenges in an attempt to enhance the activity/stability of these catalysts.</description>
-      <author>Lei Shi, Wenhui Zhang, Jiayu Li, Qing Yan, Zhengfei Chen, Xianbo Zhou, Jihong Li, Ruiqin Gao, Yuxue Wu, Guodong Li</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cnl2.170</guid>
-    </item>
-    <item>
-      <title>Innovative Air Cathode with Ni&#8208;Doped Cobalt Sulfide in Highly Ordered Macroporous Carbon Matrix for Rechargeable Zn&#8211;Air Battery</title>
-      <link>https://doi.org/10.1002/advs.202407915</link>
-      <description>Yujin Son, Kyeongseok Min, Sungkyun Cheong, Bo&#8208;Young Lee, Sang Eun Shim, Sung&#8208;Hyeon Baeck, Advanced Science. None(None)] 2024. https://openalex.org/W4403383341
-
-                Abstract To realize the practical application of rechargeable Zn&#8211;Air batteries (ZABs), it is imperative to develop a non&#8208;noble metal&#8208;based electrocatalyst with high electrochemical performance for the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). Herein, Ni&#8208;doped Co 9 S 8 nanoparticles dispersed on an inverse opal&#8208;structured N, S co&#8208;doped carbon matrix (IO&#9472;Ni x Co 9&#8208;x S 8 @NSC) as a bifunctional electrocatalyst is presented. The unique 3D porous structure, arranged in an inverse opal pattern, provides a large active surface area. Also, the conductive carbon substrate ensures the homogeneous dispersion of Ni x Co 9&#8208;x S 8 nanocrystals, preventing aggregation and increasing the exposure of active sites. The introduction of heteroatom dopants into the Co 9 S 8 structure generates defect sites and enhances surface polarity, thereby improving electrocatalytic performance in alkaline solutions. Consequently, the IO&#9472;Ni x Co 9&#8208;x S 8 @NSC shows excellent bifunctional activity with a high half&#8208;wave potential of 0.926 V for ORR and a low overpotential of 289 mV at 10 mA cm &#8722;2 for OER. Moreover, the rechargeable ZAB assembled with prepared electrocatalyst exhibits a higher specific capacity (768 mAh g Zn &#8722;1 ), peak power density (180.2 mW cm &#8722;2 ), and outstanding stability (over 160 h) compared to precious metal&#8208;based electrocatalyst.</description>
-      <author>Yujin Son, Kyeongseok Min, Sungkyun Cheong, Bo&#8208;Young Lee, Sang Eun Shim, Sung&#8208;Hyeon Baeck</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202407915</guid>
-    </item>
     <item>
       <title>Redox-mediated decoupled seawater direct splitting for H2 production</title>
       <link>https://doi.org/10.1038/s41467-024-53335-w</link>
@@ -508,6 +468,16 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01432-1</guid>
     </item>
     <item>
+      <title>Recycling spent battery components into highly efficient hydrogen and oxygen evolution electro-nano-catalysts</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145268</link>
+      <description>Basel A. Samy, Zaheer Khan, Shaeel A. Al&#8208;Thabaiti, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4403574615
+
+                No abstract</description>
+      <author>Basel A. Samy, Zaheer Khan, Shaeel A. Al&#8208;Thabaiti</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145268</guid>
+    </item>
+    <item>
       <title>Oxyanions Enhancing Crystallinity of Reconstructed Phase for Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1002/ange.202415132</link>
       <description>Wenbin Wang, Qunlei Wen, Danji Huang, Yu Lin, Nian-Dan Zhao, Lan Tang, Ming Li, Youwen Liu, Rongxing He, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403471129
@@ -628,16 +598,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c13199</guid>
     </item>
     <item>
-      <title>Catalytic Performance of Base Metal Addition into Mn/CeO2 Catalyst for Low Temperature Oxidative Coupling of Methane</title>
-      <link>https://doi.org/10.35629/6734-13081222</link>
-      <description>Ellen Gustiasih Maulidanti, Kenji Asami, International journal of engineering and science invention. 13(8)] 2024. https://openalex.org/W4403375774
-
-                The addition of Mn into a CeO2-based catalyst has been proven to promote C2 products at low temperature OCM reactions. However, the addition of Mn results in additional lattice oxygen, which contributes to CO2 production. The addition of another metal is expected to increase the amount of surface electrophilic oxygen by changing the lattice oxygen reactivity of the 33 wt% of manganese/CeO2 (33Mn/Ce) catalyst, resulting in improved oxygen evolution via active metal addition. A series of 33MnX/Ce catalysts with various X metals were developed. The 33 wt% of manganese and 15 wt% of calcium over CeO2 catalyst (33Mn15Ca/Ce) has the highest catalytic activity at 450 oC. The catalysts were evaluated using XRD, Raman, N2 adsorption-desorption, and XPS analysis, which revealed that the addition of Ca promotes the formation of Mn3+ cation. However, the number of oxygen vacancies has decreased, but the amount of surface electrophilic oxygen has increased. 33Mn15Ca/Ce catalyst performs better in oxygen-rich conditions and has a longer contact time.</description>
-      <author>Ellen Gustiasih Maulidanti, Kenji Asami</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.35629/6734-13081222</guid>
-    </item>
-    <item>
       <title>Oxygen Plasma Triggered Co&#8208;O&#8208;Fe Motif in Prussian Blue Analogue for Efficient and Robust Alkaline Water Oxidation</title>
       <link>https://doi.org/10.1002/ange.202415423</link>
       <description>Hao Xu, Chen Zhu, Hao Lin, Ji Kai Liu, Yi Xiao Wu, Huai Qin Fu, Xinyu Zhang, Fangxin Mao, Hai Yang Yuan, Chenghua Sun, Peng Fei Liu, Hua Gui Yang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403463126
@@ -646,16 +606,6 @@
       <author>Hao Xu, Chen Zhu, Hao Lin, Ji Kai Liu, Yi Xiao Wu, Huai Qin Fu, Xinyu Zhang, Fangxin Mao, Hai Yang Yuan, Chenghua Sun, Peng Fei Liu, Hua Gui Yang</author>
       <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202415423</guid>
-    </item>
-    <item>
-      <title>Potentiodynamic Polarization Study of PH&lt;sub&gt;3&lt;/sub&gt; Electrochemical Oxidation</title>
-      <link>https://doi.org/10.1002/elsa.202400025</link>
-      <description>Ainur Tukibayeva, &#1040;. Bayeshov, Dina Asylbekova, Laura Aikozova, Aizhan Essentayeva, Electrochemical Science Advances. None(None)] 2024. https://openalex.org/W4403376355
-
-                ABSTRACT In this study, the electrochemical behaviour of phosphine in sulphuric acid solutions on the surface of various electrode materials was conducted by voltammetric investigations. The effects of electrode materials such as lead, copper, and platinum electrodes on the PH 3 anodic oxidation were investigated. Polarization curves were recorded by saturating the sulphuric acid solution with phosphine. The results received show that the electrochemical oxidation of phosphine on the lead electrode is accompanied by an oxygen evolution potential and, on the copper electrode, copper (II) ions show catalytic effects. The maximum anodic oxidation of phosphine on a platinum electrode was observed at the potential range of 0.8&#8211;1.0 V, and in the presence of copper (II) ions on the polarogram a maximum of phosphine oxidation is recorded at a potential of approximately 0.1&#8211;0.2 V.</description>
-      <author>Ainur Tukibayeva, &#1040;. Bayeshov, Dina Asylbekova, Laura Aikozova, Aizhan Essentayeva</author>
-      <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/elsa.202400025</guid>
     </item>
     <item>
       <title>Tailoring the Heterointerfaces of Earth-Abundant Transition-Metal Nanoclusters on Nickel Oxide Nanosheets for Enhanced Overall Water Splitting through Electronic Structure Optimization</title>
@@ -708,16 +658,6 @@
       <guid isPermaLink="true">https://doi.org/10.31857/s0044457x24040071</guid>
     </item>
     <item>
-      <title>Dynamic Micelle&#8208;Hydrogels for 3D&#8208;Architected Transition Metal Sulfides</title>
-      <link>https://doi.org/10.1002/marc.202400740</link>
-      <description>Zhenzhen Wang, Xiaozhuang Zhou, Junen Wu, Yimeng Wei, Yubo Cui, Yulong Xia, Weiming Xu, Shichun Mu, Jiaxi Cui, Macromolecular Rapid Communications. None(None)] 2024. https://openalex.org/W4403382206
-
-                Abstract Additive manufacturing of transition metal sulfides (TMS) enables the creation of complex 3D structures, significantly expanding their applications. However, preparing 3D&#8208;structured TMS remains challenging due to difficulties in developing suitable inks. In this study, a supramolecular micelle hydrogel as the ink to fabricate 3D&#8208;structured TMS is utilized. Initially, the hydrogels are printed and infused with metal salt solutions to stabilize the structures, which are then calcined to convert into miniaturized 3D&#8208;TMS replicas. The micellar hydrogels crosslink via hydrophobic interactions, with sodium dodecyl sulfonate (SDS) micelles providing both a hydrophobic environment and sulfur sources. During calcination, the decomposed sulfur precursors coordinate with metal ions to form various TMS, including FeS 2 , Cu 2 S, Ni 3 S 2 , and Co 9 S 8 , along with several metal sulfides like PbS and SnS. Additionally, the method also allows for the preparation of transition metal dichalcogenides such as MoS 2 and WS 2 . The formation mechanism is demonstrated using Ni 3 S 2 as an example which exhibits notable catalytic activity in oxygen evolution reactions (OER) and hydrogen evolution reactions (HER). Given its simplicity and versatility, this dynamic micellar hydrogel&#8208;derived strategy offers a promising pathway for creating advanced TMS materials.</description>
-      <author>Zhenzhen Wang, Xiaozhuang Zhou, Junen Wu, Yimeng Wei, Yubo Cui, Yulong Xia, Weiming Xu, Shichun Mu, Jiaxi Cui</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/marc.202400740</guid>
-    </item>
-    <item>
       <title>Hybrid Nanoalloy&#8208;Cluster&#8208;Single Atom Sites Based Aerophilic Carbon Fiber Membranes as Binder&#8208;Free Cathodes for Ultra&#8208;Long&#8208;Life Zn&#8208;air Batteries</title>
       <link>https://doi.org/10.1002/adfm.202416422</link>
       <description>Jian Zhu, Zesheng Li, Jingze Shao, Yu Xia, Chuanlai Jiao, Shaoqing Chen, Guangshe Li, Yingcai Zhu, Shi Chen, Rouxi Chen, Zian Xu, Hsing&#8208;Lin Wang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403550838
@@ -740,20 +680,20 @@
     <item>
       <title>Efficient Electrosynthesis of Valuable para&#8208;Benzoquinone from Aqueous Phenol on NiRu Hybrid Catalysts</title>
       <link>https://doi.org/10.1002/ange.202415438</link>
-      <description>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, J. Zhang, Deyong Yang, Yinhao Dai, G. Q. Liu, Jian Zhou, Xiaohong Guan, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403565947
+      <description>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, J. Zhang, Deyong Yang, Yinhao Dai, Guizi Liu, Jian Zhou, Xiaohong Guan, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403565947
 
                 Electrocatalytic oxidation of aqueous phenol to para&#8208;benzoquinone (p&#8208;BQ) offers a sustainable approach for both pollutant abatement and value&#8208;added chemicals production. However, achieving high phenol conversion and p&#8208;BQ yield under neutral conditions remains challenging. Herein, we report a Ni(OH)2&#8208;supported Ru nanoparticles (NiRu) hybrid electrocatalyst, which exhibits a superior phenol conversion of 96.5% and an excellent p&#8208;BQ yield of 83.4% at pH 7.0, significantly outperforming previously reported electrocatalysts. This exceptional performance benefits from the triple synergistic modulation of the NiRu catalyst, including enhanced phenol adsorption, increased p&#8208;BQ desorption, and suppressed oxygen evolution. By coupling a flow electrolyzer with an extraction&#8208;distillation separation unit, the simultaneous phenol removal and p&#8208;BQ recovery are realized. Additionally, the developed electrocatalytic system with the NiRu/C anode displays good stability, favorable energy consumption, and reduced greenhouse gas emissions for phenol&#8208;containing wastewater treatment, demonstrating its potential for practical applications. This work offers a promising strategy for achieving low&#8208;carbon emissions in phenol wastewater treatment.</description>
-      <author>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, J. Zhang, Deyong Yang, Yinhao Dai, G. Q. Liu, Jian Zhou, Xiaohong Guan</author>
+      <author>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, J. Zhang, Deyong Yang, Yinhao Dai, Guizi Liu, Jian Zhou, Xiaohong Guan</author>
       <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202415438</guid>
     </item>
     <item>
       <title>Efficient Electrosynthesis of Valuable para&#8208;Benzoquinone from Aqueous Phenol on NiRu Hybrid Catalysts</title>
       <link>https://doi.org/10.1002/anie.202415438</link>
-      <description>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, J. Zhang, Deyong Yang, Yinhao Dai, G. Q. Liu, Jian Zhou, Xiaohong Guan, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403565948
+      <description>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, Juchao Zhang, Deyong Yang, Yinhao Dai, Guizi Liu, Jian Zhou, Xiaohong Guan, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403565948
 
                 Electrocatalytic oxidation of aqueous phenol to para&#8208;benzoquinone (p&#8208;BQ) offers a sustainable approach for both pollutant abatement and value&#8208;added chemicals production. However, achieving high phenol conversion and p&#8208;BQ yield under neutral conditions remains challenging. Herein, we report a Ni(OH)2&#8208;supported Ru nanoparticles (NiRu) hybrid electrocatalyst, which exhibits a superior phenol conversion of 96.5% and an excellent p&#8208;BQ yield of 83.4% at pH 7.0, significantly outperforming previously reported electrocatalysts. This exceptional performance benefits from the triple synergistic modulation of the NiRu catalyst, including enhanced phenol adsorption, increased p&#8208;BQ desorption, and suppressed oxygen evolution. By coupling a flow electrolyzer with an extraction&#8208;distillation separation unit, the simultaneous phenol removal and p&#8208;BQ recovery are realized. Additionally, the developed electrocatalytic system with the NiRu/C anode displays good stability, favorable energy consumption, and reduced greenhouse gas emissions for phenol&#8208;containing wastewater treatment, demonstrating its potential for practical applications. This work offers a promising strategy for achieving low&#8208;carbon emissions in phenol wastewater treatment.</description>
-      <author>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, J. Zhang, Deyong Yang, Yinhao Dai, G. Q. Liu, Jian Zhou, Xiaohong Guan</author>
+      <author>Shuangyin Wang, Fuqiang Liu, Wei Chen, Tong Wang, Juchao Zhang, Deyong Yang, Yinhao Dai, Guizi Liu, Jian Zhou, Xiaohong Guan</author>
       <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202415438</guid>
     </item>
@@ -908,16 +848,6 @@
       <guid isPermaLink="true">https://doi.org/10.1111/ppl.14580</guid>
     </item>
     <item>
-      <title>Celebration of the 50th Anniversary of ISOTT (September 27, 2023 Tokyo, Japan)</title>
-      <link>https://doi.org/10.1007/978-3-031-67458-7_1</link>
-      <description>Duane F. Bruley, Advances in experimental medicine and biology. None(None)] 2024. https://openalex.org/W4403377477
-
-                In the early 1960s, I was working as a traditional chemical engineer studying inanimate objects without the slightest clue of the biological world. At that time, I met Dr Melvin H. Knisely and he encouraged me to use my engineering skills to improve on the Krogh capillary tissue cylinder. I derived a detailed mathematical model and performed a complex computer simulation to achieve that goal. We attended professional meetings on oxygen transport to tissue all over the world, but mainly in Europe, presenting case studies. It became my goal to honour Dr Knisely with a meeting on oxygen transport to tissue at Clemson University in South Carolina, USA. Melvin's wife, Verona, convinced me to also have the meeting at the Medical University of South Carolina located in Charleston, since it was meant to honour Dr Knisely's work with his quartz rod crystal for illumination. He is credited as the first human being to observe the particulate matter in blood flowing in the microcirculation. He was nominated for the Nobel prize four times as a result of his discoveries. When I decided to have part of the meeting at the medical school, I invited Dr Haim Bicher to work with me from there and I focused on Clemson University and the combined meeting structure. As the meeting evolved, we decided it would be a good idea to establish an international society and call it the "International Society on Oxygen Transport to Tissue" (ISOTT). I wrote a paper on the pillars of our young society, "ISOTT from the Beginning: A Tribute to Our Deceased Members (Icons)," and another that shares more detail about its beginnings, "The Founding of ISOTT: The Shamattawa of Engineering Science and Medical Science". The roots of ISOTT are all the members, new and old, who continue to make valuable contributions to an exceedingly important component of human health. I hope that the society lasts for a long time, continuing to make important contributions to the medical world. It is a society that has been instrumental in bringing together brilliant scientists from the medical, engineering, and natural science fields to work together. It has contributed to the evolution of "bioengineering" as we know it today.</description>
-      <author>Duane F. Bruley</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-67458-7_1</guid>
-    </item>
-    <item>
       <title>Abundances of iron-peak elements in 58 bulge spheroid stars from APOGEE</title>
       <link>https://doi.org/10.1051/0004-6361/202452235</link>
       <description>B. Barbuy, A. C. S. Fria&#231;a, H. Ernandes, Patricia Siqueira Silva, S. O. Souza, Jos&#233; G. Fern&#225;ndez-Trincado, K&#225;tia Cunha, Verne V. Smith, T. Masseron, A. P&#233;rez-Villegas, C. Chiappini, A. B. A. Queiroz, B. X. Santiago, Timothy C. Beers, F. Anders, Ricardo P. Schiavon, M. Valentini, S. Hoyer, D. Geisler, Diogo Souto, V. M Placco, M. Zoccali, S. Feltzing, M. Schultheis, C. Nitschelm, Astronomy and Astrophysics. None(None)] 2024. https://openalex.org/W4403509626
@@ -946,6 +876,16 @@
       <author>Sota Arakawa, Daiki Yamamoto, Lily Ishizaki, Tamami Okamoto, Noriyuki Kawasaki</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3847/1538-4357/ad7795</guid>
+    </item>
+    <item>
+      <title>Abundances of iron-peak elements in 58 bulge spheroid stars from APOGEE</title>
+      <link>https://doi.org/10.48550/arxiv.2410.13751</link>
+      <description>B. Barbuy, A. C. S. Fria&#231;a, H. Ernandes, Patricia Siqueira Silva, S. O. Souza, J. G. Fern&#225;ndez-Trincado, K&#225;tia Cunha, V. V. Smith, T. Masseron, &#193;ngeles P&#233;rez-Villegas, C. Chiappini, A. B. A. Queiroz, B. X. Santiago, T. C. Beers, F. Anders, Ricardo P. Schiavon, M. Valentini, D. Minniti, D. Geisler, Diogo Souto, Vinicius M. Placco, M. Zoccali, S. Feltzing, M. Schultheis, C. Nitschelm, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403580076
+
+                Stars presently identified in the bulge spheroid are probably very old, and their abundances can be interpreted as due to the fast chemical enrichment of the early Galactic bulge. The abundances of the iron-peak elements are important tracers of nucleosynthesis processes, in particular oxygen burning, silicon burning, the weak s-process, and alpha-rich freeze-out. Aims. The aim of this work is to derive the abundances of V, Cr, Mn, Co, Ni, and Cu in 58 bulge spheroid stars and to compare them with the results of a previous analysis of data from APOGEE. We selected the best lines for V, Cr, Mn, Co, Ni, and Cu located within the H-band of the spectrum, identifying the most suitable ones for abundance determination, and discarding severe blends. Using the stellar physical parameters available for our sample from the DR17 release of the APOGEE project, we derived the individual abundances through spectrum synthesis. We then complemented these measurements with similar results from different bulge field and globular cluster stars, in order to define the trends of the individual elements and compare with the results of chemical-evolution models. We verify that the H-band has useful lines for the derivation of the elements V, Cr, Mn, Co, Ni, and Cu in moderately metal-poor stars. The resulting abundances indicate that: V, Cr, and Ni vary in lockstep with Fe; Co tends to vary in lockstep with Fe, but could be showing a slight decrease with decreasing metallicity; and Mn and Cu decrease with decreasing metallicity. These behaviours are well reproduced by chemical-evolution models except for Cu, which appears to drop faster than the models predict for moderate metallicities. Finally, abundance indicators combined with kinematical and dynamical criteria appear to show that our 58 sample stars are likely to have originated in situ.</description>
+      <author>B. Barbuy, A. C. S. Fria&#231;a, H. Ernandes, Patricia Siqueira Silva, S. O. Souza, J. G. Fern&#225;ndez-Trincado, K&#225;tia Cunha, V. V. Smith, T. Masseron, &#193;ngeles P&#233;rez-Villegas, C. Chiappini, A. B. A. Queiroz, B. X. Santiago, T. C. Beers, F. Anders, Ricardo P. Schiavon, M. Valentini, D. Minniti, D. Geisler, Diogo Souto, Vinicius M. Placco, M. Zoccali, S. Feltzing, M. Schultheis, C. Nitschelm</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.13751</guid>
     </item>
     <item>
       <title>Unveiling the Structural and Chemical Evolution of Layered Oxide Cathode for Na&#8208;Ion Batteries Induced by Water Vapor</title>
@@ -988,6 +928,17 @@
       <guid isPermaLink="true">https://doi.org/10.1093/mnras/stae2253</guid>
     </item>
     <item>
+      <title>Giant Dynamical Paramagnetism in the driven pseudogap phase of $ \rm
+  YBa_2Cu_3O_{6+x}$</title>
+      <link>https://doi.org/10.48550/arxiv.2410.12919</link>
+      <description>Marios H. Michael, Duilio De Santis, Eugene Demler, Patrick A. Lee, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403578830
+
+                In the past decade, photo-induced superconducting-like behaviors have been reported in a number of materials driven by intense pump fields. Of particular interest is the high-$T_c$ cuprate $\rm Y Ba_2 Cu_2 O_{6+x}$, where such effect has been reported up to the so-called pseudogap temperature $T^* \sim 300-400$ K. In a recent tour-de-force experiment, a transient magnetic field which is proportional to and in the same direction of an applied field has been observed outside the sample, suggestive of flux exclusion due to the Meissner effect. In this paper, we point out that the transient magnetic field could be explained by a model of bilayers of copper-oxygen planes with a local superconducting phase variable persisting up to the pseudo-gap temperature at equilibrium. Under pumping, the time evolution is described by a driven sine-Gordon equation. In the presence of an external magnetic field, this model exhibits a novel instability which amplifies the current at the edges of the bilayer formed by defects or grain boundaries, producing a giant paramagnetic magnetization in the same direction as the applied field. We present how this scenario can fit most of the available data and propose additional experimental tests which can distinguish our proposal from the Meissner flux exclusion scenario. To the extent that this model can account for the data, we conclude that the experiments have the important consequence of revealing the presence of local pairing in the pseudogap phase. More broadly, this work provides a new mechanism for amplifying external magnetic fields at ultra-fast time scales.</description>
+      <author>Marios H. Michael, Duilio De Santis, Eugene Demler, Patrick A. Lee</author>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.12919</guid>
+    </item>
+    <item>
       <title>PPCon 1.0: Biogeochemical-Argo profile prediction with 1D convolutional networks</title>
       <link>https://doi.org/10.5194/gmd-17-7347-2024</link>
       <description>Gloria Pietropolli, Luca Manzoni, Gianpiero Cossarini, Geoscientific model development. 17(20)] 2024. https://openalex.org/W4403473897
@@ -1006,16 +957,6 @@
       <author>Wenyao Chen, Yao Shi, Changwei Liu, Zhouhong Ren, Zhigang Huang, Zhou Chen, Xiangxue Zhang, Shanshan Liang, Lei Xie, Cheng Lian, Gang Qian, Jing Zhang, Xi Liu, De Chen, Xinggui Zhou, Weikang Yuan, Xuezhi Duan</author>
       <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53474-0</guid>
-    </item>
-    <item>
-      <title>Dynamic microbiome diversity shaping the adaptation of sponge holobionts in coastal waters</title>
-      <link>https://doi.org/10.1128/spectrum.01448-24</link>
-      <description>B. C. Gan, Kai Wang, Beibei Zhang, Chenzheng Jia, Xin Lin, Jing Zhao, Shaoxiong Ding, Microbiology Spectrum. None(None)] 2024. https://openalex.org/W4403381149
-
-                ABSTRACT The microbial communities associated with sponges contribute to the adaptation of hosts to environments, which are essential for the trophic transformation of benthic-marine coupling. However, little is known about the symbiotic microbial community interactions and adaptative strategies of high- and low-microbial abundance (HMA and LMA) sponges, which represent two typical ecological phenotypes. Here, we compared the 1-year dynamic patterns of microbiomes with the HMA sponge Spongia officinalis and two LMA sponge species Tedania sp. and Haliclona simulans widespread on the coast of China. Symbiotic bacterial communities with the characteristic HMA&#8211;LMA dichotomy presented higher diversity and stability in S. officinalis than in Tedania sp. and H. simulans , while archaeal communities showed consistent diversity across all sponges throughout the year. Dissolved oxygen, dissolved inorganic phosphorus, dissolved organic phosphorus, and especially temperature were the major factors affecting the seasonal changes in sponge microbial communities. S. officinalis -associated microbiome had higher diversity, stronger stability, and closer interaction, which adopted a relatively isolated strategy to cope with environmental changes, while Tedania sp. and H. simulans were more susceptible and shared more bacterial Amplicon Sequence Variants (ASVs) with surrounding waters, with an open way facing the uncertainty of the environment. Meta-analysis of the microbiome in composition, diversity, and ecological function from 13 marine sponges further supported that bacterial communities associated with HMA and LMA sponges have evolved two distinct environmental adaptation strategies. We propose that the different adaptive ways of sponges responding to the environment may be responsible for their successful evolution and their competence in global ocean change. IMPORTANCE During long-term evolution, sponge holobionts, among the oldest symbiotic relationships between microbes and metazoans, developed two distinct phenotypes with high- and low-microbial abundance (HMA and LMA). Despite sporadic studies indicating that the characteristic microbial assemblages present in HMA and LMA sponges, the adaptation strategies of symbionts responding to environments are still unclear. This deficiency limits our understanding of the selection of symbionts and the ecological functions during the evolutionary history and the adaptative assessment of HMA and LMA sponges in variable environments. Here, we explored symbiotic communities with two distinct phenotypes in a 1-year dynamic environment and combined with the meta-analysis of 13 sponges. The different strategies of symbionts in adapting to the environment were basically drawn: microbes with LMA were more acclimated to environmental changes, forming relatively loose-connected communities, while HMA developed relatively tight-connected and more similar communities beyond the divergence of species and geographical location.</description>
-      <author>B. C. Gan, Kai Wang, Beibei Zhang, Chenzheng Jia, Xin Lin, Jing Zhao, Shaoxiong Ding</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1128/spectrum.01448-24</guid>
     </item>
     <item>
       <title>Feasibility of submillimeter functional quantitative susceptibility mapping using 3D echo planar imaging at 7 T</title>
@@ -1038,16 +979,6 @@
       <guid isPermaLink="true">https://doi.org/10.1115/1.4066876</guid>
     </item>
     <item>
-      <title>Magma Degassing andGoldMineralizationinthe Alkaline Intrusion- HostedGiltEdgeGoldDeposit,NorthernBlackHills, SouthDakota,USA</title>
-      <link>https://doi.org/10.36956/eps.v3i2.1125</link>
-      <description>John A. Groff, Earth and Planetary Science. 3(2)] 2024. https://openalex.org/W4403379350
-
-                Gold mineralization in the Gilt Edge deposit was closely associated with magmatic differentiation and the formation of a Tertiary alkaline intrusive complex within the Lead&#8211;Deadwood dome.. Fluid inclusions and trace element geochemistry were used to study fluid evolution and determine sources. Quartz disseminated in unaltered trachyte porphyry hosts two populations of primary inclusions: 1) hypersaline i S&#8211;L&#8211;V a red hematite crystal and 2) mixtures of L&#8211;V and V&#8211; L that record phase separation at ~700oC. Whereas samples of hydrothermal quartz collected from in ore zones within and beyond structures (e.g., fault and breccia zones) contain dominant populations of V&#8211;L and L&#8211;V inclusions, respectively. Mineralization in structures formed from complex fluids of magmatic origin based on inclusions containing five transparent salt crystals and opaque crystals with cubic and round habits that have homogenization temperatures (Th) 650oC and salinities 63 wt.% NaCl equiv. In contrast, broader areas of disseminated mineralization in argillized and propylitized rocks contain hydrothermal quartz hosting large populations of L&#8211;V inclusions with Th of 200o360oC and salinities of 10&#8211;30 wt.% NaCl equiv., which reflect fluid mixing. Trace element concentrations are significantly higher in samples from structures and define zones of near surface Ag&#8211;As&#8211;Zn&#8211;Pb and deep Au&#8211;W&#8211;Mo&#8211;Cu. Whereas low trace element concentrations characterize propylitized quartz trachyte porphyry, except for high concentrations of Sb and Hg that occur at depth and likely track the retreat of isotherms as the hydrothermal system collapsed. These data show that during differentiation in a deep magma chamber, volatile-rich low-density fluids were periodically degassed into preexisting structures that were reactivated. Gold deposition during four stages of mineralization likely occurred due to boiling, changes in oxygen fugacity, and fluid mixing.</description>
-      <author>John A. Groff</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.36956/eps.v3i2.1125</guid>
-    </item>
-    <item>
       <title>The genome and comparative transcriptome of the euryhaline model ciliate Paramecium duboscqui reveal adaptations to environmental salinity</title>
       <link>https://doi.org/10.1186/s12915-024-02026-5</link>
       <description>Yu Fu, Ping Ni, Qian Zhang, Fasheng Liang, Naomi A. Stover, Lifang Li, BMC Biology. 22(1)] 2024. https://openalex.org/W4403439852
@@ -1056,16 +987,6 @@
       <author>Yu Fu, Ping Ni, Qian Zhang, Fasheng Liang, Naomi A. Stover, Lifang Li</author>
       <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1186/s12915-024-02026-5</guid>
-    </item>
-    <item>
-      <title>Study on Cycle Performance and Rate Performance of Lithium Cobalt Oxide</title>
-      <link>https://doi.org/10.69610/j.gsr.20240930</link>
-      <description>Nana He, Chun Chu, No host. 6(4)] 2024. https://openalex.org/W4403376205
-
-                Lithium cobalt oxide (LiCoO2 ) cathode material, with its high energy density and operating voltage, is currently a mainstream material for lithium-ion battery cathodes. &amp;nbsp;&amp;nbsp;However, &amp;nbsp;the &amp;nbsp;crystal &amp;nbsp;structure &amp;nbsp;collapse &amp;nbsp;and &amp;nbsp;lattice &amp;nbsp;oxygen &amp;nbsp;evolution under high-voltage conditions lead to rapid capacity decay, severely limiting its practical applications. &amp;nbsp;&amp;nbsp;This paper &amp;nbsp;analyzes the main factors affecting the cycle performance and rate performance of lithium cobalt oxide, considering the physic- ochemical properties of the particles, including elemental content and particle size, and provides a mathematical model linking these properties to electrochemical per- formance. &amp;nbsp;The study offers insights for the practical production of high-voltage lithium cobalt oxide materials. At the beginning, we embarked on investigating the correlation between the physicochemical attributes (encompassing elemental composition and particle size) of lithium cobalt oxide and its cycle performance. An Ordinary Least Squares (OLS) linear regression model was formulated, yielding a robust fit with an R-Squared value of 0.94. This model was subsequently optimized through the application of an XGBoost algorithm, achieving an R-Squared value nearing unity, signifying a remarkable enhancement in model accuracy. Visual analysis of the results pinpointed the primary determinants of cycle performance, arranged in descending order of significance: 'Cycle Index,' Mg content, particle size distribution (D10), Zn, and Al. Then, our attention shifted to examining the link between the aforementioned physicochemical characteristics and the rate performance of lithium cobalt oxide. The Jarque-Bera and Shapiro-Wilk tests confirmed the normality of the data, fulfilling the prerequisites for hypothesis testing. An OLS linear regression model was developed, demonstrating a strong goodness-of-fit with an R-Squared value exceeding 0.8. This model was further honed with an XGBoost model, which achieved an R-Squared score approaching 1, indicating a substantial refinement in model precision. The visualization of model outcomes illuminated the key factors influencing rate performance, ranked in descending order of importance: particle size distribution (D50), Al, Mn, Zn, Mg, Ni, and Fe. Lastly, we devised an optimal strategy that encompasses the incorporation of strategic doping elements, the utilization of high-temperature sol-gel methods to bolster cycle performance, and coating modifications aimed at enhancing rate performance. This holistic approach fosters the structural stability of lithium cobalt oxide crystals, fortifying their high-potential cycle capabilities, and concurrently elevating their rate performance.</description>
-      <author>Nana He, Chun Chu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.69610/j.gsr.20240930</guid>
     </item>
     <item>
       <title>Investigating the Effect of Aligned Microtube Density on the Mechanical Strength of Hydrogel Scaffolds</title>
