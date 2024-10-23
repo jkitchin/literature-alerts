@@ -155,7 +155,7 @@ def update_zotero(fname, since):
         try:
             write_zotero_results(zot, results, today, tags)
         except pyzotero.zotero_errors.HTTPError:
-            print('Error uploading to Zotero. you are going to miss "{topic}" today.)
+            print(f'Error uploading to Zotero. you are going to miss "{topic}" today.')
 
 
 
