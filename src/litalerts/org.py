@@ -31,7 +31,7 @@ def get_org_item(topic, result):
                         in result['topics']])
 
     # remove line breaks
-    title = result.get('title', 'no title').replace('\n', ' ')
+    title = (result.get('title', 'no title') or 'no title').replace('\n', ' ')
 
     return f'''* {html_to_text(title)}  :{tags}:
 :PROPERTIES:
