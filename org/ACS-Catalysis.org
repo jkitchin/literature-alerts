@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Oct 22 01:21:29 2024
+Created on Wed Oct 23 01:20:12 2024
 
-Found 28 results from 2024-10-15 to 2024-10-22
+Found 26 results from 2024-10-16 to 2024-10-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* A Dynamic Loop in Halohydrin Dehalogenase HheG Regulates Activity and Enantioselectivity in Epoxide Ring Opening  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403401913
-:TOPICS: Protein Structure Prediction and Analysis, Macromolecular Crystallography Techniques, Role of Lipoic Acid in Metabolism and Health
-:PUBLICATION_DATE: 2024-10-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04815")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403401913"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403401913"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403401913"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403401913 (Open access: True)
-    
-[[https://openalex.org/A5022602809][Marcel Staar]], [[https://openalex.org/A5106365478][Lina Ahlborn]], [[https://openalex.org/A5046274286][Miquel Estévez‐Gay]], [[https://openalex.org/A5106359050][Katharina Pallasch]], [[https://openalex.org/A5009140704][Sílvia Osuna]], [[https://openalex.org/A5078455829][Anett Schallmey]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04815  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c04815?ref=article_openPDF][pdf]])
-     
-No abstract    
-
-    
-
-* Screening Ir-Free Trimetallic Alloys with Consideration of Metal Electronegativity and Oxophilicity toward Ammonia Electrooxidation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403403370
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-10-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05185")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403403370"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403403370"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403403370"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403403370 (Open access: False)
-    
-[[https://openalex.org/A5100693501][Zhengwei Zhang]], [[https://openalex.org/A5101511176][Hao Shen]], [[https://openalex.org/A5023697038][Yongying Wang]], [[https://openalex.org/A5101422929][Zheming Dong]], [[https://openalex.org/A5081898275][Tieyu Hu]], [[https://openalex.org/A5049586106][Zhongti Sun]], [[https://openalex.org/A5000720000][Juan Yang]], [[https://openalex.org/A5042141359][Yi Li]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05185 
-     
-No abstract    
-
-    
 
 * Selective Association Enforced by the Confinement Effect To Boost the Regioselectivity of Vinyl Acetate Hydroformylation  :ACS_Catalysis:
 :PROPERTIES:

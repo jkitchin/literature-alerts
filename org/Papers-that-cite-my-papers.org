@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Oct 22 01:21:43 2024
+Created on Wed Oct 23 01:20:23 2024
 
-Found 47 results from 2024-10-15 to 2024-10-22
+Found 45 results from 2024-10-16 to 2024-10-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076]]
@@ -16,69 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Redox-mediated decoupled seawater direct splitting for H2 production  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403384925
-:TOPICS: Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-10-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-53335-w")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403384925"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403384925"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403384925"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403384925 (Open access: True)
-    
-[[https://openalex.org/A5100338141][Tao Liu]], [[https://openalex.org/A5036512169][Cheng Lan]], [[https://openalex.org/A5048392030][Min Tang]], [[https://openalex.org/A5055588771][Mengxin Li]], [[https://openalex.org/A5102099984][Yi-Tao Xu]], [[https://openalex.org/A5090746315][Huimin Yang]], [[https://openalex.org/A5114245742][Qingyue Deng]], [[https://openalex.org/A5040151122][Wenchuan Jiang]], [[https://openalex.org/A5007218899][Zhiyu Zhao]], [[https://openalex.org/A5085104433][Yifan Wu]], [[https://openalex.org/A5004928216][Heping Xie]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-53335-w 
-     
-Abstract Seawater direct electrolysis (SDE) using renewable energy provides a sustainable pathway to harness abundant oceanic hydrogen resources. However, the side-reaction of the chlorine electro-oxidation reaction (ClOR) severely decreased direct electrolysis efficiency of seawater and gradually corrodes the anode. In this study, a redox-mediated strategy is introduced to suppress the ClOR, and a decoupled seawater direct electrolysis (DSDE) system incorporating a separate O 2 evolution reactor is established. Ferricyanide/ferrocyanide ([Fe(CN) 6 ] 3−/4− ) serves as an electron-mediator between the cell and the reactor, thereby enabling a more dynamically favorable half-reaction to supplant the traditional oxygen evolution reaction (OER). This alteration involves a straightforward, single-electron-transfer anodic reaction without gas precipitation and effectively eliminates the generation of chlorine-containing byproducts. By operating at low voltages (~1.37 V at 10 mA cm −2 and ~1.57 V at 100 mA cm −2 ) and maintaining stability even in a Cl − -saturated seawater electrolyte, this system has the potential of undergoing decoupled seawater electrolysis with zero chlorine emissions. Further improvements in the high-performance redox-mediators and catalysts can provide enhanced cost-effectiveness and sustainability of the DSDE system.    
-
-    
-
-* Generalization of Biasing Particle Insertion and Deletion for Grand Canonical Monte Carlo Simulation  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403389357
-:TOPICS: Catalytic Nanomaterials, Surface Analysis and Electron Spectroscopy Techniques, Nuclear Reactor Technology and Development
-:PUBLICATION_DATE: 2024-10-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jctc.4c00755")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403389357"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403389357"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403389357"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403389357 (Open access: False)
-    
-[[https://openalex.org/A5079214487][T Ikeda]], [[https://openalex.org/A5106262571][Akira Nakayama]], Journal of Chemical Theory and Computation. None(None)] 2024. https://doi.org/10.1021/acs.jctc.4c00755 
-     
-A general formulation of biasing particle insertion/deletion for the grand canonical Monte Carlo (GCMC) simulation is presented. The proposed formulation unifies the concepts of the conventional cavity- and configurational-type biasing techniques and modifies a cavity biasing method to strictly satisfy the detailed balance condition. Numerical examples of this modified cavity bias method are presented for Lennard–Jones fluid and hydrogen adsorption on a platinum surface. The results obtained using this method are compared with those obtained using various GCMC methods. Furthermore, a rigorous on-the-fly on-lattice GCMC simulation for surface adsorption is formulated and performed for comparison. The numerical examples clearly demonstrate the efficiency and accuracy of the proposed formulation.    
-
-    
-
-* Investigating the Role of Anions in the Adsorption of Pyrrolidinium Based Ionic Liquids on Pt(111) Surface Using Density Functional Theory  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403406494
-:TOPICS: Applications of Ionic Liquids, Quantum Size Effects in Metallic Nanostructures, Emergent Phenomena at Oxide Interfaces
-:PUBLICATION_DATE: 2024-10-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/qua.27497")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403406494"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403406494"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403406494"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403406494 (Open access: False)
-    
-[[https://openalex.org/A5066446757][Arka Prava Sarkar]], International Journal of Quantum Chemistry. 124(20)] 2024. https://doi.org/10.1002/qua.27497 
-     
-ABSTRACT The adsorption properties of ionic liquids containing pyrrolidinium cations and various inorganic anions as electrolytes on a platinum surface were analyzed using first principle density functional theory. Three different orientations of the alkyl cation chain were observed during the adsorption process. The strength and structural stability varied between non‐fluorinated and fluorinated anions upon adsorption, with oxygen atoms influencing the mechanism of adsorption and driving the structural stability of the anion, while fluorine atoms played a role in determining the orientation of the cation during adsorption. Net atomic charges analysis, electron density difference methods, and electron density accumulation for this complex system were utilized to further investigate these phenomena. The results of this study provide valuable insights into the role of anions in the adsorption behavior of pyrrolidinium‐based ionic liquids on platinum surfaces, shedding light on the factors that influence their adsorption properties and structural stability on a molecular level. The findings of this study contribute to a better understanding of the interplay between anions and platinum surfaces in the adsorption of pyrrolidinium based ionic liquids, which can have implications for various applications such as electrochemistry, catalysis, and energy storage.    
-
-    
 
 * Unraveling the phase transition and electrochemical application of MoSe2 material for energy conversion and storage devices  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -896,6 +833,27 @@ OpenAlex: https://openalex.org/W4403574389 (Open access: False)
 [[https://openalex.org/A5100683760][Xiang Chen]], [[https://openalex.org/A5078318843][Song Xie]], [[https://openalex.org/A5032104255][Fang Zhou]], [[https://openalex.org/A5052495839][Biao Gao]], [[https://openalex.org/A5101720038][Xuming Zhang]], [[https://openalex.org/A5109462925][Shuangjie Wu]], [[https://openalex.org/A5103631890][Li Huang]], [[https://openalex.org/A5107957110][Yun Li]], [[https://openalex.org/A5082656873][Paul K. Chu]], [[https://openalex.org/A5034476487][Xiang Peng]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.156908 
      
 No abstract    
+
+    
+
+* Electronic structure simulations in the cloud computing environment  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403585557
+:TOPICS: Management and Reproducibility of Scientific Workflows, Accelerating Materials Innovation through Informatics, Catalytic Dehydrogenation of Light Alkanes
+:PUBLICATION_DATE: 2024-10-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0226437")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403585557"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403585557"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403585557"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403585557 (Open access: True)
+    
+[[https://openalex.org/A5056598051][Eric J. Bylaska]], [[https://openalex.org/A5080124836][Ajay Panyala]], [[https://openalex.org/A5027488490][Nicholas P. Bauman]], [[https://openalex.org/A5050600763][Bo Peng]], [[https://openalex.org/A5074134692][Himadri Pathak]], [[https://openalex.org/A5064415898][Daniel Mejı́a-Rodrı́guez]], [[https://openalex.org/A5042193329][Niranjan Govind]], [[https://openalex.org/A5007317870][David B. Williams‐Young]], [[https://openalex.org/A5007393680][Edoardo Aprà]], [[https://openalex.org/A5039600644][Abhishek Bagusetty]], [[https://openalex.org/A5082001738][Erdal Mutlu]], [[https://openalex.org/A5020941997][Koblar Alan Jackson]], [[https://openalex.org/A5011103481][Tunna Baruah]], [[https://openalex.org/A5037747824][Yoh Yamamoto]], [[https://openalex.org/A5067593473][Mark R. Pederson]], [[https://openalex.org/A5013033684][Kushantha P. K. Withanage]], [[https://openalex.org/A5028728488][Jesús N. Pedroza-Montero]], [[https://openalex.org/A5085600052][Jenna Pope]], [[https://openalex.org/A5016440514][Sutanay Choudhury]], [[https://openalex.org/A5063476184][Jesun Firoz]], [[https://openalex.org/A5080595548][Kristina M. Herman]], [[https://openalex.org/A5068503645][Sotiris S. Xantheas]], [[https://openalex.org/A5114341109][Paul Rigor]], [[https://openalex.org/A5052269356][Fernando D. Vila]], [[https://openalex.org/A5070251002][J. J. Rehr]], [[https://openalex.org/A5114341110][Mimi Fung]], [[https://openalex.org/A5005299370][Adam Grofe]], [[https://openalex.org/A5023257490][Conrad Johnston]], [[https://openalex.org/A5076984889][Nathan Baker]], [[https://openalex.org/A5112826581][K. Kaneko]], [[https://openalex.org/A5100408235][Hongbin Liu]], [[https://openalex.org/A5079494932][Karol Kowalski]], The Journal of Chemical Physics. 161(15)] 2024. https://doi.org/10.1063/5.0226437 
+     
+The transformative impact of modern computational paradigms and technologies, such as high-performance computing (HPC), quantum computing, and cloud computing, has opened up profound new opportunities for scientific simulations. Scalable computational chemistry is one beneficiary of this technological progress. The main focus of this paper is on the performance of various quantum chemical formulations, ranging from low-order methods to high-accuracy approaches, implemented in different computational chemistry packages and libraries, such as NWChem, NWChemEx, Scalable Predictive Methods for Excitations and Correlated Phenomena, ExaChem, and Fermi–Löwdin orbital self-interaction correction on Azure Quantum Elements, Microsoft's cloud services platform for scientific discovery. We pay particular attention to the intricate workflows for performing complex chemistry simulations, associated data curation, and mechanisms for accuracy assessment, which is demonstrated with the Arrows automated workflow for high throughput simulations. Finally, we provide a perspective on the role of cloud computing in supporting the mission of leadership computational facilities.    
 
     
 

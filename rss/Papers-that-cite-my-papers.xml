@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Oct 2024 01:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 01:20:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Redox-mediated decoupled seawater direct splitting for H2 production</title>
-      <link>https://doi.org/10.1038/s41467-024-53335-w</link>
-      <description>Tao Liu, Cheng Lan, Min Tang, Mengxin Li, Yi-Tao Xu, Huimin Yang, Qingyue Deng, Wenchuan Jiang, Zhiyu Zhao, Yifan Wu, Heping Xie, Nature Communications. 15(1)] 2024. https://openalex.org/W4403384925
-
-                Abstract Seawater direct electrolysis (SDE) using renewable energy provides a sustainable pathway to harness abundant oceanic hydrogen resources. However, the side-reaction of the chlorine electro-oxidation reaction (ClOR) severely decreased direct electrolysis efficiency of seawater and gradually corrodes the anode. In this study, a redox-mediated strategy is introduced to suppress the ClOR, and a decoupled seawater direct electrolysis (DSDE) system incorporating a separate O 2 evolution reactor is established. Ferricyanide/ferrocyanide ([Fe(CN) 6 ] 3&#8722;/4&#8722; ) serves as an electron-mediator between the cell and the reactor, thereby enabling a more dynamically favorable half-reaction to supplant the traditional oxygen evolution reaction (OER). This alteration involves a straightforward, single-electron-transfer anodic reaction without gas precipitation and effectively eliminates the generation of chlorine-containing byproducts. By operating at low voltages (~1.37 V at 10 mA cm &#8722;2 and ~1.57 V at 100 mA cm &#8722;2 ) and maintaining stability even in a Cl &#8722; -saturated seawater electrolyte, this system has the potential of undergoing decoupled seawater electrolysis with zero chlorine emissions. Further improvements in the high-performance redox-mediators and catalysts can provide enhanced cost-effectiveness and sustainability of the DSDE system.</description>
-      <author>Tao Liu, Cheng Lan, Min Tang, Mengxin Li, Yi-Tao Xu, Huimin Yang, Qingyue Deng, Wenchuan Jiang, Zhiyu Zhao, Yifan Wu, Heping Xie</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53335-w</guid>
-    </item>
-    <item>
-      <title>Generalization of Biasing Particle Insertion and Deletion for Grand Canonical Monte Carlo Simulation</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00755</link>
-      <description>T Ikeda, Akira Nakayama, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4403389357
-
-                A general formulation of biasing particle insertion/deletion for the grand canonical Monte Carlo (GCMC) simulation is presented. The proposed formulation unifies the concepts of the conventional cavity- and configurational-type biasing techniques and modifies a cavity biasing method to strictly satisfy the detailed balance condition. Numerical examples of this modified cavity bias method are presented for Lennard&#8211;Jones fluid and hydrogen adsorption on a platinum surface. The results obtained using this method are compared with those obtained using various GCMC methods. Furthermore, a rigorous on-the-fly on-lattice GCMC simulation for surface adsorption is formulated and performed for comparison. The numerical examples clearly demonstrate the efficiency and accuracy of the proposed formulation.</description>
-      <author>T Ikeda, Akira Nakayama</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00755</guid>
-    </item>
-    <item>
-      <title>Investigating the Role of Anions in the Adsorption of Pyrrolidinium Based Ionic Liquids on Pt(111) Surface Using Density Functional Theory</title>
-      <link>https://doi.org/10.1002/qua.27497</link>
-      <description>Arka Prava Sarkar, International Journal of Quantum Chemistry. 124(20)] 2024. https://openalex.org/W4403406494
-
-                ABSTRACT The adsorption properties of ionic liquids containing pyrrolidinium cations and various inorganic anions as electrolytes on a platinum surface were analyzed using first principle density functional theory. Three different orientations of the alkyl cation chain were observed during the adsorption process. The strength and structural stability varied between non&#8208;fluorinated and fluorinated anions upon adsorption, with oxygen atoms influencing the mechanism of adsorption and driving the structural stability of the anion, while fluorine atoms played a role in determining the orientation of the cation during adsorption. Net atomic charges analysis, electron density difference methods, and electron density accumulation for this complex system were utilized to further investigate these phenomena. The results of this study provide valuable insights into the role of anions in the adsorption behavior of pyrrolidinium&#8208;based ionic liquids on platinum surfaces, shedding light on the factors that influence their adsorption properties and structural stability on a molecular level. The findings of this study contribute to a better understanding of the interplay between anions and platinum surfaces in the adsorption of pyrrolidinium based ionic liquids, which can have implications for various applications such as electrochemistry, catalysis, and energy storage.</description>
-      <author>Arka Prava Sarkar</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/qua.27497</guid>
-    </item>
     <item>
       <title>Unraveling the phase transition and electrochemical application of MoSe2 material for energy conversion and storage devices</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.160990</link>
@@ -426,6 +396,16 @@
       <author>Xiang Chen, Song Xie, Fang Zhou, Biao Gao, Xuming Zhang, Shuangjie Wu, Li Huang, Yun Li, Paul K. Chu, Xiang Peng</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156908</guid>
+    </item>
+    <item>
+      <title>Electronic structure simulations in the cloud computing environment</title>
+      <link>https://doi.org/10.1063/5.0226437</link>
+      <description>Eric J. Bylaska, Ajay Panyala, Nicholas P. Bauman, Bo Peng, Himadri Pathak, Daniel Mej&#305;&#769;a-Rodr&#305;&#769;guez, Niranjan Govind, David B. Williams&#8208;Young, Edoardo Apr&#224;, Abhishek Bagusetty, Erdal Mutlu, Koblar Alan Jackson, Tunna Baruah, Yoh Yamamoto, Mark R. Pederson, Kushantha P. K. Withanage, Jes&#250;s N. Pedroza-Montero, Jenna Pope, Sutanay Choudhury, Jesun Firoz, Kristina M. Herman, Sotiris S. Xantheas, Paul Rigor, Fernando D. Vila, J. J. Rehr, Mimi Fung, Adam Grofe, Conrad Johnston, Nathan Baker, K. Kaneko, Hongbin Liu, Karol Kowalski, The Journal of Chemical Physics. 161(15)] 2024. https://openalex.org/W4403585557
+
+                The transformative impact of modern computational paradigms and technologies, such as high-performance computing (HPC), quantum computing, and cloud computing, has opened up profound new opportunities for scientific simulations. Scalable computational chemistry is one beneficiary of this technological progress. The main focus of this paper is on the performance of various quantum chemical formulations, ranging from low-order methods to high-accuracy approaches, implemented in different computational chemistry packages and libraries, such as NWChem, NWChemEx, Scalable Predictive Methods for Excitations and Correlated Phenomena, ExaChem, and Fermi&#8211;L&#246;wdin orbital self-interaction correction on Azure Quantum Elements, Microsoft's cloud services platform for scientific discovery. We pay particular attention to the intricate workflows for performing complex chemistry simulations, associated data curation, and mechanisms for accuracy assessment, which is demonstrated with the Arrows automated workflow for high throughput simulations. Finally, we provide a perspective on the role of cloud computing in supporting the mission of leadership computational facilities.</description>
+      <author>Eric J. Bylaska, Ajay Panyala, Nicholas P. Bauman, Bo Peng, Himadri Pathak, Daniel Mej&#305;&#769;a-Rodr&#305;&#769;guez, Niranjan Govind, David B. Williams&#8208;Young, Edoardo Apr&#224;, Abhishek Bagusetty, Erdal Mutlu, Koblar Alan Jackson, Tunna Baruah, Yoh Yamamoto, Mark R. Pederson, Kushantha P. K. Withanage, Jes&#250;s N. Pedroza-Montero, Jenna Pope, Sutanay Choudhury, Jesun Firoz, Kristina M. Herman, Sotiris S. Xantheas, Paul Rigor, Fernando D. Vila, J. J. Rehr, Mimi Fung, Adam Grofe, Conrad Johnston, Nathan Baker, K. Kaneko, Hongbin Liu, Karol Kowalski</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0226437</guid>
     </item>
     <item>
       <title>In situ examination of oxygen vacancy dynamics in epitaxial LaCoO3 thin films</title>

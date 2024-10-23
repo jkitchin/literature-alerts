@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Oct 2024 01:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 01:20:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Dynamic Loop in Halohydrin Dehalogenase HheG Regulates Activity and Enantioselectivity in Epoxide Ring Opening</title>
-      <link>https://doi.org/10.1021/acscatal.4c04815</link>
-      <description>Marcel Staar, Lina Ahlborn, Miquel Est&#233;vez&#8208;Gay, Katharina Pallasch, S&#237;lvia Osuna, Anett Schallmey, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403401913
-
-                No abstract</description>
-      <author>Marcel Staar, Lina Ahlborn, Miquel Est&#233;vez&#8208;Gay, Katharina Pallasch, S&#237;lvia Osuna, Anett Schallmey</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04815</guid>
-    </item>
-    <item>
-      <title>Screening Ir-Free Trimetallic Alloys with Consideration of Metal Electronegativity and Oxophilicity toward Ammonia Electrooxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c05185</link>
-      <description>Zhengwei Zhang, Hao Shen, Yongying Wang, Zheming Dong, Tieyu Hu, Zhongti Sun, Juan Yang, Yi Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403403370
-
-                No abstract</description>
-      <author>Zhengwei Zhang, Hao Shen, Yongying Wang, Zheming Dong, Tieyu Hu, Zhongti Sun, Juan Yang, Yi Li</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05185</guid>
-    </item>
     <item>
       <title>Selective Association Enforced by the Confinement Effect To Boost the Regioselectivity of Vinyl Acetate Hydroformylation</title>
       <link>https://doi.org/10.1021/acscatal.4c03932</link>

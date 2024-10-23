@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Oct 2024 01:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 01:20:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -40,11 +40,11 @@
     <item>
       <title>Interface Engineering of Platinum&#8211;Copper Alloy/Titanium Dioxide for Enhanced Photocatalytic Carbon Dioxide Reduction</title>
       <link>https://doi.org/10.1016/j.envres.2024.120191</link>
-      <description>Xin Wang, Wei Tan, Bo Peng, Shangcong Sun, Xue Li, Kaiqiang Wang, Jiawei Ji, Haohong Liao, Jingfang Sun, Qing Tong, Haiqin Wan, Lin Dong, Environmental Research. None(None)] 2024. https://openalex.org/W4403531303
+      <description>Xin Wang, Wei Tan, Bo Peng, Shangcong Sun, Xue Li, Kaiqiang Wang, Jiawei Ji, Haohong Liao, Jingfang Sun, Qing Tong, Haiqin Wan, Lin Dong, Environmental Research. 263(None)] 2024. https://openalex.org/W4403531303
 
-                No abstract</description>
+                To develop an efficient photocatalytic carbon dioxide (CO</description>
       <author>Xin Wang, Wei Tan, Bo Peng, Shangcong Sun, Xue Li, Kaiqiang Wang, Jiawei Ji, Haohong Liao, Jingfang Sun, Qing Tong, Haiqin Wan, Lin Dong</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.120191</guid>
     </item>
     <item>
@@ -68,14 +68,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsorginorgau.4c00051</guid>
     </item>
     <item>
-      <title>Electrodeposition of Cu 3D structures suitable for CO2 reduction</title>
-      <link>https://doi.org/10.6001/chemija.2024.35.2.1</link>
-      <description>Birut&#279; Serapinien&#279;, Laurynas Stai&#353;i&#363;nas, Algirdas Selskis, Remi&#173;gi&#173;jus Ju&#353;k&#279;nas, L. Gudavi&#269;i&#363;t&#279;, Jurga Juodkazyt&#279;, R. Ramanauskas, Chemija. 35(2)] 2024. https://openalex.org/W4403406643
+      <title>Physicochemical Analysis of Cu(II)&#8208;Driven Electrochemical CO2 Reduction and its Competition with Proton Reduction</title>
+      <link>https://doi.org/10.1002/chem.202403321</link>
+      <description>Sk Samim Akhter, Diship Srivastava, Aman Mishra, Niladri Patra, Pankaj Kumar, Sumanta Kumar Padhi, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4403608291
 
-                Porous Cu foam electrodes, suitable for cathodic CO2 reduction, were deposited in an acidic sulphate solution with different additives to obtain structures with a high real surface area and an adequate mechanical stability. The influence of the electrodeposition time and solution composition on the porosity parameters, microstructure and stiffness of Cu 3D structures was evaluated. Neither ammonium acetate nor polyethylene glycol were found to be effective additives to the Cu sulphate electrolyte to achieve the main objectives. Only the presence of Cl&#8211; ions in the deposition solution resulted in a threefold increase in the real surface area and the achievement of a sufficient mechanical stability of the Cu 3D structure. The latter effect is related to the specific influence of Cl&#8211; ions during the electrodeposition process on the microstructural characteristics, such as the size of micropores in the walls of holes and crystallite aggregates that form dendritic branches. These structural changes, in contrast to the Cu samples deposited in a solution without additives, resulted in larger real surface areas, while the denser structures deposited in the presence of Cl&#8211; ions ensured the mechanical stability of the 3D structure.</description>
-      <author>Birut&#279; Serapinien&#279;, Laurynas Stai&#353;i&#363;nas, Algirdas Selskis, Remi&#173;gi&#173;jus Ju&#353;k&#279;nas, L. Gudavi&#269;i&#363;t&#279;, Jurga Juodkazyt&#279;, R. Ramanauskas</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6001/chemija.2024.35.2.1</guid>
+                The reduction of CO2 has become a key role in reducing greenhouse gas emissions in efforts to search for long&#8208;term responses to climate change. We report a a couple of CO2&#8208;reducing molecular catalysts based on earth&#8208;abundant copper complexes. These are [Cu(DPA)(PyNAP)] (1) and [Cu(DPA)(PyQl)] (2) (where, DPA = pyridine&#8208;2,6&#8208;dicarboxylic acid, PyNAP = 2&#8208;(pyridin&#8208;2&#8208;yl)&#8208;1,8&#8208;naphthyridine, and PyQl = 2&#8208;(pyridin&#8208;2&#8208;yl)quinoline). The copper metal&#8208;catalysed 2&#8208;electron reduction of CO2 to CO in the presence of 2&#8208;protons is challenging. These catalysts exhibit the production of CO gas in DMF/water mixtures, achieving an impressive faradaic efficiency of 84% and 72% for complex 1 and 2 at &#8208;1.7 V vs. SCE, respectively, for selective CO2 reduction. The production of H2 due to 2H+ + 2e&#8208; was also observed as a byproduct through the competitive proton reduction reaction. This was cross&#8208;verified by online gas and mass analysis. Our investigations confirmed the stability of the electrocatalysts under the electrocatalytic conditions. The mechanistic pathways were proposed to work with the EECC and ECEC (E: electrochemical and C: chemical) mechanisms. A CO2 insertion into an in&#8208;situ generated hydride from the Cu&#8208;center generates CO through the favourable path.</description>
+      <author>Sk Samim Akhter, Diship Srivastava, Aman Mishra, Niladri Patra, Pankaj Kumar, Sumanta Kumar Padhi</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/chem.202403321</guid>
     </item>
     <item>
       <title>Supercritical carbon dioxide foamed thermoplastic polyester elastomer with poly(lactic acid) blending: shrinkage reduction and expansion ratio improvement</title>
@@ -96,16 +96,6 @@
       <author>R. Favre, Tangui Le Bahers, Pascal Raybaud</author>
       <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openalex.org/W4403445063</guid>
-    </item>
-    <item>
-      <title>Performing electrocatalytic CO2 reduction reactions at a high pressure</title>
-      <link>https://doi.org/10.1007/s43979-024-00106-7</link>
-      <description>Baoliang Chen, M. Feng, Yi&#8208;Ping Phoebe Chen, J.-L. Yang, Ya Liu, Carbon Neutrality. 3(1)] 2024. https://openalex.org/W4403401447
-
-                Abstract Electrocatalytic CO 2 reduction technology offers an effective way to convert CO 2 into valuable chemicals and fuels, presenting a sustainable solution for carbon emissions. Current electrocatalytic CO 2 reduction technologies encounter significant issues such as salt precipitation and hydrogen evolution, which prevent energy conversion efficiency, selectivity, current density, and stability from simultaneously meeting industrial standards. In recent years, researchers have discovered that increasing the CO 2 pressure on the gas supply could enhance the coverage of the catalyst and activate more CO 2 reduction reaction sites on the catalyst surface, which provides a practical and effective approach for optimizing the energy conversion and mass transfer. In this review, we provide a comprehensive review of the development history and current status of high-pressure CO 2 electrocatalytic reduction technology, focusing on its reaction devices, catalytic performance, and reaction mechanisms. Furthermore, we summarize and offer insights into the most promising research avenues to propel the field forward.</description>
-      <author>Baoliang Chen, M. Feng, Yi&#8208;Ping Phoebe Chen, J.-L. Yang, Ya Liu</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s43979-024-00106-7</guid>
     </item>
     <item>
       <title>The Riddle of the Sands: Co2 Emissions Reduction and California's Renewables Portfolio</title>
@@ -146,16 +136,6 @@
       <author>Mohsen Tamtaji, Mohammad Kazemeini, Jafar Abdi</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161555</guid>
-    </item>
-    <item>
-      <title>Efficient electrocatalytic CO2 reduction to ethylene using cuprous oxide derivatives</title>
-      <link>https://doi.org/10.3389/fchem.2024.1482168</link>
-      <description>Wen&#8208;Fei Dong, Dejun Fu, Zhifeng Zhang, Zhiqiang Wu, Hongjian Zhao, W. Liu, Frontiers in Chemistry. 12(None)] 2024. https://openalex.org/W4403395491
-
-                Copper-based materials play a vital role in the electrochemical transformation of CO 2 into C 2 /C 2+ compounds. In this study, cross-sectional octahedral Cu 2 O microcrystals were prepared in situ on carbon paper electrodes via electrochemical deposition. The morphology and integrity of the exposed crystal surface (111) were meticulously controlled by adjusting the deposition potential, time, and temperature. These cross-sectional octahedral Cu 2 O microcrystals exhibited high electrocatalytic activity for ethylene (C 2 H 4 ) production through CO 2 reduction. In a 0.1 M KHCO 3 electrolyte, the Faradaic efficiency for C 2 H 4 reached 42.0% at a potential of &#8722;1.376 V vs. RHE. During continuous electrolysis over 10 h, the FE (C 2 H 4 ) remained stable around 40%. During electrolysis, the fully exposed (111) crystal faces of Cu 2 O microcrystals are reduced to Cu 0 , which enhances C-C coupling and could serve as the main active sites for catalyzing the conversion of CO 2 to C 2 H 4 .</description>
-      <author>Wen&#8208;Fei Dong, Dejun Fu, Zhifeng Zhang, Zhiqiang Wu, Hongjian Zhao, W. Liu</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1482168</guid>
     </item>
     <item>
       <title>In-situ Imaging and Time-resolved Investigation of Local pH in Electrocatalytic CO2 Reduction</title>
@@ -216,16 +196,6 @@
       <author>Daniel Arenas Esteban, Lien Pacquets, Daniel Choukroun, Saskia Hoekx, Ajinkya Kadu, Jonathan Schalck, Nick Daems, Tom Breugelmans, Sara Bals</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1051/bioconf/202412926022</guid>
-    </item>
-    <item>
-      <title>In Situ Construction of Cubi-Mof Derived Heterojunctions with Electron-Rich Effects Enhances Localized Co2 Enrichment Integrated with Si Photocathodes for Co2 Reduction</title>
-      <link>https://doi.org/10.2139/ssrn.4987328</link>
-      <description>Li Wang, Jingwei Hong, Jing Shang, Hiromi Yamashita, Chaohai Wei, Yun Hang Hu, No host. None(None)] 2024. https://openalex.org/W4403385945
-
-                No abstract</description>
-      <author>Li Wang, Jingwei Hong, Jing Shang, Hiromi Yamashita, Chaohai Wei, Yun Hang Hu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4987328</guid>
     </item>
     <item>
       <title>Facile Synthesis of WCu-C/N for Effective Catalyst toward Electrochemical Reduction of CO2 to CO</title>
@@ -298,14 +268,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156752</guid>
     </item>
     <item>
-      <title>Enhanced photoelectrochemical CO2 reduction activity towards selective generation of alcohols over CuxO/SrTiO3 heterojunction photocathodes</title>
-      <link>https://doi.org/10.1016/j.solmat.2024.113203</link>
-      <description>Guguloth Venkanna, Sovan Kumar Patra, Gajanan U. Kapure, Kamal K. Pant, Solar Energy Materials and Solar Cells. 278(None)] 2024. https://openalex.org/W4403385242
+      <title>Encapsulation of an Au25 Nanocluster inside a Porphyrin Nanoring Enhances Singlet Oxygen Generation and Photo&#8208;Electrocatalytic CO2 Reduction</title>
+      <link>https://doi.org/10.1002/anie.202414908</link>
+      <description>Abolfazl Ziarati, Henrik Gotfredsen, Arnulf Rosspeintner, Jiangtao Zhao, Harry L. Anderson, Thomas B&#252;rgi, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403604970
 
-                No abstract</description>
-      <author>Guguloth Venkanna, Sovan Kumar Patra, Gajanan U. Kapure, Kamal K. Pant</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.solmat.2024.113203</guid>
+                The synthesis of molecular host&#8208;guest complexes with enhanced performance, relative to those of their components, is a central theme in supramolecular chemistry. Here we explore a host&#8208;guest system consisting of an atomically precise gold nanocluster bound inside a zinc porphyrin nanoring. UV&#8208;vis absorption and fluorescence titrations with different sized nanorings revealed strong binding between a pyridinethiol&#8208;coated Au25 nanocluster and a nanoring consisting of six zinc porphyrin units, and complexation is confirmed by mass spectrometry. Formation of this assembly enhances the stability of the gold nanocluster. The host&#8208;guest complex also exhibits remarkable activity and selectivity for photochemical CO2 to CO conversion and singlet oxygen generation.</description>
+      <author>Abolfazl Ziarati, Henrik Gotfredsen, Arnulf Rosspeintner, Jiangtao Zhao, Harry L. Anderson, Thomas B&#252;rgi</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202414908</guid>
     </item>
     <item>
       <title>Enhanced CO2 Reduction via S-Scheme Heterojunction of Amorphous/Crystalline Metal-free Carbon Nitride Photocatalysts</title>
@@ -368,16 +338,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202418156</guid>
     </item>
     <item>
-      <title>Concentration of carbon dioxide in products of combustion of GTE NK-16ST and NK-16-18ST</title>
-      <link>https://doi.org/10.31772/2712-8970-2023-24-4-697-705</link>
-      <description>&#1040;. &#1042;. &#1041;&#1072;&#1082;&#1083;&#1072;&#1085;&#1086;&#1074;, Siberian Aerospace Journal. 24(4)] 2023. https://openalex.org/W4403393562
-
-                This paper considers the design of two combustion chambers of a gas turbine engine running on natural gas. One combustion chamber has 32 burners, and the other has 136 nozzles located in two rows in the flame tube head. A major contributor to global warming is considered to be the significant emissions of greenhouse gases, primarily CO2, including those emitted by gas turbine engines and power plants. The reduction of carbon dioxide levels by developing a set of structural measures in the combustion chamber is one of the urgent tasks of engine construction which requires a solution in order to meet modern environmental requirements for gas turbine engines serving as blower drives for gas compressor units. The presented research is dedicated to the analysis of influence of changes in combustion chamber design on reduction of &#1057;&#1054;2 level in exhaust gases of gas turbine engine NK-16ST. Two modifications of the combustion chamber are considered. The first one was a serial combustion chamber with diffusion combustion, the second one was a modernized combustion chamber with a modified front device. Each of the chambers considered was tested as part of the engine. During the study, combustion products were sampled directly in the exhaust shaft and their concentrations, including the CO2 content, were determined. As a result of this work, it was confirmed that there is a possibility to reduce the concentration of CO2 in the engine combustion products up to 20 % without affecting the engine parameters. This reduction in carbon dioxide content was made possible by reducing the completeness of fuel combustion in the combustion chamber. The obtained data on changes in CO2 concentration can be useful in selecting the most suitable mode of engine operation, and the presented approaches to combustion processes organization can be used by developers in designing combustion chambers of natural gas-fired gas turbine engines.</description>
-      <author>&#1040;. &#1042;. &#1041;&#1072;&#1082;&#1083;&#1072;&#1085;&#1086;&#1074;</author>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31772/2712-8970-2023-24-4-697-705</guid>
-    </item>
-    <item>
       <title>A hybrid electro-thermochemical device for methane production from the air</title>
       <link>https://doi.org/10.1038/s41467-024-53336-9</link>
       <description>Yao&#8208;Wei Huang, Da Xu, Shuai Deng, Meng Lin, Nature Communications. 15(1)] 2024. https://openalex.org/W4403467171
@@ -386,6 +346,16 @@
       <author>Yao&#8208;Wei Huang, Da Xu, Shuai Deng, Meng Lin</author>
       <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53336-9</guid>
+    </item>
+    <item>
+      <title>The effects of climate change technology spillovers on carbon emissions across European countries</title>
+      <link>https://doi.org/10.1016/j.jenvman.2024.122972</link>
+      <description>Jaana Rahko, Andrew Adewale Alola, Journal of Environmental Management. 370(None)] 2024. https://openalex.org/W4403561586
+
+                To unravel the challenges in the global diffusion of climate-friendly technologies, this investigation analyzes the diffusion of climate change-related technologies across countries. By using an unbalanced panel of selected European countries over the period 1990-2020, this investigation quantifies the carbon dioxide (CO2) emission effects of the diffusion of climate change-related technologies that are mediated by imports, geographical and technological proximity and free diffusion of technologies. In this study, the effects of domestic development of climate change-related technologies, population and affluence are also accounted for, and the emission effects are estimated using a fixed-effects panel model with instrumental variables. The instrumental variable for foreign technology spillovers is based on the technology support policies adopted in foreign countries. As expected, international spillovers of climate-friendly technologies are negatively linked to CO2 emissions, thus promoting emission reductions across the region. Importantly, emission reductions in Europe are more strongly influenced by international technology spillovers than by domestic innovation activities. Moreover, while all the analyzed technology diffusion channels appear relevant, the results are the most robust regarding import-mediated technology spillovers. Insights from this study support policy recommendations, especially in the trade policy context.</description>
+      <author>Jaana Rahko, Andrew Adewale Alola</author>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.122972</guid>
     </item>
     <item>
       <title>Re-Imagining Trade Policy and Energy Efficiency: Groundbreaking Pathways to Strengthen Environmental Sustainability in South Korea</title>
@@ -446,6 +416,16 @@
       <author>A. S. Rusanov, A.V. Strekalov, A. S. Romanov, E. A. Reitblat, M. Moskalets, Ashley C. Karp, &#1044;. &#1053;. &#1043;&#1083;&#1091;&#1084;&#1086;&#1074;</author>
       <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.31660/0445-0108-2024-5-80-103</guid>
+    </item>
+    <item>
+      <title>Achieving Collaborative Pollutant and Carbon Emissions Reduction through Digital Governance: Evidence from Chinese Enterprises</title>
+      <link>https://doi.org/10.1016/j.envres.2024.120197</link>
+      <description>Shaohui Zou, Xiangbo Fan, Yinuo Zhou, Yuanzheng Cui, Environmental Research. None(None)] 2024. https://openalex.org/W4403566236
+
+                Under China's dual carbon goals, it is imperative for enterprises to effectively reduce carbon emissions while achieving pollutant reduction. This article explores the potential role of government-implemented digital governance in facilitating these objectives. Utilizing a quasi-natural experiment on digital governance, we established an analytical framework to thoroughly examine how digital governance can help Chinese enterprises realize synergistic effects in pollution control and carbon reduction. Our study reveals that digital governance significantly reduces enterprises' emissions of carbon dioxide and pollutants, with emission intensities of the carbon dioxide, air pollutant and water pollutant being decreased by approximately 6.9%, 7.3%, and 7.0%, respectively. These reductions are primarily driven by improvements in energy efficiency, the promotion of green innovation, digital transformation, and enhanced role of media. However, it is important to note that digital governance also negatively impacts overall corporate productivity and widens the digital divide between large and small-to-medium enterprises. The research results have practical significance for promoting the achievement of emission reduction goals and sustainable development for enterprises.</description>
+      <author>Shaohui Zou, Xiangbo Fan, Yinuo Zhou, Yuanzheng Cui</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.120197</guid>
     </item>
     <item>
       <title>Site selection and effects of background towers on urban CO2 estimates: A case study from central downtown Zhengzhou in China</title>
@@ -559,26 +539,6 @@
       <guid isPermaLink="true">https://doi.org/10.1186/s12871-024-02764-7</guid>
     </item>
     <item>
-      <title>Preliminary Results on the Use of Straw Cover and Effective Microorganisms for Mitigating GHG and Ammonia Emissions in Pig Slurry Storage Systems</title>
-      <link>https://doi.org/10.3390/agriculture14101788</link>
-      <description>Martire Ang&#233;lica Terrero Turb&#237;, Melisa G&#243;mez Garrido, Oumaima El bied, Jos&#233; Gregorio Cuevas Bencosme, &#193;ngel Faz Cano, Agriculture. 14(10)] 2024. https://openalex.org/W4403400565
-
-                Spain has been the largest pork producer in the EU in recent years, leading to significant pig slurry (PS) production that requires proper management to prevent environmental impacts. The objectives of this study were to quantify greenhouse gas (GHG) and ammonia emissions and to characterize the PS in storage pond systems. A straw cover pond (SP) and addition of effective microorganisms (EMs) in a biological pond (BP) were used to treat the slurries. During two periods (autumn and spring), PS was characterized and GHG (CO2, CH4, N2O) and NH3 emissions were measured with a dynamic chamber. After 5 weeks of storage, BP achieved a reduction of 96% for CO2, 98% for CH4 and 59% for NH3 compared to the control pond (CP) in spring, while SP presented a 74% reduction for CO2 in autumn, and 60% and 97% reductions for CH4 and NH3, respectively, in spring. Additionally, the PS samples showed a decreasing trend for EC, dry matter, COD, BOD5, total N, NH4+-N, Org.-N, NO3&#8722;-N, and PO43&#8722; during both seasons. This preliminary study shows promise in reducing GHG/NH3 emissions and improving PS properties, but further replication is recommended. Varying straw cover thickness, optimizing EM dose, and a pH reduction may enhance outcomes.</description>
-      <author>Martire Ang&#233;lica Terrero Turb&#237;, Melisa G&#243;mez Garrido, Oumaima El bied, Jos&#233; Gregorio Cuevas Bencosme, &#193;ngel Faz Cano</author>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/agriculture14101788</guid>
-    </item>
-    <item>
-      <title>Power&#8208;to&#8208;Ethanol Using Bimetallic Catalysts: Reaction Paths, Transfer to Gas Diffusion Electrode, and Future Perspectives</title>
-      <link>https://doi.org/10.1002/elsa.202400017</link>
-      <description>Elisabeth Gr&#228;fin von Westarp, Burkhard Hecker, Hermann Tempel, R&#252;diger&#8208;A. Eichel, Electrochemical Science Advances. None(None)] 2024. https://openalex.org/W4403394539
-
-                ABSTRACT Ethanol is a promising product for the carbon dioxide reduction reaction (CO 2 RR), as ethanol as a value&#8208;added product can help to enable the near&#8208;term feasibility of this technique, thus Power&#8208;to&#8208;ethanol can act as a pioneering process for the CO 2 RR. Furthermore, CO 2 RR offers a green production process for ethanol in addition to biomass fermentation. However, the formation of ethanol via electrolysis often competes with ethylene production, which makes the selective formation of ethanol more difficult. We show that this problem can be circumvented by using a bimetallic catalyst that provides abundant *CO and thus activates an alternative and selective reaction path for ethanol. However, this study was carried out in an aqueous&#8208;fed H&#8208;type electrolyzer, which has mass transport limitations and thus insufficient current densities. To solve this issue, the studied catalyst is transferred to a gas diffusion electrode. Here we emphasize that, in addition to other relevant parameters, the choice of the binder also can have a high impact on the performance of the electrode. As an outlook, various enhanced reactor designs and their influence on ethanol formation are presented.</description>
-      <author>Elisabeth Gr&#228;fin von Westarp, Burkhard Hecker, Hermann Tempel, R&#252;diger&#8208;A. Eichel</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/elsa.202400017</guid>
-    </item>
-    <item>
       <title>Energy use and greenhouse gas emissions in selected tea factories in Kenya</title>
       <link>https://doi.org/10.1371/journal.pclm.0000329</link>
       <description>Joy Kibet, Sammy Letema, PLOS Climate. 3(10)] 2024. https://openalex.org/W4403448486
@@ -639,26 +599,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401436</guid>
     </item>
     <item>
-      <title>Portfolio carbon footprints and decarbonization progress of China's asset managers: a decade analysis</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4976708/v1</link>
-      <description>Dabo Guan, Jinglei Wang, Xiang Yu, Wenqiang Wang, Gesangyangji Gesang, Jie Li, Shuping Li, Ning Zhang, Zengkai Zhang, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4403386894
-
-                Abstract Despite repeated calls to reduce CO2 emissions, asset managers continue to invest heavily in carbon-intensive assets, creating hidden carbon bombs within their equity portfolios. Timely tracking of portfolio carbon footprints is essential as a dynamic tool for monitoring companies' efforts to reduce carbon reduction. However, the availability and quality of firm-level CO2 emissions data present significant challenges in measuring financed emissions. As a result, potential climate-related risks for asset managers are likely to be severely underestimated. This study analyses CO2 emissions embodied in the equity portfolios of 105 Chinese asset managers from 2010 to 2020. Results show that over 50% of financed emissions comes from carbon-intensive assets, primarily emitted by individual high-emitting companies. Positively, some managers have reallocated capital towards High-tech Industries and Advanced Services during the period, and achieved over 50% reduction in carbon intensity. Comparison between asset managers' commitments versus actual mitigation actions shows that five out of six leading asset managers in China have failed to take their mitigation actions, despite their commitment to the UN Principles for Responsible Investment (UNPRI). Our qualitative analysis provide scientific evidence for China's asset managers in measuring companies&#8217; portfolio carbon footprints and supporting their decarbonization pathways.</description>
-      <author>Dabo Guan, Jinglei Wang, Xiang Yu, Wenqiang Wang, Gesangyangji Gesang, Jie Li, Shuping Li, Ning Zhang, Zengkai Zhang</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4976708/v1</guid>
-    </item>
-    <item>
-      <title>On the dependence of the catalytic activity of nickel ferrite nanoparticles in the oxidative dehydrogenation of 2-propanol on the crystallite size</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-4jzln</link>
-      <description>Michael Pittenauer, Raffael Rameshan, Florian Schrenk, Chunlei Wang, Moritz Eder, Gareth S. Parkinson, Christoph Rameshan, Karin F&#246;ttinger, No host. None(None)] 2024. https://openalex.org/W4403466060
-
-                Nickel ferrite spinel nanoparticles of different crystallite sizes were prepared in a glycine assisted sol-gel autocombustion reaction and characterised by powder x-ray diffraction, attenuated total reflection infrared spectroscopy, near ambient pressure x-ray photoelectron spectroscopy, nitrogen physisorption, hydrogen and carbon monoxide temperature programmed reduction and oxygen and carbon dioxide temperature programmed desorption. A different distribution of Ni2+ cations in the tetrahedrally and octahedrally coordinated sites of the spinel lattice and an increased reducibility of the smaller crystallite size sample were identified as the main impacts of different crystallite size. Their catalytic activity in the oxidative dehydrogenation of 2-propanol was investigated by temperature programmed reaction studies using different ratios of 2-propanol:O2 as well as of possible parallel and consecutive reactions at atmospheric pressure and maximum 400 &#176;C. Operando-DRIFTS-MS studies at different 2-propanol:O2 ratios were carried out under continuous-flow conditions at atmospheric pressure as well. Thereby, the increased reducibility of the small crystallite size sample could be linked to an unselective activity for dehydrogenation yielding acetone and hydrogen, partial oxidation of 2-propanol and acetone, and total combustion leading to a complex network of reactions going on, being further pushed by an excess of oxygen. Ex-situ x-ray diffraction measurements were performed following the temperature programmed reaction experiments. The large crystallite size sample was found to be generally less active, but more selective towards non-oxidative dehydrogenation. Ex-situ x-ray diffraction measurements performed following the temperature programmed reaction experiments confirmed the increased reducibility of the smaller crystallite size sample. In the operando IR studies, 2-propoxide, adsorbed acetone, carbonates and acetates were identified as species occurring in the reaction.</description>
-      <author>Michael Pittenauer, Raffael Rameshan, Florian Schrenk, Chunlei Wang, Moritz Eder, Gareth S. Parkinson, Christoph Rameshan, Karin F&#246;ttinger</author>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-4jzln</guid>
-    </item>
-    <item>
       <title>Effect of welding gas mixtures on weld material and bead geometry</title>
       <link>https://doi.org/10.1088/1757-899x/1315/1/012007</link>
       <description>Michael A. Unger, Jo&#227;o R. Neves, Martin Schnall, IOP Conference Series Materials Science and Engineering. 1315(1)] 2024. https://openalex.org/W4403545844
@@ -669,24 +609,14 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1757-899x/1315/1/012007</guid>
     </item>
     <item>
-      <title>Scalable Electro&#8208;Biosynthesis of Ectoine from Greenhouse Gases</title>
-      <link>https://doi.org/10.1002/anie.202415445</link>
-      <description>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403475883
+      <title>On the dependence of the catalytic activity of nickel ferrite nanoparticles in the oxidative dehydrogenation of 2-propanol on the crystallite size</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-4jzln</link>
+      <description>Michael Pittenauer, Raffael Rameshan, Florian Schrenk, Chunlei Wang, Moritz Eder, Gareth S. Parkinson, Christoph Rameshan, Karin F&#246;ttinger, No host. None(None)] 2024. https://openalex.org/W4403466060
 
-                Converting greenhouse gases into valuable products has become a promising approach for achieving a carbon&#8208;neutral economy and sustainable development. However, the conversion efficiency depends on the energy yield of the substrate. In this study, we developed an electro&#8208;biocatalytic system by integrating electrochemical and microbial processes to upcycle CO2 into a valuable product (ectoine) using renewable energy. This system initiates the electrocatalytic reduction of CO2 to methane, an energy&#8208;dense molecule, which then serves as an electrofuel to energize the growth of an engineered methanotrophic cell factory for ectoine biosynthesis. The scalability of this system was demonstrated using an array of ten 25 cm2 electrochemical cells equipped with a high&#8208;performance carbon&#8208;supported isolated copper catalyst. The system consistently generated methane at the cathode under a total partial current of approximately &#8722;37 A (~175 mmolCH4 h&#8211;1) and O2 at the anode under a total partial current of approximately 62 A (~583 mmolO2 h&#8211;1). This output met the requirements of a 3&#8208;L bioreactor, even at maximum CH4 and O2 consumption, resulting in the high&#8208;yield conversion of CO2 to ectoine (1146.9 mg L&#8211;1). This work underscores the potential of electrifying the biosynthesis of valuable products from CO2, providing a sustainable avenue for biomanufacturing and energy storage.</description>
-      <author>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202415445</guid>
-    </item>
-    <item>
-      <title>Scalable Electro&#8208;Biosynthesis of Ectoine from Greenhouse Gases</title>
-      <link>https://doi.org/10.1002/ange.202415445</link>
-      <description>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403475936
-
-                Converting greenhouse gases into valuable products has become a promising approach for achieving a carbon&#8208;neutral economy and sustainable development. However, the conversion efficiency depends on the energy yield of the substrate. In this study, we developed an electro&#8208;biocatalytic system by integrating electrochemical and microbial processes to upcycle CO2 into a valuable product (ectoine) using renewable energy. This system initiates the electrocatalytic reduction of CO2 to methane, an energy&#8208;dense molecule, which then serves as an electrofuel to energize the growth of an engineered methanotrophic cell factory for ectoine biosynthesis. The scalability of this system was demonstrated using an array of ten 25 cm2 electrochemical cells equipped with a high&#8208;performance carbon&#8208;supported isolated copper catalyst. The system consistently generated methane at the cathode under a total partial current of approximately &#8722;37 A (~175 mmolCH4 h&#8211;1) and O2 at the anode under a total partial current of approximately 62 A (~583 mmolO2 h&#8211;1). This output met the requirements of a 3&#8208;L bioreactor, even at maximum CH4 and O2 consumption, resulting in the high&#8208;yield conversion of CO2 to ectoine (1146.9 mg L&#8211;1). This work underscores the potential of electrifying the biosynthesis of valuable products from CO2, providing a sustainable avenue for biomanufacturing and energy storage.</description>
-      <author>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202415445</guid>
+                Nickel ferrite spinel nanoparticles of different crystallite sizes were prepared in a glycine assisted sol-gel autocombustion reaction and characterised by powder x-ray diffraction, attenuated total reflection infrared spectroscopy, near ambient pressure x-ray photoelectron spectroscopy, nitrogen physisorption, hydrogen and carbon monoxide temperature programmed reduction and oxygen and carbon dioxide temperature programmed desorption. A different distribution of Ni2+ cations in the tetrahedrally and octahedrally coordinated sites of the spinel lattice and an increased reducibility of the smaller crystallite size sample were identified as the main impacts of different crystallite size. Their catalytic activity in the oxidative dehydrogenation of 2-propanol was investigated by temperature programmed reaction studies using different ratios of 2-propanol:O2 as well as of possible parallel and consecutive reactions at atmospheric pressure and maximum 400 &#176;C. Operando-DRIFTS-MS studies at different 2-propanol:O2 ratios were carried out under continuous-flow conditions at atmospheric pressure as well. Thereby, the increased reducibility of the small crystallite size sample could be linked to an unselective activity for dehydrogenation yielding acetone and hydrogen, partial oxidation of 2-propanol and acetone, and total combustion leading to a complex network of reactions going on, being further pushed by an excess of oxygen. Ex-situ x-ray diffraction measurements were performed following the temperature programmed reaction experiments. The large crystallite size sample was found to be generally less active, but more selective towards non-oxidative dehydrogenation. Ex-situ x-ray diffraction measurements performed following the temperature programmed reaction experiments confirmed the increased reducibility of the smaller crystallite size sample. In the operando IR studies, 2-propoxide, adsorbed acetone, carbonates and acetates were identified as species occurring in the reaction.</description>
+      <author>Michael Pittenauer, Raffael Rameshan, Florian Schrenk, Chunlei Wang, Moritz Eder, Gareth S. Parkinson, Christoph Rameshan, Karin F&#246;ttinger</author>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-4jzln</guid>
     </item>
     <item>
       <title>d&#8208;Electrons of Platinum Alloy Steering CO Pathway for Low&#8208;charge Potential Li&#8208;CO2 Batteries</title>
@@ -709,14 +639,24 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202415728</guid>
     </item>
     <item>
-      <title>Fossil Diesel, Soybean Biodiesel and Hydrotreated Vegetable Oil: A Numerical Analysis of Emissions Using Detailed Chemical Kinetics at Diesel Engine Like Conditions</title>
-      <link>https://doi.org/10.3390/atmos15101224</link>
-      <description>Leonel R Cancino, Jessica F. Rebelo, Felipe Kraus, Eduardo Homem de Siqueira Cavalcanti, Val&#233;ria S. de B. Pimentel, D&#233;cio Magioli Maia, Ricardo Almeida Barbosa de S&#225;, Atmosphere. 15(10)] 2024. https://openalex.org/W4403399750
+      <title>Scalable Electro&#8208;Biosynthesis of Ectoine from Greenhouse Gases</title>
+      <link>https://doi.org/10.1002/anie.202415445</link>
+      <description>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403475883
 
-                Nowadays, emissions from internal combustion engines are a relevant topic of investigation, taking into account the continuous reduction of emission limits imposed by environmental regulatory agencies around the world, obviously as the result of earnest studies that have pointed out the impact on the human health of high levels of contaminants released into the environment. Over recent years, the use of biofuels has contributed to attenuating this environmental issue; however, new problems have been raised, such as NOx emissions tend to increase as the biofuel percentage in the fuel used in engines increases. In this research, the emissions of a compression ignition internal combustion engine modeled as a variable volume reactor with homogeneous combustion were numerically investigated. To analyze the combustion process, a detailed kinetics model tailored specifically for this purpose was used. The kinetics model comprised 30,975 chemical reactions involving 691 chemical species. Mixtures of fuel surrogates were then created to represent the fuel used in the Brazilian fuel marketplace, involving (i) fossil diesel&#8212;&#8220;diesel A&#8221;, (ii) soybean diesel&#8212;&#8220;biodiesel&#8221;, and (iii) hydrotreated vegetable oil&#8212; &#8220;HVO&#8221;. Surrogate species were then selected for each of the aforementioned fuels, and blends of those surrogates were then proposed as mixture M1 (diesel A:biodiesel:HVO&#8212;90:10:0), mixture M2 (diesel A:biodiesel:HVO&#8212;85:15:0), and mixture M3 (diesel A:biodiesel:HVO&#8212;80:15:5). The species allowed in the kinetics model included all the fuel surrogates used in this research as well as the target emission species of this study: total hydrocarbons, non-methane hydrocarbons, carbon monoxide, methane, nitrogen oxides, carbon dioxide, soot, and soot precursors. When compared to experimental trends of emissions available in the literature, it was observed that, for all the proposed fuel surrogates blends, the numerical approach performed in this research was able to capture qualitative trends for engine power and the target emissions in the whole ranges of engine speeds and engine loads, despite the CO and NOx emissions at specific engine speeds and loads.</description>
-      <author>Leonel R Cancino, Jessica F. Rebelo, Felipe Kraus, Eduardo Homem de Siqueira Cavalcanti, Val&#233;ria S. de B. Pimentel, D&#233;cio Magioli Maia, Ricardo Almeida Barbosa de S&#225;</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/atmos15101224</guid>
+                Converting greenhouse gases into valuable products has become a promising approach for achieving a carbon&#8208;neutral economy and sustainable development. However, the conversion efficiency depends on the energy yield of the substrate. In this study, we developed an electro&#8208;biocatalytic system by integrating electrochemical and microbial processes to upcycle CO2 into a valuable product (ectoine) using renewable energy. This system initiates the electrocatalytic reduction of CO2 to methane, an energy&#8208;dense molecule, which then serves as an electrofuel to energize the growth of an engineered methanotrophic cell factory for ectoine biosynthesis. The scalability of this system was demonstrated using an array of ten 25 cm2 electrochemical cells equipped with a high&#8208;performance carbon&#8208;supported isolated copper catalyst. The system consistently generated methane at the cathode under a total partial current of approximately &#8722;37 A (~175 mmolCH4 h&#8211;1) and O2 at the anode under a total partial current of approximately 62 A (~583 mmolO2 h&#8211;1). This output met the requirements of a 3&#8208;L bioreactor, even at maximum CH4 and O2 consumption, resulting in the high&#8208;yield conversion of CO2 to ectoine (1146.9 mg L&#8211;1). This work underscores the potential of electrifying the biosynthesis of valuable products from CO2, providing a sustainable avenue for biomanufacturing and energy storage.</description>
+      <author>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia</author>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202415445</guid>
+    </item>
+    <item>
+      <title>Scalable Electro&#8208;Biosynthesis of Ectoine from Greenhouse Gases</title>
+      <link>https://doi.org/10.1002/ange.202415445</link>
+      <description>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403475936
+
+                Converting greenhouse gases into valuable products has become a promising approach for achieving a carbon&#8208;neutral economy and sustainable development. However, the conversion efficiency depends on the energy yield of the substrate. In this study, we developed an electro&#8208;biocatalytic system by integrating electrochemical and microbial processes to upcycle CO2 into a valuable product (ectoine) using renewable energy. This system initiates the electrocatalytic reduction of CO2 to methane, an energy&#8208;dense molecule, which then serves as an electrofuel to energize the growth of an engineered methanotrophic cell factory for ectoine biosynthesis. The scalability of this system was demonstrated using an array of ten 25 cm2 electrochemical cells equipped with a high&#8208;performance carbon&#8208;supported isolated copper catalyst. The system consistently generated methane at the cathode under a total partial current of approximately &#8722;37 A (~175 mmolCH4 h&#8211;1) and O2 at the anode under a total partial current of approximately 62 A (~583 mmolO2 h&#8211;1). This output met the requirements of a 3&#8208;L bioreactor, even at maximum CH4 and O2 consumption, resulting in the high&#8208;yield conversion of CO2 to ectoine (1146.9 mg L&#8211;1). This work underscores the potential of electrifying the biosynthesis of valuable products from CO2, providing a sustainable avenue for biomanufacturing and energy storage.</description>
+      <author>Shuqi Guo, Chengbo Li, Xiaohan Huang, Yanjing Su, Chenyue Zhang, Yizhou Dai, Yuan Ji, Rongzhan Fu, Tingting Zheng, Qiang Fei, Daidi Fan, Chuan Xia</author>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202415445</guid>
     </item>
     <item>
       <title>Climate Change Effects in Stock Markets</title>
@@ -727,26 +667,6 @@
       <author>Yang Ju</author>
       <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.54097/430kvj67</guid>
-    </item>
-    <item>
-      <title>Exploring the Nexus between Greenhouse Emissions, Environmental Degradation and Green Energy in Europe: A Critique of the Environmental Kuznets Curve</title>
-      <link>https://doi.org/10.3390/en17205109</link>
-      <description>Alexandra Horobe&#355;, Lucian Bela&#351;cu, Magdalena Radulescu, Daniel Balsalobre&#8208;Lorente, Cosmin-Alin Bo&#355;oroga, Cristina-Carmencita Negreanu, Energies. 17(20)] 2024. https://openalex.org/W4403392329
-
-                This study examines the intricate relationship between economic growth and European environmental degradation via the Environmental Kuznets Curve (EKC). Our results contest the traditional inverted U-shape model of the Environmental Kuznets Curve, indicating that the theory may not be consistently applicable across European countries. Utilizing CS-ARDL and MMQR modelling, we reveal substantial regional disparities. Western European nations demonstrate a typical Environmental Kuznets Curve (EKC) pattern in the short term, characterized by an initial increase in emissions alongside GDP development, followed by a subsequent fall. Conversely, Eastern and Balkan nations exhibit a U-shaped connection, described by an early decline in emissions followed by a subsequent increase as their development levels increase. The influence of renewable energy differs, as it decreases emissions in the short term in Western Europe. However, its long-term impacts are variable, especially when contrasted with its more pronounced effect on emissions in Eastern and Balkan countries. Furthermore, trade openness intensifies environmental degradation in the short-term across all regions, although its long-term impact diminishes, particularly concerning greenhouse gases (GHG). The relationship between renewable energy and trade openness is substantial for the short-term reduction of carbon dioxide emissions, but this effect declines with time. The results indicate that a uniform environmental policy throughout Europe may lack efficacy. Customized strategies to expedite the transition in Western Europe and more specific interventions in Eastern Europe are essential to harmonize economic progress with environmental sustainability. Future research should examine the determinants of the diminishing long-term effects of renewable energy and the interplay between trade and environmental policies.</description>
-      <author>Alexandra Horobe&#355;, Lucian Bela&#351;cu, Magdalena Radulescu, Daniel Balsalobre&#8208;Lorente, Cosmin-Alin Bo&#355;oroga, Cristina-Carmencita Negreanu</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17205109</guid>
-    </item>
-    <item>
-      <title>Carbon Sequestration by Preparing Recycled Cement, Recycled Aggregates, and Recycled Concrete from Construction and Demolition (C&amp;amp;D) Wastes</title>
-      <link>https://doi.org/10.3390/ma17205020</link>
-      <description>Jing Wang, Rong Huang, Junjie Wang, Yi Zhang, Materials. 17(20)] 2024. https://openalex.org/W4403392074
-
-                As the world&#8217;s largest producer of construction waste, China&#8217;s recycling and related policies are of the biggest concern to the world. However, the effective disposal and reuse of this waste has become an important issue since currently China still has a very low recycling ratio compared to developed countries, and most of the waste concrete was only simply broken and used as low-grade recycled aggregates for subgrade cushion, cement stabilized crushed stone, and filler wall. In this paper, a concrete cycle model focusing on how to effectively recycle and utilize waste concrete is put forward to prepare high quality recycled concrete, especially through a series of technical means, such as effective separation, carbon sequestration, and reactivation. Producing high quality recycled concrete can not only replace traditional concrete but also effectively reduce the consumption and waste of raw materials. What&#8217;s more, the calculation results show a potential of significantly carbon sink; for every ton of recycled cement produced, the CO2 emission could be reduced by 0.35&#8211;0.77 tons compared to ordinary Portland cement, corresponding to a reduction of 47%&#8211;94%; and for every ton of recycled concrete produced, the CO2 emission could be reduced by 0.186 tons compared to normal concrete. A yearly CO2 sequestration of 1.4&#8211;3.08 gigatonnes could happen if the ordinary Portland cement could be replaced by the recycled cement around the world. Taking the currently accumulated construction and demolition (C&amp;D) wastes globally, the production of recycled cement, recycled aggregates, and recycled concrete could induce a significant carbon sink in the world.</description>
-      <author>Jing Wang, Rong Huang, Junjie Wang, Yi Zhang</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ma17205020</guid>
     </item>
     <item>
       <title>Entropy-Derived Synthesis of the CuPd Sub-1nm Alloy for CO&lt;sub&gt;2&lt;/sub&gt;-to-acetate Electroreduction</title>
@@ -847,16 +767,6 @@
       <author>Al-Amin Abba Dabo, Andrew Gough, F. Frank Alparslan</author>
       <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/encyclopedia4040101</guid>
-    </item>
-    <item>
-      <title>Incorporation of Nanoalumina in Potassium Feldspar-based Phosphoric Acid Activated Geopolymer Composites: A Sustainable Approach</title>
-      <link>https://doi.org/10.13074/jent.2024.09.243840</link>
-      <description>M. Nanthini, R Ganesan, V.M. Jaganathan, Journal of Environmental Nanotechnology. 13(3)] 2024. https://openalex.org/W4403388437
-
-                This study investigates the potential of potassium feldspar-phosphate-based geopolymer concrete as a sustainable replacement to traditional concrete, addressing the environmental concerns associated with CO2 emissions during cement production. While geopolymer concrete offers a promising path towards sustainability, its performance often falls short of Portland cement concrete. This study investigates the use of nanoalumina in improving the performance of geopolymer concrete. A ternary mix was formulated with potassium feldspar powder, metakaolin and rice husk ash, incorporating varying percentages of nanoalumina geopolymer concrete mixes. The mechanical characteristics of the resulting geopolymer composites were assessed through compressive and split tensile strength tests. The findings revealed that a 4% nanoalumina dosage (GC-N4) yielded the most significant improvement in strength and durability. The GC-N4 mix performed superior in all metrics, demonstrating the highest compressive (41.82 MPa) and split tensile (3.7 Mpa) strengths. Reduction in water absorption and durability aspects were also optimum in GC-N4. These results highlight the potential of incorporating nanoalumina into a ternary mix of potassium feldspar powder, metakaolin and rice husk ash to significantly enhance the overall performance of geopolymer concrete, promoting its wider adoption as a sustainable construction material.</description>
-      <author>M. Nanthini, R Ganesan, V.M. Jaganathan</author>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.13074/jent.2024.09.243840</guid>
     </item>
     <item>
       <title>Warm Arctic-Cold Eurasia pattern helps predict spring wildfire burned area in West Siberia</title>

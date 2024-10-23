@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Oct 22 01:21:29 2024
+Created on Wed Oct 23 01:20:12 2024
 
-Found 28 results from 2024-10-15 to 2024-10-22
+Found 26 results from 2024-10-16 to 2024-10-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## A Dynamic Loop in Halohydrin Dehalogenase HheG Regulates Activity and Enantioselectivity in Epoxide Ring Opening   
-
-OpenAlex: https://openalex.org/W4403401913    
-Open access: True
-    
-[Marcel Staar](https://openalex.org/A5022602809), [Lina Ahlborn](https://openalex.org/A5106365478), [Miquel Estévez‐Gay](https://openalex.org/A5046274286), [Katharina Pallasch](https://openalex.org/A5106359050), [Sílvia Osuna](https://openalex.org/A5009140704), [Anett Schallmey](https://openalex.org/A5078455829), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04815 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c04815?ref=article_openPDF)).
-    
-No abstract    
-
-    
-
-## Screening Ir-Free Trimetallic Alloys with Consideration of Metal Electronegativity and Oxophilicity toward Ammonia Electrooxidation   
-
-OpenAlex: https://openalex.org/W4403403370    
-Open access: False
-    
-[Zhengwei Zhang](https://openalex.org/A5100693501), [Hao Shen](https://openalex.org/A5101511176), [Yongying Wang](https://openalex.org/A5023697038), [Zheming Dong](https://openalex.org/A5101422929), [Tieyu Hu](https://openalex.org/A5081898275), [Zhongti Sun](https://openalex.org/A5049586106), [Juan Yang](https://openalex.org/A5000720000), [Yi Li](https://openalex.org/A5042141359), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05185.
-    
-No abstract    
-
-    
 
 ## Selective Association Enforced by the Confinement Effect To Boost the Regioselectivity of Vinyl Acetate Hydroformylation   
 
