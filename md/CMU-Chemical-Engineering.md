@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Oct 23 01:20:13 2024
+Created on Thu Oct 24 01:20:26 2024
 
-Found 3 results from 2024-10-16 to 2024-10-23
+Found 6 results from 2024-10-17 to 2024-10-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Generation of connections between protein sequence space and chemical space to enable a predictive model for biocatalysis   
-
-OpenAlex: https://openalex.org/W4403430013    
-Open access: True
-    
-[Alan Paton](https://openalex.org/A5039244003), [Daniil A. Boiko](https://openalex.org/A5065327102), [Jonathan C. Perkins](https://openalex.org/A5062326194), [Nicholas Cemalovic](https://openalex.org/A5096130111), [Thiago Reschützegger](https://openalex.org/A5081625865), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), [Alison R. H. Narayan](https://openalex.org/A5002907157), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-w4dtr ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/670c192f51558a15eff5c275/original/generation-of-connections-between-protein-sequence-space-and-chemical-space-to-enable-a-predictive-model-for-biocatalysis.pdf)).
-    
-The application of biocatalysis in synthesis has the potential to offer dramatically streamlined routes toward target molecules, exquisite and tunable catalyst-controlled selectivity, as well as more sustainable processes. Despite these advantages, biocatalytic synthetic strategies can be high risk to implement. Successful execution of these approaches requires identifying an enzyme capable of performing chemistry on a specific intermediate in a synthesis which often calls for extensive screening of enzymes and protein engineering. Strategies for predicting which enzyme is most likely to be compatible with a given small molecule have been hindered by the lack of well-studied biocatalytic reactions. The under exploration of connections between chemical and protein sequence spaces constrains navigation between these two landscapes. Herein, this longstanding challenge is overcome in a two-phase effort relying on high throughput experimentation to populate connections between substrate chemical space and biocatalyst sequence space, and the subsequent development of machine learning models that enable the navigation between these two landscapes. Using a curated library of α-ketoglutarate-dependent non-heme iron (NHI) enzymes, the BioCatSet1 dataset was generated to capture the reactivity of each biocatalyst with >100 substrates. In addition to the discovery of novel chemistry, BioCatSet1 was leveraged to develop a predictive workflow that provides a ranked list of enzymes that have the greatest compatibility with a given substrate. To make this tool accessible to the community, we built CATNIP, an open access web interface to our predictive workflows. We anticipate our approach can be readily expanded to additional enzyme and transformation classes, and will derisk the application of biocatalysis in chemical synthesis.    
-
-    
 
 ## Modifying the Abdul-Razzak & Ghan aerosol activation parameterization (version ARG2000) impacts simulated cloud radiative effects (shown in the UK Met Office Unified Model, version 13.0)   
 
@@ -34,6 +23,50 @@ OpenAlex: https://openalex.org/W4403497188
 Open access: False
     
 [Pratapaditya Ghosh](https://openalex.org/A5005781295), [Katherine J. Evans](https://openalex.org/A5079659440), [Daniel P. Grosvenor](https://openalex.org/A5028113214), [Hyun‐Gyu Kang](https://openalex.org/A5015919898), [Salil Mahajan](https://openalex.org/A5023485909), [Min Xu](https://openalex.org/A5103056228), [Wei Zhang](https://openalex.org/A5100441591), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-2423-supplement.
+    
+No abstract    
+
+    
+
+## Low temperature growth of sub 10-nm particles by ammonium nitrate condensation   
+
+OpenAlex: https://openalex.org/W4403597421    
+Open access: True
+    
+[Neil M. Donahue](https://openalex.org/A5041685684), [Mao Xiao](https://openalex.org/A5101986613), [Ruby Marten](https://openalex.org/A5076543442), [Mingyi Wang](https://openalex.org/A5100768996), [Weimeng Kong](https://openalex.org/A5046351966), [Meredith Schervish](https://openalex.org/A5038957567), [Qing Ye](https://openalex.org/A5100347580), [Victoria Hofbauer](https://openalex.org/A5012274245), [Lubna Dada](https://openalex.org/A5049539173), [Jonathan Duplissy](https://openalex.org/A5088633919), [Henning Finkenzeller](https://openalex.org/A5081639490), [Hamish Gordon](https://openalex.org/A5086004922), [J. Kirkby](https://openalex.org/A5009274507), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Vladimir Makhmutov](https://openalex.org/A5036074857), [Maxim Philippov](https://openalex.org/A5090585494), [Birte Rörup](https://openalex.org/A5022780485), [Rainer Volkamer](https://openalex.org/A5018521569), [Dongyu Wang](https://openalex.org/A5100764279), [Stefan K. Weber](https://openalex.org/A5041814082), [Richard C. Flagan](https://openalex.org/A5012711441), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Imad El Haddad](https://openalex.org/A5080319960), Environmental Science Atmospheres. None(None)] 2024.https://doi.org/10.1039/d4ea00117f.
+    
+Co-condensation of nitric acid and ammonia vapors to form ammonium nitrate transforms from a fully semi-volatile behavior when it is relatively warm (273 K and above, typical of the seasonal...    
+
+    
+
+## Biosensing of Bacterial Secretions via Topological Defects at Smectic Interfaces   
+
+OpenAlex: https://openalex.org/W4403609907    
+Open access: False
+    
+[Vajra S. Badha](https://openalex.org/A5071739884), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Mohamed Amine Gharbi](https://openalex.org/A5020118413), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c02698.
+    
+Characterizing the anchoring properties of smectic liquid crystals (LCs) in contact with bacterial solutions is crucial for developing biosensing platforms. In this study, we investigate the anchoring properties of a smectic LC when exposed to Bacillus subtilis and Escherichia coli bacterial suspensions using interfaces with known anchoring properties. By monitoring the optical response of the smectic film, we successfully distinguish different types of bacteria, leveraging the distinct changes in the LC's response. Through a comprehensive analysis of the interactions between bacterial proteins and the smectic interface, we elucidate the potential underlying mechanisms responsible for these optical changes. Additionally, we introduce the utilization of topological defects, the focal conic domains (FCDs), at the smectic interface as an indicative measure of the bacterial concentration. Our findings contribute to the understanding of bacteria–LC interactions and demonstrate the significant potential of smectic LCs and their defects for biosensing applications, paving the way for advancements in pathogen detection and protein-based sensing.    
+
+    
+
+## Author response for "Low temperature growth of sub 10-nm particles by ammonium nitrate condensation"   
+
+OpenAlex: https://openalex.org/W4403630514    
+Open access: False
+    
+[Neil M. Donahue](https://openalex.org/A5041685684), [Mao Xiao](https://openalex.org/A5101986613), [Ruby Marten](https://openalex.org/A5076543442), [Mingyi Wang](https://openalex.org/A5100768996), [Weimeng Kong](https://openalex.org/A5046351966), [Meredith Schervish](https://openalex.org/A5038957567), [Qing Ye](https://openalex.org/A5100347580), [Victoria Hofbauer](https://openalex.org/A5012274245), [Lubna Dada](https://openalex.org/A5049539173), [Jonathan Duplissy](https://openalex.org/A5088633919), [Henning Finkenzeller](https://openalex.org/A5081639490), [Hamish Gordon](https://openalex.org/A5086004922), [J. Kirkby](https://openalex.org/A5009274507), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Vladimir Makhmutov](https://openalex.org/A5036074857), [Maxim Philippov](https://openalex.org/A5090585494), [Birte Rörup](https://openalex.org/A5022780485), [Rainer Volkamer](https://openalex.org/A5018521569), [Dongyu Wang](https://openalex.org/A5100764279), [Stefan K. Weber](https://openalex.org/A5041814082), [Richard C. Flagan](https://openalex.org/A5012711441), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Imad El Haddad](https://openalex.org/A5080319960), No host. None(None)] 2024.https://doi.org/10.1039/d4ea00117f/v2/response1.
+    
+No abstract    
+
+    
+
+## Solving the security constrained unit commitment problem: Three novel approaches   
+
+OpenAlex: https://openalex.org/W4403631750    
+Open access: False
+    
+[Alessandro Francesco Castelli](https://openalex.org/A5026062813), [Iiro Harjunkoski](https://openalex.org/A5034091365), [Jan Poland](https://openalex.org/A5086584072), [Marco Giuntoli](https://openalex.org/A5042826601), [Emanuele Martelli](https://openalex.org/A5020653800), [Ignacio E. Grossmann](https://openalex.org/A5056017028), International Journal of Electrical Power & Energy Systems. 162(None)] 2024.https://doi.org/10.1016/j.ijepes.2024.110213.
     
 No abstract    
 

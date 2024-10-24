@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Oct 2024 01:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 01:20:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Generation of connections between protein sequence space and chemical space to enable a predictive model for biocatalysis</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-w4dtr</link>
-      <description>Alan Paton, Daniil A. Boiko, Jonathan C. Perkins, Nicholas Cemalovic, Thiago Resch&#252;tzegger, Gabriel dos Passos Gomes, Alison R. H. Narayan, No host. None(None)] 2024. https://openalex.org/W4403430013
-
-                The application of biocatalysis in synthesis has the potential to offer dramatically streamlined routes toward target molecules, exquisite and tunable catalyst-controlled selectivity, as well as more sustainable processes. Despite these advantages, biocatalytic synthetic strategies can be high risk to implement. Successful execution of these approaches requires identifying an enzyme capable of performing chemistry on a specific intermediate in a synthesis which often calls for extensive screening of enzymes and protein engineering. Strategies for predicting which enzyme is most likely to be compatible with a given small molecule have been hindered by the lack of well-studied biocatalytic reactions. The under exploration of connections between chemical and protein sequence spaces constrains navigation between these two landscapes. Herein, this longstanding challenge is overcome in a two-phase effort relying on high throughput experimentation to populate connections between substrate chemical space and biocatalyst sequence space, and the subsequent development of machine learning models that enable the navigation between these two landscapes. Using a curated library of &#945;-ketoglutarate-dependent non-heme iron (NHI) enzymes, the BioCatSet1 dataset was generated to capture the reactivity of each biocatalyst with &gt;100 substrates. In addition to the discovery of novel chemistry, BioCatSet1 was leveraged to develop a predictive workflow that provides a ranked list of enzymes that have the greatest compatibility with a given substrate. To make this tool accessible to the community, we built CATNIP, an open access web interface to our predictive workflows. We anticipate our approach can be readily expanded to additional enzyme and transformation classes, and will derisk the application of biocatalysis in chemical synthesis.</description>
-      <author>Alan Paton, Daniil A. Boiko, Jonathan C. Perkins, Nicholas Cemalovic, Thiago Resch&#252;tzegger, Gabriel dos Passos Gomes, Alison R. H. Narayan</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-w4dtr</guid>
-    </item>
     <item>
       <title>Modifying the Abdul-Razzak &amp;amp; Ghan aerosol activation parameterization (version ARG2000) impacts simulated cloud radiative effects (shown in the UK Met Office Unified Model, version 13.0)</title>
       <link>https://doi.org/10.5194/egusphere-2024-2423</link>
@@ -36,6 +26,46 @@
       <author>Pratapaditya Ghosh, Katherine J. Evans, Daniel P. Grosvenor, Hyun&#8208;Gyu Kang, Salil Mahajan, Min Xu, Wei Zhang, Hamish Gordon</author>
       <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-2423-supplement</guid>
+    </item>
+    <item>
+      <title>Low temperature growth of sub 10-nm particles by ammonium nitrate condensation</title>
+      <link>https://doi.org/10.1039/d4ea00117f</link>
+      <description>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad, Environmental Science Atmospheres. None(None)] 2024. https://openalex.org/W4403597421
+
+                Co-condensation of nitric acid and ammonia vapors to form ammonium nitrate transforms from a fully semi-volatile behavior when it is relatively warm (273 K and above, typical of the seasonal...</description>
+      <author>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00117f</guid>
+    </item>
+    <item>
+      <title>Biosensing of Bacterial Secretions via Topological Defects at Smectic Interfaces</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c02698</link>
+      <description>Vajra S. Badha, Tagbo H. R. Niepa, Mohamed Amine Gharbi, Langmuir. None(None)] 2024. https://openalex.org/W4403609907
+
+                Characterizing the anchoring properties of smectic liquid crystals (LCs) in contact with bacterial solutions is crucial for developing biosensing platforms. In this study, we investigate the anchoring properties of a smectic LC when exposed to Bacillus subtilis and Escherichia coli bacterial suspensions using interfaces with known anchoring properties. By monitoring the optical response of the smectic film, we successfully distinguish different types of bacteria, leveraging the distinct changes in the LC's response. Through a comprehensive analysis of the interactions between bacterial proteins and the smectic interface, we elucidate the potential underlying mechanisms responsible for these optical changes. Additionally, we introduce the utilization of topological defects, the focal conic domains (FCDs), at the smectic interface as an indicative measure of the bacterial concentration. Our findings contribute to the understanding of bacteria&#8211;LC interactions and demonstrate the significant potential of smectic LCs and their defects for biosensing applications, paving the way for advancements in pathogen detection and protein-based sensing.</description>
+      <author>Vajra S. Badha, Tagbo H. R. Niepa, Mohamed Amine Gharbi</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c02698</guid>
+    </item>
+    <item>
+      <title>Author response for "Low temperature growth of sub 10-nm particles by ammonium nitrate condensation"</title>
+      <link>https://doi.org/10.1039/d4ea00117f/v2/response1</link>
+      <description>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad, No host. None(None)] 2024. https://openalex.org/W4403630514
+
+                No abstract</description>
+      <author>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00117f/v2/response1</guid>
+    </item>
+    <item>
+      <title>Solving the security constrained unit commitment problem: Three novel approaches</title>
+      <link>https://doi.org/10.1016/j.ijepes.2024.110213</link>
+      <description>Alessandro Francesco Castelli, Iiro Harjunkoski, Jan Poland, Marco Giuntoli, Emanuele Martelli, Ignacio E. Grossmann, International Journal of Electrical Power &amp; Energy Systems. 162(None)] 2024. https://openalex.org/W4403631750
+
+                No abstract</description>
+      <author>Alessandro Francesco Castelli, Iiro Harjunkoski, Jan Poland, Marco Giuntoli, Emanuele Martelli, Ignacio E. Grossmann</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijepes.2024.110213</guid>
     </item>
   </channel>
 </rss>

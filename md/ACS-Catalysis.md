@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Oct 23 01:20:12 2024
+Created on Thu Oct 24 01:20:25 2024
 
-Found 26 results from 2024-10-16 to 2024-10-23
+Found 32 results from 2024-10-17 to 2024-10-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -287,6 +287,72 @@ OpenAlex: https://openalex.org/W4403565410
 Open access: False
     
 [Qingqin Huang](https://openalex.org/A5059831381), [Yuping Tang](https://openalex.org/A5070060890), [Cong-Zhen Zhang](https://openalex.org/A5112444128), [Zhen Wang](https://openalex.org/A5100422301), [Lei Dai](https://openalex.org/A5078690639), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05345.
+    
+No abstract    
+
+    
+
+## Diverse Mechanisms for the Aromatic Hydroxylation: Insights into the Mechanisms of the Coumarin Hydroxylation by CYP2A6   
+
+OpenAlex: https://openalex.org/W4403583983    
+Open access: True
+    
+[Zhixing Gan](https://openalex.org/A5010317693), [Feng Jian-qiang](https://openalex.org/A5019587287), [Jiabin Yin](https://openalex.org/A5110800786), [Jie Huang](https://openalex.org/A5075403988), [Binju Wang](https://openalex.org/A5091278358), [John Z. H. Zhang](https://openalex.org/A5045389074), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05330 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05330?ref=article_openPDF)).
+    
+No abstract    
+
+    
+
+## Virtual Ligand-Assisted Optimization: A Rational Strategy for Ligand Engineering   
+
+OpenAlex: https://openalex.org/W4403588280    
+Open access: True
+    
+[Wataru Matsuoka](https://openalex.org/A5033502243), [Taihei Oki](https://openalex.org/A5056811970), [Ren Yamada](https://openalex.org/A5110966923), [Tomohiko Yokoyama](https://openalex.org/A5104214003), [Shin‐ichi Suda](https://openalex.org/A5109292186), [Carla M. Saunders](https://openalex.org/A5003129734), [Bastian Bjerkem Skjelstad](https://openalex.org/A5089960526), [Yu Harabuchi](https://openalex.org/A5070699401), [Natalie Fey](https://openalex.org/A5063728069), [Satoru Iwata](https://openalex.org/A5040460257), [Satoshi Maeda](https://openalex.org/A5007539161), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06003.
+    
+No abstract    
+
+    
+
+## Unveiling Intrinsic Charge Transfer Dynamics in Bone-Joint S-Scheme Heterostructures To Promote Photocatalytic Hydrogen Peroxide Generation   
+
+OpenAlex: https://openalex.org/W4403609329    
+Open access: False
+    
+[Yuhui Liu](https://openalex.org/A5100352022), [Xiaoxu Deng](https://openalex.org/A5071283478), [Yi Wang](https://openalex.org/A5100364960), [Qin Luo](https://openalex.org/A5103958617), [Yunxia Liu](https://openalex.org/A5100684455), [Shuang‐Feng Yin](https://openalex.org/A5086761727), [Peng Chen](https://openalex.org/A5100338470), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05031.
+    
+No abstract    
+
+    
+
+## Asymmetric Site-Enabled O–O Coupling in Co3O4 for Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4403624087    
+Open access: False
+    
+[Minghui Cui](https://openalex.org/A5079996275), [Rongjing Guo](https://openalex.org/A5023013259), [Yansong Zhou](https://openalex.org/A5039977437), [Wenqi Zhao](https://openalex.org/A5056090006), [Yanjing Liu](https://openalex.org/A5113300516), [Wenbo Luo](https://openalex.org/A5082312923), [Qiongrong Ou](https://openalex.org/A5103249327), [Shuyu Zhang](https://openalex.org/A5100634783), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04164.
+    
+No abstract    
+
+    
+
+## Merging Consecutive PET Processes within a Metal–Organic Cage for Abiotic–Biotic Combined Photocatalytic Biomass Reforming   
+
+OpenAlex: https://openalex.org/W4403624214    
+Open access: False
+    
+[Zhe Li](https://openalex.org/A5085096243), [Junkai Cai](https://openalex.org/A5044114030), [Lingxiao Wang](https://openalex.org/A5100779979), [Chunying Duan](https://openalex.org/A5058753442), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06018.
+    
+No abstract    
+
+    
+
+## Role of High-Valence Metal Dissolution in Oxygen Evolution Kinetics of the Advanced FeNiOx Catalysts   
+
+OpenAlex: https://openalex.org/W4403624235    
+Open access: False
+    
+[Jun Ke](https://openalex.org/A5087968444), [Jiaxi Zhang](https://openalex.org/A5029153042), [Longhai Zhang](https://openalex.org/A5019925257), [Shunyi He](https://openalex.org/A5113055303), [Chengzhi Zhong](https://openalex.org/A5041745010), [Li Du](https://openalex.org/A5062744012), [Jiajun Huang](https://openalex.org/A5018142547), [Xiaoming Fang](https://openalex.org/A5015015240), [Zhengguo Zhang](https://openalex.org/A5088133681), [Zhiming Cui](https://openalex.org/A5023031181), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04454.
     
 No abstract    
 

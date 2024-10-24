@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Oct 2024 01:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 01:20:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -266,6 +266,66 @@
       <author>Qingqin Huang, Yuping Tang, Cong-Zhen Zhang, Zhen Wang, Lei Dai</author>
       <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05345</guid>
+    </item>
+    <item>
+      <title>Diverse Mechanisms for the Aromatic Hydroxylation: Insights into the Mechanisms of the Coumarin Hydroxylation by CYP2A6</title>
+      <link>https://doi.org/10.1021/acscatal.4c05330</link>
+      <description>Zhixing Gan, Feng Jian-qiang, Jiabin Yin, Jie Huang, Binju Wang, John Z. H. Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403583983
+
+                No abstract</description>
+      <author>Zhixing Gan, Feng Jian-qiang, Jiabin Yin, Jie Huang, Binju Wang, John Z. H. Zhang</author>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05330</guid>
+    </item>
+    <item>
+      <title>Virtual Ligand-Assisted Optimization: A Rational Strategy for Ligand Engineering</title>
+      <link>https://doi.org/10.1021/acscatal.4c06003</link>
+      <description>Wataru Matsuoka, Taihei Oki, Ren Yamada, Tomohiko Yokoyama, Shin&#8208;ichi Suda, Carla M. Saunders, Bastian Bjerkem Skjelstad, Yu Harabuchi, Natalie Fey, Satoru Iwata, Satoshi Maeda, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403588280
+
+                No abstract</description>
+      <author>Wataru Matsuoka, Taihei Oki, Ren Yamada, Tomohiko Yokoyama, Shin&#8208;ichi Suda, Carla M. Saunders, Bastian Bjerkem Skjelstad, Yu Harabuchi, Natalie Fey, Satoru Iwata, Satoshi Maeda</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06003</guid>
+    </item>
+    <item>
+      <title>Unveiling Intrinsic Charge Transfer Dynamics in Bone-Joint S-Scheme Heterostructures To Promote Photocatalytic Hydrogen Peroxide Generation</title>
+      <link>https://doi.org/10.1021/acscatal.4c05031</link>
+      <description>Yuhui Liu, Xiaoxu Deng, Yi Wang, Qin Luo, Yunxia Liu, Shuang&#8208;Feng Yin, Peng Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403609329
+
+                No abstract</description>
+      <author>Yuhui Liu, Xiaoxu Deng, Yi Wang, Qin Luo, Yunxia Liu, Shuang&#8208;Feng Yin, Peng Chen</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05031</guid>
+    </item>
+    <item>
+      <title>Asymmetric Site-Enabled O&#8211;O Coupling in Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c04164</link>
+      <description>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624087
+
+                No abstract</description>
+      <author>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04164</guid>
+    </item>
+    <item>
+      <title>Merging Consecutive PET Processes within a Metal&#8211;Organic Cage for Abiotic&#8211;Biotic Combined Photocatalytic Biomass Reforming</title>
+      <link>https://doi.org/10.1021/acscatal.4c06018</link>
+      <description>Zhe Li, Junkai Cai, Lingxiao Wang, Chunying Duan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624214
+
+                No abstract</description>
+      <author>Zhe Li, Junkai Cai, Lingxiao Wang, Chunying Duan</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06018</guid>
+    </item>
+    <item>
+      <title>Role of High-Valence Metal Dissolution in Oxygen Evolution Kinetics of the Advanced FeNiO&lt;i&gt;&lt;sub&gt;x&lt;/sub&gt;&lt;/i&gt; Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c04454</link>
+      <description>Jun Ke, Jiaxi Zhang, Longhai Zhang, Shunyi He, Chengzhi Zhong, Li Du, Jiajun Huang, Xiaoming Fang, Zhengguo Zhang, Zhiming Cui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624235
+
+                No abstract</description>
+      <author>Jun Ke, Jiaxi Zhang, Longhai Zhang, Shunyi He, Chengzhi Zhong, Li Du, Jiajun Huang, Xiaoming Fang, Zhengguo Zhang, Zhiming Cui</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04454</guid>
     </item>
   </channel>
 </rss>

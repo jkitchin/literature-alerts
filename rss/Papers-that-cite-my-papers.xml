@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Oct 2024 01:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 01:20:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unraveling the phase transition and electrochemical application of MoSe2 material for energy conversion and storage devices</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.160990</link>
-      <description>Muthuraja Velpandian, Priyanka Gupta, Anshid Kuttasseri, Arup Mahata, Suddhasatwa Basu, Applied Surface Science. 677(None)] 2024. https://openalex.org/W4403410060
-
-                No abstract</description>
-      <author>Muthuraja Velpandian, Priyanka Gupta, Anshid Kuttasseri, Arup Mahata, Suddhasatwa Basu</author>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160990</guid>
-    </item>
-    <item>
-      <title>Theoretical investigation of graphdiyne-supported single-cluster catalysts for electroreduction of nitric oxide</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161522</link>
-      <description>Ya Gao, Erpeng Wang, Jian Zhou, Zhimei Sun, Applied Surface Science. None(None)] 2024. https://openalex.org/W4403411757
-
-                No abstract</description>
-      <author>Ya Gao, Erpeng Wang, Jian Zhou, Zhimei Sun</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161522</guid>
-    </item>
-    <item>
-      <title>Synergistic Effect of Cobalt/Ferrocene as a Catalyst for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c02039</link>
-      <description>Jos&#233; M. Abad, Alba Duprat-Alvaro, Raquel Sainz, M.V. Mart&#305;&#769;nez-Huerta, Marcos Pita, Ant&#243;nio L. De Lacey, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4403415342
-
-                There is a great deal of interest in the development of electrocatalysts for the oxygen evolution reaction (OER) that are stable and have high activity because this anodic half-reaction is the main bottleneck in water splitting and other key technologies. Cobalt and iron oxide and oxyhydroxide electrocatalysts constitute a cheaper alternative to the highly active and commonly used Ir- and Ru-based catalysts. Most of the described electrocatalysts require tedious synthetic and expensive preparation procedures. We report here a facile and straightforward preparation of an electrocatalyst by a combination of commercial compounds, such as cobalt chloride and ferrocene. A highly active and stable OER electrocatalyst is obtained, which shows a low overpotential in the alkaline medium as a consequence of a synergistic effect between both compounds and is inexpensive.</description>
-      <author>Jos&#233; M. Abad, Alba Duprat-Alvaro, Raquel Sainz, M.V. Mart&#305;&#769;nez-Huerta, Marcos Pita, Ant&#243;nio L. De Lacey</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02039</guid>
-    </item>
-    <item>
-      <title>Highly asymmetrically configured single atoms anchored on flame-roasting deposited carbon black as cathode catalysts for ultrahigh power density Zn-air batteries</title>
-      <link>https://doi.org/10.1016/j.enchem.2024.100134</link>
-      <description>Yu-Chieh Ting, Chih-Chieh Cheng, Fan-Yu Yen, Guan-Ru Li, Shao-I Chang, Chih&#8208;Heng Lee, Hsin&#8208;Yi Tiffany Chen, Shih&#8208;Yuan Lu, EnergyChem. None(None)] 2024. https://openalex.org/W4403415418
-
-                No abstract</description>
-      <author>Yu-Chieh Ting, Chih-Chieh Cheng, Fan-Yu Yen, Guan-Ru Li, Shao-I Chang, Chih&#8208;Heng Lee, Hsin&#8208;Yi Tiffany Chen, Shih&#8208;Yuan Lu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.enchem.2024.100134</guid>
-    </item>
-    <item>
-      <title>Molecular Simulations of Thermal Transport across Iron Oxide&#8211;Hydrocarbon Interfaces</title>
-      <link>https://doi.org/10.1021/acsami.4c09434</link>
-      <description>F. H. Carman, James P. Ewen, Fernando Bresme, Billy Wu, Daniele Dini, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403416315
-
-                The rational design of dielectric fluids for immersion cooling of batteries requires a molecular-level understanding of the heat flow across the battery casing/dielectric fluid interface. Here, we use nonequilibrium molecular dynamics (NEMD) simulations to quantify the interfacial thermal resistance (ITR) between hematite and poly-&#945;-olefin (PAO), which are representative of the outer surface of the steel battery casing and a synthetic hydrocarbon dielectric fluid, respectively. After identifying the most suitable force fields to model the thermal properties of the individual components, we then compared different solid&#8211;liquid interaction potentials for the calculation of the ITR. These potentials resulted in a wide range of ITR values (4&#8211;21 K m2 GW&#8211;1), with stronger solid&#8211;liquid interactions leading to lower ITR. The increase in ITR is correlated with an increase in density of the fluid layer closest to the surface. Since the ITR has not been experimentally measured for the hematite/PAO interface, we validate the solid&#8211;liquid interaction potential using the work of adhesion calculated using the dry-surface method. The work of adhesion calculations from the simulations were compared to those derived from experimental contact angle measurements for PAO on steel. We find that all of the solid&#8211;liquid potentials overestimate the experimental work of adhesion. The experiments and simulations can only be reconciled by further reducing the strength of the interfacial interactions. This suggests some screening of the solid&#8211;liquid interactions, which may be due to the presence of an interfacial water layer between PAO and steel in the contact angle experiments. Using the solid&#8211;liquid interaction potential that reproduces the experimental work of adhesion, we obtain a higher ITR (33 K m2 GW&#8211;1), suggesting inefficient thermal transport. The results of this study demonstrate the potential for NEMD simulations to improve understanding of the nanoscale thermal transport across industrially important interfaces. This study represents an important step toward the rational design of more effective fluids for immersion cooling systems for electric vehicles and other applications where thermal management is of high importance.</description>
-      <author>F. H. Carman, James P. Ewen, Fernando Bresme, Billy Wu, Daniele Dini</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c09434</guid>
-    </item>
-    <item>
-      <title>Interaction of Nitric Oxide with Late 3d Transition Metals: Dissociation and Metal Oxidation</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03048</link>
-      <description>O. Quinn Carvalho, Hoan K. K. Nguyen, Sri Krishna Murthy Padavala, L&#237;ney &#193;rnad&#243;ttir, Ethan J. Crumlin, Kelsey A. Stoerzinger, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403424207
-
-                Heterogeneous interfaces influence chemical reactions by stabilizing the adsorption of reactive intermediates, lowering activation barriers of rate- and selectivity-determining steps. Here, we elucidate periodic trends in metal surface oxidation resulting from interaction with nitric oxide and subsequent adsorbate reaction chemistry across the late 3d transition-metal series with surface-sensitive ambient-pressure X-ray photoelectron spectroscopy (AP-XPS) and density functional theory calculations. Metals with open d-shell orbitals (e.g., Fe, Co) favor stabilization of nitric oxide dissociation products (nitrogen adatoms, N*), while metals having near (e.g., Ni) or completely (e.g., Cu) closed d shells promote nitric oxide oxidation toward nitrite and lower total nitrogen and N* coverage. Adsorbate core-level (O 1s and N 1s) binding energies capture electron localization around nitrogen, and eventually oxygen, as nitric oxide moves toward dissociation. Metal-nitride covalency increases with decreasing transition metal electronegativity, where nitrogen adatom binding energies decrease as the transition metal d-band is pushed toward the Fermi level. This work illustrates experimental and theoretical relationships between the nature of the d-band in facilitating nitric oxide adsorption and dissociation chemistry, furthering fundamental understanding of the role of metal electronic structure in determining catalytically relevant adsorption properties.</description>
-      <author>O. Quinn Carvalho, Hoan K. K. Nguyen, Sri Krishna Murthy Padavala, L&#237;ney &#193;rnad&#243;ttir, Ethan J. Crumlin, Kelsey A. Stoerzinger</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03048</guid>
-    </item>
-    <item>
-      <title>Reactive scattering of H2 on Cu(111) at 925 K: Effective Hartree potential vs sudden approximation</title>
-      <link>https://doi.org/10.1063/5.0231559</link>
-      <description>B. Smits, Mantu Kumar Sah, Koushik Naskar, Satrajit Adhikari, J&#246;rg Meyer, Mark F. Somers, The Journal of Chemical Physics. 161(15)] 2024. https://openalex.org/W4403430403
-
-                We present new quantum dynamical results for the reactive scattering of hydrogen molecules from a Cu(111) surface at a surface temperature of 925 K. Reaction, scattering, and diffraction probabilities are compared for results obtained using both an effective Hartree potential (EfHP) and a sudden approximation approach, implemented through the static corrugation model (SCM), to include surface temperature effects. Toward this goal, we show how the SRP48 DFT-functional and an embedded atom potential perform when used to calculate copper lattice constants and thermal expansion coefficients based on lattice dynamics calculations within the quasi-harmonic approximation. The so-calculated phonons are then used in the EfHP approach to replace the normal modes of a fictitious copper cluster used in earlier work. We find that both the EfHP and SCM approaches correctly predict the reaction probability curve broadening effect when the surface temperature is increased. Similarly, results for rovibrationally elastic scattering appear to be improved, predominantly for the SCM model. The behavior of the EfHP results appears to remain much closer to that of a Born&#8211;Oppenheimer static surface approach, which excludes any surface temperature effects. Finally, for the diffraction, we show very clear attenuation effects for the SCM approach, significantly decreasing specular diffraction probabilities at 925 K surface temperature. These results demonstrate that state-of-the-art theoretical models are able to reproduce strictly quantum mechanical scattering effects with a sudden approximation model and open up interesting opportunities for further comparisons to experimental diffraction results.</description>
-      <author>B. Smits, Mantu Kumar Sah, Koushik Naskar, Satrajit Adhikari, J&#246;rg Meyer, Mark F. Somers</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0231559</guid>
-    </item>
-    <item>
-      <title>Influence of Capping Ligands on Metal-Nanoparticle-Driven Hydrogen Evolution and CO2 Reduction Reactions</title>
-      <link>https://doi.org/10.1007/3418_2024_116</link>
-      <description>Gerard Mart&#237;, &#193;lvaro Lozano-Roche, Nuria Romero, Laia Franc&#224;s, Karine Philippot, Roger Bofill, Jordi Garc&#305;&#769;a-Ant&#243;n, Xavier Sala, Topics in organometallic chemistry. None(None)] 2024. https://openalex.org/W4403433128
-
-                No abstract</description>
-      <author>Gerard Mart&#237;, &#193;lvaro Lozano-Roche, Nuria Romero, Laia Franc&#224;s, Karine Philippot, Roger Bofill, Jordi Garc&#305;&#769;a-Ant&#243;n, Xavier Sala</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/3418_2024_116</guid>
-    </item>
-    <item>
-      <title>Design of Electrocatalysts with High Performance Based on Thermodynamics and Kinetics: Progress and Prospects</title>
-      <link>https://doi.org/10.1002/adfm.202413826</link>
-      <description>Minshu Du, Feihan Yu, Shumin Gong, Liu Feng, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403433257
-
-                Abstract Efficient and robust electrocatalysts play a central role in clean energy conversion, enabling a number of sustainable processes for future technologies. The traditional explorations of electrocatalyst relying on the trial&#8208;and&#8208;error approaches are definitely tedious and inefficient. Theoretical progresses on reactive thermodynamics and kinetics in recent years have initiated a powerful theory&#8208;guided design strategy of electrocatalysts. Herein, this review first summarizes design principles for reactive activity and stability, presenting the thermodynamics, kinetics, and the synergistic thermokinetic correlation in electrocatalytic reaction. Second, the screening criterion, reasonable design, mechanistic understanding, and performance evaluation of the typical electrocatalysts as divided into the thermodynamics oriented&#8208;, kinetics oriented&#8208;, and thermokinetic correlation oriented&#8208;designs are discussed. The necessity of correlating thermodynamics and kinetics into the rational design and mechanism clarification is highlighted. Finally, the conclusions and perspectives of the development of highly efficient electrocatalysts are proposed.</description>
-      <author>Minshu Du, Feihan Yu, Shumin Gong, Liu Feng</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413826</guid>
-    </item>
-    <item>
-      <title>Coconut Libtool: Bridging Textual Analysis Gaps for Non&#8208;Programmers</title>
-      <link>https://doi.org/10.1002/pra2.1072</link>
-      <description>Faizhal Arif Santosa, Manika Lamba, Crissandra George, J. Stephen Downie, Proceedings of the Association for Information Science and Technology. 61(1)] 2024. https://openalex.org/W4403433714
-
-                ABSTRACT In the era of big and ubiquitous data, professionals and students alike are finding themselves needing to perform a number of textual analysis tasks. Historically, the general lack of statistical expertise and programming skills has stopped many with humanities or social sciences backgrounds from performing and fully benefiting from such analyses. Thus, we introduce Coconut Libtool ( www.coconut-libtool.com/ ), an open&#8208;source, web&#8208;based application that utilizes state&#8208;of&#8208;the&#8208;art natural language processing (NLP) technologies. Coconut Libtool analyzes text data from customized files and bibliographic databases such as Web of Science, Scopus, and Lens. Users can verify which functions can be performed with the data they have. Coconut Libtool deploys multiple algorithmic NLP techniques at the backend, including topic modeling ( LDA, Biterm, and BERTopic algorithms), network graph visualization, keyword lemmatization, and sunburst visualization. Coconut Libtool is the people&#8208;first web application designed to be used by professionals, researchers, and students in the information sciences, digital humanities, and computational social sciences domains to promote transparency, reproducibility, accessibility, reciprocity, and responsibility in research practices.</description>
-      <author>Faizhal Arif Santosa, Manika Lamba, Crissandra George, J. Stephen Downie</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/pra2.1072</guid>
-    </item>
     <item>
       <title>Optimizing the ORR performance of PtMnM ternary intermetallics by tuning the surface strain</title>
       <link>https://doi.org/10.1007/s11426-024-2312-x</link>
@@ -408,6 +308,86 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0226437</guid>
     </item>
     <item>
+      <title>Computational screening of Group V&#8546;@C5N4 single-atom electrocatalysts for overall water splitting</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114619</link>
+      <description>Cuimei Li, Dong Cao, Dandan Guo, Chun&#8208;Ran Chang, Molecular Catalysis. 569(None)] 2024. https://openalex.org/W4403590090
+
+                No abstract</description>
+      <author>Cuimei Li, Dong Cao, Dandan Guo, Chun&#8208;Ran Chang</author>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114619</guid>
+    </item>
+    <item>
+      <title>Supramolecular Catalyzed Cascade Reduction of Azaarenes Interrogated via Data Science</title>
+      <link>https://doi.org/10.1021/jacs.4c11482</link>
+      <description>Sean M. Treacy, Andrew L. Smith, Robert G. Bergman, Kenneth N. Raymond, F. Dean Toste, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403596888
+
+                Catalysis of multicomponent transformations requires controlled assembly of reactants within the active site. Supramolecular scaffolds possess synthetic microenvironments that enable precise modulation over noncovalent interactions (NCIs) engaged by reactive, encapsulated species. While molecular properties that describe the behavior of single guests in host cavities have been studied extensively, multicomponent transformations remain challenging to design and deploy. Here, simple univariate regression and threshold analyses are employed to model reactivity in a cascade reduction of azaarenes catalyzed by water-soluble metal organic cages. Yield and stereoselectivity models help deduce unknown mechanisms of reactivity by the multicomponent, host&#8211;guest complexes. Furthermore, a comprehensive model is established for NCIs driving stereoselectivity in the reported host&#8211;guest adducts.</description>
+      <author>Sean M. Treacy, Andrew L. Smith, Robert G. Bergman, Kenneth N. Raymond, F. Dean Toste</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c11482</guid>
+    </item>
+    <item>
+      <title>Electrode Materials for NO Electroreduction Based on Dithiolene Metal&#8211;Organic Frameworks: A Theoretical Study</title>
+      <link>https://doi.org/10.3390/catal14100739</link>
+      <description>Jiake Fan, Lei Yang, Lixin Ye, Mengyun Mei, Weihua Zhu, Catalysts. 14(10)] 2024. https://openalex.org/W4403601369
+
+                To quickly and efficiently screen catalytic materials with both activity and selectivity for the nitric oxide reduction reaction (NORR), we adopted a strategy that considers the activity of the side reaction hydrogen evolution reaction (HER) first. It can be seen that Fe3(THT)2 (THT = triphenylene-2,3,6,7,10,11-hexathiol) has extremely excellent HER activity, with a Gibbs free energy change (&#916;G) of 0.007 eV. Based on the relationship between &#916;G and theoretical exchange current density, all TM3(THT)2 can be divided into two regions: one is the absolute values of &#916;G greater than 1 eV, the other is the absolute values of &#916;G greater than 0 eV and less than 1eV. Obviously, the candidates with the absolute values of &#916;G greater than 1 eV have poor HER performance, but this precisely provides the possibility of obtaining NORR catalytic materials with both excellent selectivity and activity. Subsequent calculation results show that the maximum &#916;G change of the rate-determining step of Ta3(THT)2 is unexpectedly only 0.05 eV. Therefore, Ta3(THT)2 may be regarded as the NORR catalytic material with both excellent performance and selectivity. Based on the electron transfer and partial density of states (PDOS) analysis, it can be seen that Ta plays a crucial role in the activation stage of NO. The approach that considers the activity of the side reaction HER first may provide a new idea for rapidly screening highly selective and active NORR catalysts.</description>
+      <author>Jiake Fan, Lei Yang, Lixin Ye, Mengyun Mei, Weihua Zhu</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14100739</guid>
+    </item>
+    <item>
+      <title>Proton exchange membrane&#8208;based electrocatalytic systems for hydrogen production</title>
+      <link>https://doi.org/10.1002/cey2.629</link>
+      <description>Yangyang Zhou, H. Zhong, Shanhu Chen, Guobin Wen, Liang Shen, Yanyong Wang, Ru Chen, Li Tao, Wang Shuangyin, Carbon Energy. None(None)] 2024. https://openalex.org/W4403602672
+
+                Abstract Hydrogen energy from electrocatalysis driven by sustainable energy has emerged as a solution against the background of carbon neutrality. Proton exchange membrane (PEM)&#8208;based electrocatalytic systems represent a promising technology for hydrogen production, which is equipped to combine efficiently with intermittent electricity from renewable energy sources. In this review, PEM&#8208;based electrocatalytic systems for H 2 production are summarized systematically from low to high operating temperature systems. When the operating temperature is below 130&#176;C, the representative device is a PEM water electrolyzer; its core components and respective functions, research status, and design strategies of key materials especially in electrocatalysts are presented and discussed. However, strong acidity, highly oxidative operating conditions, and the sluggish kinetics of the anode reaction of PEM water electrolyzers have limited their further development and shifted our attention to higher operating temperature PEM systems. Increasing the temperature of PEM&#8208;based electrocatalytic systems can cause an increase in current density, accelerate reaction kinetics and gas transport and reduce the ohmic value, activation losses, &#916; G H* , and power consumption. Moreover, further increasing the operating temperature (120&#8211;300&#176;C) of PEM&#8208;based devices endows various hydrogen carriers (e.g., methanol, ethanol, and ammonia) with electrolysis, offering a new opportunity to produce hydrogen using PEM&#8208;based electrocatalytic systems. Finally, several future directions and prospects for developing PEM&#8208;based electrocatalytic systems for H 2 production are proposed through devoting more efforts to the key components of devices and reduction of costs.</description>
+      <author>Yangyang Zhou, H. Zhong, Shanhu Chen, Guobin Wen, Liang Shen, Yanyong Wang, Ru Chen, Li Tao, Wang Shuangyin</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cey2.629</guid>
+    </item>
+    <item>
+      <title>ASIMTools: A lightweight framework for scalable and reproducible atomic simulations</title>
+      <link>https://doi.org/10.21105/joss.07085</link>
+      <description>Mgcini Keith Phuthi, Emil Annevelink, Venkatasubramanian Viswanathan, The Journal of Open Source Software. 9(102)] 2024. https://openalex.org/W4403614018
+
+                No abstract</description>
+      <author>Mgcini Keith Phuthi, Emil Annevelink, Venkatasubramanian Viswanathan</author>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21105/joss.07085</guid>
+    </item>
+    <item>
+      <title>Asymmetric Site-Enabled O&#8211;O Coupling in Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c04164</link>
+      <description>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624087
+
+                No abstract</description>
+      <author>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04164</guid>
+    </item>
+    <item>
+      <title>Exploring pyrolusite &#946;-MnO2 as a robust support for noble metal catalysts in proton exchange membrane water electrolysis</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.10.246</link>
+      <description>Nur Tursina, Ashish Gaur, Min Su Cho, Mingony Kim, Kyung Yoon Chung, Sungwook Mhin, H. Han, International Journal of Hydrogen Energy. 92(None)] 2024. https://openalex.org/W4403626456
+
+                No abstract</description>
+      <author>Nur Tursina, Ashish Gaur, Min Su Cho, Mingony Kim, Kyung Yoon Chung, Sungwook Mhin, H. Han</author>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.246</guid>
+    </item>
+    <item>
+      <title>Ir Doping Modulates the Electronic Structure of Flower-Shaped Phosphides for Water Oxidation</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.4c03771</link>
+      <description>Huiyu Sun, Shudi Yu, Jiongting Yin, Jie Li, Jun Yu, Tianpeng Liu, Wanyu Liang, Nannan Zhang, Yangping Zhang, Changqing Ye, Mengyun Hu, Yukou Du, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4403633322
+
+                Electrolysis of water to produce hydrogen is an efficient, clean, and environmentally friendly hydrogen production method with unlimited development prospects. However, its overall efficiency is hampered by the slow oxygen evolution reaction (OER) with complex electron transfer processes. Therefore, designing efficient and low-cost OER catalysts is the key to solving this problem. In this paper, Ir-doped Co</description>
+      <author>Huiyu Sun, Shudi Yu, Jiongting Yin, Jie Li, Jun Yu, Tianpeng Liu, Wanyu Liang, Nannan Zhang, Yangping Zhang, Changqing Ye, Mengyun Hu, Yukou Du</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03771</guid>
+    </item>
+    <item>
       <title>In situ examination of oxygen vacancy dynamics in epitaxial LaCoO3 thin films</title>
       <link>https://doi.org/10.1051/bioconf/202412922033</link>
       <description>Seung Jo Yoo, Jihyun Lee, Sang&#8208;Gil Lee, Hyung Joong Yun, BIO Web of Conferences. 129(None)] 2024. https://openalex.org/W4403496353
@@ -438,14 +418,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2024.112486</guid>
     </item>
     <item>
-      <title>Predicting Crystalline Material Properties with AI: Bridging Molecular to Particle Scales</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c03224</link>
-      <description>Weiye Chen, Muyang Li, Tuo Yao, &#1041;&#1086; &#1051;&#1102;, Shengzhe Jia, Zhenguo Gao, Junbo Gong, Industrial &amp; Engineering Chemistry Research. None(None)] 2024. https://openalex.org/W4403423791
+      <title>Understanding the involvement/exclusion paradox in disaster volunteering from a field-theoretical perspective</title>
+      <link>https://doi.org/10.1016/j.ijdrr.2024.104913</link>
+      <description>Sandra Maria Pfister, International Journal of Disaster Risk Reduction. None(None)] 2024. https://openalex.org/W4403633029
 
                 No abstract</description>
-      <author>Weiye Chen, Muyang Li, Tuo Yao, &#1041;&#1086; &#1051;&#1102;, Shengzhe Jia, Zhenguo Gao, Junbo Gong</author>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c03224</guid>
+      <author>Sandra Maria Pfister</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijdrr.2024.104913</guid>
     </item>
     <item>
       <title>Porosity Prediction using Bagging Ensemble Machine Learning in CCUS Reservoirs. A Case Study: Darling Basin, Australia</title>
@@ -456,6 +436,16 @@
       <author>Kushan Sandunil, Ziad Bennour, Saaveethya Sivakumar, Hisham Ben Mahmud, Ausama Giwelli</author>
       <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4964600/v1</guid>
+    </item>
+    <item>
+      <title>Active and Stable Plasma-Enhanced ALD Pt@Ni-YSZ Hydrogen Electrode for Steam Reversible Solid Oxide Cells</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124740</link>
+      <description>Hyong June Kim, Haoyu Li, Dae&#8208;Hyun Kim, Geonwoo Park, Sung Eun Jo, Kyoungjae Ju, Geongu Han, Yongchai Kwon, Haesun Park, Min Hwan Lee, Jihwan An, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4403601128
+
+                No abstract</description>
+      <author>Hyong June Kim, Haoyu Li, Dae&#8208;Hyun Kim, Geonwoo Park, Sung Eun Jo, Kyoungjae Ju, Geongu Han, Yongchai Kwon, Haesun Park, Min Hwan Lee, Jihwan An</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124740</guid>
     </item>
   </channel>
 </rss>
