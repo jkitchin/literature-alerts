@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Oct 2024 01:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 01:21:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimizing the ORR performance of PtMnM ternary intermetallics by tuning the surface strain</title>
-      <link>https://doi.org/10.1007/s11426-024-2312-x</link>
-      <description>Min Young Song, Guanyu Luo, Qian Zhang, Hanyu Hu, Deli Wang, Science China Chemistry. None(None)] 2024. https://openalex.org/W4403453751
-
-                No abstract</description>
-      <author>Min Young Song, Guanyu Luo, Qian Zhang, Hanyu Hu, Deli Wang</author>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11426-024-2312-x</guid>
-    </item>
-    <item>
-      <title>Chlorine vacancy&#8722;induced activation in two&#8722;dimensional transition metal dichlorides nanosheets for efficient CO electroreduction to C2+ products</title>
-      <link>https://doi.org/10.1016/j.jmst.2024.09.032</link>
-      <description>Qiwen Su, L. Chen, Lichang Yin, Jingxiang Zhao, Journal of Material Science and Technology. None(None)] 2024. https://openalex.org/W4403457046
-
-                No abstract</description>
-      <author>Qiwen Su, L. Chen, Lichang Yin, Jingxiang Zhao</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.09.032</guid>
-    </item>
-    <item>
-      <title>Mn-doped Bi2O3 grown on PTFE-treated carbon paper for electrochemical CO2-to-formate production</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115798</link>
-      <description>Junjie Shi, Paulina Pr&#353;lja, Milla Suominen, Benjin Jin, Jouko Lahtinen, Lilian Moumaneix, Xiangze Kong, Tanja Kallio, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4403457987
-
-                No abstract</description>
-      <author>Junjie Shi, Paulina Pr&#353;lja, Milla Suominen, Benjin Jin, Jouko Lahtinen, Lilian Moumaneix, Xiangze Kong, Tanja Kallio</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115798</guid>
-    </item>
-    <item>
-      <title>An Integrated Approach Combining Experimental, Informatics and Energetic Methods for Solid Form Derisking of PF-06282999</title>
-      <link>https://doi.org/10.1016/j.xphs.2024.10.013</link>
-      <description>G. Sadiq, Shubham Sharma, Joanna S. Stevens, Pablo Mart&#237;nez-Bulit, Lily M. Hunnisett, Christopher P. Cameron, Brian Samas, Emma Hawking, Nicholas Francia, Jeff Lengyel, Elna Pidcock, Sadia Isfat Ara Rahman, Matthew L. Nisbet, Kevin Back, C.L. Doherty, Patricia Basford, Timothy G. Cooper, Garry O'Connor, Rajni M. Bhardwaj, Journal of Pharmaceutical Sciences. None(None)] 2024. https://openalex.org/W4403458371
-
-                The landscapes of observed and predicted three-dimensional crystal packing arrangements of small-molecule drug candidates can be complex. The possible appearance of a more thermodynamically stable solid form during drug development has led to the digital workflow of informatics-based risk assessments, named a Solid Form Health Check. Herein, we describe the use of a combined approach consisting of experiments, informatics together with energetic calculations in analysis of four competing polymorphs of PF-06282999, a myeloperoxidase (MPO) inhibitor with conformational flexibility and multiple plausible hydrogen bond networks. This combined approach offered a comprehensive understanding of the solid form structure, properties, and performance, ensuring robust solid form derisking and selection.</description>
-      <author>G. Sadiq, Shubham Sharma, Joanna S. Stevens, Pablo Mart&#237;nez-Bulit, Lily M. Hunnisett, Christopher P. Cameron, Brian Samas, Emma Hawking, Nicholas Francia, Jeff Lengyel, Elna Pidcock, Sadia Isfat Ara Rahman, Matthew L. Nisbet, Kevin Back, C.L. Doherty, Patricia Basford, Timothy G. Cooper, Garry O'Connor, Rajni M. Bhardwaj</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.xphs.2024.10.013</guid>
-    </item>
-    <item>
-      <title>Machine Learning-Enhanced Screening of Single-Atom Alloy Clusters for Nitrogen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsami.4c12184</link>
-      <description>Arunendu Das, Diptendu Roy, A. Das, Biswarup Pathak, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403462161
-
-                The electrochemical nitrogen reduction reaction (eNRR) under ambient conditions is a promising method to generate ammonia (NH3), a crucial precursor for fertilizers and chemicals, without carbon emissions. Single-atom alloy catalysts (SAACs) have reinvigorated catalytic processes due to their high activity, selectivity, and efficient use of active atoms. Here, we employed density functional theory (DFT) calculations integrated with machine learning (ML) to investigate dodecahedral nanocluster-based SAACs for analyzing structure&#8211;activity relationships in eNRR. Over 300 nanocluster-based SAACs were screened with all the transition metals as dopants to develop an ML model predicting stability and catalytic performance. Facet sites were identified as optimal doping positions, particularly with late group transition metals showing superior stability and activity. Utilizing DFT+ML, we identified 8 highly suitable SAACs for eNRR. Interestingly, the number of valence d-electrons in dopants proved crucial in screening for eNRR activity. These catalysts exhibited low activity in hydrogen evolution reaction, further enhancing their suitability for eNRR. This successful ML-driven approach accelerates catalyst design and discovery, holding significant practical implications.</description>
-      <author>Arunendu Das, Diptendu Roy, A. Das, Biswarup Pathak</author>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c12184</guid>
-    </item>
-    <item>
-      <title>Enhanced CO2-to-CH4 conversion via grain boundary oxidation effect in CuAg systems</title>
-      <link>https://doi.org/10.1016/j.cej.2024.156728</link>
-      <description>Lei Wang, Xue Yao, Yi Xiao, Cheng Du, Xiyang Wang, Dmitry Akhmetzyanov, Zuolong Chen, Youchao Teng, Tao Guo, Yongzan Zhou, Joel P. Mills, Ning Chen, Weifeng Chen, Brant Billinghurst, Khaled M. Ibrahim, Jamie H. Warner, Chandra Veer Singh, Zhongchao Tan, Samira Siahrostami, Yimin A. Wu, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403466206
-
-                No abstract</description>
-      <author>Lei Wang, Xue Yao, Yi Xiao, Cheng Du, Xiyang Wang, Dmitry Akhmetzyanov, Zuolong Chen, Youchao Teng, Tao Guo, Yongzan Zhou, Joel P. Mills, Ning Chen, Weifeng Chen, Brant Billinghurst, Khaled M. Ibrahim, Jamie H. Warner, Chandra Veer Singh, Zhongchao Tan, Samira Siahrostami, Yimin A. Wu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156728</guid>
-    </item>
-    <item>
-      <title>Atomically dispersed ruthenium single-atom alloy catalysts enabling efficient iodide oxidation reaction electrolysis in acidic media</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.10.155</link>
-      <description>Dessalew Berihun Adam, Wei&#8208;Hsiang Huang, Meng&#8722;Che Tsai, Wei&#8208;Nien Su, Bing&#8208;Joe Hwang, International Journal of Hydrogen Energy. 91(None)] 2024. https://openalex.org/W4403468069
-
-                No abstract</description>
-      <author>Dessalew Berihun Adam, Wei&#8208;Hsiang Huang, Meng&#8722;Che Tsai, Wei&#8208;Nien Su, Bing&#8208;Joe Hwang</author>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.155</guid>
-    </item>
-    <item>
-      <title>Fleeting-Active-Site-Thrust Oxygen Evolution Reaction by Iron Cations from the Electrolyte</title>
-      <link>https://doi.org/10.1021/jacs.4c09585</link>
-      <description>Zeyu Wang, Hai Xiao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403471736
-
-                Oxygen evolution reaction (OER) is key to sustainable energy and environmental engineering, thus necessitating rational design of high-performing electrocatalysts that requires understanding the structure-performance relationship with a possible dynamic nature under working conditions. Herein, we uncover a novel type of OER mechanisms thrust by the fleeting active sites (FASs) dynamically formed on Ni-based layered double hydroxides (Ni-LDHs) by Fe cations from the electrolyte under OER potentials. We employ grand-canonical ensemble methods and microkinetic modeling to elucidate the potential-dependent structures of FASs on Ni-LDHs and demonstrate that the fleeting-active-site-thrust (FAST) mechanism delivers superior OER activity via the FAST intramolecular oxygen coupling pathway, which also suppresses the lattice oxygen mechanism, leading to improved operando stability of Ni-LDHs. We further reveal that introducing only trace-level loadings (10-100 ppm) of FASs on Ni-LDHs can significantly boost and govern the catalytic performance for OER. This underscores the crucial importance of considering the novel FAST mechanism in OER and also suggests the electrolyte as a key part of the structure-performance relationship as well as an effective design strategy via engineering the electrolyte.</description>
-      <author>Zeyu Wang, Hai Xiao</author>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c09585</guid>
-    </item>
-    <item>
-      <title>Computational insight into the selectivity of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1392" altimg="si14.svg"&gt;&lt;mml:mi&gt;&#947;&lt;/mml:mi&gt;&lt;/mml:math&gt;-valerolactone hydrodeoxygenation over Rh(111) and Ru(0001)</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122624</link>
-      <description>Minttu M. Kauppinen, Ewa N. Szlapa, Jos&#233; Luis Gonz&#225;lez Escobedo, Riikka L. Puurunen, Karoliina Honkala, Surface Science. None(None)] 2024. https://openalex.org/W4403472824
-
-                No abstract</description>
-      <author>Minttu M. Kauppinen, Ewa N. Szlapa, Jos&#233; Luis Gonz&#225;lez Escobedo, Riikka L. Puurunen, Karoliina Honkala</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122624</guid>
-    </item>
-    <item>
-      <title>Catalyst Screening and Mechanism Elucidation of Two-Dimensional Transition Metal Coordinated Porphyrin-Analogue Materials for Nitrogen Fixation</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c04313</link>
-      <description>Wenfeng Hu, Bingyi Song, Li&#8208;Ming Yang, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403480668
-
-                No abstract</description>
-      <author>Wenfeng Hu, Bingyi Song, Li&#8208;Ming Yang</author>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04313</guid>
-    </item>
     <item>
       <title>Research progress and prospects of unitized regenerative fuel cells</title>
       <link>https://doi.org/10.1360/tb-2024-0560</link>
@@ -388,6 +288,76 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03771</guid>
     </item>
     <item>
+      <title>Theoretical insights into efficient electrocatalysts for nitrogen reduction reaction by transition metal atoms supported on g-C3N4</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.114932</link>
+      <description>Pengfei Ma, Rui Wang, Chengsong Liu, Pengfei Liu, Chaozheng He, Wei Song, Tao Zhang, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4403645722
+
+                No abstract</description>
+      <author>Pengfei Ma, Rui Wang, Chengsong Liu, Pengfei Liu, Chaozheng He, Wei Song, Tao Zhang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114932</guid>
+    </item>
+    <item>
+      <title>Single&#8208;Nanometer Spinel with Precise Cation Distribution for Enhanced Oxygen Reduction</title>
+      <link>https://doi.org/10.1002/adma.202413141</link>
+      <description>Long Shang, Youxuan Ni, Yuankun Wang, Wenxuan Yang, Linyue Wang, Haixia Li, Kai Zhang, Zhenhua Yan, Jun Chen, Advanced Materials. None(None)] 2024. https://openalex.org/W4403646233
+
+                Abstract Designing spinel nanocrystals (NCs) with tailored structural composition and cation distribution is crucial for superior catalytic performance but remarkably challenging due to their intricate nature. Here, an aggregation growth restricted hot&#8208;injection method is presented by meticulously investigating the fundamental nucleation and aggregation&#8208;driven growth kinetics governing spinel NC formation to address this challenge. Through controlled collision probability of nuclei during growth, this approach enables the synthesis of spinel NCs with unprecedented, single nanometer (1.2 nm). Single&#8208;nanometer CoMn 2 O 4 spinel via this method exhibits a highly tailored structure with a maximized population of highly active octahedral Mn atoms, thereby optimizing oxygen intermediate adsorption during oxygen reduction reaction (ORR). Consequently, it exhibits a remarkable half&#8208;wave potential of 0.88 V in ORR and leads to a superior power density (170.9 mW cm &#8722;2 ) in zinc&#8211;air battery, outperforming commercial Pt/C and most reported spinel oxides, revealing a clear structure&#8211;property relationship. This structure design strategy is readily adaptable for the precise synthesis and engineering of various spinel structures, opening new avenues for developing advanced electrocatalysts and energy storage materials.</description>
+      <author>Long Shang, Youxuan Ni, Yuankun Wang, Wenxuan Yang, Linyue Wang, Haixia Li, Kai Zhang, Zhenhua Yan, Jun Chen</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202413141</guid>
+    </item>
+    <item>
+      <title>Origin of unique electronic structures of single-atom alloys unraveled by interpretable deep learning</title>
+      <link>https://doi.org/10.1063/5.0232141</link>
+      <description>Yang Huang, Shih&#8208;Han Wang, Luke E. K. Achenie, Kamal Choudhary, Hongliang Xin, The Journal of Chemical Physics. 161(16)] 2024. https://openalex.org/W4403649617
+
+                We uncover the origin of unique electronic structures of single-atom alloys (SAAs) by interpretable deep learning. The approach integrates tight-binding moment theory with graph neural networks to accurately describe the local electronic structure of transition and noble metal sites upon perturbation. We emphasize the complex interplay of interatomic orbital coupling and on-site orbital resonance, which shapes the d-band characteristics of an active site, shedding light on the origin of free-atom-like d-states that are often observed in SAAs involving d10 metal hosts. This theory-infused neural network approach significantly enhances our understanding of the electronic properties of single-site catalytic materials beyond traditional theories.</description>
+      <author>Yang Huang, Shih&#8208;Han Wang, Luke E. K. Achenie, Kamal Choudhary, Hongliang Xin</author>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0232141</guid>
+    </item>
+    <item>
+      <title>Progress and challenges in structural, &lt;i&gt;in situ&lt;/i&gt; and &lt;i&gt;operando&lt;/i&gt; characterization of single-atom catalysts by X-ray based synchrotron radiation techniques</title>
+      <link>https://doi.org/10.1039/d3cs00967j</link>
+      <description>Yuhang Liu, Xiaozhi Su, Jie Ding, Jing Zhou, Zhen Liu, Xiangjun Wei, Hong Bin Yang, Bin Liu, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4403655107
+
+                Single-atom catalysts (SACs) represent the ultimate size limit of nanoscale catalysts, combining the advantages of homogeneous and heterogeneous catalysts.</description>
+      <author>Yuhang Liu, Xiaozhi Su, Jie Ding, Jing Zhou, Zhen Liu, Xiangjun Wei, Hong Bin Yang, Bin Liu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cs00967j</guid>
+    </item>
+    <item>
+      <title>Tailoring reactivity of small Ag/Pt bimetallic cluster for ORR: A comprehensive study using density functional theory approach</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.115102</link>
+      <description>Sandeep Nigam, Chiranjib Majumder, Catalysis Today. None(None)] 2024. https://openalex.org/W4403656378
+
+                No abstract</description>
+      <author>Sandeep Nigam, Chiranjib Majumder</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115102</guid>
+    </item>
+    <item>
+      <title>Unveiling the multifaceted potential of copper sulfide heterojunctions for sustainable energy solutions</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.10.042</link>
+      <description>Ahmad Farhan, Aman Khalid, Wajeeha Qayyum, Saima Noreen, Asim Jilani, Rizwan Haider, Qamar Abbas, Muhammad Zahid, International Journal of Hydrogen Energy. 92(None)] 2024. https://openalex.org/W4403672940
+
+                No abstract</description>
+      <author>Ahmad Farhan, Aman Khalid, Wajeeha Qayyum, Saima Noreen, Asim Jilani, Rizwan Haider, Qamar Abbas, Muhammad Zahid</author>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.042</guid>
+    </item>
+    <item>
+      <title>Bifunctional Oxygen Reduction/Evolution Reaction Activity of Transition Metal-Doped T-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;2&lt;/sub&gt; Monolayer: A Density Functional Theory Study Assisted by Machine Learning</title>
+      <link>https://doi.org/10.1021/acsanm.4c04467</link>
+      <description>Jing Zhang, Lin Ju, Zhenjie Tang, Shu Zhang, Genqiang Zhang, Wentao Wang, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4403674764
+
+                No abstract</description>
+      <author>Jing Zhang, Lin Ju, Zhenjie Tang, Shu Zhang, Genqiang Zhang, Wentao Wang</author>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c04467</guid>
+    </item>
+    <item>
       <title>In situ examination of oxygen vacancy dynamics in epitaxial LaCoO3 thin films</title>
       <link>https://doi.org/10.1051/bioconf/202412922033</link>
       <description>Seung Jo Yoo, Jihyun Lee, Sang&#8208;Gil Lee, Hyung Joong Yun, BIO Web of Conferences. 129(None)] 2024. https://openalex.org/W4403496353
@@ -416,6 +386,16 @@
       <author>S Grishin Il'Ya</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2024.112486</guid>
+    </item>
+    <item>
+      <title>CeO2-conjugated CoFe layered double oxides as efficient non-noble metal catalysts for NH3-decomposition enabling carbon-free hydrogen production</title>
+      <link>https://doi.org/10.1016/j.cej.2024.156986</link>
+      <description>Su&#8208;Un Lee, Thien An Le, Youngmin Kim, You&#8208;Jin Lee, Jeong-Rang Kim, Tae&#8208;Wan Kim, Kwang-Eun Jeong, Ho&#8208;Jeong Chae, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403656953
+
+                No abstract</description>
+      <author>Su&#8208;Un Lee, Thien An Le, Youngmin Kim, You&#8208;Jin Lee, Jeong-Rang Kim, Tae&#8208;Wan Kim, Kwang-Eun Jeong, Ho&#8208;Jeong Chae</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156986</guid>
     </item>
     <item>
       <title>Understanding the involvement/exclusion paradox in disaster volunteering from a field-theoretical perspective</title>

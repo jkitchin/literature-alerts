@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Oct 24 01:20:26 2024
+Created on Fri Oct 25 01:21:18 2024
 
-Found 6 results from 2024-10-17 to 2024-10-24
+Found 7 results from 2024-10-18 to 2024-10-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -69,5 +69,16 @@ Open access: False
 [Alessandro Francesco Castelli](https://openalex.org/A5026062813), [Iiro Harjunkoski](https://openalex.org/A5034091365), [Jan Poland](https://openalex.org/A5086584072), [Marco Giuntoli](https://openalex.org/A5042826601), [Emanuele Martelli](https://openalex.org/A5020653800), [Ignacio E. Grossmann](https://openalex.org/A5056017028), International Journal of Electrical Power & Energy Systems. 162(None)] 2024.https://doi.org/10.1016/j.ijepes.2024.110213.
     
 No abstract    
+
+    
+
+## Vibrationally Assisted Tunneling through the Bread of a Proton Sandwich - Connections to Dynamic Matching   
+
+OpenAlex: https://openalex.org/W4403647238    
+Open access: False
+    
+[Yusef Ahmed](https://openalex.org/A5004687477), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), [Dean J. Tantillo](https://openalex.org/A5079094106), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-n8688.
+    
+Proton sandwiches are unusual non-classical carbocations characterized by a five-center, four-electron bonding array which rapidly isomerize to lower energy isomers with three-center, two-electron bonding arrays via hydrogen migration transition states. These reactions are suspected to involve significant contributions from tunneling, even at relatively high temperatures. Machine-learning-accelerated ring-polymer, quasi-classical, and classical ab initio molecular dynamics simulations were used to investigate the effects of a flavor of dynamic matching that involves coupling of vibrational modes of the reactant to the imaginary mode of the transition state, and how quantum mechanical tunneling affects this coupling. These non-statistical dynamic effects were quantified by analysis of momentum in the molecular dynamics simulations. We show the importance of momentum for reactivity with and without tunneling, how tunneling amplifies these benefits, and that vibrational modes can be leveraged to generate beneficial momentum.    
 
     
