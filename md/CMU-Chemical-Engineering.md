@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Oct 25 01:21:18 2024
+Created on Sat Oct 26 01:18:48 2024
 
-Found 7 results from 2024-10-18 to 2024-10-25
+Found 5 results from 2024-10-19 to 2024-10-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Modifying the Abdul-Razzak & Ghan aerosol activation parameterization (version ARG2000) impacts simulated cloud radiative effects (shown in the UK Met Office Unified Model, version 13.0)   
-
-OpenAlex: https://openalex.org/W4403497021    
-Open access: True
-    
-[Pratapaditya Ghosh](https://openalex.org/A5005781295), [Katherine J. Evans](https://openalex.org/A5079659440), [Daniel P. Grosvenor](https://openalex.org/A5028113214), [Hyun‐Gyu Kang](https://openalex.org/A5015919898), [Salil Mahajan](https://openalex.org/A5023485909), [Min Nina Xu](https://openalex.org/A5014558136), [Wei Zhang](https://openalex.org/A5100441591), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-2423.
-    
-Abstract. The representation of aerosol activation is a key source of uncertainty in global composition-climate model simulations of aerosol-cloud interactions. The Abdul-Razzak and Ghan (ARG) activation parameterization is used in several global and regional models that employ modal aerosol microphysics schemes. In this study, we investigate the ability of the ARG parameterization to reproduce simulations with a cloud parcel model, and find its performance is sensitive to the geometric standard deviations (widths) of the lognormal aerosol modes. We recommend adjustments to three constant parameters in the ARG equations, which improve the performance of the parameterization for small mode widths and its ability to simulate activation in polluted conditions. For the accumulation mode width of 1.4 used in the Met Office Unified Model (UM), our modifications decrease the mean bias in the activated fraction of aerosols compared to a cloud parcel model from -6.6 % to +1.2 %. We implemented our improvements in the UM and compared simulated global cloud droplet concentrations with satellite observations. The simulated cloud radiative effect changes by -1.43 Wm-2 and aerosol indirect radiative forcing over the industrial period changes by -0.10 Wm-2.    
-
-    
-
-## Supplementary material to "Modifying the Abdul-Razzak & Ghan aerosol activation parameterization (version ARG2000) impacts simulated cloud radiative effects (shown in the UK Met Office Unified Model, version 13.0)"   
-
-OpenAlex: https://openalex.org/W4403497188    
-Open access: False
-    
-[Pratapaditya Ghosh](https://openalex.org/A5005781295), [Katherine J. Evans](https://openalex.org/A5079659440), [Daniel P. Grosvenor](https://openalex.org/A5028113214), [Hyun‐Gyu Kang](https://openalex.org/A5015919898), [Salil Mahajan](https://openalex.org/A5023485909), [Min Xu](https://openalex.org/A5103056228), [Wei Zhang](https://openalex.org/A5100441591), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-2423-supplement.
-    
-No abstract    
-
-    
 
 ## Low temperature growth of sub 10-nm particles by ammonium nitrate condensation   
 
