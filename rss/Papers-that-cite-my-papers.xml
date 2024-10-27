@@ -4,129 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Oct 2024 01:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 01:26:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>TM@MoSSe (TM = Ni, Fe) as novel electrocatalysts for reduction of CO2to CO: A DFT study</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.114929</link>
-      <description>Yu-Pu He, Tian-Hao Guo, Shao-Yi Wu, Shungui Zuo, Jinming Fu, Xiaoyu Li, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4403527857
-
-                No abstract</description>
-      <author>Yu-Pu He, Tian-Hao Guo, Shao-Yi Wu, Shungui Zuo, Jinming Fu, Xiaoyu Li</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114929</guid>
-    </item>
-    <item>
-      <title>Reducing the overpotential of overall water spitting by micro-pump-like electrode engineering</title>
-      <link>https://doi.org/10.1016/j.cej.2024.156788</link>
-      <description>Tianbiao Zeng, Jie Lin, Biao Wang, Binbin Guo, Yi&#8208;hong Ding, Chang Q. Sun, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403529736
-
-                No abstract</description>
-      <author>Tianbiao Zeng, Jie Lin, Biao Wang, Binbin Guo, Yi&#8208;hong Ding, Chang Q. Sun</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156788</guid>
-    </item>
-    <item>
-      <title>Influence of Different Morphologies on the Catalytic Activity of Pt-Pd Nanostructures for Methanol Oxidation</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145241</link>
-      <description>Dara Silva Santos, Aline B. Trench, I. M. Costa, Mauro C. Santos, Katlin I.B. Eguiluz, Giancarlo R. Salazar&#8208;Banda, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4403531691
-
-                No abstract</description>
-      <author>Dara Silva Santos, Aline B. Trench, I. M. Costa, Mauro C. Santos, Katlin I.B. Eguiluz, Giancarlo R. Salazar&#8208;Banda</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145241</guid>
-    </item>
-    <item>
-      <title>Cu surface plasmon resonance promoted charge transfer in S-scheme system enhanced visible light photocatalytic hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.10.087</link>
-      <description>Xingyan Yang, Nan Yang, Zhishi Qiu, Guoyang Qiu, Tong Zhou, Weijie Zhan, Yuandong Shen, Ke Wang, Chunting Zhao, Feng Liu, Hao Cui, Jianhong Zhao, Yumin Zhang, Qingju Liu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4403531720
-
-                No abstract</description>
-      <author>Xingyan Yang, Nan Yang, Zhishi Qiu, Guoyang Qiu, Tong Zhou, Weijie Zhan, Yuandong Shen, Ke Wang, Chunting Zhao, Feng Liu, Hao Cui, Jianhong Zhao, Yumin Zhang, Qingju Liu</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.087</guid>
-    </item>
-    <item>
-      <title>Highly stable and active catalyst in fuel cells through surface atomic ordering</title>
-      <link>https://doi.org/10.1126/sciadv.ado4935</link>
-      <description>Ma Yanling, Jiaheng Peng, Jiakang Tian, Wenpei Gao, Jialiang Xu, Fan Li, Peter Tieu, Hao Hu, Yi Wu, Yuanlong Zhao, Lei Pan, Wen Shang, Peng Tao, Chengyi Song, Hong Zhu, Xiaoqing Pan, Tao Deng, Jianbo Wu, Science Advances. 10(42)] 2024. https://openalex.org/W4403533158
-
-                Shape-controlled alloy nanoparticle catalysts have been shown to exhibit improved performance in the oxygen reduction reaction (ORR) in liquid half-cells. However, translating the success to catalyst layers in fuel cells faces challenges due to the more demanding operation conditions in membrane electrode assembly (MEA). Balancing durability and activity is crucial. Here, we developed a strategy that limits the atomic diffusion within surface layers, fostering the phase transition and shape retention during thermal treatment. This enables selective transformation of platinum-iron nanowire surfaces into intermetallic structures via atomic ordering at a low temperature. The catalysts exhibit enhanced MEA stability with 50% less Fe loss while maintaining high catalytic activity comparable to that in half-cells. Density functional calculations suggest that the ordered intermetallic surface stabilizes morphology against rapid corrosion and improves the ORR activity. The surface engineering through atomic ordering presents potential for practical application in fuel cells with shape-controlled Pt-based alloy catalysts.</description>
-      <author>Ma Yanling, Jiaheng Peng, Jiakang Tian, Wenpei Gao, Jialiang Xu, Fan Li, Peter Tieu, Hao Hu, Yi Wu, Yuanlong Zhao, Lei Pan, Wen Shang, Peng Tao, Chengyi Song, Hong Zhu, Xiaoqing Pan, Tao Deng, Jianbo Wu</author>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.ado4935</guid>
-    </item>
-    <item>
-      <title>Van der Waals semiconductor InSe plastifies by martensitic transformation</title>
-      <link>https://doi.org/10.1126/sciadv.ado9593</link>
-      <description>Yandong Sun, Yupeng Ma, Jinyu Zhang, Tian&#8208;Ran Wei, Xun Shi, David Rodney, Ben Xu, Science Advances. 10(42)] 2024. https://openalex.org/W4403533295
-
-                Inorganic semiconductor materials are crucial for modern technologies, but their brittleness and limited processability hinder the development of flexible, wearable, and miniaturized electronics. The recent discovery of room-temperature plasticity in some inorganic semiconductors offers a promising solution, but the deformation mechanisms remain controversial. Here, we investigate the deformation of indium selenide, a two-dimensional van der Waals semiconductor with substantial plasticity. By developing a machine-learned deep potential, we perform atomistic simulations that capture the deformation features of hexagonal indium selenide upon out-of-plane compression. Unexpectedly, we find that indium selenide plastifies through a martensitic transformation; that is, the layered hexagonal structure is converted to a tetragonal lattice with specific orientation relationship. This observation is corroborated by high-resolution experimental observations and theory. It suggests a change of paradigm, where the design of new plastically deformable inorganic semiconductors can focus on compositions and structures that facilitate phase transformations, going beyond the conventional dislocation slip.</description>
-      <author>Yandong Sun, Yupeng Ma, Jinyu Zhang, Tian&#8208;Ran Wei, Xun Shi, David Rodney, Ben Xu</author>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.ado9593</guid>
-    </item>
-    <item>
-      <title>A Review for MXene-based Hybrid Nanocomposites toward Electro-/Photocatalytic Hydrogen Evolution Reactions</title>
-      <link>https://doi.org/10.1016/j.jece.2024.114483</link>
-      <description>Latiful Kabir, Karna Wijaya, Jianjun Li, Junjuda Unruangsri, Won&#8208;Chun Oh, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4403538511
-
-                No abstract</description>
-      <author>Latiful Kabir, Karna Wijaya, Jianjun Li, Junjuda Unruangsri, Won&#8208;Chun Oh</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.114483</guid>
-    </item>
-    <item>
-      <title>Single-Atom Underpotential Deposition at Specific Sites of N-Doped Graphene for Hydrogen Evolution Reaction Electrocatalysis</title>
-      <link>https://doi.org/10.3390/ma17205082</link>
-      <description>Haofei Wu, Qiwen Zhang, Shufen Chu, Hao Du, Yanyue Wang, Pan Liu, Materials. 17(20)] 2024. https://openalex.org/W4403545133
-
-                Single-atom catalysts (SACs) have the advantages of good active site uniformity, high atom utilization, and high catalytic activity. However, the study of its controllable synthesis still needs to be thoroughly investigated. In this paper, we deposited Cu SAs on nanoporous N-doped graphene by underpotential deposition and further obtained a Pt SAC by a galvanic process. Electrochemical and spectroscopic analyses showed that the pyridine-like N defect sites are the specific sites for the underpotential-deposited SAs. The obtained Pt SAC exhibits a good activity in a hydrogen evolution reaction with a turnover frequency of 25.1 s&#8722;1. This work reveals the specific sites of UPD of SAs on N-doped graphene and their potential applications in HERs, which provides a new idea for the design and synthesis of SACs.</description>
-      <author>Haofei Wu, Qiwen Zhang, Shufen Chu, Hao Du, Yanyue Wang, Pan Liu</author>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ma17205082</guid>
-    </item>
-    <item>
-      <title>Exploring the Potential of Bimetallic PtPd/C Cathode Catalysts to Enhance the Performance of PEM Fuel Cells</title>
-      <link>https://doi.org/10.3390/nano14201672</link>
-      <description>&#1042;. &#1045;. &#1043;&#1091;&#1090;&#1077;&#1088;&#1084;&#1072;&#1085;, &#1040;. &#1040;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1085;&#1082;&#1086;, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, Vladislav Menshikov, &#1045;. &#1040;. &#1052;&#1086;&#1075;&#1091;&#1095;&#1080;&#1093;, Irina Gerasimova, Kirill Paperzh, Ilya Pankov, Nanomaterials. 14(20)] 2024. https://openalex.org/W4403546602
-
-                Bimetallic platinum-containing catalysts are deemed promising for electrolyzers and proton-exchange membrane fuel cells (PEMFCs). A significant number of laboratory studies and commercial offers are related to PtNi/C and PtCo/C electrocatalysts. The behavior of PtPd/C catalysts has been studied much less, although palladium itself is the metal closest to platinum in its properties. Using a series of characterization methods, this paper presents a comparative study of structural characteristics of the commercial PtPd/C catalysts containing 38% wt. of precious metals and the well-known HiSpec4000 Pt/C catalyst. The electrochemical behavior of the catalysts was studied both in a three-electrode electrochemical cell and in the membrane electrode assemblies (MEAs) of hydrogen&#8211;air PEMFCs. Both PtPd/C samples demonstrated higher values of the electrochemically active surface area, as well as greater specific and mass activity in the oxygen reduction reaction in comparison with conventional Pt/C, while not being inferior to the latter in durability. The MEA based on the best of the PtPd/C catalysts also exhibited higher performance in single tests and long-term durability testing. The results of this study conducted indicate the prospects of using bimetallic PtPd/C materials for cathode catalysts in PEMFCs.</description>
-      <author>&#1042;. &#1045;. &#1043;&#1091;&#1090;&#1077;&#1088;&#1084;&#1072;&#1085;, &#1040;. &#1040;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1085;&#1082;&#1086;, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, Vladislav Menshikov, &#1045;. &#1040;. &#1052;&#1086;&#1075;&#1091;&#1095;&#1080;&#1093;, Irina Gerasimova, Kirill Paperzh, Ilya Pankov</author>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/nano14201672</guid>
-    </item>
-    <item>
-      <title>Mass Transportation Facilitated Porous Fe/Co Dual&#8208;Site Catalytic Cathodes for Ultrahigh&#8208;Power&#8208;Density Al&#8211;Air Fuel Cells</title>
-      <link>https://doi.org/10.1002/aenm.202404140</link>
-      <description>Kai Chen, Yiqi Liang, Duo Pan, Junheng Huang, Jiyuan Gao, Zhiwen Lu, &#1041;&#1086; &#1051;&#1102;, Junxiang Chen, Hao Zhang, Xiang Hu, Zhenhai Wen, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4403547980
-
-                Abstract The development of oxygen&#8208;dependent fuel cells is frequently hindered by the high cost of cathode materials and the sluggish kinetics of the oxygen reduction reaction (ORR). It is thus crucial to explore low&#8208;cost and high&#8208;activity catalysts with accelerated mass transport. Here, a high&#8208;throughput screening method is developed by integrating an explicit solvation model with machine learning potential&#8208;based molecular dynamics simulations, which enables the efficient evaluation of a vast array of diverse diatomic combinations and ultimately identifying Fe&#8211;Co dual&#8208;atomic sites as the optimal ORR electrocatalysts. The superior electrocatalytic performance of the diatomic Fe/Co sites loaded on 3D&#8208;interconnected ordered macroporous carbon (FeCo&#8208;3DMNC) is experimentally verified, achieving high ORR activity with half&#8208;wave potentials of 0.806 V in acidic and 0.905 V in alkaline environments. Additionally, innovative hybrid acid/alkali aluminum&#8211;air fuel cells (hA/A&#8208;AAFCs) incorporating FeCo&#8208;3DMNC as the cathode catalyst demonstrate a notably high open&#8208;circuit voltage of 2.72 V and a record&#8208;breaking power density of 827 mW cm &#8722;2 , significantly outperforming conventional alkaline aluminum&#8211;air fuel cells. This work marks a significant advancement by combining cutting&#8208;edge computational screening with rigorous experimental validation to develop promising electrocatalysts, potentially paving the way for the advanced energy storage and conversion technologies.</description>
-      <author>Kai Chen, Yiqi Liang, Duo Pan, Junheng Huang, Jiyuan Gao, Zhiwen Lu, &#1041;&#1086; &#1051;&#1102;, Junxiang Chen, Hao Zhang, Xiang Hu, Zhenhai Wen</author>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202404140</guid>
-    </item>
-    <item>
-      <title>Active learning accelerated exploration of single-atom local environments in multimetallic systems for oxygen electrocatalysis</title>
-      <link>https://doi.org/10.1038/s41524-024-01432-1</link>
-      <description>Hoje Chun, Jaclyn R. Lunger, Jeung Ku Kang, Rafael G&#243;mez&#8208;Bombarelli, Byungchan Han, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4403560061
-
-                No abstract</description>
-      <author>Hoje Chun, Jaclyn R. Lunger, Jeung Ku Kang, Rafael G&#243;mez&#8208;Bombarelli, Byungchan Han</author>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01432-1</guid>
-    </item>
-    <item>
-      <title>Reviewing the Complexity of Endogenous Technological Learning for Energy System Modeling</title>
-      <link>https://doi.org/10.1016/j.adapen.2024.100192</link>
-      <description>Johannes Behrens, Elisabeth Zeyen, Maximilian Hoffmann, Detlef Stolten, Jann Michael Weinand, Advances in Applied Energy. None(None)] 2024. https://openalex.org/W4403561700
-
-                No abstract</description>
-      <author>Johannes Behrens, Elisabeth Zeyen, Maximilian Hoffmann, Detlef Stolten, Jann Michael Weinand</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.adapen.2024.100192</guid>
-    </item>
     <item>
       <title>Revisiting the role of foreign atoms in &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e419" altimg="si139.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant="normal"&gt;CO&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; reduction on CuSn single-atom surface alloys</title>
       <link>https://doi.org/10.1016/j.jelechem.2024.118718</link>
@@ -472,7 +352,7 @@
       <link>https://doi.org/10.1021/acsami.4c08499</link>
       <description>Radha N Somaiya, Muhammad Sajjad, Nirpendra Singh, Aftab Alam, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403728309
 
-                No abstract</description>
+                Developing efficient electrocatalysts for CO2 reduction into value-added products is crucial for a green economy. Inspired by the recent experimental synthesis of biphenylene (BPH) and the excellent catalytic activity of copper dispersed on two-dimensional (2D) materials, we chose to systematically investigate the pristine, defective, and Cu-decorated BPH for the electrocatalytic CO2 reduction to value-added hydrocarbons. It is observed that the CO2 molecules bind weakly to the pristine BPH, indicating their chemical inertness. Carbon single-vacancy defects facilitate CO2 adsorption with a strong binding energy (Eb) of &#8722;3.23 eV, detrimental to the CO2 reduction reaction (CRR) mechanism. We have further investigated the binding energy and kinetic stability of Cu-decorated BPH as a single-atom-catalyst (SAC). The molecular dynamics simulations confirm the kinetic stability, revealing that the Cu-atom avoids agglomeration under low metal dispersal conditions. The CO2 molecule gets adsorbed horizontally on the Cu-BPH surface with a &#916;Eb of &#8722;0.52 eV. The CRR mechanism is investigated using two pathways beginning with two different initial states, formate (*OCOH) and carboxylic (*COOH). The formate pathway confirms the conversion of *OCOH to *HCOOH with the rate-limiting potential (UL) of 0.39 eV for the production of HCOOH, while for the carboxylic pathway, the conversion of *COH to *CHOH has a UL of 0.32 eV, eventually producing CH3OH. Our findings highlight the role of Cu-BPH as an efficient SAC for CO2 catalytic activity to C1 products, as compared to the state-of-the-art Cu, and holds promise as an electrocatalyst for CRR.</description>
       <author>Radha N Somaiya, Muhammad Sajjad, Nirpendra Singh, Aftab Alam</author>
       <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c08499</guid>
@@ -528,6 +408,66 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403067</guid>
     </item>
     <item>
+      <title>Host-guest-induced electronic state triggers two-electron oxygen reduction electrocatalysis</title>
+      <link>https://doi.org/10.1038/s41467-024-53714-3</link>
+      <description>Hongni Chen, Chao Wang, Han Wu, Lili Li, Yali Xing, Chuanhui Zhang, Xiaojing Long, Nature Communications. 15(1)] 2024. https://openalex.org/W4403749872
+
+                No abstract</description>
+      <author>Hongni Chen, Chao Wang, Han Wu, Lili Li, Yali Xing, Chuanhui Zhang, Xiaojing Long</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53714-3</guid>
+    </item>
+    <item>
+      <title>Single-atom anchored van der Waals heterojunctions for efficient Z-scheme photocatalytic overall water splitting</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.10.308</link>
+      <description>Jie Yang, Nianjun Luo, Wenyi Tang, Min-Quan Kuang, Chunling Tian, Hong Chen, Hongkuan Yuan, Biao Wang, International Journal of Hydrogen Energy. 92(None)] 2024. https://openalex.org/W4403753108
+
+                No abstract</description>
+      <author>Jie Yang, Nianjun Luo, Wenyi Tang, Min-Quan Kuang, Chunling Tian, Hong Chen, Hongkuan Yuan, Biao Wang</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.308</guid>
+    </item>
+    <item>
+      <title>Theoretical Catalyst Screening of Multielement Alloy Catalysts for Ammonia Synthesis Using Machine Learning Potential and Generative Artificial Intelligence</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04018</link>
+      <description>Kaoru Hisama, Atsushi Ishikawa, Susan Me&#241;ez Aspera, Michihisa Koyama, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403753284
+
+                No abstract</description>
+      <author>Kaoru Hisama, Atsushi Ishikawa, Susan Me&#241;ez Aspera, Michihisa Koyama</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04018</guid>
+    </item>
+    <item>
+      <title>Mechanistic Study of Highly Active Bifunctional Double-Atom Electrocatalysts for Oxygen Reduction and Oxygen Evolution Reactions</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c02759</link>
+      <description>Wei Zhang, Xueqi Cheng, Xiongyi Liang, Keke Mao, Xiao Cheng Zeng, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4403757553
+
+                No abstract</description>
+      <author>Wei Zhang, Xueqi Cheng, Xiongyi Liang, Keke Mao, Xiao Cheng Zeng</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02759</guid>
+    </item>
+    <item>
+      <title>Stability and Activity of Organometallic Phthalocyanine Sheets for Oxygen Reduction and Oxygen Evolution Reactions: A Dft Study</title>
+      <link>https://doi.org/10.2139/ssrn.4999676</link>
+      <description>Walter Orellana, No host. None(None)] 2024. https://openalex.org/W4403757695
+
+                No abstract</description>
+      <author>Walter Orellana</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4999676</guid>
+    </item>
+    <item>
+      <title>Interlayer Hydrogen Recombination from Hydrogen Boride Nanosheets Elucidated by Isotope Labeling</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c01975</link>
+      <description>Shin&#8208;ichi Ito, Kurt Irvin M. Rojas, Yukihiro Yasuda, Natsumi Noguchi, Kosei Fukuda, Miwa Hikichi, Zihao Kang, Mei Yuan, Ryuki Tsuji, Osamu Oki, Susmita Roy, Yasuyuki Hikita, Iwao Matsuda, Masahiro Miyauchi, Ikutaro Hamada, Takahiro Kondo, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4403761453
+
+                No abstract</description>
+      <author>Shin&#8208;ichi Ito, Kurt Irvin M. Rojas, Yukihiro Yasuda, Natsumi Noguchi, Kosei Fukuda, Miwa Hikichi, Zihao Kang, Mei Yuan, Ryuki Tsuji, Osamu Oki, Susmita Roy, Yasuyuki Hikita, Iwao Matsuda, Masahiro Miyauchi, Ikutaro Hamada, Takahiro Kondo</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01975</guid>
+    </item>
+    <item>
       <title>&lt;scp&gt;ROBERT&lt;/scp&gt;: Bridging the Gap Between Machine Learning and Chemistry</title>
       <link>https://doi.org/10.1002/wcms.1733</link>
       <description>David Dalmau, Juan V. Alegre&#8208;Requena, Wiley Interdisciplinary Reviews Computational Molecular Science. 14(5)] 2024. https://openalex.org/W4403697375
@@ -536,16 +476,6 @@
       <author>David Dalmau, Juan V. Alegre&#8208;Requena</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/wcms.1733</guid>
-    </item>
-    <item>
-      <title>Adsorption of CO2 on mechanochemically synthesized silicon oxycarbide composites</title>
-      <link>https://doi.org/10.1016/j.chemphys.2024.112486</link>
-      <description>S Grishin Il'Ya, Chemical Physics. None(None)] 2024. https://openalex.org/W4403533456
-
-                No abstract</description>
-      <author>S Grishin Il'Ya</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2024.112486</guid>
     </item>
     <item>
       <title>CeO2-conjugated CoFe layered double oxides as efficient non-noble metal catalysts for NH3-decomposition enabling carbon-free hydrogen production</title>
@@ -566,6 +496,16 @@
       <author>Sandra Maria Pfister</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijdrr.2024.104913</guid>
+    </item>
+    <item>
+      <title>Association between Thai language proficiency and adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Southern Thailand</title>
+      <link>https://doi.org/10.1371/journal.pone.0312571</link>
+      <description>Hein Htet, Aungkana Chuaychai, Tida Sottiyotin, Kyaw Ko Ko Htet, Hutcha Sriplung, Wit Wichaidit, Virasakdi Chongsuvivatwong, PLoS ONE. 19(10)] 2024. https://openalex.org/W4403758751
+
+                The association between host country language proficiency and disease prevention among migrants is underexplored. The objective of this study is to assess the extent to which self-reported command of the Thai language is associated with adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Thailand. We distributed a self-administered structured questionnaire in Burmese language to 1,050 Myanmar migrant workers in Southern Thailand from September 2022 to January 2023. The questionnaire included background characteristics, self-reported Thai language proficiency based on the Common European Framework Reference (CEFR), and self-reported CPB adherence at residence and workplace. We analyzed data using descriptive statistics and multivariate linear regression analysis. Although slightly less than half of the participants reported CEFR A1 level or higher in Thai speaking and listening skills, less than 10 percent did so for reading and writing skills. Workplace COVID-19 preventive adherence scores were initially found to be significantly associated with A1 level or higher speaking and listening skills. However, after adjusting for confounders, these associations were not statistically significant (Speaking skill&#8217;s Adjusted Beta = 0.713, 95% CI = -0.011, 1.437; Listening skill&#8217;s Adjusted Beta = -0.367, 95% CI = -1.087, 0.353). No significant associations were found between any language skill domain and residence COVID-19 preventive adherence scores for both unadjusted and adjusted analysis. The study findings may have implications for relevant stakeholders in migrant services, migrant health, and infectious disease control. However, information biases, language barriers, and lack of generalizability should be considered as caveats in the interpretation of the study findings.</description>
+      <author>Hein Htet, Aungkana Chuaychai, Tida Sottiyotin, Kyaw Ko Ko Htet, Hutcha Sriplung, Wit Wichaidit, Virasakdi Chongsuvivatwong</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0312571</guid>
     </item>
     <item>
       <title>Active and Stable Plasma-Enhanced ALD Pt@Ni-YSZ Hydrogen Electrode for Steam Reversible Solid Oxide Cells</title>
