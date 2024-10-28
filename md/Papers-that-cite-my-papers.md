@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Oct 27 01:26:40 2024
+Created on Mon Oct 28 01:24:00 2024
 
-Found 51 results from 2024-10-20 to 2024-10-27
+Found 52 results from 2024-10-21 to 2024-10-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
@@ -16,50 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Revisiting the role of foreign atoms in CO2 reduction on CuSn single-atom surface alloys   
-
-OpenAlex: https://openalex.org/W4403563779    
-Open access: False
-    
-[Vitaliy A. Kislenko](https://openalex.org/A5013321321), [Sergey A. Kislenko](https://openalex.org/A5074210515), [Victoria A. Nikitina](https://openalex.org/A5068167659), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118718.
-    
-No abstract    
-
-    
-
-## Interfacial anchoring cobalt species mediated advanced oxidation: Degradation performance and mechanism of organic pollutants   
-
-OpenAlex: https://openalex.org/W4403563889    
-Open access: False
-    
-[Z. Chen](https://openalex.org/A5083981720), [Guanghao Meng](https://openalex.org/A5081767465), [Zenghui Han](https://openalex.org/A5073389894), [Hongjiang Li](https://openalex.org/A5101887632), [Shao‐Ming Chi](https://openalex.org/A5070554076), [Guangzhi Hu](https://openalex.org/A5053355651), [Xue Zhao](https://openalex.org/A5057904713), Journal of Colloid and Interface Science. 679(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.097.
-    
-The development of highly catalytic activity, low-cost and environmentally friendly catalysts is crucial for the use of advanced oxidation processes (AOPs) to treat organic pollutants. In this study, to reduce costs, enhance catalytic activity and avoid secondary pollution form metal ions, pomelo peel was used as raw material, combined with surface crystallization, carbon layer protection and heat treatment technology to effectively construct AOPs catalyst that can efficiently activate peroxymonosulfate (PMS) to degrade harmful organic pollutants. Under the optimal conditions, the Co/BC-PMS system can degrade about 100 % of tetracycline (TC, a spectral antibiotic) within 5 min, and the degradation rate of TC can still reach 100 % even if Co/BC (cobalt anchored on biochar) was reused for 6 times. The Co/BC-PMS system can resist complex environmental conditions, including acidic solution, alkaline solution, coexisting ions, different water quality, and is universal for the degradation of most organic pollutants. The integrated purification column with Co/BC as the core realizes the continuous and complete degradation of organic pollutants and has the ability of practical application. Radical capture and monitoring combined with density-functional-theory calculations confirmed that the Co(111) and amorphous CoO sites in Co/BC are the key to driving PMS to degrade organic pollutants, Co/BC can efficiently adsorb PMS and promote the dissociation of PMS into highly active OH, SO    
-
-    
-
-## 1-Dimensional metal Nitride-Supported platinum nanoclusters for Low-Temperature hydrogen production from formic acid   
-
-OpenAlex: https://openalex.org/W4403574280    
-Open access: False
-    
-[Liang Qiu](https://openalex.org/A5082044293), [Bowen Sheng](https://openalex.org/A5014362602), [Haotian Ye](https://openalex.org/A5060673167), [Ping Wang](https://openalex.org/A5100338658), [Jinglin Li](https://openalex.org/A5100697369), [Ying Li](https://openalex.org/A5112603502), [Yixin Li](https://openalex.org/A5100459842), [Tianqi Yu](https://openalex.org/A5073191432), [Muhammad Salman Nasir](https://openalex.org/A5010133996), [Xinqiang Wang](https://openalex.org/A5018896619), [Pan Hu](https://openalex.org/A5101766390), [Zhen Huang](https://openalex.org/A5100778511), [Baowen Zhou](https://openalex.org/A5010878103), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156940.
-    
-No abstract    
-
-    
-
-## Carbonized-nitridated Mo2N-MoC heterostructures towards universal-medium hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403574389    
-Open access: False
-    
-[Xiang Chen](https://openalex.org/A5100683760), [Song Xie](https://openalex.org/A5078318843), [Fang Zhou](https://openalex.org/A5032104255), [Biao Gao](https://openalex.org/A5052495839), [Xuming Zhang](https://openalex.org/A5101720038), [Shuangjie Wu](https://openalex.org/A5109462925), [Li Huang](https://openalex.org/A5103631890), [Yun Li](https://openalex.org/A5107957110), [Paul K. Chu](https://openalex.org/A5082656873), [Xiang Peng](https://openalex.org/A5034476487), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156908.
-    
-No abstract    
-
-    
 
 ## Electronic structure simulations in the cloud computing environment   
 
@@ -497,7 +453,7 @@ Open access: False
     
 [Wei Zhang](https://openalex.org/A5102878658), [Xueqi Cheng](https://openalex.org/A5029998682), [Xiongyi Liang](https://openalex.org/A5032372066), [Keke Mao](https://openalex.org/A5109385559), [Xiao Cheng Zeng](https://openalex.org/A5019286517), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c02759.
     
-No abstract    
+Dual-atom catalysts (DACs) can be very effective for catalyzing both oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). Herein, we present theoretical evidence of a new class of highly active DACs, namely, the double-atom embedded in nitrogen-doped graphene sheet 2M-N-C (M = Mn, Fe) on the basis of density functional theory calculations. Importantly, we find that the double active sites of 2M-N-C DACs entail an unconventional catalytic reaction pathway for ORR and OER. We also show that the local coordination environment of the active sites can significantly affect the stability and oxygen catalytic activity of 2M-N-C DACs. In particular, MnFe-N-C DAC not only exhibits good stability but also possesses outstanding bifunctional ORR/OER catalytic activity with the potential difference (Δ    
 
     
 
@@ -519,7 +475,51 @@ Open access: False
     
 [Shin‐ichi Ito](https://openalex.org/A5101842103), [Kurt Irvin M. Rojas](https://openalex.org/A5063071193), [Yukihiro Yasuda](https://openalex.org/A5032828932), [Natsumi Noguchi](https://openalex.org/A5039561574), [Kosei Fukuda](https://openalex.org/A5114051936), [Miwa Hikichi](https://openalex.org/A5082876338), [Zihao Kang](https://openalex.org/A5101205343), [Mei Yuan](https://openalex.org/A5101899924), [Ryuki Tsuji](https://openalex.org/A5068162891), [Osamu Oki](https://openalex.org/A5013639181), [Susmita Roy](https://openalex.org/A5086474280), [Yasuyuki Hikita](https://openalex.org/A5058216974), [Iwao Matsuda](https://openalex.org/A5034775911), [Masahiro Miyauchi](https://openalex.org/A5028472365), [Ikutaro Hamada](https://openalex.org/A5049978464), [Takahiro Kondo](https://openalex.org/A5091858799), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c01975.
     
-No abstract    
+In this study, deuterium boride (DB) nanosheets were synthesized as deuterated borophane through the ion exchange of magnesium cations in magnesium diboride with deuterons from a deuterium-type ion-exchange resin in acetonitrile. The Fourier-transform infrared absorption spectrum of DB exhibited clear isotope effects, namely the shift in the absorption peak of the B-H stretching vibrational mode to a lower wavenumber. Temperature-programmed desorption (TPD) from a mixture of DB and hydrogen boride (HB) nanosheets yielded a more intense hydrogen-deuterium (HD) signal compared to the H    
+
+    
+
+## Trace Ru Incorporation Boosted Co2P Nanorods for Superior Water Electrolysis and Substrate‐Paired Electrolysis Toward Value‐Added Chemicals in Alkaline Medium   
+
+OpenAlex: https://openalex.org/W4403776601    
+Open access: True
+    
+[Souradip Ganguly](https://openalex.org/A5034122187), [Pooja Basera](https://openalex.org/A5065228598), [Sahnawaz Ahmed](https://openalex.org/A5065741913), [Sukanta Saha](https://openalex.org/A5089491454), [Arnab Dutta](https://openalex.org/A5005081322), [Chanchal Loha](https://openalex.org/A5058202832), [Sirshendu Ghosh](https://openalex.org/A5101554111), Small. None(None)] 2024.https://doi.org/10.1002/smll.202405056 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202405056)).
+    
+Abstract Electro‐valorization of biomass‐derived chemicals has ensured sustainable production of value‐added products, an effective approach for reducing carbon footprint, through renewable energy. Electrochemical oxidation and reduction reactions in aqueous media using H 2 O as a potential source for active hydrogenated and oxygenated species fulfill the purpose. In this study, Ru─Co 2 P nanorods are explored as a bifunctional electrocatalyst toward valorization of Organics at basic media. The in‐situ electrogenerated Co 3+ and Co 4+ species act as active oxidants toward product selectivity. An overpotential of 68 mV is found for hydrogen evolution reaction (1 m NaOH) with Ru─Co 2 P. Further, used as cathode, Ru─Co 2 P effectively reduces furfuraldehyde to furfuryl alcohol and p ‐nitrophenol to p ‐aminophenol. Ru doping enables ease of formation of active species both for reduction and oxidation, faster charge transfer between catalyst to absorbates. Density Functional Theory calculation establishes Ru incorporation in Co 2 P surface results in enhanced adsorption of substrates. Ru doping modulates the electronic structure of Co 2 P which changes the density of states resulting in faster water dissociation and water splitting. To reach 10 mA cm −2 current density only 1.6 V is required for water electrolysis, whereas 1.4 V is enough for substrate‐paired electrolysis with simultaneous oxidation of benzyl alcohol and reduction of p ‐nitro phenol.    
+
+    
+
+## Threefold Impact on Reaction Coordinate Mapping of Zirconium Based Tri‐Chalcogenide Pseudo‐Monolayers as Emerging Ultrathin Catalysts for Water Splitting   
+
+OpenAlex: https://openalex.org/W4403782112    
+Open access: False
+    
+[Ponnappa Kechanda Prasanna](https://openalex.org/A5054747084), [Sudip Chakraborty](https://openalex.org/A5091631394), Advanced Theory and Simulations. None(None)] 2024.https://doi.org/10.1002/adts.202400816.
+    
+Abstract The continuous quest of finding optimum catalysts for photo‐electrocatalytic (PEC) water splitting has been revolving around 2D ultrathin materials because of the fact of exploiting both the surface area. In this work, a threefold impact is envisaged route to enhance the activity both in terms of hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in the emerging Zirconium Tri‐sulfides (ZrS 3 ) based pseudo‐monolayers. Due to the unique and distinct electronic properties of the tri‐chalcogenide systems as compared to the di‐chalcogenide counterpart of Zirconium, one could afford to explore the implications of not only single‐atom functionalization and vacancy defect, but also the external strain to expedite the bifunctional catalytic activity in this promising material. Rigorous electronic structure calculations have been performed for the mentioned threefold effect on not only the band‐edge alignment, but going beyond to it by further constructing the reaction coordinate mapping corresponding to HER and OER mechanism. The repercussion of external strain in addition to the single atom functionalization and vacancy defect on the adsorption free energies of the prime intermediates of HER and OER reaction has been further correlated with the work function variation in this pseudo‐monolayer system.    
+
+    
+
+## Strong Metal‐Support Interactions in Heterogeneous Oxygen Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4403791868    
+Open access: True
+    
+[Zhiqian Hou](https://openalex.org/A5033505863), [Chenghao Cui](https://openalex.org/A5113041819), [Yanan Yang](https://openalex.org/A5049907537), [Zhikun Huang](https://openalex.org/A5042340942), [Yu Zhuang](https://openalex.org/A5028690312), [Ye Zeng](https://openalex.org/A5041980185), [Xi Gong](https://openalex.org/A5102804428), [Tao Zhang](https://openalex.org/A5100375904), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407167 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202407167)).
+    
+Abstract Molecular oxygen redox electrocatalysis involves oxygen reduction and evolution as core reactions in various energy conversion and environmental technology fields. Strong metal‐support interactions (SMSIs) based nanomaterials are regarded as desirable and state‐of‐the‐art heterogeneous electrocatalysts due to their exceptional physicochemical properties. Over the past decades, considerable advancements in theory and experiment have been achieved in related studies, especially in modulating the electronic structure and geometrical configuration of SMSIs to enable activity, selectivity, and stability. In this focuses on the concept of SMSI, explore their various manifestations and mechanisms of action, and summarizes recent advances in SMSIs for efficient energy conversion in oxygen redox electrocatalysis applications. Additionally, the correlation between the physicochemical properties of different metals and supports is systematically elucidated, and the potential mechanisms of the structure–activity relationships between SMSIs and catalytic performance are outlined through theoretical models. Finally, the obstacles confronting this burgeoning field are comprehensively concluded, targeted recommendations and coping strategies are proposed, and future research perspectives are outlined.    
+
+    
+
+## Recent Progress in Non‐Noble Metal Catalysts for Oxygen Evolution Reaction: A Focus on Transition and Rare‐Earth Elements   
+
+OpenAlex: https://openalex.org/W4403792218    
+Open access: True
+    
+[Jala Bib Khan](https://openalex.org/A5047184517), [Yuan‐Chang Liang](https://openalex.org/A5091643326), The Chemical Record. None(None)] 2024.https://doi.org/10.1002/tcr.202400151 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/tcr.202400151)).
+    
+Abstract The demand for renewable energy sources has become more urgent due to climate change and environmental pollution. The oxygen evolution reaction (OER) plays a crucial role in green energy sources. This article primarily explores the potential of using non‐noble metals, such as transition and rare earth metals, to enhance the efficiency of the OER process. Due to their cost‐effectiveness and unique electronic structure, these non‐noble metals could be a game‐changer in the field. ′Doping,′ which is the process of adding a small amount of impurity to a material to alter its properties, and ′synergistic effects,′ which refer to the combined effect of two or more elements that is greater than the sum of their individual effects, are two key concepts in this field. Transition and rare earth metals can reduce the overpotential, a measure of the excess potential required to drive a reaction, thus enhancing the OER process by engineering the electronic and surface molecular structure. This article summarizes the roles of various non‐noble metals in the OER process and highlights opportunities for researchers to propose innovative ways to optimize the OER process.    
 
     
 
@@ -545,6 +545,17 @@ No abstract
 
     
 
+## Constructing 2D PtSe2/PtCo Heterojunctions by Partial Selenization for Enhanced Hydrogen Evolution   
+
+OpenAlex: https://openalex.org/W4403792023    
+Open access: False
+    
+[Bing Hao](https://openalex.org/A5088886834), [Manyuan Gan](https://openalex.org/A5102667518), [Jingjing Guo](https://openalex.org/A5026384466), [Li Guo](https://openalex.org/A5017768631), [Yanhui Song](https://openalex.org/A5059558449), [Yongqing Shen](https://openalex.org/A5024047234), [Bingshe Xu](https://openalex.org/A5061618421), [Peizhi Liu](https://openalex.org/A5024912302), [Junjie Guo](https://openalex.org/A5025306333), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202413916.
+    
+Abstract The rational design and fabrication of 2D heterojuctions are proven a promising strategy for boosting the performance of electrocatalysts. Although 2D platinum diselenide (PtSe 2 ) exhibits catalytic activity for hydrogen evolution reaction (HER), the catalytic performance is still unsatisfactory due to its inert basal plane, wide bandgap, and poor electron transfer ability. Herein, a new strategy is reported to construct PtSe 2 /PtCo heterojunctions by partial selenization of PtCo alloy for high‐efficiency HER electrocatalyst, which exhibits a low overpotential of 38 mV at the current density of 10 mA cm −2 , a small Tafel slope of 22 mV dec −1 , and a superior stability over 24 h and 1000 cycles. The outstanding HER activity of the catalyst arises from the strong electronic interactions between PtSe 2 and PtCo in the heterojunctions, which induce electron transferring from PtSe 2 to PtCo and the d‐band center down shifting, and thus optimize the H * adsorption/desorption. This work provides a novel strategy for constructing highly efficient heterostructure electrocatalysts, which facilitates the applications of hydrogen energy conversion.    
+
+    
+
 ## Understanding the involvement/exclusion paradox in disaster volunteering from a field-theoretical perspective   
 
 OpenAlex: https://openalex.org/W4403633029    
@@ -563,7 +574,7 @@ Open access: True
     
 [Hein Htet](https://openalex.org/A5028874308), [Aungkana Chuaychai](https://openalex.org/A5017001240), [Tida Sottiyotin](https://openalex.org/A5063328656), [Kyaw Ko Ko Htet](https://openalex.org/A5078399827), [Hutcha Sriplung](https://openalex.org/A5024693232), [Wit Wichaidit](https://openalex.org/A5031550335), [Virasakdi Chongsuvivatwong](https://openalex.org/A5050403457), PLoS ONE. 19(10)] 2024.https://doi.org/10.1371/journal.pone.0312571.
     
-The association between host country language proficiency and disease prevention among migrants is underexplored. The objective of this study is to assess the extent to which self-reported command of the Thai language is associated with adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Thailand. We distributed a self-administered structured questionnaire in Burmese language to 1,050 Myanmar migrant workers in Southern Thailand from September 2022 to January 2023. The questionnaire included background characteristics, self-reported Thai language proficiency based on the Common European Framework Reference (CEFR), and self-reported CPB adherence at residence and workplace. We analyzed data using descriptive statistics and multivariate linear regression analysis. Although slightly less than half of the participants reported CEFR A1 level or higher in Thai speaking and listening skills, less than 10 percent did so for reading and writing skills. Workplace COVID-19 preventive adherence scores were initially found to be significantly associated with A1 level or higher speaking and listening skills. However, after adjusting for confounders, these associations were not statistically significant (Speaking skill’s Adjusted Beta = 0.713, 95% CI = -0.011, 1.437; Listening skill’s Adjusted Beta = -0.367, 95% CI = -1.087, 0.353). No significant associations were found between any language skill domain and residence COVID-19 preventive adherence scores for both unadjusted and adjusted analysis. The study findings may have implications for relevant stakeholders in migrant services, migrant health, and infectious disease control. However, information biases, language barriers, and lack of generalizability should be considered as caveats in the interpretation of the study findings.    
+The association between host country language proficiency and disease prevention among migrants is underexplored. The objective of this study is to assess the extent to which self-reported command of the Thai language is associated with adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Thailand. We distributed a self-administered structured questionnaire in Burmese language to 1,050 Myanmar migrant workers in Southern Thailand from September 2022 to January 2023. The questionnaire included background characteristics, self-reported Thai language proficiency based on the Common European Framework Reference (CEFR), and self-reported CPB adherence at residence and workplace. We analyzed data using descriptive statistics and multivariate linear regression analysis. Although slightly less than half of the participants reported CEFR A1 level or higher in Thai speaking and listening skills, less than 10 percent did so for reading and writing skills. Workplace COVID-19 preventive adherence scores were initially found to be significantly associated with A1 level or higher speaking and listening skills. However, after adjusting for confounders, these associations were not statistically significant (Speaking skill's Adjusted Beta = 0.713, 95% CI = -0.011, 1.437; Listening skill's Adjusted Beta = -0.367, 95% CI = -1.087, 0.353). No significant associations were found between any language skill domain and residence COVID-19 preventive adherence scores for both unadjusted and adjusted analysis. The study findings may have implications for relevant stakeholders in migrant services, migrant health, and infectious disease control. However, information biases, language barriers, and lack of generalizability should be considered as caveats in the interpretation of the study findings.    
 
     
 

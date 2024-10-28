@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Oct 2024 01:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 01:24:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Revisiting the role of foreign atoms in &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e419" altimg="si139.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi mathvariant="normal"&gt;CO&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; reduction on CuSn single-atom surface alloys</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118718</link>
-      <description>Vitaliy A. Kislenko, Sergey A. Kislenko, Victoria A. Nikitina, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4403563779
-
-                No abstract</description>
-      <author>Vitaliy A. Kislenko, Sergey A. Kislenko, Victoria A. Nikitina</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118718</guid>
-    </item>
-    <item>
-      <title>Interfacial anchoring cobalt species mediated advanced oxidation: Degradation performance and mechanism of organic pollutants</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.10.097</link>
-      <description>Z. Chen, Guanghao Meng, Zenghui Han, Hongjiang Li, Shao&#8208;Ming Chi, Guangzhi Hu, Xue Zhao, Journal of Colloid and Interface Science. 679(None)] 2024. https://openalex.org/W4403563889
-
-                The development of highly catalytic activity, low-cost and environmentally friendly catalysts is crucial for the use of advanced oxidation processes (AOPs) to treat organic pollutants. In this study, to reduce costs, enhance catalytic activity and avoid secondary pollution form metal ions, pomelo peel was used as raw material, combined with surface crystallization, carbon layer protection and heat treatment technology to effectively construct AOPs catalyst that can efficiently activate peroxymonosulfate (PMS) to degrade harmful organic pollutants. Under the optimal conditions, the Co/BC-PMS system can degrade about 100 % of tetracycline (TC, a spectral antibiotic) within 5 min, and the degradation rate of TC can still reach 100 % even if Co/BC (cobalt anchored on biochar) was reused for 6 times. The Co/BC-PMS system can resist complex environmental conditions, including acidic solution, alkaline solution, coexisting ions, different water quality, and is universal for the degradation of most organic pollutants. The integrated purification column with Co/BC as the core realizes the continuous and complete degradation of organic pollutants and has the ability of practical application. Radical capture and monitoring combined with density-functional-theory calculations confirmed that the Co(111) and amorphous CoO sites in Co/BC are the key to driving PMS to degrade organic pollutants, Co/BC can efficiently adsorb PMS and promote the dissociation of PMS into highly active OH, SO</description>
-      <author>Z. Chen, Guanghao Meng, Zenghui Han, Hongjiang Li, Shao&#8208;Ming Chi, Guangzhi Hu, Xue Zhao</author>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.097</guid>
-    </item>
-    <item>
-      <title>1-Dimensional metal Nitride-Supported platinum nanoclusters for Low-Temperature hydrogen production from formic acid</title>
-      <link>https://doi.org/10.1016/j.cej.2024.156940</link>
-      <description>Liang Qiu, Bowen Sheng, Haotian Ye, Ping Wang, Jinglin Li, Ying Li, Yixin Li, Tianqi Yu, Muhammad Salman Nasir, Xinqiang Wang, Pan Hu, Zhen Huang, Baowen Zhou, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403574280
-
-                No abstract</description>
-      <author>Liang Qiu, Bowen Sheng, Haotian Ye, Ping Wang, Jinglin Li, Ying Li, Yixin Li, Tianqi Yu, Muhammad Salman Nasir, Xinqiang Wang, Pan Hu, Zhen Huang, Baowen Zhou</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156940</guid>
-    </item>
-    <item>
-      <title>Carbonized-nitridated Mo2N-MoC heterostructures towards universal-medium hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.cej.2024.156908</link>
-      <description>Xiang Chen, Song Xie, Fang Zhou, Biao Gao, Xuming Zhang, Shuangjie Wu, Li Huang, Yun Li, Paul K. Chu, Xiang Peng, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403574389
-
-                No abstract</description>
-      <author>Xiang Chen, Song Xie, Fang Zhou, Biao Gao, Xuming Zhang, Shuangjie Wu, Li Huang, Yun Li, Paul K. Chu, Xiang Peng</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156908</guid>
-    </item>
     <item>
       <title>Electronic structure simulations in the cloud computing environment</title>
       <link>https://doi.org/10.1063/5.0226437</link>
@@ -442,7 +402,7 @@
       <link>https://doi.org/10.1021/acs.jpclett.4c02759</link>
       <description>Wei Zhang, Xueqi Cheng, Xiongyi Liang, Keke Mao, Xiao Cheng Zeng, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4403757553
 
-                No abstract</description>
+                Dual-atom catalysts (DACs) can be very effective for catalyzing both oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). Herein, we present theoretical evidence of a new class of highly active DACs, namely, the double-atom embedded in nitrogen-doped graphene sheet 2M-N-C (M = Mn, Fe) on the basis of density functional theory calculations. Importantly, we find that the double active sites of 2M-N-C DACs entail an unconventional catalytic reaction pathway for ORR and OER. We also show that the local coordination environment of the active sites can significantly affect the stability and oxygen catalytic activity of 2M-N-C DACs. In particular, MnFe-N-C DAC not only exhibits good stability but also possesses outstanding bifunctional ORR/OER catalytic activity with the potential difference (&#916;</description>
       <author>Wei Zhang, Xueqi Cheng, Xiongyi Liang, Keke Mao, Xiao Cheng Zeng</author>
       <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02759</guid>
@@ -462,10 +422,50 @@
       <link>https://doi.org/10.1021/acs.jpclett.4c01975</link>
       <description>Shin&#8208;ichi Ito, Kurt Irvin M. Rojas, Yukihiro Yasuda, Natsumi Noguchi, Kosei Fukuda, Miwa Hikichi, Zihao Kang, Mei Yuan, Ryuki Tsuji, Osamu Oki, Susmita Roy, Yasuyuki Hikita, Iwao Matsuda, Masahiro Miyauchi, Ikutaro Hamada, Takahiro Kondo, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4403761453
 
-                No abstract</description>
+                In this study, deuterium boride (DB) nanosheets were synthesized as deuterated borophane through the ion exchange of magnesium cations in magnesium diboride with deuterons from a deuterium-type ion-exchange resin in acetonitrile. The Fourier-transform infrared absorption spectrum of DB exhibited clear isotope effects, namely the shift in the absorption peak of the B-H stretching vibrational mode to a lower wavenumber. Temperature-programmed desorption (TPD) from a mixture of DB and hydrogen boride (HB) nanosheets yielded a more intense hydrogen-deuterium (HD) signal compared to the H</description>
       <author>Shin&#8208;ichi Ito, Kurt Irvin M. Rojas, Yukihiro Yasuda, Natsumi Noguchi, Kosei Fukuda, Miwa Hikichi, Zihao Kang, Mei Yuan, Ryuki Tsuji, Osamu Oki, Susmita Roy, Yasuyuki Hikita, Iwao Matsuda, Masahiro Miyauchi, Ikutaro Hamada, Takahiro Kondo</author>
       <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01975</guid>
+    </item>
+    <item>
+      <title>Trace Ru Incorporation Boosted Co&lt;sub&gt;2&lt;/sub&gt;P Nanorods for Superior Water Electrolysis and Substrate&#8208;Paired Electrolysis Toward Value&#8208;Added Chemicals in Alkaline Medium</title>
+      <link>https://doi.org/10.1002/smll.202405056</link>
+      <description>Souradip Ganguly, Pooja Basera, Sahnawaz Ahmed, Sukanta Saha, Arnab Dutta, Chanchal Loha, Sirshendu Ghosh, Small. None(None)] 2024. https://openalex.org/W4403776601
+
+                Abstract Electro&#8208;valorization of biomass&#8208;derived chemicals has ensured sustainable production of value&#8208;added products, an effective approach for reducing carbon footprint, through renewable energy. Electrochemical oxidation and reduction reactions in aqueous media using H 2 O as a potential source for active hydrogenated and oxygenated species fulfill the purpose. In this study, Ru&#9472;Co 2 P nanorods are explored as a bifunctional electrocatalyst toward valorization of Organics at basic media. The in&#8208;situ electrogenerated Co 3+ and Co 4+ species act as active oxidants toward product selectivity. An overpotential of 68 mV is found for hydrogen evolution reaction (1 m NaOH) with Ru&#9472;Co 2 P. Further, used as cathode, Ru&#9472;Co 2 P effectively reduces furfuraldehyde to furfuryl alcohol and p &#8208;nitrophenol to p &#8208;aminophenol. Ru doping enables ease of formation of active species both for reduction and oxidation, faster charge transfer between catalyst to absorbates. Density Functional Theory calculation establishes Ru incorporation in Co 2 P surface results in enhanced adsorption of substrates. Ru doping modulates the electronic structure of Co 2 P which changes the density of states resulting in faster water dissociation and water splitting. To reach 10 mA cm &#8722;2 current density only 1.6 V is required for water electrolysis, whereas 1.4 V is enough for substrate&#8208;paired electrolysis with simultaneous oxidation of benzyl alcohol and reduction of p &#8208;nitro phenol.</description>
+      <author>Souradip Ganguly, Pooja Basera, Sahnawaz Ahmed, Sukanta Saha, Arnab Dutta, Chanchal Loha, Sirshendu Ghosh</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202405056</guid>
+    </item>
+    <item>
+      <title>Threefold Impact on Reaction Coordinate Mapping of Zirconium Based Tri&#8208;Chalcogenide Pseudo&#8208;Monolayers as Emerging Ultrathin Catalysts for Water Splitting</title>
+      <link>https://doi.org/10.1002/adts.202400816</link>
+      <description>Ponnappa Kechanda Prasanna, Sudip Chakraborty, Advanced Theory and Simulations. None(None)] 2024. https://openalex.org/W4403782112
+
+                Abstract The continuous quest of finding optimum catalysts for photo&#8208;electrocatalytic (PEC) water splitting has been revolving around 2D ultrathin materials because of the fact of exploiting both the surface area. In this work, a threefold impact is envisaged route to enhance the activity both in terms of hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in the emerging Zirconium Tri&#8208;sulfides (ZrS 3 ) based pseudo&#8208;monolayers. Due to the unique and distinct electronic properties of the tri&#8208;chalcogenide systems as compared to the di&#8208;chalcogenide counterpart of Zirconium, one could afford to explore the implications of not only single&#8208;atom functionalization and vacancy defect, but also the external strain to expedite the bifunctional catalytic activity in this promising material. Rigorous electronic structure calculations have been performed for the mentioned threefold effect on not only the band&#8208;edge alignment, but going beyond to it by further constructing the reaction coordinate mapping corresponding to HER and OER mechanism. The repercussion of external strain in addition to the single atom functionalization and vacancy defect on the adsorption free energies of the prime intermediates of HER and OER reaction has been further correlated with the work function variation in this pseudo&#8208;monolayer system.</description>
+      <author>Ponnappa Kechanda Prasanna, Sudip Chakraborty</author>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adts.202400816</guid>
+    </item>
+    <item>
+      <title>Strong Metal&#8208;Support Interactions in Heterogeneous Oxygen Electrocatalysis</title>
+      <link>https://doi.org/10.1002/smll.202407167</link>
+      <description>Zhiqian Hou, Chenghao Cui, Yanan Yang, Zhikun Huang, Yu Zhuang, Ye Zeng, Xi Gong, Tao Zhang, Small. None(None)] 2024. https://openalex.org/W4403791868
+
+                Abstract Molecular oxygen redox electrocatalysis involves oxygen reduction and evolution as core reactions in various energy conversion and environmental technology fields. Strong metal&#8208;support interactions (SMSIs) based nanomaterials are regarded as desirable and state&#8208;of&#8208;the&#8208;art heterogeneous electrocatalysts due to their exceptional physicochemical properties. Over the past decades, considerable advancements in theory and experiment have been achieved in related studies, especially in modulating the electronic structure and geometrical configuration of SMSIs to enable activity, selectivity, and stability. In this focuses on the concept of SMSI, explore their various manifestations and mechanisms of action, and summarizes recent advances in SMSIs for efficient energy conversion in oxygen redox electrocatalysis applications. Additionally, the correlation between the physicochemical properties of different metals and supports is systematically elucidated, and the potential mechanisms of the structure&#8211;activity relationships between SMSIs and catalytic performance are outlined through theoretical models. Finally, the obstacles confronting this burgeoning field are comprehensively concluded, targeted recommendations and coping strategies are proposed, and future research perspectives are outlined.</description>
+      <author>Zhiqian Hou, Chenghao Cui, Yanan Yang, Zhikun Huang, Yu Zhuang, Ye Zeng, Xi Gong, Tao Zhang</author>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202407167</guid>
+    </item>
+    <item>
+      <title>Recent Progress in Non&#8208;Noble Metal Catalysts for Oxygen Evolution Reaction: A Focus on Transition and Rare&#8208;Earth Elements</title>
+      <link>https://doi.org/10.1002/tcr.202400151</link>
+      <description>Jala Bib Khan, Yuan&#8208;Chang Liang, The Chemical Record. None(None)] 2024. https://openalex.org/W4403792218
+
+                Abstract The demand for renewable energy sources has become more urgent due to climate change and environmental pollution. The oxygen evolution reaction (OER) plays a crucial role in green energy sources. This article primarily explores the potential of using non&#8208;noble metals, such as transition and rare earth metals, to enhance the efficiency of the OER process. Due to their cost&#8208;effectiveness and unique electronic structure, these non&#8208;noble metals could be a game&#8208;changer in the field. &#8242;Doping,&#8242; which is the process of adding a small amount of impurity to a material to alter its properties, and &#8242;synergistic effects,&#8242; which refer to the combined effect of two or more elements that is greater than the sum of their individual effects, are two key concepts in this field. Transition and rare earth metals can reduce the overpotential, a measure of the excess potential required to drive a reaction, thus enhancing the OER process by engineering the electronic and surface molecular structure. This article summarizes the roles of various non&#8208;noble metals in the OER process and highlights opportunities for researchers to propose innovative ways to optimize the OER process.</description>
+      <author>Jala Bib Khan, Yuan&#8208;Chang Liang</author>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202400151</guid>
     </item>
     <item>
       <title>&lt;scp&gt;ROBERT&lt;/scp&gt;: Bridging the Gap Between Machine Learning and Chemistry</title>
@@ -488,6 +488,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156986</guid>
     </item>
     <item>
+      <title>Constructing 2D PtSe&lt;sub&gt;2&lt;/sub&gt;/PtCo Heterojunctions by Partial Selenization for Enhanced Hydrogen Evolution</title>
+      <link>https://doi.org/10.1002/adfm.202413916</link>
+      <description>Bing Hao, Manyuan Gan, Jingjing Guo, Li Guo, Yanhui Song, Yongqing Shen, Bingshe Xu, Peizhi Liu, Junjie Guo, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403792023
+
+                Abstract The rational design and fabrication of 2D heterojuctions are proven a promising strategy for boosting the performance of electrocatalysts. Although 2D platinum diselenide (PtSe 2 ) exhibits catalytic activity for hydrogen evolution reaction (HER), the catalytic performance is still unsatisfactory due to its inert basal plane, wide bandgap, and poor electron transfer ability. Herein, a new strategy is reported to construct PtSe 2 /PtCo heterojunctions by partial selenization of PtCo alloy for high&#8208;efficiency HER electrocatalyst, which exhibits a low overpotential of 38 mV at the current density of 10 mA cm &#8722;2 , a small Tafel slope of 22 mV dec &#8722;1 , and a superior stability over 24 h and 1000 cycles. The outstanding HER activity of the catalyst arises from the strong electronic interactions between PtSe 2 and PtCo in the heterojunctions, which induce electron transferring from PtSe 2 to PtCo and the d&#8208;band center down shifting, and thus optimize the H * adsorption/desorption. This work provides a novel strategy for constructing highly efficient heterostructure electrocatalysts, which facilitates the applications of hydrogen energy conversion.</description>
+      <author>Bing Hao, Manyuan Gan, Jingjing Guo, Li Guo, Yanhui Song, Yongqing Shen, Bingshe Xu, Peizhi Liu, Junjie Guo</author>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413916</guid>
+    </item>
+    <item>
       <title>Understanding the involvement/exclusion paradox in disaster volunteering from a field-theoretical perspective</title>
       <link>https://doi.org/10.1016/j.ijdrr.2024.104913</link>
       <description>Sandra Maria Pfister, International Journal of Disaster Risk Reduction. None(None)] 2024. https://openalex.org/W4403633029
@@ -502,7 +512,7 @@
       <link>https://doi.org/10.1371/journal.pone.0312571</link>
       <description>Hein Htet, Aungkana Chuaychai, Tida Sottiyotin, Kyaw Ko Ko Htet, Hutcha Sriplung, Wit Wichaidit, Virasakdi Chongsuvivatwong, PLoS ONE. 19(10)] 2024. https://openalex.org/W4403758751
 
-                The association between host country language proficiency and disease prevention among migrants is underexplored. The objective of this study is to assess the extent to which self-reported command of the Thai language is associated with adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Thailand. We distributed a self-administered structured questionnaire in Burmese language to 1,050 Myanmar migrant workers in Southern Thailand from September 2022 to January 2023. The questionnaire included background characteristics, self-reported Thai language proficiency based on the Common European Framework Reference (CEFR), and self-reported CPB adherence at residence and workplace. We analyzed data using descriptive statistics and multivariate linear regression analysis. Although slightly less than half of the participants reported CEFR A1 level or higher in Thai speaking and listening skills, less than 10 percent did so for reading and writing skills. Workplace COVID-19 preventive adherence scores were initially found to be significantly associated with A1 level or higher speaking and listening skills. However, after adjusting for confounders, these associations were not statistically significant (Speaking skill&#8217;s Adjusted Beta = 0.713, 95% CI = -0.011, 1.437; Listening skill&#8217;s Adjusted Beta = -0.367, 95% CI = -1.087, 0.353). No significant associations were found between any language skill domain and residence COVID-19 preventive adherence scores for both unadjusted and adjusted analysis. The study findings may have implications for relevant stakeholders in migrant services, migrant health, and infectious disease control. However, information biases, language barriers, and lack of generalizability should be considered as caveats in the interpretation of the study findings.</description>
+                The association between host country language proficiency and disease prevention among migrants is underexplored. The objective of this study is to assess the extent to which self-reported command of the Thai language is associated with adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Thailand. We distributed a self-administered structured questionnaire in Burmese language to 1,050 Myanmar migrant workers in Southern Thailand from September 2022 to January 2023. The questionnaire included background characteristics, self-reported Thai language proficiency based on the Common European Framework Reference (CEFR), and self-reported CPB adherence at residence and workplace. We analyzed data using descriptive statistics and multivariate linear regression analysis. Although slightly less than half of the participants reported CEFR A1 level or higher in Thai speaking and listening skills, less than 10 percent did so for reading and writing skills. Workplace COVID-19 preventive adherence scores were initially found to be significantly associated with A1 level or higher speaking and listening skills. However, after adjusting for confounders, these associations were not statistically significant (Speaking skill's Adjusted Beta = 0.713, 95% CI = -0.011, 1.437; Listening skill's Adjusted Beta = -0.367, 95% CI = -1.087, 0.353). No significant associations were found between any language skill domain and residence COVID-19 preventive adherence scores for both unadjusted and adjusted analysis. The study findings may have implications for relevant stakeholders in migrant services, migrant health, and infectious disease control. However, information biases, language barriers, and lack of generalizability should be considered as caveats in the interpretation of the study findings.</description>
       <author>Hein Htet, Aungkana Chuaychai, Tida Sottiyotin, Kyaw Ko Ko Htet, Hutcha Sriplung, Wit Wichaidit, Virasakdi Chongsuvivatwong</author>
       <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0312571</guid>

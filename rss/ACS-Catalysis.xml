@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Oct 2024 01:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 01:23:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enantioselective Synthesis of Helically Chiral Molecules Enabled by Asymmetric Organocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c05345</link>
-      <description>Qingqin Huang, Yuping Tang, Cong-Zhen Zhang, Zhen Wang, Lei Dai, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403565410
-
-                No abstract</description>
-      <author>Qingqin Huang, Yuping Tang, Cong-Zhen Zhang, Zhen Wang, Lei Dai</author>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05345</guid>
-    </item>
     <item>
       <title>Diverse Mechanisms for the Aromatic Hydroxylation: Insights into the Mechanisms of the Coumarin Hydroxylation by CYP2A6</title>
       <link>https://doi.org/10.1021/acscatal.4c05330</link>
@@ -286,6 +276,36 @@
       <author>Tim Wissink, Floriane A. Rollier, Valery Muravev, Jason M. J. J. Heinrichs, Rim C. J. van de Poll, Jiadong Zhu, Dimitra Anastasiadou, Nikolay Kosinov, Marta C. Figueiredo, Emiel J. M. Hensen</author>
       <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02619</guid>
+    </item>
+    <item>
+      <title>Role of LiOH in Aqueous Electrocatalytic Defluorination of Perfluorooctanoic Sulfonate: Efficient Li&#8211;F Ion Pairing Prevents Anode Fouling by Produced Fluoride</title>
+      <link>https://doi.org/10.1021/acscatal.4c04523</link>
+      <description>Ziyi Meng, Madeleine K. Wilsey, Astrid M. Mueller, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403768680
+
+                No abstract</description>
+      <author>Ziyi Meng, Madeleine K. Wilsey, Astrid M. Mueller</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04523</guid>
+    </item>
+    <item>
+      <title>Nickel-Catalyzed Regio- and Stereoselective Hydroalkylation of Allenes: Exploiting the Unique Reactivity of Diazo Compounds as an Alkylating Source</title>
+      <link>https://doi.org/10.1021/acscatal.4c05410</link>
+      <description>Ujjwal Karmakar, Jae&#8208;Han Bae, Jin A. Kim, Seoyeon Kim, Won&#8208;Geun Yang, Eun Jin Cho, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403774607
+
+                No abstract</description>
+      <author>Ujjwal Karmakar, Jae&#8208;Han Bae, Jin A. Kim, Seoyeon Kim, Won&#8208;Geun Yang, Eun Jin Cho</author>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05410</guid>
+    </item>
+    <item>
+      <title>Understanding the Different Roles of Adsorbed Oxygen and Lattice Oxygen Species in the Distinct Catalytic Performance of Metal Oxides for &lt;i&gt;o&lt;/i&gt;-Xylene Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c04284</link>
+      <description>Ying Ma, Lian Wang, Jinzhu Ma, Guangzhi He, Daiqiang Li, Hong He, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403784543
+
+                No abstract</description>
+      <author>Ying Ma, Lian Wang, Jinzhu Ma, Guangzhi He, Daiqiang Li, Hong He</author>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04284</guid>
     </item>
   </channel>
 </rss>

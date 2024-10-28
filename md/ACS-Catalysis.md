@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Oct 27 01:26:29 2024
+Created on Mon Oct 28 01:23:50 2024
 
-Found 28 results from 2024-10-20 to 2024-10-27
+Found 30 results from 2024-10-21 to 2024-10-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Enantioselective Synthesis of Helically Chiral Molecules Enabled by Asymmetric Organocatalysis   
-
-OpenAlex: https://openalex.org/W4403565410    
-Open access: False
-    
-[Qingqin Huang](https://openalex.org/A5059831381), [Yuping Tang](https://openalex.org/A5070060890), [Cong-Zhen Zhang](https://openalex.org/A5112444128), [Zhen Wang](https://openalex.org/A5100422301), [Lei Dai](https://openalex.org/A5078690639), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05345.
-    
-No abstract    
-
-    
 
 ## Diverse Mechanisms for the Aromatic Hydroxylation: Insights into the Mechanisms of the Coumarin Hydroxylation by CYP2A6   
 
@@ -309,6 +298,39 @@ OpenAlex: https://openalex.org/W4403762662
 Open access: True
     
 [Tim Wissink](https://openalex.org/A5049329431), [Floriane A. Rollier](https://openalex.org/A5050329839), [Valery Muravev](https://openalex.org/A5041284394), [Jason M. J. J. Heinrichs](https://openalex.org/A5035721163), [Rim C. J. van de Poll](https://openalex.org/A5031285861), [Jiadong Zhu](https://openalex.org/A5044660743), [Dimitra Anastasiadou](https://openalex.org/A5043593335), [Nikolay Kosinov](https://openalex.org/A5052823556), [Marta C. Figueiredo](https://openalex.org/A5100676546), [Emiel J. M. Hensen](https://openalex.org/A5065080571), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02619.
+    
+No abstract    
+
+    
+
+## Role of LiOH in Aqueous Electrocatalytic Defluorination of Perfluorooctanoic Sulfonate: Efficient Li–F Ion Pairing Prevents Anode Fouling by Produced Fluoride   
+
+OpenAlex: https://openalex.org/W4403768680    
+Open access: True
+    
+[Ziyi Meng](https://openalex.org/A5073128276), [Madeleine K. Wilsey](https://openalex.org/A5078097655), [Astrid M. Mueller](https://openalex.org/A5038549187), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04523.
+    
+No abstract    
+
+    
+
+## Nickel-Catalyzed Regio- and Stereoselective Hydroalkylation of Allenes: Exploiting the Unique Reactivity of Diazo Compounds as an Alkylating Source   
+
+OpenAlex: https://openalex.org/W4403774607    
+Open access: False
+    
+[Ujjwal Karmakar](https://openalex.org/A5037771353), [Jae‐Han Bae](https://openalex.org/A5052847771), [Jin A. Kim](https://openalex.org/A5113542950), [Seoyeon Kim](https://openalex.org/A5100739688), [Won‐Geun Yang](https://openalex.org/A5109261347), [Eun Jin Cho](https://openalex.org/A5039126732), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05410.
+    
+No abstract    
+
+    
+
+## Understanding the Different Roles of Adsorbed Oxygen and Lattice Oxygen Species in the Distinct Catalytic Performance of Metal Oxides for o-Xylene Oxidation   
+
+OpenAlex: https://openalex.org/W4403784543    
+Open access: False
+    
+[Ying Ma](https://openalex.org/A5101876883), [Lian Wang](https://openalex.org/A5103701255), [Jinzhu Ma](https://openalex.org/A5078677061), [Guangzhi He](https://openalex.org/A5083733030), [Daiqiang Li](https://openalex.org/A5086982631), [Hong He](https://openalex.org/A5100730976), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04284.
     
 No abstract    
 
