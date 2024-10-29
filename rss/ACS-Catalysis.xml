@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Oct 2024 01:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 01:22:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Diverse Mechanisms for the Aromatic Hydroxylation: Insights into the Mechanisms of the Coumarin Hydroxylation by CYP2A6</title>
-      <link>https://doi.org/10.1021/acscatal.4c05330</link>
-      <description>Zhixing Gan, Feng Jian-qiang, Jiabin Yin, Jie Huang, Binju Wang, John Z. H. Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403583983
-
-                No abstract</description>
-      <author>Zhixing Gan, Feng Jian-qiang, Jiabin Yin, Jie Huang, Binju Wang, John Z. H. Zhang</author>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05330</guid>
-    </item>
-    <item>
-      <title>Virtual Ligand-Assisted Optimization: A Rational Strategy for Ligand Engineering</title>
-      <link>https://doi.org/10.1021/acscatal.4c06003</link>
-      <description>Wataru Matsuoka, Taihei Oki, Ren Yamada, Tomohiko Yokoyama, Shin&#8208;ichi Suda, Carla M. Saunders, Bastian Bjerkem Skjelstad, Yu Harabuchi, Natalie Fey, Satoru Iwata, Satoshi Maeda, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403588280
-
-                No abstract</description>
-      <author>Wataru Matsuoka, Taihei Oki, Ren Yamada, Tomohiko Yokoyama, Shin&#8208;ichi Suda, Carla M. Saunders, Bastian Bjerkem Skjelstad, Yu Harabuchi, Natalie Fey, Satoru Iwata, Satoshi Maeda</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06003</guid>
-    </item>
     <item>
       <title>Unveiling Intrinsic Charge Transfer Dynamics in Bone-Joint S-Scheme Heterostructures To Promote Photocatalytic Hydrogen Peroxide Generation</title>
       <link>https://doi.org/10.1021/acscatal.4c05031</link>

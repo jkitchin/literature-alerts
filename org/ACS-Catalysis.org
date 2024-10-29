@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Oct 28 01:23:50 2024
+Created on Tue Oct 29 01:22:27 2024
 
-Found 30 results from 2024-10-21 to 2024-10-28
+Found 28 results from 2024-10-22 to 2024-10-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Diverse Mechanisms for the Aromatic Hydroxylation: Insights into the Mechanisms of the Coumarin Hydroxylation by CYP2A6  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403583983
-:TOPICS: Predicting Antioxidant Activity of Phenolic Compounds, Metabolism and Function of Arachidonic Acid Derivatives, Drug Metabolism and Pharmacogenomics
-:PUBLICATION_DATE: 2024-10-20
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05330")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403583983"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403583983"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403583983"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403583983 (Open access: True)
-    
-[[https://openalex.org/A5010317693][Zhixing Gan]], [[https://openalex.org/A5019587287][Feng Jian-qiang]], [[https://openalex.org/A5110800786][Jiabin Yin]], [[https://openalex.org/A5075403988][Jie Huang]], [[https://openalex.org/A5091278358][Binju Wang]], [[https://openalex.org/A5045389074][John Z. H. Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05330  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05330?ref=article_openPDF][pdf]])
-     
-No abstract    
-
-    
-
-* Virtual Ligand-Assisted Optimization: A Rational Strategy for Ligand Engineering  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403588280
-:TOPICS: Homogeneous Catalysis with Transition Metals, Peptide Synthesis and Drug Discovery, Computational Methods in Drug Discovery
-:PUBLICATION_DATE: 2024-10-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06003")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403588280"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403588280"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403588280"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403588280 (Open access: True)
-    
-[[https://openalex.org/A5033502243][Wataru Matsuoka]], [[https://openalex.org/A5056811970][Taihei Oki]], [[https://openalex.org/A5110966923][Ren Yamada]], [[https://openalex.org/A5104214003][Tomohiko Yokoyama]], [[https://openalex.org/A5109292186][Shin‐ichi Suda]], [[https://openalex.org/A5003129734][Carla M. Saunders]], [[https://openalex.org/A5089960526][Bastian Bjerkem Skjelstad]], [[https://openalex.org/A5070699401][Yu Harabuchi]], [[https://openalex.org/A5063728069][Natalie Fey]], [[https://openalex.org/A5040460257][Satoru Iwata]], [[https://openalex.org/A5007539161][Satoshi Maeda]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06003 
-     
-No abstract    
-
-    
 
 * Unveiling Intrinsic Charge Transfer Dynamics in Bone-Joint S-Scheme Heterostructures To Promote Photocatalytic Hydrogen Peroxide Generation  :ACS_Catalysis:
 :PROPERTIES:

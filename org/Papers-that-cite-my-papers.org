@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Oct 28 01:24:00 2024
+Created on Tue Oct 29 01:22:41 2024
 
-Found 52 results from 2024-10-21 to 2024-10-28
+Found 52 results from 2024-10-22 to 2024-10-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076]]
@@ -16,27 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* Electronic structure simulations in the cloud computing environment  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403585557
-:TOPICS: Management and Reproducibility of Scientific Workflows, Accelerating Materials Innovation through Informatics, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-10-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0226437")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403585557"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403585557"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403585557"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403585557 (Open access: True)
-    
-[[https://openalex.org/A5056598051][Eric J. Bylaska]], [[https://openalex.org/A5080124836][Ajay Panyala]], [[https://openalex.org/A5027488490][Nicholas P. Bauman]], [[https://openalex.org/A5050600763][Bo Peng]], [[https://openalex.org/A5074134692][Himadri Pathak]], [[https://openalex.org/A5064415898][Daniel Mejı́a-Rodrı́guez]], [[https://openalex.org/A5042193329][Niranjan Govind]], [[https://openalex.org/A5007317870][David B. Williams‐Young]], [[https://openalex.org/A5007393680][Edoardo Aprà]], [[https://openalex.org/A5039600644][Abhishek Bagusetty]], [[https://openalex.org/A5082001738][Erdal Mutlu]], [[https://openalex.org/A5020941997][Koblar Alan Jackson]], [[https://openalex.org/A5011103481][Tunna Baruah]], [[https://openalex.org/A5037747824][Yoh Yamamoto]], [[https://openalex.org/A5067593473][Mark R. Pederson]], [[https://openalex.org/A5013033684][Kushantha P. K. Withanage]], [[https://openalex.org/A5028728488][Jesús N. Pedroza-Montero]], [[https://openalex.org/A5085600052][Jenna Pope]], [[https://openalex.org/A5016440514][Sutanay Choudhury]], [[https://openalex.org/A5063476184][Jesun Firoz]], [[https://openalex.org/A5080595548][Kristina M. Herman]], [[https://openalex.org/A5068503645][Sotiris S. Xantheas]], [[https://openalex.org/A5114341109][Paul Rigor]], [[https://openalex.org/A5052269356][Fernando D. Vila]], [[https://openalex.org/A5070251002][J. J. Rehr]], [[https://openalex.org/A5114341110][Mimi Fung]], [[https://openalex.org/A5005299370][Adam Grofe]], [[https://openalex.org/A5023257490][Conrad Johnston]], [[https://openalex.org/A5076984889][Nathan Baker]], [[https://openalex.org/A5112826581][K. Kaneko]], [[https://openalex.org/A5100408235][Hongbin Liu]], [[https://openalex.org/A5079494932][Karol Kowalski]], The Journal of Chemical Physics. 161(15)] 2024. https://doi.org/10.1063/5.0226437 
-     
-The transformative impact of modern computational paradigms and technologies, such as high-performance computing (HPC), quantum computing, and cloud computing, has opened up profound new opportunities for scientific simulations. Scalable computational chemistry is one beneficiary of this technological progress. The main focus of this paper is on the performance of various quantum chemical formulations, ranging from low-order methods to high-accuracy approaches, implemented in different computational chemistry packages and libraries, such as NWChem, NWChemEx, Scalable Predictive Methods for Excitations and Correlated Phenomena, ExaChem, and Fermi–Löwdin orbital self-interaction correction on Azure Quantum Elements, Microsoft's cloud services platform for scientific discovery. We pay particular attention to the intricate workflows for performing complex chemistry simulations, associated data curation, and mechanisms for accuracy assessment, which is demonstrated with the Arrows automated workflow for high throughput simulations. Finally, we provide a perspective on the role of cloud computing in supporting the mission of leadership computational facilities.    
-
-    
 
 * Computational screening of Group VⅢ@C5N4 single-atom electrocatalysts for overall water splitting  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -776,7 +755,7 @@ Abstract The development of efficient and durable bifunctional electrocatalysts 
 * Host-guest-induced electronic state triggers two-electron oxygen reduction electrocatalysis  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403749872
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Electrochemical Reduction of CO2 to Fuels
+:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-10-25
 :END:    
     
@@ -790,7 +769,7 @@ OpenAlex: https://openalex.org/W4403749872 (Open access: True)
     
 [[https://openalex.org/A5104339346][Hongni Chen]], [[https://openalex.org/A5100407147][Chao Wang]], [[https://openalex.org/A5100888817][Han Wu]], [[https://openalex.org/A5101761512][Lili Li]], [[https://openalex.org/A5069683027][Yali Xing]], [[https://openalex.org/A5020728580][Chuanhui Zhang]], [[https://openalex.org/A5062382444][Xiaojing Long]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-53714-3 
      
-No abstract    
+Supramolecular polymers possess great potential in catalysis owing to their distinctive molecular recognition and dynamic crosslinking features. However, investigating supramolecular electrocatalysts with high efficiency in oxygen reduction reaction to hydrogen peroxide (ORHP) remains an unexplored frontier. Herein, we present organic polymers for ORHP by introducing cyclodextrin-containing noncovalent building blocks, affording these supramolecules with abundant dynamic bonds. The electronic states and reaction kinetics are further well-modulated via a host-guest strategy, resulting in appropriate regional electron binding force and controllable chemical activity. Notably, integrating supramolecular units into phenyl group-containing model covalent polymer achieves a production rate of 9.14 mol g    
 
     
 
@@ -941,6 +920,27 @@ Abstract The continuous quest of finding optimum catalysts for photo‐electroca
 
     
 
+* Probing atomic-scale processes at the ferrihydrite-water interface with reactive molecular dynamics  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403782459
+:TOPICS: Solar Water Splitting Technology, Biohydrometallurgical Processes for Metal Extraction, Chemistry of Actinide and Lanthanide Elements
+:PUBLICATION_DATE: 2024-10-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1186/s12932-024-00094-8")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403782459"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403782459"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403782459"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403782459 (Open access: True)
+    
+[[https://openalex.org/A5024195516][Ardalan Hayatifar]], [[https://openalex.org/A5010678822][Simon Gravelle]], [[https://openalex.org/A5000648136][Beatriz D. Moreno]], [[https://openalex.org/A5083352436][Valerie A. Schoepfer]], [[https://openalex.org/A5035996687][Matthew B.J. Lindsay]], Geochemical Transactions. 25(1)] 2024. https://doi.org/10.1186/s12932-024-00094-8 
+     
+Interfacial processes involving metal (oxyhydr)oxide phases are important for the mobility and bioavailability of nutrients and contaminants in soils, sediments, and water. Consequently, these processes influence ecosystem health and functioning, and have shaped the biological and environmental co-evolution of Earth over geologic time. Here we employ reactive molecular dynamics simulations, supported by synchrotron X-ray spectroscopy to study the molecular-scale interfacial processes that influence surface complexation in ferrihydrite-water systems containing aqueous    
+
+    
+
 * Strong Metal‐Support Interactions in Heterogeneous Oxygen Electrocatalysis  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403791868
@@ -958,14 +958,14 @@ OpenAlex: https://openalex.org/W4403791868 (Open access: True)
     
 [[https://openalex.org/A5033505863][Zhiqian Hou]], [[https://openalex.org/A5113041819][Chenghao Cui]], [[https://openalex.org/A5049907537][Yanan Yang]], [[https://openalex.org/A5042340942][Zhikun Huang]], [[https://openalex.org/A5028690312][Yu Zhuang]], [[https://openalex.org/A5041980185][Ye Zeng]], [[https://openalex.org/A5102804428][Xi Gong]], [[https://openalex.org/A5100375904][Tao Zhang]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202407167  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202407167][pdf]])
      
-Abstract Molecular oxygen redox electrocatalysis involves oxygen reduction and evolution as core reactions in various energy conversion and environmental technology fields. Strong metal‐support interactions (SMSIs) based nanomaterials are regarded as desirable and state‐of‐the‐art heterogeneous electrocatalysts due to their exceptional physicochemical properties. Over the past decades, considerable advancements in theory and experiment have been achieved in related studies, especially in modulating the electronic structure and geometrical configuration of SMSIs to enable activity, selectivity, and stability. In this focuses on the concept of SMSI, explore their various manifestations and mechanisms of action, and summarizes recent advances in SMSIs for efficient energy conversion in oxygen redox electrocatalysis applications. Additionally, the correlation between the physicochemical properties of different metals and supports is systematically elucidated, and the potential mechanisms of the structure–activity relationships between SMSIs and catalytic performance are outlined through theoretical models. Finally, the obstacles confronting this burgeoning field are comprehensively concluded, targeted recommendations and coping strategies are proposed, and future research perspectives are outlined.    
+Molecular oxygen redox electrocatalysis involves oxygen reduction and evolution as core reactions in various energy conversion and environmental technology fields. Strong metal-support interactions (SMSIs) based nanomaterials are regarded as desirable and state-of-the-art heterogeneous electrocatalysts due to their exceptional physicochemical properties. Over the past decades, considerable advancements in theory and experiment have been achieved in related studies, especially in modulating the electronic structure and geometrical configuration of SMSIs to enable activity, selectivity, and stability. In this focuses on the concept of SMSI, explore their various manifestations and mechanisms of action, and summarizes recent advances in SMSIs for efficient energy conversion in oxygen redox electrocatalysis applications. Additionally, the correlation between the physicochemical properties of different metals and supports is systematically elucidated, and the potential mechanisms of the structure-activity relationships between SMSIs and catalytic performance are outlined through theoretical models. Finally, the obstacles confronting this burgeoning field are comprehensively concluded, targeted recommendations and coping strategies are proposed, and future research perspectives are outlined.    
 
     
 
 * Recent Progress in Non‐Noble Metal Catalysts for Oxygen Evolution Reaction: A Focus on Transition and Rare‐Earth Elements  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4403792218
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Fuel Cell Membrane Technology
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-10-26
 :END:    
     

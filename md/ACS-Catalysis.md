@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Oct 28 01:23:50 2024
+Created on Tue Oct 29 01:22:27 2024
 
-Found 30 results from 2024-10-21 to 2024-10-28
+Found 28 results from 2024-10-22 to 2024-10-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Diverse Mechanisms for the Aromatic Hydroxylation: Insights into the Mechanisms of the Coumarin Hydroxylation by CYP2A6   
-
-OpenAlex: https://openalex.org/W4403583983    
-Open access: True
-    
-[Zhixing Gan](https://openalex.org/A5010317693), [Feng Jian-qiang](https://openalex.org/A5019587287), [Jiabin Yin](https://openalex.org/A5110800786), [Jie Huang](https://openalex.org/A5075403988), [Binju Wang](https://openalex.org/A5091278358), [John Z. H. Zhang](https://openalex.org/A5045389074), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05330 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05330?ref=article_openPDF)).
-    
-No abstract    
-
-    
-
-## Virtual Ligand-Assisted Optimization: A Rational Strategy for Ligand Engineering   
-
-OpenAlex: https://openalex.org/W4403588280    
-Open access: True
-    
-[Wataru Matsuoka](https://openalex.org/A5033502243), [Taihei Oki](https://openalex.org/A5056811970), [Ren Yamada](https://openalex.org/A5110966923), [Tomohiko Yokoyama](https://openalex.org/A5104214003), [Shin‐ichi Suda](https://openalex.org/A5109292186), [Carla M. Saunders](https://openalex.org/A5003129734), [Bastian Bjerkem Skjelstad](https://openalex.org/A5089960526), [Yu Harabuchi](https://openalex.org/A5070699401), [Natalie Fey](https://openalex.org/A5063728069), [Satoru Iwata](https://openalex.org/A5040460257), [Satoshi Maeda](https://openalex.org/A5007539161), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06003.
-    
-No abstract    
-
-    
 
 ## Unveiling Intrinsic Charge Transfer Dynamics in Bone-Joint S-Scheme Heterostructures To Promote Photocatalytic Hydrogen Peroxide Generation   
 

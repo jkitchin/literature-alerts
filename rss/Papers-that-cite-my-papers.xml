@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Oct 2024 01:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 01:22:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electronic structure simulations in the cloud computing environment</title>
-      <link>https://doi.org/10.1063/5.0226437</link>
-      <description>Eric J. Bylaska, Ajay Panyala, Nicholas P. Bauman, Bo Peng, Himadri Pathak, Daniel Mej&#305;&#769;a-Rodr&#305;&#769;guez, Niranjan Govind, David B. Williams&#8208;Young, Edoardo Apr&#224;, Abhishek Bagusetty, Erdal Mutlu, Koblar Alan Jackson, Tunna Baruah, Yoh Yamamoto, Mark R. Pederson, Kushantha P. K. Withanage, Jes&#250;s N. Pedroza-Montero, Jenna Pope, Sutanay Choudhury, Jesun Firoz, Kristina M. Herman, Sotiris S. Xantheas, Paul Rigor, Fernando D. Vila, J. J. Rehr, Mimi Fung, Adam Grofe, Conrad Johnston, Nathan Baker, K. Kaneko, Hongbin Liu, Karol Kowalski, The Journal of Chemical Physics. 161(15)] 2024. https://openalex.org/W4403585557
-
-                The transformative impact of modern computational paradigms and technologies, such as high-performance computing (HPC), quantum computing, and cloud computing, has opened up profound new opportunities for scientific simulations. Scalable computational chemistry is one beneficiary of this technological progress. The main focus of this paper is on the performance of various quantum chemical formulations, ranging from low-order methods to high-accuracy approaches, implemented in different computational chemistry packages and libraries, such as NWChem, NWChemEx, Scalable Predictive Methods for Excitations and Correlated Phenomena, ExaChem, and Fermi&#8211;L&#246;wdin orbital self-interaction correction on Azure Quantum Elements, Microsoft's cloud services platform for scientific discovery. We pay particular attention to the intricate workflows for performing complex chemistry simulations, associated data curation, and mechanisms for accuracy assessment, which is demonstrated with the Arrows automated workflow for high throughput simulations. Finally, we provide a perspective on the role of cloud computing in supporting the mission of leadership computational facilities.</description>
-      <author>Eric J. Bylaska, Ajay Panyala, Nicholas P. Bauman, Bo Peng, Himadri Pathak, Daniel Mej&#305;&#769;a-Rodr&#305;&#769;guez, Niranjan Govind, David B. Williams&#8208;Young, Edoardo Apr&#224;, Abhishek Bagusetty, Erdal Mutlu, Koblar Alan Jackson, Tunna Baruah, Yoh Yamamoto, Mark R. Pederson, Kushantha P. K. Withanage, Jes&#250;s N. Pedroza-Montero, Jenna Pope, Sutanay Choudhury, Jesun Firoz, Kristina M. Herman, Sotiris S. Xantheas, Paul Rigor, Fernando D. Vila, J. J. Rehr, Mimi Fung, Adam Grofe, Conrad Johnston, Nathan Baker, K. Kaneko, Hongbin Liu, Karol Kowalski</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0226437</guid>
-    </item>
     <item>
       <title>Computational screening of Group V&#8546;@C5N4 single-atom electrocatalysts for overall water splitting</title>
       <link>https://doi.org/10.1016/j.mcat.2024.114619</link>
@@ -372,7 +362,7 @@
       <link>https://doi.org/10.1038/s41467-024-53714-3</link>
       <description>Hongni Chen, Chao Wang, Han Wu, Lili Li, Yali Xing, Chuanhui Zhang, Xiaojing Long, Nature Communications. 15(1)] 2024. https://openalex.org/W4403749872
 
-                No abstract</description>
+                Supramolecular polymers possess great potential in catalysis owing to their distinctive molecular recognition and dynamic crosslinking features. However, investigating supramolecular electrocatalysts with high efficiency in oxygen reduction reaction to hydrogen peroxide (ORHP) remains an unexplored frontier. Herein, we present organic polymers for ORHP by introducing cyclodextrin-containing noncovalent building blocks, affording these supramolecules with abundant dynamic bonds. The electronic states and reaction kinetics are further well-modulated via a host-guest strategy, resulting in appropriate regional electron binding force and controllable chemical activity. Notably, integrating supramolecular units into phenyl group-containing model covalent polymer achieves a production rate of 9.14 mol g</description>
       <author>Hongni Chen, Chao Wang, Han Wu, Lili Li, Yali Xing, Chuanhui Zhang, Xiaojing Long</author>
       <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53714-3</guid>
@@ -448,11 +438,21 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adts.202400816</guid>
     </item>
     <item>
+      <title>Probing atomic-scale processes at the ferrihydrite-water interface with reactive molecular dynamics</title>
+      <link>https://doi.org/10.1186/s12932-024-00094-8</link>
+      <description>Ardalan Hayatifar, Simon Gravelle, Beatriz D. Moreno, Valerie A. Schoepfer, Matthew B.J. Lindsay, Geochemical Transactions. 25(1)] 2024. https://openalex.org/W4403782459
+
+                Interfacial processes involving metal (oxyhydr)oxide phases are important for the mobility and bioavailability of nutrients and contaminants in soils, sediments, and water. Consequently, these processes influence ecosystem health and functioning, and have shaped the biological and environmental co-evolution of Earth over geologic time. Here we employ reactive molecular dynamics simulations, supported by synchrotron X-ray spectroscopy to study the molecular-scale interfacial processes that influence surface complexation in ferrihydrite-water systems containing aqueous</description>
+      <author>Ardalan Hayatifar, Simon Gravelle, Beatriz D. Moreno, Valerie A. Schoepfer, Matthew B.J. Lindsay</author>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1186/s12932-024-00094-8</guid>
+    </item>
+    <item>
       <title>Strong Metal&#8208;Support Interactions in Heterogeneous Oxygen Electrocatalysis</title>
       <link>https://doi.org/10.1002/smll.202407167</link>
       <description>Zhiqian Hou, Chenghao Cui, Yanan Yang, Zhikun Huang, Yu Zhuang, Ye Zeng, Xi Gong, Tao Zhang, Small. None(None)] 2024. https://openalex.org/W4403791868
 
-                Abstract Molecular oxygen redox electrocatalysis involves oxygen reduction and evolution as core reactions in various energy conversion and environmental technology fields. Strong metal&#8208;support interactions (SMSIs) based nanomaterials are regarded as desirable and state&#8208;of&#8208;the&#8208;art heterogeneous electrocatalysts due to their exceptional physicochemical properties. Over the past decades, considerable advancements in theory and experiment have been achieved in related studies, especially in modulating the electronic structure and geometrical configuration of SMSIs to enable activity, selectivity, and stability. In this focuses on the concept of SMSI, explore their various manifestations and mechanisms of action, and summarizes recent advances in SMSIs for efficient energy conversion in oxygen redox electrocatalysis applications. Additionally, the correlation between the physicochemical properties of different metals and supports is systematically elucidated, and the potential mechanisms of the structure&#8211;activity relationships between SMSIs and catalytic performance are outlined through theoretical models. Finally, the obstacles confronting this burgeoning field are comprehensively concluded, targeted recommendations and coping strategies are proposed, and future research perspectives are outlined.</description>
+                Molecular oxygen redox electrocatalysis involves oxygen reduction and evolution as core reactions in various energy conversion and environmental technology fields. Strong metal-support interactions (SMSIs) based nanomaterials are regarded as desirable and state-of-the-art heterogeneous electrocatalysts due to their exceptional physicochemical properties. Over the past decades, considerable advancements in theory and experiment have been achieved in related studies, especially in modulating the electronic structure and geometrical configuration of SMSIs to enable activity, selectivity, and stability. In this focuses on the concept of SMSI, explore their various manifestations and mechanisms of action, and summarizes recent advances in SMSIs for efficient energy conversion in oxygen redox electrocatalysis applications. Additionally, the correlation between the physicochemical properties of different metals and supports is systematically elucidated, and the potential mechanisms of the structure-activity relationships between SMSIs and catalytic performance are outlined through theoretical models. Finally, the obstacles confronting this burgeoning field are comprehensively concluded, targeted recommendations and coping strategies are proposed, and future research perspectives are outlined.</description>
       <author>Zhiqian Hou, Chenghao Cui, Yanan Yang, Zhikun Huang, Yu Zhuang, Ye Zeng, Xi Gong, Tao Zhang</author>
       <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202407167</guid>
