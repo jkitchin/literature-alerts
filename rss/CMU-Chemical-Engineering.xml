@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Oct 2024 01:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 01:21:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Low temperature growth of sub 10-nm particles by ammonium nitrate condensation</title>
-      <link>https://doi.org/10.1039/d4ea00117f</link>
-      <description>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad, Environmental Science Atmospheres. None(None)] 2024. https://openalex.org/W4403597421
-
-                Co-condensation of nitric acid and ammonia vapors to form ammonium nitrate transforms from a fully semi-volatile behavior when it is relatively warm (273 K and above, typical of the seasonal...</description>
-      <author>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00117f</guid>
-    </item>
-    <item>
-      <title>Biosensing of Bacterial Secretions via Topological Defects at Smectic Interfaces</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c02698</link>
-      <description>Vajra S. Badha, Tagbo H. R. Niepa, Mohamed Amine Gharbi, Langmuir. None(None)] 2024. https://openalex.org/W4403609907
-
-                Characterizing the anchoring properties of smectic liquid crystals (LCs) in contact with bacterial solutions is crucial for developing biosensing platforms. In this study, we investigate the anchoring properties of a smectic LC when exposed to Bacillus subtilis and Escherichia coli bacterial suspensions using interfaces with known anchoring properties. By monitoring the optical response of the smectic film, we successfully distinguish different types of bacteria, leveraging the distinct changes in the LC's response. Through a comprehensive analysis of the interactions between bacterial proteins and the smectic interface, we elucidate the potential underlying mechanisms responsible for these optical changes. Additionally, we introduce the utilization of topological defects, the focal conic domains (FCDs), at the smectic interface as an indicative measure of the bacterial concentration. Our findings contribute to the understanding of bacteria&#8211;LC interactions and demonstrate the significant potential of smectic LCs and their defects for biosensing applications, paving the way for advancements in pathogen detection and protein-based sensing.</description>
-      <author>Vajra S. Badha, Tagbo H. R. Niepa, Mohamed Amine Gharbi</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c02698</guid>
-    </item>
     <item>
       <title>Author response for "Low temperature growth of sub 10-nm particles by ammonium nitrate condensation"</title>
       <link>https://doi.org/10.1039/d4ea00117f/v2/response1</link>

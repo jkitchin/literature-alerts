@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Oct 2024 01:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 01:21:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Computational screening of Group V&#8546;@C5N4 single-atom electrocatalysts for overall water splitting</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114619</link>
-      <description>Cuimei Li, Dong Cao, Dandan Guo, Chun&#8208;Ran Chang, Molecular Catalysis. 569(None)] 2024. https://openalex.org/W4403590090
-
-                No abstract</description>
-      <author>Cuimei Li, Dong Cao, Dandan Guo, Chun&#8208;Ran Chang</author>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114619</guid>
-    </item>
-    <item>
-      <title>Supramolecular Catalyzed Cascade Reduction of Azaarenes Interrogated via Data Science</title>
-      <link>https://doi.org/10.1021/jacs.4c11482</link>
-      <description>Sean M. Treacy, Andrew L. Smith, Robert G. Bergman, Kenneth N. Raymond, F. Dean Toste, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403596888
-
-                Catalysis of multicomponent transformations requires controlled assembly of reactants within the active site. Supramolecular scaffolds possess synthetic microenvironments that enable precise modulation over noncovalent interactions (NCIs) engaged by reactive, encapsulated species. While molecular properties that describe the behavior of single guests in host cavities have been studied extensively, multicomponent transformations remain challenging to design and deploy. Here, simple univariate regression and threshold analyses are employed to model reactivity in a cascade reduction of azaarenes catalyzed by water-soluble metal organic cages. Yield and stereoselectivity models help deduce unknown mechanisms of reactivity by the multicomponent, host&#8211;guest complexes. Furthermore, a comprehensive model is established for NCIs driving stereoselectivity in the reported host&#8211;guest adducts.</description>
-      <author>Sean M. Treacy, Andrew L. Smith, Robert G. Bergman, Kenneth N. Raymond, F. Dean Toste</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c11482</guid>
-    </item>
-    <item>
-      <title>Electrode Materials for NO Electroreduction Based on Dithiolene Metal&#8211;Organic Frameworks: A Theoretical Study</title>
-      <link>https://doi.org/10.3390/catal14100739</link>
-      <description>Jiake Fan, Lei Yang, Lixin Ye, Mengyun Mei, Weihua Zhu, Catalysts. 14(10)] 2024. https://openalex.org/W4403601369
-
-                To quickly and efficiently screen catalytic materials with both activity and selectivity for the nitric oxide reduction reaction (NORR), we adopted a strategy that considers the activity of the side reaction hydrogen evolution reaction (HER) first. It can be seen that Fe3(THT)2 (THT = triphenylene-2,3,6,7,10,11-hexathiol) has extremely excellent HER activity, with a Gibbs free energy change (&#916;G) of 0.007 eV. Based on the relationship between &#916;G and theoretical exchange current density, all TM3(THT)2 can be divided into two regions: one is the absolute values of &#916;G greater than 1 eV, the other is the absolute values of &#916;G greater than 0 eV and less than 1eV. Obviously, the candidates with the absolute values of &#916;G greater than 1 eV have poor HER performance, but this precisely provides the possibility of obtaining NORR catalytic materials with both excellent selectivity and activity. Subsequent calculation results show that the maximum &#916;G change of the rate-determining step of Ta3(THT)2 is unexpectedly only 0.05 eV. Therefore, Ta3(THT)2 may be regarded as the NORR catalytic material with both excellent performance and selectivity. Based on the electron transfer and partial density of states (PDOS) analysis, it can be seen that Ta plays a crucial role in the activation stage of NO. The approach that considers the activity of the side reaction HER first may provide a new idea for rapidly screening highly selective and active NORR catalysts.</description>
-      <author>Jiake Fan, Lei Yang, Lixin Ye, Mengyun Mei, Weihua Zhu</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14100739</guid>
-    </item>
-    <item>
-      <title>Proton exchange membrane&#8208;based electrocatalytic systems for hydrogen production</title>
-      <link>https://doi.org/10.1002/cey2.629</link>
-      <description>Yangyang Zhou, H. Zhong, Shanhu Chen, Guobin Wen, Liang Shen, Yanyong Wang, Ru Chen, Li Tao, Wang Shuangyin, Carbon Energy. None(None)] 2024. https://openalex.org/W4403602672
-
-                Abstract Hydrogen energy from electrocatalysis driven by sustainable energy has emerged as a solution against the background of carbon neutrality. Proton exchange membrane (PEM)&#8208;based electrocatalytic systems represent a promising technology for hydrogen production, which is equipped to combine efficiently with intermittent electricity from renewable energy sources. In this review, PEM&#8208;based electrocatalytic systems for H 2 production are summarized systematically from low to high operating temperature systems. When the operating temperature is below 130&#176;C, the representative device is a PEM water electrolyzer; its core components and respective functions, research status, and design strategies of key materials especially in electrocatalysts are presented and discussed. However, strong acidity, highly oxidative operating conditions, and the sluggish kinetics of the anode reaction of PEM water electrolyzers have limited their further development and shifted our attention to higher operating temperature PEM systems. Increasing the temperature of PEM&#8208;based electrocatalytic systems can cause an increase in current density, accelerate reaction kinetics and gas transport and reduce the ohmic value, activation losses, &#916; G H* , and power consumption. Moreover, further increasing the operating temperature (120&#8211;300&#176;C) of PEM&#8208;based devices endows various hydrogen carriers (e.g., methanol, ethanol, and ammonia) with electrolysis, offering a new opportunity to produce hydrogen using PEM&#8208;based electrocatalytic systems. Finally, several future directions and prospects for developing PEM&#8208;based electrocatalytic systems for H 2 production are proposed through devoting more efforts to the key components of devices and reduction of costs.</description>
-      <author>Yangyang Zhou, H. Zhong, Shanhu Chen, Guobin Wen, Liang Shen, Yanyong Wang, Ru Chen, Li Tao, Wang Shuangyin</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cey2.629</guid>
-    </item>
-    <item>
-      <title>ASIMTools: A lightweight framework for scalable and reproducible atomic simulations</title>
-      <link>https://doi.org/10.21105/joss.07085</link>
-      <description>Mgcini Keith Phuthi, Emil Annevelink, Venkatasubramanian Viswanathan, The Journal of Open Source Software. 9(102)] 2024. https://openalex.org/W4403614018
-
-                No abstract</description>
-      <author>Mgcini Keith Phuthi, Emil Annevelink, Venkatasubramanian Viswanathan</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21105/joss.07085</guid>
-    </item>
-    <item>
-      <title>Asymmetric Site-Enabled O&#8211;O Coupling in Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04164</link>
-      <description>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624087
-
-                No abstract</description>
-      <author>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04164</guid>
-    </item>
     <item>
       <title>Exploring pyrolusite &#946;-MnO2 as a robust support for noble metal catalysts in proton exchange membrane water electrolysis</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.10.246</link>
@@ -468,6 +408,46 @@
       <guid isPermaLink="true">https://doi.org/10.1002/tcr.202400151</guid>
     </item>
     <item>
+      <title>Achievements and Challenges in Surfactants&#8208;Assisted Synthesis of MOFs&#8208;Derived Transition Metal&#8211;Nitrogen&#8211;Carbon as a Highly Efficient Electrocatalyst for ORR, OER, and HER</title>
+      <link>https://doi.org/10.1002/smll.202408227</link>
+      <description>Ru&#8208;Ji Li, Wen&#8208;Jun Niu, Wei&#8208;Wei Zhao, Bing&#8208;Xin Yu, Chen&#8208;Yu Cai, Liyang Xu, Fu&#8208;Ming Wang, Small. None(None)] 2024. https://openalex.org/W4403808262
+
+                Abstract Metal&#8211;organic frameworks (MOFs) are excellent precursors for preparing transition metal and nitrogen co&#8208;doped carbon catalysts, which have been widely utilized in the field of electrocatalysis since their initial development. However, the original MOFs derived catalysts have been greatly limited in their development and application due to their disadvantages such as metal atom aggregation, structural collapse, and narrow pore channels. Recently, surfactants&#8208;assisted MOFs derived catalysts have attracted much attention from researchers due to their advantages such as hierarchical porous structure, increased specific surface area, and many exposed active sites. This review mainly focuses on the synthesis methods of surfactants&#8208;assisted MOFs derived catalysts and comprehensively introduces the action of surfactants in MOFs derived materials and the structure&#8208;activity relationship between the catalysts and the oxygen reduction reaction, oxygen evolution reaction, and hydrogen evolution reaction performance. Apparently, the aims of this review not only introduce the status of surfactants&#8208;assisted MOFs derived catalysts in the field of electrocatalysis but also contribute to the rational design and synthesis of MOFs derived catalysts for fuel cells, metal&#8211;air cells, and electrolysis of water toward hydrogen production.</description>
+      <author>Ru&#8208;Ji Li, Wen&#8208;Jun Niu, Wei&#8208;Wei Zhao, Bing&#8208;Xin Yu, Chen&#8208;Yu Cai, Liyang Xu, Fu&#8208;Ming Wang</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408227</guid>
+    </item>
+    <item>
+      <title>Supplanted by electron-deficient B to form RuN2B-CoN4 moiety as superior catalytic site to further promote urea production</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114637</link>
+      <description>Ao Yang, Changyan Zhu, Kaile Li, Yun&#8211;Jie Chu, Mengxue Wang, Yun Geng, Zhong&#8208;Min Su, Min Zhang, Molecular Catalysis. 569(None)] 2024. https://openalex.org/W4403813518
+
+                No abstract</description>
+      <author>Ao Yang, Changyan Zhu, Kaile Li, Yun&#8211;Jie Chu, Mengxue Wang, Yun Geng, Zhong&#8208;Min Su, Min Zhang</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114637</guid>
+    </item>
+    <item>
+      <title>Microwave&#8208;assisted control of Pt&#63743;Ni nanoalloy clusters on the nitrogen&#8208;doped graphene oxide for energy conversion with oxygen reduction reaction and hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1002/eom2.12499</link>
+      <description>Seung Geun Jo, Gil&#8208;Ryeong Park, Jemin Kim, D. Ahn, Rahul Ramkumar, Sun&#8208;I Kim, Duck Hyun Lee, Jung Woo Lee, EcoMat. None(None)] 2024. https://openalex.org/W4403822209
+
+                Abstract Research on the production and utilization of hydrogen energy is essential to overcome the environmental issues caused by fossil fuels. Herein, we anchor Pt&#63743;Ni nanoalloy clusters (Pt&#8208;Ni NACs) on nitrogen&#8208;doped graphene oxide (NrGO) by a facile microwave&#8208;assisted synthesis and analyze the variations of catalyst properties based on the Pt&#63743;Ni composition and the presence of nitrogen. Ni inclusion in the Pt matrix can induce lattice strain and change the electronic structure, while the doped nitrogen into the graphene can enhance electron transfer and improve the durability of the catalyst through strong chemical bonding with the alloy clusters. TEM analysis discovers that the NACs are uniformly decorated in a few&#8208;nanometer&#8208;size on the graphene surface, and the formation of the Pt&#63743;Ni NACs and structural changes according to composition are confirmed through XRD and XPS. In addition, the structural changes due to N&#8208;doping and its bonding with the NACs are observed through Raman spectroscopy and XPS. Electrochemical measurements reveal that Pt 2.6 Ni NACs/NrGO exhibits the highest ORR onset potential (0.893 V) and the lowest HER overpotential at 10 mA cm &#8722;2 (22 mV) among other catalysts, and those activities are almost unchanged under long&#8208;term durability tests. From these results, Pt 2.6 Ni NACs/NrGO is utilized in a zinc&#8208;air battery (ZAB) system, demonstrating better battery performance than commercial Pt and Ir&#8208;based catalysts. Moreover, it is applied to hydrogen collection, showing linear trend in hydrogen production over time, confirming the catalyst's availability in hydrogen production and utilization. image</description>
+      <author>Seung Geun Jo, Gil&#8208;Ryeong Park, Jemin Kim, D. Ahn, Rahul Ramkumar, Sun&#8208;I Kim, Duck Hyun Lee, Jung Woo Lee</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/eom2.12499</guid>
+    </item>
+    <item>
+      <title>Microbe-electrode interactions on biocathodes are facilitated through tip-enhanced electric fields during CO2-fed microbial electrosynthesis</title>
+      <link>https://doi.org/10.1016/j.xcrp.2024.102262</link>
+      <description>Ning Xue, Limin Liu, Richen Lin, Richard O&#8217;Shea, Chen Deng, Xiaoxu Xuan, Rongxin Xia, David Wall, Jerry D. Murphy, Cell Reports Physical Science. None(None)] 2024. https://openalex.org/W4403825161
+
+                No abstract</description>
+      <author>Ning Xue, Limin Liu, Richen Lin, Richard O&#8217;Shea, Chen Deng, Xiaoxu Xuan, Rongxin Xia, David Wall, Jerry D. Murphy</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.xcrp.2024.102262</guid>
+    </item>
+    <item>
       <title>&lt;scp&gt;ROBERT&lt;/scp&gt;: Bridging the Gap Between Machine Learning and Chemistry</title>
       <link>https://doi.org/10.1002/wcms.1733</link>
       <description>David Dalmau, Juan V. Alegre&#8208;Requena, Wiley Interdisciplinary Reviews Computational Molecular Science. 14(5)] 2024. https://openalex.org/W4403697375
@@ -516,16 +496,6 @@
       <author>Hein Htet, Aungkana Chuaychai, Tida Sottiyotin, Kyaw Ko Ko Htet, Hutcha Sriplung, Wit Wichaidit, Virasakdi Chongsuvivatwong</author>
       <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0312571</guid>
-    </item>
-    <item>
-      <title>Active and Stable Plasma-Enhanced ALD Pt@Ni-YSZ Hydrogen Electrode for Steam Reversible Solid Oxide Cells</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124740</link>
-      <description>Hyong June Kim, Haoyu Li, Dae&#8208;Hyun Kim, Geonwoo Park, Sung Eun Jo, Kyoungjae Ju, Geongu Han, Yongchai Kwon, Haesun Park, Min Hwan Lee, Jihwan An, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4403601128
-
-                No abstract</description>
-      <author>Hyong June Kim, Haoyu Li, Dae&#8208;Hyun Kim, Geonwoo Park, Sung Eun Jo, Kyoungjae Ju, Geongu Han, Yongchai Kwon, Haesun Park, Min Hwan Lee, Jihwan An</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124740</guid>
     </item>
   </channel>
 </rss>

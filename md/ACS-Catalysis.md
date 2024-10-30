@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Oct 29 01:22:27 2024
+Created on Wed Oct 30 01:21:22 2024
 
-Found 28 results from 2024-10-22 to 2024-10-29
+Found 25 results from 2024-10-23 to 2024-10-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Unveiling Intrinsic Charge Transfer Dynamics in Bone-Joint S-Scheme Heterostructures To Promote Photocatalytic Hydrogen Peroxide Generation   
-
-OpenAlex: https://openalex.org/W4403609329    
-Open access: False
-    
-[Yuhui Liu](https://openalex.org/A5100352022), [Xiaoxu Deng](https://openalex.org/A5071283478), [Yi Wang](https://openalex.org/A5100364960), [Qin Luo](https://openalex.org/A5103958617), [Yunxia Liu](https://openalex.org/A5100684455), [Shuang‐Feng Yin](https://openalex.org/A5086761727), [Peng Chen](https://openalex.org/A5100338470), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05031.
-    
-No abstract    
-
-    
-
-## Asymmetric Site-Enabled O–O Coupling in Co3O4 for Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4403624087    
-Open access: False
-    
-[Minghui Cui](https://openalex.org/A5079996275), [Rongjing Guo](https://openalex.org/A5023013259), [Yansong Zhou](https://openalex.org/A5039977437), [Wenqi Zhao](https://openalex.org/A5056090006), [Yanjing Liu](https://openalex.org/A5113300516), [Wenbo Luo](https://openalex.org/A5082312923), [Qiongrong Ou](https://openalex.org/A5103249327), [Shuyu Zhang](https://openalex.org/A5100634783), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04164.
-    
-No abstract    
-
-    
-
-## Merging Consecutive PET Processes within a Metal–Organic Cage for Abiotic–Biotic Combined Photocatalytic Biomass Reforming   
-
-OpenAlex: https://openalex.org/W4403624214    
-Open access: False
-    
-[Zhe Li](https://openalex.org/A5085096243), [Junkai Cai](https://openalex.org/A5044114030), [Lingxiao Wang](https://openalex.org/A5100779979), [Chunying Duan](https://openalex.org/A5058753442), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06018.
-    
-No abstract    
-
-    
-
-## Role of High-Valence Metal Dissolution in Oxygen Evolution Kinetics of the Advanced FeNiOx Catalysts   
-
-OpenAlex: https://openalex.org/W4403624235    
-Open access: False
-    
-[Jun Ke](https://openalex.org/A5087968444), [Jiaxi Zhang](https://openalex.org/A5029153042), [Longhai Zhang](https://openalex.org/A5019925257), [Shunyi He](https://openalex.org/A5113055303), [Chengzhi Zhong](https://openalex.org/A5041745010), [Li Du](https://openalex.org/A5062744012), [Jiajun Huang](https://openalex.org/A5018142547), [Xiaoming Fang](https://openalex.org/A5015015240), [Zhengguo Zhang](https://openalex.org/A5088133681), [Zhiming Cui](https://openalex.org/A5023031181), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04454.
-    
-No abstract    
-
-    
 
 ## Cu-Albumin Artificial Enzymes with Peroxidase and Oxidase Activity for Stereoselective Oxidations   
 
@@ -309,6 +265,17 @@ OpenAlex: https://openalex.org/W4403784543
 Open access: False
     
 [Ying Ma](https://openalex.org/A5101876883), [Lian Wang](https://openalex.org/A5103701255), [Jinzhu Ma](https://openalex.org/A5078677061), [Guangzhi He](https://openalex.org/A5083733030), [Daiqiang Li](https://openalex.org/A5086982631), [Hong He](https://openalex.org/A5100730976), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04284.
+    
+No abstract    
+
+    
+
+## Correction to “Impact of Sn Lewis Acid Sites on the Dehydration of Cyclohexanol”   
+
+OpenAlex: https://openalex.org/W4403813756    
+Open access: True
+    
+[Karen A. Resende](https://openalex.org/A5003259239), [Ruixue Zhao](https://openalex.org/A5046978036), [Yue Liu](https://openalex.org/A5100735453), [Eszter Baráth](https://openalex.org/A5047406603), [Johannes A. Lercher](https://openalex.org/A5057378771), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05977 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05977?ref=article_openPDF)).
     
 No abstract    
 

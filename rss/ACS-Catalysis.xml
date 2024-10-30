@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Oct 2024 01:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 01:21:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unveiling Intrinsic Charge Transfer Dynamics in Bone-Joint S-Scheme Heterostructures To Promote Photocatalytic Hydrogen Peroxide Generation</title>
-      <link>https://doi.org/10.1021/acscatal.4c05031</link>
-      <description>Yuhui Liu, Xiaoxu Deng, Yi Wang, Qin Luo, Yunxia Liu, Shuang&#8208;Feng Yin, Peng Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403609329
-
-                No abstract</description>
-      <author>Yuhui Liu, Xiaoxu Deng, Yi Wang, Qin Luo, Yunxia Liu, Shuang&#8208;Feng Yin, Peng Chen</author>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05031</guid>
-    </item>
-    <item>
-      <title>Asymmetric Site-Enabled O&#8211;O Coupling in Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04164</link>
-      <description>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624087
-
-                No abstract</description>
-      <author>Minghui Cui, Rongjing Guo, Yansong Zhou, Wenqi Zhao, Yanjing Liu, Wenbo Luo, Qiongrong Ou, Shuyu Zhang</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04164</guid>
-    </item>
-    <item>
-      <title>Merging Consecutive PET Processes within a Metal&#8211;Organic Cage for Abiotic&#8211;Biotic Combined Photocatalytic Biomass Reforming</title>
-      <link>https://doi.org/10.1021/acscatal.4c06018</link>
-      <description>Zhe Li, Junkai Cai, Lingxiao Wang, Chunying Duan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624214
-
-                No abstract</description>
-      <author>Zhe Li, Junkai Cai, Lingxiao Wang, Chunying Duan</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06018</guid>
-    </item>
-    <item>
-      <title>Role of High-Valence Metal Dissolution in Oxygen Evolution Kinetics of the Advanced FeNiO&lt;i&gt;&lt;sub&gt;x&lt;/sub&gt;&lt;/i&gt; Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c04454</link>
-      <description>Jun Ke, Jiaxi Zhang, Longhai Zhang, Shunyi He, Chengzhi Zhong, Li Du, Jiajun Huang, Xiaoming Fang, Zhengguo Zhang, Zhiming Cui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403624235
-
-                No abstract</description>
-      <author>Jun Ke, Jiaxi Zhang, Longhai Zhang, Shunyi He, Chengzhi Zhong, Li Du, Jiajun Huang, Xiaoming Fang, Zhengguo Zhang, Zhiming Cui</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04454</guid>
-    </item>
     <item>
       <title>Cu-Albumin Artificial Enzymes with Peroxidase and Oxidase Activity for Stereoselective Oxidations</title>
       <link>https://doi.org/10.1021/acscatal.4c05732</link>
@@ -286,6 +246,16 @@
       <author>Ying Ma, Lian Wang, Jinzhu Ma, Guangzhi He, Daiqiang Li, Hong He</author>
       <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04284</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;Impact of Sn Lewis Acid Sites on the Dehydration of Cyclohexanol&#8221;</title>
+      <link>https://doi.org/10.1021/acscatal.4c05977</link>
+      <description>Karen A. Resende, Ruixue Zhao, Yue Liu, Eszter Bar&#225;th, Johannes A. Lercher, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403813756
+
+                No abstract</description>
+      <author>Karen A. Resende, Ruixue Zhao, Yue Liu, Eszter Bar&#225;th, Johannes A. Lercher</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05977</guid>
     </item>
   </channel>
 </rss>
