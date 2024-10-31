@@ -4,38 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Oct 2024 01:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:22:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Author response for "Low temperature growth of sub 10-nm particles by ammonium nitrate condensation"</title>
-      <link>https://doi.org/10.1039/d4ea00117f/v2/response1</link>
-      <description>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad, No host. None(None)] 2024. https://openalex.org/W4403630514
+      <title>Supplementary material to "Gas-phase Observations of Accretion Products from Stabilized Criegee Intermediates in Terpene Ozonolysis with Two Dicarboxylic Acids"</title>
+      <link>https://doi.org/10.5194/egusphere-2024-3323-supplement</link>
+      <description>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn, No host. None(None)] 2024. https://openalex.org/W4403841243
 
                 No abstract</description>
-      <author>Neil M. Donahue, Mao Xiao, Ruby Marten, Mingyi Wang, Weimeng Kong, Meredith Schervish, Qing Ye, Victoria Hofbauer, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Hamish Gordon, J. Kirkby, Houssni Lamkaddam, Vladimir Makhmutov, Maxim Philippov, Birte R&#246;rup, Rainer Volkamer, Dongyu Wang, Stefan K. Weber, Richard C. Flagan, Dominik Stolzenburg, Imad El Haddad</author>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00117f/v2/response1</guid>
+      <author>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-3323-supplement</guid>
     </item>
     <item>
-      <title>Solving the security constrained unit commitment problem: Three novel approaches</title>
-      <link>https://doi.org/10.1016/j.ijepes.2024.110213</link>
-      <description>Alessandro Francesco Castelli, Iiro Harjunkoski, Jan Poland, Marco Giuntoli, Emanuele Martelli, Ignacio E. Grossmann, International Journal of Electrical Power &amp; Energy Systems. 162(None)] 2024. https://openalex.org/W4403631750
+      <title>Gas-phase Observations of Accretion Products from Stabilized Criegee Intermediates in Terpene Ozonolysis with Two Dicarboxylic Acids</title>
+      <link>https://doi.org/10.5194/egusphere-2024-3323</link>
+      <description>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn, No host. None(None)] 2024. https://openalex.org/W4403841337
 
-                No abstract</description>
-      <author>Alessandro Francesco Castelli, Iiro Harjunkoski, Jan Poland, Marco Giuntoli, Emanuele Martelli, Ignacio E. Grossmann</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijepes.2024.110213</guid>
-    </item>
-    <item>
-      <title>Vibrationally Assisted Tunneling through the Bread of a Proton Sandwich - Connections to Dynamic Matching</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-n8688</link>
-      <description>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo, No host. None(None)] 2024. https://openalex.org/W4403647238
-
-                Proton sandwiches are unusual non-classical carbocations characterized by a five-center, four-electron bonding array which rapidly isomerize to lower energy isomers with three-center, two-electron bonding arrays via hydrogen migration transition states. These reactions are suspected to involve significant contributions from tunneling, even at relatively high temperatures. Machine-learning-accelerated ring-polymer, quasi-classical, and classical ab initio molecular dynamics simulations were used to investigate the effects of a flavor of dynamic matching that involves coupling of vibrational modes of the reactant to the imaginary mode of the transition state, and how quantum mechanical tunneling affects this coupling. These non-statistical dynamic effects were quantified by analysis of momentum in the molecular dynamics simulations. We show the importance of momentum for reactivity with and without tunneling, how tunneling amplifies these benefits, and that vibrational modes can be leveraged to generate beneficial momentum.</description>
-      <author>Yusef Ahmed, Gabriel dos Passos Gomes, Dean J. Tantillo</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-n8688</guid>
+                Abstract. Criegee intermediates (CIs), forming from the ozonolysis of alkenes, are highly reactive species with diverse reaction pathways, with important roles in atmospheric chemistry. This study focuses on the formation of accretion products through reactions of thermally stabilized CIs (sCIs) from the ozonolysis of three different terpenes (&#945;-pinene, &#946;-pinene, and &#946;-caryophyllene) with malonic and oxalic acids. Our experimental results demonstrate that these reactions efficiently produce the expected accretion products, though with apparent variations in yields depending on the specific terpene and acid involved. To our knowledge, these are the first direct gas-phase observations of expected adducts from terpene-derived sCIs and carboxylic acids, paving the way for a better understanding of the importance and atmospheric implications of these reactions, especially in terms of aerosol-forming capabilities of these large product molecules.</description>
+      <author>Yuanyuan Luo, Lauri Franzon, Jiangyi Zhang, Nina Sarnela, Neil M. Donahue, Theo Kurt&#233;n, Mikael Ehn</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-3323</guid>
     </item>
   </channel>
 </rss>

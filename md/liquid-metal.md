@@ -1,10 +1,21 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Wed Oct 30 01:21:20 2024
+Created on Thu Oct 31 01:22:00 2024
 
-Found 1 results from 2024-10-23 to 2024-10-30
+Found 2 results from 2024-10-24 to 2024-10-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
+
+## Enhanced casein organohydrogel coating with liquid metal catalyst for Electric leather sensor in Human-Machine interaction   
+
+OpenAlex: https://openalex.org/W4403847693    
+Open access: False
+    
+[Qunna Xu](https://openalex.org/A5051866211), [Zhenyang Li](https://openalex.org/A5001893388), [Jun Wang](https://openalex.org/A5111360250), [Jianzhong Ma](https://openalex.org/A5101605228), [Kai Yan](https://openalex.org/A5063084241), [Yan Zong](https://openalex.org/A5002958688), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156841.
+    
+No abstract    
+
+    
 
 ## Facile and Environmentally Friendly Synthesis of Ga2O3/MFI Catalysts for Propane Dehydrogenation   
 

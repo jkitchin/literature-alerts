@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Oct 2024 01:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:22:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Enhanced casein organohydrogel coating with liquid metal catalyst for Electric leather sensor in Human-Machine interaction</title>
+      <link>https://doi.org/10.1016/j.cej.2024.156841</link>
+      <description>Qunna Xu, Zhenyang Li, Jun Wang, Jianzhong Ma, Kai Yan, Yan Zong, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403847693
+
+                No abstract</description>
+      <author>Qunna Xu, Zhenyang Li, Jun Wang, Jianzhong Ma, Kai Yan, Yan Zong</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156841</guid>
+    </item>
     <item>
       <title>Facile and Environmentally Friendly Synthesis of Ga&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;/MFI Catalysts for Propane Dehydrogenation</title>
       <link>https://doi.org/10.1021/acsami.4c11679</link>

@@ -1,10 +1,31 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Wed Oct 30 01:21:20 2024
+Created on Thu Oct 31 01:22:00 2024
 
-Found 1 results from 2024-10-23 to 2024-10-30
+Found 2 results from 2024-10-24 to 2024-10-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
+
+* Enhanced casein organohydrogel coating with liquid metal catalyst for Electric leather sensor in Human-Machine interaction  :liquid_metal:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403847693
+:TOPICS: Wearable Nanogenerator Technology, Eye Tracking in Human-Computer Interaction, Conducting Polymer Research
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.156841")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403847693"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403847693"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403847693"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403847693 (Open access: False)
+    
+[[https://openalex.org/A5051866211][Qunna Xu]], [[https://openalex.org/A5001893388][Zhenyang Li]], [[https://openalex.org/A5111360250][Jun Wang]], [[https://openalex.org/A5101605228][Jianzhong Ma]], [[https://openalex.org/A5063084241][Kai Yan]], [[https://openalex.org/A5002958688][Yan Zong]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.156841 
+     
+No abstract    
+
+    
 
 * Facile and Environmentally Friendly Synthesis of Ga2O3/MFI Catalysts for Propane Dehydrogenation  :liquid_metal:
 :PROPERTIES:

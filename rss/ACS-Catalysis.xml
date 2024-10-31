@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Oct 2024 01:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:22:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Cu-Albumin Artificial Enzymes with Peroxidase and Oxidase Activity for Stereoselective Oxidations</title>
-      <link>https://doi.org/10.1021/acscatal.4c05732</link>
-      <description>Maham Liaqat, E. McDonald, Rocio Ortega, Aaron Lopes, Flavia Codreanu, Hannah Carlisle, Challa V. Kumar, Xudong Yao, James F. Rusling, Jie He, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403633347
-
-                No abstract</description>
-      <author>Maham Liaqat, E. McDonald, Rocio Ortega, Aaron Lopes, Flavia Codreanu, Hannah Carlisle, Challa V. Kumar, Xudong Yao, James F. Rusling, Jie He</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05732</guid>
-    </item>
-    <item>
-      <title>Proteolytic Performance Is Dependent on Binding Efficiency, Processivity, and Turnover: Single Protease Insights</title>
-      <link>https://doi.org/10.1021/acscatal.4c04182</link>
-      <description>E. S&#248;rensen, Freya Bj&#246;rk Reinhold, Andreas Faber, Steen Bender, Jacob K&#230;stel&#8208;Hansen, Jeannette de Sparra Lundin, Errika Voutyritsa, Per Hedeg&#229;rd, Sune M. Christensen, Nikos S. Hatzakis, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403641137
-
-                No abstract</description>
-      <author>E. S&#248;rensen, Freya Bj&#246;rk Reinhold, Andreas Faber, Steen Bender, Jacob K&#230;stel&#8208;Hansen, Jeannette de Sparra Lundin, Errika Voutyritsa, Per Hedeg&#229;rd, Sune M. Christensen, Nikos S. Hatzakis</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04182</guid>
-    </item>
-    <item>
-      <title>Water-Stable Perovskite Nanocrystals to Overcome the Photocatalysis&#8211;Stability Trade-Off in Aqueous Photo-RAFT Polymerization</title>
-      <link>https://doi.org/10.1021/acscatal.4c03407</link>
-      <description>Mengqiang Zhang, Jingyi Hao, Chengli Wang, Qian Zhang, Xiaomeng Zhang, Zhe Cui, Peng Fu, &#1041;&#1086; &#1051;&#1102;, Ge Shi, Xiaoguang Qiao, Yajing Chang, Yanjie He, Xinchang Pang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403646727
-
-                No abstract</description>
-      <author>Mengqiang Zhang, Jingyi Hao, Chengli Wang, Qian Zhang, Xiaomeng Zhang, Zhe Cui, Peng Fu, &#1041;&#1086; &#1051;&#1102;, Ge Shi, Xiaoguang Qiao, Yajing Chang, Yanjie He, Xinchang Pang</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03407</guid>
-    </item>
-    <item>
-      <title>Direct Detection of Key Intermediates during the Product Release in Rhenium Bipyridine-Catalyzed CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c06044</link>
-      <description>Samir Chattopadhyay, Mun Hon Cheah, Reiner Lomoth, Leif Hammarstr&#246;m, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403647172
-
-                No abstract</description>
-      <author>Samir Chattopadhyay, Mun Hon Cheah, Reiner Lomoth, Leif Hammarstr&#246;m</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06044</guid>
-    </item>
-    <item>
-      <title>Epoxy Group Modified Atomic Zn&#8211;N&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; for H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Electrosynthesis and Sulfide Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c04729</link>
-      <description>Chengbo Ma, Jun Wang, Xiaomei Liu, Ning Li, Wen Liu, Yang Li, Xiaobin Fan, Wenchao Peng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403666084
-
-                No abstract</description>
-      <author>Chengbo Ma, Jun Wang, Xiaomei Liu, Ning Li, Wen Liu, Yang Li, Xiaobin Fan, Wenchao Peng</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04729</guid>
-    </item>
     <item>
       <title>Tetrahydroxybenzoquinone-Based Two-Dimensional Conductive Metal&#8211;Organic Framework via &#960;-d Conjugation Modulation for Enhanced Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c04977</link>
@@ -256,6 +206,46 @@
       <author>Karen A. Resende, Ruixue Zhao, Yue Liu, Eszter Bar&#225;th, Johannes A. Lercher</author>
       <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05977</guid>
+    </item>
+    <item>
+      <title>Closing the Loop of Cyclopolymerization of Nonconjugated &#945;,&#969;-Diolefin Diasteroselectivity and &#945;-Olefin Polymerization Enantioselectivity</title>
+      <link>https://doi.org/10.1021/acscatal.4c05020</link>
+      <description>Olga D&#8217;Anania, Fabio De Stefano, Claudio De Rosa, Giovanni Talarico, Rocco Di Girolamo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403839947
+
+                No abstract</description>
+      <author>Olga D&#8217;Anania, Fabio De Stefano, Claudio De Rosa, Giovanni Talarico, Rocco Di Girolamo</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05020</guid>
+    </item>
+    <item>
+      <title>Stereodivergent Synthesis of Atropisomeric Indole-Fused &#948;-Lactams Bearing All-Carbon Quaternary Stereocenters via Cu-Catalyzed Desymmetric Arene Amidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c04504</link>
+      <description>Bo&#8208;Han Zhu, Yu-Jie Ye, Guanzhi Liu, Shuyin Wu, Xiu-Yuan Zou, Long Li, Chengzhe Huang, Qing Sun, Long&#8208;Wu Ye, Peng&#8208;Cheng Qian, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403840106
+
+                No abstract</description>
+      <author>Bo&#8208;Han Zhu, Yu-Jie Ye, Guanzhi Liu, Shuyin Wu, Xiu-Yuan Zou, Long Li, Chengzhe Huang, Qing Sun, Long&#8208;Wu Ye, Peng&#8208;Cheng Qian</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04504</guid>
+    </item>
+    <item>
+      <title>Defect-Rich Carbon-Blocked Delocalized Sulfur Quantum Dots for Efficient Catalytic Acetylene Hydrochlorination</title>
+      <link>https://doi.org/10.1021/acscatal.4c04906</link>
+      <description>Renqin Chang, Guangyu Cheng, Tao Feng, Saisai Wang, Jiale Huang, Yu&#8208;Chen Zhang, Chunxiao Jin, Yili Yue, Yuxue Yue, Xiao&#8208;Nian Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403852868
+
+                No abstract</description>
+      <author>Renqin Chang, Guangyu Cheng, Tao Feng, Saisai Wang, Jiale Huang, Yu&#8208;Chen Zhang, Chunxiao Jin, Yili Yue, Yuxue Yue, Xiao&#8208;Nian Li</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04906</guid>
+    </item>
+    <item>
+      <title>Single-Atom Manganese-Based Catalysts for the Oxidative Dehydrogenation of Propane</title>
+      <link>https://doi.org/10.1021/acscatal.4c06021</link>
+      <description>Carly Byron, Patricia Anne Ignacio-de Leon, Jacob T. Bryant, Ryan R. Langeslay, Louisa Savereide, Jianguo Wen, Jeffrey Camacho-Bunquin, Justin M. Notestein, Massimiliano Delferro, Magali Ferrandon, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403862583
+
+                No abstract</description>
+      <author>Carly Byron, Patricia Anne Ignacio-de Leon, Jacob T. Bryant, Ryan R. Langeslay, Louisa Savereide, Jianguo Wen, Jeffrey Camacho-Bunquin, Justin M. Notestein, Massimiliano Delferro, Magali Ferrandon</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06021</guid>
     </item>
   </channel>
 </rss>

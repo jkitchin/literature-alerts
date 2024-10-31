@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Oct 30 01:21:22 2024
+Created on Thu Oct 31 01:22:01 2024
 
-Found 25 results from 2024-10-23 to 2024-10-30
+Found 24 results from 2024-10-24 to 2024-10-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Cu-Albumin Artificial Enzymes with Peroxidase and Oxidase Activity for Stereoselective Oxidations   
-
-OpenAlex: https://openalex.org/W4403633347    
-Open access: False
-    
-[Maham Liaqat](https://openalex.org/A5084055929), [E. McDonald](https://openalex.org/A5060616715), [Rocio Ortega](https://openalex.org/A5111694106), [Aaron Lopes](https://openalex.org/A5103819066), [Flavia Codreanu](https://openalex.org/A5114356619), [Hannah Carlisle](https://openalex.org/A5114356620), [Challa V. Kumar](https://openalex.org/A5009529198), [Xudong Yao](https://openalex.org/A5101864303), [James F. Rusling](https://openalex.org/A5086925649), [Jie He](https://openalex.org/A5043424489), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05732.
-    
-No abstract    
-
-    
-
-## Proteolytic Performance Is Dependent on Binding Efficiency, Processivity, and Turnover: Single Protease Insights   
-
-OpenAlex: https://openalex.org/W4403641137    
-Open access: False
-    
-[E. Sørensen](https://openalex.org/A5030338992), [Freya Björk Reinhold](https://openalex.org/A5093892652), [Andreas Faber](https://openalex.org/A5113115557), [Steen Bender](https://openalex.org/A5050539797), [Jacob Kæstel‐Hansen](https://openalex.org/A5022101245), [Jeannette de Sparra Lundin](https://openalex.org/A5109732182), [Errika Voutyritsa](https://openalex.org/A5081724888), [Per Hedegård](https://openalex.org/A5038315825), [Sune M. Christensen](https://openalex.org/A5028323991), [Nikos S. Hatzakis](https://openalex.org/A5084562827), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04182.
-    
-No abstract    
-
-    
-
-## Water-Stable Perovskite Nanocrystals to Overcome the Photocatalysis–Stability Trade-Off in Aqueous Photo-RAFT Polymerization   
-
-OpenAlex: https://openalex.org/W4403646727    
-Open access: False
-    
-[Mengqiang Zhang](https://openalex.org/A5000184943), [Jingyi Hao](https://openalex.org/A5112370368), [Chengli Wang](https://openalex.org/A5009840180), [Qian Zhang](https://openalex.org/A5101742243), [Xiaomeng Zhang](https://openalex.org/A5100327759), [Zhe Cui](https://openalex.org/A5063144402), [Peng Fu](https://openalex.org/A5101223286), [Бо Лю](https://openalex.org/A5100394072), [Ge Shi](https://openalex.org/A5114027910), [Xiaoguang Qiao](https://openalex.org/A5075007444), [Yajing Chang](https://openalex.org/A5077425152), [Yanjie He](https://openalex.org/A5025782883), [Xinchang Pang](https://openalex.org/A5036928991), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03407.
-    
-No abstract    
-
-    
-
-## Direct Detection of Key Intermediates during the Product Release in Rhenium Bipyridine-Catalyzed CO2 Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4403647172    
-Open access: True
-    
-[Samir Chattopadhyay](https://openalex.org/A5031719147), [Mun Hon Cheah](https://openalex.org/A5091463061), [Reiner Lomoth](https://openalex.org/A5048265051), [Leif Hammarström](https://openalex.org/A5052221113), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06044.
-    
-No abstract    
-
-    
-
-## Epoxy Group Modified Atomic Zn–N2O2 for H2O2 Electrosynthesis and Sulfide Oxidation   
-
-OpenAlex: https://openalex.org/W4403666084    
-Open access: False
-    
-[Chengbo Ma](https://openalex.org/A5011386999), [Jun Wang](https://openalex.org/A5100645072), [Xiaomei Liu](https://openalex.org/A5100373352), [Ning Li](https://openalex.org/A5092071381), [Wen Liu](https://openalex.org/A5100626856), [Yang Li](https://openalex.org/A5100688703), [Xiaobin Fan](https://openalex.org/A5060247796), [Wenchao Peng](https://openalex.org/A5071504062), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04729.
-    
-No abstract    
-
-    
 
 ## Tetrahydroxybenzoquinone-Based Two-Dimensional Conductive Metal–Organic Framework via π-d Conjugation Modulation for Enhanced Oxygen Evolution Reaction   
 
@@ -276,6 +221,50 @@ OpenAlex: https://openalex.org/W4403813756
 Open access: True
     
 [Karen A. Resende](https://openalex.org/A5003259239), [Ruixue Zhao](https://openalex.org/A5046978036), [Yue Liu](https://openalex.org/A5100735453), [Eszter Baráth](https://openalex.org/A5047406603), [Johannes A. Lercher](https://openalex.org/A5057378771), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05977 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05977?ref=article_openPDF)).
+    
+No abstract    
+
+    
+
+## Closing the Loop of Cyclopolymerization of Nonconjugated α,ω-Diolefin Diasteroselectivity and α-Olefin Polymerization Enantioselectivity   
+
+OpenAlex: https://openalex.org/W4403839947    
+Open access: False
+    
+[Olga D’Anania](https://openalex.org/A5055775310), [Fabio De Stefano](https://openalex.org/A5016195389), [Claudio De Rosa](https://openalex.org/A5018216287), [Giovanni Talarico](https://openalex.org/A5038557532), [Rocco Di Girolamo](https://openalex.org/A5091538808), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05020.
+    
+No abstract    
+
+    
+
+## Stereodivergent Synthesis of Atropisomeric Indole-Fused δ-Lactams Bearing All-Carbon Quaternary Stereocenters via Cu-Catalyzed Desymmetric Arene Amidation   
+
+OpenAlex: https://openalex.org/W4403840106    
+Open access: False
+    
+[Bo‐Han Zhu](https://openalex.org/A5003125298), [Yu-Jie Ye](https://openalex.org/A5005757768), [Guanzhi Liu](https://openalex.org/A5017598569), [Shuyin Wu](https://openalex.org/A5008358823), [Xiu-Yuan Zou](https://openalex.org/A5101923165), [Long Li](https://openalex.org/A5100408757), [Chengzhe Huang](https://openalex.org/A5005688721), [Qing Sun](https://openalex.org/A5104687517), [Long‐Wu Ye](https://openalex.org/A5023229525), [Peng‐Cheng Qian](https://openalex.org/A5045982271), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04504.
+    
+No abstract    
+
+    
+
+## Defect-Rich Carbon-Blocked Delocalized Sulfur Quantum Dots for Efficient Catalytic Acetylene Hydrochlorination   
+
+OpenAlex: https://openalex.org/W4403852868    
+Open access: False
+    
+[Renqin Chang](https://openalex.org/A5070649067), [Guangyu Cheng](https://openalex.org/A5074788554), [Tao Feng](https://openalex.org/A5100724813), [Saisai Wang](https://openalex.org/A5039823100), [Jiale Huang](https://openalex.org/A5072722642), [Yu‐Chen Zhang](https://openalex.org/A5035797304), [Chunxiao Jin](https://openalex.org/A5003840280), [Yili Yue](https://openalex.org/A5110666562), [Yuxue Yue](https://openalex.org/A5041925870), [Xiao‐Nian Li](https://openalex.org/A5013409727), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04906.
+    
+No abstract    
+
+    
+
+## Single-Atom Manganese-Based Catalysts for the Oxidative Dehydrogenation of Propane   
+
+OpenAlex: https://openalex.org/W4403862583    
+Open access: False
+    
+[Carly Byron](https://openalex.org/A5025307183), [Patricia Anne Ignacio-de Leon](https://openalex.org/A5091288554), [Jacob T. Bryant](https://openalex.org/A5082484018), [Ryan R. Langeslay](https://openalex.org/A5037207298), [Louisa Savereide](https://openalex.org/A5052839945), [Jianguo Wen](https://openalex.org/A5034751080), [Jeffrey Camacho-Bunquin](https://openalex.org/A5083429921), [Justin M. Notestein](https://openalex.org/A5030553728), [Massimiliano Delferro](https://openalex.org/A5054572356), [Magali Ferrandon](https://openalex.org/A5047499908), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06021.
     
 No abstract    
 

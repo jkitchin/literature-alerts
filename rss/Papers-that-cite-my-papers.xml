@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Oct 2024 01:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:22:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Exploring pyrolusite &#946;-MnO2 as a robust support for noble metal catalysts in proton exchange membrane water electrolysis</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.10.246</link>
-      <description>Nur Tursina, Ashish Gaur, Min Su Cho, Mingony Kim, Kyung Yoon Chung, Sungwook Mhin, H. Han, International Journal of Hydrogen Energy. 92(None)] 2024. https://openalex.org/W4403626456
-
-                No abstract</description>
-      <author>Nur Tursina, Ashish Gaur, Min Su Cho, Mingony Kim, Kyung Yoon Chung, Sungwook Mhin, H. Han</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.246</guid>
-    </item>
-    <item>
-      <title>Ir Doping Modulates the Electronic Structure of Flower-Shaped Phosphides for Water Oxidation</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c03771</link>
-      <description>Huiyu Sun, Shudi Yu, Jiongting Yin, Jie Li, Jun Yu, Tianpeng Liu, Wanyu Liang, Nannan Zhang, Yangping Zhang, Changqing Ye, Mengyun Hu, Yukou Du, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4403633322
-
-                Electrolysis of water to produce hydrogen is an efficient, clean, and environmentally friendly hydrogen production method with unlimited development prospects. However, its overall efficiency is hampered by the slow oxygen evolution reaction (OER) with complex electron transfer processes. Therefore, designing efficient and low-cost OER catalysts is the key to solving this problem. In this paper, Ir-doped Co</description>
-      <author>Huiyu Sun, Shudi Yu, Jiongting Yin, Jie Li, Jun Yu, Tianpeng Liu, Wanyu Liang, Nannan Zhang, Yangping Zhang, Changqing Ye, Mengyun Hu, Yukou Du</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03771</guid>
-    </item>
-    <item>
-      <title>Theoretical insights into efficient electrocatalysts for nitrogen reduction reaction by transition metal atoms supported on g-C3N4</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.114932</link>
-      <description>Pengfei Ma, Rui Wang, Chengsong Liu, Pengfei Liu, Chaozheng He, Wei Song, Tao Zhang, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4403645722
-
-                No abstract</description>
-      <author>Pengfei Ma, Rui Wang, Chengsong Liu, Pengfei Liu, Chaozheng He, Wei Song, Tao Zhang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114932</guid>
-    </item>
-    <item>
-      <title>Single&#8208;Nanometer Spinel with Precise Cation Distribution for Enhanced Oxygen Reduction</title>
-      <link>https://doi.org/10.1002/adma.202413141</link>
-      <description>Long Shang, Youxuan Ni, Yuankun Wang, Wenxuan Yang, Linyue Wang, Haixia Li, Kai Zhang, Zhenhua Yan, Jun Chen, Advanced Materials. None(None)] 2024. https://openalex.org/W4403646233
-
-                Abstract Designing spinel nanocrystals (NCs) with tailored structural composition and cation distribution is crucial for superior catalytic performance but remarkably challenging due to their intricate nature. Here, an aggregation growth restricted hot&#8208;injection method is presented by meticulously investigating the fundamental nucleation and aggregation&#8208;driven growth kinetics governing spinel NC formation to address this challenge. Through controlled collision probability of nuclei during growth, this approach enables the synthesis of spinel NCs with unprecedented, single nanometer (1.2 nm). Single&#8208;nanometer CoMn 2 O 4 spinel via this method exhibits a highly tailored structure with a maximized population of highly active octahedral Mn atoms, thereby optimizing oxygen intermediate adsorption during oxygen reduction reaction (ORR). Consequently, it exhibits a remarkable half&#8208;wave potential of 0.88 V in ORR and leads to a superior power density (170.9 mW cm &#8722;2 ) in zinc&#8211;air battery, outperforming commercial Pt/C and most reported spinel oxides, revealing a clear structure&#8211;property relationship. This structure design strategy is readily adaptable for the precise synthesis and engineering of various spinel structures, opening new avenues for developing advanced electrocatalysts and energy storage materials.</description>
-      <author>Long Shang, Youxuan Ni, Yuankun Wang, Wenxuan Yang, Linyue Wang, Haixia Li, Kai Zhang, Zhenhua Yan, Jun Chen</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202413141</guid>
-    </item>
-    <item>
-      <title>Origin of unique electronic structures of single-atom alloys unraveled by interpretable deep learning</title>
-      <link>https://doi.org/10.1063/5.0232141</link>
-      <description>Yang Huang, Shih&#8208;Han Wang, Luke E. K. Achenie, Kamal Choudhary, Hongliang Xin, The Journal of Chemical Physics. 161(16)] 2024. https://openalex.org/W4403649617
-
-                We uncover the origin of unique electronic structures of single-atom alloys (SAAs) by interpretable deep learning. The approach integrates tight-binding moment theory with graph neural networks to accurately describe the local electronic structure of transition and noble metal sites upon perturbation. We emphasize the complex interplay of interatomic orbital coupling and on-site orbital resonance, which shapes the d-band characteristics of an active site, shedding light on the origin of free-atom-like d-states that are often observed in SAAs involving d10 metal hosts. This theory-infused neural network approach significantly enhances our understanding of the electronic properties of single-site catalytic materials beyond traditional theories.</description>
-      <author>Yang Huang, Shih&#8208;Han Wang, Luke E. K. Achenie, Kamal Choudhary, Hongliang Xin</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0232141</guid>
-    </item>
-    <item>
-      <title>Progress and challenges in structural, &lt;i&gt;in situ&lt;/i&gt; and &lt;i&gt;operando&lt;/i&gt; characterization of single-atom catalysts by X-ray based synchrotron radiation techniques</title>
-      <link>https://doi.org/10.1039/d3cs00967j</link>
-      <description>Yuhang Liu, Xiaozhi Su, Jie Ding, Jing Zhou, Zhen Liu, Xiangjun Wei, Hong Bin Yang, Bin Liu, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4403655107
-
-                Single-atom catalysts (SACs) represent the ultimate size limit of nanoscale catalysts, combining the advantages of homogeneous and heterogeneous catalysts.</description>
-      <author>Yuhang Liu, Xiaozhi Su, Jie Ding, Jing Zhou, Zhen Liu, Xiangjun Wei, Hong Bin Yang, Bin Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3cs00967j</guid>
-    </item>
-    <item>
-      <title>Tailoring reactivity of small Ag/Pt bimetallic cluster for ORR: A comprehensive study using density functional theory approach</title>
-      <link>https://doi.org/10.1016/j.cattod.2024.115102</link>
-      <description>Sandeep Nigam, Chiranjib Majumder, Catalysis Today. None(None)] 2024. https://openalex.org/W4403656378
-
-                No abstract</description>
-      <author>Sandeep Nigam, Chiranjib Majumder</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115102</guid>
-    </item>
     <item>
       <title>Unveiling the multifaceted potential of copper sulfide heterojunctions for sustainable energy solutions</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.10.042</link>
@@ -448,6 +378,46 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.xcrp.2024.102262</guid>
     </item>
     <item>
+      <title>The Swiss Army Knife of Electrodes: Pillar[6]arene&#8208;Modified Electrodes for Molecular Electrocatalysis Over a Wide pH Range</title>
+      <link>https://doi.org/10.1002/ange.202413144</link>
+      <description>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403848771
+
+                Abstract Molecularly&#8208;modified electrode materials that maintain stability over a broad pH range are rare. Typically, each electrochemical transformation necessitates a specifically tuned system to achieve strong binding and high activity of the catalyst. Here, we report the functionalisation of mesoporous indium tin oxide (mITO) electrodes with the macrocyclic host molecule pillar[6]arene (PA[6]). These electrodes are stable within the pH range of 2.4&#8211;10.8 and can be equipped with electrochemically active ruthenium complexes through host&#8211;guest interactions to perform various oxidation reactions. Benzyl alcohol oxidation serves as a model reaction in acidic media, while ammonia oxidation is conducted to assess the systems performance under basic conditions. PA[6]&#8208;modified electrodes demonstrate catalytic activity for both reactions when complexed to different guest molecules and can be reused by reabsorption of the catalyst after its degradation. Furthermore, the system can be employed to perform subsequent reactions in electrolyte with varying pH, enabling the same electrode to be utilised in multiple different electrocatalytic reactions.</description>
+      <author>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202413144</guid>
+    </item>
+    <item>
+      <title>The Swiss Army Knife of Electrodes: Pillar[6]arene&#8208;Modified Electrodes for Molecular Electrocatalysis Over a Wide pH Range</title>
+      <link>https://doi.org/10.1002/anie.202413144</link>
+      <description>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403848972
+
+                Abstract Molecularly&#8208;modified electrode materials that maintain stability over a broad pH range are rare. Typically, each electrochemical transformation necessitates a specifically tuned system to achieve strong binding and high activity of the catalyst. Here, we report the functionalisation of mesoporous indium tin oxide (mITO) electrodes with the macrocyclic host molecule pillar[6]arene (PA[6]). These electrodes are stable within the pH range of 2.4&#8211;10.8 and can be equipped with electrochemically active ruthenium complexes through host&#8211;guest interactions to perform various oxidation reactions. Benzyl alcohol oxidation serves as a model reaction in acidic media, while ammonia oxidation is conducted to assess the systems performance under basic conditions. PA[6]&#8208;modified electrodes demonstrate catalytic activity for both reactions when complexed to different guest molecules and can be reused by reabsorption of the catalyst after its degradation. Furthermore, the system can be employed to perform subsequent reactions in electrolyte with varying pH, enabling the same electrode to be utilised in multiple different electrocatalytic reactions.</description>
+      <author>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202413144</guid>
+    </item>
+    <item>
+      <title>Key Ingredients for the Modeling of Single&#8208;Atom Electrocatalysts</title>
+      <link>https://doi.org/10.1002/celc.202400476</link>
+      <description>Giovanni Di Liberto, Gianfranco Pacchioni, ChemElectroChem. None(None)] 2024. https://openalex.org/W4403849366
+
+                Abstract Single&#8208;atom catalysis is gaining interest also because of its potential applications in a broad spectrum of electrochemical reactions. The reactivity of single&#8208;atom catalysts (SACs) is typically modeled with first principles approaches taking insight from heterogenous catalysis. An increasing number of studies show that the chemistry of SACs is more complex than often assumed, and shares many aspects in common with coordination chemistry. This evidence raises challenges for computational electrocatalysis of SACs. In this perspective we highlight a few fundamental ingredients that one need to consider to provide reliable predictions on the reactivity of SACs for electrochemical applications. We discuss the role of the local coordination of the metal active phase, the need to use self&#8208;interaction corrected functionals, in particular when systems have magnetic ground states. We highlight the formation of unconventional intermediates with respect to classical metal electrodes, the need to include the stability of SACs in electrochemical conditions and the role of solvation in the analysis of new potential catalytic systems. This brief account can be considered as a tutorial underlining the importance of treating the reactivity of SACs. In fact, neglecting some of these aspects could lead to unreliable predictions failing in the design of new electrocatalysts.</description>
+      <author>Giovanni Di Liberto, Gianfranco Pacchioni</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/celc.202400476</guid>
+    </item>
+    <item>
+      <title>Selective and durable H2O2 electrosynthesis catalyst in acid by selenization induced straining and phasing</title>
+      <link>https://doi.org/10.1038/s41467-024-53607-5</link>
+      <description>Zhiyong Yu, Hao Deng, Qing Yao, Liangqun Zhao, Fei Xue, Tianou He, Zhiwei Hu, Wei&#8208;Hsiang Huang, Chih&#8208;Wen Pao, Li&#8208;Ming Yang, Xiaoqing Huang, Nature Communications. 15(1)] 2024. https://openalex.org/W4403852415
+
+                No abstract</description>
+      <author>Zhiyong Yu, Hao Deng, Qing Yao, Liangqun Zhao, Fei Xue, Tianou He, Zhiwei Hu, Wei&#8208;Hsiang Huang, Chih&#8208;Wen Pao, Li&#8208;Ming Yang, Xiaoqing Huang</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53607-5</guid>
+    </item>
+    <item>
       <title>&lt;scp&gt;ROBERT&lt;/scp&gt;: Bridging the Gap Between Machine Learning and Chemistry</title>
       <link>https://doi.org/10.1002/wcms.1733</link>
       <description>David Dalmau, Juan V. Alegre&#8208;Requena, Wiley Interdisciplinary Reviews Computational Molecular Science. 14(5)] 2024. https://openalex.org/W4403697375
@@ -458,16 +428,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/wcms.1733</guid>
     </item>
     <item>
-      <title>CeO2-conjugated CoFe layered double oxides as efficient non-noble metal catalysts for NH3-decomposition enabling carbon-free hydrogen production</title>
-      <link>https://doi.org/10.1016/j.cej.2024.156986</link>
-      <description>Su&#8208;Un Lee, Thien An Le, Youngmin Kim, You&#8208;Jin Lee, Jeong-Rang Kim, Tae&#8208;Wan Kim, Kwang-Eun Jeong, Ho&#8208;Jeong Chae, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4403656953
-
-                No abstract</description>
-      <author>Su&#8208;Un Lee, Thien An Le, Youngmin Kim, You&#8208;Jin Lee, Jeong-Rang Kim, Tae&#8208;Wan Kim, Kwang-Eun Jeong, Ho&#8208;Jeong Chae</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156986</guid>
-    </item>
-    <item>
       <title>Constructing 2D PtSe&lt;sub&gt;2&lt;/sub&gt;/PtCo Heterojunctions by Partial Selenization for Enhanced Hydrogen Evolution</title>
       <link>https://doi.org/10.1002/adfm.202413916</link>
       <description>Bing Hao, Manyuan Gan, Jingjing Guo, Li Guo, Yanhui Song, Yongqing Shen, Bingshe Xu, Peizhi Liu, Junjie Guo, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403792023
@@ -476,16 +436,6 @@
       <author>Bing Hao, Manyuan Gan, Jingjing Guo, Li Guo, Yanhui Song, Yongqing Shen, Bingshe Xu, Peizhi Liu, Junjie Guo</author>
       <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413916</guid>
-    </item>
-    <item>
-      <title>Understanding the involvement/exclusion paradox in disaster volunteering from a field-theoretical perspective</title>
-      <link>https://doi.org/10.1016/j.ijdrr.2024.104913</link>
-      <description>Sandra Maria Pfister, International Journal of Disaster Risk Reduction. None(None)] 2024. https://openalex.org/W4403633029
-
-                No abstract</description>
-      <author>Sandra Maria Pfister</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijdrr.2024.104913</guid>
     </item>
     <item>
       <title>Association between Thai language proficiency and adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Southern Thailand</title>
