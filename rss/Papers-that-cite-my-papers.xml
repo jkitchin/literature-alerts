@@ -4,159 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 31 Oct 2024 01:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 01:26:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unveiling the multifaceted potential of copper sulfide heterojunctions for sustainable energy solutions</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.10.042</link>
-      <description>Ahmad Farhan, Aman Khalid, Wajeeha Qayyum, Saima Noreen, Asim Jilani, Rizwan Haider, Qamar Abbas, Muhammad Zahid, International Journal of Hydrogen Energy. 92(None)] 2024. https://openalex.org/W4403672940
-
-                No abstract</description>
-      <author>Ahmad Farhan, Aman Khalid, Wajeeha Qayyum, Saima Noreen, Asim Jilani, Rizwan Haider, Qamar Abbas, Muhammad Zahid</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.042</guid>
-    </item>
-    <item>
-      <title>Bifunctional Oxygen Reduction/Evolution Reaction Activity of Transition Metal-Doped T-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;2&lt;/sub&gt; Monolayer: A Density Functional Theory Study Assisted by Machine Learning</title>
-      <link>https://doi.org/10.1021/acsanm.4c04467</link>
-      <description>Jing Zhang, Lin Ju, Zhenjie Tang, Shu Zhang, Genqiang Zhang, Wentao Wang, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4403674764
-
-                No abstract</description>
-      <author>Jing Zhang, Lin Ju, Zhenjie Tang, Shu Zhang, Genqiang Zhang, Wentao Wang</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c04467</guid>
-    </item>
-    <item>
-      <title>The latest advances in the deep reconstruction of pre-catalysts for the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.177225</link>
-      <description>Haibin Wang, Hongxin Wang, Qiming Hu, Biao Wang, Xuefei Lei, Junhua You, Rui Guo, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403679718
-
-                No abstract</description>
-      <author>Haibin Wang, Hongxin Wang, Qiming Hu, Biao Wang, Xuefei Lei, Junhua You, Rui Guo</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.177225</guid>
-    </item>
-    <item>
-      <title>Chemistry In Rechargeable Zinc-Air battery: A Mechanistic Overview</title>
-      <link>https://doi.org/10.1016/j.cattod.2024.115108</link>
-      <description>Arkaj Singh, Ravinder Sharma, A. K. Gautam, Bindey Kumar, Sneha Mittal, Aditi Halder, Catalysis Today. None(None)] 2024. https://openalex.org/W4403679884
-
-                No abstract</description>
-      <author>Arkaj Singh, Ravinder Sharma, A. K. Gautam, Bindey Kumar, Sneha Mittal, Aditi Halder</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115108</guid>
-    </item>
-    <item>
-      <title>Pythonic Chemistry: The Beginner&#8217;s Guide to Digital Chemistry</title>
-      <link>https://doi.org/10.1021/acs.jchemed.4c00840</link>
-      <description>Javier Heras&#8208;Domingo, Diego Garay&#8208;Ruiz, Journal of Chemical Education. None(None)] 2024. https://openalex.org/W4403685033
-
-                No abstract</description>
-      <author>Javier Heras&#8208;Domingo, Diego Garay&#8208;Ruiz</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.4c00840</guid>
-    </item>
-    <item>
-      <title>Diatomic Active Sites Embedded Graphyne as Electrocatalysts for Ammonia Synthesis</title>
-      <link>https://doi.org/10.1021/acsami.4c13025</link>
-      <description>Xiaoting Chen, Man-Rong Zhao, Bingyi Song, Guoliang Li, Li&#8208;Ming Yang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403685995
-
-                Ammonia (NH</description>
-      <author>Xiaoting Chen, Man-Rong Zhao, Bingyi Song, Guoliang Li, Li&#8208;Ming Yang</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c13025</guid>
-    </item>
-    <item>
-      <title>Deciphering Doping Effects in a V-Doped Ni Catalyst for Hydrogen Electrooxidation</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c03785</link>
-      <description>Siguang Lu, Luhong Fu, Fulin Yang, Shuli Wang, Ligang Feng, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4403686539
-
-                The improved performance of soluble metal-doped Ni catalysts is perplexed by the evolvable surface structures in the alkaline electrolytes for hydrogen oxidation reaction (HOR). Herein, V-doped Ni nanoparticles, as a proof of concept, were carefully evaluated to explore the intrinsic function of the enthetic V-species in assisting the HOR kinetic improvement. As expected, it exhibits a mass-normalized kinetic current density of 50.34 mA mg</description>
-      <author>Siguang Lu, Luhong Fu, Fulin Yang, Shuli Wang, Ligang Feng</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03785</guid>
-    </item>
-    <item>
-      <title>Combining Hammett &lt;i&gt;&#963;&lt;/i&gt; constants for &#916;-machine learning and catalyst discovery</title>
-      <link>https://doi.org/10.1039/d4dd00228h</link>
-      <description>V. Diana Rakotonirina, Marco Bragato, Stefan Heinen, O. Anatole von Lilienfeld, Digital Discovery. None(None)] 2024. https://openalex.org/W4403687003
-
-                We present a simple and fast linear model for discovering organometallic catalysts for the Suzuki&#8211;Miyaura cross-coupling reaction, using a combinatorial approach.</description>
-      <author>V. Diana Rakotonirina, Marco Bragato, Stefan Heinen, O. Anatole von Lilienfeld</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00228h</guid>
-    </item>
-    <item>
-      <title>Modulating CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction Activity on Mo&lt;sub&gt;2&lt;/sub&gt;C and Promoting C&lt;sub&gt;2&lt;/sub&gt; Product by Grain Boundary Engineering: Insights from First-Principles Calculations</title>
-      <link>https://doi.org/10.1021/acscatal.4c03202</link>
-      <description>Yuxing Lin, Fang-Qi Yu, Lei Li, Yameng Li, Rao Huang, Yu&#8208;Hua Wen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403687778
-
-                No abstract</description>
-      <author>Yuxing Lin, Fang-Qi Yu, Lei Li, Yameng Li, Rao Huang, Yu&#8208;Hua Wen</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03202</guid>
-    </item>
-    <item>
-      <title>Advances in Two&#8208;Electron Water Oxidation Reaction for Hydrogen Peroxide Production: Catalyst Design and Interface Engineering</title>
-      <link>https://doi.org/10.1002/cssc.202401100</link>
-      <description>Hu Cao, Guangming Chen, Yong Yan, Dong Wang, ChemSusChem. None(None)] 2024. https://openalex.org/W4403689728
-
-                Abstract Hydrogen peroxide (H 2 O 2 ) is a versatile and zero&#8208;emission material that is widely used in the industrial, domestic, and healthcare sectors. It is clear that it plays a critical role in advancing environmental sustainability, acting as a green energy source, and protecting human health. Conventional production techniques focused on anthraquinone oxidation, however, electrocatalytic synthesis has arisen as a means of utilizing renewable energy sources in conjunction with available resources like oxygen and water. These strides represent a substantial change toward more environmentally and energy&#8208;friendly H 2 O 2 manufacturing techniques that are in line with current environmental and energy goals. This work reviews recent advances in two&#8208;electron water oxidation reaction (2e&#8208;WOR) electrocatalysts, including design principles and reaction mechanisms, examines catalyst design alternatives and experimental characterization techniques, proposes standardized assessment criteria, investigates the impact of the interfacial milieu on the reaction, and discusses the value of in situ characterization and molecular dynamics simulations as a supplement to traditional experimental techniques and theoretical simulations, as shown in Figure 1. The review also emphasizes the importance of device design, interface, and surface engineering in improving the production of H 2 O 2 . Through adjustments to the chemical microenvironment, catalysts can demonstrate improved performance, opening the door for commercial applications that are scalable through tandem cell development.</description>
-      <author>Hu Cao, Guangming Chen, Yong Yan, Dong Wang</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202401100</guid>
-    </item>
-    <item>
-      <title>Engineering Chemical and Catalytic Activity of Metal Surface Sites by Controlling Strain and Ligand Effects in Nonmodel Nanoparticle Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c03857</link>
-      <description>Bill Yan, Suljo Linic, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403692782
-
-                No abstract</description>
-      <author>Bill Yan, Suljo Linic</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03857</guid>
-    </item>
-    <item>
-      <title>Ru/MgO Catalysts Modified with Various Alkali Metals (Na, Cs, K) for CO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Free H&lt;sub&gt;2&lt;/sub&gt; Production from NH&lt;sub&gt;3&lt;/sub&gt; Decomposition</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c03658</link>
-      <description>Tianxu Su, Bin Guan, Chunzheng Zheng, Jiefei Zhou, Zhen Huang, Energy &amp; Fuels. None(None)] 2024. https://openalex.org/W4403692862
-
-                No abstract</description>
-      <author>Tianxu Su, Bin Guan, Chunzheng Zheng, Jiefei Zhou, Zhen Huang</author>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c03658</guid>
-    </item>
-    <item>
-      <title>Dynamic Surface Dealloying for Pt&lt;sub&gt;3&lt;/sub&gt;Co/C Catalysts with a Pt-Enriched Surface for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsaem.4c02062</link>
-      <description>Mingjie Xu, Ye Xiao, Jingxi Zhang, Yuting Xia, Tianli Liu, Yanhao Dong, Chang&#8208;An Wang, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4403693496
-
-                No abstract</description>
-      <author>Mingjie Xu, Ye Xiao, Jingxi Zhang, Yuting Xia, Tianli Liu, Yanhao Dong, Chang&#8208;An Wang</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02062</guid>
-    </item>
-    <item>
-      <title>Leveraging Machine Learning to Expedite Screening of Single-atom Catalysts in Electrochemical Nitrate Reduction to Ammonia</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.177180</link>
-      <description>Zhongli Lu, Jiming Liu, Houfen Li, Rui Li, Xiao Zhang, Juan Jian, Xiaoming Gao, Xuqian Zhang, Yanze Wu, Xiuping Yue, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403695068
-
-                No abstract</description>
-      <author>Zhongli Lu, Jiming Liu, Houfen Li, Rui Li, Xiao Zhang, Juan Jian, Xiaoming Gao, Xuqian Zhang, Yanze Wu, Xiuping Yue</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.177180</guid>
-    </item>
-    <item>
-      <title>Sliding catalysis for on-off switching of the hydrogen evolution reaction on two-dimensional van der Waals bilayers</title>
-      <link>https://doi.org/10.1103/physrevapplied.22.044061</link>
-      <description>Kun Liu, Xingju Zhao, Xiaoyan Ren, Shunfang Li, Physical Review Applied. 22(4)] 2024. https://openalex.org/W4403705961
-
-                No abstract</description>
-      <author>Kun Liu, Xingju Zhao, Xiaoyan Ren, Shunfang Li</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevapplied.22.044061</guid>
-    </item>
     <item>
       <title>Machine Learning Assisted Selection of Catalyst for &#947;-Valerolactone Hydrogenation from Levulinic Acid</title>
       <link>https://doi.org/10.1021/acssuschemeng.4c05941</link>
@@ -418,14 +268,104 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53607-5</guid>
     </item>
     <item>
-      <title>&lt;scp&gt;ROBERT&lt;/scp&gt;: Bridging the Gap Between Machine Learning and Chemistry</title>
-      <link>https://doi.org/10.1002/wcms.1733</link>
-      <description>David Dalmau, Juan V. Alegre&#8208;Requena, Wiley Interdisciplinary Reviews Computational Molecular Science. 14(5)] 2024. https://openalex.org/W4403697375
+      <title>Double-Shell Confinement Strategy Enhancing Durability of PtFeTi Intermetallic Catalysts for the Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c04779</link>
+      <description>Chen Sumin, Lai-Ke Chen, Na Tian, Sheng-Nan Hu, Shuangli Yang, Jun&#8208;Fei Shen, Jing-Xiao Tang, De&#8208;Yin Wu, Mingshu Chen, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403869883
 
-                ABSTRACT Beyond addressing technological demands, the integration of machine learning (ML) into human societies has also promoted sustainability through the adoption of digitalized protocols. Despite these advantages and the abundance of available toolkits, a substantial implementation gap is preventing the widespread incorporation of ML protocols into the computational and experimental chemistry communities. In this work, we introduce ROBERT, a software carefully crafted to make ML more accessible to chemists of all programming skill levels, while achieving results comparable to those of field experts. We conducted benchmarking using six recent ML studies in chemistry containing from 18 to 4149 entries. Furthermore, we demonstrated the program's ability to initiate workflows directly from SMILES strings, which simplifies the generation of ML predictors for common chemistry problems. To assess ROBERT's practicality in real&#8208;life scenarios, we employed it to discover new luminescent Pd complexes with a modest dataset of 23 points, a frequently encountered scenario in experimental studies.</description>
-      <author>David Dalmau, Juan V. Alegre&#8208;Requena</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/wcms.1733</guid>
+                No abstract</description>
+      <author>Chen Sumin, Lai-Ke Chen, Na Tian, Sheng-Nan Hu, Shuangli Yang, Jun&#8208;Fei Shen, Jing-Xiao Tang, De&#8208;Yin Wu, Mingshu Chen, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04779</guid>
+    </item>
+    <item>
+      <title>Elastic constants from charge density distribution in FCC high-entropy alloys using CNN and DFT</title>
+      <link>https://doi.org/10.1063/5.0229105</link>
+      <description>Hossein Mirzaee, Ramin Soltanmohammadi, Nathan Linton, J. FISCHER, Serveh Kamrava, Pejman Tahmasebi, Dilpuneet S. Aidhy, APL Machine Learning. 2(4)] 2024. https://openalex.org/W4403871417
+
+                While high-entropy alloys (HEAs) present exponentially large compositional space for alloy design, they also create enormous computational challenges to trace the compositional space, especially for the inherently expensive density functional theory calculations (DFT). Recent works have integrated machine learning into DFT to overcome these challenges. However, often these models require an intensive search of appropriate physics-based descriptors. In this paper, we employ a 3D convolutional neural network over just one descriptor, i.e., the charge density derived from DFT, to simplify and bypass the hunt for the descriptors. We show that the elastic constants of face-centered cubic multi-elemental alloys in the Ni&#8211;Cu&#8211;Au&#8211;Pd&#8211;Pt system can be predicted from charge density. In addition, using our recent PREDICT approach, we show that the model can be trained only on the charge densities of simpler binary and ternary alloys to effectively predict elastic constants in complex multi-elemental alloys, thereby further enabling easier property-tracing in the large compositional space of HEAs.</description>
+      <author>Hossein Mirzaee, Ramin Soltanmohammadi, Nathan Linton, J. FISCHER, Serveh Kamrava, Pejman Tahmasebi, Dilpuneet S. Aidhy</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0229105</guid>
+    </item>
+    <item>
+      <title>Electrochemical Formation of C&lt;sub&gt;2+&lt;/sub&gt; Products Steered by Bridge-Bonded *CO Confined by *OH Domains</title>
+      <link>https://doi.org/10.1021/jacs.4c08755</link>
+      <description>Haibin Ma, Enric Ib&#225;&#241;ez-Al&#233;, Futian You, N&#250;ria Lop&#233;z, Boon Siang Yeo, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403879378
+
+                During the electrochemical CO2 reduction reaction (eCO2RR) on copper catalysts, linear-bonded CO (*COL) is commonly regarded as the key intermediate for the CO-CO coupling step, which leads to the formation of multicarbon products. In this work, we unveil the significant role of bridge-bonded *CO (*COB) as an active species. By combining in situ Raman spectroscopy, gas and liquid chromatography, and density functional theory (DFT) simulations, we show that adsorbed *OH domains displace *COL to *COB. The electroreduction of a 12CO+13CO2 cofeed demonstrates that *COB distinctly favors the production of acetate and 1-propanol, while *COL favors ethylene and ethanol formation. This work enhances our understanding of the mechanistic intricacies of eCO(2)RR and suggests new directions for designing operational conditions by modifying the competitive adsorption of surface species, thereby steering the reaction toward specific multicarbon products.</description>
+      <author>Haibin Ma, Enric Ib&#225;&#241;ez-Al&#233;, Futian You, N&#250;ria Lop&#233;z, Boon Siang Yeo</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08755</guid>
+    </item>
+    <item>
+      <title>Structural and compositional optimization of bimetallic NiCo alloy nanoparticles for promotion of alkaline hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2024.235641</link>
+      <description>Bishnupad Mohanty, Lingaraj Pradhan, Biswarup Satpati, Parasmani Rajput, Mahdi Ghorbani&#8208;Asl, Yidan Wei, Prashanth W. Menezes, Arkady V. Krasheninnikov, Bikash Kumar Jena, Journal of Power Sources. 625(None)] 2024. https://openalex.org/W4403885372
+
+                No abstract</description>
+      <author>Bishnupad Mohanty, Lingaraj Pradhan, Biswarup Satpati, Parasmani Rajput, Mahdi Ghorbani&#8208;Asl, Yidan Wei, Prashanth W. Menezes, Arkady V. Krasheninnikov, Bikash Kumar Jena</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.235641</guid>
+    </item>
+    <item>
+      <title>Unlocking the limitations of layered LiNiO2: Insights from DFT simulations on its viability as a cathode material for aqueous Lithium-ion batteries</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2024.235650</link>
+      <description>Gibu George, Artur Brotons&#8208;Rufes, Albert Poater, Miquel Sol&#224;, Sergio Posada&#8208;P&#233;rez, Journal of Power Sources. 625(None)] 2024. https://openalex.org/W4403885407
+
+                No abstract</description>
+      <author>Gibu George, Artur Brotons&#8208;Rufes, Albert Poater, Miquel Sol&#224;, Sergio Posada&#8208;P&#233;rez</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.235650</guid>
+    </item>
+    <item>
+      <title>Accelerated water dissociation kinetics by nickel-nickelous hydroxide epitaxial interfaces for superior alkaline hydrogen generation</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.10.141</link>
+      <description>Ya-Fei Cheng, Yanlong Li, Zhenyu Qiao, Lulu Hu, Hongbo Geng, Huilong Dong, Fan Liao, Mingwang Shao, Journal of Colloid and Interface Science. 679(None)] 2024. https://openalex.org/W4403885965
+
+                No abstract</description>
+      <author>Ya-Fei Cheng, Yanlong Li, Zhenyu Qiao, Lulu Hu, Hongbo Geng, Huilong Dong, Fan Liao, Mingwang Shao</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.141</guid>
+    </item>
+    <item>
+      <title>Real-space visualization of atomic displacements in a long-wavelength charge density wave using cryogenic 4D-STEM</title>
+      <link>https://doi.org/10.1103/physrevmaterials.8.104414</link>
+      <description>Haoyang Ni, William R. Meier, H. Miao, Andrew F. May, B. C. Sales, Jian&#8208;Min Zuo, Miaofang Chi, Physical Review Materials. 8(10)] 2024. https://openalex.org/W4403888133
+
+                No abstract</description>
+      <author>Haoyang Ni, William R. Meier, H. Miao, Andrew F. May, B. C. Sales, Jian&#8208;Min Zuo, Miaofang Chi</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.104414</guid>
+    </item>
+    <item>
+      <title>Hybrid confinement of Pt-Ni-Co spherical core-shells in multibranched nano-dendrites interspersed on N-doped aerogels for enhanced ORR performance and durability</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.177307</link>
+      <description>Muhammad Umair Mushtaq, Danni Li, Xiang Shao, Khurram Shahzad Ayub, Ali Shan, Limei Cao, Ji Yang, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403898069
+
+                No abstract</description>
+      <author>Muhammad Umair Mushtaq, Danni Li, Xiang Shao, Khurram Shahzad Ayub, Ali Shan, Limei Cao, Ji Yang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.177307</guid>
+    </item>
+    <item>
+      <title>The Electrochemical Synthesis of Urea on Triatomic Cluster/Cu Catalysts: A Theoretical Study</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105349</link>
+      <description>Qiang Liu, Jingnan Wang, Yongan Yang, Xi Wang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4403902171
+
+                No abstract</description>
+      <author>Qiang Liu, Jingnan Wang, Yongan Yang, Xi Wang</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105349</guid>
+    </item>
+    <item>
+      <title>Two-dimensional SnS2/ZrSi2N4 van der Waals heterojunction as a spontaneously enhanced hydrogen evolution photocatalyst</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2024.110816</link>
+      <description>Ying Hu, Feilong Xiong, Chaoyi Xin, Sheng Wang, Zhengquan Li, Kai-Wu Luo, Kejun Dong, Liang Xu, Materials Today Communications. 41(None)] 2024. https://openalex.org/W4403904649
+
+                No abstract</description>
+      <author>Ying Hu, Feilong Xiong, Chaoyi Xin, Sheng Wang, Zhengquan Li, Kai-Wu Luo, Kejun Dong, Liang Xu</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.110816</guid>
     </item>
     <item>
       <title>Constructing 2D PtSe&lt;sub&gt;2&lt;/sub&gt;/PtCo Heterojunctions by Partial Selenization for Enhanced Hydrogen Evolution</title>
@@ -438,14 +378,34 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413916</guid>
     </item>
     <item>
-      <title>Association between Thai language proficiency and adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Southern Thailand</title>
-      <link>https://doi.org/10.1371/journal.pone.0312571</link>
-      <description>Hein Htet, Aungkana Chuaychai, Tida Sottiyotin, Kyaw Ko Ko Htet, Hutcha Sriplung, Wit Wichaidit, Virasakdi Chongsuvivatwong, PLoS ONE. 19(10)] 2024. https://openalex.org/W4403758751
+      <title>Toward AI/ML-assisted discovery of transition metal complexes</title>
+      <link>https://doi.org/10.1016/bs.arcc.2024.10.003</link>
+      <description>H.-Q. Jin, Kenneth M. Merz, Annual reports in computational chemistry. None(None)] 2024. https://openalex.org/W4403897047
 
-                The association between host country language proficiency and disease prevention among migrants is underexplored. The objective of this study is to assess the extent to which self-reported command of the Thai language is associated with adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Thailand. We distributed a self-administered structured questionnaire in Burmese language to 1,050 Myanmar migrant workers in Southern Thailand from September 2022 to January 2023. The questionnaire included background characteristics, self-reported Thai language proficiency based on the Common European Framework Reference (CEFR), and self-reported CPB adherence at residence and workplace. We analyzed data using descriptive statistics and multivariate linear regression analysis. Although slightly less than half of the participants reported CEFR A1 level or higher in Thai speaking and listening skills, less than 10 percent did so for reading and writing skills. Workplace COVID-19 preventive adherence scores were initially found to be significantly associated with A1 level or higher speaking and listening skills. However, after adjusting for confounders, these associations were not statistically significant (Speaking skill's Adjusted Beta = 0.713, 95% CI = -0.011, 1.437; Listening skill's Adjusted Beta = -0.367, 95% CI = -1.087, 0.353). No significant associations were found between any language skill domain and residence COVID-19 preventive adherence scores for both unadjusted and adjusted analysis. The study findings may have implications for relevant stakeholders in migrant services, migrant health, and infectious disease control. However, information biases, language barriers, and lack of generalizability should be considered as caveats in the interpretation of the study findings.</description>
-      <author>Hein Htet, Aungkana Chuaychai, Tida Sottiyotin, Kyaw Ko Ko Htet, Hutcha Sriplung, Wit Wichaidit, Virasakdi Chongsuvivatwong</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0312571</guid>
+                No abstract</description>
+      <author>H.-Q. Jin, Kenneth M. Merz</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/bs.arcc.2024.10.003</guid>
+    </item>
+    <item>
+      <title>Hydrothermal reduction of CO2 captured by aqueous amine solutions into formate: comparison between in situ generated H2 and gaseous H2 as reductant and evaluation of amine stability</title>
+      <link>https://doi.org/10.1016/j.ccst.2024.100333</link>
+      <description>Laura Quintana-G&#243;mez, Luama Ara&#250;jo dos Santos, Fernando Cossio-Cid, V&#237;ctor Ciordia-Asenjo, Miguel Almarza, Alberto Goikoechea, Sergio Ferrero, Celedonio M. &#193;lvarez, Jos&#233; J. Segovia, &#193;ngel Mart&#237;n, M. Dolores Bermejo, Carbon Capture Science &amp; Technology. None(None)] 2024. https://openalex.org/W4403901788
+
+                No abstract</description>
+      <author>Laura Quintana-G&#243;mez, Luama Ara&#250;jo dos Santos, Fernando Cossio-Cid, V&#237;ctor Ciordia-Asenjo, Miguel Almarza, Alberto Goikoechea, Sergio Ferrero, Celedonio M. &#193;lvarez, Jos&#233; J. Segovia, &#193;ngel Mart&#237;n, M. Dolores Bermejo</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2024.100333</guid>
+    </item>
+    <item>
+      <title>Development of anion exchange membrane-based electrochemical CO2 separation cells for direct air capture</title>
+      <link>https://doi.org/10.1016/j.jiec.2024.10.049</link>
+      <description>Ji Eon Chae, Jiseon Choi, Dongkeun Lee, Sunyoup Lee, Seonyeob Kim, Journal of Industrial and Engineering Chemistry. None(None)] 2024. https://openalex.org/W4403905064
+
+                No abstract</description>
+      <author>Ji Eon Chae, Jiseon Choi, Dongkeun Lee, Sunyoup Lee, Seonyeob Kim</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jiec.2024.10.049</guid>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Oct 31 01:22:02 2024
+Created on Fri Nov  1 01:26:47 2024
 
-Found 2 results from 2024-10-24 to 2024-10-31
+Found 4 results from 2024-10-25 to 2024-11-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -25,5 +25,27 @@ Open access: True
 [Yuanyuan Luo](https://openalex.org/A5101469124), [Lauri Franzon](https://openalex.org/A5056560174), [Jiangyi Zhang](https://openalex.org/A5102767311), [Nina Sarnela](https://openalex.org/A5049775246), [Neil M. Donahue](https://openalex.org/A5041685684), [Theo Kurtén](https://openalex.org/A5089404351), [Mikael Ehn](https://openalex.org/A5013864377), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-3323.
     
 Abstract. Criegee intermediates (CIs), forming from the ozonolysis of alkenes, are highly reactive species with diverse reaction pathways, with important roles in atmospheric chemistry. This study focuses on the formation of accretion products through reactions of thermally stabilized CIs (sCIs) from the ozonolysis of three different terpenes (α-pinene, β-pinene, and β-caryophyllene) with malonic and oxalic acids. Our experimental results demonstrate that these reactions efficiently produce the expected accretion products, though with apparent variations in yields depending on the specific terpene and acid involved. To our knowledge, these are the first direct gas-phase observations of expected adducts from terpene-derived sCIs and carboxylic acids, paving the way for a better understanding of the importance and atmospheric implications of these reactions, especially in terms of aerosol-forming capabilities of these large product molecules.    
+
+    
+
+## Computational Analysis of the Effect of Structured Packing Design on Absorption Column Hydrodynamics for Post-Combustion Carbon Capture Applications   
+
+OpenAlex: https://openalex.org/W4403902920    
+Open access: False
+    
+[Yash Shah](https://openalex.org/A5038961197), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2474815.
+    
+No abstract    
+
+    
+
+## Modeling and Scaling up of Membrane Modules Leveraging Dimensional Analysis   
+
+OpenAlex: https://openalex.org/W4403903104    
+Open access: False
+    
+[Héctor Pedrozo](https://openalex.org/A5079899169), [Cheick Dosso](https://openalex.org/A5093713938), [Thien Tran](https://openalex.org/A5037749425), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor A. Kusuma](https://openalex.org/A5041659494), [David Hopkinson](https://openalex.org/A5101028600), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2474814.
+    
+No abstract    
 
     

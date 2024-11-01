@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 31 Oct 2024 01:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 01:26:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Liquid Metal Catalysis</title>
+      <link>https://doi.org/10.1007/978-981-97-1614-2_48</link>
+      <description>Shuting Liang, No host. None(None)] 2024. https://openalex.org/W4403876196
+
+                No abstract</description>
+      <author>Shuting Liang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-1614-2_48</guid>
+    </item>
     <item>
       <title>Enhanced casein organohydrogel coating with liquid metal catalyst for Electric leather sensor in Human-Machine interaction</title>
       <link>https://doi.org/10.1016/j.cej.2024.156841</link>

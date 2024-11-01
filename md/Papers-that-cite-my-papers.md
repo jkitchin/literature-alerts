@@ -1,186 +1,21 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Oct 31 01:22:10 2024
+Created on Fri Nov  1 01:26:55 2024
 
-Found 44 results from 2024-10-24 to 2024-10-31
+Found 40 results from 2024-10-25 to 2024-11-01
 OpenAlex URLS (not including from_created_date or the API key)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3041419076)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4398161548%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2326319594](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4398161548%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2326319594)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W3154795454%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4396781988%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2155036539%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2013291890%7Chttps%3A//openalex.org/W1991992285](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W3154795454%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4396781988%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2155036539%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2013291890%7Chttps%3A//openalex.org/W1991992285)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W2062213432%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W3209912745](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W2062213432%7Chttps%3A//openalex.org/W574153843%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W3209912745)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W4400720071%7Chttps%3A//openalex.org/W4401579937%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W2951947955%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2121471713%7Chttps%3A//openalex.org/W3010633023%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4399769525%7Chttps%3A//openalex.org/W4401476302%7Chttps%3A//openalex.org/W4401547089%7Chttps%3A//openalex.org/W2038093538%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W4402230343](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W4400720071%7Chttps%3A//openalex.org/W4401579937%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W2951947955%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2121471713%7Chttps%3A//openalex.org/W3010633023%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4399769525%7Chttps%3A//openalex.org/W4401476302%7Chttps%3A//openalex.org/W4401547089%7Chttps%3A//openalex.org/W2038093538%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W4402230343)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W4251208762%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W4396813915%7Chttps%3A//openalex.org/W4400149477%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W2274470319%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W4230851681%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W2002360200%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4387438978](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W4251208762%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W4396813915%7Chttps%3A//openalex.org/W4400149477%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W2274470319%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W4230851681%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W2002360200%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4387438978)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W1999352645%7Chttps%3A//openalex.org/W4239479870%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2039786021%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W2016865072%7Chttps%3A//openalex.org/W2080142003%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W4244456333%7Chttps%3A//openalex.org/W4289731473%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W1999352645%7Chttps%3A//openalex.org/W4239479870%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2039786021%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W2016865072%7Chttps%3A//openalex.org/W2080142003%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W4244456333%7Chttps%3A//openalex.org/W4289731473%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2603917965%7Chttps%3A//openalex.org/W4255020340%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2408503780%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3216523247%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2056516494](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2603917965%7Chttps%3A//openalex.org/W4255020340%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2408503780%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3216523247%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W2056516494)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2559080400%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4254240973%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4234800468%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W2271640571)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Unveiling the multifaceted potential of copper sulfide heterojunctions for sustainable energy solutions   
-
-OpenAlex: https://openalex.org/W4403672940    
-Open access: False
-    
-[Ahmad Farhan](https://openalex.org/A5101449745), [Aman Khalid](https://openalex.org/A5102590121), [Wajeeha Qayyum](https://openalex.org/A5065951501), [Saima Noreen](https://openalex.org/A5060847704), [Asim Jilani](https://openalex.org/A5023179599), [Rizwan Haider](https://openalex.org/A5081998012), [Qamar Abbas](https://openalex.org/A5063348199), [Muhammad Zahid](https://openalex.org/A5038552676), International Journal of Hydrogen Energy. 92(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.042.
-    
-No abstract    
-
-    
-
-## Bifunctional Oxygen Reduction/Evolution Reaction Activity of Transition Metal-Doped T-C3N2 Monolayer: A Density Functional Theory Study Assisted by Machine Learning   
-
-OpenAlex: https://openalex.org/W4403674764    
-Open access: False
-    
-[Jing Zhang](https://openalex.org/A5076247663), [Lin Ju](https://openalex.org/A5101591008), [Zhenjie Tang](https://openalex.org/A5104946821), [Shu Zhang](https://openalex.org/A5100452875), [Genqiang Zhang](https://openalex.org/A5001740473), [Wentao Wang](https://openalex.org/A5100394150), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.4c04467.
-    
-No abstract    
-
-    
-
-## The latest advances in the deep reconstruction of pre-catalysts for the oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403679718    
-Open access: False
-    
-[Haibin Wang](https://openalex.org/A5100408823), [Hongxin Wang](https://openalex.org/A5100722897), [Qiming Hu](https://openalex.org/A5047978474), [Biao Wang](https://openalex.org/A5100439502), [Xuefei Lei](https://openalex.org/A5110379939), [Junhua You](https://openalex.org/A5101528771), [Rui Guo](https://openalex.org/A5017651445), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177225.
-    
-No abstract    
-
-    
-
-## Chemistry In Rechargeable Zinc-Air battery: A Mechanistic Overview   
-
-OpenAlex: https://openalex.org/W4403679884    
-Open access: False
-    
-[Arkaj Singh](https://openalex.org/A5111117684), [Ravinder Sharma](https://openalex.org/A5002894782), [A. K. Gautam](https://openalex.org/A5064126450), [Bindey Kumar](https://openalex.org/A5024470450), [Sneha Mittal](https://openalex.org/A5051133716), [Aditi Halder](https://openalex.org/A5078586020), Catalysis Today. None(None)] 2024.https://doi.org/10.1016/j.cattod.2024.115108.
-    
-No abstract    
-
-    
-
-## Pythonic Chemistry: The Beginner’s Guide to Digital Chemistry   
-
-OpenAlex: https://openalex.org/W4403685033    
-Open access: False
-    
-[Javier Heras‐Domingo](https://openalex.org/A5062528507), [Diego Garay‐Ruiz](https://openalex.org/A5003060160), Journal of Chemical Education. None(None)] 2024.https://doi.org/10.1021/acs.jchemed.4c00840.
-    
-No abstract    
-
-    
-
-## Diatomic Active Sites Embedded Graphyne as Electrocatalysts for Ammonia Synthesis   
-
-OpenAlex: https://openalex.org/W4403685995    
-Open access: False
-    
-[Xiaoting Chen](https://openalex.org/A5002067094), [Man-Rong Zhao](https://openalex.org/A5083995211), [Bingyi Song](https://openalex.org/A5013069035), [Guoliang Li](https://openalex.org/A5100451577), [Li‐Ming Yang](https://openalex.org/A5028695621), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c13025.
-    
-Ammonia (NH    
-
-    
-
-## Deciphering Doping Effects in a V-Doped Ni Catalyst for Hydrogen Electrooxidation   
-
-OpenAlex: https://openalex.org/W4403686539    
-Open access: False
-    
-[Siguang Lu](https://openalex.org/A5114122875), [Luhong Fu](https://openalex.org/A5010542535), [Fulin Yang](https://openalex.org/A5042063495), [Shuli Wang](https://openalex.org/A5025913683), [Ligang Feng](https://openalex.org/A5008529319), Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c03785.
-    
-The improved performance of soluble metal-doped Ni catalysts is perplexed by the evolvable surface structures in the alkaline electrolytes for hydrogen oxidation reaction (HOR). Herein, V-doped Ni nanoparticles, as a proof of concept, were carefully evaluated to explore the intrinsic function of the enthetic V-species in assisting the HOR kinetic improvement. As expected, it exhibits a mass-normalized kinetic current density of 50.34 mA mg    
-
-    
-
-## Combining Hammett σ constants for Δ-machine learning and catalyst discovery   
-
-OpenAlex: https://openalex.org/W4403687003    
-Open access: True
-    
-[V. Diana Rakotonirina](https://openalex.org/A5098535081), [Marco Bragato](https://openalex.org/A5013796389), [Stefan Heinen](https://openalex.org/A5024088138), [O. Anatole von Lilienfeld](https://openalex.org/A5088793872), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00228h.
-    
-We present a simple and fast linear model for discovering organometallic catalysts for the Suzuki–Miyaura cross-coupling reaction, using a combinatorial approach.    
-
-    
-
-## Modulating CO2 Electroreduction Activity on Mo2C and Promoting C2 Product by Grain Boundary Engineering: Insights from First-Principles Calculations   
-
-OpenAlex: https://openalex.org/W4403687778    
-Open access: False
-    
-[Yuxing Lin](https://openalex.org/A5020171747), [Fang-Qi Yu](https://openalex.org/A5011757223), [Lei Li](https://openalex.org/A5104314830), [Yameng Li](https://openalex.org/A5011475511), [Rao Huang](https://openalex.org/A5004650764), [Yu‐Hua Wen](https://openalex.org/A5100461045), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03202.
-    
-No abstract    
-
-    
-
-## Advances in Two‐Electron Water Oxidation Reaction for Hydrogen Peroxide Production: Catalyst Design and Interface Engineering   
-
-OpenAlex: https://openalex.org/W4403689728    
-Open access: True
-    
-[Hu Cao](https://openalex.org/A5047503956), [Guangming Chen](https://openalex.org/A5108051536), [Yong Yan](https://openalex.org/A5018045286), [Dong Wang](https://openalex.org/A5100748400), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202401100 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.202401100)).
-    
-Abstract Hydrogen peroxide (H 2 O 2 ) is a versatile and zero‐emission material that is widely used in the industrial, domestic, and healthcare sectors. It is clear that it plays a critical role in advancing environmental sustainability, acting as a green energy source, and protecting human health. Conventional production techniques focused on anthraquinone oxidation, however, electrocatalytic synthesis has arisen as a means of utilizing renewable energy sources in conjunction with available resources like oxygen and water. These strides represent a substantial change toward more environmentally and energy‐friendly H 2 O 2 manufacturing techniques that are in line with current environmental and energy goals. This work reviews recent advances in two‐electron water oxidation reaction (2e‐WOR) electrocatalysts, including design principles and reaction mechanisms, examines catalyst design alternatives and experimental characterization techniques, proposes standardized assessment criteria, investigates the impact of the interfacial milieu on the reaction, and discusses the value of in situ characterization and molecular dynamics simulations as a supplement to traditional experimental techniques and theoretical simulations, as shown in Figure 1. The review also emphasizes the importance of device design, interface, and surface engineering in improving the production of H 2 O 2 . Through adjustments to the chemical microenvironment, catalysts can demonstrate improved performance, opening the door for commercial applications that are scalable through tandem cell development.    
-
-    
-
-## Engineering Chemical and Catalytic Activity of Metal Surface Sites by Controlling Strain and Ligand Effects in Nonmodel Nanoparticle Catalysts   
-
-OpenAlex: https://openalex.org/W4403692782    
-Open access: False
-    
-[Bill Yan](https://openalex.org/A5086523780), [Suljo Linic](https://openalex.org/A5001250764), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03857.
-    
-No abstract    
-
-    
-
-## Ru/MgO Catalysts Modified with Various Alkali Metals (Na, Cs, K) for COx-Free H2 Production from NH3 Decomposition   
-
-OpenAlex: https://openalex.org/W4403692862    
-Open access: False
-    
-[Tianxu Su](https://openalex.org/A5067912035), [Bin Guan](https://openalex.org/A5060832414), [Chunzheng Zheng](https://openalex.org/A5008939806), [Jiefei Zhou](https://openalex.org/A5047221113), [Zhen Huang](https://openalex.org/A5100778507), Energy & Fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c03658.
-    
-No abstract    
-
-    
-
-## Dynamic Surface Dealloying for Pt3Co/C Catalysts with a Pt-Enriched Surface for the Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4403693496    
-Open access: False
-    
-[Mingjie Xu](https://openalex.org/A5101864392), [Ye Xiao](https://openalex.org/A5056756294), [Jingxi Zhang](https://openalex.org/A5101433523), [Yuting Xia](https://openalex.org/A5083751702), [Tianli Liu](https://openalex.org/A5036436557), [Yanhao Dong](https://openalex.org/A5074064792), [Chang‐An Wang](https://openalex.org/A5100645729), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.4c02062.
-    
-No abstract    
-
-    
-
-## Leveraging Machine Learning to Expedite Screening of Single-atom Catalysts in Electrochemical Nitrate Reduction to Ammonia   
-
-OpenAlex: https://openalex.org/W4403695068    
-Open access: False
-    
-[Zhongli Lu](https://openalex.org/A5006575197), [Jiming Liu](https://openalex.org/A5062375227), [Houfen Li](https://openalex.org/A5065542968), [Rui Li](https://openalex.org/A5100448510), [Xiao Zhang](https://openalex.org/A5100320883), [Juan Jian](https://openalex.org/A5032727835), [Xiaoming Gao](https://openalex.org/A5049164708), [Xuqian Zhang](https://openalex.org/A5101595083), [Yanze Wu](https://openalex.org/A5005857802), [Xiuping Yue](https://openalex.org/A5073743290), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177180.
-    
-No abstract    
-
-    
-
-## Sliding catalysis for on-off switching of the hydrogen evolution reaction on two-dimensional van der Waals bilayers   
-
-OpenAlex: https://openalex.org/W4403705961    
-Open access: False
-    
-[Kun Liu](https://openalex.org/A5100398795), [Xingju Zhao](https://openalex.org/A5048931115), [Xiaoyan Ren](https://openalex.org/A5074216961), [Shunfang Li](https://openalex.org/A5065249802), Physical Review Applied. 22(4)] 2024.https://doi.org/10.1103/physrevapplied.22.044061.
-    
-No abstract    
-
-    
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2326319594%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W2321716361](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2326319594%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W2321716361)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4396781988%7Chttps%3A//openalex.org/W4398161548%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W2013291890%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W2036912748](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4396781988%7Chttps%3A//openalex.org/W4398161548%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W2013291890%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W2036912748)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W2062213432%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W2951947955](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W2062213432%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W2951947955)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2038093538%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W4396813915%7Chttps%3A//openalex.org/W4399769525%7Chttps%3A//openalex.org/W4400149477%7Chttps%3A//openalex.org/W4400720071%7Chttps%3A//openalex.org/W4401476302%7Chttps%3A//openalex.org/W4401547089%7Chttps%3A//openalex.org/W4401579937%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4402796790](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2038093538%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W4396813915%7Chttps%3A//openalex.org/W4399769525%7Chttps%3A//openalex.org/W4400149477%7Chttps%3A//openalex.org/W4400720071%7Chttps%3A//openalex.org/W4401476302%7Chttps%3A//openalex.org/W4401547089%7Chttps%3A//openalex.org/W4401579937%7Chttps%3A//openalex.org/W4402230343%7Chttps%3A//openalex.org/W4402796790)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W4230851681%7Chttps%3A//openalex.org/W2002360200%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1999352645%7Chttps%3A//openalex.org/W4239479870%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W4387438978%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W2039786021%7Chttps%3A//openalex.org/W2016865072](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W4230851681%7Chttps%3A//openalex.org/W2002360200%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1999352645%7Chttps%3A//openalex.org/W4239479870%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W4387438978%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W2039786021%7Chttps%3A//openalex.org/W2016865072)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2080142003%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4322759324](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2080142003%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4294287379%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4322759324)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
 
 ## Machine Learning Assisted Selection of Catalyst for γ-Valerolactone Hydrogenation from Levulinic Acid   
 
@@ -468,14 +303,113 @@ No abstract
 
     
 
-## ROBERT: Bridging the Gap Between Machine Learning and Chemistry   
+## Double-Shell Confinement Strategy Enhancing Durability of PtFeTi Intermetallic Catalysts for the Oxygen Reduction Reaction   
 
-OpenAlex: https://openalex.org/W4403697375    
+OpenAlex: https://openalex.org/W4403869883    
+Open access: False
+    
+[Chen Sumin](https://openalex.org/A5055325541), [Lai-Ke Chen](https://openalex.org/A5111564998), [Na Tian](https://openalex.org/A5050506728), [Sheng-Nan Hu](https://openalex.org/A5090674104), [Shuangli Yang](https://openalex.org/A5104089361), [Jun‐Fei Shen](https://openalex.org/A5111011993), [Jing-Xiao Tang](https://openalex.org/A5013243279), [De‐Yin Wu](https://openalex.org/A5089160535), [Mingshu Chen](https://openalex.org/A5100428804), [Zhi‐You Zhou](https://openalex.org/A5076196589), [Shi‐Gang Sun](https://openalex.org/A5100673667), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04779.
+    
+No abstract    
+
+    
+
+## Elastic constants from charge density distribution in FCC high-entropy alloys using CNN and DFT   
+
+OpenAlex: https://openalex.org/W4403871417    
 Open access: True
     
-[David Dalmau](https://openalex.org/A5022358140), [Juan V. Alegre‐Requena](https://openalex.org/A5052028748), Wiley Interdisciplinary Reviews Computational Molecular Science. 14(5)] 2024.https://doi.org/10.1002/wcms.1733.
+[Hossein Mirzaee](https://openalex.org/A5114447063), [Ramin Soltanmohammadi](https://openalex.org/A5061960835), [Nathan Linton](https://openalex.org/A5012603904), [J. FISCHER](https://openalex.org/A5108794387), [Serveh Kamrava](https://openalex.org/A5077608041), [Pejman Tahmasebi](https://openalex.org/A5079372989), [Dilpuneet S. Aidhy](https://openalex.org/A5023250729), APL Machine Learning. 2(4)] 2024.https://doi.org/10.1063/5.0229105.
     
-ABSTRACT Beyond addressing technological demands, the integration of machine learning (ML) into human societies has also promoted sustainability through the adoption of digitalized protocols. Despite these advantages and the abundance of available toolkits, a substantial implementation gap is preventing the widespread incorporation of ML protocols into the computational and experimental chemistry communities. In this work, we introduce ROBERT, a software carefully crafted to make ML more accessible to chemists of all programming skill levels, while achieving results comparable to those of field experts. We conducted benchmarking using six recent ML studies in chemistry containing from 18 to 4149 entries. Furthermore, we demonstrated the program's ability to initiate workflows directly from SMILES strings, which simplifies the generation of ML predictors for common chemistry problems. To assess ROBERT's practicality in real‐life scenarios, we employed it to discover new luminescent Pd complexes with a modest dataset of 23 points, a frequently encountered scenario in experimental studies.    
+While high-entropy alloys (HEAs) present exponentially large compositional space for alloy design, they also create enormous computational challenges to trace the compositional space, especially for the inherently expensive density functional theory calculations (DFT). Recent works have integrated machine learning into DFT to overcome these challenges. However, often these models require an intensive search of appropriate physics-based descriptors. In this paper, we employ a 3D convolutional neural network over just one descriptor, i.e., the charge density derived from DFT, to simplify and bypass the hunt for the descriptors. We show that the elastic constants of face-centered cubic multi-elemental alloys in the Ni–Cu–Au–Pd–Pt system can be predicted from charge density. In addition, using our recent PREDICT approach, we show that the model can be trained only on the charge densities of simpler binary and ternary alloys to effectively predict elastic constants in complex multi-elemental alloys, thereby further enabling easier property-tracing in the large compositional space of HEAs.    
+
+    
+
+## Electrochemical Formation of C2+ Products Steered by Bridge-Bonded *CO Confined by *OH Domains   
+
+OpenAlex: https://openalex.org/W4403879378    
+Open access: True
+    
+[Haibin Ma](https://openalex.org/A5103977511), [Enric Ibáñez-Alé](https://openalex.org/A5020618927), [Futian You](https://openalex.org/A5080339430), [Núria Lopéz](https://openalex.org/A5100605805), [Boon Siang Yeo](https://openalex.org/A5036919020), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c08755 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacs.4c08755?ref=article_openPDF)).
+    
+During the electrochemical CO2 reduction reaction (eCO2RR) on copper catalysts, linear-bonded CO (*COL) is commonly regarded as the key intermediate for the CO-CO coupling step, which leads to the formation of multicarbon products. In this work, we unveil the significant role of bridge-bonded *CO (*COB) as an active species. By combining in situ Raman spectroscopy, gas and liquid chromatography, and density functional theory (DFT) simulations, we show that adsorbed *OH domains displace *COL to *COB. The electroreduction of a 12CO+13CO2 cofeed demonstrates that *COB distinctly favors the production of acetate and 1-propanol, while *COL favors ethylene and ethanol formation. This work enhances our understanding of the mechanistic intricacies of eCO(2)RR and suggests new directions for designing operational conditions by modifying the competitive adsorption of surface species, thereby steering the reaction toward specific multicarbon products.    
+
+    
+
+## Structural and compositional optimization of bimetallic NiCo alloy nanoparticles for promotion of alkaline hydrogen evolution reaction   
+
+OpenAlex: https://openalex.org/W4403885372    
+Open access: True
+    
+[Bishnupad Mohanty](https://openalex.org/A5051311801), [Lingaraj Pradhan](https://openalex.org/A5113615760), [Biswarup Satpati](https://openalex.org/A5029614086), [Parasmani Rajput](https://openalex.org/A5070852137), [Mahdi Ghorbani‐Asl](https://openalex.org/A5077436740), [Yidan Wei](https://openalex.org/A5110959852), [Prashanth W. Menezes](https://openalex.org/A5009720807), [Arkady V. Krasheninnikov](https://openalex.org/A5040284452), [Bikash Kumar Jena](https://openalex.org/A5027922078), Journal of Power Sources. 625(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.235641.
+    
+No abstract    
+
+    
+
+## Unlocking the limitations of layered LiNiO2: Insights from DFT simulations on its viability as a cathode material for aqueous Lithium-ion batteries   
+
+OpenAlex: https://openalex.org/W4403885407    
+Open access: False
+    
+[Gibu George](https://openalex.org/A5018183133), [Artur Brotons‐Rufes](https://openalex.org/A5055289864), [Albert Poater](https://openalex.org/A5091859825), [Miquel Solà](https://openalex.org/A5035251076), [Sergio Posada‐Pérez](https://openalex.org/A5075097508), Journal of Power Sources. 625(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.235650.
+    
+No abstract    
+
+    
+
+## Accelerated water dissociation kinetics by nickel-nickelous hydroxide epitaxial interfaces for superior alkaline hydrogen generation   
+
+OpenAlex: https://openalex.org/W4403885965    
+Open access: False
+    
+[Ya-Fei Cheng](https://openalex.org/A5112115107), [Yanlong Li](https://openalex.org/A5100718124), [Zhenyu Qiao](https://openalex.org/A5101339782), [Lulu Hu](https://openalex.org/A5032898004), [Hongbo Geng](https://openalex.org/A5044882203), [Huilong Dong](https://openalex.org/A5033039685), [Fan Liao](https://openalex.org/A5015035637), [Mingwang Shao](https://openalex.org/A5057299366), Journal of Colloid and Interface Science. 679(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.141.
+    
+No abstract    
+
+    
+
+## Real-space visualization of atomic displacements in a long-wavelength charge density wave using cryogenic 4D-STEM   
+
+OpenAlex: https://openalex.org/W4403888133    
+Open access: False
+    
+[Haoyang Ni](https://openalex.org/A5072577386), [William R. Meier](https://openalex.org/A5035400543), [H. Miao](https://openalex.org/A5035456557), [Andrew F. May](https://openalex.org/A5045587529), [B. C. Sales](https://openalex.org/A5026635126), [Jian‐Min Zuo](https://openalex.org/A5089220289), [Miaofang Chi](https://openalex.org/A5046838323), Physical Review Materials. 8(10)] 2024.https://doi.org/10.1103/physrevmaterials.8.104414.
+    
+No abstract    
+
+    
+
+## Hybrid confinement of Pt-Ni-Co spherical core-shells in multibranched nano-dendrites interspersed on N-doped aerogels for enhanced ORR performance and durability   
+
+OpenAlex: https://openalex.org/W4403898069    
+Open access: False
+    
+[Muhammad Umair Mushtaq](https://openalex.org/A5041882264), [Danni Li](https://openalex.org/A5100664693), [Xiang Shao](https://openalex.org/A5064789384), [Khurram Shahzad Ayub](https://openalex.org/A5017637059), [Ali Shan](https://openalex.org/A5060226902), [Limei Cao](https://openalex.org/A5084812419), [Ji Yang](https://openalex.org/A5045154172), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177307.
+    
+No abstract    
+
+    
+
+## The Electrochemical Synthesis of Urea on Triatomic Cluster/Cu Catalysts: A Theoretical Study   
+
+OpenAlex: https://openalex.org/W4403902171    
+Open access: False
+    
+[Qiang Liu](https://openalex.org/A5100409455), [Jingnan Wang](https://openalex.org/A5014030303), [Yongan Yang](https://openalex.org/A5015906224), [Xi Wang](https://openalex.org/A5100442292), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105349.
+    
+No abstract    
+
+    
+
+## Two-dimensional SnS2/ZrSi2N4 van der Waals heterojunction as a spontaneously enhanced hydrogen evolution photocatalyst   
+
+OpenAlex: https://openalex.org/W4403904649    
+Open access: False
+    
+[Ying Hu](https://openalex.org/A5066502574), [Feilong Xiong](https://openalex.org/A5012704372), [Chaoyi Xin](https://openalex.org/A5102694325), [Sheng Wang](https://openalex.org/A5100371335), [Zhengquan Li](https://openalex.org/A5101559679), [Kai-Wu Luo](https://openalex.org/A5035890892), [Kejun Dong](https://openalex.org/A5081803553), [Liang Xu](https://openalex.org/A5100612997), Materials Today Communications. 41(None)] 2024.https://doi.org/10.1016/j.mtcomm.2024.110816.
+    
+No abstract    
 
     
 
@@ -490,13 +424,35 @@ Abstract The rational design and fabrication of 2D heterojuctions are proven a p
 
     
 
-## Association between Thai language proficiency and adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Southern Thailand   
+## Toward AI/ML-assisted discovery of transition metal complexes   
 
-OpenAlex: https://openalex.org/W4403758751    
+OpenAlex: https://openalex.org/W4403897047    
+Open access: False
+    
+[H.-Q. Jin](https://openalex.org/A5065874777), [Kenneth M. Merz](https://openalex.org/A5085994852), Annual reports in computational chemistry. None(None)] 2024.https://doi.org/10.1016/bs.arcc.2024.10.003.
+    
+No abstract    
+
+    
+
+## Hydrothermal reduction of CO2 captured by aqueous amine solutions into formate: comparison between in situ generated H2 and gaseous H2 as reductant and evaluation of amine stability   
+
+OpenAlex: https://openalex.org/W4403901788    
 Open access: True
     
-[Hein Htet](https://openalex.org/A5028874308), [Aungkana Chuaychai](https://openalex.org/A5017001240), [Tida Sottiyotin](https://openalex.org/A5063328656), [Kyaw Ko Ko Htet](https://openalex.org/A5078399827), [Hutcha Sriplung](https://openalex.org/A5024693232), [Wit Wichaidit](https://openalex.org/A5031550335), [Virasakdi Chongsuvivatwong](https://openalex.org/A5050403457), PLoS ONE. 19(10)] 2024.https://doi.org/10.1371/journal.pone.0312571.
+[Laura Quintana-Gómez](https://openalex.org/A5091777990), [Luama Araújo dos Santos](https://openalex.org/A5055694076), [Fernando Cossio-Cid](https://openalex.org/A5114459601), [Víctor Ciordia-Asenjo](https://openalex.org/A5114459602), [Miguel Almarza](https://openalex.org/A5099125905), [Alberto Goikoechea](https://openalex.org/A5114459603), [Sergio Ferrero](https://openalex.org/A5039155712), [Celedonio M. Álvarez](https://openalex.org/A5103029056), [José J. Segovia](https://openalex.org/A5068491290), [Ángel Martín](https://openalex.org/A5061991859), [M. Dolores Bermejo](https://openalex.org/A5019076889), Carbon Capture Science & Technology. None(None)] 2024.https://doi.org/10.1016/j.ccst.2024.100333.
     
-The association between host country language proficiency and disease prevention among migrants is underexplored. The objective of this study is to assess the extent to which self-reported command of the Thai language is associated with adherence to COVID-19 protective behaviors (CPB) among Myanmar migrant workers in Thailand. We distributed a self-administered structured questionnaire in Burmese language to 1,050 Myanmar migrant workers in Southern Thailand from September 2022 to January 2023. The questionnaire included background characteristics, self-reported Thai language proficiency based on the Common European Framework Reference (CEFR), and self-reported CPB adherence at residence and workplace. We analyzed data using descriptive statistics and multivariate linear regression analysis. Although slightly less than half of the participants reported CEFR A1 level or higher in Thai speaking and listening skills, less than 10 percent did so for reading and writing skills. Workplace COVID-19 preventive adherence scores were initially found to be significantly associated with A1 level or higher speaking and listening skills. However, after adjusting for confounders, these associations were not statistically significant (Speaking skill's Adjusted Beta = 0.713, 95% CI = -0.011, 1.437; Listening skill's Adjusted Beta = -0.367, 95% CI = -1.087, 0.353). No significant associations were found between any language skill domain and residence COVID-19 preventive adherence scores for both unadjusted and adjusted analysis. The study findings may have implications for relevant stakeholders in migrant services, migrant health, and infectious disease control. However, information biases, language barriers, and lack of generalizability should be considered as caveats in the interpretation of the study findings.    
+No abstract    
+
+    
+
+## Development of anion exchange membrane-based electrochemical CO2 separation cells for direct air capture   
+
+OpenAlex: https://openalex.org/W4403905064    
+Open access: False
+    
+[Ji Eon Chae](https://openalex.org/A5068264854), [Jiseon Choi](https://openalex.org/A5101777237), [Dongkeun Lee](https://openalex.org/A5012201862), [Sunyoup Lee](https://openalex.org/A5049119225), [Seonyeob Kim](https://openalex.org/A5054520085), Journal of Industrial and Engineering Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jiec.2024.10.049.
+    
+No abstract    
 
     
