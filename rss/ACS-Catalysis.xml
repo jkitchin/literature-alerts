@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Nov 2024 01:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 01:19:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalytic Reduction of Carbon Monoxide to Liquid Fuels with Recyclable Hydride Donors</title>
-      <link>https://doi.org/10.1021/acscatal.4c05083</link>
-      <description>Javier J. Concepcion, Renato N. Sampaio, Gerald J. Meyer, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403715975
-
-                No abstract</description>
-      <author>Javier J. Concepcion, Renato N. Sampaio, Gerald J. Meyer</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05083</guid>
-    </item>
-    <item>
-      <title>Solvent-Free Benzyl Alcohol Oxidation Using Spatially Separated Carbon-Supported Au and Pd Nanoparticles</title>
-      <link>https://doi.org/10.1021/acscatal.4c05019</link>
-      <description>Yong&#8208;Min Liang, Liang Zhao, Mark Douthwaite, Kai Wang, Ouardia Akdim, Isaac T. Daniel, Rena Oh, Lei Liu, Zhe Wang, Fanhui Meng, Samuel Pattisson, &#193;ngeles L&#243;pez&#8208;Mart&#237;n, Jian Yang, Xiaoyang Huang, Richard J. Lewis, Graham J. Hutchings, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403732761
-
-                No abstract</description>
-      <author>Yong&#8208;Min Liang, Liang Zhao, Mark Douthwaite, Kai Wang, Ouardia Akdim, Isaac T. Daniel, Rena Oh, Lei Liu, Zhe Wang, Fanhui Meng, Samuel Pattisson, &#193;ngeles L&#243;pez&#8208;Mart&#237;n, Jian Yang, Xiaoyang Huang, Richard J. Lewis, Graham J. Hutchings</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05019</guid>
-    </item>
-    <item>
-      <title>Analyzing the Temperature Dependence of Titania Photocatalysis: Kinetic Competition between Water Oxidation Catalysis and Back Electron&#8211;Hole Recombination</title>
-      <link>https://doi.org/10.1021/acscatal.4c03685</link>
-      <description>Yohei Cho, Tianhao He, Benjamin Moss, Daniele Benetti, Caiwu Liang, Lei Tian, Lucy J. F. Hart, Anna A. Wilson, Y. Taniguchi, Junyi Cui, Mengya Yang, Salvador Eslava, Akira Yamaguchi, Masahiro Miyauchi, James R. Durrant, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403733579
-
-                No abstract</description>
-      <author>Yohei Cho, Tianhao He, Benjamin Moss, Daniele Benetti, Caiwu Liang, Lei Tian, Lucy J. F. Hart, Anna A. Wilson, Y. Taniguchi, Junyi Cui, Mengya Yang, Salvador Eslava, Akira Yamaguchi, Masahiro Miyauchi, James R. Durrant</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03685</guid>
-    </item>
-    <item>
-      <title>Metal Carbene-Directed Intramolecular Vinylogous Reactions of Vinyldiazoacetates</title>
-      <link>https://doi.org/10.1021/acscatal.4c05839</link>
-      <description>Marlyn S. Rada, Dmitry M. Bystrov, Diana Victoria Navarrete Carriola, Daniel Wherritt, Michael P. Doyle, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403750908
-
-                No abstract</description>
-      <author>Marlyn S. Rada, Dmitry M. Bystrov, Diana Victoria Navarrete Carriola, Daniel Wherritt, Michael P. Doyle</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05839</guid>
-    </item>
     <item>
       <title>Efficient Ir&lt;sup&gt;III&lt;/sup&gt; Photosensitizer Incorporated in the Metal&#8211;Organic Framework with the Bis-lophine-bipyridine Motif for C(sp&lt;sup&gt;3&lt;/sup&gt;)-C/N&#8211;H Cross-Coupling Reactions</title>
       <link>https://doi.org/10.1021/acscatal.4c04666</link>
@@ -196,6 +156,46 @@
       <author>Yifan Li, Xueying Wan, Zhigang Chen, Ding Ding, Hao Li, Ning Zhang, Dong Liu, Yi Cui</author>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01779</guid>
+    </item>
+    <item>
+      <title>Practical Considerations for Understanding Surface Reaction Mechanisms Involved in Heterogeneous Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05188</link>
+      <description>Daniyal Kiani, Israel E. Wachs, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403921426
+
+                No abstract</description>
+      <author>Daniyal Kiani, Israel E. Wachs</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05188</guid>
+    </item>
+    <item>
+      <title>Electronic and Structural Property Comparison of Iridium-Based OER Nanocatalysts Enabled by &lt;i&gt;Operando&lt;/i&gt; Ir L&lt;sub&gt;3&lt;/sub&gt;-Edge X-ray Absorption Spectroscopy</title>
+      <link>https://doi.org/10.1021/acscatal.4c03562</link>
+      <description>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403922363
+
+                No abstract</description>
+      <author>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03562</guid>
+    </item>
+    <item>
+      <title>Br&#248;nsted Acid-Triggered Fast Synthesis Pathway of Furfural to Ethyl Levulinate by PtZn Supported on ZSM-5 Nanosheets</title>
+      <link>https://doi.org/10.1021/acscatal.4c03794</link>
+      <description>Longbin Deng, Zongyuan Wang, Xin Yu, Congzhen Qiao, Shuaishuai Zhou, Qiang Deng, Yong Zhao, Yajie Tian, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403923117
+
+                No abstract</description>
+      <author>Longbin Deng, Zongyuan Wang, Xin Yu, Congzhen Qiao, Shuaishuai Zhou, Qiang Deng, Yong Zhao, Yajie Tian</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03794</guid>
+    </item>
+    <item>
+      <title>Chiral &lt;i&gt;N&lt;/i&gt;-Hydroxyalkyl Pyrid-2-Ylidenes: A New Class of Ligands for Copper-Catalyzed Asymmetric Allylic Alkylation</title>
+      <link>https://doi.org/10.1021/acscatal.4c05243</link>
+      <description>Dylan Bou&#235;tard, Ziyun Zhang, Thomas Viv&#232;s, Marie Cordier&#8776;, Luigi Cavallo, Lucie Jarrige, Laura Falivene, Marc Mauduit, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403923563
+
+                No abstract</description>
+      <author>Dylan Bou&#235;tard, Ziyun Zhang, Thomas Viv&#232;s, Marie Cordier&#8776;, Luigi Cavallo, Lucie Jarrige, Laura Falivene, Marc Mauduit</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05243</guid>
     </item>
   </channel>
 </rss>

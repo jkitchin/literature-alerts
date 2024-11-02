@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Nov  1 01:26:46 2024
+Created on Sat Nov  2 01:19:30 2024
 
-Found 19 results from 2024-10-25 to 2024-11-01
+Found 19 results from 2024-10-26 to 2024-11-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Catalytic Reduction of Carbon Monoxide to Liquid Fuels with Recyclable Hydride Donors   
-
-OpenAlex: https://openalex.org/W4403715975    
-Open access: False
-    
-[Javier J. Concepcion](https://openalex.org/A5080197399), [Renato N. Sampaio](https://openalex.org/A5006832213), [Gerald J. Meyer](https://openalex.org/A5073119387), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05083.
-    
-No abstract    
-
-    
-
-## Solvent-Free Benzyl Alcohol Oxidation Using Spatially Separated Carbon-Supported Au and Pd Nanoparticles   
-
-OpenAlex: https://openalex.org/W4403732761    
-Open access: True
-    
-[Yong‐Min Liang](https://openalex.org/A5101814743), [Liang Zhao](https://openalex.org/A5019853731), [Mark Douthwaite](https://openalex.org/A5028475580), [Kai Wang](https://openalex.org/A5022241037), [Ouardia Akdim](https://openalex.org/A5078084710), [Isaac T. Daniel](https://openalex.org/A5077287972), [Rena Oh](https://openalex.org/A5084318246), [Lei Liu](https://openalex.org/A5100349631), [Zhe Wang](https://openalex.org/A5100407584), [Fanhui Meng](https://openalex.org/A5015964296), [Samuel Pattisson](https://openalex.org/A5004665220), [Ángeles López‐Martín](https://openalex.org/A5079914218), [Jian Yang](https://openalex.org/A5101655742), [Xiaoyang Huang](https://openalex.org/A5005686261), [Richard J. Lewis](https://openalex.org/A5063295957), [Graham J. Hutchings](https://openalex.org/A5020068159), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05019.
-    
-No abstract    
-
-    
-
-## Analyzing the Temperature Dependence of Titania Photocatalysis: Kinetic Competition between Water Oxidation Catalysis and Back Electron–Hole Recombination   
-
-OpenAlex: https://openalex.org/W4403733579    
-Open access: True
-    
-[Yohei Cho](https://openalex.org/A5034568892), [Tianhao He](https://openalex.org/A5107545328), [Benjamin Moss](https://openalex.org/A5005889599), [Daniele Benetti](https://openalex.org/A5006926420), [Caiwu Liang](https://openalex.org/A5026417092), [Lei Tian](https://openalex.org/A5015881954), [Lucy J. F. Hart](https://openalex.org/A5056868046), [Anna A. Wilson](https://openalex.org/A5033962179), [Y. Taniguchi](https://openalex.org/A5111377269), [Junyi Cui](https://openalex.org/A5053461586), [Mengya Yang](https://openalex.org/A5021129708), [Salvador Eslava](https://openalex.org/A5004640490), [Akira Yamaguchi](https://openalex.org/A5049808190), [Masahiro Miyauchi](https://openalex.org/A5028472365), [James R. Durrant](https://openalex.org/A5086035043), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03685.
-    
-No abstract    
-
-    
-
-## Metal Carbene-Directed Intramolecular Vinylogous Reactions of Vinyldiazoacetates   
-
-OpenAlex: https://openalex.org/W4403750908    
-Open access: False
-    
-[Marlyn S. Rada](https://openalex.org/A5020289219), [Dmitry M. Bystrov](https://openalex.org/A5066576886), [Diana Victoria Navarrete Carriola](https://openalex.org/A5028306574), [Daniel Wherritt](https://openalex.org/A5009053117), [Michael P. Doyle](https://openalex.org/A5058847615), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05839.
-    
-No abstract    
-
-    
 
 ## Efficient IrIII Photosensitizer Incorporated in the Metal–Organic Framework with the Bis-lophine-bipyridine Motif for C(sp3)-C/N–H Cross-Coupling Reactions   
 
@@ -210,6 +166,50 @@ OpenAlex: https://openalex.org/W4403892470
 Open access: False
     
 [Yifan Li](https://openalex.org/A5085794085), [Xueying Wan](https://openalex.org/A5033388493), [Zhigang Chen](https://openalex.org/A5101813176), [Ding Ding](https://openalex.org/A5100352094), [Hao Li](https://openalex.org/A5101598497), [Ning Zhang](https://openalex.org/A5058193995), [Dong Liu](https://openalex.org/A5074511443), [Yi Cui](https://openalex.org/A5063995082), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01779.
+    
+No abstract    
+
+    
+
+## Practical Considerations for Understanding Surface Reaction Mechanisms Involved in Heterogeneous Catalysis   
+
+OpenAlex: https://openalex.org/W4403921426    
+Open access: True
+    
+[Daniyal Kiani](https://openalex.org/A5028323119), [Israel E. Wachs](https://openalex.org/A5066491588), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05188.
+    
+No abstract    
+
+    
+
+## Electronic and Structural Property Comparison of Iridium-Based OER Nanocatalysts Enabled by Operando Ir L3-Edge X-ray Absorption Spectroscopy   
+
+OpenAlex: https://openalex.org/W4403922363    
+Open access: True
+    
+[Marianne van der Merwe](https://openalex.org/A5051766750), [Romualdus Enggar Wibowo](https://openalex.org/A5054420679), [Catalina Jiménez](https://openalex.org/A5085690657), [Carlos Escudero](https://openalex.org/A5009991442), [Giovanni Agostini](https://openalex.org/A5086042043), [Marcus Bär](https://openalex.org/A5084897727), [Raul Garcia‐Diez](https://openalex.org/A5011238991), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03562.
+    
+No abstract    
+
+    
+
+## Brønsted Acid-Triggered Fast Synthesis Pathway of Furfural to Ethyl Levulinate by PtZn Supported on ZSM-5 Nanosheets   
+
+OpenAlex: https://openalex.org/W4403923117    
+Open access: False
+    
+[Longbin Deng](https://openalex.org/A5027570306), [Zongyuan Wang](https://openalex.org/A5078862472), [Xin Yu](https://openalex.org/A5100738018), [Congzhen Qiao](https://openalex.org/A5103978773), [Shuaishuai Zhou](https://openalex.org/A5014151565), [Qiang Deng](https://openalex.org/A5080694348), [Yong Zhao](https://openalex.org/A5005156164), [Yajie Tian](https://openalex.org/A5080899164), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03794.
+    
+No abstract    
+
+    
+
+## Chiral N-Hydroxyalkyl Pyrid-2-Ylidenes: A New Class of Ligands for Copper-Catalyzed Asymmetric Allylic Alkylation   
+
+OpenAlex: https://openalex.org/W4403923563    
+Open access: False
+    
+[Dylan Bouëtard](https://openalex.org/A5079912377), [Ziyun Zhang](https://openalex.org/A5016909379), [Thomas Vivès](https://openalex.org/A5084447390), [Marie Cordier≈](https://openalex.org/A5047907424), [Luigi Cavallo](https://openalex.org/A5053222658), [Lucie Jarrige](https://openalex.org/A5061160719), [Laura Falivene](https://openalex.org/A5035011115), [Marc Mauduit](https://openalex.org/A5066691360), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05243.
     
 No abstract    
 

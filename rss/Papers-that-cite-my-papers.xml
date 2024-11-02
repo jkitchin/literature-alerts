@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Nov 2024 01:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 01:19:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Machine Learning Assisted Selection of Catalyst for &#947;-Valerolactone Hydrogenation from Levulinic Acid</title>
-      <link>https://doi.org/10.1021/acssuschemeng.4c05941</link>
-      <description>Liu Dongyu, Zhen Jia, Lu Shen, Wenman Liu, Ronald T.K. Pang, Shitao Yu, Shiwei Liu, Lu Li, Yue Liu, Longzhen Yu, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4403716968
-
-                No abstract</description>
-      <author>Liu Dongyu, Zhen Jia, Lu Shen, Wenman Liu, Ronald T.K. Pang, Shitao Yu, Shiwei Liu, Lu Li, Yue Liu, Longzhen Yu</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c05941</guid>
-    </item>
-    <item>
-      <title>Efficient CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction on Cu-Decorated Biphenylene</title>
-      <link>https://doi.org/10.1021/acsami.4c08499</link>
-      <description>Radha N Somaiya, Muhammad Sajjad, Nirpendra Singh, Aftab Alam, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403728309
-
-                Developing efficient electrocatalysts for CO2 reduction into value-added products is crucial for a green economy. Inspired by the recent experimental synthesis of biphenylene (BPH) and the excellent catalytic activity of copper dispersed on two-dimensional (2D) materials, we chose to systematically investigate the pristine, defective, and Cu-decorated BPH for the electrocatalytic CO2 reduction to value-added hydrocarbons. It is observed that the CO2 molecules bind weakly to the pristine BPH, indicating their chemical inertness. Carbon single-vacancy defects facilitate CO2 adsorption with a strong binding energy (Eb) of &#8722;3.23 eV, detrimental to the CO2 reduction reaction (CRR) mechanism. We have further investigated the binding energy and kinetic stability of Cu-decorated BPH as a single-atom-catalyst (SAC). The molecular dynamics simulations confirm the kinetic stability, revealing that the Cu-atom avoids agglomeration under low metal dispersal conditions. The CO2 molecule gets adsorbed horizontally on the Cu-BPH surface with a &#916;Eb of &#8722;0.52 eV. The CRR mechanism is investigated using two pathways beginning with two different initial states, formate (*OCOH) and carboxylic (*COOH). The formate pathway confirms the conversion of *OCOH to *HCOOH with the rate-limiting potential (UL) of 0.39 eV for the production of HCOOH, while for the carboxylic pathway, the conversion of *COH to *CHOH has a UL of 0.32 eV, eventually producing CH3OH. Our findings highlight the role of Cu-BPH as an efficient SAC for CO2 catalytic activity to C1 products, as compared to the state-of-the-art Cu, and holds promise as an electrocatalyst for CRR.</description>
-      <author>Radha N Somaiya, Muhammad Sajjad, Nirpendra Singh, Aftab Alam</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c08499</guid>
-    </item>
-    <item>
-      <title>Mild polarization electric field in ultra-thin BN-Fe-graphene sandwich structure for efficient nitrogen reduction</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60114-2</link>
-      <description>Ziyuan Xiu, Wei Mu, Xin Zhou, Xiaojun Han, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 65(None)] 2024. https://openalex.org/W4403728693
-
-                No abstract</description>
-      <author>Ziyuan Xiu, Wei Mu, Xin Zhou, Xiaojun Han</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60114-2</guid>
-    </item>
-    <item>
-      <title>Miniaturized Electrochemical Gas Sensor with a Functional Nanocomposite and Thin Ionic Liquid Interface for Highly Sensitive and Rapid Detection of Hydrogen</title>
-      <link>https://doi.org/10.1021/acs.analchem.4c02561</link>
-      <description>Zhuoru Huang, Wenjian Yang, Yanchi Zhang, Jiaxi Yin, Xianyou Sun, Jiaying Sun, Guangqing Ren, Shichao Tian, Ping Wang, Hao Wan, Analytical Chemistry. None(None)] 2024. https://openalex.org/W4403732719
-
-                Hydrogen has been widely used in industrial and commercial applications as a carbon-free, efficient energy source. Due to the high flammability and explosion risk of hydrogen&#8211;air mixtures, it is vital to develop sensors featuring fast-responding and high sensitivity for hydrogen leakage detection. This paper presents a miniaturized electrochemical gas sensor by elaborately establishing a nanocomposite and thin ionic liquid interface for highly sensitive and rapid electrochemical detection of hydrogen, in which a remarkable response time and recovery time of approximately 6 s was achieved at room temperature. A screen-printed carbon electrode was modified with a reduced graphene oxide&#8211;carbon nanotube (rGO-CNT) hybrid and platinum&#8211;palladium (Pt&#8211;Pd) bimetallic nanoparticles to realize high sensitivity. To achieve miniaturization and high stability of the sensor, a thin-film room-temperature ionic liquid (RTIL) was employed as the electrolyte with a significantly decreased response time. The fast-responding hydrogen sensor demonstrates excellent performance with high sensitivity, linearity, and repeatability at concentrations below the lower explosive limit of 4 vol %. The engineered high-performance interface and gas sensor provide a promising and effective strategy for gas sensor design and rapid hazardous gas monitoring.</description>
-      <author>Zhuoru Huang, Wenjian Yang, Yanchi Zhang, Jiaxi Yin, Xianyou Sun, Jiaying Sun, Guangqing Ren, Shichao Tian, Ping Wang, Hao Wan</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.analchem.4c02561</guid>
-    </item>
-    <item>
-      <title>2D single-faceted IrO2(101) monolayer enabling high-performing proton exchange membrane water electrolysis beyond 8,000 h stability at 1.5 A cm-2</title>
-      <link>https://doi.org/10.21203/rs.3.rs-5187955/v1</link>
-      <description>Jianguo Liu, Deren Yang, Shouwei Zuo, Aidong Tan, Chunyang Zhang, Yufeng Qin, Xiaoyun Shi, Kang Hua, Xuemin An, Yubo Liu, Yue Yang, Lihua Jin, Yipeng Zhang, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4403745568
-
-                Abstract Both commercially available and laboratory-synthesized IrO2 catalysts typically possess rutile-type structures and diverse facet orientations. According to the theoretical results from density functional theory calculations, distinct IrO2 facets will result in divergent electrocatalytic properties, among which the (101) crystal facet is theoretically predicted as the most energetically favorable for oxygen evolution reaction (OER) owing to its lowest energy barrier. Maintaining a single-unit-cell thickness while exposing a desired facet of 2D IrO2 presents a significant opportunity and challenge for the development of high-performance OER anode catalysts. Herein, we develop an ammonia-induced facet engineering for oriented modulation of crystal facets in the ultimate limit of monolayer thickness, and successfully synthesize 2D monolayer IrO2 exposing unique (101) facet. At the current density of 10 mA cm-2geo, an ultralow overpotential of 230 mV has been achieved on the highly activated (101) facet in a three-electrode system. More importantly, in a proton exchange membrane (PEM) electrolyzer, the IrO2 anode reaches a low voltage of 1.74 V at an industrial-level current density of 2 A cm-2geo, much lower than that of all commercial IrO2 electrocatalysts. Though facet engineering primarily contributes to modulating the intrinsic activity rather than stability, the as-prepared IrO2(101) monolayer performs over 8,000 hours of PEM water electrolysis (PEMWE) stability at constant 1.5 A cm-2geo, with a negligible decay rate of 4.0 mV kh-1. Furthermore, even a long-term PEMWE test of 1000 h using the membrane electrode assembly (MEA) with ultra-low Ir loading of 0.2 mgIr cm-2geo under fluctuating operating conditions is performed, ECell remains highly electrochemically stable over time at 1.5 A cm-2geo, without any signs of catalyst degradation. This work proposes that ammonia-induced facet engineering of 2D monolayer IrO2 could represent a novel approach to selectively expose the desired (101) facet, thereby enabling unique facet-dependent OER performance and ultrahigh stability in industrial-scale PEM electrolysis, even under voltage fluctuations generated by solar and wind power.</description>
-      <author>Jianguo Liu, Deren Yang, Shouwei Zuo, Aidong Tan, Chunyang Zhang, Yufeng Qin, Xiaoyun Shi, Kang Hua, Xuemin An, Yubo Liu, Yue Yang, Lihua Jin, Yipeng Zhang</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5187955/v1</guid>
-    </item>
-    <item>
-      <title>Chirality Engineering of Nanostructured Copper Oxide for Enhancing Oxygen Evolution from Water Electrolysis</title>
-      <link>https://doi.org/10.1002/smll.202408248</link>
-      <description>Ying Li, Liang Qiu, Rui Tian, Zhongli Liu, Lin Yao, Lufei Huang, Wei Li, Yuyin Wang, Tao Wang, Baowen Zhou, Small. None(None)] 2024. https://openalex.org/W4403745745
-
-                Abstract The exploration of a new conceptual strategy for improving the oxygen evolution reaction (OER) of earth&#8208;abundant electrocatalysts is critical. In this study, chiral copper oxide nanoflower is explored by a self&#8208;assembly method. The characterization suggests the chiral structure originates from the crystal plane&#8208;level helical stack of the secondary nanosheets. Of note, the assembly illustrates a record&#8208;high degree of spin polarization of 96%, indicating the ideal alignment of electron spin. Moreover, density function theory calculations show the chiral structure reducing the reaction energy barrier (REB) while switching the potential&#8208;determining step from *O&#8594;*OOH to *OH&#8594;*O. Together with the enhanced electrochemical active surface area and accelerated charge transfer, the production of ground&#8208;state triplet O 2 is improved via a spin&#8208;forbidden route that involves the singlet H 2 O/OH&#8226;. Consequently, the chiral nanoflower shows a overpotential of 308 mV at 10 mA cm &#8722;2 and a Tafel slope of 93.5 mV dec &#8722;1 , which is even superior to the commercial RuO 2 (310 mV, 101 mV dec &#8722;1 ). This study presents a new strategy for improving the OER activity by simultaneously enhancing electronic properties and lowering the REB of an non&#8208;noble electrocatalyst via chirality engineering.</description>
-      <author>Ying Li, Liang Qiu, Rui Tian, Zhongli Liu, Lin Yao, Lufei Huang, Wei Li, Yuyin Wang, Tao Wang, Baowen Zhou</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408248</guid>
-    </item>
-    <item>
-      <title>Electronic Modulation of RuCo Catalysts on TiO&lt;sub&gt;2&lt;/sub&gt; Nanotubes Promoting Durable Acidic Overall Water Splitting</title>
-      <link>https://doi.org/10.1002/aenm.202403067</link>
-      <description>Hengyi Chen, Zehua Gao, Shijie Ren, Rui&#8208;Ting Gao, Limin Wu, Lei Wang, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4403745765
-
-                Abstract The development of efficient and durable bifunctional electrocatalysts is essential for hydrogen production from acidic water splitting. Herein, a TiO 2 nanotube&#8208;loaded Co&#8208;doped Ru nanoparticle catalyst (RuCo/TiO 2 NTs) is reported that exhibits excellent activity and stability toward acidic oxygen evolution reaction (OER) and hydrogen evolution reaction (HER). The Ru&#9472;O&#9472;Ti bonding is enhanced by Co doping, and the metal carrier interaction between Ru nanoparticles and TiO 2 NTs is enhanced, which effectively stabilizes Ru species during OER and initiates hydrogen spillover accelerating HER kinetics. As a result, RuCo/TiO 2 NTs catalyst requires only 156 mV OER overpotential and 17 mV HER overpotential to achieve a current density of 10 mA cm &#8722;2 with a stability more than 500 h in acidic conditions. More importantly, benefiting from the excellent bifunctional activities, the proton exchange membrane electrolyte assembled from RuCo/TiO 2 NTs has excellent activity and robust stability (1000 h). This work opens a new avenue for the efficient energy conversion devices.</description>
-      <author>Hengyi Chen, Zehua Gao, Shijie Ren, Rui&#8208;Ting Gao, Limin Wu, Lei Wang</author>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403067</guid>
-    </item>
-    <item>
-      <title>Host-guest-induced electronic state triggers two-electron oxygen reduction electrocatalysis</title>
-      <link>https://doi.org/10.1038/s41467-024-53714-3</link>
-      <description>Hongni Chen, Chao Wang, Han Wu, Lili Li, Yali Xing, Chuanhui Zhang, Xiaojing Long, Nature Communications. 15(1)] 2024. https://openalex.org/W4403749872
-
-                Supramolecular polymers possess great potential in catalysis owing to their distinctive molecular recognition and dynamic crosslinking features. However, investigating supramolecular electrocatalysts with high efficiency in oxygen reduction reaction to hydrogen peroxide (ORHP) remains an unexplored frontier. Herein, we present organic polymers for ORHP by introducing cyclodextrin-containing noncovalent building blocks, affording these supramolecules with abundant dynamic bonds. The electronic states and reaction kinetics are further well-modulated via a host-guest strategy, resulting in appropriate regional electron binding force and controllable chemical activity. Notably, integrating supramolecular units into phenyl group-containing model covalent polymer achieves a production rate of 9.14 mol g</description>
-      <author>Hongni Chen, Chao Wang, Han Wu, Lili Li, Yali Xing, Chuanhui Zhang, Xiaojing Long</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53714-3</guid>
-    </item>
     <item>
       <title>Single-atom anchored van der Waals heterojunctions for efficient Z-scheme photocatalytic overall water splitting</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.10.308</link>
@@ -262,7 +182,7 @@
       <link>https://doi.org/10.1038/s41467-024-53607-5</link>
       <description>Zhiyong Yu, Hao Deng, Qing Yao, Liangqun Zhao, Fei Xue, Tianou He, Zhiwei Hu, Wei&#8208;Hsiang Huang, Chih&#8208;Wen Pao, Li&#8208;Ming Yang, Xiaoqing Huang, Nature Communications. 15(1)] 2024. https://openalex.org/W4403852415
 
-                No abstract</description>
+                Developing efficient electrocatalysts for acidic electrosynthesis of hydrogen peroxide (H2O2) holds considerable significance, while the selectivity and stability of most materials are compromised under acidic conditions. Herein, we demonstrate that constructing amorphous platinum&#8211;selenium (Pt&#8211;Se) shells on crystalline Pt cores can manipulate the oxygen reduction reaction (ORR) pathway to efficiently catalyze the electrosynthesis of H2O2 in acids. The Se2&#8210;Pt nanoparticles, with optimized shell thickness, exhibit over 95% selectivity for H2O2 production, while suppressing its decomposition. In flow cell reactor, Se2&#8210;Pt nanoparticles maintain current density of 250 mA cm&#8722;2 for 400 h, yielding a H2O2 concentration of 113.2 g L&#8722;1 with productivity of 4160.3 mmol gcat&#8722;1 h&#8722;1 for effective organic dye degradation. The constructed amorphous Pt&#8211;Se shell leads to desirable O2 adsorption mode for increased selectivity and induces strain for optimized OOH* binding, accelerating the reaction kinetics. This selenization approach is generalizable to other noble metals for tuning 2e&#8210; ORR pathway. Developing efficient catalysts for acidic electrosynthesis of H2O2 is desirable, while most materials are compromised in acidic conditions. Here, the authors report that constructing amorphous Pt&#8211;Se shells on crystalline Pt cores can regulate the reaction pathway to efficiently produce H2O2 in acid.</description>
       <author>Zhiyong Yu, Hao Deng, Qing Yao, Liangqun Zhao, Fei Xue, Tianou He, Zhiwei Hu, Wei&#8208;Hsiang Huang, Chih&#8208;Wen Pao, Li&#8208;Ming Yang, Xiaoqing Huang</author>
       <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53607-5</guid>
@@ -322,7 +242,7 @@
       <link>https://doi.org/10.1016/j.jcis.2024.10.141</link>
       <description>Ya-Fei Cheng, Yanlong Li, Zhenyu Qiao, Lulu Hu, Hongbo Geng, Huilong Dong, Fan Liao, Mingwang Shao, Journal of Colloid and Interface Science. 679(None)] 2024. https://openalex.org/W4403885965
 
-                No abstract</description>
+                The intrinsic performance of an electrocatalyst can be reinforced by constructing appropriate epitaxial interfaces, where the modulated electronic states and adsorption/desorption behaviors are conductive to enhancing electrocatalytic activity. Herein, nickel-nickelous hydroxide epitaxial interface supported on nickel foam (Ni-Ni(OH)</description>
       <author>Ya-Fei Cheng, Yanlong Li, Zhenyu Qiao, Lulu Hu, Hongbo Geng, Huilong Dong, Fan Liao, Mingwang Shao</author>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.141</guid>
@@ -366,6 +286,116 @@
       <author>Ying Hu, Feilong Xiong, Chaoyi Xin, Sheng Wang, Zhengquan Li, Kai-Wu Luo, Kejun Dong, Liang Xu</author>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.110816</guid>
+    </item>
+    <item>
+      <title>Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115795</link>
+      <description>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4403909596
+
+                No abstract</description>
+      <author>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115795</guid>
+    </item>
+    <item>
+      <title>Synergy of TM-based dual-atom catalysts supported by B,N-doped biphenylene for carbon dioxide reduction reaction</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.161651</link>
+      <description>Maryam Fallahzadeh, Alireza Kokabi, Zahra Nasiri, Mina Fayazi, Applied Surface Science. None(None)] 2024. https://openalex.org/W4403909620
+
+                No abstract</description>
+      <author>Maryam Fallahzadeh, Alireza Kokabi, Zahra Nasiri, Mina Fayazi</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161651</guid>
+    </item>
+    <item>
+      <title>Upcycling of waste polyethylene terephthalate (PET) into CoFe@C for highly efficient PV-driven bifunctional seawater splitting via a &#8220;waste materialization&#8221; strategy</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124756</link>
+      <description>Qingsong Jiang, Zhijie Chen, Mi Bai, Shan Liu, Xiang-Yang Lou, Wei Ma, Yangzi Shangguan, Xiaosong Gu, Qiang Zeng, Songhe Yang, Lei Zhu, Hong Chen, Applied Catalysis B Environment and Energy. 362(None)] 2024. https://openalex.org/W4403912592
+
+                No abstract</description>
+      <author>Qingsong Jiang, Zhijie Chen, Mi Bai, Shan Liu, Xiang-Yang Lou, Wei Ma, Yangzi Shangguan, Xiaosong Gu, Qiang Zeng, Songhe Yang, Lei Zhu, Hong Chen</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124756</guid>
+    </item>
+    <item>
+      <title>Guinier&#8211;Preston Zones Featuring PtCu Nanocrystals: Coherency Strain Fields Reshaping the Band Structure for Oxygen Reduction Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acs.chemmater.4c01485</link>
+      <description>Zhiguo Chen, Jingkun Chen, Jingbo Fu, Qiheng Wang, Yonghong Chen, Jingjun Liu, Chemistry of Materials. None(None)] 2024. https://openalex.org/W4403913810
+
+                Microstructurally distorted Pt-based nanoalloys with unusual structural defects like Guinier&#8211;Preston (GP) zones with in situ coherency strain fields may be suitable for substantially improving their electrocatalytic performance for the oxygen reduction reaction (ORR) in acidic conditions. Herein, GP zones contributing PtCu nanoalloys were first fabricated by additive manufacturing, starting with the formation of metallic Cu clusters as orderly crystal nuclei on ZIF-8-derived carbon, followed by the additive manufacturing of chemically reduced Pt and Cu on the formed clusters in ethylene glycol at 190 &#176;C. The atomic-scale GP zones give rise to high-level coherent strain fields across the nanocrystals, boosting the ORR kinetics. This catalyst exhibits an ultrahigh oxygen reduction half-wave potential of 0.934 V (vs RHE) and a mass activity (MA) of 0.68 A mgPt&#8211;1. After the accelerated degradation test of 50,000 cycles, the achieved MA improved instead of decreasing, rising from 0.68 to 0.89 A mgPt&#8211;1, surpassing that of commercial Pt/C significantly. The significantly improved activity is attributed to the coherency strain fields reshaping the band structure and reconstructing a favorable charge density for active Pt sites. Importantly, the interface-anchored GP zones, maintaining a completely coherent relationship with the matrix, can effectively impede metal atom migration, segregation, or leaching, thus enhancing long-term stability. Therefore, the novel GP-type alloys may pave another way for designing advanced catalysts in the realm of current energy storage and conversion fields like fuel cells.</description>
+      <author>Zhiguo Chen, Jingkun Chen, Jingbo Fu, Qiheng Wang, Yonghong Chen, Jingjun Liu</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c01485</guid>
+    </item>
+    <item>
+      <title>Comprehensive theoretical study of the effects of facet, oxygen vacancies, and surface strain on iron and cobalt impurities in different surfaces of anatase TiO2</title>
+      <link>https://doi.org/10.1038/s41598-024-74423-3</link>
+      <description>Danil W. Boukhvalov, V. Yu. Osipov, Anna Baldycheva, Benjamin T. Hogan, Scientific Reports. 14(1)] 2024. https://openalex.org/W4403914609
+
+                Abstract We report the results of systematic ab initio modelling of various configurations of iron and cobalt impurities embedded in the (110), (101), and (100) surfaces of anatase TiO 2 , with and without oxygen vacancies. The simulation results demonstrate that incorporation into interstitial voids at the surface level is significantly more favourable than other configurations for both iron and cobalt. The calculations also demonstrate the crucial effect of the facet as well as the lesser effects of other factors, such as vacancies and strain on the energetics of defect incorporation, magnetic moment, bandgap, and catalytic performance. It is further shown that there is no tendency towards the segregation or clustering of impurities on the surface. The calculated free energies of the hydrogen evolution reaction in acidic media predict that iron impurities embedded in the (101) surface of anatase TiO 2 can be a competitive catalyst for this reaction.</description>
+      <author>Danil W. Boukhvalov, V. Yu. Osipov, Anna Baldycheva, Benjamin T. Hogan</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-74423-3</guid>
+    </item>
+    <item>
+      <title>X-ray and Photoelectron Spectroscopy of Surface Chemistry; from Bonding via Femtosecond to Operando</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122637</link>
+      <description>Anders Nilsson, Surface Science. None(None)] 2024. https://openalex.org/W4403916151
+
+                No abstract</description>
+      <author>Anders Nilsson</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122637</guid>
+    </item>
+    <item>
+      <title>Focused Review on the Use of Bimetallic Alloy Nanoparticle Electrocatalysts in Water Splitting Reactions</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c05903</link>
+      <description>Ankur Kumar, Sasanka Deka, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403916783
+
+                No abstract</description>
+      <author>Ankur Kumar, Sasanka Deka</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05903</guid>
+    </item>
+    <item>
+      <title>Moir&#233; Patterns in Pt Overlayers on Gold: A Graph Neural Network Interatomic Potential Study</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04582</link>
+      <description>Trenton J. Wolter, Evangelos Smith, Roberto Schimmenti, Jakob Schi&#248;tz, Karsten W. Jacobsen, Manos Mavrikakis, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403921754
+
+                No abstract</description>
+      <author>Trenton J. Wolter, Evangelos Smith, Roberto Schimmenti, Jakob Schi&#248;tz, Karsten W. Jacobsen, Manos Mavrikakis</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04582</guid>
+    </item>
+    <item>
+      <title>Electronic and Structural Property Comparison of Iridium-Based OER Nanocatalysts Enabled by &lt;i&gt;Operando&lt;/i&gt; Ir L&lt;sub&gt;3&lt;/sub&gt;-Edge X-ray Absorption Spectroscopy</title>
+      <link>https://doi.org/10.1021/acscatal.4c03562</link>
+      <description>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403922363
+
+                No abstract</description>
+      <author>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03562</guid>
+    </item>
+    <item>
+      <title>Sustainable Electrocatalyst for PEM Water Electrolyzers</title>
+      <link>https://doi.org/10.1007/978-3-031-69051-8_3</link>
+      <description>Mehmet Fatih Kaya, Murat K&#305;st&#305;, Bulut H&#252;ner, Emre &#214;zdo&#287;an, Marise Cona&#287;as&#305;, Muhammed Ali Durmaz, Eda Nur &#199;ak&#305;raslan, Tayyar E&#351;iyok, Yakup Og&#252;n S&#252;zen, Akif Ta&#351;k&#305;n, S&#252;leyman Uysal, Nesrin Dem&#239;r, No host. None(None)] 2024. https://openalex.org/W4403923110
+
+                No abstract</description>
+      <author>Mehmet Fatih Kaya, Murat K&#305;st&#305;, Bulut H&#252;ner, Emre &#214;zdo&#287;an, Marise Cona&#287;as&#305;, Muhammed Ali Durmaz, Eda Nur &#199;ak&#305;raslan, Tayyar E&#351;iyok, Yakup Og&#252;n S&#252;zen, Akif Ta&#351;k&#305;n, S&#252;leyman Uysal, Nesrin Dem&#239;r</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-69051-8_3</guid>
+    </item>
+    <item>
+      <title>Exact average many-body interatomic interaction model for random alloys</title>
+      <link>https://doi.org/10.1016/j.commt.2024.100018</link>
+      <description>Max Hodapp, Deleted Journal. None(None)] 2024. https://openalex.org/W4403930872
+
+                No abstract</description>
+      <author>Max Hodapp</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commt.2024.100018</guid>
     </item>
     <item>
       <title>Constructing 2D PtSe&lt;sub&gt;2&lt;/sub&gt;/PtCo Heterojunctions by Partial Selenization for Enhanced Hydrogen Evolution</title>

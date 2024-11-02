@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Nov 2024 01:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 01:19:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,16 +26,6 @@
       <author>Qunna Xu, Zhenyang Li, Jun Wang, Jianzhong Ma, Kai Yan, Yan Zong</author>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.156841</guid>
-    </item>
-    <item>
-      <title>Facile and Environmentally Friendly Synthesis of Ga&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;/MFI Catalysts for Propane Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acsami.4c11679</link>
-      <description>Chaocheng Weng, Dongfang Song, Linqing Gu, Hui Huang, Jiaping Lu, Kangjian Tang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403733617
-
-                A GaOx-based catalyst is recognized as a promising catalyst for dehydrogenation of light alkanes. Conventionally, impregnation and calcination are necessary processes for the loading of GaOx. However, the incomplete impregnation of gallium salt solution would generate wastewater, and the calcination for the dissociation of gallium salt would release harmful gases, such as SOx, NOx, and HCl. Meanwhile, the high temperature results in an excessive energy cost and undesired GaOx particle aggregation. Here, we report a facile and environmentally friendly method for the synthesis of GaOx-based catalysts. The gallium salt solution was replaced directly with liquid gallium (LG). Through a simple physical mixing method at room temperature, uniform GaOx nanoparticles with diameters of around 3.5 nm were loaded onto the surface of silicalite-1 (S-1). With the optimal GaOx/MFI catalyst, the propane conversion and propylene selectivity reached 22.9 and 90.1%, respectively, in the propane dehydrogenation reaction. The work offers a clean and economical strategy utilizing liquid metal (LM) as an impregnation solution for the preparation of GaOx-based catalysts.</description>
-      <author>Chaocheng Weng, Dongfang Song, Linqing Gu, Hui Huang, Jiaping Lu, Kangjian Tang</author>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c11679</guid>
     </item>
   </channel>
 </rss>

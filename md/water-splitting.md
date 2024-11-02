@@ -1,110 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Fri Nov  1 01:26:42 2024
+Created on Sat Nov  2 01:19:25 2024
 
-Found 125 results from 2024-10-25 to 2024-11-01
+Found 123 results from 2024-10-26 to 2024-11-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Tailored IrO2@ZIF-67 nanocomposites for efficient oxygen evolution reaction: Insights into catalyst design and performance enhancement   
-
-OpenAlex: https://openalex.org/W4403712536    
-Open access: False
-    
-[Seyeon Cho](https://openalex.org/A5004370249), [Komal Patil](https://openalex.org/A5055593216), [So Young Lee](https://openalex.org/A5100318790), [Daim Choe](https://openalex.org/A5111276984), [Yujin Cho](https://openalex.org/A5107976424), [Jincheol Kim](https://openalex.org/A5046270592), [Jae Sung Yun](https://openalex.org/A5023215537), [Dong Han Seo](https://openalex.org/A5013299547), [Jongsung Park](https://openalex.org/A5101886696), International Journal of Hydrogen Energy. 92(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.255.
-    
-No abstract    
-
-    
-
-## Amorphous/crystalline Ni-Fe based electrodes with rich oxygen vacancies enable highly active oxygen evolution in seawater electrolysis   
-
-OpenAlex: https://openalex.org/W4403714494    
-Open access: False
-    
-[Jingcheng Zhang](https://openalex.org/A5101532051), [Xinru Ji](https://openalex.org/A5113320606), [Chenhui Han](https://openalex.org/A5084906411), [Li Zheng](https://openalex.org/A5055435572), [Shanshan Jiang](https://openalex.org/A5102951710), [Jie Yu](https://openalex.org/A5101246445), [Daifen Chen](https://openalex.org/A5004294881), [Zongping Shao](https://openalex.org/A5034744923), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.128.
-    
-No abstract    
-
-    
-
-## Toward High Corrosion Resistivity and High Efficiency in Seawater Oxygen Evolution: The Synergy of Fe and Ni Dopants in Co Layered Double Hydroxide Ultrathin Nanosheets   
-
-OpenAlex: https://openalex.org/W4403716296    
-Open access: False
-    
-[Cheng Luo](https://openalex.org/A5076224946), [Dandan Cai](https://openalex.org/A5013921358), [Yang Yang](https://openalex.org/A5101814743), [Shipeng Geng](https://openalex.org/A5006848535), [Yi Wang](https://openalex.org/A5052854750), [Shuqin Song](https://openalex.org/A5074136291), ACS Sustainable Chemistry & Engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.4c06117.
-    
-No abstract    
-
-    
-
-## Fe-Co bimetallic electrocatalysts atomically dispersed on zeolitic imidazolate frameworks (ZIFs) to enhance oxygen reduction reaction activity   
-
-OpenAlex: https://openalex.org/W4403725810    
-Open access: False
-    
-[Narumon Jongmanwattana](https://openalex.org/A5009439132), [Yong‐Song Chen](https://openalex.org/A5089952383), [Konlayutt Punyawudho](https://openalex.org/A5070074948), AIP conference proceedings. 3236(None)] 2024.https://doi.org/10.1063/5.0236710.
-    
-No abstract    
-
-    
-
-## Nickel‐Nitrogen Doped MnO2 as Oxygen Reduction Reaction Catalyst for Aluminum Air Batteries   
-
-OpenAlex: https://openalex.org/W4403726094    
-Open access: True
-    
-[Lizi He](https://openalex.org/A5060164564), [Ning Han](https://openalex.org/A5114047919), [Zhongling Lang](https://openalex.org/A5049368936), [Mei Wang](https://openalex.org/A5024505724), [Y.-W. Wang](https://openalex.org/A5015529983), [Lishuang Li](https://openalex.org/A5082868235), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202401385 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.202401385)).
-    
-Aluminum‐air battery has the advantages of high energy density, low cost and environmental protection, and is considered as an ideal next‐generation energy storage conversion system. However, the slow oxygen reduction reaction (ORR) in air cathode leads to its unsatisfactory performance. Here, we report an electrode made of N and Ni co‐doped MnO2 nanotubes. In alkaline solution, Ni/N‐MnO2 has higher oxygen reduction activity than undoped MnO2, with an initial potential of 1.00 V and a half‐wave potential of 0.75 V. This is because it has abundant defects, high specific surface area and sufficient Mn3+ active sites, which promote the transfer of electrons and oxygen‐containing intermediates. Density functional theory (DFT) calculations show that MnO2 doped with N and Ni atoms reduces the reaction overpotential and improves the ORR kinetics. The peak power density and energy density of the Ni/N‐MnO2 air electrode increased by 34.03 mW·cm‐2 and 316.41 mWh·g‐1, respectively. The results show that N and Ni co‐doped MnO2 nanotubes are a promising air electrode, which can provide some ideas for the research of aluminum‐air batteries.    
-
-    
-
-## Valence electronic engineering of hollow-nanocube-structured CoFeNi-layered double hydroxides for highly efficient oxygen evolution   
-
-OpenAlex: https://openalex.org/W4403728038    
-Open access: False
-    
-[H. Liu](https://openalex.org/A5108047019), [Lingxing Zan](https://openalex.org/A5083644369), [Yunchuan Tu](https://openalex.org/A5012613474), [Hongling Zhang](https://openalex.org/A5101507985), [Dan Zhu](https://openalex.org/A5000276614), [Zhe Li](https://openalex.org/A5100356600), [Jiawen Zheng](https://openalex.org/A5102007311), [Zhuangzhuang Zhang](https://openalex.org/A5100697213), [Yu Sun](https://openalex.org/A5043384139), [Qihao Weng](https://openalex.org/A5004755532), [Jian Li](https://openalex.org/A5089966233), [Qingbo Wei](https://openalex.org/A5090063263), [Huicong Xia](https://openalex.org/A5060924356), [Xin Bo](https://openalex.org/A5065287471), [Feng Fu](https://openalex.org/A5079914638), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156764.
-    
-No abstract    
-
-    
-
-## Regulating metal-oxygen covalency of TiO2 by Ru doping and phase transition for boosted hydrogen evolution   
-
-OpenAlex: https://openalex.org/W4403741271    
-Open access: False
-    
-[Fengting Li](https://openalex.org/A5054907946), [Nannan Cui](https://openalex.org/A5023938748), [Yanan Zhou](https://openalex.org/A5005475250), [Shuangqing Sun](https://openalex.org/A5101948332), [Chunling Li](https://openalex.org/A5100697902), [Zhikun Wang](https://openalex.org/A5101803596), [Songqing Hu](https://openalex.org/A5020501928), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177239.
-    
-No abstract    
-
-    
-
-## Superior Oxygen Evolution Reaction Activities of Highly Crystalline Ni1–xFex-LDH (0.20 ≤ x ≤ 0.51) Synthesized Using Soft Chemistry   
-
-OpenAlex: https://openalex.org/W4403742483    
-Open access: True
-    
-[Atsunori Ikezawa](https://openalex.org/A5000098401), [Shinji Koito](https://openalex.org/A5114398769), [Hajime Arai](https://openalex.org/A5057468274), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta05347h.
-    
-Developing oxygen evolution reaction (OER) catalysts is an urgent issue for the practical application of electrochemical devices such as water electrolysers and rechargeable batteries. NiFe-based layered double hydroxides (NiFe-LDH) are...    
-
-    
-
-## Chirality Engineering of Nanostructured Copper Oxide for Enhancing Oxygen Evolution from Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4403745745    
-Open access: False
-    
-[Ying Li](https://openalex.org/A5100414072), [Liang Qiu](https://openalex.org/A5082044293), [Rui Tian](https://openalex.org/A5101781124), [Zhongli Liu](https://openalex.org/A5061231533), [Lin Yao](https://openalex.org/A5101799766), [Lufei Huang](https://openalex.org/A5044227928), [Wei Li](https://openalex.org/A5100318438), [Yuyin Wang](https://openalex.org/A5090132008), [Tao Wang](https://openalex.org/A5100453558), [Baowen Zhou](https://openalex.org/A5010878103), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408248.
-    
-Abstract The exploration of a new conceptual strategy for improving the oxygen evolution reaction (OER) of earth‐abundant electrocatalysts is critical. In this study, chiral copper oxide nanoflower is explored by a self‐assembly method. The characterization suggests the chiral structure originates from the crystal plane‐level helical stack of the secondary nanosheets. Of note, the assembly illustrates a record‐high degree of spin polarization of 96%, indicating the ideal alignment of electron spin. Moreover, density function theory calculations show the chiral structure reducing the reaction energy barrier (REB) while switching the potential‐determining step from *O→*OOH to *OH→*O. Together with the enhanced electrochemical active surface area and accelerated charge transfer, the production of ground‐state triplet O 2 is improved via a spin‐forbidden route that involves the singlet H 2 O/OH•. Consequently, the chiral nanoflower shows a overpotential of 308 mV at 10 mA cm −2 and a Tafel slope of 93.5 mV dec −1 , which is even superior to the commercial RuO 2 (310 mV, 101 mV dec −1 ). This study presents a new strategy for improving the OER activity by simultaneously enhancing electronic properties and lowering the REB of an non‐noble electrocatalyst via chirality engineering.    
-
-    
 
 ## Preparation of bifunctional oxygen evolution reaction and oxygen reduction reaction catalyst CoO-TiO2@NG by high gravity-hydrothermal method for rechargeable Zn air battery   
 
@@ -232,7 +133,7 @@ Abstract The photoelectrochemical selective oxidation of biowaste glycerol into 
 OpenAlex: https://openalex.org/W4403779574    
 Open access: False
     
-[Feng Zhang](https://openalex.org/A5100401198), [Lei Yu](https://openalex.org/A5055653134), [Guang Li](https://openalex.org/A5100406316), [Yi Xie](https://openalex.org/A5068891302), [Jiaxin Guo](https://openalex.org/A5101830707), [Xiaoyan Zhang](https://openalex.org/A5100352052), [Xianyou Wang](https://openalex.org/A5100369584), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202401556.
+[Feng Zhang](https://openalex.org/A5100401198), [Lei Yu](https://openalex.org/A5055653134), [Guang Li](https://openalex.org/A5100406316), [Yangchen Xie](https://openalex.org/A5114462063), [Jiaxin Guo](https://openalex.org/A5101830707), [Xiaoyan Zhang](https://openalex.org/A5100352052), [Xianyou Wang](https://openalex.org/A5100369584), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202401556.
     
 Reasonably screening the targeted oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) constituents and constructing high‐efficiency and stabilized ORR/OER bifunctional electrocatalysts are pivotal for the advancement of rechargeable zinc‐air batteries (ZABs). Here, CoFe layered double hydroxide (CoFe‐LDH) nanosheets are deposited on nitrogen‐doped graphite‐carbon polyhedra with FeCo alloy nanoparticles (FeCo/LDH‐NGCP). Due to the synergic effect between FeCo‐NGCP, CoFe‐LDH and FeCo/LDH‐NGCP, the electrocatalyst with the abundant and accessible active sites can provide good charge/mass transfer, and thus shows wonderful ORR and OER bifunctional electrocatalytic performance. In ORR tests, FeCo/LDH‐NGCP catalyst displays larger half‐wave potential (E1/2, 0.89 V vs. 0.85 V), higher limiting current density (JL, 5.91 mA/cm2 vs. 5.14 mA/cm2) and better stability than commercial Pt/C. As for OER, FeCo/LDH‐NGCP possesses a smaller overpotential (η) of 299.6 mV at a current density of 10 mA/cm2 and more durable stability than commercial RuO2 (330.6 mV). Furthermore, in ZAB tests, the cycling stability of ZAB‐FeCo/LDH‐NGCP (over 470 h) outperforms the ZAB‐Pt/C+RuO2 (92 h) with commercial electrocatalyst (Pt/C+RuO2). Therefore, the FeCo/LDH‐NGCP catalyst offers a new perspective to construct ZABs bifunctional catalysts and their commercial application in ZABs.    
 
@@ -491,6 +392,17 @@ Abstract In recent years, efforts have been made to adapt secondary metal-air ba
 
     
 
+## Prediction of perovskite oxygen vacancies for oxygen electrocatalysis at different temperatures   
+
+OpenAlex: https://openalex.org/W4403875968    
+Open access: True
+    
+[Zhiheng Li](https://openalex.org/A5111289387), [Xin Mao](https://openalex.org/A5103007207), [Desheng Feng](https://openalex.org/A5088492618), [Mengran Li](https://openalex.org/A5100450317), [Xiaoyong Xu](https://openalex.org/A5029953864), [Yadan Luo](https://openalex.org/A5063603492), [Linzhou Zhuang](https://openalex.org/A5045661046), [Rijia Lin](https://openalex.org/A5007204941), [Tianjiu Zhu](https://openalex.org/A5104182649), [Fengli Liang](https://openalex.org/A5109126554), [Zi Huang](https://openalex.org/A5078170935), [Dong Liu](https://openalex.org/A5048179233), [Zifeng Yan](https://openalex.org/A5100456337), [Aijun Du](https://openalex.org/A5082839443), [Zongping Shao](https://openalex.org/A5034744923), [Zhonghua Zhu](https://openalex.org/A5033539820), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53578-7.
+    
+Efficient catalysts are imperative to accelerate the slow oxygen reaction kinetics for the development of emerging electrochemical energy systems ranging from room-temperature alkaline water electrolysis to high-temperature ceramic fuel cells. In this work, we reveal the role of cationic inductive interactions in predetermining the oxygen vacancy concentrations of 235 cobalt-based and 200 iron-based perovskite catalysts at different temperatures, and this trend can be well predicted from machine learning techniques based on the cationic lattice environment, requiring no heavy computational and experimental inputs. Our results further show that the catalytic activity of the perovskites is strongly correlated with their oxygen vacancy concentration and operating temperatures. We then provide a machine learning-guided route for developing oxygen electrocatalysts suitable for operation at different temperatures with time efficiency and good prediction accuracy. Catalyst screening is an important process but it's usually time-consuming and labor intensive. Here the authors report the prediction of oxygen vacancy for perovskites using machine learning techniques to develop suitable oxygen electrocatalysts for solid oxide fuel cells at reduced temperatures.    
+
+    
+
 ## Review of Catalytic Electrodes Containing Iron‐Cobalt‐Nickel Composite Components for Water Electrolysis   
 
 OpenAlex: https://openalex.org/W4403877321    
@@ -667,6 +579,116 @@ No abstract
 
     
 
+## V-doped transition metal selenides derived from NiFe Prussian blue analogues for efficient oxygen evolution reaction and urea oxidation reaction   
+
+OpenAlex: https://openalex.org/W4403906511    
+Open access: False
+    
+[Youwei Cheng](https://openalex.org/A5076526739), [Lian Zhu](https://openalex.org/A5102323276), [Yaqiong Gong](https://openalex.org/A5079053446), International Journal of Hydrogen Energy. 92(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.267.
+    
+No abstract    
+
+    
+
+## Progress of Ir/Ru-based catalysts for electrocatalytic oxygen evolution reaction in acidic environments   
+
+OpenAlex: https://openalex.org/W4403906548    
+Open access: False
+    
+[Jiayang Li](https://openalex.org/A5100769537), [Chunmei Tang](https://openalex.org/A5063590428), [Yangdong Zhou](https://openalex.org/A5060114892), [Ruijiang Hong](https://openalex.org/A5021050208), [Fang Meng](https://openalex.org/A5027149882), [Lixin Xing](https://openalex.org/A5102611717), [Sheng Wang](https://openalex.org/A5100371335), [Ling Meng](https://openalex.org/A5059006078), [Siyu Ye](https://openalex.org/A5010821432), [Lei Du](https://openalex.org/A5050325200), International Journal of Hydrogen Energy. 92(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.277.
+    
+No abstract    
+
+    
+
+## A binary mixture of ionic liquids as a sustainable electrocatalyst for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4403910583    
+Open access: False
+    
+[Bidyutjyoti Dutta](https://openalex.org/A5055389394), [Madhabi Konwar](https://openalex.org/A5054896833), [Lakhyajyoti Borthakur](https://openalex.org/A5075821108), [Diganta Sarma](https://openalex.org/A5014668574), Journal of Molecular Liquids. None(None)] 2024.https://doi.org/10.1016/j.molliq.2024.126385.
+    
+No abstract    
+
+    
+
+## Design and synthesis of a 3D urchin-like Ni/WC@NSCNT electrocatalyst for enhanced bifunctional performance in oxygen evolution and reduction reactions   
+
+OpenAlex: https://openalex.org/W4403912631    
+Open access: False
+    
+[Eunsu Jang](https://openalex.org/A5007444684), [Subin Lee](https://openalex.org/A5101463229), [Jangwoo Cho](https://openalex.org/A5045615754), [Ji Hoon Kim](https://openalex.org/A5100410812), [Jooheon Kim](https://openalex.org/A5009818257), Journal of Alloys and Compounds. 1010(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177221.
+    
+No abstract    
+
+    
+
+## Constructing Co/CoTe heterostructure internal hairy fibers towards high-efficiency oxygen electrocatalysis for flexible Zn-air batteries   
+
+OpenAlex: https://openalex.org/W4403915344    
+Open access: False
+    
+[Jin Wang](https://openalex.org/A5100346167), [Bing Li](https://openalex.org/A5100451255), [Tiantian Tang](https://openalex.org/A5003256715), [Caiyun Li](https://openalex.org/A5075277705), [Hongrui Yang](https://openalex.org/A5101076866), [Hanwen He](https://openalex.org/A5108766377), [Xiaoqing Lin](https://openalex.org/A5068026335), [Yang Song](https://openalex.org/A5046721150), [Sen Zhang](https://openalex.org/A5100378885), [Chao Deng](https://openalex.org/A5102009944), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.183.
+    
+No abstract    
+
+    
+
+## High‐Density Atomic Level Defect Engineering of 2D Fe‐Based Metal‐Organic Frameworks Boosts Oxygen and Hydrogen Evolution Reactions   
+
+OpenAlex: https://openalex.org/W4403917276    
+Open access: True
+    
+[Xin Zhao](https://openalex.org/A5008495864), [Shixun Wang](https://openalex.org/A5063555442), [Yanhui Cao](https://openalex.org/A5047620097), [Yun Li](https://openalex.org/A5107888530), [Arsenii S. Portniagin](https://openalex.org/A5112635105), [Bing Tang](https://openalex.org/A5070614910), [Qi Liu](https://openalex.org/A5100453264), [Peter Kasák](https://openalex.org/A5080844412), [Tianshuo Zhao](https://openalex.org/A5101880289), [Xuerong Zheng](https://openalex.org/A5039974377), [Yida Deng](https://openalex.org/A5080331539), [Andrey L. Rogach](https://openalex.org/A5029359120), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202405936.
+    
+Abstract Electrocatalysts based on metal‐organic frameworks (MOFs) attracted significant attention for water splitting, while the transition between MOFs and metal oxyhydroxide poses a great challenge in identifying authentic active sites and long‐term stability. Herein, we employ on‐purpose defect engineering to create high‐density atomic level defects on two‐dimensional Fe‐MOFs. The coordination number of Fe changes from 6 to 4.46, and over 28% of unsaturated Fe sites are formed in the optimized Fe‐MOF. In situ characterizations of the most optimized Fe‐MOF 0.3 electrocatalyst during the oxygen evolution reaction (OER) process using Fourier transform infrared and Raman spectroscopy have revealed that some Fe unsaturated sites become oxidized with a concomitant dissociation of water molecules, causing generation of the crucial *OH intermediates and Fe oxyhydroxide. Moreover, the presence of Fe oxyhydroxide is compatible with the Volmer and Heyrovsky steps during the hydrogen evolution reaction (HER) process, which lower its energy barrier and accelerate the kinetics. As a result, the optimized Fe‐MOF electrodes delivered remarkable OER (259 mV at 10 mA cm -2 ) and HER (36 mV at 10 mA cm -2 ) performance. Our study offers comprehensive understanding of the effect of phase transformation on the electrocatalytic process of MOF‐based materials.    
+
+    
+
+## Ligand engineering enhances (photo) electrocatalytic activity and stability of zeolitic imidazolate frameworks via in-situ surface reconstruction   
+
+OpenAlex: https://openalex.org/W4403918762    
+Open access: True
+    
+[Zheao Huang](https://openalex.org/A5040246173), [Zhouzhou Wang](https://openalex.org/A5079702656), [Hannah Rabl](https://openalex.org/A5022316261), [Shaghayegh Naghdi](https://openalex.org/A5042494899), [Qiancheng Zhou](https://openalex.org/A5002272680), [Sabine Schwarz](https://openalex.org/A5073259448), [Doğukan Hazar Apaydın](https://openalex.org/A5081526771), [Ying Yu](https://openalex.org/A5077909232), [Dominik Eder](https://openalex.org/A5011010095), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53385-0.
+    
+Abstract The current limitations in utilizing metal-organic frameworks for (photo)electrochemical applications stem from their diminished electrochemical stability. In our study, we illustrate a method to bolster the activity and stability of (photo)electrocatalytically active metal-organic frameworks through ligand engineering. We synthesize four distinct mixed-ligand versions of zeolitic imidazolate framework-67, and conduct a comprehensive investigation into the structural evolution and self-reconstruction during electrocatalytic oxygen evolution reactions. In contrast to the conventional single-ligand ZIF, where the framework undergoes a complete transformation into CoOOH via a stepwise oxidation, the ligand-engineered zeolitic imidazolate frameworks manage to preserve the fundamental framework structure by in-situ forming a protective cobalt (oxy)hydroxide layer on the surface. This surface reconstruction facilitates both conductivity and catalytic activity by one order of magnitude and considerably enhances the (photo)electrochemical stability. This work highlights the vital role of ligand engineering for designing advanced and stable metal-organic frameworks for photo- and electrocatalysis.    
+
+    
+
+## FeCo-MOF-74/Mn-MOF-74 Nanocomposite as a electrocatalyst for improved oxygen evolution reaction catalytic activity   
+
+OpenAlex: https://openalex.org/W4403931276    
+Open access: False
+    
+[Lan Xiao](https://openalex.org/A5065062025), [Jian Wen](https://openalex.org/A5072869847), [Guanghui Wu](https://openalex.org/A5103156459), [Pinghua Chen](https://openalex.org/A5037681451), [Mengxue Wang](https://openalex.org/A5012959921), [Hualin Jiang](https://openalex.org/A5057537719), [Xinming Zhou](https://openalex.org/A5112201090), [Jianan Yan](https://openalex.org/A5104259334), Fuel. 381(None)] 2024.https://doi.org/10.1016/j.fuel.2024.133516.
+    
+No abstract    
+
+    
+
+## Porous network of boron-doped IrO2 nanoneedles with enhanced mass activity for acidic oxygen evolution reactions   
+
+OpenAlex: https://openalex.org/W4403931327    
+Open access: False
+    
+[Fei Hu](https://openalex.org/A5101421128), [P. Huang](https://openalex.org/A5100856105), [Feng Xu](https://openalex.org/A5033667467), [Changjian Zhou](https://openalex.org/A5102014690), [Xinjuan Zeng](https://openalex.org/A5046467986), [Congcong Liu](https://openalex.org/A5100663040), [Guangjin Wang](https://openalex.org/A5102751314), [Xiaowei Yang](https://openalex.org/A5101509084), [Huawen Hu](https://openalex.org/A5007913722), Materials Horizons. None(None)] 2024.https://doi.org/10.1039/d4mh01358a.
+    
+While the proton exchange membrane water electrolyzer (PEMWE) is essential for realizing practical hydrogen production, the trade-off among activity, stability, and cost of state-of-the-art iridium (Ir)-based oxygen evolution reaction (OER)...    
+
+    
+
+## The effects of Co doping for Fe metal on boosting hydrogen and oxygen evolution reactions   
+
+OpenAlex: https://openalex.org/W4403917411    
+Open access: False
+    
+[Xuxin Song](https://openalex.org/A5083778622), [Chunyan Fan](https://openalex.org/A5100780598), [Tang Yao](https://openalex.org/A5100542679), [Yangyang Ren](https://openalex.org/A5101100911), [Zehao Zang](https://openalex.org/A5008154965), [Lanlan Li](https://openalex.org/A5100655933), [Xiaofei Yu](https://openalex.org/A5101572866), [Zunming Lu](https://openalex.org/A5085586253), [Xiaojing Yang](https://openalex.org/A5023844763), [Xinghua Zhang](https://openalex.org/A5100730862), Fuel. 381(None)] 2024.https://doi.org/10.1016/j.fuel.2024.133558.
+    
+No abstract    
+
+    
+
 ## Stability and Activity of Organometallic Phthalocyanine Sheets for Oxygen Reduction and Oxygen Evolution Reactions: A Dft Study   
 
 OpenAlex: https://openalex.org/W4403757695    
@@ -697,6 +719,17 @@ Open access: True
 [Yu Wang](https://openalex.org/A5101278690), [Zhou Sijia](https://openalex.org/A5061982260), [Yunying Zhen](https://openalex.org/A5113023179), [Yongji Wang](https://openalex.org/A5110372162), [Y.H. Hou](https://openalex.org/A5054320753), [Kaiqing Wu](https://openalex.org/A5015213857), [Chaofeng Huang](https://openalex.org/A5008100387), [Songqin Liu](https://openalex.org/A5049108933), [Yanfei Shen](https://openalex.org/A5081497382), [Ran Chen](https://openalex.org/A5100400809), [Yuanjian Zhang](https://openalex.org/A5013515399), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-l831h ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6719dfa398c8527d9e29a31e/original/non-covalent-coupling-of-carbon-nitrides-and-dyes-for-selective-and-sensitive-electrochemiluminescent-detection-of-local-h-in-oxygen-evolution-reaction.pdf)).
     
 An accurate understanding of the mechanism of the oxygen evolution reaction (OER) is crucial for the design of efficient catalysts and the development of hydrogen energy. Despite significant advancements in microscopic pH detection studies through the use of mainstream strategies, such as scanning electrochemical microscopy (SECM), rotating ring-disc electrode (RRDE), and spectroscopic techniques, selective and sensitive detection of the change of proton (H+) concentration near the vicinity of the electrode during OER with high temporal resolution remains elusive. In this study, we pioneered the creation of an efficient hybrid electrochemiluminescence-based (ECL-based) pH sensor that enables the detection of H+ in the vicinity of the electrodes during OER. A new class of luminophore based on ECL resonance energy transfer (ECL-RET) was theoretically predicted and further synthesized by grafting fluorescent dyes onto carbon nitride nanosheets (CN) through non-covalent interaction. We present that one of the newly synthesized emitters, CN-FITC, is capable of detecting proton with fast response time, where the ECL intensity of CN-FITC is regulated by proton concentration. By coating this emitter onto an electrode positioned near OER catalysts, proton generation near the vicinity of the catalysts could be qualitatively detected, providing details of the reaction mechanism of OER and unveiling the catalyst degrading pathway caused by proton accumulation. Additionally, the average proton generation rate on the catalyst was extracted from the local pH measurement, leading to a quantitative descriptor of the OER reaction rate. Owing to the high designability of the dye, this study opens up a new strategy for the detection of more reaction intermediates.    
+
+    
+
+## Fe-MOF-based catalysts for oxygen evolution reaction: Microenvironment regulated by organic ligands, metals and carbonization synergistically   
+
+OpenAlex: https://openalex.org/W4403936537    
+Open access: False
+    
+[Chenchen Ding](https://openalex.org/A5089630307), [Weiwei Zhong](https://openalex.org/A5113290424), [Yuqi Cao](https://openalex.org/A5025175329), [Tingting Ma](https://openalex.org/A5100528425), [Huimin Ye](https://openalex.org/A5018766240), [Zheng Fang](https://openalex.org/A5005640649), [Yirong Feng](https://openalex.org/A5101770125), [Shuangfei Zhao](https://openalex.org/A5101844206), [Jiming Yang](https://openalex.org/A5100616156), [Yuguang Li](https://openalex.org/A5101667147), [L. Shen](https://openalex.org/A5058192166), [Wei He](https://openalex.org/A5001372636), Chemical Engineering Science. None(None)] 2024.https://doi.org/10.1016/j.ces.2024.120888.
+    
+No abstract    
 
     
 
@@ -777,6 +810,17 @@ The high overpotential of the oxygen evolution reaction (OER) and the strong cor
 
     
 
+## A theoretical investigation on the OER and ORR activity of graphene-based TM-N3 and TM-N2X (X=B, C, O, P) single atom catalysts by density functional theory calculations   
+
+OpenAlex: https://openalex.org/W4403772462    
+Open access: False
+    
+[Jiaxiang Wu](https://openalex.org/A5026003961), [Erjun Kan](https://openalex.org/A5048140096), [Cheng Zhan](https://openalex.org/A5085997051), Physical Chemistry Chemical Physics. None(None)] 2024.https://doi.org/10.1039/d4cp03779k.
+    
+Single-atom catalysts (SAC) have shown promising activity in electrocatalysis, such as CO2 reduction (CO2RR), oxygen evolution reaction (OER) and oxygen reduction reaction (ORR). Transition metal-embedded N-doped graphene (M-N-C) with TM-N4...    
+
+    
+
 ## Engineering high-valence nickel sites in Ni3S2/Ni3Se2 architectures enabling urea-assisted hydrogen evolution reaction   
 
 OpenAlex: https://openalex.org/W4403753780    
@@ -810,14 +854,25 @@ For water splitting, a comprehensive understanding of the underlying reaction in
 
     
 
-## Electronic Modulation of RuCo Catalysts on TiO2 Nanotubes Promoting Durable Acidic Overall Water Splitting   
+## Air-condition process for Constructing MeAl-LDHs/rGO (Me = Co, Ni, Fe) hybrids toward efficient oxygene evolution reaction   
 
-OpenAlex: https://openalex.org/W4403745765    
+OpenAlex: https://openalex.org/W4403918636    
 Open access: False
     
-[Hengyi Chen](https://openalex.org/A5073049150), [Zehua Gao](https://openalex.org/A5030503305), [Shijie Ren](https://openalex.org/A5073406394), [Rui‐Ting Gao](https://openalex.org/A5036327118), [Limin Wu](https://openalex.org/A5100702398), [Lei Wang](https://openalex.org/A5100435779), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202403067.
+[Dongdong Zhang](https://openalex.org/A5100416370), [Binyuan Tang](https://openalex.org/A5056472073), [Kai Wang](https://openalex.org/A5100437036), [Lin Wang](https://openalex.org/A5100403248), [Kai Tang](https://openalex.org/A5101755537), [Shanliang Chen](https://openalex.org/A5071287271), [Xiaoqiang Zhan](https://openalex.org/A5036747402), [Hongli Yang](https://openalex.org/A5101592335), [Weiyou Yang](https://openalex.org/A5100747309), Journal of Colloid and Interface Science. 679(None)] 2024.https://doi.org/10.1016/j.jcis.2024.10.146.
     
-Abstract The development of efficient and durable bifunctional electrocatalysts is essential for hydrogen production from acidic water splitting. Herein, a TiO 2 nanotube‐loaded Co‐doped Ru nanoparticle catalyst (RuCo/TiO 2 NTs) is reported that exhibits excellent activity and stability toward acidic oxygen evolution reaction (OER) and hydrogen evolution reaction (HER). The Ru─O─Ti bonding is enhanced by Co doping, and the metal carrier interaction between Ru nanoparticles and TiO 2 NTs is enhanced, which effectively stabilizes Ru species during OER and initiates hydrogen spillover accelerating HER kinetics. As a result, RuCo/TiO 2 NTs catalyst requires only 156 mV OER overpotential and 17 mV HER overpotential to achieve a current density of 10 mA cm −2 with a stability more than 500 h in acidic conditions. More importantly, benefiting from the excellent bifunctional activities, the proton exchange membrane electrolyte assembled from RuCo/TiO 2 NTs has excellent activity and robust stability (1000 h). This work opens a new avenue for the efficient energy conversion devices.    
+Transition-metal-based layered double hydroxides (LDHs) are emerging as one of the most promising candidates with superior oxygen evolution reaction (OER) activity. However, their fabrication under mild conditions remains a significant challenge. Here, we propose a low-cost, high-production-rate strategy for controlled preparation of AlOOH/reduced graphene oxide (rGO) with strong adsorption capacity for transition metal cations, and then in-situ conversion to CoAl-LDH/rGO, NiAl-LDH/rGO and FeAl-LDH/rGO under ambient conditions. Based on Density Functional Theory calculations, it is witnessed that the rational electronic coordination between Co and Al enables the charge absorption by surrounding oxygen atoms, thereby playing a critical role in reducing the adsorption free energy and overpotential of OER intermediates toward efficient OER. Consequently, the resultant CoAl-LDH/rGO hybrids exhibit an overpotential of just 368 mV at the current density of 100 mA/cm    
+
+    
+
+## Iron Phosphide Nanobundles for Efficient Electrochemical Hydrogen Evolution Reaction in Acidic and Basic Media   
+
+OpenAlex: https://openalex.org/W4403861450    
+Open access: True
+    
+[Shubham Sharma](https://openalex.org/A5057052287), [Nishan Khatri](https://openalex.org/A5031530922), [Sharad Puri](https://openalex.org/A5104192444), [Menuka Adhikari](https://openalex.org/A5077040607), [Phadindra Wagle](https://openalex.org/A5067155672), [David N. McIlroy](https://openalex.org/A5071245113), [A. Kaan Kalkan](https://openalex.org/A5008996483), [Yolanda Vasquez](https://openalex.org/A5040432907), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c09660.
+    
+Earth-abundant transition metal phosphide (TMP) nanomaterials have gained significant attention as potential replacements for Pt-based electrocatalysts in green energy applications, such as the hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and overall water splitting. In particular, FeP nanostructures exhibit superior electrical conductivity and high stability. Moreover, their diverse composition and unique crystal structures position FeP nanomaterials as emerging candidates for HER electrocatalysts. However, the synthesis or fabrication method employed for FeP nanostructures can significantly affect their overall electrocatalytic properties. For example, the solution synthesis of pure-phase FeP nanostructures remains challenging due to the formation of multiple binary phases and undesirable agglomeration. In this work, we use a simple approach to synthesizing FeP nanobundles by reacting β-FeOOH (iron oxyhydroxide) with trioctylphosphine (TOP). FeP nanobundles were evaluated as HER electrocatalysts in both acidic and basic conditions, demonstrating good HER activity with overpotential values of 170 and 338 mV at a current density of -10 mA cm    
 
     
 
@@ -829,6 +884,17 @@ Open access: False
 [Ponnappa Kechanda Prasanna](https://openalex.org/A5054747084), [Sudip Chakraborty](https://openalex.org/A5091631394), Advanced Theory and Simulations. None(None)] 2024.https://doi.org/10.1002/adts.202400816.
     
 Abstract The continuous quest of finding optimum catalysts for photo‐electrocatalytic (PEC) water splitting has been revolving around 2D ultrathin materials because of the fact of exploiting both the surface area. In this work, a threefold impact is envisaged route to enhance the activity both in terms of hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in the emerging Zirconium Tri‐sulfides (ZrS 3 ) based pseudo‐monolayers. Due to the unique and distinct electronic properties of the tri‐chalcogenide systems as compared to the di‐chalcogenide counterpart of Zirconium, one could afford to explore the implications of not only single‐atom functionalization and vacancy defect, but also the external strain to expedite the bifunctional catalytic activity in this promising material. Rigorous electronic structure calculations have been performed for the mentioned threefold effect on not only the band‐edge alignment, but going beyond to it by further constructing the reaction coordinate mapping corresponding to HER and OER mechanism. The repercussion of external strain in addition to the single atom functionalization and vacancy defect on the adsorption free energies of the prime intermediates of HER and OER reaction has been further correlated with the work function variation in this pseudo‐monolayer system.    
+
+    
+
+## Modulating Electrolyte Solvation Structure for High‐Voltage and Low‐Temperature Magnesium‐ion Supercapacitors   
+
+OpenAlex: https://openalex.org/W4403921239    
+Open access: True
+    
+[Xiaohong Tan](https://openalex.org/A5017736156), [Chi Fang](https://openalex.org/A5046000533), [Zhongqi Liang](https://openalex.org/A5049539031), [Zhengjie Xu](https://openalex.org/A5046107333), [Jiaxin Zheng](https://openalex.org/A5039376323), [Xianqi Xu](https://openalex.org/A5053476579), [Yufeng Jin](https://openalex.org/A5104079377), [Guoshen Yang](https://openalex.org/A5049640294), [Hang Zhou](https://openalex.org/A5100707856), Batteries & Supercaps. None(None)] 2024.https://doi.org/10.1002/batt.202400620 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/batt.202400620)).
+    
+Aqueous electrolytes supercapacitors have great potential in energy storage devices due to their high‐power density and safety. However, due to the water hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), the electrochemical stabilization window of aqueous electrolytes needs to be widened. Moreover, the application of aqueous electrolyte at low temperature is often limited by the freezing point of water. In this paper, we modulate the solvation structure of aqueous magnesium‐ion supercapacitors by using sulfolane as a co‐solvent. The modulated low salt concentration hybrid electrolyte extends the electrochemical stability window of the electrolyte to 2.9V and enhances the stability of the electrolyte at extreme temperatures, as well as provides safe and non‐flammable properties. Based on the hybrid electrolyte, the water‐organic hybrid magnesium‐ion supercapacitors (HMSCs) are able to operate within an enlarged voltage range of 0 – 2.2 V at a low temperature of ‐30°C. The HMSC shows a specific capacitance of up to 58 F/g at room temperature and retains a specific capacitance of 39 F/g at a current density of 15 A/g. Furthermore, it has an outstanding cycling performance at ‐30 °C, maintaining a specific capacitance of more than 92% after 20,000 cycles.    
 
     
 
@@ -854,25 +920,14 @@ Abstract Light-driven water splitting by plants, algae and cyanobacteria is pivo
 
     
 
-## Transition metal nanomaterial-based electrocatalysts for water and CO2 electrolysis: preparation, catalytic activity, and prospects   
+## In Situ Transformed CoOOH@Co3S4 Heterostructured Catalyst for Highly Efficient Catalytic OER Application   
 
-OpenAlex: https://openalex.org/W4403745372    
+OpenAlex: https://openalex.org/W4403865812    
 Open access: True
     
-[Govindhan Maduraiveeran](https://openalex.org/A5039164373), Frontiers in Energy Research. 12(None)] 2024.https://doi.org/10.3389/fenrg.2024.1433103.
+[Abu Talha Aqueel Ahmed](https://openalex.org/A5016800946), [Vijaya Gopalan Sree](https://openalex.org/A5080948891), [Abhishek Meena](https://openalex.org/A5013205846), [Akbar I. Inamdar](https://openalex.org/A5090080814), [Hyunsik Im](https://openalex.org/A5019371419), [Sangeun Cho](https://openalex.org/A5103680968), Nanomaterials. 14(21)] 2024.https://doi.org/10.3390/nano14211732 ([pdf](https://www.mdpi.com/2079-4991/14/21/1732/pdf?version=1730215979)).
     
-The production of hydrogen (H 2 ) and multi-carbon fuels through water electrolysis (oxygen evolution reaction (OER)/hydrogen evolution reaction (HER)) and water–CO 2 co-electrolysis (OER/CO 2 reduction reaction (CO 2 RR)), respectively, is supposed to be the emergent energy carrier. These electrochemical processes are essential chemical conversion pathways that initiate the changes toward production of renewable energy. This review summarizes the systematic design of earth-abundant transition metal-based nanomaterials and their electrocatalytic activities toward electrochemical energy conversion reactions such as OER, HER, and CO 2 RR. The primary focus is on fabricating highly effective, low-cost, and advanced transition metal-based nanostructures for both the OER/HER and OER/CO 2 RR systems. Developing synthetic strategies for surface morphology-controlled nanostructured electrocatalysts, engineering the electrode surface, enhancing the electrocatalytic activity, understanding the relationship between intrinsic catalytic activity and preparation approaches or precursor choices, and exploring the reaction mechanism are focused on. Furthermore, the current challenges, figure-of-merit, and prospects of transition metal-based nanomaterials and their electrocatalytic activities toward water electrolysis and water–CO 2 co-electrolysis are described. This study may open new opportunities to develop shape-controlled and high-performance electrocatalysts for electrochemical energy conversion and storage reactions.    
-
-    
-
-## Synthesis and Electrochemical Characterization of Ru-Modified Iridium Oxide Catalysts for PEM Electrolysis   
-
-OpenAlex: https://openalex.org/W4403732683    
-Open access: True
-    
-[Stanford Chidziva](https://openalex.org/A5008639944), [Dorcas Zide](https://openalex.org/A5029309312), [Joshua John Bambo](https://openalex.org/A5095777357), [Anele Sinto](https://openalex.org/A5114395019), [Sivakumar Pasupathi](https://openalex.org/A5038199582), [Bernard Jan Bladergroen](https://openalex.org/A5031788256), AppliedChem. 4(4)] 2024.https://doi.org/10.3390/appliedchem4040022.
-    
-In the search of sustainable energy solutions, proton exchange membrane water electrolyzers (PEMWEs) have emerged as a promising alternative for sustainable clean hydrogen production. This study focuses on synthesis and characterization of Ruthenium (Ru)-modified iridium oxide (IrO2) catalysts. The anode is the principal reason for the high overpotential of PEMWEs and it also greatly increases the cost of the electrolyzers. IrO2 is highly stable and corrosion-resistant, particularly in acidic environments, making it a durable catalyst for the oxygen evolution reaction (OER) in PEMWEs, though it suffers from a relatively high overpotential. Ruthenium oxide (RuO2), on the other hand, is more catalytically active with a lower overpotential, but is less stable under the same conditions. In this study, the goal was to improve the catalytic activity and stability of the anode catalyst, IrO2, through the controlled incorporation of Ru and to reduce overall catalyst cost due to the reduced iridium content. This synergistic combination allows for better performance in terms of conductivity, efficiency, and durability, making Ru-modified IrO2 an ideal catalyst for OER in PEMWE applications. The Adams fusion method was adapted and used to synthesize the catalysts. The modified catalysts were characterized using analytical instruments. These analyses provided insights into the structural, morphological, and electrochemical properties of the Ru-modified IrO2 catalysts.    
+The deprived electrochemical kinetics of the oxygen evolution reaction (OER) catalyst is the prime bottleneck and remains the major obstacle in the water electrolysis processes. Herein, a facile hydrothermal technique was implemented to form a freestanding polyhedron-like Co3O4 on the microporous architecture of Ni foam, its reaction kinetics enhanced through sulfide counterpart transformation in the presence of Na2S, and their catalytic OER performances comparatively investigated in 1 M KOH medium. The formed Co3S4 catalyst shows outstanding catalytic OER activity at a current density of 100 mA cm−2 by achieving a relatively low overpotential of 292 mV compared to the pure Co3O4 catalyst and the commercial IrO2 catalyst. This enhancement results from the improved active centers and conductivity, which boost the intrinsic reaction kinetics. Further, the optimized Co3S4 catalyst exhibits admirable prolonged durability up to 72 h at varied current rates with insignificant selectivity decay. The energy dispersive X-ray spectroscopy (EDX) and Raman spectra measured after the prolonged OER stability test reveal a partial transformation of the active catalyst into an oxyhydroxide phase (i.e., CoOOH@Co3S4), which acts as an active catalyst phase during the electrolysis process.    
 
     
 
@@ -887,17 +942,6 @@ Abstract The construction of efficient and durable multifunctional electrodes fo
 
     
 
-## In Situ Transformed CoOOH@Co3S4 Heterostructured Catalyst for Highly Efficient Catalytic OER Application   
-
-OpenAlex: https://openalex.org/W4403865812    
-Open access: True
-    
-[Abu Talha Aqueel Ahmed](https://openalex.org/A5016800946), [Vijaya Gopalan Sree](https://openalex.org/A5080948891), [Abhishek Meena](https://openalex.org/A5013205846), [Akbar I. Inamdar](https://openalex.org/A5090080814), [Hyunsik Im](https://openalex.org/A5019371419), [Sangeun Cho](https://openalex.org/A5103680968), Nanomaterials. 14(21)] 2024.https://doi.org/10.3390/nano14211732 ([pdf](https://www.mdpi.com/2079-4991/14/21/1732/pdf?version=1730215979)).
-    
-The deprived electrochemical kinetics of the oxygen evolution reaction (OER) catalyst is the prime bottleneck and remains the major obstacle in the water electrolysis processes. Herein, a facile hydrothermal technique was implemented to form a freestanding polyhedron-like Co3O4 on the microporous architecture of Ni foam, its reaction kinetics enhanced through sulfide counterpart transformation in the presence of Na2S, and their catalytic OER performances comparatively investigated in 1 M KOH medium. The formed Co3S4 catalyst shows outstanding catalytic OER activity at a current density of 100 mA cm−2 by achieving a relatively low overpotential of 292 mV compared to the pure Co3O4 catalyst and the commercial IrO2 catalyst. This enhancement results from the improved active centers and conductivity, which boost the intrinsic reaction kinetics. Further, the optimized Co3S4 catalyst exhibits admirable prolonged durability up to 72 h at varied current rates with insignificant selectivity decay. The energy dispersive X-ray spectroscopy (EDX) and Raman spectra measured after the prolonged OER stability test reveal a partial transformation of the active catalyst into an oxyhydroxide phase (i.e., CoOOH@Co3S4), which acts as an active catalyst phase during the electrolysis process.    
-
-    
-
 ## Enhancing Iron Oxide Electrocatalysis for Efficient Overall Water Splitting: A Study of Tailored Synthesis for Advanced Energy Generation and Storage   
 
 OpenAlex: https://openalex.org/W4403755619    
@@ -909,28 +953,6 @@ ABSTRACT Water splitting, a critical milestone in the development of renewable e
 
     
 
-## Engineering Hybrid Transition Metal Dichalcogenide as Highly Active Electrode for Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4403733781    
-Open access: False
-    
-[Jeffrey Joseph John Jeya Kamaraj](https://openalex.org/A5006293835), [Keerthivasan Thamotharan](https://openalex.org/A5037043611), [Muthu Senthil Pandian](https://openalex.org/A5046970956), [Umamaheswari Rajaji](https://openalex.org/A5010034320), [P. Ramasamy](https://openalex.org/A5026422302), [Ting‐Yu Liu](https://openalex.org/A5089719825), ChemistrySelect. 9(40)] 2024.https://doi.org/10.1002/slct.202403263.
-    
-Abstract Water electrolysis plays a vital role in green energy systems and there is an absolute need for abundant, affordable, and effective catalysts for both the oxygen evolution reaction (OER) and the hydrogen evolution reaction (HER). Despite existing challenges, the exploration of transition metal‐based electrocatalysts with superior performance in alkaline water splitting is critical for advancing the hydrogen economy. This study focuses on the electrocatalytic potentials of FeS 2 , CoSe 2 , and FeS 2 @CoSe 2 hybrid nanocomposites in response to the increasing demand for sustainable energy production. The prepared materials were synthesized hydrothermally and characterized using X‐ray diffraction (XRD), X‐ray photoelectron spectroscopy (XPS), energy‐dispersive X‐ray spectroscopy (EDX), field emission scanning electron microscopy (FESEM), and transmission electron microscopy (TEM) to examine their structural properties, elemental composition, and morphological features. Notably, the F@C−B nanocomposite exhibited outstanding HER performance, requiring only 97 mV of overpotential to achieve a current density of 10 mA cm −2 . Similarly, the F@C−C nanocomposite demonstrated impressive OER efficiency with an overpotential of merely 302 mV at the same current density. The involvement of the Volmer–Heyrovsky mechanism was confirmed through Tafel slope analysis, revealing the improved surface‐active sites and reduced charge transfer resistance of the nanocomposite. The FeS 2 @CoSe 2 nanocomposite with synergistic effects, displayed exceptional electrocatalytic properties, positioning it as a promising candidate for overall water splitting. This work introduces a novel approach to developing highly efficient and cost‐effective electrocatalysts, offering a viable alternative to precious metal‐based counterparts.    
-
-    
-
-## Heterogeneous oxide/sulfide materials as superior bifunctional electrocatalysts for carbon-neutral green hydrogen production: A short review   
-
-OpenAlex: https://openalex.org/W4403731581    
-Open access: False
-    
-[Akbar I. Inamdar](https://openalex.org/A5090080814), [Amol S. Salunke](https://openalex.org/A5058950110), [Nabeen K. Shrestha](https://openalex.org/A5049914952), [Hyunsik Im](https://openalex.org/A5019371419), Applied Physics Reviews. 11(4)] 2024.https://doi.org/10.1063/5.0221098.
-    
-Maintaining an acceptable quality of life worldwide increasingly depends on the availability of clean and cost-effective energy, with power consumption expected to double by 2050. Therefore, the need for sustainable and affordable green energy has spurred innovative electrocatalysis research with the goal to develop materials and processes that are capable of producing environmentally friendly, carbon-neutral, clean, and green hydrogen fuel as an alternative to fossil fuel. In particular, heterostructured catalysts consisting of transition metal oxides and sulfides have emerged as a capable component of green energy technology. The dual functionality of these catalysts allows for water splitting, while the selectivity of the catalytic materials creates synergetic effects based on their electronic structure, surface composition, and electrochemical surface area. In this review, we examine the latest research and developments, synthesis methods, design strategies, reaction mechanisms, and performance outcomes for oxide/sulfide heterostructures. The review begins by introducing the current demand for hydrogen energy and electrocatalytic water-splitting and then describes the fundamental design principles for oxide/sulfide heterostructures and their hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) performance. A large part of the review is then dedicated to a comprehensive discussion of the various transition metal oxide/sulfide heterostructures designed for the OER, the HER, and two-electrode electrolyzer applications. In addition, the use of in situ and operando techniques, which provide crucial information for the design of effective electrocatalysts, is described. We also discuss the present status of electrocatalysis technology, including the challenges it faces and its future prospects as a means to achieve carbon-neutral hydrogen production. Overall, this review delivers a summary of the latest developments in electrocatalysis based on oxide/sulfide heterostructures for use in green hydrogen production.    
-
-    
-
 ## Effective Water Confinement and Dual Electrolyte–Electrode Interfaces by Zwitterionic Oligomer for High‐Voltage Aqueous Lithium‐Ion Batteries   
 
 OpenAlex: https://openalex.org/W4403792624    
@@ -939,39 +961,6 @@ Open access: False
 [Yinyan Deng](https://openalex.org/A5102601521), [Chunxian Xing](https://openalex.org/A5021530037), [Chuan Li](https://openalex.org/A5100404404), [Yangbo Zhou](https://openalex.org/A5032190348), [Zhiping Peng](https://openalex.org/A5101492863), [Linfeng Fei](https://openalex.org/A5026374763), [Chunyi Zhi](https://openalex.org/A5102942706), [Tao Wang](https://openalex.org/A5100453514), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202416566.
     
 Abstract Aqueous lithium‐ion batteries (ALIBs) have attracted significant interest due to their inherent advantage on safety. However, water itself has a narrow electrochemical stability window (ESW), limiting the energy density of ALIBs. Here, a low‐molecular‐weight zwitterionic oligomer, oligo(propylsulfonate dimethylammonium propylmethacrylamide) (OPDP), as an effective water binding agent for high‐voltage ALIBs is demonstrated. The OPDP can effectively confine water molecules while reducing water activity. The OPDP‐based electrolyte, with an ultra‐high water weight percentage of 25.4%, possesses an outstanding ESW of up to 3.26 V and an ionic conductivity as high as 3.18 mS cm −1 . Furthermore, the aqueous Mo 6 S 8 //LiMn 2 O 4 full cell with OPDP‐based electrolyte achieves a 99.7% capacity retention after 200 cycles at 0.5C with a high Coulombic efficiency (CE) of 98.7% and a specific energy of 88–101 Wh kg −1 . Also, it achieves an 89% capacity retention after 2000 cycles at 10C with a high CE of 99.9%. These postmortem characterizations suggest that robust organic–inorganic hybrid cathode/anode‐electrolyte interfaces have been constructed during the cycling through the heteroatoms of N, S, and O in the zwitterionic oligomer, leading to the inhibited hydrogen/oxygen evolution reactions and high performance of the full cell. This work provides a promising strategy for developing low‐cost and high‐voltage aqueous batteries.    
-
-    
-
-## 2D single-faceted IrO2(101) monolayer enabling high-performing proton exchange membrane water electrolysis beyond 8,000 h stability at 1.5 A cm-2   
-
-OpenAlex: https://openalex.org/W4403745568    
-Open access: True
-    
-[Jianguo Liu](https://openalex.org/A5100780350), [Deren Yang](https://openalex.org/A5108149977), [Shouwei Zuo](https://openalex.org/A5033564313), [Aidong Tan](https://openalex.org/A5011241088), [Chunyang Zhang](https://openalex.org/A5100602546), [Yufeng Qin](https://openalex.org/A5011958585), [Xiaoyun Shi](https://openalex.org/A5102503083), [Kang Hua](https://openalex.org/A5102307753), [Xuemin An](https://openalex.org/A5088030240), [Yubo Liu](https://openalex.org/A5100747044), [Yue Yang](https://openalex.org/A5081252332), [Lihua Jin](https://openalex.org/A5004432299), [Yipeng Zhang](https://openalex.org/A5100730688), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-5187955/v1 ([pdf](https://www.researchsquare.com/article/rs-5187955/latest.pdf)).
-    
-Abstract Both commercially available and laboratory-synthesized IrO2 catalysts typically possess rutile-type structures and diverse facet orientations. According to the theoretical results from density functional theory calculations, distinct IrO2 facets will result in divergent electrocatalytic properties, among which the (101) crystal facet is theoretically predicted as the most energetically favorable for oxygen evolution reaction (OER) owing to its lowest energy barrier. Maintaining a single-unit-cell thickness while exposing a desired facet of 2D IrO2 presents a significant opportunity and challenge for the development of high-performance OER anode catalysts. Herein, we develop an ammonia-induced facet engineering for oriented modulation of crystal facets in the ultimate limit of monolayer thickness, and successfully synthesize 2D monolayer IrO2 exposing unique (101) facet. At the current density of 10 mA cm-2geo, an ultralow overpotential of 230 mV has been achieved on the highly activated (101) facet in a three-electrode system. More importantly, in a proton exchange membrane (PEM) electrolyzer, the IrO2 anode reaches a low voltage of 1.74 V at an industrial-level current density of 2 A cm-2geo, much lower than that of all commercial IrO2 electrocatalysts. Though facet engineering primarily contributes to modulating the intrinsic activity rather than stability, the as-prepared IrO2(101) monolayer performs over 8,000 hours of PEM water electrolysis (PEMWE) stability at constant 1.5 A cm-2geo, with a negligible decay rate of 4.0 mV kh-1. Furthermore, even a long-term PEMWE test of 1000 h using the membrane electrode assembly (MEA) with ultra-low Ir loading of 0.2 mgIr cm-2geo under fluctuating operating conditions is performed, ECell remains highly electrochemically stable over time at 1.5 A cm-2geo, without any signs of catalyst degradation. This work proposes that ammonia-induced facet engineering of 2D monolayer IrO2 could represent a novel approach to selectively expose the desired (101) facet, thereby enabling unique facet-dependent OER performance and ultrahigh stability in industrial-scale PEM electrolysis, even under voltage fluctuations generated by solar and wind power.    
-
-    
-
-## Tuning the Active Oxygen Species of Two-Dimensional Borophene Oxide toward Advanced Metal-Free Catalysis   
-
-OpenAlex: https://openalex.org/W4403738330    
-Open access: False
-    
-[Qingqing Gu](https://openalex.org/A5102595445), [Haojian Lin](https://openalex.org/A5101663433), [Chaowei Si](https://openalex.org/A5069016306), [Zhen Wang](https://openalex.org/A5100422464), [Aiqin Wang](https://openalex.org/A5100725066), [Liu Fei](https://openalex.org/A5114377952), [Bo Li](https://openalex.org/A5100374376), [Bing Yang](https://openalex.org/A5100611540), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c09002.
-    
-Two-dimensional (2D) borophene materials are predicted to be ideal catalytic materials due to their structural analogy to graphene. However, the lack of chemical functionalization of borophene hinders its practical application in catalysis. Herein, we reported a massive production of freestanding few-layer 2D borophene oxide (BO) sheets with tunable active oxygen species by a moderate oxidation-assisted exfoliation method. State-of-the-art characterizations demonstrated the evolution of active oxygen species from surface B-O species at the initial stage to the intermediate B    
-
-    
-
-## Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars   
-
-OpenAlex: https://openalex.org/W4403745654    
-Open access: True
-    
-[Sagiv Shiber](https://openalex.org/A5008645637), [Orsola De Marco](https://openalex.org/A5057362556), [Patrick M. Motl](https://openalex.org/A5009882375), [Bradley Munson](https://openalex.org/A5073425580), [Dominic Marcello](https://openalex.org/A5084341479), [Juhan Frank](https://openalex.org/A5039192911), [P. Diehl](https://openalex.org/A5075996334), [Geoffrey C. Clayton](https://openalex.org/A5000945647), [Bennett N. Skinner](https://openalex.org/A5044602920), [Hartmut Kaiser](https://openalex.org/A5051320432), [Gregor Daiß](https://openalex.org/A5034127648), [Dirk Pflüger](https://openalex.org/A5041326099), [Jan E. Staff](https://openalex.org/A5060836032), Monthly Notices of the Royal Astronomical Society. None(None)] 2024.https://doi.org/10.1093/mnras/stae2343.
-    
-Abstract We study the properties of double white dwarf (DWD) mergers by performing hydrodynamic simulations using the new and improved adaptive mesh refinement code Octo-Tiger. We follow the orbital evolution of DWD systems of mass ratio q = 0.7 for tens of orbits until and after the merger to investigate them as a possible origin for R Coronae Borealis (RCB) type stars. We reproduce previous results, finding that during the merger, the helium WD donor star is tidally disrupted within 20-80 minutes since the beginning of the simulation onto the accretor carbon-oxygen WD, creating a high temperature shell around the accretor. We investigate the possible helium burning in this shell and the merged object’s general structure. Specifically, we are interested in the amount of oxygen-16 dredged-up from the accretor to the hot shell and the amount of oxygen-18 produced. This is critical as the discovery of very low oxygen-16 to oxygen-18 ratios in RCB stars pointed out the merger scenario as a favorable explanation for their origin. A small amount of hydrogen in the donor may help keep the oxygen-16 to oxygen-18 ratios within observational bounds, even if moderate dredge-up from the accretor occurs. In addition, we perform a resolution study to reconcile the difference found in the amount of oxygen-16 dredge-up between smoothed-particle hydrodynamics and grid-based simulations.    
 
     
 
@@ -997,17 +986,6 @@ We study the energy dependence of the total and diffractive neutrino-nucleon and
 
     
 
-## The Heart of the Matter   
-
-OpenAlex: https://openalex.org/W4403735747    
-Open access: False
-    
-[Gary C. Howard](https://openalex.org/A5098914090), Oxford University Press eBooks. None(None)] 2024.https://doi.org/10.1093/oso/9780197664797.003.0010.
-    
-Abstract Blood is a miracle fluid. It uses the protein hemoglobin to carry oxygen to all cells. It also carries nutrients to tissues and carries away carbon dioxide and waste products. It transports signaling molecules, hormones, and other important molecules. Finally, it has an intricate system that initiates clotting to stop bleeding. Three organs are intimately linked with the blood. The heart pumps blood to the lungs, where the blood gas exchange occurs, and the kidneys remove waste products and help to maintain blood pressure. The evolution of blood and the heart is also fascinating.    
-
-    
-
 ## Oxygen‐Bonded Amorphous Transition Metal Dichalcogenides with pH‐Responsive Reactive Oxygen Biocatalysis for Combined Antibacterial and Anti‐inflammatory Therapies in Diabetic Wound Healing   
 
 OpenAlex: https://openalex.org/W4403878626    
@@ -1019,17 +997,6 @@ Abstract Diabetic wound healing is a formidable challenge, often complicated by 
 
     
 
-## Carbon Nanoparticle Oxidation by NO2 and O2: Chemical Kinetics and Reaction Pathways   
-
-OpenAlex: https://openalex.org/W4403728363    
-Open access: False
-    
-[Thomas Berkemeier](https://openalex.org/A5047550036), [Ulrich Pöschl](https://openalex.org/A5057359066), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202413325.
-    
-Carbon nanoparticle interactions with gases are central to many environmental and technical processes, but the underlying reaction kinetics and mechanisms are not well understood. Here, we investigate the oxidation and gasification of carbon nanoparticles by NO2 and O2 under combustion exhaust conditions. We build on a comprehensive experimental data set and use a kinetic multilayer model (KM‐GAP‐CARBON) to trace the uptake and release of gas molecules alongside the temporal evolution of particle size and surface composition. The experimental results are captured by a model mechanism that involves different types of carbon atoms (edge/plane‐like) and the formation of a reactive oxygen intermediate (activated CO complex) as the rate‐limiting step. A transition between distinct chemical regimes driven by NO2 at lower temperatures and O2 at higher temperatures is reflected by an increase in the observable activation energy from ~60 kJ/mol to ~130 kJ/mol. We derive energy profiles for three alternative reaction pathways that involve uni‐ or bimolecular decomposition of reactive oxygen intermediates.    
-
-    
-
 ## Evaluating The Efficiency Of Reused Powder For Sustainable Production Of Austenitic Stainless Steel 316L By LPBF Additive Manufacturing   
 
 OpenAlex: https://openalex.org/W4403840181    
@@ -1038,17 +1005,6 @@ Open access: False
 [Mohammadreza Jandaghi](https://openalex.org/A5045956665), [Johan Moverare](https://openalex.org/A5078885405), No host. None(None)] 2024.https://doi.org/10.59499/ep246281053.
     
 The sustainability of Laser Powder Bed Fusion (L-PBF) in metallic component production hinges on effective powder reusing, given the significant unsolidified feedstock residue. This study evaluates the influence of powder reuse on phase evolutions using thermodynamic simulations via Thermo-Calc software. Both virgin and five-time reused powders of austenitic steel 316L (SS316L) were examined alongside printed parts. Results indicate unavoidable Rhodonite (MnSiO3) inclusions due to its high oxidation affinity. Rapid solidification produces ferritic single crystal particles from hot spatters. Sieving inefficiencies allow smaller oxide particles to persist, increasing oxide fractions in printed parts. Scheil diagrams show that while minor oxygen does not impact solidification, increased dissolved oxygen promotes Spinel (MnCr2O4) formation and inclusion clustering, serving as potential nucleation sites for ferrite. Tensile sample analysis reveals that, despite the pinning effect of fine oxide particles, increased inclusion size in reused samples compromises tensile strength.    
-
-    
-
-## Nitric oxide synthase system in the brain development of neonatal hypothyroid rats   
-
-OpenAlex: https://openalex.org/W4403712248    
-Open access: True
-    
-[Juan Carlos López](https://openalex.org/A5100768993), [Esther Martínez‐Lara](https://openalex.org/A5075205918), [Julia Serrano](https://openalex.org/A5002065879), [Ana Patricia Fernández](https://openalex.org/A5061878808), [Gloria G. Parras](https://openalex.org/A5065566980), [Antonio Ruiz‐Marcos](https://openalex.org/A5060751849), [José Rodrigo](https://openalex.org/A5110205050), Neuroscience. None(None)] 2024.https://doi.org/10.1016/j.neuroscience.2024.10.040.
-    
-Thyroid hormones play an important morphogenetic role during the fetal and neonatal periods and regulate numerous metabolic processes. In the central nervous system, they control myelination and overall brain development, regional gene expression, and regulation of oxygen consumption. Their deficiency in the fetal and neonatal periods causes severe mental retardation, due to lack of thyroid function, or to iodine deficiency. At the same time, nitric oxide is an atypical neurotransmitter that also has special relevance in neuronal development and plasticity and functions as a vasodilator, regulating cerebral blood flow. Although under physiological conditions it functions as a neuroprotector, in excess it can be neurotoxic. We have studied, by immunocytochemical and Western blot techniques, the evolution of the expression of neuronal and inducible isoforms of the enzyme nitric oxide synthase, and of nitrotyrosine as a marker of protein nitration produced by the presence of nitric oxide, during the early stages of postnatal brain development. We induced hypothyroidism by administering mercaptomethylimidazole to pregnant mothers, from the seventh day of gestation until the sacrifice of the offspring. The results show a delay in the evolution of the expression of the two isoforms of the enzyme nitric oxide synthase in hypothyroid animals, followed by an anomalous overexpression in later stages. Finally, the expression of nitrotyrosine follows an evolution that is synchronized with that shown by both isoenzymes in control and hypothyroid animals.    
 
     
 
@@ -1082,6 +1038,17 @@ Open access: True
 [Maria Christy](https://openalex.org/A5091749453), [Seunggun Choi](https://openalex.org/A5038492169), [Jiseok Kwon](https://openalex.org/A5102845655), [Jin-Woo Jeong](https://openalex.org/A5089468514), [Ungyu Paik](https://openalex.org/A5008170808), [Taeseup Song](https://openalex.org/A5034961161), Small Science. None(None)] 2024.https://doi.org/10.1002/smsc.202400386.
     
 ABX 3 (X = O) perovskite oxides are an uprising class of alternative electrocatalysts in eminent technologies like electrocatalysis, photocatalysis, thermocatalysis, and energy storage. The perquisites of perovskite oxide catalysts encompass ordered atomic structure, structural/compositional extensibility, flexible electronic structure, lucrativeness, and so on. The ingenuity to precisely control and tune the inherent properties by reconstructing their crystal structure is particularly advantageous in electrocatalysis reactions like oxygen reduction and evolution reactions (ORR and OER). Incorporating multidimensional imperfections in the presumably perfect crystal structure of the perovskite catalysts is garnering booming attention among researchers. This concept can expertly influence the electronic structure and boost the reaction kinetics during electrocatalysis. Defects or imperfections are achieved by substituting A‐ and/or B‐sites with heteroatoms or by oxygen vacancies. Defect engineering points to a promising new direction in the development of perovskite oxide catalysts. This work surveys the recent progress in defect engineering and how it plays a vital role in their design, and application in electrocatalysis, mainly ORR/OER. The architecture, dimensionality, and the types of perovskite oxides based on their cations, crystal structures, and stoichiometries are surveyed for a comprehensive understanding. This review aims to provide an extensive outlook on oxide perovskite catalysts concerning structural defects.    
+
+    
+
+## Comprehensive theoretical study of the effects of facet, oxygen vacancies, and surface strain on iron and cobalt impurities in different surfaces of anatase TiO2   
+
+OpenAlex: https://openalex.org/W4403914609    
+Open access: True
+    
+[Danil W. Boukhvalov](https://openalex.org/A5112483966), [V. Yu. Osipov](https://openalex.org/A5089566046), [Anna Baldycheva](https://openalex.org/A5058667550), [Benjamin T. Hogan](https://openalex.org/A5076721349), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-74423-3.
+    
+Abstract We report the results of systematic ab initio modelling of various configurations of iron and cobalt impurities embedded in the (110), (101), and (100) surfaces of anatase TiO 2 , with and without oxygen vacancies. The simulation results demonstrate that incorporation into interstitial voids at the surface level is significantly more favourable than other configurations for both iron and cobalt. The calculations also demonstrate the crucial effect of the facet as well as the lesser effects of other factors, such as vacancies and strain on the energetics of defect incorporation, magnetic moment, bandgap, and catalytic performance. It is further shown that there is no tendency towards the segregation or clustering of impurities on the surface. The calculated free energies of the hydrogen evolution reaction in acidic media predict that iron impurities embedded in the (101) surface of anatase TiO 2 can be a competitive catalyst for this reaction.    
 
     
 
@@ -1217,17 +1184,6 @@ Abstract Carbon materials are the promising cathode material for sodium‐ion ca
 
     
 
-## Coupling CoIr Nanoalloys with MXene by Lewis Acidic Molten Salt Etching for Wide‐pH‐Environment Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4403846575    
-Open access: False
-    
-[Qingqu Zhou](https://openalex.org/A5073664911), [Hongyu Zhao](https://openalex.org/A5101351097), [Sheng Wang](https://openalex.org/A5100371335), [Zilan Li](https://openalex.org/A5101828718), [Ruidong Li](https://openalex.org/A5100665328), [Linbo Jiang](https://openalex.org/A5002887372), [Lintao Jiang](https://openalex.org/A5108303828), [Jixiang Jiao](https://openalex.org/A5029962956), [Shichun Mu](https://openalex.org/A5040396459), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202401449.
-    
-Abstract Metal/MXene‐based materials show broad prospects in energy conversation through the strong metal‐support interaction (SMSI). However, the difficulty and harshness of synthesis heavily limit their further application. Herein, using Lewis acidic molten salt to etch MAX as a precursor of MXene, a more convenient and safer strategy is designed to in situ construct the MXene‐supported CoIr nanoalloy (CoIr/MXene) catalyst through Ti─O─M bond. The special layered structure and oxygen‐containing functional group of MXene regulate the SMSI upon CoIr nanoalloys. Moreover, the contact angle and in situ Raman test results exhibit good interface hydrophilicity of MXene, enhancing the water adsorption on interfaces, and accelerating the mass transfer process. As a result, CoIr/MXene shows high hydrogen evolution reaction (HER) performance, which only needs overpotentials of 34 and 50 mV to drive a current density of 10 mA cm −2 in alkaline and acidic media, respectively, with excellent stability. Especially, in alkaline media, CoIr/MXene possesses 6 times higher HER mass activity (4.297 A mg Ir −1 ) than commercial Pt/C catalysts (0.686 A mg Pt −1 ) at the potential of 50 mV, indicating larger active site density and intrinsic activity for CoIr/MXene. This work expands the application of the molten salt assist etching strategy and provides new insight for the development of metal/MXene‐based catalysts.    
-
-    
-
 ## Detection of [OIII]88$\mu$m in JADES-GS-z14-0 at z=14.1793   
 
 OpenAlex: https://openalex.org/W4403816306    
@@ -1258,6 +1214,17 @@ Open access: False
 [Minghui Chen](https://openalex.org/A5100678182), [Ji Xiong](https://openalex.org/A5104220329), [Quan Shi](https://openalex.org/A5090540721), [Weiwei Zhang](https://openalex.org/A5100446775), [Zhuoran Chen](https://openalex.org/A5107948985), [Li Wang](https://openalex.org/A5100322864), [Xinyue Zhu](https://openalex.org/A5101564033), [Kai Guo](https://openalex.org/A5045212510), [Feng Ya-qing](https://openalex.org/A5102219956), [Bao Zhang](https://openalex.org/A5042287959), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407782.
     
 Abstract Harsh synthetic conditions for crystalline covalent triazine frameworks (CTFs) and associated limitations on structural diversities impede not only further development of functional CTFs, but also practical large‐scale synthesis. Herein, a mild and universal vapor–solid interface synthesis strategy is developed for highly crystalline CTFs employing trifluoromethanesulfonic acid vapor as catalysts. A series of highly ordered simple and functional CTFs (CTF‐TJUs) can be facilely produced. In particular, the porphyrin‐involved functional CTF (CTF‐TJU‐Por1) with high crystallinity is synthesized for the first time via this universal approach. The mechanism of vapor‐catalyzed trimerization of nitrile monomers is thoroughly investigated through semi in situ characterizations. As a proof of concept, the photocatalytic performance of synthesized CTFs for water splitting is evaluated. CTF‐TJU‐133 exhibits significantly greater photocatalytic rates for hydrogen (4.35 µmol h −1 ) and oxygen (2.18 µmol h −1 ) evolutions during overall water splitting under visible light irradiations compared to other CTF‐TJUs, representing one of the highest values among reported CTF photocatalysts. Further studies reveal that enhanced photocatalytic performance of CTF‐TJU‐133 results from optimized band structure, extended visible‐light absorption, and high carrier separation efficiency. This study provides a promising strategy to synthesize various simple and functional CTFs, which significantly enriched diversities of CTF family for different application purposes.    
+
+    
+
+## Coupling CoIr Nanoalloys with MXene by Lewis Acidic Molten Salt Etching for Wide‐pH‐Environment Hydrogen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4403846575    
+Open access: False
+    
+[Qingqu Zhou](https://openalex.org/A5073664911), [Hongyu Zhao](https://openalex.org/A5101351097), [Sheng Wang](https://openalex.org/A5100371335), [Zilan Li](https://openalex.org/A5101828718), [Ruidong Li](https://openalex.org/A5100665328), [Linbo Jiang](https://openalex.org/A5002887372), [Lintao Jiang](https://openalex.org/A5108303828), [Jixiang Jiao](https://openalex.org/A5029962956), [Shichun Mu](https://openalex.org/A5040396459), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202401449.
+    
+Abstract Metal/MXene‐based materials show broad prospects in energy conversation through the strong metal‐support interaction (SMSI). However, the difficulty and harshness of synthesis heavily limit their further application. Herein, using Lewis acidic molten salt to etch MAX as a precursor of MXene, a more convenient and safer strategy is designed to in situ construct the MXene‐supported CoIr nanoalloy (CoIr/MXene) catalyst through Ti─O─M bond. The special layered structure and oxygen‐containing functional group of MXene regulate the SMSI upon CoIr nanoalloys. Moreover, the contact angle and in situ Raman test results exhibit good interface hydrophilicity of MXene, enhancing the water adsorption on interfaces, and accelerating the mass transfer process. As a result, CoIr/MXene shows high hydrogen evolution reaction (HER) performance, which only needs overpotentials of 34 and 50 mV to drive a current density of 10 mA cm −2 in alkaline and acidic media, respectively, with excellent stability. Especially, in alkaline media, CoIr/MXene possesses 6 times higher HER mass activity (4.297 A mg Ir −1 ) than commercial Pt/C catalysts (0.686 A mg Pt −1 ) at the potential of 50 mV, indicating larger active site density and intrinsic activity for CoIr/MXene. This work expands the application of the molten salt assist etching strategy and provides new insight for the development of metal/MXene‐based catalysts.    
 
     
 
@@ -1380,5 +1347,16 @@ Open access: True
 [David C. Poole](https://openalex.org/A5002404195), [Glenn A. Gaesser](https://openalex.org/A5075954553), Experimental Physiology. None(None)] 2024.https://doi.org/10.1113/ep092326.
     
 In the 1980s, foundational physiology and exercise physiology texts considered that oxygen uptake ( V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ ) increased as a linear function of work rate (WR) on the cycle ergometer. Whereas this was true up to the maximum V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ ( V ̇ O 2 max ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{max}}}}$ ) for incremental exercise where WR was increased by 25 W or so per minute, for constant WR heavy- (i.e., >lactate threshold, LT) or severe- (>critical power, CP) intensity exercise there was an 'excess' V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ that manifested after the fast kinetics associated with the WR transition (Gaesser & Poole, 1996). This excess V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ became evident only after 2–3 min and for heavy exercise stabilized within 10 or so minutes or, for severe exercise, projected V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ to V ̇ O 2 max ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{max}}}}$ auguring exhaustion shortly thereafter. In the extreme, this V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ slow component ( V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ ) can amount to 1–1.5 L O2/min, eroding muscle efficiency. For physiologists seeking to better understand muscle energetics and exercise limitations, non-linear behaviour often provides powerful insights into systems control. However, at the time, explanations for the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_{\mathrm{2}}}{\mathrm{SC}}}}$ were less than satisfying. Typically, researchers in the field had extrapolated the estimated O2 cost of an array of physiological processes to calculate their putative role in the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ during heavy/severe intensity exercise (Gaesser & Poole, 1996). Alternatively, the temporal correlation of these processes with the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ was assessed to try and establish cause and effect. Principal processes considered included increasing ventilation, body temperature, blood lactate and catecholamines. Neither approach was especially satisfying; the former could explain far more than 100% of the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ (!), and the latter could not discriminate causal from casual. What was needed was a technique that had the power to parse among candidate variables. The initial strategy was to independently measure leg muscle(s) V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ simultaneously with pulmonary V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ during heavy/severe intensity exercise. This procedure unequivocally identified the exercising muscles as the source of the majority (>80%) of the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ , thereby discounting a major role for ventilation, body temperature, auxiliary muscles and circulating factors such as lactate and catecholamines that might raise the metabolic rate outside the exercising muscles (Poole, 1994). Based upon subsequent a priori investigations, lactate and catecholamines as well as temperature increases acting within the exercising muscles were also discounted in this regard (Gaesser & Poole, 1996). Viable remaining candidates relating to the altered physicochemical milieu associated with heavy/severe intensity exercise included fatiguing muscle fibres, recruitment of additional, more fast-twitch, and less efficient muscle fibres, decreased mitochondrial P:O (i.e., ATP:O2) ratio and less efficient chemical–mechanical coupling. To date, most of these remain possibilities, though decreased P:O ratio – high O2 cost of phosphate production – seems unlikely (Rossiter et al., 2002) and, in dog and human muscles, the recruitment of additional muscle fibres is not requisite for a V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ effect (e.g., Zoladz et al., 2008). However, a tacit presumption of many previous investigators pursuing the mechanistic bases for the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ was that the external power produced reflected unchanged muscular input. One commendable novelty, among several, of a study by Macdougall and colleagues (2024), in this issue of Experimental Physiology, is that they considered and measured the biomechanics of cycling and determined how it changed relative to the generation of the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ in concert with (almost) real-time determination of quadriceps muscle fatigue. Their data reveal that, although power remained constant over 20 min or so whilst the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ was developing, biomechanical indices of peak total downstroke force, minimum upstroke force and the upstroke index of effectiveness were not constant and showed a weak correlation with the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ . Importantly, the observed association between muscle fatigue and the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ was highly significant, underlining the relevance of these findings despite considerable interindividual variability in the primary measurements. Indeed, even though all subjects exercised at a well-defined power output of 10% above their individually estimated second lactate threshold, time to task failure ranged from ∼10 to 55 min. This is not trivial as factors affecting muscle fatigue as well as the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ undoubtedly differ when comparing fatiguing exercise among subjects with a >5-fold range in time to task failure. The relatively high pedalling cadence of 80 rpm may have contributed to the large response heterogeneity as cadence has varying impacts on CP (i.e., relative to preferred cadence) (Carnevale & Gaesser, 1991). The metabolic stress of exercise may have differed across subjects as a result, making it more challenging to identify a specific cause for the associated V ̇ O 2 ${{\dot{V}}_{{{{\mathrm{O}}}_2}}}$ response across this substantial range in exercise duration. The road from scientific discovery to general acceptance can be fraught with hurdles. For example, Dr Barbara McClintock's identification of 'jumping genes' in maize in the 1940s and 1950s was initially disbelieved, then begrudgingly acknowledged, but dismissed as unimportant. It was only decades later, in 1983, when its fundamental relevance was appreciated and rewarded with an unopposed Nobel Prize in Physiology or Medicine for the discovery of genetic transposition. For her brilliance, tenacity, and multiple apex achievements, she became, in 2005, the only woman scientist to be lauded with her picture on a U.S. postage stamp. In like fashion, the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ has been disputed, ignored, dismissed as unimportant or inconvenient, and until relatively recently, has been underappreciated for its great potential to resolve key facets of skeletal muscle energetics during exercise. The intriguing findings of MacDougall and colleagues (2024) take us away from the Ockham's razor approach of looking for a singular driver of the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ and force acknowledgment that not only may multiple factors contribute to its evolution, but those factors likely differ considerably across individuals. Resolution of the mechanistic bases for the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ will not only enhance our fundamental understanding of muscle energetics but is also likely to have broad applications across medicine and society. For instance, if the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ can be controlled such that it does not progress the individual to V ̇ O 2 max ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{max}}}}$ , exercise tolerance can be increased. This is particularly pertinent for patients with heart failure or with chronic obstructive pulmonary disease (COPD, emphysema, chronic bronchitis) for whom the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ forces encroachment on their low and limiting ceiling for cardiovascular or ventilatory function, respectively, crippling exercise capacity (Gaesser & Poole, 1996). In contrast, with the upwards spiral of obesity in the developed world, it is conceivable that the 'luxurious' calorigenic effects of the V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ could be marshalled to enhance the efficacy of exercise to restore a better caloric balance across affected populations. Specifically, targeting exercise that produced the greatest tolerable V ̇ O 2 SC ${{\dot{V}}_{{{{\mathrm{O}}}_2}{\mathrm{SC}}}}$ would expend more calories and thereby accelerate weight loss. All authors have read and approved the final version of this manuscript and agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. All persons designated as authors qualify for authorship, and all those who qualify for authorship are listed. None declared.    
+
+    
+
+## Are we prepared for the next pandemic: Monitor on increasing human and animal H5N1 avian influenza infection   
+
+OpenAlex: https://openalex.org/W4403891616    
+Open access: True
+    
+[Wei Wang](https://openalex.org/A5108048835), [Yanxia Sun](https://openalex.org/A5047594514), [Zhongjie Li](https://openalex.org/A5100676250), [Weizhong Yang](https://openalex.org/A5110370649), [Shuo Feng](https://openalex.org/A5013366770), Chinese Medical Journal. None(None)] 2024.https://doi.org/10.1097/cm9.0000000000003375.
+    
+Human infection with highly pathogenic avian influenza (HPAI) caused by certain strains of avian influenza A viruses, such as H5N1 and H7N9, results in severe acute respiratory disease with a high mortality rate, among which the former is pathogenic to birds.[1] In recent years, HPAI H5 has spread globally, causing human infections. The first reported case of bovine H5N1 infection, which was subsequently transmitted to humans, garnered significant international attention. Drawing on the historical influenza pandemic experience and biological characteristics of the virus, under specific conditions, such as reassortment with human and swine influenza viruses, avian influenza viruses (AIV) may achieve efficient human-to-human transmission, potentially leading to a global pandemic. Here, we aimed to review the historical trends of H5N1 avian influenza infections in humans and the recent developments in epidemiological situations, evaluate the transmission risk of H5N1 avian influenza, and propose avian influenza control recommendations for public health decision-making. Global trends in human H5N1 infection. The avian influenza A H5N1 was first detected in southern China in 1996. In 1997, a significant outbreak of H5N1 avian influenza occurred among farmed chickens in the Hong Kong Special Administrative Region, marking the first reported case of H5N1 crossing the species barrier to infect humans. This initial outbreak resulted in 18 human infections and 6 fatalities. Although the outbreak was controlled at that time, H5N1 persisted in avian species. It re-emerged in 2003 and widely spread among birds across Asia and subsequently to Africa, Europe, and the Middle East, leading to poultry outbreaks and sporadic human infections. By late 2003, Southeast Asia had experienced successive H5N1 outbreaks, with the number of infections and deaths peaking in 2006. Since then, almost all such cases have been annually reported. From 1997 to May 26, 2024, 911 human H5N1 infections were reported across 24 countries, with most cases reported between 2004 and 2016, predominantly in Asia and Africa [Figure 1A]. Between 2003 and 2024, 896 individuals were confirmed to have contracted HPAI H5N1 with 463 reported deaths, resulting in an approximate fatality rate of 52%.[2]Figure 1: The global trend of human infection with H5N1 avian influenza and H5N1 avian influenza outbreaks. (A) represents the global trend in human H5N1 infections from January 1997 to August 2024, sourced from https://www.cdc.gov/flu/avianflu/chart-epi-curve-ah5n1.html. The yellow from light to dark corresponds to the increasing number of human cases infected with H5N1. (B) represents the global trend in highly pathogenic avian influenza H5N1 outbreaks from January 2005 to August 2024, sourced from https://wahis.woah.org/#/dashboards/qd-dashboard. The blue from light to dark corresponds to the increasing number of avian H5N1 outbreaks. AFRO: African Region of WHO; AMRO: Americas Region of WHO; EMRO: Eastern Mediterranean Region of WHO; EURO: European Region of WHO; SEARO: South-East Asia Region of WHO; WPRO: Western Pacific Region of WHO.H5 has spread to >150 avian and 50 mammalian species.[3] The H5N1 currently circulating among wild birds and poultry in most parts of the world predominantly belongs to the 2.3.4.4b clade.[4] Genetically distinct from earlier genotypes, it emerged in 2020 from previously prevalent H5NX subtype viruses and has spread primarily through migratory birds to regions, including Africa, Asia, and Europe. By late 2021, this clade reached North America and subsequently spread to South America by October 2022. The genetic flexibility of HPAI H5N1 from clade 2.3.4.4b allows for extensive reassortment with other AIVs, yielding a diverse array of H5N1–H5N8 viruses.[5] This efficient reassortment has led to the emergence of >50 genotypes.[6] Although there has been an increase in HPAI H5N1 infections in mammals, reports on mammal-to-mammal transmission remain limited. Between 2021 and April 2024, 28 human cases of H5N1 infection have been reported globally. Among the human cases identified as hemagglutinin (HA) H5 clade infections, 13 were caused by the 2.3.4.4b clade.[7] The severity of human illnesses resulting from AIV infection widely varies, ranging from asymptomatic or mild illness to severe disease leading to death. Characteristics of the recent A(H5N1) outbreak. Recent analyses have highlighted that the emergence of H5N1 2.3.4.4b is associated with outbreaks in the United States. This lineage is characterized by increased pathogenicity at non-traditional interfaces, underscoring the ability of the virus to cross species barriers.[8] On March 25, 2024, the United States detected the HPAI H5N1 strain in dairy cows. Infected cows showed symptoms, such as high fever, dehydration, and reduced milk production.[9] As of August 9, 2024, at least 189 dairy farms across 13 states in the United States have reported H5N1 infections, and there have been four human cases associated with an ongoing multistate outbreak of A(H5N1) in dairy cows.[10,11] The patients were dairy farm workers with epidemiological links to infected cows who presented with conjunctivitis, representing the first instance of human infection following transmission from infected dairy cows. This contrasts with the first United States H5N1 case reported in 2022, in which the patient reported only fatigue and has since recovered. Genomic data suggested that the recent H5N1 outbreak in the United States likely originated from infected birds transmitting the virus to dairy cows in late 2023 or early 2024, with subsequent spread among cow populations for several months. The spread of HAPI H5N1 in cattle poses a risk to humans through close contact with farm workers. Infected lactating cows produce milk containing high levels of the influenza virus, which, if not pasteurized, can contaminate milking equipment and act as a transmission vector for dairy farm workers. The latest study also indicated that both bovine H5N1 and the human 2009 H1N1 pandemic influenza viruses remained infectious on common milking equipment surfaces for several hours.[12] The H5N1 2.3.4.4b lineage exhibits strong transmission capabilities, with the potential to spread between birds and mammals. Recent outbreaks have suggested that the 2.3.4.4b lineage may have adapted to infect dairy cows, leading to its spread and infection in cattle. This adaptation allows the virus to be transmitted from cows to humans, specifically in close-contact environments, such as dairy farms, which are highly pathogenic in birds and cause severe disease. In cattle, the virus causes noticeable clinical symptoms, such as high fever and reduced milk production. Humans infected with this lineage show more severe symptoms than earlier H5N1 infections, including conjunctivitis, indicating a possible increase in pathogenicity. Current information suggests that AIV, particularly lineage 2.3.4.4b, may have adapted to mammalian hosts, increasing the likelihood of human infection through interspecies transmission. Public health risk assessment. From a food safety perspective, the consumption of pasteurized milk and properly cooked beef is safe for the public. To verify the safety of the meat supply in the context of H5N1, the United States Department of Agriculture (USDA), Food Safety and Inspection Service (FSIS), Animal and Plant Health Inspection Service, and Agricultural Research Service conducted three studies on the safety of beef from cattle affected by avian influenza. As of May 24, 2024, none of the diseased cattle culled at the slaughterhouses had entered the food supply chain, and ground beef samples collected from retail stores in the affected states tested negative for viral particles. Cooking beef to the FSIS-recommended temperatures of 145°F (medium rare) or 160°F (well done) can eliminate the virus, and cooking to 120°F (rare) is sufficient to inactivate the virus substantially.[13] As of May 10, 2024, the USDA and Food and Drug Administration (FDA) have confirmed that the commercial milk supply is safe, as all sold milk undergoes pasteurization, and milk from infected cows has been either diverted or destroyed. Additionally, none of the 297 samples collected by the FDA at retail points tested positive for live HPAI H5N1.[14] Based on genetic sequencing of US-confirmed cases, the current risk of human-to-human transmission remains low.[15] The HA gene in the conjunctival samples from the Michigan H5N1 patient was identified as clade 2.3.4.4b. Each gene segment was closely related to the B3.13 genotype virus detected in cows by the USDA. These data indicated that the virus detected in both cows and humans retained avian genetic characteristics and lacked the gene expression necessary for efficient human-to-human transmission. However, specific mutations, such as PB2-M631L in Michigan and PB2-E627K in Texas, may enhance the ability of the virus to spread in mammals. Although H5N1 typically prefers binding to α-2,3-sialic acid (SA α-2,3), which is less common in humans, the PB2-E627K and PB2-M631L mutations may enhance the virus's ability to bind to SA α-2,6 on the surface of human lower respiratory epithelial cells. This increased binding capability can improve viral replication efficiency, potentially enhancing the adaptability and transmissibility of H5N1 in mammals, leading to severe respiratory infections and pneumonia.[16] A pathogenicity study based on mice and ferrets revealed that HPAI H5N1 derived from lactating dairy cattle had dual receptor binding specificity, which may induce severe disease after oral ingestion or respiratory infection. Infection by either the oral or respiratory route can lead to systemic spread of the virus to non-respiratory tissues, including the eye, mammary gland, teat, and/or muscle.[17] The rest of the Michigan patient genome closely matched the sequences detected in infected cows, suggesting direct transmission from cows to humans. This sentence is almost identical to the previous statement, so it has been deleted. According to the World Organization for Animal Health, 13,755 H5N1 outbreaks were reported worldwide from 2005 to May 2024, with most occurring in Europe and North America over the past 3 years [Figure 1B]. H5N1 predominantly spreads among birds and poultry and occasionally infects mammals and humans. Prior to the reported cases of H5N1 transmission from dairy cows to humans in the United States, nearly all human H5N1 cases worldwide had a history of contact with poultry or exposure to live bird markets. Although some family clusters were observed, there was no evidence of efficient human-to-human transmission. Based on current data, H5N1 avian influenza outbreaks in wild birds, poultry, cattle, and other animals pose a low risk to the public. However, there is a low-to-moderate risk of infection for individuals who come into contact with H5N1-infected birds or animals or are exposed to environments contaminated by the virus. In addition, the eight major migratory bird routes worldwide can increase the risk of AIV introduction into countries along these routes. The continuous evolution and spread of AIV in animals indicate that the risk of human exposure persists. Consequently, the potential for sporadic cases or even small clusters of human infections remains a concern. Countermeasures for prevention and control. Recombinations and mutations suggest that H5N1 poses a potential threat to the pandemic, necessitating proactive preparedness. This involves focusing on the development and application of tools, such as vaccines, therapeutics, and diagnostic reagents, and capacity building in the areas of surveillance, early warning systems, and response preparedness. The "One Health" concept provides a comprehensive strategy for the control of HPAI, emphasizing the interconnectedness of humans, animals, and the environment. Promoting collaboration, interdisciplinary communication, and coordinated actions among veterinarians, public health experts, environmental scientists, and policymakers can enhance the effectiveness of disease surveillance, prevention, and control measures. Based on this "One Health" concept, current environmental monitoring of H5N1 avian influenza involves comprehensive surveillance strategies targeting both wildlife and domestic poultry, with a focus on detecting and mitigating outbreaks early. Surveillance includes testing migratory birds and poultry for H5N1; sampling environmental materials, such as water and soil; and using advanced diagnostic techniques to identify and characterize virus strains. Despite these efforts, global and local conflicts have challenged information sharing. International bodies, such as the World Health Organization, coordinate data exchange and facilitate global response efforts, whereas regional and local entities work to overcome the barriers posed by geopolitical tensions and conflict zones. Effective communication channels are maintained through public health messaging, collaborative networks, and emergency response planning to ensure the timely and accurate dissemination of information to curb the spread of H5N1 and enhance preparedness across affected areas. Based on this, we offer insights and recommendations for key linkage measures for further responses to H5N1 infection. "Human–Animal–Environment" multichannel surveillance and risk assessment. The proactive surveillance of severe syndromes among occupational groups in contact with animals is essential. This primarily involves health monitoring of individuals at a higher risk of exposure to animal pathogens, such as workers in large-scale animal farming, veterinarians, animal slaughter and processing workers, and staff in wildlife conservation areas. Additionally, surveillance for pneumonia of an unknown etiology should be initiated in the general population. Strengthening the reporting awareness of clinical doctors will help collect samples for pathogen identification and conduct epidemiological investigations in a timely manner once cluster cases or serious hospitalized cases are discovered, thereby identifying the potential risk of animal pathogens infecting humans as soon as possible. Close attention should be paid to the global dynamics of avian influenza outbreaks, with particular emphasis on surveillance in high-risk areas. Regular sampling and testing of poultry and wild birds in farms, markets, and natural habitats are recommended to monitor the transmission and mutation of AIV. Enhanced information sharing among the health, agriculture, and forestry departments is necessary to integrate data from various surveillance channels, such as public sentiment, drug sales, respiratory syndrome reports, testing, and imaging. Key monitoring focuses include the epidemiological characteristics of human infections with avian influenza, viral mutations, transmission capabilities, and clinical severity. Increasing the frequency of risk assessments, early warning systems, and the development of precise and effective early warning technologies enables multipoint triggering and timely implementation of relevant preventive and control measures. Conventional surveillance methods, including pathogen genome sequencing, laboratory diagnostics, and mortality surveillance, are inadequate in the face of complex and rapidly evolving threats. Wastewater monitoring is a critical tool, as demonstrated during the coronavirus disease 2019 pandemic.[18] Strengthening animal disease surveillance is also highly recommended, particularly to gain a deeper understanding of the activities and movements of migratory birds. It is essential to enhance monitoring of poultry around migratory bird habitats, increase environmental and animal surveillance along migratory bird migration routes, and boost sampling proportions and frequencies. Utilizing monitoring devices and regular patrols enables real-time monitoring of high-risk areas, ensuring the prompt detection and management of outbreak events. Protection for occupational groups and objective Public Health education. For individuals who come into contact with infected birds or other animals owing to their occupation, including those working in wildlife reserves, poultry farms, or dairies, individuals raising birds, and personnel responding to avian influenza outbreaks in birds or other animals, it is crucial to enhance their awareness of protective measures. When directly or closely interacting with deceased poultry or livestock, they must strictly adhere to protocols for wearing personal protective equipment. Additionally, before entering spaces where these animals reside or have not yet been disinfected, they should undergo comprehensive personal protection training. Physicians should be alert from a clinical perspective to recognize a history of avian exposure, such as in cattle, in patients with associated H5N1 symptoms, such as conjunctivitis, and assist in confirming the diagnosis of H5N1 infection with polymerase chain reaction testing and lung imaging to assess the presence of pneumonia or acute respiratory distress syndrome. Following confirmation of the diagnosis, antiviral drugs, such as oseltamivir, should be administered immediately, and treatment should be initiated at an earlier onset if possible. Support, such as oxygen therapy or mechanical ventilation, may be required for critically ill patients and to prevent secondary bacterial infections. Patients should be hospitalized and isolated, and healthcare workers should be strictly protected. Influenza vaccination is recommended in high-risk occupational groups. Furthermore, to avoid unnecessary panic, we recommend providing the public with accurate and truthful reports on the outbreak and conducting objective and appropriate health education without exaggerating the situation. The public should be reminded to avoid contact with sick or deceased animals, including wild birds, poultry, domesticated birds; and other wild or domestic animals, and animal waste, litter, or materials contaminated with birds or animals that are suspected or confirmed to be infected with AIV. Additionally, it is important to avoid slaughtering or consuming diseased or dead poultry and livestock and to refrain from consuming undercooked foods, such as raw milk or cheese that have not been pasteurized. Development of novel vaccines and technological preparedness. Currently, seasonal influenza vaccines do not prevent the spread of AIV in humans globally. Several countries are developing H5N1 avian influenza vaccines for emergency preparedness. In the United States, three H5N1 vaccines, developed from earlier strains of HPAI H5N1 (A/Vietnam, clade 1, and A/Indonesia, clade 2.1), with (MF59-CSL, Seqirus, Melbourne, Australia or AS03-GSK, Brentford, United Kingdom) or without adjuvants (Sanofi Pasteur, Lille, France), are licensed and stockpiled for pre-pandemic preparedness.[19] A recent study showed that adults who received three licensed adjuvanted H5N1 vaccines generated cross-neutralizing antibodies against the circulating HPAI H5N1 clade 2.3.4.4b in humans.[20] Individuals vaccinated with the two licensed adjuvanted H5N1 vaccines generated cross-reactive binding and cross-neutralizing antibodies against the HPAI clade 2.3.4.4b A/Astrakhan/3212/2020 virus. Seroconversion rates of 60–95% against H5 clade 2.3.4.4b were recorded after two doses of AS03-adjuvanted-A/Indonesia or three doses of MF59-adjuvanted-A/Vietnam vaccine. Additionally, a monovalent messenger RNA (mRNA) lipid nanoparticle vaccine expressing 2.3.4.4b was immunogenic and protective in preclinical animal models, with H5-reactive antibody levels increasing approximately eightfold after the second dose compared with those before the booster.[21] The advantage of this vaccine is that it can be rapidly produced without the need to isolate and adapt to a viral strain that grows effectively in fertilized chicken eggs or cell cultures. The manufacture of a novel mRNA vaccine can begin within hours of sequencing a new pandemic viral strain. Considering the pandemic potential of H5N1, efforts should be made to develop stockpiled vaccines, antiviral drugs, and diagnostic tools. It is important to monitor the latest internationally shared AIV sequences, further survey relevant variants that may affect outbreak trends, and analyze key mutations and dynamic changes in virus sequences. For example, PB2-E627K and PB2-M631L in PB2 influence how well a vaccine protects against different influenza strains. If vaccines are developed based on strains lacking these mutations, they may be less effective against the strains carrying either E627K or M631L. Thus, inclusion of these mutations in vaccine strain selection is crucial for maintaining vaccine effectiveness. The presence of these mutations highlights the need for continuous surveillance and updating vaccines to ensure that they cover the most current and relevant strains. This may involve modifying vaccine composition or developing new vaccines to address emerging viral variants. This will allow for timely updates on vaccine strains, diagnostic primers, and sequences, thereby ensuring readiness for potential pandemics. In addition, continued support for the development of universal influenza vaccines is crucial. Establishing a stable pandemic simulation team for emerging infectious diseases can aid scenario-based pandemic preparedness and intervention evaluation studies and enhance decision-making capabilities for pandemic response readiness. Other valuable practices for reference. The "physical isolation and culling" strategy is commonly used in many countries. However, large-scale culling measures can cause economic losses to the poultry industry. For example, owing to recurring avian influenza outbreaks in the United Kingdom, over 5.5 million birds were culled between October 2021 and November 2022. In the United States, the avian influenza outbreak in 2022 led to the deaths of approximately 40 million animals, resulting in economic losses estimated between US$2.5 billion and US$3 billion.[22] As a large global producer and consumer of agricultural products, China has maintained its stability during recent outbreaks over the past 5 years. There have been no widespread poultry infections or culling, and poultry production has remained relatively steady, despite frequent global avian influenza outbreaks. Since 2004, China has implemented immunization against H5 and/or H7 HPAI in all domestically raised poultry. Furthermore, China mandates a 100% vaccination coverage rate and ensures that the annual qualification rate of immunization antibodies remains >70%.[23] By the end of 2022, over 300 billion doses of various vaccines developed in China were administered, both domestically and internationally. Currently, two H5 vaccine seed viruses, H5-Re13, which targets the clade 2.3.4.4h virus that emerged in China in 2017, and H5-Re14, which addresses the clade 2.3.4.4b virus circulating globally, are used alongside the H7N9 vaccine seed virus H7-Re4 in the production of the trivalent vaccine.[24] Between 2002 and 2010, more than 113 billion vaccines were administered worldwide. Five countries have adopted national routine interpoultry immunization programs, accounting for 99% of vaccine use: China (90.9%), Egypt (4.6%), Indonesia (2.3%), Vietnam (1.4%), and Hong Kong Special Administrative Region (<0.01%). The high vaccine coverage enabled the prevention of clinical diseases and deaths in poultry, such as poultry fowl, reduction of human cases, maintenance of rural livelihoods, and food security.[25] Thus, this "culling and vaccination" strategy, distinctive to China, has significantly reduced losses during avian influenza outbreaks and offers valuable lessons for global control efforts against highly pathogenic H5N1. Conflicts of interest None. Funding This work was supported by grants from the Chinese Academy of Medical Sciences Innovation Fund for Medical Sciences (Nos. 2022-I2M-CoV19-006, 2021-I2M-1-044) and the Science & Technology Fundamental Resources Investigation Program (No. 2023FY100600).    
 
     

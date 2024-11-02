@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Nov 2024 01:26:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 01:19:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,57 @@
       <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2474814</guid>
+    </item>
+    <item>
+      <title>Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115795</link>
+      <description>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4403909596
+
+                No abstract</description>
+      <author>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115795</guid>
+    </item>
+    <item>
+      <title>Distillation Column Optimization: A formal method using stage-to stage computations and distributed streams</title>
+      <link>https://doi.org/10.1016/j.ces.2024.120875</link>
+      <description>Tobias Seidel, Lorenz T. Biegler, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4403915426
+
+                No abstract</description>
+      <author>Tobias Seidel, Lorenz T. Biegler</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120875</guid>
+    </item>
+    <item>
+      <title>Accessing Numerical Energy Hessians with Graph Neural Network Potentials
+  and Their Application in Heterogeneous Catalysis</title>
+      <link>https://doi.org/10.48550/arxiv.2410.01650</link>
+      <description>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403928590
+
+                Access to the potential energy Hessian enables determination of the Gibbs free energy, and certain approaches to transition state search and optimization. Here, we demonstrate that off-the-shelf pretrained Open Catalyst Project (OCP) machine learned potentials (MLPs) determine the Hessian with great success (58 cm$^{-1}$ mean absolute error (MAE)) for intermediates adsorbed to heterogeneous catalyst surfaces. This enables the use of OCP models for the aforementioned applications. The top performing model, with a simple offset correction, gives good estimations of the vibrational entropy contribution to the Gibbs free energy with an MAE of 0.042 eV at 300 K. The ability to leverage models to capture the translational entropy was also explored. It was determined that 94% of randomly sampled systems had a translational entropy greater than 0.1 eV at 300 K. This underscores the need to go beyond the harmonic approximation to consider the entropy introduced by adsorbate translation, which increases with temperature. Lastly, we used MLP determined Hessian information for transition state search and found we were able to reduce the number of unconverged systems by 65% to 93% overall convergence, improving on the baseline established by CatTSunami.</description>
+      <author>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin</author>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.01650</guid>
+    </item>
+    <item>
+      <title>Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills</title>
+      <link>https://doi.org/10.2172/2475058</link>
+      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4403930057
+
+                No abstract</description>
+      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2475058</guid>
+    </item>
+    <item>
+      <title>CFD modeling of high-flux plate-and-frame membrane modules for industrial carbon capture</title>
+      <link>https://doi.org/10.2172/2475060</link>
+      <description>Cheick Dosso, Grigorios Panagakos, H&#233;ctor Pedrozo, Lorenz T. Biegler, No host. None(None)] 2024. https://openalex.org/W4403930073
+
+                No abstract</description>
+      <author>Cheick Dosso, Grigorios Panagakos, H&#233;ctor Pedrozo, Lorenz T. Biegler</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2475060</guid>
     </item>
   </channel>
 </rss>

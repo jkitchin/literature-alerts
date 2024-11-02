@@ -1,94 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Nov  1 01:26:46 2024
+Created on Sat Nov  2 01:19:30 2024
 
-Found 19 results from 2024-10-25 to 2024-11-01
+Found 19 results from 2024-10-26 to 2024-11-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Catalytic Reduction of Carbon Monoxide to Liquid Fuels with Recyclable Hydride Donors  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403715975
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Carbon Dioxide Hydrogenation, Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-10-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05083")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403715975"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403715975"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403715975"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403715975 (Open access: False)
-    
-[[https://openalex.org/A5080197399][Javier J. Concepcion]], [[https://openalex.org/A5006832213][Renato N. Sampaio]], [[https://openalex.org/A5073119387][Gerald J. Meyer]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05083 
-     
-No abstract    
-
-    
-
-* Solvent-Free Benzyl Alcohol Oxidation Using Spatially Separated Carbon-Supported Au and Pd Nanoparticles  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403732761
-:TOPICS: Catalytic Nanomaterials, Catalytic Oxidation of Alcohols, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-10-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05019")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403732761"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403732761"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403732761"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403732761 (Open access: True)
-    
-[[https://openalex.org/A5101814743][Yong‐Min Liang]], [[https://openalex.org/A5019853731][Liang Zhao]], [[https://openalex.org/A5028475580][Mark Douthwaite]], [[https://openalex.org/A5022241037][Kai Wang]], [[https://openalex.org/A5078084710][Ouardia Akdim]], [[https://openalex.org/A5077287972][Isaac T. Daniel]], [[https://openalex.org/A5084318246][Rena Oh]], [[https://openalex.org/A5100349631][Lei Liu]], [[https://openalex.org/A5100407584][Zhe Wang]], [[https://openalex.org/A5015964296][Fanhui Meng]], [[https://openalex.org/A5004665220][Samuel Pattisson]], [[https://openalex.org/A5079914218][Ángeles López‐Martín]], [[https://openalex.org/A5101655742][Jian Yang]], [[https://openalex.org/A5005686261][Xiaoyang Huang]], [[https://openalex.org/A5063295957][Richard J. Lewis]], [[https://openalex.org/A5020068159][Graham J. Hutchings]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05019 
-     
-No abstract    
-
-    
-
-* Analyzing the Temperature Dependence of Titania Photocatalysis: Kinetic Competition between Water Oxidation Catalysis and Back Electron–Hole Recombination  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403733579
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Solar Water Splitting Technology, Formation and Properties of Nanocrystals and Nanostructures
-:PUBLICATION_DATE: 2024-10-24
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03685")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403733579"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403733579"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403733579"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403733579 (Open access: True)
-    
-[[https://openalex.org/A5034568892][Yohei Cho]], [[https://openalex.org/A5107545328][Tianhao He]], [[https://openalex.org/A5005889599][Benjamin Moss]], [[https://openalex.org/A5006926420][Daniele Benetti]], [[https://openalex.org/A5026417092][Caiwu Liang]], [[https://openalex.org/A5015881954][Lei Tian]], [[https://openalex.org/A5056868046][Lucy J. F. Hart]], [[https://openalex.org/A5033962179][Anna A. Wilson]], [[https://openalex.org/A5111377269][Y. Taniguchi]], [[https://openalex.org/A5053461586][Junyi Cui]], [[https://openalex.org/A5021129708][Mengya Yang]], [[https://openalex.org/A5004640490][Salvador Eslava]], [[https://openalex.org/A5049808190][Akira Yamaguchi]], [[https://openalex.org/A5028472365][Masahiro Miyauchi]], [[https://openalex.org/A5086035043][James R. Durrant]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03685 
-     
-No abstract    
-
-    
-
-* Metal Carbene-Directed Intramolecular Vinylogous Reactions of Vinyldiazoacetates  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403750908
-:TOPICS: Catalytic Carbene Chemistry in Organic Synthesis, Gold Catalysis in Organic Synthesis, Transition-Metal-Catalyzed C–H Bond Functionalization
-:PUBLICATION_DATE: 2024-10-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05839")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403750908"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403750908"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403750908"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403750908 (Open access: False)
-    
-[[https://openalex.org/A5020289219][Marlyn S. Rada]], [[https://openalex.org/A5066576886][Dmitry M. Bystrov]], [[https://openalex.org/A5028306574][Diana Victoria Navarrete Carriola]], [[https://openalex.org/A5009053117][Daniel Wherritt]], [[https://openalex.org/A5058847615][Michael P. Doyle]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05839 
-     
-No abstract    
-
-    
 
 * Efficient IrIII Photosensitizer Incorporated in the Metal–Organic Framework with the Bis-lophine-bipyridine Motif for C(sp3)-C/N–H Cross-Coupling Reactions  :ACS_Catalysis:
 :PROPERTIES:
@@ -400,6 +316,90 @@ No abstract
 OpenAlex: https://openalex.org/W4403892470 (Open access: False)
     
 [[https://openalex.org/A5085794085][Yifan Li]], [[https://openalex.org/A5033388493][Xueying Wan]], [[https://openalex.org/A5101813176][Zhigang Chen]], [[https://openalex.org/A5100352094][Ding Ding]], [[https://openalex.org/A5101598497][Hao Li]], [[https://openalex.org/A5058193995][Ning Zhang]], [[https://openalex.org/A5074511443][Dong Liu]], [[https://openalex.org/A5063995082][Yi Cui]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01779 
+     
+No abstract    
+
+    
+
+* Practical Considerations for Understanding Surface Reaction Mechanisms Involved in Heterogeneous Catalysis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403921426
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-10-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05188")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403921426"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403921426"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403921426"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403921426 (Open access: True)
+    
+[[https://openalex.org/A5028323119][Daniyal Kiani]], [[https://openalex.org/A5066491588][Israel E. Wachs]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05188 
+     
+No abstract    
+
+    
+
+* Electronic and Structural Property Comparison of Iridium-Based OER Nanocatalysts Enabled by Operando Ir L3-Edge X-ray Absorption Spectroscopy  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403922363
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-10-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03562")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403922363"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403922363"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403922363"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403922363 (Open access: True)
+    
+[[https://openalex.org/A5051766750][Marianne van der Merwe]], [[https://openalex.org/A5054420679][Romualdus Enggar Wibowo]], [[https://openalex.org/A5085690657][Catalina Jiménez]], [[https://openalex.org/A5009991442][Carlos Escudero]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5084897727][Marcus Bär]], [[https://openalex.org/A5011238991][Raul Garcia‐Diez]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03562 
+     
+No abstract    
+
+    
+
+* Brønsted Acid-Triggered Fast Synthesis Pathway of Furfural to Ethyl Levulinate by PtZn Supported on ZSM-5 Nanosheets  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403923117
+:TOPICS: Mesoporous Materials, Catalytic Conversion of Biomass to Fuels and Chemicals, Polyoxometalate Clusters and Materials
+:PUBLICATION_DATE: 2024-10-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03794")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403923117"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403923117"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403923117"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403923117 (Open access: False)
+    
+[[https://openalex.org/A5027570306][Longbin Deng]], [[https://openalex.org/A5078862472][Zongyuan Wang]], [[https://openalex.org/A5100738018][Xin Yu]], [[https://openalex.org/A5103978773][Congzhen Qiao]], [[https://openalex.org/A5014151565][Shuaishuai Zhou]], [[https://openalex.org/A5080694348][Qiang Deng]], [[https://openalex.org/A5005156164][Yong Zhao]], [[https://openalex.org/A5080899164][Yajie Tian]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03794 
+     
+No abstract    
+
+    
+
+* Chiral N-Hydroxyalkyl Pyrid-2-Ylidenes: A New Class of Ligands for Copper-Catalyzed Asymmetric Allylic Alkylation  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4403923563
+:TOPICS: Organometallic Chemistry and Metalation, Asymmetric Catalysis, Olefin Metathesis Chemistry
+:PUBLICATION_DATE: 2024-10-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05243")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403923563"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403923563"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403923563"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4403923563 (Open access: False)
+    
+[[https://openalex.org/A5079912377][Dylan Bouëtard]], [[https://openalex.org/A5016909379][Ziyun Zhang]], [[https://openalex.org/A5084447390][Thomas Vivès]], [[https://openalex.org/A5047907424][Marie Cordier≈]], [[https://openalex.org/A5053222658][Luigi Cavallo]], [[https://openalex.org/A5061160719][Lucie Jarrige]], [[https://openalex.org/A5035011115][Laura Falivene]], [[https://openalex.org/A5066691360][Marc Mauduit]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05243 
      
 No abstract    
 
