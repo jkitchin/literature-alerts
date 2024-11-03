@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Nov 2024 01:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 01:26:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Efficient Ir&lt;sup&gt;III&lt;/sup&gt; Photosensitizer Incorporated in the Metal&#8211;Organic Framework with the Bis-lophine-bipyridine Motif for C(sp&lt;sup&gt;3&lt;/sup&gt;)-C/N&#8211;H Cross-Coupling Reactions</title>
-      <link>https://doi.org/10.1021/acscatal.4c04666</link>
-      <description>Yuan Chen, Ao-gang Liu, Zi-Tong Chen, Xiao&#8208;Huan Liang, Juntao Yan, Bao Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403760602
-
-                No abstract</description>
-      <author>Yuan Chen, Ao-gang Liu, Zi-Tong Chen, Xiao&#8208;Huan Liang, Juntao Yan, Bao Li</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04666</guid>
-    </item>
-    <item>
-      <title>Ce Promotion of In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; for Electrochemical Reduction of CO&lt;sub&gt;2&lt;/sub&gt; to Formate</title>
-      <link>https://doi.org/10.1021/acscatal.4c02619</link>
-      <description>Tim Wissink, Floriane A. Rollier, Valery Muravev, Jason M. J. J. Heinrichs, Rim C. J. van de Poll, Jiadong Zhu, Dimitra Anastasiadou, Nikolay Kosinov, Marta C. Figueiredo, Emiel J. M. Hensen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403762662
-
-                No abstract</description>
-      <author>Tim Wissink, Floriane A. Rollier, Valery Muravev, Jason M. J. J. Heinrichs, Rim C. J. van de Poll, Jiadong Zhu, Dimitra Anastasiadou, Nikolay Kosinov, Marta C. Figueiredo, Emiel J. M. Hensen</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02619</guid>
-    </item>
-    <item>
-      <title>Role of LiOH in Aqueous Electrocatalytic Defluorination of Perfluorooctanoic Sulfonate: Efficient Li&#8211;F Ion Pairing Prevents Anode Fouling by Produced Fluoride</title>
-      <link>https://doi.org/10.1021/acscatal.4c04523</link>
-      <description>Ziyi Meng, Madeleine K. Wilsey, Astrid M. Mueller, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403768680
-
-                No abstract</description>
-      <author>Ziyi Meng, Madeleine K. Wilsey, Astrid M. Mueller</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04523</guid>
-    </item>
-    <item>
-      <title>Nickel-Catalyzed Regio- and Stereoselective Hydroalkylation of Allenes: Exploiting the Unique Reactivity of Diazo Compounds as an Alkylating Source</title>
-      <link>https://doi.org/10.1021/acscatal.4c05410</link>
-      <description>Ujjwal Karmakar, Jae&#8208;Han Bae, Jin A. Kim, Seoyeon Kim, Won&#8208;Geun Yang, Eun Jin Cho, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403774607
-
-                No abstract</description>
-      <author>Ujjwal Karmakar, Jae&#8208;Han Bae, Jin A. Kim, Seoyeon Kim, Won&#8208;Geun Yang, Eun Jin Cho</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05410</guid>
-    </item>
-    <item>
-      <title>Understanding the Different Roles of Adsorbed Oxygen and Lattice Oxygen Species in the Distinct Catalytic Performance of Metal Oxides for &lt;i&gt;o&lt;/i&gt;-Xylene Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c04284</link>
-      <description>Ying Ma, Lian Wang, Jinzhu Ma, Guangzhi He, Daiqiang Li, Hong He, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403784543
-
-                No abstract</description>
-      <author>Ying Ma, Lian Wang, Jinzhu Ma, Guangzhi He, Daiqiang Li, Hong He</author>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04284</guid>
-    </item>
     <item>
       <title>Correction to &#8220;Impact of Sn Lewis Acid Sites on the Dehydration of Cyclohexanol&#8221;</title>
       <link>https://doi.org/10.1021/acscatal.4c05977</link>
@@ -196,6 +146,126 @@
       <author>Dylan Bou&#235;tard, Ziyun Zhang, Thomas Viv&#232;s, Marie Cordier&#8776;, Luigi Cavallo, Lucie Jarrige, Laura Falivene, Marc Mauduit</author>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05243</guid>
+    </item>
+    <item>
+      <title>Relative Generality and Risk: Quantitative Measures for Broad Catalyst Success</title>
+      <link>https://doi.org/10.1021/acscatal.4c04395</link>
+      <description>Michal Sanocki, H Russell, Jasemine Handjaya, Jolene P. Reid, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403939272
+
+                No abstract</description>
+      <author>Michal Sanocki, H Russell, Jasemine Handjaya, Jolene P. Reid</author>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04395</guid>
+    </item>
+    <item>
+      <title>Heterogeneous Catalytic Transformation of Biomass-Derived Furans to Selectively Produce C&lt;sub&gt;4&lt;/sub&gt; Chemicals with the Simulated Sunlight</title>
+      <link>https://doi.org/10.1021/acscatal.4c04204</link>
+      <description>Xiaoqian Gao, Hang Tang, Xinli Tong, Jiaxin Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403940044
+
+                No abstract</description>
+      <author>Xiaoqian Gao, Hang Tang, Xinli Tong, Jiaxin Zheng</author>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04204</guid>
+    </item>
+    <item>
+      <title>Repurposing a Fully Reducing Polyketide Synthase toward 2-Methyl Guerbet-like Lipids</title>
+      <link>https://doi.org/10.1021/acscatal.4c04714</link>
+      <description>Michael A. Herrera, Stephen McColm, Louise-Marie Craigie, Joanna Simpson, Fraser Brown, David J. Clarke, Reuben Carr, Dominic J. Campopiano, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403942416
+
+                No abstract</description>
+      <author>Michael A. Herrera, Stephen McColm, Louise-Marie Craigie, Joanna Simpson, Fraser Brown, David J. Clarke, Reuben Carr, Dominic J. Campopiano</author>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04714</guid>
+    </item>
+    <item>
+      <title>Fundamental Insights into Photoelectrochemical Carbon Dioxide Reduction: Elucidating the Reaction Pathways</title>
+      <link>https://doi.org/10.1021/acscatal.4c04795</link>
+      <description>Lujie Zuo, Yuchao Deng, Lu Chen, Ting He, Jinhu Yang, Jiazhou Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403943686
+
+                No abstract</description>
+      <author>Lujie Zuo, Yuchao Deng, Lu Chen, Ting He, Jinhu Yang, Jiazhou Li</author>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04795</guid>
+    </item>
+    <item>
+      <title>An Unusual His/Asp Dyad Operates Catalysis in Agar-Degrading Glycosidases</title>
+      <link>https://doi.org/10.1021/acscatal.4c04139</link>
+      <description>Mert Sagiroglugil, Alba Nin&#8208;Hill, Elizabeth Ficko&#8208;Blean, Carme Rovira, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403966283
+
+                No abstract</description>
+      <author>Mert Sagiroglugil, Alba Nin&#8208;Hill, Elizabeth Ficko&#8208;Blean, Carme Rovira</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04139</guid>
+    </item>
+    <item>
+      <title>Selective and Efficient Light-Driven CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CO with a Heptacoordinated Polypyridine Iron(II) Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c04290</link>
+      <description>Federico Droghetti, Florian Lemken, Lubom&#305;&#769;r Rul&#305;&#769;&#353;ek, Albert Ruggi, Mirco Natali, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403967265
+
+                No abstract</description>
+      <author>Federico Droghetti, Florian Lemken, Lubom&#305;&#769;r Rul&#305;&#769;&#353;ek, Albert Ruggi, Mirco Natali</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04290</guid>
+    </item>
+    <item>
+      <title>Bifunctional Metal&#8211;Organic Layer for Selective Photocatalytic Carbon Dioxide Reduction to Carbon Monoxide</title>
+      <link>https://doi.org/10.1021/acscatal.4c04772</link>
+      <description>Yingling Liao, Zitong Wang, Jinhong Li, Yingjie Fan, David Wang, Li Shi, Wenbin Lin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403977785
+
+                We report a bifunctional metal&#8211;organic layer (MOL) as a photocatalyst for CO2 reduction to CO under visible light irradiation with a turnover number of 6990 in 24 h and a CO selectivity of 99%. The fully accessible and modifiable Hf12 secondary building units and the coordinating porphyrin linkers of the MOL allow for the integration of both Ru photosensitizers and catalytic Fe-porphyrin sites into one single platform. The close distance (&#8764;11 &#197;) between the Ru photosensitizer and the catalytic center leads to enhanced electron transfer and promotes photocatalytic CO2 reduction. This strategy leads to an increase of the CO2-to-CO turnover number for the bifunctional MOL catalyst over a combination of a homogeneous Ru photosensitizer and an Fe-porphyrin complex. The mechanism of MOL-catalyzed CO2 photoreduction was also studied by photophysical and electrochemical experiments.</description>
+      <author>Yingling Liao, Zitong Wang, Jinhong Li, Yingjie Fan, David Wang, Li Shi, Wenbin Lin</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04772</guid>
+    </item>
+    <item>
+      <title>On-Demand Metal-to-Metal Electron Donation during Zr&#8211;Ru Heterodinuclear-Catalyzed Amine&#8211;Borane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c03724</link>
+      <description>Jugal Kumawat, Daniel H. Ess, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403978901
+
+                No abstract</description>
+      <author>Jugal Kumawat, Daniel H. Ess</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03724</guid>
+    </item>
+    <item>
+      <title>pH-Mediated Solution-Phase Proton Transfer Drives Enhanced Electrochemical Hydrogenation of Phenol in Alkaline Electrolyte</title>
+      <link>https://doi.org/10.1021/acscatal.4c04874</link>
+      <description>Brianna Markunas, Taber Yim, Joshua Snyder, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403979659
+
+                No abstract</description>
+      <author>Brianna Markunas, Taber Yim, Joshua Snyder</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04874</guid>
+    </item>
+    <item>
+      <title>Role of Interfacial Hydrogen in Ethylene Hydrogenation on Graphite-Supported Ag, Au, and Cu Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c05246</link>
+      <description>Thomas Wicht, Alexander Genest, Lidia E. Chinchilla, Thomas Haunold, Andreas Steiger&#8208;Thirsfeld, Michael St&#246;ger&#8208;Pollach, Jos&#233; J. Calvino, G&#252;nther Rupprechter, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403981074
+
+                No abstract</description>
+      <author>Thomas Wicht, Alexander Genest, Lidia E. Chinchilla, Thomas Haunold, Andreas Steiger&#8208;Thirsfeld, Michael St&#246;ger&#8208;Pollach, Jos&#233; J. Calvino, G&#252;nther Rupprechter</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05246</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i021_1862381</link>
+      <description>, ACS Catalysis. 14(21)] 2024. https://openalex.org/W4403988301
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i021_1862381</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i021_1862382</link>
+      <description>, ACS Catalysis. 14(21)] 2024. https://openalex.org/W4403988394
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i021_1862382</guid>
     </item>
   </channel>
 </rss>

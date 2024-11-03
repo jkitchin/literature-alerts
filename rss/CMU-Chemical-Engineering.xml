@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Nov 2024 01:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 01:26:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -40,10 +40,10 @@
     <item>
       <title>Modeling and Scaling up of Membrane Modules Leveraging Dimensional Analysis</title>
       <link>https://doi.org/10.2172/2474814</link>
-      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4403903104
+      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4403903104
 
                 No abstract</description>
-      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
       <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2474814</guid>
     </item>
@@ -81,10 +81,10 @@
     <item>
       <title>Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills</title>
       <link>https://doi.org/10.2172/2475058</link>
-      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4403930057
+      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4403930057
 
                 No abstract</description>
-      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
+      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
       <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2475058</guid>
     </item>
@@ -97,6 +97,27 @@
       <author>Cheick Dosso, Grigorios Panagakos, H&#233;ctor Pedrozo, Lorenz T. Biegler</author>
       <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2475060</guid>
+    </item>
+    <item>
+      <title>Advancing Molecular Machine (Learned) Representations with
+  Stereoelectronics-Infused Molecular Graphs</title>
+      <link>https://doi.org/10.48550/arxiv.2408.04520</link>
+      <description>Daniil A. Boiko, Thiago Resch&#252;tzegger, Benjam&#237;n S&#225;nchez-Lengeling, Samuel M. Blau, Gabriel dos Passos Gomes, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403967299
+
+                Molecular representation is a foundational element in our understanding of the physical world. Its importance ranges from the fundamentals of chemical reactions to the design of new therapies and materials. Previous molecular machine learning models have employed strings, fingerprints, global features, and simple molecular graphs that are inherently information-sparse representations. However, as the complexity of prediction tasks increases, the molecular representation needs to encode higher fidelity information. This work introduces a novel approach to infusing quantum-chemical-rich information into molecular graphs via stereoelectronic effects. We show that the explicit addition of stereoelectronic interactions significantly improves the performance of molecular machine learning models. Furthermore, stereoelectronics-infused representations can be learned and deployed with a tailored double graph neural network workflow, enabling its application to any downstream molecular machine learning task. Finally, we show that the learned representations allow for facile stereoelectronic evaluation of previously intractable systems, such as entire proteins, opening new avenues of molecular design.</description>
+      <author>Daniil A. Boiko, Thiago Resch&#252;tzegger, Benjam&#237;n S&#225;nchez-Lengeling, Samuel M. Blau, Gabriel dos Passos Gomes</author>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2408.04520</guid>
+    </item>
+    <item>
+      <title>Experimental and Theoretical Evaluation of Feed Flow Collar Design For 3D Printed Shell-Fed Hollow Fiber Membrane Modules</title>
+      <link>https://doi.org/10.2172/2475311</link>
+      <description>Thien Tran, Maya Schuchert, Victor Kusuma, Lili Sun, Comfort Oluleke, Nathan Diemler, Lingxiang Zhu, Grigorios Panagakos, G. Glenn Lipscomb, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4403973123
+
+                No abstract</description>
+      <author>Thien Tran, Maya Schuchert, Victor Kusuma, Lili Sun, Comfort Oluleke, Nathan Diemler, Lingxiang Zhu, Grigorios Panagakos, G. Glenn Lipscomb, David Hopkinson</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2475311</guid>
     </item>
   </channel>
 </rss>
