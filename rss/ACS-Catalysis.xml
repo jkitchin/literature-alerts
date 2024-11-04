@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Nov 2024 01:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 01:22:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -190,10 +190,10 @@
     <item>
       <title>An Unusual His/Asp Dyad Operates Catalysis in Agar-Degrading Glycosidases</title>
       <link>https://doi.org/10.1021/acscatal.4c04139</link>
-      <description>Mert Sagiroglugil, Alba Nin&#8208;Hill, Elizabeth Ficko&#8208;Blean, Carme Rovira, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403966283
+      <description>Mert Sagiroglugil, Alba Nin&#8208;Hill, E. Ficko-Blean, Carme Rovira, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403966283
 
                 No abstract</description>
-      <author>Mert Sagiroglugil, Alba Nin&#8208;Hill, Elizabeth Ficko&#8208;Blean, Carme Rovira</author>
+      <author>Mert Sagiroglugil, Alba Nin&#8208;Hill, E. Ficko-Blean, Carme Rovira</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04139</guid>
     </item>
@@ -248,6 +248,36 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05246</guid>
     </item>
     <item>
+      <title>Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides</title>
+      <link>https://doi.org/10.1021/acscatal.4c05036</link>
+      <description>Samuel Olusegun, Yue Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403985663
+
+                No abstract</description>
+      <author>Samuel Olusegun, Yue Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05036</guid>
+    </item>
+    <item>
+      <title>Oxidative Catalytic Fractionation of Lignocellulose Enhanced by Copper&#8211;Manganese-Doped CeO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c04159</link>
+      <description>Yuting Zhu, Ning Li, Huifang Liu, Cheng Cai, Yehong Wang, Junju Mu, Feng Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403986393
+
+                No abstract</description>
+      <author>Yuting Zhu, Ning Li, Huifang Liu, Cheng Cai, Yehong Wang, Junju Mu, Feng Wang</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04159</guid>
+    </item>
+    <item>
+      <title>Unveiling the Pivotal Role of Ce Coordination Structures and Their Surface Arrangements in Governing 2-Cyanopyridine Hydrolysis for Direct Dimethyl Carbonate Synthesis from CO&lt;sub&gt;2&lt;/sub&gt; and Methanol</title>
+      <link>https://doi.org/10.1021/acscatal.4c04639</link>
+      <description>Linyuan Tian, Yin&#8208;Song Liao, Zhanping Xiao, Guohan Sun, Jyh&#8208;Pin Chou, Chun&#8208;Yuen Wong, Johnny C. Ho, Yufei Zhao, Pi&#8208;Tai Chou, Yung&#8208;Kang Peng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403987207
+
+                No abstract</description>
+      <author>Linyuan Tian, Yin&#8208;Song Liao, Zhanping Xiao, Guohan Sun, Jyh&#8208;Pin Chou, Chun&#8208;Yuen Wong, Johnny C. Ho, Yufei Zhao, Pi&#8208;Tai Chou, Yung&#8208;Kang Peng</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04639</guid>
+    </item>
+    <item>
       <title>Issue Publication Information</title>
       <link>https://doi.org/10.1021/csv014i021_1862381</link>
       <description>, ACS Catalysis. 14(21)] 2024. https://openalex.org/W4403988301
@@ -266,6 +296,26 @@
       <author/>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i021_1862382</guid>
+    </item>
+    <item>
+      <title>Altering Active-Site Loop Dynamics Enhances Standalone Activity of the Tryptophan Synthase Alpha Subunit</title>
+      <link>https://doi.org/10.1021/acscatal.4c04587</link>
+      <description>Cristina Duran, Thomas Kinateder, Caroline Hiefinger, Reinhard Sterner, S&#237;lvia Osuna, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403996570
+
+                No abstract</description>
+      <author>Cristina Duran, Thomas Kinateder, Caroline Hiefinger, Reinhard Sterner, S&#237;lvia Osuna</author>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04587</guid>
+    </item>
+    <item>
+      <title>Harnessing Electrolyte Chemistry to Advance Oxygen Reduction Catalysis for Fuel Cells and Electrosynthesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05425</link>
+      <description>Yong&#8208;Yan Zhao, Wenhe Yu, Xiaoxuan Sun, Hengshuo Huang, Fengwang Li, Mingchuan Luo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404003723
+
+                No abstract</description>
+      <author>Yong&#8208;Yan Zhao, Wenhe Yu, Xiaoxuan Sun, Hengshuo Huang, Fengwang Li, Mingchuan Luo</author>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05425</guid>
     </item>
   </channel>
 </rss>

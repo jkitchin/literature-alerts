@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Nov  3 01:26:08 2024
+Created on Mon Nov  4 01:22:29 2024
 
-Found 26 results from 2024-10-27 to 2024-11-03
+Found 31 results from 2024-10-28 to 2024-11-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -209,7 +209,7 @@ No abstract
 OpenAlex: https://openalex.org/W4403966283    
 Open access: True
     
-[Mert Sagiroglugil](https://openalex.org/A5092982836), [Alba Nin‐Hill](https://openalex.org/A5083448029), [Elizabeth Ficko‐Blean](https://openalex.org/A5090034340), [Carme Rovira](https://openalex.org/A5081831378), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04139.
+[Mert Sagiroglugil](https://openalex.org/A5092982836), [Alba Nin‐Hill](https://openalex.org/A5083448029), [E. Ficko-Blean](https://openalex.org/A5090034340), [Carme Rovira](https://openalex.org/A5081831378), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04139.
     
 No abstract    
 
@@ -270,6 +270,39 @@ No abstract
 
     
 
+## Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides   
+
+OpenAlex: https://openalex.org/W4403985663    
+Open access: False
+    
+[Samuel Olusegun](https://openalex.org/A5087253043), [Yue Qi](https://openalex.org/A5100747624), [Nishithan C. Kani](https://openalex.org/A5030247905), [Meenesh R. Singh](https://openalex.org/A5003372467), [Joseph A. Gauthier](https://openalex.org/A5088579134), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05036.
+    
+No abstract    
+
+    
+
+## Oxidative Catalytic Fractionation of Lignocellulose Enhanced by Copper–Manganese-Doped CeO2   
+
+OpenAlex: https://openalex.org/W4403986393    
+Open access: False
+    
+[Yuting Zhu](https://openalex.org/A5090101366), [Ning Li](https://openalex.org/A5100369039), [Huifang Liu](https://openalex.org/A5100745156), [Cheng Cai](https://openalex.org/A5004784181), [Yehong Wang](https://openalex.org/A5065815158), [Junju Mu](https://openalex.org/A5007802347), [Feng Wang](https://openalex.org/A5038772372), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04159.
+    
+No abstract    
+
+    
+
+## Unveiling the Pivotal Role of Ce Coordination Structures and Their Surface Arrangements in Governing 2-Cyanopyridine Hydrolysis for Direct Dimethyl Carbonate Synthesis from CO2 and Methanol   
+
+OpenAlex: https://openalex.org/W4403987207    
+Open access: False
+    
+[Linyuan Tian](https://openalex.org/A5101488182), [Yin‐Song Liao](https://openalex.org/A5012342069), [Zhanping Xiao](https://openalex.org/A5022965406), [Guohan Sun](https://openalex.org/A5018290334), [Jyh‐Pin Chou](https://openalex.org/A5041180889), [Chun‐Yuen Wong](https://openalex.org/A5032822838), [Johnny C. Ho](https://openalex.org/A5010200444), [Yufei Zhao](https://openalex.org/A5047430372), [Pi‐Tai Chou](https://openalex.org/A5032004836), [Yung‐Kang Peng](https://openalex.org/A5006672787), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04639.
+    
+No abstract    
+
+    
+
 ## Issue Publication Information   
 
 OpenAlex: https://openalex.org/W4403988301    
@@ -287,6 +320,28 @@ OpenAlex: https://openalex.org/W4403988394
 Open access: False
     
 , ACS Catalysis. 14(21)] 2024.https://doi.org/10.1021/csv014i021_1862382.
+    
+No abstract    
+
+    
+
+## Altering Active-Site Loop Dynamics Enhances Standalone Activity of the Tryptophan Synthase Alpha Subunit   
+
+OpenAlex: https://openalex.org/W4403996570    
+Open access: False
+    
+[Cristina Duran](https://openalex.org/A5016555168), [Thomas Kinateder](https://openalex.org/A5012929371), [Caroline Hiefinger](https://openalex.org/A5038683025), [Reinhard Sterner](https://openalex.org/A5002529505), [Sílvia Osuna](https://openalex.org/A5009140704), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04587.
+    
+No abstract    
+
+    
+
+## Harnessing Electrolyte Chemistry to Advance Oxygen Reduction Catalysis for Fuel Cells and Electrosynthesis   
+
+OpenAlex: https://openalex.org/W4404003723    
+Open access: False
+    
+[Yong‐Yan Zhao](https://openalex.org/A5091153870), [Wenhe Yu](https://openalex.org/A5011808753), [Xiaoxuan Sun](https://openalex.org/A5001648744), [Hengshuo Huang](https://openalex.org/A5072093629), [Fengwang Li](https://openalex.org/A5089706752), [Mingchuan Luo](https://openalex.org/A5001987994), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05425.
     
 No abstract    
 

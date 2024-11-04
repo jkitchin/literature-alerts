@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Nov 2024 01:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 01:22:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Recent Progress in Non&#8208;Noble Metal Catalysts for Oxygen Evolution Reaction: A Focus on Transition and Rare&#8208;Earth Elements</title>
-      <link>https://doi.org/10.1002/tcr.202400151</link>
-      <description>Jala Bib Khan, Yuan&#8208;Chang Liang, The Chemical Record. None(None)] 2024. https://openalex.org/W4403792218
-
-                Abstract The demand for renewable energy sources has become more urgent due to climate change and environmental pollution. The oxygen evolution reaction (OER) plays a crucial role in green energy sources. This article primarily explores the potential of using non&#8208;noble metals, such as transition and rare earth metals, to enhance the efficiency of the OER process. Due to their cost&#8208;effectiveness and unique electronic structure, these non&#8208;noble metals could be a game&#8208;changer in the field. &#8242;Doping,&#8242; which is the process of adding a small amount of impurity to a material to alter its properties, and &#8242;synergistic effects,&#8242; which refer to the combined effect of two or more elements that is greater than the sum of their individual effects, are two key concepts in this field. Transition and rare earth metals can reduce the overpotential, a measure of the excess potential required to drive a reaction, thus enhancing the OER process by engineering the electronic and surface molecular structure. This article summarizes the roles of various non&#8208;noble metals in the OER process and highlights opportunities for researchers to propose innovative ways to optimize the OER process.</description>
-      <author>Jala Bib Khan, Yuan&#8208;Chang Liang</author>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202400151</guid>
-    </item>
     <item>
       <title>Carbon nanomaterials for efficient oxygen and hydrogen evolution reactions in water splitting: A review</title>
       <link>https://doi.org/10.24294/can.v7i2.8543</link>
@@ -698,6 +688,56 @@
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-24062-1.00002-4</guid>
     </item>
     <item>
+      <title>Amorphous CoFePO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; hollow nanocubes decorated with g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; quantum dots to achieve efficient electrocatalytic performance in the oxygen evolution reaction</title>
+      <link>https://doi.org/10.1039/d4nr02564d</link>
+      <description>Ke Yuan, Wei Zhou, Xiaoyan Zhu, Weihua Ou, Minzhe Chen, Chuheng Zhu, Ningning Chen, Haofeng Zuo, Aocheng Wang, Dengke Zhao, Maozhong An, Ligui Li, Nanoscale. None(None)] 2024. https://openalex.org/W4403983909
+
+                g-C 3 N 4 quantum dots decorated on amorphous CoFePOx hollow nanocubes can effectively adjust the electronic structure of CoFePOx substrates and substantially improve the electrocatalytic activity of amorphous CoFePOx nanocubes for oxygen evolution reaction (OER).</description>
+      <author>Ke Yuan, Wei Zhou, Xiaoyan Zhu, Weihua Ou, Minzhe Chen, Chuheng Zhu, Ningning Chen, Haofeng Zuo, Aocheng Wang, Dengke Zhao, Maozhong An, Ligui Li</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4nr02564d</guid>
+    </item>
+    <item>
+      <title>Iron (III)-Facilitated reconstruction in NiMn layered double hydroxides for initiating rapid oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.09.257</link>
+      <description>Qiang Lv, Haoran Guo, Yuling Zhai, Hua Wang, Tao Zhu, Xing Zhu, Kongzhai Li, Zhishan Li, International Journal of Hydrogen Energy. 92(None)] 2024. https://openalex.org/W4403985914
+
+                No abstract</description>
+      <author>Qiang Lv, Haoran Guo, Yuling Zhai, Hua Wang, Tao Zhu, Xing Zhu, Kongzhai Li, Zhishan Li</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.257</guid>
+    </item>
+    <item>
+      <title>Corrigendum to &#8220;A review of efficient electrocatalysts for the oxygen evolution reaction at large current density&#8221; [DeCarbon 5 (2024) 100062]</title>
+      <link>https://doi.org/10.1016/j.decarb.2024.100080</link>
+      <description>Youtao Yao, Jiahui Lyu, Xingchuan Li, Cheng Chen, Francis Verpoort, John Wang, Zhenghui Pan, Zongkui Kou, DeCarbon. None(None)] 2024. https://openalex.org/W4403986635
+
+                No abstract</description>
+      <author>Youtao Yao, Jiahui Lyu, Xingchuan Li, Cheng Chen, Francis Verpoort, John Wang, Zhenghui Pan, Zongkui Kou</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.decarb.2024.100080</guid>
+    </item>
+    <item>
+      <title>Suppression of structural distortion in Vanadium-doped nickel MOFs for enhanced stability and activity in oxygen evolution reactions</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.10.375</link>
+      <description>Jiaqing Liu, Wenhao Li, Shijuan Song, Hao Cui, Wenhao Lu, Tingting Du, Shouxin Zhang, Fengchun Yang, International Journal of Hydrogen Energy. 93(None)] 2024. https://openalex.org/W4403999033
+
+                No abstract</description>
+      <author>Jiaqing Liu, Wenhao Li, Shijuan Song, Hao Cui, Wenhao Lu, Tingting Du, Shouxin Zhang, Fengchun Yang</author>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.375</guid>
+    </item>
+    <item>
+      <title>One-pot synthesis of graphene nanosheets&#8209;nickel cobalt LDHs nanocomposite for electrocatalysis of oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.diamond.2024.111738</link>
+      <description>Masoud Moradi, Shahram Ghasemi, Farimah Mousavi, Diamond and Related Materials. None(None)] 2024. https://openalex.org/W4404005935
+
+                No abstract</description>
+      <author>Masoud Moradi, Shahram Ghasemi, Farimah Mousavi</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.111738</guid>
+    </item>
+    <item>
       <title>Accelerating Oxygen Evolution with Low Symmetry Complex Ion of Tricyanidoferrate as a Catalytic Precursor</title>
       <link>https://doi.org/10.2139/ssrn.5006014</link>
       <description>Hongbo Zhou, Yingzi Li, Xuan Hao, Zi Wei, Yan Zhong, Zhiwei Lai, Lei Zhu, Zhenyuan Ji, Guoxing Zhu, Xiaoping Shen, No host. None(None)] 2024. https://openalex.org/W4403942873
@@ -736,6 +776,16 @@
       <author>Xi Fu, Jian Lin, Guangyao Liang, Wenhu Liao, Haixia Gao, Xiaowu Li, Liming Li</author>
       <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114648</guid>
+    </item>
+    <item>
+      <title>Corrigendum to &#8220;The latest advances in the deep reconstruction of pre-catalysts for the oxygen evolution reaction&#8221; [J. Alloys Compd. 1010, 5 January 2025, 177225]</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.177328</link>
+      <description>Haibin Wang, Hongxin Wang, Qiming Hu, Biao Wang, Xuefei Lei, Junhua You, Rui Guo, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403991672
+
+                No abstract</description>
+      <author>Haibin Wang, Hongxin Wang, Qiming Hu, Biao Wang, Xuefei Lei, Junhua You, Rui Guo</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.177328</guid>
     </item>
     <item>
       <title>Metal and Coordinating Atoms Synergistically Achieve High Activity and Stability in Single-Atom Catalysts within the Framework of TM&#8211;N&lt;sub&gt;3&lt;/sub&gt;X for the Oxygen Evolution Reaction of Lithium Peroxide</title>
@@ -928,6 +978,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202407763</guid>
     </item>
     <item>
+      <title>Mo Doping Induced Ni Surface Enrichment of Porous Spherical Core&#8211;Shell Bifunctional Electrocatalyst for Overall Water Splitting</title>
+      <link>https://doi.org/10.1002/smll.202407907</link>
+      <description>Zhipeng Liu, Jinling Xue, Yibin Fan, Yinshi Li, Small. None(None)] 2024. https://openalex.org/W4403993105
+
+                Abstract Rational design of efficient and non&#8208;noble metal bifunctional catalysts for alkaline overall water splitting (OWS) electrochemical reactions is of top priority in the development of hydrogen&#8208;based energy. Constructing catalysts with unique structures to optimize the intrinsic activity is a promising strategy. In this work, a newly developed Ni 3 Co 3 Mo 100 &#8208;BTC&#8208;15h catalyst consisting of Ni nanoparticles enriched on the surface along with a core&#8208;shell porous structure is prepared via a hydrothermal process. Due to the unique composition and Ni&#8208;enriched core&#8211;shell structure, the Ni 3 Co 3 Mo 100 &#8208;BTC&#8208;15h catalyst exhibits enhanced electrocatalytic properties for both the oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) in alkaline media. Under the dual tuning and intermetallic phase, the Ni 3 Co 3 Mo 100 &#8208;BTC&#8208;15h catalyst deliver a lower overpotential of 151 mV and &#8776; 136 mV exceeding commercial catalysts for OER and HER. When the Ni 3 Co 3 Mo 100 &#8208;BTC&#8208;15h is used as bifunctional catalyst for OWS in a two&#8208;electrode alkaline electrolyzer, a cell voltage of 1.62 V is required to drive 10 mA&#183;cm &#8722;2 comparable to that of commercial Pt/C and RuO 2 catalysts. This work proposes a potential strategy for optimizing the electrocatalytic performance of non&#8208;noble metal catalysts for OWS.</description>
+      <author>Zhipeng Liu, Jinling Xue, Yibin Fan, Yinshi Li</author>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202407907</guid>
+    </item>
+    <item>
       <title>Novel Gel method MXene&#8208;Supported Dual&#8208;Site PtNi&#8208;NiO for Electrocatalytic Water Reduction and Urea Oxidation</title>
       <link>https://doi.org/10.1002/smll.202409461</link>
       <description>Xintong Shi, Ding Zhou, Guilin Chen, Pengfei An, Jing Zhang, Youyong Li, Shengzhong Liu, Junqing Yan, Small. None(None)] 2024. https://openalex.org/W4403953935
@@ -936,16 +996,6 @@
       <author>Xintong Shi, Ding Zhou, Guilin Chen, Pengfei An, Jing Zhang, Youyong Li, Shengzhong Liu, Junqing Yan</author>
       <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202409461</guid>
-    </item>
-    <item>
-      <title>In Situ Transformed CoOOH@Co3S4 Heterostructured Catalyst for Highly Efficient Catalytic OER Application</title>
-      <link>https://doi.org/10.3390/nano14211732</link>
-      <description>Abu Talha Aqueel Ahmed, Vijaya Gopalan Sree, Abhishek Meena, Akbar I. Inamdar, Hyunsik Im, Sangeun Cho, Nanomaterials. 14(21)] 2024. https://openalex.org/W4403865812
-
-                The deprived electrochemical kinetics of the oxygen evolution reaction (OER) catalyst is the prime bottleneck and remains the major obstacle in the water electrolysis processes. Herein, a facile hydrothermal technique was implemented to form a freestanding polyhedron-like Co3O4 on the microporous architecture of Ni foam, its reaction kinetics enhanced through sulfide counterpart transformation in the presence of Na2S, and their catalytic OER performances comparatively investigated in 1 M KOH medium. The formed Co3S4 catalyst shows outstanding catalytic OER activity at a current density of 100 mA cm&#8722;2 by achieving a relatively low overpotential of 292 mV compared to the pure Co3O4 catalyst and the commercial IrO2 catalyst. This enhancement results from the improved active centers and conductivity, which boost the intrinsic reaction kinetics. Further, the optimized Co3S4 catalyst exhibits admirable prolonged durability up to 72 h at varied current rates with insignificant selectivity decay. The energy dispersive X-ray spectroscopy (EDX) and Raman spectra measured after the prolonged OER stability test reveal a partial transformation of the active catalyst into an oxyhydroxide phase (i.e., CoOOH@Co3S4), which acts as an active catalyst phase during the electrolysis process.</description>
-      <author>Abu Talha Aqueel Ahmed, Vijaya Gopalan Sree, Abhishek Meena, Akbar I. Inamdar, Hyunsik Im, Sangeun Cho</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/nano14211732</guid>
     </item>
     <item>
       <title>Surface Corrosion&#8208;Resistant and Multi&#8208;Scenario MoNiP Electrode for Efficient Industrial&#8208;Scale Seawater Splitting</title>
@@ -958,14 +1008,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403009</guid>
     </item>
     <item>
-      <title>Polyaniline prepared by Fe3O4 catalysed eco-friendly synthesis as electrocatalyst for efficient water electrolysis</title>
-      <link>https://doi.org/10.5599/jese.2438</link>
-      <description>Jadranka Miliki&#263;, Jana Mi&#353;urovi&#263;, Lazar Rako&#269;evi&#263;, Igor A. Pa&#353;ti, Gordana &#262;iri&#263;&#8208;Marjanovi&#263;, Biljana &#352;ljuki&#263;, Journal of Electrochemical Science and Engineering. None(None)] 2024. https://openalex.org/W4403956565
+      <title>In Situ Transformed CoOOH@Co3S4 Heterostructured Catalyst for Highly Efficient Catalytic OER Application</title>
+      <link>https://doi.org/10.3390/nano14211732</link>
+      <description>Abu Talha Aqueel Ahmed, Vijaya Gopalan Sree, Abhishek Meena, Akbar I. Inamdar, Hyunsik Im, Sangeun Cho, Nanomaterials. 14(21)] 2024. https://openalex.org/W4403865812
 
-                Preparing cost-effective and highly active catalysts for electrocatalytic hydrogen evolution reaction is crucial for developing hydrogen-based technologies. Hence, four conductive polyanilines, prepared by the environmentally-friendly approach using Fe3O4 nanoparticles/H2O2 as the catalyst/main oxidant system (PANI/Fe3O4), were investi&#172;gated for the first time as electrocatalysts for hydrogen evolution reaction (HER) in acidic media (0.1 M H2SO4) by using voltammetry and chronoamperometry. PANI/Fe3O4 electrodes exhibited Tafel slope values in the -171 to -246 mV dec-1 range depending on the synthesis conditions &#8210; Fe3O4/aniline mass ratio and polymerization time. The sample PANI/Fe3O4-II(3) prepared with shorter reaction time and higher Fe3O4/aniline mass ratio showed the best electrocatalytic behaviour reflected in the lowest onset potential (-0.286 V), the lowest overpotential to reach a current density of -10 mA cm-2, the highest current density, the lowest HER activation energy (10 kJ mol-1), and the lowest charge-transfer resistance (5.3 &#937;) under HER conditions. Materials were characterized by scanning electron microscopy with energy dispersive X-ray spectroscopy, X-ray photo&#172;electron spectroscopy and electrochemical impedance spectroscopy, and differences in their electrocatalytic HER performance were explained by differences in their content of Fe3O4, surface and electrical properties. Moreover, the possibility of using PANI/Fe3O4-II(3) as HER electrocatalyst in a wider range of pH (i.e. in alkaline media as well) and as a bifunc&#172;tional electrocatalyst, i.e., for oxygen evolution reaction beside HER, was also examined.</description>
-      <author>Jadranka Miliki&#263;, Jana Mi&#353;urovi&#263;, Lazar Rako&#269;evi&#263;, Igor A. Pa&#353;ti, Gordana &#262;iri&#263;&#8208;Marjanovi&#263;, Biljana &#352;ljuki&#263;</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5599/jese.2438</guid>
+                The deprived electrochemical kinetics of the oxygen evolution reaction (OER) catalyst is the prime bottleneck and remains the major obstacle in the water electrolysis processes. Herein, a facile hydrothermal technique was implemented to form a freestanding polyhedron-like Co3O4 on the microporous architecture of Ni foam, its reaction kinetics enhanced through sulfide counterpart transformation in the presence of Na2S, and their catalytic OER performances comparatively investigated in 1 M KOH medium. The formed Co3S4 catalyst shows outstanding catalytic OER activity at a current density of 100 mA cm&#8722;2 by achieving a relatively low overpotential of 292 mV compared to the pure Co3O4 catalyst and the commercial IrO2 catalyst. This enhancement results from the improved active centers and conductivity, which boost the intrinsic reaction kinetics. Further, the optimized Co3S4 catalyst exhibits admirable prolonged durability up to 72 h at varied current rates with insignificant selectivity decay. The energy dispersive X-ray spectroscopy (EDX) and Raman spectra measured after the prolonged OER stability test reveal a partial transformation of the active catalyst into an oxyhydroxide phase (i.e., CoOOH@Co3S4), which acts as an active catalyst phase during the electrolysis process.</description>
+      <author>Abu Talha Aqueel Ahmed, Vijaya Gopalan Sree, Abhishek Meena, Akbar I. Inamdar, Hyunsik Im, Sangeun Cho</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/nano14211732</guid>
     </item>
     <item>
       <title>Boron-Intercalation Engineering toward Defected 1T Phase-Rich MoB&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;S&lt;sub&gt;2&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Supported IrO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Clusters for Acidic OER</title>
@@ -978,6 +1028,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03113</guid>
     </item>
     <item>
+      <title>Polyaniline prepared by Fe3O4 catalysed eco-friendly synthesis as electrocatalyst for efficient water electrolysis</title>
+      <link>https://doi.org/10.5599/jese.2438</link>
+      <description>Jadranka Miliki&#263;, Jana Mi&#353;urovi&#263;, Lazar Rako&#269;evi&#263;, Igor A. Pa&#353;ti, Gordana &#262;iri&#263;&#8208;Marjanovi&#263;, Biljana &#352;ljuki&#263;, Journal of Electrochemical Science and Engineering. None(None)] 2024. https://openalex.org/W4403956565
+
+                Preparing cost-effective and highly active catalysts for electrocatalytic hydrogen evolution reaction is crucial for developing hydrogen-based technologies. Hence, four conductive polyanilines, prepared by the environmentally-friendly approach using Fe3O4 nanoparticles/H2O2 as the catalyst/main oxidant system (PANI/Fe3O4), were investi&#172;gated for the first time as electrocatalysts for hydrogen evolution reaction (HER) in acidic media (0.1 M H2SO4) by using voltammetry and chronoamperometry. PANI/Fe3O4 electrodes exhibited Tafel slope values in the -171 to -246 mV dec-1 range depending on the synthesis conditions &#8210; Fe3O4/aniline mass ratio and polymerization time. The sample PANI/Fe3O4-II(3) prepared with shorter reaction time and higher Fe3O4/aniline mass ratio showed the best electrocatalytic behaviour reflected in the lowest onset potential (-0.286 V), the lowest overpotential to reach a current density of -10 mA cm-2, the highest current density, the lowest HER activation energy (10 kJ mol-1), and the lowest charge-transfer resistance (5.3 &#937;) under HER conditions. Materials were characterized by scanning electron microscopy with energy dispersive X-ray spectroscopy, X-ray photo&#172;electron spectroscopy and electrochemical impedance spectroscopy, and differences in their electrocatalytic HER performance were explained by differences in their content of Fe3O4, surface and electrical properties. Moreover, the possibility of using PANI/Fe3O4-II(3) as HER electrocatalyst in a wider range of pH (i.e. in alkaline media as well) and as a bifunc&#172;tional electrocatalyst, i.e., for oxygen evolution reaction beside HER, was also examined.</description>
+      <author>Jadranka Miliki&#263;, Jana Mi&#353;urovi&#263;, Lazar Rako&#269;evi&#263;, Igor A. Pa&#353;ti, Gordana &#262;iri&#263;&#8208;Marjanovi&#263;, Biljana &#352;ljuki&#263;</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5599/jese.2438</guid>
+    </item>
+    <item>
       <title>Membrane&#8208;Free Water Electrolysis for Hydrogen Generation with Low Cost</title>
       <link>https://doi.org/10.1002/ange.202417987</link>
       <description>Xin Gao, Pengtang Wang, Xun Sun, Mietek Jaroniec, Yao Zheng, Shi Zhang Qiao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403963387
@@ -988,16 +1048,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202417987</guid>
     </item>
     <item>
-      <title>Effective Water Confinement and Dual Electrolyte&#8211;Electrode Interfaces by Zwitterionic Oligomer for High&#8208;Voltage Aqueous Lithium&#8208;Ion Batteries</title>
-      <link>https://doi.org/10.1002/adfm.202416566</link>
-      <description>Yinyan Deng, Chunxian Xing, Chuan Li, Yangbo Zhou, Zhiping Peng, Linfeng Fei, Chunyi Zhi, Tao Wang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4403792624
-
-                Abstract Aqueous lithium&#8208;ion batteries (ALIBs) have attracted significant interest due to their inherent advantage on safety. However, water itself has a narrow electrochemical stability window (ESW), limiting the energy density of ALIBs. Here, a low&#8208;molecular&#8208;weight zwitterionic oligomer, oligo(propylsulfonate dimethylammonium propylmethacrylamide) (OPDP), as an effective water binding agent for high&#8208;voltage ALIBs is demonstrated. The OPDP can effectively confine water molecules while reducing water activity. The OPDP&#8208;based electrolyte, with an ultra&#8208;high water weight percentage of 25.4%, possesses an outstanding ESW of up to 3.26 V and an ionic conductivity as high as 3.18 mS cm &#8722;1 . Furthermore, the aqueous Mo 6 S 8 //LiMn 2 O 4 full cell with OPDP&#8208;based electrolyte achieves a 99.7% capacity retention after 200 cycles at 0.5C with a high Coulombic efficiency (CE) of 98.7% and a specific energy of 88&#8211;101 Wh kg &#8722;1 . Also, it achieves an 89% capacity retention after 2000 cycles at 10C with a high CE of 99.9%. These postmortem characterizations suggest that robust organic&#8211;inorganic hybrid cathode/anode&#8208;electrolyte interfaces have been constructed during the cycling through the heteroatoms of N, S, and O in the zwitterionic oligomer, leading to the inhibited hydrogen/oxygen evolution reactions and high performance of the full cell. This work provides a promising strategy for developing low&#8208;cost and high&#8208;voltage aqueous batteries.</description>
-      <author>Yinyan Deng, Chunxian Xing, Chuan Li, Yangbo Zhou, Zhiping Peng, Linfeng Fei, Chunyi Zhi, Tao Wang</author>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202416566</guid>
-    </item>
-    <item>
       <title>Enhancing Hydrogen Evolution Reaction through the Improved Mass Transfer and Charge Transfer by Bimetal Nodes</title>
       <link>https://doi.org/10.1021/acsami.4c11560</link>
       <description>Zhihui Li, Xinyu Zhang, Yiran Teng, Hanming Zhang, Tongguang Xu, Fei Teng, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4403955258
@@ -1006,16 +1056,6 @@
       <author>Zhihui Li, Xinyu Zhang, Yiran Teng, Hanming Zhang, Tongguang Xu, Fei Teng</author>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c11560</guid>
-    </item>
-    <item>
-      <title>Strong Metal&#8208;Support Interactions in Heterogeneous Oxygen Electrocatalysis</title>
-      <link>https://doi.org/10.1002/smll.202407167</link>
-      <description>Zhiqian Hou, Chenghao Cui, Yanan Yang, Zhikun Huang, Yu Zhuang, Ye Zeng, Xi Gong, Tao Zhang, Small. None(None)] 2024. https://openalex.org/W4403791868
-
-                Molecular oxygen redox electrocatalysis involves oxygen reduction and evolution as core reactions in various energy conversion and environmental technology fields. Strong metal-support interactions (SMSIs) based nanomaterials are regarded as desirable and state-of-the-art heterogeneous electrocatalysts due to their exceptional physicochemical properties. Over the past decades, considerable advancements in theory and experiment have been achieved in related studies, especially in modulating the electronic structure and geometrical configuration of SMSIs to enable activity, selectivity, and stability. In this focuses on the concept of SMSI, explore their various manifestations and mechanisms of action, and summarizes recent advances in SMSIs for efficient energy conversion in oxygen redox electrocatalysis applications. Additionally, the correlation between the physicochemical properties of different metals and supports is systematically elucidated, and the potential mechanisms of the structure-activity relationships between SMSIs and catalytic performance are outlined through theoretical models. Finally, the obstacles confronting this burgeoning field are comprehensively concluded, targeted recommendations and coping strategies are proposed, and future research perspectives are outlined.</description>
-      <author>Zhiqian Hou, Chenghao Cui, Yanan Yang, Zhikun Huang, Yu Zhuang, Ye Zeng, Xi Gong, Tao Zhang</author>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202407167</guid>
     </item>
     <item>
       <title>High-energy nuclear scattering of neutrinos</title>
@@ -1088,16 +1128,6 @@
       <guid isPermaLink="true">https://doi.org/10.1101/2024.10.30.621061</guid>
     </item>
     <item>
-      <title>Evidence for Type Ib/c origin of the supernova remnant G292.0+1.8</title>
-      <link>https://doi.org/10.48550/arxiv.2409.17542</link>
-      <description>Takuto Narita, Hiroyuki Uchida, Jacco Vink, Satoru Katsuda, Hideyuki Umeda, Takashi Yoshida, Toshiki Sato, Kai Matsunaga, Takeshi Go Tsuru, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403795841
-
-                Circumstellar material (CSM) produced by mass loss from massive stars ($\gtrsim10 M_{\odot}$) through strong stellar winds or binary stripping provides rich information for understanding progenitors of core-collapse supernova remnants. In this paper we present a grating spectroscopy of a Galactic SNR G292.0+1.8, which is claimed to be a Type Ib/c remnant in a binary system according to recent studies. If G292.0+1.8 was experienced a strong mass-loss via binary interactions before its explosion, an oxygen-rich material produced in the He-burning layer is expected to be observed in the central belt-like structure formed by shock-heated CSM. Using the Reflection Grating Spectrometer onboard XMM-Newton, we detect N VII Ly$\alpha$ line (0.50 keV) for the first time in G292.0+1.8 and find that the abundance ratio of nitrogen to oxygen is significantly lower (N/O$=0.5\pm0.1$) than the solar value. This low N/O suggests that the progenitor of experienced strong mass-loss and ended up to a Wolf-Rayet (WR) star exposing the He-burning layer at the pre-supernova. Comparing our result and the evolution models of single stars and binaries, we conclude that the progenitor of G292.0+1.8 experienced strong mass-loss enough to occur a Type Ib/c supernova. Our finding is another crucial piece of evidence for a stripped-envelope supernova such as Type Ib/c as the origin of G292.0+1.8.</description>
-      <author>Takuto Narita, Hiroyuki Uchida, Jacco Vink, Satoru Katsuda, Hideyuki Umeda, Takashi Yoshida, Toshiki Sato, Kai Matsunaga, Takeshi Go Tsuru</author>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2409.17542</guid>
-    </item>
-    <item>
       <title>In-situ FTIR spectroscopy of epoxy resin degradation: kinetics and mechanisms</title>
       <link>https://doi.org/10.3389/fchem.2024.1476965</link>
       <description>Marianna Pannico, Giuseppe Mensitieri, Pellegrino Musto, Frontiers in Chemistry. 12(None)] 2024. https://openalex.org/W4403901304
@@ -1168,6 +1198,26 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202417059</guid>
     </item>
     <item>
+      <title>Unraveling Defect-Dependent Conductivity-Type Switching in CuFe2O4 for Enhanced Photoelectrocatalytic Reduction of Benzaldehyde</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-9brl5</link>
+      <description>Yen-Chun Huang, Jun-Lin Fong, Abdul M. Reyes, Sebastian E. Reyes&#8208;Lillo, Chang&#8208;Ming Jiang, No host. None(None)] 2024. https://openalex.org/W4403990593
+
+                Photoelectrocatalytic (PEC) reduction of carbonyl-containing compounds provides a sustainable approach to upgrading biomass-derived feedstocks with reduced energy requirements. However, PEC reduction has primarily focused on hydrogen evolution and carbon dioxide reduction reactions, limited by the availability of stable photocathode materials. In this study, we demonstrate the extended PEC performance of defect-engineered CuFe2O4 films, achieving over 18 hours of stable benzaldehyde reduction to benzyl alcohol. Modulating CuFe2O4 conductivity from n-type to p-type through controlled annealing conditions enhanced its hole concentration, achieving a cathodic photocurrent density of 1.5 mA/cm2 at 0.5 V vs. RHE. Using 1,4-benzoquinone as a redox mediator in a mixed acetonitrile/water electrolyte, the PEC system produced benzyl alcohol at a rate of 2.57 &#956;mol/h with a Faradaic efficiency of 51.3% at 0.50 V vs. Ag/AgNO&#8323;. Photoelectrochemical impedance spectroscopy (PEIS) revealed that oxygen-rich annealing conditions improved charge transport and surface catalytic activity, resulting in a threefold increase in benzyl alcohol production rate. This PEC approach lowered the required applied potential by ~1 V compared to traditional electrocatalysis methods, offering a more energy-efficient route for carbonyl reduction. These findings underscore the potential of CuFe&#8322;O&#8324; as a viable photocathode material for sustainable organic transformations under mild reaction conditions.</description>
+      <author>Yen-Chun Huang, Jun-Lin Fong, Abdul M. Reyes, Sebastian E. Reyes&#8208;Lillo, Chang&#8208;Ming Jiang</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-9brl5</guid>
+    </item>
+    <item>
+      <title>Coupling CoIr Nanoalloys with MXene by Lewis Acidic Molten Salt Etching for Wide&#8208;pH&#8208;Environment Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/smtd.202401449</link>
+      <description>Qingqu Zhou, Hongyu Zhao, Sheng Wang, Zilan Li, Ruidong Li, Linbo Jiang, Lintao Jiang, Jixiang Jiao, Shichun Mu, Small Methods. None(None)] 2024. https://openalex.org/W4403846575
+
+                Abstract Metal/MXene&#8208;based materials show broad prospects in energy conversation through the strong metal&#8208;support interaction (SMSI). However, the difficulty and harshness of synthesis heavily limit their further application. Herein, using Lewis acidic molten salt to etch MAX as a precursor of MXene, a more convenient and safer strategy is designed to in situ construct the MXene&#8208;supported CoIr nanoalloy (CoIr/MXene) catalyst through Ti&#9472;O&#9472;M bond. The special layered structure and oxygen&#8208;containing functional group of MXene regulate the SMSI upon CoIr nanoalloys. Moreover, the contact angle and in situ Raman test results exhibit good interface hydrophilicity of MXene, enhancing the water adsorption on interfaces, and accelerating the mass transfer process. As a result, CoIr/MXene shows high hydrogen evolution reaction (HER) performance, which only needs overpotentials of 34 and 50 mV to drive a current density of 10 mA cm &#8722;2 in alkaline and acidic media, respectively, with excellent stability. Especially, in alkaline media, CoIr/MXene possesses 6 times higher HER mass activity (4.297 A mg Ir &#8722;1 ) than commercial Pt/C catalysts (0.686 A mg Pt &#8722;1 ) at the potential of 50 mV, indicating larger active site density and intrinsic activity for CoIr/MXene. This work expands the application of the molten salt assist etching strategy and provides new insight for the development of metal/MXene&#8208;based catalysts.</description>
+      <author>Qingqu Zhou, Hongyu Zhao, Sheng Wang, Zilan Li, Ruidong Li, Linbo Jiang, Lintao Jiang, Jixiang Jiao, Shichun Mu</author>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401449</guid>
+    </item>
+    <item>
       <title>Detection of [OIII]88$\mu$m in JADES-GS-z14-0 at z=14.1793</title>
       <link>https://doi.org/10.48550/arxiv.2409.20549</link>
       <description>Sander Schouws, R. J. Bouwens, Katherine Ormerod, Renske Smit, H. S. B. Algera, Laura Sommovigo, J. A. Hodge, A. Ferrara, Pascal Oesch, Lucie E. Rowland, Ivana van Leeuwen, Mauro Stefanon, Thomas Herard-Demanche, Yoshinobu Fudamoto, H. J. A. R&#246;ttgering, P. van der Werf, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403816306
@@ -1189,16 +1239,6 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.04411</guid>
     </item>
     <item>
-      <title>Coupling CoIr Nanoalloys with MXene by Lewis Acidic Molten Salt Etching for Wide&#8208;pH&#8208;Environment Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/smtd.202401449</link>
-      <description>Qingqu Zhou, Hongyu Zhao, Sheng Wang, Zilan Li, Ruidong Li, Linbo Jiang, Lintao Jiang, Jixiang Jiao, Shichun Mu, Small Methods. None(None)] 2024. https://openalex.org/W4403846575
-
-                Abstract Metal/MXene&#8208;based materials show broad prospects in energy conversation through the strong metal&#8208;support interaction (SMSI). However, the difficulty and harshness of synthesis heavily limit their further application. Herein, using Lewis acidic molten salt to etch MAX as a precursor of MXene, a more convenient and safer strategy is designed to in situ construct the MXene&#8208;supported CoIr nanoalloy (CoIr/MXene) catalyst through Ti&#9472;O&#9472;M bond. The special layered structure and oxygen&#8208;containing functional group of MXene regulate the SMSI upon CoIr nanoalloys. Moreover, the contact angle and in situ Raman test results exhibit good interface hydrophilicity of MXene, enhancing the water adsorption on interfaces, and accelerating the mass transfer process. As a result, CoIr/MXene shows high hydrogen evolution reaction (HER) performance, which only needs overpotentials of 34 and 50 mV to drive a current density of 10 mA cm &#8722;2 in alkaline and acidic media, respectively, with excellent stability. Especially, in alkaline media, CoIr/MXene possesses 6 times higher HER mass activity (4.297 A mg Ir &#8722;1 ) than commercial Pt/C catalysts (0.686 A mg Pt &#8722;1 ) at the potential of 50 mV, indicating larger active site density and intrinsic activity for CoIr/MXene. This work expands the application of the molten salt assist etching strategy and provides new insight for the development of metal/MXene&#8208;based catalysts.</description>
-      <author>Qingqu Zhou, Hongyu Zhao, Sheng Wang, Zilan Li, Ruidong Li, Linbo Jiang, Lintao Jiang, Jixiang Jiao, Shichun Mu</author>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smtd.202401449</guid>
-    </item>
-    <item>
       <title>Structure-Driven Performance Enhancement in Palladium&#8211;Graphene Oxide Catalysts for Electrochemical Hydrogen Evolution</title>
       <link>https://doi.org/10.3390/ma17215296</link>
       <description>Krishnamoorthy Sathiyan, Chang Gao, Toru Wada, Poulami Mukherjee, Kalaivani Seenivasan, Toshiaki Taniike, Materials. 17(21)] 2024. https://openalex.org/W4403943964
@@ -1207,6 +1247,17 @@
       <author>Krishnamoorthy Sathiyan, Chang Gao, Toru Wada, Poulami Mukherjee, Kalaivani Seenivasan, Toshiaki Taniike</author>
       <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/ma17215296</guid>
+    </item>
+    <item>
+      <title>Quantifying systematic uncertainties in white dwarf cooling age
+  determinations</title>
+      <link>https://doi.org/10.48550/arxiv.2410.14014</link>
+      <description>Prashant Pathak, Simon Blouin, Falk Herwig, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403995443
+
+                Cooling ages of white dwarfs are routinely determined by mapping effective temperatures and masses to ages using evolutionary models. Typically, the reported uncertainties on cooling ages only consider the error propagation of the uncertainties on the spectroscopically or photometrically determined $T_{\rm eff}$ and mass. However, cooling models are themselves uncertain, given their dependence on many poorly constrained inputs. This paper estimates these systematic model uncertainties. We use MESA to generate cooling sequences of $0.5-1.0 M_{\odot}$ hydrogen-atmosphere white dwarfs with carbon-oxygen cores under different assumptions regarding the chemical stratification of their core, the thickness of their helium envelope, their hydrogen content, and the conductive opacities employed in the calculations. The parameter space explored is constrained by the range of values predicted by a variety of stellar evolution models and inferred from asteroseismological studies. For a $0.6 M_{\odot}$ white dwarf, we find an uncertainty of 0.03 Gyr at 10,000 K (corresponding to a 5% relative uncertainty) and 0.8 Gyr at 4000 K (9%). This uncertainty is significant, as it is comparable to the age uncertainty obtained by propagating the measurement errors on $T_{\rm eff}$ and mass for a typical white dwarf. We also separately consider the potential impact of $^{22}$Ne shell distillation, which plausibly leads to an additional uncertainty of $\sim 1$ Gyr for crystallized white dwarfs. We provide a table of our simulation results that can be used to evaluate the systematic model uncertainty based on a white dwarf's $T_{\rm eff}$ and mass. We encourage its use in all future studies where white dwarf cooling ages are measured.</description>
+      <author>Prashant Pathak, Simon Blouin, Falk Herwig</author>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.14014</guid>
     </item>
     <item>
       <title>&lt;scp&gt;PfGSTF2&lt;/scp&gt; endows resistance to quizalofop&#8208;p&#8208;ethyl in &lt;i&gt;Polypogon fugax&lt;/i&gt; by &lt;scp&gt;GSH&lt;/scp&gt; conjugation</title>
@@ -1319,6 +1370,16 @@
       <author>Daniel Lars P&#246;nisch, Henry C. Bittig, Martin Kolbe, Ingo Schuffenhauer, Stefan Otto, Peter Holtermann, K. Premaratne, Gregor Rehder</author>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-3246</guid>
+    </item>
+    <item>
+      <title>Electrolyte Effects in Electrocatalytic Kinetics&lt;sup&gt;&#8224;&lt;/sup&gt;</title>
+      <link>https://doi.org/10.1002/cjoc.202400458</link>
+      <description>Xiaoyu Li, Zhiming Zhang, Xinxin Zhuang, Zhen Jia, Tao Wang, Chinese Journal of Chemistry. None(None)] 2024. https://openalex.org/W4403984726
+
+                Comprehensive Summary Tuning electrolyte properties is a widely recognized strategy to enhance activity and selectivity in electrocatalysis, drawing increasing attention in this domain. Despite extensive experimental and theoretical studies, debates persist about how various electrolyte components influence electrocatalytic reactions. We offer a concise review focusing on current discussions, especially the contentious roles of cations. This article further examines how different factors affect the interfacial solvent structure, particularly the hydrogen&#8208;bonding network, and delves into the microscopic kinetics of electron and proton&#8208;coupled electron transfer. We also discuss the overarching influence of solvents from a kinetic modeling perspective, aiming to develop a robust correlation between electrolyte structure and reactivity. Lastly, we summarize ongoing research challenges and suggest potential directions for future studies on electrolyte effects in electrocatalysis. Key Scientists In 1956, Marcus theory was developed to describe the mechanism of outer&#8208;sphere electron transfer (OS&#8208;ET). In 1992, Nocera et al. directly measured proton&#8208;coupled electron transfer (PCET) kinetics for the first time, and their subsequent research in 1995 investigated the effects of proton motion on electron transfer (ET) kinetics. In 1999 and 2000, Hammes&#8208;schiffer et al. developed the multistate continuum theory for multiple charge reactions and deduced the rate expressions for nonadiabatic PCET reactions in solution, laying the theoretical foundation for the analysis of PCET kinetics in electrochemical processes. In 2006, Saveant et al. verified the concerted proton and electron transfer (CPET) mechanism in the oxidation of phenols coupled with intramolecular amine&#8208;driven proton transfer (PT). Their subsequent work in 2008 reported the pH&#8208;dependent pathways of electrochemical oxidation of phenols. Electrolyte effects in electrocatalysis have gained emphasis in recent years. In 2009, Markovic's pioneering work proposed non&#8208;covalent interactions between hydrated alkaline cations and adsorbed OH species in oxygen reduction reaction (ORR)/hydrogen oxidation reaction (HOR). In 2011, Markovic et al. significantly enhanced hydrogen evolution reaction (HER) activity in alkaline solution by improving water dissociation, which was assumed to dominate the sluggish HER kinetics in such media. In comparation, Yan et al. applied hydrogen binding energy (HBE) theory in 2015 to explain the pH&#8208;dependent HER/HOR activity. Cations play a significant role in regulating the selectivity and activity of carbon dioxide reduction (CO 2 RR). In 2016 and 2017, Karen Chan et al. introduced the electric field generated by solvated cations to explain the cation effects on electrochemical CO2RR. Conversely, in 2021, Koper et al. suggested that short&#8208;range electrostatic interactions between partially desolvated metal cations and CO 2 stabilized CO 2 and promoted CO 2 RR. Recent researches have combined the exploration of the electrical double layer (EDL) structure with theoretical analysis of PCET kinetics. In 2019, Huang et al. developed a microscopic Hamiltonian model to quantitatively understand the sluggish hydrogen electrocatalysis in alkaline media. In 2021, two meticulous studies from Shao&#8208;Horn's group analyzed the effects of cations on reorganization energy and the impacts of hydrogen bonds between proton donors and acceptors on proton tunneling kinetics, respectively. Electrolyte effects on proton transport process were researched in recent years. In 2022, Hu et al. and Chen et al. proposed that the cation&#8208;induced electric field distribution and pH&#8208;dependent hydrogen bonding network connectivity played essential roles in proton transport, separately.</description>
+      <author>Xiaoyu Li, Zhiming Zhang, Xinxin Zhuang, Zhen Jia, Tao Wang</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cjoc.202400458</guid>
     </item>
     <item>
       <title>Oxygen uptake slow component: Enigma of the &#8216;excess&#8217; oxygen used during heavy and severe exercise</title>
