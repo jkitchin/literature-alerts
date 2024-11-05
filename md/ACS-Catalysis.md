@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Nov  4 01:22:29 2024
+Created on Tue Nov  5 01:19:21 2024
 
-Found 31 results from 2024-10-28 to 2024-11-04
+Found 30 results from 2024-10-29 to 2024-11-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Correction to “Impact of Sn Lewis Acid Sites on the Dehydration of Cyclohexanol”   
-
-OpenAlex: https://openalex.org/W4403813756    
-Open access: True
-    
-[Karen A. Resende](https://openalex.org/A5003259239), [Ruixue Zhao](https://openalex.org/A5046978036), [Yue Liu](https://openalex.org/A5100735453), [Eszter Baráth](https://openalex.org/A5047406603), [Johannes A. Lercher](https://openalex.org/A5057378771), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05977 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05977?ref=article_openPDF)).
-    
-No abstract    
-
-    
 
 ## Closing the Loop of Cyclopolymerization of Nonconjugated α,ω-Diolefin Diasteroselectivity and α-Olefin Polymerization Enantioselectivity   
 

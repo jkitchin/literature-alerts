@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Nov 2024 01:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 01:19:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Correction to &#8220;Impact of Sn Lewis Acid Sites on the Dehydration of Cyclohexanol&#8221;</title>
-      <link>https://doi.org/10.1021/acscatal.4c05977</link>
-      <description>Karen A. Resende, Ruixue Zhao, Yue Liu, Eszter Bar&#225;th, Johannes A. Lercher, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403813756
-
-                No abstract</description>
-      <author>Karen A. Resende, Ruixue Zhao, Yue Liu, Eszter Bar&#225;th, Johannes A. Lercher</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05977</guid>
-    </item>
     <item>
       <title>Closing the Loop of Cyclopolymerization of Nonconjugated &#945;,&#969;-Diolefin Diasteroselectivity and &#945;-Olefin Polymerization Enantioselectivity</title>
       <link>https://doi.org/10.1021/acscatal.4c05020</link>

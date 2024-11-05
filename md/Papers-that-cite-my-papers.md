@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Nov  4 01:22:38 2024
+Created on Tue Nov  5 01:19:33 2024
 
-Found 52 results from 2024-10-28 to 2024-11-04
+Found 53 results from 2024-10-29 to 2024-11-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,28 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Achievements and Challenges in Surfactants‐Assisted Synthesis of MOFs‐Derived Transition Metal–Nitrogen–Carbon as a Highly Efficient Electrocatalyst for ORR, OER, and HER   
-
-OpenAlex: https://openalex.org/W4403808262    
-Open access: True
-    
-[Ru‐Ji Li](https://openalex.org/A5056811845), [Wen‐Jun Niu](https://openalex.org/A5005842280), [Wei‐Wei Zhao](https://openalex.org/A5101468177), [Bing‐Xin Yu](https://openalex.org/A5101280290), [Chen‐Yu Cai](https://openalex.org/A5104214886), [Liyang Xu](https://openalex.org/A5101897931), [Fu‐Ming Wang](https://openalex.org/A5086770241), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408227 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202408227)).
-    
-Abstract Metal–organic frameworks (MOFs) are excellent precursors for preparing transition metal and nitrogen co‐doped carbon catalysts, which have been widely utilized in the field of electrocatalysis since their initial development. However, the original MOFs derived catalysts have been greatly limited in their development and application due to their disadvantages such as metal atom aggregation, structural collapse, and narrow pore channels. Recently, surfactants‐assisted MOFs derived catalysts have attracted much attention from researchers due to their advantages such as hierarchical porous structure, increased specific surface area, and many exposed active sites. This review mainly focuses on the synthesis methods of surfactants‐assisted MOFs derived catalysts and comprehensively introduces the action of surfactants in MOFs derived materials and the structure‐activity relationship between the catalysts and the oxygen reduction reaction, oxygen evolution reaction, and hydrogen evolution reaction performance. Apparently, the aims of this review not only introduce the status of surfactants‐assisted MOFs derived catalysts in the field of electrocatalysis but also contribute to the rational design and synthesis of MOFs derived catalysts for fuel cells, metal–air cells, and electrolysis of water toward hydrogen production.    
-
-    
-
-## Supplanted by electron-deficient B to form RuN2B-CoN4 moiety as superior catalytic site to further promote urea production   
-
-OpenAlex: https://openalex.org/W4403813518    
-Open access: False
-    
-[Ao Yang](https://openalex.org/A5100741628), [Changyan Zhu](https://openalex.org/A5063111573), [Kaile Li](https://openalex.org/A5104263924), [Yun–Jie Chu](https://openalex.org/A5001170544), [Mengxue Wang](https://openalex.org/A5012959921), [Yun Geng](https://openalex.org/A5087812683), [Zhong‐Min Su](https://openalex.org/A5109248108), [Min Zhang](https://openalex.org/A5100402833), Molecular Catalysis. 569(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114637.
-    
-No abstract    
-
-    
 
 ## Microwave‐assisted control of PtNi nanoalloy clusters on the nitrogen‐doped graphene oxide for energy conversion with oxygen reduction reaction and hydrogen evolution reaction   
 
@@ -398,7 +376,7 @@ Open access: True
     
 [Jialin Cui](https://openalex.org/A5054847042), [Di Zhang](https://openalex.org/A5100366363), [Zhongliang Liu](https://openalex.org/A5103117286), [Congcong Li](https://openalex.org/A5101972786), [Tingting Zhang](https://openalex.org/A5100329630), [Shixin Yin](https://openalex.org/A5109413960), [Yiting Song](https://openalex.org/A5074779071), [Hao Li](https://openalex.org/A5100348631), [Huihui Li](https://openalex.org/A5100338281), [Chunzhong Li](https://openalex.org/A5009144836), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53808-y.
     
-Abstract Proton-exchange-membrane fuel cells demand highly efficient catalysts for the oxygen reduction reaction, and core-shell structures are known for maximizing precious metal utilization. Here, we reported a controllable “carbon defect anchoring” strategy to prepare Pt 1 Ni 1 @Pt/C core-shell nanoparticles with an average size of ~2.6 nm on an in-situ transformed defective carbon support. The strong Pt–C interaction effectively inhibits nanoparticle migration or aggregation, even after undergoing stability tests over 70,000 potential cycles, resulting in only 1.6% degradation. The stable Pt 1 Ni 1 @Pt/C catalysts have high oxygen reduction reaction mass activity and specific activity that reach 1.424 ± 0.019 A/mg Pt and 1.554 ± 0.027 mA/cm Pt 2 at 0.9 V, respectively, attributed to the optimal compressive strain. The experimental results are generally consistent with the theoretical predictions made by our comprehensive microkinetic model which incorporates essential kinetics and thermodynamics of oxygen reduction reaction. The consistent results obtained in our study provide compelling evidence for the high accuracy and reliability of our model. This work highlights the synergy between theory-guided catalyst design and appropriate synthetic methodologies to translate the theory into practice, offering valuable insights for future catalyst development.    
+Proton-exchange-membrane fuel cells demand highly efficient catalysts for the oxygen reduction reaction, and core-shell structures are known for maximizing precious metal utilization. Here, we reported a controllable "carbon defect anchoring" strategy to prepare Pt    
 
     
 
@@ -409,7 +387,7 @@ Open access: True
     
 [Wangwang Zhang](https://openalex.org/A5090952476), [Kelechi Uwakwe](https://openalex.org/A5011796988), [Jingting Hu](https://openalex.org/A5101518198), [Wei Yan](https://openalex.org/A5102007245), [Juntong Zhu](https://openalex.org/A5045764791), [Wu Zhou](https://openalex.org/A5077976698), [Chao Ma](https://openalex.org/A5025545087), [Liang Yu](https://openalex.org/A5100692990), [Rui Huang](https://openalex.org/A5078462246), [Dehui Deng](https://openalex.org/A5022049240), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53481-1.
     
-No abstract    
+Ambient-condition acetylene hydrogenation to ethylene (AC-AHE) is a promising process for ethylene production with minimal additional energy input, yet remains a great challenge due to the difficulty in the coactivation of acetylene and H    
 
     
 
@@ -530,7 +508,7 @@ Open access: True
     
 [Daniel Silvan Dolling](https://openalex.org/A5062291345), [Jiachen Chen](https://openalex.org/A5047361053), [Jan‐Christian Schober](https://openalex.org/A5036516463), [Marcus Creutzburg](https://openalex.org/A5056340664), [Arno Jeromin](https://openalex.org/A5023675051), [Vedran Vonk](https://openalex.org/A5024623921), [Dmitry Sharapa](https://openalex.org/A5029193865), [Thomas F. Keller](https://openalex.org/A5074463112), [Philipp N. Pleßow](https://openalex.org/A5108456150), [Heshmat Noei](https://openalex.org/A5088659450), [Andreas Stierle](https://openalex.org/A5039287605), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c08291.
     
-No abstract    
+We studied the adsorption of CO on Pd/Pt nanoparticles (NPs) with varying compositions using polarization-dependent Fourier transform infrared reflection absorption spectroscopy (FT-IRRAS) and theoretical calculations (DFT). We prepared PtPd alloy NPs via physical vapor codeposition on α-Al    
 
     
 
@@ -541,7 +519,40 @@ Open access: True
     
 [Bowen Hou](https://openalex.org/A5058441677), [Jinyuan Wu](https://openalex.org/A5100898179), [Diana Y. Qiu](https://openalex.org/A5083585252), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53748-7.
     
+Representation learning for the electronic structure problem is a major challenge of machine learning in computational condensed matter and materials physics. Within quantum mechanical first principles approaches, density functional theory (DFT) is the preeminent tool for understanding electronic structure, and the high-dimensional DFT wavefunctions serve as building blocks for downstream calculations of correlated many-body excitations and related physical observables. Here, we use variational autoencoders (VAE) for the unsupervised learning of DFT wavefunctions and show that these wavefunctions lie in a low-dimensional manifold within latent space. Our model autonomously determines the optimal representation of the electronic structure, avoiding limitations due to manual feature engineering. To demonstrate the utility of the latent space representation of the DFT wavefunction, we use it for the supervised training of neural networks (NN) for downstream prediction of quasiparticle bandstructures within the GW formalism. The GW prediction achieves a low error of 0.11 eV for a combined test set of two-dimensional metals and semiconductors, suggesting that the latent space representation captures key physical information from the original data. Finally, we explore the generative ability and interpretability of the VAE representation.    
+
+    
+
+## Sustainable photocatalytic hydrogen peroxide production over octonary high-entropy oxide   
+
+OpenAlex: https://openalex.org/W4404010700    
+Open access: True
+    
+[Hao Ling](https://openalex.org/A5102660473), [Huacong Sun](https://openalex.org/A5081499443), [Lisha Lu](https://openalex.org/A5100969022), [Jingkun Zhang](https://openalex.org/A5052843240), [Lei Liao](https://openalex.org/A5101643931), [Jianlin Wang](https://openalex.org/A5100736608), [Xiaowei Zhang](https://openalex.org/A5100353428), [Yingying Lan](https://openalex.org/A5102018059), [Renjie Li](https://openalex.org/A5100442491), [Wengang Lu](https://openalex.org/A5042364296), [Lejuan Cai](https://openalex.org/A5073694478), [Xuedong Bai](https://openalex.org/A5077235314), [Wenlong Wang](https://openalex.org/A5100344691), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53896-w.
+    
 No abstract    
+
+    
+
+## A Study of Cl Adsorption on Pt(111) and Pt(100) using Ab Initio Grand-Canonical Monte Carlo   
+
+OpenAlex: https://openalex.org/W4404011693    
+Open access: False
+    
+[Eun Mi Kim](https://openalex.org/A5100656601), [Junseok Kim](https://openalex.org/A5100698868), [Kristen A. Fichthorn](https://openalex.org/A5068546520), Surface Science. None(None)] 2024.https://doi.org/10.1016/j.susc.2024.122647.
+    
+No abstract    
+
+    
+
+## Establishing Key Process Design Considerations for Carbon Capture, Utilization and Storage (CCUS) Towards Decarbonization of Existing Assets Operations   
+
+OpenAlex: https://openalex.org/W4404014042    
+Open access: False
+    
+[Muhammad Zakwan Mohd Sahak](https://openalex.org/A5033238521), [Masniroszaime Md Zain](https://openalex.org/A5068586989), [Azila Alias](https://openalex.org/A5015143523), [Muhammad Yazid Bin Zulkifli](https://openalex.org/A5073127708), [Sohrab Rohani](https://openalex.org/A5028846514), [Khairul Rostani](https://openalex.org/A5028065244), No host. None(None)] 2024.https://doi.org/10.2118/221884-ms.
+    
+Abstract With the net zero emission (NZE) commitment by 2050 following COP26 being pledged by country and industrial leaders, the technology focus for CCUS has shifted from high-CO2 gas field development to also include capturing CO2 from other industrial emission sources e.g. flaring and gas turbines. With the expanding scopes, careful consideration especially from process design perspective needs to be taken to ensure the overall CCUS conceptual design is techno-commercially feasible and viable to meet the CCUS end target and NZE aspiration in the long term. Process design intent shall start with the input-output specifications, where main input specifications would be looking at source or CCUS fluid (e.g. gas field/flare stack etc.) which will determine the type of CO2 capture technology required. Target output usage (storage/ utilization) will affect the tail-end process design, since both require different process setup. Other considerations would also be: (1) location (onshore vs offshore) which will affect the facilities network and logistics, (2) contaminants such as SOx and NOx which will determine other treatment requirements and affect the final use of the separated CO2-rich stream (utilization, storage strategy), and (3) material selection for the mixed contaminants stream. Depending on the concentration of CO2 in the source, a series of treatment steps may be required to get the optimum recovery for further utilization and storage. The presence of other contaminants is also discussed, which may affect the overall CCUS processes. Method to either utilize the separated CO2 stream or injection to reservoir for storage is also explored. An integrated approach is required to ensure a successful CCUS process design from start to end. Challenges and lesson-learnt from a conceptual CCUS system are analyzed including technology maturation, presence of other contaminants and final use of CO2-based products/storage. The technical and commercial aspects associated with each technology are also addressed. Key design elements are proposed with aspiration of a successful CCUS implementation in reducing future carbon footprint and realizing NZE aspiration and decarbonization goal, requiring planning for end-to-end solutions.    
 
     
 
