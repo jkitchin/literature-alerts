@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Tue Nov  5 01:19:19 2024
+Created on Wed Nov  6 01:19:03 2024
 
-Found 2 results from 2024-10-29 to 2024-11-05
+Found 2 results from 2024-10-30 to 2024-11-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 
@@ -17,12 +17,12 @@ No abstract
 
     
 
-## Enhanced casein organohydrogel coating with liquid metal catalyst for Electric leather sensor in Human-Machine interaction   
+## Liquid metal catalyst for ammonia synthesis at low pressure   
 
-OpenAlex: https://openalex.org/W4403847693    
+OpenAlex: https://openalex.org/W4404029071    
 Open access: False
     
-[Qunna Xu](https://openalex.org/A5051866211), [Zhenyang Li](https://openalex.org/A5001893388), [Jun Wang](https://openalex.org/A5111360250), [Jianzhong Ma](https://openalex.org/A5101605228), [Kai Yan](https://openalex.org/A5063084241), [Yan Zong](https://openalex.org/A5002958688), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.156841.
+[Ziyue Zeng](https://openalex.org/A5102257326), [Chenyang Wang](https://openalex.org/A5100424712), [Lei Fu](https://openalex.org/A5100608558), Science China Materials. None(None)] 2024.https://doi.org/10.1007/s40843-024-3161-x.
     
 No abstract    
 

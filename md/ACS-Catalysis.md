@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Nov  5 01:19:21 2024
+Created on Wed Nov  6 01:19:06 2024
 
-Found 30 results from 2024-10-29 to 2024-11-05
+Found 29 results from 2024-10-30 to 2024-11-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Closing the Loop of Cyclopolymerization of Nonconjugated α,ω-Diolefin Diasteroselectivity and α-Olefin Polymerization Enantioselectivity   
-
-OpenAlex: https://openalex.org/W4403839947    
-Open access: False
-    
-[Olga D’Anania](https://openalex.org/A5055775310), [Fabio De Stefano](https://openalex.org/A5016195389), [Claudio De Rosa](https://openalex.org/A5018216287), [Giovanni Talarico](https://openalex.org/A5038557532), [Rocco Di Girolamo](https://openalex.org/A5091538808), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05020.
-    
-No abstract    
-
-    
-
-## Stereodivergent Synthesis of Atropisomeric Indole-Fused δ-Lactams Bearing All-Carbon Quaternary Stereocenters via Cu-Catalyzed Desymmetric Arene Amidation   
-
-OpenAlex: https://openalex.org/W4403840106    
-Open access: False
-    
-[Bo‐Han Zhu](https://openalex.org/A5003125298), [Yu-Jie Ye](https://openalex.org/A5005757768), [Guanzhi Liu](https://openalex.org/A5017598569), [Shuyin Wu](https://openalex.org/A5008358823), [Xiu-Yuan Zou](https://openalex.org/A5101923165), [Long Li](https://openalex.org/A5100408757), [Chengzhe Huang](https://openalex.org/A5005688721), [Qing Sun](https://openalex.org/A5104687517), [Long‐Wu Ye](https://openalex.org/A5023229525), [Peng‐Cheng Qian](https://openalex.org/A5045982271), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04504.
-    
-No abstract    
-
-    
-
-## Defect-Rich Carbon-Blocked Delocalized Sulfur Quantum Dots for Efficient Catalytic Acetylene Hydrochlorination   
-
-OpenAlex: https://openalex.org/W4403852868    
-Open access: False
-    
-[Renqin Chang](https://openalex.org/A5070649067), [Guangyu Cheng](https://openalex.org/A5074788554), [Tao Feng](https://openalex.org/A5100724813), [Saisai Wang](https://openalex.org/A5039823100), [Jiale Huang](https://openalex.org/A5072722642), [Yu‐Chen Zhang](https://openalex.org/A5035797304), [Chunxiao Jin](https://openalex.org/A5003840280), [Yuxue Yue](https://openalex.org/A5110666562), [Yuxue Yue](https://openalex.org/A5041925870), [Xiao‐Nian Li](https://openalex.org/A5013409727), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04906.
-    
-No abstract    
-
-    
 
 ## Single-Atom Manganese-Based Catalysts for the Oxidative Dehydrogenation of Propane   
 
@@ -264,7 +231,7 @@ No abstract
 OpenAlex: https://openalex.org/W4403985663    
 Open access: False
     
-[Samuel Olusegun](https://openalex.org/A5087253043), [Yue Qi](https://openalex.org/A5100747624), [Nishithan C. Kani](https://openalex.org/A5030247905), [Meenesh R. Singh](https://openalex.org/A5003372467), [Joseph A. Gauthier](https://openalex.org/A5088579134), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05036.
+[Samuel Olusegun](https://openalex.org/A5087253043), [Yancun Qi](https://openalex.org/A5114506523), [Nishithan C. Kani](https://openalex.org/A5030247905), [Meenesh R. Singh](https://openalex.org/A5003372467), [Joseph A. Gauthier](https://openalex.org/A5088579134), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05036.
     
 No abstract    
 
@@ -331,6 +298,28 @@ OpenAlex: https://openalex.org/W4404003723
 Open access: False
     
 [Yong‐Yan Zhao](https://openalex.org/A5091153870), [Wenhe Yu](https://openalex.org/A5011808753), [Xiaoxuan Sun](https://openalex.org/A5001648744), [Hengshuo Huang](https://openalex.org/A5072093629), [Fengwang Li](https://openalex.org/A5089706752), [Mingchuan Luo](https://openalex.org/A5001987994), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05425.
+    
+No abstract    
+
+    
+
+## Rh(III)-Catalyzed Alkene Anti Nucleoamidation to Access Diverse Heterocycles   
+
+OpenAlex: https://openalex.org/W4404025625    
+Open access: False
+    
+[Noah Wagner-Carlberg](https://openalex.org/A5070149395), [Julia R. Dorsheimer](https://openalex.org/A5023228471), [Tomislav Rovis](https://openalex.org/A5074994681), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05499.
+    
+No abstract    
+
+    
+
+## Nickel-Catalyzed Atroposelective Reductive [2 + 4] Annulation toward Synthesis of Axially Chiral Biaryls   
+
+OpenAlex: https://openalex.org/W4404035036    
+Open access: False
+    
+[Yujia Mao](https://openalex.org/A5047697673), [Weitao Hu](https://openalex.org/A5033096539), [Chuan Wang](https://openalex.org/A5033753269), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06131.
     
 No abstract    
 

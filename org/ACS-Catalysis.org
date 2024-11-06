@@ -1,73 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Nov  5 01:19:21 2024
+Created on Wed Nov  6 01:19:06 2024
 
-Found 30 results from 2024-10-29 to 2024-11-05
+Found 29 results from 2024-10-30 to 2024-11-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Closing the Loop of Cyclopolymerization of Nonconjugated α,ω-Diolefin Diasteroselectivity and α-Olefin Polymerization Enantioselectivity  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403839947
-:TOPICS: Transition Metal Catalysis, Carbon Dioxide Utilization for Chemical Synthesis, Role of Fluorine in Medicinal Chemistry and Pharmaceuticals
-:PUBLICATION_DATE: 2024-10-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05020")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403839947"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403839947"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403839947"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403839947 (Open access: False)
-    
-[[https://openalex.org/A5055775310][Olga D’Anania]], [[https://openalex.org/A5016195389][Fabio De Stefano]], [[https://openalex.org/A5018216287][Claudio De Rosa]], [[https://openalex.org/A5038557532][Giovanni Talarico]], [[https://openalex.org/A5091538808][Rocco Di Girolamo]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05020 
-     
-No abstract    
-
-    
-
-* Stereodivergent Synthesis of Atropisomeric Indole-Fused δ-Lactams Bearing All-Carbon Quaternary Stereocenters via Cu-Catalyzed Desymmetric Arene Amidation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403840106
-:TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Asymmetric Catalysis, Chiroptical Spectroscopy in Organic Compound Analysis
-:PUBLICATION_DATE: 2024-10-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04504")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403840106"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403840106"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403840106"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403840106 (Open access: False)
-    
-[[https://openalex.org/A5003125298][Bo‐Han Zhu]], [[https://openalex.org/A5005757768][Yu-Jie Ye]], [[https://openalex.org/A5017598569][Guanzhi Liu]], [[https://openalex.org/A5008358823][Shuyin Wu]], [[https://openalex.org/A5101923165][Xiu-Yuan Zou]], [[https://openalex.org/A5100408757][Long Li]], [[https://openalex.org/A5005688721][Chengzhe Huang]], [[https://openalex.org/A5104687517][Qing Sun]], [[https://openalex.org/A5023229525][Long‐Wu Ye]], [[https://openalex.org/A5045982271][Peng‐Cheng Qian]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04504 
-     
-No abstract    
-
-    
-
-* Defect-Rich Carbon-Blocked Delocalized Sulfur Quantum Dots for Efficient Catalytic Acetylene Hydrochlorination  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403852868
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Porous Crystalline Organic Frameworks for Energy and Separation Applications, Innovations in Organic Synthesis Reactions
-:PUBLICATION_DATE: 2024-10-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04906")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403852868"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403852868"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403852868"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403852868 (Open access: False)
-    
-[[https://openalex.org/A5070649067][Renqin Chang]], [[https://openalex.org/A5074788554][Guangyu Cheng]], [[https://openalex.org/A5100724813][Tao Feng]], [[https://openalex.org/A5039823100][Saisai Wang]], [[https://openalex.org/A5072722642][Jiale Huang]], [[https://openalex.org/A5035797304][Yu‐Chen Zhang]], [[https://openalex.org/A5003840280][Chunxiao Jin]], [[https://openalex.org/A5110666562][Yuxue Yue]], [[https://openalex.org/A5041925870][Yuxue Yue]], [[https://openalex.org/A5013409727][Xiao‐Nian Li]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04906 
-     
-No abstract    
-
-    
 
 * Single-Atom Manganese-Based Catalysts for the Oxidative Dehydrogenation of Propane  :ACS_Catalysis:
 :PROPERTIES:
@@ -504,7 +441,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4403985663 (Open access: False)
     
-[[https://openalex.org/A5087253043][Samuel Olusegun]], [[https://openalex.org/A5100747624][Yue Qi]], [[https://openalex.org/A5030247905][Nishithan C. Kani]], [[https://openalex.org/A5003372467][Meenesh R. Singh]], [[https://openalex.org/A5088579134][Joseph A. Gauthier]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05036 
+[[https://openalex.org/A5087253043][Samuel Olusegun]], [[https://openalex.org/A5114506523][Yancun Qi]], [[https://openalex.org/A5030247905][Nishithan C. Kani]], [[https://openalex.org/A5003372467][Meenesh R. Singh]], [[https://openalex.org/A5088579134][Joseph A. Gauthier]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05036 
      
 No abstract    
 
@@ -631,6 +568,48 @@ No abstract
 OpenAlex: https://openalex.org/W4404003723 (Open access: False)
     
 [[https://openalex.org/A5091153870][Yong‐Yan Zhao]], [[https://openalex.org/A5011808753][Wenhe Yu]], [[https://openalex.org/A5001648744][Xiaoxuan Sun]], [[https://openalex.org/A5072093629][Hengshuo Huang]], [[https://openalex.org/A5089706752][Fengwang Li]], [[https://openalex.org/A5001987994][Mingchuan Luo]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05425 
+     
+No abstract    
+
+    
+
+* Rh(III)-Catalyzed Alkene Anti Nucleoamidation to Access Diverse Heterocycles  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404025625
+:TOPICS: Transition-Metal-Catalyzed C–H Bond Functionalization, Catalytic C-H Amination Reactions, Applications of Photoredox Catalysis in Organic Synthesis
+:PUBLICATION_DATE: 2024-11-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05499")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404025625"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404025625"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404025625"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404025625 (Open access: False)
+    
+[[https://openalex.org/A5070149395][Noah Wagner-Carlberg]], [[https://openalex.org/A5023228471][Julia R. Dorsheimer]], [[https://openalex.org/A5074994681][Tomislav Rovis]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05499 
+     
+No abstract    
+
+    
+
+* Nickel-Catalyzed Atroposelective Reductive [2 + 4] Annulation toward Synthesis of Axially Chiral Biaryls  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404035036
+:TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Chiroptical Spectroscopy in Organic Compound Analysis, Sphingolipid Signalling and Metabolism in Health and Disease
+:PUBLICATION_DATE: 2024-11-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06131")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404035036"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404035036"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404035036"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404035036 (Open access: False)
+    
+[[https://openalex.org/A5047697673][Yujia Mao]], [[https://openalex.org/A5033096539][Weitao Hu]], [[https://openalex.org/A5033753269][Chuan Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06131 
      
 No abstract    
 

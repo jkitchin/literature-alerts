@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Nov 2024 01:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 01:19:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Closing the Loop of Cyclopolymerization of Nonconjugated &#945;,&#969;-Diolefin Diasteroselectivity and &#945;-Olefin Polymerization Enantioselectivity</title>
-      <link>https://doi.org/10.1021/acscatal.4c05020</link>
-      <description>Olga D&#8217;Anania, Fabio De Stefano, Claudio De Rosa, Giovanni Talarico, Rocco Di Girolamo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403839947
-
-                No abstract</description>
-      <author>Olga D&#8217;Anania, Fabio De Stefano, Claudio De Rosa, Giovanni Talarico, Rocco Di Girolamo</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05020</guid>
-    </item>
-    <item>
-      <title>Stereodivergent Synthesis of Atropisomeric Indole-Fused &#948;-Lactams Bearing All-Carbon Quaternary Stereocenters via Cu-Catalyzed Desymmetric Arene Amidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c04504</link>
-      <description>Bo&#8208;Han Zhu, Yu-Jie Ye, Guanzhi Liu, Shuyin Wu, Xiu-Yuan Zou, Long Li, Chengzhe Huang, Qing Sun, Long&#8208;Wu Ye, Peng&#8208;Cheng Qian, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403840106
-
-                No abstract</description>
-      <author>Bo&#8208;Han Zhu, Yu-Jie Ye, Guanzhi Liu, Shuyin Wu, Xiu-Yuan Zou, Long Li, Chengzhe Huang, Qing Sun, Long&#8208;Wu Ye, Peng&#8208;Cheng Qian</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04504</guid>
-    </item>
-    <item>
-      <title>Defect-Rich Carbon-Blocked Delocalized Sulfur Quantum Dots for Efficient Catalytic Acetylene Hydrochlorination</title>
-      <link>https://doi.org/10.1021/acscatal.4c04906</link>
-      <description>Renqin Chang, Guangyu Cheng, Tao Feng, Saisai Wang, Jiale Huang, Yu&#8208;Chen Zhang, Chunxiao Jin, Yuxue Yue, Yuxue Yue, Xiao&#8208;Nian Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403852868
-
-                No abstract</description>
-      <author>Renqin Chang, Guangyu Cheng, Tao Feng, Saisai Wang, Jiale Huang, Yu&#8208;Chen Zhang, Chunxiao Jin, Yuxue Yue, Yuxue Yue, Xiao&#8208;Nian Li</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04906</guid>
-    </item>
     <item>
       <title>Single-Atom Manganese-Based Catalysts for the Oxidative Dehydrogenation of Propane</title>
       <link>https://doi.org/10.1021/acscatal.4c06021</link>
@@ -240,10 +210,10 @@
     <item>
       <title>Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides</title>
       <link>https://doi.org/10.1021/acscatal.4c05036</link>
-      <description>Samuel Olusegun, Yue Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403985663
+      <description>Samuel Olusegun, Yancun Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403985663
 
                 No abstract</description>
-      <author>Samuel Olusegun, Yue Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier</author>
+      <author>Samuel Olusegun, Yancun Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05036</guid>
     </item>
@@ -306,6 +276,26 @@
       <author>Yong&#8208;Yan Zhao, Wenhe Yu, Xiaoxuan Sun, Hengshuo Huang, Fengwang Li, Mingchuan Luo</author>
       <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05425</guid>
+    </item>
+    <item>
+      <title>Rh(III)-Catalyzed Alkene &lt;i&gt;Anti&lt;/i&gt; Nucleoamidation to Access Diverse Heterocycles</title>
+      <link>https://doi.org/10.1021/acscatal.4c05499</link>
+      <description>Noah Wagner-Carlberg, Julia R. Dorsheimer, Tomislav Rovis, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404025625
+
+                No abstract</description>
+      <author>Noah Wagner-Carlberg, Julia R. Dorsheimer, Tomislav Rovis</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05499</guid>
+    </item>
+    <item>
+      <title>Nickel-Catalyzed Atroposelective Reductive [2 + 4] Annulation toward Synthesis of Axially Chiral Biaryls</title>
+      <link>https://doi.org/10.1021/acscatal.4c06131</link>
+      <description>Yujia Mao, Weitao Hu, Chuan Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404035036
+
+                No abstract</description>
+      <author>Yujia Mao, Weitao Hu, Chuan Wang</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06131</guid>
     </item>
   </channel>
 </rss>

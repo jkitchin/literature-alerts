@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Nov  5 01:19:33 2024
+Created on Wed Nov  6 01:19:19 2024
 
-Found 53 results from 2024-10-29 to 2024-11-05
+Found 52 results from 2024-10-30 to 2024-11-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,72 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Microwave‐assisted control of PtNi nanoalloy clusters on the nitrogen‐doped graphene oxide for energy conversion with oxygen reduction reaction and hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403822209    
-Open access: True
-    
-[Seung Geun Jo](https://openalex.org/A5035663775), [Gil‐Ryeong Park](https://openalex.org/A5088301640), [Jemin Kim](https://openalex.org/A5102343205), [D. Ahn](https://openalex.org/A5070247489), [Rahul Ramkumar](https://openalex.org/A5111088310), [Sun‐I Kim](https://openalex.org/A5035332881), [Duck Hyun Lee](https://openalex.org/A5088066175), [Jung Woo Lee](https://openalex.org/A5106822982), EcoMat. None(None)] 2024.https://doi.org/10.1002/eom2.12499.
-    
-Abstract Research on the production and utilization of hydrogen energy is essential to overcome the environmental issues caused by fossil fuels. Herein, we anchor PtNi nanoalloy clusters (Pt‐Ni NACs) on nitrogen‐doped graphene oxide (NrGO) by a facile microwave‐assisted synthesis and analyze the variations of catalyst properties based on the PtNi composition and the presence of nitrogen. Ni inclusion in the Pt matrix can induce lattice strain and change the electronic structure, while the doped nitrogen into the graphene can enhance electron transfer and improve the durability of the catalyst through strong chemical bonding with the alloy clusters. TEM analysis discovers that the NACs are uniformly decorated in a few‐nanometer‐size on the graphene surface, and the formation of the PtNi NACs and structural changes according to composition are confirmed through XRD and XPS. In addition, the structural changes due to N‐doping and its bonding with the NACs are observed through Raman spectroscopy and XPS. Electrochemical measurements reveal that Pt 2.6 Ni NACs/NrGO exhibits the highest ORR onset potential (0.893 V) and the lowest HER overpotential at 10 mA cm −2 (22 mV) among other catalysts, and those activities are almost unchanged under long‐term durability tests. From these results, Pt 2.6 Ni NACs/NrGO is utilized in a zinc‐air battery (ZAB) system, demonstrating better battery performance than commercial Pt and Ir‐based catalysts. Moreover, it is applied to hydrogen collection, showing linear trend in hydrogen production over time, confirming the catalyst's availability in hydrogen production and utilization. image    
-
-    
-
-## Microbe-electrode interactions on biocathodes are facilitated through tip-enhanced electric fields during CO2-fed microbial electrosynthesis   
-
-OpenAlex: https://openalex.org/W4403825161    
-Open access: True
-    
-[Ning Xue](https://openalex.org/A5066116928), [Limin Liu](https://openalex.org/A5109555134), [Richen Lin](https://openalex.org/A5048915521), [Richard O’Shea](https://openalex.org/A5086440890), [Chen Deng](https://openalex.org/A5065783253), [Xiaoxu Xuan](https://openalex.org/A5019944425), [Rongxin Xia](https://openalex.org/A5063685793), [David Wall](https://openalex.org/A5012111425), [Jerry D. Murphy](https://openalex.org/A5012856715), Cell Reports Physical Science. None(None)] 2024.https://doi.org/10.1016/j.xcrp.2024.102262.
-    
-No abstract    
-
-    
-
-## The Swiss Army Knife of Electrodes: Pillar[6]arene‐Modified Electrodes for Molecular Electrocatalysis Over a Wide pH Range   
-
-OpenAlex: https://openalex.org/W4403848771    
-Open access: True
-    
-[Helena Roithmeyer](https://openalex.org/A5081466654), [Jan Bühler](https://openalex.org/A5056147444), [Olivier Blacque](https://openalex.org/A5041097915), [Isik Tuncay](https://openalex.org/A5080557579), [Thomas Moehl](https://openalex.org/A5027849717), [Cristiano Invernizzi](https://openalex.org/A5101665737), [Florian Keller](https://openalex.org/A5002112482), [Marcella Iannuzzi](https://openalex.org/A5037289525), [S. David Tilley](https://openalex.org/A5024625560), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202413144.
-    
-Abstract Molecularly‐modified electrode materials that maintain stability over a broad pH range are rare. Typically, each electrochemical transformation necessitates a specifically tuned system to achieve strong binding and high activity of the catalyst. Here, we report the functionalisation of mesoporous indium tin oxide (mITO) electrodes with the macrocyclic host molecule pillar[6]arene (PA[6]). These electrodes are stable within the pH range of 2.4–10.8 and can be equipped with electrochemically active ruthenium complexes through host–guest interactions to perform various oxidation reactions. Benzyl alcohol oxidation serves as a model reaction in acidic media, while ammonia oxidation is conducted to assess the systems performance under basic conditions. PA[6]‐modified electrodes demonstrate catalytic activity for both reactions when complexed to different guest molecules and can be reused by reabsorption of the catalyst after its degradation. Furthermore, the system can be employed to perform subsequent reactions in electrolyte with varying pH, enabling the same electrode to be utilised in multiple different electrocatalytic reactions.    
-
-    
-
-## The Swiss Army Knife of Electrodes: Pillar[6]arene‐Modified Electrodes for Molecular Electrocatalysis Over a Wide pH Range   
-
-OpenAlex: https://openalex.org/W4403848972    
-Open access: True
-    
-[Helena Roithmeyer](https://openalex.org/A5081466654), [Jan Bühler](https://openalex.org/A5056147444), [Olivier Blacque](https://openalex.org/A5041097915), [Isik Tuncay](https://openalex.org/A5080557579), [Thomas Moehl](https://openalex.org/A5027849717), [Cristiano Invernizzi](https://openalex.org/A5101665737), [Florian Keller](https://openalex.org/A5002112482), [Marcella Iannuzzi](https://openalex.org/A5037289525), [S. David Tilley](https://openalex.org/A5024625560), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202413144.
-    
-Abstract Molecularly‐modified electrode materials that maintain stability over a broad pH range are rare. Typically, each electrochemical transformation necessitates a specifically tuned system to achieve strong binding and high activity of the catalyst. Here, we report the functionalisation of mesoporous indium tin oxide (mITO) electrodes with the macrocyclic host molecule pillar[6]arene (PA[6]). These electrodes are stable within the pH range of 2.4–10.8 and can be equipped with electrochemically active ruthenium complexes through host–guest interactions to perform various oxidation reactions. Benzyl alcohol oxidation serves as a model reaction in acidic media, while ammonia oxidation is conducted to assess the systems performance under basic conditions. PA[6]‐modified electrodes demonstrate catalytic activity for both reactions when complexed to different guest molecules and can be reused by reabsorption of the catalyst after its degradation. Furthermore, the system can be employed to perform subsequent reactions in electrolyte with varying pH, enabling the same electrode to be utilised in multiple different electrocatalytic reactions.    
-
-    
-
-## Key Ingredients for the Modeling of Single‐Atom Electrocatalysts   
-
-OpenAlex: https://openalex.org/W4403849366    
-Open access: True
-    
-[Giovanni Di Liberto](https://openalex.org/A5087412983), [Gianfranco Pacchioni](https://openalex.org/A5018929838), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202400476.
-    
-Abstract Single‐atom catalysis is gaining interest also because of its potential applications in a broad spectrum of electrochemical reactions. The reactivity of single‐atom catalysts (SACs) is typically modeled with first principles approaches taking insight from heterogenous catalysis. An increasing number of studies show that the chemistry of SACs is more complex than often assumed, and shares many aspects in common with coordination chemistry. This evidence raises challenges for computational electrocatalysis of SACs. In this perspective we highlight a few fundamental ingredients that one need to consider to provide reliable predictions on the reactivity of SACs for electrochemical applications. We discuss the role of the local coordination of the metal active phase, the need to use self‐interaction corrected functionals, in particular when systems have magnetic ground states. We highlight the formation of unconventional intermediates with respect to classical metal electrodes, the need to include the stability of SACs in electrochemical conditions and the role of solvation in the analysis of new potential catalytic systems. This brief account can be considered as a tutorial underlining the importance of treating the reactivity of SACs. In fact, neglecting some of these aspects could lead to unreliable predictions failing in the design of new electrocatalysts.    
-
-    
-
-## Selective and durable H2O2 electrosynthesis catalyst in acid by selenization induced straining and phasing   
-
-OpenAlex: https://openalex.org/W4403852415    
-Open access: True
-    
-[Zhiyong Yu](https://openalex.org/A5049178644), [Hao Deng](https://openalex.org/A5102853392), [Qing Yao](https://openalex.org/A5062534899), [Liangqun Zhao](https://openalex.org/A5102582313), [Fei Xue](https://openalex.org/A5101422611), [Tianou He](https://openalex.org/A5033898446), [Zhiwei Hu](https://openalex.org/A5003964217), [Wei‐Hsiang Huang](https://openalex.org/A5078062437), [Chih‐Wen Pao](https://openalex.org/A5052311733), [Li‐Ming Yang](https://openalex.org/A5028695621), [Xiaoqing Huang](https://openalex.org/A5073869073), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53607-5.
-    
-Developing efficient electrocatalysts for acidic electrosynthesis of hydrogen peroxide (H2O2) holds considerable significance, while the selectivity and stability of most materials are compromised under acidic conditions. Herein, we demonstrate that constructing amorphous platinum–selenium (Pt–Se) shells on crystalline Pt cores can manipulate the oxygen reduction reaction (ORR) pathway to efficiently catalyze the electrosynthesis of H2O2 in acids. The Se2‒Pt nanoparticles, with optimized shell thickness, exhibit over 95% selectivity for H2O2 production, while suppressing its decomposition. In flow cell reactor, Se2‒Pt nanoparticles maintain current density of 250 mA cm−2 for 400 h, yielding a H2O2 concentration of 113.2 g L−1 with productivity of 4160.3 mmol gcat−1 h−1 for effective organic dye degradation. The constructed amorphous Pt–Se shell leads to desirable O2 adsorption mode for increased selectivity and induces strain for optimized OOH* binding, accelerating the reaction kinetics. This selenization approach is generalizable to other noble metals for tuning 2e‒ ORR pathway. Developing efficient catalysts for acidic electrosynthesis of H2O2 is desirable, while most materials are compromised in acidic conditions. Here, the authors report that constructing amorphous Pt–Se shells on crystalline Pt cores can regulate the reaction pathway to efficiently produce H2O2 in acid.    
-
-    
 
 ## Double-Shell Confinement Strategy Enhancing Durability of PtFeTi Intermetallic Catalysts for the Oxygen Reduction Reaction   
 
@@ -495,7 +429,7 @@ No abstract
 OpenAlex: https://openalex.org/W4403985663    
 Open access: False
     
-[Samuel Olusegun](https://openalex.org/A5087253043), [Yue Qi](https://openalex.org/A5100747624), [Nishithan C. Kani](https://openalex.org/A5030247905), [Meenesh R. Singh](https://openalex.org/A5003372467), [Joseph A. Gauthier](https://openalex.org/A5088579134), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05036.
+[Samuel Olusegun](https://openalex.org/A5087253043), [Yancun Qi](https://openalex.org/A5114506523), [Nishithan C. Kani](https://openalex.org/A5030247905), [Meenesh R. Singh](https://openalex.org/A5003372467), [Joseph A. Gauthier](https://openalex.org/A5088579134), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05036.
     
 No abstract    
 
@@ -530,7 +464,7 @@ Open access: True
     
 [Hao Ling](https://openalex.org/A5102660473), [Huacong Sun](https://openalex.org/A5081499443), [Lisha Lu](https://openalex.org/A5100969022), [Jingkun Zhang](https://openalex.org/A5052843240), [Lei Liao](https://openalex.org/A5101643931), [Jianlin Wang](https://openalex.org/A5100736608), [Xiaowei Zhang](https://openalex.org/A5100353428), [Yingying Lan](https://openalex.org/A5102018059), [Renjie Li](https://openalex.org/A5100442491), [Wengang Lu](https://openalex.org/A5042364296), [Lejuan Cai](https://openalex.org/A5073694478), [Xuedong Bai](https://openalex.org/A5077235314), [Wenlong Wang](https://openalex.org/A5100344691), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53896-w.
     
-No abstract    
+The direct utilization of solar energy for the artificial photosynthesis of hydrogen peroxide (H2O2) provides a reliable approach for producing this high-value green oxidant. Here we report on the utility of high-entropy oxide (HEO) semiconductor as an all-in-one photocatalyst for visible light-driven H2O2 production directly from H2O and atmospheric O2 without the need of any additional cocatalysts or sacrificial agents. This high-entropy photocatalyst contains eight earth-abundant metal elements (Ti/V/Cr/Nb/Mo/W/Al/Cu) homogeneously arranged within a single rutile phase, and the intrinsic chemical complexity along with the presence of a high density of oxygen vacancies endow high-entropy photocatalyst with distinct broadband light harvesting capability. An efficient H2O2 production rate with an apparent quantum yield of 38.8% at 550 nm can be achieved. The high-entropy photocatalyst can be readily assembled into floating artificial leaves for sustained on-site production of H2O2 from open water resources under natural sunlight irradiation. An "all-in-one" high-entropy semiconductor photocatalyst enables the photocatalytic production of H2O2 from H2O and O2 under visible light without any external cocatalysts or sacrificial agents    
 
     
 
@@ -553,6 +487,61 @@ Open access: False
 [Muhammad Zakwan Mohd Sahak](https://openalex.org/A5033238521), [Masniroszaime Md Zain](https://openalex.org/A5068586989), [Azila Alias](https://openalex.org/A5015143523), [Muhammad Yazid Bin Zulkifli](https://openalex.org/A5073127708), [Sohrab Rohani](https://openalex.org/A5028846514), [Khairul Rostani](https://openalex.org/A5028065244), No host. None(None)] 2024.https://doi.org/10.2118/221884-ms.
     
 Abstract With the net zero emission (NZE) commitment by 2050 following COP26 being pledged by country and industrial leaders, the technology focus for CCUS has shifted from high-CO2 gas field development to also include capturing CO2 from other industrial emission sources e.g. flaring and gas turbines. With the expanding scopes, careful consideration especially from process design perspective needs to be taken to ensure the overall CCUS conceptual design is techno-commercially feasible and viable to meet the CCUS end target and NZE aspiration in the long term. Process design intent shall start with the input-output specifications, where main input specifications would be looking at source or CCUS fluid (e.g. gas field/flare stack etc.) which will determine the type of CO2 capture technology required. Target output usage (storage/ utilization) will affect the tail-end process design, since both require different process setup. Other considerations would also be: (1) location (onshore vs offshore) which will affect the facilities network and logistics, (2) contaminants such as SOx and NOx which will determine other treatment requirements and affect the final use of the separated CO2-rich stream (utilization, storage strategy), and (3) material selection for the mixed contaminants stream. Depending on the concentration of CO2 in the source, a series of treatment steps may be required to get the optimum recovery for further utilization and storage. The presence of other contaminants is also discussed, which may affect the overall CCUS processes. Method to either utilize the separated CO2 stream or injection to reservoir for storage is also explored. An integrated approach is required to ensure a successful CCUS process design from start to end. Challenges and lesson-learnt from a conceptual CCUS system are analyzed including technology maturation, presence of other contaminants and final use of CO2-based products/storage. The technical and commercial aspects associated with each technology are also addressed. Key design elements are proposed with aspiration of a successful CCUS implementation in reducing future carbon footprint and realizing NZE aspiration and decarbonization goal, requiring planning for end-to-end solutions.    
+
+    
+
+## Margaret: Streamlining Research Productivity Analysis in Colombia with an R Package for GrupLAC Integration   
+
+OpenAlex: https://openalex.org/W4404027754    
+Open access: True
+    
+[Sebastián Robledo](https://openalex.org/A5065807756), [Bryan Arias](https://openalex.org/A5099106189), [C García](https://openalex.org/A5060984514), [Ingrid Durley Torres](https://openalex.org/A5062450951), [Martha Zuluaga](https://openalex.org/A5085239964), Issues in Science and Technology Librarianship. None(108)] 2024.https://doi.org/10.29173/istl2777.
+    
+Margaret is an advanced R package designed to systematically extract and consolidate data pertaining to research outputs (such as publications, books, book chapters, and conference presentations) of scientific groups from the GrupLAC platform, an online application managed by Minciencias in Colombia for the registration and updating of researcher and research group information in the fields of science, technology, and innovation. The challenge of monitoring and evaluating scientific production across various web platforms presents a substantial barrier to universities in tracking their contributions effectively. To address this challenge, Margaret accepts a designated list of links corresponding to university-affiliated research groups within GrupLAC. Utilizing web-scraping techniques, the package retrieves and compiles this data into a comprehensive XLSX file. This file encompasses information across 51 distinct categories of research products, enabling research directors to meticulously assess, monitor, and enhance various strategies that aim to augment the production, quality, and impact of scientific outputs. The Shiny application is publicly accessible and can be accessed via the following link: https://ucatolicaluisamigo-investigaciones.shinyapps.io/margaret/    
+
+    
+
+## Nucleotide coordinated polymers, a ROS-based immunomodulatory antimicrobial, doubly kill Pseudomonas aeruginosa biofilms of implant infections   
+
+OpenAlex: https://openalex.org/W4404028972    
+Open access: False
+    
+[Jinghuang Chen](https://openalex.org/A5002312094), [XiaoChen Tang](https://openalex.org/A5058226962), [Qihan Sun](https://openalex.org/A5065359067), [Xin Ji](https://openalex.org/A5045337635), [Xingbo Wang](https://openalex.org/A5100663086), [Zhendong Liu](https://openalex.org/A5100634502), [Xu Dong Zhang](https://openalex.org/A5072813429), [Hai-Jiao Xu](https://openalex.org/A5102223775), [Fan Yang](https://openalex.org/A5101411514), [Jian Sun](https://openalex.org/A5100428994), [Xiurong Yang](https://openalex.org/A5089150493), Bioactive Materials. 44(None)] 2024.https://doi.org/10.1016/j.bioactmat.2024.10.026.
+    
+No abstract    
+
+    
+
+## Point-defect-induced electronic polarization to enhance H* generation for removal of bisphenol A   
+
+OpenAlex: https://openalex.org/W4404029498    
+Open access: False
+    
+[Huajing Zhou](https://openalex.org/A5065742052), [T.J. Li](https://openalex.org/A5006253584), [F M Zhang](https://openalex.org/A5058651060), [Faze Chen](https://openalex.org/A5016826197), [Zilian Liu](https://openalex.org/A5021934241), [Rongrong Miao](https://openalex.org/A5101542092), [Qingqing Guan](https://openalex.org/A5022951306), [Lingxiang Zhao](https://openalex.org/A5101298125), [Liang He](https://openalex.org/A5081569981), Renewable Energy. None(None)] 2024.https://doi.org/10.1016/j.renene.2024.121814.
+    
+No abstract    
+
+    
+
+## Microenvironment regulation to synthesize sub-3 nm Pt-based high-entropy alloy nanoparticles enabling compressed lattice to boost electrocatalysis   
+
+OpenAlex: https://openalex.org/W4404032861    
+Open access: False
+    
+[Zhiyin Huang](https://openalex.org/A5102907838), [Yuqin Peng](https://openalex.org/A5091031730), [Lixin Xing](https://openalex.org/A5102611717), [M. Xu](https://openalex.org/A5000314937), [Meng Fang](https://openalex.org/A5062822344), [Huiqi Xie](https://openalex.org/A5090943778), [Jiamin Li](https://openalex.org/A5100730420), [Yangdong Zhou](https://openalex.org/A5060114892), [Puwei Wu](https://openalex.org/A5112882330), [Ning Wang](https://openalex.org/A5100387097), [Chunmei Tang](https://openalex.org/A5049507054), [Mingjie Wu](https://openalex.org/A5000272762), [Liguang Wang](https://openalex.org/A5019056876), [Siyu Ye](https://openalex.org/A5010821432), [Lei Du](https://openalex.org/A5050325200), Applied Catalysis B Environment and Energy. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124775.
+    
+No abstract    
+
+    
+
+## Highly Accurate and Robust Constraint-Based Orbital-Optimized Core Excitations   
+
+OpenAlex: https://openalex.org/W4404033915    
+Open access: True
+    
+[Yannick Lemke](https://openalex.org/A5070510745), [Jörg Kußmann](https://openalex.org/A5065391607), [Christian Ochsenfeld](https://openalex.org/A5015872488), The Journal of Physical Chemistry A. None(None)] 2024.https://doi.org/10.1021/acs.jpca.4c04139 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpca.4c04139?ref=article_openPDF)).
+    
+No abstract    
 
     
 

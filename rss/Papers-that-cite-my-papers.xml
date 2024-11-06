@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Nov 2024 01:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 01:19:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Microwave&#8208;assisted control of Pt&#63743;Ni nanoalloy clusters on the nitrogen&#8208;doped graphene oxide for energy conversion with oxygen reduction reaction and hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1002/eom2.12499</link>
-      <description>Seung Geun Jo, Gil&#8208;Ryeong Park, Jemin Kim, D. Ahn, Rahul Ramkumar, Sun&#8208;I Kim, Duck Hyun Lee, Jung Woo Lee, EcoMat. None(None)] 2024. https://openalex.org/W4403822209
-
-                Abstract Research on the production and utilization of hydrogen energy is essential to overcome the environmental issues caused by fossil fuels. Herein, we anchor Pt&#63743;Ni nanoalloy clusters (Pt&#8208;Ni NACs) on nitrogen&#8208;doped graphene oxide (NrGO) by a facile microwave&#8208;assisted synthesis and analyze the variations of catalyst properties based on the Pt&#63743;Ni composition and the presence of nitrogen. Ni inclusion in the Pt matrix can induce lattice strain and change the electronic structure, while the doped nitrogen into the graphene can enhance electron transfer and improve the durability of the catalyst through strong chemical bonding with the alloy clusters. TEM analysis discovers that the NACs are uniformly decorated in a few&#8208;nanometer&#8208;size on the graphene surface, and the formation of the Pt&#63743;Ni NACs and structural changes according to composition are confirmed through XRD and XPS. In addition, the structural changes due to N&#8208;doping and its bonding with the NACs are observed through Raman spectroscopy and XPS. Electrochemical measurements reveal that Pt 2.6 Ni NACs/NrGO exhibits the highest ORR onset potential (0.893 V) and the lowest HER overpotential at 10 mA cm &#8722;2 (22 mV) among other catalysts, and those activities are almost unchanged under long&#8208;term durability tests. From these results, Pt 2.6 Ni NACs/NrGO is utilized in a zinc&#8208;air battery (ZAB) system, demonstrating better battery performance than commercial Pt and Ir&#8208;based catalysts. Moreover, it is applied to hydrogen collection, showing linear trend in hydrogen production over time, confirming the catalyst's availability in hydrogen production and utilization. image</description>
-      <author>Seung Geun Jo, Gil&#8208;Ryeong Park, Jemin Kim, D. Ahn, Rahul Ramkumar, Sun&#8208;I Kim, Duck Hyun Lee, Jung Woo Lee</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/eom2.12499</guid>
-    </item>
-    <item>
-      <title>Microbe-electrode interactions on biocathodes are facilitated through tip-enhanced electric fields during CO2-fed microbial electrosynthesis</title>
-      <link>https://doi.org/10.1016/j.xcrp.2024.102262</link>
-      <description>Ning Xue, Limin Liu, Richen Lin, Richard O&#8217;Shea, Chen Deng, Xiaoxu Xuan, Rongxin Xia, David Wall, Jerry D. Murphy, Cell Reports Physical Science. None(None)] 2024. https://openalex.org/W4403825161
-
-                No abstract</description>
-      <author>Ning Xue, Limin Liu, Richen Lin, Richard O&#8217;Shea, Chen Deng, Xiaoxu Xuan, Rongxin Xia, David Wall, Jerry D. Murphy</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.xcrp.2024.102262</guid>
-    </item>
-    <item>
-      <title>The Swiss Army Knife of Electrodes: Pillar[6]arene&#8208;Modified Electrodes for Molecular Electrocatalysis Over a Wide pH Range</title>
-      <link>https://doi.org/10.1002/ange.202413144</link>
-      <description>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4403848771
-
-                Abstract Molecularly&#8208;modified electrode materials that maintain stability over a broad pH range are rare. Typically, each electrochemical transformation necessitates a specifically tuned system to achieve strong binding and high activity of the catalyst. Here, we report the functionalisation of mesoporous indium tin oxide (mITO) electrodes with the macrocyclic host molecule pillar[6]arene (PA[6]). These electrodes are stable within the pH range of 2.4&#8211;10.8 and can be equipped with electrochemically active ruthenium complexes through host&#8211;guest interactions to perform various oxidation reactions. Benzyl alcohol oxidation serves as a model reaction in acidic media, while ammonia oxidation is conducted to assess the systems performance under basic conditions. PA[6]&#8208;modified electrodes demonstrate catalytic activity for both reactions when complexed to different guest molecules and can be reused by reabsorption of the catalyst after its degradation. Furthermore, the system can be employed to perform subsequent reactions in electrolyte with varying pH, enabling the same electrode to be utilised in multiple different electrocatalytic reactions.</description>
-      <author>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202413144</guid>
-    </item>
-    <item>
-      <title>The Swiss Army Knife of Electrodes: Pillar[6]arene&#8208;Modified Electrodes for Molecular Electrocatalysis Over a Wide pH Range</title>
-      <link>https://doi.org/10.1002/anie.202413144</link>
-      <description>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4403848972
-
-                Abstract Molecularly&#8208;modified electrode materials that maintain stability over a broad pH range are rare. Typically, each electrochemical transformation necessitates a specifically tuned system to achieve strong binding and high activity of the catalyst. Here, we report the functionalisation of mesoporous indium tin oxide (mITO) electrodes with the macrocyclic host molecule pillar[6]arene (PA[6]). These electrodes are stable within the pH range of 2.4&#8211;10.8 and can be equipped with electrochemically active ruthenium complexes through host&#8211;guest interactions to perform various oxidation reactions. Benzyl alcohol oxidation serves as a model reaction in acidic media, while ammonia oxidation is conducted to assess the systems performance under basic conditions. PA[6]&#8208;modified electrodes demonstrate catalytic activity for both reactions when complexed to different guest molecules and can be reused by reabsorption of the catalyst after its degradation. Furthermore, the system can be employed to perform subsequent reactions in electrolyte with varying pH, enabling the same electrode to be utilised in multiple different electrocatalytic reactions.</description>
-      <author>Helena Roithmeyer, Jan B&#252;hler, Olivier Blacque, Isik Tuncay, Thomas Moehl, Cristiano Invernizzi, Florian Keller, Marcella Iannuzzi, S. David Tilley</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202413144</guid>
-    </item>
-    <item>
-      <title>Key Ingredients for the Modeling of Single&#8208;Atom Electrocatalysts</title>
-      <link>https://doi.org/10.1002/celc.202400476</link>
-      <description>Giovanni Di Liberto, Gianfranco Pacchioni, ChemElectroChem. None(None)] 2024. https://openalex.org/W4403849366
-
-                Abstract Single&#8208;atom catalysis is gaining interest also because of its potential applications in a broad spectrum of electrochemical reactions. The reactivity of single&#8208;atom catalysts (SACs) is typically modeled with first principles approaches taking insight from heterogenous catalysis. An increasing number of studies show that the chemistry of SACs is more complex than often assumed, and shares many aspects in common with coordination chemistry. This evidence raises challenges for computational electrocatalysis of SACs. In this perspective we highlight a few fundamental ingredients that one need to consider to provide reliable predictions on the reactivity of SACs for electrochemical applications. We discuss the role of the local coordination of the metal active phase, the need to use self&#8208;interaction corrected functionals, in particular when systems have magnetic ground states. We highlight the formation of unconventional intermediates with respect to classical metal electrodes, the need to include the stability of SACs in electrochemical conditions and the role of solvation in the analysis of new potential catalytic systems. This brief account can be considered as a tutorial underlining the importance of treating the reactivity of SACs. In fact, neglecting some of these aspects could lead to unreliable predictions failing in the design of new electrocatalysts.</description>
-      <author>Giovanni Di Liberto, Gianfranco Pacchioni</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/celc.202400476</guid>
-    </item>
-    <item>
-      <title>Selective and durable H2O2 electrosynthesis catalyst in acid by selenization induced straining and phasing</title>
-      <link>https://doi.org/10.1038/s41467-024-53607-5</link>
-      <description>Zhiyong Yu, Hao Deng, Qing Yao, Liangqun Zhao, Fei Xue, Tianou He, Zhiwei Hu, Wei&#8208;Hsiang Huang, Chih&#8208;Wen Pao, Li&#8208;Ming Yang, Xiaoqing Huang, Nature Communications. 15(1)] 2024. https://openalex.org/W4403852415
-
-                Developing efficient electrocatalysts for acidic electrosynthesis of hydrogen peroxide (H2O2) holds considerable significance, while the selectivity and stability of most materials are compromised under acidic conditions. Herein, we demonstrate that constructing amorphous platinum&#8211;selenium (Pt&#8211;Se) shells on crystalline Pt cores can manipulate the oxygen reduction reaction (ORR) pathway to efficiently catalyze the electrosynthesis of H2O2 in acids. The Se2&#8210;Pt nanoparticles, with optimized shell thickness, exhibit over 95% selectivity for H2O2 production, while suppressing its decomposition. In flow cell reactor, Se2&#8210;Pt nanoparticles maintain current density of 250 mA cm&#8722;2 for 400 h, yielding a H2O2 concentration of 113.2 g L&#8722;1 with productivity of 4160.3 mmol gcat&#8722;1 h&#8722;1 for effective organic dye degradation. The constructed amorphous Pt&#8211;Se shell leads to desirable O2 adsorption mode for increased selectivity and induces strain for optimized OOH* binding, accelerating the reaction kinetics. This selenization approach is generalizable to other noble metals for tuning 2e&#8210; ORR pathway. Developing efficient catalysts for acidic electrosynthesis of H2O2 is desirable, while most materials are compromised in acidic conditions. Here, the authors report that constructing amorphous Pt&#8211;Se shells on crystalline Pt cores can regulate the reaction pathway to efficiently produce H2O2 in acid.</description>
-      <author>Zhiyong Yu, Hao Deng, Qing Yao, Liangqun Zhao, Fei Xue, Tianou He, Zhiwei Hu, Wei&#8208;Hsiang Huang, Chih&#8208;Wen Pao, Li&#8208;Ming Yang, Xiaoqing Huang</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53607-5</guid>
-    </item>
     <item>
       <title>Double-Shell Confinement Strategy Enhancing Durability of PtFeTi Intermetallic Catalysts for the Oxygen Reduction Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c04779</link>
@@ -440,10 +380,10 @@
     <item>
       <title>Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides</title>
       <link>https://doi.org/10.1021/acscatal.4c05036</link>
-      <description>Samuel Olusegun, Yue Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403985663
+      <description>Samuel Olusegun, Yancun Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403985663
 
                 No abstract</description>
-      <author>Samuel Olusegun, Yue Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier</author>
+      <author>Samuel Olusegun, Yancun Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05036</guid>
     </item>
@@ -472,7 +412,7 @@
       <link>https://doi.org/10.1038/s41467-024-53896-w</link>
       <description>Hao Ling, Huacong Sun, Lisha Lu, Jingkun Zhang, Lei Liao, Jianlin Wang, Xiaowei Zhang, Yingying Lan, Renjie Li, Wengang Lu, Lejuan Cai, Xuedong Bai, Wenlong Wang, Nature Communications. 15(1)] 2024. https://openalex.org/W4404010700
 
-                No abstract</description>
+                The direct utilization of solar energy for the artificial photosynthesis of hydrogen peroxide (H2O2) provides a reliable approach for producing this high-value green oxidant. Here we report on the utility of high-entropy oxide (HEO) semiconductor as an all-in-one photocatalyst for visible light-driven H2O2 production directly from H2O and atmospheric O2 without the need of any additional cocatalysts or sacrificial agents. This high-entropy photocatalyst contains eight earth-abundant metal elements (Ti/V/Cr/Nb/Mo/W/Al/Cu) homogeneously arranged within a single rutile phase, and the intrinsic chemical complexity along with the presence of a high density of oxygen vacancies endow high-entropy photocatalyst with distinct broadband light harvesting capability. An efficient H2O2 production rate with an apparent quantum yield of 38.8% at 550 nm can be achieved. The high-entropy photocatalyst can be readily assembled into floating artificial leaves for sustained on-site production of H2O2 from open water resources under natural sunlight irradiation. An "all-in-one" high-entropy semiconductor photocatalyst enables the photocatalytic production of H2O2 from H2O and O2 under visible light without any external cocatalysts or sacrificial agents</description>
       <author>Hao Ling, Huacong Sun, Lisha Lu, Jingkun Zhang, Lei Liao, Jianlin Wang, Xiaowei Zhang, Yingying Lan, Renjie Li, Wengang Lu, Lejuan Cai, Xuedong Bai, Wenlong Wang</author>
       <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53896-w</guid>
@@ -496,6 +436,56 @@
       <author>Muhammad Zakwan Mohd Sahak, Masniroszaime Md Zain, Azila Alias, Muhammad Yazid Bin Zulkifli, Sohrab Rohani, Khairul Rostani</author>
       <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2118/221884-ms</guid>
+    </item>
+    <item>
+      <title>Margaret: Streamlining Research Productivity Analysis in Colombia with an R Package for GrupLAC Integration</title>
+      <link>https://doi.org/10.29173/istl2777</link>
+      <description>Sebasti&#225;n Robledo, Bryan Arias, C Garc&#237;a, Ingrid Durley Torres, Martha Zuluaga, Issues in Science and Technology Librarianship. None(108)] 2024. https://openalex.org/W4404027754
+
+                Margaret is an advanced R package designed to systematically extract and consolidate data pertaining to research outputs (such as publications, books, book chapters, and conference presentations) of scientific groups from the GrupLAC platform, an online application managed by Minciencias in Colombia for the registration and updating of researcher and research group information in the fields of science, technology, and innovation. The challenge of monitoring and evaluating scientific production across various web platforms presents a substantial barrier to universities in tracking their contributions effectively. To address this challenge, Margaret accepts a designated list of links corresponding to university-affiliated research groups within GrupLAC. Utilizing web-scraping techniques, the package retrieves and compiles this data into a comprehensive XLSX file. This file encompasses information across 51 distinct categories of research products, enabling research directors to meticulously assess, monitor, and enhance various strategies that aim to augment the production, quality, and impact of scientific outputs. The Shiny application is publicly accessible and can be accessed via the following link: https://ucatolicaluisamigo-investigaciones.shinyapps.io/margaret/</description>
+      <author>Sebasti&#225;n Robledo, Bryan Arias, C Garc&#237;a, Ingrid Durley Torres, Martha Zuluaga</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.29173/istl2777</guid>
+    </item>
+    <item>
+      <title>Nucleotide coordinated polymers, a ROS-based immunomodulatory antimicrobial, doubly kill Pseudomonas aeruginosa biofilms of implant infections</title>
+      <link>https://doi.org/10.1016/j.bioactmat.2024.10.026</link>
+      <description>Jinghuang Chen, XiaoChen Tang, Qihan Sun, Xin Ji, Xingbo Wang, Zhendong Liu, Xu Dong Zhang, Hai-Jiao Xu, Fan Yang, Jian Sun, Xiurong Yang, Bioactive Materials. 44(None)] 2024. https://openalex.org/W4404028972
+
+                No abstract</description>
+      <author>Jinghuang Chen, XiaoChen Tang, Qihan Sun, Xin Ji, Xingbo Wang, Zhendong Liu, Xu Dong Zhang, Hai-Jiao Xu, Fan Yang, Jian Sun, Xiurong Yang</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.bioactmat.2024.10.026</guid>
+    </item>
+    <item>
+      <title>Point-defect-induced electronic polarization to enhance H* generation for removal of bisphenol A</title>
+      <link>https://doi.org/10.1016/j.renene.2024.121814</link>
+      <description>Huajing Zhou, T.J. Li, F M Zhang, Faze Chen, Zilian Liu, Rongrong Miao, Qingqing Guan, Lingxiang Zhao, Liang He, Renewable Energy. None(None)] 2024. https://openalex.org/W4404029498
+
+                No abstract</description>
+      <author>Huajing Zhou, T.J. Li, F M Zhang, Faze Chen, Zilian Liu, Rongrong Miao, Qingqing Guan, Lingxiang Zhao, Liang He</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2024.121814</guid>
+    </item>
+    <item>
+      <title>Microenvironment regulation to synthesize sub-3 nm Pt-based high-entropy alloy nanoparticles enabling compressed lattice to boost electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124775</link>
+      <description>Zhiyin Huang, Yuqin Peng, Lixin Xing, M. Xu, Meng Fang, Huiqi Xie, Jiamin Li, Yangdong Zhou, Puwei Wu, Ning Wang, Chunmei Tang, Mingjie Wu, Liguang Wang, Siyu Ye, Lei Du, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404032861
+
+                No abstract</description>
+      <author>Zhiyin Huang, Yuqin Peng, Lixin Xing, M. Xu, Meng Fang, Huiqi Xie, Jiamin Li, Yangdong Zhou, Puwei Wu, Ning Wang, Chunmei Tang, Mingjie Wu, Liguang Wang, Siyu Ye, Lei Du</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124775</guid>
+    </item>
+    <item>
+      <title>Highly Accurate and Robust Constraint-Based Orbital-Optimized Core Excitations</title>
+      <link>https://doi.org/10.1021/acs.jpca.4c04139</link>
+      <description>Yannick Lemke, J&#246;rg Ku&#223;mann, Christian Ochsenfeld, The Journal of Physical Chemistry A. None(None)] 2024. https://openalex.org/W4404033915
+
+                No abstract</description>
+      <author>Yannick Lemke, J&#246;rg Ku&#223;mann, Christian Ochsenfeld</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c04139</guid>
     </item>
     <item>
       <title>Application of graph neural network in computational heterogeneous catalysis</title>
