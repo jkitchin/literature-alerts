@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Nov 2024 01:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 01:20:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Double-Shell Confinement Strategy Enhancing Durability of PtFeTi Intermetallic Catalysts for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04779</link>
-      <description>Chen Sumin, Lai-Ke Chen, Na Tian, Sheng-Nan Hu, Shuangli Yang, Jun&#8208;Fei Shen, Jing-Xiao Tang, De&#8208;Yin Wu, Mingshu Chen, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403869883
-
-                No abstract</description>
-      <author>Chen Sumin, Lai-Ke Chen, Na Tian, Sheng-Nan Hu, Shuangli Yang, Jun&#8208;Fei Shen, Jing-Xiao Tang, De&#8208;Yin Wu, Mingshu Chen, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04779</guid>
-    </item>
-    <item>
-      <title>Elastic constants from charge density distribution in FCC high-entropy alloys using CNN and DFT</title>
-      <link>https://doi.org/10.1063/5.0229105</link>
-      <description>Hossein Mirzaee, Ramin Soltanmohammadi, Nathan Linton, J. FISCHER, Serveh Kamrava, Pejman Tahmasebi, Dilpuneet S. Aidhy, APL Machine Learning. 2(4)] 2024. https://openalex.org/W4403871417
-
-                While high-entropy alloys (HEAs) present exponentially large compositional space for alloy design, they also create enormous computational challenges to trace the compositional space, especially for the inherently expensive density functional theory calculations (DFT). Recent works have integrated machine learning into DFT to overcome these challenges. However, often these models require an intensive search of appropriate physics-based descriptors. In this paper, we employ a 3D convolutional neural network over just one descriptor, i.e., the charge density derived from DFT, to simplify and bypass the hunt for the descriptors. We show that the elastic constants of face-centered cubic multi-elemental alloys in the Ni&#8211;Cu&#8211;Au&#8211;Pd&#8211;Pt system can be predicted from charge density. In addition, using our recent PREDICT approach, we show that the model can be trained only on the charge densities of simpler binary and ternary alloys to effectively predict elastic constants in complex multi-elemental alloys, thereby further enabling easier property-tracing in the large compositional space of HEAs.</description>
-      <author>Hossein Mirzaee, Ramin Soltanmohammadi, Nathan Linton, J. FISCHER, Serveh Kamrava, Pejman Tahmasebi, Dilpuneet S. Aidhy</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0229105</guid>
-    </item>
-    <item>
-      <title>Electrochemical Formation of C&lt;sub&gt;2+&lt;/sub&gt; Products Steered by Bridge-Bonded *CO Confined by *OH Domains</title>
-      <link>https://doi.org/10.1021/jacs.4c08755</link>
-      <description>Haibin Ma, Enric Ib&#225;&#241;ez-Al&#233;, Futian You, N&#250;ria Lop&#233;z, Boon Siang Yeo, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4403879378
-
-                During the electrochemical CO2 reduction reaction (eCO2RR) on copper catalysts, linear-bonded CO (*COL) is commonly regarded as the key intermediate for the CO-CO coupling step, which leads to the formation of multicarbon products. In this work, we unveil the significant role of bridge-bonded *CO (*COB) as an active species. By combining in situ Raman spectroscopy, gas and liquid chromatography, and density functional theory (DFT) simulations, we show that adsorbed *OH domains displace *COL to *COB. The electroreduction of a 12CO+13CO2 cofeed demonstrates that *COB distinctly favors the production of acetate and 1-propanol, while *COL favors ethylene and ethanol formation. This work enhances our understanding of the mechanistic intricacies of eCO(2)RR and suggests new directions for designing operational conditions by modifying the competitive adsorption of surface species, thereby steering the reaction toward specific multicarbon products.</description>
-      <author>Haibin Ma, Enric Ib&#225;&#241;ez-Al&#233;, Futian You, N&#250;ria Lop&#233;z, Boon Siang Yeo</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08755</guid>
-    </item>
     <item>
       <title>Structural and compositional optimization of bimetallic NiCo alloy nanoparticles for promotion of alkaline hydrogen evolution reaction</title>
       <link>https://doi.org/10.1016/j.jpowsour.2024.235641</link>
@@ -482,10 +452,110 @@
       <link>https://doi.org/10.1021/acs.jpca.4c04139</link>
       <description>Yannick Lemke, J&#246;rg Ku&#223;mann, Christian Ochsenfeld, The Journal of Physical Chemistry A. None(None)] 2024. https://openalex.org/W4404033915
 
-                No abstract</description>
+                We adapt our recently developed constraint-based orbital-optimized excited-state method (COOX) for the computation of core excitations. COOX is a constrained density functional theory (cDFT) approach based on excitation amplitudes from linear-response time-dependent DFT (LR-TDDFT), and has been shown to provide accurate excitation energies and excited-state properties for valence excitations within a spin-restricted formalism. To extend COOX to core-excited states, we introduce a spin-unrestricted variant which allows us to obtain orbital-optimized core excitations with a single constraint. Using a triplet purification scheme in combination with the constrained unrestricted Hartree&#8211;Fock formalism, scalar-relativistic zero-order regular approximation corrections, and a semiempirical treatment of spin&#8211;orbit coupling, COOX is shown to produce highly accurate results for K- and L-edge excitations of second- and third-period atoms with subelectronvolt errors despite being based on LR-TDDFT, for which core excitations pose a well-known challenge. L- and M-edge excitations of heavier atoms up to uranium are also computationally feasible and numerically stable, but may require more advanced treatment of relativistic effects. Furthermore, COOX is shown to perform on par with or better than the popular &#916;SCF approach while exhibiting more robust convergence, highlighting it as a promising tool for inexpensive and accurate simulations of X-ray absorption spectra.</description>
       <author>Yannick Lemke, J&#246;rg Ku&#223;mann, Christian Ochsenfeld</author>
       <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c04139</guid>
+    </item>
+    <item>
+      <title>Microenvironment Control over Electrocatalytic Activity of g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;/2H-MoS&lt;sub&gt;2&lt;/sub&gt; Superlattice-like Heterostructures for Hydrogen Evolution</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.4c03492</link>
+      <description>Xiaorong Gan, Liqun Ye, Huimin Zhao, Dangyuan Lei, Yanhui Ao, Dan Zhao, Peifang Wang, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4404043326
+
+                Microenvironments in heterogeneous catalysis have been recognized as equally important as the types and amounts of active sites for regulating catalytic activity. Two-dimensional (2D) nanospaces between van der Waals (vdW) gaps of layered materials provide an ideal microenvironment to create novel functionalities. Here, we explore a facile method for fabricating g-C3N4/2H-MoS2 superlattice-like heterostructures based on thermochemical intercalation and polymerization reactions of formamide within enlarged vdW gaps of 2H-MoS2 nanosheets without any transfer process. DFT calculations demonstrate that the interlayer electron&#8211;electron correlations due to the intercalation effect of g-C3N4, rather than high-&#954; dielectric environments, lead to the improvement of intrinsic conductivity of 2H-MoS2 nanosheets. As the proof of concept in applications for the electrocatalysis field, the heterostructure for hydrogen electrochemical reaction (HER) exhibits high stability and catalytic activity in both acid and alkaline media, such as a quite low onset overpotential of 98 mV, a high exchange current density of 77.6 &#956;A cm&#8211;2, and a small Tafel slope (52.9 mV dec&#8211;1) in an acid medium. The enhanced HER activity is attributed to the improved conductivity and nanoconfinement effect of 2D nanospaces that decrease the reaction activation energy and activate the inert basal planes.</description>
+      <author>Xiaorong Gan, Liqun Ye, Huimin Zhao, Dangyuan Lei, Yanhui Ao, Dan Zhao, Peifang Wang</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03492</guid>
+    </item>
+    <item>
+      <title>Prediction of CO&lt;sub&gt;2&lt;/sub&gt; Storage in Different Geological Conditions Based on Machine Learning</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.4c04274</link>
+      <description>Ming Liu, Zhen Li, Qi Jing, Ying Meng, Jixian Zhou, Mingcheng Ni, Xianmin Zhou, Hao Chen, Energy &amp; Fuels. None(None)] 2024. https://openalex.org/W4404048617
+
+                No abstract</description>
+      <author>Ming Liu, Zhen Li, Qi Jing, Ying Meng, Jixian Zhou, Mingcheng Ni, Xianmin Zhou, Hao Chen</author>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c04274</guid>
+    </item>
+    <item>
+      <title>Prediction of Holey Graphyne-Supported Single Atom Catalyst for Nitrogen Reduction Reaction by Interpretable Machine Learning and First-Principles Calculations</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105401</link>
+      <description>Dian Zheng, Fei Deng, Jing Xu, Wei Liu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4404060333
+
+                No abstract</description>
+      <author>Dian Zheng, Fei Deng, Jing Xu, Wei Liu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105401</guid>
+    </item>
+    <item>
+      <title>Atomic catalysis meets heterostructure synergy: Unveiling the trifunctional efficacy of transition Metal@WS2/ReSe2</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.10.377</link>
+      <description>Xudong Hu, Jingyi Shang, Shuang Li, Jun Long, Shi&#8208;Bo Cheng, Saad Ahmed, Sheng Wang, Usman Farooq, International Journal of Hydrogen Energy. 93(None)] 2024. https://openalex.org/W4404060959
+
+                No abstract</description>
+      <author>Xudong Hu, Jingyi Shang, Shuang Li, Jun Long, Shi&#8208;Bo Cheng, Saad Ahmed, Sheng Wang, Usman Farooq</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.377</guid>
+    </item>
+    <item>
+      <title>High-valence Co deposition based on selfcatalysis of lattice Mn doping for robust acid water oxidation</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.10.043</link>
+      <description>Ning Yu, Fuli Wang, Xinying Jiang, Jin&#8208;Long Tan, Mirabbos Hojamberdiev, Han Hu, Yong&#8208;Ming Chai, Bin Dong, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4404061006
+
+                No abstract</description>
+      <author>Ning Yu, Fuli Wang, Xinying Jiang, Jin&#8208;Long Tan, Mirabbos Hojamberdiev, Han Hu, Yong&#8208;Ming Chai, Bin Dong</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.10.043</guid>
+    </item>
+    <item>
+      <title>N-doped porous graphite with multilevel pore defects and ultra-high conductivity anchoring Pt nanoparticles for proton exchange membrane water electrolyzers</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.10.041</link>
+      <description>Yu Hao, Dongfang Chen, Guangxin Yang, Song Hu, Shunyu Wang, Pucheng Pei, Jinkai Hao, Xiaoming Xu, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4404061024
+
+                No abstract</description>
+      <author>Yu Hao, Dongfang Chen, Guangxin Yang, Song Hu, Shunyu Wang, Pucheng Pei, Jinkai Hao, Xiaoming Xu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.10.041</guid>
+    </item>
+    <item>
+      <title>A Bond-Based Machine Learning Model for Molecular Polarizabilities and A Priori Raman Spectra</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c01086</link>
+      <description>Jakub K. Sowa, Peter J. Rossky, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4404061157
+
+                No abstract</description>
+      <author>Jakub K. Sowa, Peter J. Rossky</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01086</guid>
+    </item>
+    <item>
+      <title>Covariant Jacobi-Legendre expansion for total energy calculations within the projector augmented wave formalism</title>
+      <link>https://doi.org/10.1103/physrevb.110.184106</link>
+      <description>Bruno Focassio, Michelangelo Domina, Urvesh Patil, A. Fazzio, Stefano Sanvito, Physical review. B./Physical review. B. 110(18)] 2024. https://openalex.org/W4404061393
+
+                No abstract</description>
+      <author>Bruno Focassio, Michelangelo Domina, Urvesh Patil, A. Fazzio, Stefano Sanvito</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.184106</guid>
+    </item>
+    <item>
+      <title>Harnessing the Potential of Machine Learning to Optimize the Activity of Cu-Based Dual Atom Catalysts for CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.4c01208</link>
+      <description>A. Das, Diptendu Roy, Souvik Manna, Biswarup Pathak, ACS Materials Letters. None(None)] 2024. https://openalex.org/W4404061779
+
+                No abstract</description>
+      <author>A. Das, Diptendu Roy, Souvik Manna, Biswarup Pathak</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c01208</guid>
+    </item>
+    <item>
+      <title>A Guideline for Cross-Sector Coupling of Carbon Capture Technologies</title>
+      <link>https://doi.org/10.3390/gases4040021</link>
+      <description>Hossein Asgharian, Ali Yahyaee, Chungen Yin, Vincenzo Liso, Mads Pagh Nielsen, Florin Iov, Gases. 4(4)] 2024. https://openalex.org/W4404062213
+
+                Many governments around the world have taken action to utilise carbon capture (CC) technologies to reduce CO2 emissions. This technology is particularly important to reduce unavoidable emissions from industries like cement plants, oil refineries, etc. The available literature in the public domain explores this theme from two distinct perspectives. The first category of papers focuses only on modelling the CC plants by investigating the details of the processes to separate CO2 from other gas components without considering the industrial applications and synergies between sectors. On the other hand, the second category investigates the required infrastructure that must be put in place to allow a suitable integration without considering the specific particularities of each carbon capture technology. This review gives a comprehensive guideline for the implementation of CC technologies for any given application while also considering the coupling between different energy sectors such as heating, power generation, etc. It also identifies the research gaps within this field, based on the existing literature. Moreover, it delves into various aspects and characteristics of these technologies, while comparing their energy penalties with the minimum work required for CO2 separation. Additionally, this review investigates the main industrial sectors with CC potential, the necessary transportation infrastructure from the point sources to the end users, and the needs and characteristics of storage facilities, as well as the utilisation of CO2 as a feedstock. Finally, an overview of the computation tools for CC processes and guidelines for their utilisation is given. The guidelines presented in this paper are the first attempt to provide a comprehensive overview of the technologies, and their requirements, needed to achieve the cross-sector coupling of CC plants for a wide range of applications. It is strongly believed that these guidelines will benefit all stakeholders in the value chain while enabling an accelerated deployment of these technologies.</description>
+      <author>Hossein Asgharian, Ali Yahyaee, Chungen Yin, Vincenzo Liso, Mads Pagh Nielsen, Florin Iov</author>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/gases4040021</guid>
     </item>
     <item>
       <title>Application of graph neural network in computational heterogeneous catalysis</title>

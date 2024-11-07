@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Nov 2024 01:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 01:20:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -98,6 +98,16 @@
       <author>Thien Tran, Maya Schuchert, Victor Kusuma, Lili Sun, Comfort Oluleke, Nathan Diemler, Lingxiang Zhu, Grigorios Panagakos, G. Glenn Lipscomb, David Hopkinson</author>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2475311</guid>
+    </item>
+    <item>
+      <title>The influence of active agent motility on SIRS epidemiological dynamics</title>
+      <link>https://doi.org/10.1039/d4sm00864b</link>
+      <description>R. Kailasham, Aditya S. Khair, Soft Matter. None(None)] 2024. https://openalex.org/W4404040132
+
+                Active Brownian disks moving in two dimensions that exchange information about their internal state stochastically are chosen to model epidemic spread in a self-propelled population of agents under the susceptible-infected-recovered-susceptible...</description>
+      <author>R. Kailasham, Aditya S. Khair</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4sm00864b</guid>
     </item>
   </channel>
 </rss>

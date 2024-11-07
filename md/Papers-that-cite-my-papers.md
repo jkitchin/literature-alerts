@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Wed Nov  6 01:19:19 2024
+Created on Thu Nov  7 01:20:32 2024
 
-Found 52 results from 2024-10-30 to 2024-11-06
+Found 59 results from 2024-10-31 to 2024-11-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,39 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Double-Shell Confinement Strategy Enhancing Durability of PtFeTi Intermetallic Catalysts for the Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4403869883    
-Open access: False
-    
-[Chen Sumin](https://openalex.org/A5055325541), [Lai-Ke Chen](https://openalex.org/A5111564998), [Na Tian](https://openalex.org/A5050506728), [Sheng-Nan Hu](https://openalex.org/A5090674104), [Shuangli Yang](https://openalex.org/A5104089361), [Jun‐Fei Shen](https://openalex.org/A5111011993), [Jing-Xiao Tang](https://openalex.org/A5013243279), [De‐Yin Wu](https://openalex.org/A5089160535), [Mingshu Chen](https://openalex.org/A5100428804), [Zhi‐You Zhou](https://openalex.org/A5076196589), [Shi‐Gang Sun](https://openalex.org/A5100673667), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04779.
-    
-No abstract    
-
-    
-
-## Elastic constants from charge density distribution in FCC high-entropy alloys using CNN and DFT   
-
-OpenAlex: https://openalex.org/W4403871417    
-Open access: True
-    
-[Hossein Mirzaee](https://openalex.org/A5114447063), [Ramin Soltanmohammadi](https://openalex.org/A5061960835), [Nathan Linton](https://openalex.org/A5012603904), [J. FISCHER](https://openalex.org/A5108794387), [Serveh Kamrava](https://openalex.org/A5077608041), [Pejman Tahmasebi](https://openalex.org/A5079372989), [Dilpuneet S. Aidhy](https://openalex.org/A5023250729), APL Machine Learning. 2(4)] 2024.https://doi.org/10.1063/5.0229105.
-    
-While high-entropy alloys (HEAs) present exponentially large compositional space for alloy design, they also create enormous computational challenges to trace the compositional space, especially for the inherently expensive density functional theory calculations (DFT). Recent works have integrated machine learning into DFT to overcome these challenges. However, often these models require an intensive search of appropriate physics-based descriptors. In this paper, we employ a 3D convolutional neural network over just one descriptor, i.e., the charge density derived from DFT, to simplify and bypass the hunt for the descriptors. We show that the elastic constants of face-centered cubic multi-elemental alloys in the Ni–Cu–Au–Pd–Pt system can be predicted from charge density. In addition, using our recent PREDICT approach, we show that the model can be trained only on the charge densities of simpler binary and ternary alloys to effectively predict elastic constants in complex multi-elemental alloys, thereby further enabling easier property-tracing in the large compositional space of HEAs.    
-
-    
-
-## Electrochemical Formation of C2+ Products Steered by Bridge-Bonded *CO Confined by *OH Domains   
-
-OpenAlex: https://openalex.org/W4403879378    
-Open access: True
-    
-[Haibin Ma](https://openalex.org/A5103977511), [Enric Ibáñez-Alé](https://openalex.org/A5020618927), [Futian You](https://openalex.org/A5080339430), [Núria Lopéz](https://openalex.org/A5100605805), [Boon Siang Yeo](https://openalex.org/A5036919020), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c08755 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacs.4c08755?ref=article_openPDF)).
-    
-During the electrochemical CO2 reduction reaction (eCO2RR) on copper catalysts, linear-bonded CO (*COL) is commonly regarded as the key intermediate for the CO-CO coupling step, which leads to the formation of multicarbon products. In this work, we unveil the significant role of bridge-bonded *CO (*COB) as an active species. By combining in situ Raman spectroscopy, gas and liquid chromatography, and density functional theory (DFT) simulations, we show that adsorbed *OH domains displace *COL to *COB. The electroreduction of a 12CO+13CO2 cofeed demonstrates that *COB distinctly favors the production of acetate and 1-propanol, while *COL favors ethylene and ethanol formation. This work enhances our understanding of the mechanistic intricacies of eCO(2)RR and suggests new directions for designing operational conditions by modifying the competitive adsorption of surface species, thereby steering the reaction toward specific multicarbon products.    
-
-    
 
 ## Structural and compositional optimization of bimetallic NiCo alloy nanoparticles for promotion of alkaline hydrogen evolution reaction   
 
@@ -541,7 +508,117 @@ Open access: True
     
 [Yannick Lemke](https://openalex.org/A5070510745), [Jörg Kußmann](https://openalex.org/A5065391607), [Christian Ochsenfeld](https://openalex.org/A5015872488), The Journal of Physical Chemistry A. None(None)] 2024.https://doi.org/10.1021/acs.jpca.4c04139 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpca.4c04139?ref=article_openPDF)).
     
+We adapt our recently developed constraint-based orbital-optimized excited-state method (COOX) for the computation of core excitations. COOX is a constrained density functional theory (cDFT) approach based on excitation amplitudes from linear-response time-dependent DFT (LR-TDDFT), and has been shown to provide accurate excitation energies and excited-state properties for valence excitations within a spin-restricted formalism. To extend COOX to core-excited states, we introduce a spin-unrestricted variant which allows us to obtain orbital-optimized core excitations with a single constraint. Using a triplet purification scheme in combination with the constrained unrestricted Hartree–Fock formalism, scalar-relativistic zero-order regular approximation corrections, and a semiempirical treatment of spin–orbit coupling, COOX is shown to produce highly accurate results for K- and L-edge excitations of second- and third-period atoms with subelectronvolt errors despite being based on LR-TDDFT, for which core excitations pose a well-known challenge. L- and M-edge excitations of heavier atoms up to uranium are also computationally feasible and numerically stable, but may require more advanced treatment of relativistic effects. Furthermore, COOX is shown to perform on par with or better than the popular ΔSCF approach while exhibiting more robust convergence, highlighting it as a promising tool for inexpensive and accurate simulations of X-ray absorption spectra.    
+
+    
+
+## Microenvironment Control over Electrocatalytic Activity of g-C3N4/2H-MoS2 Superlattice-like Heterostructures for Hydrogen Evolution   
+
+OpenAlex: https://openalex.org/W4404043326    
+Open access: False
+    
+[Xiaorong Gan](https://openalex.org/A5077276465), [Liqun Ye](https://openalex.org/A5009243555), [Huimin Zhao](https://openalex.org/A5017605440), [Dangyuan Lei](https://openalex.org/A5045818251), [Yanhui Ao](https://openalex.org/A5066853595), [Dan Zhao](https://openalex.org/A5103489835), [Peifang Wang](https://openalex.org/A5049129847), Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c03492.
+    
+Microenvironments in heterogeneous catalysis have been recognized as equally important as the types and amounts of active sites for regulating catalytic activity. Two-dimensional (2D) nanospaces between van der Waals (vdW) gaps of layered materials provide an ideal microenvironment to create novel functionalities. Here, we explore a facile method for fabricating g-C3N4/2H-MoS2 superlattice-like heterostructures based on thermochemical intercalation and polymerization reactions of formamide within enlarged vdW gaps of 2H-MoS2 nanosheets without any transfer process. DFT calculations demonstrate that the interlayer electron–electron correlations due to the intercalation effect of g-C3N4, rather than high-κ dielectric environments, lead to the improvement of intrinsic conductivity of 2H-MoS2 nanosheets. As the proof of concept in applications for the electrocatalysis field, the heterostructure for hydrogen electrochemical reaction (HER) exhibits high stability and catalytic activity in both acid and alkaline media, such as a quite low onset overpotential of 98 mV, a high exchange current density of 77.6 μA cm–2, and a small Tafel slope (52.9 mV dec–1) in an acid medium. The enhanced HER activity is attributed to the improved conductivity and nanoconfinement effect of 2D nanospaces that decrease the reaction activation energy and activate the inert basal planes.    
+
+    
+
+## Prediction of CO2 Storage in Different Geological Conditions Based on Machine Learning   
+
+OpenAlex: https://openalex.org/W4404048617    
+Open access: False
+    
+[Ming Liu](https://openalex.org/A5100773527), [Zhen Li](https://openalex.org/A5101981008), [Qi Jing](https://openalex.org/A5100612744), [Ying Meng](https://openalex.org/A5046096108), [Jixian Zhou](https://openalex.org/A5081915564), [Mingcheng Ni](https://openalex.org/A5083398610), [Xianmin Zhou](https://openalex.org/A5081101199), [Hao Chen](https://openalex.org/A5025903542), Energy & Fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c04274.
+    
 No abstract    
+
+    
+
+## Prediction of Holey Graphyne-Supported Single Atom Catalyst for Nitrogen Reduction Reaction by Interpretable Machine Learning and First-Principles Calculations   
+
+OpenAlex: https://openalex.org/W4404060333    
+Open access: False
+    
+[Dian Zheng](https://openalex.org/A5102349289), [Fei Deng](https://openalex.org/A5003950228), [Jing Xu](https://openalex.org/A5089793356), [Wei Liu](https://openalex.org/A5100431703), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105401.
+    
+No abstract    
+
+    
+
+## Atomic catalysis meets heterostructure synergy: Unveiling the trifunctional efficacy of transition Metal@WS2/ReSe2   
+
+OpenAlex: https://openalex.org/W4404060959    
+Open access: False
+    
+[Xudong Hu](https://openalex.org/A5049443641), [Jingyi Shang](https://openalex.org/A5104297230), [Shuang Li](https://openalex.org/A5100415877), [Jun Long](https://openalex.org/A5030617408), [Shi‐Bo Cheng](https://openalex.org/A5070591558), [Saad Ahmed](https://openalex.org/A5031155685), [Sheng Wang](https://openalex.org/A5100371335), [Usman Farooq](https://openalex.org/A5000615705), International Journal of Hydrogen Energy. 93(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.377.
+    
+No abstract    
+
+    
+
+## High-valence Co deposition based on selfcatalysis of lattice Mn doping for robust acid water oxidation   
+
+OpenAlex: https://openalex.org/W4404061006    
+Open access: False
+    
+[Ning Yu](https://openalex.org/A5028827676), [Fuli Wang](https://openalex.org/A5075396691), [Xinying Jiang](https://openalex.org/A5103106064), [Jin‐Long Tan](https://openalex.org/A5111134117), [Mirabbos Hojamberdiev](https://openalex.org/A5043084960), [Han Hu](https://openalex.org/A5010585887), [Yong‐Ming Chai](https://openalex.org/A5062331341), [Bin Dong](https://openalex.org/A5100746745), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.10.043.
+    
+No abstract    
+
+    
+
+## N-doped porous graphite with multilevel pore defects and ultra-high conductivity anchoring Pt nanoparticles for proton exchange membrane water electrolyzers   
+
+OpenAlex: https://openalex.org/W4404061024    
+Open access: False
+    
+[Yu Hao](https://openalex.org/A5103434991), [Dongfang Chen](https://openalex.org/A5049386942), [Guangxin Yang](https://openalex.org/A5058858621), [Song Hu](https://openalex.org/A5102133183), [Shunyu Wang](https://openalex.org/A5102601497), [Pucheng Pei](https://openalex.org/A5007310188), [Jinkai Hao](https://openalex.org/A5017801914), [Xiaoming Xu](https://openalex.org/A5004659338), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.10.041.
+    
+No abstract    
+
+    
+
+## A Bond-Based Machine Learning Model for Molecular Polarizabilities and A Priori Raman Spectra   
+
+OpenAlex: https://openalex.org/W4404061157    
+Open access: False
+    
+[Jakub K. Sowa](https://openalex.org/A5078673012), [Peter J. Rossky](https://openalex.org/A5000410825), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c01086.
+    
+No abstract    
+
+    
+
+## Covariant Jacobi-Legendre expansion for total energy calculations within the projector augmented wave formalism   
+
+OpenAlex: https://openalex.org/W4404061393    
+Open access: False
+    
+[Bruno Focassio](https://openalex.org/A5086804230), [Michelangelo Domina](https://openalex.org/A5024468622), [Urvesh Patil](https://openalex.org/A5037319767), [A. Fazzio](https://openalex.org/A5025482578), [Stefano Sanvito](https://openalex.org/A5049903688), Physical review. B./Physical review. B. 110(18)] 2024.https://doi.org/10.1103/physrevb.110.184106.
+    
+No abstract    
+
+    
+
+## Harnessing the Potential of Machine Learning to Optimize the Activity of Cu-Based Dual Atom Catalysts for CO2 Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4404061779    
+Open access: False
+    
+[A. Das](https://openalex.org/A5090590044), [Diptendu Roy](https://openalex.org/A5041653256), [Souvik Manna](https://openalex.org/A5000215590), [Biswarup Pathak](https://openalex.org/A5018218171), ACS Materials Letters. None(None)] 2024.https://doi.org/10.1021/acsmaterialslett.4c01208.
+    
+No abstract    
+
+    
+
+## A Guideline for Cross-Sector Coupling of Carbon Capture Technologies   
+
+OpenAlex: https://openalex.org/W4404062213    
+Open access: True
+    
+[Hossein Asgharian](https://openalex.org/A5073340109), [Ali Yahyaee](https://openalex.org/A5114523886), [Chungen Yin](https://openalex.org/A5075017391), [Vincenzo Liso](https://openalex.org/A5035460058), [Mads Pagh Nielsen](https://openalex.org/A5049614833), [Florin Iov](https://openalex.org/A5086777531), Gases. 4(4)] 2024.https://doi.org/10.3390/gases4040021.
+    
+Many governments around the world have taken action to utilise carbon capture (CC) technologies to reduce CO2 emissions. This technology is particularly important to reduce unavoidable emissions from industries like cement plants, oil refineries, etc. The available literature in the public domain explores this theme from two distinct perspectives. The first category of papers focuses only on modelling the CC plants by investigating the details of the processes to separate CO2 from other gas components without considering the industrial applications and synergies between sectors. On the other hand, the second category investigates the required infrastructure that must be put in place to allow a suitable integration without considering the specific particularities of each carbon capture technology. This review gives a comprehensive guideline for the implementation of CC technologies for any given application while also considering the coupling between different energy sectors such as heating, power generation, etc. It also identifies the research gaps within this field, based on the existing literature. Moreover, it delves into various aspects and characteristics of these technologies, while comparing their energy penalties with the minimum work required for CO2 separation. Additionally, this review investigates the main industrial sectors with CC potential, the necessary transportation infrastructure from the point sources to the end users, and the needs and characteristics of storage facilities, as well as the utilisation of CO2 as a feedstock. Finally, an overview of the computation tools for CC processes and guidelines for their utilisation is given. The guidelines presented in this paper are the first attempt to provide a comprehensive overview of the technologies, and their requirements, needed to achieve the cross-sector coupling of CC plants for a wide range of applications. It is strongly believed that these guidelines will benefit all stakeholders in the value chain while enabling an accelerated deployment of these technologies.    
 
     
 

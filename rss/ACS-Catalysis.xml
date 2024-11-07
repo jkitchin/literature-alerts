@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Nov 2024 01:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 01:19:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Single-Atom Manganese-Based Catalysts for the Oxidative Dehydrogenation of Propane</title>
-      <link>https://doi.org/10.1021/acscatal.4c06021</link>
-      <description>Carly Byron, Patricia Anne Ignacio-de Leon, Jacob T. Bryant, Ryan R. Langeslay, Louisa Savereide, Jianguo Wen, Jeffrey Camacho-Bunquin, Justin M. Notestein, Massimiliano Delferro, Magali Ferrandon, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403862583
-
-                No abstract</description>
-      <author>Carly Byron, Patricia Anne Ignacio-de Leon, Jacob T. Bryant, Ryan R. Langeslay, Louisa Savereide, Jianguo Wen, Jeffrey Camacho-Bunquin, Justin M. Notestein, Massimiliano Delferro, Magali Ferrandon</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06021</guid>
-    </item>
-    <item>
-      <title>Photocatalytic CH&lt;sub&gt;4&lt;/sub&gt; Upgrading to Multicarbon Products</title>
-      <link>https://doi.org/10.1021/acscatal.4c05009</link>
-      <description>Shuya Hao, Qing Han, Gengfeng Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403867188
-
-                No abstract</description>
-      <author>Shuya Hao, Qing Han, Gengfeng Zheng</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05009</guid>
-    </item>
-    <item>
-      <title>Double-Shell Confinement Strategy Enhancing Durability of PtFeTi Intermetallic Catalysts for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04779</link>
-      <description>Chen Sumin, Lai-Ke Chen, Na Tian, Sheng-Nan Hu, Shuangli Yang, Jun&#8208;Fei Shen, Jing-Xiao Tang, De&#8208;Yin Wu, Mingshu Chen, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403869883
-
-                No abstract</description>
-      <author>Chen Sumin, Lai-Ke Chen, Na Tian, Sheng-Nan Hu, Shuangli Yang, Jun&#8208;Fei Shen, Jing-Xiao Tang, De&#8208;Yin Wu, Mingshu Chen, Zhi&#8208;You Zhou, Shi&#8208;Gang Sun</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04779</guid>
-    </item>
     <item>
       <title>Enabling Automation of de Novo Catalyst Design: An Experimentally Validated, Multifactor Design Metric for Olefin Metathesis</title>
       <link>https://doi.org/10.1021/acscatal.4c06212</link>
@@ -296,6 +266,66 @@
       <author>Yujia Mao, Weitao Hu, Chuan Wang</author>
       <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06131</guid>
+    </item>
+    <item>
+      <title>Direct Synthesis of &lt;i&gt;N&lt;/i&gt;-Fused Indoles Enabled by Copper-Catalyzed Aerobic Oxygenative Rearrangement</title>
+      <link>https://doi.org/10.1021/acscatal.4c05762</link>
+      <description>Yan-Zheng Sun, Hucheng Yang, Jun&#8208;Rong Song, Hong&#8208;yu Li, Jun Shi, Biaobiao Jiang, Chao Chen, Wei Wu, Hai Ren, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404039781
+
+                No abstract</description>
+      <author>Yan-Zheng Sun, Hucheng Yang, Jun&#8208;Rong Song, Hong&#8208;yu Li, Jun Shi, Biaobiao Jiang, Chao Chen, Wei Wu, Hai Ren</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05762</guid>
+    </item>
+    <item>
+      <title>Boosting Solar-to-H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; by Molecularly Tunable Heterostructured Pym-CN with an Enhanced Built-In Electric Field</title>
+      <link>https://doi.org/10.1021/acscatal.4c05203</link>
+      <description>Jiayu An, Wenjun Jiang, Fuwei Zhuang, Yinhua Ma, Su Zhan, Feng Zhou, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404041310
+
+                No abstract</description>
+      <author>Jiayu An, Wenjun Jiang, Fuwei Zhuang, Yinhua Ma, Su Zhan, Feng Zhou</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05203</guid>
+    </item>
+    <item>
+      <title>Pd-Catalyzed B&#8211;H Aryl/Alkenylation of 1,2-Azaborines</title>
+      <link>https://doi.org/10.1021/acscatal.4c04576</link>
+      <description>Zhen Zhang, Dandan Jiang, P. P. Su, Kai Yang, Peiyuan Yu, Qiuling Song, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404047607
+
+                No abstract</description>
+      <author>Zhen Zhang, Dandan Jiang, P. P. Su, Kai Yang, Peiyuan Yu, Qiuling Song</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04576</guid>
+    </item>
+    <item>
+      <title>Synchronous Construction of Ni/CeO&lt;sub&gt;2&lt;/sub&gt;/C with Double Defects as a Dual Engine for Catalytic Refinement of Lignin Oil Under Hydrogen-Free Condition</title>
+      <link>https://doi.org/10.1021/acscatal.4c03228</link>
+      <description>Yingbo Zhu, Yulong Ma, Yonggang Sun, Wenxin Ji, Li-Qiong Wang, Feng Lin, Yuanyuan Li, Hongqiang Xia, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404048829
+
+                No abstract</description>
+      <author>Yingbo Zhu, Yulong Ma, Yonggang Sun, Wenxin Ji, Li-Qiong Wang, Feng Lin, Yuanyuan Li, Hongqiang Xia</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03228</guid>
+    </item>
+    <item>
+      <title>Systematic Parameter Determination Aimed at a Catalyst-Controlled Asymmetric Rh(I)-Catalyzed Pauson&#8211;Khand Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c04490</link>
+      <description>Yifan Qi, Luke T. Jesikiewicz, Grace E. Scofield, Peng Liu, Kay M. Brummond, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404054934
+
+                No abstract</description>
+      <author>Yifan Qi, Luke T. Jesikiewicz, Grace E. Scofield, Peng Liu, Kay M. Brummond</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04490</guid>
+    </item>
+    <item>
+      <title>Manganese&#8211;Palladium Dual-Atom Catalyst Boosts Direct H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Synthesis beyond 2 wt % at Atmospheric Conditions</title>
+      <link>https://doi.org/10.1021/acscatal.4c04446</link>
+      <description>Guancong Jiang, Li-Hui Mou, Zhiheng Wang, Lilong Zhang, Tuo Ji, Liwen Mu, Jun Jiang, Xiaohua L&#252;, Jiahua Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404063344
+
+                No abstract</description>
+      <author>Guancong Jiang, Li-Hui Mou, Zhiheng Wang, Lilong Zhang, Tuo Ji, Liwen Mu, Jun Jiang, Xiaohua L&#252;, Jiahua Zhu</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04446</guid>
     </item>
   </channel>
 </rss>
