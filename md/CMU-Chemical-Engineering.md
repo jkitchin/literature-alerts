@@ -1,54 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Nov  7 01:20:01 2024
+Created on Fri Nov  8 01:19:36 2024
 
-Found 10 results from 2024-10-31 to 2024-11-07
+Found 6 results from 2024-11-01 to 2024-11-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Computational Analysis of the Effect of Structured Packing Design on Absorption Column Hydrodynamics for Post-Combustion Carbon Capture Applications   
-
-OpenAlex: https://openalex.org/W4403902920    
-Open access: False
-    
-[Yash Shah](https://openalex.org/A5038961197), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2474815.
-    
-No abstract    
-
-    
-
-## Modeling and Scaling up of Membrane Modules Leveraging Dimensional Analysis   
-
-OpenAlex: https://openalex.org/W4403903104    
-Open access: False
-    
-[Héctor Pedrozo](https://openalex.org/A5079899169), [Cheick Dosso](https://openalex.org/A5093713938), [Thien Tran](https://openalex.org/A5037749425), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor Kusuma](https://openalex.org/A5041659494), [David Hopkinson](https://openalex.org/A5101028600), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2474814.
-    
-No abstract    
-
-    
-
-## Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets   
-
-OpenAlex: https://openalex.org/W4403909596    
-Open access: False
-    
-[Unnatti Sharma](https://openalex.org/A5034884349), [A.L. Nguyen](https://openalex.org/A5112922494), [John R. Kitchin](https://openalex.org/A5003442464), [Zachary W. Ulissi](https://openalex.org/A5024574386), [Michael J. Janik](https://openalex.org/A5031735060), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115795.
-    
-No abstract    
-
-    
-
-## Distillation Column Optimization: A formal method using stage-to stage computations and distributed streams   
-
-OpenAlex: https://openalex.org/W4403915426    
-Open access: True
-    
-[Tobias Seidel](https://openalex.org/A5017345166), [Lorenz T. Biegler](https://openalex.org/A5052825722), Chemical Engineering Science. None(None)] 2024.https://doi.org/10.1016/j.ces.2024.120875.
-    
-No abstract    
-
-    
 
 ## Accessing Numerical Energy Hessians with Graph Neural Network Potentials
   and Their Application in Heterogeneous Catalysis   

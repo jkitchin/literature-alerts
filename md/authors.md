@@ -1,21 +1,10 @@
 # authors
 Description: List of authors
-Created on Thu Nov  7 01:19:36 2024
+Created on Fri Nov  8 01:19:23 2024
 
-Found 2 results from 2024-10-31 to 2024-11-07
+Found 1 results from 2024-11-01 to 2024-11-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464)
-
-## Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets   
-
-OpenAlex: https://openalex.org/W4403909596    
-Open access: False
-    
-[Unnatti Sharma](https://openalex.org/A5034884349), [A.L. Nguyen](https://openalex.org/A5112922494), [John R. Kitchin](https://openalex.org/A5003442464), [Zachary W. Ulissi](https://openalex.org/A5024574386), [Michael J. Janik](https://openalex.org/A5031735060), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115795.
-    
-No abstract    
-
-    
 
 ## Accessing Numerical Energy Hessians with Graph Neural Network Potentials
   and Their Application in Heterogeneous Catalysis   

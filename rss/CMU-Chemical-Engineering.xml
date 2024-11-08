@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Nov 2024 01:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 01:19:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Computational Analysis of the Effect of Structured Packing Design on Absorption Column Hydrodynamics for Post-Combustion Carbon Capture Applications</title>
-      <link>https://doi.org/10.2172/2474815</link>
-      <description>Yash Shah, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4403902920
-
-                No abstract</description>
-      <author>Yash Shah, Grigorios Panagakos</author>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2474815</guid>
-    </item>
-    <item>
-      <title>Modeling and Scaling up of Membrane Modules Leveraging Dimensional Analysis</title>
-      <link>https://doi.org/10.2172/2474814</link>
-      <description>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4403903104
-
-                No abstract</description>
-      <author>H&#233;ctor Pedrozo, Cheick Dosso, Thien Tran, Lingxiang Zhu, Victor Kusuma, David Hopkinson, Lorenz T. Biegler, Grigorios Panagakos</author>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2474814</guid>
-    </item>
-    <item>
-      <title>Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115795</link>
-      <description>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4403909596
-
-                No abstract</description>
-      <author>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115795</guid>
-    </item>
-    <item>
-      <title>Distillation Column Optimization: A formal method using stage-to stage computations and distributed streams</title>
-      <link>https://doi.org/10.1016/j.ces.2024.120875</link>
-      <description>Tobias Seidel, Lorenz T. Biegler, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4403915426
-
-                No abstract</description>
-      <author>Tobias Seidel, Lorenz T. Biegler</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120875</guid>
-    </item>
     <item>
       <title>Accessing Numerical Energy Hessians with Graph Neural Network Potentials
   and Their Application in Heterogeneous Catalysis</title>

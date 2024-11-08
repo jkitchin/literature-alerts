@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Nov 2024 01:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 01:19:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enabling Automation of de Novo Catalyst Design: An Experimentally Validated, Multifactor Design Metric for Olefin Metathesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c06212</link>
-      <description>Jonas B. Ekeli, Marco Foscato, Christian O. Blanco, Giovanni Occhipinti, Deryn E. Fogg, Vidar R. Jensen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403885980
-
-                No abstract</description>
-      <author>Jonas B. Ekeli, Marco Foscato, Christian O. Blanco, Giovanni Occhipinti, Deryn E. Fogg, Vidar R. Jensen</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06212</guid>
-    </item>
-    <item>
-      <title>Selective Hydrolysis of Heterooligosaccharides by Poly(acrylate) Gel Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c04697</link>
-      <description>Susanne Striegler, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403888758
-
-                No abstract</description>
-      <author>Susanne Striegler</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04697</guid>
-    </item>
-    <item>
-      <title>Activity Enhancement of Molybdenum Carbide in Alkaline Hydrogen Evolution Reaction through Oxidation-Gradient Modulation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01779</link>
-      <description>Yifan Li, Xueying Wan, Zhigang Chen, Ding Ding, Hao Li, Ning Zhang, Dong Liu, Yi Cui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403892470
-
-                No abstract</description>
-      <author>Yifan Li, Xueying Wan, Zhigang Chen, Ding Ding, Hao Li, Ning Zhang, Dong Liu, Yi Cui</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01779</guid>
-    </item>
-    <item>
-      <title>Practical Considerations for Understanding Surface Reaction Mechanisms Involved in Heterogeneous Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c05188</link>
-      <description>Daniyal Kiani, Israel E. Wachs, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403921426
-
-                No abstract</description>
-      <author>Daniyal Kiani, Israel E. Wachs</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05188</guid>
-    </item>
-    <item>
-      <title>Electronic and Structural Property Comparison of Iridium-Based OER Nanocatalysts Enabled by &lt;i&gt;Operando&lt;/i&gt; Ir L&lt;sub&gt;3&lt;/sub&gt;-Edge X-ray Absorption Spectroscopy</title>
-      <link>https://doi.org/10.1021/acscatal.4c03562</link>
-      <description>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403922363
-
-                No abstract</description>
-      <author>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03562</guid>
-    </item>
-    <item>
-      <title>Br&#248;nsted Acid-Triggered Fast Synthesis Pathway of Furfural to Ethyl Levulinate by PtZn Supported on ZSM-5 Nanosheets</title>
-      <link>https://doi.org/10.1021/acscatal.4c03794</link>
-      <description>Longbin Deng, Zongyuan Wang, Xin Yu, Congzhen Qiao, Shuaishuai Zhou, Qiang Deng, Yong Zhao, Yajie Tian, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403923117
-
-                No abstract</description>
-      <author>Longbin Deng, Zongyuan Wang, Xin Yu, Congzhen Qiao, Shuaishuai Zhou, Qiang Deng, Yong Zhao, Yajie Tian</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03794</guid>
-    </item>
-    <item>
-      <title>Chiral &lt;i&gt;N&lt;/i&gt;-Hydroxyalkyl Pyrid-2-Ylidenes: A New Class of Ligands for Copper-Catalyzed Asymmetric Allylic Alkylation</title>
-      <link>https://doi.org/10.1021/acscatal.4c05243</link>
-      <description>Dylan Bou&#235;tard, Ziyun Zhang, Thomas Viv&#232;s, Marie Cordier&#8776;, Luigi Cavallo, Lucie Jarrige, Laura Falivene, Marc Mauduit, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403923563
-
-                No abstract</description>
-      <author>Dylan Bou&#235;tard, Ziyun Zhang, Thomas Viv&#232;s, Marie Cordier&#8776;, Luigi Cavallo, Lucie Jarrige, Laura Falivene, Marc Mauduit</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05243</guid>
-    </item>
     <item>
       <title>Relative Generality and Risk: Quantitative Measures for Broad Catalyst Success</title>
       <link>https://doi.org/10.1021/acscatal.4c04395</link>
@@ -130,10 +60,10 @@
     <item>
       <title>Selective and Efficient Light-Driven CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CO with a Heptacoordinated Polypyridine Iron(II) Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.4c04290</link>
-      <description>Federico Droghetti, Florian Lemken, Lubom&#305;&#769;r Rul&#305;&#769;&#353;ek, Albert Ruggi, Mirco Natali, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403967265
+      <description>Federico Droghetti, Florian Lemken, Lubom&#305;&#769;r Rul&#305;&#769;s&#774;ek, Albert Ruggi, Mirco Natali, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403967265
 
                 No abstract</description>
-      <author>Federico Droghetti, Florian Lemken, Lubom&#305;&#769;r Rul&#305;&#769;&#353;ek, Albert Ruggi, Mirco Natali</author>
+      <author>Federico Droghetti, Florian Lemken, Lubom&#305;&#769;r Rul&#305;&#769;s&#774;ek, Albert Ruggi, Mirco Natali</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04290</guid>
     </item>
@@ -326,6 +256,16 @@
       <author>Guancong Jiang, Li-Hui Mou, Zhiheng Wang, Lilong Zhang, Tuo Ji, Liwen Mu, Jun Jiang, Xiaohua L&#252;, Jiahua Zhu</author>
       <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04446</guid>
+    </item>
+    <item>
+      <title>Nitrite-Mediated Pulsed Electrocatalytic Nitrate Reduction to Ammonia over Co@Cu NW with Dual Active Sites</title>
+      <link>https://doi.org/10.1021/acscatal.4c03782</link>
+      <description>Rundong Zhao, Qiuyu Yan, Ling Lu, Lihong Yu, Chen Huang, Tian Yan, Le Liu, Jingyu Xi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404078397
+
+                No abstract</description>
+      <author>Rundong Zhao, Qiuyu Yan, Ling Lu, Lihong Yu, Chen Huang, Tian Yan, Le Liu, Jingyu Xi</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03782</guid>
     </item>
   </channel>
 </rss>

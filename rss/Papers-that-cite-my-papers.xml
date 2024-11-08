@@ -4,179 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Nov 2024 01:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 01:19:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Structural and compositional optimization of bimetallic NiCo alloy nanoparticles for promotion of alkaline hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2024.235641</link>
-      <description>Bishnupad Mohanty, Lingaraj Pradhan, Biswarup Satpati, Parasmani Rajput, Mahdi Ghorbani&#8208;Asl, Yidan Wei, Prashanth W. Menezes, Arkady V. Krasheninnikov, Bikash Kumar Jena, Journal of Power Sources. 625(None)] 2024. https://openalex.org/W4403885372
-
-                No abstract</description>
-      <author>Bishnupad Mohanty, Lingaraj Pradhan, Biswarup Satpati, Parasmani Rajput, Mahdi Ghorbani&#8208;Asl, Yidan Wei, Prashanth W. Menezes, Arkady V. Krasheninnikov, Bikash Kumar Jena</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.235641</guid>
-    </item>
-    <item>
-      <title>Unlocking the limitations of layered LiNiO2: Insights from DFT simulations on its viability as a cathode material for aqueous Lithium-ion batteries</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2024.235650</link>
-      <description>Gibu George, Artur Brotons&#8208;Rufes, Albert Poater, Miquel Sol&#224;, Sergio Posada&#8208;P&#233;rez, Journal of Power Sources. 625(None)] 2024. https://openalex.org/W4403885407
-
-                No abstract</description>
-      <author>Gibu George, Artur Brotons&#8208;Rufes, Albert Poater, Miquel Sol&#224;, Sergio Posada&#8208;P&#233;rez</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.235650</guid>
-    </item>
-    <item>
-      <title>Accelerated water dissociation kinetics by nickel-nickelous hydroxide epitaxial interfaces for superior alkaline hydrogen generation</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.10.141</link>
-      <description>Ya-Fei Cheng, Yanlong Li, Zhenyu Qiao, Lulu Hu, Hongbo Geng, Huilong Dong, Fan Liao, Mingwang Shao, Journal of Colloid and Interface Science. 679(None)] 2024. https://openalex.org/W4403885965
-
-                The intrinsic performance of an electrocatalyst can be reinforced by constructing appropriate epitaxial interfaces, where the modulated electronic states and adsorption/desorption behaviors are conductive to enhancing electrocatalytic activity. Herein, nickel-nickelous hydroxide epitaxial interface supported on nickel foam (Ni-Ni(OH)</description>
-      <author>Ya-Fei Cheng, Yanlong Li, Zhenyu Qiao, Lulu Hu, Hongbo Geng, Huilong Dong, Fan Liao, Mingwang Shao</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.10.141</guid>
-    </item>
-    <item>
-      <title>Real-space visualization of atomic displacements in a long-wavelength charge density wave using cryogenic 4D-STEM</title>
-      <link>https://doi.org/10.1103/physrevmaterials.8.104414</link>
-      <description>Haoyang Ni, William R. Meier, H. Miao, Andrew F. May, B. C. Sales, Jian&#8208;Min Zuo, Miaofang Chi, Physical Review Materials. 8(10)] 2024. https://openalex.org/W4403888133
-
-                No abstract</description>
-      <author>Haoyang Ni, William R. Meier, H. Miao, Andrew F. May, B. C. Sales, Jian&#8208;Min Zuo, Miaofang Chi</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.104414</guid>
-    </item>
-    <item>
-      <title>Hybrid confinement of Pt-Ni-Co spherical core-shells in multibranched nano-dendrites interspersed on N-doped aerogels for enhanced ORR performance and durability</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.177307</link>
-      <description>Muhammad Umair Mushtaq, Danni Li, Xiang Shao, Khurram Shahzad Ayub, Ali Shan, Limei Cao, Ji Yang, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4403898069
-
-                No abstract</description>
-      <author>Muhammad Umair Mushtaq, Danni Li, Xiang Shao, Khurram Shahzad Ayub, Ali Shan, Limei Cao, Ji Yang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.177307</guid>
-    </item>
-    <item>
-      <title>The Electrochemical Synthesis of Urea on Triatomic Cluster/Cu Catalysts: A Theoretical Study</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105349</link>
-      <description>Qiang Liu, Jingnan Wang, Yongan Yang, Xi Wang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4403902171
-
-                No abstract</description>
-      <author>Qiang Liu, Jingnan Wang, Yongan Yang, Xi Wang</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105349</guid>
-    </item>
-    <item>
-      <title>Two-dimensional SnS2/ZrSi2N4 van der Waals heterojunction as a spontaneously enhanced hydrogen evolution photocatalyst</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.110816</link>
-      <description>Ying Hu, Feilong Xiong, Chaoyi Xin, Sheng Wang, Zhengquan Li, Kai-Wu Luo, Kejun Dong, Liang Xu, Materials Today Communications. 41(None)] 2024. https://openalex.org/W4403904649
-
-                No abstract</description>
-      <author>Ying Hu, Feilong Xiong, Chaoyi Xin, Sheng Wang, Zhengquan Li, Kai-Wu Luo, Kejun Dong, Liang Xu</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.110816</guid>
-    </item>
-    <item>
-      <title>Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115795</link>
-      <description>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4403909596
-
-                No abstract</description>
-      <author>Unnatti Sharma, A.L. Nguyen, John R. Kitchin, Zachary W. Ulissi, Michael J. Janik</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115795</guid>
-    </item>
-    <item>
-      <title>Synergy of TM-based dual-atom catalysts supported by B,N-doped biphenylene for carbon dioxide reduction reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161651</link>
-      <description>Maryam Fallahzadeh, Alireza Kokabi, Zahra Nasiri, Mina Fayazi, Applied Surface Science. None(None)] 2024. https://openalex.org/W4403909620
-
-                No abstract</description>
-      <author>Maryam Fallahzadeh, Alireza Kokabi, Zahra Nasiri, Mina Fayazi</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161651</guid>
-    </item>
-    <item>
-      <title>Upcycling of waste polyethylene terephthalate (PET) into CoFe@C for highly efficient PV-driven bifunctional seawater splitting via a &#8220;waste materialization&#8221; strategy</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124756</link>
-      <description>Qingsong Jiang, Zhijie Chen, Mi Bai, Shan Liu, Xiang-Yang Lou, Wei Ma, Yangzi Shangguan, Xiaosong Gu, Qiang Zeng, Songhe Yang, Lei Zhu, Hong Chen, Applied Catalysis B Environment and Energy. 362(None)] 2024. https://openalex.org/W4403912592
-
-                No abstract</description>
-      <author>Qingsong Jiang, Zhijie Chen, Mi Bai, Shan Liu, Xiang-Yang Lou, Wei Ma, Yangzi Shangguan, Xiaosong Gu, Qiang Zeng, Songhe Yang, Lei Zhu, Hong Chen</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124756</guid>
-    </item>
-    <item>
-      <title>Guinier&#8211;Preston Zones Featuring PtCu Nanocrystals: Coherency Strain Fields Reshaping the Band Structure for Oxygen Reduction Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.chemmater.4c01485</link>
-      <description>Zhiguo Chen, Jingkun Chen, Jingbo Fu, Qiheng Wang, Yonghong Chen, Jingjun Liu, Chemistry of Materials. None(None)] 2024. https://openalex.org/W4403913810
-
-                Microstructurally distorted Pt-based nanoalloys with unusual structural defects like Guinier&#8211;Preston (GP) zones with in situ coherency strain fields may be suitable for substantially improving their electrocatalytic performance for the oxygen reduction reaction (ORR) in acidic conditions. Herein, GP zones contributing PtCu nanoalloys were first fabricated by additive manufacturing, starting with the formation of metallic Cu clusters as orderly crystal nuclei on ZIF-8-derived carbon, followed by the additive manufacturing of chemically reduced Pt and Cu on the formed clusters in ethylene glycol at 190 &#176;C. The atomic-scale GP zones give rise to high-level coherent strain fields across the nanocrystals, boosting the ORR kinetics. This catalyst exhibits an ultrahigh oxygen reduction half-wave potential of 0.934 V (vs RHE) and a mass activity (MA) of 0.68 A mgPt&#8211;1. After the accelerated degradation test of 50,000 cycles, the achieved MA improved instead of decreasing, rising from 0.68 to 0.89 A mgPt&#8211;1, surpassing that of commercial Pt/C significantly. The significantly improved activity is attributed to the coherency strain fields reshaping the band structure and reconstructing a favorable charge density for active Pt sites. Importantly, the interface-anchored GP zones, maintaining a completely coherent relationship with the matrix, can effectively impede metal atom migration, segregation, or leaching, thus enhancing long-term stability. Therefore, the novel GP-type alloys may pave another way for designing advanced catalysts in the realm of current energy storage and conversion fields like fuel cells.</description>
-      <author>Zhiguo Chen, Jingkun Chen, Jingbo Fu, Qiheng Wang, Yonghong Chen, Jingjun Liu</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c01485</guid>
-    </item>
-    <item>
-      <title>Comprehensive theoretical study of the effects of facet, oxygen vacancies, and surface strain on iron and cobalt impurities in different surfaces of anatase TiO2</title>
-      <link>https://doi.org/10.1038/s41598-024-74423-3</link>
-      <description>Danil W. Boukhvalov, V. Yu. Osipov, Anna Baldycheva, Benjamin T. Hogan, Scientific Reports. 14(1)] 2024. https://openalex.org/W4403914609
-
-                Abstract We report the results of systematic ab initio modelling of various configurations of iron and cobalt impurities embedded in the (110), (101), and (100) surfaces of anatase TiO 2 , with and without oxygen vacancies. The simulation results demonstrate that incorporation into interstitial voids at the surface level is significantly more favourable than other configurations for both iron and cobalt. The calculations also demonstrate the crucial effect of the facet as well as the lesser effects of other factors, such as vacancies and strain on the energetics of defect incorporation, magnetic moment, bandgap, and catalytic performance. It is further shown that there is no tendency towards the segregation or clustering of impurities on the surface. The calculated free energies of the hydrogen evolution reaction in acidic media predict that iron impurities embedded in the (101) surface of anatase TiO 2 can be a competitive catalyst for this reaction.</description>
-      <author>Danil W. Boukhvalov, V. Yu. Osipov, Anna Baldycheva, Benjamin T. Hogan</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-74423-3</guid>
-    </item>
-    <item>
-      <title>X-ray and Photoelectron Spectroscopy of Surface Chemistry; from Bonding via Femtosecond to Operando</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122637</link>
-      <description>Anders Nilsson, Surface Science. None(None)] 2024. https://openalex.org/W4403916151
-
-                No abstract</description>
-      <author>Anders Nilsson</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122637</guid>
-    </item>
-    <item>
-      <title>Focused Review on the Use of Bimetallic Alloy Nanoparticle Electrocatalysts in Water Splitting Reactions</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c05903</link>
-      <description>Ankur Kumar, Sasanka Deka, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403916783
-
-                No abstract</description>
-      <author>Ankur Kumar, Sasanka Deka</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05903</guid>
-    </item>
-    <item>
-      <title>Moir&#233; Patterns in Pt Overlayers on Gold: A Graph Neural Network Interatomic Potential Study</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c04582</link>
-      <description>Trenton J. Wolter, Evangelos Smith, Roberto Schimmenti, Jakob Schi&#248;tz, Karsten W. Jacobsen, Manos Mavrikakis, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4403921754
-
-                No abstract</description>
-      <author>Trenton J. Wolter, Evangelos Smith, Roberto Schimmenti, Jakob Schi&#248;tz, Karsten W. Jacobsen, Manos Mavrikakis</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04582</guid>
-    </item>
-    <item>
-      <title>Electronic and Structural Property Comparison of Iridium-Based OER Nanocatalysts Enabled by &lt;i&gt;Operando&lt;/i&gt; Ir L&lt;sub&gt;3&lt;/sub&gt;-Edge X-ray Absorption Spectroscopy</title>
-      <link>https://doi.org/10.1021/acscatal.4c03562</link>
-      <description>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403922363
-
-                No abstract</description>
-      <author>Marianne van der Merwe, Romualdus Enggar Wibowo, Catalina Jim&#233;nez, Carlos Escudero, Giovanni Agostini, Marcus B&#228;r, Raul Garcia&#8208;Diez</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03562</guid>
-    </item>
-    <item>
-      <title>Sustainable Electrocatalyst for PEM Water Electrolyzers</title>
-      <link>https://doi.org/10.1007/978-3-031-69051-8_3</link>
-      <description>Mehmet Fatih Kaya, Murat K&#305;st&#305;, Bulut H&#252;ner, Emre &#214;zdo&#287;an, Marise Cona&#287;as&#305;, Muhammed Ali Durmaz, Eda Nur &#199;ak&#305;raslan, Tayyar E&#351;iyok, Yakup Og&#252;n S&#252;zen, Akif Ta&#351;k&#305;n, S&#252;leyman Uysal, Nesrin Dem&#239;r, No host. None(None)] 2024. https://openalex.org/W4403923110
-
-                No abstract</description>
-      <author>Mehmet Fatih Kaya, Murat K&#305;st&#305;, Bulut H&#252;ner, Emre &#214;zdo&#287;an, Marise Cona&#287;as&#305;, Muhammed Ali Durmaz, Eda Nur &#199;ak&#305;raslan, Tayyar E&#351;iyok, Yakup Og&#252;n S&#252;zen, Akif Ta&#351;k&#305;n, S&#252;leyman Uysal, Nesrin Dem&#239;r</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-69051-8_3</guid>
-    </item>
     <item>
       <title>Exact average many-body interatomic interaction model for random alloys</title>
       <link>https://doi.org/10.1016/j.commt.2024.100018</link>
@@ -522,7 +352,7 @@
       <link>https://doi.org/10.1021/acs.jctc.4c01086</link>
       <description>Jakub K. Sowa, Peter J. Rossky, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4404061157
 
-                No abstract</description>
+                The use of machine learning (ML) algorithms in molecular simulations has become commonplace in recent years. There now exists, for instance, a multitude of ML force field algorithms that have enabled simulations approaching ab initio level accuracy at time scales and system sizes that significantly exceed what is otherwise possible with traditional methods. Far fewer algorithms exist for predicting rotationally equivariant, tensorial properties such as the electric polarizability. Here, we introduce a kernel ridge regression algorithm for machine learning of the polarizability tensor. This algorithm is based on the bond polarizability model and allows prediction of the tensor components at the cost similar to that of scalar quantities. We subsequently show the utility of this algorithm by simulating gas phase Raman spectra of biphenyl and malonaldehyde using classical molecular dynamics simulations of these systems performed with the recently developed MACE-OFF23 potential. The calculated spectra are shown to agree very well with the experiments and thus confirm the expediency of our algorithm as well as the accuracy of the used force field. More generally, this work demonstrates the potential of physics-informed approaches to yield simple yet effective machine learning algorithms for molecular properties.</description>
       <author>Jakub K. Sowa, Peter J. Rossky</author>
       <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01086</guid>
@@ -558,6 +388,66 @@
       <guid isPermaLink="true">https://doi.org/10.3390/gases4040021</guid>
     </item>
     <item>
+      <title>Surface&#8208;Interface Engineering of Electrocatalysts for Two&#8208;Electron Water Oxidation Reaction to Produce H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1002/adfm.202413243</link>
+      <description>Zhen Chen, Xi Liu, Sheng Wang, Lin Yang, Sheng Wang, Wei Wang, Shuqin Song, Zhongwei Chen, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4404068129
+
+                Abstract Electrochemical two&#8208;electron water oxidation reaction (2e &#8722; WOR) driven by renewable energy offers an attractive route to produce H 2 O 2 , while the corresponding electrocatalyst still requires further improvement for the activity, selectivity, and the resulting H 2 O 2 yield. Surface&#8208;interface engineering of electrocatalysts has great potential to advance 2e &#8722; WOR performance. This review provides a succinct yet comprehensive insight into the functional mechanisms of surface&#8208;interfacial properties affecting 2e &#8722; WOR performance on electrocatalyst. The Gibbs free energy theoretical framework related to surface electronic structure and interfacial reactive kinetics mechanism related to electrolyte, electrode&#8211;electrolyte interface structure, and interfacial microenvironment properties are firstly discussed. Afterward, various surface&#8208;interface engineering strategies toward high performance electrocatalysts including the regulation of surface electronic structure, the electrode&#8211;electrolyte interface structure, and the interfacial microenvironment have been overviewed. Rational manipulations of the above surface&#8208;interfacial engineering strategies are critical to design highly efficient 2e &#8722; WOR electrocatalysts, leading to the development of the green H 2 O 2 production.</description>
+      <author>Zhen Chen, Xi Liu, Sheng Wang, Lin Yang, Sheng Wang, Wei Wang, Shuqin Song, Zhongwei Chen</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202413243</guid>
+    </item>
+    <item>
+      <title>Surface Reconstruction of Single-Twinned AgPdIr Nanoalloy during the Formate Oxidation and Dehydrogenation Reactions</title>
+      <link>https://doi.org/10.1021/acsomega.4c03637</link>
+      <description>Quan Tang, Longfei Guo, Tao Jin, Shuang Shan, Qiao Wang, Junpeng Wang, Bowei Pan, Zhen Li, Fuyi Chen, ACS Omega. None(None)] 2024. https://openalex.org/W4404071955
+
+                No abstract</description>
+      <author>Quan Tang, Longfei Guo, Tao Jin, Shuang Shan, Qiao Wang, Junpeng Wang, Bowei Pan, Zhen Li, Fuyi Chen</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c03637</guid>
+    </item>
+    <item>
+      <title>Electrodegradation of nitrogenous pollutants in sewage: from reaction fundamentals to energy valorization applications</title>
+      <link>https://doi.org/10.1039/d4cs00517a</link>
+      <description>Minglei Sun, Li Wang, Yi Feng, Jin&#8208;Tao Ren, Sheng Wang, Zhong&#8208;Yong Yuan, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4404078300
+
+                This review provides a comprehensive insight into the electrodegradation processes of nitrogenous pollutants in sewage, highlighting the reaction mechanisms, theoretical descriptors, catalyst design, and energy valorization strategies.</description>
+      <author>Minglei Sun, Li Wang, Yi Feng, Jin&#8208;Tao Ren, Sheng Wang, Zhong&#8208;Yong Yuan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cs00517a</guid>
+    </item>
+    <item>
+      <title>Tailoring Atomic Ordering Uniformity Enables Selectively Leached Nanoporous Pd&#8208;Ni&#8208;P Metallic Glass for Enhanced Glucose Sensing</title>
+      <link>https://doi.org/10.1002/advs.202408816</link>
+      <description>Yu Lou, J. B. Li, Zhongzheng Yao, Zhenduo Wu, Huiqiang Ying, Lan Tan, Liu Si-nan, Jianrong Zeng, Ruohan Yu, Hong Liu, Xun&#8208;Li Wang, He Zhu, Si Lan, Advanced Science. None(None)] 2024. https://openalex.org/W4404078877
+
+                Abstract Constructing nanostructures, such as nanopores, within metallic glasses (MGs) holds great promise for further unlocking their electrochemical capabilities. However, the MGs typically exhibit intrinsic atomic&#8208;scale isotropy, posing a significant challenge in directly fabricating anisotropic nanostructures using conventional chemical synthesis. Herein a selective leaching approach, which focuses on tailoring the uniformity of atomic ordering, is introduced to achieve pore&#8208;engineered Pd&#8208;Ni&#8208;P MG. This innovative approach significantly boosts the number of exposed active sites, thereby enhancing the electrochemical sensitivity for glucose detection. Electrochemical tests reveal that the nanoporous Pd&#8208;Ni&#8208;P MG exhibits high sensitivity (3.19 mA m m &#8315;&#185; cm&#8315; 2 ) and remarkable stability (97.7% current retention after 1000 cycles). During electrochemical cycling, synchrotron X&#8208;ray pair distribution function and X&#8208;ray absorption fine structure analyses reveal that the distance between active sites decreases, enhancing electron transport efficiency, while the medium&#8208;range ordered structure of the Pd&#8208;Ni&#8208;P MG remains stable, contributing to its exceptional glucose sensing capabilities. A microglucose sensor is successfully developed by integrating the nanoporous Pd&#8208;Ni&#8208;P MG with a screen&#8208;printed electrode, demonstrating the practical applicability. This study not only offers a new avenue for the design of highly active nanoporous MGs but also sheds light on the mechanisms behind the high electrochemistry performance of MGs.</description>
+      <author>Yu Lou, J. B. Li, Zhongzheng Yao, Zhenduo Wu, Huiqiang Ying, Lan Tan, Liu Si-nan, Jianrong Zeng, Ruohan Yu, Hong Liu, Xun&#8208;Li Wang, He Zhu, Si Lan</author>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202408816</guid>
+    </item>
+    <item>
+      <title>Influence of the Pt/ionomer/water interface on the oxygen reduction reaction: insights into the micro-three-phase interface</title>
+      <link>https://doi.org/10.1039/d4sc06600f</link>
+      <description>Shangkun Jiang, Qiong Xiang, Zhi-Yan Xie, Na Yang, Jiawei Liu, Li Li, Zidong Wei, Chemical Science. None(None)] 2024. https://openalex.org/W4404079241
+
+                Understanding the Pt/ionomer/water interface structure and its impact on the oxygen reduction reaction activity is essential for enhancing catalyst utilization and performance of fuel cells.</description>
+      <author>Shangkun Jiang, Qiong Xiang, Zhi-Yan Xie, Na Yang, Jiawei Liu, Li Li, Zidong Wei</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4sc06600f</guid>
+    </item>
+    <item>
+      <title>Theoretical Establishment and Screening of Double-Atom Catalysts Supported on Biphenylene for an Efficient Electrocatalytic Nitrogen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsaem.4c02582</link>
+      <description>K. Raghu Raja Pandiyan, Dinesh Kumar Dhanthala Chittibabu, Hsin&#8208;Tsung Chen, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4404080387
+
+                No abstract</description>
+      <author>K. Raghu Raja Pandiyan, Dinesh Kumar Dhanthala Chittibabu, Hsin&#8208;Tsung Chen</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02582</guid>
+    </item>
+    <item>
       <title>Application of graph neural network in computational heterogeneous catalysis</title>
       <link>https://doi.org/10.1063/5.0227821</link>
       <description>Zihao Jiao, Ya Liu, Ziyun Wang, The Journal of Chemical Physics. 161(17)] 2024. https://openalex.org/W4403984381
@@ -566,36 +456,6 @@
       <author>Zihao Jiao, Ya Liu, Ziyun Wang</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0227821</guid>
-    </item>
-    <item>
-      <title>Toward AI/ML-assisted discovery of transition metal complexes</title>
-      <link>https://doi.org/10.1016/bs.arcc.2024.10.003</link>
-      <description>H.-Q. Jin, Kenneth M. Merz, Annual reports in computational chemistry. None(None)] 2024. https://openalex.org/W4403897047
-
-                No abstract</description>
-      <author>H.-Q. Jin, Kenneth M. Merz</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/bs.arcc.2024.10.003</guid>
-    </item>
-    <item>
-      <title>Hydrothermal reduction of CO2 captured by aqueous amine solutions into formate: comparison between in situ generated H2 and gaseous H2 as reductant and evaluation of amine stability</title>
-      <link>https://doi.org/10.1016/j.ccst.2024.100333</link>
-      <description>Laura Quintana-G&#243;mez, Luama Ara&#250;jo dos Santos, Fernando Cossio-Cid, V&#237;ctor Ciordia-Asenjo, Miguel Almarza, Alberto Goikoechea, Sergio Ferrero, Celedonio M. &#193;lvarez, Jos&#233; J. Segovia, &#193;ngel Mart&#237;n, M. Dolores Bermejo, Carbon Capture Science &amp; Technology. None(None)] 2024. https://openalex.org/W4403901788
-
-                No abstract</description>
-      <author>Laura Quintana-G&#243;mez, Luama Ara&#250;jo dos Santos, Fernando Cossio-Cid, V&#237;ctor Ciordia-Asenjo, Miguel Almarza, Alberto Goikoechea, Sergio Ferrero, Celedonio M. &#193;lvarez, Jos&#233; J. Segovia, &#193;ngel Mart&#237;n, M. Dolores Bermejo</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2024.100333</guid>
-    </item>
-    <item>
-      <title>Development of anion exchange membrane-based electrochemical CO2 separation cells for direct air capture</title>
-      <link>https://doi.org/10.1016/j.jiec.2024.10.049</link>
-      <description>Ji Eon Chae, Jiseon Choi, Dongkeun Lee, Sunyoup Lee, Seonyeob Kim, Journal of Industrial and Engineering Chemistry. None(None)] 2024. https://openalex.org/W4403905064
-
-                No abstract</description>
-      <author>Ji Eon Chae, Jiseon Choi, Dongkeun Lee, Sunyoup Lee, Seonyeob Kim</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jiec.2024.10.049</guid>
     </item>
   </channel>
 </rss>

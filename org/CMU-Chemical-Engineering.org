@@ -1,94 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Nov  7 01:20:01 2024
+Created on Fri Nov  8 01:19:36 2024
 
-Found 10 results from 2024-10-31 to 2024-11-07
+Found 6 results from 2024-11-01 to 2024-11-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Computational Analysis of the Effect of Structured Packing Design on Absorption Column Hydrodynamics for Post-Combustion Carbon Capture Applications  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403902920
-:TOPICS: Carbon Dioxide Capture and Storage Technologies, Cryogenic Fluid Storage and Management, Modeling and Optimization of Cyclone Separators
-:PUBLICATION_DATE: 2024-10-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2474815")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403902920"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403902920"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403902920"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403902920 (Open access: False)
-    
-[[https://openalex.org/A5038961197][Yash Shah]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], No host. None(None)] 2024. https://doi.org/10.2172/2474815 
-     
-No abstract    
-
-    
-
-* Modeling and Scaling up of Membrane Modules Leveraging Dimensional Analysis  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403903104
-:TOPICS: Self-Reconfigurable Robotic Systems and Modular Robotics
-:PUBLICATION_DATE: 2024-10-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2474814")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403903104"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403903104"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403903104"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403903104 (Open access: False)
-    
-[[https://openalex.org/A5079899169][Héctor Pedrozo]], [[https://openalex.org/A5093713938][Cheick Dosso]], [[https://openalex.org/A5037749425][Thien Tran]], [[https://openalex.org/A5002137675][Lingxiang Zhu]], [[https://openalex.org/A5041659494][Victor Kusuma]], [[https://openalex.org/A5101028600][David Hopkinson]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], No host. None(None)] 2024. https://doi.org/10.2172/2474814 
-     
-No abstract    
-
-    
-
-* Enumeration of surface site nuclearity and shape in a database of intermetallic low-index surface facets  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403909596
-:TOPICS: Accelerating Materials Innovation through Informatics, Atom Probe Tomography Research, Powder Diffraction Analysis
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcat.2024.115795")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403909596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403909596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403909596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403909596 (Open access: False)
-    
-[[https://openalex.org/A5034884349][Unnatti Sharma]], [[https://openalex.org/A5112922494][A.L. Nguyen]], [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5024574386][Zachary W. Ulissi]], [[https://openalex.org/A5031735060][Michael J. Janik]], Journal of Catalysis. None(None)] 2024. https://doi.org/10.1016/j.jcat.2024.115795 
-     
-No abstract    
-
-    
-
-* Distillation Column Optimization: A formal method using stage-to stage computations and distributed streams  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4403915426
-:TOPICS: State-of-the-Art in Process Optimization under Uncertainty, Model Predictive Control in Industrial Processes, Process Fault Detection and Diagnosis in Industries
-:PUBLICATION_DATE: 2024-10-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ces.2024.120875")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4403915426"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4403915426"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4403915426"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4403915426 (Open access: True)
-    
-[[https://openalex.org/A5017345166][Tobias Seidel]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], Chemical Engineering Science. None(None)] 2024. https://doi.org/10.1016/j.ces.2024.120875 
-     
-No abstract    
-
-    
 
 * Accessing Numerical Energy Hessians with Graph Neural Network Potentials   and Their Application in Heterogeneous Catalysis  :CMU_Chemical_Engineering:
 :PROPERTIES:

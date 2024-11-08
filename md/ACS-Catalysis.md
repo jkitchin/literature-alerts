@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Nov  7 01:19:58 2024
+Created on Fri Nov  8 01:19:35 2024
 
-Found 32 results from 2024-10-31 to 2024-11-07
+Found 26 results from 2024-11-01 to 2024-11-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Enabling Automation of de Novo Catalyst Design: An Experimentally Validated, Multifactor Design Metric for Olefin Metathesis   
-
-OpenAlex: https://openalex.org/W4403885980    
-Open access: True
-    
-[Jonas B. Ekeli](https://openalex.org/A5004711042), [Marco Foscato](https://openalex.org/A5091351477), [Christian O. Blanco](https://openalex.org/A5056827531), [Giovanni Occhipinti](https://openalex.org/A5066344973), [Deryn E. Fogg](https://openalex.org/A5010060889), [Vidar R. Jensen](https://openalex.org/A5048565832), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06212.
-    
-No abstract    
-
-    
-
-## Selective Hydrolysis of Heterooligosaccharides by Poly(acrylate) Gel Catalysts   
-
-OpenAlex: https://openalex.org/W4403888758    
-Open access: True
-    
-[Susanne Striegler](https://openalex.org/A5088338125), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04697.
-    
-No abstract    
-
-    
-
-## Activity Enhancement of Molybdenum Carbide in Alkaline Hydrogen Evolution Reaction through Oxidation-Gradient Modulation   
-
-OpenAlex: https://openalex.org/W4403892470    
-Open access: False
-    
-[Yifan Li](https://openalex.org/A5085794085), [Xueying Wan](https://openalex.org/A5033388493), [Zhigang Chen](https://openalex.org/A5101813176), [Ding Ding](https://openalex.org/A5100352094), [Hao Li](https://openalex.org/A5101598497), [Ning Zhang](https://openalex.org/A5058193995), [Dong Liu](https://openalex.org/A5074511443), [Yi Cui](https://openalex.org/A5063995082), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01779.
-    
-No abstract    
-
-    
-
-## Practical Considerations for Understanding Surface Reaction Mechanisms Involved in Heterogeneous Catalysis   
-
-OpenAlex: https://openalex.org/W4403921426    
-Open access: True
-    
-[Daniyal Kiani](https://openalex.org/A5028323119), [Israel E. Wachs](https://openalex.org/A5066491588), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05188.
-    
-No abstract    
-
-    
-
-## Electronic and Structural Property Comparison of Iridium-Based OER Nanocatalysts Enabled by Operando Ir L3-Edge X-ray Absorption Spectroscopy   
-
-OpenAlex: https://openalex.org/W4403922363    
-Open access: True
-    
-[Marianne van der Merwe](https://openalex.org/A5051766750), [Romualdus Enggar Wibowo](https://openalex.org/A5054420679), [Catalina Jiménez](https://openalex.org/A5085690657), [Carlos Escudero](https://openalex.org/A5009991442), [Giovanni Agostini](https://openalex.org/A5086042043), [Marcus Bär](https://openalex.org/A5084897727), [Raul Garcia‐Diez](https://openalex.org/A5011238991), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03562.
-    
-No abstract    
-
-    
-
-## Brønsted Acid-Triggered Fast Synthesis Pathway of Furfural to Ethyl Levulinate by PtZn Supported on ZSM-5 Nanosheets   
-
-OpenAlex: https://openalex.org/W4403923117    
-Open access: False
-    
-[Longbin Deng](https://openalex.org/A5027570306), [Zongyuan Wang](https://openalex.org/A5078862472), [Xin Yu](https://openalex.org/A5100738018), [Congzhen Qiao](https://openalex.org/A5103978773), [Shuaishuai Zhou](https://openalex.org/A5014151565), [Qiang Deng](https://openalex.org/A5080694348), [Yong Zhao](https://openalex.org/A5005156164), [Yajie Tian](https://openalex.org/A5080899164), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03794.
-    
-No abstract    
-
-    
-
-## Chiral N-Hydroxyalkyl Pyrid-2-Ylidenes: A New Class of Ligands for Copper-Catalyzed Asymmetric Allylic Alkylation   
-
-OpenAlex: https://openalex.org/W4403923563    
-Open access: False
-    
-[Dylan Bouëtard](https://openalex.org/A5079912377), [Ziyun Zhang](https://openalex.org/A5016909379), [Thomas Vivès](https://openalex.org/A5084447390), [Marie Cordier≈](https://openalex.org/A5047907424), [Luigi Cavallo](https://openalex.org/A5053222658), [Lucie Jarrige](https://openalex.org/A5061160719), [Laura Falivene](https://openalex.org/A5035011115), [Marc Mauduit](https://openalex.org/A5066691360), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05243.
-    
-No abstract    
-
-    
 
 ## Relative Generality and Risk: Quantitative Measures for Broad Catalyst Success   
 
@@ -143,7 +66,7 @@ No abstract
 OpenAlex: https://openalex.org/W4403967265    
 Open access: False
     
-[Federico Droghetti](https://openalex.org/A5031201924), [Florian Lemken](https://openalex.org/A5056997255), [Lubomı́r Rulı́šek](https://openalex.org/A5087245272), [Albert Ruggi](https://openalex.org/A5069924778), [Mirco Natali](https://openalex.org/A5070352772), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04290.
+[Federico Droghetti](https://openalex.org/A5031201924), [Florian Lemken](https://openalex.org/A5056997255), [Lubomı́r Rulı́s̆ek](https://openalex.org/A5087245272), [Albert Ruggi](https://openalex.org/A5069924778), [Mirco Natali](https://openalex.org/A5070352772), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04290.
     
 No abstract    
 
@@ -353,6 +276,17 @@ OpenAlex: https://openalex.org/W4404063344
 Open access: False
     
 [Guancong Jiang](https://openalex.org/A5005447250), [Li-Hui Mou](https://openalex.org/A5086547994), [Zhiheng Wang](https://openalex.org/A5100655742), [Lilong Zhang](https://openalex.org/A5091802653), [Tuo Ji](https://openalex.org/A5102848636), [Liwen Mu](https://openalex.org/A5066372594), [Jun Jiang](https://openalex.org/A5100619997), [Xiaohua Lü](https://openalex.org/A5048052547), [Jiahua Zhu](https://openalex.org/A5024790419), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04446.
+    
+No abstract    
+
+    
+
+## Nitrite-Mediated Pulsed Electrocatalytic Nitrate Reduction to Ammonia over Co@Cu NW with Dual Active Sites   
+
+OpenAlex: https://openalex.org/W4404078397    
+Open access: False
+    
+[Rundong Zhao](https://openalex.org/A5066317901), [Qiuyu Yan](https://openalex.org/A5102558555), [Ling Lu](https://openalex.org/A5103455776), [Lihong Yu](https://openalex.org/A5101658174), [Chen Huang](https://openalex.org/A5100432867), [Tian Yan](https://openalex.org/A5113097991), [Le Liu](https://openalex.org/A5100688180), [Jingyu Xi](https://openalex.org/A5111697293), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03782.
     
 No abstract    
 
