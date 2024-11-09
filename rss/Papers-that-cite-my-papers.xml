@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Nov 2024 01:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 01:18:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Exact average many-body interatomic interaction model for random alloys</title>
-      <link>https://doi.org/10.1016/j.commt.2024.100018</link>
-      <description>Max Hodapp, Deleted Journal. None(None)] 2024. https://openalex.org/W4403930872
-
-                No abstract</description>
-      <author>Max Hodapp</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commt.2024.100018</guid>
-    </item>
-    <item>
-      <title>Theoretical study of a CuCo dual-atom catalyst for nitrogen fixation</title>
-      <link>https://doi.org/10.1039/d4ra06077f</link>
-      <description>Miaomiao Han, Shouxin Zhang, Chenyu Zhang, RSC Advances. 14(47)] 2024. https://openalex.org/W4403940197
-
-                The potential for N 2 fixation of the heteronuclear CuCo dual-atom catalyst (DAC) was investigated by DFT calculations.</description>
-      <author>Miaomiao Han, Shouxin Zhang, Chenyu Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra06077f</guid>
-    </item>
-    <item>
-      <title>Unveiling activity of transition metal single-atom sites on the graphene-like BC2P monolayer for oxygen evolution reaction: A density functional theory study</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114648</link>
-      <description>Xi Fu, Jian Lin, Guangyao Liang, Wenhu Liao, Haixia Gao, Xiaowu Li, Liming Li, Molecular Catalysis. 569(None)] 2024. https://openalex.org/W4403943389
-
-                No abstract</description>
-      <author>Xi Fu, Jian Lin, Guangyao Liang, Wenhu Liao, Haixia Gao, Xiaowu Li, Liming Li</author>
-      <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114648</guid>
-    </item>
-    <item>
-      <title>Adsorption of Imidazolium&#8208;Based Ionic Liquid On Pt(111) Surface Studied Using Density Functional Theory</title>
-      <link>https://doi.org/10.1002/adts.202400458</link>
-      <description>Arka Prava Sarkar, Sandeep K. Reddy, Advanced Theory and Simulations. None(None)] 2024. https://openalex.org/W4403952421
-
-                Abstract The strength and nature of adsorption of imidazolium&#8208;based tetraflouroborate ionic liquid (IL) on platinum surface has been investigated via first principle&#8208;based density functional theory method. Adsorption of both IL cation and IL ion&#8208;pair as a function of increasing alkyl chain length is taken into consideration. Three different orientations of ionic liquid cations are found to be stable with higher adsorption energy noticed for the alkyl chain parallel to the platinum surface. The anions are found to stabilize the IL cation orientation where the alkyl chain is oriented perpendicular the platinum surface. These results are further corroborated by the charge transfer analysis and electron density difference maps. The significant charge transfer between the ionic liquid pair and the surface indicates electrochemical applications for systems involving electrolytes and metal surface, where electrostatic interactions play a major role. The results of this investigation can be helpful for further analysis of electrode&#8211;electrolyte systems as well as the development of force field parameters for these systems.</description>
-      <author>Arka Prava Sarkar, Sandeep K. Reddy</author>
-      <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adts.202400458</guid>
-    </item>
-    <item>
-      <title>First-principles study on two-dimensional direct Z-scheme g-GeC/MoSe2 heterostructure for overall photocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.commatsci.2024.113496</link>
-      <description>Yuxi Zhang, Peng Wang, Fangfang Li, Yiliang Cai, Computational Materials Science. 246(None)] 2024. https://openalex.org/W4403966198
-
-                No abstract</description>
-      <author>Yuxi Zhang, Peng Wang, Fangfang Li, Yiliang Cai</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113496</guid>
-    </item>
-    <item>
-      <title>Amorphous NiO nanopyramids with superior electrochromic energ-y storage properties</title>
-      <link>https://doi.org/10.1016/j.ceramint.2024.10.460</link>
-      <description>Yingdi Shi, Yong Zhang, Yulei Zheng, Kai Tang, Xiang Ke, Zirong Li, Jing Tang, Zhenzhen Hui, Longqiang Ye, Ceramics International. None(None)] 2024. https://openalex.org/W4403968719
-
-                No abstract</description>
-      <author>Yingdi Shi, Yong Zhang, Yulei Zheng, Kai Tang, Xiang Ke, Zirong Li, Jing Tang, Zhenzhen Hui, Longqiang Ye</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2024.10.460</guid>
-    </item>
-    <item>
-      <title>Carbon-anchoring synthesis of Pt1Ni1@Pt/C core-shell catalysts for stable oxygen reduction reaction</title>
-      <link>https://doi.org/10.1038/s41467-024-53808-y</link>
-      <description>Jialin Cui, Di Zhang, Zhongliang Liu, Congcong Li, Tingting Zhang, Shixin Yin, Yiting Song, Hao Li, Huihui Li, Chunzhong Li, Nature Communications. 15(1)] 2024. https://openalex.org/W4403969270
-
-                Proton-exchange-membrane fuel cells demand highly efficient catalysts for the oxygen reduction reaction, and core-shell structures are known for maximizing precious metal utilization. Here, we reported a controllable "carbon defect anchoring" strategy to prepare Pt</description>
-      <author>Jialin Cui, Di Zhang, Zhongliang Liu, Congcong Li, Tingting Zhang, Shixin Yin, Yiting Song, Hao Li, Huihui Li, Chunzhong Li</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53808-y</guid>
-    </item>
-    <item>
-      <title>Ambient-condition acetylene hydrogenation to ethylene over WS2-confined atomic Pd sites</title>
-      <link>https://doi.org/10.1038/s41467-024-53481-1</link>
-      <description>Wangwang Zhang, Kelechi Uwakwe, Jingting Hu, Wei Yan, Juntong Zhu, Wu Zhou, Chao Ma, Liang Yu, Rui Huang, Dehui Deng, Nature Communications. 15(1)] 2024. https://openalex.org/W4403969537
-
-                Ambient-condition acetylene hydrogenation to ethylene (AC-AHE) is a promising process for ethylene production with minimal additional energy input, yet remains a great challenge due to the difficulty in the coactivation of acetylene and H</description>
-      <author>Wangwang Zhang, Kelechi Uwakwe, Jingting Hu, Wei Yan, Juntong Zhu, Wu Zhou, Chao Ma, Liang Yu, Rui Huang, Dehui Deng</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53481-1</guid>
-    </item>
     <item>
       <title>Effects of strain, pH and oxygen-deficient on catalytic performance of Ruddlesden-Popper oxide Srn+1RunO3n+1 (n=1, 2) for hydrogen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.10.405</link>
@@ -446,6 +366,56 @@
       <author>K. Raghu Raja Pandiyan, Dinesh Kumar Dhanthala Chittibabu, Hsin&#8208;Tsung Chen</author>
       <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02582</guid>
+    </item>
+    <item>
+      <title>Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; on a Well-Matched Substrate</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c03507</link>
+      <description>Liming Zeng, Biao Yuan, Qing Zhou, Langmuir. None(None)] 2024. https://openalex.org/W4404099969
+
+                No abstract</description>
+      <author>Liming Zeng, Biao Yuan, Qing Zhou</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03507</guid>
+    </item>
+    <item>
+      <title>Ab initio characterization of protein molecular dynamics with AI2BMD</title>
+      <link>https://doi.org/10.1038/s41586-024-08127-z</link>
+      <description>Tong Wang, Xinheng He, Mingyu Li, Yatao Li, Ran Bi, Yusong Wang, Chaoran Cheng, Xiangzhen Shen, Jiawei Meng, He Zhang, Haiguang Liu, Zun Wang, Shaoning Li, Bin Shao, Tie&#8208;Yan Liu, Nature. None(None)] 2024. https://openalex.org/W4404105372
+
+                No abstract</description>
+      <author>Tong Wang, Xinheng He, Mingyu Li, Yatao Li, Ran Bi, Yusong Wang, Chaoran Cheng, Xiangzhen Shen, Jiawei Meng, He Zhang, Haiguang Liu, Zun Wang, Shaoning Li, Bin Shao, Tie&#8208;Yan Liu</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41586-024-08127-z</guid>
+    </item>
+    <item>
+      <title>Recent Spectroscopy Advances in Energy Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c05853</link>
+      <description>Qimei Yang, Xiaoyun Song, Ting Zheng, Jian Yang, Wei Ding, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404109663
+
+                No abstract</description>
+      <author>Qimei Yang, Xiaoyun Song, Ting Zheng, Jian Yang, Wei Ding</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05853</guid>
+    </item>
+    <item>
+      <title>Integrated Carbon Dioxide Capture by Amines and Conversion to Methane on Single-Atom Nickel Catalysts</title>
+      <link>https://doi.org/10.1021/jacs.4c09744</link>
+      <description>Tomaz Neves&#8208;Garcia, Mahmudul Hasan, Quansong Zhu, Jing Li, Zhan Jiang, Yongye Liang, Hailiang Wang, Liane M. Rossi, Robert E. Warburton, L. Robert Baker, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4404112538
+
+                Direct electrochemical reduction of carbon dioxide (CO2) capture species, i.e., carbamate and (bi)carbonate, can be promising for CO2 capture and conversion from point-source, where the energetically demanding stripping step is bypassed. Here, we describe a class of atomically dispersed nickel (Ni) catalysts electrodeposited on various electrode surfaces that are shown to directly convert captured CO2 to methane (CH4). A detailed study employing X-ray photoelectron spectroscopy (XPS) and electron microscopy (EM) indicate that highly dispersed Ni atoms are uniquely active for converting capture species to CH4, and the activity of single-atom Ni is confirmed using control experiments with a molecularly defined Ni phthalocyanine catalyst supported on carbon nanotubes. Comparing the kinetics of various capture solutions obtained from hydroxide, ammonia, primary, secondary, and tertiary amines provide evidence that carbamate, rather than (bi)carbonate and/or dissolved CO2, is primarily responsible for CH4 production. This conclusion is supported by 13C nuclear magnetic resonance (NMR) spectroscopy of capture solutions as well as control experiments comparing reaction selectivity with and without CO2 purging. These findings are understood with the help of density functional theory (DFT) calculations showing that single-atom nickel (Ni) dispersed on gold (Au) is active for the direct reduction of carbamate, producing CH4 as the primary product. This is the first example of direct electrochemical conversion of carbamate to CH4, and the mechanism of this process provides new insight on the potential for integrated capture and conversion of CO2 directly to hydrocarbons.</description>
+      <author>Tomaz Neves&#8208;Garcia, Mahmudul Hasan, Quansong Zhu, Jing Li, Zhan Jiang, Yongye Liang, Hailiang Wang, Liane M. Rossi, Robert E. Warburton, L. Robert Baker</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c09744</guid>
+    </item>
+    <item>
+      <title>Automated image acquisition and analysis of graphene and hexagonal boron nitride from pristine to highly defective and amorphous structures</title>
+      <link>https://doi.org/10.1038/s41598-024-77740-9</link>
+      <description>Diana Propst, Wael Joudi, Manuel L&#228;ngle, Jacob Madsen, Clara Kofler, Barbara Maria Mayer, David Lamprecht, Clemens Mangler, Lado Filipovic, Toma Susi, Jani Kotakoski, Scientific Reports. 14(1)] 2024. https://openalex.org/W4404112546
+
+                Abstract Defect-engineered and even amorphous two-dimensional (2D) materials have recently gained interest due to properties that differ from their pristine counterparts. Since these properties are highly sensitive to the exact atomic structure, it is crucial to be able to characterize them at atomic resolution over large areas. This is only possible when the imaging process is automated to reduce the time spent on manual imaging, which at the same time reduces the observer bias in selecting the imaged areas. Since the necessary datasets include at least hundreds if not thousands of images, the analysis process similarly needs to be automated. Here, we introduce disorder into graphene and monolayer hexagonal boron nitride (hBN) using low-energy argon ion irradiation, and characterize the resulting disordered structures using automated scanning transmission electron microscopy annular dark field imaging combined with convolutional neural network-based analysis techniques. We show that disorder manifests in these materials in a markedly different way, where graphene accommodates vacancy-type defects by transforming hexagonal carbon rings into other polygonal shapes, whereas in hBN the disorder is observed simply as vacant lattice sites with very little rearrangement of the remaining atoms. Correspondingly, in the case of graphene, the highest introduced disorder leads to an amorphous membrane, whereas in hBN, the highly defective lattice contains a large number of vacancies and small pores with no indication of amorphisation. Overall, our study demonstrates that combining automated imaging and image analysis is a powerful way to characterize the structure of disordered and amorphous 2D materials, while also illustrating some of the remaining shortcomings with this methodology.</description>
+      <author>Diana Propst, Wael Joudi, Manuel L&#228;ngle, Jacob Madsen, Clara Kofler, Barbara Maria Mayer, David Lamprecht, Clemens Mangler, Lado Filipovic, Toma Susi, Jani Kotakoski</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-77740-9</guid>
     </item>
     <item>
       <title>Application of graph neural network in computational heterogeneous catalysis</title>

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Nov  8 01:19:50 2024
+Created on Sat Nov  9 01:18:04 2024
 
-Found 45 results from 2024-11-01 to 2024-11-08
+Found 42 results from 2024-11-02 to 2024-11-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,94 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Exact average many-body interatomic interaction model for random alloys   
-
-OpenAlex: https://openalex.org/W4403930872    
-Open access: True
-    
-[Max Hodapp](https://openalex.org/A5064082194), Deleted Journal. None(None)] 2024.https://doi.org/10.1016/j.commt.2024.100018.
-    
-No abstract    
-
-    
-
-## Theoretical study of a CuCo dual-atom catalyst for nitrogen fixation   
-
-OpenAlex: https://openalex.org/W4403940197    
-Open access: True
-    
-[Miaomiao Han](https://openalex.org/A5065121218), [Shouxin Zhang](https://openalex.org/A5101742243), [Chenyu Zhang](https://openalex.org/A5100377483), RSC Advances. 14(47)] 2024.https://doi.org/10.1039/d4ra06077f.
-    
-The potential for N 2 fixation of the heteronuclear CuCo dual-atom catalyst (DAC) was investigated by DFT calculations.    
-
-    
-
-## Unveiling activity of transition metal single-atom sites on the graphene-like BC2P monolayer for oxygen evolution reaction: A density functional theory study   
-
-OpenAlex: https://openalex.org/W4403943389    
-Open access: False
-    
-[Xi Fu](https://openalex.org/A5029064586), [Jian Lin](https://openalex.org/A5017039673), [Guangyao Liang](https://openalex.org/A5113329545), [Wenhu Liao](https://openalex.org/A5034848041), [Haixia Gao](https://openalex.org/A5002083689), [Xiaowu Li](https://openalex.org/A5100683748), [Liming Li](https://openalex.org/A5100429624), Molecular Catalysis. 569(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114648.
-    
-No abstract    
-
-    
-
-## Adsorption of Imidazolium‐Based Ionic Liquid On Pt(111) Surface Studied Using Density Functional Theory   
-
-OpenAlex: https://openalex.org/W4403952421    
-Open access: True
-    
-[Arka Prava Sarkar](https://openalex.org/A5066446757), [Sandeep K. Reddy](https://openalex.org/A5077908907), Advanced Theory and Simulations. None(None)] 2024.https://doi.org/10.1002/adts.202400458 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adts.202400458)).
-    
-Abstract The strength and nature of adsorption of imidazolium‐based tetraflouroborate ionic liquid (IL) on platinum surface has been investigated via first principle‐based density functional theory method. Adsorption of both IL cation and IL ion‐pair as a function of increasing alkyl chain length is taken into consideration. Three different orientations of ionic liquid cations are found to be stable with higher adsorption energy noticed for the alkyl chain parallel to the platinum surface. The anions are found to stabilize the IL cation orientation where the alkyl chain is oriented perpendicular the platinum surface. These results are further corroborated by the charge transfer analysis and electron density difference maps. The significant charge transfer between the ionic liquid pair and the surface indicates electrochemical applications for systems involving electrolytes and metal surface, where electrostatic interactions play a major role. The results of this investigation can be helpful for further analysis of electrode–electrolyte systems as well as the development of force field parameters for these systems.    
-
-    
-
-## First-principles study on two-dimensional direct Z-scheme g-GeC/MoSe2 heterostructure for overall photocatalytic water splitting   
-
-OpenAlex: https://openalex.org/W4403966198    
-Open access: False
-    
-[Yuxi Zhang](https://openalex.org/A5024635514), [Peng Wang](https://openalex.org/A5100396151), [Fangfang Li](https://openalex.org/A5100404525), [Yiliang Cai](https://openalex.org/A5100916113), Computational Materials Science. 246(None)] 2024.https://doi.org/10.1016/j.commatsci.2024.113496.
-    
-No abstract    
-
-    
-
-## Amorphous NiO nanopyramids with superior electrochromic energ-y storage properties   
-
-OpenAlex: https://openalex.org/W4403968719    
-Open access: False
-    
-[Yingdi Shi](https://openalex.org/A5063972154), [Yong Zhang](https://openalex.org/A5100419819), [Yulei Zheng](https://openalex.org/A5059066950), [Kai Tang](https://openalex.org/A5108281872), [Xiang Ke](https://openalex.org/A5017754001), [Zirong Li](https://openalex.org/A5101984086), [Jing Tang](https://openalex.org/A5044066666), [Zhenzhen Hui](https://openalex.org/A5091792744), [Longqiang Ye](https://openalex.org/A5040726745), Ceramics International. None(None)] 2024.https://doi.org/10.1016/j.ceramint.2024.10.460.
-    
-No abstract    
-
-    
-
-## Carbon-anchoring synthesis of Pt1Ni1@Pt/C core-shell catalysts for stable oxygen reduction reaction   
-
-OpenAlex: https://openalex.org/W4403969270    
-Open access: True
-    
-[Jialin Cui](https://openalex.org/A5054847042), [Di Zhang](https://openalex.org/A5100366363), [Zhongliang Liu](https://openalex.org/A5103117286), [Congcong Li](https://openalex.org/A5101972786), [Tingting Zhang](https://openalex.org/A5100329630), [Shixin Yin](https://openalex.org/A5109413960), [Yiting Song](https://openalex.org/A5074779071), [Hao Li](https://openalex.org/A5100348631), [Huihui Li](https://openalex.org/A5100338281), [Chunzhong Li](https://openalex.org/A5009144836), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53808-y.
-    
-Proton-exchange-membrane fuel cells demand highly efficient catalysts for the oxygen reduction reaction, and core-shell structures are known for maximizing precious metal utilization. Here, we reported a controllable "carbon defect anchoring" strategy to prepare Pt    
-
-    
-
-## Ambient-condition acetylene hydrogenation to ethylene over WS2-confined atomic Pd sites   
-
-OpenAlex: https://openalex.org/W4403969537    
-Open access: True
-    
-[Wangwang Zhang](https://openalex.org/A5090952476), [Kelechi Uwakwe](https://openalex.org/A5011796988), [Jingting Hu](https://openalex.org/A5101518198), [Wei Yan](https://openalex.org/A5102007245), [Juntong Zhu](https://openalex.org/A5045764791), [Wu Zhou](https://openalex.org/A5077976698), [Chao Ma](https://openalex.org/A5025545087), [Liang Yu](https://openalex.org/A5100692990), [Rui Huang](https://openalex.org/A5078462246), [Dehui Deng](https://openalex.org/A5022049240), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53481-1.
-    
-Ambient-condition acetylene hydrogenation to ethylene (AC-AHE) is a promising process for ethylene production with minimal additional energy input, yet remains a great challenge due to the difficulty in the coactivation of acetylene and H    
-
-    
 
 ## Effects of strain, pH and oxygen-deficient on catalytic performance of Ruddlesden-Popper oxide Srn+1RunO3n+1 (n=1, 2) for hydrogen evolution reaction   
 
@@ -498,6 +410,61 @@ Open access: True
 [K. Raghu Raja Pandiyan](https://openalex.org/A5111675970), [Dinesh Kumar Dhanthala Chittibabu](https://openalex.org/A5014460091), [Hsin‐Tsung Chen](https://openalex.org/A5012707510), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.4c02582.
     
 No abstract    
+
+    
+
+## Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuOx on a Well-Matched Substrate   
+
+OpenAlex: https://openalex.org/W4404099969    
+Open access: False
+    
+[Liming Zeng](https://openalex.org/A5068534193), [Biao Yuan](https://openalex.org/A5076170351), [Qing Zhou](https://openalex.org/A5081814287), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c03507.
+    
+No abstract    
+
+    
+
+## Ab initio characterization of protein molecular dynamics with AI2BMD   
+
+OpenAlex: https://openalex.org/W4404105372    
+Open access: True
+    
+[Tong Wang](https://openalex.org/A5100451017), [Xinheng He](https://openalex.org/A5037530308), [Mingyu Li](https://openalex.org/A5100335526), [Yatao Li](https://openalex.org/A5057973279), [Ran Bi](https://openalex.org/A5021142577), [Yusong Wang](https://openalex.org/A5100706497), [Chaoran Cheng](https://openalex.org/A5083138387), [Xiangzhen Shen](https://openalex.org/A5080875885), [Jiawei Meng](https://openalex.org/A5060950346), [He Zhang](https://openalex.org/A5101655524), [Haiguang Liu](https://openalex.org/A5072407378), [Zun Wang](https://openalex.org/A5101452806), [Shaoning Li](https://openalex.org/A5101409137), [Bin Shao](https://openalex.org/A5101518422), [Tie‐Yan Liu](https://openalex.org/A5101884287), Nature. None(None)] 2024.https://doi.org/10.1038/s41586-024-08127-z.
+    
+No abstract    
+
+    
+
+## Recent Spectroscopy Advances in Energy Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4404109663    
+Open access: False
+    
+[Qimei Yang](https://openalex.org/A5003101550), [Xiaoyun Song](https://openalex.org/A5102753305), [Ting Zheng](https://openalex.org/A5049841576), [Jian Yang](https://openalex.org/A5000485505), [Wei Ding](https://openalex.org/A5047787756), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c05853.
+    
+No abstract    
+
+    
+
+## Integrated Carbon Dioxide Capture by Amines and Conversion to Methane on Single-Atom Nickel Catalysts   
+
+OpenAlex: https://openalex.org/W4404112538    
+Open access: False
+    
+[Tomaz Neves‐Garcia](https://openalex.org/A5089376840), [Mahmudul Hasan](https://openalex.org/A5018164116), [Quansong Zhu](https://openalex.org/A5068666579), [Jing Li](https://openalex.org/A5100694993), [Zhan Jiang](https://openalex.org/A5101388368), [Yongye Liang](https://openalex.org/A5017109982), [Hailiang Wang](https://openalex.org/A5052874755), [Liane M. Rossi](https://openalex.org/A5063441901), [Robert E. Warburton](https://openalex.org/A5037300903), [L. Robert Baker](https://openalex.org/A5067119819), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c09744.
+    
+Direct electrochemical reduction of carbon dioxide (CO2) capture species, i.e., carbamate and (bi)carbonate, can be promising for CO2 capture and conversion from point-source, where the energetically demanding stripping step is bypassed. Here, we describe a class of atomically dispersed nickel (Ni) catalysts electrodeposited on various electrode surfaces that are shown to directly convert captured CO2 to methane (CH4). A detailed study employing X-ray photoelectron spectroscopy (XPS) and electron microscopy (EM) indicate that highly dispersed Ni atoms are uniquely active for converting capture species to CH4, and the activity of single-atom Ni is confirmed using control experiments with a molecularly defined Ni phthalocyanine catalyst supported on carbon nanotubes. Comparing the kinetics of various capture solutions obtained from hydroxide, ammonia, primary, secondary, and tertiary amines provide evidence that carbamate, rather than (bi)carbonate and/or dissolved CO2, is primarily responsible for CH4 production. This conclusion is supported by 13C nuclear magnetic resonance (NMR) spectroscopy of capture solutions as well as control experiments comparing reaction selectivity with and without CO2 purging. These findings are understood with the help of density functional theory (DFT) calculations showing that single-atom nickel (Ni) dispersed on gold (Au) is active for the direct reduction of carbamate, producing CH4 as the primary product. This is the first example of direct electrochemical conversion of carbamate to CH4, and the mechanism of this process provides new insight on the potential for integrated capture and conversion of CO2 directly to hydrocarbons.    
+
+    
+
+## Automated image acquisition and analysis of graphene and hexagonal boron nitride from pristine to highly defective and amorphous structures   
+
+OpenAlex: https://openalex.org/W4404112546    
+Open access: True
+    
+[Diana Propst](https://openalex.org/A5037286941), [Wael Joudi](https://openalex.org/A5061525811), [Manuel Längle](https://openalex.org/A5035558275), [Jacob Madsen](https://openalex.org/A5089971005), [Clara Kofler](https://openalex.org/A5095375477), [Barbara Maria Mayer](https://openalex.org/A5101335349), [David Lamprecht](https://openalex.org/A5105052117), [Clemens Mangler](https://openalex.org/A5066503119), [Lado Filipovic](https://openalex.org/A5083434497), [Toma Susi](https://openalex.org/A5024871823), [Jani Kotakoski](https://openalex.org/A5003528240), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-77740-9.
+    
+Abstract Defect-engineered and even amorphous two-dimensional (2D) materials have recently gained interest due to properties that differ from their pristine counterparts. Since these properties are highly sensitive to the exact atomic structure, it is crucial to be able to characterize them at atomic resolution over large areas. This is only possible when the imaging process is automated to reduce the time spent on manual imaging, which at the same time reduces the observer bias in selecting the imaged areas. Since the necessary datasets include at least hundreds if not thousands of images, the analysis process similarly needs to be automated. Here, we introduce disorder into graphene and monolayer hexagonal boron nitride (hBN) using low-energy argon ion irradiation, and characterize the resulting disordered structures using automated scanning transmission electron microscopy annular dark field imaging combined with convolutional neural network-based analysis techniques. We show that disorder manifests in these materials in a markedly different way, where graphene accommodates vacancy-type defects by transforming hexagonal carbon rings into other polygonal shapes, whereas in hBN the disorder is observed simply as vacant lattice sites with very little rearrangement of the remaining atoms. Correspondingly, in the case of graphene, the highest introduced disorder leads to an amorphous membrane, whereas in hBN, the highly defective lattice contains a large number of vacancies and small pores with no indication of amorphisation. Overall, our study demonstrates that combining automated imaging and image analysis is a powerful way to characterize the structure of disordered and amorphous 2D materials, while also illustrating some of the remaining shortcomings with this methodology.    
 
     
 

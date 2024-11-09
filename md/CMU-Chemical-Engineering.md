@@ -1,56 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Nov  8 01:19:36 2024
+Created on Sat Nov  9 01:17:46 2024
 
-Found 6 results from 2024-11-01 to 2024-11-08
+Found 3 results from 2024-11-02 to 2024-11-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Accessing Numerical Energy Hessians with Graph Neural Network Potentials
-  and Their Application in Heterogeneous Catalysis   
-
-OpenAlex: https://openalex.org/W4403928590    
-Open access: True
-    
-[Brook Wander](https://openalex.org/A5029824000), [Joseph Musielewicz](https://openalex.org/A5035368167), [Raffaele Cheula](https://openalex.org/A5022902169), [John R. Kitchin](https://openalex.org/A5003442464), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.01650 ([pdf](http://arxiv.org/pdf/2410.01650)).
-    
-Access to the potential energy Hessian enables determination of the Gibbs free energy, and certain approaches to transition state search and optimization. Here, we demonstrate that off-the-shelf pretrained Open Catalyst Project (OCP) machine learned potentials (MLPs) determine the Hessian with great success (58 cm$^{-1}$ mean absolute error (MAE)) for intermediates adsorbed to heterogeneous catalyst surfaces. This enables the use of OCP models for the aforementioned applications. The top performing model, with a simple offset correction, gives good estimations of the vibrational entropy contribution to the Gibbs free energy with an MAE of 0.042 eV at 300 K. The ability to leverage models to capture the translational entropy was also explored. It was determined that 94% of randomly sampled systems had a translational entropy greater than 0.1 eV at 300 K. This underscores the need to go beyond the harmonic approximation to consider the entropy introduced by adsorbate translation, which increases with temperature. Lastly, we used MLP determined Hessian information for transition state search and found we were able to reduce the number of unconverged systems by 65% to 93% overall convergence, improving on the baseline established by CatTSunami.    
-
-    
-
-## Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills   
-
-OpenAlex: https://openalex.org/W4403930057    
-Open access: False
-    
-[Lingxiang Zhu](https://openalex.org/A5002137675), [Thien Tran](https://openalex.org/A5037749425), [Fangming Xiang](https://openalex.org/A5076767088), [Victor Kusuma](https://openalex.org/A5041659494), [Cheick Dosso](https://openalex.org/A5093713938), [Héctor Pedrozo](https://openalex.org/A5079899169), [Grigorios Panagakos](https://openalex.org/A5028498558), [Neil Pergar](https://openalex.org/A5098681635), [Brenda Petrilena](https://openalex.org/A5098681636), [David Hopkinson](https://openalex.org/A5021768097), No host. None(None)] 2024.https://doi.org/10.2172/2475058.
-    
-No abstract    
-
-    
-
-## CFD modeling of high-flux plate-and-frame membrane modules for industrial carbon capture   
-
-OpenAlex: https://openalex.org/W4403930073    
-Open access: False
-    
-[Cheick Dosso](https://openalex.org/A5093713938), [Grigorios Panagakos](https://openalex.org/A5028498558), [Héctor Pedrozo](https://openalex.org/A5079899169), [Lorenz T. Biegler](https://openalex.org/A5052825722), No host. None(None)] 2024.https://doi.org/10.2172/2475060.
-    
-No abstract    
-
-    
-
-## Advancing Molecular Machine (Learned) Representations with
-  Stereoelectronics-Infused Molecular Graphs   
-
-OpenAlex: https://openalex.org/W4403967299    
-Open access: True
-    
-[Daniil A. Boiko](https://openalex.org/A5065327102), [Thiago Reschützegger](https://openalex.org/A5081625865), [Benjamín Sánchez-Lengeling](https://openalex.org/A5065990295), [Samuel M. Blau](https://openalex.org/A5031012398), [Gabriel dos Passos Gomes](https://openalex.org/A5048633127), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2408.04520 ([pdf](http://arxiv.org/pdf/2408.04520)).
-    
-Molecular representation is a foundational element in our understanding of the physical world. Its importance ranges from the fundamentals of chemical reactions to the design of new therapies and materials. Previous molecular machine learning models have employed strings, fingerprints, global features, and simple molecular graphs that are inherently information-sparse representations. However, as the complexity of prediction tasks increases, the molecular representation needs to encode higher fidelity information. This work introduces a novel approach to infusing quantum-chemical-rich information into molecular graphs via stereoelectronic effects. We show that the explicit addition of stereoelectronic interactions significantly improves the performance of molecular machine learning models. Furthermore, stereoelectronics-infused representations can be learned and deployed with a tailored double graph neural network workflow, enabling its application to any downstream molecular machine learning task. Finally, we show that the learned representations allow for facile stereoelectronic evaluation of previously intractable systems, such as entire proteins, opening new avenues of molecular design.    
-
-    
 
 ## Experimental and Theoretical Evaluation of Feed Flow Collar Design For 3D Printed Shell-Fed Hollow Fiber Membrane Modules   
 
@@ -71,5 +25,16 @@ Open access: True
 [R. Kailasham](https://openalex.org/A5034160371), [Aditya S. Khair](https://openalex.org/A5018420940), Soft Matter. None(None)] 2024.https://doi.org/10.1039/d4sm00864b.
     
 Active Brownian disks moving in two dimensions that exchange information about their internal state stochastically are chosen to model epidemic spread in a self-propelled population of agents under the susceptible-infected-recovered-susceptible...    
+
+    
+
+## Perioperative Considerations in Patients with Rett Syndrome as Compared to Those with Cerebral Palsy   
+
+OpenAlex: https://openalex.org/W4404093102    
+Open access: False
+    
+[Vishal Sarwahi](https://openalex.org/A5032266776), [Effat Rahman](https://openalex.org/A5106577048), [Katherine Eigo](https://openalex.org/A5106577047), [Jesse Galina](https://openalex.org/A5037787871), [Sayyida Hasan](https://openalex.org/A5042155703), [Andrew L. Ko](https://openalex.org/A5070970490), [Yungtai Lo](https://openalex.org/A5086230340), [Terry Amaral](https://openalex.org/A5075376507), [Aleksandra Djukic](https://openalex.org/A5113515922), [Maria Santiago](https://openalex.org/A5090577014), [James Schneider](https://openalex.org/A5028147543), Spine. None(None)] 2024.https://doi.org/10.1097/brs.0000000000005210.
+    
+Study Design. Retrospective cohort study Objective. This study aimed to compare perioperative outcomes of Rett syndrome and Cerebral palsy patients undergoing posterior spinal fusion for neuromuscular scoliosis. Summary of Background Data. Surgical correction in the treatment of scoliosis for patients with Rett syndrome (RS) has been shown to increase survival rate. Cerebral palsy (CP) patients, like RS patients, are often nonverbal, nonambulatory, with frequent surgical complications. Methods. Retrospective review of 36 RS and 80 CP patients undergoing PSF from 2005-2023. Data and x-ray measurements were collected pre- and post-operatively. Sub-analysis was performed comparing non-ambulatory patients (GMFCS IV-V). Wilcoxon-Rank Sum, Fisher’s Exact, and Chi-square tests were utilized. Results. The primary outcome measure, complication rates, was similar between the groups ( P =0.09). Preoperative Cobb angle, levels fused, fixation points, and LOS were similar ( P >0.05). EBL was significantly higher in CP patients as was rate of transfusion ( P =0.001) and surgical time ( P =0.001). Postoperative Cobb angle ( P =0.002) was significantly higher for CP patients. There was no significant difference between CP and RS patients in both preoperative ( P =0.383) and postoperative ( P =0.051) coronal decompensation. Nonambulatory status was associated with increased odds of having a postoperative complication (OR=6.17, 95% C.I. 1.36 – 28.04). Sub-analysis of non-ambulatory RS and CP patients revealed significantly higher postoperative Cobb ( P =0.008), EBL ( P =0.019) and surgical time ( P =0.017) in CP patients compared to RS patients. There were no significant differences in preoperative Cobb, levels fused, fixation points, hospital stay, or complication rate ( P >0.05). Conclusion. RS patients are shown to have better outcomes to CP patients in terms of surgical, perioperative, and radiographic variables. Ambulatory status was identified as an independent risk factor for complications.    
 
     

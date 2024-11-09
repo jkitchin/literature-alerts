@@ -4,19 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Nov 2024 01:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 01:17:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Accessing Numerical Energy Hessians with Graph Neural Network Potentials
-  and Their Application in Heterogeneous Catalysis</title>
-      <link>https://doi.org/10.48550/arxiv.2410.01650</link>
-      <description>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4403928590
-
-                Access to the potential energy Hessian enables determination of the Gibbs free energy, and certain approaches to transition state search and optimization. Here, we demonstrate that off-the-shelf pretrained Open Catalyst Project (OCP) machine learned potentials (MLPs) determine the Hessian with great success (58 cm$^{-1}$ mean absolute error (MAE)) for intermediates adsorbed to heterogeneous catalyst surfaces. This enables the use of OCP models for the aforementioned applications. The top performing model, with a simple offset correction, gives good estimations of the vibrational entropy contribution to the Gibbs free energy with an MAE of 0.042 eV at 300 K. The ability to leverage models to capture the translational entropy was also explored. It was determined that 94% of randomly sampled systems had a translational entropy greater than 0.1 eV at 300 K. This underscores the need to go beyond the harmonic approximation to consider the entropy introduced by adsorbate translation, which increases with temperature. Lastly, we used MLP determined Hessian information for transition state search and found we were able to reduce the number of unconverged systems by 65% to 93% overall convergence, improving on the baseline established by CatTSunami.</description>
-      <author>Brook Wander, Joseph Musielewicz, Raffaele Cheula, John R. Kitchin</author>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.01650</guid>
-    </item>
   </channel>
 </rss>

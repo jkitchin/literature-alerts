@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Nov 2024 01:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 01:17:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Raman activities of nitrogen reduction and ammonia oxidation intermediates on the high-entropy alloy CoCuFeMoNi catalytic surface</title>
+      <link>https://doi.org/10.1063/5.0233585</link>
+      <description>Rafael B. Araujo, Jakob Thyr, &#304;lknur Bayrak Pehlivan, Tomas Edvinsson, The Journal of Chemical Physics. 161(17)] 2024. https://openalex.org/W4404109388
+
+                We developed a computational framework to extract the Raman spectra of nitrogen reduction and ammonia oxidation intermediates on high-entropy alloy (HEA) surfaces, integrating density functional theory with microstructural representations to account for the inherent lattice randomness in these materials. As a case study, we computed the Raman activities of intermediates (N2*, NNH*, N*, NH*, and NH3*) and H* adsorption on CoCuFeMoNi HEA surfaces. A comprehensive map of Raman peaks was generated and assigned to specific vibrational modes. The method highlighted the effects of lattice randomness on the Raman spectra compared to those of adsorbates on single-element catalysts. For instance, our results showed that the adsorbed N2 exhibits Raman modes that are dependent on whether the adsorption is vertical or horizontal. These peak differences could serve as unique fingerprints to identify nitrogen reduction reaction pathways. Moreover, it is also possible to detect surface poisoning by hydrogen, a common issue in reductive environments, due to the high-frequency peaks of H* compared to the typical N-metal stretching and bending frequencies. These results provide valuable references for identifying intermediates in nitrogen reduction and ammonia oxidation reactions, offering insights into reaction mechanisms and potential surface poisoning. This approach is generalizable to other reactions and surfaces in catalysis, provided that the relevant intermediates can be identified.</description>
+      <author>Rafael B. Araujo, Jakob Thyr, &#304;lknur Bayrak Pehlivan, Tomas Edvinsson</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0233585</guid>
+    </item>
   </channel>
 </rss>

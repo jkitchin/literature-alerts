@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Nov  8 01:19:35 2024
+Created on Sat Nov  9 01:17:45 2024
 
-Found 26 results from 2024-11-01 to 2024-11-08
+Found 32 results from 2024-11-02 to 2024-11-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Relative Generality and Risk: Quantitative Measures for Broad Catalyst Success   
-
-OpenAlex: https://openalex.org/W4403939272    
-Open access: False
-    
-[Michal Sanocki](https://openalex.org/A5096716846), [H Russell](https://openalex.org/A5082248386), [Jasemine Handjaya](https://openalex.org/A5096469013), [Jolene P. Reid](https://openalex.org/A5034853042), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04395.
-    
-No abstract    
-
-    
-
-## Heterogeneous Catalytic Transformation of Biomass-Derived Furans to Selectively Produce C4 Chemicals with the Simulated Sunlight   
-
-OpenAlex: https://openalex.org/W4403940044    
-Open access: False
-    
-[Xiaoqian Gao](https://openalex.org/A5056424713), [Hang Tang](https://openalex.org/A5101567344), [Xinli Tong](https://openalex.org/A5052971906), [Jiaxin Zheng](https://openalex.org/A5039376323), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04204.
-    
-No abstract    
-
-    
-
-## Repurposing a Fully Reducing Polyketide Synthase toward 2-Methyl Guerbet-like Lipids   
-
-OpenAlex: https://openalex.org/W4403942416    
-Open access: True
-    
-[Michael A. Herrera](https://openalex.org/A5058865872), [Stephen McColm](https://openalex.org/A5036682343), [Louise-Marie Craigie](https://openalex.org/A5099480539), [Joanna Simpson](https://openalex.org/A5003564221), [Fraser Brown](https://openalex.org/A5111861816), [David J. Clarke](https://openalex.org/A5072718275), [Reuben Carr](https://openalex.org/A5105988545), [Dominic J. Campopiano](https://openalex.org/A5074147836), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04714.
-    
-No abstract    
-
-    
-
-## Fundamental Insights into Photoelectrochemical Carbon Dioxide Reduction: Elucidating the Reaction Pathways   
-
-OpenAlex: https://openalex.org/W4403943686    
-Open access: False
-    
-[Lujie Zuo](https://openalex.org/A5024327642), [Yuchao Deng](https://openalex.org/A5000013841), [Lu Chen](https://openalex.org/A5100432061), [Ting He](https://openalex.org/A5075622900), [Jinhu Yang](https://openalex.org/A5020125274), [Jiazhou Li](https://openalex.org/A5100713657), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04795.
-    
-No abstract    
-
-    
-
-## An Unusual His/Asp Dyad Operates Catalysis in Agar-Degrading Glycosidases   
-
-OpenAlex: https://openalex.org/W4403966283    
-Open access: True
-    
-[Mert Sagiroglugil](https://openalex.org/A5092982836), [Alba Nin‐Hill](https://openalex.org/A5083448029), [E. Ficko-Blean](https://openalex.org/A5090034340), [Carme Rovira](https://openalex.org/A5081831378), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04139.
-    
-No abstract    
-
-    
-
-## Selective and Efficient Light-Driven CO2 Reduction to CO with a Heptacoordinated Polypyridine Iron(II) Catalyst   
-
-OpenAlex: https://openalex.org/W4403967265    
-Open access: False
-    
-[Federico Droghetti](https://openalex.org/A5031201924), [Florian Lemken](https://openalex.org/A5056997255), [Lubomı́r Rulı́s̆ek](https://openalex.org/A5087245272), [Albert Ruggi](https://openalex.org/A5069924778), [Mirco Natali](https://openalex.org/A5070352772), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04290.
-    
-No abstract    
-
-    
 
 ## Bifunctional Metal–Organic Layer for Selective Photocatalytic Carbon Dioxide Reduction to Carbon Monoxide   
 
@@ -287,6 +221,138 @@ OpenAlex: https://openalex.org/W4404078397
 Open access: False
     
 [Rundong Zhao](https://openalex.org/A5066317901), [Qiuyu Yan](https://openalex.org/A5102558555), [Ling Lu](https://openalex.org/A5103455776), [Lihong Yu](https://openalex.org/A5101658174), [Chen Huang](https://openalex.org/A5100432867), [Tian Yan](https://openalex.org/A5113097991), [Le Liu](https://openalex.org/A5100688180), [Jingyu Xi](https://openalex.org/A5111697293), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03782.
+    
+No abstract    
+
+    
+
+## Microscopic Scaling Relation of Ti-Based Catalysts in De/Hydrogenation Reactions of Mg/MgH2   
+
+OpenAlex: https://openalex.org/W4404092739    
+Open access: False
+    
+[Haotian Guan](https://openalex.org/A5023906704), [Yangfan Lu](https://openalex.org/A5089789240), [Lei Zhu](https://openalex.org/A5100394072), [Yuchuan Ye](https://openalex.org/A5016323619), [Q. Li](https://openalex.org/A5058624947), [Fusheng Pan](https://openalex.org/A5035811517), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06122.
+    
+No abstract    
+
+    
+
+## Insights into the Surface Electronic Structure and Catalytic Activity of InOx/Au(111) Inverse Catalysts for CO2 Hydrogenation to Methanol   
+
+OpenAlex: https://openalex.org/W4404105491    
+Open access: False
+    
+[Kasala Prabhakar Reddy](https://openalex.org/A5050021940), [Yi Tian](https://openalex.org/A5081581926), [Pedro J. Ramírez](https://openalex.org/A5100679528), [Arephin Islam](https://openalex.org/A5078299343), [Hojoon Lim](https://openalex.org/A5017398139), [Ning Rui](https://openalex.org/A5031216912), [Yilin Xie](https://openalex.org/A5113179983), [Adrian Hunt](https://openalex.org/A5061621593), [Iradwikanari Waluyo](https://openalex.org/A5053922026), [José A. Rodríguez](https://openalex.org/A5100678459), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05837.
+    
+No abstract    
+
+    
+
+## Fluorescence Lifetime Imaging Microscopy (FLIM) as a Tool to Understand Chemical Reactions and Catalysis   
+
+OpenAlex: https://openalex.org/W4404110349    
+Open access: False
+    
+[Pía A. López](https://openalex.org/A5080119938), [Suzanne A. Blum](https://openalex.org/A5081874205), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05450.
+    
+No abstract    
+
+    
+
+## Substrate-Dependent Role of a Pd Dopant in PdAu12 Catalysts in the Oxidation of p-Substituted Benzyl Alcohols: Promotion of Hydride Abstraction and Reductive Activation of O2   
+
+OpenAlex: https://openalex.org/W4404111418    
+Open access: False
+    
+[Shinya Masuda](https://openalex.org/A5001074133), [Haru Hirai](https://openalex.org/A5027695230), [Pei Zhao](https://openalex.org/A5081377235), [Shinjiro Takano](https://openalex.org/A5062715723), [Masahiro Ehara](https://openalex.org/A5017816540), [Tatsuya Tsukuda](https://openalex.org/A5011230883), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03871.
+    
+No abstract    
+
+    
+
+## Achieving Product Control in Furfural Hydrogenation Using Intermetallic Catalysts   
+
+OpenAlex: https://openalex.org/W4404113932    
+Open access: False
+    
+[Charles J. Ward](https://openalex.org/A5054294478), [Minda Chen](https://openalex.org/A5087021918), [Andrew Lamkins](https://openalex.org/A5067717986), [Claudio Ordonez](https://openalex.org/A5081506380), [Rong Sun](https://openalex.org/A5082915014), [Puranjan Chatterjee](https://openalex.org/A5044610170), [Minghui Niu](https://openalex.org/A5088875441), [Ruoyu Cui](https://openalex.org/A5113260120), [Da‐Jiang Liu](https://openalex.org/A5073390599), [Wenyu Huang](https://openalex.org/A5024717098), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04091.
+    
+No abstract    
+
+    
+
+## Enabling Site-Selective C–H Functionalization of Aliphatic Alcohols and Amines with exo-Directing Groups by Tether-Tunable Design of PdII/PdIV Catalysis   
+
+OpenAlex: https://openalex.org/W4404115310    
+Open access: False
+    
+[Kang Fu](https://openalex.org/A5083214696), [Lei Shi](https://openalex.org/A5082622024), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05553.
+    
+No abstract    
+
+    
+
+## Operando Scanning Electrochemical Microscopy Reveals Facet-Dependent Structure–Selectivity Relationship for CO2 Reduction on Gold Surfaces   
+
+OpenAlex: https://openalex.org/W4404115337    
+Open access: False
+    
+[Yunwoo Nam](https://openalex.org/A5101867175), [Sung Eun Cho](https://openalex.org/A5101703848), [Hyun S. Ahn](https://openalex.org/A5064972270), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05007.
+    
+No abstract    
+
+    
+
+## Keeping the Distance: Activity Control in Solid-Supported Sucrose Phosphorylase by a Rigid α-Helical Linker of Tunable Spacer Length   
+
+OpenAlex: https://openalex.org/W4404115419    
+Open access: True
+    
+[Chao Zhong](https://openalex.org/A5012482512), [Anisha Vyas](https://openalex.org/A5028512149), [Jakob D. H. Liu](https://openalex.org/A5076664405), [Chris Oostenbrink](https://openalex.org/A5050713464), [Bernd Nidetzky](https://openalex.org/A5051203357), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05616.
+    
+No abstract    
+
+    
+
+## Valence Electron and Coordination Structure Guided Metal Active Site Design for Hydrolytic Cleavage of Carbon–Sulfide Double Bonds   
+
+OpenAlex: https://openalex.org/W4404115793    
+Open access: False
+    
+[Ganchang Lei](https://openalex.org/A5053199253), [Xiaoyun Lin](https://openalex.org/A5019002136), [Hongping Yan](https://openalex.org/A5089878440), [Lijuan Shen](https://openalex.org/A5040990019), [Shiping Wang](https://openalex.org/A5100604233), [Shijing Liang](https://openalex.org/A5025705813), [Zhi‐Jian Zhao](https://openalex.org/A5084194253), [Fujian Liu](https://openalex.org/A5101470334), [Yingying Zhan](https://openalex.org/A5010535412), [Lilong Jiang](https://openalex.org/A5053219554), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02921.
+    
+No abstract    
+
+    
+
+## Selective Production of C3 Polyols from Cellulose over Hydrogen Spillover Promoted Pd–Mo/TiO2 Catalyst with Adjacent Lewis Acid Pairs   
+
+OpenAlex: https://openalex.org/W4404122643    
+Open access: False
+    
+[Yuxi Si](https://openalex.org/A5047940561), [Yuanchao Huang](https://openalex.org/A5102391758), [Chuan Qin](https://openalex.org/A5078576975), [Yongkang Huang](https://openalex.org/A5101434155), [Xusheng Guo](https://openalex.org/A5006748841), [Xiaofeng Gao](https://openalex.org/A5019439900), [Siyu Yao](https://openalex.org/A5030455929), [Youwei Cheng](https://openalex.org/A5076526739), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05314.
+    
+No abstract    
+
+    
+
+## Bifunctional RhIII-Complex-Catalyzed CO2 Reduction and NADH Regeneration for Direct Bioelectrochemical Synthesis of C3 and C4   
+
+OpenAlex: https://openalex.org/W4404122941    
+Open access: False
+    
+[Hailong Li](https://openalex.org/A5100440680), [Yizhou Wu](https://openalex.org/A5101508053), [Yuxuan Wang](https://openalex.org/A5100375974), [Kai Zhang](https://openalex.org/A5100324075), [Jin Zhu](https://openalex.org/A5113139347), [Yuan Ji](https://openalex.org/A5107939210), [Tao Gu](https://openalex.org/A5109435273), [Weixuan Nie](https://openalex.org/A5049208393), [Licheng Sun](https://openalex.org/A5026292768), [Yajie Wang](https://openalex.org/A5100455418), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05457.
+    
+No abstract    
+
+    
+
+## Impact of Particle Size on the Vapor-Phase Oxidative Coupling of Methanol and Dimethylamine over Palladium–Gold Nanoparticles   
+
+OpenAlex: https://openalex.org/W4404124141    
+Open access: False
+    
+[Alexander P. Minne](https://openalex.org/A5093853442), [Ethan P. Iaia](https://openalex.org/A5093004240), [Eli Stavitski](https://openalex.org/A5061972581), [James W. Harris](https://openalex.org/A5026571515), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05022.
     
 No abstract    
 
