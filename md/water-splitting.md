@@ -1,176 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sat Nov  9 01:17:30 2024
+Created on Sun Nov 10 01:24:00 2024
 
-Found 108 results from 2024-11-02 to 2024-11-09
+Found 87 results from 2024-11-03 to 2024-11-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Effects of strain, pH and oxygen-deficient on catalytic performance of Ruddlesden-Popper oxide Srn+1RunO3n+1 (n=1, 2) for hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403971281    
-Open access: False
-    
-[Jiahao Zhang](https://openalex.org/A5026699972), [Congcong Li](https://openalex.org/A5101972786), [Chen Kang](https://openalex.org/A5010662985), [Junfeng Ren](https://openalex.org/A5101700374), [Meina Chen](https://openalex.org/A5039530469), International Journal of Hydrogen Energy. 93(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.405.
-    
-No abstract    
-
-    
-
-## Wet sulfuration of molybdate and reconstruction regulation of trace Fe doping for oxygen evolution   
-
-OpenAlex: https://openalex.org/W4403971298    
-Open access: False
-    
-[Wenjing Li](https://openalex.org/A5100442650), [Liu Xin](https://openalex.org/A5101762451), [Hao Zhang](https://openalex.org/A5100397032), [Jin‐Long Tan](https://openalex.org/A5111134117), [Yu Ma](https://openalex.org/A5100716501), [Bin Liu](https://openalex.org/A5100395496), [Ren‐Qing Lv](https://openalex.org/A5056244939), [Yong‐Ming Chai](https://openalex.org/A5062331341), [Bin Dong](https://openalex.org/A5100746745), International Journal of Hydrogen Energy. 93(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.411.
-    
-No abstract    
-
-    
-
-## In-situ route to sulfur-doped cobalt telluride nanowires for efficient oxygen evolution in alkaline   
-
-OpenAlex: https://openalex.org/W4403971373    
-Open access: False
-    
-[Zugao Pi](https://openalex.org/A5093277792), [Jiangchu Hao](https://openalex.org/A5104027929), [Shaofu Kuang](https://openalex.org/A5022772565), [Ruijie Shi](https://openalex.org/A5102216039), [Xinwei Li](https://openalex.org/A5109760072), [Jianxin Wang](https://openalex.org/A5100438360), [Hua Lin](https://openalex.org/A5089395588), [Ming Nie](https://openalex.org/A5108910060), [Qing Li](https://openalex.org/A5100404180), International Journal of Hydrogen Energy. 93(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.416.
-    
-No abstract    
-
-    
-
-## Synthesis and characterization of MoO3: application to the photo production of oxygen under visible light   
-
-OpenAlex: https://openalex.org/W4403972319    
-Open access: False
-    
-[N. Koriche](https://openalex.org/A5073300661), [Moussa Abbas](https://openalex.org/A5028010664), [M. Trari](https://openalex.org/A5036526422), Journal of Sol-Gel Science and Technology. None(None)] 2024.https://doi.org/10.1007/s10971-024-06589-1.
-    
-No abstract    
-
-    
-
-## Electrocatalytic activities of iron-supported N-doped porous carbon towards the oxygen/hydrogen evolution reaction.   
-
-OpenAlex: https://openalex.org/W4403972897    
-Open access: False
-    
-[Daniel Kobina Sam](https://openalex.org/A5085051711), [Yan Cao](https://openalex.org/A5088095072), Renewable Energy. None(None)] 2024.https://doi.org/10.1016/j.renene.2024.121788.
-    
-No abstract    
-
-    
-
-## Enhanced Oxygen Evolution Reaction Performance of NiMoO4/Carbon Paper Electrocatalysts in Anion Exchange Membrane Water Electrolysis by Atmospheric-Pressure Plasma Jet Treatment   
-
-OpenAlex: https://openalex.org/W4403972906    
-Open access: True
-    
-[Chu‐Chen Chueh](https://openalex.org/A5060441783), [Shuo-En Yu](https://openalex.org/A5013159664), [Hsing-Chen Wu](https://openalex.org/A5055588755), [Cheng‐Che Hsu](https://openalex.org/A5030769147), [I‐Chih Ni](https://openalex.org/A5013647327), [Chih‐I Wu](https://openalex.org/A5004605327), [I‐Chun Cheng](https://openalex.org/A5037535777), [Jian‐Zhang Chen](https://openalex.org/A5081165207), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c03557 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.langmuir.4c03557?ref=article_openPDF)).
-    
-NiMoO4 was grown on carbon paper (CP) by a hydrothermal method. A rapid and high-temperature atmospheric-pressure plasma jet (APPJ) process was used to generate more oxygen-deficient NiMoO4 on the CP surface to serve as an electrode material for the oxygen evolution reaction (OER). After 60 s of APPJ treatment, the overpotential of the electrode at 100 mA/cm2 decreased to 790 mV and that at 10 mA/cm2 decreased to 368 mV. Additionally, the charge transfer resistance decreased from 2.8 to 1.2 Ω, indicating that APPJ treatment effectively reduced the electrode overpotential and impedance. The effect of NiMoO4/CP/APPJ-60 s on the anion exchange membrane water electrolysis (AEMWE) system was also tested. At a system temperature of 70 °C and current density of 100 mA/cm2, the energy efficiency reached 95.1%, and the specific energy consumption decreased from 4.02 to 3.83 kWh/m3. These results demonstrate that the APPJ-treated NiMoO4/CP electrode can effectively enhance the OER performance in water electrolysis and improve the energy efficiency of the AEMWE system. This approach shows promise in replacing precious metal electrodes, thereby potentially reducing the cost and providing an environmentally friendly alternative.    
-
-    
-
-## Unique role of Mn(II) in enhancing electro-oxidation of organic pollutants on anodes with low oxygen evolution potential at low current density   
-
-OpenAlex: https://openalex.org/W4403973037    
-Open access: False
-    
-[Erdan Hu](https://openalex.org/A5055576522), [Yuhua Ye](https://openalex.org/A5016028816), [Bing Wang](https://openalex.org/A5100382511), [Hefa Cheng](https://openalex.org/A5041899854), Journal of Hazardous Materials. 480(None)] 2024.https://doi.org/10.1016/j.jhazmat.2024.136332.
-    
-This study systematically explored the role of Mn(II) in the removal of 4-chlorophenol (4-CP) by electro-oxidation (EO) employing anodes with low oxygen evolution potential (OEP), i.e., Ti/RuO    
-
-    
-
-## Strontium doping RuO2 electrocatalyst with abundant oxygen vacancies for boosting OER performance   
-
-OpenAlex: https://openalex.org/W4403973173    
-Open access: False
-    
-[Bei An](https://openalex.org/A5102276540), [Xiaoqian Li](https://openalex.org/A5100643635), [L. Yuan](https://openalex.org/A5016302264), [Fanfan Shang](https://openalex.org/A5027133476), [Huijie He](https://openalex.org/A5085210312), [Hairui Cai](https://openalex.org/A5063208280), [Xiaoxiao Zeng](https://openalex.org/A5104247300), [Weitong Wang](https://openalex.org/A5101647437), [Shengchun Yang](https://openalex.org/A5090747598), [Bin Wang](https://openalex.org/A5058584632), Inorganic Chemistry Frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi02070g.
-    
-Oxygen evolution reaction (OER) plays a crucial role as the anode reaction of electrolytic water in various applications. To date, it is still a great challenge to develop highly active...    
-
-    
-
-## Effect of reconstruction on CoOOH active species and oxygen evolution performance for Co9S8/Cu2S catalyst   
-
-OpenAlex: https://openalex.org/W4403973658    
-Open access: False
-    
-[Fan He](https://openalex.org/A5083771262), [Jing Wen](https://openalex.org/A5027514192), [Ting Zhang](https://openalex.org/A5100458263), [Yanyan Wang](https://openalex.org/A5100388801), [Dongmei Zeng](https://openalex.org/A5071734352), [Minmin Zou](https://openalex.org/A5101925690), [You Zhang](https://openalex.org/A5100384573), Inorganic Chemistry Communications. None(None)] 2024.https://doi.org/10.1016/j.inoche.2024.113413.
-    
-No abstract    
-
-    
-
-## Efficient electrocatalytic oxygen evolution enabled by porous Eu-Ni(PO3)2 nanosheet arrays   
-
-OpenAlex: https://openalex.org/W4403978086    
-Open access: False
-    
-[Pu Wang](https://openalex.org/A5100383528), [Xiangrui Wu](https://openalex.org/A5017389276), [Meng Li](https://openalex.org/A5100457604), [Xuan Wang](https://openalex.org/A5100329053), [Huiyu Wang](https://openalex.org/A5111359026), [Qiuzi Huang](https://openalex.org/A5052493337), [Hao Li](https://openalex.org/A5100650594), [Yawen Tang](https://openalex.org/A5034042954), [Gengtao Fu](https://openalex.org/A5015993083), Journal of Rare Earths. None(None)] 2024.https://doi.org/10.1016/j.jre.2024.11.001.
-    
-No abstract    
-
-    
-
-## Advanced electrocatalysts for hydrogen and oxygen evolution in proton exchange membrane electrolyzers   
-
-OpenAlex: https://openalex.org/W4403978627    
-Open access: False
-    
-[Williane da Silva Freitas](https://openalex.org/A5088413674), [Barbara Mecheri](https://openalex.org/A5040393906), [Alessandra D’Epifanio](https://openalex.org/A5017653009), Elsevier eBooks. None(None)] 2024.https://doi.org/10.1016/b978-0-443-24062-1.00002-4.
-    
-No abstract    
-
-    
-
-## Amorphous CoFePOx hollow nanocubes decorated with g-C3N4 quantum dots to achieve efficient electrocatalytic performance in the oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403983909    
-Open access: False
-    
-[Ke Yuan](https://openalex.org/A5030597175), [Wei Zhou](https://openalex.org/A5101568954), [Xiaoyan Zhu](https://openalex.org/A5100520463), [Weihua Ou](https://openalex.org/A5113397722), [Minzhe Chen](https://openalex.org/A5031461890), [Chuheng Zhu](https://openalex.org/A5018409412), [Ningning Chen](https://openalex.org/A5100603117), [Haofeng Zuo](https://openalex.org/A5111299210), [Aocheng Wang](https://openalex.org/A5059549148), [Dengke Zhao](https://openalex.org/A5101775258), [Maozhong An](https://openalex.org/A5089426762), [Ligui Li](https://openalex.org/A5046123156), Nanoscale. None(None)] 2024.https://doi.org/10.1039/d4nr02564d.
-    
-g-C 3 N 4 quantum dots decorated on amorphous CoFePOx hollow nanocubes can effectively adjust the electronic structure of CoFePOx substrates and substantially improve the electrocatalytic activity of amorphous CoFePOx nanocubes for oxygen evolution reaction (OER).    
-
-    
-
-## Iron (III)-Facilitated reconstruction in NiMn layered double hydroxides for initiating rapid oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403985914    
-Open access: False
-    
-[Qiang Lv](https://openalex.org/A5109298843), [Haoran Guo](https://openalex.org/A5100637326), [Yuling Zhai](https://openalex.org/A5012925339), [Hua Wang](https://openalex.org/A5064462756), [Tao Zhu](https://openalex.org/A5100751299), [Xing Zhu](https://openalex.org/A5102009894), [Kongzhai Li](https://openalex.org/A5032747198), [Zhishan Li](https://openalex.org/A5101798662), International Journal of Hydrogen Energy. 92(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.09.257.
-    
-No abstract    
-
-    
-
-## Corrigendum to “A review of efficient electrocatalysts for the oxygen evolution reaction at large current density” [DeCarbon 5 (2024) 100062]   
-
-OpenAlex: https://openalex.org/W4403986635    
-Open access: False
-    
-[Youtao Yao](https://openalex.org/A5066088830), [Jiahui Lyu](https://openalex.org/A5049385562), [Xingchuan Li](https://openalex.org/A5103155569), [Cheng Chen](https://openalex.org/A5038019595), [Francis Verpoort](https://openalex.org/A5050655757), [John Wang](https://openalex.org/A5100605872), [Zhenghui Pan](https://openalex.org/A5042492387), [Zongkui Kou](https://openalex.org/A5005358046), DeCarbon. None(None)] 2024.https://doi.org/10.1016/j.decarb.2024.100080.
-    
-No abstract    
-
-    
-
-## Suppression of structural distortion in Vanadium-doped nickel MOFs for enhanced stability and activity in oxygen evolution reactions   
-
-OpenAlex: https://openalex.org/W4403999033    
-Open access: False
-    
-[Jiaqing Liu](https://openalex.org/A5101949745), [Wenhao Li](https://openalex.org/A5100362617), [Shijuan Song](https://openalex.org/A5101351499), [Hao Cui](https://openalex.org/A5054444596), [Wenhao Lu](https://openalex.org/A5023237216), [Tingting Du](https://openalex.org/A5100540994), [Shouxin Zhang](https://openalex.org/A5101742243), [Fengchun Yang](https://openalex.org/A5068971498), International Journal of Hydrogen Energy. 93(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.375.
-    
-No abstract    
-
-    
 
 ## One-pot synthesis of graphene nanosheets‑nickel cobalt LDHs nanocomposite for electrocatalysis of oxygen evolution reaction   
 
@@ -744,17 +579,6 @@ No abstract
 
     
 
-## Corrigendum to “The latest advances in the deep reconstruction of pre-catalysts for the oxygen evolution reaction” [J. Alloys Compd. 1010, 5 January 2025, 177225]   
-
-OpenAlex: https://openalex.org/W4403991672    
-Open access: False
-    
-[Haibin Wang](https://openalex.org/A5100408823), [Hongxin Wang](https://openalex.org/A5100722897), [Qiming Hu](https://openalex.org/A5047978474), [Biao Wang](https://openalex.org/A5100439502), [Xuefei Lei](https://openalex.org/A5110379939), [Junhua You](https://openalex.org/A5019520436), [Rui Guo](https://openalex.org/A5017651445), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177328.
-    
-No abstract    
-
-    
-
 ## Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuOx on a Well-Matched Substrate   
 
 OpenAlex: https://openalex.org/W4404099969    
@@ -840,17 +664,6 @@ Open access: False
 [Jing Wang](https://openalex.org/A5100378741), [Yifeng Liu](https://openalex.org/A5100782690), [Qianqiao Chen](https://openalex.org/A5061283244), [Wan-Chin Yu](https://openalex.org/A5014176159), [Qin Zhong](https://openalex.org/A5101963329), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c03343.
     
 Urea oxidation reaction (UOR) is an attractive alternative anodic reaction to oxygen evolution reaction (OER) for its low thermodynamic potential (0.37 V vs RHE). A major challenge that prohibits its practical application is the six-electron transfer process during UOR, demanding enhancements in the catalytic activity. Herein, a Fe-doped Ni    
-
-    
-
-## Evaluating nonmetal atom doping in two-dimensional VSe2 monolayers for hydrogen and oxygen electrocatalysis   
-
-OpenAlex: https://openalex.org/W4403981233    
-Open access: True
-    
-[Rabia Hassan](https://openalex.org/A5010296120), [Fei Ma](https://openalex.org/A5100608217), [Yan Li](https://openalex.org/A5100619415), [Rehan Hassan](https://openalex.org/A5101346943), [Muhammad Farhan Qadir](https://openalex.org/A5077333550), Journal of Applied Physics. 136(17)] 2024.https://doi.org/10.1063/5.0232667 ([pdf](https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/5.0232667/20229982/175301_1_5.0232667.pdf)).
-    
-The electrocatalytic performance of VSe2 doped with nonmetals (NMs) was studied using density functional theory, in which NM atoms (C, N, O, P, S, F, Cl, Br, and I) replaced Se or V (denoted as NM@Se or NM@V). Notably, P@V and Br@V monolayers exhibit high catalytic hydrogen evolution reaction activity with the lowest ΔGH* = 0.08 eV and −0.03 eV, respectively, surpassing Pt (ΔGH* = −0.1 eV). By applying the scaling relationship of ΔGH* of H*, which is an intermediate for each volcano, the exchange current density diagrams are established. Based on thermodynamic analysis, P@V and Br@V monolayers produce exchange currents of about −1.42 and −0.70i0/(A cm−2), respectively. The oxygen evolution reaction activity of the I@Se monolayer (ηOER = 0.95 V) is the best among all the monolayers. Among the oxygen reduction reaction catalysts, the O@Se monolayer displays high activity with a low ηORR (0.82 V), which is even better than that of binary Pt and Pd alloys (0.9–0.87 V).    
 
     
 
@@ -964,17 +777,6 @@ Abstract Hydrogen, as a clean and high-energy-density fuel, holds immense promis
 
     
 
-## Influence of Annealing Temperature on the OER Activity of NiO(111) Nanosheets Prepared via Microwave and Solvothermal Synthesis Approaches   
-
-OpenAlex: https://openalex.org/W4403973034    
-Open access: True
-    
-[Dereje H. Taffa](https://openalex.org/A5069264392), [Elliot Brim](https://openalex.org/A5080704389), [Konstantin K. Rücker](https://openalex.org/A5017898566), [Darius Hayes](https://openalex.org/A5113113158), [Julian Lorenz](https://openalex.org/A5085901073), [Omeshwari Yadorao Bisen](https://openalex.org/A5025861092), [Marcel Risch](https://openalex.org/A5068195942), [Corinna Harms](https://openalex.org/A5054302761), [Ryan M. Richards](https://openalex.org/A5079577690), [Michael Wark](https://openalex.org/A5058831690), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c14277 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsami.4c14277?ref=article_openPDF)).
-    
-Earth-abundant transition metal oxides are promising alternatives to precious metal oxides as electrocatalysts for the oxygen evolution reaction (OER) and are intensively investigated for alkaline water electrolysis. OER electrocatalysis, like most other catalytic reactions, is surface-initiated, and the catalyst performance is fundamentally determined by the surface properties. Most transition metal oxide catalysts show OER activities that depend on the predominantly exposed crystal facets/surface structure. Therefore, the design of synthetic strategies to obtain the most active crystal facets is of significant research interest. In this work, rock salt NiO OER catalysts with (111) predominantly exposed facets were synthesized by a solvothermal (ST) method either heated under supercritical or microwave-assisted (MW) conditions. Particular emphasis was placed on the influence of the post annealing temperature on the structural configuration and OER activity to compare their catalytic performances. The as-prepared electrocatalysts are pure α-Ni hydroxides which were converted to rock salt NiO (111) nanosheets with hexagonal pores after heat treatment at different temperatures. The OER activity of the electrodes has been evaluated in 0.1 M KOH using geometric and intrinsic current densities via normalization by the disk area and BET area, respectively. The lowest overpotential at a geometric current density of 10 mA/cm2 is found for samples pretreated by heating between 400 and 500 °C with a catalyst loading of 115 μg/cm2. Despite the very similar nature of the catalysts obtained from the two methods, the ST electrodes show a higher geometric and intrinsic current density for 500 °C pretreatment. The MW electrodes, however, achieve an optimal geometric current density for 400 °C pretreatment, while their intrinsic current density requires pretreatment over 600 °C. Interestingly, pretreated electrodes show consistently higher OER activity as compared to the poorly crystalline/less ordered hydroxide as-prepared electrocatalysts. Thus, our study highlights the importance of the synthesis method and pretreatment at an optimal temperature.    
-
-    
-
 ## Influence of platinum content on semiconductor and electrochemical properties of materials based on titanium suboxides   
 
 OpenAlex: https://openalex.org/W4404021020    
@@ -1074,17 +876,6 @@ Sterol biosynthesis has evolved early in the history of eukaryotes. In most anim
 
     
 
-## Unraveling Defect-Dependent Conductivity-Type Switching in CuFe2O4 for Enhanced Photoelectrocatalytic Reduction of Benzaldehyde   
-
-OpenAlex: https://openalex.org/W4403990593    
-Open access: True
-    
-[Yen-Chun Huang](https://openalex.org/A5066576931), [Jun-Lin Fong](https://openalex.org/A5079958094), [Abdul M. Reyes](https://openalex.org/A5074124262), [Sebastian E. Reyes‐Lillo](https://openalex.org/A5002883086), [Chang‐Ming Jiang](https://openalex.org/A5063053478), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-9brl5 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6720cb3b5a82cea2fa31ff5f/original/unraveling-defect-dependent-conductivity-type-switching-in-cu-fe2o4-for-enhanced-photoelectrocatalytic-reduction-of-benzaldehyde.pdf)).
-    
-Photoelectrocatalytic (PEC) reduction of carbonyl-containing compounds provides a sustainable approach to upgrading biomass-derived feedstocks with reduced energy requirements. However, PEC reduction has primarily focused on hydrogen evolution and carbon dioxide reduction reactions, limited by the availability of stable photocathode materials. In this study, we demonstrate the extended PEC performance of defect-engineered CuFe2O4 films, achieving over 18 hours of stable benzaldehyde reduction to benzyl alcohol. Modulating CuFe2O4 conductivity from n-type to p-type through controlled annealing conditions enhanced its hole concentration, achieving a cathodic photocurrent density of 1.5 mA/cm2 at 0.5 V vs. RHE. Using 1,4-benzoquinone as a redox mediator in a mixed acetonitrile/water electrolyte, the PEC system produced benzyl alcohol at a rate of 2.57 μmol/h with a Faradaic efficiency of 51.3% at 0.50 V vs. Ag/AgNO₃. Photoelectrochemical impedance spectroscopy (PEIS) revealed that oxygen-rich annealing conditions improved charge transport and surface catalytic activity, resulting in a threefold increase in benzyl alcohol production rate. This PEC approach lowered the required applied potential by ~1 V compared to traditional electrocatalysis methods, offering a more energy-efficient route for carbonyl reduction. These findings underscore the potential of CuFe₂O₄ as a viable photocathode material for sustainable organic transformations under mild reaction conditions.    
-
-    
-
 ## The molecular composition of birch tar and its infrared spectrum   
 
 OpenAlex: https://openalex.org/W4404038627    
@@ -1115,18 +906,6 @@ Open access: True
 [Zhenfeng Qian](https://openalex.org/A5016354105), [Lilian He](https://openalex.org/A5101184303), [Fusheng Li](https://openalex.org/A5100750759), Frontiers in Plant Science. 15(None)] 2024.https://doi.org/10.3389/fpls.2024.1443317.
     
 Low-temperature stress significantly impacts plant growth, development, yield, and geographical distribution. However, during the long-term process of evolution, plants have evolved complicated mechanisms to resist low-temperature stress. The cold tolerance trait is regulated by multiple pathways, such as the Ca 2+ signaling cascade, mitogen-activated protein kinase (MAPK) cascade, inducer of CBF expression 1 (ICE1)-C-repeat binding factor (CBF)-cold-reulated gene (COR) transcriptional cascade, reactive oxygen species (ROS) homeostasis regulation, and plant hormone signaling. However, the specific responses of these pathways to cold stress and their interactions are not fully understood. This review summarizes the response mechanisms of plants to cold stress from four aspects, including cold signal perception and transduction, ICE1-CBF-COR transcription cascade regulation, ROS homeostasis regulation and plant hormone signal regulation. It also elucidates the mechanism of cold stress perception and Ca 2+ signal transduction in plants, and proposes the important roles of transcription factors (TFs), post-translational modifications (PTMs), light signals, circadian clock factors, and interaction proteins in the ICE1-CBF-COR transcription cascade. Additionally, we analyze the importance of ROS homeostasis and plant hormone signaling pathways in plant cold stress response, and explore the cross interconnections among the ICE1-CBF-COR cascade, ROS homeostasis, and plant hormone signaling. This comprehensive review enhances our understanding of the mechanism of plant cold tolerance and provides a molecular basis for genetic strategies to improve plant cold tolerance.    
-
-    
-
-## Quantifying systematic uncertainties in white dwarf cooling age
-  determinations   
-
-OpenAlex: https://openalex.org/W4403995443    
-Open access: True
-    
-[Prashant Pathak](https://openalex.org/A5012589245), [Simon Blouin](https://openalex.org/A5090901626), [Falk Herwig](https://openalex.org/A5058934310), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.14014 ([pdf](http://arxiv.org/pdf/2410.14014)).
-    
-Cooling ages of white dwarfs are routinely determined by mapping effective temperatures and masses to ages using evolutionary models. Typically, the reported uncertainties on cooling ages only consider the error propagation of the uncertainties on the spectroscopically or photometrically determined $T_{\rm eff}$ and mass. However, cooling models are themselves uncertain, given their dependence on many poorly constrained inputs. This paper estimates these systematic model uncertainties. We use MESA to generate cooling sequences of $0.5-1.0 M_{\odot}$ hydrogen-atmosphere white dwarfs with carbon-oxygen cores under different assumptions regarding the chemical stratification of their core, the thickness of their helium envelope, their hydrogen content, and the conductive opacities employed in the calculations. The parameter space explored is constrained by the range of values predicted by a variety of stellar evolution models and inferred from asteroseismological studies. For a $0.6 M_{\odot}$ white dwarf, we find an uncertainty of 0.03 Gyr at 10,000 K (corresponding to a 5% relative uncertainty) and 0.8 Gyr at 4000 K (9%). This uncertainty is significant, as it is comparable to the age uncertainty obtained by propagating the measurement errors on $T_{\rm eff}$ and mass for a typical white dwarf. We also separately consider the potential impact of $^{22}$Ne shell distillation, which plausibly leads to an additional uncertainty of $\sim 1$ Gyr for crystallized white dwarfs. We provide a table of our simulation results that can be used to evaluate the systematic model uncertainty based on a white dwarf's $T_{\rm eff}$ and mass. We encourage its use in all future studies where white dwarf cooling ages are measured.    
 
     
 
@@ -1182,16 +961,5 @@ Open access: True
 [Q Qi Chen](https://openalex.org/A5084468046), [Xiaojie Shen](https://openalex.org/A5024267384), [Y. J. Wang](https://openalex.org/A5072272785), [Ying Gao](https://openalex.org/A5101916588), [Feng Liu](https://openalex.org/A5101646608), [Jianhua Wu](https://openalex.org/A5102116096), [Xiaowen Wang](https://openalex.org/A5100454353), [Long Yi Jin](https://openalex.org/A5055614922), [San‐Jian Ma](https://openalex.org/A5007513332), [Juanhong Li](https://openalex.org/A5001167860), [Zixia Lin](https://openalex.org/A5107229221), [Hongwei Yang](https://openalex.org/A5051071190), [Xin Liu](https://openalex.org/A5060086206), Applied Organometallic Chemistry. None(None)] 2024.https://doi.org/10.1002/aoc.7872 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aoc.7872)).
     
 ABSTRACT A novel catalyst material named Pd/UiO‐66(Zr)‐2OH was successfully developed and applied in a hydrogen‐promoted Fenton system for the efficient catalytic oxidation of the widely used antibiotic trimethoprim (TMP). The UiO‐66(Zr)‐2OH, as the carrier of catalyst in this work, was synthesized through a solvothermal method. The Pd 0 nanoparticle, as the active center of the catalyst, was loaded onto its surface by the “ship‐in‐a‐bottle” strategy. The results showed that the composite Pd/UiO‐66(Zr)‐2OH demonstrated excellent catalytic performance during the reaction, achieving over 97% of TMP removal efficiency within 180 min under optimal conditions under the condition of only trace of iron without adding H 2 O 2 . This may be attributed to the fact that the [H], as a clean and efficient reducing agent, can be utilized to accelerate the regeneration of Fe 2+ in the Fenton reaction, as well as in the in‐situ regeneration of H 2 O 2 . The key parameters affecting the removal efficiency of TMP, including the initial pH and concentration of Fe 2+ , the dosage of the synthesized material, the flow rate of H 2 and the stirring speed were investigated systematically. The Pd/UiO‐66(Zr)‐2OH exhibited high stability and reusability, maintaining over 82% of its initial degradation efficiency of TMP after six reaction cycles. The mechanistic insight revealed that the system primarily relied on the generation of hydroxyl radical (·OH) and singlet oxygen ( 1 O 2 ) for the degradation of TMP, which was verified through quenching experiments and electron spin resonance (ESR). The degradation pathway of TMP was elucidated by analyzing intermediates and the reduction in total organic carbon (TOC). This research offers novel conceptual insights into the evolution and application of advanced oxidation technologies, efficient degradation of emerging pollutants, and expansion of pathways for hydrogen resource utilization.    
-
-    
-
-## Electrolyte Effects in Electrocatalytic Kinetics†   
-
-OpenAlex: https://openalex.org/W4403984726    
-Open access: False
-    
-[Xiaoyu Li](https://openalex.org/A5100449122), [Zhiming Zhang](https://openalex.org/A5100328674), [Xinxin Zhuang](https://openalex.org/A5078531761), [Zhen Jia](https://openalex.org/A5038500322), [Tao Wang](https://openalex.org/A5060759543), Chinese Journal of Chemistry. None(None)] 2024.https://doi.org/10.1002/cjoc.202400458.
-    
-Comprehensive Summary Tuning electrolyte properties is a widely recognized strategy to enhance activity and selectivity in electrocatalysis, drawing increasing attention in this domain. Despite extensive experimental and theoretical studies, debates persist about how various electrolyte components influence electrocatalytic reactions. We offer a concise review focusing on current discussions, especially the contentious roles of cations. This article further examines how different factors affect the interfacial solvent structure, particularly the hydrogen‐bonding network, and delves into the microscopic kinetics of electron and proton‐coupled electron transfer. We also discuss the overarching influence of solvents from a kinetic modeling perspective, aiming to develop a robust correlation between electrolyte structure and reactivity. Lastly, we summarize ongoing research challenges and suggest potential directions for future studies on electrolyte effects in electrocatalysis. Key Scientists In 1956, Marcus theory was developed to describe the mechanism of outer‐sphere electron transfer (OS‐ET). In 1992, Nocera et al. directly measured proton‐coupled electron transfer (PCET) kinetics for the first time, and their subsequent research in 1995 investigated the effects of proton motion on electron transfer (ET) kinetics. In 1999 and 2000, Hammes‐schiffer et al. developed the multistate continuum theory for multiple charge reactions and deduced the rate expressions for nonadiabatic PCET reactions in solution, laying the theoretical foundation for the analysis of PCET kinetics in electrochemical processes. In 2006, Saveant et al. verified the concerted proton and electron transfer (CPET) mechanism in the oxidation of phenols coupled with intramolecular amine‐driven proton transfer (PT). Their subsequent work in 2008 reported the pH‐dependent pathways of electrochemical oxidation of phenols. Electrolyte effects in electrocatalysis have gained emphasis in recent years. In 2009, Markovic's pioneering work proposed non‐covalent interactions between hydrated alkaline cations and adsorbed OH species in oxygen reduction reaction (ORR)/hydrogen oxidation reaction (HOR). In 2011, Markovic et al. significantly enhanced hydrogen evolution reaction (HER) activity in alkaline solution by improving water dissociation, which was assumed to dominate the sluggish HER kinetics in such media. In comparation, Yan et al. applied hydrogen binding energy (HBE) theory in 2015 to explain the pH‐dependent HER/HOR activity. Cations play a significant role in regulating the selectivity and activity of carbon dioxide reduction (CO 2 RR). In 2016 and 2017, Karen Chan et al. introduced the electric field generated by solvated cations to explain the cation effects on electrochemical CO2RR. Conversely, in 2021, Koper et al. suggested that short‐range electrostatic interactions between partially desolvated metal cations and CO 2 stabilized CO 2 and promoted CO 2 RR. Recent researches have combined the exploration of the electrical double layer (EDL) structure with theoretical analysis of PCET kinetics. In 2019, Huang et al. developed a microscopic Hamiltonian model to quantitatively understand the sluggish hydrogen electrocatalysis in alkaline media. In 2021, two meticulous studies from Shao‐Horn's group analyzed the effects of cations on reorganization energy and the impacts of hydrogen bonds between proton donors and acceptors on proton tunneling kinetics, respectively. Electrolyte effects on proton transport process were researched in recent years. In 2022, Hu et al. and Chen et al. proposed that the cation‐induced electric field distribution and pH‐dependent hydrogen bonding network connectivity played essential roles in proton transport, separately.    
 
     

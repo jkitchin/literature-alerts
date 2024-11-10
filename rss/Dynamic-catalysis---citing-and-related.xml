@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Nov 2024 01:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 01:24:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrothermal synthesis of commodity chemicals</title>
-      <link>https://doi.org/10.1038/s44286-024-00134-1</link>
-      <description>Qi Dong, Shu Hu, Liangbing Hu, Nature Chemical Engineering. None(None)] 2024. https://openalex.org/W4403984292
-
-                No abstract</description>
-      <author>Qi Dong, Shu Hu, Liangbing Hu</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s44286-024-00134-1</guid>
-    </item>
   </channel>
 </rss>

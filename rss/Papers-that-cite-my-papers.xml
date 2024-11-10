@@ -4,129 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Nov 2024 01:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 01:24:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Effects of strain, pH and oxygen-deficient on catalytic performance of Ruddlesden-Popper oxide Srn+1RunO3n+1 (n=1, 2) for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.10.405</link>
-      <description>Jiahao Zhang, Congcong Li, Chen Kang, Junfeng Ren, Meina Chen, International Journal of Hydrogen Energy. 93(None)] 2024. https://openalex.org/W4403971281
-
-                No abstract</description>
-      <author>Jiahao Zhang, Congcong Li, Chen Kang, Junfeng Ren, Meina Chen</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.405</guid>
-    </item>
-    <item>
-      <title>Efficient electrocatalytic oxygen evolution enabled by porous Eu-Ni(PO3)2 nanosheet arrays</title>
-      <link>https://doi.org/10.1016/j.jre.2024.11.001</link>
-      <description>Pu Wang, Xiangrui Wu, Meng Li, Xuan Wang, Huiyu Wang, Qiuzi Huang, Hao Li, Yawen Tang, Gengtao Fu, Journal of Rare Earths. None(None)] 2024. https://openalex.org/W4403978086
-
-                No abstract</description>
-      <author>Pu Wang, Xiangrui Wu, Meng Li, Xuan Wang, Huiyu Wang, Qiuzi Huang, Hao Li, Yawen Tang, Gengtao Fu</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jre.2024.11.001</guid>
-    </item>
-    <item>
-      <title>Advanced electrocatalysts for hydrogen and oxygen evolution in proton exchange membrane electrolyzers</title>
-      <link>https://doi.org/10.1016/b978-0-443-24062-1.00002-4</link>
-      <description>Williane da Silva Freitas, Barbara Mecheri, Alessandra D&#8217;Epifanio, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4403978627
-
-                No abstract</description>
-      <author>Williane da Silva Freitas, Barbara Mecheri, Alessandra D&#8217;Epifanio</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-24062-1.00002-4</guid>
-    </item>
-    <item>
-      <title>pH-Mediated Solution-Phase Proton Transfer Drives Enhanced Electrochemical Hydrogenation of Phenol in Alkaline Electrolyte</title>
-      <link>https://doi.org/10.1021/acscatal.4c04874</link>
-      <description>Brianna Markunas, Taber Yim, Joshua Snyder, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403979659
-
-                No abstract</description>
-      <author>Brianna Markunas, Taber Yim, Joshua Snyder</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04874</guid>
-    </item>
-    <item>
-      <title>Overlooked Role of Electrostatic Interactions in HER Kinetics on MXenes: Beyond the Conventional Descriptor &#916;&lt;i&gt;G&lt;/i&gt; &#8764; 0 to Identify the Real Active Site</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c02588</link>
-      <description>Xiang Huang, Xiangting Hu, Jiong Wang, Hu Xu, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4403980675
-
-                Understanding the atomic-level mechanism of the hydrogen evolution reaction (HER) on MXene materials is crucial for developing affordable HER catalysts, while their complex surface terminations present a substantial challenge. Herein, employing constant-potential grand canonical density functional theory calculations, we elucidate the reaction kinetics of the HER on MXenes with various surface terminations by taking experimentally reported Mo</description>
-      <author>Xiang Huang, Xiangting Hu, Jiong Wang, Hu Xu</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02588</guid>
-    </item>
-    <item>
-      <title>Evaluating nonmetal atom doping in two-dimensional VSe2 monolayers for hydrogen and oxygen electrocatalysis</title>
-      <link>https://doi.org/10.1063/5.0232667</link>
-      <description>Rabia Hassan, Fei Ma, Yan Li, Rehan Hassan, Muhammad Farhan Qadir, Journal of Applied Physics. 136(17)] 2024. https://openalex.org/W4403981233
-
-                The electrocatalytic performance of VSe2 doped with nonmetals (NMs) was studied using density functional theory, in which NM atoms (C, N, O, P, S, F, Cl, Br, and I) replaced Se or V (denoted as NM@Se or NM@V). Notably, P@V and Br@V monolayers exhibit high catalytic hydrogen evolution reaction activity with the lowest &#916;GH* = 0.08 eV and &#8722;0.03 eV, respectively, surpassing Pt (&#916;GH* = &#8722;0.1 eV). By applying the scaling relationship of &#916;GH* of H*, which is an intermediate for each volcano, the exchange current density diagrams are established. Based on thermodynamic analysis, P@V and Br@V monolayers produce exchange currents of about &#8722;1.42 and &#8722;0.70i0/(A cm&#8722;2), respectively. The oxygen evolution reaction activity of the I@Se monolayer (&#951;OER = 0.95 V) is the best among all the monolayers. Among the oxygen reduction reaction catalysts, the O@Se monolayer displays high activity with a low &#951;ORR (0.82 V), which is even better than that of binary Pt and Pd alloys (0.9&#8211;0.87 V).</description>
-      <author>Rabia Hassan, Fei Ma, Yan Li, Rehan Hassan, Muhammad Farhan Qadir</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0232667</guid>
-    </item>
-    <item>
-      <title>Advanced N-doping nickel-cobalt phosphides for boosting hydrogen evolution in acid and alkali media</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.10.364</link>
-      <description>Kai Liu, Zizai Ma, Zihao Wan, Xiaoguang Wang, International Journal of Hydrogen Energy. 93(None)] 2024. https://openalex.org/W4403984177
-
-                No abstract</description>
-      <author>Kai Liu, Zizai Ma, Zihao Wan, Xiaoguang Wang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.10.364</guid>
-    </item>
-    <item>
-      <title>Combining graph deep learning and London dispersion interatomic potentials: A case study on pnictogen chalcohalides</title>
-      <link>https://doi.org/10.1063/5.0237101</link>
-      <description>&#199;etin K&#305;l&#305;&#231;, S&#252;meyra G&#252;ler-K&#305;l&#305;&#231;, The Journal of Chemical Physics. 161(17)] 2024. https://openalex.org/W4403984284
-
-                Machine-learning interatomic potential models based on graph neural network architectures have the potential to make atomistic materials modeling widely accessible due to their computational efficiency, scalability, and broad applicability. The training datasets for many such models are derived from density-functional theory calculations, typically using a semilocal exchange-correlation functional. As a result, long-range interactions such as London dispersion are often missing in these models. We investigate whether this missing component can be addressed by combining a graph deep learning potential with semiempirical dispersion models. We assess this combination by deriving the equations of state for layered pnictogen chalcohalides BiTeBr and BiTeI and performing crystal structure optimizations for a broader set of V&#8211;VI&#8211;VII compounds with various stoichiometries, many of which possess van der Waals gaps. We characterize the optimized crystal structures by calculating their x-ray diffraction patterns and radial distribution function histograms, which are also used to compute Earth mover&#8217;s distances to quantify the dissimilarity between the optimized and corresponding experimental structures. We find that dispersion-corrected graph deep learning potentials generally (though not universally) provide a more realistic description of these compounds due to the inclusion of van der Waals attractions. In particular, their use results in systematic improvements in predicting not only the van der Waals gap but also the layer thickness in layered V&#8211;VI&#8211;VII compounds. Our results demonstrate that the combined potentials studied here, derived from a straightforward approach that neither requires fine-tuning the training nor refitting the potential parameters, can significantly improve the description of layered polar crystals.</description>
-      <author>&#199;etin K&#305;l&#305;&#231;, S&#252;meyra G&#252;ler-K&#305;l&#305;&#231;</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0237101</guid>
-    </item>
-    <item>
-      <title>Solar-driven sewage sludge electroreforming coupled with biological funnelling to cogenerate green food and hydrogen</title>
-      <link>https://doi.org/10.1038/s44221-024-00329-z</link>
-      <description>Hu Zhao, Ziying Sun, Chenchen Li, Dan Wu, Li Quan Lee, Dan Lu, Yuanda Lv, Xi Jie Chu, Ying Li, Wenguang Tu, Ovi Lian Ding, Jin Zhou, Zhigang Zou, Yan Zhou, Hong Li, Nature Water. None(None)] 2024. https://openalex.org/W4403984378
-
-                No abstract</description>
-      <author>Hu Zhao, Ziying Sun, Chenchen Li, Dan Wu, Li Quan Lee, Dan Lu, Yuanda Lv, Xi Jie Chu, Ying Li, Wenguang Tu, Ovi Lian Ding, Jin Zhou, Zhigang Zou, Yan Zhou, Hong Li</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s44221-024-00329-z</guid>
-    </item>
-    <item>
-      <title>Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides</title>
-      <link>https://doi.org/10.1021/acscatal.4c05036</link>
-      <description>Samuel Olusegun, Yancun Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier, ACS Catalysis. None(None)] 2024. https://openalex.org/W4403985663
-
-                No abstract</description>
-      <author>Samuel Olusegun, Yancun Qi, Nishithan C. Kani, Meenesh R. Singh, Joseph A. Gauthier</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05036</guid>
-    </item>
-    <item>
-      <title>Probing Active Sites on Pd/Pt Alloy Nanoparticles by CO Adsorption</title>
-      <link>https://doi.org/10.1021/acsnano.4c08291</link>
-      <description>Daniel Silvan Dolling, Jiachen Chen, Jan&#8208;Christian Schober, Marcus Creutzburg, Arno Jeromin, Vedran Vonk, Dmitry Sharapa, Thomas F. Keller, Philipp N. Ple&#223;ow, Heshmat Noei, Andreas Stierle, ACS Nano. None(None)] 2024. https://openalex.org/W4403996395
-
-                We studied the adsorption of CO on Pd/Pt nanoparticles (NPs) with varying compositions using polarization-dependent Fourier transform infrared reflection absorption spectroscopy (FT-IRRAS) and theoretical calculations (DFT). We prepared PtPd alloy NPs via physical vapor codeposition on &#945;-Al</description>
-      <author>Daniel Silvan Dolling, Jiachen Chen, Jan&#8208;Christian Schober, Marcus Creutzburg, Arno Jeromin, Vedran Vonk, Dmitry Sharapa, Thomas F. Keller, Philipp N. Ple&#223;ow, Heshmat Noei, Andreas Stierle</author>
-      <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c08291</guid>
-    </item>
-    <item>
-      <title>Unsupervised representation learning of Kohn&#8211;Sham states and consequences for downstream predictions of many-body effects</title>
-      <link>https://doi.org/10.1038/s41467-024-53748-7</link>
-      <description>Bowen Hou, Jinyuan Wu, Diana Y. Qiu, Nature Communications. 15(1)] 2024. https://openalex.org/W4403996728
-
-                Representation learning for the electronic structure problem is a major challenge of machine learning in computational condensed matter and materials physics. Within quantum mechanical first principles approaches, density functional theory (DFT) is the preeminent tool for understanding electronic structure, and the high-dimensional DFT wavefunctions serve as building blocks for downstream calculations of correlated many-body excitations and related physical observables. Here, we use variational autoencoders (VAE) for the unsupervised learning of DFT wavefunctions and show that these wavefunctions lie in a low-dimensional manifold within latent space. Our model autonomously determines the optimal representation of the electronic structure, avoiding limitations due to manual feature engineering. To demonstrate the utility of the latent space representation of the DFT wavefunction, we use it for the supervised training of neural networks (NN) for downstream prediction of quasiparticle bandstructures within the GW formalism. The GW prediction achieves a low error of 0.11 eV for a combined test set of two-dimensional metals and semiconductors, suggesting that the latent space representation captures key physical information from the original data. Finally, we explore the generative ability and interpretability of the VAE representation.</description>
-      <author>Bowen Hou, Jinyuan Wu, Diana Y. Qiu</author>
-      <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53748-7</guid>
-    </item>
     <item>
       <title>Sustainable photocatalytic hydrogen peroxide production over octonary high-entropy oxide</title>
       <link>https://doi.org/10.1038/s41467-024-53896-w</link>
@@ -416,16 +296,6 @@
       <author>Diana Propst, Wael Joudi, Manuel L&#228;ngle, Jacob Madsen, Clara Kofler, Barbara Maria Mayer, David Lamprecht, Clemens Mangler, Lado Filipovic, Toma Susi, Jani Kotakoski</author>
       <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-77740-9</guid>
-    </item>
-    <item>
-      <title>Application of graph neural network in computational heterogeneous catalysis</title>
-      <link>https://doi.org/10.1063/5.0227821</link>
-      <description>Zihao Jiao, Ya Liu, Ziyun Wang, The Journal of Chemical Physics. 161(17)] 2024. https://openalex.org/W4403984381
-
-                Heterogeneous catalysis, as a key technology in modern chemical industries, plays a vital role in social progress and economic development. However, its complex reaction process poses challenges to theoretical research. Graph neural networks (GNNs) are gradually becoming a key tool in this field as they can intrinsically learn atomic representation and consider connection relationship, making them naturally applicable to atomic and molecular systems. This article introduces the basic principles, current network architectures, and datasets of GNNs and reviews the application of GNN in heterogeneous catalysis from accelerating the materials screening and exploring the potential energy surface. In the end, we summarize the main challenges and potential application prospects of GNNs in future research endeavors.</description>
-      <author>Zihao Jiao, Ya Liu, Ziyun Wang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0227821</guid>
     </item>
   </channel>
 </rss>

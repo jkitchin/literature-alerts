@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Nov  9 01:18:04 2024
+Created on Sun Nov 10 01:24:12 2024
 
-Found 42 results from 2024-11-02 to 2024-11-09
+Found 29 results from 2024-11-03 to 2024-11-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,138 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Effects of strain, pH and oxygen-deficient on catalytic performance of Ruddlesden-Popper oxide Srn+1RunO3n+1 (n=1, 2) for hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4403971281    
-Open access: False
-    
-[Jiahao Zhang](https://openalex.org/A5026699972), [Congcong Li](https://openalex.org/A5101972786), [Chen Kang](https://openalex.org/A5010662985), [Junfeng Ren](https://openalex.org/A5101700374), [Meina Chen](https://openalex.org/A5039530469), International Journal of Hydrogen Energy. 93(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.405.
-    
-No abstract    
-
-    
-
-## Efficient electrocatalytic oxygen evolution enabled by porous Eu-Ni(PO3)2 nanosheet arrays   
-
-OpenAlex: https://openalex.org/W4403978086    
-Open access: False
-    
-[Pu Wang](https://openalex.org/A5100383528), [Xiangrui Wu](https://openalex.org/A5017389276), [Meng Li](https://openalex.org/A5100457604), [Xuan Wang](https://openalex.org/A5100329053), [Huiyu Wang](https://openalex.org/A5111359026), [Qiuzi Huang](https://openalex.org/A5052493337), [Hao Li](https://openalex.org/A5100650594), [Yawen Tang](https://openalex.org/A5034042954), [Gengtao Fu](https://openalex.org/A5015993083), Journal of Rare Earths. None(None)] 2024.https://doi.org/10.1016/j.jre.2024.11.001.
-    
-No abstract    
-
-    
-
-## Advanced electrocatalysts for hydrogen and oxygen evolution in proton exchange membrane electrolyzers   
-
-OpenAlex: https://openalex.org/W4403978627    
-Open access: False
-    
-[Williane da Silva Freitas](https://openalex.org/A5088413674), [Barbara Mecheri](https://openalex.org/A5040393906), [Alessandra D’Epifanio](https://openalex.org/A5017653009), Elsevier eBooks. None(None)] 2024.https://doi.org/10.1016/b978-0-443-24062-1.00002-4.
-    
-No abstract    
-
-    
-
-## pH-Mediated Solution-Phase Proton Transfer Drives Enhanced Electrochemical Hydrogenation of Phenol in Alkaline Electrolyte   
-
-OpenAlex: https://openalex.org/W4403979659    
-Open access: True
-    
-[Brianna Markunas](https://openalex.org/A5089314415), [Taber Yim](https://openalex.org/A5033234861), [Joshua Snyder](https://openalex.org/A5023647595), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04874.
-    
-No abstract    
-
-    
-
-## Overlooked Role of Electrostatic Interactions in HER Kinetics on MXenes: Beyond the Conventional Descriptor ΔG ∼ 0 to Identify the Real Active Site   
-
-OpenAlex: https://openalex.org/W4403980675    
-Open access: False
-    
-[Xiang Huang](https://openalex.org/A5100756502), [Xiangting Hu](https://openalex.org/A5016618490), [Jiong Wang](https://openalex.org/A5063026386), [Hu Xu](https://openalex.org/A5070255704), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c02588.
-    
-Understanding the atomic-level mechanism of the hydrogen evolution reaction (HER) on MXene materials is crucial for developing affordable HER catalysts, while their complex surface terminations present a substantial challenge. Herein, employing constant-potential grand canonical density functional theory calculations, we elucidate the reaction kinetics of the HER on MXenes with various surface terminations by taking experimentally reported Mo    
-
-    
-
-## Evaluating nonmetal atom doping in two-dimensional VSe2 monolayers for hydrogen and oxygen electrocatalysis   
-
-OpenAlex: https://openalex.org/W4403981233    
-Open access: True
-    
-[Rabia Hassan](https://openalex.org/A5010296120), [Fei Ma](https://openalex.org/A5100608217), [Yan Li](https://openalex.org/A5100619415), [Rehan Hassan](https://openalex.org/A5101346943), [Muhammad Farhan Qadir](https://openalex.org/A5077333550), Journal of Applied Physics. 136(17)] 2024.https://doi.org/10.1063/5.0232667 ([pdf](https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/5.0232667/20229982/175301_1_5.0232667.pdf)).
-    
-The electrocatalytic performance of VSe2 doped with nonmetals (NMs) was studied using density functional theory, in which NM atoms (C, N, O, P, S, F, Cl, Br, and I) replaced Se or V (denoted as NM@Se or NM@V). Notably, P@V and Br@V monolayers exhibit high catalytic hydrogen evolution reaction activity with the lowest ΔGH* = 0.08 eV and −0.03 eV, respectively, surpassing Pt (ΔGH* = −0.1 eV). By applying the scaling relationship of ΔGH* of H*, which is an intermediate for each volcano, the exchange current density diagrams are established. Based on thermodynamic analysis, P@V and Br@V monolayers produce exchange currents of about −1.42 and −0.70i0/(A cm−2), respectively. The oxygen evolution reaction activity of the I@Se monolayer (ηOER = 0.95 V) is the best among all the monolayers. Among the oxygen reduction reaction catalysts, the O@Se monolayer displays high activity with a low ηORR (0.82 V), which is even better than that of binary Pt and Pd alloys (0.9–0.87 V).    
-
-    
-
-## Advanced N-doping nickel-cobalt phosphides for boosting hydrogen evolution in acid and alkali media   
-
-OpenAlex: https://openalex.org/W4403984177    
-Open access: False
-    
-[Kai Liu](https://openalex.org/A5100399849), [Zizai Ma](https://openalex.org/A5101023788), [Zihao Wan](https://openalex.org/A5063340075), [Xiaoguang Wang](https://openalex.org/A5100379565), International Journal of Hydrogen Energy. 93(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.10.364.
-    
-No abstract    
-
-    
-
-## Combining graph deep learning and London dispersion interatomic potentials: A case study on pnictogen chalcohalides   
-
-OpenAlex: https://openalex.org/W4403984284    
-Open access: False
-    
-[Çetin Kılıç](https://openalex.org/A5022319933), [Sümeyra Güler-Kılıç](https://openalex.org/A5062639317), The Journal of Chemical Physics. 161(17)] 2024.https://doi.org/10.1063/5.0237101.
-    
-Machine-learning interatomic potential models based on graph neural network architectures have the potential to make atomistic materials modeling widely accessible due to their computational efficiency, scalability, and broad applicability. The training datasets for many such models are derived from density-functional theory calculations, typically using a semilocal exchange-correlation functional. As a result, long-range interactions such as London dispersion are often missing in these models. We investigate whether this missing component can be addressed by combining a graph deep learning potential with semiempirical dispersion models. We assess this combination by deriving the equations of state for layered pnictogen chalcohalides BiTeBr and BiTeI and performing crystal structure optimizations for a broader set of V–VI–VII compounds with various stoichiometries, many of which possess van der Waals gaps. We characterize the optimized crystal structures by calculating their x-ray diffraction patterns and radial distribution function histograms, which are also used to compute Earth mover’s distances to quantify the dissimilarity between the optimized and corresponding experimental structures. We find that dispersion-corrected graph deep learning potentials generally (though not universally) provide a more realistic description of these compounds due to the inclusion of van der Waals attractions. In particular, their use results in systematic improvements in predicting not only the van der Waals gap but also the layer thickness in layered V–VI–VII compounds. Our results demonstrate that the combined potentials studied here, derived from a straightforward approach that neither requires fine-tuning the training nor refitting the potential parameters, can significantly improve the description of layered polar crystals.    
-
-    
-
-## Solar-driven sewage sludge electroreforming coupled with biological funnelling to cogenerate green food and hydrogen   
-
-OpenAlex: https://openalex.org/W4403984378    
-Open access: False
-    
-[Hu Zhao](https://openalex.org/A5101446136), [Ziying Sun](https://openalex.org/A5113211636), [Chenchen Li](https://openalex.org/A5100445755), [Dan Wu](https://openalex.org/A5100656769), [Li Quan Lee](https://openalex.org/A5062714768), [Dan Lu](https://openalex.org/A5100737347), [Yuanda Lv](https://openalex.org/A5048539993), [Xi Jie Chu](https://openalex.org/A5077713164), [Ying Li](https://openalex.org/A5100414175), [Wenguang Tu](https://openalex.org/A5001078855), [Ovi Lian Ding](https://openalex.org/A5082478953), [Jin Zhou](https://openalex.org/A5048859187), [Zhigang Zou](https://openalex.org/A5064666512), [Yan Zhou](https://openalex.org/A5101755008), [Hong Li](https://openalex.org/A5100339405), Nature Water. None(None)] 2024.https://doi.org/10.1038/s44221-024-00329-z.
-    
-No abstract    
-
-    
-
-## Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides   
-
-OpenAlex: https://openalex.org/W4403985663    
-Open access: False
-    
-[Samuel Olusegun](https://openalex.org/A5087253043), [Yancun Qi](https://openalex.org/A5114506523), [Nishithan C. Kani](https://openalex.org/A5030247905), [Meenesh R. Singh](https://openalex.org/A5003372467), [Joseph A. Gauthier](https://openalex.org/A5088579134), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05036.
-    
-No abstract    
-
-    
-
-## Probing Active Sites on Pd/Pt Alloy Nanoparticles by CO Adsorption   
-
-OpenAlex: https://openalex.org/W4403996395    
-Open access: True
-    
-[Daniel Silvan Dolling](https://openalex.org/A5062291345), [Jiachen Chen](https://openalex.org/A5047361053), [Jan‐Christian Schober](https://openalex.org/A5036516463), [Marcus Creutzburg](https://openalex.org/A5056340664), [Arno Jeromin](https://openalex.org/A5023675051), [Vedran Vonk](https://openalex.org/A5024623921), [Dmitry Sharapa](https://openalex.org/A5029193865), [Thomas F. Keller](https://openalex.org/A5074463112), [Philipp N. Pleßow](https://openalex.org/A5108456150), [Heshmat Noei](https://openalex.org/A5088659450), [Andreas Stierle](https://openalex.org/A5039287605), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c08291.
-    
-We studied the adsorption of CO on Pd/Pt nanoparticles (NPs) with varying compositions using polarization-dependent Fourier transform infrared reflection absorption spectroscopy (FT-IRRAS) and theoretical calculations (DFT). We prepared PtPd alloy NPs via physical vapor codeposition on α-Al    
-
-    
-
-## Unsupervised representation learning of Kohn–Sham states and consequences for downstream predictions of many-body effects   
-
-OpenAlex: https://openalex.org/W4403996728    
-Open access: True
-    
-[Bowen Hou](https://openalex.org/A5058441677), [Jinyuan Wu](https://openalex.org/A5100898179), [Diana Y. Qiu](https://openalex.org/A5083585252), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53748-7.
-    
-Representation learning for the electronic structure problem is a major challenge of machine learning in computational condensed matter and materials physics. Within quantum mechanical first principles approaches, density functional theory (DFT) is the preeminent tool for understanding electronic structure, and the high-dimensional DFT wavefunctions serve as building blocks for downstream calculations of correlated many-body excitations and related physical observables. Here, we use variational autoencoders (VAE) for the unsupervised learning of DFT wavefunctions and show that these wavefunctions lie in a low-dimensional manifold within latent space. Our model autonomously determines the optimal representation of the electronic structure, avoiding limitations due to manual feature engineering. To demonstrate the utility of the latent space representation of the DFT wavefunction, we use it for the supervised training of neural networks (NN) for downstream prediction of quasiparticle bandstructures within the GW formalism. The GW prediction achieves a low error of 0.11 eV for a combined test set of two-dimensional metals and semiconductors, suggesting that the latent space representation captures key physical information from the original data. Finally, we explore the generative ability and interpretability of the VAE representation.    
-
-    
 
 ## Sustainable photocatalytic hydrogen peroxide production over octonary high-entropy oxide   
 
@@ -465,16 +333,5 @@ Open access: True
 [Diana Propst](https://openalex.org/A5037286941), [Wael Joudi](https://openalex.org/A5061525811), [Manuel Längle](https://openalex.org/A5035558275), [Jacob Madsen](https://openalex.org/A5089971005), [Clara Kofler](https://openalex.org/A5095375477), [Barbara Maria Mayer](https://openalex.org/A5101335349), [David Lamprecht](https://openalex.org/A5105052117), [Clemens Mangler](https://openalex.org/A5066503119), [Lado Filipovic](https://openalex.org/A5083434497), [Toma Susi](https://openalex.org/A5024871823), [Jani Kotakoski](https://openalex.org/A5003528240), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-77740-9.
     
 Abstract Defect-engineered and even amorphous two-dimensional (2D) materials have recently gained interest due to properties that differ from their pristine counterparts. Since these properties are highly sensitive to the exact atomic structure, it is crucial to be able to characterize them at atomic resolution over large areas. This is only possible when the imaging process is automated to reduce the time spent on manual imaging, which at the same time reduces the observer bias in selecting the imaged areas. Since the necessary datasets include at least hundreds if not thousands of images, the analysis process similarly needs to be automated. Here, we introduce disorder into graphene and monolayer hexagonal boron nitride (hBN) using low-energy argon ion irradiation, and characterize the resulting disordered structures using automated scanning transmission electron microscopy annular dark field imaging combined with convolutional neural network-based analysis techniques. We show that disorder manifests in these materials in a markedly different way, where graphene accommodates vacancy-type defects by transforming hexagonal carbon rings into other polygonal shapes, whereas in hBN the disorder is observed simply as vacant lattice sites with very little rearrangement of the remaining atoms. Correspondingly, in the case of graphene, the highest introduced disorder leads to an amorphous membrane, whereas in hBN, the highly defective lattice contains a large number of vacancies and small pores with no indication of amorphisation. Overall, our study demonstrates that combining automated imaging and image analysis is a powerful way to characterize the structure of disordered and amorphous 2D materials, while also illustrating some of the remaining shortcomings with this methodology.    
-
-    
-
-## Application of graph neural network in computational heterogeneous catalysis   
-
-OpenAlex: https://openalex.org/W4403984381    
-Open access: True
-    
-[Zihao Jiao](https://openalex.org/A5103277337), [Ya Liu](https://openalex.org/A5100459723), [Ziyun Wang](https://openalex.org/A5100744706), The Journal of Chemical Physics. 161(17)] 2024.https://doi.org/10.1063/5.0227821 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0227821/20228753/171001_1_5.0227821.pdf)).
-    
-Heterogeneous catalysis, as a key technology in modern chemical industries, plays a vital role in social progress and economic development. However, its complex reaction process poses challenges to theoretical research. Graph neural networks (GNNs) are gradually becoming a key tool in this field as they can intrinsically learn atomic representation and consider connection relationship, making them naturally applicable to atomic and molecular systems. This article introduces the basic principles, current network architectures, and datasets of GNNs and reviews the application of GNN in heterogeneous catalysis from accelerating the materials screening and exploring the potential energy surface. In the end, we summarize the main challenges and potential application prospects of GNNs in future research endeavors.    
 
     
