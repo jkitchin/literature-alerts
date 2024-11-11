@@ -1,32 +1,11 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Sun Nov 10 01:24:00 2024
+Created on Mon Nov 11 01:20:47 2024
 
-Found 87 results from 2024-11-03 to 2024-11-10
+Found 87 results from 2024-11-04 to 2024-11-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution]]
-
-* One-pot synthesis of graphene nanosheets‑nickel cobalt LDHs nanocomposite for electrocatalysis of oxygen evolution reaction  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404005935
-:TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Materials for Electrochemical Supercapacitors
-:PUBLICATION_DATE: 2024-11-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.diamond.2024.111738")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404005935"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404005935"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404005935"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404005935 (Open access: False)
-    
-[[https://openalex.org/A5026110059][Masoud Moradi]], [[https://openalex.org/A5012011033][Shahram Ghasemi]], [[https://openalex.org/A5081266855][Farimah Mousavi]], Diamond and Related Materials. None(None)] 2024. https://doi.org/10.1016/j.diamond.2024.111738 
-     
-No abstract    
-
-    
 
 * High-Entropy Prussian Blue Analogue Derived Heterostructure Nanoparticles as Bifunctional Oxygen Conversion Electrocatalysts for the Rechargeable Zinc–Air Battery  :water_splitting:
 :PROPERTIES:
@@ -721,6 +700,27 @@ No abstract
 
     
 
+* Quantification of electrochemically accessible iridium oxide surface area with mercury underpotential deposition  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404090538
+:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Memristive Devices for Neuromorphic Computing
+:PUBLICATION_DATE: 2024-11-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1126/sciadv.adp8911")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404090538"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404090538"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404090538"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404090538 (Open access: True)
+    
+[[https://openalex.org/A5027776440][Jane Edgington]], [[https://openalex.org/A5106868026][Sejal Vispute]], [[https://openalex.org/A5014692849][Ruihan Li]], [[https://openalex.org/A5015499190][Adrien Deberghes]], [[https://openalex.org/A5037183181][Linsey C. Seitz]], Science Advances. 10(45)] 2024. https://doi.org/10.1126/sciadv.adp8911 
+     
+Research drives development of sustainable electrocatalytic technologies, but efforts are hindered by inconsistent reporting of advances in catalytic performance. Iridium-based oxide catalysts are widely studied for electrocatalytic technologies, particularly for the oxygen evolution reaction (OER) for proton exchange membrane water electrolysis, but insufficient techniques for quantifying electrochemically accessible iridium active sites impede accurate assessment of intrinsic activity improvements. We develop mercury underpotential deposition and stripping as a reversible electrochemical adsorption process to robustly quantify iridium sites and consistently normalize OER performance of benchmark IrO x electrodes to a single intrinsic activity curve, where other commonly used normalization methods cannot. Through rigorous deconvolution of mercury redox and reproportionation reactions, we extract net monolayer deposition and stripping of mercury on iridium sites throughout testing using a rotating ring disk electrode. This technique is a transformative method to standardize OER performance across a wide range of iridium-based materials and quantify electrochemical iridium active sites.    
+
+    
+
 * Production of Cost-effective Green Energy using Mn/Gd Co-substituted Cobalt Ferrites Hydroelectric Cells and their Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4404092151
@@ -889,6 +889,27 @@ The use of g-CN/C as a substrate for MnO 2 has been demonstrated to enhance the 
 
     
 
+* Combined effect of nitrogen-doped carbon and NiCo2O4 for electrochemical water splitting  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404112810
+:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-11-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41598-024-74031-1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404112810"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404112810"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404112810"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404112810 (Open access: True)
+    
+[[https://openalex.org/A5114543243][Laura Kubińska]], [[https://openalex.org/A5004718833][Mariusz Szkoda]], [[https://openalex.org/A5032102395][Małgorzata Skorupska]], [[https://openalex.org/A5063820626][Patrycja Grabowska]], [[https://openalex.org/A5001381388][Marta Gajewska]], [[https://openalex.org/A5069810672][Jerzy P. Łukaszewicz]], [[https://openalex.org/A5085737539][Anna Ilnicka]], Scientific Reports. 14(1)] 2024. https://doi.org/10.1038/s41598-024-74031-1 
+     
+Abstract Electrocatalytic water splitting for green hydrogen production necessitates effective electrocatalysts. Currently, commercial catalysts are primarily platinum-based. Therefore, finding catalysts with comparable catalytic activity but lower cost is essential. This paper describes spinel-structured catalysts containing nickel cobaltite NiCo 2 O 4 , graphene, and additionally doped with heteroatoms. The structure and elemental composition of the obtained materials were analyzed by research methods such as TEM, SEM-EDX, XRD, XPS, and Raman spectroscopy. The electrochemical measurements showed that hybrid materials containing nickel cobaltite NiCo 2 O 4 doped with graphene are highly active catalysts in the hydrogen evolution reaction (Tafel slopes = 91 mV dec −1 , overpotential = 468 mV and onset potential = -339 mV), while in the oxygen evolution reaction (Tafel slopes = 51 mV dec −1 , overpotential = 1752 mV and onset potential = 370 mV), bare NiCo 2 O 4 without the addition of carbon has a worse activity (for HER: Tafel slopes = 120 mV dec −1 , overpotential - does not achieve and onset potential = -404 mV, for OER: Tafel slopes = 54 mV dec −1 , overpotential = 1796 mV and onset potential = 410 mV). In terms of stability, comparable results were obtained for each synthesized compound for both the HER and OER reactions.    
+
+    
+
 * Vertically Expanded Covalent Organic Frameworks for Photocatalytic Water Oxidation into Oxygen  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4404114719
@@ -1036,6 +1057,69 @@ No abstract
 
     
 
+* Review for "Construction of oxygen-rich vacancy Bi3O4Br: Yb3+, Er3+ nanosheet for enhanced Photoreversible color switching and upconversion luminescence"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404203287
+:TOPICS: Upconversion Nanoparticles, Synthesis and Characterization of Inorganic Pigments, Nanotechnology and Imaging for Cancer Therapy and Diagnosis
+:PUBLICATION_DATE: 2024-10-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4tc03981e/v1/review2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404203287"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404203287"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404203287"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404203287 (Open access: False)
+    
+, No host. None(None)] 2024. https://doi.org/10.1039/d4tc03981e/v1/review2 
+     
+No abstract    
+
+    
+
+* Review for "Construction of oxygen-rich vacancy Bi3O4Br: Yb3+, Er3+ nanosheet for enhanced Photoreversible color switching and upconversion luminescence"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404203455
+:TOPICS: Upconversion Nanoparticles, Synthesis and Characterization of Inorganic Pigments, Nanotechnology and Imaging for Cancer Therapy and Diagnosis
+:PUBLICATION_DATE: 2024-10-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4tc03981e/v1/review1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404203455"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404203455"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404203455"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404203455 (Open access: False)
+    
+, No host. None(None)] 2024. https://doi.org/10.1039/d4tc03981e/v1/review1 
+     
+No abstract    
+
+    
+
+* Review for "Construction of oxygen-rich vacancy Bi3O4Br: Yb3+, Er3+ nanosheet for enhanced Photoreversible color switching and upconversion luminescence"  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404203462
+:TOPICS: Upconversion Nanoparticles, Synthesis and Characterization of Inorganic Pigments, Nanotechnology and Imaging for Cancer Therapy and Diagnosis
+:PUBLICATION_DATE: 2024-11-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4tc03981e/v2/review1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404203462"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404203462"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404203462"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404203462 (Open access: False)
+    
+, No host. None(None)] 2024. https://doi.org/10.1039/d4tc03981e/v2/review1 
+     
+No abstract    
+
+    
+
 * Calcium titanate corrosion inhibitor enabling carbon as inert anode for oxygen evolution in molten chlorides  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4404061639
@@ -1078,27 +1162,6 @@ No abstract
 
     
 
-* In Situ Synthesized Carbon Quantum Dots@Metal Organic Framework Via Corroding Ni Foam for Efficient Oxygen Evolution Reaction  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404089733
-:TOPICS: Electrochemical Biosensor Technology, Electrocatalysis for Energy Conversion, Nanomaterials with Enzyme-Like Characteristics
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5011878")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404089733"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404089733"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404089733"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404089733 (Open access: False)
-    
-[[https://openalex.org/A5100721874][Yuzhen Zhang]], [[https://openalex.org/A5039842637][huajun zhou]], [[https://openalex.org/A5015427745][Pei‐Hua Zhao]], [[https://openalex.org/A5002965913][Yuan Kai]], [[https://openalex.org/A5089244105][Rui Zhou]], [[https://openalex.org/A5100623133][Hui Gao]], [[https://openalex.org/A5039786806][Yongping Qu]], [[https://openalex.org/A5101970291][Yanzhong Wang]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.5011878 
-     
-No abstract    
-
-    
-
 * Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuOx on a Well-Matched Substrate  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4404099969
@@ -1115,6 +1178,27 @@ No abstract
 OpenAlex: https://openalex.org/W4404099969 (Open access: False)
     
 [[https://openalex.org/A5068534193][Liming Zeng]], [[https://openalex.org/A5076170351][Biao Yuan]], [[https://openalex.org/A5081814287][Qing Zhou]], Langmuir. None(None)] 2024. https://doi.org/10.1021/acs.langmuir.4c03507 
+     
+Oxygen evolution reaction (OER) is a multistep proton-coupled four-electron process with sluggish kinetics, which seriously limits the hydrogen production efficiency, thus it is of great importance to develop an efficient and stable OER catalyst. In this study, a two-step differential pyrolysis strategy is employed to design a three-dimensional porous microstructured material consisting of RuOx nanoparticles coated by a thin-layer carbon, where the active particles were isolated in separate chambers and the RuOx nanoparticles mainly existed in the form of a heterogeneous interface between RuO2 and partial metallic Ru. The preparation parameters of the catalysts are optimized via combining transient and steady-state polarization properties, and the target catalyst Cat-500–1.5t shows the best OER catalytic performance after ca. 60 h of a chronopotentiometry test in an acidic medium with a much smaller performance change than other samples. The unique design of adopting a carbon layer to form separate reaction chambers largely mitigates the excessive oxidation loss of the active components under strong oxidation potential. The suitability of the catalyst with the loaded substrate and test media is explored, and in an acidic medium, the carbon paper is much better than the titanium fiber, while in an alkaline medium, the titanium fiber is obviously superior to the carbon paper. On both carbon paper and titanium fiber, the performance in an alkaline medium outperforms that in an acidic medium, and the possible reasons for the performance difference are analyzed. Herein, to obtain the actual electrocatalytic performance, the optimal design of the catalyst structure and matching suitable conductive substrate in a specific medium are quite necessary, which provides a feasible strategy for the acquisition of efficient and stable electrocatalysts and the desirable presentation of performance.    
+
+    
+
+* In Situ Synthesized Carbon Quantum Dots@Metal Organic Framework Via Corroding Ni Foam for Efficient Oxygen Evolution Reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404089733
+:TOPICS: Electrochemical Biosensor Technology, Electrocatalysis for Energy Conversion, Nanomaterials with Enzyme-Like Characteristics
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.5011878")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404089733"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404089733"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404089733"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404089733 (Open access: False)
+    
+[[https://openalex.org/A5100721874][Yuzhen Zhang]], [[https://openalex.org/A5039842637][huajun zhou]], [[https://openalex.org/A5015427745][Pei‐Hua Zhao]], [[https://openalex.org/A5002965913][Yuan Kai]], [[https://openalex.org/A5089244105][Rui Zhou]], [[https://openalex.org/A5100623133][Hui Gao]], [[https://openalex.org/A5039786806][Yongping Qu]], [[https://openalex.org/A5101970291][Yanzhong Wang]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.5011878 
      
 No abstract    
 
@@ -1288,27 +1372,6 @@ Seawater electrolysis preferentially leans towards Chlorine Evolution Reaction (
 
     
 
-* Quantification of electrochemically accessible iridium oxide surface area with mercury underpotential deposition  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404090538
-:TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Lithium-ion Battery Technology
-:PUBLICATION_DATE: 2024-11-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1126/sciadv.adp8911")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404090538"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404090538"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404090538"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404090538 (Open access: False)
-    
-[[https://openalex.org/A5027776440][Jane Edgington]], [[https://openalex.org/A5106868026][Sejal Vispute]], [[https://openalex.org/A5014692849][Ruihan Li]], [[https://openalex.org/A5015499190][Adrien Deberghes]], [[https://openalex.org/A5037183181][Linsey C. Seitz]], Science Advances. 10(45)] 2024. https://doi.org/10.1126/sciadv.adp8911 
-     
-Research drives development of sustainable electrocatalytic technologies, but efforts are hindered by inconsistent reporting of advances in catalytic performance. Iridium-based oxide catalysts are widely studied for electrocatalytic technologies, particularly for the oxygen evolution reaction (OER) for proton exchange membrane water electrolysis, but insufficient techniques for quantifying electrochemically accessible iridium active sites impede accurate assessment of intrinsic activity improvements. We develop mercury underpotential deposition and stripping as a reversible electrochemical adsorption process to robustly quantify iridium sites and consistently normalize OER performance of benchmark IrO x electrodes to a single intrinsic activity curve, where other commonly used normalization methods cannot. Through rigorous deconvolution of mercury redox and reproportionation reactions, we extract net monolayer deposition and stripping of mercury on iridium sites throughout testing using a rotating ring disk electrode. This technique is a transformative method to standardize OER performance across a wide range of iridium-based materials and quantify electrochemical iridium active sites.    
-
-    
-
 * Iron‐Induced Localized Oxide Path Mechanism Enables Efficient and Stable Water Oxidation  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4404059879
@@ -1327,27 +1390,6 @@ OpenAlex: https://openalex.org/W4404059879 (Open access: False)
 [[https://openalex.org/A5102598588][Bohan Yao]], [[https://openalex.org/A5100436566][Yuting Chen]], [[https://openalex.org/A5021280447][Yueying Yan]], [[https://openalex.org/A5100397798][Yang Yang]], [[https://openalex.org/A5016933958][Huanhuan Xing]], [[https://openalex.org/A5067130495][Yanchao Xu]], [[https://openalex.org/A5033538563][Dongxu Jiao]], [[https://openalex.org/A5035559327][Zhicai Xing]], [[https://openalex.org/A5069973371][Dewen Wang]], [[https://openalex.org/A5103267922][Yang Xiu-rong]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202416141 
      
 The sluggish reaction kinetics of the anodic oxygen evolution reaction (OER) and the inadequate catalytic performance of non‐noble metal‐based electrocatalysts represent substantial barriers to the development of anion exchange membrane water electrolyzer (AEMWE). This study performed the synthesis of a three‐dimensional (3D) nanoflower‐like electrocatalyst (CFMO) via a simple one‐step method. The substitution of Co with Fe in the structure induces a localized oxide path mechanism (LOPM), facilitating direct O–O radical coupling for enhanced O2 evolution. The optimized CFMO‐2 electrocatalyst demonstrates superior OER performance, achieving an overpotential of 217 mV at 10 mA cm–2, alongside exceptional long‐term stability with minimal degradation after 1000 h of operation in 1.0 M KOH. These properties surpass most of conventional noble metal‐based electrocatalysts. Furthermore, the assembled AEMWE system, utilizing CFMO‐2, operates with a cell voltage of 1.65 V to deliver 1.0 A cm–2. In situ characterizations reveal that, in addition to the traditional adsorbate evolution mechanism (AEM) at isolated Co sites, a new LOPM occurred around the Fe and Co bimetallic sites. First‐principles calculations confirm the LOPM greatly reduced the energy barriers. This work highlights the potential of LOPM for improving the design of non‐noble metal‐based electrocatalysts and the development of AEMWE.    
-
-    
-
-* Combined effect of nitrogen-doped carbon and NiCo2O4 for electrochemical water splitting  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404112810
-:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-11-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41598-024-74031-1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404112810"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404112810"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404112810"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404112810 (Open access: True)
-    
-[[https://openalex.org/A5114543243][Laura Kubińska]], [[https://openalex.org/A5004718833][Mariusz Szkoda]], [[https://openalex.org/A5032102395][Małgorzata Skorupska]], [[https://openalex.org/A5063820626][Patrycja Grabowska]], [[https://openalex.org/A5001381388][Marta Gajewska]], [[https://openalex.org/A5069810672][Jerzy P. Łukaszewicz]], [[https://openalex.org/A5085737539][Anna Ilnicka]], Scientific Reports. 14(1)] 2024. https://doi.org/10.1038/s41598-024-74031-1 
-     
-Abstract Electrocatalytic water splitting for green hydrogen production necessitates effective electrocatalysts. Currently, commercial catalysts are primarily platinum-based. Therefore, finding catalysts with comparable catalytic activity but lower cost is essential. This paper describes spinel-structured catalysts containing nickel cobaltite NiCo 2 O 4 , graphene, and additionally doped with heteroatoms. The structure and elemental composition of the obtained materials were analyzed by research methods such as TEM, SEM-EDX, XRD, XPS, and Raman spectroscopy. The electrochemical measurements showed that hybrid materials containing nickel cobaltite NiCo 2 O 4 doped with graphene are highly active catalysts in the hydrogen evolution reaction (Tafel slopes = 91 mV dec −1 , overpotential = 468 mV and onset potential = -339 mV), while in the oxygen evolution reaction (Tafel slopes = 51 mV dec −1 , overpotential = 1752 mV and onset potential = 370 mV), bare NiCo 2 O 4 without the addition of carbon has a worse activity (for HER: Tafel slopes = 120 mV dec −1 , overpotential - does not achieve and onset potential = -404 mV, for OER: Tafel slopes = 54 mV dec −1 , overpotential = 1796 mV and onset potential = 410 mV). In terms of stability, comparable results were obtained for each synthesized compound for both the HER and OER reactions.    
 
     
 
@@ -1495,27 +1537,6 @@ OpenAlex: https://openalex.org/W4404021020 (Open access: True)
 [[https://openalex.org/A5015321850][V. A. Knysh]], [[https://openalex.org/A5081219234][O. Shmychkova]], [[https://openalex.org/A5048447722][T. V. Luk’yanenko]], [[https://openalex.org/A5002928522][A. Velichenko]], Voprosy Khimii i Khimicheskoi Tekhnologii. None(5)] 2024. https://doi.org/10.32434/0321-4095-2024-156-5-131-137 
      
 The effect of platinum content on the surface morphology, phase composition and electrochemical properties of materials based on titanium suboxides was investigated. Titanium suboxides are formed at the stage of coating reduction under cathodic polarization, which allows the formation of a porous developed surface for electrodeposition of catalytic platinum layers. The main allotropic modification of TiOx in the studied composite materials is anatase, which contains particles of elemental titanium and platinum. The investigated materials are highly doped semiconductors with a high concentration of charge carriers. With an increase in the platinum content, an extreme dependence of the potential of flat zones is observed, which is associated with the formation of a composite material. The electrocatalytic activity was studied in the reactions of oxygen and hydrogen evolution. The overvoltage of oxygen production on platinum-containing materials is much lower than on the TiOx electrode. The slope of the linear dependence of the potential on the current density decreases with an increase in platinum content. The Tafel slope for the studied materials in the hydrogen evolution reaction was 160 mVdec–1 for coatings containing 0.25 mgcm–2 Pt; whereas it was equal to 42 and 43 mVdec–1 for electrodes with 0.5 and 2 mgcm–2 Pt, respectively.    
-
-    
-
-* The intriguing effect of CO2 enrichment in anaerobic digestion  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404011662
-:TOPICS: Anaerobic Digestion and Biogas Production, Hydrogen Energy Systems and Technologies, Cryogenic Fluid Storage and Management
-:PUBLICATION_DATE: 2024-11-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.biortech.2024.131743")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404011662"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404011662"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404011662"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404011662 (Open access: True)
-    
-[[https://openalex.org/A5035486802][Mohammad Javad Bardi]], [[https://openalex.org/A5112455631][Felix Müller]], [[https://openalex.org/A5042488230][Daniela Polag]], [[https://openalex.org/A5057903639][Nigus Gabbiye Habtu]], [[https://openalex.org/A5073193762][Konrad Koch]], Bioresource Technology. 416(None)] 2024. https://doi.org/10.1016/j.biortech.2024.131743 
-     
-This study explores carbon dioxide enrichment in anaerobic digestion to boost biomethane production and assess degradation kinetics and methanogenic pathway evolution. Carbon dioxide enrichment was found to improve inoculum digestion, supplying additional energy for methanogenic archaea. The methane yield of blank inocula increased by 53 % to 77 % after carbon dioxide enrichment. Although further digestion of inoculum residues took longer, rapid adaptation led to an increased methane production rate that surpassed the lag phase. No antagonistic effects were observed with carbon dioxide enrichment after applying the feedstocks. Increased methane production, along with a significant reduction in chemical oxygen demand, confirms the impact of carbon dioxide enrichment on inoculum digestion. Isotope analysis showed an increase in δ    
 
     
 
@@ -1750,48 +1771,6 @@ The formation of H2 by introducing ultrasonic waves to liquid has been widely re
 
     
 
-* A 45-year hydrological and planktonic time series in the South Bight of the North Sea  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404044141
-:TOPICS: Oceanic Modeling and Circulation Studies, Paleoceanography and Geology of the Black Sea
-:PUBLICATION_DATE: 2024-11-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/essd-2024-479")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404044141"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404044141"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404044141"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404044141 (Open access: True)
-    
-[[https://openalex.org/A5064106508][David Devreker]], [[https://openalex.org/A5089388597][Guillaume Wacquet]], [[https://openalex.org/A5025641777][Alain Lefebvre]], No host. None(None)] 2024. https://doi.org/10.5194/essd-2024-479 
-     
-Abstract. This article presents a 45-year data series (from 1978 to 2023) acquired under the IGA (“Impact des Grands Aménagements” in French; Impacts of Major Developments) program, conducted by Ifremer for EDF (Électricité de France, the French multinational electricity utility company). The IGA program was established to monitor the ecological and environmental quality of the coastal area surrounding the Gravelines Nuclear Power Plant (NPP), located in the southern bight of the North Sea. The main objective of this program is to assess medium- and long-term environmental evolution by providing means to identify possible changes in the local marine habitats. Since 1978, the IGA program has measured key parameters, including temperature, salinity, nutrient concentrations, oxygen levels, chlorophyll-a concentrations, as well as the abundance of phytoplankton and zooplankton species. These measurements have been taken at different sampling stations around the NPP, including the “Canal d’amenée” sampling station, for which hydrological and biological characteristics are considered as representative of broader coastal area of the southern bight of the North Sea. This data paper provides an overview of the main statistical characteristics of the time series, including long-term trends and shifts analysis. Despite the importance and length of this dataset, one of the longest available for this region, its application in advancing knowledge of hydrological and biological processes has been surprisingly limited. The aim of this paper is to make this valuable dataset available to the scientific community, stakeholders, and society to help decipher the local and global influence of anthropogenic activities in a world increasingly affected by climate change. Since all the main statistics and patterns are still available thanks to our analysis, the user should be able to use this data and combine it with other sources (in situ, satellite, modelling), in order to dive into deeper analyses, and to investigate new key scientific challenges as well as more specific ones.    
-
-    
-
-* New Horizons in Micro/Nanoplastic-Induced Oxidative Stress: Overlooked Free Radical Contributions and Microbial Metabolic Dysregulations in Anaerobic Digestion  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404058697
-:TOPICS: Microplastic Pollution in Marine and Terrestrial Environments, Biomedical Applications of Graphene Nanomaterials, Biodegradable Polymers as Biomaterials and Packaging
-:PUBLICATION_DATE: 2024-11-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.est.4c08865")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404058697"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404058697"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404058697"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404058697 (Open access: False)
-    
-[[https://openalex.org/A5100343567][Xingxing Zhang]], [[https://openalex.org/A5011132555][Xuxiang Zhang]], [[https://openalex.org/A5044093768][Liping Ma]], Environmental Science & Technology. None(None)] 2024. https://doi.org/10.1021/acs.est.4c08865 
-     
-Excessive production of reactive oxygen species (ROS) induced by micro/nanoplastics (MPs/NPs) is highly toxic to microbes. However, the mechanisms underlying ROS generation and metabolic regulation within anaerobic guilds remain poorly understood. In this study, we investigated the effects of environmentally relevant levels of polypropylene (PP)-MPs/NPs on oxidative stress and microbial ecology during anaerobic digestion (AD). Electron paramagnetic resonance spectroscopy revealed that PP-MPs/NPs elevated the concentrations of environmentally persistent free radicals (EPFRs) and derived hydroxyl radicals (•OH). EPFRs were identified as the primary contributors to •OH generation, as evidenced by a high Spearman correlation coefficient (r = 0.884, p < 0.001) and free radical-quenching studies. The formation of •OH enhanced ROS production by 86.2–100.9%, resulting in decreased cellular viability and methane production (by 37.5–50.5%) at 100 mg/g TS PP-MPs/NPs. Genome-centric metagenomic and metatranscriptomic analyses suggested that PP-MPs/NPs induced the reassembly of community structures, re-evolution of functional traits, and remodeling of interspecies interactions. Specifically, PP-MPs/NPs induced a shift in methanogen consortia from hydrogenotrophic Methanofollis sp. to acetoclastic and hydrogenotrophic Methanothrix soehngenii, primarily because of the latter's diverse ingestion patterns, electron bifurcation complexes, and ROS-scavenging abilities. Downregulation of genes associated with antioxidative defense systems (i.e., sodN, katA, and osmC) and ROS-driven redox signal transduction pathways (c-di-AMP and phosphorylation signaling pathways) provided insights into the mechanisms underlying ROS-induced microbial metabolic dysregulation. Our findings enhance the understanding of microbial ecological and metabolic traits under MPs/NPs stressors, facilitating the control of MPs/NPs toxicity and the stabilization of AD processes.    
-
-    
-
 * PP466 Topic: AS15–Lung: Respiratory Support/Acute Respiratory Failure/Other: HIGH-FREQUENCY OSCILLATORY VENTILATION (HFOV) FOR PEDIATRIC PATIENTS WITH CHRONIC LIVER FAILURE AND PEDIATRIC ACUTE RESPIRATORY DISTRESS SYNDROME (PARDS)–CASE-SERIES OF 5 PATIENTS:  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4404041154
@@ -1810,6 +1789,27 @@ OpenAlex: https://openalex.org/W4404041154 (Open access: True)
 [[https://openalex.org/A5070771144][M.C. Silveira De Carvalho]], [[https://openalex.org/A5100767565][Bruna Silva]], [[https://openalex.org/A5056377990][Michele Luglio]], [[https://openalex.org/A5030907622][Juliana Ferreira Ferranti]], [[https://openalex.org/A5007255155][Artur Figueiredo Delgado]], [[https://openalex.org/A5045710184][Werther Brunow de Carvalho]], Pediatric Critical Care Medicine. 25(11S)] 2024. https://doi.org/10.1097/01.pcc.0001086048.92951.ed 
      
 Aims & Objectives: HFOV is a ventilatory strategy that can be applied as rescue therapy for patients with PARDS when there is limited access to extracorporeal membrane oxygenation (ECMO). The behavior of chronic hepatic failure patients with pulmonary disease in HFOV is insufficiently reported. Methods: We described ventilatory parameters, gasometrical and oxygenation variables, and organ dysfunction scores on first 3 days of HFOV and outcome data [PICU length-of-stay (LOS), total HFOV days and ventilation-free days] for patients with chronic hepatic failure and PARDS. Results: 5 patients with chronic hepatic failure were submitted to HFOV from January 2020 to January 2023. All patients had Biliary Atresia. 60% were boys, median age was 7 (5-24) months. Median PIM-3 score was 27.5% (0.5-80) and median pre-HFOV PELOD-2 score was 8 (7-12). Median pre-HFOV Oxygen Saturation Index (OSI) was 25 (15-26) and median pre-HFOV PaCO2 was 104 (86-154). Evolution of PaCO2 and ISO are shown in Figure 1. Median PICU LOS was 15 (5-35) days, median HFOV duration was 3 (1-8) days. Ventilation-free days varied from 0 to 9 days and 3 patients (60%) died. OSI, PaCO2 (Figure 1) and daily PELOD-2 scores showed a tendency towards improvement.Conclusions: Knowledge towards the behavior of chronic hepatic failure patients submitted to alternative modes of mechanical ventilation is crucial. Particularities such as the presence of ascites and coagulopathy can have impacts on how these patients respond to HFOV. Despite a tendency towards gasometrical and oxygenation index improvement, inferences on robust outcomes could not be made given high mortality and small sample-size. Keywords: HFOV, PARDS, Liver    
+
+    
+
+* A 45-year hydrological and planktonic time series in the South Bight of the North Sea  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404044141
+:TOPICS: Oceanic Modeling and Circulation Studies, Paleoceanography and Geology of the Black Sea
+:PUBLICATION_DATE: 2024-11-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5194/essd-2024-479")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404044141"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404044141"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404044141"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404044141 (Open access: True)
+    
+[[https://openalex.org/A5064106508][David Devreker]], [[https://openalex.org/A5089388597][Guillaume Wacquet]], [[https://openalex.org/A5025641777][Alain Lefebvre]], No host. None(None)] 2024. https://doi.org/10.5194/essd-2024-479 
+     
+Abstract. This article presents a 45-year data series (from 1978 to 2023) acquired under the IGA (“Impact des Grands Aménagements” in French; Impacts of Major Developments) program, conducted by Ifremer for EDF (Électricité de France, the French multinational electricity utility company). The IGA program was established to monitor the ecological and environmental quality of the coastal area surrounding the Gravelines Nuclear Power Plant (NPP), located in the southern bight of the North Sea. The main objective of this program is to assess medium- and long-term environmental evolution by providing means to identify possible changes in the local marine habitats. Since 1978, the IGA program has measured key parameters, including temperature, salinity, nutrient concentrations, oxygen levels, chlorophyll-a concentrations, as well as the abundance of phytoplankton and zooplankton species. These measurements have been taken at different sampling stations around the NPP, including the “Canal d’amenée” sampling station, for which hydrological and biological characteristics are considered as representative of broader coastal area of the southern bight of the North Sea. This data paper provides an overview of the main statistical characteristics of the time series, including long-term trends and shifts analysis. Despite the importance and length of this dataset, one of the longest available for this region, its application in advancing knowledge of hydrological and biological processes has been surprisingly limited. The aim of this paper is to make this valuable dataset available to the scientific community, stakeholders, and society to help decipher the local and global influence of anthropogenic activities in a world increasingly affected by climate change. Since all the main statistics and patterns are still available thanks to our analysis, the user should be able to use this data and combine it with other sources (in situ, satellite, modelling), in order to dive into deeper analyses, and to investigate new key scientific challenges as well as more specific ones.    
 
     
 

@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Nov 10 01:24:05 2024
+Created on Mon Nov 11 01:20:52 2024
 
-Found 22 results from 2024-11-03 to 2024-11-10
+Found 21 results from 2024-11-04 to 2024-11-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Harnessing Electrolyte Chemistry to Advance Oxygen Reduction Catalysis for Fuel Cells and Electrosynthesis   
-
-OpenAlex: https://openalex.org/W4404003723    
-Open access: False
-    
-[Yong‐Yan Zhao](https://openalex.org/A5091153870), [Wenhe Yu](https://openalex.org/A5011808753), [Xiaoxuan Sun](https://openalex.org/A5001648744), [Hengshuo Huang](https://openalex.org/A5072093629), [Fengwang Li](https://openalex.org/A5089706752), [Mingchuan Luo](https://openalex.org/A5001987994), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05425.
-    
-No abstract    
-
-    
 
 ## Rh(III)-Catalyzed Alkene Anti Nucleoamidation to Access Diverse Heterocycles   
 

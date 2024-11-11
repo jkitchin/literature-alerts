@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Nov 2024 01:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 01:20:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>One-pot synthesis of graphene nanosheets&#8209;nickel cobalt LDHs nanocomposite for electrocatalysis of oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.diamond.2024.111738</link>
-      <description>Masoud Moradi, Shahram Ghasemi, Farimah Mousavi, Diamond and Related Materials. None(None)] 2024. https://openalex.org/W4404005935
-
-                No abstract</description>
-      <author>Masoud Moradi, Shahram Ghasemi, Farimah Mousavi</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.111738</guid>
-    </item>
     <item>
       <title>High-Entropy Prussian Blue Analogue Derived Heterostructure Nanoparticles as Bifunctional Oxygen Conversion Electrocatalysts for the Rechargeable Zinc&#8211;Air Battery</title>
       <link>https://doi.org/10.1021/acsami.4c13387</link>
@@ -348,6 +338,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02111</guid>
     </item>
     <item>
+      <title>Quantification of electrochemically accessible iridium oxide surface area with mercury underpotential deposition</title>
+      <link>https://doi.org/10.1126/sciadv.adp8911</link>
+      <description>Jane Edgington, Sejal Vispute, Ruihan Li, Adrien Deberghes, Linsey C. Seitz, Science Advances. 10(45)] 2024. https://openalex.org/W4404090538
+
+                Research drives development of sustainable electrocatalytic technologies, but efforts are hindered by inconsistent reporting of advances in catalytic performance. Iridium-based oxide catalysts are widely studied for electrocatalytic technologies, particularly for the oxygen evolution reaction (OER) for proton exchange membrane water electrolysis, but insufficient techniques for quantifying electrochemically accessible iridium active sites impede accurate assessment of intrinsic activity improvements. We develop mercury underpotential deposition and stripping as a reversible electrochemical adsorption process to robustly quantify iridium sites and consistently normalize OER performance of benchmark IrO x electrodes to a single intrinsic activity curve, where other commonly used normalization methods cannot. Through rigorous deconvolution of mercury redox and reproportionation reactions, we extract net monolayer deposition and stripping of mercury on iridium sites throughout testing using a rotating ring disk electrode. This technique is a transformative method to standardize OER performance across a wide range of iridium-based materials and quantify electrochemical iridium active sites.</description>
+      <author>Jane Edgington, Sejal Vispute, Ruihan Li, Adrien Deberghes, Linsey C. Seitz</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adp8911</guid>
+    </item>
+    <item>
       <title>Production of Cost-effective Green Energy using Mn/Gd Co-substituted Cobalt Ferrites Hydroelectric Cells and their Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1016/j.jallcom.2024.177419</link>
       <description>Prachi Jain, Rathindranath Biswas, Lakshi Saikia, Arnab Dutta, O. P. Thakur, Shylashri Shankar, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4404092151
@@ -428,6 +428,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4nj03407d</guid>
     </item>
     <item>
+      <title>Combined effect of nitrogen-doped carbon and NiCo2O4 for electrochemical water splitting</title>
+      <link>https://doi.org/10.1038/s41598-024-74031-1</link>
+      <description>Laura Kubi&#324;ska, Mariusz Szkoda, Ma&#322;gorzata Skorupska, Patrycja Grabowska, Marta Gajewska, Jerzy P. &#321;ukaszewicz, Anna Ilnicka, Scientific Reports. 14(1)] 2024. https://openalex.org/W4404112810
+
+                Abstract Electrocatalytic water splitting for green hydrogen production necessitates effective electrocatalysts. Currently, commercial catalysts are primarily platinum-based. Therefore, finding catalysts with comparable catalytic activity but lower cost is essential. This paper describes spinel-structured catalysts containing nickel cobaltite NiCo 2 O 4 , graphene, and additionally doped with heteroatoms. The structure and elemental composition of the obtained materials were analyzed by research methods such as TEM, SEM-EDX, XRD, XPS, and Raman spectroscopy. The electrochemical measurements showed that hybrid materials containing nickel cobaltite NiCo 2 O 4 doped with graphene are highly active catalysts in the hydrogen evolution reaction (Tafel slopes = 91 mV dec &#8722;1 , overpotential = 468 mV and onset potential = -339 mV), while in the oxygen evolution reaction (Tafel slopes = 51 mV dec &#8722;1 , overpotential = 1752 mV and onset potential = 370 mV), bare NiCo 2 O 4 without the addition of carbon has a worse activity (for HER: Tafel slopes = 120 mV dec &#8722;1 , overpotential - does not achieve and onset potential = -404 mV, for OER: Tafel slopes = 54 mV dec &#8722;1 , overpotential = 1796 mV and onset potential = 410 mV). In terms of stability, comparable results were obtained for each synthesized compound for both the HER and OER reactions.</description>
+      <author>Laura Kubi&#324;ska, Mariusz Szkoda, Ma&#322;gorzata Skorupska, Patrycja Grabowska, Marta Gajewska, Jerzy P. &#321;ukaszewicz, Anna Ilnicka</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-74031-1</guid>
+    </item>
+    <item>
       <title>Vertically Expanded Covalent Organic Frameworks for Photocatalytic Water Oxidation into Oxygen</title>
       <link>https://doi.org/10.1002/ange.202416771</link>
       <description>Donglin Jiang, Shuailei Xie, Ruoyang Liu, Nengyi Liu, Hetao Xu, Xiong Chen, Li Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4404114719
@@ -498,6 +508,36 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161747</guid>
     </item>
     <item>
+      <title>Review for "Construction of oxygen-rich vacancy Bi3O4Br: Yb3+, Er3+ nanosheet for enhanced Photoreversible color switching and upconversion luminescence"</title>
+      <link>https://doi.org/10.1039/d4tc03981e/v1/review2</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4404203287
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03981e/v1/review2</guid>
+    </item>
+    <item>
+      <title>Review for "Construction of oxygen-rich vacancy Bi3O4Br: Yb3+, Er3+ nanosheet for enhanced Photoreversible color switching and upconversion luminescence"</title>
+      <link>https://doi.org/10.1039/d4tc03981e/v1/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4404203455
+
+                No abstract</description>
+      <author/>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03981e/v1/review1</guid>
+    </item>
+    <item>
+      <title>Review for "Construction of oxygen-rich vacancy Bi3O4Br: Yb3+, Er3+ nanosheet for enhanced Photoreversible color switching and upconversion luminescence"</title>
+      <link>https://doi.org/10.1039/d4tc03981e/v2/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4404203462
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4tc03981e/v2/review1</guid>
+    </item>
+    <item>
       <title>Calcium titanate corrosion inhibitor enabling carbon as inert anode for oxygen evolution in molten chlorides</title>
       <link>https://doi.org/10.1016/s1003-6326(24)66616-1</link>
       <description>Kaifa Du, Wenmiao Li, Peilin Wang, Lei Guo, Di Chen, Yongsong Ma, Rui Yu, Huayi Yin, Dihua Wang, Transactions of Nonferrous Metals Society of China. 34(10)] 2024. https://openalex.org/W4404061639
@@ -518,6 +558,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124777</guid>
     </item>
     <item>
+      <title>Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; on a Well-Matched Substrate</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c03507</link>
+      <description>Liming Zeng, Biao Yuan, Qing Zhou, Langmuir. None(None)] 2024. https://openalex.org/W4404099969
+
+                Oxygen evolution reaction (OER) is a multistep proton-coupled four-electron process with sluggish kinetics, which seriously limits the hydrogen production efficiency, thus it is of great importance to develop an efficient and stable OER catalyst. In this study, a two-step differential pyrolysis strategy is employed to design a three-dimensional porous microstructured material consisting of RuOx nanoparticles coated by a thin-layer carbon, where the active particles were isolated in separate chambers and the RuOx nanoparticles mainly existed in the form of a heterogeneous interface between RuO2 and partial metallic Ru. The preparation parameters of the catalysts are optimized via combining transient and steady-state polarization properties, and the target catalyst Cat-500&#8211;1.5t shows the best OER catalytic performance after ca. 60 h of a chronopotentiometry test in an acidic medium with a much smaller performance change than other samples. The unique design of adopting a carbon layer to form separate reaction chambers largely mitigates the excessive oxidation loss of the active components under strong oxidation potential. The suitability of the catalyst with the loaded substrate and test media is explored, and in an acidic medium, the carbon paper is much better than the titanium fiber, while in an alkaline medium, the titanium fiber is obviously superior to the carbon paper. On both carbon paper and titanium fiber, the performance in an alkaline medium outperforms that in an acidic medium, and the possible reasons for the performance difference are analyzed. Herein, to obtain the actual electrocatalytic performance, the optimal design of the catalyst structure and matching suitable conductive substrate in a specific medium are quite necessary, which provides a feasible strategy for the acquisition of efficient and stable electrocatalysts and the desirable presentation of performance.</description>
+      <author>Liming Zeng, Biao Yuan, Qing Zhou</author>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03507</guid>
+    </item>
+    <item>
       <title>In Situ Synthesized Carbon Quantum Dots@Metal Organic Framework Via Corroding Ni Foam for Efficient Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.2139/ssrn.5011878</link>
       <description>Yuzhen Zhang, huajun zhou, Pei&#8208;Hua Zhao, Yuan Kai, Rui Zhou, Hui Gao, Yongping Qu, Yanzhong Wang, No host. None(None)] 2024. https://openalex.org/W4404089733
@@ -526,16 +576,6 @@
       <author>Yuzhen Zhang, huajun zhou, Pei&#8208;Hua Zhao, Yuan Kai, Rui Zhou, Hui Gao, Yongping Qu, Yanzhong Wang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5011878</guid>
-    </item>
-    <item>
-      <title>Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; on a Well-Matched Substrate</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c03507</link>
-      <description>Liming Zeng, Biao Yuan, Qing Zhou, Langmuir. None(None)] 2024. https://openalex.org/W4404099969
-
-                No abstract</description>
-      <author>Liming Zeng, Biao Yuan, Qing Zhou</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03507</guid>
     </item>
     <item>
       <title>Heterointerfacial engineering of N,P-doped carbon nanosheets supported Co/Co2P nanoparticles for boosting oxygen reduction and oxygen evolution reactions towards rechargeable Zn-air battery</title>
@@ -618,16 +658,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/osf.io/3b5qw</guid>
     </item>
     <item>
-      <title>Quantification of electrochemically accessible iridium oxide surface area with mercury underpotential deposition</title>
-      <link>https://doi.org/10.1126/sciadv.adp8911</link>
-      <description>Jane Edgington, Sejal Vispute, Ruihan Li, Adrien Deberghes, Linsey C. Seitz, Science Advances. 10(45)] 2024. https://openalex.org/W4404090538
-
-                Research drives development of sustainable electrocatalytic technologies, but efforts are hindered by inconsistent reporting of advances in catalytic performance. Iridium-based oxide catalysts are widely studied for electrocatalytic technologies, particularly for the oxygen evolution reaction (OER) for proton exchange membrane water electrolysis, but insufficient techniques for quantifying electrochemically accessible iridium active sites impede accurate assessment of intrinsic activity improvements. We develop mercury underpotential deposition and stripping as a reversible electrochemical adsorption process to robustly quantify iridium sites and consistently normalize OER performance of benchmark IrO x electrodes to a single intrinsic activity curve, where other commonly used normalization methods cannot. Through rigorous deconvolution of mercury redox and reproportionation reactions, we extract net monolayer deposition and stripping of mercury on iridium sites throughout testing using a rotating ring disk electrode. This technique is a transformative method to standardize OER performance across a wide range of iridium-based materials and quantify electrochemical iridium active sites.</description>
-      <author>Jane Edgington, Sejal Vispute, Ruihan Li, Adrien Deberghes, Linsey C. Seitz</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adp8911</guid>
-    </item>
-    <item>
       <title>Iron&#8208;Induced Localized Oxide Path Mechanism Enables Efficient and Stable Water Oxidation</title>
       <link>https://doi.org/10.1002/ange.202416141</link>
       <description>Bohan Yao, Yuting Chen, Yueying Yan, Yang Yang, Huanhuan Xing, Yanchao Xu, Dongxu Jiao, Zhicai Xing, Dewen Wang, Yang Xiu-rong, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4404059879
@@ -636,16 +666,6 @@
       <author>Bohan Yao, Yuting Chen, Yueying Yan, Yang Yang, Huanhuan Xing, Yanchao Xu, Dongxu Jiao, Zhicai Xing, Dewen Wang, Yang Xiu-rong</author>
       <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202416141</guid>
-    </item>
-    <item>
-      <title>Combined effect of nitrogen-doped carbon and NiCo2O4 for electrochemical water splitting</title>
-      <link>https://doi.org/10.1038/s41598-024-74031-1</link>
-      <description>Laura Kubi&#324;ska, Mariusz Szkoda, Ma&#322;gorzata Skorupska, Patrycja Grabowska, Marta Gajewska, Jerzy P. &#321;ukaszewicz, Anna Ilnicka, Scientific Reports. 14(1)] 2024. https://openalex.org/W4404112810
-
-                Abstract Electrocatalytic water splitting for green hydrogen production necessitates effective electrocatalysts. Currently, commercial catalysts are primarily platinum-based. Therefore, finding catalysts with comparable catalytic activity but lower cost is essential. This paper describes spinel-structured catalysts containing nickel cobaltite NiCo 2 O 4 , graphene, and additionally doped with heteroatoms. The structure and elemental composition of the obtained materials were analyzed by research methods such as TEM, SEM-EDX, XRD, XPS, and Raman spectroscopy. The electrochemical measurements showed that hybrid materials containing nickel cobaltite NiCo 2 O 4 doped with graphene are highly active catalysts in the hydrogen evolution reaction (Tafel slopes = 91 mV dec &#8722;1 , overpotential = 468 mV and onset potential = -339 mV), while in the oxygen evolution reaction (Tafel slopes = 51 mV dec &#8722;1 , overpotential = 1752 mV and onset potential = 370 mV), bare NiCo 2 O 4 without the addition of carbon has a worse activity (for HER: Tafel slopes = 120 mV dec &#8722;1 , overpotential - does not achieve and onset potential = -404 mV, for OER: Tafel slopes = 54 mV dec &#8722;1 , overpotential = 1796 mV and onset potential = 410 mV). In terms of stability, comparable results were obtained for each synthesized compound for both the HER and OER reactions.</description>
-      <author>Laura Kubi&#324;ska, Mariusz Szkoda, Ma&#322;gorzata Skorupska, Patrycja Grabowska, Marta Gajewska, Jerzy P. &#321;ukaszewicz, Anna Ilnicka</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-74031-1</guid>
     </item>
     <item>
       <title>Cobalt Phosphide Decorating Metallic Cobalt With a Nitrogen&#8208;Doped Carbon Nano&#8208;Shell Surpasses Platinum Group Metals for Oxygen Electrocatalysis Applications</title>
@@ -716,16 +736,6 @@
       <author>V. A. Knysh, O. Shmychkova, T. V. Luk&#8217;yanenko, A. Velichenko</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.32434/0321-4095-2024-156-5-131-137</guid>
-    </item>
-    <item>
-      <title>The intriguing effect of CO2 enrichment in anaerobic digestion</title>
-      <link>https://doi.org/10.1016/j.biortech.2024.131743</link>
-      <description>Mohammad Javad Bardi, Felix M&#252;ller, Daniela Polag, Nigus Gabbiye Habtu, Konrad Koch, Bioresource Technology. 416(None)] 2024. https://openalex.org/W4404011662
-
-                This study explores carbon dioxide enrichment in anaerobic digestion to boost biomethane production and assess degradation kinetics and methanogenic pathway evolution. Carbon dioxide enrichment was found to improve inoculum digestion, supplying additional energy for methanogenic archaea. The methane yield of blank inocula increased by 53 % to 77 % after carbon dioxide enrichment. Although further digestion of inoculum residues took longer, rapid adaptation led to an increased methane production rate that surpassed the lag phase. No antagonistic effects were observed with carbon dioxide enrichment after applying the feedstocks. Increased methane production, along with a significant reduction in chemical oxygen demand, confirms the impact of carbon dioxide enrichment on inoculum digestion. Isotope analysis showed an increase in &#948;</description>
-      <author>Mohammad Javad Bardi, Felix M&#252;ller, Daniela Polag, Nigus Gabbiye Habtu, Konrad Koch</author>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.biortech.2024.131743</guid>
     </item>
     <item>
       <title>Advances in Bacterial Cellulose Production: A Scoping Review</title>
@@ -838,26 +848,6 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0234338</guid>
     </item>
     <item>
-      <title>A 45-year hydrological and planktonic time series in the South Bight of the North Sea</title>
-      <link>https://doi.org/10.5194/essd-2024-479</link>
-      <description>David Devreker, Guillaume Wacquet, Alain Lefebvre, No host. None(None)] 2024. https://openalex.org/W4404044141
-
-                Abstract. This article presents a 45-year data series (from 1978 to 2023) acquired under the IGA (&#8220;Impact des Grands Am&#233;nagements&#8221; in French; Impacts of Major Developments) program, conducted by Ifremer for EDF (&#201;lectricit&#233; de France, the French multinational electricity utility company). The IGA program was established to monitor the ecological and environmental quality of the coastal area surrounding the Gravelines Nuclear Power Plant (NPP), located in the southern bight of the North Sea. The main objective of this program is to assess medium- and long-term environmental evolution by providing means to identify possible changes in the local marine habitats. Since 1978, the IGA program has measured key parameters, including temperature, salinity, nutrient concentrations, oxygen levels, chlorophyll-a concentrations, as well as the abundance of phytoplankton and zooplankton species. These measurements have been taken at different sampling stations around the NPP, including the &#8220;Canal d&#8217;amen&#233;e&#8221; sampling station, for which hydrological and biological characteristics are considered as representative of broader coastal area of the southern bight of the North Sea. This data paper provides an overview of the main statistical characteristics of the time series, including long-term trends and shifts analysis. Despite the importance and length of this dataset, one of the longest available for this region, its application in advancing knowledge of hydrological and biological processes has been surprisingly limited. The aim of this paper is to make this valuable dataset available to the scientific community, stakeholders, and society to help decipher the local and global influence of anthropogenic activities in a world increasingly affected by climate change. Since all the main statistics and patterns are still available thanks to our analysis, the user should be able to use this data and combine it with other sources (in situ, satellite, modelling), in order to dive into deeper analyses, and to investigate new key scientific challenges as well as more specific ones.</description>
-      <author>David Devreker, Guillaume Wacquet, Alain Lefebvre</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/essd-2024-479</guid>
-    </item>
-    <item>
-      <title>New Horizons in Micro/Nanoplastic-Induced Oxidative Stress: Overlooked Free Radical Contributions and Microbial Metabolic Dysregulations in Anaerobic Digestion</title>
-      <link>https://doi.org/10.1021/acs.est.4c08865</link>
-      <description>Xingxing Zhang, Xuxiang Zhang, Liping Ma, Environmental Science &amp; Technology. None(None)] 2024. https://openalex.org/W4404058697
-
-                Excessive production of reactive oxygen species (ROS) induced by micro/nanoplastics (MPs/NPs) is highly toxic to microbes. However, the mechanisms underlying ROS generation and metabolic regulation within anaerobic guilds remain poorly understood. In this study, we investigated the effects of environmentally relevant levels of polypropylene (PP)-MPs/NPs on oxidative stress and microbial ecology during anaerobic digestion (AD). Electron paramagnetic resonance spectroscopy revealed that PP-MPs/NPs elevated the concentrations of environmentally persistent free radicals (EPFRs) and derived hydroxyl radicals (&#8226;OH). EPFRs were identified as the primary contributors to &#8226;OH generation, as evidenced by a high Spearman correlation coefficient (r = 0.884, p &lt; 0.001) and free radical-quenching studies. The formation of &#8226;OH enhanced ROS production by 86.2&#8211;100.9%, resulting in decreased cellular viability and methane production (by 37.5&#8211;50.5%) at 100 mg/g TS PP-MPs/NPs. Genome-centric metagenomic and metatranscriptomic analyses suggested that PP-MPs/NPs induced the reassembly of community structures, re-evolution of functional traits, and remodeling of interspecies interactions. Specifically, PP-MPs/NPs induced a shift in methanogen consortia from hydrogenotrophic Methanofollis sp. to acetoclastic and hydrogenotrophic Methanothrix soehngenii, primarily because of the latter's diverse ingestion patterns, electron bifurcation complexes, and ROS-scavenging abilities. Downregulation of genes associated with antioxidative defense systems (i.e., sodN, katA, and osmC) and ROS-driven redox signal transduction pathways (c-di-AMP and phosphorylation signaling pathways) provided insights into the mechanisms underlying ROS-induced microbial metabolic dysregulation. Our findings enhance the understanding of microbial ecological and metabolic traits under MPs/NPs stressors, facilitating the control of MPs/NPs toxicity and the stabilization of AD processes.</description>
-      <author>Xingxing Zhang, Xuxiang Zhang, Liping Ma</author>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.4c08865</guid>
-    </item>
-    <item>
       <title>PP466 Topic: AS15&#8211;Lung: Respiratory Support/Acute Respiratory Failure/Other: HIGH-FREQUENCY OSCILLATORY VENTILATION (HFOV) FOR PEDIATRIC PATIENTS WITH CHRONIC LIVER FAILURE AND PEDIATRIC ACUTE RESPIRATORY DISTRESS SYNDROME (PARDS)&#8211;CASE-SERIES OF 5 PATIENTS:</title>
       <link>https://doi.org/10.1097/01.pcc.0001086048.92951.ed</link>
       <description>M.C. Silveira De Carvalho, Bruna Silva, Michele Luglio, Juliana Ferreira Ferranti, Artur Figueiredo Delgado, Werther Brunow de Carvalho, Pediatric Critical Care Medicine. 25(11S)] 2024. https://openalex.org/W4404041154
@@ -866,6 +856,16 @@
       <author>M.C. Silveira De Carvalho, Bruna Silva, Michele Luglio, Juliana Ferreira Ferranti, Artur Figueiredo Delgado, Werther Brunow de Carvalho</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1097/01.pcc.0001086048.92951.ed</guid>
+    </item>
+    <item>
+      <title>A 45-year hydrological and planktonic time series in the South Bight of the North Sea</title>
+      <link>https://doi.org/10.5194/essd-2024-479</link>
+      <description>David Devreker, Guillaume Wacquet, Alain Lefebvre, No host. None(None)] 2024. https://openalex.org/W4404044141
+
+                Abstract. This article presents a 45-year data series (from 1978 to 2023) acquired under the IGA (&#8220;Impact des Grands Am&#233;nagements&#8221; in French; Impacts of Major Developments) program, conducted by Ifremer for EDF (&#201;lectricit&#233; de France, the French multinational electricity utility company). The IGA program was established to monitor the ecological and environmental quality of the coastal area surrounding the Gravelines Nuclear Power Plant (NPP), located in the southern bight of the North Sea. The main objective of this program is to assess medium- and long-term environmental evolution by providing means to identify possible changes in the local marine habitats. Since 1978, the IGA program has measured key parameters, including temperature, salinity, nutrient concentrations, oxygen levels, chlorophyll-a concentrations, as well as the abundance of phytoplankton and zooplankton species. These measurements have been taken at different sampling stations around the NPP, including the &#8220;Canal d&#8217;amen&#233;e&#8221; sampling station, for which hydrological and biological characteristics are considered as representative of broader coastal area of the southern bight of the North Sea. This data paper provides an overview of the main statistical characteristics of the time series, including long-term trends and shifts analysis. Despite the importance and length of this dataset, one of the longest available for this region, its application in advancing knowledge of hydrological and biological processes has been surprisingly limited. The aim of this paper is to make this valuable dataset available to the scientific community, stakeholders, and society to help decipher the local and global influence of anthropogenic activities in a world increasingly affected by climate change. Since all the main statistics and patterns are still available thanks to our analysis, the user should be able to use this data and combine it with other sources (in situ, satellite, modelling), in order to dive into deeper analyses, and to investigate new key scientific challenges as well as more specific ones.</description>
+      <author>David Devreker, Guillaume Wacquet, Alain Lefebvre</author>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/essd-2024-479</guid>
     </item>
     <item>
       <title>Pd/UiO&#8208;66(Zr)&#8208;2OH as a High&#8208;Performance Catalyst for Hydrogen&#8208;Enhanced Fenton Oxidation of Trimethoprim</title>

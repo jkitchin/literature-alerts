@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Nov 10 01:24:05 2024
+Created on Mon Nov 11 01:20:52 2024
 
-Found 22 results from 2024-11-03 to 2024-11-10
+Found 21 results from 2024-11-04 to 2024-11-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Harnessing Electrolyte Chemistry to Advance Oxygen Reduction Catalysis for Fuel Cells and Electrosynthesis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404003723
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-11-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05425")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404003723"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404003723"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404003723"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404003723 (Open access: False)
-    
-[[https://openalex.org/A5091153870][Yong‐Yan Zhao]], [[https://openalex.org/A5011808753][Wenhe Yu]], [[https://openalex.org/A5001648744][Xiaoxuan Sun]], [[https://openalex.org/A5072093629][Hengshuo Huang]], [[https://openalex.org/A5089706752][Fengwang Li]], [[https://openalex.org/A5001987994][Mingchuan Luo]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05425 
-     
-No abstract    
-
-    
 
 * Rh(III)-Catalyzed Alkene Anti Nucleoamidation to Access Diverse Heterocycles  :ACS_Catalysis:
 :PROPERTIES:

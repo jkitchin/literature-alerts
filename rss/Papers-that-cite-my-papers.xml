@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Nov 2024 01:24:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 01:21:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Sustainable photocatalytic hydrogen peroxide production over octonary high-entropy oxide</title>
-      <link>https://doi.org/10.1038/s41467-024-53896-w</link>
-      <description>Hao Ling, Huacong Sun, Lisha Lu, Jingkun Zhang, Lei Liao, Jianlin Wang, Xiaowei Zhang, Yingying Lan, Renjie Li, Wengang Lu, Lejuan Cai, Xuedong Bai, Wenlong Wang, Nature Communications. 15(1)] 2024. https://openalex.org/W4404010700
-
-                The direct utilization of solar energy for the artificial photosynthesis of hydrogen peroxide (H2O2) provides a reliable approach for producing this high-value green oxidant. Here we report on the utility of high-entropy oxide (HEO) semiconductor as an all-in-one photocatalyst for visible light-driven H2O2 production directly from H2O and atmospheric O2 without the need of any additional cocatalysts or sacrificial agents. This high-entropy photocatalyst contains eight earth-abundant metal elements (Ti/V/Cr/Nb/Mo/W/Al/Cu) homogeneously arranged within a single rutile phase, and the intrinsic chemical complexity along with the presence of a high density of oxygen vacancies endow high-entropy photocatalyst with distinct broadband light harvesting capability. An efficient H2O2 production rate with an apparent quantum yield of 38.8% at 550 nm can be achieved. The high-entropy photocatalyst can be readily assembled into floating artificial leaves for sustained on-site production of H2O2 from open water resources under natural sunlight irradiation. An "all-in-one" high-entropy semiconductor photocatalyst enables the photocatalytic production of H2O2 from H2O and O2 under visible light without any external cocatalysts or sacrificial agents</description>
-      <author>Hao Ling, Huacong Sun, Lisha Lu, Jingkun Zhang, Lei Liao, Jianlin Wang, Xiaowei Zhang, Yingying Lan, Renjie Li, Wengang Lu, Lejuan Cai, Xuedong Bai, Wenlong Wang</author>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53896-w</guid>
-    </item>
-    <item>
-      <title>A Study of Cl Adsorption on Pt(111) and Pt(100) using Ab Initio Grand-Canonical Monte Carlo</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122647</link>
-      <description>Eun Mi Kim, Junseok Kim, Kristen A. Fichthorn, Surface Science. None(None)] 2024. https://openalex.org/W4404011693
-
-                No abstract</description>
-      <author>Eun Mi Kim, Junseok Kim, Kristen A. Fichthorn</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122647</guid>
-    </item>
     <item>
       <title>Establishing Key Process Design Considerations for Carbon Capture, Utilization and Storage (CCUS) Towards Decarbonization of Existing Assets Operations</title>
       <link>https://doi.org/10.2118/221884-ms</link>
@@ -252,7 +232,7 @@
       <link>https://doi.org/10.1021/acs.langmuir.4c03507</link>
       <description>Liming Zeng, Biao Yuan, Qing Zhou, Langmuir. None(None)] 2024. https://openalex.org/W4404099969
 
-                No abstract</description>
+                Oxygen evolution reaction (OER) is a multistep proton-coupled four-electron process with sluggish kinetics, which seriously limits the hydrogen production efficiency, thus it is of great importance to develop an efficient and stable OER catalyst. In this study, a two-step differential pyrolysis strategy is employed to design a three-dimensional porous microstructured material consisting of RuOx nanoparticles coated by a thin-layer carbon, where the active particles were isolated in separate chambers and the RuOx nanoparticles mainly existed in the form of a heterogeneous interface between RuO2 and partial metallic Ru. The preparation parameters of the catalysts are optimized via combining transient and steady-state polarization properties, and the target catalyst Cat-500&#8211;1.5t shows the best OER catalytic performance after ca. 60 h of a chronopotentiometry test in an acidic medium with a much smaller performance change than other samples. The unique design of adopting a carbon layer to form separate reaction chambers largely mitigates the excessive oxidation loss of the active components under strong oxidation potential. The suitability of the catalyst with the loaded substrate and test media is explored, and in an acidic medium, the carbon paper is much better than the titanium fiber, while in an alkaline medium, the titanium fiber is obviously superior to the carbon paper. On both carbon paper and titanium fiber, the performance in an alkaline medium outperforms that in an acidic medium, and the possible reasons for the performance difference are analyzed. Herein, to obtain the actual electrocatalytic performance, the optimal design of the catalyst structure and matching suitable conductive substrate in a specific medium are quite necessary, which provides a feasible strategy for the acquisition of efficient and stable electrocatalysts and the desirable presentation of performance.</description>
       <author>Liming Zeng, Biao Yuan, Qing Zhou</author>
       <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03507</guid>
@@ -262,7 +242,7 @@
       <link>https://doi.org/10.1038/s41586-024-08127-z</link>
       <description>Tong Wang, Xinheng He, Mingyu Li, Yatao Li, Ran Bi, Yusong Wang, Chaoran Cheng, Xiangzhen Shen, Jiawei Meng, He Zhang, Haiguang Liu, Zun Wang, Shaoning Li, Bin Shao, Tie&#8208;Yan Liu, Nature. None(None)] 2024. https://openalex.org/W4404105372
 
-                No abstract</description>
+                Biomolecular dynamics simulation is a fundamental technology for life sciences research, and its usefulness depends on its accuracy and efficiency1&#8211;3. Classical molecular dynamics simulation is fast but lacks chemical accuracy4,5. Quantum chemistry methods such as density functional theory can reach chemical accuracy but cannot scale to support large biomolecules6. Here we introduce an artificial intelligence-based ab initio biomolecular dynamics system (AI2BMD) that can efficiently simulate full-atom large biomolecules with ab initio accuracy. AI2BMD uses a protein fragmentation scheme and a machine learning force field7 to achieve generalizable ab initio accuracy for energy and force calculations for various proteins comprising more than 10,000 atoms. Compared to density functional theory, it reduces the computational time by several orders of magnitude. With several hundred nanoseconds of dynamics simulations, AI2BMD demonstrated its ability to efficiently explore the conformational space of peptides and proteins, deriving accurate 3J couplings that match nuclear magnetic resonance experiments, and showing protein folding and unfolding processes. Furthermore, AI2BMD enables precise free-energy calculations for protein folding, and the estimated thermodynamic properties are well aligned with experiments. AI2BMD could potentially complement wet-lab experiments, detect the dynamic processes of bioactivities and enable biomedical research that is impossible to conduct at present. A study introduces AI2BMD, an artificial intelligence-based dynamics simulation program that uses protein fragmentation with a machine learning force field to accurately and efficiently model the folding and unfolding of large proteins.</description>
       <author>Tong Wang, Xinheng He, Mingyu Li, Yatao Li, Ran Bi, Yusong Wang, Chaoran Cheng, Xiangzhen Shen, Jiawei Meng, He Zhang, Haiguang Liu, Zun Wang, Shaoning Li, Bin Shao, Tie&#8208;Yan Liu</author>
       <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41586-024-08127-z</guid>
