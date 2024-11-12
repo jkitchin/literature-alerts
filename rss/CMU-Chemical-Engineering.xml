@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Nov 2024 01:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 01:18:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,56 @@
       <author>Vishal Sarwahi, Effat Rahman, Katherine Eigo, Jesse Galina, Sayyida Hasan, Andrew L. Ko, Yungtai Lo, Terry Amaral, Aleksandra Djukic, Maria Santiago, James Schneider</author>
       <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1097/brs.0000000000005210</guid>
+    </item>
+    <item>
+      <title>Optimizing Forest Planning: Balancing Timber Production and Carbon Sequestration Through a Multi-Objective Disjunctive Formulation</title>
+      <link>https://doi.org/10.2139/ssrn.5013129</link>
+      <description>Frank Piedra-Jim&#233;nez, Diego Broz, Juan M. Novas, Ignacio E. Grossmann, Mar&#237;a Anal&#237;a Rodr&#237;guez, No host. None(None)] 2024. https://openalex.org/W4404140095
+
+                No abstract</description>
+      <author>Frank Piedra-Jim&#233;nez, Diego Broz, Juan M. Novas, Ignacio E. Grossmann, Mar&#237;a Anal&#237;a Rodr&#237;guez</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5013129</guid>
+    </item>
+    <item>
+      <title>MINLP: Outer Approximation Algorithm</title>
+      <link>https://doi.org/10.1007/978-3-030-54621-2_385-1</link>
+      <description>Ignacio E. Grossmann, Springer eBooks. None(None)] 2024. https://openalex.org/W4404142930
+
+                No abstract</description>
+      <author>Ignacio E. Grossmann</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_385-1</guid>
+    </item>
+    <item>
+      <title>Global Optimization of Heat Exchanger Networks</title>
+      <link>https://doi.org/10.1007/978-3-030-54621-2_235-1</link>
+      <description>Juan M. Zamora, Ignacio E. Grossmann, Springer eBooks. None(None)] 2024. https://openalex.org/W4404144322
+
+                No abstract</description>
+      <author>Juan M. Zamora, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-030-54621-2_235-1</guid>
+    </item>
+    <item>
+      <title>Process systems engineering enables efficient and sustainable membrane-based critical material separations</title>
+      <link>https://doi.org/10.2172/2476222</link>
+      <description>Molly Dougher, Jason Yao, Andrew Lee, Laurianne Lair, Jonathan Aubuchon Ouimet, William A. Phillip, Chrysanthos E. Gounaris, Alexander W. Dowling, No host. None(None)] 2024. https://openalex.org/W4404169299
+
+                No abstract</description>
+      <author>Molly Dougher, Jason Yao, Andrew Lee, Laurianne Lair, Jonathan Aubuchon Ouimet, William A. Phillip, Chrysanthos E. Gounaris, Alexander W. Dowling</author>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2476222</guid>
+    </item>
+    <item>
+      <title>A novel mixed-integer linear programming formulation for continuous-time inventory routing</title>
+      <link>https://doi.org/10.1016/j.cor.2024.106883</link>
+      <description>Akang Wang, Xiandong Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris, Computers &amp; Operations Research. None(None)] 2024. https://openalex.org/W4404211800
+
+                No abstract</description>
+      <author>Akang Wang, Xiandong Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cor.2024.106883</guid>
     </item>
   </channel>
 </rss>

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Nov 2024 01:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 01:18:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Establishing Key Process Design Considerations for Carbon Capture, Utilization and Storage (CCUS) Towards Decarbonization of Existing Assets Operations</title>
-      <link>https://doi.org/10.2118/221884-ms</link>
-      <description>Muhammad Zakwan Mohd Sahak, Masniroszaime Md Zain, Azila Alias, Muhammad Yazid Bin Zulkifli, Sohrab Rohani, Khairul Rostani, No host. None(None)] 2024. https://openalex.org/W4404014042
-
-                Abstract With the net zero emission (NZE) commitment by 2050 following COP26 being pledged by country and industrial leaders, the technology focus for CCUS has shifted from high-CO2 gas field development to also include capturing CO2 from other industrial emission sources e.g. flaring and gas turbines. With the expanding scopes, careful consideration especially from process design perspective needs to be taken to ensure the overall CCUS conceptual design is techno-commercially feasible and viable to meet the CCUS end target and NZE aspiration in the long term. Process design intent shall start with the input-output specifications, where main input specifications would be looking at source or CCUS fluid (e.g. gas field/flare stack etc.) which will determine the type of CO2 capture technology required. Target output usage (storage/ utilization) will affect the tail-end process design, since both require different process setup. Other considerations would also be: (1) location (onshore vs offshore) which will affect the facilities network and logistics, (2) contaminants such as SOx and NOx which will determine other treatment requirements and affect the final use of the separated CO2-rich stream (utilization, storage strategy), and (3) material selection for the mixed contaminants stream. Depending on the concentration of CO2 in the source, a series of treatment steps may be required to get the optimum recovery for further utilization and storage. The presence of other contaminants is also discussed, which may affect the overall CCUS processes. Method to either utilize the separated CO2 stream or injection to reservoir for storage is also explored. An integrated approach is required to ensure a successful CCUS process design from start to end. Challenges and lesson-learnt from a conceptual CCUS system are analyzed including technology maturation, presence of other contaminants and final use of CO2-based products/storage. The technical and commercial aspects associated with each technology are also addressed. Key design elements are proposed with aspiration of a successful CCUS implementation in reducing future carbon footprint and realizing NZE aspiration and decarbonization goal, requiring planning for end-to-end solutions.</description>
-      <author>Muhammad Zakwan Mohd Sahak, Masniroszaime Md Zain, Azila Alias, Muhammad Yazid Bin Zulkifli, Sohrab Rohani, Khairul Rostani</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2118/221884-ms</guid>
-    </item>
     <item>
       <title>Margaret: Streamlining Research Productivity Analysis in Colombia with an R Package for GrupLAC Integration</title>
       <link>https://doi.org/10.29173/istl2777</link>
@@ -276,6 +266,146 @@
       <author>Diana Propst, Wael Joudi, Manuel L&#228;ngle, Jacob Madsen, Clara Kofler, Barbara Maria Mayer, David Lamprecht, Clemens Mangler, Lado Filipovic, Toma Susi, Jani Kotakoski</author>
       <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-77740-9</guid>
+    </item>
+    <item>
+      <title>Mo2B2O2-supported Cu and Ni heterogeneous dual atom catalysts for oxygen reduction reactions and oxygen evolution reactions</title>
+      <link>https://doi.org/10.1016/j.commatsci.2024.113505</link>
+      <description>Erpeng Wang, Jian Zhou, Zhimei Sun, Computational Materials Science. 247(None)] 2024. https://openalex.org/W4404129222
+
+                No abstract</description>
+      <author>Erpeng Wang, Jian Zhou, Zhimei Sun</author>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113505</guid>
+    </item>
+    <item>
+      <title>Shear Deformation of Non-modulated Ni2MnGa Martensite: An Ab Initio Study</title>
+      <link>https://doi.org/10.1007/s40830-024-00510-z</link>
+      <description>Martin Heczko, Petr &#352;est&#225;k, Hanu&#353; Seiner, M Zelen&#253;, Shape Memory and Superelasticity. None(None)] 2024. https://openalex.org/W4404132613
+
+                Abstract The impact of shear deformation in $$(101)[10\overline{1}]$$    ( 101 )   [ 10  1 &#175;  ]    system of non-modulated (NM) martensite in Ni 2 MnGa ferromagnetic shape memory alloy is investigated by means of ab initio atomistic simulations. The shear system is associated with twinning of NM lattice and intermatensitic transformation to modulated structures. The stability of the NM lattice increases with increasing content of Mn. The most realistic shear mechanism for twin reorientation can be approximated by the simple shear mechanism, although the lowest barriers were calculated for pure shear mechanism. The energy barrier between twin variants further reduces due to spontaneous appearance of lattice modulation or, in other words, the nanotwins with thickness of two atomic planes. Such nanotwins appear also on the generalized planar fault energy (GPFE) curve calculated using a newly developed advanced procedure and exhibits even lower energy than the defect free NM structure. These nanotwin doublelayers are also basic building blocks of modulated structures and play an important role in intermartensitic transformation.</description>
+      <author>Martin Heczko, Petr &#352;est&#225;k, Hanu&#353; Seiner, M Zelen&#253;</author>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40830-024-00510-z</guid>
+    </item>
+    <item>
+      <title>Machine learning assisted screening of nitrogen-doped graphene-based dual-atom hydrogen evolution electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114649</link>
+      <description>Huijie Zhang, Qiang Wei, Shuaichong Wei, Yuhong Luo, Wei Zhang, Guihua Liu, Molecular Catalysis. 570(None)] 2024. https://openalex.org/W4404141047
+
+                No abstract</description>
+      <author>Huijie Zhang, Qiang Wei, Shuaichong Wei, Yuhong Luo, Wei Zhang, Guihua Liu</author>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114649</guid>
+    </item>
+    <item>
+      <title>Recent advances in X-ray absorption near edge structure (XANES) simulations for catalysis: Theories and applications</title>
+      <link>https://doi.org/10.1016/bs.arcc.2024.10.006</link>
+      <description>Jiayi Xu, Yu Lim Kim, Rishu Khurana, Shana Havenridge, Prajay Patel, Cong Liu, Annual reports in computational chemistry. None(None)] 2024. https://openalex.org/W4404141332
+
+                No abstract</description>
+      <author>Jiayi Xu, Yu Lim Kim, Rishu Khurana, Shana Havenridge, Prajay Patel, Cong Liu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/bs.arcc.2024.10.006</guid>
+    </item>
+    <item>
+      <title>Unraveling the synergistic mechanisms of dual-atom catalysts on BeN substrates for enhanced hydrogen evolution reaction: A machine learning-assisted first-principles study</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.161745</link>
+      <description>Wentao Liang, Abuduwayiti Aierken, Rong Xiao-feng, Degui Wang, Wei Deng, Wenjun Xiao, Gang Wang, Mingqiang Liu, Changsong Gao, Yong&#8208;Min Liang, Zhen Wang, Liang Zhang, Jinshun Bi, X J Liu, Applied Surface Science. None(None)] 2024. https://openalex.org/W4404161075
+
+                No abstract</description>
+      <author>Wentao Liang, Abuduwayiti Aierken, Rong Xiao-feng, Degui Wang, Wei Deng, Wenjun Xiao, Gang Wang, Mingqiang Liu, Changsong Gao, Yong&#8208;Min Liang, Zhen Wang, Liang Zhang, Jinshun Bi, X J Liu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161745</guid>
+    </item>
+    <item>
+      <title>Recent Progress in CO2 Splitting Processes with Non-Thermal Plasma-Assisted</title>
+      <link>https://doi.org/10.1016/j.jece.2024.114692</link>
+      <description>Baiqiang Zhang, Hengfei Zuo, Bo Wu, Kenji Kamiya, Wei Ma, Nobusuke Kobayashi, Y. Ma, Tingxiang Jin, Yuhui Chen, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4404171277
+
+                No abstract</description>
+      <author>Baiqiang Zhang, Hengfei Zuo, Bo Wu, Kenji Kamiya, Wei Ma, Nobusuke Kobayashi, Y. Ma, Tingxiang Jin, Yuhui Chen</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.114692</guid>
+    </item>
+    <item>
+      <title>Computational screening and investigation of ligand effect on TM single atom catalyst for hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.114981</link>
+      <description>N.J. Hemavathi, Chiranjib Majumder, Suman Kalyan Sahoo, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4404171634
+
+                No abstract</description>
+      <author>N.J. Hemavathi, Chiranjib Majumder, Suman Kalyan Sahoo</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114981</guid>
+    </item>
+    <item>
+      <title>Unveiling the Electrocatalytic Hydrogen Evolution Reaction Pathway on RuP&lt;sub&gt;2&lt;/sub&gt; through Ab Initio Grand Canonical Monte Carlo</title>
+      <link>https://doi.org/10.1021/acscatal.4c04913</link>
+      <description>Shihan Qin, Sayan Banerjee, Mehmet G&#246;khan &#350;ensoy, Andrew M. Rappe, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404185926
+
+                In this study, the high catalytic reactivity of ruthenium phosphide (RuP2) has been identified by first-principles density functional theory (DFT) calculations for the electrocatalytic hydrogen evolution reaction (HER). Complex surface reconstructions are considered by applying the ab initio grand canonical Monte Carlo (ai-GCMC) algorithm, efficiently providing a sufficient phase-space exploration of possible surfaces. Combined with surface-phase Pourbaix diagrams, we are able to identify the actual surfaces that obtained under specific experimental environments, thus leading to a more accurate understanding of the nature of the active sites and the binding strength of adsorbates. Specifically, through hundreds of surface reconstructions and hydrogenation states generated with ai-GCMC, we identify the most favorable surface phases of RuP2 under aqueous acidic conditions. We discover that the HER activity is determined by multiple surfaces with different stoichiometries within a narrow electrode potential window. Low HER overpotential (&#951;) has been found for each of the identified surfaces, as low as 0.04 V. High H-coverage reconstructed surfaces have been discovered under acidic conditions, and the surface Ru sites introduced by additional Ru adatoms or exposed by P-vacancies serve as the active sites for HER based on their nearly reversible H binding. This work provides atomistic insights into the origin of high HER activity on RuP2 by exploring the dynamic surface phases of electrocatalysts and features a generalizable method to explore the reconstructed/hydrogenated surface space as a function of experimental conditions.</description>
+      <author>Shihan Qin, Sayan Banerjee, Mehmet G&#246;khan &#350;ensoy, Andrew M. Rappe</author>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04913</guid>
+    </item>
+    <item>
+      <title>Progress in development of characterization capabilities to evaluate candidate materials for direct air capture applications</title>
+      <link>https://doi.org/10.1016/j.jcou.2024.102975</link>
+      <description>Marcus Carter, Huong Giang T. Nguyen, Andrew P. Allen, Feng Yi, Wei&#8208;Chang Yang, Avery E. Baumann, W. Sean McGivern, Jeffrey A. Manion, Ivan Kuzmenko, Zois Tsinas, Charlotte M. Wentz, Malia B. Wenny, Daniel W. Siderius, Roger D. van Zee, Christopher M. Stafford, Craig M. Brown, Journal of CO2 Utilization. 89(None)] 2024. https://openalex.org/W4404199074
+
+                No abstract</description>
+      <author>Marcus Carter, Huong Giang T. Nguyen, Andrew P. Allen, Feng Yi, Wei&#8208;Chang Yang, Avery E. Baumann, W. Sean McGivern, Jeffrey A. Manion, Ivan Kuzmenko, Zois Tsinas, Charlotte M. Wentz, Malia B. Wenny, Daniel W. Siderius, Roger D. van Zee, Christopher M. Stafford, Craig M. Brown</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.102975</guid>
+    </item>
+    <item>
+      <title>Revisiting the Origin of Enhanced C2+ Selectivity on Oxide-Derived Copper toward CO2 Electroreduction</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124805</link>
+      <description>Hui Yu, Wenru Zhao, Xiangzun Dong, J. Wang, Wei Wang, Liu-Liu Shen, Guirong Zhang, Donghai Mei, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404202096
+
+                No abstract</description>
+      <author>Hui Yu, Wenru Zhao, Xiangzun Dong, J. Wang, Wei Wang, Liu-Liu Shen, Guirong Zhang, Donghai Mei</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124805</guid>
+    </item>
+    <item>
+      <title>Plasmon enhanced Oxygen Evolution Reaction on Au decorated Ni(OH)2 nanostructures: the role of alkaline cations solvation</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124804</link>
+      <description>Lucas D. Germano, Leonardo D. De Angelis, Ana Paula de Lima Batista, Antonio G. S. de Oliveira&#8208;Filho, Susana I. C&#243;rdoba de Torresi, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404205963
+
+                No abstract</description>
+      <author>Lucas D. Germano, Leonardo D. De Angelis, Ana Paula de Lima Batista, Antonio G. S. de Oliveira&#8208;Filho, Susana I. C&#243;rdoba de Torresi</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124804</guid>
+    </item>
+    <item>
+      <title>Enhancing Oxygen Reduction Reaction Electrocatalytic Performance of Nickel&#8208;Nitrogen&#8208;Carbon Catalysts through Coordination Environment Engineering&lt;sup&gt;&#8224;&lt;/sup&gt;</title>
+      <link>https://doi.org/10.1002/cjoc.202400769</link>
+      <description>Hui&#8208;Jian Zou, Yan Leng, Chen&#8208;Shuang Yin, Xikun Yang, Chungang Min, Feng Tan, Ai&#8208;Min Ren, Chinese Journal of Chemistry. None(None)] 2024. https://openalex.org/W4404209081
+
+                Comprehensive Summary Single&#8208;atom catalysts (SACs) have attracted significant attention due to their high atomic utilization and tunable coordination environment. However, the catalytic mechanisms related to the active center and coordination environment remain unclear. In this study, we systematically investigated the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) catalytic activities of NiN 4 , NiN 3 , NiN 3 H 2 , NiN 4 X, NiN 3 X, and NiN 3 H 2 X (X denotes axial ligand) through density functional theory (DFT) calculations. This study unveils two distinct reaction pathways for ORR and OER, involving proton&#8208;electron pairs adsorbed from both the solution and the catalyst surface. The overpotential is the key parameter to evaluate the catalytic performance when proton&#8208;electron pairs are adsorbed from the solution. NiN 3 and NiN 3 H 2 show promise as pH&#8208;universal bifunctional electrocatalysts for both ORR and OER. On the other hand, when proton&#8208;electron pairs are adsorbed from the catalyst surface, the reaction energy barrier becomes the crucial metric for assessing catalytic activity. Our investigation reveals that NiN 3 H 2 consistently exhibits optimal ORR activity across a wide pH range, regardless of the source of proton&#8208;electron pair (solvent or catalyst surface).</description>
+      <author>Hui&#8208;Jian Zou, Yan Leng, Chen&#8208;Shuang Yin, Xikun Yang, Chungang Min, Feng Tan, Ai&#8208;Min Ren</author>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cjoc.202400769</guid>
+    </item>
+    <item>
+      <title>Computational descriptor for electrochemical currents of carbon dioxide reduction on Cu facets</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115836</link>
+      <description>Timothy T. Yang, Wissam A. Saidi, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4404211724
+
+                No abstract</description>
+      <author>Timothy T. Yang, Wissam A. Saidi</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115836</guid>
+    </item>
+    <item>
+      <title>Embedding material graphs using the electron-ion potential: application to material fracture</title>
+      <link>https://doi.org/10.1039/d4dd00246f</link>
+      <description>Sherif Abdulkader Tawfik, Tri Minh Nguyen, Salvy P. Russo, Truyen Tran, Sunil Gupta, Svetha Venkatesh, Digital Discovery. None(None)] 2024. https://openalex.org/W4404194542
+
+                Improving the physics of physics-informed machine learning.</description>
+      <author>Sherif Abdulkader Tawfik, Tri Minh Nguyen, Salvy P. Russo, Truyen Tran, Sunil Gupta, Svetha Venkatesh</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00246f</guid>
     </item>
   </channel>
 </rss>
