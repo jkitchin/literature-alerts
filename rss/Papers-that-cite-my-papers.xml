@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Nov 2024 01:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 01:20:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Margaret: Streamlining Research Productivity Analysis in Colombia with an R Package for GrupLAC Integration</title>
-      <link>https://doi.org/10.29173/istl2777</link>
-      <description>Sebasti&#225;n Robledo, Bryan Arias, C Garc&#237;a, Ingrid Durley Torres, Martha Zuluaga, Issues in Science and Technology Librarianship. None(108)] 2024. https://openalex.org/W4404027754
-
-                Margaret is an advanced R package designed to systematically extract and consolidate data pertaining to research outputs (such as publications, books, book chapters, and conference presentations) of scientific groups from the GrupLAC platform, an online application managed by Minciencias in Colombia for the registration and updating of researcher and research group information in the fields of science, technology, and innovation. The challenge of monitoring and evaluating scientific production across various web platforms presents a substantial barrier to universities in tracking their contributions effectively. To address this challenge, Margaret accepts a designated list of links corresponding to university-affiliated research groups within GrupLAC. Utilizing web-scraping techniques, the package retrieves and compiles this data into a comprehensive XLSX file. This file encompasses information across 51 distinct categories of research products, enabling research directors to meticulously assess, monitor, and enhance various strategies that aim to augment the production, quality, and impact of scientific outputs. The Shiny application is publicly accessible and can be accessed via the following link: https://ucatolicaluisamigo-investigaciones.shinyapps.io/margaret/</description>
-      <author>Sebasti&#225;n Robledo, Bryan Arias, C Garc&#237;a, Ingrid Durley Torres, Martha Zuluaga</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.29173/istl2777</guid>
-    </item>
-    <item>
-      <title>Nucleotide coordinated polymers, a ROS-based immunomodulatory antimicrobial, doubly kill Pseudomonas aeruginosa biofilms of implant infections</title>
-      <link>https://doi.org/10.1016/j.bioactmat.2024.10.026</link>
-      <description>Jinghuang Chen, XiaoChen Tang, Qihan Sun, Xin Ji, Xingbo Wang, Zhendong Liu, Xu Dong Zhang, Hai-Jiao Xu, Fan Yang, Jian Sun, Xiurong Yang, Bioactive Materials. 44(None)] 2024. https://openalex.org/W4404028972
-
-                No abstract</description>
-      <author>Jinghuang Chen, XiaoChen Tang, Qihan Sun, Xin Ji, Xingbo Wang, Zhendong Liu, Xu Dong Zhang, Hai-Jiao Xu, Fan Yang, Jian Sun, Xiurong Yang</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.bioactmat.2024.10.026</guid>
-    </item>
-    <item>
-      <title>Point-defect-induced electronic polarization to enhance H* generation for removal of bisphenol A</title>
-      <link>https://doi.org/10.1016/j.renene.2024.121814</link>
-      <description>Huajing Zhou, T.J. Li, F M Zhang, Faze Chen, Zilian Liu, Rongrong Miao, Qingqing Guan, Lingxiang Zhao, Liang He, Renewable Energy. None(None)] 2024. https://openalex.org/W4404029498
-
-                No abstract</description>
-      <author>Huajing Zhou, T.J. Li, F M Zhang, Faze Chen, Zilian Liu, Rongrong Miao, Qingqing Guan, Lingxiang Zhao, Liang He</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2024.121814</guid>
-    </item>
-    <item>
-      <title>Microenvironment regulation to synthesize sub-3 nm Pt-based high-entropy alloy nanoparticles enabling compressed lattice to boost electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124775</link>
-      <description>Zhiyin Huang, Yuqin Peng, Lixin Xing, M. Xu, Meng Fang, Huiqi Xie, Jiamin Li, Yangdong Zhou, Puwei Wu, Ning Wang, Chunmei Tang, Mingjie Wu, Liguang Wang, Siyu Ye, Lei Du, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404032861
-
-                No abstract</description>
-      <author>Zhiyin Huang, Yuqin Peng, Lixin Xing, M. Xu, Meng Fang, Huiqi Xie, Jiamin Li, Yangdong Zhou, Puwei Wu, Ning Wang, Chunmei Tang, Mingjie Wu, Liguang Wang, Siyu Ye, Lei Du</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124775</guid>
-    </item>
-    <item>
-      <title>Highly Accurate and Robust Constraint-Based Orbital-Optimized Core Excitations</title>
-      <link>https://doi.org/10.1021/acs.jpca.4c04139</link>
-      <description>Yannick Lemke, J&#246;rg Ku&#223;mann, Christian Ochsenfeld, The Journal of Physical Chemistry A. None(None)] 2024. https://openalex.org/W4404033915
-
-                We adapt our recently developed constraint-based orbital-optimized excited-state method (COOX) for the computation of core excitations. COOX is a constrained density functional theory (cDFT) approach based on excitation amplitudes from linear-response time-dependent DFT (LR-TDDFT), and has been shown to provide accurate excitation energies and excited-state properties for valence excitations within a spin-restricted formalism. To extend COOX to core-excited states, we introduce a spin-unrestricted variant which allows us to obtain orbital-optimized core excitations with a single constraint. Using a triplet purification scheme in combination with the constrained unrestricted Hartree&#8211;Fock formalism, scalar-relativistic zero-order regular approximation corrections, and a semiempirical treatment of spin&#8211;orbit coupling, COOX is shown to produce highly accurate results for K- and L-edge excitations of second- and third-period atoms with subelectronvolt errors despite being based on LR-TDDFT, for which core excitations pose a well-known challenge. L- and M-edge excitations of heavier atoms up to uranium are also computationally feasible and numerically stable, but may require more advanced treatment of relativistic effects. Furthermore, COOX is shown to perform on par with or better than the popular &#916;SCF approach while exhibiting more robust convergence, highlighting it as a promising tool for inexpensive and accurate simulations of X-ray absorption spectra.</description>
-      <author>Yannick Lemke, J&#246;rg Ku&#223;mann, Christian Ochsenfeld</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c04139</guid>
-    </item>
-    <item>
-      <title>Microenvironment Control over Electrocatalytic Activity of g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;/2H-MoS&lt;sub&gt;2&lt;/sub&gt; Superlattice-like Heterostructures for Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c03492</link>
-      <description>Xiaorong Gan, Liqun Ye, Huimin Zhao, Dangyuan Lei, Yanhui Ao, Dan Zhao, Peifang Wang, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4404043326
-
-                Microenvironments in heterogeneous catalysis have been recognized as equally important as the types and amounts of active sites for regulating catalytic activity. Two-dimensional (2D) nanospaces between van der Waals (vdW) gaps of layered materials provide an ideal microenvironment to create novel functionalities. Here, we explore a facile method for fabricating g-C3N4/2H-MoS2 superlattice-like heterostructures based on thermochemical intercalation and polymerization reactions of formamide within enlarged vdW gaps of 2H-MoS2 nanosheets without any transfer process. DFT calculations demonstrate that the interlayer electron&#8211;electron correlations due to the intercalation effect of g-C3N4, rather than high-&#954; dielectric environments, lead to the improvement of intrinsic conductivity of 2H-MoS2 nanosheets. As the proof of concept in applications for the electrocatalysis field, the heterostructure for hydrogen electrochemical reaction (HER) exhibits high stability and catalytic activity in both acid and alkaline media, such as a quite low onset overpotential of 98 mV, a high exchange current density of 77.6 &#956;A cm&#8211;2, and a small Tafel slope (52.9 mV dec&#8211;1) in an acid medium. The enhanced HER activity is attributed to the improved conductivity and nanoconfinement effect of 2D nanospaces that decrease the reaction activation energy and activate the inert basal planes.</description>
-      <author>Xiaorong Gan, Liqun Ye, Huimin Zhao, Dangyuan Lei, Yanhui Ao, Dan Zhao, Peifang Wang</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c03492</guid>
-    </item>
-    <item>
-      <title>Prediction of CO&lt;sub&gt;2&lt;/sub&gt; Storage in Different Geological Conditions Based on Machine Learning</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c04274</link>
-      <description>Ming Liu, Zhen Li, Qi Jing, Ying Meng, Jixian Zhou, Mingcheng Ni, Xianmin Zhou, Hao Chen, Energy &amp; Fuels. None(None)] 2024. https://openalex.org/W4404048617
-
-                No abstract</description>
-      <author>Ming Liu, Zhen Li, Qi Jing, Ying Meng, Jixian Zhou, Mingcheng Ni, Xianmin Zhou, Hao Chen</author>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c04274</guid>
-    </item>
     <item>
       <title>Prediction of Holey Graphyne-Supported Single Atom Catalyst for Nitrogen Reduction Reaction by Interpretable Machine Learning and First-Principles Calculations</title>
       <link>https://doi.org/10.1016/j.surfin.2024.105401</link>
@@ -288,6 +218,16 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s40830-024-00510-z</guid>
     </item>
     <item>
+      <title>Theoretical Investigation of Single-, Double-, and Triple- &lt;i&gt;p&lt;/i&gt;-block Metals Anchored on g-CN Monolayer for Oxygen Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c02399</link>
+      <description>Yanan Zhou, Li Sheng, Lanlan Chen, Wenhua Zhang, Jinlong Yang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4404133632
+
+                The design and development of highly active non-noble metal electrocatalysts for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) are crucial for metal-air batteries. In this work, the electrocatalytic performance of different p-block metal (PM = Sn, Sb, Pb and Bi) atoms embedded in the g-CN monolayer (PMx@g-CN, x = 1&#8211;3) for the OER and ORR was systematically investigated by density functional theory (DFT). The strong interaction between PMx atoms and g-CN substrates indicates the good stability of PMx@g-CN catalysts. Among all the designed catalysts, Bi3@g-CN is found to be a promising bifunctional electrocatalyst for both the OER and ORR with the calculated overpotential &#951;OER and &#951;ORR of 0.23 and 0.25 V, respectively. With the atomic active sites of PMx increasing from x = 1 to 3, the OER and ORR catalytic activity is enhanced. The correlations between the overpotentials of the OER/ORR and Bader charge values of the anchored PMx atoms of the catalysts were established. Our findings contribute to searching for noble metal-free bifunctional electrocatalysts and shed light on the rational design of atomic active sites on electrocatalysts.</description>
+      <author>Yanan Zhou, Li Sheng, Lanlan Chen, Wenhua Zhang, Jinlong Yang</author>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02399</guid>
+    </item>
+    <item>
       <title>Machine learning assisted screening of nitrogen-doped graphene-based dual-atom hydrogen evolution electrocatalysts</title>
       <link>https://doi.org/10.1016/j.mcat.2024.114649</link>
       <description>Huijie Zhang, Qiang Wei, Shuaichong Wei, Yuhong Luo, Wei Zhang, Guihua Liu, Molecular Catalysis. 570(None)] 2024. https://openalex.org/W4404141047
@@ -396,6 +336,86 @@
       <author>Timothy T. Yang, Wissam A. Saidi</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115836</guid>
+    </item>
+    <item>
+      <title>Suppression of Hydrogen Evolution over Oxidized Cu&lt;sub&gt;&lt;i&gt;X&lt;/i&gt;&lt;/sub&gt;Co&lt;sub&gt;&lt;i&gt;Y&lt;/i&gt;&lt;/sub&gt; in an Ionic Liquid Electrolyte for CO&lt;sub&gt;2&lt;/sub&gt; Electrochemical Reduction</title>
+      <link>https://doi.org/10.1021/acsaem.4c01802</link>
+      <description>Xiaofan Hou, Feifei You, Ming&#8208;Hui Zhao, Meng Shen, L.T. Fan, Mingming Peng, Kenji Kamiya, Eika W. Qian, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4404220319
+
+                No abstract</description>
+      <author>Xiaofan Hou, Feifei You, Ming&#8208;Hui Zhao, Meng Shen, L.T. Fan, Mingming Peng, Kenji Kamiya, Eika W. Qian</author>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c01802</guid>
+    </item>
+    <item>
+      <title>CeO&lt;sub&gt;2&lt;/sub&gt;&#8208;Accelerated Surface Reconstruction of CoSe&lt;sub&gt;2&lt;/sub&gt; Nanoneedle Forms Active CeO&lt;sub&gt;2&lt;/sub&gt;@CoOOH Interface to Boost Oxygen Evolution Reaction for Water Splitting</title>
+      <link>https://doi.org/10.1002/aenm.202403744</link>
+      <description>Quanxin Guo, Yong&#8208;Min Liang, Zhengrong Xu, Rui Liu, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4404222203
+
+                Abstract Interface engineering is an efficient strategy to create high&#8208;performance electrocatalysts for water splitting. In the present work, CeO 2 @CoSe 2 nanoneedle on carbon cloth (CeO 2 @CoSe 2 /CC) demonstrates high efficiency for oxygen evolution reaction (OER) and water splitting. CeO 2 with abundant O vacancies facilitates the adsorption of OH &#8722; and boosts the reconstruction of CoSe 2 into CoOOH at lower potentials. The in situ generated active CeO 2 @CoOOH heterointerface upshifts the d&#8208;band center of Co site, thereby decreasing the free energy of rate&#8208;determining step (RDS) ( * O to * OOH) during the OER process. It delivers a low OER overpotential of 245 mV at 10 mA cm &#8722;2 . CeO 2 @CoSe 2 /CC is also found to be active for hydrogen evolution reaction (HER, 138 mV overpotential at 10 mA cm &#8722;2 ), profiting from CeO 2 &#8208;facilitated * H 2 O dissociation and * H adsorption on CoSe 2 . The overall water splitting is achieved over the CeO 2 @CoSe 2 /CC bifunctional electrode with a low electrolysis voltage of 1.54 V at 10 mA cm &#8722;2 . This work offers valuable insights into CeO 2 &#8208;assisted surface reconstruction as well as provides water electrolysis catalysts through interface engineering.</description>
+      <author>Quanxin Guo, Yong&#8208;Min Liang, Zhengrong Xu, Rui Liu</author>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403744</guid>
+    </item>
+    <item>
+      <title>Tuning the Electronic Properties of CumAgn Bimetallic Clusters for Enhanced CO2 Activation</title>
+      <link>https://doi.org/10.3390/ijms252212053</link>
+      <description>Turki Alotaibi, Moteb Alotaibi, Fatimah Alhawiti, Norah Aldosari, Majd Alsunaid, Lama Aldawas, Talal F. Qahtan, Ali K. Ismael, International Journal of Molecular Sciences. 25(22)] 2024. https://openalex.org/W4404224096
+
+                The urgent demand for efficient CO2 reduction technologies has driven enormous studies into the enhancement of advanced catalysts. Here, we investigate the electronic properties and CO2 adsorption properties of CumAgn bimetallic clusters, particularly Cu4Ag1, Cu1Ag4, Cu3Ag2, and Cu2Ag3, using generalized gradient approximation (GGA)/density functional theory (DFT). Our results show that the atomic arrangement within these clusters drastically affects their stability, charge transfer, and catalytic performance. The Cu4Ag1 bimetallic cluster emerges as the most stable structure, revealing superior charge transfer and effective chemisorption of CO2, which promotes effective activation of the CO2 molecule. In contrast, the Cu1Ag4 bimetallic cluster, in spite of comparable adsorption energy, indicates insignificant charge transfer, resulting in less pronounced CO2 activation. The Cu3Ag2 and Cu2Ag3 bimetallic clusters also display high adsorption energies with remarkable charge transfer mechanisms, emphasizing the crucial role of metal composition in tuning catalytic characteristics. This thorough examination provides constructive insights into the design of bimetallic clusters for boosted CO2 reduction. These findings could pave the way for the development of cost-effective and efficient catalysts for industrial CO2 reduction, contributing to global efforts in carbon management and climate change mitigation.</description>
+      <author>Turki Alotaibi, Moteb Alotaibi, Fatimah Alhawiti, Norah Aldosari, Majd Alsunaid, Lama Aldawas, Talal F. Qahtan, Ali K. Ismael</author>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/ijms252212053</guid>
+    </item>
+    <item>
+      <title>Silver Electrodes Are Highly Selective for CO in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction due to Interplay between Voltage Dependent Kinetics and Thermodynamics</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c02869</link>
+      <description>Michele Re Fiorentin, Francesca Risplendi, Clara Salvini, Juqin Zeng, Giancarlo Cicero, Hannes J&#243;nsson, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4404227466
+
+                No abstract</description>
+      <author>Michele Re Fiorentin, Francesca Risplendi, Clara Salvini, Juqin Zeng, Giancarlo Cicero, Hannes J&#243;nsson</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02869</guid>
+    </item>
+    <item>
+      <title>Dependence of Oxygen Diffusion on the La and Sr Configuration in Melilite-Type La&lt;sub&gt;1+&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ga&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;7+&lt;i&gt;x&lt;/i&gt;/2&lt;/sub&gt; by Neural Network Potential Molecular Dynamics Simulation</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c03617</link>
+      <description>T KOYAMA, Masanobu Nakayama, Judith Schuett, Steffen Grieshammer, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404230693
+
+                No abstract</description>
+      <author>T KOYAMA, Masanobu Nakayama, Judith Schuett, Steffen Grieshammer</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03617</guid>
+    </item>
+    <item>
+      <title>How to Assess and Predict Electrical Double Layer Properties. Implications for Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acs.chemrev.3c00806</link>
+      <description>Christian M. Schott, Peter M. Schneider, Kun&#8208;Ting Song, Haiting Yu, Rainer G&#246;tz, Felix Haimerl, Elena L. Gubanova, Jian Zhou, Thorsten O. Schmidt, Qi&#8208;Wei Zhang, Vitaly Alexandrov, Aliaksandr S. Bandarenka, Chemical Reviews. None(None)] 2024. https://openalex.org/W4404238022
+
+                No abstract</description>
+      <author>Christian M. Schott, Peter M. Schneider, Kun&#8208;Ting Song, Haiting Yu, Rainer G&#246;tz, Felix Haimerl, Elena L. Gubanova, Jian Zhou, Thorsten O. Schmidt, Qi&#8208;Wei Zhang, Vitaly Alexandrov, Aliaksandr S. Bandarenka</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.3c00806</guid>
+    </item>
+    <item>
+      <title>Influence of Co Doping on Copper Nanoclusters for CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
+      <link>https://doi.org/10.1021/acsomega.4c07514</link>
+      <description>Guilherme Rodrigues do Nascimento, Marionir M. C. B. Neto, Juarez L. F. Da Silva, Breno R. L. Galv&#227;o, ACS Omega. None(None)] 2024. https://openalex.org/W4404238489
+
+                No abstract</description>
+      <author>Guilherme Rodrigues do Nascimento, Marionir M. C. B. Neto, Juarez L. F. Da Silva, Breno R. L. Galv&#227;o</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c07514</guid>
+    </item>
+    <item>
+      <title>Machine-Learning-Assisted Screening of Nanocluster Electrocatalysts: Mapping and Reshaping the Activity Volcano for the Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c14076</link>
+      <description>Rahul Kumar Sharma, Milan Kumar Jena, Harpriya Minhas, Biswarup Pathak, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4404241066
+
+                No abstract</description>
+      <author>Rahul Kumar Sharma, Milan Kumar Jena, Harpriya Minhas, Biswarup Pathak</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c14076</guid>
     </item>
     <item>
       <title>Embedding material graphs using the electron-ion potential: application to material fracture</title>

@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Nov 12 01:18:35 2024
+Created on Wed Nov 13 01:20:10 2024
 
-Found 30 results from 2024-11-05 to 2024-11-12
+Found 28 results from 2024-11-06 to 2024-11-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Nickel-Catalyzed Atroposelective Reductive [2 + 4] Annulation toward Synthesis of Axially Chiral Biaryls   
-
-OpenAlex: https://openalex.org/W4404035036    
-Open access: False
-    
-[Yujia Mao](https://openalex.org/A5047697673), [Weitao Hu](https://openalex.org/A5033096539), [Chuan Wang](https://openalex.org/A5033753269), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06131.
-    
-No abstract    
-
-    
-
-## Direct Synthesis of N-Fused Indoles Enabled by Copper-Catalyzed Aerobic Oxygenative Rearrangement   
-
-OpenAlex: https://openalex.org/W4404039781    
-Open access: False
-    
-[Yan-Zheng Sun](https://openalex.org/A5007474051), [Hucheng Yang](https://openalex.org/A5104020659), [Jun‐Rong Song](https://openalex.org/A5102020467), [Hong‐yu Li](https://openalex.org/A5100402292), [Jun Shi](https://openalex.org/A5053701397), [Biaobiao Jiang](https://openalex.org/A5013144249), [Chao Chen](https://openalex.org/A5100408369), [Wei Wu](https://openalex.org/A5011461470), [Hai Ren](https://openalex.org/A5066293769), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05762.
-    
-No abstract    
-
-    
-
-## Boosting Solar-to-H2O2 by Molecularly Tunable Heterostructured Pym-CN with an Enhanced Built-In Electric Field   
-
-OpenAlex: https://openalex.org/W4404041310    
-Open access: False
-    
-[Jiayu An](https://openalex.org/A5111302798), [Wenjun Jiang](https://openalex.org/A5018325814), [Fuwei Zhuang](https://openalex.org/A5111341953), [Yinhua Ma](https://openalex.org/A5075023779), [Su Zhan](https://openalex.org/A5112671102), [Feng Zhou](https://openalex.org/A5025781670), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05203.
-    
-No abstract    
-
-    
-
-## Pd-Catalyzed B–H Aryl/Alkenylation of 1,2-Azaborines   
-
-OpenAlex: https://openalex.org/W4404047607    
-Open access: False
-    
-[Zhen Zhang](https://openalex.org/A5100753881), [Dandan Jiang](https://openalex.org/A5110733301), [P. P. Su](https://openalex.org/A5021999832), [Kai Yang](https://openalex.org/A5040671174), [Peiyuan Yu](https://openalex.org/A5025860351), [Qiuling Song](https://openalex.org/A5046591861), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04576.
-    
-No abstract    
-
-    
-
-## Synchronous Construction of Ni/CeO2/C with Double Defects as a Dual Engine for Catalytic Refinement of Lignin Oil Under Hydrogen-Free Condition   
-
-OpenAlex: https://openalex.org/W4404048829    
-Open access: False
-    
-[Yingbo Zhu](https://openalex.org/A5023705563), [Yulong Ma](https://openalex.org/A5069224951), [Yonggang Sun](https://openalex.org/A5030114201), [Wenxin Ji](https://openalex.org/A5103135581), [Li-Qiong Wang](https://openalex.org/A5100653071), [Feng Lin](https://openalex.org/A5014756735), [Yuanyuan Li](https://openalex.org/A5025815119), [Hongqiang Xia](https://openalex.org/A5052841709), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03228.
-    
-No abstract    
-
-    
 
 ## Systematic Parameter Determination Aimed at a Catalyst-Controlled Asymmetric Rh(I)-Catalyzed Pauson–Khand Reaction   
 
@@ -333,5 +278,38 @@ Open access: False
 [Sanajit Kumar Mandal](https://openalex.org/A5023698422), [Aayatti Mallick Gupta](https://openalex.org/A5079620766), [Joyanta Choudhury](https://openalex.org/A5042658817), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05104.
     
 A series of systematically designed cobalt–protic-NHC complexes containing pendant proton-shuttle groups was synthesized. The proton-shuttle motifs enabled these complexes to act as efficient electrocatalysts for the hydrogen evolution reaction (HER) from various acids as proton sources. The effect of acid strength on the mechanism of HER was investigated by varying the proton source ( CH3COOH, pKaCH3CN = 23.51), triethylammonium tetrafluoroborate (Et3NHBF4, pKaCH3CN = 18.57), and trifluoroacetic acid (CF3COOH, pKaCH3CN = 12.70). Additionally, by changing experimental parameters such as substrate/catalyst concentration and scan rate, the single-electron EC′ zone diagram could be extended to the present multielectron reaction system where all of the zones were accessed with little deviation in some of the waveforms from the original. From the kinetic zone diagram analysis, some of the performance parameters such as the observed rate constant (kobs), turnover frequency (TOF), and the rate constant of the first chemical step (k1) were determined. Also, the zone diagram provided insight into the mechanistic cycle and the nature of the rate-limiting step. The investigation suggested that the protic proton of the proton-shuttle functionality triggered a hydrogen evolution reaction via intramolecular proton-hydride coupling from the Co(II)–H intermediate. This intramolecular dihydrogen elimination step, which was independent of the acid concentration, acted as the rate-limiting step and the turnover frequency of HER was fully controlled by this step.    
+
+    
+
+## Improved Catalyst Performance for the Oxygen Evolution Reaction under a Chiral Bias   
+
+OpenAlex: https://openalex.org/W4404220015    
+Open access: True
+    
+[Aravind Vadakkayil](https://openalex.org/A5036346374), [Wiley A. Dunlap-Shohl](https://openalex.org/A5034223374), [Meera Joy](https://openalex.org/A5108303229), [Brian P. Bloom](https://openalex.org/A5047853509), [David H. Waldeck](https://openalex.org/A5043531603), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04477.
+    
+No abstract    
+
+    
+
+## Asymmetric Csp3–Csp3 Bond Formation via Ni-Catalyzed Regio- and Enantioselective Hydroalkylation of Linear 1,3-Diene through Carbonyl Umpolung   
+
+OpenAlex: https://openalex.org/W4404225574    
+Open access: False
+    
+[Ruofei Cheng](https://openalex.org/A5074760445), [Kangbao Zhong](https://openalex.org/A5050860250), [Xue‐Qiang Chu](https://openalex.org/A5028501208), [Yu Lan](https://openalex.org/A5050859481), [Chao‐Jun Li](https://openalex.org/A5021388534), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05759.
+    
+No abstract    
+
+    
+
+## Trend and Progress in Catalysis for Ethylene Production from Bioethanol Using ZSM-5   
+
+OpenAlex: https://openalex.org/W4404234962    
+Open access: False
+    
+[L. Ouayloul](https://openalex.org/A5002759787), [Iker Agirrezabal-Tellería](https://openalex.org/A5061505361), [Sébastien Paul](https://openalex.org/A5081732385), [M. El Doukkali](https://openalex.org/A5054522976), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04162.
+    
+No abstract    
 
     

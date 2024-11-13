@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Nov 2024 01:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 01:20:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Nickel-Catalyzed Atroposelective Reductive [2 + 4] Annulation toward Synthesis of Axially Chiral Biaryls</title>
-      <link>https://doi.org/10.1021/acscatal.4c06131</link>
-      <description>Yujia Mao, Weitao Hu, Chuan Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404035036
-
-                No abstract</description>
-      <author>Yujia Mao, Weitao Hu, Chuan Wang</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06131</guid>
-    </item>
-    <item>
-      <title>Direct Synthesis of &lt;i&gt;N&lt;/i&gt;-Fused Indoles Enabled by Copper-Catalyzed Aerobic Oxygenative Rearrangement</title>
-      <link>https://doi.org/10.1021/acscatal.4c05762</link>
-      <description>Yan-Zheng Sun, Hucheng Yang, Jun&#8208;Rong Song, Hong&#8208;yu Li, Jun Shi, Biaobiao Jiang, Chao Chen, Wei Wu, Hai Ren, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404039781
-
-                No abstract</description>
-      <author>Yan-Zheng Sun, Hucheng Yang, Jun&#8208;Rong Song, Hong&#8208;yu Li, Jun Shi, Biaobiao Jiang, Chao Chen, Wei Wu, Hai Ren</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05762</guid>
-    </item>
-    <item>
-      <title>Boosting Solar-to-H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; by Molecularly Tunable Heterostructured Pym-CN with an Enhanced Built-In Electric Field</title>
-      <link>https://doi.org/10.1021/acscatal.4c05203</link>
-      <description>Jiayu An, Wenjun Jiang, Fuwei Zhuang, Yinhua Ma, Su Zhan, Feng Zhou, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404041310
-
-                No abstract</description>
-      <author>Jiayu An, Wenjun Jiang, Fuwei Zhuang, Yinhua Ma, Su Zhan, Feng Zhou</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05203</guid>
-    </item>
-    <item>
-      <title>Pd-Catalyzed B&#8211;H Aryl/Alkenylation of 1,2-Azaborines</title>
-      <link>https://doi.org/10.1021/acscatal.4c04576</link>
-      <description>Zhen Zhang, Dandan Jiang, P. P. Su, Kai Yang, Peiyuan Yu, Qiuling Song, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404047607
-
-                No abstract</description>
-      <author>Zhen Zhang, Dandan Jiang, P. P. Su, Kai Yang, Peiyuan Yu, Qiuling Song</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04576</guid>
-    </item>
-    <item>
-      <title>Synchronous Construction of Ni/CeO&lt;sub&gt;2&lt;/sub&gt;/C with Double Defects as a Dual Engine for Catalytic Refinement of Lignin Oil Under Hydrogen-Free Condition</title>
-      <link>https://doi.org/10.1021/acscatal.4c03228</link>
-      <description>Yingbo Zhu, Yulong Ma, Yonggang Sun, Wenxin Ji, Li-Qiong Wang, Feng Lin, Yuanyuan Li, Hongqiang Xia, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404048829
-
-                No abstract</description>
-      <author>Yingbo Zhu, Yulong Ma, Yonggang Sun, Wenxin Ji, Li-Qiong Wang, Feng Lin, Yuanyuan Li, Hongqiang Xia</author>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03228</guid>
-    </item>
     <item>
       <title>Systematic Parameter Determination Aimed at a Catalyst-Controlled Asymmetric Rh(I)-Catalyzed Pauson&#8211;Khand Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c04490</link>
@@ -306,6 +256,36 @@
       <author>Sanajit Kumar Mandal, Aayatti Mallick Gupta, Joyanta Choudhury</author>
       <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05104</guid>
+    </item>
+    <item>
+      <title>Improved Catalyst Performance for the Oxygen Evolution Reaction under a Chiral Bias</title>
+      <link>https://doi.org/10.1021/acscatal.4c04477</link>
+      <description>Aravind Vadakkayil, Wiley A. Dunlap-Shohl, Meera Joy, Brian P. Bloom, David H. Waldeck, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404220015
+
+                No abstract</description>
+      <author>Aravind Vadakkayil, Wiley A. Dunlap-Shohl, Meera Joy, Brian P. Bloom, David H. Waldeck</author>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04477</guid>
+    </item>
+    <item>
+      <title>Asymmetric Csp&lt;sup&gt;3&lt;/sup&gt;&#8211;Csp&lt;sup&gt;3&lt;/sup&gt; Bond Formation via Ni-Catalyzed Regio- and Enantioselective Hydroalkylation of Linear 1,3-Diene through Carbonyl Umpolung</title>
+      <link>https://doi.org/10.1021/acscatal.4c05759</link>
+      <description>Ruofei Cheng, Kangbao Zhong, Xue&#8208;Qiang Chu, Yu Lan, Chao&#8208;Jun Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404225574
+
+                No abstract</description>
+      <author>Ruofei Cheng, Kangbao Zhong, Xue&#8208;Qiang Chu, Yu Lan, Chao&#8208;Jun Li</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05759</guid>
+    </item>
+    <item>
+      <title>Trend and Progress in Catalysis for Ethylene Production from Bioethanol Using ZSM-5</title>
+      <link>https://doi.org/10.1021/acscatal.4c04162</link>
+      <description>L. Ouayloul, Iker Agirrezabal-Teller&#237;a, S&#233;bastien Paul, M. El Doukkali, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404234962
+
+                No abstract</description>
+      <author>L. Ouayloul, Iker Agirrezabal-Teller&#237;a, S&#233;bastien Paul, M. El Doukkali</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04162</guid>
     </item>
   </channel>
 </rss>
