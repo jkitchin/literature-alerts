@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Nov 2024 01:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 01:20:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -76,6 +76,16 @@
       <author>Saigopalakrishna S. Yerneni, Juliana H. Azambuja, Daria Strelkova-Petersen, Brendan R. Gallagher, Julie Shin Kim, Namit Chaudhary, Yongxin Zhao, Peter C. Lucas, Linda M. McAllister&#8208;Lucas, Norbert Pardi, Drew Weissman, Kathryn A. Whitehead</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1093/neuonc/noae165.0468</guid>
+    </item>
+    <item>
+      <title>Effect of hollow fiber membrane packing on the performance of modules formed with fiber tows</title>
+      <link>https://doi.org/10.1080/01496395.2024.2424953</link>
+      <description>Lili Sun, Grigorios Panagakos, G. Glenn Lipscomb, Separation Science and Technology. None(None)] 2024. https://openalex.org/W4404278345
+
+                No abstract</description>
+      <author>Lili Sun, Grigorios Panagakos, G. Glenn Lipscomb</author>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/01496395.2024.2424953</guid>
     </item>
   </channel>
 </rss>

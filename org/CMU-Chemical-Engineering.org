@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Nov 13 01:20:11 2024
+Created on Thu Nov 14 01:20:13 2024
 
-Found 7 results from 2024-11-06 to 2024-11-13
+Found 8 results from 2024-11-07 to 2024-11-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -150,5 +150,26 @@ OpenAlex: https://openalex.org/W4404237621 (Open access: False)
 [[https://openalex.org/A5075263409][Saigopalakrishna S. Yerneni]], [[https://openalex.org/A5040413965][Juliana H. Azambuja]], [[https://openalex.org/A5114592335][Daria Strelkova-Petersen]], [[https://openalex.org/A5046764934][Brendan R. Gallagher]], [[https://openalex.org/A5027951877][Julie Shin Kim]], [[https://openalex.org/A5073121497][Namit Chaudhary]], [[https://openalex.org/A5084952545][Yongxin Zhao]], [[https://openalex.org/A5060040445][Peter C. Lucas]], [[https://openalex.org/A5034299577][Linda M. McAllister‐Lucas]], [[https://openalex.org/A5067992777][Norbert Pardi]], [[https://openalex.org/A5068253145][Drew Weissman]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], Neuro-Oncology. 26(Supplement_8)] 2024. https://doi.org/10.1093/neuonc/noae165.0468 
      
 Abstract Safe delivery of mRNA to the brain will revolutionize the treatment of brain tumors. While lipid nanoparticles (LNPs) are clinically most advanced non-viral delivery vehicles for therapeutic mRNA, LNP-mediated mRNA delivery to the brain remains challenging. We hypothesized that rationally designed LNPs based on extracellular vesicle mimicry would enable efficient delivery of RNA therapeutics to brain cells without undue toxicity. We engineered LNPs consisting of four components similar to the formulation used in the mRNA COVID-19 vaccines (Moderna and Pfizer-BioNTech): ionizable lipid, cholesterol, helper lipid and polyethylene glycol (PEG)-lipid. We screened ten classes of helper lipids based on lipids enriched in extracellular vesicles to engineer biomimetic LNPs and tested their GFP mRNA delivery efficacy in SIM-A9 mouse microglia cell line. Several unique LNP formulations with potent delivery efficacy (&gt;90% cells transfected) and stable GFP expression kinetics (5 days) were identified. LNP formulations with high transfection efficacy were then tested in vivo for luciferase mRNA delivery via intrathecal injection in C57BL/6 mice. Luciferase expression in vivo confirmed widespread mRNA delivery in the brain. We then tested Cre recombinase mRNA delivery in Ai9 mouse to identify LNP-targeted cells via flow cytometry and histology. Flow cytometry and expansion microscopy confirmed Cre recombinase mRNA delivery to a variety of brain cells, including microglia (75-90%), neurons (31-40%), neural stem cells (39-62%), oligodendrocytes (70-90%), and astrocytes (44-76%). LNPs were further evaluated for Cas9 mRNA and CD81 sgRNA delivery in C57BL/6 mouse brains to assess brain-targeted gene editing. Sanger sequencing showed that CRISPR-Cas9 editing was successful in ~40% of cells in the mouse brain. In summary, we engineered extracellular vesicle-based LNP library that can deliver RNA therapeutics to a variety of brain cells in vivo. With further development, this technology could potentially enable genetic and epigenetic therapies targeting drivers of brain tumors.    
+
+    
+
+* Effect of hollow fiber membrane packing on the performance of modules formed with fiber tows  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404278345
+:TOPICS: Membrane Gas Separation Technology, Graphene: Properties, Synthesis, and Applications, End-to-End Congestion Control in Networks
+:PUBLICATION_DATE: 2024-11-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1080/01496395.2024.2424953")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404278345"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404278345"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404278345"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404278345 (Open access: False)
+    
+[[https://openalex.org/A5034596712][Lili Sun]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], [[https://openalex.org/A5063620462][G. Glenn Lipscomb]], Separation Science and Technology. None(None)] 2024. https://doi.org/10.1080/01496395.2024.2424953 
+     
+No abstract    
 
     
