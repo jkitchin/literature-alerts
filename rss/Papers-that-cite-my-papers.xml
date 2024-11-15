@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Nov 2024 01:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 01:25:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; on a Well-Matched Substrate</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c03507</link>
-      <description>Liming Zeng, Biao Yuan, Qing Zhou, Langmuir. None(None)] 2024. https://openalex.org/W4404099969
-
-                Oxygen evolution reaction (OER) is a multistep proton-coupled four-electron process with sluggish kinetics, which seriously limits the hydrogen production efficiency, thus it is of great importance to develop an efficient and stable OER catalyst. In this study, a two-step differential pyrolysis strategy is employed to design a three-dimensional porous microstructured material consisting of RuOx nanoparticles coated by a thin-layer carbon, where the active particles were isolated in separate chambers and the RuOx nanoparticles mainly existed in the form of a heterogeneous interface between RuO2 and partial metallic Ru. The preparation parameters of the catalysts are optimized via combining transient and steady-state polarization properties, and the target catalyst Cat-500&#8211;1.5t shows the best OER catalytic performance after ca. 60 h of a chronopotentiometry test in an acidic medium with a much smaller performance change than other samples. The unique design of adopting a carbon layer to form separate reaction chambers largely mitigates the excessive oxidation loss of the active components under strong oxidation potential. The suitability of the catalyst with the loaded substrate and test media is explored, and in an acidic medium, the carbon paper is much better than the titanium fiber, while in an alkaline medium, the titanium fiber is obviously superior to the carbon paper. On both carbon paper and titanium fiber, the performance in an alkaline medium outperforms that in an acidic medium, and the possible reasons for the performance difference are analyzed. Herein, to obtain the actual electrocatalytic performance, the optimal design of the catalyst structure and matching suitable conductive substrate in a specific medium are quite necessary, which provides a feasible strategy for the acquisition of efficient and stable electrocatalysts and the desirable presentation of performance.</description>
-      <author>Liming Zeng, Biao Yuan, Qing Zhou</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03507</guid>
-    </item>
-    <item>
-      <title>Ab initio characterization of protein molecular dynamics with AI2BMD</title>
-      <link>https://doi.org/10.1038/s41586-024-08127-z</link>
-      <description>Tong Wang, Xinheng He, Mingyu Li, Yatao Li, Ran Bi, Yusong Wang, Chaoran Cheng, Xiangzhen Shen, Jiawei Meng, He Zhang, Haiguang Liu, Zun Wang, Shaoning Li, Bin Shao, Tie&#8208;Yan Liu, Nature. None(None)] 2024. https://openalex.org/W4404105372
-
-                Biomolecular dynamics simulation is a fundamental technology for life sciences research, and its usefulness depends on its accuracy and efficiency1&#8211;3. Classical molecular dynamics simulation is fast but lacks chemical accuracy4,5. Quantum chemistry methods such as density functional theory can reach chemical accuracy but cannot scale to support large biomolecules6. Here we introduce an artificial intelligence-based ab initio biomolecular dynamics system (AI2BMD) that can efficiently simulate full-atom large biomolecules with ab initio accuracy. AI2BMD uses a protein fragmentation scheme and a machine learning force field7 to achieve generalizable ab initio accuracy for energy and force calculations for various proteins comprising more than 10,000 atoms. Compared to density functional theory, it reduces the computational time by several orders of magnitude. With several hundred nanoseconds of dynamics simulations, AI2BMD demonstrated its ability to efficiently explore the conformational space of peptides and proteins, deriving accurate 3J couplings that match nuclear magnetic resonance experiments, and showing protein folding and unfolding processes. Furthermore, AI2BMD enables precise free-energy calculations for protein folding, and the estimated thermodynamic properties are well aligned with experiments. AI2BMD could potentially complement wet-lab experiments, detect the dynamic processes of bioactivities and enable biomedical research that is impossible to conduct at present. A study introduces AI2BMD, an artificial intelligence-based dynamics simulation program that uses protein fragmentation with a machine learning force field to accurately and efficiently model the folding and unfolding of large proteins.</description>
-      <author>Tong Wang, Xinheng He, Mingyu Li, Yatao Li, Ran Bi, Yusong Wang, Chaoran Cheng, Xiangzhen Shen, Jiawei Meng, He Zhang, Haiguang Liu, Zun Wang, Shaoning Li, Bin Shao, Tie&#8208;Yan Liu</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41586-024-08127-z</guid>
-    </item>
-    <item>
-      <title>Recent Spectroscopy Advances in Energy Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c05853</link>
-      <description>Qimei Yang, Xiaoyun Song, Ting Zheng, Jian Yang, Wei Ding, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404109663
-
-                No abstract</description>
-      <author>Qimei Yang, Xiaoyun Song, Ting Zheng, Jian Yang, Wei Ding</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05853</guid>
-    </item>
-    <item>
-      <title>Integrated Carbon Dioxide Capture by Amines and Conversion to Methane on Single-Atom Nickel Catalysts</title>
-      <link>https://doi.org/10.1021/jacs.4c09744</link>
-      <description>Tomaz Neves&#8208;Garcia, Mahmudul Hasan, Quansong Zhu, Jing Li, Zhan Jiang, Yongye Liang, Hailiang Wang, Liane M. Rossi, Robert E. Warburton, L. Robert Baker, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4404112538
-
-                Direct electrochemical reduction of carbon dioxide (CO2) capture species, i.e., carbamate and (bi)carbonate, can be promising for CO2 capture and conversion from point-source, where the energetically demanding stripping step is bypassed. Here, we describe a class of atomically dispersed nickel (Ni) catalysts electrodeposited on various electrode surfaces that are shown to directly convert captured CO2 to methane (CH4). A detailed study employing X-ray photoelectron spectroscopy (XPS) and electron microscopy (EM) indicate that highly dispersed Ni atoms are uniquely active for converting capture species to CH4, and the activity of single-atom Ni is confirmed using control experiments with a molecularly defined Ni phthalocyanine catalyst supported on carbon nanotubes. Comparing the kinetics of various capture solutions obtained from hydroxide, ammonia, primary, secondary, and tertiary amines provide evidence that carbamate, rather than (bi)carbonate and/or dissolved CO2, is primarily responsible for CH4 production. This conclusion is supported by 13C nuclear magnetic resonance (NMR) spectroscopy of capture solutions as well as control experiments comparing reaction selectivity with and without CO2 purging. These findings are understood with the help of density functional theory (DFT) calculations showing that single-atom nickel (Ni) dispersed on gold (Au) is active for the direct reduction of carbamate, producing CH4 as the primary product. This is the first example of direct electrochemical conversion of carbamate to CH4, and the mechanism of this process provides new insight on the potential for integrated capture and conversion of CO2 directly to hydrocarbons.</description>
-      <author>Tomaz Neves&#8208;Garcia, Mahmudul Hasan, Quansong Zhu, Jing Li, Zhan Jiang, Yongye Liang, Hailiang Wang, Liane M. Rossi, Robert E. Warburton, L. Robert Baker</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c09744</guid>
-    </item>
-    <item>
-      <title>Automated image acquisition and analysis of graphene and hexagonal boron nitride from pristine to highly defective and amorphous structures</title>
-      <link>https://doi.org/10.1038/s41598-024-77740-9</link>
-      <description>Diana Propst, Wael Joudi, Manuel L&#228;ngle, Jacob Madsen, Clara Kofler, Barbara Maria Mayer, David Lamprecht, Clemens Mangler, Lado Filipovic, Toma Susi, Jani Kotakoski, Scientific Reports. 14(1)] 2024. https://openalex.org/W4404112546
-
-                Abstract Defect-engineered and even amorphous two-dimensional (2D) materials have recently gained interest due to properties that differ from their pristine counterparts. Since these properties are highly sensitive to the exact atomic structure, it is crucial to be able to characterize them at atomic resolution over large areas. This is only possible when the imaging process is automated to reduce the time spent on manual imaging, which at the same time reduces the observer bias in selecting the imaged areas. Since the necessary datasets include at least hundreds if not thousands of images, the analysis process similarly needs to be automated. Here, we introduce disorder into graphene and monolayer hexagonal boron nitride (hBN) using low-energy argon ion irradiation, and characterize the resulting disordered structures using automated scanning transmission electron microscopy annular dark field imaging combined with convolutional neural network-based analysis techniques. We show that disorder manifests in these materials in a markedly different way, where graphene accommodates vacancy-type defects by transforming hexagonal carbon rings into other polygonal shapes, whereas in hBN the disorder is observed simply as vacant lattice sites with very little rearrangement of the remaining atoms. Correspondingly, in the case of graphene, the highest introduced disorder leads to an amorphous membrane, whereas in hBN, the highly defective lattice contains a large number of vacancies and small pores with no indication of amorphisation. Overall, our study demonstrates that combining automated imaging and image analysis is a powerful way to characterize the structure of disordered and amorphous 2D materials, while also illustrating some of the remaining shortcomings with this methodology.</description>
-      <author>Diana Propst, Wael Joudi, Manuel L&#228;ngle, Jacob Madsen, Clara Kofler, Barbara Maria Mayer, David Lamprecht, Clemens Mangler, Lado Filipovic, Toma Susi, Jani Kotakoski</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-77740-9</guid>
-    </item>
     <item>
       <title>Mo2B2O2-supported Cu and Ni heterogeneous dual atom catalysts for oxygen reduction reactions and oxygen evolution reactions</title>
       <link>https://doi.org/10.1016/j.commatsci.2024.113505</link>
@@ -426,6 +376,146 @@
       <author>Yuxi Cao, Keng Shen, Yuanfei Li, F. Lan, Zeyu Guo, K. H. Zhang, Kang Wang, Feng Jiang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta06128d</guid>
+    </item>
+    <item>
+      <title>Boosting the catalytic performance of carbon nitrides for overall water splitting by tuning the C/N ratio: A theoretical investigation</title>
+      <link>https://doi.org/10.1016/j.cplett.2024.141750</link>
+      <description>Afshan Mohajeri, Fatemeh Ansari, Chemical Physics Letters. None(None)] 2024. https://openalex.org/W4404291995
+
+                No abstract</description>
+      <author>Afshan Mohajeri, Fatemeh Ansari</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141750</guid>
+    </item>
+    <item>
+      <title>Theoretical insights into the essential role of weak interactions in the electrocatalytic reduction of nitrobenzene: Ag-anchored graphene electrode</title>
+      <link>https://doi.org/10.1016/j.chemphys.2024.112513</link>
+      <description>Jiake Fan, Lei Yang, Lixin Ye, Weihua Zhu, Chemical Physics. None(None)] 2024. https://openalex.org/W4404293862
+
+                No abstract</description>
+      <author>Jiake Fan, Lei Yang, Lixin Ye, Weihua Zhu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2024.112513</guid>
+    </item>
+    <item>
+      <title>Two-Dimensional Topological Platinum Telluride Superstructures with Periodic Tellurium Vacancies for Efficient and Robust Catalysis</title>
+      <link>https://doi.org/10.1021/acsnano.4c10085</link>
+      <description>Xin Xu, Sheng Wang, Shuming Yu, Chenhui Wang, Guowei Liu, Hao Li, Jiangang Yang, Jing Li, Tao Sun, Xiao Hai, Lei Li, Xue Liu, Ying Zhang, Weifeng Zhang, Quan Zhang, Kedong Wang, Nan Xu, Yaping Ma, Fangfei Ming, Ping Cui, Jiong Lu, Zhenyu Zhang, Xudong Xiao, ACS Nano. None(None)] 2024. https://openalex.org/W4404297417
+
+                No abstract</description>
+      <author>Xin Xu, Sheng Wang, Shuming Yu, Chenhui Wang, Guowei Liu, Hao Li, Jiangang Yang, Jing Li, Tao Sun, Xiao Hai, Lei Li, Xue Liu, Ying Zhang, Weifeng Zhang, Quan Zhang, Kedong Wang, Nan Xu, Yaping Ma, Fangfei Ming, Ping Cui, Jiong Lu, Zhenyu Zhang, Xudong Xiao</author>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c10085</guid>
+    </item>
+    <item>
+      <title>A Comparison of Modern Solvation Models for Oxygen Reduction at the Pt(111) Interface</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04924</link>
+      <description>Tom Demeyere, Chris&#8208;Kriton Skylaris, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404299800
+
+                No abstract</description>
+      <author>Tom Demeyere, Chris&#8208;Kriton Skylaris</author>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04924</guid>
+    </item>
+    <item>
+      <title>Revealing the Ultrafast Energy Transfer Pathways in Energetic Materials: Time-Dependent and Quantum State-Resolved</title>
+      <link>https://doi.org/10.1021/jacsau.4c00775</link>
+      <description>Jia Liu, Jitai Yang, Gangbei Zhu, Jiarui Li, You Li, Yu Zhai, Hua-Jie Song, Yanqiang Yang, Hui Li, JACS Au. None(None)] 2024. https://openalex.org/W4404302254
+
+                No abstract</description>
+      <author>Jia Liu, Jitai Yang, Gangbei Zhu, Jiarui Li, You Li, Yu Zhai, Hua-Jie Song, Yanqiang Yang, Hui Li</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.4c00775</guid>
+    </item>
+    <item>
+      <title>Toward first principles-based simulations of dense hydrogen</title>
+      <link>https://doi.org/10.1063/5.0219405</link>
+      <description>M. B&#246;nitz, Jan Vorberger, Mandy Bethkenhagen, Maximilian B&#246;hme, David M. Ceperley, A. Filinov, Thomas Gawne, Frank Graziani, G. Gregori, Paul Hamann, Stephanie B. Hansen, Markus Holzmann, S. X. Hu, H. K&#228;hlert, Valentin V. Karasiev, Uwe Kleinschmidt, Linda Kordts, Christopher Makait, Burkhard Militzer, Zhandos A. Moldabekov, Carlo Pierleoni, Martin Preising, Kushal Ramakrishna, R. Redmer, Sebastian Schwalbe, Pontus Svensson, Tobias Dornheim, Physics of Plasmas. 31(11)] 2024. https://openalex.org/W4404306208
+
+                Accurate knowledge of the properties of hydrogen at high compression is crucial for astrophysics (e.g., planetary and stellar interiors, brown dwarfs, atmosphere of compact stars) and laboratory experiments, including inertial confinement fusion. There exists experimental data for the equation of state, conductivity, and Thomson scattering spectra. However, the analysis of the measurements at extreme pressures and temperatures typically involves additional model assumptions, which makes it difficult to assess the accuracy of the experimental data rigorously. On the other hand, theory and modeling have produced extensive collections of data. They originate from a very large variety of models and simulations including path integral Monte Carlo (PIMC) simulations, density functional theory (DFT), chemical models, machine-learned models, and combinations thereof. At the same time, each of these methods has fundamental limitations (fermion sign problem in PIMC, approximate exchange&#8211;correlation functionals of DFT, inconsistent interaction energy contributions in chemical models, etc.), so for some parameter ranges accurate predictions are difficult. Recently, a number of breakthroughs in first principles PIMC as well as in DFT simulations were achieved which are discussed in this review. Here we use these results to benchmark different simulation methods. We present an update of the hydrogen phase diagram at high pressures, the expected phase transitions, and thermodynamic properties including the equation of state and momentum distribution. Furthermore, we discuss available dynamic results for warm dense hydrogen, including the conductivity, dynamic structure factor, plasmon dispersion, imaginary-time structure, and density response functions. We conclude by outlining strategies to combine different simulations to achieve accurate theoretical predictions that are based on first principles.</description>
+      <author>M. B&#246;nitz, Jan Vorberger, Mandy Bethkenhagen, Maximilian B&#246;hme, David M. Ceperley, A. Filinov, Thomas Gawne, Frank Graziani, G. Gregori, Paul Hamann, Stephanie B. Hansen, Markus Holzmann, S. X. Hu, H. K&#228;hlert, Valentin V. Karasiev, Uwe Kleinschmidt, Linda Kordts, Christopher Makait, Burkhard Militzer, Zhandos A. Moldabekov, Carlo Pierleoni, Martin Preising, Kushal Ramakrishna, R. Redmer, Sebastian Schwalbe, Pontus Svensson, Tobias Dornheim</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0219405</guid>
+    </item>
+    <item>
+      <title>Covalent Surface Functionalization of Exfoliated MoS&lt;sub&gt;2&lt;/sub&gt; Nanosheets for Improved Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c05965</link>
+      <description>Leandro Hostert, Matheus Santos Dias, Caroline B. de Aquino, F. Santos, Val&#233;ria S. Marangoni, Cec&#237;lia de Carvalho Castro Silva, Leandro Seixas, Camila M. Maroneze, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404308961
+
+                No abstract</description>
+      <author>Leandro Hostert, Matheus Santos Dias, Caroline B. de Aquino, F. Santos, Val&#233;ria S. Marangoni, Cec&#237;lia de Carvalho Castro Silva, Leandro Seixas, Camila M. Maroneze</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05965</guid>
+    </item>
+    <item>
+      <title>Prediction of Potential-Dependent Kinetics for the Electrocatalytic Reduction of CO&lt;sub&gt;2&lt;/sub&gt; to CO over Ti@4N-Gr</title>
+      <link>https://doi.org/10.1021/acselectrochem.4c00073</link>
+      <description>Yousef A. Alsunni, Abdulaziz Alherz, Charles B. Musgrave, No host. None(None)] 2024. https://openalex.org/W4404317122
+
+                No abstract</description>
+      <author>Yousef A. Alsunni, Abdulaziz Alherz, Charles B. Musgrave</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acselectrochem.4c00073</guid>
+    </item>
+    <item>
+      <title>Highly Efficient Catalytic Activity of MXene Nanosheet Supported on CuFeO2 Nanoparticles Applied on Hydrogen Evolution</title>
+      <link>https://doi.org/10.1016/j.ceramint.2024.11.181</link>
+      <description>Zhen-Yuan Lan, Dhanapal Vasu, Yung&#8208;Chieh Liu, Chung&#8208;Lun Yu, Te&#8208;Wei Chiu, Tetsu Yonezawa, Hongbing Jia, Ceramics International. None(None)] 2024. https://openalex.org/W4404318336
+
+                No abstract</description>
+      <author>Zhen-Yuan Lan, Dhanapal Vasu, Yung&#8208;Chieh Liu, Chung&#8208;Lun Yu, Te&#8208;Wei Chiu, Tetsu Yonezawa, Hongbing Jia</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2024.11.181</guid>
+    </item>
+    <item>
+      <title>Towards superior CO2RR catalysts: Deciphering the selectivity puzzle over dual-atom catalyst</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.11.080</link>
+      <description>Jia Zhao, Sen Lin, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4404319061
+
+                No abstract</description>
+      <author>Jia Zhao, Sen Lin</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.080</guid>
+    </item>
+    <item>
+      <title>Iron-Based Layered Perovskite Oxyfluoride Electrocatalyst for Oxygen Evolution: Insights from Crystal Facets with Heteroanionic Coordination</title>
+      <link>https://doi.org/10.1021/jacs.4c05740</link>
+      <description>Ryusuke Mizuochi, Yuuki Sugawara, Kengo Oka, Yoshiyuki Inaguma, Shunsuke Nozawa, Toshiyuki Yokoi, Takeo Yamaguchi, Kazuhiko Maeda, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4404320100
+
+                No abstract</description>
+      <author>Ryusuke Mizuochi, Yuuki Sugawara, Kengo Oka, Yoshiyuki Inaguma, Shunsuke Nozawa, Toshiyuki Yokoi, Takeo Yamaguchi, Kazuhiko Maeda</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c05740</guid>
+    </item>
+    <item>
+      <title>Ultrafine Ruthenium Nanoparticles Anchored on S,N-Codoped Carbon Nanofibers for H&lt;sub&gt;2&lt;/sub&gt; and Electricity Coproduction</title>
+      <link>https://doi.org/10.1021/acssuschemeng.4c07973</link>
+      <description>Yaxin Lai, Lvlv Ji, Jianying Wang, Jiangnan Shen, Junbin Liao, Xiaoyang He, Li Wang, Zuofeng Chen, Li Wang, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4404320510
+
+                No abstract</description>
+      <author>Yaxin Lai, Lvlv Ji, Jianying Wang, Jiangnan Shen, Junbin Liao, Xiaoyang He, Li Wang, Zuofeng Chen, Li Wang</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c07973</guid>
+    </item>
+    <item>
+      <title>Dual active site pathways in cobalt-based bimetallic catalysts enhance oxygen evolution reaction activity: Density functional theory studies</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105428</link>
+      <description>Zeliang Ju, Xiujuan Tan, X.Y. Zhang, Yong Wang, Chengfeng Yin, Qingxin Kang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4404321196
+
+                No abstract</description>
+      <author>Zeliang Ju, Xiujuan Tan, X.Y. Zhang, Yong Wang, Chengfeng Yin, Qingxin Kang</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105428</guid>
+    </item>
+    <item>
+      <title>An Analysis of the Conceptual and Functional Factors Affecting the Effectiveness of Proton-Exchange Membrane Water Electrolysis</title>
+      <link>https://doi.org/10.3390/chemengineering8060116</link>
+      <description>Gaydaa Al Zohbi, ChemEngineering. 8(6)] 2024. https://openalex.org/W4404322371
+
+                Hydrogen has the potential to decarbonize the energy and industrial sectors in the future, mainly if it is generated by water electrolysis. The proton-exchange membrane water electrolysis (PEMWE) system is regarded as a propitious technology to produce green hydrogen from water using power supplied by renewable energy sources. It offers many benefits, such as high performance, high proton conductibility, quick response, compact size, and low working temperature. Many conceptual and functional parameters influence the effectiveness of PEM, including temperature, pressure of anode and cathode regions, water content and wideness of the layer, and cathode and anode exchange current density. In addition, the anodic half-reaction (known as the oxygen evolution reaction (OER)) and cathodic half-reaction (known as the hydrogen evolution reaction (HER)) perform an important function in the development of PEMWE. The current study aims to present these parameters and discuss their impacts on the performance of PEM. Also, the PEM efficiency is presented. The different methods used to enhance the scattering of OER electrocatalysts and minimize catalyst loading to minimize the price of PEMWE are also highlighted. Moreover, the alternative noble metals that could be used as electrocatalysts in HER and OER to minimize the cost of PEM are reviewed and presented.</description>
+      <author>Gaydaa Al Zohbi</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/chemengineering8060116</guid>
     </item>
     <item>
       <title>Embedding material graphs using the electron-ion potential: application to material fracture</title>

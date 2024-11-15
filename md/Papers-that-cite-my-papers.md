@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Nov 14 01:20:23 2024
+Created on Fri Nov 15 01:25:06 2024
 
-Found 44 results from 2024-11-07 to 2024-11-14
+Found 53 results from 2024-11-08 to 2024-11-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,61 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Enabling Efficient Oxygen Evolution via Anchoring Carbon-Layer-Confined RuOx on a Well-Matched Substrate   
-
-OpenAlex: https://openalex.org/W4404099969    
-Open access: False
-    
-[Liming Zeng](https://openalex.org/A5068534193), [Biao Yuan](https://openalex.org/A5076170351), [Qing Zhou](https://openalex.org/A5081814287), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c03507.
-    
-Oxygen evolution reaction (OER) is a multistep proton-coupled four-electron process with sluggish kinetics, which seriously limits the hydrogen production efficiency, thus it is of great importance to develop an efficient and stable OER catalyst. In this study, a two-step differential pyrolysis strategy is employed to design a three-dimensional porous microstructured material consisting of RuOx nanoparticles coated by a thin-layer carbon, where the active particles were isolated in separate chambers and the RuOx nanoparticles mainly existed in the form of a heterogeneous interface between RuO2 and partial metallic Ru. The preparation parameters of the catalysts are optimized via combining transient and steady-state polarization properties, and the target catalyst Cat-500–1.5t shows the best OER catalytic performance after ca. 60 h of a chronopotentiometry test in an acidic medium with a much smaller performance change than other samples. The unique design of adopting a carbon layer to form separate reaction chambers largely mitigates the excessive oxidation loss of the active components under strong oxidation potential. The suitability of the catalyst with the loaded substrate and test media is explored, and in an acidic medium, the carbon paper is much better than the titanium fiber, while in an alkaline medium, the titanium fiber is obviously superior to the carbon paper. On both carbon paper and titanium fiber, the performance in an alkaline medium outperforms that in an acidic medium, and the possible reasons for the performance difference are analyzed. Herein, to obtain the actual electrocatalytic performance, the optimal design of the catalyst structure and matching suitable conductive substrate in a specific medium are quite necessary, which provides a feasible strategy for the acquisition of efficient and stable electrocatalysts and the desirable presentation of performance.    
-
-    
-
-## Ab initio characterization of protein molecular dynamics with AI2BMD   
-
-OpenAlex: https://openalex.org/W4404105372    
-Open access: True
-    
-[Tong Wang](https://openalex.org/A5100451017), [Xinheng He](https://openalex.org/A5037530308), [Mingyu Li](https://openalex.org/A5100335526), [Yatao Li](https://openalex.org/A5057973279), [Ran Bi](https://openalex.org/A5021142577), [Yusong Wang](https://openalex.org/A5100706497), [Chaoran Cheng](https://openalex.org/A5083138387), [Xiangzhen Shen](https://openalex.org/A5080875885), [Jiawei Meng](https://openalex.org/A5060950346), [He Zhang](https://openalex.org/A5101655524), [Haiguang Liu](https://openalex.org/A5072407378), [Zun Wang](https://openalex.org/A5101452806), [Shaoning Li](https://openalex.org/A5101409137), [Bin Shao](https://openalex.org/A5101518422), [Tie‐Yan Liu](https://openalex.org/A5101884287), Nature. None(None)] 2024.https://doi.org/10.1038/s41586-024-08127-z.
-    
-Biomolecular dynamics simulation is a fundamental technology for life sciences research, and its usefulness depends on its accuracy and efficiency1–3. Classical molecular dynamics simulation is fast but lacks chemical accuracy4,5. Quantum chemistry methods such as density functional theory can reach chemical accuracy but cannot scale to support large biomolecules6. Here we introduce an artificial intelligence-based ab initio biomolecular dynamics system (AI2BMD) that can efficiently simulate full-atom large biomolecules with ab initio accuracy. AI2BMD uses a protein fragmentation scheme and a machine learning force field7 to achieve generalizable ab initio accuracy for energy and force calculations for various proteins comprising more than 10,000 atoms. Compared to density functional theory, it reduces the computational time by several orders of magnitude. With several hundred nanoseconds of dynamics simulations, AI2BMD demonstrated its ability to efficiently explore the conformational space of peptides and proteins, deriving accurate 3J couplings that match nuclear magnetic resonance experiments, and showing protein folding and unfolding processes. Furthermore, AI2BMD enables precise free-energy calculations for protein folding, and the estimated thermodynamic properties are well aligned with experiments. AI2BMD could potentially complement wet-lab experiments, detect the dynamic processes of bioactivities and enable biomedical research that is impossible to conduct at present. A study introduces AI2BMD, an artificial intelligence-based dynamics simulation program that uses protein fragmentation with a machine learning force field to accurately and efficiently model the folding and unfolding of large proteins.    
-
-    
-
-## Recent Spectroscopy Advances in Energy Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4404109663    
-Open access: False
-    
-[Qimei Yang](https://openalex.org/A5003101550), [Xiaoyun Song](https://openalex.org/A5102753305), [Ting Zheng](https://openalex.org/A5049841576), [Jian Yang](https://openalex.org/A5000485505), [Wei Ding](https://openalex.org/A5047787756), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c05853.
-    
-No abstract    
-
-    
-
-## Integrated Carbon Dioxide Capture by Amines and Conversion to Methane on Single-Atom Nickel Catalysts   
-
-OpenAlex: https://openalex.org/W4404112538    
-Open access: False
-    
-[Tomaz Neves‐Garcia](https://openalex.org/A5089376840), [Mahmudul Hasan](https://openalex.org/A5018164116), [Quansong Zhu](https://openalex.org/A5068666579), [Jing Li](https://openalex.org/A5100694993), [Zhan Jiang](https://openalex.org/A5101388368), [Yongye Liang](https://openalex.org/A5017109982), [Hailiang Wang](https://openalex.org/A5052874755), [Liane M. Rossi](https://openalex.org/A5063441901), [Robert E. Warburton](https://openalex.org/A5037300903), [L. Robert Baker](https://openalex.org/A5067119819), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c09744.
-    
-Direct electrochemical reduction of carbon dioxide (CO2) capture species, i.e., carbamate and (bi)carbonate, can be promising for CO2 capture and conversion from point-source, where the energetically demanding stripping step is bypassed. Here, we describe a class of atomically dispersed nickel (Ni) catalysts electrodeposited on various electrode surfaces that are shown to directly convert captured CO2 to methane (CH4). A detailed study employing X-ray photoelectron spectroscopy (XPS) and electron microscopy (EM) indicate that highly dispersed Ni atoms are uniquely active for converting capture species to CH4, and the activity of single-atom Ni is confirmed using control experiments with a molecularly defined Ni phthalocyanine catalyst supported on carbon nanotubes. Comparing the kinetics of various capture solutions obtained from hydroxide, ammonia, primary, secondary, and tertiary amines provide evidence that carbamate, rather than (bi)carbonate and/or dissolved CO2, is primarily responsible for CH4 production. This conclusion is supported by 13C nuclear magnetic resonance (NMR) spectroscopy of capture solutions as well as control experiments comparing reaction selectivity with and without CO2 purging. These findings are understood with the help of density functional theory (DFT) calculations showing that single-atom nickel (Ni) dispersed on gold (Au) is active for the direct reduction of carbamate, producing CH4 as the primary product. This is the first example of direct electrochemical conversion of carbamate to CH4, and the mechanism of this process provides new insight on the potential for integrated capture and conversion of CO2 directly to hydrocarbons.    
-
-    
-
-## Automated image acquisition and analysis of graphene and hexagonal boron nitride from pristine to highly defective and amorphous structures   
-
-OpenAlex: https://openalex.org/W4404112546    
-Open access: True
-    
-[Diana Propst](https://openalex.org/A5037286941), [Wael Joudi](https://openalex.org/A5061525811), [Manuel Längle](https://openalex.org/A5035558275), [Jacob Madsen](https://openalex.org/A5089971005), [Clara Kofler](https://openalex.org/A5095375477), [Barbara Maria Mayer](https://openalex.org/A5101335349), [David Lamprecht](https://openalex.org/A5105052117), [Clemens Mangler](https://openalex.org/A5066503119), [Lado Filipovic](https://openalex.org/A5083434497), [Toma Susi](https://openalex.org/A5024871823), [Jani Kotakoski](https://openalex.org/A5003528240), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-77740-9.
-    
-Abstract Defect-engineered and even amorphous two-dimensional (2D) materials have recently gained interest due to properties that differ from their pristine counterparts. Since these properties are highly sensitive to the exact atomic structure, it is crucial to be able to characterize them at atomic resolution over large areas. This is only possible when the imaging process is automated to reduce the time spent on manual imaging, which at the same time reduces the observer bias in selecting the imaged areas. Since the necessary datasets include at least hundreds if not thousands of images, the analysis process similarly needs to be automated. Here, we introduce disorder into graphene and monolayer hexagonal boron nitride (hBN) using low-energy argon ion irradiation, and characterize the resulting disordered structures using automated scanning transmission electron microscopy annular dark field imaging combined with convolutional neural network-based analysis techniques. We show that disorder manifests in these materials in a markedly different way, where graphene accommodates vacancy-type defects by transforming hexagonal carbon rings into other polygonal shapes, whereas in hBN the disorder is observed simply as vacant lattice sites with very little rearrangement of the remaining atoms. Correspondingly, in the case of graphene, the highest introduced disorder leads to an amorphous membrane, whereas in hBN, the highly defective lattice contains a large number of vacancies and small pores with no indication of amorphisation. Overall, our study demonstrates that combining automated imaging and image analysis is a powerful way to characterize the structure of disordered and amorphous 2D materials, while also illustrating some of the remaining shortcomings with this methodology.    
-
-    
 
 ## Mo2B2O2-supported Cu and Ni heterogeneous dual atom catalysts for oxygen reduction reactions and oxygen evolution reactions   
 
@@ -476,6 +421,160 @@ Open access: False
 [Yuxi Cao](https://openalex.org/A5101339662), [Keng Shen](https://openalex.org/A5101867961), [Yuanfei Li](https://openalex.org/A5054163588), [F. Lan](https://openalex.org/A5088060824), [Zeyu Guo](https://openalex.org/A5114585443), [K. H. Zhang](https://openalex.org/A5070069569), [Kang Wang](https://openalex.org/A5100381661), [Feng Jiang](https://openalex.org/A5087271274), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta06128d.
     
 With the help of machine learning algorithms, we developed software that can predict the performance of copper-based sulfide photocathodes and this system shows excellent accuracy of up to 96%.    
+
+    
+
+## Boosting the catalytic performance of carbon nitrides for overall water splitting by tuning the C/N ratio: A theoretical investigation   
+
+OpenAlex: https://openalex.org/W4404291995    
+Open access: False
+    
+[Afshan Mohajeri](https://openalex.org/A5004562692), [Fatemeh Ansari](https://openalex.org/A5008448593), Chemical Physics Letters. None(None)] 2024.https://doi.org/10.1016/j.cplett.2024.141750.
+    
+No abstract    
+
+    
+
+## Theoretical insights into the essential role of weak interactions in the electrocatalytic reduction of nitrobenzene: Ag-anchored graphene electrode   
+
+OpenAlex: https://openalex.org/W4404293862    
+Open access: False
+    
+[Jiake Fan](https://openalex.org/A5076273508), [Lei Yang](https://openalex.org/A5100651490), [Lixin Ye](https://openalex.org/A5048770988), [Weihua Zhu](https://openalex.org/A5057295660), Chemical Physics. None(None)] 2024.https://doi.org/10.1016/j.chemphys.2024.112513.
+    
+No abstract    
+
+    
+
+## Two-Dimensional Topological Platinum Telluride Superstructures with Periodic Tellurium Vacancies for Efficient and Robust Catalysis   
+
+OpenAlex: https://openalex.org/W4404297417    
+Open access: False
+    
+[Xin Xu](https://openalex.org/A5049781553), [Sheng Wang](https://openalex.org/A5100371335), [Shuming Yu](https://openalex.org/A5101315418), [Chenhui Wang](https://openalex.org/A5100369503), [Guowei Liu](https://openalex.org/A5100604404), [Hao Li](https://openalex.org/A5100348587), [Jiangang Yang](https://openalex.org/A5109313860), [Jing Li](https://openalex.org/A5100336948), [Tao Sun](https://openalex.org/A5029275866), [Xiao Hai](https://openalex.org/A5010823614), [Lei Li](https://openalex.org/A5100440390), [Xue Liu](https://openalex.org/A5100372244), [Ying Zhang](https://openalex.org/A5100386284), [Weifeng Zhang](https://openalex.org/A5100426688), [Quan Zhang](https://openalex.org/A5100406670), [Kedong Wang](https://openalex.org/A5101461331), [Nan Xu](https://openalex.org/A5025274226), [Yaping Ma](https://openalex.org/A5088543745), [Fangfei Ming](https://openalex.org/A5000566039), [Ping Cui](https://openalex.org/A5055212155), [Jiong Lu](https://openalex.org/A5063163179), [Zhenyu Zhang](https://openalex.org/A5100389500), [Xudong Xiao](https://openalex.org/A5110665338), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c10085.
+    
+No abstract    
+
+    
+
+## A Comparison of Modern Solvation Models for Oxygen Reduction at the Pt(111) Interface   
+
+OpenAlex: https://openalex.org/W4404299800    
+Open access: True
+    
+[Tom Demeyere](https://openalex.org/A5007438962), [Chris‐Kriton Skylaris](https://openalex.org/A5005828580), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c04924.
+    
+No abstract    
+
+    
+
+## Revealing the Ultrafast Energy Transfer Pathways in Energetic Materials: Time-Dependent and Quantum State-Resolved   
+
+OpenAlex: https://openalex.org/W4404302254    
+Open access: True
+    
+[Jia Liu](https://openalex.org/A5102309989), [Jitai Yang](https://openalex.org/A5044186980), [Gangbei Zhu](https://openalex.org/A5112390810), [Jiarui Li](https://openalex.org/A5100414551), [You Li](https://openalex.org/A5100401844), [Yu Zhai](https://openalex.org/A5059941270), [Hua-Jie Song](https://openalex.org/A5068411709), [Yanqiang Yang](https://openalex.org/A5107024364), [Hui Li](https://openalex.org/A5100634336), JACS Au. None(None)] 2024.https://doi.org/10.1021/jacsau.4c00775.
+    
+No abstract    
+
+    
+
+## Toward first principles-based simulations of dense hydrogen   
+
+OpenAlex: https://openalex.org/W4404306208    
+Open access: False
+    
+[M. Bönitz](https://openalex.org/A5024438575), [Jan Vorberger](https://openalex.org/A5015865543), [Mandy Bethkenhagen](https://openalex.org/A5075035970), [Maximilian Böhme](https://openalex.org/A5046006075), [David M. Ceperley](https://openalex.org/A5011485947), [A. Filinov](https://openalex.org/A5002133979), [Thomas Gawne](https://openalex.org/A5084117865), [Frank Graziani](https://openalex.org/A5048409114), [G. Gregori](https://openalex.org/A5043879934), [Paul Hamann](https://openalex.org/A5058259044), [Stephanie B. Hansen](https://openalex.org/A5075673081), [Markus Holzmann](https://openalex.org/A5103900600), [S. X. Hu](https://openalex.org/A5000028310), [H. Kählert](https://openalex.org/A5048706071), [Valentin V. Karasiev](https://openalex.org/A5074057173), [Uwe Kleinschmidt](https://openalex.org/A5050305186), [Linda Kordts](https://openalex.org/A5078554725), [Christopher Makait](https://openalex.org/A5021230968), [Burkhard Militzer](https://openalex.org/A5023169746), [Zhandos A. Moldabekov](https://openalex.org/A5082224651), [Carlo Pierleoni](https://openalex.org/A5004152719), [Martin Preising](https://openalex.org/A5042019990), [Kushal Ramakrishna](https://openalex.org/A5048882561), [R. Redmer](https://openalex.org/A5039228894), [Sebastian Schwalbe](https://openalex.org/A5000808870), [Pontus Svensson](https://openalex.org/A5089024024), [Tobias Dornheim](https://openalex.org/A5019440366), Physics of Plasmas. 31(11)] 2024.https://doi.org/10.1063/5.0219405.
+    
+Accurate knowledge of the properties of hydrogen at high compression is crucial for astrophysics (e.g., planetary and stellar interiors, brown dwarfs, atmosphere of compact stars) and laboratory experiments, including inertial confinement fusion. There exists experimental data for the equation of state, conductivity, and Thomson scattering spectra. However, the analysis of the measurements at extreme pressures and temperatures typically involves additional model assumptions, which makes it difficult to assess the accuracy of the experimental data rigorously. On the other hand, theory and modeling have produced extensive collections of data. They originate from a very large variety of models and simulations including path integral Monte Carlo (PIMC) simulations, density functional theory (DFT), chemical models, machine-learned models, and combinations thereof. At the same time, each of these methods has fundamental limitations (fermion sign problem in PIMC, approximate exchange–correlation functionals of DFT, inconsistent interaction energy contributions in chemical models, etc.), so for some parameter ranges accurate predictions are difficult. Recently, a number of breakthroughs in first principles PIMC as well as in DFT simulations were achieved which are discussed in this review. Here we use these results to benchmark different simulation methods. We present an update of the hydrogen phase diagram at high pressures, the expected phase transitions, and thermodynamic properties including the equation of state and momentum distribution. Furthermore, we discuss available dynamic results for warm dense hydrogen, including the conductivity, dynamic structure factor, plasmon dispersion, imaginary-time structure, and density response functions. We conclude by outlining strategies to combine different simulations to achieve accurate theoretical predictions that are based on first principles.    
+
+    
+
+## Covalent Surface Functionalization of Exfoliated MoS2 Nanosheets for Improved Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4404308961    
+Open access: True
+    
+[Leandro Hostert](https://openalex.org/A5060533912), [Matheus Santos Dias](https://openalex.org/A5030616636), [Caroline B. de Aquino](https://openalex.org/A5066825031), [F. Santos](https://openalex.org/A5111273565), [Valéria S. Marangoni](https://openalex.org/A5051480523), [Cecília de Carvalho Castro Silva](https://openalex.org/A5000475694), [Leandro Seixas](https://openalex.org/A5023824218), [Camila M. Maroneze](https://openalex.org/A5007253244), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c05965.
+    
+No abstract    
+
+    
+
+## Prediction of Potential-Dependent Kinetics for the Electrocatalytic Reduction of CO2 to CO over Ti@4N-Gr   
+
+OpenAlex: https://openalex.org/W4404317122    
+Open access: False
+    
+[Yousef A. Alsunni](https://openalex.org/A5039940210), [Abdulaziz Alherz](https://openalex.org/A5018905904), [Charles B. Musgrave](https://openalex.org/A5030433764), No host. None(None)] 2024.https://doi.org/10.1021/acselectrochem.4c00073.
+    
+No abstract    
+
+    
+
+## Highly Efficient Catalytic Activity of MXene Nanosheet Supported on CuFeO2 Nanoparticles Applied on Hydrogen Evolution   
+
+OpenAlex: https://openalex.org/W4404318336    
+Open access: False
+    
+[Zhen-Yuan Lan](https://openalex.org/A5112935735), [Dhanapal Vasu](https://openalex.org/A5052128854), [Yung‐Chieh Liu](https://openalex.org/A5072371447), [Chung‐Lun Yu](https://openalex.org/A5050247108), [Te‐Wei Chiu](https://openalex.org/A5038395172), [Tetsu Yonezawa](https://openalex.org/A5065530384), [Hongbing Jia](https://openalex.org/A5006706034), Ceramics International. None(None)] 2024.https://doi.org/10.1016/j.ceramint.2024.11.181.
+    
+No abstract    
+
+    
+
+## Towards superior CO2RR catalysts: Deciphering the selectivity puzzle over dual-atom catalyst   
+
+OpenAlex: https://openalex.org/W4404319061    
+Open access: False
+    
+[Jia Zhao](https://openalex.org/A5081362621), [Sen Lin](https://openalex.org/A5016546361), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.11.080.
+    
+No abstract    
+
+    
+
+## Iron-Based Layered Perovskite Oxyfluoride Electrocatalyst for Oxygen Evolution: Insights from Crystal Facets with Heteroanionic Coordination   
+
+OpenAlex: https://openalex.org/W4404320100    
+Open access: True
+    
+[Ryusuke Mizuochi](https://openalex.org/A5086082450), [Yuuki Sugawara](https://openalex.org/A5020049969), [Kengo Oka](https://openalex.org/A5031898574), [Yoshiyuki Inaguma](https://openalex.org/A5082455990), [Shunsuke Nozawa](https://openalex.org/A5061727001), [Toshiyuki Yokoi](https://openalex.org/A5074713586), [Takeo Yamaguchi](https://openalex.org/A5020439739), [Kazuhiko Maeda](https://openalex.org/A5058951596), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c05740.
+    
+No abstract    
+
+    
+
+## Ultrafine Ruthenium Nanoparticles Anchored on S,N-Codoped Carbon Nanofibers for H2 and Electricity Coproduction   
+
+OpenAlex: https://openalex.org/W4404320510    
+Open access: False
+    
+[Yaxin Lai](https://openalex.org/A5114194365), [Lvlv Ji](https://openalex.org/A5012250422), [Jianying Wang](https://openalex.org/A5100737528), [Jiangnan Shen](https://openalex.org/A5022984581), [Junbin Liao](https://openalex.org/A5026441839), [Xiaoyang He](https://openalex.org/A5018815272), [Li Wang](https://openalex.org/A5100322864), [Zuofeng Chen](https://openalex.org/A5076251832), [Li Wang](https://openalex.org/A5100322864), ACS Sustainable Chemistry & Engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.4c07973.
+    
+No abstract    
+
+    
+
+## Dual active site pathways in cobalt-based bimetallic catalysts enhance oxygen evolution reaction activity: Density functional theory studies   
+
+OpenAlex: https://openalex.org/W4404321196    
+Open access: False
+    
+[Zeliang Ju](https://openalex.org/A5111279697), [Xiujuan Tan](https://openalex.org/A5075309034), [X.Y. Zhang](https://openalex.org/A5035271390), [Yong Wang](https://openalex.org/A5047504462), [Chengfeng Yin](https://openalex.org/A5063210349), [Qingxin Kang](https://openalex.org/A5019864544), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105428.
+    
+No abstract    
+
+    
+
+## An Analysis of the Conceptual and Functional Factors Affecting the Effectiveness of Proton-Exchange Membrane Water Electrolysis   
+
+OpenAlex: https://openalex.org/W4404322371    
+Open access: True
+    
+[Gaydaa Al Zohbi](https://openalex.org/A5073584518), ChemEngineering. 8(6)] 2024.https://doi.org/10.3390/chemengineering8060116.
+    
+Hydrogen has the potential to decarbonize the energy and industrial sectors in the future, mainly if it is generated by water electrolysis. The proton-exchange membrane water electrolysis (PEMWE) system is regarded as a propitious technology to produce green hydrogen from water using power supplied by renewable energy sources. It offers many benefits, such as high performance, high proton conductibility, quick response, compact size, and low working temperature. Many conceptual and functional parameters influence the effectiveness of PEM, including temperature, pressure of anode and cathode regions, water content and wideness of the layer, and cathode and anode exchange current density. In addition, the anodic half-reaction (known as the oxygen evolution reaction (OER)) and cathodic half-reaction (known as the hydrogen evolution reaction (HER)) perform an important function in the development of PEMWE. The current study aims to present these parameters and discuss their impacts on the performance of PEM. Also, the PEM efficiency is presented. The different methods used to enhance the scattering of OER electrocatalysts and minimize catalyst loading to minimize the price of PEMWE are also highlighted. Moreover, the alternative noble metals that could be used as electrocatalysts in HER and OER to minimize the cost of PEM are reviewed and presented.    
 
     
 

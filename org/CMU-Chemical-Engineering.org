@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Nov 14 01:20:13 2024
+Created on Fri Nov 15 01:24:58 2024
 
-Found 8 results from 2024-11-07 to 2024-11-14
+Found 9 results from 2024-11-08 to 2024-11-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Perioperative Considerations in Patients with Rett Syndrome as Compared to Those with Cerebral Palsy  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404093102
-:TOPICS: Molecular Basis of Rett Syndrome and Related Disorders, Impact of Parenting Stress on Caregivers and Families, Classification and Interventions for Cerebral Palsy
-:PUBLICATION_DATE: 2024-11-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1097/brs.0000000000005210")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404093102"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404093102"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404093102"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404093102 (Open access: False)
-    
-[[https://openalex.org/A5032266776][Vishal Sarwahi]], [[https://openalex.org/A5106577048][Effat Rahman]], [[https://openalex.org/A5106577047][Katherine Eigo]], [[https://openalex.org/A5037787871][Jesse Galina]], [[https://openalex.org/A5042155703][Sayyida Hasan]], [[https://openalex.org/A5070970490][Andrew L. Ko]], [[https://openalex.org/A5086230340][Yungtai Lo]], [[https://openalex.org/A5075376507][Terry Amaral]], [[https://openalex.org/A5113515922][Aleksandra Djukic]], [[https://openalex.org/A5090577014][Maria Santiago]], [[https://openalex.org/A5028147543][James Schneider]], Spine. None(None)] 2024. https://doi.org/10.1097/brs.0000000000005210 
-     
-Study Design. Retrospective cohort study Objective. This study aimed to compare perioperative outcomes of Rett syndrome and Cerebral palsy patients undergoing posterior spinal fusion for neuromuscular scoliosis. Summary of Background Data. Surgical correction in the treatment of scoliosis for patients with Rett syndrome (RS) has been shown to increase survival rate. Cerebral palsy (CP) patients, like RS patients, are often nonverbal, nonambulatory, with frequent surgical complications. Methods. Retrospective review of 36 RS and 80 CP patients undergoing PSF from 2005-2023. Data and x-ray measurements were collected pre- and post-operatively. Sub-analysis was performed comparing non-ambulatory patients (GMFCS IV-V). Wilcoxon-Rank Sum, Fisher’s Exact, and Chi-square tests were utilized. Results. The primary outcome measure, complication rates, was similar between the groups ( P =0.09). Preoperative Cobb angle, levels fused, fixation points, and LOS were similar ( P >0.05). EBL was significantly higher in CP patients as was rate of transfusion ( P =0.001) and surgical time ( P =0.001). Postoperative Cobb angle ( P =0.002) was significantly higher for CP patients. There was no significant difference between CP and RS patients in both preoperative ( P =0.383) and postoperative ( P =0.051) coronal decompensation. Nonambulatory status was associated with increased odds of having a postoperative complication (OR=6.17, 95% C.I. 1.36 – 28.04). Sub-analysis of non-ambulatory RS and CP patients revealed significantly higher postoperative Cobb ( P =0.008), EBL ( P =0.019) and surgical time ( P =0.017) in CP patients compared to RS patients. There were no significant differences in preoperative Cobb, levels fused, fixation points, hospital stay, or complication rate ( P >0.05). Conclusion. RS patients are shown to have better outcomes to CP patients in terms of surgical, perioperative, and radiographic variables. Ambulatory status was identified as an independent risk factor for complications.    
-
-    
 
 * Optimizing Forest Planning: Balancing Timber Production and Carbon Sequestration Through a Multi-Objective Disjunctive Formulation  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -169,6 +148,48 @@ Abstract Safe delivery of mRNA to the brain will revolutionize the treatment of 
 OpenAlex: https://openalex.org/W4404278345 (Open access: False)
     
 [[https://openalex.org/A5034596712][Lili Sun]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], [[https://openalex.org/A5063620462][G. Glenn Lipscomb]], Separation Science and Technology. None(None)] 2024. https://doi.org/10.1080/01496395.2024.2424953 
+     
+No abstract    
+
+    
+
+* Techno-Economic Optimization of a Solvent Absorption Process for CO2 Capture with 3D-Printed Intensified Packing  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404301555
+:TOPICS: State-of-the-Art in Process Optimization under Uncertainty, Carbon Dioxide Capture and Storage Technologies, Supercritical Fluid Extraction and Processing
+:PUBLICATION_DATE: 2024-10-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2476529")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404301555"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404301555"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404301555"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404301555 (Open access: False)
+    
+[[https://openalex.org/A5094303016][Stephen Summits]], [[https://openalex.org/A5037148093][Debangsu Bhattacharyya]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], [[https://openalex.org/A5000874144][Benjamin Omell]], [[https://openalex.org/A5054503694][Michael Matuszewski]], No host. None(None)] 2024. https://doi.org/10.2172/2476529 
+     
+No abstract    
+
+    
+
+* Development of Algebraic and Topological-Based Structured Packing Model  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404328019
+:TOPICS: Optimization of Cutting and Packing Problems, Design and Control of Warehouse Operations
+:PUBLICATION_DATE: 2024-10-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2476526")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404328019"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404328019"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404328019"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404328019 (Open access: False)
+    
+[[https://openalex.org/A5094303016][Stephen Summits]], [[https://openalex.org/A5037148093][Debangsu Bhattacharyya]], [[https://openalex.org/A5028498558][Grigorios Panagakos]], [[https://openalex.org/A5000874144][Benjamin Omell]], [[https://openalex.org/A5054503694][Michael Matuszewski]], No host. None(None)] 2024. https://doi.org/10.2172/2476526 
      
 No abstract    
 

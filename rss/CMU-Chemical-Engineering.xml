@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Nov 2024 01:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 01:24:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Perioperative Considerations in Patients with Rett Syndrome as Compared to Those with Cerebral Palsy</title>
-      <link>https://doi.org/10.1097/brs.0000000000005210</link>
-      <description>Vishal Sarwahi, Effat Rahman, Katherine Eigo, Jesse Galina, Sayyida Hasan, Andrew L. Ko, Yungtai Lo, Terry Amaral, Aleksandra Djukic, Maria Santiago, James Schneider, Spine. None(None)] 2024. https://openalex.org/W4404093102
-
-                Study Design. Retrospective cohort study Objective. This study aimed to compare perioperative outcomes of Rett syndrome and Cerebral palsy patients undergoing posterior spinal fusion for neuromuscular scoliosis. Summary of Background Data. Surgical correction in the treatment of scoliosis for patients with Rett syndrome (RS) has been shown to increase survival rate. Cerebral palsy (CP) patients, like RS patients, are often nonverbal, nonambulatory, with frequent surgical complications. Methods. Retrospective review of 36 RS and 80 CP patients undergoing PSF from 2005-2023. Data and x-ray measurements were collected pre- and post-operatively. Sub-analysis was performed comparing non-ambulatory patients (GMFCS IV-V). Wilcoxon-Rank Sum, Fisher&#8217;s Exact, and Chi-square tests were utilized. Results. The primary outcome measure, complication rates, was similar between the groups ( P =0.09). Preoperative Cobb angle, levels fused, fixation points, and LOS were similar ( P &gt;0.05). EBL was significantly higher in CP patients as was rate of transfusion ( P =0.001) and surgical time ( P =0.001). Postoperative Cobb angle ( P =0.002) was significantly higher for CP patients. There was no significant difference between CP and RS patients in both preoperative ( P =0.383) and postoperative ( P =0.051) coronal decompensation. Nonambulatory status was associated with increased odds of having a postoperative complication (OR=6.17, 95% C.I. 1.36 &#8211; 28.04). Sub-analysis of non-ambulatory RS and CP patients revealed significantly higher postoperative Cobb ( P =0.008), EBL ( P =0.019) and surgical time ( P =0.017) in CP patients compared to RS patients. There were no significant differences in preoperative Cobb, levels fused, fixation points, hospital stay, or complication rate ( P &gt;0.05). Conclusion. RS patients are shown to have better outcomes to CP patients in terms of surgical, perioperative, and radiographic variables. Ambulatory status was identified as an independent risk factor for complications.</description>
-      <author>Vishal Sarwahi, Effat Rahman, Katherine Eigo, Jesse Galina, Sayyida Hasan, Andrew L. Ko, Yungtai Lo, Terry Amaral, Aleksandra Djukic, Maria Santiago, James Schneider</author>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1097/brs.0000000000005210</guid>
-    </item>
     <item>
       <title>Optimizing Forest Planning: Balancing Timber Production and Carbon Sequestration Through a Multi-Objective Disjunctive Formulation</title>
       <link>https://doi.org/10.2139/ssrn.5013129</link>
@@ -86,6 +76,26 @@
       <author>Lili Sun, Grigorios Panagakos, G. Glenn Lipscomb</author>
       <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1080/01496395.2024.2424953</guid>
+    </item>
+    <item>
+      <title>Techno-Economic Optimization of a Solvent Absorption Process for CO2 Capture with 3D-Printed Intensified Packing</title>
+      <link>https://doi.org/10.2172/2476529</link>
+      <description>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski, No host. None(None)] 2024. https://openalex.org/W4404301555
+
+                No abstract</description>
+      <author>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2476529</guid>
+    </item>
+    <item>
+      <title>Development of Algebraic and Topological-Based Structured Packing Model</title>
+      <link>https://doi.org/10.2172/2476526</link>
+      <description>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski, No host. None(None)] 2024. https://openalex.org/W4404328019
+
+                No abstract</description>
+      <author>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2476526</guid>
     </item>
   </channel>
 </rss>
