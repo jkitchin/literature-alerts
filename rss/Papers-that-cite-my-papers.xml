@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Nov 2024 01:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 01:23:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mo2B2O2-supported Cu and Ni heterogeneous dual atom catalysts for oxygen reduction reactions and oxygen evolution reactions</title>
-      <link>https://doi.org/10.1016/j.commatsci.2024.113505</link>
-      <description>Erpeng Wang, Jian Zhou, Zhimei Sun, Computational Materials Science. 247(None)] 2024. https://openalex.org/W4404129222
-
-                No abstract</description>
-      <author>Erpeng Wang, Jian Zhou, Zhimei Sun</author>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113505</guid>
-    </item>
-    <item>
-      <title>Shear Deformation of Non-modulated Ni2MnGa Martensite: An Ab Initio Study</title>
-      <link>https://doi.org/10.1007/s40830-024-00510-z</link>
-      <description>Martin Heczko, Petr &#352;est&#225;k, Hanu&#353; Seiner, M Zelen&#253;, Shape Memory and Superelasticity. None(None)] 2024. https://openalex.org/W4404132613
-
-                Abstract The impact of shear deformation in $$(101)[10\overline{1}]$$    ( 101 )   [ 10  1 &#175;  ]    system of non-modulated (NM) martensite in Ni 2 MnGa ferromagnetic shape memory alloy is investigated by means of ab initio atomistic simulations. The shear system is associated with twinning of NM lattice and intermatensitic transformation to modulated structures. The stability of the NM lattice increases with increasing content of Mn. The most realistic shear mechanism for twin reorientation can be approximated by the simple shear mechanism, although the lowest barriers were calculated for pure shear mechanism. The energy barrier between twin variants further reduces due to spontaneous appearance of lattice modulation or, in other words, the nanotwins with thickness of two atomic planes. Such nanotwins appear also on the generalized planar fault energy (GPFE) curve calculated using a newly developed advanced procedure and exhibits even lower energy than the defect free NM structure. These nanotwin doublelayers are also basic building blocks of modulated structures and play an important role in intermartensitic transformation.</description>
-      <author>Martin Heczko, Petr &#352;est&#225;k, Hanu&#353; Seiner, M Zelen&#253;</author>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40830-024-00510-z</guid>
-    </item>
-    <item>
-      <title>Theoretical Investigation of Single-, Double-, and Triple- &lt;i&gt;p&lt;/i&gt;-block Metals Anchored on g-CN Monolayer for Oxygen Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c02399</link>
-      <description>Yanan Zhou, Li Sheng, Lanlan Chen, Wenhua Zhang, Jinlong Yang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4404133632
-
-                The design and development of highly active non-noble metal electrocatalysts for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) are crucial for metal-air batteries. In this work, the electrocatalytic performance of different p-block metal (PM = Sn, Sb, Pb and Bi) atoms embedded in the g-CN monolayer (PMx@g-CN, x = 1&#8211;3) for the OER and ORR was systematically investigated by density functional theory (DFT). The strong interaction between PMx atoms and g-CN substrates indicates the good stability of PMx@g-CN catalysts. Among all the designed catalysts, Bi3@g-CN is found to be a promising bifunctional electrocatalyst for both the OER and ORR with the calculated overpotential &#951;OER and &#951;ORR of 0.23 and 0.25 V, respectively. With the atomic active sites of PMx increasing from x = 1 to 3, the OER and ORR catalytic activity is enhanced. The correlations between the overpotentials of the OER/ORR and Bader charge values of the anchored PMx atoms of the catalysts were established. Our findings contribute to searching for noble metal-free bifunctional electrocatalysts and shed light on the rational design of atomic active sites on electrocatalysts.</description>
-      <author>Yanan Zhou, Li Sheng, Lanlan Chen, Wenhua Zhang, Jinlong Yang</author>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02399</guid>
-    </item>
-    <item>
-      <title>Machine learning assisted screening of nitrogen-doped graphene-based dual-atom hydrogen evolution electrocatalysts</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114649</link>
-      <description>Huijie Zhang, Qiang Wei, Shuaichong Wei, Yuhong Luo, Wei Zhang, Guihua Liu, Molecular Catalysis. 570(None)] 2024. https://openalex.org/W4404141047
-
-                No abstract</description>
-      <author>Huijie Zhang, Qiang Wei, Shuaichong Wei, Yuhong Luo, Wei Zhang, Guihua Liu</author>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114649</guid>
-    </item>
-    <item>
-      <title>Recent advances in X-ray absorption near edge structure (XANES) simulations for catalysis: Theories and applications</title>
-      <link>https://doi.org/10.1016/bs.arcc.2024.10.006</link>
-      <description>Jiayi Xu, Yu Lim Kim, Rishu Khurana, Shana Havenridge, Prajay Patel, Cong Liu, Annual reports in computational chemistry. None(None)] 2024. https://openalex.org/W4404141332
-
-                No abstract</description>
-      <author>Jiayi Xu, Yu Lim Kim, Rishu Khurana, Shana Havenridge, Prajay Patel, Cong Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/bs.arcc.2024.10.006</guid>
-    </item>
-    <item>
-      <title>Unraveling the synergistic mechanisms of dual-atom catalysts on BeN substrates for enhanced hydrogen evolution reaction: A machine learning-assisted first-principles study</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161745</link>
-      <description>Wentao Liang, Abuduwayiti Aierken, Rong Xiao-feng, Degui Wang, Wei Deng, Wenjun Xiao, Gang Wang, Mingqiang Liu, Changsong Gao, Yong&#8208;Min Liang, Zhen Wang, Liang Zhang, Jinshun Bi, X J Liu, Applied Surface Science. None(None)] 2024. https://openalex.org/W4404161075
-
-                No abstract</description>
-      <author>Wentao Liang, Abuduwayiti Aierken, Rong Xiao-feng, Degui Wang, Wei Deng, Wenjun Xiao, Gang Wang, Mingqiang Liu, Changsong Gao, Yong&#8208;Min Liang, Zhen Wang, Liang Zhang, Jinshun Bi, X J Liu</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161745</guid>
-    </item>
     <item>
       <title>Recent Progress in CO2 Splitting Processes with Non-Thermal Plasma-Assisted</title>
       <link>https://doi.org/10.1016/j.jece.2024.114692</link>
@@ -516,6 +456,76 @@
       <author>Gaydaa Al Zohbi</author>
       <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/chemengineering8060116</guid>
+    </item>
+    <item>
+      <title>Potassium and Boron Co-Doping of g-C3N4 Tuned CO2 Reduction Mechanism for Enhanced Photocatalytic Performance: A First-Principles Investigation</title>
+      <link>https://doi.org/10.3390/molecules29225339</link>
+      <description>Gang Fu, Wenqing Zhen, Hongyi Wang, Xin Zhou, Li Yang, Jiaxu Zhang, Molecules. 29(22)] 2024. https://openalex.org/W4404331595
+
+                Graphitic phase carbon nitride (g-C3N4, abbreviated as CN) can be used as a photocatalyst to reduce the concentration of atmospheric carbon dioxide. However, there is still potential for improvement in the small band gap and carrier migration properties of intrinsic materials. K-B co-doped CN (KBCN) was investigated as a promising photocatalyst for carbon dioxide reduction via the Density Functional Theory (DFT) method. The electronic and optical properties of CN and KBCN indicate that doping K and B can improve the catalytic performance of CN by promoting charge migration and separation. In terms of the Gibbs free energy change, the CO2 reduction reaction catalysed by KBCN results in CH3OH, and its optimal pathway is CO2 &#8594; *CO2 &#8594; *COOH &#8594; CO &#8594; *OCH &#8594; HCHO &#8594; *OCH3 &#8594; CH3OH. Compared with CN, the doping elements K and B shift the rate-determining step from CO2 &#8594; *CO2 to *CO2 &#8594; *COOH. The K and B elements co-doping tuned the charge distribution between the catalyst and the adsorbate and reduced the Gibbs free energy of the rate-determining step from 1.571 to 0.861 eV, suggesting that the CO2 reduction activity of KBCN is superior to that of CN. Our work provides useful insights for the design of metallic&#8211;nonmetallic co-doped CN for photocatalytic CO2 reduction (CO2PR) reactions.</description>
+      <author>Gang Fu, Wenqing Zhen, Hongyi Wang, Xin Zhou, Li Yang, Jiaxu Zhang</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules29225339</guid>
+    </item>
+    <item>
+      <title>DFT modeling of the oxygen electroreduction reaction on SiN3-doped carbon nanotubes</title>
+      <link>https://doi.org/10.31857/s0044460x24050123</link>
+      <description>&#1040;. &#1042;. &#1050;&#1091;&#1079;&#1100;&#1084;&#1080;&#1085;, &#1046;&#1091;&#1088;&#1085;&#1072;&#1083; &#1054;&#1073;&#1097;&#1077;&#1081; &#1061;&#1080;&#1084;&#1080;&#1080;. 94(5)] 2024. https://openalex.org/W4404337748
+
+                The thermodynamic features and mechanism of the electrocatalytic oxygen reduction reaction were studied using the revPBE0-D3(BJ)/Def2-TZVP method on the example of (6,6)-armchair carbon nanotube doped with a tricoordinated silicon atom and nitrogen atoms of pyridinic and graphitic nature. Irreversible oxidation of the silicon center as a result of the formation of stable oxygen-containing adsorbates was shown. It was found that Si-poisoned structures are capable of participating in the catalysis of the target reaction along two- and four-electron routes at high overpotentials. For a nanotube doped simultaneously with pyridinic and graphitic nitrogens the potential possibility of eliminating the silicon atom from the catalyst composition in the form of orthosilicic acid and the participation of a silicon-free nitrogen-doped framework in the oxygen electroreduction reaction, for which the stage of tautomerization of pyridin-2(1H)-one to pyridin-2-ol is the limiting step was shown.</description>
+      <author>&#1040;. &#1042;. &#1050;&#1091;&#1079;&#1100;&#1084;&#1080;&#1085;</author>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31857/s0044460x24050123</guid>
+    </item>
+    <item>
+      <title>Hydrogen radical-boosted electrocatalytic CO2 reduction using Ni-partnered heteroatomic pairs</title>
+      <link>https://doi.org/10.1038/s41467-024-53529-2</link>
+      <description>Zhibo Yao, Hao Cheng, Yifei Xu, Xinyu Zhan, Song Hong, Xinyi Tan, Tai&#8208;Sing Wu, Pei Xiong, Y. L. Soo, Molly Meng&#8208;Jung Li, Leiduan Hao, Liang Xu, Alex W. Robertson, Bingjun Xu, Ming Yang, Zhenyu Sun, Nature Communications. 15(1)] 2024. https://openalex.org/W4404348913
+
+                No abstract</description>
+      <author>Zhibo Yao, Hao Cheng, Yifei Xu, Xinyu Zhan, Song Hong, Xinyi Tan, Tai&#8208;Sing Wu, Pei Xiong, Y. L. Soo, Molly Meng&#8208;Jung Li, Leiduan Hao, Liang Xu, Alex W. Robertson, Bingjun Xu, Ming Yang, Zhenyu Sun</author>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-53529-2</guid>
+    </item>
+    <item>
+      <title>A high-throughput framework for lattice dynamics</title>
+      <link>https://doi.org/10.1038/s41524-024-01437-w</link>
+      <description>Zhuoying Zhu, Junsoo Park, Hrushikesh Sahasrabuddhe, Alex M. Ganose, Rees Chang, John W. Lawson, Anubhav Jain, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4404351163
+
+                Abstract We develop an automated high-throughput workflow for calculating lattice dynamical properties from first principles including those dictated by anharmonicity. The pipeline automatically computes interatomic force constants (IFCs) up to 4th order from perturbed training supercells, and uses the IFCs to calculate lattice thermal conductivity, coefficient of thermal expansion, and vibrational free energy and entropy. It performs phonon renormalization for dynamically unstable compounds to obtain real effective phonon spectra at finite temperatures and calculates the associated free energy corrections. The methods and parameters are chosen to balance computational efficiency and result accuracy, assessed through convergence testing and comparisons with experimental measurements. Deployment of this workflow at a large scale would facilitate materials discovery efforts toward functionalities including thermoelectrics, contact materials, ferroelectrics, aerospace components, as well as general phase diagram construction.</description>
+      <author>Zhuoying Zhu, Junsoo Park, Hrushikesh Sahasrabuddhe, Alex M. Ganose, Rees Chang, John W. Lawson, Anubhav Jain</author>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01437-w</guid>
+    </item>
+    <item>
+      <title>Scalable production of high-performance electrocatalysts for electrochemical water splitting at large current densities</title>
+      <link>https://doi.org/10.1016/j.esci.2024.100334</link>
+      <description>Zichen Xu, Zhong&#8208;Shuai Wu, eScience. None(None)] 2024. https://openalex.org/W4404353371
+
+                No abstract</description>
+      <author>Zichen Xu, Zhong&#8208;Shuai Wu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100334</guid>
+    </item>
+    <item>
+      <title>The impact of Carbon Capture, Utilization, and Storage (CCUS) projects on environmental protection, economic development, and social equity</title>
+      <link>https://doi.org/10.1016/j.jclepro.2024.144218</link>
+      <description>Xiaoning Su, Pengfe&#239; Liu, Yingdan Mei, Jixiang Qiu, Journal of Cleaner Production. None(None)] 2024. https://openalex.org/W4404353449
+
+                No abstract</description>
+      <author>Xiaoning Su, Pengfe&#239; Liu, Yingdan Mei, Jixiang Qiu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.144218</guid>
+    </item>
+    <item>
+      <title>Computational Screening of Transition Metal-Nitrogen-Carbon Materials as Electrocatalysts for CO2 Reduction</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145357</link>
+      <description>Megan C. Davis, Wilton J. M. Kort-Kamp, Edward F. Holby, Piotr Zelenay, Ivana Matanovi&#263;, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4404357011
+
+                No abstract</description>
+      <author>Megan C. Davis, Wilton J. M. Kort-Kamp, Edward F. Holby, Piotr Zelenay, Ivana Matanovi&#263;</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145357</guid>
     </item>
     <item>
       <title>Embedding material graphs using the electron-ion potential: application to material fracture</title>

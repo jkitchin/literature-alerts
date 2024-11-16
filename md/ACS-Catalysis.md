@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Nov 15 01:24:57 2024
+Created on Sat Nov 16 01:23:20 2024
 
-Found 31 results from 2024-11-08 to 2024-11-15
+Found 29 results from 2024-11-09 to 2024-11-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## A Machine Learning-Guided Approach to Navigate the Substrate Activity Scope of Galactose Oxidase: Application in the Conversion of Pharmaceutically Relevant Bulky Secondary Alcohols   
-
-OpenAlex: https://openalex.org/W4404126716    
-Open access: True
-    
-[Shreyas Supekar](https://openalex.org/A5083538462), [Dillon W. P. Tay](https://openalex.org/A5025218721), [Wan Lin Yeo](https://openalex.org/A5053792605), [Kwok Wai Eric Tam](https://openalex.org/A5092187685), [Ying Sin Koo](https://openalex.org/A5044499866), [Jie Yang See](https://openalex.org/A5078098045), [Jhoann M.T. Miyajima](https://openalex.org/A5064415852), [Sebastian Maurer‐Stroh](https://openalex.org/A5019975803), [Ee Lui Ang](https://openalex.org/A5066292409), [Yee Hwee Lim](https://openalex.org/A5054703004), [Hao Fan](https://openalex.org/A5020068139), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04660 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c04660?ref=article_openPDF)).
-    
-Biocatalysis is increasingly being adopted in industry for producing important chemicals in a selective and efficient manner. Engineering an enzyme can often confer it with an altered chemical scope, making it accessible to nontraditional and desirable chemistry. Identifying enzymes with the desired substrate specificity and activity, however, remains time-consuming and costly. Galactose oxidase (GOase) is a copper-dependent enzyme that converts alcohols to their corresponding carbonyls, an important transformation in industrial synthesis. Here, we present a machine learning aided protocol to develop a catalytic activity prediction model (R2 ∼ 0.7–0.9) for GOase based on a focused data set of engineered GOase variants with activity toward bulky benzylic secondary alcohols. The trained GOase activity prediction models (with no additional training) also partially retained their predictive power when applied to another member of the oxidase family, an aryl-alcohol oxidase. Inspired by the fragment-based optimization methods used in drug discovery, we developed an active-site structure-aware substrate library for select GOase variants. Experimental validation of a subset of the constructed substrate library against select variants indicates that the trained models provide reasonable prediction (R2 = 0.61) of GOase activity, enabling the identification of the best GOase variant from the select variant subset for each identified substrate. This ability to identify optimal GOase variants from the selected variants for the synthesis of industrially important chemicals was demonstrated for dyclonine, an FDA-approved drug. Our machine learning-guided approach enables rapid navigation of the substrate-activity scope of GOase, thereby reducing the burden of extensive experimental screening and streamlining the deployment of biocatalysis in industrial synthesis.    
-
-    
-
-## Selective CO2 Hydrogenation to Methanol by Halogen Deposition over a Cu-Based Catalyst   
-
-OpenAlex: https://openalex.org/W4404127994    
-Open access: False
-    
-[Massimo Corda](https://openalex.org/A5065360288), [S. A. Chernyak](https://openalex.org/A5012743292), [Wei Ma](https://openalex.org/A5100392071), [Jean-Charles Morin](https://openalex.org/A5078328721), [Martine Trentesaux](https://openalex.org/A5006361817), [Vita A. Kondratenko](https://openalex.org/A5104247457), [Evgenii V. Kondratenko](https://openalex.org/A5034626467), [Vitaly V. Ordomsky](https://openalex.org/A5061148466), [Andreï Y. Khodakov](https://openalex.org/A5047164399), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04824.
-    
-The hydrogenation of carbon dioxide to methanol represents a promising pathway for both mitigating greenhouse gas emissions and producing valuable platform molecules. CuO-ZnO-Al2O3 (CZA) is the catalyst used for the methanol production from CO2 due to its high activity under relatively mild conditions. Coproduction of CO reduces the methanol selectivity in CO2 hydrogenation. In this work, the CZA catalyst has been promoted with halogens (Br, Cl, or I) using halobenzene precursors. The promotion with bromine significantly improves the methanol selectivity compared to the pristine catalyst. The effect was observed at different amounts of halogen deposited over the catalyst surface. A combination of characterization techniques and kinetic analysis enabled us to explain the effects of halogen on the catalytic performance. The presence of varying halogen amounts in the CZA catalyst enhances methanol selectivity in two ways: by suppressing the reverse water–gas shift reaction and by hindering methanol decomposition to CO.    
-
-    
-
-## Catalyst–Substrate Pairings for Carbocyclic and Heterocyclic Systems in Atroposelective Quinazolinone Synthesis   
-
-OpenAlex: https://openalex.org/W4404132148    
-Open access: False
-    
-[Melody C. Guo](https://openalex.org/A5075929027), [Scott J. Miller](https://openalex.org/A5073335566), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05014.
-    
-Asymmetric catalytic reaction development depends critically on the matching of an appropriate catalytic scaffold with a substrate of interest. In many cases, a catalyst will be discovered to be quite selective for a given substrate, and that same catalyst is then evaluated for its scope with respect to alterations of the substrate. In the context of a catalytic atroposelective cyclocondensation, we discovered that a chiral phosphoric acid (CPA) catalyst, (R)-TCYP, mediated these processes with up to 98:2 enantiomeric ratio (er) and up to 95% yield. Yet, when the same reaction was attempted in the presence of a basic nitrogen heteroatom within the substrate, enantioselectivity was significantly reduced (73:27 er). In this instance, a different catalyst scaffold based on phosphothreonine (pThr), while ineffective for the carbocyclic substrate (53:47 er), was found to be quite selective (90:10 er) for its pyridyl analog. Mechanistic studies exploring this divergence in reactivity unveiled that the 8-carbocyclic substrate [using (R)-TCYP] displayed a positive nonlinear effect (NLE), whereas the 8-heterocyclic substrate (using a pThr-based catalyst) displayed no NLE at all. The mechanistic distinctions between these two scenarios suggest significant differences in the nature of the non-covalent interactions that operate to deliver high enantioselectivity.    
-
-    
-
-## Directed Evolution of an Artificial Hydroxylase Based on a Thermostable Human Carbonic Anhydrase Protein   
-
-OpenAlex: https://openalex.org/W4404146103    
-Open access: False
-    
-[Iori Morita](https://openalex.org/A5038505058), [Adriana Faraone](https://openalex.org/A5022615033), [Elias Salvisberg](https://openalex.org/A5114558405), [Kailin Zhang](https://openalex.org/A5074251370), [R.P. Jakob](https://openalex.org/A5038752800), [Timm Maier](https://openalex.org/A5073528182), [Thomas R. Ward](https://openalex.org/A5057806953), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04163.
-    
-The assembly of artificial metalloenzymes (ArMs) provides a second coordination sphere around a metal catalyst. Such a well-defined microenvironment can lead to an enhancement of the activities and selectivity of the catalyst. Herein, we present the development of artificial hydroxylase (ArHase) by embedding an Fe-TAML (TAML = tetraamide macrocyclic ligand) catalyst into a human carbonic anhydrase II (hCAII). Incorporation of the Fe-TAML catalyst ([BS-Fe-bTAML]–) within hCAII enhanced the total turnover number (TTON) for the hydroxylation of benzylic C–H bonds. After engineering a thermostable variant of hCAII (hCAIITS), the resulting ArHase, [BS-Fe-bTAML]–·hCAIITS, was subjected to directed evolution using cell lysates in a 384-well format. After three rounds of laboratory evolution, the best-performing variants exhibited enhancement in the initial rate (124.4 min–1) and in the TTON (2629 TTON) for the hydroxylation of benzylic C–H bonds compared to that of the free cofactor. We surmise that an arginine residue introduced in the course of directed evolution engages in hydrogen bonding with [BS-Fe-bTAML]–. This study highlights the potential of relying on a thermostable host protein to improve the catalytic performance of hCAII-based ArMs.    
-
-    
-
-## Concerted Proton-Coupled Electron Transfer by Mo5+/Mo6+ Reversible Transformation for CO2 Photoreduction with Nearly 100% CH4 Selectivity   
-
-OpenAlex: https://openalex.org/W4404164864    
-Open access: False
-    
-[Qian Liang](https://openalex.org/A5045060292), [Jingshan Fan](https://openalex.org/A5027261479), [Jiawen Ding](https://openalex.org/A5019943630), [Xiuzheng Deng](https://openalex.org/A5101367291), [Yingtang Zhou](https://openalex.org/A5043063276), [Jun Cai](https://openalex.org/A5101755695), [Zheng Peng](https://openalex.org/A5083593030), [Zhongyu Li](https://openalex.org/A5100735595), [Zhenhui Kang](https://openalex.org/A5082297994), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04994.
-    
-Regulation of the proton-coupled electron transfer (PCET) process to avoid the unbalanced proton and electron regions on the reduction active sites is key to dictating product selectivity in a photocatalytic CO2 reduction reaction. Here, we show that reversible Mo5+/Mo6+ as a mediator can regulate the proton and electron transfer process at the Bi2MoO6 nanosheet/In2O3 microtube (BI) catalyst. The formed concerted proton-coupled electron transfer enables a champion solar-to-methane efficiency of 0.15%, resulting in nearly 100% CH4 selectivity and a competitive CH4 yield of 46.37 μmol g–1 h–1 in pure water. The experiments, together with theoretical calculations, clearly validate that In sites as H2O oxidation centers provide protons, and the regulation of protons and electrons by using Mo sites forms approximate electroneutral proton/electron pairs, which are conjointly transferred to Bi sites as CO2 adsorption/reduction centers, thus achieving precise hydrogenation on Bi sites for binding of the *CH3O key intermediate to form CH4.    
-
-    
 
 ## Elucidating the Pivotal Role of Acid-Catalyzed Hydration in Electrochemical Carbon Corrosion   
 
@@ -342,6 +287,39 @@ OpenAlex: https://openalex.org/W4404327114
 Open access: False
     
 [Hector A. Garcia Mayerstein](https://openalex.org/A5014150628), [Datong Song](https://openalex.org/A5069565621), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05245.
+    
+No abstract    
+
+    
+
+## An Isopentenol Utilization Pathway-Based “Deuterium-Scanning” Method for Mechanistic Investigations of Terpene Cyclases   
+
+OpenAlex: https://openalex.org/W4404348434    
+Open access: False
+    
+[Shouqi Zhang](https://openalex.org/A5110707206), [Kaibiao Wang](https://openalex.org/A5002007389), [Yuanning Liu](https://openalex.org/A5045370732), [Tao Wang](https://openalex.org/A5100453714), [Yao Kong](https://openalex.org/A5057325915), [Pengcheng Zhang](https://openalex.org/A5100365988), [Bing Zhang](https://openalex.org/A5100389704), [Min Yin](https://openalex.org/A5067846870), [Guohui Pan](https://openalex.org/A5070853383), [Zhengren Xu](https://openalex.org/A5071067052), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05811.
+    
+No abstract    
+
+    
+
+## Surface-Reconstructed, Mesoporous In1.8Bi0.2O3 Nanocubes as Electrocatalysts for Efficient CO2 Conversion to Formate   
+
+OpenAlex: https://openalex.org/W4404357930    
+Open access: False
+    
+[Yueqi Feng](https://openalex.org/A5081249499), [Jin Xiao](https://openalex.org/A5101679571), [Yiyi Qiu](https://openalex.org/A5109672997), [Jianlin Huang](https://openalex.org/A5030047391), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05431.
+    
+No abstract    
+
+    
+
+## Mechanistic Investigations on Cp*CoIII-Catalyzed Quinoline Transfer Hydrogenation with Formic Acid   
+
+OpenAlex: https://openalex.org/W4404359527    
+Open access: False
+    
+[Nidhi Garg](https://openalex.org/A5087003489), [Pardeep Dahiya](https://openalex.org/A5072568586), [Sonia Mallet‐Ladeira](https://openalex.org/A5063220467), [Rinaldo Poli](https://openalex.org/A5073644685), [Basker Sundararaju](https://openalex.org/A5076430680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05271.
     
 No abstract    
 

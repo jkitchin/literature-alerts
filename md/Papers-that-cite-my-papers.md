@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Nov 15 01:25:06 2024
+Created on Sat Nov 16 01:23:27 2024
 
-Found 53 results from 2024-11-08 to 2024-11-15
+Found 54 results from 2024-11-09 to 2024-11-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,72 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Mo2B2O2-supported Cu and Ni heterogeneous dual atom catalysts for oxygen reduction reactions and oxygen evolution reactions   
-
-OpenAlex: https://openalex.org/W4404129222    
-Open access: False
-    
-[Erpeng Wang](https://openalex.org/A5103005708), [Jian Zhou](https://openalex.org/A5057226383), [Zhimei Sun](https://openalex.org/A5059875221), Computational Materials Science. 247(None)] 2024.https://doi.org/10.1016/j.commatsci.2024.113505.
-    
-No abstract    
-
-    
-
-## Shear Deformation of Non-modulated Ni2MnGa Martensite: An Ab Initio Study   
-
-OpenAlex: https://openalex.org/W4404132613    
-Open access: True
-    
-[Martin Heczko](https://openalex.org/A5083386269), [Petr Šesták](https://openalex.org/A5034721582), [Hanuš Seiner](https://openalex.org/A5030695107), [M Zelený](https://openalex.org/A5044358548), Shape Memory and Superelasticity. None(None)] 2024.https://doi.org/10.1007/s40830-024-00510-z.
-    
-Abstract The impact of shear deformation in $$(101)[10\overline{1}]$$    ( 101 )   [ 10  1 ¯  ]    system of non-modulated (NM) martensite in Ni 2 MnGa ferromagnetic shape memory alloy is investigated by means of ab initio atomistic simulations. The shear system is associated with twinning of NM lattice and intermatensitic transformation to modulated structures. The stability of the NM lattice increases with increasing content of Mn. The most realistic shear mechanism for twin reorientation can be approximated by the simple shear mechanism, although the lowest barriers were calculated for pure shear mechanism. The energy barrier between twin variants further reduces due to spontaneous appearance of lattice modulation or, in other words, the nanotwins with thickness of two atomic planes. Such nanotwins appear also on the generalized planar fault energy (GPFE) curve calculated using a newly developed advanced procedure and exhibits even lower energy than the defect free NM structure. These nanotwin doublelayers are also basic building blocks of modulated structures and play an important role in intermartensitic transformation.    
-
-    
-
-## Theoretical Investigation of Single-, Double-, and Triple- p-block Metals Anchored on g-CN Monolayer for Oxygen Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4404133632    
-Open access: False
-    
-[Yanan Zhou](https://openalex.org/A5005475250), [Li Sheng](https://openalex.org/A5010634879), [Lanlan Chen](https://openalex.org/A5101538170), [Wenhua Zhang](https://openalex.org/A5100443657), [Jinlong Yang](https://openalex.org/A5100458442), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c02399.
-    
-The design and development of highly active non-noble metal electrocatalysts for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) are crucial for metal-air batteries. In this work, the electrocatalytic performance of different p-block metal (PM = Sn, Sb, Pb and Bi) atoms embedded in the g-CN monolayer (PMx@g-CN, x = 1–3) for the OER and ORR was systematically investigated by density functional theory (DFT). The strong interaction between PMx atoms and g-CN substrates indicates the good stability of PMx@g-CN catalysts. Among all the designed catalysts, Bi3@g-CN is found to be a promising bifunctional electrocatalyst for both the OER and ORR with the calculated overpotential ηOER and ηORR of 0.23 and 0.25 V, respectively. With the atomic active sites of PMx increasing from x = 1 to 3, the OER and ORR catalytic activity is enhanced. The correlations between the overpotentials of the OER/ORR and Bader charge values of the anchored PMx atoms of the catalysts were established. Our findings contribute to searching for noble metal-free bifunctional electrocatalysts and shed light on the rational design of atomic active sites on electrocatalysts.    
-
-    
-
-## Machine learning assisted screening of nitrogen-doped graphene-based dual-atom hydrogen evolution electrocatalysts   
-
-OpenAlex: https://openalex.org/W4404141047    
-Open access: False
-    
-[Huijie Zhang](https://openalex.org/A5112224014), [Qiang Wei](https://openalex.org/A5103146178), [Shuaichong Wei](https://openalex.org/A5008202465), [Yuhong Luo](https://openalex.org/A5070169953), [Wei Zhang](https://openalex.org/A5100441730), [Guihua Liu](https://openalex.org/A5100741974), Molecular Catalysis. 570(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114649.
-    
-No abstract    
-
-    
-
-## Recent advances in X-ray absorption near edge structure (XANES) simulations for catalysis: Theories and applications   
-
-OpenAlex: https://openalex.org/W4404141332    
-Open access: False
-    
-[Jiayi Xu](https://openalex.org/A5049495039), [Yu Lim Kim](https://openalex.org/A5027042391), [Rishu Khurana](https://openalex.org/A5041902162), [Shana Havenridge](https://openalex.org/A5001897288), [Prajay Patel](https://openalex.org/A5087882876), [Cong Liu](https://openalex.org/A5100331577), Annual reports in computational chemistry. None(None)] 2024.https://doi.org/10.1016/bs.arcc.2024.10.006.
-    
-No abstract    
-
-    
-
-## Unraveling the synergistic mechanisms of dual-atom catalysts on BeN substrates for enhanced hydrogen evolution reaction: A machine learning-assisted first-principles study   
-
-OpenAlex: https://openalex.org/W4404161075    
-Open access: False
-    
-[Wentao Liang](https://openalex.org/A5010311212), [Abuduwayiti Aierken](https://openalex.org/A5072051258), [Rong Xiao-feng](https://openalex.org/A5112748648), [Degui Wang](https://openalex.org/A5082240190), [Wei Deng](https://openalex.org/A5100426957), [Wenjun Xiao](https://openalex.org/A5101412949), [Gang Wang](https://openalex.org/A5100367480), [Mingqiang Liu](https://openalex.org/A5109111223), [Changsong Gao](https://openalex.org/A5085544847), [Yong‐Min Liang](https://openalex.org/A5101814743), [Zhen Wang](https://openalex.org/A5100422368), [Liang Zhang](https://openalex.org/A5100425201), [Jinshun Bi](https://openalex.org/A5069723560), [X J Liu](https://openalex.org/A5056992365), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.161745.
-    
-No abstract    
-
-    
 
 ## Recent Progress in CO2 Splitting Processes with Non-Thermal Plasma-Assisted   
 
@@ -575,6 +509,83 @@ Open access: True
 [Gaydaa Al Zohbi](https://openalex.org/A5073584518), ChemEngineering. 8(6)] 2024.https://doi.org/10.3390/chemengineering8060116.
     
 Hydrogen has the potential to decarbonize the energy and industrial sectors in the future, mainly if it is generated by water electrolysis. The proton-exchange membrane water electrolysis (PEMWE) system is regarded as a propitious technology to produce green hydrogen from water using power supplied by renewable energy sources. It offers many benefits, such as high performance, high proton conductibility, quick response, compact size, and low working temperature. Many conceptual and functional parameters influence the effectiveness of PEM, including temperature, pressure of anode and cathode regions, water content and wideness of the layer, and cathode and anode exchange current density. In addition, the anodic half-reaction (known as the oxygen evolution reaction (OER)) and cathodic half-reaction (known as the hydrogen evolution reaction (HER)) perform an important function in the development of PEMWE. The current study aims to present these parameters and discuss their impacts on the performance of PEM. Also, the PEM efficiency is presented. The different methods used to enhance the scattering of OER electrocatalysts and minimize catalyst loading to minimize the price of PEMWE are also highlighted. Moreover, the alternative noble metals that could be used as electrocatalysts in HER and OER to minimize the cost of PEM are reviewed and presented.    
+
+    
+
+## Potassium and Boron Co-Doping of g-C3N4 Tuned CO2 Reduction Mechanism for Enhanced Photocatalytic Performance: A First-Principles Investigation   
+
+OpenAlex: https://openalex.org/W4404331595    
+Open access: True
+    
+[Gang Fu](https://openalex.org/A5000095646), [Wenqing Zhen](https://openalex.org/A5085612701), [Hongyi Wang](https://openalex.org/A5100701038), [Xin Zhou](https://openalex.org/A5011192543), [Li Yang](https://openalex.org/A5100709020), [Jiaxu Zhang](https://openalex.org/A5100777141), Molecules. 29(22)] 2024.https://doi.org/10.3390/molecules29225339.
+    
+Graphitic phase carbon nitride (g-C3N4, abbreviated as CN) can be used as a photocatalyst to reduce the concentration of atmospheric carbon dioxide. However, there is still potential for improvement in the small band gap and carrier migration properties of intrinsic materials. K-B co-doped CN (KBCN) was investigated as a promising photocatalyst for carbon dioxide reduction via the Density Functional Theory (DFT) method. The electronic and optical properties of CN and KBCN indicate that doping K and B can improve the catalytic performance of CN by promoting charge migration and separation. In terms of the Gibbs free energy change, the CO2 reduction reaction catalysed by KBCN results in CH3OH, and its optimal pathway is CO2 → *CO2 → *COOH → CO → *OCH → HCHO → *OCH3 → CH3OH. Compared with CN, the doping elements K and B shift the rate-determining step from CO2 → *CO2 to *CO2 → *COOH. The K and B elements co-doping tuned the charge distribution between the catalyst and the adsorbate and reduced the Gibbs free energy of the rate-determining step from 1.571 to 0.861 eV, suggesting that the CO2 reduction activity of KBCN is superior to that of CN. Our work provides useful insights for the design of metallic–nonmetallic co-doped CN for photocatalytic CO2 reduction (CO2PR) reactions.    
+
+    
+
+## DFT modeling of the oxygen electroreduction reaction on SiN3-doped carbon nanotubes   
+
+OpenAlex: https://openalex.org/W4404337748    
+Open access: False
+    
+[А. В. Кузьмин](https://openalex.org/A5013084684), Журнал Общей Химии. 94(5)] 2024.https://doi.org/10.31857/s0044460x24050123.
+    
+The thermodynamic features and mechanism of the electrocatalytic oxygen reduction reaction were studied using the revPBE0-D3(BJ)/Def2-TZVP method on the example of (6,6)-armchair carbon nanotube doped with a tricoordinated silicon atom and nitrogen atoms of pyridinic and graphitic nature. Irreversible oxidation of the silicon center as a result of the formation of stable oxygen-containing adsorbates was shown. It was found that Si-poisoned structures are capable of participating in the catalysis of the target reaction along two- and four-electron routes at high overpotentials. For a nanotube doped simultaneously with pyridinic and graphitic nitrogens the potential possibility of eliminating the silicon atom from the catalyst composition in the form of orthosilicic acid and the participation of a silicon-free nitrogen-doped framework in the oxygen electroreduction reaction, for which the stage of tautomerization of pyridin-2(1H)-one to pyridin-2-ol is the limiting step was shown.    
+
+    
+
+## Hydrogen radical-boosted electrocatalytic CO2 reduction using Ni-partnered heteroatomic pairs   
+
+OpenAlex: https://openalex.org/W4404348913    
+Open access: True
+    
+[Zhibo Yao](https://openalex.org/A5043567461), [Hao Cheng](https://openalex.org/A5018739307), [Yifei Xu](https://openalex.org/A5100385468), [Xinyu Zhan](https://openalex.org/A5079173244), [Song Hong](https://openalex.org/A5043289439), [Xinyi Tan](https://openalex.org/A5101064811), [Tai‐Sing Wu](https://openalex.org/A5003934422), [Pei Xiong](https://openalex.org/A5101401796), [Y. L. Soo](https://openalex.org/A5087084680), [Molly Meng‐Jung Li](https://openalex.org/A5033601764), [Leiduan Hao](https://openalex.org/A5065190809), [Liang Xu](https://openalex.org/A5100572202), [Alex W. Robertson](https://openalex.org/A5029182254), [Bingjun Xu](https://openalex.org/A5073687384), [Ming Yang](https://openalex.org/A5075549313), [Zhenyu Sun](https://openalex.org/A5077655412), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-53529-2.
+    
+No abstract    
+
+    
+
+## A high-throughput framework for lattice dynamics   
+
+OpenAlex: https://openalex.org/W4404351163    
+Open access: True
+    
+[Zhuoying Zhu](https://openalex.org/A5011639010), [Junsoo Park](https://openalex.org/A5101457092), [Hrushikesh Sahasrabuddhe](https://openalex.org/A5056106750), [Alex M. Ganose](https://openalex.org/A5075626166), [Rees Chang](https://openalex.org/A5041375334), [John W. Lawson](https://openalex.org/A5007551404), [Anubhav Jain](https://openalex.org/A5003640520), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01437-w.
+    
+Abstract We develop an automated high-throughput workflow for calculating lattice dynamical properties from first principles including those dictated by anharmonicity. The pipeline automatically computes interatomic force constants (IFCs) up to 4th order from perturbed training supercells, and uses the IFCs to calculate lattice thermal conductivity, coefficient of thermal expansion, and vibrational free energy and entropy. It performs phonon renormalization for dynamically unstable compounds to obtain real effective phonon spectra at finite temperatures and calculates the associated free energy corrections. The methods and parameters are chosen to balance computational efficiency and result accuracy, assessed through convergence testing and comparisons with experimental measurements. Deployment of this workflow at a large scale would facilitate materials discovery efforts toward functionalities including thermoelectrics, contact materials, ferroelectrics, aerospace components, as well as general phase diagram construction.    
+
+    
+
+## Scalable production of high-performance electrocatalysts for electrochemical water splitting at large current densities   
+
+OpenAlex: https://openalex.org/W4404353371    
+Open access: True
+    
+[Zichen Xu](https://openalex.org/A5080180850), [Zhong‐Shuai Wu](https://openalex.org/A5052462717), eScience. None(None)] 2024.https://doi.org/10.1016/j.esci.2024.100334.
+    
+No abstract    
+
+    
+
+## The impact of Carbon Capture, Utilization, and Storage (CCUS) projects on environmental protection, economic development, and social equity   
+
+OpenAlex: https://openalex.org/W4404353449    
+Open access: False
+    
+[Xiaoning Su](https://openalex.org/A5114075908), [Pengfeï Liu](https://openalex.org/A5016713341), [Yingdan Mei](https://openalex.org/A5015684522), [Jixiang Qiu](https://openalex.org/A5008409242), Journal of Cleaner Production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.144218.
+    
+No abstract    
+
+    
+
+## Computational Screening of Transition Metal-Nitrogen-Carbon Materials as Electrocatalysts for CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4404357011    
+Open access: False
+    
+[Megan C. Davis](https://openalex.org/A5071971858), [Wilton J. M. Kort-Kamp](https://openalex.org/A5031751488), [Edward F. Holby](https://openalex.org/A5056511340), [Piotr Zelenay](https://openalex.org/A5060509548), [Ivana Matanović](https://openalex.org/A5109241466), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145357.
+    
+No abstract    
 
     
 

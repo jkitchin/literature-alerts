@@ -1,43 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Nov 15 01:24:58 2024
+Created on Sat Nov 16 01:23:21 2024
 
-Found 9 results from 2024-11-08 to 2024-11-15
+Found 6 results from 2024-11-09 to 2024-11-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Optimizing Forest Planning: Balancing Timber Production and Carbon Sequestration Through a Multi-Objective Disjunctive Formulation   
-
-OpenAlex: https://openalex.org/W4404140095    
-Open access: False
-    
-[Frank Piedra-Jiménez](https://openalex.org/A5091201904), [Diego Broz](https://openalex.org/A5019969951), [Juan M. Novas](https://openalex.org/A5039055246), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [María Analía Rodríguez](https://openalex.org/A5103124875), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.5013129.
-    
-No abstract    
-
-    
-
-## MINLP: Outer Approximation Algorithm   
-
-OpenAlex: https://openalex.org/W4404142930    
-Open access: False
-    
-[Ignacio E. Grossmann](https://openalex.org/A5056017028), Springer eBooks. None(None)] 2024.https://doi.org/10.1007/978-3-030-54621-2_385-1.
-    
-No abstract    
-
-    
-
-## Global Optimization of Heat Exchanger Networks   
-
-OpenAlex: https://openalex.org/W4404144322    
-Open access: False
-    
-[Juan M. Zamora](https://openalex.org/A5113185913), [Ignacio E. Grossmann](https://openalex.org/A5056017028), Springer eBooks. None(None)] 2024.https://doi.org/10.1007/978-3-030-54621-2_235-1.
-    
-No abstract    
-
-    
 
 ## Process systems engineering enables efficient and sustainable membrane-based critical material separations   
 
