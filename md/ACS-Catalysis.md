@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Nov 16 01:23:20 2024
+Created on Sun Nov 17 01:35:52 2024
 
-Found 29 results from 2024-11-09 to 2024-11-16
+Found 40 results from 2024-11-10 to 2024-11-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Elucidating the Pivotal Role of Acid-Catalyzed Hydration in Electrochemical Carbon Corrosion   
-
-OpenAlex: https://openalex.org/W4404172151    
-Open access: False
-    
-[Seunghoon Lee](https://openalex.org/A5102659436), [Haesol Kim](https://openalex.org/A5081705335), [Minho M. Kim](https://openalex.org/A5088684800), [Tae Kyung Ko](https://openalex.org/A5110713649), [Hyung Min](https://openalex.org/A5019222326), [Hyungjun Kim](https://openalex.org/A5100388376), [Chang Hyuck Choi](https://openalex.org/A5072570172), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05547.
-    
-Carbon, with its high electrical conductivity and large surface area, enables the efficient dispersion and utilization of catalytic entities, contributing to the cost-effective development of electrochemical systems for a future energy economy. However, the longevity of these systems is often compromised by carbon corrosion, the fundamental details of which unfortunately remain largely unknown. Here, we elucidate that carbon corrosion is initiated by a covalent addition reaction that chemically breaks the sp2 carbon network, prior to electrochemical oxidation steps. Online differential electrochemical mass spectroscopy and post-mortem X-ray photoelectron spectroscopy unveil the pseudozeroth- and first-order reaction kinetics in the proton concentration and oxygen coverage on the carbon surface, respectively, allowing us to suggest acid-catalyzed hydration with carbocation formation as the initial step in carbon corrosion. The proposed mechanism is further evidenced by the decreased carbon corrosion rate in the presence of the carbocation scavenger, methanol, and by the evolution of the C18O16O product during the corrosion of carbon, pretreated in acid solution prepared with the 18O-isotope of water. Based on these findings, previous empirical understandings, pH-dependent and site-specific (defect, edge, etc.) carbon corrosion characteristics, can be successfully explained, bringing potential avenues for developing rational strategies to mitigate carbon corrosion.    
-
-    
-
-## Csp3–Csp2 Coupling of Isonitriles and (Hetero)arenes through a Photoredox-Catalyzed Double Decyanation Process   
-
-OpenAlex: https://openalex.org/W4404181274    
-Open access: True
-    
-[María Martín](https://openalex.org/A5101544561), [R. Martín Romero](https://openalex.org/A5042270411), [Chiara Portolani](https://openalex.org/A5049944494), [Mariola Tortosa](https://openalex.org/A5077073496), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06269.
-    
-Herein, we demonstrate the ability of isonitriles to be used as alkyl radical precursors in a photoredox-catalyzed transformation involving selective C–N cleavage and Csp3–Csp2 bond formation. This protocol allows for the preparation of functionalized heteroarenes from readily available isonitriles through a decyanation process. The reaction is general for primary, secondary, and tertiary substrates, including amino acid derivatives and druglike molecules.    
-
-    
-
-## Dual-Enzyme Catalyzed Stereoselective Synthesis of Chiral Aromatic Polysubstituted γ-Butyrolactones   
-
-OpenAlex: https://openalex.org/W4404182439    
-Open access: False
-    
-[Liliang Chu](https://openalex.org/A5084358889), [Xiaoyan Zhang](https://openalex.org/A5100352073), [Daidi Fan](https://openalex.org/A5043935829), [Yunpeng Bai](https://openalex.org/A5101663471), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04498.
-    
-Chiral polysubstituted aromatic γ-butyrolactones are core structural units of many natural products and high value-added chemicals in the pharmaceutical and food industries. Currently, the precise construction of multiple chiral centers on the five-membered heterocycle substituted by bulky phenyl groups faces big challenges, such as low stereoselectivity, expensive noble metal catalysts, harsh reaction conditions and low atom economy. Herein, we report a one-pot, two-enzyme catalytic strategy for the synthesis of 18 bulky di/trisubstituted aromatic γ-butyrolactones on the α-, β- and γ-carbons with good enantioselectivities (up to >99% ee) and diastereoselectivities (up to >99:1 dr). This cascade process includes sequential two-step asymmetric reduction of α-/β-unsaturated γ-ketoesters by four ene reductases and a carbonyl reductase without intermediate isolation and catalyst removal. In particular, the large sterically hindered substrates (1p–1s) were converted to the corresponding trisubstituted γ-butyrolactones (4p–4s) with 98–99% ee and >99:1 dr. This enzymatic cascade process represents a simple, atom-economic and enantioselective method to deliver a broad of bulky polysubstituted γ-butyrolactones in a cheap and efficient manner compared to conventional methods.    
-
-    
-
-## Unveiling the Electrocatalytic Hydrogen Evolution Reaction Pathway on RuP2 through Ab Initio Grand Canonical Monte Carlo   
-
-OpenAlex: https://openalex.org/W4404185926    
-Open access: False
-    
-[Shihan Qin](https://openalex.org/A5048666153), [Sayan Banerjee](https://openalex.org/A5072188872), [Mehmet Gökhan Şensoy](https://openalex.org/A5088820125), [Andrew M. Rappe](https://openalex.org/A5059503004), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04913.
-    
-In this study, the high catalytic reactivity of ruthenium phosphide (RuP2) has been identified by first-principles density functional theory (DFT) calculations for the electrocatalytic hydrogen evolution reaction (HER). Complex surface reconstructions are considered by applying the ab initio grand canonical Monte Carlo (ai-GCMC) algorithm, efficiently providing a sufficient phase-space exploration of possible surfaces. Combined with surface-phase Pourbaix diagrams, we are able to identify the actual surfaces that obtained under specific experimental environments, thus leading to a more accurate understanding of the nature of the active sites and the binding strength of adsorbates. Specifically, through hundreds of surface reconstructions and hydrogenation states generated with ai-GCMC, we identify the most favorable surface phases of RuP2 under aqueous acidic conditions. We discover that the HER activity is determined by multiple surfaces with different stoichiometries within a narrow electrode potential window. Low HER overpotential (η) has been found for each of the identified surfaces, as low as 0.04 V. High H-coverage reconstructed surfaces have been discovered under acidic conditions, and the surface Ru sites introduced by additional Ru adatoms or exposed by P-vacancies serve as the active sites for HER based on their nearly reversible H binding. This work provides atomistic insights into the origin of high HER activity on RuP2 by exploring the dynamic surface phases of electrocatalysts and features a generalizable method to explore the reconstructed/hydrogenated surface space as a function of experimental conditions.    
-
-    
-
-## H2-Evolving Cobalt–Protic-NHC Catalysts: Kinetic Zone Diagram Analysis and Mechanistic Insights   
-
-OpenAlex: https://openalex.org/W4404185932    
-Open access: False
-    
-[Sanajit Kumar Mandal](https://openalex.org/A5023698422), [Aayatti Mallick Gupta](https://openalex.org/A5079620766), [Joyanta Choudhury](https://openalex.org/A5042658817), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05104.
-    
-A series of systematically designed cobalt–protic-NHC complexes containing pendant proton-shuttle groups was synthesized. The proton-shuttle motifs enabled these complexes to act as efficient electrocatalysts for the hydrogen evolution reaction (HER) from various acids as proton sources. The effect of acid strength on the mechanism of HER was investigated by varying the proton source ( CH3COOH, pKaCH3CN = 23.51), triethylammonium tetrafluoroborate (Et3NHBF4, pKaCH3CN = 18.57), and trifluoroacetic acid (CF3COOH, pKaCH3CN = 12.70). Additionally, by changing experimental parameters such as substrate/catalyst concentration and scan rate, the single-electron EC′ zone diagram could be extended to the present multielectron reaction system where all of the zones were accessed with little deviation in some of the waveforms from the original. From the kinetic zone diagram analysis, some of the performance parameters such as the observed rate constant (kobs), turnover frequency (TOF), and the rate constant of the first chemical step (k1) were determined. Also, the zone diagram provided insight into the mechanistic cycle and the nature of the rate-limiting step. The investigation suggested that the protic proton of the proton-shuttle functionality triggered a hydrogen evolution reaction via intramolecular proton-hydride coupling from the Co(II)–H intermediate. This intramolecular dihydrogen elimination step, which was independent of the acid concentration, acted as the rate-limiting step and the turnover frequency of HER was fully controlled by this step.    
-
-    
 
 ## Improved Catalyst Performance for the Oxygen Evolution Reaction under a Chiral Bias   
 
@@ -320,6 +265,182 @@ OpenAlex: https://openalex.org/W4404359527
 Open access: False
     
 [Nidhi Garg](https://openalex.org/A5087003489), [Pardeep Dahiya](https://openalex.org/A5072568586), [Sonia Mallet‐Ladeira](https://openalex.org/A5063220467), [Rinaldo Poli](https://openalex.org/A5073644685), [Basker Sundararaju](https://openalex.org/A5076430680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05271.
+    
+No abstract    
+
+    
+
+## Phenolic Resin with an Optimized Donor–Acceptor Architecture for Photocatalytic Aerobic Oxidation   
+
+OpenAlex: https://openalex.org/W4404369428    
+Open access: False
+    
+[Meng Li](https://openalex.org/A5100457581), [Mei‐Rong Huang](https://openalex.org/A5101967419), [Lin Zheng](https://openalex.org/A5067601314), [Yidong Hou](https://openalex.org/A5061785514), [Masakazu Anpo](https://openalex.org/A5035012127), [Jimmy C. Yu](https://openalex.org/A5082740886), [Jinshui Zhang](https://openalex.org/A5066153585), [Xinchen Wang](https://openalex.org/A5061543342), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05023.
+    
+No abstract    
+
+    
+
+## Integration of N-Aryl Phenoxazine Photosensitizers and Nickel Catalysts in Polymer Supports Enhances Photocatalytic Organic Transformations   
+
+OpenAlex: https://openalex.org/W4404370581    
+Open access: False
+    
+[Chen Zhu](https://openalex.org/A5019325973), [Yan‐Xiang Li](https://openalex.org/A5041811325), [Chun‐Hua Liu](https://openalex.org/A5114357325), [Huai‐Ping Cong](https://openalex.org/A5015551238), [Yuan‐Yuan Zhu](https://openalex.org/A5014856728), [Wenbin Lin](https://openalex.org/A5057193669), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04920.
+    
+No abstract    
+
+    
+
+## Mechanistic Exploration of N-Heterocyclic Carbene Boranes as the Hydrogen Atom Transfer Reagent in Selective Hydrodefluorination Reactions   
+
+OpenAlex: https://openalex.org/W4404374358    
+Open access: False
+    
+[Amit Jaiswal](https://openalex.org/A5083149720), [Bastian Bjerkem Skjelstad](https://openalex.org/A5089960526), [Satoshi Maeda](https://openalex.org/A5007539161), [Chung‐Yang Huang](https://openalex.org/A5028962524), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05092.
+    
+No abstract    
+
+    
+
+## Construction of Active Rh–TiOx Interfacial Sites on RhFeOx/P25 for Highly Efficient Hydrogenation of CO2 to Ethanol   
+
+OpenAlex: https://openalex.org/W4404375881    
+Open access: False
+    
+[Chenfan Gong](https://openalex.org/A5005585519), [Hao Wang](https://openalex.org/A5100642827), [Jian Zhang](https://openalex.org/A5100409923), [Chengguang Yang](https://openalex.org/A5103948437), [Xianni Bu](https://openalex.org/A5009455946), [Haiyan Yang](https://openalex.org/A5089949087), [Jiong Li](https://openalex.org/A5100613630), [Peng Gao](https://openalex.org/A5111769469), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04954.
+    
+No abstract    
+
+    
+
+## Effect of Cation and Anion Vacancies in Ruthenium Oxide on the Activity and Stability of Acidic Oxygen Evolution   
+
+OpenAlex: https://openalex.org/W4404401878    
+Open access: False
+    
+[Jiao Yang](https://openalex.org/A5103251650), [Keyu An](https://openalex.org/A5027984142), [Zhichao Yu](https://openalex.org/A5090438723), [Lulu Qiao](https://openalex.org/A5063542420), [Youpeng Cao](https://openalex.org/A5101316123), [Yujuan Zhuang](https://openalex.org/A5041520738), [Chunfa Liu](https://openalex.org/A5101838706), [Jun Li](https://openalex.org/A5100361782), [Lishan Peng](https://openalex.org/A5072264076), [Hui Pan](https://openalex.org/A5075862322), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02779.
+    
+No abstract    
+
+    
+
+## Reactive Oxygen Species-Mediated Photooxidation in a Full-Space Electric Field Catalyst: Selectivity and Activity Control of Intramolecular Alcohol Hydroxyl and Aldehyde Groups   
+
+OpenAlex: https://openalex.org/W4404410867    
+Open access: False
+    
+[Yi‐Wen Han](https://openalex.org/A5103937843), [Yu-Ting Chu](https://openalex.org/A5100812994), [Lei Ye](https://openalex.org/A5100328600), [Tian‐Jun Gong](https://openalex.org/A5049677180), [Yao Fu](https://openalex.org/A5100719200), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04687.
+    
+No abstract    
+
+    
+
+## Computational Design-Enabled Divergent Modification of Monoterpene Synthases for Terpenoid Hyperproduction   
+
+OpenAlex: https://openalex.org/W4404412681    
+Open access: False
+    
+[Liqiu Su](https://openalex.org/A5007968908), [Pi Liu](https://openalex.org/A5101887980), [Weidong Liu](https://openalex.org/A5100687142), [Qi Liu](https://openalex.org/A5100453148), [Jian Gao](https://openalex.org/A5072536151), [Qiaohua Zhao](https://openalex.org/A5109402585), [Kai‐Zhi Jia](https://openalex.org/A5061220842), [Xiang Sheng](https://openalex.org/A5024722452), [Hongwu Ma](https://openalex.org/A5023379069), [Qinhong Wang](https://openalex.org/A5016303261), [Zongjie Dai](https://openalex.org/A5101875311), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05863.
+    
+No abstract    
+
+    
+
+## Molecular Electrochemical Mediator for Oxidative Multi-Site Proton Coupled Electron Transfer   
+
+OpenAlex: https://openalex.org/W4404412879    
+Open access: False
+    
+[Tarisha Gupta](https://openalex.org/A5109645791), [Yati](https://openalex.org/A5114660219), [Sanyam Sanyam](https://openalex.org/A5080317177), [Anirban Mondal](https://openalex.org/A5085923557), [Biswajit Mondal](https://openalex.org/A5020610169), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05832.
+    
+No abstract    
+
+    
+
+## Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte   
+
+OpenAlex: https://openalex.org/W4404412919    
+Open access: True
+    
+[André Olean‐Oliveira](https://openalex.org/A5004899785), [Najeeb Hasnain](https://openalex.org/A5114660237), [Ricardo Martínez‐Hincapié](https://openalex.org/A5008862433), [Ulrich Hagemann](https://openalex.org/A5074048659), [Adarsh Jain](https://openalex.org/A5041070012), [Doris Segets](https://openalex.org/A5062824606), [Ioannis Spanos](https://openalex.org/A5034471811), [Viktor Čolić](https://openalex.org/A5026566541), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04734.
+    
+No abstract    
+
+    
+
+## Low-Temperature Magnetic Field-Assisted Synthesis of Highly Crystalline Fe(OH)x and Its Directed Carrier Transfer Effect under Optical-Magnetic Fields   
+
+OpenAlex: https://openalex.org/W4404413495    
+Open access: False
+    
+[Li Wang](https://openalex.org/A5100322864), [Yuan Dong](https://openalex.org/A5103069210), [Jie Ying](https://openalex.org/A5020554421), [Yuan Feng](https://openalex.org/A5101872143), [Ziheng Zhu](https://openalex.org/A5007458023), [Yuxuan Xiao](https://openalex.org/A5009260936), [Ge Tian](https://openalex.org/A5060387948), [Ling Shen](https://openalex.org/A5043084585), [Wei Geng](https://openalex.org/A5100379837), [Yi Lu](https://openalex.org/A5034132713), [Si‐Ming Wu](https://openalex.org/A5102697287), [Xiaoyu Yang](https://openalex.org/A5100435418), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04283.
+    
+No abstract    
+
+    
+
+## Manganese-Catalyzed Asymmetric Hydrogenation for Atroposelective Dynamic Kinetic Resolution of Heterobiaryl Ketone N-Oxides   
+
+OpenAlex: https://openalex.org/W4404414560    
+Open access: False
+    
+[Yin-Bo Wan](https://openalex.org/A5022529324), [Xiang‐Ping Hu](https://openalex.org/A5084501389), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04979.
+    
+No abstract    
+
+    
+
+## Dual N-Heterocyclic Carbene/Photoredox-Catalyzed Coupling of Acyl Fluorides and Alkyl Silanes   
+
+OpenAlex: https://openalex.org/W4404416146    
+Open access: True
+    
+[Michael Jakob](https://openalex.org/A5022647501), [Luca Steiner](https://openalex.org/A5062763572), [Marius Göbel](https://openalex.org/A5114661390), [Jan P. Götze](https://openalex.org/A5039249176), [Matthew N. Hopkinson](https://openalex.org/A5022829750), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03103.
+    
+No abstract    
+
+    
+
+## Enhanced Photocatalytic Production of Hydrogen Peroxide by Covalent Triazine Frameworks with Stepwise Electron Transfer   
+
+OpenAlex: https://openalex.org/W4404417009    
+Open access: False
+    
+[Hao Zhang](https://openalex.org/A5100397032), [Wenxin Wei](https://openalex.org/A5034045320), [Kai Chi](https://openalex.org/A5017919922), [Yong Zheng](https://openalex.org/A5088200752), [Xin Ying Kong](https://openalex.org/A5005904436), [Liqun Ye](https://openalex.org/A5009243555), [Yan Zhao](https://openalex.org/A5100758533), [Kai A. I. Zhang](https://openalex.org/A5079019316), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05328.
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4404418735    
+Open access: False
+    
+, ACS Catalysis. 14(22)] 2024.https://doi.org/10.1021/csv014i022_1868022.
+    
+No abstract    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4404419249    
+Open access: False
+    
+, ACS Catalysis. 14(22)] 2024.https://doi.org/10.1021/csv014i022_1868023.
+    
+No abstract    
+
+    
+
+## Generating Cationic Nickel Clusters over Oxygen-Functionalized Boron Nitride to Boost Methane Dry Reforming   
+
+OpenAlex: https://openalex.org/W4404420889    
+Open access: False
+    
+[Fan Jie](https://openalex.org/A5100568670), [Wen‐Cui Li](https://openalex.org/A5053312733), [Lei He](https://openalex.org/A5101865587), [Bowen He](https://openalex.org/A5011306017), [Fan Tang](https://openalex.org/A5063218196), [Zhankai Liu](https://openalex.org/A5011424663), [Dongqi Wang](https://openalex.org/A5086386273), [Xi Liu](https://openalex.org/A5100450813), [Liwei Chen](https://openalex.org/A5102401820), [An‐Hui Lu](https://openalex.org/A5012152061), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05957.
     
 No abstract    
 

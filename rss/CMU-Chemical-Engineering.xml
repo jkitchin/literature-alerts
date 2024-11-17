@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Nov 2024 01:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 01:35:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Process systems engineering enables efficient and sustainable membrane-based critical material separations</title>
-      <link>https://doi.org/10.2172/2476222</link>
-      <description>Molly Dougher, Jason Yao, Andrew Lee, Laurianne Lair, Jonathan Aubuchon Ouimet, William A. Phillip, Chrysanthos E. Gounaris, Alexander W. Dowling, No host. None(None)] 2024. https://openalex.org/W4404169299
-
-                No abstract</description>
-      <author>Molly Dougher, Jason Yao, Andrew Lee, Laurianne Lair, Jonathan Aubuchon Ouimet, William A. Phillip, Chrysanthos E. Gounaris, Alexander W. Dowling</author>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2476222</guid>
-    </item>
     <item>
       <title>A novel mixed-integer linear programming formulation for continuous-time inventory routing</title>
       <link>https://doi.org/10.1016/j.cor.2024.106883</link>
@@ -66,6 +56,26 @@
       <author>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski</author>
       <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2476526</guid>
+    </item>
+    <item>
+      <title>Comparative study of machine learning techniques for post-combustion carbon capture systems</title>
+      <link>https://doi.org/10.3389/frai.2024.1441934</link>
+      <description>Yeping Hu, Bo Lei, Yash Girish Shah, Jos&#233; Cadena, Amar Saini, Grigorios Panagakos, Phan Nguyen, Frontiers in Artificial Intelligence. 7(None)] 2024. https://openalex.org/W4404387131
+
+                Computational analysis of countercurrent flows in packed absorption columns, often used in solvent-based post-combustion carbon capture systems (CCSs), is challenging. Typically, computational fluid dynamics (CFD) approaches are used to simulate the interactions between a solvent, gas, and column's packing geometry while accounting for the thermodynamics, kinetics, heat, and mass transfer effects of the absorption process. These simulations can then be used explain a column's hydrodynamic characteristics and evaluate its CO 2 -capture efficiency. However, these approaches are computationally expensive, making it difficult to evaluate numerous designs and operating conditions to improve efficiency at industrial scales. In this work, we comprehensively explore the application of statistical ML methods, convolutional neural networks (CNNs), and graph neural networks (GNNs) to aid and accelerate the scale-up and design optimization of solvent-based post-combustion CCSs. We apply these methods to CFD datasets of countercurrent flows in absorption columns with structured packings characterized by several geometric parameters. We train models to use these parameters, inlet velocity conditions, and other model-specific representations of the column to estimate key determinants of CO 2 -capture efficiency without having to simulate additional CFD datasets. We also evaluate the impact of different input types on the accuracy and generalizability of each model. We discuss the strengths and limitations of each approach to further elucidate the role of CNNs, GNNs, and other machine learning approaches for CO 2 -capture property prediction and design optimization.</description>
+      <author>Yeping Hu, Bo Lei, Yash Girish Shah, Jos&#233; Cadena, Amar Saini, Grigorios Panagakos, Phan Nguyen</author>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/frai.2024.1441934</guid>
+    </item>
+    <item>
+      <title>The trust region filter strategy: Survey of a rigorous approach for optimization with surrogate models</title>
+      <link>https://doi.org/10.1016/j.dche.2024.100197</link>
+      <description>Lorenz T. Biegler, Digital Chemical Engineering. None(None)] 2024. https://openalex.org/W4404387629
+
+                No abstract</description>
+      <author>Lorenz T. Biegler</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.dche.2024.100197</guid>
     </item>
   </channel>
 </rss>
