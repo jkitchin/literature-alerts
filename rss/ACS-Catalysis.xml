@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Nov 2024 01:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 01:26:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -406,6 +406,16 @@
       <author>Fan Jie, Wen&#8208;Cui Li, Lei He, Bowen He, Fan Tang, Zhankai Liu, Dongqi Wang, Xi Liu, Liwei Chen, An&#8208;Hui Lu</author>
       <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05957</guid>
+    </item>
+    <item>
+      <title>Thermochemical Correlations of Redox and Br&#248;nsted Sites on Bifunctional Polyoxometalate Clusters and Their Kinetic Consequences in Methanol-O&lt;sub&gt;2&lt;/sub&gt; Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c04745</link>
+      <description>Guangming Cai, Ya-Huei Cathy Chin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404436420
+
+                No abstract</description>
+      <author>Guangming Cai, Ya-Huei Cathy Chin</author>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04745</guid>
     </item>
   </channel>
 </rss>

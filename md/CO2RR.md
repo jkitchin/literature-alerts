@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Nov 17 01:35:50 2024
+Created on Mon Nov 18 01:26:27 2024
 
-Found 115 results from 2024-11-10 to 2024-11-17
+Found 122 results from 2024-11-11 to 2024-11-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Computational descriptor for electrochemical currents of carbon dioxide reduction on Cu facets   
-
-OpenAlex: https://openalex.org/W4404211724    
-Open access: False
-    
-[Timothy T. Yang](https://openalex.org/A5052704502), [Wissam A. Saidi](https://openalex.org/A5054623889), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115836.
-    
-No abstract    
-
-    
 
 ## Highly Active and Stable Cu‐Cd Bimetallic Oxides for Enhanced Electrochemical CO2 Reduction   
 
@@ -62,12 +51,45 @@ No abstract
 
     
 
+## Boron-Doped Polyphosphonitrile for Improved Selectivity in the Photocatalytic Conversion of Carbon Dioxide to Methane   
+
+OpenAlex: https://openalex.org/W4404424443    
+Open access: False
+    
+[Xinlin Liu](https://openalex.org/A5047996507), [YanSong Chu](https://openalex.org/A5111686793), [Na Gong](https://openalex.org/A5069728349), [Jiaqi Wang](https://openalex.org/A5100365371), [Liguang Tang](https://openalex.org/A5089746472), [Yu Gu](https://openalex.org/A5008506312), [Jie Jin](https://openalex.org/A5101649291), [Ziyang Lu](https://openalex.org/A5051793007), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.5021798.
+    
+No abstract    
+
+    
+
+## Proper N Coordination improves catalytic activity of graphene edge anchored Pt single atom for conversion of methane and carbon dioxide to acetic acid   
+
+OpenAlex: https://openalex.org/W4404436532    
+Open access: False
+    
+[Baoyu Huang](https://openalex.org/A5101572275), [Xiaomei Zhao](https://openalex.org/A5103003178), [Yang Ma](https://openalex.org/A5025038200), [Zhengjun Fang](https://openalex.org/A5039619767), Molecular Catalysis. 570(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114688.
+    
+No abstract    
+
+    
+
+## Tandem modulation strategy for copper-based catalysts: Towards efficient C-C coupling in the electrochemical reduction of carbon dioxide   
+
+OpenAlex: https://openalex.org/W4404443658    
+Open access: False
+    
+[Shiji Li](https://openalex.org/A5043357944), [Zekun Zhang](https://openalex.org/A5100639372), [Duowen Yang](https://openalex.org/A5085623846), [Shanshan Li](https://openalex.org/A5100371483), [Jing Wang](https://openalex.org/A5100378741), [Wei Yan](https://openalex.org/A5100765554), [Hao Xu](https://openalex.org/A5043370996), Journal of Environmental Sciences. None(None)] 2024.https://doi.org/10.1016/j.jes.2024.11.007.
+    
+No abstract    
+
+    
+
 ## Correction: Solar-driven carbon dioxide reduction: a review of recent developments and future prospects   
 
 OpenAlex: https://openalex.org/W4404261546    
 Open access: False
     
-[Omar H. AL‐Zoubi](https://openalex.org/A5019723210), [Somavia Ameen](https://openalex.org/A5010761470), [Farag M. A. Altalbawy](https://openalex.org/A5066662333), [Carlos Rodriguez‐Benites](https://openalex.org/A5020411814), [Soumya V. Menon](https://openalex.org/A5073808297), [Mandeep Kaur](https://openalex.org/A5103237197), [I. B. Sapaev](https://openalex.org/A5062683176), [Merwa Alhadrawi](https://openalex.org/A5094068033), [G.V. Sivaprasad](https://openalex.org/A5099241194), [Hussam Abdali Abdulridui](https://openalex.org/A5107079100), Chemical Papers. None(None)] 2024.https://doi.org/10.1007/s11696-024-03766-y.
+[Omar H. AL‐Zoubi](https://openalex.org/A5019723210), [Somavia Ameen](https://openalex.org/A5010761470), [Farag M. A. Altalbawy](https://openalex.org/A5066662333), [Carlos Rodriguez‐Benites](https://openalex.org/A5020411814), [Soumya V. Menon](https://openalex.org/A5073808297), [Mandeep Kaur](https://openalex.org/A5103237197), [I. B. Sapaev](https://openalex.org/A5062683176), [Merwa Alhadrawi](https://openalex.org/A5094068033), [G. V. Sivaprasad](https://openalex.org/A5099241194), [Hussam Abdali Abdulridui](https://openalex.org/A5107079100), Chemical Papers. None(None)] 2024.https://doi.org/10.1007/s11696-024-03766-y.
     
 No abstract    
 
@@ -81,28 +103,6 @@ Open access: False
 [Parviz Allazov](https://openalex.org/A5095333519), [M Barr](https://openalex.org/A5054470361), [Alireza Ranjbari](https://openalex.org/A5051099179), [Sylvain Franger](https://openalex.org/A5054209831), [Julien Bachmann](https://openalex.org/A5002887494), [Pierre Millet](https://openalex.org/A5071122258), [Loïc Assaud](https://openalex.org/A5083797226), No host. None(None)] 2019.None.
     
 No abstract    
-
-    
-
-## Alternative anode paired to electrocatalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4404210282    
-Open access: False
-    
-[Tongyu Wu](https://openalex.org/A5111102838), International Journal of Hydrogen Energy. 94(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.11.100.
-    
-No abstract    
-
-    
-
-## Strategies and Mechanisms to Improve the Catalytic Performance of Cu-Based Catalyst for CO2 Electrochemical Reduction Reaction to Methane   
-
-OpenAlex: https://openalex.org/W4404210729    
-Open access: True
-    
-[Yuxuan Zhao](https://openalex.org/A5108069902), Highlights in Science Engineering and Technology. 116(None)] 2024.https://doi.org/10.54097/78z83e44 ([pdf](https://drpress.org/ojs/index.php/HSET/article/download/25677/25155)).
-    
-This article introduces three significant ways of producing methane by electrocatalytic reduction of carbon dioxide. Electrocatalytic reduction of carbon dioxide can efficiently convert CO2 molecules into various high-energy fuels under ambient conditions. Methane gas, among them, stands out due to its relatively high calorific value, chemical stability, ease of storage and transportation. Therefore, research on electrocatalytic reduction of CO2 to generate methane is crucial. Common methods include adjusting catalyst morphology to expose more active sites, building nanoscale catalysts results in smaller-sized nanostructured copper and combining copper with other metals to form alloys, creating multi-metal catalysts. By optimizing these catalysts, we can efficiently reduce carbon dioxide into methane.    
 
     
 
@@ -183,6 +183,28 @@ The recycling of industrially emitted CO2 is an urgent environmental task. Elect
 
     
 
+## Electrochemical CO2 Reduction Using a New Ru‐NAD Type Bis Carbonyl Complex   
+
+OpenAlex: https://openalex.org/W4404428097    
+Open access: True
+    
+[Debashis Ghosh](https://openalex.org/A5001996604), [T. Kajiwara](https://openalex.org/A5021822766), [Nandini M Gotgi](https://openalex.org/A5095088137), [Koji Tanaka](https://openalex.org/A5041136213), European Journal of Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1002/ejic.202400657 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejic.202400657)).
+    
+A new ruthenium(II) NAD (NAD = Nicotinamide Adenine Dinucleotide) type bis‐carbonyl complex, [Ru(bpy)(pbn)(CO)2]2+ [pbn = 2‐(pyridin‐2‐yl)benzo[b]‐1,5‐naphthyridine; bpy = 2,2'‐bipyridine] [1]2+, was successfully synthesized and fully characterized by single‐crystal X‐ray structural analysis, ESI‐MS, IR and NMR spectroscopy. Complex [1]2+ together with [Ru(bpy)(pbn)(CO)(COOH)]+ and/or [Ru(bpy)(pbn) (CO)(CO2)]0 complexes exist as equilibrium mixtures in aqueous solutions as evident from spectroscopic study. Chemical reduction of [1]2+ resulted the formation corresponding NADH form i.e., [Ru(bpy)(pbnHH)(CO)2]2+ (pbnHH = 2‐(pyridin‐2‐yl)‐5,10‐dihydrobenzo[b][1,5]naphthyridine) [1.HH]2+ as a two‐electron‐reduced species. The electrochemical behavior of complex [1]2+ in the presence of acid was investigated based on cyclic voltammetry analysis. A control potential electrolysis of [1]2+ afforded formate (HCOO‐) as the major product with a lesser amount of CO and H2, whereas that of [Ru(bpy)2(CO)2]2+ complex produced CO as the main product with a lesser amount of HCOO‐ and H2. The experimental results suggest that the selectivity of HCOO‐ over CO should be due to catalytic hydride transfer from the NADH‐type ligands of [1]2+ to CO2.    
+
+    
+
+## Application of UAVs and Remote Sensing Technologies for Atmospheric CO2 Capturing: A Study Application of UAVs and Remote Sensing in CO2 Reductions   
+
+OpenAlex: https://openalex.org/W4404446436    
+Open access: True
+    
+[Biplov Paneru](https://openalex.org/A5092564092), [Bishwash Paneru](https://openalex.org/A5092564093), [Ramhari Poudyal](https://openalex.org/A5082696673), [Khem N. Poudyal](https://openalex.org/A5002232122), No host. 1(3)] 2024.https://doi.org/10.53697/ijgaes.v1i3.3348 ([pdf](https://journal.pubmedia.id/index.php/ijgaes/article/download/3348/3275)).
+    
+Human activities are a significant contributor to climate change, with rising levels of CO₂ in the atmosphere. Several carbon capture and sequestration (CCS) methods have been developed to address this issue. Uncrewed Aerial Vehicles (UAVs) and remote sensing technologies are emerging as significant improvements to the efficiency and effectiveness of atmospheric carbon capture initiatives. This research examines using UAVs and remote sensing technologies to monitor, quantify, and manage atmospheric CO₂ levels. Furthermore, the study explores the implications of integrating robotic-drone technology, emphasizing their ability to contribute to a sustainable future. These technologies, incorporating modern data collection and analysis methodologies, provide promising answers for climate change mitigation and long-term environmental sustainability.    
+
+    
+
 ## Co Cluster-Modified Ni Nanoparticles with Superior Light-Driven Thermocatalytic CO2 Reduction by CH4   
 
 OpenAlex: https://openalex.org/W4404331619    
@@ -222,6 +244,17 @@ OpenAlex: https://openalex.org/W4404321820
 Open access: False
     
 [Feng Wang](https://openalex.org/A5070497665), [Wenhao Jing](https://openalex.org/A5004251719), [Shengjie Bai](https://openalex.org/A5091360087), [Ya Liu](https://openalex.org/A5100459723), [Liejin Guo](https://openalex.org/A5100609247), Energy. None(None)] 2024.https://doi.org/10.1016/j.energy.2024.133817.
+    
+No abstract    
+
+    
+
+## The Relationship between Electronic Behavior of Single Atom Catalysts and CO2 Reduction to Oxygenates   
+
+OpenAlex: https://openalex.org/W4404438100    
+Open access: False
+    
+[Fenghai Cao](https://openalex.org/A5112984094), [Guangbo Liu](https://openalex.org/A5058805836), [Xianbiao Wang](https://openalex.org/A5015884235), [Li Tan](https://openalex.org/A5089757687), [Noritatsu Tsubaki](https://openalex.org/A5054090836), EnergyChem. None(None)] 2024.https://doi.org/10.1016/j.enchem.2024.100141.
     
 No abstract    
 
@@ -370,6 +403,17 @@ No abstract
 
     
 
+## Bimetallic Ni/Fe functionalized, 3D printed, self-supporting catalytic-electrodes for CO2 reduction reaction   
+
+OpenAlex: https://openalex.org/W4404438440    
+Open access: False
+    
+[Jiayi Sheng](https://openalex.org/A5033319073), [Mingshu Gao](https://openalex.org/A5114112201), [Hao Chen](https://openalex.org/A5100353673), [Kai Zhao](https://openalex.org/A5061456453), [Yan-Li Shi](https://openalex.org/A5045392802), [Wei Wang](https://openalex.org/A5068707937), Fuel. 382(None)] 2024.https://doi.org/10.1016/j.fuel.2024.133703.
+    
+No abstract    
+
+    
+
 ## Assessment of the impact of novel photovoltaic materials on climate change: A numerical simulation study on surface temperature regulation and CO2 reduction   
 
 OpenAlex: https://openalex.org/W4404328671    
@@ -381,12 +425,23 @@ Abstract Global climate change is an urgent environmental challenge . To mitigat
 
     
 
+## UV–visible-infrared light driven photothermal synergistic catalytic reduction of CO2 over Cs3Bi2Br9/MoS2 S-scheme photocatalyst   
+
+OpenAlex: https://openalex.org/W4404437341    
+Open access: False
+    
+[Min Jin](https://openalex.org/A5030110245), [Xiaotang Yang](https://openalex.org/A5110851282), [Xuesheng Wang](https://openalex.org/A5021986750), [Zhijie Zhang](https://openalex.org/A5100332494), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.11.107.
+    
+No abstract    
+
+    
+
 ## Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges   
 
 OpenAlex: https://openalex.org/W4404331932    
 Open access: True
     
-[William F. Lamb](https://openalex.org/A5002742682), [Carl‐Friedrich Schleussner](https://openalex.org/A5033036905), [Giacomo Grassi](https://openalex.org/A5015410865), [Stephen M. Smith](https://openalex.org/A5110129533), [Matthew Gidden](https://openalex.org/A5012881631), [Oliver Geden](https://openalex.org/A5016996676), [Artur Runge-Metzger](https://openalex.org/A5073228274), [Naomi E. Vaughan](https://openalex.org/A5022069918), [Gregory F. Nemet](https://openalex.org/A5033478519), [Injy Johnstone](https://openalex.org/A5035898273), [Ingrid Schulte](https://openalex.org/A5044212285), [Jan C. Minx](https://openalex.org/A5060648323), Environmental Research Letters. None(None)] 2024.https://doi.org/10.1088/1748-9326/ad91c7.
+[William F. Lamb](https://openalex.org/A5002742682), [Carl-Friedrich Schleußner](https://openalex.org/A5033036905), [Giacomo Grassi](https://openalex.org/A5015410865), [Stephen M. Smith](https://openalex.org/A5110129533), [Matthew Gidden](https://openalex.org/A5012881631), [Oliver Geden](https://openalex.org/A5016996676), [Artur Runge-Metzger](https://openalex.org/A5073228274), [Naomi E. Vaughan](https://openalex.org/A5022069918), [Gregory F. Nemet](https://openalex.org/A5033478519), [Injy Johnstone](https://openalex.org/A5035898273), [Ingrid Schulte](https://openalex.org/A5044212285), [Jan C. Minx](https://openalex.org/A5060648323), Environmental Research Letters. None(None)] 2024.https://doi.org/10.1088/1748-9326/ad91c7.
     
 Abstract Carbon dioxide removal (CDR) involves capturing CO2 from the atmosphere and storing it for decades to millennia. Alongside deep emissions reductions, CDR is required for meeting the temperature goal of the Paris Agreement (IPCC 2022). However, parties to the agreement do not currently distinguish CDR from emissions reductions in their climate pledges. In this perspective, we argue that this lowers transparency and hinders the assessment of how credible and ambitious mitigation plans are.    
 
@@ -411,6 +466,28 @@ Open access: True
 [Stephen E. Schwartz](https://openalex.org/A5032226581), Biogeosciences. 21(22)] 2024.https://doi.org/10.5194/bg-21-5045-2024.
     
 Abstract. The rate at which atmospheric carbon dioxide (CO2) would decrease in response to a decrease in anthropogenic emissions or cessation (net zero emissions) is of great scientific and societal interest. Such a decrease in atmospheric CO2 on the centennial scale would be due essentially entirely to transfer of carbon into the world ocean (WO) and the terrestrial biosphere (TB), which are sink compartments on this timescale. The rate of decrease in excess atmospheric CO2 and the apportionment of this decrease into the two sink compartments have been examined in two prior model intercomparison studies, subsequent either to a pulse emission of CO2 or to abrupt cessation of anthropogenic CO2 emissions. The present study examines and quantifies inter-model anticorrelation in those studies in the net rate and extent of uptake of CO2 into the two sink compartments. Specifically, in each study the time-dependent coefficients characterizing the net transfer rate into the two sink compartments (evaluated as the net transfer rate normalized to excess atmospheric CO2 above the pre-pulse amount for the pulse experiment or as the net transfer rate divided by excess atmospheric CO2 above the preindustrial amount for the abrupt cessation experiment) were found to exhibit strong anticorrelation across the participating models. That is, models for which the normalized rate of uptake into the WO was high exhibited low uptake rate into the TB and vice versa. This anticorrelation in net transfer rate results in anticorrelation in net uptake extent into the two compartments that is substantially greater than would be expected simply from competition for excess CO2 between the two sink compartments. This anticorrelation, which is manifested in diminished inter-model diversity, can lead to artificially enhanced confidence in current understanding of the consequences of potential future reductions of CO2 emissions and in the global warming potentials of non-CO2 greenhouse gases relative to that of CO2.    
+
+    
+
+## The Scientific Case Against Net Zero: Falsifying the Greenhouse Gas Hypothesis   
+
+OpenAlex: https://openalex.org/W4404425509    
+Open access: True
+    
+[Michael Simpson](https://openalex.org/A5054521316), Journal of Sustainable Development. 17(6)] 2024.https://doi.org/10.5539/jsd.v17n6p137.
+    
+The UK Net Zero by 2050 Policy was undemocratically adopted by the UK government in 2019. Yet the science of so-called &lsquo;greenhouse gases&rsquo; is well known and there is no reason to reduce emissions of carbon dioxide (CO2), methane (CH4), or nitrous oxide (N2O) because absorption of radiation is logarithmic. Adding to or removing these naturally occurring gases from the atmosphere will make little difference to the temperature or the climate. Water vapor (H2O) is claimed to be a much stronger &lsquo;greenhouse gas&rsquo; than CO2, CH4 or N2O but cannot be regulated because it occurs naturally in vast quantities. This work explores the established science and recent developments in scientific knowledge around Net Zero with a view to making a rational recommendation for policy makers. There is little scientific evidence to support the case for Net Zero and that greenhouse gases are unlikely to contribute to a &lsquo;climate emergency&rsquo; at current or any likely future higher concentrations. There is a case against the adoption of Net Zero given the enormous costs associated with implementing the policy, and the fact it is unlikely to achieve reductions in average near surface global air temperature, regardless of whether Net Zero is fully implemented and adopted worldwide. Therefore, Net Zero does not pass the cost-benefit test. The recommended policy is to abandon Net Zero and do nothing about so-called &lsquo;greenhouse gases&rsquo;.    
+
+    
+
+## Cu-Supported ZnO under Conditions of CO2 Reduction to Methanol: Why 0.2 ML Coverage?   
+
+OpenAlex: https://openalex.org/W4404420877    
+Open access: False
+    
+[Robert H. Lavroff](https://openalex.org/A5039904126), [Edison Cummings](https://openalex.org/A5104241674), [Kaustubh J. Sawant](https://openalex.org/A5090199086), [Zisheng Zhang](https://openalex.org/A5004503548), [Philippe Sautet](https://openalex.org/A5025258970), [Anastassia N. Alexandrova](https://openalex.org/A5000151397), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c02908.
+    
+By hydrogenating carbon dioxide to value-added products such as methanol, heterogeneous catalysts can lower greenhouse gas emissions and generate alternative liquid fuels. The most common commercial catalyst for the reduction of CO2 to methanol is Cu/ZnO/Al2O3, where ZnO improves conversion and selectivity toward methanol. The structure of this catalyst is thought to be Zn oxy(hydroxyl) overlayers on the nanometer scale on Cu. In the presence of CO2 and H2 under reaction conditions, the Cu substrate itself can be restructured and/or partially oxidized at its interface with ZnO, or the Zn might be reduced, possibly completely to a CuZn alloy, making the exact structure and stoichiometry of the active site a topic of active debate. In this study, we examine Zn3 clusters on Cu(100) and Cu(111), as a subnano model of the catalyst. We use a grand canonical genetic algorithm to sample the system structure and stoichiometry under catalytic conditions: T of 550 K, initial partial pressures of H2 of 4.5 atm and CO2 of 0.5 atm, and 1% conversion. We uncover a strong dependence of the catalyst stoichiometry on the surface coverage. At the optimal 0.2 ML surface coverage, chains of Zn(OH) form on both Cu surfaces. On Cu(100), the catalyst has many thermally accessible metastable minima, whereas on Cu(111), it does not. No oxidation or reconstruction of the Cu is found. However, at a lower coverage of Zn, Zn3 clusters take on a metallic form on Cu(100), and slightly oxidized Zn3O on Cu(111), while the surface uptakes H to form a variety of low hydrides of Cu. We thus hypothesize that the 0.2 ML Zn coverage is optimal, as found experimentally, because of the stronger yet incomplete oxidation afforded by Zn at this coverage.    
 
     
 
@@ -480,17 +557,6 @@ Given the global urgency to mitigate climate change, a key action is the develop
 
     
 
-## Study on Mechanism and Effect of Different Viscosity Reducing Methods on Offshore Heavy Oil   
-
-OpenAlex: https://openalex.org/W4404262491    
-Open access: True
-    
-[Hui Liao](https://openalex.org/A5112556597), [Zongbin Liu](https://openalex.org/A5068962490), [Dong Liu](https://openalex.org/A5100407534), [Taotao Ge](https://openalex.org/A5062511429), [Cheng-Lin Du](https://openalex.org/A5078058464), Journal of Physics Conference Series. 2834(1)] 2024.https://doi.org/10.1088/1742-6596/2834/1/012093.
-    
-Abstract Bohai is rich in heavy oil. And its efficient development is significant. In this essay, ordinary heavy oil and extra one were selected, and the viscosity characteristics was also investigated referring to its internal composition. And so as the reducing viscosity effects of steam, oil-soluble viscosity reducer, diesel, emulsifier, flue gas and carbon dioxide. The experimental results show that resin and asphaltene content have positive effect on the viscosity of heavy oil. Compared with ordinary heavy oil, the drop is significantly greater when the temperature increases by 10°C. For ordinary heavy oil, the inflection point temperature is from 50°C to 70°C, and for extra-heavy oil, it is above 100°C. For ordinary heavy oil, its flow effect can be better improved without too high temperature, while it’s totally different for super heavy oil. For which, higher temperature and other auxiliary viscosity reduction methods are needed to achieve better flow performance. Diesel oil reduce viscosity of heavy oil by similar solubility principle, but the demand for diesel oil is large. At 50°C, the viscosity of super heavy oil with 0.5% emulsion viscosity reducer added is 36 mPa·s, but the water content needs to reach above 30%.Oil-soluble viscosity reducer reduces viscosity by dissolving asphaltenes and resins and dismantling aggregate structure of heavy oil aromatic flakes.However, the dosage should reach about 20 %, so that the viscosity of super heavy oil can be reduced to the level of dilute oil. Overall, for developing super heavy oil, steam compound with oil soluble viscosity reducer can be taken into account at the early production stage, and the emulsion viscosity reducer can be used in the middle development stage and wellbore viscosity reduction and lifting process. Finally, for ordinary heavy oil, flue gas’s viscosity reduction effects, nitrogen and carbon dioxide are investigated. It is found that the viscosity reduction effect of carbon dioxide is the best, followed by flue gas and nitrogen. Considering the offshore gas source, cost and carbon emission requirements, it is recommended to use flue gas in the field. The research provides theoretical guidance and technical reference for development of different types of offshore heavy oil.    
-
-    
-
 ## Pathways to Carbon Neutrality in Civil Engineering   
 
 OpenAlex: https://openalex.org/W4404250207    
@@ -499,6 +565,17 @@ Open access: False
 [Yucheng Wang](https://openalex.org/A5100410455), Applied and Computational Engineering. 89(1)] 2024.https://doi.org/10.54254/2755-2721/89/20241118.
     
 Abstract. With the development of the global economy and trade exchanges worldwide, urban infrastructure and industrial development have become part of the competition among countries. However, the construction industry and the production of chemical materials emit a large amount of carbon dioxide, leading to the continuous deterioration of the environment, so it is necessary to effectively reduce emissions. As a synonym for global emission reduction, carbon neutrality plays an important role in different industries, especially in civil engineering. In this paper, we start with building materials and green construction to explore the realization of carbon neutrality at the source and center of carbon emission in civil engineering. Firstly, we introduce the low-carbon production technologies of cement and steel, including calcium recycling and membrane separation technology in the cement industry, high-temperature combustion technology and carbon capture technology in steel industry. Then, we take renewable concrete as an example to discuss the emission reduction path of green building materials. Finally, it outlines how to carry out green construction, introduces assembly carbon reduction technology and energy integration system, and demonstrates the possibility of this green construction program in the case of "T&A House".    
+
+    
+
+## Study on Mechanism and Effect of Different Viscosity Reducing Methods on Offshore Heavy Oil   
+
+OpenAlex: https://openalex.org/W4404262491    
+Open access: True
+    
+[Hui Liao](https://openalex.org/A5112556597), [Zongbin Liu](https://openalex.org/A5068962490), [Dong Liu](https://openalex.org/A5100407534), [Taotao Ge](https://openalex.org/A5062511429), [Cheng-Lin Du](https://openalex.org/A5078058464), Journal of Physics Conference Series. 2834(1)] 2024.https://doi.org/10.1088/1742-6596/2834/1/012093.
+    
+Abstract Bohai is rich in heavy oil. And its efficient development is significant. In this essay, ordinary heavy oil and extra one were selected, and the viscosity characteristics was also investigated referring to its internal composition. And so as the reducing viscosity effects of steam, oil-soluble viscosity reducer, diesel, emulsifier, flue gas and carbon dioxide. The experimental results show that resin and asphaltene content have positive effect on the viscosity of heavy oil. Compared with ordinary heavy oil, the drop is significantly greater when the temperature increases by 10°C. For ordinary heavy oil, the inflection point temperature is from 50°C to 70°C, and for extra-heavy oil, it is above 100°C. For ordinary heavy oil, its flow effect can be better improved without too high temperature, while it’s totally different for super heavy oil. For which, higher temperature and other auxiliary viscosity reduction methods are needed to achieve better flow performance. Diesel oil reduce viscosity of heavy oil by similar solubility principle, but the demand for diesel oil is large. At 50°C, the viscosity of super heavy oil with 0.5% emulsion viscosity reducer added is 36 mPa·s, but the water content needs to reach above 30%.Oil-soluble viscosity reducer reduces viscosity by dissolving asphaltenes and resins and dismantling aggregate structure of heavy oil aromatic flakes.However, the dosage should reach about 20 %, so that the viscosity of super heavy oil can be reduced to the level of dilute oil. Overall, for developing super heavy oil, steam compound with oil soluble viscosity reducer can be taken into account at the early production stage, and the emulsion viscosity reducer can be used in the middle development stage and wellbore viscosity reduction and lifting process. Finally, for ordinary heavy oil, flue gas’s viscosity reduction effects, nitrogen and carbon dioxide are investigated. It is found that the viscosity reduction effect of carbon dioxide is the best, followed by flue gas and nitrogen. Considering the offshore gas source, cost and carbon emission requirements, it is recommended to use flue gas in the field. The research provides theoretical guidance and technical reference for development of different types of offshore heavy oil.    
 
     
 
@@ -590,17 +667,6 @@ Jimsar shale oil in China has undergone a rapid decline in formation energy and 
 
     
 
-## Characteristics of exhaust emissions from MGO–bioethanol fuel blend using a combustion chamber   
-
-OpenAlex: https://openalex.org/W4404419191    
-Open access: True
-    
-[J. Kim](https://openalex.org/A5110276459), [Jong Un Park](https://openalex.org/A5110767061), [Tae‐Ho Lee](https://openalex.org/A5100759359), [Il-Seok Kang](https://openalex.org/A5014609423), Advances in Mechanical Engineering. 16(11)] 2024.https://doi.org/10.1177/16878132241298338.
-    
-We conducted combustion tests with marine gas oil (MGO) blended with bioethanol (BE) in ratios of 0%–30% to address International Maritime Organization air pollution regulations on exhaust gases emitted from ships and fossil fuel resource depletion and achieve carbon neutrality. We designed and manufactured a standard 1-ton combustion chamber, using an attached gun-type burner to analyze the exhaust gases of each sample under similar conditions. Compared to pure MGO (BE0), the oxygen content increased by approximately 1.91% at the maximum blend ratio (BE30), while carbon dioxide decreased by 1.39%. Nitrogen oxides were reduced by approximately 30%. Sulfur oxides were minimal (<0.03%), with MGO alone at approximately 0.08 ppm, confirming the superior quality of low-sulfur fuel. In all blends containing BE, no sulfur oxides were detected. Additionally, exhaust gas temperature decreased by 5.8%, and combustion efficiency decreased from 72.24% to 70.33%, a reduction of approximately 1.9%. This indicated that BE has a relatively lower calorific value; however, it provides a similar thermal output, with some reduction of exhaust emissions. A one-way ANOVA and post-hoc verification confirmed that with increased BE content, emission differences were significant ( p < 0.01 level in all areas). Through this study, it was confirmed that the use of eco-friendly fuels such as bioethanol has excellent effects on reducing exhaust emissions. It is analyzed that it would help solve global warming and air environment pollution problems. Therefore, it is determined that the future application of MGO-bioethanol blended fuel as an eco-friendly alternative fuel for ships holds significant potential, and positive outcomes are anticipated.    
-
-    
-
 ## Enhancing the energy and environmental efficiency of the city's infrastructure based on optimizing its fuel and energy balance   
 
 OpenAlex: https://openalex.org/W4404420195    
@@ -609,6 +675,17 @@ Open access: False
 [Yury V. Yavorovsky](https://openalex.org/A5113899983), Safety and Reliability of Power Industry. 17(3)] 2024.https://doi.org/10.24223/1999-5555-2024-17-3-172-180.
     
 The article considers the direction of increasing the energy and environmental efficiency of the city's energy infrastructure through the modernization of existing thermal power plants (TPP) and combined heat and power (CHP) plants using combined-cycle gas turbine (CCGT) plants. Fuel and energy balances of electric power plants have been constructed, and the energy and environmental effects of the use of CCGT have been assessed. The modeling of energy and environmental indicators for the thermal circuits of the CCGT was conducted using the Thermoflex, GT PRO software (Thermoflow) and the ISC Manager program developed at the National Research University "Moscow Power Engineering Institute (MPEI)". The analysis of CCGT efficiency in urban energy applications is based on modeling and optimizing the city’s fuel and energy balance (FEB). For this purpose, the OptiTEB program developed at the Department of PTS at the National Research University "MРEI" is used. Constructing fuel and energy systems in cities and regions is a pressing task that enables the planning of a strategy for the development of the urban fuel and energy complex (FEC), with an assessment of the magnitude of harmful emissions, including greenhouse gases. The article presents the results of work on establishing scientific foundations for modern heat supply systems, exemplified by a mathematical model of the Moscow thermal power plant and its optimization, taking into account the projected development of electric transport infrastructure over the coming decades, improving the thermal protection characteristics of newly constructed buildings, and the potential increase in the use of renewable energy sources (RES). The growth in the share of electric transport should be linked to an increase in the share of renewable energy sources (RES). Simply increasing the number of electric vehicles without a significant rise in renewable energy usage in the city's energy balance will not result in a reduction of carbon dioxide and harmful substance emissions. Expanding electricity generation through CCGT, alongside the growth of renewable energy use in the city, can lead to a significant decrease in carbon dioxide emissions.    
+
+    
+
+## Characteristics of exhaust emissions from MGO–bioethanol fuel blend using a combustion chamber   
+
+OpenAlex: https://openalex.org/W4404419191    
+Open access: True
+    
+[J. Kim](https://openalex.org/A5110276459), [Jong Un Park](https://openalex.org/A5110767061), [Tae‐Ho Lee](https://openalex.org/A5100759359), [Il-Seok Kang](https://openalex.org/A5014609423), Advances in Mechanical Engineering. 16(11)] 2024.https://doi.org/10.1177/16878132241298338.
+    
+We conducted combustion tests with marine gas oil (MGO) blended with bioethanol (BE) in ratios of 0%–30% to address International Maritime Organization air pollution regulations on exhaust gases emitted from ships and fossil fuel resource depletion and achieve carbon neutrality. We designed and manufactured a standard 1-ton combustion chamber, using an attached gun-type burner to analyze the exhaust gases of each sample under similar conditions. Compared to pure MGO (BE0), the oxygen content increased by approximately 1.91% at the maximum blend ratio (BE30), while carbon dioxide decreased by 1.39%. Nitrogen oxides were reduced by approximately 30%. Sulfur oxides were minimal (<0.03%), with MGO alone at approximately 0.08 ppm, confirming the superior quality of low-sulfur fuel. In all blends containing BE, no sulfur oxides were detected. Additionally, exhaust gas temperature decreased by 5.8%, and combustion efficiency decreased from 72.24% to 70.33%, a reduction of approximately 1.9%. This indicated that BE has a relatively lower calorific value; however, it provides a similar thermal output, with some reduction of exhaust emissions. A one-way ANOVA and post-hoc verification confirmed that with increased BE content, emission differences were significant ( p < 0.01 level in all areas). Through this study, it was confirmed that the use of eco-friendly fuels such as bioethanol has excellent effects on reducing exhaust emissions. It is analyzed that it would help solve global warming and air environment pollution problems. Therefore, it is determined that the future application of MGO-bioethanol blended fuel as an eco-friendly alternative fuel for ships holds significant potential, and positive outcomes are anticipated.    
 
     
 
@@ -667,6 +744,17 @@ Flow cells featuring a gas diffusion electrode (GDE) have emerged as an attracti
 
     
 
+## Efficacy and safety of different noninvasive ventilation strategies for postextubation respiratory support in Neonatal Respiratory Distress Syndrome: a systematic review and network meta-analysis   
+
+OpenAlex: https://openalex.org/W4404430800    
+Open access: True
+    
+[Jiayi Yang](https://openalex.org/A5002308128), [Hua Mei](https://openalex.org/A5111203423), [Sheng Wang](https://openalex.org/A5100371335), [Jie Zhang](https://openalex.org/A5100436620), [Mengyue Huo](https://openalex.org/A5085427106), [Chun Xin](https://openalex.org/A5112428089), Frontiers in Pediatrics. 12(None)] 2024.https://doi.org/10.3389/fped.2024.1435518.
+    
+Objective The study aimed to compare the efficacy and safety of different noninvasive ventilation (NIV) modalities as primary respiratory support following extubation in Neonatal Respiratory Distress Syndrome (NRDS). Methods A search was conducted in PubMed, Embase, Cochrane, Web of Science, China National Knowledge Network (CNKI), Wanfang database, VIP, and Chinese Biomedical Literature databases with a search time limit of April 2024 for the year of construction, and included randomized controlled clinical trials of different modes of noninvasive respiratory support after extubation in NRDS. The primary outcome indicators were the need for re-tracheal intubation within 72 h of extubation on noninvasive ventilatory support and carbon dioxide retention (PCO2) 24 h after extubation. Secondary outcome indicators included the incidence of bronchopulmonary dysplasia (BPD), nasal injury, pneumothorax, intraventricular hemorrhage (IVH) or periventricular white matter softening (PVL), retinopathy of prematurity (ROP), necrotizing enterocolitis (NEC), and mortality rate. A systematic review and network meta-analysis of the literature was performed by two investigators who screened, extracted, and evaluated the quality of the data. A systematic review and network meta-analysis were then performed using R software. Results A total of 23 studies involving 2,331 neonates were analyzed. These studies examined four noninvasive respiratory modalities: continuous positive airway pressure ventilation (NCPAP), noninvasive intermittent positive pressure ventilation (NIPPV), bi-level positive airway pressure ventilation (N-BiPAP), and noninvasive high-frequency oscillatory ventilation (NHFOV). Results indicated that NHFOV, NIPPV, and N-BiPAP were significantly more effective than NCPAP in reducing the risk of reintubation (all P &lt; 0.05), with NHFOV being the most effective. For carbon dioxide clearance, NHFOV outperformed both NIPPV and NCPAP ( P &lt; 0.05). Regarding the reduction of bronchopulmonary dysplasia (BPD) incidence, NHFOV and NIPPV showed a significant advantage over NCPAP. Conclusions This network meta-analysis (NMA) suggested that NHFOV is the most effective mode of noninvasive respiratory support post-extubation, while NCPAP is the least effective. However, these findings should be interpreted with caution due to the limited number and quality of the studies included. Systematic Review Registration https://www.crd.york.ac.uk/PROSPERO/#recordDetails , identifier (CRD42024544886).    
+
+    
+
 ## Postharvest CO2 treatment and cold storage for Drosophila suzukii (Diptera: Drosophilidae) fruit infestation control   
 
 OpenAlex: https://openalex.org/W4404411812    
@@ -689,17 +777,6 @@ Abstract In 2023, sea-surface temperatures (SST) reached record highs. Based on 
 
     
 
-## Advanced Design of Naval Ship Propulsion Systems Utilizing Battery-Diesel Generator Hybrid Electric Propulsion Systems   
-
-OpenAlex: https://openalex.org/W4404228574    
-Open access: True
-    
-[Youngnam Park](https://openalex.org/A5064136323), [Heemoon Kim](https://openalex.org/A5018271820), Journal of Marine Science and Engineering. 12(11)] 2024.https://doi.org/10.3390/jmse12112034.
-    
-As advanced sensors and weapons require high power, naval vessels have increasingly adopted electric propulsion systems. This study aims to enhance the efficiency and operability of electric propulsion systems over traditional mechanical propulsion systems by analyzing the operational profiles of modern naval vessels. Consequently, a battery-integrated generator-based electric propulsion system was selected. Considering the purpose of the vessel, a specification selection procedure was developed, leading to the design of a hybrid electric propulsion system (comprising one battery and four generators). The power management control technique of the proposed propulsion system sets the operating modes (depending on the specific fuel oil consumption of the generators) to minimize fuel consumption based on the operating load. Additionally, load distribution control rules for the generators were designed to reduce energy consumption based on the load and battery state of charge. MATLAB/Simulink was used to evaluate the proposed system, with simulation results demonstrating that it maintained the same propulsion performance as existing systems while achieving a 12-ton (22%) reduction in fuel consumption. This improvement results in cost savings and reduced carbon dioxide emissions. These findings suggest that an efficient load-sharing controller can be implemented for various vessels equipped with electric propulsion systems, tailored to their operational profiles.    
-
-    
-
 ## INFLUENCE OF PHASE COMPOSITION AND HEAT TREATMENT CONDITIONS OF IRON-OXIDE CATALYST ON ITS CHEMICAL PROPERTIES IN THE PROCESS OF METHYLBUTENE DEHYDROGENATION   
 
 OpenAlex: https://openalex.org/W4404291564    
@@ -708,6 +785,17 @@ Open access: False
 [M.A. BOCHKOV](https://openalex.org/A5114612238), [Н. В. Улитин](https://openalex.org/A5082935426), [К. А. Терещенко](https://openalex.org/A5050367728), [A.P. ANDREEV](https://openalex.org/A5040774947), [D. A. Shiyan](https://openalex.org/A5031880031), [M.G. KAZANSKAYA](https://openalex.org/A5114612239), [T.L. PUCHKOVA](https://openalex.org/A5099515465), [Svetlana N. Tuntseva](https://openalex.org/A5008731907), [Olga Bochkova](https://openalex.org/A5085633713), [Х. Э. Харлампиди](https://openalex.org/A5049350965), Herald Of Technological University. 27(4)] 2024.https://doi.org/10.55421/1998-7072_2024_27_4_41.
     
 The present work is devoted to assessing the effect of heat treatment of iron oxide catalysts promoted by potassium and cerium on their activity, which is expressed quantitatively in the form of methylbutenes conversion, and selectivity in the process of methylbutenes dehydrogenation to isoprene, and interpreting the results obtained using kinetic modeling. Iron oxide catalysts were prepared by heat treatment of iron (II) hydroxide Fe(OH)2. The concentrations of the components of the reaction mixture, the conversion of methylbutenes and selectivity were experimentally determined during methylbutenes dehydrogenation in the presence of heat-treated iron oxide catalysts. It has been shown that an increase of α-Fe2O3 hematite phase in the iron oxide catalyst helps to reduce the concentration of carbon dioxide and cracking products in the products of the methylbutenes dehydrogenation, which contributes to increased selectivity. The increase of α-Fe2O3 hematite phase is observed with increasing heat treatment temperature from 298 K to 873 K. In all iron oxide catalysts promoted by potassium and cerium, after the methylbutenes dehydrogenation, the main phase is magnetite Fe3O4 (62.17% by wt.) and a more reduced form of iron oxide wustite FeO (13.81% by wt.) was identified. It can be assumed that the reduction of iron oxides in the iron oxide catalyst during the methylbutenes dehydrogenation is associated with the activity of the catalyst. The higher the activity of the iron oxide catalyst, the higher the concentration of hydrogen in the reaction mixture, which leads to a deeper reduction of iron oxide. As a result of kinetic modeling, it was demonstrated that the kinetic scheme, consisting of the reactions of methylbutene isomers dehydrogenation, isomerization of methylbutenes, cracking of methylbutene isomers and isoprene, interaction of coke with water, is complete enough to adequately describe the experimental data of the methylbutenes dehydrogenation.    
+
+    
+
+## Advanced Design of Naval Ship Propulsion Systems Utilizing Battery-Diesel Generator Hybrid Electric Propulsion Systems   
+
+OpenAlex: https://openalex.org/W4404228574    
+Open access: True
+    
+[Youngnam Park](https://openalex.org/A5064136323), [Heemoon Kim](https://openalex.org/A5018271820), Journal of Marine Science and Engineering. 12(11)] 2024.https://doi.org/10.3390/jmse12112034.
+    
+As advanced sensors and weapons require high power, naval vessels have increasingly adopted electric propulsion systems. This study aims to enhance the efficiency and operability of electric propulsion systems over traditional mechanical propulsion systems by analyzing the operational profiles of modern naval vessels. Consequently, a battery-integrated generator-based electric propulsion system was selected. Considering the purpose of the vessel, a specification selection procedure was developed, leading to the design of a hybrid electric propulsion system (comprising one battery and four generators). The power management control technique of the proposed propulsion system sets the operating modes (depending on the specific fuel oil consumption of the generators) to minimize fuel consumption based on the operating load. Additionally, load distribution control rules for the generators were designed to reduce energy consumption based on the load and battery state of charge. MATLAB/Simulink was used to evaluate the proposed system, with simulation results demonstrating that it maintained the same propulsion performance as existing systems while achieving a 12-ton (22%) reduction in fuel consumption. This improvement results in cost savings and reduced carbon dioxide emissions. These findings suggest that an efficient load-sharing controller can be implemented for various vessels equipped with electric propulsion systems, tailored to their operational profiles.    
 
     
 
@@ -722,17 +810,6 @@ The electrochemical reduction of CO2 (CO2RR) offers the opportunity to store ren
 
     
 
-## Prediction of building carbon emission based on grey Markov theory   
-
-OpenAlex: https://openalex.org/W4404366504    
-Open access: False
-    
-[Chenhao Zhao](https://openalex.org/A5101564918), Theoretical and Natural Science. 48(1)] 2024.https://doi.org/10.54254/2753-8818/48/20240222.
-    
-The increase in carbon emissions in the construction industry is one of the factors that lead to environmental problems and hinder the sustainable development of society and the construction industry. Therefore, there is an urgent need to rationally control carbon emissions by formulating scientific and effective energy-saving and emission reduction policies so as to safeguard the development of the industry. However, because of the uncertainty and complexity of CO2 emissions, more reliable prediction and assessment tools are needed to comprehensively analyze and predict CO2 emissions. This study combines the gray system theory and Markov principle to give full play to the advantages of the two methods, using Markov theory to determine the state transition probability, find out the characteristics of carbon emissions in the construction industry, and form a suitable gray Markov prediction model. The feasibility of the prediction model is demonstrated by calculating and examining the prediction model using data related to carbon emissions from the U.S. buildings from 2002 to 2022, which greatly improves the accuracy of CO2 emissions prediction.    
-
-    
-
 ## Fuel Consumption Reductions in Heavy-Duty Vehicles With Crank Pulley Decoupler Mounted Engines   
 
 OpenAlex: https://openalex.org/W4404316352    
@@ -741,6 +818,17 @@ Open access: False
 [Saulius Pakštys](https://openalex.org/A5093310643), [Shailesh Hegde](https://openalex.org/A5073936361), [Angelo Bonfitto](https://openalex.org/A5054383514), No host. None(None)] 2024.https://doi.org/10.1115/detc2024-145589.
     
 Abstract An increasing amount of effort has been directed to ensure the minimization of carbon dioxide emissions within the transport industry, particularly in the light passenger vehicle segments. This has been achieved through many advancements such as mass and aerodynamic drag reduction as well as the electrification of powertrains. The heavy-duty vehicle segment contributes significantly to the total emissions of the transport sector, however fuel consumption through electrification poses some limitations. Fuel efficiency has been achieved by adopting higher fuel injection pressures generating an increase of the crankshaft nose oscillation making Front-End Accessory Drive (FEAD) design more challenging. This paper provides a solution, with the incorporation of a crank pulley decoupler that isolates the irregularities from the FEAD that arise at the crank of the internal combustion engine. The analysis of a 12.7 L engine tested with a steel pulley and with the decoupler is presented. The brake-specific fuel consumption map is obtained for the engine mounted with the steel pulley and with the decoupler through a dynamometer test. The engine maps are incorporated into a tractor trailer with a 4 × 2 configuration in the Vehicle Energy consumption Tool (VECTO), evaluated over three driving cycles: long-haul delivery, regional delivery, and urban delivery. The outcome indicates a maximum relative fuel saving of 0.63% for a vehicle mounted with a decoupler compared to one mounted with a solid steel pulley.    
+
+    
+
+## Towards Carbon Neutrality: The Impact of Private AI Investment and Financial Development in the United States – An Empirical Study Using the STIRPAT Model   
+
+OpenAlex: https://openalex.org/W4404437050    
+Open access: True
+    
+[Shaharina Shoha](https://openalex.org/A5106912337), [Sarder Abdulla Al Shiam](https://openalex.org/A5093105459), [Shake Ibna Abir](https://openalex.org/A5106910349), [Dipankar Saha](https://openalex.org/A5015342300), [Shewly Bala](https://openalex.org/A5108942586), [Md Shah Ali Dolon](https://openalex.org/A5114493520), [Hasibur Rahman](https://openalex.org/A5090862336), [Md. Eleais](https://openalex.org/A5093855454), [Afsana Akhter](https://openalex.org/A5107057413), [Mohammad Ridwan](https://openalex.org/A5087902082), [Robeena Bibi](https://openalex.org/A5047872950), Journal of Environmental Science and Economics. None(None)] 2024.https://doi.org/10.56556/jescae.v3i4.982 ([pdf](https://www.jescae.com/index.php/jescae/article/download/982/338)).
+    
+This investigation analyses the influence of private AI investment and financial development (FD) on CO2 emissions in the United States, using the STIRPAT framework to account for the functions of GDP, population, and foreign direct investment (FDI). The data's robustness was verified through the application of a variety of unit root tests, which confirmed that the variables are free of unit root issues and exhibit a varied order of integration. The ARDL bound test was used to investigate the cointegration among the variables and it found a long-run equilibrium relationship. The ARDL model results show that income, FDI, FD, and population significantly increase CO2 emissions in both the short and long term. In contrast, we found that private investment in AI led to a significant reduction in CO2 emissions over these time frames. Additional estimations were conducted using FMOLS, DOLS, and CCR methods to verify the ARDL results, all of which attested to the initial findings' robustness. In addition, the study implemented a pairwise Granger causality test to illustrate the directional relationships between the variables. There is a unidirectional causal link between GDP, private AI investment, FDI, population, and CO2 emissions, according to the findings. Most notably, we observed bidirectional causality between CO2 emissions and FD. Diagnostic tests further corroborated the validity of the study's conclusions, confirming that the model is free from specification errors, serial correlation, and heteroscedasticity.    
 
     
 
@@ -755,6 +843,17 @@ This study focused on the utilization of active carbon derived from coconut shel
 
     
 
+## Prediction of building carbon emission based on grey Markov theory   
+
+OpenAlex: https://openalex.org/W4404366504    
+Open access: False
+    
+[Chenhao Zhao](https://openalex.org/A5101564918), Theoretical and Natural Science. 48(1)] 2024.https://doi.org/10.54254/2753-8818/48/20240222.
+    
+The increase in carbon emissions in the construction industry is one of the factors that lead to environmental problems and hinder the sustainable development of society and the construction industry. Therefore, there is an urgent need to rationally control carbon emissions by formulating scientific and effective energy-saving and emission reduction policies so as to safeguard the development of the industry. However, because of the uncertainty and complexity of CO2 emissions, more reliable prediction and assessment tools are needed to comprehensively analyze and predict CO2 emissions. This study combines the gray system theory and Markov principle to give full play to the advantages of the two methods, using Markov theory to determine the state transition probability, find out the characteristics of carbon emissions in the construction industry, and form a suitable gray Markov prediction model. The feasibility of the prediction model is demonstrated by calculating and examining the prediction model using data related to carbon emissions from the U.S. buildings from 2002 to 2022, which greatly improves the accuracy of CO2 emissions prediction.    
+
+    
+
 ## Investigating Sustainable Production Planning of an Industrial Progressive Die Stamping Process Using Discrete Event Simulation   
 
 OpenAlex: https://openalex.org/W4404332967    
@@ -763,17 +862,6 @@ Open access: False
 [Adrián Borbolla](https://openalex.org/A5114629395), [Mohamed Nezar Aboujarra](https://openalex.org/A5114629396), [Devarajan Ramanujan](https://openalex.org/A5086467541), No host. None(None)] 2024.https://doi.org/10.1115/detc2024-143648.
     
 Abstract This paper investigates the use of discrete event simulation (DES) as a potential decision-support tool for environmentally sustainable production planning. We propose a comprehensive methodology that integrates DES design, dynamic CO2 intensity calculations, and in-depth scenario analysis. This approach facilitates simulation-driven production planning with an emphasis on evaluating and reducing the environmental impacts of manufacturing. Our methodology is applied to the evaluation of an industrial progressive die stamping process (PDSP). The PDSP is a part of a production line in a large Danish manufacturing company. The performance of the PDSP was simulated and evaluated for two working days: 09 Jan 2024 and 10 Jan 2024. Key performance indicators like utilization rate and lead time are assessed alongside environmental sustainability metrics such as process CO2 emissions and CO2 emissions per product. Building upon this baseline, we then simulate and compare two alternative production scenarios: i) increased production capacity and ii) variations in planning orders. These scenarios are then contrasted with the baseline model. Our results demonstrate the potential of DES in identifying new production strategies. The first scenario demonstrates a 7% increase in production capacity, corresponding to a 2.6% increase in process CO2 emissions. The second scenario demonstrates a 5% reduction in process CO2 emissions while retaining the same production capacity as the baseline model. These findings illustrate how DES can uncover production plans that prioritize sustainable manufacturing.    
-
-    
-
-## Real-Time Estimation of CO2 Absorption Capacity Using Ionic Conductivity of Protonated Di-Methyl-Ethanolamine (DMEA) and Electrical Conductivity in Low-Concentration DMEA Aqueous Solutions   
-
-OpenAlex: https://openalex.org/W4404243901    
-Open access: True
-    
-[Sang‐Jun Han](https://openalex.org/A5013478567), [Jin Han](https://openalex.org/A5005873228), [Jung‐Ho Wee](https://openalex.org/A5079250334), Processes. 12(11)] 2024.https://doi.org/10.3390/pr12112495.
-    
-The present study investigates the real-time estimation of CO2 absorption capacity (CAC) based on the electrical conductivity (EC) of low-concentration di-methyl-ethanolamine (DMEA) solutions (0.1–0.5 M). CO2 absorption experiments are conducted to measure the variation in CAC and EC during CO2 absorption, revealing a strong correlation between the two properties. The ionic conductivity of DMEAH+ formed during absorption is calculated to be 53.1 S·cm2/(mol·z), which is found to be larger than that of TEAH+ and MDEAH+. This can be attributed to the smaller molar mass and higher ionic mobility of DMEAH+. A significant finding is that the measured EC (ECM) of the DMEA solutions consistently demonstrates a lower value than the theoretically predicted value. This discrepancy is due to the larger ionic size of DMEAH+, which results in a reduction in the real mean ionic activity coefficient. This effect becomes more pronounced with increasing DMEA concentration. Consequently, a higher CAC is required to produce the same change in EC at higher amine concentrations. Based on these findings, an empirical equation is devised to estimate CAC from ECM in solutions of constant DMEA concentration. This equation will be employed as a practical approach for the in situ monitoring of CO2 absorption using DMEA aqueous solution.    
 
     
 
@@ -788,6 +876,17 @@ Abstract. Coastal acidification, warming, and nutrient management actions all al
 
     
 
+## Real-Time Estimation of CO2 Absorption Capacity Using Ionic Conductivity of Protonated Di-Methyl-Ethanolamine (DMEA) and Electrical Conductivity in Low-Concentration DMEA Aqueous Solutions   
+
+OpenAlex: https://openalex.org/W4404243901    
+Open access: True
+    
+[Sang‐Jun Han](https://openalex.org/A5013478567), [Jin Han](https://openalex.org/A5005873228), [Jung‐Ho Wee](https://openalex.org/A5079250334), Processes. 12(11)] 2024.https://doi.org/10.3390/pr12112495.
+    
+The present study investigates the real-time estimation of CO2 absorption capacity (CAC) based on the electrical conductivity (EC) of low-concentration di-methyl-ethanolamine (DMEA) solutions (0.1–0.5 M). CO2 absorption experiments are conducted to measure the variation in CAC and EC during CO2 absorption, revealing a strong correlation between the two properties. The ionic conductivity of DMEAH+ formed during absorption is calculated to be 53.1 S·cm2/(mol·z), which is found to be larger than that of TEAH+ and MDEAH+. This can be attributed to the smaller molar mass and higher ionic mobility of DMEAH+. A significant finding is that the measured EC (ECM) of the DMEA solutions consistently demonstrates a lower value than the theoretically predicted value. This discrepancy is due to the larger ionic size of DMEAH+, which results in a reduction in the real mean ionic activity coefficient. This effect becomes more pronounced with increasing DMEA concentration. Consequently, a higher CAC is required to produce the same change in EC at higher amine concentrations. Based on these findings, an empirical equation is devised to estimate CAC from ECM in solutions of constant DMEA concentration. This equation will be employed as a practical approach for the in situ monitoring of CO2 absorption using DMEA aqueous solution.    
+
+    
+
 ## Effects of Lanthanides on the Structure and Oxygen Permeability of
   Ti-doped Dual-phase Membranes   
 
@@ -797,6 +896,17 @@ Open access: True
 [Chao Zhang](https://openalex.org/A5052802142), [Z. Xiang](https://openalex.org/A5090472849), [Lingyong Zeng](https://openalex.org/A5104284507), [Peifeng Yu](https://openalex.org/A5037869885), [Kuan Li](https://openalex.org/A5100723033), [Kangwang Wang](https://openalex.org/A5111348364), [Longfu Li](https://openalex.org/A5026625447), [Rui Chen](https://openalex.org/A5100403633), [Huixia Luo](https://openalex.org/A5039542491), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2411.02693 ([pdf](http://arxiv.org/pdf/2411.02693)).
     
 The trade-off effect of the oxygen permeability and stability of oxygen transport membranes (OTMs) still exists in working atmospheres containing CO2. Herein, we reported a new series of 60 wt%Ce0.9Ln0.1O2-{\delta}-40wt%Ln0.6Sr0.4Fe0.9Ti0.1O3-{\delta} (CLnO-LnSFTO, Ln = La, Pr, Nd, Sm, Gd, Tb) dual-phase OTMs by selecting different Ln elements based on the reported highly stable Ti-doped CPrO-PrSFTO. The effects of different Ln elements on the structure and oxygen permeability of Ti-doped dual-phase OTMs were systematically studied. Basically, as the atomic number of Ln elements increases, the unit cell parameters of both the fluorite phase and the perovskite phase become smaller. The unit cell volume and spatial symmetry of the perovskite phase are reduced, resulting in a reduction in oxygen permeability. The optimal CLaO-LaSFTO showed JO2 of 0.60 and 0.54 mL min-1 cm-2 with He and CO2 sweeping at 1000 oC, respectively. In addition, all CLnO-LnSFTO OTMs could work for more than 100 hours with no significant performance degradation in a CO2 atmosphere, maintaining excellent stability. This work explores candidate OTM materials for CO2 capture and oxygen separation, as well as provides some ideas for addressing the trade-off effect.    
+
+    
+
+## Exercise limitations in amyloid cardiomyopathy assessed by cardiopulmonary exercise testing—A multicentre study   
+
+OpenAlex: https://openalex.org/W4404425956    
+Open access: True
+    
+[Robin Willixhofer](https://openalex.org/A5038184224), [Mauro Contini](https://openalex.org/A5041820050), [Michele Emdin](https://openalex.org/A5024386124), [Damiano Magrì](https://openalex.org/A5024961037), [Alice Bonomi](https://openalex.org/A5042991800), [Elisabetta Salvioni](https://openalex.org/A5037761085), [Fabrizio Celeste](https://openalex.org/A5087605838), [Alberico Del Torto](https://openalex.org/A5031283670), [Claudio Passino](https://openalex.org/A5048432854), [C Capelle](https://openalex.org/A5111775703), [Chiara Arzilli](https://openalex.org/A5049238921), [Emiliano Fiori](https://openalex.org/A5102987199), [Nicolò Capra](https://openalex.org/A5038888486), [Christina Kronberger](https://openalex.org/A5078387258), [Н. Р. Ермолаев](https://openalex.org/A5027974014), [Andreas A. Kammerlander](https://openalex.org/A5090811176), [Beatrice Musumeci](https://openalex.org/A5018284638), [Giuseppe Vergaro](https://openalex.org/A5113285797), [Vincenzo Castiglione](https://openalex.org/A5001671116), [René Rettl](https://openalex.org/A5088424011), [Giacomo Tini](https://openalex.org/A5071395633), [Andrea Baggiano](https://openalex.org/A5067951305), [Iacopo Fabiani](https://openalex.org/A5005417269), [Susanna Sciomer](https://openalex.org/A5081433493), [Roza Badr Eslam](https://openalex.org/A5035929926), [Piergiuseppe Agostoni](https://openalex.org/A5074531142), ESC Heart Failure. None(None)] 2024.https://doi.org/10.1002/ehf2.15147.
+    
+Abstract Aims Amyloid cardiomyopathy is caused by the deposition of light chain (AL) or transthyretin amyloid (ATTR) fibrils, that leads to a restrictive cardiomyopathy, often resulting in heart failure (HF) with preserved or reduced ejection fraction. This study aimed to determine whether cardiac output reduction or ventilation inefficiency plays a predominant role in limiting exercise in patients with amyloid cardiomyopathy. Methods We conducted a multicentre prospective study in patients with AL or ATTR cardiomyopathy who underwent cardiopulmonary exercise testing across four centres. Patients were compared with a propensity‐score matched HF cohort based on age, gender, left ventricular ejection fraction (LVEF), and peak oxygen consumption (VO 2 ). Results Data from 267 amyloid patients aged 77 (72, 81) years, 86% male, with a median N‐terminal pro B‐type natriuretic peptide (NT‐proBNP) of 2187 (1140, 4383) ng/L, exercise parameters of peak VO 2 of 14.1 (11.6;16.9) mL/min/kg, a minute ventilation to carbon dioxide production (VE/VCO 2 ) slope of 37.4 (32.5, 42.6) and a LVEF of 50% (44%, 59%) were analysed. We identified 251 amyloid cardiomyopathy–HF matches. Amyloid patients had a signifnicantly higher VE/VCO 2 slope [37.4, inter quartile range (IQR): 32.7, 43.1 vs. 32.1, IQR: 28.7, 37.0, P < 0.0001], NT‐proBNP (2249, IQR: 1187, 4420 vs. 718, IQR: 405, 2161 ng/L, P < 0.001), peak heart rate (121 ± 28 vs. 115 ± 27 beats/min, P = 0.007) and peak ventilation (51, IQR: 42, 62 vs. 43, IQR: 33, 53 L/min, P < 0.0001) with earlier anaerobic threshold (VO 2 at AT: 8.9, IQR: 6.8, 10.8 vs. 10.8, IQR: 8.9, 12.7 mL/min/kg, P < 0.0001) compared with HF. Between amyloid patients, AL patients ( n = 27) were younger (63, IQR: 58, 70 vs. 78, IQR: 72, 81 years, P < 0.0001), had lower VE/VCO 2 slope (35.0, IQR: 30.0, 38.7 vs. 38.0, IQR: 32.8, 43.1, P = 0.019), higher end‐tidal carbon dioxide partial pressure both at AT (35.1 ± 4.8 vs. 31.4 ± 4.7 mmHg, P < 0.001) and peak exercise (32, IQR: 28, 35 vs. 30, IQR: 26, 33 mmHg, P = 0.039) as compared with ATTR ( n = 233). Conclusions A higher VE/VCO 2 slope and an earlier AT, determining functional capacity impairment, was assessed in patients with amyloid cardiomyopathy compared with the matched HF cohort. Additionally, patients with ATTR might display more severe exercise limitations as compared with AL.    
 
     
 
@@ -819,17 +929,6 @@ Open access: True
 [Hannah Wilson](https://openalex.org/A5001968015), [Lina Bernert](https://openalex.org/A5092352338), [Pádraig Spillane](https://openalex.org/A5010343071), [Emma Squires](https://openalex.org/A5094299669), [Lori Crawford](https://openalex.org/A5013793705), [Jessica Piasecki](https://openalex.org/A5020407714), [Ross Julian](https://openalex.org/A5003513471), [Eurico Nestor Wilhelm](https://openalex.org/A5054083208), [Kirsty M. Hicks](https://openalex.org/A5049987092), [Paul Ansdell](https://openalex.org/A5058022176), No host. None(None)] 2024.https://doi.org/10.1101/2024.11.08.622119.
     
 Sex differences exist in the integrative response to exercise, however, these are typically researched during constant-load exercise. Interval exercise involves high-intensity efforts interspersed with recovery periods to repeatedly stress physiological systems, and it is currently unknown whether the response to this form of exercise differs between sexes. Ten males and ten females (age: 25 +/- 3 years) completed two experimental visits. First, an incremental treadmill exercise test was performed to obtain submaximal (lactate threshold) and maximal (VO2peak) data. Thereafter, visit two involved 4 x 3-min running intervals at 90% of the final incremental test velocity (vVO2peak), with 90 secs rest between intervals. Before exercise and after each interval, maximal voluntary contraction (MVC), quadriceps potentiated twitch (Qtw.pot), and voluntary activation (VA) were recorded. The rates of oxygen uptake (VO2), carbon dioxide production (VCO2) and ventilation (VE) were continuously recorded throughout. There was no sex difference in relative VO2peak (males: 47.2 +/- 6.0 vs. females: 44.4 +/- 5.8 ml.kg-1.min-1, p=0.292). When expressed relative to peak values, there were no sex differences in the VO2 or VCO2 response to the interval task (p greater than or equal to 0.781). Females had greater VE, VE/VO2, and VE/VCO2 values during the first two intervals (p less than or equal to 0.046). There were no sex differences in the reductions in MVC, Qtw.pot, and VA during the interval task (p greater than or equal to 0.150), however females had lesser reductions in Qtw.pot values post-exercise (-24 +/- 9 vs. -15 +/- 8%, p=0.044). Sex differences exist in the physiological response to interval exercise. Compared to males, females experienced greater hyperpnoea during the initial stages, and had lesser decreases in contractile function post-exercise.    
-
-    
-
-## AN OVERVIEW OF ENERGY CONSUMPTION AND CO2 EMISSIONS IN IRAN'S RESIDENTIAL SECTOR: ENERGY TRANSITION AND SUBSIDY POLICIES   
-
-OpenAlex: https://openalex.org/W4404213627    
-Open access: False
-    
-[Behnam Ata](https://openalex.org/A5087852647), Eurasian Research Journal. 6(4)] 2024.https://doi.org/10.53277/2519-2442-2024.4-04.
-    
-The transition from fossil fuels to renewable energy sources has become a critical global issue, particularly in response to climate change. This study aims to analyse the trends in energy consumption and CO2 emissions within Iran's household sector. The findings reveal a significant increase in energy consumption in Iran between 2001 and 2019. Despite the household sector's heavy reliance on fossil fuels, a shift in fuel consumption patterns can be observed, with a transition from oil to natural gas starting in 2008. Electricity generation in Iran is also predominantly fossil fuel-based, with natural gas playing a major role. This underscores the urgent need to reinforce renewable energy sources to mitigate CO2 emissions from the household sector. Another key factor influencing energy consumption in Iran is the country's extensive energy subsidies. The disparity in fuel prices compared to neighbouring countries has also led to fuel smuggling. However, the results show that the twophase subsidy reform plan implemented in 2010 and 2013 did not lead to a reduction in energy consumption. Therefore, further reforms are needed to improve energy equity and reduce CO2 emissions in the household sector.    
 
     
 
@@ -864,17 +963,6 @@ Open access: False
 [Tingting Zhan](https://openalex.org/A5113936536), [Jiali Huang](https://openalex.org/A5088205377), [Ying Yang](https://openalex.org/A5050757689), [Yunbin Li](https://openalex.org/A5051221862), [Xiuling Ma](https://openalex.org/A5100630954), [Shengchang Xiang](https://openalex.org/A5077815888), [Zhangjing Zhang](https://openalex.org/A5077117863), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202401529.
     
 Electrocatalytic CO2 reduction (ECR) has emerged as one of the most promising strategies to alleviate the energy crisis and CO2 pollution, for which a wide variety of catalysts are under development. Metal‐organic frameworks (MOFs) with clear and designable structures are an excellent platform for ECR. Here, two isostructural N, O‐coordinated Zn‐MOFs, FJU‐126‐4F and FJU‐126‐CH3, based on terephthalic acid ligand with different groups (one is ‐4F, the other is ‐CH3) on the benzene ring, have been constructed for ECR catalysts. Significantly, the different functional groups make the performance difference of ECR. The maximum Faraday efficiency of formate (FEformate) for FJU‐126‐4F is 60.5% with the partial current density of formate (jformate) of ‐19.35 mA cm‐2 at ‐1.47 V, while the optimum FEformate of FJU‐126‐CH3 is 50.2% with the jformate of ‐10.04 mA cm‐2 at ‐1.57 V. The work provides insight into the rational design of MOF catalysts for ECR.    
-
-    
-
-## Islamic Finance and Environmental Sustainability: Empirical Insight from OIC Countries   
-
-OpenAlex: https://openalex.org/W4404210571    
-Open access: True
-    
-[Mohammad Iqbal Irfany](https://openalex.org/A5026005546), [Annisa Dwi Utami](https://openalex.org/A5109699508), [Deni Lubis](https://openalex.org/A5026289610), [Fiona Ramadhini](https://openalex.org/A5093343202), [Lalacitra Fitri Suwari](https://openalex.org/A5114580570), [Nisrina Rafelia Maula](https://openalex.org/A5114580571), [Fitriyatustany Fitriyatustany](https://openalex.org/A5114580572), [Daffa Aqomal Haq](https://openalex.org/A5114179379), International Journal of Energy Economics and Policy. 14(6)] 2024.https://doi.org/10.32479/ijeep.17400.
-    
-Environmental degradation remains a significant global challenge, particularly in the Organization of Islamic Cooperation (OIC) countries. This study primarily examines the impact of Islamic finance, proxied by two indicators, namely Islamic financial assets and Islamic banking financing, and other variables including Gross Domestic Product (GDP), Foreign Direct Investment (FDI), urbanization, renewable energy adoption, and forest area, on CO2 emissions. This study revealed that Islamic financial assets had a negative impact on CO2 emissions, highlighting their importance in supporting green investments and sustainability. However, Islamic banking financing has little influence on emissions reduction, most likely due to carbon-intensive initiatives. Furthermore, GDP growth increases emissions, although FDI, urbanization, and forest areas help to lower them. These findings underscore Islamic finance's critical role in fostering sustainable development, as well as the necessity for better green Islamic financing policies in OIC member nations. The findings also provide important insights for policymakers working to balance economic growth with environmental sustainability in Islamic finance.    
 
     
 
@@ -1021,17 +1109,6 @@ The swift expansion of the global population and economy has spurred growing req
 
     
 
-## Battery Electric Vehicle Lightweighting Strategies: Addressing Energy Consumption and Range Anxiety   
-
-OpenAlex: https://openalex.org/W4404416873    
-Open access: True
-    
-[Jason Pollock](https://openalex.org/A5003711683), [Perk Lin Chong](https://openalex.org/A5074939193), [Manu Ramegowda](https://openalex.org/A5114661631), [Nashwan Dawood](https://openalex.org/A5046140979), [Pengyan Guo](https://openalex.org/A5100308314), [Lip Kean Moey](https://openalex.org/A5059175783), International Journal of Automotive and Mechanical Engineering. 21(4)] 2024.https://doi.org/10.15282/ijame.21.4.2024.4.0905.
-    
-In general, an internal combustion engine vehicle is still the convention in personal and commercial transport, but due to its high use stage CO2 emission, a shift is occurring in propulsion methods, and the use of battery electric vehicles (BEV) will become the new norm. BEV’s curb weight is, in general, greater than that of a conventional fuelled vehicle (CFV) for equivalent classes. Consequently, it is questionable that the level of BEV’s energy consumption is acceptable. The aim of this paper is to compare the mass induced energy consumption of CFV and BEV. The expectation is that the comparative study of energy consumption between CFV and BEV will provide insight for proposing a strategy to determine the extent to which lightweighting can be introduced to a BEV. Encouragingly, less exhaustive energy consumption can help by reducing range anxiety by increasing BEV range, resolving one issue facing a BEV. With a typical road condition for hilly and flat roads, various drive cycles are also taken into consideration, and the energy consumption profiles for CFV and BEV can be determined. The vehicle model involved using the MATLAB/Simulink software underpinned by longitudinal vehicle dynamic methods. The idea is to determine the amount of lightweighting of various components of a BEV through an iterative process based on energy consumption profiles. As a function of mass reduction, for comparative energy expenditure, the results showed that a range of 28 to 36% reduction in BEV mass was achieved, which in turn can increase the driving range by 36.4 to 46.8%.    
-
-    
-
 ## Abstract 4146533: Association of Quantitative Echocardiographic Parameters with Peak VO2, Heart Rate Recovery, and VE/VCO2 from Cardiopulmonary Exercise Testing   
 
 OpenAlex: https://openalex.org/W4404382234    
@@ -1040,6 +1117,17 @@ Open access: False
 [Arundhati Sharma](https://openalex.org/A5078785888), [Anubhuti Sharma](https://openalex.org/A5050092304), [Kalyan Chaliki](https://openalex.org/A5065045312), [TAYLOR VIGGIANO](https://openalex.org/A5109784033), [Hari P. Chaliki](https://openalex.org/A5048245328), [Satyajit Reddy](https://openalex.org/A5078469644), Circulation. 150(Suppl_1)] 2024.https://doi.org/10.1161/circ.150.suppl_1.4146533.
     
 Background: Cardiopulmonary Exercise Testing (CPET) analyzes physiologic information with gas exchange during exercise. Peak oxygen volume consumption (absolute peak VO2 and percent predicted peak VO2), minute ventilation divided by carbon dioxide volume (VE/VCO2 slope) and heart rate reduction after 1 minute of recovery (heart rate recovery, HRR) all have well-established prognostic cardiovascular implications. Aim: Given the wider use of echocardiography, we aimed to see if important CPET data could be determined from resting transthoracic echocardiography (TTE). Methods: In this retrospective study, cardiology patients above 18 years who underwent both resting TTE and a max-effort CPET within 3 months of each other (2017-2022) were included. Patients with a history of coronary artery bypass grafting, valve surgery, pacemakers, congenital heart disease, severe valve dysfunction and pulmonary hypertension were excluded before analysis. Univariate analysis with Spearman correlations was used to assess the relationship between 4 CPET measurements {absolute peak VO2 per kg, percent predicted peak VO2/kg (adjusted for age, sex and body surface area), HRR, and VE/VCO2}; and 22 quantitative TTE parameters. Bonferroni correction was applied within each set of correlations, with significance set at p-values <0.025. Multivariate linear regression models were built for all the related TTE measurements to assess relationship with the 4 CPET parameters, adjusting for age and sex. Results: Table 1 shows, out of 1909 patients analyzed, our regression model is strongest for absolute peak VO2/kg (R-squared=0.57), with 3 significantly associated TTE parameters. For percent-predicted peak VO2 per kg, 4 TTE variables were significantly associated. For heart rate recovery, only LV stroke-volume index was correlated. No TTE parameters were associated with VE/VCO2. Conclusion: Notably, echocardiographic stroke volume and tricuspid valve regurgitation peak velocity exhibited a strong correlation with absolute peak VO2/kg and percent predicted peak VO2/kg. LV stroke volume index was correlated with heart rate recovery. VE/VCO2 was not associated with any resting echocardiographic parameters, suggesting this parameter is truly exercise-dependent.    
+
+    
+
+## Battery Electric Vehicle Lightweighting Strategies: Addressing Energy Consumption and Range Anxiety   
+
+OpenAlex: https://openalex.org/W4404416873    
+Open access: True
+    
+[Jason Pollock](https://openalex.org/A5003711683), [Perk Lin Chong](https://openalex.org/A5074939193), [Manu Ramegowda](https://openalex.org/A5114661631), [Nashwan Dawood](https://openalex.org/A5046140979), [Pengyan Guo](https://openalex.org/A5100308314), [Lip Kean Moey](https://openalex.org/A5059175783), International Journal of Automotive and Mechanical Engineering. 21(4)] 2024.https://doi.org/10.15282/ijame.21.4.2024.4.0905.
+    
+In general, an internal combustion engine vehicle is still the convention in personal and commercial transport, but due to its high use stage CO2 emission, a shift is occurring in propulsion methods, and the use of battery electric vehicles (BEV) will become the new norm. BEV’s curb weight is, in general, greater than that of a conventional fuelled vehicle (CFV) for equivalent classes. Consequently, it is questionable that the level of BEV’s energy consumption is acceptable. The aim of this paper is to compare the mass induced energy consumption of CFV and BEV. The expectation is that the comparative study of energy consumption between CFV and BEV will provide insight for proposing a strategy to determine the extent to which lightweighting can be introduced to a BEV. Encouragingly, less exhaustive energy consumption can help by reducing range anxiety by increasing BEV range, resolving one issue facing a BEV. With a typical road condition for hilly and flat roads, various drive cycles are also taken into consideration, and the energy consumption profiles for CFV and BEV can be determined. The vehicle model involved using the MATLAB/Simulink software underpinned by longitudinal vehicle dynamic methods. The idea is to determine the amount of lightweighting of various components of a BEV through an iterative process based on energy consumption profiles. As a function of mass reduction, for comparative energy expenditure, the results showed that a range of 28 to 36% reduction in BEV mass was achieved, which in turn can increase the driving range by 36.4 to 46.8%.    
 
     
 
@@ -1065,17 +1153,6 @@ Abstract Methane (CH4) is a potent greenhouse gas (GHG) with a short atmospheric
 
     
 
-## Unfolding Electrolyzer Characteristics to Reveal Solar‐to‐Chemical Efficiency Potential: Rapid Analysis Method Bridging Electrochemistry and Photovoltaics   
-
-OpenAlex: https://openalex.org/W4404403628    
-Open access: False
-    
-[Oleksandr Astakhov](https://openalex.org/A5088872783), [Thérèse Cibaka](https://openalex.org/A5041512914), [Lars Wieprecht](https://openalex.org/A5097027049), [Uwe Rau](https://openalex.org/A5047998043), [Tsvetelina Merdzhanova](https://openalex.org/A5012283384), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202402027.
-    
-Development of photovoltaic–electrochemical (PV‐EC) systems for energy storage and industry decarbonization requires multidisciplinary collaborative efforts of different research groups from both photovoltaic and electrochemical research communities. Consequently, the evaluation of the solar‐to‐chemical or solar‐to‐fuel efficiency of a new electrolyzer (EC) as a part of a PV‐EC system is a time‐consuming task that is challenging in a routine optimization loop. To address this issue, a new rapid assessment method is proposed. This method employs power balance requirements to unfold the input EC characteristics into the parameter space of PV‐EC systems. The system parameters, composed with the EC output characteristics, yield the solar‐to‐chemical efficiency attainable by the electrolyzer in combination with any PV device under any irradiance at any relative PV‐to‐EC scaling and any mode of power coupling. This comprehensive overview is achieved via a mathematically simple conversion of the EC characteristics in any spreadsheet software. The method, designed to streamline the development and minimize the efforts of both the photovoltaic and electrochemical communities, is demonstrated via the analysis of CO2‐reduction electrolyzer characteristics and verified with dedicated PV‐EC experiments.    
-
-    
-
 ## Optimized Build Orientation and Laser Scanning Strategies for Reducing Thermal Residual Stress in Topology-Optimized Automotive Components   
 
 OpenAlex: https://openalex.org/W4404248103    
@@ -1084,6 +1161,17 @@ Open access: True
 [Jeongho Yang](https://openalex.org/A5014532241), [Youngsuk Jung](https://openalex.org/A5101755976), [Jaewoong Jung](https://openalex.org/A5103234058), [Jae Dong Ock](https://openalex.org/A5016272497), [Shinhu Cho](https://openalex.org/A5045063816), [Sang‐Hu Park](https://openalex.org/A5013403412), [Tae Hee Lee](https://openalex.org/A5100747256), [Jiyong Park](https://openalex.org/A5081985092), Metals. 14(11)] 2024.https://doi.org/10.3390/met14111277.
     
 This study investigates the reduction in thermal residual stress during the powder bed fusion (PBF) process in a non-standardized shape generated by topology optimization method in lightweight automotive part of brake caliper. While the caliper of the braking system for reducing the CO2 consumption in vehicle systems undergoes a redesign to increased strength and reduced weight, challenges arise due to biased melting area ratios in the topologically optimized design, causing the thermal deformation. To address this, our research proposes an efficient PBF scan strategy aimed at minimizing anisotropy and residual stress—a critical consideration for successful manufacturing. The effectiveness of the laser scan strategy is validated through testing on a brake dynamometer, following the JASO C406 test procedure, an authorized standard for commercial brake calipers. Furthermore, a comparative analysis between the conventional product and the proposed brake caliper highlights superior performance, particularly under lightweight conditions. This comprehensive approach contributes valuable insights to the field, offering a potential solution for overcoming manufacturing challenges associated with topologically optimized designs in automotive components.    
+
+    
+
+## Unfolding Electrolyzer Characteristics to Reveal Solar‐to‐Chemical Efficiency Potential: Rapid Analysis Method Bridging Electrochemistry and Photovoltaics   
+
+OpenAlex: https://openalex.org/W4404403628    
+Open access: False
+    
+[Oleksandr Astakhov](https://openalex.org/A5088872783), [Thérèse Cibaka](https://openalex.org/A5041512914), [Lars Wieprecht](https://openalex.org/A5097027049), [Uwe Rau](https://openalex.org/A5047998043), [Tsvetelina Merdzhanova](https://openalex.org/A5012283384), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202402027.
+    
+Development of photovoltaic–electrochemical (PV‐EC) systems for energy storage and industry decarbonization requires multidisciplinary collaborative efforts of different research groups from both photovoltaic and electrochemical research communities. Consequently, the evaluation of the solar‐to‐chemical or solar‐to‐fuel efficiency of a new electrolyzer (EC) as a part of a PV‐EC system is a time‐consuming task that is challenging in a routine optimization loop. To address this issue, a new rapid assessment method is proposed. This method employs power balance requirements to unfold the input EC characteristics into the parameter space of PV‐EC systems. The system parameters, composed with the EC output characteristics, yield the solar‐to‐chemical efficiency attainable by the electrolyzer in combination with any PV device under any irradiance at any relative PV‐to‐EC scaling and any mode of power coupling. This comprehensive overview is achieved via a mathematically simple conversion of the EC characteristics in any spreadsheet software. The method, designed to streamline the development and minimize the efforts of both the photovoltaic and electrochemical communities, is demonstrated via the analysis of CO2‐reduction electrolyzer characteristics and verified with dedicated PV‐EC experiments.    
 
     
 
@@ -1142,17 +1230,6 @@ This study investigates the effectiveness of combining magnets with parabolic an
 
     
 
-## The Impact of International Cooperation on the Development of Renewable Energy Sources in Kazakhstan   
-
-OpenAlex: https://openalex.org/W4404221425    
-Open access: True
-    
-[A. S. Smagulova](https://openalex.org/A5034411381), [Gaukhar Kenzhegulova](https://openalex.org/A5055862650), [Z. Т. Satpayeva](https://openalex.org/A5084713744), [А. М. Мырзах­ме­то­ва](https://openalex.org/A5011846460), [А. T. Yerimpasheva](https://openalex.org/A5026013209), The economy strategy and practice. 19(3)] 2024.https://doi.org/10.51176/1997-9967-2024-3-44-59.
-    
-In recent decades, renewable energy sources (hereinafter - RES) have become an increasingly important component of global energy policy, especially in the context of the need for sustainable development and the fight against climate change. This study analyzes the role of international cooperation in the development of RES in Kazakhstan and assesses its impact on national strategies for reducing greenhouse gas emissions and transitioning to sustainable energy. The research employs cluster analysis to identify groups of partner countries with similar energy and environmental profiles, complemented by Ward’s dendrogram and scenario analysis to predict the future directions of international cooperation. Data from the Bureau of National Statistics of the Republic of Kazakhstan, including greenhouse gas emissions, the share of renewable energy in total energy consumption, water resource availability, fuel exports, and energy intensity, were utilized. Three main clusters were identified: countries with advanced technologies in the field of RES, countries with emerging RES markets, and countries focused on hydrocarbon exports but seeking to diversify their energy resources. Cluster analysis revealed that Kazakhstan falls into the group with high energy intensity and a low share of RES in the energy balance (1.8%). Scenario analysis demonstrated that with active international cooperation, the share of RES in Kazakhstan could increase to 10-12% by 2030, and energy intensity could decrease, leading to a reduction in CO2 emissions. For future research, an in-depth analysis of Kazakhstan’s international cooperation in the field of renewable energy sources with an emphasis on regional specifics is recommended.    
-
-    
-
 ## Optimal sizing of PV/wind/diesel generator/battery hybrid system for supplying electrical vehicle charging station under different load demands in Saudi Arabia   
 
 OpenAlex: https://openalex.org/W4404289150    
@@ -1161,6 +1238,17 @@ Open access: True
 [Ali Basem](https://openalex.org/A5029929616), [Z. M. S. Elbarbary](https://openalex.org/A5024783041), [Farruh Atamurotov](https://openalex.org/A5005480819), [Iroda Abdullayeva](https://openalex.org/A5114611533), [Anvar Reyimberganov](https://openalex.org/A5006187282), [Natei Ermias Benti](https://openalex.org/A5063225593), International Journal of Low-Carbon Technologies. 19(None)] 2024.https://doi.org/10.1093/ijlct/ctae190.
     
 Abstract Knowing the effect of different load distributions on the optimized sizes of the hybrid renewable energy systems (HRES) and the fixed price of Electric Vehicle (EV) charging station can be useful to potential investors in this sector. Additionally, the amount of CO2 emission under different load demands can help decision-makers in the installation of environmentally friendly EV charging stations. Investigation of fixed prices of installing power stations under different load demands leads to know whether electricity sell prices, and serves by the station owners are economically or not. This would also lead to give a reliable and economical plan to customers by station owners, where both time of arrival and charging prices have a pivotal role. Unlike previous similar studies that mostly consider one type of load demand, this study investigates the optimized HRESs including Photovoltaic panel (PV), Wind Turbine (WT), Diesel Generator (DG), and Battery (Bat) under five different proposed load demands (as electricity serving plans), reaching to the best economic, environmental, and space optimality systems. Three main sensitivity analyses upon the capacity shortage/inflation rate, capital cost of PV/WT, and solar global horizontal irradiation (GHI)/wind speed show the effect of changing the mentioned parameters on the economic, environment, and optimized systems’ sizes. It is observed that increase in the solar radiation and/or wind speed leads to reduction in the optimal size of designed systems.    
+
+    
+
+## The Impact of International Cooperation on the Development of Renewable Energy Sources in Kazakhstan   
+
+OpenAlex: https://openalex.org/W4404221425    
+Open access: True
+    
+[A. S. Smagulova](https://openalex.org/A5034411381), [Gaukhar Kenzhegulova](https://openalex.org/A5055862650), [Z. Т. Satpayeva](https://openalex.org/A5084713744), [А. М. Мырзах­ме­то­ва](https://openalex.org/A5011846460), [А. T. Yerimpasheva](https://openalex.org/A5026013209), The economy strategy and practice. 19(3)] 2024.https://doi.org/10.51176/1997-9967-2024-3-44-59.
+    
+In recent decades, renewable energy sources (hereinafter - RES) have become an increasingly important component of global energy policy, especially in the context of the need for sustainable development and the fight against climate change. This study analyzes the role of international cooperation in the development of RES in Kazakhstan and assesses its impact on national strategies for reducing greenhouse gas emissions and transitioning to sustainable energy. The research employs cluster analysis to identify groups of partner countries with similar energy and environmental profiles, complemented by Ward’s dendrogram and scenario analysis to predict the future directions of international cooperation. Data from the Bureau of National Statistics of the Republic of Kazakhstan, including greenhouse gas emissions, the share of renewable energy in total energy consumption, water resource availability, fuel exports, and energy intensity, were utilized. Three main clusters were identified: countries with advanced technologies in the field of RES, countries with emerging RES markets, and countries focused on hydrocarbon exports but seeking to diversify their energy resources. Cluster analysis revealed that Kazakhstan falls into the group with high energy intensity and a low share of RES in the energy balance (1.8%). Scenario analysis demonstrated that with active international cooperation, the share of RES in Kazakhstan could increase to 10-12% by 2030, and energy intensity could decrease, leading to a reduction in CO2 emissions. For future research, an in-depth analysis of Kazakhstan’s international cooperation in the field of renewable energy sources with an emphasis on regional specifics is recommended.    
 
     
 
@@ -1183,17 +1271,6 @@ Open access: False
 [Mustapha ZIKY](https://openalex.org/A5114663502), [Mouna Ouarhi](https://openalex.org/A5114663503), [Rachid OUCHCHIKH](https://openalex.org/A5114663504), Deleted Journal. 2(1)] 2024.https://doi.org/10.23882/emss25114.
     
 African countries are committed to the creation of free trade areas as a means of consolidating trade links between African nations. Intra-African trade is expected to boost economic growth and improve macroeconomic performance and living standards in Africa. However, theoretical insights and empirical evidence suggest that these efforts risk being undermined by the adverse environmental consequences of trade, which are likely to undermine the continent's achievements in terms of sustainable development and poverty reduction. This paper aims to examine the environmental impact of intra-African trade while integrating FDI, economic growth, urbanization, and energy consumption. The study used a panel data set for 32 African countries over the period 1990-2020. The empirical analysis was based on the latest panel estimation techniques. More specifically, we used the Dumitrescu-Hurlin causality test, the second generation of unit root tests on panel data, and the PMG estimator to estimate an ARDL panel. The error correction term reveals the existence of a cointegrating relationship between CO2 and trade, FDI, and the other control variables. The results suggest that intra-African trade worsens environmental quality in Africa in the long term. Similarly, FDI has a similar ecological impact, corroborating the ‘pollution heaven’ hypothesis. The results also refute the Environmental Kuznets Curve (EKC) hypothesis. Energy consumption plays a key role in the long-term deterioration of the environment. Finally, urbanization degrades the environment in line with the intuition of urban environmental transition theory.    
-
-    
-
-## Experimental study on flexural fatigue resistance of fiber-reinforced sustainable walnut shell ash mortar   
-
-OpenAlex: https://openalex.org/W4404210563    
-Open access: True
-    
-[Yan‐Fang Ren](https://openalex.org/A5006977739), [Junfeng Shi](https://openalex.org/A5023389264), [Lin Zhou](https://openalex.org/A5103009081), [Shiwei Peng](https://openalex.org/A5075284949), Deleted Journal. 6(11)] 2024.https://doi.org/10.1007/s42452-024-06334-x.
-    
-In recent research on building materials, researchers have increasingly focused on replacing cement with agricultural waste. This approach offers significant advantages in terms of reducing global CO2 emissions and promoting the sustainability of building materials. In this paper, the use of the agricultural waste walnut shell ash (WSA) to partially replace cement in sustainable green mortars is explored. Specifically, equal amounts of WSA (5%, 10% and 15%) were used to replace cement. To offset the reduction in strength caused by the partial replacement of cement with WSA, basalt fibers were added to the mortar mixture. The effect of these fibers on the mechanical properties of the WSA-reinforced mortar was examined in compression tests, split tensile tests, and flexural fatigue cycle tests. In the flexural fatigue tests, the parameter and length of basalt fibers were varied and different stress levels (0.85, 0.8 and 0.75) were applied. The fatigue equations were developed using the Weibull model and p–s–n curves with a survival probability of 0.5 were derived. The results showed that the compressive strength and split tensile strength of the specimens increased with the addition of basalt fibers, with maximum values of 34.7 MPa and 3.8 MPa, respectively, and maximum increases of 8.78% and 21.95%, respectively. In addition, the average fatigue life of WSA mortar was 247,541 cycles, which increased by 139.26% when the stress level was 0.75, fiber length was 9 mm, and dosage was 0.3%. The linear regression fitting showed good correlation and provided valuable insights for practical engineering applications.    
 
     
 

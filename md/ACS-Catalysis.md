@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Nov 17 01:35:52 2024
+Created on Mon Nov 18 01:26:30 2024
 
-Found 40 results from 2024-11-10 to 2024-11-17
+Found 41 results from 2024-11-11 to 2024-11-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -441,6 +441,17 @@ OpenAlex: https://openalex.org/W4404420889
 Open access: False
     
 [Fan Jie](https://openalex.org/A5100568670), [Wen‐Cui Li](https://openalex.org/A5053312733), [Lei He](https://openalex.org/A5101865587), [Bowen He](https://openalex.org/A5011306017), [Fan Tang](https://openalex.org/A5063218196), [Zhankai Liu](https://openalex.org/A5011424663), [Dongqi Wang](https://openalex.org/A5086386273), [Xi Liu](https://openalex.org/A5100450813), [Liwei Chen](https://openalex.org/A5102401820), [An‐Hui Lu](https://openalex.org/A5012152061), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05957.
+    
+No abstract    
+
+    
+
+## Thermochemical Correlations of Redox and Brønsted Sites on Bifunctional Polyoxometalate Clusters and Their Kinetic Consequences in Methanol-O2 Catalysis   
+
+OpenAlex: https://openalex.org/W4404436420    
+Open access: False
+    
+[Guangming Cai](https://openalex.org/A5067244216), [Ya-Huei Cathy Chin](https://openalex.org/A5039229575), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04745.
     
 No abstract    
 

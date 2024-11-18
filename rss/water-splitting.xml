@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Nov 2024 01:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 01:26:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Plasmon enhanced Oxygen Evolution Reaction on Au decorated Ni(OH)2 nanostructures: the role of alkaline cations solvation</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124804</link>
-      <description>Lucas D. Germano, Leonardo D. De Angelis, Ana Paula de Lima Batista, Antonio G. S. de Oliveira&#8208;Filho, Susana I. C&#243;rdoba de Torresi, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404205963
-
-                No abstract</description>
-      <author>Lucas D. Germano, Leonardo D. De Angelis, Ana Paula de Lima Batista, Antonio G. S. de Oliveira&#8208;Filho, Susana I. C&#243;rdoba de Torresi</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124804</guid>
-    </item>
-    <item>
-      <title>Novel Large-scale Integrated Non-Precious Metal Electrodes for Efficient and Stable Oxygen Evolution Reaction at High Current Density in 2.5 kW Anion Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124811</link>
-      <description>Yujie Liu, Qi Song, Tongguang Xu, Qian Kong, Gang He, Haixiao Sun, Huatong Li, Zhaoshuo Yuan, X.-T. Ma, Xiangyu Su, Xiangjun Dai, Qiu Gen Zhang, Zhenxing Li, YueChang Wei, Xin Zhang, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404210119
-
-                No abstract</description>
-      <author>Yujie Liu, Qi Song, Tongguang Xu, Qian Kong, Gang He, Haixiao Sun, Huatong Li, Zhaoshuo Yuan, X.-T. Ma, Xiangyu Su, Xiangjun Dai, Qiu Gen Zhang, Zhenxing Li, YueChang Wei, Xin Zhang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124811</guid>
-    </item>
-    <item>
-      <title>Electrochemically assisted preparation of defect-rich Co3O4 electrocatalysts in a water-modified deep eutectic solvent for enhanced oxygen evolution in acid</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161761</link>
-      <description>X. Shi, Rongrong Deng, Qibo Zhang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4404211767
-
-                No abstract</description>
-      <author>X. Shi, Rongrong Deng, Qibo Zhang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161761</guid>
-    </item>
-    <item>
-      <title>Dynamic hydrogen bubble template electrodeposition of a self-supported Co-P electrocatalyst for efficient alkaline oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118793</link>
-      <description>Yunhao Zhang, Yanxin Qiao, Yihui Wu, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4404212256
-
-                No abstract</description>
-      <author>Yunhao Zhang, Yanxin Qiao, Yihui Wu</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118793</guid>
-    </item>
-    <item>
-      <title>Surface-selenization formed NiFe MOF@NiSex heterogeneous arrays for enhanced oxygen evolution and methanol electrooxidation</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118789</link>
-      <description>Weiguang Hu, Qing Yan, Sainan Ma, Ruiqin Gao, Qin Wang, Weiyong Yuan, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4404212281
-
-                No abstract</description>
-      <author>Weiguang Hu, Qing Yan, Sainan Ma, Ruiqin Gao, Qin Wang, Weiyong Yuan</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118789</guid>
-    </item>
-    <item>
-      <title>3d-orbital overlap modulated d-band center of high-entropy oxyhydroxide for efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161760</link>
-      <description>Shaobing Tang, Shuang Wei, Yujun Wu, Zhichao Jia, Zhengyu Bai, Lin Yang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4404212825
-
-                No abstract</description>
-      <author>Shaobing Tang, Shuang Wei, Yujun Wu, Zhichao Jia, Zhengyu Bai, Lin Yang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161760</guid>
-    </item>
     <item>
       <title>Hydrogen and Oxygen Evolution on Flexible Catalysts Based on Nickel-Iron Coatings</title>
       <link>https://doi.org/10.20944/preprints202411.0517.v1</link>
@@ -439,6 +379,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.11.087</guid>
     </item>
     <item>
+      <title>The effect of particle size on structural and catalysts for oxygen evolution reaction of (CoFeNiMnCr)3O4 prepared by controlled synthesis with polyvinylpyrrolidone (PVP)</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.11.068</link>
+      <description>Ricardo Francisco Alves, Rafael A. Raimundo, Bruno Alessandro Silva Guedes de Lima, Francisco J.A. Loureiro, Duncan P. Fagg, Daniel A. Macedo, U&#237;lame Umbelino Gomes, Marco A. Morales, Journal of Colloid and Interface Science. 680(None)] 2024. https://openalex.org/W4404297459
+
+                No abstract</description>
+      <author>Ricardo Francisco Alves, Rafael A. Raimundo, Bruno Alessandro Silva Guedes de Lima, Francisco J.A. Loureiro, Duncan P. Fagg, Daniel A. Macedo, U&#237;lame Umbelino Gomes, Marco A. Morales</author>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.068</guid>
+    </item>
+    <item>
       <title>Cobalt nanoclusters Deposit on Nitrogen-Doped graphene Sheets as bifunctional electrocatalysts for high performance lithium &#8211; Oxygen batteries</title>
       <link>https://doi.org/10.1016/j.jcis.2024.11.066</link>
       <description>Raja Palani, Yi&#8208;Shiuan Wu, She&#8211;Huang Wu, Jeng&#8208;Kuei Chang, Rajan Jose, Chun&#8208;Chen Yang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4404297677
@@ -739,6 +689,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adsu.202470038</guid>
     </item>
     <item>
+      <title>Modulating RuO&lt;sub&gt;2&lt;/sub&gt; Electrocatalysis via Introducing Lanthanides for Enhanced Acidic Oxygen Evolution</title>
+      <link>https://doi.org/10.1002/adsu.202400747</link>
+      <description>Qi Ding, Linfeng Xie, Zijie Lin, Zhuhuang Qin, Yunan Li, Qing Li, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4404429159
+
+                Abstract The low activity of ruthenium dioxide (RuO 2 ) and the rapid dissolution of the ruthenium (Ru) site during acid oxygen evolution reaction (OER) at high current density restricts its application in proton exchange membrane (PEM) electrolyzers. In this work, a series of rare&#8208;earth (RE) elements doped RuO 2 nanorods is developed as high&#8208;performance OER electrocatalysts. X&#8208;ray absorption spectroscopy suggests that RE doping regulates the local coordination environment around Ru sites, lowers the valance of Ru, and shortens the Ru&#9472;O&#9472;Ru(M) bond length, which enhances structural stability. Among the RE&#8208;RuO 2 samples, Sm&#8208;RuO 2 exhibits remarkable performance with a low overpotential of 283 mV to reach 100 mA cm &#8722;2 and maintained stability for over 140 h at 10 mA cm &#8722;2 . Moreover, the PEM electrolyzer using Sm&#8208;RuO 2 as the anode can be stably operated at 500 mA cm &#8722;2 for 15 h. Electrochemical analysis, X&#8208;ray photoelectron spectroscopy, and in situ Raman spectroscopy show that Sm doping lowers the d &#8208;band center, reduces the adsorption energy of O intermediates to enhance the OER activity, and restrains excessive oxidation of Ru sites while stabilizing lattice oxygen during the OER process, thereby enhancing OER stability. This work offers valuable insights into improving the stability of metal oxide catalysts in acidic electrolytes.</description>
+      <author>Qi Ding, Linfeng Xie, Zijie Lin, Zhuhuang Qin, Yunan Li, Qing Li</author>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400747</guid>
+    </item>
+    <item>
       <title>Decision letter for "Coordination tuning of Ni/Fe complex-based electrocatalysts for enhanced oxygen evolution"</title>
       <link>https://doi.org/10.1039/d4qi01934b/v1/decision1</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4404430348
@@ -767,6 +727,16 @@
       <author/>
       <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4qi01934b/v2/review1</guid>
+    </item>
+    <item>
+      <title>Author response for "Coordination tuning of Ni/Fe complex-based electrocatalysts for enhanced oxygen evolution"</title>
+      <link>https://doi.org/10.1039/d4qi01934b/v2/response1</link>
+      <description>Hongbo Zhou, Xuan Hao, Jiexin Guan, Yilin Deng, Zi Wei, Yashu Liu, Guoxing Zhu, No host. None(None)] 2024. https://openalex.org/W4404430786
+
+                No abstract</description>
+      <author>Hongbo Zhou, Xuan Hao, Jiexin Guan, Yilin Deng, Zi Wei, Yashu Liu, Guoxing Zhu</author>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qi01934b/v2/response1</guid>
     </item>
     <item>
       <title>Review for "Synergistic Fe,Ce doping of Ni&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt;S&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; for enhancing oxygen evolution reaction performance"</title>
@@ -817,6 +787,56 @@
       <author/>
       <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4qi01934b/v1/review1</guid>
+    </item>
+    <item>
+      <title>Low&#8208;Spin Fe&lt;sup&gt;3+&lt;/sup&gt; Evoked by Multiple Defects with Optimal Intermediate Adsorption Attaining Unparalleled Performance in Water Oxidation</title>
+      <link>https://doi.org/10.1002/adma.202412598</link>
+      <description>Yihao Wang, Shanqing Li, Xu Hou, Ting-Ting Cui, Zechao Zhuang, Yunhe Zhao, Haozhi Wang, Wei Wei, Ming Xu, Qiang Fu, Chunxia Chen, Dingsheng Wang, Advanced Materials. None(None)] 2024. https://openalex.org/W4404431075
+
+                Abstract Electrocatalytic water splitting is long constrained by the sluggish kinetics of anodic oxygen evolution reaction (OER), and rational spin&#8208;state manipulation holds great promise to break through this bottleneck. Low&#8208;spin Fe 3+ (LS, t 2g 5 e g 0 ) species are identified as highly active sites for OER in theory, whereas it is still a formidable challenge to construct experimentally. Herein, a new strategy is demonstrated for the effective construction of LS Fe 3+ in NiFe&#8208;layered double hydroxide (NiFe&#8208;LDH) by introducing multiple defects, which induce coordination unsaturation over Fe sites and thus enlarge their d orbital splitting energy. The as&#8208;obtained catalyst exhibits extraordinary OER performance with an ultra&#8208;low overpotential of 244 mV at the industrially required current density of 500 mA cm &#8722;2 , which is 110 mV lower than that of the conventional NiFe&#8208;LDH with high&#8208;spin Fe 3+ (HS, t 2g 3 e g 2 ) and superior to most previously reported NiFe&#8208;based catalysts. Comprehensive experimental and theoretical studies reveal that LS Fe 3+ configuration effectively reduces the adsorption strength of the O* intermediate compared with that of the HS case, thereby altering the rate&#8208;determining step from (O* &#8594; OOH*) to (OH* &#8594; O*) of OER and lowering its reaction energy barrier. This work paves a new avenue for developing efficient spin&#8208;dependent electrocatalysts for OER and beyond.</description>
+      <author>Yihao Wang, Shanqing Li, Xu Hou, Ting-Ting Cui, Zechao Zhuang, Yunhe Zhao, Haozhi Wang, Wei Wei, Ming Xu, Qiang Fu, Chunxia Chen, Dingsheng Wang</author>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202412598</guid>
+    </item>
+    <item>
+      <title>Synergistic Catalytic Sites in High&#8208;Entropy Metal Hydroxide Organic Framework for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/adma.202408114</link>
+      <description>Arkendu Roy, Sourabh Kumar, Ana Guilherme Buzanich, Carsten Prinz, Emilia G&#246;tz, Anika Retzmann, Tilmann Hickel, Biswajit Bhattacharya, Franziska Emmerling, Advanced Materials. None(None)] 2024. https://openalex.org/W4404431258
+
+                Abstract The integration of multiple elements in a high&#8208;entropy state is crucial in the design of high&#8208;performance, durable electrocatalysts. High&#8208;entropy metal hydroxide organic frameworks (HE&#8208;MHOFs) are synthesized under mild solvothermal conditions. This novel crystalline metal&#8211;organic framework (MOF) features a random, homogeneous distribution of cations within high&#8208;entropy hydroxide layers. HE&#8208;MHOF exhibits excellent electrocatalytic performance for the oxygen evolution reaction (OER), reaching a current density of 100 mA cm &#8722;2 at &#8776;1.64 V RHE , and demonstrates remarkable durability, maintaining a current density of 10 mA cm &#8722;2 for over 100 h. Notably, HE&#8208;MHOF outperforms precious metal&#8208;based electrocatalysts despite containing only &#8776;60% OER active metals. Ab initio calculations and operando X&#8208;ray absorption spectroscopy (XAS) demonstrate that the high&#8208;entropy catalyst contains active sites that facilitate a multifaceted OER mechanism. This study highlights the benefits of high&#8208;entropy MOFs in developing noble metal&#8208;free electrocatalysts, reducing reliance on precious metals, lowering metal loading (especially for Ni, Co, and Mn), and ultimately reducing costs for sustainable water electrolysis technologies.</description>
+      <author>Arkendu Roy, Sourabh Kumar, Ana Guilherme Buzanich, Carsten Prinz, Emilia G&#246;tz, Anika Retzmann, Tilmann Hickel, Biswajit Bhattacharya, Franziska Emmerling</author>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202408114</guid>
+    </item>
+    <item>
+      <title>Construction of NiFe2O4/Fe2O3@Ni(OH)2 hollow core&#8211;shell nanotubes based on metal&#8211;organic frameworks for efficient oxygen evolution electrocatalysis</title>
+      <link>https://doi.org/10.1007/s10853-024-10426-9</link>
+      <description>Peng Tian, Jian Shao, Zhou Yu, Shengnan Song, Qing Jiang, Yuwei Dong, Journal of Materials Science. None(None)] 2024. https://openalex.org/W4404440273
+
+                No abstract</description>
+      <author>Peng Tian, Jian Shao, Zhou Yu, Shengnan Song, Qing Jiang, Yuwei Dong</author>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10853-024-10426-9</guid>
+    </item>
+    <item>
+      <title>Co-Operation of Oxygen and Nitrogen of Functionalized Nitrogen-Dopd Porous Carbon for Efficient H2o2 Evolution</title>
+      <link>https://doi.org/10.2139/ssrn.5023620</link>
+      <description>Ying&#8208;Jie Zhu, Huang hengbo, Yong Yang, Shuling Shen, Zhihong Tang, No host. None(None)] 2024. https://openalex.org/W4404441171
+
+                No abstract</description>
+      <author>Ying&#8208;Jie Zhu, Huang hengbo, Yong Yang, Shuling Shen, Zhihong Tang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5023620</guid>
+    </item>
+    <item>
+      <title>Microwave-Assisted synthesis of CuxFe100-x/Carbon aerogel (x = 0, 30, 50, 70) with enhanced Electrocatalytic activity towards oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jelechem.2024.118811</link>
+      <description>Meryem Samanc&#305;, Muhammad Asim, Akbar Hussain, Naveed Kausar Janjua, Ay&#351;e Bayrak&#231;eken Yurtcan, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4404442521
+
+                No abstract</description>
+      <author>Meryem Samanc&#305;, Muhammad Asim, Akbar Hussain, Naveed Kausar Janjua, Ay&#351;e Bayrak&#231;eken Yurtcan</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118811</guid>
     </item>
     <item>
       <title>Photoelectrochemical behaviour of WO3 and Se-WO3 films modified with cobalt-based oxygen evolving catalyst</title>
@@ -919,16 +939,6 @@
       <guid isPermaLink="true">https://openalex.org/W4404309933</guid>
     </item>
     <item>
-      <title>The effect of particle size on structural and catalysts for oxygen evolution reaction of (CoFeNiMnCr)3O4 prepared by controlled synthesis with polyvinylpyrrolidone (PVP)</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.11.068</link>
-      <description>Ricardo Francisco Alves, Rafael A. Raimundo, Bruno Alessandro Silva Guedes de Lima, Francisco J.A. Loureiro, Duncan P. Fagg, Daniel A. Macedo, U&#237;lame Umbelino Gomes, Marco A. Morales, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4404297459
-
-                No abstract</description>
-      <author>Ricardo Francisco Alves, Rafael A. Raimundo, Bruno Alessandro Silva Guedes de Lima, Francisco J.A. Loureiro, Duncan P. Fagg, Daniel A. Macedo, U&#237;lame Umbelino Gomes, Marco A. Morales</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.068</guid>
-    </item>
-    <item>
       <title>Redox-Mediated Oxygen Evolution Mechanism in Atomically Dispersed Pt-Supported NiO: Defying the Hydroxyl-Mediated Mechanism of NiO</title>
       <link>https://doi.org/10.1021/acsaem.4c01920</link>
       <description>Jatin Nama, Sudhanshu Sharma, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4404237909
@@ -997,6 +1007,26 @@
       <author/>
       <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4qm00555d/v2/decision1</guid>
+    </item>
+    <item>
+      <title>Author response for "Porphyrin-linked graphdiyne as a substrate for constructing single-atom catalysts with transition metals towards oxygen reduction reactions and oxygen evolution reactions"</title>
+      <link>https://doi.org/10.1039/d4qm00555d/v2/response1</link>
+      <description>Jiejie Ping, Mei Wu, Manyu Liu, Yan Jiang, Wenhui Shang, Menggai Jiao, Jiahao Ruan, Nan Wang, Zhiyu Jia, No host. None(None)] 2024. https://openalex.org/W4404428310
+
+                No abstract</description>
+      <author>Jiejie Ping, Mei Wu, Manyu Liu, Yan Jiang, Wenhui Shang, Menggai Jiao, Jiahao Ruan, Nan Wang, Zhiyu Jia</author>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qm00555d/v2/response1</guid>
+    </item>
+    <item>
+      <title>Degree of Span Control to Determine the Impact of Different Mechanisms and Limiting Steps: Oxygen Evolution Reaction Over Co3o4(001) as a Case Study</title>
+      <link>https://doi.org/10.2139/ssrn.5023098</link>
+      <description>Kapil Dhaka, Kai S. Exner, No host. None(None)] 2024. https://openalex.org/W4404443680
+
+                No abstract</description>
+      <author>Kapil Dhaka, Kai S. Exner</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5023098</guid>
     </item>
     <item>
       <title>Microenvironment Regulation of the electronic structure of bismuth oxychloride via rare-earth element Samarium doping for remarkable Visible-Light-Responsive oxygen evolution</title>
@@ -1110,16 +1140,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/chemengineering8060116</guid>
     </item>
     <item>
-      <title>Targeted Topological Routine Regulation of RuNiOx Precursors for Excellent Alkaline Overall Water Splitting</title>
-      <link>https://doi.org/10.1002/cctc.202401664</link>
-      <description>Ziyan Cai, Minghao Yang, Xiaoke Xu, Xiuming Bu, Chuqian Xiao, Yikai Yang, Di Yin, Yuxuan Zhang, Gao Wei, Xianying Wang, Johnny C. Ho, ChemCatChem. None(None)] 2024. https://openalex.org/W4404205798
-
-                Designing efficient and stable electrocatalysts for the hydrogen and oxygen evolution reactions (HER and OER) is crucial for green hydrogen production via the water&#8208;splitting system. The bifunctional electrocatalyst offers a promising strategy due to the simplified preparation process and reduced expenses. However, the single&#8208;component bifunctional catalysts often struggle to match the redox potential of water and to achieve proper adsorption/desorption of Gibbs free energy for both H and O intermediates simultaneously. Herein, through precisely controlling the topological transformation path of the RuNiOx precursor, we successfully prepared high&#8208;performance RuNi/Ni and Ru/NiO heterostructure electrocatalysts for the HER and OER, respectively. The energy level matching between the fabricated electrocatalyst and water oxidation/reduction potential confirms the feasibility of HER and OER. The synergistic effect between the active sites ensures rapid, intermediate adsorption/desorption kinetics. As a result, the assembled alkaline overall water splitting setup achieves a current density of 1 A cm&#8208;2 at 2 V and maintains stable operation at 100 mA cm&#8208;2 for 100 hours.</description>
-      <author>Ziyan Cai, Minghao Yang, Xiaoke Xu, Xiuming Bu, Chuqian Xiao, Yikai Yang, Di Yin, Yuxuan Zhang, Gao Wei, Xianying Wang, Johnny C. Ho</author>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401664</guid>
-    </item>
-    <item>
       <title>Sulfate Oxyanion Steered &lt;i&gt;d&lt;/i&gt;&#8208;Orbital Electronic State of Nickel&#8208;Iron Nanoalloy for Boosting Electrocatalytic Performance</title>
       <link>https://doi.org/10.1002/smll.202408171</link>
       <description>Yachao Jin, Xinjian Qu, Zihao Zhou, Rong Liu, Mengxian Zhang, Li Song, Wenqiang Ma, Ming&#8208;Dao Zhang, Small. None(None)] 2024. https://openalex.org/W4404390009
@@ -1130,14 +1150,15 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202408171</guid>
     </item>
     <item>
-      <title>Enhancing Oxygen Reduction Reaction Electrocatalytic Performance of Nickel&#8208;Nitrogen&#8208;Carbon Catalysts through Coordination Environment Engineering&lt;sup&gt;&#8224;&lt;/sup&gt;</title>
-      <link>https://doi.org/10.1002/cjoc.202400769</link>
-      <description>Hui&#8208;Jian Zou, Yan Leng, Chen&#8208;Shuang Yin, Xikun Yang, Chungang Min, Feng Tan, Ai&#8208;Min Ren, Chinese Journal of Chemistry. None(None)] 2024. https://openalex.org/W4404209081
+      <title>Phase transformation and water adsorption behavior of ALD deposited and
+  annealed Ru and RuO2 films</title>
+      <link>https://doi.org/10.48550/arxiv.2410.22666</link>
+      <description>Swapnil Nalawade, R. S. Kim, Jonathan Mahl, Sheilah Cherono, Ikenna Chris-Okoro, V. Cr&#259;ciun, Jia Yan, Ethan J. Crumlin, D. Kumar, Shyam Aravamudhan, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4404342523
 
-                Comprehensive Summary Single&#8208;atom catalysts (SACs) have attracted significant attention due to their high atomic utilization and tunable coordination environment. However, the catalytic mechanisms related to the active center and coordination environment remain unclear. In this study, we systematically investigated the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) catalytic activities of NiN 4 , NiN 3 , NiN 3 H 2 , NiN 4 X, NiN 3 X, and NiN 3 H 2 X (X denotes axial ligand) through density functional theory (DFT) calculations. This study unveils two distinct reaction pathways for ORR and OER, involving proton&#8208;electron pairs adsorbed from both the solution and the catalyst surface. The overpotential is the key parameter to evaluate the catalytic performance when proton&#8208;electron pairs are adsorbed from the solution. NiN 3 and NiN 3 H 2 show promise as pH&#8208;universal bifunctional electrocatalysts for both ORR and OER. On the other hand, when proton&#8208;electron pairs are adsorbed from the catalyst surface, the reaction energy barrier becomes the crucial metric for assessing catalytic activity. Our investigation reveals that NiN 3 H 2 consistently exhibits optimal ORR activity across a wide pH range, regardless of the source of proton&#8208;electron pair (solvent or catalyst surface).</description>
-      <author>Hui&#8208;Jian Zou, Yan Leng, Chen&#8208;Shuang Yin, Xikun Yang, Chungang Min, Feng Tan, Ai&#8208;Min Ren</author>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cjoc.202400769</guid>
+                Ruthenium metal and its oxide stand out for their exceptional catalytic activity, stability in Oxygen Evolution Reactions (OER) and electrical conductivity, making them indispensable in electronics and electrocatalysis. In this study, atomic layer deposition (ALD) was used to synthesize ruthenium thin films, and the subsequent annealing of deposited ruthenium films at different elevated temperatures resulted in a progressive phase transformation from ruthenium metal to ruthenium dioxide (RuO2). The films were systematically characterized using atomic force microscopy (AFM), X-ray photoelectron spectroscopy (XPS), X-ray diffraction (XRD), and Raman spectroscopy. XPS was carried out with both soft X-rays from a lab-based instrument and tender X-rays from the synchrotron. The different probing depths of the techniques revealed the gradual transformation of Ru to RuO2 from the top surface as the annealing temperature was increased. The water adsorption behavior of the films was also assessed using ambient pressure XPS (APXPS) at different water vapor pressures. The influence of annealing conditions on the films affinity for water and tendency for water dissociation was analyzed to seek an initial understanding of the surface chemistry relevant to electrochemical water splitting.</description>
+      <author>Swapnil Nalawade, R. S. Kim, Jonathan Mahl, Sheilah Cherono, Ikenna Chris-Okoro, V. Cr&#259;ciun, Jia Yan, Ethan J. Crumlin, D. Kumar, Shyam Aravamudhan</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.22666</guid>
     </item>
     <item>
       <title>In Situ Raman Study of Layered Double Hydroxide Catalysts for Water Oxidation to Hydrogen Evolution: Recent Progress and Future Perspectives</title>
@@ -1150,15 +1171,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17225712</guid>
     </item>
     <item>
-      <title>Phase transformation and water adsorption behavior of ALD deposited and
-  annealed Ru and RuO2 films</title>
-      <link>https://doi.org/10.48550/arxiv.2410.22666</link>
-      <description>Swapnil Nalawade, R. S. Kim, Jonathan Mahl, Sheilah Cherono, Ikenna Chris-Okoro, V. Cr&#259;ciun, Jia Yan, Ethan J. Crumlin, D. Kumar, Shyam Aravamudhan, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4404342523
+      <title>Rapid Scalable One&#8208;step Production of Catalysts for Low&#8208;Iridium Content Proton Exchange Membrane Water Electrolyzers</title>
+      <link>https://doi.org/10.1002/aenm.202401659</link>
+      <description>Suriya Venkatesan, Jens Mitzel, Sambal Shashank Ambu, Tobias Morawietz, Indro Biswas, Oscar Recalde, Esmaeil Adabifiroozjaei, Leopoldo Molina&#8208;Luna, Deven P. Estes, Karsten Wegner, Pawel Gazdzicki, Aldo Saul Gago, K. Andreas Friedrich, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4404443367
 
-                Ruthenium metal and its oxide stand out for their exceptional catalytic activity, stability in Oxygen Evolution Reactions (OER) and electrical conductivity, making them indispensable in electronics and electrocatalysis. In this study, atomic layer deposition (ALD) was used to synthesize ruthenium thin films, and the subsequent annealing of deposited ruthenium films at different elevated temperatures resulted in a progressive phase transformation from ruthenium metal to ruthenium dioxide (RuO2). The films were systematically characterized using atomic force microscopy (AFM), X-ray photoelectron spectroscopy (XPS), X-ray diffraction (XRD), and Raman spectroscopy. XPS was carried out with both soft X-rays from a lab-based instrument and tender X-rays from the synchrotron. The different probing depths of the techniques revealed the gradual transformation of Ru to RuO2 from the top surface as the annealing temperature was increased. The water adsorption behavior of the films was also assessed using ambient pressure XPS (APXPS) at different water vapor pressures. The influence of annealing conditions on the films affinity for water and tendency for water dissociation was analyzed to seek an initial understanding of the surface chemistry relevant to electrochemical water splitting.</description>
-      <author>Swapnil Nalawade, R. S. Kim, Jonathan Mahl, Sheilah Cherono, Ikenna Chris-Okoro, V. Cr&#259;ciun, Jia Yan, Ethan J. Crumlin, D. Kumar, Shyam Aravamudhan</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.22666</guid>
+                Abstract Proton exchange membrane water electrolysis (PEMWE) is a promising technology for green hydrogen production, although its widespread development with state&#8208;of&#8208;the&#8208;art loadings is threatened by the scarcity of iridium (Ir). Homogeneous dispersion of Ir in an immiscible electro&#8208;ceramic matrix can enhance catalytic mass activity and structural stability. The study presents Ir y Sn 0.9(1&#8722; y ) Sb 0.1(1&#8722; y ) O x solid solutions produced by highly scalable flame spray pyrolysis (FSP) process as efficient anode electrocatalysts for PEMWE, containing only 0.2 mg cm &#8722;2 of Ir in the catalyst layer (CL). Intense mixing of metal vapor and large thermal gradients in the precursor&#8208;derived high&#8208;temperature flame aids stabilizing sub&#8208;nanoscale entropic mixing within self&#8208;preserved 4&#8211;6 nm particles. Detailed investigations confirm that the one&#8208;step prepared solid solution electrocatalysts exhibit up to fourfold higher activity toward the oxygen evolution reaction (OER) compared to Ir black. The anode of a PEMWE utilizing this catalyst exhibits high performance and stability over 2000 h but with tenfold lower Ir loading than the state&#8208;of&#8208;art.</description>
+      <author>Suriya Venkatesan, Jens Mitzel, Sambal Shashank Ambu, Tobias Morawietz, Indro Biswas, Oscar Recalde, Esmaeil Adabifiroozjaei, Leopoldo Molina&#8208;Luna, Deven P. Estes, Karsten Wegner, Pawel Gazdzicki, Aldo Saul Gago, K. Andreas Friedrich</author>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202401659</guid>
     </item>
     <item>
       <title>Tribute to Kenneth Sauer (1931&#8211;2022): a mentor, a role-model, and an inspiration to all in the field of photosynthesis</title>
@@ -1262,6 +1282,16 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-d6hl7</guid>
     </item>
     <item>
+      <title>Dynamic Self&#8208;Healing of the Reconstructed Phase in Perovskite Oxides for Efficient and Stable Electrocatalytic OER</title>
+      <link>https://doi.org/10.1002/smll.202407851</link>
+      <description>Yiyue Zhai, Xiangrong Ren, Shouxin Zhang, Tao Gan, Na Yang, Bolun Wang, Shengzhong Liu, Small. None(None)] 2024. https://openalex.org/W4404435434
+
+                Abstract Neither electrocatalytic activity nor structural stability is inconsequential in water electrolysis. Unfortunately, they have to be compromised in practice, especially in the anodic redox chemistry of lattice oxygen. Herein, the discovery of a La 1&#8722; x Ce x FeO 3 perovskite is presented which shows both good stability and high catalytic activity. Using advanced operando characterizations, it is identified that the self&#8208;healing evolution of the La 1&#8722; x Ce x FeO 3 perovskite plays a key role during water oxidation in the lattice oxygen&#8208;mediated mechanism (LOM) pathway. Unlike irreversible reconstruction, the formation of reconstructed active&#8208;phase &#945; &#8208;FeOOH is reversed by re&#8208;crystallization of surface La 1&#8722; x Ce x FeO 3 upon return to noncatalytic conditions. The self&#8208;healing transformation of the &#945; &#8208;FeOOH termination layer on the stable La 1&#8722; x Ce x FeO 3 core imparts remarkable long&#8208;term stability as well as excellent electrocatalytic performance. As a result, a composition La 0.9 Ce 0.1 FeO 3 @FeOOH is designed that exhibits ultralow overpotentials of 257 and 312 mV to achieve 10 and 100 mA cm &#8722;2 , respectively. The findings provide insight into self&#8208;healing behavior toward engineering perovskite oxides for efficient and stable oxygen electrocatalysis.</description>
+      <author>Yiyue Zhai, Xiangrong Ren, Shouxin Zhang, Tao Gan, Na Yang, Bolun Wang, Shengzhong Liu</author>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202407851</guid>
+    </item>
+    <item>
       <title>Analysis of pore formation and carburizing mechanism of magnetite reduction by CO</title>
       <link>https://doi.org/10.1177/02670836241298116</link>
       <description>Meijie Zhou, Liqun Ai, Lukuo Hong, Wenquan Cui, Caijiao Sun, Weijia An, Shuai Tong, Materials Science and Technology. None(None)] 2024. https://openalex.org/W4404423683
@@ -1282,16 +1312,6 @@
       <guid isPermaLink="true">https://doi.org/10.1101/2024.11.14.623592</guid>
     </item>
     <item>
-      <title>Geochemical and zircon 18O&#8211;Hf&#8211;U/Pb isotopic study of volcanic rocks from Lutao Island in the northern Luzon magmatic arc</title>
-      <link>https://doi.org/10.1186/s40562-024-00363-5</link>
-      <description>Nancy Hui-Chun Chen, Geoscience Letters. 11(1)] 2024. https://openalex.org/W4404229837
-
-                Abstract Lutao is an islet off the eastern coast of the main island of Taiwan and is composed of pyroclastic agglomerates, volcanic breccias, lava flows, and dykes. There have been no reports of SIMS zircon oxygen isotopic data from Lutao Island so far, which has significantly hampered further understanding of its magmatic processes, such as crystallization, evolution, and generation of magma. In this study, we use zircon U&#8211;Pb dating, Lu&#8211;Hf and O isotopic analysis to constrain the age, origin, and magmatic processes of the volcanic rocks from Lutao Island. Integration of our new U&#8211;Pb and Hf&#8211;O isotope data with available published data allows us to better assess the timing and magmatic processes of Lutao Island in the context of the northern Luzon arc system. This work is the first report of SIMS zircon oxygen isotopic data of volcanic rocks from Lutao island. This study shows that the volcanic rocks from Lutao Island were generated by mantle-derived magma associated with high-T&#176; hydrothermal alteration by seawater-derived fluids.</description>
-      <author>Nancy Hui-Chun Chen</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1186/s40562-024-00363-5</guid>
-    </item>
-    <item>
       <title>A phenotype-structured mathematical model for the influence of hypoxia
   on oncolytic virotherapy</title>
       <link>https://doi.org/10.48550/arxiv.2411.02413</link>
@@ -1301,6 +1321,16 @@
       <author>David Morselli, Giulia Chiari, Federico Frascoli, Marcello Delitala</author>
       <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2411.02413</guid>
+    </item>
+    <item>
+      <title>Geochemical and zircon 18O&#8211;Hf&#8211;U/Pb isotopic study of volcanic rocks from Lutao Island in the northern Luzon magmatic arc</title>
+      <link>https://doi.org/10.1186/s40562-024-00363-5</link>
+      <description>Nancy Hui-Chun Chen, Geoscience Letters. 11(1)] 2024. https://openalex.org/W4404229837
+
+                Abstract Lutao is an islet off the eastern coast of the main island of Taiwan and is composed of pyroclastic agglomerates, volcanic breccias, lava flows, and dykes. There have been no reports of SIMS zircon oxygen isotopic data from Lutao Island so far, which has significantly hampered further understanding of its magmatic processes, such as crystallization, evolution, and generation of magma. In this study, we use zircon U&#8211;Pb dating, Lu&#8211;Hf and O isotopic analysis to constrain the age, origin, and magmatic processes of the volcanic rocks from Lutao Island. Integration of our new U&#8211;Pb and Hf&#8211;O isotope data with available published data allows us to better assess the timing and magmatic processes of Lutao Island in the context of the northern Luzon arc system. This work is the first report of SIMS zircon oxygen isotopic data of volcanic rocks from Lutao island. This study shows that the volcanic rocks from Lutao Island were generated by mantle-derived magma associated with high-T&#176; hydrothermal alteration by seawater-derived fluids.</description>
+      <author>Nancy Hui-Chun Chen</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1186/s40562-024-00363-5</guid>
     </item>
     <item>
       <title>Research on aging mechanism and capacity attenuation of automotive lithium-ion batteries</title>
@@ -1343,16 +1373,6 @@
       <guid isPermaLink="true">https://doi.org/10.7554/elife.103432.1</guid>
     </item>
     <item>
-      <title>Rational design of MoS2/CNT heterostructure with rich S-vacancy for enhanced HER performance</title>
-      <link>https://doi.org/10.1063/5.0237254</link>
-      <description>Yuxin Sun, Jinhua Li, Zhiying Wang, Fengxue Tan, Kaixi Shi, Yingjiao Zhai, The Journal of Chemical Physics. 161(18)] 2024. https://openalex.org/W4404244572
-
-                Molybdenum disulfide (MoS2) is a promising electrocatalyst for the hydrogen evolution reaction (HER) due to excellent stability and low cost. However, the utilization in electrocatalytic hydrogen evolution is constrained by inherent shortcomings, including fewer edge active sites, poor dispersion, and electrical conductivity. In this work, MoS2 was compounded with carbon nanotubes (CNTs), which are known for their high specific surface area and excellent electrical conductivity. These CNTs, laden with oxygen-containing functional groups, provided nucleation sites that facilitated the rapid assembly of MoS2 nanoflowers under hydrothermal conditions within 3 h. Due to their diminutive size (&#8764;300 nm), these nanoflowers possess a large specific surface area and numerous active sites at their edges. Furthermore, MoS2 nanoflowers exhibited a high concentration of intrinsic S-vacancies. This heterojunction material exhibited superior HER properties. In addition, density functional theory simulation further confirmed that the MoS2 with S vacancy and CNT heterojunction electrocatalysts (VS-M/C) provided a fast charge transfer pathway for water electrolysis, and analysis showed that the conduction band minimum and valence band maximum were mainly contributed by the d orbits of Mo and the p orbits of C. This study proffered a novel approach for the engineering of high-performance MoS2-based HER electrocatalysts.</description>
-      <author>Yuxin Sun, Jinhua Li, Zhiying Wang, Fengxue Tan, Kaixi Shi, Yingjiao Zhai</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0237254</guid>
-    </item>
-    <item>
       <title>2024 American Heart Association and American Red Cross Guidelines for First Aid</title>
       <link>https://doi.org/10.1161/cir.0000000000001281</link>
       <description>Elizabeth K. Hewett Brumberg, Matthew J. Douma, Kostas Alibertis, Nathan P. Charlton, Michael P. Goldman, Katrina Harper-Kirksey, Seth C. Hawkins, Amber V. Hoover, Amy Kule, Stefan W. Leichtle, Sarah Frances McClure, George Sam Wang, Mark Whelchel, Lynn J. White, Eric J. Lavonas, Circulation. None(None)] 2024. https://openalex.org/W4404358049
@@ -1374,6 +1394,16 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2411.04180</guid>
     </item>
     <item>
+      <title>Supersensitive seismic magnetometry on white dwarfs</title>
+      <link>https://doi.org/10.48550/arxiv.2410.20557</link>
+      <description>Nicholas Z. Rui, Jim Fuller, J. J. Hermes, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4404314173
+
+                The origin of magnetic fields in white dwarfs (WDs) remains mysterious. Magnetic WDs are traditionally associated with field strengths $\gtrsim1\,\mathrm{MG}$, set by the sensitivity of typical spectroscopic magnetic field measurements. Informed by recent developments in red giant magnetoasteroseismology, we revisit the use of WD pulsations as a seismic magnetometer. WD pulsations primarily probe near-surface magnetic fields, whose effect on oscillation mode frequencies is to asymmetrize rotational multiplets and, if strong enough, suppress gravity-mode propagation altogether. The sensitivity of seismology to magnetic fields increases strongly with mode period and decreases quickly with the depth of the partial ionization-driven surface convective zone. We place upper limits for magnetic fields in $24$ pulsating WDs: $20$ hydrogen-atmosphere (DAV) and three helium-atmosphere (DBV) carbon-oxygen WDs, and one extremely low-mass (helium-core) pulsator. These bounds are typically $\sim1$-$10\,\mathrm{kG}$, although they can reach down to $\sim10$-$100\,\mathrm{G}$ for DAVs and helium-core WDs in which lower-frequency modes are excited. Seismic magnetometry may enable new insights into the formation and evolution of WD magnetism.</description>
+      <author>Nicholas Z. Rui, Jim Fuller, J. J. Hermes</author>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.20557</guid>
+    </item>
+    <item>
       <title>Personalized &lt;i&gt;in silico&lt;/i&gt; model for radiation-induced pulmonary fibrosis</title>
       <link>https://doi.org/10.1098/rsif.2024.0525</link>
       <description>Eleftherios Ioannou, Myrianthi Hadjicharalambous, Anastasia Malai, Elisavet Papageorgiou, Antri Peraticou, Nicos Katodritis, Dimitrios Vomvas, Vasileios Vavourakis, Journal of The Royal Society Interface. 21(220)] 2024. https://openalex.org/W4404282542
@@ -1384,14 +1414,24 @@
       <guid isPermaLink="true">https://doi.org/10.1098/rsif.2024.0525</guid>
     </item>
     <item>
-      <title>Supersensitive seismic magnetometry on white dwarfs</title>
-      <link>https://doi.org/10.48550/arxiv.2410.20557</link>
-      <description>Nicholas Z. Rui, Jim Fuller, J. J. Hermes, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4404314173
+      <title>High&#8208;Throughput UV&#8208;Induced Synthesis and Screening of Alloy Electrocatalysts</title>
+      <link>https://doi.org/10.1002/smll.202406848</link>
+      <description>Xu Li, Jianyun Cao, Jiexin Chen, Jiyang Xie, Chengding Gu, Xiaohong Li, Nigel Brandon, Wanbiao Hu, Small. None(None)] 2024. https://openalex.org/W4404390051
 
-                The origin of magnetic fields in white dwarfs (WDs) remains mysterious. Magnetic WDs are traditionally associated with field strengths $\gtrsim1\,\mathrm{MG}$, set by the sensitivity of typical spectroscopic magnetic field measurements. Informed by recent developments in red giant magnetoasteroseismology, we revisit the use of WD pulsations as a seismic magnetometer. WD pulsations primarily probe near-surface magnetic fields, whose effect on oscillation mode frequencies is to asymmetrize rotational multiplets and, if strong enough, suppress gravity-mode propagation altogether. The sensitivity of seismology to magnetic fields increases strongly with mode period and decreases quickly with the depth of the partial ionization-driven surface convective zone. We place upper limits for magnetic fields in $24$ pulsating WDs: $20$ hydrogen-atmosphere (DAV) and three helium-atmosphere (DBV) carbon-oxygen WDs, and one extremely low-mass (helium-core) pulsator. These bounds are typically $\sim1$-$10\,\mathrm{kG}$, although they can reach down to $\sim10$-$100\,\mathrm{G}$ for DAVs and helium-core WDs in which lower-frequency modes are excited. Seismic magnetometry may enable new insights into the formation and evolution of WD magnetism.</description>
-      <author>Nicholas Z. Rui, Jim Fuller, J. J. Hermes</author>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2410.20557</guid>
+                Abstract The combination of different elements in alloy catalysts can lead to improved activity as it provides opportunities to tune the electronic structures of surface atoms. However, the synthesis and performance screening of alloy catalysts through a vast chemical space are cost&#8208; and labor&#8208;intensive. Herein, a UV&#8208;induced, high&#8208;throughput method is reported for the synthesis and screening of alloy electrocatalysts in a fast and low&#8208;cost manner. A platform that integrates 37 mini&#8208;reaction&#8208;cells enables simultaneous UV&#8208;induced photodeposition of alloy nanoparticles with up to 37 compositions. These mini&#8208;reaction&#8208;cells further allow a transfer&#8208;free, high&#8208;throughput electrochemical performance screening. Binary (PtPd, PtIr, PdIr), ternary (PtPdIr, PtRuIr) and quaternary (PtPdRuIr) alloys have been synthesized with the activity of the binary alloys (57 compositions) for hydrogen evolution reaction (HER) and oxygen reduction reaction (ORR) being screened. The predicted high performance of identified alloy compositions are subsequently validated by standard measurements using a rotating disk electrode configuration. It is found that the as&#8208;synthesized alloy nanoparticles are rich in twin boundaries and thus possess lattice strain. Density functional theory calculation implies that the high ORR activity of the screened Pt 0.75 Pd 0.25 alloy originates from the interplay between the differentiated adsorption sites because of alloying and the strain&#8208;induced modulation of the d&#8208;band center.</description>
+      <author>Xu Li, Jianyun Cao, Jiexin Chen, Jiyang Xie, Chengding Gu, Xiaohong Li, Nigel Brandon, Wanbiao Hu</author>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202406848</guid>
+    </item>
+    <item>
+      <title>Protracted magma evolution and transcrustal magmatic plumbing system architecture at Erta Ale volcano (Afar, Ethiopia)</title>
+      <link>https://doi.org/10.1093/petrology/egae118</link>
+      <description>Juliette Pin, Gilles Chazot, Lyd&#233;ric France, B&#233;n&#233;dicte Abily, Andrey Gurenko, Herv&#233; Bertrand, Alexandra Loppin, Journal of Petrology. None(None)] 2024. https://openalex.org/W4404246729
+
+                Abstract The Afar region is one of the only places on Earth where magmatic continental rifting and associated ongoing break-up processes are exposed onshore. The several active magmatic segments there are characterized by contrasted morphologies, crustal thicknesses, magma production rates, and magma-tectonic styles. In the Erta Ale Range rift segment, extension is magmatically accommodated, making the range the ideal place to study the magmatic behavior of a mature rift segment. Erta Ale Range comprises sub-segments with magma compositions ranging from basalts to rhyolites, but only the Erta Ale Volcano (EAV) sub-segment is active, where only basaltic compositions have been reported so far. Here, we show for the first time protracted differentiation at EAV that is not expressed volcanically at the surface, but is rather accessible via unique cognate gabbroic and microgabbroic blocks, and recorded by mixing with erupted basaltic magmas. These cognate samples record previously unknown mushy and evolved parts of the EAV plumbing system. To constrain their origin and evolution, we measured the major and trace element compositions of the bulk rocks, interstitial glasses, and melt inclusions. We also measured the oxygen isotopic compositions of olivine crystals, interstitial glasses, and melt inclusions. By combining these results with textural relationships and oxy-thermo-barometry calculations, we discuss magma differentiation and storage conditions, as well as magmatic interactions during transport through the crust. Comparison of our results with rhyolite-MELTS thermodynamic models highlights that protracted fractional crystallization is the main process of magma evolution, and when associated with reactive porous flow is capable of forming the evolved compositions observed (up to 75 wt.% SiO2). We also use the model outputs to quantify distinct steps of igneous differentiation in both shallow and deep crustal reservoirs, and we highlight significant interactions with hydrothermally altered wall rocks. We discuss this model within the geological contexts of the Erta Ale Range rift segment and the larger Afar region, and highlight contrasts with mature oceanic systems to argue that the region is not in the final stages of continental break-up.</description>
+      <author>Juliette Pin, Gilles Chazot, Lyd&#233;ric France, B&#233;n&#233;dicte Abily, Andrey Gurenko, Herv&#233; Bertrand, Alexandra Loppin</author>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/petrology/egae118</guid>
     </item>
     <item>
       <title>Focus on podocytes: diabetic kidney disease and renal fibrosis &#8212; a global bibliometric analysis (2000&#8211;2024)</title>
@@ -1455,16 +1495,6 @@
       <guid isPermaLink="true">https://doi.org/10.3847/1538-4357/ad82ea</guid>
     </item>
     <item>
-      <title>Spatio-chemical deconvolution of the LiNi0.6Co0.2Mn0.2O2/Li6PS5Cl interphase layer in all-solid-state batteries using combined X-ray spectroscopic methods</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-016md</link>
-      <description>Barth&#233;l&#233;my Lelotte, C. A. F. Vaz, Linfeng Xu, Camelia N. Borca, Thomas Huthwelker, P. Vincent, Christian Jordy, Lorenz Gubler, Mario El Kazzi, No host. None(None)] 2024. https://openalex.org/W4404393072
-
-                The (electro-)chemical degradation at the interface between Li6PS5Cl (LPSC) and LiNi0.6Co0.2Mn0.2O2 (NCM622) is systematically investigated using non-destructive synchrotron X-ray absorption spectroscopy (XAS) and X-ray photoemission electron microscopy (XPEEM). These techniques provide surface chemical depth profiling (from 2 nm to several hundred nm) and high-resolution elemental imaging of both LPSC and NCM622 particles. This analysis was complemented by galvanostatic cycling, impedance spectroscopy, and operando cell pressure measurements. Several correlations between interphase evolution and cell electrochemical performance are clarified, while some inconsistencies are rationalized and discussed. Firstly, the intrinsic LPSC electrochemical oxidation mechanisms were studied using an LPSC:C65 working electrode. The results showed that increased cell resistance during the first charge stemmed from polysulfide by-products and particle contact loss due to LPSC volume shrinkage at the interface. Secondly, when using an NCM622:LPSC working electrode, species such as sulfites, sulfates and phosphates, were detected on both LPSC and NCM622 particles, while electrochemically inactive reduced transition metals (TMs) were observed only at NCM622 surfaces. These species, initially present at open circuit potential, increased after the first charge, due to the chemical reactions between LPSC and NCM622 surface lattice oxygen. The estimated interphase thickness on the LPSC and NCM622 surface over the cycling remains below &#8275;3 nm. Our findings highlight that the formation of an electrochemically inactive NCM622 surface is a primary cause of impedance rise during the first charge, along with the formation of LPSC by-products and contact loss. However, the continuous increase in cell resistance could not be attributed to further interphase growth after the first charge. We hypothesize that this may result from slow and progressive LPSC polymerization reactions (e.g., form Li2PS6 and P2S5) and structural changes at the NCM622 surface.</description>
-      <author>Barth&#233;l&#233;my Lelotte, C. A. F. Vaz, Linfeng Xu, Camelia N. Borca, Thomas Huthwelker, P. Vincent, Christian Jordy, Lorenz Gubler, Mario El Kazzi</author>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-016md</guid>
-    </item>
-    <item>
       <title>Sulfur-bearing molecules in a sample of early star-forming cores</title>
       <link>https://doi.org/10.48550/arxiv.2411.00539</link>
       <description>N. C. Martinez, S. Par&#243;n, M. E. Ortega, A. Petriella, A. Guti&#233;rrez del &#193;lamo, Michael A. Brook, C. Carballo, T. Heberling, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4404345238
@@ -1483,6 +1513,16 @@
       <author>Francesco D&#8217;Eugenio, R. Maiolino, V. H. Mahatma, Giovanni Mazzolari, Stefano Carniani, Anna de Graaff, Michael V. Maseda, Eleonora Parlanti, Andrew J. Bunker, Xihan Ji, Gareth C Jones, Jakob M. Helton, R. Morganti, Jan Scholtz, Sandro Tacchella, C. N. Tadhunter, Hannah &#220;bler, G. Venturi</author>
       <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1093/mnras/stae2545</guid>
+    </item>
+    <item>
+      <title>Spatio-chemical deconvolution of the LiNi0.6Co0.2Mn0.2O2/Li6PS5Cl interphase layer in all-solid-state batteries using combined X-ray spectroscopic methods</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-016md</link>
+      <description>Barth&#233;l&#233;my Lelotte, C. A. F. Vaz, Linfeng Xu, Camelia N. Borca, Thomas Huthwelker, P. Vincent, Christian Jordy, Lorenz Gubler, Mario El Kazzi, No host. None(None)] 2024. https://openalex.org/W4404393072
+
+                The (electro-)chemical degradation at the interface between Li6PS5Cl (LPSC) and LiNi0.6Co0.2Mn0.2O2 (NCM622) is systematically investigated using non-destructive synchrotron X-ray absorption spectroscopy (XAS) and X-ray photoemission electron microscopy (XPEEM). These techniques provide surface chemical depth profiling (from 2 nm to several hundred nm) and high-resolution elemental imaging of both LPSC and NCM622 particles. This analysis was complemented by galvanostatic cycling, impedance spectroscopy, and operando cell pressure measurements. Several correlations between interphase evolution and cell electrochemical performance are clarified, while some inconsistencies are rationalized and discussed. Firstly, the intrinsic LPSC electrochemical oxidation mechanisms were studied using an LPSC:C65 working electrode. The results showed that increased cell resistance during the first charge stemmed from polysulfide by-products and particle contact loss due to LPSC volume shrinkage at the interface. Secondly, when using an NCM622:LPSC working electrode, species such as sulfites, sulfates and phosphates, were detected on both LPSC and NCM622 particles, while electrochemically inactive reduced transition metals (TMs) were observed only at NCM622 surfaces. These species, initially present at open circuit potential, increased after the first charge, due to the chemical reactions between LPSC and NCM622 surface lattice oxygen. The estimated interphase thickness on the LPSC and NCM622 surface over the cycling remains below &#8275;3 nm. Our findings highlight that the formation of an electrochemically inactive NCM622 surface is a primary cause of impedance rise during the first charge, along with the formation of LPSC by-products and contact loss. However, the continuous increase in cell resistance could not be attributed to further interphase growth after the first charge. We hypothesize that this may result from slow and progressive LPSC polymerization reactions (e.g., form Li2PS6 and P2S5) and structural changes at the NCM622 surface.</description>
+      <author>Barth&#233;l&#233;my Lelotte, C. A. F. Vaz, Linfeng Xu, Camelia N. Borca, Thomas Huthwelker, P. Vincent, Christian Jordy, Lorenz Gubler, Mario El Kazzi</author>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-016md</guid>
     </item>
     <item>
       <title>A tell-tale tracer for externally irradiated protoplanetary disks: Comparing the [C I] 8727 line and ALMA observations in proplyds</title>

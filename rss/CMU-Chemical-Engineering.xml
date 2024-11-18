@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Nov 2024 01:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 01:26:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A novel mixed-integer linear programming formulation for continuous-time inventory routing</title>
-      <link>https://doi.org/10.1016/j.cor.2024.106883</link>
-      <description>Akang Wang, Xiandong Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris, Computers &amp; Operations Research. None(None)] 2024. https://openalex.org/W4404211800
-
-                No abstract</description>
-      <author>Akang Wang, Xiandong Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cor.2024.106883</guid>
-    </item>
     <item>
       <title>DDEL-01. ENGINEERING MRNA THERAPIES FOR BRAIN TUMORS</title>
       <link>https://doi.org/10.1093/neuonc/noae165.0468</link>

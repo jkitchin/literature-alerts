@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Nov 2024 01:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 01:26:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Plasmon enhanced Oxygen Evolution Reaction on Au decorated Ni(OH)2 nanostructures: the role of alkaline cations solvation</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124804</link>
-      <description>Lucas D. Germano, Leonardo D. De Angelis, Ana Paula de Lima Batista, Antonio G. S. de Oliveira&#8208;Filho, Susana I. C&#243;rdoba de Torresi, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404205963
-
-                No abstract</description>
-      <author>Lucas D. Germano, Leonardo D. De Angelis, Ana Paula de Lima Batista, Antonio G. S. de Oliveira&#8208;Filho, Susana I. C&#243;rdoba de Torresi</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124804</guid>
-    </item>
-    <item>
-      <title>Enhancing Oxygen Reduction Reaction Electrocatalytic Performance of Nickel&#8208;Nitrogen&#8208;Carbon Catalysts through Coordination Environment Engineering&lt;sup&gt;&#8224;&lt;/sup&gt;</title>
-      <link>https://doi.org/10.1002/cjoc.202400769</link>
-      <description>Hui&#8208;Jian Zou, Yan Leng, Chen&#8208;Shuang Yin, Xikun Yang, Chungang Min, Feng Tan, Ai&#8208;Min Ren, Chinese Journal of Chemistry. None(None)] 2024. https://openalex.org/W4404209081
-
-                Comprehensive Summary Single&#8208;atom catalysts (SACs) have attracted significant attention due to their high atomic utilization and tunable coordination environment. However, the catalytic mechanisms related to the active center and coordination environment remain unclear. In this study, we systematically investigated the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) catalytic activities of NiN 4 , NiN 3 , NiN 3 H 2 , NiN 4 X, NiN 3 X, and NiN 3 H 2 X (X denotes axial ligand) through density functional theory (DFT) calculations. This study unveils two distinct reaction pathways for ORR and OER, involving proton&#8208;electron pairs adsorbed from both the solution and the catalyst surface. The overpotential is the key parameter to evaluate the catalytic performance when proton&#8208;electron pairs are adsorbed from the solution. NiN 3 and NiN 3 H 2 show promise as pH&#8208;universal bifunctional electrocatalysts for both ORR and OER. On the other hand, when proton&#8208;electron pairs are adsorbed from the catalyst surface, the reaction energy barrier becomes the crucial metric for assessing catalytic activity. Our investigation reveals that NiN 3 H 2 consistently exhibits optimal ORR activity across a wide pH range, regardless of the source of proton&#8208;electron pair (solvent or catalyst surface).</description>
-      <author>Hui&#8208;Jian Zou, Yan Leng, Chen&#8208;Shuang Yin, Xikun Yang, Chungang Min, Feng Tan, Ai&#8208;Min Ren</author>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cjoc.202400769</guid>
-    </item>
-    <item>
-      <title>Computational descriptor for electrochemical currents of carbon dioxide reduction on Cu facets</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115836</link>
-      <description>Timothy T. Yang, Wissam A. Saidi, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4404211724
-
-                No abstract</description>
-      <author>Timothy T. Yang, Wissam A. Saidi</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115836</guid>
-    </item>
     <item>
       <title>Suppression of Hydrogen Evolution over Oxidized Cu&lt;sub&gt;&lt;i&gt;X&lt;/i&gt;&lt;/sub&gt;Co&lt;sub&gt;&lt;i&gt;Y&lt;/i&gt;&lt;/sub&gt; in an Ionic Liquid Electrolyte for CO&lt;sub&gt;2&lt;/sub&gt; Electrochemical Reduction</title>
       <link>https://doi.org/10.1021/acsaem.4c01802</link>
@@ -562,7 +532,7 @@
       <link>https://doi.org/10.1038/s41467-024-54282-2</link>
       <description>Xiaoyang He, Lin Li, Xiang-Ying Li, Minzhi Zhu, Qinghong Zhang, Shunji Xie, Bingbao Mei, Fanfei Sun, Zheng Jiang, Jun Cheng, Ye Wang, Nature Communications. 15(1)] 2024. https://openalex.org/W4404397577
 
-                No abstract</description>
+                The membrane electrode assembly (MEA) is promising for practical applications of the electrocatalytic CO</description>
       <author>Xiaoyang He, Lin Li, Xiang-Ying Li, Minzhi Zhu, Qinghong Zhang, Shunji Xie, Bingbao Mei, Fanfei Sun, Zheng Jiang, Jun Cheng, Ye Wang</author>
       <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54282-2</guid>
@@ -712,10 +682,80 @@
       <link>https://doi.org/10.1021/acs.jpclett.4c02908</link>
       <description>Robert H. Lavroff, Edison Cummings, Kaustubh J. Sawant, Zisheng Zhang, Philippe Sautet, Anastassia N. Alexandrova, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4404420877
 
-                No abstract</description>
+                By hydrogenating carbon dioxide to value-added products such as methanol, heterogeneous catalysts can lower greenhouse gas emissions and generate alternative liquid fuels. The most common commercial catalyst for the reduction of CO2 to methanol is Cu/ZnO/Al2O3, where ZnO improves conversion and selectivity toward methanol. The structure of this catalyst is thought to be Zn oxy(hydroxyl) overlayers on the nanometer scale on Cu. In the presence of CO2 and H2 under reaction conditions, the Cu substrate itself can be restructured and/or partially oxidized at its interface with ZnO, or the Zn might be reduced, possibly completely to a CuZn alloy, making the exact structure and stoichiometry of the active site a topic of active debate. In this study, we examine Zn3 clusters on Cu(100) and Cu(111), as a subnano model of the catalyst. We use a grand canonical genetic algorithm to sample the system structure and stoichiometry under catalytic conditions: T of 550 K, initial partial pressures of H2 of 4.5 atm and CO2 of 0.5 atm, and 1% conversion. We uncover a strong dependence of the catalyst stoichiometry on the surface coverage. At the optimal 0.2 ML surface coverage, chains of Zn(OH) form on both Cu surfaces. On Cu(100), the catalyst has many thermally accessible metastable minima, whereas on Cu(111), it does not. No oxidation or reconstruction of the Cu is found. However, at a lower coverage of Zn, Zn3 clusters take on a metallic form on Cu(100), and slightly oxidized Zn3O on Cu(111), while the surface uptakes H to form a variety of low hydrides of Cu. We thus hypothesize that the 0.2 ML Zn coverage is optimal, as found experimentally, because of the stronger yet incomplete oxidation afforded by Zn at this coverage.</description>
       <author>Robert H. Lavroff, Edison Cummings, Kaustubh J. Sawant, Zisheng Zhang, Philippe Sautet, Anastassia N. Alexandrova</author>
       <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02908</guid>
+    </item>
+    <item>
+      <title>Recent advances and future prospects of MXene-based photocatalysts in environmental remediations.</title>
+      <link>https://doi.org/10.1016/j.jece.2024.114812</link>
+      <description>Basiru O. Yusuf, Mustapha Umar, Mansur Aliyu, Aliyu Musa Alhassan, Mohammed Mosaad Awad, Omer Ahmed Taialla, AbdulHakam Shafiu Abdullahi, Jamilu Nura Musa, Khalid Alhooshani, Saheed A. Ganiyu, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4404432102
+
+                No abstract</description>
+      <author>Basiru O. Yusuf, Mustapha Umar, Mansur Aliyu, Aliyu Musa Alhassan, Mohammed Mosaad Awad, Omer Ahmed Taialla, AbdulHakam Shafiu Abdullahi, Jamilu Nura Musa, Khalid Alhooshani, Saheed A. Ganiyu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.114812</guid>
+    </item>
+    <item>
+      <title>Atomic Hydrogen Interaction with Transition Metal Surfaces: A High-Throughput Computational Study</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c06194</link>
+      <description>Miquel All&#233;s, Ling Meng, Ismael Beltr&#225;n, Francisco M. Fern&#225;ndez, Francesc Vi&#241;es, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404436423
+
+                No abstract</description>
+      <author>Miquel All&#233;s, Ling Meng, Ismael Beltr&#225;n, Francisco M. Fern&#225;ndez, Francesc Vi&#241;es</author>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06194</guid>
+    </item>
+    <item>
+      <title>Advancements in electrochemical synthesis: expanding from water electrolysis to dual-value-added products</title>
+      <link>https://doi.org/10.1016/j.esci.2024.100333</link>
+      <description>Genxiang Wang, Ao Chen, Yao Chen, Fen Qiao, Junfeng Wang, Nianjun Yang, Shouxin Zhang, Zhenhai Wen, eScience. None(None)] 2024. https://openalex.org/W4404436613
+
+                No abstract</description>
+      <author>Genxiang Wang, Ao Chen, Yao Chen, Fen Qiao, Junfeng Wang, Nianjun Yang, Shouxin Zhang, Zhenhai Wen</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100333</guid>
+    </item>
+    <item>
+      <title>Edge-substituents and center metal optimization boosting oxygen electrocatalysis in porphyrin-based covalent organic polymers</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.11.109</link>
+      <description>Hongyan Zhuo, Qiming Ye, Shaoze Wang, Yu Han, Tianle Yang, Binghan Jiang, Chuangyu Wei, Linlin Feng, Tenglong Jin, Xue Liu, Zhuang Shi, Hao Song, Zhen Fu, Wenmiao Chen, Yuexing Zhang, Fuling Wang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4404437595
+
+                No abstract</description>
+      <author>Hongyan Zhuo, Qiming Ye, Shaoze Wang, Yu Han, Tianle Yang, Binghan Jiang, Chuangyu Wei, Linlin Feng, Tenglong Jin, Xue Liu, Zhuang Shi, Hao Song, Zhen Fu, Wenmiao Chen, Yuexing Zhang, Fuling Wang</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.109</guid>
+    </item>
+    <item>
+      <title>Interface engineering for improving photoelectrocatalytic performance of 2D/2D MXene@MoS2 for N2 reduction reaction: A theoretical insight</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.133704</link>
+      <description>Fengjuan Guo, Jun&#8208;Wei Ma, Xiaoyan Deng, Hongtao Gao, Fuel. 382(None)] 2024. https://openalex.org/W4404438403
+
+                No abstract</description>
+      <author>Fengjuan Guo, Jun&#8208;Wei Ma, Xiaoyan Deng, Hongtao Gao</author>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.133704</guid>
+    </item>
+    <item>
+      <title>Degree of Span Control to Determine the Impact of Different Mechanisms and Limiting Steps: Oxygen Evolution Reaction Over Co3o4(001) as a Case Study</title>
+      <link>https://doi.org/10.2139/ssrn.5023098</link>
+      <description>Kapil Dhaka, Kai S. Exner, No host. None(None)] 2024. https://openalex.org/W4404443680
+
+                No abstract</description>
+      <author>Kapil Dhaka, Kai S. Exner</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5023098</guid>
+    </item>
+    <item>
+      <title>Low-Loaded Catalyst Layers For Proton Exchange Membrane Fuel Cell Dynamic Operation Part 1: Experimental Study</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145364</link>
+      <description>Florent Vandenberghe, Fabrice Micoud, Pascal Schott, Arnaud Morin, Cl&#233;mence Lafforgue, Marian Chatenet, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4404444429
+
+                No abstract</description>
+      <author>Florent Vandenberghe, Fabrice Micoud, Pascal Schott, Arnaud Morin, Cl&#233;mence Lafforgue, Marian Chatenet</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145364</guid>
     </item>
     <item>
       <title>Regulation of Oxide Pathway Mechanism for Sustainable Acidic Water Oxidation</title>
