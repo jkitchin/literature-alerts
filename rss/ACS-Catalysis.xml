@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Nov 2024 01:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 01:25:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Improved Catalyst Performance for the Oxygen Evolution Reaction under a Chiral Bias</title>
-      <link>https://doi.org/10.1021/acscatal.4c04477</link>
-      <description>Aravind Vadakkayil, Wiley A. Dunlap-Shohl, Meera Joy, Brian P. Bloom, David H. Waldeck, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404220015
-
-                No abstract</description>
-      <author>Aravind Vadakkayil, Wiley A. Dunlap-Shohl, Meera Joy, Brian P. Bloom, David H. Waldeck</author>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04477</guid>
-    </item>
-    <item>
-      <title>Asymmetric Csp&lt;sup&gt;3&lt;/sup&gt;&#8211;Csp&lt;sup&gt;3&lt;/sup&gt; Bond Formation via Ni-Catalyzed Regio- and Enantioselective Hydroalkylation of Linear 1,3-Diene through Carbonyl Umpolung</title>
-      <link>https://doi.org/10.1021/acscatal.4c05759</link>
-      <description>Ruofei Cheng, Kangbao Zhong, Xue&#8208;Qiang Chu, Yu Lan, Chao&#8208;Jun Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404225574
-
-                No abstract</description>
-      <author>Ruofei Cheng, Kangbao Zhong, Xue&#8208;Qiang Chu, Yu Lan, Chao&#8208;Jun Li</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05759</guid>
-    </item>
     <item>
       <title>Trend and Progress in Catalysis for Ethylene Production from Bioethanol Using ZSM-5</title>
       <link>https://doi.org/10.1021/acscatal.4c04162</link>
@@ -416,6 +396,16 @@
       <author>Guangming Cai, Ya-Huei Cathy Chin</author>
       <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04745</guid>
+    </item>
+    <item>
+      <title>Bacterial Biosynthesis of Nitrile-Containing Natural Products: Basis for Recognition of Diversified Substrates</title>
+      <link>https://doi.org/10.1021/acscatal.4c06581</link>
+      <description>Ming Peng, Qiaoling Wu, Lele Ma, Zhao&#8208;Jie Teng, Xuben Hou, Hongjie Zhu, Jianhua Ju, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404449383
+
+                No abstract</description>
+      <author>Ming Peng, Qiaoling Wu, Lele Ma, Zhao&#8208;Jie Teng, Xuben Hou, Hongjie Zhu, Jianhua Ju</author>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06581</guid>
     </item>
   </channel>
 </rss>

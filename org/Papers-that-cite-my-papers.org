@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Nov 18 01:26:42 2024
+Created on Tue Nov 19 01:25:15 2024
 
-Found 76 results from 2024-11-11 to 2024-11-18
+Found 72 results from 2024-11-12 to 2024-11-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092]]
@@ -16,111 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605]]
-
-* Suppression of Hydrogen Evolution over Oxidized CuXCoY in an Ionic Liquid Electrolyte for CO2 Electrochemical Reduction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404220319
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-11-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsaem.4c01802")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404220319"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404220319"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404220319"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404220319 (Open access: False)
-    
-[[https://openalex.org/A5037089372][Xiaofan Hou]], [[https://openalex.org/A5005436632][Feifei You]], [[https://openalex.org/A5008236609][Ming‐Hui Zhao]], [[https://openalex.org/A5100569785][Meng Shen]], [[https://openalex.org/A5106511885][L.T. Fan]], [[https://openalex.org/A5071126981][Mingming Peng]], [[https://openalex.org/A5050259998][Kenji Kamiya]], [[https://openalex.org/A5076406513][Eika W. Qian]], ACS Applied Energy Materials. None(None)] 2024. https://doi.org/10.1021/acsaem.4c01802 
-     
-No abstract    
-
-    
-
-* CeO2‐Accelerated Surface Reconstruction of CoSe2 Nanoneedle Forms Active CeO2@CoOOH Interface to Boost Oxygen Evolution Reaction for Water Splitting  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404222203
-:TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-11-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aenm.202403744")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404222203"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404222203"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404222203"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404222203 (Open access: False)
-    
-[[https://openalex.org/A5037673069][Quanxin Guo]], [[https://openalex.org/A5101814743][Yong‐Min Liang]], [[https://openalex.org/A5100528226][Zhengrong Xu]], [[https://openalex.org/A5100448498][Rui Liu]], Advanced Energy Materials. None(None)] 2024. https://doi.org/10.1002/aenm.202403744 
-     
-Abstract Interface engineering is an efficient strategy to create high‐performance electrocatalysts for water splitting. In the present work, CeO 2 @CoSe 2 nanoneedle on carbon cloth (CeO 2 @CoSe 2 /CC) demonstrates high efficiency for oxygen evolution reaction (OER) and water splitting. CeO 2 with abundant O vacancies facilitates the adsorption of OH − and boosts the reconstruction of CoSe 2 into CoOOH at lower potentials. The in situ generated active CeO 2 @CoOOH heterointerface upshifts the d‐band center of Co site, thereby decreasing the free energy of rate‐determining step (RDS) ( * O to * OOH) during the OER process. It delivers a low OER overpotential of 245 mV at 10 mA cm −2 . CeO 2 @CoSe 2 /CC is also found to be active for hydrogen evolution reaction (HER, 138 mV overpotential at 10 mA cm −2 ), profiting from CeO 2 ‐facilitated * H 2 O dissociation and * H adsorption on CoSe 2 . The overall water splitting is achieved over the CeO 2 @CoSe 2 /CC bifunctional electrode with a low electrolysis voltage of 1.54 V at 10 mA cm −2 . This work offers valuable insights into CeO 2 ‐assisted surface reconstruction as well as provides water electrolysis catalysts through interface engineering.    
-
-    
-
-* Tuning the Electronic Properties of CumAgn Bimetallic Clusters for Enhanced CO2 Activation  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404224096
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-11-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/ijms252212053")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404224096"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404224096"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404224096"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404224096 (Open access: True)
-    
-[[https://openalex.org/A5060645767][Turki Alotaibi]], [[https://openalex.org/A5047644676][Moteb Alotaibi]], [[https://openalex.org/A5114588037][Fatimah Alhawiti]], [[https://openalex.org/A5114115108][Norah Aldosari]], [[https://openalex.org/A5114588038][Majd Alsunaid]], [[https://openalex.org/A5114588039][Lama Aldawas]], [[https://openalex.org/A5046875073][Talal F. Qahtan]], [[https://openalex.org/A5013635512][Ali K. Ismael]], International Journal of Molecular Sciences. 25(22)] 2024. https://doi.org/10.3390/ijms252212053 
-     
-The urgent demand for efficient CO2 reduction technologies has driven enormous studies into the enhancement of advanced catalysts. Here, we investigate the electronic properties and CO2 adsorption properties of CumAgn bimetallic clusters, particularly Cu4Ag1, Cu1Ag4, Cu3Ag2, and Cu2Ag3, using generalized gradient approximation (GGA)/density functional theory (DFT). Our results show that the atomic arrangement within these clusters drastically affects their stability, charge transfer, and catalytic performance. The Cu4Ag1 bimetallic cluster emerges as the most stable structure, revealing superior charge transfer and effective chemisorption of CO2, which promotes effective activation of the CO2 molecule. In contrast, the Cu1Ag4 bimetallic cluster, in spite of comparable adsorption energy, indicates insignificant charge transfer, resulting in less pronounced CO2 activation. The Cu3Ag2 and Cu2Ag3 bimetallic clusters also display high adsorption energies with remarkable charge transfer mechanisms, emphasizing the crucial role of metal composition in tuning catalytic characteristics. This thorough examination provides constructive insights into the design of bimetallic clusters for boosted CO2 reduction. These findings could pave the way for the development of cost-effective and efficient catalysts for industrial CO2 reduction, contributing to global efforts in carbon management and climate change mitigation.    
-
-    
-
-* Silver Electrodes Are Highly Selective for CO in CO2 Electroreduction due to Interplay between Voltage Dependent Kinetics and Thermodynamics  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404227466
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-11-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.4c02869")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404227466"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404227466"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404227466"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404227466 (Open access: False)
-    
-[[https://openalex.org/A5038308505][Michele Re Fiorentin]], [[https://openalex.org/A5022186816][Francesca Risplendi]], [[https://openalex.org/A5047871040][Clara Salvini]], [[https://openalex.org/A5051829015][Juqin Zeng]], [[https://openalex.org/A5082225276][Giancarlo Cicero]], [[https://openalex.org/A5051422609][Hannes Jónsson]], The Journal of Physical Chemistry Letters. None(None)] 2024. https://doi.org/10.1021/acs.jpclett.4c02869 
-     
-Electrochemical reduction is a promising way to make use of CO    
-
-    
-
-* Dependence of Oxygen Diffusion on the La and Sr Configuration in Melilite-Type La1+xSr1–xGa3O7+x/2 by Neural Network Potential Molecular Dynamics Simulation  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404230693
-:TOPICS: Solid Oxide Fuel Cells, Pyrochlore as Nuclear Waste Form, Quantum Spin Liquids in Frustrated Magnets
-:PUBLICATION_DATE: 2024-11-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c03617")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404230693"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404230693"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404230693"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404230693 (Open access: False)
-    
-[[https://openalex.org/A5012765452][T KOYAMA]], [[https://openalex.org/A5023575100][Masanobu Nakayama]], [[https://openalex.org/A5025600888][Judith Schuett]], [[https://openalex.org/A5009215182][Steffen Grieshammer]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c03617 
-     
-No abstract    
-
-    
 
 * Fe-Doped Ni-Based Catalysts Surpass Ir-Baselines for Oxygen Evolution Due to Optimal Charge-Transfer Characteristics  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1589,6 +1484,27 @@ OpenAlex: https://openalex.org/W4404444429 (Open access: True)
 [[https://openalex.org/A5012598800][Florent Vandenberghe]], [[https://openalex.org/A5053058658][Fabrice Micoud]], [[https://openalex.org/A5004968393][Pascal Schott]], [[https://openalex.org/A5046049846][Arnaud Morin]], [[https://openalex.org/A5002448297][Clémence Lafforgue]], [[https://openalex.org/A5047512137][Marian Chatenet]], Electrochimica Acta. None(None)] 2024. https://doi.org/10.1016/j.electacta.2024.145364 
      
 No abstract    
+
+    
+
+* From electrons to phase diagrams with machine learning potentials using pyiron based automated workflows  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404447799
+:TOPICS: Accelerating Materials Innovation through Informatics, Surface Analysis and Electron Spectroscopy Techniques, Atom Probe Tomography Research
+:PUBLICATION_DATE: 2024-11-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41524-024-01441-0")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404447799"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404447799"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404447799"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404447799 (Open access: True)
+    
+[[https://openalex.org/A5068217246][Sarath Menon]], [[https://openalex.org/A5038031495][Yury Lysogorskiy]], [[https://openalex.org/A5020258308][A. Knoll]], [[https://openalex.org/A5092615651][Niklas Leimeroth]], [[https://openalex.org/A5003858841][Marvin Poul]], [[https://openalex.org/A5065151746][Minaam Qamar]], [[https://openalex.org/A5034068749][Jan Janßen]], [[https://openalex.org/A5032867953][Matous Mrovec]], [[https://openalex.org/A5039763582][Jochen Rohrer]], [[https://openalex.org/A5020304363][Karsten Albe]], [[https://openalex.org/A5026774143][Jörg Behler]], [[https://openalex.org/A5022871779][Ralf Drautz]], [[https://openalex.org/A5010019307][Jörg Neugebauer]], npj Computational Materials. 10(1)] 2024. https://doi.org/10.1038/s41524-024-01441-0 
+     
+Abstract We present a comprehensive and user-friendly framework built upon the integrated development environment (IDE), enabling researchers to perform the entire Machine Learning Potential (MLP) development cycle consisting of (i) creating systematic DFT databases, (ii) fitting the Density Functional Theory (DFT) data to empirical potentials or MLPs, and (iii) validating the potentials in a largely automatic approach. The power and performance of this framework are demonstrated for three conceptually very different classes of interatomic potentials: an empirical potential (embedded atom method - EAM), neural networks (high-dimensional neural network potentials - HDNNP) and expansions in basis sets (atomic cluster expansion - ACE). As an advanced example for validation and application, we show the computation of a binary composition-temperature phase diagram for Al-Li, a technologically important lightweight alloy system with applications in the aerospace industry.    
 
     
 

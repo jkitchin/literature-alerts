@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Nov 2024 01:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 01:25:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Suppression of Hydrogen Evolution over Oxidized Cu&lt;sub&gt;&lt;i&gt;X&lt;/i&gt;&lt;/sub&gt;Co&lt;sub&gt;&lt;i&gt;Y&lt;/i&gt;&lt;/sub&gt; in an Ionic Liquid Electrolyte for CO&lt;sub&gt;2&lt;/sub&gt; Electrochemical Reduction</title>
-      <link>https://doi.org/10.1021/acsaem.4c01802</link>
-      <description>Xiaofan Hou, Feifei You, Ming&#8208;Hui Zhao, Meng Shen, L.T. Fan, Mingming Peng, Kenji Kamiya, Eika W. Qian, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4404220319
-
-                No abstract</description>
-      <author>Xiaofan Hou, Feifei You, Ming&#8208;Hui Zhao, Meng Shen, L.T. Fan, Mingming Peng, Kenji Kamiya, Eika W. Qian</author>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c01802</guid>
-    </item>
-    <item>
-      <title>CeO&lt;sub&gt;2&lt;/sub&gt;&#8208;Accelerated Surface Reconstruction of CoSe&lt;sub&gt;2&lt;/sub&gt; Nanoneedle Forms Active CeO&lt;sub&gt;2&lt;/sub&gt;@CoOOH Interface to Boost Oxygen Evolution Reaction for Water Splitting</title>
-      <link>https://doi.org/10.1002/aenm.202403744</link>
-      <description>Quanxin Guo, Yong&#8208;Min Liang, Zhengrong Xu, Rui Liu, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4404222203
-
-                Abstract Interface engineering is an efficient strategy to create high&#8208;performance electrocatalysts for water splitting. In the present work, CeO 2 @CoSe 2 nanoneedle on carbon cloth (CeO 2 @CoSe 2 /CC) demonstrates high efficiency for oxygen evolution reaction (OER) and water splitting. CeO 2 with abundant O vacancies facilitates the adsorption of OH &#8722; and boosts the reconstruction of CoSe 2 into CoOOH at lower potentials. The in situ generated active CeO 2 @CoOOH heterointerface upshifts the d&#8208;band center of Co site, thereby decreasing the free energy of rate&#8208;determining step (RDS) ( * O to * OOH) during the OER process. It delivers a low OER overpotential of 245 mV at 10 mA cm &#8722;2 . CeO 2 @CoSe 2 /CC is also found to be active for hydrogen evolution reaction (HER, 138 mV overpotential at 10 mA cm &#8722;2 ), profiting from CeO 2 &#8208;facilitated * H 2 O dissociation and * H adsorption on CoSe 2 . The overall water splitting is achieved over the CeO 2 @CoSe 2 /CC bifunctional electrode with a low electrolysis voltage of 1.54 V at 10 mA cm &#8722;2 . This work offers valuable insights into CeO 2 &#8208;assisted surface reconstruction as well as provides water electrolysis catalysts through interface engineering.</description>
-      <author>Quanxin Guo, Yong&#8208;Min Liang, Zhengrong Xu, Rui Liu</author>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403744</guid>
-    </item>
-    <item>
-      <title>Tuning the Electronic Properties of CumAgn Bimetallic Clusters for Enhanced CO2 Activation</title>
-      <link>https://doi.org/10.3390/ijms252212053</link>
-      <description>Turki Alotaibi, Moteb Alotaibi, Fatimah Alhawiti, Norah Aldosari, Majd Alsunaid, Lama Aldawas, Talal F. Qahtan, Ali K. Ismael, International Journal of Molecular Sciences. 25(22)] 2024. https://openalex.org/W4404224096
-
-                The urgent demand for efficient CO2 reduction technologies has driven enormous studies into the enhancement of advanced catalysts. Here, we investigate the electronic properties and CO2 adsorption properties of CumAgn bimetallic clusters, particularly Cu4Ag1, Cu1Ag4, Cu3Ag2, and Cu2Ag3, using generalized gradient approximation (GGA)/density functional theory (DFT). Our results show that the atomic arrangement within these clusters drastically affects their stability, charge transfer, and catalytic performance. The Cu4Ag1 bimetallic cluster emerges as the most stable structure, revealing superior charge transfer and effective chemisorption of CO2, which promotes effective activation of the CO2 molecule. In contrast, the Cu1Ag4 bimetallic cluster, in spite of comparable adsorption energy, indicates insignificant charge transfer, resulting in less pronounced CO2 activation. The Cu3Ag2 and Cu2Ag3 bimetallic clusters also display high adsorption energies with remarkable charge transfer mechanisms, emphasizing the crucial role of metal composition in tuning catalytic characteristics. This thorough examination provides constructive insights into the design of bimetallic clusters for boosted CO2 reduction. These findings could pave the way for the development of cost-effective and efficient catalysts for industrial CO2 reduction, contributing to global efforts in carbon management and climate change mitigation.</description>
-      <author>Turki Alotaibi, Moteb Alotaibi, Fatimah Alhawiti, Norah Aldosari, Majd Alsunaid, Lama Aldawas, Talal F. Qahtan, Ali K. Ismael</author>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ijms252212053</guid>
-    </item>
-    <item>
-      <title>Silver Electrodes Are Highly Selective for CO in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction due to Interplay between Voltage Dependent Kinetics and Thermodynamics</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c02869</link>
-      <description>Michele Re Fiorentin, Francesca Risplendi, Clara Salvini, Juqin Zeng, Giancarlo Cicero, Hannes J&#243;nsson, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4404227466
-
-                Electrochemical reduction is a promising way to make use of CO</description>
-      <author>Michele Re Fiorentin, Francesca Risplendi, Clara Salvini, Juqin Zeng, Giancarlo Cicero, Hannes J&#243;nsson</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02869</guid>
-    </item>
-    <item>
-      <title>Dependence of Oxygen Diffusion on the La and Sr Configuration in Melilite-Type La&lt;sub&gt;1+&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ga&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;7+&lt;i&gt;x&lt;/i&gt;/2&lt;/sub&gt; by Neural Network Potential Molecular Dynamics Simulation</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c03617</link>
-      <description>T KOYAMA, Masanobu Nakayama, Judith Schuett, Steffen Grieshammer, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404230693
-
-                No abstract</description>
-      <author>T KOYAMA, Masanobu Nakayama, Judith Schuett, Steffen Grieshammer</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c03617</guid>
-    </item>
     <item>
       <title>Fe-Doped Ni-Based Catalysts Surpass Ir-Baselines for Oxygen Evolution Due to Optimal Charge-Transfer Characteristics</title>
       <link>https://doi.org/10.1021/acscatal.4c04489</link>
@@ -756,6 +706,16 @@
       <author>Florent Vandenberghe, Fabrice Micoud, Pascal Schott, Arnaud Morin, Cl&#233;mence Lafforgue, Marian Chatenet</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145364</guid>
+    </item>
+    <item>
+      <title>From electrons to phase diagrams with machine learning potentials using pyiron based automated workflows</title>
+      <link>https://doi.org/10.1038/s41524-024-01441-0</link>
+      <description>Sarath Menon, Yury Lysogorskiy, A. Knoll, Niklas Leimeroth, Marvin Poul, Minaam Qamar, Jan Jan&#223;en, Matous Mrovec, Jochen Rohrer, Karsten Albe, J&#246;rg Behler, Ralf Drautz, J&#246;rg Neugebauer, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4404447799
+
+                Abstract We present a comprehensive and user-friendly framework built upon the integrated development environment (IDE), enabling researchers to perform the entire Machine Learning Potential (MLP) development cycle consisting of (i) creating systematic DFT databases, (ii) fitting the Density Functional Theory (DFT) data to empirical potentials or MLPs, and (iii) validating the potentials in a largely automatic approach. The power and performance of this framework are demonstrated for three conceptually very different classes of interatomic potentials: an empirical potential (embedded atom method - EAM), neural networks (high-dimensional neural network potentials - HDNNP) and expansions in basis sets (atomic cluster expansion - ACE). As an advanced example for validation and application, we show the computation of a binary composition-temperature phase diagram for Al-Li, a technologically important lightweight alloy system with applications in the aerospace industry.</description>
+      <author>Sarath Menon, Yury Lysogorskiy, A. Knoll, Niklas Leimeroth, Marvin Poul, Minaam Qamar, Jan Jan&#223;en, Matous Mrovec, Jochen Rohrer, Karsten Albe, J&#246;rg Behler, Ralf Drautz, J&#246;rg Neugebauer</author>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01441-0</guid>
     </item>
     <item>
       <title>Regulation of Oxide Pathway Mechanism for Sustainable Acidic Water Oxidation</title>

@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Nov 18 01:26:30 2024
+Created on Tue Nov 19 01:25:02 2024
 
-Found 41 results from 2024-11-11 to 2024-11-18
+Found 40 results from 2024-11-12 to 2024-11-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Improved Catalyst Performance for the Oxygen Evolution Reaction under a Chiral Bias   
-
-OpenAlex: https://openalex.org/W4404220015    
-Open access: True
-    
-[Aravind Vadakkayil](https://openalex.org/A5036346374), [Wiley A. Dunlap-Shohl](https://openalex.org/A5034223374), [Meera Joy](https://openalex.org/A5108303229), [Brian P. Bloom](https://openalex.org/A5047853509), [David H. Waldeck](https://openalex.org/A5043531603), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04477.
-    
-No abstract    
-
-    
-
-## Asymmetric Csp3–Csp3 Bond Formation via Ni-Catalyzed Regio- and Enantioselective Hydroalkylation of Linear 1,3-Diene through Carbonyl Umpolung   
-
-OpenAlex: https://openalex.org/W4404225574    
-Open access: False
-    
-[Ruofei Cheng](https://openalex.org/A5074760445), [Kangbao Zhong](https://openalex.org/A5050860250), [Xue‐Qiang Chu](https://openalex.org/A5028501208), [Yu Lan](https://openalex.org/A5050859481), [Chao‐Jun Li](https://openalex.org/A5021388534), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05759.
-    
-No abstract    
-
-    
 
 ## Trend and Progress in Catalysis for Ethylene Production from Bioethanol Using ZSM-5   
 
@@ -452,6 +430,17 @@ OpenAlex: https://openalex.org/W4404436420
 Open access: False
     
 [Guangming Cai](https://openalex.org/A5067244216), [Ya-Huei Cathy Chin](https://openalex.org/A5039229575), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04745.
+    
+No abstract    
+
+    
+
+## Bacterial Biosynthesis of Nitrile-Containing Natural Products: Basis for Recognition of Diversified Substrates   
+
+OpenAlex: https://openalex.org/W4404449383    
+Open access: False
+    
+[Ming Peng](https://openalex.org/A5101691865), [Qiaoling Wu](https://openalex.org/A5014980152), [Lele Ma](https://openalex.org/A5100578533), [Zhao‐Jie Teng](https://openalex.org/A5082988741), [Xuben Hou](https://openalex.org/A5038166418), [Hongjie Zhu](https://openalex.org/A5077847368), [Jianhua Ju](https://openalex.org/A5028227890), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06581.
     
 No abstract    
 
