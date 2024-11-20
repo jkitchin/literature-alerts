@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Nov 2024 01:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:23:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>DDEL-01. ENGINEERING MRNA THERAPIES FOR BRAIN TUMORS</title>
-      <link>https://doi.org/10.1093/neuonc/noae165.0468</link>
-      <description>Saigopalakrishna S. Yerneni, Juliana H. Azambuja, Daria Strelkova-Petersen, Brendan R. Gallagher, Julie Shin Kim, Namit Chaudhary, Yongxin Zhao, Peter C. Lucas, Linda M. McAllister&#8208;Lucas, Norbert Pardi, Drew Weissman, Kathryn A. Whitehead, Neuro-Oncology. 26(Supplement_8)] 2024. https://openalex.org/W4404237621
-
-                Abstract Safe delivery of mRNA to the brain will revolutionize the treatment of brain tumors. While lipid nanoparticles (LNPs) are clinically most advanced non-viral delivery vehicles for therapeutic mRNA, LNP-mediated mRNA delivery to the brain remains challenging. We hypothesized that rationally designed LNPs based on extracellular vesicle mimicry would enable efficient delivery of RNA therapeutics to brain cells without undue toxicity. We engineered LNPs consisting of four components similar to the formulation used in the mRNA COVID-19 vaccines (Moderna and Pfizer-BioNTech): ionizable lipid, cholesterol, helper lipid and polyethylene glycol (PEG)-lipid. We screened ten classes of helper lipids based on lipids enriched in extracellular vesicles to engineer biomimetic LNPs and tested their GFP mRNA delivery efficacy in SIM-A9 mouse microglia cell line. Several unique LNP formulations with potent delivery efficacy (&amp;gt;90% cells transfected) and stable GFP expression kinetics (5 days) were identified. LNP formulations with high transfection efficacy were then tested in vivo for luciferase mRNA delivery via intrathecal injection in C57BL/6 mice. Luciferase expression in vivo confirmed widespread mRNA delivery in the brain. We then tested Cre recombinase mRNA delivery in Ai9 mouse to identify LNP-targeted cells via flow cytometry and histology. Flow cytometry and expansion microscopy confirmed Cre recombinase mRNA delivery to a variety of brain cells, including microglia (75-90%), neurons (31-40%), neural stem cells (39-62%), oligodendrocytes (70-90%), and astrocytes (44-76%). LNPs were further evaluated for Cas9 mRNA and CD81 sgRNA delivery in C57BL/6 mouse brains to assess brain-targeted gene editing. Sanger sequencing showed that CRISPR-Cas9 editing was successful in ~40% of cells in the mouse brain. In summary, we engineered extracellular vesicle-based LNP library that can deliver RNA therapeutics to a variety of brain cells in vivo. With further development, this technology could potentially enable genetic and epigenetic therapies targeting drivers of brain tumors.</description>
-      <author>Saigopalakrishna S. Yerneni, Juliana H. Azambuja, Daria Strelkova-Petersen, Brendan R. Gallagher, Julie Shin Kim, Namit Chaudhary, Yongxin Zhao, Peter C. Lucas, Linda M. McAllister&#8208;Lucas, Norbert Pardi, Drew Weissman, Kathryn A. Whitehead</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/neuonc/noae165.0468</guid>
-    </item>
     <item>
       <title>Effect of hollow fiber membrane packing on the performance of modules formed with fiber tows</title>
       <link>https://doi.org/10.1080/01496395.2024.2424953</link>

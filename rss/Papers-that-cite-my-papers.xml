@@ -4,129 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Nov 2024 01:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:24:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Fe-Doped Ni-Based Catalysts Surpass Ir-Baselines for Oxygen Evolution Due to Optimal Charge-Transfer Characteristics</title>
-      <link>https://doi.org/10.1021/acscatal.4c04489</link>
-      <description>Mai&#8208;Anh Ha, Shaun M Alia, Andrew G. Norman, Elisa M. Miller, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404237251
-
-                No abstract</description>
-      <author>Mai&#8208;Anh Ha, Shaun M Alia, Andrew G. Norman, Elisa M. Miller</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04489</guid>
-    </item>
-    <item>
-      <title>How to Assess and Predict Electrical Double Layer Properties. Implications for Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acs.chemrev.3c00806</link>
-      <description>Christian M. Schott, Peter M. Schneider, Kun&#8208;Ting Song, Haiting Yu, Rainer G&#246;tz, Felix Haimerl, Elena L. Gubanova, Jian Zhou, Thorsten O. Schmidt, Qi&#8208;Wei Zhang, Vitaly Alexandrov, Aliaksandr S. Bandarenka, Chemical Reviews. None(None)] 2024. https://openalex.org/W4404238022
-
-                The electrical double layer (EDL) plays a central role in electrochemical energy systems, impacting charge transfer mechanisms and reaction rates. The fundamental importance of the EDL in interfacial electrochemistry has motivated researchers to develop theoretical and experimental approaches to assess EDL properties. In this contribution, we review recent progress in evaluating EDL characteristics such as the double-layer capacitance, highlighting some discrepancies between theory and experiment and discussing strategies for their reconciliation. We further discuss the merits and challenges of various experimental techniques and theoretical approaches having important implications for aqueous electrocatalysis. A strong emphasis is placed on the substantial impact of the electrode composition and structure and the electrolyte chemistry on the double-layer properties. In addition, we review the effects of temperature and pressure and compare solid-liquid interfaces to solid-solid interfaces.</description>
-      <author>Christian M. Schott, Peter M. Schneider, Kun&#8208;Ting Song, Haiting Yu, Rainer G&#246;tz, Felix Haimerl, Elena L. Gubanova, Jian Zhou, Thorsten O. Schmidt, Qi&#8208;Wei Zhang, Vitaly Alexandrov, Aliaksandr S. Bandarenka</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.3c00806</guid>
-    </item>
-    <item>
-      <title>Influence of Co Doping on Copper Nanoclusters for CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
-      <link>https://doi.org/10.1021/acsomega.4c07514</link>
-      <description>Guilherme Rodrigues do Nascimento, Marionir M. C. B. Neto, Juarez L. F. Da Silva, Breno R. L. Galv&#227;o, ACS Omega. None(None)] 2024. https://openalex.org/W4404238489
-
-                No abstract</description>
-      <author>Guilherme Rodrigues do Nascimento, Marionir M. C. B. Neto, Juarez L. F. Da Silva, Breno R. L. Galv&#227;o</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c07514</guid>
-    </item>
-    <item>
-      <title>Machine-Learning-Assisted Screening of Nanocluster Electrocatalysts: Mapping and Reshaping the Activity Volcano for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acsami.4c14076</link>
-      <description>Rahul Kumar Sharma, Milan Kumar Jena, Harpriya Minhas, Biswarup Pathak, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4404241066
-
-                In computational heterogeneous catalysis, Sabatier's principle-based activity volcano plots provide an intuitive guide to catalyst design but impose a fundamental constraint on the maximum achievable catalytic performance. Recently, subnano clusters have emerged as an exciting platform, offering high noble metal utilization and superior performance for various reactions compared to extended surfaces, reflecting a complex structure-activity relationship in the non-scalable regime. However, understanding their non-monotonic catalytic activity, attributed to the large configurational space and their fluxional identity, poses a formidable challenge. Here, we present a machine learning (ML) framework that captures the non-monotonic trends in oxygen reduction reaction (ORR) activity at the subnanometer scale, attributed to their dynamic fluxional characteristics. We demonstrate a size-dependent shifting and reshaping of the ORR activity volcano, with Au replacing Pt at the peak. Leveraging only upon the non-</description>
-      <author>Rahul Kumar Sharma, Milan Kumar Jena, Harpriya Minhas, Biswarup Pathak</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c14076</guid>
-    </item>
-    <item>
-      <title>Simplification of solvation shell with water clusters in the simulation of electrochemical nitrogen reduction reaction</title>
-      <link>https://doi.org/10.1063/5.0230137</link>
-      <description>Hanxuan Liu, Zheng&#8208;Qing Huang, Xin Gao, Guidong Yang, Chun&#8208;Ran Chang, The Journal of Chemical Physics. 161(18)] 2024. https://openalex.org/W4404244919
-
-                Electrochemical methods for nitrogen reduction have received extensive attention due to the mild reaction conditions. In order to gain an insight into the mechanism of the electrochemical nitrogen reduction process, theoretical simulations are necessary. However, current simulation studies contain many imprecise approximations that may hinder the real recognition of the reaction process. Although solvation methods have recently been developed to provide efficient descriptions, their further applications are hindered by controversy over modeling of solvents and the enormous computational effort required. In this work, we simplify the solvation conditions by using water clusters and compare them with an accurate water layer model. The results demonstrate that the simplified water clusters can effectively capture protons, simulate the surface electric environment, and enable the calculation of the activation energy of the reaction. This method offers an affordable approach for simulating the surface potentials and solvents and provides a new reference for the theoretical study of the electrochemical nitrogen reduction reaction.</description>
-      <author>Hanxuan Liu, Zheng&#8208;Qing Huang, Xin Gao, Guidong Yang, Chun&#8208;Ran Chang</author>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0230137</guid>
-    </item>
-    <item>
-      <title>Molecular level insights on the pulsed electrochemical CO2 reduction</title>
-      <link>https://doi.org/10.1038/s41467-024-54122-3</link>
-      <description>Ke Ye, Tian&#8208;Wen Jiang, Hyun Dong Jung, Peng Shen, So Min Jang, Zhe Weng, Seoin Back, Wen&#8208;Bin Cai, Kun Jiang, Nature Communications. 15(1)] 2024. https://openalex.org/W4404252638
-
-                Electrochemical CO</description>
-      <author>Ke Ye, Tian&#8208;Wen Jiang, Hyun Dong Jung, Peng Shen, So Min Jang, Zhe Weng, Seoin Back, Wen&#8208;Bin Cai, Kun Jiang</author>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54122-3</guid>
-    </item>
-    <item>
-      <title>Activation of Hidden Catalytic Sites in 2D Basal Plane via p&#8211;n Heterojunction Interface Engineering Toward Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/aenm.202403722</link>
-      <description>Eugene Kim, Sungsoon Kim, Yong&#8208;Chul Kim, Kiran Hamkins, Jihyun Baek, MinJoong Kim, Tae&#8208;Kyung Liu, Young Moon Choi, Jung Hwan Lee, Gyu Yong Jang, Kug&#8208;Seung Lee, Geunsik Lee, Xiaolin Zheng, Jong Hyeok Park, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4404255224
-
-                Abstract Nonprecious metal&#8208;based 2D materials have shown promising electrocatalytic activity toward the oxygen evolution reaction (OER). However, the catalytically active sites of 2D materials are mainly presented at the edge, and most of their basal planes are still catalytically inactive, which turns into a significant drawback on the catalytic efficiency. Here, a novel p&#8211;n heterojunction strategy is suggested that generates active sites on the basal plane of 2D NiFe&#8208;layered double hydroxide (NiFe&#8208;LDH). The n&#8208;type NiFe&#8208;LDH is first grown on a nickel foam (NF) substrate, and p&#8208;type Co 3 O 4 nanocubes are deposited through a simple dip&#8208;coating method to fabricate a Co 3 O 4 /NiFe&#8208;LDH@NF p&#8211;n heterojunction electrode. As a result, electron transfer is induced at the interface of p&#8208;type Co 3 O 4 and n&#8208;type NiFe&#8208;LDH, which consequently promotes oxidation of the inert Ni 2+ state to a more catalytically active Ni 3+ state on the inert basal plane of NiFe&#8208;LDH. As&#8208;prepared Co 3 O 4 /NiFe&#8208;LDH@NF electrodes obtained enhanced OER performance showing a high current density of 100 mA cm &#8722;2 at 1.48 V (vs RHE) which outperforms that of pristine NiFe&#8208;LDH@NF. The utilization of the p&#8211;n junction concept will disclose a new strategy for modifying the electronic structure of the catalytically inactive basal plane and stimulating its electrocatalytic activity.</description>
-      <author>Eugene Kim, Sungsoon Kim, Yong&#8208;Chul Kim, Kiran Hamkins, Jihyun Baek, MinJoong Kim, Tae&#8208;Kyung Liu, Young Moon Choi, Jung Hwan Lee, Gyu Yong Jang, Kug&#8208;Seung Lee, Geunsik Lee, Xiaolin Zheng, Jong Hyeok Park</author>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403722</guid>
-    </item>
-    <item>
-      <title>A general machine-learning framework for high-throughput screening for stable and efficient RuO2-based acidic oxygen evolution reaction catalysts</title>
-      <link>https://doi.org/10.21203/rs.3.rs-5347326/v1</link>
-      <description>Zhe Shang, Qian Dang, Sheng Wang, Xiaoming Sun, Hui Li, No host. None(None)] 2024. https://openalex.org/W4404257326
-
-                Abstract Doping guest elements is an effective way to increase activity and stability of RuO2 catalysts in acidic oxygen evolution reaction (OER). However, due to the vastness of doping space, it is challenging for either high-cost experiments or density functional theory (DFT) calculations to screen out the doped structures with the optimized catalytic performance. Herein, we reported a machine-learning (ML) framework that aims to realize high-throughput screening for both stability and activity of doped-RuO2 acidic OER catalysts from mono-doping to triple-doping at a low level of computational cost. Compared to the d-band theory and some other previous models, our ML model was constructed based on more general input features and realized higher prediction accuracy with mean absolute errors (MAEs) of 0.074, 0.142 and 0.082 eV for *OH, *O and *OOH adsorption, respectively. Through the ML models, three doping structures, Ru41Zn7O96, Ru41Zn4Fe3O96, and Ru39Zn4Cu4Co1O96 were found to possess the extraordinarily high stability and comparable or higher activity than the previously reported OER catalysts. This work provided an efficient study paradigm in fields of material screening and a useful guide for experimental synthesis.</description>
-      <author>Zhe Shang, Qian Dang, Sheng Wang, Xiaoming Sun, Hui Li</author>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5347326/v1</guid>
-    </item>
-    <item>
-      <title>Demystifying Synergistic Multifunctional Electrocatalysis of N-Doped Graphene/WS&lt;sub&gt;2&lt;/sub&gt; Heterostructure with Single-Atom Catalysts for Water Splitting and Fuel Cells</title>
-      <link>https://doi.org/10.1021/acsami.4c16119</link>
-      <description>Deepak Arumugam, Divyakaaviri Subramani, Akilesh Muralidharan, R. Shankar, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4404257452
-
-                As the demand for sustainable energy continues to rise, electrocatalysis has become increasingly prominent in the advancement of clean energy technologies. By scrutinizing the material to function as a multifunctional catalyst, the effectiveness of energy conversion processes is significantly enhanced. This study focuses on harnessing graphene/WS</description>
-      <author>Deepak Arumugam, Divyakaaviri Subramani, Akilesh Muralidharan, R. Shankar</author>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16119</guid>
-    </item>
-    <item>
-      <title>Enhanced photocatalytic hydrogen and oxygen evolution activity by two-dimensional van der Waals AlSb/ZnO heterostructure: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105397</link>
-      <description>Aroni Ghosh, Ahmed Zubair, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4404258858
-
-                No abstract</description>
-      <author>Aroni Ghosh, Ahmed Zubair</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105397</guid>
-    </item>
-    <item>
-      <title>Wear Resistance of N-Doped CoCrFeNiMn High Entropy Alloy Coating on the Ti-6Al-4V Alloy</title>
-      <link>https://doi.org/10.1007/s11666-024-01864-7</link>
-      <description>Minhui Yang, J.L. Xu, J.C. Huang, L. W. Zhang, Jiawei Luo, Journal of Thermal Spray Technology. None(None)] 2024. https://openalex.org/W4404259216
-
-                No abstract</description>
-      <author>Minhui Yang, J.L. Xu, J.C. Huang, L. W. Zhang, Jiawei Luo</author>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11666-024-01864-7</guid>
-    </item>
-    <item>
-      <title>Uncertainty Based Machine Learning-DFT Hybrid Framework for Accelerating Geometry Optimization</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00953</link>
-      <description>Akksay Singh, Jiaqi Wang, Graeme Henkelman, Lei Li, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4404259391
-
-                Geometry optimization is an important tool used for computational simulations in the fields of chemistry, physics, and material science. Developing more efficient and reliable algorithms to reduce the number of force evaluations would lead to accelerated computational modeling and materials discovery. Here, we present a delta method-based neural network-density functional theory (DFT) hybrid optimizer to improve the computational efficiency of geometry optimization. Compared to previous active learning approaches, our algorithm adds two key features: a modified delta method incorporating force information to enhance efficiency in uncertainty estimation, and a quasi-Newton approach based upon a Hessian matrix calculated from the neural network; the later improving stability of optimization near critical points. We benchmarked our optimizer against commonly used optimization algorithms using systems including bulk metal, metal surface, metal hydride, and an oxide cluster. The results demonstrate that our optimizer effectively reduces the number of DFT force calls by 2-3 times in all test systems.</description>
-      <author>Akksay Singh, Jiaqi Wang, Graeme Henkelman, Lei Li</author>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00953</guid>
-    </item>
     <item>
       <title>Potential-Driven Coordinated Oxygen Migration in an Electrocatalyst for Sustainable H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Synthesis</title>
       <link>https://doi.org/10.1021/acsnano.4c11307</link>
@@ -498,16 +378,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119830</guid>
     </item>
     <item>
-      <title>The critical effect of different additive interlayer anions on NiFe-LDH for direct seawater splitting: A theoretical study</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.11.069</link>
-      <description>Lu Wang, Ying Wang, Liang Zhou, Jing&#8208;yao Liu, Zhijian Wu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4404398431
-
-                No abstract</description>
-      <author>Lu Wang, Ying Wang, Liang Zhou, Jing&#8208;yao Liu, Zhijian Wu</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.069</guid>
-    </item>
-    <item>
       <title>cifkit: A Python package for coordination geometry and atomic site analysis</title>
       <link>https://doi.org/10.21105/joss.07205</link>
       <description>Sangjoon Lee, Anton O. Oliynyk, The Journal of Open Source Software. 9(103)] 2024. https://openalex.org/W4404401482
@@ -716,6 +586,56 @@
       <author>Sarath Menon, Yury Lysogorskiy, A. Knoll, Niklas Leimeroth, Marvin Poul, Minaam Qamar, Jan Jan&#223;en, Matous Mrovec, Jochen Rohrer, Karsten Albe, J&#246;rg Behler, Ralf Drautz, J&#246;rg Neugebauer</author>
       <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01441-0</guid>
+    </item>
+    <item>
+      <title>The critical effect of different additive interlayer anions on NiFe-LDH for direct seawater splitting: A theoretical study</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.11.069</link>
+      <description>Lu Wang, Ying Wang, Liang Zhou, Jing&#8208;yao Liu, Zhijian Wu, Journal of Colloid and Interface Science. 680(None)] 2024. https://openalex.org/W4404398431
+
+                No abstract</description>
+      <author>Lu Wang, Ying Wang, Liang Zhou, Jing&#8208;yao Liu, Zhijian Wu</author>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.069</guid>
+    </item>
+    <item>
+      <title>A MoNi4(312) surface preferred reconstruction enhancing hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124831</link>
+      <description>Song Xie, Chao Huang, Dong Hao, Baochai Xu, Yaping Miao, Biao Gao, Xuming Zhang, Paul K. Chu, Xiang Peng, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404459012
+
+                No abstract</description>
+      <author>Song Xie, Chao Huang, Dong Hao, Baochai Xu, Yaping Miao, Biao Gao, Xuming Zhang, Paul K. Chu, Xiang Peng</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124831</guid>
+    </item>
+    <item>
+      <title>Activation of Lattice Oxygen in Nitrogen-Doped High-Entropy Oxide Nanosheets for Highly Efficient Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c05997</link>
+      <description>Shengqin Guan, Baoen Xu, Xingbo Yu, Yong&#8208;Hong Ye, Yuting Liu, Taotao Guan, Yang Yu, Jiali Gao, Kaixi Li, Jianlong Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404459898
+
+                No abstract</description>
+      <author>Shengqin Guan, Baoen Xu, Xingbo Yu, Yong&#8208;Hong Ye, Yuting Liu, Taotao Guan, Yang Yu, Jiali Gao, Kaixi Li, Jianlong Wang</author>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05997</guid>
+    </item>
+    <item>
+      <title>BEAST DB: Grand-Canonical Database of Electrocatalyst Properties</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c06826</link>
+      <description>Cooper Tezak, Jacob M. Clary, Sophie Gerits, Joshua Quinton, Benjamin Rich, Nicholas R. Singstock, Abdulaziz Alherz, Taylor J. Aubry, Struan Clark, R. B. Hurst, Mauro Del Ben, Christopher Sutton, Ravishankar Sundararaman, Charles B. Musgrave, Derek Vigil&#8208;Fowler, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404462138
+
+                We present BEAST DB, an open-source database comprised of ab initio electrochemical data computed using grand-canonical density functional theory in implicit solvent at consistent calculation parameters. The database contains over 20,000 surface calculations and covers a broad set of heterogeneous catalyst materials and electrochemical reactions. Calculations were performed at self-consistent fixed potential as well as constant charge to facilitate comparisons to the computational hydrogen electrode. This article presents common use cases of the database to rationalize trends in catalyst activity, screen catalyst material spaces, understand elementary mechanistic steps, analyze the electronic structure, and train machine learning models to predict higher fidelity properties. Users can interact graphically with the database by querying for individual calculations to gain a granular understanding of reaction steps or by querying for an entire reaction pathway on a given material using an interactive reaction pathway tool. BEAST DB will be periodically updated, with planned future updates to include advanced electronic structure data, surface speciation studies, and greater reaction coverage.</description>
+      <author>Cooper Tezak, Jacob M. Clary, Sophie Gerits, Joshua Quinton, Benjamin Rich, Nicholas R. Singstock, Abdulaziz Alherz, Taylor J. Aubry, Struan Clark, R. B. Hurst, Mauro Del Ben, Christopher Sutton, Ravishankar Sundararaman, Charles B. Musgrave, Derek Vigil&#8208;Fowler</author>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06826</guid>
+    </item>
+    <item>
+      <title>Mechanism of the Layered-to-Spinel Phase Transformation in Li&lt;sub&gt;0.5&lt;/sub&gt;NiO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acsaem.4c00591</link>
+      <description>Cem Komurcuoglu, Alan C. West, Alexander Urban, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4404470166
+
+                The phase transition of layered Li0.5NiO2 to spinel Li(NiO2)2 is a potential degradation pathway in LiNiO2-based lithium-ion battery cathodes. We investigated the mechanism of this phase transformation from first principles. Consistent with experimental observations reported in the literature, our results indicate a high energy barrier for the transformation due to high defect formation energies, a complex charge-transfer mechanism, and electronic frustration. Our results suggest that partially inverse spinel phases are unlikely to form for Li0.5NiO2, a qualitative difference from the chemically similar Li0.5MnO2, in which the transformation occurs at room temperature. We show that Ni and Li atoms do not migrate gradually to their respective spinel sites for the layered-to-spinel transformation to occur due to high defect formation energies. We investigated the charge ordering in layered phases along the LiNiO2&#8211;NiO2 composition line, finding a pronounced impact of the symmetry and space group on the layered-to-spinel transition in Li0.5NiO2. Finally, we evaluated the relative stability of different spinel space groups, finding that previously reported experimental observations are consistent with a temperature-averaged structure rather than the 0 K ground-state structure of the Li(NiO2)2 spinel.</description>
+      <author>Cem Komurcuoglu, Alan C. West, Alexander Urban</author>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00591</guid>
     </item>
     <item>
       <title>Regulation of Oxide Pathway Mechanism for Sustainable Acidic Water Oxidation</title>

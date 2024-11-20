@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Nov 19 01:25:02 2024
+Created on Wed Nov 20 01:23:58 2024
 
-Found 40 results from 2024-11-12 to 2024-11-19
+Found 34 results from 2024-11-13 to 2024-11-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Trend and Progress in Catalysis for Ethylene Production from Bioethanol Using ZSM-5   
-
-OpenAlex: https://openalex.org/W4404234962    
-Open access: False
-    
-[L. Ouayloul](https://openalex.org/A5002759787), [Iker Agirrezabal-Tellería](https://openalex.org/A5061505361), [Sébastien Paul](https://openalex.org/A5081732385), [M. El Doukkali](https://openalex.org/A5054522976), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04162.
-    
-No abstract    
-
-    
-
-## Fe-Doped Ni-Based Catalysts Surpass Ir-Baselines for Oxygen Evolution Due to Optimal Charge-Transfer Characteristics   
-
-OpenAlex: https://openalex.org/W4404237251    
-Open access: True
-    
-[Mai‐Anh Ha](https://openalex.org/A5045205642), [Shaun M Alia](https://openalex.org/A5090914666), [Andrew G. Norman](https://openalex.org/A5035752147), [Elisa M. Miller](https://openalex.org/A5030845529), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04489.
-    
-No abstract    
-
-    
-
-## Photoreforming of Lignocellulose into CO and Lactic Acid over a Single-Atom Fe-Dispersed Order/Disorder Polymeric Carbon Nitride Homojunction   
-
-OpenAlex: https://openalex.org/W4404243653    
-Open access: False
-    
-[Yanglin Chen](https://openalex.org/A5000373257), [Mei Zheng](https://openalex.org/A5101709674), [Jiajun Sun](https://openalex.org/A5101577667), [Jianzhong Xu](https://openalex.org/A5100778829), [Chao Wu](https://openalex.org/A5036867780), [Jiyuan Liu](https://openalex.org/A5100657882), [Limo He](https://openalex.org/A5089298431), [Shibo Xi](https://openalex.org/A5031292832), [Shuzhou Li](https://openalex.org/A5074258793), [Can Xue](https://openalex.org/A5026626040), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05510.
-    
-No abstract    
-
-    
-
-## Catalytic Asymmetric C–H Activation/Cyclization of Sulfoximines with Sulfoxonium Ylides by a Chiral η6-Benzene Ruthenium(II) Catalyst   
-
-OpenAlex: https://openalex.org/W4404254369    
-Open access: False
-    
-[Huan Liu](https://openalex.org/A5100339019), [Ji‐Jun Jiang](https://openalex.org/A5006907432), [Jun Wang](https://openalex.org/A5007519550), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04798.
-    
-No abstract    
-
-    
-
-## Rhodium-Catalyzed (Asymmetric) Annulation of Silacyclobutanes with Bicyclic Olefins via C–Si Bond Activation   
-
-OpenAlex: https://openalex.org/W4404257850    
-Open access: False
-    
-[Shengbo Xu](https://openalex.org/A5083905249), [Fen Wang](https://openalex.org/A5100752623), [Xingwei Li](https://openalex.org/A5061667297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05675.
-    
-No abstract    
-
-    
-
-## Enantioselective Synthesis of Ferrocene 1,3-Derivatives via Palladium/Norbornene Cooperative Catalysis   
-
-OpenAlex: https://openalex.org/W4404258078    
-Open access: False
-    
-[Princi Gupta](https://openalex.org/A5077745894), [Prakash C. Tiwari](https://openalex.org/A5104099574), [Suchithra Madhavan](https://openalex.org/A5004212879), [Manmohan Kapur](https://openalex.org/A5039260671), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06231.
-    
-No abstract    
-
-    
-
-## Boosting Long-Chain Linear α-Olefins Synthesis from CO2 Hydrogenation over K–FeMn Catalyst via Stabilizing Active Sites   
-
-OpenAlex: https://openalex.org/W4404258399    
-Open access: False
-    
-[Kangzhou Wang](https://openalex.org/A5049258632), [Ziqin Li](https://openalex.org/A5111050386), [Lei Zhu](https://openalex.org/A5100394072), [Weizhe Gao](https://openalex.org/A5103997016), [Yang Tang](https://openalex.org/A5077694060), [Kuan‐Guan Liu](https://openalex.org/A5071773947), [Xinhua Gao](https://openalex.org/A5053277179), [Qingxiang Ma](https://openalex.org/A5101928632), [Jianli Zhang](https://openalex.org/A5100614646), [Tiansheng Zhao](https://openalex.org/A5022388959), [Noritatsu Tsubaki](https://openalex.org/A5054090836), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04325.
-    
-No abstract    
-
-    
 
 ## Roles of Acidic Proton for Fe-Containing Zeolite in Direct Oxidation of Methane   
 
@@ -441,6 +364,17 @@ OpenAlex: https://openalex.org/W4404449383
 Open access: False
     
 [Ming Peng](https://openalex.org/A5101691865), [Qiaoling Wu](https://openalex.org/A5014980152), [Lele Ma](https://openalex.org/A5100578533), [Zhao‐Jie Teng](https://openalex.org/A5082988741), [Xuben Hou](https://openalex.org/A5038166418), [Hongjie Zhu](https://openalex.org/A5077847368), [Jianhua Ju](https://openalex.org/A5028227890), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06581.
+    
+No abstract    
+
+    
+
+## Activation of Lattice Oxygen in Nitrogen-Doped High-Entropy Oxide Nanosheets for Highly Efficient Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4404459898    
+Open access: False
+    
+[Shengqin Guan](https://openalex.org/A5009729201), [Baoen Xu](https://openalex.org/A5100711147), [Xingbo Yu](https://openalex.org/A5109737361), [Yong‐Hong Ye](https://openalex.org/A5044016858), [Yuting Liu](https://openalex.org/A5100364308), [Taotao Guan](https://openalex.org/A5048224087), [Yang Yu](https://openalex.org/A5100703660), [Jiali Gao](https://openalex.org/A5051728653), [Kaixi Li](https://openalex.org/A5080856996), [Jianlong Wang](https://openalex.org/A5100666573), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05997.
     
 No abstract    
 

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Nov 2024 01:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:23:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,16 +26,6 @@
       <author>Maialen S&#225;nchez, Simon Carl, Nicola Taccardi, Marco Haumann, Benjamin Apeleo Zubiri, Peter Wasserscheid, Erdmann Spiecker, Nicolas Vogel, Julien Bachmann, Giulia Magnabosco</author>
       <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401429</guid>
-    </item>
-    <item>
-      <title>Nanoporous Cu-based amorphous alloys prepared by selective dissolution in acidic media</title>
-      <link>https://doi.org/10.1088/1757-899x/1319/1/012032</link>
-      <description>Sebastian Ambru&#351;, Roxana Muntean, Drago&#351; Buzdugan, Cosmin Codrean, IOP Conference Series Materials Science and Engineering. 1319(1)] 2024. https://openalex.org/W4404244174
-
-                Abstract Functional nanoporous materials are considered a significant category of nanostructured materials that exhibit distinct characteristics like high surface area, porosity, and improved mass transport properties. These qualities render them suitable for a wide range of applications including catalysis, energy storage, biomedical fields, and electrochemical sensors. Dealloying or laser-induced technologies are the primary methods employed to fabricate such nanoporous materials. Dealloying is a dependable top-down approach used to produce hierarchical, disordered nanoporous materials with customizable pore sizes in the range of a few nanometers. The process of dealloying involves the selective elimination or dissolution of one or more elements from an alloy through a corrosion mechanism, using various dealloying techniques, such as chemical, electrochemical, liquid metal, or vapor phase dealloying. In the present study, copper-based amorphous metallic ribbons (Cu75Ni6Sn5P10Ga4) were initially manufactured using the melt-spinning method. The Cu-based amorphous ribbons were structurally investigated by X-ray diffraction and thermal analysis. Subsequently, the ribbons were subjected to a dealloying treatment, using an acidic solution to selectively dissolve the nickel from their composition and to obtain a nanoporous structure. The microstructure and chemical composition of the ribbons before and after the dealloying process were investigated using scanning electron microscopy (SEM), combined with energy-dispersive X-ray spectroscopy. The dealloying process performed in 1 M H2SO4 solution at 25 &#176;C for 60 minutes leads to a large number of nanopores, uniformly distributed onto the surface of the Cu-based ribbons.</description>
-      <author>Sebastian Ambru&#351;, Roxana Muntean, Drago&#351; Buzdugan, Cosmin Codrean</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/1757-899x/1319/1/012032</guid>
     </item>
   </channel>
 </rss>
