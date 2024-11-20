@@ -48,3 +48,9 @@ queries:
     filter:
       - related_to:https://openalex.org/W2945032606|https://openalex.org/W2969923410|https://openalex.org/W3010067097|https://openalex.org/W3041061357|https://openalex.org/W3093929595
       - cites:https://openalex.org/W2945032606|https://openalex.org/W2969923410|https://openalex.org/W3010067097|https://openalex.org/W3041061357|https://openalex.org/W3093929595      
+
+  - label: Digital Discovery
+    tag: digital_discovery
+    description: Articles in Digital Discovery
+    filter:
+      - primary_location.source.id:https://openalex.org/S4210202120
