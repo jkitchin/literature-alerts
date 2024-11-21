@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Nov 20 01:23:58 2024
+Created on Thu Nov 21 01:23:59 2024
 
-Found 34 results from 2024-11-13 to 2024-11-20
+Found 34 results from 2024-11-14 to 2024-11-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Roles of Acidic Proton for Fe-Containing Zeolite in Direct Oxidation of Methane   
-
-OpenAlex: https://openalex.org/W4404271393    
-Open access: True
-    
-[Peipei Xiao](https://openalex.org/A5085549483), [Hiroto Toyoda](https://openalex.org/A5076566129), [Yong Wang](https://openalex.org/A5100733364), [K. Nakamura](https://openalex.org/A5036811156), [Samya Bekhti](https://openalex.org/A5093019473), [Ryota Osuga](https://openalex.org/A5039390377), [Maiko Nishibori](https://openalex.org/A5086456041), [Hermann Gies](https://openalex.org/A5025232171), [Toshiyuki Yokoi](https://openalex.org/A5074713586), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04875.
-    
-No abstract    
-
-    
-
-## 2 + 1 > 3: Trimetallic Sites on the Zn-IrP2/FeP Electrode Trigger Synergistic Effect to Activate Industrial-Grade Performance for Hydrazine-Assisted Overall Water Splitting   
-
-OpenAlex: https://openalex.org/W4404273867    
-Open access: False
-    
-[Xiaoli Sun](https://openalex.org/A5100698629), [Jie Liu](https://openalex.org/A5100454118), [Yunmei Du](https://openalex.org/A5004805684), [Yanru Liu](https://openalex.org/A5101631273), [Wenna Wang](https://openalex.org/A5068551629), [Dehong Chen](https://openalex.org/A5013080126), [Ruiyong Zhang](https://openalex.org/A5024585245), [Lei Wang](https://openalex.org/A5058772567), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05825.
-    
-No abstract    
-
-    
-
-## A Chemoenzymatic Cascade for the Formal Enantioselective Hydroxylation and Amination of Benzylic C–H Bonds   
-
-OpenAlex: https://openalex.org/W4404276047    
-Open access: True
-    
-[Shouxin Zhang](https://openalex.org/A5101742243), [Chen Huang](https://openalex.org/A5006553673), [Weixi Kong](https://openalex.org/A5070630878), [Liya Zhou](https://openalex.org/A5103141775), [Jing Wang](https://openalex.org/A5100378741), [Frank Hollmann](https://openalex.org/A5039285985), [Yunting Liu](https://openalex.org/A5050520630), [Yanjun Jiang](https://openalex.org/A5076197416), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03161.
-    
-No abstract    
-
-    
-
-## Interfacial Site Density Engineering of ZnO/Cu Cube Inverse Catalysts for CO2 Hydrogenation Reactions   
-
-OpenAlex: https://openalex.org/W4404276392    
-Open access: False
-    
-[Jialin Li](https://openalex.org/A5108050453), [Dongdong Wang](https://openalex.org/A5100446876), [Wei Xiong](https://openalex.org/A5008776627), [Jieqiong Ding](https://openalex.org/A5103067344), [Weixin Huang](https://openalex.org/A5100639761), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06447.
-    
-No abstract    
-
-    
-
-## Reversing the Enantioselectivity of Enzymatic Dynamic Kinetic Asymmetric Transformations in the Synthesis of Fused Lactones   
-
-OpenAlex: https://openalex.org/W4404284677    
-Open access: False
-    
-[Ming-Liang Shi](https://openalex.org/A5100812876), [Yao Yao](https://openalex.org/A5100389434), [Xinyue Fan](https://openalex.org/A5101893038), [Kun Li](https://openalex.org/A5100377568), [Xiao‐Qi Yu](https://openalex.org/A5043050875), [Yan Liu](https://openalex.org/A5100351081), [Zhong‐Liu Wu](https://openalex.org/A5033691855), [Na Wang](https://openalex.org/A5100461388), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05196.
-    
-No abstract    
-
-    
-
-## High-Conversion Propane Dehydrogenation by Photocatalysis under Ambient Conditions   
-
-OpenAlex: https://openalex.org/W4404297788    
-Open access: False
-    
-[Yucheng Yuan](https://openalex.org/A5036804179), [Yuhan Zhang](https://openalex.org/A5100385435), [Jan Paul Menzel](https://openalex.org/A5005426309), [John Santoro](https://openalex.org/A5004116773), [Madeline Dolack](https://openalex.org/A5107529830), [Hongyan Wang](https://openalex.org/A5063296458), [Víctor S. Batista](https://openalex.org/A5089129603), [Dunwei Wang](https://openalex.org/A5040290819), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06192.
-    
-No abstract    
-
-    
 
 ## Efficient Construction of β-Arylethylamines via Selective C(sp3)-H Arylation of Aliphatic Amines   
 
@@ -375,6 +309,72 @@ OpenAlex: https://openalex.org/W4404459898
 Open access: False
     
 [Shengqin Guan](https://openalex.org/A5009729201), [Baoen Xu](https://openalex.org/A5100711147), [Xingbo Yu](https://openalex.org/A5109737361), [Yong‐Hong Ye](https://openalex.org/A5044016858), [Yuting Liu](https://openalex.org/A5100364308), [Taotao Guan](https://openalex.org/A5048224087), [Yang Yu](https://openalex.org/A5100703660), [Jiali Gao](https://openalex.org/A5051728653), [Kaixi Li](https://openalex.org/A5080856996), [Jianlong Wang](https://openalex.org/A5100666573), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05997.
+    
+No abstract    
+
+    
+
+## In(OTf)3-Catalyzed (3 + 3) Dipolar Cyclization of Bicyclo[1.1.0]butanes with N-Nucleophilic 1,3-Dipoles: Access to 2,3-Diazabicyclo[3.1.1]heptanes, 2,3-Diazabicyclo[3.1.1]heptenes, and Enantiopure 2-Azabicyclo[3.1.1]heptanes   
+
+OpenAlex: https://openalex.org/W4404474976    
+Open access: False
+    
+[Jian Zhang](https://openalex.org/A5100410113), [Jia-Yi Su](https://openalex.org/A5013440240), [Hanliang Zheng](https://openalex.org/A5019926319), [Hao Li](https://openalex.org/A5033255955), [Wei‐Ping Deng](https://openalex.org/A5052528253), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05622.
+    
+The investigation into the synthesis of azabicyclo[3.1.1]heptanes (azaBCHeps) as bioisosteres to flat aza-aromatics has garnered increasing attention, while it encounters significant challenges. Herein, we have demonstrated the In(OTf)3-catalyzed (3 + 3) dipolar cyclization of bicyclo[1.1.0]butanes (BCBs) with hydrazones and π-allyl-iridium 1,3-dipoles, engendering a diverse array of azaBCHeps. The cyclization of hydrazones and BCBs furnished densely substituted 2,3-diazabicyclo[3.1.1]heptanes and 2,3-diazabicyclo[3.1.1]heptenes under nitrogen and oxygen atmospheres, respectively. A combination of experimental and computational investigations lends robust support for the proton-transfer-interposed sequential mechanism. More importantly, by integrating In(OTf)3/iridium relay catalysis, enantiopure 2-azabicyclo[3.1.1]heptanes were constructed through the (3 + 3) cyclization of BCBs with aza-π-allyl-iridium 1,3-dipoles, in situ generated from N-allyl carbonates. Both methodologies exhibit mild reaction conditions and good tolerance for various functional groups. Moreover, the copious derivatization of products highlights the utility of the newly synthesized heterobicyclic motifs as versatile building blocks in synthetic chemistry.    
+
+    
+
+## Efficient Dehydrogenation of Propane to Propene over PtIn Nanoclusters Encapsulated in Hollow-Structured Silicalite-1   
+
+OpenAlex: https://openalex.org/W4404483179    
+Open access: False
+    
+[Shiying Li](https://openalex.org/A5100680487), [Decheng Li](https://openalex.org/A5100368347), [Baichao Li](https://openalex.org/A5104245933), [Xiao Chen](https://openalex.org/A5100373751), [Hongbin Wu](https://openalex.org/A5015965034), [Sen Wang](https://openalex.org/A5100350748), [Mei Dong](https://openalex.org/A5002713112), [Jianguo Wang](https://openalex.org/A5100336336), [Weibin Fan](https://openalex.org/A5079821348), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05135.
+    
+Pt-based catalysts have been widely used for propane dehydrogenation to propene. However, the high reaction temperature generally induces serious sintering and agglomeration of metal species, thus leading to rapid deactivation of the catalysts. Herein, PtIn nanoclusters (NCs) encapsulated in hollow-structured silicalite-1 (designated as PtIn@S1–H) was prepared using recrystallization method. This material shows high catalytic performance in propane dehydrogenation. The propane conversion and propene selectivity reach ∼45–47.5% and ∼99%, respectively, at 547 °C at least within 167.6 h. As a result, it displays a significantly higher specific activity for C3H6 formation (0.37–0.59 s–1) than Pt@S1, Pt@S1–H, and other reported Pt-based catalysts. Notably, its catalytic performance is well maintained for more than 3600 h, with propane conversion of ∼31–34% and propene selectivity of ∼91–95%, when pure propane is fed. More interestingly, this catalyst can be reused through regeneration. EXAFS, HAADF-STEM and DFT calculation, and AIMD simulation results show that hollow-structured silicalite-1 crystal morphology not only facilitates the formation of Pt5In3 alloy NCs but also inhibits NC aggregation and growth. PtIn@S1–H showed a TON ≥ 38996 in contrast to 5367, 4928, 798, and 542 obtained on PtIn@S1, PtSn@S1, PtSn/Al2O3, and PtIn/Al2O3, respectively, if the catalysts were considered to be deactivated when the propane conversion was decreased by 15%. This is because alloying of In into Pt NCs weakens the interaction of C3H7* intermediates with metallic Pt NCs and the adsorption of C3H6 on the catalyst surface, thus suppressing the C3H7* cleavage reaction and enhancing propane activation and propene selectivity.    
+
+    
+
+## Iridium Photoredox-Catalyzed Stereoselective C-Glycosylation with Tetrafluoropyridin-4-yl Thioglycosides: A Facile Synthesis of C-α/β-Glucogallins and Their Antioxidant Activity   
+
+OpenAlex: https://openalex.org/W4404486254    
+Open access: False
+    
+[Shenghao Li](https://openalex.org/A5101953091), [Han Ding](https://openalex.org/A5100617197), [Ruge Cao](https://openalex.org/A5007536117), [Xiao-Lin Zhang](https://openalex.org/A5031867459), [Jingxin Li](https://openalex.org/A5049507373), [Xingchun Sun](https://openalex.org/A5026078987), [Yaying Li](https://openalex.org/A5008273613), [Kan Zhong](https://openalex.org/A5075894101), [Peng Wang](https://openalex.org/A5100396159), [Chao Cai](https://openalex.org/A5077907557), [Hongzhi Cao](https://openalex.org/A5050152196), [Ming Li](https://openalex.org/A5101574923), [Xue‐Wei Liu](https://openalex.org/A5100662239), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05257.
+    
+We demonstrate an efficient, scalable, and stereoselective C-glycosylation with thioglycosides possessing a unique photoactive tetrafluoropyridin-4-yl (TFPy) thio radical leaving group, affording editable and medicinally and biologically essential C-α-glucogallin derivatives. In the presence of silyl enol ether acceptors, the desulfurative coupling reaction performs smoothly under mild conditions upon exposure to blue light irradiation. This versatile protocol permits the synthesis of sugar-drug chimeras by C1 ketonylation of complex drug-derived silyl enol ethers. The scale-up synthesis, anomeric epimerization, and post-C-glycosylation modification of ketone sugars showcase the reaction's potential utilities. Furthermore, the reaction could be applied to direct carbohydrate skeleton editing by equipping the leaving group on the nonanomeric position. The ketonylation is viable for unprotected TFPy thioglycoside, affording a direct route to unprotected ketonyl sugars. The concise six-step assembly of both configurated C-glucogallins from commercially cheap glucose pentaacetate and their antioxidant reactivity investigations underline the promising medicinal relevance of our current protocols. The reaction mechanism was investigated through a radical trapping experiment, an oxocarbenium trapping experiment, a fluorescence quenching experiment, and Stern–Volmer analysis, confirming that the major glycosyl radical intermediates are generated from the thioglycoside donors, whose tetrafluoropyridin-4-yl thio group could effectively quench the fluorescence of excited Ir(ppy)3 through an oxidative quenching process, and C-glycosylation with oxocarbenium is a complementary route to the product, accounting for examples with moderate selectivities.    
+
+    
+
+## Asymmetric Associate Configuration of Nb Single Atoms Coupled Bi–O Vacancy Pairs Boosting CO2 Photoreduction   
+
+OpenAlex: https://openalex.org/W4404486667    
+Open access: False
+    
+[Jun Di](https://openalex.org/A5058123550), [Yao Wu](https://openalex.org/A5074479934), [Jun Xiong](https://openalex.org/A5087508399), [Hongwei Shou](https://openalex.org/A5063417159), [Ran Long](https://openalex.org/A5026399204), [Hailong Chen](https://openalex.org/A5100603637), [Peng Zhou](https://openalex.org/A5047600031), [Peng Zhang](https://openalex.org/A5100364064), [Xingzhong Cao](https://openalex.org/A5025050242), [Li Song](https://openalex.org/A5100448217), [Wei Jiang](https://openalex.org/A5009452553), [Zheng Liu](https://openalex.org/A5100423704), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04407.
+    
+Precisely designing the atomic coordination structure of the catalytic center is highly desired to lower the energy barrier of CO2 photoreduction. The present work shows that engineering Nb single atom coupled Bi–O vacancy pairs (VBi–O) into Bi24O31Br10 (BOB) atomic layers can create a preferential local asymmetric structure. This configuration can result in a stronger local polarization electric field and thus prolong the carrier lifetime, as proved by ultrafast transient absorption spectroscopy. Meantime, this unique Nb SA-VBi–O associate favors the formation of strong chemical interaction between key *COOH intermediate and catalytic center, thus lowering the energy barrier of the rate-limiting step. Benefiting from these features, a high CO generation rate of 76.4 μmol g–1 h–1 for CO2 photoreduction can be achieved over Nb SA-VBi–O BOB atomic layers in pure water, roughly 5.4 and 92.7 times higher than those of BOB atomic layers or bulk BOB, respectively. This work discloses an important paradigm for designing single atom coupled defect associates to optimize photocatalysis performance.    
+
+    
+
+## Unraveling the Key Factors on Structure–Property–Activity Correlations for Photocatalytic Hydrogen Production of Covalent Organic Frameworks   
+
+OpenAlex: https://openalex.org/W4404488626    
+Open access: False
+    
+[Pengyu Dong](https://openalex.org/A5054538596), [Cunxia Wang](https://openalex.org/A5067455936), [Shouxin Zhang](https://openalex.org/A5101742243), [Jinkang Pan](https://openalex.org/A5066955841), [Boyuan Zhang](https://openalex.org/A5101684491), [Jinlong Zhang](https://openalex.org/A5100602288), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04968.
+    
+It has been a challenging task to clearly elucidate various structural features and how their interactions affect the photocatalytic hydrogen production performance. In this work, various factors, including crystallinity, specific surface area associated with morphology, energy band gap and energy levels, surface charge, and hydrophilicity, were employed to investigate the structure–property–activity correlations of β-ketoenamine-linked covalent organic framework (TpPa-1-COF) for photocatalytic H2 production, which could influence the light harvesting, charge separation and transfer, and surface catalytic active sites. By using different methods to prepare TpPa-1-COFs, we can regulate these influencing factors to investigate their relationship with activity. It is found that the TpPa-1-COF prepared by a molecular organization method (labeled as TpPa-1 (MO)) exhibits the highest photocatalytic H2 evolution activity compared with the TpPa-1-COF samples prepared by solvothermal methods using acetic acid (HOAc) as a catalyst (TpPa-1 (ST-HOAc)) and KOH solution as a catalyst (TpPa-1 (ST-KOH)), which is associated with the highest crystallinity, the optimal energy levels, the largest BET-specific surface area, and the best hydrophilicity for TpPa-1 (MO). Moreover, our findings suggest that the enhanced total photocatalytic H2 evolution efficiency (ηtotal) of TpPa-1 (MO) may be mainly attributed to the efficient separation and migration of photogenerated charges (η2) and the vibrant surface catalytic active sites (η3). Overall, this work provides some deep insights into the structure–property–activity relation of TpPa-1-COF photocatalysts, which offers valuable inspiration and guidance for the thoughtful design of COF-based photocatalysts for H2 evolution.    
+
+    
+
+## Expanding the Reaction Network of Ethylene Epoxidation on Partially Oxidized Silver Catalysts   
+
+OpenAlex: https://openalex.org/W4404513109    
+Open access: False
+    
+[Adhika Setiawan](https://openalex.org/A5008667355), [Tiancheng Pu](https://openalex.org/A5079636509), [Israel E. Wachs](https://openalex.org/A5066491588), [Srinivas Rangarajan](https://openalex.org/A5070042353), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04521.
     
 No abstract    
 

@@ -1,177 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Wed Nov 20 01:23:51 2024
+Created on Thu Nov 21 01:23:50 2024
 
-Found 133 results from 2024-11-13 to 2024-11-20
+Found 140 results from 2024-11-14 to 2024-11-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Directing the Electrode-Electrolyte Interface Towards Active
-  Nickel-Based Electrocatalysts for Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4404261170    
-Open access: True
-    
-[Ben Wang](https://openalex.org/A5067117399), [Tomohiro Fukushima](https://openalex.org/A5056676776), [Hiro Minamimoto](https://openalex.org/A5064297220), [Andrey Lyalin](https://openalex.org/A5074675507), [Kei Murakoshi](https://openalex.org/A5069703005), [Tetsuya Taketsugu](https://openalex.org/A5034117852), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.16715 ([pdf](http://arxiv.org/pdf/2410.16715)).
-    
-A comprehensive understanding of the electrode-electrolyte interface in energy conversion systems remains challenging due to the complex and multifaceted nature of interfacial processes. This complexity hinders the development of more efficient electrocatalysts. In this work, we propose a hybrid approach to the theoretical description of the OER process on nickel-iron-based oxyhydroxides ($\gamma$-Ni$_{1-x}$Fe$_x$OOH) electrodes in alkaline media as a model system. Multiple reaction pathways represented by the single- and dual-site mechanisms were investigated by taking into account the realistic structure of the catalyst, the doping, and the solvation effects using a simple and computationally feasible strategy. Accounting for the variable solvation effects considerably affects the predicted overpotential in a roughly linear relationship between overpotential and dielectric constant. By incorporating quantum chemical simulations with kinetic modeling, we demonstrate that tuning the local solvation environment can significantly enhance the OER activity, opening new routine ways for elucidation of the emerging issues of OER processes on transition metal oxide surfaces and design of cost-effective, efficient electrocatalytic systems.    
-
-    
-
-## Front Cover: Graphitic Carbon Nitride Structures on Carbon Cloth Containing Ultra‐ and Nano‐Dispersed NiO for Photoactivated Oxygen Evolution (ChemSusChem 21/2024)   
-
-OpenAlex: https://openalex.org/W4404263367    
-Open access: False
-    
-[Enrico Scattolin](https://openalex.org/A5098907336), [Mattia Benedet](https://openalex.org/A5054725527), [Gian Andrea Rizzi](https://openalex.org/A5064703073), [Alberto Gasparotto](https://openalex.org/A5086668589), [Oleg I. Lebedev](https://openalex.org/A5101715534), [Davide Barreca](https://openalex.org/A5012412084), [Chiara Maccato](https://openalex.org/A5081743161), ChemSusChem. 17(21)] 2024.https://doi.org/10.1002/cssc.202482101.
-    
-No abstract    
-
-    
-
-## Robust Dihydroxyacetone Production via Photoelectrochemical Glycerol Oxidation using Oxygen Vacant BiVO4 Photoanode   
-
-OpenAlex: https://openalex.org/W4404271363    
-Open access: False
-    
-[Yeji Lee](https://openalex.org/A5100746796), [Yeseul Jo](https://openalex.org/A5111258567), [Youn Jeong Jang](https://openalex.org/A5081044862), Journal of Materials Chemistry C. None(None)] 2024.https://doi.org/10.1039/d4tc04085f.
-    
-Photoelectrochemical conversion of glycerol into high-value dihydroxyacetone offers a sustainable approach via BiVO4 semiconductor materials, which manifest highly photoactive properties. However, dihydroxyacetone production poses a limitation due to poor charge...    
-
-    
-
-## Metal Single Atom‐Hydroxyl Incorporation in Poly(heptazine imide) to Create Active Sites for Photocatalytic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4404273304    
-Open access: False
-    
-[Wenxuan Hu](https://openalex.org/A5034717070), [Aifeng Li](https://openalex.org/A5102005788), [Haiping Li](https://openalex.org/A5100674775), [Yu Wang](https://openalex.org/A5100445197), [Zhenzhong Fan](https://openalex.org/A5103145950), [Quanhua Deng](https://openalex.org/A5017236362), [Guoan Wang](https://openalex.org/A5040500517), [Yuguo Xia](https://openalex.org/A5103244018), [Wanguo Hou](https://openalex.org/A5108431225), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408436.
-    
-Abstract Poly(heptazine imide) (PHI) salts are extensively researched crystalline carbon nitride photocatalysts, but their photocatalytic water oxidation (PWO) performance is scarcely researched because of the difficulty in creating efficient active sites. Interference of metal ion (e.g., Na + and K + ) loss from the PHI salts in their PWO research has hardly been considered. Herein, metal single atom─OH (e.g., Co─OH) groups are incorporated into PHI to create efficient PWO active sites, via simple ion metathesis, hydrolysis, and deprotonation. The Co─OH modified PHI exhibits 9.3‐fold higher PWO (oxygen evolution) activity than PHI, with an external quantum yield reaching 0.44% even at 600 nm. Excluding interference of the metal ion loss, the function of the Co─OH incorporation is evidenced mainly to facilitate the oxygen evolution reaction, as well as to promote photogenerated charge separation and raise visible light absorption, with the role of the OH especially revealed. Moreover, it is discovered that Na + loss from sodium PHI will decrease its PWO activity, protonation of PHI has a detrimental effect on its PWO performance, and some other metal single atom─OH incorporation in PHI can also enhance its PWO activity. Overall, this work provides a general way to create PWO active sites in PHI.    
-
-    
-
-## Highly Active Oxygen Evolution Reaction of NiMoO4 Sub‐1 nm Nanowires Boosts Luminol Electrochemiluminescence   
-
-OpenAlex: https://openalex.org/W4404275027    
-Open access: False
-    
-[Hao Zang](https://openalex.org/A5057065744), [Dong Mei Wang](https://openalex.org/A5109582461), [Wen Dai](https://openalex.org/A5112635615), [Lin Chen](https://openalex.org/A5100443709), [Yi‐Ting Wang](https://openalex.org/A5102810576), [Qiang Wang](https://openalex.org/A5100367016), [Li Wang](https://openalex.org/A5100322864), [Gao Chen](https://openalex.org/A5101436166), [Jia Li](https://openalex.org/A5108050435), [Jia Xie](https://openalex.org/A5102510038), [Hong Yan Zou](https://openalex.org/A5061143591), [Cheng Huang](https://openalex.org/A5100678436), [Yuan Fang Li](https://openalex.org/A5112747084), [Shu Jun Zhen](https://openalex.org/A5061499123), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407321.
-    
-Abstract In recent years, there has been an increasing research focus on the luminol–H 2 O electrochemiluminescence (ECL) system due to its ability to address the instability and toxicity of H 2 O 2 , which are common issues associated with the conventional luminol–H 2 O 2 ECL system. To enhance the ECL efficiency of the luminol–H 2 O system, researchers have developed electrocatalytic materials with exceptional oxygen evolution reaction (OER) properties to facilitate water electrolysis into O 2 to produce reactive oxygen species (ROS) and act as co‐reactant promoters. However, most of these materials are characterized by their nanoscale or microscale dimensions, resulting in relatively large sizes and low specific surface areas, which hinder the application of the luminol–H 2 O system. To address this challenge, nickel molybdate sub‐1 nm nanowires (NiMoO 4 S1 NWs) with a large specific surface area is synthesized that can offer many active sites to enhance the performance of the OER to boost the ECL of luminol. This study demonstrates that the large amount of ROS generated by the OER of NiMoO 4 S1 NWs play a crucial role in enhancing the ECL intensity of luminol. Finally, a NiMoO 4 S1 NWs‐based ECL biosensor for the highly sensitive detection of the nucleocapsid proteins of SARS‐CoV‐2 is successfully constructed.    
-
-    
-
-## Potential-Driven Coordinated Oxygen Migration in an Electrocatalyst for Sustainable H2O2 Synthesis   
-
-OpenAlex: https://openalex.org/W4404276344    
-Open access: False
-    
-[Zhiping Deng](https://openalex.org/A5075369470), [Song Jin](https://openalex.org/A5046560539), [Mingxing Gong](https://openalex.org/A5022215689), [Ning Chen](https://openalex.org/A5015251883), [Weifeng Chen](https://openalex.org/A5100749976), [Min Ho Seo](https://openalex.org/A5087537676), [Xiaolei Wang](https://openalex.org/A5037323808), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c11307.
-    
-Local coordination environment (LCE) manipulation has emerged as a significant approach for modulating the electrocatalytic behavior of low-dimensional nanomaterials. However, challenges persist in accurately identifying active sites and understanding dynamic changes during operation. Here, we underscore the influence of LCE on the electrochemical production of H    
-
-    
-
-## Review for "Scalable Synthesis of N–Doped Graphene–Oxide–Supported FeCo(OH)x Nanosheets for Efficient Co–Doped Fe3O4 Nanoparticle-Based Oxygen Reduction Reaction Electrocatalysis"   
-
-OpenAlex: https://openalex.org/W4404286406    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta06684g/v1/review2.
-    
-No abstract    
-
-    
-
-## Decision letter for "Scalable Synthesis of N–Doped Graphene–Oxide–Supported FeCo(OH)x Nanosheets for Efficient Co–Doped Fe3O4 Nanoparticle-Based Oxygen Reduction Reaction Electrocatalysis"   
-
-OpenAlex: https://openalex.org/W4404286856    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta06684g/v2/decision1.
-    
-No abstract    
-
-    
-
-## Engineering MXene Surface via Oxygen Functionalization and Au Nanoparticle Deposition for Enhanced Electrocatalytic Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4404287069    
-Open access: False
-    
-[Mengrui Li](https://openalex.org/A5102364937), [Xiaoxiao Dong](https://openalex.org/A5100298097), [Qinzhu Li](https://openalex.org/A5037411115), [Yaru Liu](https://openalex.org/A5101739561), [Shuang Cao](https://openalex.org/A5076759275), [Chun‐Chao Hou](https://openalex.org/A5001066988), [Tong Sun](https://openalex.org/A5101566713), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202401569.
-    
-Abstract MXene, a family of 2D transition metal carbides and nitrides, presents promising applications in electrocatalysis. Maximizing its large surface area is key to developing efficient non‐noble‐metal catalysts for the hydrogen evolution reaction (HER). In this study, oxygen‐functionalized Ti 3 C 2 T x MXene (Ti 3 C 2 O x ) is synthesized and deposited gold nanoparticles (Au NPs) onto it, forming a novel composite material, Au‐Ti 3 C 2 O x . By selectively removing other functional groups, mainly ‐O functional groups are retained on the surface, directing electron transfer from Au NPs to MXene due to electronic metal‐support interaction (EMSI), thereby improving the catalytic activity of the MXene surface. Additionally, the interaction between Au NPs and ‐O functional groups further enhanced the overall catalytic activity, achieving an overpotential of 62 mV and a Tafel slope of 40.1 mV dec −1 at a current density of −10 mA cm −2 in 0.5 m H 2 SO 4 solution. Density functional theory calculations and scanning electrochemical microscopy with ≤150 nm resolution confirmed the enhanced catalytic efficiency due to the specific interaction between Au NPs and Ti 3 C 2 O x . This work provides a surface modification strategy to fully utilize the MXene surface and enhance the overall catalytic activity of MXene‐based catalysts.    
-
-    
-
-## Oxygen coverage effect promotes oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4404290086    
-Open access: True
-    
-[Hsin-Hung Lin](https://openalex.org/A5061468887), [Peng Fei Liu](https://openalex.org/A5038216739), [Hua Gui Yang](https://openalex.org/A5100770981), Chemical Synthesis. 4(4)] 2024.https://doi.org/10.20517/cs.2024.123.
-    
-No abstract    
-
-    
-
-## Fluorine‐Induced Lattice Oxygen Participation in 2D Layered Double Hydroxide/MXene Hybrids for Efficient Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4404291185    
-Open access: True
-    
-[Chengang Pei](https://openalex.org/A5074088539), [Min‐Cheol Kim](https://openalex.org/A5100745732), [Unbeom Baeck](https://openalex.org/A5069633088), [Won Tae Hong](https://openalex.org/A5026287233), [Jong Hun Kim](https://openalex.org/A5109220675), [Hyungu Han](https://openalex.org/A5021249781), [Jaekyum Kim](https://openalex.org/A5065307714), [Sung‐Min Cho](https://openalex.org/A5100703053), [Yu Xu](https://openalex.org/A5100636199), [Jongwook Park](https://openalex.org/A5024663468), [Ho Seok Park](https://openalex.org/A5076348504), [Jung Kyu Kim](https://openalex.org/A5052472508), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202410812.
-    
-Abstract In oxygen evolution reaction (OER), the participation of lattice oxygen can break the limitation of adsorption evolution mechanism, but the activation of lattice oxygen remains a critical challenge. Herein, a surface fluorinated highly active 2D/2D FeNi layered double hydroxide/MXene (F‐LDH/MX) is demonstrated, boosting OER with the enhanced lattice‐oxygen‐mediated path. The introduction of fluorine promotes the self‐evolution of catalyst in an alkaline environment, even without an external current. It further accelerates the formation of active metal oxyhydroxides with abundant oxygen vacancies under the operating potential. The introduced oxygen vacancy activates the lattice oxygen, increasing the proportion of lattice oxygen mechanism in OER. Owing to the synergistic effects of the 2D/2D hierarchical structure and the modulated active surface, F‐LDH/MX possesses excellent electrochemical performances, including a low overpotential of 251 mV at 10 mA cm −2 , a low Tafel slope of 40.28 mV dec −1 , and robust stability. The water electrolyzer system with F‐LDH/MX as the anode offers the benchmark current density at a low cell voltage of 1.53 V, while the Zn‐air battery with F‐LDH/MX as the air electrode exhibits a higher power density of 75.43 mW cm −2 . This study presents a promising strategy to design highly active electrocatalysts for energy conversion and storage.    
-
-    
-
-## Oxygen vacancy-enriched CoPi/TiO2 nanotubes/WO3 electrode for enhanced photoelectrochemical water oxidation   
-
-OpenAlex: https://openalex.org/W4404293457    
-Open access: False
-    
-[Shujun Yu](https://openalex.org/A5058873525), [Ke Sun](https://openalex.org/A5011281368), [Guangyu Fang](https://openalex.org/A5023477338), [Jinsheng Feng](https://openalex.org/A5102945243), [Qiaonan Yu](https://openalex.org/A5078481241), [Junling Chen](https://openalex.org/A5101867213), [Pengcheng Wu](https://openalex.org/A5100606188), [Keliang Wu](https://openalex.org/A5010872059), Journal of Materials Science Materials in Electronics. 35(32)] 2024.https://doi.org/10.1007/s10854-024-13808-6.
-    
-No abstract    
-
-    
-
-## Seaweed-like Co-MOF/Cu(OH)2/CF composite as an advanced pre-catalyst for oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4404296204    
-Open access: False
-    
-[Liuyang Guo](https://openalex.org/A5007640780), [Qiming Jiang](https://openalex.org/A5016406465), [Shanjing Liu](https://openalex.org/A5009325870), [Zhi Zeng](https://openalex.org/A5043745902), [Xingmei Guo](https://openalex.org/A5037822353), [Xiangjun Zheng](https://openalex.org/A5104305966), [Yuanjun Liu](https://openalex.org/A5100624279), [Qianqian Fan](https://openalex.org/A5040816749), [Zhongyao Duan](https://openalex.org/A5063112948), [Chunsheng Li](https://openalex.org/A5100440504), [Junhao Zhang](https://openalex.org/A5100664142), International Journal of Hydrogen Energy. 94(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.11.087.
-    
-No abstract    
-
-    
-
-## The effect of particle size on structural and catalysts for oxygen evolution reaction of (CoFeNiMnCr)3O4 prepared by controlled synthesis with polyvinylpyrrolidone (PVP)   
-
-OpenAlex: https://openalex.org/W4404297459    
-Open access: False
-    
-[Ricardo Francisco Alves](https://openalex.org/A5048582626), [Rafael A. Raimundo](https://openalex.org/A5001528670), [Bruno Alessandro Silva Guedes de Lima](https://openalex.org/A5027318673), [Francisco J.A. Loureiro](https://openalex.org/A5090398034), [Duncan P. Fagg](https://openalex.org/A5029311553), [Daniel A. Macedo](https://openalex.org/A5069774051), [Uílame Umbelino Gomes](https://openalex.org/A5090218474), [Marco A. Morales](https://openalex.org/A5088882865), Journal of Colloid and Interface Science. 680(None)] 2024.https://doi.org/10.1016/j.jcis.2024.11.068.
-    
-No abstract    
-
-    
-
-## In situ Raman Monitoring of Surface Structures and Oxygen Species on Ni(OH)2/Au/Nickel Foam During Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4404299144    
-Open access: False
-    
-[Xiaocong Ma](https://openalex.org/A5102702824), [Zhou Yu](https://openalex.org/A5111563314), [Yali Zhang](https://openalex.org/A5060998330), [Jie Jin](https://openalex.org/A5047488872), [Jianping Li](https://openalex.org/A5100659063), [Xu-Liang Fan](https://openalex.org/A5006580383), [Qiang Wan](https://openalex.org/A5010849294), [Ju‐Fang Zheng](https://openalex.org/A5100943960), [Xiao‐Shun Zhou](https://openalex.org/A5017502417), [Yahao Wang](https://openalex.org/A5075778401), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c05471.
-    
-No abstract    
-
-    
 
 ## Iron-Based Layered Perovskite Oxyfluoride Electrocatalyst for Oxygen Evolution: Insights from Crystal Facets with Heteroanionic Coordination   
 
@@ -690,17 +524,6 @@ No abstract
 
     
 
-## Cobalt nanoclusters Deposit on Nitrogen-Doped graphene Sheets as bifunctional electrocatalysts for high performance lithium – Oxygen batteries   
-
-OpenAlex: https://openalex.org/W4404297677    
-Open access: False
-    
-[Raja Palani](https://openalex.org/A5005907987), [Yi‐Shiuan Wu](https://openalex.org/A5007353672), [She–Huang Wu](https://openalex.org/A5087838064), [Jeng‐Kuei Chang](https://openalex.org/A5077782262), [Rajan Jose](https://openalex.org/A5005378355), [Chun‐Chen Yang](https://openalex.org/A5058388363), Journal of Colloid and Interface Science. 680(None)] 2024.https://doi.org/10.1016/j.jcis.2024.11.066.
-    
-No abstract    
-
-    
-
 ## Breaking the capacity bottleneck of lithium-oxygen batteries through reconceptualizing transport and nucleation kinetics   
 
 OpenAlex: https://openalex.org/W4404446640    
@@ -767,6 +590,138 @@ Oxygen evolution reaction (OER) is a key electrochemical redox reaction involved
 
     
 
+## Interface Engineering of Network‐Like 1D/2D (NHCNT/Ni─MOF) Hybrid Nanoarchitecture for Electrocatalytic Water Splitting   
+
+OpenAlex: https://openalex.org/W4404473833    
+Open access: False
+    
+[Mrunal Bhosale](https://openalex.org/A5068963618), [Nagaraj Murugan](https://openalex.org/A5101623881), [Yoong Ahm Kim](https://openalex.org/A5005760245), [Sadhasivam Thangarasu](https://openalex.org/A5051943320), [Tae Hwan Oh](https://openalex.org/A5029047892), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202401492.
+    
+Here, integrated functional components into a hybrid heterostructure via highly stabilized network-like interconnected electronic nanoarchitecture of 1D N-doped holey-carbon nanotube (NHCNT) with 2D nickel─metal-organic framework (Ni─MOF) nanosheets are developed as high-performance electrocatalyst for overall water splitting. The NHCNT promoting electron transport pathways in electrocatalyst, and formation of holes in nanotubes further enables excellent diffusion of ions for promoting the overall reaction rate. An excellent combination of 1D/2D structure of NHCNT/Ni─MOF-4 electrocatalyst exhibits excellent oxygen evolution reaction (η    
+
+    
+
+## Interfacial Action of Co-Doped MoS2 Nanosheets on Directional Piezoelectric Catalytic Generation of Reactive Oxygen Species   
+
+OpenAlex: https://openalex.org/W4404486316    
+Open access: True
+    
+[Win Thi Yein](https://openalex.org/A5089985469), [Dongsu Kim](https://openalex.org/A5100743873), [Qun Wang](https://openalex.org/A5100337799), No host. None(None)] 2024.https://doi.org/10.3390/chemproc2024015003.
+    
+Molybdenum disulfide (MoS2) with single- and odd-numbered layers is a novel piezocatalyst, and its piezocatalytic molecular oxygen activation is considered a promising and low-cost strategy for environmental remediation. In this study, the odd-numbered layers of Co-doped MoS2 ultrathin nanosheets were successfully fabricated, which decomposed tetracycline by 99.8% in 15 min through shaking vibration. Moreover, to verify the enhanced piezoelectric catalytic activity of MoS2 via the doping effect, molecular oxygen activation properties were predicted through DFT calculation and monitored by generated reactive oxygen species (ROS) evolution. In addition, the primary reactive species responsible for the degradation of tetracycline pollutants were also investigated in detail.    
+
+    
+
+## Development of heterostructured ZnCo2O4@Ni-MOF electrode for the asymmetric supercapacitor and electrocatalytic oxygen evolution reaction applications   
+
+OpenAlex: https://openalex.org/W4404489081    
+Open access: False
+    
+[Gita B. Bhanuse](https://openalex.org/A5070349304), [Sanath Kumar](https://openalex.org/A5017163737), [Chung-Jen Chien](https://openalex.org/A5080161643), [Yen‐Pei Fu](https://openalex.org/A5052308878), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145371.
+    
+No abstract    
+
+    
+
+## Electrocatalytic Oxygen Self-Sufficiency System Enables Singlet Oxygen Production for Water Decontamination   
+
+OpenAlex: https://openalex.org/W4404494616    
+Open access: False
+    
+[Zhou Zhou](https://openalex.org/A5100359934), [Yingang Xue](https://openalex.org/A5110807187), [Xia Xu](https://openalex.org/A5103212802), [Wenhao Hu](https://openalex.org/A5074406685), [Yu Wu](https://openalex.org/A5101849311), [Min Shen](https://openalex.org/A5109653794), [Xuefeng Liu](https://openalex.org/A5100400570), ACS ES&T Water. None(None)] 2024.https://doi.org/10.1021/acsestwater.4c00848.
+    
+Electrochemical advanced oxidation process represents a promising strategy for water decontamination, but the parasitic anodic side oxygen evolution reaction always causes a low energy utilization efficiency. In this study, we address this limitation of developing an electrocatalytic oxygen self-sufficiency system. This system established an integrated electrocatalytic process that ran solely on O2 produced by anodic oxygen evolution, followed by transformation of O2 into H2O2 at the nanoconfined Fe2O3 cathode, which then led to the generation of 1O2. The performance of water decontamination was evaluated using tetracycline (TC), bisphenol A (BPA), and perfluorooctanoic acid (PFOA) as model emerging contaminants. When anodic polarization was applied at 2.0 V vs the standard hydrogen electrode, the removal of TC, BPA, and PFOA with a flow rate of 10 mL min–1 could reach 90.1%, 92.1%, and 62.2%, respectively. Electron spin resonance and radical quenching results indicated 1O2 as the main reactive oxygen species for TC and BPA decomposition, whereas PFOA decomposition was contributed by direct electron transfer. The intermediate toxicity was predicted to be reduced, and the excellent anti-interference ability of this system was proved in actual water. These findings suggest a reagent-free and oxygen-dependent sustainable system for water decontamination.    
+
+    
+
+## FeNi-Based Aerogels Containing FeNi3 Nanoclusters Embedded with a Crystalline–Amorphous Heterojunction as High-Efficiency Oxygen Evolution Catalysts   
+
+OpenAlex: https://openalex.org/W4404497521    
+Open access: True
+    
+[Tao Li](https://openalex.org/A5028635523), [Jiahui Chen](https://openalex.org/A5101812600), [Zihao Song](https://openalex.org/A5109119591), [Shujie Zhong](https://openalex.org/A5016144622), [Wei Ma](https://openalex.org/A5100392071), Molecules. 29(22)] 2024.https://doi.org/10.3390/molecules29225429.
+    
+In green hydrogen production via water electrolysis, catalysts with multiscale nanostructures synthesized by compositing micro-heterojunctions and nanoporous structures exhibit excellent electrocatalytic oxygen evolution reaction (OER) performance. Moreover, they are the most promising non-noble metal catalysts. Herein, FeNi-based aerogels with a three-dimensional nanoporous structure and amorphous matrix embedded with FeNi3 nanoclusters were synthesized via wet chemical reduction coprecipitation. The FeNi3 nanoclusters and the FeNi-based amorphous matrix formed a crystalline–amorphous heterojunction. These aerogels exhibited excellent OER performance and electrocatalytic stability in alkaline electrolytes. In 1 mol/L of KOH electrolyte, the as-synthesized aerogel exhibited an overpotential of 262 mV at a current density of 20 mA cm−2 with a Tafel slope of only 46 mV dec−1. It also demonstrated excellent stability during a 12 h chronopotentiometry test.    
+
+    
+
+## Co-MOF-derived core-shell CoP@Co3O4 nanoparticle loaded N-doped graphene: An efficient catalyst for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4404499262    
+Open access: False
+    
+[Xian-Chen Meng](https://openalex.org/A5044789464), [Jian Luan](https://openalex.org/A5051287176), [Lei Zhu](https://openalex.org/A5100394072), [Yuhao Sheng](https://openalex.org/A5030678918), [Fu-Yu Guo](https://openalex.org/A5113299150), [Peng Zheng](https://openalex.org/A5046422113), [Wen-Long Duan](https://openalex.org/A5102144911), [Wen‐Ze Li](https://openalex.org/A5080227367), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta07696f.
+    
+Metal-organic frameworks (MOFs) and their derivatives have multiple advantages, such as controlled morphology and uniform distribution of elements, which can be served as a kind of excellent electrocatalyst. It is...    
+
+    
+
+## Unveiling the performance of ultrathin bimetallic CoxNi1−x(OH)2 nanosheets for pseudocapacitors and oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4404500794    
+Open access: False
+    
+[Pallavi B. Jagdale](https://openalex.org/A5060355459), [Sayali Ashok Patil](https://openalex.org/A5054975537), [A. J. Pathak](https://openalex.org/A5022051010), [Mukaddar Sk](https://openalex.org/A5016107636), [Ranjit Thapa](https://openalex.org/A5028088995), [Amanda Sfeir](https://openalex.org/A5088499710), [Sébastien Royer](https://openalex.org/A5050480056), [Akshaya K. Samal](https://openalex.org/A5070896864), [Manav Saxena](https://openalex.org/A5056852381), Journal of Materials Chemistry A. None(None)] 2024.https://doi.org/10.1039/d4ta06846g.
+    
+Bimetallic Co–Ni hydroxide nanosheets for pseudocapacitors and oxygen evolution reaction.    
+
+    
+
+## Evaluating the effect of oxygen vacancies on the OER activity of LaNiO3   
+
+OpenAlex: https://openalex.org/W4404506579    
+Open access: False
+    
+[Chuanmu Tian](https://openalex.org/A5051788024), [Danni Wang](https://openalex.org/A5100628463), [Kelvin H. L. Zhang](https://openalex.org/A5013071052), [Jan P. Hofmann](https://openalex.org/A5039183696), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-40vsz.
+    
+In this work, we have investigated the effect of oxygen vacancies on the surface composition, electronic structure and OER performance of LaNiO3. The results show that the OER performance of LaNiO3 can be improved both by lowering the oxygen partial pressure during film growth or annealing the thin film in H2 atmosphere. X-ray photoemission spectroscopy (XPS) shows a significant increase in La ratio on the LaNiO3 surface after the introduction of oxygen defects, especially after H2 treatment where Ni/La reaches 3.5:1. The presence of oxygen vacancies leads to the aggregation of Ni on the surface of LaNiO3, which plays a crucial role in enhancing the OER performance of LaNiO3. In addition, the OER activity of both LaNiO3 and oxygen vacancy rich LaNiO3 decreases upon cyclic voltammetry (CV) between +1.0 V and +1.5 V vs. RHE with proceeding cycle numbers. XPS results reveal that the CV treatments lead to the decrease of Ni concentration at the LaNiO3 surface, which is an important factor for the decrease in the OER performance of LaNiO3 as well as oxygen vacancy rich LaNiO3.    
+
+    
+
+## Breaking the Mutual‐Constraint of Bifunctional Oxygen Electrocatalysis via Direct O─O Coupling on High‐Valence Ir Single‐Atom on MnOx   
+
+OpenAlex: https://openalex.org/W4404506748    
+Open access: False
+    
+[Ziyi Yang](https://openalex.org/A5012198854), [Fayuan Lai](https://openalex.org/A5112711792), [Qianjiang Mao](https://openalex.org/A5090228636), [Chong Liu](https://openalex.org/A5100412251), [Shengjie Peng](https://openalex.org/A5034879972), [Xiangfeng Liu](https://openalex.org/A5058350031), [Tianran Zhang](https://openalex.org/A5013342444), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202412950.
+    
+Abstract Insufficient bifunctional activity of electrocatalysts for oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) is the major obstruction to the application of rechargeable metal–air batteries. The primary reason is the mutual constraint of ORR and OER mechanism, involving the same oxygen‐containing intermediates and demonstrating the scaling limitations of the adsorption energies. Herein, it is reported a high‐valence Ir single atom anchored on manganese oxide (Ir SA ‐MnO x ) bifunctional catalyst showing independent pathways for ORR and OER, i.e., associated 4e − pathway on high‐valence Ir site for ORR and a novel chemical‐activated concerted mechanism for OER, where a distinct spontaneous chemical activation process triggers direct O ─ O coupling. The Ir SA ‐MnO x therefore delivers outstanding bifunctional activities with remarkably low potential difference (0.635 V) between OER potential at 10 mA cm −2 and ORR half‐wave potential in alkaline solution. This work breaks the scaling limitations and provides a new avenue to design efficient and multifunctional electrocatalysts.    
+
+    
+
+## Se‐Doped CoS2@MoS2 Heterostructures on Multiwalled Carbon Nanotubes as Efficient Bifunctional Electrocatalysts for Alkaline Overall Water Splitting   
+
+OpenAlex: https://openalex.org/W4404507176    
+Open access: False
+    
+[Y.‐B. Jiang](https://openalex.org/A5040856209), [Xuguang An](https://openalex.org/A5061326158), [Yong‐Min Liang](https://openalex.org/A5101814743), [Feng Wang](https://openalex.org/A5078554714), [Abdukader Abdukayum](https://openalex.org/A5068816309), [Qingquan Kong](https://openalex.org/A5074131487), [Sanshuang Gao](https://openalex.org/A5037393188), [Guangzhi Hu](https://openalex.org/A5053355651), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407049.
+    
+Abstract The use of efficient and affordable non‐precious metal catalysts for hydrogen and oxygen evolution reactions is vital for replacing and widely implementing new energy sources. Nevertheless, improving the catalytic performance of these non‐precious‐metal bifunctional electrocatalysts continues to be a major challenge. In this article, an optimized Se‐incorporated bulk CoS 2 @MoS 2 heterostructure grown on the surface of carbon nanotubes is reported. The resulting Se‐CoS 2 @MoS 2 /CNTs exhibit robust bifunctional electrocatalytic performance, with low overpotentials of 85 and 240 mV @ 10 mA·cm −2 for HER and OER, respectively. The materials exhibit superior long‐term stability of over 145 h, surpassing most electrocatalysts of similar type. This enhanced performance is attributed to the synergistic effect at the interface between the MoS 2 and CoS 2 phases, abundant active sites, and high active surface area, which collectively improves the electron‐transfer efficiency during the reaction process. Furthermore, the incorporation of the amorphous state of Se into the heterostructure yields a change in the crystallinity of the heterostructure in the electronic structure, which optimizes the adsorption and activation energy barriers of the catalytic intermediate. This study thus presents a promising approach to regulating anion doping in bifunctional electrocatalysts.    
+
+    
+
+## MXene Electrocatalysts: Transformative Approaches in Hydrogen Production with Alternative Anode Reactions   
+
+OpenAlex: https://openalex.org/W4404507611    
+Open access: False
+    
+[Sreenisa Sundarraj](https://openalex.org/A5114702925), [Neshanth Vadivel](https://openalex.org/A5093380037), [Arun Prasad Murthy](https://openalex.org/A5016219196), [Jayaraman Theerthagiri](https://openalex.org/A5034642303), [Myong Yong Choi](https://openalex.org/A5067975222), Small. None(None)] 2024.https://doi.org/10.1002/smll.202407120.
+    
+Abstract Water electrolyzer is crucial for producing clean hydrogen, but the traditional approach faces challenges owing to the oxygen evolution reaction (OER) slow kinetics at the anode. Hybrid water splitting replaces the OER with the oxidation of an organic molecule to enhance hydrogen production along with value‐added products. The scarcity of affordable and highly effective catalysts remains a major challenge. MXene, a 2D nanomaterial, has gained substantial attention for its enviable properties, for instance high conductivity, hydrophilicity, and substantial surface area. This review discusses experimental methods for synthesizing MXene and MXene‐based nanocomposites. Furthermore, the small molecules oxidation such as benzyl alcohol, methanol, ethanol, urea, hydrazine, furfural, and formic acid as alternatives to the oxygen evolution reaction is examined. Finally, an understanding of imminent research and the development of MXene‐associated materials in electrocatalytic applications are presented.    
+
+    
+
+## Unveiling the Dual Potential of the MoS2@VS2 Nanocomposite as an Efficient Electrocatalyst for Hydrogen and Oxygen Evolution Reactions   
+
+OpenAlex: https://openalex.org/W4404513241    
+Open access: False
+    
+[Joshi Anju](https://openalex.org/A5072950018), [Levna Chacko](https://openalex.org/A5034896543), [T. Sruthi](https://openalex.org/A5104632388), [P Gopika](https://openalex.org/A5114705523), [Vincent Mathew](https://openalex.org/A5001809722), [P. M. Aneesh](https://openalex.org/A5053756580), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.4c02504.
+    
+No abstract    
+
+    
+
 ## Activity–Stability Relationships in Oxygen Evolution Reaction   
 
 OpenAlex: https://openalex.org/W4404410584    
@@ -811,25 +766,14 @@ Catalysts capable of overcoming the bottleneck of water splitting, known as the 
 
     
 
-## Unveiling the effect of codoping in strontium ferrite for oxygen evolution in alkaline media   
+## Computational screening on azafullerene-supported bifunctional single-atom catalysts for oxygen evolution and reduction reactions   
 
-OpenAlex: https://openalex.org/W4404303214    
+OpenAlex: https://openalex.org/W4404503126    
 Open access: False
     
-[Shuangshuang Zhu](https://openalex.org/A5068364292), [Mingyuan Wang](https://openalex.org/A5100692038), [Yuguang Mao](https://openalex.org/A5113719091), [Jiayuan Wang](https://openalex.org/A5101696740), [Jiabao Ding](https://openalex.org/A5072436218), [Guiwu Liu](https://openalex.org/A5018055096), [Weifeng Zhang](https://openalex.org/A5100426687), Chemical Communications. None(None)] 2024.https://doi.org/10.1039/d4cc04145c.
+[Mo Xiong](https://openalex.org/A5112305672), [Tao Yang](https://openalex.org/A5100719205), Physical Chemistry Chemical Physics. None(None)] 2024.https://doi.org/10.1039/d4cp03608e.
     
-Co and Ni codoped strontium ferrite particles were prepared by a solid-state strategy and employed as catalysts for OER. It exhibits a Tafel slope of 55 mV dec -1 and requires...    
-
-    
-
-## Elucidating the superwetting FeOOH-modified NiMoO4 electrodes for efficient alkaline oxygen evolution reaction: An in-situ spectroscopy study   
-
-OpenAlex: https://openalex.org/W4404281349    
-Open access: False
-    
-[Hongru Hao](https://openalex.org/A5088716973), [Jiahui Wang](https://openalex.org/A5100446912), [Zhe Wang](https://openalex.org/A5100649808), [Shuo Shen](https://openalex.org/A5101696241), [Lingling Xu](https://openalex.org/A5016082953), [Zhe Lv](https://openalex.org/A5102701460), [Bo Wei](https://openalex.org/A5085459146), Applied Catalysis B Environment and Energy. 363(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124814.
-    
-No abstract    
+Developing efficient bifunctional catalysts toward both oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) remains challenging. Herein, we systematically explored the catalytic activity of single-atom catalysts (SACs) for OER...    
 
     
 
@@ -852,17 +796,6 @@ Open access: True
 [Lisa Heymann](https://openalex.org/A5075656446), [Iris C. G. van den Bosch](https://openalex.org/A5031042160), [Daan Harm Wielens](https://openalex.org/A5022578960), [Ole Kurbjeweit](https://openalex.org/A5114673748), [Emma van der Minne](https://openalex.org/A5021753479), [Ellen M. Kiens](https://openalex.org/A5040664369), [Anton Kaus](https://openalex.org/A5114673749), [Daniel Schön](https://openalex.org/A5001956518), [Stephan Menzel](https://openalex.org/A5070287728), [Bernard A. Boukamp](https://openalex.org/A5070762365), [Felix Gunkel](https://openalex.org/A5029467045), [Christoph Baeumer](https://openalex.org/A5003154231), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-6mgpj ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6735c0535a82cea2fa167ac7/original/revealing-the-intrinsic-oxygen-evolution-reaction-activity-of-perovskite-oxides-across-conductivity-ranges-using-thin-film-model-systems.pdf)).
     
 The development of efficient electrocatalysts in water electrolysis is essential to decrease the high overpotentials especially at the anode where the oxygen evolution reaction (OER) takes place. However, establishing catalyst design rules to find optimal electrocatalysts is a substantial challenge. Complex oxides, which are often considered as suitable OER catalysts, can exhibit vastly different conductivity values, making it challenging to separate intrinsic catalytic activities from internal transport limitations. Here, we systematically decouple the limitations arising from electrical bulk resistivity, contact resistances to the catalyst support, and intrinsic OER catalytic properties using a systematic epitaxial thin film model catalyst approach. We investigate the influence of the resistivity of the three perovskite oxides LaNiO3-δ (3.7x10-4 Ωcm), La0.67Sr0.33MnO3-δ (2.7x10-3 Ωcm) and La0.6Ca0.4FeO3-δ, (0.57 Ωcm) on the observed catalytic activity. We tune the electron pathway through the catalyst bulk by comparing insulating and conductive substrates. The conducting substrate reduces the electron pathway through the catalyst bulk from millimeter to nanometer length scale. As we show, for the large electron pathways, the observed catalytic activity scales with the resistivity because of a highly inhomogeneous lateral current density distribution. At the same time, even on the conducting substrate (Nb-doped SrTiO3), large contact resistances occur that limit the determination of intrinsic catalytic properties. By inserting interfacial dipole layers (in this case LaAlO3) we lifted these interface resistances, allowing us to reveal the intrinsic catalytic properties of all examined catalysts. We find that La0.6Ca0.4FeO3-δ and LaNiO3-δ exhibit a similar intrinsic overpotential of 0.36 V at 0.1 mA/cm2, while their resistivities differ by three orders of magnitude. This finding shows that optimizing the electron pathway of OER catalyst can lead the way to find new structure-activity relationships and to identify high-activity catalysts even if the electronic resistance is high.    
-
-    
-
-## Commercial Fe-Ni-Cr alloys as highly active and low-cost oxygen evolution reaction catalyst in alkaline media   
-
-OpenAlex: https://openalex.org/W4404309933    
-Open access: False
-    
-[Lucile Magnier](https://openalex.org/A5013223845), [Garance Cossard](https://openalex.org/A5092549857), [Éric Sibert](https://openalex.org/A5021022410), [Valérie Parry](https://openalex.org/A5090839485), [Marian Chatenet](https://openalex.org/A5047512137), No host. None(None)] 2024.None.
-    
-No abstract    
 
     
 
@@ -894,17 +827,6 @@ OpenAlex: https://openalex.org/W4404428323
 Open access: False
     
 , No host. None(None)] 2024.https://doi.org/10.1039/d4qm00555d/v1/review1.
-    
-No abstract    
-
-    
-
-## Keys to Unravel the Stability/Durability Issues of Platinum-Group-Metal Catalysts toward Oxygen Evolution Reaction for Acidic Water Splitting   
-
-OpenAlex: https://openalex.org/W4404301210    
-Open access: True
-    
-[Yangdong Zhou](https://openalex.org/A5060114892), [Weijia Guo](https://openalex.org/A5057640019), [Lixin Xing](https://openalex.org/A5102611717), [Zhun Dong](https://openalex.org/A5082158346), [Yunsong Yang](https://openalex.org/A5104281217), [Lei Du](https://openalex.org/A5050325200), [Xiaohong Xie](https://openalex.org/A5081958813), [Siyu Ye](https://openalex.org/A5010821432), ACS Central Science. None(None)] 2024.https://doi.org/10.1021/acscentsci.4c01363.
     
 No abstract    
 
@@ -965,6 +887,17 @@ No abstract
 
     
 
+## Recent advances in noble-metal-free bifunctional oxygen electrode catalysts   
+
+OpenAlex: https://openalex.org/W4404486799    
+Open access: True
+    
+[Hengqi Liu](https://openalex.org/A5086532137), [Rui Xiong](https://openalex.org/A5101367814), [Shengyu Ma](https://openalex.org/A5030562410), [Ran Wang](https://openalex.org/A5100447500), [Zhiguo Liu](https://openalex.org/A5100636193), [Tai Yao](https://openalex.org/A5101022084), [Bo Song](https://openalex.org/A5006913021), Energy Advances. None(None)] 2024.https://doi.org/10.1039/d4ya00551a.
+    
+The oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) are crucial reactions in a range of energy storage. However, the sluggish rate of these oxidation electrode reactions and the...    
+
+    
+
 ## Gamma-rays induced strong coupling between Ru nanoparticle and cobalt-based metal organic framework nanolayer for methanol oxidation and hydrogen evolution   
 
 OpenAlex: https://openalex.org/W4404390003    
@@ -987,25 +920,14 @@ Developing a cost-effective and commercially viable catalyst from non-noble meta
 
     
 
-## Hierarchical ZnCoS@CoFe-layered double hydroxide on Ni foam to enhance the OER performance for water splitting   
+## Electrochemically engineered layer of γ-NiOOH with FeOOH on nickel foam for durable OER catalysis for anion exchange membrane water electrolysis   
 
-OpenAlex: https://openalex.org/W4404282029    
-Open access: False
+OpenAlex: https://openalex.org/W4404503374    
+Open access: True
     
-[Tianyun Li](https://openalex.org/A5074731531), [Zhongxiao Chen](https://openalex.org/A5062540734), [Chunping Dong](https://openalex.org/A5016215163), [Dan Wang](https://openalex.org/A5100411855), [Wenchang Wang](https://openalex.org/A5101631683), [Xueling Shan](https://openalex.org/A5001454987), [Zhidong Chen](https://openalex.org/A5100459378), New Journal of Chemistry. None(None)] 2024.https://doi.org/10.1039/d4nj03986f.
+[Sreekanth Narayanaru](https://openalex.org/A5063162342), [Hidenori Kuroki](https://openalex.org/A5035733720), [Takanori Tamaki](https://openalex.org/A5026155938), [Gopinathan M. Anilkumar](https://openalex.org/A5057275854), [Takeo Yamaguchi](https://openalex.org/A5020439739), RSC Sustainability. None(None)] 2024.https://doi.org/10.1039/d4su00538d.
     
-For sustainable energy generation technologies, improving the slow kinetics of the electrochemical oxygen evolution reaction (OER) is essential. In this study, a three-step hydrothermal-sulfidation-electrodeposition method was developed to prepare a...    
-
-    
-
-## Regulation of Oxide Pathway Mechanism for Sustainable Acidic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4404283747    
-Open access: False
-    
-[Xuejie Cao](https://openalex.org/A5071631246), [Hongye Qin](https://openalex.org/A5039881332), [Jinyang Zhang](https://openalex.org/A5100648796), [Xiaojie Chen](https://openalex.org/A5100733432), [Lifang Jiao](https://openalex.org/A5014197896), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c12942.
-    
-The advancement of acid-stable oxygen evolution reaction (OER) electrocatalysts is crucial for efficient hydrogen production through proton exchange membrane (PEM) water electrolysis. Unfortunately, the activity of electrocatalysts is constrained by a linear scaling relationship in the adsorbed evolution mechanism, while the lattice-oxygen-mediated mechanism undermines stability. Here, we propose a heterogeneous dual-site oxide pathway mechanism (OPM) that avoids these limitations through direct dioxygen radical coupling. A combination of Lewis acid (Cr) and Ru to form solid solution oxides (Cr    
+An efficient and durable oxygen evolution reaction catalyst is essential for the advancement of anion exchange membrane water electrolyzer. Here we report a simple, rapid, and cost-effective two-step electrochemical synthesis...    
 
     
 
@@ -1017,6 +939,17 @@ Open access: False
 [Saraswati Roy](https://openalex.org/A5047126873), [Sounak Roy](https://openalex.org/A5068743211), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.4c04683.
     
 The efficiency of electrochemical water splitting is constrained by the anodic oxygen evolution reaction (OER), which suffers from high energy barriers, sluggish kinetics, and significant overpotential. Designing affordable and efficient electrocatalysts for the OER remains a key goal for advancing the hydrogen economy, with transitional metals like Co, Ni, and Cu gaining significant attention as promising alternatives due to their redox properties, abundance, and economy. The oxidation step of Mn+ → M(n+1)+ (M = Co, Ni, Cu) is the key intermediate step that produces the active species (M-OOH) formation, and thereby lowers the energy barrier and enhances the kinetics of the OER. However, the oxidation of Mn+ → M(n+1)+ creates charge-transfer orbitals near the Fermi energy level, which is fundamentally challenging. In this study, through structural and surface analyses, we demonstrate that the highly reducible CeO2 support in the Ce1–xMxO2−δ solid-solution effectively facilitates the Mn+ → M(n+1)+ oxidation process and the evolution of lattice oxygen during the OER. Among the three transition metals, the presence of the Ni3+ species along with the surface oxygen vacancy promoted the formation of -OOH surface intermediates and maximized the OER activity in Ce0.95Ni0.05O2−δ catalyst.    
+
+    
+
+## Synergistic coupling effect and anionic modulation of CoFeLDH@MXene for triggered and sustained alkaline water/seawater electrolysis   
+
+OpenAlex: https://openalex.org/W4404474349    
+Open access: True
+    
+[Xiaojie Zhang](https://openalex.org/A5100718554), [Sol-Ji Song](https://openalex.org/A5112179620), [Mengfen Xia](https://openalex.org/A5105556338), [Yi Feng](https://openalex.org/A5048721158), Chemistry - An Asian Journal. None(None)] 2024.https://doi.org/10.1002/asia.202401295 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/asia.202401295)).
+    
+The application of seawater splitting is crucial for hydrogen production; therefore, efficient electrocatalysts are necessary to prevent chlorine evolution and severe corrosion. A synergistic method is employed on CoFe LDH by integrating a conductive Ti3C2Tx MXene layer and subsequently applying anionic modulation. Robust metal-substrate interaction along with subsequent phosphidation facilitates efficient electron transfer and optimises the electronic structure of Co and Fe sites. The CoFe-P-1000@Ti3C2Tx/CC demonstrates commendable electrochemical performance, requiring overpotentials of 106.6 mV and 276 mV for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) at 10 mA cm-2 in 1M KOH electrolyte, while 292 mV is necessary for OER in a simulated seawater electrolyte (1 M KOH + 0.5 M NaCl). Furthermore, the CoFe-P-1000@Ti3C2Tx/CC exhibits an encouraging cell voltage of 1.59 V (j = 10 mA cm-2) for comprehensive alkaline seawater splitting, maintaining exceptional stability for over 50 hours.    
 
     
 
@@ -1032,6 +965,17 @@ Laser-structuring techniques like Direct Laser Interference Patterning show grea
 
     
 
+## Sputtering induced the architecture of “needle mushroom” shaped Cu2O–NiCo2O4 heterostructure with novel morphology and abundant interface for high-efficiency electrochemical water oxidation   
+
+OpenAlex: https://openalex.org/W4404474155    
+Open access: False
+    
+[Kai Chen](https://openalex.org/A5100437955), [Jaehong Park](https://openalex.org/A5026514227), [Sunny Yadav](https://openalex.org/A5051327189), [Gyu-Cheol Kim](https://openalex.org/A5110743713), [Dung Van Dao](https://openalex.org/A5039859744), [Periyayya Uthirakumar](https://openalex.org/A5109652010), [In‐Hwan Lee](https://openalex.org/A5080338996), The Journal of Chemical Physics. 161(19)] 2024.https://doi.org/10.1063/5.0221991.
+    
+Oxygen evolution reaction (OER) is widely recognized as a bottleneck in the kinetics and activity of decomposition water. Unique geometric design and compositional regulation are important technologies for achieving significant activity and excellent kinetics, but they continue to face obstacles in reaction thermodynamics and kinetic response. Here, a "needle mushroom" shaped Cu2O-NiCo2O4 heterostructure with abundant active sites and optimized conductivity that is grown on the Nickel-foam (NF) (labeled as Cu2O-NiCo2O4/NF-2) is prepared using advanced magnetron sputtering strategies for electrochemical water oxidation. Based on the excellent geometric advantages and efficient charge transfer capabilities, the catalyst of Cu2O-NiCo2O4/NF-2 shows superior electrocatalytic activity (low overpotential) and kinetics (low electrochemical impedance) compared with nanoneedle shaped Cu2O-NiCo2O4/NF-1 and NiCo2O4/NF for OER in alkaline medium. This work demonstrates a practical and economical strategy toward the fabrication of ternary transition metal oxides for water oxidation.    
+
+    
+
 ## An Analysis of the Conceptual and Functional Factors Affecting the Effectiveness of Proton-Exchange Membrane Water Electrolysis   
 
 OpenAlex: https://openalex.org/W4404322371    
@@ -1043,25 +987,14 @@ Hydrogen has the potential to decarbonize the energy and industrial sectors in t
 
     
 
-## Sulfate Oxyanion Steered d‐Orbital Electronic State of Nickel‐Iron Nanoalloy for Boosting Electrocatalytic Performance   
+## Electrocatalytic Performance and Kinetic Behavior of Anion‐Intercalated Borate‐Based NiFe LDH in Alkaline OER   
 
-OpenAlex: https://openalex.org/W4404390009    
-Open access: False
-    
-[Yachao Jin](https://openalex.org/A5038688675), [Xinjian Qu](https://openalex.org/A5064049545), [Zihao Zhou](https://openalex.org/A5045547385), [Rong Liu](https://openalex.org/A5100346447), [Mengxian Zhang](https://openalex.org/A5053165442), [Li Song](https://openalex.org/A5100774506), [Wenqiang Ma](https://openalex.org/A5044664628), [Ming‐Dao Zhang](https://openalex.org/A5008687462), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408171.
-    
-Abstract Oxyanion groups recently offer an innovative avenue for improving the sluggish kinetics of electrochemical reactions benefitting from their particular polyanion configurations and large electronegativity. Nevertheless, the exact structure design and deep regulating mechanism of oxyanion species remain poorly understood. Herein, a fresh architecture of the sulfate oxyanion coordinated nickel‐iron nanoalloy on nitrogen and sulfur co‐doped carbon nanotube (SO 4 2− ‐NiFe/NSCT) is newly proposed to study the activity increment effect and mechanism. The SO 4 2− ‐NiFe/NSCT displays hierarchical nanostructure with robust‐wrinkled surface and highly efficient active sites. Importantly, the SO 4 2− group, as a significant manipulation factor, is first evidenced to promote the oxygen reduction reaction (ORR) activity for NiFe nanoalloy under the reductive condition, showcasing outstanding bifunctional properties toward ORR and oxygen evolution reaction (OER), as well as the exceptional performance in non‐aqueous Li‐O 2 battery. Both experimental and theoretical results elucidate that, as an electron bridge, the introduction of SO 4 2− downshifts the d‐band center of SO 4 2− ‐NiFe/NSCT and gives the electron transfer passageway between the H atom in OH* intermediate and the O atom in SO 4 2− group, greatly optimizing the metal‐intermediate interaction with weaker bond energy. This work provides a deep insight into the activity enhancement mechanism by the sulfate oxyanion.    
-
-    
-
-## In Situ Raman Study of Layered Double Hydroxide Catalysts for Water Oxidation to Hydrogen Evolution: Recent Progress and Future Perspectives   
-
-OpenAlex: https://openalex.org/W4404417724    
+OpenAlex: https://openalex.org/W4404505818    
 Open access: True
     
-[Jing Wen](https://openalex.org/A5041001775), [Siyuan Tang](https://openalex.org/A5019833511), [Xiang Ding](https://openalex.org/A5101626917), [Yin Yin](https://openalex.org/A5067379327), [Fuzhan Song](https://openalex.org/A5102857321), [Xinchun Yang](https://openalex.org/A5007065150), Energies. 17(22)] 2024.https://doi.org/10.3390/en17225712.
+[Maike Berger](https://openalex.org/A5112977303), [Alexandra Markus](https://openalex.org/A5002675733), [Stefan Palkovits](https://openalex.org/A5065818528), [Regina Palkovits](https://openalex.org/A5078364217), ChemElectroChem. 11(22)] 2024.https://doi.org/10.1002/celc.202400457.
     
-With the increasing global emphasis on green energy and sustainable development goals, the electrocatalytic oxygen evolution reaction (OER) is gradually becoming a crucial focus in research on water oxidation for hydrogen generation. However, its complicated reaction processes associated with its high energy barrier severely limit the efficiency of energy conversion. Recently, layered double hydroxide (LDH) has been considered as one of the most promising catalysts in alkaline media. Nonetheless, lacking a deep insight into the kinetic process of the electrocatalytic OER process is detrimental to the further optimization of LDH catalysts. Therefore, monitoring the catalytic reaction kinetic process via surface-sensitive in situ spectroscopy is especially important. In particular, the in situ Raman technique is capable of providing fingerprint information for surface species and intermediates in the operating environment. From the perspective of Raman spectroscopy, this paper provides an exhaustive overview of research progress in in situ Raman for the characterization of the catalytic mechanism of LDH catalysts, providing theoretical guidance for designing LDH materials. Finally, we present an incisive discussion on the challenges of the electrocatalytic in situ Raman technique and its future development trend.    
+Abstract The synthesis of hydrogen via water electrolysis is an important step towards resolving the energy crisis and impeding global warming, as hydrogen can be used as a green energy carrier. The oxygen evolution as one half‐cell reaction (OER) is currently limiting efficient water splitting due to kinetic inhibition as well as a complex mechanism, causing a large overpotential. Nickel‐iron layered double hydroxides (LDH) were found to be suitable OER catalysts, as they are cost effective, stable and highly active. This work focuses on the intercalation of different organic and inorganic borates into the LDH interlayers to study their influence on OER. Besides activity and stability measurements, three borate candidates were chosen for a kinetic study, including steady‐state Tafel analysis and reaction order plots. It was found that the Bockris pathway with the second step as rate‐determining step was predominant for all three catalysts. Of all candidates, the intercalation of borate resulted in the highest performance, which was associated with a high reducibility affecting the active metal sites.    
 
     
 
@@ -1077,6 +1010,17 @@ Ruthenium metal and its oxide stand out for their exceptional catalytic activity
 
     
 
+## Sulfate Oxyanion Steered d‐Orbital Electronic State of Nickel‐Iron Nanoalloy for Boosting Electrocatalytic Performance   
+
+OpenAlex: https://openalex.org/W4404390009    
+Open access: False
+    
+[Yachao Jin](https://openalex.org/A5038688675), [Xinjian Qu](https://openalex.org/A5064049545), [Zihao Zhou](https://openalex.org/A5045547385), [Rong Liu](https://openalex.org/A5100346447), [Mengxian Zhang](https://openalex.org/A5053165442), [Li Song](https://openalex.org/A5100774506), [Wenqiang Ma](https://openalex.org/A5044664628), [Ming‐Dao Zhang](https://openalex.org/A5008687462), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408171.
+    
+Abstract Oxyanion groups recently offer an innovative avenue for improving the sluggish kinetics of electrochemical reactions benefitting from their particular polyanion configurations and large electronegativity. Nevertheless, the exact structure design and deep regulating mechanism of oxyanion species remain poorly understood. Herein, a fresh architecture of the sulfate oxyanion coordinated nickel‐iron nanoalloy on nitrogen and sulfur co‐doped carbon nanotube (SO 4 2− ‐NiFe/NSCT) is newly proposed to study the activity increment effect and mechanism. The SO 4 2− ‐NiFe/NSCT displays hierarchical nanostructure with robust‐wrinkled surface and highly efficient active sites. Importantly, the SO 4 2− group, as a significant manipulation factor, is first evidenced to promote the oxygen reduction reaction (ORR) activity for NiFe nanoalloy under the reductive condition, showcasing outstanding bifunctional properties toward ORR and oxygen evolution reaction (OER), as well as the exceptional performance in non‐aqueous Li‐O 2 battery. Both experimental and theoretical results elucidate that, as an electron bridge, the introduction of SO 4 2− downshifts the d‐band center of SO 4 2− ‐NiFe/NSCT and gives the electron transfer passageway between the H atom in OH* intermediate and the O atom in SO 4 2− group, greatly optimizing the metal‐intermediate interaction with weaker bond energy. This work provides a deep insight into the activity enhancement mechanism by the sulfate oxyanion.    
+
+    
+
 ## Mn‐Doped CoFeP Nanosheets as Effective Electrocatalysts for Superior Overall Water Splitting   
 
 OpenAlex: https://openalex.org/W4404449340    
@@ -1088,14 +1032,14 @@ For green hydrogen, the exploitation of advanced electrocatalysts is crucial, an
 
     
 
-## Tribute to Kenneth Sauer (1931–2022): a mentor, a role-model, and an inspiration to all in the field of photosynthesis   
+## In Situ Raman Study of Layered Double Hydroxide Catalysts for Water Oxidation to Hydrogen Evolution: Recent Progress and Future Perspectives   
 
-OpenAlex: https://openalex.org/W4404337762    
+OpenAlex: https://openalex.org/W4404417724    
 Open access: True
     
-[Junko Yano](https://openalex.org/A5087040660), [Jan Kern](https://openalex.org/A5013405639), [Robert E. Blankenship](https://openalex.org/A5084019740), [Johannes Messinger](https://openalex.org/A5045637353), [Vittal K. Yachandra](https://openalex.org/A5043369784), Photosynthesis Research. None(None)] 2024.https://doi.org/10.1007/s11120-024-01119-0.
+[Jing Wen](https://openalex.org/A5041001775), [Siyuan Tang](https://openalex.org/A5019833511), [Xiang Ding](https://openalex.org/A5101626917), [Yin Yin](https://openalex.org/A5067379327), [Fuzhan Song](https://openalex.org/A5102857321), [Xinchun Yang](https://openalex.org/A5007065150), Energies. 17(22)] 2024.https://doi.org/10.3390/en17225712.
     
-Abstract Kenneth (Ken) Sauer was a mainstay of research in photosynthesis at the University of California, Berkeley and the Lawrence Berkeley National Laboratory (LBNL) for more than 50 years. Ken will be remembered by his colleagues, and other workers in the field of photosynthesis as well, for his pioneering work that introduced the physical techniques whose application have enriched our understanding of the basic reactions of oxygenic photosynthesis. His laboratory was a training ground for many students and postdocs who went on to success in the field of photosynthesis and many others. Trained as a physical chemist, he always brought that quantitative approach to research questions and used several spectroscopic methods in his research. His broad scientific interests concerned the role of manganese in oxygen evolution, electronic properties of chlorophylls, energy transport in antenna complexes, and electron transport reactions. He was also an enthusiastic teacher, an enormously successful mentor who leaves behind a legion of scientists as his abiding legacy, a lover of music and the outdoors with many interests beyond science, and a dedicated family man with a great sense of humility. In this tribute, we summarize some aspects of Ken Sauer’s life and career, illustrated with selected research achievements, and describe his approach to research and life as we perceived it, which is complemented by reminiscences of several current researchers in photosynthesis and other fields. The supporting material includes Ken Sauers’s CV and publication list, as well as a list of the graduate students and postdocs he trained and of researchers that spent a sabbatical in his lab.    
+With the increasing global emphasis on green energy and sustainable development goals, the electrocatalytic oxygen evolution reaction (OER) is gradually becoming a crucial focus in research on water oxidation for hydrogen generation. However, its complicated reaction processes associated with its high energy barrier severely limit the efficiency of energy conversion. Recently, layered double hydroxide (LDH) has been considered as one of the most promising catalysts in alkaline media. Nonetheless, lacking a deep insight into the kinetic process of the electrocatalytic OER process is detrimental to the further optimization of LDH catalysts. Therefore, monitoring the catalytic reaction kinetic process via surface-sensitive in situ spectroscopy is especially important. In particular, the in situ Raman technique is capable of providing fingerprint information for surface species and intermediates in the operating environment. From the perspective of Raman spectroscopy, this paper provides an exhaustive overview of research progress in in situ Raman for the characterization of the catalytic mechanism of LDH catalysts, providing theoretical guidance for designing LDH materials. Finally, we present an incisive discussion on the challenges of the electrocatalytic in situ Raman technique and its future development trend.    
 
     
 
@@ -1110,6 +1054,17 @@ Abstract Proton exchange membrane water electrolysis (PEMWE) is a promising tech
 
     
 
+## Tribute to Kenneth Sauer (1931–2022): a mentor, a role-model, and an inspiration to all in the field of photosynthesis   
+
+OpenAlex: https://openalex.org/W4404337762    
+Open access: True
+    
+[Junko Yano](https://openalex.org/A5087040660), [Jan Kern](https://openalex.org/A5013405639), [Robert E. Blankenship](https://openalex.org/A5084019740), [Johannes Messinger](https://openalex.org/A5045637353), [Vittal K. Yachandra](https://openalex.org/A5043369784), Photosynthesis Research. None(None)] 2024.https://doi.org/10.1007/s11120-024-01119-0.
+    
+Abstract Kenneth (Ken) Sauer was a mainstay of research in photosynthesis at the University of California, Berkeley and the Lawrence Berkeley National Laboratory (LBNL) for more than 50 years. Ken will be remembered by his colleagues, and other workers in the field of photosynthesis as well, for his pioneering work that introduced the physical techniques whose application have enriched our understanding of the basic reactions of oxygenic photosynthesis. His laboratory was a training ground for many students and postdocs who went on to success in the field of photosynthesis and many others. Trained as a physical chemist, he always brought that quantitative approach to research questions and used several spectroscopic methods in his research. His broad scientific interests concerned the role of manganese in oxygen evolution, electronic properties of chlorophylls, energy transport in antenna complexes, and electron transport reactions. He was also an enthusiastic teacher, an enormously successful mentor who leaves behind a legion of scientists as his abiding legacy, a lover of music and the outdoors with many interests beyond science, and a dedicated family man with a great sense of humility. In this tribute, we summarize some aspects of Ken Sauer’s life and career, illustrated with selected research achievements, and describe his approach to research and life as we perceived it, which is complemented by reminiscences of several current researchers in photosynthesis and other fields. The supporting material includes Ken Sauers’s CV and publication list, as well as a list of the graduate students and postdocs he trained and of researchers that spent a sabbatical in his lab.    
+
+    
+
 ## Metal‐Phthalocyanine‐Based Two‐Dimensional Conjugated Metal‐Organic Frameworks for Electrochemical Glycerol Oxidation Reaction   
 
 OpenAlex: https://openalex.org/W4404458317    
@@ -1118,18 +1073,6 @@ Open access: False
 [Xing Huang](https://openalex.org/A5054711632), [Mingchao Wang](https://openalex.org/A5100715279), [Haixia Zhong](https://openalex.org/A5030897242), [Xiaodong Li](https://openalex.org/A5100691453), [Huaping Wang](https://openalex.org/A5101471799), [Yang Lu](https://openalex.org/A5000455419), [Geping Zhang](https://openalex.org/A5060849591), [Yannan Liu](https://openalex.org/A5038764214), [Shouxin Zhang](https://openalex.org/A5101742243), [Ruqiang Zou](https://openalex.org/A5078663016), [Xinliang Feng](https://openalex.org/A5100659481), [Renhao Dong⧫](https://openalex.org/A5056113736), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202416178.
     
 Electrochemical glycerol oxidation reaction (GOR) is a promising candidate to couple with cathodic reaction, like hydrogen evolution reaction, to produce high‐value product with less energy consumption. Two‐dimensional conjugated metal‐organic frameworks (2D c‐MOFs), comprising square‐planar metal‐coordination motifs (e.g., MO4, M(NH)4, MS4), are notable for their programable active sites, intrinsic charge transport, and excellent stability, making them promising catalyst candidates for GOR. Here, we introduce a novel class of 2D c‐MOFs electrocatalysts, M2[NiPcS8] (M=Co/Ni/Cu), which are synthesized via coordination of octathiolphthalocyaninato nickel (NiPc(SH)8) with various metal centers. Due to a fast kinetic and high activity of CoS4 sites for GOR, the electrocatalytic tests demonstrate that Co2[NiPcS8] supported on carbon paper displays a low GOR potential of 1.35 V vs. RHE at 10 mA cm‐2, significantly reducing the overall water‐electrolysis‐voltage reduction by 0.27 V from oxygen evolution reaction to GOR, thereby outperforming Ni2[NiPcS8] and Cu2[NiPcS8]. Additionally, we have determined that the GOR activity of CoX4 linkage sites varies with different heteroatoms, following an experimentally and theoretically confirmed activity order of CoS4>CoO4>Co(NH)4. The GOR performance of Co2[NiPcS8] not only demonstrate superior performance among non‐noble metal complex, but also provides critical insights on designing high‐performance MOF electrocatalysts upon optimizing the electronic environment of active sites.    
-
-    
-
-## Atomistic understanding of hydrogen coverage on RuO2(110) surface under
-  electrochemical conditions from ab initio statistical thermodynamics   
-
-OpenAlex: https://openalex.org/W4404306534    
-Open access: True
-    
-[Fuchun Zhang](https://openalex.org/A5106921227), [Jan Kloppenburg](https://openalex.org/A5069200214), [Chia‐Yi Lin](https://openalex.org/A5103085837), [Luka Mitrovic](https://openalex.org/A5114618073), [Simon Gelin](https://openalex.org/A5066704987), [Ismaila Dabo](https://openalex.org/A5104976868), [Darrell G. Schlom](https://openalex.org/A5066447005), [Jin Suntivich](https://openalex.org/A5065854437), [Geoffroy Hautier](https://openalex.org/A5027208775), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.18421 ([pdf](http://arxiv.org/pdf/2410.18421)).
-    
-Understanding the dehydrogenation of transition metal oxide surfaces under electrochemical potential is critical to the control of important chemical processes such as the oxygen evolution reaction (OER). Using first principles computations, we model the thermodynamic dehydrogenation process on RuO$_2$(110) and compare the results to experimental cyclic voltammetry (CV) on single crystal. We use a cluster expansion model trained on *ab initio* energy data coupled with Monte Carlo (MC) sampling to derive the macroscopic electrochemical observables, i.e., experimental CV, from the energetics of different hydrogen coverage microstates on well-defined RuO$_2$(110). Our model reproduces the unique "two-peaks" cyclic voltammogram observed experimentally with current density peak positions and shapes in good qualitative agreement. We show that RuO$_2$(110) starts as a water-covered surface with hydrogen on bridge (BRG) and coordination-unsaturated sites (CUS) at low potential (less than 0.4 V vs. reversible hydrogen electrode, RHE). As the potential increases, the hydrogens on BRG desorb, becoming the main contributor to the first CV peak with smaller contributions from CUS. When all BRG hydrogens are desorbed (before 1.2 V vs. RHE), the remaining CUS hydrogens desorb abruptly in a very small potential window leading to the sharp second peak observed during CV. Our work shows that above 1.23 V, the OER proceeds on a fully dehydrogenated RuO$_2$(110) surface.    
 
     
 
@@ -1177,14 +1120,25 @@ Abstract Mitochondria, as the cellular end-users of oxygen and responsible for a
 
     
 
-## Interspecies Organoids Reveal Human-Specific Molecular Features of Dopaminergic Neuron Development and Vulnerability   
+## Electro‐Oxidative Extraction of Methanol from Lignin Using a Three‐Dimensional Graphite Anode   
 
-OpenAlex: https://openalex.org/W4404410560    
+OpenAlex: https://openalex.org/W4404511861    
 Open access: True
     
-[Sara Nolbrant](https://openalex.org/A5035428355), [Jenelle L. Wallace](https://openalex.org/A5052253913), [Jingwen Ding](https://openalex.org/A5064605785), [Tianjia Zhu](https://openalex.org/A5110717035), [Jess L. Sevetson](https://openalex.org/A5114129945), [Janko Kajtez](https://openalex.org/A5073678325), [Isabella A. Baldacci](https://openalex.org/A5114659527), [Emily K. Corrigan](https://openalex.org/A5106158382), [Kaylynn Hoglin](https://openalex.org/A5114659528), [Reed McMullen](https://openalex.org/A5114659525), [Matthew T. Schmitz](https://openalex.org/A5046237342), [Arnar Breevoort](https://openalex.org/A5082116027), [Dani Swope](https://openalex.org/A5114659526), [Fengxia Wu](https://openalex.org/A5100583427), [Bryan J. Pavlovic](https://openalex.org/A5079123350), [Sofie R. Salama](https://openalex.org/A5057187122), [Agnete Kirkeby](https://openalex.org/A5071467664), [Hao Huang](https://openalex.org/A5101532016), [Nathan K. Schaefer](https://openalex.org/A5028405069), [Alex A. Pollen](https://openalex.org/A5060172577), No host. None(None)] 2024.https://doi.org/10.1101/2024.11.14.623592.
+[Zhongqiang Xiong](https://openalex.org/A5063903429), [Kazuyo Kobayashi](https://openalex.org/A5101191109), [A. Miyawaki](https://openalex.org/A5113007445), [Shinya Teranishi](https://openalex.org/A5076501700), [Yoshiharu Sawada](https://openalex.org/A5079125957), [Takashi Hibino](https://openalex.org/A5066892308), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202400464.
     
-The disproportionate expansion of telencephalic structures during human evolution involved tradeoffs that imposed greater connectivity and metabolic demands on midbrain dopaminergic neurons. Despite the central role of dopaminergic neurons in human-enriched disorders, molecular specializations associated with human-specific features and vulnerabilities of the dopaminergic system remain unexplored. Here, we establish a phylogeny-in-a-dish approach to examine gene regulatory evolution by differentiating pools of human, chimpanzee, orangutan, and macaque pluripotent stem cells into ventral midbrain organoids capable of forming long-range projections, spontaneous activity, and dopamine release. We identify human-specific gene expression changes related to axonal transport of mitochondria and reactive oxygen species buffering and candidate cis- and trans-regulatory mechanisms underlying gene expression divergence. Our findings are consistent with a model of evolved neuroprotection in response to tradeoffs related to brain expansion and could contribute to the discovery of therapeutic targets and strategies for treating disorders involving the dopaminergic system.    
+Abstract This paper reports an electrochemical approach that uses lignin as a resource for renewable and sustainable methanol production. The aromatic rings of lignin have methoxy substituents, which can be oxidatively demethylated to methanol by active oxygen produced at the anode. A graphite electrode fabricated in a sponge form provided sufficient reaction space for the lignin feedstock, efficiently generated active oxygen species from water, and considerably suppressed the overoxidation of methanol to carbon dioxide. As a result, the methanol yield reached approximately 70 % at a temperature of 75 °C, atmospheric pressure, and anode potential of +0.57 V. Another advantage of this technique is that hydrogen evolution reaction (HER) occurred at the cathode and the cathode potential was held at approximately −0.5 V during the HER. Therefore, the cell voltage required for lignin electrolysis was 1.1 V or lower, which means that hydrogen as well as methanol was produced under mild conditions.    
+
+    
+
+## Cerium Dioxide‐Induced Abundant Cu+/Cu0 Sites for Electrocatalytic Reduction of Carbon Dioxide to C2+ Products   
+
+OpenAlex: https://openalex.org/W4404474958    
+Open access: True
+    
+[Yuwen Wang](https://openalex.org/A5100708211), [Jiajun Wang](https://openalex.org/A5100341591), [Shuang Liu](https://openalex.org/A5101808719), [Shouxin Zhang](https://openalex.org/A5101742243), [Jin Lin](https://openalex.org/A5034295494), [Lanlan Feng](https://openalex.org/A5072706732), [Demeng Kong](https://openalex.org/A5111333288), [Chenxi Zhang](https://openalex.org/A5100361493), [Yajuan Wei](https://openalex.org/A5102931300), [Jingbo Zhang](https://openalex.org/A5100636097), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202402097 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.202402097)).
+    
+In recent years, the electrochemical reduction of carbon dioxide (CO2RR) has made many advances in C2+ production. Cu+/Cu0 site is beneficial for C‐C coupling process, but the oxidation state of copper cannot be well maintained during the reaction process, resulting in a decrease in catalyst activity. Based on this consideration, in this work, transition metal oxide CeO2 with a hollow cube structure and oxygen vacancies was introduced to stabilize and increase Cu+/Cu0 active sites (Ce1Cu2). The catalyst exhibits excellent CO2RR performance, with FEC2+ achieving 73.52% and jC2+ > 280 mA/cm2 at 1.26 V (vs. RHE). Ethanol is the main C2+ product and FEethanol reaches 39% at 1.26 V. The experimental results indicate that the presence of CeO2 provides a large number of oxygen vacancies and forming Cu+‐O2‐‐Ce4+ structure by the strong interaction of CeO2 and Cu NPs. The structure of Cu+‐O2‐‐Ce4+ and abundant oxygen vacancies lay a good foundation for the CO2 adsorption. Moreover, it increases the content of Cu+/Cu0 sites, effectively inhibiting hydrogen evolution reaction, promoting the C‐C coupling interaction, thereby facilitating the generation of C2+ products. The DFT theoretical calculation further demonstrates that Ce1Cu2 is more inclined towards the ethanol pathway, confirming its high selectivity for ethanol.    
 
     
 
@@ -1211,6 +1165,17 @@ The effectiveness of oncolytic virotherapy is significantly affected by several 
 
     
 
+## Interspecies Organoids Reveal Human-Specific Molecular Features of Dopaminergic Neuron Development and Vulnerability   
+
+OpenAlex: https://openalex.org/W4404410560    
+Open access: True
+    
+[Sara Nolbrant](https://openalex.org/A5035428355), [Jenelle L. Wallace](https://openalex.org/A5052253913), [Jingwen Ding](https://openalex.org/A5064605785), [Tianjia Zhu](https://openalex.org/A5110717035), [Jess L. Sevetson](https://openalex.org/A5114129945), [Janko Kajtez](https://openalex.org/A5073678325), [Isabella A. Baldacci](https://openalex.org/A5114659527), [Emily K. Corrigan](https://openalex.org/A5106158382), [Kaylynn Hoglin](https://openalex.org/A5114659528), [Reed McMullen](https://openalex.org/A5114659525), [Matthew T. Schmitz](https://openalex.org/A5046237342), [Arnar Breevoort](https://openalex.org/A5082116027), [Dani Swope](https://openalex.org/A5114659526), [Fengxia Wu](https://openalex.org/A5100583427), [Bryan J. Pavlovic](https://openalex.org/A5079123350), [Sofie R. Salama](https://openalex.org/A5057187122), [Agnete Kirkeby](https://openalex.org/A5071467664), [Hao Huang](https://openalex.org/A5101532016), [Nathan K. Schaefer](https://openalex.org/A5028405069), [Alex A. Pollen](https://openalex.org/A5060172577), No host. None(None)] 2024.https://doi.org/10.1101/2024.11.14.623592.
+    
+The disproportionate expansion of telencephalic structures during human evolution involved tradeoffs that imposed greater connectivity and metabolic demands on midbrain dopaminergic neurons. Despite the central role of dopaminergic neurons in human-enriched disorders, molecular specializations associated with human-specific features and vulnerabilities of the dopaminergic system remain unexplored. Here, we establish a phylogeny-in-a-dish approach to examine gene regulatory evolution by differentiating pools of human, chimpanzee, orangutan, and macaque pluripotent stem cells into ventral midbrain organoids capable of forming long-range projections, spontaneous activity, and dopamine release. We identify human-specific gene expression changes related to axonal transport of mitochondria and reactive oxygen species buffering and candidate cis- and trans-regulatory mechanisms underlying gene expression divergence. Our findings are consistent with a model of evolved neuroprotection in response to tradeoffs related to brain expansion and could contribute to the discovery of therapeutic targets and strategies for treating disorders involving the dopaminergic system.    
+
+    
+
 ## Analysis of pore formation and carburizing mechanism of magnetite reduction by CO   
 
 OpenAlex: https://openalex.org/W4404423683    
@@ -1230,6 +1195,28 @@ Open access: False
 [Guanqiang Ruan](https://openalex.org/A5021834925), [Liu Shi-wen](https://openalex.org/A5019914125), [Xing Hu](https://openalex.org/A5052886819), [Xiaoyu Fu](https://openalex.org/A5031145149), [Zhongxun An](https://openalex.org/A5101151442), Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering. None(None)] 2024.https://doi.org/10.1177/09544070241293593.
     
 In order to investigate the internal mechanism and the variation law of capacity attenuation of LIBs, a simplified electrochemical model of the LIBs was established using the nickel-cobalt-aluminum LIBs as the research object, and the aging model of solid electrolyte interface SEI growth and lithium evolution was added to simulate the electrochemical behavior of the batteries. The results showed that the porosity of the anode/diaphragm reduced continually at the start of the cycle, while the SEI film grew continuously. The loss of active materials accelerated as the number of cycles increased, while the side reaction of lithium development continued. Finally, the aging mechanism was confirmed by using microscopic morphology. The results show that the negative particles are obviously crushed and contain white deposited substances. The formation of these compounds increases the oxygen content, reduces the carbon content, reduces the porosity of the electrode, increases the overpotential of the electrolyte transport, and becomes the main reason for the attenuation of the battery life. Finally, the positive particles expand and break, which leads to the sudden reduction of the battery capacity. This study determined the evolution process of aging mechanism in the whole life cycle, and provided a theoretical basis for the establishment of mechanism aging model.    
+
+    
+
+## Tracking Depositional Architecture and Diagenetic Evolution in the Jurassic Carbonates, Trans Indus Ranges, NW Himalayas   
+
+OpenAlex: https://openalex.org/W4404486903    
+Open access: True
+    
+[Muhammad Jamil](https://openalex.org/A5060158752), [Ihsan Ullah](https://openalex.org/A5080164808), [Hamad ur Rahim](https://openalex.org/A5005427028), [I. Khan](https://openalex.org/A5089065629), [Wahid Abbas](https://openalex.org/A5030312288), [Mohib ur Rehman](https://openalex.org/A5039126471), [Alidu Rashid](https://openalex.org/A5028267023), [Muhammad Umar](https://openalex.org/A5076442040), [Asad Ali](https://openalex.org/A5101928818), [Numair Ahmed Siddiqui](https://openalex.org/A5032627421), Minerals. 14(11)] 2024.https://doi.org/10.3390/min14111170 ([pdf](https://www.mdpi.com/2075-163X/14/11/1170/pdf?version=1731917791)).
+    
+The evolution of Jurassic carbonates is globally significant for understanding the depositional framework, diagenetic phases and sedimentary characteristics of shallow marine shelf deposits. For this purpose, two outcrop sections of the Jurassic carbonates with a road distance of 121 km in the Trans Indus Ranges, NW Himalayas, were included in this study. Geological fieldwork was conducted for sedimentological data, and representative samples were collected for microfacies analysis and diagenetic evolution complemented by carbon and oxygen isotope analysis. Results show that eight microfacies were identified in both sections where mudstone microfacies was only present in the Chichali section, whereas wackestone and packstone facies widely existed in both sections. The diagenetic evolution interpreted that dolomitization and stylolization were pronounced in the Paniala section, while micritization and calcite cementation were prevalent in the Chichali section. The interpreted depositional setting implies the wide range from supratidal to outer ramp shallow marine for the Chichali section, suggesting a wide range and relatively deeper environment, alongside merely intertidal to middle ramp settings for Paniala section. Diagenetic evolution suggests marine to meteoric influence in the Chichali section, while burial and uplift phases were dominant in the Paniala section. The diagenetic events were also validated by the isotopic analysis, where most of the samples with values up to −4‰ VPDB δ18O, corresponding to a carbon isotope range of up to +4‰, were interpreted as the burial phase of diagenesis; meanwhile, a few samples with −2 δ13C and −7‰ VPDB δ18O isotope signatures were marked as meteoric influx in the Paniala section. This study indicates the diversity of the depositional environment and diagenetic heterogeneity by integration of thin sections using isotope data, which are quite applicable to shallow marine carbonates.    
+
+    
+
+## Dharwar Stratigraphy   
+
+OpenAlex: https://openalex.org/W4404507496    
+Open access: False
+    
+[R. Srinivasan](https://openalex.org/A5055922255), [B. Sreenivas](https://openalex.org/A5001009527), Journal of the Geological Society of India. 13(1)] 1972.https://doi.org/10.17491/jgsi/1972/130110.
+    
+Abstract Reconsideration of the stratigraphy of the Dharwars of Mysore State in the light of new data suggests that they are Paleoproterozoic and overlie Charnockites of Archean age. Classification of Dharwars based on tectonomagmatic and atmospheric evolution leads to a four fold divison. Pregeosynclinal shelf stage iS represented by two cycles of platformal sedimentation and magmatism; the earlier, under oxygen deficient conditions, on mafic platforms built by subaerial lavas, Is represented by Bababudan Series, and the latter under oxygenic conditions accompained by alkaline ultramafic intrusions gave rise to Dodguni Series. The geosynclinal Stage represented by pillow-Iava-greywacke-Iron ore deposition (third cycle of magmatism and sedimentation) constitutes the Grey trapRambennur Series. Early tectonic plagioclase granites-Champion gneisses syntectonic migmatites-Peninsular gneisses and late to post-tectonic alkali metasomatic granites Closepet granites (fourth, fifth and sixth magmatic cycles) developed during the folding and metamorphism of Dharwar geosynclinal pile. The inversion of geosyncline witnessed apogeosynclinal molasse red bed Sedimentation (fourth cycle of sedimentation) represented by G. R. Series. Paleoproterozoic epidiorites and post-Paleoproterozoic dolerites cratonised the area.    
 
     
 
@@ -1255,6 +1242,28 @@ DNA methylation at the 5 position of cytosine (5mC) is an ancient epigenetic mar
 
     
 
+## Introduction of cytosine-5 DNA methylation sensitizes cells to oxidative damage   
+
+OpenAlex: https://openalex.org/W4404414246    
+Open access: True
+    
+[Joanna Krwawicz](https://openalex.org/A5064516246), [Caroline J. Sheeba](https://openalex.org/A5065228994), [K Hains](https://openalex.org/A5107403258), [Terry McMahon](https://openalex.org/A5005078910), [Yimo Zhang](https://openalex.org/A5101964544), [Skirmantas Kriaučionis](https://openalex.org/A5058084937), [Peter Sarkies](https://openalex.org/A5000551479), No host. None(None)] 2024.https://doi.org/10.7554/elife.103432.
+    
+DNA methylation at the 5 position of cytosine (5mC) is an ancient epigenetic mark in eukaryotes. The levels of total 5mC vary enormously between different species, and the DNA methyltransferases that introduce 5mC have been repeatedly lost in several independent lineages. DNA methyltransferases are a threat to genomic stability due to the increased mutagenicity of 5mC bases and the propensity of DNA methyltransferases themselves to introduce DNA alkylation damage as an off-target effect. However, whether alkylation damage explains why 5mC is frequently lost in evolution is unclear. Here we tested the fitness consequences of DNA methyltransferase-induced alkylation damage by introducing a eukaryotic-like 5mC system into E. coli . We showed that introducing 5mC genome-wide leads to increased sensitivity to alkylating agents, which is strongly enhanced by removal of the 3mC repair enzyme AlkB. Unexpectedly, we discovered that 5mC introduction led to increased sensitivity to oxidative stress. We showed that this is due to increased formation of reactive oxygen in the presence of 5mC. We determined that reactive oxygen species led to non-enzymatic oxidation of 5mC, producing modified cytosines such as 5fC that are recognised as DNA base damage in E. coli . Overall, our work identifies increased sensitivity to oxidative stress, as well as alkylating agents, as a negative consequence of genome-wide 5mC. Oxidative stress is frequently encountered by organisms in their environment, thus offering a plausible reason for total loss of 5mC in some species.    
+
+    
+
+## Nitrogenase structural evolution across Earth s history   
+
+OpenAlex: https://openalex.org/W4404493480    
+Open access: True
+    
+[Bruno Cuevas-Zuviría](https://openalex.org/A5037033191), [Franka Detemple](https://openalex.org/A5014945219), [Kaustubh Amritkar](https://openalex.org/A5030004582), [Amanda K. Garcia](https://openalex.org/A5055147460), [Lance C. Seefeldt](https://openalex.org/A5080373573), [Oliver Einsle](https://openalex.org/A5059994322), [Betül Kaçar](https://openalex.org/A5085573285), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.11.18.623660.
+    
+Life on Earth is more than 3.5 billion years old nearly as old as the age of the planet. Over this vast expanse of time, life and its biomolecules adapted to and triggered profound changes to the Earth s environment. Certain critical enzymes evolved early in the history of life and have persisted through planetary extremes. While sequence data is widely used to trace evolutionary trajectories, enzyme structure remains an underexplored resource for understanding how proteins evolve over long timescales. Here, we implement an integrated approach to study nitrogenase, an ancient, globally critical enzyme essential for nitrogen fixation. Despite the ecological diversity of its host microbes, nitrogenase has strict functional limitations, including extreme oxygen sensitivity, energy requirements and substrate availability. By combining phylogenetics, ancestral sequence reconstruction, protein crystallography and deep learning based structural prediction, we resurrected three billion years of nitrogenase structural history. We present the first effort to predict all extant and ancestral structures along the evolutionary tree of an enzyme and present a total of 5000 structures. Our approach lays the foundation for reconstructing key structural constraints that influence protein evolution and studying ancient enzyme evolution in the light of phylogenetic and environmental change.    
+
+    
+
 ## 2024 American Heart Association and American Red Cross Guidelines for First Aid   
 
 OpenAlex: https://openalex.org/W4404358049    
@@ -1263,6 +1272,39 @@ Open access: False
 [Elizabeth K. Hewett Brumberg](https://openalex.org/A5114639280), [Matthew J. Douma](https://openalex.org/A5006135648), [Kostas Alibertis](https://openalex.org/A5078286360), [Nathan P. Charlton](https://openalex.org/A5108190409), [Michael P. Goldman](https://openalex.org/A5001923362), [Katrina Harper-Kirksey](https://openalex.org/A5002877453), [Seth C. Hawkins](https://openalex.org/A5036087936), [Amber V. Hoover](https://openalex.org/A5022875847), [Amy Kule](https://openalex.org/A5073939449), [Stefan W. Leichtle](https://openalex.org/A5034457473), [Sarah Frances McClure](https://openalex.org/A5029944791), [George Sam Wang](https://openalex.org/A5021153178), [Mark Whelchel](https://openalex.org/A5114639281), [Lynn J. White](https://openalex.org/A5031627355), [Eric J. Lavonas](https://openalex.org/A5080893189), Circulation. None(None)] 2024.https://doi.org/10.1161/cir.0000000000001281.
     
 Codeveloped by the American Heart Association and the American Red Cross, these guidelines represent the first comprehensive update of first aid treatment recommendations since 2010. Incorporating the results of structured evidence reviews from the International Liaison Committee on Resuscitation, these guidelines cover first aid treatment for critical and common medical, traumatic, environmental, and toxicological conditions. This update emphasizes the continuous evolution of evidence evaluation and the necessity of adapting educational strategies to local needs and diverse community demographics. Existing guidelines remain relevant unless specifically updated in this publication. Key topics that are new, are substantially revised, or have significant new literature include opioid overdose, bleeding control, open chest wounds, spinal motion restriction, hypothermia, frostbite, presyncope, anaphylaxis, snakebite, oxygen administration, and the use of pulse oximetry in first aid, with the inclusion of pediatric-specific guidance as warranted.    
+
+    
+
+## Towards The Upscaling Of ODS Steels: STARS ROUTE®   
+
+OpenAlex: https://openalex.org/W4404482132    
+Open access: False
+    
+[N. Ordás](https://openalex.org/A5027474704), [M. Roldán](https://openalex.org/A5022937376), [E. León](https://openalex.org/A5107354760), [T. Leguey](https://openalex.org/A5044720093), [Evelin Cardozo](https://openalex.org/A5095955607), [I. Iturriza](https://openalex.org/A5039909835), No host. None(None)] 2022.https://doi.org/10.59499/wp225381791.
+    
+14Cr-2W-0.3Ti-0.3Y2O3 Oxide Dispersion Strengthened (ODS) Ferritic Stainless Steels are promising candidates for structural components in future nuclear systems. Their outstanding properties are attributed to an ultrafine microstructure and a very stable dispersion of Y-Ti-O oxide nanoparticles (NPs).The STARS Route® developed to produce ODS alloys avoids the need for mechanical alloying to dissolve the oxide-former elements in the matrix and relies on Ceit’s capability to introduce them during gas atomization as oversaturated solid solution. Warm rolling after HIPing introduces a high density of dislocations, preferential nucleation sites. Final annealing heat treatment precipitates the NPs through an internal oxidation process: the metastable oxides formed at the surface of powder particles after atomization dissociate, and oxygen, Ti and Y diffuse towards the dislocations, where they precipitate as Y-Ti-O nano-oxides.This work shows the microstructural evolution of ODS steels obtained with the STARS Route®, and the role of process parameters on mechanical properties.    
+
+    
+
+## Evidence for Type Ib/c Origin of the Supernova Remnant G292.0+1.8   
+
+OpenAlex: https://openalex.org/W4404509264    
+Open access: True
+    
+[Takuto Narita](https://openalex.org/A5034321033), [Hiroyuki Uchida](https://openalex.org/A5034848376), [Jacco Vink](https://openalex.org/A5020173077), [Satoru Katsuda](https://openalex.org/A5056857011), [Hideyuki Umeda](https://openalex.org/A5006554877), [Takashi Yoshida](https://openalex.org/A5043625909), [Toshiki Sato](https://openalex.org/A5086799270), [Kai Matsunaga](https://openalex.org/A5009797993), [Takeshi Go Tsuru](https://openalex.org/A5060279814), The Astrophysical Journal. 976(1)] 2024.https://doi.org/10.3847/1538-4357/ad7e17.
+    
+Abstract Circumstellar material (CSM) produced by mass loss from massive stars (≳10 M ⊙ ) through strong stellar winds or binary stripping provides rich information for understanding progenitors of core-collapse supernova remnants. In this paper we present a grating spectroscopy of a Galactic SNR G292.0+1.8, which is claimed to be a Type Ib/c remnant in a binary system according to recent studies. If G292.0+1.8 had experienced a strong mass-loss via binary interactions before its explosion, an oxygen-rich material produced in the He-burning layer is expected to be observed in the central belt-like structure formed by shock-heated CSM. Using the Reflection Grating Spectrometer onboard XMM-Newton, we detect N vii Ly α line (0.50 keV) for the first time in G292.0+1.8 and find that the abundance ratio of nitrogen to oxygen is significantly lower (N/O = 0.5 ± 0.1) than the solar value. This low N/O suggests that the progenitor of G292.0+1.8 experienced strong mass-loss and ended up as a Wolf–Rayet star exposing the He-burning layer at the presupernova. Comparing our result and the evolution models of single stars and binaries, we conclude that the progenitor of G292.0+1.8 experienced strong enough mass-loss to occur a Type Ib/c supernova. Our finding is another crucial piece of evidence for a stripped-envelope supernova such as Type Ib/c as the origin of G292.0+1.8.    
+
+    
+
+## Thermal Protection and Dielectric Properties of Borosilicate Coatings for SiCf/SiC Composites Under High-Temperature Oxidation   
+
+OpenAlex: https://openalex.org/W4404484033    
+Open access: True
+    
+[Xiaohui Dong](https://openalex.org/A5076628786), [Lianyi Wang](https://openalex.org/A5000836240), [Ruiying Luo](https://openalex.org/A5024909932), [Guoteng Zhang](https://openalex.org/A5070648653), [Jinsen Wang](https://openalex.org/A5052746201), [Xiaotian Yang](https://openalex.org/A5019906845), [Huiyong Yang](https://openalex.org/A5019356859), [Juntong Huang](https://openalex.org/A5006066466), Coatings. 14(11)] 2024.https://doi.org/10.3390/coatings14111456.
+    
+Currently, oxidation of SiCf/SiC composites in harsh environments such as high temperatures has become a key challenge for their application in high-temperature structural wave-absorbing materials. In this study, borosilicate glass (BSZ) coatings were prepared using the thermal nitrogen–oxygen process. The evolution of mechanical and coating microwave dielectric properties of the composites with and without BSZ coatings after oxidation at 1100 °C, 1200 °C, 1300 °C and 1400 °C was investigated. The results showed that the mechanical strength of the BSZ-coated SiCf/SiC specimens remains virtually unchanged, with a remarkable strength retention rate of 94%. The exceptional oxidation resistance of these coatings can be attributed to the formation of self-healing oxides and the reinforcing “pinning” effect of ZrSiO4. With an increase in oxidation temperature, the dielectric properties of the oxidized coatings are determined by the intrinsic properties of the generators and the porosity. Overall, these features highlight the potential of borosilicate coatings in the field of electromagnetic wave-absorbing composites, and the current work establishes a correlation between the oxidized microscopic properties of the coatings and the dielectric properties.    
 
     
 
@@ -1275,17 +1317,6 @@ Open access: True
 [Raphaela Fernandes de Melo](https://openalex.org/A5108181978), [Linda Lombardo](https://openalex.org/A5074742504), [Arthur Alencastro Puls](https://openalex.org/A5059041342), [D. Romano](https://openalex.org/A5008596504), [C. J. Hansen](https://openalex.org/A5046524559), [Sophie Tsiatsiou](https://openalex.org/A5023542279), [G. Meynet](https://openalex.org/A5056081506), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2411.04180 ([pdf](http://arxiv.org/pdf/2411.04180)).
     
 Context. Carbon, nitrogen, and oxygen are the most abundant elements throughout the universe, after hydrogen and helium. Studying these elements in low-metallicity stars can provide crucial information on the chemical composition in the early Galaxy and possible internal mixing processes that can alter the surface composition of the stars. Aims. This work aims to investigate the chemical abundance patterns for CNO elements and Li in a homogeneously analyzed sample of 52 metal-poor halo giant stars. Methods. We used high-resolution spectra with a high signal-to-noise ratio (S/N) to carry out a spectral synthesis to derive detailed C, N, O, and Li abundances for a sample of stars with metallicities in the range of -3.58 <= [Fe/H] <= -1.79 dex. Our study was based on the assumption of one-dimensional (1D) local thermodynamic equilibrium (LTE) atmospheres. Results. Based on carbon and nitrogen abundances, we investigated the deep mixing taking place within stars along the red giant branch (RGB). The individual abundances of carbon decrease towards the upper RGB while nitrogen shows an increasing trend, indicating that carbon has been converted into nitrogen. No signatures of ON-cycle processed material were found for the stars in our sample. We computed a set of galactic chemical evolution (GCE) models, implementing different sets of massive star yields, both with and without including the effects of stellar rotation on nucleosynthesis. We confirm that stellar rotation is necessary to explain the highest [N/Fe] and [N/O] ratios observed in unmixed halo stars. The predicted level of N enhancement varies sensibly in dependence of the specific set of yields that are adopted. For stars with stellar parameters similar to those of our sample, heavy elements such as Sr, Y, and Zr appear to have unchanged abundances despite the stellar evolution mixing processes.    
-
-    
-
-## Supersensitive seismic magnetometry on white dwarfs   
-
-OpenAlex: https://openalex.org/W4404314173    
-Open access: True
-    
-[Nicholas Z. Rui](https://openalex.org/A5055655277), [Jim Fuller](https://openalex.org/A5076457623), [J. J. Hermes](https://openalex.org/A5038542597), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.20557 ([pdf](http://arxiv.org/pdf/2410.20557)).
-    
-The origin of magnetic fields in white dwarfs (WDs) remains mysterious. Magnetic WDs are traditionally associated with field strengths $\gtrsim1\,\mathrm{MG}$, set by the sensitivity of typical spectroscopic magnetic field measurements. Informed by recent developments in red giant magnetoasteroseismology, we revisit the use of WD pulsations as a seismic magnetometer. WD pulsations primarily probe near-surface magnetic fields, whose effect on oscillation mode frequencies is to asymmetrize rotational multiplets and, if strong enough, suppress gravity-mode propagation altogether. The sensitivity of seismology to magnetic fields increases strongly with mode period and decreases quickly with the depth of the partial ionization-driven surface convective zone. We place upper limits for magnetic fields in $24$ pulsating WDs: $20$ hydrogen-atmosphere (DAV) and three helium-atmosphere (DBV) carbon-oxygen WDs, and one extremely low-mass (helium-core) pulsator. These bounds are typically $\sim1$-$10\,\mathrm{kG}$, although they can reach down to $\sim10$-$100\,\mathrm{G}$ for DAVs and helium-core WDs in which lower-frequency modes are excited. Seismic magnetometry may enable new insights into the formation and evolution of WD magnetism.    
 
     
 
@@ -1302,14 +1333,25 @@ We determine the spectroscopic properties of ~1000 ostensibly star-forming galax
 
     
 
-## Personalized in silico model for radiation-induced pulmonary fibrosis   
+## Supersensitive seismic magnetometry on white dwarfs   
 
-OpenAlex: https://openalex.org/W4404282542    
+OpenAlex: https://openalex.org/W4404314173    
 Open access: True
     
-[Eleftherios Ioannou](https://openalex.org/A5052165759), [Myrianthi Hadjicharalambous](https://openalex.org/A5015853374), [Anastasia Malai](https://openalex.org/A5114607297), [Elisavet Papageorgiou](https://openalex.org/A5082690779), [Antri Peraticou](https://openalex.org/A5114607298), [Nicos Katodritis](https://openalex.org/A5112730922), [Dimitrios Vomvas](https://openalex.org/A5019002514), [Vasileios Vavourakis](https://openalex.org/A5036036733), Journal of The Royal Society Interface. 21(220)] 2024.https://doi.org/10.1098/rsif.2024.0525.
+[Nicholas Z. Rui](https://openalex.org/A5055655277), [Jim Fuller](https://openalex.org/A5076457623), [J. J. Hermes](https://openalex.org/A5038542597), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2410.20557 ([pdf](http://arxiv.org/pdf/2410.20557)).
     
-Radiation-induced pulmonary fibrosis (RIPF) is a severe late-stage complication of radiotherapy (RT) to the chest area, typically used in lung cancer treatment. This condition is characterized by the gradual and irreversible replacement of healthy lung tissue with fibrous scar tissue, leading to decreased lung function, reduced oxygen exchange and critical respiratory deficiencies. Currently, predicting and managing lung fibrosis post-RT remains challenging, with limited preventive and treatment options. Accurate prediction of fibrosis onset and progression is therefore clinically crucial. We present a personalized in silico model for pulmonary fibrosis that encompasses tumour regression, fibrosis development and lung tissue remodelling post-radiation. Our continuum-based model was developed using data from 12 RT-treated lung cancer patients and integrates computed tomography (CT) and dosimetry data to simulate the spatio-temporal evolution of fibrosis. We demonstrate the ability of the in silico model to capture the extent of fibrosis in the entire cohort with a less than 1% deviation from clinical observations, in addition to providing quantitative metrics of spatial similarity. These findings underscore the potential of the model to improve treatment planning and risk assessment, paving the way for more personalized and effective management of RIPF.    
+The origin of magnetic fields in white dwarfs (WDs) remains mysterious. Magnetic WDs are traditionally associated with field strengths $\gtrsim1\,\mathrm{MG}$, set by the sensitivity of typical spectroscopic magnetic field measurements. Informed by recent developments in red giant magnetoasteroseismology, we revisit the use of WD pulsations as a seismic magnetometer. WD pulsations primarily probe near-surface magnetic fields, whose effect on oscillation mode frequencies is to asymmetrize rotational multiplets and, if strong enough, suppress gravity-mode propagation altogether. The sensitivity of seismology to magnetic fields increases strongly with mode period and decreases quickly with the depth of the partial ionization-driven surface convective zone. We place upper limits for magnetic fields in $24$ pulsating WDs: $20$ hydrogen-atmosphere (DAV) and three helium-atmosphere (DBV) carbon-oxygen WDs, and one extremely low-mass (helium-core) pulsator. These bounds are typically $\sim1$-$10\,\mathrm{kG}$, although they can reach down to $\sim10$-$100\,\mathrm{G}$ for DAVs and helium-core WDs in which lower-frequency modes are excited. Seismic magnetometry may enable new insights into the formation and evolution of WD magnetism.    
+
+    
+
+## Genomic Insights into Tibetan Sheep Adaptation to Different Altitude Environments   
+
+OpenAlex: https://openalex.org/W4404504755    
+Open access: True
+    
+[Wentao Zhang](https://openalex.org/A5102761261), [Chao Yuan](https://openalex.org/A5039654639), [Xuejiao An](https://openalex.org/A5101196136), [Tingting Guo](https://openalex.org/A5080786429), [Caihong Wei](https://openalex.org/A5113158168), [Zengkui Lu](https://openalex.org/A5010250466), [Jianbin Liu](https://openalex.org/A5100730653), International Journal of Molecular Sciences. 25(22)] 2024.https://doi.org/10.3390/ijms252212394.
+    
+In recent years, research has gradually uncovered the mechanisms of animal adaptation to hypoxic conditions in different altitude environments, particularly at the genomic level. However, past genomic studies on high-altitude adaptation have often not delved deeply into the differences between varying altitude levels. This study conducted whole-genome sequencing on 60 Tibetan sheep (Medium Altitude Group (MA): 20 Tao sheep (TS) at 2887 m, High Altitude Group (HA): 20 OuLa sheep (OL) at 3501 m, and Ultra-High Altitude Group (UA): 20 AWang sheep (AW) at 4643 m) from different regions of the Tibetan Plateau in China to assess their responses under varying conditions. Population genetic structure analysis revealed that the three groups are genetically independent, but the TS and OL groups have experienced gene flow with other northern Chinese sheep due to geographical factors. Selection signal analysis identified FGF10, MMP14, SLC25A51, NDUFB8, ALAS1, PRMT1, PRMT5, and HIF1AN as genes associated with ultra-high-altitude hypoxia adaptation, while HMOX2, SEMA4G, SLC16A2, SLC22A17, and BCL2L2 were linked to high-altitude hypoxia adaptation. Functional analysis showed that ultra-high-altitude adaptation genes tend to influence physiological mechanisms directly affecting oxygen uptake, such as lung development, angiogenesis, and red blood cell formation. In contrast, high-altitude adaptation genes are more inclined to regulate mitochondrial DNA replication, iron homeostasis, and calcium signaling pathways to maintain cellular function. Additionally, the functions of shared genes further support the adaptive capacity of Tibetan sheep across a broad geographic range, indicating that these genes offer significant selective advantages in coping with oxygen scarcity. In summary, this study not only reveals the genetic basis of Tibetan sheep adaptation to different altitudinal conditions but also highlights the differences in gene regulation between ultra-high- and high-altitude adaptations. These findings offer new insights into the adaptive evolution of animals in extreme environments and provide a reference for exploring adaptation mechanisms in other species under hypoxic conditions.    
 
     
 
@@ -1324,6 +1366,17 @@ Abstract The combination of different elements in alloy catalysts can lead to im
 
     
 
+## Versatile Organometallic Synthesis of 0D/2D Metal@Germanane Nanoarchitectonics for Electrochemical Energy Conversion Applications   
+
+OpenAlex: https://openalex.org/W4404326221    
+Open access: True
+    
+[Yiming Lei](https://openalex.org/A5101728567), [Xavier Sala](https://openalex.org/A5039090961), [Jordi Garcı́a-Antón](https://openalex.org/A5080028922), [José Muñoz](https://openalex.org/A5103259388), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202400854.
+    
+Abstract Hydrogen‐terminated 2D–Germanane (2D–GeH), a germanium‐based 2D material akin to graphene, is receiving enormous attention owing to its predicted optoelectronic characteristics. However, experimental research of 2D–GeH is still in an early stage, and therefore its real implementation for task‐specific applications will depend on the correct development of suitable chemical functionalization methods. Herein, a general and straightforward organometallic (OM) approach is provided for the robust functionalization of 2D–GeH with different 0D noble metal nanoparticles (M–NPs), resulting in 0D/2D M@GeH nanoarchitectonics. As a proof‐of‐principle, 0D/2D Pt@GeH and Au@GeH nanoarchitectonics have been successfully synthesized, characterized, and explored as unconventional electrocatalysts for boosting energy conversion reactions. While the hydrogen evolution reaction activity was evaluated for Pt@GeH, the oxygen reduction reaction was interrogated for Au@GeH. Interestingly, the implanted catalytic features of M–NPs yielded to 0D/2D M@GeH nanoarchitectonics with enhanced energy conversion activity comparing to pristine 2D–GeH counterpart. This work proves the suitability of 2D–GeH as unconventional substrates to stabilize nobleM−NPs, and the versatility of the OM approach for the custom design of a new family of 0D/2D M@GeH nanoarchitectonics to expand the implementation of monoelemental 2D materials as promising electrocatalysts in energy conversion field and beyond.    
+
+    
+
 ## Focus on podocytes: diabetic kidney disease and renal fibrosis — a global bibliometric analysis (2000–2024)   
 
 OpenAlex: https://openalex.org/W4404393861    
@@ -1335,14 +1388,25 @@ Background Diabetic kidney disease (DKD) is a common pathway to End-stage renal 
 
     
 
-## Versatile Organometallic Synthesis of 0D/2D Metal@Germanane Nanoarchitectonics for Electrochemical Energy Conversion Applications   
+## Geochemistry of Granite-Greenstone Terrain of South India   
 
-OpenAlex: https://openalex.org/W4404326221    
-Open access: True
+OpenAlex: https://openalex.org/W4404504862    
+Open access: False
     
-[Yiming Lei](https://openalex.org/A5101728567), [Xavier Sala](https://openalex.org/A5039090961), [Jordi García‐Antón](https://openalex.org/A5080028922), [José Muñoz](https://openalex.org/A5103259388), Small Methods. None(None)] 2024.https://doi.org/10.1002/smtd.202400854.
+[B. Sreenivas](https://openalex.org/A5001009527), [R. Srinivasan](https://openalex.org/A5055922255), Journal of the Geological Society of India. 15(4)] 1974.https://doi.org/10.17491/jgsi/1974/150404.
     
-Abstract Hydrogen‐terminated 2D–Germanane (2D–GeH), a germanium‐based 2D material akin to graphene, is receiving enormous attention owing to its predicted optoelectronic characteristics. However, experimental research of 2D–GeH is still in an early stage, and therefore its real implementation for task‐specific applications will depend on the correct development of suitable chemical functionalization methods. Herein, a general and straightforward organometallic (OM) approach is provided for the robust functionalization of 2D–GeH with different 0D noble metal nanoparticles (M–NPs), resulting in 0D/2D M@GeH nanoarchitectonics. As a proof‐of‐principle, 0D/2D Pt@GeH and Au@GeH nanoarchitectonics have been successfully synthesized, characterized, and explored as unconventional electrocatalysts for boosting energy conversion reactions. While the hydrogen evolution reaction activity was evaluated for Pt@GeH, the oxygen reduction reaction was interrogated for Au@GeH. Interestingly, the implanted catalytic features of M–NPs yielded to 0D/2D M@GeH nanoarchitectonics with enhanced energy conversion activity comparing to pristine 2D–GeH counterpart. This work proves the suitability of 2D–GeH as unconventional substrates to stabilize nobleM−NPs, and the versatility of the OM approach for the custom design of a new family of 0D/2D M@GeH nanoarchitectonics to expand the implementation of monoelemental 2D materials as promising electrocatalysts in energy conversion field and beyond.    
+Abstract A critical evaluation of the available major and trace element data on rocks of the granite-greenstone belts or South India leads to the following inferences: Barrovian and Abukuma facies series of metamorphism are recognizable in the terrain. Rocks of peridotitic and basaltic komatiite affinities occur in the pre-Dharwar and early Dharwar ultramafic-mafic sequence. The bulk of the greenstones are island arc tholeiites with a strong calc-alkaline affinity. The presence of detrital pyrites in the oldest conglomerates, and the occurrence of red beds in the topmost Dharwar sequence, indicate that an oxygenic atmosphere evolved through the Dharwar times. The pre-Dharwar granitoids were probably tonalitic, and through time, alkali fractionation gave rise to the Champion gneisses, Peninsular gneisses and Closepet granites. The available data are inadequate to elucidate the fractionation pattern of the granitic crust of Peninsular India. Pyrolite and eclogite mantle are invoked for tectonomagmatic events during the pre-Dharwar and Dharwar times, respectively. Convection, and eclogite sinkers, are proposed as alternative geodynamic models. From the geochemical evolution, it is contended that the granite-greenstone belts of Peninsular India represent a more evolved crustal condition as compared to the Archaean granite greenstone belts of South Africa and Western Australia. Obviously, the granite-greenstone belts of all the shield areas, did not evolve simultaneously.    
+
+    
+
+## Geochemistry of Precambrian Carbonatite Complexes of India: Present Status of, and Gaps in our Knowledge   
+
+OpenAlex: https://openalex.org/W4404504933    
+Open access: False
+    
+[G.R. Udas](https://openalex.org/A5046934664), Journal of the Geological Society of India. 15(4)] 1974.https://doi.org/10.17491/jgsi/1974/150411.
+    
+Abstract Carbonatites of Precambrian age occur at Newania and Mundwara in Rajasthan, Sevathur and Hogenakal in Tamil Nadu, Kunavaram in Andhra Pradesh, and KolJegal in Karnataka. The Newania carbonatite is 959±24 m.y. old (K-Ar age of an alkali amphibole), and the Sevathur carbonatite is 720±30 m.y. old (K-Ar age of a biotite). Although comprehensive geochemical studies involving major, minor, and trace elements and carbon, oxygen and strontium isotopes have been undertaken on the 37.5±2.5 m.y. old Eocene carbonatite complex at Amba Dongar, Gujarat, geochemical studies on the Precambrian carbonatites of India have been confined only to routine determinations of selected elements like Sr, Ba, Y, Ce, La, Nb, Zr, Th, Mn, Ti, F and P to demonstrate their carbonatitic affinites. Except for two K-Ar ages, and for some limited trace element data, no attempts have been made to elucidate the chronologie and petrogenetic evolution of these Precambrian carbonatites by the application of Rb-Sr, K-Ar, and U-Pb geochronometry, critical element ratios, stable and radiogenic isotope abundances, and geothermometry. Basic researches aimed at formulating geochemical criteria for locating commercially exploitable economic Precambrian carbonatite complexes are yet to be initiated in India.    
 
     
 
@@ -1357,14 +1421,14 @@ Abstract. Iodine (I) abundance in marine carbonates (measured as an elemental ra
 
     
 
-## Reconstruction of Magma Plumbing System and Regional Magmatic Processes via Chemical and Structural Zoning of Biotite in Rhyolite from Long Valley, CA   
+## Swimming kinematics of deep‐sea fishes   
 
-OpenAlex: https://openalex.org/W4404291502    
+OpenAlex: https://openalex.org/W4404512811    
 Open access: False
     
-[Jiaxin Xi](https://openalex.org/A5039189474), [Yiping Yang](https://openalex.org/A5041221522), [Huifang Xu](https://openalex.org/A5038685799), [Haiyang Xian](https://openalex.org/A5091628882), [Fabin Pan](https://openalex.org/A5101898980), [Shan Li](https://openalex.org/A5100324727), [Shuo Xue](https://openalex.org/A5087751103), [Yonghua Cao](https://openalex.org/A5088779662), [Jianxi Zhu](https://openalex.org/A5090023602), [Hongping He](https://openalex.org/A5100382853), Journal of Geophysical Research Solid Earth. 129(9)] 2024.https://doi.org/10.1029/2024jb029205.
+[Brett H. Woodworth](https://openalex.org/A5046210853), [Jessica Palmeri](https://openalex.org/A5114705243), [Patrick Flannery](https://openalex.org/A5114705244), [Lydia Fregosi](https://openalex.org/A5064539978), [Cassandra M. Donatelli](https://openalex.org/A5046201571), [Mackenzie E. Gerringer](https://openalex.org/A5022185253), Journal of Fish Biology. None(None)] 2024.https://doi.org/10.1111/jfb.15989.
     
-Abstract Minerals with compositional zoning in volcanic products are widely used to decipher the history of magmatic evolution. However, structural information, which reflects physical conditions and crystallization equilibrium, has often been overlooked. This study presents the first report on the structural zoning of deep‐derived biotite phenocrysts through investigations of metaluminous rhyolite from Long Valley, CA. Biotite is enriched in Si, Mg, and K and depleted in Fe 3+ , Ti, and Al IV in core zones compared with rims. In situ structural analyses, including micro X‐ray diffraction, Raman spectroscopy, and transmission electron microscopy, were conducted to identify cores with perfect 2 M 1 polytype and disordered rims of biotite. The results demonstrate the effectiveness of these methods in revealing various (micro)polytypes of a single species, which occur at different crystallization temperatures, pressures, supersaturation levels, and oxygen fugacities. The concept of structural zoning is introduced here to describe the different structural features distributed systematically in various parts of minerals. By combining structural and chemical zoning, we illustrate a two‐step growth for samples: equilibrium crystallization of the highly ordered cores in a deep magma reservoir with high temperature and pressure, followed by rapid growth of disordered rims during magma mixing in a crystal mush. We further discuss the implications of these findings for reflecting the plumbing system structure and eruption history of rhyolitic magma over extended periods. Our study underscores the remarkable sensitivity of structural zoning in delineating the crystallization conditions of minerals and documenting the environmental changes within magma.    
+Abstract Although the deep oceans represent Earth's largest habitat, the challenges of studying deep‐sea organisms in situ have limited our understanding of adaptation, ecology, and behaviour in these important ecosystems. One fundamental trait of fishes that remains largely unexplored in the deep ocean is swimming, a vital process for movement, migration, and dispersal in marine habitats. Deep‐sea conditions such as temperature, pressure, and food availability could each impact the speed and efficiency of swimming in fishes. To investigate swimming kinematics of fishes with increasing depth, we analysed in situ video of bony fishes across a 6000‐m depth gradient. We compared open‐source videos of fishes from National Oceanic and Atmospheric Administration (NOAA) Ocean Exploration with tank‐based recordings of shallow‐water relatives from Puget Sound, Washington, USA to understand how both habitat depth and phylogeny influence swimming in fishes. We analysed kinematics in four dominant demersal fish groups, the orders Anguilliformes, Gadiformes, Ophidiiformes, and Perciformes. Deep‐sea fishes swam consistently slowly. Swimming kinematics varied across temperature, oxygen, body elongation, and depth. These results suggest that swimming kinematics do not change linearly with increasing habitat depth in fishes and that the impacts of deep‐sea conditions such as low temperatures, high pressures, and low nutrient availability on swimming behaviour need to be considered independently of one another. These findings provide insight into the evolution of fish form and function in the deep ocean.    
 
     
 
@@ -1402,6 +1466,17 @@ Abstract The binary-driven hypernova (BdHN) model proposes long gamma-ray bursts
 
     
 
+## Spatio-chemical deconvolution of the LiNi0.6Co0.2Mn0.2O2/Li6PS5Cl interphase layer in all-solid-state batteries using combined X-ray spectroscopic methods   
+
+OpenAlex: https://openalex.org/W4404393072    
+Open access: False
+    
+[Barthélémy Lelotte](https://openalex.org/A5099526484), [C. A. F. Vaz](https://openalex.org/A5010560923), [Linfeng Xu](https://openalex.org/A5100327125), [Camelia N. Borca](https://openalex.org/A5057560048), [Thomas Huthwelker](https://openalex.org/A5010118109), [P. Vincent](https://openalex.org/A5084666460), [Christian Jordy](https://openalex.org/A5113740655), [Lorenz Gubler](https://openalex.org/A5067463530), [Mario El Kazzi](https://openalex.org/A5066147651), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-016md.
+    
+The (electro-)chemical degradation at the interface between Li6PS5Cl (LPSC) and LiNi0.6Co0.2Mn0.2O2 (NCM622) is systematically investigated using non-destructive synchrotron X-ray absorption spectroscopy (XAS) and X-ray photoemission electron microscopy (XPEEM). These techniques provide surface chemical depth profiling (from 2 nm to several hundred nm) and high-resolution elemental imaging of both LPSC and NCM622 particles. This analysis was complemented by galvanostatic cycling, impedance spectroscopy, and operando cell pressure measurements. Several correlations between interphase evolution and cell electrochemical performance are clarified, while some inconsistencies are rationalized and discussed. Firstly, the intrinsic LPSC electrochemical oxidation mechanisms were studied using an LPSC:C65 working electrode. The results showed that increased cell resistance during the first charge stemmed from polysulfide by-products and particle contact loss due to LPSC volume shrinkage at the interface. Secondly, when using an NCM622:LPSC working electrode, species such as sulfites, sulfates and phosphates, were detected on both LPSC and NCM622 particles, while electrochemically inactive reduced transition metals (TMs) were observed only at NCM622 surfaces. These species, initially present at open circuit potential, increased after the first charge, due to the chemical reactions between LPSC and NCM622 surface lattice oxygen. The estimated interphase thickness on the LPSC and NCM622 surface over the cycling remains below ⁓3 nm. Our findings highlight that the formation of an electrochemically inactive NCM622 surface is a primary cause of impedance rise during the first charge, along with the formation of LPSC by-products and contact loss. However, the continuous increase in cell resistance could not be attributed to further interphase growth after the first charge. We hypothesize that this may result from slow and progressive LPSC polymerization reactions (e.g., form Li2PS6 and P2S5) and structural changes at the NCM622 surface.    
+
+    
+
 ## Sulfur-bearing molecules in a sample of early star-forming cores   
 
 OpenAlex: https://openalex.org/W4404345238    
@@ -1421,17 +1496,6 @@ Open access: True
 [Francesco D’Eugenio](https://openalex.org/A5007065243), [R. Maiolino](https://openalex.org/A5020335855), [V. H. Mahatma](https://openalex.org/A5016140963), [Giovanni Mazzolari](https://openalex.org/A5027349074), [Stefano Carniani](https://openalex.org/A5028319073), [Anna de Graaff](https://openalex.org/A5089887287), [Michael V. Maseda](https://openalex.org/A5079172029), [Eleonora Parlanti](https://openalex.org/A5091681118), [Andrew J. Bunker](https://openalex.org/A5077019414), [Xihan Ji](https://openalex.org/A5052142426), [Gareth C Jones](https://openalex.org/A5107935980), [Jakob M. Helton](https://openalex.org/A5015899497), [R. Morganti](https://openalex.org/A5066085953), [Jan Scholtz](https://openalex.org/A5034807425), [Sandro Tacchella](https://openalex.org/A5036415893), [C. N. Tadhunter](https://openalex.org/A5087342086), [Hannah Übler](https://openalex.org/A5063959023), [G. Venturi](https://openalex.org/A5091083658), Monthly Notices of the Royal Astronomical Society. None(None)] 2024.https://doi.org/10.1093/mnras/stae2545.
     
 Abstract We present NIRSpec/MSA observations from the JWST large-area survey WIDE, targeting the rest-frame UV–optical spectrum of Ulema, a radio-AGN host at redshift z = 4.6348. The low-resolution prism spectrum displays high equivalent width nebular emission, with remarkably high ratios of low-ionisation species of oxygen, nitrogen and sulphur, relative to hydrogen; auroral O+ emission is clearly detected, possibly also C+. From the high-resolution grating spectrum, we measure a gas velocity dispersion of σ ∼ 400 km s−1, broad enough to rule out star-forming gas in equilibrium in the gravitational potential of the galaxy. Diagnostics based on emission-line ratios suggest that the nebular emission is due to a shock which ran out of pre-shock gas. To infer the physical properties of the system, we model simultaneously the galaxy spectral energy distribution (SED) and shock-driven line emission under a Bayesian framework. We find a relatively low-mass, star-forming system (M⋆ = 1.4 × 1010 M⊙, SFR = 70 M⊙ yr−1), where shock-driven emission contributes 50 per cent to the total Hβ luminosity. The nebular metallicity is near solar – three times higher than that predicted by the mass-metallicity relation at z = 4.6, possibly related to fast-paced chemical evolution near the galaxy nucleus. We find no evidence for a recent decline in the SFR of the galaxy, meaning that, already at this early epoch, fast radio-mode AGN feedback was poorly coupled with the bulk of the star-forming gas; therefore, most of the feedback energy must end up in the galaxy halo, setting the stage for future quenching.    
-
-    
-
-## Spatio-chemical deconvolution of the LiNi0.6Co0.2Mn0.2O2/Li6PS5Cl interphase layer in all-solid-state batteries using combined X-ray spectroscopic methods   
-
-OpenAlex: https://openalex.org/W4404393072    
-Open access: False
-    
-[Barthélémy Lelotte](https://openalex.org/A5099526484), [C. A. F. Vaz](https://openalex.org/A5010560923), [Linfeng Xu](https://openalex.org/A5100327125), [Camelia N. Borca](https://openalex.org/A5057560048), [Thomas Huthwelker](https://openalex.org/A5010118109), [P. Vincent](https://openalex.org/A5084666460), [Christian Jordy](https://openalex.org/A5113740655), [Lorenz Gubler](https://openalex.org/A5067463530), [Mario El Kazzi](https://openalex.org/A5066147651), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-016md.
-    
-The (electro-)chemical degradation at the interface between Li6PS5Cl (LPSC) and LiNi0.6Co0.2Mn0.2O2 (NCM622) is systematically investigated using non-destructive synchrotron X-ray absorption spectroscopy (XAS) and X-ray photoemission electron microscopy (XPEEM). These techniques provide surface chemical depth profiling (from 2 nm to several hundred nm) and high-resolution elemental imaging of both LPSC and NCM622 particles. This analysis was complemented by galvanostatic cycling, impedance spectroscopy, and operando cell pressure measurements. Several correlations between interphase evolution and cell electrochemical performance are clarified, while some inconsistencies are rationalized and discussed. Firstly, the intrinsic LPSC electrochemical oxidation mechanisms were studied using an LPSC:C65 working electrode. The results showed that increased cell resistance during the first charge stemmed from polysulfide by-products and particle contact loss due to LPSC volume shrinkage at the interface. Secondly, when using an NCM622:LPSC working electrode, species such as sulfites, sulfates and phosphates, were detected on both LPSC and NCM622 particles, while electrochemically inactive reduced transition metals (TMs) were observed only at NCM622 surfaces. These species, initially present at open circuit potential, increased after the first charge, due to the chemical reactions between LPSC and NCM622 surface lattice oxygen. The estimated interphase thickness on the LPSC and NCM622 surface over the cycling remains below ⁓3 nm. Our findings highlight that the formation of an electrochemically inactive NCM622 surface is a primary cause of impedance rise during the first charge, along with the formation of LPSC by-products and contact loss. However, the continuous increase in cell resistance could not be attributed to further interphase growth after the first charge. We hypothesize that this may result from slow and progressive LPSC polymerization reactions (e.g., form Li2PS6 and P2S5) and structural changes at the NCM622 surface.    
 
     
 
@@ -1458,14 +1522,14 @@ Mutagenic processes drive evolutionary progress, with ultraviolet (UV) radiation
 
     
 
-## A tell-tale tracer for externally irradiated protoplanetary disks: Comparing the [C I] 8727 line and ALMA observations in proplyds   
+## Corrigendum: Seasonal intensification of oxygen minimum zone: linking Godavari River discharge to fall hypoxia in the Bay of Bengal   
 
-OpenAlex: https://openalex.org/W4404293489    
-Open access: False
+OpenAlex: https://openalex.org/W4404494464    
+Open access: True
     
-[Mari-Liis Aru](https://openalex.org/A5000932607), [Karina Maucó](https://openalex.org/A5009901500), [C. F. Manara](https://openalex.org/A5082874418), [Thomas J. Haworth](https://openalex.org/A5082801098), [Nick Ballering](https://openalex.org/A5027342750), [Ryan D. Boyden](https://openalex.org/A5045794763), [J. Campbell-White](https://openalex.org/A5062375750), [Stefano Facchini](https://openalex.org/A5037692782), [Giovanni Rosotti](https://openalex.org/A5023671221), [Andrew J Winter](https://openalex.org/A5027361030), [A. Miotello](https://openalex.org/A5011771059), [Anna F. McLeod](https://openalex.org/A5041898601), [Massimo Robberto](https://openalex.org/A5041936255), [M. G. Petr-Gotzens](https://openalex.org/A5049690883), [Giulia Ballabio](https://openalex.org/A5081820942), [S. Vicente](https://openalex.org/A5002303815), [Megan Ansdell](https://openalex.org/A5031333688), [L. Ilsedore Cleeves](https://openalex.org/A5059155511), Astronomy and Astrophysics. None(None)] 2024.https://doi.org/10.1051/0004-6361/202451737.
+[K. S. Sreejith](https://openalex.org/A5069242155), [V. V. S. S. Sarma](https://openalex.org/A5001496719), [P. Sreenivas](https://openalex.org/A5022895137), [F. Feba](https://openalex.org/A5112676815), [Ibrahim Hoteit](https://openalex.org/A5089073067), [Karumuri Ashok](https://openalex.org/A5043902908), Frontiers in Marine Science. 11(None)] 2024.https://doi.org/10.3389/fmars.2024.1523183.
     
-The evolution of protoplanetary disks in regions with massive OB stars is influenced by externally driven winds that deplete the outer parts of these disks. The winds have previously been studied via forbidden oxygen emission lines, which also arise in isolated disks in low-mass star-forming regions (SFRs) with weak external UV fields in photoevaporative or magnetic (internal) disk winds. It is crucial to determine how to disentangle external winds from internal ones. Here, we report a proxy for unambiguously identifying externally driven winds with a forbidden line of neutral atomic carbon We compare for the first time the spatial location of the emission in the and lines traced by VLT/MUSE-NFM with the ALMA Band 7 continuum disk emission in a sample of 12 proplyds in the Orion Nebula Cluster (ONC). We confirm that the emission is co-spatial with the disk emission, whereas that of is emitted both on the disk surface and on the ionization front of the proplyds. We show for the first time that the line is also co-spatial with the disk surface in proplyds, as seen in the MUSE and ALMA data comparison. The peak emission is compatible with the stellar location in all cases, apart from one target with high relative inclination with respect to the ionizing radiation, where the peak emission is located at the disk edge in the direction of the ionizing radiation. To verify whether the line is detected in regions where external photoevaporation is not expected, we examined VLT/X-Shooter spectra for young stars in low-mass SFRs. Although the and 6300 lines are well detected in all these targets, the total detection rate is $ in the case of the line. This number increases substantially to a $ detection rate in sigma -Orionis, a region with higher UV radiation than in low-mass SFRs, but lower than in the ONC. The spatial location of the line emission and the lack of its detection in isolated disks in low-mass SFRs strongly suggest that this line is a tell-tale tracer of externally driven photoevaporative winds, which agrees with recent excitation models.    
+The Eastern Tropical Pacific (ETP), Arabian Sea (AS), and Bay of Bengal (BoB) are recognized for hosting the most intense oxygen minimum zones (OMZs), characterized by severe hypoxia at intermediate depths (Gilly et al., 2013; McCreary et al., 2013). The formation of these OMZs is attributed to a complex interplay of physical and biogeochemical processes, many of which exhibit commonalities across all three basins. Enhanced primary productivity in surface waters fosters organic matter export to deeper layers. This organic matter undergoes intensified decomposition at intermediate depths, leading to oxygen depletion through microbial respiration (Breitburg et al., 2018; Gilly et al., 2013; Paulmier and Ruiz-Pino, 2009; Pennington et al., 2006). Furthermore, sluggish circulation patterns within these basins limit the advection of oxygen-rich waters into the OMZ, and weak vertical mixing restricts oxygen replenishment from the surface (Breitburg et al., 2018; Gilly et al., 2013; Paulmier and Ruiz-Pino, 2009; McCreary et al., 2013).The Bay of Bengal oxygen minimum zone (BoB-OMZ) deviates from the typical pattern observed in the ETP and AS despite sharing common drivers for OMZ formation (Gilly et al., 2013; McCreary et al., 2013). This disparity underscores the significant influence of regional factors on the BoB-OMZ's characteristics. A key distinction lies in the primary mechanism responsible for its persistence. Microbial processes such as denitrification and anammox are crucial for oxygen consumption in the ETP and AS (Rao et al., 1994; Gilly et al., 2013; Kalvelage et al., 2013; Castro-González et al., 2014). In contrast, the BoB-OMZ primarily owes its existence to intense salinity stratification (Paulmier and Ruiz-Pino, 2009; Sarma et al., 2018; Udaya Bhaskar et al., 2021). This stratification effectively traps oxygen-depleted waters, hindering vertical mixing and oxygen replenishment from the surface. Cyclonic eddies further influence the intensity and distribution of the BoB-OMZ (Sarma et al., 2018). Interestingly, anticyclonic eddies can sporadically ventilate the BoB-OMZ with oxygen-rich surface waters, leading to temporary weakening and spatial heterogeneity of the hypoxic zone (Sarma and Udaya Bhaskar, 2018). These contrasting mechanisms, absent in the ETP and AS, contribute to the BoB-OMZ's weaker overall intensity and dynamic nature.The intensity and extent of the BoB-OMZ exhibit significant spatial and temporal variations. In the northern BoB, influenced by major river discharge from the Ganges and Brahmaputra rivers, the summer monsoon and post-monsoon seasons see intensified salinity stratification, leading to a more pronounced OMZ (Howden and Murtugudde, 2001; Jana et al., 2015; Udaya Bhaskar et al., 2021; Sarma et al., 2016). This stratification traps oxygen-depleted waters, hindering vertical mixing and oxygen replenishment. Additionally, the cross-shelf transport of organic matter from the western BoB fuels microbial decomposition, resulting in a stronger OMZ compared to the eastern region (Udaya Bhaskar et al., 2021). Recent studies suggest the possibility of even more intense OMZ formation in the northwestern BoB during winter (Bristow et al., 2017), potentially due to enhanced nutrient input from rivers or atmospheric deposition. However, Sridevi and Sarma (2021) propose that these intense episodes might be transient features caused by eddies. Biogeochemically, the BoB-OMZ is considered weaker compared to other regions. This can be attributed to factors such as weak upwelling, limited primary productivity, and rapid sinking of organic carbon to the deep sea, reducing the availability of organic matter for microbial oxygen consumption (Rao et al., 1994; Ittekkot et al., 1991; Naqvi et al., 1996; Ramaiah et al., 2010; McCreary et al., 2013). Furthermore, several studies suggest that riverine nutrients are rapidly consumed within a limited distance (20 km) from the coast, restricting their contribution to offshore OMZ intensification (Howden and Murtugudde, 2001; Sarma et al., 2018).The Godavari River, India's third-longest fluvial system (1,465 km), is driven by the monsoon cycle, resulting in concentrated discharge from July to September (Central Water Commission, 2019). This peak discharge coincides with the BoB's highest riverine input, contrasting with the dominance of tidal processes in other seasons (Howden and Murtugudde, 2001; Sarma et al., 2010). While the influence of major rivers such as the Ganges and Brahmaputra on the northern BoB-OMZ is well-established (Jana et al., 2015; Udaya Bhaskar et al., 2021), the annual impact of medium-sized rivers such as the Godavari remains less explored. This study addresses this knowledge gap by investigating the annual cycle of Godavari River discharge (GRD), its potential effects on local coastal primary productivity, and its contribution to the development of a seasonal OMZ near the river mouth. The following section outlines the methodology and details the datasets employed. Section 3 presents our findings on the seasonal evolution of the BoB- OMZ, the biogeochemistry in the river mouth region, and the potential mechanisms driving the intense OMZs observed near the Godavari. Finally, section 4 provides a comprehensive summary and concluding remarks. The GRD data utilized in this study were obtained from the Dowleiswaram barrage, located approximately 50 km upstream of the river's confluence with the BoB. This barrage serves as the final major infrastructure point along the Godavari's course, regulating the downstream flow of freshwater into the BoB. Daily measurements of water released from the Dowleiswaram barrage provided a high- resolution record of GRD variations. These daily values were subsequently aggregated to generate monthly mean time series data spanning 29 years (1990-2018). The use of Dowleiswaram barrage discharge as a proxy for total GRD into the BoB is justified due to several factors. First, the barrage captures the vast majority of the Godavari's freshwater input, as evidenced by minimal tributaries downstream. Second, the relatively short distance (50 km) between the barrage and the BoB minimizes potential losses through evaporation or tributary inputs. This time series data of mean monthly GRD serve as a key foundation for our investigation of the river's influence on coastal BoB dynamics. Due to confidentiality restrictions, the GRD data used in this study were not publicly available. The data was obtained from Superintending Engineer, Irrigation Circle, Dhavaleswaram, Rajamahendravaram, Andhra Pradesh (https://irrigationap.cgg.gov.in/wrd/home; scicbowlm@gmail.com).This study leverages Biogeochemical-Argo (BGC-ARGO) data, a critical component of the Global Ocean Observing System (Notarstefano, 2020), to provide high-resolution in situ station observations in the vicinity of the Godavari River mouth. Within the extensive BGC-ARGO network, we identified two floats (2902264 and 2902193) strategically positioned within the plume of low-saline GRD. The precise locations of these floats are presented in Figure 1, along with their temporal and location information in Table 1 and Supplementary Tables S1, S2. These two floats provided individual quality-controlled profiles of various oceanographic parameters. Float 2902193 completed 184 data cycles, with three profiles (cycles 49, 59, and 71) acquired within the vicinity of the GRD region through the fall to early winter (mid-September to December). Float 2902264 completed 268 cycles, with three profiles (cycles 41, 44, and 60) in the GRD region through the fall to the winter months (mid-October to January). Both floats were stationed outside the GRD region for the remaining data cycles. Consequently, only the three profiles acquired within the GRD region, as outlined above, were utilized for the analysis of dissolved oxygen (DO), chlorophyll-a (Chl-a) concentration, and particle backscattering coefficient information at 700 nm (bb700) in this study. The DO measurements offer insights into potential oxygen depletion associated with enhanced organic matter decomposition driven by the GRD influx. Chl-a, a proxy for phytoplankton biomass, acts as a marker of primary productivity potentially stimulated by nutrient enrichment from the river discharge. Finally, the particle backscattering coefficient serves as an indicator of the presence and type of suspended particles, including phytoplankton and non-living organic matter, which the GRD dynamics can influence. By scrutinizing these critical variables from the strategically located BGC-ARGO floats, we aim to provide robust observational evidence to confirm and refine our understanding of the Godavari River's impact on the biogeochemical dynamics of the coastal BoB region. We obtained BGC-ARGO data from https:// biogeochemical-argo.org/data-access.php. To gain further insights into potential spatial biogeochemical responses to the GRD, we also drew upon complementary datasets from the Ocean Colour Climate Change Initiative (OC-CCI) (https://www.oceancolour.org/browser/index.php?product=chlor_ a&page=0.=monthly&version=1&limit=24&from=2002- 01-01&to=2016-01-01&mode=download#results). This fresh initiative provides a robust, merged Level 3 product for monthly mean Chl-a concentrations from 2002 to 2016. This valuable resource utilizes satellite observations from diverse sensors, including Medium Resolution Imaging Spectroradiometer (MERIS), Sea-viewing Wide Field-of-view Sensor (SeaWiFS), Moderate Resolution Imaging Spectroradiometer (MODIS)-Aqua, and Visible Infrared Imaging Radiometer Suite (VIIRS), seamlessly combined to offer a comprehensive and spatially extensive view of phytoplankton biomass across the global ocean (Sathyendranath et al., 2019). The 4 km spatial resolution of the OC-CCI Chl-a data strikes a balance between capturing local dynamics near the Godavari estuary and providing regional context for the observed patterns. To further elucidate the potential impact of GRD on primary productivity, we also leverage monthly mean net primary productivity (NPP) data obtained from the same OC-CCI website for the same timeframe (2002-2016) (https://www.oceancolour.org/browser/index.php?product=pp&page=0&limit=24&from=2002-01-01&to=2016-01- 01&mode=browse#results). NPP is estimated using the Ocean Production from the Absorption of Light (OPAL) model. This model builds upon the framework originally proposed by Marra et al. (2003). NPP is integrated over the euphotic zone and expressed in grams of carbon per square meter of sea surface (g C m-2). Four key satellite-derived inputs that are assimilated into OPAL are surface Chl- a concentration, sea surface temperature, photosynthetically active radiation reaching the ocean surface, and the absorption coefficient of colored dissolved organic matter. A detailed description of the NPP calculations is available in O'Reilly (2017). This dataset provides a valuable quantitative estimate of the rate at which organic matter is produced by Chl-a-rich phytoplankton biomass within the coastal BoB region. By analyzing the co-variation between Chl-a, and NPP, we aim to gain insights into the potential stimulation of primary productivity by nutrient enrichment associated with the GRD. The World Ocean Atlas 2018 (WOA18) serves as a cornerstone resource for this study, providing a comprehensive set of objectively analyzed climatological fields for the world ocean (https:// www.ncei.noaa.gov/access/world-ocean-atlas-2018/). These fields, derived from in-situ measurements, encompass various oceanographic parameters at standard depth levels across different grid resolutions (5° × 5°, 1° × 1°, and 0.25° × 0.25°). Specifically, the data includes annual, seasonal, and monthly climatologies of temperature, salinity, DO, phosphate, silicate, and nitrate. The annual and seasonal climatologies extend to an impressive depth of 5,500 m, encompassing 102 distinct vertical levels. However, for monthly climatologies, the data extends only up to 1,500 m (57 vertical levels), still providing valuable insights into the temporal dynamics of near-surface ocean processes. Additionally, the chemical parameters (such as DO, phosphate, silicate, and nitrate) are available only on a 5° × 5° and a 1° × 1° horizontal resolution. This choice balances the need for a detailed spatial resolution within the coastal BoB region with the data availability and reliability constraints inherent in monthly climatologies. In this study, we used the monthly climatological salinity (Zweng et al., 2018) on a 0.25° × 0.25° grid, and dissolved oxygen (Garcia et al., 2019) at a 1° × 1° resolution. By leveraging this robust and authoritative dataset, we aim to gain valuable insights into the spatiotemporal patterns of dissolved oxygen and their potential association with the influence of GRD. The monthly mean horizontal and vertical current data (2000-2020) from the Global Ocean Data Assimilation System (GODAS) developed by the National Centre for Environmental Prediction (NCEP) is used to elucidate the seasonal dynamics of coastal circulation and upwelling near the Godavari River mouth. This advanced reanalysis product (replacing Reanalysis 6) serves as the initial oceanic state for the NCEP's Climate Forecast System (Saha et al., 2006). The GODAS is forced by the momentum flux, heat flux, and freshwater flux. It utilizes a quasi-global configuration of the Geophysical Fluid Dynamics Laboratory (GFDL) MOM.v3 model, encompassing the critical coastal zone with high-resolution grids (1° x 1°, enhanced to 1/3° near the equator) and 40 vertical levels (10 m resolution in the upper 200 m). Leveraging these capabilities of the GODAS data (https:// www.cpc.ncep.noaa.gov/products/GODAS/), we estimated the divergence and upwelling of the GRD region. The divergence field represents the net flow of fluid into or out of a specific region and is calculated as the sum of the partial derivatives of the horizontal velocity components (u and v) with respect to x and y, respectively. Positive divergence leads to upwelling as surface water is drawn away, allowing deeper water to rise and replace it.The monthly distribution of the various physical and biogeochemical fields near the GRD region displays interesting signatures (Supplementary Figures S1–S4). Since a detailed analysis of each month will be too descriptive, we focus on January, April, July, and October to examine the evolution of various fields in the boreal seasons of winter, spring, summer, and fall, respectively. GRD exhibits a strong seasonality driven by the Southwest Monsoon (SWM) season. Monthly climatology (Figure 2A) reveals a peak discharge exceeding 4700 m3.s-1 in August, coinciding with peak SWM rainfall. Subsequently, GRD declines through September, October, and November, becoming negligible by December. Surface salinity distribution (Figure 2B) generally shows a freshening trend during fall due to the equatorward movement of the West India Coastal Current (WICC) transporting low-salinity waters from the northern BoB. Interestingly, GRD also contributes significantly to this freshening during the SWM season, causing a decrease in over 2 practical salinity units (psu) near the river mouth compared to the pre- monsoon values. From summer to winter, salinity becomes the dominant factor controlling near-surface density stratification. This stratification results in a shallow mixed layer and the formation of a thick barrier layer. The shallow mixed layer restricts the exchange of air-sea fluxes, while the barrier layer suppresses mass and energy exchange between the surface layers and the deeper ocean interior. In short, though the relative contribution of fresh water from GRD is negligible compared to other rivers (Sarma et al., 2016), it has the potential to impact the physical and biogeochemical state of the BoB, especially near the Godavari River mouth region. GRD profoundly amplifies spatiotemporal Chl-a dynamics in the BoB during the SWM season (Figure 2C). Pre-monsoon and winter months are characterized by Chl-a concentrations lingering well below 0.4 mg.m-3, indicative of quiescent phytoplankton growth. In stark contrast, the SWM season ushers in a vibrant pulse of primary productivity, propelling Chl-a to peak values exceeding 2.2 mg.m-3 within a significantly expanded spatial footprint encompassing regions up to 83°E around the river mouth (Figure 2C). This pronounced Chl-a bloom intricately mirrors the fluctuations in GRD, diminishing in intensity as the monsoon recedes. The riverine influx of nutrients orchestrates this dramatic seasonal spectacle, directly fueling phytoplankton proliferation and consequently boosting regional NPP, as depicted in Figure 2D. NPP exhibits a gradual ascent from April that culminates at the onset of SWM, and surges beyond 1000 mgC.m-2 by July. However, with the waning of the monsoon and subsequent decline in GRD, NPP undergoes a steep drop, leaving the river mouth region with markedly reduced productivity by October. Thus, the annual peak in GRD serves as a potent force, not only inducing vertical stratification but also transforming the BoB into a highly productive ecosystem during the SWM season. The thriving phytoplankton blooms fueled by enhanced nutrients from the Godavari River are projected to contribute to a significant suspension of organic matter in subsurface BoB waters. To gain insights into this process, we utilized particle backscatter data from two BGC-ARGO floats (2902264 and 2902193) deployed near the river mouth (Figure 1). These floats offered three individual profiles spanning the SWM to winter seasons, allowing us to analyze the organic matter dynamics across contrasting productivity regimes. Details of the data acquisition and processing are provided in Table 1. The BGC-ARGO float 2902264 revealed a pronounced peak in particle backscatter (>0.002 m-1), coinciding with elevated Chl-a concentrations (>3.5 mg m-3) at depths between 30 and 50 m in October 2018 (Figures 1A, B). This peak, located at a depth of 40-50 m, suggests a substantial abundance of organic matter during peak productivity. By November, the intensity of the particle backscatter peak diminished to 0.00165 m-1 at 39 m, accompanied by a reduction in Chl-a to 1.5 mg.m-3 at 37 m. This decline implied a weakening of organic matter abundance as productivity decreased. Notably, while the extreme particle backscatter peaks were absent by January 2019, Chl-a exhibited a secondary peak at 48 m, albeit with a lower magnitude (<0.8 mg.m- 3). This suggests a potential decoupling between Chl-a and organic particle suspension during this period. Data from BGC-ARGO float 2902193 qualitatively support the observed patterns from float 2902264 (Figures 1C, D) in the upper 80 m of the water column. The highest values for both particle backscatter (>0.003 m-1) and Chl-a (>3.5 mg.m-3) were observed during November 2016 (late fall/early winter season) at depths between 25 and 40 m. The peak particle backscatter (>0.003 m-1) occurred at 38 m, while the peak Chl-a (>3.5 mg.m-3) was slightly shallower at 28 m. These elevated values suggest an enhanced production and possible export of organic matter during the fall, following the peak productivity of the SWM. However, the September 2016 data showed lower particle backscatter (<0.0028 m-1) and significantly reduced Chl-a (<1.9 mg.m-3), indicating weaker organic matter suspension preceding the fall peak. Interestingly, while December 2016 exhibited the highest particle backscatter value (>0.0032 m-1) between 85 and 95 m, Chl-a concentrations remained very low (<1 mg.m-3) at depths between 30 and 80 m. This discrepancy suggests a potential decoupling between particle export and phytoplankton biomass at deeper depths during this period. Thus, our analysis of the BGC-ARGO data from both floats indicates a seasonal pattern of enhanced Chl-a inducing an elevated particle backscatter underneath it, along with increased organic matter abundance near the Godavari River mouth region, particularly at depths between 25 and 55 m during the fall season. Furthermore, this abundance appears to be linked to elevated Chl-a and NPP during the preceding SWM season.Hence, GRD significantly impacts the river mouth region during the SWM season through a multifaceted interplay of stratification, primary productivity, and organic matter abundance. The pronounced stratification resulting from a shallow mixed layer and a thick barrier layer generated by GRD restricts vertical mixing, potentially minimizing DO transport from the surface to subsurface layers. Simultaneously, the riverine influx of nutrients fuels phytoplankton growth, leading to enhanced Chl-a concentrations and culminating in elevated NPP. This primary productivity surge drives organic matter export into subsurface layers, potentially capable of influencing DO distribution through microbial decomposition processes. In conclusion, the combined effects of altered stratification, intensified primary productivity at the surface, and organic matter sinking into subsurface layers during the post-SWM season are likely to significantly modify the DO distribution (both horizontal and vertical) near the Godavari River mouth region. The region near the Godavari River mouth lies within the BoB- OMZ, a persistent feature characterized by year-round hypoxic conditions at intermediate depths (200-1,000 m). This section focuses on the potential impact of enhanced organic matter sinking during the SWM and early fall seasons on the distribution of DO and the dynamics (intensity and upper limit) of the BoB-OMZ in the Godavari River mouth region. Analysis of DO profiles from BGC-ARGO floats near the Godavari River mouth reveals the presence of an OMZ (DO within 0-0.5 ml.l-1) between 50 to 800 m (average depth levels), with a dynamic response to seasonal changes in organic matter input (Figure 3). Both floats exhibit a shoaling and intensification of the OMZ during the fall season, indicating a potential influence of riverine flow on DO consumption. At float 2902264, the upper limit of the OMZ deepened from 40-45 m in October 2018 (DO ~ 0 ml.l-1) to 50m in November (DO ~ 0.2 ml.l-1) and to 100 m by January 2019 (DO ~0.5 ml.l-1) (Figure 3A). This pattern suggests a gradual deepening of the OMZ as surface productivity declined and oxygen consumption in subsurface layers for microbial respiration reduced. Float 2902193 exhibited a similar trend, with the upper OMZ boundary at 35-40 m in November 2016 (following the SWM with a DO of ~ 0 ml.l-1), which was as deep as 75 m in September (pre-SWM with a DO of ~ 0.2 ml.l-1) and further down to 105 m in December (with a DO of ~ 0.2 ml.l-1) (Figure 3B). These observations collectively suggest a significant shoaling and intensification of the OMZ near the Godavari River mouth during the fall season. Thus, the enhanced Chl-a and particle backscatter (between 25 and 55 m depth) during the fall season driven by GRD (Figure 1) coincides with shoaling and intensification of the OMZ near the Godavari River mouth. This provides strong evidence for the potential impact of high organic matter sinking on the dynamics of the BoB-OMZ. The limited availability of BGC-ARGO observations in the GRD region restricts our ability to investigate the seasonal evolution of DO. Therefore, we turn to the objectively analyzed WOA18 DO data, despite its coastal data gap. WOA18 offers sufficient coverage (>80% data availability) for a 63-year period (1955-2017), enabling seasonal analysis of various ocean fields. Figures 4A–D display the vertical distribution of DO (surface to 500 m) in the BoB near GRD (16.8°N) during different seasons, derived from WOA18. High DO concentrations (>4-5 ml.l-1) characterize the basin's surface layers (~0-80 m) year-round. Below this, the OMZ prevails, with its upper boundary primarily residing between 80-200 m, exhibiting seasonal and spatial variations. Winter and spring months reveal similar spatial patterns of the OMZ (Figures 4A, B), with its upper limit confined between 80-110 m depth. A pronounced OMZ (DO < 0.3 ml.l-1) persists below 500 m throughout these seasons. Summer (July) exhibits distinct spatial patterns from the previous two seasons (Figure 4C). Except for a narrow depth range (200-250 m, 92.5-93.5°E), DO levels below the mixed layer generally remain above 0.2 ml.l-1. Additionally, the OMZ upper boundary in the western basin deepens to 110-130 m. The fall season witnesses the most profound OMZ expansion and intensification near the western basin, where the Godavari River discharges (Figure 4D). DO levels below 0.1 ml.l-1 appear between 60-175 m in this region, a stark contrast to summer values of 1-1.5 ml.l-1 (Figure 4C). The shoaling and intensification of the OMZ at subsurface depths (40-200 m) near the Godavari River mouth, evident in the BGC- ARGO and WOA18 data during fall, necessitates further investigation. To validate this localized phenomenon, we delved deeper into the seasonal evolution of DO within this critical depth range (40-200 m) in the western BoB (Figures 4E–H). Winter reveals a clear influx of highly oxygenated water from the southern BoB (Figure 4E), aided by the prevailing ocean current system (Figure 2B). This influx maintains sufficient DO (>1 ml.l-1) in the western BoB throughout winter and spring (Figures 4E, F). Even in summer (July) (Figure 4G), subsurface DO (averaged over 40-200 m) near the Godavari River mouth remains moderate, exceeding 1.2 ml.l-1. However, a dramatic shift occurs in the fall (October) as the region transforms into an oxygen-depleted zone (<0.5 ml.l-1) (Figure 4H). This stark contrast highlights the dynamic seasonal cycle of subsurface DO in the western BoB. While oxygenated waters prevail near the Godavari delta basin during winter, spring, and summer, a localized and intense OMZ establishes itself near the river mouth during fall. Thus, coinciding with the retreat of the SWM season, the confluence of increased organic matter input from the Godavari River and enhanced stratification likely contributes to the generation of an intense and shallow subsurface OMZ (40-200 m) near the river mouth. The genesis and dynamics of the pronounced subsurface OMZ observed near the GRD region after the retreat of the SWM season are likely influenced by a complex interplay of physical and biogeochemical factors. In this section, we focus on analyzing other processes such as surface ocean circulation and divergence in the western BoB near the GRD region (Figure 5) using GODAS data, recognizing their crucial role in upwelling and associated biogeochemical processes influencing OMZ dynamics. The surface circulation in the western BoB exhibits distinct seasonal patterns near the Godavari River mouth, playing a crucial role in regional upwelling and potentially influencing the observed OMZ dynamics. The pre-Southwest Monsoon and SWM seasons are characterized by strong northward coastal currents and an eastward current across the BoB, as shown in Figures 5B, C, respectively. Additionally, during the SWM season, south-westerly winds induce positive divergence along the western BoB coast, favoring coastal upwelling (Figure 5C). Following the retreat of the SWM season, the strong monsoon currents subside, and southward- moving coastal currents dominate the western BoB (Figure 5D). This shift creates favorable conditions for upwelling near the GRD region and northwards, indicated by positive surface divergence (Figure 5D). Winter (January) sees a further weakening of the southward current, and positive divergence persists near the GRD region, suggesting continued upwelling potential (Figure 5A). Thus the oceanic region near the GRD experiences favorable conditions for upwelling throughout the SWM, fall, and late winter periods due to the combined influence of surface currents and divergence. This sustained upwelling could potentially contribute to the observed surge in chlorophyll-a (Chl-a), NPP, and the subsequent intensification and vertical expansion (shoaling) of the OMZ observed after the retreat of the SWM season. To provide insights into the interplay between GRD and upwelling in shaping dissolved DO and OMZ dynamics in the BoB, we selected two geographically distinct study regions. Box A (82-84°E, 15.5-17°N) lies directly at the Godavari River mouth, maximizing its exposure to GRD influence and benefiting from favorable upwelling conditions during the SWM season. In contrast, Box B (84-86°E, 17-18.5°N), located slightly north, experiences minimized GRD influence while retaining similar upwelling conditions during the SWM season. This strategic selection allows for a comparative analysis, disentangling the individual and combined effects of GRD and upwelling on DO and OMZ dynamics. Figure 6 represents the seasonal evolution of vertical velocity (GODAS data), and those of Chl-a (OC-CCI data), NPP (OC-CCI), and depth-averaged (40-200 m) dissolved oxygen (WOA18 data) in these two selected oceanic regions. The analysis unfolds similar qualitative patterns for vertical velocity (upwelling) in both boxes. In both the oceanic regions, upwelling increases with the emergence of the SWM season and starts declining with its withdrawal. In comparison, Box A records higher values for upwelling than Box B (Figure 6A). The highest upwelling was recorded in July in both boxes, 0.72×10-5 m.s-1 in Box A and 0.58×10-5 m.s-1 in Box B. The increase in upwelling during the SWM season clearly reflects the seasonal evolution of Chl-a in Box A, whereas Box B shows a slight decreasing trend from June to July, although it maintained an overall increasing trend during the SWM season (Figure 6B). Both the regions reflected mild Chl-a values during rest of the year. In comparison, Chl-a blooms in Box A (0.8-0.9 mg.m-3) were almost twice as intense as Box B (0.4-0.5 mg.m-3) during the SWM season. NPP also showed a similar seasonal signature (Figure 6C). Both boxes highlighted an increasing trend in NPP during the SWM season and showed similar patterns during the rest of the year. Similar to the Chl-a distribution, Box A recorded very high (> 1100 mgC.m-3) NPP distribution compared to Box B (< 850 mgC.m-3) during the SWM season. The rise in Chl- a and NPP during the SWM season significantly impacted seasonal DO fluctuations in both study regions (Figure 6D). While DO exhibited a mildly increasing trend in both boxes during late winter and pre-monsoon, it displayed a substantial decline with the onset of the SWM season. In Box A, DO plummeted from 3 ml.l-1 in May to a critical low of 0.1 ml.l-1 in October (fall), representing a drastic decrease of 2.9 ml.l-1. In contrast, Box B experienced a smaller decline, with DO decreasing from 2.2 ml.l-1 in June to an average of 0.55 ml.l-1 during fall (September-November), representing a decrease of 1.75 ml.l-1. In conclusion, it is evident that SWM- driven biogeochemical activity was significantly enhanced in Box A, directly influenced by GRD, leading to pronounced oxygen consumption during fall. This comparative analysis highlights the crucial role of GRD in shaping DO and OMZ dynamics in the BoB. This study delves into the profound biogeochemical impact of GRD in the BoB, with a particular focus on the region near the river mouth. Our key finding is the intriguing presence of an intense and shallow OMZ within the subsurface (40-200 m) depths near the Godavari River mouth during the post-monsoon season which has hardly been mentioned previously. Notably, this phenomenon differs from the conventional intermediate-depth BoB-OMZ prevalent in the basin (McCreary et al., 2013). The temporal evolution of this shallow OMZ was elucidated through data from two BGC-ARGO floats located close to the river discharge region. Their observations revealed a clear intensification and shoaling of the OMZ during fall. To unveil the spatial extent and context of this phenomenon, we leveraged the broader coverage of WOA18 data, facilitating comparisons with other crucial variables. Furthermore, to disentangle the relative influence of GRD and upwelling on OMZ dynamics, we conducted a comparative analysis in two geographically distinct locations. This comparative analysis proved the pivotal role of GRD in shaping the biogeochemical environment near the river mouth. Despite both regions experiencing similar upwelling patterns, the area directly influenced by GRD exhibited significantly higher Chl-a blooms, enhanced NPP during the SWM season, and a more pronounced oxygen consumption during fall. These observations strongly suggest that the extensive nutrient influx from GRD fuels increased primary productivity, leading to enhanced organic matter suspension and subsequent oxygen depletion in the subsurface layers, culminating in the observed intense and shallow OMZ. Our findings paint a compelling picture of the substantial influence of GRD on BoB biogeochemistry, particularly in the vicinity of the river mouth. Briefly, during the SWM season, the influx of nutrients from GRD, combined with enhanced coastal upwelling, creates favorable conditions for phytoplankton blooms. These blooms, peaking in August and September, are characterized by high Chl-a concentrations and lead to a surge in NPP. However, this elevated productivity comes with a subsequent cost. As the blooms senesce and decompose by fall, an elevation in suspended organic matter at the subsurface depths (40-200 m) develops. This organic matter fuels the activity of heterotrophic microbial communities, leading to intense oxygen consumption through respiration. This microbial respiration, coupled with the reduced atmospheric oxygen supply due to strong stratification, drives the shoaling and intensification of the OMZ off the Godavari River mouth. Understanding and quantifying these impacts are crucial for various reasons. First, alterations in GRD can directly affect primary productivity and food webs in the coastal zone. Second, changes in the OMZ's intensity can influence the release of greenhouse gases such as CO2 and N2O, potentially impacting global climate change. Finally, understanding the dynamic interplay between riverine inputs, upwelling, and biogeochemical processes is critical for predicting and managing the future state of the BoB ecosystem. In summary, although the discharge of the Godavari River is negligible compared to other rivers flowing into the BoB, GRD plays a pivotal role in shaping the biogeochemistry of the bay, with profound impacts on primary productivity, oxygen dynamics, and greenhouse gas emissions. Further research is needed to fully understand the intricate interactions between GRD, upwelling, and biogeochemical processes, and to predict the consequences of future alterations in riverine inputs on this vital ecosystem. It should, however, be noted that the interpretations derived from our analysis are subject to the limited temporal and spatial sample extent, which precludes us from any statistical significance test of the results. We are in the process of initiating a few high-resolution sensitivity experiments with the ocean model that will be 15-20 years long. The outputs will enable us to quantify the contributions of each parameter separately.    
 
     
 
@@ -1477,5 +1541,16 @@ Open access: False
 [Isadora S. Rocco](https://openalex.org/A5089203565), [Walter J. Gomes](https://openalex.org/A5076621584), [Caroline Bublitz](https://openalex.org/A5017017205), [Isis Begot Krainer](https://openalex.org/A5077609976), [Nelson Américo Hossne](https://openalex.org/A5062135581), [Ross Arena](https://openalex.org/A5054371215), [Solange Guizilini](https://openalex.org/A5070575117), Circulation. 150(Suppl_1)] 2024.https://doi.org/10.1161/circ.150.suppl_1.4143506.
     
 Background: Anatomic burden of coronary artery disease (CAD) has been considered a consistent prognostic marker. Inflammation also increases the cardiovascular risk and plays a significant role in the evolution of atherosclerosis. The progression of CAD impacts the responses to exercise, reducing functional capacity. Despite this knowledge, the specific interplay between inflammation and atherosclerotic burden in influencing submaximal exercise capacity, particularly oxygen uptake (VO 2 ) kinetics, remains underexplored in CAD. This study aims to investigate how these factors correlate with VO 2 on-kinetics in the Six-minute Walk Test (6MWT) in patients with CAD. METHODS: Patients with obstructive CAD, confirmed by coronary angiography, underwent a 6MWT using a mobile telemetric cardiopulmonary monitoring to assess functional capacity and the VO 2 on-kinetics through the mean response time corrected by work (wMRT). Inflammatory markers were analyzed by dosage of high-sensitivity C-reactive protein, interferon-gama, tumor necrosis factor alpha and interleukins (IL), IL-6, IL-8 and IL-10. Coronary atherosclerotic burden was evaluated by the Grading Scale for Anatomic Burden of Disease from COURAGE Trial. Correlation analyses were performed according to the symmetric distribution of data, using Pearson’s (r) or Spearman’s rank correlation coefficients(r s ). RESULTS: A total of thirty-four patients aged between 60.3±8.0 years were enrolled, presenting body mass index of 26.0±3.7kg/cm 2 , left ventricular ejection fraction of 0.50±0.14, walking distance of 443±66m, VO 2 at steady-state (VO 2SS ) of 896±240ml/min and wMRT of 1.64x10 -3 ± 1.00x10 -3 min 2 /ml. Although correlated with distance and VO 2SS (r=-0.472;p=0.002 and r=-0.434;p=0.015, respectively), atherosclerotic burden was not associated with wMRT (p=0.17). High-sensitivity C-reactive protein and IL-8 were negatively associated with both distance and VO 2SS (r s =-0.428;p=0.001/ r s =-0.543;p=0.001 and r s =-0.438;p=0.014/ r s =-0.407;p=0.019) and positively correlated with wMRT (r s =0.412;p=0.022/ r s =0.505;p=0.003). CONCLUSION: In contrast to anatomic burden, inflammatory markers were associated with both walking intensity and VO 2 kinetics. Therefore, inflammation may be more crucial to exercise response mechanisms than coronary stenosis, suggesting a paradigm shift in our understanding of clinical repercussions of obstructive CAD. Actions able to attenuate the inflammatory profile may improve exercise capacity and prognosis.    
+
+    
+
+## The Extreme Low-mass End of the Mass–Metallicity Relation at z ∼ 7   
+
+OpenAlex: https://openalex.org/W4404482455    
+Open access: True
+    
+[Iryna Chemerynska](https://openalex.org/A5066769642), [Hakim Atek](https://openalex.org/A5068853533), [Pratika Dayal](https://openalex.org/A5001194386), [Lukas J. Furtak](https://openalex.org/A5016653398), [Robert Feldmann](https://openalex.org/A5063586360), [Jenny E. Greene](https://openalex.org/A5039811932), [Michael V. Maseda](https://openalex.org/A5079172029), [Themiya Nanayakkara](https://openalex.org/A5045642753), [Pascal A. Oesch](https://openalex.org/A5073025095), [Seiji Fujimoto](https://openalex.org/A5002100230), [Ivo Labbé](https://openalex.org/A5040520737), [Rachel Bezanson](https://openalex.org/A5020636086), [Gabriel Brammer](https://openalex.org/A5078101036), [Sam E. Cutler](https://openalex.org/A5026357628), [Joel Leja](https://openalex.org/A5065110134), [Richard Pan](https://openalex.org/A5032405274), [Sedona H. Price](https://openalex.org/A5084296896), [Bingjie Wang](https://openalex.org/A5100643437), [John R. Weaver](https://openalex.org/A5048287383), [Katherine E. Whitaker](https://openalex.org/A5080276340), The Astrophysical Journal Letters. 976(1)] 2024.https://doi.org/10.3847/2041-8213/ad8dc9.
+    
+Abstract The mass–metallicity relation provides crucial insights into the baryon cycle in galaxies and strong constraints on galaxy formation models. We use JWST NIRSpec observations from the UNCOVER program to measure the gas-phase metallicity in a sample of eight galaxies during the epoch of reionization at z = 6–8. Thanks to the strong lensing of the galaxy cluster Abell 2744, we are able to probe extremely low stellar masses between 10 6 and 10 8 M ⊙ . Using strong-line diagnostics and the most recent JWST calibrations, we derive extremely low oxygen abundances in the range of 12 + log(O/H) = 6.7–7.8. By combining this sample with more massive galaxies at similar redshifts, we derive a best-fit relation of 12 + log(O/H) =  −   0.076   − 0.03   + 0.03   ×   ( log (   M   ⋆   ) )   2   +   1.61   − 0.52   + 0.52    ×  log (   M   ⋆   ) −   0.26   − 0.10   + 0.10    , which becomes steeper than determinations at z ∼ 3–6 toward low-mass galaxies. Our results show a clear redshift evolution in the overall normalization of the relation, galaxies at higher redshift having significantly lower metallicities at a given mass. A comparison with theoretical models provides important constraints on which physical processes, such as metal mixing, star formation or feedback recipes, are important in reproducing the observations. Additionally, these galaxies exhibit star formation rates that are higher by a factor of a few to tens compared to extrapolated relations at similar redshifts or theoretical predictions of main-sequence galaxies, pointing to a recent burst of star formation. All these observations are indicative of the highly stochastic star formation and interstellar medium enrichment expected in these low-mass systems, suggesting that feedback mechanisms in high- z dwarf galaxies might be different from those in place at higher masses.    
 
     

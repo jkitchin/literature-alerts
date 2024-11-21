@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Nov 20 01:23:58 2024
+Created on Thu Nov 21 01:24:00 2024
 
-Found 5 results from 2024-11-13 to 2024-11-20
+Found 3 results from 2024-11-14 to 2024-11-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Effect of hollow fiber membrane packing on the performance of modules formed with fiber tows   
-
-OpenAlex: https://openalex.org/W4404278345    
-Open access: False
-    
-[Lili Sun](https://openalex.org/A5034596712), [Grigorios Panagakos](https://openalex.org/A5028498558), [G. Glenn Lipscomb](https://openalex.org/A5063620462), Separation Science and Technology. None(None)] 2024.https://doi.org/10.1080/01496395.2024.2424953.
-    
-No abstract    
-
-    
-
-## Techno-Economic Optimization of a Solvent Absorption Process for CO2 Capture with 3D-Printed Intensified Packing   
-
-OpenAlex: https://openalex.org/W4404301555    
-Open access: False
-    
-[Stephen Summits](https://openalex.org/A5094303016), [Debangsu Bhattacharyya](https://openalex.org/A5037148093), [Grigorios Panagakos](https://openalex.org/A5028498558), [Benjamin Omell](https://openalex.org/A5000874144), [Michael Matuszewski](https://openalex.org/A5054503694), No host. None(None)] 2024.https://doi.org/10.2172/2476529.
-    
-No abstract    
-
-    
 
 ## Development of Algebraic and Topological-Based Structured Packing Model   
 

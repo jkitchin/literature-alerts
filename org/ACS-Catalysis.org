@@ -1,136 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Nov 20 01:23:58 2024
+Created on Thu Nov 21 01:23:59 2024
 
-Found 34 results from 2024-11-13 to 2024-11-20
+Found 34 results from 2024-11-14 to 2024-11-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Roles of Acidic Proton for Fe-Containing Zeolite in Direct Oxidation of Methane  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404271393
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Catalytic Carbon Dioxide Hydrogenation
-:PUBLICATION_DATE: 2024-11-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04875")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404271393"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404271393"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404271393"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404271393 (Open access: True)
-    
-[[https://openalex.org/A5085549483][Peipei Xiao]], [[https://openalex.org/A5076566129][Hiroto Toyoda]], [[https://openalex.org/A5100733364][Yong Wang]], [[https://openalex.org/A5036811156][K. Nakamura]], [[https://openalex.org/A5093019473][Samya Bekhti]], [[https://openalex.org/A5039390377][Ryota Osuga]], [[https://openalex.org/A5086456041][Maiko Nishibori]], [[https://openalex.org/A5025232171][Hermann Gies]], [[https://openalex.org/A5074713586][Toshiyuki Yokoi]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04875 
-     
-No abstract    
-
-    
-
-* 2 + 1 > 3: Trimetallic Sites on the Zn-IrP2/FeP Electrode Trigger Synergistic Effect to Activate Industrial-Grade Performance for Hydrazine-Assisted Overall Water Splitting  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404273867
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Science and Technology of Capacitive Deionization for Water Desalination
-:PUBLICATION_DATE: 2024-11-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05825")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404273867"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404273867"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404273867"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404273867 (Open access: False)
-    
-[[https://openalex.org/A5100698629][Xiaoli Sun]], [[https://openalex.org/A5100454118][Jie Liu]], [[https://openalex.org/A5004805684][Yunmei Du]], [[https://openalex.org/A5101631273][Yanru Liu]], [[https://openalex.org/A5068551629][Wenna Wang]], [[https://openalex.org/A5013080126][Dehong Chen]], [[https://openalex.org/A5024585245][Ruiyong Zhang]], [[https://openalex.org/A5058772567][Lei Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05825 
-     
-No abstract    
-
-    
-
-* A Chemoenzymatic Cascade for the Formal Enantioselective Hydroxylation and Amination of Benzylic C–H Bonds  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404276047
-:TOPICS: Catalytic C-H Amination Reactions, Dioxygen Activation at Metalloenzyme Active Sites, Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-11-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03161")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404276047"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404276047"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404276047"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404276047 (Open access: True)
-    
-[[https://openalex.org/A5101742243][Shouxin Zhang]], [[https://openalex.org/A5006553673][Chen Huang]], [[https://openalex.org/A5070630878][Weixi Kong]], [[https://openalex.org/A5103141775][Liya Zhou]], [[https://openalex.org/A5100378741][Jing Wang]], [[https://openalex.org/A5039285985][Frank Hollmann]], [[https://openalex.org/A5050520630][Yunting Liu]], [[https://openalex.org/A5076197416][Yanjun Jiang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03161 
-     
-No abstract    
-
-    
-
-* Interfacial Site Density Engineering of ZnO/Cu Cube Inverse Catalysts for CO2 Hydrogenation Reactions  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404276392
-:TOPICS: Catalytic Carbon Dioxide Hydrogenation, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-11-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06447")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404276392"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404276392"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404276392"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404276392 (Open access: False)
-    
-[[https://openalex.org/A5108050453][Jialin Li]], [[https://openalex.org/A5100446876][Dongdong Wang]], [[https://openalex.org/A5008776627][Wei Xiong]], [[https://openalex.org/A5103067344][Jieqiong Ding]], [[https://openalex.org/A5100639761][Weixin Huang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06447 
-     
-No abstract    
-
-    
-
-* Reversing the Enantioselectivity of Enzymatic Dynamic Kinetic Asymmetric Transformations in the Synthesis of Fused Lactones  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404284677
-:TOPICS: Enzyme Immobilization Techniques, Metabolic Engineering and Synthetic Biology, Natural Products as Sources of New Drugs
-:PUBLICATION_DATE: 2024-11-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05196")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404284677"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404284677"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404284677"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404284677 (Open access: False)
-    
-[[https://openalex.org/A5100812876][Ming-Liang Shi]], [[https://openalex.org/A5100389434][Yao Yao]], [[https://openalex.org/A5101893038][Xinyue Fan]], [[https://openalex.org/A5100377568][Kun Li]], [[https://openalex.org/A5043050875][Xiao‐Qi Yu]], [[https://openalex.org/A5100351081][Yan Liu]], [[https://openalex.org/A5033691855][Zhong‐Liu Wu]], [[https://openalex.org/A5100461388][Na Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05196 
-     
-No abstract    
-
-    
-
-* High-Conversion Propane Dehydrogenation by Photocatalysis under Ambient Conditions  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404297788
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Zeolite Chemistry and Catalysis
-:PUBLICATION_DATE: 2024-11-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06192")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404297788"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404297788"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404297788"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404297788 (Open access: False)
-    
-[[https://openalex.org/A5036804179][Yucheng Yuan]], [[https://openalex.org/A5100385435][Yuhan Zhang]], [[https://openalex.org/A5005426309][Jan Paul Menzel]], [[https://openalex.org/A5004116773][John Santoro]], [[https://openalex.org/A5107529830][Madeline Dolack]], [[https://openalex.org/A5063296458][Hongyan Wang]], [[https://openalex.org/A5089129603][Víctor S. Batista]], [[https://openalex.org/A5040290819][Dunwei Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06192 
-     
-No abstract    
-
-    
 
 * Efficient Construction of β-Arylethylamines via Selective C(sp3)-H Arylation of Aliphatic Amines  :ACS_Catalysis:
 :PROPERTIES:
@@ -715,6 +589,132 @@ No abstract
 OpenAlex: https://openalex.org/W4404459898 (Open access: False)
     
 [[https://openalex.org/A5009729201][Shengqin Guan]], [[https://openalex.org/A5100711147][Baoen Xu]], [[https://openalex.org/A5109737361][Xingbo Yu]], [[https://openalex.org/A5044016858][Yong‐Hong Ye]], [[https://openalex.org/A5100364308][Yuting Liu]], [[https://openalex.org/A5048224087][Taotao Guan]], [[https://openalex.org/A5100703660][Yang Yu]], [[https://openalex.org/A5051728653][Jiali Gao]], [[https://openalex.org/A5080856996][Kaixi Li]], [[https://openalex.org/A5100666573][Jianlong Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05997 
+     
+No abstract    
+
+    
+
+* In(OTf)3-Catalyzed (3 + 3) Dipolar Cyclization of Bicyclo[1.1.0]butanes with N-Nucleophilic 1,3-Dipoles: Access to 2,3-Diazabicyclo[3.1.1]heptanes, 2,3-Diazabicyclo[3.1.1]heptenes, and Enantiopure 2-Azabicyclo[3.1.1]heptanes  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404474976
+:TOPICS: Applications of Photoredox Catalysis in Organic Synthesis, Catalytic Carbene Chemistry in Organic Synthesis, Asymmetric Catalysis
+:PUBLICATION_DATE: 2024-11-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05622")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404474976"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404474976"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404474976"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404474976 (Open access: False)
+    
+[[https://openalex.org/A5100410113][Jian Zhang]], [[https://openalex.org/A5013440240][Jia-Yi Su]], [[https://openalex.org/A5019926319][Hanliang Zheng]], [[https://openalex.org/A5033255955][Hao Li]], [[https://openalex.org/A5052528253][Wei‐Ping Deng]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05622 
+     
+The investigation into the synthesis of azabicyclo[3.1.1]heptanes (azaBCHeps) as bioisosteres to flat aza-aromatics has garnered increasing attention, while it encounters significant challenges. Herein, we have demonstrated the In(OTf)3-catalyzed (3 + 3) dipolar cyclization of bicyclo[1.1.0]butanes (BCBs) with hydrazones and π-allyl-iridium 1,3-dipoles, engendering a diverse array of azaBCHeps. The cyclization of hydrazones and BCBs furnished densely substituted 2,3-diazabicyclo[3.1.1]heptanes and 2,3-diazabicyclo[3.1.1]heptenes under nitrogen and oxygen atmospheres, respectively. A combination of experimental and computational investigations lends robust support for the proton-transfer-interposed sequential mechanism. More importantly, by integrating In(OTf)3/iridium relay catalysis, enantiopure 2-azabicyclo[3.1.1]heptanes were constructed through the (3 + 3) cyclization of BCBs with aza-π-allyl-iridium 1,3-dipoles, in situ generated from N-allyl carbonates. Both methodologies exhibit mild reaction conditions and good tolerance for various functional groups. Moreover, the copious derivatization of products highlights the utility of the newly synthesized heterobicyclic motifs as versatile building blocks in synthetic chemistry.    
+
+    
+
+* Efficient Dehydrogenation of Propane to Propene over PtIn Nanoclusters Encapsulated in Hollow-Structured Silicalite-1  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404483179
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Zeolite Chemistry and Catalysis, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-11-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05135")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404483179"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404483179"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404483179"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404483179 (Open access: False)
+    
+[[https://openalex.org/A5100680487][Shiying Li]], [[https://openalex.org/A5100368347][Decheng Li]], [[https://openalex.org/A5104245933][Baichao Li]], [[https://openalex.org/A5100373751][Xiao Chen]], [[https://openalex.org/A5015965034][Hongbin Wu]], [[https://openalex.org/A5100350748][Sen Wang]], [[https://openalex.org/A5002713112][Mei Dong]], [[https://openalex.org/A5100336336][Jianguo Wang]], [[https://openalex.org/A5079821348][Weibin Fan]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05135 
+     
+Pt-based catalysts have been widely used for propane dehydrogenation to propene. However, the high reaction temperature generally induces serious sintering and agglomeration of metal species, thus leading to rapid deactivation of the catalysts. Herein, PtIn nanoclusters (NCs) encapsulated in hollow-structured silicalite-1 (designated as PtIn@S1–H) was prepared using recrystallization method. This material shows high catalytic performance in propane dehydrogenation. The propane conversion and propene selectivity reach ∼45–47.5% and ∼99%, respectively, at 547 °C at least within 167.6 h. As a result, it displays a significantly higher specific activity for C3H6 formation (0.37–0.59 s–1) than Pt@S1, Pt@S1–H, and other reported Pt-based catalysts. Notably, its catalytic performance is well maintained for more than 3600 h, with propane conversion of ∼31–34% and propene selectivity of ∼91–95%, when pure propane is fed. More interestingly, this catalyst can be reused through regeneration. EXAFS, HAADF-STEM and DFT calculation, and AIMD simulation results show that hollow-structured silicalite-1 crystal morphology not only facilitates the formation of Pt5In3 alloy NCs but also inhibits NC aggregation and growth. PtIn@S1–H showed a TON ≥ 38996 in contrast to 5367, 4928, 798, and 542 obtained on PtIn@S1, PtSn@S1, PtSn/Al2O3, and PtIn/Al2O3, respectively, if the catalysts were considered to be deactivated when the propane conversion was decreased by 15%. This is because alloying of In into Pt NCs weakens the interaction of C3H7* intermediates with metallic Pt NCs and the adsorption of C3H6 on the catalyst surface, thus suppressing the C3H7* cleavage reaction and enhancing propane activation and propene selectivity.    
+
+    
+
+* Iridium Photoredox-Catalyzed Stereoselective C-Glycosylation with Tetrafluoropyridin-4-yl Thioglycosides: A Facile Synthesis of C-α/β-Glucogallins and Their Antioxidant Activity  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404486254
+:TOPICS: Chemical Glycobiology and Therapeutic Applications, Chromones and Flavonoids in Medicinal Chemistry, Click Chemistry in Chemical Biology and Drug Development
+:PUBLICATION_DATE: 2024-11-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05257")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404486254"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404486254"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404486254"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404486254 (Open access: False)
+    
+[[https://openalex.org/A5101953091][Shenghao Li]], [[https://openalex.org/A5100617197][Han Ding]], [[https://openalex.org/A5007536117][Ruge Cao]], [[https://openalex.org/A5031867459][Xiao-Lin Zhang]], [[https://openalex.org/A5049507373][Jingxin Li]], [[https://openalex.org/A5026078987][Xingchun Sun]], [[https://openalex.org/A5008273613][Yaying Li]], [[https://openalex.org/A5075894101][Kan Zhong]], [[https://openalex.org/A5100396159][Peng Wang]], [[https://openalex.org/A5077907557][Chao Cai]], [[https://openalex.org/A5050152196][Hongzhi Cao]], [[https://openalex.org/A5101574923][Ming Li]], [[https://openalex.org/A5100662239][Xue‐Wei Liu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05257 
+     
+We demonstrate an efficient, scalable, and stereoselective C-glycosylation with thioglycosides possessing a unique photoactive tetrafluoropyridin-4-yl (TFPy) thio radical leaving group, affording editable and medicinally and biologically essential C-α-glucogallin derivatives. In the presence of silyl enol ether acceptors, the desulfurative coupling reaction performs smoothly under mild conditions upon exposure to blue light irradiation. This versatile protocol permits the synthesis of sugar-drug chimeras by C1 ketonylation of complex drug-derived silyl enol ethers. The scale-up synthesis, anomeric epimerization, and post-C-glycosylation modification of ketone sugars showcase the reaction's potential utilities. Furthermore, the reaction could be applied to direct carbohydrate skeleton editing by equipping the leaving group on the nonanomeric position. The ketonylation is viable for unprotected TFPy thioglycoside, affording a direct route to unprotected ketonyl sugars. The concise six-step assembly of both configurated C-glucogallins from commercially cheap glucose pentaacetate and their antioxidant reactivity investigations underline the promising medicinal relevance of our current protocols. The reaction mechanism was investigated through a radical trapping experiment, an oxocarbenium trapping experiment, a fluorescence quenching experiment, and Stern–Volmer analysis, confirming that the major glycosyl radical intermediates are generated from the thioglycoside donors, whose tetrafluoropyridin-4-yl thio group could effectively quench the fluorescence of excited Ir(ppy)3 through an oxidative quenching process, and C-glycosylation with oxocarbenium is a complementary route to the product, accounting for examples with moderate selectivities.    
+
+    
+
+* Asymmetric Associate Configuration of Nb Single Atoms Coupled Bi–O Vacancy Pairs Boosting CO2 Photoreduction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404486667
+:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Emergent Phenomena at Oxide Interfaces
+:PUBLICATION_DATE: 2024-11-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04407")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404486667"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404486667"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404486667"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404486667 (Open access: False)
+    
+[[https://openalex.org/A5058123550][Jun Di]], [[https://openalex.org/A5074479934][Yao Wu]], [[https://openalex.org/A5087508399][Jun Xiong]], [[https://openalex.org/A5063417159][Hongwei Shou]], [[https://openalex.org/A5026399204][Ran Long]], [[https://openalex.org/A5100603637][Hailong Chen]], [[https://openalex.org/A5047600031][Peng Zhou]], [[https://openalex.org/A5100364064][Peng Zhang]], [[https://openalex.org/A5025050242][Xingzhong Cao]], [[https://openalex.org/A5100448217][Li Song]], [[https://openalex.org/A5009452553][Wei Jiang]], [[https://openalex.org/A5100423704][Zheng Liu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04407 
+     
+Precisely designing the atomic coordination structure of the catalytic center is highly desired to lower the energy barrier of CO2 photoreduction. The present work shows that engineering Nb single atom coupled Bi–O vacancy pairs (VBi–O) into Bi24O31Br10 (BOB) atomic layers can create a preferential local asymmetric structure. This configuration can result in a stronger local polarization electric field and thus prolong the carrier lifetime, as proved by ultrafast transient absorption spectroscopy. Meantime, this unique Nb SA-VBi–O associate favors the formation of strong chemical interaction between key *COOH intermediate and catalytic center, thus lowering the energy barrier of the rate-limiting step. Benefiting from these features, a high CO generation rate of 76.4 μmol g–1 h–1 for CO2 photoreduction can be achieved over Nb SA-VBi–O BOB atomic layers in pure water, roughly 5.4 and 92.7 times higher than those of BOB atomic layers or bulk BOB, respectively. This work discloses an important paradigm for designing single atom coupled defect associates to optimize photocatalysis performance.    
+
+    
+
+* Unraveling the Key Factors on Structure–Property–Activity Correlations for Photocatalytic Hydrogen Production of Covalent Organic Frameworks  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404488626
+:TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Photocatalytic Materials for Solar Energy Conversion, Chemistry and Applications of Metal-Organic Frameworks
+:PUBLICATION_DATE: 2024-11-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04968")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404488626"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404488626"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404488626"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404488626 (Open access: False)
+    
+[[https://openalex.org/A5054538596][Pengyu Dong]], [[https://openalex.org/A5067455936][Cunxia Wang]], [[https://openalex.org/A5101742243][Shouxin Zhang]], [[https://openalex.org/A5066955841][Jinkang Pan]], [[https://openalex.org/A5101684491][Boyuan Zhang]], [[https://openalex.org/A5100602288][Jinlong Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04968 
+     
+It has been a challenging task to clearly elucidate various structural features and how their interactions affect the photocatalytic hydrogen production performance. In this work, various factors, including crystallinity, specific surface area associated with morphology, energy band gap and energy levels, surface charge, and hydrophilicity, were employed to investigate the structure–property–activity correlations of β-ketoenamine-linked covalent organic framework (TpPa-1-COF) for photocatalytic H2 production, which could influence the light harvesting, charge separation and transfer, and surface catalytic active sites. By using different methods to prepare TpPa-1-COFs, we can regulate these influencing factors to investigate their relationship with activity. It is found that the TpPa-1-COF prepared by a molecular organization method (labeled as TpPa-1 (MO)) exhibits the highest photocatalytic H2 evolution activity compared with the TpPa-1-COF samples prepared by solvothermal methods using acetic acid (HOAc) as a catalyst (TpPa-1 (ST-HOAc)) and KOH solution as a catalyst (TpPa-1 (ST-KOH)), which is associated with the highest crystallinity, the optimal energy levels, the largest BET-specific surface area, and the best hydrophilicity for TpPa-1 (MO). Moreover, our findings suggest that the enhanced total photocatalytic H2 evolution efficiency (ηtotal) of TpPa-1 (MO) may be mainly attributed to the efficient separation and migration of photogenerated charges (η2) and the vibrant surface catalytic active sites (η3). Overall, this work provides some deep insights into the structure–property–activity relation of TpPa-1-COF photocatalysts, which offers valuable inspiration and guidance for the thoughtful design of COF-based photocatalysts for H2 evolution.    
+
+    
+
+* Expanding the Reaction Network of Ethylene Epoxidation on Partially Oxidized Silver Catalysts  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404513109
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-11-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04521")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404513109"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404513109"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404513109"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404513109 (Open access: False)
+    
+[[https://openalex.org/A5008667355][Adhika Setiawan]], [[https://openalex.org/A5079636509][Tiancheng Pu]], [[https://openalex.org/A5066491588][Israel E. Wachs]], [[https://openalex.org/A5070042353][Srinivas Rangarajan]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04521 
      
 No abstract    
 

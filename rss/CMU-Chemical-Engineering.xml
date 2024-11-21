@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Nov 2024 01:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:24:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Effect of hollow fiber membrane packing on the performance of modules formed with fiber tows</title>
-      <link>https://doi.org/10.1080/01496395.2024.2424953</link>
-      <description>Lili Sun, Grigorios Panagakos, G. Glenn Lipscomb, Separation Science and Technology. None(None)] 2024. https://openalex.org/W4404278345
-
-                No abstract</description>
-      <author>Lili Sun, Grigorios Panagakos, G. Glenn Lipscomb</author>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/01496395.2024.2424953</guid>
-    </item>
-    <item>
-      <title>Techno-Economic Optimization of a Solvent Absorption Process for CO2 Capture with 3D-Printed Intensified Packing</title>
-      <link>https://doi.org/10.2172/2476529</link>
-      <description>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski, No host. None(None)] 2024. https://openalex.org/W4404301555
-
-                No abstract</description>
-      <author>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2476529</guid>
-    </item>
     <item>
       <title>Development of Algebraic and Topological-Based Structured Packing Model</title>
       <link>https://doi.org/10.2172/2476526</link>

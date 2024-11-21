@@ -1,0 +1,21 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Digital Discovery</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
+    <description>Articles in Digital Discovery</description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Nov 2024 01:24:02 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Generation of Molecular Conformations using Generative Adversarial Neural Networks</title>
+      <link>https://doi.org/10.1039/d4dd00179f</link>
+      <description>Congsheng Xu, Xiaomei Deng, Yi Lu, Peiyuan Yu, Digital Discovery. None(None)] 2024. https://openalex.org/W4404496394
+
+                The accurate determination of a molecule&#8217;s accessible conformations is key to the success of studying its properties. Traditional computational methods for exploring the conformational space of molecules such as molecular...</description>
+      <author>Congsheng Xu, Xiaomei Deng, Yi Lu, Peiyuan Yu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00179f</guid>
+    </item>
+  </channel>
+</rss>
