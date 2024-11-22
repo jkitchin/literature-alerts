@@ -1,28 +1,8 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Thu Nov 21 01:23:57 2024
+Created on Fri Nov 22 01:25:07 2024
 
-Found 1 results from 2024-11-14 to 2024-11-21
+Found 0 results from 2024-11-15 to 2024-11-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
-* Solvothermal Synthesis of Medium‐Entropy Oxide Spheres for Thermocatalytic Conversion of CO2 to Methanol  :high_entropy_oxides:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404328029
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, High-Entropy Alloys: Novel Designs and Properties
-:PUBLICATION_DATE: 2024-11-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cplu.202400691")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404328029"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404328029"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404328029"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404328029 (Open access: False)
-    
-[[https://openalex.org/A5106310285][Monika Mielniczuk]], [[https://openalex.org/A5025967953][Amy J. Knorpp]], [[https://openalex.org/A5112465371][Rishabh Shukla]], [[https://openalex.org/A5037189873][Rolf Erni]], [[https://openalex.org/A5004123953][Dariusz Kata]], [[https://openalex.org/A5010461720][Thomas Graule]], [[https://openalex.org/A5005531777][Ewa Drożdż]], [[https://openalex.org/A5014688343][Michael Stuer]], ChemPlusChem. None(None)] 2024. https://doi.org/10.1002/cplu.202400691 
-     
-New chemical compositions and structures for medium‐ and high‐entropy oxides (HEOs) currently represent a promising new avenue in materials research for a wide range of applications including catalysis, energy storage, and ceramics. To speed up further development, synthesis methods for multicationic oxides are needed for controlling features like morphology, porosity, and chemical compositions. In this work, mesoporous spinel oxide spheres with five cations are synthesized using solvothermal synthesis techniques. The targeted chemistry included Co, Al, Fe, and Cr as the first four cations, where the fifth cation was varied by increasing cation radii (Ga, In, Yb, Ho, or Ce). After calcination, all as‐synthesized precursors led to mesoporous oxide spheres with spinel oxide structures. In order to demonstrate an example of applicability for targeting different M3+ cations, the sample containing Co, Al, Fe, Cr, and In was tested in a model reaction of thermocatalytic CO2 hydrogenation and is shown to be active with a preference to methanol formation (58% selectivity, 7.8% conversion at 300 °C). The synthesis of multicationic mesoporous spheres appears to be quite flexible in terms of possible M3+ cations compositions and is a potential material to combine targeted chemistry for applications like catalysis.    
-
-    

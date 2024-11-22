@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Nov 2024 01:23:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 01:25:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Solvothermal Synthesis of Medium&#8208;Entropy Oxide Spheres for Thermocatalytic Conversion of CO2 to Methanol</title>
-      <link>https://doi.org/10.1002/cplu.202400691</link>
-      <description>Monika Mielniczuk, Amy J. Knorpp, Rishabh Shukla, Rolf Erni, Dariusz Kata, Thomas Graule, Ewa Dro&#380;d&#380;, Michael Stuer, ChemPlusChem. None(None)] 2024. https://openalex.org/W4404328029
-
-                New chemical compositions and structures for medium&#8208; and high&#8208;entropy oxides (HEOs) currently represent a promising new avenue in materials research for a wide range of applications including catalysis, energy storage, and ceramics. To speed up further development, synthesis methods for multicationic oxides are needed for controlling features like morphology, porosity, and chemical compositions. In this work, mesoporous spinel oxide spheres with five cations are synthesized using solvothermal synthesis techniques. The targeted chemistry included Co, Al, Fe, and Cr as the first four cations, where the fifth cation was varied by increasing cation radii (Ga, In, Yb, Ho, or Ce). After calcination, all as&#8208;synthesized precursors led to mesoporous oxide spheres with spinel oxide structures. In order to demonstrate an example of applicability for targeting different M3+ cations, the sample containing Co, Al, Fe, Cr, and In was tested in a model reaction of thermocatalytic CO2 hydrogenation and is shown to be active with a preference to methanol formation (58% selectivity, 7.8% conversion at 300 &#176;C). The synthesis of multicationic mesoporous spheres appears to be quite flexible in terms of possible M3+ cations compositions and is a potential material to combine targeted chemistry for applications like catalysis.</description>
-      <author>Monika Mielniczuk, Amy J. Knorpp, Rishabh Shukla, Rolf Erni, Dariusz Kata, Thomas Graule, Ewa Dro&#380;d&#380;, Michael Stuer</author>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cplu.202400691</guid>
-    </item>
   </channel>
 </rss>

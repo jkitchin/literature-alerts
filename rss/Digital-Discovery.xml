@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Nov 2024 01:24:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 01:25:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Congsheng Xu, Xiaomei Deng, Yi Lu, Peiyuan Yu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00179f</guid>
+    </item>
+    <item>
+      <title>Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling</title>
+      <link>https://doi.org/10.1039/d4dd00264d</link>
+      <description>Qiang Zhu, Shinnosuke Hattori, Digital Discovery. None(None)] 2024. https://openalex.org/W4404536367
+
+                With advancements in computational molecular modeling and powerful structure search methods, it is now possible to systematically screen crystal structures for small organic molecules. In this context, we introduce the...</description>
+      <author>Qiang Zhu, Shinnosuke Hattori</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00264d</guid>
     </item>
   </channel>
 </rss>
