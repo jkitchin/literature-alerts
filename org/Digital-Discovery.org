@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Nov 22 01:25:11 2024
+Created on Sat Nov 23 01:22:55 2024
 
-Found 2 results from 2024-11-15 to 2024-11-22
+Found 3 results from 2024-11-16 to 2024-11-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -24,6 +24,27 @@ OpenAlex: https://openalex.org/W4404496394 (Open access: True)
 [[https://openalex.org/A5029589907][Congsheng Xu]], [[https://openalex.org/A5066355330][Xiaomei Deng]], [[https://openalex.org/A5101457455][Yi Lu]], [[https://openalex.org/A5025860351][Peiyuan Yu]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00179f 
      
 The accurate determination of a molecule’s accessible conformations is key to the success of studying its properties. Traditional computational methods for exploring the conformational space of molecules such as molecular...    
+
+    
+
+* Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404534236
+:TOPICS: Memristive Devices for Neuromorphic Computing, Neural Interface Technology, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00197d")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404534236"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404534236"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404534236"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404534236 (Open access: True)
+    
+[[https://openalex.org/A5114724666][Frederic Beaupré]], [[https://openalex.org/A5040560517][Anthony Bilodeau]], [[https://openalex.org/A5009549493][Theresa Wiesner]], [[https://openalex.org/A5112449405][G. LECLERC]], [[https://openalex.org/A5083399750][Mado Lemieux]], [[https://openalex.org/A5108820805][Gabriel Nadeau]], [[https://openalex.org/A5114724667][Katrine Castonguay]], [[https://openalex.org/A5101863813][Bi Fan]], [[https://openalex.org/A5036351234][Simon Labrecque]], [[https://openalex.org/A5003942693][Renée Hložek]], [[https://openalex.org/A5014197646][Paul De Koninck]], [[https://openalex.org/A5045218915][Christian Gagné]], [[https://openalex.org/A5052072799][Flavie Lavoie‐Cardinal]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00197d 
+     
+Ca 2+ imaging methods are widely used for studying cellular activity in the brain, allowing detailed analysis of dynamic processes across various scales. Enhanced by high-contrast optical microscopy and fluorescent Ca 2+ ...    
 
     
 

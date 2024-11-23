@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Nov 2024 01:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 01:22:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Congsheng Xu, Xiaomei Deng, Yi Lu, Peiyuan Yu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00179f</guid>
+    </item>
+    <item>
+      <title>Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning</title>
+      <link>https://doi.org/10.1039/d4dd00197d</link>
+      <description>Frederic Beaupr&#233;, Anthony Bilodeau, Theresa Wiesner, G. LECLERC, Mado Lemieux, Gabriel Nadeau, Katrine Castonguay, Bi Fan, Simon Labrecque, Ren&#233;e Hlo&#382;ek, Paul De Koninck, Christian Gagn&#233;, Flavie Lavoie&#8208;Cardinal, Digital Discovery. None(None)] 2024. https://openalex.org/W4404534236
+
+                Ca 2+ imaging methods are widely used for studying cellular activity in the brain, allowing detailed analysis of dynamic processes across various scales. Enhanced by high-contrast optical microscopy and fluorescent Ca 2+ ...</description>
+      <author>Frederic Beaupr&#233;, Anthony Bilodeau, Theresa Wiesner, G. LECLERC, Mado Lemieux, Gabriel Nadeau, Katrine Castonguay, Bi Fan, Simon Labrecque, Ren&#233;e Hlo&#382;ek, Paul De Koninck, Christian Gagn&#233;, Flavie Lavoie&#8208;Cardinal</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00197d</guid>
     </item>
     <item>
       <title>Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling</title>

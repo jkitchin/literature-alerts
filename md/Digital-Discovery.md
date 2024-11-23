@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Nov 22 01:25:11 2024
+Created on Sat Nov 23 01:22:55 2024
 
-Found 2 results from 2024-11-15 to 2024-11-22
+Found 3 results from 2024-11-16 to 2024-11-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -14,6 +14,17 @@ Open access: True
 [Congsheng Xu](https://openalex.org/A5029589907), [Xiaomei Deng](https://openalex.org/A5066355330), [Yi Lu](https://openalex.org/A5101457455), [Peiyuan Yu](https://openalex.org/A5025860351), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00179f.
     
 The accurate determination of a molecule’s accessible conformations is key to the success of studying its properties. Traditional computational methods for exploring the conformational space of molecules such as molecular...    
+
+    
+
+## Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning   
+
+OpenAlex: https://openalex.org/W4404534236    
+Open access: True
+    
+[Frederic Beaupré](https://openalex.org/A5114724666), [Anthony Bilodeau](https://openalex.org/A5040560517), [Theresa Wiesner](https://openalex.org/A5009549493), [G. LECLERC](https://openalex.org/A5112449405), [Mado Lemieux](https://openalex.org/A5083399750), [Gabriel Nadeau](https://openalex.org/A5108820805), [Katrine Castonguay](https://openalex.org/A5114724667), [Bi Fan](https://openalex.org/A5101863813), [Simon Labrecque](https://openalex.org/A5036351234), [Renée Hložek](https://openalex.org/A5003942693), [Paul De Koninck](https://openalex.org/A5014197646), [Christian Gagné](https://openalex.org/A5045218915), [Flavie Lavoie‐Cardinal](https://openalex.org/A5052072799), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00197d.
+    
+Ca 2+ imaging methods are widely used for studying cellular activity in the brain, allowing detailed analysis of dynamic processes across various scales. Enhanced by high-contrast optical microscopy and fluorescent Ca 2+ ...    
 
     
 

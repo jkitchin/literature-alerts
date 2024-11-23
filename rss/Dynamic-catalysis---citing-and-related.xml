@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Nov 2024 01:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 01:22:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Yan Wang, Haoyu Ge, Yixiang Luo, Xianjun Zhu, Longlu Wang, Dafeng Yan</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.157783</guid>
+    </item>
+    <item>
+      <title>Fundamental Insights and Emerging Opportunities in Plasma Catalysis for Light Alkane Conversion</title>
+      <link>https://doi.org/10.1016/j.cogsc.2024.100987</link>
+      <description>Denver J. Haycock, Russell J. Clarke, David B. Go, William F. Schneider, Jason C. Hicks, Current Opinion in Green and Sustainable Chemistry. None(None)] 2024. https://openalex.org/W4404552933
+
+                No abstract</description>
+      <author>Denver J. Haycock, Russell J. Clarke, David B. Go, William F. Schneider, Jason C. Hicks</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cogsc.2024.100987</guid>
     </item>
   </channel>
 </rss>

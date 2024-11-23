@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Nov 22 01:25:08 2024
+Created on Sat Nov 23 01:22:52 2024
 
-Found 34 results from 2024-11-15 to 2024-11-22
+Found 34 results from 2024-11-16 to 2024-11-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Surface-Reconstructed, Mesoporous In1.8Bi0.2O3 Nanocubes as Electrocatalysts for Efficient CO2 Conversion to Formate   
-
-OpenAlex: https://openalex.org/W4404357930    
-Open access: False
-    
-[Yueqi Feng](https://openalex.org/A5081249499), [Jin Xiao](https://openalex.org/A5101679571), [Yiyi Qiu](https://openalex.org/A5109672997), [Jianlin Huang](https://openalex.org/A5030047391), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05431.
-    
-No abstract    
-
-    
-
-## Mechanistic Investigations on Cp*CoIII-Catalyzed Quinoline Transfer Hydrogenation with Formic Acid   
-
-OpenAlex: https://openalex.org/W4404359527    
-Open access: False
-    
-[Nidhi Garg](https://openalex.org/A5087003489), [Pardeep Dahiya](https://openalex.org/A5072568586), [Sonia Mallet‐Ladeira](https://openalex.org/A5063220467), [Rinaldo Poli](https://openalex.org/A5073644685), [Basker Sundararaju](https://openalex.org/A5076430680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05271.
-    
-No abstract    
-
-    
-
-## Phenolic Resin with an Optimized Donor–Acceptor Architecture for Photocatalytic Aerobic Oxidation   
-
-OpenAlex: https://openalex.org/W4404369428    
-Open access: False
-    
-[Meng Li](https://openalex.org/A5100457581), [Mei‐Rong Huang](https://openalex.org/A5101967419), [Lin Zheng](https://openalex.org/A5067601314), [Yidong Hou](https://openalex.org/A5061785514), [Masakazu Anpo](https://openalex.org/A5035012127), [Jimmy C. Yu](https://openalex.org/A5082740886), [Jinshui Zhang](https://openalex.org/A5066153585), [Xinchen Wang](https://openalex.org/A5061543342), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05023.
-    
-No abstract    
-
-    
-
-## Integration of N-Aryl Phenoxazine Photosensitizers and Nickel Catalysts in Polymer Supports Enhances Photocatalytic Organic Transformations   
-
-OpenAlex: https://openalex.org/W4404370581    
-Open access: False
-    
-[Chen Zhu](https://openalex.org/A5019325973), [Yan‐Xiang Li](https://openalex.org/A5041811325), [Chun‐Hua Liu](https://openalex.org/A5114357325), [Huai‐Ping Cong](https://openalex.org/A5015551238), [Yuan‐Yuan Zhu](https://openalex.org/A5014856728), [Wenbin Lin](https://openalex.org/A5057193669), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04920.
-    
-No abstract    
-
-    
-
-## Mechanistic Exploration of N-Heterocyclic Carbene Boranes as the Hydrogen Atom Transfer Reagent in Selective Hydrodefluorination Reactions   
-
-OpenAlex: https://openalex.org/W4404374358    
-Open access: False
-    
-[Amit Jaiswal](https://openalex.org/A5083149720), [Bastian Bjerkem Skjelstad](https://openalex.org/A5089960526), [Satoshi Maeda](https://openalex.org/A5007539161), [Chung‐Yang Huang](https://openalex.org/A5028962524), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05092.
-    
-No abstract    
-
-    
-
-## Construction of Active Rh–TiOx Interfacial Sites on RhFeOx/P25 for Highly Efficient Hydrogenation of CO2 to Ethanol   
-
-OpenAlex: https://openalex.org/W4404375881    
-Open access: False
-    
-[Chenfan Gong](https://openalex.org/A5005585519), [Hao Wang](https://openalex.org/A5100642827), [Jian Zhang](https://openalex.org/A5100409923), [Chengguang Yang](https://openalex.org/A5103948437), [Xianni Bu](https://openalex.org/A5009455946), [Haiyan Yang](https://openalex.org/A5089949087), [Jiong Li](https://openalex.org/A5100613630), [Peng Gao](https://openalex.org/A5111769469), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04954.
-    
-No abstract    
-
-    
-
-## Effect of Cation and Anion Vacancies in Ruthenium Oxide on the Activity and Stability of Acidic Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4404401878    
-Open access: False
-    
-[Jiao Yang](https://openalex.org/A5103251650), [Keyu An](https://openalex.org/A5027984142), [Zhichao Yu](https://openalex.org/A5090438723), [Lulu Qiao](https://openalex.org/A5063542420), [Youpeng Cao](https://openalex.org/A5101316123), [Yujuan Zhuang](https://openalex.org/A5041520738), [Chunfa Liu](https://openalex.org/A5101838706), [Jun Li](https://openalex.org/A5100361782), [Lishan Peng](https://openalex.org/A5072264076), [Hui Pan](https://openalex.org/A5075862322), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02779.
-    
-No abstract    
-
-    
 
 ## Reactive Oxygen Species-Mediated Photooxidation in a Full-Space Electric Field Catalyst: Selectivity and Activity Control of Intramolecular Alcohol Hydroxyl and Aldehyde Groups   
 
@@ -375,6 +298,83 @@ OpenAlex: https://openalex.org/W4404541678
 Open access: False
     
 [Caroline K. Brennan](https://openalex.org/A5081482981), [Jovan Livada](https://openalex.org/A5011950010), [Carlos Alberto Martínez](https://openalex.org/A5082363308), [Russell D. Lewis](https://openalex.org/A5051704741), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03738.
+    
+No abstract    
+
+    
+
+## Catalytic Combustion of Methane over Noble Metal Catalysts   
+
+OpenAlex: https://openalex.org/W4404551760    
+Open access: False
+    
+[Huimei Duan](https://openalex.org/A5045460215), [Fanxin Kong](https://openalex.org/A5101448533), [Xinze Bi](https://openalex.org/A5002542603), [Lei Chen](https://openalex.org/A5100333579), [Hangrong Chen](https://openalex.org/A5013084576), [Dongjiang Yang](https://openalex.org/A5101567103), [Weixin Huang](https://openalex.org/A5100639761), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05650.
+    
+As one of the cleanest fossil fuel resources, methane is also the second largest greenhouse gas after CO2 owing to its strong greenhouse effect. The direct emission of large quantities of trace and unburned methane causes a serious energy loss and greenhouse effect. Catalytic methane combustion is a promising strategy in eliminating methane slip to address the urgent environmental issue. However, the current methane abatement catalysts still face great challenges in thermal stability, water resistance, and sulfur tolerance. In this review, we focus on the popular noble metal-based catalysts, discuss the distinct reaction mechanisms including the Langmuir–Hinshelwood model, Eley–Rideal model, Mars–van Krevelen model, and two-term mechanisms. The deactivation mechanisms induced by sintering, sulfur, and water on popular Pd-based catalysts are then analyzed. Then, we outline the promotion strategies from two aspects, i.e., construction of a core–shell structure and electronic engineering of the active phase to improve thermal stability and poisoning resistance. Finally, a summary and prospects with an emphasis on the newly developed oxide-metal interfaces and photothermal catalysis for highly efficient methane combustion are addressed.    
+
+    
+
+## Photoelectrochemical Synthesis of Benzo[b]phosphole Oxides via Sequential P–H/C–H Bond Functionalizations   
+
+OpenAlex: https://openalex.org/W4404563322    
+Open access: True
+    
+[N. K. SAHA](https://openalex.org/A5007654596), [Burkhard Koenig](https://openalex.org/A5067475475), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06292.
+    
+Benzo[b]phosphole oxides are important P-heterocycles that find applications in optoelectronics due to their inherent photophysical properties. Traditional routes for the synthesis of such molecules from readily available precursors require stoichiometric amounts of transition metal salts, bases, oxidants, and additives, thereby lacking efficiency. Photochemical pathways still need a terminal oxidant to complement the photocatalytic cycle, whereas electricity may be a viable oxidant. Hence, photoelectrochemistry (PEC), combining photocatalysis and synthetic organic electrochemistry, was used to simplify the synthetic protocols. We use the potency of 4CzIPN for the consecutive P–H/C–H bond functionalizations for preparing benzo[b]phosphole oxides from secondary phosphine oxides and nonactivated internal alkynes with up to 93% yields and with good functional group tolerance. Detailed mechanistic investigations confirm an intermolecular electron transfer between 4CzIPN and aryl secondary phosphine oxides upon photoexcitation. The photocatalyst is regenerated by anodic oxidation.    
+
+    
+
+## Organocatalytic Asymmetric Electrophilic Amination of Allylic Boronates   
+
+OpenAlex: https://openalex.org/W4404563337    
+Open access: False
+    
+[Giovanni Centonze](https://openalex.org/A5077730496), [Arianna Grandi](https://openalex.org/A5114728219), [Andrea Pellegrini](https://openalex.org/A5076223736), [Paolo Righi](https://openalex.org/A5085857744), [Chiara Portolani](https://openalex.org/A5049944494), [Giorgio Bencivenni](https://openalex.org/A5076128769), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05237.
+    
+The asymmetric addition of allylic boronates to electrophiles is a powerful method for preparing chiral molecules bearing synthetically valuable allylic moieties. While effective catalytic methods exist, they have so far been limited to the enantioselective allyl- and crotyl-boration of carbonyl compounds and imines, thereby forming C–C bonds. Here, we present a strategy that expands the scope of this catalytic asymmetric platform to include the stereoselective formation of C–N bonds. We have identified an inexpensive and readily available chiral diol that catalyzes the addition of allylic boronates to azodicarboxylates, affording chiral allylic hydrazides with high stereocontrol. This electrophilic amination chemistry shows a broad substrate scope and requires mild conditions, proceeding at ambient temperature. Mechanistic studies reveal that the chiral diol catalyst facilitates the formation of a chiral allylic boronate through the reversible exchange of the boron's achiral alkoxy ligand. By coordination with the electrophilic azodicarboxylate, the substrates mutually activate each other, allowing for the stereoselective transfer of the allyl group.    
+
+    
+
+## SiOx Interfacial Engineering of UV/Ozone Oxidation for an Efficient Water-Reduction Metal–Insulator–Semiconductor Silicon Photocathode   
+
+OpenAlex: https://openalex.org/W4404563346    
+Open access: False
+    
+[Chenxiao Jiang](https://openalex.org/A5028227271), [Siqin Zhou](https://openalex.org/A5057937956), [Jinlu Han](https://openalex.org/A5076856796), [Guancai Xie](https://openalex.org/A5031860089), [Jian Gong](https://openalex.org/A5033246962), [Juan Zhang](https://openalex.org/A5042664703), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05792.
+    
+A metal–insulator–semiconductor (MIS) structure is an attractive interfacial structure for efficient photoelectrochemical (PEC) water-splitting reactions. However, developing a cost-effective and highly active photoelectrode for the PEC water-splitting reaction is still a major challenge. In this study, we use an easy-to-operate and economical UV/ozone (UV/O3) oxidation process to prepare ultrathin SiOx oxide as an insulating layer, which is integrated with the bilayer non-precious-metal collector Al/Ni serving as the catalyst and the p-Si semiconductor to obtain a cost-effective and efficient MIS structure photocathode. The outcomes demonstrate that the ultrathin SiOx insulation layer significantly improves the PEC hydrogen evolution reaction (HER), through comparing the photovoltage and photocurrent density of the MIS system. The inner metal Al in the bilayer collector Al/Ni regulates the degree of band bending at the semiconductor–metal interface. Additionally, the presence of the ultrathin Al2O3 insulation layer effectively reduces Fermi-level pinning, which promotes the efficient transfer of photoelectrons to electrolytes. These were confirmed through photoelectric performance testing of the MIS system. The generation of a photocurrent of 15 mA cm–2 at a potential level of 0 V (vs reversible hydrogen electrode) has been obtained by optimizing the thickness of the SiOx and bilayer non-precious-metal collector. This study presents an economical and efficient strategy for enhancing PEC-HER performance in silicon-based photocathodes using an MIS structure.    
+
+    
+
+## {TiO2/TiO2(B)} Quantum Dot Hybrids: A Comprehensible Route toward High-Performance [>0.1 mol gr–1 h–1] Photocatalytic H2 Production from H2O   
+
+OpenAlex: https://openalex.org/W4404567183    
+Open access: True
+    
+[Christos Dimitriou](https://openalex.org/A5080050755), [Loukas Belles](https://openalex.org/A5019048238), [Nikos Boukos](https://openalex.org/A5050545965), [Yiannis Deligiannakis](https://openalex.org/A5070708239), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05001.
+    
+Industrial-scale photocatalytic H2 production from H2O is a forward-looking aim in research and technology. To this end, understanding the key properties of TiO2 as a reference H2 production photocatalyst paves the way. Herein, we explore the TiO2 nanosize limits, in conjunction with the TiO2(B) nanophase, as a strategy to enhance the photocatalytic H2 production at >150 mmol/g/h. We present a targeted engineering realm on the synthesis of quantum dots (QDs) of TiO2 consisting of an anatase core (3 nm) interfaced with a nanometric shell of the TiO2(B) phase, synthesized through a modified flame spray pyrolysis (FSP) process. The {TiO2-anatase/TiO2(B)} core–shell QDs, with high specific surface area SSA = 360 m2/gr, achieve a milestone H2 production yield of 156 mmol/g/h and solar-to-H2 efficiency nSTH = 24.2%. We demonstrate that diligent control of the TiO2-anatase/TiO2(B) heterojunction, in tandem with lattice microstrain, are key factors that contribute to the superior H2 production, i.e., not only the high SSA of the QDs. At these quantum-size limits, the formation of lattice dislocations and interstitial Ti centers enhances photon absorption at ∼2.3 eV (540 nm), resulting in the generation of midgap states around the Fermi energy. EPR spectroscopy provides direct evidence that the photoinduced holes are preferentially localized on the TiO2(B) shell, while the photoinduced electrons accumulate on the anatase nanophase. Combined electrochemical and photocatalytic analyses demonstrate that the presence of an optimal TiO2(B) phase is significant for the photoactivity of TiO2 in all QD materials. High SSA does contribute to enhanced photocatalytic H2 production; however, its role is not the key-determinant. TiO2 lattice-dislocations in QDs provide extra DOS that can additionally assist in the photon utilization efficiency. Overall, the present work reveals a general concept, that is, at the quantum-size scale, lattice microstrain engineering and interstitial-states' formation are spontaneously facilitated by nanolattice physics. Diligent optimization of these properties offers a pathway toward high-end photocatalytic efficacy.    
+
+    
+
+## Cofactor-Inspired Quinone Catalysis Following a One-Electron Hydrogen Atom Transfer Pathway   
+
+OpenAlex: https://openalex.org/W4404572577    
+Open access: False
+    
+[Amreen K. Bains](https://openalex.org/A5020953774), [Harshit Jain](https://openalex.org/A5110605417), [Abhishek Kundu](https://openalex.org/A5086765861), [Rahul Singh](https://openalex.org/A5108606659), [Sudha Yadav](https://openalex.org/A5019108600), [Yadav Ankit](https://openalex.org/A5026191696), [Debashis Adhikari](https://openalex.org/A5081346085), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05988.
+    
+Alcohol dehydrogenation catalysts in an aerobic atmosphere are often inspired by biological cofactors, which play a major role in controlling the redox chemistry. A large body of work mimicking quinone-containing cofactors established two major mechanistic routes, addition–elimination or transamination. Both of these pathways are completely regulated by two-electron processes, despite the possibility of the cofactor motif being reduced by one electron. In stark contrast to the established mechanisms, we demonstrate a one-electron pathway in quinone catalysis toward dehydrogenating alcohols. The described pyrene dione molecule is efficient in catalytic dehydrogenation of primary, secondary, and aliphatic alcohols. The process starts with the photoexcitation of the dione motif which becomes photoreduced by KOtBu to generate a persistent semiquinonate radical. The substrate alcohol interacts with the quinone backbone to forge a hydrogen-bonded intermediate, which leads to a crucial hydrogen atom transfer (HAT) step, to accomplish the dehydrogenation reaction. A series of kinetic experiments including Bell–Evans–Polanyi correlation with the bond dissociation enthalpy firmly establish HAT to be rate-determining during dehydrogenation reactions. A kinetic isotope effect measured for the dehydrogenation process at 30 °C is 7.7 ± 0.9. Interception of a series of intermediates by a radical quencher in conjunction with a radical-probe substrate further affirms the radical-mediated, one-electron pathway to be operative that is in striking contrast to two-electron-driven quinone catalysis established so far.    
+
+    
+
+## Electrochemical Promotion of Catalysis by Lithium-Ion   
+
+OpenAlex: https://openalex.org/W4404579251    
+Open access: False
+    
+[Ju Wang](https://openalex.org/A5100648239), [Shuo Yan](https://openalex.org/A5028150563), [Kholoud E. Salem](https://openalex.org/A5079471616), [Christopher Panaritis](https://openalex.org/A5045865860), [Mohamed S.E. Houache](https://openalex.org/A5054037157), [Yaser Abu‐Lebdeh](https://openalex.org/A5078262597), [Drew Higgins](https://openalex.org/A5044827415), [Elena A. Baranova](https://openalex.org/A5044206105), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04622.
     
 No abstract    
 

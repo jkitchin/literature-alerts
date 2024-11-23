@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Nov 2024 01:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 01:22:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Room-Temperature CO2 Conversion to Carbon Using Liquid Metal Alloy Catalysts without External Energy Input</title>
-      <link>https://doi.org/10.1016/j.jics.2024.101467</link>
-      <description>Mahesh Kumar Gagrai, Journal of the Indian Chemical Society. None(None)] 2024. https://openalex.org/W4404399114
-
-                No abstract</description>
-      <author>Mahesh Kumar Gagrai</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jics.2024.101467</guid>
-    </item>
-    <item>
-      <title>Better Together: Synergic Effect of Gallium&#8208;Based Catalyst and Porous Support for Reduction Reactions</title>
-      <link>https://doi.org/10.1002/cctc.202401429</link>
-      <description>Maialen S&#225;nchez, Simon Carl, Nicola Taccardi, Marco Haumann, Benjamin Apeleo Zubiri, Peter Wasserscheid, Erdmann Spiecker, Nicolas Vogel, Julien Bachmann, Giulia Magnabosco, ChemCatChem. None(None)] 2024. https://openalex.org/W4404375720
-
-                Liquid metal solutions are a new class of catalysts with outstanding properties in terms of catalytic conversion and resistance to coking. Finding the perfect combination of catalytic particles with homogeneous size distribution and support material able to stabilize them during catalysis is key for preparing model systems to gain understanding of these complex catalytic processes. In this work, we present a method for the preparation of small and narrowly distributed gallium&#8208;palladium particles supported on inverse opals, interconnected 3&#8208;dimensional porous networks with a very narrow pore size distribution. Our platform is a promising candidate as supported liquid metal catalytic system thanks to its permeability to fluids and its confined pore environment, which prevents the coalescence of the metal alloy, thus maximizing the surface area available for the catalytic reaction. We demonstrate their enhanced performance when compared to other state of the art systems giving a proof of concept of their application as catalysts for a simple model reaction, the reduction of methylene blue.</description>
-      <author>Maialen S&#225;nchez, Simon Carl, Nicola Taccardi, Marco Haumann, Benjamin Apeleo Zubiri, Peter Wasserscheid, Erdmann Spiecker, Nicolas Vogel, Julien Bachmann, Giulia Magnabosco</author>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401429</guid>
-    </item>
   </channel>
 </rss>

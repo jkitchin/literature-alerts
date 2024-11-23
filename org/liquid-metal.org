@@ -1,49 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Fri Nov 22 01:25:07 2024
+Created on Sat Nov 23 01:22:50 2024
 
-Found 2 results from 2024-11-15 to 2024-11-22
+Found 0 results from 2024-11-16 to 2024-11-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
-* Room-Temperature CO2 Conversion to Carbon Using Liquid Metal Alloy Catalysts without External Energy Input  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404399114
-:TOPICS: Carbon Dioxide Capture and Storage Technologies, Catalytic Carbon Dioxide Hydrogenation, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-11-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jics.2024.101467")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404399114"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404399114"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404399114"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404399114 (Open access: False)
-    
-[[https://openalex.org/A5047299189][Mahesh Kumar Gagrai]], Journal of the Indian Chemical Society. None(None)] 2024. https://doi.org/10.1016/j.jics.2024.101467 
-     
-No abstract    
-
-    
-
-* Better Together: Synergic Effect of Gallium‐Based Catalyst and Porous Support for Reduction Reactions  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404375720
-:TOPICS: Catalytic Nanomaterials, Catalytic Reduction of Nitro Compounds, Lithium-ion Battery Technology
-:PUBLICATION_DATE: 2024-11-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cctc.202401429")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404375720"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404375720"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404375720"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404375720 (Open access: False)
-    
-[[https://openalex.org/A5103511840][Maialen Sánchez]], [[https://openalex.org/A5090479714][Simon Carl]], [[https://openalex.org/A5001718718][Nicola Taccardi]], [[https://openalex.org/A5040845269][Marco Haumann]], [[https://openalex.org/A5046935930][Benjamin Apeleo Zubiri]], [[https://openalex.org/A5039726667][Peter Wasserscheid]], [[https://openalex.org/A5062733366][Erdmann Spiecker]], [[https://openalex.org/A5090374920][Nicolas Vogel]], [[https://openalex.org/A5002887494][Julien Bachmann]], [[https://openalex.org/A5025433382][Giulia Magnabosco]], ChemCatChem. None(None)] 2024. https://doi.org/10.1002/cctc.202401429 
-     
-Liquid metal solutions are a new class of catalysts with outstanding properties in terms of catalytic conversion and resistance to coking. Finding the perfect combination of catalytic particles with homogeneous size distribution and support material able to stabilize them during catalysis is key for preparing model systems to gain understanding of these complex catalytic processes. In this work, we present a method for the preparation of small and narrowly distributed gallium‐palladium particles supported on inverse opals, interconnected 3‐dimensional porous networks with a very narrow pore size distribution. Our platform is a promising candidate as supported liquid metal catalytic system thanks to its permeability to fluids and its confined pore environment, which prevents the coalescence of the metal alloy, thus maximizing the surface area available for the catalytic reaction. We demonstrate their enhanced performance when compared to other state of the art systems giving a proof of concept of their application as catalysts for a simple model reaction, the reduction of methylene blue.    
-
-    

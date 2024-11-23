@@ -4,28 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Nov 2024 01:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 01:22:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Comparative study of machine learning techniques for post-combustion carbon capture systems</title>
-      <link>https://doi.org/10.3389/frai.2024.1441934</link>
-      <description>Yeping Hu, Bo Lei, Yash Girish Shah, Jos&#233; Cadena, Amar Saini, Grigorios Panagakos, Phan Nguyen, Frontiers in Artificial Intelligence. 7(None)] 2024. https://openalex.org/W4404387131
+      <title>Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and
+  Computational Models</title>
+      <link>https://doi.org/10.48550/arxiv.2411.11783</link>
+      <description>Jehad Abed, Jiheon Kim, Muhammed Shuaibi, Brook Wander, Boris Duijf, Suhas Mahesh, Hyeonseok Lee, Vahe Gharakhanyan, Sjoerd Hoogland, Erdem Irtem, Janice Lan, Niels Schouten, Anagha Usha Vijayakumar, Jason Hattrick&#8208;Simpers, John R. Kitchin, Zachary W. Ulissi, Aaike van Vugt, Edward H. Sargent, David Sinton, C. Lawrence Zitnick, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4404571293
 
-                Computational analysis of countercurrent flows in packed absorption columns, often used in solvent-based post-combustion carbon capture systems (CCSs), is challenging. Typically, computational fluid dynamics (CFD) approaches are used to simulate the interactions between a solvent, gas, and column's packing geometry while accounting for the thermodynamics, kinetics, heat, and mass transfer effects of the absorption process. These simulations can then be used explain a column's hydrodynamic characteristics and evaluate its CO 2 -capture efficiency. However, these approaches are computationally expensive, making it difficult to evaluate numerous designs and operating conditions to improve efficiency at industrial scales. In this work, we comprehensively explore the application of statistical ML methods, convolutional neural networks (CNNs), and graph neural networks (GNNs) to aid and accelerate the scale-up and design optimization of solvent-based post-combustion CCSs. We apply these methods to CFD datasets of countercurrent flows in absorption columns with structured packings characterized by several geometric parameters. We train models to use these parameters, inlet velocity conditions, and other model-specific representations of the column to estimate key determinants of CO 2 -capture efficiency without having to simulate additional CFD datasets. We also evaluate the impact of different input types on the accuracy and generalizability of each model. We discuss the strengths and limitations of each approach to further elucidate the role of CNNs, GNNs, and other machine learning approaches for CO 2 -capture property prediction and design optimization.</description>
-      <author>Yeping Hu, Bo Lei, Yash Girish Shah, Jos&#233; Cadena, Amar Saini, Grigorios Panagakos, Phan Nguyen</author>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/frai.2024.1441934</guid>
-    </item>
-    <item>
-      <title>The trust region filter strategy: Survey of a rigorous approach for optimization with surrogate models</title>
-      <link>https://doi.org/10.1016/j.dche.2024.100197</link>
-      <description>Lorenz T. Biegler, Digital Chemical Engineering. None(None)] 2024. https://openalex.org/W4404387629
-
-                No abstract</description>
-      <author>Lorenz T. Biegler</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.dche.2024.100197</guid>
+                The search for low-cost, durable, and effective catalysts is essential for green hydrogen production and carbon dioxide upcycling to help in the mitigation of climate change. Discovery of new catalysts is currently limited by the gap between what AI-accelerated computational models predict and what experimental studies produce. To make progress, large and diverse experimental datasets are needed that are reproducible and tested at industrially-relevant conditions. We address these needs by utilizing a comprehensive high-throughput characterization and experimental pipeline to create the Open Catalyst Experiments 2024 (OCX24) dataset. The dataset contains 572 samples synthesized using both wet and dry methods with X-ray fluorescence and X-ray diffraction characterization. We prepared 441 gas diffusion electrodes, including replicates, and evaluated them using zero-gap electrolysis for carbon dioxide reduction (CO$_2$RR) and hydrogen evolution reactions (HER) at current densities up to $300$ mA/cm$^2$. To find correlations with experimental outcomes and to perform computational screens, DFT-verified adsorption energies for six adsorbates were calculated on $\sim$20,000 inorganic materials requiring 685 million AI-accelerated relaxations. Remarkably from this large set of materials, a data driven Sabatier volcano independently identified Pt as being a top candidate for HER without having any experimental measurements on Pt or Pt-alloy samples. We anticipate the availability of experimental data generated specifically for AI training, such as OCX24, will significantly improve the utility of computational models in selecting materials for experimental screening.</description>
+      <author>Jehad Abed, Jiheon Kim, Muhammed Shuaibi, Brook Wander, Boris Duijf, Suhas Mahesh, Hyeonseok Lee, Vahe Gharakhanyan, Sjoerd Hoogland, Erdem Irtem, Janice Lan, Niels Schouten, Anagha Usha Vijayakumar, Jason Hattrick&#8208;Simpers, John R. Kitchin, Zachary W. Ulissi, Aaike van Vugt, Edward H. Sargent, David Sinton, C. Lawrence Zitnick</author>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2411.11783</guid>
     </item>
   </channel>
 </rss>
