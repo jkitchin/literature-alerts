@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sat Nov 23 01:22:55 2024
+Created on Sun Nov 24 01:37:28 2024
 
-Found 3 results from 2024-11-16 to 2024-11-23
+Found 3 results from 2024-11-17 to 2024-11-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 

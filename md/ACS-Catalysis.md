@@ -1,142 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Nov 23 01:22:52 2024
+Created on Sun Nov 24 01:37:26 2024
 
-Found 34 results from 2024-11-16 to 2024-11-23
+Found 25 results from 2024-11-17 to 2024-11-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Reactive Oxygen Species-Mediated Photooxidation in a Full-Space Electric Field Catalyst: Selectivity and Activity Control of Intramolecular Alcohol Hydroxyl and Aldehyde Groups   
-
-OpenAlex: https://openalex.org/W4404410867    
-Open access: False
-    
-[Yi‐Wen Han](https://openalex.org/A5103937843), [Yu-Ting Chu](https://openalex.org/A5100812994), [Lei Ye](https://openalex.org/A5100328600), [Tian‐Jun Gong](https://openalex.org/A5049677180), [Yao Fu](https://openalex.org/A5100719200), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04687.
-    
-No abstract    
-
-    
-
-## Computational Design-Enabled Divergent Modification of Monoterpene Synthases for Terpenoid Hyperproduction   
-
-OpenAlex: https://openalex.org/W4404412681    
-Open access: False
-    
-[Liqiu Su](https://openalex.org/A5007968908), [Pi Liu](https://openalex.org/A5101887980), [Weidong Liu](https://openalex.org/A5100687142), [Qi Liu](https://openalex.org/A5100453148), [Jian Gao](https://openalex.org/A5072536151), [Qiaohua Zhao](https://openalex.org/A5109402585), [Kai‐Zhi Jia](https://openalex.org/A5061220842), [Xiang Sheng](https://openalex.org/A5024722452), [Hongwu Ma](https://openalex.org/A5023379069), [Qinhong Wang](https://openalex.org/A5016303261), [Zongjie Dai](https://openalex.org/A5101875311), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05863.
-    
-No abstract    
-
-    
-
-## Molecular Electrochemical Mediator for Oxidative Multi-Site Proton Coupled Electron Transfer   
-
-OpenAlex: https://openalex.org/W4404412879    
-Open access: False
-    
-[Tarisha Gupta](https://openalex.org/A5109645791), [Yati](https://openalex.org/A5114660219), [Sanyam Sanyam](https://openalex.org/A5080317177), [Anirban Mondal](https://openalex.org/A5085923557), [Biswajit Mondal](https://openalex.org/A5020610169), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05832.
-    
-No abstract    
-
-    
-
-## Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte   
-
-OpenAlex: https://openalex.org/W4404412919    
-Open access: True
-    
-[André Olean‐Oliveira](https://openalex.org/A5004899785), [Najeeb Hasnain](https://openalex.org/A5114660237), [Ricardo Martínez‐Hincapié](https://openalex.org/A5008862433), [Ulrich Hagemann](https://openalex.org/A5074048659), [Adarsh Jain](https://openalex.org/A5041070012), [Doris Segets](https://openalex.org/A5062824606), [Ioannis Spanos](https://openalex.org/A5034471811), [Viktor Čolić](https://openalex.org/A5026566541), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04734.
-    
-No abstract    
-
-    
-
-## Low-Temperature Magnetic Field-Assisted Synthesis of Highly Crystalline Fe(OH)x and Its Directed Carrier Transfer Effect under Optical-Magnetic Fields   
-
-OpenAlex: https://openalex.org/W4404413495    
-Open access: False
-    
-[Li Wang](https://openalex.org/A5100322864), [Yuan Dong](https://openalex.org/A5103069210), [Jie Ying](https://openalex.org/A5020554421), [Yuan Feng](https://openalex.org/A5101872143), [Ziheng Zhu](https://openalex.org/A5007458023), [Yuxuan Xiao](https://openalex.org/A5009260936), [Ge Tian](https://openalex.org/A5060387948), [Ling Shen](https://openalex.org/A5043084585), [Wei Geng](https://openalex.org/A5100379837), [Yi Lu](https://openalex.org/A5034132713), [Si‐Ming Wu](https://openalex.org/A5102697287), [Xiaoyu Yang](https://openalex.org/A5100435418), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04283.
-    
-No abstract    
-
-    
-
-## Manganese-Catalyzed Asymmetric Hydrogenation for Atroposelective Dynamic Kinetic Resolution of Heterobiaryl Ketone N-Oxides   
-
-OpenAlex: https://openalex.org/W4404414560    
-Open access: False
-    
-[Yin-Bo Wan](https://openalex.org/A5022529324), [Xiang‐Ping Hu](https://openalex.org/A5084501389), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04979.
-    
-No abstract    
-
-    
-
-## Dual N-Heterocyclic Carbene/Photoredox-Catalyzed Coupling of Acyl Fluorides and Alkyl Silanes   
-
-OpenAlex: https://openalex.org/W4404416146    
-Open access: True
-    
-[Michael Jakob](https://openalex.org/A5022647501), [Luca Steiner](https://openalex.org/A5062763572), [Marius Göbel](https://openalex.org/A5114661390), [Jan P. Götze](https://openalex.org/A5039249176), [Matthew N. Hopkinson](https://openalex.org/A5022829750), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03103.
-    
-No abstract    
-
-    
-
-## Enhanced Photocatalytic Production of Hydrogen Peroxide by Covalent Triazine Frameworks with Stepwise Electron Transfer   
-
-OpenAlex: https://openalex.org/W4404417009    
-Open access: False
-    
-[Hao Zhang](https://openalex.org/A5100397032), [Wenxin Wei](https://openalex.org/A5034045320), [Kai Chi](https://openalex.org/A5017919922), [Yong Zheng](https://openalex.org/A5088200752), [Xin Ying Kong](https://openalex.org/A5005904436), [Liqun Ye](https://openalex.org/A5009243555), [Yan Zhao](https://openalex.org/A5100758533), [Kai A. I. Zhang](https://openalex.org/A5079019316), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05328.
-    
-No abstract    
-
-    
-
-## Issue Publication Information   
-
-OpenAlex: https://openalex.org/W4404418735    
-Open access: False
-    
-, ACS Catalysis. 14(22)] 2024.https://doi.org/10.1021/csv014i022_1868022.
-    
-No abstract    
-
-    
-
-## Issue Editorial Masthead   
-
-OpenAlex: https://openalex.org/W4404419249    
-Open access: False
-    
-, ACS Catalysis. 14(22)] 2024.https://doi.org/10.1021/csv014i022_1868023.
-    
-No abstract    
-
-    
-
-## Generating Cationic Nickel Clusters over Oxygen-Functionalized Boron Nitride to Boost Methane Dry Reforming   
-
-OpenAlex: https://openalex.org/W4404420889    
-Open access: False
-    
-[Fan Jie](https://openalex.org/A5100568670), [Wen‐Cui Li](https://openalex.org/A5053312733), [Lei He](https://openalex.org/A5101865587), [Bowen He](https://openalex.org/A5011306017), [Fan Tang](https://openalex.org/A5063218196), [Zhankai Liu](https://openalex.org/A5011424663), [Dongqi Wang](https://openalex.org/A5086386273), [Xi Liu](https://openalex.org/A5100450813), [Liwei Chen](https://openalex.org/A5102401820), [An‐Hui Lu](https://openalex.org/A5012152061), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05957.
-    
-No abstract    
-
-    
-
-## Thermochemical Correlations of Redox and Brønsted Sites on Bifunctional Polyoxometalate Clusters and Their Kinetic Consequences in Methanol-O2 Catalysis   
-
-OpenAlex: https://openalex.org/W4404436420    
-Open access: False
-    
-[Guangming Cai](https://openalex.org/A5067244216), [Ya-Huei Cathy Chin](https://openalex.org/A5039229575), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04745.
-    
-No abstract    
-
-    
 
 ## Bacterial Biosynthesis of Nitrile-Containing Natural Products: Basis for Recognition of Diversified Substrates   
 
@@ -377,5 +245,38 @@ Open access: False
 [Ju Wang](https://openalex.org/A5100648239), [Shuo Yan](https://openalex.org/A5028150563), [Kholoud E. Salem](https://openalex.org/A5079471616), [Christopher Panaritis](https://openalex.org/A5045865860), [Mohamed S.E. Houache](https://openalex.org/A5054037157), [Yaser Abu‐Lebdeh](https://openalex.org/A5078262597), [Drew Higgins](https://openalex.org/A5044827415), [Elena A. Baranova](https://openalex.org/A5044206105), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04622.
     
 No abstract    
+
+    
+
+## Dynamic Molybdate Oxyanion Boosts Self-Optimization and Self-Healing on the NiMoFe Heterostructure for Water Splitting in Alkaline Media   
+
+OpenAlex: https://openalex.org/W4404609586    
+Open access: False
+    
+[Qing Zhang](https://openalex.org/A5100358805), [Wei Xiao](https://openalex.org/A5072870711), [Jia Shi](https://openalex.org/A5019046581), [Jing Lei](https://openalex.org/A5109485589), [Qi Xiao](https://openalex.org/A5017619210), [Hong Qun Luo](https://openalex.org/A5035390246), [Nian Bing Li](https://openalex.org/A5029750679), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05108.
+    
+NiMo-based alloys and NiFe layered double hydroxides (NiFe-LDHs) are the most promising nonprecious-metal electrocatalysts for hydrogen and oxygen evolution reactions (HER and OER) under alkaline conditions. However, the ready leaching of Mo and Fe during electrolysis may cause dynamic variation of the surface composition and structure of the catalysts. Here, we developed a NiMoFe heterostructure consisting of NiMoFe alloy and MoO42–-intercalated NiFe-LDH (NiMoFe HI), which enables self-optimization of HER and self-healing of OER through the dynamic exchange of MoO42– species. During the HER process, the leaching and readsorption of MoO42– optimizes the electronic structure of NiFe-LDH, facilitating H2O adsorption and dissociation. Simultaneously, the repulsion of OH– by accumulated MoO42– in the electric double layer can more rapidly drive the transfer kinetics of *OH + e ⇌ OH– to promote the desorption of *OH from the active sites, thus continuously enhancing the HER activity. During the OER process, the dynamic equilibrium of MoO42– facilitates the readsorption of active Fe(OH)x species on the NiFeOOH surface and reduces the energy barrier of the OER rate-determining step, achieving self-healing of the OER activity. Benefiting from the self-optimization and self-healing properties for HER and OER, NiMoFe LDH exhibits promising performance in alkaline water splitting, with a low cell voltage of 1.528 V at 10 mA·cm–2 and stable operation at a high current density of 100 mA·cm–2 for 150 h.    
+
+    
+
+## Selective Monoalkylation or Dialkylation of Indenes with Alcohols by Bis-N-Heterocyclic Carbene Manganese   
+
+OpenAlex: https://openalex.org/W4404616756    
+Open access: False
+    
+[Li Wang](https://openalex.org/A5100322864), [Yinwu Li](https://openalex.org/A5059248880), [Zhe Chen](https://openalex.org/A5100457743), [Cunyuan Zhao](https://openalex.org/A5021086726), [Zhuofeng Ke](https://openalex.org/A5022393729), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05200.
+    
+No abstract    
+
+    
+
+## Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated Amines with Diaziridinone via Hydrogen Atom Transfer   
+
+OpenAlex: https://openalex.org/W4404625202    
+Open access: False
+    
+[Zihang Du](https://openalex.org/A5108765053), [Jiahao Zhang](https://openalex.org/A5100445503), [Xueli Lv](https://openalex.org/A5085082124), [Kun Zhang](https://openalex.org/A5078975514), [Wei Ji](https://openalex.org/A5056653009), [Minyan Wang](https://openalex.org/A5102728277), [Su Jing](https://openalex.org/A5049924738), [Jiefeng Hu](https://openalex.org/A5018608098), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05973.
+    
+The site-selective functionalization of carbon(sp3)–hydrogen bonds in saturated amines remains a persistent challenge owing to their intrinsic electronic deficiency, particularly in activating the α and β positions simultaneously for annulation reactions. Herein, we report a copper(I)-catalyzed dehydrogenation and [2 + 3] cycloaddition of commercially available amines with diaziridinone, which facilitated the direct synthesis of highly valuable imidazolidone derivatives. Operationally simple methodology has a broad substrate scope and convenient scalability, providing an effective and complementary platform for the rapid incorporation of N-heterocycles into amine molecules. Furthermore, comprehensive mechanistic investigations and computational studies indicated the pathway of the radical-type hydrogen atom transfer and [2 + 3] cycloaddition, which were promoted by a four-membered copper(III) species.    
 
     

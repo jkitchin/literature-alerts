@@ -1,262 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Nov 23 01:22:52 2024
+Created on Sun Nov 24 01:37:26 2024
 
-Found 34 results from 2024-11-16 to 2024-11-23
+Found 25 results from 2024-11-17 to 2024-11-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Reactive Oxygen Species-Mediated Photooxidation in a Full-Space Electric Field Catalyst: Selectivity and Activity Control of Intramolecular Alcohol Hydroxyl and Aldehyde Groups  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404410867
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Oxidation of Alcohols, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04687")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404410867"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404410867"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404410867"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404410867 (Open access: False)
-    
-[[https://openalex.org/A5103937843][Yi‐Wen Han]], [[https://openalex.org/A5100812994][Yu-Ting Chu]], [[https://openalex.org/A5100328600][Lei Ye]], [[https://openalex.org/A5049677180][Tian‐Jun Gong]], [[https://openalex.org/A5100719200][Yao Fu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04687 
-     
-No abstract    
-
-    
-
-* Computational Design-Enabled Divergent Modification of Monoterpene Synthases for Terpenoid Hyperproduction  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404412681
-:TOPICS: Biosynthesis and Engineering of Terpenoids, Biological Activities of Triterpenoids and Saponins, Role of Oxidative Stress in Health and Disease
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05863")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404412681"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404412681"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404412681"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404412681 (Open access: False)
-    
-[[https://openalex.org/A5007968908][Liqiu Su]], [[https://openalex.org/A5101887980][Pi Liu]], [[https://openalex.org/A5100687142][Weidong Liu]], [[https://openalex.org/A5100453148][Qi Liu]], [[https://openalex.org/A5072536151][Jian Gao]], [[https://openalex.org/A5109402585][Qiaohua Zhao]], [[https://openalex.org/A5061220842][Kai‐Zhi Jia]], [[https://openalex.org/A5024722452][Xiang Sheng]], [[https://openalex.org/A5023379069][Hongwu Ma]], [[https://openalex.org/A5016303261][Qinhong Wang]], [[https://openalex.org/A5101875311][Zongjie Dai]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05863 
-     
-No abstract    
-
-    
-
-* Molecular Electrochemical Mediator for Oxidative Multi-Site Proton Coupled Electron Transfer  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404412879
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Dioxygen Activation at Metalloenzyme Active Sites, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05832")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404412879"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404412879"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404412879"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404412879 (Open access: False)
-    
-[[https://openalex.org/A5109645791][Tarisha Gupta]], [[https://openalex.org/A5114660219][Yati]], [[https://openalex.org/A5080317177][Sanyam Sanyam]], [[https://openalex.org/A5085923557][Anirban Mondal]], [[https://openalex.org/A5020610169][Biswajit Mondal]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05832 
-     
-No abstract    
-
-    
-
-* Electrochemical Insights into Hydrogen Peroxide Generation on Carbon Electrodes: Influence of Defects, Oxygen Functional Groups, and Alkali Metals in the Electrolyte  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404412919
-:TOPICS: Electrochemical Biosensor Technology, Advances in Chemical Sensor Technologies, Conducting Polymer Research
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04734")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404412919"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404412919"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404412919"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404412919 (Open access: True)
-    
-[[https://openalex.org/A5004899785][André Olean‐Oliveira]], [[https://openalex.org/A5114660237][Najeeb Hasnain]], [[https://openalex.org/A5008862433][Ricardo Martínez‐Hincapié]], [[https://openalex.org/A5074048659][Ulrich Hagemann]], [[https://openalex.org/A5041070012][Adarsh Jain]], [[https://openalex.org/A5062824606][Doris Segets]], [[https://openalex.org/A5034471811][Ioannis Spanos]], [[https://openalex.org/A5026566541][Viktor Čolić]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04734 
-     
-No abstract    
-
-    
-
-* Low-Temperature Magnetic Field-Assisted Synthesis of Highly Crystalline Fe(OH)x and Its Directed Carrier Transfer Effect under Optical-Magnetic Fields  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404413495
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Catalytic Reduction of Nitro Compounds
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04283")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404413495"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404413495"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404413495"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404413495 (Open access: False)
-    
-[[https://openalex.org/A5100322864][Li Wang]], [[https://openalex.org/A5103069210][Yuan Dong]], [[https://openalex.org/A5020554421][Jie Ying]], [[https://openalex.org/A5101872143][Yuan Feng]], [[https://openalex.org/A5007458023][Ziheng Zhu]], [[https://openalex.org/A5009260936][Yuxuan Xiao]], [[https://openalex.org/A5060387948][Ge Tian]], [[https://openalex.org/A5043084585][Ling Shen]], [[https://openalex.org/A5100379837][Wei Geng]], [[https://openalex.org/A5034132713][Yi Lu]], [[https://openalex.org/A5102697287][Si‐Ming Wu]], [[https://openalex.org/A5100435418][Xiaoyu Yang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04283 
-     
-No abstract    
-
-    
-
-* Manganese-Catalyzed Asymmetric Hydrogenation for Atroposelective Dynamic Kinetic Resolution of Heterobiaryl Ketone N-Oxides  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404414560
-:TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Chiroptical Spectroscopy in Organic Compound Analysis, Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04979")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404414560"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404414560"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404414560"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404414560 (Open access: False)
-    
-[[https://openalex.org/A5022529324][Yin-Bo Wan]], [[https://openalex.org/A5084501389][Xiang‐Ping Hu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04979 
-     
-No abstract    
-
-    
-
-* Dual N-Heterocyclic Carbene/Photoredox-Catalyzed Coupling of Acyl Fluorides and Alkyl Silanes  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404416146
-:TOPICS: N-Heterocyclic Carbenes in Catalysis and Materials Chemistry, Transition Metal-Catalyzed Cross-Coupling Reactions, Role of Fluorine in Medicinal Chemistry and Pharmaceuticals
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03103")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404416146"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404416146"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404416146"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404416146 (Open access: True)
-    
-[[https://openalex.org/A5022647501][Michael Jakob]], [[https://openalex.org/A5062763572][Luca Steiner]], [[https://openalex.org/A5114661390][Marius Göbel]], [[https://openalex.org/A5039249176][Jan P. Götze]], [[https://openalex.org/A5022829750][Matthew N. Hopkinson]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03103 
-     
-No abstract    
-
-    
-
-* Enhanced Photocatalytic Production of Hydrogen Peroxide by Covalent Triazine Frameworks with Stepwise Electron Transfer  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404417009
-:TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Photocatalytic Materials for Solar Energy Conversion, Content-Centric Networking for Information Delivery
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05328")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404417009"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404417009"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404417009"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404417009 (Open access: False)
-    
-[[https://openalex.org/A5100397032][Hao Zhang]], [[https://openalex.org/A5034045320][Wenxin Wei]], [[https://openalex.org/A5017919922][Kai Chi]], [[https://openalex.org/A5088200752][Yong Zheng]], [[https://openalex.org/A5005904436][Xin Ying Kong]], [[https://openalex.org/A5009243555][Liqun Ye]], [[https://openalex.org/A5100758533][Yan Zhao]], [[https://openalex.org/A5079019316][Kai A. I. Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05328 
-     
-No abstract    
-
-    
-
-* Issue Publication Information  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404418735
-:TOPICS: 
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i022_1868022")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404418735"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404418735"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404418735"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404418735 (Open access: False)
-    
-, ACS Catalysis. 14(22)] 2024. https://doi.org/10.1021/csv014i022_1868022 
-     
-No abstract    
-
-    
-
-* Issue Editorial Masthead  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404419249
-:TOPICS: 
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i022_1868023")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404419249"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404419249"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404419249"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404419249 (Open access: False)
-    
-, ACS Catalysis. 14(22)] 2024. https://doi.org/10.1021/csv014i022_1868023 
-     
-No abstract    
-
-    
-
-* Generating Cationic Nickel Clusters over Oxygen-Functionalized Boron Nitride to Boost Methane Dry Reforming  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404420889
-:TOPICS: Catalytic Nanomaterials, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Carbon Dioxide Hydrogenation
-:PUBLICATION_DATE: 2024-11-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05957")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404420889"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404420889"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404420889"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404420889 (Open access: False)
-    
-[[https://openalex.org/A5100568670][Fan Jie]], [[https://openalex.org/A5053312733][Wen‐Cui Li]], [[https://openalex.org/A5101865587][Lei He]], [[https://openalex.org/A5011306017][Bowen He]], [[https://openalex.org/A5063218196][Fan Tang]], [[https://openalex.org/A5011424663][Zhankai Liu]], [[https://openalex.org/A5086386273][Dongqi Wang]], [[https://openalex.org/A5100450813][Xi Liu]], [[https://openalex.org/A5102401820][Liwei Chen]], [[https://openalex.org/A5012152061][An‐Hui Lu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05957 
-     
-No abstract    
-
-    
-
-* Thermochemical Correlations of Redox and Brønsted Sites on Bifunctional Polyoxometalate Clusters and Their Kinetic Consequences in Methanol-O2 Catalysis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404436420
-:TOPICS: Polyoxometalate Clusters and Materials, Chemistry and Applications of Metal-Organic Frameworks, Innovations in Organic Synthesis Reactions
-:PUBLICATION_DATE: 2024-11-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04745")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404436420"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404436420"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404436420"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404436420 (Open access: False)
-    
-[[https://openalex.org/A5067244216][Guangming Cai]], [[https://openalex.org/A5039229575][Ya-Huei Cathy Chin]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04745 
-     
-No abstract    
-
-    
 
 * Bacterial Biosynthesis of Nitrile-Containing Natural Products: Basis for Recognition of Diversified Substrates  :ACS_Catalysis:
 :PROPERTIES:
@@ -717,5 +465,68 @@ OpenAlex: https://openalex.org/W4404579251 (Open access: False)
 [[https://openalex.org/A5100648239][Ju Wang]], [[https://openalex.org/A5028150563][Shuo Yan]], [[https://openalex.org/A5079471616][Kholoud E. Salem]], [[https://openalex.org/A5045865860][Christopher Panaritis]], [[https://openalex.org/A5054037157][Mohamed S.E. Houache]], [[https://openalex.org/A5078262597][Yaser Abu‐Lebdeh]], [[https://openalex.org/A5044827415][Drew Higgins]], [[https://openalex.org/A5044206105][Elena A. Baranova]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04622 
      
 No abstract    
+
+    
+
+* Dynamic Molybdate Oxyanion Boosts Self-Optimization and Self-Healing on the NiMoFe Heterostructure for Water Splitting in Alkaline Media  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404609586
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Reduction of Nitro Compounds, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-11-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05108")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404609586"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404609586"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404609586"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404609586 (Open access: False)
+    
+[[https://openalex.org/A5100358805][Qing Zhang]], [[https://openalex.org/A5072870711][Wei Xiao]], [[https://openalex.org/A5019046581][Jia Shi]], [[https://openalex.org/A5109485589][Jing Lei]], [[https://openalex.org/A5017619210][Qi Xiao]], [[https://openalex.org/A5035390246][Hong Qun Luo]], [[https://openalex.org/A5029750679][Nian Bing Li]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05108 
+     
+NiMo-based alloys and NiFe layered double hydroxides (NiFe-LDHs) are the most promising nonprecious-metal electrocatalysts for hydrogen and oxygen evolution reactions (HER and OER) under alkaline conditions. However, the ready leaching of Mo and Fe during electrolysis may cause dynamic variation of the surface composition and structure of the catalysts. Here, we developed a NiMoFe heterostructure consisting of NiMoFe alloy and MoO42–-intercalated NiFe-LDH (NiMoFe HI), which enables self-optimization of HER and self-healing of OER through the dynamic exchange of MoO42– species. During the HER process, the leaching and readsorption of MoO42– optimizes the electronic structure of NiFe-LDH, facilitating H2O adsorption and dissociation. Simultaneously, the repulsion of OH– by accumulated MoO42– in the electric double layer can more rapidly drive the transfer kinetics of *OH + e ⇌ OH– to promote the desorption of *OH from the active sites, thus continuously enhancing the HER activity. During the OER process, the dynamic equilibrium of MoO42– facilitates the readsorption of active Fe(OH)x species on the NiFeOOH surface and reduces the energy barrier of the OER rate-determining step, achieving self-healing of the OER activity. Benefiting from the self-optimization and self-healing properties for HER and OER, NiMoFe LDH exhibits promising performance in alkaline water splitting, with a low cell voltage of 1.528 V at 10 mA·cm–2 and stable operation at a high current density of 100 mA·cm–2 for 150 h.    
+
+    
+
+* Selective Monoalkylation or Dialkylation of Indenes with Alcohols by Bis-N-Heterocyclic Carbene Manganese  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404616756
+:TOPICS: Homogeneous Catalysis with Transition Metals, Carbon Dioxide Utilization for Chemical Synthesis, Transition Metal Catalysis
+:PUBLICATION_DATE: 2024-11-22
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05200")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404616756"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404616756"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404616756"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404616756 (Open access: False)
+    
+[[https://openalex.org/A5100322864][Li Wang]], [[https://openalex.org/A5059248880][Yinwu Li]], [[https://openalex.org/A5100457743][Zhe Chen]], [[https://openalex.org/A5021086726][Cunyuan Zhao]], [[https://openalex.org/A5022393729][Zhuofeng Ke]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05200 
+     
+No abstract    
+
+    
+
+* Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated Amines with Diaziridinone via Hydrogen Atom Transfer  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404625202
+:TOPICS: Catalytic C-H Amination Reactions, Transition-Metal-Catalyzed C–H Bond Functionalization, Homogeneous Catalysis with Transition Metals
+:PUBLICATION_DATE: 2024-11-22
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05973")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404625202"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404625202"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404625202"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404625202 (Open access: False)
+    
+[[https://openalex.org/A5108765053][Zihang Du]], [[https://openalex.org/A5100445503][Jiahao Zhang]], [[https://openalex.org/A5085082124][Xueli Lv]], [[https://openalex.org/A5078975514][Kun Zhang]], [[https://openalex.org/A5056653009][Wei Ji]], [[https://openalex.org/A5102728277][Minyan Wang]], [[https://openalex.org/A5049924738][Su Jing]], [[https://openalex.org/A5018608098][Jiefeng Hu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05973 
+     
+The site-selective functionalization of carbon(sp3)–hydrogen bonds in saturated amines remains a persistent challenge owing to their intrinsic electronic deficiency, particularly in activating the α and β positions simultaneously for annulation reactions. Herein, we report a copper(I)-catalyzed dehydrogenation and [2 + 3] cycloaddition of commercially available amines with diaziridinone, which facilitated the direct synthesis of highly valuable imidazolidone derivatives. Operationally simple methodology has a broad substrate scope and convenient scalability, providing an effective and complementary platform for the rapid incorporation of N-heterocycles into amine molecules. Furthermore, comprehensive mechanistic investigations and computational studies indicated the pathway of the radical-type hydrogen atom transfer and [2 + 3] cycloaddition, which were promoted by a four-membered copper(III) species.    
 
     
