@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Nov 2024 01:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 01:26:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Bacterial Biosynthesis of Nitrile-Containing Natural Products: Basis for Recognition of Diversified Substrates</title>
-      <link>https://doi.org/10.1021/acscatal.4c06581</link>
-      <description>Ming Peng, Qiaoling Wu, Lele Ma, Zhao&#8208;Jie Teng, Xuben Hou, Hongjie Zhu, Jianhua Ju, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404449383
-
-                No abstract</description>
-      <author>Ming Peng, Qiaoling Wu, Lele Ma, Zhao&#8208;Jie Teng, Xuben Hou, Hongjie Zhu, Jianhua Ju</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06581</guid>
-    </item>
     <item>
       <title>Activation of Lattice Oxygen in Nitrogen-Doped High-Entropy Oxide Nanosheets for Highly Efficient Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c05997</link>
@@ -256,6 +246,106 @@
       <author>Zihang Du, Jiahao Zhang, Xueli Lv, Kun Zhang, Wei Ji, Minyan Wang, Su Jing, Jiefeng Hu</author>
       <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05973</guid>
+    </item>
+    <item>
+      <title>Interface Engineering on Heterostructural Nanosheets for Efficient Electrocatalytic-Paired Upcycling of Waste Plastics and Nitrate</title>
+      <link>https://doi.org/10.1021/acscatal.4c05434</link>
+      <description>Junhua Wu, Xiaoxiao Cheng, Yun Tong, Zhangjing Yu, Lin Cong, Nan Zhang, Lu Chen, Pengzuo Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404627302
+
+                No abstract</description>
+      <author>Junhua Wu, Xiaoxiao Cheng, Yun Tong, Zhangjing Yu, Lin Cong, Nan Zhang, Lu Chen, Pengzuo Chen</author>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05434</guid>
+    </item>
+    <item>
+      <title>Photoenhanced Electrochemical Conversion of Nitrate to Ammonia Via Sulfur Vacancy-Rich Exfoliated MoS&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c05730</link>
+      <description>Manan Guragain, Alankar Kafle, Qasim Adesope, Mohammad K. Altafi, Stella C. Amagbor, V. V. Mesilov, Jeffry A. Kelber, Thomas R. Cundari, Francis D&#8217;Souza, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404633846
+
+                Nitrate ion is a common pollutant in surface and groundwater. Hence, its catalytic conversion into ammonia at ambient conditions by electrochemical and photoelectrochemical pathways is an attractive alternative to current ammonia production from the energy-intensive and high-carbon-featuring Haber-Bosch process. As such, developing highly active and product-selective catalysts with good durability and cost-effectiveness is highly desired. In this work, exfoliated MoS2-x is reported as a highly active and selective electrocatalyst and a photoelectrocatalyst for nitrate reduction to ammonia. Exfoliation via the acid treatment of bulk MoS2 results in exfoliated MoS2-x, which is only a few layers thick and has a high degree of sulfur vacancies (ca. 12&#8722;13%). Electrochemical studies and electrolysis product analysis reveal promising nitrate reduction activity, which is found to be highly enhanced by the application of visible light illumination. The exfoliated MoS2-x achieves a Faradaic efficiency of 69% with an ammonia yield rate of 5.56 mmol gcat&#8211;1 h&#8211;1 in the absence of a light source, which is enhanced to 80% with an ammonia yield of 7.48 mmol gcat&#8211;1 h&#8211;1 upon visible light illumination. DFT calculations support the binding of nitrate and other NOx species to the sulfur vacancies, resulting in the formation of *N, which is then reduced to ammonia.</description>
+      <author>Manan Guragain, Alankar Kafle, Qasim Adesope, Mohammad K. Altafi, Stella C. Amagbor, V. V. Mesilov, Jeffry A. Kelber, Thomas R. Cundari, Francis D&#8217;Souza</author>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05730</guid>
+    </item>
+    <item>
+      <title>Artificially Created UDP-Glucose 2-Epimerase Enables Concise UDP/GDP-Mannose Production via the Synthase&#8211;Epimerase Route</title>
+      <link>https://doi.org/10.1021/acscatal.4c06698</link>
+      <description>Zhongbao Ma, Liting Zhao, Qiong Wang, Yu Shen, Mengmeng Xu, Lei Chen, Guiyang Shi, Zhongyang Ding, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404637444
+
+                Uridine/guanosine diphosphate-mannose (UDP/GDP-Man) is the major mannosyl donor in producing mannose-containing oligo/polysaccharides. Its acquisition is greatly limited by its complex and costly synthetic process, which requires multiple substrates and enzymes. The natural UDP/GDP-glucose 2-epimerase functioning C2 epimerization between UDP/GDP-Glc and UDP/GDP-Man remains unreported which is the main hurdle to realize concise production of UDP/GDP-Man. Here, the UDP-glucose 2-epimerase (Glc2E), which behaves like a naturally evolved enzyme, is created and exhibits high-efficient catalysis in producing UDP-Man. Multidimensional engineering, including redesigning the nucleobase recognition region, displacement of the substrate tunnel entrance, and expansion of space for sugar ring rotation, is employed to develop Glc2E from CDP-tyvelose 2-epimerase. Glc2E converts 55.63% of UDP-Glc to UDP-Man, a trace value for the initial enzyme, stTyvE, and its aptitude for GDP-Glc epimerization evolves from unobserved activity to 23.94% conversion. Coupling sucrose synthase with Glc2E achieves the theoretical synthase&#8211;epimerase route for UDP/GDP-Man production from inexpensive sucrose. The space-time-yield of UDP-Man is maximized to 8.05 g/L/h within 2.5 h, with a final titer of 22.54 g/L, demonstrating competitive application potential. Moreover, the GDP-Man is synthesized successfully at a titer of 3.49 g/L. Our work inspires the enzyme engineering for epimerases and glycosyltransferases that catalyze nucleotide sugars. The application of Glc2E in the synthase&#8211;epimerase route unlocks a concise and feasible synthetic approach for producing cost-competitive mannosyl donors.</description>
+      <author>Zhongbao Ma, Liting Zhao, Qiong Wang, Yu Shen, Mengmeng Xu, Lei Chen, Guiyang Shi, Zhongyang Ding</author>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06698</guid>
+    </item>
+    <item>
+      <title>Strategies for Designing Advanced Transition Metal-Based Electrocatalysts for Alkaline Water/Seawater Splitting at Ampere-Level Current Densities</title>
+      <link>https://doi.org/10.1021/acscatal.4c06509</link>
+      <description>Xian Zhang, Ziteng Zuo, Chengzhu Liao, Feifei Jia, Chun Cheng, Zhiguang Guo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404639546
+
+                No abstract</description>
+      <author>Xian Zhang, Ziteng Zuo, Chengzhu Liao, Feifei Jia, Chun Cheng, Zhiguang Guo</author>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06509</guid>
+    </item>
+    <item>
+      <title>Shapeshifting Ligands Mask Lewis Acidity of Dicationic Palladium(II)</title>
+      <link>https://doi.org/10.1021/acscatal.4c06539</link>
+      <description>Karli Sipps, Wyatt Gibbs, Elvira R. Sayfutyarova, Jonathan L. Kuo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404639741
+
+                Supporting ligands limit the degree of electrophilic activation for any substrate because they also reduce the Lewis acidity of the transition metal ion. Here, we temporarily mask the Lewis acidity of dicationic Pd(II) by using "shapeshifting" bidentate pyrimidine/olefin ligands L1 and L2. These ligands delocalize/relocalize charge via reversible C&#8211;N bond formation. So, although ligated dicationic Pd compounds [1]2+ and [2]2+ appear charge separated (distributed across Pd and ligand), they react comparably to a solvated Pd(II) dication. Despite reacting like strong Lewis acids, the complexes are tolerant of polar functional groups (Lewis bases that often inhibit electrophilic catalysis). We propose that this property originates from the installation of a more nucleophilic (charge separated) state. This case study suggests that catalysts featuring reversible dynamics can be advantageous relative to their structurally static counterparts.</description>
+      <author>Karli Sipps, Wyatt Gibbs, Elvira R. Sayfutyarova, Jonathan L. Kuo</author>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06539</guid>
+    </item>
+    <item>
+      <title>Comparison of Low Temperature Methanol Aqueous Phase Reforming Catalysts&#9472;Definition of Standardized Reaction Conditions and Considerations toward Applications</title>
+      <link>https://doi.org/10.1021/acscatal.4c05489</link>
+      <description>H. KEMPF, Henrik Junge, Matthias Beller, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404644315
+
+                A comparison of state-of-the-art catalysts for low temperature aqueous phase reforming (APR) of methanol is presented. To facilitate future applications, catalyst tests under two standardized sets of reaction conditions are proposed.</description>
+      <author>H. KEMPF, Henrik Junge, Matthias Beller</author>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05489</guid>
+    </item>
+    <item>
+      <title>Fine Ru-Ru&lt;sub&gt;2&lt;/sub&gt;P Heterostructure Enables Highly Active and Selective CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation to CO</title>
+      <link>https://doi.org/10.1021/acscatal.4c05369</link>
+      <description>Shidong Bao, Lanqing Yang, Heyun Fu, Xiaolei Qu, Shourong Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404645067
+
+                No abstract</description>
+      <author>Shidong Bao, Lanqing Yang, Heyun Fu, Xiaolei Qu, Shourong Zheng</author>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05369</guid>
+    </item>
+    <item>
+      <title>Understanding the Role of the Surface Acidity of MFI Zeolites during LDPE Cracking: Decomposition Temperature and Product Distribution</title>
+      <link>https://doi.org/10.1021/acscatal.4c06190</link>
+      <description>Soshi Tsubota, Shinya Kokuryo, Koji Miyake, Yoshiaki Uchida, Atsushi Mizusawa, Tadashi Kubo, Norikazu Nishiyama, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404645079
+
+                No abstract</description>
+      <author>Soshi Tsubota, Shinya Kokuryo, Koji Miyake, Yoshiaki Uchida, Atsushi Mizusawa, Tadashi Kubo, Norikazu Nishiyama</author>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06190</guid>
+    </item>
+    <item>
+      <title>Anionic Surfactant-Tuned Interfacial Water Reactivity Promoting Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c05541</link>
+      <description>Wangxin Ge, Yihua Zhu, Haiyan Wang, Hongliang Jiang, Chunzhong Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404646427
+
+                The effects of the electrical double layer (EDL), which pertain to the compositions and interactions among electrolyte species, significantly impact the catalytic process. There is a pressing need to investigate the role of electrolyte components and to deepen our understanding of EDL effects. In this study, we tune the water activity within a range of anionic surfactants featuring different functional groups to adjust H2 evolution activity and CO2 reduction selectivity. We demonstrate that these anionic surfactants are active in the local reaction environment under a cathodic potential. The enhanced selectivity of CO2 to CO can be attributed to the robust interfacial hydrogen-bonding network reformed by the anionic surfactants. This network diminishes the water dissociation activity and promotes the hydrogenation step in CO2 reduction. Notably, the electrolyte incorporating anionic surfactants improves the CO2 reduction performance, registering CO Faradaic efficiencies of 89.7% (RSO3&#8211;, SDS), 97.5% (RSO4&#8211;, SLS), 98.4% (RPO42&#8211;, SMP), and 98.9% (RCOO&#8211;, SL) at &#8722;1.2 V versus RHE, thereby outperforming the blank KHCO3 electrolyte (53.1%). This research underscores the crucial influence of anionic additives in the CO2RR.</description>
+      <author>Wangxin Ge, Yihua Zhu, Haiyan Wang, Hongliang Jiang, Chunzhong Li</author>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05541</guid>
+    </item>
+    <item>
+      <title>C&#8211;H Activation and Sequential Addition to Dienes and Imines: Synthesis of Amines with &#946;-Quaternary Centers and Mechanistic Studies on the Complex Interplay Between the Catalyst and Three Reactants</title>
+      <link>https://doi.org/10.1021/acscatal.4c05866</link>
+      <description>Ramsey M. Goodner, Daniel S. Brandes, Gabriel N. Morais, Tao Qin, Joseph P. Tassone, Brandon Q. Mercado, Shuming Chen, Jonathan A. Ellman, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404650722
+
+                No abstract</description>
+      <author>Ramsey M. Goodner, Daniel S. Brandes, Gabriel N. Morais, Tao Qin, Joseph P. Tassone, Brandon Q. Mercado, Shuming Chen, Jonathan A. Ellman</author>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05866</guid>
     </item>
   </channel>
 </rss>

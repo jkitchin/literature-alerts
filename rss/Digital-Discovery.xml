@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Nov 2024 01:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 01:26:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Qiang Zhu, Shinnosuke Hattori</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00264d</guid>
+    </item>
+    <item>
+      <title>Data-driven analysis of text-mined seed-mediated syntheses of gold nanoparticles</title>
+      <link>https://doi.org/10.1039/d4dd00158c</link>
+      <description>S Lee, Kevin Cruse, Samuel P. Gleason, A. Paul Alivisatos, Gerbrand Ceder, Anubhav Jain, Digital Discovery. None(None)] 2024. https://openalex.org/W4404639435
+
+                Gold nanoparticle synthesis recipes were extracted from the literature to obtain data-driven hypotheses for synthesis outcome morphology and size. Used images from https://Flaticon.com.</description>
+      <author>S Lee, Kevin Cruse, Samuel P. Gleason, A. Paul Alivisatos, Gerbrand Ceder, Anubhav Jain</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00158c</guid>
     </item>
   </channel>
 </rss>

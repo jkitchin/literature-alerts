@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Nov 2024 01:37:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 01:26:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Design and application of a liquid metal ball-supported layered double hydroxide core&#8211;shell structure as highly efficient catalysts for the oxygen evolution reaction in rechargeable zinc-air batteries</title>
+      <link>https://doi.org/10.1016/j.cej.2024.157924</link>
+      <description>Liqing Qiao, Wenwei Liu, Na Du, Ying Wang, Yankun Li, Haijun Wu, Zhonghua Bao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4404634694
+
+                No abstract</description>
+      <author>Liqing Qiao, Wenwei Liu, Na Du, Ying Wang, Yankun Li, Haijun Wu, Zhonghua Bao</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.157924</guid>
+    </item>
   </channel>
 </rss>
