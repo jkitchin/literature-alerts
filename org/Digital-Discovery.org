@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Mon Nov 25 01:26:19 2024
+Created on Tue Nov 26 01:25:25 2024
 
-Found 4 results from 2024-11-18 to 2024-11-25
+Found 4 results from 2024-11-19 to 2024-11-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -84,7 +84,7 @@ With advancements in computational molecular modeling and powerful structure sea
 
 OpenAlex: https://openalex.org/W4404639435 (Open access: True)
     
-[[https://openalex.org/A5090458317][S Lee]], [[https://openalex.org/A5007868501][Kevin Cruse]], [[https://openalex.org/A5058996253][Samuel P. Gleason]], [[https://openalex.org/A5051173286][A. Paul Alivisatos]], [[https://openalex.org/A5014983956][Gerbrand Ceder]], [[https://openalex.org/A5003640520][Anubhav Jain]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00158c 
+[[https://openalex.org/A5090458317][Sanghoon Lee]], [[https://openalex.org/A5007868501][Kevin Cruse]], [[https://openalex.org/A5058996253][Samuel P. Gleason]], [[https://openalex.org/A5051173286][A. Paul Alivisatos]], [[https://openalex.org/A5014983956][Gerbrand Ceder]], [[https://openalex.org/A5003640520][Anubhav Jain]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00158c 
      
 Gold nanoparticle synthesis recipes were extracted from the literature to obtain data-driven hypotheses for synthesis outcome morphology and size. Used images from https://Flaticon.com.    
 

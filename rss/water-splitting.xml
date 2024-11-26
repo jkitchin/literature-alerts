@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Nov 2024 01:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 01:25:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ru-embedded TiO2-x with rich Ru-Ti bonds and triggered oxygen vacancies for boosted and sustained hydrogen oxidation and evolution electrocatalysis in alkaline medium</title>
-      <link>https://doi.org/10.1016/j.cej.2024.157669</link>
-      <description>Yuanyuan Cong, Mengling Liu, Luyun Chen, Y. Q. Qi, Limin Zhang, Qiuping Zhao, Chunlei Li, Haibin Wang, Chemical Engineering Journal. 501(None)] 2024. https://openalex.org/W4404454064
-
-                No abstract</description>
-      <author>Yuanyuan Cong, Mengling Liu, Luyun Chen, Y. Q. Qi, Limin Zhang, Qiuping Zhao, Chunlei Li, Haibin Wang</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.157669</guid>
-    </item>
-    <item>
-      <title>Metal&#8208;Phthalocyanine&#8208;Based Two&#8208;Dimensional Conjugated Metal&#8208;Organic Frameworks for Electrochemical Glycerol Oxidation Reaction</title>
-      <link>https://doi.org/10.1002/anie.202416178</link>
-      <description>Xing Huang, Mingchao Wang, Haixia Zhong, Xiaodong Li, Huaping Wang, Yang Lu, Geping Zhang, Yannan Liu, Shouxin Zhang, Ruqiang Zou, Xinliang Feng, Renhao Dong&#10731;, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4404455598
-
-                Electrochemical glycerol oxidation reaction (GOR) is a promising candidate to couple with cathodic reaction, like hydrogen evolution reaction, to produce high&#8208;value product with less energy consumption. Two&#8208;dimensional conjugated metal&#8208;organic frameworks (2D c&#8208;MOFs), comprising square&#8208;planar metal&#8208;coordination motifs (e.g., MO4, M(NH)4, MS4), are notable for their programable active sites, intrinsic charge transport, and excellent stability, making them promising catalyst candidates for GOR. Here, we introduce a novel class of 2D c&#8208;MOFs electrocatalysts, M2[NiPcS8] (M=Co/Ni/Cu), which are synthesized via coordination of octathiolphthalocyaninato nickel (NiPc(SH)8) with various metal centers. Due to a fast kinetic and high activity of CoS4 sites for GOR, the electrocatalytic tests demonstrate that Co2[NiPcS8] supported on carbon paper displays a low GOR potential of 1.35 V vs. RHE at 10 mA cm&#8208;2, significantly reducing the overall water&#8208;electrolysis&#8208;voltage reduction by 0.27 V from oxygen evolution reaction to GOR, thereby outperforming Ni2[NiPcS8] and Cu2[NiPcS8]. Additionally, we have determined that the GOR activity of CoX4 linkage sites varies with different heteroatoms, following an experimentally and theoretically confirmed activity order of CoS4&gt;CoO4&gt;Co(NH)4. The GOR performance of Co2[NiPcS8] not only demonstrate superior performance among non&#8208;noble metal complex, but also provides critical insights on designing high&#8208;performance MOF electrocatalysts upon optimizing the electronic environment of active sites.</description>
-      <author>Xing Huang, Mingchao Wang, Haixia Zhong, Xiaodong Li, Huaping Wang, Yang Lu, Geping Zhang, Yannan Liu, Shouxin Zhang, Ruqiang Zou, Xinliang Feng, Renhao Dong&#10731;</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202416178</guid>
-    </item>
-    <item>
-      <title>CoFe Hydroxide Nanopheres for Enhanced Alkaline Splitting and Seawater Oxidation:Anion Doping Effects of Fluorine and Carbonate</title>
-      <link>https://doi.org/10.1002/chem.202403628</link>
-      <description>Tingting Zheng, Junyu Shi, Dandan Wang, Yulin Min, Qunjie Xu, Qiaoxia Li, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4404458249
-
-                Green hydrogen production can be achieved through electrolysis of fresh water or the use of renewable energy to electrolyze seawater. However, due to the low activity and poor stability of oxygen evolution reaction catalysts, direct electrolysis of alkaline seawater faces significant challenges. Herein, The catalyst F&#8208;CoFe(OH)&#8208;CO3/NF with three&#8208;dimensional nanosphere structure was prepared, The introduction of CO32&#8208; into the intermediate layer of CoFe Hydroxide improves the corrosion resistance of alkaline electrolyte and the doping of F&#8208; is to design three&#8208;dimensional layered nanostructures, increase the active site, and accelerate the diffusion of the electrolyte. By in situ Raman analysis, partial oxidation of CoFe hydroxide to CoFe (oxy)hydroxide as the active center can accelerating the adsorption of oxygen&#8208;related intermediates. In 1M KOH, it requires overpotentials of 210 mV and 251mV to drive current densities of 10 and 100 mA cm&#8208;2, respectively. And it remained stable at the current density of 100 mA cm&#8208;2 for 120 h in 1M KOH. F&#8208;CoFe(OH)&#8208;CO3/NF can also catalyzes the decomposition of electrolytic seawater. Compared with hydroxide, anion&#8208;doped carbonate hydroxide is more efficient and stable in electrolyte solution, which is of great importance for the development of a new stable electrocatalyst for water decomposition.</description>
-      <author>Tingting Zheng, Junyu Shi, Dandan Wang, Yulin Min, Qunjie Xu, Qiaoxia Li</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/chem.202403628</guid>
-    </item>
-    <item>
-      <title>Activation of Lattice Oxygen in Nitrogen-Doped High-Entropy Oxide Nanosheets for Highly Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c05997</link>
-      <description>Shengqin Guan, Baoen Xu, Xingbo Yu, Yong&#8208;Hong Ye, Yuting Liu, Taotao Guan, Yang Yu, Jiali Gao, Kaixi Li, Jianlong Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404459898
-
-                No abstract</description>
-      <author>Shengqin Guan, Baoen Xu, Xingbo Yu, Yong&#8208;Hong Ye, Yuting Liu, Taotao Guan, Yang Yu, Jiali Gao, Kaixi Li, Jianlong Wang</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05997</guid>
-    </item>
-    <item>
-      <title>Isomorphous Cobalt Coordination Frameworks: Enhancing Electrocatalytic Oxygen Evolution Reaction through Coordinated Solvent Variations</title>
-      <link>https://doi.org/10.1021/acs.cgd.4c00890</link>
-      <description>Anjana Chanthapally, Anagha Yatheendran, N. Sandhyarani, Crystal Growth &amp; Design. None(None)] 2024. https://openalex.org/W4404466198
-
-                Oxygen evolution reaction (OER) is a key electrochemical redox reaction involved in metal&#8211;air batteries and water-splitting devices. Reducing the energy barrier of these reactions accentuates the necessity in designing competent electrocatalysts. There is an urgent demand for affordable and durable catalysts utilizing non-noble metals, specifically Ni, Co, and Fe, for the OER. In this context, three following cobalt(II) coordination frameworks based on a pyridyl carboxylic acid ligand were synthesized: [Co3(&#956;3-OH)(PCA)4(DMF)2(H2O)](NO3)&#183;DMF&#183;3H2O (1), [Co3(&#956;3-OH)(PCA)4(EtOH)3](NO3)&#183;3EtOH&#183;3H2O (2), and [Co3(&#956;3-OH)(PCA)4(DMA)2(H2O)] (ClO4)&#183;DMA&#183;H2O) (3) using a solvothermal method. The single-crystal diffraction studies confirm the similarity in the three-center cobalt secondary building unit (SBU) and the final 3D topology. These frameworks are investigated as potential catalysts for the OER under alkaline (1 M KOH) conditions. Compound 1 shows extraordinary OER activity demonstrating an overpotential value of 0.37 V at 10 mA cm&#8211;2 and a Tafel slope of 78.9 mV. The alternation in the coordination sphere resulting from the difference in coordinated solvent emerges as an intriguing reason contributing to the exceptional activity of a coordination network. The effective electronic modulation within the cobalt trinuclear center induced by the changes in the coordination sphere has lowered the free energy barrier for the desorption of the oxygen produced. This work emphasizes the significant influence and effect of the coordination environment in catalytic activity, serving as a template for designing advanced electrocatalysts that are free from noble metals.</description>
-      <author>Anjana Chanthapally, Anagha Yatheendran, N. Sandhyarani</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.4c00890</guid>
-    </item>
     <item>
       <title>Interface Engineering of Network&#8208;Like 1D/2D (NHCNT/Ni&#9472;MOF) Hybrid Nanoarchitecture for Electrocatalytic Water Splitting</title>
       <link>https://doi.org/10.1002/smtd.202401492</link>
@@ -808,6 +758,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/catal14120843</guid>
     </item>
     <item>
+      <title>Bismuth sensitized iron oxide on exfoliated graphene oxide (Bi&#8211;Fe2O3@GO) for oxygen evaluation reaction</title>
+      <link>https://doi.org/10.1186/s11671-024-04146-x</link>
+      <description>Akhtar Munir, Shaheer Jamal, Humaira Yasmeen Gondal, Javed Iqbal, Aamir Hussain, Alex Aziz, Muhammad Shahid Nisar, Muhammad Zubair, Abdul Momin, Ali Haider, Discover Nano. 19(1)] 2024. https://openalex.org/W4404643210
+
+                Electrochemical water splitting is a promising approach towards a sustainable and renewable energy source. However, the demand for high anodic potential and sluggish kinetics of oxygen evolution reaction (OER) restrict the efficiency and feasibility of the water-splitting process. In this quest, transition metal oxides and alloys are considered potential candidates owing to their natural occurrence and high redox potential for OER. However, many associated challenges in their use are still there to be addressed. Here, we designed a new class of bismuth-doped iron oxide on exfoliated graphene oxide by optimizing the metal loading on the conductive support to facilitate the flow of charge during catalysis. The catalytic ability of the synthesized Bi-doped nanocomposites was evaluated in activating the OER under extreme alkaline conditions (1 MKOH). On screening different combinations, 20Bi&#8211;Fe2O3@GO was identified as the most efficient and sustainable electrocatalyst even under harsh operating conditions, with an onset potential of 1.48 V and a Tafel slope of 65 mV/dec. The current study offers a new class of Bi-doped electrocatalysts, where the precise doping of Bi and the optimized loading of metal was found the key to achieving low onset potential and high current density to initiate OER.</description>
+      <author>Akhtar Munir, Shaheer Jamal, Humaira Yasmeen Gondal, Javed Iqbal, Aamir Hussain, Alex Aziz, Muhammad Shahid Nisar, Muhammad Zubair, Abdul Momin, Ali Haider</author>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1186/s11671-024-04146-x</guid>
+    </item>
+    <item>
       <title>Review for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"</title>
       <link>https://doi.org/10.1039/d4ta06051b/v2/review1</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4404647545
@@ -888,6 +848,86 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta06051b/v1/review2</guid>
     </item>
     <item>
+      <title>Oxygen Vacancy Enriched and Cu Single-Atom Contained Covalent Organic Frameworks: A Competitive Photocatalyst to Promote Hydrogen Evolution under Visible Light</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101750</link>
+      <description>Zhishi Qiu, Zhongge Luo, Tong Zhou, Baoye Zi, Mingpeng Chen, Rui Hu, Tianping Lv, Tianwei He, Yu&#8208;Xiang Ma, Jin Zhang, Hao Cui, Jianhong Zhao, Yumin Zhang, Qingju Liu, Materials Today Energy. None(None)] 2024. https://openalex.org/W4404655150
+
+                No abstract</description>
+      <author>Zhishi Qiu, Zhongge Luo, Tong Zhou, Baoye Zi, Mingpeng Chen, Rui Hu, Tianping Lv, Tianwei He, Yu&#8208;Xiang Ma, Jin Zhang, Hao Cui, Jianhong Zhao, Yumin Zhang, Qingju Liu</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101750</guid>
+    </item>
+    <item>
+      <title>Investigating the properties of perovskite oxide based electrocatalysts for oxygen evolution reaction (OER)</title>
+      <link>https://doi.org/10.1007/s10971-024-06616-1</link>
+      <description>Areej S. Alqarni, Arooj Fatima, Abhinav Kumar, A. Dahshan, Journal of Sol-Gel Science and Technology. None(None)] 2024. https://openalex.org/W4404656161
+
+                No abstract</description>
+      <author>Areej S. Alqarni, Arooj Fatima, Abhinav Kumar, A. Dahshan</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10971-024-06616-1</guid>
+    </item>
+    <item>
+      <title>Dynamically Reconstructed Fe&#8208;CoOOH Semi&#8208;Crystalline Electrocatalyst for Efficient Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/smll.202408854</link>
+      <description>Abdul Qayum, Karim Harrath, Rui Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao, Small. None(None)] 2024. https://openalex.org/W4404657010
+
+                Abstract The development of robust and efficient electrocatalysts for the oxygen evolution reaction (OER) has been the main focus of water electrolysis but remains a great challenge. Here, the synthesis of a highly active and ultra&#8208;stable Fe&#8208;CoOOH electrocatalyst is reported by steering raw cobalt foam via an in situ solution combustion method assisted by a galvanic replacement reaction and subsequent electrochemical reconstruction of the CoFeO x pre&#8208;catalyst. In/ ex situ electrochemical analysis and physicochemical characterizations show that the CoFeO x undergoes quick chemical and slow morphological reconstruction to Fe&#8208;CoOOH nanosheets. The Fe&#8208;CoOOH possesses a semi&#8208;crystalline nature with distinct short&#8208;range ordering and outstanding OER activity with overpotentials as low as 271 and 291 mV at current densities of 500 and 1,000 mA cm &#8722;2 , respectively. The remarkable stability under 1,000 mA cm &#8722;2 for at least 700 h is achieved. Theoretical calculations confirm the crucial role of Fe doping in facilitating surface reconstruction, enhancing OER activity, and improving the stability of the Fe&#8208;CoOOH. Comparative analysis with other transition metals doping reveals the unique ability of Fe to adsorb onto the CoOOH surface, thereby modulating the electronic density and facilitating faster adsorption of reaction intermediates. This work represents valuable insights into the surface reconstruction and doping processes.</description>
+      <author>Abdul Qayum, Karim Harrath, Rui Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408854</guid>
+    </item>
+    <item>
+      <title>Domain-limited surface oxygen vacancy in rutile TiO2 for enhancing photocatalytic hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.11.338</link>
+      <description>Huazhang Feng, Zhaohui Chen, Cheng Lin, Yan&#8208;Ping Chen, Jingyun Su, Enna Ha, Kan Zhang, Luyang Wang, International Journal of Hydrogen Energy. 96(None)] 2024. https://openalex.org/W4404657741
+
+                No abstract</description>
+      <author>Huazhang Feng, Zhaohui Chen, Cheng Lin, Yan&#8208;Ping Chen, Jingyun Su, Enna Ha, Kan Zhang, Luyang Wang</author>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.11.338</guid>
+    </item>
+    <item>
+      <title>Design of Ni-coordinated MOF on stainless steel via electrodeposition as efficient and stable oxygen evolution electrode for alkaline water electrolysis</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145416</link>
+      <description>Valentina Maria Volanti, Andrea Zaffora, Leonardo Iannucci, Sabrina Grassini, Elisabetta Inico, Clara Saetta, Giovanni Di Liberto, Monica Santamaria, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4404657854
+
+                No abstract</description>
+      <author>Valentina Maria Volanti, Andrea Zaffora, Leonardo Iannucci, Sabrina Grassini, Elisabetta Inico, Clara Saetta, Giovanni Di Liberto, Monica Santamaria</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145416</guid>
+    </item>
+    <item>
+      <title>Ru0.1Mn0.9Ox Electrocatalyst for Durable Oxygen Evolution in Acid Seawater</title>
+      <link>https://doi.org/10.1002/anie.202420615</link>
+      <description>Jun Xu, Chun&#8208;Chuan Kao, Haifeng Shen, Hao Liu, Yao Zheng, Shi Zhang Qiao, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4404665200
+
+                Currently, direct electrolysis of seawater for green hydrogen production is primarily focused on neutral and alkaline systems. However, the precipitation of calcium and magnesium ions restricts the advancement of this technology. An acidic system can effectively address this issue. Given that Ru/Ir&#8208;based catalysts with high oxygen evolution reaction (OER) activity also exhibit high chlorine evolution reaction (CER) activity, acid seawater splitting requires anodes with higher selectivity and stability compared to the other two systems. In this study, we propose a non&#8208;precious Ru0.1Mn0.9Ox as the active anode for direct acid seawater electrolysis, which exhibits a high OER selectivity and remarkable stability for more than 1200 hours. Different from the Cl&#8208;&#8208;free system, *Cl occupied on Ru sites could shift the OER active center to Mn on Ru0.1Mn0.9Ox, which prevents the lattice oxygen consumed on Ru and hinders the metal site dissolution. As the CER&#8208;insensitive catalytic center, Mn activated by the introduction of Ru can adsorb a substantial amount of *OH, creating an OER&#8208;favored local environment that inhibits CER. We introduce Cl&#8208;&#8208;assisted transfer of OER active sites to CER&#8208;insensitive Mn as a fundamental strategy for achieving highly selective and durable oxygen evolution in acidic seawater.</description>
+      <author>Jun Xu, Chun&#8208;Chuan Kao, Haifeng Shen, Hao Liu, Yao Zheng, Shi Zhang Qiao</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202420615</guid>
+    </item>
+    <item>
+      <title>Bifunctional Electrocatalysts of Mn-doped Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; for Oxygen Reduction and Oxygen Evolution Reactions in Alkaline Medium</title>
+      <link>https://doi.org/10.6023/a24050152</link>
+      <description>Ziyi Shui, Sile Yu, Wei Lu, Liuyun Xu, Qingye Liu, Wei Zhao, Yilun Liu, Acta Chimica Sinica. 82(10)] 2024. https://openalex.org/W4404665261
+
+                No abstract</description>
+      <author>Ziyi Shui, Sile Yu, Wei Lu, Liuyun Xu, Qingye Liu, Wei Zhao, Yilun Liu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6023/a24050152</guid>
+    </item>
+    <item>
+      <title>Ru0.1Mn0.9Ox Electrocatalyst for Durable Oxygen Evolution in Acid Seawater</title>
+      <link>https://doi.org/10.1002/ange.202420615</link>
+      <description>Jun Xu, Chun&#8208;Chuan Kao, Haifeng Shen, Hao Liu, Yao Zheng, Shi Zhang Qiao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4404665286
+
+                Currently, direct electrolysis of seawater for green hydrogen production is primarily focused on neutral and alkaline systems. However, the precipitation of calcium and magnesium ions restricts the advancement of this technology. An acidic system can effectively address this issue. Given that Ru/Ir&#8208;based catalysts with high oxygen evolution reaction (OER) activity also exhibit high chlorine evolution reaction (CER) activity, acid seawater splitting requires anodes with higher selectivity and stability compared to the other two systems. In this study, we propose a non&#8208;precious Ru0.1Mn0.9Ox as the active anode for direct acid seawater electrolysis, which exhibits a high OER selectivity and remarkable stability for more than 1200 hours. Different from the Cl&#8208;&#8208;free system, *Cl occupied on Ru sites could shift the OER active center to Mn on Ru0.1Mn0.9Ox, which prevents the lattice oxygen consumed on Ru and hinders the metal site dissolution. As the CER&#8208;insensitive catalytic center, Mn activated by the introduction of Ru can adsorb a substantial amount of *OH, creating an OER&#8208;favored local environment that inhibits CER. We introduce Cl&#8208;&#8208;assisted transfer of OER active sites to CER&#8208;insensitive Mn as a fundamental strategy for achieving highly selective and durable oxygen evolution in acidic seawater.</description>
+      <author>Jun Xu, Chun&#8208;Chuan Kao, Haifeng Shen, Hao Liu, Yao Zheng, Shi Zhang Qiao</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202420615</guid>
+    </item>
+    <item>
       <title>Orientation-modulated oxygen evolution reaction in epitaxial SrRuO3 films</title>
       <link>https://doi.org/10.1039/d4cc05379f</link>
       <description>Shencheng Pan, Lianjin Wei, Junlong Xie, Zhenjie Lu, Jiajia Yuan, Tian Tang, Leichao Meng, Xin Wang, Junwu Zhu, Yongsheng Fu, Chemical Communications. None(None)] 2024. https://openalex.org/W4404542725
@@ -938,6 +978,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122654</guid>
     </item>
     <item>
+      <title>Author response for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"</title>
+      <link>https://doi.org/10.1039/d4ta06051b/v2/response1</link>
+      <description>Mengyuan Zhang, Xuanyu Zhou, Kongliang Luo, Yaning Fan, Chuandong He, Qiang Niu, Junjun Zhang, Pengfei Zhang, Sheng Dai, No host. None(None)] 2024. https://openalex.org/W4404647510
+
+                No abstract</description>
+      <author>Mengyuan Zhang, Xuanyu Zhou, Kongliang Luo, Yaning Fan, Chuandong He, Qiang Niu, Junjun Zhang, Pengfei Zhang, Sheng Dai</author>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta06051b/v2/response1</guid>
+    </item>
+    <item>
       <title>Decision letter for "Reconfiguration and activation induced by characteristic migration of transition metal-ions between interfaces of high-entropy oxygen evolution catalysts"</title>
       <link>https://doi.org/10.1039/d4qm00772g/v1/decision1</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4404582706
@@ -976,6 +1026,16 @@
       <author>Abdul Qayoom Mugheri</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.09.350</guid>
+    </item>
+    <item>
+      <title>Interplay Between Calcination Temperature and Alkaline Oxygen Evolution of Electrospun High&#8208;Entropy (Cr&lt;sub&gt;1/5&lt;/sub&gt;Mn&lt;sub&gt;1/5&lt;/sub&gt;Fe&lt;sub&gt;1/5&lt;/sub&gt;Co&lt;sub&gt;1/5&lt;/sub&gt;Ni&lt;sub&gt;1/5&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Nanofibers</title>
+      <link>https://doi.org/10.1002/smll.202408319</link>
+      <description>Keti Vezz&#249;, Claudia Triolo, Kaveh Moulaee, Gioele Pagot, Alessandro Ponti, Nicola Pinna, G. Neri, S. Santangelo, Vito Di Noto, Small. None(None)] 2024. https://openalex.org/W4404657044
+
+                Abstract Spinel&#8208;structured transition metal (TM) oxides have shown great potential as a sustainable alternative to platinum group metal&#8208;based electrocatalysts. Among them, high&#8208;entropy oxides (HEOs) with multiple TM&#8208;cation sites are suitable for engineering octahedral redox&#8208;active centers to enhance the catalyst reactivity. This paper reports on the preparation of electrospun (Cr 1/5 Mn 1/5 Fe 1/5 Co 1/5 Ni 1/5 ) 3 O 4 nanofibers (NFs) and their evaluation as electrocatalysts. Its main aim is to unveil the nanostructural features that play a key role in the alkaline oxygen evolution reaction. Differing calcination temperature (300&#8722;800 &#176;C) and duration (2 or 4 h) leads to different morphology of the NFs, crystallinity of the oxide, density of defects, and cation distribution in the lattice, which reflect in different electrocatalytic behaviors. The best performance (overpotential and Tafel slope at 10 mA cm &#8722;2 : 325 mV and 40 mV dec &#8722;1 , respectively) pertains to the NFs calcined at 400 &#176;C for 2 h. To gain a deeper understanding of their electrocatalytic properties, the pristine NFs are investigated by a combination of analytical techniques. In particular, broadband electric spectroscopy reveals that the mobility of oxygen vacancies in the best electrocatalyst is associated to very fast local dielectric relaxations of metal coordination octahedral geometries and experimentally demonstrates the key role of O&#8208;deficient octahedra.</description>
+      <author>Keti Vezz&#249;, Claudia Triolo, Kaveh Moulaee, Gioele Pagot, Alessandro Ponti, Nicola Pinna, G. Neri, S. Santangelo, Vito Di Noto</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408319</guid>
     </item>
     <item>
       <title>Anchoring ZnIn2S4 nanosheets on oxygen-vacancy NiMoOx nanorods for efficient photocatalytic hydrogen evolution</title>
@@ -1028,6 +1088,26 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta06649a</guid>
     </item>
     <item>
+      <title>Ligand&#8208;Tuning Metallic Sites in Molecular Complexes for Efficient Water Oxidation</title>
+      <link>https://doi.org/10.1002/anie.202415755</link>
+      <description>Yun Gao, Chengdong Yang, Fenglei Sun, Daping He, Xinqiang Wang, Jian Chen, Xiaobo Zheng, Runcong Liu, Hongge Pan, Dingsheng Wang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4404665300
+
+                Metal&#8208;organic hybrid catalysts with highly tunable single&#8208;sites are promising for oxygen&#8208;evolution reaction (OER), but molecular&#8208;scale understanding of underlying reaction mechanisms still remain elusive on these bulk materials. Herein, we report a direct construction of heterogenized molecular complexes stabilized on carbon substrates via coordinating Fe&#8208;Ni sites with four aromatic carboxylate ligands (FeNi&#8208;Lx). The ligands&#8208;tuning &#960;&#8208;&#960; stacking interaction between aromatic carboxylate ligands and carbon supports promote the oxidative charge accumulation on Fe&#8208;Ni sites via fast electron transferring, thus the optimized FeNi&#8208;Lx rendering a mass activity of 6680 A gFe/Ni&#8208;1 at 0.3 V overpotential. In situ characteristics and theoretical analysis demonstrate that the OH&#8208; nucleophilic attack on hypervalent iron sites induce the reconstruction of active Fe&#8208;O&#8208;Ni species, accompanying with fast valence increasing. Whereas, during OER, the unexpected valence reduction of Fe&#8208;O&#8208;Ni sites would be attributed to the oxygen&#8208;generating from OOH* intermediates. These findings would establish an essential understanding of the origin of active centers in molecular complexes catalysts for oxygen&#8208;evolution.</description>
+      <author>Yun Gao, Chengdong Yang, Fenglei Sun, Daping He, Xinqiang Wang, Jian Chen, Xiaobo Zheng, Runcong Liu, Hongge Pan, Dingsheng Wang</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202415755</guid>
+    </item>
+    <item>
+      <title>Ligand&#8208;Tuning Metallic Sites in Molecular Complexes for Efficient Water Oxidation</title>
+      <link>https://doi.org/10.1002/ange.202415755</link>
+      <description>Yun Gao, Chengdong Yang, Fenglei Sun, Daping He, Xinqiang Wang, Jian Chen, Xiaobo Zheng, Runcong Liu, Hongge Pan, Dingsheng Wang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4404665301
+
+                Metal&#8208;organic hybrid catalysts with highly tunable single&#8208;sites are promising for oxygen&#8208;evolution reaction (OER), but molecular&#8208;scale understanding of underlying reaction mechanisms still remain elusive on these bulk materials. Herein, we report a direct construction of heterogenized molecular complexes stabilized on carbon substrates via coordinating Fe&#8208;Ni sites with four aromatic carboxylate ligands (FeNi&#8208;Lx). The ligands&#8208;tuning &#960;&#8208;&#960; stacking interaction between aromatic carboxylate ligands and carbon supports promote the oxidative charge accumulation on Fe&#8208;Ni sites via fast electron transferring, thus the optimized FeNi&#8208;Lx rendering a mass activity of 6680 A gFe/Ni&#8208;1 at 0.3 V overpotential. In situ characteristics and theoretical analysis demonstrate that the OH&#8208; nucleophilic attack on hypervalent iron sites induce the reconstruction of active Fe&#8208;O&#8208;Ni species, accompanying with fast valence increasing. Whereas, during OER, the unexpected valence reduction of Fe&#8208;O&#8208;Ni sites would be attributed to the oxygen&#8208;generating from OOH* intermediates. These findings would establish an essential understanding of the origin of active centers in molecular complexes catalysts for oxygen&#8208;evolution.</description>
+      <author>Yun Gao, Chengdong Yang, Fenglei Sun, Daping He, Xinqiang Wang, Jian Chen, Xiaobo Zheng, Runcong Liu, Hongge Pan, Dingsheng Wang</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202415755</guid>
+    </item>
+    <item>
       <title>Metal Hydroxide&#8211;Organic Framework Mediated Structural Reengineering Enables Efficient NiFe Interaction for Robust Water Oxidation</title>
       <link>https://doi.org/10.1021/acs.nanolett.4c04815</link>
       <description>Hanxiao Liao, Kejun Chen, Xiaorong He, Jiaxin Tong, Xuanzhi Liu, Pengfei Tan, Xueyi Guo, Yongjin Ma, Nano Letters. None(None)] 2024. https://openalex.org/W4404535109
@@ -1046,16 +1126,6 @@
       <author>Muhammad Rafique, Muhammad Bilal Tahir, Saira Anwar</author>
       <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1201/9781003465768</guid>
-    </item>
-    <item>
-      <title>Boosting Water Splitting via Metal&#8211;Support Redox Interaction in Ce&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;M&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;2&#8722;&#948;&lt;/sub&gt; (M = Co, Ni, Cu)</title>
-      <link>https://doi.org/10.1021/acsanm.4c04683</link>
-      <description>Saraswati Roy, Sounak Roy, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4404468202
-
-                The efficiency of electrochemical water splitting is constrained by the anodic oxygen evolution reaction (OER), which suffers from high energy barriers, sluggish kinetics, and significant overpotential. Designing affordable and efficient electrocatalysts for the OER remains a key goal for advancing the hydrogen economy, with transitional metals like Co, Ni, and Cu gaining significant attention as promising alternatives due to their redox properties, abundance, and economy. The oxidation step of Mn+ &#8594; M(n+1)+ (M = Co, Ni, Cu) is the key intermediate step that produces the active species (M-OOH) formation, and thereby lowers the energy barrier and enhances the kinetics of the OER. However, the oxidation of Mn+ &#8594; M(n+1)+ creates charge-transfer orbitals near the Fermi energy level, which is fundamentally challenging. In this study, through structural and surface analyses, we demonstrate that the highly reducible CeO2 support in the Ce1&#8211;xMxO2&#8722;&#948; solid-solution effectively facilitates the Mn+ &#8594; M(n+1)+ oxidation process and the evolution of lattice oxygen during the OER. Among the three transition metals, the presence of the Ni3+ species along with the surface oxygen vacancy promoted the formation of -OOH surface intermediates and maximized the OER activity in Ce0.95Ni0.05O2&#8722;&#948; catalyst.</description>
-      <author>Saraswati Roy, Sounak Roy</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c04683</guid>
     </item>
     <item>
       <title>Synergistic coupling effect and anionic modulation of CoFeLDH@MXene for triggered and sustained alkaline water/seawater electrolysis</title>
@@ -1108,16 +1178,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54455-z</guid>
     </item>
     <item>
-      <title>Bismuth sensitized iron oxide on exfoliated graphene oxide (Bi&#8211;Fe2O3@GO) for oxygen evaluation reaction</title>
-      <link>https://doi.org/10.1186/s11671-024-04146-x</link>
-      <description>Akhtar Munir, Shaheer Jamal, Humaira Yasmeen Gondal, Javed Iqbal, Aamir Hussain, Alex Aziz, Muhammad Shahid Nisar, Muhammad Zubair, Abdul Momin, Ali Haider, Discover Nano. 19(1)] 2024. https://openalex.org/W4404643210
-
-                Electrochemical water splitting is a promising approach towards a sustainable and renewable energy source. However, the demand for high anodic potential and sluggish kinetics of oxygen evolution reaction (OER) restrict the efficiency and feasibility of the water-splitting process. In this quest, transition metal oxides and alloys are considered potential candidates owing to their natural occurrence and high redox potential for OER. However, many associated challenges in their use are still there to be addressed. Here, we designed a new class of bismuth-doped iron oxide on exfoliated graphene oxide by optimizing the metal loading on the conductive support to facilitate the flow of charge during catalysis. The catalytic ability of the synthesized Bi-doped nanocomposites was evaluated in activating the OER under extreme alkaline conditions (1 MKOH). On screening different combinations, 20Bi&#8211;Fe2O3@GO was identified as the most efficient and sustainable electrocatalyst even under harsh operating conditions, with an onset potential of 1.48 V and a Tafel slope of 65 mV/dec. The current study offers a new class of Bi-doped electrocatalysts, where the precise doping of Bi and the optimized loading of metal was found the key to achieving low onset potential and high current density to initiate OER.</description>
-      <author>Akhtar Munir, Shaheer Jamal, Humaira Yasmeen Gondal, Javed Iqbal, Aamir Hussain, Alex Aziz, Muhammad Shahid Nisar, Muhammad Zubair, Abdul Momin, Ali Haider</author>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1186/s11671-024-04146-x</guid>
-    </item>
-    <item>
       <title>Multihybridization for Enhancing Fe&#8208;Ni Bimetal Electrocatalyst in Water Oxidation</title>
       <link>https://doi.org/10.1002/aenm.202403464</link>
       <description>Hongyan Zhang, Hao Zhou, Hua Wang, Yikai Wang, Xuehan Yang, Dan Wu, Yuan Pan, Maoshuai He, Wenxian Wei, Tao Yang, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4404590423
@@ -1128,24 +1188,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403464</guid>
     </item>
     <item>
-      <title>Metal&#8208;Phthalocyanine&#8208;Based Two&#8208;Dimensional Conjugated Metal&#8208;Organic Frameworks for Electrochemical Glycerol Oxidation Reaction</title>
-      <link>https://doi.org/10.1002/ange.202416178</link>
-      <description>Xing Huang, Mingchao Wang, Haixia Zhong, Xiaodong Li, Huaping Wang, Yang Lu, Geping Zhang, Yannan Liu, Shouxin Zhang, Ruqiang Zou, Xinliang Feng, Renhao Dong&#10731;, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4404458317
+      <title>Effect of Ni&#8208;Doping on the Optical, Structural, and Electrochemical Properties of Ag&lt;sub&gt;29&lt;/sub&gt; Nanoclusters</title>
+      <link>https://doi.org/10.1002/smll.202408096</link>
+      <description>Abdullah Ahmed Ali Ahmed, Shana Havenridge, Koustav Sahoo, Loknath Thapa, Ananya Baksi, Guido H. Clever, Heshmat Noei, Mona Kohantorabi, Andreas Stierle, C. Retna Raj, Wolfgang J. Parak, Christine M. Aikens, Indranath Chakraborty, Small. None(None)] 2024. https://openalex.org/W4404657011
 
-                Electrochemical glycerol oxidation reaction (GOR) is a promising candidate to couple with cathodic reaction, like hydrogen evolution reaction, to produce high&#8208;value product with less energy consumption. Two&#8208;dimensional conjugated metal&#8208;organic frameworks (2D c&#8208;MOFs), comprising square&#8208;planar metal&#8208;coordination motifs (e.g., MO4, M(NH)4, MS4), are notable for their programable active sites, intrinsic charge transport, and excellent stability, making them promising catalyst candidates for GOR. Here, we introduce a novel class of 2D c&#8208;MOFs electrocatalysts, M2[NiPcS8] (M=Co/Ni/Cu), which are synthesized via coordination of octathiolphthalocyaninato nickel (NiPc(SH)8) with various metal centers. Due to a fast kinetic and high activity of CoS4 sites for GOR, the electrocatalytic tests demonstrate that Co2[NiPcS8] supported on carbon paper displays a low GOR potential of 1.35 V vs. RHE at 10 mA cm&#8208;2, significantly reducing the overall water&#8208;electrolysis&#8208;voltage reduction by 0.27 V from oxygen evolution reaction to GOR, thereby outperforming Ni2[NiPcS8] and Cu2[NiPcS8]. Additionally, we have determined that the GOR activity of CoX4 linkage sites varies with different heteroatoms, following an experimentally and theoretically confirmed activity order of CoS4&gt;CoO4&gt;Co(NH)4. The GOR performance of Co2[NiPcS8] not only demonstrate superior performance among non&#8208;noble metal complex, but also provides critical insights on designing high&#8208;performance MOF electrocatalysts upon optimizing the electronic environment of active sites.</description>
-      <author>Xing Huang, Mingchao Wang, Haixia Zhong, Xiaodong Li, Huaping Wang, Yang Lu, Geping Zhang, Yannan Liu, Shouxin Zhang, Ruqiang Zou, Xinliang Feng, Renhao Dong&#10731;</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202416178</guid>
-    </item>
-    <item>
-      <title>Screened d&#8208;p Orbital Hybridization in Turing Structure of Confined Nickel for Sulfion Oxidation Accelerated Hydrogen Production</title>
-      <link>https://doi.org/10.1002/anie.202419572</link>
-      <description>Yin Zhu, Shao Wang, Yanxu Chen, Yangyang Zhang, Yafei Feng, Genqiang Zhang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4404568505
-
-                The sulfion oxidation reaction (SOR) could offer an energy&#8208;efficient and tech&#8208;economically favorable alternative to the oxygen evolution reaction (OER) for H2 production. Transition metal (TM) based catalysts have been considered promising candidates for SOR but suffer from limited activity due to the excessive bond strength from TM&#8208;S2&#8208; d&#8208;p orbit coupling. Herein, we propose a feasible strategy of screening direct d&#8208;p orbit hybridization between TM and S2&#8208; by constructing the Turing structure composed of lamellar stacking carbon&#8208;confined nickel nanosheets. The optimized p&#8208;p orbit coupling between electron&#8208;injected carbon and S2&#8208; enables exceptional catalytic activity and stability for sulfion degradation and energy&#8208;efficient yet value&#8208;added H2 production. Specifically, it achieves a current density of 500 mA cm&#8208;2 at an ultralow potential of 0.67 V vs. RHE for alkaline SOR. Theoretical calculations indicate that the electron transfer from Ni imparts metallicity and a higher p&#8208;band center to carbon shells, thereby contributing to optimized p&#8208;p orbit hybridization and a thermodynamically favorable stepwise sulfion degradation. Practically, a two&#8208;electrode flow cell achieves an industrial current density of 1 Acm&#8208;2 at an unprecedented low voltage of 0.91 V while maintaining stability for over 300 hours, and exhibits high productivities of 3.83 and 0.32 kgh&#8208;1m&#8208;2 for sulfur and H2, respectively.</description>
-      <author>Yin Zhu, Shao Wang, Yanxu Chen, Yangyang Zhang, Yafei Feng, Genqiang Zhang</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202419572</guid>
+                Abstract Atomically precise metal nanoclusters (NCs) can be compositionally controlled at the single&#8208;atom level, but understanding structure&#8208;property correlations is required for tailoring specific optical properties. Here, the impact of Ni atom doping on the optical, structural, and electrochemical properties of atomically precise 1,3&#8208;benzene dithiol (BDT) protected Ag 29 NCs is studied. The Ni&#8208;doped Ag 29 (NiAg 28 (BDT) 12 ) NCs, are synthesized using a co&#8208;reduction method and characterized using electrospray ionization mass spectrometry (ESI MS), ion mobility spectrometry (IMS), and X&#8208;ray photoelectron spectroscopy (XPS). Only a single Ni atom doping can be achieved despite changing the precursor concentration. Ni doping in Ag 29 NCs exhibits enhanced thermal stability, and electrocatalytic oxygen evolution reaction (OER) compared to the parent NCs. Density functional theory (DFT) calculations predict the geometry and optical properties of the parent and NiAg 28 (BDT) 12 NCs. DFT is also used to study the systematic single&#8208;atom doping effect of metals such as Au, Cu, and Pt into Ag 29 NCs and suggests that with Ni and Pt, the d atomic orbitals contribute to creating superatomic orbitals, which is not seen with other dopants or the parent cluster. The emission mechanism is dominated by a charge transfer from the ligands into the Ag core cluster regardless of the dopant.</description>
+      <author>Abdullah Ahmed Ali Ahmed, Shana Havenridge, Koustav Sahoo, Loknath Thapa, Ananya Baksi, Guido H. Clever, Heshmat Noei, Mona Kohantorabi, Andreas Stierle, C. Retna Raj, Wolfgang J. Parak, Christine M. Aikens, Indranath Chakraborty</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408096</guid>
     </item>
     <item>
       <title>Screened d&#8208;p Orbital Hybridization in Turing Structure of Confined Nickel for Sulfion Oxidation Accelerated Hydrogen Production</title>
@@ -1156,6 +1206,16 @@
       <author>Yin Zhu, Shao Wang, Yanxu Chen, Yangyang Zhang, Yafei Feng, Genqiang Zhang</author>
       <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202419572</guid>
+    </item>
+    <item>
+      <title>Screened d&#8208;p Orbital Hybridization in Turing Structure of Confined Nickel for Sulfion Oxidation Accelerated Hydrogen Production</title>
+      <link>https://doi.org/10.1002/anie.202419572</link>
+      <description>Yin Zhu, Shao Wang, Yanxu Chen, Yangyang Zhang, Yafei Feng, Genqiang Zhang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4404568505
+
+                The sulfion oxidation reaction (SOR) could offer an energy&#8208;efficient and tech&#8208;economically favorable alternative to the oxygen evolution reaction (OER) for H2 production. Transition metal (TM) based catalysts have been considered promising candidates for SOR but suffer from limited activity due to the excessive bond strength from TM&#8208;S2&#8208; d&#8208;p orbit coupling. Herein, we propose a feasible strategy of screening direct d&#8208;p orbit hybridization between TM and S2&#8208; by constructing the Turing structure composed of lamellar stacking carbon&#8208;confined nickel nanosheets. The optimized p&#8208;p orbit coupling between electron&#8208;injected carbon and S2&#8208; enables exceptional catalytic activity and stability for sulfion degradation and energy&#8208;efficient yet value&#8208;added H2 production. Specifically, it achieves a current density of 500 mA cm&#8208;2 at an ultralow potential of 0.67 V vs. RHE for alkaline SOR. Theoretical calculations indicate that the electron transfer from Ni imparts metallicity and a higher p&#8208;band center to carbon shells, thereby contributing to optimized p&#8208;p orbit hybridization and a thermodynamically favorable stepwise sulfion degradation. Practically, a two&#8208;electrode flow cell achieves an industrial current density of 1 Acm&#8208;2 at an unprecedented low voltage of 0.91 V while maintaining stability for over 300 hours, and exhibits high productivities of 3.83 and 0.32 kgh&#8208;1m&#8208;2 for sulfur and H2, respectively.</description>
+      <author>Yin Zhu, Shao Wang, Yanxu Chen, Yangyang Zhang, Yafei Feng, Genqiang Zhang</author>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202419572</guid>
     </item>
     <item>
       <title>Dynamic Molybdate Oxyanion Boosts Self-Optimization and Self-Healing on the NiMoFe Heterostructure for Water Splitting in Alkaline Media</title>
@@ -1208,6 +1268,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202402097</guid>
     </item>
     <item>
+      <title>Analysis of the biodrying and biostabilization efficiency of a continuous flow full-scale facility</title>
+      <link>https://doi.org/10.5276/jswtm/iswmaw/50s1/2024.755</link>
+      <description>Francesco Di Maria, Somnath Ghosh, The Journal of Solid Waste Technology and Management. 50(4)] 2024. https://openalex.org/W4404652164
+
+                The technological solution adopted for aerobic treatment of Waste Organic Fraction (WOF) can influence the evolution of the physical parameters of the process making the facility acting as a biostabilization or a biodrying system. In the present study, the continuous flow biological section of the full-scale mechanical biological treatment plant was experimentally investigated by means of evolution, during treatment period (day), of temperature (T) (&#176; C), volatile solids (VS) (%TS) and oxygen uptake of the WOF under treatment. Oxygen uptake was measured by the Dynamic Respirometer Index Potential (DRIP) (mgO2/kgVSh). Main findings were that T (&#176; C) and VS %TS remained quite constant among inlets and outlets of the biological treatment sections, about 70&#176; C and 50 (%TS), respectively. DRIP (mgO2/kgVSh) values measured by several samples withdrawn along the basin width increased significantly in the first half portion of the basin of the aerobic section, remaining quite constant in the second half. This was mainly caused by the strong moisture reduction that rapidly achieved values lower than 40% causing inhibition to microbial activity. The simulation model developed in this work showed that the mean retention time (day) of the WOF inside the aerobic basin was about 14-16 days, this parameter being strongly influenced by the WOF inlet rate (tonnes/day). Finally, experimental evidence pointed out that the reduction of WOF DRIP (mgO2/kgVSh) stopped after the first days of treatment indicating that the facility operates mainly as biodrying system. Based on simulations, biostabilization can also be pursued by maintaining the moisture of WOF to proper values not lower than 40 (% w/w).</description>
+      <author>Francesco Di Maria, Somnath Ghosh</author>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5276/jswtm/iswmaw/50s1/2024.755</guid>
+    </item>
+    <item>
       <title>Tracking Depositional Architecture and Diagenetic Evolution in the Jurassic Carbonates, Trans Indus Ranges, NW Himalayas</title>
       <link>https://doi.org/10.3390/min14111170</link>
       <description>Muhammad Jamil, Ihsan Ullah, Hamad ur Rahim, I. Khan, Wahid Abbas, Mohib ur Rehman, Alidu Rashid, Muhammad Umar, Asad Ali, Numair Ahmed Siddiqui, Minerals. 14(11)] 2024. https://openalex.org/W4404486903
@@ -1236,16 +1306,6 @@
       <author>Bruno Cuevas-Zuvir&#237;a, Franka Detemple, Kaustubh Amritkar, Amanda K. Garcia, Lance C. Seefeldt, Oliver Einsle, Bet&#252;l Ka&#231;ar</author>
       <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1101/2024.11.18.623660</guid>
-    </item>
-    <item>
-      <title>Evidence for Type Ib/c Origin of the Supernova Remnant G292.0+1.8</title>
-      <link>https://doi.org/10.3847/1538-4357/ad7e17</link>
-      <description>Takuto Narita, Hiroyuki Uchida, Jacco Vink, Satoru Katsuda, Hideyuki Umeda, Takashi Yoshida, Toshiki Sato, Kai Matsunaga, Takeshi Go Tsuru, The Astrophysical Journal. 976(1)] 2024. https://openalex.org/W4404509264
-
-                Abstract Circumstellar material (CSM) produced by mass loss from massive stars (&#8819;10 M &#8857; ) through strong stellar winds or binary stripping provides rich information for understanding progenitors of core-collapse supernova remnants. In this paper we present a grating spectroscopy of a Galactic SNR G292.0+1.8, which is claimed to be a Type Ib/c remnant in a binary system according to recent studies. If G292.0+1.8 had experienced a strong mass-loss via binary interactions before its explosion, an oxygen-rich material produced in the He-burning layer is expected to be observed in the central belt-like structure formed by shock-heated CSM. Using the Reflection Grating Spectrometer onboard XMM-Newton, we detect N vii Ly &#945; line (0.50 keV) for the first time in G292.0+1.8 and find that the abundance ratio of nitrogen to oxygen is significantly lower (N/O = 0.5 &#177; 0.1) than the solar value. This low N/O suggests that the progenitor of G292.0+1.8 experienced strong mass-loss and ended up as a Wolf&#8211;Rayet star exposing the He-burning layer at the presupernova. Comparing our result and the evolution models of single stars and binaries, we conclude that the progenitor of G292.0+1.8 experienced strong enough mass-loss to occur a Type Ib/c supernova. Our finding is another crucial piece of evidence for a stripped-envelope supernova such as Type Ib/c as the origin of G292.0+1.8.</description>
-      <author>Takuto Narita, Hiroyuki Uchida, Jacco Vink, Satoru Katsuda, Hideyuki Umeda, Takashi Yoshida, Toshiki Sato, Kai Matsunaga, Takeshi Go Tsuru</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3847/1538-4357/ad7e17</guid>
     </item>
     <item>
       <title>Evolutionary tracks of binary neutron star progenitors across cosmic times</title>
@@ -1366,16 +1426,6 @@
       <author>G.R. Udas</author>
       <pubDate>Sun, 01 Dec 1974 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.17491/jgsi/1974/150411</guid>
-    </item>
-    <item>
-      <title>Characterisation of Five Natural Magnetite Reference Materials for &lt;i&gt;In Situ&lt;/i&gt; Iron Isotope Measurement with Application to Magmatic Ni&#8208;Cu Sulfide Mineralisation</title>
-      <link>https://doi.org/10.1111/ggr.12592</link>
-      <description>Yantong Feng, Wen Zhang, Yawen Bao, Xianli Zeng, Hong Liu, Tao Luo, Zhaochu Hu, Mingjie Zhang, Li Wang, Yang Yan, Shengjiang Liu, Geostandards and Geoanalytical Research. None(None)] 2024. https://openalex.org/W4404454998
-
-                Iron isotope ratios in magnetite have been widely used to reveal critical geological and biological processes. Laser ablation multi&#8208;collector inductively coupled plasma&#8208;mass spectrometry (LA&#8208;MC&#8208;ICP&#8208;MS) is ideally suited for measurement of Fe isotope ratios, however the lack of suitable reference materials poses a significant challenge for in situ Fe isotopic measurements in magnetites. In this study, five high&#8208;quality natural magnetite crystals were characterised for Fe isotope ratios using solution nebulisation (SN)&#8208;MC&#8208;ICP&#8208;MS and LA&#8208;MC&#8208;ICP&#8208;MS. The effects of LA&#8208;MC&#8208;ICP&#8208;MS analytical conditions were investigated to obtain precise and accurate Fe isotope ratios. The yielded intermediate measurement precisions for the &#948; 56 Fe values in the five investigated magnetites were &#177; 0.05&#8211;0.06&#8240; (2 s ) using SN&#8208;MC&#8208;ICP&#8208;MS and &#177; 0.08&#8211;0.14&#8240; (2 s ) using LA&#8208;MC&#8208;ICP&#8208;MS. Magnetites with homogeneous Fe isotopic compositions in hand&#8208;specimen measurements and microanalysis can serve as potential reference materials for in situ Fe isotopic measurement. Furthermore, the Fe isotope ratios in the magnetites from the Jinchuan Ni&#8208;Cu&#8208;PGE sulfide deposit were measured using LA&#8208;MC&#8208;ICP&#8208;MS with natural magnetite as the bracketing calibrator. The increase in the Fe isotopic composition with magmatic sulfide evolution was primarily dominated by oxygen fugacity ( f O 2 ) and hydrothermal fluids. This finding implies that the Fe isotopic composition of magnetite can serve as a potential geochemical indicator of magmatic Ni&#8208;Cu sulfide mineralisation.</description>
-      <author>Yantong Feng, Wen Zhang, Yawen Bao, Xianli Zeng, Hong Liu, Tao Luo, Zhaochu Hu, Mingjie Zhang, Li Wang, Yang Yan, Shengjiang Liu</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1111/ggr.12592</guid>
     </item>
     <item>
       <title>Cosmic-ray-induced chemical processes in CH3OH, CH3NH2 and CH3OH:CH3NH2 ices. Conventional and novel IR spectroscopic analysis with VIZSLA</title>

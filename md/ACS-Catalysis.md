@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Nov 25 01:26:15 2024
+Created on Tue Nov 26 01:25:22 2024
 
-Found 34 results from 2024-11-18 to 2024-11-25
+Found 33 results from 2024-11-19 to 2024-11-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Activation of Lattice Oxygen in Nitrogen-Doped High-Entropy Oxide Nanosheets for Highly Efficient Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4404459898    
-Open access: False
-    
-[Shengqin Guan](https://openalex.org/A5009729201), [Baoen Xu](https://openalex.org/A5100711147), [Xingbo Yu](https://openalex.org/A5109737361), [Yong‐Hong Ye](https://openalex.org/A5044016858), [Yuting Liu](https://openalex.org/A5100364308), [Taotao Guan](https://openalex.org/A5048224087), [Yang Yu](https://openalex.org/A5100703660), [Jiali Gao](https://openalex.org/A5051728653), [Kaixi Li](https://openalex.org/A5080856996), [Jianlong Wang](https://openalex.org/A5100666573), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05997.
-    
-No abstract    
-
-    
 
 ## In(OTf)3-Catalyzed (3 + 3) Dipolar Cyclization of Bicyclo[1.1.0]butanes with N-Nucleophilic 1,3-Dipoles: Access to 2,3-Diazabicyclo[3.1.1]heptanes, 2,3-Diazabicyclo[3.1.1]heptenes, and Enantiopure 2-Azabicyclo[3.1.1]heptanes   
 

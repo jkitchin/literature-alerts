@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Nov 2024 01:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 01:25:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A MoNi4(312) surface preferred reconstruction enhancing hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124831</link>
-      <description>Song Xie, Chao Huang, Dong Hao, Baochai Xu, Yaping Miao, Biao Gao, Xuming Zhang, Paul K. Chu, Xiang Peng, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404459012
-
-                No abstract</description>
-      <author>Song Xie, Chao Huang, Dong Hao, Baochai Xu, Yaping Miao, Biao Gao, Xuming Zhang, Paul K. Chu, Xiang Peng</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124831</guid>
-    </item>
-    <item>
-      <title>Activation of Lattice Oxygen in Nitrogen-Doped High-Entropy Oxide Nanosheets for Highly Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c05997</link>
-      <description>Shengqin Guan, Baoen Xu, Xingbo Yu, Yong&#8208;Hong Ye, Yuting Liu, Taotao Guan, Yang Yu, Jiali Gao, Kaixi Li, Jianlong Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404459898
-
-                No abstract</description>
-      <author>Shengqin Guan, Baoen Xu, Xingbo Yu, Yong&#8208;Hong Ye, Yuting Liu, Taotao Guan, Yang Yu, Jiali Gao, Kaixi Li, Jianlong Wang</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05997</guid>
-    </item>
-    <item>
-      <title>BEAST DB: Grand-Canonical Database of Electrocatalyst Properties</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c06826</link>
-      <description>Cooper Tezak, Jacob M. Clary, Sophie Gerits, Joshua Quinton, Benjamin Rich, Nicholas R. Singstock, Abdulaziz Alherz, Taylor J. Aubry, Struan Clark, R. B. Hurst, Mauro Del Ben, Christopher Sutton, Ravishankar Sundararaman, Charles B. Musgrave, Derek Vigil&#8208;Fowler, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404462138
-
-                We present BEAST DB, an open-source database comprised of ab initio electrochemical data computed using grand-canonical density functional theory in implicit solvent at consistent calculation parameters. The database contains over 20,000 surface calculations and covers a broad set of heterogeneous catalyst materials and electrochemical reactions. Calculations were performed at self-consistent fixed potential as well as constant charge to facilitate comparisons to the computational hydrogen electrode. This article presents common use cases of the database to rationalize trends in catalyst activity, screen catalyst material spaces, understand elementary mechanistic steps, analyze the electronic structure, and train machine learning models to predict higher fidelity properties. Users can interact graphically with the database by querying for individual calculations to gain a granular understanding of reaction steps or by querying for an entire reaction pathway on a given material using an interactive reaction pathway tool. BEAST DB will be periodically updated, with planned future updates to include advanced electronic structure data, surface speciation studies, and greater reaction coverage.</description>
-      <author>Cooper Tezak, Jacob M. Clary, Sophie Gerits, Joshua Quinton, Benjamin Rich, Nicholas R. Singstock, Abdulaziz Alherz, Taylor J. Aubry, Struan Clark, R. B. Hurst, Mauro Del Ben, Christopher Sutton, Ravishankar Sundararaman, Charles B. Musgrave, Derek Vigil&#8208;Fowler</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06826</guid>
-    </item>
-    <item>
-      <title>Mechanism of the Layered-to-Spinel Phase Transformation in Li&lt;sub&gt;0.5&lt;/sub&gt;NiO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acsaem.4c00591</link>
-      <description>Cem Komurcuoglu, Alan C. West, Alexander Urban, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4404470166
-
-                The phase transition of layered Li0.5NiO2 to spinel Li(NiO2)2 is a potential degradation pathway in LiNiO2-based lithium-ion battery cathodes. We investigated the mechanism of this phase transformation from first principles. Consistent with experimental observations reported in the literature, our results indicate a high energy barrier for the transformation due to high defect formation energies, a complex charge-transfer mechanism, and electronic frustration. Our results suggest that partially inverse spinel phases are unlikely to form for Li0.5NiO2, a qualitative difference from the chemically similar Li0.5MnO2, in which the transformation occurs at room temperature. We show that Ni and Li atoms do not migrate gradually to their respective spinel sites for the layered-to-spinel transformation to occur due to high defect formation energies. We investigated the charge ordering in layered phases along the LiNiO2&#8211;NiO2 composition line, finding a pronounced impact of the symmetry and space group on the layered-to-spinel transition in Li0.5NiO2. Finally, we evaluated the relative stability of different spinel space groups, finding that previously reported experimental observations are consistent with a temperature-averaged structure rather than the 0 K ground-state structure of the Li(NiO2)2 spinel.</description>
-      <author>Cem Komurcuoglu, Alan C. West, Alexander Urban</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00591</guid>
-    </item>
     <item>
       <title>Surface coverage and reconstruction analyses bridge the correlation between structure and activity for electrocatalysis</title>
       <link>https://doi.org/10.1039/d4cc03875d</link>
@@ -230,11 +190,11 @@
     <item>
       <title>Uniform anchoring of MoS2 nanosheets on MOFs-derived CoFe2O4 porous nanolayers to construct heterogeneous structural configurations for efficient and stable overall water splitting</title>
       <link>https://doi.org/10.1016/j.jcis.2024.11.136</link>
-      <description>Yulin Duan, Zhengang Guo, Tingting Wang, Jifan Zhang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4404555318
+      <description>Yulin Duan, Zhengang Guo, Tingting Wang, Jifan Zhang, Journal of Colloid and Interface Science. 680(None)] 2024. https://openalex.org/W4404555318
 
                 No abstract</description>
       <author>Yulin Duan, Zhengang Guo, Tingting Wang, Jifan Zhang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.136</guid>
     </item>
     <item>
@@ -646,6 +606,66 @@
       <author>Dipam Manish Patel, Anjana Tripathi, Vivianne K. Ocampo-Restrepo, Georg Kastlunger</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101611</guid>
+    </item>
+    <item>
+      <title>Enhancing effects of edge-N in Pt-based carbon support on hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105499</link>
+      <description>Xianyou Luo, Bokai Cao, Muhammad Fayaz, Wende Lai, Baodong Du, Heng Zheng, Xunhui Xiong, Yong Chen, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4404653390
+
+                No abstract</description>
+      <author>Xianyou Luo, Bokai Cao, Muhammad Fayaz, Wende Lai, Baodong Du, Heng Zheng, Xunhui Xiong, Yong Chen</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105499</guid>
+    </item>
+    <item>
+      <title>Using CrN4 Moiety to Weaken the Dissociation Barrier of Hydroxyl on Adjacent Single Iron Atom for Efficient Oxygen Reduction</title>
+      <link>https://doi.org/10.1016/j.ensm.2024.103927</link>
+      <description>Li-Lian Wang, Lei Zhu, Xinyu Zhao, Hang Ma, Bingjie Pang, Lingyan Duan, Kun Zeng, Lu Liu, Anran Chen, Hong Guo, Energy storage materials. None(None)] 2024. https://openalex.org/W4404655119
+
+                No abstract</description>
+      <author>Li-Lian Wang, Lei Zhu, Xinyu Zhao, Hang Ma, Bingjie Pang, Lingyan Duan, Kun Zeng, Lu Liu, Anran Chen, Hong Guo</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2024.103927</guid>
+    </item>
+    <item>
+      <title>Dynamically Reconstructed Fe&#8208;CoOOH Semi&#8208;Crystalline Electrocatalyst for Efficient Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/smll.202408854</link>
+      <description>Abdul Qayum, Karim Harrath, Rui Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao, Small. None(None)] 2024. https://openalex.org/W4404657010
+
+                Abstract The development of robust and efficient electrocatalysts for the oxygen evolution reaction (OER) has been the main focus of water electrolysis but remains a great challenge. Here, the synthesis of a highly active and ultra&#8208;stable Fe&#8208;CoOOH electrocatalyst is reported by steering raw cobalt foam via an in situ solution combustion method assisted by a galvanic replacement reaction and subsequent electrochemical reconstruction of the CoFeO x pre&#8208;catalyst. In/ ex situ electrochemical analysis and physicochemical characterizations show that the CoFeO x undergoes quick chemical and slow morphological reconstruction to Fe&#8208;CoOOH nanosheets. The Fe&#8208;CoOOH possesses a semi&#8208;crystalline nature with distinct short&#8208;range ordering and outstanding OER activity with overpotentials as low as 271 and 291 mV at current densities of 500 and 1,000 mA cm &#8722;2 , respectively. The remarkable stability under 1,000 mA cm &#8722;2 for at least 700 h is achieved. Theoretical calculations confirm the crucial role of Fe doping in facilitating surface reconstruction, enhancing OER activity, and improving the stability of the Fe&#8208;CoOOH. Comparative analysis with other transition metals doping reveals the unique ability of Fe to adsorb onto the CoOOH surface, thereby modulating the electronic density and facilitating faster adsorption of reaction intermediates. This work represents valuable insights into the surface reconstruction and doping processes.</description>
+      <author>Abdul Qayum, Karim Harrath, Rui Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408854</guid>
+    </item>
+    <item>
+      <title>The effects of biaxial strain and sulfur/boron doping on the photocatalytic performance of the g-C3N5 system: A first-principles study</title>
+      <link>https://doi.org/10.1016/j.commatsci.2024.113560</link>
+      <description>Yongde Yao, Fujian Tang, Shangtong Yang, Computational Materials Science. 247(None)] 2024. https://openalex.org/W4404657649
+
+                No abstract</description>
+      <author>Yongde Yao, Fujian Tang, Shangtong Yang</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113560</guid>
+    </item>
+    <item>
+      <title>Design of Ni-coordinated MOF on stainless steel via electrodeposition as efficient and stable oxygen evolution electrode for alkaline water electrolysis</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145416</link>
+      <description>Valentina Maria Volanti, Andrea Zaffora, Leonardo Iannucci, Sabrina Grassini, Elisabetta Inico, Clara Saetta, Giovanni Di Liberto, Monica Santamaria, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4404657854
+
+                No abstract</description>
+      <author>Valentina Maria Volanti, Andrea Zaffora, Leonardo Iannucci, Sabrina Grassini, Elisabetta Inico, Clara Saetta, Giovanni Di Liberto, Monica Santamaria</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145416</guid>
+    </item>
+    <item>
+      <title>Electrochemical behavior of LiNiCo oxide cathodes as catalyst for lithium-air batteries</title>
+      <link>https://doi.org/10.1007/s10008-024-06149-1</link>
+      <description>E. Meza, Francisco Herrera, Juan Luis Gautier, Journal of Solid State Electrochemistry. None(None)] 2024. https://openalex.org/W4404662045
+
+                No abstract</description>
+      <author>E. Meza, Francisco Herrera, Juan Luis Gautier</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10008-024-06149-1</guid>
     </item>
     <item>
       <title>Cation effects on the alkaline oxygen reduction reaction</title>

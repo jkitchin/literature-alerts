@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Nov 2024 01:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 01:25:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -27,6 +27,16 @@
       <author>Ethan M. Sunshine, Giovanna Bucci, Tanusree Chatterjee, Shyam Deo, Victoria M. Ehlinger, Wenqin Li, Thomas Moore, Corey Myers, Wenyu Sun, Bo-Xun Wang, Mengyao Yuan, John R. Kitchin, Carl D. Laird, Matthew J. McNenly, Sneha A. Akhade</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108921</guid>
+    </item>
+    <item>
+      <title>Designing Operationally Flexible Diafiltration Membrane Systems for Critical Mineral Separations</title>
+      <link>https://doi.org/10.2172/2477929</link>
+      <description>Jason Yao, Molly Dougher, Andrew Lee, Alexander W. Dowling, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4404652142
+
+                No abstract</description>
+      <author>Jason Yao, Molly Dougher, Andrew Lee, Alexander W. Dowling, Chrysanthos E. Gounaris</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2477929</guid>
     </item>
   </channel>
 </rss>
