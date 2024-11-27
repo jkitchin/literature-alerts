@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Nov 2024 01:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 01:26:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surface coverage and reconstruction analyses bridge the correlation between structure and activity for electrocatalysis</title>
-      <link>https://doi.org/10.1039/d4cc03875d</link>
-      <description>Zhongyuan Guo, Tianyi Wang, Jiang Xu, Ang Cao, Hao Li, Chemical Communications. None(None)] 2024. https://openalex.org/W4404473697
-
-                Electrocatalysis is key to realizing a sustainable future for our society. However, the complex interface between electrocatalysts and electrolytes presents an ongoing challenge in electrocatalysis, hindering the accurate identification of effective/authentic structure-activity relationships and determination of favourable reaction mechanisms. Surface coverage and reconstruction analyses of electrocatalysts are important to address each conjecture and/or conflicting viewpoint on surface-active phases and their corresponding electrocatalytic origin,</description>
-      <author>Zhongyuan Guo, Tianyi Wang, Jiang Xu, Ang Cao, Hao Li</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc03875d</guid>
-    </item>
-    <item>
-      <title>Unveiling the Mechanistic Landscape and Advantages of Two-Dimensional Phthalocyanine in Sustainable Urea Synthesis</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124826</link>
-      <description>Xiaorong Zhu, Ming Ge, Xiaolei Yuan, Yijin Wang, Yanfeng Tang, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404495032
-
-                No abstract</description>
-      <author>Xiaorong Zhu, Ming Ge, Xiaolei Yuan, Yijin Wang, Yanfeng Tang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124826</guid>
-    </item>
-    <item>
-      <title>Regulation of coordinated nitrogen species for atomically dispersed Fe-N5 catalyst to boost electrocatalytic CO2-to-CO conversion</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124824</link>
-      <description>Da Li, Jiabei Liu, Xinyi Chen, Zhiming Feng, Shaohong Wang, Yucheng Wang, Nan Lin, Jing Wu, Yujie Feng, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404495033
-
-                No abstract</description>
-      <author>Da Li, Jiabei Liu, Xinyi Chen, Zhiming Feng, Shaohong Wang, Yucheng Wang, Nan Lin, Jing Wu, Yujie Feng</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124824</guid>
-    </item>
     <item>
       <title>Evaluating the Role of Metastable Surfaces in Mechanochemical Reduction of Molybdenum Oxide</title>
       <link>https://doi.org/10.1021/jacsau.4c00758</link>
@@ -200,11 +170,11 @@
     <item>
       <title>Construction of S-scheme heterojunction via coating ZIF-8-derived Zn0.7Cd0.3S on Ni2P hydrangea for efficient photocatalytic hydrogen evolution coupled with benzyl alcohol oxidation</title>
       <link>https://doi.org/10.1016/j.jcis.2024.11.095</link>
-      <description>Xinggen Yuan, Yangkai Cheng, Churu Zhang, Guochao Shan, R. Z. Liu, Feiyang Luo, Yanyan Deng, Kaili Yao, Jing Xu, Shaoyun Shan, Wei Liu, Tianding Hu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4404555365
+      <description>Xinggen Yuan, Yangkai Cheng, Churu Zhang, Guochao Shan, R. Z. Liu, Feiyang Luo, Yanyan Deng, Kaili Yao, Jing Xu, Shaoyun Shan, Wei Liu, Tianding Hu, Journal of Colloid and Interface Science. 680(None)] 2024. https://openalex.org/W4404555365
 
                 No abstract</description>
       <author>Xinggen Yuan, Yangkai Cheng, Churu Zhang, Guochao Shan, R. Z. Liu, Feiyang Luo, Yanyan Deng, Kaili Yao, Jing Xu, Shaoyun Shan, Wei Liu, Tianding Hu</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.11.095</guid>
     </item>
     <item>
@@ -666,6 +636,56 @@
       <author>E. Meza, Francisco Herrera, Juan Luis Gautier</author>
       <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s10008-024-06149-1</guid>
+    </item>
+    <item>
+      <title>Utilizing the carbon nano-belt (8-CNB) loaded late second-row transition metal (TM) single-atom catalysts for hydrogen and oxygen evolution during water electrolysis</title>
+      <link>https://doi.org/10.1016/j.mssp.2024.109139</link>
+      <description>Abdulrahman Allangawi, Shimna Biju, Remabai Balachandran, Khurshid Ayub, Mazhar Amjad Gilani, Muhammad Imran, Tariq Mahmood, Materials Science in Semiconductor Processing. 187(None)] 2024. https://openalex.org/W4404670172
+
+                No abstract</description>
+      <author>Abdulrahman Allangawi, Shimna Biju, Remabai Balachandran, Khurshid Ayub, Mazhar Amjad Gilani, Muhammad Imran, Tariq Mahmood</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.109139</guid>
+    </item>
+    <item>
+      <title>Photo-assisted highly efficient electrocatalytic N2 fixation on nonmetal-metal dual atom catalysts through the reversable evolution of active center</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114712</link>
+      <description>Zheng Xu, Yi Ding, Song Lu, Tiancun Liu, Hailing Liu, Yong Jun Wu, Yafei Zhao, Zhixin Yu, Molecular Catalysis. 571(None)] 2024. https://openalex.org/W4404676999
+
+                No abstract</description>
+      <author>Zheng Xu, Yi Ding, Song Lu, Tiancun Liu, Hailing Liu, Yong Jun Wu, Yafei Zhao, Zhixin Yu</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114712</guid>
+    </item>
+    <item>
+      <title>Theoretical study on the performance of g-C3N4 loaded silver nanoparticles (Ag4, Ag8, Ag13) catalysts and their electrocatalytic reduction mechanism of CO2</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114705</link>
+      <description>Xin-Long Zhang, Ya-Yuan Shi, Xiao&#8208;Min Liang, Laicai Li, Molecular Catalysis. 571(None)] 2024. https://openalex.org/W4404678818
+
+                No abstract</description>
+      <author>Xin-Long Zhang, Ya-Yuan Shi, Xiao&#8208;Min Liang, Laicai Li</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114705</guid>
+    </item>
+    <item>
+      <title>Understanding Pt Active Sites on Nitrogen-Doped Carbon Nanocages for Industrial Hydrogen Evolution with Ultralow Pt Usage</title>
+      <link>https://doi.org/10.1021/jacs.4c11445</link>
+      <description>Jingyi Tian, Minqi Xia, Xueyi Cheng, Chenghui Mao, Yiqun Chen, Yan Zhang, Changkai Zhou, Fengfei Xu, Lijun Yang, Xizhang Wang, Qiang Wu, Zheng Hu, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4404681858
+
+                No abstract</description>
+      <author>Jingyi Tian, Minqi Xia, Xueyi Cheng, Chenghui Mao, Yiqun Chen, Yan Zhang, Changkai Zhou, Fengfei Xu, Lijun Yang, Xizhang Wang, Qiang Wu, Zheng Hu</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c11445</guid>
+    </item>
+    <item>
+      <title>Epoxidized Single-Atom Co&#8211;N&#8211;C Catalysts Promote the Oxygen Reduction Reaction via a Two-Electron Pathway</title>
+      <link>https://doi.org/10.1021/acsami.4c17354</link>
+      <description>Li Wang, Jingyu Feng, Tao Yang, Yao Qin, Jiacheng Xie, Zengxi Wei, Shuangliang Zhao, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4404686505
+
+                No abstract</description>
+      <author>Li Wang, Jingyu Feng, Tao Yang, Yao Qin, Jiacheng Xie, Zengxi Wei, Shuangliang Zhao</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c17354</guid>
     </item>
     <item>
       <title>Cation effects on the alkaline oxygen reduction reaction</title>

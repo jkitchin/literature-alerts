@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Nov 26 01:25:23 2024
+Created on Wed Nov 27 01:26:43 2024
 
-Found 3 results from 2024-11-19 to 2024-11-26
+Found 4 results from 2024-11-20 to 2024-11-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -35,6 +35,17 @@ OpenAlex: https://openalex.org/W4404652142
 Open access: False
     
 [Jason Yao](https://openalex.org/A5011752638), [Molly Dougher](https://openalex.org/A5056999142), [Andrew Lee](https://openalex.org/A5084085179), [Alexander W. Dowling](https://openalex.org/A5017631366), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), No host. None(None)] 2024.https://doi.org/10.2172/2477929.
+    
+No abstract    
+
+    
+
+## Decomposition and Algorithmic Approaches for Solving Large-Scale Process Family Design Problems   
+
+OpenAlex: https://openalex.org/W4404679267    
+Open access: False
+    
+[Georgia Stinchfield](https://openalex.org/A5007541692), [Michael Bynum](https://openalex.org/A5031357535), [Jean‐Paul Watson](https://openalex.org/A5027375769), [Carl D. Laird](https://openalex.org/A5030631754), No host. None(None)] 2024.https://doi.org/10.2172/2477797.
     
 No abstract    
 

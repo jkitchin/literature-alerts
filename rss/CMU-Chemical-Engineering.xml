@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Nov 2024 01:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 01:26:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -37,6 +37,16 @@
       <author>Jason Yao, Molly Dougher, Andrew Lee, Alexander W. Dowling, Chrysanthos E. Gounaris</author>
       <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2477929</guid>
+    </item>
+    <item>
+      <title>Decomposition and Algorithmic Approaches for Solving Large-Scale Process Family Design Problems</title>
+      <link>https://doi.org/10.2172/2477797</link>
+      <description>Georgia Stinchfield, Michael Bynum, Jean&#8208;Paul Watson, Carl D. Laird, No host. None(None)] 2024. https://openalex.org/W4404679267
+
+                No abstract</description>
+      <author>Georgia Stinchfield, Michael Bynum, Jean&#8208;Paul Watson, Carl D. Laird</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2477797</guid>
     </item>
   </channel>
 </rss>

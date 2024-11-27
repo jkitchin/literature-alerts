@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Nov 2024 01:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 01:26:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>In(OTf)&lt;sub&gt;3&lt;/sub&gt;-Catalyzed (3 + 3) Dipolar Cyclization of Bicyclo[1.1.0]butanes with &lt;i&gt;N&lt;/i&gt;-Nucleophilic 1,3-Dipoles: Access to 2,3-Diazabicyclo[3.1.1]heptanes, 2,3-Diazabicyclo[3.1.1]heptenes, and Enantiopure 2-Azabicyclo[3.1.1]heptanes</title>
-      <link>https://doi.org/10.1021/acscatal.4c05622</link>
-      <description>Jian Zhang, Jia-Yi Su, Hanliang Zheng, Hao Li, Wei&#8208;Ping Deng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404474976
-
-                The investigation into the synthesis of azabicyclo[3.1.1]heptanes (azaBCHeps) as bioisosteres to flat aza-aromatics has garnered increasing attention, while it encounters significant challenges. Herein, we have demonstrated the In(OTf)3-catalyzed (3 + 3) dipolar cyclization of bicyclo[1.1.0]butanes (BCBs) with hydrazones and &#960;-allyl-iridium 1,3-dipoles, engendering a diverse array of azaBCHeps. The cyclization of hydrazones and BCBs furnished densely substituted 2,3-diazabicyclo[3.1.1]heptanes and 2,3-diazabicyclo[3.1.1]heptenes under nitrogen and oxygen atmospheres, respectively. A combination of experimental and computational investigations lends robust support for the proton-transfer-interposed sequential mechanism. More importantly, by integrating In(OTf)3/iridium relay catalysis, enantiopure 2-azabicyclo[3.1.1]heptanes were constructed through the (3 + 3) cyclization of BCBs with aza-&#960;-allyl-iridium 1,3-dipoles, in situ generated from N-allyl carbonates. Both methodologies exhibit mild reaction conditions and good tolerance for various functional groups. Moreover, the copious derivatization of products highlights the utility of the newly synthesized heterobicyclic motifs as versatile building blocks in synthetic chemistry.</description>
-      <author>Jian Zhang, Jia-Yi Su, Hanliang Zheng, Hao Li, Wei&#8208;Ping Deng</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05622</guid>
-    </item>
-    <item>
-      <title>Efficient Dehydrogenation of Propane to Propene over PtIn Nanoclusters Encapsulated in Hollow-Structured Silicalite-1</title>
-      <link>https://doi.org/10.1021/acscatal.4c05135</link>
-      <description>Shiying Li, Decheng Li, Baichao Li, Xiao Chen, Hongbin Wu, Sen Wang, Mei Dong, Jianguo Wang, Weibin Fan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404483179
-
-                Pt-based catalysts have been widely used for propane dehydrogenation to propene. However, the high reaction temperature generally induces serious sintering and agglomeration of metal species, thus leading to rapid deactivation of the catalysts. Herein, PtIn nanoclusters (NCs) encapsulated in hollow-structured silicalite-1 (designated as PtIn@S1&#8211;H) was prepared using recrystallization method. This material shows high catalytic performance in propane dehydrogenation. The propane conversion and propene selectivity reach &#8764;45&#8211;47.5% and &#8764;99%, respectively, at 547 &#176;C at least within 167.6 h. As a result, it displays a significantly higher specific activity for C3H6 formation (0.37&#8211;0.59 s&#8211;1) than Pt@S1, Pt@S1&#8211;H, and other reported Pt-based catalysts. Notably, its catalytic performance is well maintained for more than 3600 h, with propane conversion of &#8764;31&#8211;34% and propene selectivity of &#8764;91&#8211;95%, when pure propane is fed. More interestingly, this catalyst can be reused through regeneration. EXAFS, HAADF-STEM and DFT calculation, and AIMD simulation results show that hollow-structured silicalite-1 crystal morphology not only facilitates the formation of Pt5In3 alloy NCs but also inhibits NC aggregation and growth. PtIn@S1&#8211;H showed a TON &#8805; 38996 in contrast to 5367, 4928, 798, and 542 obtained on PtIn@S1, PtSn@S1, PtSn/Al2O3, and PtIn/Al2O3, respectively, if the catalysts were considered to be deactivated when the propane conversion was decreased by 15%. This is because alloying of In into Pt NCs weakens the interaction of C3H7* intermediates with metallic Pt NCs and the adsorption of C3H6 on the catalyst surface, thus suppressing the C3H7* cleavage reaction and enhancing propane activation and propene selectivity.</description>
-      <author>Shiying Li, Decheng Li, Baichao Li, Xiao Chen, Hongbin Wu, Sen Wang, Mei Dong, Jianguo Wang, Weibin Fan</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05135</guid>
-    </item>
-    <item>
-      <title>Iridium Photoredox-Catalyzed Stereoselective &lt;i&gt;C&lt;/i&gt;-Glycosylation with Tetrafluoropyridin-4-yl Thioglycosides: A Facile Synthesis of &lt;i&gt;C&lt;/i&gt;-&#945;/&#946;-Glucogallins and Their Antioxidant Activity</title>
-      <link>https://doi.org/10.1021/acscatal.4c05257</link>
-      <description>Shenghao Li, Han Ding, Ruge Cao, Xiao-Lin Zhang, Jingxin Li, Xingchun Sun, Yaying Li, Kan Zhong, Peng Wang, Chao Cai, Hongzhi Cao, Ming Li, Xue&#8208;Wei Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404486254
-
-                We demonstrate an efficient, scalable, and stereoselective C-glycosylation with thioglycosides possessing a unique photoactive tetrafluoropyridin-4-yl (TFPy) thio radical leaving group, affording editable and medicinally and biologically essential C-&#945;-glucogallin derivatives. In the presence of silyl enol ether acceptors, the desulfurative coupling reaction performs smoothly under mild conditions upon exposure to blue light irradiation. This versatile protocol permits the synthesis of sugar-drug chimeras by C1 ketonylation of complex drug-derived silyl enol ethers. The scale-up synthesis, anomeric epimerization, and post-C-glycosylation modification of ketone sugars showcase the reaction's potential utilities. Furthermore, the reaction could be applied to direct carbohydrate skeleton editing by equipping the leaving group on the nonanomeric position. The ketonylation is viable for unprotected TFPy thioglycoside, affording a direct route to unprotected ketonyl sugars. The concise six-step assembly of both configurated C-glucogallins from commercially cheap glucose pentaacetate and their antioxidant reactivity investigations underline the promising medicinal relevance of our current protocols. The reaction mechanism was investigated through a radical trapping experiment, an oxocarbenium trapping experiment, a fluorescence quenching experiment, and Stern&#8211;Volmer analysis, confirming that the major glycosyl radical intermediates are generated from the thioglycoside donors, whose tetrafluoropyridin-4-yl thio group could effectively quench the fluorescence of excited Ir(ppy)3 through an oxidative quenching process, and C-glycosylation with oxocarbenium is a complementary route to the product, accounting for examples with moderate selectivities.</description>
-      <author>Shenghao Li, Han Ding, Ruge Cao, Xiao-Lin Zhang, Jingxin Li, Xingchun Sun, Yaying Li, Kan Zhong, Peng Wang, Chao Cai, Hongzhi Cao, Ming Li, Xue&#8208;Wei Liu</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05257</guid>
-    </item>
-    <item>
-      <title>Asymmetric Associate Configuration of Nb Single Atoms Coupled Bi&#8211;O Vacancy Pairs Boosting CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c04407</link>
-      <description>Jun Di, Yao Wu, Jun Xiong, Hongwei Shou, Ran Long, Hailong Chen, Peng Zhou, Peng Zhang, Xingzhong Cao, Li Song, Wei Jiang, Zheng Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404486667
-
-                Precisely designing the atomic coordination structure of the catalytic center is highly desired to lower the energy barrier of CO2 photoreduction. The present work shows that engineering Nb single atom coupled Bi&#8211;O vacancy pairs (VBi&#8211;O) into Bi24O31Br10 (BOB) atomic layers can create a preferential local asymmetric structure. This configuration can result in a stronger local polarization electric field and thus prolong the carrier lifetime, as proved by ultrafast transient absorption spectroscopy. Meantime, this unique Nb SA-VBi&#8211;O associate favors the formation of strong chemical interaction between key *COOH intermediate and catalytic center, thus lowering the energy barrier of the rate-limiting step. Benefiting from these features, a high CO generation rate of 76.4 &#956;mol g&#8211;1 h&#8211;1 for CO2 photoreduction can be achieved over Nb SA-VBi&#8211;O BOB atomic layers in pure water, roughly 5.4 and 92.7 times higher than those of BOB atomic layers or bulk BOB, respectively. This work discloses an important paradigm for designing single atom coupled defect associates to optimize photocatalysis performance.</description>
-      <author>Jun Di, Yao Wu, Jun Xiong, Hongwei Shou, Ran Long, Hailong Chen, Peng Zhou, Peng Zhang, Xingzhong Cao, Li Song, Wei Jiang, Zheng Liu</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04407</guid>
-    </item>
-    <item>
-      <title>Unraveling the Key Factors on Structure&#8211;Property&#8211;Activity Correlations for Photocatalytic Hydrogen Production of Covalent Organic Frameworks</title>
-      <link>https://doi.org/10.1021/acscatal.4c04968</link>
-      <description>Pengyu Dong, Cunxia Wang, Shouxin Zhang, Jinkang Pan, Boyuan Zhang, Jinlong Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404488626
-
-                It has been a challenging task to clearly elucidate various structural features and how their interactions affect the photocatalytic hydrogen production performance. In this work, various factors, including crystallinity, specific surface area associated with morphology, energy band gap and energy levels, surface charge, and hydrophilicity, were employed to investigate the structure&#8211;property&#8211;activity correlations of &#946;-ketoenamine-linked covalent organic framework (TpPa-1-COF) for photocatalytic H2 production, which could influence the light harvesting, charge separation and transfer, and surface catalytic active sites. By using different methods to prepare TpPa-1-COFs, we can regulate these influencing factors to investigate their relationship with activity. It is found that the TpPa-1-COF prepared by a molecular organization method (labeled as TpPa-1 (MO)) exhibits the highest photocatalytic H2 evolution activity compared with the TpPa-1-COF samples prepared by solvothermal methods using acetic acid (HOAc) as a catalyst (TpPa-1 (ST-HOAc)) and KOH solution as a catalyst (TpPa-1 (ST-KOH)), which is associated with the highest crystallinity, the optimal energy levels, the largest BET-specific surface area, and the best hydrophilicity for TpPa-1 (MO). Moreover, our findings suggest that the enhanced total photocatalytic H2 evolution efficiency (&#951;total) of TpPa-1 (MO) may be mainly attributed to the efficient separation and migration of photogenerated charges (&#951;2) and the vibrant surface catalytic active sites (&#951;3). Overall, this work provides some deep insights into the structure&#8211;property&#8211;activity relation of TpPa-1-COF photocatalysts, which offers valuable inspiration and guidance for the thoughtful design of COF-based photocatalysts for H2 evolution.</description>
-      <author>Pengyu Dong, Cunxia Wang, Shouxin Zhang, Jinkang Pan, Boyuan Zhang, Jinlong Zhang</author>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04968</guid>
-    </item>
     <item>
       <title>Expanding the Reaction Network of Ethylene Epoxidation on Partially Oxidized Silver Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c04521</link>
@@ -336,6 +286,26 @@
       <author>Ramsey M. Goodner, Daniel S. Brandes, Gabriel N. Morais, Tao Qin, Joseph P. Tassone, Brandon Q. Mercado, Shuming Chen, Jonathan A. Ellman</author>
       <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05866</guid>
+    </item>
+    <item>
+      <title>Halloysite Clay Nanotubes for Catalytic Conversion of Biomass: Synergy between Computational Modeling and Experimental Studies</title>
+      <link>https://doi.org/10.1021/acscatal.4c05907</link>
+      <description>Lorenzo Lisuzzo, Ludovico Guercio, Giuseppe Cavallaro, Dario Duca, Francesco Ferrante, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404678088
+
+                Halloysite clay nanotubes (HNTs) are emerging nanomaterials for numerous environmental applications, including catalysis and biomass valorization. The efficacy of halloysite as a nanoplatform for the catalytic conversion of biomass can be accurately evaluated by combined approaches based on experimental investigations and computational modeling. Recently, many efforts have been made to properly describe the most peculiar features of halloysite by focusing on its structural and interfacial features through computational studies, which are challenging for natural clay nanoparticles yet crucial for the design of novel catalysts to be exploited in biomass conversion. Within this framework, this review critically and extensively discusses recent advancements related to the use of halloysite in different catalytic processes, such as enzymatic reactions, precious- and nonprecious-metal- and alloy-catalyzed reactions, and acid-activated mechanisms. The research gap on the computational modeling of biomass chemical conversion occurring on halloysite surfaces is highlighted throughout this review, together with the latest experimental achievements. To optimize the catalytic efficiency of halloysite-based materials for biomass valorization, future efforts should focus on the implementation of experimental data with calculations provided by proper models in a synergistic approach.</description>
+      <author>Lorenzo Lisuzzo, Ludovico Guercio, Giuseppe Cavallaro, Dario Duca, Francesco Ferrante</author>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05907</guid>
+    </item>
+    <item>
+      <title>Generation of Nickel Siloxycarbene Complexes from Acylsilanes for the Catalytic Synthesis of Silyl Enol Ethers</title>
+      <link>https://doi.org/10.1021/acscatal.4c06272</link>
+      <description>Akihisa Matsuura, Yuri Ito, Tetsuya Inagaki, Takuya Kodama, Mamoru Tobisu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404685890
+
+                A catalytic protocol has been developed to access Fischer carbene nickel complexes using acylsilanes as stable and readily available precursors. The as-generated Fischer carbene complexes exhibit versatile reactivity, including cyclopropanation with alkenes, &#945;-C&#8211;H insertion reactions, and two-component C&#8211;H addition to norbornene, which demonstrates the broad utility of the nickel(0)/acylsilane system for the catalytic applications of Fischer carbene complexes.</description>
+      <author>Akihisa Matsuura, Yuri Ito, Tetsuya Inagaki, Takuya Kodama, Mamoru Tobisu</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06272</guid>
     </item>
   </channel>
 </rss>
