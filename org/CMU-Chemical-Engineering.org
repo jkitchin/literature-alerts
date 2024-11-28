@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Nov 27 01:26:43 2024
+Created on Thu Nov 28 01:26:19 2024
 
-Found 4 results from 2024-11-20 to 2024-11-27
+Found 9 results from 2024-11-21 to 2024-11-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -85,6 +85,111 @@ No abstract
 OpenAlex: https://openalex.org/W4404679267 (Open access: False)
     
 [[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5031357535][Michael Bynum]], [[https://openalex.org/A5027375769][Jean‐Paul Watson]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2024. https://doi.org/10.2172/2477797 
+     
+No abstract    
+
+    
+
+* Multi-Period Optimization of Multi-Timescale Energy Systems: Application to Solid-Oxide Electrolysis Cells  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404730544
+:TOPICS: Solid Oxide Fuel Cells, Fuel Cell Membrane Technology, Desulfurization Technologies for Fuels
+:PUBLICATION_DATE: 2024-10-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2478222")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404730544"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404730544"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404730544"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404730544 (Open access: False)
+    
+[[https://openalex.org/A5094303018][Nishant Giridhar]], [[https://openalex.org/A5070732014][Douglas Allan]], [[https://openalex.org/A5012099582][Steve Zitney]], [[https://openalex.org/A5037132412][Eric Liese]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5037148093][Debangsu Bhattacharyya]], No host. None(None)] 2024. https://doi.org/10.2172/2478222 
+     
+No abstract    
+
+    
+
+* Two-stage Stochastic Generalized Disjunctive Programming (GDP) Model for Proactive Planning and Reactive Operations of Resilient Power Systems under Disruptions  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404730850
+:TOPICS: Assessment and Enhancement of Infrastructure Resilience, Robust Optimization for Risk Management and Finance, Security Challenges in Smart Grid Systems
+:PUBLICATION_DATE: 2024-10-27
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2478216")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404730850"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404730850"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404730850"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404730850 (Open access: False)
+    
+[[https://openalex.org/A5060951641][Seolhee Cho]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], No host. None(None)] 2024. https://doi.org/10.2172/2478216 
+     
+No abstract    
+
+    
+
+* Optimization Model and Algorithm for Capacity Planning and Operation of Reliable and Carbon-neutral Power Systems with High Penetration of Renewable Generation  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404730865
+:TOPICS: Power Generation and Energy Systems, Electric Drives and Energy Efficiency in Industry, Technological Development in Mineral Resource Sector
+:PUBLICATION_DATE: 2024-10-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2478221")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404730865"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404730865"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404730865"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404730865 (Open access: False)
+    
+[[https://openalex.org/A5060951641][Seolhee Cho]], [[https://openalex.org/A5040511658][Javier Tovar-Facio]], [[https://openalex.org/A5000874144][Benjamin Omell]], [[https://openalex.org/A5062255632][Radhakrishna Gooty]], [[https://openalex.org/A5088878877][Christopher McLean]], [[https://openalex.org/A5043316648][Anthony P. Burgard]], [[https://openalex.org/A5047681120][John Daniel Siirola]], [[https://openalex.org/A5092625536][Kyle Skolfield]], [[https://openalex.org/A5112091243][John Shinn]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], No host. None(None)] 2024. https://doi.org/10.2172/2478221 
+     
+No abstract    
+
+    
+
+* A Computational Framework for Evaluating and Optimizing Critical Mineral Recovery Opportunities in Produced Water Networks  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404731511
+:TOPICS: Design and Management of Water Distribution Networks, Real-time Water Quality Monitoring and Aquaculture Management, Optimal Operation of Water Resources Systems
+:PUBLICATION_DATE: 2024-10-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2172/2478224")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404731511"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404731511"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404731511"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404731511 (Open access: False)
+    
+[[https://openalex.org/A5093452517][Arsh Bhatia]], [[https://openalex.org/A5007541692][Georgia Stinchfield]], [[https://openalex.org/A5093452518][Daniel Ovalle Varela]], [[https://openalex.org/A5015881602][Miguel Zamarripa]], [[https://openalex.org/A5048411560][Markus Drouven]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5030631754][Carl D. Laird]], No host. None(None)] 2024. https://doi.org/10.2172/2478224 
+     
+No abstract    
+
+    
+
+* Machine Learning and Process Systems Engineering for Sustainable Chemical Processes- A Short Review  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404733139
+:TOPICS: State-of-the-Art in Process Optimization under Uncertainty, Process Fault Detection and Diagnosis in Industries, Model Predictive Control in Industrial Processes
+:PUBLICATION_DATE: 2024-11-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cogsc.2024.100982")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404733139"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404733139"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404733139"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404733139 (Open access: False)
+    
+[[https://openalex.org/A5027983186][Ana I. Torres]], [[https://openalex.org/A5073891151][Jimena Ferreira]], [[https://openalex.org/A5091770128][Martín Pedemonte]], Current Opinion in Green and Sustainable Chemistry. None(None)] 2024. https://doi.org/10.1016/j.cogsc.2024.100982 
      
 No abstract    
 

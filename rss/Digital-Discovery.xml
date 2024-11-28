@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Nov 2024 01:26:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:26:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Generation of Molecular Conformations using Generative Adversarial Neural Networks</title>
-      <link>https://doi.org/10.1039/d4dd00179f</link>
-      <description>Congsheng Xu, Xiaomei Deng, Yi Lu, Peiyuan Yu, Digital Discovery. None(None)] 2024. https://openalex.org/W4404496394
-
-                The accurate determination of a molecule&#8217;s accessible conformations is key to the success of studying its properties. Traditional computational methods for exploring the conformational space of molecules such as molecular...</description>
-      <author>Congsheng Xu, Xiaomei Deng, Yi Lu, Peiyuan Yu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00179f</guid>
-    </item>
     <item>
       <title>Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning</title>
       <link>https://doi.org/10.1039/d4dd00197d</link>
@@ -46,6 +36,16 @@
       <author>Sanghoon Lee, Kevin Cruse, Samuel P. Gleason, A. Paul Alivisatos, Gerbrand Ceder, Anubhav Jain</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00158c</guid>
+    </item>
+    <item>
+      <title>A Framework for Reviewing the Results of Automated Conversion of Structured Organic Synthesis Procedures from the Literature</title>
+      <link>https://doi.org/10.1039/d4dd00335g</link>
+      <description>Kojiro Machi, Seiji Akiyama, Yuuya Nagata, Masaharu Yoshioka, Digital Discovery. None(None)] 2024. https://openalex.org/W4404733186
+
+                Organic synthesis procedures in the scientific literature are typically shared in prose (i.e., as unstructured data), which is not suitable for data-driven research applications. To represent such procedures, there is...</description>
+      <author>Kojiro Machi, Seiji Akiyama, Yuuya Nagata, Masaharu Yoshioka</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00335g</guid>
     </item>
   </channel>
 </rss>

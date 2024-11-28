@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Nov 2024 01:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:26:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -47,6 +47,56 @@
       <author>Georgia Stinchfield, Michael Bynum, Jean&#8208;Paul Watson, Carl D. Laird</author>
       <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2477797</guid>
+    </item>
+    <item>
+      <title>Multi-Period Optimization of Multi-Timescale Energy Systems: Application to Solid-Oxide Electrolysis Cells</title>
+      <link>https://doi.org/10.2172/2478222</link>
+      <description>Nishant Giridhar, Douglas Allan, Steve Zitney, Eric Liese, Lorenz T. Biegler, Debangsu Bhattacharyya, No host. None(None)] 2024. https://openalex.org/W4404730544
+
+                No abstract</description>
+      <author>Nishant Giridhar, Douglas Allan, Steve Zitney, Eric Liese, Lorenz T. Biegler, Debangsu Bhattacharyya</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2478222</guid>
+    </item>
+    <item>
+      <title>Two-stage Stochastic Generalized Disjunctive Programming (GDP) Model for Proactive Planning and Reactive Operations of Resilient Power Systems under Disruptions</title>
+      <link>https://doi.org/10.2172/2478216</link>
+      <description>Seolhee Cho, Ignacio E. Grossmann, No host. None(None)] 2024. https://openalex.org/W4404730850
+
+                No abstract</description>
+      <author>Seolhee Cho, Ignacio E. Grossmann</author>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2478216</guid>
+    </item>
+    <item>
+      <title>Optimization Model and Algorithm for Capacity Planning and Operation of Reliable and Carbon-neutral Power Systems with High Penetration of Renewable Generation</title>
+      <link>https://doi.org/10.2172/2478221</link>
+      <description>Seolhee Cho, Javier Tovar-Facio, Benjamin Omell, Radhakrishna Gooty, Christopher McLean, Anthony P. Burgard, John Daniel Siirola, Kyle Skolfield, John Shinn, Ignacio E. Grossmann, No host. None(None)] 2024. https://openalex.org/W4404730865
+
+                No abstract</description>
+      <author>Seolhee Cho, Javier Tovar-Facio, Benjamin Omell, Radhakrishna Gooty, Christopher McLean, Anthony P. Burgard, John Daniel Siirola, Kyle Skolfield, John Shinn, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2478221</guid>
+    </item>
+    <item>
+      <title>A Computational Framework for Evaluating and Optimizing Critical Mineral Recovery Opportunities in Produced Water Networks</title>
+      <link>https://doi.org/10.2172/2478224</link>
+      <description>Arsh Bhatia, Georgia Stinchfield, Daniel Ovalle Varela, Miguel Zamarripa, Markus Drouven, Ignacio E. Grossmann, Carl D. Laird, No host. None(None)] 2024. https://openalex.org/W4404731511
+
+                No abstract</description>
+      <author>Arsh Bhatia, Georgia Stinchfield, Daniel Ovalle Varela, Miguel Zamarripa, Markus Drouven, Ignacio E. Grossmann, Carl D. Laird</author>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2478224</guid>
+    </item>
+    <item>
+      <title>Machine Learning and Process Systems Engineering for Sustainable Chemical Processes- A Short Review</title>
+      <link>https://doi.org/10.1016/j.cogsc.2024.100982</link>
+      <description>Ana I. Torres, Jimena Ferreira, Mart&#237;n Pedemonte, Current Opinion in Green and Sustainable Chemistry. None(None)] 2024. https://openalex.org/W4404733139
+
+                No abstract</description>
+      <author>Ana I. Torres, Jimena Ferreira, Mart&#237;n Pedemonte</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cogsc.2024.100982</guid>
     </item>
   </channel>
 </rss>

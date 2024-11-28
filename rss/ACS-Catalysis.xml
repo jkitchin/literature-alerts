@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Nov 2024 01:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:26:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Expanding the Reaction Network of Ethylene Epoxidation on Partially Oxidized Silver Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c04521</link>
-      <description>Adhika Setiawan, Tiancheng Pu, Israel E. Wachs, Srinivas Rangarajan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404513109
-
-                No abstract</description>
-      <author>Adhika Setiawan, Tiancheng Pu, Israel E. Wachs, Srinivas Rangarajan</author>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04521</guid>
-    </item>
-    <item>
-      <title>Construction of a Pore-Confined Catalyst in a Vinylene-Linked Covalent Organic Framework for the Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c05827</link>
-      <description>Xuewen Li, Shuai Yang, Xiubei Yang, Shuang Zheng, Qing Xu, Gaofeng Zeng, Zheng Jiang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404519758
-
-                Two-dimensional metal-containing covalent organic frameworks (COFs) have been employed as electrocatalysts. However, the metal sites were stacked within the layers with strong interactions, which hindered mass transport to them in the catalytic process. Herein, we constructed a pore-confined catalyst in a vinylene-linked COF for the oxygen reduction reaction (ORR) via the Katritzky reaction. By anchoring the catalytic sites along the pore walls with covalent bonds, the catalytic units were well-exposed during the catalytic process and retained crystallinity and porosity, facilitating mass access to the metal sites. In addition, the electron/charge transported from the framework to the metal units modulated the electronic states, thus improving the catalytic activity. The catalytic COF exhibited a half-wave potential of 0.85 V and a mass activity of 109.7 A g&#8211;1, which are better than those of other reported COFs. Theoretical calculations revealed that the interaction between the framework and metal sites contributed to the easy formation of OOH* and OH*, resulting in high activity. This work provides insights into designing catalytic COFs based on C&#9552;C linkages.</description>
-      <author>Xuewen Li, Shuai Yang, Xiubei Yang, Shuang Zheng, Qing Xu, Gaofeng Zeng, Zheng Jiang</author>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05827</guid>
-    </item>
-    <item>
-      <title>Correlated Operando Electron Microscopy and Photoemission Spectroscopy in Partial Oxidation of Ethylene over Nickel</title>
-      <link>https://doi.org/10.1021/acscatal.4c04437</link>
-      <description>Claudiu Colbea, Milivoj Plodinec, Man Guo, Luca Artiglia, Jeroen A. van Bokhoven, Claudiu Colbea, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404522986
-
-                The production of syngas from light hydrocarbons is a viable way of converting under-utilized hydrocarbon sources into valuable products until a full transition to renewable energy sources is achieved. However, current heterogeneous catalysts for syngas production suffer from deactivation, either by coking or oxidation. Here, we report on the behavior of model nickel catalysts within the context of ethylene partial oxidation and observe the catalyst-environment interaction as a function of reactant feed and temperature. Using a combination of operando microscopy and spectroscopy and focusing on a reaction regime characterized by synchronized self-sustained oscillatory dynamics, we are able to gain additional insights into the dynamic interplay between reactive species and active catalyst surfaces of varying reactivity. Real-time secondary electron imaging coupled with online mass spectrometry and thermal data shows that the oscillatory behavior is characterized by a highly active half-period during which the surface of the nickel catalyst is metallic and a less active half-period during which the surface is oxidized. Complementing the direct surface imaging, operando X-ray photoelectron spectroscopy provides missing information about the alternating chemical state of the catalyst surface in the oscillating reaction regime. It reveals that changes in the gas phase composition (C2H4/O2 ratio) alter the population of reaction intermediates (e.g., carbides) on the nickel surface, which in turn drives the selectivity of the reaction toward different products. The observed chemical dynamics involve changes in gas-phase composition, rate-dependent heat of reaction, the chemical state of the catalyst, and the formation of reaction products, all of which are interconnected. Ultimately, the complex oscillations and catalytic behavior are attributed to a multistep mechanism that involves complete ethylene oxidation, dry and wet reforming of ethylene, and the reverse water gas shift reaction.</description>
-      <author>Claudiu Colbea, Milivoj Plodinec, Man Guo, Luca Artiglia, Jeroen A. van Bokhoven, Claudiu Colbea</author>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04437</guid>
-    </item>
-    <item>
-      <title>Promoted Electrochemical Ammonia Synthesis from Nitrate at the Ag&#8211;Cu Biphasic Interface</title>
-      <link>https://doi.org/10.1021/acscatal.4c05465</link>
-      <description>Xinyang Gao, Chenyuan Zhu, Chunlei Yang, Guoshuai Shi, Qinshang Xu, Liming Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404522993
-
-                Electrochemical nitrate reduction (NO3&#8211;R) presents a promising pathway for carbon-neutral ammonia (NH3) synthesis. Enhancing NH3 selectivity through a tandem process can be achieved by combining Cu with a secondary metal, which allows for an adjustable binding energy between the bimetallic catalyst and key nitrogen intermediates. Herein, we developed a biphasic Ag&#8211;Cu heterostructure with a controllable elemental composition, which significantly improved NH3 production through tandem NO3&#8211;R. In-situ infrared spectroscopy and finite element simulations revealed that Ag serves as the active site for converting NO3&#8211; to NO2&#8211;, leading to a high localized concentration of NO2&#8211;, which is subsequently reduced to NH3 on adjacent Cu sites. Density functional theory calculations further confirmed the critical role of the Ag&#8211;Cu biphasic interface in promoting tandem NH3 production. This work offers valuable insights into the tandem NO3&#8211;R pathway in bimetallic heterostructures, providing a foundation for optimizing catalysts and advancing large-scale sustainable NH3 synthesis.</description>
-      <author>Xinyang Gao, Chenyuan Zhu, Chunlei Yang, Guoshuai Shi, Qinshang Xu, Liming Zhang</author>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05465</guid>
-    </item>
-    <item>
-      <title>Correction to &#8220;Functional Nucleic Acid Enzymes: Nucleic Acid-Based Catalytic Factories&#8221;</title>
-      <link>https://doi.org/10.1021/acscatal.4c06741</link>
-      <description>Min Yang, Yushi Xie, Longjiao Zhu, Xiangyang Li, Wentao Xu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404523123
-
-                InfoMetricsFiguresRef. ACS CatalysisASAPArticle This publication is free to access through this site. Learn More CiteCitationCitation and abstractCitation and referencesMore citation options ShareShare onFacebookX (Twitter)WeChatLinkedInRedditEmailJump toExpandCollapse ORIGINAL ARTICLE. This notice is a correction.Addition/CorrectionNovember 19, 2024Correction to "Functional Nucleic Acid Enzymes: Nucleic Acid-Based Catalytic Factories"Click to copy article linkArticle link copied!Min YangMin YangMore by Min YangYushi XieYushi XieMore by Yushi XieLongjiao ZhuLongjiao ZhuMore by Longjiao ZhuXiangyang LiXiangyang LiMore by Xiangyang LiWentao Xu*Wentao XuMore by Wentao Xuhttps://orcid.org/0000-0002-8572-8257Open PDFACS CatalysisCite this: ACS Catal. 2024, 14, XXX, 17879Click to copy citationCitation copied!https://pubs.acs.org/doi/10.1021/acscatal.4c06741https://doi.org/10.1021/acscatal.4c06741Published November 19, 2024 Publication History Received 5 November 2024Published online 19 November 2024correction&#169; 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissionsThis publication is licensed for personal use by The American Chemical Society. ACS Publications&#169; 2024 American Chemical SocietyThe caption for Figure 2 should read as follows:Figure 2. Classifications and applications of FNAzymes.P 16394, the last sentence of the first paragraph of section 2 should read as follows:In general, catalytic functions of ribozymes could be divided into these categories: cleaving, splicing, ligation, polymerization and others.Author InformationClick to copy section linkSection link copied!Corresponding AuthorWentao Xu; https://orcid.org/0000-0002-8572-8257; Email: AuthorsMin YangYushi XieLongjiao ZhuXiangyang LiCited By Click to copy section linkSection link copied!This article has not yet been cited by other publications.Download PDFFiguresReferences Get e-AlertsGet e-AlertsACS CatalysisCite this: ACS Catal. 2024, 14, XXX, 17879Click to copy citationCitation copied!https://doi.org/10.1021/acscatal.4c06741Published November 19, 2024 Publication History Received 5 November 2024Published online 19 November 2024&#169; 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissionsArticle Views-Altmetric-Citations-Learn about these metrics closeArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.Recommended Articles FiguresReferencesThis publication has no figures.This publication has no References.</description>
-      <author>Min Yang, Yushi Xie, Longjiao Zhu, Xiangyang Li, Wentao Xu</author>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06741</guid>
-    </item>
-    <item>
-      <title>Geometrically Constrained Cofacial Bi-Titanium Olefin Polymerization Catalysts: Tuning and Enhancing Comonomer Incorporation Density</title>
-      <link>https://doi.org/10.1021/acscatal.4c05888</link>
-      <description>Junhui Bao, Yufang Li, Chun&#8208;Ming Chan, Kwok-Chung Law, Shek&#8208;Man Yiu, Michael C. W. Chan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404531727
-
-                A series of shape-persistent bis-[C(sp3)-chelating] Ti2 (plus Zr2 and Hf2) complexes with a rigid linker component (xanthene or dibenzofuran) are presented. These structurally diverse assemblies display limited yet different conformational flexibility, and crucially, such geometric constraints confer access to a range of intermetallic separations and orientations to potentially enhance catalytic activity and cooperative effects. For ethylene polymerizations, the Ti2 catalysts (in conjunction with trityl borate) exhibit greater efficiencies and produced polymers with higher Mw than mononuclear controls, which is significant considering the more crowded environment for cofacial bimetallic sites. Proficient 1-hexene incorporations were observed for ethylene-(&#945;-olefin) copolymerization reactions. The F-substituted m-aryl/dibenzofuran-linked catalyst (5), which is revealed by NMR analysis to be conformationally dissimilar to its F-absent congener, produced copolymers with higher Mw and elevated 1-hexene incorporation levels (up to 44%), when compared with its mono-Ti control (19%). These results suggest that catalyst frameworks with suitably adjustable conformations and Ti&#183;&#183;&#183;Ti distances can facilitate bimetallic enchainment interactions with &#945;-olefin substrates and their insertion.</description>
-      <author>Junhui Bao, Yufang Li, Chun&#8208;Ming Chan, Kwok-Chung Law, Shek&#8208;Man Yiu, Michael C. W. Chan</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05888</guid>
-    </item>
     <item>
       <title>Exploring the Mechanism of Biomimetic Arene Hydroxylation: When a Diiron Metal Center Meets a Sulfur-Containing Ligand</title>
       <link>https://doi.org/10.1021/acscatal.4c04662</link>
@@ -306,6 +246,46 @@
       <author>Akihisa Matsuura, Yuri Ito, Tetsuya Inagaki, Takuya Kodama, Mamoru Tobisu</author>
       <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06272</guid>
+    </item>
+    <item>
+      <title>Modular Assembly of &lt;i&gt;E&lt;/i&gt;-Selective Trisubstituted Alkenylborons via Nickel-Catalyzed Reductive Dicarbofunctionalization of Ethynylboron</title>
+      <link>https://doi.org/10.1021/acscatal.4c05549</link>
+      <description>Yifan Ping, Jianbo Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404692174
+
+                While alkenylborons have emerged as powerful precursors for the stereospecific construction of substituted alkenes, efficient synthetic methods toward stereodefined trisubstituted alkenylborons remain limited. Herein, we report a modular and practical approach for the stereoselective synthesis of E-trisubstituted alkenylborons through the nickel-catalyzed three-component reductive coupling of two readily available carbon electrophiles with an ethynyl-Bdan reagent. The protocol exhibits a broad substrate scope and good functional group tolerance, providing expedient access to a variety of trisubstituted alkenylborons with exclusive E-selectivity. The work demonstrates the possibility of applying ethynyl-Bdan as a type of boron reagent in organic synthesis.</description>
+      <author>Yifan Ping, Jianbo Wang</author>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05549</guid>
+    </item>
+    <item>
+      <title>Developing Robust Ceria-Supported Catalysts for Catalytic NO Reduction and CO/Hydrocarbon Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c04433</link>
+      <description>Inhak Song, Libor Kovarik, Mark Engelhard, J&#225;nos Szanyi, Yong Wang, Konstantin Khivantsev, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404711520
+
+                No abstract</description>
+      <author>Inhak Song, Libor Kovarik, Mark Engelhard, J&#225;nos Szanyi, Yong Wang, Konstantin Khivantsev</author>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04433</guid>
+    </item>
+    <item>
+      <title>Synthesis of Unsymmetrical Disulfides via Photocatalytic Hydrodisulfuration</title>
+      <link>https://doi.org/10.1021/acscatal.4c06457</link>
+      <description>Qi-Rui Dong, Yisen Wang, Juan Zhang, Honghong Chang, Jun Tian, Wen&#8208;Chao Gao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404718408
+
+                No abstract</description>
+      <author>Qi-Rui Dong, Yisen Wang, Juan Zhang, Honghong Chang, Jun Tian, Wen&#8208;Chao Gao</author>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06457</guid>
+    </item>
+    <item>
+      <title>Pulsed Electrolysis in Membrane Electrode Assembly Architecture for Enhanced Electrochemical Nitrate Reduction Reaction to Ammonia</title>
+      <link>https://doi.org/10.1021/acscatal.4c05225</link>
+      <description>Ramireddy Boppella, Maryam Ahmadi, B Arndt, Danielle R. Lustig, Mohammadreza Nazemi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404718420
+
+                No abstract</description>
+      <author>Ramireddy Boppella, Maryam Ahmadi, B Arndt, Danielle R. Lustig, Mohammadreza Nazemi</author>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05225</guid>
     </item>
   </channel>
 </rss>

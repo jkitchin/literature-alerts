@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Nov 27 01:26:44 2024
+Created on Thu Nov 28 01:26:21 2024
 
-Found 4 results from 2024-11-20 to 2024-11-27
+Found 4 results from 2024-11-21 to 2024-11-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Generation of Molecular Conformations using Generative Adversarial Neural Networks   
-
-OpenAlex: https://openalex.org/W4404496394    
-Open access: True
-    
-[Congsheng Xu](https://openalex.org/A5029589907), [Xiaomei Deng](https://openalex.org/A5066355330), [Yi Lu](https://openalex.org/A5101457455), [Peiyuan Yu](https://openalex.org/A5025860351), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00179f.
-    
-The accurate determination of a molecule’s accessible conformations is key to the success of studying its properties. Traditional computational methods for exploring the conformational space of molecules such as molecular...    
-
-    
 
 ## Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning   
 
@@ -47,5 +36,16 @@ Open access: True
 [Sanghoon Lee](https://openalex.org/A5090458317), [Kevin Cruse](https://openalex.org/A5007868501), [Samuel P. Gleason](https://openalex.org/A5058996253), [A. Paul Alivisatos](https://openalex.org/A5051173286), [Gerbrand Ceder](https://openalex.org/A5014983956), [Anubhav Jain](https://openalex.org/A5003640520), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00158c.
     
 Gold nanoparticle synthesis recipes were extracted from the literature to obtain data-driven hypotheses for synthesis outcome morphology and size. Used images from https://Flaticon.com.    
+
+    
+
+## A Framework for Reviewing the Results of Automated Conversion of Structured Organic Synthesis Procedures from the Literature   
+
+OpenAlex: https://openalex.org/W4404733186    
+Open access: True
+    
+[Kojiro Machi](https://openalex.org/A5033045938), [Seiji Akiyama](https://openalex.org/A5083481852), [Yuuya Nagata](https://openalex.org/A5011928915), [Masaharu Yoshioka](https://openalex.org/A5073957412), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00335g.
+    
+Organic synthesis procedures in the scientific literature are typically shared in prose (i.e., as unstructured data), which is not suitable for data-driven research applications. To represent such procedures, there is...    
 
     
