@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Nov 2024 01:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 01:26:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Exploring the Mechanism of Biomimetic Arene Hydroxylation: When a Diiron Metal Center Meets a Sulfur-Containing Ligand</title>
-      <link>https://doi.org/10.1021/acscatal.4c04662</link>
-      <description>Yu Sheng, Bo Bi, Lu Cheng, Wei Han, Hui Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404539817
-
-                No abstract</description>
-      <author>Yu Sheng, Bo Bi, Lu Cheng, Wei Han, Hui Chen</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04662</guid>
-    </item>
-    <item>
-      <title>Ancestral Sequence Reconstruction Meets Machine Learning: Ene Reductase Thermostabilization Yields Enzymes with Improved Reactivity Profiles</title>
-      <link>https://doi.org/10.1021/acscatal.4c03738</link>
-      <description>Caroline K. Brennan, Jovan Livada, Carlos Alberto Mart&#237;nez, Russell D. Lewis, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404541678
-
-                No abstract</description>
-      <author>Caroline K. Brennan, Jovan Livada, Carlos Alberto Mart&#237;nez, Russell D. Lewis</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03738</guid>
-    </item>
-    <item>
-      <title>Catalytic Combustion of Methane over Noble Metal Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c05650</link>
-      <description>Huimei Duan, Fanxin Kong, Xinze Bi, Lei Chen, Hangrong Chen, Dongjiang Yang, Weixin Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404551760
-
-                As one of the cleanest fossil fuel resources, methane is also the second largest greenhouse gas after CO2 owing to its strong greenhouse effect. The direct emission of large quantities of trace and unburned methane causes a serious energy loss and greenhouse effect. Catalytic methane combustion is a promising strategy in eliminating methane slip to address the urgent environmental issue. However, the current methane abatement catalysts still face great challenges in thermal stability, water resistance, and sulfur tolerance. In this review, we focus on the popular noble metal-based catalysts, discuss the distinct reaction mechanisms including the Langmuir&#8211;Hinshelwood model, Eley&#8211;Rideal model, Mars&#8211;van Krevelen model, and two-term mechanisms. The deactivation mechanisms induced by sintering, sulfur, and water on popular Pd-based catalysts are then analyzed. Then, we outline the promotion strategies from two aspects, i.e., construction of a core&#8211;shell structure and electronic engineering of the active phase to improve thermal stability and poisoning resistance. Finally, a summary and prospects with an emphasis on the newly developed oxide-metal interfaces and photothermal catalysis for highly efficient methane combustion are addressed.</description>
-      <author>Huimei Duan, Fanxin Kong, Xinze Bi, Lei Chen, Hangrong Chen, Dongjiang Yang, Weixin Huang</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05650</guid>
-    </item>
-    <item>
-      <title>Photoelectrochemical Synthesis of Benzo[&lt;i&gt;b&lt;/i&gt;]phosphole Oxides via Sequential P&#8211;H/C&#8211;H Bond Functionalizations</title>
-      <link>https://doi.org/10.1021/acscatal.4c06292</link>
-      <description>N. K. SAHA, Burkhard Koenig, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404563322
-
-                Benzo[b]phosphole oxides are important P-heterocycles that find applications in optoelectronics due to their inherent photophysical properties. Traditional routes for the synthesis of such molecules from readily available precursors require stoichiometric amounts of transition metal salts, bases, oxidants, and additives, thereby lacking efficiency. Photochemical pathways still need a terminal oxidant to complement the photocatalytic cycle, whereas electricity may be a viable oxidant. Hence, photoelectrochemistry (PEC), combining photocatalysis and synthetic organic electrochemistry, was used to simplify the synthetic protocols. We use the potency of 4CzIPN for the consecutive P&#8211;H/C&#8211;H bond functionalizations for preparing benzo[b]phosphole oxides from secondary phosphine oxides and nonactivated internal alkynes with up to 93% yields and with good functional group tolerance. Detailed mechanistic investigations confirm an intermolecular electron transfer between 4CzIPN and aryl secondary phosphine oxides upon photoexcitation. The photocatalyst is regenerated by anodic oxidation.</description>
-      <author>N. K. SAHA, Burkhard Koenig</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06292</guid>
-    </item>
-    <item>
-      <title>Organocatalytic Asymmetric Electrophilic Amination of Allylic Boronates</title>
-      <link>https://doi.org/10.1021/acscatal.4c05237</link>
-      <description>Giovanni Centonze, Arianna Grandi, Andrea Pellegrini, Paolo Righi, Chiara Portolani, Giorgio Bencivenni, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404563337
-
-                The asymmetric addition of allylic boronates to electrophiles is a powerful method for preparing chiral molecules bearing synthetically valuable allylic moieties. While effective catalytic methods exist, they have so far been limited to the enantioselective allyl- and crotyl-boration of carbonyl compounds and imines, thereby forming C&#8211;C bonds. Here, we present a strategy that expands the scope of this catalytic asymmetric platform to include the stereoselective formation of C&#8211;N bonds. We have identified an inexpensive and readily available chiral diol that catalyzes the addition of allylic boronates to azodicarboxylates, affording chiral allylic hydrazides with high stereocontrol. This electrophilic amination chemistry shows a broad substrate scope and requires mild conditions, proceeding at ambient temperature. Mechanistic studies reveal that the chiral diol catalyst facilitates the formation of a chiral allylic boronate through the reversible exchange of the boron's achiral alkoxy ligand. By coordination with the electrophilic azodicarboxylate, the substrates mutually activate each other, allowing for the stereoselective transfer of the allyl group.</description>
-      <author>Giovanni Centonze, Arianna Grandi, Andrea Pellegrini, Paolo Righi, Chiara Portolani, Giorgio Bencivenni</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05237</guid>
-    </item>
-    <item>
-      <title>SiO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Interfacial Engineering of UV/Ozone Oxidation for an Efficient Water-Reduction Metal&#8211;Insulator&#8211;Semiconductor Silicon Photocathode</title>
-      <link>https://doi.org/10.1021/acscatal.4c05792</link>
-      <description>Chenxiao Jiang, Siqin Zhou, Jinlu Han, Guancai Xie, Jian Gong, Juan Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404563346
-
-                A metal&#8211;insulator&#8211;semiconductor (MIS) structure is an attractive interfacial structure for efficient photoelectrochemical (PEC) water-splitting reactions. However, developing a cost-effective and highly active photoelectrode for the PEC water-splitting reaction is still a major challenge. In this study, we use an easy-to-operate and economical UV/ozone (UV/O3) oxidation process to prepare ultrathin SiOx oxide as an insulating layer, which is integrated with the bilayer non-precious-metal collector Al/Ni serving as the catalyst and the p-Si semiconductor to obtain a cost-effective and efficient MIS structure photocathode. The outcomes demonstrate that the ultrathin SiOx insulation layer significantly improves the PEC hydrogen evolution reaction (HER), through comparing the photovoltage and photocurrent density of the MIS system. The inner metal Al in the bilayer collector Al/Ni regulates the degree of band bending at the semiconductor&#8211;metal interface. Additionally, the presence of the ultrathin Al2O3 insulation layer effectively reduces Fermi-level pinning, which promotes the efficient transfer of photoelectrons to electrolytes. These were confirmed through photoelectric performance testing of the MIS system. The generation of a photocurrent of 15 mA cm&#8211;2 at a potential level of 0 V (vs reversible hydrogen electrode) has been obtained by optimizing the thickness of the SiOx and bilayer non-precious-metal collector. This study presents an economical and efficient strategy for enhancing PEC-HER performance in silicon-based photocathodes using an MIS structure.</description>
-      <author>Chenxiao Jiang, Siqin Zhou, Jinlu Han, Guancai Xie, Jian Gong, Juan Zhang</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05792</guid>
-    </item>
-    <item>
-      <title>{TiO&lt;sub&gt;2&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt;(B)} Quantum Dot Hybrids: A Comprehensible Route toward High-Performance [&amp;gt;0.1 mol gr&lt;sup&gt;&#8211;1&lt;/sup&gt; h&lt;sup&gt;&#8211;1&lt;/sup&gt;] Photocatalytic H&lt;sub&gt;2&lt;/sub&gt; Production from H&lt;sub&gt;2&lt;/sub&gt;O</title>
-      <link>https://doi.org/10.1021/acscatal.4c05001</link>
-      <description>Christos Dimitriou, Loukas Belles, Nikos Boukos, Yiannis Deligiannakis, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404567183
-
-                Industrial-scale photocatalytic H2 production from H2O is a forward-looking aim in research and technology. To this end, understanding the key properties of TiO2 as a reference H2 production photocatalyst paves the way. Herein, we explore the TiO2 nanosize limits, in conjunction with the TiO2(B) nanophase, as a strategy to enhance the photocatalytic H2 production at &gt;150 mmol/g/h. We present a targeted engineering realm on the synthesis of quantum dots (QDs) of TiO2 consisting of an anatase core (3 nm) interfaced with a nanometric shell of the TiO2(B) phase, synthesized through a modified flame spray pyrolysis (FSP) process. The {TiO2-anatase/TiO2(B)} core&#8211;shell QDs, with high specific surface area SSA = 360 m2/gr, achieve a milestone H2 production yield of 156 mmol/g/h and solar-to-H2 efficiency nSTH = 24.2%. We demonstrate that diligent control of the TiO2-anatase/TiO2(B) heterojunction, in tandem with lattice microstrain, are key factors that contribute to the superior H2 production, i.e., not only the high SSA of the QDs. At these quantum-size limits, the formation of lattice dislocations and interstitial Ti centers enhances photon absorption at &#8764;2.3 eV (540 nm), resulting in the generation of midgap states around the Fermi energy. EPR spectroscopy provides direct evidence that the photoinduced holes are preferentially localized on the TiO2(B) shell, while the photoinduced electrons accumulate on the anatase nanophase. Combined electrochemical and photocatalytic analyses demonstrate that the presence of an optimal TiO2(B) phase is significant for the photoactivity of TiO2 in all QD materials. High SSA does contribute to enhanced photocatalytic H2 production; however, its role is not the key-determinant. TiO2 lattice-dislocations in QDs provide extra DOS that can additionally assist in the photon utilization efficiency. Overall, the present work reveals a general concept, that is, at the quantum-size scale, lattice microstrain engineering and interstitial-states' formation are spontaneously facilitated by nanolattice physics. Diligent optimization of these properties offers a pathway toward high-end photocatalytic efficacy.</description>
-      <author>Christos Dimitriou, Loukas Belles, Nikos Boukos, Yiannis Deligiannakis</author>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05001</guid>
-    </item>
-    <item>
-      <title>Cofactor-Inspired Quinone Catalysis Following a One-Electron Hydrogen Atom Transfer Pathway</title>
-      <link>https://doi.org/10.1021/acscatal.4c05988</link>
-      <description>Amreen K. Bains, Harshit Jain, Abhishek Kundu, Rahul Singh, Sudha Yadav, Yadav Ankit, Debashis Adhikari, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404572577
-
-                Alcohol dehydrogenation catalysts in an aerobic atmosphere are often inspired by biological cofactors, which play a major role in controlling the redox chemistry. A large body of work mimicking quinone-containing cofactors established two major mechanistic routes, addition&#8211;elimination or transamination. Both of these pathways are completely regulated by two-electron processes, despite the possibility of the cofactor motif being reduced by one electron. In stark contrast to the established mechanisms, we demonstrate a one-electron pathway in quinone catalysis toward dehydrogenating alcohols. The described pyrene dione molecule is efficient in catalytic dehydrogenation of primary, secondary, and aliphatic alcohols. The process starts with the photoexcitation of the dione motif which becomes photoreduced by KOtBu to generate a persistent semiquinonate radical. The substrate alcohol interacts with the quinone backbone to forge a hydrogen-bonded intermediate, which leads to a crucial hydrogen atom transfer (HAT) step, to accomplish the dehydrogenation reaction. A series of kinetic experiments including Bell&#8211;Evans&#8211;Polanyi correlation with the bond dissociation enthalpy firmly establish HAT to be rate-determining during dehydrogenation reactions. A kinetic isotope effect measured for the dehydrogenation process at 30 &#176;C is 7.7 &#177; 0.9. Interception of a series of intermediates by a radical quencher in conjunction with a radical-probe substrate further affirms the radical-mediated, one-electron pathway to be operative that is in striking contrast to two-electron-driven quinone catalysis established so far.</description>
-      <author>Amreen K. Bains, Harshit Jain, Abhishek Kundu, Rahul Singh, Sudha Yadav, Yadav Ankit, Debashis Adhikari</author>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05988</guid>
-    </item>
     <item>
       <title>Electrochemical Promotion of Catalysis by Lithium-Ion</title>
       <link>https://doi.org/10.1021/acscatal.4c04622</link>
@@ -286,6 +206,56 @@
       <author>Ramireddy Boppella, Maryam Ahmadi, B Arndt, Danielle R. Lustig, Mohammadreza Nazemi</author>
       <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05225</guid>
+    </item>
+    <item>
+      <title>Insight into Roles of Rare-Earth Metals in Heterobimetallic Ni&#8211;Y Bifunctional Catalysis for Alkyne Semihydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c05093</link>
+      <description>Peifeng Su, Huayu Liang, Yinwu Li, Zhuofeng Ke, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404738907
+
+                Due to the unique properties of rare-earth (RE) metals, RE catalysts demonstrate distinctive catalytic performance in hydrogenation and related transformations. In typical RE catalytic systems, the roles and function modes have been studied and are relevant to ligands. In recent years, heterobimetallic catalytic systems have emerged for efficient hydrogenation and related transformations. Among these systems, heterobimetallic catalysts with transition metal (TM)-RE combinations integrate the characteristics of TM catalysis and RE catalysis, exhibiting a TM-RE bifunctional effect with remarkable activity and selectivity. However, the roles of RE metals in TM-RE bifunctional catalysis remain ambiguous. This theoretical study takes the Ni&#8211;Y system as a study case, aiming to elucidate the significant roles of the RE center in the TM-RE bifunctional effect on catalytic alkyne semihydrogenation. The results suggest that dynamic coordination can occur at the Y center due to its large size and coordination ability, which accepts the binding of phosphine groups of the ligand. The dynamic coordination of phosphine groups to the large-size RE center assists the Ni center in releasing vacant sites for substrate in-cage binding and reduces the steric effect on the Ni center. Meanwhile, the Lewis acidic RE center can stabilize the bridging hydride, which is crucial for H2 activation and hydrogenation. The TM-RE bifunctional effect promotes the reaction. During the H2 activation stage, due to the stabilization of nickel hydrides by yttrium, the fac-pathway is more favored. The Ni&#8211;H&#8211;Y bridging structure is maintained during the initial hydride insertion in the semihydrogenation stage, which is crucial for the reaction. Additionally, the use of the more active terminal hydride makes the terminal hydride pathway a more plausible mechanism. Benefiting from the capability of yttrium to accept the dynamic coordination of phosphine groups, thereby releasing steric hindrance and stabilizing the bridging hydride concurrently, (Z)/(E)-isomerization can proceed to achieve (E)-selectivity through the H2-assisted Ni&#8211;Y bifunctional pathway with a relatively low energy barrier. Owing to the RE-bridging hydride stabilization effect, the thermodynamic properties of intermediates are closely related to the size of the RE metal center, thereby influencing the activity and the (Z)/(E)-selectivity. These results underscore the important roles of the RE center in TM-RE bifunctional catalysis, offering valuable insights into the future design of effective bifunctional TM-RE catalysts.</description>
+      <author>Peifeng Su, Huayu Liang, Yinwu Li, Zhuofeng Ke</author>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05093</guid>
+    </item>
+    <item>
+      <title>Effective Synthesis of 5-Amino-1-pentanol via Selective Hydrogenolysis of Biomass-Derived Furfurylamine on Supported Platinum Catalysts at Ambient Temperature</title>
+      <link>https://doi.org/10.1021/acscatal.4c05122</link>
+      <description>Guoliang Li, Tong Wang, Cheng&#8208;Bin Hong, Haichao Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404740052
+
+                5-Amino-1-pentanol (APO) is an important nitrogen-containing chemical with versatile applications. However, its synthesis is still not efficient. Here, we report the synthesis of APO from biomass-derived furfurylamine (FAM) via the direct cleavage of its &#945;&#8211;C&#8211;O bond neighboring the &#8722;CH2NH2 group at ambient temperature. Pt/TiO2 catalysts exhibited high efficiency and stability in the FAM hydrogenolysis to APO, affording a high yield of 85.4% at 30 &#176;C and 2.0 MPa of H2 in water. The high efficiency of Pt/TiO2 was found to be related to its superior activity for the cleavage of the &#945;&#8211;C&#8211;O bond in FAM, relative to the hydrogenation of the furan ring on the corner and edge sites of the Pt surfaces. This work provides a viable approach for the precise cleavage of the &#945;&#8211;C&#8211;O bond neighboring the &#8722;CH2NH2 group in the furan ring under mild conditions toward the efficient production of APO and its derivatives.</description>
+      <author>Guoliang Li, Tong Wang, Cheng&#8208;Bin Hong, Haichao Liu</author>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05122</guid>
+    </item>
+    <item>
+      <title>Boosting Catalytic Hydrogen Transfer Cascade Reactions via Tandem Catalyst Design by Coupling Co Single Atoms with Adjacent Co Clusters</title>
+      <link>https://doi.org/10.1021/acscatal.4c05569</link>
+      <description>Zhanwei Chen, Shaowei Yang, Jie Yang, Bo Zhang, Hao Jiang, Runze Gao, Tianshuai Wang, Qiuyu Zhang, Hepeng Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404749349
+
+                The catalytic hydrogen transfer (CHT) cascade reaction coupling alcohols with nitro compounds to synthesize imines is highly significant due to its remarkable efficiency and atom economy. However, the complicated multistep reaction process makes single-site catalysts exhibit unsatisfactory catalytic performance for the CHT cascade reaction. Herein, inspired by the findings of DFT calculations that Co nanocluster (CoNC) and Co single atom (CoSA) can act as the optimal active sites for alcohol oxidation and nitro reduction, respectively, one dual-active site catalyst (CoSA-CoNC/CN), containing CoSA and CoNC sites, was synthesized by a two-step vacuum pyrolysis strategy. Benefiting from the relay-like tandem catalysis of CoNC and CoSA, CoSA-CoNC/CN achieved an impressive 93% nitrobenzene conversion and 99% imine selectivity at 160 &#176;C in 4 h, with a record turnover frequency of 20.9 h&#8211;1. This work provides insights into the functions of single-atom and nanocluster active sites in the CHT cascade reaction and sheds light on the rational preparation of tandem catalysts.</description>
+      <author>Zhanwei Chen, Shaowei Yang, Jie Yang, Bo Zhang, Hao Jiang, Runze Gao, Tianshuai Wang, Qiuyu Zhang, Hepeng Zhang</author>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05569</guid>
+    </item>
+    <item>
+      <title>Catalytic Mechanism of SARS-CoV-2 3-Chymotrypsin-Like Protease as Determined by Steady-State and Pre-Steady-State Kinetics</title>
+      <link>https://doi.org/10.1021/acscatal.4c04695</link>
+      <description>Jiyun Zhu, A. Kemp, Balachandra Chenna, Vivek Kumar, Andrew Rademacher, Sangho Yun, Arthur Laganowsky, Thomas D. Meek, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404762047
+
+                No abstract</description>
+      <author>Jiyun Zhu, A. Kemp, Balachandra Chenna, Vivek Kumar, Andrew Rademacher, Sangho Yun, Arthur Laganowsky, Thomas D. Meek</author>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04695</guid>
+    </item>
+    <item>
+      <title>The Corrosive Cl&lt;sup&gt;&#8211;&lt;/sup&gt;-Induced Rapid Surface Reconstruction of Amorphous NiFeCoP Enables Efficient Seawater Splitting</title>
+      <link>https://doi.org/10.1021/acscatal.4c05704</link>
+      <description>Yang Yu, Wei Zhou, Xiaohan Zhou, Junshu Yuan, Xuewei Zhang, Sheng Wang, Jingyu Li, Xiaoxiao Meng, Fei Sun, Jihui Gao, Guangbo Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404772438
+
+                No abstract</description>
+      <author>Yang Yu, Wei Zhou, Xiaohan Zhou, Junshu Yuan, Xuewei Zhang, Sheng Wang, Jingyu Li, Xiaoxiao Meng, Fei Sun, Jihui Gao, Guangbo Zhao</author>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05704</guid>
     </item>
   </channel>
 </rss>

@@ -4,20 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Nov 2024 01:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 01:26:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and
-  Computational Models</title>
-      <link>https://doi.org/10.48550/arxiv.2411.11783</link>
-      <description>Jehad Abed, Jiheon Kim, Muhammed Shuaibi, Brook Wander, Boris Duijf, Suhas Mahesh, Hyeonseok Lee, Vahe Gharakhanyan, Sjoerd Hoogland, Erdem Irtem, Janice Lan, Niels Schouten, Anagha Usha Vijayakumar, Jason Hattrick&#8208;Simpers, John R. Kitchin, Zachary W. Ulissi, Aaike van Vugt, Edward H. Sargent, David Sinton, C. Lawrence Zitnick, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4404571293
-
-                The search for low-cost, durable, and effective catalysts is essential for green hydrogen production and carbon dioxide upcycling to help in the mitigation of climate change. Discovery of new catalysts is currently limited by the gap between what AI-accelerated computational models predict and what experimental studies produce. To make progress, large and diverse experimental datasets are needed that are reproducible and tested at industrially-relevant conditions. We address these needs by utilizing a comprehensive high-throughput characterization and experimental pipeline to create the Open Catalyst Experiments 2024 (OCX24) dataset. The dataset contains 572 samples synthesized using both wet and dry methods with X-ray fluorescence and X-ray diffraction characterization. We prepared 441 gas diffusion electrodes, including replicates, and evaluated them using zero-gap electrolysis for carbon dioxide reduction (CO$_2$RR) and hydrogen evolution reactions (HER) at current densities up to $300$ mA/cm$^2$. To find correlations with experimental outcomes and to perform computational screens, DFT-verified adsorption energies for six adsorbates were calculated on $\sim$20,000 inorganic materials requiring 685 million AI-accelerated relaxations. Remarkably from this large set of materials, a data driven Sabatier volcano independently identified Pt as being a top candidate for HER without having any experimental measurements on Pt or Pt-alloy samples. We anticipate the availability of experimental data generated specifically for AI training, such as OCX24, will significantly improve the utility of computational models in selecting materials for experimental screening.</description>
-      <author>Jehad Abed, Jiheon Kim, Muhammed Shuaibi, Brook Wander, Boris Duijf, Suhas Mahesh, Hyeonseok Lee, Vahe Gharakhanyan, Sjoerd Hoogland, Erdem Irtem, Janice Lan, Niels Schouten, Anagha Usha Vijayakumar, Jason Hattrick&#8208;Simpers, John R. Kitchin, Zachary W. Ulissi, Aaike van Vugt, Edward H. Sargent, David Sinton, C. Lawrence Zitnick</author>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2411.11783</guid>
-    </item>
     <item>
       <title>Multiscale optimization of formic acid dehydrogenation process via linear model decision tree surrogates</title>
       <link>https://doi.org/10.1016/j.compchemeng.2024.108921</link>
@@ -97,6 +86,26 @@
       <author>Ana I. Torres, Jimena Ferreira, Mart&#237;n Pedemonte</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cogsc.2024.100982</guid>
+    </item>
+    <item>
+      <title>Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c04972</link>
+      <description>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404762044
+
+                No abstract</description>
+      <author>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin</author>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04972</guid>
+    </item>
+    <item>
+      <title>Nonconvex Robust Optimization for the Design and Operation of Advanced Energy Systems Using PyROS</title>
+      <link>https://doi.org/10.2172/2478510</link>
+      <description>Jason Sherman, John Daniel Siirola, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4404773257
+
+                No abstract</description>
+      <author>Jason Sherman, John Daniel Siirola, Chrysanthos E. Gounaris</author>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2478510</guid>
     </item>
   </channel>
 </rss>

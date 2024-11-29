@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Nov 2024 01:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 01:26:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Quantitative Analysis of Miniature Synaptic Calcium Transients Using Positive Unlabeled Deep Learning</title>
-      <link>https://doi.org/10.1039/d4dd00197d</link>
-      <description>Frederic Beaupr&#233;, Anthony Bilodeau, Theresa Wiesner, G. LECLERC, Mado Lemieux, Gabriel Nadeau, Katrine Castonguay, Bi Fan, Simon Labrecque, Ren&#233;e Hlo&#382;ek, Paul De Koninck, Christian Gagn&#233;, Flavie Lavoie&#8208;Cardinal, Digital Discovery. None(None)] 2024. https://openalex.org/W4404534236
-
-                Ca 2+ imaging methods are widely used for studying cellular activity in the brain, allowing detailed analysis of dynamic processes across various scales. Enhanced by high-contrast optical microscopy and fluorescent Ca 2+ ...</description>
-      <author>Frederic Beaupr&#233;, Anthony Bilodeau, Theresa Wiesner, G. LECLERC, Mado Lemieux, Gabriel Nadeau, Katrine Castonguay, Bi Fan, Simon Labrecque, Ren&#233;e Hlo&#382;ek, Paul De Koninck, Christian Gagn&#233;, Flavie Lavoie&#8208;Cardinal</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00197d</guid>
-    </item>
-    <item>
-      <title>Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling</title>
-      <link>https://doi.org/10.1039/d4dd00264d</link>
-      <description>Qiang Zhu, Shinnosuke Hattori, Digital Discovery. None(None)] 2024. https://openalex.org/W4404536367
-
-                With advancements in computational molecular modeling and powerful structure search methods, it is now possible to systematically screen crystal structures for small organic molecules. In this context, we introduce the...</description>
-      <author>Qiang Zhu, Shinnosuke Hattori</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00264d</guid>
-    </item>
     <item>
       <title>Data-driven analysis of text-mined seed-mediated syntheses of gold nanoparticles</title>
       <link>https://doi.org/10.1039/d4dd00158c</link>
@@ -46,6 +26,16 @@
       <author>Kojiro Machi, Seiji Akiyama, Yuuya Nagata, Masaharu Yoshioka</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00335g</guid>
+    </item>
+    <item>
+      <title>Machine learning for accelerated prediction of lattice thermal conductivity at arbitrary temperature</title>
+      <link>https://doi.org/10.1039/d4dd00286e</link>
+      <description>Zihe Li, Mengke Li, Yufeng Luo, Haibin Cao, Huijun Liu, Ying Fang, Digital Discovery. None(None)] 2024. https://openalex.org/W4404759490
+
+                Efficient evaluation of lattice thermal conductivity (&#954; L ) is critical for applications ranging from thermal management to energy conversion. In this work, we propose a neural network (NN) model that allows...</description>
+      <author>Zihe Li, Mengke Li, Yufeng Luo, Haibin Cao, Huijun Liu, Ying Fang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00286e</guid>
     </item>
   </channel>
 </rss>
