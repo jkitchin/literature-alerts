@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Nov 29 01:26:10 2024
+Created on Sat Nov 30 01:24:17 2024
 
-Found 25 results from 2024-11-22 to 2024-11-29
+Found 24 results from 2024-11-23 to 2024-11-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Electrochemical Promotion of Catalysis by Lithium-Ion   
-
-OpenAlex: https://openalex.org/W4404579251    
-Open access: False
-    
-[Ju Wang](https://openalex.org/A5100648239), [Shuo Yan](https://openalex.org/A5028150563), [Kholoud E. Salem](https://openalex.org/A5079471616), [Christopher Panaritis](https://openalex.org/A5045865860), [Mohamed S.E. Houache](https://openalex.org/A5054037157), [Yaser Abu‐Lebdeh](https://openalex.org/A5078262597), [Drew Higgins](https://openalex.org/A5044827415), [Elena A. Baranova](https://openalex.org/A5044206105), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04622.
-    
-No abstract    
-
-    
-
-## Dynamic Molybdate Oxyanion Boosts Self-Optimization and Self-Healing on the NiMoFe Heterostructure for Water Splitting in Alkaline Media   
-
-OpenAlex: https://openalex.org/W4404609586    
-Open access: False
-    
-[Qing Zhang](https://openalex.org/A5100358805), [Wei Xiao](https://openalex.org/A5072870711), [Jia Shi](https://openalex.org/A5019046581), [Jing Lei](https://openalex.org/A5109485589), [Qi Xiao](https://openalex.org/A5017619210), [Hong Qun Luo](https://openalex.org/A5035390246), [Nian Bing Li](https://openalex.org/A5029750679), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05108.
-    
-NiMo-based alloys and NiFe layered double hydroxides (NiFe-LDHs) are the most promising nonprecious-metal electrocatalysts for hydrogen and oxygen evolution reactions (HER and OER) under alkaline conditions. However, the ready leaching of Mo and Fe during electrolysis may cause dynamic variation of the surface composition and structure of the catalysts. Here, we developed a NiMoFe heterostructure consisting of NiMoFe alloy and MoO42–-intercalated NiFe-LDH (NiMoFe HI), which enables self-optimization of HER and self-healing of OER through the dynamic exchange of MoO42– species. During the HER process, the leaching and readsorption of MoO42– optimizes the electronic structure of NiFe-LDH, facilitating H2O adsorption and dissociation. Simultaneously, the repulsion of OH– by accumulated MoO42– in the electric double layer can more rapidly drive the transfer kinetics of *OH + e ⇌ OH– to promote the desorption of *OH from the active sites, thus continuously enhancing the HER activity. During the OER process, the dynamic equilibrium of MoO42– facilitates the readsorption of active Fe(OH)x species on the NiFeOOH surface and reduces the energy barrier of the OER rate-determining step, achieving self-healing of the OER activity. Benefiting from the self-optimization and self-healing properties for HER and OER, NiMoFe LDH exhibits promising performance in alkaline water splitting, with a low cell voltage of 1.528 V at 10 mA·cm–2 and stable operation at a high current density of 100 mA·cm–2 for 150 h.    
-
-    
 
 ## Selective Monoalkylation or Dialkylation of Indenes with Alcohols by Bis-N-Heterocyclic Carbene Manganese   
 
@@ -276,6 +254,17 @@ OpenAlex: https://openalex.org/W4404772438
 Open access: False
     
 [Yang Yu](https://openalex.org/A5105140561), [Wei Zhou](https://openalex.org/A5010613556), [Xiaohan Zhou](https://openalex.org/A5016504923), [Junshu Yuan](https://openalex.org/A5111358811), [Xuewei Zhang](https://openalex.org/A5087336958), [Sheng Wang](https://openalex.org/A5100371335), [Jingyu Li](https://openalex.org/A5100379859), [Xiaoxiao Meng](https://openalex.org/A5103225231), [Fei Sun](https://openalex.org/A5046799805), [Jihui Gao](https://openalex.org/A5088144354), [Guangbo Zhao](https://openalex.org/A5102280725), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05704.
+    
+No abstract    
+
+    
+
+## Photocatalytic Conversion of Biomass and Nitrate into Glycine   
+
+OpenAlex: https://openalex.org/W4404799850    
+Open access: False
+    
+[Peifeng Li](https://openalex.org/A5004242502), [Biaobiao Zhang](https://openalex.org/A5058707346), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05235.
     
 No abstract    
 

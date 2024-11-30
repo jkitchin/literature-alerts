@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Nov 2024 01:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 01:24:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Zihe Li, Mengke Li, Yufeng Luo, Haibin Cao, Huijun Liu, Ying Fang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00286e</guid>
+    </item>
+    <item>
+      <title>Rapid Prediction of Conformationally-Dependent DFT-Level Descriptors using Graph Neural Networks for Carboxylic Acids and Alkyl Amines</title>
+      <link>https://doi.org/10.1039/d4dd00284a</link>
+      <description>Brittany C. Haas, Melissa A. Hardy, S. V. Shree Sowndarya, Keir Adams, Connor W. Coley, Robert S. Paton, Matthew S. Sigman, Digital Discovery. None(None)] 2024. https://openalex.org/W4404811330
+
+                Data-driven reaction discovery and development is a growing field that relies on the use of molecular descriptors to capture key information about substrates, ligands, and targets. Broad adaptation of this...</description>
+      <author>Brittany C. Haas, Melissa A. Hardy, S. V. Shree Sowndarya, Keir Adams, Connor W. Coley, Robert S. Paton, Matthew S. Sigman</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00284a</guid>
     </item>
   </channel>
 </rss>

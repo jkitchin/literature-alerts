@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Nov 29 01:26:23 2024
+Created on Sat Nov 30 01:24:33 2024
 
-Found 66 results from 2024-11-22 to 2024-11-29
+Found 62 results from 2024-11-23 to 2024-11-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -16,116 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2578323605)
-
-## Nature of metal-support interaction for metal catalysts on oxide supports   
-
-OpenAlex: https://openalex.org/W4404577752    
-Open access: False
-    
-[Tairan Wang](https://openalex.org/A5101777200), [Jianyu Hu](https://openalex.org/A5110114898), [Runhai Ouyang](https://openalex.org/A5062012847), [Y. Wang](https://openalex.org/A5044135795), [Yi Huang](https://openalex.org/A5102256145), [Sulei Hu](https://openalex.org/A5073635459), [Wei‐Xue Li](https://openalex.org/A5055160391), Science. 386(6724)] 2024.https://doi.org/10.1126/science.adp6034.
-    
-The metal-support interaction is one of the most important pillars in heterogeneous catalysis, but developing a fundamental theory has been challenging because of the intricate interfaces. Based on experimental ‎data, interpretable machine learning, theoretical derivation, and first-principles simulations, we established a ‎general theory of metal-oxide interactions grounded in ‎metal-metal and metal-oxygen interactions. The theory applies to metal nanoparticles and atoms on oxide supports and oxide films on metal supports. We found that for late-transition metal catalysts, metal-metal interactions dominated the oxide support effects and suboxide encapsulation over metal nanoparticles. A principle of strong metal-metal interactions for encapsulation occurrence is formulated and substantiated by extensive ‎experiments including 10 metals and 16 ‎oxides. The valuable insights revealed on (strong) metal-support interaction advance the interfacial design of supported metal catalysts.    
-
-    
-
-## Triggering the Dual-Metal-Site Lattice Oxygen Mechanism with In Situ-Generated Mn3+ Sites for Enhanced Acidic Oxygen Evolution   
-
-OpenAlex: https://openalex.org/W4404578003    
-Open access: False
-    
-[Jianyun Liu](https://openalex.org/A5037743019), [Tanyuan Wang](https://openalex.org/A5052822186), [Mingzi Sun](https://openalex.org/A5077976121), [Mengyi Liao](https://openalex.org/A5064479721), [Li Wang](https://openalex.org/A5100322864), [Shuxia Liu](https://openalex.org/A5069009550), [Hao Shi](https://openalex.org/A5042003685), [Yang Liu](https://openalex.org/A5100355783), [Yue Shen](https://openalex.org/A5090011683), [Ruiguo Cao](https://openalex.org/A5047801680), [Yunhui Huang](https://openalex.org/A5101547156), [Bolong Huang](https://openalex.org/A5022350148), [Qing Li](https://openalex.org/A5100404186), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c14338.
-    
-The development of high-performance non-Ir/Ru catalysts for the oxygen evolution reaction (OER) in acid is critical for the applications of proton exchange membrane water electrolyzers (PEMWEs). Here, we report a new kind of heterostructure catalyst by loading 5.8% Ag nanoparticles on MnO nanorods (Ag/MnO) for acidic OER. The as-prepared Ag/MnO requires only an overpotential of 196 mV for the OER at a current density of 10 mA cm–2 in 0.5 M H2SO4 and operates in a PEMWE for over 300 h at a current density of 200 mA cm–2, representing one of the best non-Ir/Ru OER catalysts. Operando X-ray absorption spectroscopy confirms that the introduction of trace Ag can promote the generation of highly active Mn3+–O sites with oxygen vacancies at a low voltage, leading to a dual-metal-site lattice oxygen-mediated pathway with faster kinetics than the adsorbate evolution mechanism. Theoretical calculations indicate that the trace Ag promotes the overlap between the d orbitals of Mn and the s, p orbitals of O, thereby activating the lattice oxygen and reducing the OER energy barrier. The dissolution of Mn is also suppressed by Ag due to the increased energy for vacancy formation of Mn, where the stability number reaches a high value of 3058, supporting improved structural stability.    
-
-    
-
-## Electronic Structure Engineering of NiCoP Sites via N, Ru Dual Doping for Bifunctional Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4404578577    
-Open access: False
-    
-[Meng Zhou](https://openalex.org/A5052253458), [Wenzhi Jia](https://openalex.org/A5039060717), [Tian Tian](https://openalex.org/A5100419117), [Yuhan Ye](https://openalex.org/A5111310474), [Jianping Zhou](https://openalex.org/A5040267940), [Jian Tian](https://openalex.org/A5004877274), [Guoxiang Pan](https://openalex.org/A5014561391), [Bin He](https://openalex.org/A5100671878), Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c03879.
-    
-Exploiting highly effective electrocatalysts is a challenge for boosting the overall efficiency of water splitting. Herein, we present a nitrogen and ruthenium dual-doping strategy to tailor the electronic structures of NiCoP(N, Ru–NiCoP), creating high-performance bifunctional electrodes for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER). The dual-doping approach is favorable for electronic interactions within the NiCoP and CoP, yielding a near-zero Gibbs free energy for H adsorption. Consequently, the optimized N, Ru–NiCoP electrodes exhibit exceptional bifunctional activities, with overpotentials of 53 and 405 mV at 100 mA cm–2 for the HER and OER, respectively. Notably, their performance surpasses that of commercial Pt/C and RuO2 catalysts at large current densities, demonstrating their potential for industrial water splitting applications. Moreover, the overall water-splitting device achieves a current density of 10 mA cm–2 with a driving voltage of only 1.54 V. This work provides an effective heteroatom doping strategy to develop low-cost and highly active electrocatalysts.    
-
-    
-
-## Iron group elements (Fe, Co, Ni) in Electrocatalytic applications: Evaluation, characterization and prospects   
-
-OpenAlex: https://openalex.org/W4404579172    
-Open access: False
-    
-[Jiwen Wu](https://openalex.org/A5028548047), [Naiyan Liu](https://openalex.org/A5014195085), [Fengshi Li](https://openalex.org/A5057541105), [Binbin Jia](https://openalex.org/A5103845798), [Jinlong Zheng](https://openalex.org/A5071212574), Coordination Chemistry Reviews. 525(None)] 2024.https://doi.org/10.1016/j.ccr.2024.216343.
-    
-No abstract    
-
-    
-
-## An advanced bifunctional single-element-incorporated ternary perovskite cathode for next-generation fuel cells   
-
-OpenAlex: https://openalex.org/W4404579368    
-Open access: False
-    
-[Huaqing Ye](https://openalex.org/A5113266277), [Yuhao Wang](https://openalex.org/A5100370111), [Qirui Ye](https://openalex.org/A5027715068), [Xueyang Li](https://openalex.org/A5090638759), [Haoqing Lin](https://openalex.org/A5049932066), [Bote Zhao](https://openalex.org/A5054951417), [Feifei Dong](https://openalex.org/A5014565277), [Meng Ni](https://openalex.org/A5074347392), [Zhan Lin](https://openalex.org/A5058122261), Journal of Power Sources. 628(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.235875.
-    
-No abstract    
-
-    
-
-## Data Generation for Machine Learning Interatomic Potentials and Beyond   
-
-OpenAlex: https://openalex.org/W4404580258    
-Open access: False
-    
-[Maksim Kulichenko](https://openalex.org/A5045742925), [Benjamin Nebgen](https://openalex.org/A5081624801), [Nicholas Lubbers](https://openalex.org/A5021344986), [Justin S. Smith](https://openalex.org/A5004656368), [Kipton Barros](https://openalex.org/A5003874504), [Alice Allen](https://openalex.org/A5025334398), [Adela Habib](https://openalex.org/A5053543007), [Emily Shinkle](https://openalex.org/A5089106468), [Nikita Fedik](https://openalex.org/A5073022869), [Ying Wai Li](https://openalex.org/A5060737716), [Richard A. Messerly](https://openalex.org/A5045395248), [Sergei Tretiak](https://openalex.org/A5056150849), Chemical Reviews. None(None)] 2024.https://doi.org/10.1021/acs.chemrev.4c00572.
-    
-The field of data-driven chemistry is undergoing an evolution, driven by innovations in machine learning models for predicting molecular properties and behavior. Recent strides in ML-based interatomic potentials have paved the way for accurate modeling of diverse chemical and structural properties at the atomic level. The key determinant defining MLIP reliability remains the quality of the training data. A paramount challenge lies in constructing training sets that capture specific domains in the vast chemical and structural space. This Review navigates the intricate landscape of essential components and integrity of training data that ensure the extensibility and transferability of the resulting models. We delve into the details of active learning, discussing its various facets and implementations. We outline different types of uncertainty quantification applied to atomistic data acquisition and the correlations between estimated uncertainty and true error. The role of atomistic data samplers in generating diverse and informative structures is highlighted. Furthermore, we discuss data acquisition via modified and surrogate potential energy surfaces as an innovative approach to diversify training data. The Review also provides a list of publicly available data sets that cover essential domains of chemical space.    
-
-    
-
-## Vesicle-Shaped Co-Ni-S designed by first principles screening and d-Band center control for active hydrogen evolution   
-
-OpenAlex: https://openalex.org/W4404582457    
-Open access: False
-    
-[Youbin Zheng](https://openalex.org/A5101544759), [Ze Li](https://openalex.org/A5100424631), [Hao Guo](https://openalex.org/A5040157503), [Cunyin Liu](https://openalex.org/A5104300782), [Yuefeng Chen](https://openalex.org/A5042884230), [Xiumei Han](https://openalex.org/A5016566137), [Liang Dong](https://openalex.org/A5100342721), [Jianbing Zang](https://openalex.org/A5052479731), Fuel. 382(None)] 2024.https://doi.org/10.1016/j.fuel.2024.133743.
-    
-No abstract    
-
-    
-
-## Atomistic modeling of bulk and grain boundary diffusion in solid electrolyte Li6PS5Cl using machine-learning interatomic potentials   
-
-OpenAlex: https://openalex.org/W4404587883    
-Open access: False
-    
-[Yongliang Ou](https://openalex.org/A5082129071), [Yuji Ikeda](https://openalex.org/A5066847292), [Lena Scholz](https://openalex.org/A5103111803), [Sergiy V. Divinski](https://openalex.org/A5029822959), [Felix Fritzen](https://openalex.org/A5026094651), [Blazej Grabowski](https://openalex.org/A5063712375), Physical Review Materials. 8(11)] 2024.https://doi.org/10.1103/physrevmaterials.8.115407.
-    
-No abstract    
-
-    
-
-## High-throughput screening of a transition metal single-atom electrocatalyst for the CH3NO2 reduction reaction   
-
-OpenAlex: https://openalex.org/W4404599942    
-Open access: False
-    
-[Kefeng Xie](https://openalex.org/A5029755515), [Shengyuan Xu](https://openalex.org/A5056889790), [Xiaohong Song](https://openalex.org/A5100702634), [Mingqiang Liu](https://openalex.org/A5030610538), [Kai Xu](https://openalex.org/A5017954957), International Journal of Hydrogen Energy. 95(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.11.217.
-    
-No abstract    
-
-    
-
-## Strain‐Engineered Ir Shell Enhances Activity and Stability of Ir‐Ru Catalysts for Water Electrolysis: An Operando Wide‐Angle X‐Ray Scattering Study   
-
-OpenAlex: https://openalex.org/W4404602548    
-Open access: True
-    
-[Tomáš Hrbek](https://openalex.org/A5077307847), [Peter Kúš](https://openalex.org/A5008838002), [Jakub Drnec](https://openalex.org/A5071242968), [Marta Mirolo](https://openalex.org/A5041958544), [Hridya Nedumkulam](https://openalex.org/A5093786713), [Isaac Martens](https://openalex.org/A5091793009), [Jaroslava Nováková](https://openalex.org/A5007700085), [Tomáš Škála](https://openalex.org/A5079336887), [Iva Matolı́nová](https://openalex.org/A5101902616), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202403738.
-    
-Abstract Ir‐Ru alloys with high Ru content serve as stable and highly active catalysts for the Oxygen Evolution Reaction (OER) in Proton Exchange Membrane Water Electrolyzers (PEM‐WEs), enabling efficient operation with low Ir loadings (150 µg cm − 2 ). Despite this, the mechanisms behind their enhanced stability remain unclear. In this study, operando Wide‐Angle X‐ray Scattering (WAXS) and ex situ techniques are utilized to investigate the structural evolution of these magnetron‐sputtered alloys during a PEM‐WE operation. The findings reveal that Ru leaches from the surface upon potential application, forming a dynamic Ir‐Ru@IrO x core‐shell structure. The Ir shell, strained by the Ir‐Ru core, maintains a lower oxidation state than pure Ir catalyst, leading to superior catalytic activity and stability. Remarkably, the Ir‐Ru 25:75 catalyst demonstrates better stability over Ir‐Ru 50:50, despite its higher Ru content, due to the better protection of the subsurface Ir and Ru from oxidation and dissolution. This study not only clarifies the performance‐enhancing mechanisms of Ir‐Ru catalysts but also suggests that other, more economical materials, such as Co or Ti, could serve as effective cores in Ir‐M systems, offering a pathway to more cost‐effective catalysts for PEM‐WE applications.    
-
-    
 
 ## Recent Advances in Perovskite Oxides for Oxygen Evolution Reaction: Structures, Mechanisms, and Strategies for Performance Enhancement   
 
@@ -176,7 +66,7 @@ Enhancing the selectivity of photocatalytic CO2 reduction to valuable multicarbo
 OpenAlex: https://openalex.org/W4404629505    
 Open access: True
     
-[M. Jones](https://openalex.org/A5002185829), [Cheng Lyu](https://openalex.org/A5111182857), [David P. Trudgeon](https://openalex.org/A5059593862), [Jack Corbin](https://openalex.org/A5102628751), [Ida Nawrocka](https://openalex.org/A5107038614), [Zhenyu Zhang](https://openalex.org/A5100389532), [Mikkel B. Lykkegaard](https://openalex.org/A5013394346), [Shaoliang Guan](https://openalex.org/A5057129976), [Tim Dodwell](https://openalex.org/A5114755253), [Xiaohong Li](https://openalex.org/A5100451532), Materials Today Chemistry. 42(None)] 2024.https://doi.org/10.1016/j.mtchem.2024.102414.
+[M. Jones](https://openalex.org/A5002185829), [Cheng Lyu](https://openalex.org/A5100303246), [David P. Trudgeon](https://openalex.org/A5059593862), [Jack Corbin](https://openalex.org/A5102628751), [Ida Nawrocka](https://openalex.org/A5107038614), [Zhenyu Zhang](https://openalex.org/A5100389532), [Mikkel B. Lykkegaard](https://openalex.org/A5013394346), [Shaoliang Guan](https://openalex.org/A5057129976), [Tim Dodwell](https://openalex.org/A5114755253), [Xiaohong Li](https://openalex.org/A5100451532), Materials Today Chemistry. 42(None)] 2024.https://doi.org/10.1016/j.mtchem.2024.102414.
     
 No abstract    
 
@@ -721,6 +611,72 @@ This letter chooses DAE-BPy-CoPor [DAE, 1,2-bis(5'-formyl-2'-methylthien-3'-yl)c
 
     
 
+## Implications for Oxygen Evolution Spinel-based Electrocatalyst in Anion Exchange Membrane Water Electrolyser: A Review from Structural Engineering perspective   
+
+OpenAlex: https://openalex.org/W4404794496    
+Open access: False
+    
+[Iswary Letchumanan](https://openalex.org/A5053724950), [Wei Shi Ng](https://openalex.org/A5109784922), [Mohd Shahbudin Masdar](https://openalex.org/A5032719264), [Azim Fitri Zainul Abidin](https://openalex.org/A5006791499), [Nurul Akidah Baharuddin](https://openalex.org/A5078295061), [Rozan Mohamad Yunus](https://openalex.org/A5019602739), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177819.
+    
+No abstract    
+
+    
+
+## Heusler-based topological quantum catalyst Fe2VAl with obstructed surface states for the hydrogen-evolution reaction   
+
+OpenAlex: https://openalex.org/W4404802796    
+Open access: False
+    
+[Yang Li](https://openalex.org/A5054731501), Physica B Condensed Matter. None(None)] 2024.https://doi.org/10.1016/j.physb.2024.416773.
+    
+No abstract    
+
+    
+
+## Enhanced Catalytic Activity of i-MXenes for CO2 Reduction Reaction by Ordered Metal Atomic Vacancies: A DFT Study   
+
+OpenAlex: https://openalex.org/W4404804106    
+Open access: False
+    
+[Huichun Xue](https://openalex.org/A5000445381), [Yitong Chen](https://openalex.org/A5068991083), [Lin Zhu](https://openalex.org/A5101940174), [An Du](https://openalex.org/A5037785383), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105535.
+    
+No abstract    
+
+    
+
+## Advances and challenges in N2O valorization for alkane oxidative dehydrogenation to olefins   
+
+OpenAlex: https://openalex.org/W4404812774    
+Open access: True
+    
+[Y.M. Wu](https://openalex.org/A5041214364), [Xuanhao Wu](https://openalex.org/A5068824319), [Haiqiang Wang](https://openalex.org/A5101843569), [Zhongbiao Wu](https://openalex.org/A5037873853), Green Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.gce.2024.11.005.
+    
+No abstract    
+
+    
+
+## Effect of Rhodium Doping for Photocatalytic Activity of Barium Titanate   
+
+OpenAlex: https://openalex.org/W4404812888    
+Open access: True
+    
+[G. A. Kaptagay](https://openalex.org/A5024919876), [B. M. Satanova](https://openalex.org/A5045102922), [А. У. Абуова](https://openalex.org/A5022459875), [Marina Koņuhova](https://openalex.org/A5068527726), [Zh.Ye. Zakiyeva](https://openalex.org/A5109748345), [U. Zh. Tolegen](https://openalex.org/A5104634788), [N. Koilyk](https://openalex.org/A5033664050), [Ф. У. Абуова](https://openalex.org/A5055346886), Optical Materials X. None(None)] 2024.https://doi.org/10.1016/j.omx.2024.100382.
+    
+No abstract    
+
+    
+
+## Modeling and Comparative Analysis of CO2 Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems   
+
+OpenAlex: https://openalex.org/W4404787306    
+Open access: False
+    
+[Katelyn M. Ripley](https://openalex.org/A5066536072), [Fikile R. Brushett](https://openalex.org/A5042249105), Industrial & Engineering Chemistry Research. None(None)] 2024.https://doi.org/10.1021/acs.iecr.4c01523.
+    
+Deployment of post-combustion carbon dioxide (CO2) capture technologies is needed to reduce emissions from power and industrial sources. Comparisons between existing thermochemical CO2 capture methods and emerging electrochemical concepts can help contextualize the promise of these new approaches. Here, we investigate the required absorber sizes for three capture systems: amine scrubbing using monoethanolamine (MEA), direct electrochemical (redox-active sorbent), and indirect electrochemical (pH swing). For the electrochemical systems, we study how column size varies as a function of molecular properties and operating conditions, finding that parameters most closely related to CO2 uptake rates (i.e., rate constants and pKa) have the greatest impact. Through a Monte Carlo analysis, we find that the direct process can be designed to have column sizes similar to the thermochemical process; however, the CO2 uptake rate in the indirect process is too slow to enable smaller columns. Broadly, this work connects system input parameters to absorber performance for electrochemical CO2 capture and provides a foundation for techno-economic and engineering analyses.    
+
+    
+
 ## Multimodal language and graph learning of adsorption configuration in catalysis   
 
 OpenAlex: https://openalex.org/W4404764557    
@@ -732,13 +688,13 @@ No abstract
 
     
 
-## Cation effects on the alkaline oxygen reduction reaction   
+## Catechol-derived Mannich bases: radical regulatory properties, cytotoxicity and interaction with biomolecules   
 
-OpenAlex: https://openalex.org/W4404580265    
+OpenAlex: https://openalex.org/W4404790404    
 Open access: False
     
-[Yifan Zeng](https://openalex.org/A5114734002), [Dongbo Li](https://openalex.org/A5114734003), [Pengtao Xu](https://openalex.org/A5061408313), Chem Catalysis. 4(11)] 2024.https://doi.org/10.1016/j.checat.2024.101186.
+[Maxim Y. Gvozdev](https://openalex.org/A5057818130), [Iveta S. Turomsha](https://openalex.org/A5074629601), [Natalia V. Loginova](https://openalex.org/A5044090255), [E. Yu. Varfolomeeva](https://openalex.org/A5002543256), [R. A. Kovalev](https://openalex.org/A5027710641), [N. D. Fedorova](https://openalex.org/A5004676705), [Г. А. Ксендзова](https://openalex.org/A5029579382), [N.P. Osipovich](https://openalex.org/A5009042654), [Р. Л. Свердлов](https://openalex.org/A5002934353), Free Radical Research. None(None)] 2024.https://doi.org/10.1080/10715762.2024.2433985.
     
-No abstract    
+Free radicals are ubiquitous in biological systems, being responsible for pathogenesis of degenerative diseases and participating in vitally important biochemical processes, which are mediated by radical regulatory agents. The effects of the aliphatic amine substituents in the catechol-derived Mannich bases on their antioxidant and pro-oxidant activity were investigated. It has been found that the presence of catechol moiety in the structure of Mannich bases allows them to act as Cu(II) reductants, efficient Fe(II) chelators and potent DPPH radical scavengers. It has been found that the plausible mechanism of the DPPH radical scavenging proceeds via quinone formation, followed by their interaction with ethanol via the Michael addition reaction. In the neutrophil respiratory burst assay, several compounds have demonstrated a weak antioxidant activity at the micromolar level (0.1–10 µM), whereas at the millimolar level (0.1 mМ) a strong pro-oxidant effect has been observed. Additionally, at the highest used concentrations a pronounced cytotoxicity against dermal fibroblasts DF-2 and an immunosuppressive effect against T-lymphocytes have been observed for all the synthesized compounds. It has been demonstrated that the oxidation of catechols in the presence of low-molecular thiols results in the formation of covalent adducts, which provides an insight into their cytotoxicity and detoxification pathways.    
 
     

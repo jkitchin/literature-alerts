@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Nov 29 01:26:14 2024
+Created on Sat Nov 30 01:24:22 2024
 
-Found 3 results from 2024-11-22 to 2024-11-29
+Found 4 results from 2024-11-23 to 2024-11-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -36,5 +36,16 @@ Open access: True
 [Zihe Li](https://openalex.org/A5100732498), [Mengke Li](https://openalex.org/A5100730941), [Yufeng Luo](https://openalex.org/A5081134162), [Haibin Cao](https://openalex.org/A5089217355), [Huijun Liu](https://openalex.org/A5100363578), [Ying Fang](https://openalex.org/A5103147215), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00286e.
     
 Efficient evaluation of lattice thermal conductivity (κ L ) is critical for applications ranging from thermal management to energy conversion. In this work, we propose a neural network (NN) model that allows...    
+
+    
+
+## Rapid Prediction of Conformationally-Dependent DFT-Level Descriptors using Graph Neural Networks for Carboxylic Acids and Alkyl Amines   
+
+OpenAlex: https://openalex.org/W4404811330    
+Open access: True
+    
+[Brittany C. Haas](https://openalex.org/A5084383117), [Melissa A. Hardy](https://openalex.org/A5055591760), [S. V. Shree Sowndarya](https://openalex.org/A5108296236), [Keir Adams](https://openalex.org/A5063726750), [Connor W. Coley](https://openalex.org/A5076162644), [Robert S. Paton](https://openalex.org/A5056441542), [Matthew S. Sigman](https://openalex.org/A5005862481), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00284a.
+    
+Data-driven reaction discovery and development is a growing field that relies on the use of molecular descriptors to capture key information about substrates, ligands, and targets. Broad adaptation of this...    
 
     

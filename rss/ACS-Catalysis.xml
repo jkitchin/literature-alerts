@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Nov 2024 01:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 01:24:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrochemical Promotion of Catalysis by Lithium-Ion</title>
-      <link>https://doi.org/10.1021/acscatal.4c04622</link>
-      <description>Ju Wang, Shuo Yan, Kholoud E. Salem, Christopher Panaritis, Mohamed S.E. Houache, Yaser Abu&#8208;Lebdeh, Drew Higgins, Elena A. Baranova, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404579251
-
-                No abstract</description>
-      <author>Ju Wang, Shuo Yan, Kholoud E. Salem, Christopher Panaritis, Mohamed S.E. Houache, Yaser Abu&#8208;Lebdeh, Drew Higgins, Elena A. Baranova</author>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04622</guid>
-    </item>
-    <item>
-      <title>Dynamic Molybdate Oxyanion Boosts Self-Optimization and Self-Healing on the NiMoFe Heterostructure for Water Splitting in Alkaline Media</title>
-      <link>https://doi.org/10.1021/acscatal.4c05108</link>
-      <description>Qing Zhang, Wei Xiao, Jia Shi, Jing Lei, Qi Xiao, Hong Qun Luo, Nian Bing Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404609586
-
-                NiMo-based alloys and NiFe layered double hydroxides (NiFe-LDHs) are the most promising nonprecious-metal electrocatalysts for hydrogen and oxygen evolution reactions (HER and OER) under alkaline conditions. However, the ready leaching of Mo and Fe during electrolysis may cause dynamic variation of the surface composition and structure of the catalysts. Here, we developed a NiMoFe heterostructure consisting of NiMoFe alloy and MoO42&#8211;-intercalated NiFe-LDH (NiMoFe HI), which enables self-optimization of HER and self-healing of OER through the dynamic exchange of MoO42&#8211; species. During the HER process, the leaching and readsorption of MoO42&#8211; optimizes the electronic structure of NiFe-LDH, facilitating H2O adsorption and dissociation. Simultaneously, the repulsion of OH&#8211; by accumulated MoO42&#8211; in the electric double layer can more rapidly drive the transfer kinetics of *OH + e &#8652; OH&#8211; to promote the desorption of *OH from the active sites, thus continuously enhancing the HER activity. During the OER process, the dynamic equilibrium of MoO42&#8211; facilitates the readsorption of active Fe(OH)x species on the NiFeOOH surface and reduces the energy barrier of the OER rate-determining step, achieving self-healing of the OER activity. Benefiting from the self-optimization and self-healing properties for HER and OER, NiMoFe LDH exhibits promising performance in alkaline water splitting, with a low cell voltage of 1.528 V at 10 mA&#183;cm&#8211;2 and stable operation at a high current density of 100 mA&#183;cm&#8211;2 for 150 h.</description>
-      <author>Qing Zhang, Wei Xiao, Jia Shi, Jing Lei, Qi Xiao, Hong Qun Luo, Nian Bing Li</author>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05108</guid>
-    </item>
     <item>
       <title>Selective Monoalkylation or Dialkylation of Indenes with Alcohols by Bis-&lt;i&gt;N&lt;/i&gt;-Heterocyclic Carbene Manganese</title>
       <link>https://doi.org/10.1021/acscatal.4c05200</link>
@@ -256,6 +236,16 @@
       <author>Yang Yu, Wei Zhou, Xiaohan Zhou, Junshu Yuan, Xuewei Zhang, Sheng Wang, Jingyu Li, Xiaoxiao Meng, Fei Sun, Jihui Gao, Guangbo Zhao</author>
       <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05704</guid>
+    </item>
+    <item>
+      <title>Photocatalytic Conversion of Biomass and Nitrate into Glycine</title>
+      <link>https://doi.org/10.1021/acscatal.4c05235</link>
+      <description>Peifeng Li, Biaobiao Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404799850
+
+                No abstract</description>
+      <author>Peifeng Li, Biaobiao Zhang</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05235</guid>
     </item>
   </channel>
 </rss>

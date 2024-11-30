@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Nov 29 01:26:14 2024
+Created on Sat Nov 30 01:24:22 2024
 
-Found 3 results from 2024-11-22 to 2024-11-29
+Found 4 results from 2024-11-23 to 2024-11-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -66,5 +66,26 @@ OpenAlex: https://openalex.org/W4404759490 (Open access: True)
 [[https://openalex.org/A5100732498][Zihe Li]], [[https://openalex.org/A5100730941][Mengke Li]], [[https://openalex.org/A5081134162][Yufeng Luo]], [[https://openalex.org/A5089217355][Haibin Cao]], [[https://openalex.org/A5100363578][Huijun Liu]], [[https://openalex.org/A5103147215][Ying Fang]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00286e 
      
 Efficient evaluation of lattice thermal conductivity (κ L ) is critical for applications ranging from thermal management to energy conversion. In this work, we propose a neural network (NN) model that allows...    
+
+    
+
+* Rapid Prediction of Conformationally-Dependent DFT-Level Descriptors using Graph Neural Networks for Carboxylic Acids and Alkyl Amines  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404811330
+:TOPICS: Computational Methods in Drug Discovery, Chiral Separation in Chromatography, Innovations in Chemistry Education and Laboratory Techniques
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00284a")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404811330"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404811330"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404811330"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404811330 (Open access: True)
+    
+[[https://openalex.org/A5084383117][Brittany C. Haas]], [[https://openalex.org/A5055591760][Melissa A. Hardy]], [[https://openalex.org/A5108296236][S. V. Shree Sowndarya]], [[https://openalex.org/A5063726750][Keir Adams]], [[https://openalex.org/A5076162644][Connor W. Coley]], [[https://openalex.org/A5056441542][Robert S. Paton]], [[https://openalex.org/A5005862481][Matthew S. Sigman]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00284a 
+     
+Data-driven reaction discovery and development is a growing field that relies on the use of molecular descriptors to capture key information about substrates, ligands, and targets. Broad adaptation of this...    
 
     

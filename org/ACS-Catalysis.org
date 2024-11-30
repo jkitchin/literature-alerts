@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Nov 29 01:26:10 2024
+Created on Sat Nov 30 01:24:17 2024
 
-Found 25 results from 2024-11-22 to 2024-11-29
+Found 24 results from 2024-11-23 to 2024-11-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Electrochemical Promotion of Catalysis by Lithium-Ion  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404579251
-:TOPICS: Lithium-ion Battery Technology, Electrocatalysis for Energy Conversion, Electrochemical Reduction in Molten Salts
-:PUBLICATION_DATE: 2024-11-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04622")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404579251"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404579251"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404579251"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404579251 (Open access: False)
-    
-[[https://openalex.org/A5100648239][Ju Wang]], [[https://openalex.org/A5028150563][Shuo Yan]], [[https://openalex.org/A5079471616][Kholoud E. Salem]], [[https://openalex.org/A5045865860][Christopher Panaritis]], [[https://openalex.org/A5054037157][Mohamed S.E. Houache]], [[https://openalex.org/A5078262597][Yaser Abu‐Lebdeh]], [[https://openalex.org/A5044827415][Drew Higgins]], [[https://openalex.org/A5044206105][Elena A. Baranova]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04622 
-     
-No abstract    
-
-    
-
-* Dynamic Molybdate Oxyanion Boosts Self-Optimization and Self-Healing on the NiMoFe Heterostructure for Water Splitting in Alkaline Media  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404609586
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Reduction of Nitro Compounds, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-11-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05108")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404609586"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404609586"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404609586"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404609586 (Open access: False)
-    
-[[https://openalex.org/A5100358805][Qing Zhang]], [[https://openalex.org/A5072870711][Wei Xiao]], [[https://openalex.org/A5019046581][Jia Shi]], [[https://openalex.org/A5109485589][Jing Lei]], [[https://openalex.org/A5017619210][Qi Xiao]], [[https://openalex.org/A5035390246][Hong Qun Luo]], [[https://openalex.org/A5029750679][Nian Bing Li]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05108 
-     
-NiMo-based alloys and NiFe layered double hydroxides (NiFe-LDHs) are the most promising nonprecious-metal electrocatalysts for hydrogen and oxygen evolution reactions (HER and OER) under alkaline conditions. However, the ready leaching of Mo and Fe during electrolysis may cause dynamic variation of the surface composition and structure of the catalysts. Here, we developed a NiMoFe heterostructure consisting of NiMoFe alloy and MoO42–-intercalated NiFe-LDH (NiMoFe HI), which enables self-optimization of HER and self-healing of OER through the dynamic exchange of MoO42– species. During the HER process, the leaching and readsorption of MoO42– optimizes the electronic structure of NiFe-LDH, facilitating H2O adsorption and dissociation. Simultaneously, the repulsion of OH– by accumulated MoO42– in the electric double layer can more rapidly drive the transfer kinetics of *OH + e ⇌ OH– to promote the desorption of *OH from the active sites, thus continuously enhancing the HER activity. During the OER process, the dynamic equilibrium of MoO42– facilitates the readsorption of active Fe(OH)x species on the NiFeOOH surface and reduces the energy barrier of the OER rate-determining step, achieving self-healing of the OER activity. Benefiting from the self-optimization and self-healing properties for HER and OER, NiMoFe LDH exhibits promising performance in alkaline water splitting, with a low cell voltage of 1.528 V at 10 mA·cm–2 and stable operation at a high current density of 100 mA·cm–2 for 150 h.    
-
-    
 
 * Selective Monoalkylation or Dialkylation of Indenes with Alcohols by Bis-N-Heterocyclic Carbene Manganese  :ACS_Catalysis:
 :PROPERTIES:
@@ -526,6 +484,27 @@ No abstract
 OpenAlex: https://openalex.org/W4404772438 (Open access: False)
     
 [[https://openalex.org/A5105140561][Yang Yu]], [[https://openalex.org/A5010613556][Wei Zhou]], [[https://openalex.org/A5016504923][Xiaohan Zhou]], [[https://openalex.org/A5111358811][Junshu Yuan]], [[https://openalex.org/A5087336958][Xuewei Zhang]], [[https://openalex.org/A5100371335][Sheng Wang]], [[https://openalex.org/A5100379859][Jingyu Li]], [[https://openalex.org/A5103225231][Xiaoxiao Meng]], [[https://openalex.org/A5046799805][Fei Sun]], [[https://openalex.org/A5088144354][Jihui Gao]], [[https://openalex.org/A5102280725][Guangbo Zhao]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05704 
+     
+No abstract    
+
+    
+
+* Photocatalytic Conversion of Biomass and Nitrate into Glycine  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404799850
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Conversion of Biomass to Fuels and Chemicals, Catalytic Reduction of Nitro Compounds
+:PUBLICATION_DATE: 2024-11-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05235")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404799850"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404799850"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404799850"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404799850 (Open access: False)
+    
+[[https://openalex.org/A5004242502][Peifeng Li]], [[https://openalex.org/A5058707346][Biaobiao Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05235 
      
 No abstract    
 
