@@ -4,249 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Nov 2024 01:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 01:46:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Strong Bonding of Lattice N Activates Metal Ni to Achieve Efficient Water Splitting</title>
-      <link>https://doi.org/10.1002/advs.202411526</link>
-      <description>Nian-Dan Zhao, Wei Luo, Sijun Li, Hua Wang, Yini Mao, Yimin Jiang, Wenbin Wang, Ming Li, Wei&#8208;Fang Su, Rongxing He, Advanced Science. None(None)] 2024. https://openalex.org/W4404611968
-
-                Abstract Developing efficient and robust free&#8208;standing electrocatalysts for overall water splitting is a promising but challenging task. Herein, the N&#8208;incorporated Ni nanosheets non&#8208;fully encapsulated by N&#8208;doped carbon (NC) layer are fabricated (N&#9472;Ni&#169;NC). The introduction of N not only regulates the size of nanosheets in N&#9472;Ni&#169;NC but also promotes the electrochemical activity of metal Ni. Experimental and theoretical results reveal that strong bonding of the lattice N activates the inert metal Ni by promoting charge transfer between Ni and N. In addition, the upward shift of the d&#8208;band center induced by lattice N enhances the adsorption of intermediates, thereby making Ni as a new OER active site together with C. This strategy of generating Ni and C dual active sites by introducing lattice N greatly accelerates oxygen evolution reaction (OER) kinetics, resulting in excellent electrocatalytic performance of N&#9472;Ni&#169;NC. At the current density of 10 mA cm &#8722;2 , the overpotentials of hydrogen evolution reaction (HER) and OER are 27 and 206 mV, respectively, and the cell voltage for overall water splitting only needs 1.47 V. This work offers a unique heteroatom activation approach for designing free&#8208;standing electrodes with high activity.</description>
-      <author>Nian-Dan Zhao, Wei Luo, Sijun Li, Hua Wang, Yini Mao, Yimin Jiang, Wenbin Wang, Ming Li, Wei&#8208;Fang Su, Rongxing He</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202411526</guid>
-    </item>
-    <item>
-      <title>Achieving Excess Hydrogen Output via Concurrent Electrochemical and Chemical Redox Reactions on P&#8208;Doped Co&#8208;Based Catalysts with Electron Manipulation and Kinetic Regulation</title>
-      <link>https://doi.org/10.1002/smll.202406288</link>
-      <description>Yue Yao, Menghui Qi, Liang Chen, Enlai Hu, Haotian Cai, Defa Gu, Li Wang, Yuanjing Cui, Guodong Qian, Small. None(None)] 2024. https://openalex.org/W4404617882
-
-                Abstract Electrolytic hydrogen production is of great significance in energy conversion and sustainable development. Traditional electrolytic water splitting confronts high anode voltage with oxygen generation and the amount of hydrogen produced at cathode depends entirely on the quantity of electric charge input. Herein, excess hydrogen output can be achieved by constructing a spontaneous hydrazine oxidation reaction (HzOR) coupled hydrogen evolution reaction (HER) system. For the hydrazine oxidation&#8208;assisted electrolyzer in this work, both the external input electrons and the electrons produced by spontaneous chemical redox reaction can reduce water, producing more hydrogen than traditional electrolytic water splitting system. The ultrafast kinetics of bifunctional P&#8208;doped Co&#8208;based catalysts plays a key role in the spontaneous feature of HzOR/HER redox reaction and low working voltage of hydrazine oxidation&#8208;assisted electrolyzer (12 mV@100 mA cm &#8722;2 ). Theoretical calculation results and ex situ/in situ spectra demonstrate that doped P could optimize electronic structure, regulate adsorption energy of intermediates, and thus endows catalysts with ultrafast kinetics. This work provides a new pathway for the development of spontaneous oxidation&#8208;assisted hydrogen production, to achieve excess hydrogen output via concurrent electrochemical and chemical redox reactions.</description>
-      <author>Yue Yao, Menghui Qi, Liang Chen, Enlai Hu, Haotian Cai, Defa Gu, Li Wang, Yuanjing Cui, Guodong Qian</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202406288</guid>
-    </item>
-    <item>
-      <title>Recent Advances in Perovskite Oxides for Oxygen Evolution Reaction: Structures, Mechanisms, and Strategies for Performance Enhancement</title>
-      <link>https://doi.org/10.1002/adfm.202416705</link>
-      <description>Xiong Sun, Ying Yuan, Shuzhi Liu, Hongqing Zhao, Suqiang Yao, Sun Yuying, Shouxin Zhang, Yijiang Liu, Zhiqun Lin, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4404618145
-
-                Abstract Perovskite&#8208;type oxides are widely employed as oxygen evolution reaction (OER) electrocatalysts due to their tunable composition, diverse structure, abundant natural reserves, remarkable stability, and low cost. The intrinsic OER electrocatalytic activity of these perovskite oxides is generally enhanced by improving conductivity, increasing specific surface area, and optimizing the adsorption of oxygen&#8208;containing intermediates. This is achieved through rationally designed strategies, including compositional engineering, defect engineering, hybridization, and surface regulation. In this review, recent advances in perovskite oxides for OER are summarized, with a focus on exploring structure&#8208;performance relationships. This review provides a brief introduction to the application of perovskite oxides in OER, followed by the classification and characteristics of these perovskite oxides. The primary OER catalytic mechanisms, and well&#8208;established activity descriptors are discussed. The key strategies are concentrated for enhancing OER activity, including composition engineering, defect engineering, hybridization, and surface reconstruction. Finally, the challenges and opportunities in developing high&#8208;performance perovskite oxides as OER electrocatalysts are presented.</description>
-      <author>Xiong Sun, Ying Yuan, Shuzhi Liu, Hongqing Zhao, Suqiang Yao, Sun Yuying, Shouxin Zhang, Yijiang Liu, Zhiqun Lin</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202416705</guid>
-    </item>
-    <item>
-      <title>Interface Engineering for Improved Large&#8208;Current Oxygen Evolution via Partial Phosphorization of Ce&#8208;MOF/NiCo&#8208;MOF Heterostructure</title>
-      <link>https://doi.org/10.1002/smll.202408897</link>
-      <description>Dan Li&#365;, Xuewen Xia, Xue&#8208;Qiang Zhang, Fei Wang, Tao Li, Ya Gao, Shujuan Wang, Zhongya Pang, Yu Xing, Guangshi Li, Hsien&#8208;Yi Hsu, Shen Hu, Ji Li, Xionggang Lu, Xingli Zou, Small. None(None)] 2024. https://openalex.org/W4404618356
-
-                Interface engineering for electrocatalysts has proven to be an effective method for modulating electrocatalytic properties, yet a more efficient and straightforward strategy to construct a valid heterointerface for further enhancing interface effects is urgently needed for boosting oxygen evolution reactions (OER) at large current. Herein, a closely compacted heterostructure combining NiCo-metal-organic framework (MOF) and Ce-MOF is in situ formed through a one-step hydrothermal treatment, and partial phosphorization is employed to further enhance the interface effect between the newly formed urchin-shaped NiCoP shells and hexagonal rod-like Ce-MOF cores on nickel foam (NiCoP/Ce-MOF@NF). Experimental and theoretical results indicate that the heterogeneous NiCoP/Ce-MOF@NF, characterized by a more intensive interface rather than a simple physical mixture, generates an OER-beneficial electronic structure, significantly facilitates charge transfer and reaction kinetics, and creates a synergistically stable structure. The optimal NiCoP/Ce-MOF@NF exhibits remarkable electrocatalytic activity for OER, achieving an ultralow overpotential of 268 mV at a current density of 500 mA cm</description>
-      <author>Dan Li&#365;, Xuewen Xia, Xue&#8208;Qiang Zhang, Fei Wang, Tao Li, Ya Gao, Shujuan Wang, Zhongya Pang, Yu Xing, Guangshi Li, Hsien&#8208;Yi Hsu, Shen Hu, Ji Li, Xionggang Lu, Xingli Zou</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408897</guid>
-    </item>
-    <item>
-      <title>Rare-Earth Elements Doped NiFe-MOFs as Efficient and Robust Bifunctional Electrocatalysts for Both Alkaline Freshwater and Seawater Splitting</title>
-      <link>https://doi.org/10.1039/d4sc06574c</link>
-      <description>Jing Wang, Jing Wang, Jiahui Xian, Runan Xiang, Guangqin Li, Chemical Science. None(None)] 2024. https://openalex.org/W4404619733
-
-                Based on the target of carbon neutrality, it is very important to explore highly active and durable electrocatalysts for both hydrogen evolution reaction (HER) and oxygen evolution reaction (OER). Here,...</description>
-      <author>Jing Wang, Jing Wang, Jiahui Xian, Runan Xiang, Guangqin Li</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4sc06574c</guid>
-    </item>
-    <item>
-      <title>A Chalcogenide&#8208;Derived NiFe2O4 as Highly Efficient and Stable Anode for Anion Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1002/chem.202403198</link>
-      <description>Husileng Lee, Guoheng Ding, Linqin Wang, Licheng Sun, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4404619914
-
-                Developing low&#8208;cost, highly active, and durable oxygen evolution reaction (OER) electrodes is one of the critical scientific issues for anion exchange membrane water electrolyzer (AEM&#8208;WE). Herein, we report a vacancy&#8208;rich and alkali&#8208;stable NiFe2O4&#8208;type electrode (named as NiFeOx&#8208;350&#8208;Ov), derived from the chemical&#8208;vapor deposited precursor NiFeSexSy&#8208;350, as an efficient and robust anode material. The obtained electrode affords current densities of 100 and 500 mA cm&#8722;2 at overpotentials of 245 and 270 mV, respectively, and displays excellent long&#8208;term durability sustaining 1.0 A cm&#8722;2 at least for 1000 h. When coupled with Ni4Mo/MoO2/NF as hydrogen evolution reaction (HER) catalyst, the resulting platinum group metal (PGM)&#8208;free single&#8208;cell AEM&#8208;WE exhibits a cell voltage of 1.71 V at the current density of 1000 mA cm&#8722;2 at 80 &#176;C and long&#8208;term durability during a current&#8208;cycling test between 0.5 and 1.0 A cm&#8722;2 over 150 h at 60 &#176;C. This work highlights a unique reconstruction strategy for preparing highly active and durable OER catalysts used in PGM&#8208;free AEM&#8208;WE.</description>
-      <author>Husileng Lee, Guoheng Ding, Linqin Wang, Licheng Sun</author>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/chem.202403198</guid>
-    </item>
-    <item>
-      <title>High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1039/d4ta06051b</link>
-      <description>Mengyuan Zhang, Xuanyu Zhou, Kongliang Luo, Yaning Fan, Chuandong He, Qiang Niu, Junjun Zhang, Pengfei Zhang, Sheng Dai, Journal of Materials Chemistry A. None(None)] 2024. https://openalex.org/W4404620648
-
-                Developing efficient oxygen evolution reaction (OER) catalysts was urgent for producing clean hydrogen energy. High-entropy oxides (HEOs) have become a focus of interest, were widely used for OER. HEOs would...</description>
-      <author>Mengyuan Zhang, Xuanyu Zhou, Kongliang Luo, Yaning Fan, Chuandong He, Qiang Niu, Junjun Zhang, Pengfei Zhang, Sheng Dai</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta06051b</guid>
-    </item>
-    <item>
-      <title>Morphological&#8203; Evolution and Crystal Plane Effects of Spinel Nico2o4 Catalyst on Enhanced Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.5030028</link>
-      <description>Qimei Liang, Yihui Liu, Yan Dong, Liuyang Bai, Hui Kang, Chao Wang, No host. None(None)] 2024. https://openalex.org/W4404621038
-
-                No abstract</description>
-      <author>Qimei Liang, Yihui Liu, Yan Dong, Liuyang Bai, Hui Kang, Chao Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5030028</guid>
-    </item>
-    <item>
-      <title>Parameterization and quantification of two key operando physio-chemical descriptors for water-assisted electro-catalytic organic oxidation</title>
-      <link>https://doi.org/10.1038/s41467-024-54318-7</link>
-      <description>Bailin Tian, Fangyuan Wang, Pan Ran, Luhan Dai, Jing Wang, Yuxia Sun, Zhangyan Mu, Yamei Sun, Lingyu Tang, William A. Goddard, Mengning Ding, Nature Communications. 15(1)] 2024. https://openalex.org/W4404623942
-
-                Electro-selective-oxidation using water as a green oxygen source demonstrates promising potential towards efficient and sustainable chemical upgrading. However, surface micro-kinetics regarding co-adsorption and reaction between organic and oxygen intermediates remain unclear. Here we systematically study the electro-oxidation of aldehydes, alcohols, and amines on Co/Ni-oxyhydroxides with multiple characterizations. Utilizing Fourier transformed alternating current voltammetry (FTacV) measurements, we show the identification and quantification of two key operando parameters (&#916;Iharmonics/IOER and &#916;Vharmonics) that can be fundamentally linked to the altered surface coverage ( $$\Delta {\theta }_{{{{{\rm{OH}}}}}^{*}}/{\theta }_{{{{{\rm{OH}}}}}^{*}}^{{{{\rm{OER}}}}}$$ ) and the changes in adsorption energy of vital oxygenated intermediates ( $${\Delta G}_{{{{\rm{OH}}}}*}^{{{{\rm{EOOR}}}}}-{\Delta G}_{{{{\rm{OH}}}}*}^{{{{\rm{OER}}}}}$$ ), under the influence of organic adsorption/oxidation. Mechanistic analysis based on these descriptors reveals distinct optimal oxyhydroxide surface states for each organics, and elucidates the critical catalyst design principles: balancing organic and M3+&#948;&#8722;OH* coverages and fine-tuning &#916;G for key elementary steps, e.g., via precise modulation of chemical compositions, crystallinity, defects, electronic structures, and/or surface bimolecular interactions. Water-assisted electro-catalytic selective oxidation is promising for sustainable production of value-added chemicals. Here the authors quantify two key physio-chemical parameters for efficient mechanistic investigation and rational catalyst design.</description>
-      <author>Bailin Tian, Fangyuan Wang, Pan Ran, Luhan Dai, Jing Wang, Yuxia Sun, Zhangyan Mu, Yamei Sun, Lingyu Tang, William A. Goddard, Mengning Ding</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54318-7</guid>
-    </item>
-    <item>
-      <title>A dual-phase PtNiCuMnMo high-entropy alloy as high-performance electrocatalyst for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161865</link>
-      <description>Fang Miao, Tongheng Wang, Zhiyuan Jing, Bin Zhang, Jun Wang, Tao Gu, Zhijie Yan, Xiubing Liang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4404626182
-
-                No abstract</description>
-      <author>Fang Miao, Tongheng Wang, Zhiyuan Jing, Bin Zhang, Jun Wang, Tao Gu, Zhijie Yan, Xiubing Liang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161865</guid>
-    </item>
-    <item>
-      <title>Utilizing Cationic Vacancy Defects to Switch Oxygen Evolution Mechanisms on Atomically Dispersed Ru for Enhanced Acidic Catalytic Performance</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124845</link>
-      <description>Shouxin Zhang, Deshuai Yang, Zhen Yang, Lili Wang, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404628614
-
-                No abstract</description>
-      <author>Shouxin Zhang, Deshuai Yang, Zhen Yang, Lili Wang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124845</guid>
-    </item>
-    <item>
-      <title>Porous amorphous high entropy oxide coated dimensionally stable anode for oxygen evolution reaction in acidic media</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161882</link>
-      <description>Wushuai Dai, Lei Wang, Keyi Li, Wei Wang, Yunlong Bai, Feng Xie, Applied Surface Science. None(None)] 2024. https://openalex.org/W4404631043
-
-                No abstract</description>
-      <author>Wushuai Dai, Lei Wang, Keyi Li, Wei Wang, Yunlong Bai, Feng Xie</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161882</guid>
-    </item>
-    <item>
-      <title>Recent progress in advanced design of iridium&#8208;based and ruthenium&#8208;based perovskite catalysts for acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1002/ece2.79</link>
-      <description>Yuqing Cheng, Yibo Wang, Zhaoping Shi, Hongxiang Wu, Jiahao Yang, Jing Ni, Ming Yang, Ziang Wang, Meiling Xiao, Changpeng Liu, Wei Xing, EcoEnergy. None(None)] 2024. https://openalex.org/W4404631203
-
-                Abstract Proton exchange membrane water electrolyzer (PEMWE) is of great importance for the production of green hydrogen. The large&#8208;scale implementation of PEMWE, however, is seriously impeded by the sluggish oxygen evolution reaction (OER) at the anode, which results in considerable overpotential and thus the decreased energy conversion efficiency. To overcome this problem, researchers have extensively explored efficient anode catalysts that possess high activity and prolonged stability. Up to now, Ir&#8208;based and Ru&#8208;based catalysts are considered to be the most efficient candidates. Especially perovskite&#8208;based catalysts have received intensive attention due to their distinctive structures and exceptional OER catalytic performance. To further promote their practical application, considerable research efforts are devoted to structural engineering toward enhanced activity and stability. In this paper, a review of the research progress on the advanced design of Ir&#8208; and Ru&#8208;based perovskite catalysts is presented, with a focus on phase engineering, doping/substitution, morphology control, and compositing with other materials for perovskite catalysts as well as some preparation methods commonly used. It also summarizes the challenges and opportunities concerning perovskite&#8208;based catalysts in current research, yielding further comprehension of the pertinent preparation and scrutiny of perovskite catalysts in the future.</description>
-      <author>Yuqing Cheng, Yibo Wang, Zhaoping Shi, Hongxiang Wu, Jiahao Yang, Jing Ni, Ming Yang, Ziang Wang, Meiling Xiao, Changpeng Liu, Wei Xing</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ece2.79</guid>
-    </item>
-    <item>
-      <title>Investigation of electrochromic band-shifts in the Soret region induced by the formation of TyrD, TyrZ, and QA- in Photosystem II</title>
-      <link>https://doi.org/10.1101/2024.11.21.624785</link>
-      <description>Alain Boussac, Takumi Noguchi, A. William Rutherford, Julien Sell&#233;s, Miwa Sugiura, Stefania Viola, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4404631459
-
-                The effects of TyrD, TyrZ, and QA- radical formation on the absorption spectrum in the Soret region were studied in Mn-depleted Photosystem II at pH 8.6 (in order to be in the TyrD state after the dark adaptation). Flash-induced difference spectra were recorded in several PSII samples from i) Thermosynechococcus vestitus (formerly T. elongatus), ii) Synechocystis sp. PCC 6803, iii) Chroococcidiopsis thermalis PCC7203 grown under far-red light, and iv) Acaryochloris marina. In the case of T. vestitus, mutants D1/H198Q, D1/T1789H, D2/I178H and D2/Y160F, with PsbA1/Q130 instead of PsbA3/E130, were also studied for possible contributions from PD1, ChlD1, ChlD2 and PheD1, respectively. For a possible contribution from PD2, the D2/H197A mutant was studied in S. 6803. While PD1 is clearly the species whose spectrum is blue shifted by ~ 3 nm in the presence of QA-, as already well documented in the literature, the species whose spectra are shifted upon the formation of TyrD, and TyrZ remain to be clearly identified as they appear different from PD1, PD2, PheD1, ChlD1 and ChlD2 as concluded by the lack of different light-induced difference spectra in the mutants listed above. Although we cannot rule out too weak effect taking into account the accuracy of the experiments, it is proposed that other pigments are involved as antenna Chl and/or Car near the reaction center. Additionally, it is shown that, i) there is no proton release into the bulk upon the oxidation of TyrD at pH 8.6, and ii) the rearrangement of the electrostatic environment of the pigments involved in the light-induced different spectra in the samples studied upon the formation TyrD, TyrZ, and QA- likely occur differently on a kinetic and structural point of views.</description>
-      <author>Alain Boussac, Takumi Noguchi, A. William Rutherford, Julien Sell&#233;s, Miwa Sugiura, Stefania Viola</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2024.11.21.624785</guid>
-    </item>
-    <item>
-      <title>Modulating Electronic Correlations in Ruthenium Oxides for Highly Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/prechem.4c00068</link>
-      <description>Xianbing Miao, Jingda Zhang, Zhenpeng Hu, Shiming Zhou, Precision Chemistry. None(None)] 2024. https://openalex.org/W4404632938
-
-                Elucidating the electronic factors dominating the adsorption properties of transition-metal oxides is essential to construct highly efficient oxygen-evolving catalysts for hydrogen production by water splitting but remains a great challenge. Electron correlation from on-site Coulomb repulsion (U) among d-electrons is generally believed to significantly affect the electronic structure of these materials; however, it has long been neglected in studying their adsorption properties. Here, by choosing ruthenium oxide as a model system, we demonstrate the role of electron correlation on the electrocatalytic activity toward oxygen evolution reaction (OER). Our density functional theory plus U calculations on rutile RuO2 reveal that the electron correlation can tune the adsorption energies for oxygenated intermediate and optimize them after the metallic oxide being a Mott insulator upon increasing U. By regulating the RuO6 octahedral network, we constructed and synthesized a series of strongly correlated ruthenium oxides, where the Mott insulating ones indeed exhibit a superior OER performance to the metallic RuO2. Our work builds a bridge between the electrochemistry and Mott physics for transition-metal oxides, opening a new avenue for designing advanced catalysts.</description>
-      <author>Xianbing Miao, Jingda Zhang, Zhenpeng Hu, Shiming Zhou</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/prechem.4c00068</guid>
-    </item>
-    <item>
-      <title>Interfacial Ru nanoclusters in tandem with single atoms on oxygen-vacancy regulated CeO2 for anion exchange membrane seawater-splitting</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.11.017</link>
-      <description>Yan Wang, Jing Li, Pengfei Yang, Hongdong Li, Guangrui Xu, Yunmei Du, Caixia Li, Wei Jin, Tianyi Ma, Zexing Wu, Lei Wang, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4404633981
-
-                No abstract</description>
-      <author>Yan Wang, Jing Li, Pengfei Yang, Hongdong Li, Guangrui Xu, Yunmei Du, Caixia Li, Wei Jin, Tianyi Ma, Zexing Wu, Lei Wang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.11.017</guid>
-    </item>
-    <item>
-      <title>Design and application of a liquid metal ball-supported layered double hydroxide core&#8211;shell structure as highly efficient catalysts for the oxygen evolution reaction in rechargeable zinc-air batteries</title>
-      <link>https://doi.org/10.1016/j.cej.2024.157924</link>
-      <description>Liqing Qiao, Wenwei Liu, Na Du, Ying Wang, Yankun Li, Haijun Wu, Zhonghua Bao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4404634694
-
-                No abstract</description>
-      <author>Liqing Qiao, Wenwei Liu, Na Du, Ying Wang, Yankun Li, Haijun Wu, Zhonghua Bao</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.157924</guid>
-    </item>
-    <item>
-      <title>Electron Donation from Carbon Support Enhances the Activity and Stability of Ultrasmall Ruo2 Nanoparticles in Acidic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.5030506</link>
-      <description>Luo Huang, Lixia Ma, Jie Yang, Jianghao Kang, Yu Chen, Junqing Yan, Yunpeng Fang, Li Deng, Ruibin Jiang, No host. None(None)] 2024. https://openalex.org/W4404635806
-
-                No abstract</description>
-      <author>Luo Huang, Lixia Ma, Jie Yang, Jianghao Kang, Yu Chen, Junqing Yan, Yunpeng Fang, Li Deng, Ruibin Jiang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5030506</guid>
-    </item>
-    <item>
-      <title>Strategic modulation of CoFe sites for advanced bifunctional oxygen electrocatalyst</title>
-      <link>https://doi.org/10.1016/j.cjsc.2024.100470</link>
-      <description>Ju-Hong Zhou, Hui Zhao, Ping Han, Ruizi Wang, Shouxin Zhang, Xiaoxia Mao, Konglin Wu, Shengjue Deng, Wenxiang He, Binbin Jiang, Chinese Journal of Structural Chemistry. None(None)] 2024. https://openalex.org/W4404635846
-
-                No abstract</description>
-      <author>Ju-Hong Zhou, Hui Zhao, Ping Han, Ruizi Wang, Shouxin Zhang, Xiaoxia Mao, Konglin Wu, Shengjue Deng, Wenxiang He, Binbin Jiang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100470</guid>
-    </item>
-    <item>
-      <title>An oxycarbide-derived-carbon supported nickel ferrite/copper tungstate ternary composite for enhanced electrocatalytic activity towards the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1039/d4dt02688h</link>
-      <description>Kumar Sanket, Uttam Kumar, Indrajit Sinha, Shantanu K. Behera, Dalton Transactions. None(None)] 2024. https://openalex.org/W4404637944
-
-                This work integrates a unique porous carbon with a binary heterostructured NiFe 2 O 4 /CuWO 4 composite to enhance electrocatalytic activity towards the oxygen evolution reaction.</description>
-      <author>Kumar Sanket, Uttam Kumar, Indrajit Sinha, Shantanu K. Behera</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dt02688h</guid>
-    </item>
-    <item>
-      <title>Hydrogen and Oxygen Evolution on Flexible Catalysts Based on Nickel&#8211;Iron Coatings</title>
-      <link>https://doi.org/10.3390/catal14120843</link>
-      <description>Dmytro Shyshkin, Loreta Tama&#353;auskait&#279;&#8211;Tama&#353;i&#363;nait&#279;, Dijana &#352;imk&#363;nait&#279;, Aldona Bal&#269;i&#363;nait&#279;, Zita Sukackien&#279;, J&#363;rat&#279; Vai&#269;i&#363;nien&#279;, Birut&#279; &#352;imk&#363;nait&#279;-Stanynien&#279;, Antanas Nacys, Eugenijus Norkus, Catalysts. 14(12)] 2024. https://openalex.org/W4404639176
-
-                The electrolysis of water is one of low-cost green hydrogen production technologies. The main challenge regarding this technology is designing and developing low-cost and high-activity catalysts. Herein, we present a strategy to fabricate flexible electrocatalysts based on nickel&#8211;iron (NiFe) alloy coatings. NiFe coatings were plated on the flexible copper-coated polyimide surface (Cu/PI) using the low-cost and straightforward electroless metal-plating method, with morpholine borane as a reducing agent. It was found that Ni90Fe10, Ni80Fe20, Ni60Fe40, and Ni30Fe70 coatings were deposited on the Cu/PI surface; then, the concentration of Fe2+ in the plating solution was 0.5, 1, 5, and 10 mM, respectively. The morphology, structure, and composition of NixFey/Cu/PI catalysts have been examined using scanning electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDX), X-ray diffraction (XRD), and inductively coupled plasma&#8211;optical emission spectroscopy (ICP-OES), whereas their activity has been investigated for hydrogen evolution (HER) and oxygen evolution (OER) reactions in 1 M KOH using linear sweep voltammetry (LSVs). It was found that the Ni80Fe20/Cu/PI catalyst exhibited the lowest overpotential value of &#8722;202.7 mV for the HER, obtaining a current density of 10 mA cm&#8722;2 compared to Ni90Fe10/Cu/PI (&#8722;211.9 mV), Ni60Fe40/Cu/PI (&#8722;276.3 mV), Ni30Fe70/Cu/PI (&#8722;278.4 mV), and Ni (&#8722;303.4 mV). On the other hand, the lowest OER overpotential (344.7 mV) was observed for the Ni60Fe40/Cu/PI catalyst, obtaining a current density of 10 mA cm&#8722;2 compared to the Ni35Fe65 (369.9 mV), Ni80Fe20 (450.2 mV), and Ni90Fe10 (454.2 mV) coatings, and Ni (532.1 mV). The developed Ni60Fe40/Cu/PI catalyst exhibit a cell potential of 1.85 V at 10 mA cm&#8722;2. The obtained catalysts seem to be suitable flexible catalysts for HER and OER in alkaline media.</description>
-      <author>Dmytro Shyshkin, Loreta Tama&#353;auskait&#279;&#8211;Tama&#353;i&#363;nait&#279;, Dijana &#352;imk&#363;nait&#279;, Aldona Bal&#269;i&#363;nait&#279;, Zita Sukackien&#279;, J&#363;rat&#279; Vai&#269;i&#363;nien&#279;, Birut&#279; &#352;imk&#363;nait&#279;-Stanynien&#279;, Antanas Nacys, Eugenijus Norkus</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/catal14120843</guid>
-    </item>
-    <item>
-      <title>Bismuth sensitized iron oxide on exfoliated graphene oxide (Bi&#8211;Fe2O3@GO) for oxygen evaluation reaction</title>
-      <link>https://doi.org/10.1186/s11671-024-04146-x</link>
-      <description>Akhtar Munir, Shaheer Jamal, Humaira Yasmeen Gondal, Javed Iqbal, Aamir Hussain, Alex Aziz, Muhammad Shahid Nisar, Muhammad Zubair, Abdul Momin, Ali Haider, Discover Nano. 19(1)] 2024. https://openalex.org/W4404643210
-
-                Electrochemical water splitting is a promising approach towards a sustainable and renewable energy source. However, the demand for high anodic potential and sluggish kinetics of oxygen evolution reaction (OER) restrict the efficiency and feasibility of the water-splitting process. In this quest, transition metal oxides and alloys are considered potential candidates owing to their natural occurrence and high redox potential for OER. However, many associated challenges in their use are still there to be addressed. Here, we designed a new class of bismuth-doped iron oxide on exfoliated graphene oxide by optimizing the metal loading on the conductive support to facilitate the flow of charge during catalysis. The catalytic ability of the synthesized Bi-doped nanocomposites was evaluated in activating the OER under extreme alkaline conditions (1 MKOH). On screening different combinations, 20Bi&#8211;Fe2O3@GO was identified as the most efficient and sustainable electrocatalyst even under harsh operating conditions, with an onset potential of 1.48 V and a Tafel slope of 65 mV/dec. The current study offers a new class of Bi-doped electrocatalysts, where the precise doping of Bi and the optimized loading of metal was found the key to achieving low onset potential and high current density to initiate OER.</description>
-      <author>Akhtar Munir, Shaheer Jamal, Humaira Yasmeen Gondal, Javed Iqbal, Aamir Hussain, Alex Aziz, Muhammad Shahid Nisar, Muhammad Zubair, Abdul Momin, Ali Haider</author>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1186/s11671-024-04146-x</guid>
-    </item>
-    <item>
-      <title>Review for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4ta06051b/v2/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4404647545
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta06051b/v2/review1</guid>
-    </item>
-    <item>
-      <title>Decision letter for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4ta06051b/v2/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4404647569
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta06051b/v2/decision1</guid>
-    </item>
     <item>
       <title>O&#9472;O Radical Coupling in Ultrathin Reconstructed Co6.8Se8 Nanosheets for Effective Oxygen Evolution and Zinc&#8208;Air Batteries</title>
       <link>https://doi.org/10.1002/ange.202419083</link>
@@ -848,6 +608,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.11.033</guid>
     </item>
     <item>
+      <title>Corrosion-resistant NiFe anode towards kilowatt-scale alkaline seawater electrolysis</title>
+      <link>https://doi.org/10.1038/s41467-024-54754-5</link>
+      <description>Xiaogang Sun, Wei Shen, Hao Liu, Pinxian Xi, Mietek Jaroniec, Yao Zheng, Shi Zhang Qiao, Nature Communications. 15(1)] 2024. https://openalex.org/W4404814271
+
+                Development of large-scale alkaline seawater electrolysis requires robust and corrosion-resistant anodes. Here we propose engineering NiFe layered double hydroxide (LDH)-based anodes by incorporating a series of anions into the LDH interlayers. The most optimal NiFe LDH anode with intercalated phosphates demonstrates stable operation at a high current density of 1.0 A cm&#8722;2 for over 1000 hours in a 2 W-scale alkaline seawater electrolyzer (ASWE). Fundamental studies indicate that the basicity, indicated by pKa values, of the intercalated anions in NiFe LDH governs its oxygen evolution reaction activity and corrosion resistance. Highly basic anions (i.e., phosphates) securely anchor Fe sites and facilitate proton transfer to boost both durability and activity. Notably, we demonstrate the proof-of-concept for the NiFe anode in an industrial 1 kW-scale ASWE stack (1,081.2 cm2 anode area in total). This unit achieves a stable operating current density of 0.5 A cm&#8722;2 at about 2.0 V, twice that of the commercial alkaline pure water electrolyzer, contributing to an economically competitive hydrogen production cost of US$ 1.96 kgH2&#8722;1. Large-scale alkaline seawater electrolysis demands robust anodes for efficient hydrogen production. Here, the authors report a NiFe layered double hydroxide anode with intercalated phosphates, achieving stable performance at 1.0 A cm&#8722;2 for over 1,000 hours, offering improved durability and activity.</description>
+      <author>Xiaogang Sun, Wei Shen, Hao Liu, Pinxian Xi, Mietek Jaroniec, Yao Zheng, Shi Zhang Qiao</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54754-5</guid>
+    </item>
+    <item>
       <title>Enhancing Electrochemical Performance of Co3O4/ZnO Composite Nanostructures through Interface Engineering for Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1016/j.colsurfa.2024.135858</link>
       <description>K. Mallikarjuna, Kiran Kumar Ganta, Tarun Kumar, Nadavala Siva Kumar, Mohammad Asif, S.V. Prabhakar Vattikuti, Jaesool Shim, Colloids and Surfaces A Physicochemical and Engineering Aspects. None(None)] 2024. https://openalex.org/W4404814566
@@ -878,14 +648,144 @@
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202403141</guid>
     </item>
     <item>
-      <title>Distorted MO6 octahedral unit on the activity and stability for the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1039/d4cc04992f</link>
-      <description>Huaixin Yang, Xin Ning, W. B. Yan, Hua Gui Yang, Haiyang Yuan, Chemical Communications. None(None)] 2024. https://openalex.org/W4404635654
+      <title>In-Situ Electrochemical Modification of Crystallinity of Nife Layered Double Hydroxide Electrocatalyst to Accelerate Oxygen Evolution Rate</title>
+      <link>https://doi.org/10.2139/ssrn.5037529</link>
+      <description>Seunghyun Jo, Jieun Lim, Hyunjun Oh, Pilsoo Choi, Je-Myung Oh, KwangSup Eom, No host. None(None)] 2024. https://openalex.org/W4404819198
 
-                Metal oxides have garnered significant attention in oxygen evolution reaction (OER), where the distorted MO6 octahedral unit has a marked impact on their performance. This study introduces the distortion coefficient...</description>
-      <author>Huaixin Yang, Xin Ning, W. B. Yan, Hua Gui Yang, Haiyang Yuan</author>
+                No abstract</description>
+      <author>Seunghyun Jo, Jieun Lim, Hyunjun Oh, Pilsoo Choi, Je-Myung Oh, KwangSup Eom</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc04992f</guid>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5037529</guid>
+    </item>
+    <item>
+      <title>Facile and ecofriendly green synthesis of Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;/MgO&#8211;SiO&lt;sub&gt;2&lt;/sub&gt; composites towards efficient asymmetric supercapacitor and oxygen evolution reaction applications</title>
+      <link>https://doi.org/10.1039/d4ra07337a</link>
+      <description>Gulzar Ali, Aneela Tahira, Asma Hayat, Muhammad Ali Bhatti, Aqeel Ahmed Shah, Syed Nizam Uddin Shah Bukhari, Elmuez A. Dawi, Ayman Nafady, Riyadh H. Alshammari, Matteo Tonezzer, Muhammad Kashif Samoon, Zafar Hussain Ibupoto, RSC Advances. 14(51)] 2024. https://openalex.org/W4404820884
+
+                The development of low-cost, eco-friendly, and earth-friendly electrode materials for energy storage and conversion applications is a highly desirable but challenging task for strengthening the existing renewable energy systems.</description>
+      <author>Gulzar Ali, Aneela Tahira, Asma Hayat, Muhammad Ali Bhatti, Aqeel Ahmed Shah, Syed Nizam Uddin Shah Bukhari, Elmuez A. Dawi, Ayman Nafady, Riyadh H. Alshammari, Matteo Tonezzer, Muhammad Kashif Samoon, Zafar Hussain Ibupoto</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra07337a</guid>
+    </item>
+    <item>
+      <title>Atomic cation and anion co-vacancy defects boosted the oxide path mechanism of the oxygen evolution reaction on NiFeAl-layered double hydroxide</title>
+      <link>https://doi.org/10.1039/d4ta05839a</link>
+      <description>Zhaoyan Li, Duo Wang, Jidong Li, Zhongning Shi, Xianwei Hu, Hong Sun, Junli Xu, Journal of Materials Chemistry A. None(None)] 2024. https://openalex.org/W4404823936
+
+                The uniform cation and anion defects on Ni 6 Fe 2 Al-LDH shorten the interatomic M&#8211;M distance and trigger the oxide path mechanism of the oxygen evolution reaction.</description>
+      <author>Zhaoyan Li, Duo Wang, Jidong Li, Zhongning Shi, Xianwei Hu, Hong Sun, Junli Xu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta05839a</guid>
+    </item>
+    <item>
+      <title>Strategic Design for High-Efficiency Oxygen Evolution Reaction (OER) Catalysts by Triggering Lattice Oxygen Oxidation in Cobalt Spinel Oxides</title>
+      <link>https://doi.org/10.1021/acsnano.4c14158</link>
+      <description>Qingming Deng, Hui Li, Ke Pei, Lok Wing Wong, Xiaodong Zheng, Chi Shing Tsang, Honglin Chen, Wenqian Shen, Thuc Hue Ly, Jiong Zhao, Qiang Fu, ACS Nano. None(None)] 2024. https://openalex.org/W4404827664
+
+                High-efficiency catalysts with refined electronic structures are highly desirable for promoting the kinetics of the oxygen evolution reaction (OER) and enhancing catalyst durability. This study comprehensively explores strategies involving metal doping and oxygen vacancies for enhancing the acidic OER catalytic activity of Co</description>
+      <author>Qingming Deng, Hui Li, Ke Pei, Lok Wing Wong, Xiaodong Zheng, Chi Shing Tsang, Honglin Chen, Wenqian Shen, Thuc Hue Ly, Jiong Zhao, Qiang Fu</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c14158</guid>
+    </item>
+    <item>
+      <title>Highly porous NiCo2O4 nanostructures for enhanced electrocatalytic oxygen and hydrogen evolution reactions</title>
+      <link>https://doi.org/10.1007/s11581-024-05972-w</link>
+      <description>Aniruddha Mondal, Ajay K. Potbhare, P.R. Bhilkar, Rohit S. Madankar, Amanullah Fatehmulla, Ratiram G. Chaudhary, Ionics. None(None)] 2024. https://openalex.org/W4404828781
+
+                No abstract</description>
+      <author>Aniruddha Mondal, Ajay K. Potbhare, P.R. Bhilkar, Rohit S. Madankar, Amanullah Fatehmulla, Ratiram G. Chaudhary</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11581-024-05972-w</guid>
+    </item>
+    <item>
+      <title>Atomically engineered interfaces inducing bridging oxygen-mediated deprotonation for enhanced oxygen evolution in acidic conditions</title>
+      <link>https://doi.org/10.1038/s41467-024-54798-7</link>
+      <description>Han Wu, Jiangwei Chang, Jingkun Yu, Siyang Wang, Zhongjian Hu, Geoffrey I. N. Waterhouse, Xue Yong, Zhiyong Tang, Junbiao Chang, Siyu Lu, Nature Communications. 15(1)] 2024. https://openalex.org/W4404829402
+
+                The development of efficient and stable electrocatalysts for water oxidation in acidic media is vital for the commercialization of the proton exchange membrane electrolyzers. In this work, we successfully construct Ru&#8211;O&#8211;Ir atomic interfaces for acidic oxygen evolution reaction (OER). The catalysts achieve overpotentials as low as 167, 300, and 390 mV at 10, 500, and 1500 mA cm&#8722;2 in 0.5 M H2SO4, respectively, with the electrocatalyst showing robust stability for &gt;1000 h of operation at 10 mA cm&#8722;2 and negligible degradation after 200,000 cyclic voltammetry cycles. Operando spectroelectrochemical measurements together with theoretical investigations reveal that the OER pathway over the Ru&#8211;O&#8211;Ir active site is near-optimal, where the bridging oxygen site of Ir&#8211;OBRI serves as the proton acceptor to accelerate proton transfer on an adjacent Ru centre, breaking the typical adsorption-dissociation linear scaling relationship on a single Ru site and thus enhancing OER activity. Here, we show that rational design of multiple active sites can break the activity/stability trade-off commonly encountered for OER catalysts, offering good approaches towards high-performance acidic OER catalysts. Efficient and stable electrocatalysts for acidic oxygen evolution are essential for proton exchange membrane electrolyzers. Here, the authors report Ru&#8211;O&#8211;Ir atomic interfaces that enable bridging oxygen-mediated deprotonation pathways, overcoming the activity/stability trade-off in acidic oxygen evolution.</description>
+      <author>Han Wu, Jiangwei Chang, Jingkun Yu, Siyang Wang, Zhongjian Hu, Geoffrey I. N. Waterhouse, Xue Yong, Zhiyong Tang, Junbiao Chang, Siyu Lu</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54798-7</guid>
+    </item>
+    <item>
+      <title>Turning the Surface Electronic Effect Over Core&#8208;Shell CoS&lt;sub&gt;2&lt;/sub&gt;&#9472;Fe&lt;sub&gt;x&lt;/sub&gt;Co&lt;sub&gt;1&#8208;x&lt;/sub&gt;S&lt;sub&gt;2&lt;/sub&gt; Nanooctahedra Toward Electrochemical Water Splitting in the Alkaline Medium</title>
+      <link>https://doi.org/10.1002/advs.202411622</link>
+      <description>Lian&#8208;Ming Lyu, Yu&#8208;Chung Chang, Han&#8208;Jung Li, P. Y. Wang, Ruei&#8208;Hung Juang, Ming&#8208;Yen Lu, Kwang&#8208;Hwa Lii, Chun&#8208;Hong Kuo, Advanced Science. None(None)] 2024. https://openalex.org/W4404829792
+
+                Abstract The long&#8208;term challenge in overall water splitting is the conflict in the pH condition of electrolytes for achieving efficient hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) at the same time, in addition to the typical cost issue in catalysts. It hence raises an intense research interest in seeking cost&#8208;efficient non&#8208;noble metal electrocatalysts as well as compromising electrolyte conditions for electrocatalytic HER and OER. To tackle the problems, various approaches are demonstrated to engineer the electronic effect on the active sites of catalysts for enhancing the activities. In this work, the core&#8208;shell CoS 2 &#9472;Fe x Co 1&#8208;x S 2 nanooctahedra is fabricated with a tunable Fe content over the surface and took them as the model catalyst for systematic studies in alkaline OER and HER. By various X&#8208;ray spectroscopies as well as electron microscopy, the results showed that the shells of CoS 2 &#9472;Fe x Co 1&#8208;x S 2 nanooctahedra formed the {111} surfaces of Fe 0.9 Co 1.0 S 2 and Fe 0.25 Co 0.75 S 2 with and without the promotion by OH &#8722; anions during the syntheses. Catalyzed by the CoS 2 , Fe 0.25 Co 0.75 S 2 , and Fe 0.9 Co 1.0 S 2 {111} surfaces, the results of alkaline OER and HER indicated the Fe 0.9 Co 1.0 S 2 the most superior activities by virtue of the optimized Fe&#9472;Co electronic effect. From the predictions by density functional theory (DFT) calculations in reaction thermodynamics, the energy barriers in OER and HER both follow the order of Fe 0.9 Co 0.1 S 2 (111) &lt; Fe 0.25 Co 0.75 S 2 (111) &lt; CoS 2 (111). However, FeS 2 (111) is worse than Fe 0.9 Co 0.1 S 2 (111). From the confirmations by in&#8208;situ X&#8208;ray spectroscopies in reaction kinetics, the Co sites of Fe 0.9 Co 0.1 S 2 (111) on the core&#8208;shell nanooctahedra exhibited much higher activities than those of CoS 2 (111) under the applied potentials for OER and HER, which reflected the electronic benefits from the existing Fe neighbors.</description>
+      <author>Lian&#8208;Ming Lyu, Yu&#8208;Chung Chang, Han&#8208;Jung Li, P. Y. Wang, Ruei&#8208;Hung Juang, Ming&#8208;Yen Lu, Kwang&#8208;Hwa Lii, Chun&#8208;Hong Kuo</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202411622</guid>
+    </item>
+    <item>
+      <title>In Situ Self&#8208;Assembled 200 nm&#8208;Depth Highly Active Layer Non&#8208;Precious Metals Catalyst for Industrial Water Electrolysis</title>
+      <link>https://doi.org/10.1002/smll.202408495</link>
+      <description>Xin You, Jizhou Duan, Xiaolu Xiong, Zhiwei Hu, Chang&#8208;Yang Kuo, F Q Chang, Chien&#8208;Te Chen, Zhen-Ya Li, Wen&#8208;Jie Bian, Jing Wang, Jian&#8208;Qiang Wang, Linjuan Zhang, Small. None(None)] 2024. https://openalex.org/W4404830333
+
+                Abstract Nickel&#8208;based electrocatalysts are promising for industrial water electrolysis, but the dense hydroxyl oxide layer formed during the oxygen evolution reaction (OER) limits active sites accessibility and presents challenges in balancing structural stability with effective charge transfer. Based on this, an efficient in situ leaching strategy is proposed to construct grain boundary&#8208;rich catalyst structure with high charge transfer ability and a deep catalytic active layer reached &gt;200&#8208;nm. Under OER conditions, stable sub&#8208;nano Ni 3 Al particles are embedded in Ni(Fe)OOH, originating from leaching out the unstable Ni 2 Al 3 phase of the initial Ni 2 Al 3 /Ni 3 Al alloy doped with Fe. The structural evolutions are characterized using in situ Raman spectroscopy, transmission electron microscopy, and X&#8208;ray absorption spectroscopy. The catalyst exhibits exemplary performance, evidenced by a low overpotential of 212 mV at 10 mA cm &#8722;2 , a minimal Tafel slope of 25.0 mV dec &#8722;1 . The catalyst maintains stable for &gt;500 h at 500 mA cm &#8722;2 under industrial conditions. Furthermore, its performance in seawater electrolysis is notably superior, exhibiting an overpotential of 223 mV at 10 mA cm &#8722;2 and a Tafel slope of 37.5 mV dec &#8722;1 . The in situ high activity in the deep porous phase by leaching out unstable phases provides a new method for engineering high&#8208;performance industrial catalysts.</description>
+      <author>Xin You, Jizhou Duan, Xiaolu Xiong, Zhiwei Hu, Chang&#8208;Yang Kuo, F Q Chang, Chien&#8208;Te Chen, Zhen-Ya Li, Wen&#8208;Jie Bian, Jing Wang, Jian&#8208;Qiang Wang, Linjuan Zhang</author>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408495</guid>
+    </item>
+    <item>
+      <title>A Bifunctional Iron&#8208;Nickel Oxygen Reduction/Oxygen Evolution Catalyst for High&#8208;Performance Rechargeable Zinc&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202409161</link>
+      <description>Zhengfan Chen, Weiyi Cheng, Kecheng Cao, Jin Meng, Sarra Rahali, Soressa Abera Chala, Elnaz Ebrahimi, Nana Ma, Rongji Liu, Keseven Lakshmanan, Chia&#8208;Yu Chang, Chun&#8208;Chi Cheung, Haojian Luo, Yongkang Wang, Bing&#8208;Joe Hwang, Carsten Streb, Small. None(None)] 2024. https://openalex.org/W4404832755
+
+                Abstract Efficient and robust electrocatalysts for the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) are crucial for fuel cells, metal&#8208;air batteries, and other energy technologies. Here, a highly stable, efficient bifunctional OER/ORR electrocatalyst (FeNi&#8208;NC@MWCNTs) is reported and demonstrated its integration and robust performance in an aqueous Zinc&#8211;air battery (ZAB). The catalyst is based on neighboring iron/nickel sites (FeNiN 6 ) which are atomically dispersed on porous nitrogen&#8208;doped carbon particles. The particles are wrapped in electrically conductive multi&#8208;walled carbon nanotubes for enhanced electrical conductivity. Electrocatalytic analyses show high OER and ORR performance (OER/ORR voltage difference = 0.69 V). Catalyst integration in a ZAB results in excellent performance metrics, including an open circuit voltage of 1.44 V, a specific capacity of 782 mAh g &#8722;1 (at j = 15 mA cm &#8722;2 ), a peak power density of 218 mW cm &#8722;2 (at j = 260 mA cm &#8722;2 ) and long&#8208;term durability over 600 charge/discharge cycles. Combined experimental and theoretical (density functional theory) analyses provide an in&#8208;depth understanding of the physical and electronic structure of the catalyst and the role of the FeNi dual atom reaction site. The study therefore provides critical insights into the structure and reactivity of high&#8208;performance bifunctional OER/ORR catalysts based on atomically dispersed non&#8208;critical metals.</description>
+      <author>Zhengfan Chen, Weiyi Cheng, Kecheng Cao, Jin Meng, Sarra Rahali, Soressa Abera Chala, Elnaz Ebrahimi, Nana Ma, Rongji Liu, Keseven Lakshmanan, Chia&#8208;Yu Chang, Chun&#8208;Chi Cheung, Haojian Luo, Yongkang Wang, Bing&#8208;Joe Hwang, Carsten Streb</author>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202409161</guid>
+    </item>
+    <item>
+      <title>Unraveling the Electron Transport Propellant Mechanism of Oxygen Vacancy for Boosting Hydrogen Evolution Electrocatalysis in Alkaline Seawater</title>
+      <link>https://doi.org/10.1002/smll.202409675</link>
+      <description>Junheng Tang, Xiaobin Liu, Xuanyi Wang, Siqi Wu, Jiawei Zhu, Xinping Wang, Tianshi Wang, Jing&#8208;Qi Chi, Zexing Wu, Lei Wang, Small. None(None)] 2024. https://openalex.org/W4404832767
+
+                Abstract Currently, hydrogen evolution reaction (HER) in alkaline seawater still faces problems such as low catalyst activity and Cl &#8722; poisoning of active sites. In this work, an electron transfer facilitator of oxygen vacancies is introduced as a driving force for electronic transmission, which enhances the electron&#8208;metal&#8208;support interactions (EMSI) effect while introducing a charge protective layer, realizing killing two birds with one stone. In situ characterizations and density functional theory (DFT) calculations demonstrate that the EMSI effect enhances the H * transfer step at the interface. At the same time, due to oxygen vacancies for the enhanced EMSI, Ru forms an electron&#8208;rich layer, avoiding the poison of Cl &#8722; on active sites in seawater for HER. As a result, the Ru/Ni(OH) 2&#8208;x has an overpotential of only 156 mV at a current density of 1.0 A cm &#8722;2 in alkaline seawater. After assembling anion&#8208;exchange&#8208;membrane water electrolyzers (AEMWE), the Ru/Ni(OH) 2&#8208;x has a flat efficiency of &#8776;70% at different current densities, low energy consumption and price of per gallon gas equivalent (GGE) H 2 produced. Owning to the well Cl &#8722; tolerance, the catalyst also maintains long&#8208;term stability at 0.5 A cm &#8722;2 , indicating its great potential for industrial feasibility.</description>
+      <author>Junheng Tang, Xiaobin Liu, Xuanyi Wang, Siqi Wu, Jiawei Zhu, Xinping Wang, Tianshi Wang, Jing&#8208;Qi Chi, Zexing Wu, Lei Wang</author>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202409675</guid>
+    </item>
+    <item>
+      <title>Hierarchical Architectures by Hybridizing Ru Nanoparticles with Nitrogen/Oxygen Dual&#8208;doped Carbon Nanotubes for Advanced Hydrogen Evolution Reaction Performance</title>
+      <link>https://doi.org/10.1002/cnma.202400571</link>
+      <description>Yan Han, Yanhui Lu, Yu Xu, ChemNanoMat. None(None)] 2024. https://openalex.org/W4404836439
+
+                Developing highly efficient and stable electrocatalysts is critical for advancing hydrogen evolution reactions (HER) for hydrogen production. Herein, we report a facile approach to fabricating a hierarchical catalyst featuring ruthenium (Ru) nanoparticles uniformly integrated with nitrogen/oxygen co&#8208;doped carbon nanotube aerogels (Ru&#8208;NOCAs). Heteroatoms N and O&#8208;modified CNTs can result in a negatively charged surface to effectively trap Ru3+ ions. Ru&#8208;NOCAs exhibit a well&#8208;defined hierarchical morphology facilitated by the self&#8208;assembly of functional groups on the surface of CNTs, which enhances the interaction between Ru nanoparticles and CNTs. Due to the synergistic effect of hierarchical structure and strong interaction formation, Ru&#8208;NOCAs show excellent catalytic activity and stability. Ru&#8208;NOCAs catalyst demonstrates a remarkable overpotential of 41 mV at 10 mA cm&#8208;2 with a Tafel slope of 57 mV dec&#8208;1 in 1 M KOH and an overpotential of 68 mV with a Tafel slope of 65.8 mV dec&#8208;1 in 0.5 M H2SO4. These results indicate superior catalytic efficiency and enhanced charge transfer kinetics compared to the control samples. This study highlights the effectiveness of incorporating hierarchical structures and tailored surface chemistries in electrocatalyst design, offering new avenues for optimizing HER performance and advancing hydrogen fuel technology.</description>
+      <author>Yan Han, Yanhui Lu, Yu Xu</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cnma.202400571</guid>
+    </item>
+    <item>
+      <title>MnO2 as bifunctional oxygen electrocatalyst with pseudocapacitive behavior for high-power rechargeable seawater batteries</title>
+      <link>https://doi.org/10.1016/j.est.2024.114805</link>
+      <description>Seohae Kim, Dowan Kim, Youngsik Kim, Jehee Park, Journal of Energy Storage. 106(None)] 2024. https://openalex.org/W4404856129
+
+                No abstract</description>
+      <author>Seohae Kim, Dowan Kim, Youngsik Kim, Jehee Park</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.est.2024.114805</guid>
+    </item>
+    <item>
+      <title>Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides</title>
+      <link>https://doi.org/10.1039/d4ee02839b</link>
+      <description>Marianne van der Merwe, Yonghyuk Lee, Enggar Wibowo, Tathiana Midori Kokumai, Anna Efimenko, Mauricio D. Arce, Catalina Jim&#233;nez, Benjamin Howchen, Rosario Suarez Anzorena, Ilaria Lucentini, Carlos Escudero, G&#246;tz Schuck, Zdravko Kochovski, Marco Favaro, David E. Starr, Karsten Reuter, Christoph Scheurer, Marcus B&#228;r, Raul Garcia&#8208;Diez, Energy &amp; Environmental Science. None(None)] 2024. https://openalex.org/W4404860375
+
+                Understanding the oxygen evolution reaction (OER) and Ir dissolution mechanisms in amorphous, hydrous iridium oxides (am-hydr-IrO x ) is hindered by the reliance on crystalline iridium oxide theoretical models to interpret its...</description>
+      <author>Marianne van der Merwe, Yonghyuk Lee, Enggar Wibowo, Tathiana Midori Kokumai, Anna Efimenko, Mauricio D. Arce, Catalina Jim&#233;nez, Benjamin Howchen, Rosario Suarez Anzorena, Ilaria Lucentini, Carlos Escudero, G&#246;tz Schuck, Zdravko Kochovski, Marco Favaro, David E. Starr, Karsten Reuter, Christoph Scheurer, Marcus B&#228;r, Raul Garcia&#8208;Diez</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ee02839b</guid>
+    </item>
+    <item>
+      <title>Impact of the Metal&#8211;Organic Frameworks Polymorphism on the Electrocatalytic Properties of CeO&lt;sub&gt;2&lt;/sub&gt; toward Oxygen Evolution</title>
+      <link>https://doi.org/10.1021/acsomega.4c08837</link>
+      <description>Nuno Mendes, Antonio Lopes de Souto Neto, Johnnys da Silva Hort&#234;ncio, Andr&#233; Luiz Menezes de Oliveira, Rafael A. Raimundo, Daniel A. Macedo, Fausthon Fred da Silva, ACS Omega. None(None)] 2024. https://openalex.org/W4404862954
+
+                No abstract</description>
+      <author>Nuno Mendes, Antonio Lopes de Souto Neto, Johnnys da Silva Hort&#234;ncio, Andr&#233; Luiz Menezes de Oliveira, Rafael A. Raimundo, Daniel A. Macedo, Fausthon Fred da Silva</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c08837</guid>
     </item>
     <item>
       <title>One-step Preparation of Amorphous Citrate-Chelated CoNiFe Trimetallic Hydroxides for Oxygen Evolution Reaction</title>
@@ -898,44 +798,14 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4nj04240a</guid>
     </item>
     <item>
-      <title>Fe/Co bimetallic borides with modified electronic structure for Efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.161893</link>
-      <description>Shuai Wan, Lihong Bao, Yuyang Zong, Jiayu Xiao, Jiaru He, Xinyu Gao, Sheng Wang, Ruguang Ma, Applied Surface Science. None(None)] 2024. https://openalex.org/W4404631327
+      <title>Identifying key intermediates for the oxygen evolution reaction on hematite using ab-initio molecular dynamics</title>
+      <link>https://doi.org/10.1038/s41467-024-54796-9</link>
+      <description>Shuai Xu, Jiarui Yang, Peixian Su, Li Wang, Xiaowei Yang, Zhaohui Zhou, Yuliang Li, Nature Communications. 15(1)] 2024. https://openalex.org/W4404849149
 
                 No abstract</description>
-      <author>Shuai Wan, Lihong Bao, Yuyang Zong, Jiayu Xiao, Jiaru He, Xinyu Gao, Sheng Wang, Ruguang Ma</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.161893</guid>
-    </item>
-    <item>
-      <title>Thermodynamic and kinetic analysis of the oxygen evolution reaction on TiO2 (100) and (101) surfaces: A DFT study</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122654</link>
-      <description>Felipe Marinho Fernandes, Neubi Francisco Xavier, Glauco Favilla Bauerfeldt, M&#225;rcio Soares Pereira, Clarissa Oliveira da Silva, Surface Science. None(None)] 2024. https://openalex.org/W4404642081
-
-                No abstract</description>
-      <author>Felipe Marinho Fernandes, Neubi Francisco Xavier, Glauco Favilla Bauerfeldt, M&#225;rcio Soares Pereira, Clarissa Oliveira da Silva</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122654</guid>
-    </item>
-    <item>
-      <title>Author response for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d4ta06051b/v2/response1</link>
-      <description>Mengyuan Zhang, Xuanyu Zhou, Kongliang Luo, Yaning Fan, Chuandong He, Qiang Niu, Junjun Zhang, Pengfei Zhang, Sheng Dai, No host. None(None)] 2024. https://openalex.org/W4404647510
-
-                No abstract</description>
-      <author>Mengyuan Zhang, Xuanyu Zhou, Kongliang Luo, Yaning Fan, Chuandong He, Qiang Niu, Junjun Zhang, Pengfei Zhang, Sheng Dai</author>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta06051b/v2/response1</guid>
-    </item>
-    <item>
-      <title>Similarity between oxygen evolution in photosystem II and oxygen reduction in cytochrome c oxidase via proton coupled electron transfers. A unified view of the oxygenic life from four electron oxidation&#8211;reduction reactions</title>
-      <link>https://doi.org/10.1007/s43630-024-00648-w</link>
-      <description>K. Yamaguchi, Koichi Miyagawa, Mitsuo Shoji, Hiroshi Isobe, Takashi Kawakami, Photochemical &amp; Photobiological Sciences. None(None)] 2024. https://openalex.org/W4404611030
-
-                Abstract Basic concepts and theoretical foundations of broken symmetry (BS) and post BS methods for strongly correlated electron systems (SCES) such as electron-transfer (ET) diradical, multi-center polyradicals with spin frustration are described systematically to elucidate structures, bonding and reactivity of the high-valent transition metal oxo bonds in metalloenzymes: photosystem II (PSII) and cytochrome c oxidase (C c O). BS hybrid DFT (HDFT) and DLPNO coupled-cluster (CC) SD(T 0 ) computations are performed to elucidate electronic and spin states of CaMn 4 O x cluster in the key step for oxygen evolution, namely S 4 [S 3 with Mn(IV) = O + Tyr161-O radical] state of PSII and P M [Fe(IV) = O + HO-Cu(II) + Tyr161-O radical] step for oxygen reduction in C c O. The cycle of water oxidation catalyzed by the CaMn 4 O x cluster in PSII and the cycle of oxygen reduction catalyzed by the Cu A -Fe a -Fe a3 -Cu B cluster in C c O are examined on the theoretical grounds, elucidating similar concerted and/or stepwise proton transfer coupled electron transfer (PT-ET) processes for the four-electron oxidation in PSII and four-electron reduction in C c O. Interplay between theory and experiments have revealed that three electrons in the metal sites and one electron in tyrosine radical site are characteristic for PT-ET in these biological redox reaction systems, indicating no necessity of harmful Mn(V) = O and Fe(V) = O bonds with strong oxyl-radical character. Implications of the computational results are discussed in relation to design of artificial systems consisted of earth abundant transition metals for water oxidation. Graphical abstract</description>
-      <author>K. Yamaguchi, Koichi Miyagawa, Mitsuo Shoji, Hiroshi Isobe, Takashi Kawakami</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s43630-024-00648-w</guid>
+      <author>Shuai Xu, Jiarui Yang, Peixian Su, Li Wang, Xiaowei Yang, Zhaohui Zhou, Yuliang Li</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54796-9</guid>
     </item>
     <item>
       <title>Utilizing the carbon nano-belt (8-CNB) loaded late second-row transition metal (TM) single-atom catalysts for hydrogen and oxygen evolution during water electrolysis</title>
@@ -998,6 +868,16 @@
       <guid isPermaLink="true">https://doi.org/10.47392/irjash.2024.047</guid>
     </item>
     <item>
+      <title>High&#8208;throughput screening of Co&#8208;Fe&#8208;Ni electrocatalysts for high&#8208;current&#8208;density water electrolysis</title>
+      <link>https://doi.org/10.1002/cctc.202401749</link>
+      <description>Rajini P. Antony, Ridha Zerdoumi, Sascha Saddeler, Olga A. Krysiak, Lars Banko, Alfred Ludwig, Wolfgang Schuhmann, ChemCatChem. None(None)] 2024. https://openalex.org/W4404825531
+
+                Developing oxygen evolution (OER) catalysts with opti&#173;mum composition and highly active catalytic centres is a challenge during electrode scale&#8208;up. We show a selection strategy for the optimum composition of Co&#8208;Fe&#8208;Ni catalyst systems through a scanning droplet cell&#8208;based high&#8208;throughput screening on thin&#8208;film materials libraries, followed by fabrication and testing of the selected compositions in form of catalyst&#8208;coated porous electrodes for the OER in alkaline media. The electrode with optimum composition (Co17Ni58Fe25_Ni foam) exhibits a high current density of 1 A cm&#8208;2 during water electrolysis at an operating potential of ~1.9 V.</description>
+      <author>Rajini P. Antony, Ridha Zerdoumi, Sascha Saddeler, Olga A. Krysiak, Lars Banko, Alfred Ludwig, Wolfgang Schuhmann</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202401749</guid>
+    </item>
+    <item>
       <title>Application of Nanocomposites in Covalent Organic Framework-Based Electrocatalysts</title>
       <link>https://doi.org/10.3390/nano14231907</link>
       <description>Haiping Zhou, Kechang Li, Qingqing Pan, Zhong&#8208;Min Su, Rui Wang, Nanomaterials. 14(23)] 2024. https://openalex.org/W4404756219
@@ -1006,6 +886,16 @@
       <author>Haiping Zhou, Kechang Li, Qingqing Pan, Zhong&#8208;Min Su, Rui Wang</author>
       <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/nano14231907</guid>
+    </item>
+    <item>
+      <title>Recent Advancements in Co3O4-Based Composites for Enhanced Electrocatalytic Water Splitting</title>
+      <link>https://doi.org/10.3390/mi15121450</link>
+      <description>Komal S. Wagh, Sagar M. Mane, Aviraj M. Teli, Jae Cheol Shin, Jaewoong Lee, Micromachines. 15(12)] 2024. https://openalex.org/W4404860884
+
+                The pursuit of efficient and economical catalysts for water splitting, a critical step in hydrogen production, has gained momentum with the increasing demand for sustainable energy. Among the various electrocatalysts developed to date, cobalt oxide (Co3O4) has emerged as a promising candidate owing to its availability, stability, and catalytic activity. However, intrinsic limitations, including low catalytic activity and poor electrical conductivity, often hinder its effectiveness in electrocatalytic water splitting. To overcome these challenges, substantial efforts have focused on enhancing the electrocatalytic performance of Co3O4 by synthesizing composites with conductive materials, transition metals, carbon-based nanomaterials, and metal&#8211;organic frameworks. This review explores the recent advancements in Co3O4-based composites for the oxygen evolution reaction and the hydrogen evolution reaction, emphasizing strategies such as nanostructuring, doping, hybridization, and surface modification to improve catalytic performance. Additionally, it examines the mechanisms driving the enhanced activity and stability of these composites while also discussing the future potential of Co3O4-based electrocatalysts for large-scale water-splitting applications.</description>
+      <author>Komal S. Wagh, Sagar M. Mane, Aviraj M. Teli, Jae Cheol Shin, Jaewoong Lee</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/mi15121450</guid>
     </item>
     <item>
       <title>Intrinsic metal-support interactions break the activity-stability dilemma in electrocatalysis</title>
@@ -1026,16 +916,6 @@
       <author>Mohamed H. Elbakkay, S.I. El&#8208;Dek, Ahmed A. Farghali</author>
       <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/9781837676408-00282</guid>
-    </item>
-    <item>
-      <title>Lateral size dependence of photoconductivity in TMD networks</title>
-      <link>https://doi.org/10.1088/1361-648x/ad965a</link>
-      <description>Daniel Olaya-Cortes, Liliana Ramos-Moreno, Tomas Rubio Cruz, Juan Pablo Pablo Pab&#243;n Londo&#241;o, Yenny Hern&#225;ndez, Journal of Physics Condensed Matter. None(None)] 2024. https://openalex.org/W4404623680
-
-                Abstract Photoconductivity is an important feature of semiconductors that finds major attention in the fields of solar cells, hydrogen and oxygen evolution reactions, and photodetectors. This feature involves a change of density of charge carriers induced by light, which is dependent on the generation of light-induced carriers and the recombination of excitons. This phenomenon has been observed in transition metal dichalcogenides (TMDs) since 2010; however, when printing such materials on flexible substrates, they form networks that would exhibit distinct transport characteristics compared to isolated TMDs crystals. In this work, TMD nanosheets are printed by vacuum filtering and their photoconductivity was measured by using a xenon lamp inside an obscure chamber. Molybdenum disulfide-based devices show higher responsivity as compared with tungsten disulfide devices, which is attributed to an increased light absorption and hydroxyl groups attached to the surface of the MoS$_2$ networks that enhance the photoconductivity by increasing the carrier lifetimes. Furthermore, the responsivity of the devices behaves similarly to the conductivity, which is modeled as networks of pairs of nanosheets and junctions through percolative paths. Finally, this is the first report that shows that the response time of the devices increases with lateral size.</description>
-      <author>Daniel Olaya-Cortes, Liliana Ramos-Moreno, Tomas Rubio Cruz, Juan Pablo Pablo Pab&#243;n Londo&#241;o, Yenny Hern&#225;ndez</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/1361-648x/ad965a</guid>
     </item>
     <item>
       <title>Electrocatalytic mechanism for overall water splitting to produce sustainable hydrogen by 2D Janus MoSH monolayer</title>
@@ -1076,6 +956,16 @@
       <author>Hui-Jian Zhang, Zi-Qiang Chen, Xiaotong Ye, Kang Xiao, Zhao&#8208;Qing Liu</author>
       <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202421027</guid>
+    </item>
+    <item>
+      <title>Water dissociation on NiOOH in alkaline water electrolysis improves with increasing alkali metal cation size</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-db1l7</link>
+      <description>Julia Gallenberger, Clara Gohlke, Marie Neumann, Anna K. Mechler, Jan P. Hofmann, No host. None(None)] 2024. https://openalex.org/W4404855833
+
+                The activity of nickel-based electrocatalysts towards the oxygen evolution reaction (OER) is influenced by the presence of alkali metal cations in the electrolyte. Since the underlying mechanism is not fully resolved yet, we conducted a study combining Raman, FTIR, and photoelectron spectroscopies. We found that an improved OER activity correlates with structural changes of the catalyst. The cations are adsorbed in increasing amounts in the order Li+ &lt; Na+ &lt; K+ &lt; Cs+, opening the layers of the NiOOH layered double-hydroxide structure and promoting a transition from a more &#946;-like to a more &#947;-like NiOOH phase. In addition, the NiOOH surface gets increasingly deprotonated with increasing alkali cation size. We stabilized the activated catalyst materials in ultra-high vacuum and exposed them to controlled doses of H2O to analyse the catalyst-electrolyte interface in a quasi in-situ approach with photoelectron spectroscopy. Going from Li+ to Cs+, more OH groups are found on the surface after the exposure to H2O, demonstrating that such structural changes are facilitating the dissociation of H2O. As the dissociation of H2O is a crucial step in many OER mechanisms, its modified efficiency can be correlated with the observed trends in OER activity in LiOH, NaOH, KOH, and CsOH.</description>
+      <author>Julia Gallenberger, Clara Gohlke, Marie Neumann, Anna K. Mechler, Jan P. Hofmann</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-db1l7</guid>
     </item>
     <item>
       <title>Material sustainability evaluation of electrocatalysts in early-stage development</title>
@@ -1138,6 +1028,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta07187e</guid>
     </item>
     <item>
+      <title>Decadal oscillations in the ocean&#8217;s largest oxygen-deficient zone</title>
+      <link>https://doi.org/10.1126/science.adk4965</link>
+      <description>Nicolas Duprey, Alan Foreman, Jos&#233; D. Carriquiry, C.D. Charles, Sara C. Sanchez, Hubert Vonhof, Florian Rubach, Renate Rabenstein, M. R&#246;hr, H&#233;ctor Reyes&#8208;Bonilla, Dario Marconi, Daniel M. Sigman, Gerald H. Haug, Alfredo Mart&#237;nez&#8208;Garc&#237;a, Science. 386(6725)] 2024. https://openalex.org/W4404835461
+
+                The impact of global warming on the ocean&#8217;s oxygen-deficient zones (ODZs) is uncertain, partly because of a lack of data on past changes. We report monthly resolved records of coral skeleton&#8211;bound nitrogen isotopes (CS-&#948; 15 N) to reconstruct denitrification in the Eastern Tropical North Pacific (ETNP) ODZ over the last 80 years. The data indicate strong decadal variation in ETNP denitrification, with maxima during the cool North Pacific phase of Pacific Decadal Variability. The maxima in denitrification (and thus oxygen deficiency) were likely due to stronger upwelling that enhanced productivity leading to greater oxygen demand in the thermocline. Prior findings of multidecadal-to-centennial ODZ trends were likely biased by this variability. ODZ evolution over the next century will depend on how global warming interacts with the decadal oscillations.</description>
+      <author>Nicolas Duprey, Alan Foreman, Jos&#233; D. Carriquiry, C.D. Charles, Sara C. Sanchez, Hubert Vonhof, Florian Rubach, Renate Rabenstein, M. R&#246;hr, H&#233;ctor Reyes&#8208;Bonilla, Dario Marconi, Daniel M. Sigman, Gerald H. Haug, Alfredo Mart&#237;nez&#8208;Garc&#237;a</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/science.adk4965</guid>
+    </item>
+    <item>
       <title>Enhancing oxygen&#8208;blocking properties of HfB&lt;sub&gt;2&lt;/sub&gt;&#8208;MoSi&lt;sub&gt;2&lt;/sub&gt;&#8208;SiC coating by CeO&lt;sub&gt;2&lt;/sub&gt; modification</title>
       <link>https://doi.org/10.1111/jace.20266</link>
       <description>Sheng Zhang, Ji Xiang, Yuexing Chen, Peipei Wang, Ph. V. Kiryukhantsev&#8208;Korneev, &#1045;. &#1040;. &#1051;&#1077;&#1074;&#1072;&#1096;&#1086;&#1074;, Ji Shi, Xuanru Ren, Xueqin Kang, Baojing Zhang, Ping Zhang, Leihua Xu, Journal of the American Ceramic Society. None(None)] 2024. https://openalex.org/W4404691021
@@ -1188,6 +1088,26 @@
       <guid isPermaLink="true">https://doi.org/10.5276/jswtm/iswmaw/50s1/2024.755</guid>
     </item>
     <item>
+      <title>Interglacial dust, ocean fertilisation and Neoproterozoic earth oxygenation</title>
+      <link>https://doi.org/10.1002/dep2.323</link>
+      <description>Leandro G. DaSilva, Peir K. Pufahl, No&#235;l P. James, The Depositional Record. None(None)] 2024. https://openalex.org/W4404855918
+
+                Abstract Feedback processes that drove Earth's second major increase in ocean&#8211;atmosphere oxygen levels during the Neoproterozoic are poorly constrained. Variability in seawater redox over geological timescales is commonly linked to changes in the biogeochemical cycling of P and thus the rate of primary production and generation of photosynthetic oxygen. In the modern surface ocean, an important source of bioessential P and micronutrients (Fe, Cu, Co, Zn, Mo, Cr and Ni) is aeolian dust derived from deserts and arid, post&#8208;glacial landscapes. It is interpreted herein that glacial retreat following the Sturtian ( ca 717 to 660 Ma) and Marinoan ( ca 650 to 635 Ma) snowball glaciations provided copious dust to the global ocean. Correlation of interglacial siltstone successions in palaeogeographical context suggests that such dust accumulation was diachronous and concentrated in the palaeo&#8208;horse latitudes (30&#176; N and 30&#176; S). Delivery of this dust from continents is likely reflected in the steep increase in global radiogenic Sr isotope values ( 87 Sr/ 86 Sr) in post&#8208;Sturtian carbonates, and changes in the &#948; 18 O signatures of Cryogenian zircons derived from subducted marine sediments. Accumulation of sedimentary organic matter also peaked during interglacial periods, suggesting a causal link between glaciation, aeolian dust and primary production. This relationship implies windblown dust was an important source of P and micronutrients for an evolving biological pump that stimulated primary production, enhanced burial of organic carbon and increased ocean&#8211;atmosphere oxygen concentrations. Thus, delivery of aeolian dust to the global ocean was likely critical for sustaining Earth's second major increase in oxygen. Sequestration of atmospheric CO 2 in organic&#8208;rich siltstones and shales is also interpreted to have been an important negative feedback process, which together with silicate weathering, prevented runaway greenhouse conditions during interglacial periods. The oxygen produced by this aeolian marine biological pump may have helped pave the way for the evolution of multicellular animals in the Ediacaran.</description>
+      <author>Leandro G. DaSilva, Peir K. Pufahl, No&#235;l P. James</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/dep2.323</guid>
+    </item>
+    <item>
+      <title>Post covid Follow up on Diabetic Patient</title>
+      <link>https://doi.org/10.70921/medev.v30i1.893</link>
+      <description>Dana Diana Romanescu, Corina Beiu&#537;anu, A. Maghiar, Alionka Bostan, Cociuban C. L. Micula, Iulia Codru&#355;a Macovei, Erika Bimb&#243;-Szuhai, No host. None(None)] 2024. https://openalex.org/W4404831402
+
+                Aim and objectives: This study aimed to explore insulin necessity in hospitalized patients with non-insulin-dependent diabetes mellitus (DM) for the first six months after COVID-19 infection. A pro-inflammatory and pro-coagulative status probably contribute to the risk of worse outcomes in diabetes. Material and Methods: A number of 78 non-insulin necessitate diabetic patients with COVID-19 infection which needed oxygen therapy were included in the research. There were collected parameters routinely assessed to detect the possible predictors of diabetic patient evolution in SARS-CoV-2 infection. Results: The evolution of insulin necessity for 78 patients with non-insulin-dependent DM at admission was towards transformation into insulin-dependent DM at 6 months after discharge in 30 cases (38.5%), while the rest of the patients remained on oral antidiabetic drugs (48 patients, 61.5%). Conclusions: At hospitalized diabetic patient with covid-19 infection under corticotherapy, statistically significant differences were noted in HbA1c and aPTT level at 3 and 6 months after discharge.</description>
+      <author>Dana Diana Romanescu, Corina Beiu&#537;anu, A. Maghiar, Alionka Bostan, Cociuban C. L. Micula, Iulia Codru&#355;a Macovei, Erika Bimb&#243;-Szuhai</author>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.70921/medev.v30i1.893</guid>
+    </item>
+    <item>
       <title>Multinonmetal-Doped V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; Nanocomposites for Lithium-Ion Battery Cathodes</title>
       <link>https://doi.org/10.1021/acsaem.4c02043</link>
       <description>Yikang Yu, Guangqi Zhu, Yuanfeng Qi, Mohammad Behzadnia, Zhenzhen Yang, Yuzi Liu, Fan Yang, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4404677000
@@ -1196,6 +1116,16 @@
       <author>Yikang Yu, Guangqi Zhu, Yuanfeng Qi, Mohammad Behzadnia, Zhenzhen Yang, Yuzi Liu, Fan Yang</author>
       <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02043</guid>
+    </item>
+    <item>
+      <title>Impact of Oxygen Concentrations on the Development of Fires in Ventilation Limited Environments</title>
+      <link>https://doi.org/10.1088/1742-6596/2885/1/012057</link>
+      <description>Ayaan Lakhani, Alexander DiPaola, Peter Senez, Elizabeth J. Weckman, Journal of Physics Conference Series. 2885(1)] 2024. https://openalex.org/W4404854290
+
+                Abstract Large-scale fire tests at the University of Waterloo compare behaviour of a Canadian non-fire retardant faux leather couch and a UK fire-retardant faux leather couch of the same construction under ventilation limited conditions. Results reveal that both fuel loads reach maximum, but different, mass loss rates at minimum oxygen concentration in the environment. Following this, they document the rapid decay in fuel mass loss rate with consequent decrease in temperature through the burn structure. Time-varying volatile organic compounds and carbon monoxide data show preferential increase in concentration as combustion efficiency decreases. The paper adds novel time varying, simultaneously collected fuel mass, temperature and concentration data with aim to provide new insight into the full evolution of compartment fires through transition from early growth to ventilation limited conditions and subsequent fire decay.</description>
+      <author>Ayaan Lakhani, Alexander DiPaola, Peter Senez, Elizabeth J. Weckman</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1742-6596/2885/1/012057</guid>
     </item>
     <item>
       <title>Pore Types and Dolomite Reservoir Genesis of the Fifth Member of the Ordovician Majiagou Formation in the Central and Eastern Ordos Basin</title>
@@ -1238,14 +1168,14 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s43673-024-00138-2</guid>
     </item>
     <item>
-      <title>Distinct immune responses to HIV and CMV in Hofbauer cells across gestation highlight evolving placental immune dynamics</title>
-      <link>https://doi.org/10.1101/2024.11.21.624730</link>
-      <description>Viviane Schuch, Daniel J. Hossack, Tiffany Hailstorks, Rana Chakraborty, Erica L. Johnson, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4404629620
+      <title>Molecular basis of the phosphorothioation-sensing antiphage defense system IscS&#8211;DndBCDE&#8211;DndI</title>
+      <link>https://doi.org/10.1093/nar/gkae1133</link>
+      <description>Yaqian Tang, Dan Wu, Yueying Zhang, Xuan Liu, Hui Chu, Qian Tan, Lixu Jiang, Shi Chen, Geng Wu, Lianrong Wang, Nucleic Acids Research. None(None)] 2024. https://openalex.org/W4404837068
 
-                Placental immune responses to Human Immunodeficiency Virus (HIV) and Human Cytomegalovirus (CMV) vary across gestational stages and may influence postnatal outcomes. This study investigates the innate immunity of Hofbauer cells from placentae obtained at early/mid-gestation (18-21.6 weeks) and term (&gt;37 weeks). RNA sequencing and cytokine profiling reveal that early/mid-gestation HCs exhibit heightened differential gene expression responses compared to term HCs, indicating a distinct transcriptional activity in early pregnancy. Significant overlap in gene expression profiles of early/mid-gestation cells in response to CMV and HIV suggest similar innate immune responses, while term cells exhibit distinct patterns, reflecting the temporal evolution of placental immunity. Integration with the Human Protein Atlas database reveals more placental-specific differentially expressed genes in early/mid-gestation HCs exposed to HIV and CMV compared to term cells. Functional analysis reveals downregulation of pathways related to oxygen stress, estrogen response, and KRAS signalling pathway in early/mid-gestation HCs, with HIV uniquely upregulating reactive oxygen species and CMV uniquely disrupting WNT &#946;-Catenin signalling. In term HCs, CMV exposure upregulates antiviral interferon (IFN) signaling and inflammatory pathways. Co-expression analysis highlights distinct molecular pathway enrichments across gestation, particularly with upregulation of IFN signalling and disruption of lipid metabolism in term CMV-exposed HCs. Cytokine profiling shows enhanced expression of GM-CSF, IFN-&#947;, and Th2-associated cytokines in early/mid-gestation HCs, indicating heightened immune responsiveness. These findings reveal the dynamic nature of placental immunity and underscore the need for targeted interventions to address unique immune and metabolic disruptions caused by viral infections at distinct stages of pregnancy to improve fetal and infant health outcomes.</description>
-      <author>Viviane Schuch, Daniel J. Hossack, Tiffany Hailstorks, Rana Chakraborty, Erica L. Johnson</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2024.11.21.624730</guid>
+                Abstract Phosphorothioation serves as a DNA backbone modification mechanism, wherein a sulfur atom substitutes the nonbridging oxygen atom within the phosphodiester, facilitated by the gene products of dndABCDE or sspABCD. The combination of dndABCDE with dndFGH forms a bona fide defense system, where the DndFGH protein complex exhibits DNA nickase and DNA translocase activities to prevent phage invasion. In this study, we identified that dndI, co-transcribed with dndFGH, can independently couple with iscS-dndBCDE as an anti-phage defense system. Moreover, we resolved the crystal structure of DndI from Salmonella at a resolution of 3.10 &#197;. We discovered that its residue Y25, residing within a hydrophobic region of DndI, is involved in phosphorothioate (PT) sensing. Upon sensing PT modifications at 5&#8242;-GPSAAC-3&#8242;/5&#8242;-GPSTTC-3&#8242;, the ATPase activity of DndI is stimulated, which subsequently triggers a conformational transition, facilitating the dissociation of DndI from self-DNA, thereby allowing DndI to avoid cleaving self-DNA while restricting PT-deficient phage DNA. This research broadens the knowledge of the mechanistic diversity underlying PT-based defense systems and highlights their complexity in the course of evolution.</description>
+      <author>Yaqian Tang, Dan Wu, Yueying Zhang, Xuan Liu, Hui Chu, Qian Tan, Lixu Jiang, Shi Chen, Geng Wu, Lianrong Wang</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/nar/gkae1133</guid>
     </item>
     <item>
       <title>New-to-nature CO2-dependent acetyl-CoA assimilation enabled by an engineered B12-dependent acyl-CoA mutase</title>
@@ -1286,16 +1216,6 @@
       <author>Zheng&#8208;Han Lian, Nimaichand Salam, Sha Tan, Yang Yuan, Meng&#8208;Meng Li, Yu&#8208;Xian Li, Ze&#8208;Tao Liu, Chao&#8208;Jian Hu, LV Ai-ping, Yu&#8208;Ting OuYang, Caiyu Lu, Jingyi Zhang, Ying Chen, Le&#8208;Bin Chen, Zhen&#8208;Hao Luo, Bin Ma, Zheng&#8208;Shuang Hua, Jian&#8208;Yu Jiao, Wen&#8208;Jun Li, Lan Liu</author>
       <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/imt2.249</guid>
-    </item>
-    <item>
-      <title>eLife Assessment: Spatial and temporal coordination of Duox/TrpA1/Dh31 and IMD pathways is required for the efficient elimination of pathogenic bacteria in the intestine of Drosophila larvae</title>
-      <link>https://doi.org/10.7554/elife.98716.3.sa0</link>
-      <description>Bruno Lemaitre, No host. None(None)] 2024. https://openalex.org/W4404631782
-
-                Full text Figures and data Peer review Side by side eLife Assessment This article describes a novel mechanism allows Drosophila to combat enteric pathogens while also preserving the beneficial indigenous microbiota. The authors provide compelling evidence that oral infection of Drosophila larvae by pathogenic bacteria activate a valve that traps the intruders in the anterior midgut, allowing them to be killed by antimicrobial peptides. This is an important finding revealing a new mechanism of host defense in the gut of insects. https://doi.org/10.7554/eLife.98716.3.sa0 Significance of the findings: Important: Findings that have theoretical or practical implications beyond a single subfield Landmark Fundamental Important Valuable Useful Strength of evidence: Compelling: Evidence that features methods, data and analyses more rigorous than the current state-of-the-art Exceptional Compelling Convincing Solid Incomplete Inadequate During the peer-review process the editor and reviewers write an eLife Assessment that summarises the significance of the findings reported in the article (on a scale ranging from landmark to useful) and the strength of the evidence (on a scale ranging from exceptional to inadequate). Learn more about eLife Assessments Abstract Introduction Results Discussion Materials and methods Data availability References Article and author information Metrics Abstract Multiple gut antimicrobial mechanisms are coordinated in space and time to efficiently fight foodborne pathogens. In Drosophila melanogaster, production of reactive oxygen species (ROS) and antimicrobial peptides (AMPs) together with intestinal cell renewal play a key role in eliminating gut microbes. A complementary mechanism would be to isolate and treat pathogenic bacteria while allowing colonization by commensals. Using real-time imaging to follow the fate of ingested bacteria, we demonstrate that while commensal Lactiplantibacillus plantarum freely circulate within the intestinal lumen, pathogenic strains such as Erwinia carotovora or Bacillus thuringiensis, are blocked in the anterior midgut where they are rapidly eliminated by antimicrobial peptides. This sequestration of pathogenic bacteria in the anterior midgut requires the Duox enzyme in enterocytes, and both TrpA1 and Dh31 in enteroendocrine cells. Supplementing larval food with hCGRP, the human homolog of Dh31, is sufficient to block the bacteria, suggesting the existence of a conserved mechanism. While the immune deficiency (IMD) pathway is essential for eliminating the trapped bacteria, it is dispensable for the blockage. Genetic manipulations impairing bacterial compartmentalization result in abnormal colonization of posterior midgut regions by pathogenic bacteria. Despite a functional IMD pathway, this ectopic colonization leads to bacterial proliferation and larval death, demonstrating the critical role of bacteria anterior sequestration in larval defense. Our study reveals a temporal orchestration during which pathogenic bacteria, but not innocuous, are confined in the anterior part of the midgut in which they are eliminated in an IMD-pathway-dependent manner. Introduction One of the key avenues by which bacterial pathogens infiltrate a host is through the ingestion of contaminated food. Following the entry of bacteria in the intestine, the host defense mechanisms will operate in a temporal manner, with mechanical and constitutive chemical barriers serving as the first line of defense, followed by inducible mechanisms involving the production of reactive oxygen species (ROS), the transcription, translation, and secretion of antimicrobial peptides (AMPs) as well as inter-organ signaling to cope with possible upcoming stages of infection. This temporality is evident between innate and adaptive immunity, with the former considered the primary defense line that contains and combats the threat while preparing the more subtle adaptive response. To focus on deciphering innate immune processes, the insect Drosophila melanogaster has been widely and successfully used (Neyen et al., 2014; Younes et al., 2020). This model has made it possible to establish the chronology of the events involved in the defense against pathogenic bacteria. In Drosophila, as in all metazoans, a layer made of mucus, completed with a peritrophic membrane in insect midguts, protects the intestine lining from direct contact with pathogens (Hegedus et al., 2009; Lemaitre and Miguel-Aliaga, 2013; Pelaseyed et al., 2014). In adult Drosophila, a conserved immune response involving the production of ROS by Duox (dual oxidase) enzyme in enterocytes (ECs) is triggered in the intestine as early as 30 min after ingesting pathogenic bacteria. ROS directly damage bacterial membranes (Benguettat et al., 2018; Ha et al., 2009; Ha et al., 2005; Lee et al., 2013) but also exert an indirect effect in adults by triggering visceral spasms through the host detection of ROS mediated by the TrpA1 nociceptor and subsequent secretion of diuretic hormone 31 (Dh31) by enteroendocrine cells (EECs; Benguettat et al., 2018; Du et al., 2016a). Dh31 then binds its receptor on visceral muscles, triggering contractions that expedite bacterial elimination (Benguettat et al., 2018). This pathway seems to be conserved during evolution as TrpA1 is a Drosophila homolog of TRP receptors that respond to noxious conditions (Ogawa et al., 2016) and Dh31 is the Drosophila homolog of the mammalian CGRP (Guo et al., 2022; N&#228;ssel and Zandawala, 2019). In parallel, the immune deficiency (IMD) innate immune pathway is activated following bacterial peptidoglycan detection, leading to the transcription of AMP encoding genes and to the subsequent secretion of the peptides that kill bacteria (Capo et al., 2019). Previous study has explored the dynamics of food transit involving intestinal valves and Dh31 in the context of Drosophila larvae (LaJeunesse et al., 2010). Additionally, the perturbed circulation of bacteria within the intestine has not been documented in the literature though some specific localization of commensal and pathogenic bacteria along the intestine have been observed in insects (Basset et al., 2000; Bosco-Drayon et al., 2012; Lanan et al., 2016; Nardi et al., 2016; Ramond et al., 2021; Yao et al., 2022). However, the intricate interplay between the sequestration of bacteria in specific gut regions and their subsequent elimination has remained unexplored. In our study, we leveraged a novel real-time experimental system designed specifically for Drosophila larvae, enabling us to meticulously trace the journey and ultimate fate of pathogenic bacteria ingested alongside food. This approach has allowed us to shed light on the complex mechanisms underpinning bacterial management within the larval gut, contributing a significant advancement to our understanding of host-pathogen interactions at the intestinal level. We characterized a new mechanism implicated in the blockage and elimination of pathogenic bacteria in the anterior part of the midgut. We demonstrated that this confinement is regulated by the ROS/TrpA1/Dh31 axis. Our results delineate a model in which bacterial trapping arises from ROS production in the intestinal lumen in response to pathogenic bacteria. These ROS compounds interact with TrpA1 in Dh31-expressing EECs located between the anterior and middle midgut, leading to Dh31 secretion and subsequent bacterial compartmentalization, suggesting the closure of a valve, a midgut junction structure proposed by LaJeunesse et al., 2010. Interestingly, we found that we can ectopically induce the trapping of fluorescent particles or innocuous bacteria using human CGRP that replaces Dh31. Our findings also highlight the central role of this blockage, which acts first allowing sufficient time for the subsequent eradication of blocked pathogens by the IMD pathway and its downstream effectors. Collectively, our data unravel a finely tuned coordination between the ROS/TrpA1/Dh31 axis and the IMD pathway, enabling an effective bactericidal action of AMPs. Results Bacterial confinement in the anterior part of larval intestine The translucency of Drosophila larvae allows for live studies of immune defense components and their coordination in eradicating pathogenic bacteria. In our prior work, we revealed a modified food transit in larvae exposed to the Gram-negative opportunistic bacterium Erwinia carotovora carotovora (Ecc15), a process that involved TrpA1 (Keita et al., 2017). Using blue food dye, we tracked the presence of food in the intestinal lumen and observed that larval guts were blue without bacterial contaminants, while in the presence of Ecc15, they appeared clearer (Keita et al., 2017). Such a strategy was already used to delineate whether oral infection by Pseudomonas entomophila could modulate food transit (Liehl et al., 2006). However, our previous assay with Ecc15 was limited to 1 hr post-ingestion and using a food dye, not directly moenitoring the fate of the ingested bacteria over the time. We therefore designed a new protocol allowing to film the fate of fluorescent bacteria once ingested by the larvae. Animals are fed for 1 hr with food contaminated with fluorescent bacteria to investigate the localization of these pathogens within the intestinal tract. Following this feeding period, the animals were transferred to a wet chamber devoid of food. This setup allowed us to monitor the positional dynamics of the bacteria within the intestine over time, without further food intake influencing the observations. We principally tested three different fluorescent bacteria: Ecc15-GFP (Ecc, an opportunistic Gram-negative bacterium), Bacillus thuringiensis-GFP (Bt, an opportunistic Gram-positive bacterium), and Lactiplantibacillus plantarum-GFP (Lp, a commensal Gram-positive bacterium). After 1 hr of feeding on contaminated media, Ecc and Bt were concentrated in the anterior midgut (Videos 1 and 2). The location of the bacteria specifically in the anterior part of the intestine following 1 hr exposure was confirmed when individuals from populations were imaged and counted (Figure 1A). The consistently defined limits of the area containing bacteria in the anterior part of the gut across our observations strongly indicate the presence of a physical boundary. This reproducibility contrasts with what would be expected if the cessation of food intake was responsible for halting bacterial progression, which would likely result in more variable bacterial distributions within the intestine among individual subjects (Figure 1A). Remarkably, with animals fed 1 hr with Ecc or Bt and transferred in a wet chamber, tracking the GFP signal over time revealed that it remained in the anterior part of the larva and began to fade 6 hr after ingestion (Videos 1 and 2; Figure 1&#8212;figure supplement 1A and B). This fading suggests the elimination of the bacteria, while the larva continued to exhibit active movements. This pattern was observed for both Ecc and Bt. Interestingly, the blockage is reversible and may depend upon the presence or status of the trapped bacteria. Indeed, if fluorescent dextran polymers are co incubated with Ecc, both bacteria and dextran are blocked in the anterior part of the intestine and following bacteria-associated fluorescence disappearance, the dextran is released in the posterior part (Video 3). However, unlike the opportunistic bacteria Ecc and Bt, a food mixture contaminated with Lp led to the bacteria being present in the posterior compartment of the larval midgut after 1 hr of feeding and remained there throughout the 16 hr duration of our observation (Video 4, Figure 1A and Figure 1&#8212;figure supplement 1C; Storelli et al., 2018). To better characterize the blockage phenomenon, we counted the ratio of larvae with trapped GFP-bacteria 1 hr post feeding. Importantly, in all our experiments, approximately 20% of larvae displayed an absence of fluorescent bacteria within the intestinal lumen. Notably, this proportion remained consistent across different bacterial strains used to contaminate the food, indicating that the specific compartmentalization of pathogenic bacteria we observed is not related to a global food-intake cessation. Instead, these findings suggest the deployment of a targeted sequestration mechanism. Focusing on animals containing fluorescent bacteria, we found that while less than 10% of the larvae had Lp blocked in the anterior part of the intestine, more than 80% of the larvae had Ecc and Bt bacteria localized in the anterior part of the midgut (Figure 1A and B). We completed our observation of the posterior location of non-pathogenic bacteria with another harmless species, the OP50 strain of Escherichia coli (Eco). Less than 20% of the animals fed a mixture containing Eco showed a blocking phenotype. The portion of the intestine containing the fluorescent bacteria is delimited posteriorly by an extensive turn, a region that was suggested to act like a valve (LaJeunesse et al., 2010). Importantly, the blockage of pathogenic bacteria (Ecc and Bt) in the anterior part of the intestine was confirmed using D. melanogaster larvae with different genetic backgrounds (Figure 1C). To confirm our findings, we dissected the intestines of larvae that had ingested the bacteria. Our analysis confirmed that Ecc and Bt were predominantly located in the anterior part of the intestines, whereas Lp was not, supporting our initial observations (Figure 1&#8212;figure supplement 2). Our data collectively indicate that pathogenic bacteria, such as Ecc and Bt, are spatially confined to the anterior part of the larval midgut before their disappearance. In contrast, the commensal bacterium Lp or the innocuous Eco line we used are distributed throughout the midgut, persisting principally in the posterior part. Figure 1 with 2 supplements see all Download asset Open asset Contrary to Lp or Eco, Ecc or Bt bacteria are found exclusively in the anterior part of the gut. (A) Pictures to illustrate the position of the green fluorescence of control (CantonS) L3 stage larvae as a group (upper panel) or individual (lower panel) after having been fed 1 hr with a media containing yeast and GFP-producing bacteria (Ecc or Bt or Lp). The white asterisk indicates the anterior part of the animal. The white arrow indicates the posterior limit of the area containing the fluorescent bacteria. Below the pictures are schematics representing larvae, their gut, and the relative position of the GFP-producing bacteria in green. Scale bar is 1 mm. (B) Graphic representing the blockage ratio for CantonS (ctrl) L3 larvae exposed during 1 hr to a mixture composed of yeast and fluorescent bacteria: Lp or Escherichia coli (Eco) or Ecc or Bt. The ratio of control larvae with a distinguishable green fluorescence only in the upper part of the intestine, considered as blocked bacteria, is represented. The ratio is calculated as: x larvae with bacteria exclusively in the anterior part of the gut / (x larvae with bacteria exclusively in the anterior part of the gut +y larvae with bacteria all along the gut). Larvae with no distinguishable fluorescence were considered as non-eaters and discarded from the quantifications. The ratio of larvae with no distinguishable fluorescence was not influenced by the different conditions we tested. Shown is the average blockage ratio with a 95% confidence interval from at least three independent assays with at least 30 animals per condition and trial. **** indicates p&lt;0.0001, Fisher exact t-test. See the source data file for details. (C) Blockage ratio for L3 larvae of w1, Oregon or w1118 isogenized genotypes fed during various times with a mixture combining yeast with Lp, Ecc, or Bt. Shown is the average blockage ratio with a 95% confidence interval from at least three independent assays with at least 100 animals in total. The 0 symbol indicates an absence of blockage, **** indicates p&lt;0.0001, Fisher exact t-test. See the source data file for details. Video 1 Download asset This video cannot be played in place because your browser does support HTML5 video. You may still download the video for offline viewing. Download as MPEG-4 Download as WebM Download as Ogg Fluorescent Ecc is blocked in the anterior part of the larval intestine then vanishes. Live imaging during 12 hr of a L3 control larva previously fed 1 hr with a food containing Ecc fluorescent bacteria then transferred on a glass slide in a wet chamber. https://doi.org/10.6084/m9.figshare.25018385.v2. Video 2 Download asset This video cannot be played in place because your browser does support HTML5 video. You may still download the video for offline viewing. Download as MPEG-4 Download as WebM Download as Ogg Fluorescent Bt is blocked in the anterior part of the larval intestine then vanishes. Live imaging during 12 hr of a L3 control larva previously fed 1 hr with a food containing Bt fluorescent bacteria then transferred on a glass slide in a wet chamber. https://doi.org/10.6084/m9.figshare.25018427.v2. Video 3 Download asset This video cannot be played in place because your browser does support HTML5 video. You may still download the video for offline viewing. Download as MPEG-4 Download as WebM Download as Ogg Dextran-TexasRed is concomitantly blocked Fluorescent Bt in the anterior part of the larval intestine then released posteriorly following bacterial clearance. Live imaging during 6 hr of a L3 control larva previously fed 1 hr with a food containing Bt fluorescent bacteria and Dextran-Texas-Red then transferred on a glass slide in a wet chamber. The anterior part of the larvae is at the bottom right. https://doi.org/10.6084/m9.figshare.26355076.v1. Video 4 Download asset This video cannot be played in place because your browser does support HTML5 video. You may still download the video for offline viewing. Download as MPEG-4 Download as WebM Download as Ogg Fluorescent Lp is not blocked in the anterior part of the larval intestine and persists in the posterior midgut. Live imaging during 10 hr of a L3 control larva previously fed 1 hr with a food containing Lp fluorescent bacteria then transferred on a glass slide in a wet chamber. https://doi.org/10.6084/m9.figshare.25018442.v2. The anterior intestinal confinement of pathogenic bacteria is dose-specific and occurs rapidly We hypothesized that the bacterial localization specifically in the anterior part of the larval intestine was an active host response and might be dependent on the bacterial dose. To test this, we exposed larvae to varying concentrations of Ecc and Bt and measured the blockage ratio. We found that a concentration of 2.109 Ecc bacteria per ml was sufficient to induce the bacterial compartmentalization, whereas for Bt, a concentration of 4.1010 Bt bacteria per ml was required (Figure 2A). Interestingly, following over time the intoxication of control larvae with a Bt concentration of 1.1010 bacteria per ml instead of 4.1010 Bt bacteria per ml revealed that bacteria were not sequestered in the anterior part of the intestine but reached the posterior part (Video 5). Nonetheless, the fluorescence remained weak likely due to the low amount of bacteria and we could even observed an excretion of bacteria. For all subsequent experiments, we used 4.1010 bacteria per ml. Figure 2 with 1 supplement see all Download asset Open asset Bacterial blockage is dose-dependent, occurs in less than 30 min, and does not involve a group effect. (A) Blockage ratio for control L3 larvae fed 1 hr with a mixture combining yeast with different concentrations of fluorescent Ecc or Bt, concentrations are in number of bacteria per ml. Shown is the average blockage ratio with a 95% confidence interval from at least three independent assays with at least 18 animals per condition and trial. **** indicates p&lt;0.0001, Fisher exact t-test. See the source data file for details. (B) Representative images of control larvae fed during 30 min. with Bt. Scale bar is 1 mm. (C) Blockage ratio for control L3 larvae fed during various times with a mixture combining yeast with Ecc or Bt. Shown is the average blockage ratio with a 95% confidence interval from at least three independent assays with at least 20 animals per condition and trial. ns indicates values with differences not statistically significant, **** indicates p&lt;0.0001, Fisher exact t-test. See the source data file for details. (D) Blockage ratio for control L3 larvae fed 1 hr as individual animals or as groups of 10 or &gt;40 with a mixture combining yeast with a constant concentration of Ecc or Bt (4.1010 bacteria per ml). Shown is the average blockage ratio with a 95% confidence interval from at least three independent assays with the exact number of animals indicated per condition and trial. ns indicates values with differences not statistically significant, Fischer exact t-test. See the source data file for details. Video 5 Download asset This video cannot be played in place because your browser does support HTML5 video. You may still download the video for offline viewing. Download as MPEG-4 Download as WebM Download as Ogg Bt at a low concentration is not blocked in the anterior part of the larval intestine, persists in the posterior midgut and the larva does not die. Live imaging during 10 hr of a L3 control larva previously fed 1 hr with a food containing Bt fluorescent bacteria (1.1010 bacteria per ml instead of 4.1010) then transferred on a glass slide in a wet chamber. https://doi.org/10.6084/m9.figshare.26355196.v1. In previous contamination assays, we arbitrary used a 1 hr time point to assess the phenotype. However, observations of bacterial blockage occurring within minutes suggested that this response does not require de novo protein synthesis by the host. Shorter exposure times revealed that Ecc was blocked in the anterior part of the intestine within 15 min, while Bt showed a similar pattern beginning at 15 min and completing by 30 min (Figure 2B and C). Based on these results, we defined 1 hr as our standard exposure time of larvae with bacterial contaminated food. In addition, we performed longer continuous feeding with Ecc (20 hr) to assay whether the blockage would still be present. We observed that while most of the larvae continuously exposed to the contaminated mixture tend to flee and do not contain fluorescent bacteria in their intestine, the ones with detectable fluorescence were blocking the bacteria (Figure 2&#8212;figure supplement 1). Our assays typically involved groups of approximately 50 larvae to observe population-level phenomena. Recent studies have suggested that larval behavior can be influenced by group dynamics (Dombrovski et al., 2019; Dombrovski et al., 2017; Louis and de Polavieja, 2017; Mast et al., 2014). To determine whether group size affects the bacterial confinement, we exposed groups of varying sizes to Bt or Ecc and measured the blockage ratio. The phenomenon proved robust even with a single larva exposed to contaminated food, indicating that the response was not influenced by group size under our experimental conditions (Figure 2D). Based on these findings, for all subsequent experiments, we standardized the conditions using 4.1010 bacteria per ml, a 1 hr exposure time, and groups of at least 20 larvae. Host TrpA1 and Dh31 are crucial for the blockage phenotype In our previous study reporting an altered food transit for larvae exposed to a food contaminated with Ecc (Keita et al., 2017), we identified the gene TrpA1 as essential for the host response. The TrpA1 protein, a member of the TRP channel family, facilitates Ca2 +entry into cells at temperatures over 25 &#176;C or upon exposure to chemicals such as ROS (Du et al., 2016b; Gu et al., 2019; Guntur et al., 2015). This channel, involved in nociception (Lapointe and Altier, 2011), has been linked to intestinal muscle activity in adult Drosophila following Ecc exposure (Du et al., 2016a) and in response to ROS production by the host (Benguettat et al., 2018). We examined the role of TrpA1 during the larval response to contaminated food using TrpA11 homozygous viable mutant in the experimental setup with fluorescent Lp, Ecc, or Bt bacteria. In these mutant larvae, while the localization of Lp in the posterior midgut remained unchanged, Ecc and Bt were found in the posterior midgut following a 1 hr intoxication and the fluorescence does not fade (Figure 3A and B, Video 6 and Figure 3&#8212;figure supplement 1A). This observation underscores that TrpA1 is necessary for the blockage of pathogenic bacteria in the anterior midgut and suggests that the disappearance of the fluorescence observed for pathogenic bacteria within the intestine of control animals may be due to bacteria being killed rather than fading of GFP or plasmid loss. Considering previous reports on visceral contraction in adult Drosophila linked to ROS production, detection by TrpA1, and Dh31 secretion to expel bacteria (Benguettat et al., 2018; Du et al., 2016a), we wondered whether a similar ROS/TrpA1/Dh31 signaling axis is necessary in larvae to block pathogenic bacteria in the anterior midgut. Indeed, the bacterial blockage we observed might involve muscle contractions related to food contamination. Thus, we tested the blockage ratio of Dh31KG09001 homozygous viable mutants exposed to Lp, Bt, or Ecc bacteria. In contrast to control animals, where fewer than 20% of larvae exhibited Ecc or Bt in the posterior section of the intestine, for more than 60% of Dh31KG09001 mutant larvae, the pathogenic bacteria Bt or Ecc were localized in the posterior midgut confirming Dh31's crucial role in this mechanism (Figure 3A and B, Video 7 and Figure 3&#8212;figure supplement 1B). The localization of Lp was not affected (Figure 3B). Figure 3 with 2 supplements see all Download asset Open asset The bacterial blockage necessitates Duox in enterocytes, the TrpA1 channel and Dh31 in Pros + cells. (A) Pictures to illustrate the localization of the fluorescent bacteria within the intestine of control (ctrl), TrpA11 or Dh31KG09001 L3 larvae after having been fed 1 hr with a mixture of yeast and Ecc. Scale bar is 1 mm. (B) Blockage ratio for control (ctrl) L3 larvae or mutants for TrpA11 or Dh31KG09001 fed 1 hr with a mixture combining yeast and Lp or Ecc or Bt or fluorescent Dextran with or without hCGRP hormone. Shown is the average blockage ratio with a 95% confidence interval from at least three independent assays with at least 30 animals per condition and trial. 0 indicates an absence of blockage. **** indicates p&lt;0.0001, Fisher exact t-test. See the source data file for details. (C) Pictures to illustrate the localization of the fluorescence within the intestine of control L3 larvae after having been fed 1 hr with a mixture of yeast and fluorescent Dextran with or without hCGRP hormone. Below the pictures are schematics representing larvae, their gut, and the relative position of the fluorescence in green. Scale bar is 1 mm. (D) Blockage ratio for animals expressing RNA interference constructions directed against Duox mRNA or Dh31 mRNA, ubiquitously (Da-Gal4), in enterocytes (Mex-Gal4) or in enteroendocrine cells (Pros-Gal4) and then fed 1 hr with a mixture combining yeast and Ecc or Bt. Shown is the average blockage ratio with a 95% confidence interval from at least three independent assays with at least 30 animals per condition and trial. ns indicates values with differences not statistically significant, **** indicates p&lt;0.0001, Fisher exact t-test. See the source data file for details. Video 6 Download asset This video cannot be played in place because your browser does support HTML5 video. You may still download the video for offline viewing. Download as MPEG-4 Download as WebM Download as Ogg Fluorescent Ecc is not blocked in the anterior part of the TrpA1 mutant larval intestine and persists in the posterior midgut. Live imaging during 10 hr of a L3 TrpA1 mutant larva previously fed 1 hr with a food containing Ecc fluorescent bacteria then transferred on a glass slide in a wet chamber. https://doi.org/10.6084/m9.figshare.25018463.v1. Video 7 Download asset This video cannot be played in place because your browser does support HTML5 video. You may still download the video for offline viewing. Download as MPEG-4 Download as WebM Download as Ogg Fluorescent Ecc is not blocked in the anterior part of the Dh31 mutant larval intestine and persists in the posterior midgut. Live imaging during 10 hr of a L3 Dh31 mutant larva previously fed 1 hr with a food containing Ecc fluorescent bacteria then transferred on a glass slide in a wet chamber.https://doi.org/10.6084/m9.figshare.25018472.v1. Given the possibility that the compartmentalization of pathogens we observed might be driven by bacterial virulence factors, we aimed to further investigate the underlying mechanism. To discern whether this phenomenon was specific to pathogenic bacteria or could extend to non-pathogenic entities, we conducted experiments to determine if abiotic particles or non-virulent bacteria could also be ectopically sequestered within the gut. The human Calcitonin Gene-Related Peptide (hCGRP) is the functional homolog of Dh31. Indeed, hCGRP has been shown to promote visceral muscle contractions in adult flies (Benguettat et al., 2018). To investigate whether the bacterial confinement could be triggered without pathogenic bacteria in response to a hormone, we exposed larvae to either Lp or Dextran-FITC in the presence of hCGRP. While Lp and Dextran-FITC were normally distributed throughout the midgut, adding hCGRP to the food induced a significant blockage (Figure 3</description>
-      <author>Bruno Lemaitre</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.7554/elife.98716.3.sa0</guid>
     </item>
   </channel>
 </rss>

@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Nov 30 01:24:19 2024
+Created on Sun Dec  1 01:46:58 2024
 
-Found 10 results from 2024-11-23 to 2024-11-30
+Found 10 results from 2024-11-24 to 2024-12-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Multiscale optimization of formic acid dehydrogenation process via linear model decision tree surrogates   
-
-OpenAlex: https://openalex.org/W4404630758    
-Open access: True
-    
-[Ethan M. Sunshine](https://openalex.org/A5092859260), [Giovanna Bucci](https://openalex.org/A5077341604), [Tanusree Chatterjee](https://openalex.org/A5074177086), [Shyam Deo](https://openalex.org/A5055823801), [Victoria M. Ehlinger](https://openalex.org/A5085002502), [Wenqin Li](https://openalex.org/A5101551798), [Thomas Moore](https://openalex.org/A5061541871), [Corey Myers](https://openalex.org/A5065047172), [Wenyu Sun](https://openalex.org/A5081013058), [Bo-Xun Wang](https://openalex.org/A5056642604), [Mengyao Yuan](https://openalex.org/A5006428375), [John R. Kitchin](https://openalex.org/A5003442464), [Carl D. Laird](https://openalex.org/A5030631754), [Matthew J. McNenly](https://openalex.org/A5112550844), [Sneha A. Akhade](https://openalex.org/A5042139840), Computers & Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108921.
-    
-No abstract    
-
-    
 
 ## Designing Operationally Flexible Diafiltration Membrane Systems for Critical Mineral Separations   
 
@@ -111,6 +100,17 @@ OpenAlex: https://openalex.org/W4404773257
 Open access: False
     
 [Jason Sherman](https://openalex.org/A5111158211), [John Daniel Siirola](https://openalex.org/A5047681120), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), No host. None(None)] 2024.https://doi.org/10.2172/2478510.
+    
+No abstract    
+
+    
+
+## Mathematical modeling and economic optimization of a piperazine-based post-combustion carbon capture process   
+
+OpenAlex: https://openalex.org/W4404860714    
+Open access: False
+    
+[Ilayda Akkor](https://openalex.org/A5105016306), [Shachit S. Iyer](https://openalex.org/A5043467732), [John Dowdle](https://openalex.org/A5105016307), [Le Wang](https://openalex.org/A5109297761), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), International journal of greenhouse gas control. 140(None)] 2024.https://doi.org/10.1016/j.ijggc.2024.104282.
     
 No abstract    
 

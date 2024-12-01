@@ -1,131 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Nov 30 01:24:17 2024
+Created on Sun Dec  1 01:46:57 2024
 
-Found 24 results from 2024-11-23 to 2024-11-30
+Found 17 results from 2024-11-24 to 2024-12-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Monoalkylation or Dialkylation of Indenes with Alcohols by Bis-N-Heterocyclic Carbene Manganese   
-
-OpenAlex: https://openalex.org/W4404616756    
-Open access: False
-    
-[Li Wang](https://openalex.org/A5100322864), [Yinwu Li](https://openalex.org/A5059248880), [Zhe Chen](https://openalex.org/A5100457743), [Cunyuan Zhao](https://openalex.org/A5021086726), [Zhuofeng Ke](https://openalex.org/A5022393729), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05200.
-    
-No abstract    
-
-    
-
-## Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated Amines with Diaziridinone via Hydrogen Atom Transfer   
-
-OpenAlex: https://openalex.org/W4404625202    
-Open access: False
-    
-[Zihang Du](https://openalex.org/A5108765053), [Jiahao Zhang](https://openalex.org/A5100445503), [Xueli Lv](https://openalex.org/A5085082124), [Kun Zhang](https://openalex.org/A5078975514), [Wei Ji](https://openalex.org/A5056653009), [Minyan Wang](https://openalex.org/A5102728277), [Su Jing](https://openalex.org/A5049924738), [Jiefeng Hu](https://openalex.org/A5018608098), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05973.
-    
-The site-selective functionalization of carbon(sp3)–hydrogen bonds in saturated amines remains a persistent challenge owing to their intrinsic electronic deficiency, particularly in activating the α and β positions simultaneously for annulation reactions. Herein, we report a copper(I)-catalyzed dehydrogenation and [2 + 3] cycloaddition of commercially available amines with diaziridinone, which facilitated the direct synthesis of highly valuable imidazolidone derivatives. Operationally simple methodology has a broad substrate scope and convenient scalability, providing an effective and complementary platform for the rapid incorporation of N-heterocycles into amine molecules. Furthermore, comprehensive mechanistic investigations and computational studies indicated the pathway of the radical-type hydrogen atom transfer and [2 + 3] cycloaddition, which were promoted by a four-membered copper(III) species.    
-
-    
-
-## Interface Engineering on Heterostructural Nanosheets for Efficient Electrocatalytic-Paired Upcycling of Waste Plastics and Nitrate   
-
-OpenAlex: https://openalex.org/W4404627302    
-Open access: False
-    
-[Junhua Wu](https://openalex.org/A5091903755), [Xiaoxiao Cheng](https://openalex.org/A5025637935), [Yun Tong](https://openalex.org/A5072579187), [Zhangjing Yu](https://openalex.org/A5101758085), [Lin Cong](https://openalex.org/A5001207260), [Nan Zhang](https://openalex.org/A5100721030), [Lu Chen](https://openalex.org/A5100432090), [Pengzuo Chen](https://openalex.org/A5078040238), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05434.
-    
-No abstract    
-
-    
-
-## Photoenhanced Electrochemical Conversion of Nitrate to Ammonia Via Sulfur Vacancy-Rich Exfoliated MoS2   
-
-OpenAlex: https://openalex.org/W4404633846    
-Open access: False
-    
-[Manan Guragain](https://openalex.org/A5016963397), [Alankar Kafle](https://openalex.org/A5053424679), [Qasim Adesope](https://openalex.org/A5089967637), [Mohammad K. Altafi](https://openalex.org/A5100279848), [Stella C. Amagbor](https://openalex.org/A5100279849), [V. V. Mesilov](https://openalex.org/A5022773093), [Jeffry A. Kelber](https://openalex.org/A5007169587), [Thomas R. Cundari](https://openalex.org/A5030200062), [Francis D’Souza](https://openalex.org/A5062868414), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05730.
-    
-Nitrate ion is a common pollutant in surface and groundwater. Hence, its catalytic conversion into ammonia at ambient conditions by electrochemical and photoelectrochemical pathways is an attractive alternative to current ammonia production from the energy-intensive and high-carbon-featuring Haber-Bosch process. As such, developing highly active and product-selective catalysts with good durability and cost-effectiveness is highly desired. In this work, exfoliated MoS2-x is reported as a highly active and selective electrocatalyst and a photoelectrocatalyst for nitrate reduction to ammonia. Exfoliation via the acid treatment of bulk MoS2 results in exfoliated MoS2-x, which is only a few layers thick and has a high degree of sulfur vacancies (ca. 12−13%). Electrochemical studies and electrolysis product analysis reveal promising nitrate reduction activity, which is found to be highly enhanced by the application of visible light illumination. The exfoliated MoS2-x achieves a Faradaic efficiency of 69% with an ammonia yield rate of 5.56 mmol gcat–1 h–1 in the absence of a light source, which is enhanced to 80% with an ammonia yield of 7.48 mmol gcat–1 h–1 upon visible light illumination. DFT calculations support the binding of nitrate and other NOx species to the sulfur vacancies, resulting in the formation of *N, which is then reduced to ammonia.    
-
-    
-
-## Artificially Created UDP-Glucose 2-Epimerase Enables Concise UDP/GDP-Mannose Production via the Synthase–Epimerase Route   
-
-OpenAlex: https://openalex.org/W4404637444    
-Open access: False
-    
-[Zhongbao Ma](https://openalex.org/A5100951735), [Liting Zhao](https://openalex.org/A5110530600), [Qiong Wang](https://openalex.org/A5100417382), [Yu Shen](https://openalex.org/A5070308560), [Mengmeng Xu](https://openalex.org/A5061322206), [Lei Chen](https://openalex.org/A5100333458), [Guiyang Shi](https://openalex.org/A5034246486), [Zhongyang Ding](https://openalex.org/A5001229547), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06698.
-    
-Uridine/guanosine diphosphate-mannose (UDP/GDP-Man) is the major mannosyl donor in producing mannose-containing oligo/polysaccharides. Its acquisition is greatly limited by its complex and costly synthetic process, which requires multiple substrates and enzymes. The natural UDP/GDP-glucose 2-epimerase functioning C2 epimerization between UDP/GDP-Glc and UDP/GDP-Man remains unreported which is the main hurdle to realize concise production of UDP/GDP-Man. Here, the UDP-glucose 2-epimerase (Glc2E), which behaves like a naturally evolved enzyme, is created and exhibits high-efficient catalysis in producing UDP-Man. Multidimensional engineering, including redesigning the nucleobase recognition region, displacement of the substrate tunnel entrance, and expansion of space for sugar ring rotation, is employed to develop Glc2E from CDP-tyvelose 2-epimerase. Glc2E converts 55.63% of UDP-Glc to UDP-Man, a trace value for the initial enzyme, stTyvE, and its aptitude for GDP-Glc epimerization evolves from unobserved activity to 23.94% conversion. Coupling sucrose synthase with Glc2E achieves the theoretical synthase–epimerase route for UDP/GDP-Man production from inexpensive sucrose. The space-time-yield of UDP-Man is maximized to 8.05 g/L/h within 2.5 h, with a final titer of 22.54 g/L, demonstrating competitive application potential. Moreover, the GDP-Man is synthesized successfully at a titer of 3.49 g/L. Our work inspires the enzyme engineering for epimerases and glycosyltransferases that catalyze nucleotide sugars. The application of Glc2E in the synthase–epimerase route unlocks a concise and feasible synthetic approach for producing cost-competitive mannosyl donors.    
-
-    
-
-## Strategies for Designing Advanced Transition Metal-Based Electrocatalysts for Alkaline Water/Seawater Splitting at Ampere-Level Current Densities   
-
-OpenAlex: https://openalex.org/W4404639546    
-Open access: False
-    
-[Xian Zhang](https://openalex.org/A5100438872), [Ziteng Zuo](https://openalex.org/A5068671808), [Chengzhu Liao](https://openalex.org/A5077747966), [Feifei Jia](https://openalex.org/A5084555852), [Chun Cheng](https://openalex.org/A5080674562), [Zhiguang Guo](https://openalex.org/A5102137665), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06509.
-    
-No abstract    
-
-    
-
-## Shapeshifting Ligands Mask Lewis Acidity of Dicationic Palladium(II)   
-
-OpenAlex: https://openalex.org/W4404639741    
-Open access: False
-    
-[Karli Sipps](https://openalex.org/A5049613175), [Wyatt Gibbs](https://openalex.org/A5113143672), [Elvira R. Sayfutyarova](https://openalex.org/A5064263858), [Jonathan L. Kuo](https://openalex.org/A5001390883), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06539.
-    
-Supporting ligands limit the degree of electrophilic activation for any substrate because they also reduce the Lewis acidity of the transition metal ion. Here, we temporarily mask the Lewis acidity of dicationic Pd(II) by using "shapeshifting" bidentate pyrimidine/olefin ligands L1 and L2. These ligands delocalize/relocalize charge via reversible C–N bond formation. So, although ligated dicationic Pd compounds [1]2+ and [2]2+ appear charge separated (distributed across Pd and ligand), they react comparably to a solvated Pd(II) dication. Despite reacting like strong Lewis acids, the complexes are tolerant of polar functional groups (Lewis bases that often inhibit electrophilic catalysis). We propose that this property originates from the installation of a more nucleophilic (charge separated) state. This case study suggests that catalysts featuring reversible dynamics can be advantageous relative to their structurally static counterparts.    
-
-    
-
-## Comparison of Low Temperature Methanol Aqueous Phase Reforming Catalysts─Definition of Standardized Reaction Conditions and Considerations toward Applications   
-
-OpenAlex: https://openalex.org/W4404644315    
-Open access: True
-    
-[H. KEMPF](https://openalex.org/A5004595589), [Henrik Junge](https://openalex.org/A5007038220), [Matthias Beller](https://openalex.org/A5005182277), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05489 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05489?ref=article_openPDF)).
-    
-A comparison of state-of-the-art catalysts for low temperature aqueous phase reforming (APR) of methanol is presented. To facilitate future applications, catalyst tests under two standardized sets of reaction conditions are proposed.    
-
-    
-
-## Fine Ru-Ru2P Heterostructure Enables Highly Active and Selective CO2 Hydrogenation to CO   
-
-OpenAlex: https://openalex.org/W4404645067    
-Open access: False
-    
-[Shidong Bao](https://openalex.org/A5071314714), [Lanqing Yang](https://openalex.org/A5100985710), [Heyun Fu](https://openalex.org/A5022382869), [Xiaolei Qu](https://openalex.org/A5054639150), [Shourong Zheng](https://openalex.org/A5088022479), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05369.
-    
-No abstract    
-
-    
-
-## Understanding the Role of the Surface Acidity of MFI Zeolites during LDPE Cracking: Decomposition Temperature and Product Distribution   
-
-OpenAlex: https://openalex.org/W4404645079    
-Open access: False
-    
-[Soshi Tsubota](https://openalex.org/A5110996826), [Shinya Kokuryo](https://openalex.org/A5048171931), [Koji Miyake](https://openalex.org/A5015714653), [Yoshiaki Uchida](https://openalex.org/A5034128142), [Atsushi Mizusawa](https://openalex.org/A5017875070), [Tadashi Kubo](https://openalex.org/A5071666227), [Norikazu Nishiyama](https://openalex.org/A5109491127), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06190.
-    
-No abstract    
-
-    
-
-## Anionic Surfactant-Tuned Interfacial Water Reactivity Promoting Electrocatalytic CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4404646427    
-Open access: False
-    
-[Wangxin Ge](https://openalex.org/A5065419997), [Yihua Zhu](https://openalex.org/A5067580654), [Haiyan Wang](https://openalex.org/A5100354474), [Hongliang Jiang](https://openalex.org/A5087914705), [Chunzhong Li](https://openalex.org/A5009144836), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05541.
-    
-The effects of the electrical double layer (EDL), which pertain to the compositions and interactions among electrolyte species, significantly impact the catalytic process. There is a pressing need to investigate the role of electrolyte components and to deepen our understanding of EDL effects. In this study, we tune the water activity within a range of anionic surfactants featuring different functional groups to adjust H2 evolution activity and CO2 reduction selectivity. We demonstrate that these anionic surfactants are active in the local reaction environment under a cathodic potential. The enhanced selectivity of CO2 to CO can be attributed to the robust interfacial hydrogen-bonding network reformed by the anionic surfactants. This network diminishes the water dissociation activity and promotes the hydrogenation step in CO2 reduction. Notably, the electrolyte incorporating anionic surfactants improves the CO2 reduction performance, registering CO Faradaic efficiencies of 89.7% (RSO3–, SDS), 97.5% (RSO4–, SLS), 98.4% (RPO42–, SMP), and 98.9% (RCOO–, SL) at −1.2 V versus RHE, thereby outperforming the blank KHCO3 electrolyte (53.1%). This research underscores the crucial influence of anionic additives in the CO2RR.    
-
-    
 
 ## C–H Activation and Sequential Addition to Dienes and Imines: Synthesis of Amines with β-Quaternary Centers and Mechanistic Studies on the Complex Interplay Between the Catalyst and Three Reactants   
 
@@ -265,6 +144,50 @@ OpenAlex: https://openalex.org/W4404799850
 Open access: False
     
 [Peifeng Li](https://openalex.org/A5004242502), [Biaobiao Zhang](https://openalex.org/A5058707346), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05235.
+    
+No abstract    
+
+    
+
+## Effectively Regulating Electrooxidation of Formic Acid over Bimetallic PtCo Alloys via the Integration of Theory and Experiment   
+
+OpenAlex: https://openalex.org/W4404831841    
+Open access: False
+    
+[Zhikeng Zheng](https://openalex.org/A5089966981), [Bin Liu](https://openalex.org/A5107948717), [Jiaxiang Qiu](https://openalex.org/A5087450897), [Shaojun Xu](https://openalex.org/A5025279061), [Yuchen Wang](https://openalex.org/A5108137949), [Man Zhang](https://openalex.org/A5100353061), [Ke Li](https://openalex.org/A5100343468), [Zhongti Sun](https://openalex.org/A5049586106), [Ziang Li](https://openalex.org/A5100728531), [Yangyang Wan](https://openalex.org/A5060400342), [C. Richard A. Catlow](https://openalex.org/A5042572313), [Kai Yan](https://openalex.org/A5063084241), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06198.
+    
+No abstract    
+
+    
+
+## Kinetic Analysis of Cyclization by the Substrate-Tolerant Lanthipeptide Synthetase ProcM   
+
+OpenAlex: https://openalex.org/W4404834790    
+Open access: False
+    
+[Emily K. Desormeaux](https://openalex.org/A5021271255), [Garrett J. Barksdale](https://openalex.org/A5114876563), [Wilfred A. van der Donk](https://openalex.org/A5067523147), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06216.
+    
+No abstract    
+
+    
+
+## Comprehensive Investigations of MUC1 O-Glycosylation Process Reveal Initial Site Preference by the Polypeptide GalNAc Transferases   
+
+OpenAlex: https://openalex.org/W4404843611    
+Open access: False
+    
+[Han Zhang](https://openalex.org/A5100399297), [Kaiyuan Song](https://openalex.org/A5077812141), [Yihan Liu](https://openalex.org/A5104337377), [Fang Yang](https://openalex.org/A5102905625), [Congcong Lu](https://openalex.org/A5040806192), [Rumeng Wei](https://openalex.org/A5113300033), [Zhijue Xu](https://openalex.org/A5024972473), [Xia Zou](https://openalex.org/A5008414706), [Liang Lin](https://openalex.org/A5075529271), [Ting Shi](https://openalex.org/A5108406881), [Lin‐Tai Da](https://openalex.org/A5075688047), [Yan Zhang](https://openalex.org/A5100456242), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05719.
+    
+No abstract    
+
+    
+
+## Tailoring Surface and Penetrating Carbon in Fe-Based Catalysts to Balance the Activity and Stability of Fischer–Tropsch Synthesis   
+
+OpenAlex: https://openalex.org/W4404857137    
+Open access: False
+    
+[Xiaoxue Han](https://openalex.org/A5091368247), [Shouying Huang](https://openalex.org/A5075318509), [Chongyang Wei](https://openalex.org/A5012547244), [Haoting Liang](https://openalex.org/A5016211182), [Jing Lv](https://openalex.org/A5101730489), [Yue Wang](https://openalex.org/A5065841119), [Mei‐Yan Wang](https://openalex.org/A5041578170), [Yong Wang](https://openalex.org/A5038325575), [Xinbin Ma](https://openalex.org/A5100689682), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06014.
     
 No abstract    
 

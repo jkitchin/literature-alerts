@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Nov 2024 01:24:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 01:46:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Pouya Hosseini, Andr&#233;s Rodr&#237;guez&#8208;Camargo, Yiqun Jiang, Shouxin Zhang, Christina Scheu, Liang Yao, Bettina V. Lotsch, Kristina Tschulik</author>
       <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202413555</guid>
+    </item>
+    <item>
+      <title>Brush-Like Hollow PtTe&lt;sub&gt;2&lt;/sub&gt; Nanotube for Enhanced Formic Acid Electrooxidation Catalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c05900</link>
+      <description>Qiaorong Jiang, Zhiyi Wang, Zhigang Huang, Xuyuan Nie, Delun Chen, Xiao Han, Wei Yan, Hu Yang, Xianmeng Song, Haixin Lin, Zi&#8208;Ang Nan, Zhaoxiong Xie, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404862958
+
+                No abstract</description>
+      <author>Qiaorong Jiang, Zhiyi Wang, Zhigang Huang, Xuyuan Nie, Delun Chen, Xiao Han, Wei Yan, Hu Yang, Xianmeng Song, Haixin Lin, Zi&#8208;Ang Nan, Zhaoxiong Xie</author>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05900</guid>
     </item>
   </channel>
 </rss>

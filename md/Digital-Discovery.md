@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Sat Nov 30 01:24:22 2024
+Created on Sun Dec  1 01:47:00 2024
 
-Found 4 results from 2024-11-23 to 2024-11-30
+Found 6 results from 2024-11-24 to 2024-12-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Data-driven analysis of text-mined seed-mediated syntheses of gold nanoparticles   
-
-OpenAlex: https://openalex.org/W4404639435    
-Open access: True
-    
-[Sanghoon Lee](https://openalex.org/A5090458317), [Kevin Cruse](https://openalex.org/A5007868501), [Samuel P. Gleason](https://openalex.org/A5058996253), [A. Paul Alivisatos](https://openalex.org/A5051173286), [Gerbrand Ceder](https://openalex.org/A5014983956), [Anubhav Jain](https://openalex.org/A5003640520), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00158c.
-    
-Gold nanoparticle synthesis recipes were extracted from the literature to obtain data-driven hypotheses for synthesis outcome morphology and size. Used images from https://Flaticon.com.    
-
-    
 
 ## A Framework for Reviewing the Results of Automated Conversion of Structured Organic Synthesis Procedures from the Literature   
 
@@ -47,5 +36,38 @@ Open access: True
 [Brittany C. Haas](https://openalex.org/A5084383117), [Melissa A. Hardy](https://openalex.org/A5055591760), [S. V. Shree Sowndarya](https://openalex.org/A5108296236), [Keir Adams](https://openalex.org/A5063726750), [Connor W. Coley](https://openalex.org/A5076162644), [Robert S. Paton](https://openalex.org/A5056441542), [Matthew S. Sigman](https://openalex.org/A5005862481), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00284a.
     
 Data-driven reaction discovery and development is a growing field that relies on the use of molecular descriptors to capture key information about substrates, ligands, and targets. Broad adaptation of this...    
+
+    
+
+## Graph Neural Network-State Predictive Information Bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics   
+
+OpenAlex: https://openalex.org/W4404818721    
+Open access: True
+    
+[Ziyue Zou](https://openalex.org/A5017830766), [Dedi Wang](https://openalex.org/A5074284831), [Pratyush Tiwary](https://openalex.org/A5070740163), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00315b.
+    
+Molecular dynamics simulations offer detailed insights into atomic motions but face timescale limitations. Enhanced sampling methods have addressed these challenges but even with machine learning, they often rely on pre-selected...    
+
+    
+
+## CopDDB: a descriptor database for copolymers and its applications to machine learning   
+
+OpenAlex: https://openalex.org/W4404823970    
+Open access: True
+    
+[Takayoshi Yoshimura](https://openalex.org/A5089729015), [Hiromoto Kato](https://openalex.org/A5104163161), [Shunto Oikawa](https://openalex.org/A5113640380), [T. Inagaki](https://openalex.org/A5053410744), [Shigehito Asano](https://openalex.org/A5064406771), [Tetsunori Sugawara](https://openalex.org/A5061270893), [Tomoyuki Miyao](https://openalex.org/A5007145690), [Takamitsu Matsubara](https://openalex.org/A5042074952), [Hiroharu Ajiro](https://openalex.org/A5051357022), [Mikiya Fujii](https://openalex.org/A5101491784), [Yu‐ya Ohnishi](https://openalex.org/A5053454625), [Miho Hatanaka](https://openalex.org/A5004626824), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00266k.
+    
+Polymer informatics, which involves applying data-driven science to polymers, has attracted considerable research interest. However, developing adequate descriptors for polymers, particularly copolymers, to facilitate machine learning (ML) models with limited...    
+
+    
+
+## PolyCL: Contrastive Learning for Polymer Representation Learning via Explicit and Implicit Augmentations   
+
+OpenAlex: https://openalex.org/W4404830438    
+Open access: True
+    
+[Jiajun Zhou](https://openalex.org/A5054834430), [Yijie Yang](https://openalex.org/A5110975187), [Austin M. Mroz](https://openalex.org/A5000408874), [Kim E. Jelfs](https://openalex.org/A5056792018), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00236a.
+    
+Polymers play a crucial role in a wide array of applications due to their diverse and tunable properties. Establishing the relationship between polymer representations and their properties is crucial to...    
 
     
