@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Dec 2024 01:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 01:37:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>C&#8211;H Activation and Sequential Addition to Dienes and Imines: Synthesis of Amines with &#946;-Quaternary Centers and Mechanistic Studies on the Complex Interplay Between the Catalyst and Three Reactants</title>
-      <link>https://doi.org/10.1021/acscatal.4c05866</link>
-      <description>Ramsey M. Goodner, Daniel S. Brandes, Gabriel N. Morais, Tao Qin, Joseph P. Tassone, Brandon Q. Mercado, Shuming Chen, Jonathan A. Ellman, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404650722
-
-                No abstract</description>
-      <author>Ramsey M. Goodner, Daniel S. Brandes, Gabriel N. Morais, Tao Qin, Joseph P. Tassone, Brandon Q. Mercado, Shuming Chen, Jonathan A. Ellman</author>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05866</guid>
-    </item>
     <item>
       <title>Halloysite Clay Nanotubes for Catalytic Conversion of Biomass: Synergy between Computational Modeling and Experimental Studies</title>
       <link>https://doi.org/10.1021/acscatal.4c05907</link>
@@ -176,6 +166,16 @@
       <author>Xiaoxue Han, Shouying Huang, Chongyang Wei, Haoting Liang, Jing Lv, Yue Wang, Mei&#8208;Yan Wang, Yong Wang, Xinbin Ma</author>
       <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06014</guid>
+    </item>
+    <item>
+      <title>Enantioselective Transformation of Hydrazones via Remote NHC Catalysis: Activation Across C&#9552;N and N&#8211;N Bonds</title>
+      <link>https://doi.org/10.1021/acscatal.4c06029</link>
+      <description>Jiamiao Jin, Ya Lv, Wenli Tang, Kunpeng Teng, Yixian Huang, Jingxin Ding, Tingting Li, Guanjie Wang, Yonggui Robin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404877553
+
+                The catalytic asymmetric transformation of nitrogen atoms to prepare heterocyclic molecules is of significant value in organic synthesis and biological applications. Here, we disclose the activation of the nitrogen atom in hydrazine-derived hydrazone via an N-heterocyclic carbene (NHC) organic catalyst for highly enantioselective formal cycloaddition reactions. The range of NHC catalysis extends across several (carbon and hetero) atoms and diverse chemical bonds (C&#9552;N and N&#8211;N bonds) to activate nitrogen atoms at remote sites with excellent reactivity and (stereo)selectivity control. Our strategy for nitrogen atom activation, along with the NHC-bound diaza-diene intermediate generated during the catalytic process, offers alternative solutions for organic synthesis.</description>
+      <author>Jiamiao Jin, Ya Lv, Wenli Tang, Kunpeng Teng, Yixian Huang, Jingxin Ding, Tingting Li, Guanjie Wang, Yonggui Robin</author>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06029</guid>
     </item>
   </channel>
 </rss>

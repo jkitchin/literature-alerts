@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Dec  1 01:46:57 2024
+Created on Mon Dec  2 01:37:07 2024
 
-Found 17 results from 2024-11-24 to 2024-12-01
+Found 17 results from 2024-11-25 to 2024-12-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* C–H Activation and Sequential Addition to Dienes and Imines: Synthesis of Amines with β-Quaternary Centers and Mechanistic Studies on the Complex Interplay Between the Catalyst and Three Reactants  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404650722
-:TOPICS: Transition-Metal-Catalyzed C–H Bond Functionalization, Homogeneous Catalysis with Transition Metals, Catalytic C-H Amination Reactions
-:PUBLICATION_DATE: 2024-11-22
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05866")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404650722"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404650722"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404650722"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404650722 (Open access: False)
-    
-[[https://openalex.org/A5114761851][Ramsey M. Goodner]], [[https://openalex.org/A5055983740][Daniel S. Brandes]], [[https://openalex.org/A5093463348][Gabriel N. Morais]], [[https://openalex.org/A5102803349][Tao Qin]], [[https://openalex.org/A5083889671][Joseph P. Tassone]], [[https://openalex.org/A5038732109][Brandon Q. Mercado]], [[https://openalex.org/A5100644316][Shuming Chen]], [[https://openalex.org/A5012406363][Jonathan A. Ellman]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05866 
-     
-No abstract    
-
-    
 
 * Halloysite Clay Nanotubes for Catalytic Conversion of Biomass: Synergy between Computational Modeling and Experimental Studies  :ACS_Catalysis:
 :PROPERTIES:
@@ -360,5 +339,26 @@ OpenAlex: https://openalex.org/W4404857137 (Open access: False)
 [[https://openalex.org/A5091368247][Xiaoxue Han]], [[https://openalex.org/A5075318509][Shouying Huang]], [[https://openalex.org/A5012547244][Chongyang Wei]], [[https://openalex.org/A5016211182][Haoting Liang]], [[https://openalex.org/A5101730489][Jing Lv]], [[https://openalex.org/A5065841119][Yue Wang]], [[https://openalex.org/A5041578170][Mei‐Yan Wang]], [[https://openalex.org/A5038325575][Yong Wang]], [[https://openalex.org/A5100689682][Xinbin Ma]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06014 
      
 No abstract    
+
+    
+
+* Enantioselective Transformation of Hydrazones via Remote NHC Catalysis: Activation Across C═N and N–N Bonds  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404877553
+:TOPICS: N-Heterocyclic Carbenes in Catalysis and Materials Chemistry, Transition Metal-Catalyzed Cross-Coupling Reactions, Transition-Metal-Catalyzed C–H Bond Functionalization
+:PUBLICATION_DATE: 2024-11-30
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06029")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404877553"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404877553"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404877553"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404877553 (Open access: False)
+    
+[[https://openalex.org/A5008560620][Jiamiao Jin]], [[https://openalex.org/A5110163098][Ya Lv]], [[https://openalex.org/A5071961275][Wenli Tang]], [[https://openalex.org/A5070239905][Kunpeng Teng]], [[https://openalex.org/A5102115055][Yixian Huang]], [[https://openalex.org/A5101073339][Jingxin Ding]], [[https://openalex.org/A5100416500][Tingting Li]], [[https://openalex.org/A5101487052][Guanjie Wang]], [[https://openalex.org/A5056403313][Yonggui Robin]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06029 
+     
+The catalytic asymmetric transformation of nitrogen atoms to prepare heterocyclic molecules is of significant value in organic synthesis and biological applications. Here, we disclose the activation of the nitrogen atom in hydrazine-derived hydrazone via an N-heterocyclic carbene (NHC) organic catalyst for highly enantioselective formal cycloaddition reactions. The range of NHC catalysis extends across several (carbon and hetero) atoms and diverse chemical bonds (C═N and N–N bonds) to activate nitrogen atoms at remote sites with excellent reactivity and (stereo)selectivity control. Our strategy for nitrogen atom activation, along with the NHC-bound diaza-diene intermediate generated during the catalytic process, offers alternative solutions for organic synthesis.    
 
     

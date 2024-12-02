@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Dec  1 01:46:57 2024
+Created on Mon Dec  2 01:37:07 2024
 
-Found 17 results from 2024-11-24 to 2024-12-01
+Found 17 results from 2024-11-25 to 2024-12-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## C–H Activation and Sequential Addition to Dienes and Imines: Synthesis of Amines with β-Quaternary Centers and Mechanistic Studies on the Complex Interplay Between the Catalyst and Three Reactants   
-
-OpenAlex: https://openalex.org/W4404650722    
-Open access: False
-    
-[Ramsey M. Goodner](https://openalex.org/A5114761851), [Daniel S. Brandes](https://openalex.org/A5055983740), [Gabriel N. Morais](https://openalex.org/A5093463348), [Tao Qin](https://openalex.org/A5102803349), [Joseph P. Tassone](https://openalex.org/A5083889671), [Brandon Q. Mercado](https://openalex.org/A5038732109), [Shuming Chen](https://openalex.org/A5100644316), [Jonathan A. Ellman](https://openalex.org/A5012406363), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05866.
-    
-No abstract    
-
-    
 
 ## Halloysite Clay Nanotubes for Catalytic Conversion of Biomass: Synergy between Computational Modeling and Experimental Studies   
 
@@ -190,5 +179,16 @@ Open access: False
 [Xiaoxue Han](https://openalex.org/A5091368247), [Shouying Huang](https://openalex.org/A5075318509), [Chongyang Wei](https://openalex.org/A5012547244), [Haoting Liang](https://openalex.org/A5016211182), [Jing Lv](https://openalex.org/A5101730489), [Yue Wang](https://openalex.org/A5065841119), [Mei‐Yan Wang](https://openalex.org/A5041578170), [Yong Wang](https://openalex.org/A5038325575), [Xinbin Ma](https://openalex.org/A5100689682), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06014.
     
 No abstract    
+
+    
+
+## Enantioselective Transformation of Hydrazones via Remote NHC Catalysis: Activation Across C═N and N–N Bonds   
+
+OpenAlex: https://openalex.org/W4404877553    
+Open access: False
+    
+[Jiamiao Jin](https://openalex.org/A5008560620), [Ya Lv](https://openalex.org/A5110163098), [Wenli Tang](https://openalex.org/A5071961275), [Kunpeng Teng](https://openalex.org/A5070239905), [Yixian Huang](https://openalex.org/A5102115055), [Jingxin Ding](https://openalex.org/A5101073339), [Tingting Li](https://openalex.org/A5100416500), [Guanjie Wang](https://openalex.org/A5101487052), [Yonggui Robin](https://openalex.org/A5056403313), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06029.
+    
+The catalytic asymmetric transformation of nitrogen atoms to prepare heterocyclic molecules is of significant value in organic synthesis and biological applications. Here, we disclose the activation of the nitrogen atom in hydrazine-derived hydrazone via an N-heterocyclic carbene (NHC) organic catalyst for highly enantioselective formal cycloaddition reactions. The range of NHC catalysis extends across several (carbon and hetero) atoms and diverse chemical bonds (C═N and N–N bonds) to activate nitrogen atoms at remote sites with excellent reactivity and (stereo)selectivity control. Our strategy for nitrogen atom activation, along with the NHC-bound diaza-diene intermediate generated during the catalytic process, offers alternative solutions for organic synthesis.    
 
     

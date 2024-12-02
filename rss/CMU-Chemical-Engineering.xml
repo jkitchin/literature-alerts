@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Dec 2024 01:46:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 01:37:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Designing Operationally Flexible Diafiltration Membrane Systems for Critical Mineral Separations</title>
-      <link>https://doi.org/10.2172/2477929</link>
-      <description>Jason Yao, Molly Dougher, Andrew Lee, Alexander W. Dowling, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4404652142
-
-                No abstract</description>
-      <author>Jason Yao, Molly Dougher, Andrew Lee, Alexander W. Dowling, Chrysanthos E. Gounaris</author>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2477929</guid>
-    </item>
     <item>
       <title>Decomposition and Algorithmic Approaches for Solving Large-Scale Process Family Design Problems</title>
       <link>https://doi.org/10.2172/2477797</link>

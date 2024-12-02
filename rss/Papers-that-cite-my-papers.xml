@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Dec 2024 01:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 01:37:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrocatalysis beyond the Reversible Hydrogen Electrode</title>
-      <link>https://doi.org/10.1016/j.coelec.2024.101611</link>
-      <description>Dipam Manish Patel, Anjana Tripathi, Vivianne K. Ocampo-Restrepo, Georg Kastlunger, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4404651800
-
-                No abstract</description>
-      <author>Dipam Manish Patel, Anjana Tripathi, Vivianne K. Ocampo-Restrepo, Georg Kastlunger</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101611</guid>
-    </item>
-    <item>
-      <title>Enhancing effects of edge-N in Pt-based carbon support on hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105499</link>
-      <description>Xianyou Luo, Bokai Cao, Muhammad Fayaz, Wende Lai, Baodong Du, Heng Zheng, Xunhui Xiong, Yong Chen, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4404653390
-
-                No abstract</description>
-      <author>Xianyou Luo, Bokai Cao, Muhammad Fayaz, Wende Lai, Baodong Du, Heng Zheng, Xunhui Xiong, Yong Chen</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105499</guid>
-    </item>
-    <item>
-      <title>Using CrN4 Moiety to Weaken the Dissociation Barrier of Hydroxyl on Adjacent Single Iron Atom for Efficient Oxygen Reduction</title>
-      <link>https://doi.org/10.1016/j.ensm.2024.103927</link>
-      <description>Li-Lian Wang, Lei Zhu, Xinyu Zhao, Hang Ma, Bingjie Pang, Lingyan Duan, Kun Zeng, Lu Liu, Anran Chen, Hong Guo, Energy storage materials. None(None)] 2024. https://openalex.org/W4404655119
-
-                No abstract</description>
-      <author>Li-Lian Wang, Lei Zhu, Xinyu Zhao, Hang Ma, Bingjie Pang, Lingyan Duan, Kun Zeng, Lu Liu, Anran Chen, Hong Guo</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2024.103927</guid>
-    </item>
-    <item>
-      <title>Dynamically Reconstructed Fe&#8208;CoOOH Semi&#8208;Crystalline Electrocatalyst for Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/smll.202408854</link>
-      <description>Abdul Qayum, Karim Harrath, Rui Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao, Small. None(None)] 2024. https://openalex.org/W4404657010
-
-                Abstract The development of robust and efficient electrocatalysts for the oxygen evolution reaction (OER) has been the main focus of water electrolysis but remains a great challenge. Here, the synthesis of a highly active and ultra&#8208;stable Fe&#8208;CoOOH electrocatalyst is reported by steering raw cobalt foam via an in situ solution combustion method assisted by a galvanic replacement reaction and subsequent electrochemical reconstruction of the CoFeO x pre&#8208;catalyst. In/ ex situ electrochemical analysis and physicochemical characterizations show that the CoFeO x undergoes quick chemical and slow morphological reconstruction to Fe&#8208;CoOOH nanosheets. The Fe&#8208;CoOOH possesses a semi&#8208;crystalline nature with distinct short&#8208;range ordering and outstanding OER activity with overpotentials as low as 271 and 291 mV at current densities of 500 and 1,000 mA cm &#8722;2 , respectively. The remarkable stability under 1,000 mA cm &#8722;2 for at least 700 h is achieved. Theoretical calculations confirm the crucial role of Fe doping in facilitating surface reconstruction, enhancing OER activity, and improving the stability of the Fe&#8208;CoOOH. Comparative analysis with other transition metals doping reveals the unique ability of Fe to adsorb onto the CoOOH surface, thereby modulating the electronic density and facilitating faster adsorption of reaction intermediates. This work represents valuable insights into the surface reconstruction and doping processes.</description>
-      <author>Abdul Qayum, Karim Harrath, Rui Li, Abebe Reda Woldu, Paul K. Chu, Liangsheng Hu, Fushen Lu, Xiangdong Yao</author>
-      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408854</guid>
-    </item>
-    <item>
-      <title>The effects of biaxial strain and sulfur/boron doping on the photocatalytic performance of the g-C3N5 system: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.commatsci.2024.113560</link>
-      <description>Yongde Yao, Fujian Tang, Shangtong Yang, Computational Materials Science. 247(None)] 2024. https://openalex.org/W4404657649
-
-                No abstract</description>
-      <author>Yongde Yao, Fujian Tang, Shangtong Yang</author>
-      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.113560</guid>
-    </item>
-    <item>
-      <title>Design of Ni-coordinated MOF on stainless steel via electrodeposition as efficient and stable oxygen evolution electrode for alkaline water electrolysis</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145416</link>
-      <description>Valentina Maria Volanti, Andrea Zaffora, Leonardo Iannucci, Sabrina Grassini, Elisabetta Inico, Clara Saetta, Giovanni Di Liberto, Monica Santamaria, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4404657854
-
-                No abstract</description>
-      <author>Valentina Maria Volanti, Andrea Zaffora, Leonardo Iannucci, Sabrina Grassini, Elisabetta Inico, Clara Saetta, Giovanni Di Liberto, Monica Santamaria</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145416</guid>
-    </item>
     <item>
       <title>Electrochemical behavior of LiNiCo oxide cathodes as catalyst for lithium-air batteries</title>
       <link>https://doi.org/10.1007/s10008-024-06149-1</link>
@@ -472,7 +412,7 @@
       <link>https://doi.org/10.1038/s41467-024-54796-9</link>
       <description>Shuai Xu, Jiarui Yang, Peixian Su, Li Wang, Xiaowei Yang, Zhaohui Zhou, Yuliang Li, Nature Communications. 15(1)] 2024. https://openalex.org/W4404849149
 
-                No abstract</description>
+                Hematite is a well-known catalyst for the oxygen evolution reaction on photoanodes in photoelectrochemical water-splitting cells. However, the knowledge of hematite-water interfaces and water oxidation mechanisms is still lacking, which limits improvements in photoelectrochemical water-splitting performance. Herein, we use the Fe-terminated hematite (0001) surface as a model and propose a comprehensive mechanism for the oxygen evolution reaction on both non-solvated and solvated surfaces. Key reaction intermediates are identified through ab initio molecular dynamics simulations at the density functional theory level with a Hubbard U correction. Several notable intermediates are proposed, and the effects of water solvent on these intermediates and the overall reaction mechanisms are suggested. The proposed mechanisms align well with experimental observations under photoelectrochemical water oxidation conditions. Additionally, we highlight the potential role of O2 desorption in the oxygen evolution reaction on hematite, as O2 adsorption may block reaction sites and increases surface hydrophobicity, leading to an unfavorable pathway for oxygen evolution. Hematite is a promising material for photoelectrochemical water splitting, but its mechanisms are not well understood. Here, the authors report a detailed mechanism, identifying key reaction intermediates and highlighting the influence of solvent water and oxygen desorption on the reaction pathways.</description>
       <author>Shuai Xu, Jiarui Yang, Peixian Su, Li Wang, Xiaowei Yang, Zhaohui Zhou, Yuliang Li</author>
       <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54796-9</guid>
@@ -486,6 +426,56 @@
       <author>Bjarne Kreitz, Gabriel S. Gusm&#227;o, Dingqi Nai, Sushree Jagriti Sahoo, Andrew A. Peterson, David H. Bross, C. Franklin Goldsmith, Andrew J. Medford</author>
       <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4cs00768a</guid>
+    </item>
+    <item>
+      <title>Tailoring the electronic properties of TiO2 monolayers for solar driven catalysis through transition metal doping</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.115144</link>
+      <description>Kati Asikainen, M. Alatalo, Marko Huttula, S. Assa Aravindh, Catalysis Today. None(None)] 2024. https://openalex.org/W4404865146
+
+                No abstract</description>
+      <author>Kati Asikainen, M. Alatalo, Marko Huttula, S. Assa Aravindh</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115144</guid>
+    </item>
+    <item>
+      <title>Investigation on properties of CuI/InSe heterojunction with Z&#8211;alignment for photocatalytic water splitting</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2024.111142</link>
+      <description>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao, Materials Today Communications. None(None)] 2024. https://openalex.org/W4404871468
+
+                No abstract</description>
+      <author>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.111142</guid>
+    </item>
+    <item>
+      <title>Dual-function efficient hydrogen evolution reaction electrocatalyst and electrode material for supercapacitors based on ternary composite FeS2/Fe2O3/MoS2 nanostructures</title>
+      <link>https://doi.org/10.1016/j.mssp.2024.109124</link>
+      <description>Sumaiya Saleem, Muhammad Salman, Abdallah M. Elgorban, Hind A. AL-Shwaiman, Yihan Ling, Majid Khan, Materials Science in Semiconductor Processing. 187(None)] 2024. https://openalex.org/W4404875915
+
+                No abstract</description>
+      <author>Sumaiya Saleem, Muhammad Salman, Abdallah M. Elgorban, Hind A. AL-Shwaiman, Yihan Ling, Majid Khan</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.109124</guid>
+    </item>
+    <item>
+      <title>Regulating catalyst and ionomer interactions to promote oxygen transport in fuel cells</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124894</link>
+      <description>Wei Wang, Shilin Zhang, Hao Wang, E Sun, Yanrong Liu, Mingbo Wu, Di&#8208;Jia Liu, Zhongtao Li, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404876429
+
+                No abstract</description>
+      <author>Wei Wang, Shilin Zhang, Hao Wang, E Sun, Yanrong Liu, Mingbo Wu, Di&#8208;Jia Liu, Zhongtao Li</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124894</guid>
+    </item>
+    <item>
+      <title>A comprehensive review on the boosted effects of anion vacancy in the photocatalytic and photoelectrochemical water-splitting: Focus on oxygen vacancy</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101754</link>
+      <description>Mahdieh Rezaei, Alireza Nezamzadeh&#8208;Ejhieh, Ahmad Reza Massah, Materials Today Energy. None(None)] 2024. https://openalex.org/W4404877240
+
+                No abstract</description>
+      <author>Mahdieh Rezaei, Alireza Nezamzadeh&#8208;Ejhieh, Ahmad Reza Massah</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101754</guid>
     </item>
     <item>
       <title>Modeling and Comparative Analysis of CO&lt;sub&gt;2&lt;/sub&gt; Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems</title>

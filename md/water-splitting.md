@@ -1,143 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Dec  1 01:46:50 2024
+Created on Mon Dec  2 01:37:00 2024
 
-Found 121 results from 2024-11-24 to 2024-12-01
+Found 126 results from 2024-11-25 to 2024-12-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## O─O Radical Coupling in Ultrathin Reconstructed Co6.8Se8 Nanosheets for Effective Oxygen Evolution and Zinc‐Air Batteries   
-
-OpenAlex: https://openalex.org/W4404651304    
-Open access: False
-    
-[Chuansheng He](https://openalex.org/A5101366697), [Linlin Yang](https://openalex.org/A5090250478), [Chengyuan Dong](https://openalex.org/A5100319472), [Xiaohui Peng](https://openalex.org/A5026982666), [Yousef Ibraheem](https://openalex.org/A5114762297), [Oleg A. Usoltsev](https://openalex.org/A5004923425), [Laura Simonelli](https://openalex.org/A5018172983), [Ren He](https://openalex.org/A5102977301), [Andreu Cabot](https://openalex.org/A5059565749), [Yizhong Lu](https://openalex.org/A5052116879), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202419083.
-    
-Designing ultrathin transition metal electrocatalysts with optimal surface chemistry state is crucial for oxygen evolution reaction (OER). However, the structure‐dependent electrochemical performance and the underlying catalytic mechanisms are still not clearly distinguished. Herein, we synthesize ultrathin Co6.8Se8 nanosheets (NSs) with subnanometer thickness by incorporating catalytically inactive selenium (Se) into ultrathin Co(OH)2, thereby switching the OER reaction pathway from adsorbate evolution mechanism (AEM) to oxide path mechanism (OPM). The prepared ultrathin Co6.8Se8 NSs exhibit an overpotential of 253 mV at 10 mA/cm2, outperforming the mostly reported Co‐based electrocatalysts. Advanced operando synchrotron spectroscopies and X‐ray absorption spectroscopy reveal the ultrathin Co6.8Se8 NSs, whose surface is reconstructed into Se‐doped Co(OH)2 during the OER process, could trigger direct O*‐O* radical coupling rather than OOH* intermediates within AEM pathway thus lowering the energy input. Density functional theory calculations confirm that Co6.8Se8 NSs with shorter Co‐Co bond length and stable Co‐Se bond could optimize the rate‐determining step barrier via OPM pathway. Besides, rechargeable zinc‐air batteries based on Co6.8Se8 NSs exhibit excellent stability for more than 500 h of continuous charge‐discharge cycles at 4 mA/cm2. The present study highlights the structural‐dependent switch of OER pathways and provides valuable insights for further development of ultrathin OER catalysts.    
-
-    
-
-## O─O Radical Coupling in Ultrathin Reconstructed Co6.8Se8 Nanosheets for Effective Oxygen Evolution and Zinc‐Air Batteries   
-
-OpenAlex: https://openalex.org/W4404651398    
-Open access: False
-    
-[Chuansheng He](https://openalex.org/A5101366697), [Linlin Yang](https://openalex.org/A5090250478), [Chengyuan Dong](https://openalex.org/A5100319472), [Xiaohui Peng](https://openalex.org/A5026982666), [Yousef Ibraheem](https://openalex.org/A5114762297), [Oleg A. Usoltsev](https://openalex.org/A5004923425), [Laura Simonelli](https://openalex.org/A5018172983), [Ren He](https://openalex.org/A5102977301), [Andreu Cabot](https://openalex.org/A5059565749), [Yizhong Lu](https://openalex.org/A5052116879), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202419083.
-    
-Designing ultrathin transition metal electrocatalysts with optimal surface chemistry state is crucial for oxygen evolution reaction (OER). However, the structure‐dependent electrochemical performance and the underlying catalytic mechanisms are still not clearly distinguished. Herein, we synthesize ultrathin Co6.8Se8 nanosheets (NSs) with subnanometer thickness by incorporating catalytically inactive selenium (Se) into ultrathin Co(OH)2, thereby switching the OER reaction pathway from adsorbate evolution mechanism (AEM) to oxide path mechanism (OPM). The prepared ultrathin Co6.8Se8 NSs exhibit an overpotential of 253 mV at 10 mA/cm2, outperforming the mostly reported Co‐based electrocatalysts. Advanced operando synchrotron spectroscopies and X‐ray absorption spectroscopy reveal the ultrathin Co6.8Se8 NSs, whose surface is reconstructed into Se‐doped Co(OH)2 during the OER process, could trigger direct O*‐O* radical coupling rather than OOH* intermediates within AEM pathway thus lowering the energy input. Density functional theory calculations confirm that Co6.8Se8 NSs with shorter Co‐Co bond length and stable Co‐Se bond could optimize the rate‐determining step barrier via OPM pathway. Besides, rechargeable zinc‐air batteries based on Co6.8Se8 NSs exhibit excellent stability for more than 500 h of continuous charge‐discharge cycles at 4 mA/cm2. The present study highlights the structural‐dependent switch of OER pathways and provides valuable insights for further development of ultrathin OER catalysts.    
-
-    
-
-## CRADA: Development and Commercialization of a Nanosegrated Oxygen Evolution Reaction Electrocatalyst   
-
-OpenAlex: https://openalex.org/W4404652091    
-Open access: False
-    
-[Xiong Peng](https://openalex.org/A5014406317), No host. None(None)] 2024.https://doi.org/10.2172/2478157.
-    
-No abstract    
-
-    
-
-## Review for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"   
-
-OpenAlex: https://openalex.org/W4404653580    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta06051b/v1/review1.
-    
-No abstract    
-
-    
-
-## Decision letter for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"   
-
-OpenAlex: https://openalex.org/W4404653843    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta06051b/v1/decision1.
-    
-No abstract    
-
-    
-
-## Review for "High entropy spinel oxide (Ni0.2Co0.2Zn0.2Cu0.2Mg0.2)Fe2O4 nanofibers for efficient oxygen evolution reaction"   
-
-OpenAlex: https://openalex.org/W4404653928    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4ta06051b/v1/review2.
-    
-No abstract    
-
-    
-
-## Oxygen Vacancy Enriched and Cu Single-Atom Contained Covalent Organic Frameworks: A Competitive Photocatalyst to Promote Hydrogen Evolution under Visible Light   
-
-OpenAlex: https://openalex.org/W4404655150    
-Open access: False
-    
-[Zhishi Qiu](https://openalex.org/A5104209510), [Zhongge Luo](https://openalex.org/A5111004436), [Tong Zhou](https://openalex.org/A5055436613), [Baoye Zi](https://openalex.org/A5038768039), [Mingpeng Chen](https://openalex.org/A5029728198), [Rui Hu](https://openalex.org/A5060433714), [Tianping Lv](https://openalex.org/A5031401810), [Tianwei He](https://openalex.org/A5069490944), [Yu‐Xiang Ma](https://openalex.org/A5101700183), [Jin Zhang](https://openalex.org/A5100405954), [Hao Cui](https://openalex.org/A5059651484), [Jianhong Zhao](https://openalex.org/A5000181369), [Yumin Zhang](https://openalex.org/A5100423544), [Qingju Liu](https://openalex.org/A5074138677), Materials Today Energy. None(None)] 2024.https://doi.org/10.1016/j.mtener.2024.101750.
-    
-No abstract    
-
-    
-
-## Investigating the properties of perovskite oxide based electrocatalysts for oxygen evolution reaction (OER)   
-
-OpenAlex: https://openalex.org/W4404656161    
-Open access: False
-    
-[Areej S. Alqarni](https://openalex.org/A5024288062), [Arooj Fatima](https://openalex.org/A5103220496), [Abhinav Kumar](https://openalex.org/A5104259484), [A. Dahshan](https://openalex.org/A5072251343), Journal of Sol-Gel Science and Technology. None(None)] 2024.https://doi.org/10.1007/s10971-024-06616-1.
-    
-No abstract    
-
-    
-
-## Dynamically Reconstructed Fe‐CoOOH Semi‐Crystalline Electrocatalyst for Efficient Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4404657010    
-Open access: True
-    
-[Abdul Qayum](https://openalex.org/A5103280830), [Karim Harrath](https://openalex.org/A5086445869), [Rui Li](https://openalex.org/A5107905151), [Abebe Reda Woldu](https://openalex.org/A5084311563), [Paul K. Chu](https://openalex.org/A5082656873), [Liangsheng Hu](https://openalex.org/A5014924091), [Fushen Lu](https://openalex.org/A5006499989), [Xiangdong Yao](https://openalex.org/A5022148039), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408854 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202408854)).
-    
-Abstract The development of robust and efficient electrocatalysts for the oxygen evolution reaction (OER) has been the main focus of water electrolysis but remains a great challenge. Here, the synthesis of a highly active and ultra‐stable Fe‐CoOOH electrocatalyst is reported by steering raw cobalt foam via an in situ solution combustion method assisted by a galvanic replacement reaction and subsequent electrochemical reconstruction of the CoFeO x pre‐catalyst. In/ ex situ electrochemical analysis and physicochemical characterizations show that the CoFeO x undergoes quick chemical and slow morphological reconstruction to Fe‐CoOOH nanosheets. The Fe‐CoOOH possesses a semi‐crystalline nature with distinct short‐range ordering and outstanding OER activity with overpotentials as low as 271 and 291 mV at current densities of 500 and 1,000 mA cm −2 , respectively. The remarkable stability under 1,000 mA cm −2 for at least 700 h is achieved. Theoretical calculations confirm the crucial role of Fe doping in facilitating surface reconstruction, enhancing OER activity, and improving the stability of the Fe‐CoOOH. Comparative analysis with other transition metals doping reveals the unique ability of Fe to adsorb onto the CoOOH surface, thereby modulating the electronic density and facilitating faster adsorption of reaction intermediates. This work represents valuable insights into the surface reconstruction and doping processes.    
-
-    
-
-## Interplay Between Calcination Temperature and Alkaline Oxygen Evolution of Electrospun High‐Entropy (Cr1/5Mn1/5Fe1/5Co1/5Ni1/5)3O4 Nanofibers   
-
-OpenAlex: https://openalex.org/W4404657044    
-Open access: False
-    
-[Keti Vezzù](https://openalex.org/A5026503413), [Claudia Triolo](https://openalex.org/A5029064939), [Kaveh Moulaee](https://openalex.org/A5081610283), [Gioele Pagot](https://openalex.org/A5076172024), [Alessandro Ponti](https://openalex.org/A5006397280), [Nicola Pinna](https://openalex.org/A5055858825), [G. Neri](https://openalex.org/A5040381725), [S. Santangelo](https://openalex.org/A5048299135), [Vito Di Noto](https://openalex.org/A5013596615), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408319.
-    
-Abstract Spinel‐structured transition metal (TM) oxides have shown great potential as a sustainable alternative to platinum group metal‐based electrocatalysts. Among them, high‐entropy oxides (HEOs) with multiple TM‐cation sites are suitable for engineering octahedral redox‐active centers to enhance the catalyst reactivity. This paper reports on the preparation of electrospun (Cr 1/5 Mn 1/5 Fe 1/5 Co 1/5 Ni 1/5 ) 3 O 4 nanofibers (NFs) and their evaluation as electrocatalysts. Its main aim is to unveil the nanostructural features that play a key role in the alkaline oxygen evolution reaction. Differing calcination temperature (300−800 °C) and duration (2 or 4 h) leads to different morphology of the NFs, crystallinity of the oxide, density of defects, and cation distribution in the lattice, which reflect in different electrocatalytic behaviors. The best performance (overpotential and Tafel slope at 10 mA cm −2 : 325 mV and 40 mV dec −1 , respectively) pertains to the NFs calcined at 400 °C for 2 h. To gain a deeper understanding of their electrocatalytic properties, the pristine NFs are investigated by a combination of analytical techniques. In particular, broadband electric spectroscopy reveals that the mobility of oxygen vacancies in the best electrocatalyst is associated to very fast local dielectric relaxations of metal coordination octahedral geometries and experimentally demonstrates the key role of O‐deficient octahedra.    
-
-    
-
-## Domain-limited surface oxygen vacancy in rutile TiO2 for enhancing photocatalytic hydrogen evolution   
-
-OpenAlex: https://openalex.org/W4404657741    
-Open access: False
-    
-[Huazhang Feng](https://openalex.org/A5006335169), [Zhaohui Chen](https://openalex.org/A5100750366), [Cheng Lin](https://openalex.org/A5086433336), [Yan‐Ping Chen](https://openalex.org/A5100419632), [Jingyun Su](https://openalex.org/A5029778489), [Enna Ha](https://openalex.org/A5002570460), [Kan Zhang](https://openalex.org/A5100693847), [Luyang Wang](https://openalex.org/A5100777263), International Journal of Hydrogen Energy. 96(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.11.338.
-    
-No abstract    
-
-    
-
-## Design of Ni-coordinated MOF on stainless steel via electrodeposition as efficient and stable oxygen evolution electrode for alkaline water electrolysis   
-
-OpenAlex: https://openalex.org/W4404657854    
-Open access: True
-    
-[Valentina Maria Volanti](https://openalex.org/A5097501789), [Andrea Zaffora](https://openalex.org/A5075459460), [Leonardo Iannucci](https://openalex.org/A5045531363), [Sabrina Grassini](https://openalex.org/A5066038959), [Elisabetta Inico](https://openalex.org/A5096645279), [Clara Saetta](https://openalex.org/A5061443346), [Giovanni Di Liberto](https://openalex.org/A5087412983), [Monica Santamaria](https://openalex.org/A5040697360), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145416.
-    
-No abstract    
-
-    
 
 ## Ru0.1Mn0.9Ox Electrocatalyst for Durable Oxygen Evolution in Acid Seawater   
 
@@ -353,7 +221,7 @@ The severe catalyst corrosion caused by chlorides as well as industry-scale high
 OpenAlex: https://openalex.org/W4404710333    
 Open access: False
     
-[Zhixuan Han](https://openalex.org/A5040822642), [Yifu Zhang](https://openalex.org/A5100703815), [Tianming Lv](https://openalex.org/A5113792491), [Xianfang Tan](https://openalex.org/A5103467029), [Qiushi Wang](https://openalex.org/A5100411690), [Sheng Wang](https://openalex.org/A5100371335), [Changgong Meng](https://openalex.org/A5028379634), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.11.195.
+[Zhixuan Han](https://openalex.org/A5040822642), [Yifu Zhang](https://openalex.org/A5100703815), [Tianming Lv](https://openalex.org/A5113792491), [Xianfang Tan](https://openalex.org/A5103467029), [Qiushi Wang](https://openalex.org/A5100411690), [Sheng Wang](https://openalex.org/A5100371335), [Changgong Meng](https://openalex.org/A5028379634), Journal of Colloid and Interface Science. 682(None)] 2024.https://doi.org/10.1016/j.jcis.2024.11.195.
     
 No abstract    
 
@@ -793,7 +661,7 @@ Abstract The long‐term challenge in overall water splitting is the conflict in
 OpenAlex: https://openalex.org/W4404830333    
 Open access: False
     
-[Xin You](https://openalex.org/A5102405833), [Jizhou Duan](https://openalex.org/A5039719123), [Xiaolu Xiong](https://openalex.org/A5075901013), [Zhiwei Hu](https://openalex.org/A5003964217), [Chang‐Yang Kuo](https://openalex.org/A5014778809), [F Q Chang](https://openalex.org/A5112009757), [Chien‐Te Chen](https://openalex.org/A5022819157), [Zhen-Ya Li](https://openalex.org/A5102014730), [Wen‐Jie Bian](https://openalex.org/A5028904700), [Jing Wang](https://openalex.org/A5100378741), [Jian‐Qiang Wang](https://openalex.org/A5100436366), [Linjuan Zhang](https://openalex.org/A5075377676), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408495.
+[Xin You](https://openalex.org/A5102405833), [Jizhou Duan](https://openalex.org/A5039719123), [Xiaolu Xiong](https://openalex.org/A5075901013), [Zhiwei Hu](https://openalex.org/A5003964217), [Chang‐Yang Kuo](https://openalex.org/A5014778809), [F Q Chang](https://openalex.org/A5112009757), [Chien‐Te Chen](https://openalex.org/A5022819157), [Zhenya Li](https://openalex.org/A5102014730), [Wen‐Jie Bian](https://openalex.org/A5028904700), [Jing Wang](https://openalex.org/A5100378741), [Jian‐Qiang Wang](https://openalex.org/A5100436366), [Linjuan Zhang](https://openalex.org/A5075377676), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408495.
     
 Abstract Nickel‐based electrocatalysts are promising for industrial water electrolysis, but the dense hydroxyl oxide layer formed during the oxygen evolution reaction (OER) limits active sites accessibility and presents challenges in balancing structural stability with effective charge transfer. Based on this, an efficient in situ leaching strategy is proposed to construct grain boundary‐rich catalyst structure with high charge transfer ability and a deep catalytic active layer reached >200‐nm. Under OER conditions, stable sub‐nano Ni 3 Al particles are embedded in Ni(Fe)OOH, originating from leaching out the unstable Ni 2 Al 3 phase of the initial Ni 2 Al 3 /Ni 3 Al alloy doped with Fe. The structural evolutions are characterized using in situ Raman spectroscopy, transmission electron microscopy, and X‐ray absorption spectroscopy. The catalyst exhibits exemplary performance, evidenced by a low overpotential of 212 mV at 10 mA cm −2 , a minimal Tafel slope of 25.0 mV dec −1 . The catalyst maintains stable for >500 h at 500 mA cm −2 under industrial conditions. Furthermore, its performance in seawater electrolysis is notably superior, exhibiting an overpotential of 223 mV at 10 mA cm −2 and a Tafel slope of 37.5 mV dec −1 . The in situ high activity in the deep porous phase by leaching out unstable phases provides a new method for engineering high‐performance industrial catalysts.    
 
@@ -832,6 +700,17 @@ Developing highly efficient and stable electrocatalysts is critical for advancin
 
     
 
+## Identifying key intermediates for the oxygen evolution reaction on hematite using ab-initio molecular dynamics   
+
+OpenAlex: https://openalex.org/W4404849149    
+Open access: True
+    
+[Shuai Xu](https://openalex.org/A5049173260), [Jiarui Yang](https://openalex.org/A5000895400), [Peixian Su](https://openalex.org/A5107771381), [Li Wang](https://openalex.org/A5100322864), [Xiaowei Yang](https://openalex.org/A5108053337), [Zhaohui Zhou](https://openalex.org/A5101595171), [Yuliang Li](https://openalex.org/A5074514541), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-54796-9.
+    
+Hematite is a well-known catalyst for the oxygen evolution reaction on photoanodes in photoelectrochemical water-splitting cells. However, the knowledge of hematite-water interfaces and water oxidation mechanisms is still lacking, which limits improvements in photoelectrochemical water-splitting performance. Herein, we use the Fe-terminated hematite (0001) surface as a model and propose a comprehensive mechanism for the oxygen evolution reaction on both non-solvated and solvated surfaces. Key reaction intermediates are identified through ab initio molecular dynamics simulations at the density functional theory level with a Hubbard U correction. Several notable intermediates are proposed, and the effects of water solvent on these intermediates and the overall reaction mechanisms are suggested. The proposed mechanisms align well with experimental observations under photoelectrochemical water oxidation conditions. Additionally, we highlight the potential role of O2 desorption in the oxygen evolution reaction on hematite, as O2 adsorption may block reaction sites and increases surface hydrophobicity, leading to an unfavorable pathway for oxygen evolution. Hematite is a promising material for photoelectrochemical water splitting, but its mechanisms are not well understood. Here, the authors report a detailed mechanism, identifying key reaction intermediates and highlighting the influence of solvent water and oxygen desorption on the reaction pathways.    
+
+    
+
 ## MnO2 as bifunctional oxygen electrocatalyst with pseudocapacitive behavior for high-power rechargeable seawater batteries   
 
 OpenAlex: https://openalex.org/W4404856129    
@@ -865,6 +744,204 @@ No abstract
 
     
 
+## Hydrogen Peroxide Electrosynthesis via Selective Oxygen Reduction Reactions Through Interfacial Reaction Microenvironment Engineering   
+
+OpenAlex: https://openalex.org/W4404866412    
+Open access: False
+    
+[Qiang Tian](https://openalex.org/A5018853194), [Lingyan Jing](https://openalex.org/A5069537889), [Wenyi Wang](https://openalex.org/A5100354890), [Xieshu Ye](https://openalex.org/A5113221375), [Xiaoyan Chai](https://openalex.org/A5103812168), [Xue Zhang](https://openalex.org/A5100445870), [Qi Hu](https://openalex.org/A5101453394), [Hengpan Yang](https://openalex.org/A5009718397), [Chuanxin He](https://openalex.org/A5064805977), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202414490.
+    
+Abstract The electrochemical two‐electron oxygen reduction reaction (2e − ORR) offers a compelling alternative for decentralized and on‐site H 2 O 2 production compared to the conventional anthraquinone process. To advance this electrosynthesis system, there is growing interest in optimizing the interfacial reaction microenvironment to boost electrocatalytic performance. This review consolidates recent advancements in reaction microenvironment engineering for the selective electrocatalytic conversion of O 2 to H 2 O 2 . Starting with fundamental insights into interfacial electrocatalytic mechanisms, an overview of various strategies for constructing the favorable local reaction environment, including adjusting electrode wettability, enhancing mesoscale mass transfer, elevating local pH, incorporating electrolyte additives, and employing pulsed electrocatalysis techniques is provided. Alongside these regulation strategies, the corresponding analyses and technical remarks are also presented. Finally, a summary and outlook on critical challenges, suggesting future research directions to inspire microenvironment engineering and accelerate the practical application of H 2 O 2 electrosynthesis is delivered.    
+
+    
+
+## High-Entropy Heterostructures Modulated by Oxyphilic Transition Metals for Efficient Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4404870126    
+Open access: False
+    
+[Wenqing Guan](https://openalex.org/A5113089553), [Chengxu Zhang](https://openalex.org/A5064403506), [Yue Zhang](https://openalex.org/A5100333758), [Yuebin Feng](https://openalex.org/A5101240182), [Yunjie Mei](https://openalex.org/A5054124760), [Qianglong Qi](https://openalex.org/A5088936095), [Youjian Song](https://openalex.org/A5028628226), [Jue Hu](https://openalex.org/A5027149538), Nano Energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.110528.
+    
+No abstract    
+
+    
+
+## Preparation and performance of nickel/C based acidic oxygen evolution anode with polyphenol film   
+
+OpenAlex: https://openalex.org/W4404874679    
+Open access: False
+    
+[Daxue Fu](https://openalex.org/A5112188944), [S. Chen](https://openalex.org/A5022486187), [Ji Shi](https://openalex.org/A5112714681), [Qingli Xu](https://openalex.org/A5103155670), [Junqing Wu](https://openalex.org/A5101831085), International Journal of Hydrogen Energy. 97(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.11.370.
+    
+No abstract    
+
+    
+
+## In-situ decoration of NiCo-thiophene based metal-organic framework on nickel foam as an efficient electrocatalyst for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4404876062    
+Open access: False
+    
+[Muhammad Salman](https://openalex.org/A5030740846), [Hanli Qin](https://openalex.org/A5091755572), [Yuming Zou](https://openalex.org/A5102007449), [Zhenyuan Ji](https://openalex.org/A5032281523), [Hu Zhou](https://openalex.org/A5100530565), [Xiaoping Shen](https://openalex.org/A5017707608), [Hongbo Zhou](https://openalex.org/A5102531254), [Guoxing Zhu](https://openalex.org/A5087023195), [P. Subramanian](https://openalex.org/A5112666543), [Aihua Yuan](https://openalex.org/A5082241227), Journal of Power Sources. 629(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.235942.
+    
+No abstract    
+
+    
+
+## CuSe nanoparticles anchored on polyaniline (PANI)matrix as highly efficient and durable electrocatalyst for robust oxygen evolution reaction (OER)   
+
+OpenAlex: https://openalex.org/W4404876811    
+Open access: False
+    
+[Munaza sadiq](https://openalex.org/A5101369928), [Eman Aldosari](https://openalex.org/A5092721972), [Naseeb Ahmad](https://openalex.org/A5048764625), [M. Aslam](https://openalex.org/A5049269000), Journal of Sol-Gel Science and Technology. None(None)] 2024.https://doi.org/10.1007/s10971-024-06553-z.
+    
+No abstract    
+
+    
+
+## Untangling Enhanced Performance Origin of Ca-Doped Laba1- X Ca X Co2o5+ Δ Electrocatalysts Toward Intermediate-Temperature Oxygen Reduction/Evolution Reactions   
+
+OpenAlex: https://openalex.org/W4404877796    
+Open access: False
+    
+[Haibin Huo](https://openalex.org/A5109072633), [Zixuan Tang](https://openalex.org/A5018384015), [Tian Xia](https://openalex.org/A5029459610), [Yingnan Dou](https://openalex.org/A5060795737), [Qiang Li](https://openalex.org/A5100430040), [Jingping Wang](https://openalex.org/A5100712497), [Liping Sun](https://openalex.org/A5019182242), [Li‐Hua Huo](https://openalex.org/A5020126387), [Hui Zhao](https://openalex.org/A5057147812), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.5039822.
+    
+No abstract    
+
+    
+
+## Boosting effect of ultrasonication on the oxygen evolution reaction during zinc electrowinning   
+
+OpenAlex: https://openalex.org/W4404878669    
+Open access: True
+    
+[Guihong Han](https://openalex.org/A5100669573), [Zhen Chen](https://openalex.org/A5100457697), [N. Cui](https://openalex.org/A5055073959), [Shuzhen Yang](https://openalex.org/A5057111245), [Yanfang Huang](https://openalex.org/A5108755078), [Bingbing Liu](https://openalex.org/A5100650361), [Hu Sun](https://openalex.org/A5008724633), Ultrasonics Sonochemistry. None(None)] 2024.https://doi.org/10.1016/j.ultsonch.2024.107183.
+    
+No abstract    
+
+    
+
+## NiCoCe/NF Nanosheet Clusters for Alkaline Electrolyzed Water Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4404878997    
+Open access: False
+    
+[Zandong Zhang](https://openalex.org/A5113849541), [Wenfei Wang](https://openalex.org/A5112841131), [Zhezhi Chen](https://openalex.org/A5057649567), [Zuobo Yang](https://openalex.org/A5004187884), [Jimmy Yun](https://openalex.org/A5101165186), [Jie Zhang](https://openalex.org/A5100436765), Materials Today Communications. None(None)] 2024.https://doi.org/10.1016/j.mtcomm.2024.111173.
+    
+No abstract    
+
+    
+
+## Review for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881031    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v3/review1.
+    
+No abstract    
+
+    
+
+## Review for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881065    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v2/review1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881073    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v2/decision1.
+    
+No abstract    
+
+    
+
+## Decision letter for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881227    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v3/decision1.
+    
+No abstract    
+
+    
+
+## Review for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881288    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v1/review1.
+    
+No abstract    
+
+    
+
+## Review for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881341    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v1/review3.
+    
+No abstract    
+
+    
+
+## Review for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881591    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v1/review2.
+    
+No abstract    
+
+    
+
+## Decision letter for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
+
+OpenAlex: https://openalex.org/W4404881598    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v1/decision1.
+    
+No abstract    
+
+    
+
+## Corrosion-Engineered Room-Temperature Deposition of NiMoO4/NiS/Ni(OH)2 at Nickel Foam: An Efficient Strategy and Electrocatalyst for the Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4404882261    
+Open access: True
+    
+[Marilia B. Dalla Benetta](https://openalex.org/A5114907118), [Eithne Dempsey](https://openalex.org/A5055426199), [Carmel B. Breslin](https://openalex.org/A5062098315), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.4c01627.
+    
+No abstract    
+
+    
+
+## Doping Ti into RuO2 to Accelerate Bridged‐Oxygen‐Assisted Deprotonation for Acidic Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4404883582    
+Open access: False
+    
+[Wei Hu](https://openalex.org/A5100727084), [Bolong Huang](https://openalex.org/A5111318050), [Mingzi Sun](https://openalex.org/A5077976121), [Jing Du](https://openalex.org/A5101803514), [Yong Hai](https://openalex.org/A5016432495), [Wen Yin](https://openalex.org/A5100699028), [Xiaomei Wang](https://openalex.org/A5100457091), [Wensheng Gao](https://openalex.org/A5056411918), [Zhao Chun-Yang](https://openalex.org/A5109451524), [Yinghong Yue](https://openalex.org/A5061334554), [Zelong Li](https://openalex.org/A5100685187), [Can Li](https://openalex.org/A5100334060), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202411709.
+    
+Abstract The development of efficient and durable electrocatalysts for the acidic oxygen evolution reaction (OER) is essential for advancing renewable hydrogen energy technology. However, the slow deprotonation kinetics of oxo‐intermediates, involving the four proton‐coupled electron steps, hinder the acidic OER progress. Herein, a RuTiO x solid solution electrocatalyst is investigated, which features bridged oxygen (O bri ) sites that act as proton acceptors, accelerating the deprotonation of oxo‐intermediates. Electrochemical tests, infrared spectroscopy, and density functional theory results reveal that the moderate proton adsorption energy on O bri sites facilitates fast deprotonation kinetics through the adsorbate evolution mechanism. This process effectively prevents the over‐oxidation and deactivation of Ru sites caused by the lattice oxygen mechanism. Consequently, RuTiO x shows a low overpotential of 198 mV at 10 mA cm −2 geo and performance exceeding 1400 h at 50 mA cm −2 geo with negligible deactivation. These insights into the OER mechanism and the structure‐function relationship are crucial for the advancement of catalytic systems.    
+
+    
+
 ## One-step Preparation of Amorphous Citrate-Chelated CoNiFe Trimetallic Hydroxides for Oxygen Evolution Reaction   
 
 OpenAlex: https://openalex.org/W4404668004    
@@ -876,12 +953,12 @@ Reasonable morphology regulation and electronic structure modulation enhance the
 
     
 
-## Identifying key intermediates for the oxygen evolution reaction on hematite using ab-initio molecular dynamics   
+## Author response for "Unravelling the mechanistic complexity of the oxygen evolution reaction and Ir dissolution in highly dimensional amorphous hydrous iridium oxides"   
 
-OpenAlex: https://openalex.org/W4404849149    
-Open access: True
+OpenAlex: https://openalex.org/W4404881326    
+Open access: False
     
-[Shuai Xu](https://openalex.org/A5049173260), [Jiarui Yang](https://openalex.org/A5000895400), [Peixian Su](https://openalex.org/A5107771381), [Li Wang](https://openalex.org/A5100322864), [Xiaowei Yang](https://openalex.org/A5108053337), [Zhaohui Zhou](https://openalex.org/A5101595171), [Yuliang Li](https://openalex.org/A5074514541), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-54796-9.
+[Marianne van der Merwe](https://openalex.org/A5051766750), [Yonghyuk Lee](https://openalex.org/A5047107005), [Enggar Wibowo](https://openalex.org/A5008387012), [Tathiana Midori Kokumai](https://openalex.org/A5071815907), [Anna Efimenko](https://openalex.org/A5104182525), [Mauricio D. Arce](https://openalex.org/A5010672694), [Catalina Jiménez](https://openalex.org/A5085690657), [Benjamin Howchen](https://openalex.org/A5032617339), [Rosario Suarez Anzorena](https://openalex.org/A5082790539), [Ilaria Lucentini](https://openalex.org/A5042877604), [Carlos Escudero](https://openalex.org/A5009991442), [Götz Schuck](https://openalex.org/A5013815611), [Zdravko Kochovski](https://openalex.org/A5043165199), [Marco Favaro](https://openalex.org/A5073854289), [David E. Starr](https://openalex.org/A5030845177), [Karsten Reuter](https://openalex.org/A5024866637), [Christoph Scheurer](https://openalex.org/A5004695040), [Marcus Bär](https://openalex.org/A5084897727), [Raul Garcia‐Diez](https://openalex.org/A5011238991), No host. None(None)] 2024.https://doi.org/10.1039/d4ee02839b/v2/response1.
     
 No abstract    
 
@@ -1019,6 +1096,17 @@ Abstract In the present work, we investigates the potential of two dimensional (
 
     
 
+## Introducing Lewis Base‐Phosphate to Boost Neutral Seawater Splitting in Anion Exchange Membrane Electrolyzer   
+
+OpenAlex: https://openalex.org/W4404867741    
+Open access: False
+    
+[Mei Han](https://openalex.org/A5025280113), [Li Wang](https://openalex.org/A5100322864), [Jieshu Zhou](https://openalex.org/A5009913485), [Kangning Liu](https://openalex.org/A5071442579), [Ning Wang](https://openalex.org/A5100387123), [Xihao Chen](https://openalex.org/A5027032382), [Lei Zhu](https://openalex.org/A5100394072), [Hongyan Liang](https://openalex.org/A5077003796), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202415143.
+    
+Abstract Electrolysis of seawater using anion exchange membrane water electrolyzers (AEMWEs) under neutral conditions, is an attractive method for hydrogen production. Unfortunately, competitive anodic chlorine evolution reaction together with sluggish oxygen evolution reaction (OER) kinetics caused by insufficient OH − , significantly limit the system's current density and operational stability. Herein, Lewis base phosphate (PO 4 3− ) is used as a proton acceptor to accelerate the cleavage of OH−H bonds, which facilitates the accumulation of *OH. NiFeP nanosheets grown on pretreated nickel foam (NiS‐A) are used as the free‐standing electrode. During the OER process, the pre‐catalyst NiFeP spontaneously transforms into Lewis base‐PO 4 3− decorated Ni(Fe)OOH. Experimental studies and density functional theory calculations reveal that Ni(Fe)OOH active phases adsorb H 2 O intermediates and synergize with the protophilic Lewis base PO 4 3− to favor the dissociation of water molecules (*H 2 O→*OH+H + +e − ), ensuring the timely supply of *OH in neutral media. Meanwhile, PO 4 3− also exhibits excellent ability to repel chloride ions in seawater splitting, achieving ≈98.2% oxygen Faradaic efficiency. The optimized NiFeP/NiS‐A delivers a low overpotential (280 mV at 10 mA cm −2 ) and long‐term OER durability (over 400 h at 500 mA cm −2 ). Integrating NiFeP/NiS‐A in a seawater‐based AEMWE can achieve an industrially required current density of 1.0 A cm −2 (60 °C) at 1.8 V and an operation stability over 220 h.    
+
+    
+
 ## Electrocatalytic Water Splitting in Isoindigo‐based Covalent Organic Frameworks   
 
 OpenAlex: https://openalex.org/W4404739555    
@@ -1071,17 +1159,6 @@ Open access: False
 [Lisa Heymann](https://openalex.org/A5075656446), [Andrea Schreiber](https://openalex.org/A5014258358), [Christian Pithan](https://openalex.org/A5010735072), [Christoph Baeumer](https://openalex.org/A5003154231), [Felix Gunkel](https://openalex.org/A5029467045), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-ft8zt.
     
 Sustainable energy materials for energy storage applications are crucial for a reliable energy transition. However, evaluating material sustainability in early stages of energy material research is a big challenge, as it is difficult to predict the final industrial process and supply chain of the investigated material. In this work we showcase that a sustainability evaluation can already be conducted in the early stage of electrocatalyst research. We provide a case study of two highly active alkaline oxygen evolution catalysts La0.6Sr0.4CoO3-δ and La0.6Ca0.4FeO3-δ with a thin film model catalyst approach. For the sustainability evaluation, we consider the material criticality, compare precursor prices, conduct an environmental impact analysis of the precursors based on life cycle assessment and provide a qualitative discourse for social impacts of raw material extraction. We find that La0.6Ca0.4FeO3-δ has a reduced environmental footprint, smaller precursor supply risk and 10 times lower precursor price compared to La0.6Sr0.4CoO3-δ. However, for both perovskites the high environmental impact and high supply risk of lanthanum is of immediate concern towards larger scale application purposes. Sustainability evaluation in the early stages of energy material research can be a great chance to develop new material selection strategies leveraging sustainability in later stages of materials research for the energy transition.    
-
-    
-
-## Effect of Ni‐Doping on the Optical, Structural, and Electrochemical Properties of Ag29 Nanoclusters   
-
-OpenAlex: https://openalex.org/W4404657011    
-Open access: True
-    
-[Abdullah Ahmed Ali Ahmed](https://openalex.org/A5023392101), [Shana Havenridge](https://openalex.org/A5001897288), [Koustav Sahoo](https://openalex.org/A5012973001), [Loknath Thapa](https://openalex.org/A5092392739), [Ananya Baksi](https://openalex.org/A5090086106), [Guido H. Clever](https://openalex.org/A5043202190), [Heshmat Noei](https://openalex.org/A5088659450), [Mona Kohantorabi](https://openalex.org/A5059558135), [Andreas Stierle](https://openalex.org/A5039287605), [C. Retna Raj](https://openalex.org/A5063380317), [Wolfgang J. Parak](https://openalex.org/A5082376678), [Christine M. Aikens](https://openalex.org/A5032181533), [Indranath Chakraborty](https://openalex.org/A5019258936), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408096 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202408096)).
-    
-Abstract Atomically precise metal nanoclusters (NCs) can be compositionally controlled at the single‐atom level, but understanding structure‐property correlations is required for tailoring specific optical properties. Here, the impact of Ni atom doping on the optical, structural, and electrochemical properties of atomically precise 1,3‐benzene dithiol (BDT) protected Ag 29 NCs is studied. The Ni‐doped Ag 29 (NiAg 28 (BDT) 12 ) NCs, are synthesized using a co‐reduction method and characterized using electrospray ionization mass spectrometry (ESI MS), ion mobility spectrometry (IMS), and X‐ray photoelectron spectroscopy (XPS). Only a single Ni atom doping can be achieved despite changing the precursor concentration. Ni doping in Ag 29 NCs exhibits enhanced thermal stability, and electrocatalytic oxygen evolution reaction (OER) compared to the parent NCs. Density functional theory (DFT) calculations predict the geometry and optical properties of the parent and NiAg 28 (BDT) 12 NCs. DFT is also used to study the systematic single‐atom doping effect of metals such as Au, Cu, and Pt into Ag 29 NCs and suggests that with Ni and Pt, the d atomic orbitals contribute to creating superatomic orbitals, which is not seen with other dopants or the parent cluster. The emission mechanism is dominated by a charge transfer from the ligands into the Ag core cluster regardless of the dopant.    
 
     
 
@@ -1181,17 +1258,6 @@ Open access: True
 [Kai‐Lu Zhang](https://openalex.org/A5068314353), [Ya-Nan Leng](https://openalex.org/A5085993577), [Ruirui Hao](https://openalex.org/A5103533398), [Wenyao Zhang](https://openalex.org/A5061847709), [Hongfei Li](https://openalex.org/A5100427003), [Mo‐Xian Chen](https://openalex.org/A5037480863), [Fu‐Yuan Zhu](https://openalex.org/A5078403890), International Journal of Molecular Sciences. 25(23)] 2024.https://doi.org/10.3390/ijms252312666.
     
 High-altitude plants face extreme environments such as low temperature, low oxygen, low nutrient levels, and strong ultraviolet radiation, causing them to adopt complex adaptation mechanisms. Phenotypic variation is the core manifestation of ecological adaptation and evolution. Many plants have developed a series of adaptive strategies through long-term natural selection and evolution, enabling them to survive and reproduce under such harsh conditions. This article reviews the techniques and methods used in recent years to study the adaptive evolution of high-altitude plants, including transplantation techniques, genomics, transcriptomics, proteomics, and metabolomics techniques, and their applications in high-altitude plant adaptive evolution. Transplantation technology focuses on phenotypic variation, which refers to natural variations in morphological, physiological, and biochemical characteristics, exploring their key roles in nutrient utilization, photosynthesis optimization, and stress-resistance protection. Multiple omics technologies, including genomics, transcriptomics, proteomics, and metabolomics, have revealed genes, regulatory pathways, and metabolic networks associated with phenotypic variations at the genetic and molecular levels. At the same time, the limitations and deficiencies of current technologies used to study plant adaptation to high-altitude environments were discussed. In addition, we propose future improvements to existing technologies and advocate for the integration of different technologies at multiple levels to study the molecular mechanisms of plant adaptation to high-altitude environments, thus providing insights for future research in this field.    
-
-    
-
-## Analysis of the biodrying and biostabilization efficiency of a continuous flow full-scale facility   
-
-OpenAlex: https://openalex.org/W4404652164    
-Open access: False
-    
-[Francesco Di Maria](https://openalex.org/A5087845290), [Somnath Ghosh](https://openalex.org/A5053893015), The Journal of Solid Waste Technology and Management. 50(4)] 2024.https://doi.org/10.5276/jswtm/iswmaw/50s1/2024.755.
-    
-The technological solution adopted for aerobic treatment of Waste Organic Fraction (WOF) can influence the evolution of the physical parameters of the process making the facility acting as a biostabilization or a biodrying system. In the present study, the continuous flow biological section of the full-scale mechanical biological treatment plant was experimentally investigated by means of evolution, during treatment period (day), of temperature (T) (° C), volatile solids (VS) (%TS) and oxygen uptake of the WOF under treatment. Oxygen uptake was measured by the Dynamic Respirometer Index Potential (DRIP) (mgO2/kgVSh). Main findings were that T (° C) and VS %TS remained quite constant among inlets and outlets of the biological treatment sections, about 70° C and 50 (%TS), respectively. DRIP (mgO2/kgVSh) values measured by several samples withdrawn along the basin width increased significantly in the first half portion of the basin of the aerobic section, remaining quite constant in the second half. This was mainly caused by the strong moisture reduction that rapidly achieved values lower than 40% causing inhibition to microbial activity. The simulation model developed in this work showed that the mean retention time (day) of the WOF inside the aerobic basin was about 14-16 days, this parameter being strongly influenced by the WOF inlet rate (tonnes/day). Finally, experimental evidence pointed out that the reduction of WOF DRIP (mgO2/kgVSh) stopped after the first days of treatment indicating that the facility operates mainly as biodrying system. Based on simulations, biostabilization can also be pursued by maintaining the moisture of WOF to proper values not lower than 40 (% w/w).    
 
     
 
@@ -1324,16 +1390,5 @@ Open access: True
 [Giuseppe Bertozzi](https://openalex.org/A5080439029), [Michela Ferrara](https://openalex.org/A5090111996), [Mariagrazia Calvano](https://openalex.org/A5098770519), [Natascha Pascale](https://openalex.org/A5112304227), [Aldo Di Fazio](https://openalex.org/A5085942184), Medicina. 60(12)] 2024.https://doi.org/10.3390/medicina60121949.
     
 Background and Objectives: A large amount of recent evidence suggests that cellular inability to consume oxygen could play a notable part in promoting sepsis as a consequence of mitochondrial dysfunction and oxidative stress. The latter could, in fact, represent a fundamental stage in the evolution of the “natural history” of sepsis. Following a study previously conducted by the same working group on heart samples, the present research project aims to evaluate, through an immunohistochemical study, the existence and/or extent of oxidative stress in the brains of subjects who died due to sepsis and define, after reviewing the literature, its contribution to the septic process to support the use of medications aimed at correcting redox anomalies in the management of septic patients. Materials and Methods: 10 cases of subjects who died in healthcare facilities with ante-mortem clinical-laboratory signs that allowed the diagnosis of septic shock were selected as case studies, and 1 case of a subject who died immediately following a road traffic accident was used as a negative control. Samples of the cerebral cortex were then taken, fixed in formalin, and subjected to sections on which an immunohistochemical study was performed using anti-NOX-2, NT, iNOS, and 8-OHdG antibodies. Results: The results emerging from the present study demonstrate that despite a variable expressivity for the NT, iNOS, and NOX2 markers, the brain samples demonstrated univocal and high positivity for the 8-OHdG marker. Conclusions: This would allow us to hypothesize how, regardless of the mechanism of production of ROS and NOS (iNOS or NOX2 mediated) and the pathophysiological mechanisms that are triggered during sepsis, oxidative damage to DNA represents the event to which this whole process leads and, in fact, in the literature, is directly correlated to sepsis-dependent mortality. Neurons, conversely, appear to be more sensitive to oxidative stress because of a low number of protective or scavenger molecules (catalase, glutathione peroxidase, GSH, or vitamin E). Therefore, despite reduced production, the manifestation of the damage remains high. This evidence, together with that of the previous study, can only support the introduction of substances with an antioxidant function in the guidelines for the treatment of sepsis.    
-
-    
-
-## Metagenomic analysis sheds light on the mixotrophic lifestyle of bacterial phylum Zhuqueibacterota   
-
-OpenAlex: https://openalex.org/W4404650498    
-Open access: True
-    
-[Zheng‐Han Lian](https://openalex.org/A5084943813), [Nimaichand Salam](https://openalex.org/A5020932627), [Sha Tan](https://openalex.org/A5101611911), [Yang Yuan](https://openalex.org/A5078503953), [Meng‐Meng Li](https://openalex.org/A5106383150), [Yu‐Xian Li](https://openalex.org/A5100724214), [Ze‐Tao Liu](https://openalex.org/A5008902733), [Chao‐Jian Hu](https://openalex.org/A5072119945), [LV Ai-ping](https://openalex.org/A5010137467), [Yu‐Ting OuYang](https://openalex.org/A5091598666), [Caiyu Lu](https://openalex.org/A5040951032), [Jingyi Zhang](https://openalex.org/A5106498871), [Ying Chen](https://openalex.org/A5100383001), [Le‐Bin Chen](https://openalex.org/A5101367587), [Zhen‐Hao Luo](https://openalex.org/A5110841604), [Bin Ma](https://openalex.org/A5063373699), [Zheng‐Shuang Hua](https://openalex.org/A5008091541), [Jian‐Yu Jiao](https://openalex.org/A5076838938), [Wen‐Jun Li](https://openalex.org/A5100446261), [Lan Liu](https://openalex.org/A5100609531), iMeta. None(None)] 2024.https://doi.org/10.1002/imt2.249.
-    
-Zhuqueibacterota is a novel bacterial phylum proposed based on hot spring metagenomes and public metagenome-assembled genomes, classified within the Fibrobacterota-Chlorobiota-Bacteroidota superphylum. This globally distributed phylum consists of one class and five orders, with the majority of its members being facultative anaerobes. Notably, the order Zhuqueibacterales utilizes hydrogen as an electron donor for carbon fixation through the Calvin Benson Bassham cycle. Phylogenetic and metabolic analyses reveal the phylum's key role in the carbon cycle, with frequent horizontal gene transfer events influencing its evolutionary trajectory. To the editor, The candidate phylum KSB1 has been identified as anaerobic heterotrophic bacterium and detected in various environments. However, little known about its diversity, ecology, and evolutionary history. In this study, we analyzed 30 new metagenome-assembled genomes (MAGs) from the Tengchong hot spring and 45 public MAGs. Phylogenetic analyses based on the draft genome and 16S rRNA gene indicate they form a distinct group within the Fibrobacterota-Chlorobiota-Bacteroidota (FCB) superphylum, and thus we propose their classification as a new phylum, herein Zhuqueibacterota, which contain five orders and one class. Members of Zhuqueibacterota are globally distributed and likely facultative anaerobes, with one order exhibiting autotrophy via the Calvin Benson Bassham (CBB) cycle by using hydrogen as an electron donor. Metabolic predictions at the community level suggest that Zhuqueibacterota play a significant role in the carbon fixation of hot spring. Ancestral state reconstruction points to frequent horizontal gene transfer (HGT) events throughout Zhuqueibacterota evolution. Facultative anaerobic traits appear to be ancestral, with some lineage losing hydrogen oxidation capabilities while acquiring carbon fixation capabilities through HGT in Zhuqueibacterales. These results shed light on diversity, ecological roles, and evolutionary history of Zhuqueibacterota, highlighting their significance in the carbon cycle. The earth harbors a huge biodiversity of eukaryotic and prokaryotic microorganisms. However, only a small portion of bacteria is culturable under laboratory conditions and most bacterial phyla have no cultured members. The candidate bacterial phylum KSB1, as one of the uncultured phyla, was first identified in sulfur-rich marine sediments, and now was recognized for its broad ecological adaptability [1]. In estuary sediments, genome studies revealed its capacity for carbohydrate metabolism and β-oxidation [2]. KSB1 members from hydrothermal sediment possess genes encoding benzylsuccinate synthase and alkylsuccinate synthase, suggesting a role in anaerobic hydrocarbon degradation [3]. In wetland sediments, KSB1 MAGs encode enzymes such as isopropanol dehydrogenase, phosphotransbutyrylase, and butyrate kinase, further highlighting their ecological versatility. Notably, KSB1 was also recovered from metagenomic data of hot spring, indicating KSB1 may harbor new functional niches that allow it to grow in the extreme environment. In addition, although nearly 100 MAGs of KSB1 have been reconstructed from various environments, the limited number of high-quality genomes hinders the ability to understand the ecological roles and metabolism of KSB1. Thus, more comprehensive research is needed to explore their metabolic pathways and evolutionary history. To address this, we collected available KSB1 genomes from public database and extracted new MAGs from hot spring samples. Our study significantly expands the genomic diversity of KSB1, clarify the phylogenetic relationships, and revealing its facultative anaerobic lifestyle and carbon fixation potential via the CBB cycle. We hereby designate this phylum as Zhuqueibacterota. Continuous sampling of hot springs in Tengchong County, Yunnan province, China, has been conducted for metagenomic studies since 2016, and 30 high-quality MAGs (Table S1) assigned to KSB1 were reconstructed from 16 metagenomes of hot springs. In total, 75 high-quality KSB1 MAGs were used to construct phylogenetic trees, including 45 genomes (Table S2) downloaded from GenBank. A maximum-likelihood tree, employing Bac120 marker sets from genome taxonomy database (GTDB), revealed that KSB1 forms a monophyletic clade within the FCB superphylum [4], and clearly separated from other phyla (Figure S1A). Phylogenetic tree based on 16S rRNA gene further supports the classification of KSB1 as a distinct phylum taxon in the domain Bacteria under the kingdom Psuedomonadati [5] (Figure S1B). To resolve the phylogenetic affiliations within phylum Zhuqueibacterota, we constructed a maximum likelihood tree with a concatenated set of single-copy marker genes. Previous analyses identified four clades within KSB1 [1]; however, our phylogenetic analysis revealed five distinct groups, corresponding to five orders of the undescribed phylum KSB1 in GTDB r214 (Figure 1A) and clarified that clade II (GTDB taxonomy: p__JdFR-76) is not part of KSB1 but a sister phylum. Average amino acid identity (AAI, 95%–100% for same species) [6], and average nucleotide identity (ANI, 95%–100% for same species) (Table S3, Figure S2) were used to classify the novel lineage on the species, which were consistent with the GTDB classification. In addition, phylogenomic tree and GTDB toolkit (GTDB-Tk) (Tables S1 and S2) based analyses were performed to classify the novel lineage on genus levels and higher taxonomic ranks. Finally, we identified 1 class, 5 orders, 14 families, 27 genera, and 40 species from the 75 MAGs (Table S4), including 9 novel species from our own 30 MAGs. Following the recommendations for defining species and higher ranks of not-yet-cultured bacteria using MAGs as type material [6, 7], we proposed the name Zhuqueibacterota phyl. nov. for the KSB1 with five orders: Zhuqueibacterales (O1), Residuimicrobiales (O2), Oleimicrobiales (O3), Thermofontimicrobiales (O4), and Oceanimicrobiales (O5). Using 16S rRNA gene sequences as queries in the IMNGS platform, Zhuqueibacterota was detected across six biotopes: aquatic, sediment, soil, hydrothermal vents, animal- and plant-associated environments (Figure 1B). The phylum is particularly prevalent in soil and biofilm samples, where it constitutes 3%–10% of biofilm-associated communities (Table S5), suggesting that biofilms may serve as a protective niche for these bacteria. Zhuqueibacterales (O1), the most widely distributed order (Figure 1C), was found in diverse environments. Residuimicrobiales (O2) and Oleimicrobiales (O3) were predominantly detected in hydrothermal vents and sediment, and Thermofontimicrobiales (O4) was enriched in marine environments. Despite limited data for Oceanimicrobiales (O5), Zhuqueibacterota's broad ecological presence (Figure 1C) highlights its adaptability across various habitats, emphasizing its ecological significance. Previous studies suggested that Zhuqueibacterota is enriched in anoxic environments [1], leading to the hypothesis of an anaerobic lifestyle. In our study, genes associated with anaerobic metabolism, such as acetyl-CoA synthetase (acs), phosphate acetyltransferase (pta), acetate kinase (ack), aldehyde dehydrogenase (aldh), and alcohol dehydrogenase (adh), were detected across all clades of Zhuqueibacterota (Table S6), suggesting they may have the ability to produce ethanol through fermentation [8]. Additionally, we identified the Rnf complexes [9] were widely distributed among Residuimicrobiales (O2), Oleimicrobiales (O3), and Thermofontimicrobiales (O4). Phylogenetic analysis of the rnfABCDEG operon indicated that they clustered with anaerobic microorganisms (Figure S3), further suggesting the potential anaerobic lifestyle of Residuimicrobiales (O2), Oleimicrobiales (O3), and Thermofontimicrobiales (O4). Remarkably, Zhuqueibacterota harbored cydAB genes, encoding the cytochrome bd ubiquinol oxidase, which provides an O2-directed respiratory chain under low-oxygen conditions. The coxABC genes [10] were identified in all MAGs of the Zhuqueibacterales (O1) and Oceanimicrobiales (O5), as well as in three MAGs of the Residuimicrobiales (O2) and two MAGs of the Thermofontimicrobiales (O4). Additionally, we observed that several MAGs from Zhuqueibacterales (O1) and Oceanimicrobiales (O5) encoded the aerobic aa3-type cytochrome c oxidase [10]. However, the genes of complete pathways for oxidative phosphorylation were just widely distributed in Zhuqueibacterales (O1) and Oceanimicrobiales (O5). These findings suggest that members of Zhuqueibacterales (O1) and Oceanimicrobiales (O5) may have the ability to utilize oxygen as a terminal electron acceptor. Considering these observations, we propose that members of Zhuqueibacterales (O1) and Oceanimicrobiales (O5) are more likely facultative anaerobes, rather than being obligate anaerobes. Through metabolic reconstruction, all Zhuqueibacterota orders contain complete genes for glycolysis, gluconeogenesis, and pentose phosphate pathways (Figure 1D). MAGs assigned to the Zhuqueibacterales (O1), Thermofontimicrobiales (O4), and Oceanimicrobiales (O5) harbor the complete gene sets for the TCA cycle. We also identified a diverse array of carbohydrate-active enzymes (CAZymes) among the 75 MAGs, including 79 glycoside hydrolases (GHs), 10 glycosyl transferases (GTs), 10 carbohydrate esterases (CEs), 8 polysaccharide lyases (PLs), and 10 carbohydrate-binding modules (CBMs) (Table S7). Interestingly, the gene encoding the large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO) was identified in 35 MAGs of Zhuqueibacterales (O1). Phylogenetic analysis revealed that the RuBisCO large subunit (rbcL) gene belongs to form I group (Figure 2A), which plays a crucial role in carbon fixation via the CBB cycle [11]. Moreover, genes encoding RuBisCO small subunit (rbcS), phosphoribulokinase (PRK), transketolase (TKT), fructose-1,6-bisphosphate aldolase (FBPA), fructose-1,6-bisphosphatase (FBPase), and ribulose-5-phosphate 3-epimerase (RuPE) were found near the rbcL gene cluster (Figure 2B). Based on these observations, we hypothesize that members of Zhuqueibacterota possess the capability for carbon fixation via the CBB cycle. Notably, the absence of sedoheptulose-1,7-bisphosphatase (SBPase) and the presence of transaldolase (TAL) suggest that Zhuqueibacterota uses the transaldolase-variant of the CBB cycle [12, 13]. Carbon fixation via the CBB cycle requires significant energy and reducing equivalents, and hydrogen is a critical energy source in terrestrial hot springs [14] and hydrothermal vents [15]. Numerous prokaryotes can utilize H2 and CO2 as their energy and carbon source [16]. In our study, genes annotated to encode hydrogenases were present in Zhuqueibacterota, and the phylogenetic analyses of hydrogenases revealed five different clades ([Ni–Fe] group 1d, 3b-3d, and [Fe–Fe] group) (Figure S4). In Zhuqueibacterales (O1) MAGs, especially those containing CBB gene cluster, we identified two types of hydrogenases (Figure 2C). The [Ni–Fe]-group 1d hydrogenase, a membrane-bound hydrogenase, transfers electrons from H2 to the respiratory chain via membrane-connected cytochromes [17] (Figure S4). Additionally, the cytosolic [Ni–Fe]-group 3b hydrogenase transfers electrons generated by H2 oxidation to NAD+ [18], which serves as a reducing equivalent, for carbon fixation or for ATP production through the respiratory chain [17]. The biosynthesis and maturation of [Ni–Fe] hydrogenase are catalyzed by six Hyp proteins (hypABCDEF) [19]. The co-localization of hydrogenase maturation proteins, [Ni–Fe]-group 1 d and 3b hydrogenases (Figure 2C) indicate that Zhuqueibacterales (O1) likely utilizes hydrogen as an energy source for carbon fixation. The CBB cycle operates aerobically [20], and both the [Ni–Fe]-group 1d and 3b hydrogenases exhibit O2 tolerance, maintaining hydrogen oxidation even in the presence of oxygen. This further supports the hypothesis that Zhuqueibacterota is facultative anaerobic mixotrophy. Utilizing METABOLIC v4.0, we constructed a community metabolic network comprising with 186 medium/high-quality MAGs (completeness >50% and contamination <6%) derived from JZ2 hot spring (JZ2_202007). Despite being represented by only two MAGs, Zhuqueibacterota exhibited the highest relative abundance (15.48%). It contributed to 24 metabolic processes, with a relative contribution exceeding 25% (Figure S5, Table S8). Notably, Zhuqueibacterota dominated carbon fixation via the CBB cycle, with the highest contribution (57.9%) among all microbial taxa (Table S8). These findings suggest that Zhuqueibacterota, with its chemolithoautotrophic capabilities, plays a vital role in this ecosystem. To decipher the evolutionary histories of the Zhuqueibacterota, we predicted gene gain and loss events mapping onto a Bayesian tree showed that contemporary Zhuqueibacterota harbor more gene families over time (Figure 2D, Figure S6), with 71% of HGT events occurred within Zhuqueibacterales (O1), mostly from hot spring-associated MAGs. HGT played a major role in genome diversity, despite the common trend of genome reduction in hot spring environments. The ancestral Zhuqueibacterota likely possessed hydrogenase, with later loss events leading to the loss of this hydrogen utilization capability in some lineages. The cydAB gene (Figure 2E, Table S9) for high oxygen stress response was acquired early, while the coxABC gene was independently acquired by different lineages (Figure 2E, Table S9). Anaerobic fermentation-related genes were lost at multiple evolutionary nodes, potentially contributing to metabolic diversity, indicating that the ancestors of Zhuqueibacterota were facultative anaerobic bacteria. Genes related to the CBB cycle, such as rbcL, rbcS, and PRK, were acquired gradually. Over time, Zhuqueibacterota inhabiting thermal environments gained the ability for carbon fixation via the CBB cycle. In this study, we have expanded our understanding of the uncultured phylum KSB1, herein Zhuqueibacterota, by utilizing high-quality genomes to explore its diversity and function. Our analysis indicated that Zhuqueibacterota has clear functional differentiation, and distinct environmental preferences among its clades. Notably, this phylum represents a group of facultative anaerobic chemoautotrophs, which play a pivotal role in sustaining microbial communities in hot springs. Ancestral state reconstructions suggest the facultative anaerobic lifestyle of their ancestor, while carbon fixation capabilities probably evolved through HGT. Overall, this study provides new insights into the ecological functions of Zhuqueibacterota and open avenues for further research. Moreover, the findings indicate the possibility of isolating and purifying members of this phylum using the hydrogen-oxidizing autotrophic enrichment system. Zheng-Han Lian: Writing—review and editing; writing—original draft; software. Nimaichand Salam: Writing—review and editing; formal analysis; data curation; investigation. Sha Tan: Writing—review and editing; software; visualization. Yang Yuan: Writing—review and editing; software; visualization. Meng-Meng Li: Writing—review and editing; software; resources. Yu-Xian Li: Writing—review and editing; visualization; software. Ze-Tao Liu: Writing—review and editing; data curation. Chao-Jian Hu: Writing—review and editing; methodology. Ai-Ping Lv: Writing—review and editing; formal analysis. Yu-Ting OuYang: Writing—review and editing; validation. Cai-Yu Lu: Writing—review and editing; formal analysis. Jing-Yi Zhang: Writing—review and editing; visualization. Ying Chen: Writing—review and editing; software; data curation. Le-Bin Chen: Writing—review and editing; software; resources. Zhen-Hao Luo: Writing—review and editing; resources; validation. Bin Ma: Writing—review and editing; visualization; software. Zheng-Shuang Hua: Writing—review and editing; software. Jian-Yu Jiao: Supervision; writing—review and editing; writing—original draft; software; funding acquisition. Wen-Jun Li: Supervision; writing—review and editing; funding acquisition; project administration; resources. Lan Liu: Supervision; writing—original draft; writing—review and editing; visualization; software; validation; funding acquisition; project administration; data curation; resources. This research received financial support from the Key R&D Program of Zhejiang Province (2023C02004, 2023C020015), the Key-Area Research and Development Program of Guangdong Province (2022B0202110001), the National Natural Science Foundation of China (Grants No. 92251302, 32200010, 32300001, 32200007, and 32370011), the National Science and Technology Fundamental Resources Investigation Program of China (2021FY100900), and the Fundamental Research Funds for the Universities (Nos. 23ptpy11, 23ptpy136, and 23ptpy137). We extend our sincere appreciation to the staff at Yunnan Tengchong Volcano for their invaluable assistance and gracious permission granted for sample collection. Special thanks are due to Dr. Chih-Min Chang from Guangdong Magigene Biotechnology Co., Ltd., China, for his expert guidance and support throughout the data analysis process. The authors declare no conflicts of interest. No animals or humans were involved in this study. The MAGs discussed in this research have been archived in the GenBank database under the BioProject ID PRJNA895542 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA895542/). Accession numbers for each individual MAG are detailed in Table S1. The data and scripts used are saved in GitHub https://github.com/lianzhh-pub/Code_for_iMeta2024. Supplementary materials (methods, figures, tables, graphical abstract, slides, videos, Chinese translated version, and updated materials) may be found in the online DOI or iMeta Science http://www.imeta.science/. The data that supports the findings of this study are available in the supplementary material of this article. Figure S1. Phylogeny of Zhuqueibacterota. Figure S2. The ANI/AAI heatmap of all pairwise comparisons. Figure S3. The phylogenetic tree based on concatenated alignment of Rnf complex genes. Figure S4. Phylogenetic trees and classification of hydrogenases and metabolic model of hydrogen-oxidizing bacteria. Figure S5. Microbial contribution to carbon, nitrogen, and sulfur cycling in hot spring. Figure S6. Ancestral genome content reconstruction using COUNT software. Figure S7. Phylogenetic tree of nosZ gene. Figure S8. Variation and correlation of genome size and GC content across orders of Zhuqueibacterota. Figure S9. Plot of Principal Coordinates Analysis (PCoA) based on functional traits of Zhuqueibacterota MAGs. Table S1. General genomic features of Candidate Division KSB1 genomes from hot spring. Table S2. Genomic overview of Candidate Division KSB1 reference genome. Table S3. ANI/AAI values for each genome pair. Table S4. Brief nomenclature of Zhuqueibacterota MAGs. Table S5. Global distribution and relative abundances of the Zhuqueibacterota. Table S6. List of genes in the metabolic model of Zhuqueibacterota. Table S7. CAZyme statistics for Zhuqueibacterota MAGs. Table S8. The MW-score for JZ2 hot spring metagenomic dataset. Table S9. Gene gain and loss events detected at key nodes. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.    
 
     
