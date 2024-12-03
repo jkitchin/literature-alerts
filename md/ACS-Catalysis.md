@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Dec  2 01:37:07 2024
+Created on Tue Dec  3 01:27:52 2024
 
-Found 17 results from 2024-11-25 to 2024-12-02
+Found 16 results from 2024-11-26 to 2024-12-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Halloysite Clay Nanotubes for Catalytic Conversion of Biomass: Synergy between Computational Modeling and Experimental Studies   
-
-OpenAlex: https://openalex.org/W4404678088    
-Open access: False
-    
-[Lorenzo Lisuzzo](https://openalex.org/A5058782253), [Ludovico Guercio](https://openalex.org/A5094305418), [Giuseppe Cavallaro](https://openalex.org/A5090172326), [Dario Duca](https://openalex.org/A5016999361), [Francesco Ferrante](https://openalex.org/A5003110091), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05907.
-    
-Halloysite clay nanotubes (HNTs) are emerging nanomaterials for numerous environmental applications, including catalysis and biomass valorization. The efficacy of halloysite as a nanoplatform for the catalytic conversion of biomass can be accurately evaluated by combined approaches based on experimental investigations and computational modeling. Recently, many efforts have been made to properly describe the most peculiar features of halloysite by focusing on its structural and interfacial features through computational studies, which are challenging for natural clay nanoparticles yet crucial for the design of novel catalysts to be exploited in biomass conversion. Within this framework, this review critically and extensively discusses recent advancements related to the use of halloysite in different catalytic processes, such as enzymatic reactions, precious- and nonprecious-metal- and alloy-catalyzed reactions, and acid-activated mechanisms. The research gap on the computational modeling of biomass chemical conversion occurring on halloysite surfaces is highlighted throughout this review, together with the latest experimental achievements. To optimize the catalytic efficiency of halloysite-based materials for biomass valorization, future efforts should focus on the implementation of experimental data with calculations provided by proper models in a synergistic approach.    
-
-    
 
 ## Generation of Nickel Siloxycarbene Complexes from Acylsilanes for the Catalytic Synthesis of Silyl Enol Ethers   
 

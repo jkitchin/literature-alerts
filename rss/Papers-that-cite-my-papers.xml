@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Dec 2024 01:37:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 01:28:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrochemical behavior of LiNiCo oxide cathodes as catalyst for lithium-air batteries</title>
-      <link>https://doi.org/10.1007/s10008-024-06149-1</link>
-      <description>E. Meza, Francisco Herrera, Juan Luis Gautier, Journal of Solid State Electrochemistry. None(None)] 2024. https://openalex.org/W4404662045
-
-                No abstract</description>
-      <author>E. Meza, Francisco Herrera, Juan Luis Gautier</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10008-024-06149-1</guid>
-    </item>
-    <item>
-      <title>Utilizing the carbon nano-belt (8-CNB) loaded late second-row transition metal (TM) single-atom catalysts for hydrogen and oxygen evolution during water electrolysis</title>
-      <link>https://doi.org/10.1016/j.mssp.2024.109139</link>
-      <description>Abdulrahman Allangawi, Shimna Biju, Remabai Balachandran, Khurshid Ayub, Mazhar Amjad Gilani, Muhammad Imran, Tariq Mahmood, Materials Science in Semiconductor Processing. 187(None)] 2024. https://openalex.org/W4404670172
-
-                No abstract</description>
-      <author>Abdulrahman Allangawi, Shimna Biju, Remabai Balachandran, Khurshid Ayub, Mazhar Amjad Gilani, Muhammad Imran, Tariq Mahmood</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.109139</guid>
-    </item>
-    <item>
-      <title>Photo-assisted highly efficient electrocatalytic N2 fixation on nonmetal-metal dual atom catalysts through the reversable evolution of active center</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114712</link>
-      <description>Zheng Xu, Yi Ding, Song Lu, Tiancun Liu, Hailing Liu, Yong Jun Wu, Yafei Zhao, Zhixin Yu, Molecular Catalysis. 571(None)] 2024. https://openalex.org/W4404676999
-
-                No abstract</description>
-      <author>Zheng Xu, Yi Ding, Song Lu, Tiancun Liu, Hailing Liu, Yong Jun Wu, Yafei Zhao, Zhixin Yu</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114712</guid>
-    </item>
     <item>
       <title>Theoretical study on the performance of g-C3N4 loaded silver nanoparticles (Ag4, Ag8, Ag13) catalysts and their electrocatalytic reduction mechanism of CO2</title>
       <link>https://doi.org/10.1016/j.mcat.2024.114705</link>
@@ -476,6 +446,26 @@
       <author>Mahdieh Rezaei, Alireza Nezamzadeh&#8208;Ejhieh, Ahmad Reza Massah</author>
       <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101754</guid>
+    </item>
+    <item>
+      <title>Recent advances on water electrolysis based on nanoscale inorganic metal-oxides and metal-oxyhydroxides for hydrogen energy production</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.11.348</link>
+      <description>Muhammad Naeem Ayub, Umer Shahzad, Muhammad Fazle Rabbee, Mohsin Saeed, Mohammad Mizanur Rahman Khan, Mohammed M. Rahman, International Journal of Hydrogen Energy. 97(None)] 2024. https://openalex.org/W4404887585
+
+                No abstract</description>
+      <author>Muhammad Naeem Ayub, Umer Shahzad, Muhammad Fazle Rabbee, Mohsin Saeed, Mohammad Mizanur Rahman Khan, Mohammed M. Rahman</author>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.11.348</guid>
+    </item>
+    <item>
+      <title>Density Functional Theory Study on the Electrocatalytic Performance of Defected Monolayer Vanadium Diselenide for Oxygen Evolution and Reduction Reactions</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122669</link>
+      <description>Rabia Hassan, Rehan Hassan, Fei Ma, Surface Science. None(None)] 2024. https://openalex.org/W4404893517
+
+                No abstract</description>
+      <author>Rabia Hassan, Rehan Hassan, Fei Ma</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122669</guid>
     </item>
     <item>
       <title>Modeling and Comparative Analysis of CO&lt;sub&gt;2&lt;/sub&gt; Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems</title>
