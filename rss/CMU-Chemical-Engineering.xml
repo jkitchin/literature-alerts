@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Dec 2024 01:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 01:28:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Decomposition and Algorithmic Approaches for Solving Large-Scale Process Family Design Problems</title>
-      <link>https://doi.org/10.2172/2477797</link>
-      <description>Georgia Stinchfield, Michael Bynum, Jean&#8208;Paul Watson, Carl D. Laird, No host. None(None)] 2024. https://openalex.org/W4404679267
-
-                No abstract</description>
-      <author>Georgia Stinchfield, Michael Bynum, Jean&#8208;Paul Watson, Carl D. Laird</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2477797</guid>
-    </item>
     <item>
       <title>Multi-Period Optimization of Multi-Timescale Energy Systems: Application to Solid-Oxide Electrolysis Cells</title>
       <link>https://doi.org/10.2172/2478222</link>

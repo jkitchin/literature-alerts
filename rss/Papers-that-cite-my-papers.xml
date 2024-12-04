@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Dec 2024 01:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 01:28:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical study on the performance of g-C3N4 loaded silver nanoparticles (Ag4, Ag8, Ag13) catalysts and their electrocatalytic reduction mechanism of CO2</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114705</link>
-      <description>Xin-Long Zhang, Ya-Yuan Shi, Xiao&#8208;Min Liang, Laicai Li, Molecular Catalysis. 571(None)] 2024. https://openalex.org/W4404678818
-
-                No abstract</description>
-      <author>Xin-Long Zhang, Ya-Yuan Shi, Xiao&#8208;Min Liang, Laicai Li</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114705</guid>
-    </item>
-    <item>
-      <title>Understanding Pt Active Sites on Nitrogen-Doped Carbon Nanocages for Industrial Hydrogen Evolution with Ultralow Pt Usage</title>
-      <link>https://doi.org/10.1021/jacs.4c11445</link>
-      <description>Jingyi Tian, Minqi Xia, Xueyi Cheng, Chenghui Mao, Yiqun Chen, Yan Zhang, Changkai Zhou, Fengfei Xu, Lijun Yang, Xizhang Wang, Qiang Wu, Zheng Hu, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4404681858
-
-                Engineering microstructures of Pt and understanding the related catalytic mechanism are critical to optimizing the performance for hydrogen evolution reaction (HER). Herein, Pt dispersion and coordination are precisely regulated on hierarchical nitrogen-doped carbon nanocages (hNCNCs) by a thermal-driven Pt migration, from edge-hosted Pt&#8211;N2Cl2 single sites in the initial Pt1/hNCNC-70 &#176;C catalyst to Pt clusters/nanoparticles and back to in-plane Pt&#8211;NxC4&#8211;x single sites. Thereinto, Pt&#8211;N2Cl2 presents the optimal HER activity (6 mV@10 mA cm&#8211;2) while Pt&#8211;NxC4&#8211;x shows poor HER activity (321 mV@10 mA cm&#8211;2) due to their different Pt coordination. Operando characterizations demonstrate that the low-coordinated Pt&#8211;N2 intermediates derived from Pt&#8211;N2Cl2 under the working condition are the real active sites for HER, which enable the multi-H adsorption mechanism with an ideal H* adsorption energy of nearly 0 eV, thereby the high activity, as revealed by theoretical calculations. In contrast, the high-coordinated Pt&#8211;NxC4&#8211;x sites only allow the single-H adsorption with a positive adsorption energy and thereby the low HER activity. Accordingly, with an ultralow Pt loading of only 25 &#956;gPt cm&#8211;2, the proton exchange membrane water electrolyzer assembled using Pt1/hNCNC-70 &#176;C as the cathodic catalyst achieves an industrial-level current density of 1.0 A cm&#8211;2 at a low cell voltage of 1.66 V and high durability, showing great potential applications.</description>
-      <author>Jingyi Tian, Minqi Xia, Xueyi Cheng, Chenghui Mao, Yiqun Chen, Yan Zhang, Changkai Zhou, Fengfei Xu, Lijun Yang, Xizhang Wang, Qiang Wu, Zheng Hu</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c11445</guid>
-    </item>
-    <item>
-      <title>Epoxidized Single-Atom Co&#8211;N&#8211;C Catalysts Promote the Oxygen Reduction Reaction via a Two-Electron Pathway</title>
-      <link>https://doi.org/10.1021/acsami.4c17354</link>
-      <description>Li Wang, Jingyu Feng, Tao Yang, Yao Qin, Jiacheng Xie, Zengxi Wei, Shuangliang Zhao, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4404686505
-
-                Coordination structure and group modifications of single-atom catalysts are essential for regulating superficial electronic structures and reaction activities. Epoxy group-modified single-atom Co-N-C configuration demonstrates exceptional catalytic performance for hydrogen peroxide production. Through the manipulation of the coordination structure of Co-N-C and the doped epoxy groups, we elucidate the origin of catalytic activity in epoxygroup-modified Co-N-C configurations. Theoretical results indicate that the second coordination sphere of the Co-N-C structure is essential for the regulation of the two-electron pathway by the epoxy groups acting as cocatalysts. This cocatalytic mechanism originates from hydrogen bonding interactions between the epoxy groups and the OOH intermediates. Three epoxy groups within the second coordination sphere of Co-N-C configuration lead to the achievement of the optimal</description>
-      <author>Li Wang, Jingyu Feng, Tao Yang, Yao Qin, Jiacheng Xie, Zengxi Wei, Shuangliang Zhao</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c17354</guid>
-    </item>
-    <item>
-      <title>A Complex Oxide Containing Inherent Peroxide Ions for Catalyzing Oxygen Evolution Reactions in Acid</title>
-      <link>https://doi.org/10.1021/jacs.4c11477</link>
-      <description>Jie Dai, Zihan Shen, Yu Chen, Mengran Li, Vanessa K. Peterson, Jiayi Tang, Xixi Wang, Yu Li, Daqin Guan, Chuan Zhou, Hainan Sun, Zhiwei Hu, Wei-Hsiang Huang, Chih&#8208;Wen Pao, Guangming Chen, Yinlong Zhu, Wei Zhou, Zongping Shao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4404690511
-
-                Proton exchange membrane water electrolyzers powered by sustainable energy represent a cutting-edge technology for renewable hydrogen generation, while slow anodic oxygen evolution reaction (OER) kinetics still remains a formidable obstacle that necessitates basic comprehension for facilitating electrocatalysts' design. Here, we report a low-iridium complex oxide La</description>
-      <author>Jie Dai, Zihan Shen, Yu Chen, Mengran Li, Vanessa K. Peterson, Jiayi Tang, Xixi Wang, Yu Li, Daqin Guan, Chuan Zhou, Hainan Sun, Zhiwei Hu, Wei-Hsiang Huang, Chih&#8208;Wen Pao, Guangming Chen, Yinlong Zhu, Wei Zhou, Zongping Shao</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c11477</guid>
-    </item>
-    <item>
-      <title>General-purpose neural network potential for Ti-Al-Nb alloys towards large-scale molecular dynamics with &lt;i&gt;ab initio&lt;/i&gt; accuracy</title>
-      <link>https://doi.org/10.1103/physrevb.110.184115</link>
-      <description>Zhiqiang Zhao, Min Yi, Wanlin Guo, Zhuhua Zhang, Physical review. B./Physical review. B. 110(18)] 2024. https://openalex.org/W4404693962
-
-                High Nb-containing TiAl alloys exhibit exceptional high-temperature strength and room-temperature ductility, making them widely used in hot-section components of automotive and aerospace engines. However, the lack of accurate interatomic interaction potential for large-scale modeling severely hampers a comprehensive understanding of the failure mechanism of Ti-Al-Nb alloys and the development of strategies to enhance the mechanical properties. Here, we develop a general-purpose machine-learned potential (MLP) for the Ti-Al-Nb ternary system by combining the neural evolution potential framework with an active learning scheme. The developed MLP, trained on extensive first-principles datasets, demonstrates remarkable accuracy in predicting various lattice and defect properties as well as high-temperature characteristics such as thermal expansion and melting point for TiAl systems. Notably, this potential can effectively describe the key effect of Nb doping on stacking fault energies and formation energies. Of practical importance is that our MLP enables large-scale molecular dynamics simulations involving tens of millions of atoms with ab initio accuracy, achieving an outstanding balance between computational speed and accuracy. These results pave the way for elucidating micromechanical behaviors and failure mechanism TiAl lamellar structures and developing high-performance TiAl alloys towards applications at elevated temperatures.</description>
-      <author>Zhiqiang Zhao, Min Yi, Wanlin Guo, Zhuhua Zhang</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.184115</guid>
-    </item>
-    <item>
-      <title>An Automated Pynta-based Curriculum for ML-Accelerated Calculation of Transition States</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-7d1z1</link>
-      <description>Trevor Price, Saurabh Sivakumar, Matthew Johnson, Judit Z&#225;dor, Ambarish Kulkarni, No host. None(None)] 2024. https://openalex.org/W4404697307
-
-                Microkinetic models (MKMs) are widely used within the computational heterogeneous catalysis community to investigate complex reaction mechanisms, rationalize experimental trends, and to accelerate the rational design of novel catalysts. However, constructing these models requires computationally expensive and manually tedious density functional theory (DFT) calculations for identifying transition states for each elementary reaction within the MKM. To address these challenges we demonstrate a novel protocol that uses the open-source kinetics workflow tool Pynta to automate the iterative training of a reactive machine learning potential (rMLP). Specifically, using the silver-catalyzed partial oxidation of methanol as a prototypical example, we first demonstrate our workflow by training an rMLP to accelerate the parallel calculation of DFT-quality transition states for all 53 reactions, achieving a 7x speedup compared to a DFT-only strategy. Detailed analysis of our training curriculum reveals the shortcomings of using an adaptive sampling scheme with a single rMLP model to describe all reactions within the MKM simultaneously. We show that these limitations can be overcome using a balanced "reaction class" approach that uses multiple rMLP models, each describing a single class of similar transition states. Finally, we demonstrate that our Pynta-based workflow is also compatible with large pre-trained foundational models. For example, by fine-tuning a top-performing graph neural network potential trained on the OC20 dataset, we observe an impressive 20x speedup with an 89\% success rate in identifying transition states. This work highlights the synergistic potential of integrating automated tools with machine learning to advance catalysis research.</description>
-      <author>Trevor Price, Saurabh Sivakumar, Matthew Johnson, Judit Z&#225;dor, Ambarish Kulkarni</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-7d1z1</guid>
-    </item>
-    <item>
-      <title>Emerging Carbon-Based Catalysts for the Oxygen Reduction Reaction: Insights into Mechanisms and Applications</title>
-      <link>https://doi.org/10.3390/inorganics12120303</link>
-      <description>Jing Guo, Yuqi Yao, Xin Yan, Xue Meng, Qing Wang, Yahui Zhang, Shengxue Yan, Xue Zhao, Shaohua Luo, Inorganics. 12(12)] 2024. https://openalex.org/W4404697886
-
-                The oxygen reduction reaction (ORR), as a key electrode process in fuel cells and metal-air batteries, plays a pivotal role in advancing clean energy technologies. However, the slow kinetics and high overpotential of the ORR significantly limit the efficiency of these energy devices. Therefore, the development of efficient, stable, and cost-effective ORR catalysts has become a central focus of current research. Carbon-based catalysts, with their excellent conductivity, chemical stability, and tunable structural features, have emerged as promising alternatives to traditional precious metal catalysts. Nevertheless, challenges remain in the design of active sites, the tuning of electronic structures, and the large-scale synthesis of carbon-based catalysts. This review systematically introduces the fundamental mechanisms and key factors influencing the ORR, providing an analysis of the critical variables that affect catalyst performance. Furthermore, it summarizes several common methods for synthesizing carbon-based catalysts, including pyrolysis, deposition, and ball milling. Following this, the review categorizes and discusses the latest advancements in metal-free carbon-based catalysts, single-atom and dual-atom catalysts, as well as metal-based nanoparticle catalysts, with a particular focus on their mechanisms for enhancing the ORR performance. Finally, the current state of research on carbon-based ORR catalysts is summarized, and future development directions are proposed, emphasizing the optimization of active sites, improvements in catalyst stability, and potential strategies for large-scale applications.</description>
-      <author>Jing Guo, Yuqi Yao, Xin Yan, Xue Meng, Qing Wang, Yahui Zhang, Shengxue Yan, Xue Zhao, Shaohua Luo</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/inorganics12120303</guid>
-    </item>
-    <item>
-      <title>Topological semimetals with intrinsic chirality as spin-controlling electrocatalysts for the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41560-024-01674-9</link>
-      <description>Xia Wang, Qun Yang, Sukriti Singh, Horst Borrmann, Vicky Hasse, Changjiang Yi, Yongkang Li, Marcus Schmidt, Xiaodong Li, Gerhard H. Fecher, Dong Zhou, Binghai Yan, Claudia Felser, Nature Energy. None(None)] 2024. https://openalex.org/W4404699558
-
-                Abstract Electrocatalytic water splitting is a promising approach for clean hydrogen production, but the process is hindered by the sluggish kinetics of the anodic oxygen evolution reaction (OER) owing to the spin-dependent electron transfer process. Efforts to control spin through chirality and magnetization have shown potential in enhancing OER performance. Here we harnessed the potential of topological chiral semimetals (RhSi, RhSn and RhBiS) and their spin-polarized Fermi surfaces to promote the spin-dependent electron transfer in the OER, addressing the traditional volcano-plot limitations. We show that OER activities follow the trend RhSi &lt; RhSn &lt; RhBiS, corresponding to the increasing extent of spin&#8211;orbit coupling (SOC). The chiral single crystals outperform achiral counterparts (RhTe 2 , RhTe and RuO 2 ) in alkaline electrolyte, with RhBiS exhibiting a specific activity two orders of magnitude higher than RuO 2 . Our work reveals the pivotal roles of chirality and SOC in spin-dependent catalysis, facilitating the design of ultra-efficient chiral catalysts.</description>
-      <author>Xia Wang, Qun Yang, Sukriti Singh, Horst Borrmann, Vicky Hasse, Changjiang Yi, Yongkang Li, Marcus Schmidt, Xiaodong Li, Gerhard H. Fecher, Dong Zhou, Binghai Yan, Claudia Felser</author>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41560-024-01674-9</guid>
-    </item>
-    <item>
-      <title>Manipulating C-C coupling pathway in electrochemical CO2 reduction for selective ethylene and ethanol production over single-atom alloy catalyst</title>
-      <link>https://doi.org/10.1038/s41467-024-54636-w</link>
-      <description>Shifu Wang, Fuhua Li, Jian Zhao, Yaqiong Zeng, Yifan Li, Zih&#8208;Yi Lin, Tsung-Ju Lee, Shu-Hui Liu, Xinyi Ren, Weijue Wang, Yusen Chen, Sung&#8208;Fu Hung, Ying&#8208;Rui Lu, Yi Cui, Xiaofeng Yang, Xuning Li, Yanqiang Huang, Bin Liu, Nature Communications. 15(1)] 2024. https://openalex.org/W4404709191
-
-                Manipulation C-C coupling pathway is of great importance for selective CO2 electroreduction but remain challenging. Herein, two model Cu-based catalysts, by modifying Cu nanowires with Ag nanoparticles (AgCu NW) and Ag single atoms (Ag1Cu NW), respectively, are rationally designed for exploring the C-C coupling mechanisms in electrochemical CO2 reduction reaction (CO2RR). Compared to AgCu NW, the Ag1Cu NW exhibits a more than 10-fold increase of C2 selectivity in CO2 reduction to ethanol, with ethanol-to-ethylene ratio increased from 0.41 over AgCu NW to 4.26 over Ag1Cu NW. Via a variety of operando/in-situ techniques and theoretical calculation, the enhanced ethanol selectivity over Ag1Cu NW is attributed to the promoted H2O dissociation over the atomically dispersed Ag sites, which effectively accelerated *CO hydrogenation to form *CHO intermediate and facilitated asymmetric *CO-*CHO coupling over paired Cu atoms adjacent to single Ag atoms. Results of this work provide deep insight into the C-C coupling pathways towards target C2+ product and shed light on the rational design of efficient CO2RR catalysts with paired active sites. Manipulating the carbon-carbon coupling pathway in CO2 electroreduction is vital yet challenging. Here, by studying two model copper-based catalysts with distinct ethylene and ethanol selectivity, authors investigate the mechanistic origins for symmetric and asymmetric carbon-carbon coupling.</description>
-      <author>Shifu Wang, Fuhua Li, Jian Zhao, Yaqiong Zeng, Yifan Li, Zih&#8208;Yi Lin, Tsung-Ju Lee, Shu-Hui Liu, Xinyi Ren, Weijue Wang, Yusen Chen, Sung&#8208;Fu Hung, Ying&#8208;Rui Lu, Yi Cui, Xiaofeng Yang, Xuning Li, Yanqiang Huang, Bin Liu</author>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54636-w</guid>
-    </item>
     <item>
       <title>Multidimensional Neural Network Interatomic Potentials for CO on NaCl(100)</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c05765</link>
@@ -468,6 +378,46 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122669</guid>
     </item>
     <item>
+      <title>MoS2 for Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1007/978-981-97-7367-1_13</link>
+      <description>Siby Thomas, Minu Mathew, K. P. Priyanka, Dickson D. Babu, Materials horizons. None(None)] 2024. https://openalex.org/W4404901508
+
+                No abstract</description>
+      <author>Siby Thomas, Minu Mathew, K. P. Priyanka, Dickson D. Babu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-7367-1_13</guid>
+    </item>
+    <item>
+      <title>Crystallization kinetics in Ge-rich Ge&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1383" altimg="si3.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;Te alloys from large scale simulations with a machine-learned interatomic potential</title>
+      <link>https://doi.org/10.1016/j.actamat.2024.120608</link>
+      <description>Dario Baratella, Omar Abou El Kheir, Marco Bernasconi, Acta Materialia. None(None)] 2024. https://openalex.org/W4404905566
+
+                No abstract</description>
+      <author>Dario Baratella, Omar Abou El Kheir, Marco Bernasconi</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120608</guid>
+    </item>
+    <item>
+      <title>Spectral operator representations</title>
+      <link>https://doi.org/10.1038/s41524-024-01446-9</link>
+      <description>Austin Zadoks, Antimo Marrazzo, Nicola Marzari, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4404906070
+
+                Machine learning in atomistic materials science has grown to become a powerful tool, with most approaches focusing on atomic geometry, typically decomposed into local atomic environments. This approach, while well-suited for machine-learned interatomic potentials, is conceptually at odds with learning complex intrinsic properties of materials, often driven by spectral properties commonly represented in reciprocal space (e.g., band gaps or mobilities) which cannot be readily partitioned in real space. For such applications, methods that represent the electronic rather than the atomic structure could be more promising. In this work, we present a general framework focused on electronic-structure descriptors that take advantage of the natural symmetries and inherent interpretability of physical models. We apply this framework first to material similarity and then to accelerated screening, where a model trained on 217 materials correctly labels 75% of entries in the Materials Cloud 3D database, which meet common screening criteria for promising transparent-conducting materials.</description>
+      <author>Austin Zadoks, Antimo Marrazzo, Nicola Marzari</author>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01446-9</guid>
+    </item>
+    <item>
+      <title>Instant prediction of scientific paper cited potential based on semantic and metadata features: Taking artificial intelligence field as an example</title>
+      <link>https://doi.org/10.1371/journal.pone.0312945</link>
+      <description>Hou Zhu, Li Shuhuai, PLoS ONE. 19(12)] 2024. https://openalex.org/W4404914188
+
+                With the continuous increase in the number of academic researchers, the volume of scientific papers is also increasing rapidly. The challenge of identifying papers with greater potential academic impact from this large pool has received increasing attention. The citation frequency of a paper is often used as an objective indicator to gauge the academic influence of the paper. The task of citation frequency prediction based on historical citation data in previous studies can achieve high accuracy. However, it can only be executed after the paper has been published for a period. The delay is not conducive to timely discovery of papers with high citation frequency. In this paper, we propose a novel method for predicting cited potential of a paper based on the metadata and semantic information, which can predict the cited potential of academic paper instantly once it has been published. Specifically, the semantic information, such as abstract, semantic span and semantic inflection, is extracted to enhance the ability of the prediction model based on machine learning. To prove the effectiveness and rationality of cited potential prediction model, we conduct two experiments to validate the model and find the most effective combination of input information. The empirical experiments show that the prediction accuracy of our proposed model can reach 88% for the instant prediction of citation.</description>
+      <author>Hou Zhu, Li Shuhuai</author>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0312945</guid>
+    </item>
+    <item>
       <title>Modeling and Comparative Analysis of CO&lt;sub&gt;2&lt;/sub&gt; Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems</title>
       <link>https://doi.org/10.1021/acs.iecr.4c01523</link>
       <description>Katelyn M. Ripley, Fikile R. Brushett, Industrial &amp; Engineering Chemistry Research. None(None)] 2024. https://openalex.org/W4404787306
@@ -496,6 +446,16 @@
       <author>Maxim Y. Gvozdev, Iveta S. Turomsha, Natalia V. Loginova, E. Yu. Varfolomeeva, R. A. Kovalev, N. D. Fedorova, &#1043;. &#1040;. &#1050;&#1089;&#1077;&#1085;&#1076;&#1079;&#1086;&#1074;&#1072;, N.P. Osipovich, &#1056;. &#1051;. &#1057;&#1074;&#1077;&#1088;&#1076;&#1083;&#1086;&#1074;</author>
       <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1080/10715762.2024.2433985</guid>
+    </item>
+    <item>
+      <title>High-Throughput Screening Approach for Catalytic Applications through Regulation of Adsorption Energies via Work Function</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c03385</link>
+      <description>Xuhong Zhao, Jianwei Wang, Xiaobin Niu, Langmuir. None(None)] 2024. https://openalex.org/W4404913328
+
+                Adsorption energy is critical in catalysis, energy storage, and sensing. Optimal adsorption energy on a catalytic substrate is essential as extreme adsorption energy can reduce the reaction efficiency. Building on our previous research on the influence of work function on adsorption energy (Phys. Chem. Chem. Phys. 2024, 26, 3525&#8211;3530), we examined a range of two-dimensional semiconductor materials, including black phosphorene, boron nitride, and MoS2, as supporting substrates for the construction of silicene&#8211;semiconductor heterojunctions. Furthermore, we analyzed how work function changes impact adsorption energy during O2 adsorption and developed a theoretical model to explain this relationship. The model was validated by demonstrating the regulation of the catalytic reaction barrier in the oxygen reduction reaction and was applied to N2 adsorption via high-throughput screening. Our findings demonstrate that the work function modulates the adsorption energy in van der Waals heterojunctions, enhancing catalytic efficiency. This approach aligns with the Sabatier principle and offers a pathway for optimizing catalysts.</description>
+      <author>Xuhong Zhao, Jianwei Wang, Xiaobin Niu</author>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c03385</guid>
     </item>
   </channel>
 </rss>
