@@ -1,65 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Dec  4 01:28:05 2024
+Created on Thu Dec  5 01:27:54 2024
 
-Found 8 results from 2024-11-27 to 2024-12-04
+Found 6 results from 2024-11-28 to 2024-12-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Multi-Period Optimization of Multi-Timescale Energy Systems: Application to Solid-Oxide Electrolysis Cells   
-
-OpenAlex: https://openalex.org/W4404730544    
-Open access: False
-    
-[Nishant Giridhar](https://openalex.org/A5094303018), [Douglas Allan](https://openalex.org/A5070732014), [Steve Zitney](https://openalex.org/A5012099582), [Eric Liese](https://openalex.org/A5037132412), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Debangsu Bhattacharyya](https://openalex.org/A5037148093), No host. None(None)] 2024.https://doi.org/10.2172/2478222.
-    
-No abstract    
-
-    
-
-## Two-stage Stochastic Generalized Disjunctive Programming (GDP) Model for Proactive Planning and Reactive Operations of Resilient Power Systems under Disruptions   
-
-OpenAlex: https://openalex.org/W4404730850    
-Open access: False
-    
-[Seolhee Cho](https://openalex.org/A5060951641), [Ignacio E. Grossmann](https://openalex.org/A5056017028), No host. None(None)] 2024.https://doi.org/10.2172/2478216.
-    
-No abstract    
-
-    
-
-## Optimization Model and Algorithm for Capacity Planning and Operation of Reliable and Carbon-neutral Power Systems with High Penetration of Renewable Generation   
-
-OpenAlex: https://openalex.org/W4404730865    
-Open access: False
-    
-[Seolhee Cho](https://openalex.org/A5060951641), [Javier Tovar-Facio](https://openalex.org/A5040511658), [Benjamin Omell](https://openalex.org/A5000874144), [Radhakrishna Gooty](https://openalex.org/A5062255632), [Christopher McLean](https://openalex.org/A5088878877), [Anthony P. Burgard](https://openalex.org/A5043316648), [John Daniel Siirola](https://openalex.org/A5047681120), [Kyle Skolfield](https://openalex.org/A5092625536), [John Shinn](https://openalex.org/A5112091243), [Ignacio E. Grossmann](https://openalex.org/A5056017028), No host. None(None)] 2024.https://doi.org/10.2172/2478221.
-    
-No abstract    
-
-    
-
-## A Computational Framework for Evaluating and Optimizing Critical Mineral Recovery Opportunities in Produced Water Networks   
-
-OpenAlex: https://openalex.org/W4404731511    
-Open access: False
-    
-[Arsh Bhatia](https://openalex.org/A5093452517), [Georgia Stinchfield](https://openalex.org/A5007541692), [Daniel Ovalle Varela](https://openalex.org/A5093452518), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Carl D. Laird](https://openalex.org/A5030631754), No host. None(None)] 2024.https://doi.org/10.2172/2478224.
-    
-No abstract    
-
-    
-
-## Machine Learning and Process Systems Engineering for Sustainable Chemical Processes- A Short Review   
-
-OpenAlex: https://openalex.org/W4404733139    
-Open access: False
-    
-[Ana I. Torres](https://openalex.org/A5027983186), [Jimena Ferreira](https://openalex.org/A5073891151), [Martín Pedemonte](https://openalex.org/A5091770128), Current Opinion in Green and Sustainable Chemistry. None(None)] 2024.https://doi.org/10.1016/j.cogsc.2024.100982.
-    
-No abstract    
-
-    
 
 ## Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances   
 
@@ -91,5 +36,38 @@ Open access: False
 [Ilayda Akkor](https://openalex.org/A5105016306), [Shachit S. Iyer](https://openalex.org/A5043467732), [John Dowdle](https://openalex.org/A5105016307), [Le Wang](https://openalex.org/A5109297761), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), International journal of greenhouse gas control. 140(None)] 2024.https://doi.org/10.1016/j.ijggc.2024.104282.
     
 No abstract    
+
+    
+
+## A hybrid method for online monitoring of internals performance in distillation columns   
+
+OpenAlex: https://openalex.org/W4404936300    
+Open access: False
+    
+[Yujie Hu](https://openalex.org/A5015579576), [Runjie Yao](https://openalex.org/A5113289716), [Lingyu Zhu](https://openalex.org/A5110463330), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Xi Chen](https://openalex.org/A5100329900), Computers & Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108968.
+    
+No abstract    
+
+    
+
+## Correction to Conformational Features of Tau Fibrils from Alzheimer’s Disease Brain Are Faithfully Propagated by Unmodified Recombinant Protein   
+
+OpenAlex: https://openalex.org/W4404974593    
+Open access: True
+    
+[Olga A. Morozova](https://openalex.org/A5000985636), [Zachary M. March](https://openalex.org/A5081442391), [Anne S. Robinson](https://openalex.org/A5053252662), [David W. Colby](https://openalex.org/A5032183531), Biochemistry. 63(23)] 2024.https://doi.org/10.1021/acs.biochem.6b01240 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.biochem.6b01240?ref=article_openPDF)).
+    
+InfoMetricsFiguresRef. BiochemistryVol 63/Issue 23Article This publication is free to access through this site. Learn More CiteCitationCitation and abstractCitation and referencesMore citation options ShareShare onFacebookX (Twitter)WeChatLinkedInRedditEmailJump toExpandCollapse ORIGINAL ARTICLE. This notice is a correction.Addition/CorrectionDecember 3, 2024Correction to Conformational Features of Tau Fibrils from Alzheimer's Disease Brain Are Faithfully Propagated by Unmodified Recombinant ProteinClick to copy article linkArticle link copied!Olga A. MorozovaOlga A. MorozovaMore by Olga A. MorozovaZachary M. MarchZachary M. MarchMore by Zachary M. MarchAnne S. Robinson*Anne S. RobinsonMore by Anne S. RobinsonDavid W. Colby*David W. ColbyMore by David W. ColbyOpen PDFBiochemistryCite this: Biochemistry 2024, 63, 23, 3160Click to copy citationCitation copied!https://pubs.acs.org/doi/10.1021/acs.biochem.6b01240https://doi.org/10.1021/acs.biochem.6b01240Published December 3, 2024 Publication History Published online 3 December 2024Published in issue 3 December 2024correctionCopyright © 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissionsThis publication is licensed for personal use by The American Chemical Society. ACS PublicationsCopyright © 2024 American Chemical SocietyWe provide much greater methodological detail as well as a refined protocol for the essential assay described in the original paper. Although others have reproduced our results [e.g., Falcon, B., et al. (2014) J. Biol. Chem. 290, 1049], we believe this updated protocol will facilitate the reproducibility of our findings to a greater extent.Additional Methods InformationClick to copy section linkSection link copied! Large Scale Production and Purification of Recombinant Tau ProteinRecombinant 0N4R tau protein was purified34,35 from BL21 Escherichia coli (New England BioLabs) that was transformed with an IPTG-inducible pET-11a vector encoding the human 0N4R tau isoform under the T7 promoter. A fresh plate was made by streaking an LB and 100 mg/L ampicillin plate with an E. coli glycerol stock. The plate was incubated at 37 °C overnight. A single colony was picked from the plate and grown at 37 °C in 5 mL of LB, 100 mg/mL ampicillin culture for 12 h before the addition to a 200 mL LP, 100 mg/L ampicillin culture. Cells were grown overnight and then used as an innoculum for 20 L of a TB and ampicillin (100 mg/L) fermentation in a New Brunswik BioFlo 4500 fermenter with 30% dissolved oxygen with 200 rpm agitation at 37 °C. Cells were grown until the culture reached an OD600 of 0.4–0.6 and then induced with 0.5 mM IPTG. The cells were grown for 3 h before being harvested by centrifugation at 5000g for 15 min at 4 °C. Cell pellets were resuspended in purification buffer BRB80 [80 mM PIPES buffer, 1 mM EGTA, and 1 mM MgCl2 (pH 6.8)] with added protease inhibitors [1 mM PMSF and 1 mM protease inhibitor cocktail (Sigma)] and sonicated with a Fisher Scientific model 120 sonicator for a total of 10 min at 80% amplitude (10 s on/10 s off) on ice. The cell lysate was centrifuged at 5000g for 15 min at 4 °C, and the supernatant was boiled for 15 min. The tau protein has a high thermal resistivity at 100 °C like most other proteins. Incubating the lysate in a boiling water bath therefore keeps tau intact and denatures a large portion of other proteins present. The boiled lysate was centrifuged at 5000g for 15 min at 4 °C, and the supernatant was used for further purification of tau by ion exchange. Ion exchange chromatography was performed with activated phosphocellulose resin (Whatman P11) with a 60 mL gravity column. The lysate was loaded onto the column (1 g of resin/L of culture), washed with 1 lysate volume equivalent of BRB80 buffer, and then washed with 1 lysate volume equivalent of 0.1 M NaCl in BRB80 buffer. Pure recombinant tau was eluted in 0.3 M NaCl in BRB80 buffer. The resulting pure recombinant tau concentration was measured by UV A280 spectroscopy, and the purity was measured via Coomassie densitometry (Figure S1). The purified protein was frozen in 1 mg/mL aliquots at −80 °C and thawed immediately prior to use.Monomeric recombinant tau protein showed characteristics of random coil structure upon being examined by circular dichroism with no signs of misfolding upon being examined by electron microscopy (Figure S2). Improved Conditions for Monitoring the Kinetics of Tau FibrillizationRecombinant monomeric tau protein was diluted to 1 mg/mL in BRB80 buffer [80 mM PIPES buffer, 1 mM EGTA, and 1 mM MgCl2 (pH 6.8)] and boiled for 5 min with β-mercaptoethanol. The boiled solution was then rapidly diluted into room-temperature phosphate-buffered saline to a final recombinant tau concentration of 0.135–0.2 mg/mL and 5 mM β-mercaptoethanol and then incubated at 37 °C in a 200 μL reaction volume with an appropriate inducer or seed (30 μg/mL heparin, 10 μL of partially purified 1% brain homogenate, or both heparin and brain homogenate) and 40 μM thioflavin T (ThT). A 3 mm glass bead was added to each well to increase the level of agitation with shaking. The plate was sealed with sealing tape (Fisher) to prevent evaporation over time. The ThT fluorescence was monitored over time with excitation and emission filters set to 444 and 485 nm, respectively, using a Spectramax M2 plate reader. Fluorescence readings were taken every 5 min, with agitation for 3 s before each reading.Author InformationClick to copy section linkSection link copied!Corresponding AuthorsAnne S. Robinson; Email: David W. Colby; Email: AuthorsOlga A. MorozovaZachary M. MarchCited By Click to copy section linkSection link copied!This article has not yet been cited by other publications.Download PDFFiguresReferences Get e-AlertsGet e-AlertsBiochemistryCite this: Biochemistry 2024, 63, 23, 3160Click to copy citationCitation copied!https://doi.org/10.1021/acs.biochem.6b01240Published December 3, 2024 Publication History Published online 3 December 2024Published in issue 3 December 2024Copyright © 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissionsArticle Views-Altmetric-Citations-Learn about these metrics closeArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.Recommended Articles FiguresReferencesThis publication has no figures.This publication has no References.    
+
+    
+
+## Autophagy and Akt‐Stimulated Cellular Proliferation Synergistically Improve Antibody Production in CHO Cells   
+
+OpenAlex: https://openalex.org/W4404976716    
+Open access: True
+    
+[Leran Mao](https://openalex.org/A5010070116), [Sarah Michelle Sonbati](https://openalex.org/A5114982676), [James Schneider](https://openalex.org/A5028147543), [Anne S. Robinson](https://openalex.org/A5053252662), Biotechnology Journal. 19(11)] 2024.https://doi.org/10.1002/biot.202400033.
+    
+ABSTRACT Over the past decade, engineered producer cell lines have led 10‐fold increases in antibody yield, based on an improved understanding of the cellular machinery influencing cell health and protein production. With prospects for further production improvements, increased antibody production would enable a significant cost reduction for life‐saving therapies. In this study, we strategized methods to increase cell viability and the resulting cell culture duration to improve production lifetimes. By overexpressing the cell surface adenosine A 2A receptor (A 2A R), the Akt pathway was activated, resulting in improved cellular proliferation. Alternatively, by inducing autophagy through temperature downshift, we were able to significantly enhance cellular‐specific productivity, with up to a three‐fold increase in total antibody production as well as three‐fold higher cell‐specific productivity. Interestingly, the expression levels of the autophagy pathway protein Beclin‐1 appeared to correlate best with the total antibody production, of autophagy‐related proteins examined. Thus, during cell clonal development Beclin‐1 levels may serve as a marker to screen for conditions that optimize antibody titer.    
 
     

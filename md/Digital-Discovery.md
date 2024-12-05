@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Dec  4 01:28:07 2024
+Created on Thu Dec  5 01:27:56 2024
 
-Found 6 results from 2024-11-27 to 2024-12-04
+Found 6 results from 2024-11-28 to 2024-12-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## A Framework for Reviewing the Results of Automated Conversion of Structured Organic Synthesis Procedures from the Literature   
-
-OpenAlex: https://openalex.org/W4404733186    
-Open access: True
-    
-[Kojiro Machi](https://openalex.org/A5033045938), [Seiji Akiyama](https://openalex.org/A5083481852), [Yuuya Nagata](https://openalex.org/A5011928915), [Masaharu Yoshioka](https://openalex.org/A5073957412), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00335g.
-    
-Organic synthesis procedures in the scientific literature are typically shared in prose (i.e., as unstructured data), which is not suitable for data-driven research applications. To represent such procedures, there is...    
-
-    
 
 ## Machine learning for accelerated prediction of lattice thermal conductivity at arbitrary temperature   
 
@@ -69,5 +58,16 @@ Open access: True
 [Jiajun Zhou](https://openalex.org/A5054834430), [Yijie Yang](https://openalex.org/A5110975187), [Austin M. Mroz](https://openalex.org/A5000408874), [Kim E. Jelfs](https://openalex.org/A5056792018), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00236a.
     
 Polymers play a crucial role in a wide array of applications due to their diverse and tunable properties. Establishing the relationship between polymer representations and their properties is crucial to...    
+
+    
+
+## Data efficiency of classification strategies for chemical and materials design   
+
+OpenAlex: https://openalex.org/W4404961437    
+Open access: True
+    
+[Quinn Gallagher](https://openalex.org/A5106347725), [Michael Webb](https://openalex.org/A5072988684), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00298a.
+    
+We benchmark the performance of space-filling and active learning algorithms on classification problems in materials science, revealing trends in optimally data-efficient algorithms.    
 
     

@@ -1,31 +1,10 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Dec  4 01:28:07 2024
+Created on Thu Dec  5 01:27:56 2024
 
-Found 6 results from 2024-11-27 to 2024-12-04
+Found 6 results from 2024-11-28 to 2024-12-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
-
-* A Framework for Reviewing the Results of Automated Conversion of Structured Organic Synthesis Procedures from the Literature  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404733186
-:TOPICS: Principles and Applications of Green Chemistry, State-of-the-Art in Process Optimization under Uncertainty, Organic Chemistry and Catalysis
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00335g")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404733186"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404733186"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404733186"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404733186 (Open access: True)
-    
-[[https://openalex.org/A5033045938][Kojiro Machi]], [[https://openalex.org/A5083481852][Seiji Akiyama]], [[https://openalex.org/A5011928915][Yuuya Nagata]], [[https://openalex.org/A5073957412][Masaharu Yoshioka]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00335g 
-     
-Organic synthesis procedures in the scientific literature are typically shared in prose (i.e., as unstructured data), which is not suitable for data-driven research applications. To represent such procedures, there is...    
-
-    
 
 * Machine learning for accelerated prediction of lattice thermal conductivity at arbitrary temperature  :Digital_Discovery:
 :PROPERTIES:
@@ -129,5 +108,26 @@ OpenAlex: https://openalex.org/W4404830438 (Open access: True)
 [[https://openalex.org/A5054834430][Jiajun Zhou]], [[https://openalex.org/A5110975187][Yijie Yang]], [[https://openalex.org/A5000408874][Austin M. Mroz]], [[https://openalex.org/A5056792018][Kim E. Jelfs]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00236a 
      
 Polymers play a crucial role in a wide array of applications due to their diverse and tunable properties. Establishing the relationship between polymer representations and their properties is crucial to...    
+
+    
+
+* Data efficiency of classification strategies for chemical and materials design  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4404961437
+:TOPICS: Accelerating Materials Innovation through Informatics, Computational Methods in Drug Discovery, Comminution in Mineral Processing
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00298a")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404961437"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404961437"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404961437"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4404961437 (Open access: True)
+    
+[[https://openalex.org/A5106347725][Quinn Gallagher]], [[https://openalex.org/A5072988684][Michael Webb]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00298a 
+     
+We benchmark the performance of space-filling and active learning algorithms on classification problems in materials science, revealing trends in optimally data-efficient algorithms.    
 
     

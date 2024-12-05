@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Dec 2024 01:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 01:27:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Framework for Reviewing the Results of Automated Conversion of Structured Organic Synthesis Procedures from the Literature</title>
-      <link>https://doi.org/10.1039/d4dd00335g</link>
-      <description>Kojiro Machi, Seiji Akiyama, Yuuya Nagata, Masaharu Yoshioka, Digital Discovery. None(None)] 2024. https://openalex.org/W4404733186
-
-                Organic synthesis procedures in the scientific literature are typically shared in prose (i.e., as unstructured data), which is not suitable for data-driven research applications. To represent such procedures, there is...</description>
-      <author>Kojiro Machi, Seiji Akiyama, Yuuya Nagata, Masaharu Yoshioka</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00335g</guid>
-    </item>
     <item>
       <title>Machine learning for accelerated prediction of lattice thermal conductivity at arbitrary temperature</title>
       <link>https://doi.org/10.1039/d4dd00286e</link>
@@ -66,6 +56,16 @@
       <author>Jiajun Zhou, Yijie Yang, Austin M. Mroz, Kim E. Jelfs</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00236a</guid>
+    </item>
+    <item>
+      <title>Data efficiency of classification strategies for chemical and materials design</title>
+      <link>https://doi.org/10.1039/d4dd00298a</link>
+      <description>Quinn Gallagher, Michael Webb, Digital Discovery. None(None)] 2024. https://openalex.org/W4404961437
+
+                We benchmark the performance of space-filling and active learning algorithms on classification problems in materials science, revealing trends in optimally data-efficient algorithms.</description>
+      <author>Quinn Gallagher, Michael Webb</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00298a</guid>
     </item>
   </channel>
 </rss>

@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Dec  4 01:28:03 2024
+Created on Thu Dec  5 01:27:53 2024
 
-Found 16 results from 2024-11-27 to 2024-12-04
+Found 19 results from 2024-11-28 to 2024-12-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Developing Robust Ceria-Supported Catalysts for Catalytic NO Reduction and CO/Hydrocarbon Oxidation   
-
-OpenAlex: https://openalex.org/W4404711520    
-Open access: False
-    
-[Inhak Song](https://openalex.org/A5039031267), [Libor Kovarik](https://openalex.org/A5108616466), [Mark Engelhard](https://openalex.org/A5103242318), [János Szanyi](https://openalex.org/A5076149777), [Yong Wang](https://openalex.org/A5100424548), [Konstantin Khivantsev](https://openalex.org/A5065623016), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04433.
-    
-No abstract    
-
-    
-
-## Synthesis of Unsymmetrical Disulfides via Photocatalytic Hydrodisulfuration   
-
-OpenAlex: https://openalex.org/W4404718408    
-Open access: False
-    
-[Qi-Rui Dong](https://openalex.org/A5113336481), [Yisen Wang](https://openalex.org/A5004999983), [Juan Zhang](https://openalex.org/A5054904297), [Honghong Chang](https://openalex.org/A5104306118), [Jun Tian](https://openalex.org/A5101703606), [Wen‐Chao Gao](https://openalex.org/A5071861864), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06457.
-    
-No abstract    
-
-    
-
-## Pulsed Electrolysis in Membrane Electrode Assembly Architecture for Enhanced Electrochemical Nitrate Reduction Reaction to Ammonia   
-
-OpenAlex: https://openalex.org/W4404718420    
-Open access: False
-    
-[Ramireddy Boppella](https://openalex.org/A5022239473), [Maryam Ahmadi](https://openalex.org/A5110308171), [B Arndt](https://openalex.org/A5112828743), [Danielle R. Lustig](https://openalex.org/A5028610828), [Mohammadreza Nazemi](https://openalex.org/A5086722511), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05225.
-    
-No abstract    
-
-    
-
-## Insight into Roles of Rare-Earth Metals in Heterobimetallic Ni–Y Bifunctional Catalysis for Alkyne Semihydrogenation   
-
-OpenAlex: https://openalex.org/W4404738907    
-Open access: False
-    
-[Peifeng Su](https://openalex.org/A5003145603), [Huayu Liang](https://openalex.org/A5029680733), [Yinwu Li](https://openalex.org/A5059248880), [Zhuofeng Ke](https://openalex.org/A5022393729), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05093.
-    
-Due to the unique properties of rare-earth (RE) metals, RE catalysts demonstrate distinctive catalytic performance in hydrogenation and related transformations. In typical RE catalytic systems, the roles and function modes have been studied and are relevant to ligands. In recent years, heterobimetallic catalytic systems have emerged for efficient hydrogenation and related transformations. Among these systems, heterobimetallic catalysts with transition metal (TM)-RE combinations integrate the characteristics of TM catalysis and RE catalysis, exhibiting a TM-RE bifunctional effect with remarkable activity and selectivity. However, the roles of RE metals in TM-RE bifunctional catalysis remain ambiguous. This theoretical study takes the Ni–Y system as a study case, aiming to elucidate the significant roles of the RE center in the TM-RE bifunctional effect on catalytic alkyne semihydrogenation. The results suggest that dynamic coordination can occur at the Y center due to its large size and coordination ability, which accepts the binding of phosphine groups of the ligand. The dynamic coordination of phosphine groups to the large-size RE center assists the Ni center in releasing vacant sites for substrate in-cage binding and reduces the steric effect on the Ni center. Meanwhile, the Lewis acidic RE center can stabilize the bridging hydride, which is crucial for H2 activation and hydrogenation. The TM-RE bifunctional effect promotes the reaction. During the H2 activation stage, due to the stabilization of nickel hydrides by yttrium, the fac-pathway is more favored. The Ni–H–Y bridging structure is maintained during the initial hydride insertion in the semihydrogenation stage, which is crucial for the reaction. Additionally, the use of the more active terminal hydride makes the terminal hydride pathway a more plausible mechanism. Benefiting from the capability of yttrium to accept the dynamic coordination of phosphine groups, thereby releasing steric hindrance and stabilizing the bridging hydride concurrently, (Z)/(E)-isomerization can proceed to achieve (E)-selectivity through the H2-assisted Ni–Y bifunctional pathway with a relatively low energy barrier. Owing to the RE-bridging hydride stabilization effect, the thermodynamic properties of intermediates are closely related to the size of the RE metal center, thereby influencing the activity and the (Z)/(E)-selectivity. These results underscore the important roles of the RE center in TM-RE bifunctional catalysis, offering valuable insights into the future design of effective bifunctional TM-RE catalysts.    
-
-    
-
-## Effective Synthesis of 5-Amino-1-pentanol via Selective Hydrogenolysis of Biomass-Derived Furfurylamine on Supported Platinum Catalysts at Ambient Temperature   
-
-OpenAlex: https://openalex.org/W4404740052    
-Open access: False
-    
-[Guoliang Li](https://openalex.org/A5100451569), [Tong Wang](https://openalex.org/A5100450964), [Cheng‐Bin Hong](https://openalex.org/A5046743641), [Haichao Liu](https://openalex.org/A5100782473), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05122.
-    
-5-Amino-1-pentanol (APO) is an important nitrogen-containing chemical with versatile applications. However, its synthesis is still not efficient. Here, we report the synthesis of APO from biomass-derived furfurylamine (FAM) via the direct cleavage of its α–C–O bond neighboring the −CH2NH2 group at ambient temperature. Pt/TiO2 catalysts exhibited high efficiency and stability in the FAM hydrogenolysis to APO, affording a high yield of 85.4% at 30 °C and 2.0 MPa of H2 in water. The high efficiency of Pt/TiO2 was found to be related to its superior activity for the cleavage of the α–C–O bond in FAM, relative to the hydrogenation of the furan ring on the corner and edge sites of the Pt surfaces. This work provides a viable approach for the precise cleavage of the α–C–O bond neighboring the −CH2NH2 group in the furan ring under mild conditions toward the efficient production of APO and its derivatives.    
-
-    
-
-## Boosting Catalytic Hydrogen Transfer Cascade Reactions via Tandem Catalyst Design by Coupling Co Single Atoms with Adjacent Co Clusters   
-
-OpenAlex: https://openalex.org/W4404749349    
-Open access: False
-    
-[Zhanwei Chen](https://openalex.org/A5014020324), [Shaowei Yang](https://openalex.org/A5060113464), [Jie Yang](https://openalex.org/A5013850621), [Bo Zhang](https://openalex.org/A5079869008), [Hao Jiang](https://openalex.org/A5064335105), [Runze Gao](https://openalex.org/A5112995046), [Tianshuai Wang](https://openalex.org/A5057284055), [Qiuyu Zhang](https://openalex.org/A5100653692), [Hepeng Zhang](https://openalex.org/A5101820889), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05569.
-    
-The catalytic hydrogen transfer (CHT) cascade reaction coupling alcohols with nitro compounds to synthesize imines is highly significant due to its remarkable efficiency and atom economy. However, the complicated multistep reaction process makes single-site catalysts exhibit unsatisfactory catalytic performance for the CHT cascade reaction. Herein, inspired by the findings of DFT calculations that Co nanocluster (CoNC) and Co single atom (CoSA) can act as the optimal active sites for alcohol oxidation and nitro reduction, respectively, one dual-active site catalyst (CoSA-CoNC/CN), containing CoSA and CoNC sites, was synthesized by a two-step vacuum pyrolysis strategy. Benefiting from the relay-like tandem catalysis of CoNC and CoSA, CoSA-CoNC/CN achieved an impressive 93% nitrobenzene conversion and 99% imine selectivity at 160 °C in 4 h, with a record turnover frequency of 20.9 h–1. This work provides insights into the functions of single-atom and nanocluster active sites in the CHT cascade reaction and sheds light on the rational preparation of tandem catalysts.    
-
-    
 
 ## Catalytic Mechanism of SARS-CoV-2 3-Chymotrypsin-Like Protease as Determined by Steady-State and Pre-Steady-State Kinetics   
 
@@ -100,17 +34,6 @@ OpenAlex: https://openalex.org/W4404799850
 Open access: False
     
 [Peifeng Li](https://openalex.org/A5004242502), [Biaobiao Zhang](https://openalex.org/A5058707346), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05235.
-    
-No abstract    
-
-    
-
-## Effectively Regulating Electrooxidation of Formic Acid over Bimetallic PtCo Alloys via the Integration of Theory and Experiment   
-
-OpenAlex: https://openalex.org/W4404831841    
-Open access: False
-    
-[Zhikeng Zheng](https://openalex.org/A5089966981), [Bin Liu](https://openalex.org/A5107948717), [Jiaxiang Qiu](https://openalex.org/A5087450897), [Shaojun Xu](https://openalex.org/A5025279061), [Yuchen Wang](https://openalex.org/A5108137949), [Man Zhang](https://openalex.org/A5100353061), [Ke Li](https://openalex.org/A5100343468), [Zhongti Sun](https://openalex.org/A5049586106), [Ziang Li](https://openalex.org/A5100728531), [Yangyang Wan](https://openalex.org/A5060400342), [C. Richard A. Catlow](https://openalex.org/A5042572313), [Kai Yan](https://openalex.org/A5063084241), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06198.
     
 No abstract    
 
@@ -179,5 +102,115 @@ Open access: False
 [Jae‐Kwan Kim](https://openalex.org/A5012050880), [Christian R. Jacobson](https://openalex.org/A5047514009), [Naomi J. Halas](https://openalex.org/A5069086177), [Ian A. Tonks](https://openalex.org/A5083700647), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06286.
     
 Ti precatalysts containing the titanocene moiety (Cp2Ti–, Cp = cyclopentadienyl) can, under certain conditions, selectively produce cubic Al nanocrystals through the dehydrocoupling of alane amine adducts such as AlH3·NMe2Et. A systematic study of reaction conditions reveals that cubic Al nanoparticle formation occurs at a higher temperature (e.g., 65 °C) and/or higher catalyst-concentration conditions (e.g., 0.5 mol % [Ti]). Kinetic studies reveal that under these conditions nanoparticle formation and alane consumption are much faster, and cubic nanoparticle formation takes place under kinetically controlled conditions. On the other hand, employing a wide suite of TiX4 (X = anionic ligand)-type precatalysts yielded only octahedral-shaped aluminum nanoparticles regardless of conditions. Finally, we report the synthesis of a hydride-bridged Ti–Al heterobimetallic compound from the reaction of Cp2TiCl2 with AlH3·NMe2Et and characterized it to show that it is a reaction intermediate in the Ti-catalyzed aluminum nanoparticle synthesis.    
+
+    
+
+## Effectively Regulating Electrooxidation of Formic Acid over Bimetallic PtCo Alloys via the Integration of Theory and Experiment   
+
+OpenAlex: https://openalex.org/W4404831841    
+Open access: False
+    
+[Zhikeng Zheng](https://openalex.org/A5089966981), [Bin Liu](https://openalex.org/A5107948717), [Jiaxiang Qiu](https://openalex.org/A5087450897), [Shaojun Xu](https://openalex.org/A5025279061), [Yuchen Wang](https://openalex.org/A5108137949), [Man Zhang](https://openalex.org/A5100353061), [Ke Li](https://openalex.org/A5100343468), [Zhongti Sun](https://openalex.org/A5049586106), [Ziang Li](https://openalex.org/A5100728531), [Yangyang Wan](https://openalex.org/A5060400342), [C. Richard A. Catlow](https://openalex.org/A5042572313), [Kai Yan](https://openalex.org/A5063084241), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06198.
+    
+No abstract    
+
+    
+
+## Tailoring the Coordination Environment of Cu Single Atoms for Achieving Regioselective C–C Bond Activation of Amides   
+
+OpenAlex: https://openalex.org/W4404917578    
+Open access: False
+    
+[Wunengerile Zhang](https://openalex.org/A5007958844), [Chaolumen Bai](https://openalex.org/A5004470604), [Dan Liu](https://openalex.org/A5100326883), [Agula Bao](https://openalex.org/A5075440492), [Tegshi Muschin](https://openalex.org/A5029620953), [Yong‐Sheng Bao](https://openalex.org/A5064108348), [Jin Xie](https://openalex.org/A5006099744), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05223.
+    
+C–C bond activation can provide a direct reconstruction strategy of carbon skeletons to furnish a number of structurally diverse molecules. In general, regioselectivity represents the state-of-the-art owing to the existence of several different carbon–carbon bonds, having a high BDE, ∼90 kcal/mol. Here, we report a directed strategy for amides for the concise synthesis of a range of urea derivatives and carbamates via regioselective C–C bond activation enabled by the heterogeneous single-atom copper catalyst (Cu-SAC), with a turnover frequency of 249 h–1, which is 19 times higher than that of the analogous homogeneous copper catalyst. Multitechnique characterization data show that single-atom Cu species are associated with an unsaturated coordination structure and plentiful oxygen vacancies on γ-Al2O3 that facilitate the adsorption of multiple coordinated amides and dioxygen, leading to high catalytic activity and selectivity. It would offer opportunities to speed up the heterogenized process of homogeneous catalysts in regioselective inert-bond activation reactions.    
+
+    
+
+## Ru(II)-Catalyzed [1,4]-Sigmatropic Rearrangement and Intramolecular Concerted SNAr of Aryl and Heteroarylthio Derivatives using Quinoid Carbene   
+
+OpenAlex: https://openalex.org/W4404917688    
+Open access: False
+    
+[Subarna Pan](https://openalex.org/A5085524549), [Md. Saimuddin Sk](https://openalex.org/A5099986984), [B. SANYAL](https://openalex.org/A5111203598), [Lisa Roy](https://openalex.org/A5053449233), [Rajarshi Samanta](https://openalex.org/A5004014371), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05272.
+    
+A Ru(II)-catalyzed straightforward and efficient strategy has been developed to construct O-alkylated arylnaphthyl thioether derivatives using arylthioacetates/arylalkylthioethers with diazonaphthoquinone via a [1,4]-oxa sigmatropic rearrangement. In a complementary method, heteroaryl thioacetate/heteroaryl alkylthioethers offer O-heteroaryl alkylnaphthyl thioether derivatives via an interesting concerted intramolecular SNAr-type reaction. Both of these methods proceed through the formation of Ru-based quinoid carbene and sulfur ylide, respectively. A detailed mechanistic study and DFT calculations reveal that the reaction is going via a concerted manner. Postsynthetic modifications of the synthesized compounds led to sulfur-containing polyaromatic heterocycles.    
+
+    
+
+## Photocatalytic Carboxylation of Terminal Alkynes with CO2 over Metal–Porphyrin Framework Nanosheets   
+
+OpenAlex: https://openalex.org/W4404920674    
+Open access: False
+    
+[Yanyue Wang](https://openalex.org/A5083141761), [Jianling Zhang](https://openalex.org/A5102006388), [Sha Wang](https://openalex.org/A5100608375), [Zhonghao Tan](https://openalex.org/A5016948713), [Yisen Yang](https://openalex.org/A5022371906), [Yingzhe Zhao](https://openalex.org/A5013241583), [Buxing Han](https://openalex.org/A5112805144), [Qian Li](https://openalex.org/A5100340669), [Junfeng Xiang](https://openalex.org/A5064648986), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06006.
+    
+To develop an environmentally benign and efficient route for converting CO2 into value-added chemicals is of great importance. Here, we demonstrate the photocatalytic carboxylation of terminal alkynes with CO2 at room temperature and atmospheric pressure, by copper-based porphyrinic framework photocatalysts Cu2TCPP(M) (TCPP = 5,10,15,20-tetrakis(4-carboxyphenyl)porphyrin; M = Fe, Co, Ni, Cu). The Cu2TCPP(Cu) nanosheets (with a small thickness of ∼5.1 nm) exhibit an extremely high performance for the reaction of 1-ethynylbenzene with CO2 to produce 3-phenylpropiolic acid. The turnover frequency is up to 3.33 mmol g–1 h–1 at 10 h, which is much higher than those of the photothermally and thermally driven routes that are usually adopted for the carboxylation reactions catalyzed by metal–organic frameworks. The mechanism for the superior activity of Cu2TCPP(Cu) nanosheets was investigated by a series of experiments and theoretical calculations. It is revealed that the Cu2TCPP(Cu) nanosheets not only possess good photoelectronic properties but have desired molecular structure for boosting CO2 activation, alkyne activation, and carboxylation reactions.    
+
+    
+
+## Disrupted Spin Degeneracy Promoted C≡C Triple Bond Activation for Efficient Electrochemical Acetylene Semihydrogenation   
+
+OpenAlex: https://openalex.org/W4404924221    
+Open access: False
+    
+[Menglei Yuan](https://openalex.org/A5086662186), [Hongyu Jiang](https://openalex.org/A5024214452), [Ruyi Jiang](https://openalex.org/A5112783857), [Zhao Wang](https://openalex.org/A5035758335), [Zhihao Zhao](https://openalex.org/A5100762170), [Bao‐Lian Su](https://openalex.org/A5022972481), [Jian Zhang](https://openalex.org/A5100409923), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06191.
+    
+Disrupting the spin degeneracy of the electrocatalyst and further manipulating the related orbital electron arrangement are highly desirable for activating acetylene molecules. Herein, a squarate cobalt-based metal–organic framework (Co-MOF) ([Co3(C4O4)2(OH)2]·3H2O) is post-treated to accelerate the evolution from CoO6 octahedron to CoO5 pentahedron and further utilized for the electrochemical acetylene semihydrogenation reaction. Comprehensive analyses corroborate that the disrupted spin degeneracy of active sites originated from the breakage of the Co–O bond, which promotes the cleavage of the orbital energy level and the rearrangement of the d-orbital electron. The newly emerged half-occupied dx2–y2 orbitals and empty dz2 orbitals in CoO5 pentahedron concerted interplay with the bonding and antibonding orbitals of acetylene, which reduces the adsorption energy of acetylene and facilitates the activation of the inert C≡C triple bond. Thus, the defective Co-MOF exhibits the superior ethylene Faradaic efficiency of 96% and partial current density of 128 mA cm–2 at −1.0 V vs RHE compared to that of pristine Co-MOF (FEC2H4: 60%; JC2H4: 66 mA cm–2). This work delivers inspiration for spin-state regulation of active sites and sparks renewed interest in designing highly efficient electrocatalysts.    
+
+    
+
+## Artificial Intelligence-Driven Development of Nickel-Catalyzed Enantioselective Cross-Coupling Reactions   
+
+OpenAlex: https://openalex.org/W4404941646    
+Open access: False
+    
+[Yadong Gao](https://openalex.org/A5020503704), [Kunjun Hu](https://openalex.org/A5009307008), [Jianhang Rao](https://openalex.org/A5047983120), [Qiang Zhu](https://openalex.org/A5108264438), [Kuangbiao Liao](https://openalex.org/A5033384728), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04277.
+    
+The conventional approach to developing asymmetric synthetic methods relies heavily on empirical optimization. However, the integration of artificial intelligence (AI) and high-throughput experimentation (HTE) technology presents a paradigm shift with immense potential to revolutionize the discovery and optimization of asymmetric reactions. In this study, we present an efficient workflow for the development of a series of nickel-catalyzed asymmetric cross-coupling reactions, leveraging AI and HTE technology. Many nickel-catalyzed enantioselective cross-coupling reactions share a common Ni(III) intermediate, which dictates the enantioselectivity. To harness this mechanistic insight, we embarked on developing a predictive model for nickel-catalyzed enantioselective coupling reactions, elucidating the general rules governing enantioselectivity. Through the application of data science tools and HTE technology, we curated a data set to construct an AI-based model. This model was subsequently utilized to facilitate the discovery of efficient nickel hydride-catalyzed enantioselective and regioselective cross-coupling reactions. Employing AI-assisted virtual ligand screening and HTE-enabled condition optimization, we successfully identified optimal ligands for eight coupling reactions. Consequently, a series of chiral sp3 C–C bonds were synthesized with high yield and enantioselectivity.    
+
+    
+
+## Controlling Product Selectivity in Photochemical CO2 Reduction with the Redox Potential of the Photosensitizer   
+
+OpenAlex: https://openalex.org/W4404944465    
+Open access: False
+    
+[Lei Zhang](https://openalex.org/A5108049818), [Andressa V. Müller](https://openalex.org/A5011977174), [Sai Puneet Desai](https://openalex.org/A5075691616), [David C. Grills](https://openalex.org/A5004375411), [Dmitry E. Polyansky](https://openalex.org/A5083979016), [Renato N. Sampaio](https://openalex.org/A5006832213), [Javier J. Concepcion](https://openalex.org/A5080197399), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03845.
+    
+No abstract    
+
+    
+
+## Boron Designer Enzyme with a Hybrid Catalytic Dyad   
+
+OpenAlex: https://openalex.org/W4404961214    
+Open access: True
+    
+[Lars Longwitz](https://openalex.org/A5032959008), [Marijn D. Kamer](https://openalex.org/A5028183720), [Bart Brouwer](https://openalex.org/A5060375530), [A.M.W.H. Thunnissen](https://openalex.org/A5087468780), [Gérard Roelfes](https://openalex.org/A5032880385), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06052.
+    
+No abstract    
+
+    
+
+## Using Enzymes for Catalysis under Industrial Conditions   
+
+OpenAlex: https://openalex.org/W4404974317    
+Open access: False
+    
+[Elif Erdem](https://openalex.org/A5086466356), [John M. Woodley](https://openalex.org/A5036903025), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05265.
+    
+No abstract    
+
+    
+
+## Deciphering Faujasite Zeolite Dealumination at the Atomic Scale   
+
+OpenAlex: https://openalex.org/W4404974759    
+Open access: False
+    
+[Zhuoran Wang](https://openalex.org/A5043145785), [Thomas Jarrin](https://openalex.org/A5079354447), [Mickaël Rivallan](https://openalex.org/A5010028411), [Isabelle Clémençon](https://openalex.org/A5078414887), [Emmanuel Soyer](https://openalex.org/A5074419428), [Theodorus de Bruin](https://openalex.org/A5027199996), [L. Lemaître](https://openalex.org/A5088922603), [Virgile Rouchon](https://openalex.org/A5047261367), [David Gajan](https://openalex.org/A5085506972), [Gerhard D. Pirngruber](https://openalex.org/A5013812058), [Céline Chizallet](https://openalex.org/A5014892353), [Anne Lesage](https://openalex.org/A5023874849), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03036.
+    
+No abstract    
 
     
