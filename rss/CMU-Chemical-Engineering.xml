@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Dec 2024 01:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 01:27:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c04972</link>
-      <description>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404762044
-
-                No abstract</description>
-      <author>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04972</guid>
-    </item>
-    <item>
-      <title>Nonconvex Robust Optimization for the Design and Operation of Advanced Energy Systems Using PyROS</title>
-      <link>https://doi.org/10.2172/2478510</link>
-      <description>Jason Sherman, John Daniel Siirola, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4404773257
-
-                No abstract</description>
-      <author>Jason Sherman, John Daniel Siirola, Chrysanthos E. Gounaris</author>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2478510</guid>
-    </item>
     <item>
       <title>Mathematical modeling and economic optimization of a piperazine-based post-combustion carbon capture process</title>
       <link>https://doi.org/10.1016/j.ijggc.2024.104282</link>

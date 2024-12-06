@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Dec  5 01:27:53 2024
+Created on Fri Dec  6 01:27:07 2024
 
-Found 19 results from 2024-11-28 to 2024-12-05
+Found 24 results from 2024-11-29 to 2024-12-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Catalytic Mechanism of SARS-CoV-2 3-Chymotrypsin-Like Protease as Determined by Steady-State and Pre-Steady-State Kinetics   
-
-OpenAlex: https://openalex.org/W4404762047    
-Open access: True
-    
-[Jiyun Zhu](https://openalex.org/A5033301027), [A. Kemp](https://openalex.org/A5112014009), [Balachandra Chenna](https://openalex.org/A5012183857), [Vivek Kumar](https://openalex.org/A5100713291), [Andrew Rademacher](https://openalex.org/A5058154405), [Sangho Yun](https://openalex.org/A5010140916), [Arthur Laganowsky](https://openalex.org/A5040763385), [Thomas D. Meek](https://openalex.org/A5047649241), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04695.
-    
-No abstract    
-
-    
-
-## The Corrosive Cl–-Induced Rapid Surface Reconstruction of Amorphous NiFeCoP Enables Efficient Seawater Splitting   
-
-OpenAlex: https://openalex.org/W4404772438    
-Open access: False
-    
-[Yang Yu](https://openalex.org/A5105140561), [Wei Zhou](https://openalex.org/A5010613556), [Xiaohan Zhou](https://openalex.org/A5016504923), [Junshu Yuan](https://openalex.org/A5111358811), [Xuewei Zhang](https://openalex.org/A5087336958), [Sheng Wang](https://openalex.org/A5100371335), [Jingyu Li](https://openalex.org/A5100379859), [Xiaoxiao Meng](https://openalex.org/A5103225231), [Fei Sun](https://openalex.org/A5046799805), [Jihui Gao](https://openalex.org/A5088144354), [Guangbo Zhao](https://openalex.org/A5102280725), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05704.
-    
-No abstract    
-
-    
 
 ## Photocatalytic Conversion of Biomass and Nitrate into Glycine   
 
@@ -212,5 +190,82 @@ Open access: False
 [Zhuoran Wang](https://openalex.org/A5043145785), [Thomas Jarrin](https://openalex.org/A5079354447), [Mickaël Rivallan](https://openalex.org/A5010028411), [Isabelle Clémençon](https://openalex.org/A5078414887), [Emmanuel Soyer](https://openalex.org/A5074419428), [Theodorus de Bruin](https://openalex.org/A5027199996), [L. Lemaître](https://openalex.org/A5088922603), [Virgile Rouchon](https://openalex.org/A5047261367), [David Gajan](https://openalex.org/A5085506972), [Gerhard D. Pirngruber](https://openalex.org/A5013812058), [Céline Chizallet](https://openalex.org/A5014892353), [Anne Lesage](https://openalex.org/A5023874849), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03036.
     
 No abstract    
+
+    
+
+## Engineering Conjugation of Covalent Organic Frameworks for Carbon Dioxide Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4404990562    
+Open access: False
+    
+[Shuang Zheng](https://openalex.org/A5101741759), [Shuai Xia](https://openalex.org/A5113124915), [Zhaofeng Ouyang](https://openalex.org/A5044605278), [Shuai Bi](https://openalex.org/A5009058201), [Yubin Fu](https://openalex.org/A5015297626), [Guojuan Liu](https://openalex.org/A5040261155), [Yan Wang](https://openalex.org/A5100322900), [Qing Xu](https://openalex.org/A5069765087), [Gaofeng Zeng](https://openalex.org/A5028394871), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03742.
+    
+No abstract    
+
+    
+
+## Correction to “Mixed Silver–Bismuth Oxides: A Robust Oxygen Evolution Catalyst Operating at Low pH and Elevated Temperatures”   
+
+OpenAlex: https://openalex.org/W4404991001    
+Open access: False
+    
+[Darcy Simondson](https://openalex.org/A5014780715), [Manjunath Chatti](https://openalex.org/A5033971776), [James L. Gardiner](https://openalex.org/A5079752274), [Brittany Kerr](https://openalex.org/A5069370180), [Dijon A. Hoogeveen](https://openalex.org/A5089189830), [Pavel V. Cherepanov](https://openalex.org/A5082353134), [Inga Kuschnerus](https://openalex.org/A5031911397), [Tam D. Nguyen](https://openalex.org/A5042031508), [Bernt Johannessen](https://openalex.org/A5042673824), [Shery L. Y. Chang](https://openalex.org/A5015023372), [Douglas R. MacFarlane](https://openalex.org/A5017109393), [Rosalie K. Hocking](https://openalex.org/A5002235771), [Alexandr N. Simonov](https://openalex.org/A5062733036), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07007.
+    
+No abstract    
+
+    
+
+## Dual Nickel/Photoredox-Catalyzed Aryl Etherification Enabled by an Oxidative Near-Infrared-to-Blue Triplet–Triplet Annihilation Upconversion System Leveraging Spin-Forbidden Excitation   
+
+OpenAlex: https://openalex.org/W4404995780    
+Open access: False
+    
+[Logan R. Beck](https://openalex.org/A5067437484), [Katherine A. Xie](https://openalex.org/A5027086641), [Brendan C. Lainhart](https://openalex.org/A5019978169), [Trevor C. Sherwood](https://openalex.org/A5046082892), [Eric R. Welin](https://openalex.org/A5088370687), [Candice L. Joe](https://openalex.org/A5044707223), [Tomislav Rovis](https://openalex.org/A5074994681), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06084.
+    
+No abstract    
+
+    
+
+## Pd and Fe Cocatalyzed Synthesis of Remotely Borylated Aza-Heterocycles   
+
+OpenAlex: https://openalex.org/W4404998360    
+Open access: False
+    
+[Shreeja Bhatt](https://openalex.org/A5002090481), [Aja M. Nicely](https://openalex.org/A5092457737), [Camila U. Powell](https://openalex.org/A5068741247), [Marylin C. Huff](https://openalex.org/A5075594838), [Stefan Jon Thibodeaux](https://openalex.org/A5054755565), [Ya‐Nong Wang](https://openalex.org/A5010750871), [Serhii Vasylevskyi](https://openalex.org/A5071047360), [Kami L. Hull](https://openalex.org/A5053697725), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05702.
+    
+No abstract    
+
+    
+
+## Pd-Catalyzed Difluoroalkylation of Alkenes Using Chlorodifluoroalkanes   
+
+OpenAlex: https://openalex.org/W4405002150    
+Open access: False
+    
+[Jing Wang](https://openalex.org/A5100378437), [Qixin Zhou](https://openalex.org/A5101101078), [Liejin Zhou](https://openalex.org/A5020457126), [Zuxiao Zhang](https://openalex.org/A5067205564), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06842.
+    
+No abstract    
+
+    
+
+## Oxidation State of Single-Atom Re/TiO2 Hydrogenation Catalysts: A Computational Study   
+
+OpenAlex: https://openalex.org/W4405008567    
+Open access: True
+    
+[A. Sreenithya](https://openalex.org/A5035603699), [Alexander A. Kolganov](https://openalex.org/A5066349037), [In Won Yeu](https://openalex.org/A5013737627), [Muhammad Helmi Risansyauqi](https://openalex.org/A5114994105), [Evgeny A. Pidko](https://openalex.org/A5074252826), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05697.
+    
+No abstract    
+
+    
+
+## Electronic Interactions between Anchored Molecular Catalyst and Support   
+
+OpenAlex: https://openalex.org/W4405023659    
+Open access: False
+    
+[Stephanie A. Johnson](https://openalex.org/A5032407202), [James R. Wilkes](https://openalex.org/A5006690638), [Dunwei Wang](https://openalex.org/A5040290819), [Jeffery A. Byers](https://openalex.org/A5086992939), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05947.
+    
+Immobilizing molecular catalysts on surfaces introduces spatial control of catalysis and promises improved stability and recyclability of the catalyst. The interplays between the support and the immobilized molecular species, however, remain underexplored. Using Ni as a prototypical support, here we report a study on how the electronic interactions between the support and the molecular catalyst impacts the reactivity. This work was built upon our previous successes in switching the reactivity of iron bis(iminopyridine) alkoxide complexes through redox toggling, where the anchored iron(II) complex polymerizes lactide, and its cationic iron(III) counterpart polymerizes epoxides. It was found that Ni as a metal support could readily oxidize the complex to exhibit catalytic activity toward epoxide polymerization. The charge transfer between Ni and the Fe complex could be modulated by either electrochemical reduction or adding a layer of TiO2. The results are expected to have major implications for research efforts aimed at converging homogeneous and heterogeneous catalysis.    
 
     

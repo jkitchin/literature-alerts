@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Dec 2024 01:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 01:27:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalytic Mechanism of SARS-CoV-2 3-Chymotrypsin-Like Protease as Determined by Steady-State and Pre-Steady-State Kinetics</title>
-      <link>https://doi.org/10.1021/acscatal.4c04695</link>
-      <description>Jiyun Zhu, A. Kemp, Balachandra Chenna, Vivek Kumar, Andrew Rademacher, Sangho Yun, Arthur Laganowsky, Thomas D. Meek, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404762047
-
-                No abstract</description>
-      <author>Jiyun Zhu, A. Kemp, Balachandra Chenna, Vivek Kumar, Andrew Rademacher, Sangho Yun, Arthur Laganowsky, Thomas D. Meek</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04695</guid>
-    </item>
-    <item>
-      <title>The Corrosive Cl&lt;sup&gt;&#8211;&lt;/sup&gt;-Induced Rapid Surface Reconstruction of Amorphous NiFeCoP Enables Efficient Seawater Splitting</title>
-      <link>https://doi.org/10.1021/acscatal.4c05704</link>
-      <description>Yang Yu, Wei Zhou, Xiaohan Zhou, Junshu Yuan, Xuewei Zhang, Sheng Wang, Jingyu Li, Xiaoxiao Meng, Fei Sun, Jihui Gao, Guangbo Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404772438
-
-                No abstract</description>
-      <author>Yang Yu, Wei Zhou, Xiaohan Zhou, Junshu Yuan, Xuewei Zhang, Sheng Wang, Jingyu Li, Xiaoxiao Meng, Fei Sun, Jihui Gao, Guangbo Zhao</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05704</guid>
-    </item>
     <item>
       <title>Photocatalytic Conversion of Biomass and Nitrate into Glycine</title>
       <link>https://doi.org/10.1021/acscatal.4c05235</link>
@@ -196,6 +176,76 @@
       <author>Zhuoran Wang, Thomas Jarrin, Micka&#235;l Rivallan, Isabelle Cl&#233;men&#231;on, Emmanuel Soyer, Theodorus de Bruin, L. Lema&#238;tre, Virgile Rouchon, David Gajan, Gerhard D. Pirngruber, C&#233;line Chizallet, Anne Lesage</author>
       <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03036</guid>
+    </item>
+    <item>
+      <title>Engineering Conjugation of Covalent Organic Frameworks for Carbon Dioxide Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c03742</link>
+      <description>Shuang Zheng, Shuai Xia, Zhaofeng Ouyang, Shuai Bi, Yubin Fu, Guojuan Liu, Yan Wang, Qing Xu, Gaofeng Zeng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404990562
+
+                No abstract</description>
+      <author>Shuang Zheng, Shuai Xia, Zhaofeng Ouyang, Shuai Bi, Yubin Fu, Guojuan Liu, Yan Wang, Qing Xu, Gaofeng Zeng</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03742</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;Mixed Silver&#8211;Bismuth Oxides: A Robust Oxygen Evolution Catalyst Operating at Low pH and Elevated Temperatures&#8221;</title>
+      <link>https://doi.org/10.1021/acscatal.4c07007</link>
+      <description>Darcy Simondson, Manjunath Chatti, James L. Gardiner, Brittany Kerr, Dijon A. Hoogeveen, Pavel V. Cherepanov, Inga Kuschnerus, Tam D. Nguyen, Bernt Johannessen, Shery L. Y. Chang, Douglas R. MacFarlane, Rosalie K. Hocking, Alexandr N. Simonov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404991001
+
+                No abstract</description>
+      <author>Darcy Simondson, Manjunath Chatti, James L. Gardiner, Brittany Kerr, Dijon A. Hoogeveen, Pavel V. Cherepanov, Inga Kuschnerus, Tam D. Nguyen, Bernt Johannessen, Shery L. Y. Chang, Douglas R. MacFarlane, Rosalie K. Hocking, Alexandr N. Simonov</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07007</guid>
+    </item>
+    <item>
+      <title>Dual Nickel/Photoredox-Catalyzed Aryl Etherification Enabled by an Oxidative Near-Infrared-to-Blue Triplet&#8211;Triplet Annihilation Upconversion System Leveraging Spin-Forbidden Excitation</title>
+      <link>https://doi.org/10.1021/acscatal.4c06084</link>
+      <description>Logan R. Beck, Katherine A. Xie, Brendan C. Lainhart, Trevor C. Sherwood, Eric R. Welin, Candice L. Joe, Tomislav Rovis, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404995780
+
+                No abstract</description>
+      <author>Logan R. Beck, Katherine A. Xie, Brendan C. Lainhart, Trevor C. Sherwood, Eric R. Welin, Candice L. Joe, Tomislav Rovis</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06084</guid>
+    </item>
+    <item>
+      <title>Pd and Fe Cocatalyzed Synthesis of Remotely Borylated Aza-Heterocycles</title>
+      <link>https://doi.org/10.1021/acscatal.4c05702</link>
+      <description>Shreeja Bhatt, Aja M. Nicely, Camila U. Powell, Marylin C. Huff, Stefan Jon Thibodeaux, Ya&#8208;Nong Wang, Serhii Vasylevskyi, Kami L. Hull, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404998360
+
+                No abstract</description>
+      <author>Shreeja Bhatt, Aja M. Nicely, Camila U. Powell, Marylin C. Huff, Stefan Jon Thibodeaux, Ya&#8208;Nong Wang, Serhii Vasylevskyi, Kami L. Hull</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05702</guid>
+    </item>
+    <item>
+      <title>Pd-Catalyzed Difluoroalkylation of Alkenes Using Chlorodifluoroalkanes</title>
+      <link>https://doi.org/10.1021/acscatal.4c06842</link>
+      <description>Jing Wang, Qixin Zhou, Liejin Zhou, Zuxiao Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405002150
+
+                No abstract</description>
+      <author>Jing Wang, Qixin Zhou, Liejin Zhou, Zuxiao Zhang</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06842</guid>
+    </item>
+    <item>
+      <title>Oxidation State of Single-Atom Re/TiO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation Catalysts: A Computational Study</title>
+      <link>https://doi.org/10.1021/acscatal.4c05697</link>
+      <description>A. Sreenithya, Alexander A. Kolganov, In Won Yeu, Muhammad Helmi Risansyauqi, Evgeny A. Pidko, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405008567
+
+                No abstract</description>
+      <author>A. Sreenithya, Alexander A. Kolganov, In Won Yeu, Muhammad Helmi Risansyauqi, Evgeny A. Pidko</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05697</guid>
+    </item>
+    <item>
+      <title>Electronic Interactions between Anchored Molecular Catalyst and Support</title>
+      <link>https://doi.org/10.1021/acscatal.4c05947</link>
+      <description>Stephanie A. Johnson, James R. Wilkes, Dunwei Wang, Jeffery A. Byers, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405023659
+
+                Immobilizing molecular catalysts on surfaces introduces spatial control of catalysis and promises improved stability and recyclability of the catalyst. The interplays between the support and the immobilized molecular species, however, remain underexplored. Using Ni as a prototypical support, here we report a study on how the electronic interactions between the support and the molecular catalyst impacts the reactivity. This work was built upon our previous successes in switching the reactivity of iron bis(iminopyridine) alkoxide complexes through redox toggling, where the anchored iron(II) complex polymerizes lactide, and its cationic iron(III) counterpart polymerizes epoxides. It was found that Ni as a metal support could readily oxidize the complex to exhibit catalytic activity toward epoxide polymerization. The charge transfer between Ni and the Fe complex could be modulated by either electrochemical reduction or adding a layer of TiO2. The results are expected to have major implications for research efforts aimed at converging homogeneous and heterogeneous catalysis.</description>
+      <author>Stephanie A. Johnson, James R. Wilkes, Dunwei Wang, Jeffery A. Byers</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05947</guid>
     </item>
   </channel>
 </rss>

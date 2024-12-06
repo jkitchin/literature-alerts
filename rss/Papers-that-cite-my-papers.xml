@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Dec 2024 01:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 01:27:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Sparse Gaussian process based machine learning first principles potentials for materials simulations: Application to batteries, solar cells, catalysts, and macromolecular systems</title>
-      <link>https://doi.org/10.1063/5.0231265</link>
-      <description>Soohaeng Yoo Willow, Amir Hajibabaei, Miran Ha, D. ChangMo Yang, Chang Woo Myung, Seung Kyu Min, Geunsik Lee, Kwang S. Kim, Chemical Physics Reviews. 5(4)] 2024. https://openalex.org/W4404759416
-
-                To design new materials and understand their novel phenomena, it is imperative to predict the structure and properties of materials that often rely on first-principles theory. However, such methods are computationally demanding and limited to small systems. This topical review investigates machine learning (ML) approaches, specifically non-parametric sparse Gaussian process regression (SGPR), to model the potential energy surface (PES) of materials, while starting from the basics of ML methods for a comprehensive review. SGPR can efficiently represent PES with minimal ab initio data, significantly reducing the computational costs by bypassing the need for inverting massive covariance matrices. SGPR rank reduction accelerates density functional theory calculations by orders of magnitude, enabling accelerated simulations. An optimal adaptive sampling algorithm is utilized for on-the-fly regression with molecular dynamics, extending to interatomic potentials through scalable SGPR formalism. Through merging quantum mechanics with ML methods, the universal first-principles SGPR-based ML potential can create a digital-twin capable of predicting phenomena arising from static and dynamic changes as well as inherent and collective characteristics of materials. These techniques have been applied successfully to materials such as solid electrolytes, lithium-ion batteries, electrocatalysts, solar cells, and macromolecular systems, reproducing their structures, energetics, dynamics, properties, phase-changes, materials performance, and device efficiency. This review discusses the built-in library universal first-principles SGPR-based ML potential, showcasing its applications and successes, offering insights into the development of future ML potentials and their applications in advanced materials, catering to both educational and expert readers.</description>
-      <author>Soohaeng Yoo Willow, Amir Hajibabaei, Miran Ha, D. ChangMo Yang, Chang Woo Myung, Seung Kyu Min, Geunsik Lee, Kwang S. Kim</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0231265</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic mechanism for overall water splitting to produce sustainable hydrogen by 2D Janus MoSH monolayer</title>
-      <link>https://doi.org/10.1038/s41699-024-00516-2</link>
-      <description>Deobrat Singh, Nisha Singh, Yogesh Sonvane, npj 2D Materials and Applications. 8(1)] 2024. https://openalex.org/W4404761563
-
-                Abstract In the present work, we investigates the potential of two dimensional (2D) Janus MoSH monolayer as an electrocatalyst for overall water splitting using first-principles calculations. Our results shows that 2D Janus MoSH monolayer exhibits excellent structural stability and electronic properties, which are essential for efficient electrocatalysis. We find that the charge transfer mechanism between Mo and S atoms plays a crucial role in the electrocatalytic activity of 2D Janus MoSH monolayer. Due to the asymmetric structure of MoSH monolayer, it has intrinsic electric field with dipole moment of 0.24 D. Moreover, we demonstrate that 2D Janus MoSH monolayer exhibits high catalytic activity for both hydrogen evolution reaction (HER) with overpotential 0.04 V and oxygen evolution reaction (OER) with overpotential 0.11 V, making it a promising candidate for overall water splitting. Our findings have significant implications for the design and optimization of 2D monolayered materials for renewable energy production. By providing insights into the underlying mechanisms of HER and OER on 2D Janus MoSH monolayer, our study paves the way for the development of efficient and sustainable electrocatalysts for water splitting. We hope that current work will be helpful in understanding the electrocatalytic mechanism of 2D Janus MoSH monolayer and its potential applications in renewable energy production.</description>
-      <author>Deobrat Singh, Nisha Singh, Yogesh Sonvane</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41699-024-00516-2</guid>
-    </item>
-    <item>
-      <title>Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c04972</link>
-      <description>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404762044
-
-                No abstract</description>
-      <author>Joseph Musielewicz, Janice Lan, Matt Uyttendaele, John R. Kitchin</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c04972</guid>
-    </item>
-    <item>
-      <title>Density Functional Theory Investigation of 2D Phase Separated Graphene/Hexagonal Boron Nitride Monolayers; Band Gap, Band Edge Positions, and Photo Activity</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c06121</link>
-      <description>E.D O'Sullivan, Nicole Grobert, Marcel Swart, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404767013
-
-                No abstract</description>
-      <author>E.D O'Sullivan, Nicole Grobert, Marcel Swart</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06121</guid>
-    </item>
-    <item>
-      <title>Nitrogen substitution of bilayer penta-carbides: high solar-to-hydrogen conversion efficiency and excellent electrocatalytic activity for water splitting</title>
-      <link>https://doi.org/10.1039/d4cp03887h</link>
-      <description>Yaowen Long, Hong Zhang, Physical Chemistry Chemical Physics. None(None)] 2024. https://openalex.org/W4404767581
-
-                Vertical intrinsic electric field enhanced solar-to-hydrogen conversion efficiency to 31% and enabled almost zero overpotential for the hydrogen evolution reaction.</description>
-      <author>Yaowen Long, Hong Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cp03887h</guid>
-    </item>
-    <item>
-      <title>Effect of thermal annealing on phase structure and hydrogen evolution reaction of molybdenum carbide thin films prepared by co-sputtering</title>
-      <link>https://doi.org/10.1016/j.tsf.2024.140579</link>
-      <description>Ling Jin, Zhihu Pan, Li Wang, Xiaohong Ji, Thin Solid Films. None(None)] 2024. https://openalex.org/W4404771673
-
-                No abstract</description>
-      <author>Ling Jin, Zhihu Pan, Li Wang, Xiaohong Ji</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.tsf.2024.140579</guid>
-    </item>
-    <item>
-      <title>Ni supported on Al2O3-La2O3 derived from layered double hydroxides for efficient thermal catalytic decomposition of ammonia to hydrogen</title>
-      <link>https://doi.org/10.1016/j.ces.2024.121000</link>
-      <description>Zheng Li, Guang&#8208;Hui Chen, Xiuqun Gong, Junjun Yao, Jun&#8208;Kang Guo, Lang Chen, Chao Peng, Xingyi Huang, Qing&#8208;Miao Hu, Juan Xiong, Shuang&#8208;Feng Yin, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4404771783
-
-                No abstract</description>
-      <author>Zheng Li, Guang&#8208;Hui Chen, Xiuqun Gong, Junjun Yao, Jun&#8208;Kang Guo, Lang Chen, Chao Peng, Xingyi Huang, Qing&#8208;Miao Hu, Juan Xiong, Shuang&#8208;Feng Yin</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.121000</guid>
-    </item>
-    <item>
-      <title>Do the Hydrogen Evolution Reaction and Oxygen Reduction Reaction Really Need To Be Suppressed in O&lt;sub&gt;2&lt;/sub&gt;-Tolerant CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction Catalyzed by DAE-BPy-CoPor and Co-TAPP?</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c02957</link>
-      <description>Pengfei Yuan, Chong Li, Jianan Zhang, Fei Wang, Xuebo Chen, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4404771815
-
-                This letter chooses DAE-BPy-CoPor [DAE, 1,2-bis(5'-formyl-2'-methylthien-3'-yl)cyclopentene; BPy, 2,2'-bipyridine-5,5'-dicarbaldehyde; and CoPor, two-dimensional cobalt porphyrin-based covalent organic framework] and Co-TAPP [10,15,20-tetrakis(4-aminophenyl)porphinatocobalt] as two model catalysts to investigate the effect of the hydrogen evolution reaction (HER) and oxygen reduction reaction (ORR) in the O</description>
-      <author>Pengfei Yuan, Chong Li, Jianan Zhang, Fei Wang, Xuebo Chen</author>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02957</guid>
-    </item>
-    <item>
-      <title>Implications for Oxygen Evolution Spinel-based Electrocatalyst in Anion Exchange Membrane Water Electrolyser: A Review from Structural Engineering perspective</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.177819</link>
-      <description>Iswary Letchumanan, Wei Shi Ng, Mohd Shahbudin Masdar, Azim Fitri Zainul Abidin, Nurul Akidah Baharuddin, Rozan Mohamad Yunus, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4404794496
-
-                No abstract</description>
-      <author>Iswary Letchumanan, Wei Shi Ng, Mohd Shahbudin Masdar, Azim Fitri Zainul Abidin, Nurul Akidah Baharuddin, Rozan Mohamad Yunus</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.177819</guid>
-    </item>
     <item>
       <title>Heusler-based topological quantum catalyst Fe2VAl with obstructed surface states for the hydrogen-evolution reaction</title>
       <link>https://doi.org/10.1016/j.physb.2024.416773</link>
@@ -238,16 +148,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115144</guid>
     </item>
     <item>
-      <title>Investigation on properties of CuI/InSe heterojunction with Z&#8211;alignment for photocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.111142</link>
-      <description>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao, Materials Today Communications. None(None)] 2024. https://openalex.org/W4404871468
-
-                No abstract</description>
-      <author>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.111142</guid>
-    </item>
-    <item>
       <title>Dual-function efficient hydrogen evolution reaction electrocatalyst and electrode material for supercapacitors based on ternary composite FeS2/Fe2O3/MoS2 nanostructures</title>
       <link>https://doi.org/10.1016/j.mssp.2024.109124</link>
       <description>Sumaiya Saleem, Muhammad Salman, Abdallah M. Elgorban, Hind A. AL-Shwaiman, Yihan Ling, Majid Khan, Materials Science in Semiconductor Processing. 187(None)] 2024. https://openalex.org/W4404875915
@@ -328,16 +228,6 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01446-9</guid>
     </item>
     <item>
-      <title>Instant prediction of scientific paper cited potential based on semantic and metadata features: Taking artificial intelligence field as an example</title>
-      <link>https://doi.org/10.1371/journal.pone.0312945</link>
-      <description>Hou Zhu, Li Shuhuai, PLoS ONE. 19(12)] 2024. https://openalex.org/W4404914188
-
-                With the continuous increase in the number of academic researchers, the volume of scientific papers is also increasing rapidly. The challenge of identifying papers with greater potential academic impact from this large pool has received increasing attention. The citation frequency of a paper is often used as an objective indicator to gauge the academic influence of the paper. The task of citation frequency prediction based on historical citation data in previous studies can achieve high accuracy. However, it can only be executed after the paper has been published for a period. The delay is not conducive to timely discovery of papers with high citation frequency. In this paper, we propose a novel method for predicting cited potential of a paper based on the metadata and semantic information, which can predict the cited potential of academic paper instantly once it has been published. Specifically, the semantic information, such as abstract, semantic span and semantic inflection, is extracted to enhance the ability of the prediction model based on machine learning. To prove the effectiveness and rationality of cited potential prediction model, we conduct two experiments to validate the model and find the most effective combination of input information. The empirical experiments show that the prediction accuracy of our proposed model can reach 88% for the instant prediction of citation.</description>
-      <author>Hou Zhu, Li Shuhuai</author>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0312945</guid>
-    </item>
-    <item>
       <title>Effectively Regulating Electrooxidation of Formic Acid over Bimetallic PtCo Alloys via the Integration of Theory and Experiment</title>
       <link>https://doi.org/10.1021/acscatal.4c06198</link>
       <description>Zhikeng Zheng, Bin Liu, Jiaxiang Qiu, Shaojun Xu, Yuchen Wang, Man Zhang, Ke Li, Zhongti Sun, Ziang Li, Yangyang Wan, C. Richard A. Catlow, Kai Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404831841
@@ -346,6 +236,26 @@
       <author>Zhikeng Zheng, Bin Liu, Jiaxiang Qiu, Shaojun Xu, Yuchen Wang, Man Zhang, Ke Li, Zhongti Sun, Ziang Li, Yangyang Wan, C. Richard A. Catlow, Kai Yan</author>
       <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06198</guid>
+    </item>
+    <item>
+      <title>Investigation on properties of CuI/InSe heterojunction with Z&#8211;alignment for photocatalytic water splitting</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2024.111142</link>
+      <description>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao, Materials Today Communications. None(None)] 2024. https://openalex.org/W4404871468
+
+                No abstract</description>
+      <author>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.111142</guid>
+    </item>
+    <item>
+      <title>Instant prediction of scientific paper cited potential based on semantic and metadata features: Taking artificial intelligence field as an example</title>
+      <link>https://doi.org/10.1371/journal.pone.0312945</link>
+      <description>Hou Zhu, Li Shuhuai, PLoS ONE. 19(12)] 2024. https://openalex.org/W4404914188
+
+                With the continuous increase in the number of academic researchers, the volume of scientific papers is also increasing rapidly. The challenge of identifying papers with greater potential academic impact from this large pool has received increasing attention. The citation frequency of a paper is often used as an objective indicator to gauge the academic influence of the paper. The task of citation frequency prediction based on historical citation data in previous studies can achieve high accuracy. However, it can only be executed after the paper has been published for a period. The delay is not conducive to timely discovery of papers with high citation frequency. In this paper, we propose a novel method for predicting cited potential of a paper based on the metadata and semantic information, which can predict the cited potential of academic paper instantly once it has been published. Specifically, the semantic information, such as abstract, semantic span and semantic inflection, is extracted to enhance the ability of the prediction model based on machine learning. To prove the effectiveness and rationality of cited potential prediction model, we conduct two experiments to validate the model and find the most effective combination of input information. The empirical experiments show that the prediction accuracy of our proposed model can reach 88% for the instant prediction of citation.</description>
+      <author>Hou Zhu, Li Shuhuai</author>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0312945</guid>
     </item>
     <item>
       <title>Oxygen Adsorption at the Electrochemical Metal/Water Interface: Au(111) vs Pt(111)</title>
@@ -478,14 +388,134 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202408531</guid>
     </item>
     <item>
-      <title>Modeling and Comparative Analysis of CO&lt;sub&gt;2&lt;/sub&gt; Absorption Columns in Electrochemical and Thermochemical Carbon Capture Systems</title>
-      <link>https://doi.org/10.1021/acs.iecr.4c01523</link>
-      <description>Katelyn M. Ripley, Fikile R. Brushett, Industrial &amp; Engineering Chemistry Research. None(None)] 2024. https://openalex.org/W4404787306
+      <title>Exploring the Intrinsic Effects of Lattice Strain on the Hydrogen Evolution Reaction via Electric-Field-Induced Strain in FePt Films</title>
+      <link>https://doi.org/10.1021/acsami.4c16120</link>
+      <description>Hong Hong, Dongxue Liu, Bo Yang, Qingqi Cao, Chaoran Liu, Liqian Wu, Dunhui Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4404992503
 
-                Deployment of post-combustion carbon dioxide (CO2) capture technologies is needed to reduce emissions from power and industrial sources. Comparisons between existing thermochemical CO2 capture methods and emerging electrochemical concepts can help contextualize the promise of these new approaches. Here, we investigate the required absorber sizes for three capture systems: amine scrubbing using monoethanolamine (MEA), direct electrochemical (redox-active sorbent), and indirect electrochemical (pH swing). For the electrochemical systems, we study how column size varies as a function of molecular properties and operating conditions, finding that parameters most closely related to CO2 uptake rates (i.e., rate constants and pKa) have the greatest impact. Through a Monte Carlo analysis, we find that the direct process can be designed to have column sizes similar to the thermochemical process; however, the CO2 uptake rate in the indirect process is too slow to enable smaller columns. Broadly, this work connects system input parameters to absorber performance for electrochemical CO2 capture and provides a foundation for techno-economic and engineering analyses.</description>
-      <author>Katelyn M. Ripley, Fikile R. Brushett</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c01523</guid>
+                Strain engineering has the potential to modify the adsorption process and enhance the electrocatalytic activity, especially in the hydrogen evolution reaction (HER). However, the introduction of lattice strain in electrocatalysts is often accompanied by a change in chemical composition, surface morphology, or phase structure to a certain extent, impeding the investigation of the intrinsic strain effect on HER. In this work, the FePt film was deposited on a Pb(Mg</description>
+      <author>Hong Hong, Dongxue Liu, Bo Yang, Qingqi Cao, Chaoran Liu, Liqian Wu, Dunhui Wang</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c16120</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic N2 Reduction Driven by Mo-Based Double-Atom Catalysts Anchored on Graphdiyne</title>
+      <link>https://doi.org/10.3390/catal14120879</link>
+      <description>Xiaoyu Chi, Yaqi Cang, Jianhua Wang, Qing Li, Xing Fan, Haiping Lin, Catalysts. 14(12)] 2024. https://openalex.org/W4404993416
+
+                An electrocatalytic nitrogen reduction reaction (eNRR) presents an appealing strategy for ammonia (NH3) production at ambient conditions. Through systematic density functional theory (DFT) calculations, the eNRR performance of 23 double-atom catalysts has been investigated. These catalysts are composed of a Mo atom and a transition metal atom anchored on the graphdiyne (GDY), and they are named MoM-GDYs. Among the 23 MoM-GDYs studied, 14 MoM-GDYs highlighted catalytic selectivity by inhibiting a competitive hydrogen evolution reaction (HER) and demonstrated commendable eNRR catalytic performance. MoRu-GDY, MoMo-GDY, MoFe-GDY and MoY-GDY exhibited excellent eNRR catalytic activity with limiting potentials of &#8722;0.05 V, &#8722;0.13 V, &#8722;0.21 V and &#8722;0.24 V, respectively. These 14 catalysts favor N2 adsorption compared to H and exhibit less negative UL than the &#8722;0.98 V benchmark of the stepped Ru(0001) surface. Among them, MoRu-GDY has the best catalytic activity with an UL of &#8722;0.05 V. The excellent catalytic performance originates from the synergistic effect of the dual catalytic sites, where the alternation of the consecutive and enzymatic paths effectively reduces the limiting potentials. In addition, the catalytic activity can be evaluated using &#916;G*NH3 &#8722; &#916;G*NH2 as a theoretical descriptor, while UL and the &#916;G*NH3 &#8722; &#916;G*NH2 fit coefficient R2 reached 0.99. These findings not only contribute to the development of dual-atom electrocatalysts for eNRR but also offer a valuable pathway for identifying new eNRR catalysts with high activity and selectivity.</description>
+      <author>Xiaoyu Chi, Yaqi Cang, Jianhua Wang, Qing Li, Xing Fan, Haiping Lin</author>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14120879</guid>
+    </item>
+    <item>
+      <title>Using a Single-Atom FeN4 Catalyst on Defective Graphene for the Efficient Reduction of NO to Alanine: A Computational Study</title>
+      <link>https://doi.org/10.3390/catal14120876</link>
+      <description>Yu Tian, Xiaoxi Yuan, Zexuan Guo, Jing&#8208;yao Liu, Tingting Zhao, Zhong&#8208;Min Su, Catalysts. 14(12)] 2024. https://openalex.org/W4404994156
+
+                The use of a single-atom FeN4 catalyst on defective graphene (Fe-NC) has recently emerged as an effective method for the synthesis of amino acids. Herein, we investigated the mechanism of alanine formation on FeN4-doped graphene using comprehensive density functional theory (DFT) computations. The alanine formation reaction begins with the activation of NO molecules on the surface, followed by their reaction with hydrogen atoms provided in the system. The computational results show that NO molecules can be effectively activated on Fe-NC, facilitating the subsequent alanine formation at a relatively lower potential. The potential-limiting step in alanine production involves either the formation of HNO* or HNOH* intermediates on Fe-NG, as the free energy changes (&#916;G) in these two elementary steps are nearly equivalent. Notably, the formation of HNO* exhibits a higher activation energy (Ea) compared to HNOH* formation. This study provides valuable insights into the C&#8211;N coupling reaction and the mechanism of amino acid synthesis on single-atom catalysts.</description>
+      <author>Yu Tian, Xiaoxi Yuan, Zexuan Guo, Jing&#8208;yao Liu, Tingting Zhao, Zhong&#8208;Min Su</author>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14120876</guid>
+    </item>
+    <item>
+      <title>Bayesian optimization of atomic structures with prior probabilities from universal interatomic potentials</title>
+      <link>https://doi.org/10.1103/physrevmaterials.8.123802</link>
+      <description>Peder Lyngby, Casper Larsen, Karsten W. Jacobsen, Physical Review Materials. 8(12)] 2024. https://openalex.org/W4404994554
+
+                The optimization of atomic structures plays a pivotal role in understanding and designing materials with desired properties. However, conventional computational methods often struggle with the formidable task of navigating the vast potential energy surface, especially in high-dimensional spaces with numerous local minima. Recent advancements in machine learning-driven surrogate models offer a promising avenue for alleviating this computational burden. In this study, we propose anapproach that combines the strengths of universal machine learning potentials with a Bayesian approach using Gaussian processes. By using the machine learning potentials as priors for the Gaussian process, the Gaussian process has to learn only the difference between the machine learning potential and the target energy surface calculated for example by density functional theory. This turns out to improve the speed by which the global optimal structure is identified across diverse systems for a well-behaved machine learning potential. The approach is tested on periodic bulk materials, surface structures, and a cluster.</description>
+      <author>Peder Lyngby, Casper Larsen, Karsten W. Jacobsen</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.123802</guid>
+    </item>
+    <item>
+      <title>Phase transitions of correlated systems from graph neural networks with quantum embedding techniques</title>
+      <link>https://doi.org/10.1103/physrevb.110.245111</link>
+      <description>Rishi Rao, Li Zhu, Physical review. B./Physical review. B. 110(24)] 2024. https://openalex.org/W4404994847
+
+                No abstract</description>
+      <author>Rishi Rao, Li Zhu</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.110.245111</guid>
+    </item>
+    <item>
+      <title>relentless: Transparent, reproducible molecular dynamics simulations for optimization</title>
+      <link>https://doi.org/10.1063/5.0233683</link>
+      <description>Adithya N Sreenivasan, C. Levi Petix, Zachary M. Sherman, Michael P. Howard, The Journal of Chemical Physics. 161(21)] 2024. https://openalex.org/W4405003135
+
+                relentless is an open-source Python package that enables the optimization of objective functions computed using molecular dynamics simulations. It has a high-level, extensible interface for model parameterization; setting up, running, and analyzing simulations natively in established software packages; and gradient-based optimization. We describe the design and implementation of relentless in the context of relative entropy minimization, and we demonstrate its abilities to design pairwise interactions between particles that form targeted structures. relentless aims to streamline the development of computational materials design methodologies and promote the transparency and reproducibility of complex workflows integrating molecular dynamics simulations.</description>
+      <author>Adithya N Sreenivasan, C. Levi Petix, Zachary M. Sherman, Michael P. Howard</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0233683</guid>
+    </item>
+    <item>
+      <title>Impact of compositional tuning on Ni-B electrocatalyst for efficient hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.jelechem.2024.118847</link>
+      <description>Susmita S. Patil, Aasiya S. Jamadar, Rohit B. Sutar, Reshma V. Khandeker, Tukaram D. Dongale, Jyotiprakash B. Yadav, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4405009319
+
+                No abstract</description>
+      <author>Susmita S. Patil, Aasiya S. Jamadar, Rohit B. Sutar, Reshma V. Khandeker, Tukaram D. Dongale, Jyotiprakash B. Yadav</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118847</guid>
+    </item>
+    <item>
+      <title>Comprehensive insight into the interfacial adsorption mechanism of pyridine derivatives by molecular dynamics simulations, GFN-xTB and first-principles calculations</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105567</link>
+      <description>Zhaojing Jiang, Jiashun Duan, Wei Xiong, Chaofang Dong, H.F. Liu, G.A. Zhang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4405012661
+
+                No abstract</description>
+      <author>Zhaojing Jiang, Jiashun Duan, Wei Xiong, Chaofang Dong, H.F. Liu, G.A. Zhang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105567</guid>
+    </item>
+    <item>
+      <title>pH Dependence of Noble Metals Dissolution: Iridium</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145450</link>
+      <description>Matej Zlatar, Daniel Escalera&#8208;L&#243;pez, Cornelius Simon, Valent&#237;n Briega&#8208;Martos, Kevin Stojanovski, Serhiy Cherevko, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405013272
+
+                No abstract</description>
+      <author>Matej Zlatar, Daniel Escalera&#8208;L&#243;pez, Cornelius Simon, Valent&#237;n Briega&#8208;Martos, Kevin Stojanovski, Serhiy Cherevko</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145450</guid>
+    </item>
+    <item>
+      <title>Black-box optimization technique for investigation of surface phase diagram</title>
+      <link>https://doi.org/10.1063/5.0229856</link>
+      <description>Makoto Urushihara, Kenji Yamaguchi, Ryo Tamura, AIP Advances. 14(12)] 2024. https://openalex.org/W4405016963
+
+                Surface phase diagrams are useful in material design for understanding catalytic reactions and deposition processes and are usually obtained by numerical calculations. However, a large number of calculations are required, and a strategy to reduce the computation time is necessary. In this study, we proposed a black-box optimization strategy to investigate the surface phase diagram with the smallest possible number of calculations. Our method was tested to examine the phase diagram in which two types of adsorbates, i.e., oxygen and carbon monoxide, were adsorbed onto a palladium surface. In comparison with a random calculation without using machine learning, we confirmed that the proposed method obtained a surface phase diagram with a small number of calculations. In conclusion, our strategy is a general-purpose method that can contribute to the rapid study of various types of surface phase diagrams.</description>
+      <author>Makoto Urushihara, Kenji Yamaguchi, Ryo Tamura</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0229856</guid>
+    </item>
+    <item>
+      <title>Tackling activity-stability paradox of reconstructed NiIrOx electrocatalysts by bridged W-O moiety</title>
+      <link>https://doi.org/10.1038/s41467-024-54987-4</link>
+      <description>Muhammad Imran Abdullah, Fang Yu-sheng, Xiaobing Wu, Meiqi Hu, Jing Shao, Youkun Tao, Haijiang Wang, Nature Communications. 15(1)] 2024. https://openalex.org/W4405022664
+
+                One challenge remaining in the development of Ir-based electrocatalyst is the activity-stability paradox during acidic oxygen evolution reaction (OER), especially for the surface reconstructed IrOx catalyst with high efficiency. To address this, a phase selective Ir-based electrocatalyst is constructed by forming bridged W-O moiety in NiIrOx electrocatalyst. Through an electrochemical dealloying process, an nano-porous structure with surface-hydroxylated rutile NiWIrOx electrocatalyst is engineered via Ni as a sacrificial element. Despite low Ir content, NiWIrOx demonstrates a minimal overpotential of 180 mV for the OER at 10 mA&#183;cm&#8722;2. It maintains a stable 300 mA&#183;cm&#8722;2 current density during an approximately 300 h OER at 1.8 VRHE and shows a stability number of 3.9 &#215; 105 noxygen &#183; nIr&#8722;1. The resulting W &#8211; O&#8211;Ir bridging motif proves pivotal for enhancing the efficacy of OER catalysis by facilitating deprotonation of OER intermediates and promoting a thermodynamically favorable dual-site adsorbent evolution mechanism. Besides, the phase selective insertion of W-O in NiIrOx enabling charge balance through the W-O-Ir bridging motif, effectively counteracting lattice oxygen loss by regulating Ir-O co-valency. One challenge remaining in the electrocatalysts for acidic water electrolysis is the activity-stability paradox. Here, the authors report a facile approach to tackle the challenge by introducing a bridged W-O moiety in NiIrOx electrocatalyst, enhancing the efficacy and stability simultaneously.</description>
+      <author>Muhammad Imran Abdullah, Fang Yu-sheng, Xiaobing Wu, Meiqi Hu, Jing Shao, Youkun Tao, Haijiang Wang</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54987-4</guid>
+    </item>
+    <item>
+      <title>Properties optimisation of nanostructures via machine learning: Progress and perspective</title>
+      <link>https://doi.org/10.1016/j.enganabound.2024.106063</link>
+      <description>Nurul Akmal Che Lah, Engineering Analysis with Boundary Elements. 171(None)] 2024. https://openalex.org/W4405023212
+
+                No abstract</description>
+      <author>Nurul Akmal Che Lah</author>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.enganabound.2024.106063</guid>
+    </item>
+    <item>
+      <title>Toward a unified pH-performance picture of active sites in nitrogen-doped carbon materials</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124908</link>
+      <description>Peiyao Bai, Lang Xu, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4405024756
+
+                No abstract</description>
+      <author>Peiyao Bai, Lang Xu</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124908</guid>
     </item>
     <item>
       <title>Capturing Surface Coverage Effects in Heterogeneous Catalysis</title>
@@ -496,26 +526,6 @@
       <author>Alyssa J. R. Hensley, Neeru Chaudhary, Naseeha Cardwell, Isaac G. Onyango, Yong Wang, Di Wu, Jean&#8208;Sabin McEwen</author>
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05086</guid>
-    </item>
-    <item>
-      <title>Multimodal language and graph learning of adsorption configuration in catalysis</title>
-      <link>https://doi.org/10.1038/s42256-024-00930-7</link>
-      <description>Janghoon Ock, Srivathsan Badrinarayanan, Rishikesh Magar, Akshay Antony, Amir Barati Farimani, Nature Machine Intelligence. None(None)] 2024. https://openalex.org/W4404764557
-
-                No abstract</description>
-      <author>Janghoon Ock, Srivathsan Badrinarayanan, Rishikesh Magar, Akshay Antony, Amir Barati Farimani</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s42256-024-00930-7</guid>
-    </item>
-    <item>
-      <title>Catechol-derived Mannich bases: radical regulatory properties, cytotoxicity and interaction with biomolecules</title>
-      <link>https://doi.org/10.1080/10715762.2024.2433985</link>
-      <description>Maxim Y. Gvozdev, Iveta S. Turomsha, Natalia V. Loginova, E. Yu. Varfolomeeva, R. A. Kovalev, N. D. Fedorova, &#1043;. &#1040;. &#1050;&#1089;&#1077;&#1085;&#1076;&#1079;&#1086;&#1074;&#1072;, N.P. Osipovich, &#1056;. &#1051;. &#1057;&#1074;&#1077;&#1088;&#1076;&#1083;&#1086;&#1074;, Free Radical Research. None(None)] 2024. https://openalex.org/W4404790404
-
-                Free radicals are ubiquitous in biological systems, being responsible for pathogenesis of degenerative diseases and participating in vitally important biochemical processes, which are mediated by radical regulatory agents. The effects of the aliphatic amine substituents in the catechol-derived Mannich bases on their antioxidant and pro-oxidant activity were investigated. It has been found that the presence of catechol moiety in the structure of Mannich bases allows them to act as Cu(II) reductants, efficient Fe(II) chelators and potent DPPH radical scavengers. It has been found that the plausible mechanism of the DPPH radical scavenging proceeds via quinone formation, followed by their interaction with ethanol via the Michael addition reaction. In the neutrophil respiratory burst assay, several compounds have demonstrated a weak antioxidant activity at the micromolar level (0.1&#8211;10 &#181;M), whereas at the millimolar level (0.1 m&#1052;) a strong pro-oxidant effect has been observed. Additionally, at the highest used concentrations a pronounced cytotoxicity against dermal fibroblasts DF-2 and an immunosuppressive effect against T-lymphocytes have been observed for all the synthesized compounds. It has been demonstrated that the oxidation of catechols in the presence of low-molecular thiols results in the formation of covalent adducts, which provides an insight into their cytotoxicity and detoxification pathways.</description>
-      <author>Maxim Y. Gvozdev, Iveta S. Turomsha, Natalia V. Loginova, E. Yu. Varfolomeeva, R. A. Kovalev, N. D. Fedorova, &#1043;. &#1040;. &#1050;&#1089;&#1077;&#1085;&#1076;&#1079;&#1086;&#1074;&#1072;, N.P. Osipovich, &#1056;. &#1051;. &#1057;&#1074;&#1077;&#1088;&#1076;&#1083;&#1086;&#1074;</author>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/10715762.2024.2433985</guid>
     </item>
     <item>
       <title>High-Throughput Screening Approach for Catalytic Applications through Regulation of Adsorption Energies via Work Function</title>
