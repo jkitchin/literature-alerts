@@ -1,94 +1,10 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Dec  6 01:27:10 2024
+Created on Sat Dec  7 01:26:37 2024
 
-Found 12 results from 2024-11-29 to 2024-12-06
+Found 8 results from 2024-11-30 to 2024-12-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
-
-* Rapid Prediction of Conformationally-Dependent DFT-Level Descriptors using Graph Neural Networks for Carboxylic Acids and Alkyl Amines  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404811330
-:TOPICS: Computational Methods in Drug Discovery, Chiral Separation in Chromatography, Innovations in Chemistry Education and Laboratory Techniques
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00284a")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404811330"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404811330"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404811330"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404811330 (Open access: True)
-    
-[[https://openalex.org/A5084383117][Brittany C. Haas]], [[https://openalex.org/A5055591760][Melissa A. Hardy]], [[https://openalex.org/A5108296236][S. V. Shree Sowndarya]], [[https://openalex.org/A5063726750][Keir Adams]], [[https://openalex.org/A5076162644][Connor W. Coley]], [[https://openalex.org/A5056441542][Robert S. Paton]], [[https://openalex.org/A5005862481][Matthew S. Sigman]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00284a 
-     
-Data-driven reaction discovery and development is a growing field that relies on the use of molecular descriptors to capture key information about substrates, ligands, and targets. Broad adaptation of this...    
-
-    
-
-* Graph Neural Network-State Predictive Information Bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404818721
-:TOPICS: Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00315b")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404818721"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404818721"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404818721"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404818721 (Open access: True)
-    
-[[https://openalex.org/A5017830766][Ziyue Zou]], [[https://openalex.org/A5074284831][Dedi Wang]], [[https://openalex.org/A5070740163][Pratyush Tiwary]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00315b 
-     
-Molecular dynamics simulations offer detailed insights into atomic motions but face timescale limitations. Enhanced sampling methods have addressed these challenges but even with machine learning, they often rely on pre-selected...    
-
-    
-
-* CopDDB: a descriptor database for copolymers and its applications to machine learning  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404823970
-:TOPICS: Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00266k")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404823970"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404823970"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404823970"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404823970 (Open access: True)
-    
-[[https://openalex.org/A5089729015][Takayoshi Yoshimura]], [[https://openalex.org/A5104163161][Hiromoto Kato]], [[https://openalex.org/A5113640380][Shunto Oikawa]], [[https://openalex.org/A5053410744][T. Inagaki]], [[https://openalex.org/A5064406771][Shigehito Asano]], [[https://openalex.org/A5061270893][Tetsunori Sugawara]], [[https://openalex.org/A5007145690][Tomoyuki Miyao]], [[https://openalex.org/A5042074952][Takamitsu Matsubara]], [[https://openalex.org/A5051357022][Hiroharu Ajiro]], [[https://openalex.org/A5101491784][Mikiya Fujii]], [[https://openalex.org/A5053454625][Yu‐ya Ohnishi]], [[https://openalex.org/A5004626824][Miho Hatanaka]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00266k 
-     
-Polymer informatics, which involves applying data-driven science to polymers, has attracted considerable research interest. However, developing adequate descriptors for polymers, particularly copolymers, to facilitate machine learning (ML) models with limited...    
-
-    
-
-* PolyCL: Contrastive Learning for Polymer Representation Learning via Explicit and Implicit Augmentations  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404830438
-:TOPICS: Fuel Cell Membrane Technology, Robotic Grasping and Learning from Demonstration, Theory and Applications of Extreme Learning Machines
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00236a")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404830438"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404830438"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404830438"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404830438 (Open access: True)
-    
-[[https://openalex.org/A5054834430][Jiajun Zhou]], [[https://openalex.org/A5110975187][Yijie Yang]], [[https://openalex.org/A5000408874][Austin M. Mroz]], [[https://openalex.org/A5056792018][Kim E. Jelfs]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00236a 
-     
-Polymers play a crucial role in a wide array of applications due to their diverse and tunable properties. Establishing the relationship between polymer representations and their properties is crucial to...    
-
-    
 
 * Data efficiency of classification strategies for chemical and materials design  :Digital_Discovery:
 :PROPERTIES:

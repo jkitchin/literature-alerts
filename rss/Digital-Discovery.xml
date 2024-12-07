@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Dec 2024 01:27:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 01:26:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Rapid Prediction of Conformationally-Dependent DFT-Level Descriptors using Graph Neural Networks for Carboxylic Acids and Alkyl Amines</title>
-      <link>https://doi.org/10.1039/d4dd00284a</link>
-      <description>Brittany C. Haas, Melissa A. Hardy, S. V. Shree Sowndarya, Keir Adams, Connor W. Coley, Robert S. Paton, Matthew S. Sigman, Digital Discovery. None(None)] 2024. https://openalex.org/W4404811330
-
-                Data-driven reaction discovery and development is a growing field that relies on the use of molecular descriptors to capture key information about substrates, ligands, and targets. Broad adaptation of this...</description>
-      <author>Brittany C. Haas, Melissa A. Hardy, S. V. Shree Sowndarya, Keir Adams, Connor W. Coley, Robert S. Paton, Matthew S. Sigman</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00284a</guid>
-    </item>
-    <item>
-      <title>Graph Neural Network-State Predictive Information Bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics</title>
-      <link>https://doi.org/10.1039/d4dd00315b</link>
-      <description>Ziyue Zou, Dedi Wang, Pratyush Tiwary, Digital Discovery. None(None)] 2024. https://openalex.org/W4404818721
-
-                Molecular dynamics simulations offer detailed insights into atomic motions but face timescale limitations. Enhanced sampling methods have addressed these challenges but even with machine learning, they often rely on pre-selected...</description>
-      <author>Ziyue Zou, Dedi Wang, Pratyush Tiwary</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00315b</guid>
-    </item>
-    <item>
-      <title>CopDDB: a descriptor database for copolymers and its applications to machine learning</title>
-      <link>https://doi.org/10.1039/d4dd00266k</link>
-      <description>Takayoshi Yoshimura, Hiromoto Kato, Shunto Oikawa, T. Inagaki, Shigehito Asano, Tetsunori Sugawara, Tomoyuki Miyao, Takamitsu Matsubara, Hiroharu Ajiro, Mikiya Fujii, Yu&#8208;ya Ohnishi, Miho Hatanaka, Digital Discovery. None(None)] 2024. https://openalex.org/W4404823970
-
-                Polymer informatics, which involves applying data-driven science to polymers, has attracted considerable research interest. However, developing adequate descriptors for polymers, particularly copolymers, to facilitate machine learning (ML) models with limited...</description>
-      <author>Takayoshi Yoshimura, Hiromoto Kato, Shunto Oikawa, T. Inagaki, Shigehito Asano, Tetsunori Sugawara, Tomoyuki Miyao, Takamitsu Matsubara, Hiroharu Ajiro, Mikiya Fujii, Yu&#8208;ya Ohnishi, Miho Hatanaka</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00266k</guid>
-    </item>
-    <item>
-      <title>PolyCL: Contrastive Learning for Polymer Representation Learning via Explicit and Implicit Augmentations</title>
-      <link>https://doi.org/10.1039/d4dd00236a</link>
-      <description>Jiajun Zhou, Yijie Yang, Austin M. Mroz, Kim E. Jelfs, Digital Discovery. None(None)] 2024. https://openalex.org/W4404830438
-
-                Polymers play a crucial role in a wide array of applications due to their diverse and tunable properties. Establishing the relationship between polymer representations and their properties is crucial to...</description>
-      <author>Jiajun Zhou, Yijie Yang, Austin M. Mroz, Kim E. Jelfs</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00236a</guid>
-    </item>
     <item>
       <title>Data efficiency of classification strategies for chemical and materials design</title>
       <link>https://doi.org/10.1039/d4dd00298a</link>

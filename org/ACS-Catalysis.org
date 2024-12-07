@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Dec  6 01:27:07 2024
+Created on Sat Dec  7 01:26:34 2024
 
-Found 24 results from 2024-11-29 to 2024-12-06
+Found 27 results from 2024-11-30 to 2024-12-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Photocatalytic Conversion of Biomass and Nitrate into Glycine  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404799850
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Conversion of Biomass to Fuels and Chemicals, Catalytic Reduction of Nitro Compounds
-:PUBLICATION_DATE: 2024-11-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05235")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404799850"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404799850"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404799850"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404799850 (Open access: False)
-    
-[[https://openalex.org/A5004242502][Peifeng Li]], [[https://openalex.org/A5058707346][Biaobiao Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05235 
-     
-No abstract    
-
-    
-
-* Kinetic Analysis of Cyclization by the Substrate-Tolerant Lanthipeptide Synthetase ProcM  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404834790
-:TOPICS: Natural Products as Sources of New Drugs, Ribosome Structure and Translation Mechanisms, Peptide Synthesis and Drug Discovery
-:PUBLICATION_DATE: 2024-11-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06216")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404834790"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404834790"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404834790"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404834790 (Open access: False)
-    
-[[https://openalex.org/A5021271255][Emily K. Desormeaux]], [[https://openalex.org/A5114876563][Garrett J. Barksdale]], [[https://openalex.org/A5067523147][Wilfred A. van der Donk]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06216 
-     
-No abstract    
-
-    
 
 * Comprehensive Investigations of MUC1 O-Glycosylation Process Reveal Initial Site Preference by the Polypeptide GalNAc Transferases  :ACS_Catalysis:
 :PROPERTIES:
@@ -150,27 +108,6 @@ OpenAlex: https://openalex.org/W4404913495 (Open access: False)
 [[https://openalex.org/A5012050880][Jae‐Kwan Kim]], [[https://openalex.org/A5047514009][Christian R. Jacobson]], [[https://openalex.org/A5069086177][Naomi J. Halas]], [[https://openalex.org/A5083700647][Ian A. Tonks]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06286 
      
 Ti precatalysts containing the titanocene moiety (Cp2Ti–, Cp = cyclopentadienyl) can, under certain conditions, selectively produce cubic Al nanocrystals through the dehydrocoupling of alane amine adducts such as AlH3·NMe2Et. A systematic study of reaction conditions reveals that cubic Al nanoparticle formation occurs at a higher temperature (e.g., 65 °C) and/or higher catalyst-concentration conditions (e.g., 0.5 mol % [Ti]). Kinetic studies reveal that under these conditions nanoparticle formation and alane consumption are much faster, and cubic nanoparticle formation takes place under kinetically controlled conditions. On the other hand, employing a wide suite of TiX4 (X = anionic ligand)-type precatalysts yielded only octahedral-shaped aluminum nanoparticles regardless of conditions. Finally, we report the synthesis of a hydride-bridged Ti–Al heterobimetallic compound from the reaction of Cp2TiCl2 with AlH3·NMe2Et and characterized it to show that it is a reaction intermediate in the Ti-catalyzed aluminum nanoparticle synthesis.    
-
-    
-
-* Effectively Regulating Electrooxidation of Formic Acid over Bimetallic PtCo Alloys via the Integration of Theory and Experiment  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404831841
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-11-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06198")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404831841"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404831841"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404831841"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404831841 (Open access: False)
-    
-[[https://openalex.org/A5089966981][Zhikeng Zheng]], [[https://openalex.org/A5107948717][Bin Liu]], [[https://openalex.org/A5087450897][Jiaxiang Qiu]], [[https://openalex.org/A5025279061][Shaojun Xu]], [[https://openalex.org/A5108137949][Yuchen Wang]], [[https://openalex.org/A5100353061][Man Zhang]], [[https://openalex.org/A5100343468][Ke Li]], [[https://openalex.org/A5049586106][Zhongti Sun]], [[https://openalex.org/A5100728531][Ziang Li]], [[https://openalex.org/A5060400342][Yangyang Wan]], [[https://openalex.org/A5042572313][C. Richard A. Catlow]], [[https://openalex.org/A5063084241][Kai Yan]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06198 
-     
-No abstract    
 
     
 
@@ -507,5 +444,131 @@ OpenAlex: https://openalex.org/W4405023659 (Open access: False)
 [[https://openalex.org/A5032407202][Stephanie A. Johnson]], [[https://openalex.org/A5006690638][James R. Wilkes]], [[https://openalex.org/A5040290819][Dunwei Wang]], [[https://openalex.org/A5086992939][Jeffery A. Byers]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05947 
      
 Immobilizing molecular catalysts on surfaces introduces spatial control of catalysis and promises improved stability and recyclability of the catalyst. The interplays between the support and the immobilized molecular species, however, remain underexplored. Using Ni as a prototypical support, here we report a study on how the electronic interactions between the support and the molecular catalyst impacts the reactivity. This work was built upon our previous successes in switching the reactivity of iron bis(iminopyridine) alkoxide complexes through redox toggling, where the anchored iron(II) complex polymerizes lactide, and its cationic iron(III) counterpart polymerizes epoxides. It was found that Ni as a metal support could readily oxidize the complex to exhibit catalytic activity toward epoxide polymerization. The charge transfer between Ni and the Fe complex could be modulated by either electrochemical reduction or adding a layer of TiO2. The results are expected to have major implications for research efforts aimed at converging homogeneous and heterogeneous catalysis.    
+
+    
+
+* Promoting Heptazine-Based Graphitic Carbon Nitride Photocatalytic Overall Water Splitting by Effectively Assembling Double-Unit Polymers  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405039581
+:TOPICS: 
+:PUBLICATION_DATE: 2024-12-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05801")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405039581"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405039581"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405039581"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405039581 (Open access: False)
+    
+[[https://openalex.org/A5016145553][Ruilin Guan]], [[https://openalex.org/A5048714219][Anqi Shi]], [[https://openalex.org/A5100744364][Xiuyun Zhang]], [[https://openalex.org/A5100382552][Bing Wang]], [[https://openalex.org/A5100753077][Yongtao Li]], [[https://openalex.org/A5045012383][Xianghong Niu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05801 
+     
+No abstract    
+
+    
+
+* Correction to “Influence of Carbon Support on the Pyrolysis of Cobalt Phthalocyanine for the Efficient Electroreduction of CO2”  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405054009
+:TOPICS: CO2 Reduction Techniques and Catalysts, Molecular Junctions and Nanostructures, Carbon dioxide utilization in catalysis
+:PUBLICATION_DATE: 2024-12-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c07096")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405054009"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405054009"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405054009"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405054009 (Open access: False)
+    
+[[https://openalex.org/A5026053485][Johan Hamonnet]], [[https://openalex.org/A5022266216][Michael S. Bennington]], [[https://openalex.org/A5042673824][Bernt Johannessen]], [[https://openalex.org/A5017012368][Jessica L. Hamilton]], [[https://openalex.org/A5055664078][Paula A. Brooksby]], [[https://openalex.org/A5011574979][Sally Brooker]], [[https://openalex.org/A5038674107][Vladimir B. Golovko]], [[https://openalex.org/A5023646639][Aaron T. Marshall]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c07096 
+     
+No abstract    
+
+    
+
+* Automated Exploration of Heterogeneous Catalysis with a Gas–Solid Nanoreactor  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405055249
+:TOPICS: Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions, Machine Learning in Materials Science
+:PUBLICATION_DATE: 2024-12-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06026")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405055249"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405055249"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405055249"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405055249 (Open access: False)
+    
+[[https://openalex.org/A5110388865][Jiawei Bai]], [[https://openalex.org/A5100644714][Xingchen Liu]], [[https://openalex.org/A5080670426][Tingyu Lei]], [[https://openalex.org/A5072985266][Yuwei Zhou]], [[https://openalex.org/A5103793376][Wenping Guo]], [[https://openalex.org/A5080199946][Dennis R. Salahub]], [[https://openalex.org/A5047313833][Xiaodong Wen]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06026 
+     
+We present an automated method, gas–solid nanoreactor molecular dynamics (GS-NMD), designed to explore reaction space and construct reaction networks for complex gas–solid heterogeneous catalysis systems by integrating multiple acceleration techniques. Periodic pulses were used to drive gas-phase molecules toward the catalyst surface, accelerating adsorption and Eley–Rideal reactions. Adsorbed species were then subjected to metadynamics to overcome reaction barriers associated with migration, Langmuir–Hinshelwood-type reactions, and desorption, using the root-mean-square deviations in Cartesian space as collective variables. We demonstrate the efficiency of GS-NMD with the case of N2 dissociation on Fe surfaces, showing its ability to effectively screen for low-barrier reactions within a vast reaction space and distinct catalysts of different performances. Additionally, we illustrate the method's utility in constructing effective reaction networks for heterogeneous catalysis, exemplified by ammonia synthesis, which comprises only low-barrier elementary steps. These results suggest that GS-NMD is a promising and efficient tool for the automated exploration of heterogeneous catalysis, enabling the identification of the most favorable mechanisms and active sites for gas–solid reactions.    
+
+    
+
+* How Do Variants of Residues in the First Coordination Sphere, Second Coordination Sphere, and Remote Areas Influence the Catalytic Mechanism of Non-Heme Fe(II)/2-Oxoglutarate Dependent Ethylene-Forming Enzyme?  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405057265
+:TOPICS: Metal-Catalyzed Oxygenation Mechanisms, Enzyme Structure and Function, Metal complexes synthesis and properties
+:PUBLICATION_DATE: 2024-12-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04010")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405057265"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405057265"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405057265"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405057265 (Open access: False)
+    
+[[https://openalex.org/A5026364332][Midhun George Thomas]], [[https://openalex.org/A5038449861][Simahudeen Bathir Jaber Sathik Rifayee]], [[https://openalex.org/A5057631651][Christo Christov]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04010 
+     
+No abstract    
+
+    
+
+* Highly Efficient Photocatalytic Divergent Decarbonylative Silylation with Cinnamaldehyde via a [Ru(dcbpy)(bpy)2]2+-Incorporated UiO-67 Framework  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405075494
+:TOPICS: Catalytic C–H Functionalization Methods, Polyoxometalates: Synthesis and Applications, Sulfur-Based Synthesis Techniques
+:PUBLICATION_DATE: 2024-12-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05535")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405075494"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405075494"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405075494"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405075494 (Open access: False)
+    
+[[https://openalex.org/A5084159924][Huahui Wang]], [[https://openalex.org/A5111065243][Bing-Bing Qin]], [[https://openalex.org/A5075973287][Jiali Cai]], [[https://openalex.org/A5101472686][Yun Wu]], [[https://openalex.org/A5019750202][Cong Zhao]], [[https://openalex.org/A5112747003][Xiao‐Yan Bai]], [[https://openalex.org/A5100432107][Lu Chen]], [[https://openalex.org/A5072124977][Yan‐Zhong Fan]], [[https://openalex.org/A5100402936][Min Zhang]], [[https://openalex.org/A5010238813][Jiewei Liu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05535 
+     
+We herein develop an innovative approach for the decarbonylative silylation using a molecular [Ru(dcbpy)(bpy)2]2+ (dcbpy = 2,2′-bipyridyl-5,5′-dicarboxylic acid; bpy = 2,2′-bipyridine) incorporated UiO-67 metal–organic framework (MOFs) (denoted as UiO-67-Ru) as a powerful heterogeneous catalyst, which is then applied in the reaction of abundantly available cinnamaldehydes with silanes under photothermal condition. Mechanistic studies reveal that the silane can be absorbed and activated within the cavities of the framework, leading to the generation of a silyl radical. The silyl radical plays a key role in the decarbonylative silylation process and further goes through oxidative silylation with cinnamaldehydes to generate the corresponding alkenyl silanes. This work not only develops a strategy for the preparation of alkenyl silane from highly abundant cinnamaldehyde and silanes but also affords useful inspiration on the rational design of MOFs materials for the decarbonylative silylation.    
+
+    
+
+* Shallow Rate-Redox Potential Scaling in Aqueous Molecular Oxygen Reduction Electrocatalysis Across a Family of Iron Macrocycles  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405089233
+:TOPICS: Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications, CO2 Reduction Techniques and Catalysts
+:PUBLICATION_DATE: 2024-12-05
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06561")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405089233"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405089233"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405089233"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405089233 (Open access: False)
+    
+[[https://openalex.org/A5065288721][Travis Marshall-Roth]], [[https://openalex.org/A5054906524][Liang Liu]], [[https://openalex.org/A5083980714][Vennela Mannava]], [[https://openalex.org/A5022499260][Deiaa M. Harraz]], [[https://openalex.org/A5101856406][Brian J. Cook]], [[https://openalex.org/A5022980951][R. Morris Bullock]], [[https://openalex.org/A5021899292][Yogesh Surendranath]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06561 
+     
+Rate-overpotential scaling relationships have been employed widely to understand trends in oxygen reduction reaction (ORR) electrocatalysis by dissolved metal macrocycles in organic electrolytes. Similar scaling relationships remain unknown for surface-adsorbed ORR electrocatalysts in the acidic aqueous environments germane to proton-exchange membrane (PEM) fuel cells. Herein, we examine ORR catalysis in aqueous perchloric acid media for a structurally diverse array of iron macrocycle complexes adsorbed on Vulcan carbon black. The macrocycles encompass Fe–N4, Fe–N2N′2 and Fe–NxC4–x motifs bearing pyrrolic, pyridinic, and N-heterocyclic carbene (NHC) moieties in the primary ligation sphere, giving rise to a 670 mV range in Fe(III/II) redox potentials, EFe(III/II). Experimental Tafel data in the micropolarization regime were extrapolated to the EFe(III/II) to furnish estimated per-site-normalized current density (jper-site) values that span ∼4.6 orders of magnitude across the family of compounds. Despite the structural diversity of this family of compounds, extrapolated jper-site values correlate with the Fe(III/II) redox potentials in a roughly log-linear fashion with a shallow scaling factor of approximately 145 mV/decade. These findings highlight the phenomenology that negative shifts in EFe(III/II) track with diminishing returns in catalytic rate promotion, regardless of the exact ORR mechanism, and suggest that changes to the primary ligating environment in a macrocycle are insufficient to break fundamental rate-potential scaling relationships in aqueous ORR catalysis. Together these studies motivate the further development of higher-potential iron complexes that employ motifs beyond the equatorial ligation plane to enhance ORR catalysis.    
 
     
