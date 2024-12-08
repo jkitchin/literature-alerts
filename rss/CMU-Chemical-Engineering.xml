@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Dec 2024 01:26:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 01:41:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mathematical modeling and economic optimization of a piperazine-based post-combustion carbon capture process</title>
-      <link>https://doi.org/10.1016/j.ijggc.2024.104282</link>
-      <description>Ilayda Akkor, Shachit S. Iyer, John Dowdle, Le Wang, Chrysanthos E. Gounaris, International journal of greenhouse gas control. 140(None)] 2024. https://openalex.org/W4404860714
-
-                No abstract</description>
-      <author>Ilayda Akkor, Shachit S. Iyer, John Dowdle, Le Wang, Chrysanthos E. Gounaris</author>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijggc.2024.104282</guid>
-    </item>
     <item>
       <title>A hybrid method for online monitoring of internals performance in distillation columns</title>
       <link>https://doi.org/10.1016/j.compchemeng.2024.108968</link>

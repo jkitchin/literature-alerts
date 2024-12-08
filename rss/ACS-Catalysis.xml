@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Dec 2024 01:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 01:41:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Comprehensive Investigations of MUC1 O-Glycosylation Process Reveal Initial Site Preference by the Polypeptide GalNAc Transferases</title>
-      <link>https://doi.org/10.1021/acscatal.4c05719</link>
-      <description>Han Zhang, Kaiyuan Song, Yihan Liu, Fang Yang, Congcong Lu, Rumeng Wei, Zhijue Xu, Xia Zou, Liang Lin, Ting Shi, Lin&#8208;Tai Da, Yan Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404843611
-
-                No abstract</description>
-      <author>Han Zhang, Kaiyuan Song, Yihan Liu, Fang Yang, Congcong Lu, Rumeng Wei, Zhijue Xu, Xia Zou, Liang Lin, Ting Shi, Lin&#8208;Tai Da, Yan Zhang</author>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05719</guid>
-    </item>
-    <item>
-      <title>Tailoring Surface and Penetrating Carbon in Fe-Based Catalysts to Balance the Activity and Stability of Fischer&#8211;Tropsch Synthesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c06014</link>
-      <description>Xiaoxue Han, Shouying Huang, Chongyang Wei, Haoting Liang, Jing Lv, Yue Wang, Mei&#8208;Yan Wang, Yong Wang, Xinbin Ma, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404857137
-
-                No abstract</description>
-      <author>Xiaoxue Han, Shouying Huang, Chongyang Wei, Haoting Liang, Jing Lv, Yue Wang, Mei&#8208;Yan Wang, Yong Wang, Xinbin Ma</author>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06014</guid>
-    </item>
-    <item>
-      <title>Enantioselective Transformation of Hydrazones via Remote NHC Catalysis: Activation Across C&#9552;N and N&#8211;N Bonds</title>
-      <link>https://doi.org/10.1021/acscatal.4c06029</link>
-      <description>Jiamiao Jin, Ya Lv, Wenli Tang, Kunpeng Teng, Yixian Huang, Jingxin Ding, Tingting Li, Guanjie Wang, Yonggui Robin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404877553
-
-                The catalytic asymmetric transformation of nitrogen atoms to prepare heterocyclic molecules is of significant value in organic synthesis and biological applications. Here, we disclose the activation of the nitrogen atom in hydrazine-derived hydrazone via an N-heterocyclic carbene (NHC) organic catalyst for highly enantioselective formal cycloaddition reactions. The range of NHC catalysis extends across several (carbon and hetero) atoms and diverse chemical bonds (C&#9552;N and N&#8211;N bonds) to activate nitrogen atoms at remote sites with excellent reactivity and (stereo)selectivity control. Our strategy for nitrogen atom activation, along with the NHC-bound diaza-diene intermediate generated during the catalytic process, offers alternative solutions for organic synthesis.</description>
-      <author>Jiamiao Jin, Ya Lv, Wenli Tang, Kunpeng Teng, Yixian Huang, Jingxin Ding, Tingting Li, Guanjie Wang, Yonggui Robin</author>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06029</guid>
-    </item>
     <item>
       <title>Correction to &#8220;Uncovering Hydroxynitrile Lyase Variants with Promiscuous Diastereoselective Nitroaldolase Activity toward the Highly Stereocontrolled Synthesis of &lt;i&gt;Anti&lt;/i&gt; &#946;-Nitroalcohols&#8221;</title>
       <link>https://doi.org/10.1021/acscatal.4c06888</link>
@@ -276,6 +246,56 @@
       <author>Travis Marshall-Roth, Liang Liu, Vennela Mannava, Deiaa M. Harraz, Brian J. Cook, R. Morris Bullock, Yogesh Surendranath</author>
       <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06561</guid>
+    </item>
+    <item>
+      <title>Single-Atom Catalyst Restructuring during Catalytic Reforming of CH&lt;sub&gt;4&lt;/sub&gt; by CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c05703</link>
+      <description>Yu Tang, Xupeng Zong, Luan Nguyen, Franklin Tao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405093687
+
+                No abstract</description>
+      <author>Yu Tang, Xupeng Zong, Luan Nguyen, Franklin Tao</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05703</guid>
+    </item>
+    <item>
+      <title>Ag-Regulated Interfacial Electron Transfer between TiO&lt;sub&gt;2&lt;/sub&gt; and MoS&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; for Enhanced H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
+      <link>https://doi.org/10.1021/acscatal.4c05674</link>
+      <description>Xidong Zhang, Jiachao Xu, Haoyu Long, Jiaguo Yu, Huogen Yu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405104681
+
+                The electronic configuration mismatch between the TiO2 support and the MoSx cocatalyst induces spontaneous free-electron transfer in an unfavorable direction, resulting in stronger O2 adsorption on Mo active sites and causing limited H2O2 production. Herein, we propose a strategy for directional free-electron transfer to produce electron-enriched Mo(4 &#8211; &#948;)+ sites via introducing an Ag mediator into the TiO2/MoSx photocatalyst, which aims to weaken O2 adsorption for improving H2O2 production activity. To achieve this, a core&#8211;shell Ag@MoSx cocatalyst was ingeniously constructed on the TiO2 surface to synthesize the TiO2/Ag@MoSx photocatalyst. The resultant TiO2/Ag@MoSx achieves a significantly enhanced H2O2 production rate of 16.13 mmol g&#8211;1 h&#8211;1 with an AQY value of 8.79%, surpassing TiO2/Ag and TiO2/MoSx by 10.0 and 237.2 times, respectively. Theoretical calculations and experimental results reveal that the incorporation of the Ag mediator into the TiO2/Ag@MoSx system can facilitate directional free-electron transfer to the MoSx cocatalyst. This causes the creation of electron-enriched Mo(4 &#8211; &#948;)+ sites and an increase in the antibonding-orbital occupancy of Mo&#8211;Oads, ultimately weakening the Mo&#8211;Oads bond and enabling high activity in H2O2 production. This study provides valuable insights into optimizing reactant adsorption for efficient artificial photosynthesis.</description>
+      <author>Xidong Zhang, Jiachao Xu, Haoyu Long, Jiaguo Yu, Huogen Yu</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05674</guid>
+    </item>
+    <item>
+      <title>Stereospecific and Stereodivergent Allyl&#8211;Allyl Coupling: Construction of Vicinal Tertiary and All-Carbon Quaternary Stereocenters</title>
+      <link>https://doi.org/10.1021/acscatal.4c06203</link>
+      <description>Yongsuk Jung, Jieun Kim, G.N. Kim, Jeong Wan Ko, Sungwoo Hong, Seung Hwan Cho, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405106290
+
+                No abstract</description>
+      <author>Yongsuk Jung, Jieun Kim, G.N. Kim, Jeong Wan Ko, Sungwoo Hong, Seung Hwan Cho</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06203</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i023_1874629</link>
+      <description>, ACS Catalysis. 14(23)] 2024. https://openalex.org/W4405120090
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i023_1874629</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i023_1874630</link>
+      <description>, ACS Catalysis. 14(23)] 2024. https://openalex.org/W4405121157
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i023_1874630</guid>
     </item>
   </channel>
 </rss>

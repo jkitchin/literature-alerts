@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Dec 2024 01:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 01:41:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Brush-Like Hollow PtTe&lt;sub&gt;2&lt;/sub&gt; Nanotube for Enhanced Formic Acid Electrooxidation Catalysis</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c05900</link>
-      <description>Qiaorong Jiang, Zhiyi Wang, Zhigang Huang, Xuyuan Nie, Delun Chen, Xiao Han, Wei Yan, Hu Yang, Xianmeng Song, Haixin Lin, Zi&#8208;Ang Nan, Zhaoxiong Xie, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404862958
-
-                No abstract</description>
-      <author>Qiaorong Jiang, Zhiyi Wang, Zhigang Huang, Xuyuan Nie, Delun Chen, Xiao Han, Wei Yan, Hu Yang, Xianmeng Song, Haixin Lin, Zi&#8208;Ang Nan, Zhaoxiong Xie</author>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05900</guid>
-    </item>
-    <item>
-      <title>Hydrogen Peroxide Electrosynthesis via Selective Oxygen Reduction Reactions Through Interfacial Reaction Microenvironment Engineering</title>
-      <link>https://doi.org/10.1002/adma.202414490</link>
-      <description>Qiang Tian, Lingyan Jing, Wenyi Wang, Xieshu Ye, Xiaoyan Chai, Xue Zhang, Qi Hu, Hengpan Yang, Chuanxin He, Advanced Materials. None(None)] 2024. https://openalex.org/W4404866412
-
-                Abstract The electrochemical two&#8208;electron oxygen reduction reaction (2e &#8722; ORR) offers a compelling alternative for decentralized and on&#8208;site H 2 O 2 production compared to the conventional anthraquinone process. To advance this electrosynthesis system, there is growing interest in optimizing the interfacial reaction microenvironment to boost electrocatalytic performance. This review consolidates recent advancements in reaction microenvironment engineering for the selective electrocatalytic conversion of O 2 to H 2 O 2 . Starting with fundamental insights into interfacial electrocatalytic mechanisms, an overview of various strategies for constructing the favorable local reaction environment, including adjusting electrode wettability, enhancing mesoscale mass transfer, elevating local pH, incorporating electrolyte additives, and employing pulsed electrocatalysis techniques is provided. Alongside these regulation strategies, the corresponding analyses and technical remarks are also presented. Finally, a summary and outlook on critical challenges, suggesting future research directions to inspire microenvironment engineering and accelerate the practical application of H 2 O 2 electrosynthesis is delivered.</description>
-      <author>Qiang Tian, Lingyan Jing, Wenyi Wang, Xieshu Ye, Xiaoyan Chai, Xue Zhang, Qi Hu, Hengpan Yang, Chuanxin He</author>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202414490</guid>
-    </item>
   </channel>
 </rss>

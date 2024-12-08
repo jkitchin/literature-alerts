@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Dec  7 01:26:34 2024
+Created on Sun Dec  8 01:41:27 2024
 
-Found 27 results from 2024-11-30 to 2024-12-07
+Found 29 results from 2024-12-01 to 2024-12-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Comprehensive Investigations of MUC1 O-Glycosylation Process Reveal Initial Site Preference by the Polypeptide GalNAc Transferases   
-
-OpenAlex: https://openalex.org/W4404843611    
-Open access: False
-    
-[Han Zhang](https://openalex.org/A5100399297), [Kaiyuan Song](https://openalex.org/A5077812141), [Yihan Liu](https://openalex.org/A5104337377), [Fang Yang](https://openalex.org/A5102905625), [Congcong Lu](https://openalex.org/A5040806192), [Rumeng Wei](https://openalex.org/A5113300033), [Zhijue Xu](https://openalex.org/A5024972473), [Xia Zou](https://openalex.org/A5008414706), [Liang Lin](https://openalex.org/A5075529271), [Ting Shi](https://openalex.org/A5108406881), [Lin‐Tai Da](https://openalex.org/A5075688047), [Yan Zhang](https://openalex.org/A5100456242), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05719.
-    
-No abstract    
-
-    
-
-## Tailoring Surface and Penetrating Carbon in Fe-Based Catalysts to Balance the Activity and Stability of Fischer–Tropsch Synthesis   
-
-OpenAlex: https://openalex.org/W4404857137    
-Open access: False
-    
-[Xiaoxue Han](https://openalex.org/A5091368247), [Shouying Huang](https://openalex.org/A5075318509), [Chongyang Wei](https://openalex.org/A5012547244), [Haoting Liang](https://openalex.org/A5016211182), [Jing Lv](https://openalex.org/A5101730489), [Yue Wang](https://openalex.org/A5065841119), [Mei‐Yan Wang](https://openalex.org/A5041578170), [Yong Wang](https://openalex.org/A5038325575), [Xinbin Ma](https://openalex.org/A5100689682), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06014.
-    
-No abstract    
-
-    
-
-## Enantioselective Transformation of Hydrazones via Remote NHC Catalysis: Activation Across C═N and N–N Bonds   
-
-OpenAlex: https://openalex.org/W4404877553    
-Open access: False
-    
-[Jiamiao Jin](https://openalex.org/A5008560620), [Ya Lv](https://openalex.org/A5110163098), [Wenli Tang](https://openalex.org/A5071961275), [Kunpeng Teng](https://openalex.org/A5070239905), [Yixian Huang](https://openalex.org/A5102115055), [Jingxin Ding](https://openalex.org/A5101073339), [Tingting Li](https://openalex.org/A5100416500), [Guanjie Wang](https://openalex.org/A5101487052), [Yonggui Robin](https://openalex.org/A5056403313), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06029.
-    
-The catalytic asymmetric transformation of nitrogen atoms to prepare heterocyclic molecules is of significant value in organic synthesis and biological applications. Here, we disclose the activation of the nitrogen atom in hydrazine-derived hydrazone via an N-heterocyclic carbene (NHC) organic catalyst for highly enantioselective formal cycloaddition reactions. The range of NHC catalysis extends across several (carbon and hetero) atoms and diverse chemical bonds (C═N and N–N bonds) to activate nitrogen atoms at remote sites with excellent reactivity and (stereo)selectivity control. Our strategy for nitrogen atom activation, along with the NHC-bound diaza-diene intermediate generated during the catalytic process, offers alternative solutions for organic synthesis.    
-
-    
 
 ## Correction to “Uncovering Hydroxynitrile Lyase Variants with Promiscuous Diastereoselective Nitroaldolase Activity toward the Highly Stereocontrolled Synthesis of Anti β-Nitroalcohols”   
 
@@ -300,5 +267,60 @@ Open access: False
 [Travis Marshall-Roth](https://openalex.org/A5065288721), [Liang Liu](https://openalex.org/A5054906524), [Vennela Mannava](https://openalex.org/A5083980714), [Deiaa M. Harraz](https://openalex.org/A5022499260), [Brian J. Cook](https://openalex.org/A5101856406), [R. Morris Bullock](https://openalex.org/A5022980951), [Yogesh Surendranath](https://openalex.org/A5021899292), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06561.
     
 Rate-overpotential scaling relationships have been employed widely to understand trends in oxygen reduction reaction (ORR) electrocatalysis by dissolved metal macrocycles in organic electrolytes. Similar scaling relationships remain unknown for surface-adsorbed ORR electrocatalysts in the acidic aqueous environments germane to proton-exchange membrane (PEM) fuel cells. Herein, we examine ORR catalysis in aqueous perchloric acid media for a structurally diverse array of iron macrocycle complexes adsorbed on Vulcan carbon black. The macrocycles encompass Fe–N4, Fe–N2N′2 and Fe–NxC4–x motifs bearing pyrrolic, pyridinic, and N-heterocyclic carbene (NHC) moieties in the primary ligation sphere, giving rise to a 670 mV range in Fe(III/II) redox potentials, EFe(III/II). Experimental Tafel data in the micropolarization regime were extrapolated to the EFe(III/II) to furnish estimated per-site-normalized current density (jper-site) values that span ∼4.6 orders of magnitude across the family of compounds. Despite the structural diversity of this family of compounds, extrapolated jper-site values correlate with the Fe(III/II) redox potentials in a roughly log-linear fashion with a shallow scaling factor of approximately 145 mV/decade. These findings highlight the phenomenology that negative shifts in EFe(III/II) track with diminishing returns in catalytic rate promotion, regardless of the exact ORR mechanism, and suggest that changes to the primary ligating environment in a macrocycle are insufficient to break fundamental rate-potential scaling relationships in aqueous ORR catalysis. Together these studies motivate the further development of higher-potential iron complexes that employ motifs beyond the equatorial ligation plane to enhance ORR catalysis.    
+
+    
+
+## Single-Atom Catalyst Restructuring during Catalytic Reforming of CH4 by CO2   
+
+OpenAlex: https://openalex.org/W4405093687    
+Open access: False
+    
+[Yu Tang](https://openalex.org/A5004494343), [Xupeng Zong](https://openalex.org/A5067168903), [Luan Nguyen](https://openalex.org/A5077444518), [Franklin Tao](https://openalex.org/A5074200142), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05703.
+    
+No abstract    
+
+    
+
+## Ag-Regulated Interfacial Electron Transfer between TiO2 and MoSx for Enhanced H2O2 Production   
+
+OpenAlex: https://openalex.org/W4405104681    
+Open access: False
+    
+[Xidong Zhang](https://openalex.org/A5101533967), [Jiachao Xu](https://openalex.org/A5051376349), [Haoyu Long](https://openalex.org/A5113424237), [Jiaguo Yu](https://openalex.org/A5100423139), [Huogen Yu](https://openalex.org/A5060100426), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05674.
+    
+The electronic configuration mismatch between the TiO2 support and the MoSx cocatalyst induces spontaneous free-electron transfer in an unfavorable direction, resulting in stronger O2 adsorption on Mo active sites and causing limited H2O2 production. Herein, we propose a strategy for directional free-electron transfer to produce electron-enriched Mo(4 – δ)+ sites via introducing an Ag mediator into the TiO2/MoSx photocatalyst, which aims to weaken O2 adsorption for improving H2O2 production activity. To achieve this, a core–shell Ag@MoSx cocatalyst was ingeniously constructed on the TiO2 surface to synthesize the TiO2/Ag@MoSx photocatalyst. The resultant TiO2/Ag@MoSx achieves a significantly enhanced H2O2 production rate of 16.13 mmol g–1 h–1 with an AQY value of 8.79%, surpassing TiO2/Ag and TiO2/MoSx by 10.0 and 237.2 times, respectively. Theoretical calculations and experimental results reveal that the incorporation of the Ag mediator into the TiO2/Ag@MoSx system can facilitate directional free-electron transfer to the MoSx cocatalyst. This causes the creation of electron-enriched Mo(4 – δ)+ sites and an increase in the antibonding-orbital occupancy of Mo–Oads, ultimately weakening the Mo–Oads bond and enabling high activity in H2O2 production. This study provides valuable insights into optimizing reactant adsorption for efficient artificial photosynthesis.    
+
+    
+
+## Stereospecific and Stereodivergent Allyl–Allyl Coupling: Construction of Vicinal Tertiary and All-Carbon Quaternary Stereocenters   
+
+OpenAlex: https://openalex.org/W4405106290    
+Open access: False
+    
+[Yongsuk Jung](https://openalex.org/A5031544301), [Jieun Kim](https://openalex.org/A5100413012), [G.N. Kim](https://openalex.org/A5011345696), [Jeong Wan Ko](https://openalex.org/A5112065623), [Sungwoo Hong](https://openalex.org/A5044287208), [Seung Hwan Cho](https://openalex.org/A5030673319), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06203.
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4405120090    
+Open access: False
+    
+, ACS Catalysis. 14(23)] 2024.https://doi.org/10.1021/csv014i023_1874629.
+    
+No abstract    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4405121157    
+Open access: False
+    
+, ACS Catalysis. 14(23)] 2024.https://doi.org/10.1021/csv014i023_1874630.
+    
+No abstract    
 
     

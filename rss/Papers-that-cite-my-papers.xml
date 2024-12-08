@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Dec 2024 01:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 01:41:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Investigation of the influence of amino trimethylene phosphonic acid on oxygen reduction reaction on platinum catalyst</title>
-      <link>https://doi.org/10.1016/j.cej.2024.158164</link>
-      <description>Wenteng Wu, Qingxin Wang, Wen Li, Wen Liu, Di Wang, Jiashuo Fu, Jin Zhang, Yunqi Li, Haining Wang, Shanfu Lu, Yan Xiang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4404843658
-
-                No abstract</description>
-      <author>Wenteng Wu, Qingxin Wang, Wen Li, Wen Liu, Di Wang, Jiashuo Fu, Jin Zhang, Yunqi Li, Haining Wang, Shanfu Lu, Yan Xiang</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158164</guid>
-    </item>
-    <item>
-      <title>Identifying key intermediates for the oxygen evolution reaction on hematite using ab-initio molecular dynamics</title>
-      <link>https://doi.org/10.1038/s41467-024-54796-9</link>
-      <description>Shuai Xu, Jiarui Yang, Peixian Su, Li Wang, Xiaowei Yang, Zhaohui Zhou, Yuliang Li, Nature Communications. 15(1)] 2024. https://openalex.org/W4404849149
-
-                Hematite is a well-known catalyst for the oxygen evolution reaction on photoanodes in photoelectrochemical water-splitting cells. However, the knowledge of hematite-water interfaces and water oxidation mechanisms is still lacking, which limits improvements in photoelectrochemical water-splitting performance. Herein, we use the Fe-terminated hematite (0001) surface as a model and propose a comprehensive mechanism for the oxygen evolution reaction on both non-solvated and solvated surfaces. Key reaction intermediates are identified through ab initio molecular dynamics simulations at the density functional theory level with a Hubbard U correction. Several notable intermediates are proposed, and the effects of water solvent on these intermediates and the overall reaction mechanisms are suggested. The proposed mechanisms align well with experimental observations under photoelectrochemical water oxidation conditions. Additionally, we highlight the potential role of O2 desorption in the oxygen evolution reaction on hematite, as O2 adsorption may block reaction sites and increases surface hydrophobicity, leading to an unfavorable pathway for oxygen evolution. Hematite is a promising material for photoelectrochemical water splitting, but its mechanisms are not well understood. Here, the authors report a detailed mechanism, identifying key reaction intermediates and highlighting the influence of solvent water and oxygen desorption on the reaction pathways.</description>
-      <author>Shuai Xu, Jiarui Yang, Peixian Su, Li Wang, Xiaowei Yang, Zhaohui Zhou, Yuliang Li</author>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-54796-9</guid>
-    </item>
-    <item>
-      <title>Unifying thermochemistry concepts in computational heterogeneous catalysis</title>
-      <link>https://doi.org/10.1039/d4cs00768a</link>
-      <description>Bjarne Kreitz, Gabriel S. Gusm&#227;o, Dingqi Nai, Sushree Jagriti Sahoo, Andrew A. Peterson, David H. Bross, C. Franklin Goldsmith, Andrew J. Medford, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4404855055
-
-                Thermophysical properties of adsorbates and gas-phase species define the free energy landscape of heterogeneously catalyzed processes and are pivotal for an atomistic understanding of the catalyst performance.</description>
-      <author>Bjarne Kreitz, Gabriel S. Gusm&#227;o, Dingqi Nai, Sushree Jagriti Sahoo, Andrew A. Peterson, David H. Bross, C. Franklin Goldsmith, Andrew J. Medford</author>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cs00768a</guid>
-    </item>
-    <item>
-      <title>Tailoring the electronic properties of TiO2 monolayers for solar driven catalysis through transition metal doping</title>
-      <link>https://doi.org/10.1016/j.cattod.2024.115144</link>
-      <description>Kati Asikainen, M. Alatalo, Marko Huttula, S. Assa Aravindh, Catalysis Today. None(None)] 2024. https://openalex.org/W4404865146
-
-                No abstract</description>
-      <author>Kati Asikainen, M. Alatalo, Marko Huttula, S. Assa Aravindh</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115144</guid>
-    </item>
-    <item>
-      <title>Dual-function efficient hydrogen evolution reaction electrocatalyst and electrode material for supercapacitors based on ternary composite FeS2/Fe2O3/MoS2 nanostructures</title>
-      <link>https://doi.org/10.1016/j.mssp.2024.109124</link>
-      <description>Sumaiya Saleem, Muhammad Salman, Abdallah M. Elgorban, Hind A. AL-Shwaiman, Yihan Ling, Majid Khan, Materials Science in Semiconductor Processing. 187(None)] 2024. https://openalex.org/W4404875915
-
-                No abstract</description>
-      <author>Sumaiya Saleem, Muhammad Salman, Abdallah M. Elgorban, Hind A. AL-Shwaiman, Yihan Ling, Majid Khan</author>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.109124</guid>
-    </item>
-    <item>
-      <title>Regulating catalyst and ionomer interactions to promote oxygen transport in fuel cells</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124894</link>
-      <description>Wei Wang, Shilin Zhang, Hao Wang, E Sun, Yanrong Liu, Mingbo Wu, Di&#8208;Jia Liu, Zhongtao Li, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4404876429
-
-                No abstract</description>
-      <author>Wei Wang, Shilin Zhang, Hao Wang, E Sun, Yanrong Liu, Mingbo Wu, Di&#8208;Jia Liu, Zhongtao Li</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124894</guid>
-    </item>
-    <item>
-      <title>A comprehensive review on the boosted effects of anion vacancy in the photocatalytic and photoelectrochemical water-splitting: Focus on oxygen vacancy</title>
-      <link>https://doi.org/10.1016/j.mtener.2024.101754</link>
-      <description>Mahdieh Rezaei, Alireza Nezamzadeh&#8208;Ejhieh, Ahmad Reza Massah, Materials Today Energy. None(None)] 2024. https://openalex.org/W4404877240
-
-                No abstract</description>
-      <author>Mahdieh Rezaei, Alireza Nezamzadeh&#8208;Ejhieh, Ahmad Reza Massah</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101754</guid>
-    </item>
     <item>
       <title>Recent advances on water electrolysis based on nanoscale inorganic metal-oxides and metal-oxyhydroxides for hydrogen energy production</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.11.348</link>
@@ -116,16 +46,6 @@
       <author>Dario Baratella, Omar Abou El Kheir, Marco Bernasconi</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120608</guid>
-    </item>
-    <item>
-      <title>Investigation on properties of CuI/InSe heterojunction with Z&#8211;alignment for photocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.111142</link>
-      <description>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao, Materials Today Communications. None(None)] 2024. https://openalex.org/W4404871468
-
-                No abstract</description>
-      <author>Ruyang Yan, Huanming Chen, Yuqi Wang, Zekun Yang, Yi Hou, Nan Zhang, Xiaobo Ma, Xueling Lin, Fengchun Pan, Hongsheng Zhao</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.111142</guid>
     </item>
     <item>
       <title>Spectral operator representations</title>
@@ -412,7 +332,7 @@
       <link>https://doi.org/10.1038/s41467-024-55091-3</link>
       <description>Lele Cui, &#1041;&#1080;&#1085; &#1063;&#1101;&#1085;, Dongxu Chen, Chen He, Yi Liu, Hongyi Zhang, Jian Qiu, Le Liu, Wenheng Jing, Zhenghua Zhang, Nature Communications. 15(1)] 2024. https://openalex.org/W4405035184
 
-                No abstract</description>
+                The meticulous design of advanced electrocatalysts and their integration into gas diffusion electrode (GDE) architectures is emerging as a prominent research paradigm in the H2O2 electrosynthesis community. However, it remains perplexing that electrocatalysts and assembled GDE frequently exhibit substantial discrepancies in H2O2 selectivity during bulk electrolysis. Here, we elucidate the pivotal role of mass transfer behavior of key species (including reactants and products) beyond the intrinsic properties of the electrocatalyst in dictating electrode-scale H2O2 selectivity. This tendency becomes more pronounced in high reaction rate (current density) regimes where transport limitations are intensified. By utilizing diffusion-related parameters (DRP) of GDEs (i.e., wettability and catalyst layer thickness) as probe factors, we employ both short- and long-term electrolysis in conjunction with in-situ electrochemical reflection-absorption imaging and theoretical calculations to thoroughly investigate the impact of DRP and DRP-controlled local microenvironments on O2 and H2O2 mass transfer. The mechanistic origins of diffusion-dependent conversion selectivity at the electrode scale are unveiled accordingly. The fundamental insights gained from this study underscore the necessity of architectural innovations for mainstream hydrophobic GDEs that can synchronously optimize mass transfer of reactants and products, paving the way for next-generation GDEs in gas-consuming electroreduction scenarios. Electrocatalysts and assembled gas diffusion electrodes frequently exhibit discrepancies in selectivity during H2O2 electrosynthesis. Here, the authors report the pivotal role of key species transport beyond the intrinsic properties of electrocatalysts in dictating electrode-scale H2O2 selectivity.</description>
       <author>Lele Cui, &#1041;&#1080;&#1085; &#1063;&#1101;&#1085;, Dongxu Chen, Chen He, Yi Liu, Hongyi Zhang, Jian Qiu, Le Liu, Wenheng Jing, Zhenghua Zhang</author>
       <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55091-3</guid>
@@ -506,6 +426,46 @@
       <author>A. Velumani Ganesan, Olivier Rezazgui, Jimmy Barco Burgos, Patrice Mangin, Simon Barnab&#233;</author>
       <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.biombioe.2024.107516</guid>
+    </item>
+    <item>
+      <title>Atomically Dispersed Metal Site Materials for Hydrogen Energy Utilization: Theoretical and Experimental Study in Fuel Cells and Water Electrolysis</title>
+      <link>https://doi.org/10.1016/j.decarb.2024.100091</link>
+      <description>Xinxing Zhan, Xin Tong, Hao Ye, Zijian Gao, Tian Juan, Jinliang Zhuang, Gaixia Zhang, Shuhui Sun, DeCarbon. None(None)] 2024. https://openalex.org/W4405095404
+
+                No abstract</description>
+      <author>Xinxing Zhan, Xin Tong, Hao Ye, Zijian Gao, Tian Juan, Jinliang Zhuang, Gaixia Zhang, Shuhui Sun</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.decarb.2024.100091</guid>
+    </item>
+    <item>
+      <title>Size-dependent guest-memory switching of the flexible and robust adsorption characteristics of layered metal-organic frameworks</title>
+      <link>https://doi.org/10.1126/sciadv.adr1387</link>
+      <description>Satoshi Watanabe, Shotaro Hiraide, Homare Arima, Akiko Fukuta, Miyuki Mori, Hideki Tanaka, Minoru T. Miyahara, Science Advances. 10(49)] 2024. https://openalex.org/W4405103471
+
+                Flexible-robust metal-organic frameworks (MOFs), which exhibit unique hybrid nature comprising both flexible and rigid framework characteristics, exhibit high potential for hydrocarbon separations. However, no clear guidelines have been established to regulate their hybrid characteristics owing to limited understanding of their adsorption mechanism. This study investigates the effects of the particle size of a flexible-robust MOF on its adsorption and structural transition behaviors. The robust nature originates from the structural transition of a metastable guest-free structure, while its flexible nature arises from another guest-free structure. The type of guest-free structure is predominantly determined by the particle size; particles below the critical size are trapped in the metastable guest-free structure. Notably, the critical size varies with the type of guest molecule to be removed; consequently, the difference in critical size results in guest-memory characteristics, enabling guest-free structure switching. These results underscore the importance of controlling the particle size to fine-tune hybrid adsorption characteristics of flexible-robust MOFs.</description>
+      <author>Satoshi Watanabe, Shotaro Hiraide, Homare Arima, Akiko Fukuta, Miyuki Mori, Hideki Tanaka, Minoru T. Miyahara</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adr1387</guid>
+    </item>
+    <item>
+      <title>Unraveling electrocatalyst reaction mechanisms in water electrolysis: &lt;i&gt;In situ&lt;/i&gt; Raman spectra</title>
+      <link>https://doi.org/10.1063/5.0232980</link>
+      <description>Chao Huang, Wei&#8208;Xue Li, Ping Qin, Qingdong Ruan, Dorsa Dehghan&#8208;Baniani, Xiang Peng, Babak Mehrjou, Paul K. Chu, Applied Physics Reviews. 11(4)] 2024. https://openalex.org/W4405103486
+
+                Electrocatalysis is crucial for sustainable energy solutions, focusing on energy harvesting, storage, and pollution control. Despite the development of various electrocatalysts, understanding the dynamic processes in electrochemical reactions is still limited, hindering effective catalyst design. In situ Raman spectra have emerged as a critical tool, providing molecular-level insights into surface processes under operational conditions and discussing their development, advantages, and configurations. This review emphasizes new findings at the catalyst&#8211;electrolyte interface, especially interface water molecule state, during the hydrogen evolution reaction and oxygen evolution reaction in recent years. Finally, the challenges and future directions for in situ Raman techniques in electrocatalysis are discussed, emphasizing their importance in advancing understanding and guiding novel catalyst design.</description>
+      <author>Chao Huang, Wei&#8208;Xue Li, Ping Qin, Qingdong Ruan, Dorsa Dehghan&#8208;Baniani, Xiang Peng, Babak Mehrjou, Paul K. Chu</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0232980</guid>
+    </item>
+    <item>
+      <title>A brief overview of deep generative models and how they can be used to discover new electrode materials</title>
+      <link>https://doi.org/10.1016/j.coelec.2024.101629</link>
+      <description>Anders Hellman, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4405105990
+
+                No abstract</description>
+      <author>Anders Hellman</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101629</guid>
     </item>
     <item>
       <title>Capturing Surface Coverage Effects in Heterogeneous Catalysis</title>
