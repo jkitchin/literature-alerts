@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Dec 2024 01:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 01:38:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -278,6 +278,66 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06203</guid>
     </item>
     <item>
+      <title>Bifunctional Photocatalysts Display Proximity-Enhanced Catalytic Activity in Metallaphotoredox C&#8211;O Coupling</title>
+      <link>https://doi.org/10.1021/acscatal.4c05893</link>
+      <description>Luigi Dolcini, Andrea Solida, Daniele Lavelli, Andr&#233;s Mauricio Hidalgo-N&#250;&#241;ez, Tommaso Gandini, Matthieu Fornara, Alessandro Colella, Alberto Bossi, Marta Penconi, Daniele Fiorito, Cesare Gennari, Alberto Dal Corso, Luca Pignataro, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405107662
+
+                No abstract</description>
+      <author>Luigi Dolcini, Andrea Solida, Daniele Lavelli, Andr&#233;s Mauricio Hidalgo-N&#250;&#241;ez, Tommaso Gandini, Matthieu Fornara, Alessandro Colella, Alberto Bossi, Marta Penconi, Daniele Fiorito, Cesare Gennari, Alberto Dal Corso, Luca Pignataro</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05893</guid>
+    </item>
+    <item>
+      <title>Analogy in the Mechanism of Heterolytic H&lt;sub&gt;2&lt;/sub&gt; Dissociation</title>
+      <link>https://doi.org/10.1021/acscatal.4c05629</link>
+      <description>Ping Jin, Nengchao Luo, Feng Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405109345
+
+                No abstract</description>
+      <author>Ping Jin, Nengchao Luo, Feng Wang</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05629</guid>
+    </item>
+    <item>
+      <title>Photocatalytic Multicomponent Carboxylation of Olefins and Sulfinate Salts with &lt;sup&gt;13&lt;/sup&gt;CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c06335</link>
+      <description>Julien R. Lyonnet, &#193;lvaro Velasco&#8208;Rubio, Roman Abrams, Duc-Ha Phan-Vu, Kim S. M&#252;hlfenzl, Xuemeng Chen, Alessandro Cerveri, Jos&#233; Tiago Menezes Correia, M&#225;rcio W. Paix&#227;o, Charles S. Elmore, Rub&#233;n Mart&#305;&#769;n, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405109917
+
+                Herein, we describe a photoinduced multicomponent catalytic carboxylation protocol that streamlines the access to 13C-labeled carboxylic acids from simple olefin precursors, sulfinate salts and 13CO2. Site selectivity is dictated by the radical philicity of the starting precursors and reaction intermediates, resulting in either a four-component or a five-component endeavor. The method is characterized by its simplicity and flexibility across a wide number of coupling counterparts</description>
+      <author>Julien R. Lyonnet, &#193;lvaro Velasco&#8208;Rubio, Roman Abrams, Duc-Ha Phan-Vu, Kim S. M&#252;hlfenzl, Xuemeng Chen, Alessandro Cerveri, Jos&#233; Tiago Menezes Correia, M&#225;rcio W. Paix&#227;o, Charles S. Elmore, Rub&#233;n Mart&#305;&#769;n</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06335</guid>
+    </item>
+    <item>
+      <title>Nanocrystalline High-Dimensional Nb&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; for Efficient Electroreductive Dicarboxylation of CO&lt;sub&gt;2&lt;/sub&gt; with Cycloalkane</title>
+      <link>https://doi.org/10.1021/acscatal.4c06490</link>
+      <description>Yuanming Xie, Xuelin Wang, Junjun Mao, Chenchen Zhang, Qingqing Song, Toru Murayama, M. C. Lin, Jiawei Zhang, Yang Lou, Chengsi Pan, Ying Zhang, Yongfa Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405110494
+
+                No abstract</description>
+      <author>Yuanming Xie, Xuelin Wang, Junjun Mao, Chenchen Zhang, Qingqing Song, Toru Murayama, M. C. Lin, Jiawei Zhang, Yang Lou, Chengsi Pan, Ying Zhang, Yongfa Zhu</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06490</guid>
+    </item>
+    <item>
+      <title>Improvement of CO&lt;sub&gt;2&lt;/sub&gt; Reduction Photocatalysis of a Ru(II)&#8211;Re(I) Complex and Carbon Nitride Hybrid by Coadsorption of an Os(II) Complex Photosensitizer</title>
+      <link>https://doi.org/10.1021/acscatal.4c06134</link>
+      <description>Toshiya Tanaka, Mitsuhiko Shizuno, Yusuke Tamaki, Kazuhiko Maeda, Osamu Ishitani, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405112143
+
+                No abstract</description>
+      <author>Toshiya Tanaka, Mitsuhiko Shizuno, Yusuke Tamaki, Kazuhiko Maeda, Osamu Ishitani</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06134</guid>
+    </item>
+    <item>
+      <title>Light-Driven Hybrid Nanoreactor Harnessing the Synergy of Carboxysomes and Organic Frameworks for Efficient Hydrogen Production</title>
+      <link>https://doi.org/10.1021/acscatal.4c03672</link>
+      <description>Jing Yang, Qiuyao Jiang, Yu Chen, Quan Wen, Xingwu Ge, Qiang Zhu, Wei Zhao, Oluwatobi Samuel Adegbite, Haofan Yang, Liang Luo, Hang Qu, Veronica Del-Angel-Hernandez, Rob Clowes, Jun Gao, Marc A. Little, Andrew I. Cooper, Lu&#8208;Ning Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405113641
+
+                Synthetic photobiocatalysts are promising catalysts for valuable chemical transformations by harnessing solar energy inspired by natural photosynthesis. However, the synergistic integration of all of the components for efficient light harvesting, cascade electron transfer, and efficient biocatalytic reactions presents a formidable challenge. In particular, replicating intricate multiscale hierarchical assembly and functional segregation involved in natural photosystems, such as photosystems I and II, remains particularly demanding within artificial structures. Here, we report the bottom-up construction of a visible-light-driven chemical&#8211;biological hybrid nanoreactor with augmented photocatalytic efficiency by anchoring an &#945;-carboxysome shell encasing [FeFe]-hydrogenases (H&#8211;S) on the surface of a hydrogen-bonded organic molecular crystal, a microporous &#945;-polymorph of 1,3,6,8-tetra(4&#8242;-carboxyphenyl)pyrene (TBAP-&#945;). The self-association of this chemical&#8211;biological hybrid system is facilitated by hydrogen bonds, as revealed by molecular dynamics simulations. Within this hybrid photobiocatalyst, TBAP-&#945; functions as an antenna for visible-light absorption and exciton generation, supplying electrons for sacrificial hydrogen production by H&#8211;S in aqueous solutions. This coordination allows the hybrid nanoreactor, H&#8211;S|TBAP-&#945;, to execute hydrogen evolution exclusively driven by light irradiation with a rate comparable to that of photocatalyst-loaded precious cocatalyst. The established approach to constructing new light-driven biocatalysts combines the synergistic power of biological nanotechnology with the multilength-scale structure and functional control offered by supramolecular organic semiconductors. It opens up innovative opportunities for the fabrication of biomimetic nanoreactors for sustainable fuel production and enzymatic reactions.</description>
+      <author>Jing Yang, Qiuyao Jiang, Yu Chen, Quan Wen, Xingwu Ge, Qiang Zhu, Wei Zhao, Oluwatobi Samuel Adegbite, Haofan Yang, Liang Luo, Hang Qu, Veronica Del-Angel-Hernandez, Rob Clowes, Jun Gao, Marc A. Little, Andrew I. Cooper, Lu&#8208;Ning Liu</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03672</guid>
+    </item>
+    <item>
       <title>Issue Publication Information</title>
       <link>https://doi.org/10.1021/csv014i023_1874629</link>
       <description>, ACS Catalysis. 14(23)] 2024. https://openalex.org/W4405120090
@@ -296,6 +356,16 @@
       <author/>
       <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i023_1874630</guid>
+    </item>
+    <item>
+      <title>Surface Nanosteps Modulate the Local Environment of Co Single Atoms to Boost the Electrocatalytic Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c05624</link>
+      <description>Sheng Qian, Tengfei Jiang, Junhua Wang, Wenzhi Yuan, Dailing Jia, Ningyan Cheng, Huaiguo Xue, Zhongfei Xu, Romain Gautier, Jingqi Tian, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405136849
+
+                No abstract</description>
+      <author>Sheng Qian, Tengfei Jiang, Junhua Wang, Wenzhi Yuan, Dailing Jia, Ningyan Cheng, Huaiguo Xue, Zhongfei Xu, Romain Gautier, Jingqi Tian</author>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05624</guid>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Dec  8 01:41:27 2024
+Created on Mon Dec  9 01:38:37 2024
 
-Found 29 results from 2024-12-01 to 2024-12-08
+Found 36 results from 2024-12-02 to 2024-12-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -303,6 +303,72 @@ No abstract
 
     
 
+## Bifunctional Photocatalysts Display Proximity-Enhanced Catalytic Activity in Metallaphotoredox C–O Coupling   
+
+OpenAlex: https://openalex.org/W4405107662    
+Open access: False
+    
+[Luigi Dolcini](https://openalex.org/A5069999688), [Andrea Solida](https://openalex.org/A5107567512), [Daniele Lavelli](https://openalex.org/A5107402798), [Andrés Mauricio Hidalgo-Núñez](https://openalex.org/A5107402799), [Tommaso Gandini](https://openalex.org/A5070712730), [Matthieu Fornara](https://openalex.org/A5033994385), [Alessandro Colella](https://openalex.org/A5102584253), [Alberto Bossi](https://openalex.org/A5063584845), [Marta Penconi](https://openalex.org/A5018432174), [Daniele Fiorito](https://openalex.org/A5079142494), [Cesare Gennari](https://openalex.org/A5019442123), [Alberto Dal Corso](https://openalex.org/A5023881545), [Luca Pignataro](https://openalex.org/A5031541703), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05893.
+    
+No abstract    
+
+    
+
+## Analogy in the Mechanism of Heterolytic H2 Dissociation   
+
+OpenAlex: https://openalex.org/W4405109345    
+Open access: False
+    
+[Ping Jin](https://openalex.org/A5101760202), [Nengchao Luo](https://openalex.org/A5029421795), [Feng Wang](https://openalex.org/A5038772372), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05629.
+    
+No abstract    
+
+    
+
+## Photocatalytic Multicomponent Carboxylation of Olefins and Sulfinate Salts with 13CO2   
+
+OpenAlex: https://openalex.org/W4405109917    
+Open access: False
+    
+[Julien R. Lyonnet](https://openalex.org/A5020998193), [Álvaro Velasco‐Rubio](https://openalex.org/A5030466505), [Roman Abrams](https://openalex.org/A5028736854), [Duc-Ha Phan-Vu](https://openalex.org/A5073798086), [Kim S. Mühlfenzl](https://openalex.org/A5091117270), [Xuemeng Chen](https://openalex.org/A5101909990), [Alessandro Cerveri](https://openalex.org/A5059606474), [José Tiago Menezes Correia](https://openalex.org/A5023599993), [Márcio W. Paixão](https://openalex.org/A5020914880), [Charles S. Elmore](https://openalex.org/A5038118766), [Rubén Martı́n](https://openalex.org/A5004700113), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06335.
+    
+Herein, we describe a photoinduced multicomponent catalytic carboxylation protocol that streamlines the access to 13C-labeled carboxylic acids from simple olefin precursors, sulfinate salts and 13CO2. Site selectivity is dictated by the radical philicity of the starting precursors and reaction intermediates, resulting in either a four-component or a five-component endeavor. The method is characterized by its simplicity and flexibility across a wide number of coupling counterparts    
+
+    
+
+## Nanocrystalline High-Dimensional Nb2O5 for Efficient Electroreductive Dicarboxylation of CO2 with Cycloalkane   
+
+OpenAlex: https://openalex.org/W4405110494    
+Open access: False
+    
+[Yuanming Xie](https://openalex.org/A5102809665), [Xuelin Wang](https://openalex.org/A5100639857), [Junjun Mao](https://openalex.org/A5016114882), [Chenchen Zhang](https://openalex.org/A5100408854), [Qingqing Song](https://openalex.org/A5102172292), [Toru Murayama](https://openalex.org/A5025940540), [M. C. Lin](https://openalex.org/A5101477421), [Jiawei Zhang](https://openalex.org/A5004645356), [Yang Lou](https://openalex.org/A5012006645), [Chengsi Pan](https://openalex.org/A5065654129), [Ying Zhang](https://openalex.org/A5101723568), [Yongfa Zhu](https://openalex.org/A5004893546), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06490.
+    
+No abstract    
+
+    
+
+## Improvement of CO2 Reduction Photocatalysis of a Ru(II)–Re(I) Complex and Carbon Nitride Hybrid by Coadsorption of an Os(II) Complex Photosensitizer   
+
+OpenAlex: https://openalex.org/W4405112143    
+Open access: True
+    
+[Toshiya Tanaka](https://openalex.org/A5104017287), [Mitsuhiko Shizuno](https://openalex.org/A5020795480), [Yusuke Tamaki](https://openalex.org/A5085783586), [Kazuhiko Maeda](https://openalex.org/A5058951596), [Osamu Ishitani](https://openalex.org/A5070733375), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06134.
+    
+No abstract    
+
+    
+
+## Light-Driven Hybrid Nanoreactor Harnessing the Synergy of Carboxysomes and Organic Frameworks for Efficient Hydrogen Production   
+
+OpenAlex: https://openalex.org/W4405113641    
+Open access: True
+    
+[Jing Yang](https://openalex.org/A5023691773), [Qiuyao Jiang](https://openalex.org/A5027203237), [Yu Chen](https://openalex.org/A5100401944), [Quan Wen](https://openalex.org/A5100687073), [Xingwu Ge](https://openalex.org/A5113355567), [Qiang Zhu](https://openalex.org/A5042353045), [Wei Zhao](https://openalex.org/A5026789421), [Oluwatobi Samuel Adegbite](https://openalex.org/A5022172017), [Haofan Yang](https://openalex.org/A5028124766), [Liang Luo](https://openalex.org/A5112186510), [Hang Qu](https://openalex.org/A5092784527), [Veronica Del-Angel-Hernandez](https://openalex.org/A5115031799), [Rob Clowes](https://openalex.org/A5010858274), [Jun Gao](https://openalex.org/A5100647288), [Marc A. Little](https://openalex.org/A5075000824), [Andrew I. Cooper](https://openalex.org/A5060033823), [Lu‐Ning Liu](https://openalex.org/A5041021580), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03672.
+    
+Synthetic photobiocatalysts are promising catalysts for valuable chemical transformations by harnessing solar energy inspired by natural photosynthesis. However, the synergistic integration of all of the components for efficient light harvesting, cascade electron transfer, and efficient biocatalytic reactions presents a formidable challenge. In particular, replicating intricate multiscale hierarchical assembly and functional segregation involved in natural photosystems, such as photosystems I and II, remains particularly demanding within artificial structures. Here, we report the bottom-up construction of a visible-light-driven chemical–biological hybrid nanoreactor with augmented photocatalytic efficiency by anchoring an α-carboxysome shell encasing [FeFe]-hydrogenases (H–S) on the surface of a hydrogen-bonded organic molecular crystal, a microporous α-polymorph of 1,3,6,8-tetra(4′-carboxyphenyl)pyrene (TBAP-α). The self-association of this chemical–biological hybrid system is facilitated by hydrogen bonds, as revealed by molecular dynamics simulations. Within this hybrid photobiocatalyst, TBAP-α functions as an antenna for visible-light absorption and exciton generation, supplying electrons for sacrificial hydrogen production by H–S in aqueous solutions. This coordination allows the hybrid nanoreactor, H–S|TBAP-α, to execute hydrogen evolution exclusively driven by light irradiation with a rate comparable to that of photocatalyst-loaded precious cocatalyst. The established approach to constructing new light-driven biocatalysts combines the synergistic power of biological nanotechnology with the multilength-scale structure and functional control offered by supramolecular organic semiconductors. It opens up innovative opportunities for the fabrication of biomimetic nanoreactors for sustainable fuel production and enzymatic reactions.    
+
+    
+
 ## Issue Publication Information   
 
 OpenAlex: https://openalex.org/W4405120090    
@@ -320,6 +386,17 @@ OpenAlex: https://openalex.org/W4405121157
 Open access: False
     
 , ACS Catalysis. 14(23)] 2024.https://doi.org/10.1021/csv014i023_1874630.
+    
+No abstract    
+
+    
+
+## Surface Nanosteps Modulate the Local Environment of Co Single Atoms to Boost the Electrocatalytic Hydrogen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4405136849    
+Open access: False
+    
+[Sheng Qian](https://openalex.org/A5101195596), [Tengfei Jiang](https://openalex.org/A5061360949), [Junhua Wang](https://openalex.org/A5100649620), [Wenzhi Yuan](https://openalex.org/A5086459194), [Dailing Jia](https://openalex.org/A5110827512), [Ningyan Cheng](https://openalex.org/A5021692036), [Huaiguo Xue](https://openalex.org/A5101034995), [Zhongfei Xu](https://openalex.org/A5106300176), [Romain Gautier](https://openalex.org/A5114376025), [Jingqi Tian](https://openalex.org/A5056556778), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05624.
     
 No abstract    
 

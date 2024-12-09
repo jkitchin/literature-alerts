@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Dec 2024 01:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 01:39:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Recent advances on water electrolysis based on nanoscale inorganic metal-oxides and metal-oxyhydroxides for hydrogen energy production</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.11.348</link>
-      <description>Muhammad Naeem Ayub, Umer Shahzad, Muhammad Fazle Rabbee, Mohsin Saeed, Mohammad Mizanur Rahman Khan, Mohammed M. Rahman, International Journal of Hydrogen Energy. 97(None)] 2024. https://openalex.org/W4404887585
-
-                No abstract</description>
-      <author>Muhammad Naeem Ayub, Umer Shahzad, Muhammad Fazle Rabbee, Mohsin Saeed, Mohammad Mizanur Rahman Khan, Mohammed M. Rahman</author>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.11.348</guid>
-    </item>
-    <item>
-      <title>Density Functional Theory Study on the Electrocatalytic Performance of Defected Monolayer Vanadium Diselenide for Oxygen Evolution and Reduction Reactions</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122669</link>
-      <description>Rabia Hassan, Rehan Hassan, Fei Ma, Surface Science. None(None)] 2024. https://openalex.org/W4404893517
-
-                No abstract</description>
-      <author>Rabia Hassan, Rehan Hassan, Fei Ma</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122669</guid>
-    </item>
     <item>
       <title>MoS2 for Hydrogen Evolution Reaction</title>
       <link>https://doi.org/10.1007/978-981-97-7367-1_13</link>
@@ -468,6 +448,86 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101629</guid>
     </item>
     <item>
+      <title>Enhanced Oxygen Evolution Reactivity of Single-crystal LaNiO3-&#948; Films via Tuning Oxygen Vacancy</title>
+      <link>https://doi.org/10.1016/j.vacuum.2024.113934</link>
+      <description>Zhiying Chen, Bin Du, Zhuanglin Weng, Jinlai Zhao, Xierong Zeng, Yuying Meng, Chuanwei Huang, Vacuum. None(None)] 2024. https://openalex.org/W4405111159
+
+                No abstract</description>
+      <author>Zhiying Chen, Bin Du, Zhuanglin Weng, Jinlai Zhao, Xierong Zeng, Yuying Meng, Chuanwei Huang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.vacuum.2024.113934</guid>
+    </item>
+    <item>
+      <title>Dynamic-Cycling Zinc Sites Promote Ruthenium Oxide for Sub-Ampere Electrochemical Water Oxidation</title>
+      <link>https://doi.org/10.1021/acs.nanolett.4c04485</link>
+      <description>Meihuan Liu, Xiaoxia Chen, Shiyu Li, C.Y. Ni, Yiwen Chen, Hui Su, Nano Letters. None(None)] 2024. https://openalex.org/W4405113290
+
+                Although iridium-based electrocatalysts are commonly regarded as the sole stable operating acidic oxygen evolution reaction (OER) catalysts in proton-exchange membrane water electrolysis (PEMWE) devices, their exorbitant cost and scarcity severely restrict their widespread application. Herein, we introduce a promising alternative to iridium: zinc-doped ruthenium dioxide (TE-Zn/RuO2), which exhibits remarkable and enduring activity for acidic OER. In situ characterizations elucidate that the dynamic cycling of zinc dopants serves as both electron acceptors and donors, facilitating the activation of Ru sites at low overpotentials while thwarting peroxidation at high overpotentials, thus concurrently achieving heightened activity and robust stability. Additionally, the incorporation of zinc induces weakened Ru&#8211;O covalency, thereby stabling *OOH intermediates and instigating a sustained adsorbate evolution mechanism, dramatically stabilizing the RuO2 lattice. Importantly, the TE-Zn/RuO2 catalyst as an anode exhibits good stability over 300 h at a water-splitting current of 500 mA cm&#8211;2 in the PEMWE device, underscoring its considerable promise for practical applications.</description>
+      <author>Meihuan Liu, Xiaoxia Chen, Shiyu Li, C.Y. Ni, Yiwen Chen, Hui Su</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c04485</guid>
+    </item>
+    <item>
+      <title>Rational Design of Novel Single-Atom Catalysts of Transition-Metal-Doped 2D AlN Monolayer as Highly Effective Electrocatalysts for Nitrogen Reduction Reaction</title>
+      <link>https://doi.org/10.3390/molecules29235768</link>
+      <description>Xiaopeng Shen, Qinfang Zhang, Molecules. 29(23)] 2024. https://openalex.org/W4405122489
+
+                The single-atom catalysts (SACs) for the electrocatalytic nitrogen reduction reaction (NRR) have garnered significant attention in recent years. The NRR is regarded as a milder and greener approach to ammonia synthesis. The pursuit of highly efficient and selective electrocatalysts for the NRR continues to garner substantial interest, yet it poses a significant challenge. In this study, we employed density functional theory calculations to investigate the stability and catalytic activity of 29 transition metal atoms loaded on the two-dimensional (2D) AlN monolayer with Al monovacancy (TM@AlN) for the conversion of N2 to NH3. After screening the activity and selectivity of NRR, it was found that Os@AlN exhibited the highest activity for NRR with a very low limiting potential of &#8722;0.46 V along the distal pathway. The analysis of the related electronic structure, Bader charge, electron localization function, and PDOS revealed the origin of NRR activity from the perspective of energy and electronic properties. The high activity and selectivity towards the NRR of SACs are closely associated with the Os-3N coordination. Our findings have expanded the scope of designing innovative high-efficiency SACs for NRR.</description>
+      <author>Xiaopeng Shen, Qinfang Zhang</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules29235768</guid>
+    </item>
+    <item>
+      <title>Anchoring Ultrafine Ru Nanoparticles Triggers 2H MoS2 Basal Plane for Efficient Dual-pH Hydrogen Evolution</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145485</link>
+      <description>Yingde Wang, Yanan Li, Dongxu Yang, Yunsi Wang, Fuan Wei, Bingxin Liu, Peng Zhang, Benhua Xu, Yongcheng Li, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405122642
+
+                No abstract</description>
+      <author>Yingde Wang, Yanan Li, Dongxu Yang, Yunsi Wang, Fuan Wei, Bingxin Liu, Peng Zhang, Benhua Xu, Yongcheng Li</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145485</guid>
+    </item>
+    <item>
+      <title>Boosting hydrogen evolution via work-function-accelerated electronic reconfiguration of Mo-based heterojunction</title>
+      <link>https://doi.org/10.1007/s40843-024-3190-7</link>
+      <description>Xiang Chen, Shuai Feng, Song Xie, Yaping Miao, Biao Gao, Xuming Zhang, Li Huang, Yun Li, Paul K. Chu, Xiang Peng, Science China Materials. None(None)] 2024. https://openalex.org/W4405124635
+
+                No abstract</description>
+      <author>Xiang Chen, Shuai Feng, Song Xie, Yaping Miao, Biao Gao, Xuming Zhang, Li Huang, Yun Li, Paul K. Chu, Xiang Peng</author>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40843-024-3190-7</guid>
+    </item>
+    <item>
+      <title>Data-driven compositional optimization of La(Fe,Si)13-based magnetocaloric compounds for cryogenic applications</title>
+      <link>https://doi.org/10.1016/j.scriptamat.2024.116486</link>
+      <description>A.K. Srinithi, A. Bolyachkin, Xin Tang, H. Sepehri&#8208;Amin, Sae Dieb, Akiko Saito, T. Ohkubo, K. Hono, Scripta Materialia. 258(None)] 2024. https://openalex.org/W4405126013
+
+                No abstract</description>
+      <author>A.K. Srinithi, A. Bolyachkin, Xin Tang, H. Sepehri&#8208;Amin, Sae Dieb, Akiko Saito, T. Ohkubo, K. Hono</author>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.scriptamat.2024.116486</guid>
+    </item>
+    <item>
+      <title>SrTi1-Ir O3 solid solution as a robust electrocatalyst for oxygen evolution reaction in proton exchange membrane water electrolyzers</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.013</link>
+      <description>Cheng Yan, Xiyu He, Yunzhu Du, Jing Li, Yongjian Su, Jiewei Yin, Qiaodan Hu, Fan Yang, Junliang Zhang, International Journal of Hydrogen Energy. 97(None)] 2024. https://openalex.org/W4405129884
+
+                No abstract</description>
+      <author>Cheng Yan, Xiyu He, Yunzhu Du, Jing Li, Yongjian Su, Jiewei Yin, Qiaodan Hu, Fan Yang, Junliang Zhang</author>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.013</guid>
+    </item>
+    <item>
+      <title>Insights into electrocatalysis through in situ electrochemical surface-enhanced Raman spectroscopy</title>
+      <link>https://doi.org/10.1016/j.esci.2024.100352</link>
+      <description>Xiu&#8208;Mei Lin, Yulin Sun, Yanxin Chen, Shunxing Li, Jianfeng Li, eScience. None(None)] 2024. https://openalex.org/W4405135126
+
+                No abstract</description>
+      <author>Xiu&#8208;Mei Lin, Yulin Sun, Yanxin Chen, Shunxing Li, Jianfeng Li</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100352</guid>
+    </item>
+    <item>
       <title>Capturing Surface Coverage Effects in Heterogeneous Catalysis</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c05086</link>
       <description>Alyssa J. R. Hensley, Neeru Chaudhary, Naseeha Cardwell, Isaac G. Onyango, Yong Wang, Di Wu, Jean&#8208;Sabin McEwen, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404960710
@@ -476,6 +536,16 @@
       <author>Alyssa J. R. Hensley, Neeru Chaudhary, Naseeha Cardwell, Isaac G. Onyango, Yong Wang, Di Wu, Jean&#8208;Sabin McEwen</author>
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05086</guid>
+    </item>
+    <item>
+      <title>6&#8211;16 Membrane Enhanced Reactors for Methanol Reforming to Hydrogen</title>
+      <link>https://doi.org/10.1016/b978-0-443-15740-0.00146-4</link>
+      <description>V&#237;ctor M. Alvarado, Guadalupe L&#243;pez L&#243;pez, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4405126120
+
+                No abstract</description>
+      <author>V&#237;ctor M. Alvarado, Guadalupe L&#243;pez L&#243;pez</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-15740-0.00146-4</guid>
     </item>
     <item>
       <title>High-Throughput Screening Approach for Catalytic Applications through Regulation of Adsorption Energies via Work Function</title>
