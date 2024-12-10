@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Dec 2024 01:38:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 01:37:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Hydrothermally Synthesized NiO-SnO2 Nanocomposite as an Efficient Electrocatalyst for Oxygen Evolution Reaction (OER) and Urea Oxidation Reaction (UOR)</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.177865</link>
-      <description>Bodicherla Naresh, T.V.M. Sreekanth, C. N Suma, K. Sunil Kumar, Kisoo Yoo, Jonghoon Kim, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4404902482
-
-                No abstract</description>
-      <author>Bodicherla Naresh, T.V.M. Sreekanth, C. N Suma, K. Sunil Kumar, Kisoo Yoo, Jonghoon Kim</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.177865</guid>
-    </item>
     <item>
       <title>Regulating Oxygen Vacancy Distribution in Perovskites via A-Site Cation Engineering for Water Oxidation</title>
       <link>https://doi.org/10.1039/d4ta07345b</link>
@@ -36,16 +26,6 @@
       <author>Hailin Liu, Li Wang, Mengmeng Wang, Zihao Li, Quanmin Dai, Shuo Sun, Xuyang Wang, Shouxin Zhang, Wei Lai</author>
       <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c05410</guid>
-    </item>
-    <item>
-      <title>Modulating the Ruthenium&#8208;Cobalt Active Pair with Moderate Spacing for Enhanced Acidic Water Oxidation</title>
-      <link>https://doi.org/10.1002/smll.202409173</link>
-      <description>Xiaoxia Chen, Meihuan Liu, C.Y. Ni, Yiwen Chen, Tianyu Liu, Shiyu Li, Hui Su, Small. None(None)] 2024. https://openalex.org/W4404900015
-
-                Abstract Ruthenium (Ru)&#8208;based catalysts have emerged as promising alternatives to Iridium (Ir) catalysts in proton exchange membrane water electrolysis cells due to their lower price and excellent oxygen evolution reaction (OER) activity. However, their stability is compromised by generation of unstable high&#8208;valence Ru sites and oxygen vacancy in a lattice oxygen&#8208;mediated (LOM) pathway. Here, a low&#8208;load Ru site on a Barium (Ba)&#8208;doped Co 3 O 4 (RuBa x Co 3&#8211;x O 4 ) catalyst is developed with abundant Ruthenium&#9472;Cobalt (Ru&#9472;Co) pairs for enhanced acidic OER activity. The incorporation of Ba can efficiently modulate the lattice of Co 3 O 4 , creating Ru&#9472;Co active pairs with optimized spacing through compression stress. In situ characterizations exhibit contractive Ru&#9472;Co pairs that promote the rapid and direct coupling of * O&#9472;O * radicals, bypassing the sluggish * OOH species and avoiding the oxygen vacancies, which can trigger the oxide path mechanism (OPM) for an efficient and stable OER process. As a result, the designed catalyst delivers a low overpotential of 219 mV to achieve a current density of 10 mA cm &#8722;2 , and also demonstrates excellent stability, maintaining performance over 50 h of continuous operation at a larger current density of 50 mA cm &#8722;2 . These findings highlight the potential of the RuBa x Co 3&#8208;x O 4 catalysts for durable and efficient OER applications.</description>
-      <author>Xiaoxia Chen, Meihuan Liu, C.Y. Ni, Yiwen Chen, Tianyu Liu, Shiyu Li, Hui Su</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202409173</guid>
     </item>
     <item>
       <title>Utilizing reconstruction achieves ultrastable water electrolysis</title>
@@ -420,10 +400,10 @@
     <item>
       <title>Nixby-Coxsy, Nixby and Coxsy Electrocatalysts as Potential Anode Electrodes for Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.2139/ssrn.5044448</link>
-      <description>Eda Akg&#252;l, Ayb&#252;ke Leba Akman, Osman Cem Alt&#305;nc&#305;, M&#252;sl&#252;m Demir, No host. None(None)] 2024. https://openalex.org/W4405015412
+      <description>Eda Akg&#252;l, Ayb&#252;ke Leba Akman, Osman Cem Alt&#305;nc&#305;, Muslum Demi&#775;r, No host. None(None)] 2024. https://openalex.org/W4405015412
 
                 No abstract</description>
-      <author>Eda Akg&#252;l, Ayb&#252;ke Leba Akman, Osman Cem Alt&#305;nc&#305;, M&#252;sl&#252;m Demir</author>
+      <author>Eda Akg&#252;l, Ayb&#252;ke Leba Akman, Osman Cem Alt&#305;nc&#305;, Muslum Demi&#775;r</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5044448</guid>
     </item>
@@ -798,6 +778,26 @@
       <guid isPermaLink="true">https://doi.org/10.1002/sus2.253</guid>
     </item>
     <item>
+      <title>Enhanced oxygen evolution reaction performance of flower-like CoHS @NCDs through in-situ coupling of Nitrogen-Doped carbon dots and cobalt hydroxide nanosheets</title>
+      <link>https://doi.org/10.1016/j.jelechem.2024.118858</link>
+      <description>Yang Gao, Haiyan Qi, Tao Jing, Jun Li, Siqi Shen, Qingxin Zeng, Hongxu Zhao, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4405143110
+
+                No abstract</description>
+      <author>Yang Gao, Haiyan Qi, Tao Jing, Jun Li, Siqi Shen, Qingxin Zeng, Hongxu Zhao</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118858</guid>
+    </item>
+    <item>
+      <title>Co/CoO hetero-nanoparticles incorporated into lignin-derived carbon nanofibers as a self-supported bifunctional oxygen electrocatalyst for rechargeable Zn-air batteries</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.12.035</link>
+      <description>Yali Wang, Ruihui Gan, Xiaodong Shao, Binting Dai, Lin Ma, Jinzheng Yang, Jingli Shi, Xiangwu Zhang, Chang Ma, Zhanshuang Jin, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4405143239
+
+                No abstract</description>
+      <author>Yali Wang, Ruihui Gan, Xiaodong Shao, Binting Dai, Lin Ma, Jinzheng Yang, Jingli Shi, Xiangwu Zhang, Chang Ma, Zhanshuang Jin</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.12.035</guid>
+    </item>
+    <item>
       <title>Construction of High-Entropy LDH Nanostructures to Promote Alkaline Oxygen Evolution</title>
       <link>https://doi.org/10.54026/aroic/1017</link>
       <description>Yang Li, No host. 5(1)] 2024. https://openalex.org/W4404923921
@@ -830,11 +830,11 @@
     <item>
       <title>Oxygen evolution reaction mechanism on platinum dioxide surfaces based on density functional theory calculations</title>
       <link>https://doi.org/10.1016/j.comptc.2024.115020</link>
-      <description>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4404958222
+      <description>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan, Computational and Theoretical Chemistry. 1244(None)] 2024. https://openalex.org/W4404958222
 
                 No abstract</description>
       <author>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.115020</guid>
     </item>
     <item>
@@ -1008,16 +1008,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202417880</guid>
     </item>
     <item>
-      <title>Local Proton&#8208;Mediated Synthesis of a High&#8208;Entropy Borate Library</title>
-      <link>https://doi.org/10.1002/adma.202414067</link>
-      <description>Da Liu, Peifang Guo, Qiangqiang Wang, Xingyu Ding, Yufei He, Jin Zhou, Dalin Sun, Hongge Pan, Renbing Wu, Advanced Materials. None(None)] 2024. https://openalex.org/W4404900244
-
-                Abstract High&#8208;entropy compounds (HECs) provide extensive possibilities for exploring distinctive properties and potential applications. However, most HECs reported so far are synthesized by an arduous high&#8208;temperature treatment and special equipment, which is clearly not scalable for practical application. Here a scalable room&#8208;temperature solution synthetic strategy is reported for a library of high&#8208;entropy borates with arbitrary metal component numbers from 5 to 12 up to 3302 kinds in total and more than a hundred grams per operation within one minute. In conjunction with theoretical and in situ investigations, it is uncovered that the highly local concentration of protons at ethanol/aqueous interface is favorable to the creation of a stable thermodynamic microenvironment and a desirable kinetic miscibility reservoir, thus enabling a formation of single&#8208;phase borates. With the FeCoNiMoCu high&#8208;entropy borate, it is further shows that it functions as a highly active catalyst for catalytic oxygen evolution reaction. The work opens up opportunities for the scalable synthesis of HECs for energy storage and conversion applications.</description>
-      <author>Da Liu, Peifang Guo, Qiangqiang Wang, Xingyu Ding, Yufei He, Jin Zhou, Dalin Sun, Hongge Pan, Renbing Wu</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202414067</guid>
-    </item>
-    <item>
       <title>Lab&#8208;on&#8208;Fiber Operando Deciphering of a MOF Electrocatalyst</title>
       <link>https://doi.org/10.1002/adma.202411510</link>
       <description>Tiansheng Huang, Li&#8208;Peng Sun, Xiangping Li, Bai&#8208;Ou Guan, Advanced Materials. None(None)] 2024. https://openalex.org/W4405083950
@@ -1026,16 +1016,6 @@
       <author>Tiansheng Huang, Li&#8208;Peng Sun, Xiangping Li, Bai&#8208;Ou Guan</author>
       <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202411510</guid>
-    </item>
-    <item>
-      <title>Crystalline&#8208;Amorphous Interface&#8208;Triggered Electron Redistribution on Copper(II) Sulfide@Metal (Ni, Co, and Fe) Oxyhydroxides for Ultra&#8208;Efficient Overall Water/Seawater Splitting</title>
-      <link>https://doi.org/10.1002/aenm.202403657</link>
-      <description>Peng Gu, Yidong Song, Yihe Fan, Xin Meng, Lei Zhu, Guofeng Wang, Zhouguanwei Li, Heyuan Sun, Ziyu Zhao, Jinlong Zou, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4404900237
-
-                Abstract Rearranging the electronic orbitals of metal sites through interface engineering is the breakthrough for achieving high efficiencies in hydrogen/oxygen evolution reactions (HER/OER) on bimetallic catalysts. Here, via a multistep liquid&#8208;phase synthesis strategy, the crystalline&#8208;amorphous (c&#8208;a) interface is built by coating amorphous oxyhydroxide layer on the surface of crystallized copper(II) sulfide (CuS@MOOH, M = iron (Fe), cobalt (Co) and nickel (Ni)) with an internal cavity. For HER, c&#8208;a interface facilitates the electron filling of the 3d orbitals of Cu, thereby enhancing the coordination between Cu sites (Cu 2+ /Cu + ) and *H and reducing the energy barrier for *H adsorption. For OER, c&#8208;a interface triggers electronic rearrangement in the 3d orbitals of M sites, prompting electron transition from the t2g orbitals to the eg orbitals to achieve a half&#8208;filled state, optimizing the oxygen&#8208;intermediates adsorption on M sites (M 3+ /M 4+ ). Among CuS@MOOH, the as&#8208;marked CuS@CoOOH&#8208;6 exhibits the best activities with ultra&#8208;low overpotentials of 62 mV (HER) and 136 mV (OER). Only 1.52 V is sufficient to power the electrolyzer with CuS@CoOOH&#8208;6&#8208;based cathode/anode, maintaining a ultra&#8208;stable efficiency (96.9 %) over 72 h. Notably, CuS@CoOOH&#8208;6 also exhibits impressive activity/durability for natural seawater electrolysis. This study enhances understanding of the properties and electronic structure of the c&#8208;a interface for water splitting.</description>
-      <author>Peng Gu, Yidong Song, Yihe Fan, Xin Meng, Lei Zhu, Guofeng Wang, Zhouguanwei Li, Heyuan Sun, Ziyu Zhao, Jinlong Zou</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403657</guid>
     </item>
     <item>
       <title>Unveiling the Aluminum Doping Effects of In&#8208;Situ Transmogrified Dual&#8208;LDH Heterostructure and Its Fermi&#8208;Level Alignment to Water Splitting Potentials</title>
@@ -1048,16 +1028,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403889</guid>
     </item>
     <item>
-      <title>Effect of Calcination Temperature on the Transformation of Spent NCM811 into Efficient TMO Electrocatalysts</title>
-      <link>https://doi.org/10.21203/rs.3.rs-5464212/v1</link>
-      <description>Haeseong Jang, Hyeeun Kim, Seongkwan Kim, Minho Kim, Chihyun Hwang, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4404923105
-
-                Abstract The expansion of electric vehicles has increased spent lithium-ion batteries (LIBs) containing valuable transition metals. Recycling these materials reduces economic costs and addresses resource shortages. Additionally, transition metal-based catalysts derived from spent LIBs can replace expensive noble metal catalysts. This study examines the catalytic performance of spent LiNi0.8Co0.1Mn0.1O2 (NCM811) materials, enhanced by adjusting mixed valence states and defect structures. Increasing calcination temperature transformed the layered structure into spinel and rock salt phases, inducing mixed valence states. Consequently, the optimized NCM catalysts exhibited improved catalytic activity in both the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER). The ORR onset potential increased by 0.07 V, while the OER overpotential decreased by about 26.9%. In a zinc-air battery, the optimized catalyst demonstrated a discharge capacity of 792.1 mAh g&#8315;&#185; and stable performance over 100 cycles. Operando X-ray absorption spectroscopy (XAS) confirmed Mn as the main active site, with Ni and Co enhancing Mn's activity as electron donors and acceptors. These findings suggest that calcination-induced structural changes and mixed valence states enhance Mn site reactivity, improving catalytic performance. Overall, this study highlights the feasibility of repurposing spent LIB cathode materials into efficient electrocatalysts, thereby improving the economic viability and sustainability of catalyst development.</description>
-      <author>Haeseong Jang, Hyeeun Kim, Seongkwan Kim, Minho Kim, Chihyun Hwang</author>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5464212/v1</guid>
-    </item>
-    <item>
       <title>A Knowledge-Based Molecular Single-Source Precursor Approach to Nickel Chalcogenide Precatalysts for Electrocatalytic Water, Alcohol, and Aldehyde Oxidations</title>
       <link>https://doi.org/10.1021/acsnano.4c08058</link>
       <description>Basundhara Dasgupta, Shenglai Yao, Indranil Mondal, Stefan Mebs, Johannes Schmidt, Konstantin Laun, Ingo Zebger, Holger Dau, Matthias Drie&#223;, Prashanth W. Menezes, ACS Nano. None(None)] 2024. https://openalex.org/W4404946539
@@ -1068,24 +1038,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c08058</guid>
     </item>
     <item>
-      <title>Electrocatalysis degradation of biochemical tail water from coking wastewater using particle electrode with persulphate</title>
-      <link>https://doi.org/10.1080/09593330.2024.2433729</link>
-      <description>Haoran Lu, Xinyu You, Tong Yang, Zheng Zhu, Xu Han, Wenyan Liang, Environmental Technology. None(None)] 2024. https://openalex.org/W4404906477
+      <title>Effect of Calcination Temperature on the Transformation of Spent NCM811 into Efficient TMO Electrocatalysts</title>
+      <link>https://doi.org/10.21203/rs.3.rs-5464212/v1</link>
+      <description>Haeseong Jang, Hyeeun Kim, Seongkwan Kim, Minho Kim, Chihyun Hwang, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4404923105
 
-                Due to the intricate composition and recalcitrant nature of coking wastewater, the biochemical effluent often fails to meet standards. This study explored the preparation of particle electrodes, utilizing activated carbon powder (PAC) loading single-element Fe, Co, and Ni, as well as dual-element Ni&#8211;Fe and Co&#8211;Fe as catalyst. The particle electrode system was integrated with persulphate (PS) activation to enhance its performance. The effects of potassium persulphate (KPS) dosages, currents, and Ni:Fe ratios were investigated. The results showed that bimetallic particle electrodes outperformed their monometallic particle electrodes. Among the five electrode materials, Ni&#8211;Fe/PAC achieved the best degradation efficiency of 84.4% and the lowest energy consumption of 19.73 kW&#183;h&#183;kg&#8722;1 COD. When the initial concentrations of TOC and COD were set at 300 and 280 mg L&#8722;1, the Ni&#8211;Fe/PAC with 5 mmol L&#8722;1 KPS achieved removal efficiencies of 61.7 and 84.4%, respectively. The metals on Ni/PAC and Co/PAC existed in the zero-valent state, while Fe on Fe/PAC was present as Fe2O3. Co&#8211;Fe/PAC exhibited the formation of CoFe2O4 oxides. Ni&#8211;Fe/PAC possessed the lowest hydrogen evolution reaction potential (&#8722;0.28 V), and the highest oxygen evolution potential (2.4 V), and reached an electrochemical active surface area (ECSA) of 236.3 cm2. Cyclic voltammetry (CV) curves indicated that the direct redox reactions and indirect oxidation of pollutants occurred concurrently. Both &#8226;OH and &#8901;SO4&#8722; radicals played crucial roles during the degradation processes. The degradation efficiency of organic matter was as follows: benzene compounds (88.4%) &gt;heterocyclic compounds (75.3%) &gt;polycyclic aromatic hydrocarbons (53.9%).</description>
-      <author>Haoran Lu, Xinyu You, Tong Yang, Zheng Zhu, Xu Han, Wenyan Liang</author>
+                Abstract The expansion of electric vehicles has increased spent lithium-ion batteries (LIBs) containing valuable transition metals. Recycling these materials reduces economic costs and addresses resource shortages. Additionally, transition metal-based catalysts derived from spent LIBs can replace expensive noble metal catalysts. This study examines the catalytic performance of spent LiNi0.8Co0.1Mn0.1O2 (NCM811) materials, enhanced by adjusting mixed valence states and defect structures. Increasing calcination temperature transformed the layered structure into spinel and rock salt phases, inducing mixed valence states. Consequently, the optimized NCM catalysts exhibited improved catalytic activity in both the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER). The ORR onset potential increased by 0.07 V, while the OER overpotential decreased by about 26.9%. In a zinc-air battery, the optimized catalyst demonstrated a discharge capacity of 792.1 mAh g&#8315;&#185; and stable performance over 100 cycles. Operando X-ray absorption spectroscopy (XAS) confirmed Mn as the main active site, with Ni and Co enhancing Mn's activity as electron donors and acceptors. These findings suggest that calcination-induced structural changes and mixed valence states enhance Mn site reactivity, improving catalytic performance. Overall, this study highlights the feasibility of repurposing spent LIB cathode materials into efficient electrocatalysts, thereby improving the economic viability and sustainability of catalyst development.</description>
+      <author>Haeseong Jang, Hyeeun Kim, Seongkwan Kim, Minho Kim, Chihyun Hwang</author>
       <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/09593330.2024.2433729</guid>
-    </item>
-    <item>
-      <title>Interface Electron Transfer Direction&#8208;Tuned Urea Electrooxidation Over Multi&#8208;Interface Nickel Sulfide Heterojunctions</title>
-      <link>https://doi.org/10.1002/smll.202408908</link>
-      <description>Xingyu Guo, Yong&#8208;Min Liang, Zhengrong Xu, Liu Deng, Aiguo Kong, Lei Zhu, Small. None(None)] 2024. https://openalex.org/W4405084764
-
-                Abstract Hydrogen can be produced by electrolyzing urea aqueous solution under smaller overpotentials, owing to the lower thermodynamic potential of urea oxidation reaction (UOR) at anode than oxygen evolution reaction (OER). The efficient and selective electrocatalysts for UOR are crucial to achieve this. Herein, two NiS&#8208;based NiS/Ni 3 S 2 and NiS/NiS 2 heterojunctions with Ni cores embedding in nitrogen&#8208;doped carbon nanotubes (NiS/Ni 3 S 2 &#8208; and NiS/NiS 2 &#8208;Ni@NCNT) are demonstrated as efficient UOR electrocatalysts. The electrocatalytic UOR performance over heterojunctions is efficiently tuned by altering the electron transfer direction on their interfaces. NiS/Ni 3 S 2 &#8208;Ni@NCNT with interface electrons transferring from Ni 3 S 2 to NiS, delivers a 10 mA cm &#8722;2 UOR current density in 1.0 m KOH with 0.5 m urea at 1.37 V, superior to NiS/NiS 2 &#8208;Ni@NCNT with the electron transfer direction from NiS to NiS 2 . Experimental and theoretical calculation results reveal that NiS/Ni 3 S 2 Mott&#8211;Schottky heterojunctions facilitate the rapid in situ formation of NiOOH active species by removing electrons of Ni 3 S 2 , and also accelerate the adsorption and conversion of urea molecules and key intermediates of * CON 2 at its interfaces. This work demonstrates an interface electron transfer direction tuning strategy on heterojunctions for harvesting high&#8208;performance UOR electrocatalysts.</description>
-      <author>Xingyu Guo, Yong&#8208;Min Liang, Zhengrong Xu, Liu Deng, Aiguo Kong, Lei Zhu</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408908</guid>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5464212/v1</guid>
     </item>
     <item>
       <title>Constructing Highly Porous Low Iridium Anode Catalysts Via Dealloying for Proton Exchange Membrane Water Electrolyzers</title>
@@ -1096,6 +1056,16 @@
       <author>Jiashun Liang, Cehuang Fu, Sooyeon Hwang, Chaochao Dun, Liuxuan Luo, Zulipiya Shadike, Shuiyun Shen, J. Zhang, Hui Xu, Gang Wu</author>
       <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202409386</guid>
+    </item>
+    <item>
+      <title>Interface Electron Transfer Direction&#8208;Tuned Urea Electrooxidation Over Multi&#8208;Interface Nickel Sulfide Heterojunctions</title>
+      <link>https://doi.org/10.1002/smll.202408908</link>
+      <description>Xingyu Guo, Yong&#8208;Min Liang, Zhengrong Xu, Liu Deng, Aiguo Kong, Lei Zhu, Small. None(None)] 2024. https://openalex.org/W4405084764
+
+                Abstract Hydrogen can be produced by electrolyzing urea aqueous solution under smaller overpotentials, owing to the lower thermodynamic potential of urea oxidation reaction (UOR) at anode than oxygen evolution reaction (OER). The efficient and selective electrocatalysts for UOR are crucial to achieve this. Herein, two NiS&#8208;based NiS/Ni 3 S 2 and NiS/NiS 2 heterojunctions with Ni cores embedding in nitrogen&#8208;doped carbon nanotubes (NiS/Ni 3 S 2 &#8208; and NiS/NiS 2 &#8208;Ni@NCNT) are demonstrated as efficient UOR electrocatalysts. The electrocatalytic UOR performance over heterojunctions is efficiently tuned by altering the electron transfer direction on their interfaces. NiS/Ni 3 S 2 &#8208;Ni@NCNT with interface electrons transferring from Ni 3 S 2 to NiS, delivers a 10 mA cm &#8722;2 UOR current density in 1.0 m KOH with 0.5 m urea at 1.37 V, superior to NiS/NiS 2 &#8208;Ni@NCNT with the electron transfer direction from NiS to NiS 2 . Experimental and theoretical calculation results reveal that NiS/Ni 3 S 2 Mott&#8211;Schottky heterojunctions facilitate the rapid in situ formation of NiOOH active species by removing electrons of Ni 3 S 2 , and also accelerate the adsorption and conversion of urea molecules and key intermediates of * CON 2 at its interfaces. This work demonstrates an interface electron transfer direction tuning strategy on heterojunctions for harvesting high&#8208;performance UOR electrocatalysts.</description>
+      <author>Xingyu Guo, Yong&#8208;Min Liang, Zhengrong Xu, Liu Deng, Aiguo Kong, Lei Zhu</author>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408908</guid>
     </item>
     <item>
       <title>Nonradiative Charge Recombination Dynamics in Fully Hydroxylated Hematite Surface: A Time-Domain Ab Initio Study</title>
@@ -1232,6 +1202,26 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2412.03509</guid>
     </item>
     <item>
+      <title>A Parameter Study of 1D Atmospheric Models of Pulsating AGB Stars</title>
+      <link>https://doi.org/10.3390/galaxies12060081</link>
+      <description>Henry A. Prager, L. A. Willson, Joyce Ann Guzik, M. J. Creech&#8208;Eakman, Qian Wang, Galaxies. 12(6)] 2024. https://openalex.org/W4404993573
+
+                Using the atmospheric pulsation code written by George Bowen, we have performed a parameter study examining the effects of modifying various parameters of models of oxygen-rich AGB atmospheres pulsating in the fundamental and first-overtone modes. For each pulsation mode, we have examined the effects of adjusting the dust condensation temperature, dust condensation temperature range, pulsation amplitude, dust opacity, and metallicity. Our model grids are generated with the constraint that their luminosities are chosen to span the range of observed mass loss rates at a chosen mass. The dust condensation temperature, pulsation amplitude, and dust opacity have strong effects on the ultimate location and shape of the final model grids in the mass luminosity plane. The mass loss rate evolution of the fundamental and first-overtone mode models show a significant difference in behavior. While the fundamental mode models exhibit the typically assumed power&#8211;law relation with mass and luminosity, the first-overtone mode models show significant non-power law behavior at observed mass loss rates. Effectively, models in the first-overtone mode require somewhat higher luminosities to reach the same mass loss rates seen in fundamental mode models of the same mass, consistent with observed AGB stars.</description>
+      <author>Henry A. Prager, L. A. Willson, Joyce Ann Guzik, M. J. Creech&#8208;Eakman, Qian Wang</author>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/galaxies12060081</guid>
+    </item>
+    <item>
+      <title>Review: The potential of nanocellulose composites for sustainable food packaging applications</title>
+      <link>https://doi.org/10.1002/pc.29321</link>
+      <description>Abd El Salam Nasra, Yasmeen A. Hasanien, Soma A. El Mogy, Polymer Composites. None(None)] 2024. https://openalex.org/W4404968351
+
+                Abstract This work addresses the innovative use of nanocellulose (NC) as an environmentally friendly and sustainable substitute for conventional food packaging made of polymers. The review delves into the synthesis approaches of NC/polymer&#8208;mixed composites. The characterization of these composites is discussed, highlighting their mechanical properties, biodegradability, and characteristics of a barrier toward oxygen, moisture, and oil resistance. The review further explores the development of active packaging, which utilizes NC's capacity to preserve and release active ingredients like antioxidants and antimicrobials to lengthen the amount of time that food supplies can be stored. The evolution of intelligent and smart packaging is also explored, showcasing how NC&#8208;based packaging can incorporate indicators for freshness, temperature, pH, and spoilage, offering customers and retailers knowledge accessibility in real time. The opportunities and problems facing NC in food packaging are discussed, and the need for more study and advancement is highlighted to reach its full potential. For those interested in sustainable food packaging solutions, researchers, business professionals, and policymakers will find this thorough review to be highly insightful. Highlights It covers examples of polymer composites filled with NC. Mention the preparation methods and characterization of NC&#8208;based composites. Highlight the promising areas of NC /polymer composite applications in smart food packaging Concludes the challenges and prospects of NC composite in food packaging.</description>
+      <author>Abd El Salam Nasra, Yasmeen A. Hasanien, Soma A. El Mogy</author>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/pc.29321</guid>
+    </item>
+    <item>
       <title>Kinetics of orbital ordering in cooperative Jahn-Teller models: Machine-learning enabled large-scale simulations</title>
       <link>https://doi.org/10.1103/physrevmaterials.8.123602</link>
       <description>Sagar Ghosh, Sheng Zhang, Cheng Chen, Gia-Wei Chern, Physical Review Materials. 8(12)] 2024. https://openalex.org/W4404920510
@@ -1260,26 +1250,6 @@
       <author>Donald A. Tryk, Guoyu Shi, Katsuyoshi Kakinuma, Makoto Uchida, Akihiro Iiyama</author>
       <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/catal14120890</guid>
-    </item>
-    <item>
-      <title>A Parameter Study of 1D Atmospheric Models of Pulsating AGB Stars</title>
-      <link>https://doi.org/10.3390/galaxies12060081</link>
-      <description>Henry A. Prager, L. A. Willson, Joyce Ann Guzik, M. J. Creech&#8208;Eakman, Qian Wang, Galaxies. 12(6)] 2024. https://openalex.org/W4404993573
-
-                Using the atmospheric pulsation code written by George Bowen, we have performed a parameter study examining the effects of modifying various parameters of models of oxygen-rich AGB atmospheres pulsating in the fundamental and first-overtone modes. For each pulsation mode, we have examined the effects of adjusting the dust condensation temperature, dust condensation temperature range, pulsation amplitude, dust opacity, and metallicity. Our model grids are generated with the constraint that their luminosities are chosen to span the range of observed mass loss rates at a chosen mass. The dust condensation temperature, pulsation amplitude, and dust opacity have strong effects on the ultimate location and shape of the final model grids in the mass luminosity plane. The mass loss rate evolution of the fundamental and first-overtone mode models show a significant difference in behavior. While the fundamental mode models exhibit the typically assumed power&#8211;law relation with mass and luminosity, the first-overtone mode models show significant non-power law behavior at observed mass loss rates. Effectively, models in the first-overtone mode require somewhat higher luminosities to reach the same mass loss rates seen in fundamental mode models of the same mass, consistent with observed AGB stars.</description>
-      <author>Henry A. Prager, L. A. Willson, Joyce Ann Guzik, M. J. Creech&#8208;Eakman, Qian Wang</author>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/galaxies12060081</guid>
-    </item>
-    <item>
-      <title>Review: The potential of nanocellulose composites for sustainable food packaging applications</title>
-      <link>https://doi.org/10.1002/pc.29321</link>
-      <description>Abd El Salam Nasra, Yasmeen A. Hasanien, Soma A. El Mogy, Polymer Composites. None(None)] 2024. https://openalex.org/W4404968351
-
-                Abstract This work addresses the innovative use of nanocellulose (NC) as an environmentally friendly and sustainable substitute for conventional food packaging made of polymers. The review delves into the synthesis approaches of NC/polymer&#8208;mixed composites. The characterization of these composites is discussed, highlighting their mechanical properties, biodegradability, and characteristics of a barrier toward oxygen, moisture, and oil resistance. The review further explores the development of active packaging, which utilizes NC's capacity to preserve and release active ingredients like antioxidants and antimicrobials to lengthen the amount of time that food supplies can be stored. The evolution of intelligent and smart packaging is also explored, showcasing how NC&#8208;based packaging can incorporate indicators for freshness, temperature, pH, and spoilage, offering customers and retailers knowledge accessibility in real time. The opportunities and problems facing NC in food packaging are discussed, and the need for more study and advancement is highlighted to reach its full potential. For those interested in sustainable food packaging solutions, researchers, business professionals, and policymakers will find this thorough review to be highly insightful. Highlights It covers examples of polymer composites filled with NC. Mention the preparation methods and characterization of NC&#8208;based composites. Highlight the promising areas of NC /polymer composite applications in smart food packaging Concludes the challenges and prospects of NC composite in food packaging.</description>
-      <author>Abd El Salam Nasra, Yasmeen A. Hasanien, Soma A. El Mogy</author>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/pc.29321</guid>
     </item>
     <item>
       <title>Observing Mixed Chemical Reactions at the Positive Electrode in the High-Performance Self-Powered Electrochemical Humidity Sensor</title>
@@ -1330,16 +1300,6 @@
       <author>Markus Antonietti, Christian Mark Pelicano</author>
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fsci.2024.1507745</guid>
-    </item>
-    <item>
-      <title>Two mixed-valent cerium oxo clusters: synthesis, structure, and self-assembly</title>
-      <link>https://doi.org/10.3389/fchem.2024.1507834</link>
-      <description>Yuan Gao, Yang Zhang, Zhe Han, Chunhui Wang, Lei Zhang, Jieshan Qiu, Frontiers in Chemistry. 12(None)] 2024. https://openalex.org/W4404897473
-
-                Studies on cerium oxo clusters (CeOCs) are not only significant for understanding the redox and hydrolysis behaviors of Ce(III/IV) ions but also crucial for the rational synthesis of novel clusters and nanoceria with specific Ce(III)/Ce(IV) ratios. Here, two sets of reactions were conducted using cerium nitrate and H 2 O 2 -oxidized cerium nitrate, resulting in the formation of two distinct mixed-valent CeOCs [Ce III 4 Ce IV 10 O 14 (OH) 2 (PhCO 2 ) 22 (DMF) 6 ] (Ce 14 ) and [Ce III 2 Ce IV 22 O 28 (OH) 8 (PhCO 2 ) 30 (DMF) 4 ] (Ce 24C ). These two clusters exhibit different structures and Ce(III)/Ce(IV) ratios, demonstrating the critical role of cerium oxidation states and the occurrence of redox reactions in cluster formation. Ce 14 is the first tetradecanuclear CeOC with a novel structure, whereas Ce 24C differed in its Ce(III)/Ce(IV) ratio, protonation levels of O atoms, and ligands from previously reported 24-nuclear CeOCs. Furthermore, various techniques were employed to investigate the formation process of these two clusters. X-ray photoelectron spectra (XPS) revealed that the white precipitates formed during the preparation of Ce 14 contain Ce(III) ions, while the reddish-brown precipitates formed during the preparation of Ce 24C contain a mixture of Ce(III) and Ce(IV) ions. These two precipitations were individually dissolved in N,N-Dimethylformamide (DMF). The evolution of solution color and ultraviolet-visible (UV-Vis) spectra over time revealed the gradual oxidation of partial Ce(III) ions by oxygen in the solution of the white precipitation. As Ce(IV) ions increased in this solution, time-resolved small angle X-ray scattering (SAXS) data demonstrated the self-assembly of the Ce 14 clusters after 4 days. In contrast, SAXS data and UV-Vis spectra revealed the rapid assembly of Ce 24C clusters within 2 h due to the initial coexistence of Ce(IV) and Ce(III) ions in the DMF solution of the reddish-brown precipitation. The continued reduction of partial Ce(IV) ions in this solution does not affect Ce 24C clusters&#8217; formation and stability. Our studies expand the family of CeOCs and enhance our understanding of the effects of cerium&#8217;s oxidation states on cluster formation.</description>
-      <author>Yuan Gao, Yang Zhang, Zhe Han, Chunhui Wang, Lei Zhang, Jieshan Qiu</author>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1507834</guid>
     </item>
     <item>
       <title>Pill-Induced Esophagitis Mimicking Esophageal Neoplasia</title>

@@ -1,22 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Dec  9 01:38:28 2024
+Created on Tue Dec 10 01:37:04 2024
 
-Found 134 results from 2024-12-02 to 2024-12-09
+Found 130 results from 2024-12-03 to 2024-12-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Hydrothermally Synthesized NiO-SnO2 Nanocomposite as an Efficient Electrocatalyst for Oxygen Evolution Reaction (OER) and Urea Oxidation Reaction (UOR)   
-
-OpenAlex: https://openalex.org/W4404902482    
-Open access: False
-    
-[Bodicherla Naresh](https://openalex.org/A5050751275), [T.V.M. Sreekanth](https://openalex.org/A5111355051), [C. N Suma](https://openalex.org/A5114943297), [K. Sunil Kumar](https://openalex.org/A5090443542), [Kisoo Yoo](https://openalex.org/A5053392911), [Jonghoon Kim](https://openalex.org/A5100409359), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.177865.
-    
-No abstract    
-
-    
 
 ## Regulating Oxygen Vacancy Distribution in Perovskites via A-Site Cation Engineering for Water Oxidation   
 
@@ -37,17 +26,6 @@ Open access: False
 [Hailin Liu](https://openalex.org/A5100610640), [Li Wang](https://openalex.org/A5100322864), [Mengmeng Wang](https://openalex.org/A5100429684), [Zihao Li](https://openalex.org/A5100342791), [Quanmin Dai](https://openalex.org/A5077481772), [Shuo Sun](https://openalex.org/A5100343241), [Xuyang Wang](https://openalex.org/A5100451331), [Shouxin Zhang](https://openalex.org/A5101742243), [Wei Lai](https://openalex.org/A5015135592), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.4c05410.
     
 No abstract    
-
-    
-
-## Modulating the Ruthenium‐Cobalt Active Pair with Moderate Spacing for Enhanced Acidic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4404900015    
-Open access: False
-    
-[Xiaoxia Chen](https://openalex.org/A5101774813), [Meihuan Liu](https://openalex.org/A5109641338), [C.Y. Ni](https://openalex.org/A5060589477), [Yiwen Chen](https://openalex.org/A5066220900), [Tianyu Liu](https://openalex.org/A5100379439), [Shiyu Li](https://openalex.org/A5100413189), [Hui Su](https://openalex.org/A5035972174), Small. None(None)] 2024.https://doi.org/10.1002/smll.202409173.
-    
-Abstract Ruthenium (Ru)‐based catalysts have emerged as promising alternatives to Iridium (Ir) catalysts in proton exchange membrane water electrolysis cells due to their lower price and excellent oxygen evolution reaction (OER) activity. However, their stability is compromised by generation of unstable high‐valence Ru sites and oxygen vacancy in a lattice oxygen‐mediated (LOM) pathway. Here, a low‐load Ru site on a Barium (Ba)‐doped Co 3 O 4 (RuBa x Co 3–x O 4 ) catalyst is developed with abundant Ruthenium─Cobalt (Ru─Co) pairs for enhanced acidic OER activity. The incorporation of Ba can efficiently modulate the lattice of Co 3 O 4 , creating Ru─Co active pairs with optimized spacing through compression stress. In situ characterizations exhibit contractive Ru─Co pairs that promote the rapid and direct coupling of * O─O * radicals, bypassing the sluggish * OOH species and avoiding the oxygen vacancies, which can trigger the oxide path mechanism (OPM) for an efficient and stable OER process. As a result, the designed catalyst delivers a low overpotential of 219 mV to achieve a current density of 10 mA cm −2 , and also demonstrates excellent stability, maintaining performance over 50 h of continuous operation at a larger current density of 50 mA cm −2 . These findings highlight the potential of the RuBa x Co 3‐x O 4 catalysts for durable and efficient OER applications.    
 
     
 
@@ -463,7 +441,7 @@ No abstract
 OpenAlex: https://openalex.org/W4405015412    
 Open access: False
     
-[Eda Akgül](https://openalex.org/A5087328287), [Aybüke Leba Akman](https://openalex.org/A5114996847), [Osman Cem Altıncı](https://openalex.org/A5046213612), [Müslüm Demir](https://openalex.org/A5045319585), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.5044448.
+[Eda Akgül](https://openalex.org/A5087328287), [Aybüke Leba Akman](https://openalex.org/A5114996847), [Osman Cem Altıncı](https://openalex.org/A5046213612), [Muslum Demi̇r](https://openalex.org/A5045319585), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.5044448.
     
 No abstract    
 
@@ -876,6 +854,28 @@ ABSTRACT As for the high sustainable solar hydrogen production via water splitti
 
     
 
+## Enhanced oxygen evolution reaction performance of flower-like CoHS @NCDs through in-situ coupling of Nitrogen-Doped carbon dots and cobalt hydroxide nanosheets   
+
+OpenAlex: https://openalex.org/W4405143110    
+Open access: False
+    
+[Yang Gao](https://openalex.org/A5036479590), [Haiyan Qi](https://openalex.org/A5073979868), [Tao Jing](https://openalex.org/A5088996830), [Jun Li](https://openalex.org/A5100361631), [Siqi Shen](https://openalex.org/A5009542409), [Qingxin Zeng](https://openalex.org/A5017233089), [Hongxu Zhao](https://openalex.org/A5102969830), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118858.
+    
+No abstract    
+
+    
+
+## Co/CoO hetero-nanoparticles incorporated into lignin-derived carbon nanofibers as a self-supported bifunctional oxygen electrocatalyst for rechargeable Zn-air batteries   
+
+OpenAlex: https://openalex.org/W4405143239    
+Open access: False
+    
+[Yali Wang](https://openalex.org/A5100335704), [Ruihui Gan](https://openalex.org/A5076655461), [Xiaodong Shao](https://openalex.org/A5100612053), [Binting Dai](https://openalex.org/A5051428645), [Lin Ma](https://openalex.org/A5101571236), [Jinzheng Yang](https://openalex.org/A5111147567), [Jingli Shi](https://openalex.org/A5101874747), [Xiangwu Zhang](https://openalex.org/A5071361024), [Chang Ma](https://openalex.org/A5100669768), [Zhanshuang Jin](https://openalex.org/A5019157212), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.12.035.
+    
+No abstract    
+
+    
+
 ## Construction of High-Entropy LDH Nanostructures to Promote Alkaline Oxygen Evolution   
 
 OpenAlex: https://openalex.org/W4404923921    
@@ -914,7 +914,7 @@ No abstract
 OpenAlex: https://openalex.org/W4404958222    
 Open access: False
     
-[Xiru Cao](https://openalex.org/A5032054564), [Zhibin Tan](https://openalex.org/A5111750114), [Ji Chen](https://openalex.org/A5037467829), [Changwei Pan](https://openalex.org/A5101837576), Computational and Theoretical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.comptc.2024.115020.
+[Xiru Cao](https://openalex.org/A5032054564), [Zhibin Tan](https://openalex.org/A5111750114), [Ji Chen](https://openalex.org/A5037467829), [Changwei Pan](https://openalex.org/A5101837576), Computational and Theoretical Chemistry. 1244(None)] 2024.https://doi.org/10.1016/j.comptc.2024.115020.
     
 No abstract    
 
@@ -1011,7 +1011,7 @@ Open access: True
 ## Supplemental Material: Fluid evolution and connections between porphyry-type and skarn-type ore in an intracontinental porphyry-skarn Cu-Au system: Evidence from apatite textures, composition, and oxygen isotopes at Dongguashan Cu-Au(-Mo) deposit, eastern China   
 
 OpenAlex: https://openalex.org/W4404957765    
-Open access: False
+Open access: True
     
 [Xin Xiao](https://openalex.org/A5111667764), [et al.](https://openalex.org/A5110844922), No host. None(None)] 2024.https://doi.org/10.1130/gsab.s.27957036.v2.
     
@@ -1107,17 +1107,6 @@ Abstract Green hydrogen, produced through electrocatalytic water splitting, stan
 
     
 
-## Local Proton‐Mediated Synthesis of a High‐Entropy Borate Library   
-
-OpenAlex: https://openalex.org/W4404900244    
-Open access: False
-    
-[Da Liu](https://openalex.org/A5100384551), [Peifang Guo](https://openalex.org/A5091204409), [Qiangqiang Wang](https://openalex.org/A5100675096), [Xingyu Ding](https://openalex.org/A5016129165), [Yufei He](https://openalex.org/A5103039190), [Jin Zhou](https://openalex.org/A5062823097), [Dalin Sun](https://openalex.org/A5110942961), [Hongge Pan](https://openalex.org/A5053786338), [Renbing Wu](https://openalex.org/A5000351527), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202414067.
-    
-Abstract High‐entropy compounds (HECs) provide extensive possibilities for exploring distinctive properties and potential applications. However, most HECs reported so far are synthesized by an arduous high‐temperature treatment and special equipment, which is clearly not scalable for practical application. Here a scalable room‐temperature solution synthetic strategy is reported for a library of high‐entropy borates with arbitrary metal component numbers from 5 to 12 up to 3302 kinds in total and more than a hundred grams per operation within one minute. In conjunction with theoretical and in situ investigations, it is uncovered that the highly local concentration of protons at ethanol/aqueous interface is favorable to the creation of a stable thermodynamic microenvironment and a desirable kinetic miscibility reservoir, thus enabling a formation of single‐phase borates. With the FeCoNiMoCu high‐entropy borate, it is further shows that it functions as a highly active catalyst for catalytic oxygen evolution reaction. The work opens up opportunities for the scalable synthesis of HECs for energy storage and conversion applications.    
-
-    
-
 ## Lab‐on‐Fiber Operando Deciphering of a MOF Electrocatalyst   
 
 OpenAlex: https://openalex.org/W4405083950    
@@ -1126,17 +1115,6 @@ Open access: False
 [Tiansheng Huang](https://openalex.org/A5084155397), [Li‐Peng Sun](https://openalex.org/A5077832575), [Xiangping Li](https://openalex.org/A5100765583), [Bai‐Ou Guan](https://openalex.org/A5009862759), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202411510.
     
 Abstract Despite the great success in deploying metal‐organic frameworks (MOFs) as efficient electrocatalysts, the low adoption of operando methods hinders the understanding of underlying mechanism. By leveraging the subtle refractive index evolution, including both the real and the imaginary parts, an entirely new concept of a lab‐on‐fiber operando method and its feasibility for “pristine‐immersion‐operando‐post analysis” of electrocatalyts are demonstrated. Concurrent collection of absorption spectra and surface plasmon resonance is achieved by engineering fiber‐optic waveguides to simultaneously induce guided light attenuation and plasmonic coupling. In situ‐formed Co hydroxide and oxide reactive intermediates in zeolitic imidazolate framework‐67 (ZIF‐67) electrocatalyst are optically identified, which shows its underlying self‐reconstruction conversions at different stages during electrocatalytic oxygen evolution reactions, and address the gap in knowledge concerning whether ZIF‐67 is a precatalyst for real catalyst production. This illuminating operando method offers intriguing opportunities to collect all the observables in a single fiber, provides an exciting potential of a new class of device with long‐sought integration and miniaturization capability, and is expected to enable the electrocatalysis community to conquer challenges with conducting multimodal operando experiments outside the laboratory.    
-
-    
-
-## Crystalline‐Amorphous Interface‐Triggered Electron Redistribution on Copper(II) Sulfide@Metal (Ni, Co, and Fe) Oxyhydroxides for Ultra‐Efficient Overall Water/Seawater Splitting   
-
-OpenAlex: https://openalex.org/W4404900237    
-Open access: False
-    
-[Peng Gu](https://openalex.org/A5042183286), [Yidong Song](https://openalex.org/A5008261990), [Yihe Fan](https://openalex.org/A5038847512), [Xin Meng](https://openalex.org/A5100525237), [Lei Zhu](https://openalex.org/A5100394072), [Guofeng Wang](https://openalex.org/A5100389621), [Zhouguanwei Li](https://openalex.org/A5066477630), [Heyuan Sun](https://openalex.org/A5100584404), [Ziyu Zhao](https://openalex.org/A5101638456), [Jinlong Zou](https://openalex.org/A5045535727), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202403657.
-    
-Abstract Rearranging the electronic orbitals of metal sites through interface engineering is the breakthrough for achieving high efficiencies in hydrogen/oxygen evolution reactions (HER/OER) on bimetallic catalysts. Here, via a multistep liquid‐phase synthesis strategy, the crystalline‐amorphous (c‐a) interface is built by coating amorphous oxyhydroxide layer on the surface of crystallized copper(II) sulfide (CuS@MOOH, M = iron (Fe), cobalt (Co) and nickel (Ni)) with an internal cavity. For HER, c‐a interface facilitates the electron filling of the 3d orbitals of Cu, thereby enhancing the coordination between Cu sites (Cu 2+ /Cu + ) and *H and reducing the energy barrier for *H adsorption. For OER, c‐a interface triggers electronic rearrangement in the 3d orbitals of M sites, prompting electron transition from the t2g orbitals to the eg orbitals to achieve a half‐filled state, optimizing the oxygen‐intermediates adsorption on M sites (M 3+ /M 4+ ). Among CuS@MOOH, the as‐marked CuS@CoOOH‐6 exhibits the best activities with ultra‐low overpotentials of 62 mV (HER) and 136 mV (OER). Only 1.52 V is sufficient to power the electrolyzer with CuS@CoOOH‐6‐based cathode/anode, maintaining a ultra‐stable efficiency (96.9 %) over 72 h. Notably, CuS@CoOOH‐6 also exhibits impressive activity/durability for natural seawater electrolysis. This study enhances understanding of the properties and electronic structure of the c‐a interface for water splitting.    
 
     
 
@@ -1151,17 +1129,6 @@ Abstract The layered double hydroxide (LDH) captivates the starlight of electroc
 
     
 
-## Effect of Calcination Temperature on the Transformation of Spent NCM811 into Efficient TMO Electrocatalysts   
-
-OpenAlex: https://openalex.org/W4404923105    
-Open access: True
-    
-[Haeseong Jang](https://openalex.org/A5008892245), [Hyeeun Kim](https://openalex.org/A5055020817), [Seongkwan Kim](https://openalex.org/A5041700741), [Minho Kim](https://openalex.org/A5100386960), [Chihyun Hwang](https://openalex.org/A5048557805), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-5464212/v1 ([pdf](https://www.researchsquare.com/article/rs-5464212/latest.pdf)).
-    
-Abstract The expansion of electric vehicles has increased spent lithium-ion batteries (LIBs) containing valuable transition metals. Recycling these materials reduces economic costs and addresses resource shortages. Additionally, transition metal-based catalysts derived from spent LIBs can replace expensive noble metal catalysts. This study examines the catalytic performance of spent LiNi0.8Co0.1Mn0.1O2 (NCM811) materials, enhanced by adjusting mixed valence states and defect structures. Increasing calcination temperature transformed the layered structure into spinel and rock salt phases, inducing mixed valence states. Consequently, the optimized NCM catalysts exhibited improved catalytic activity in both the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER). The ORR onset potential increased by 0.07 V, while the OER overpotential decreased by about 26.9%. In a zinc-air battery, the optimized catalyst demonstrated a discharge capacity of 792.1 mAh g⁻¹ and stable performance over 100 cycles. Operando X-ray absorption spectroscopy (XAS) confirmed Mn as the main active site, with Ni and Co enhancing Mn's activity as electron donors and acceptors. These findings suggest that calcination-induced structural changes and mixed valence states enhance Mn site reactivity, improving catalytic performance. Overall, this study highlights the feasibility of repurposing spent LIB cathode materials into efficient electrocatalysts, thereby improving the economic viability and sustainability of catalyst development.    
-
-    
-
 ## A Knowledge-Based Molecular Single-Source Precursor Approach to Nickel Chalcogenide Precatalysts for Electrocatalytic Water, Alcohol, and Aldehyde Oxidations   
 
 OpenAlex: https://openalex.org/W4404946539    
@@ -1173,25 +1140,14 @@ The development and comprehensive understanding of nickel chalcogenides are crit
 
     
 
-## Electrocatalysis degradation of biochemical tail water from coking wastewater using particle electrode with persulphate   
+## Effect of Calcination Temperature on the Transformation of Spent NCM811 into Efficient TMO Electrocatalysts   
 
-OpenAlex: https://openalex.org/W4404906477    
-Open access: False
+OpenAlex: https://openalex.org/W4404923105    
+Open access: True
     
-[Haoran Lu](https://openalex.org/A5104240248), [Xinyu You](https://openalex.org/A5101747393), [Tong Yang](https://openalex.org/A5100637542), [Zheng Zhu](https://openalex.org/A5039468204), [Xu Han](https://openalex.org/A5055963229), [Wenyan Liang](https://openalex.org/A5013544996), Environmental Technology. None(None)] 2024.https://doi.org/10.1080/09593330.2024.2433729.
+[Haeseong Jang](https://openalex.org/A5008892245), [Hyeeun Kim](https://openalex.org/A5055020817), [Seongkwan Kim](https://openalex.org/A5041700741), [Minho Kim](https://openalex.org/A5100386960), [Chihyun Hwang](https://openalex.org/A5048557805), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-5464212/v1 ([pdf](https://www.researchsquare.com/article/rs-5464212/latest.pdf)).
     
-Due to the intricate composition and recalcitrant nature of coking wastewater, the biochemical effluent often fails to meet standards. This study explored the preparation of particle electrodes, utilizing activated carbon powder (PAC) loading single-element Fe, Co, and Ni, as well as dual-element Ni–Fe and Co–Fe as catalyst. The particle electrode system was integrated with persulphate (PS) activation to enhance its performance. The effects of potassium persulphate (KPS) dosages, currents, and Ni:Fe ratios were investigated. The results showed that bimetallic particle electrodes outperformed their monometallic particle electrodes. Among the five electrode materials, Ni–Fe/PAC achieved the best degradation efficiency of 84.4% and the lowest energy consumption of 19.73 kW·h·kg−1 COD. When the initial concentrations of TOC and COD were set at 300 and 280 mg L−1, the Ni–Fe/PAC with 5 mmol L−1 KPS achieved removal efficiencies of 61.7 and 84.4%, respectively. The metals on Ni/PAC and Co/PAC existed in the zero-valent state, while Fe on Fe/PAC was present as Fe2O3. Co–Fe/PAC exhibited the formation of CoFe2O4 oxides. Ni–Fe/PAC possessed the lowest hydrogen evolution reaction potential (−0.28 V), and the highest oxygen evolution potential (2.4 V), and reached an electrochemical active surface area (ECSA) of 236.3 cm2. Cyclic voltammetry (CV) curves indicated that the direct redox reactions and indirect oxidation of pollutants occurred concurrently. Both •OH and ⋅SO4− radicals played crucial roles during the degradation processes. The degradation efficiency of organic matter was as follows: benzene compounds (88.4%) >heterocyclic compounds (75.3%) >polycyclic aromatic hydrocarbons (53.9%).    
-
-    
-
-## Interface Electron Transfer Direction‐Tuned Urea Electrooxidation Over Multi‐Interface Nickel Sulfide Heterojunctions   
-
-OpenAlex: https://openalex.org/W4405084764    
-Open access: False
-    
-[Xingyu Guo](https://openalex.org/A5085078039), [Yong‐Min Liang](https://openalex.org/A5101814743), [Zhengrong Xu](https://openalex.org/A5100528226), [Liu Deng](https://openalex.org/A5100764213), [Aiguo Kong](https://openalex.org/A5086869671), [Lei Zhu](https://openalex.org/A5100394072), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408908.
-    
-Abstract Hydrogen can be produced by electrolyzing urea aqueous solution under smaller overpotentials, owing to the lower thermodynamic potential of urea oxidation reaction (UOR) at anode than oxygen evolution reaction (OER). The efficient and selective electrocatalysts for UOR are crucial to achieve this. Herein, two NiS‐based NiS/Ni 3 S 2 and NiS/NiS 2 heterojunctions with Ni cores embedding in nitrogen‐doped carbon nanotubes (NiS/Ni 3 S 2 ‐ and NiS/NiS 2 ‐Ni@NCNT) are demonstrated as efficient UOR electrocatalysts. The electrocatalytic UOR performance over heterojunctions is efficiently tuned by altering the electron transfer direction on their interfaces. NiS/Ni 3 S 2 ‐Ni@NCNT with interface electrons transferring from Ni 3 S 2 to NiS, delivers a 10 mA cm −2 UOR current density in 1.0 m KOH with 0.5 m urea at 1.37 V, superior to NiS/NiS 2 ‐Ni@NCNT with the electron transfer direction from NiS to NiS 2 . Experimental and theoretical calculation results reveal that NiS/Ni 3 S 2 Mott–Schottky heterojunctions facilitate the rapid in situ formation of NiOOH active species by removing electrons of Ni 3 S 2 , and also accelerate the adsorption and conversion of urea molecules and key intermediates of * CON 2 at its interfaces. This work demonstrates an interface electron transfer direction tuning strategy on heterojunctions for harvesting high‐performance UOR electrocatalysts.    
+Abstract The expansion of electric vehicles has increased spent lithium-ion batteries (LIBs) containing valuable transition metals. Recycling these materials reduces economic costs and addresses resource shortages. Additionally, transition metal-based catalysts derived from spent LIBs can replace expensive noble metal catalysts. This study examines the catalytic performance of spent LiNi0.8Co0.1Mn0.1O2 (NCM811) materials, enhanced by adjusting mixed valence states and defect structures. Increasing calcination temperature transformed the layered structure into spinel and rock salt phases, inducing mixed valence states. Consequently, the optimized NCM catalysts exhibited improved catalytic activity in both the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER). The ORR onset potential increased by 0.07 V, while the OER overpotential decreased by about 26.9%. In a zinc-air battery, the optimized catalyst demonstrated a discharge capacity of 792.1 mAh g⁻¹ and stable performance over 100 cycles. Operando X-ray absorption spectroscopy (XAS) confirmed Mn as the main active site, with Ni and Co enhancing Mn's activity as electron donors and acceptors. These findings suggest that calcination-induced structural changes and mixed valence states enhance Mn site reactivity, improving catalytic performance. Overall, this study highlights the feasibility of repurposing spent LIB cathode materials into efficient electrocatalysts, thereby improving the economic viability and sustainability of catalyst development.    
 
     
 
@@ -1203,6 +1159,17 @@ Open access: False
 [Jiashun Liang](https://openalex.org/A5055428707), [Cehuang Fu](https://openalex.org/A5081523003), [Sooyeon Hwang](https://openalex.org/A5061315784), [Chaochao Dun](https://openalex.org/A5062045086), [Liuxuan Luo](https://openalex.org/A5108144835), [Zulipiya Shadike](https://openalex.org/A5050188538), [Shuiyun Shen](https://openalex.org/A5053450604), [J. Zhang](https://openalex.org/A5019957836), [Hui Xu](https://openalex.org/A5090258117), [Gang Wu](https://openalex.org/A5100610274), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202409386.
     
 Abstract Iridium (Ir) is the most active and durable anode catalyst for the oxygen evolution reaction (OER) for proton exchange membrane water electrolyzers (PEMWEs). However, their large‐scale applications are hindered by high costs and scarcity of Ir. Lowering Ir loadings below 1.0 mgcm −2 causes significantly reduced PEMWE performance and durability. Therefore, developing efficient low Ir‐based catalysts is critical to widely commercializing PEMWEs. Herein, an approach is presented for designing porous Ir metal aerogel (MA) catalysts via chemically dealloying IrCu alloys. The unique hierarchical pore structures and multiple channels of the Ir MA catalyst significantly increase electrochemical surface area (ECSA) and enhance OER activity compared to conventional Ir black catalysts, providing an effective solution to design low‐Ir catalysts with improved Ir utilization and enhanced stability. An optimized membrane electrode assembly (MEA) with an Ir loading of 0.5 mg Ir cm −2 generated 2.0 A cm −2 at 1.79 V, higher than the Ir black at a loading of 2.0 mg Ir cm −2 (1.63 A cm −2 ). The low‐Ir MEA demonstrated an acceptable decay rate of ≈40 µV h −1 during durability tests at 0.5 (>1200 h) and 2.0 A cm −2 (400 h), outperforming the commercial Ir‐based MEA (175 µV h −1 at 2.0 mg Ir cm −2 ).    
+
+    
+
+## Interface Electron Transfer Direction‐Tuned Urea Electrooxidation Over Multi‐Interface Nickel Sulfide Heterojunctions   
+
+OpenAlex: https://openalex.org/W4405084764    
+Open access: False
+    
+[Xingyu Guo](https://openalex.org/A5085078039), [Yong‐Min Liang](https://openalex.org/A5101814743), [Zhengrong Xu](https://openalex.org/A5100528226), [Liu Deng](https://openalex.org/A5100764213), [Aiguo Kong](https://openalex.org/A5086869671), [Lei Zhu](https://openalex.org/A5100394072), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408908.
+    
+Abstract Hydrogen can be produced by electrolyzing urea aqueous solution under smaller overpotentials, owing to the lower thermodynamic potential of urea oxidation reaction (UOR) at anode than oxygen evolution reaction (OER). The efficient and selective electrocatalysts for UOR are crucial to achieve this. Herein, two NiS‐based NiS/Ni 3 S 2 and NiS/NiS 2 heterojunctions with Ni cores embedding in nitrogen‐doped carbon nanotubes (NiS/Ni 3 S 2 ‐ and NiS/NiS 2 ‐Ni@NCNT) are demonstrated as efficient UOR electrocatalysts. The electrocatalytic UOR performance over heterojunctions is efficiently tuned by altering the electron transfer direction on their interfaces. NiS/Ni 3 S 2 ‐Ni@NCNT with interface electrons transferring from Ni 3 S 2 to NiS, delivers a 10 mA cm −2 UOR current density in 1.0 m KOH with 0.5 m urea at 1.37 V, superior to NiS/NiS 2 ‐Ni@NCNT with the electron transfer direction from NiS to NiS 2 . Experimental and theoretical calculation results reveal that NiS/Ni 3 S 2 Mott–Schottky heterojunctions facilitate the rapid in situ formation of NiOOH active species by removing electrons of Ni 3 S 2 , and also accelerate the adsorption and conversion of urea molecules and key intermediates of * CON 2 at its interfaces. This work demonstrates an interface electron transfer direction tuning strategy on heterojunctions for harvesting high‐performance UOR electrocatalysts.    
 
     
 
@@ -1353,6 +1320,28 @@ Red supergiants may lose significant mass through steady winds and episodic erup
 
     
 
+## A Parameter Study of 1D Atmospheric Models of Pulsating AGB Stars   
+
+OpenAlex: https://openalex.org/W4404993573    
+Open access: True
+    
+[Henry A. Prager](https://openalex.org/A5076561715), [L. A. Willson](https://openalex.org/A5077230527), [Joyce Ann Guzik](https://openalex.org/A5004176408), [M. J. Creech‐Eakman](https://openalex.org/A5059785905), [Qian Wang](https://openalex.org/A5100391169), Galaxies. 12(6)] 2024.https://doi.org/10.3390/galaxies12060081.
+    
+Using the atmospheric pulsation code written by George Bowen, we have performed a parameter study examining the effects of modifying various parameters of models of oxygen-rich AGB atmospheres pulsating in the fundamental and first-overtone modes. For each pulsation mode, we have examined the effects of adjusting the dust condensation temperature, dust condensation temperature range, pulsation amplitude, dust opacity, and metallicity. Our model grids are generated with the constraint that their luminosities are chosen to span the range of observed mass loss rates at a chosen mass. The dust condensation temperature, pulsation amplitude, and dust opacity have strong effects on the ultimate location and shape of the final model grids in the mass luminosity plane. The mass loss rate evolution of the fundamental and first-overtone mode models show a significant difference in behavior. While the fundamental mode models exhibit the typically assumed power–law relation with mass and luminosity, the first-overtone mode models show significant non-power law behavior at observed mass loss rates. Effectively, models in the first-overtone mode require somewhat higher luminosities to reach the same mass loss rates seen in fundamental mode models of the same mass, consistent with observed AGB stars.    
+
+    
+
+## Review: The potential of nanocellulose composites for sustainable food packaging applications   
+
+OpenAlex: https://openalex.org/W4404968351    
+Open access: False
+    
+[Abd El Salam Nasra](https://openalex.org/A5067373897), [Yasmeen A. Hasanien](https://openalex.org/A5090528538), [Soma A. El Mogy](https://openalex.org/A5070269763), Polymer Composites. None(None)] 2024.https://doi.org/10.1002/pc.29321.
+    
+Abstract This work addresses the innovative use of nanocellulose (NC) as an environmentally friendly and sustainable substitute for conventional food packaging made of polymers. The review delves into the synthesis approaches of NC/polymer‐mixed composites. The characterization of these composites is discussed, highlighting their mechanical properties, biodegradability, and characteristics of a barrier toward oxygen, moisture, and oil resistance. The review further explores the development of active packaging, which utilizes NC's capacity to preserve and release active ingredients like antioxidants and antimicrobials to lengthen the amount of time that food supplies can be stored. The evolution of intelligent and smart packaging is also explored, showcasing how NC‐based packaging can incorporate indicators for freshness, temperature, pH, and spoilage, offering customers and retailers knowledge accessibility in real time. The opportunities and problems facing NC in food packaging are discussed, and the need for more study and advancement is highlighted to reach its full potential. For those interested in sustainable food packaging solutions, researchers, business professionals, and policymakers will find this thorough review to be highly insightful. Highlights It covers examples of polymer composites filled with NC. Mention the preparation methods and characterization of NC‐based composites. Highlight the promising areas of NC /polymer composite applications in smart food packaging Concludes the challenges and prospects of NC composite in food packaging.    
+
+    
+
 ## Kinetics of orbital ordering in cooperative Jahn-Teller models: Machine-learning enabled large-scale simulations   
 
 OpenAlex: https://openalex.org/W4404920510    
@@ -1383,28 +1372,6 @@ Open access: True
 [Donald A. Tryk](https://openalex.org/A5007004981), [Guoyu Shi](https://openalex.org/A5049810084), [Katsuyoshi Kakinuma](https://openalex.org/A5003787011), [Makoto Uchida](https://openalex.org/A5069569379), [Akihiro Iiyama](https://openalex.org/A5065619338), Catalysts. 14(12)] 2024.https://doi.org/10.3390/catal14120890.
     
 Hydrogen peroxide is inevitably produced at the hydrogen electrode in both the proton exchange membrane fuel cell (PEMFC) and the proton exchange membrane water electrolyzer (PEMWE) when platinum-based catalysts are used. This peroxide attacks and degrades the membrane, seriously limiting its lifetime. Here we review some of our previous efforts to suppress peroxide production using PtFe as a hydrogen evolution reaction (HER) catalyst and PtCo as a hydrogen oxidation reaction (HOR) catalyst. The mechanisms, which involve the chemical reaction of adsorbed hydrogen with oxygen, are examined using density functional theory. The onset of excess peroxide production at 0.1 V above the reversible potential has not been adequately explained thus far, and therefore a new mechanism is proposed here. This involves a unique reaction site including hydrogen adsorbed at (110) step edges adjacent to (111) terraces on the Pt surface, as well as on Pt alloys and other metals such as Rh and Ir. This mechanism helps explain the recent finding of the Wadayama group that Ir single crystal surfaces such as Ir(111) and Ir(110) produce little peroxide during the HOR. It also points the way toward the design of new catalysts for the hydrogen electrode that suppress peroxide production while retaining high HOR and HER activity.    
-
-    
-
-## A Parameter Study of 1D Atmospheric Models of Pulsating AGB Stars   
-
-OpenAlex: https://openalex.org/W4404993573    
-Open access: True
-    
-[Henry A. Prager](https://openalex.org/A5076561715), [L. A. Willson](https://openalex.org/A5077230527), [Joyce Ann Guzik](https://openalex.org/A5004176408), [M. J. Creech‐Eakman](https://openalex.org/A5059785905), [Qian Wang](https://openalex.org/A5100391169), Galaxies. 12(6)] 2024.https://doi.org/10.3390/galaxies12060081.
-    
-Using the atmospheric pulsation code written by George Bowen, we have performed a parameter study examining the effects of modifying various parameters of models of oxygen-rich AGB atmospheres pulsating in the fundamental and first-overtone modes. For each pulsation mode, we have examined the effects of adjusting the dust condensation temperature, dust condensation temperature range, pulsation amplitude, dust opacity, and metallicity. Our model grids are generated with the constraint that their luminosities are chosen to span the range of observed mass loss rates at a chosen mass. The dust condensation temperature, pulsation amplitude, and dust opacity have strong effects on the ultimate location and shape of the final model grids in the mass luminosity plane. The mass loss rate evolution of the fundamental and first-overtone mode models show a significant difference in behavior. While the fundamental mode models exhibit the typically assumed power–law relation with mass and luminosity, the first-overtone mode models show significant non-power law behavior at observed mass loss rates. Effectively, models in the first-overtone mode require somewhat higher luminosities to reach the same mass loss rates seen in fundamental mode models of the same mass, consistent with observed AGB stars.    
-
-    
-
-## Review: The potential of nanocellulose composites for sustainable food packaging applications   
-
-OpenAlex: https://openalex.org/W4404968351    
-Open access: False
-    
-[Abd El Salam Nasra](https://openalex.org/A5067373897), [Yasmeen A. Hasanien](https://openalex.org/A5090528538), [Soma A. El Mogy](https://openalex.org/A5070269763), Polymer Composites. None(None)] 2024.https://doi.org/10.1002/pc.29321.
-    
-Abstract This work addresses the innovative use of nanocellulose (NC) as an environmentally friendly and sustainable substitute for conventional food packaging made of polymers. The review delves into the synthesis approaches of NC/polymer‐mixed composites. The characterization of these composites is discussed, highlighting their mechanical properties, biodegradability, and characteristics of a barrier toward oxygen, moisture, and oil resistance. The review further explores the development of active packaging, which utilizes NC's capacity to preserve and release active ingredients like antioxidants and antimicrobials to lengthen the amount of time that food supplies can be stored. The evolution of intelligent and smart packaging is also explored, showcasing how NC‐based packaging can incorporate indicators for freshness, temperature, pH, and spoilage, offering customers and retailers knowledge accessibility in real time. The opportunities and problems facing NC in food packaging are discussed, and the need for more study and advancement is highlighted to reach its full potential. For those interested in sustainable food packaging solutions, researchers, business professionals, and policymakers will find this thorough review to be highly insightful. Highlights It covers examples of polymer composites filled with NC. Mention the preparation methods and characterization of NC‐based composites. Highlight the promising areas of NC /polymer composite applications in smart food packaging Concludes the challenges and prospects of NC composite in food packaging.    
 
     
 
@@ -1460,17 +1427,6 @@ Open access: True
 [Markus Antonietti](https://openalex.org/A5075963769), [Christian Mark Pelicano](https://openalex.org/A5091024577), Frontiers in Science. 2(None)] 2024.https://doi.org/10.3389/fsci.2024.1507745.
     
 As global energy consumption continues to rise, mitigating anthropogenic climate change demands the search for carbon-neutral energy sources to cut down on our reliance on fossil fuels. Sunlight-driven water splitting using particulate photocatalysts represents a promising and sustainable approach for the large-scale production of green H2. In their Frontiers in Science Lead Article, Hisatomi and colleagues [1] provide comprehensive yet succinct insights that lay a crucial foundation for the development of future H2 generation systems through particulate photocatalysis. They focus on key aspects such as photocatalyst stability, efficient H2 recovery, the safe design of reactor systems, and advancement in technologies for the separate production of H2 and O2 from H2O. The authors have developed heterogeneous photocatalysts capable of efficiently splitting H2O into H2 and O2 in the near-UV region, highlighting the ideal structure and properties of cocatalyst/photocatalyst hybrid systems for overall water splitting (OWS) [2]. Photocatalyst materials have also been identified to split H2O with longer wavelengths of visible light, but their apparent quantum yield (AQY) values remain low, mainly due to difficulties in fine-tuning their material properties [3]. New techniques have been introduced to harness visible light for Z-scheme OWS by combining distinct photocatalysts. In addition, efforts are underway to develop reactors for large-scale applications and routes to extract pure H2 from oxyhydrogen mixture saturated with H2O vapor [4]. The authors finally emphasized the importance of creating standardized methods for measuring solar-to-hydrogen (STH) efficiency, stressing that leading researchers in photocatalysis should drive this initiative, given its current low technology readiness level. The notable progress highlighted largely stems from over four decades of research in the field of OWS, with much of this work spearheaded by the authors themselves. At this pivotal juncture, where there is an unprecedented demand for scalable solar fuel production technologies, the influence of their research is anticipated to extend far beyond the scope of solar-driven catalysis and engineering, impacting a broad spectrum of industries. This viewpoint endeavors to spark a critical discussion on the challenges associated with translating laboratory success into largescale implementation of photocatalytic OWS.Current maximum STH efficiencies for photocatalytic OWS systems are close to 1%, attained under laboratory conditions with constrained testing durations and remain considerably distant from real-world settings. In 2021, Domen et al. conducted a large-scale experiment (on a 100 m 2 scale) by immobilizing Al doped SrTiO3 photocatalysts on panels and generating 600 L of H2 on a sunny day using a commercial separation membrane, reaching an optimal STH efficiency of 0.76%. This work highlights both the potential for safely generating H2 on a large scale and the significant challenges facing its actual application [4]. While the reported system can continuously produce H2, the current efficiency levels are still insufficient to make this technology viable for large-scale H2 production at this stage. Thus, realizing higher solar-toenergy conversion efficiencies remain the primary focus to make practical implementation of photocatalytic OWS feasible. In the search for suitable photocatalysts, an absorption limit over 600 nm coupled with an AQY value exceeding 60% are the necessary benchmarks for reaching the goal of 10% STH efficiency [5]. Conversely, band gap (Eg) reduction diminishes the ability of photocatalysts to facilitate redox reactions. Hence, it is crucial to strike a balance between lowering the Eg to extend light absorption and increasing it to generate stronger driving potential to promote H2O splitting. Metal (oxy)nitrides and oxysulfides have been shown to be effective for photocatalytic OWS under light with wavelengths up to 600 nm. However, these photocatalysts generally display low efficiencies and limited chemical stability. Recent progress on metal-free carbon nitride photocatalysts for H2O splitting presents a promising alternative to these inorganic semiconductors [6,7].Enhancing solar energy conversion efficiency typically involves hybridizing photocatalysts with cocatalysts. These cocatalyst materials assist in carrier separation and transport while providing active sites and speeding up water-splitting reactions [8]. However, most photocatalysts for OWS rely on rare or expensive materials, such as platinum-group metals and other toxic inorganic components, as cocatalysts. This dependence on scarce resources limits scalability and increases costs, raising sustainability issues. For instance, Rh@CrOx (or Rh-Cr mixed oxide) and Ru/Ir-based oxides serve as cocatalysts for the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in these systems. Another concern is that the CrOx shell could potentially leach Cr 6+ ions during prolonged photo-irradiation, leading to not only catalyst deactivation but also environmental harm and health risks [9]. Although these rare and hazardous materials are used in minimal amounts, their inclusion still presents economic and environmental challenges. Given the limited production capacities of noble metals, widespread adoption of photocatalytic OWS technology could cause substantial market price increases due to rising demand and expectations. As highlighted in the lead article, precious cocatalyst materials can be recycled using standard metal recovery processes once the photocatalyst's lifecycle is complete. Nonetheless, there is a pressing need to develop cost-effective, earthabundant cocatalysts that offer performance similar to noble metals to eliminate the need for additional recycling steps. If using noble metals is necessary, one possible solution is to alloy at least one platinum-group metal with another or with a more widely available metal.Bimetallic systems can alter their electronic structure, resulting in a catalytic performance that surpasses that of their individual parent metals [10].Author 1 et al. Short title/running header 6 Similar to the previous concerns with cocatalysts, although immobilizing photocatalysts on substrates or sheets has demonstrated scalability and effectiveness in advancing OWS, attention must also be directed toward the disposal problems related to future water-splitting systems. Although the scalability and efficiency of photocatalysts are well established, it is of equal importance to probe how to address their environmental impact. Again, the key question is that can photocatalysts and other essential components in these systems be restored or regenerated? More specifically, the photocatalysts should endure multiple operational cycles with only minor losses in efficiency. Developing recycling protocols that do not involve dismantling the entire system can be an excellent solution to minimize operating and maintenance costs. Materials approaching the end of their service life must be disposed of correctly to mitigate environmental and health risks.Lastly, one of the biggest challenges in the practical implementation of photocatalytic OWS systems is integrating them with existing energy infrastructures, especially when it comes to safely storing and transporting generated H2 to avoid contamination and operational risks.Hisatomi et al. emphasized that after H2 is separated and recovered, it can be used in various catalytic reactions to create other value-added chemicals and fuels. This approach is more practical for safe handling and transportation compared to managing H2 as the final product [1]. In this context, governments will play a crucial role in setting safety and environmental standards for the secure production, storage, and potential transport of surplus H2. Investments in key infrastructures by governments will further accelerate the adoption of photocatalytic OWS. Strong political commitment is crucial for implementing regulations and policies, such as setting H2 production standards and providing tax incentives, to make green H2 more competitive-similar to the approach taken with other emerging technologies. For example, Germany's National Hydrogen Strategy envisions a comprehensive H2 infrastructure by 2030. This involves plans to build over 1,800 kilometers of new and repurposed pipelines dedicated In summary, although significant progress has been made in photocatalytic OWS technology, challenges remain, particularly in achieving higher STH efficiencies and addressing both economic and environmental sustainability concerns. The development of cost-effective, earthabundant photocatalysts and cocatalysts, alongside standardized methods for efficiency measurement, will be crucial for the future scalability of these systems. Furthermore, the environmental impact of the future water-splitting systems must be thoroughly investigated in order to ensure their sustainability, minimize potential ecological risks, and create efficient recycling and disposal protocols that comply with environmental safety regulations. With continued research, political support, and partnerships between industries, the shift from laboratory breakthroughs to scalable photocatalytic H2 production systems holds promise for contributing to global decarbonization efforts.    
-
-    
-
-## Two mixed-valent cerium oxo clusters: synthesis, structure, and self-assembly   
-
-OpenAlex: https://openalex.org/W4404897473    
-Open access: True
-    
-[Yuan Gao](https://openalex.org/A5009557739), [Yang Zhang](https://openalex.org/A5100354776), [Zhe Han](https://openalex.org/A5111654473), [Chunhui Wang](https://openalex.org/A5100376533), [Lei Zhang](https://openalex.org/A5101886313), [Jieshan Qiu](https://openalex.org/A5052910310), Frontiers in Chemistry. 12(None)] 2024.https://doi.org/10.3389/fchem.2024.1507834.
-    
-Studies on cerium oxo clusters (CeOCs) are not only significant for understanding the redox and hydrolysis behaviors of Ce(III/IV) ions but also crucial for the rational synthesis of novel clusters and nanoceria with specific Ce(III)/Ce(IV) ratios. Here, two sets of reactions were conducted using cerium nitrate and H 2 O 2 -oxidized cerium nitrate, resulting in the formation of two distinct mixed-valent CeOCs [Ce III 4 Ce IV 10 O 14 (OH) 2 (PhCO 2 ) 22 (DMF) 6 ] (Ce 14 ) and [Ce III 2 Ce IV 22 O 28 (OH) 8 (PhCO 2 ) 30 (DMF) 4 ] (Ce 24C ). These two clusters exhibit different structures and Ce(III)/Ce(IV) ratios, demonstrating the critical role of cerium oxidation states and the occurrence of redox reactions in cluster formation. Ce 14 is the first tetradecanuclear CeOC with a novel structure, whereas Ce 24C differed in its Ce(III)/Ce(IV) ratio, protonation levels of O atoms, and ligands from previously reported 24-nuclear CeOCs. Furthermore, various techniques were employed to investigate the formation process of these two clusters. X-ray photoelectron spectra (XPS) revealed that the white precipitates formed during the preparation of Ce 14 contain Ce(III) ions, while the reddish-brown precipitates formed during the preparation of Ce 24C contain a mixture of Ce(III) and Ce(IV) ions. These two precipitations were individually dissolved in N,N-Dimethylformamide (DMF). The evolution of solution color and ultraviolet-visible (UV-Vis) spectra over time revealed the gradual oxidation of partial Ce(III) ions by oxygen in the solution of the white precipitation. As Ce(IV) ions increased in this solution, time-resolved small angle X-ray scattering (SAXS) data demonstrated the self-assembly of the Ce 14 clusters after 4 days. In contrast, SAXS data and UV-Vis spectra revealed the rapid assembly of Ce 24C clusters within 2 h due to the initial coexistence of Ce(IV) and Ce(III) ions in the DMF solution of the reddish-brown precipitation. The continued reduction of partial Ce(IV) ions in this solution does not affect Ce 24C clusters’ formation and stability. Our studies expand the family of CeOCs and enhance our understanding of the effects of cerium’s oxidation states on cluster formation.    
 
     
 

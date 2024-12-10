@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Dec 2024 01:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 01:37:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>MoS2 for Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1007/978-981-97-7367-1_13</link>
-      <description>Siby Thomas, Minu Mathew, K. P. Priyanka, Dickson D. Babu, Materials horizons. None(None)] 2024. https://openalex.org/W4404901508
-
-                No abstract</description>
-      <author>Siby Thomas, Minu Mathew, K. P. Priyanka, Dickson D. Babu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-7367-1_13</guid>
-    </item>
-    <item>
-      <title>Crystallization kinetics in Ge-rich Ge&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1383" altimg="si3.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;x&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;Te alloys from large scale simulations with a machine-learned interatomic potential</title>
-      <link>https://doi.org/10.1016/j.actamat.2024.120608</link>
-      <description>Dario Baratella, Omar Abou El Kheir, Marco Bernasconi, Acta Materialia. None(None)] 2024. https://openalex.org/W4404905566
-
-                No abstract</description>
-      <author>Dario Baratella, Omar Abou El Kheir, Marco Bernasconi</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120608</guid>
-    </item>
-    <item>
-      <title>Spectral operator representations</title>
-      <link>https://doi.org/10.1038/s41524-024-01446-9</link>
-      <description>Austin Zadoks, Antimo Marrazzo, Nicola Marzari, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4404906070
-
-                Machine learning in atomistic materials science has grown to become a powerful tool, with most approaches focusing on atomic geometry, typically decomposed into local atomic environments. This approach, while well-suited for machine-learned interatomic potentials, is conceptually at odds with learning complex intrinsic properties of materials, often driven by spectral properties commonly represented in reciprocal space (e.g., band gaps or mobilities) which cannot be readily partitioned in real space. For such applications, methods that represent the electronic rather than the atomic structure could be more promising. In this work, we present a general framework focused on electronic-structure descriptors that take advantage of the natural symmetries and inherent interpretability of physical models. We apply this framework first to material similarity and then to accelerated screening, where a model trained on 217 materials correctly labels 75% of entries in the Materials Cloud 3D database, which meet common screening criteria for promising transparent-conducting materials.</description>
-      <author>Austin Zadoks, Antimo Marrazzo, Nicola Marzari</author>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01446-9</guid>
-    </item>
     <item>
       <title>Instant prediction of scientific paper cited potential based on semantic and metadata features: Taking artificial intelligence field as an example</title>
       <link>https://doi.org/10.1371/journal.pone.0312945</link>
@@ -120,11 +90,11 @@
     <item>
       <title>Oxygen evolution reaction mechanism on platinum dioxide surfaces based on density functional theory calculations</title>
       <link>https://doi.org/10.1016/j.comptc.2024.115020</link>
-      <description>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4404958222
+      <description>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan, Computational and Theoretical Chemistry. 1244(None)] 2024. https://openalex.org/W4404958222
 
                 No abstract</description>
       <author>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.115020</guid>
     </item>
     <item>
@@ -140,11 +110,11 @@
     <item>
       <title>Metal-free nitrogen-doped carbon-based electrocatalysts for oxygen reduction reaction in microbial fuel cells: Advances, challenges, and future directions</title>
       <link>https://doi.org/10.1016/j.nanoen.2024.110537</link>
-      <description>Seyed Masoud Parsa, Zhijie Chen, Siran Feng, Yuanying Yang, Li Luo, Huu Hao Ngo, Wei Wei, Bing&#8208;Jie Ni, Wenshan Guo, Nano Energy. None(None)] 2024. https://openalex.org/W4404958697
+      <description>Seyed Masoud Parsa, Zhijie Chen, Siran Feng, Yuanying Yang, Li Luo, Huu Hao Ngo, Wei Wei, Bing&#8208;Jie Ni, Wenshan Guo, Nano Energy. 134(None)] 2024. https://openalex.org/W4404958697
 
                 No abstract</description>
       <author>Seyed Masoud Parsa, Zhijie Chen, Siran Feng, Yuanying Yang, Li Luo, Huu Hao Ngo, Wei Wei, Bing&#8208;Jie Ni, Wenshan Guo</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.110537</guid>
     </item>
     <item>
@@ -526,6 +496,26 @@
       <author>Xiu&#8208;Mei Lin, Yulin Sun, Yanxin Chen, Shunxing Li, Jianfeng Li</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100352</guid>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://doi.org/10.1007/978-981-96-0274-2_1</link>
+      <description>Lunbo Duan, Dennis Lu, No host. None(None)] 2024. https://openalex.org/W4405143171
+
+                Abstract Climate change is currently one of the most challenging issues to the global ecosystem, which has already caused serious consequences in many aspects, such as increasing wildfires, heat waves, drought, and ice sheet disintegration.</description>
+      <author>Lunbo Duan, Dennis Lu</author>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-96-0274-2_1</guid>
+    </item>
+    <item>
+      <title>The Impact of Metal&#8211;Support Interaction on the Structure and Activity of Carbon-Supported Ni Nanoparticle Catalysts for Alkaline Hydrogen Oxidation Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c15120</link>
+      <description>Yoshiki Akamine, Fumiya Nishino, Takashi Yamashita, Masayuki Tsushida, Keisuke Awaya, Masato Machida, Syeda Mushrifa Zahan, Dario R. Dekel, Junya Ohyama, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405161821
+
+                The effect of the carbon support&#9472;Ketjenblack (C</description>
+      <author>Yoshiki Akamine, Fumiya Nishino, Takashi Yamashita, Masayuki Tsushida, Keisuke Awaya, Masato Machida, Syeda Mushrifa Zahan, Dario R. Dekel, Junya Ohyama</author>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c15120</guid>
     </item>
     <item>
       <title>Capturing Surface Coverage Effects in Heterogeneous Catalysis</title>

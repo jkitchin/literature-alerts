@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Dec  9 01:39:58 2024
+Created on Tue Dec 10 01:37:33 2024
 
-Found 56 results from 2024-12-02 to 2024-12-09
+Found 55 results from 2024-12-03 to 2024-12-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502)
@@ -16,39 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## MoS2 for Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4404901508    
-Open access: False
-    
-[Siby Thomas](https://openalex.org/A5042012397), [Minu Mathew](https://openalex.org/A5100998154), [K. P. Priyanka](https://openalex.org/A5062518918), [Dickson D. Babu](https://openalex.org/A5061279361), Materials horizons. None(None)] 2024.https://doi.org/10.1007/978-981-97-7367-1_13.
-    
-No abstract    
-
-    
-
-## Crystallization kinetics in Ge-rich GexTe alloys from large scale simulations with a machine-learned interatomic potential   
-
-OpenAlex: https://openalex.org/W4404905566    
-Open access: True
-    
-[Dario Baratella](https://openalex.org/A5049818374), [Omar Abou El Kheir](https://openalex.org/A5081816739), [Marco Bernasconi](https://openalex.org/A5053628907), Acta Materialia. None(None)] 2024.https://doi.org/10.1016/j.actamat.2024.120608.
-    
-No abstract    
-
-    
-
-## Spectral operator representations   
-
-OpenAlex: https://openalex.org/W4404906070    
-Open access: True
-    
-[Austin Zadoks](https://openalex.org/A5050551743), [Antimo Marrazzo](https://openalex.org/A5045773126), [Nicola Marzari](https://openalex.org/A5005167296), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01446-9.
-    
-Machine learning in atomistic materials science has grown to become a powerful tool, with most approaches focusing on atomic geometry, typically decomposed into local atomic environments. This approach, while well-suited for machine-learned interatomic potentials, is conceptually at odds with learning complex intrinsic properties of materials, often driven by spectral properties commonly represented in reciprocal space (e.g., band gaps or mobilities) which cannot be readily partitioned in real space. For such applications, methods that represent the electronic rather than the atomic structure could be more promising. In this work, we present a general framework focused on electronic-structure descriptors that take advantage of the natural symmetries and inherent interpretability of physical models. We apply this framework first to material similarity and then to accelerated screening, where a model trained on 217 materials correctly labels 75% of entries in the Materials Cloud 3D database, which meet common screening criteria for promising transparent-conducting materials.    
-
-    
 
 ## Instant prediction of scientific paper cited potential based on semantic and metadata features: Taking artificial intelligence field as an example   
 
@@ -143,7 +110,7 @@ No abstract
 OpenAlex: https://openalex.org/W4404958222    
 Open access: False
     
-[Xiru Cao](https://openalex.org/A5032054564), [Zhibin Tan](https://openalex.org/A5111750114), [Ji Chen](https://openalex.org/A5037467829), [Changwei Pan](https://openalex.org/A5101837576), Computational and Theoretical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.comptc.2024.115020.
+[Xiru Cao](https://openalex.org/A5032054564), [Zhibin Tan](https://openalex.org/A5111750114), [Ji Chen](https://openalex.org/A5037467829), [Changwei Pan](https://openalex.org/A5101837576), Computational and Theoretical Chemistry. 1244(None)] 2024.https://doi.org/10.1016/j.comptc.2024.115020.
     
 No abstract    
 
@@ -165,7 +132,7 @@ No abstract
 OpenAlex: https://openalex.org/W4404958697    
 Open access: True
     
-[Seyed Masoud Parsa](https://openalex.org/A5090790053), [Zhijie Chen](https://openalex.org/A5100750873), [Siran Feng](https://openalex.org/A5040656004), [Yuanying Yang](https://openalex.org/A5026489491), [Li Luo](https://openalex.org/A5102883930), [Huu Hao Ngo](https://openalex.org/A5056472365), [Wei Wei](https://openalex.org/A5100323635), [Bing‐Jie Ni](https://openalex.org/A5056640675), [Wenshan Guo](https://openalex.org/A5006059763), Nano Energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.110537.
+[Seyed Masoud Parsa](https://openalex.org/A5090790053), [Zhijie Chen](https://openalex.org/A5100750873), [Siran Feng](https://openalex.org/A5040656004), [Yuanying Yang](https://openalex.org/A5026489491), [Li Luo](https://openalex.org/A5102883930), [Huu Hao Ngo](https://openalex.org/A5056472365), [Wei Wei](https://openalex.org/A5100323635), [Bing‐Jie Ni](https://openalex.org/A5056640675), [Wenshan Guo](https://openalex.org/A5006059763), Nano Energy. 134(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.110537.
     
 No abstract    
 
@@ -586,6 +553,28 @@ Open access: True
 [Xiu‐Mei Lin](https://openalex.org/A5064315480), [Yulin Sun](https://openalex.org/A5101909862), [Yanxin Chen](https://openalex.org/A5012164733), [Shunxing Li](https://openalex.org/A5026288279), [Jianfeng Li](https://openalex.org/A5100462032), eScience. None(None)] 2024.https://doi.org/10.1016/j.esci.2024.100352.
     
 No abstract    
+
+    
+
+## Introduction   
+
+OpenAlex: https://openalex.org/W4405143171    
+Open access: True
+    
+[Lunbo Duan](https://openalex.org/A5025363360), [Dennis Lu](https://openalex.org/A5070737129), No host. None(None)] 2024.https://doi.org/10.1007/978-981-96-0274-2_1.
+    
+Abstract Climate change is currently one of the most challenging issues to the global ecosystem, which has already caused serious consequences in many aspects, such as increasing wildfires, heat waves, drought, and ice sheet disintegration.    
+
+    
+
+## The Impact of Metal–Support Interaction on the Structure and Activity of Carbon-Supported Ni Nanoparticle Catalysts for Alkaline Hydrogen Oxidation Reaction   
+
+OpenAlex: https://openalex.org/W4405161821    
+Open access: True
+    
+[Yoshiki Akamine](https://openalex.org/A5115051371), [Fumiya Nishino](https://openalex.org/A5092670109), [Takashi Yamashita](https://openalex.org/A5087302222), [Masayuki Tsushida](https://openalex.org/A5068026153), [Keisuke Awaya](https://openalex.org/A5063143560), [Masato Machida](https://openalex.org/A5013139214), [Syeda Mushrifa Zahan](https://openalex.org/A5029989616), [Dario R. Dekel](https://openalex.org/A5065902234), [Junya Ohyama](https://openalex.org/A5023127226), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c15120.
+    
+The effect of the carbon support─Ketjenblack (C    
 
     
 
