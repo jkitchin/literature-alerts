@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Dec 10 01:37:15 2024
+Created on Wed Dec 11 01:28:02 2024
 
-Found 4 results from 2024-12-03 to 2024-12-10
+Found 4 results from 2024-12-04 to 2024-12-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* A hybrid method for online monitoring of internals performance in distillation columns  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404936300
-:TOPICS: Process Fault Detection and Diagnosis in Industries, Model Predictive Control in Industrial Processes, State-of-the-Art in Process Optimization under Uncertainty
-:PUBLICATION_DATE: 2024-12-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.compchemeng.2024.108968")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404936300"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404936300"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404936300"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404936300 (Open access: False)
-    
-[[https://openalex.org/A5015579576][Yujie Hu]], [[https://openalex.org/A5113289716][Runjie Yao]], [[https://openalex.org/A5110463330][Lingyu Zhu]], [[https://openalex.org/A5052825722][Lorenz T. Biegler]], [[https://openalex.org/A5100329900][Xi Chen]], Computers & Chemical Engineering. None(None)] 2024. https://doi.org/10.1016/j.compchemeng.2024.108968 
-     
-No abstract    
-
-    
 
 * Correction to Conformational Features of Tau Fibrils from Alzheimer’s Disease Brain Are Faithfully Propagated by Unmodified Recombinant Protein  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -87,5 +66,26 @@ OpenAlex: https://openalex.org/W4405030774 (Open access: True)
 [[https://openalex.org/A5049005695][Jiali Shen]], [[https://openalex.org/A5113379780][Douglas M. Russell]], [[https://openalex.org/A5092773428][Jenna DeVivo]], [[https://openalex.org/A5107158742][Felix Kunkler]], [[https://openalex.org/A5055362390][Rima Baalbaki]], [[https://openalex.org/A5090590782][Bernhard Mentler]], [[https://openalex.org/A5076482580][Wiebke Scholz]], [[https://openalex.org/A5025334650][Wenjuan Yu]], [[https://openalex.org/A5092936143][Lucía Caudillo-Plath]], [[https://openalex.org/A5062670207][Eva Sommer]], [[https://openalex.org/A5114588782][Emelda Ahongshangbam]], [[https://openalex.org/A5057709419][Dina Alfaouri]], [[https://openalex.org/A5101612939][J. Almeida]], [[https://openalex.org/A5062064925][A. Amorim]], [[https://openalex.org/A5087751591][Lisa Beck]], [[https://openalex.org/A5111324500][H. Beckmann]], [[https://openalex.org/A5115002637][Moritz Berntheusel]], [[https://openalex.org/A5017157628][Nirvan Bhattacharyya]], [[https://openalex.org/A5062166400][Manjula R. Canagaratna]], [[https://openalex.org/A5115002638][Anouck Chassaing]], [[https://openalex.org/A5056585425][Romulo Cruz-Simbron]], [[https://openalex.org/A5049539173][Lubna Dada]], [[https://openalex.org/A5088633919][Jonathan Duplissy]], [[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5070143068][Manuel Granzin]], [[https://openalex.org/A5115002639][Lena Große Schute]], [[https://openalex.org/A5037408007][Martin Heinritzi]], [[https://openalex.org/A5019682345][Siddharth Iyer]], [[https://openalex.org/A5114989132][Hannah Klebach]], [[https://openalex.org/A5109252760][Thinus F. Kruger]], [[https://openalex.org/A5056657317][Andreas Kürten]], [[https://openalex.org/A5074631406][Markus Lampimäki]], [[https://openalex.org/A5100396524][Lu Liu]], [[https://openalex.org/A5019360565][Brandon Lopez]], [[https://openalex.org/A5043206674][Mónica Martínez]], [[https://openalex.org/A5115002640][Aleksandra Morawiec]], [[https://openalex.org/A5089192083][Antti Onnela]], [[https://openalex.org/A5011982863][Maija Peltola]], [[https://openalex.org/A5115002641][Pedro Rato]], [[https://openalex.org/A5094114338][Mago Reza]], [[https://openalex.org/A5078473574][Sarah Richter]], [[https://openalex.org/A5022780485][Birte Rörup]], [[https://openalex.org/A5113379781][Milin Kaniyodical Sebastian]], [[https://openalex.org/A5086950058][Mario Simon]], [[https://openalex.org/A5076044930][Mihnea Surdu]], [[https://openalex.org/A5041862911][Kalju Tamme]], [[https://openalex.org/A5063948083][Roseline C. Thakur]], [[https://openalex.org/A5021102823][António Tomé]], [[https://openalex.org/A5026414990][Yandong Tong]], [[https://openalex.org/A5014000962][Jens Top]], [[https://openalex.org/A5043100376][Nsikanabasi Silas Umo]], [[https://openalex.org/A5092262549][Gabriela Rosalino Unfer]], [[https://openalex.org/A5040900103][Lejish Vettikkat]], [[https://openalex.org/A5115002642][Jakob Weissbacher]], [[https://openalex.org/A5102960249][Christos Xenofontos]], [[https://openalex.org/A5101350413][Boxing Yang]], [[https://openalex.org/A5017388605][Marcel Zauner-Wieczorek]], [[https://openalex.org/A5102767311][Jiangyi Zhang]], [[https://openalex.org/A5082103355][Zhensen Zheng]], [[https://openalex.org/A5044025292][Urs Baltensperger]], [[https://openalex.org/A5068413254][T. Christoudias]], [[https://openalex.org/A5012711441][Richard C. Flagan]], [[https://openalex.org/A5080319960][Imad El Haddad]], [[https://openalex.org/A5076912331][Heikki Junninen]], [[https://openalex.org/A5089697844][Ottmar Möhler]], [[https://openalex.org/A5038776980][Ilona Riipinen]], [[https://openalex.org/A5063358456][Urs Rohner]], [[https://openalex.org/A5033551265][Siegfried Schobesberger]], [[https://openalex.org/A5018521569][Rainer Volkamer]], [[https://openalex.org/A5042382547][Paul M. Winkler]], [[https://openalex.org/A5089489241][Armin Hansel]], [[https://openalex.org/A5019559780][Katrianne Lehtipalo]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5027329208][Jos Lelieveld]], [[https://openalex.org/A5023787844][Hartwig Harder]], [[https://openalex.org/A5000471665][Markku Kulmala]], [[https://openalex.org/A5026978286][Douglas R. Worsnop]], [[https://openalex.org/A5009274507][J. Kirkby]], [[https://openalex.org/A5031780924][Joachim Curtius]], [[https://openalex.org/A5043129752][Xu‐Cheng He]], Nature. 636(8041)] 2024. https://doi.org/10.1038/s41586-024-08196-0 
      
 Abstract Aircraft observations have revealed ubiquitous new particle formation in the tropical upper troposphere over the Amazon 1,2 and the Atlantic and Pacific oceans 3,4 . Although the vapours involved remain unknown, recent satellite observations have revealed surprisingly high night-time isoprene mixing ratios of up to 1 part per billion by volume (ppbv) in the tropical upper troposphere 5 . Here, in experiments performed with the CERN CLOUD (Cosmics Leaving Outdoor Droplets) chamber, we report new particle formation initiated by the reaction of hydroxyl radicals with isoprene at upper-tropospheric temperatures of −30 °C and −50 °C. We find that isoprene-oxygenated organic molecules (IP-OOM) nucleate at concentrations found in the upper troposphere, without requiring any more vapours. Moreover, the nucleation rates are enhanced 100-fold by extremely low concentrations of sulfuric acid or iodine oxoacids above 10 5 cm −3 , reaching rates around 30 cm −3 s −1 at acid concentrations of 10 6 cm −3 . Our measurements show that nucleation involves sequential addition of IP-OOM, together with zero or one acid molecule in the embryonic molecular clusters. IP-OOM also drive rapid particle growth at 3–60 nm h −1 . We find that rapid nucleation and growth rates persist in the presence of NO x at upper-tropospheric concentrations from lightning. Our laboratory measurements show that isoprene emitted by rainforests may drive rapid new particle formation in extensive regions of the tropical upper troposphere 1,2 , resulting in tens of thousands of particles per cubic centimetre.    
+
+    
+
+* Parapint  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405168317
+:TOPICS: Structural Analysis and Optimization, Advanced Materials and Mechanics, solar cell performance optimization
+:PUBLICATION_DATE: 2020-09-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.11578/dc.20201109.2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405168317"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405168317"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405168317"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405168317 (Open access: False)
+    
+[[https://openalex.org/A5031357535][Michael Bynum]], [[https://openalex.org/A5030631754][Carl D. Laird]], [[https://openalex.org/A5071938321][Bethany L. Nicholson]], [[https://openalex.org/A5115055515][Denis Rizdal]], OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2020. https://doi.org/10.11578/dc.20201109.2 
+     
+No abstract    
 
     

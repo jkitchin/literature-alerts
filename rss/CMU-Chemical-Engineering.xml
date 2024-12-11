@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Dec 2024 01:37:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 01:28:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A hybrid method for online monitoring of internals performance in distillation columns</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108968</link>
-      <description>Yujie Hu, Runjie Yao, Lingyu Zhu, Lorenz T. Biegler, Xi Chen, Computers &amp; Chemical Engineering. None(None)] 2024. https://openalex.org/W4404936300
-
-                No abstract</description>
-      <author>Yujie Hu, Runjie Yao, Lingyu Zhu, Lorenz T. Biegler, Xi Chen</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108968</guid>
-    </item>
     <item>
       <title>Correction to Conformational Features of Tau Fibrils from Alzheimer&#8217;s Disease Brain Are Faithfully Propagated by Unmodified Recombinant Protein</title>
       <link>https://doi.org/10.1021/acs.biochem.6b01240</link>
@@ -46,6 +36,16 @@
       <author>Jiali Shen, Douglas M. Russell, Jenna DeVivo, Felix Kunkler, Rima Baalbaki, Bernhard Mentler, Wiebke Scholz, Wenjuan Yu, Luc&#237;a Caudillo-Plath, Eva Sommer, Emelda Ahongshangbam, Dina Alfaouri, J. Almeida, A. Amorim, Lisa Beck, H. Beckmann, Moritz Berntheusel, Nirvan Bhattacharyya, Manjula R. Canagaratna, Anouck Chassaing, Romulo Cruz-Simbron, Lubna Dada, Jonathan Duplissy, Hamish Gordon, Manuel Granzin, Lena Gro&#223;e Schute, Martin Heinritzi, Siddharth Iyer, Hannah Klebach, Thinus F. Kruger, Andreas K&#252;rten, Markus Lampim&#228;ki, Lu Liu, Brandon Lopez, M&#243;nica Mart&#237;nez, Aleksandra Morawiec, Antti Onnela, Maija Peltola, Pedro Rato, Mago Reza, Sarah Richter, Birte R&#246;rup, Milin Kaniyodical Sebastian, Mario Simon, Mihnea Surdu, Kalju Tamme, Roseline C. Thakur, Ant&#243;nio Tom&#233;, Yandong Tong, Jens Top, Nsikanabasi Silas Umo, Gabriela Rosalino Unfer, Lejish Vettikkat, Jakob Weissbacher, Christos Xenofontos, Boxing Yang, Marcel Zauner-Wieczorek, Jiangyi Zhang, Zhensen Zheng, Urs Baltensperger, T. Christoudias, Richard C. Flagan, Imad El Haddad, Heikki Junninen, Ottmar M&#246;hler, Ilona Riipinen, Urs Rohner, Siegfried Schobesberger, Rainer Volkamer, Paul M. Winkler, Armin Hansel, Katrianne Lehtipalo, Neil M. Donahue, Jos Lelieveld, Hartwig Harder, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, Joachim Curtius, Xu&#8208;Cheng He</author>
       <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41586-024-08196-0</guid>
+    </item>
+    <item>
+      <title>Parapint</title>
+      <link>https://doi.org/10.11578/dc.20201109.2</link>
+      <description>Michael Bynum, Carl D. Laird, Bethany L. Nicholson, Denis Rizdal, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2020. https://openalex.org/W4405168317
+
+                No abstract</description>
+      <author>Michael Bynum, Carl D. Laird, Bethany L. Nicholson, Denis Rizdal</author>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.11578/dc.20201109.2</guid>
     </item>
   </channel>
 </rss>

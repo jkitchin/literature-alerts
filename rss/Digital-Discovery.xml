@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Dec 2024 01:37:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 01:28:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -86,6 +86,36 @@
       <author>Brent Vela, Trevor Hastings, Marshall Allen, Raymundo Arr&#243;yave</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00262h</guid>
+    </item>
+    <item>
+      <title>Comprehensive sampling of coverage effects in catalysis by leveraging generalization in neural network models</title>
+      <link>https://doi.org/10.1039/d4dd00328d</link>
+      <description>Daniel Schwalbe&#8208;Koda, Nitish Govindarajan, Joel B. Varley, Digital Discovery. None(None)] 2024. https://openalex.org/W4405193217
+
+                A combination of generalization in neural networks and fast data pipelines enables comprehensive sampling coverage and co-adsorption effects in heterogeneous catalyst models.</description>
+      <author>Daniel Schwalbe&#8208;Koda, Nitish Govindarajan, Joel B. Varley</author>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00328d</guid>
+    </item>
+    <item>
+      <title>&lt;sup&gt;27&lt;/sup&gt;Al NMR chemical shifts in zeolite MFI via machine learning acceleration of structure sampling and shift prediction.</title>
+      <link>https://doi.org/10.1039/d4dd00306c</link>
+      <description>Daniel Willimetz, Andreas Erlebach, Christopher J. Heard, Luk&#225;&#353; Grajciar, Digital Discovery. None(None)] 2024. https://openalex.org/W4405200804
+
+                Zeolites, such as MFI, are versatile microporous aluminosilicate materials that are widely used in catalysis and adsorption processes. The location of the aluminium within the zeolite framework is one of...</description>
+      <author>Daniel Willimetz, Andreas Erlebach, Christopher J. Heard, Luk&#225;&#353; Grajciar</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00306c</guid>
+    </item>
+    <item>
+      <title>MatFold: systematic insights into materials discovery models&#8217; performance through standardized cross-validation protocols</title>
+      <link>https://doi.org/10.1039/d4dd00250d</link>
+      <description>Matthew Witman, Peter Schindler, Digital Discovery. None(None)] 2024. https://openalex.org/W4405203246
+
+                Machine learning (ML) models in the materials sciences that are validated by overly simplistic cross-validation (CV) protocols can yield biased performance estimates for downstream modeling or materials screening tasks. This...</description>
+      <author>Matthew Witman, Peter Schindler</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00250d</guid>
     </item>
   </channel>
 </rss>

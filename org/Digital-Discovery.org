@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Tue Dec 10 01:37:18 2024
+Created on Wed Dec 11 01:28:03 2024
 
-Found 8 results from 2024-12-03 to 2024-12-10
+Found 11 results from 2024-12-04 to 2024-12-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -171,5 +171,68 @@ OpenAlex: https://openalex.org/W4405016183 (Open access: True)
 [[https://openalex.org/A5013212032][Brent Vela]], [[https://openalex.org/A5104323768][Trevor Hastings]], [[https://openalex.org/A5003830282][Marshall Allen]], [[https://openalex.org/A5055147706][Raymundo Arróyave]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00262h 
      
 Multi-Principal Element Alloys (MPEAs) have emerged as an exciting area of research in materials science in the 2020s, owing to the vast potential for discovering alloys with unique and tailored...    
+
+    
+
+* Comprehensive sampling of coverage effects in catalysis by leveraging generalization in neural network models  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405193217
+:TOPICS: Machine Learning in Materials Science, Catalysis and Oxidation Reactions, Catalytic Processes in Materials Science
+:PUBLICATION_DATE: 2024-12-09
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00328d")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405193217"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405193217"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405193217"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405193217 (Open access: False)
+    
+[[https://openalex.org/A5049028674][Daniel Schwalbe‐Koda]], [[https://openalex.org/A5023895763][Nitish Govindarajan]], [[https://openalex.org/A5089128933][Joel B. Varley]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00328d 
+     
+A combination of generalization in neural networks and fast data pipelines enables comprehensive sampling coverage and co-adsorption effects in heterogeneous catalyst models.    
+
+    
+
+* 27Al NMR chemical shifts in zeolite MFI via machine learning acceleration of structure sampling and shift prediction.  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405200804
+:TOPICS: Molecular spectroscopy and chirality, Advanced NMR Techniques and Applications
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00306c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405200804"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405200804"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405200804"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405200804 (Open access: True)
+    
+[[https://openalex.org/A5107492711][Daniel Willimetz]], [[https://openalex.org/A5073356801][Andreas Erlebach]], [[https://openalex.org/A5081205836][Christopher J. Heard]], [[https://openalex.org/A5056495241][Lukáš Grajciar]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00306c 
+     
+Zeolites, such as MFI, are versatile microporous aluminosilicate materials that are widely used in catalysis and adsorption processes. The location of the aluminium within the zeolite framework is one of...    
+
+    
+
+* MatFold: systematic insights into materials discovery models’ performance through standardized cross-validation protocols  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405203246
+:TOPICS: Machine Learning in Materials Science, Electron and X-Ray Spectroscopy Techniques, Advanced Materials Characterization Techniques
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00250d")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405203246"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405203246"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405203246"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405203246 (Open access: True)
+    
+[[https://openalex.org/A5088012345][Matthew Witman]], [[https://openalex.org/A5057535114][Peter Schindler]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00250d 
+     
+Machine learning (ML) models in the materials sciences that are validated by overly simplistic cross-validation (CV) protocols can yield biased performance estimates for downstream modeling or materials screening tasks. This...    
 
     
