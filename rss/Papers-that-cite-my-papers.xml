@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Dec 2024 01:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:27:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The Chemistry of Bimetallic Surfaces - Evolution of an Atomic-scale Picture</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122677</link>
-      <description>R. J&#252;rgen Behm, Axel Gro&#223;, Surface Science. None(None)] 2024. https://openalex.org/W4404948122
-
-                No abstract</description>
-      <author>R. J&#252;rgen Behm, Axel Gro&#223;</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122677</guid>
-    </item>
-    <item>
-      <title>Cu-induced interface engineering of NiCu/Ni3N heterostructures for enhanced alkaline hydrogen oxidation reaction</title>
-      <link>https://doi.org/10.1016/s1872-2067(24)60142-7</link>
-      <description>Jinchi Li, Wanhai Zhou, Shuqi Yu, Qing Chen, Jian He, Liang Zeng, Yao Wang, Yungui Chen, CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 67(None)] 2024. https://openalex.org/W4404950295
-
-                No abstract</description>
-      <author>Jinchi Li, Wanhai Zhou, Shuqi Yu, Qing Chen, Jian He, Liang Zeng, Yao Wang, Yungui Chen</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(24)60142-7</guid>
-    </item>
-    <item>
-      <title>Oxygen evolution reaction mechanism on platinum dioxide surfaces based on density functional theory calculations</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.115020</link>
-      <description>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan, Computational and Theoretical Chemistry. 1244(None)] 2024. https://openalex.org/W4404958222
-
-                No abstract</description>
-      <author>Xiru Cao, Zhibin Tan, Ji Chen, Changwei Pan</author>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.115020</guid>
-    </item>
-    <item>
-      <title>Mapping and characterization of the surface structure and electronic properties of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e678" altimg="si103.svg"&gt;&lt;mml:mi&gt;&#946;&lt;/mml:mi&gt;&lt;/mml:math&gt;-Ag&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e683" altimg="si104.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;MoO&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e691" &#8230;</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105530</link>
-      <description>Thiago T. Dorini, Felipe Lipsky, Andr&#233; Rodrigues, Ju&#225;n Andr&#233;s, E. Longo, Miguel A. San&#8208;Miguel, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4404958629
-
-                No abstract</description>
-      <author>Thiago T. Dorini, Felipe Lipsky, Andr&#233; Rodrigues, Ju&#225;n Andr&#233;s, E. Longo, Miguel A. San&#8208;Miguel</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105530</guid>
-    </item>
-    <item>
-      <title>Metal-free nitrogen-doped carbon-based electrocatalysts for oxygen reduction reaction in microbial fuel cells: Advances, challenges, and future directions</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.110537</link>
-      <description>Seyed Masoud Parsa, Zhijie Chen, Siran Feng, Yuanying Yang, Li Luo, Huu Hao Ngo, Wei Wei, Bing&#8208;Jie Ni, Wenshan Guo, Nano Energy. 134(None)] 2024. https://openalex.org/W4404958697
-
-                No abstract</description>
-      <author>Seyed Masoud Parsa, Zhijie Chen, Siran Feng, Yuanying Yang, Li Luo, Huu Hao Ngo, Wei Wei, Bing&#8208;Jie Ni, Wenshan Guo</author>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.110537</guid>
-    </item>
-    <item>
-      <title>Advances and Applications of Carbon Capture, Utilization, and Storage in Civil Engineering: A Comprehensive Review</title>
-      <link>https://doi.org/10.3390/en17236046</link>
-      <description>D. S. Vijayan, Selvakumar Gopalaswamy, Arvindan Sivasuriyan, Eugeniusz Koda, Wiktor Sitek, Magdalena Daria Vaverkov&#225;, Anna Podlasek, Energies. 17(23)] 2024. https://openalex.org/W4404960467
-
-                This paper thoroughly examines the latest developments and diverse applications of Carbon Capture, Utilization, and Storage (CCUS) in civil engineering. It provides a critical analysis of the technology&#8217;s potential to mitigate the effects of climate change. Initially, a comprehensive outline of CCUS technologies is presented, emphasising their vital function in carbon dioxide (CO2) emission capture, conversion, and sequestration. Subsequent sections provide an in-depth analysis of carbon capture technologies, utilisation processes, and storage solutions. These serve as the foundation for an architectural framework that facilitates the design and integration of efficient systems. Significant attention is given to the inventive application of CCUS in the building and construction industry. Notable examples of such applications include using carbon (C) in cement and promoting sustainable cement production. Economic analyses and financing mechanisms are reviewed to assess the commercial feasibility and scalability of CCUS projects. In addition, this review examines the technological advances and innovations that have occurred, providing insight into the potential future course of CCUS progress. A comprehensive analysis of the environmental and regulatory environments is conducted to evaluate the feasibility and compliance with the policies of CCUS technology deployment. Case studies from the real world are provided to illustrate effectiveness and practical applications. It concludes by emphasising the importance of continued research, policy support, and innovation in developing CCUS technologies as a fundamental component of sustainable civil engineering practices. A tenacious stride toward carbon neutrality is underscored.</description>
-      <author>D. S. Vijayan, Selvakumar Gopalaswamy, Arvindan Sivasuriyan, Eugeniusz Koda, Wiktor Sitek, Magdalena Daria Vaverkov&#225;, Anna Podlasek</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17236046</guid>
-    </item>
-    <item>
-      <title>The impact of ligand chain length on the HER performance of atomically precise Pt&lt;sub&gt;6&lt;/sub&gt;(SR)&lt;sub&gt;12&lt;/sub&gt; nanoclusters</title>
-      <link>https://doi.org/10.1039/d4nr03316g</link>
-      <description>Lipipuspa Sahoo, Supriti Dutta, Aarti Devi, Rashi, Swapan K. Pati, Amitava Patra, Nanoscale. None(None)] 2024. https://openalex.org/W4404962276
-
-                This study investigates the impact of ligand chain length on the electrocatalytic HER performance of atomically precise Pt 6 (thiolate ligand, SR) 12 nanoclusters. Analysis reveals that a shorter ligand chain enhances the electrocatalytic performance.</description>
-      <author>Lipipuspa Sahoo, Supriti Dutta, Aarti Devi, Rashi, Swapan K. Pati, Amitava Patra</author>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4nr03316g</guid>
-    </item>
-    <item>
-      <title>Structural Evolution of Stapes Controls the Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Bimetallic Cu&#8208;doped Gold Nanoclusters</title>
-      <link>https://doi.org/10.1002/smll.202408531</link>
-      <description>Enric Ib&#225;&#241;ez&#8208;Al&#233;, Jiajun Hu, Josep Albero, Laura Simonelli, Carlo Marini, N&#250;ria L&#243;pez, Noelia Barrab&#233;s, Hermenegildo Garc&#305;&#769;a, Sara Goberna&#8208;Ferr&#243;n, Small. None(None)] 2024. https://openalex.org/W4404977497
-
-                Abstract Ligand protected gold nanoclusters have been proposed for electrochemical CO 2 reduction (eCO 2 R) as an alternative to polycrystalline catalysts, showing higher selectivity control due to the tailored composition and precise microenvironment. Here, two gold cluster families are studied with different staple motifs (Au 25 (SR) 18 and Au 144 (SR) 60 , where SR = thiolate) doped with Ag or Cu to understand the interplay between the composition and the performance of these catalysts. Detailed cluster characterization and Density Functional Theory simulations demonstrate that the dynamic aspects involving ligand removal are crucial to unraveling the role of the dopant, the cluster curvature, and the staple structure. The best activity performance toward CO is obtained for Cu&#8208;doped Au 144 (SR) 60 at U = &#8211;0.8 V RHE as ligands are only partially depleted and the staple can bend to stabilize *CO intermediate, while Cu&#8208;containing Au 25 (SR) 18 can produce formate but shows worse CO selectivity. This study points toward the importance of ligand stability during eCO 2 R on bimetallic gold nanoclusters, paving the way for improving the design and operation of this family of catalysts.</description>
-      <author>Enric Ib&#225;&#241;ez&#8208;Al&#233;, Jiajun Hu, Josep Albero, Laura Simonelli, Carlo Marini, N&#250;ria L&#243;pez, Noelia Barrab&#233;s, Hermenegildo Garc&#305;&#769;a, Sara Goberna&#8208;Ferr&#243;n</author>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202408531</guid>
-    </item>
     <item>
       <title>Exploring the Intrinsic Effects of Lattice Strain on the Hydrogen Evolution Reaction via Electric-Field-Induced Strain in FePt Films</title>
       <link>https://doi.org/10.1021/acsami.4c16120</link>
@@ -608,14 +528,24 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202408863</guid>
     </item>
     <item>
-      <title>Capturing Surface Coverage Effects in Heterogeneous Catalysis</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c05086</link>
-      <description>Alyssa J. R. Hensley, Neeru Chaudhary, Naseeha Cardwell, Isaac G. Onyango, Yong Wang, Di Wu, Jean&#8208;Sabin McEwen, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4404960710
+      <title>Industrial Scale-Up Variability and Life Cycle Assessment of Microbial Fuel Cells</title>
+      <link>https://doi.org/10.32388/4ynyhr</link>
+      <description>Harshit Mittal, No host. None(None)] 2024. https://openalex.org/W4405218982
+
+                In the instantaneous global industrialisation, there has been an increase in the generalised waste, one of the major pollutants of wastewater. There should be advancements in the existing wastewater treatment technologies to cater for the current water demands. Wastewater treatment requires the oxidation and reduction of organic and drug molecules. Conventional wastewater technologies are expensive for such degradation, and the treatment efficiency is inadequate per the current demands. Hence microbial fuel cells, which are affordable, multi-applicability systems, should be considered for wastewater treatment technologies. This study analyses various country- and industry-wise wastewater production to demonstrate microbial fuel cell treatment technology requirements. According to the Sustainable Development Goals (SDG), this review also thoroughly discusses the Life Cycle Assessment of various types of Microbial Fuel Cells in order to observe which microbial fuel cells could be applied for different levels of wastewater accumulated geologically as well as industrially. For a thorough treatment of wastewater through MFCs, the review also economically analysed the microbial fuel cells both component-wise and unit-wise, especially towards scale-up. A comprehensive socioeconomic and technological perspective has also been portrayed in order to showcase the need to transition from conventional wastewater treatment technologies towards microbial fuel cells.</description>
+      <author>Harshit Mittal</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.32388/4ynyhr</guid>
+    </item>
+    <item>
+      <title>Optimization of Pt/C Catalysts Synthesized Via Ethylene Glycol Reduction: Effects of Complexing Agents on Orr Activity and Stability</title>
+      <link>https://doi.org/10.2139/ssrn.5051189</link>
+      <description>Lu Jia, Zeyu Huang, Jianyin Xu, Jinfeng Wu, Liuwei Zhan, Haifeng Wang, Zonghua Wang, Lu Zhou, No host. None(None)] 2024. https://openalex.org/W4405219679
 
                 No abstract</description>
-      <author>Alyssa J. R. Hensley, Neeru Chaudhary, Naseeha Cardwell, Isaac G. Onyango, Yong Wang, Di Wu, Jean&#8208;Sabin McEwen</author>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c05086</guid>
+      <author>Lu Jia, Zeyu Huang, Jianyin Xu, Jinfeng Wu, Liuwei Zhan, Haifeng Wang, Zonghua Wang, Lu Zhou</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5051189</guid>
     </item>
     <item>
       <title>6&#8211;16 Membrane Enhanced Reactors for Methanol Reforming to Hydrogen</title>
@@ -626,16 +556,6 @@
       <author>V&#237;ctor M. Alvarado, Guadalupe L&#243;pez L&#243;pez</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-15740-0.00146-4</guid>
-    </item>
-    <item>
-      <title>Data efficiency of classification strategies for chemical and materials design</title>
-      <link>https://doi.org/10.1039/d4dd00298a</link>
-      <description>Quinn Gallagher, Michael Webb, Digital Discovery. None(None)] 2024. https://openalex.org/W4404961437
-
-                We benchmark the performance of space-filling and active learning algorithms on classification problems in materials science, revealing trends in optimally data-efficient algorithms.</description>
-      <author>Quinn Gallagher, Michael Webb</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00298a</guid>
     </item>
   </channel>
 </rss>

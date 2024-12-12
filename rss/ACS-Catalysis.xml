@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Dec 2024 01:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:27:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Controlling Product Selectivity in Photochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction with the Redox Potential of the Photosensitizer</title>
-      <link>https://doi.org/10.1021/acscatal.4c03845</link>
-      <description>Lei Zhang, Andressa V. M&#252;ller, Sai Puneet Desai, David C. Grills, Dmitry E. Polyansky, Renato N. Sampaio, Javier J. Concepcion, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404944465
-
-                No abstract</description>
-      <author>Lei Zhang, Andressa V. M&#252;ller, Sai Puneet Desai, David C. Grills, Dmitry E. Polyansky, Renato N. Sampaio, Javier J. Concepcion</author>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03845</guid>
-    </item>
-    <item>
-      <title>Boron Designer Enzyme with a Hybrid Catalytic Dyad</title>
-      <link>https://doi.org/10.1021/acscatal.4c06052</link>
-      <description>Lars Longwitz, Marijn D. Kamer, Bart Brouwer, A.M.W.H. Thunnissen, G&#233;rard Roelfes, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404961214
-
-                No abstract</description>
-      <author>Lars Longwitz, Marijn D. Kamer, Bart Brouwer, A.M.W.H. Thunnissen, G&#233;rard Roelfes</author>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06052</guid>
-    </item>
-    <item>
-      <title>Using Enzymes for Catalysis under Industrial Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.4c05265</link>
-      <description>Elif Erdem, John M. Woodley, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404974317
-
-                No abstract</description>
-      <author>Elif Erdem, John M. Woodley</author>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05265</guid>
-    </item>
-    <item>
-      <title>Deciphering Faujasite Zeolite Dealumination at the Atomic Scale</title>
-      <link>https://doi.org/10.1021/acscatal.4c03036</link>
-      <description>Zhuoran Wang, Thomas Jarrin, Micka&#235;l Rivallan, Isabelle Cl&#233;men&#231;on, Emmanuel Soyer, Theodorus de Bruin, L. Lema&#238;tre, Virgile Rouchon, David Gajan, Gerhard D. Pirngruber, C&#233;line Chizallet, Anne Lesage, ACS Catalysis. None(None)] 2024. https://openalex.org/W4404974759
-
-                No abstract</description>
-      <author>Zhuoran Wang, Thomas Jarrin, Micka&#235;l Rivallan, Isabelle Cl&#233;men&#231;on, Emmanuel Soyer, Theodorus de Bruin, L. Lema&#238;tre, Virgile Rouchon, David Gajan, Gerhard D. Pirngruber, C&#233;line Chizallet, Anne Lesage</author>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03036</guid>
-    </item>
     <item>
       <title>Engineering Conjugation of Covalent Organic Frameworks for Carbon Dioxide Reduction Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c03742</link>

@@ -1,32 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Dec 11 01:28:03 2024
+Created on Thu Dec 12 01:27:43 2024
 
-Found 11 results from 2024-12-04 to 2024-12-11
+Found 9 results from 2024-12-05 to 2024-12-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Data efficiency of classification strategies for chemical and materials design   
-
-OpenAlex: https://openalex.org/W4404961437    
-Open access: True
-    
-[Quinn Gallagher](https://openalex.org/A5106347725), [Michael Webb](https://openalex.org/A5072988684), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00298a.
-    
-We benchmark the performance of space-filling and active learning algorithms on classification problems in materials science, revealing trends in optimally data-efficient algorithms.    
-
-    
-
-## A Materials Discovery Framework Based on Conditional Generative Models Applied to the Design of Polymer Electrolytes   
-
-OpenAlex: https://openalex.org/W4404984467    
-Open access: True
-    
-[Arash Khajeh](https://openalex.org/A5076876475), [X. L. Lei](https://openalex.org/A5056319646), [Weike Ye](https://openalex.org/A5021883317), [Zhenze Yang](https://openalex.org/A5072747890), [Linda Hung](https://openalex.org/A5063341916), [Daniel Schweigert](https://openalex.org/A5092098140), [Ha-Kyung Kwon](https://openalex.org/A5042043446), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00293h.
-    
-In this work, we introduce a computational polymer discovery framework that efficiently designs polymers with tailored properties. The framework comprises three core components—--a conditioned generative model, a computational evaluation module,...    
-
-    
 
 ## Back cover   
 

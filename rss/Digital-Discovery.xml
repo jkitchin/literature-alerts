@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Dec 2024 01:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:27:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Data efficiency of classification strategies for chemical and materials design</title>
-      <link>https://doi.org/10.1039/d4dd00298a</link>
-      <description>Quinn Gallagher, Michael Webb, Digital Discovery. None(None)] 2024. https://openalex.org/W4404961437
-
-                We benchmark the performance of space-filling and active learning algorithms on classification problems in materials science, revealing trends in optimally data-efficient algorithms.</description>
-      <author>Quinn Gallagher, Michael Webb</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00298a</guid>
-    </item>
-    <item>
-      <title>A Materials Discovery Framework Based on Conditional Generative Models Applied to the Design of Polymer Electrolytes</title>
-      <link>https://doi.org/10.1039/d4dd00293h</link>
-      <description>Arash Khajeh, X. L. Lei, Weike Ye, Zhenze Yang, Linda Hung, Daniel Schweigert, Ha-Kyung Kwon, Digital Discovery. None(None)] 2024. https://openalex.org/W4404984467
-
-                In this work, we introduce a computational polymer discovery framework that efficiently designs polymers with tailored properties. The framework comprises three core components&#8212;--a conditioned generative model, a computational evaluation module,...</description>
-      <author>Arash Khajeh, X. L. Lei, Weike Ye, Zhenze Yang, Linda Hung, Daniel Schweigert, Ha-Kyung Kwon</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00293h</guid>
-    </item>
     <item>
       <title>Back cover</title>
       <link>https://doi.org/10.1039/d4dd90052a</link>

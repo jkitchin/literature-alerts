@@ -1,94 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Dec 11 01:28:00 2024
+Created on Thu Dec 12 01:27:39 2024
 
-Found 32 results from 2024-12-04 to 2024-12-11
+Found 28 results from 2024-12-05 to 2024-12-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Controlling Product Selectivity in Photochemical CO2 Reduction with the Redox Potential of the Photosensitizer  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404944465
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion, Droplet Microfluidics Technology
-:PUBLICATION_DATE: 2024-12-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03845")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404944465"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404944465"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404944465"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404944465 (Open access: False)
-    
-[[https://openalex.org/A5108049818][Lei Zhang]], [[https://openalex.org/A5011977174][Andressa V. Müller]], [[https://openalex.org/A5075691616][Sai Puneet Desai]], [[https://openalex.org/A5004375411][David C. Grills]], [[https://openalex.org/A5083979016][Dmitry E. Polyansky]], [[https://openalex.org/A5006832213][Renato N. Sampaio]], [[https://openalex.org/A5080197399][Javier J. Concepcion]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03845 
-     
-No abstract    
-
-    
-
-* Boron Designer Enzyme with a Hybrid Catalytic Dyad  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404961214
-:TOPICS: Enzyme Immobilization Techniques, Electrospun Nanofibers in Biomedical Applications, Electrochemical Biosensor Technology
-:PUBLICATION_DATE: 2024-12-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c06052")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404961214"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404961214"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404961214"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404961214 (Open access: True)
-    
-[[https://openalex.org/A5032959008][Lars Longwitz]], [[https://openalex.org/A5028183720][Marijn D. Kamer]], [[https://openalex.org/A5060375530][Bart Brouwer]], [[https://openalex.org/A5087468780][A.M.W.H. Thunnissen]], [[https://openalex.org/A5032880385][Gérard Roelfes]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06052 
-     
-No abstract    
-
-    
-
-* Using Enzymes for Catalysis under Industrial Conditions  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404974317
-:TOPICS: Enzyme Immobilization Techniques, Metabolic Engineering and Synthetic Biology, Technologies for Biofuel Production from Biomass
-:PUBLICATION_DATE: 2024-12-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05265")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404974317"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404974317"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404974317"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404974317 (Open access: False)
-    
-[[https://openalex.org/A5086466356][Elif Erdem]], [[https://openalex.org/A5036903025][John M. Woodley]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05265 
-     
-No abstract    
-
-    
-
-* Deciphering Faujasite Zeolite Dealumination at the Atomic Scale  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4404974759
-:TOPICS: Zeolite Chemistry and Catalysis, Catalytic Nanomaterials, Novel Methods for Cesium Removal from Wastewater
-:PUBLICATION_DATE: 2024-12-02
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c03036")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4404974759"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4404974759"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4404974759"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4404974759 (Open access: False)
-    
-[[https://openalex.org/A5043145785][Zhuoran Wang]], [[https://openalex.org/A5079354447][Thomas Jarrin]], [[https://openalex.org/A5010028411][Mickaël Rivallan]], [[https://openalex.org/A5078414887][Isabelle Clémençon]], [[https://openalex.org/A5074419428][Emmanuel Soyer]], [[https://openalex.org/A5027199996][Theodorus de Bruin]], [[https://openalex.org/A5088922603][L. Lemaître]], [[https://openalex.org/A5047261367][Virgile Rouchon]], [[https://openalex.org/A5085506972][David Gajan]], [[https://openalex.org/A5013812058][Gerhard D. Pirngruber]], [[https://openalex.org/A5014892353][Céline Chizallet]], [[https://openalex.org/A5023874849][Anne Lesage]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c03036 
-     
-No abstract    
-
-    
 
 * Engineering Conjugation of Covalent Organic Frameworks for Carbon Dioxide Reduction Reaction  :ACS_Catalysis:
 :PROPERTIES:

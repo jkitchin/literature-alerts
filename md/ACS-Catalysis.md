@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Dec 11 01:28:00 2024
+Created on Thu Dec 12 01:27:39 2024
 
-Found 32 results from 2024-12-04 to 2024-12-11
+Found 28 results from 2024-12-05 to 2024-12-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Controlling Product Selectivity in Photochemical CO2 Reduction with the Redox Potential of the Photosensitizer   
-
-OpenAlex: https://openalex.org/W4404944465    
-Open access: False
-    
-[Lei Zhang](https://openalex.org/A5108049818), [Andressa V. Müller](https://openalex.org/A5011977174), [Sai Puneet Desai](https://openalex.org/A5075691616), [David C. Grills](https://openalex.org/A5004375411), [Dmitry E. Polyansky](https://openalex.org/A5083979016), [Renato N. Sampaio](https://openalex.org/A5006832213), [Javier J. Concepcion](https://openalex.org/A5080197399), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03845.
-    
-No abstract    
-
-    
-
-## Boron Designer Enzyme with a Hybrid Catalytic Dyad   
-
-OpenAlex: https://openalex.org/W4404961214    
-Open access: True
-    
-[Lars Longwitz](https://openalex.org/A5032959008), [Marijn D. Kamer](https://openalex.org/A5028183720), [Bart Brouwer](https://openalex.org/A5060375530), [A.M.W.H. Thunnissen](https://openalex.org/A5087468780), [Gérard Roelfes](https://openalex.org/A5032880385), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06052.
-    
-No abstract    
-
-    
-
-## Using Enzymes for Catalysis under Industrial Conditions   
-
-OpenAlex: https://openalex.org/W4404974317    
-Open access: False
-    
-[Elif Erdem](https://openalex.org/A5086466356), [John M. Woodley](https://openalex.org/A5036903025), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05265.
-    
-No abstract    
-
-    
-
-## Deciphering Faujasite Zeolite Dealumination at the Atomic Scale   
-
-OpenAlex: https://openalex.org/W4404974759    
-Open access: False
-    
-[Zhuoran Wang](https://openalex.org/A5043145785), [Thomas Jarrin](https://openalex.org/A5079354447), [Mickaël Rivallan](https://openalex.org/A5010028411), [Isabelle Clémençon](https://openalex.org/A5078414887), [Emmanuel Soyer](https://openalex.org/A5074419428), [Theodorus de Bruin](https://openalex.org/A5027199996), [L. Lemaître](https://openalex.org/A5088922603), [Virgile Rouchon](https://openalex.org/A5047261367), [David Gajan](https://openalex.org/A5085506972), [Gerhard D. Pirngruber](https://openalex.org/A5013812058), [Céline Chizallet](https://openalex.org/A5014892353), [Anne Lesage](https://openalex.org/A5023874849), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03036.
-    
-No abstract    
-
-    
 
 ## Engineering Conjugation of Covalent Organic Frameworks for Carbon Dioxide Reduction Reaction   
 

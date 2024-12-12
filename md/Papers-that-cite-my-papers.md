@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Wed Dec 11 01:28:12 2024
+Created on Thu Dec 12 01:27:55 2024
 
-Found 63 results from 2024-12-04 to 2024-12-11
+Found 55 results from 2024-12-05 to 2024-12-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502)
@@ -16,94 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## The Chemistry of Bimetallic Surfaces - Evolution of an Atomic-scale Picture   
-
-OpenAlex: https://openalex.org/W4404948122    
-Open access: True
-    
-[R. Jürgen Behm](https://openalex.org/A5083574245), [Axel Groß](https://openalex.org/A5080273102), Surface Science. None(None)] 2024.https://doi.org/10.1016/j.susc.2024.122677.
-    
-No abstract    
-
-    
-
-## Cu-induced interface engineering of NiCu/Ni3N heterostructures for enhanced alkaline hydrogen oxidation reaction   
-
-OpenAlex: https://openalex.org/W4404950295    
-Open access: False
-    
-[Jinchi Li](https://openalex.org/A5046794406), [Wanhai Zhou](https://openalex.org/A5024701144), [Shuqi Yu](https://openalex.org/A5041795084), [Qing Chen](https://openalex.org/A5078610325), [Jian He](https://openalex.org/A5019838270), [Liang Zeng](https://openalex.org/A5050864929), [Yao Wang](https://openalex.org/A5073493377), [Yungui Chen](https://openalex.org/A5053796723), CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION). 67(None)] 2024.https://doi.org/10.1016/s1872-2067(24)60142-7.
-    
-No abstract    
-
-    
-
-## Oxygen evolution reaction mechanism on platinum dioxide surfaces based on density functional theory calculations   
-
-OpenAlex: https://openalex.org/W4404958222    
-Open access: False
-    
-[Xiru Cao](https://openalex.org/A5032054564), [Zhibin Tan](https://openalex.org/A5111750114), [Ji Chen](https://openalex.org/A5037467829), [Changwei Pan](https://openalex.org/A5101837576), Computational and Theoretical Chemistry. 1244(None)] 2024.https://doi.org/10.1016/j.comptc.2024.115020.
-    
-No abstract    
-
-    
-
-## Mapping and characterization of the surface structure and electronic properties of β-Ag2MoO<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e691" …   
-
-OpenAlex: https://openalex.org/W4404958629    
-Open access: False
-    
-[Thiago T. Dorini](https://openalex.org/A5073511096), [Felipe Lipsky](https://openalex.org/A5033887894), [André Rodrigues](https://openalex.org/A5033523750), [Juán Andrés](https://openalex.org/A5060484170), [E. Longo](https://openalex.org/A5000896619), [Miguel A. San‐Miguel](https://openalex.org/A5004496213), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105530.
-    
-No abstract    
-
-    
-
-## Metal-free nitrogen-doped carbon-based electrocatalysts for oxygen reduction reaction in microbial fuel cells: Advances, challenges, and future directions   
-
-OpenAlex: https://openalex.org/W4404958697    
-Open access: True
-    
-[Seyed Masoud Parsa](https://openalex.org/A5090790053), [Zhijie Chen](https://openalex.org/A5100750873), [Siran Feng](https://openalex.org/A5040656004), [Yuanying Yang](https://openalex.org/A5026489491), [Li Luo](https://openalex.org/A5102883930), [Huu Hao Ngo](https://openalex.org/A5056472365), [Wei Wei](https://openalex.org/A5100323635), [Bing‐Jie Ni](https://openalex.org/A5056640675), [Wenshan Guo](https://openalex.org/A5006059763), Nano Energy. 134(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.110537.
-    
-No abstract    
-
-    
-
-## Advances and Applications of Carbon Capture, Utilization, and Storage in Civil Engineering: A Comprehensive Review   
-
-OpenAlex: https://openalex.org/W4404960467    
-Open access: True
-    
-[D. S. Vijayan](https://openalex.org/A5057778927), [Selvakumar Gopalaswamy](https://openalex.org/A5114975852), [Arvindan Sivasuriyan](https://openalex.org/A5090937309), [Eugeniusz Koda](https://openalex.org/A5029648539), [Wiktor Sitek](https://openalex.org/A5101867700), [Magdalena Daria Vaverková](https://openalex.org/A5062418894), [Anna Podlasek](https://openalex.org/A5013820021), Energies. 17(23)] 2024.https://doi.org/10.3390/en17236046.
-    
-This paper thoroughly examines the latest developments and diverse applications of Carbon Capture, Utilization, and Storage (CCUS) in civil engineering. It provides a critical analysis of the technology’s potential to mitigate the effects of climate change. Initially, a comprehensive outline of CCUS technologies is presented, emphasising their vital function in carbon dioxide (CO2) emission capture, conversion, and sequestration. Subsequent sections provide an in-depth analysis of carbon capture technologies, utilisation processes, and storage solutions. These serve as the foundation for an architectural framework that facilitates the design and integration of efficient systems. Significant attention is given to the inventive application of CCUS in the building and construction industry. Notable examples of such applications include using carbon (C) in cement and promoting sustainable cement production. Economic analyses and financing mechanisms are reviewed to assess the commercial feasibility and scalability of CCUS projects. In addition, this review examines the technological advances and innovations that have occurred, providing insight into the potential future course of CCUS progress. A comprehensive analysis of the environmental and regulatory environments is conducted to evaluate the feasibility and compliance with the policies of CCUS technology deployment. Case studies from the real world are provided to illustrate effectiveness and practical applications. It concludes by emphasising the importance of continued research, policy support, and innovation in developing CCUS technologies as a fundamental component of sustainable civil engineering practices. A tenacious stride toward carbon neutrality is underscored.    
-
-    
-
-## The impact of ligand chain length on the HER performance of atomically precise Pt6(SR)12 nanoclusters   
-
-OpenAlex: https://openalex.org/W4404962276    
-Open access: False
-    
-[Lipipuspa Sahoo](https://openalex.org/A5010100785), [Supriti Dutta](https://openalex.org/A5012990379), [Aarti Devi](https://openalex.org/A5044455903), [Rashi](https://openalex.org/A5102575886), [Swapan K. Pati](https://openalex.org/A5059196962), [Amitava Patra](https://openalex.org/A5007549985), Nanoscale. None(None)] 2024.https://doi.org/10.1039/d4nr03316g.
-    
-This study investigates the impact of ligand chain length on the electrocatalytic HER performance of atomically precise Pt 6 (thiolate ligand, SR) 12 nanoclusters. Analysis reveals that a shorter ligand chain enhances the electrocatalytic performance.    
-
-    
-
-## Structural Evolution of Stapes Controls the Electrochemical CO2 Reduction on Bimetallic Cu‐doped Gold Nanoclusters   
-
-OpenAlex: https://openalex.org/W4404977497    
-Open access: True
-    
-[Enric Ibáñez‐Alé](https://openalex.org/A5020618927), [Jiajun Hu](https://openalex.org/A5058846208), [Josep Albero](https://openalex.org/A5035200677), [Laura Simonelli](https://openalex.org/A5018172983), [Carlo Marini](https://openalex.org/A5003050319), [Núria López](https://openalex.org/A5100605805), [Noelia Barrabés](https://openalex.org/A5048108617), [Hermenegildo Garcı́a](https://openalex.org/A5014540719), [Sara Goberna‐Ferrón](https://openalex.org/A5067969184), Small. None(None)] 2024.https://doi.org/10.1002/smll.202408531.
-    
-Abstract Ligand protected gold nanoclusters have been proposed for electrochemical CO 2 reduction (eCO 2 R) as an alternative to polycrystalline catalysts, showing higher selectivity control due to the tailored composition and precise microenvironment. Here, two gold cluster families are studied with different staple motifs (Au 25 (SR) 18 and Au 144 (SR) 60 , where SR = thiolate) doped with Ag or Cu to understand the interplay between the composition and the performance of these catalysts. Detailed cluster characterization and Density Functional Theory simulations demonstrate that the dynamic aspects involving ligand removal are crucial to unraveling the role of the dopant, the cluster curvature, and the staple structure. The best activity performance toward CO is obtained for Cu‐doped Au 144 (SR) 60 at U = –0.8 V RHE as ligands are only partially depleted and the staple can bend to stabilize *CO intermediate, while Cu‐containing Au 25 (SR) 18 can produce formate but shows worse CO selectivity. This study points toward the importance of ligand stability during eCO 2 R on bimetallic gold nanoclusters, paving the way for improving the design and operation of this family of catalysts.    
-
-    
 
 ## Exploring the Intrinsic Effects of Lattice Strain on the Hydrogen Evolution Reaction via Electric-Field-Induced Strain in FePt Films   
 
@@ -677,12 +589,23 @@ Abstract Ammonia (NH 3 ) is one of the most widely produced chemicals globally, 
 
     
 
-## Capturing Surface Coverage Effects in Heterogeneous Catalysis   
+## Industrial Scale-Up Variability and Life Cycle Assessment of Microbial Fuel Cells   
 
-OpenAlex: https://openalex.org/W4404960710    
+OpenAlex: https://openalex.org/W4405218982    
 Open access: False
     
-[Alyssa J. R. Hensley](https://openalex.org/A5085072209), [Neeru Chaudhary](https://openalex.org/A5081708373), [Naseeha Cardwell](https://openalex.org/A5052632564), [Isaac G. Onyango](https://openalex.org/A5112852675), [Yong Wang](https://openalex.org/A5100424488), [Di Wu](https://openalex.org/A5088629135), [Jean‐Sabin McEwen](https://openalex.org/A5074645932), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c05086.
+[Harshit Mittal](https://openalex.org/A5063455322), No host. None(None)] 2024.https://doi.org/10.32388/4ynyhr.
+    
+In the instantaneous global industrialisation, there has been an increase in the generalised waste, one of the major pollutants of wastewater. There should be advancements in the existing wastewater treatment technologies to cater for the current water demands. Wastewater treatment requires the oxidation and reduction of organic and drug molecules. Conventional wastewater technologies are expensive for such degradation, and the treatment efficiency is inadequate per the current demands. Hence microbial fuel cells, which are affordable, multi-applicability systems, should be considered for wastewater treatment technologies. This study analyses various country- and industry-wise wastewater production to demonstrate microbial fuel cell treatment technology requirements. According to the Sustainable Development Goals (SDG), this review also thoroughly discusses the Life Cycle Assessment of various types of Microbial Fuel Cells in order to observe which microbial fuel cells could be applied for different levels of wastewater accumulated geologically as well as industrially. For a thorough treatment of wastewater through MFCs, the review also economically analysed the microbial fuel cells both component-wise and unit-wise, especially towards scale-up. A comprehensive socioeconomic and technological perspective has also been portrayed in order to showcase the need to transition from conventional wastewater treatment technologies towards microbial fuel cells.    
+
+    
+
+## Optimization of Pt/C Catalysts Synthesized Via Ethylene Glycol Reduction: Effects of Complexing Agents on Orr Activity and Stability   
+
+OpenAlex: https://openalex.org/W4405219679    
+Open access: False
+    
+[Lu Jia](https://openalex.org/A5046320247), [Zeyu Huang](https://openalex.org/A5101432063), [Jianyin Xu](https://openalex.org/A5071299775), [Jinfeng Wu](https://openalex.org/A5055872395), [Liuwei Zhan](https://openalex.org/A5031560212), [Haifeng Wang](https://openalex.org/A5100386415), [Zonghua Wang](https://openalex.org/A5101519400), [Lu Zhou](https://openalex.org/A5006508633), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.5051189.
     
 No abstract    
 
@@ -696,16 +619,5 @@ Open access: False
 [Víctor M. Alvarado](https://openalex.org/A5049423330), [Guadalupe López López](https://openalex.org/A5001725991), Elsevier eBooks. None(None)] 2024.https://doi.org/10.1016/b978-0-443-15740-0.00146-4.
     
 No abstract    
-
-    
-
-## Data efficiency of classification strategies for chemical and materials design   
-
-OpenAlex: https://openalex.org/W4404961437    
-Open access: True
-    
-[Quinn Gallagher](https://openalex.org/A5106347725), [Michael Webb](https://openalex.org/A5072988684), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00298a.
-    
-We benchmark the performance of space-filling and active learning algorithms on classification problems in materials science, revealing trends in optimally data-efficient algorithms.    
 
     
