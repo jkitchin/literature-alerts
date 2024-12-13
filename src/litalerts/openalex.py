@@ -28,9 +28,15 @@ def run_query(topic, since):
 
         next_cursor = '*'
         while next_cursor:
-            data = requests.get(API, params={'api_key': API_KEY,
+            resp = requests.get(API, params={'api_key': API_KEY,
                                              'cursor': next_cursor,
-                                             'filter': _filter}).json()
+                                             'filter': _filter})
+            if resp.status_code == 200:
+                data = resp.json()
+            else:
+                print(resp.text)
+                raise Exception
+            
             next_cursor = data['meta']['next_cursor']
             results += data['results']
 
