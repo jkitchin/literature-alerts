@@ -11,11 +11,13 @@ from yaml import load, Loader
 import os
 import requests
 from nameparser import HumanName
+from retry import retry
+
 from .openalex import get_abstract, run_query
 
 load_dotenv()
 
-
+@retry(tries=3, delay=1, backoff=2)
 def write_zotero_results(zot, results, today, tags=()):
     """Write results to a Zotero library.
     zot : an instance of zotero.Zotero

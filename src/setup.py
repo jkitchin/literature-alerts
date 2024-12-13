@@ -14,7 +14,8 @@ setup(
         'beautifulsoup4',
         'pyzotero',
         'nameparser',
-        'discord.py'
+        'discord.py',
+        'retry'
     ],
     entry_points={
         'console_scripts': [
