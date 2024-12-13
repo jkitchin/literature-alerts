@@ -2,6 +2,7 @@
 
 """
 
+import pyzotero
 from pyzotero import zotero
 from dotenv import load_dotenv
 import click
