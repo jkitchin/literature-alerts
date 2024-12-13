@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Dec 2024 01:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 01:36:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Back cover</title>
-      <link>https://doi.org/10.1039/d4dd90052a</link>
-      <description>, Digital Discovery. 3(12)] 2024. https://openalex.org/W4405000977
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd90052a</guid>
-    </item>
-    <item>
-      <title>Front cover</title>
-      <link>https://doi.org/10.1039/d4dd90049a</link>
-      <description>, Digital Discovery. 3(12)] 2024. https://openalex.org/W4405001196
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd90049a</guid>
-    </item>
-    <item>
-      <title>Contents list</title>
-      <link>https://doi.org/10.1039/d4dd90051k</link>
-      <description>, Digital Discovery. 3(12)] 2024. https://openalex.org/W4405001228
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd90051k</guid>
-    </item>
-    <item>
-      <title>Inside front cover</title>
-      <link>https://doi.org/10.1039/d4dd90050b</link>
-      <description>, Digital Discovery. 3(12)] 2024. https://openalex.org/W4405001263
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd90050b</guid>
-    </item>
-    <item>
-      <title>Scientific Exploration with Expert Knowledge (SEEK) in Autonomous Scanning Probe Microscopy with Active Learning</title>
-      <link>https://doi.org/10.1039/d4dd00277f</link>
-      <description>Utkarsh Pratiush, Hiroshi Funakubo, Rama K. Vasudevan, Sergei V. Kalinin, Yongtao Liu, Digital Discovery. None(None)] 2024. https://openalex.org/W4405002930
-
-                Microscopy techniques have played vital roles in materials science, biology, and nanotechnology, offering high-resolution imaging and detailed insights into properties at nanoscale and atomic level. The automation of microscopy experiments,...</description>
-      <author>Utkarsh Pratiush, Hiroshi Funakubo, Rama K. Vasudevan, Sergei V. Kalinin, Yongtao Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00277f</guid>
-    </item>
-    <item>
-      <title>Visualizing High Entropy Alloy Spaces: Methods and Best Practices</title>
-      <link>https://doi.org/10.1039/d4dd00262h</link>
-      <description>Brent Vela, Trevor Hastings, Marshall Allen, Raymundo Arr&#243;yave, Digital Discovery. None(None)] 2024. https://openalex.org/W4405016183
-
-                Multi-Principal Element Alloys (MPEAs) have emerged as an exciting area of research in materials science in the 2020s, owing to the vast potential for discovering alloys with unique and tailored...</description>
-      <author>Brent Vela, Trevor Hastings, Marshall Allen, Raymundo Arr&#243;yave</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00262h</guid>
-    </item>
     <item>
       <title>Comprehensive sampling of coverage effects in catalysis by leveraging generalization in neural network models</title>
       <link>https://doi.org/10.1039/d4dd00328d</link>
@@ -96,6 +36,16 @@
       <author>Matthew Witman, Peter Schindler</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00250d</guid>
+    </item>
+    <item>
+      <title>Predicting Mechanical Properties of Non-Equimolar High-Entropy Carbides using Machine Learning</title>
+      <link>https://doi.org/10.1039/d4dd00243a</link>
+      <description>Xi Zhao, Shu-guang Cheng, S. F. Yu, Jiming Zheng, Ruizhi Zhang, Meng Guo, Digital Discovery. None(None)] 2024. https://openalex.org/W4405265950
+
+                High-entropy carbides (HECs) have garnered significant attention due to their unique mechanic properties. However, the design of novel HECs has been limited by extensive trial-and-error strategies, along with insufficient knowledge...</description>
+      <author>Xi Zhao, Shu-guang Cheng, S. F. Yu, Jiming Zheng, Ruizhi Zhang, Meng Guo</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00243a</guid>
     </item>
   </channel>
 </rss>

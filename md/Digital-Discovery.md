@@ -1,76 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Dec 12 01:27:43 2024
+Created on Fri Dec 13 01:36:48 2024
 
-Found 9 results from 2024-12-05 to 2024-12-12
+Found 4 results from 2024-12-06 to 2024-12-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Back cover   
-
-OpenAlex: https://openalex.org/W4405000977    
-Open access: True
-    
-, Digital Discovery. 3(12)] 2024.https://doi.org/10.1039/d4dd90052a.
-    
-No abstract    
-
-    
-
-## Front cover   
-
-OpenAlex: https://openalex.org/W4405001196    
-Open access: True
-    
-, Digital Discovery. 3(12)] 2024.https://doi.org/10.1039/d4dd90049a.
-    
-No abstract    
-
-    
-
-## Contents list   
-
-OpenAlex: https://openalex.org/W4405001228    
-Open access: True
-    
-, Digital Discovery. 3(12)] 2024.https://doi.org/10.1039/d4dd90051k.
-    
-No abstract    
-
-    
-
-## Inside front cover   
-
-OpenAlex: https://openalex.org/W4405001263    
-Open access: True
-    
-, Digital Discovery. 3(12)] 2024.https://doi.org/10.1039/d4dd90050b.
-    
-No abstract    
-
-    
-
-## Scientific Exploration with Expert Knowledge (SEEK) in Autonomous Scanning Probe Microscopy with Active Learning   
-
-OpenAlex: https://openalex.org/W4405002930    
-Open access: True
-    
-[Utkarsh Pratiush](https://openalex.org/A5072005600), [Hiroshi Funakubo](https://openalex.org/A5023888355), [Rama K. Vasudevan](https://openalex.org/A5001834469), [Sergei V. Kalinin](https://openalex.org/A5048552375), [Yongtao Liu](https://openalex.org/A5049206710), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00277f.
-    
-Microscopy techniques have played vital roles in materials science, biology, and nanotechnology, offering high-resolution imaging and detailed insights into properties at nanoscale and atomic level. The automation of microscopy experiments,...    
-
-    
-
-## Visualizing High Entropy Alloy Spaces: Methods and Best Practices   
-
-OpenAlex: https://openalex.org/W4405016183    
-Open access: True
-    
-[Brent Vela](https://openalex.org/A5013212032), [Trevor Hastings](https://openalex.org/A5104323768), [Marshall Allen](https://openalex.org/A5003830282), [Raymundo Arróyave](https://openalex.org/A5055147706), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00262h.
-    
-Multi-Principal Element Alloys (MPEAs) have emerged as an exciting area of research in materials science in the 2020s, owing to the vast potential for discovering alloys with unique and tailored...    
-
-    
 
 ## Comprehensive sampling of coverage effects in catalysis by leveraging generalization in neural network models   
 
@@ -102,5 +36,16 @@ Open access: True
 [Matthew Witman](https://openalex.org/A5088012345), [Peter Schindler](https://openalex.org/A5057535114), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00250d.
     
 Machine learning (ML) models in the materials sciences that are validated by overly simplistic cross-validation (CV) protocols can yield biased performance estimates for downstream modeling or materials screening tasks. This...    
+
+    
+
+## Predicting Mechanical Properties of Non-Equimolar High-Entropy Carbides using Machine Learning   
+
+OpenAlex: https://openalex.org/W4405265950    
+Open access: True
+    
+[Xi Zhao](https://openalex.org/A5101923266), [Shu-guang Cheng](https://openalex.org/A5028467187), [S. F. Yu](https://openalex.org/A5004103997), [Jiming Zheng](https://openalex.org/A5102804581), [Ruizhi Zhang](https://openalex.org/A5079796208), [Meng Guo](https://openalex.org/A5039743277), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00243a.
+    
+High-entropy carbides (HECs) have garnered significant attention due to their unique mechanic properties. However, the design of novel HECs has been limited by extensive trial-and-error strategies, along with insufficient knowledge...    
 
     
