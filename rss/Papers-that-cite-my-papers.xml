@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Dec 2024 01:36:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:25:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Species mass transfer governs the selectivity of gas diffusion electrodes toward H2O2 electrosynthesis</title>
-      <link>https://doi.org/10.1038/s41467-024-55091-3</link>
-      <description>Lele Cui, &#1041;&#1080;&#1085; &#1063;&#1101;&#1085;, Dongxu Chen, Chen He, Yi Liu, Hongyi Zhang, Jian Qiu, Le Liu, Wenheng Jing, Zhenghua Zhang, Nature Communications. 15(1)] 2024. https://openalex.org/W4405035184
-
-                The meticulous design of advanced electrocatalysts and their integration into gas diffusion electrode (GDE) architectures is emerging as a prominent research paradigm in the H2O2 electrosynthesis community. However, it remains perplexing that electrocatalysts and assembled GDE frequently exhibit substantial discrepancies in H2O2 selectivity during bulk electrolysis. Here, we elucidate the pivotal role of mass transfer behavior of key species (including reactants and products) beyond the intrinsic properties of the electrocatalyst in dictating electrode-scale H2O2 selectivity. This tendency becomes more pronounced in high reaction rate (current density) regimes where transport limitations are intensified. By utilizing diffusion-related parameters (DRP) of GDEs (i.e., wettability and catalyst layer thickness) as probe factors, we employ both short- and long-term electrolysis in conjunction with in-situ electrochemical reflection-absorption imaging and theoretical calculations to thoroughly investigate the impact of DRP and DRP-controlled local microenvironments on O2 and H2O2 mass transfer. The mechanistic origins of diffusion-dependent conversion selectivity at the electrode scale are unveiled accordingly. The fundamental insights gained from this study underscore the necessity of architectural innovations for mainstream hydrophobic GDEs that can synchronously optimize mass transfer of reactants and products, paving the way for next-generation GDEs in gas-consuming electroreduction scenarios. Electrocatalysts and assembled gas diffusion electrodes frequently exhibit discrepancies in selectivity during H2O2 electrosynthesis. Here, the authors report the pivotal role of key species transport beyond the intrinsic properties of electrocatalysts in dictating electrode-scale H2O2 selectivity.</description>
-      <author>Lele Cui, &#1041;&#1080;&#1085; &#1063;&#1101;&#1085;, Dongxu Chen, Chen He, Yi Liu, Hongyi Zhang, Jian Qiu, Le Liu, Wenheng Jing, Zhenghua Zhang</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-55091-3</guid>
-    </item>
-    <item>
-      <title>Promoting Heptazine-Based Graphitic Carbon Nitride Photocatalytic Overall Water Splitting by Effectively Assembling Double-Unit Polymers</title>
-      <link>https://doi.org/10.1021/acscatal.4c05801</link>
-      <description>Ruilin Guan, Anqi Shi, Xiuyun Zhang, Bing Wang, Yongtao Li, Xianghong Niu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405039581
-
-                No abstract</description>
-      <author>Ruilin Guan, Anqi Shi, Xiuyun Zhang, Bing Wang, Yongtao Li, Xianghong Niu</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05801</guid>
-    </item>
-    <item>
-      <title>Mechanically mixing copper and iron at subnanometric scale for catalyzing hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.actamat.2024.120630</link>
-      <description>Xin-Zhuo Hu, Chuanqi Cheng, Xin Ji, Yi Feng, Zhe Li, Ling-Kun Meng, Wenjing Kang, Hui Liu, Pengfei Yin, Rui Zhang, Lei Cui, Xi&#8208;Wen Du, Acta Materialia. None(None)] 2024. https://openalex.org/W4405040387
-
-                No abstract</description>
-      <author>Xin-Zhuo Hu, Chuanqi Cheng, Xin Ji, Yi Feng, Zhe Li, Ling-Kun Meng, Wenjing Kang, Hui Liu, Pengfei Yin, Rui Zhang, Lei Cui, Xi&#8208;Wen Du</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120630</guid>
-    </item>
-    <item>
-      <title>Atomically Engineering TiN Surfaces with Single-Atom Catalysts for Targeted Nitrate Electroreduction</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105564</link>
-      <description>Guoning Feng, Yujie Sun, Jing Wang, Zhiwei Wang, Xin Chen, Rongjian Sa, Qinye Li, Chenghua Sun, Zuju Ma, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4405040708
-
-                No abstract</description>
-      <author>Guoning Feng, Yujie Sun, Jing Wang, Zhiwei Wang, Xin Chen, Rongjian Sa, Qinye Li, Chenghua Sun, Zuju Ma</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105564</guid>
-    </item>
-    <item>
-      <title>Functional group combination synergistically regulates the selectivity of 2/4e-ORR in carbon catalysts</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145484</link>
-      <description>Yuhui Wang, Tong Zhang, Yong Huang, Shaonan Gu, Shu Zhang, Zhi Wang, Junhao Liu, Xuzhong Gong, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405046095
-
-                No abstract</description>
-      <author>Yuhui Wang, Tong Zhang, Yong Huang, Shaonan Gu, Shu Zhang, Zhi Wang, Junhao Liu, Xuzhong Gong</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145484</guid>
-    </item>
-    <item>
-      <title>Accelerating CALPHAD-Based Phase Diagram Predictions in Complex Alloys Using Universal Machine Learning Potentials: Opportunities and Challenges</title>
-      <link>https://doi.org/10.2139/ssrn.5043251</link>
-      <description>Siya Zhu, Do&#287;uhan Sar&#305;t&#252;rk, Raymundo Arr&#243;yave, No host. None(None)] 2024. https://openalex.org/W4405057972
-
-                No abstract</description>
-      <author>Siya Zhu, Do&#287;uhan Sar&#305;t&#252;rk, Raymundo Arr&#243;yave</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5043251</guid>
-    </item>
-    <item>
-      <title>Modeling and Simulation of Electric&#8211;Hydrogen Coupled Integrated Energy System Considering the Integration of Wind&#8211;PV&#8211;Diesel&#8211;Storage</title>
-      <link>https://doi.org/10.3390/modelling5040101</link>
-      <description>Shuguang Zhao, Yuqiang Han, Qicheng Xu, Ziping Wang, Yinghao Shan, Modelling&#8212;International Open Access Journal of Modelling in Engineering Science. 5(4)] 2024. https://openalex.org/W4405071782
-
-                Hydrogen energy plays an increasingly vital role in global energy transformation. However, existing electric&#8211;hydrogen coupled integrated energy systems (IESs) face two main challenges: achieving stable operation when integrated with large-scale networks and integrating optimal dispatching code with physical systems. This paper conducted comprehensive modeling, optimization and joint simulation verification of the above IES. Firstly, a low-carbon economic dispatching model of an electric&#8211;hydrogen coupled IES considering carbon capture power plants is established at the optimization layer. Secondly, by organizing and selecting representative data in the optimal dispatch model, an electric&#8211;hydrogen coupled IES planning model considering the integration of wind, photovoltaic (PV), diesel and storage is constructed at the physical layer. The proposed electric&#8211;hydrogen coupling model mainly consists of the following components: an alkaline electrolyzer, a high-pressure hydrogen storage tank with a compressor and a proton exchange membrane fuel cell. The IES model proposed in this paper achieved the integration of optimal dispatching mode with physical systems. The system can maintain stable control and operation despite unpredictable changes in renewable energy sources, showing strong resilience and reliability. This electric&#8211;hydrogen coupling model also can integrate with large-scale IES for stable joint operation, enhancing renewable energy utilization and absorption of PV and wind power. Co-simulation verification showed that the optimized model has achieved a 29.42% reduction in total system cost and an 83.66% decrease in carbon emissions. Meanwhile, the simulation model proved that the system&#8217;s total harmonic distortion rate is controlled below 3% in both grid-connected and islanded modes, indicating good power quality.</description>
-      <author>Shuguang Zhao, Yuqiang Han, Qicheng Xu, Ziping Wang, Yinghao Shan</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/modelling5040101</guid>
-    </item>
-    <item>
-      <title>Metal-Independent Correlations for Site-Specific Binding Energies of Relevant Catalytic Intermediates</title>
-      <link>https://doi.org/10.1021/jacsau.4c00759</link>
-      <description>Shyama Charan Mandal, Frank Abild&#8208;Pedersen, JACS Au. None(None)] 2024. https://openalex.org/W4405075971
-
-                Establishing energy correlations among different metals can accelerate the discovery of efficient and cost-effective catalysts for complex reactions. Using a recently introduced coordination-based model, we can predict site-specific metal binding energies (&#916;EM) that can be used as a descriptor for chemical reactions. In this study, we have examined a range of metals including Ag, Au, Co, Cu, Ir, Ni, Os, Pd, Pt, Rh, and Ru and found linear correlations between predicted &#916;EM and adsorption energies of CH and O (&#916;ECH and &#916;EO) at various coordination environments for all the considered metals. Interestingly, all the metals correlate with one another under specific surface site coordination, indicating that different metals are interrelated in a particular coordination environment. Furthermore, we have tested and verified for PtPd- and PtIr-based alloys that they follow a similar behavior. Moreover, we have expanded the metal space by taking some early transition metals along with a few s-block metals and shown a cyclic behavior of the adsorbate binding energy (&#916;EA) versus &#916;EM. Therefore, &#916;ECH and &#916;EO can be efficiently interpolated between metals, alloys, and intermetallics based on information related to one metal only. This simplifies the process of screening new metal catalyst formulations and their reaction energies.</description>
-      <author>Shyama Charan Mandal, Frank Abild&#8208;Pedersen</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.4c00759</guid>
-    </item>
-    <item>
-      <title>Study of Cathode Materials for Na-Ion Batteries: Comparison Between Machine Learning Predictions and Density Functional Theory Calculations</title>
-      <link>https://doi.org/10.3390/batteries10120431</link>
-      <description>Claudio Ronchetti, Sara Marchio, Francesco Buonocore, Simone Giusepponi, Sergio Ferlito, Massimo Celino, Batteries. 10(12)] 2024. https://openalex.org/W4405079572
-
-                Energy storage technologies have experienced significant advancements in recent decades, driven by the growing demand for efficient and sustainable energy solutions. The limitations associated with lithium&#8217;s supply chain, cost, and safety concerns have prompted the exploration of alternative battery chemistries. For this reason, research to replace widespread lithium batteries with sodium-ion batteries has received more and more attention. In the present work, we report cutting-edge research, where we explored a wide range of compositions of cathode materials for Na-ion batteries by first-principles calculations using workflow chains developed within the AiiDA framework. We trained crystal graph convolutional neural networks and geometric crystal graph neural networks, and we demonstrate the ability of the machine learning algorithms to predict the formation energy of the candidate materials as calculated by the density functional theory. This materials discovery approach is disruptive and significantly faster than traditional physics-based computational methods.</description>
-      <author>Claudio Ronchetti, Sara Marchio, Francesco Buonocore, Simone Giusepponi, Sergio Ferlito, Massimo Celino</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/batteries10120431</guid>
-    </item>
-    <item>
-      <title>Valorization of lignocellulosic biomass forest residues in quebec via the integrated hydropyrolysis and hydroconversion (IH2) technology: A review</title>
-      <link>https://doi.org/10.1016/j.biombioe.2024.107516</link>
-      <description>A. Velumani Ganesan, Olivier Rezazgui, Jimmy Barco Burgos, Patrice Mangin, Simon Barnab&#233;, Biomass and Bioenergy. 193(None)] 2024. https://openalex.org/W4405088477
-
-                No abstract</description>
-      <author>A. Velumani Ganesan, Olivier Rezazgui, Jimmy Barco Burgos, Patrice Mangin, Simon Barnab&#233;</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.biombioe.2024.107516</guid>
-    </item>
     <item>
       <title>Atomically Dispersed Metal Site Materials for Hydrogen Energy Utilization: Theoretical and Experimental Study in Fuel Cells and Water Electrolysis</title>
       <link>https://doi.org/10.1016/j.decarb.2024.100091</link>
@@ -488,6 +388,16 @@
       <guid isPermaLink="true">https://doi.org/10.1063/5.0239452</guid>
     </item>
     <item>
+      <title>Recent Advances in Machine Learning&#8208;Assisted Multiscale Design of Energy Materials</title>
+      <link>https://doi.org/10.1002/aenm.202403876</link>
+      <description>Bohayra Mortazavi, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4405257673
+
+                Abstract This review highlights recent advances in machine learning (ML)&#8208;assisted design of energy materials. Initially, ML algorithms were successfully applied to screen materials databases by establishing complex relationships between atomic structures and their resulting properties, thus accelerating the identification of candidates with desirable properties. Recently, the development of highly accurate ML interatomic potentials and generative models has not only improved the robust prediction of physical properties, but also significantly accelerated the discovery of materials. In the past couple of years, ML methods have enabled high&#8208;precision first&#8208;principles predictions of electronic and optical properties for large systems, providing unprecedented opportunities in materials science. Furthermore, ML&#8208;assisted microstructure reconstruction and physics&#8208;informed solutions for partial differential equations have facilitated the understanding of microstructure&#8211;property relationships. Most recently, the seamless integration of various ML platforms has led to the emergence of autonomous laboratories that combine quantum mechanical calculations, large language models, and experimental validations, fundamentally transforming the traditional approach to novel materials synthesis. While highlighting the aforementioned recent advances, existing challenges are also discussed. Ultimately, ML is expected to fully integrate atomic&#8208;scale simulations, reverse engineering, process optimization, and device fabrication, empowering autonomous and generative energy system design. This will drive transformative innovations in energy conversion, storage, and harvesting technologies.</description>
+      <author>Bohayra Mortazavi</author>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403876</guid>
+    </item>
+    <item>
       <title>Coaxial Metal&#8208;Nitrogen&#8211;Carbon Single&#8208;Atom Catalysts Boost Acid Hydrogen Peroxide Production</title>
       <link>https://doi.org/10.1002/adfm.202419220</link>
       <description>Hongshang Hu, Chang Zhang, Shiyuan Liu, Hangyu Qi, Haoyu Wang, Xinyu Wang, Lilong Zhang, Lei Liu, Lipiao Bao, Muneerah Alomar, Jian Zhang, Xing L&#252;, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4405258100
@@ -506,6 +416,96 @@
       <author>Hamid Ali, Yasin Orooji, Zeeshan Ajmal, Mohamed Abboud, Ahmed M. Abu&#8208;Dief, Khulood A. Abu Al&#8208;Ola, Hassan M.A. Hassan, Dewu Yue, Shengrong Guo, Asif Hayat</author>
       <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216353</guid>
+    </item>
+    <item>
+      <title>Alkene Epoxidation and Oxygen Evolution Reactions Compete for Reactive Surface Oxygen Atoms on Gold Anodes</title>
+      <link>https://doi.org/10.1021/jacs.4c08948</link>
+      <description>Richa Ghosh, Geoffrey M. Hopping, Jiong Lu, Drew W. Hollyfield, David W. Flaherty, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405274268
+
+                Rates and selectivities for the partial oxidation of organic molecules on reactive electrodes depend on the identity and prevalence of reactive and spectator species. Here, we investigate the mechanism for the epoxidation of 1-hexene (C</description>
+      <author>Richa Ghosh, Geoffrey M. Hopping, Jiong Lu, Drew W. Hollyfield, David W. Flaherty</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08948</guid>
+    </item>
+    <item>
+      <title>In Situ Polymerization Electrospinning of Amine&#8211;Epoxy/Poly(vinyl alcohol) Nanofiber Webs for Direct CO&lt;sub&gt;2&lt;/sub&gt; Capture from the Air</title>
+      <link>https://doi.org/10.1021/acsomega.4c07631</link>
+      <description>Chisato Okada, Zongzi Hou, Hiroaki Imoto, Kensuke Naka, Takeshi Kikutani, Midori Takasaki, ACS Omega. None(None)] 2024. https://openalex.org/W4405277088
+
+                No abstract</description>
+      <author>Chisato Okada, Zongzi Hou, Hiroaki Imoto, Kensuke Naka, Takeshi Kikutani, Midori Takasaki</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c07631</guid>
+    </item>
+    <item>
+      <title>Beyond conventional structures: emerging complex metal oxides for efficient oxygen and hydrogen electrocatalysis</title>
+      <link>https://doi.org/10.1039/d3cs01020a</link>
+      <description>Yinlong Zhu, Zheng Tang, Ling Yuan, Bowen Li, Zongping Shao, Wanlin Guo, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4405281726
+
+                The core of clean energy technologies such as fuel cells, water electrolyzers, and metal-air batteries depends on a series of oxygen and hydrogen-based electrocatalysis reactions, including the oxygen reduction reaction (ORR), oxygen evolution reaction (OER) and hydrogen evolution reaction (HER), which necessitate cost-effective electrocatalysts to improve their energy efficiency. In the recent decade, complex metal oxides (beyond simple transition metal oxides, spinel oxides and ABO</description>
+      <author>Yinlong Zhu, Zheng Tang, Ling Yuan, Bowen Li, Zongping Shao, Wanlin Guo</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cs01020a</guid>
+    </item>
+    <item>
+      <title>Interpretable machine learning for chiral induced symmetry breaking of spin density boosting hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.11.066</link>
+      <description>Xin Song, Zhonghua Li, Sheng Li, Yang Liu, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4405283541
+
+                No abstract</description>
+      <author>Xin Song, Zhonghua Li, Sheng Li, Yang Liu</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.11.066</guid>
+    </item>
+    <item>
+      <title>Bridging the scales within transport-coupled kinetic models for heterogeneous electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.coelec.2024.101631</link>
+      <description>Hemanth Somarajan Pillai, Hendrik H. Heenen, Karsten Reuter, Vanessa J. Bukas, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4405286845
+
+                No abstract</description>
+      <author>Hemanth Somarajan Pillai, Hendrik H. Heenen, Karsten Reuter, Vanessa J. Bukas</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101631</guid>
+    </item>
+    <item>
+      <title>Bismuth mediated tuning of electronic structure and enhanced adhesion in molybdenum based bifunctional catalysts for efficient water splitting</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.131037</link>
+      <description>Junzi Huang, Weitao Han, Li Liang, Bingbing Gong, Lin He, Wei Peng, Yahong Xie, Yi Zhang, Zhiyu Wang, Ying Qi, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405286921
+
+                No abstract</description>
+      <author>Junzi Huang, Weitao Han, Li Liang, Bingbing Gong, Lin He, Wei Peng, Yahong Xie, Yi Zhang, Zhiyu Wang, Ying Qi</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131037</guid>
+    </item>
+    <item>
+      <title>Theoretical Design of Dual-Site Metallo-Covalent Organic Frameworks for Efficient CO2 Photoreduction into C2H4</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124933</link>
+      <description>K.M Chen, Wei Wang, Yuqi Dong, Zhihao Zhao, Ying Zang, Guiling Zhang, Yang Liu, Fengming Zhang, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4405287328
+
+                No abstract</description>
+      <author>K.M Chen, Wei Wang, Yuqi Dong, Zhihao Zhao, Ying Zang, Guiling Zhang, Yang Liu, Fengming Zhang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124933</guid>
+    </item>
+    <item>
+      <title>Lewis Acid-Mediated Interfacial Water Supply for Sustainable Proton Exchange Membrane Water Electrolysis</title>
+      <link>https://doi.org/10.1021/jacs.4c14529</link>
+      <description>Liming Deng, Hongjun Chen, Sung&#8208;Fu Hung, Ying Zhang, Hanzhi Yu, Han&#8208;Yi Chen, Linlin Li, Shengjie Peng, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405275902
+
+                The catalyst-electrolyte interface plays a crucial role in proton exchange membrane water electrolysis (PEMWE). However, optimizing the interfacial hydrogen bonding to enhance both catalytic activity and stability remains a significant challenge. Here, a novel catalyst design strategy is proposed based on the hard-soft acid-base principle, employing hard Lewis acids (LAs = ZrO</description>
+      <author>Liming Deng, Hongjun Chen, Sung&#8208;Fu Hung, Ying Zhang, Hanzhi Yu, Han&#8208;Yi Chen, Linlin Li, Shengjie Peng</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c14529</guid>
+    </item>
+    <item>
+      <title>Polyoxometalates based transition metal sulfide composites for hydrodesulfurization and hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.048</link>
+      <description>Ghulam Murtaza, Tayyaba Najam, Naseem Ahmad Khan, Muhammad Sher, Muhammad Kashif Aslam, Ibrahim A. Shaaban, Muhammad Altaf Nazir, Manzar Sohail, Syed Shoaib Ahmad Shah, International Journal of Hydrogen Energy. 98(None)] 2024. https://openalex.org/W4405285487
+
+                No abstract</description>
+      <author>Ghulam Murtaza, Tayyaba Najam, Naseem Ahmad Khan, Muhammad Sher, Muhammad Kashif Aslam, Ibrahim A. Shaaban, Muhammad Altaf Nazir, Manzar Sohail, Syed Shoaib Ahmad Shah</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.048</guid>
     </item>
     <item>
       <title>6&#8211;16 Membrane Enhanced Reactors for Methanol Reforming to Hydrogen</title>

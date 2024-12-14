@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Dec 2024 01:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:25:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Promoting Heptazine-Based Graphitic Carbon Nitride Photocatalytic Overall Water Splitting by Effectively Assembling Double-Unit Polymers</title>
-      <link>https://doi.org/10.1021/acscatal.4c05801</link>
-      <description>Ruilin Guan, Anqi Shi, Xiuyun Zhang, Bing Wang, Yongtao Li, Xianghong Niu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405039581
-
-                No abstract</description>
-      <author>Ruilin Guan, Anqi Shi, Xiuyun Zhang, Bing Wang, Yongtao Li, Xianghong Niu</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05801</guid>
-    </item>
-    <item>
-      <title>Correction to &#8220;Influence of Carbon Support on the Pyrolysis of Cobalt Phthalocyanine for the Efficient Electroreduction of CO&lt;sub&gt;2&lt;/sub&gt;&#8221;</title>
-      <link>https://doi.org/10.1021/acscatal.4c07096</link>
-      <description>Johan Hamonnet, Michael S. Bennington, Bernt Johannessen, Jessica L. Hamilton, Paula A. Brooksby, Sally Brooker, Vladimir B. Golovko, Aaron T. Marshall, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405054009
-
-                No abstract</description>
-      <author>Johan Hamonnet, Michael S. Bennington, Bernt Johannessen, Jessica L. Hamilton, Paula A. Brooksby, Sally Brooker, Vladimir B. Golovko, Aaron T. Marshall</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07096</guid>
-    </item>
-    <item>
-      <title>Automated Exploration of Heterogeneous Catalysis with a Gas&#8211;Solid Nanoreactor</title>
-      <link>https://doi.org/10.1021/acscatal.4c06026</link>
-      <description>Jiawei Bai, Xingchen Liu, Tingyu Lei, Yuwei Zhou, Wenping Guo, Dennis R. Salahub, Xiaodong Wen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405055249
-
-                We present an automated method, gas&#8211;solid nanoreactor molecular dynamics (GS-NMD), designed to explore reaction space and construct reaction networks for complex gas&#8211;solid heterogeneous catalysis systems by integrating multiple acceleration techniques. Periodic pulses were used to drive gas-phase molecules toward the catalyst surface, accelerating adsorption and Eley&#8211;Rideal reactions. Adsorbed species were then subjected to metadynamics to overcome reaction barriers associated with migration, Langmuir&#8211;Hinshelwood-type reactions, and desorption, using the root-mean-square deviations in Cartesian space as collective variables. We demonstrate the efficiency of GS-NMD with the case of N2 dissociation on Fe surfaces, showing its ability to effectively screen for low-barrier reactions within a vast reaction space and distinct catalysts of different performances. Additionally, we illustrate the method's utility in constructing effective reaction networks for heterogeneous catalysis, exemplified by ammonia synthesis, which comprises only low-barrier elementary steps. These results suggest that GS-NMD is a promising and efficient tool for the automated exploration of heterogeneous catalysis, enabling the identification of the most favorable mechanisms and active sites for gas&#8211;solid reactions.</description>
-      <author>Jiawei Bai, Xingchen Liu, Tingyu Lei, Yuwei Zhou, Wenping Guo, Dennis R. Salahub, Xiaodong Wen</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06026</guid>
-    </item>
-    <item>
-      <title>How Do Variants of Residues in the First Coordination Sphere, Second Coordination Sphere, and Remote Areas Influence the Catalytic Mechanism of Non-Heme Fe(II)/2-Oxoglutarate Dependent Ethylene-Forming Enzyme?</title>
-      <link>https://doi.org/10.1021/acscatal.4c04010</link>
-      <description>Midhun George Thomas, Simahudeen Bathir Jaber Sathik Rifayee, Christo Christov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405057265
-
-                No abstract</description>
-      <author>Midhun George Thomas, Simahudeen Bathir Jaber Sathik Rifayee, Christo Christov</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04010</guid>
-    </item>
-    <item>
-      <title>Highly Efficient Photocatalytic Divergent Decarbonylative Silylation with Cinnamaldehyde via a [Ru(dcbpy)(bpy)&lt;sub&gt;2&lt;/sub&gt;]&lt;sup&gt;2+&lt;/sup&gt;-Incorporated UiO-67 Framework</title>
-      <link>https://doi.org/10.1021/acscatal.4c05535</link>
-      <description>Huahui Wang, Bing-Bing Qin, Jiali Cai, Yun Wu, Cong Zhao, Xiao&#8208;Yan Bai, Lu Chen, Yan&#8208;Zhong Fan, Min Zhang, Jiewei Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405075494
-
-                We herein develop an innovative approach for the decarbonylative silylation using a molecular [Ru(dcbpy)(bpy)2]2+ (dcbpy = 2,2&#8242;-bipyridyl-5,5&#8242;-dicarboxylic acid; bpy = 2,2&#8242;-bipyridine) incorporated UiO-67 metal&#8211;organic framework (MOFs) (denoted as UiO-67-Ru) as a powerful heterogeneous catalyst, which is then applied in the reaction of abundantly available cinnamaldehydes with silanes under photothermal condition. Mechanistic studies reveal that the silane can be absorbed and activated within the cavities of the framework, leading to the generation of a silyl radical. The silyl radical plays a key role in the decarbonylative silylation process and further goes through oxidative silylation with cinnamaldehydes to generate the corresponding alkenyl silanes. This work not only develops a strategy for the preparation of alkenyl silane from highly abundant cinnamaldehyde and silanes but also affords useful inspiration on the rational design of MOFs materials for the decarbonylative silylation.</description>
-      <author>Huahui Wang, Bing-Bing Qin, Jiali Cai, Yun Wu, Cong Zhao, Xiao&#8208;Yan Bai, Lu Chen, Yan&#8208;Zhong Fan, Min Zhang, Jiewei Liu</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05535</guid>
-    </item>
-    <item>
-      <title>Shallow Rate-Redox Potential Scaling in Aqueous Molecular Oxygen Reduction Electrocatalysis Across a Family of Iron Macrocycles</title>
-      <link>https://doi.org/10.1021/acscatal.4c06561</link>
-      <description>Travis Marshall-Roth, Liang Liu, Vennela Mannava, Deiaa M. Harraz, Brian J. Cook, R. Morris Bullock, Yogesh Surendranath, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405089233
-
-                Rate-overpotential scaling relationships have been employed widely to understand trends in oxygen reduction reaction (ORR) electrocatalysis by dissolved metal macrocycles in organic electrolytes. Similar scaling relationships remain unknown for surface-adsorbed ORR electrocatalysts in the acidic aqueous environments germane to proton-exchange membrane (PEM) fuel cells. Herein, we examine ORR catalysis in aqueous perchloric acid media for a structurally diverse array of iron macrocycle complexes adsorbed on Vulcan carbon black. The macrocycles encompass Fe&#8211;N4, Fe&#8211;N2N&#8242;2 and Fe&#8211;NxC4&#8211;x motifs bearing pyrrolic, pyridinic, and N-heterocyclic carbene (NHC) moieties in the primary ligation sphere, giving rise to a 670 mV range in Fe(III/II) redox potentials, EFe(III/II). Experimental Tafel data in the micropolarization regime were extrapolated to the EFe(III/II) to furnish estimated per-site-normalized current density (jper-site) values that span &#8764;4.6 orders of magnitude across the family of compounds. Despite the structural diversity of this family of compounds, extrapolated jper-site values correlate with the Fe(III/II) redox potentials in a roughly log-linear fashion with a shallow scaling factor of approximately 145 mV/decade. These findings highlight the phenomenology that negative shifts in EFe(III/II) track with diminishing returns in catalytic rate promotion, regardless of the exact ORR mechanism, and suggest that changes to the primary ligating environment in a macrocycle are insufficient to break fundamental rate-potential scaling relationships in aqueous ORR catalysis. Together these studies motivate the further development of higher-potential iron complexes that employ motifs beyond the equatorial ligation plane to enhance ORR catalysis.</description>
-      <author>Travis Marshall-Roth, Liang Liu, Vennela Mannava, Deiaa M. Harraz, Brian J. Cook, R. Morris Bullock, Yogesh Surendranath</author>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06561</guid>
-    </item>
-    <item>
-      <title>Single-Atom Catalyst Restructuring during Catalytic Reforming of CH&lt;sub&gt;4&lt;/sub&gt; by CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c05703</link>
-      <description>Yu Tang, Xupeng Zong, Luan Nguyen, Franklin Tao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405093687
-
-                No abstract</description>
-      <author>Yu Tang, Xupeng Zong, Luan Nguyen, Franklin Tao</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05703</guid>
-    </item>
     <item>
       <title>Ag-Regulated Interfacial Electron Transfer between TiO&lt;sub&gt;2&lt;/sub&gt; and MoS&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; for Enhanced H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
       <link>https://doi.org/10.1021/acscatal.4c05674</link>
@@ -276,6 +206,76 @@
       <author>Cheng Guo, Yunpeng Dong, Yi Wang, Xiaona Du, Runxia Ma, Choon&#8208;Hong Tan, Xinjun Luan, Jingyun Ren</author>
       <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06364</guid>
+    </item>
+    <item>
+      <title>Zwitterionic &#960;-Allyl-Pd Species Enabled [2&#963;+2&#960;] Cycloaddition Reactions of Vinylbicyclo[1.1.0]butanes (VBCBs) with Alkenes, Carbonyls, and Imines</title>
+      <link>https://doi.org/10.1021/acscatal.4c06660</link>
+      <description>Tianxiang Li, Sheng Wang, Jing Wang, Haosong Ren, Zhongren Lin, Zhenyue Li, Jun Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405273729
+
+                No abstract</description>
+      <author>Tianxiang Li, Sheng Wang, Jing Wang, Haosong Ren, Zhongren Lin, Zhenyue Li, Jun Zheng</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06660</guid>
+    </item>
+    <item>
+      <title>Oxygen Gas Nanovessel Promotes Hydrogen Peroxide Photosynthesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c05357</link>
+      <description>Junsheng He, Xiaoshan Zheng, Qunxing Huang, Zhenhua Pan, Chiheng Chu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405273771
+
+                No abstract</description>
+      <author>Junsheng He, Xiaoshan Zheng, Qunxing Huang, Zhenhua Pan, Chiheng Chu</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05357</guid>
+    </item>
+    <item>
+      <title>Characterization of VldE (Spr1875), a Pneumococcal Two-State &lt;scp&gt;l&lt;/scp&gt;,&lt;scp&gt;d&lt;/scp&gt;-Endopeptidase with a Four-Zinc Cluster in the Active Site</title>
+      <link>https://doi.org/10.1021/acscatal.4c05090</link>
+      <description>Vega Miguel-Ruano, Iv&#225;n Acebr&#243;n, Mijoon Lee, Antonio J. Mart&#237;n-Galiano, C&#233;line Freton, Ux&#237;a P. de Jos&#233;, Balajee Ramachandran, Federico Gago, Morten Kjos, Du&#353;an Hesek, Christophe Grangeasse, Leiv Sigve H&#229;varstein, Daniel Straume, Shahriar Mobashery, J.A. Hermoso, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405274852
+
+                No abstract</description>
+      <author>Vega Miguel-Ruano, Iv&#225;n Acebr&#243;n, Mijoon Lee, Antonio J. Mart&#237;n-Galiano, C&#233;line Freton, Ux&#237;a P. de Jos&#233;, Balajee Ramachandran, Federico Gago, Morten Kjos, Du&#353;an Hesek, Christophe Grangeasse, Leiv Sigve H&#229;varstein, Daniel Straume, Shahriar Mobashery, J.A. Hermoso</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05090</guid>
+    </item>
+    <item>
+      <title>Pd-Catalyzed C&#8211;H Activation vs &#946;-H Elimination: An Experimental and Computational Insight into the Reactivity of Tertiary Alkylamines</title>
+      <link>https://doi.org/10.1021/acscatal.4c06160</link>
+      <description>Jesus Rodrigalvarez, Matthew J. Gaunt, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405274965
+
+                No abstract</description>
+      <author>Jesus Rodrigalvarez, Matthew J. Gaunt</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06160</guid>
+    </item>
+    <item>
+      <title>Functional and Structural Analyses of a Highly Multifunctional Enzyme TM1270 from the Hyperthermophile &lt;i&gt;Thermotoga maritima&lt;/i&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c05275</link>
+      <description>Tetsuya Miyamoto, S. Nitta, Hiroshi Homma, Shinya Fushinobu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405276133
+
+                No abstract</description>
+      <author>Tetsuya Miyamoto, S. Nitta, Hiroshi Homma, Shinya Fushinobu</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05275</guid>
+    </item>
+    <item>
+      <title>Strong Photothermal Tandem Catalysis for CO&lt;sub&gt;2&lt;/sub&gt; Reduction to C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; Boosted by Zr&#8211;O&#8211;W Interfacial H&lt;sub&gt;2&lt;/sub&gt;O Dissociation</title>
+      <link>https://doi.org/10.1021/acscatal.4c06218</link>
+      <description>Ruoxuan Peng, Yuqi Ren, Yitao Si, Kai Huang, Jiancheng Zhou, Lunbo Duan, Naixu Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405302796
+
+                No abstract</description>
+      <author>Ruoxuan Peng, Yuqi Ren, Yitao Si, Kai Huang, Jiancheng Zhou, Lunbo Duan, Naixu Li</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06218</guid>
+    </item>
+    <item>
+      <title>Unlocking the Aromatic Cope Rearrangement with Gold(I) Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c06662</link>
+      <description>Pierre Locquet, R. Akilan, Raquel Pereira, Fabienne Grellepois, Jean&#8208;Marc Weibel, &#201;ric H&#233;non, Emmanuel Riguet, Aur&#233;lien Blanc, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405304851
+
+                No abstract</description>
+      <author>Pierre Locquet, R. Akilan, Raquel Pereira, Fabienne Grellepois, Jean&#8208;Marc Weibel, &#201;ric H&#233;non, Emmanuel Riguet, Aur&#233;lien Blanc</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06662</guid>
     </item>
   </channel>
 </rss>

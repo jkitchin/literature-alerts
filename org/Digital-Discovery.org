@@ -1,15 +1,15 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Dec 13 01:36:48 2024
+Created on Sat Dec 14 01:25:11 2024
 
-Found 4 results from 2024-12-06 to 2024-12-13
+Found 4 results from 2024-12-07 to 2024-12-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
 * Comprehensive sampling of coverage effects in catalysis by leveraging generalization in neural network models  :Digital_Discovery:
 :PROPERTIES:
 :UUID: https://openalex.org/W4405193217
-:TOPICS: Machine Learning in Materials Science, Catalysis and Oxidation Reactions, Catalytic Processes in Materials Science
+:TOPICS: Machine Learning in Materials Science, Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions
 :PUBLICATION_DATE: 2024-12-09
 :END:    
     

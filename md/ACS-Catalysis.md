@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Dec 13 01:36:45 2024
+Created on Sat Dec 14 01:25:09 2024
 
-Found 27 results from 2024-12-06 to 2024-12-13
+Found 27 results from 2024-12-07 to 2024-12-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Promoting Heptazine-Based Graphitic Carbon Nitride Photocatalytic Overall Water Splitting by Effectively Assembling Double-Unit Polymers   
-
-OpenAlex: https://openalex.org/W4405039581    
-Open access: False
-    
-[Ruilin Guan](https://openalex.org/A5016145553), [Anqi Shi](https://openalex.org/A5048714219), [Xiuyun Zhang](https://openalex.org/A5100744364), [Bing Wang](https://openalex.org/A5100382552), [Yongtao Li](https://openalex.org/A5100753077), [Xianghong Niu](https://openalex.org/A5045012383), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05801.
-    
-No abstract    
-
-    
-
-## Correction to “Influence of Carbon Support on the Pyrolysis of Cobalt Phthalocyanine for the Efficient Electroreduction of CO2”   
-
-OpenAlex: https://openalex.org/W4405054009    
-Open access: False
-    
-[Johan Hamonnet](https://openalex.org/A5026053485), [Michael S. Bennington](https://openalex.org/A5022266216), [Bernt Johannessen](https://openalex.org/A5042673824), [Jessica L. Hamilton](https://openalex.org/A5017012368), [Paula A. Brooksby](https://openalex.org/A5055664078), [Sally Brooker](https://openalex.org/A5011574979), [Vladimir B. Golovko](https://openalex.org/A5038674107), [Aaron T. Marshall](https://openalex.org/A5023646639), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07096.
-    
-No abstract    
-
-    
-
-## Automated Exploration of Heterogeneous Catalysis with a Gas–Solid Nanoreactor   
-
-OpenAlex: https://openalex.org/W4405055249    
-Open access: False
-    
-[Jiawei Bai](https://openalex.org/A5110388865), [Xingchen Liu](https://openalex.org/A5100644714), [Tingyu Lei](https://openalex.org/A5080670426), [Yuwei Zhou](https://openalex.org/A5072985266), [Wenping Guo](https://openalex.org/A5103793376), [Dennis R. Salahub](https://openalex.org/A5080199946), [Xiaodong Wen](https://openalex.org/A5047313833), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06026.
-    
-We present an automated method, gas–solid nanoreactor molecular dynamics (GS-NMD), designed to explore reaction space and construct reaction networks for complex gas–solid heterogeneous catalysis systems by integrating multiple acceleration techniques. Periodic pulses were used to drive gas-phase molecules toward the catalyst surface, accelerating adsorption and Eley–Rideal reactions. Adsorbed species were then subjected to metadynamics to overcome reaction barriers associated with migration, Langmuir–Hinshelwood-type reactions, and desorption, using the root-mean-square deviations in Cartesian space as collective variables. We demonstrate the efficiency of GS-NMD with the case of N2 dissociation on Fe surfaces, showing its ability to effectively screen for low-barrier reactions within a vast reaction space and distinct catalysts of different performances. Additionally, we illustrate the method's utility in constructing effective reaction networks for heterogeneous catalysis, exemplified by ammonia synthesis, which comprises only low-barrier elementary steps. These results suggest that GS-NMD is a promising and efficient tool for the automated exploration of heterogeneous catalysis, enabling the identification of the most favorable mechanisms and active sites for gas–solid reactions.    
-
-    
-
-## How Do Variants of Residues in the First Coordination Sphere, Second Coordination Sphere, and Remote Areas Influence the Catalytic Mechanism of Non-Heme Fe(II)/2-Oxoglutarate Dependent Ethylene-Forming Enzyme?   
-
-OpenAlex: https://openalex.org/W4405057265    
-Open access: False
-    
-[Midhun George Thomas](https://openalex.org/A5026364332), [Simahudeen Bathir Jaber Sathik Rifayee](https://openalex.org/A5038449861), [Christo Christov](https://openalex.org/A5057631651), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04010.
-    
-No abstract    
-
-    
-
-## Highly Efficient Photocatalytic Divergent Decarbonylative Silylation with Cinnamaldehyde via a [Ru(dcbpy)(bpy)2]2+-Incorporated UiO-67 Framework   
-
-OpenAlex: https://openalex.org/W4405075494    
-Open access: False
-    
-[Huahui Wang](https://openalex.org/A5084159924), [Bing-Bing Qin](https://openalex.org/A5111065243), [Jiali Cai](https://openalex.org/A5075973287), [Yun Wu](https://openalex.org/A5101472686), [Cong Zhao](https://openalex.org/A5019750202), [Xiao‐Yan Bai](https://openalex.org/A5112747003), [Lu Chen](https://openalex.org/A5100432107), [Yan‐Zhong Fan](https://openalex.org/A5072124977), [Min Zhang](https://openalex.org/A5100402936), [Jiewei Liu](https://openalex.org/A5010238813), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05535.
-    
-We herein develop an innovative approach for the decarbonylative silylation using a molecular [Ru(dcbpy)(bpy)2]2+ (dcbpy = 2,2′-bipyridyl-5,5′-dicarboxylic acid; bpy = 2,2′-bipyridine) incorporated UiO-67 metal–organic framework (MOFs) (denoted as UiO-67-Ru) as a powerful heterogeneous catalyst, which is then applied in the reaction of abundantly available cinnamaldehydes with silanes under photothermal condition. Mechanistic studies reveal that the silane can be absorbed and activated within the cavities of the framework, leading to the generation of a silyl radical. The silyl radical plays a key role in the decarbonylative silylation process and further goes through oxidative silylation with cinnamaldehydes to generate the corresponding alkenyl silanes. This work not only develops a strategy for the preparation of alkenyl silane from highly abundant cinnamaldehyde and silanes but also affords useful inspiration on the rational design of MOFs materials for the decarbonylative silylation.    
-
-    
-
-## Shallow Rate-Redox Potential Scaling in Aqueous Molecular Oxygen Reduction Electrocatalysis Across a Family of Iron Macrocycles   
-
-OpenAlex: https://openalex.org/W4405089233    
-Open access: False
-    
-[Travis Marshall-Roth](https://openalex.org/A5065288721), [Liang Liu](https://openalex.org/A5054906524), [Vennela Mannava](https://openalex.org/A5083980714), [Deiaa M. Harraz](https://openalex.org/A5022499260), [Brian J. Cook](https://openalex.org/A5101856406), [R. Morris Bullock](https://openalex.org/A5022980951), [Yogesh Surendranath](https://openalex.org/A5021899292), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06561.
-    
-Rate-overpotential scaling relationships have been employed widely to understand trends in oxygen reduction reaction (ORR) electrocatalysis by dissolved metal macrocycles in organic electrolytes. Similar scaling relationships remain unknown for surface-adsorbed ORR electrocatalysts in the acidic aqueous environments germane to proton-exchange membrane (PEM) fuel cells. Herein, we examine ORR catalysis in aqueous perchloric acid media for a structurally diverse array of iron macrocycle complexes adsorbed on Vulcan carbon black. The macrocycles encompass Fe–N4, Fe–N2N′2 and Fe–NxC4–x motifs bearing pyrrolic, pyridinic, and N-heterocyclic carbene (NHC) moieties in the primary ligation sphere, giving rise to a 670 mV range in Fe(III/II) redox potentials, EFe(III/II). Experimental Tafel data in the micropolarization regime were extrapolated to the EFe(III/II) to furnish estimated per-site-normalized current density (jper-site) values that span ∼4.6 orders of magnitude across the family of compounds. Despite the structural diversity of this family of compounds, extrapolated jper-site values correlate with the Fe(III/II) redox potentials in a roughly log-linear fashion with a shallow scaling factor of approximately 145 mV/decade. These findings highlight the phenomenology that negative shifts in EFe(III/II) track with diminishing returns in catalytic rate promotion, regardless of the exact ORR mechanism, and suggest that changes to the primary ligating environment in a macrocycle are insufficient to break fundamental rate-potential scaling relationships in aqueous ORR catalysis. Together these studies motivate the further development of higher-potential iron complexes that employ motifs beyond the equatorial ligation plane to enhance ORR catalysis.    
-
-    
-
-## Single-Atom Catalyst Restructuring during Catalytic Reforming of CH4 by CO2   
-
-OpenAlex: https://openalex.org/W4405093687    
-Open access: False
-    
-[Yu Tang](https://openalex.org/A5004494343), [Xupeng Zong](https://openalex.org/A5067168903), [Luan Nguyen](https://openalex.org/A5077444518), [Franklin Tao](https://openalex.org/A5074200142), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05703.
-    
-No abstract    
-
-    
 
 ## Ag-Regulated Interfacial Electron Transfer between TiO2 and MoSx for Enhanced H2O2 Production   
 
@@ -298,6 +221,83 @@ OpenAlex: https://openalex.org/W4405265174
 Open access: False
     
 [Cheng Guo](https://openalex.org/A5088333782), [Yunpeng Dong](https://openalex.org/A5085707063), [Yi Wang](https://openalex.org/A5100364885), [Xiaona Du](https://openalex.org/A5101460205), [Runxia Ma](https://openalex.org/A5115092039), [Choon‐Hong Tan](https://openalex.org/A5017162812), [Xinjun Luan](https://openalex.org/A5088780516), [Jingyun Ren](https://openalex.org/A5040894587), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06364.
+    
+No abstract    
+
+    
+
+## Zwitterionic π-Allyl-Pd Species Enabled [2σ+2π] Cycloaddition Reactions of Vinylbicyclo[1.1.0]butanes (VBCBs) with Alkenes, Carbonyls, and Imines   
+
+OpenAlex: https://openalex.org/W4405273729    
+Open access: False
+    
+[Tianxiang Li](https://openalex.org/A5056527739), [Sheng Wang](https://openalex.org/A5100371335), [Jing Wang](https://openalex.org/A5100378741), [Haosong Ren](https://openalex.org/A5030931124), [Zhongren Lin](https://openalex.org/A5114182927), [Zhenyue Li](https://openalex.org/A5076418575), [Jun Zheng](https://openalex.org/A5037644193), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06660.
+    
+No abstract    
+
+    
+
+## Oxygen Gas Nanovessel Promotes Hydrogen Peroxide Photosynthesis   
+
+OpenAlex: https://openalex.org/W4405273771    
+Open access: False
+    
+[Junsheng He](https://openalex.org/A5038409976), [Xiaoshan Zheng](https://openalex.org/A5058488190), [Qunxing Huang](https://openalex.org/A5039895785), [Zhenhua Pan](https://openalex.org/A5046057235), [Chiheng Chu](https://openalex.org/A5088487131), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05357.
+    
+No abstract    
+
+    
+
+## Characterization of VldE (Spr1875), a Pneumococcal Two-State l,d-Endopeptidase with a Four-Zinc Cluster in the Active Site   
+
+OpenAlex: https://openalex.org/W4405274852    
+Open access: True
+    
+[Vega Miguel-Ruano](https://openalex.org/A5062724721), [Iván Acebrón](https://openalex.org/A5043352058), [Mijoon Lee](https://openalex.org/A5017757711), [Antonio J. Martín-Galiano](https://openalex.org/A5059354705), [Céline Freton](https://openalex.org/A5107387450), [Uxía P. de José](https://openalex.org/A10000002712), [Balajee Ramachandran](https://openalex.org/A5089570908), [Federico Gago](https://openalex.org/A5048905988), [Morten Kjos](https://openalex.org/A5076738808), [Dušan Hesek](https://openalex.org/A5069198023), [Christophe Grangeasse](https://openalex.org/A5082790207), [Leiv Sigve Håvarstein](https://openalex.org/A5023435907), [Daniel Straume](https://openalex.org/A5001779153), [Shahriar Mobashery](https://openalex.org/A5013812375), [J.A. Hermoso](https://openalex.org/A5021295789), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05090.
+    
+No abstract    
+
+    
+
+## Pd-Catalyzed C–H Activation vs β-H Elimination: An Experimental and Computational Insight into the Reactivity of Tertiary Alkylamines   
+
+OpenAlex: https://openalex.org/W4405274965    
+Open access: True
+    
+[Jesus Rodrigalvarez](https://openalex.org/A5007995337), [Matthew J. Gaunt](https://openalex.org/A5069606411), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06160.
+    
+No abstract    
+
+    
+
+## Functional and Structural Analyses of a Highly Multifunctional Enzyme TM1270 from the Hyperthermophile Thermotoga maritima   
+
+OpenAlex: https://openalex.org/W4405276133    
+Open access: False
+    
+[Tetsuya Miyamoto](https://openalex.org/A5057464295), [S. Nitta](https://openalex.org/A5108597861), [Hiroshi Homma](https://openalex.org/A5021663084), [Shinya Fushinobu](https://openalex.org/A5083281224), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05275.
+    
+No abstract    
+
+    
+
+## Strong Photothermal Tandem Catalysis for CO2 Reduction to C2H4 Boosted by Zr–O–W Interfacial H2O Dissociation   
+
+OpenAlex: https://openalex.org/W4405302796    
+Open access: False
+    
+[Ruoxuan Peng](https://openalex.org/A5022913138), [Yuqi Ren](https://openalex.org/A5109262968), [Yitao Si](https://openalex.org/A5064332666), [Kai Huang](https://openalex.org/A5034474103), [Jiancheng Zhou](https://openalex.org/A5073593046), [Lunbo Duan](https://openalex.org/A5025363360), [Naixu Li](https://openalex.org/A5002141680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06218.
+    
+No abstract    
+
+    
+
+## Unlocking the Aromatic Cope Rearrangement with Gold(I) Catalysis   
+
+OpenAlex: https://openalex.org/W4405304851    
+Open access: False
+    
+[Pierre Locquet](https://openalex.org/A5114564787), [R. Akilan](https://openalex.org/A5082533913), [Raquel Pereira](https://openalex.org/A5014727489), [Fabienne Grellepois](https://openalex.org/A5051694749), [Jean‐Marc Weibel](https://openalex.org/A5051989755), [Éric Hénon](https://openalex.org/A5004006480), [Emmanuel Riguet](https://openalex.org/A5046315366), [Aurélien Blanc](https://openalex.org/A5036782638), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06662.
     
 No abstract    
 

@@ -4,9 +4,30 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Dec 2024 01:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:25:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>CI-MOR Final Report: Analysis and Validation of Critical Infrastructure Models using Model Order Reduction</title>
+      <link>https://doi.org/10.2172/2480173</link>
+      <description>William E. Hart, Emma C. Johnson, Cynthia Phillips, Alejandro D. Owen Aquino, Bashar Ammari, Bryan Arguello, Simon Davis, Jared Gearhart, Carl D. Laird, Christian Mattes, Daniel K. Molzahn, Ali P&#305;nar, Matthew Viens, No host. None(None)] 2024. https://openalex.org/W4405296114
+
+                No abstract</description>
+      <author>William E. Hart, Emma C. Johnson, Cynthia Phillips, Alejandro D. Owen Aquino, Bashar Ammari, Bryan Arguello, Simon Davis, Jared Gearhart, Carl D. Laird, Christian Mattes, Daniel K. Molzahn, Ali P&#305;nar, Matthew Viens</author>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2480173</guid>
+    </item>
+    <item>
+      <title>Optimal Reactive Operation of General Topology Supply Chain and
+  Manufacturing Networks under Disruptions</title>
+      <link>https://doi.org/10.48550/arxiv.2412.08046</link>
+      <description>Daniel Ovalle, Joshua L. Pulsipher, Yixin Ye, Kyle C. Harshbarger, Scott J. Bury, Carl D. Laird, Ignacio E. Grossmann, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4405301008
+
+                Supply and manufacturing networks in the chemical industry involve diverse processing steps across different locations, rendering their operation vulnerable to disruptions from unplanned events. Optimal responses should consider factors such as product allocation, delayed shipments, and price renegotiation , among other factors. In such context, we propose a multiperiod mixed-integer linear programming model that integrates production, scheduling, shipping, and order management to minimize the financial impact of such disruptions. The model accommodates arbitrary supply chain topologies and incorporates various disruption scenarios, offering adaptability to real-world complexities. A case study from the chemical industry demonstrates the scalability of the model under finer time discretization and explores the influence of disruption types and order management costs on optimal schedules. This approach provides a tractable, adaptable framework for developing responsive operational plans in supply chain and manufacturing networks under uncertainty.</description>
+      <author>Daniel Ovalle, Joshua L. Pulsipher, Yixin Ye, Kyle C. Harshbarger, Scott J. Bury, Carl D. Laird, Ignacio E. Grossmann</author>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2412.08046</guid>
+    </item>
     <item>
       <title>Parapint</title>
       <link>https://doi.org/10.11578/dc.20201109.2</link>
