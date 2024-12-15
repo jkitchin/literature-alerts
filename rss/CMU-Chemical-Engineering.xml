@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Dec 2024 01:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 01:41:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -27,6 +27,16 @@
       <author>Daniel Ovalle, Joshua L. Pulsipher, Yixin Ye, Kyle C. Harshbarger, Scott J. Bury, Carl D. Laird, Ignacio E. Grossmann</author>
       <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2412.08046</guid>
+    </item>
+    <item>
+      <title>Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Metal-Organic Frameworks</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-mlcss-v2</link>
+      <description>Harrison Lawson, Huy Nguyen, Keng Lee, Nattarat Wongsuwan, Ayesha Tupe, Mariah L. Arral, Anne Behre, Mengrou Lu, Adam W. Feinberg, Kathryn A. Whitehead, Siyang Zheng, No host. None(None)] 2024. https://openalex.org/W4405334043
+
+                In the past two decades, metal-organic frameworks (MOFs) have evolved from uses in catalysis and gas storage to exciting applications in biomedicine, particularly in drug delivery. Initially, MOFs were primarily used to deliver small molecules, but recent innovations have shifted focus toward more complex nucleic acids like DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). Remarkably, no studies to date have demonstrated the successful encapsulation and delivery of fragile messenger RNA (mRNA) via MOFs in vitro and in vivo. This study tackles that gap by identifying optimal synthetic conditions to encapsulate and deliver mRNA using nanoscale zeolitic imidazole framework-8 (ZIF-8). Early attempts showed mRNA loading in ZIF-8 but failed to retain mRNA in biological media. To overcome this challenge, we incorporated polyethyleneimine (PEI) into the framework, forming a robust polymer complex core-MOF shell particle. This system not only stabilized mRNA complexes but delayed their release, resulting in effective protein expression in multiple cell lines and mice, performing on par with commercial lipid-based transfection reagents and surpassing PEI alone. Moreover, we present the first investigation into thermally stable mRNA storage using ZIF-8, demonstrating successful protein expression after three months of room-temperature storage in vitro and one month in vivo. Our findings broaden the scope of MOF-based therapeutic delivery and open new avenues for long-term mRNA storage and transport.</description>
+      <author>Harrison Lawson, Huy Nguyen, Keng Lee, Nattarat Wongsuwan, Ayesha Tupe, Mariah L. Arral, Anne Behre, Mengrou Lu, Adam W. Feinberg, Kathryn A. Whitehead, Siyang Zheng</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-mlcss-v2</guid>
     </item>
     <item>
       <title>Parapint</title>

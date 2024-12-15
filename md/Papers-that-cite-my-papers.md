@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Dec 14 01:25:19 2024
+Created on Sun Dec 15 01:41:33 2024
 
-Found 51 results from 2024-12-07 to 2024-12-14
+Found 49 results from 2024-12-08 to 2024-12-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502)
@@ -16,127 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Atomically Dispersed Metal Site Materials for Hydrogen Energy Utilization: Theoretical and Experimental Study in Fuel Cells and Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4405095404    
-Open access: True
-    
-[Xinxing Zhan](https://openalex.org/A5111156322), [Xin Tong](https://openalex.org/A5004175812), [Hao Ye](https://openalex.org/A5041274004), [Zijian Gao](https://openalex.org/A5033956358), [Tian Juan](https://openalex.org/A5100309106), [Jinliang Zhuang](https://openalex.org/A5007016736), [Gaixia Zhang](https://openalex.org/A5023395031), [Shuhui Sun](https://openalex.org/A5080743510), DeCarbon. None(None)] 2024.https://doi.org/10.1016/j.decarb.2024.100091.
-    
-No abstract    
-
-    
-
-## Size-dependent guest-memory switching of the flexible and robust adsorption characteristics of layered metal-organic frameworks   
-
-OpenAlex: https://openalex.org/W4405103471    
-Open access: True
-    
-[Satoshi Watanabe](https://openalex.org/A5101688542), [Shotaro Hiraide](https://openalex.org/A5078403315), [Homare Arima](https://openalex.org/A5051430084), [Akiko Fukuta](https://openalex.org/A5027436001), [Miyuki Mori](https://openalex.org/A5057760270), [Hideki Tanaka](https://openalex.org/A5073018625), [Minoru T. Miyahara](https://openalex.org/A5052665380), Science Advances. 10(49)] 2024.https://doi.org/10.1126/sciadv.adr1387.
-    
-Flexible-robust metal-organic frameworks (MOFs), which exhibit unique hybrid nature comprising both flexible and rigid framework characteristics, exhibit high potential for hydrocarbon separations. However, no clear guidelines have been established to regulate their hybrid characteristics owing to limited understanding of their adsorption mechanism. This study investigates the effects of the particle size of a flexible-robust MOF on its adsorption and structural transition behaviors. The robust nature originates from the structural transition of a metastable guest-free structure, while its flexible nature arises from another guest-free structure. The type of guest-free structure is predominantly determined by the particle size; particles below the critical size are trapped in the metastable guest-free structure. Notably, the critical size varies with the type of guest molecule to be removed; consequently, the difference in critical size results in guest-memory characteristics, enabling guest-free structure switching. These results underscore the importance of controlling the particle size to fine-tune hybrid adsorption characteristics of flexible-robust MOFs.    
-
-    
-
-## Unraveling electrocatalyst reaction mechanisms in water electrolysis: In situ Raman spectra   
-
-OpenAlex: https://openalex.org/W4405103486    
-Open access: False
-    
-[Chao Huang](https://openalex.org/A5011430809), [Wei‐Xue Li](https://openalex.org/A5055160391), [Ping Qin](https://openalex.org/A5029102835), [Qingdong Ruan](https://openalex.org/A5031125052), [Dorsa Dehghan‐Baniani](https://openalex.org/A5113909620), [Xiang Peng](https://openalex.org/A5034476487), [Babak Mehrjou](https://openalex.org/A5014217171), [Paul K. Chu](https://openalex.org/A5082656873), Applied Physics Reviews. 11(4)] 2024.https://doi.org/10.1063/5.0232980.
-    
-Electrocatalysis is crucial for sustainable energy solutions, focusing on energy harvesting, storage, and pollution control. Despite the development of various electrocatalysts, understanding the dynamic processes in electrochemical reactions is still limited, hindering effective catalyst design. In situ Raman spectra have emerged as a critical tool, providing molecular-level insights into surface processes under operational conditions and discussing their development, advantages, and configurations. This review emphasizes new findings at the catalyst–electrolyte interface, especially interface water molecule state, during the hydrogen evolution reaction and oxygen evolution reaction in recent years. Finally, the challenges and future directions for in situ Raman techniques in electrocatalysis are discussed, emphasizing their importance in advancing understanding and guiding novel catalyst design.    
-
-    
-
-## A brief overview of deep generative models and how they can be used to discover new electrode materials   
-
-OpenAlex: https://openalex.org/W4405105990    
-Open access: True
-    
-[Anders Hellman](https://openalex.org/A5058183169), Current Opinion in Electrochemistry. None(None)] 2024.https://doi.org/10.1016/j.coelec.2024.101629.
-    
-No abstract    
-
-    
-
-## Enhanced Oxygen Evolution Reactivity of Single-crystal LaNiO3-δ Films via Tuning Oxygen Vacancy   
-
-OpenAlex: https://openalex.org/W4405111159    
-Open access: False
-    
-[Zhiying Chen](https://openalex.org/A5101913458), [Bin Du](https://openalex.org/A5101913974), [Zhuanglin Weng](https://openalex.org/A5078092512), [Jinlai Zhao](https://openalex.org/A5011881997), [Xierong Zeng](https://openalex.org/A5101103885), [Yuying Meng](https://openalex.org/A5023783425), [Chuanwei Huang](https://openalex.org/A5008896305), Vacuum. None(None)] 2024.https://doi.org/10.1016/j.vacuum.2024.113934.
-    
-No abstract    
-
-    
-
-## Dynamic-Cycling Zinc Sites Promote Ruthenium Oxide for Sub-Ampere Electrochemical Water Oxidation   
-
-OpenAlex: https://openalex.org/W4405113290    
-Open access: False
-    
-[Meihuan Liu](https://openalex.org/A5109641338), [Xiaoxia Chen](https://openalex.org/A5101774813), [Shiyu Li](https://openalex.org/A5100413189), [C.Y. Ni](https://openalex.org/A5060589477), [Yiwen Chen](https://openalex.org/A5066220900), [Hui Su](https://openalex.org/A5035972174), Nano Letters. None(None)] 2024.https://doi.org/10.1021/acs.nanolett.4c04485.
-    
-Although iridium-based electrocatalysts are commonly regarded as the sole stable operating acidic oxygen evolution reaction (OER) catalysts in proton-exchange membrane water electrolysis (PEMWE) devices, their exorbitant cost and scarcity severely restrict their widespread application. Herein, we introduce a promising alternative to iridium: zinc-doped ruthenium dioxide (TE-Zn/RuO2), which exhibits remarkable and enduring activity for acidic OER. In situ characterizations elucidate that the dynamic cycling of zinc dopants serves as both electron acceptors and donors, facilitating the activation of Ru sites at low overpotentials while thwarting peroxidation at high overpotentials, thus concurrently achieving heightened activity and robust stability. Additionally, the incorporation of zinc induces weakened Ru–O covalency, thereby stabling *OOH intermediates and instigating a sustained adsorbate evolution mechanism, dramatically stabilizing the RuO2 lattice. Importantly, the TE-Zn/RuO2 catalyst as an anode exhibits good stability over 300 h at a water-splitting current of 500 mA cm–2 in the PEMWE device, underscoring its considerable promise for practical applications.    
-
-    
-
-## Rational Design of Novel Single-Atom Catalysts of Transition-Metal-Doped 2D AlN Monolayer as Highly Effective Electrocatalysts for Nitrogen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4405122489    
-Open access: True
-    
-[Xiaopeng Shen](https://openalex.org/A5101723656), [Qinfang Zhang](https://openalex.org/A5047437279), Molecules. 29(23)] 2024.https://doi.org/10.3390/molecules29235768.
-    
-The single-atom catalysts (SACs) for the electrocatalytic nitrogen reduction reaction (NRR) have garnered significant attention in recent years. The NRR is regarded as a milder and greener approach to ammonia synthesis. The pursuit of highly efficient and selective electrocatalysts for the NRR continues to garner substantial interest, yet it poses a significant challenge. In this study, we employed density functional theory calculations to investigate the stability and catalytic activity of 29 transition metal atoms loaded on the two-dimensional (2D) AlN monolayer with Al monovacancy (TM@AlN) for the conversion of N2 to NH3. After screening the activity and selectivity of NRR, it was found that Os@AlN exhibited the highest activity for NRR with a very low limiting potential of −0.46 V along the distal pathway. The analysis of the related electronic structure, Bader charge, electron localization function, and PDOS revealed the origin of NRR activity from the perspective of energy and electronic properties. The high activity and selectivity towards the NRR of SACs are closely associated with the Os-3N coordination. Our findings have expanded the scope of designing innovative high-efficiency SACs for NRR.    
-
-    
-
-## Anchoring Ultrafine Ru Nanoparticles Triggers 2H MoS2 Basal Plane for Efficient Dual-pH Hydrogen Evolution   
-
-OpenAlex: https://openalex.org/W4405122642    
-Open access: False
-    
-[Yingde Wang](https://openalex.org/A5088326586), [Yanan Li](https://openalex.org/A5063019477), [Dongxu Yang](https://openalex.org/A5067065755), [Yunsi Wang](https://openalex.org/A5017142913), [Fuan Wei](https://openalex.org/A5083437424), [Bingxin Liu](https://openalex.org/A5016275070), [Peng Zhang](https://openalex.org/A5100364198), [Benhua Xu](https://openalex.org/A5100943757), [Yongcheng Li](https://openalex.org/A5101515356), Electrochimica Acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.145485.
-    
-No abstract    
-
-    
-
-## Boosting hydrogen evolution via work-function-accelerated electronic reconfiguration of Mo-based heterojunction   
-
-OpenAlex: https://openalex.org/W4405124635    
-Open access: False
-    
-[Xiang Chen](https://openalex.org/A5100441943), [Shuai Feng](https://openalex.org/A5086213383), [Song Xie](https://openalex.org/A5078318843), [Yaping Miao](https://openalex.org/A5103206429), [Biao Gao](https://openalex.org/A5052495839), [Xuming Zhang](https://openalex.org/A5101720038), [Li Huang](https://openalex.org/A5103631890), [Yun Li](https://openalex.org/A5107957110), [Paul K. Chu](https://openalex.org/A5082656873), [Xiang Peng](https://openalex.org/A5034476487), Science China Materials. None(None)] 2024.https://doi.org/10.1007/s40843-024-3190-7.
-    
-No abstract    
-
-    
-
-## Data-driven compositional optimization of La(Fe,Si)13-based magnetocaloric compounds for cryogenic applications   
-
-OpenAlex: https://openalex.org/W4405126013    
-Open access: False
-    
-[A.K. Srinithi](https://openalex.org/A5082229065), [A. Bolyachkin](https://openalex.org/A5052804264), [Xin Tang](https://openalex.org/A5022346495), [H. Sepehri‐Amin](https://openalex.org/A5047584230), [Sae Dieb](https://openalex.org/A5063091303), [Akiko Saito](https://openalex.org/A5080545421), [T. Ohkubo](https://openalex.org/A5057516653), [K. Hono](https://openalex.org/A5089821455), Scripta Materialia. 258(None)] 2024.https://doi.org/10.1016/j.scriptamat.2024.116486.
-    
-No abstract    
-
-    
-
-## SrTi1-Ir O3 solid solution as a robust electrocatalyst for oxygen evolution reaction in proton exchange membrane water electrolyzers   
-
-OpenAlex: https://openalex.org/W4405129884    
-Open access: False
-    
-[Cheng Yan](https://openalex.org/A5113422767), [Xiyu He](https://openalex.org/A5101080146), [Yunzhu Du](https://openalex.org/A5057776769), [Jing Li](https://openalex.org/A5100738411), [Yongjian Su](https://openalex.org/A5113190530), [Jiewei Yin](https://openalex.org/A5107856093), [Qiaodan Hu](https://openalex.org/A5032406668), [Fan Yang](https://openalex.org/A5050265668), [Junliang Zhang](https://openalex.org/A5048609660), International Journal of Hydrogen Energy. 97(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.12.013.
-    
-No abstract    
-
-    
 
 ## Insights into electrocatalysis through in situ electrochemical surface-enhanced Raman spectroscopy   
 
@@ -545,6 +424,94 @@ No abstract
 
     
 
+## Controlled deposition of trimetallic Fe–Ni–V oxides on nickel foam as high-performance electrocatalysts for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4405318518    
+Open access: False
+    
+[Muhammad Ali Ehsan](https://openalex.org/A5036861201), [Rashida Batool](https://openalex.org/A5049685663), [Abbas Saeed Hakeem](https://openalex.org/A5101679112), [Sameer Ali](https://openalex.org/A5104108938), [Muhammad Faizan Nazar](https://openalex.org/A5076360802), [Zaka Ullah](https://openalex.org/A5003309162), International Journal of Hydrogen Energy. 98(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.12.044.
+    
+No abstract    
+
+    
+
+## Efficient Composite Infrared Spectroscopy: Combining the Double-Harmonic Approximation with Machine Learning Potentials   
+
+OpenAlex: https://openalex.org/W4405319422    
+Open access: True
+    
+[Philipp Pracht](https://openalex.org/A5070405326), [Yuthika Pillai](https://openalex.org/A5114340684), [Venkat Kapil](https://openalex.org/A5009821984), [Gábor Cśanyi](https://openalex.org/A5025442671), [Nils Gönnheimer](https://openalex.org/A5114340685), [Martin Vondrák](https://openalex.org/A5080296937), [Johannes T. Margraf](https://openalex.org/A5044300693), [David J. Wales](https://openalex.org/A5022301289), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c01157.
+    
+Vibrational spectroscopy is a cornerstone technique for molecular characterization and offers an ideal target for the computational investigation of molecular materials. Building on previous comprehensive assessments of efficient methods for infrared (IR) spectroscopy, this study investigates the predictive accuracy and computational efficiency of gas-phase IR spectra calculations, accessible through a combination of modern semiempirical quantum mechanical and transferable machine learning potentials. A composite approach for IR spectra prediction based on the double-harmonic approximation, utilizing harmonic vibrational frequencies in combination squared derivatives of the molecular dipole moment, is employed. This approach allows for methodical flexibility in the calculation of IR intensities from molecular dipoles and the corresponding vibrational modes. Various methods are systematically tested to suggest a suitable protocol with an emphasis on computational efficiency. Among these methods, semiempirical extended tight-binding (xTB) models, classical charge equilibrium models, and machine learning potentials trained for dipole moment prediction are assessed across a diverse data set of organic molecules. We particularly focus on the recently reported foundational machine learning potential MACE-OFF23 to address the accuracy limitations of conventional low-cost quantum mechanical and force-field methods. This study aims to establish a standard for the efficient computational prediction of IR spectra, facilitating the rapid and reliable identification of unknown compounds and advancing automated high-throughput analytical workflows in chemistry.    
+
+    
+
+## EDF CO2 Lab: A New Facility to Advance CO2 Capture from Flue Gases and Ambient Air   
+
+OpenAlex: https://openalex.org/W4405323199    
+Open access: False
+    
+[Nicolas Jourdan](https://openalex.org/A5084913740), [Antony Vanheghe](https://openalex.org/A10000022138), [Serena Delgado](https://openalex.org/A5003202021), [Christophe Castel](https://openalex.org/A5061472778), [Éric Favre](https://openalex.org/A5007951485), SSRN Electronic Journal. None(None)] 2024.https://doi.org/10.2139/ssrn.5019579.
+    
+No abstract    
+
+    
+
+## Transition metal atom supported on N-terminated diamond (100) surface as an efficient electrocatalyst for oxygen evolution and reduction reactions   
+
+OpenAlex: https://openalex.org/W4405323235    
+Open access: False
+    
+[Gaoxian Li](https://openalex.org/A5072189554), [Yuanhang Wang](https://openalex.org/A5100682679), [Nan Gao](https://openalex.org/A5074303730), [Hongdong Li](https://openalex.org/A5101819059), Applied Physics Letters. 125(24)] 2024.https://doi.org/10.1063/5.0242133.
+    
+To alleviate the increasingly serious energy issues, it is essential to develop highly efficient and stable electrocatalysts for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR). In this study, we employed density functional theory to investigate a broad spectrum of transition metal (TM = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Zr, Mo, Ru, Rh, Ag, W, Ir, and Pt) atoms supported on N-terminated diamond (100) surface (TM@ND) as single-atom catalysts for their OER and ORR performances. TM atoms (Sc, Ti, V, Cr, Mn, Y, Zr, and Ir) show large binding energy with substrate and thermal stability, which is advantageous for electrocatalytic reactions. Especially, Ir@ND demonstrates high efficacy as an OER electrocatalyst, and Mn@ND is identified as an efficient ORR electrocatalyst, exhibiting the theoretical overpotentials smaller than 1 V. Consequently, it suggests that diamond-based catalysts could serve as promising candidates for energy conversion and storage applications.    
+
+    
+
+## Cathode-mediated electrochemical conversion of phenol to benzoquinone in wastewater: High yield rate and low energy consumption   
+
+OpenAlex: https://openalex.org/W4405338488    
+Open access: True
+    
+[Zonglin Li](https://openalex.org/A5100731663), [Zhiyuan Feng](https://openalex.org/A5007670718), [Min Chen](https://openalex.org/A5100337276), [Yankai Song](https://openalex.org/A5080686152), [Yongkang Dai](https://openalex.org/A5036545507), [Shun Mao](https://openalex.org/A5013458820), [Hongying Zhao](https://openalex.org/A5026819840), Water Research. None(None)] 2024.https://doi.org/10.1016/j.watres.2024.122967.
+    
+No abstract    
+
+    
+
+## Density Functional Theory for Electrocatalytic Energy Conversion   
+
+OpenAlex: https://openalex.org/W4405358277    
+Open access: False
+    
+[Wei Li](https://openalex.org/A5100318287), [Yi Ding](https://openalex.org/A5005325306), No host. None(None)] 2024.https://doi.org/10.1002/9783527846368.ch2.
+    
+No abstract    
+
+    
+
+## Engineering atomic Pt-N3 sites on CdS nanorods for overcoming the rate-determining organic dehydrogenation in photocatalytic coproduction of H2 and value-added chemicals   
+
+OpenAlex: https://openalex.org/W4405365290    
+Open access: False
+    
+[Huanmin Liu](https://openalex.org/A5026627237), [Jiayi Peng](https://openalex.org/A5110379995), [Shouxin Zhang](https://openalex.org/A5101742243), [Kun Zheng](https://openalex.org/A5022927703), [Lirong Zheng](https://openalex.org/A5065268874), [Kangle Lv](https://openalex.org/A5081915993), [Qin Li](https://openalex.org/A5100438917), [Peng Zhou](https://openalex.org/A5047600031), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.158618.
+    
+No abstract    
+
+    
+
+## CatTestHub: A benchmarking database of experimental heterogeneous catalysis for evaluating advanced materials   
+
+OpenAlex: https://openalex.org/W4405365777    
+Open access: False
+    
+[Atharva S. Burte](https://openalex.org/A5093786768), [Advaith Nair](https://openalex.org/A5111118265), [Lars C. Grabow](https://openalex.org/A5029991019), [Paul J. Dauenhauer](https://openalex.org/A5003718847), [Susannah L. Scott](https://openalex.org/A5029871622), [Omar Abdelrahman](https://openalex.org/A5022932212), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115902.
+    
+No abstract    
+
+    
+
 ## Lewis Acid-Mediated Interfacial Water Supply for Sustainable Proton Exchange Membrane Water Electrolysis   
 
 OpenAlex: https://openalex.org/W4405275902    
@@ -553,6 +520,17 @@ Open access: False
 [Liming Deng](https://openalex.org/A5029117570), [Hongjun Chen](https://openalex.org/A5100721079), [Sung‐Fu Hung](https://openalex.org/A5060265950), [Ying Zhang](https://openalex.org/A5101723568), [Hanzhi Yu](https://openalex.org/A5013514644), [Han‐Yi Chen](https://openalex.org/A5084555578), [Linlin Li](https://openalex.org/A5100318907), [Shengjie Peng](https://openalex.org/A5034879972), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c14529.
     
 The catalyst-electrolyte interface plays a crucial role in proton exchange membrane water electrolysis (PEMWE). However, optimizing the interfacial hydrogen bonding to enhance both catalytic activity and stability remains a significant challenge. Here, a novel catalyst design strategy is proposed based on the hard-soft acid-base principle, employing hard Lewis acids (LAs = ZrO    
+
+    
+
+## Efficient parameterization of adsorbate-adsorbate interactions on metal surfaces   
+
+OpenAlex: https://openalex.org/W4405317176    
+Open access: True
+    
+[Willem Vanmoerkerke](https://openalex.org/A10000019993), [Rasmus Svensson](https://openalex.org/A5022855478), [Henrik Grönbeck](https://openalex.org/A5041128128), Surface Science. None(None)] 2024.https://doi.org/10.1016/j.susc.2024.122678.
+    
+No abstract    
 
     
 
@@ -567,12 +545,12 @@ No abstract
 
     
 
-## 6–16 Membrane Enhanced Reactors for Methanol Reforming to Hydrogen   
+## Integration of Observed Data and Reaction Mechanisms in Deep Learning for Designing Sustainable Glycolic Acid   
 
-OpenAlex: https://openalex.org/W4405126120    
+OpenAlex: https://openalex.org/W4405352480    
 Open access: False
     
-[Víctor M. Alvarado](https://openalex.org/A5049423330), [Guadalupe López López](https://openalex.org/A5001725991), Elsevier eBooks. None(None)] 2024.https://doi.org/10.1016/b978-0-443-15740-0.00146-4.
+[Xin Zhou](https://openalex.org/A5063431148), No host. None(None)] 2024.https://doi.org/10.1002/9783527845491.ch4.
     
 No abstract    
 

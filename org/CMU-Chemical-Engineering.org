@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Dec 14 01:25:10 2024
+Created on Sun Dec 15 01:41:20 2024
 
-Found 3 results from 2024-12-07 to 2024-12-14
+Found 4 results from 2024-12-08 to 2024-12-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -45,6 +45,27 @@ OpenAlex: https://openalex.org/W4405301008 (Open access: True)
 [[https://openalex.org/A5067396423][Daniel Ovalle]], [[https://openalex.org/A5036452308][Joshua L. Pulsipher]], [[https://openalex.org/A5074409626][Yixin Ye]], [[https://openalex.org/A5092563435][Kyle C. Harshbarger]], [[https://openalex.org/A5054868519][Scott J. Bury]], [[https://openalex.org/A5030631754][Carl D. Laird]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], arXiv (Cornell University). None(None)] 2024. https://doi.org/10.48550/arxiv.2412.08046  ([[http://arxiv.org/pdf/2412.08046][pdf]])
      
 Supply and manufacturing networks in the chemical industry involve diverse processing steps across different locations, rendering their operation vulnerable to disruptions from unplanned events. Optimal responses should consider factors such as product allocation, delayed shipments, and price renegotiation , among other factors. In such context, we propose a multiperiod mixed-integer linear programming model that integrates production, scheduling, shipping, and order management to minimize the financial impact of such disruptions. The model accommodates arbitrary supply chain topologies and incorporates various disruption scenarios, offering adaptability to real-world complexities. A case study from the chemical industry demonstrates the scalability of the model under finer time discretization and explores the influence of disruption types and order management costs on optimal schedules. This approach provides a tractable, adaptable framework for developing responsive operational plans in supply chain and manufacturing networks under uncertainty.    
+
+    
+
+* Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Metal-Organic Frameworks  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405334043
+:TOPICS: RNA Interference and Gene Delivery, Metal-Organic Frameworks: Synthesis and Applications, Advanced biosensing and bioanalysis techniques
+:PUBLICATION_DATE: 2024-12-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-mlcss-v2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405334043"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405334043"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405334043"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405334043 (Open access: False)
+    
+[[https://openalex.org/A5012514972][Harrison Lawson]], [[https://openalex.org/A5001785029][Huy Nguyen]], [[https://openalex.org/A5104279852][Keng Lee]], [[https://openalex.org/A5050359036][Nattarat Wongsuwan]], [[https://openalex.org/A5095379199][Ayesha Tupe]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5085559862][Anne Behre]], [[https://openalex.org/A5110813392][Mengrou Lu]], [[https://openalex.org/A5086659893][Adam W. Feinberg]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], [[https://openalex.org/A5086903169][Siyang Zheng]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-mlcss-v2 
+     
+In the past two decades, metal-organic frameworks (MOFs) have evolved from uses in catalysis and gas storage to exciting applications in biomedicine, particularly in drug delivery. Initially, MOFs were primarily used to deliver small molecules, but recent innovations have shifted focus toward more complex nucleic acids like DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). Remarkably, no studies to date have demonstrated the successful encapsulation and delivery of fragile messenger RNA (mRNA) via MOFs in vitro and in vivo. This study tackles that gap by identifying optimal synthetic conditions to encapsulate and deliver mRNA using nanoscale zeolitic imidazole framework-8 (ZIF-8). Early attempts showed mRNA loading in ZIF-8 but failed to retain mRNA in biological media. To overcome this challenge, we incorporated polyethyleneimine (PEI) into the framework, forming a robust polymer complex core-MOF shell particle. This system not only stabilized mRNA complexes but delayed their release, resulting in effective protein expression in multiple cell lines and mice, performing on par with commercial lipid-based transfection reagents and surpassing PEI alone. Moreover, we present the first investigation into thermally stable mRNA storage using ZIF-8, demonstrating successful protein expression after three months of room-temperature storage in vitro and one month in vivo. Our findings broaden the scope of MOF-based therapeutic delivery and open new avenues for long-term mRNA storage and transport.    
 
     
 

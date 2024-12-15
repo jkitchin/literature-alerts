@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Dec 2024 01:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 01:41:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ag-Regulated Interfacial Electron Transfer between TiO&lt;sub&gt;2&lt;/sub&gt; and MoS&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; for Enhanced H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
-      <link>https://doi.org/10.1021/acscatal.4c05674</link>
-      <description>Xidong Zhang, Jiachao Xu, Haoyu Long, Jiaguo Yu, Huogen Yu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405104681
-
-                The electronic configuration mismatch between the TiO2 support and the MoSx cocatalyst induces spontaneous free-electron transfer in an unfavorable direction, resulting in stronger O2 adsorption on Mo active sites and causing limited H2O2 production. Herein, we propose a strategy for directional free-electron transfer to produce electron-enriched Mo(4 &#8211; &#948;)+ sites via introducing an Ag mediator into the TiO2/MoSx photocatalyst, which aims to weaken O2 adsorption for improving H2O2 production activity. To achieve this, a core&#8211;shell Ag@MoSx cocatalyst was ingeniously constructed on the TiO2 surface to synthesize the TiO2/Ag@MoSx photocatalyst. The resultant TiO2/Ag@MoSx achieves a significantly enhanced H2O2 production rate of 16.13 mmol g&#8211;1 h&#8211;1 with an AQY value of 8.79%, surpassing TiO2/Ag and TiO2/MoSx by 10.0 and 237.2 times, respectively. Theoretical calculations and experimental results reveal that the incorporation of the Ag mediator into the TiO2/Ag@MoSx system can facilitate directional free-electron transfer to the MoSx cocatalyst. This causes the creation of electron-enriched Mo(4 &#8211; &#948;)+ sites and an increase in the antibonding-orbital occupancy of Mo&#8211;Oads, ultimately weakening the Mo&#8211;Oads bond and enabling high activity in H2O2 production. This study provides valuable insights into optimizing reactant adsorption for efficient artificial photosynthesis.</description>
-      <author>Xidong Zhang, Jiachao Xu, Haoyu Long, Jiaguo Yu, Huogen Yu</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05674</guid>
-    </item>
-    <item>
-      <title>Stereospecific and Stereodivergent Allyl&#8211;Allyl Coupling: Construction of Vicinal Tertiary and All-Carbon Quaternary Stereocenters</title>
-      <link>https://doi.org/10.1021/acscatal.4c06203</link>
-      <description>Yongsuk Jung, Jieun Kim, G.N. Kim, Jeong Wan Ko, Sungwoo Hong, Seung Hwan Cho, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405106290
-
-                No abstract</description>
-      <author>Yongsuk Jung, Jieun Kim, G.N. Kim, Jeong Wan Ko, Sungwoo Hong, Seung Hwan Cho</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06203</guid>
-    </item>
-    <item>
-      <title>Bifunctional Photocatalysts Display Proximity-Enhanced Catalytic Activity in Metallaphotoredox C&#8211;O Coupling</title>
-      <link>https://doi.org/10.1021/acscatal.4c05893</link>
-      <description>Luigi Dolcini, Andrea Solida, Daniele Lavelli, Andr&#233;s Mauricio Hidalgo-N&#250;&#241;ez, Tommaso Gandini, Matthieu Fornara, Alessandro Colella, Alberto Bossi, Marta Penconi, Daniele Fiorito, Cesare Gennari, Alberto Dal Corso, Luca Pignataro, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405107662
-
-                No abstract</description>
-      <author>Luigi Dolcini, Andrea Solida, Daniele Lavelli, Andr&#233;s Mauricio Hidalgo-N&#250;&#241;ez, Tommaso Gandini, Matthieu Fornara, Alessandro Colella, Alberto Bossi, Marta Penconi, Daniele Fiorito, Cesare Gennari, Alberto Dal Corso, Luca Pignataro</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05893</guid>
-    </item>
-    <item>
-      <title>Analogy in the Mechanism of Heterolytic H&lt;sub&gt;2&lt;/sub&gt; Dissociation</title>
-      <link>https://doi.org/10.1021/acscatal.4c05629</link>
-      <description>Ping Jin, Nengchao Luo, Feng Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405109345
-
-                No abstract</description>
-      <author>Ping Jin, Nengchao Luo, Feng Wang</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05629</guid>
-    </item>
-    <item>
-      <title>Photocatalytic Multicomponent Carboxylation of Olefins and Sulfinate Salts with &lt;sup&gt;13&lt;/sup&gt;CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c06335</link>
-      <description>Julien R. Lyonnet, &#193;lvaro Velasco&#8208;Rubio, Roman Abrams, Duc-Ha Phan-Vu, Kim S. M&#252;hlfenzl, Xuemeng Chen, Alessandro Cerveri, Jos&#233; Tiago Menezes Correia, M&#225;rcio W. Paix&#227;o, Charles S. Elmore, Rub&#233;n Mart&#305;&#769;n, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405109917
-
-                Herein, we describe a photoinduced multicomponent catalytic carboxylation protocol that streamlines the access to 13C-labeled carboxylic acids from simple olefin precursors, sulfinate salts and 13CO2. Site selectivity is dictated by the radical philicity of the starting precursors and reaction intermediates, resulting in either a four-component or a five-component endeavor. The method is characterized by its simplicity and flexibility across a wide number of coupling counterparts</description>
-      <author>Julien R. Lyonnet, &#193;lvaro Velasco&#8208;Rubio, Roman Abrams, Duc-Ha Phan-Vu, Kim S. M&#252;hlfenzl, Xuemeng Chen, Alessandro Cerveri, Jos&#233; Tiago Menezes Correia, M&#225;rcio W. Paix&#227;o, Charles S. Elmore, Rub&#233;n Mart&#305;&#769;n</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06335</guid>
-    </item>
-    <item>
-      <title>Nanocrystalline High-Dimensional Nb&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; for Efficient Electroreductive Dicarboxylation of CO&lt;sub&gt;2&lt;/sub&gt; with Cycloalkane</title>
-      <link>https://doi.org/10.1021/acscatal.4c06490</link>
-      <description>Yuanming Xie, Xuelin Wang, Junjun Mao, Chenchen Zhang, Qingqing Song, Toru Murayama, M. C. Lin, Jiawei Zhang, Yang Lou, Chengsi Pan, Ying Zhang, Yongfa Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405110494
-
-                No abstract</description>
-      <author>Yuanming Xie, Xuelin Wang, Junjun Mao, Chenchen Zhang, Qingqing Song, Toru Murayama, M. C. Lin, Jiawei Zhang, Yang Lou, Chengsi Pan, Ying Zhang, Yongfa Zhu</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06490</guid>
-    </item>
-    <item>
-      <title>Improvement of CO&lt;sub&gt;2&lt;/sub&gt; Reduction Photocatalysis of a Ru(II)&#8211;Re(I) Complex and Carbon Nitride Hybrid by Coadsorption of an Os(II) Complex Photosensitizer</title>
-      <link>https://doi.org/10.1021/acscatal.4c06134</link>
-      <description>Toshiya Tanaka, Mitsuhiko Shizuno, Yusuke Tamaki, Kazuhiko Maeda, Osamu Ishitani, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405112143
-
-                No abstract</description>
-      <author>Toshiya Tanaka, Mitsuhiko Shizuno, Yusuke Tamaki, Kazuhiko Maeda, Osamu Ishitani</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06134</guid>
-    </item>
-    <item>
-      <title>Light-Driven Hybrid Nanoreactor Harnessing the Synergy of Carboxysomes and Organic Frameworks for Efficient Hydrogen Production</title>
-      <link>https://doi.org/10.1021/acscatal.4c03672</link>
-      <description>Jing Yang, Qiuyao Jiang, Yu Chen, Quan Wen, Xingwu Ge, Qiang Zhu, Wei Zhao, Oluwatobi Samuel Adegbite, Haofan Yang, Liang Luo, Hang Qu, Veronica Del-Angel-Hernandez, Rob Clowes, Jun Gao, Marc A. Little, Andrew I. Cooper, Lu&#8208;Ning Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405113641
-
-                Synthetic photobiocatalysts are promising catalysts for valuable chemical transformations by harnessing solar energy inspired by natural photosynthesis. However, the synergistic integration of all of the components for efficient light harvesting, cascade electron transfer, and efficient biocatalytic reactions presents a formidable challenge. In particular, replicating intricate multiscale hierarchical assembly and functional segregation involved in natural photosystems, such as photosystems I and II, remains particularly demanding within artificial structures. Here, we report the bottom-up construction of a visible-light-driven chemical&#8211;biological hybrid nanoreactor with augmented photocatalytic efficiency by anchoring an &#945;-carboxysome shell encasing [FeFe]-hydrogenases (H&#8211;S) on the surface of a hydrogen-bonded organic molecular crystal, a microporous &#945;-polymorph of 1,3,6,8-tetra(4&#8242;-carboxyphenyl)pyrene (TBAP-&#945;). The self-association of this chemical&#8211;biological hybrid system is facilitated by hydrogen bonds, as revealed by molecular dynamics simulations. Within this hybrid photobiocatalyst, TBAP-&#945; functions as an antenna for visible-light absorption and exciton generation, supplying electrons for sacrificial hydrogen production by H&#8211;S in aqueous solutions. This coordination allows the hybrid nanoreactor, H&#8211;S|TBAP-&#945;, to execute hydrogen evolution exclusively driven by light irradiation with a rate comparable to that of photocatalyst-loaded precious cocatalyst. The established approach to constructing new light-driven biocatalysts combines the synergistic power of biological nanotechnology with the multilength-scale structure and functional control offered by supramolecular organic semiconductors. It opens up innovative opportunities for the fabrication of biomimetic nanoreactors for sustainable fuel production and enzymatic reactions.</description>
-      <author>Jing Yang, Qiuyao Jiang, Yu Chen, Quan Wen, Xingwu Ge, Qiang Zhu, Wei Zhao, Oluwatobi Samuel Adegbite, Haofan Yang, Liang Luo, Hang Qu, Veronica Del-Angel-Hernandez, Rob Clowes, Jun Gao, Marc A. Little, Andrew I. Cooper, Lu&#8208;Ning Liu</author>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03672</guid>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/csv014i023_1874629</link>
-      <description>, ACS Catalysis. 14(23)] 2024. https://openalex.org/W4405120090
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i023_1874629</guid>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/csv014i023_1874630</link>
-      <description>, ACS Catalysis. 14(23)] 2024. https://openalex.org/W4405121157
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i023_1874630</guid>
-    </item>
     <item>
       <title>Surface Nanosteps Modulate the Local Environment of Co Single Atoms to Boost the Electrocatalytic Hydrogen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acscatal.4c05624</link>
@@ -276,6 +176,76 @@
       <author>Pierre Locquet, R. Akilan, Raquel Pereira, Fabienne Grellepois, Jean&#8208;Marc Weibel, &#201;ric H&#233;non, Emmanuel Riguet, Aur&#233;lien Blanc</author>
       <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06662</guid>
+    </item>
+    <item>
+      <title>Iron-Catalyzed Markovnikov-Selective Radical Hydrochalcogenation of Unactivated Alkenes</title>
+      <link>https://doi.org/10.1021/acscatal.4c06770</link>
+      <description>Jiayi Li, Lei Zhu, Zhaohui Liu, H. Liu, Si-Chen Tao, S. H. Zhu, Yan&#8208;Long Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405312226
+
+                No abstract</description>
+      <author>Jiayi Li, Lei Zhu, Zhaohui Liu, H. Liu, Si-Chen Tao, S. H. Zhu, Yan&#8208;Long Zheng</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06770</guid>
+    </item>
+    <item>
+      <title>Activation and Stabilization of Engineered Amine Dehydrogenase by Fatty Acids for Bioprocess Intensification of Asymmetric Reductive Amination</title>
+      <link>https://doi.org/10.1021/acscatal.4c05904</link>
+      <description>Weixi Kong, Jiawang Zhang, Liya Zhou, Guanhua Liu, Ying He, Li Ma, Frank Hollmann, Sheng Wang, Yunting Liu, Yanjun Jiang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405312334
+
+                No abstract</description>
+      <author>Weixi Kong, Jiawang Zhang, Liya Zhou, Guanhua Liu, Ying He, Li Ma, Frank Hollmann, Sheng Wang, Yunting Liu, Yanjun Jiang</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05904</guid>
+    </item>
+    <item>
+      <title>Rational Design of Indium&#8211;Palladium Intermetallic Catalysts for Selective CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation to Methanol</title>
+      <link>https://doi.org/10.1021/acscatal.4c04670</link>
+      <description>Jiabao Lv, Hongman Sun, Guanying Liu, Tong Liu, Guofeng Zhao, Youhe Wang, Xin Tu, Zifeng Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405312574
+
+                No abstract</description>
+      <author>Jiabao Lv, Hongman Sun, Guanying Liu, Tong Liu, Guofeng Zhao, Youhe Wang, Xin Tu, Zifeng Yan</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04670</guid>
+    </item>
+    <item>
+      <title>Copper-Photoredox-Catalyzed Divergent Strategy for the Site-Selective Arylation and Alkylation of Glycines and Peptides</title>
+      <link>https://doi.org/10.1021/acscatal.4c06254</link>
+      <description>Prahallad Meher, M. Siva Prasad, Karan Ramdas Thombare, Sandip Murarka, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405319097
+
+                No abstract</description>
+      <author>Prahallad Meher, M. Siva Prasad, Karan Ramdas Thombare, Sandip Murarka</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06254</guid>
+    </item>
+    <item>
+      <title>One-Step Construction of Atropisomers Bearing 1,5-Central and Axial Chirality via Catalytic Diastereo- and Atroposelective Remote Desymmetrizing Alkynylation</title>
+      <link>https://doi.org/10.1021/acscatal.4c06332</link>
+      <description>Shan Wang, Long Li, Ming Jiang, Kaixin Zhao, Daming He, Xiaoguang Li, Zheng Wang, Yingcheng Wang, Fangzhi Peng, Zhihui Shao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405333449
+
+                No abstract</description>
+      <author>Shan Wang, Long Li, Ming Jiang, Kaixin Zhao, Daming He, Xiaoguang Li, Zheng Wang, Yingcheng Wang, Fangzhi Peng, Zhihui Shao</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06332</guid>
+    </item>
+    <item>
+      <title>Heterogeneous Tandem Catalysis Strategy for Additive-Free CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation into Formic Acid in Water: Crystal Plane Effect of Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Cocatalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c05484</link>
+      <description>Kohsuke Mori, Jun Shinogi, Yuki Shimada, Hiromi Yamashita, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405333957
+
+                The transformation of carbon dioxide (CO2) into formic acid (FA; HCOOH) in an aqueous phase is a promising method of realizing an environmentally friendly FA/CO2-mediated chemical hydrogen storage/supply cycle. Despite progress in the design of catalysts that operate under basic conditions, the development of efficient catalysts that operate under additive-free conditions lags behind owing to the difficulty in activating CO2 and the low solubility of CO2 in pure water. In the present study, we present a heterogeneous tandem catalysis strategy in which Co3O4 is used as a CO2 hydration cocatalyst to produce a HCO3&#8211; intermediate, in combination with our previously reported PdAg/TiO2 as a catalyst for the hydrogenation of HCO3&#8211; to afford FA. The turnover number based on Pd improved by a factor of more than 8 in the presence of the Co3O4 cocatalyst with a cubic particle morphology enclosed by (100) facets. A series of morphology-controlled Co3O4 cocatalysts was investigated to elucidate the effect of the exposed crystal facets (i.e., (100), (111), or (112)) on their physicochemical properties and catalytic activity in FA synthesis. A systematic comparison based on experimental and density functional theory calculations demonstrated that the substantial enhancement effect of the Co3O4 cubes is attributable to the in situ generation of the largest amount of surface Co&#8211;OH groups with strong basicity originating from the exposed (100) facets. In addition, the present tandem catalytic system displayed high recyclability without exhibiting a structural change or a significant loss of activity. These findings will allow the rational design of an environmentally benign catalytic system for the hydrogenation of CO2 to FA.</description>
+      <author>Kohsuke Mori, Jun Shinogi, Yuki Shimada, Hiromi Yamashita</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05484</guid>
+    </item>
+    <item>
+      <title>Ordered Adsorption of Oxygen via High-Density Low-Coordinated Ru Sites for Lithium&#8211;Oxygen Battery</title>
+      <link>https://doi.org/10.1021/acscatal.4c03294</link>
+      <description>Yu Zhang, Junguo Ma, Zewen Zhuang, Aijian Huang, Shuting Zhang, Wenbo Zhai, Yi Yu, Qing Peng, Hai Xiao, Caiyun Nan, Chen Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405333965
+
+                No abstract</description>
+      <author>Yu Zhang, Junguo Ma, Zewen Zhuang, Aijian Huang, Shuting Zhang, Wenbo Zhai, Yi Yu, Qing Peng, Hai Xiao, Caiyun Nan, Chen Chen</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03294</guid>
     </item>
   </channel>
 </rss>
