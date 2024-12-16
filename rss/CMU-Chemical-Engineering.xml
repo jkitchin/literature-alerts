@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Dec 2024 01:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 01:38:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -37,6 +37,16 @@
       <author>Harrison Lawson, Huy Nguyen, Keng Lee, Nattarat Wongsuwan, Ayesha Tupe, Mariah L. Arral, Anne Behre, Mengrou Lu, Adam W. Feinberg, Kathryn A. Whitehead, Siyang Zheng</author>
       <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-mlcss-v2</guid>
+    </item>
+    <item>
+      <title>Measurement of surface segregation via He+ ion scattering in Cu Ag Au1-- composition spread thin films</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122682</link>
+      <description>Zhitao Guo, Robert A. Burnley, Andrew J. Gellman, Surface Science. None(None)] 2024. https://openalex.org/W4405386390
+
+                No abstract</description>
+      <author>Zhitao Guo, Robert A. Burnley, Andrew J. Gellman</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122682</guid>
     </item>
     <item>
       <title>Parapint</title>

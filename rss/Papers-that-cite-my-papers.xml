@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Dec 2024 01:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 01:38:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Insights into electrocatalysis through in situ electrochemical surface-enhanced Raman spectroscopy</title>
-      <link>https://doi.org/10.1016/j.esci.2024.100352</link>
-      <description>Xiu&#8208;Mei Lin, Yulin Sun, Yanxin Chen, Shunxing Li, Jianfeng Li, eScience. None(None)] 2024. https://openalex.org/W4405135126
-
-                No abstract</description>
-      <author>Xiu&#8208;Mei Lin, Yulin Sun, Yanxin Chen, Shunxing Li, Jianfeng Li</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100352</guid>
-    </item>
-    <item>
-      <title>Introduction</title>
-      <link>https://doi.org/10.1007/978-981-96-0274-2_1</link>
-      <description>Lunbo Duan, Dennis Lu, No host. None(None)] 2024. https://openalex.org/W4405143171
-
-                Abstract Climate change is currently one of the most challenging issues to the global ecosystem, which has already caused serious consequences in many aspects, such as increasing wildfires, heat waves, drought, and ice sheet disintegration.</description>
-      <author>Lunbo Duan, Dennis Lu</author>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-96-0274-2_1</guid>
-    </item>
     <item>
       <title>The Impact of Metal&#8211;Support Interaction on the Structure and Activity of Carbon-Supported Ni Nanoparticle Catalysts for Alkaline Hydrogen Oxidation Reaction</title>
       <link>https://doi.org/10.1021/acsami.4c15120</link>
@@ -200,10 +180,10 @@
     <item>
       <title>Optimization of Pt/C Catalysts Synthesized Via Ethylene Glycol Reduction: Effects of Complexing Agents on Orr Activity and Stability</title>
       <link>https://doi.org/10.2139/ssrn.5051189</link>
-      <description>Lu Jia, Zeyu Huang, Jianyin Xu, Jinfeng Wu, Liuwei Zhan, Haifeng Wang, Zonghua Wang, Lu Zhou, No host. None(None)] 2024. https://openalex.org/W4405219679
+      <description>Jia Lu, Zeyu Huang, Jianyin Xu, Jinfeng Wu, Liuwei Zhan, Haifeng Wang, Zonghua Wang, Lu Zhou, No host. None(None)] 2024. https://openalex.org/W4405219679
 
                 No abstract</description>
-      <author>Lu Jia, Zeyu Huang, Jianyin Xu, Jinfeng Wu, Liuwei Zhan, Haifeng Wang, Zonghua Wang, Lu Zhou</author>
+      <author>Jia Lu, Zeyu Huang, Jianyin Xu, Jinfeng Wu, Liuwei Zhan, Haifeng Wang, Zonghua Wang, Lu Zhou</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5051189</guid>
     </item>
@@ -428,6 +408,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.watres.2024.122967</guid>
     </item>
     <item>
+      <title>Metal&#8208;Based Materials for Electrocatalytic Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1002/9783527846368.ch8</link>
+      <description>Congli Qin, Aixin Fan, No host. None(None)] 2024. https://openalex.org/W4405357959
+
+                No abstract</description>
+      <author>Congli Qin, Aixin Fan</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9783527846368.ch8</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic Reaction Mechanism for Energy Conversion</title>
+      <link>https://doi.org/10.1002/9783527846368.ch3</link>
+      <description>Hao Ma, Yuanmiao Sun, No host. None(None)] 2024. https://openalex.org/W4405358246
+
+                No abstract</description>
+      <author>Hao Ma, Yuanmiao Sun</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9783527846368.ch3</guid>
+    </item>
+    <item>
       <title>Density Functional Theory for Electrocatalytic Energy Conversion</title>
       <link>https://doi.org/10.1002/9783527846368.ch2</link>
       <description>Wei Li, Yi Ding, No host. None(None)] 2024. https://openalex.org/W4405358277
@@ -436,6 +436,16 @@
       <author>Wei Li, Yi Ding</author>
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9783527846368.ch2</guid>
+    </item>
+    <item>
+      <title>Regulating the Electronic Structure and Spin State of Iron-based metal-organic frameworks for Efficient Oxygen Evolution Electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.jssc.2024.125144</link>
+      <description>Dongyu Gu, Yue Yao, Xin Zhang, Yuanjing Cui, Guodong Qian, Journal of Solid State Chemistry. None(None)] 2024. https://openalex.org/W4405364412
+
+                No abstract</description>
+      <author>Dongyu Gu, Yue Yao, Xin Zhang, Yuanjing Cui, Guodong Qian</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jssc.2024.125144</guid>
     </item>
     <item>
       <title>Engineering atomic Pt-N3 sites on CdS nanorods for overcoming the rate-determining organic dehydrogenation in photocatalytic coproduction of H2 and value-added chemicals</title>
@@ -456,6 +466,96 @@
       <author>Atharva S. Burte, Advaith Nair, Lars C. Grabow, Paul J. Dauenhauer, Susannah L. Scott, Omar Abdelrahman</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115902</guid>
+    </item>
+    <item>
+      <title>Quantity effect of heteroatom incorporation on the oxygen evolution mechanism in ruthenium oxide</title>
+      <link>https://doi.org/10.1016/j.chempr.2024.11.005</link>
+      <description>Hyunwoo Jun, Eunseo Kang, Jinuk Moon, Hoyoung Kim, Sunghoon Han, Seokhyun Choung, Seongbeen Kim, Seung Yeop Yi, Eunae Kang, Chang Hyuck Choi, Jeong Woo Han, Jinwoo Lee, Chem. None(None)] 2024. https://openalex.org/W4405367030
+
+                No abstract</description>
+      <author>Hyunwoo Jun, Eunseo Kang, Jinuk Moon, Hoyoung Kim, Sunghoon Han, Seokhyun Choung, Seongbeen Kim, Seung Yeop Yi, Eunae Kang, Chang Hyuck Choi, Jeong Woo Han, Jinwoo Lee</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.chempr.2024.11.005</guid>
+    </item>
+    <item>
+      <title>Boron-activated ruthenium nanoparticles for hydrogen oxidation reaction in anion exchange membrane fuel cells</title>
+      <link>https://doi.org/10.1016/j.checat.2024.101197</link>
+      <description>Yingdan Cui, Yian Wang, Fei Yang, Weiwei Chen, Guimei Liu, Shangqian Zhu, Xiaoyi Qiu, Fei Xiao, Guanghao Chen, Yanzhi Sun, Mohammad Farhadpour, Dong Su, William E. Mustain, Yoonseob Kim, Minhua Shao, Chem Catalysis. None(None)] 2024. https://openalex.org/W4405367200
+
+                No abstract</description>
+      <author>Yingdan Cui, Yian Wang, Fei Yang, Weiwei Chen, Guimei Liu, Shangqian Zhu, Xiaoyi Qiu, Fei Xiao, Guanghao Chen, Yanzhi Sun, Mohammad Farhadpour, Dong Su, William E. Mustain, Yoonseob Kim, Minhua Shao</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2024.101197</guid>
+    </item>
+    <item>
+      <title>A bifunctional electrolyser for energy-efficient hydrogen generation and synchronous HCHO degradation: Influences of H and HCHO adsorption</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.165</link>
+      <description>Hanming Zhang, Yuan Chen, Yiran Teng, Gangya Cheng, Chengyue Han, Tongguang Xu, Fei Teng, International Journal of Hydrogen Energy. 98(None)] 2024. https://openalex.org/W4405372312
+
+                No abstract</description>
+      <author>Hanming Zhang, Yuan Chen, Yiran Teng, Gangya Cheng, Chengyue Han, Tongguang Xu, Fei Teng</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.165</guid>
+    </item>
+    <item>
+      <title>Fundamental understanding of fluorophenol-derived dual organocatalysts for ring-opening polymerization of lactide</title>
+      <link>https://doi.org/10.1039/d4nj04115a</link>
+      <description>Guo Fengzhen, Jiawen Dai, Shaoju Cao, Yaling Yin, Zhenjiang Li, Jie Sun, Jin Huang, Kai Guo, New Journal of Chemistry. None(None)] 2024. https://openalex.org/W4405374566
+
+                The integral investigation on metal-free catalytic ring-opening polymerization of lactide facilitates the structural understanding of the reaction.</description>
+      <author>Guo Fengzhen, Jiawen Dai, Shaoju Cao, Yaling Yin, Zhenjiang Li, Jie Sun, Jin Huang, Kai Guo</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4nj04115a</guid>
+    </item>
+    <item>
+      <title>Anionic Oxidation Activity/Stability Regulated by Transition Metals in Multimetallic (Oxy)hydroxides for Alkaline Water Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c03718</link>
+      <description>Shuhao Wang, Kamran Dastafkan, Sicheng Wu, Qian Sun, Chengli Rong, Dazhi Yao, Chuan Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405378470
+
+                No abstract</description>
+      <author>Shuhao Wang, Kamran Dastafkan, Sicheng Wu, Qian Sun, Chengli Rong, Dazhi Yao, Chuan Zhao</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03718</guid>
+    </item>
+    <item>
+      <title>Stabilizing Sn/SnO&lt;sub&gt;2&lt;/sub&gt; Mott&#8211;Schottky Heterojunction on Biomass-Derived Carbon Boosting Highly Selective and Robust Formate Production for Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acssuschemeng.4c07981</link>
+      <description>Tiyao Ren, Yan Zheng, Ruikuan Xie, Guoliang Chai, Dong Xia, Huan Xie, Changlei Xia, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4405378518
+
+                No abstract</description>
+      <author>Tiyao Ren, Yan Zheng, Ruikuan Xie, Guoliang Chai, Dong Xia, Huan Xie, Changlei Xia</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c07981</guid>
+    </item>
+    <item>
+      <title>A First Principles exploration of pristine and p-block doped triangulene carbon dots for Hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114766</link>
+      <description>Ashvin Kanzariya, Narayan N. Som, Shardul Vadalkar, Sourav Kanti Jana, L. K. Saini, Prafulla K. Jha, Molecular Catalysis. 572(None)] 2024. https://openalex.org/W4405386249
+
+                No abstract</description>
+      <author>Ashvin Kanzariya, Narayan N. Som, Shardul Vadalkar, Sourav Kanti Jana, L. K. Saini, Prafulla K. Jha</author>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114766</guid>
+    </item>
+    <item>
+      <title>Leveraging Machine learning and active motifs-based catalyst design for discovery of oxygen reduction electrocatalysts for hydrogen peroxide production</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115906</link>
+      <description>G. Yu, Dong Hyeon Mok, Ho Yeon Jang, Hyun Dong Jung, Samira Siahrostami, Seoin Back, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4405394547
+
+                No abstract</description>
+      <author>G. Yu, Dong Hyeon Mok, Ho Yeon Jang, Hyun Dong Jung, Samira Siahrostami, Seoin Back</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115906</guid>
+    </item>
+    <item>
+      <title>Cascade protection strategy for anchoring atomic FeN3 sites within defect-rich wood carbon aerogel for high-performance Zn-air batteries and versatile application</title>
+      <link>https://doi.org/10.1016/j.cej.2024.158551</link>
+      <description>Jiaojiao Sun, Mengxia Shen, A. C. Chang, Chanjuan Liang, Chuanyin Xiong, Chen Hou, Jinbao Li, Pengbo Wang, Jiayin Li, Jianfeng Huang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405395385
+
+                No abstract</description>
+      <author>Jiaojiao Sun, Mengxia Shen, A. C. Chang, Chanjuan Liang, Chuanyin Xiong, Chen Hou, Jinbao Li, Pengbo Wang, Jiayin Li, Jianfeng Huang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158551</guid>
     </item>
     <item>
       <title>Lewis Acid-Mediated Interfacial Water Supply for Sustainable Proton Exchange Membrane Water Electrolysis</title>
@@ -488,6 +588,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.048</guid>
     </item>
     <item>
+      <title>Hydrogen production from ammonia decomposition: Advances in Ru- and Ni-based catalysts</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.136</link>
+      <description>Neng Zhu, Chaoho Ouyang, Yu Hong, Junjie Liang, International Journal of Hydrogen Energy. 98(None)] 2024. https://openalex.org/W4405391243
+
+                No abstract</description>
+      <author>Neng Zhu, Chaoho Ouyang, Yu Hong, Junjie Liang</author>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.136</guid>
+    </item>
+    <item>
       <title>Integration of Observed Data and Reaction Mechanisms in Deep Learning for Designing Sustainable Glycolic Acid</title>
       <link>https://doi.org/10.1002/9783527845491.ch4</link>
       <description>Xin Zhou, No host. None(None)] 2024. https://openalex.org/W4405352480
@@ -496,6 +606,36 @@
       <author>Xin Zhou</author>
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9783527845491.ch4</guid>
+    </item>
+    <item>
+      <title>Measurement of surface segregation via He+ ion scattering in Cu Ag Au1-- composition spread thin films</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122682</link>
+      <description>Zhitao Guo, Robert A. Burnley, Andrew J. Gellman, Surface Science. None(None)] 2024. https://openalex.org/W4405386390
+
+                No abstract</description>
+      <author>Zhitao Guo, Robert A. Burnley, Andrew J. Gellman</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122682</guid>
+    </item>
+    <item>
+      <title>Porosity prediction using bagging ensemble machine learning in CCUS reservoirs. A case study: Darling Basin, Australia</title>
+      <link>https://doi.org/10.1007/s12145-024-01583-1</link>
+      <description>Kushan Sandunil, Ziad Bennour, Saaveethya Sivakumar, Hisham Ben Mahmud, Ausama Giwelli, Earth Science Informatics. 18(1)] 2024. https://openalex.org/W4405386406
+
+                No abstract</description>
+      <author>Kushan Sandunil, Ziad Bennour, Saaveethya Sivakumar, Hisham Ben Mahmud, Ausama Giwelli</author>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12145-024-01583-1</guid>
+    </item>
+    <item>
+      <title>Insights into structural and magnetic properties of Lanthanum Manganite ceramic co-doped with calcium and cobalt</title>
+      <link>https://doi.org/10.21203/rs.3.rs-5451975/v1</link>
+      <description>Rohit Sharma, Pawan Kumar, Anil Jakhar, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4405369492
+
+                Abstract A polycryst alline ceramic sample of calcium and cobalt co-doped Lanthanum Manganite (LCMCO) was synthesized via the autocombustion route and subjected to comprehensive characterization using various analytical techniques, namely XRD, SEM, FTIR and VSM. The sharp peaks are observed on XRD analysis conducted at room temperature, confirming the formation of single-phase compound with orthorhombic crystal structure and Pbnm space group. The lattice parameters were calculated using the Rietveld refinement tool Fullprof and are as follows: a = 5.4989 &#197;, b = 5.4265 &#197;, and c = 7.7217 &#197;. The XRD data also provided information on interplanar d spacing, atomic locations and other structural factors. Further examination through FESEM affirmed the diverse shapes and sizes of the prepared samples. Fourier transform infrared (FTIR) spectroscopy unveiled a broad peak at 615 cm-1, corroborating the presence of metal-oxygen bonds organized into MnO6 octahedral structures. Magnetic studies employing VSM disclosed the antiferromagnetic nature of the prepared samples. The AFM nature and precise lattice structure make this compound a potential candidate for magnetic refrigeration system. Moreover, the diverse morphology along with AFM nature make them suitable for magnetic sensor applications.</description>
+      <author>Rohit Sharma, Pawan Kumar, Anil Jakhar</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5451975/v1</guid>
     </item>
   </channel>
 </rss>

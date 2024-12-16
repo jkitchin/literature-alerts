@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Dec 15 01:41:19 2024
+Created on Mon Dec 16 01:38:40 2024
 
-Found 24 results from 2024-12-08 to 2024-12-15
+Found 29 results from 2024-12-09 to 2024-12-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Surface Nanosteps Modulate the Local Environment of Co Single Atoms to Boost the Electrocatalytic Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4405136849    
-Open access: False
-    
-[Sheng Qian](https://openalex.org/A5101195596), [Tengfei Jiang](https://openalex.org/A5061360949), [Junhua Wang](https://openalex.org/A5100649620), [Wenzhi Yuan](https://openalex.org/A5086459194), [Dailing Jia](https://openalex.org/A5110827512), [Ningyan Cheng](https://openalex.org/A5021692036), [Huaiguo Xue](https://openalex.org/A5101034995), [Zhongfei Xu](https://openalex.org/A5106300176), [Romain Gautier](https://openalex.org/A5114376025), [Jingqi Tian](https://openalex.org/A5056556778), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05624.
-    
-No abstract    
-
-    
 
 ## Origin of Catalysis by the [Ga4L6]12– Metallocage on the Prins Reaction   
 
@@ -265,6 +254,72 @@ OpenAlex: https://openalex.org/W4405333965
 Open access: False
     
 [Yu Zhang](https://openalex.org/A5100433507), [Junguo Ma](https://openalex.org/A5007666779), [Zewen Zhuang](https://openalex.org/A5089567081), [Aijian Huang](https://openalex.org/A5091232233), [Shuting Zhang](https://openalex.org/A5100759006), [Wenbo Zhai](https://openalex.org/A5022735767), [Yi Yu](https://openalex.org/A5060198927), [Qing Peng](https://openalex.org/A5091365456), [Hai Xiao](https://openalex.org/A5023546157), [Caiyun Nan](https://openalex.org/A5069739391), [Chen Chen](https://openalex.org/A5100418351), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03294.
+    
+No abstract    
+
+    
+
+## Multisite CuNi/Al2O3 Catalyst Enabling High-Efficiency Reductive Amination of Biomass-Derived Levulinic Acid (Esters) to Pyrrolidones under Mild Conditions   
+
+OpenAlex: https://openalex.org/W4405364003    
+Open access: False
+    
+[Xixi Liu](https://openalex.org/A5044398622), [Peng Zhou](https://openalex.org/A5029610462), [Zhihua Zhu](https://openalex.org/A5100966029), [Yimeng Guo](https://openalex.org/A5071542591), [Hang Lv](https://openalex.org/A5100751609), [Zehui Zhang](https://openalex.org/A5100662993), [Liangfang Zhu](https://openalex.org/A5039997114), [Changwei Hu](https://openalex.org/A5048671077), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06035.
+    
+No abstract    
+
+    
+
+## Biocatalytic Formal Asymmetric para-Aminoethylation of Unprotected Phenols to Chiral Amines   
+
+OpenAlex: https://openalex.org/W4405364941    
+Open access: False
+    
+[Jingqi Zhang](https://openalex.org/A5100612250), [Xuan Deng](https://openalex.org/A5066871377), [Xue Han](https://openalex.org/A5102827636), [Shuangping Huang](https://openalex.org/A5101528919), [Honghong Chang](https://openalex.org/A5071205620), [Lili Gao](https://openalex.org/A5106403896), [Jiandong Zhang](https://openalex.org/A5100366289), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06475.
+    
+No abstract    
+
+    
+
+## Acid/Base-Tuned Asymmetric Reductive Heck and Denitrogenative Heck Reactions of In Situ-Formed α,β-Unsaturated Hydrazone   
+
+OpenAlex: https://openalex.org/W4405366807    
+Open access: False
+    
+[Shuling Yu](https://openalex.org/A5058860407), [Xiaoyu Zhou](https://openalex.org/A5024177859), [Xiaofeng Tong](https://openalex.org/A5005997337), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05561.
+    
+Despite significant progress in the catalytic asymmetric 1,4-additions between various Michael donors and acceptors, the exploration of organohalide donors remains elusive. Herein, we report the Pd(0)-catalyzed asymmetric intramolecular 1,4-additions of vinyl/aryl iodides to α,β-unsaturated hydrazones, featuring in situ-formed hydrazone and acid/base-tuned reaction pathways. Due to its strong coordination ability, the hydrazone is capable of steering the C–C bond formation to follow the 1,4-addition mechanism instead of the conventional alkene insertion, thus enabling the generation of vinylhydrazinyl–Pd2+ species via the Zimmerman–Traxler chairlike transition state. Notably, this species preferentially undergoes protonation under acidic conditions, furnishing a reductive Heck reaction with the aid of a native hydrazine reductant, while it is susceptible to β-HN elimination under basic conditions to achieve a denitrogenative Heck reaction. The catalytic protocol affords highly enantioselective access to diverse heterocycles, with alkene and hydrazone groups poised for further chemical manipulations.    
+
+    
+
+## Atroposelective Three-Component (Fluoro)methylative Alkylation of Terminal Alkynes   
+
+OpenAlex: https://openalex.org/W4405376697    
+Open access: False
+    
+[Yaheng Zhao](https://openalex.org/A5101112129), [Liping Huo](https://openalex.org/A5080719917), [Xiaoyu Zhao](https://openalex.org/A5100781610), [Lingling Chu](https://openalex.org/A5028147598), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06100.
+    
+The development of synthetic methods for the selective installation of methyl and fluoromethyl groups is highly desired due to their critical role in drug development. While significant advances have been made in the methylation and difluoromethylation of aromatic compounds, the catalytic atroposelective (fluoro)methylative functionalization of alkynes to forge axially chiral alkenes remains underexploited. Herein, we report an enantioselective cross-electrophile strategy for the efficient 1,2-carbo-(fluoro)methylation of alkynes with two different alkyl halides via nickel catalysis. By integrating a one-electron radical process with a two-electron organometallic process, this protocol employs a simple chiral nickel catalyst to effectively discriminate between secondary and tertiary alkyl groups and (fluoro)methyl groups for alkyne difunctionalization. This protocol demonstrates good compatibility of activated secondary/tertiary alkyl bromides, terminal alkynes, and (fluoro)methyl halides, permitting the straightforward synthesis of a broad range of synthetically valuable axially chiral (fluoro)methyl-substituted alkenes with high chemo-, regio-, trans-, and atropo-selectivity. Preliminary mechanistic studies provide insight into the potential reaction pathway.    
+
+    
+
+## Quantifying Interface-Dependent Active Sites Induced by Strong Metal–Support Interactions on Au/TiO2 in 2,5-Bis(hydroxymethyl)furan Oxidation   
+
+OpenAlex: https://openalex.org/W4405378410    
+Open access: True
+    
+[Enhui Du](https://openalex.org/A5062881637), [Jie Yang](https://openalex.org/A5111788827), [Liyuan Huai](https://openalex.org/A5024604696), [Panpan Hao](https://openalex.org/A5031877307), [Mingxin Lv](https://openalex.org/A5050783737), [Zhilin Chen](https://openalex.org/A5025790402), [Yuxiang Chen](https://openalex.org/A5100334456), [Jian Zhang](https://openalex.org/A5100409912), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05341.
+    
+Strong metal–support interactions (SMSI) typically induce the migration of a coverage layer to the metal surface accompanied by electron transfer, forming a unique metal–support interface. This dual modification in geometric and electronic structures reconstructs the active surface, adjusting the activity and stability of the catalyst. However, identifying and quantifying such newly formed interfacial sites remains a challenge. Herein, by varying the reduction temperature to control the TiO2–x coverage on Au nanoparticles, the catalytic activity of Au/TiO2 in 2,5-bis(hydroxymethyl)furan (BHMF) oxidation shows a volcano-shaped trend. Combined thiol titration and poisoning kinetics analysis to quantify the ratio of interfacial to surface sites and normalize it to intrinsic activity, revealing that Au-TiO2–x interfacial sites positively contribute to catalytic performance. This study offers valuable insights into the active sites in heterogeneous catalytic systems with SMSI effects.    
+
+    
+
+## Anionic Oxidation Activity/Stability Regulated by Transition Metals in Multimetallic (Oxy)hydroxides for Alkaline Water Oxidation   
+
+OpenAlex: https://openalex.org/W4405378470    
+Open access: False
+    
+[Shuhao Wang](https://openalex.org/A5112424682), [Kamran Dastafkan](https://openalex.org/A5057507481), [Sicheng Wu](https://openalex.org/A5079233581), [Qian Sun](https://openalex.org/A5059473992), [Chengli Rong](https://openalex.org/A5016828667), [Dazhi Yao](https://openalex.org/A5018028217), [Chuan Zhao](https://openalex.org/A5046268649), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03718.
     
 No abstract    
 

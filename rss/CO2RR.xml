@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Dec 2024 01:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 01:38:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tuning Strategies of Indium&#8208;Based Catalysts for Electrocatalytic Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1002/sstr.202400548</link>
-      <description>Xinwang Zhu, Xu Yan, Lan Ran, Shanyong Chen, Zengxia Pei, Xiaoqing Qiu, Small Structures. None(None)] 2024. https://openalex.org/W4405151422
-
-                In electrocatalytic carbon dioxide reduction (CO 2 RR), indium (In)&#8208;based catalysts with low toxicity and environmental benefits are renowned for their specific high selectivity for formic acid and intrinsic inertia for the competing hydrogen evolution reaction. However, recent studies have reported various products over In&#8208;based catalysts showing comparable or even higher selectivity for carbon monoxide (CO) than for formic acid (HCOOH), puzzling the reaction pathway for CO 2 reduction. This article presents a comprehensive review of recent studies on electrocatalytic CO 2 RR over In&#8208;based catalysts highlighting the formation pathway of specific products. First, the mechanism of electrocatalytic CO 2 RR with the multiple reaction pathways is concluded considering the relationship between reaction intermediates and selectivity. Furthermore, the regulation strategies for multiple product formation are summarized, including crystalline phase engineering, alloying, nanostructuring, and structural modulation of In single atom, where the effect of key intermediates (*COOH, *OOCH, and *OCHO) on product generation is systematically discussed to achieve high selectivity. Finally, the intrinsic regulation mechanisms of these strategies are analyzed and the challenges and opportunities for the development of next&#8208;generation In&#8208;based catalysts are proposed.</description>
-      <author>Xinwang Zhu, Xu Yan, Lan Ran, Shanyong Chen, Zengxia Pei, Xiaoqing Qiu</author>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/sstr.202400548</guid>
-    </item>
     <item>
       <title>Recent developments in carbon nitride for enhanced photocatalytic carbon dioxide reduction: A review</title>
       <link>https://doi.org/10.1016/j.jscs.2024.101956</link>
@@ -106,6 +96,16 @@
       <author>Akira Nishimura, Daichi Tatematsu, Ryuki Toyoda, Masafumi Hirota, Akira Koshio, Kokai Fumio, Eric Hu</author>
       <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.15406/mojsp.2019.03.00028</guid>
+    </item>
+    <item>
+      <title>AI IN OPTIMIZATION OF URBAN PLANNING AND REDUCTION OF CO2 EMISSIONS</title>
+      <link>https://doi.org/10.36871/ek.up.p.r.2024.11.12.017</link>
+      <description>Bislan Kh. Goltakov, Osman M. Minaev, Sergey V. Mitrofanov, EKONOMIKA I UPRAVLENIE PROBLEMY RESHENIYA. 11/12(152)] 2024. https://openalex.org/W4405367891
+
+                The article discusses the use of artificial intelligence (AI) technologies to optimize urban planning and reduce CO2 emissions. In the context of increasing urbanization and green-house gas emissions, cities are faced with the need to find innovative solutions for sustainable development. AI provides a wide range of tools for data analysis, modeling and prediction, which allows developing and implementing more effective urban management strategies. The main fo-cus is on intelligent transport systems that optimize traffic flows, control traffic lights and predict routes, which leads to reduced congestion and carbon dioxide emissions. It also considers the use of AI for energy management in buildings, the development of "smart" homes and offices that automatically adapt to operating conditions and minimize energy costs.</description>
+      <author>Bislan Kh. Goltakov, Osman M. Minaev, Sergey V. Mitrofanov</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.36871/ek.up.p.r.2024.11.12.017</guid>
     </item>
     <item>
       <title>Regulating Organic Modifiers on Metal&#8208;based Catalysts for Enhanced Electrocatalytic CO2 Reduction</title>
@@ -208,16 +208,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta07386j</guid>
     </item>
     <item>
-      <title>Design of novel catalysts bearing s-heptazine-based ligand for electrocatalytic CO2 reduction reaction</title>
-      <link>https://openalex.org/W4405144559</link>
-      <description>Benjamin Louis, Johan Loison, Pascale Maldivi, Lionel Dubois, Julie Andrez, No host. None(None)] 2024. https://openalex.org/W4405144559
-
-                No abstract</description>
-      <author>Benjamin Louis, Johan Loison, Pascale Maldivi, Lionel Dubois, Julie Andrez</author>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4405144559</guid>
-    </item>
-    <item>
       <title>Optimizing Cu doping on carbon nitrogen holly shell for enhanced selectivity towards formate in CO2 reduction</title>
       <link>https://doi.org/10.1016/j.jcis.2024.12.071</link>
       <description>Yurui Xu, Xiao Liu, Minghui Jiang, Ning Li, Mingxue Su, Xin Du, Shiyu Li, Lei L&#252;, Suping Cui, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4405338498
@@ -258,16 +248,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta06466f/v1/review3</guid>
     </item>
     <item>
-      <title>Catalyst-free reduction of CO2: Achieved by spontaneous generation of hydrogen radicals through nanobubbles-water system</title>
-      <link>https://doi.org/10.1016/j.cej.2024.158526</link>
-      <description>Jia Liu, Ben Niu, Gaodong Yang, Aosheng Chang, Sheng Wang, Zhibing Zhang, Ying Chen, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405221608
-
-                No abstract</description>
-      <author>Jia Liu, Ben Niu, Gaodong Yang, Aosheng Chang, Sheng Wang, Zhibing Zhang, Ying Chen</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158526</guid>
-    </item>
-    <item>
       <title>Review for "Deactivation of Copper Electrocatalysts During CO2 Reduction Occurs via Dissolution and Selective Redeposition Mechanism"</title>
       <link>https://doi.org/10.1039/d4ta06466f/v2/review1</link>
       <description>, No host. None(None)] 2024. https://openalex.org/W4405275209
@@ -276,6 +256,16 @@
       <author/>
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta06466f/v2/review1</guid>
+    </item>
+    <item>
+      <title>Catalyst-free reduction of CO2: Achieved by spontaneous generation of hydrogen radicals through nanobubbles-water system</title>
+      <link>https://doi.org/10.1016/j.cej.2024.158526</link>
+      <description>Jia Liu, Ben Niu, Gaodong Yang, Aosheng Chang, Sheng Wang, Zhibing Zhang, Ying Chen, Chemical Engineering Journal. 503(None)] 2024. https://openalex.org/W4405221608
+
+                No abstract</description>
+      <author>Jia Liu, Ben Niu, Gaodong Yang, Aosheng Chang, Sheng Wang, Zhibing Zhang, Ying Chen</author>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158526</guid>
     </item>
     <item>
       <title>Decision letter for "Deactivation of Copper Electrocatalysts During CO2 Reduction Occurs via Dissolution and Selective Redeposition Mechanism"</title>
@@ -308,14 +298,14 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta06466f/v2/response1</guid>
     </item>
     <item>
-      <title>A comprehensive review of minimum miscibility pressure determination and reduction strategies between CO2 and crude oil in CCUS processes</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.134053</link>
-      <description>Zhuo Chen, Jiahui Chen, Shouxin Zhang, Fuel. 384(None)] 2024. https://openalex.org/W4405318629
+      <title>Crystal facet engineering of CeO2-supported Cu sites and efficient anodic coupling for enhanced electrocatalytic CO2 reduction to CH4</title>
+      <link>https://doi.org/10.1016/j.ces.2024.121095</link>
+      <description>Zhaolong Wang, Jinman Yang, Siyu Yi, Zhongqiu Wu, Xiaofan Yang, Shouxin Zhang, Haibo Wang, Xiaojie She, Hui Xu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4405395841
 
                 No abstract</description>
-      <author>Zhuo Chen, Jiahui Chen, Shouxin Zhang</author>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.134053</guid>
+      <author>Zhaolong Wang, Jinman Yang, Siyu Yi, Zhongqiu Wu, Xiaofan Yang, Shouxin Zhang, Haibo Wang, Xiaojie She, Hui Xu</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.121095</guid>
     </item>
     <item>
       <title>High-throughput screening of MIMII-PC6 dual-atom electrocatalysts for efficient and selective electrocatalytic reduction of CO2 to C1 and C2 products</title>
@@ -326,16 +316,6 @@
       <author>Jing Wang, Xiang Feng, Yangyang Song, Haixia Wang, Chen Chen, Xian Zhao, Weiliu Fan</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101613</guid>
-    </item>
-    <item>
-      <title>Reduction of CO2 to C2 products by tandem actives sites of a novel 2D/3D structured photoelectrocatalyst Ag/Cu2O/g-C3N4</title>
-      <link>https://doi.org/10.1016/j.jece.2024.115058</link>
-      <description>Huanan Qi, Xiaoyu Han, Jiangpeng Fu, Jing Wang, Xuan Jia, MingHao Zhao, Xiaona Wang, Zhongtian Fu, Jun Zhang, Xin Zhao, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4405142667
-
-                No abstract</description>
-      <author>Huanan Qi, Xiaoyu Han, Jiangpeng Fu, Jing Wang, Xuan Jia, MingHao Zhao, Xiaona Wang, Zhongtian Fu, Jun Zhang, Xin Zhao</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.115058</guid>
     </item>
     <item>
       <title>Predicted C&#8211;N coupling performance of lateral heterostructure interfaces between two types of layered materials for electrochemical synthesis of acetamide and Ammonia via reduction of CO2 and N2</title>
@@ -408,6 +388,26 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su162310792</guid>
     </item>
     <item>
+      <title>From Disposal to Reuse: Carbon Emission Assessments and Reduction Strategies for Household Refrigerators</title>
+      <link>https://doi.org/10.3808/jeil.202400144</link>
+      <description>Lixi Huang, Yu&#8208;Fei Wu, Huifang Han, X. Q. Ren, Gao Hu, Manman Zhai, C. Y. Chen, Journal of Environmental Informatics Letters. 12(2)] 2024. https://openalex.org/W4405400467
+
+                The issue of global climate change is highly critical, and the dual-carbon targets are extremely urgent. The home appliance industry, as a significant component of the manufacturing sector, establishing a green and standardized industrial system is an essential measure to mitigate the impact of global warming. The amount of typical home appliance waste is increasing day by day, and the accounting and analysis of carbon dioxide emissions in the waste disposal process serve as crucial references for establishing a low-carbon industry. This paper employs the life cycle assessment method, targeting the waste disposal process of typical home appliances. A refrigerator is selected as the research object to calculate the carbon dioxide emissions in the three stages of recovery, disassembly, and reuse in the waste disposal process. A comparative analysis is conducted on the carbon dioxide emissions of producing 1 kg of recycled materials and primary materials. The most effective carbon reduction measures for different home appliances are evaluated to provide suggestions and references for promoting the low-carbon and green development of the industry. The final conclusions are as follows: (1) The results of the life cycle assessment indicate that there are significant differences in carbon emissions in different processing stages. Among them, the carbon emissions in the iron recovery stage are the highest, accounting for 87% of the total emissions, while the carbon emissions in the copper recovery stage are the lowest, accounting for only 0.6% of the total emissions. (2) During the process of producing 1 kg of recycled materials, the carbon dioxide emissions in the iron recycling stage are the highest. Compared with the production of 1 kg of primary materials, the carbon dioxide emissions in the primary stages of aluminum, copper, iron, and plastic are all higher than those in the recycling stages.</description>
+      <author>Lixi Huang, Yu&#8208;Fei Wu, Huifang Han, X. Q. Ren, Gao Hu, Manman Zhai, C. Y. Chen</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3808/jeil.202400144</guid>
+    </item>
+    <item>
+      <title>Case study and comparison of embodied carbon and construction cost by adopting alternative timber-based hybrid structure system</title>
+      <link>https://doi.org/10.31130/ud-jst.2024.516e</link>
+      <description>Chiao-An Hsieh, Thien Nhan Chau, Si-Jie Syu, Cheng&#8208;Chieh Hsu, Meng-Ting Tsai, The University of Danang - Journal of Science and Technology. None(None)] 2024. https://openalex.org/W4405379743
+
+                The rise in global temperatures, driven by carbon dioxide emissions, has spurred the construction industry to seek carbon reduction strategies. This study evaluates the environmental benefits of using wood materials in construction by redesigning an existing reinforced concrete (RC) residential building in New Taipei City, Taiwan. Four structural combinations were developed, replacing concrete with timber and steel. Numerical simulations confirmed the feasibility of these systems, and comparisons of embodied carbon, costs, and construction periods were conducted. The proposed hybrid models, which extensively replace concrete with timber and steel for the core, reduced initial embodied carbon by 25.6% compared to the original RC building, though costs increased by 3.9 times. These findings underscore the potential of hybrid timber systems as a sustainable alternative in construction, offering significant carbon reduction benefits for Taiwan while aligning with environmental goals.</description>
+      <author>Chiao-An Hsieh, Thien Nhan Chau, Si-Jie Syu, Cheng&#8208;Chieh Hsu, Meng-Ting Tsai</author>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31130/ud-jst.2024.516e</guid>
+    </item>
+    <item>
       <title>Porous Materials for &lt;scp&gt; CO &lt;sub&gt;2&lt;/sub&gt; RR &lt;/scp&gt;</title>
       <link>https://doi.org/10.1002/9783527846368.ch17</link>
       <description>Zibo Zhao, Shouxin Zhang, Meiting Zhao, No host. None(None)] 2024. https://openalex.org/W4405352477
@@ -426,6 +426,16 @@
       <author>Cheng-Wen Lee, Mao-Wen Fu</author>
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.47260/amae/15110</guid>
+    </item>
+    <item>
+      <title>Testing Exhaust Emissions of Plug-In Hybrid Vehicles in Poland</title>
+      <link>https://doi.org/10.3390/en17246288</link>
+      <description>Jacek Pielecha, W. Gis, Energies. 17(24)] 2024. https://openalex.org/W4405374914
+
+                The article addresses the usage patterns of plug-in hybrid vehicles (PHEVs) under Polish conditions. The conventional approach to operating such vehicles assumes that they are used with a fully charged battery at the start. However, the economic circumstances of Polish users often do not allow for daily charging of vehicles from the domestic power grid. As a result, these vehicles are used not only in a mode powered solely by the internal combustion engine but also in a mode where the internal combustion engine is primarily utilized to charge the battery. An analysis was conducted on various ways of operating plug-in vehicles, evaluating not only harmful emissions but also fuel consumption (for battery states of charge: SOC = 100%, SOC = 50%, SOC = 0%, and SOC = 0 &#8594; 100%&#8212;forced charging mode). The study focused on the most characteristic vehicle segment in Poland, SUVs, and employed a methodology for determining exhaust emissions under real-world driving conditions. Results indicate that forced charging of such a vehicle&#8217;s battery leads to over a 25-fold increase in carbon dioxide emissions (fuel consumption) in urban areas compared to operating the vehicle with a fully charged battery (CO&#8212;25&#215; increase, NOx&#8212;12&#215; increase, PN&#8212;11&#215; increase). Operating a plug-in SUV without charging it from the power grid results in a 13-fold increase in fuel consumption compared to using the vehicle with a fully charged battery (CO&#8212;10&#215; increase, NOx&#8212;6&#215; increase, PN&#8212;4&#215; increase). The emission results were used to evaluate Poland&#8217;s charging infrastructure in the context of PHEV usage. The current state of the infrastructure and its development plans for 2030 and 2040 were analyzed. It was found that significant reductions in fuel consumption (by approximately 30%) and CO2 emissions are achievable by 2040. Emissions of CO, NOx, and PN are expected to decrease by about 10%, primarily due to the internal combustion engine operating at high load conditions in non-urban or highway scenarios.</description>
+      <author>Jacek Pielecha, W. Gis</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/en17246288</guid>
     </item>
     <item>
       <title>&lt;scp&gt;Designing&lt;/scp&gt; and screening single&#8208;atom alloy catalysts for &lt;scp&gt;CO&lt;sub&gt;2&lt;/sub&gt;&lt;/scp&gt; reduction to &lt;scp&gt;CH&lt;sub&gt;3&lt;/sub&gt;OH&lt;/scp&gt; via &lt;scp&gt;DFT&lt;/scp&gt; and machine learning</title>
@@ -468,6 +478,16 @@
       <guid isPermaLink="true">https://doi.org/10.30955/gnj.06305</guid>
     </item>
     <item>
+      <title>High&#8208;sensitivity real&#8208;time monitoring of &lt;scp&gt;pH&lt;/scp&gt; and respiration activity unveils metabolic dynamics in shake flask cultures</title>
+      <link>https://doi.org/10.1002/btpr.3525</link>
+      <description>Burak Sarikaya, Karsten G&#252;nster, Luca Antonia Grebe, Eva Forsten, Katharina H&#252;rter, Jochen B&#252;chs, J&#248;rgen Barsett Magnus, Biotechnology Progress. None(None)] 2024. https://openalex.org/W4405379371
+
+                Abstract Erlenmeyer shake flasks are widely used during the first steps of bioprocess development. Despite their broad application in academia and industry, shake flasks usually lack standardized and user&#8208;friendly online monitoring techniques. In this work, the pH and Respiratory Activity MOnitoring System (pH&#8208;RAMOS) for the non&#8208;invasive online measurement of the oxygen transfer rate (OTR), carbon dioxide transfer rate (CTR), and pH in up to eight parallel shake flasks under sterile conditions is presented. The OTR and CTR are quasi&#8208;continuously measured in the headspace of the shake flasks using dedicated oxygen and carbon dioxide sensors, enabling precise respiratory quotient (RQ) evaluation. Self&#8208;adhesive pH sensor spots are used for the high&#8208;frequent real&#8208;time pH monitoring of the culture. These prototype pH sensor spots stand out due to their simple sterilizability and subsequent one&#8208;point calibration in the cultivation medium. The long&#8208;term stability of the pH sensor spots was assessed in a 28&#8208;day long abiotic experiment. The novel pH&#8208;RAMOS was validated with different eukaryotic and prokaryotic microorganisms, such as Ogataea polymorpha , Ustilago trichophora , and Vibrio natriegens . The combination of online OTR, CTR, RQ, and pH signals allowed for identifying various metabolic phenomena, such as oxygen limitations, substrate limitations, diauxies, and the production or consumption of specific compounds, based on their degree of reduction or change of pH. The high&#8208;frequent and sensitive pH&#8208;monitoring was particularly advantageous for registering subtle and transient metabolic phenomena.</description>
+      <author>Burak Sarikaya, Karsten G&#252;nster, Luca Antonia Grebe, Eva Forsten, Katharina H&#252;rter, Jochen B&#252;chs, J&#248;rgen Barsett Magnus</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/btpr.3525</guid>
+    </item>
+    <item>
       <title>Metagenomic analysis of compositions and metabolic potential of microbial communities in production water from CO2-and water- flooded petroleum reservoirs</title>
       <link>https://doi.org/10.26789/aeb.2024.02.006</link>
       <description>Lei Zhou, Gui-Na Qi, Yi-Fan Liu, Jin&#8208;Feng Liu, Shi&#8208;Zhong Yang, Ji&#8208;Dong Gu, Bo&#8208;Zhong Mu, Applied Environmental Biotechnology. 9(2)] 2024. https://openalex.org/W4405335938
@@ -498,6 +518,16 @@
       <guid isPermaLink="true">https://doi.org/10.2305/cdco4840</guid>
     </item>
     <item>
+      <title>Silicon&#8208;Based Electrodes for Photoelectrochemical Redox Reactions</title>
+      <link>https://doi.org/10.1002/adsu.202400756</link>
+      <description>Yaxing Zhao, Yuanhua Sang, Hong Liu, Xiaowen Yu, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4405384422
+
+                Abstract Photoelectrochemical (PEC) technology is one of the most promising methods for converting solar energy into valuable fuels and chemicals. Silicon (Si), a narrow band gap semiconductor with high carrier mobility, serves as a competitive material for photoelectrodes. This review outlines the research progress of Si&#8208;based photoanodes and photocathodes in diverse economically beneficial PEC redox reactions, extending beyond water splitting to include alcohol oxidation, carbon dioxide reduction, ammonia synthesis, organic degradation, and more. To address the key barriers to achieving efficient PEC conversion &#8211; such as slow charge carrier dynamics, sluggish reaction kinetics, and the instability of Si&#8208;based photoelectrodes &#8211; the mechanisms and implementation methods for fabricating efficient and stable Si&#8208;based photoelectrodes are thoroughly discussed. Finally, the challenges faced in advancing the commercialization of Si&#8208;based PEC solar energy conversion processes are explored.</description>
+      <author>Yaxing Zhao, Yuanhua Sang, Hong Liu, Xiaowen Yu</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400756</guid>
+    </item>
+    <item>
       <title>Low Potential Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction to Methanol over Nickel&#8208;Based Hollow 0D Carbon Superstructure</title>
       <link>https://doi.org/10.1002/aenm.202403809</link>
       <description>Sayantan Chongdar, Rupak Chatterjee, S. K. Reza, Sitaram Pal, Ranjit Thapa, Rajaram Bal, Asim Bhaumik, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4405257617
@@ -508,14 +538,24 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403809</guid>
     </item>
     <item>
-      <title>Thermal Protection Analysis of Hypersonic Reentry Nose Cone with Multi-Row Disk Spike Using Lateral Single/Multi Jets: A Computational Investigation</title>
-      <link>https://doi.org/10.1115/1.4067366</link>
-      <description>Hanting Gao, Dan Zhu, Journal of Fluids Engineering. None(None)] 2024. https://openalex.org/W4405141836
+      <title>Exploring the carbon footprint of severe asthma and change after biologic therapy initiation: an analysis of Northern Irish data</title>
+      <link>https://doi.org/10.1183/23120541.01009-2024</link>
+      <description>John Busby, Mina Khezrian, Sandeep Patel, Trung N. Tran, Kirsty Rhodes, Liam G. Heaney, ERJ Open Research. None(None)] 2024. https://openalex.org/W4405385649
 
-                Abstract This research examines the efficacy of employing lateral multi jets to decrease thermal effects on the blunt body featuring a multi-row disk spike, which holds significant importance in the design of high-speed vehicles. The main novelty of the model is the combination of the spike with Multiple row disk along with the injection of the coolant jet. The study thoroughly analyzes the cooling mechanism of lateral jets and assesses the influence of coolant jet positioning on heat reduction of the nose and mechanical spike. This study employed RANS equations with SST turbulence model for the simulation of the high-speed flow around the nose cone with Multi-Row Disk Spike. A comparison is made between the effectiveness of CO2 and helium jets, both as single and multiple injectors. The results display that a single CO2 jet released near the tip of the spike is the most effective, and placing the lateral coolant injector away from the main body effectively manages aerodynamic heating. Additionally, the research compares the heat load reduction achieved by triple lateral jets and concludes that the CO2 jet is the most efficient option for thermal protection of the main body. The role of the spike in reduction of the heat load is reduced 20% when CO2 jet is released from all lateral injectors.</description>
-      <author>Hanting Gao, Dan Zhu</author>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1115/1.4067366</guid>
+                Introduction The carbon footprint of severe asthma (SA) and the impact of biologic therapy in this population is unknown. Methods This was a retrospective cohort study in adults with SA, using data from the Northern Ireland Regional Severe Asthma Service (September 2015-November 2021). We calculated annual greenhouse gas emissions (GHGs; carbon dioxide equivalent) for asthma-related medications and healthcare resource utilisation, compared patient characteristics by GHG-quartile, calculated GHG change post-biologic initiation and explored the relationship between GHG change and clinical response. Results Among 303 patients with SA, mean GHGs was 474 kg ( sd :431), largely driven by SABA-use (50.7%) and ED/hospitalizations (21.0%). Those with highest-quartile GHGs were more likely to have uncontrolled disease (ACQ 3.5 versus 2.5; p&lt;0.001), be more deprived (46.1% versus 25.0%, p=0.029) and have depression/anxiety (35.5% versus 14.7%, p=0.002) versus those with lowest-quartile GHGs. Among patients who received a biologic (n=213), modest GHG reductions (&#8722;28.0 kg [ sd :286], p=0.15) were observed, largely driven by reduction in ED/hospitalization-related GHGs (&#8722;59.3 [ sd :224], p&lt;0.001). SABA-related GHG emissions were relatively unchanged (&#8722;6.1 kg [ sd :138]), p=0.518). Total GHGs were 72.4 kg ( sd :352, p=0.044) lower than baseline 4-years post-biologic-initiation. Although there was substantial clinical improvement post-biologic-initiation, this was not associated with GHG reductions. Conclusions SA is associated with substantial GHGs, primarily driven by SABA use and emergency care utilisation. Although GHG emissions were lower post-biologic, largely due to a reduction in emergency care, the changes in GHGs were modest and SABA-use was relatively unchanged. An improved understanding of the factors driving elevated GHGs is required.</description>
+      <author>John Busby, Mina Khezrian, Sandeep Patel, Trung N. Tran, Kirsty Rhodes, Liam G. Heaney</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1183/23120541.01009-2024</guid>
+    </item>
+    <item>
+      <title>Realization of a photoelectrochemical cascade for the generation of methanol, a liquid solar fuel</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-kxf6j-v2</link>
+      <description>Thomas Chan, Calton J. Kong, Grace A. Rome, Darci Collins, Alex J. King, Rajiv Ramanujam Prabhakar, Sarah A. Collins, Michelle Young, Mickey J. Wilson, Myles A. Steiner, Adele C. Tamboli, Emily L. Warren, Clifford P. Kubiak, Joel W. Ager, Ann L. Greenaway, No host. None(None)] 2024. https://openalex.org/W4405383076
+
+                Biochemical networks use reaction cascades to selectively reduce CO2 using energy from sunlight, but can similar selectivity be achieved by applying a cascade approach to an engineered system? Here, we report the design and implementation of a two-step photoelectrochemical (PEC) cascade to a liquid solar fuel: reduction of CO2 to CO and subsequent reduction of CO to methanol. The potentials required to perform the reductions were generated using custom-made III-V-based three-terminal tandem (3TT) solar cells. Cobalt phthalocyanine immobilized on multi-walled carbon nanotubes (CoPc/MWCNT) catalyzed both reactions. Multiphysics simulations of electrolyte flow and non-illuminated electrochemical measurements were used to narrow the operating parameters for the CoPc/MWCNT 3TT photocathodes. The champion integrated photocathode produced methanol with 3.8 &#177; 0.4% Faradaic efficiency (FE), with tested photocathodes having 0.7-3.8% methanol FE. Products were quantified by nuclear magnetic resonance spectroscopy and gas chromatography. The current output of the tested photocathodes was highly stable, and methanol production continued over multiple experiments. The low methanol yield is attributed to insufficient CO flux to, and CO2 depletion at, the methanol-producing subcell when both contacts are active, which is supported by the observation that a control photoelectrode slightly outperformed the methanol production of the 3TT device. Methanol production ceased when the 3TT subcell driving CO reduction was deactivated, supporting the assignment of a cascade mechanism. The major factors resulting in low methanol FE by the CoPc/MWCNT 3TT photocathodes are insufficient CO2 depletion at the methanol-producing contact and uncertainty in operating potential selection using the 3TT design. Although the CoPc/MWCNT 3TT photocathode is not yet highly selective, this work develops the basic science principles underlying the PEC cascade, demonstrates the co-design of a 3TT-based photoelectrode to produce carbon-based fuels, and finally discusses routes for improving product yields with this concept, including CO2 supply optimization and alternative photoelectrode and catalyst materials.</description>
+      <author>Thomas Chan, Calton J. Kong, Grace A. Rome, Darci Collins, Alex J. King, Rajiv Ramanujam Prabhakar, Sarah A. Collins, Michelle Young, Mickey J. Wilson, Myles A. Steiner, Adele C. Tamboli, Emily L. Warren, Clifford P. Kubiak, Joel W. Ager, Ann L. Greenaway</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-kxf6j-v2</guid>
     </item>
     <item>
       <title>Assessment of the quality and mechanical properties of metal layers from low-carbon steel obtained by the WAAM method with the use of additional using additional mechanical and ultrasonic processing</title>
@@ -588,6 +628,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta06665k</guid>
     </item>
     <item>
+      <title>Unveiling the Influence of Activation Protocols on Cobalt Catalysts for Sustainable Fuel Synthesis</title>
+      <link>https://doi.org/10.3390/catal14120920</link>
+      <description>Mohamed Amine Lwazzani, Andr&#233;s A. Garc&#237;a Blanco, Mart&#237; Biset&#8208;Peir&#243;, Elena Mart&#237;n Morales, Jordi Guilera, Catalysts. 14(12)] 2024. https://openalex.org/W4405366725
+
+                The Fischer&#8211;Tropsch Synthesis process is projected to have a significant impact in the near future due to its potential for synthesizing sustainable fuels from biomass, carbon dioxide and organic wastes. In this catalytic process, catalyst activation plays a major role in the overall performance of Fischer&#8211;Tropsch Synthesis. Catalyst activation temperatures are considerably higher than the typical operating conditions of industrial reactors. Consequently, ex situ activation is often required for industrial Fischer&#8211;Tropsch Synthesis processes. This study evaluated the influence of different activation approaches (in situ, ex situ, passivation and low-temperature activation). Catalytic experiments were conducted in a fixed-bed reactor at 230 &#176;C and 20 bar&#183;g using a reference supported Co/&#947;-Al2O3 catalyst. Experimental results demonstrate that catalysts can be effectively reduced ex situ. This work reveals that re-activation of the catalyst after ex situ reduction is unnecessary, as the reaction conditions themselves re-reduce any superficial oxides formed, owing to the reducing nature of the reactant mixture. This approach could simplify reactor design by enabling temperature requirements to match operating conditions (e.g., 230 &#176;C), thereby reducing both investment and operational costs and eliminating additional catalyst preparation steps.</description>
+      <author>Mohamed Amine Lwazzani, Andr&#233;s A. Garc&#237;a Blanco, Mart&#237; Biset&#8208;Peir&#243;, Elena Mart&#237;n Morales, Jordi Guilera</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14120920</guid>
+    </item>
+    <item>
       <title>Coupling x-ray computed tomography and gray-level co-occurrence matrix to assess the evolution of microstructural damage in coal treated with supercritical CO2 fluid</title>
       <link>https://doi.org/10.1063/5.0246083</link>
       <description>Peng Luo, Zhenyu Zhang, Zihao Kan, Kangsheng Xue, Zhenjian Liu, Physics of Fluids. 36(12)] 2024. https://openalex.org/W4405280685
@@ -596,16 +646,6 @@
       <author>Peng Luo, Zhenyu Zhang, Zihao Kan, Kangsheng Xue, Zhenjian Liu</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0246083</guid>
-    </item>
-    <item>
-      <title>Sustainable Lighting Systems Implementation Methodology Aligned with SDGs and International Standards: A Case Study in a Mexican Technological Institute</title>
-      <link>https://doi.org/10.3390/su162410831</link>
-      <description>Jorge Alberto C&#225;rdenas Maga&#241;a, Marco Antonio Celis Cris&#243;stomo, Juan Miguel Gonz&#225;lez L&#243;pez, Sergio Sandoval-Perez, Daniel A. Verde Romero, Francisco Miguel Hern&#225;ndez L&#243;pez, Efra&#237;n Villalvazo Laureano, Emmanuel Vega Negrete, Jaime Jalomo Cuevas, Ram&#243;n Ch&#225;vez-Bracamontes, Pedro S&#225;nchez, Sustainability. 16(24)] 2024. https://openalex.org/W4405259407
-
-                This paper presents a comprehensive holistic methodology implemented for sustainable lighting systems in educational institutions. The proposed methodology is aligned with the Sustainable Development Goals (SDGs), particularly with SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action), and it follows international standards. The six-step process includes viability analysis, project design simulation using DIALux 4.13 software, the installation of LED lighting systems, and the redesign of some electrical circuits, followed by an analysis of return on investment and the monitorization of CO2 and energy consumption. The proposed methodology results in significant return on investment (ROI), primarily achieved through energy savings and reduced maintenance costs. The implementation of LED tubes, combined with occupancy and natural light sensors, leads to a 66% reduction in energy consumption and a reduction of 15.63 tons (metric tons) of CO2 annually, translating into a quick payback period of approximately 2.36 years. Additionally, the system includes Long-Term Monitoring, which ensures that energy consumption and lighting levels are continuously tracked.</description>
-      <author>Jorge Alberto C&#225;rdenas Maga&#241;a, Marco Antonio Celis Cris&#243;stomo, Juan Miguel Gonz&#225;lez L&#243;pez, Sergio Sandoval-Perez, Daniel A. Verde Romero, Francisco Miguel Hern&#225;ndez L&#243;pez, Efra&#237;n Villalvazo Laureano, Emmanuel Vega Negrete, Jaime Jalomo Cuevas, Ram&#243;n Ch&#225;vez-Bracamontes, Pedro S&#225;nchez</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su162410831</guid>
     </item>
     <item>
       <title>Two&#8208;Dimensional Conjugated Metal&#8208;Organic Frameworks for Photochemical Transformations</title>
@@ -618,14 +658,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202422382</guid>
     </item>
     <item>
-      <title>Ligand-induced Changes in the Electrocatalytic Activity of Atomically Precise Au&#8322;&#8325; Nanoclusters</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-t9f58</link>
-      <description>Qing Tang, Lipan Luo, Xia Zhou, Yuping Chen, Fang Sun, Likai Wang, No host. None(None)] 2024. https://openalex.org/W4405354717
+      <title>Sustainable Lighting Systems Implementation Methodology Aligned with SDGs and International Standards: A Case Study in a Mexican Technological Institute</title>
+      <link>https://doi.org/10.3390/su162410831</link>
+      <description>Jorge Alberto C&#225;rdenas Maga&#241;a, Marco Antonio Celis Cris&#243;stomo, Juan Miguel Gonz&#225;lez L&#243;pez, Sergio Sandoval-Perez, Daniel A. Verde Romero, Francisco Miguel Hern&#225;ndez L&#243;pez, Efra&#237;n Villalvazo Laureano, Emmanuel Vega Negrete, Jaime Jalomo Cuevas, Ram&#243;n Ch&#225;vez-Bracamontes, Pedro S&#225;nchez, Sustainability. 16(24)] 2024. https://openalex.org/W4405259407
 
-                Atomically precise gold nanoclusters have shown great promise as model elctrocatalysts in pivotal electrocatalytic processes such as hydrogen evolution reaction (HER) and carbon dioxide reduction reaction (CO2RR). Although the influence of ligands on the electronic properties of these nanoclusters are well acknowledged, the ligand effects on their electrocatalytic performances have been rarely explored. Herein, using [Au25(SR)18]- nanocluster as the prototype model, we demonstrated the importance of ligand hydrophilicity versus hydrophobicity in modulating the interface dynamics and electrocatalytic performance. Our first-principle computations revealed that Au25 protected by hydrophilic -SCH2COOH ligands dictates faster kinetics in stripping the thiolate ligand and exhibits better HER activity due to enhanced proton transfer facilitated by boosted interface hydrogen bonding. Conversely, Au25 protected by hydrophobic -SCH2CH3 ligands demonstrates enhanced CO2RR performance by minimizing water interference to stabilize the key *COOH intermediate and lower the barrier for CO formation. Experimental validation using synthesized [Au25(MPA)18]- (MPA=Mercaptopropionic acid) and [Au25(SC6H13)18]- confirms these findings, where [Au25(MPA)18]- exhibits better activity and stability in HER, while [Au25(SC6H13)18]- achieves higher Faradaic efficiency and current density in CO2RR. The mechanistic insights in this study provide valuable guidance for the rational design of surface microenvironment in efficient nanocatalysts for sustainable energy applications.</description>
-      <author>Qing Tang, Lipan Luo, Xia Zhou, Yuping Chen, Fang Sun, Likai Wang</author>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-t9f58</guid>
+                This paper presents a comprehensive holistic methodology implemented for sustainable lighting systems in educational institutions. The proposed methodology is aligned with the Sustainable Development Goals (SDGs), particularly with SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action), and it follows international standards. The six-step process includes viability analysis, project design simulation using DIALux 4.13 software, the installation of LED lighting systems, and the redesign of some electrical circuits, followed by an analysis of return on investment and the monitorization of CO2 and energy consumption. The proposed methodology results in significant return on investment (ROI), primarily achieved through energy savings and reduced maintenance costs. The implementation of LED tubes, combined with occupancy and natural light sensors, leads to a 66% reduction in energy consumption and a reduction of 15.63 tons (metric tons) of CO2 annually, translating into a quick payback period of approximately 2.36 years. Additionally, the system includes Long-Term Monitoring, which ensures that energy consumption and lighting levels are continuously tracked.</description>
+      <author>Jorge Alberto C&#225;rdenas Maga&#241;a, Marco Antonio Celis Cris&#243;stomo, Juan Miguel Gonz&#225;lez L&#243;pez, Sergio Sandoval-Perez, Daniel A. Verde Romero, Francisco Miguel Hern&#225;ndez L&#243;pez, Efra&#237;n Villalvazo Laureano, Emmanuel Vega Negrete, Jaime Jalomo Cuevas, Ram&#243;n Ch&#225;vez-Bracamontes, Pedro S&#225;nchez</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su162410831</guid>
     </item>
     <item>
       <title>Two&#8208;Dimensional Conjugated Metal&#8208;Organic Frameworks for Photochemical Transformations</title>
@@ -646,6 +686,26 @@
       <author>Dina Hosam Gabr, Mona A. ElBannan</author>
       <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1108/raf-01-2024-0027</guid>
+    </item>
+    <item>
+      <title>Ligand-induced Changes in the Electrocatalytic Activity of Atomically Precise Au&#8322;&#8325; Nanoclusters</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-t9f58</link>
+      <description>Qing Tang, Lipan Luo, Xia Zhou, Yuping Chen, Fang Sun, Likai Wang, No host. None(None)] 2024. https://openalex.org/W4405354717
+
+                Atomically precise gold nanoclusters have shown great promise as model elctrocatalysts in pivotal electrocatalytic processes such as hydrogen evolution reaction (HER) and carbon dioxide reduction reaction (CO2RR). Although the influence of ligands on the electronic properties of these nanoclusters are well acknowledged, the ligand effects on their electrocatalytic performances have been rarely explored. Herein, using [Au25(SR)18]- nanocluster as the prototype model, we demonstrated the importance of ligand hydrophilicity versus hydrophobicity in modulating the interface dynamics and electrocatalytic performance. Our first-principle computations revealed that Au25 protected by hydrophilic -SCH2COOH ligands dictates faster kinetics in stripping the thiolate ligand and exhibits better HER activity due to enhanced proton transfer facilitated by boosted interface hydrogen bonding. Conversely, Au25 protected by hydrophobic -SCH2CH3 ligands demonstrates enhanced CO2RR performance by minimizing water interference to stabilize the key *COOH intermediate and lower the barrier for CO formation. Experimental validation using synthesized [Au25(MPA)18]- (MPA=Mercaptopropionic acid) and [Au25(SC6H13)18]- confirms these findings, where [Au25(MPA)18]- exhibits better activity and stability in HER, while [Au25(SC6H13)18]- achieves higher Faradaic efficiency and current density in CO2RR. The mechanistic insights in this study provide valuable guidance for the rational design of surface microenvironment in efficient nanocatalysts for sustainable energy applications.</description>
+      <author>Qing Tang, Lipan Luo, Xia Zhou, Yuping Chen, Fang Sun, Likai Wang</author>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-t9f58</guid>
+    </item>
+    <item>
+      <title>Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction: Commercial Innovations and Prospects</title>
+      <link>https://doi.org/10.1002/celc.202400512</link>
+      <description>Swapnil Varhade, Avni Guruji, Chandani Singh, Giancarlo Cicero, Max Garc&#237;a&#8208;Melchor, Joost Helsen, Deepak Pant, ChemElectroChem. None(None)] 2024. https://openalex.org/W4405383618
+
+                Abstract Sustainability is an imperative requirement in this era, with electrocatalytic power into fuels technologies emerging as a significant route toward sustainable chemistry. One of the focus areas within the chemical industry is capture of carbon dioxide (CO 2 ) and its electrochemical reduction (eCO 2 RR) into economically viable commodities through the utilization of renewable sources. Despite some specific eCO 2 RR technologies being poised for market introduction, the development of a comprehensive technology for eCO 2 RR remains a challenge. While certain technologies targeting specific eCO 2 RR products are on the verge of deployment, substantial efforts are still necessary to transition and establish presence in the market over conventional technologies. This review highlights recent technological advancements, fundamental studies, and the persisting challenges from an industrial perspective. We take a deep dive into the research methodologies, strategies, challenges, and advancements in the development of applications for eCO 2 RR. Specifically, three eCO 2 RR products &#8211; CO, HCOOH, and C 2 H 4 &#8211; as promising candidates for implementation are elaborated based on techno&#8208;economic considerations. Additionally, the review discusses the industrial blueprint for these products, aiming to streamline their path toward commercialization. The intent is to present the status of eCO 2 RR, offering insights into its potential transformation from a mere laboratory curiosity to a feasible technology for industrial chemical synthesis.</description>
+      <author>Swapnil Varhade, Avni Guruji, Chandani Singh, Giancarlo Cicero, Max Garc&#237;a&#8208;Melchor, Joost Helsen, Deepak Pant</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/celc.202400512</guid>
     </item>
     <item>
       <title>Methane emission reduction through hydrogen blending in a large bore 2-stroke lean-burn natural gas compressor engine</title>
@@ -698,6 +758,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17236171</guid>
     </item>
     <item>
+      <title>System for Quantifying Methane, Carbon Dioxide, and Hydrogen Sulfide Emissions in Low-Cost Digesters Inoculated with Horse Manure</title>
+      <link>https://doi.org/10.18273/revion.v37n2-2024003</link>
+      <description>Yudtanduly Acu&#241;a Monsalve, L. Rodr&#237;guez, D. Molina, Revista ION. 37(2)] 2024. https://openalex.org/W4405396083
+
+                Methane CH&#8324; and carbon dioxide CO&#8322; are the primary gases produced during anaerobic digestion AD, followed by what is referred to as &#8220;other gases,&#8221; a highly variable group depending on the type of organic matter being digested. However, one of the most notable and common gases is hydrogen sulfide (H&#8322;S), a gas that, while not a greenhouse gas, is well-known for its corrosive effects and its impact on health and the environment [1]. To quantify gas emissions associated with the treatment of horse manure at the Cavalry Canton of the National Army of Colombia, a direct monitoring system was implemented. Over 45 days, measurements of CH&#8324;, CO&#8322;, and H&#8322;S were conducted using sensors such as the MQ-4, TGS 2611, SEN 0219, and MQ-136, respectively. The measurement ranges of the instruments used were: (200 &#8211; 10,000 ppm, 500 &#8211; 12,500 ppm, 0 &#8211; 5000 ppm, and 0 &#8211; 200 ppm), with detection levels of: (10 ppm, 0.1 &#8211; 0.65 ppm, 40 ppm, 30 ppm). These instruments were placed in three key scenarios: the manure storage site, the biodigester outlet, and under controlled laboratory conditions. The objective was to generate a detailed analysis of the behavior of these emissions. As a result, theoretical estimates of CH&#8324; and CO&#8322; equivalents were calculated for the Cavalry Canton. These theoretical estimates were compared with the data obtained from the monitoring and showed reductions ranging from 8 to 87 % for CH&#8324;, 58 to 67 % for CO&#8322;, and 33 to 65 % for H&#8322;S. These figures highlight the effectiveness of the implemented system in detecting gas emissions of interest from horse manure management, significantly contributing to environmental sustainability.</description>
+      <author>Yudtanduly Acu&#241;a Monsalve, L. Rodr&#237;guez, D. Molina</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.18273/revion.v37n2-2024003</guid>
+    </item>
+    <item>
       <title>Assessing corporate transition plans using a production asset-based planning approach</title>
       <link>https://doi.org/10.21203/rs.3.rs-5245457/v1</link>
       <description>David Kampmann, Saphira Rekker, Ruan Min, Gireesh Shrimali, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4405157121
@@ -718,14 +788,24 @@
       <guid isPermaLink="true">https://doi.org/10.33579/krvtk.v9i2.5429</guid>
     </item>
     <item>
-      <title>Effects of Flow and Geomechanics Coupling in Faulted Reservoirs for CO2 Storage</title>
-      <link>https://doi.org/10.2118/220000-pa</link>
-      <description>Andrea C. Ferrari, Stefano Nardean, Silvia Monaco, Timur Garipov, Stefano Mantica, A. Cominelli, SPE Journal. None(None)] 2024. https://openalex.org/W4405274510
+      <title>Ocean acidification trends and carbonate system dynamics across the North Atlantic subpolar gyre water masses during 2009&#8211;2019</title>
+      <link>https://doi.org/10.5194/bg-21-5561-2024</link>
+      <description>David Curbelo-Hern&#225;ndez, F&#305;&#769;z F. P&#233;rez, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana&#8208;Casiano, Biogeosciences. 21(23)] 2024. https://openalex.org/W4405383342
 
-                Summary Accurately reproducing the coupling of fluid flow in porous media and rock mechanics is crucial for the modeling of CO2 geological storage to properly evaluate and prevent the risk of inducing fault instability during injection operations. As an alternative to using monolithic flow/mechanical suites, the process can be modeled by linking individual codes, that is i, a reservoir simulator for flow and a geomechanical package to account for fluid-induced stress change, which tackle the two problems sequentially. We developed a flexible numerical framework from which different coupling logics can be selected (i.e., one-way coupling, two-way iterative coupling, and two-way explicit coupling), which are characterized by different levels of accuracy and computational costs. A multirate, two-way coupling algorithm, which allows the flow and mechanical simulators to exchange information periodically rather than at every timestep, is also available to reduce the computational cost of two-way coupled simulations. In this work, we use this coupling infrastructure to perform numerical experiments aimed at defining whether sequential iterative coupling is strictly needed or not, and which less expensive logic can be used to attain a similar solution accuracy. First, a synthetic test case is used to illustrate the onset of fault instability during CO2 injection operations for different sets of coupling parameters (type and frequency), rock properties, and fault permeability. It is thus possible to evaluate, for a reasonable range of coupling strength, which depends on fluids and rock properties, the optimal level of coupling. Results are strongly influenced by the coupling strength, and two-way iterative coupling should be selected for tightly coupled systems to accurately reproduce the fault behavior. For a loosely coupled system, instead, the one-way approach should be the preferred choice due to its lower computational cost. Later, we consider CO2 injection into a realistic formation, and we analyze the impact of the coupling frequency on the computational performance. We show that, for complex cases, there is no one-to-one correspondence between the reduction in the number of coupling iterations and the reduction in computational time for increasing coupling period.</description>
-      <author>Andrea C. Ferrari, Stefano Nardean, Silvia Monaco, Timur Garipov, Stefano Mantica, A. Cominelli</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2118/220000-pa</guid>
+                Abstract. The CO2&#8211;carbonate system dynamics in the North Atlantic subpolar gyre (NASPG) were evaluated between 2009 and 2019. Data were collected aboard eight summer cruises through the Climate and Ocean: Variability, Predictability and Change (CLIVAR) 59.5&#176; N section. The ocean acidification (OA) patterns and the reduction in the saturation state of calcite (&#937;Ca) and aragonite (&#937;Arag) in response to the increasing anthropogenic CO2 (Cant) were assessed within the Irminger, Iceland, and Rockall basins during a poorly assessed decade in which the physical patterns reversed in comparison with previous well-known periods. The observed cooling, freshening, and enhanced ventilation increased the interannual rate of accumulation of Cant in the interior ocean by 50 %&#8211;86 % and the OA rates by close to 10 %. The OA trends were 0.0013&#8211;0.0032 units yr&#8722;1 in the Irminger and Iceland basins and 0.0006&#8211;0.0024 units yr&#8722;1 in the Rockall Trough, causing a decline in &#937;Ca and &#937;Arag of 0.004&#8211;0.021 and 0.003&#8211;0.0013 units yr&#8722;1, respectively. The Cant-driven rise in total inorganic carbon (CT) was the main driver of the OA (contributed by 53 %&#8211;68 % in upper layers and &gt; 82 % toward the interior ocean) and the reduction in &#937;Ca and &#937;Arag (&gt; 64 %). The transient decrease in temperature, salinity, and AT collectively counteracts the CT-driven acidification by 45 %&#8211;85 % in the upper layers and in the shallow Rockall Trough and by &lt; 10 % in the interior ocean. The present investigation reports the acceleration of the OA within the NASPG and expands knowledge about the future state of the ocean.</description>
+      <author>David Curbelo-Hern&#225;ndez, F&#305;&#769;z F. P&#233;rez, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana&#8208;Casiano</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/bg-21-5561-2024</guid>
+    </item>
+    <item>
+      <title>Design and Implementation of a Decision Integration System for Monitoring and Optimizing Heating Systems: Results and Lessons Learned</title>
+      <link>https://doi.org/10.3390/en17246290</link>
+      <description>Kirill Djebko, Daniel Weidner, Marcel Waleska, Timo Krey, Bhaskar Kamble, Sven Rausch, Dietmar Seipel, Frank Puppe, Energies. 17(24)] 2024. https://openalex.org/W4405374415
+
+                With the increasing need to tackle climate change, energy efficiency and reduced CO2 emissions are proving to be one of society&#8217;s greatest challenges. Special consideration should be given to heating systems as they are prone to inefficiency due to non-optimal controller configurations and the shortage of experts or qualified technicians to optimize the operating behavior. Especially for residential heating systems, more often than not, the target metric is the achievement of specific heating and hot water temperatures by manual adjustments with limited sensor information and with little regard to efficiency. This presents potential for computer-aided optimization based on artificial intelligence techniques. In this paper, we presented a Decision Integration System that is interfaced with a data acquisition infrastructure and allows for the analysis of measured heating system data, the generation of recommended measures for efficiency improvement, and the simulative validation of recommended controller parameter changes. We presented different parts of the Decision Integration System, the interfaced data acquisition infrastructure, as well as the non-invasive sensor appliances used. We analyzed the measured data of real heating systems and evaluated our approach by generating the recommended measures based on rules created by heating system experts, which were then partially applied to the physical heating systems and partially evaluated in simulation. Finally, we compared long-term energy consumption data against the latest monitoring period after implementing the measures. Our results showed an average reduction in energy consumption of 24.52% across all considered buildings, corresponding to an approximate reduction of 8.12 tons of CO2 emissions.</description>
+      <author>Kirill Djebko, Daniel Weidner, Marcel Waleska, Timo Krey, Bhaskar Kamble, Sven Rausch, Dietmar Seipel, Frank Puppe</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/en17246290</guid>
     </item>
     <item>
       <title>Life Cycle Assessment of Microalgae-Based Products for Carbon Dioxide Utilization in Thailand: Biofertilizer, Fish Feed, and Biodiesel</title>
@@ -748,6 +828,26 @@
       <guid isPermaLink="true">https://doi.org/10.4103/mgr.medgasres-d-24-00076</guid>
     </item>
     <item>
+      <title>Effects of Flow and Geomechanics Coupling in Faulted Reservoirs for CO2 Storage</title>
+      <link>https://doi.org/10.2118/220000-pa</link>
+      <description>Andrea C. Ferrari, Stefano Nardean, Silvia Monaco, Timur Garipov, Stefano Mantica, A. Cominelli, SPE Journal. None(None)] 2024. https://openalex.org/W4405274510
+
+                Summary Accurately reproducing the coupling of fluid flow in porous media and rock mechanics is crucial for the modeling of CO2 geological storage to properly evaluate and prevent the risk of inducing fault instability during injection operations. As an alternative to using monolithic flow/mechanical suites, the process can be modeled by linking individual codes, that is i, a reservoir simulator for flow and a geomechanical package to account for fluid-induced stress change, which tackle the two problems sequentially. We developed a flexible numerical framework from which different coupling logics can be selected (i.e., one-way coupling, two-way iterative coupling, and two-way explicit coupling), which are characterized by different levels of accuracy and computational costs. A multirate, two-way coupling algorithm, which allows the flow and mechanical simulators to exchange information periodically rather than at every timestep, is also available to reduce the computational cost of two-way coupled simulations. In this work, we use this coupling infrastructure to perform numerical experiments aimed at defining whether sequential iterative coupling is strictly needed or not, and which less expensive logic can be used to attain a similar solution accuracy. First, a synthetic test case is used to illustrate the onset of fault instability during CO2 injection operations for different sets of coupling parameters (type and frequency), rock properties, and fault permeability. It is thus possible to evaluate, for a reasonable range of coupling strength, which depends on fluids and rock properties, the optimal level of coupling. Results are strongly influenced by the coupling strength, and two-way iterative coupling should be selected for tightly coupled systems to accurately reproduce the fault behavior. For a loosely coupled system, instead, the one-way approach should be the preferred choice due to its lower computational cost. Later, we consider CO2 injection into a realistic formation, and we analyze the impact of the coupling frequency on the computational performance. We show that, for complex cases, there is no one-to-one correspondence between the reduction in the number of coupling iterations and the reduction in computational time for increasing coupling period.</description>
+      <author>Andrea C. Ferrari, Stefano Nardean, Silvia Monaco, Timur Garipov, Stefano Mantica, A. Cominelli</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2118/220000-pa</guid>
+    </item>
+    <item>
+      <title>Electroreductive Cross-Coupling Reactions: Carboxylation, Deuteration, and Alkylation</title>
+      <link>https://doi.org/10.1021/acs.accounts.4c00652</link>
+      <description>Pengfei Li, Yanwei Wang, Hanying Zhao, Youai Qiu, Accounts of Chemical Research. None(None)] 2024. https://openalex.org/W4405367867
+
+                ConspectusElectrochemistry has been used as a tool to drive chemical reactions for more than two centuries. With the help of an electrode and a power source, chemists are provided with a system whose potential can be precisely dialed in. The theoretically infinite redox range renders electrochemistry capable of oxidizing or reducing some of the most tenacious compounds. Indeed, electroreduction offers an alternative to generating highly active intermediates from electrophiles (e.g., halides, alkenes, etc.) in organic synthesis, which can be untouchable with traditional reduction methods. Meanwhile, the reductive coupling reactions are extensively utilized in both industrial and academic settings due to their ability to swiftly, accurately, and effectively construct C&#8211;C and C&#8211;X bonds, which present innovative approaches for synthesizing complex molecules. Nonetheless, its application is constrained by several inherent limitations: (a) the requirement for stoichiometric quantities of reducing agents, (b) scarce activation strategies for inert substrates with high reduction potentials, (c) incomplete mechanistic elucidation, and (d) challenges in the isolation of intermediates. The merging of electrochemistry and reductive coupling represents an attractive approach to address the above limitations in organic synthesis and has seen increasing use in the synthetic community over the past few years.Since 2020, our group has been dedicated to developing electroreductive cross-coupling reactions using readily available organic substrates with small molecules, such as organic halides, alkenes, arenes, CO2, and D2O, to construct high value-added organic products. Electroreductive chemistry is highly versatile and offers powerful reducing capacity and precise selectivity control, which has allowed us to develop three electrochemical modes in our lab: (1) An economically advantageous electrochemical direct reduction (EDR) strategy that emphasizes efficiency, achieves high atom utilization, and minimizes unnecessary atomic waste. (2) A class of electrochemical organo-mediated reduction (EOMR) methods that are capable of effectively controlling reaction intermediates and reaction pathways. This allows for precise modulation of reaction processes to enhance efficiency and selectivity. (3) The electrochemical metal-catalyzed reduction (EMCR) method that enables selective activation and functionalization of specific chemical bonds or functional groups under mild conditions, thereby reducing the occurrence of side reactions. We commenced our studies by establishing an organic-mediator-promoted electroreductive carboxylation of aryl and alkyl halides. This strategy was then employed for the arylcarboxylation of simple styrenes with aryl halides in a highly selective manner. Meanwhile, under direct electrolysis conditions, the carboxylation of arenes and epoxides with CO2 as the carboxyl source was achieved. Moreover, through the precise adjustment of the electroreductive conditions, we successfully accomplished the electroreductive deuteration of arenes, olefins, and unactivated alkyl halides, enabling the efficient and selective formation of D-labeled products. Finally, building on our previous understanding of alkyl halides, we developed a series of electrochemical alkylation reactions that enable the efficient formation of C(sp3)&#8211;C(sp3) bonds using alkyl halides.</description>
+      <author>Pengfei Li, Yanwei Wang, Hanying Zhao, Youai Qiu</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.accounts.4c00652</guid>
+    </item>
+    <item>
       <title>Respostas fisiol&#243;gicas de &amp;lt;i&amp;gt;Theobroma cacao&amp;lt;/i&amp;gt; L. submetidas ao alagamento por longos per&#237;odos</title>
       <link>https://doi.org/10.32712/2446-4775.2024.1325</link>
       <description>Bruno Eust&#225;quio Cirilo Silva, Marlinda Rufina Jolomba Silva, Deleted Journal. 18(None)] 2024. https://openalex.org/W4405284259
@@ -756,6 +856,16 @@
       <author>Bruno Eust&#225;quio Cirilo Silva, Marlinda Rufina Jolomba Silva</author>
       <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.32712/2446-4775.2024.1325</guid>
+    </item>
+    <item>
+      <title>Multispectral Imaging and OCT-Guided Precision Treatment of Rhinophyma with CO2 and Dye Lasers: A Comprehensive Diagnostic and Therapeutic Approach</title>
+      <link>https://doi.org/10.3390/cosmetics11060221</link>
+      <description>S. Amato, Steven Paul Nistic&#242;, Alessandro Clementi, Giorgio Stabile, Fortunato Cassalia, Annunziata Dattola, Giuseppe Rizzuto, Giovanni Cannarozzo, Cosmetics. 11(6)] 2024. https://openalex.org/W4405371770
+
+                Background/Objectives: Rhinophyma, an advanced form of rosacea, is characterized by significant nasal tissue enlargement and deformation, leading to aesthetic and psychosocial challenges. Traditional treatments are often invasive with variable outcomes, emphasizing the need for improved therapeutic approaches. This study evaluates the efficacy of a dual-laser therapy (CO2 and dye lasers) in treating rhinophyma. An innovative diagnostic algorithm using multispectral imaging guided treatment decisions, while Optical Coherence Tomography (OCT) was utilized to analyze post-treatment vascular and collagen changes. Methods: A prospective study was conducted involving 20 patients with rhinophyma. Multispectral imaging was used to guide the tailored application of CO2 laser, dye laser, or both, depending on the predominant vascular or glandular components in the nasal tissue. Post-treatment analysis employed OCT to assess changes in vascular and collagen density, providing insights into the tissue modifications induced by laser therapy. Results: The treatment significantly reduced vascular density from 35,526.75 to 26,577.55 at 300 microns and from 46,916.25 to 35,509.25 at 500 microns. Collagen density decreased from 81.35 to 66.34. All reductions were statistically significant, with highly significant p-values. These findings highlight the dual-laser therapy&#8217;s effectiveness in addressing the pathological features of rhinophyma. Conclusions: Dual-laser therapy guided by multispectral imaging provides a targeted and effective treatment for rhinophyma, addressing its vascular and glandular components. The use of OCT enhances understanding of laser-induced tissue changes and confirms significant reductions in vascular and collagen density. This approach represents a significant advancement in the management of rhinophyma, offering improved precision and therapeutic outcomes.</description>
+      <author>S. Amato, Steven Paul Nistic&#242;, Alessandro Clementi, Giorgio Stabile, Fortunato Cassalia, Annunziata Dattola, Giuseppe Rizzuto, Giovanni Cannarozzo</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/cosmetics11060221</guid>
     </item>
     <item>
       <title>Thermal Performance, Indoor Air Quality, and Carbon Footprint Assessment in Airport Terminal Buildings</title>
@@ -808,6 +918,16 @@
       <guid isPermaLink="true">https://doi.org/10.47363/jccsr/s1/2024(6)319</guid>
     </item>
     <item>
+      <title>Potential Reductions in Carbon Emissions from Indonesian Forest Concessions Through Use of Reduced-Impact Logging Practices</title>
+      <link>https://doi.org/10.3390/f15122198</link>
+      <description>Hermudananto Hermudananto, Ethan P. Belair, Hasbie Hasbillah, Peter W. Ellis, Ruslandi, Francis E. Putz, Forests. 15(12)] 2024. https://openalex.org/W4405377815
+
+                To estimate the potential and realized carbon emission reductions from implementation of reduced-impact logging (RIL) in Indonesia, we compiled logging emissions data from 15 concessions in Kalimantan and 10 from the Papuan provinces. Committed emissions data were collected for harvested timber as well as from collateral damage caused by felling, skidding, and clearing for haul roads and log yards. Emissions expressed as mean &#177; standard error per cubic meter of timber harvested, per area harvested, and per Mg of timber harvested (i.e., the &#8216;Carbon Impact Factor&#8217;) were 1.30 &#177; 0.15 Mg C m&#8722;3, 27.52 &#177; 4.44 Mg C ha&#8722;1, and 6.88 &#177; 0.84 Mg Mg&#8722;1, respectively. Among the sampled concessions, felling, hauling, and skidding caused 18&#8211;86%, 2&#8211;48%, and 6&#8211;75% of these emissions, respectively. Potential emission reductions calculated as the difference between observed emissions and those of the five best-performing concessions are 0.67 &#177; 0.15 Mg C m&#8722;3, 21.11 &#177; 4.38 Mg C ha&#8722;1, and 4.20 &#177; 0.83 Mg Mg&#8722;1, which represents reductions of 51%, 76%, and 61%, respectively. Extrapolating these estimates to all of Indonesia using average log production data from 2018 to 2021 results in an estimated annual emissions reduction of 14.47 Tg CO2 from full adoption of RIL, which is 2.9% of Indonesia&#8217;s nationally determined contribution (NDC) from the forestry sector.</description>
+      <author>Hermudananto Hermudananto, Ethan P. Belair, Hasbie Hasbillah, Peter W. Ellis, Ruslandi, Francis E. Putz</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/f15122198</guid>
+    </item>
+    <item>
       <title>Oxidation Temperature-Dependent Electrochemical Doping of WO&lt;sub&gt;3&lt;/sub&gt; Deposited via Atomic Layer Deposition</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c06105</link>
       <description>Alexandria R. C. Bredar, Hannah R. M. Margavio, Carrie L. Donley, Neil Spinner, Nyaan Amin, Gregory N. Parsons, Jillian L. Dempsey, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4405181953
@@ -848,6 +968,16 @@
       <guid isPermaLink="true">https://doi.org/10.58451/ijebss.v3i2.199</guid>
     </item>
     <item>
+      <title>Multi-Segment Variable Speed Predictive Control Strategy for Eliminating Traffic Bottlenecks in Emergency Cases on Super-Long-Span Bridges</title>
+      <link>https://doi.org/10.3390/app142411644</link>
+      <description>Jingwen Yang, Ping Wang, Applied Sciences. 14(24)] 2024. https://openalex.org/W4405377178
+
+                In this paper, we investigate traffic bottlenecks, a primary cause of congestion that significantly impacts the overall efficiency of traffic networks. To address this challenge, a multi-segment variable speed limit control strategy is proposed to mitigate moving bottlenecks, particularly those on super-long-span bridges. First, an extended macro-traffic flow model, built upon the classic MetaNet framework, is proposed as a state-space model to capture the critical characteristics of long segments, which is a key contribution of this paper. Next, a fast prediction model is developed to forecast traffic flow states in lane-drop bottlenecks with restricted passing capacity over long road segments. Then, a controller leveraging the state-compensation flow model is designed to regulate the future evolution of bottleneck density. Finally, the multi-segment variable speed predictive control (MVSPC) strategy is validated on a simulation platform integrating PYTHON and SUMO, and its performance is compared with both traditional and advanced methods. The results demonstrate that under varying traffic flow levels, particularly in high-demand scenarios, the strategy achieves significant improvements in efficiency, safety, and environmental metrics. These include a 62.44% reduction in waiting time, a 95.32% decrease in potential collisions, and reductions in emissions: 26.4% in CO2, 14.11% in CO, 26.53% in NO, and 32.90% in NOX. The proposed strategy is particularly effective for long segments, such as super-long-span bridges.</description>
+      <author>Jingwen Yang, Ping Wang</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/app142411644</guid>
+    </item>
+    <item>
       <title>Life Cycle Assessment of Crude Oil-Contaminated Soil Treated by Low-Temperature Thermal Desorption and Its Beneficial Reuse for Soil Amendment</title>
       <link>https://doi.org/10.3390/su162410900</link>
       <description>Young Ho Song, Geon Yong Kim, Da Yeon Kim, Yong Woo Hwang, Sustainability. 16(24)] 2024. https://openalex.org/W4405321785
@@ -856,6 +986,16 @@
       <author>Young Ho Song, Geon Yong Kim, Da Yeon Kim, Yong Woo Hwang</author>
       <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/su162410900</guid>
+    </item>
+    <item>
+      <title>Description, Development and Application of the Integrated Transport and Health Impact Modelling Tool for Global Cities (ITHIM-Global)</title>
+      <link>https://doi.org/10.1101/2024.12.11.24318676</link>
+      <description>Haneen Khreis, Ali Abbas, Daniel Gil-Sanchez, Lambed Tatah, Albert H. Schroeder, Rahul Goel, Christian Brand, Rob Johnson, James Woodcock, medRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4405385145
+
+                Abstract The Integrated Transport and Health Impact Modelling Tool for Global Cities (ITHIM-Global) was developed as an open-source tool to assess the impacts of transport mode shifts on public health and the environment in low- and middle-income countries (LMICs) where the need for such assessment is urgent and rising. The model simulates the impacts on all-cause and cause-specific mortality and years of life lost outcomes through a multi-pathway framework, specifically including physical activity, air pollution exposure, and road traffic fatalities. In addition, the model estimates changes in carbon dioxide emissions resulting from these mode shifts. ITHIM-Global employs a quasi-microsimulation approach that enables individualized exposure estimates by age, sex, and activity levels and utilises up- to-date exposure and dose-response functions that account for the non-linear relationship between physical activity levels and health. To demonstrate its functionality, document its strengths and weaknesses, and aid users, the model was applied to Bogota, Colombia, using three hypothetical scenarios, each shifting 5% of trips to one of bus, car, or cycling. Results indicate that increasing public or active transport modes enhances public health, primarily driven by gains in physical activity and to a lesser extent by reductions in traffic-related emissions. Conversely, a shift to car usage worsens health outcomes due to decreased physical activity and increased pollution exposure. ITHIM-Global serves as a flexible, detailed Health Impact Assessment (HIA) tool adaptable to urban areas across LMICs and this article delves into underlying assumptions and their influence to advance generalisable lessons on risk assessment and model development. The modular structure of ITHIM-Global, its covering of individual and population-level analyses, and extensive documentation provide an accessible, evidence-based approach for city planners and practitioners to optimize transport policies that support public health and mitigate environmental harm. Graphical Abstract Highlights We describe the Integrated Transport and Health Impact Modelling Tool for Global cities (ITHIM- Global), designed for low- and middle-income country (LMIC) cities. We apply ITHIM-Global to Bogot&#225;, simulating impacts from three mode shift scenarios with a 5- percentage point increase in car, cycling, and bus shares. We simulate the impacts on physical activity, air pollution, road traffic fatalities, and attributable mortalities and years of life lost. We describe in detail the model&#8217;s elements to aid future uptake, development, and extension to other cities. We discuss strengths, weaknesses, and underlying assumptions to advance generalisable lessons on risk assessment and model development.</description>
+      <author>Haneen Khreis, Ali Abbas, Daniel Gil-Sanchez, Lambed Tatah, Albert H. Schroeder, Rahul Goel, Christian Brand, Rob Johnson, James Woodcock</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1101/2024.12.11.24318676</guid>
     </item>
     <item>
       <title>Clonal differences in ecophysiological responses to imposed drought in selected &lt;i&gt;Eucalyptus grandis&lt;/i&gt; x &lt;i&gt;E. urophylla&lt;/i&gt; hybrids</title>
@@ -888,16 +1028,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17246219</guid>
     </item>
     <item>
-      <title>Microbial Upgrading of Lignin Depolymerization: Enhancing Efficiency with Lignin&#8208;First Catalysis</title>
-      <link>https://doi.org/10.1002/cssc.202400954</link>
-      <description>Aditya Ponukumati, Rhiannon Carr, Zahra Ebrahimpourboura, Yifeng Hu, N. ANAND, Yu Gao, Zeyu Shang, Anirudh Krishnamurthy, Mark Mba Wright, Tae Seok Moon, Marcus Foston, ChemSusChem. None(None)] 2024. https://openalex.org/W4405197262
-
-                Chemical depolymerization of lignin is a non&#8208;selective process that often generates a wide distribution of product compounds, denoted herein as lignin breakdown products (LBPs). To address this limitation, we developed a hybrid lignin conversion approach that employs a lignin&#8208;first catalytic approach on biomass and subsequent microbial upgrading. A Pd/C catalyst was used for reductive catalytic fractionation (RCF) of poplar biomass, and Rhodococcus opacus PD630 (R. opacus PD630) was then cultivated on the resulting LBPs. This RCF approach increases the total biomass utilization by R. opacus PD630 over base&#8208;catalyzed depolymerization (BCD) reactions that were performed in the absence of Pd/C and molecular hydrogen (H2). LBPs generated using RCF resulted in higher cell growth per gram of biomass. Cellulose in the residual biomass after RCF treatment also showed enhanced enzymatic digestibility due to saccharification yields over 40%. Techno&#8208;economic analysis (TEA) and life cycle analysis (LCA) of this hybrid lignin conversion scheme, integrated into a cellulosic bioethanol plant, decreased the minimum ethanol selling price from $4.07/gallon (base case) to $3.94/gallon. Global warming potentials ranged from 29 and 30.5 CO2,eq/MJ. These results highlight the potential for an industrial hybrid conversion&#8208;based biorefinery scheme that utilizes lignin&#8208;first catalytic deconstruction and R. opacus PD630 upgrading.</description>
-      <author>Aditya Ponukumati, Rhiannon Carr, Zahra Ebrahimpourboura, Yifeng Hu, N. ANAND, Yu Gao, Zeyu Shang, Anirudh Krishnamurthy, Mark Mba Wright, Tae Seok Moon, Marcus Foston</author>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202400954</guid>
-    </item>
-    <item>
       <title>Electrochemical Mineralization of Chloroquine in a Filter-Press-Type Flow Reactor in Batch Recirculation Mode Equipped with Two Boron-Doped Diamond Electrodes: Parametric Optimization, Total Operating Cost, Phytotoxicity Test, and Life Cycle Assessment</title>
       <link>https://doi.org/10.3390/catal14120918</link>
       <description>Alejandro Regalado-M&#233;ndez, Juliana Zavaleta-Avenda&#241;o, Claudia Alanis, Deysi Amado-Pi&#241;a, A. Ram&#237;rez-Serrano, Ever Peralta-Reyes, Catalysts. 14(12)] 2024. https://openalex.org/W4405320181
@@ -906,6 +1036,16 @@
       <author>Alejandro Regalado-M&#233;ndez, Juliana Zavaleta-Avenda&#241;o, Claudia Alanis, Deysi Amado-Pi&#241;a, A. Ram&#237;rez-Serrano, Ever Peralta-Reyes</author>
       <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/catal14120918</guid>
+    </item>
+    <item>
+      <title>Microbial Upgrading of Lignin Depolymerization: Enhancing Efficiency with Lignin&#8208;First Catalysis</title>
+      <link>https://doi.org/10.1002/cssc.202400954</link>
+      <description>Aditya Ponukumati, Rhiannon Carr, Zahra Ebrahimpourboura, Yifeng Hu, N. ANAND, Yu Gao, Zeyu Shang, Anirudh Krishnamurthy, Mark Mba Wright, Tae Seok Moon, Marcus Foston, ChemSusChem. None(None)] 2024. https://openalex.org/W4405197262
+
+                Chemical depolymerization of lignin is a non&#8208;selective process that often generates a wide distribution of product compounds, denoted herein as lignin breakdown products (LBPs). To address this limitation, we developed a hybrid lignin conversion approach that employs a lignin&#8208;first catalytic approach on biomass and subsequent microbial upgrading. A Pd/C catalyst was used for reductive catalytic fractionation (RCF) of poplar biomass, and Rhodococcus opacus PD630 (R. opacus PD630) was then cultivated on the resulting LBPs. This RCF approach increases the total biomass utilization by R. opacus PD630 over base&#8208;catalyzed depolymerization (BCD) reactions that were performed in the absence of Pd/C and molecular hydrogen (H2). LBPs generated using RCF resulted in higher cell growth per gram of biomass. Cellulose in the residual biomass after RCF treatment also showed enhanced enzymatic digestibility due to saccharification yields over 40%. Techno&#8208;economic analysis (TEA) and life cycle analysis (LCA) of this hybrid lignin conversion scheme, integrated into a cellulosic bioethanol plant, decreased the minimum ethanol selling price from $4.07/gallon (base case) to $3.94/gallon. Global warming potentials ranged from 29 and 30.5 CO2,eq/MJ. These results highlight the potential for an industrial hybrid conversion&#8208;based biorefinery scheme that utilizes lignin&#8208;first catalytic deconstruction and R. opacus PD630 upgrading.</description>
+      <author>Aditya Ponukumati, Rhiannon Carr, Zahra Ebrahimpourboura, Yifeng Hu, N. ANAND, Yu Gao, Zeyu Shang, Anirudh Krishnamurthy, Mark Mba Wright, Tae Seok Moon, Marcus Foston</author>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202400954</guid>
     </item>
     <item>
       <title>Identification and Implementation of Carbon Emission Disclosures and Subsidiaries in Indonesia in Comparison to Brazil and Congo: An Overview Study</title>
@@ -928,6 +1068,16 @@
       <guid isPermaLink="true">https://doi.org/10.30574/wjarr.2022.14.3.0655</guid>
     </item>
     <item>
+      <title>Impact of Wall Paint Solar Absorptance on CO2 Emissions in Residential Buildings: A Case Study from Bangkok</title>
+      <link>https://doi.org/10.3390/buildings14123958</link>
+      <description>Rungroj Wongmahasiri, Tarid Wongvorachan, Chaniporn Thampanichwat, Suphat Bunyarittikit, Buildings. 14(12)] 2024. https://openalex.org/W4405321513
+
+                Electricity consumption in buildings is a significant contributor to greenhouse gas emissions, which drive climate change. Reducing electricity use in residential buildings, which account for approximately 20% of Thailand&#8217;s total electricity consumption, represents a key opportunity for lowering greenhouse gas emissions. The aim of this study was to assess the potential reduction in greenhouse gas emissions through the use of appropriate solar absorptance in wall paint, conducted via an energy simulation using a representative residential building model from Bangkok. The DOE2.1E program was employed to simulate a standard two-story house commonly found in Thailand, with an approximate floor area of 120 square meters. The window-to-wall ratios were set at 10% and 20%, and air conditioning usage was modeled for nighttime hours. External wall paint was assigned varying solar absorption coefficients, ranging from 10% to 90%. Greenhouse gas emissions were calculated by multiplying the simulated annual electricity consumption by the emission factor, expressed in kgCO2eq/kWh, provided by the Thailand Greenhouse Gas Management Organization. The results indicated that adjusting wall paint solar absorptance from 10% to 90% led to a 10% variation in both energy consumption and greenhouse gas emissions, potentially reducing CO2 emissions by approximately 411&#8211;456 kgCO2eq per house per year. Therefore, implementing regulations that mandate the use of wall paints with appropriate solar absorption coefficients could significantly reduce greenhouse gas emissions and contribute to environmental protection efforts in Thailand.</description>
+      <author>Rungroj Wongmahasiri, Tarid Wongvorachan, Chaniporn Thampanichwat, Suphat Bunyarittikit</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/buildings14123958</guid>
+    </item>
+    <item>
       <title>Genomic and proteomic characterization of sulfate-reducing symbionts of gutless marine annelids</title>
       <link>https://doi.org/10.1101/2024.12.09.627487</link>
       <description>Grace D&#8217;Angelo, Manuel Kleiner, Anna Mankowski, Jeronimo Cifuentes-Anticevic, Eileen Kroeber, Marlene Violette, Valerie De Anda, Nicole Dubilier, Manuel Liebeke, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4405175475
@@ -938,14 +1088,14 @@
       <guid isPermaLink="true">https://doi.org/10.1101/2024.12.09.627487</guid>
     </item>
     <item>
-      <title>Impact of Wall Paint Solar Absorptance on CO2 Emissions in Residential Buildings: A Case Study from Bangkok</title>
-      <link>https://doi.org/10.3390/buildings14123958</link>
-      <description>Rungroj Wongmahasiri, Tarid Wongvorachan, Chaniporn Thampanichwat, Suphat Bunyarittikit, Buildings. 14(12)] 2024. https://openalex.org/W4405321513
+      <title>Geothermal Condition Investigation and Resource Potential Evaluation of Shallow Geothermal Energy in the Yinchuan Area, Ningxia, China</title>
+      <link>https://doi.org/10.3390/su162410962</link>
+      <description>Wengang Qu, Jing Wang, Hui Qian, Panpan Xu, Yanyan Gao, Lisi Wei, Long Qi, Sustainability. 16(24)] 2024. https://openalex.org/W4405366864
 
-                Electricity consumption in buildings is a significant contributor to greenhouse gas emissions, which drive climate change. Reducing electricity use in residential buildings, which account for approximately 20% of Thailand&#8217;s total electricity consumption, represents a key opportunity for lowering greenhouse gas emissions. The aim of this study was to assess the potential reduction in greenhouse gas emissions through the use of appropriate solar absorptance in wall paint, conducted via an energy simulation using a representative residential building model from Bangkok. The DOE2.1E program was employed to simulate a standard two-story house commonly found in Thailand, with an approximate floor area of 120 square meters. The window-to-wall ratios were set at 10% and 20%, and air conditioning usage was modeled for nighttime hours. External wall paint was assigned varying solar absorption coefficients, ranging from 10% to 90%. Greenhouse gas emissions were calculated by multiplying the simulated annual electricity consumption by the emission factor, expressed in kgCO2eq/kWh, provided by the Thailand Greenhouse Gas Management Organization. The results indicated that adjusting wall paint solar absorptance from 10% to 90% led to a 10% variation in both energy consumption and greenhouse gas emissions, potentially reducing CO2 emissions by approximately 411&#8211;456 kgCO2eq per house per year. Therefore, implementing regulations that mandate the use of wall paints with appropriate solar absorption coefficients could significantly reduce greenhouse gas emissions and contribute to environmental protection efforts in Thailand.</description>
-      <author>Rungroj Wongmahasiri, Tarid Wongvorachan, Chaniporn Thampanichwat, Suphat Bunyarittikit</author>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/buildings14123958</guid>
+                Shallow geothermal energy (SGE) is a promising green and sustainable energy source, gaining prominence in light of the dual-carbon target. This study investigated the SGE resources in the Yinchuan area. Suitability zones and the potential of SGE resources were determined based on the comprehensive analysis about thermophysical parameters, hydrogeological conditions, and geological environment. Our findings revealed that the effective thermal conductivity in the Yinchuan area surpasses those of other cities, indicating significant potential for SGE. The thermostat layer depth ranges from 40 to 60 m, with a geothermal gradient between 0.81 and 6.19 &#176;C/100 m. Regions with poor adaptability for a borehole heat exchanger (BHE) are mainly distributed in the western and southern parts of the Yinchuan area, whereas moderately and highly adaptable areas are primarily located in the central and eastern areas, respectively. The total geothermal resource of the BHE in the Yinchuan area amounts to 1.07 &#215; 108 GJ/a, generating significant economic benefits of 1.07 &#215; 109 CNY/a and saving 1.09 &#215; 106 t/a of standard coal annually. This initiative leads to significant reductions in CO2, SO2, and NOx emissions by 2.61 &#215; 106 t/a, 1.86 &#215; 104 t/a, and 6.57 &#215; 103 t/a, respectively. Additionally, it results in potential savings of 0.309 &#215; 109 CNY/a in environmental treatment costs. The methods and models used in this study have potential for similar geothermal surveys in arid and cold regions. The results also contribute essential insights for policy formulation and sustainable development strategies related to shallow geothermal resources in the Yinchuan area.</description>
+      <author>Wengang Qu, Jing Wang, Hui Qian, Panpan Xu, Yanyan Gao, Lisi Wei, Long Qi</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su162410962</guid>
     </item>
     <item>
       <title>Improving cold resistance and shelf life of Carica papaya Linn through 1- methylcyclopropene and geranium oil applications</title>
@@ -968,16 +1118,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/app142411667</guid>
     </item>
     <item>
-      <title>Influence of fiber direction on the tribological behavior of carbon-reinforced PEEK at elevated temperature for application in gas turbine engines</title>
-      <link>https://doi.org/10.1115/1.4067410</link>
-      <description>Marie-Laurence Cliche, Robert Mone, Andre C. Liberati, Pantcho Stoyanov, Journal of Tribology. None(None)] 2024. https://openalex.org/W4405306656
-
-                Abstract The aerospace industry aims for net-zero greenhouse gas emissions by 2050, requiring gas turbine engines to reduce CO2 emissions. This will impact engine material selection due to harsher operating conditions, limiting traditional metal/alloy use. While fibre-reinforced polymers (FRP) composites are commonly used in the aerospace industry, their use in gas turbine engines is often restricted by the lower operating temperatures of the polymer matrix. However, many studies have demonstrated the tribological potential of FRP in the fan section of the engines, but little attention has been given to the potential of orienting the fibers in the normal (i.e., out-of-plane) direction relative to the wear surface to leverage the anisotropic properties of FRP composites. This study aims to investigate the impact of fiber orientation on the tribological properties of carbon fiber/PEEK (CF-PEEK) at elevated temperatures. Three CF-PEEK samples with different fiber rientations were selected for the purpose of this study (parallel, anti-parallel and normal directions), as well as a fourth sample of pure PEEK. Tribological tests were conducted using a ball-on-disk tribometer at an elevated temperature of 200&#176;C to evaluate wear and friction behavior. The worn surfaces and counterfaces were analyzed using confocal laser scanning microscopy (CLSM), scanning electron microscopy (SEM), and energy dispersive X-ray Spectroscopy (EDS). The findings reveal that CF-PEEK with fibers oriented in the normal direction demonstrates significantly enhanced tribological performance at elevated temperatures, achieving a 95% reduction in the friction coefficient and a 92% decrease in the wear rate compared to pure PEEK. A wear mechanism has been proposed to explain the superior wear resistance of normally oriented fibers in CF-PEEK, linking it to the development of a fiber-based interface during the run-in phase and the formation of a uniform transfer film.</description>
-      <author>Marie-Laurence Cliche, Robert Mone, Andre C. Liberati, Pantcho Stoyanov</author>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1115/1.4067410</guid>
-    </item>
-    <item>
       <title>Automatic ventilation and cooling of the building using the combination of wind deflector and solar chimney (state 3D with differential perspective)</title>
       <link>https://doi.org/10.58396/gbm020104</link>
       <description>Ahmadi Hamidreza Babaeyan, S&#225;nchez-Torija Jorge Gallego, Green Buildings and Materials. 2(1)] 2024. https://openalex.org/W4405157037
@@ -986,6 +1126,16 @@
       <author>Ahmadi Hamidreza Babaeyan, S&#225;nchez-Torija Jorge Gallego</author>
       <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.58396/gbm020104</guid>
+    </item>
+    <item>
+      <title>Influence of fiber direction on the tribological behavior of carbon-reinforced PEEK at elevated temperature for application in gas turbine engines</title>
+      <link>https://doi.org/10.1115/1.4067410</link>
+      <description>Marie-Laurence Cliche, Robert Mone, Andre C. Liberati, Pantcho Stoyanov, Journal of Tribology. None(None)] 2024. https://openalex.org/W4405306656
+
+                Abstract The aerospace industry aims for net-zero greenhouse gas emissions by 2050, requiring gas turbine engines to reduce CO2 emissions. This will impact engine material selection due to harsher operating conditions, limiting traditional metal/alloy use. While fibre-reinforced polymers (FRP) composites are commonly used in the aerospace industry, their use in gas turbine engines is often restricted by the lower operating temperatures of the polymer matrix. However, many studies have demonstrated the tribological potential of FRP in the fan section of the engines, but little attention has been given to the potential of orienting the fibers in the normal (i.e., out-of-plane) direction relative to the wear surface to leverage the anisotropic properties of FRP composites. This study aims to investigate the impact of fiber orientation on the tribological properties of carbon fiber/PEEK (CF-PEEK) at elevated temperatures. Three CF-PEEK samples with different fiber rientations were selected for the purpose of this study (parallel, anti-parallel and normal directions), as well as a fourth sample of pure PEEK. Tribological tests were conducted using a ball-on-disk tribometer at an elevated temperature of 200&#176;C to evaluate wear and friction behavior. The worn surfaces and counterfaces were analyzed using confocal laser scanning microscopy (CLSM), scanning electron microscopy (SEM), and energy dispersive X-ray Spectroscopy (EDS). The findings reveal that CF-PEEK with fibers oriented in the normal direction demonstrates significantly enhanced tribological performance at elevated temperatures, achieving a 95% reduction in the friction coefficient and a 92% decrease in the wear rate compared to pure PEEK. A wear mechanism has been proposed to explain the superior wear resistance of normally oriented fibers in CF-PEEK, linking it to the development of a fiber-based interface during the run-in phase and the formation of a uniform transfer film.</description>
+      <author>Marie-Laurence Cliche, Robert Mone, Andre C. Liberati, Pantcho Stoyanov</author>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1115/1.4067410</guid>
     </item>
     <item>
       <title>Growth vs. green: unpacking the economic&#8211;environmental dilemma in major carbon emitters with panel ARDL analysis</title>
@@ -1018,6 +1168,16 @@
       <guid isPermaLink="true">https://doi.org/10.1115/ipc2024-133724</guid>
     </item>
     <item>
+      <title>Completion Design Optimization as a Function of Reservoir Quality in Tight Reservoirs: A Big Data Approach</title>
+      <link>https://doi.org/10.2118/223954-pa</link>
+      <description>Tamer Moussa, Hassan Dehghanpour, SPE Journal. None(None)] 2024. https://openalex.org/W4405367314
+
+                Summary Over the past decade, more than 40,000 multifractured horizontal wells (MFHWs) were completed in the Western Canada Sedimentary Basin (WCSB), making Canada the third largest oil exporter in 2022. However, this process consumed more than 56 billion gallons of water, with more than 30 billion gallons unrecovered&#8212;equivalent to the annual water consumption of a city of 1 million for nearly 5 years. This raises concerns about water use efficiency in fracturing operations. Can big data mining reveal the relationship between reservoir quality, fracturing design parameters, and process efficiency? This research aims to develop a hybrid analytical and machine learning (ML) workflow to optimize completion design as a function of reservoir quality in tight reservoirs. To achieve this objective, we analyze data from more than 14,000 wells in the Montney formation. Using core analysis and well log data, we develop a support vector machine (SVM) to predict permeability and a fuzzy clustering model to estimate fracturability. We categorize Montney&#8217;s lithology through hierarchical clustering. With 3D kriging interpolation, we fill missing data and create high-resolution 3D petrophysical maps, which help derive a reservoir quality index (RQI) map to identify the sweet spots for completing new wells. We introduce a stage placement efficiency (SPE) metric to evaluate fracture stage placements in-line with the RQI. Finally, we develop neural network&#8211;based proxies that predict well performance based on reservoir quality, geomechanical properties, and completion design, incorporating more than 40 completion parameters, the RQI, and historical production data. The results reveal a higher degree of homogeneity in the upper Montney compared to the middle and lower segments. Generally, completion design parameters significantly impact MFHW productivity more than formation characteristics. Applying the proposed proxy to Montney-oil MFHWs could increase fracturing water recovery by 94.4%, reduce injected water volume by 22%, and boost cumulative oil production by 37.9%. The proxy aims to enhance fracturing water efficiency. A 1% reduction in freshwater consumption in the WCSB could save more than 100 million gallons of fresh water and cut CO2 emissions by up to 2,000 tons, equivalent to removing more than 1,000 gasoline cars from Canadian roads.</description>
+      <author>Tamer Moussa, Hassan Dehghanpour</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2118/223954-pa</guid>
+    </item>
+    <item>
       <title>Development of high performance cement-based composites reinforced with nonwoven fabrics from sustainable raw materials and textile wastes</title>
       <link>https://doi.org/10.5821/dissertation-2117-420258</link>
       <description>Laura G&#243;nzalez L&#243;pez, No host. None(None)] 2021. https://openalex.org/W4405338517
@@ -1026,6 +1186,16 @@
       <author>Laura G&#243;nzalez L&#243;pez</author>
       <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5821/dissertation-2117-420258</guid>
+    </item>
+    <item>
+      <title>THM numerical modeling of multiphase flow in fractured rock masses using zero-thickness interface elements</title>
+      <link>https://doi.org/10.5821/dissertation-2117-420576</link>
+      <description>Luc&#237;a Bel&#233;n Barandiar&#225;n Villegas, No host. None(None)] 2024. https://openalex.org/W4405383325
+
+                (English) To address the impacts of climate change, several measures have been suggested among which utilizing renewable energy sources such as geothermal energy and implementing technologies such as hydrogen storage or CCUS. Some of these solutions imply the injection of fluids into fractured rock masses (e.g. depleted O&amp;G reservoirs) with the subsequent change in local stress conditions. This alteration may lead to the initiation of micro-seismic events by reactivating existing faults or the generation of new fractures, with the risk of ultimately establishing pathways for fluid leakage. Additionally, depleted reservoirs contain multiphase and multicomponent fluids that could react chemically with the new injection fluids. Therefore, the accurate prediction of operation conditions demands advanced geomechanical software capable of evaluating the viability and safety of potential extraction or storage locations. In this context, the main objective of this thesis is to develop a thermo-hydro-mechanical multiphase model in fractured porous medium with the Finite Element Method using zero-thickness interface elements to model discrete discontinuities. The main assumptions of the model are: the small strain theory, the system composition with two fluid phases (liquid and gas), two species (water and dry gas) and one solid phase. The gas phase follows the ideal gas law and the liquid phase evaporation is considered. The main variables are: displacements, phase pressures and temperature. The formulation takes into account: the equilibrium equation, the mass balance equation of the water species, the mass balance equation of the gas species and the balance of energy. The formulation of the discontinuities considers similar assumptions as the porous medium and takes into account a reduction factor of the water retention curve parameters based on the mechanical opening of the fracture. The model has been implemented and validated with academic verification examples in a FE code. However, some limitations were observed related to the time integration scheme, the treatment of storage terms of the governing equations and the mass flow. This issues have motivated the following new developments: new mass-conservative approach for diffusion equations using FE formulations, a new physically-based exponential model which considers the pore size or aperture distribution in case of the porous medium or discontinuities, respectively, and a new damage-frictional law which properly models discontinuity closure. (Catal&#224;) Per mitigar les conseq&#252;&#232;ncies del canvi clim&#224;tic s'han proposat diverses mesures, entre les quals es troben l'&#250;s d'energies renovables com la geot&#232;rmia i el desenvolupament de tecnologies com l'emmagatzematge d'hidrogen o CO&#8322;, que requereixen la injecci&#243; de fluids dins de massissos rocosos fracturats (com els reservoris abandonats), cosa que suposa un canvi en l'estat tensional d'aquests. Aquesta alteraci&#243; pot ocasionar el desencadenament d'esdeveniments micro-s&#237;simics mitjan&#231;ant la reactivaci&#243; de falles geol&#242;giques o la creaci&#243; de noves fractures que, en &#250;ltima inst&#224;ncia, formarien camins preferencials per a la filtraci&#243; dels fluids. A m&#233;s, els reservoris abandonats contenen fluids multifase amb m&#233;s d'una esp&#232;cie que podrien reaccionar qu&#237;micament amb els nous fluids injectats. Per tant, la predicci&#243; precisa de les condicions d'operaci&#243; requereix una an&#224;lisi profunda de la problem&#224;tica, aix&#237; com disposar d'un programari geomec&#224;nic avan&#231;at capa&#231; d'avaluar la viabilitat i la seguretat dels possibles llocs d'extracci&#243; o emmagatzematge. En aquest context, l'objectiu principal d'aquesta tesi &#233;s el desenvolupament d'un model termo-hidro-mec&#224;nic (THM) acoblat multifase en un medi por&#243;s fracturat mitjan&#231;ant el m&#232;tode dels Elements Finits emprant elements junta de gruix nul de doble node per representar les discontinu&#239;tats. Les principals hip&#242;tesis del model s&#243;n: la teoria de petites deformacions, un sistema compost per dues fases fluides (l&#237;quida i gasosa), dues esp&#232;cies (aigua i gas) i una fase s&#242;lida; la fase gasosa es comporta d'acord amb la llei dels gasos ideals i es considera l'evaporaci&#243; de la fase l&#237;quida. Les variables prim&#224;ries s&#243;n: despla&#231;aments, pressions de fase i temperatura. La formulaci&#243; contempla: l'equaci&#243; d'equilibri, l'equaci&#243; de balan&#231; de massa de l'esp&#232;cie aigua, l'equaci&#243; de balan&#231; de massa de l'esp&#232;cie gas i el balan&#231; d'energia. La formulaci&#243; de les discontinu&#239;tats considera les mateixes hip&#242;tesis que el medi por&#243;s i pren en compte un factor de reducci&#243; dels par&#224;metres de la corba de retenci&#243; basat en l'obertura mec&#224;nica de la fractura. El model ha estat implementat i validat amb exemples de verificaci&#243; acad&#232;mics en un codi 3D d'Elements Finits. No obstant aix&#242;, durant la fase de validaci&#243; s'han trobat algunes limitacions del model, relacionades amb l'esquema d'integraci&#243; temporal, pel que fa al tractament dels termes d'emmagatzematge de les equacions de govern i els fluxos de masa. Aquestes limitacions han motivat els seg&#252;ents nous desenvolupaments: una nova formulaci&#243; que conserva la massa aplicada a les equacions de difusi&#243; en el medi por&#243;s i a les discontinu&#239;tats, una nova corba de retenci&#243; de tipus exponencial que pren com a punt de partida la porosimetria en el cas del medi por&#243;s i la distribuci&#243; d'obertures a les discontinu&#239;tats, i, finalment, una nova llei constitutiva cohesiva-friccional per a les juntes que permet la modelaci&#243; del tancament en desc&#224;rrega. (Espa&#241;ol) Para mitigar las consecuencias del cambio clim&#225;tico se han propuesto diversas medidas, entre las cuales se encuentran el uso de energ&#237;as renovables como la geotermia y el desarrollo de tecnolog&#237;as como el almacenamiento de hidr&#243;geno o CO2, que requieren la inyecci&#243;n de fluidos dentro de macizos rocosos fracturados (como los reservorios abandonados), lo cual supone un cambio en el estado tensional del mismo. Dicha alteraci&#243;n puede ocasionar el desencadenamiento de eventos micro-s&#237;smicos mediante la reactivaci&#243;n de fallas geol&#243;gicas o la creaci&#243;n de nuevas fracturas que en &#250;ltima instancia formar&#237;an caminos preferenciales para la filtraci&#243;n de los fluidos. Adem&#225;s, los reservorios abandonados contienen fluidos multifase con m&#225;s de una especie que podr&#237;an reaccionar qu&#237;micamente con los nuevos fluidos inyectados. Por lo tanto, la predicci&#243;n precisa de las condiciones de operaci&#243;n requiere un an&#225;lisis profundo de la problem&#225;tica, as&#237; como disponer un software geomec&#225;nico avanzado capaz de evaluar la viabilidad y la seguridad de los posibles lugares de extracci&#243;n o almacenamiento. En este contexto, el objetivo principal de esta tesis es el desarrollo de un modelo termo-hidro-mec&#225;nico (THM) acoplado multifase en un medio poroso fracturado mediante el m&#233;todo de los Elementos Finitos empleando elementos junta de espesor nulo con doble nodo para representar las discontinuidades. Las principales hip&#243;tesis del modelo son: la teor&#237;a de peque&#241;as deformaciones, un sistema compuesto por dos fases fluidas (l&#237;quida y gaseosa), dos especies (agua y gas seco) y una fase s&#243;lida, la fase gaseosa se comporta de acuerdo a la ley de los gases ideales y se considera la evaporaci&#243;n de la fase l&#237;quida. Las variables primarias son: desplazamientos, presiones de fase y temperatura. La formulaci&#243;n contempla: la ecuaci&#243;n de equilibrio, la ecuaci&#243;n de balance de masa de la especie agua, la ecuaci&#243;n de balance de masa de la especie gas y el balance de energ&#237;a. La formulaci&#243;n de las discontinuidades considera las mismas hip&#243;tesis que el medio poroso y toma en cuenta un factor de reducci&#243;n de los par&#225;metros de la curva de retenci&#243;n basado en la apertura mec&#225;nica de la fractura. El modelo ha sido implementado y validado con ejemplos de verificaci&#243;n acad&#233;micos en un c&#243;digo 3D de Elementos Finitos. Sin embargo, durante la fase de validaci&#243;n se han encontrado algunas limitaciones del al modelo, relacionadas con el esquema de integraci&#243;n temporal, en cuanto al tratamiento de los t&#233;rminos de almacenamiento de las ecuaciones de gobierno y los flujos m&#225;sicos. Estas limitaciones han motivado los siguientes nuevos desarrollos: una nueva formulaci&#243;n de conservaci&#243;n de la masa aplicada a ecuaciones de difusi&#243;n en el medio poroso y en las discontinuidades, una nueva curva de retenci&#243;n de tipo exponencial que toma como punto de partida la porosimetr&#237;a en el caso del medio poroso y la distribuci&#243;n de aperturas en las discontinuidades, y, por &#250;ltimo, una nueva ley constitutiva cohesivo-friccional para las juntas que permite la modelaci&#243;n del cierre en descarga.</description>
+      <author>Luc&#237;a Bel&#233;n Barandiar&#225;n Villegas</author>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5821/dissertation-2117-420576</guid>
     </item>
   </channel>
 </rss>
