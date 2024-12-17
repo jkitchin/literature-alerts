@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Dec 2024 01:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 01:27:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The Impact of Metal&#8211;Support Interaction on the Structure and Activity of Carbon-Supported Ni Nanoparticle Catalysts for Alkaline Hydrogen Oxidation Reaction</title>
-      <link>https://doi.org/10.1021/acsami.4c15120</link>
-      <description>Yoshiki Akamine, Fumiya Nishino, Takashi Yamashita, Masayuki Tsushida, Keisuke Awaya, Masato Machida, Syeda Mushrifa Zahan, Dario R. Dekel, Junya Ohyama, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405161821
-
-                The effect of the carbon support&#9472;Ketjenblack (C</description>
-      <author>Yoshiki Akamine, Fumiya Nishino, Takashi Yamashita, Masayuki Tsushida, Keisuke Awaya, Masato Machida, Syeda Mushrifa Zahan, Dario R. Dekel, Junya Ohyama</author>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c15120</guid>
-    </item>
     <item>
       <title>Unveiling the role of intrinsic defects in N/S Co-Doped hard carbon for superior sodium-ion batteries</title>
       <link>https://doi.org/10.1016/j.cej.2024.158441</link>
@@ -556,6 +546,26 @@
       <author>Jiaojiao Sun, Mengxia Shen, A. C. Chang, Chanjuan Liang, Chuanyin Xiong, Chen Hou, Jinbao Li, Pengbo Wang, Jiayin Li, Jianfeng Huang</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158551</guid>
+    </item>
+    <item>
+      <title>A FIB-TEM study on evolution of passive film during deactivation processes of Ti/IrO2-Ta2O5 electrode</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145528</link>
+      <description>Mingshuai Guo, Likun Xu, Yonglei Xin, Lili Xue, Tigang Duan, Rongrong Zhao, Penghe Liu, Shuai Zhou, Li Li, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405409001
+
+                No abstract</description>
+      <author>Mingshuai Guo, Likun Xu, Yonglei Xin, Lili Xue, Tigang Duan, Rongrong Zhao, Penghe Liu, Shuai Zhou, Li Li</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145528</guid>
+    </item>
+    <item>
+      <title>Metal&#8210;organic framework/graphene-based nanocatalysts for hydrogen evolution reaction: A comprehensive review</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.132</link>
+      <description>Muhammad Ahmad Mudassir, Zainab Tazeen, Shazia Kousar, Muhan Li, Xiaoyu Zhao, International Journal of Hydrogen Energy. 98(None)] 2024. https://openalex.org/W4405409464
+
+                No abstract</description>
+      <author>Muhammad Ahmad Mudassir, Zainab Tazeen, Shazia Kousar, Muhan Li, Xiaoyu Zhao</author>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.132</guid>
     </item>
     <item>
       <title>Lewis Acid-Mediated Interfacial Water Supply for Sustainable Proton Exchange Membrane Water Electrolysis</title>

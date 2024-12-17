@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Dec 2024 01:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 01:27:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -47,16 +47,6 @@
       <author>Zhitao Guo, Robert A. Burnley, Andrew J. Gellman</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122682</guid>
-    </item>
-    <item>
-      <title>Parapint</title>
-      <link>https://doi.org/10.11578/dc.20201109.2</link>
-      <description>Michael Bynum, Carl D. Laird, Bethany L. Nicholson, Denis Rizdal, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2020. https://openalex.org/W4405168317
-
-                No abstract</description>
-      <author>Michael Bynum, Carl D. Laird, Bethany L. Nicholson, Denis Rizdal</author>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.11578/dc.20201109.2</guid>
     </item>
   </channel>
 </rss>

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Dec 2024 01:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 01:27:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>MoS2@MWCNTs Core&#8211;shell Heterostructure for Enhanced Oxygen Evolution Reaction in Alkaline Water Electrolysis</title>
-      <link>https://doi.org/10.1016/j.jece.2024.115060</link>
-      <description>Huu Thang Nguyen, Kyu Yeon Jang, Jin Goo Kim, Kimin Chae, Hye Bin Jung, MinJoong Kim, Chang&#8208;Soo Lee, Young&#8208;Woo Lee, Kyu&#8208;Nam Jung, Seung Woo Lee, Hyun&#8208;Seok Cho, Hana Yoon, Younghyun Cho, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4405165933
-
-                No abstract</description>
-      <author>Huu Thang Nguyen, Kyu Yeon Jang, Jin Goo Kim, Kimin Chae, Hye Bin Jung, MinJoong Kim, Chang&#8208;Soo Lee, Young&#8208;Woo Lee, Kyu&#8208;Nam Jung, Seung Woo Lee, Hyun&#8208;Seok Cho, Hana Yoon, Younghyun Cho</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.115060</guid>
-    </item>
-    <item>
-      <title>Global-scale geo-evolutionary feedbacks: a tale by oxygen</title>
-      <link>https://doi.org/10.1016/j.tree.2024.11.015</link>
-      <description>Xin&#8208;Yi Chu, Hongyu Zhang, Trends in Ecology &amp; Evolution. None(None)] 2024. https://openalex.org/W4405171767
-
-                No abstract</description>
-      <author>Xin&#8208;Yi Chu, Hongyu Zhang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.tree.2024.11.015</guid>
-    </item>
-    <item>
-      <title>Ni-Co-O anodes for the alkaline oxygen evolution reaction: Multistage electrode optimization and plasma-assisted activity enhancement enabled by a coherent workflow</title>
-      <link>https://doi.org/10.31224/4205</link>
-      <description>Vineetha Vinayakumar, Thomas Wagner, Christian Marcks, Jacob Johny, Garlef Wartner, Marc F. Tesch, Ioannis Spanos, A. Ghafari, Adarsh Jain, Oleg Prymak, Ignacio Sanju&#225;n, Ahammed Suhail Odungat, Osama Anwar, Mohit Chatwani, A Rodriguez Jose, Vimanshu Chanda, Axel Knop&#8208;Gericke, Corina Andronescu, Anna K. Mechler, Nicolas W&#246;hrl, Doris Segets, No host. None(None)] 2024. https://openalex.org/W4405171876
-
-                Ni-Co-based oxides (Ni-Co-O) are promising oxygen evolution reaction (OER) catalysts due to their adaptable structures, affordability, abundance, and strong electrochemical performance. While various studies explored the structure-activity relationships and OER mechanisms in these catalysts, comprehensive anode development requires a systematic workflow covering all stages of catalyst optimization. Here, we present an integrated approach for characterizing commercial Ni-Co-O nanomaterials using a combination of analytics during processing, in operando, and post-catalysis to gain insights into parameters influencing anode performance. Key findings include the critical impact of catalyst ink optimization through solvent matrix screening, enabling high-quality electrode layers via ultrasonic spray coating on Ni plates. These Ni-Co-O layers, tested as anodes in alkaline OER, were further enhanced by plasma post-processing, resulting in binder-free surfaces with increased porosity and wettability compared to untreated samples. Notably, plasma treatment also promoted a more redox reversible catalyst structure, improved Fe uptake efficiency, and led to a significantly enhanced OER activity by reducing the overpotential by ~43 mV at 100 mA/cm&#178; compared to untreated samples. Our study highlights the importance of a holistic evaluation approach, from catalyst powder to post-mortem analysis, that enabled us to discover how plasma post-processing can yield binder-free electrodes with superior electrochemical properties.</description>
-      <author>Vineetha Vinayakumar, Thomas Wagner, Christian Marcks, Jacob Johny, Garlef Wartner, Marc F. Tesch, Ioannis Spanos, A. Ghafari, Adarsh Jain, Oleg Prymak, Ignacio Sanju&#225;n, Ahammed Suhail Odungat, Osama Anwar, Mohit Chatwani, A Rodriguez Jose, Vimanshu Chanda, Axel Knop&#8208;Gericke, Corina Andronescu, Anna K. Mechler, Nicolas W&#246;hrl, Doris Segets</author>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31224/4205</guid>
-    </item>
     <item>
       <title>In-situ construction of 2D &#946;-Co(OH)2 nanosheets hybridized with 1D N-doped carbon nanotubes as efficient bifunctional electrocatalyst for oxygen reduction and evolution reactions</title>
       <link>https://doi.org/10.1016/j.cej.2024.158437</link>
@@ -178,13 +148,13 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202405452</guid>
     </item>
     <item>
-      <title>&#8220;Electron-reservoir&#8221; CeO2 Layer on S-Co(OH)2 to Stabilize Lattice Oxygen for Boosting Oxygen Evolution Reaction at Large Current Density</title>
+      <title>&#8220;Electron-reservoir&#8221; CeO2 layer on S-Co(OH)2 to stabilize lattice oxygen for boosting oxygen evolution reaction at large current density</title>
       <link>https://doi.org/10.1016/j.nanoen.2024.110565</link>
-      <description>Ying Zhi, Zhimin Li, Yu Tang, Jian Peng, Zhengfu Zhang, Chengping Li, Rui Bao, Guo Chen, Jianhong Yi, Jiangzhao Chen, Jiazhao Wang, Jinsong Wang, Nano Energy. None(None)] 2024. https://openalex.org/W4405212168
+      <description>Ying Zhi, Zhimin Li, Yu Tang, Jian Peng, Zhengfu Zhang, Chengping Li, Rui Bao, Guo Chen, Jianhong Yi, Jiangzhao Chen, Jiazhao Wang, Jinsong Wang, Nano Energy. 134(None)] 2024. https://openalex.org/W4405212168
 
                 No abstract</description>
       <author>Ying Zhi, Zhimin Li, Yu Tang, Jian Peng, Zhengfu Zhang, Chengping Li, Rui Bao, Guo Chen, Jianhong Yi, Jiangzhao Chen, Jiazhao Wang, Jinsong Wang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.110565</guid>
     </item>
     <item>
@@ -206,6 +176,16 @@
       <author>V. Sridevi, N. Abirami, R. Arulmozhi, Pavithra Suresh, Kayalvizhi Rajagopal</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/slct.202403746</guid>
+    </item>
+    <item>
+      <title>Alkaline Water Oxidation Catalyzed by 3D Self-Supported Cr-Doped Ni&lt;sub&gt;3&lt;/sub&gt;N Nanosheet Arrays</title>
+      <link>https://doi.org/10.1021/acsanm.4c05952</link>
+      <description>Hengqiang Ye, Jing Wang, Huilong Dong, Lei Zhang, Dajun Wu, Zishun Liu, Yunqi Jiang, Huijun Yang, Xiaorui Gao, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4405229876
+
+                The development of highly efficient, stable, and low-cost electrocatalysts for oxygen evolution reaction (OER) is crucial for enhancing the efficiency of water splitting, but it still remains a huge challenge. Herein, three-dimensional (3D) self-supported Cr-doped Ni3N (Cr&#8211;Ni3N) nanosheet arrays were synthesized successfully on the carbon cloth by the hydrothermal method and subsequent nitridation process. Cr&#8211;Ni3N displays a superior alkaline OER performance with a low overpotential of 290 mV at the current density of 50 mA cm&#8211;2, a small Tafel slope of 56 mV dec&#8211;1, and robust electrochemical stability, which is much better than those of bare Ni3N and commercial RuO2. The calculation of density functional theory reveals that electron-rich Cr atoms transfer electrons to electron-deficient Ni and N atoms, effectively adjust the surface electron configuration of the Cr&#8211;Ni3N catalyst, and optimize the H2O adsorption in the 1 M KOH solution during the OER process. Additionally, the partially oxidized Cr6+ during the OER can optimize the electronic structure and enhance the stability of NiOOH active sites by the strong electron withdrawing ability. This work can provide a pathway to rationally design efficient transition metal nitride-based OER electrocatalysts.</description>
+      <author>Hengqiang Ye, Jing Wang, Huilong Dong, Lei Zhang, Dajun Wu, Zishun Liu, Yunqi Jiang, Huijun Yang, Xiaorui Gao</author>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c05952</guid>
     </item>
     <item>
       <title>Identification of the reconstruction induced high-entropy spinel oxide nanosheets for boosting alkaline water oxygen evolution</title>
@@ -579,6 +559,26 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta04617j</guid>
     </item>
     <item>
+      <title>Phosphorus Doping Engineering Induces the Oxygen Defect-Rich Metallic IrOx Layer on the Cobalt Oxide Surface for Efficient and Stable OER</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101772</link>
+      <description>Xinyi Li, Guozhu Zhang, Junyu Nie, Haohong Chen, Feng Zhang, Fenghua Zheng, Guanghua Wei, Shuiyun Shen, Junfang Cheng, Junliang Zhang, Materials Today Energy. None(None)] 2024. https://openalex.org/W4405404868
+
+                No abstract</description>
+      <author>Xinyi Li, Guozhu Zhang, Junyu Nie, Haohong Chen, Feng Zhang, Fenghua Zheng, Guanghua Wei, Shuiyun Shen, Junfang Cheng, Junliang Zhang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101772</guid>
+    </item>
+    <item>
+      <title>Atomically Dispersed Fe2 and Ni Sites for Efficient and Durable Oxygen Electrocatalysis</title>
+      <link>https://doi.org/10.1002/anie.202421168</link>
+      <description>Tewodros Asefa, Guiyuan Yang, Meihong Fan, Qing Liang, Xingquan He, Wei Zhang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4405412685
+
+                Developing highly efficient, cost&#8208;effective, and robust electrocatalysts for the oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) is paramount for the large&#8208;scale commercialization of renewable fuel cells and rechargeable metal&#8208;air batteries. Herein, a new ternary&#8208;atom catalyst that is composed of paired Fe sites and single Ni sites (as Fe2&#8208;N6 and Ni&#8208;N4) coordinated onto hollow nitrogen&#8208;doped carbon microspheres is developed. The as&#8208;synthesized catalyst exhibits remarkable activities toward both the ORR and OER in an alkaline media, with superior performances to those of the control materials that contain only Fe2&#8208;N6 or Ni&#8208;N4 sites. Density functional theory calculations and in situ infrared (IR) spectroscopic studies clearly reveal that the Fe2&#8208;N6 centers are the active sites for both ORR and OER, and their electrocatalytic activities are synergistically enhanced through optimization of their d&#8208;band centers by the Ni&#8208;N4 sites. This ternary&#8208;atom catalyst may be a promising, alternative, sustainable catalyst to commercially used Pt&#8208; and Ru&#8208;based catalysts to drive both ORR and OER in rechargeable zinc&#8208;air batteries and other related applications.</description>
+      <author>Tewodros Asefa, Guiyuan Yang, Meihong Fan, Qing Liang, Xingquan He, Wei Zhang</author>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202421168</guid>
+    </item>
+    <item>
       <title>Towards active and stable oxygen evolution reaction electrocatalysts</title>
       <link>https://openalex.org/W4405205836</link>
       <description>Fabien Claudel, No host. None(None)] 2019. https://openalex.org/W4405205836
@@ -601,10 +601,10 @@
     <item>
       <title>Role of Plasma in Catalyst Preparation and Modification for Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1021/prechem.4c00075</link>
-      <description>Naeem Ahmed, Wei Ma, Ruijuan Zhao, Qiu Zhang, Di Wu, Xia Zheng, Haorui Wang, Chunhua Cui, Precision Chemistry. None(None)] 2024. https://openalex.org/W4405318450
+      <description>Naeem Ahmed, Wei Li, Ruijuan Zhao, Qiu Zhang, Di Wu, Xia Zheng, Haorui Wang, Chunhua Cui, Precision Chemistry. None(None)] 2024. https://openalex.org/W4405318450
 
                 No abstract</description>
-      <author>Naeem Ahmed, Wei Ma, Ruijuan Zhao, Qiu Zhang, Di Wu, Xia Zheng, Haorui Wang, Chunhua Cui</author>
+      <author>Naeem Ahmed, Wei Li, Ruijuan Zhao, Qiu Zhang, Di Wu, Xia Zheng, Haorui Wang, Chunhua Cui</author>
       <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/prechem.4c00075</guid>
     </item>
@@ -627,16 +627,6 @@
       <author>Richa Ghosh, Geoffrey M. Hopping, Jiong Lu, Drew W. Hollyfield, David W. Flaherty</author>
       <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08948</guid>
-    </item>
-    <item>
-      <title>High Entropy Rare Earth Prussian Blue Analogues for Boosting Oxygen Evolution Catalysis</title>
-      <link>https://doi.org/10.2139/ssrn.5033247</link>
-      <description>Ke Zhang, Jinzhao Huang, Jiao Feng, Guixin Zhao, Yong&#8208;Min Liang, Xiaolong Deng, Zehui Liu, No host. None(None)] 2024. https://openalex.org/W4405171230
-
-                No abstract</description>
-      <author>Ke Zhang, Jinzhao Huang, Jiao Feng, Guixin Zhao, Yong&#8208;Min Liang, Xiaolong Deng, Zehui Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5033247</guid>
     </item>
     <item>
       <title>Vector Substrate Design for Grain Boundary Engineering: Boosting Oxygen Evolution Reaction Performance in LaNiO3</title>
@@ -849,16 +839,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c14406</guid>
     </item>
     <item>
-      <title>Stabilizing *&lt;scp&gt;OH&lt;/scp&gt; intermediate by fabricating &lt;scp&gt;Ni&lt;sub&gt;3&lt;/sub&gt;N&lt;/scp&gt;&#8208;&lt;scp&gt;MoN&lt;/scp&gt; for scalable 5&#8208;hydroxymethylfurfural electrooxidation</title>
-      <link>https://doi.org/10.1002/aic.18690</link>
-      <description>Shaowei Yang, Ying Guo, Jing Wang, Runze Gao, Zhi&#8208;Min Liao, Haidong Shen, Haoxi Wang, Lifeng Jiang, Buxing Han, Qiuyu Zhang, Hepeng Zhang, AIChE Journal. None(None)] 2024. https://openalex.org/W4405372360
-
-                Abstract Achieving large&#8208;scale coupling of organic electrooxidation and the hydrogen evolution reaction, while understanding the competition between organic electrooxidation and oxygen evolution reaction (OER), is a significant challenge. In this study, using Ni 3 N&#8208;MoN/NF, an efficient heterojunction electrocatalyst as both anode and cathode in a 50 cm 2 continuous flow reactor, we achieved a total current of ~20 A at 2.6 V. This resulted in the highest single&#8208;pass 5&#8208;hydroxymethylfurfural conversion efficiency (0.049 mmol cm &#8722;2 min &#8722;1 ) and gram&#8208;level production of 2,5&#8208;furandicarboxylic acid. Theoretical studies revealed that MoN accelerated *OH formation and increased its deprotonation energy barrier, leading to *OH accumulation, effectively promoting organic electrooxidation and inhibiting OER. We anticipate that our foundation in understanding the reaction mechanism and catalyst design strategy can be extended to a wider range of anodic oxidation reactions.</description>
-      <author>Shaowei Yang, Ying Guo, Jing Wang, Runze Gao, Zhi&#8208;Min Liao, Haidong Shen, Haoxi Wang, Lifeng Jiang, Buxing Han, Qiuyu Zhang, Hepeng Zhang</author>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18690</guid>
-    </item>
-    <item>
       <title>N-Doped Carbon-Incorporated Cobalt&#8211;Iron Mixed-Metal Phosphide Nanoboxes as Efficient Bifunctional Catalysts for Overall Water Splitting</title>
       <link>https://doi.org/10.1021/acsami.4c13462</link>
       <description>Hua Li, Shuiqiang Chen, Fang Su, Zheng Li, Kewen Tang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405238985
@@ -867,6 +847,16 @@
       <author>Hua Li, Shuiqiang Chen, Fang Su, Zheng Li, Kewen Tang</author>
       <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c13462</guid>
+    </item>
+    <item>
+      <title>Stabilizing *&lt;scp&gt;OH&lt;/scp&gt; intermediate by fabricating &lt;scp&gt;Ni&lt;sub&gt;3&lt;/sub&gt;N&lt;/scp&gt;&#8208;&lt;scp&gt;MoN&lt;/scp&gt; for scalable 5&#8208;hydroxymethylfurfural electrooxidation</title>
+      <link>https://doi.org/10.1002/aic.18690</link>
+      <description>Shaowei Yang, Ying Guo, Jing Wang, Runze Gao, Zhi&#8208;Min Liao, Haidong Shen, Haoxi Wang, Lifeng Jiang, Buxing Han, Qiuyu Zhang, Hepeng Zhang, AIChE Journal. None(None)] 2024. https://openalex.org/W4405372360
+
+                Abstract Achieving large&#8208;scale coupling of organic electrooxidation and the hydrogen evolution reaction, while understanding the competition between organic electrooxidation and oxygen evolution reaction (OER), is a significant challenge. In this study, using Ni 3 N&#8208;MoN/NF, an efficient heterojunction electrocatalyst as both anode and cathode in a 50 cm 2 continuous flow reactor, we achieved a total current of ~20 A at 2.6 V. This resulted in the highest single&#8208;pass 5&#8208;hydroxymethylfurfural conversion efficiency (0.049 mmol cm &#8722;2 min &#8722;1 ) and gram&#8208;level production of 2,5&#8208;furandicarboxylic acid. Theoretical studies revealed that MoN accelerated *OH formation and increased its deprotonation energy barrier, leading to *OH accumulation, effectively promoting organic electrooxidation and inhibiting OER. We anticipate that our foundation in understanding the reaction mechanism and catalyst design strategy can be extended to a wider range of anodic oxidation reactions.</description>
+      <author>Shaowei Yang, Ying Guo, Jing Wang, Runze Gao, Zhi&#8208;Min Liao, Haidong Shen, Haoxi Wang, Lifeng Jiang, Buxing Han, Qiuyu Zhang, Hepeng Zhang</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aic.18690</guid>
     </item>
     <item>
       <title>Engineering &lt;i&gt;p&lt;/i&gt;&#8208;Orbital States via Molecular Modules in All&#8208;Organic Electrocatalysts toward Direct Water Oxidation</title>
@@ -879,16 +869,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202410507</guid>
     </item>
     <item>
-      <title>Controllable Integration of Binary Functional Species Endows Directionally Optimized Kinetics for CoNiSe&lt;sub&gt;2&lt;/sub&gt;-Based High-Performance Supercapacitors</title>
-      <link>https://doi.org/10.1021/acsenergylett.4c02565</link>
-      <description>Qingjie Lu, Tong Zhou, Mingpeng Chen, Jianhong Zhao, Huachuan Sun, Bo Li, Baoye Zi, Jin Zhang, Zhongqi Zhu, Qingju Liu, ACS Energy Letters. None(None)] 2024. https://openalex.org/W4405366794
-
-                Side reactions of water decomposition and capacitive reactions occur concomitantly in aqueous supercapacitors. To improve the energy density, integrated design modifications to address the impact of these two aspects on the reaction kinetics are theoretically effective. Herein, a two-step modification strategy for introducing binary functional species is designed to regulate the chemical environment and electronic structure of the metal active sites and further optimize the electrochemical kinetics comprehensively. For promoting the capacitive reactions, Ag nanoparticles were loaded to decrease the corresponding energy barriers. For suppressing the oxygen evolution side reaction, preintercalation of K+ ions was realized to increase the corresponding energy barriers. The assembled supercapacitor device shows an ultrahigh energy density of 143.2 Wh kg&#8211;1. Uniquely, in situ techniques, DFT calculations, and overpotential tests are combined to verify the suppression mechanism. This work provides valuable guidance for coordinating designs and studies on the electrochemical kinetics of transition-metal-based electrode materials.</description>
-      <author>Qingjie Lu, Tong Zhou, Mingpeng Chen, Jianhong Zhao, Huachuan Sun, Bo Li, Baoye Zi, Jin Zhang, Zhongqi Zhu, Qingju Liu</author>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c02565</guid>
-    </item>
-    <item>
       <title>Architecture and functional regulation of a plant PSII-LHCII megacomplex</title>
       <link>https://doi.org/10.1126/sciadv.adq9967</link>
       <description>Jianyu Shan, Dariusz M. Niedzwiedzki, Rupal Singh Tomar, Zhenfeng Liu, Haijun Liu, Science Advances. 10(50)] 2024. https://openalex.org/W4405361367
@@ -897,6 +877,16 @@
       <author>Jianyu Shan, Dariusz M. Niedzwiedzki, Rupal Singh Tomar, Zhenfeng Liu, Haijun Liu</author>
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adq9967</guid>
+    </item>
+    <item>
+      <title>Controllable Integration of Binary Functional Species Endows Directionally Optimized Kinetics for CoNiSe&lt;sub&gt;2&lt;/sub&gt;-Based High-Performance Supercapacitors</title>
+      <link>https://doi.org/10.1021/acsenergylett.4c02565</link>
+      <description>Qingjie Lu, Tong Zhou, Mingpeng Chen, Jianhong Zhao, Huachuan Sun, Bo Li, Baoye Zi, Jin Zhang, Zhongqi Zhu, Qingju Liu, ACS Energy Letters. None(None)] 2024. https://openalex.org/W4405366794
+
+                Side reactions of water decomposition and capacitive reactions occur concomitantly in aqueous supercapacitors. To improve the energy density, integrated design modifications to address the impact of these two aspects on the reaction kinetics are theoretically effective. Herein, a two-step modification strategy for introducing binary functional species is designed to regulate the chemical environment and electronic structure of the metal active sites and further optimize the electrochemical kinetics comprehensively. For promoting the capacitive reactions, Ag nanoparticles were loaded to decrease the corresponding energy barriers. For suppressing the oxygen evolution side reaction, preintercalation of K+ ions was realized to increase the corresponding energy barriers. The assembled supercapacitor device shows an ultrahigh energy density of 143.2 Wh kg&#8211;1. Uniquely, in situ techniques, DFT calculations, and overpotential tests are combined to verify the suppression mechanism. This work provides valuable guidance for coordinating designs and studies on the electrochemical kinetics of transition-metal-based electrode materials.</description>
+      <author>Qingjie Lu, Tong Zhou, Mingpeng Chen, Jianhong Zhao, Huachuan Sun, Bo Li, Baoye Zi, Jin Zhang, Zhongqi Zhu, Qingju Liu</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c02565</guid>
     </item>
     <item>
       <title>Effect of Electrolyte pH in Additive&#8208;Free NiFe Catalyst Electrodeposition for Electro&#8208;Catalytic OER Applications</title>
@@ -999,6 +989,16 @@
       <guid isPermaLink="true">https://doi.org/10.5194/acp-24-13793-2024</guid>
     </item>
     <item>
+      <title>Engineering prolyl hydroxylase-dependent proteolysis enables the orthogonal control of hypoxia responses in plants</title>
+      <link>https://doi.org/10.1101/2024.12.13.628401</link>
+      <description>Vinay Shukla, Sergio Iacopino, Laura Dalle Carbonare, Yuehua He, Alessia Del Chiaro, Antonis Papachristodoulou, Beatrice Giuntoli, Francesco Licausi, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4405414189
+
+                Vascular plants and metazoans use selective proteolysis of transcription factors to control the adaptive responses to hypoxia, although through distinct biochemical mechanisms. The reason for this divergence is puzzling, especially when considering that the molecular components necessary to establish both strategies are conserved across the two kingdoms. To explore an alternative evolutionary scenario where plants sense hypoxia as animals do, we engineered a three-components system aimed to target proteins for degradation in an oxygen dependent manner in Arabidopsis thaliana. Applying the synthetic biology framework, we produced a hypoxia-responsive switch independent of endogenous pathways. When applied to control transcription, the synthetic system partially restored hypoxia responsiveness in oxygen-insensitive mutants. Additionally, we demonstrated its potential to regulate growth under flood-induced hypoxia. Our work highlights the use of synthetic biology to reprogram signalling pathways in plants, providing insights into the evolution of oxygen sensing and offering tools for crop improvement under stress conditions.</description>
+      <author>Vinay Shukla, Sergio Iacopino, Laura Dalle Carbonare, Yuehua He, Alessia Del Chiaro, Antonis Papachristodoulou, Beatrice Giuntoli, Francesco Licausi</author>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1101/2024.12.13.628401</guid>
+    </item>
+    <item>
       <title>To Explode or Not Explode? An Analysis of the Explodability of Binary and Single Stars</title>
       <link>https://doi.org/10.3847/2515-5172/ad9baa</link>
       <description>Sangeeta Kumar, Luca Boccioli, Research Notes of the AAS. 8(12)] 2024. https://openalex.org/W4405279288
@@ -1049,6 +1049,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/cryst14121063</guid>
     </item>
     <item>
+      <title>Analysis of the Electrochemical Method of Producing Environmentally Friendly Hydrogen Energy Carrier According to the Evans Diagram</title>
+      <link>https://doi.org/10.21203/rs.3.rs-5123893/v1</link>
+      <description>Mykhailo Sukhyi, V.G. Nefedov, Yuliya Polishchuk, No host. None(None)] 2024. https://openalex.org/W4405413244
+
+                Abstract The possibility of reducing energy costs during hydrogen release was realized using a system in which the anodic process of oxygen release was replaced by the process of dissolution of an electronegative metal (aluminum alloy). The rate of hydrogen release on aluminum, among other equal conditions (temperature and concentration of the electrolyte), depends on the polarization of hydrogen release. On aluminum - a metal of the third group of the periodic table of elements, it is high. The dissolution (corrosion) rate of aluminum can be increased by short-circuiting with an electrode with a low hydrogen evolution polarization, such as nickel. The ratio of hydrogen evolution currents on aluminum and nickel was estimated. The effect of alkali concentration and temperature on the current density, polarization and polarizability of electrodes made of aluminum alloy containing Cu, Mg, Mn and Fe was determined. It was shown that in a 0.1 mol l&#8722; 1 NaOH solution at a temperature of 20&#176;C, the polarization resistance of hydrogen release on nickel is lower than on aluminum, and the hydrogen release rate on Ni is higher. At high temperatures and sodium hydroxide concentrations, the polarizability of metal dissolution and hydrogen release on aluminum increases sharply and exceeds those on nickel.</description>
+      <author>Mykhailo Sukhyi, V.G. Nefedov, Yuliya Polishchuk</author>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5123893/v1</guid>
+    </item>
+    <item>
       <title>Critical nanoparticle formation in iron combustion: single particle
   experiments with in-situ multi-parameter diagnostics aided by multi-scale
   simulations</title>
@@ -1071,16 +1081,6 @@
       <guid isPermaLink="true">https://doi.org/10.1111/gbi.70005</guid>
     </item>
     <item>
-      <title>Viral niche-partitioning: Comparative genomics of giant viruses across environmental gradients in a High Arctic freshwater-saltwater lake</title>
-      <link>https://doi.org/10.1093/ismeco/ycae155</link>
-      <description>Thomas M. Pitot, Catherine Girard, Josephine Z. Rapp, Vincent Somerville, Alexander I. Culley, Warwick F. Vincent, Sylvain Moineau, Simon Roux, ISME Communications. None(None)] 2024. https://openalex.org/W4405222482
-
-                Abstract Giant viruses (GVs; Nucleocytoviricota) impact the biology and ecology of a wide range of eukaryotic hosts, with implications for global biogeochemical cycles. Here, we investigated GV niche separation in highly stratified Lake A at the northern coast of Ellesmere Island, Nunavut, Canada. This lake is composed of a layer of ice-covered freshwater that overlies saltwater derived from the ancient Arctic Ocean, and it therefore provides a broad gradient of environmental conditions and ecological habitats, each with a distinct protist community and rich assemblages of associated GVs. The upper layer (mixolimnion) had measurable light and oxygen, and contained diverse GVs linked to photosynthetic protists, indicating adaptation to surface biotic and abiotic conditions. In contrast, the saline lower layer (monimolimnion), lacking oxygen and light, hosted GVs associated with predicted heterotrophic protists, some of which are known for a predatory lifestyle, and with several viral genes suggesting adaptation to deep-water anaerobic conditions. Our observations underscore the coupling between physical and chemical gradients, microeukaryotes and their associated GVs in Lake A, and provide insight into the potential for GVs to directly and indirectly impact host metabolism. There were similarities between the genetic composition of GVs and the metabolic processes of their potential hosts, implying co-evolution and niche-adaptation within the lake habitats. Notably, we found a greater presence of viral rhodopsins in deeper water layers, suggesting an evolutionary relationship with potential hosts capable of supplementing their energetic needs to thrive in low energy, anoxic conditions.</description>
-      <author>Thomas M. Pitot, Catherine Girard, Josephine Z. Rapp, Vincent Somerville, Alexander I. Culley, Warwick F. Vincent, Sylvain Moineau, Simon Roux</author>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/ismeco/ycae155</guid>
-    </item>
-    <item>
       <title>Numerical simulation study on the mechanism of plasma dissociation of carbon dioxide in atmospheric pressure packed-bed reactors</title>
       <link>https://doi.org/10.7498/aps.74.20241241</link>
       <description>Yi Peng, Chunjing Wang, Jing Li, K. Gao, Han Xu, Chuan-Jie Chen, Muyang Qian, Bingyan Dong, Dezhen Wang, Acta Physica Sinica. 74(2)] 2024. https://openalex.org/W4405263325
@@ -1089,6 +1089,16 @@
       <author>Yi Peng, Chunjing Wang, Jing Li, K. Gao, Han Xu, Chuan-Jie Chen, Muyang Qian, Bingyan Dong, Dezhen Wang</author>
       <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.7498/aps.74.20241241</guid>
+    </item>
+    <item>
+      <title>Viral niche-partitioning: Comparative genomics of giant viruses across environmental gradients in a High Arctic freshwater-saltwater lake</title>
+      <link>https://doi.org/10.1093/ismeco/ycae155</link>
+      <description>Thomas M. Pitot, Catherine Girard, Josephine Z. Rapp, Vincent Somerville, Alexander I. Culley, Warwick F. Vincent, Sylvain Moineau, Simon Roux, ISME Communications. None(None)] 2024. https://openalex.org/W4405222482
+
+                Abstract Giant viruses (GVs; Nucleocytoviricota) impact the biology and ecology of a wide range of eukaryotic hosts, with implications for global biogeochemical cycles. Here, we investigated GV niche separation in highly stratified Lake A at the northern coast of Ellesmere Island, Nunavut, Canada. This lake is composed of a layer of ice-covered freshwater that overlies saltwater derived from the ancient Arctic Ocean, and it therefore provides a broad gradient of environmental conditions and ecological habitats, each with a distinct protist community and rich assemblages of associated GVs. The upper layer (mixolimnion) had measurable light and oxygen, and contained diverse GVs linked to photosynthetic protists, indicating adaptation to surface biotic and abiotic conditions. In contrast, the saline lower layer (monimolimnion), lacking oxygen and light, hosted GVs associated with predicted heterotrophic protists, some of which are known for a predatory lifestyle, and with several viral genes suggesting adaptation to deep-water anaerobic conditions. Our observations underscore the coupling between physical and chemical gradients, microeukaryotes and their associated GVs in Lake A, and provide insight into the potential for GVs to directly and indirectly impact host metabolism. There were similarities between the genetic composition of GVs and the metabolic processes of their potential hosts, implying co-evolution and niche-adaptation within the lake habitats. Notably, we found a greater presence of viral rhodopsins in deeper water layers, suggesting an evolutionary relationship with potential hosts capable of supplementing their energetic needs to thrive in low energy, anoxic conditions.</description>
+      <author>Thomas M. Pitot, Catherine Girard, Josephine Z. Rapp, Vincent Somerville, Alexander I. Culley, Warwick F. Vincent, Sylvain Moineau, Simon Roux</author>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/ismeco/ycae155</guid>
     </item>
     <item>
       <title>Enhancement of superconductivity in electron-hole coexisting
@@ -1153,14 +1163,14 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2412.05099</guid>
     </item>
     <item>
-      <title>Electrochemical Dissolution: Paths in High-Entropy Alloy Composition Space</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-4vt27</link>
-      <description>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl, No host. None(None)] 2024. https://openalex.org/W4405291320
+      <title>The Importance of Clinical History in the Etiological Diagnosis of Diffuse Alveolar Hemorrhage Associated With Improper Adrenaline Use</title>
+      <link>https://doi.org/10.7759/cureus.75727</link>
+      <description>Jos&#233; Patr&#237;cio, Ana Rafael, Filipe Concei&#231;&#65533;&#227;o, Jos&#233; Manuel Pereira, Jos&#233; Artur Paiva, Cureus. None(None)] 2024. https://openalex.org/W4405402352
 
-                The stability of a nanoparticle catalyst during electrochemical reaction is crucial for its application. Despite increasing interest in multi-metallic alloy nanoparticles, such as high-entropy alloys (HEAs), for electrocatalysis and emerging models for their catalytic activity, there is limited work on frameworks that can predict the metastability of these alloys under reaction conditions, including stability against electrochemical surface dissolution. Incorporating electrochemical stability in multi-objective optimization would advance HEAs as a catalyst discovery platform. To address the knowledge gap on electrochemical stability, we propose a methodology for simulating the dissolution of n-element alloy nanoparticles comprised of density functional theory and machine learning regression to calculate the dissolution potentials of the surface atoms. We demonstrate the methodology for the Ag-Au-Cu-Ir-Pd-Pt-Rh-Ru HEA system with the conditions of the oxygen reduction reaction. We investigated trends in stability against dissolution through a compositional grid search for the octo-metallic composition space, uncovering two alloying strategies to increase stability against electrochemical surface dissolution: Alloying with a noble metal or a metal with high relative surface energy. In the simulations, stabilization ensues from forming a protective surface layer, and consequently, the dissolution of persistent alloyed nanoparticles results in core-shell structures. The model enables tracing the evolution of the surface and dissolved composition during electrochemical dissolution, forming paths of dissolution and revealing unretainable surface compositions.</description>
-      <author>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-4vt27</guid>
+                This case involves a 21-year-old male healthcare student with a medical history of HIV-1 infection for two years and anxiety disorder. He presented to the emergency department with hemoptysis and dyspnea of sudden onset. A thoracic CT scan revealed multiple bilateral nodular ground-glass opacities suggestive of diffuse alveolar hemorrhage (DAH). Due to hypoxemic respiratory failure, noninvasive ventilatory support was initiated. A bronchoalveolar lavage confirmed the presence of blood. He also showed an elevated troponin I, peaking at 2,915 ng/mL, with no electrocardiographic or echocardiographic abnormalities. Assuming an immune etiology, high-dose corticosteroids were initiated, with three days of methylprednisolone 1 g. However, the entire etiological study for DAH turned out negative. During a follow-up clinical interview, the patient admitted to having self-administered 1 mg of intravenous adrenaline shortly before the onset of symptoms. The patient showed a favorable evolution, with no recurrence of symptoms, allowing for oxygen therapy weaning. A follow-up chest CT on the ninth day of hospitalization showed no significant alterations. This case highlights the importance of a thorough history in determining the etiology of a potentially fatal disease, adding intravenous epinephrine as a potential trigger of hemoptysis due to exogenous agents.</description>
+      <author>Jos&#233; Patr&#237;cio, Ana Rafael, Filipe Concei&#231;&#65533;&#227;o, Jos&#233; Manuel Pereira, Jos&#233; Artur Paiva</author>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.7759/cureus.75727</guid>
     </item>
     <item>
       <title>Transcriptome and evolutionary analysis of &lt;i&gt;Pseudotrichomonas keilini&lt;/i&gt;, a free-living anaerobic eukaryote</title>
@@ -1173,6 +1183,16 @@
       <guid isPermaLink="true">https://doi.org/10.1093/gbe/evae262</guid>
     </item>
     <item>
+      <title>Electrochemical Dissolution: Paths in High-Entropy Alloy Composition Space</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-4vt27</link>
+      <description>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl, No host. None(None)] 2024. https://openalex.org/W4405291320
+
+                The stability of a nanoparticle catalyst during electrochemical reaction is crucial for its application. Despite increasing interest in multi-metallic alloy nanoparticles, such as high-entropy alloys (HEAs), for electrocatalysis and emerging models for their catalytic activity, there is limited work on frameworks that can predict the metastability of these alloys under reaction conditions, including stability against electrochemical surface dissolution. Incorporating electrochemical stability in multi-objective optimization would advance HEAs as a catalyst discovery platform. To address the knowledge gap on electrochemical stability, we propose a methodology for simulating the dissolution of n-element alloy nanoparticles comprised of density functional theory and machine learning regression to calculate the dissolution potentials of the surface atoms. We demonstrate the methodology for the Ag-Au-Cu-Ir-Pd-Pt-Rh-Ru HEA system with the conditions of the oxygen reduction reaction. We investigated trends in stability against dissolution through a compositional grid search for the octo-metallic composition space, uncovering two alloying strategies to increase stability against electrochemical surface dissolution: Alloying with a noble metal or a metal with high relative surface energy. In the simulations, stabilization ensues from forming a protective surface layer, and consequently, the dissolution of persistent alloyed nanoparticles results in core-shell structures. The model enables tracing the evolution of the surface and dissolved composition during electrochemical dissolution, forming paths of dissolution and revealing unretainable surface compositions.</description>
+      <author>Mads K. Plenge, Jack K. Pedersen, Luis A. Cipriano, Jan Rossmeisl</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-4vt27</guid>
+    </item>
+    <item>
       <title>Geological and experimental evidence of bioavailable phosphite during the Great Oxygenation Event</title>
       <link>https://doi.org/10.21203/rs.3.rs-5118430/v1</link>
       <description>Abu Saeed Baidya, Joanne S. Boden, Yuhao Li, Albertus J.B. Smith, Kurt O. Konhauser, Eva Stueeken, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4405202297
@@ -1181,6 +1201,16 @@
       <author>Abu Saeed Baidya, Joanne S. Boden, Yuhao Li, Albertus J.B. Smith, Kurt O. Konhauser, Eva Stueeken</author>
       <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-5118430/v1</guid>
+    </item>
+    <item>
+      <title>Array of metabolic pathways in a kleptoplastidic foraminiferan protist supports chemoautotrophy in dark, euxinic seafloor sediments</title>
+      <link>https://doi.org/10.1093/ismejo/wrae248</link>
+      <description>Fatma Gomaa, Daniel R. Rogers, Daniel R. Utter, Christopher Powers, I-Ting Huang, David J. Beaudoin, Ying Zhang, Colleen M. Cavanaugh, Virginia P. Edgcomb, Joan M. Bernhard, The ISME Journal. None(None)] 2024. https://openalex.org/W4405386725
+
+                Abstract Investigations of the metabolic capabilities of anaerobic protists advances our understanding of the evolution of eukaryotic life on Earth and for uncovering analogous extraterrestrial complex microbial life. Certain species of foraminiferan protists live in environments analogous to early Earth conditions when eukaryotes evolved, including sulfidic, anoxic, and hypoxic sediment porewaters. Foraminifera are known to form symbioses as well as to harbor organelles from other eukaryotes (chloroplasts), possibly bolstering the host&#8217;s independence from oxygen. The full extent of foraminiferal physiological capabilities is not fully understood. To date, evidence for foraminiferal anaerobiosis was gleaned from specimens first subjected to stresses associated with removal from in situ conditions. Here, we report comprehensive gene expression analysis of benthic foraminiferal populations preserved in situ on the euxinic (anoxic and sulfidic) bathyal seafloor, thus avoiding environmental alterations associated with sample recovery, including pressure reduction, sunlight exposure, warming, and oxygenation. Metatranscriptomics, metagenome-assembled genomes, and measurements of substrate uptake were used to study the kleptoplastidic foraminifer Nonionella stella inhabiting sulfur-oxidizing bacterial mats of the Santa Barbara Basin, off California. We show N. stella energy generation under dark euxinia is unusual because it orchestrates complex metabolic pathways for ATP production and carbon fixation through the Calvin cycle. These pathways include extended glycolysis, anaerobic fermentation, sulfide oxidation, and the presence of a membrane-bound inorganic pyrophosphatase, an enzyme that hydrolyzes inorganic pyrophosphate to actively pump protons across the mitochondrial membrane.</description>
+      <author>Fatma Gomaa, Daniel R. Rogers, Daniel R. Utter, Christopher Powers, I-Ting Huang, David J. Beaudoin, Ying Zhang, Colleen M. Cavanaugh, Virginia P. Edgcomb, Joan M. Bernhard</author>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/ismejo/wrae248</guid>
     </item>
     <item>
       <title>The ones that got away: Chemical tagging of globular cluster-origin stars with gaia BP/RP spectra</title>
@@ -1231,6 +1261,26 @@
       <author>Mingfeng Xu, Giovanni Gammaitoni, Michael H&#228;fner, Edgar E. Villalobos-Portillo, Carlo Marini, Matteo Bianchini</author>
       <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-7x9sm</guid>
+    </item>
+    <item>
+      <title>Prolonged &lt;scp&gt;SARS&lt;/scp&gt;&#8208;&lt;scp&gt;CoV&lt;/scp&gt;&#8208;2 shedding in a lung transplant recipient: time for flexibility in infection prevention?</title>
+      <link>https://doi.org/10.5694/mja2.52556</link>
+      <description>Alyssa Pradhan, David Pham, Aline Brennan, Jen Kok, Priya Garg, The Medical Journal of Australia. None(None)] 2024. https://openalex.org/W4405246925
+
+                A 39-year-old woman underwent bilateral sequential lung transplantation for fibrotic hypersensitivity pneumonitis in May 2022. Her immunosuppression treatment included prednisolone, tacrolimus and mycophenolate. She received one dose of Comirnaty (Pfizer) pre-transplant and tixagevimab&#8211;cilgavimab in June 2022. Her first severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection was diagnosed on 14 December 2022 and she was treated with molnupiravir for five days. On Day 11 of illness, she presented to hospital in respiratory distress with hypoxia (SpO2; 73% on room air). SARS-CoV-2 RNA was detected by polymerase chain reaction (PCR) with a cycle threshold of 21.8 (cobas SARS-CoV-2 and Influenza A/B, Roche). A chest computed tomography scan demonstrated extensive bilateral ground-glass opacification (Box 1). She required intensive care unit admission for high-flow nasal oxygen (FiO2 60%, flow rate 50 litres) and received tocilizumab, ten days of remdesivir, increased prednisolone, and piperacillin&#8211;tazobactam. Three days of pulsed methylprednisolone was prescribed for possible transplant rejection. Despite clinical improvement, SARS-CoV-2 RNA remained detectable with a cycle threshold of 16.2 (VIASURE SARS-CoV-2, flu and RSV, Certest Biotec) and SARS-CoV-2 was isolated from a cell culture.1 Whole genome sequencing identified Omicron BR.2 (variant of concern B.1.1.529) lineage, with molnupiravir-associated mutational signatures,2 (sequence available on GISAID [Global Initiative of Sharing All Influenza Data]; 26/12/22: hCoV-19/Australia/NSW_ICPMR_40135/2022 and 03/03/23: hCoV-19/Australia/NSW_ICPMR_43136/2023). The patient was transferred to a high acuity respiratory ward after three weeks, but over the ensuing six weeks, became severely deconditioned and continued to require high-flow nasal oxygen (FiO2 30&#8211;35%, 35 litres). Chest imaging was stable, demonstrating fibrosis but minimal progressive inflammation. The persistent detection of SARS-CoV-2 RNA and isolation of SARS-CoV-2 by culture (Box 2) from upper respiratory tract samples prevented participation in enhanced inpatient pulmonary rehabilitation beyond her single room, as per local infection prevention guidelines and hospital policy.3 The policy, based on national guidelines,3 dictated that for coronavirus disease 2019 (COVID-19) de-isolation, immunocompromised hosts need to be 21 days post-infection, asymptomatic, and without detectable SARS-CoV-2 RNA. In individuals with persistent RNA detection, a cycle threshold greater than 30 with either positive spike antibody, negative rapid antigen test (RAT) or culture is sufficient for de-isolation. CT = cycle threshold; PCR = polymerase chain reaction; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2. The patient received a further dose of tixagevimab&#8211;cilgavimab, regular intravenous immunoglobulin and ten further days of remdesivir. Repeat whole genome sequencing did not identify infection with another SARS-CoV-2 lineage nor genomic markers of antiviral resistance.4 Convalescent plasma was not available and administration of virus-specific T-cells was deemed too high risk due to the patient's compromised immune system and fragile respiratory status. The patient received further remdesivir and molnupiravir and was weaned to 1&#8211;2 litres of oxygen (FiO2 24&#8211;28%). At this point, the patient had been in isolation for 16 weeks as per the de-isolation protocol, requiring dedicated psychosocial input. A novel clearance strategy was subsequently implemented with twice weekly PCR and extended viral culture tests. De-isolation criteria were modified to require two negative cultures, irrespective of cycle threshold value. A decision was made to de-isolate at 25 weeks when no viable virus was isolated after 98 days of diagnosis, and imaging was stable. Coincidentally, PCR cycle threshold was persistently greater than 30. Following rehabilitation, she was discharged after seven months of illness. Persistent viral shedding is increasingly recognised in COVID-19, with recent data suggesting the median duration of viable SARS-CoV-2 in immunocompromised hosts is four weeks5 in contrast to immunocompetent hosts where SARS-CoV-2 is rarely isolated after ten days.6 Up to 7% of solid organ transplant (SOT) recipients shed virus for more than 30 days.7 Although relatively common, there is limited data to guide de-isolation of immunocompromised hosts, impacting infection control, allied health, and resource use.6 Treatment options are also limited, with molnupiravir no longer recommended for treatment in SOT recipients, due to concerns regarding the promotion of viral escape and evolution.2 Further, logistical difficulties in administering outpatient remdesivir, and nirmatrelvir&#8211;ritonavir in the context of drug&#8211;drug interactions have limited their use. Additionally, this and other novel Omicron strains have been increasingly resistant to sotrovimab and although tixagevimab&#8211;cilgavimab retains some in vitro activity, neutralisation is reduced.8 Existing COVID-19 diagnostics, including PCR cycle threshold values and culturable virus, are imperfect surrogates for infectivity.9 Although there is decreased likelihood of isolating replication-competent SARS-CoV-2 from samples with cycle threshold values greater than 30, correlation in immunocompromised hosts with protracted shedding is less established. Moreover, there is variability among immunocompromised hosts, with SOT recipients less likely to shed viable virus than haematological transplant recipients.10 Heterogeneity in this patient population might be further influenced by differences in immunity following infection or vaccination.11 In immunocompromised hosts with persistent shedding, RATs may be a useful clearance test as the negative predictive value increases from 48% to 92% after 20 days,5 and as a collective approach, PCR, viral culture and RATs can be useful in complex cases. De-isolation strategies vary across Australia, with national guidelines potentially leading to long periods of isolation.3, 12 The exclusion of immunocompromised hosts from many studies on which these recommendations are based means it is difficult to extrapolate data to this cohort.11 To mitigate this, individual patient assessment by multidisciplinary teams to determine timing for de-isolating immunocompromised hosts with persistent SARS-CoV-2 detection is practised at some transplant centres. Contemporaneous resources on vaccination regimens, immunosuppressant modulation and updated de-isolation guidelines have since been released, reflecting the changing requirements for immunocompromised hosts with COVID-19 requiring hospitalisation.12 Ultimately, this case highlights the difficulty in managing protracted SARS-CoV-2 infection in lung transplant recipients, emphasising the need for patient-specific therapeutic management and adaptable approaches to infection control in complex immunocompromised hosts. The patient provided written consent for publication. No relevant disclosures. Not commissioned; externally peer reviewed.</description>
+      <author>Alyssa Pradhan, David Pham, Aline Brennan, Jen Kok, Priya Garg</author>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5694/mja2.52556</guid>
+    </item>
+    <item>
+      <title>Editorial: Unconventional resources: provenance analysis, sediment transport, reservoir evaluation, geo-energy</title>
+      <link>https://doi.org/10.3389/feart.2024.1530200</link>
+      <description>Wenguang Wang, Xixin Wang, Yongqiang Chen, Lei Zhu, Yihuai Zhang, Frontiers in Earth Science. 12(None)] 2024. https://openalex.org/W4405262314
+
+                quality was proposed. This model revealed favorable lithofacies in deltaic sand bodies could form lithologic traps, which have important exploration and development value for lithologic hydrocarbon reservoirs.proposed an improved stacked model with a gate network module to predict the permeability of tight sandstone reservoirs. The GNS model can automatically evaluate the impact of various logging parameters and significantly improve the prediction accuracy, which helps to enhance the reliability of tight reservoir evaluation parameters.He et al. established a data-driven fracture propagation model and fracture channeling identification method, successfully explains the reason for cross-well fracture channeling, and its conclusion aligns with the actual monitoring results.Shi et al. proposed a method to characterize the regional distribution of complex multi-layer migration pathways for oil and gas in the paleo-slope zone outside petroliferous basins' source kitchens. This study established a method creatively for determining the threshold for oil and gas migration along sandbodies and faults, and it improves the exploration efficiency of petroleum in areas with similar geological conditions like eastern basins in China.Zhang et al. study the dynamic loss process and the molecular changes of hydrocarbons in preserved shale samples exposed in open air for different time, and reveal that there is a large amount of oil loss of about 42% to 78% for samples with maturity %Ro between 1.01 and 1.53. The oil loss is mainly contributed by free oil, while adsorbed oil remains unchanged. NMR T1-T2 mapping can be an important method to estimate in-situ fluid saturation without sample crushing.Dong et al. employed nuclear magnetic resonance (NMR), X-ray micro-computed tomography (micro-CT), and mercury injection capillary pressure (MICP) to analyze the descriptive topological and geometric features of carbonate samples from the Gaoshitti-Moxi area of the Sichuan Basin, compared the corresponding experimental results, and developed a novel comprehensive characterization approach for its parameters, which is conducive to characterizing the pore structure of carbonate rock.Zhou et al. characterized the source rocks and the structural evolution history is restored by using 2D-Move software. The characteristics of reservoirs and caps are clarified, and the controlling factors of reservoir formation are summarized. The sandstone reservoir has fracture and dissolution porosity, which provide storage space for oil accumulation. Faults and unconformities provide pathways for oil migration. The dense basalt is a good cap layer to preserve the reservoir. The research results are of great significance to guide future oil and gas exploration in the Liaohe Basin.Li et al. revealed the main controlling factors of reservoir heterogeneity in the Jiaxian area through thin rock sections, scanning electron microscopy, high-pressure mercury intrusion, and conventional property analysis. The multi-stage metamorphic hydrocarbon expulsion process in coal seams enriched the organic-inorganic interactions in coal-bearing strata, adding some reservoir capacity.Zhang et al. proposed a new method for dynamic monitoring of hydraulic fracturing of shale gas by borehole-to-surface Transient Electromagnetic Methods (BSTEM). By combining field-based shale gas fracturing monitoring models, the response patterns of the borehole-to-surface transient electromagnetic field under different fracturing stages are analyzed, which can guide importance for the application of borehole-to-surface transient electromagnetic methods in monitoring hydraulic fracturing of shale gas.Wang et al. constructed a three-dimensional model using hydraulic fracturing software based on the discrete lattice theory and synthetic rock mass method. The effect of a relatively short cluster spacing (5 m or less) on fracture propagation behavior was investigated through a series of case studies, considering operational parameters (injection rate, the number of fractures) and reservoir parameters (reservoir Young's modulus, stress anisotropy, principal stress direction).Wang et al. employed a well-seismic fusion method, incorporating RGB seismic attribute fusion technology, to classify and detail the sedimentary architecture of thin-layer beach-bar sand bodies in Niger's G oilfield. By integrating seismic attributes and well-logging data, it identifies the spatial distribution and connectivity of sand bodies, presenting a comprehensive architecture classification. These findings enhance the fine characterization of thin-layer beach-bar reservoirs, supporting efficient reservoir development and offering an important methodological reference for similar geological settings.He et al. explored the necessity of switching from water injection to natural gas injection in the fault-controlled fracture-cavity reservoir in Shunbei. They studied the optimization of natural gas injection parameters and methods, analyzed the natural gas displacement mechanism, optimized well pattern layout and injection-production parameters, and constructed an evaluation system for natural gas injection. This improves reservoir development efficiency and oil production rate, reduces the risk of gas channeling, and provides technical support for oil and gas field development.Li et al. based on a systematic study of the noble gas and stable isotope characteristics of normally-pressured shale gas samples, revealed the origin of noble gas from normally-pressured shale gas reservoirs and discussed the accumulation and expulsion mechanisms of normally-pressured shale gas in the tectonically complex margin of the southeastern Sichuan Basin. The result can provide insights into the enrichment mechanism of shale gas reservoirs and the prediction of shale gas production capacity in other structurally complex regions of the world.Wang et al. analyzed the Carboniferous Dawuba and Cambrian Niutitang shales in the Upper Yangtze Platform, South China, revealing their paleoenvironmental conditions and gas potential. Dawuba shales formed in warm, arid, reducing conditions, while Niutitang shales experienced cooler, arid climates. Both have high gas generation potential, with Dawuba featuring Type II2 kerogens and Niutitang Type I. Despite low gas content, promising exploration areas include the Qiannan Depression's Shangyuan and Zongdi regions.Fu et al. investigated the influence of extensional strike-slip fault systems on hydrocarbon accumulation in the Bohai Bay Basin's Huanghekoudong and Miaoxi'nan sub-sags. Utilizing three-dimensional seismic data, new sequence stratigraphic frameworks, and advanced analysis techniques, they develop a model detailing how these systems shape sub-sag evolution and trap formation. This research enhances understanding of structural trapping dynamics, providing crucial insights for exploration strategies in similar geological settings globally.Yuan et al. proposed a method for the identification of complex lithology of tight marl reservoir based on logging data. Lithological identification of 2D and 3D plots is established using sensitive GR, DEN, and RT. Corresponding identification standards are built in two hierarchies. The lithological characteristics of vertical, horizontal, and plane are discussed in the research area, which may aid in understanding the complex marl reservoir in the Leikoupo Formation 32 Submember of the Sichuan Basin, China.Meng et al. found that the factors that influence the CO 2 injectivity are CO 2 injection rate, reservoir pressure, formation water saturation, and permeability, respectively. The oil recovery is mainly influenced by CO 2 injection rate and formation permeability, and the influences of reservoir pressure and water saturation on oil recovery are smaller. To improve the CO 2 injectivity, the threshold values for radial perforation and fracture half-length are 25 m and 50 m. The different provenance controls the distribution of sedimentary facies in the vertical and lateral directions, which in turn controls the spatial distribution of the grain size and clastic composition. The study of provenance analysis and sediment transport can integrate tectonics, climate, provenance lithotypes, transport dynamics, and burial diagenesis, which can provide a comprehensive understanding of unconventional reservoirs. Wang et al. studied the seasonal deltaic deposits in the Cretaceous red bed of the Tarim Basin. As seasonal deltaic deposits were still not well studied in previous research, a concept depositional model about seasonal deltaic deposits was proposed in this research. This model revealed different types of distributary channels in Cretaceous arid paleoclimate, which have important value for both delta sedimentology and deltaic hydrocarbon reservoir exploration. Lan et al. used the Jurassic asphalt found in the QD1 well, combined with the source rocks of drilling cores and outcrops, and explored the possible hydrocarbon source and forming process in the Ruoqiang Sag using oil-source correlation and hydrocarbon accumulation geochronology methods. Peng et al. analyzed beach-bar reservoirs in Qinghai Lake, NW China, linked to unconventional hydrocarbon reservoirs. It highlights the influence of lake-level fluctuations, wind wave dynamics, sediment provenance, and terrain gradient on beach bar formation and morphology. Large-scale fluctuations set initial conditions, while small-scale ones refine features. Wind dynamics define depth zones, affecting morphology. Beach bars are categorized by sediment provenance: bedrock, alluvial fan, and braided river systems. Terrain gradients under 0.7 degrees favor formation, aiding hydrocarbon exploration and sedimentary geology. Wang et al. spectral analysis and wavelet transform are used to study the high frequency Milankovitch sedimentary cycle in Fengcheng Formation. A high resolution astronomical age scale is established, and the 2-stage sedimentary cycle and 8-layer sweet spot are identified. Qi et al. take the Chang 6 lobate delta in the Wuliwan area of the Jing'an Oilfield in the Yishan Slope of the Ordos Basin as an example, this study sets parameters including sediment grain size, hydraulic conditions, and slope gradient similar to those underground to simulate the evolution of the shallow-water delta in the research area through flume experiments, dissect its internal configuration characteristics, establish a sedimentary model, and provide guidance for water flooding adjustments in the oilfield. Dong et al. based on the observation and description of drilling cores, carbon and oxygen isotope tests, inclusion analysis, logging data analysis, and seismic data interpretation, they depict the filling architecture, analyze the stages of collapse-filling, and discuss the differential evolution process and associated filling mechanism of typical paleounderground rivers.Machine learning and artificial intelligence are of great value to the research of unconventional reservoirs. Wei et al. presented a hybrid feature selection method that integrates hyperspectral data with machine learning for precise estimation of dolomite content in carbonate rocks. This non-destructive approach improves the accuracy of field-based mineral identification and facilitates more detailed geological surveys, offering practical significance for oil resource assessment and exploration.</description>
+      <author>Wenguang Wang, Xixin Wang, Yongqiang Chen, Lei Zhu, Yihuai Zhang</author>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/feart.2024.1530200</guid>
     </item>
   </channel>
 </rss>

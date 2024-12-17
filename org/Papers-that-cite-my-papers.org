@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Dec 16 01:38:51 2024
+Created on Tue Dec 17 01:27:47 2024
 
-Found 63 results from 2024-12-09 to 2024-12-16
+Found 64 results from 2024-12-10 to 2024-12-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502]]
@@ -16,27 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* The Impact of Metal–Support Interaction on the Structure and Activity of Carbon-Supported Ni Nanoparticle Catalysts for Alkaline Hydrogen Oxidation Reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405161821
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2024-12-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c15120")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405161821"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405161821"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405161821"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405161821 (Open access: True)
-    
-[[https://openalex.org/A5115051371][Yoshiki Akamine]], [[https://openalex.org/A5092670109][Fumiya Nishino]], [[https://openalex.org/A5087302222][Takashi Yamashita]], [[https://openalex.org/A5068026153][Masayuki Tsushida]], [[https://openalex.org/A5063143560][Keisuke Awaya]], [[https://openalex.org/A5013139214][Masato Machida]], [[https://openalex.org/A5029989616][Syeda Mushrifa Zahan]], [[https://openalex.org/A5065902234][Dario R. Dekel]], [[https://openalex.org/A5023127226][Junya Ohyama]], ACS Applied Materials & Interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.4c15120 
-     
-The effect of the carbon support─Ketjenblack (C    
-
-    
 
 * Unveiling the role of intrinsic defects in N/S Co-Doped hard carbon for superior sodium-ion batteries  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -356,7 +335,7 @@ Abstract Ammonia (NH 3 ) is one of the most widely produced chemicals globally, 
 * Industrial Scale-Up Variability and Life Cycle Assessment of Microbial Fuel Cells  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4405218982
-:TOPICS: Microbial Fuel Cells and Bioremediation, Electrocatalysts for Energy Conversion, Fuel Cells and Related Materials
+:TOPICS: Microbial Fuel Cells and Bioremediation, Electrochemical sensors and biosensors, Extraction and Separation Processes
 :PUBLICATION_DATE: 2024-12-11
 :END:    
     
@@ -366,9 +345,9 @@ Abstract Ammonia (NH 3 ) is one of the most widely produced chemicals globally, 
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405218982"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405218982"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405218982 (Open access: False)
+OpenAlex: https://openalex.org/W4405218982 (Open access: True)
     
-[[https://openalex.org/A5063455322][Harshit Mittal]], No host. None(None)] 2024. https://doi.org/10.32388/4ynyhr 
+[[https://openalex.org/A5063455322][Harshit Mittal]], No host. None(None)] 2024. https://doi.org/10.32388/4ynyhr  ([[https://www.qeios.com/read/4YNYHR/pdf][pdf]])
      
 In the instantaneous global industrialisation, there has been an increase in the generalised waste, one of the major pollutants of wastewater. There should be advancements in the existing wastewater treatment technologies to cater for the current water demands. Wastewater treatment requires the oxidation and reduction of organic and drug molecules. Conventional wastewater technologies are expensive for such degradation, and the treatment efficiency is inadequate per the current demands. Hence microbial fuel cells, which are affordable, multi-applicability systems, should be considered for wastewater treatment technologies. This study analyses various country- and industry-wise wastewater production to demonstrate microbial fuel cell treatment technology requirements. According to the Sustainable Development Goals (SDG), this review also thoroughly discusses the Life Cycle Assessment of various types of Microbial Fuel Cells in order to observe which microbial fuel cells could be applied for different levels of wastewater accumulated geologically as well as industrially. For a thorough treatment of wastewater through MFCs, the review also economically analysed the microbial fuel cells both component-wise and unit-wise, especially towards scale-up. A comprehensive socioeconomic and technological perspective has also been portrayed in order to showcase the need to transition from conventional wastewater treatment technologies towards microbial fuel cells.    
 
@@ -545,7 +524,7 @@ Water confined in nanoscale cavities plays a crucial role in everyday phenomena 
 * Recent Advances in Machine Learning‐Assisted Multiscale Design of Energy Materials  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4405257673
-:TOPICS: Machine Learning in Materials Science, Advanced Memory and Neural Computing, Advanced Thermoelectric Materials and Devices
+:TOPICS: Machine Learning in Materials Science, Electronic and Structural Properties of Oxides, X-ray Diffraction in Crystallography
 :PUBLICATION_DATE: 2024-12-10
 :END:    
     
@@ -557,7 +536,7 @@ Water confined in nanoscale cavities plays a crucial role in everyday phenomena 
 
 OpenAlex: https://openalex.org/W4405257673 (Open access: True)
     
-[[https://openalex.org/A5027418869][Bohayra Mortazavi]], Advanced Energy Materials. None(None)] 2024. https://doi.org/10.1002/aenm.202403876 
+[[https://openalex.org/A5027418869][Bohayra Mortazavi]], Advanced Energy Materials. None(None)] 2024. https://doi.org/10.1002/aenm.202403876  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202403876][pdf]])
      
 Abstract This review highlights recent advances in machine learning (ML)‐assisted design of energy materials. Initially, ML algorithms were successfully applied to screen materials databases by establishing complex relationships between atomic structures and their resulting properties, thus accelerating the identification of candidates with desirable properties. Recently, the development of highly accurate ML interatomic potentials and generative models has not only improved the robust prediction of physical properties, but also significantly accelerated the discovery of materials. In the past couple of years, ML methods have enabled high‐precision first‐principles predictions of electronic and optical properties for large systems, providing unprecedented opportunities in materials science. Furthermore, ML‐assisted microstructure reconstruction and physics‐informed solutions for partial differential equations have facilitated the understanding of microstructure–property relationships. Most recently, the seamless integration of various ML platforms has led to the emergence of autonomous laboratories that combine quantum mechanical calculations, large language models, and experimental validations, fundamentally transforming the traditional approach to novel materials synthesis. While highlighting the aforementioned recent advances, existing challenges are also discussed. Ultimately, ML is expected to fully integrate atomic‐scale simulations, reverse engineering, process optimization, and device fabrication, empowering autonomous and generative energy system design. This will drive transformative innovations in energy conversion, storage, and harvesting technologies.    
 
@@ -576,9 +555,9 @@ Abstract This review highlights recent advances in machine learning (ML)‐assis
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405258100"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405258100"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4405258100 (Open access: False)
+OpenAlex: https://openalex.org/W4405258100 (Open access: True)
     
-[[https://openalex.org/A5021198696][Hongshang Hu]], [[https://openalex.org/A5107771429][Chang Zhang]], [[https://openalex.org/A5100327227][Shiyuan Liu]], [[https://openalex.org/A5112092790][Hangyu Qi]], [[https://openalex.org/A5100427177][Haoyu Wang]], [[https://openalex.org/A5100352811][Xinyu Wang]], [[https://openalex.org/A5091802653][Lilong Zhang]], [[https://openalex.org/A5100349601][Lei Liu]], [[https://openalex.org/A5020699341][Lipiao Bao]], [[https://openalex.org/A5088470415][Muneerah Alomar]], [[https://openalex.org/A5100409881][Jian Zhang]], [[https://openalex.org/A5078853797][Xing Lü]], Advanced Functional Materials. None(None)] 2024. https://doi.org/10.1002/adfm.202419220 
+[[https://openalex.org/A5021198696][Hongshang Hu]], [[https://openalex.org/A5107771429][Chang Zhang]], [[https://openalex.org/A5100327227][Shiyuan Liu]], [[https://openalex.org/A5112092790][Hangyu Qi]], [[https://openalex.org/A5100427177][Haoyu Wang]], [[https://openalex.org/A5100352811][Xinyu Wang]], [[https://openalex.org/A5091802653][Lilong Zhang]], [[https://openalex.org/A5100349601][Lei Liu]], [[https://openalex.org/A5020699341][Lipiao Bao]], [[https://openalex.org/A5088470415][Muneerah Alomar]], [[https://openalex.org/A5100409881][Jian Zhang]], [[https://openalex.org/A5078853797][Xing Lü]], Advanced Functional Materials. None(None)] 2024. https://doi.org/10.1002/adfm.202419220  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202419220][pdf]])
      
 Abstract Electrosynthesis of hydrogen peroxide (H 2 O 2 ) by two‐electron oxygen reduction reaction (2e − ORR) under acidic conditions is promising. However, constructing a highly efficient acid‐resistant 2e − ORR electrocatalyst is critical but challenging. Herein, a coaxial cobalt single‐atom catalyst on carbon nanotubes (Co SA ‐N‐C/CNTs) is designed and synthesized by an ingenious separation chemical vapor deposition (SCVD) strategy, which achieves higher ORR activity, dominated 2e − selectivity, and superior stability in acid, compared to the counterpart nanoparticle catalyst prepared by traditional mixture pyrolysis. The as‐assembled electrode using Co SA ‐N‐C/CNTs catalyst demonstrates a high H 2 O 2 yield in excess of 2000 mmol g cat −1 h −1 with a Faraday efficiency of >90% over 100 h without decay in a flow cell, as superior to the most reported acidic H 2 O 2 production catalysts. Experimental characterization and theoretical calculations reveal that such excellent 2e − ORR performance of Co SA ‐N‐C/CNTs originate from the combined advantages of strongly coupled coaxial core–shell structure and highly dispersed single‐atom property. Most importantly, a series of other coaxial transition metal single‐atom catalysts (M SA ‐N‐C/CNTs, M = Fe, Cu, or Ni) are prepared through this SCVD strategy, and they all show enhanced ORR performance, demonstrating universality.    
 
@@ -1167,6 +1146,48 @@ No abstract
 OpenAlex: https://openalex.org/W4405395385 (Open access: False)
     
 [[https://openalex.org/A5087911287][Jiaojiao Sun]], [[https://openalex.org/A5014240739][Mengxia Shen]], [[https://openalex.org/A5024409625][A. C. Chang]], [[https://openalex.org/A5114176794][Chanjuan Liang]], [[https://openalex.org/A5077354600][Chuanyin Xiong]], [[https://openalex.org/A5084014005][Chen Hou]], [[https://openalex.org/A5100665546][Jinbao Li]], [[https://openalex.org/A5062069628][Pengbo Wang]], [[https://openalex.org/A5049503805][Jiayin Li]], [[https://openalex.org/A5113250500][Jianfeng Huang]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.158551 
+     
+No abstract    
+
+    
+
+* A FIB-TEM study on evolution of passive film during deactivation processes of Ti/IrO2-Ta2O5 electrode  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405409001
+:TOPICS: Metal Extraction and Bioleaching, Electrocatalysts for Energy Conversion, Corrosion Behavior and Inhibition
+:PUBLICATION_DATE: 2024-12-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.145528")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405409001"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405409001"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405409001"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405409001 (Open access: False)
+    
+[[https://openalex.org/A5102350753][Mingshuai Guo]], [[https://openalex.org/A5090584158][Likun Xu]], [[https://openalex.org/A5003631312][Yonglei Xin]], [[https://openalex.org/A5112517566][Lili Xue]], [[https://openalex.org/A5012143983][Tigang Duan]], [[https://openalex.org/A5002193961][Rongrong Zhao]], [[https://openalex.org/A5113357504][Penghe Liu]], [[https://openalex.org/A5055005065][Shuai Zhou]], [[https://openalex.org/A5110261591][Li Li]], Electrochimica Acta. None(None)] 2024. https://doi.org/10.1016/j.electacta.2024.145528 
+     
+No abstract    
+
+    
+
+* Metal‒organic framework/graphene-based nanocatalysts for hydrogen evolution reaction: A comprehensive review  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405409464
+:TOPICS: Metal-Organic Frameworks: Synthesis and Applications, Advanced Photocatalysis Techniques, Electrocatalysts for Energy Conversion
+:PUBLICATION_DATE: 2024-12-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.12.132")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405409464"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405409464"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405409464"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405409464 (Open access: False)
+    
+[[https://openalex.org/A5003242191][Muhammad Ahmad Mudassir]], [[https://openalex.org/A10000058385][Zainab Tazeen]], [[https://openalex.org/A5102953304][Shazia Kousar]], [[https://openalex.org/A5102723689][Muhan Li]], [[https://openalex.org/A5065833107][Xiaoyu Zhao]], International Journal of Hydrogen Energy. 98(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.12.132 
      
 No abstract    
 
