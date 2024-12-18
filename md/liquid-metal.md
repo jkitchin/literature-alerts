@@ -1,18 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Tue Dec 17 01:27:33 2024
+Created on Wed Dec 18 01:24:34 2024
 
-Found 1 results from 2024-12-10 to 2024-12-17
+Found 0 results from 2024-12-11 to 2024-12-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 
-## Unrevealing liquid metal Ga isolated Pt atom catalysts efficient hydrogenation capability of acid to alkanes   
-
-OpenAlex: https://openalex.org/W4405187502    
-Open access: False
-    
-[Feng Long](https://openalex.org/A5101452132), [Bo Zhang](https://openalex.org/A5100335286), [Xincheng Cao](https://openalex.org/A5025172472), [Xiaolei Zhang](https://openalex.org/A5072689275), [Hanjie Ying](https://openalex.org/A5100689402), [Junming Xu](https://openalex.org/A5066253646), [Chenjie Zhu](https://openalex.org/A5072083090), Applied Catalysis B Environment and Energy. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124915.
-    
-No abstract    
-
-    

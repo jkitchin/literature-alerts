@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Dec 17 01:27:35 2024
+Created on Wed Dec 18 01:24:36 2024
 
-Found 29 results from 2024-12-10 to 2024-12-17
+Found 42 results from 2024-12-11 to 2024-12-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Origin of Catalysis by the [Ga4L6]12– Metallocage on the Prins Reaction   
-
-OpenAlex: https://openalex.org/W4405181903    
-Open access: True
-    
-[Iker Zapirain-Gysling](https://openalex.org/A5106336489), [Gantulga Norjmaa](https://openalex.org/A5072224020), [Jean‐Didier Maréchal](https://openalex.org/A5076914476), [Gregori Ujaque](https://openalex.org/A5034526565), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04696.
-    
-No abstract    
-
-    
-
-## Computational Chemistry and Machine Learning-Assisted Screening of Supported Amorphous Metal Oxide Nanoclusters for Methane Activation   
-
-OpenAlex: https://openalex.org/W4405197131    
-Open access: False
-    
-[Xijun Wang](https://openalex.org/A5053465205), [Kaihang Shi](https://openalex.org/A5016152129), [Anyang Peng](https://openalex.org/A5014792249), [Randall Q. Snurr](https://openalex.org/A5019016673), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04021.
-    
-Activating the C–H bond in methane represents a cornerstone challenge in catalytic research. While several supported metal oxide nanoclusters (MeO-NCs) have shown promise for this reaction, their optimal composition remains underexplored primarily due to the large number of possible compositions and their amorphous nature. This study addresses these challenges using computational approaches. Leveraging density functional theory (DFT) calculations, we began with a previously studied supported tetra-copper oxide nanocluster and systematically substituted its Cu sites with first-row transition metals (Mn, Fe, Co, Ni, and Zn). This process allowed us to examine the catalytic activity of 162 MeO-NCs with a variety of geometric and electronic structures, leading to 12 new compositions that outperformed the base nanocluster. Exploring the structure–activity relationships with machine learning, our analysis uncovered correlations between the intrinsic electronic and structural properties of the nanoclusters and the free energy barriers for methane activation despite the challenges posed by the structural flexibility of these amorphous nanoclusters. The results offer insights into the optimization of MeO-NCs for methane activation. Additionally, we developed a clustering model capable of distinguishing high-performing nanoclusters from less effective ones with strong tolerance to the interference from the structural flexibility of these amorphous nanoclusters. These findings help narrow down the material design space for more time-consuming high-level quantum chemical calculations, offering a promising pathway toward advancing eco-friendly methane conversion.    
-
-    
-
-## Diastereodivergent Parallel Kinetic Resolution of Racemic 2-Substituted Pyrrolidines via Iridium-Catalyzed C(sp3)–H Borylation   
-
-OpenAlex: https://openalex.org/W4405197232    
-Open access: False
-    
-[Maosheng He](https://openalex.org/A5079242045), [Yong‐Min Liang](https://openalex.org/A5101814743), [Lili Chen](https://openalex.org/A5100349879), [Senmiao Xu](https://openalex.org/A5006493143), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06245.
-    
-Chiral 2,5-disubstituted pyrrolidines are ubiquitous subunits in natural products, bioactive compounds, pharmaceuticals, and chiral catalysts. However, their asymmetric synthesis still presents a formidable challenge. We herein report a rare example of diastereodivergent parallel kinetic resolution of racemic 2-substituted pyrrolidines via C(sp3)–H borylation. A vast array of enantioenriched cis- and trans-2,5-disubstituted pyrrolidines were obtained with high enantioselectivities. The synthetic utility was demonstrated by downstream transformations, including the synthesis of optically active pyrrolidine 197B and cis-pyrrolidine 225H.    
-
-    
 
 ## Selective Hydrodeoxygenation of Lignin via Aryl Ether C–O Bond Cleavage: Cs-Mediated Cu Surface Engineering   
 
@@ -320,6 +287,182 @@ OpenAlex: https://openalex.org/W4405378470
 Open access: False
     
 [Shuhao Wang](https://openalex.org/A5112424682), [Kamran Dastafkan](https://openalex.org/A5057507481), [Sicheng Wu](https://openalex.org/A5079233581), [Qian Sun](https://openalex.org/A5059473992), [Chengli Rong](https://openalex.org/A5016828667), [Dazhi Yao](https://openalex.org/A5018028217), [Chuan Zhao](https://openalex.org/A5046268649), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03718.
+    
+No abstract    
+
+    
+
+## Discovery and Synthetic Applications of a NAD(P)H-Dependent Reductive Aminase from Rhodococcus erythropolis   
+
+OpenAlex: https://openalex.org/W4405431243    
+Open access: True
+    
+[Ewald P. J. Jongkind](https://openalex.org/A5082420951), [J. Domenech](https://openalex.org/A5110114882), [Arthur Govers](https://openalex.org/A10000068240), [Marcel van den Broek](https://openalex.org/A5015527534), [Jean‐Marc Daran](https://openalex.org/A5033414409), [Gideon Grogan](https://openalex.org/A5003700886), [Caroline E. Paul](https://openalex.org/A5091020378), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04935.
+    
+Reductive amination is one of the most synthetically direct routes to access chiral amines. Several Imine Reductases (IREDs) have been discovered to catalyze reductive amination (Reductive Aminases or RedAms), yet they are dependent on the expensive phosphorylated nicotinamide adenine dinucleotide cofactor NADPH and usually more active at basic pH. Here, we describe the discovery and synthetic potential of an IRED from Rhodococcus erythropolis (RytRedAm) that catalyzes reductive amination between a series of medium to large carbonyl and amine compounds with conversions of up to >99% and 99% enantiomeric excess at neutral pH. RytRedAm catalyzes the formation of a substituted γ-lactam and N-methyl-1-phenylethanamine with stereochemistry opposite to that of fungal RedAms, giving the (S)-enantiomer. This enzyme remarkably uses both NADPH and NADH cofactors with KM values of 15 and 247 μM and turnover numbers kcat of 3.6 and 9.0 s–1, respectively, for the reductive amination of hexanal with allylamine. The crystal structure obtained provides insights into the flexibility to also accept NADH, with residues R35 and I69 diverging from that of other IREDs/RedAms in the otherwise conserved Rossmann fold. RytRedAm thus represents a subfamily of enzymes that enable synthetic applications using NADH-dependent reductive amination to access complementary chiral amine products.    
+
+    
+
+## Construction of Chiral C2-Quaternary Indolines via Palladium-Catalyzed Decarboxylative Asymmetric Amination   
+
+OpenAlex: https://openalex.org/W4405431372    
+Open access: False
+    
+[Mingjun Lv](https://openalex.org/A5028071791), [Xinhui Yu](https://openalex.org/A5102485257), [Jitian Liu](https://openalex.org/A5089618971), [Xiaoxun Li](https://openalex.org/A5001092337), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05763.
+    
+No abstract    
+
+    
+
+## Chemically Bonded Schottky Junction for Efficient N2 Photofixation   
+
+OpenAlex: https://openalex.org/W4405431397    
+Open access: False
+    
+[Yin Bi](https://openalex.org/A5113264380), [Yuan Fang](https://openalex.org/A5040559566), [Ling Yuan](https://openalex.org/A5108582360), [Jiaxin Li](https://openalex.org/A5100343408), [Chaoqi Zhang](https://openalex.org/A5061724324), [Pengyue Shan](https://openalex.org/A5030440986), [Xinchan Zhang](https://openalex.org/A5051585157), [Chao Liu](https://openalex.org/A5038072194), [Chengzhong Yu](https://openalex.org/A5009277202), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04443.
+    
+No abstract    
+
+    
+
+## Balancing Activity and Stability through Compositional Engineering of Ternary PtNi–Au Alloy ORR Catalysts   
+
+OpenAlex: https://openalex.org/W4405439103    
+Open access: True
+    
+[Xianxian Xie](https://openalex.org/A5037568967), [Valentín Briega‐Martos](https://openalex.org/A5028984197), [Pere Alemany](https://openalex.org/A5067024627), [Athira Lekshmi Mohandas Sandhya](https://openalex.org/A5003898057), [Tomáš Škála](https://openalex.org/A5079336887), [Miquel Gamón Rodríguez](https://openalex.org/A5006021426), [Jaroslava Nováková](https://openalex.org/A5007700085), [Milan Dopita](https://openalex.org/A5019731183), [Michael Vorochta](https://openalex.org/A5043951136), [Albert Bruix](https://openalex.org/A5061069452), [Serhiy Cherevko](https://openalex.org/A5073666601), [Konstantin M. Neyman](https://openalex.org/A5032114586), [Iva Matolı́nová](https://openalex.org/A5101902616), [Ivan Khalakhan](https://openalex.org/A5039409285), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05269.
+    
+No abstract    
+
+    
+
+## Biocatalytic Cleavage of para-Acetoxy Benzyl Ethers: Application to Protecting Group Chemistry   
+
+OpenAlex: https://openalex.org/W4405443211    
+Open access: True
+    
+[Ben Ashley](https://openalex.org/A5036178758), [Chiara Demingo](https://openalex.org/A10000073414), [H.J. Rozeboom](https://openalex.org/A5005328052), [Niccoló Bianciardi](https://openalex.org/A10000073415), [Tomás Dunleavy](https://openalex.org/A5095837864), [Jacob‐Jan Haaksma](https://openalex.org/A5035141073), [Yiming Guo](https://openalex.org/A5017006950), [Marco W. Fraaije](https://openalex.org/A5083203989), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04257.
+    
+Aryl ethers are ubiquitous protecting groups of alcohols and amines in organic chemistry. This is owed to the simplicity of their appendage to molecules and the robust protection afforded. However, aryl ethers and amines can be challenging to cleave, often requiring harsh and unselective reductive conditions. We report the structure-based engineering of a promiscuous, ether-cleaving vanillyl alcohol oxidase-type biocatalyst for activity on a wide range of para-hydroxy benzyl ethers. Two superior quadruple mutants are identified with improved kinetics and substrate scope. One evolved variant and two predecessors are crystallized, and their structures resolved to 2.8–1.5 Å, revealing a significant increase in the volume and flexibility of the active site cavity. To illustrate the potential usefulness of the engineered biocatalysts, one is later coupled with another biocatalyst in a cascade reaction to catalyze the selective cleavage of an uncommon aryl ether protecting group, para-acyloxy benzyl ethers, in good yield and under mild conditions.    
+
+    
+
+## DFT-Assisted Atroposelective Construction of Indole-Fused N-Heteroaromatic Frameworks through Palladium-Catalyzed C–H Imidoylation   
+
+OpenAlex: https://openalex.org/W4405443243    
+Open access: False
+    
+[Xilong Wang](https://openalex.org/A5100632471), [Jiali Xu](https://openalex.org/A5102812134), [Yu Luo](https://openalex.org/A5037361855), [Yuanyu Wang](https://openalex.org/A5112876938), [Jun Huang](https://openalex.org/A5046926733), [Qiang Zhu](https://openalex.org/A5108264438), [Shuang Luo](https://openalex.org/A5019882694), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06720.
+    
+No abstract    
+
+    
+
+## Electronic Structure Modulated by B-Doped Cu Promotes Electrocatalytic Nitrate Reduction for Ammonia Production   
+
+OpenAlex: https://openalex.org/W4405443274    
+Open access: False
+    
+[Jia-Jia Wang](https://openalex.org/A5019708174), [Zhuodong Ou](https://openalex.org/A5102616845), [Chenglin Dong](https://openalex.org/A5068274551), [Mengying Su](https://openalex.org/A5090722028), [Amjad Ali](https://openalex.org/A5029454973), [Artem V. Kuklin](https://openalex.org/A5087272960), [Hans Ågren](https://openalex.org/A5053665869), [Glib Baryshnikov](https://openalex.org/A5072409817), [Yang Liu](https://openalex.org/A5100355901), [Xue Zhao](https://openalex.org/A5057904713), [Haibo Zhang](https://openalex.org/A5039480955), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05954.
+    
+No abstract    
+
+    
+
+## Fine-Tuning the Active Phases of CoFe Alloy Carbides for Boosting Olefin Synthesis from CO2 Hydrogenation   
+
+OpenAlex: https://openalex.org/W4405443281    
+Open access: False
+    
+[Na Liu](https://openalex.org/A5100389784), [Qixiang Fan](https://openalex.org/A5019080822), [Jian Wei](https://openalex.org/A5072413669), [Guanghui Zhang](https://openalex.org/A5100459824), [Jian Sun](https://openalex.org/A5100742185), [Wenhui Li](https://openalex.org/A5100339868), [Chunshan Song](https://openalex.org/A5100439357), [Xinwen Guo](https://openalex.org/A5108083619), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06112.
+    
+No abstract    
+
+    
+
+## Manipulating Metal Cations Microenvironment for Highly Selective Electrochemical Water Oxidation to Hydrogen Peroxide   
+
+OpenAlex: https://openalex.org/W4405443310    
+Open access: False
+    
+[Lanke Luo](https://openalex.org/A5000832086), [Mingxuan Li](https://openalex.org/A5100365304), [Haohai Dong](https://openalex.org/A5109726017), [Haomin Jiang](https://openalex.org/A5046902345), [Huatian Chen](https://openalex.org/A5111258789), [Jiongjun Wu](https://openalex.org/A5108951122), [Peiyuan Su](https://openalex.org/A5069744702), [Xinyue Zhang](https://openalex.org/A5100319948), [Lin Chen](https://openalex.org/A5100443726), [Zemin Sun](https://openalex.org/A5008007560), [Liu Lin](https://openalex.org/A5086427768), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06189.
+    
+No abstract    
+
+    
+
+## Ag/Co-Bimetallic Cooperation in the C–H Functionalization of Aliphatic Amides with Propiolic Acids   
+
+OpenAlex: https://openalex.org/W4405443360    
+Open access: False
+    
+[Andrés García‐Viada](https://openalex.org/A5000963221), [Emma Duro](https://openalex.org/A10000073460), [Celia Sánchez‐González](https://openalex.org/A5098215784), [Inés Alonso](https://openalex.org/A5064338968), [Nuria Rodríguez](https://openalex.org/A5049477986), [Javier Adrio](https://openalex.org/A5014883363), [Juan C. Carretero](https://openalex.org/A5065650028), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05918.
+    
+No abstract    
+
+    
+
+## Interfacial Synergy of Ni Single Atom/Clusters and MXene Enabling Semiconductor Quantum Dots Based Superior Photoredox Catalysis   
+
+OpenAlex: https://openalex.org/W4405443444    
+Open access: False
+    
+[Ming–Yu Qi](https://openalex.org/A5086250289), [Wei-Yun Xiao](https://openalex.org/A5114229268), [Marco Conte](https://openalex.org/A5072397552), [Zi‐Rong Tang](https://openalex.org/A5066033097), [Yi‐Jun Xu](https://openalex.org/A5026347224), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05842.
+    
+No abstract    
+
+    
+
+## Unraveling the Impact of Niobia Promotion on Pt/Al2O3 for Enhanced Catalytic Performance in Benzyltoluene Reactions   
+
+OpenAlex: https://openalex.org/W4405443456    
+Open access: False
+    
+[Jun Ki Yoo](https://openalex.org/A5114048532), [Seok-Ho Lee](https://openalex.org/A5000810626), [Tae In Park](https://openalex.org/A5112136704), [Jeong Yong Lee](https://openalex.org/A5100398118), [Kwan‐Young Lee](https://openalex.org/A5076133938), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03543.
+    
+No abstract    
+
+    
+
+## Understanding the Unique Selectivity of Cobalt Phthalocyanine in Multielectron Reduction of Carbon Dioxide   
+
+OpenAlex: https://openalex.org/W4405443459    
+Open access: False
+    
+[Hengyu Li](https://openalex.org/A5100780082), [Yangfan Shao](https://openalex.org/A5102946528), [Zhichao Zhang](https://openalex.org/A5032631479), [Muhammad N. Tahir](https://openalex.org/A5107050925), [Tingzheng Hou](https://openalex.org/A5079936107), [Lin Gan](https://openalex.org/A5051784756), [Feng Ding](https://openalex.org/A5041275599), [Jia Li](https://openalex.org/A5070982282), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05744.
+    
+No abstract    
+
+    
+
+## Facet-Controlled Pt3M Alloys as Enhanced Catalysts for Ammonia Oxidation Reaction: A Combined Theoretical and Experimental Study   
+
+OpenAlex: https://openalex.org/W4405443460    
+Open access: False
+    
+[Jaeyoung Yoo](https://openalex.org/A5103159795), [Jungwoo Choi](https://openalex.org/A5017443019), [Su-Yeon Choi](https://openalex.org/A5103029139), [Changsoo Lee](https://openalex.org/A5101696473), [Hyuck Mo Lee](https://openalex.org/A5007750616), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05857.
+    
+No abstract    
+
+    
+
+## Photothermal-Enhanced H2 Generation and Lignin Upgrading to Jet Fuel Precursor over Lignin–Carbon-Bridged Pt/NixP   
+
+OpenAlex: https://openalex.org/W4405457504    
+Open access: False
+    
+[Sheng Wang](https://openalex.org/A5100371335), [Jiawen Liao](https://openalex.org/A5063418082), [Xueqing Qiu](https://openalex.org/A5071160405), [Xuliang Lin](https://openalex.org/A5079837697), [Yanlin Qin](https://openalex.org/A5103110216), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04888.
+    
+Merging efficient H2 generation with high-value utilization of biomass via a solar-driven catalytic redox technology presents a promising strategy for overall biorefinery. As the most abundant aromatic polymer in nature, lignin is considered an ideal sacrificial agent to enhance the reductive H2 evolution, coproducing high-value aromatic chemicals/fuels instead of waste carbon oxides. However, the development of an energy-efficient and productive photocatalysis system remains challenging. Herein, a photothermal cocatalytic technology was developed for synergistic enhancement on the redox activities. A feasible synthesis method was proposed to precisely construct a light-sensitive heterojunction between active Pt and NixP, bridged by technical lignin–carbon. Benefiting from the advanced modulation effect of lignin–carbon, accelerated electron transfer and active structural rearrangement were realized on the defective catalyst surface. Combining an optimized band gap structure, H2 evolution efficiency was boosted under photothermal cocatalysis and showed a splendid H2 evolution rate of 10.7 mmol·gcat–1·h–1 based on a lignin-derived monomer (vanillyl alcohol), 15-fold higher than either photocatalysis or thermocatalysis alone. The H2 evolution obtained from technical lignin (2.9 mmol·gcat–1·h–1) surpassed the existing level of biomass. Meanwhile, the controllable coupling of lignin or its derived monomers was enhanced simultaneously, yielding C13–C16 dimers (43.8% yield) from the lignin-derived monomer via Cα node, which act as ideal precursors for jet fuel. This work advances lignin upgrading for hydrogen energy and biofuels.    
+
+    
+
+## Oxygen Reduction Reaction on Pyridinic Nitrogen-Functionalized Carbon: Active Site Quantification and Effects of Lewis Basicity   
+
+OpenAlex: https://openalex.org/W4405464001    
+Open access: False
+    
+[Zhongyao Zhang](https://openalex.org/A5011995432), [Feiting Zhang](https://openalex.org/A5054620175), [Zhongxin Song](https://openalex.org/A5036686064), [Lei Zhang](https://openalex.org/A5100433989), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05289.
     
 No abstract    
 
