@@ -1,8 +1,8 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Dec 18 01:24:39 2024
+Created on Thu Dec 19 01:25:25 2024
 
-Found 3 results from 2024-12-11 to 2024-12-18
+Found 4 results from 2024-12-12 to 2024-12-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
 
@@ -66,5 +66,26 @@ OpenAlex: https://openalex.org/W4405454695 (Open access: True)
 [[https://openalex.org/A5015409355][Rıza Özçelik]], [[https://openalex.org/A5078946433][Francesca Grisoni]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00311j 
      
 Deep learning has significantly accelerated drug discovery, with 'chemical language' processing (CLP) emerging as a prominent approach. CLP learns from molecular string representations (e.g., Simplified Molecular Input Line Entry Systems...    
+
+    
+
+* Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405473080
+:TOPICS: Computational Drug Discovery Methods
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00347k")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405473080"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405473080"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405473080"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405473080 (Open access: True)
+    
+[[https://openalex.org/A5033957593][Felix Katzenburg]], [[https://openalex.org/A5038880936][Florian Boser]], [[https://openalex.org/A5035577950][Felix Schäfer]], [[https://openalex.org/A5115506495][Philipp Pflueger]], [[https://openalex.org/A5017167322][Frank Glorius]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00347k 
+     
+The accelerated generation of reaction data through high-throughput experimentation and automation has the potential to boost organic synthesis. However, efforts to generate diverse reaction datasets or identify generally applicable reaction...    
 
     

@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Dec 18 01:24:39 2024
+Created on Thu Dec 19 01:25:25 2024
 
-Found 3 results from 2024-12-11 to 2024-12-18
+Found 4 results from 2024-12-12 to 2024-12-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -36,5 +36,16 @@ Open access: True
 [Rıza Özçelik](https://openalex.org/A5015409355), [Francesca Grisoni](https://openalex.org/A5078946433), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00311j.
     
 Deep learning has significantly accelerated drug discovery, with 'chemical language' processing (CLP) emerging as a prominent approach. CLP learns from molecular string representations (e.g., Simplified Molecular Input Line Entry Systems...    
+
+    
+
+## Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening   
+
+OpenAlex: https://openalex.org/W4405473080    
+Open access: True
+    
+[Felix Katzenburg](https://openalex.org/A5033957593), [Florian Boser](https://openalex.org/A5038880936), [Felix Schäfer](https://openalex.org/A5035577950), [Philipp Pflueger](https://openalex.org/A5115506495), [Frank Glorius](https://openalex.org/A5017167322), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00347k.
+    
+The accelerated generation of reaction data through high-throughput experimentation and automation has the potential to boost organic synthesis. However, efforts to generate diverse reaction datasets or identify generally applicable reaction...    
 
     

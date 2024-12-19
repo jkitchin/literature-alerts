@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Dec 18 01:24:36 2024
+Created on Thu Dec 19 01:25:22 2024
 
-Found 42 results from 2024-12-11 to 2024-12-18
+Found 38 results from 2024-12-12 to 2024-12-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Hydrodeoxygenation of Lignin via Aryl Ether C–O Bond Cleavage: Cs-Mediated Cu Surface Engineering   
-
-OpenAlex: https://openalex.org/W4405222542    
-Open access: False
-    
-[Xiaofei Wang](https://openalex.org/A5108143992), [Mei‐Yan Wang](https://openalex.org/A5041578170), [Maoshuai Li](https://openalex.org/A5025279081), [Yue Wang](https://openalex.org/A5065841119), [Xuliang Lin](https://openalex.org/A5079837697), [Yanlin Qin](https://openalex.org/A5103110216), [Xinbin Ma](https://openalex.org/A5100689682), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05146.
-    
-No abstract    
-
-    
-
-## Synthesis of E-3-Alkenyl 2H-Indazoles via Pd/Cu-Catalyzed Cross-coupling/Cyclization of 2-Iodoazoarenes with Terminal Allylenes and Visible-Light-Promoted Isomerization   
-
-OpenAlex: https://openalex.org/W4405226277    
-Open access: False
-    
-[Kalin Mei](https://openalex.org/A5010060159), [Rui Huang](https://openalex.org/A5090273258), [Haiyang Huang](https://openalex.org/A5039642198), [Hongli Bao](https://openalex.org/A5020334340), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06448.
-    
-No abstract    
-
-    
-
-## Ruthenium-Catalyzed Formal Asymmetric Reductive Isomerization of α-Hydroxyenones   
-
-OpenAlex: https://openalex.org/W4405236100    
-Open access: False
-    
-[Wennan Dong](https://openalex.org/A5102007429), [Caiyi Ren](https://openalex.org/A5114191570), [Lixuan Zhu](https://openalex.org/A5102155788), [Peng Luo](https://openalex.org/A5105473478), [Zhifei Zhao](https://openalex.org/A5110731941), [Shouang Lan](https://openalex.org/A5017215755), [Jinggong Liu](https://openalex.org/A5028923357), [Shuang Yang](https://openalex.org/A5030001583), [Qi Zhang](https://openalex.org/A5100360206), [Xinqiang Fang](https://openalex.org/A5017247181), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05378.
-    
-No abstract    
-
-    
-
-## Iron Oxide-Oriented Ethanol Synthesis via Dimethyl Oxalate Hydrogenation from Syngas   
-
-OpenAlex: https://openalex.org/W4405240108    
-Open access: False
-    
-[Yannan Sun](https://openalex.org/A5002420267), [Ke Fu](https://openalex.org/A5061216273), [Jian Wei](https://openalex.org/A5072413669), [Qingjie Ge](https://openalex.org/A5029687574), [Qingxiang Ma](https://openalex.org/A5039911408), [Guofeng Wang](https://openalex.org/A5100389630), [Jian Sun](https://openalex.org/A5100742185), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06219.
-    
-No abstract    
-
-    
-
-## Nickel-Catalyzed Asymmetric Synthesis of β- or β,γ-Substituted GABA Derivatives Enabled by Photoactive Ternary Electron Donor–Acceptor Complex   
-
-OpenAlex: https://openalex.org/W4405246639    
-Open access: False
-    
-[Ying Xie](https://openalex.org/A5100602722), [Zemin Lai](https://openalex.org/A5003027541), [Albert S. C. Chan](https://openalex.org/A5037408892), [Jing Guo](https://openalex.org/A5100711039), [Gui Lu](https://openalex.org/A5031120242), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06549.
-    
-Enantiopure γ-amino butyric acids (GABA) and derivatives have important applications in medicinal chemistry, especially for the treatment of central nervous system diseases. Many marketed drugs feature this moiety. In this context, we have developed a highly enantioselective catalytic strategy for rapidly forging β- or β,γ-substituted GABA derivatives by exploiting an unexplored ternary electron donor–acceptor (EDA) complex simultaneously driven by visible light and chiral Ni catalyst. With this cooperative catalytic system, a range of structurally diverse β- or β,γ-substituted GABA derivatives have been achieved in high yields with good enantio- and diastereoselectivities (up to 88% yield, >99% ee, >19:1 dr). Mechanistic studies indicate that the key to success is the dual role of the chiral Ni catalyst, which not only promotes the formation of ternary EDA complexes generated from redox-active esters, Hantzsch esters, and chiral Ni catalyst but can also precisely provide asymmetric induction. The synthetic benefits of this method were proved by enabling easy synthetic access to pharmaceuticals or related bioactive molecules such as pregabalin, baclofen, rolipram, and phenibut.    
-
-    
 
 ## Enantioselective Synthesis of Chiral Acyclic Nitriles Containing α-All-Carbon Quaternary Stereocenters via Synergistic Palladium and Phase-Transfer Catalysis   
 
@@ -99,7 +44,7 @@ No abstract
 OpenAlex: https://openalex.org/W4405274852    
 Open access: True
     
-[Vega Miguel-Ruano](https://openalex.org/A5062724721), [Iván Acebrón](https://openalex.org/A5043352058), [Mijoon Lee](https://openalex.org/A5017757711), [Antonio J. Martín-Galiano](https://openalex.org/A5059354705), [Céline Freton](https://openalex.org/A5107387450), [Uxía P. de José](https://openalex.org/A10000002712), [Balajee Ramachandran](https://openalex.org/A5089570908), [Federico Gago](https://openalex.org/A5048905988), [Morten Kjos](https://openalex.org/A5076738808), [Dušan Hesek](https://openalex.org/A5069198023), [Christophe Grangeasse](https://openalex.org/A5082790207), [Leiv Sigve Håvarstein](https://openalex.org/A5023435907), [Daniel Straume](https://openalex.org/A5001779153), [Shahriar Mobashery](https://openalex.org/A5013812375), [J.A. Hermoso](https://openalex.org/A5021295789), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05090.
+[Vega Miguel-Ruano](https://openalex.org/A5062724721), [Iván Acebrón](https://openalex.org/A5043352058), [Mijoon Lee](https://openalex.org/A5017757711), [Antonio J. Martín-Galiano](https://openalex.org/A5059354705), [Céline Freton](https://openalex.org/A5107387450), [Uxía P. de José](https://openalex.org/A5115396446), [Balajee Ramachandran](https://openalex.org/A5089570908), [Federico Gago](https://openalex.org/A5048905988), [Morten Kjos](https://openalex.org/A5076738808), [Dušan Hesek](https://openalex.org/A5069198023), [Christophe Grangeasse](https://openalex.org/A5082790207), [Leiv Sigve Håvarstein](https://openalex.org/A5023435907), [Daniel Straume](https://openalex.org/A5001779153), [Shahriar Mobashery](https://openalex.org/A5013812375), [J.A. Hermoso](https://openalex.org/A5021295789), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05090.
     
 No abstract    
 
@@ -209,7 +154,7 @@ No abstract
 OpenAlex: https://openalex.org/W4405333957    
 Open access: False
     
-[Kohsuke Mori](https://openalex.org/A5079611946), [Jun Shinogi](https://openalex.org/A10000027286), [Yuki Shimada](https://openalex.org/A5109990505), [Hiromi Yamashita](https://openalex.org/A5028494580), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05484.
+[Kohsuke Mori](https://openalex.org/A5079611946), [Jun Shinogi](https://openalex.org/A5115420758), [Yuki Shimada](https://openalex.org/A5109990505), [Hiromi Yamashita](https://openalex.org/A5028494580), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05484.
     
 The transformation of carbon dioxide (CO2) into formic acid (FA; HCOOH) in an aqueous phase is a promising method of realizing an environmentally friendly FA/CO2-mediated chemical hydrogen storage/supply cycle. Despite progress in the design of catalysts that operate under basic conditions, the development of efficient catalysts that operate under additive-free conditions lags behind owing to the difficulty in activating CO2 and the low solubility of CO2 in pure water. In the present study, we present a heterogeneous tandem catalysis strategy in which Co3O4 is used as a CO2 hydration cocatalyst to produce a HCO3– intermediate, in combination with our previously reported PdAg/TiO2 as a catalyst for the hydrogenation of HCO3– to afford FA. The turnover number based on Pd improved by a factor of more than 8 in the presence of the Co3O4 cocatalyst with a cubic particle morphology enclosed by (100) facets. A series of morphology-controlled Co3O4 cocatalysts was investigated to elucidate the effect of the exposed crystal facets (i.e., (100), (111), or (112)) on their physicochemical properties and catalytic activity in FA synthesis. A systematic comparison based on experimental and density functional theory calculations demonstrated that the substantial enhancement effect of the Co3O4 cubes is attributable to the in situ generation of the largest amount of surface Co–OH groups with strong basicity originating from the exposed (100) facets. In addition, the present tandem catalytic system displayed high recyclability without exhibiting a structural change or a significant loss of activity. These findings will allow the rational design of an environmentally benign catalytic system for the hydrogenation of CO2 to FA.    
 
@@ -297,7 +242,7 @@ No abstract
 OpenAlex: https://openalex.org/W4405431243    
 Open access: True
     
-[Ewald P. J. Jongkind](https://openalex.org/A5082420951), [J. Domenech](https://openalex.org/A5110114882), [Arthur Govers](https://openalex.org/A10000068240), [Marcel van den Broek](https://openalex.org/A5015527534), [Jean‐Marc Daran](https://openalex.org/A5033414409), [Gideon Grogan](https://openalex.org/A5003700886), [Caroline E. Paul](https://openalex.org/A5091020378), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04935.
+[Ewald P. J. Jongkind](https://openalex.org/A5082420951), [J. Domenech](https://openalex.org/A5110114882), [Arthur Govers](https://openalex.org/A5115459782), [Marcel van den Broek](https://openalex.org/A5015527534), [Jean‐Marc Daran](https://openalex.org/A5033414409), [Gideon Grogan](https://openalex.org/A5003700886), [Caroline E. Paul](https://openalex.org/A5091020378), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04935.
     
 Reductive amination is one of the most synthetically direct routes to access chiral amines. Several Imine Reductases (IREDs) have been discovered to catalyze reductive amination (Reductive Aminases or RedAms), yet they are dependent on the expensive phosphorylated nicotinamide adenine dinucleotide cofactor NADPH and usually more active at basic pH. Here, we describe the discovery and synthetic potential of an IRED from Rhodococcus erythropolis (RytRedAm) that catalyzes reductive amination between a series of medium to large carbonyl and amine compounds with conversions of up to >99% and 99% enantiomeric excess at neutral pH. RytRedAm catalyzes the formation of a substituted γ-lactam and N-methyl-1-phenylethanamine with stereochemistry opposite to that of fungal RedAms, giving the (S)-enantiomer. This enzyme remarkably uses both NADPH and NADH cofactors with KM values of 15 and 247 μM and turnover numbers kcat of 3.6 and 9.0 s–1, respectively, for the reductive amination of hexanal with allylamine. The crystal structure obtained provides insights into the flexibility to also accept NADH, with residues R35 and I69 diverging from that of other IREDs/RedAms in the otherwise conserved Rossmann fold. RytRedAm thus represents a subfamily of enzymes that enable synthetic applications using NADH-dependent reductive amination to access complementary chiral amine products.    
 
@@ -341,7 +286,7 @@ No abstract
 OpenAlex: https://openalex.org/W4405443211    
 Open access: True
     
-[Ben Ashley](https://openalex.org/A5036178758), [Chiara Demingo](https://openalex.org/A10000073414), [H.J. Rozeboom](https://openalex.org/A5005328052), [Niccoló Bianciardi](https://openalex.org/A10000073415), [Tomás Dunleavy](https://openalex.org/A5095837864), [Jacob‐Jan Haaksma](https://openalex.org/A5035141073), [Yiming Guo](https://openalex.org/A5017006950), [Marco W. Fraaije](https://openalex.org/A5083203989), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04257.
+[Ben Ashley](https://openalex.org/A5036178758), [Chiara Demingo](https://openalex.org/A5115464954), [H.J. Rozeboom](https://openalex.org/A5005328052), [Niccoló Bianciardi](https://openalex.org/A5115464955), [Tomás Dunleavy](https://openalex.org/A5095837864), [Jacob‐Jan Haaksma](https://openalex.org/A5035141073), [Yiming Guo](https://openalex.org/A5017006950), [Marco W. Fraaije](https://openalex.org/A5083203989), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04257.
     
 Aryl ethers are ubiquitous protecting groups of alcohols and amines in organic chemistry. This is owed to the simplicity of their appendage to molecules and the robust protection afforded. However, aryl ethers and amines can be challenging to cleave, often requiring harsh and unselective reductive conditions. We report the structure-based engineering of a promiscuous, ether-cleaving vanillyl alcohol oxidase-type biocatalyst for activity on a wide range of para-hydroxy benzyl ethers. Two superior quadruple mutants are identified with improved kinetics and substrate scope. One evolved variant and two predecessors are crystallized, and their structures resolved to 2.8–1.5 Å, revealing a significant increase in the volume and flexibility of the active site cavity. To illustrate the potential usefulness of the engineered biocatalysts, one is later coupled with another biocatalyst in a cascade reaction to catalyze the selective cleavage of an uncommon aryl ether protecting group, para-acyloxy benzyl ethers, in good yield and under mild conditions.    
 
@@ -396,9 +341,9 @@ No abstract
 OpenAlex: https://openalex.org/W4405443360    
 Open access: False
     
-[Andrés García‐Viada](https://openalex.org/A5000963221), [Emma Duro](https://openalex.org/A10000073460), [Celia Sánchez‐González](https://openalex.org/A5098215784), [Inés Alonso](https://openalex.org/A5064338968), [Nuria Rodríguez](https://openalex.org/A5049477986), [Javier Adrio](https://openalex.org/A5014883363), [Juan C. Carretero](https://openalex.org/A5065650028), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05918.
+[Andrés García‐Viada](https://openalex.org/A5000963221), [Emma Duro](https://openalex.org/A5115465000), [Celia Sánchez‐González](https://openalex.org/A5098215784), [Inés Alonso](https://openalex.org/A5064338968), [Nuria Rodríguez](https://openalex.org/A5049477986), [Javier Adrio](https://openalex.org/A5014883363), [Juan C. Carretero](https://openalex.org/A5065650028), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05918.
     
-No abstract    
+We herein describe the high-valent cobalt-catalyzed C(sp3)–H functionalization of amide derivatives with silver acetylides generated in situ. The reaction proceeds under kinetic control at 60 °C, with a catalyst loading of 5 mol %. These extraordinarily mild conditions for Co-catalysis enable the synthesis of 5-(Z)-ethylidene pyrrolidin-2-one derivatives in good yield and selectivity. Density functional theory calculations have revealed a unique mechanism involving Co–Ag bimetallic species, rationalizing the nature of the catalytically active species and the role of each additive.    
 
     
 
@@ -463,6 +408,17 @@ OpenAlex: https://openalex.org/W4405464001
 Open access: False
     
 [Zhongyao Zhang](https://openalex.org/A5011995432), [Feiting Zhang](https://openalex.org/A5054620175), [Zhongxin Song](https://openalex.org/A5036686064), [Lei Zhang](https://openalex.org/A5100433989), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05289.
+    
+No abstract    
+
+    
+
+## Sustainable H2 Production from Lignocellulosic Biomass over MoS2 Modified Sulfur Vacancy Enriched ZnIn2S4 Photocatalyst   
+
+OpenAlex: https://openalex.org/W4405474939    
+Open access: False
+    
+[Jiping Tang](https://openalex.org/A5040707894), [Yan Chen](https://openalex.org/A5101435389), [Ziyi Wang](https://openalex.org/A5101627513), [Yun-Hui Hu](https://openalex.org/A5114225143), [Jiahao Wang](https://openalex.org/A5100329212), [Liang Bao](https://openalex.org/A5085458165), [Zong‐Yan Zhao](https://openalex.org/A5059995024), [Yong‐Jun Yuan](https://openalex.org/A5028369122), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05707.
     
 No abstract    
 

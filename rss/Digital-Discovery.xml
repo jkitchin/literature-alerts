@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Dec 2024 01:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 01:25:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>R&#305;za &#214;z&#231;elik, Francesca Grisoni</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00311j</guid>
+    </item>
+    <item>
+      <title>Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening</title>
+      <link>https://doi.org/10.1039/d4dd00347k</link>
+      <description>Felix Katzenburg, Florian Boser, Felix Sch&#228;fer, Philipp Pflueger, Frank Glorius, Digital Discovery. None(None)] 2024. https://openalex.org/W4405473080
+
+                The accelerated generation of reaction data through high-throughput experimentation and automation has the potential to boost organic synthesis. However, efforts to generate diverse reaction datasets or identify generally applicable reaction...</description>
+      <author>Felix Katzenburg, Florian Boser, Felix Sch&#228;fer, Philipp Pflueger, Frank Glorius</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00347k</guid>
     </item>
   </channel>
 </rss>
