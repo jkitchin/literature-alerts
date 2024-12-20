@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Dec 19 01:25:24 2024
+Created on Fri Dec 20 01:21:25 2024
 
-Found 9 results from 2024-12-12 to 2024-12-19
+Found 9 results from 2024-12-13 to 2024-12-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## CI-MOR Final Report: Analysis and Validation of Critical Infrastructure Models using Model Order Reduction   
-
-OpenAlex: https://openalex.org/W4405296114    
-Open access: False
-    
-[William E. Hart](https://openalex.org/A5102842741), [Emma C. Johnson](https://openalex.org/A5012200474), [Cynthia Phillips](https://openalex.org/A5108672713), [Alejandro D. Owen Aquino](https://openalex.org/A5050937355), [Bashar Ammari](https://openalex.org/A5092486945), [Bryan Arguello](https://openalex.org/A5023975957), [Simon Davis](https://openalex.org/A5008487850), [Jared Gearhart](https://openalex.org/A5061417540), [Carl D. Laird](https://openalex.org/A5030631754), [Christian Mattes](https://openalex.org/A5088474856), [Daniel K. Molzahn](https://openalex.org/A5046432907), [Ali Pınar](https://openalex.org/A5101869105), [Matthew Viens](https://openalex.org/A5115404209), No host. None(None)] 2024.https://doi.org/10.2172/2480173.
-    
-No abstract    
-
-    
 
 ## Optimal Reactive Operation of General Topology Supply Chain and
   Manufacturing Networks under Disruptions   
@@ -103,5 +92,16 @@ Open access: True
 [Kadavathu Sreekumar Apsara](https://openalex.org/A5115497882), [Jayakumar Aravindakshan](https://openalex.org/A5115497883), [Anurose Theethai Jacob](https://openalex.org/A5115497884), [Saji Mohandas](https://openalex.org/A5002232943), [Paul R. Field](https://openalex.org/A5114374113), [Hamish Gordon](https://openalex.org/A5086004922), [Thara Prabhakaran](https://openalex.org/A5008819811), [Mahen Konwar](https://openalex.org/A5086880654), [V S S V Prasad](https://openalex.org/A5111054700), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-3538.
     
 Abstract. Accurate precipitation forecasting hinges on the representation of microphysical processes within numerical models. A key approach to understanding these processes is through the analysis of hydrometeor drop size distribution (DSD). The characteristics of DSD bulk parameters:-Mass Weighted Mean Diameter (Dm) and the Normalized Number Concentration parameter (Nw), are estimated from the double moment cloud microphysical scheme (CASIM: Cloud-Aerosol Interacting Microphysics) employed in the operational convection permitted model of National Centre for Medium-Range Weather Fore- casting (NCUM-R). The observations from the Joss-Valdvogel Disdrometer (JWD) and the Global Precipitation Mission – Dual Frequency Precipitation Radar (GPM-DPR) are analyzed for providing essential validation. An algorithm for separating the monsoon precipitation into convective and stratiform types in NCUM-R and a new parameter estimation module to obtain DSD parameters from the CASIM are established in the study. The model exhibits agreement with the characteristics of the DSD of raindrops with Dm ranging from 0.5 mm to 2.5 mm marking the majority of the monsoon precipitation events. However, the underestimation when it comes to the larger drops (with Dm > 3.25 mm and Rainrate >= 8 mm/hr) demands a reassessment in microphysical parameterizations. The advanced autoconversion parameterization scheme applied in CASIM favored the growth of large drops compared to the existing scheme. The enhanced growth of larger drops is reflected in the increased accuracy in the prediction of extreme precipitation associated with a convective event. The current study underscores the importance of refining microphysical parameterizations to improve the accuracy of precipitation forecasts offering a pathway for enhanced model performance in future operational forecasting systems.    
+
+    
+
+## Ligand Binding Kinetics to Evaluate Function and Stability of A2AR in Nanodiscs   
+
+OpenAlex: https://openalex.org/W4405492760    
+Open access: False
+    
+[John M. Pettersen](https://openalex.org/A5053137050), [Olivia McCracken](https://openalex.org/A5115514301), [Anne S. Robinson](https://openalex.org/A5053252662), Biophysical Journal. None(None)] 2024.https://doi.org/10.1016/j.bpj.2024.12.018.
+    
+No abstract    
 
     

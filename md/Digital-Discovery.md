@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Dec 19 01:25:25 2024
+Created on Fri Dec 20 01:21:28 2024
 
-Found 4 results from 2024-12-12 to 2024-12-19
+Found 4 results from 2024-12-13 to 2024-12-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Predicting Mechanical Properties of Non-Equimolar High-Entropy Carbides using Machine Learning   
-
-OpenAlex: https://openalex.org/W4405265950    
-Open access: True
-    
-[Xi Zhao](https://openalex.org/A5101923266), [Shu-guang Cheng](https://openalex.org/A5028467187), [S. F. Yu](https://openalex.org/A5004103997), [Jiming Zheng](https://openalex.org/A5102804581), [Ruizhi Zhang](https://openalex.org/A5079796208), [Meng Guo](https://openalex.org/A5039743277), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00243a.
-    
-High-entropy carbides (HECs) have garnered significant attention due to their unique mechanic properties. However, the design of novel HECs has been limited by extensive trial-and-error strategies, along with insufficient knowledge...    
-
-    
 
 ## Acquisition of absorption and fluorescence spectral data using chatbots   
 
@@ -47,5 +36,16 @@ Open access: True
 [Felix Katzenburg](https://openalex.org/A5033957593), [Florian Boser](https://openalex.org/A5038880936), [Felix Schäfer](https://openalex.org/A5035577950), [Philipp Pflueger](https://openalex.org/A5115506495), [Frank Glorius](https://openalex.org/A5017167322), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00347k.
     
 The accelerated generation of reaction data through high-throughput experimentation and automation has the potential to boost organic synthesis. However, efforts to generate diverse reaction datasets or identify generally applicable reaction...    
+
+    
+
+## Schedule Optimization for Chemical Library Synthesis   
+
+OpenAlex: https://openalex.org/W4405502589    
+Open access: True
+    
+[Qianxiang Ai](https://openalex.org/A5005389429), [Fanwang Meng](https://openalex.org/A5003989655), [Runzhong Wang](https://openalex.org/A5103305827), [Joachim Klein](https://openalex.org/A5011766470), [Alexander G. Godfrey](https://openalex.org/A5036949252), [Connor W. Coley](https://openalex.org/A5076162644), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00327f.
+    
+Automated chemistry platforms hold the potential to enable large-scale organic synthesis campaigns, such as producing a library of compounds for biological evaluation. The efficiency of such platforms will depend on...    
 
     

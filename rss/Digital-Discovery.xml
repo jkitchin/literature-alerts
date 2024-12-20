@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Dec 2024 01:25:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 01:21:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Predicting Mechanical Properties of Non-Equimolar High-Entropy Carbides using Machine Learning</title>
-      <link>https://doi.org/10.1039/d4dd00243a</link>
-      <description>Xi Zhao, Shu-guang Cheng, S. F. Yu, Jiming Zheng, Ruizhi Zhang, Meng Guo, Digital Discovery. None(None)] 2024. https://openalex.org/W4405265950
-
-                High-entropy carbides (HECs) have garnered significant attention due to their unique mechanic properties. However, the design of novel HECs has been limited by extensive trial-and-error strategies, along with insufficient knowledge...</description>
-      <author>Xi Zhao, Shu-guang Cheng, S. F. Yu, Jiming Zheng, Ruizhi Zhang, Meng Guo</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00243a</guid>
-    </item>
     <item>
       <title>Acquisition of absorption and fluorescence spectral data using chatbots</title>
       <link>https://doi.org/10.1039/d4dd00255e</link>
@@ -46,6 +36,16 @@
       <author>Felix Katzenburg, Florian Boser, Felix Sch&#228;fer, Philipp Pflueger, Frank Glorius</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00347k</guid>
+    </item>
+    <item>
+      <title>Schedule Optimization for Chemical Library Synthesis</title>
+      <link>https://doi.org/10.1039/d4dd00327f</link>
+      <description>Qianxiang Ai, Fanwang Meng, Runzhong Wang, Joachim Klein, Alexander G. Godfrey, Connor W. Coley, Digital Discovery. None(None)] 2024. https://openalex.org/W4405502589
+
+                Automated chemistry platforms hold the potential to enable large-scale organic synthesis campaigns, such as producing a library of compounds for biological evaluation. The efficiency of such platforms will depend on...</description>
+      <author>Qianxiang Ai, Fanwang Meng, Runzhong Wang, Joachim Klein, Alexander G. Godfrey, Connor W. Coley</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00327f</guid>
     </item>
   </channel>
 </rss>

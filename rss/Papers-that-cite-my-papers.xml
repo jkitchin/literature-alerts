@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Dec 2024 01:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 01:21:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Recent Advances in Machine Learning&#8208;Assisted Multiscale Design of Energy Materials</title>
-      <link>https://doi.org/10.1002/aenm.202403876</link>
-      <description>Bohayra Mortazavi, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4405257673
-
-                Abstract This review highlights recent advances in machine learning (ML)&#8208;assisted design of energy materials. Initially, ML algorithms were successfully applied to screen materials databases by establishing complex relationships between atomic structures and their resulting properties, thus accelerating the identification of candidates with desirable properties. Recently, the development of highly accurate ML interatomic potentials and generative models has not only improved the robust prediction of physical properties, but also significantly accelerated the discovery of materials. In the past couple of years, ML methods have enabled high&#8208;precision first&#8208;principles predictions of electronic and optical properties for large systems, providing unprecedented opportunities in materials science. Furthermore, ML&#8208;assisted microstructure reconstruction and physics&#8208;informed solutions for partial differential equations have facilitated the understanding of microstructure&#8211;property relationships. Most recently, the seamless integration of various ML platforms has led to the emergence of autonomous laboratories that combine quantum mechanical calculations, large language models, and experimental validations, fundamentally transforming the traditional approach to novel materials synthesis. While highlighting the aforementioned recent advances, existing challenges are also discussed. Ultimately, ML is expected to fully integrate atomic&#8208;scale simulations, reverse engineering, process optimization, and device fabrication, empowering autonomous and generative energy system design. This will drive transformative innovations in energy conversion, storage, and harvesting technologies.</description>
-      <author>Bohayra Mortazavi</author>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202403876</guid>
-    </item>
-    <item>
-      <title>Coaxial Metal&#8208;Nitrogen&#8211;Carbon Single&#8208;Atom Catalysts Boost Acid Hydrogen Peroxide Production</title>
-      <link>https://doi.org/10.1002/adfm.202419220</link>
-      <description>Hongshang Hu, Chang Zhang, Shiyuan Liu, Hangyu Qi, Haoyu Wang, Xinyu Wang, Lilong Zhang, Lei Liu, Lipiao Bao, Muneerah Alomar, Jian Zhang, Xing L&#252;, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4405258100
-
-                Abstract Electrosynthesis of hydrogen peroxide (H 2 O 2 ) by two&#8208;electron oxygen reduction reaction (2e &#8722; ORR) under acidic conditions is promising. However, constructing a highly efficient acid&#8208;resistant 2e &#8722; ORR electrocatalyst is critical but challenging. Herein, a coaxial cobalt single&#8208;atom catalyst on carbon nanotubes (Co SA &#8208;N&#8208;C/CNTs) is designed and synthesized by an ingenious separation chemical vapor deposition (SCVD) strategy, which achieves higher ORR activity, dominated 2e &#8722; selectivity, and superior stability in acid, compared to the counterpart nanoparticle catalyst prepared by traditional mixture pyrolysis. The as&#8208;assembled electrode using Co SA &#8208;N&#8208;C/CNTs catalyst demonstrates a high H 2 O 2 yield in excess of 2000 mmol g cat &#8722;1 h &#8722;1 with a Faraday efficiency of &gt;90% over 100 h without decay in a flow cell, as superior to the most reported acidic H 2 O 2 production catalysts. Experimental characterization and theoretical calculations reveal that such excellent 2e &#8722; ORR performance of Co SA &#8208;N&#8208;C/CNTs originate from the combined advantages of strongly coupled coaxial core&#8211;shell structure and highly dispersed single&#8208;atom property. Most importantly, a series of other coaxial transition metal single&#8208;atom catalysts (M SA &#8208;N&#8208;C/CNTs, M = Fe, Cu, or Ni) are prepared through this SCVD strategy, and they all show enhanced ORR performance, demonstrating universality.</description>
-      <author>Hongshang Hu, Chang Zhang, Shiyuan Liu, Hangyu Qi, Haoyu Wang, Xinyu Wang, Lilong Zhang, Lei Liu, Lipiao Bao, Muneerah Alomar, Jian Zhang, Xing L&#252;</author>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202419220</guid>
-    </item>
-    <item>
-      <title>A comprehensive Review based on the synthesis, properties, morphology, functionalization, and potential applications of transition metals nitrides</title>
-      <link>https://doi.org/10.1016/j.ccr.2024.216353</link>
-      <description>Hamid Ali, Yasin Orooji, Zeeshan Ajmal, Mohamed Abboud, Ahmed M. Abu&#8208;Dief, Khulood A. Abu Al&#8208;Ola, Hassan M.A. Hassan, Dewu Yue, Shengrong Guo, Asif Hayat, Coordination Chemistry Reviews. 526(None)] 2024. https://openalex.org/W4405266578
-
-                No abstract</description>
-      <author>Hamid Ali, Yasin Orooji, Zeeshan Ajmal, Mohamed Abboud, Ahmed M. Abu&#8208;Dief, Khulood A. Abu Al&#8208;Ola, Hassan M.A. Hassan, Dewu Yue, Shengrong Guo, Asif Hayat</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.216353</guid>
-    </item>
-    <item>
-      <title>Alkene Epoxidation and Oxygen Evolution Reactions Compete for Reactive Surface Oxygen Atoms on Gold Anodes</title>
-      <link>https://doi.org/10.1021/jacs.4c08948</link>
-      <description>Richa Ghosh, Geoffrey M. Hopping, Jiong Lu, Drew W. Hollyfield, David W. Flaherty, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405274268
-
-                Rates and selectivities for the partial oxidation of organic molecules on reactive electrodes depend on the identity and prevalence of reactive and spectator species. Here, we investigate the mechanism for the epoxidation of 1-hexene (C</description>
-      <author>Richa Ghosh, Geoffrey M. Hopping, Jiong Lu, Drew W. Hollyfield, David W. Flaherty</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c08948</guid>
-    </item>
-    <item>
-      <title>In Situ Polymerization Electrospinning of Amine&#8211;Epoxy/Poly(vinyl alcohol) Nanofiber Webs for Direct CO&lt;sub&gt;2&lt;/sub&gt; Capture from the Air</title>
-      <link>https://doi.org/10.1021/acsomega.4c07631</link>
-      <description>Chisato Okada, Zongzi Hou, Hiroaki Imoto, Kensuke Naka, Takeshi Kikutani, Midori Takasaki, ACS Omega. None(None)] 2024. https://openalex.org/W4405277088
-
-                No abstract</description>
-      <author>Chisato Okada, Zongzi Hou, Hiroaki Imoto, Kensuke Naka, Takeshi Kikutani, Midori Takasaki</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c07631</guid>
-    </item>
-    <item>
-      <title>Beyond conventional structures: emerging complex metal oxides for efficient oxygen and hydrogen electrocatalysis</title>
-      <link>https://doi.org/10.1039/d3cs01020a</link>
-      <description>Yinlong Zhu, Zheng Tang, Ling Yuan, Bowen Li, Zongping Shao, Wanlin Guo, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4405281726
-
-                The core of clean energy technologies such as fuel cells, water electrolyzers, and metal-air batteries depends on a series of oxygen and hydrogen-based electrocatalysis reactions, including the oxygen reduction reaction (ORR), oxygen evolution reaction (OER) and hydrogen evolution reaction (HER), which necessitate cost-effective electrocatalysts to improve their energy efficiency. In the recent decade, complex metal oxides (beyond simple transition metal oxides, spinel oxides and ABO</description>
-      <author>Yinlong Zhu, Zheng Tang, Ling Yuan, Bowen Li, Zongping Shao, Wanlin Guo</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3cs01020a</guid>
-    </item>
-    <item>
-      <title>Interpretable machine learning for chiral induced symmetry breaking of spin density boosting hydrogen evolution</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.11.066</link>
-      <description>Xin Song, Zhonghua Li, Sheng Li, Yang Liu, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4405283541
-
-                No abstract</description>
-      <author>Xin Song, Zhonghua Li, Sheng Li, Yang Liu</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.11.066</guid>
-    </item>
-    <item>
-      <title>Bridging the scales within transport-coupled kinetic models for heterogeneous electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.coelec.2024.101631</link>
-      <description>Hemanth Somarajan Pillai, Hendrik H. Heenen, Karsten Reuter, Vanessa J. Bukas, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4405286845
-
-                No abstract</description>
-      <author>Hemanth Somarajan Pillai, Hendrik H. Heenen, Karsten Reuter, Vanessa J. Bukas</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101631</guid>
-    </item>
-    <item>
-      <title>Bismuth mediated tuning of electronic structure and enhanced adhesion in molybdenum based bifunctional catalysts for efficient water splitting</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.131037</link>
-      <description>Junzi Huang, Weitao Han, Li Liang, Bingbing Gong, Lin He, Wei Peng, Yahong Xie, Yi Zhang, Zhiyu Wang, Ying Qi, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405286921
-
-                No abstract</description>
-      <author>Junzi Huang, Weitao Han, Li Liang, Bingbing Gong, Lin He, Wei Peng, Yahong Xie, Yi Zhang, Zhiyu Wang, Ying Qi</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131037</guid>
-    </item>
-    <item>
-      <title>Theoretical Design of Dual-Site Metallo-Covalent Organic Frameworks for Efficient CO2 Photoreduction into C2H4</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124933</link>
-      <description>K.M Chen, Wei Wang, Yuqi Dong, Zhihao Zhao, Ying Zang, Guiling Zhang, Yang Liu, Fengming Zhang, Applied Catalysis B Environment and Energy. None(None)] 2024. https://openalex.org/W4405287328
-
-                No abstract</description>
-      <author>K.M Chen, Wei Wang, Yuqi Dong, Zhihao Zhao, Ying Zang, Guiling Zhang, Yang Liu, Fengming Zhang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124933</guid>
-    </item>
     <item>
       <title>Controlled deposition of trimetallic Fe&#8211;Ni&#8211;V oxides on nickel foam as high-performance electrocatalysts for oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.12.044</link>
@@ -210,10 +110,10 @@
     <item>
       <title>CatTestHub: A benchmarking database of experimental heterogeneous catalysis for evaluating advanced materials</title>
       <link>https://doi.org/10.1016/j.jcat.2024.115902</link>
-      <description>Atharva S. Burte, Advaith Nair, Lars C. Grabow, Paul J. Dauenhauer, Susannah L. Scott, Omar Abdelrahman, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4405365777
+      <description>Atharva Burte, Advaith Nair, Lars C. Grabow, Paul J. Dauenhauer, Susannah L. Scott, Omar Abdelrahman, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4405365777
 
                 No abstract</description>
-      <author>Atharva S. Burte, Advaith Nair, Lars C. Grabow, Paul J. Dauenhauer, Susannah L. Scott, Omar Abdelrahman</author>
+      <author>Atharva Burte, Advaith Nair, Lars C. Grabow, Paul J. Dauenhauer, Susannah L. Scott, Omar Abdelrahman</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115902</guid>
     </item>
@@ -472,7 +372,7 @@
       <link>https://doi.org/10.1021/acsami.4c13187</link>
       <description>Wenyu Sun, Nitish Govindarajan, Aditya Prajapati, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405465554
 
-                No abstract</description>
+                Surface oxidation/reduction processes, driven by varying electrochemical potentials, can substantially impact catalyst effectiveness and, consequently, electrolyzer performance. This study combines theoretical and experimental approaches to explore the surface redox behavior of nickel oxides, which are cost-effective and efficient catalysts for many electrochemical reactions. Surface Pourbaix diagrams for three different phases of nickel oxides, i.e., nickel hydroxide (Ni(OH)2), nickel oxyhydroxide (NiOOH), and nickel dioxide (NiO2), were constructed using density functional theory-based simulations. Various experimental methods, including cyclic voltammetry, in situ Raman spectroscopy, and electrochemical titration, were employed to probe the surface redox processes of nickel oxide thin films. Our findings indicate that the ABAB stacking sequence of Ni(OH)2 lacks stability under oxidizing conditions to host the surface oxidation (deprotonation) events, while the AABBCC stacking sequence of NiOOH is energetically favorable due to the presence of interlayer hydrogen bonding. Rapid charge transfer facilitated by interlayer hydrogen bonding accounts for the higher reactivity of partially oxidized/reduced NiOOH (001) surfaces compared to Ni(OH)2 (001) and NiO2 (001) surfaces with the same stoichiometry, where interlayer hydrogen bonding is absent. Insights presented in this work can offer guidelines for optimizing operational conditions and tailoring the surface structures and oxidation states of nickel oxides to enhance performance in applications such as electrocatalysis and supercapacitors.</description>
       <author>Wenyu Sun, Nitish Govindarajan, Aditya Prajapati, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn</author>
       <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c13187</guid>
@@ -528,14 +428,104 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acssusresmgt.4c00373</guid>
     </item>
     <item>
-      <title>Lewis Acid-Mediated Interfacial Water Supply for Sustainable Proton Exchange Membrane Water Electrolysis</title>
-      <link>https://doi.org/10.1021/jacs.4c14529</link>
-      <description>Liming Deng, Hongjun Chen, Sung&#8208;Fu Hung, Ying Zhang, Hanzhi Yu, Han&#8208;Yi Chen, Linlin Li, Shengjie Peng, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405275902
+      <title>Investigation of microstructure and electrochemical corrosion tendency of the Al/CeO2 interface in the 7075-CeO2 aluminum matrix composites: experiments and calculations</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.178154</link>
+      <description>Ying Ling, Xiuliang Zou, Wenjie Hu, Qiang Hu, Hong Yan, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4405492515
 
-                The catalyst-electrolyte interface plays a crucial role in proton exchange membrane water electrolysis (PEMWE). However, optimizing the interfacial hydrogen bonding to enhance both catalytic activity and stability remains a significant challenge. Here, a novel catalyst design strategy is proposed based on the hard-soft acid-base principle, employing hard Lewis acids (LAs = ZrO</description>
-      <author>Liming Deng, Hongjun Chen, Sung&#8208;Fu Hung, Ying Zhang, Hanzhi Yu, Han&#8208;Yi Chen, Linlin Li, Shengjie Peng</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c14529</guid>
+                No abstract</description>
+      <author>Ying Ling, Xiuliang Zou, Wenjie Hu, Qiang Hu, Hong Yan</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.178154</guid>
+    </item>
+    <item>
+      <title>Theoretical investigation of single atom electrocatalysts of polyoxotantalate-supported transition-metals for efficient water-splitting and oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.115044</link>
+      <description>Faheem Abbas, Shamraiz Hussain Talib, Zonish Zeb, Zheyu Wei, Sumaira Nazar Hussain, Yichao Huang, Sharmarke Mohamed, Ahsanulhaq Qurashi, Yongge Wei, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4405494463
+
+                No abstract</description>
+      <author>Faheem Abbas, Shamraiz Hussain Talib, Zonish Zeb, Zheyu Wei, Sumaira Nazar Hussain, Yichao Huang, Sharmarke Mohamed, Ahsanulhaq Qurashi, Yongge Wei</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.115044</guid>
+    </item>
+    <item>
+      <title>Description of ions properties using molecular orbital energy levels: Trends in interaction with model electrodes and solvents</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.145541</link>
+      <description>Sergey V. Doronin, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405495156
+
+                No abstract</description>
+      <author>Sergey V. Doronin</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145541</guid>
+    </item>
+    <item>
+      <title>Interfacial hydrogen bonds induced by porous Fe Cr bimetallic atomic sites for efficient oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.12.119</link>
+      <description>Li Wang, Qing Zhang, Lin Yang, Chuangang Hu, Zhengyu Bai, Zhongwei Chen, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4405495386
+
+                No abstract</description>
+      <author>Li Wang, Qing Zhang, Lin Yang, Chuangang Hu, Zhengyu Bai, Zhongwei Chen</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.12.119</guid>
+    </item>
+    <item>
+      <title>&lt;i&gt;In situ&lt;/i&gt; characterization techniques: main tools for revealing OER/ORR catalytic mechanism and reaction dynamics</title>
+      <link>https://doi.org/10.1039/d4qi02179g</link>
+      <description>Siqi Wu, Zexin Liang, Tianshi Wang, Xiaobin Liu, Shaobo Huang, Inorganic Chemistry Frontiers. None(None)] 2024. https://openalex.org/W4405498245
+
+                The oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) are some of the most important reactions in electrochemical energy technologies such as fuel cells and metal&#8211;air cells.</description>
+      <author>Siqi Wu, Zexin Liang, Tianshi Wang, Xiaobin Liu, Shaobo Huang</author>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qi02179g</guid>
+    </item>
+    <item>
+      <title>Data-Efficient Multifidelity Training for High-Fidelity Machine Learning Interatomic Potentials</title>
+      <link>https://doi.org/10.1021/jacs.4c14455</link>
+      <description>Jaesun Kim, Jisu Kim, Jaehoon Kim, Jiho Lee, Yutack Park, Youngho Kang, Seungwu Han, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405499204
+
+                Machine learning interatomic potentials (MLIPs) are used to estimate potential energy surfaces (PES) from</description>
+      <author>Jaesun Kim, Jisu Kim, Jaehoon Kim, Jiho Lee, Yutack Park, Youngho Kang, Seungwu Han</author>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c14455</guid>
+    </item>
+    <item>
+      <title>Enhanced Acidic Oxygen Evolution Reaction Performance by Anchoring Iridium Oxide Nanoparticles on Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acsami.4c18974</link>
+      <description>Gege Tao, Zhi-Qiang Wang, Xiaohui Liu, Yanqin Wang, Yong Guo, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405508149
+
+                The sluggish kinetics of the anodic process, known as the oxygen evolution reaction (OER), has posed a significant challenge for the practical application of proton exchange membrane water electrolyzers in industrial settings. This study introduces a high-performance OER catalyst by anchoring iridium oxide nanoparticles (IrO</description>
+      <author>Gege Tao, Zhi-Qiang Wang, Xiaohui Liu, Yanqin Wang, Yong Guo</author>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c18974</guid>
+    </item>
+    <item>
+      <title>Surface reconstruction of copper(&#8544;) sulfide electrode regulated electroreduction CO2 selectivity</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.162139</link>
+      <description>Qin Ding, Jianhua Lin, Xiaoyu Li, Dongli Yu, Yiwang Bao, Huazhong Liang, Quan Zhuang, Jinghai Liu, Yin Wang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4405516245
+
+                No abstract</description>
+      <author>Qin Ding, Jianhua Lin, Xiaoyu Li, Dongli Yu, Yiwang Bao, Huazhong Liang, Quan Zhuang, Jinghai Liu, Yin Wang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.162139</guid>
+    </item>
+    <item>
+      <title>Platinum-based catalysts for oxygen reduction reaction simulated with a quantum computer</title>
+      <link>https://doi.org/10.1038/s41524-024-01460-x</link>
+      <description>Cono Di Paola, Evgeny Plekhanov, Micha&#322; Krompiec, Chandan Kumar, Emanuele Marsili, Fengmin Du, Daniel Weber, J. Krauser, Elvira Shishenina, David Mu&#241;oz Ramo, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4405528122
+
+                Hydrogen has emerged as a promising energy source for low-carbon and sustainable mobility purposes. However, its applications are still limited by modest conversion efficiency in the electrocatalytic oxygen reduction reaction (ORR) within fuel cells. The complex nature of the ORR and the presence of strong electronic correlations present challenges to atomistic modelling using classical computers. This scenario opens new avenues for the implementation of novel quantum computing workflows. Here, we present a state-of-the-art study that combines classical and quantum computational approaches to investigate ORR on platinum-based surfaces. Our research demonstrates, for the first time, the feasibility of implementing this workflow on the H1-series trapped-ion quantum computer and identify the challenges of the quantum chemistry modelling of this reaction. The results highlight the great potentiality of quantum computers in solving notoriously difficult systems with strongly correlated electronic structures and suggest platinum/cobalt as ideal candidate for showcasing quantum advantage in future applications.</description>
+      <author>Cono Di Paola, Evgeny Plekhanov, Micha&#322; Krompiec, Chandan Kumar, Emanuele Marsili, Fengmin Du, Daniel Weber, J. Krauser, Elvira Shishenina, David Mu&#241;oz Ramo</author>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01460-x</guid>
+    </item>
+    <item>
+      <title>Organizational and Mechanistic Modulation of ORR/OER Activity in M&lt;sub&gt;1&lt;/sub&gt;M&lt;sub&gt;2&lt;/sub&gt;&#8211;N&#8211;C Bimetallic Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c06280</link>
+      <description>Xinge Wu, Zhaoying Yang, Decheng Li, Shuai Shao, Gaowu Qin, Xiangying Meng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405529735
+
+                No abstract</description>
+      <author>Xinge Wu, Zhaoying Yang, Decheng Li, Shuai Shao, Gaowu Qin, Xiangying Meng</author>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06280</guid>
     </item>
     <item>
       <title>Efficient parameterization of adsorbate-adsorbate interactions on metal surfaces</title>
@@ -546,16 +536,6 @@
       <author>Willem Vanmoerkerke, Rasmus Svensson, Henrik Gr&#246;nbeck</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122678</guid>
-    </item>
-    <item>
-      <title>Polyoxometalates based transition metal sulfide composites for hydrodesulfurization and hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.048</link>
-      <description>Ghulam Murtaza, Tayyaba Najam, Naseem Ahmad Khan, Muhammad Sher, Muhammad Kashif Aslam, Ibrahim A. Shaaban, Muhammad Altaf Nazir, Manzar Sohail, Syed Shoaib Ahmad Shah, International Journal of Hydrogen Energy. 98(None)] 2024. https://openalex.org/W4405285487
-
-                No abstract</description>
-      <author>Ghulam Murtaza, Tayyaba Najam, Naseem Ahmad Khan, Muhammad Sher, Muhammad Kashif Aslam, Ibrahim A. Shaaban, Muhammad Altaf Nazir, Manzar Sohail, Syed Shoaib Ahmad Shah</author>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.048</guid>
     </item>
     <item>
       <title>Advances in Palladium-Based Membrane Research: High-Throughput Techniques and Machine Learning Perspectives</title>
@@ -582,7 +562,7 @@
       <link>https://doi.org/10.1002/9783527845491.ch4</link>
       <description>Xin Zhou, No host. None(None)] 2024. https://openalex.org/W4405352480
 
-                No abstract</description>
+                Selective oxidation of biomass at low temperatures without the use of alkali shows great potential as a sustainable approach to producing glycolic acid (GA), a biodegradable material that contributes to environmental preservation. However, traditional research and development methods for achieving high selectivity and yield in GA production are time-consuming and require significant labor. To address this, we propose a hybrid deep learning framework that combines data and reaction mechanisms to predict GA production, overcoming the lack of related reaction mechanisms in machine learning (ML) algorithms. It incorporates kinetic reaction mechanisms, catalyst properties, and reaction conditions. Our results demonstrate that the fully connected residual network outperforms other models (average R 2 = 0.98) in accurately predicting conversion rates and product yields. Subsequently, we conduct multi-objective optimization and experimental verification guided by the modeling results. The experimental verification closely aligns with the modeling results, with conversion rates and GA yields exhibiting errors of less than 4%. Furthermore, a life cycle assessment reveals that optimized operating parameters lead to a 2.96% reduction in fossil energy demand (FED) and a 3.00% decrease in greenhouse gas (GHG) emissions. This chapter provides new insights and strategies to accelerate engineered selective oxidation for desired GA production.</description>
       <author>Xin Zhou</author>
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9783527845491.ch4</guid>
@@ -606,6 +586,16 @@
       <author>Kushan Sandunil, Ziad Bennour, Saaveethya Sivakumar, Hisham Ben Mahmud, Ausama Giwelli</author>
       <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s12145-024-01583-1</guid>
+    </item>
+    <item>
+      <title>Development of the DES-contained reduced graphene oxide system with efficient CO2 adsorption and photothermal desorption for pre-gas purification in AEMFCs</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.131193</link>
+      <description>Yifan Li, Xianglin Kong, Dahai Zhu, Tianwen Guo, Xinfeng Wu, Wei Yu, Jinpeng Wang, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405529564
+
+                No abstract</description>
+      <author>Yifan Li, Xianglin Kong, Dahai Zhu, Tianwen Guo, Xinfeng Wu, Wei Yu, Jinpeng Wang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131193</guid>
     </item>
     <item>
       <title>Insights into structural and magnetic properties of Lanthanum Manganite ceramic co-doped with calcium and cobalt</title>

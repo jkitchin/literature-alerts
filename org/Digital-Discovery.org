@@ -1,31 +1,10 @@
 #+TITLE: Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Dec 19 01:25:25 2024
+Created on Fri Dec 20 01:21:28 2024
 
-Found 4 results from 2024-12-12 to 2024-12-19
+Found 4 results from 2024-12-13 to 2024-12-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120]]
-
-* Predicting Mechanical Properties of Non-Equimolar High-Entropy Carbides using Machine Learning  :Digital_Discovery:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405265950
-:TOPICS: High Entropy Alloys Studies, Advanced materials and composites, Advanced Materials Characterization Techniques
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00243a")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405265950"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405265950"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405265950"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405265950 (Open access: True)
-    
-[[https://openalex.org/A5101923266][Xi Zhao]], [[https://openalex.org/A5028467187][Shu-guang Cheng]], [[https://openalex.org/A5004103997][S. F. Yu]], [[https://openalex.org/A5102804581][Jiming Zheng]], [[https://openalex.org/A5079796208][Ruizhi Zhang]], [[https://openalex.org/A5039743277][Meng Guo]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00243a 
-     
-High-entropy carbides (HECs) have garnered significant attention due to their unique mechanic properties. However, the design of novel HECs has been limited by extensive trial-and-error strategies, along with insufficient knowledge...    
-
-    
 
 * Acquisition of absorption and fluorescence spectral data using chatbots  :Digital_Discovery:
 :PROPERTIES:
@@ -87,5 +66,26 @@ OpenAlex: https://openalex.org/W4405473080 (Open access: True)
 [[https://openalex.org/A5033957593][Felix Katzenburg]], [[https://openalex.org/A5038880936][Florian Boser]], [[https://openalex.org/A5035577950][Felix Schäfer]], [[https://openalex.org/A5115506495][Philipp Pflueger]], [[https://openalex.org/A5017167322][Frank Glorius]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00347k 
      
 The accelerated generation of reaction data through high-throughput experimentation and automation has the potential to boost organic synthesis. However, efforts to generate diverse reaction datasets or identify generally applicable reaction...    
+
+    
+
+* Schedule Optimization for Chemical Library Synthesis  :Digital_Discovery:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405502589
+:TOPICS: Catalysis and Oxidation Reactions, Cloud Computing and Resource Management, Manufacturing Process and Optimization
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4dd00327f")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405502589"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405502589"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405502589"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405502589 (Open access: True)
+    
+[[https://openalex.org/A5005389429][Qianxiang Ai]], [[https://openalex.org/A5003989655][Fanwang Meng]], [[https://openalex.org/A5103305827][Runzhong Wang]], [[https://openalex.org/A5011766470][Joachim Klein]], [[https://openalex.org/A5036949252][Alexander G. Godfrey]], [[https://openalex.org/A5076162644][Connor W. Coley]], Digital Discovery. None(None)] 2024. https://doi.org/10.1039/d4dd00327f 
+     
+Automated chemistry platforms hold the potential to enable large-scale organic synthesis campaigns, such as producing a library of compounds for biological evaluation. The efficiency of such platforms will depend on...    
 
     
