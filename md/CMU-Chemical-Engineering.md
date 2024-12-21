@@ -1,33 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Dec 20 01:21:25 2024
+Created on Sat Dec 21 01:19:51 2024
 
-Found 9 results from 2024-12-13 to 2024-12-20
+Found 7 results from 2024-12-14 to 2024-12-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Optimal Reactive Operation of General Topology Supply Chain and
-  Manufacturing Networks under Disruptions   
-
-OpenAlex: https://openalex.org/W4405301008    
-Open access: True
-    
-[Daniel Ovalle](https://openalex.org/A5067396423), [Joshua L. Pulsipher](https://openalex.org/A5036452308), [Yixin Ye](https://openalex.org/A5074409626), [Kyle C. Harshbarger](https://openalex.org/A5092563435), [Scott J. Bury](https://openalex.org/A5054868519), [Carl D. Laird](https://openalex.org/A5030631754), [Ignacio E. Grossmann](https://openalex.org/A5056017028), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2412.08046 ([pdf](http://arxiv.org/pdf/2412.08046)).
-    
-Supply and manufacturing networks in the chemical industry involve diverse processing steps across different locations, rendering their operation vulnerable to disruptions from unplanned events. Optimal responses should consider factors such as product allocation, delayed shipments, and price renegotiation , among other factors. In such context, we propose a multiperiod mixed-integer linear programming model that integrates production, scheduling, shipping, and order management to minimize the financial impact of such disruptions. The model accommodates arbitrary supply chain topologies and incorporates various disruption scenarios, offering adaptability to real-world complexities. A case study from the chemical industry demonstrates the scalability of the model under finer time discretization and explores the influence of disruption types and order management costs on optimal schedules. This approach provides a tractable, adaptable framework for developing responsive operational plans in supply chain and manufacturing networks under uncertainty.    
-
-    
-
-## Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Metal-Organic Frameworks   
-
-OpenAlex: https://openalex.org/W4405334043    
-Open access: True
-    
-[Harrison Lawson](https://openalex.org/A5012514972), [Huy Nguyen](https://openalex.org/A5001785029), [Keng Lee](https://openalex.org/A5104279852), [Nattarat Wongsuwan](https://openalex.org/A5050359036), [Ayesha Tupe](https://openalex.org/A5095379199), [Mariah L. Arral](https://openalex.org/A5049474410), [Anne Behre](https://openalex.org/A5085559862), [Mengrou Lu](https://openalex.org/A5110813392), [Adam W. Feinberg](https://openalex.org/A5086659893), [Kathryn A. Whitehead](https://openalex.org/A5010666650), [Siyang Zheng](https://openalex.org/A5086903169), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-mlcss-v2 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67583209085116a133ef166b/original/synthetic-strategy-for-m-rna-encapsulation-and-gene-delivery-with-metal-organic-frameworks.pdf)).
-    
-In the past two decades, metal-organic frameworks (MOFs) have evolved from uses in catalysis and gas storage to exciting applications in biomedicine, particularly in drug delivery. Initially, MOFs were primarily used to deliver small molecules, but recent innovations have shifted focus toward more complex nucleic acids like DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). Remarkably, no studies to date have demonstrated the successful encapsulation and delivery of fragile messenger RNA (mRNA) via MOFs in vitro and in vivo. This study tackles that gap by identifying optimal synthetic conditions to encapsulate and deliver mRNA using nanoscale zeolitic imidazole framework-8 (ZIF-8). Early attempts showed mRNA loading in ZIF-8 but failed to retain mRNA in biological media. To overcome this challenge, we incorporated polyethyleneimine (PEI) into the framework, forming a robust polymer complex core-MOF shell particle. This system not only stabilized mRNA complexes but delayed their release, resulting in effective protein expression in multiple cell lines and mice, performing on par with commercial lipid-based transfection reagents and surpassing PEI alone. Moreover, we present the first investigation into thermally stable mRNA storage using ZIF-8, demonstrating successful protein expression after three months of room-temperature storage in vitro and one month in vivo. Our findings broaden the scope of MOF-based therapeutic delivery and open new avenues for long-term mRNA storage and transport.    
-
-    
 
 ## Measurement of surface segregation via He+ ion scattering in Cu Ag Au1-- composition spread thin films   
 

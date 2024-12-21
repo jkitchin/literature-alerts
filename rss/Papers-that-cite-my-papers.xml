@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Dec 2024 01:21:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 01:20:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Controlled deposition of trimetallic Fe&#8211;Ni&#8211;V oxides on nickel foam as high-performance electrocatalysts for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.044</link>
-      <description>Muhammad Ali Ehsan, Rashida Batool, Abbas Saeed Hakeem, Sameer Ali, Muhammad Faizan Nazar, Zaka Ullah, International Journal of Hydrogen Energy. 98(None)] 2024. https://openalex.org/W4405318518
-
-                No abstract</description>
-      <author>Muhammad Ali Ehsan, Rashida Batool, Abbas Saeed Hakeem, Sameer Ali, Muhammad Faizan Nazar, Zaka Ullah</author>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.044</guid>
-    </item>
-    <item>
-      <title>Efficient Composite Infrared Spectroscopy: Combining the Double-Harmonic Approximation with Machine Learning Potentials</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c01157</link>
-      <description>Philipp Pracht, Yuthika Pillai, Venkat Kapil, G&#225;bor C&#347;anyi, Nils G&#246;nnheimer, Martin Vondr&#225;k, Johannes T. Margraf, David J. Wales, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4405319422
-
-                Vibrational spectroscopy is a cornerstone technique for molecular characterization and offers an ideal target for the computational investigation of molecular materials. Building on previous comprehensive assessments of efficient methods for infrared (IR) spectroscopy, this study investigates the predictive accuracy and computational efficiency of gas-phase IR spectra calculations, accessible through a combination of modern semiempirical quantum mechanical and transferable machine learning potentials. A composite approach for IR spectra prediction based on the double-harmonic approximation, utilizing harmonic vibrational frequencies in combination squared derivatives of the molecular dipole moment, is employed. This approach allows for methodical flexibility in the calculation of IR intensities from molecular dipoles and the corresponding vibrational modes. Various methods are systematically tested to suggest a suitable protocol with an emphasis on computational efficiency. Among these methods, semiempirical extended tight-binding (xTB) models, classical charge equilibrium models, and machine learning potentials trained for dipole moment prediction are assessed across a diverse data set of organic molecules. We particularly focus on the recently reported foundational machine learning potential MACE-OFF23 to address the accuracy limitations of conventional low-cost quantum mechanical and force-field methods. This study aims to establish a standard for the efficient computational prediction of IR spectra, facilitating the rapid and reliable identification of unknown compounds and advancing automated high-throughput analytical workflows in chemistry.</description>
-      <author>Philipp Pracht, Yuthika Pillai, Venkat Kapil, G&#225;bor C&#347;anyi, Nils G&#246;nnheimer, Martin Vondr&#225;k, Johannes T. Margraf, David J. Wales</author>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01157</guid>
-    </item>
-    <item>
-      <title>EDF CO2 Lab: A New Facility to Advance CO2 Capture from Flue Gases and Ambient Air</title>
-      <link>https://doi.org/10.2139/ssrn.5019579</link>
-      <description>Nicolas Jourdan, Antony Vanheghe, Serena Delgado, Christophe Castel, &#201;ric Favre, SSRN Electronic Journal. None(None)] 2024. https://openalex.org/W4405323199
-
-                No abstract</description>
-      <author>Nicolas Jourdan, Antony Vanheghe, Serena Delgado, Christophe Castel, &#201;ric Favre</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.5019579</guid>
-    </item>
-    <item>
-      <title>Transition metal atom supported on N-terminated diamond (100) surface as an efficient electrocatalyst for oxygen evolution and reduction reactions</title>
-      <link>https://doi.org/10.1063/5.0242133</link>
-      <description>Gaoxian Li, Yuanhang Wang, Nan Gao, Hongdong Li, Applied Physics Letters. 125(24)] 2024. https://openalex.org/W4405323235
-
-                To alleviate the increasingly serious energy issues, it is essential to develop highly efficient and stable electrocatalysts for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR). In this study, we employed density functional theory to investigate a broad spectrum of transition metal (TM = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Zr, Mo, Ru, Rh, Ag, W, Ir, and Pt) atoms supported on N-terminated diamond (100) surface (TM@ND) as single-atom catalysts for their OER and ORR performances. TM atoms (Sc, Ti, V, Cr, Mn, Y, Zr, and Ir) show large binding energy with substrate and thermal stability, which is advantageous for electrocatalytic reactions. Especially, Ir@ND demonstrates high efficacy as an OER electrocatalyst, and Mn@ND is identified as an efficient ORR electrocatalyst, exhibiting the theoretical overpotentials smaller than 1 V. Consequently, it suggests that diamond-based catalysts could serve as promising candidates for energy conversion and storage applications.</description>
-      <author>Gaoxian Li, Yuanhang Wang, Nan Gao, Hongdong Li</author>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0242133</guid>
-    </item>
-    <item>
-      <title>Cathode-mediated electrochemical conversion of phenol to benzoquinone in wastewater: High yield rate and low energy consumption</title>
-      <link>https://doi.org/10.1016/j.watres.2024.122967</link>
-      <description>Zonglin Li, Zhiyuan Feng, Min Chen, Yankai Song, Yongkang Dai, Shun Mao, Hongying Zhao, Water Research. None(None)] 2024. https://openalex.org/W4405338488
-
-                No abstract</description>
-      <author>Zonglin Li, Zhiyuan Feng, Min Chen, Yankai Song, Yongkang Dai, Shun Mao, Hongying Zhao</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.watres.2024.122967</guid>
-    </item>
     <item>
       <title>Metal&#8208;Based Materials for Electrocatalytic Oxygen Reduction Reaction</title>
       <link>https://doi.org/10.1002/9783527846368.ch8</link>
@@ -382,7 +332,7 @@
       <link>https://doi.org/10.1021/acs.jpcc.4c07363</link>
       <description>A. S. RAO, Vance Gustin, Jonathan Hightower, Seval G&#252;nd&#252;z, Dishari Basu, Yehia Khalifa, Anant Sohale, Anne C. Co, Aravind Asthagiri, Umit S. Ozkan, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4405474872
 
-                No abstract</description>
+                CNx catalysts show promising activity and stability for the oxygen reduction reaction (ORR) under acidic conditions, but the nature of the active site is still under debate. ORR on CNx has been found to be resistant to common poisons such as CO, H2S, and CN. In this study, we demonstrate that bubbling CO2 in the electrolyte can lead to the partial poisoning of CNx for ORR activity. Cyclic voltammetry (CV) experiments show a partial decrease in the ORR activity for CNx catalysts after bubbling CO2 through a 0.1 M HClO4 electrolyte. The relative stability of CO2-derived species (CO2*, H2CO3*, HCO3*, and CO3*) on 13 CNx site models at 1.0 V-RHE was examined using density functional theory (DFT). The calculations predict that HCO3 is favored adjacent to the N species on several CNx site models and CO3 is favored on pyrrolic sites. Difference spectra of the N 1s from near-ambient pressure X-ray photoelectron spectroscopy (NAP-XPS) of the ex-situ poisoned CNx and pristine CNx shows a shift in binding energies of N species that qualitatively match the DFT N 1s binding energy shifts due to HCO3/CO3 on the CNx site models. DFT predicts that these HCO3 surface species can block and delay the initial step of the ORR on several CNx sites.</description>
       <author>A. S. RAO, Vance Gustin, Jonathan Hightower, Seval G&#252;nd&#252;z, Dishari Basu, Yehia Khalifa, Anant Sohale, Anne C. Co, Aravind Asthagiri, Umit S. Ozkan</author>
       <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c07363</guid>
@@ -528,24 +478,54 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06280</guid>
     </item>
     <item>
-      <title>Efficient parameterization of adsorbate-adsorbate interactions on metal surfaces</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122678</link>
-      <description>Willem Vanmoerkerke, Rasmus Svensson, Henrik Gr&#246;nbeck, Surface Science. None(None)] 2024. https://openalex.org/W4405317176
+      <title>Modulation of point defect properties near surfaces in metal halide perovskites</title>
+      <link>https://doi.org/10.1103/physrevmaterials.8.125402</link>
+      <description>Bilal Ahmad, Md Salman Rabbi Limon, Zeeshan Ahmad, Physical Review Materials. 8(12)] 2024. https://openalex.org/W4405533719
 
                 No abstract</description>
-      <author>Willem Vanmoerkerke, Rasmus Svensson, Henrik Gr&#246;nbeck</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122678</guid>
+      <author>Bilal Ahmad, Md Salman Rabbi Limon, Zeeshan Ahmad</author>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.125402</guid>
     </item>
     <item>
-      <title>Advances in Palladium-Based Membrane Research: High-Throughput Techniques and Machine Learning Perspectives</title>
-      <link>https://doi.org/10.3390/pr12122855</link>
-      <description>Eric Kolor, Muhammad Usman, Sasipa Boonyubol, K&#246;ichi Mikami, Jeffrey S. Cross, Processes. 12(12)] 2024. https://openalex.org/W4405314867
+      <title>The V30 benchmark set for anharmonic vibrational frequencies of molecular dimers</title>
+      <link>https://doi.org/10.1063/5.0238491</link>
+      <description>Johannes Hoja, A. Daniel Boese, The Journal of Chemical Physics. 161(23)] 2024. https://openalex.org/W4405541010
 
-                The separation of high-purity hydrogen from mixed gasses using dense metallic alloy membranes is essential for advancing a hydrogen-based economy. Palladium-based membranes exhibit outstanding catalytic activity and theoretically infinite hydrogen selectivity, but their high cost and limited performance in contaminant-rich environments restrict their widespread use. This study addresses these limitations by exploring strategies to develop cost-effective, high-performance alternatives. Key challenges include the vast compositional design space, lack of systematic design principles, and the slow pace of traditional material development. This review emphasizes the potential of high-throughput and combinatorial techniques, such as composition-spread alloy films and the statistical design of experiments (DoE), combined with machine learning and materials informatics, to accelerate the discovery, optimization, and characterization of palladium-based membranes. These approaches reduce development time and costs while improving efficiency. Focusing on critical properties such as surface catalytic activity, resistance to chemical and physical stresses, and the incorporation of low-cost base metals, this study introduces domain-specific descriptors to address data scarcity and improve material screening. By integrating computational and experimental methods, future research can identify hidden material correlations and expedite the rational design of next-generation hydrogen separation membranes.</description>
-      <author>Eric Kolor, Muhammad Usman, Sasipa Boonyubol, K&#246;ichi Mikami, Jeffrey S. Cross</author>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/pr12122855</guid>
+                Intermolecular vibrations are extremely challenging to describe but are the most crucial part for determining entropy and hence free energies and enable, for instance, the distinction between different crystal-packing arrangements of the same molecule via THz spectroscopy. Herein, we introduce a benchmark dataset&#8212;V30&#8212;containing 30 small molecular dimers with intermolecular interactions ranging from exclusively van der Waals dispersion to systems with hydrogen bonds. All the calculations are performed with the gold standard of quantum chemistry CCSD(T). We discuss vibrational frequencies obtained via different models starting with the harmonic approximation over independent Morse oscillators up to second-order vibrational perturbation theory (VPT2), which allows a proper anharmonic treatment including coupling of vibrational modes. However, large amplitude motions present in many low-frequency intermolecular modes are problematic for VPT2. In analogy to the often used treatment for internal rotations, we replace such problematic modes by a simple one-dimensional hindered rotor model. We compare selected dimers to the available experimental data or high-level calculations of potential energy surfaces and show that VPT2 in combination with hindered rotors can yield a very good description of fundamental frequencies for the discussed subset of dimers involving small and semi-rigid molecules.</description>
+      <author>Johannes Hoja, A. Daniel Boese</author>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0238491</guid>
+    </item>
+    <item>
+      <title>NMR Investigations of Host&#8211;Guest Interactions in MOFs and COFs</title>
+      <link>https://doi.org/10.1039/9781839167287-00153</link>
+      <description>Shoushun Chen, Xin Du, Yuzhen Liu, Jun Xu, Xingguo Han, Bryan E. G. Lucier, Yining Huang, Royal Society of Chemistry eBooks. None(None)] 2024. https://openalex.org/W4405551205
+
+                Host&#8211;guest interactions in porous metal&#8211;organic frameworks (MOFs) and covalent-organic frameworks (COFs) play a key role in enhancing the performance of these materials for practical applications; however, it is often very challenging to investigate these interactions at the molecular level. In recent years, many solid-state NMR (SSNMR) approaches, including in situ variable temperature (VT), 2D correlation, and pulsed field gradient (PFG) experiments, have offered unique insights into the local structure and dynamics of adsorbed guest molecules in MOFs and COFs. Recent SSNMR studies of MOFs and COFs containing guest molecules are summarized in this chapter. These reports encompass a variety of gaseous and liquid guests such as hydrogen, carbon dioxide, water, and methanol. We also highlight studies involving larger guest molecules, drugs, and biomolecules. It is apparent that SSNMR spectroscopy can provide a wealth of data pertaining to host&#8211;guest interactions in these materials; the information available commonly includes the number and location of guest adsorption sites, guest binding strengths, guest dynamics and diffusion rates, and guest-induced structural changes in the host. The studies discussed in this chapter illustrate how SSNMR spectroscopy serves as a powerful tool to probe host&#8211;guest interactions in MOFs/COFs, especially given the variety of potential target nuclei and the numerous experimental strategies that are available.</description>
+      <author>Shoushun Chen, Xin Du, Yuzhen Liu, Jun Xu, Xingguo Han, Bryan E. G. Lucier, Yining Huang</author>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/9781839167287-00153</guid>
+    </item>
+    <item>
+      <title>Screening of dual-atom catalysts for hydrogen evolution reaction on graphdiyne</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.12.169</link>
+      <description>Lei Qin, Shitao Wang, Ju Rong, Yan Wei, Xiaohua Yu, Yudong Sui, Yongqiang Yang, International Journal of Hydrogen Energy. 99(None)] 2024. https://openalex.org/W4405555100
+
+                No abstract</description>
+      <author>Lei Qin, Shitao Wang, Ju Rong, Yan Wei, Xiaohua Yu, Yudong Sui, Yongqiang Yang</author>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.169</guid>
+    </item>
+    <item>
+      <title>Insights into the Enhanced ORR Activity of FeN4-Embedded Graphene Through Interface Interactions with Metal Substrates: Electronic vs. Geometric Descriptors</title>
+      <link>https://doi.org/10.1016/j.mtphys.2024.101633</link>
+      <description>Silu Li, Donghai Wu, Lulu Gao, Jiahang Li, Gang Tang, Zaiping Zeng, Dongwei Ma, Materials Today Physics. None(None)] 2024. https://openalex.org/W4405565286
+
+                No abstract</description>
+      <author>Silu Li, Donghai Wu, Lulu Gao, Jiahang Li, Gang Tang, Zaiping Zeng, Dongwei Ma</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101633</guid>
     </item>
     <item>
       <title>Hydrogen production from ammonia decomposition: Advances in Ru- and Ni-based catalysts</title>
@@ -556,16 +536,6 @@
       <author>Neng Zhu, Chaoho Ouyang, Yu Hong, Junjie Liang</author>
       <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.136</guid>
-    </item>
-    <item>
-      <title>Integration of Observed Data and Reaction Mechanisms in Deep Learning for Designing Sustainable Glycolic Acid</title>
-      <link>https://doi.org/10.1002/9783527845491.ch4</link>
-      <description>Xin Zhou, No host. None(None)] 2024. https://openalex.org/W4405352480
-
-                Selective oxidation of biomass at low temperatures without the use of alkali shows great potential as a sustainable approach to producing glycolic acid (GA), a biodegradable material that contributes to environmental preservation. However, traditional research and development methods for achieving high selectivity and yield in GA production are time-consuming and require significant labor. To address this, we propose a hybrid deep learning framework that combines data and reaction mechanisms to predict GA production, overcoming the lack of related reaction mechanisms in machine learning (ML) algorithms. It incorporates kinetic reaction mechanisms, catalyst properties, and reaction conditions. Our results demonstrate that the fully connected residual network outperforms other models (average R 2 = 0.98) in accurately predicting conversion rates and product yields. Subsequently, we conduct multi-objective optimization and experimental verification guided by the modeling results. The experimental verification closely aligns with the modeling results, with conversion rates and GA yields exhibiting errors of less than 4%. Furthermore, a life cycle assessment reveals that optimized operating parameters lead to a 2.96% reduction in fossil energy demand (FED) and a 3.00% decrease in greenhouse gas (GHG) emissions. This chapter provides new insights and strategies to accelerate engineered selective oxidation for desired GA production.</description>
-      <author>Xin Zhou</author>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/9783527845491.ch4</guid>
     </item>
     <item>
       <title>Measurement of surface segregation via He+ ion scattering in Cu Ag Au1-- composition spread thin films</title>

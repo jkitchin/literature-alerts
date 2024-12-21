@@ -1,8 +1,8 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Fri Dec 20 01:21:28 2024
+Created on Sat Dec 21 01:19:53 2024
 
-Found 4 results from 2024-12-13 to 2024-12-20
+Found 5 results from 2024-12-14 to 2024-12-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
 
@@ -47,5 +47,16 @@ Open access: True
 [Qianxiang Ai](https://openalex.org/A5005389429), [Fanwang Meng](https://openalex.org/A5003989655), [Runzhong Wang](https://openalex.org/A5103305827), [Joachim Klein](https://openalex.org/A5011766470), [Alexander G. Godfrey](https://openalex.org/A5036949252), [Connor W. Coley](https://openalex.org/A5076162644), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00327f.
     
 Automated chemistry platforms hold the potential to enable large-scale organic synthesis campaigns, such as producing a library of compounds for biological evaluation. The efficiency of such platforms will depend on...    
+
+    
+
+## Hybrid-LLM-GNN: Integrating Large Language Models and Graph Neural Networks for Enhanced Materials Property Prediction   
+
+OpenAlex: https://openalex.org/W4405535846    
+Open access: True
+    
+[Youjia Li](https://openalex.org/A5002118585), [Vishu Gupta](https://openalex.org/A5035699206), [Muhammed Nur Talha Kilic](https://openalex.org/A5102632095), [Kamal Choudhary](https://openalex.org/A5019215236), [Daniel Wines](https://openalex.org/A5010732302), [Wei‐keng Liao](https://openalex.org/A5047602285), [Alok Choudhary](https://openalex.org/A5074976770), [Ankit Agrawal](https://openalex.org/A5004659592), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00199k.
+    
+Graph-centric learning has attracted significant interest in materials informatics. Accordingly, a family of graph-based machine learning models, primarily utilizing Graph Neural Networks (GNN), has been developed to provide accurate prediction...    
 
     

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Dec 20 01:21:41 2024
+Created on Sat Dec 21 01:20:02 2024
 
-Found 60 results from 2024-12-13 to 2024-12-20
+Found 57 results from 2024-12-14 to 2024-12-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502)
@@ -16,61 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Controlled deposition of trimetallic Fe–Ni–V oxides on nickel foam as high-performance electrocatalysts for oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4405318518    
-Open access: False
-    
-[Muhammad Ali Ehsan](https://openalex.org/A5036861201), [Rashida Batool](https://openalex.org/A5049685663), [Abbas Saeed Hakeem](https://openalex.org/A5101679112), [Sameer Ali](https://openalex.org/A5104108938), [Muhammad Faizan Nazar](https://openalex.org/A5076360802), [Zaka Ullah](https://openalex.org/A5003309162), International Journal of Hydrogen Energy. 98(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.12.044.
-    
-No abstract    
-
-    
-
-## Efficient Composite Infrared Spectroscopy: Combining the Double-Harmonic Approximation with Machine Learning Potentials   
-
-OpenAlex: https://openalex.org/W4405319422    
-Open access: True
-    
-[Philipp Pracht](https://openalex.org/A5070405326), [Yuthika Pillai](https://openalex.org/A5114340684), [Venkat Kapil](https://openalex.org/A5009821984), [Gábor Cśanyi](https://openalex.org/A5025442671), [Nils Gönnheimer](https://openalex.org/A5114340685), [Martin Vondrák](https://openalex.org/A5080296937), [Johannes T. Margraf](https://openalex.org/A5044300693), [David J. Wales](https://openalex.org/A5022301289), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c01157.
-    
-Vibrational spectroscopy is a cornerstone technique for molecular characterization and offers an ideal target for the computational investigation of molecular materials. Building on previous comprehensive assessments of efficient methods for infrared (IR) spectroscopy, this study investigates the predictive accuracy and computational efficiency of gas-phase IR spectra calculations, accessible through a combination of modern semiempirical quantum mechanical and transferable machine learning potentials. A composite approach for IR spectra prediction based on the double-harmonic approximation, utilizing harmonic vibrational frequencies in combination squared derivatives of the molecular dipole moment, is employed. This approach allows for methodical flexibility in the calculation of IR intensities from molecular dipoles and the corresponding vibrational modes. Various methods are systematically tested to suggest a suitable protocol with an emphasis on computational efficiency. Among these methods, semiempirical extended tight-binding (xTB) models, classical charge equilibrium models, and machine learning potentials trained for dipole moment prediction are assessed across a diverse data set of organic molecules. We particularly focus on the recently reported foundational machine learning potential MACE-OFF23 to address the accuracy limitations of conventional low-cost quantum mechanical and force-field methods. This study aims to establish a standard for the efficient computational prediction of IR spectra, facilitating the rapid and reliable identification of unknown compounds and advancing automated high-throughput analytical workflows in chemistry.    
-
-    
-
-## EDF CO2 Lab: A New Facility to Advance CO2 Capture from Flue Gases and Ambient Air   
-
-OpenAlex: https://openalex.org/W4405323199    
-Open access: False
-    
-[Nicolas Jourdan](https://openalex.org/A5084913740), [Antony Vanheghe](https://openalex.org/A5115415619), [Serena Delgado](https://openalex.org/A5003202021), [Christophe Castel](https://openalex.org/A5061472778), [Éric Favre](https://openalex.org/A5007951485), SSRN Electronic Journal. None(None)] 2024.https://doi.org/10.2139/ssrn.5019579.
-    
-No abstract    
-
-    
-
-## Transition metal atom supported on N-terminated diamond (100) surface as an efficient electrocatalyst for oxygen evolution and reduction reactions   
-
-OpenAlex: https://openalex.org/W4405323235    
-Open access: False
-    
-[Gaoxian Li](https://openalex.org/A5072189554), [Yuanhang Wang](https://openalex.org/A5100682679), [Nan Gao](https://openalex.org/A5074303730), [Hongdong Li](https://openalex.org/A5101819059), Applied Physics Letters. 125(24)] 2024.https://doi.org/10.1063/5.0242133.
-    
-To alleviate the increasingly serious energy issues, it is essential to develop highly efficient and stable electrocatalysts for the oxygen evolution reaction (OER) and oxygen reduction reaction (ORR). In this study, we employed density functional theory to investigate a broad spectrum of transition metal (TM = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Zr, Mo, Ru, Rh, Ag, W, Ir, and Pt) atoms supported on N-terminated diamond (100) surface (TM@ND) as single-atom catalysts for their OER and ORR performances. TM atoms (Sc, Ti, V, Cr, Mn, Y, Zr, and Ir) show large binding energy with substrate and thermal stability, which is advantageous for electrocatalytic reactions. Especially, Ir@ND demonstrates high efficacy as an OER electrocatalyst, and Mn@ND is identified as an efficient ORR electrocatalyst, exhibiting the theoretical overpotentials smaller than 1 V. Consequently, it suggests that diamond-based catalysts could serve as promising candidates for energy conversion and storage applications.    
-
-    
-
-## Cathode-mediated electrochemical conversion of phenol to benzoquinone in wastewater: High yield rate and low energy consumption   
-
-OpenAlex: https://openalex.org/W4405338488    
-Open access: True
-    
-[Zonglin Li](https://openalex.org/A5100731663), [Zhiyuan Feng](https://openalex.org/A5007670718), [Min Chen](https://openalex.org/A5100337276), [Yankai Song](https://openalex.org/A5080686152), [Yongkang Dai](https://openalex.org/A5036545507), [Shun Mao](https://openalex.org/A5013458820), [Hongying Zhao](https://openalex.org/A5026819840), Water Research. None(None)] 2024.https://doi.org/10.1016/j.watres.2024.122967.
-    
-No abstract    
-
-    
 
 ## Metal‐Based Materials for Electrocatalytic Oxygen Reduction Reaction   
 
@@ -431,7 +376,7 @@ Open access: False
     
 [A. S. RAO](https://openalex.org/A5103431773), [Vance Gustin](https://openalex.org/A5090341095), [Jonathan Hightower](https://openalex.org/A5060192776), [Seval Gündüz](https://openalex.org/A5017126654), [Dishari Basu](https://openalex.org/A5023249132), [Yehia Khalifa](https://openalex.org/A5084015265), [Anant Sohale](https://openalex.org/A5114944599), [Anne C. Co](https://openalex.org/A5038372990), [Aravind Asthagiri](https://openalex.org/A5002230697), [Umit S. Ozkan](https://openalex.org/A5045627991), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c07363.
     
-No abstract    
+CNx catalysts show promising activity and stability for the oxygen reduction reaction (ORR) under acidic conditions, but the nature of the active site is still under debate. ORR on CNx has been found to be resistant to common poisons such as CO, H2S, and CN. In this study, we demonstrate that bubbling CO2 in the electrolyte can lead to the partial poisoning of CNx for ORR activity. Cyclic voltammetry (CV) experiments show a partial decrease in the ORR activity for CNx catalysts after bubbling CO2 through a 0.1 M HClO4 electrolyte. The relative stability of CO2-derived species (CO2*, H2CO3*, HCO3*, and CO3*) on 13 CNx site models at 1.0 V-RHE was examined using density functional theory (DFT). The calculations predict that HCO3 is favored adjacent to the N species on several CNx site models and CO3 is favored on pyrrolic sites. Difference spectra of the N 1s from near-ambient pressure X-ray photoelectron spectroscopy (NAP-XPS) of the ex-situ poisoned CNx and pristine CNx shows a shift in binding energies of N species that qualitatively match the DFT N 1s binding energy shifts due to HCO3/CO3 on the CNx site models. DFT predicts that these HCO3 surface species can block and delay the initial step of the ORR on several CNx sites.    
 
     
 
@@ -589,25 +534,58 @@ No abstract
 
     
 
-## Efficient parameterization of adsorbate-adsorbate interactions on metal surfaces   
+## Modulation of point defect properties near surfaces in metal halide perovskites   
 
-OpenAlex: https://openalex.org/W4405317176    
-Open access: True
+OpenAlex: https://openalex.org/W4405533719    
+Open access: False
     
-[Willem Vanmoerkerke](https://openalex.org/A5115413478), [Rasmus Svensson](https://openalex.org/A5022855478), [Henrik Grönbeck](https://openalex.org/A5041128128), Surface Science. None(None)] 2024.https://doi.org/10.1016/j.susc.2024.122678.
+[Bilal Ahmad](https://openalex.org/A5113521432), [Md Salman Rabbi Limon](https://openalex.org/A5104344603), [Zeeshan Ahmad](https://openalex.org/A5049320350), Physical Review Materials. 8(12)] 2024.https://doi.org/10.1103/physrevmaterials.8.125402.
     
 No abstract    
 
     
 
-## Advances in Palladium-Based Membrane Research: High-Throughput Techniques and Machine Learning Perspectives   
+## The V30 benchmark set for anharmonic vibrational frequencies of molecular dimers   
 
-OpenAlex: https://openalex.org/W4405314867    
-Open access: True
+OpenAlex: https://openalex.org/W4405541010    
+Open access: False
     
-[Eric Kolor](https://openalex.org/A5115412687), [Muhammad Usman](https://openalex.org/A5042562601), [Sasipa Boonyubol](https://openalex.org/A5021107781), [Köichi Mikami](https://openalex.org/A5101906772), [Jeffrey S. Cross](https://openalex.org/A5007343201), Processes. 12(12)] 2024.https://doi.org/10.3390/pr12122855.
+[Johannes Hoja](https://openalex.org/A5056779247), [A. Daniel Boese](https://openalex.org/A5089944603), The Journal of Chemical Physics. 161(23)] 2024.https://doi.org/10.1063/5.0238491.
     
-The separation of high-purity hydrogen from mixed gasses using dense metallic alloy membranes is essential for advancing a hydrogen-based economy. Palladium-based membranes exhibit outstanding catalytic activity and theoretically infinite hydrogen selectivity, but their high cost and limited performance in contaminant-rich environments restrict their widespread use. This study addresses these limitations by exploring strategies to develop cost-effective, high-performance alternatives. Key challenges include the vast compositional design space, lack of systematic design principles, and the slow pace of traditional material development. This review emphasizes the potential of high-throughput and combinatorial techniques, such as composition-spread alloy films and the statistical design of experiments (DoE), combined with machine learning and materials informatics, to accelerate the discovery, optimization, and characterization of palladium-based membranes. These approaches reduce development time and costs while improving efficiency. Focusing on critical properties such as surface catalytic activity, resistance to chemical and physical stresses, and the incorporation of low-cost base metals, this study introduces domain-specific descriptors to address data scarcity and improve material screening. By integrating computational and experimental methods, future research can identify hidden material correlations and expedite the rational design of next-generation hydrogen separation membranes.    
+Intermolecular vibrations are extremely challenging to describe but are the most crucial part for determining entropy and hence free energies and enable, for instance, the distinction between different crystal-packing arrangements of the same molecule via THz spectroscopy. Herein, we introduce a benchmark dataset—V30—containing 30 small molecular dimers with intermolecular interactions ranging from exclusively van der Waals dispersion to systems with hydrogen bonds. All the calculations are performed with the gold standard of quantum chemistry CCSD(T). We discuss vibrational frequencies obtained via different models starting with the harmonic approximation over independent Morse oscillators up to second-order vibrational perturbation theory (VPT2), which allows a proper anharmonic treatment including coupling of vibrational modes. However, large amplitude motions present in many low-frequency intermolecular modes are problematic for VPT2. In analogy to the often used treatment for internal rotations, we replace such problematic modes by a simple one-dimensional hindered rotor model. We compare selected dimers to the available experimental data or high-level calculations of potential energy surfaces and show that VPT2 in combination with hindered rotors can yield a very good description of fundamental frequencies for the discussed subset of dimers involving small and semi-rigid molecules.    
+
+    
+
+## NMR Investigations of Host–Guest Interactions in MOFs and COFs   
+
+OpenAlex: https://openalex.org/W4405551205    
+Open access: False
+    
+[Shoushun Chen](https://openalex.org/A5016055012), [Xin Du](https://openalex.org/A5073531773), [Yuzhen Liu](https://openalex.org/A5101943544), [Jun Xu](https://openalex.org/A5100786169), [Xingguo Han](https://openalex.org/A5083957809), [Bryan E. G. Lucier](https://openalex.org/A5067850882), [Yining Huang](https://openalex.org/A5008557264), Royal Society of Chemistry eBooks. None(None)] 2024.https://doi.org/10.1039/9781839167287-00153.
+    
+Host–guest interactions in porous metal–organic frameworks (MOFs) and covalent-organic frameworks (COFs) play a key role in enhancing the performance of these materials for practical applications; however, it is often very challenging to investigate these interactions at the molecular level. In recent years, many solid-state NMR (SSNMR) approaches, including in situ variable temperature (VT), 2D correlation, and pulsed field gradient (PFG) experiments, have offered unique insights into the local structure and dynamics of adsorbed guest molecules in MOFs and COFs. Recent SSNMR studies of MOFs and COFs containing guest molecules are summarized in this chapter. These reports encompass a variety of gaseous and liquid guests such as hydrogen, carbon dioxide, water, and methanol. We also highlight studies involving larger guest molecules, drugs, and biomolecules. It is apparent that SSNMR spectroscopy can provide a wealth of data pertaining to host–guest interactions in these materials; the information available commonly includes the number and location of guest adsorption sites, guest binding strengths, guest dynamics and diffusion rates, and guest-induced structural changes in the host. The studies discussed in this chapter illustrate how SSNMR spectroscopy serves as a powerful tool to probe host–guest interactions in MOFs/COFs, especially given the variety of potential target nuclei and the numerous experimental strategies that are available.    
+
+    
+
+## Screening of dual-atom catalysts for hydrogen evolution reaction on graphdiyne   
+
+OpenAlex: https://openalex.org/W4405555100    
+Open access: False
+    
+[Lei Qin](https://openalex.org/A5067662662), [Shitao Wang](https://openalex.org/A5035679191), [Ju Rong](https://openalex.org/A5064010494), [Yan Wei](https://openalex.org/A5107950939), [Xiaohua Yu](https://openalex.org/A5101538393), [Yudong Sui](https://openalex.org/A5101846373), [Yongqiang Yang](https://openalex.org/A5101944067), International Journal of Hydrogen Energy. 99(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.12.169.
+    
+No abstract    
+
+    
+
+## Insights into the Enhanced ORR Activity of FeN4-Embedded Graphene Through Interface Interactions with Metal Substrates: Electronic vs. Geometric Descriptors   
+
+OpenAlex: https://openalex.org/W4405565286    
+Open access: False
+    
+[Silu Li](https://openalex.org/A5079255429), [Donghai Wu](https://openalex.org/A5101574509), [Lulu Gao](https://openalex.org/A5102885961), [Jiahang Li](https://openalex.org/A5017394476), [Gang Tang](https://openalex.org/A5029891151), [Zaiping Zeng](https://openalex.org/A5022874983), [Dongwei Ma](https://openalex.org/A5067813768), Materials Today Physics. None(None)] 2024.https://doi.org/10.1016/j.mtphys.2024.101633.
+    
+No abstract    
 
     
 
@@ -619,17 +597,6 @@ Open access: False
 [Neng Zhu](https://openalex.org/A5111953829), [Chaoho Ouyang](https://openalex.org/A5078846182), [Yu Hong](https://openalex.org/A5102890160), [Junjie Liang](https://openalex.org/A5101484375), International Journal of Hydrogen Energy. 98(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.12.136.
     
 No abstract    
-
-    
-
-## Integration of Observed Data and Reaction Mechanisms in Deep Learning for Designing Sustainable Glycolic Acid   
-
-OpenAlex: https://openalex.org/W4405352480    
-Open access: True
-    
-[Xin Zhou](https://openalex.org/A5063431148), No host. None(None)] 2024.https://doi.org/10.1002/9783527845491.ch4 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9783527845491.ch4)).
-    
-Selective oxidation of biomass at low temperatures without the use of alkali shows great potential as a sustainable approach to producing glycolic acid (GA), a biodegradable material that contributes to environmental preservation. However, traditional research and development methods for achieving high selectivity and yield in GA production are time-consuming and require significant labor. To address this, we propose a hybrid deep learning framework that combines data and reaction mechanisms to predict GA production, overcoming the lack of related reaction mechanisms in machine learning (ML) algorithms. It incorporates kinetic reaction mechanisms, catalyst properties, and reaction conditions. Our results demonstrate that the fully connected residual network outperforms other models (average R 2 = 0.98) in accurately predicting conversion rates and product yields. Subsequently, we conduct multi-objective optimization and experimental verification guided by the modeling results. The experimental verification closely aligns with the modeling results, with conversion rates and GA yields exhibiting errors of less than 4%. Furthermore, a life cycle assessment reveals that optimized operating parameters lead to a 2.96% reduction in fossil energy demand (FED) and a 3.00% decrease in greenhouse gas (GHG) emissions. This chapter provides new insights and strategies to accelerate engineered selective oxidation for desired GA production.    
 
     
 

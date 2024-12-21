@@ -1,109 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Dec 20 01:21:24 2024
+Created on Sat Dec 21 01:19:51 2024
 
-Found 39 results from 2024-12-13 to 2024-12-20
+Found 36 results from 2024-12-14 to 2024-12-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Strong Photothermal Tandem Catalysis for CO2 Reduction to C2H4 Boosted by Zr–O–W Interfacial H2O Dissociation   
-
-OpenAlex: https://openalex.org/W4405302796    
-Open access: False
-    
-[Ruoxuan Peng](https://openalex.org/A5022913138), [Yuqi Ren](https://openalex.org/A5109262968), [Yitao Si](https://openalex.org/A5064332666), [Kai Huang](https://openalex.org/A5034474103), [Jiancheng Zhou](https://openalex.org/A5073593046), [Lunbo Duan](https://openalex.org/A5025363360), [Naixu Li](https://openalex.org/A5002141680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06218.
-    
-No abstract    
-
-    
-
-## Unlocking the Aromatic Cope Rearrangement with Gold(I) Catalysis   
-
-OpenAlex: https://openalex.org/W4405304851    
-Open access: False
-    
-[Pierre Locquet](https://openalex.org/A5114564787), [R. Akilan](https://openalex.org/A5082533913), [Raquel Pereira](https://openalex.org/A5014727489), [Fabienne Grellepois](https://openalex.org/A5051694749), [Jean‐Marc Weibel](https://openalex.org/A5051989755), [Éric Hénon](https://openalex.org/A5004006480), [Emmanuel Riguet](https://openalex.org/A5046315366), [Aurélien Blanc](https://openalex.org/A5036782638), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06662.
-    
-No abstract    
-
-    
-
-## Iron-Catalyzed Markovnikov-Selective Radical Hydrochalcogenation of Unactivated Alkenes   
-
-OpenAlex: https://openalex.org/W4405312226    
-Open access: False
-    
-[Jiayi Li](https://openalex.org/A5100446473), [Lei Zhu](https://openalex.org/A5100394072), [Zhaohui Liu](https://openalex.org/A5045924534), [H. Liu](https://openalex.org/A5031829512), [Si-Chen Tao](https://openalex.org/A5108932468), [S. H. Zhu](https://openalex.org/A5101098023), [Yan‐Long Zheng](https://openalex.org/A5008582832), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06770.
-    
-A Markovnikov-selective radical hydrochalcogenation reaction of unactivated alkenes via iron-catalyzed hydrogen atom transfer was reported. Using N-(arylsulfenyl)arenesulfonamide, PhSO2SCD3, S-alkyl thiosulfonate, S-alkyl dithiosulfonate and Ebselen derivatives as versatile radicalophiles, a wide range of unsymmetrical alkyl-aryl, dialkyl and SCD3 (D > 99%) containing sulfides, dialkyl disulfides, as well as organoselenides have been collectively synthesized under mild conditions. As a powerful alternative to the classical thiol–ene reaction, this protocol features exclusive Markovnikov selectivity, good functional group tolerance and broad substrate scope. A number of radical probe experiments suggest the hydrochalcogenation proceeds through the radical pathway. The synthetic utility of this transformation was also demonstrated through the late-stage modifications of diverse natural products and bioactive molecules.    
-
-    
-
-## Activation and Stabilization of Engineered Amine Dehydrogenase by Fatty Acids for Bioprocess Intensification of Asymmetric Reductive Amination   
-
-OpenAlex: https://openalex.org/W4405312334    
-Open access: False
-    
-[Weixi Kong](https://openalex.org/A5070630878), [Jiawang Zhang](https://openalex.org/A5076038859), [Liya Zhou](https://openalex.org/A5103141775), [Guanhua Liu](https://openalex.org/A5021305056), [Ying He](https://openalex.org/A5104668888), [Li Ma](https://openalex.org/A5090738004), [Frank Hollmann](https://openalex.org/A5039285985), [Sheng Wang](https://openalex.org/A5100371335), [Yunting Liu](https://openalex.org/A5050520630), [Yanjun Jiang](https://openalex.org/A5076197416), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05904.
-    
-No abstract    
-
-    
-
-## Rational Design of Indium–Palladium Intermetallic Catalysts for Selective CO2 Hydrogenation to Methanol   
-
-OpenAlex: https://openalex.org/W4405312574    
-Open access: False
-    
-[Jiabao Lv](https://openalex.org/A5013870224), [Hongman Sun](https://openalex.org/A5004667543), [Guanying Liu](https://openalex.org/A5107167566), [Tong Liu](https://openalex.org/A5108013819), [Guofeng Zhao](https://openalex.org/A5101888184), [Youhe Wang](https://openalex.org/A5089942938), [Xin Tu](https://openalex.org/A5029654757), [Zifeng Yan](https://openalex.org/A5100456337), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04670.
-    
-No abstract    
-
-    
-
-## Copper-Photoredox-Catalyzed Divergent Strategy for the Site-Selective Arylation and Alkylation of Glycines and Peptides   
-
-OpenAlex: https://openalex.org/W4405319097    
-Open access: False
-    
-[Prahallad Meher](https://openalex.org/A5004045513), [M. Siva Prasad](https://openalex.org/A5075822605), [Karan Ramdas Thombare](https://openalex.org/A5093258373), [Sandip Murarka](https://openalex.org/A5047010593), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06254.
-    
-No abstract    
-
-    
-
-## One-Step Construction of Atropisomers Bearing 1,5-Central and Axial Chirality via Catalytic Diastereo- and Atroposelective Remote Desymmetrizing Alkynylation   
-
-OpenAlex: https://openalex.org/W4405333449    
-Open access: False
-    
-[Shan Wang](https://openalex.org/A5100388413), [Long Li](https://openalex.org/A5100408757), [Ming Jiang](https://openalex.org/A5044227760), [Kaixin Zhao](https://openalex.org/A5024081388), [Daming He](https://openalex.org/A5101410061), [Xiaoguang Li](https://openalex.org/A5100373856), [Zheng Wang](https://openalex.org/A5100401114), [Yingcheng Wang](https://openalex.org/A5076952654), [Fangzhi Peng](https://openalex.org/A5017701871), [Zhihui Shao](https://openalex.org/A5025693404), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06332.
-    
-No abstract    
-
-    
-
-## Heterogeneous Tandem Catalysis Strategy for Additive-Free CO2 Hydrogenation into Formic Acid in Water: Crystal Plane Effect of Co3O4 Cocatalyst   
-
-OpenAlex: https://openalex.org/W4405333957    
-Open access: False
-    
-[Kohsuke Mori](https://openalex.org/A5079611946), [Jun Shinogi](https://openalex.org/A5115420758), [Yuki Shimada](https://openalex.org/A5109990505), [Hiromi Yamashita](https://openalex.org/A5028494580), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05484.
-    
-The transformation of carbon dioxide (CO2) into formic acid (FA; HCOOH) in an aqueous phase is a promising method of realizing an environmentally friendly FA/CO2-mediated chemical hydrogen storage/supply cycle. Despite progress in the design of catalysts that operate under basic conditions, the development of efficient catalysts that operate under additive-free conditions lags behind owing to the difficulty in activating CO2 and the low solubility of CO2 in pure water. In the present study, we present a heterogeneous tandem catalysis strategy in which Co3O4 is used as a CO2 hydration cocatalyst to produce a HCO3– intermediate, in combination with our previously reported PdAg/TiO2 as a catalyst for the hydrogenation of HCO3– to afford FA. The turnover number based on Pd improved by a factor of more than 8 in the presence of the Co3O4 cocatalyst with a cubic particle morphology enclosed by (100) facets. A series of morphology-controlled Co3O4 cocatalysts was investigated to elucidate the effect of the exposed crystal facets (i.e., (100), (111), or (112)) on their physicochemical properties and catalytic activity in FA synthesis. A systematic comparison based on experimental and density functional theory calculations demonstrated that the substantial enhancement effect of the Co3O4 cubes is attributable to the in situ generation of the largest amount of surface Co–OH groups with strong basicity originating from the exposed (100) facets. In addition, the present tandem catalytic system displayed high recyclability without exhibiting a structural change or a significant loss of activity. These findings will allow the rational design of an environmentally benign catalytic system for the hydrogenation of CO2 to FA.    
-
-    
-
-## Ordered Adsorption of Oxygen via High-Density Low-Coordinated Ru Sites for Lithium–Oxygen Battery   
-
-OpenAlex: https://openalex.org/W4405333965    
-Open access: False
-    
-[Yu Zhang](https://openalex.org/A5100433507), [Junguo Ma](https://openalex.org/A5007666779), [Zewen Zhuang](https://openalex.org/A5089567081), [Aijian Huang](https://openalex.org/A5091232233), [Shuting Zhang](https://openalex.org/A5100759006), [Wenbo Zhai](https://openalex.org/A5022735767), [Yi Yu](https://openalex.org/A5060198927), [Qing Peng](https://openalex.org/A5091365456), [Hai Xiao](https://openalex.org/A5023546157), [Caiyun Nan](https://openalex.org/A5069739391), [Chen Chen](https://openalex.org/A5100418351), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03294.
-    
-No abstract    
-
-    
 
 ## Multisite CuNi/Al2O3 Catalyst Enabling High-Efficiency Reductive Amination of Biomass-Derived Levulinic Acid (Esters) to Pyrrolidones under Mild Conditions   
 
@@ -255,7 +156,7 @@ Open access: False
     
 [Na Liu](https://openalex.org/A5100389784), [Qixiang Fan](https://openalex.org/A5019080822), [Jian Wei](https://openalex.org/A5072413669), [Guanghui Zhang](https://openalex.org/A5100459824), [Jian Sun](https://openalex.org/A5100742185), [Wenhui Li](https://openalex.org/A5100339868), [Chunshan Song](https://openalex.org/A5100439357), [Xinwen Guo](https://openalex.org/A5108083619), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06112.
     
-No abstract    
+The rational design of highly efficient Co–Fe bimetallic catalysts is highly desirable for CO2 hydrogenation to olefins as an important alternative for traditional petroleum cracking technology. The treatment of carburization to construct the active phases stands out. Herein, the composition of active CoFe alloy carbide catalysts consisting of χ-(CoxFe1–x)5C2 and θ-(CoxFe1–x)3C phases was fine-tuned by altering the carburization environment. The synergistic effect between the dual components was optimized to improve the CO2 activation and C–C coupling capacity. The appropriate carburization degree and phase composition of CoFe alloy carbides are favorable for enhancing the space-time yield (STY) of C2+ olefins, up to 328.1 mg gcat–1 h–1 on the CoFe catalyst carburized in H2/CO = 2 at 320 °C for 8 h. This work provides useful guidelines for regulating product distribution in the design and synthesis of highly efficient catalysts.    
 
     
 
@@ -354,7 +255,7 @@ Open access: False
     
 [Jiping Tang](https://openalex.org/A5040707894), [Yan Chen](https://openalex.org/A5101435389), [Ziyi Wang](https://openalex.org/A5101627513), [Yun-Hui Hu](https://openalex.org/A5114225143), [Jiahao Wang](https://openalex.org/A5100329212), [Liang Bao](https://openalex.org/A5085458165), [Zong‐Yan Zhao](https://openalex.org/A5059995024), [Yong‐Jun Yuan](https://openalex.org/A5028369122), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05707.
     
-No abstract    
+Exploring visible-light-responsive photocatalysts for photocatalytic lignocellulosic biomass-to-H2 conversion remains a glamorous but challenging goal because the photogenerated holes cannot directly transfer to biomass owing to the absence of a charge transfer channel. Herein, we design ZnIn2S4 nanosheets with abundant sulfur vacancy (VS-ZnIn2S4) as visible light responsive photocatalysts for photocatalytic H2 production from lignocellulosic biomass in the presence of MoS2 as the cocatalyst. In this smartly designed photocatalysts, the sulfur vacancy in ZnIn2S4 reduces the energy barrier of •OH generation reaction and results in the fast dynamics for the generation of •OH, which acts as the crucial species for the oxygenolysis of lignocellulosic biomass. As expected, the H2 generation rate of the optimized MoS2/VS-ZnIn2S4 photocatalyst in α-cellulose and bamboo powder aqueous solution achieves 1572 and 133 μmol·g–1·h–1, respectively. This study validates the feasibility of sulfur vacancy to boost visible light photocatalytic conversion of lignocellulosic biomass into H2 fuel.    
 
     
 
@@ -374,7 +275,7 @@ The biological formation of nitrogen–nitrogen (N–N) bonds represents intrigu
 OpenAlex: https://openalex.org/W4405494682    
 Open access: True
     
-[Georgios Giannakakis](https://openalex.org/A5003291079), [Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Aram L. Bugaev](https://openalex.org/A5041768941), [Andrea Ruiz‐Ferrando](https://openalex.org/A5060916943), [Dario Faust Akl](https://openalex.org/A5081644765), [Núria López](https://openalex.org/A5100605805), [Serena Fantasia](https://openalex.org/A5014594623), [Kurt Püntener](https://openalex.org/A5083525289), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05134 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c05134?ref=article_openPDF)).
+[Georgios Giannakakis](https://openalex.org/A5003291079), [Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Aram L. Bugaev](https://openalex.org/A5041768941), [Andrea Ruiz‐Ferrando](https://openalex.org/A5060916943), [Dario Faust Akl](https://openalex.org/A5081644765), [Núria López](https://openalex.org/A5100605805), [Serena Fantasia](https://openalex.org/A5014594623), [Kurt Püntener](https://openalex.org/A5083525289), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05134.
     
 Buchwald–Hartwig (BH) aminations are crucial for synthesizing arylamine motifs in numerous bioactive molecules and fine chemicals. While homogeneous palladium complexes can be effective catalysts, their high costs and environmental impact motivate the search for alternative approaches. Heterogeneous palladium single-atom catalysts (SAC) offer promising recoverable alternatives in C–C cross-couplings. Yet their use in C–N couplings remains unexplored, and mechanistic insights into amine coupling with aryl halides over solid surfaces that could guide catalyst design are lacking. Here, we demonstrate that palladium atoms coordinated to well-defined heptazinic cavities of graphitic carbon nitride (Pd1@C3N4) deliver practically relevant yields for BH couplings across various aryl halides and amines, exhibiting persistent activity and negligible leaching over several cycles. Notably, Pd1@C3N4 shows comparable or superior activity with certain aryl chlorides to bromides, alongside high chemoselectivity for amines over amides. In situ X-ray absorption spectroscopy analyses supported by density functional theory simulations identify the concerted role of the ligand and the C3N4 host in determining the performance, with a Pd(II) nominal oxidation state observed under all coupling conditions. Complementary structural and kinetic studies highlight a distinct reaction mechanism than that typically reported for homogeneous catalysts. These findings offer key insights for designing recyclable SAC for BH coupling, setting the basis for extending the scope toward more complex industrial targets.    
 
@@ -430,6 +331,72 @@ OpenAlex: https://openalex.org/W4405529735
 Open access: False
     
 [Xinge Wu](https://openalex.org/A5052934313), [Zhaoying Yang](https://openalex.org/A5101268139), [Decheng Li](https://openalex.org/A5100368347), [Shuai Shao](https://openalex.org/A5089879316), [Gaowu Qin](https://openalex.org/A5079960421), [Xiangying Meng](https://openalex.org/A5008454078), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06280.
+    
+No abstract    
+
+    
+
+## Hydrothermally Stable Zeolite-Encapsulated Metal Catalyst Promoted by Framework Sn Species   
+
+OpenAlex: https://openalex.org/W4405534973    
+Open access: False
+    
+[Xiaoyu Li](https://openalex.org/A5100449160), [Lichen Liu](https://openalex.org/A5014361961), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05458.
+    
+Hydrothermal stability is a vital performance criterion considered in the design of heterogeneous metal catalysts for practical applications because of the widespread presence of moisture in the reaction feeds or the products. In this work, we substantially promote the hydrothermal stability of the Pt-zeolite catalyst by incorporating Sn into the zeolite framework. Pt species are stabilized as small nanoparticles, and the MFI zeolite structure is well preserved even after hydrothermal treatment at 850 °C in a mixed atmosphere (CO + O2 + H2O). Adding Sn into Pt-MFI not only heals the defect sites in pure-silica MFI zeolite to promote its structural stability during hydrothermal treatment but also stabilizes the mobile PtOx species via the Sn–O–Pt interaction. The remarkably high stability of the Pt particles encapsulated in the Sn-promoted MFI zeolite is reflected in the CO oxidation reaction in which Pt particles stabilized in the Sn-promoted MFI zeolite exhibit much higher stability than the nonpromoted Pt-MFI catalyst. The stabilization effect of Sn is further extended to a Pd-MFI zeolite catalyst in which the average size of the Pd particles remains below 2 nm after the harsh hydrothermal treatments at 850 °C.    
+
+    
+
+## Operando Surface-Enhanced Infrared Spectroscopy Connects Interfacial Dynamics with Reaction Kinetics During Electrochemical CO2 Reduction on Copper   
+
+OpenAlex: https://openalex.org/W4405539425    
+Open access: False
+    
+[Jesse E. Matthews](https://openalex.org/A5104667539), [Jaime E. Avilés Acosta](https://openalex.org/A5073188790), [Sang‐Won Lee](https://openalex.org/A5100360895), [Dongrak Oh](https://openalex.org/A5020707671), [Tiras Y. Lin](https://openalex.org/A5068663944), [Kyra M. K. Yap](https://openalex.org/A5035155573), [Junjie Chen](https://openalex.org/A5032135184), [Ji‐Wook Jang](https://openalex.org/A5061624173), [Dong Un Lee](https://openalex.org/A5103119004), [Adam C. Nielander](https://openalex.org/A5051904251), [Thomas F. Jaramillo](https://openalex.org/A5078810774), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05532.
+    
+The reaction microenvironment plays a key role in dictating the selectivity of electrochemical CO2 reduction. However, understanding the chemical nature of this microenvironment under operating conditions remains a substantial challenge. We employed attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) in operando for simultaneous measurements of reaction kinetics and concentrations of reactants and intermediates at the reaction interface, all under controlled mass transport conditions. These operando measurements enable direct correlations between the reaction microenvironment, mass transport, and kinetics for a Cu electrocatalyst, such as higher local concentrations of CO2 under faster mass transport corresponding to higher rates of CO2 reduction. We observed that faster mass transport decreased the *CO coverage at less negative potentials (−0.6 VRHE) and increased the *CO coverage at more negative potentials (−1.1 VRHE). We developed a transport-coupled kinetic model that captures these spectroscopic observations and provides insight into the processes controlling interfacial concentrations of reactants and intermediates, aiding future efforts toward tailoring reaction microenvironments.    
+
+    
+
+## Revealing the Jahn–Teller Mitigating Complexity of Se-Anchored Mn Oxides for Superior SO2 Resistance in Gaseous Molecular Oxygen Activation   
+
+OpenAlex: https://openalex.org/W4405546278    
+Open access: False
+    
+[Haomiao Xu](https://openalex.org/A5073552078), [Qinyuan Hong](https://openalex.org/A5087755412), [Jia’nan Wang](https://openalex.org/A5029372480), [Jun Lei](https://openalex.org/A5100769155), [Mingming Wang](https://openalex.org/A5100347511), [Jiaxing Li](https://openalex.org/A5100636534), [Zhisong Liu](https://openalex.org/A5100358866), [Menggai Jiao](https://openalex.org/A5106481340), [Wenjun Huang](https://openalex.org/A5030077298), [Zan Qu](https://openalex.org/A5013833309), [Naiqiang Yan](https://openalex.org/A5020501565), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06268.
+    
+Manganese oxides have emerged as promising catalysts for the low-temperature activation of molecular oxygen (O2), crucial for the catalytic oxidation and removal of gaseous pollutants. However, the undesired Jahn–Teller (J-T) effects associated with the Mniv/Mniii redox couple, particularly under SO2 poisoning, led to the effectiveness of Mn oxides in applications. Herein, we construct a highly covalent Seiv-O-Mniii structure via the introduction of selenium into α-MnO2. Such a structure features high-valence Seiv anchored on the oxygen-terminated (110) plane of α-MnO2, facilitates the generation of more active oxygen species, and maintains the continuous cycling of oxygen-linked Mniv/Mniii. Such dynamics are pivotal for stabilizing manganese activation and mitigating the J-T effect. Through a combination of experimental investigations and theoretical calculations, we demonstrate that the Seiv-O-Mniii configuration, characterized by a high degree of Mn–O hybridization, significantly enhances CO oxidation, NH3 oxidation, and elemental mercury (Hg0) removal performances, and exhibits resistance to SO2. This study paves the way for the development of efficient low-temperature O2 activation processes for the removal of gaseous pollutants in real-world applications.    
+
+    
+
+## Reactant-Induced Dynamic Active Sites on Cu Catalysts during the Water–Gas Shift Reaction   
+
+OpenAlex: https://openalex.org/W4405546397    
+Open access: False
+    
+[Pengfei Hou](https://openalex.org/A5101791435), [Qi Yu](https://openalex.org/A5017725939), [Feng Luo](https://openalex.org/A5068247094), [Jincheng Liu](https://openalex.org/A5100608982), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05338.
+    
+Adsorbates can trigger surface reconstruction on metal surfaces, a common yet highly important phenomenon in heterogeneous catalysis that has not been fully explored. Here, we develop a reliable Cu–C–O machine learning force field (MLFF) with ab initio accuracy, providing insights into the reconstruction mechanism and distribution of active sites on the Cu surface under a CO atmosphere through state-of-the-art deep potential molecular dynamics (DPMD). Combining statistical cluster analysis with microkinetic modeling, we establish a strategy to quantitatively assess the turnover frequency (TOF) of catalyst surfaces during the dynamic catalytic process. Our findings reveal that edge Cu atoms undergo rearrangement, ejection, diffusion, and aggregation under a CO atmosphere, leading to the formation of cluster active sites. These small clusters in dynamic equilibrium are identified as the origin of the high catalytic activity of Cu-based catalysts for a low-temperature water–gas shift reaction (WGSR). This work not only elucidates intrinsic activity in metal catalysis and the dynamic catalysis theory but also offers valuable insights for computational catalysis methods to identify effective catalysts for practical applications.    
+
+    
+
+## Unraveling Alcohol Additive Effects on Hypervalent Iodine(III)-Catalyzed Asymmetric Phenolic Dearomatization: Ligand Substitution and Low-Barrier Hydrogen Bonds   
+
+OpenAlex: https://openalex.org/W4405546575    
+Open access: False
+    
+[Hanliang Zheng](https://openalex.org/A5019926319), [Cai Liu](https://openalex.org/A5100645952), [Xiaoyu Lai](https://openalex.org/A5080162755), [Muhammet Uyanik](https://openalex.org/A5083726075), [Kazuaki Ishihara](https://openalex.org/A5061232778), [Xiao‐Song Xue](https://openalex.org/A5058629788), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06557.
+    
+Despite the widespread use of hexafluoropropanol (HFIP) as a "magic" solvent or additive in organic synthesis, its fundamental mechanisms lag far behind. This study presents mechanistic insights into the puzzling alcohol additive effects observed in Ishihara's conformationally flexible C2-symmetric iodoarene-catalyzed asymmetric phenolic dearomatization through density functional theory calculations. The results reveal that due to the "booster effect" of fluorinated alcohols, HFIP assembles a trimeric hydrogen bond cluster that displaces a ligand from the active iodine(III) catalyst and forms a low-barrier hydrogen bond with the substrate, which significantly enhances the oxidizing power of the iodine(III) center, thus facilitating the dearomatization of electron-deficient phenols. Conversely, methanol is found to promote the dearomatization of electron-rich phenols via a formally similar yet distinct mechanism, thus highlighting the unique role of HFIP as an additive. The insights gained from this investigation advance our molecular-level understanding of the synergistic interactions between catalysts and additives, potentially guiding the design of catalytic systems that exploit these effects for broader applications.    
+
+    
+
+## New Insights into CO2 Electroreduction in Acidic Seawater   
+
+OpenAlex: https://openalex.org/W4405569566    
+Open access: False
+    
+[Peng Chen](https://openalex.org/A5101791707), [Haifeng Shen](https://openalex.org/A5075533679), [Min Zheng](https://openalex.org/A5021037658), [Mietek Jaroniec](https://openalex.org/A5065693067), [Yao Zheng](https://openalex.org/A5028236459), [Shi Zhang Qiao](https://openalex.org/A5032628543), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05816.
     
 No abstract    
 
