@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Dec 2024 01:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 01:27:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Measurement of surface segregation via He+ ion scattering in Cu Ag Au1-- composition spread thin films</title>
-      <link>https://doi.org/10.1016/j.susc.2024.122682</link>
-      <description>Zhitao Guo, Robert A. Burnley, Andrew J. Gellman, Surface Science. None(None)] 2024. https://openalex.org/W4405386390
-
-                No abstract</description>
-      <author>Zhitao Guo, Robert A. Burnley, Andrew J. Gellman</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122682</guid>
-    </item>
     <item>
       <title>Supplementary material to "Adiabatic and radiative cooling are both important causes of aerosol activation in simulated fog events in Europe"</title>
       <link>https://doi.org/10.5194/egusphere-2024-3397-supplement</link>

@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Dec 21 01:19:51 2024
+Created on Sun Dec 22 01:27:07 2024
 
-Found 36 results from 2024-12-14 to 2024-12-21
+Found 39 results from 2024-12-15 to 2024-12-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Multisite CuNi/Al2O3 Catalyst Enabling High-Efficiency Reductive Amination of Biomass-Derived Levulinic Acid (Esters) to Pyrrolidones under Mild Conditions   
-
-OpenAlex: https://openalex.org/W4405364003    
-Open access: False
-    
-[Xixi Liu](https://openalex.org/A5044398622), [Peng Zhou](https://openalex.org/A5029610462), [Zhihua Zhu](https://openalex.org/A5100966029), [Yimeng Guo](https://openalex.org/A5071542591), [Hang Lv](https://openalex.org/A5100751609), [Zehui Zhang](https://openalex.org/A5100662993), [Liangfang Zhu](https://openalex.org/A5039997114), [Changwei Hu](https://openalex.org/A5048671077), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06035.
-    
-No abstract    
-
-    
-
-## Biocatalytic Formal Asymmetric para-Aminoethylation of Unprotected Phenols to Chiral Amines   
-
-OpenAlex: https://openalex.org/W4405364941    
-Open access: False
-    
-[Jingqi Zhang](https://openalex.org/A5100612250), [Xuan Deng](https://openalex.org/A5066871377), [Xue Han](https://openalex.org/A5102827636), [Shuangping Huang](https://openalex.org/A5101528919), [Honghong Chang](https://openalex.org/A5071205620), [Lili Gao](https://openalex.org/A5106403896), [Jiandong Zhang](https://openalex.org/A5100366289), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06475.
-    
-No abstract    
-
-    
-
-## Acid/Base-Tuned Asymmetric Reductive Heck and Denitrogenative Heck Reactions of In Situ-Formed α,β-Unsaturated Hydrazone   
-
-OpenAlex: https://openalex.org/W4405366807    
-Open access: False
-    
-[Shuling Yu](https://openalex.org/A5058860407), [Xiaoyu Zhou](https://openalex.org/A5024177859), [Xiaofeng Tong](https://openalex.org/A5005997337), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05561.
-    
-Despite significant progress in the catalytic asymmetric 1,4-additions between various Michael donors and acceptors, the exploration of organohalide donors remains elusive. Herein, we report the Pd(0)-catalyzed asymmetric intramolecular 1,4-additions of vinyl/aryl iodides to α,β-unsaturated hydrazones, featuring in situ-formed hydrazone and acid/base-tuned reaction pathways. Due to its strong coordination ability, the hydrazone is capable of steering the C–C bond formation to follow the 1,4-addition mechanism instead of the conventional alkene insertion, thus enabling the generation of vinylhydrazinyl–Pd2+ species via the Zimmerman–Traxler chairlike transition state. Notably, this species preferentially undergoes protonation under acidic conditions, furnishing a reductive Heck reaction with the aid of a native hydrazine reductant, while it is susceptible to β-HN elimination under basic conditions to achieve a denitrogenative Heck reaction. The catalytic protocol affords highly enantioselective access to diverse heterocycles, with alkene and hydrazone groups poised for further chemical manipulations.    
-
-    
-
-## Atroposelective Three-Component (Fluoro)methylative Alkylation of Terminal Alkynes   
-
-OpenAlex: https://openalex.org/W4405376697    
-Open access: False
-    
-[Yaheng Zhao](https://openalex.org/A5101112129), [Liping Huo](https://openalex.org/A5080719917), [Xiaoyu Zhao](https://openalex.org/A5100781610), [Lingling Chu](https://openalex.org/A5028147598), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06100.
-    
-The development of synthetic methods for the selective installation of methyl and fluoromethyl groups is highly desired due to their critical role in drug development. While significant advances have been made in the methylation and difluoromethylation of aromatic compounds, the catalytic atroposelective (fluoro)methylative functionalization of alkynes to forge axially chiral alkenes remains underexploited. Herein, we report an enantioselective cross-electrophile strategy for the efficient 1,2-carbo-(fluoro)methylation of alkynes with two different alkyl halides via nickel catalysis. By integrating a one-electron radical process with a two-electron organometallic process, this protocol employs a simple chiral nickel catalyst to effectively discriminate between secondary and tertiary alkyl groups and (fluoro)methyl groups for alkyne difunctionalization. This protocol demonstrates good compatibility of activated secondary/tertiary alkyl bromides, terminal alkynes, and (fluoro)methyl halides, permitting the straightforward synthesis of a broad range of synthetically valuable axially chiral (fluoro)methyl-substituted alkenes with high chemo-, regio-, trans-, and atropo-selectivity. Preliminary mechanistic studies provide insight into the potential reaction pathway.    
-
-    
-
-## Quantifying Interface-Dependent Active Sites Induced by Strong Metal–Support Interactions on Au/TiO2 in 2,5-Bis(hydroxymethyl)furan Oxidation   
-
-OpenAlex: https://openalex.org/W4405378410    
-Open access: True
-    
-[Enhui Du](https://openalex.org/A5062881637), [Jie Yang](https://openalex.org/A5111788827), [Liyuan Huai](https://openalex.org/A5024604696), [Panpan Hao](https://openalex.org/A5031877307), [Mingxin Lv](https://openalex.org/A5050783737), [Zhilin Chen](https://openalex.org/A5025790402), [Yuxiang Chen](https://openalex.org/A5100334456), [Jian Zhang](https://openalex.org/A5100409912), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05341.
-    
-Strong metal–support interactions (SMSI) typically induce the migration of a coverage layer to the metal surface accompanied by electron transfer, forming a unique metal–support interface. This dual modification in geometric and electronic structures reconstructs the active surface, adjusting the activity and stability of the catalyst. However, identifying and quantifying such newly formed interfacial sites remains a challenge. Herein, by varying the reduction temperature to control the TiO2–x coverage on Au nanoparticles, the catalytic activity of Au/TiO2 in 2,5-bis(hydroxymethyl)furan (BHMF) oxidation shows a volcano-shaped trend. Combined thiol titration and poisoning kinetics analysis to quantify the ratio of interfacial to surface sites and normalize it to intrinsic activity, revealing that Au-TiO2–x interfacial sites positively contribute to catalytic performance. This study offers valuable insights into the active sites in heterogeneous catalytic systems with SMSI effects.    
-
-    
-
-## Anionic Oxidation Activity/Stability Regulated by Transition Metals in Multimetallic (Oxy)hydroxides for Alkaline Water Oxidation   
-
-OpenAlex: https://openalex.org/W4405378470    
-Open access: False
-    
-[Shuhao Wang](https://openalex.org/A5112424682), [Kamran Dastafkan](https://openalex.org/A5057507481), [Sicheng Wu](https://openalex.org/A5079233581), [Qian Sun](https://openalex.org/A5059473992), [Chengli Rong](https://openalex.org/A5016828667), [Dazhi Yao](https://openalex.org/A5018028217), [Chuan Zhao](https://openalex.org/A5046268649), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03718.
-    
-No abstract    
-
-    
 
 ## Discovery and Synthetic Applications of a NAD(P)H-Dependent Reductive Aminase from Rhodococcus erythropolis   
 
@@ -244,7 +178,7 @@ Open access: False
     
 [Zhongyao Zhang](https://openalex.org/A5011995432), [Feiting Zhang](https://openalex.org/A5054620175), [Zhongxin Song](https://openalex.org/A5036686064), [Lei Zhang](https://openalex.org/A5100433989), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05289.
     
-No abstract    
+Metal-free carbon materials functionalized with pyridinic nitrogen groups exhibit promising electrocatalytic activity for the oxygen reduction reaction (ORR). However, not all pyridinic nitrogen groups are equally active for the ORR, which remains ambiguous and requires rigorous quantification and differentiation by their basicity. Here, we introduce the potentiometric titration method for identifying and quantifying nitrogen-containing groups on carbon materials by their Lewis basicity and reactivity in characteristic tests. Various carbon materials are functionalized with nitrogen heteroatoms. Potentiometric titration, X-ray photoelectron spectroscopy (XPS), and elemental analysis suggest that a significant amount of pyridinic nitrogen groups are buried within the bulk structures and cannot be accessed by protons and oxygen molecules. Besides, pyridinic nitrogen functions located adjacent to other nitrogen atoms exhibit weaker basicity due to strong inductive or resonance effects, resulting in a negligible contribution to the ORR activity. ORR measurements under alkaline conditions suggest that the titratable pyridinic nitrogen groups are essential for the active site (or site pair), and kinetic current density is directly proportional to the density of titratable pyridinic nitrogen groups. Furthermore, the turnover frequency for the ORR increases with the Lewis basicity of the pyridinic nitrogen groups for all investigated carbon materials in alkaline and acidic conditions. Density functional theory (DFT) calculations suggest that the ORR occurs on the carbon atoms adjacent to pyridinic nitrogen groups. Pyridinic nitrogen with a higher Lewis basicity can affect adjacent carbon atoms more efficiently, which stabilizes the key intermediates for the ORR and decreases the activation barrier. This work provides an informative and convenient way for characterizing nitrogen-containing groups on carbon materials, especially in quantifying the active pyridinic nitrogen sites for the ORR.    
 
     
 
@@ -397,6 +331,105 @@ OpenAlex: https://openalex.org/W4405569566
 Open access: False
     
 [Peng Chen](https://openalex.org/A5101791707), [Haifeng Shen](https://openalex.org/A5075533679), [Min Zheng](https://openalex.org/A5021037658), [Mietek Jaroniec](https://openalex.org/A5065693067), [Yao Zheng](https://openalex.org/A5028236459), [Shi Zhang Qiao](https://openalex.org/A5032628543), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05816.
+    
+No abstract    
+
+    
+
+## Autonomous Exploitation of Reaction Pathways for Electrochemical C–N Coupling on Single-Atom Catalysts   
+
+OpenAlex: https://openalex.org/W4405591654    
+Open access: False
+    
+[Junjie Pan](https://openalex.org/A5101858494), [Haowen Ding](https://openalex.org/A5111592288), [Xiaoling Yang](https://openalex.org/A5107952334), [Xianhui Liang](https://openalex.org/A5079298233), [Shanglin Wu](https://openalex.org/A5048397048), [Mingzheng Zhang](https://openalex.org/A5004026148), [Shunning Li](https://openalex.org/A5021329144), [Shisheng Zheng](https://openalex.org/A5067840867), [Feng Pan](https://openalex.org/A5055477551), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05751.
+    
+Electrochemical C–N coupling between CO2 and N-containing small molecules is a promising strategy to close both the carbon and nitrogen loops to support the establishment of a net-zero carbon economy. However, the intricate reaction network and the contentious C–N coupling mechanism hinder the development of efficient electrocatalysts for industrial applications. Herein, we develop a graph-based approach to enable autonomous analysis of the C–N coupling mechanism for coreduction of CO2 and NO3– on single-atom catalysts (SACs). 1400 potential intermediates and 2490 C–N coupling modes are investigated based on the Cu-N4-C prototypical catalyst. We demonstrate that N-containing species with a higher reduction degree are more likely to undergo C–N coupling and the initial coupling of the C–N bond tends to occur on CO2. It is revealed that the hydrogenation energies of *NH2 and CO2, as well as their coupling energies, can serve as key indicators for catalyst recommendation. Using this approach, SACs with Mo, W, or Sb metal centers are identified as promising electrocatalysts for C–N coupling. This work presents a paradigm for automatically exploring the mechanisms of complex electrocatalytic reactions and offers a strategy for predicting highly active and selective SACs.    
+
+    
+
+## Decoding the Role of Adsorbates Entropy in the Reactivity of Single-Atom Catalysts   
+
+OpenAlex: https://openalex.org/W4405592086    
+Open access: False
+    
+[Elena Simone](https://openalex.org/A5008067244), [Gianvito Vilé](https://openalex.org/A5087324262), [Giovanni Di Liberto](https://openalex.org/A5087412983), [Gianfranco Pacchioni](https://openalex.org/A5018929838), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04472.
+    
+Single-atom catalysts (SACs) are rapidly gaining attention as a versatile class of materials that combine the advantages of both homogeneous and heterogeneous catalysis. A growing number of studies aim to identify potential new SACs or to describe their structure and reactivity through ab initio quantum chemical simulations. While many computational studies primarily address reactions involving small molecules, such as water splitting or CO2 reduction, the application scope of SACs is rapidly broadening to include the production of fine chemicals and the conversion of biomass-derived platform molecules, processes that involve larger, more complex reactants. Using density-functional theory (DFT) simulations, we demonstrate that, while an approximate treatment of entropy is acceptable for molecules with up to three atoms, it introduces substantial errors in reactions involving more complex molecules. Our results reveal a linear correlation between the entropy of adsorbed molecules and that of the corresponding isolated species, mirroring trends observed on extended catalytic surfaces. For the largest systems investigated in this study, the entropy of the free molecule is reduced by approximately 10–20% upon adsorption; for small molecules, this reduction can range from 50 to 70%. This disparity arises because, on SACs, the translational entropy is effectively zero, the rotational entropy is minimal, and the vibrational entropy increases with the size of the molecule. Moreover, the entropy of adsorbates scales linearly with the number of atoms in the molecule, allowing for the prediction of entropic contributions of adsorbates on SACs without additional computational cost. Using propyne hydrogenation as a test, we demonstrate that the reaction energy profile computed with current approximate approaches for estimating the entropy of adsorbates differs significantly from the profile where entropy is explicitly included. These findings highlight the importance of considering adsorbate entropy for accurately predicting the catalytic activity of SACs, particularly for reactions involving complex molecules.    
+
+    
+
+## One-Pot Chemoenzymatic Synthesis of Arsinothricin and the Mechanistic Insights into the Noncanonical Radical SAM Enzyme ArsL   
+
+OpenAlex: https://openalex.org/W4405595613    
+Open access: False
+    
+[Li He](https://openalex.org/A5101292336), [Fen‐Er Chen](https://openalex.org/A5034159418), [Wei Ding](https://openalex.org/A5100608631), [Qi Zhang](https://openalex.org/A5100360362), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04938.
+    
+Arsinothricin (AST) is a broad-spectrum arsenic-containing antibiotic with promising pharmaceutical properties. In this study, we report the one-pot chemoenzymatic synthesis of AST starting from methylarsenate, a commonly used agricultural herbicide. Although a single point mutation in the C-terminal region of ArsL completely abolished its activity toward the natural substrate inorganic arsenite, this mutation unexpectedly enhanced its activity toward methylarsenate by over 50-fold, enabling subgram scale production of AST in a cell-free system. These findings offer valuable mechanistic insights into ArsL and highlight the significant potential of manipulating the radical SAM superfamily enzymes in synthetic applications.    
+
+    
+
+## Pd Nanoparticles Decorated by Oxidized Ru Clusters for Efficient C–H/C–H Coupling of Arenes   
+
+OpenAlex: https://openalex.org/W4405600947    
+Open access: False
+    
+[Shingo Hasegawa](https://openalex.org/A5046493438), [Shunta Tokutake](https://openalex.org/A5110977155), [Koji Harano](https://openalex.org/A5006106507), [Ken Motokura](https://openalex.org/A5031367549), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05551.
+    
+Oxidative homocoupling of arenes is a challenging but attractive method for converting nonactivated aromatics into biaryl compounds. Applications and the mechanistic understanding of bimetallic nanocatalysts for arene C–H bond activation are limited at present. In this study, we found that a Pd–Ru bimetallic catalyst supported on Al2O3 showed remarkably high catalytic activity for the oxidative homocoupling of arenes owing to the synergistic effect between Pd and Ru. Structural analyses by high-angle annular dark-field scanning transmission electron microscopy with energy-dispersive X-ray spectroscopy and X-ray absorption spectroscopy revealed that the Pd nanoparticles were decorated by partially oxidized Ru clusters. Mechanistic studies indicated that the arene C–H bond cleavage was the rate-determining step and proceeded by a concerted metalation–deprotonation mechanism. It was proposed that the role of Ru is promoting the C–H activation step by generating electron-deficient Pd sites, which was supported by DFT calculations. The Ru-decorated Pd nanoparticles showed large turnover numbers for simple arenes.    
+
+    
+
+## Controlling Co 3d/O 2p Orbital Hybridization in LaCoO3 by Modulating the Co–O–Co Bond Angle for Enhanced Oxygen Evolution Reaction Catalysis   
+
+OpenAlex: https://openalex.org/W4405601758    
+Open access: False
+    
+[Baoxin Ge](https://openalex.org/A5042311174), [Pengyang Jiang](https://openalex.org/A5006405871), [Biyi Chen](https://openalex.org/A5047896605), [Caijin Huang](https://openalex.org/A5082756368), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05479.
+    
+The orbital hybridization between metal and oxygen of perovskite catalysts can lower the overpotential and enhance the oxygen evolution reaction (OER) activity. This study combines density functional theory with experiments to clarify how Sr/Fe codoping modulates orbital hybridization and enhances OER catalytic activity of LaCoO3. The as-prepared La0.50Sr0.50Co0.75Fe0.25O3 shows remarkable performance with a low overpotential of 310 mV at 10 mA cm–2 current density and a 107.03 mV dec–1 Tafel slope, outperforming most state-of-the-art perovskite-based OER electrocatalysts. The experimental results confirm that Sr/Fe codoping enhances the expansion of Co–O–Co bond angles and strengthens the covalency of the Co–O bond in LaCoO3, leading to enhanced electrocatalytic activity. Moreover, increasing Sr doping reduces the distance between the Co 3d/O 2p center and the Fermi level, decreasing the energy difference between them and enhancing the degree of orbital hybridization between Co 3d and O 2p. As the degree of Co 3d/O 2p orbital hybridization increases, a higher charge transfer was found between the active center and intermediate product, OOH, reducing the energy barrier of the rate-determining step while lowering the overpotential. This study provides thorough insight into the rational design of OER catalysts based on orbital hybridization.    
+
+    
+
+## Pincer-Ruthenium-Catalyzed Direct Formation of Fuel-Grade Alkanes via a Net-Decarboxylative Coupling of Alcohols   
+
+OpenAlex: https://openalex.org/W4405630608    
+Open access: False
+    
+[Pran Gobinda Nandi](https://openalex.org/A5113219645), [Pabitra Maity](https://openalex.org/A5115562423), [Akshai Kumar](https://openalex.org/A5012177920), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05826.
+    
+No abstract    
+
+    
+
+## Promoted *OH Adsorption Facilitates C–C Bond Cleavage for Efficient Electrochemical Upcycling of Polyethylene Terephthalate   
+
+OpenAlex: https://openalex.org/W4405640218    
+Open access: False
+    
+[Jinyong Sun](https://openalex.org/A5041538055), [Binkai Shi](https://openalex.org/A5103580598), [Shuixing Dai](https://openalex.org/A5039106340), [Lei Chu](https://openalex.org/A5041988024), [Huanlei Wang](https://openalex.org/A5023689555), [Minghua Huang](https://openalex.org/A5037398992), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05352.
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4405650379    
+Open access: False
+    
+, ACS Catalysis. 14(24)] 2024.https://doi.org/10.1021/csv014i024_1880616.
+    
+No abstract    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4405661059    
+Open access: False
+    
+, ACS Catalysis. 14(24)] 2024.https://doi.org/10.1021/csv014i024_1880617.
     
 No abstract    
 
