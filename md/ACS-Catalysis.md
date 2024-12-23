@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Dec 22 01:27:07 2024
+Created on Mon Dec 23 01:22:33 2024
 
-Found 39 results from 2024-12-15 to 2024-12-22
+Found 42 results from 2024-12-16 to 2024-12-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -308,7 +308,7 @@ Manganese oxides have emerged as promising catalysts for the low-temperature act
 OpenAlex: https://openalex.org/W4405546397    
 Open access: False
     
-[Pengfei Hou](https://openalex.org/A5101791435), [Qi Yu](https://openalex.org/A5017725939), [Feng Luo](https://openalex.org/A5068247094), [Jincheng Liu](https://openalex.org/A5100608982), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05338.
+[Pengfei Hou](https://openalex.org/A5101475771), [Qi Yu](https://openalex.org/A5017725939), [Feng Luo](https://openalex.org/A5068247094), [Jincheng Liu](https://openalex.org/A5100608982), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05338.
     
 Adsorbates can trigger surface reconstruction on metal surfaces, a common yet highly important phenomenon in heterogeneous catalysis that has not been fully explored. Here, we develop a reliable Cu–C–O machine learning force field (MLFF) with ab initio accuracy, providing insights into the reconstruction mechanism and distribution of active sites on the Cu surface under a CO atmosphere through state-of-the-art deep potential molecular dynamics (DPMD). Combining statistical cluster analysis with microkinetic modeling, we establish a strategy to quantitatively assess the turnover frequency (TOF) of catalyst surfaces during the dynamic catalytic process. Our findings reveal that edge Cu atoms undergo rearrangement, ejection, diffusion, and aggregation under a CO atmosphere, leading to the formation of cluster active sites. These small clusters in dynamic equilibrium are identified as the origin of the high catalytic activity of Cu-based catalysts for a low-temperature water–gas shift reaction (WGSR). This work not only elucidates intrinsic activity in metal catalysis and the dynamic catalysis theory but also offers valuable insights for computational catalysis methods to identify effective catalysts for practical applications.    
 
@@ -410,6 +410,39 @@ Open access: False
 [Jinyong Sun](https://openalex.org/A5041538055), [Binkai Shi](https://openalex.org/A5103580598), [Shuixing Dai](https://openalex.org/A5039106340), [Lei Chu](https://openalex.org/A5041988024), [Huanlei Wang](https://openalex.org/A5023689555), [Minghua Huang](https://openalex.org/A5037398992), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05352.
     
 No abstract    
+
+    
+
+## Enantioselective Intermolecular Benzylic C–H Amination under Chiral Paddle-Wheel Diruthenium Catalysis   
+
+OpenAlex: https://openalex.org/W4405643309    
+Open access: False
+    
+[Kotoko Makino](https://openalex.org/A5065547400), [Kohei Mori](https://openalex.org/A5108827952), [Shoichi Kiryu](https://openalex.org/A5045083056), [Taku Miyazawa](https://openalex.org/A5089822862), [Yuhei Kumagai](https://openalex.org/A5084305316), [Kosuke Higashida](https://openalex.org/A5001107116), [M. Kojima](https://openalex.org/A5087150556), [Tatsuhiko Yoshino](https://openalex.org/A5012058996), [Shigeki Matsunaga](https://openalex.org/A5103177232), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06504.
+    
+A catalytic asymmetric intermolecular benzylic C–H amination was achieved under paddle-wheel diruthenium catalysis. A chiral diruthenium catalyst incorporating (S)-TPPTTL (tetraphenylphthaloyl-(S)-tert-leucine) ligand exhibited notable enantioselectivity, and aminated products were obtained with up to 99% ee. Unique chemoselectivity of the chiral diruthenium catalyst was also found for allylbenzene and alkyl-naphthalene substrates, demonstrating the complementary synthetic utility of chiral paddle-wheel Ru(II)–Ru(III) catalysts to Rh(II) counterparts.    
+
+    
+
+## ML-Accelerated Automatic Process Exploration Reveals Facile O-Induced Pd Step-Edge Restructuring on Catalytic Time Scales   
+
+OpenAlex: https://openalex.org/W4405644769    
+Open access: True
+    
+[Patricia Poths](https://openalex.org/A5083349408), [King C. Lai](https://openalex.org/A5017081585), [Francesco Cannizzaro](https://openalex.org/A5024901288), [Christoph Scheurer](https://openalex.org/A5004695040), [Sebastian Matera](https://openalex.org/A5056647986), [Karsten Reuter](https://openalex.org/A5024866637), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06414.
+    
+No abstract    
+
+    
+
+## Synthesis of Axially Chiral Vinyl Halides via Cu(I)-Catalyzed Enantioselective Radical 1,2-Halofunctionalization of Terminal Alkynes   
+
+OpenAlex: https://openalex.org/W4405644944    
+Open access: False
+    
+[Jun-Bin Tang](https://openalex.org/A5000113087), [Jun-Qian Bian](https://openalex.org/A5085137689), [Zhihan Zhang](https://openalex.org/A5058484299), [Yong‐Feng Cheng](https://openalex.org/A5043102434), [Qin Li](https://openalex.org/A5100438933), [Qiang‐Shuai Gu](https://openalex.org/A5088566937), [Peiyuan Yu](https://openalex.org/A5025860351), [Zhong‐Liang Li](https://openalex.org/A5018797487), [Xin‐Yuan Liu](https://openalex.org/A5100670336), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06672.
+    
+Organohalides are crucial in modern organic synthesis, thanks to their robust and versatile reactivity in cross-coupling and other key transformations. However, catalytic asymmetric methods for producing enantioenriched organohalides, particularly axially chiral vinyl halides, remain underdeveloped. Here, we present a Cu(I)-catalyzed, highly enantioselective radical alkyne 1,2-halofunctionalization, utilizing custom-designed tridentate anionic N,N,N-ligands with bulky peripheral substituents. This method efficiently employs (hetero)aryl and alkyl sulfonyl chlorides, as well as α-carbonyl alkyl bromides, as radical precursors and utilizes a diverse range of 2-amino and 2-oxy aryl terminal alkynes as substrates to produce highly enantioenriched axially chiral vinyl halides. The reaction is scalable to gram quantities, and the vinyl halides can be further transformed into axially chiral thiourea, pyridyl carboxamide, and quinolyl sulfonamide compounds, some of which show significant potential in asymmetric catalysis. Both experimental and theoretical mechanistic studies support an enantioselective halogen atom transfer mechanism. This method opens an avenue for accessing axially chiral organohalides, facilitating their broad applications in various related fields.    
 
     
 

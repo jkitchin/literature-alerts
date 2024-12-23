@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Dec 2024 01:27:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 01:22:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -376,6 +376,36 @@
       <author>Jinyong Sun, Binkai Shi, Shuixing Dai, Lei Chu, Huanlei Wang, Minghua Huang</author>
       <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05352</guid>
+    </item>
+    <item>
+      <title>Enantioselective Intermolecular Benzylic C&#8211;H Amination under Chiral Paddle-Wheel Diruthenium Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c06504</link>
+      <description>Kotoko Makino, Kohei Mori, Shoichi Kiryu, Taku Miyazawa, Yuhei Kumagai, Kosuke Higashida, M. Kojima, Tatsuhiko Yoshino, Shigeki Matsunaga, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405643309
+
+                A catalytic asymmetric intermolecular benzylic C&#8211;H amination was achieved under paddle-wheel diruthenium catalysis. A chiral diruthenium catalyst incorporating (S)-TPPTTL (tetraphenylphthaloyl-(S)-tert-leucine) ligand exhibited notable enantioselectivity, and aminated products were obtained with up to 99% ee. Unique chemoselectivity of the chiral diruthenium catalyst was also found for allylbenzene and alkyl-naphthalene substrates, demonstrating the complementary synthetic utility of chiral paddle-wheel Ru(II)&#8211;Ru(III) catalysts to Rh(II) counterparts.</description>
+      <author>Kotoko Makino, Kohei Mori, Shoichi Kiryu, Taku Miyazawa, Yuhei Kumagai, Kosuke Higashida, M. Kojima, Tatsuhiko Yoshino, Shigeki Matsunaga</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06504</guid>
+    </item>
+    <item>
+      <title>ML-Accelerated Automatic Process Exploration Reveals Facile O-Induced Pd Step-Edge Restructuring on Catalytic Time Scales</title>
+      <link>https://doi.org/10.1021/acscatal.4c06414</link>
+      <description>Patricia Poths, King C. Lai, Francesco Cannizzaro, Christoph Scheurer, Sebastian Matera, Karsten Reuter, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405644769
+
+                No abstract</description>
+      <author>Patricia Poths, King C. Lai, Francesco Cannizzaro, Christoph Scheurer, Sebastian Matera, Karsten Reuter</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06414</guid>
+    </item>
+    <item>
+      <title>Synthesis of Axially Chiral Vinyl Halides via Cu(I)-Catalyzed Enantioselective Radical 1,2-Halofunctionalization of Terminal Alkynes</title>
+      <link>https://doi.org/10.1021/acscatal.4c06672</link>
+      <description>Jun-Bin Tang, Jun-Qian Bian, Zhihan Zhang, Yong&#8208;Feng Cheng, Qin Li, Qiang&#8208;Shuai Gu, Peiyuan Yu, Zhong&#8208;Liang Li, Xin&#8208;Yuan Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405644944
+
+                Organohalides are crucial in modern organic synthesis, thanks to their robust and versatile reactivity in cross-coupling and other key transformations. However, catalytic asymmetric methods for producing enantioenriched organohalides, particularly axially chiral vinyl halides, remain underdeveloped. Here, we present a Cu(I)-catalyzed, highly enantioselective radical alkyne 1,2-halofunctionalization, utilizing custom-designed tridentate anionic N,N,N-ligands with bulky peripheral substituents. This method efficiently employs (hetero)aryl and alkyl sulfonyl chlorides, as well as &#945;-carbonyl alkyl bromides, as radical precursors and utilizes a diverse range of 2-amino and 2-oxy aryl terminal alkynes as substrates to produce highly enantioenriched axially chiral vinyl halides. The reaction is scalable to gram quantities, and the vinyl halides can be further transformed into axially chiral thiourea, pyridyl carboxamide, and quinolyl sulfonamide compounds, some of which show significant potential in asymmetric catalysis. Both experimental and theoretical mechanistic studies support an enantioselective halogen atom transfer mechanism. This method opens an avenue for accessing axially chiral organohalides, facilitating their broad applications in various related fields.</description>
+      <author>Jun-Bin Tang, Jun-Qian Bian, Zhihan Zhang, Yong&#8208;Feng Cheng, Qin Li, Qiang&#8208;Shuai Gu, Peiyuan Yu, Zhong&#8208;Liang Li, Xin&#8208;Yuan Liu</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06672</guid>
     </item>
     <item>
       <title>Issue Publication Information</title>

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Dec 2024 01:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 01:22:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Leveraging Machine learning and active motifs-based catalyst design for discovery of oxygen reduction electrocatalysts for hydrogen peroxide production</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115906</link>
-      <description>G. Yu, Dong Hyeon Mok, Ho Yeon Jang, Hyun Dong Jung, Samira Siahrostami, Seoin Back, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4405394547
-
-                No abstract</description>
-      <author>G. Yu, Dong Hyeon Mok, Ho Yeon Jang, Hyun Dong Jung, Samira Siahrostami, Seoin Back</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115906</guid>
-    </item>
-    <item>
-      <title>Cascade protection strategy for anchoring atomic FeN3 sites within defect-rich wood carbon aerogel for high-performance Zn-air batteries and versatile application</title>
-      <link>https://doi.org/10.1016/j.cej.2024.158551</link>
-      <description>Jiaojiao Sun, Mengxia Shen, A. C. Chang, Chanjuan Liang, Chuanyin Xiong, Chen Hou, Jinbao Li, Pengbo Wang, Jiayin Li, Jianfeng Huang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405395385
-
-                No abstract</description>
-      <author>Jiaojiao Sun, Mengxia Shen, A. C. Chang, Chanjuan Liang, Chuanyin Xiong, Chen Hou, Jinbao Li, Pengbo Wang, Jiayin Li, Jianfeng Huang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158551</guid>
-    </item>
-    <item>
-      <title>A FIB-TEM study on evolution of passive film during deactivation processes of Ti/IrO2-Ta2O5 electrode</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145528</link>
-      <description>Mingshuai Guo, Likun Xu, Yonglei Xin, Lili Xue, Tigang Duan, Rongrong Zhao, Penghe Liu, Shuai Zhou, Li Li, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405409001
-
-                No abstract</description>
-      <author>Mingshuai Guo, Likun Xu, Yonglei Xin, Lili Xue, Tigang Duan, Rongrong Zhao, Penghe Liu, Shuai Zhou, Li Li</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145528</guid>
-    </item>
     <item>
       <title>Metal&#8210;organic framework/graphene-based nanocatalysts for hydrogen evolution reaction: A comprehensive review</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.12.132</link>
@@ -526,6 +496,56 @@
       <author>Sang Gu Ji, Minho M. Kim, Man Ho Han, Junsic Cho, Yoosang Son, Young Yong Kim, Jaeyoung Jeong, Zee Hwan Kim, Keun Hwa Chae, Hyung&#8208;Suk Oh, Hyungjun Kim, Chang Hyuck Choi</author>
       <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01241-1</guid>
+    </item>
+    <item>
+      <title>Alternative Electrocatalysts: Exploring Quantum Dots and Transition Metal MXenes</title>
+      <link>https://doi.org/10.1039/9781837674664-00447</link>
+      <description>Abid Ullah, Shahbaz Ahmad, Muhammad Arif, M. Egilmez, Basharat Hussain, Muhammad Raheel Khan, Amjad Hussain, Ayesha Samreen, Royal Society of Chemistry eBooks. None(None)] 2024. https://openalex.org/W4405647175
+
+                Hydrogen emerges as a pivotal clean and versatile energy carrier amid global energy challenges, urging a shift towards renewable hydrogen production. The efficiency of the electrochemical hydrogen evolution reaction (HER) hinges on catalyst choice, ambient conditions, and electrolyte pH. In transitioning away from costly and scarce catalysts like Pt or Ru, researchers explore Earth-abundant alternatives, notably transition metal-based quantum dots (QDs) and MXenes. QDs offer high surface area and customizable properties, while MXenes demonstrate exceptional conductivity and surface area. QDs, despite challenges such as agglomeration, prove effective when engineered into composites. MXenes, with their unique stacked structure and chemical robustness, hold promise for HER catalysis. As discussed, QDs and MXenes exhibit schematic HER representations, emphasizing their potential as catalysts for sustainable hydrogen production and their adaptability to span diverse fields, offering scalable solutions towards a renewable energy future.</description>
+      <author>Abid Ullah, Shahbaz Ahmad, Muhammad Arif, M. Egilmez, Basharat Hussain, Muhammad Raheel Khan, Amjad Hussain, Ayesha Samreen</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/9781837674664-00447</guid>
+    </item>
+    <item>
+      <title>Advances in Metal&#8211;Organic Frameworks for Electrocatalytic Hydrogen Generation</title>
+      <link>https://doi.org/10.1039/9781837674664-00423</link>
+      <description>Sreenivasan Nagappan, Subrata Kundu, Royal Society of Chemistry eBooks. None(None)] 2024. https://openalex.org/W4405647518
+
+                Hydrogen is regarded as a vital resource for the advancement of renewable energy technologies. Electrocatalytic water splitting has emerged as a viable technique for producing ultra-pure hydrogen. The electrocatalyst, which can catalyze the electrochemical process to decrease the overpotential by increasing the current density, is critical to the effectiveness of this approach. Metal&#8211;organic frameworks (MOFs) have become recognized as possible electrocatalysts in recent years due to their exposed surface active sites, evenly distributed interconnected pore structure, and adjustable shape. Thus, the significance of homogeneous and heterogeneous MOFs and their derivatives for the electrocatalytic hydrogen evolution process (HER) is summarized in this chapter. The chapter begins with an overview of the fundamentals of the electrocatalytic HER, after which the importance of various transition metal-based pristine MOFs and their derivatives towards the HER is examined. However, there is still plenty of room for improvement given their sub-par intrinsic activity and weak conductivity. Various MOF-derived composites, as well as new methodologies and procedures, are given to solve intrinsic activity and conductivity issues, emphasizing progress in MOF-based materials for a more effective HER electrocatalyst in large-scale hydrogen production.</description>
+      <author>Sreenivasan Nagappan, Subrata Kundu</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/9781837674664-00423</guid>
+    </item>
+    <item>
+      <title>Theoretical insight on the delicate regulation of coordination environments for carbon-nitrogen-supported single-atom metals for OER and ORR</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114784</link>
+      <description>Xiao-Kuan Wu, Junan Gao, Zhao Hong, Zhigang Lei, Jie Zhang, Molecular Catalysis. 572(None)] 2024. https://openalex.org/W4405660232
+
+                No abstract</description>
+      <author>Xiao-Kuan Wu, Junan Gao, Zhao Hong, Zhigang Lei, Jie Zhang</author>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114784</guid>
+    </item>
+    <item>
+      <title>Theoretical investigations of hydroxyl-functionalized iron-doped phthalocyanine photocatalyst for efficient CO2 reduction to methanol and methane</title>
+      <link>https://doi.org/10.1016/j.ces.2024.121121</link>
+      <description>Thangaraj Thiruppathiraja, Baker Rhimi, Shouxin Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4405662603
+
+                No abstract</description>
+      <author>Thangaraj Thiruppathiraja, Baker Rhimi, Shouxin Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.121121</guid>
+    </item>
+    <item>
+      <title>Surficial Engineering of Cathodic Protection Strategy via P&#8208;Doped NiCuV Monolithic Electrode for Enhanced Hydrogen Evolution Reaction in Alkaline Media</title>
+      <link>https://doi.org/10.1002/adsu.202400815</link>
+      <description>Huizhen Han, Shiyi Tao, Yu Sun, Yuxin Luo, Yulian Zhao, Somnath Mukherjee, Yi Ma, Xin Bo, Zenglin Wang, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4405674677
+
+                Abstract The concentrated alkaline passivates the monolithic electrode for electrochemical hydrogen evolution reaction (HER) in the alkaline water electrolysis (AWE) industry. Herein, a surface engineering of cathodic protection via one&#8208;step co&#8208;electrodeposition of P into NiCuV is presented and the achieved monolithic electrode exhibits an enhanced electrochemical catalytic behavior and constant durability with a feedback potential of &#8722;0.75 V versus the reversible hydrogen electrode (RHE) under an extremely high current density of 1A cm &#8722;2 for more than 270 h in alkaline media. The strategy of cathodic protection optimises the charge density redistribution by forming a phosphate surface layer. This preserves the particular metal (alloy) phase from oxidation while also modulating the heterarchical porous structure through P incorporation. Furthermore, an anion&#8208;exchange membrane water electrolysis (AEMWE) with the NiCuVP serving as the HER catalyst and the NiFeCr LDH as the OER catalyst is constructed, which exhibits a current density of 912 mA cm &#8722;2 at 2 V at 80 &#176;C with 30 wt.% KOH electrolytes. The resultant factors for activity and durability such as the electrochemical specific area, redox behaviors and surface hydrophilicity are also systematically discussed. This research presents a practical protocol for the anticorrosion and active enhancement of AWE and AEMWE cathodes.</description>
+      <author>Huizhen Han, Shiyi Tao, Yu Sun, Yuxin Luo, Yulian Zhao, Somnath Mukherjee, Yi Ma, Xin Bo, Zenglin Wang</author>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400815</guid>
     </item>
     <item>
       <title>Development of the DES-contained reduced graphene oxide system with efficient CO2 adsorption and photothermal desorption for pre-gas purification in AEMFCs</title>
