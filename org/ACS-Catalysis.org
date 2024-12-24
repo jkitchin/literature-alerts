@@ -1,73 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Dec 23 01:22:33 2024
+Created on Tue Dec 24 01:21:19 2024
 
-Found 42 results from 2024-12-16 to 2024-12-23
+Found 39 results from 2024-12-17 to 2024-12-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Discovery and Synthetic Applications of a NAD(P)H-Dependent Reductive Aminase from Rhodococcus erythropolis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405431243
-:TOPICS: Amino Acid Enzymes and Metabolism, Biochemical and Molecular Research, Chemical Reactions and Isotopes
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04935")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405431243"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405431243"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405431243"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405431243 (Open access: True)
-    
-[[https://openalex.org/A5082420951][Ewald P. J. Jongkind]], [[https://openalex.org/A5110114882][J. Domenech]], [[https://openalex.org/A5115459782][Arthur Govers]], [[https://openalex.org/A5015527534][Marcel van den Broek]], [[https://openalex.org/A5033414409][Jean‐Marc Daran]], [[https://openalex.org/A5003700886][Gideon Grogan]], [[https://openalex.org/A5091020378][Caroline E. Paul]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04935 
-     
-Reductive amination is one of the most synthetically direct routes to access chiral amines. Several Imine Reductases (IREDs) have been discovered to catalyze reductive amination (Reductive Aminases or RedAms), yet they are dependent on the expensive phosphorylated nicotinamide adenine dinucleotide cofactor NADPH and usually more active at basic pH. Here, we describe the discovery and synthetic potential of an IRED from Rhodococcus erythropolis (RytRedAm) that catalyzes reductive amination between a series of medium to large carbonyl and amine compounds with conversions of up to >99% and 99% enantiomeric excess at neutral pH. RytRedAm catalyzes the formation of a substituted γ-lactam and N-methyl-1-phenylethanamine with stereochemistry opposite to that of fungal RedAms, giving the (S)-enantiomer. This enzyme remarkably uses both NADPH and NADH cofactors with KM values of 15 and 247 μM and turnover numbers kcat of 3.6 and 9.0 s–1, respectively, for the reductive amination of hexanal with allylamine. The crystal structure obtained provides insights into the flexibility to also accept NADH, with residues R35 and I69 diverging from that of other IREDs/RedAms in the otherwise conserved Rossmann fold. RytRedAm thus represents a subfamily of enzymes that enable synthetic applications using NADH-dependent reductive amination to access complementary chiral amine products.    
-
-    
-
-* Construction of Chiral C2-Quaternary Indolines via Palladium-Catalyzed Decarboxylative Asymmetric Amination  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405431372
-:TOPICS: Asymmetric Hydrogenation and Catalysis, Catalytic C–H Functionalization Methods, Asymmetric Synthesis and Catalysis
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05763")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405431372"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405431372"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405431372"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405431372 (Open access: False)
-    
-[[https://openalex.org/A5028071791][Mingjun Lv]], [[https://openalex.org/A5102485257][Xinhui Yu]], [[https://openalex.org/A5089618971][Jitian Liu]], [[https://openalex.org/A5001092337][Xiaoxun Li]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05763 
-     
-No abstract    
-
-    
-
-* Chemically Bonded Schottky Junction for Efficient N2 Photofixation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405431397
-:TOPICS: Ammonia Synthesis and Nitrogen Reduction, CO2 Reduction Techniques and Catalysts, Catalytic Processes in Materials Science
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c04443")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405431397"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405431397"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405431397"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405431397 (Open access: False)
-    
-[[https://openalex.org/A5113264380][Yin Bi]], [[https://openalex.org/A5040559566][Yuan Fang]], [[https://openalex.org/A5108582360][Ling Yuan]], [[https://openalex.org/A5100343408][Jiaxin Li]], [[https://openalex.org/A5061724324][Chaoqi Zhang]], [[https://openalex.org/A5030440986][Pengyue Shan]], [[https://openalex.org/A5051585157][Xinchan Zhang]], [[https://openalex.org/A5038072194][Chao Liu]], [[https://openalex.org/A5009277202][Chengzhong Yu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c04443 
-     
-No abstract    
-
-    
 
 * Balancing Activity and Stability through Compositional Engineering of Ternary PtNi–Au Alloy ORR Catalysts  :ACS_Catalysis:
 :PROPERTIES:
@@ -114,7 +51,7 @@ Aryl ethers are ubiquitous protecting groups of alcohols and amines in organic c
 * DFT-Assisted Atroposelective Construction of Indole-Fused N-Heteroaromatic Frameworks through Palladium-Catalyzed C–H Imidoylation  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4405443243
-:TOPICS: Axial and Atropisomeric Chirality Synthesis, Molecular spectroscopy and chirality, Sphingolipid Metabolism and Signaling
+:TOPICS: Axial and Atropisomeric Chirality Synthesis, Plant and Fungal Species Descriptions, Molecular spectroscopy and chirality
 :PUBLICATION_DATE: 2024-12-16
 :END:    
     
@@ -128,7 +65,7 @@ OpenAlex: https://openalex.org/W4405443243 (Open access: False)
     
 [[https://openalex.org/A5100632471][Xilong Wang]], [[https://openalex.org/A5102812134][Jiali Xu]], [[https://openalex.org/A5037361855][Yu Luo]], [[https://openalex.org/A5112876938][Yuanyu Wang]], [[https://openalex.org/A5046926733][Jun Huang]], [[https://openalex.org/A5108264438][Qiang Zhu]], [[https://openalex.org/A5019882694][Shuang Luo]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c06720 
      
-No abstract    
+On the basis of density functional theory (DFT) calculations, we designed an asymmetric synthesis method for axially chiral biaryls through C(sp2)–H imidoylative cyclization of isocyanides. Building on this, we successfully synthesized axially chiral compounds containing indole-fused N-heteroaromatic frameworks via palladium-catalyzed C–H imidoylation to achieve high yields and enantioselectivity. Various efficient cyclization pathways facilitated the synthesis of indole-fused ring derivatives with either C–C or C–N axial chirality. This not only provides an efficient and diverse strategy for the synthesis of axially chiral compounds but also demonstrates that DFT-assisted design is a reliable tool for accurately predicting reaction stereoselectivity and effectively reducing the workload of chemical experiments.    
 
     
 
@@ -618,7 +555,7 @@ Despite the widespread use of hexafluoropropanol (HFIP) as a "magic" solvent or 
 * New Insights into CO2 Electroreduction in Acidic Seawater  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4405569566
-:TOPICS: CO2 Reduction Techniques and Catalysts, Electrochemical Analysis and Applications, Ionic liquids properties and applications
+:TOPICS: CO2 Reduction Techniques and Catalysts, Advanced battery technologies research, Ionic liquids properties and applications
 :PUBLICATION_DATE: 2024-12-19
 :END:    
     
@@ -632,7 +569,7 @@ OpenAlex: https://openalex.org/W4405569566 (Open access: False)
     
 [[https://openalex.org/A5101791707][Peng Chen]], [[https://openalex.org/A5075533679][Haifeng Shen]], [[https://openalex.org/A5021037658][Min Zheng]], [[https://openalex.org/A5065693067][Mietek Jaroniec]], [[https://openalex.org/A5028236459][Yao Zheng]], [[https://openalex.org/A5032628543][Shi Zhang Qiao]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05816 
      
-No abstract    
+The electrochemical CO2 reduction reaction (CO2RR) is of great importance to produce valuable chemicals. In conventional alkaline and "acid + salts"-based CO2RR, the aqueous electrolyte normally needs to be refreshed due to the gradually more neutral feature of pH during electrolysis operation. Therefore, both solutes and deionized (DI) water in electrolytes are required to be regenerated regularly. In this work, acidic seawater (pH < 2) was used as a low-cost but efficient electrolyte for CO2RR without salt addition. The Faradaic efficiencies (FEs) and partial current densities of C2+ on typical copper in the "H2SO4 in raw seawater" electrolyte are comparable with those for conventional "KOH in DI water" and much higher than those for "H2SO4 + salts" systems. Moreover, single-pass carbon efficiencies (SPCEs) in acidic seawater are significantly higher than the values in alkaline DI water. Such an abnormal phenomenon was also demonstrated for CO and HCOOH generation on typical silver and tin catalysts, respectively. In situ Raman spectroscopy and controlled experiments revealed that metal (denoted as M) cations in seawater ensure a higher concentration of M·H2O species, which improve interactions with *CO2–, while Cl– anions enhance the adsorption strength of key CO2RR intermediates (namely, *CO on copper, *COO– on silver, and *OCHO on tin). Through these interactions with water molecules and CO2RR intermediates, such free but functional ions in seawater play a highly important role in promoting selectivity and activity for CO2RR, as well as SPCE in acidic seawater. Furthermore, using acidic seawater as an alternative CO2RR electrolyte has significant economic and ecological benefits compared with traditional alkaline DI water electrolytes.    
 
     
 

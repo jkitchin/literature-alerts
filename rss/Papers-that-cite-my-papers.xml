@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Dec 2024 01:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 01:21:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Metal&#8210;organic framework/graphene-based nanocatalysts for hydrogen evolution reaction: A comprehensive review</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.132</link>
-      <description>Muhammad Ahmad Mudassir, Zainab Tazeen, Shazia Kousar, Muhan Li, Xiaoyu Zhao, International Journal of Hydrogen Energy. 98(None)] 2024. https://openalex.org/W4405409464
-
-                No abstract</description>
-      <author>Muhammad Ahmad Mudassir, Zainab Tazeen, Shazia Kousar, Muhan Li, Xiaoyu Zhao</author>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.132</guid>
-    </item>
-    <item>
-      <title>Unraveling the interaction of Ta atoms with Pt(111)</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.105640</link>
-      <description>Kevin Bertrang, Tobias Hinke, Sebastian Kaiser, Matthias Knechtges, Federico Loi, Luca Sbuelz, Paolo Lacovig, Luca Bignardi, Friedrich Esch, Alessandro Baraldi, Sergio Tosoni, Aras Kartouzian, Ueli Heiz, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4405418537
-
-                No abstract</description>
-      <author>Kevin Bertrang, Tobias Hinke, Sebastian Kaiser, Matthias Knechtges, Federico Loi, Luca Sbuelz, Paolo Lacovig, Luca Bignardi, Friedrich Esch, Alessandro Baraldi, Sergio Tosoni, Aras Kartouzian, Ueli Heiz</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105640</guid>
-    </item>
-    <item>
-      <title>Elevating CO2 selective conversion: Insights into copper-based single atom alloy catalysts</title>
-      <link>https://doi.org/10.1007/s42114-024-01105-z</link>
-      <description>Di Tian, Zefeng Wang, Zhou Xu, Zhu Yi-quan, Yan Yan, Jifeng Yang, Siyuan He, Zhichao Xue, Li Wang, Shuo Li, Wenxuan Fan, Miaomiao Xue, Zehua Qu, Wei Xia, Mingkai Liu, Advanced Composites and Hybrid Materials. 8(1)] 2024. https://openalex.org/W4405421670
-
-                No abstract</description>
-      <author>Di Tian, Zefeng Wang, Zhou Xu, Zhu Yi-quan, Yan Yan, Jifeng Yang, Siyuan He, Zhichao Xue, Li Wang, Shuo Li, Wenxuan Fan, Miaomiao Xue, Zehua Qu, Wei Xia, Mingkai Liu</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s42114-024-01105-z</guid>
-    </item>
-    <item>
-      <title>&lt;scp&gt;CoTCNQ&lt;/scp&gt; as a Catalyst for &lt;scp&gt;CO&lt;/scp&gt;&lt;sub&gt;2&lt;/sub&gt; Electroreduction: A First Principles r&lt;sup&gt;2&lt;/sup&gt;&lt;scp&gt;SCAN&lt;/scp&gt; Meta&#8208;&lt;scp&gt;GGA&lt;/scp&gt; Investigation</title>
-      <link>https://doi.org/10.1002/jcc.27528</link>
-      <description>Oliver J. Conquest, Yijiao Jiang, Catherine Stampfl, Journal of Computational Chemistry. 46(1)] 2024. https://openalex.org/W4405424833
-
-                ABSTRACT Using first principles calculations we investigate cobalt&#8208;coordinated tetracyanoquinodimethane (R&#8208;CoTCNQ) as a potential catalyst for the CO 2 electroreduction reaction (CO 2 ERR). We determine that exchange&#8211;correlation functionals beyond the generalized gradient approximation (GGA) are required to accurately describe the spin properties of R&#8208;CoTCNQ, therefore, the meta&#8208;GGA r 2 SCAN functional is used in this study. The free energy CO 2 ERR reaction pathways are calculated for the reduced catalyst ([R&#8208;CoTCNQ] &#8722;1 e ) with reaction products HCOOH and HCHO predicted depending on our choice of electrode potential. Calculations are also performed for [R&#8208;CoTCNQ] &#8722;1 e supported on a H&#8208;terminated diamond (1 1 0) surface with reaction pathways being qualitatively similar to the [R&#8208;CoTCNQ] &#8722;1 e monolayer. The inclusion of boron&#8208;doping in the diamond support shows a slightly improved CO 2 ERR reaction pathway. Furthermore, structurally, supported R&#8208;CoTCNQ provide a high specific area of active Co active sites and could be promising catalysts for future experimental consideration.</description>
-      <author>Oliver J. Conquest, Yijiao Jiang, Catherine Stampfl</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27528</guid>
-    </item>
-    <item>
-      <title>Deep eutectic solvent-derived carbon-based FeNi bimetallic catalysts for selective hydrogenation of furfural</title>
-      <link>https://doi.org/10.1016/j.cej.2024.158676</link>
-      <description>Siyi Pu, Zhouxiao Zhai, Chunyan Yang, Zirui Dao, Wei Yan, Changfu Zhuang, Chungang Min, Jie Zhao, Ying Wang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405430033
-
-                No abstract</description>
-      <author>Siyi Pu, Zhouxiao Zhai, Chunyan Yang, Zirui Dao, Wei Yan, Changfu Zhuang, Chungang Min, Jie Zhao, Ying Wang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158676</guid>
-    </item>
     <item>
       <title>CO2 capture using Resin-Based solid Amines: Characteristic, Application, regeneration and deactivation mechanism</title>
       <link>https://doi.org/10.1016/j.seppur.2024.131125</link>
@@ -250,11 +200,11 @@
     <item>
       <title>Interfacial hydrogen bonds induced by porous Fe Cr bimetallic atomic sites for efficient oxygen reduction reaction</title>
       <link>https://doi.org/10.1016/j.jcis.2024.12.119</link>
-      <description>Li Wang, Qing Zhang, Lin Yang, Chuangang Hu, Zhengyu Bai, Zhongwei Chen, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4405495386
+      <description>Li Wang, Qing Zhang, Lin Yang, Chuangang Hu, Zhengyu Bai, Zhongwei Chen, Journal of Colloid and Interface Science. 683(None)] 2024. https://openalex.org/W4405495386
 
                 No abstract</description>
       <author>Li Wang, Qing Zhang, Lin Yang, Chuangang Hu, Zhengyu Bai, Zhongwei Chen</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.12.119</guid>
     </item>
     <item>
@@ -546,6 +496,36 @@
       <author>Huizhen Han, Shiyi Tao, Yu Sun, Yuxin Luo, Yulian Zhao, Somnath Mukherjee, Yi Ma, Xin Bo, Zenglin Wang</author>
       <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400815</guid>
+    </item>
+    <item>
+      <title>Synergistic role of nickel-chromium heterogeneous selenides in the efficient stabilisation of the oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.178250</link>
+      <description>Li Wang, Ruixue Sun, Ting Li, Si Hui, Haoyu Luo, Gang Lv, Jifang Fu, Li Wang, Zhiqin Peng, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4405679873
+
+                No abstract</description>
+      <author>Li Wang, Ruixue Sun, Ting Li, Si Hui, Haoyu Luo, Gang Lv, Jifang Fu, Li Wang, Zhiqin Peng</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.178250</guid>
+    </item>
+    <item>
+      <title>Enhancing local CO2 availability via amorphous Bi2O3 enable efficient and stable photocatalytic C2H6 production</title>
+      <link>https://doi.org/10.1016/j.cej.2024.158854</link>
+      <description>Qingqing Chen, Jiaxin Jiang, Yan Wu, Jiaojiao Fang, Ning L&#252;, Gang Wang, Junjie Mao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405686146
+
+                No abstract</description>
+      <author>Qingqing Chen, Jiaxin Jiang, Yan Wu, Jiaojiao Fang, Ning L&#252;, Gang Wang, Junjie Mao</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158854</guid>
+    </item>
+    <item>
+      <title>The Role of Effective Catalysts for Hydrogen Production: A Performance Evaluation</title>
+      <link>https://doi.org/10.1016/j.energy.2024.134257</link>
+      <description>A. Ya&#287;mur G&#246;ren, Mert Temiz, Do&#287;an Erdemir, &#304;brahim Din&#231;er, Energy. None(None)] 2024. https://openalex.org/W4405686151
+
+                No abstract</description>
+      <author>A. Ya&#287;mur G&#246;ren, Mert Temiz, Do&#287;an Erdemir, &#304;brahim Din&#231;er</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.134257</guid>
     </item>
     <item>
       <title>Development of the DES-contained reduced graphene oxide system with efficient CO2 adsorption and photothermal desorption for pre-gas purification in AEMFCs</title>

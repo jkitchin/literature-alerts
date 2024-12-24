@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Dec 2024 01:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 01:21:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Supplementary material to "Adiabatic and radiative cooling are both important causes of aerosol activation in simulated fog events in Europe"</title>
-      <link>https://doi.org/10.5194/egusphere-2024-3397-supplement</link>
-      <description>Pratapaditya Ghosh, Ian Boutle, Paul Field, A.H. Hill, Marie Mazoyer, Katherine J. Evans, Salil Mahajan, Hyun&#8208;Gyu Kang, Min Xu, Wei Zhang, Hamish Gordon, No host. None(None)] 2024. https://openalex.org/W4405417299
-
-                No abstract</description>
-      <author>Pratapaditya Ghosh, Ian Boutle, Paul Field, A.H. Hill, Marie Mazoyer, Katherine J. Evans, Salil Mahajan, Hyun&#8208;Gyu Kang, Min Xu, Wei Zhang, Hamish Gordon</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-3397-supplement</guid>
-    </item>
-    <item>
-      <title>Adiabatic and radiative cooling are both important causes of aerosol activation in simulated fog events in Europe</title>
-      <link>https://doi.org/10.5194/egusphere-2024-3397</link>
-      <description>Pratapaditya Ghosh, Ian Boutle, Paul R. Field, Adrian Hill, Marie Mazoyer, Katherine J. Evans, Salil Mahajan, Hyun&#8208;Gyu Kang, Min Xu, Wei Zhang, Hamish Gordon, No host. None(None)] 2024. https://openalex.org/W4405417311
-
-                Abstract. Aerosol-fog interactions affect the visibility in, and life cycle of, fog and are difficult to represent in weather and climate models. Here we explore processes that impact the simulation of fog droplet number concentrations (Nd) at sub-kilometer scale horizontal grid resolutions in the UK Met Office Unified Model. We modify the parameterization of aerosol activation to include droplet activation by radiative cooling in addition to adiabatic cooling, and determine the relative importance of the two cooling mechanisms. We further test the sensitivity of simulated Nd to: (a) interception of droplets by trees and buildings, (b) overestimation of updrafts in temperature inversions, which leads to artificially high Nd values; and (c) potential mechanisms for droplet deactivation due to downward fluctuations in supersaturation. We evaluate our model against observations from the ParisFog and LANFEX field campaigns, building on evaluation described in the companion paper. Including radiative cooling in the activation mechanism improves how accurately we represent the liquid water path and the vertical structure of the fog in our LANFEX case study. However, with radiative cooling the Nd are overestimated for most of the ParisFog cases, and the LANFEX case. The time-averaged overestimate exceeds a factor of four (the normalized mean bias factor exceeds 3.0) in four out of eleven ParisFog cases. Our sensitivity studies demonstrate how these overestimates can be mitigated. Assuming the overestimate affects both radiative and adiabatic cooling, we find that although radiative cooling is more often the dominant source, both cooling sources can sometimes dominate activation.</description>
-      <author>Pratapaditya Ghosh, Ian Boutle, Paul R. Field, Adrian Hill, Marie Mazoyer, Katherine J. Evans, Salil Mahajan, Hyun&#8208;Gyu Kang, Min Xu, Wei Zhang, Hamish Gordon</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-3397</guid>
-    </item>
     <item>
       <title>Supplementary material to "High sensitivity of simulated fog properties to parameterized aerosol activation in case studies from ParisFog"</title>
       <link>https://doi.org/10.5194/egusphere-2024-3376-supplement</link>

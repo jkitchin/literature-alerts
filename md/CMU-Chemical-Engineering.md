@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon Dec 23 01:22:34 2024
+Created on Tue Dec 24 01:21:20 2024
 
-Found 6 results from 2024-12-16 to 2024-12-23
+Found 4 results from 2024-12-17 to 2024-12-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Supplementary material to "Adiabatic and radiative cooling are both important causes of aerosol activation in simulated fog events in Europe"   
-
-OpenAlex: https://openalex.org/W4405417299    
-Open access: True
-    
-[Pratapaditya Ghosh](https://openalex.org/A5005781295), [Ian Boutle](https://openalex.org/A5039593473), [Paul Field](https://openalex.org/A5113916135), [A.H. Hill](https://openalex.org/A5082191095), [Marie Mazoyer](https://openalex.org/A5019629122), [Katherine J. Evans](https://openalex.org/A5079659440), [Salil Mahajan](https://openalex.org/A5023485909), [Hyun‐Gyu Kang](https://openalex.org/A5015919898), [Min Xu](https://openalex.org/A5103056228), [Wei Zhang](https://openalex.org/A5100441591), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-3397-supplement.
-    
-No abstract    
-
-    
-
-## Adiabatic and radiative cooling are both important causes of aerosol activation in simulated fog events in Europe   
-
-OpenAlex: https://openalex.org/W4405417311    
-Open access: True
-    
-[Pratapaditya Ghosh](https://openalex.org/A5005781295), [Ian Boutle](https://openalex.org/A5039593473), [Paul R. Field](https://openalex.org/A5114374113), [Adrian Hill](https://openalex.org/A5035347045), [Marie Mazoyer](https://openalex.org/A5019629122), [Katherine J. Evans](https://openalex.org/A5079659440), [Salil Mahajan](https://openalex.org/A5023485909), [Hyun‐Gyu Kang](https://openalex.org/A5015919898), [Min Xu](https://openalex.org/A5016240965), [Wei Zhang](https://openalex.org/A5100441591), [Hamish Gordon](https://openalex.org/A5086004922), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-2024-3397.
-    
-Abstract. Aerosol-fog interactions affect the visibility in, and life cycle of, fog and are difficult to represent in weather and climate models. Here we explore processes that impact the simulation of fog droplet number concentrations (Nd) at sub-kilometer scale horizontal grid resolutions in the UK Met Office Unified Model. We modify the parameterization of aerosol activation to include droplet activation by radiative cooling in addition to adiabatic cooling, and determine the relative importance of the two cooling mechanisms. We further test the sensitivity of simulated Nd to: (a) interception of droplets by trees and buildings, (b) overestimation of updrafts in temperature inversions, which leads to artificially high Nd values; and (c) potential mechanisms for droplet deactivation due to downward fluctuations in supersaturation. We evaluate our model against observations from the ParisFog and LANFEX field campaigns, building on evaluation described in the companion paper. Including radiative cooling in the activation mechanism improves how accurately we represent the liquid water path and the vertical structure of the fog in our LANFEX case study. However, with radiative cooling the Nd are overestimated for most of the ParisFog cases, and the LANFEX case. The time-averaged overestimate exceeds a factor of four (the normalized mean bias factor exceeds 3.0) in four out of eleven ParisFog cases. Our sensitivity studies demonstrate how these overestimates can be mitigated. Assuming the overestimate affects both radiative and adiabatic cooling, we find that although radiative cooling is more often the dominant source, both cooling sources can sometimes dominate activation.    
-
-    
 
 ## Supplementary material to "High sensitivity of simulated fog properties to parameterized aerosol activation in case studies from ParisFog"   
 

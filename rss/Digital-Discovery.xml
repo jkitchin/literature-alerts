@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Dec 2024 01:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 01:21:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Acquisition of absorption and fluorescence spectral data using chatbots</title>
-      <link>https://doi.org/10.1039/d4dd00255e</link>
-      <description>Masahiko Taniguchi, Jonathan S. Lindsey, Digital Discovery. None(None)] 2024. https://openalex.org/W4405421036
-
-                Spectra &#8211; the lifeblood of photochemistry &#8211; have been very difficult to find in the literature. Chatbots, remarkably, may enable their more efficient acquisition and prove to be generally powerful tools for searching the scientific literature.</description>
-      <author>Masahiko Taniguchi, Jonathan S. Lindsey</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00255e</guid>
-    </item>
     <item>
       <title>A Hitchhiker's Guide to Deep Chemical Language Processing for Bioactivity Prediction</title>
       <link>https://doi.org/10.1039/d4dd00311j</link>

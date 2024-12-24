@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Mon Dec 23 01:22:35 2024
+Created on Tue Dec 24 01:21:22 2024
 
-Found 7 results from 2024-12-16 to 2024-12-23
+Found 6 results from 2024-12-17 to 2024-12-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Acquisition of absorption and fluorescence spectral data using chatbots   
-
-OpenAlex: https://openalex.org/W4405421036    
-Open access: False
-    
-[Masahiko Taniguchi](https://openalex.org/A5066177154), [Jonathan S. Lindsey](https://openalex.org/A5083917347), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00255e.
-    
-Spectra – the lifeblood of photochemistry – have been very difficult to find in the literature. Chatbots, remarkably, may enable their more efficient acquisition and prove to be generally powerful tools for searching the scientific literature.    
-
-    
 
 ## A Hitchhiker's Guide to Deep Chemical Language Processing for Bioactivity Prediction   
 
