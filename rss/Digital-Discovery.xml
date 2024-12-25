@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Dec 2024 01:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 01:20:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Hitchhiker's Guide to Deep Chemical Language Processing for Bioactivity Prediction</title>
-      <link>https://doi.org/10.1039/d4dd00311j</link>
-      <description>R&#305;za &#214;z&#231;elik, Francesca Grisoni, Digital Discovery. None(None)] 2024. https://openalex.org/W4405454695
-
-                Deep learning has significantly accelerated drug discovery, with 'chemical language' processing (CLP) emerging as a prominent approach. CLP learns from molecular string representations (e.g., Simplified Molecular Input Line Entry Systems...</description>
-      <author>R&#305;za &#214;z&#231;elik, Francesca Grisoni</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00311j</guid>
-    </item>
     <item>
       <title>Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening</title>
       <link>https://doi.org/10.1039/d4dd00347k</link>

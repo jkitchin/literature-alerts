@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Tue Dec 24 01:21:17 2024
+Created on Wed Dec 25 01:20:01 2024
 
-Found 2 results from 2024-12-17 to 2024-12-24
+Found 2 results from 2024-12-18 to 2024-12-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 
@@ -22,7 +22,7 @@ Liquid metal-based processes offer significant possibilities in the realm of car
 OpenAlex: https://openalex.org/W4405597652    
 Open access: True
     
-[Jianye Gao](https://openalex.org/A5083945376), [Jun Zhao](https://openalex.org/A5108602781), [Zerong Xing](https://openalex.org/A5086869260), [Minghui Guo](https://openalex.org/A5076508346), [Haijiao Xie](https://openalex.org/A5085237771), [Wangjing Ma](https://openalex.org/A5112244650), [Jing Liu](https://openalex.org/A5100653469), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202412539.
+[Jianye Gao](https://openalex.org/A5083945376), [Jun Zhao](https://openalex.org/A5108602781), [Zerong Xing](https://openalex.org/A5086869260), [Minghui Guo](https://openalex.org/A5076508346), [Haijiao Xie](https://openalex.org/A5085237771), [Wangjing Ma](https://openalex.org/A5112244650), [Jing Liu](https://openalex.org/A5100374963), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202412539.
     
 Upcycling waste plastics is highly promising to tackle global white pollution while achieving sustainable development. However, prevailing approaches often encounter challenges in scalable engineering practices due to either insufficient plastic upcycling capability or arduousness in the separation, recovery, and purification of catalysts, which inevitably augments the cost of plastic upcycling. Here, the microwave-powered liquid metal synergetic depolymerization is presented to facilitate low-cost plastic upcycling. By leveraging the fluidity of liquid metals and their exceptional chemical-bond activation ability under microwave field, this method efficiently converts various polyolefins into narrowband hydrocarbon oil (Oil yield: 81 wt.% for polypropylene (PP), 85.9 wt.% for polyethylene (PE)) and high-value olefin monomers (C    
 

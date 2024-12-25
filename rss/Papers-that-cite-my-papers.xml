@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Dec 2024 01:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 01:20:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CO2 capture using Resin-Based solid Amines: Characteristic, Application, regeneration and deactivation mechanism</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.131125</link>
-      <description>Endian Hu, Li Lin, Kailun Chen, Jinglin Li, Yuchen Gao, Jingwen Chang, Weikai Qin, Yukun Zhao, Jianguo Jiang, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405436896
-
-                No abstract</description>
-      <author>Endian Hu, Li Lin, Kailun Chen, Jinglin Li, Yuchen Gao, Jingwen Chang, Weikai Qin, Yukun Zhao, Jianguo Jiang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131125</guid>
-    </item>
-    <item>
-      <title>Epitaxial Growth of Atomic-Layer Cu on Pd Nanocatalysts for Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acs.chemmater.4c02541</link>
-      <description>Shikai Liu, Chuqiao Shi, Chaokai Xu, Haichuan Zhang, Wenqi Li, Valent&#237;n Briega&#8208;Martos, Qian He, Yimo Han, Yao Yang, Chemistry of Materials. None(None)] 2024. https://openalex.org/W4405437565
-
-                No abstract</description>
-      <author>Shikai Liu, Chuqiao Shi, Chaokai Xu, Haichuan Zhang, Wenqi Li, Valent&#237;n Briega&#8208;Martos, Qian He, Yimo Han, Yao Yang</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c02541</guid>
-    </item>
-    <item>
-      <title>Balancing Activity and Stability through Compositional Engineering of Ternary PtNi&#8211;Au Alloy ORR Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c05269</link>
-      <description>Xianxian Xie, Valent&#237;n Briega&#8208;Martos, Pere Alemany, Athira Lekshmi Mohandas Sandhya, Tom&#225;&#353; &#352;k&#225;la, Miquel Gam&#243;n Rodr&#237;guez, Jaroslava Nov&#225;kov&#225;, Milan Dopita, Michael Vorochta, Albert Bruix, Serhiy Cherevko, Konstantin M. Neyman, Iva Matol&#305;&#769;nov&#225;, Ivan Khalakhan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405439103
-
-                No abstract</description>
-      <author>Xianxian Xie, Valent&#237;n Briega&#8208;Martos, Pere Alemany, Athira Lekshmi Mohandas Sandhya, Tom&#225;&#353; &#352;k&#225;la, Miquel Gam&#243;n Rodr&#237;guez, Jaroslava Nov&#225;kov&#225;, Milan Dopita, Michael Vorochta, Albert Bruix, Serhiy Cherevko, Konstantin M. Neyman, Iva Matol&#305;&#769;nov&#225;, Ivan Khalakhan</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05269</guid>
-    </item>
-    <item>
-      <title>Electronic Structure Modulated by B-Doped Cu Promotes Electrocatalytic Nitrate Reduction for Ammonia Production</title>
-      <link>https://doi.org/10.1021/acscatal.4c05954</link>
-      <description>Jia-Jia Wang, Zhuodong Ou, Chenglin Dong, Mengying Su, Amjad Ali, Artem V. Kuklin, Hans &#197;gren, Glib Baryshnikov, Yang Liu, Xue Zhao, Haibo Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405443274
-
-                No abstract</description>
-      <author>Jia-Jia Wang, Zhuodong Ou, Chenglin Dong, Mengying Su, Amjad Ali, Artem V. Kuklin, Hans &#197;gren, Glib Baryshnikov, Yang Liu, Xue Zhao, Haibo Zhang</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05954</guid>
-    </item>
-    <item>
-      <title>A Comprehensive Computer-Aided Review of Trends in Heterogeneous Catalysis and Its Theoretical Modelling for Engineering Catalytic Activity</title>
-      <link>https://doi.org/10.1080/00219592.2024.2360928</link>
-      <description>Gerardo Valadez Huerta, Kaoru Hisama, Michihisa Koyama, JOURNAL OF CHEMICAL ENGINEERING OF JAPAN. 57(1)] 2024. https://openalex.org/W4405443753
-
-                Writing scientific literature reviews is highly challenging, especially for broad topics like "heterogeneous catalysis" due to the explosion of knowledge. In this article, we introduce a machine-assisted approach aimed to facilitating this process. It integrates an automated summarization of several sources into the conventional method of writing a literature review. Our approach represents an initial trial to compile recent trends in heterogeneous catalysis. We chose the topic of heterogeneous catalysis due to its significance in various industrial processes and its multidisciplinary nature, which makes reviewing it challenging. The review highlights the pursuit of more advanced and complex catalysts to enhance catalytic performance. These advances significantly influence chemical reaction engineering, which combines reaction chemistry and chemical engineering. The trend of developing complex catalysts faces feasibility challenges, underscoring the importance of balancing practicality and potential benefits. In this interplay, the role of atomistic understanding becomes more important as it provides insights into the fundamental mechanisms governing catalyst behavior. Therefore, this review also covers advances in computational studies, particularly density functional theory calculations and the incorporation of new techniques. The wide scope of knowledge presented in this initial trial will facilitate further development in the field of chemical reaction engineering.</description>
-      <author>Gerardo Valadez Huerta, Kaoru Hisama, Michihisa Koyama</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/00219592.2024.2360928</guid>
-    </item>
-    <item>
-      <title>Quantum transport study of transition-metal dichalcogenide top-contacted geometries investigating the impact of nonuniform doping, dielectric environment, and image-force barrier lowering</title>
-      <link>https://doi.org/10.1103/physrevapplied.22.064058</link>
-      <description>Pranay Baikadi, William G. Vandenberghe, Peter D. Reyntjens, Raseong Kim, Maarten L. Van de Put, Physical Review Applied. 22(6)] 2024. https://openalex.org/W4405443859
-
-                No abstract</description>
-      <author>Pranay Baikadi, William G. Vandenberghe, Peter D. Reyntjens, Raseong Kim, Maarten L. Van de Put</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevapplied.22.064058</guid>
-    </item>
-    <item>
-      <title>Mechanical Properties of Nanoporous Graphenes: Transferability of Graph Machine&#8208;Learned Force Fields Compared to Local and Reactive Potentials</title>
-      <link>https://doi.org/10.1002/adfm.202417891</link>
-      <description>Adil M. Kabylda, Bohayra Mortazavi, Xiaoying Zhuang, Alexandre Tkatchenko, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4405456044
-
-                Abstract Nanoporous and chemically&#8208;bridged graphene nanosheets span a wide chemical space with a broad set of applications in sensing and electronics. Modeling the structure and dynamics of such nanosheets is challenging, as chemical bond making and breaking as well as non&#8208;covalent interactions must be captured accurately and on equal footing. Here it is showed that recent graph&#8208;based machine&#8208;learned force field (MLFF) SO3krates [J. T. Frank et al. , Nat. Commun. 15 , 6539 (2024)] is able to reliably model the dynamics and mechanical response for a broad class of nanoporous graphenes when trained on accurate density functional theory data that includes long&#8208;range many&#8208;body dispersion (MBD) interactions. In contrast, local moment tensor potentials and empirical reactive potentials are much less accurate. It is also found that recent MLFFs trained on solid&#8208;state datasets must be used with care, since even empirical potentials occasionally yield more accurate results. These findings highlight the potential of properly&#8208;trained graph MLFFs in modeling the properties of whole chemical spaces of complex functional materials.</description>
-      <author>Adil M. Kabylda, Bohayra Mortazavi, Xiaoying Zhuang, Alexandre Tkatchenko</author>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202417891</guid>
-    </item>
-    <item>
-      <title>Machine-Learning-Enabled Thermochemistry Estimator</title>
-      <link>https://doi.org/10.1021/acs.jcim.4c00989</link>
-      <description>Tianjun Xie, Gerhard R. Wittreich, Matthew T. Curnan, Geun Ho Gu, Kevin Seals, Justin S. Tolbert, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4405457459
-
-                Modeling adsorbates on single-crystal metals is critical in rational catalyst design and other research that requires detailed thermochemistry. First-principles simulations via density functional theory (DFT) are among the prevalent tools to acquire such information about surface species. While they are highly dependable, DFT calculations often require intensive computational resources and runtime. These limiting factors become particularly pronounced when investigating large sets of complex molecules on heavy noble metals. Consequently, our ability to explore these species and their corresponding energetics is limited. In this work, we establish a novel framework that utilizes techniques including molecular encoding, descriptor synthesis, and machine learning to overcome the limitation of costly DFT simulations. Simultaneously, we estimate thermochemical information efficiently at the DFT accuracy level. More specifically, we translated our training molecules into text-based identifiers through a simplified molecular-input line-entry system. Following that, we parametrize our training matrices with sets of short-range descriptors based on group methods, applying first the nearest neighbors to account for linear contributions. This is coupled with the long-range descriptors characterizing second nearest neighbors to account for nonlinear corrections. Finally, we use linear regression and machine learning techniques, such as Gaussian process regressions to regress over the linear and nonlinear matrix systems, respectively. This is the first work to our knowledge that encompasses both the first and second nearest neighbors based on the group theory throughout the featurization, training, and deployment stages. We trained and validated our models with 459 surface species on Pt(111), Ru(0001), and Ir(111) surfaces. Results exhibit robust performance to reproduce the energetics of interest, such as enthalpies, entropies, and heat capacities, at various temperatures. Notably, the mean absolute errors can be reduced by 48% during training and 19% during prediction at a minimum, when compared to the classical group method. Leveraging the novel framework, our machine-learning-enabled thermochemistry estimator significantly empowers us to research the thermochemistry of complex species on metal catalysts.</description>
-      <author>Tianjun Xie, Gerhard R. Wittreich, Matthew T. Curnan, Geun Ho Gu, Kevin Seals, Justin S. Tolbert</author>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jcim.4c00989</guid>
-    </item>
-    <item>
-      <title>Unavoidable Silicon Oxidation&#8212;the Key to Understanding the High Catalytic Activity of Si,N-Doped Carbon Nanotubes in Oxygen Electroreduction Reaction</title>
-      <link>https://doi.org/10.1134/s107036322411015x</link>
-      <description>Anton V. Kuzmin, Bagrat A. Shainyan, Russian Journal of General Chemistry. 94(11)] 2024. https://openalex.org/W4405461357
-
-                No abstract</description>
-      <author>Anton V. Kuzmin, Bagrat A. Shainyan</author>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1134/s107036322411015x</guid>
-    </item>
-    <item>
-      <title>Atomically precise MOF-Based electrocatalysts by design: Hydrogen evolution applications</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.134021</link>
-      <description>Aneeqa Areeb Amjad, Maida Murtaza, Syed Shoaib Ahmad Shah, Iftikhar Ahmad, Hussain Alawadhi, Waqas Ali Shah, Amir Waseem, Fuel. 385(None)] 2024. https://openalex.org/W4405463967
-
-                No abstract</description>
-      <author>Aneeqa Areeb Amjad, Maida Murtaza, Syed Shoaib Ahmad Shah, Iftikhar Ahmad, Hussain Alawadhi, Waqas Ali Shah, Amir Waseem</author>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.134021</guid>
-    </item>
-    <item>
-      <title>Insights into the Electrochemical Oxidation and Reduction of Nickel Oxide Surfaces</title>
-      <link>https://doi.org/10.1021/acsami.4c13187</link>
-      <description>Wenyu Sun, Nitish Govindarajan, Aditya Prajapati, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405465554
-
-                Surface oxidation/reduction processes, driven by varying electrochemical potentials, can substantially impact catalyst effectiveness and, consequently, electrolyzer performance. This study combines theoretical and experimental approaches to explore the surface redox behavior of nickel oxides, which are cost-effective and efficient catalysts for many electrochemical reactions. Surface Pourbaix diagrams for three different phases of nickel oxides, i.e., nickel hydroxide (Ni(OH)2), nickel oxyhydroxide (NiOOH), and nickel dioxide (NiO2), were constructed using density functional theory-based simulations. Various experimental methods, including cyclic voltammetry, in situ Raman spectroscopy, and electrochemical titration, were employed to probe the surface redox processes of nickel oxide thin films. Our findings indicate that the ABAB stacking sequence of Ni(OH)2 lacks stability under oxidizing conditions to host the surface oxidation (deprotonation) events, while the AABBCC stacking sequence of NiOOH is energetically favorable due to the presence of interlayer hydrogen bonding. Rapid charge transfer facilitated by interlayer hydrogen bonding accounts for the higher reactivity of partially oxidized/reduced NiOOH (001) surfaces compared to Ni(OH)2 (001) and NiO2 (001) surfaces with the same stoichiometry, where interlayer hydrogen bonding is absent. Insights presented in this work can offer guidelines for optimizing operational conditions and tailoring the surface structures and oxidation states of nickel oxides to enhance performance in applications such as electrocatalysis and supercapacitors.</description>
-      <author>Wenyu Sun, Nitish Govindarajan, Aditya Prajapati, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn</author>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c13187</guid>
-    </item>
     <item>
       <title>CO&lt;sub&gt;2&lt;/sub&gt; Poisoning of CN&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Catalysts for the Oxygen Reduction Reaction</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c07363</link>
@@ -480,10 +370,10 @@
     <item>
       <title>Theoretical investigations of hydroxyl-functionalized iron-doped phthalocyanine photocatalyst for efficient CO2 reduction to methanol and methane</title>
       <link>https://doi.org/10.1016/j.ces.2024.121121</link>
-      <description>Thangaraj Thiruppathiraja, Baker Rhimi, Shouxin Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4405662603
+      <description>Thangaraj Thiruppathiraja, Baker Rhimi, Na Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4405662603
 
                 No abstract</description>
-      <author>Thangaraj Thiruppathiraja, Baker Rhimi, Shouxin Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang</author>
+      <author>Thangaraj Thiruppathiraja, Baker Rhimi, Na Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.121121</guid>
     </item>
@@ -526,6 +416,36 @@
       <author>A. Ya&#287;mur G&#246;ren, Mert Temiz, Do&#287;an Erdemir, &#304;brahim Din&#231;er</author>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.134257</guid>
+    </item>
+    <item>
+      <title>The influence of multiple factors on the PtCo3 catalyst characteristics during the ORR process in proton exchange membrane fuel cells</title>
+      <link>https://doi.org/10.1016/j.renene.2024.122263</link>
+      <description>Chuanqi Luo, Kechuang Wan, Jue Wang, Bing Li, Daijun Yang, Pingwen Ming, Cunman Zhang, Renewable Energy. None(None)] 2024. https://openalex.org/W4405695428
+
+                No abstract</description>
+      <author>Chuanqi Luo, Kechuang Wan, Jue Wang, Bing Li, Daijun Yang, Pingwen Ming, Cunman Zhang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2024.122263</guid>
+    </item>
+    <item>
+      <title>Wannier-function software ecosystem for materials simulations</title>
+      <link>https://doi.org/10.1103/revmodphys.96.045008</link>
+      <description>Antimo Marrazzo, Sophie Beck, Elena R. Margine, Nicola Marzari, Arash A. Mostofi, Junfeng Qiao, Ivo Souza, Stepan S. Tsirkin, Jonathan R. Yates, Giovanni Pizzi, Reviews of Modern Physics. 96(4)] 2024. https://openalex.org/W4405717922
+
+                No abstract</description>
+      <author>Antimo Marrazzo, Sophie Beck, Elena R. Margine, Nicola Marzari, Arash A. Mostofi, Junfeng Qiao, Ivo Souza, Stepan S. Tsirkin, Jonathan R. Yates, Giovanni Pizzi</author>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/revmodphys.96.045008</guid>
+    </item>
+    <item>
+      <title>Assessment of electron&#8211;proton correlation functionals for vibrational spectra of shared-proton systems by constrained nuclear-electronic orbital density functional theory</title>
+      <link>https://doi.org/10.1063/5.0243086</link>
+      <description>Yuzhuo Yang, Yuzhe Zhang, Yang Yang, Xi Xu, The Journal of Chemical Physics. 161(24)] 2024. https://openalex.org/W4405725332
+
+                Proton transfer plays a crucial role in various chemical and biological processes. A major theoretical challenge in simulating proton transfer arises from the quantum nature of the proton. The constrained nuclear-electronic orbital (CNEO) framework was recently developed to efficiently and accurately account for nuclear quantum effects, particularly quantum nuclear delocalization effects, in quantum chemistry calculations and molecular dynamics simulations. In this paper, we systematically investigate challenging proton transfer modes in a series of shared-proton systems using CNEO density functional theory (CNEO-DFT), focusing on evaluating existing electron&#8211;proton correlation functionals. Our results show that CNEO-DFT accurately describes proton transfer vibrational modes and significantly outperforms conventional DFT. The inclusion of the epc17-2 electron&#8211;proton correlation functional in CNEO-DFT produces similar performance to that without electron&#8211;proton correlations, while the epc17-1 functional yields less accurate results, comparable with conventional DFT. These findings hold true for both asymmetrical and symmetrical shared-proton systems. Therefore, until a more accurate electron&#8211;proton correlation functional is developed, we currently recommend performing vibrational spectrum calculations using CNEO-DFT without electron&#8211;proton correlation functionals.</description>
+      <author>Yuzhuo Yang, Yuzhe Zhang, Yang Yang, Xi Xu</author>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0243086</guid>
     </item>
     <item>
       <title>Development of the DES-contained reduced graphene oxide system with efficient CO2 adsorption and photothermal desorption for pre-gas purification in AEMFCs</title>

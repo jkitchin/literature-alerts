@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Dec 24 01:21:34 2024
+Created on Wed Dec 25 01:20:11 2024
 
-Found 53 results from 2024-12-17 to 2024-12-24
+Found 45 results from 2024-12-18 to 2024-12-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502]]
@@ -16,237 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605]]
-
-* CO2 capture using Resin-Based solid Amines: Characteristic, Application, regeneration and deactivation mechanism  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405436896
-:TOPICS: Carbon Dioxide Capture Technologies, Membrane Separation and Gas Transport, Chemical Looping and Thermochemical Processes
-:PUBLICATION_DATE: 2024-12-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.seppur.2024.131125")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405436896"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405436896"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405436896"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405436896 (Open access: False)
-    
-[[https://openalex.org/A5086300872][Endian Hu]], [[https://openalex.org/A5103660313][Li Lin]], [[https://openalex.org/A5101598450][Kailun Chen]], [[https://openalex.org/A5100697370][Jinglin Li]], [[https://openalex.org/A5101523141][Yuchen Gao]], [[https://openalex.org/A5113426817][Jingwen Chang]], [[https://openalex.org/A5114190408][Weikai Qin]], [[https://openalex.org/A5078041075][Yukun Zhao]], [[https://openalex.org/A5000562106][Jianguo Jiang]], Separation and Purification Technology. None(None)] 2024. https://doi.org/10.1016/j.seppur.2024.131125 
-     
-No abstract    
-
-    
-
-* Epitaxial Growth of Atomic-Layer Cu on Pd Nanocatalysts for Electrochemical CO2 Reduction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405437565
-:TOPICS: CO2 Reduction Techniques and Catalysts, Electrocatalysts for Energy Conversion, Molecular Junctions and Nanostructures
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.chemmater.4c02541")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405437565"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405437565"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405437565"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405437565 (Open access: False)
-    
-[[https://openalex.org/A5028280303][Shikai Liu]], [[https://openalex.org/A5004519462][Chuqiao Shi]], [[https://openalex.org/A5087771843][Chaokai Xu]], [[https://openalex.org/A5077844613][Haichuan Zhang]], [[https://openalex.org/A5100461994][Wenqi Li]], [[https://openalex.org/A5028984197][Valentín Briega‐Martos]], [[https://openalex.org/A5051694258][Qian He]], [[https://openalex.org/A5049862280][Yimo Han]], [[https://openalex.org/A5012460628][Yao Yang]], Chemistry of Materials. None(None)] 2024. https://doi.org/10.1021/acs.chemmater.4c02541 
-     
-No abstract    
-
-    
-
-* Balancing Activity and Stability through Compositional Engineering of Ternary PtNi–Au Alloy ORR Catalysts  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405439103
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Catalysis and Hydrodesulfurization Studies
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05269")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405439103"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405439103"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405439103"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405439103 (Open access: True)
-    
-[[https://openalex.org/A5037568967][Xianxian Xie]], [[https://openalex.org/A5028984197][Valentín Briega‐Martos]], [[https://openalex.org/A5067024627][Pere Alemany]], [[https://openalex.org/A5003898057][Athira Lekshmi Mohandas Sandhya]], [[https://openalex.org/A5079336887][Tomáš Škála]], [[https://openalex.org/A5006021426][Miquel Gamón Rodríguez]], [[https://openalex.org/A5007700085][Jaroslava Nováková]], [[https://openalex.org/A5019731183][Milan Dopita]], [[https://openalex.org/A5043951136][Michael Vorochta]], [[https://openalex.org/A5061069452][Albert Bruix]], [[https://openalex.org/A5073666601][Serhiy Cherevko]], [[https://openalex.org/A5032114586][Konstantin M. Neyman]], [[https://openalex.org/A5101902616][Iva Matolı́nová]], [[https://openalex.org/A5039409285][Ivan Khalakhan]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05269 
-     
-No abstract    
-
-    
-
-* Electronic Structure Modulated by B-Doped Cu Promotes Electrocatalytic Nitrate Reduction for Ammonia Production  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405443274
-:TOPICS: Ammonia Synthesis and Nitrogen Reduction, Caching and Content Delivery, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c05954")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405443274"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405443274"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405443274"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405443274 (Open access: False)
-    
-[[https://openalex.org/A5019708174][Jia-Jia Wang]], [[https://openalex.org/A5102616845][Zhuodong Ou]], [[https://openalex.org/A5068274551][Chenglin Dong]], [[https://openalex.org/A5090722028][Mengying Su]], [[https://openalex.org/A5029454973][Amjad Ali]], [[https://openalex.org/A5087272960][Artem V. Kuklin]], [[https://openalex.org/A5053665869][Hans Ågren]], [[https://openalex.org/A5072409817][Glib Baryshnikov]], [[https://openalex.org/A5100355901][Yang Liu]], [[https://openalex.org/A5057904713][Xue Zhao]], [[https://openalex.org/A5039480955][Haibo Zhang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c05954 
-     
-No abstract    
-
-    
-
-* A Comprehensive Computer-Aided Review of Trends in Heterogeneous Catalysis and Its Theoretical Modelling for Engineering Catalytic Activity  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405443753
-:TOPICS: Machine Learning in Materials Science, Catalytic Processes in Materials Science, Catalysis and Oxidation Reactions
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1080/00219592.2024.2360928")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405443753"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405443753"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405443753"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405443753 (Open access: True)
-    
-[[https://openalex.org/A5033717894][Gerardo Valadez Huerta]], [[https://openalex.org/A5000424688][Kaoru Hisama]], [[https://openalex.org/A5060491556][Michihisa Koyama]], JOURNAL OF CHEMICAL ENGINEERING OF JAPAN. 57(1)] 2024. https://doi.org/10.1080/00219592.2024.2360928  ([[https://www.tandfonline.com/doi/pdf/10.1080/00219592.2024.2360928?needAccess=true][pdf]])
-     
-Writing scientific literature reviews is highly challenging, especially for broad topics like "heterogeneous catalysis" due to the explosion of knowledge. In this article, we introduce a machine-assisted approach aimed to facilitating this process. It integrates an automated summarization of several sources into the conventional method of writing a literature review. Our approach represents an initial trial to compile recent trends in heterogeneous catalysis. We chose the topic of heterogeneous catalysis due to its significance in various industrial processes and its multidisciplinary nature, which makes reviewing it challenging. The review highlights the pursuit of more advanced and complex catalysts to enhance catalytic performance. These advances significantly influence chemical reaction engineering, which combines reaction chemistry and chemical engineering. The trend of developing complex catalysts faces feasibility challenges, underscoring the importance of balancing practicality and potential benefits. In this interplay, the role of atomistic understanding becomes more important as it provides insights into the fundamental mechanisms governing catalyst behavior. Therefore, this review also covers advances in computational studies, particularly density functional theory calculations and the incorporation of new techniques. The wide scope of knowledge presented in this initial trial will facilitate further development in the field of chemical reaction engineering.    
-
-    
-
-* Quantum transport study of transition-metal dichalcogenide top-contacted geometries investigating the impact of nonuniform doping, dielectric environment, and image-force barrier lowering  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405443859
-:TOPICS: 2D Materials and Applications, Quantum Dots Synthesis And Properties, Perovskite Materials and Applications
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1103/physrevapplied.22.064058")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405443859"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405443859"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405443859"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405443859 (Open access: False)
-    
-[[https://openalex.org/A5040055701][Pranay Baikadi]], [[https://openalex.org/A5089824285][William G. Vandenberghe]], [[https://openalex.org/A5041801561][Peter D. Reyntjens]], [[https://openalex.org/A5004923298][Raseong Kim]], [[https://openalex.org/A5038775065][Maarten L. Van de Put]], Physical Review Applied. 22(6)] 2024. https://doi.org/10.1103/physrevapplied.22.064058 
-     
-No abstract    
-
-    
-
-* Mechanical Properties of Nanoporous Graphenes: Transferability of Graph Machine‐Learned Force Fields Compared to Local and Reactive Potentials  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405456044
-:TOPICS: Graphene research and applications, Nanoporous metals and alloys, Machine Learning in Materials Science
-:PUBLICATION_DATE: 2024-12-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202417891")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405456044"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405456044"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405456044"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405456044 (Open access: True)
-    
-[[https://openalex.org/A5059647466][Adil M. Kabylda]], [[https://openalex.org/A5027418869][Bohayra Mortazavi]], [[https://openalex.org/A5069067424][Xiaoying Zhuang]], [[https://openalex.org/A5026929463][Alexandre Tkatchenko]], Advanced Functional Materials. None(None)] 2024. https://doi.org/10.1002/adfm.202417891  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202417891][pdf]])
-     
-Abstract Nanoporous and chemically‐bridged graphene nanosheets span a wide chemical space with a broad set of applications in sensing and electronics. Modeling the structure and dynamics of such nanosheets is challenging, as chemical bond making and breaking as well as non‐covalent interactions must be captured accurately and on equal footing. Here it is showed that recent graph‐based machine‐learned force field (MLFF) SO3krates [J. T. Frank et al. , Nat. Commun. 15 , 6539 (2024)] is able to reliably model the dynamics and mechanical response for a broad class of nanoporous graphenes when trained on accurate density functional theory data that includes long‐range many‐body dispersion (MBD) interactions. In contrast, local moment tensor potentials and empirical reactive potentials are much less accurate. It is also found that recent MLFFs trained on solid‐state datasets must be used with care, since even empirical potentials occasionally yield more accurate results. These findings highlight the potential of properly‐trained graph MLFFs in modeling the properties of whole chemical spaces of complex functional materials.    
-
-    
-
-* Machine-Learning-Enabled Thermochemistry Estimator  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405457459
-:TOPICS: Machine Learning in Materials Science, Computational Drug Discovery Methods, CO2 Reduction Techniques and Catalysts
-:PUBLICATION_DATE: 2024-12-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jcim.4c00989")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405457459"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405457459"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405457459"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405457459 (Open access: False)
-    
-[[https://openalex.org/A5034813990][Tianjun Xie]], [[https://openalex.org/A5044670426][Gerhard R. Wittreich]], [[https://openalex.org/A5054853131][Matthew T. Curnan]], [[https://openalex.org/A5078798665][Geun Ho Gu]], [[https://openalex.org/A5023254655][Kevin Seals]], [[https://openalex.org/A5115498273][Justin S. Tolbert]], Journal of Chemical Information and Modeling. None(None)] 2024. https://doi.org/10.1021/acs.jcim.4c00989 
-     
-Modeling adsorbates on single-crystal metals is critical in rational catalyst design and other research that requires detailed thermochemistry. First-principles simulations via density functional theory (DFT) are among the prevalent tools to acquire such information about surface species. While they are highly dependable, DFT calculations often require intensive computational resources and runtime. These limiting factors become particularly pronounced when investigating large sets of complex molecules on heavy noble metals. Consequently, our ability to explore these species and their corresponding energetics is limited. In this work, we establish a novel framework that utilizes techniques including molecular encoding, descriptor synthesis, and machine learning to overcome the limitation of costly DFT simulations. Simultaneously, we estimate thermochemical information efficiently at the DFT accuracy level. More specifically, we translated our training molecules into text-based identifiers through a simplified molecular-input line-entry system. Following that, we parametrize our training matrices with sets of short-range descriptors based on group methods, applying first the nearest neighbors to account for linear contributions. This is coupled with the long-range descriptors characterizing second nearest neighbors to account for nonlinear corrections. Finally, we use linear regression and machine learning techniques, such as Gaussian process regressions to regress over the linear and nonlinear matrix systems, respectively. This is the first work to our knowledge that encompasses both the first and second nearest neighbors based on the group theory throughout the featurization, training, and deployment stages. We trained and validated our models with 459 surface species on Pt(111), Ru(0001), and Ir(111) surfaces. Results exhibit robust performance to reproduce the energetics of interest, such as enthalpies, entropies, and heat capacities, at various temperatures. Notably, the mean absolute errors can be reduced by 48% during training and 19% during prediction at a minimum, when compared to the classical group method. Leveraging the novel framework, our machine-learning-enabled thermochemistry estimator significantly empowers us to research the thermochemistry of complex species on metal catalysts.    
-
-    
-
-* Unavoidable Silicon Oxidation—the Key to Understanding the High Catalytic Activity of Si,N-Doped Carbon Nanotubes in Oxygen Electroreduction Reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405461357
-:TOPICS: Electrocatalysts for Energy Conversion, Electrochemical Analysis and Applications, Fuel Cells and Related Materials
-:PUBLICATION_DATE: 2024-11-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1134/s107036322411015x")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405461357"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405461357"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405461357"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405461357 (Open access: False)
-    
-[[https://openalex.org/A5003248089][Anton V. Kuzmin]], [[https://openalex.org/A5024449490][Bagrat A. Shainyan]], Russian Journal of General Chemistry. 94(11)] 2024. https://doi.org/10.1134/s107036322411015x 
-     
-No abstract    
-
-    
-
-* Atomically precise MOF-Based electrocatalysts by design: Hydrogen evolution applications  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405463967
-:TOPICS: Electrocatalysts for Energy Conversion, Catalytic Processes in Materials Science, Advanced Photocatalysis Techniques
-:PUBLICATION_DATE: 2024-12-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.fuel.2024.134021")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405463967"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405463967"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405463967"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405463967 (Open access: False)
-    
-[[https://openalex.org/A5091954313][Aneeqa Areeb Amjad]], [[https://openalex.org/A5055305662][Maida Murtaza]], [[https://openalex.org/A5038108109][Syed Shoaib Ahmad Shah]], [[https://openalex.org/A5013234771][Iftikhar Ahmad]], [[https://openalex.org/A5064003107][Hussain Alawadhi]], [[https://openalex.org/A5063174268][Waqas Ali Shah]], [[https://openalex.org/A5041305967][Amir Waseem]], Fuel. 385(None)] 2024. https://doi.org/10.1016/j.fuel.2024.134021 
-     
-No abstract    
-
-    
-
-* Insights into the Electrochemical Oxidation and Reduction of Nickel Oxide Surfaces  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4405465554
-:TOPICS: Electrocatalysts for Energy Conversion, Advanced battery technologies research, Supercapacitor Materials and Fabrication
-:PUBLICATION_DATE: 2024-12-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c13187")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405465554"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405465554"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405465554"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4405465554 (Open access: False)
-    
-[[https://openalex.org/A5028727210][Wenyu Sun]], [[https://openalex.org/A5023895763][Nitish Govindarajan]], [[https://openalex.org/A5049586249][Aditya Prajapati]], [[https://openalex.org/A5100754516][Jiayi Huang]], [[https://openalex.org/A5045214290][Hossein Bemana]], [[https://openalex.org/A5068592301][Jeremy T. Feaster]], [[https://openalex.org/A5042139840][Sneha A. Akhade]], [[https://openalex.org/A5018580006][Nikolay Kornienko]], [[https://openalex.org/A5051674745][Christopher Hahn]], ACS Applied Materials & Interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.4c13187 
-     
-Surface oxidation/reduction processes, driven by varying electrochemical potentials, can substantially impact catalyst effectiveness and, consequently, electrolyzer performance. This study combines theoretical and experimental approaches to explore the surface redox behavior of nickel oxides, which are cost-effective and efficient catalysts for many electrochemical reactions. Surface Pourbaix diagrams for three different phases of nickel oxides, i.e., nickel hydroxide (Ni(OH)2), nickel oxyhydroxide (NiOOH), and nickel dioxide (NiO2), were constructed using density functional theory-based simulations. Various experimental methods, including cyclic voltammetry, in situ Raman spectroscopy, and electrochemical titration, were employed to probe the surface redox processes of nickel oxide thin films. Our findings indicate that the ABAB stacking sequence of Ni(OH)2 lacks stability under oxidizing conditions to host the surface oxidation (deprotonation) events, while the AABBCC stacking sequence of NiOOH is energetically favorable due to the presence of interlayer hydrogen bonding. Rapid charge transfer facilitated by interlayer hydrogen bonding accounts for the higher reactivity of partially oxidized/reduced NiOOH (001) surfaces compared to Ni(OH)2 (001) and NiO2 (001) surfaces with the same stoichiometry, where interlayer hydrogen bonding is absent. Insights presented in this work can offer guidelines for optimizing operational conditions and tailoring the surface structures and oxidation states of nickel oxides to enhance performance in applications such as electrocatalysis and supercapacitors.    
-
-    
 
 * CO2 Poisoning of CNx Catalysts for the Oxygen Reduction Reaction  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1019,7 +788,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4405662603 (Open access: False)
     
-[[https://openalex.org/A5047567652][Thangaraj Thiruppathiraja]], [[https://openalex.org/A5030767611][Baker Rhimi]], [[https://openalex.org/A5101742243][Shouxin Zhang]], [[https://openalex.org/A5013981206][Min Zhou]], [[https://openalex.org/A5041067396][Weidong Shi]], [[https://openalex.org/A5103210498][Zhifeng Jiang]], Chemical Engineering Science. None(None)] 2024. https://doi.org/10.1016/j.ces.2024.121121 
+[[https://openalex.org/A5047567652][Thangaraj Thiruppathiraja]], [[https://openalex.org/A5030767611][Baker Rhimi]], [[https://openalex.org/A5115594262][Na Zhang]], [[https://openalex.org/A5013981206][Min Zhou]], [[https://openalex.org/A5041067396][Weidong Shi]], [[https://openalex.org/A5103210498][Zhifeng Jiang]], Chemical Engineering Science. None(None)] 2024. https://doi.org/10.1016/j.ces.2024.121121 
      
 No abstract    
 
@@ -1106,6 +875,69 @@ OpenAlex: https://openalex.org/W4405686151 (Open access: False)
 [[https://openalex.org/A5020016731][A. Yağmur Gören]], [[https://openalex.org/A5042223044][Mert Temiz]], [[https://openalex.org/A5006232991][Doğan Erdemir]], [[https://openalex.org/A5019779057][İbrahim Dinçer]], Energy. None(None)] 2024. https://doi.org/10.1016/j.energy.2024.134257 
      
 No abstract    
+
+    
+
+* The influence of multiple factors on the PtCo3 catalyst characteristics during the ORR process in proton exchange membrane fuel cells  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405695428
+:TOPICS: Fuel Cells and Related Materials, Electrocatalysts for Energy Conversion, Machine Learning in Materials Science
+:PUBLICATION_DATE: 2024-12-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.renene.2024.122263")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405695428"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405695428"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405695428"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405695428 (Open access: False)
+    
+[[https://openalex.org/A5023433080][Chuanqi Luo]], [[https://openalex.org/A5049785358][Kechuang Wan]], [[https://openalex.org/A5100440591][Jue Wang]], [[https://openalex.org/A5100649727][Bing Li]], [[https://openalex.org/A5113828279][Daijun Yang]], [[https://openalex.org/A5041998177][Pingwen Ming]], [[https://openalex.org/A5078891674][Cunman Zhang]], Renewable Energy. None(None)] 2024. https://doi.org/10.1016/j.renene.2024.122263 
+     
+No abstract    
+
+    
+
+* Wannier-function software ecosystem for materials simulations  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405717922
+:TOPICS: Graphene research and applications, Topological Materials and Phenomena, Thermal properties of materials
+:PUBLICATION_DATE: 2024-12-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1103/revmodphys.96.045008")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405717922"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405717922"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405717922"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405717922 (Open access: False)
+    
+[[https://openalex.org/A5045773126][Antimo Marrazzo]], [[https://openalex.org/A5069227782][Sophie Beck]], [[https://openalex.org/A5009006126][Elena R. Margine]], [[https://openalex.org/A5005167296][Nicola Marzari]], [[https://openalex.org/A5026919665][Arash A. Mostofi]], [[https://openalex.org/A5055699717][Junfeng Qiao]], [[https://openalex.org/A5027370672][Ivo Souza]], [[https://openalex.org/A5033191368][Stepan S. Tsirkin]], [[https://openalex.org/A5011966222][Jonathan R. Yates]], [[https://openalex.org/A5012427316][Giovanni Pizzi]], Reviews of Modern Physics. 96(4)] 2024. https://doi.org/10.1103/revmodphys.96.045008 
+     
+No abstract    
+
+    
+
+* Assessment of electron–proton correlation functionals for vibrational spectra of shared-proton systems by constrained nuclear-electronic orbital density functional theory  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4405725332
+:TOPICS: Advanced Chemical Physics Studies, Spectroscopy and Quantum Chemical Studies, Electron Spin Resonance Studies
+:PUBLICATION_DATE: 2024-12-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0243086")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4405725332"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4405725332"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4405725332"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4405725332 (Open access: False)
+    
+[[https://openalex.org/A5001835202][Yuzhuo Yang]], [[https://openalex.org/A5100727265][Yuzhe Zhang]], [[https://openalex.org/A5104977762][Yang Yang]], [[https://openalex.org/A5080018735][Xi Xu]], The Journal of Chemical Physics. 161(24)] 2024. https://doi.org/10.1063/5.0243086 
+     
+Proton transfer plays a crucial role in various chemical and biological processes. A major theoretical challenge in simulating proton transfer arises from the quantum nature of the proton. The constrained nuclear-electronic orbital (CNEO) framework was recently developed to efficiently and accurately account for nuclear quantum effects, particularly quantum nuclear delocalization effects, in quantum chemistry calculations and molecular dynamics simulations. In this paper, we systematically investigate challenging proton transfer modes in a series of shared-proton systems using CNEO density functional theory (CNEO-DFT), focusing on evaluating existing electron–proton correlation functionals. Our results show that CNEO-DFT accurately describes proton transfer vibrational modes and significantly outperforms conventional DFT. The inclusion of the epc17-2 electron–proton correlation functional in CNEO-DFT produces similar performance to that without electron–proton correlations, while the epc17-1 functional yields less accurate results, comparable with conventional DFT. These findings hold true for both asymmetrical and symmetrical shared-proton systems. Therefore, until a more accurate electron–proton correlation functional is developed, we currently recommend performing vibrational spectrum calculations using CNEO-DFT without electron–proton correlation functionals.    
 
     
 

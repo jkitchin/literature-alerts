@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Tue Dec 24 01:21:22 2024
+Created on Wed Dec 25 01:20:04 2024
 
-Found 6 results from 2024-12-17 to 2024-12-24
+Found 5 results from 2024-12-18 to 2024-12-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## A Hitchhiker's Guide to Deep Chemical Language Processing for Bioactivity Prediction   
-
-OpenAlex: https://openalex.org/W4405454695    
-Open access: True
-    
-[Rıza Özçelik](https://openalex.org/A5015409355), [Francesca Grisoni](https://openalex.org/A5078946433), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00311j.
-    
-Deep learning has significantly accelerated drug discovery, with 'chemical language' processing (CLP) emerging as a prominent approach. CLP learns from molecular string representations (e.g., Simplified Molecular Input Line Entry Systems...    
-
-    
 
 ## Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening   
 
