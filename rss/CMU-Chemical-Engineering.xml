@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Dec 2024 01:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 01:20:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ligand Binding Kinetics to Evaluate Function and Stability of A2AR in Nanodiscs</title>
-      <link>https://doi.org/10.1016/j.bpj.2024.12.018</link>
-      <description>John M. Pettersen, Olivia McCracken, Anne S. Robinson, Biophysical Journal. None(None)] 2024. https://openalex.org/W4405492760
-
-                No abstract</description>
-      <author>John M. Pettersen, Olivia McCracken, Anne S. Robinson</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.bpj.2024.12.018</guid>
-    </item>
     <item>
       <title>Multiphase Computational Fluid Dynamics Modeling of Reacting Flows in Absorption Columns for Carbon Capture</title>
       <link>https://doi.org/10.2139/ssrn.5069595</link>

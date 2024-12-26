@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Dec 2024 01:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 01:20:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening</title>
-      <link>https://doi.org/10.1039/d4dd00347k</link>
-      <description>Felix Katzenburg, Florian Boser, Felix Sch&#228;fer, Philipp Pflueger, Frank Glorius, Digital Discovery. None(None)] 2024. https://openalex.org/W4405473080
-
-                The accelerated generation of reaction data through high-throughput experimentation and automation has the potential to boost organic synthesis. However, efforts to generate diverse reaction datasets or identify generally applicable reaction...</description>
-      <author>Felix Katzenburg, Florian Boser, Felix Sch&#228;fer, Philipp Pflueger, Frank Glorius</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00347k</guid>
-    </item>
-    <item>
-      <title>Schedule Optimization for Chemical Library Synthesis</title>
-      <link>https://doi.org/10.1039/d4dd00327f</link>
-      <description>Qianxiang Ai, Fanwang Meng, Runzhong Wang, Joachim Klein, Alexander G. Godfrey, Connor W. Coley, Digital Discovery. None(None)] 2024. https://openalex.org/W4405502589
-
-                Automated chemistry platforms hold the potential to enable large-scale organic synthesis campaigns, such as producing a library of compounds for biological evaluation. The efficiency of such platforms will depend on...</description>
-      <author>Qianxiang Ai, Fanwang Meng, Runzhong Wang, Joachim Klein, Alexander G. Godfrey, Connor W. Coley</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00327f</guid>
-    </item>
     <item>
       <title>Hybrid-LLM-GNN: Integrating Large Language Models and Graph Neural Networks for Enhanced Materials Property Prediction</title>
       <link>https://doi.org/10.1039/d4dd00199k</link>
@@ -56,6 +36,16 @@
       <author>Gianmarco Gabrieli, I. Morales, Dimitrios Christofidellis, Mara Graziani, Andrea Giovannini, Federico Zipoli, Amol Thakkar, Antonio Foncubierta, Matteo Manica, Patrick Ruch</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dd00287c</guid>
+    </item>
+    <item>
+      <title>Predicting homopolymer and copolymer solubility through machine learning</title>
+      <link>https://doi.org/10.1039/d4dd00290c</link>
+      <description>Christopher D. Stubbs, Yeonjoon Kim, Ethan C. Quinn, Ra&#250;l P&#233;rez&#8208;Soto, Eugene Y.&#8208;X. Chen, Seonah Kim, Digital Discovery. None(None)] 2024. https://openalex.org/W4405714714
+
+                Polymer solubility has applications in many important and diverse fields, including microprocessor fabrication, environmental conservation, paint formulation, and drug delivery, but it remains under-explored compared to its relative importance. This...</description>
+      <author>Christopher D. Stubbs, Yeonjoon Kim, Ethan C. Quinn, Ra&#250;l P&#233;rez&#8208;Soto, Eugene Y.&#8208;X. Chen, Seonah Kim</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00290c</guid>
     </item>
   </channel>
 </rss>

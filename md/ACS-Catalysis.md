@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Dec 25 01:20:02 2024
+Created on Thu Dec 26 01:20:27 2024
 
-Found 35 results from 2024-12-18 to 2024-12-25
+Found 35 results from 2024-12-19 to 2024-12-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Sustainable H2 Production from Lignocellulosic Biomass over MoS2 Modified Sulfur Vacancy Enriched ZnIn2S4 Photocatalyst   
-
-OpenAlex: https://openalex.org/W4405474939    
-Open access: False
-    
-[Jiping Tang](https://openalex.org/A5040707894), [Yan Chen](https://openalex.org/A5101435389), [Ziyi Wang](https://openalex.org/A5101627513), [Yun-Hui Hu](https://openalex.org/A5114225143), [Jiahao Wang](https://openalex.org/A5100329212), [Liang Bao](https://openalex.org/A5085458165), [Zong‐Yan Zhao](https://openalex.org/A5059995024), [Yong‐Jun Yuan](https://openalex.org/A5028369122), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05707.
-    
-Exploring visible-light-responsive photocatalysts for photocatalytic lignocellulosic biomass-to-H2 conversion remains a glamorous but challenging goal because the photogenerated holes cannot directly transfer to biomass owing to the absence of a charge transfer channel. Herein, we design ZnIn2S4 nanosheets with abundant sulfur vacancy (VS-ZnIn2S4) as visible light responsive photocatalysts for photocatalytic H2 production from lignocellulosic biomass in the presence of MoS2 as the cocatalyst. In this smartly designed photocatalysts, the sulfur vacancy in ZnIn2S4 reduces the energy barrier of •OH generation reaction and results in the fast dynamics for the generation of •OH, which acts as the crucial species for the oxygenolysis of lignocellulosic biomass. As expected, the H2 generation rate of the optimized MoS2/VS-ZnIn2S4 photocatalyst in α-cellulose and bamboo powder aqueous solution achieves 1572 and 133 μmol·g–1·h–1, respectively. This study validates the feasibility of sulfur vacancy to boost visible light photocatalytic conversion of lignocellulosic biomass into H2 fuel.    
-
-    
-
-## Recent Developments and Challenges in the Enzymatic Formation of Nitrogen–Nitrogen Bonds   
-
-OpenAlex: https://openalex.org/W4405486704    
-Open access: True
-    
-[Charitomeni Angeli](https://openalex.org/A5115512755), [Sara Atienza-Sanz](https://openalex.org/A5115512756), [Simon Schröder](https://openalex.org/A5102773313), [Alexander Hein](https://openalex.org/A5103250669), [Yongxin Li](https://openalex.org/A5100405250), [Alexander Argyrou](https://openalex.org/A5115512757), [Angelina Osipyan](https://openalex.org/A5026323739), [Henrik Terholsen](https://openalex.org/A5031922781), [Sandy Schmidt](https://openalex.org/A5030580114), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05268.
-    
-The biological formation of nitrogen–nitrogen (N–N) bonds represents intriguing reactions that have attracted much attention in the past decade. This interest has led to an increasing number of N–N bond-containing natural products (NPs) and related enzymes that catalyze their formation (referred to in this review as NNzymes) being elucidated and studied in greater detail. While more detailed information on the biosynthesis of N–N bond-containing NPs, which has only become available in recent years, provides an unprecedented source of biosynthetic enzymes, their potential for biocatalytic applications has been minimally explored. With this review, we aim not only to provide a comprehensive overview of both characterized NNzymes and hypothetical biocatalysts with putative N–N bond forming activity, but also to highlight the potential of NNzymes from a biocatalytic perspective. We also present and compare conventional synthetic approaches to linear and cyclic hydrazines, hydrazides, diazo- and nitroso-groups, triazenes, and triazoles to allow comparison with enzymatic routes via NNzymes to these N–N bond-containing functional groups. Moreover, the biosynthetic pathways as well as the diversity and reaction mechanisms of NNzymes are presented according to the direct functional groups currently accessible to these enzymes.    
-
-    
-
-## Reactivity and Mechanism of Recoverable Pd1@C3N4 Single-Atom Catalyst in Buchwald–Hartwig Aminations   
-
-OpenAlex: https://openalex.org/W4405494682    
-Open access: True
-    
-[Georgios Giannakakis](https://openalex.org/A5003291079), [Marc‐Eduard Usteri](https://openalex.org/A5066101988), [Aram L. Bugaev](https://openalex.org/A5041768941), [Andrea Ruiz‐Ferrando](https://openalex.org/A5060916943), [Dario Faust Akl](https://openalex.org/A5081644765), [Núria López](https://openalex.org/A5100605805), [Serena Fantasia](https://openalex.org/A5014594623), [Kurt Püntener](https://openalex.org/A5083525289), [Javier Pérez‐Ramírez](https://openalex.org/A5007349453), [Sharon Mitchell](https://openalex.org/A5012059689), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05134.
-    
-Buchwald–Hartwig (BH) aminations are crucial for synthesizing arylamine motifs in numerous bioactive molecules and fine chemicals. While homogeneous palladium complexes can be effective catalysts, their high costs and environmental impact motivate the search for alternative approaches. Heterogeneous palladium single-atom catalysts (SAC) offer promising recoverable alternatives in C–C cross-couplings. Yet their use in C–N couplings remains unexplored, and mechanistic insights into amine coupling with aryl halides over solid surfaces that could guide catalyst design are lacking. Here, we demonstrate that palladium atoms coordinated to well-defined heptazinic cavities of graphitic carbon nitride (Pd1@C3N4) deliver practically relevant yields for BH couplings across various aryl halides and amines, exhibiting persistent activity and negligible leaching over several cycles. Notably, Pd1@C3N4 shows comparable or superior activity with certain aryl chlorides to bromides, alongside high chemoselectivity for amines over amides. In situ X-ray absorption spectroscopy analyses supported by density functional theory simulations identify the concerted role of the ligand and the C3N4 host in determining the performance, with a Pd(II) nominal oxidation state observed under all coupling conditions. Complementary structural and kinetic studies highlight a distinct reaction mechanism than that typically reported for homogeneous catalysts. These findings offer key insights for designing recyclable SAC for BH coupling, setting the basis for extending the scope toward more complex industrial targets.    
-
-    
-
-## Dynamics of Fe Adsorption and Desorption from CoOxHy During Oxygen Evolution Reaction Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4405500679    
-Open access: False
-    
-[Lu Liu](https://openalex.org/A5100396456), [Liam Twight](https://openalex.org/A5004141512), [Shibo Xi](https://openalex.org/A5031292832), [Yingqing Ou](https://openalex.org/A5014526265), [Shannon W. Boettcher](https://openalex.org/A5032458792), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04777.
-    
-Iron plays a central and critical role in the water oxidation mechanism and the activity of transition-metal oxides and (oxy)hydroxides. Tracking Fe dynamics (deposition/dissolution/electrolyte transport) and unraveling the chemistries of various Fe active sites under oxygen-evolution reaction (OER) conditions are important for catalyst design, particularly for applications in alkaline electrolysis. Here, we use CoOxHy thin films as a platform to investigate Fe transport and reactivity at the catalyst-electrolyte interface and its impact on OER activity. We find that the deposition/dissolution of the surface-absorbed Fe species is governed by the transport of soluble Fe species and applied potential. Soluble Fe species in the electrolyte adsorb on CoOxHy under stirred electrolyte conditions. Accelerated Fe desorption is observed with a more-positive OER potential. The surface-localized Fe sites generated by absorption from soluble Fe species have a higher OER turnover frequency (TOFFe) compared to Fe in codeposited CoFeOxHy films. Operando X-ray absorption spectroscopy shows structural similarity between reference Fe oxyhydroxides and surface Fe sites on CoOxHy, contrasting with Fe sites within the CoOxHy structure made by codeposition, where Fe shows a different apparent X-ray absorption edge energy. The OER activity of the surface-absorbed Fe decreased by Fe desorption but was recoverable by redepositing Fe species under non-OER conditions.    
-
-    
-
-## Combined Kinetic and Computational Analysis of the Palladium-Catalyzed Formylation of Aryl Bromides   
-
-OpenAlex: https://openalex.org/W4405508167    
-Open access: True
-    
-[Georgina Rai](https://openalex.org/A5069856610), [Lee J. Edwards](https://openalex.org/A5081093844), [Rebecca L. Greenaway](https://openalex.org/A5085043324), [Philip W. Miller](https://openalex.org/A5045368482), [Katherine M. P. Wheelhouse](https://openalex.org/A5020862367), [Mark R. Crimmin](https://openalex.org/A5034836508), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05324.
-    
-Aryl aldehydes are key synthetic intermediates in the manufacturing of active pharmaceutical ingredients. They are generated on scale (>1000 kg) through the palladium-catalyzed formylation of aryl bromides using syngas (CO/H2). The best-in-class catalyst system for this reaction employs di-1-adamantyl-n-butylphosphine (cataCXium A), palladium(II) acetate, and tetramethylethylenediamine. Despite nearly 20 years since its initial report, a mechanistic understanding of this system remains incomplete. Here, we use automation, kinetic analysis, and DFT calculations to develop a mechanistic model for this best-in-class catalyst. We suggest that a combination of the migratory insertion step and dihydrogen activation step is likely involved in the turnover-limiting sequence. The reaction kinetics are responsive to the nature of the substrate, with electron-rich aryl bromides reacting faster and more selectively than their electron-poor counterparts due to the influence of electronics in the migratory insertion step. Our findings add additional insight into the proposed mechanism of palladium-catalyzed formylation of aryl bromides.    
-
-    
-
-## Ni-Catalyzed Enantioconvergent Kumada–Corriu Cross-Coupling between β-Bromostyrenes and Secondary Grignard Reagents: Reaction Development, Scope and Mechanistic Investigations   
-
-OpenAlex: https://openalex.org/W4405512891    
-Open access: False
-    
-[Kaidi Li](https://openalex.org/A5102819888), [Baptiste Leforestier](https://openalex.org/A5045506896), [Amalia I. Poblador‐Bahamonde](https://openalex.org/A5035660661), [Céline Besnard](https://openalex.org/A5062650755), [Laure Guénée](https://openalex.org/A5011143075), [Svetlana Kucher](https://openalex.org/A5088895349), [Clément Mazet](https://openalex.org/A5053472767), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06360.
-    
-A Ni-catalyzed enantioconvergent cross-coupling between β-bromostyrenes and secondary Grignard reagents is reported. This C(sp2)–C(sp3) cross-coupling is applicable to a broad range of electrophilic and nucleophilic partners and affords the products in good to high levels of enantio-induction. Experimental mechanistic investigations revealed an unexpected binding mode of the chiral (P,N) ligand and support a radical rebound mechanism involving in-cage radicals. Kinetic experiments provide evidence for an off-cycle resting state featuring dinuclear species. Computational analyses are in line with this hypothesis and coherent with a catalytic cycle proceeding via a Ni(I)/Ni(III) manifold. They further suggest an enantio-determining radical capture event and shed light on the origin of the Dynamic Kinetic Resolution process.    
-
-    
-
-## Chiral Triazole-Substituted Iodonium Salts in Enantioselective Halogen Bond Catalysis   
-
-OpenAlex: https://openalex.org/W4405516340    
-Open access: True
-    
-[Mattis Damrath](https://openalex.org/A5056798745), [Tarek Scheele](https://openalex.org/A5072375748), [Daniel Duvinage](https://openalex.org/A5018569507), [Tim Stauch](https://openalex.org/A5037929085), [Boris J. Nachtsheim](https://openalex.org/A5084678547), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06895.
-    
-No abstract    
-
-    
 
 ## Organizational and Mechanistic Modulation of ORR/OER Activity in M1M2–N–C Bimetallic Catalysts   
 
@@ -386,6 +309,83 @@ OpenAlex: https://openalex.org/W4405725214
 Open access: False
     
 [Jing He](https://openalex.org/A5085754149), [Wan Seok Yoon](https://openalex.org/A5088145073), [Jaesook Yun](https://openalex.org/A5037018542), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06631.
+    
+The construction of congested acyclic stereocenters with high stereoselectivity is a significant challenge in synthetic chemistry. Herein, we report an efficient method for diastereo- and enantioselective C–C coupling of 1,3-disubstituted enynes with imines for the asymmetric construction of vicinal stereogenic centers, including an all-carbon quaternary center. This coupling was accomplished by chirality transfer from axial-to-central of fully substituted axially chiral allenylcopper intermediates formed in situ from branched enynes with concomitant diastereoselective formation of an additional stereocenter in imine addition enabled by a chiral C1-symmetric N-heterocyclic carbene (NHC) copper catalyst. DFT calculations provided an enhanced understanding of the silyl effect of allenylcopper nucleophiles on reactivity and the origin of stereoselectivity. Synthetic versatility of the resulting products bearing densely functionalized groups could amplify the significance of the current method.    
+
+    
+
+## Elementary Steps, Site Requirements, and Support Effects in Methylcyclohexane Dehydrogenation Reactions on Dispersed Pd Nanoparticles   
+
+OpenAlex: https://openalex.org/W4405734974    
+Open access: False
+    
+[Zhongyao Zhang](https://openalex.org/A5011995432), [Sai Chen](https://openalex.org/A5101865777), [Trenton Otto](https://openalex.org/A5020330398), [Enrique Iglesia](https://openalex.org/A5086150545), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07240.
+    
+No abstract    
+
+    
+
+## Synergistic Dual-Atom Catalysts on Ceria for Enhanced CO Preferential Oxidation: Insights from High-Throughput First-Principles Microkinetics   
+
+OpenAlex: https://openalex.org/W4405734978    
+Open access: False
+    
+[Zhang Liu](https://openalex.org/A5100709009), [Yanwei Wen](https://openalex.org/A5043433583), [Zhaojie Wang](https://openalex.org/A5086671763), [Limin Guo](https://openalex.org/A5063687804), [Rong Chen](https://openalex.org/A5100418999), [Aimin Zhang](https://openalex.org/A5100656435), [Bin Shan](https://openalex.org/A5084795179), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05779.
+    
+No abstract    
+
+    
+
+## ABO4 as an Active Catalyst Structure for Direct Partial CH4 Oxidation as Identified through Screening of Supported Catalysts   
+
+OpenAlex: https://openalex.org/W4405738399    
+Open access: False
+    
+[Junya Ohyama](https://openalex.org/A5023127226), [Yuriko Yoshioka](https://openalex.org/A5036471630), [Masato TSUKAMOTO](https://openalex.org/A5030581735), [Ryota Kuroki](https://openalex.org/A5034502562), [Daichi Takahashi](https://openalex.org/A5028191830), [Keisuke Awaya](https://openalex.org/A5063143560), [Masato Machida](https://openalex.org/A5013139214), [Kotaro Higashi](https://openalex.org/A5083848806), [Tomoya Uruga](https://openalex.org/A5103395202), [Naomi Kawamura](https://openalex.org/A5086036089), [Shun Nishimura](https://openalex.org/A5009715855), [Keisuke Takahashi](https://openalex.org/A5021890207), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06376.
+    
+In the present study, 76 different metal-oxide-supported-transition-metal catalysts were prepared using 11 different metal oxides (MgO, Al2O3, SiO2, TiO2, V2O5, ZrO2, Nb2O5, MoO3, Ta2O5, WO3, and La2O3) and seven 3d metals (V, Mn, Fe, Co, Ni, Cu, and Zn). The 76 supported catalysts, along with 11 single metal oxides, were screened to identify catalytically active lattice oxygen structures for the partial oxidation of CH4 to formaldehyde and methanol. Fe/MoO3, Fe/V2O5, and particularly Fe/Nb2O5 were found to be highly effective. Structural analysis of the active Fe sites in the 11 supported Fe catalysts was performed using high-energy-resolution-fluorescence-detected Fe K-edge X-ray absorption near-edge structure spectroscopy, revealing that FeNbO4, FeMoO4, and FeVO4 species in Fe/Nb2O5, Fe/MoO3, and Fe/V2O5, respectively, are responsible for their partial-oxidation activities. In contrast, Fe2O3 species formed in Fe/Al2O3, Fe/SiO2, Fe/Ta2O5, and Fe/WO3 were found to be active for complete oxidation to CO2 than partial oxidation, as were the MgFe2O4, LaFeO3, and TiFe2O5 species formed in Fe/MgO, Fe/La2O3, and Fe/TiO2, respectively, and the interstitial solid solution of Fe3+ in ZrO2 generated in Fe/ZrO2. Furthermore, while the Fe2O3 species in Fe/WO4 are ineffective for partial oxidation, FeWO4 prepared by a hydrothermal method exhibits high selectivity for partial oxidation. Additionally, previous studies have shown that CuWO4 and CuMoO4 are active for partial CH4 oxidation. Accordingly, the ABO4 structure (where A is a 3d metal and B is a group 5 or 6 metal) is indicated as a viable design basis for the development of catalysts for partial CH4 oxidation.    
+
+    
+
+## Pincer-(NHC)Mn(I) Complex-Catalyzed Selective α-Alkylation of Ketones and Nitriles Using Unactivated Alkenyl Alcohols   
+
+OpenAlex: https://openalex.org/W4405740302    
+Open access: False
+    
+[Adarsha Mandal](https://openalex.org/A5059151708), [Manoj Pradhan](https://openalex.org/A5088423569), [C.R. Mitra](https://openalex.org/A5012668077), [Srabani Nandi](https://openalex.org/A5113157959), [Biswajit Sadhu](https://openalex.org/A5042696274), [Sabuj Kundu](https://openalex.org/A5070370920), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05889.
+    
+No abstract    
+
+    
+
+## Origin of Stereoselectivity in Ring Opening Metathesis Polymerization with Cationic Molybdenum Imido Alkylidene CAAC Complexes   
+
+OpenAlex: https://openalex.org/W4405741897    
+Open access: False
+    
+[Koushani Kundu](https://openalex.org/A5058306278), [S. Haid](https://openalex.org/A5027100582), [Moritz R. Schäfer](https://openalex.org/A5007312468), [Wolfgang Frey](https://openalex.org/A5090471164), [Johannes Kästner](https://openalex.org/A5056979833), [Michael R. Buchmeiser](https://openalex.org/A5016791337), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07610.
+    
+Stereoselective ring opening metathesis polymerization (ROMP) of enantiomerically pure 2,3-dicarbomethoxynorborn-5-ene ((+)-DCMNBE) was accomplished by the action of cationic tetra- and pentacoordinated molybdenum imido alkylidene cyclic alkyl amino carbene (CAAC) complexes that are chiral at molybdenum. The same catalysts were also utilized to perform the ROMP of 2,3-dimethoxymethylnorborn-5-ene ((+)-DMMNBE). All complexes were moderately to highly active and showed high trans-isoselectivity, offering up to 97% trans-isotactic (it) repeat units. In all cases, tetracoordinated complexes were the active species, resulting in pentacoordinated transition states. A theoretical model was elaborated using the buried volume (% Vbur) values of all ligands from single-crystal X-ray analysis together with the structures of the density functional theory (DFT) generated molybdacyclobutane intermediates. The model demonstrates the steric effects of all ligands at molybdenum on the trans-isoselectivity of the reaction, as predicted by the turnstile mechanism, and includes a positive correlation between the bulky CAAC ligand with high values of % Vbur of the other ligands and a high trans-isoselectivity. It was also successfully extended to molybdenum imido alkylidene N-heterocyclic carbene (NHC) complexes, proved to be of sufficient accuracy with a root mean squared error (RMSE) of 6.19% and was verified by Monte Carlo cross-validation (MCCV).    
+
+    
+
+## Dopant-Tuned Restructuring Kinetic for the Formation of Heterophase-Confined Metal-Nonmetal Diatomic Sites for Efficient Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4405751831    
+Open access: False
+    
+[Xinyi Li](https://openalex.org/A5100370260), [Feiyan Liu](https://openalex.org/A5101964950), [Wenting Lu](https://openalex.org/A5110689502), [Huafeng Fan](https://openalex.org/A5017534802), [Meiling Xiao](https://openalex.org/A5073215457), [Xiaoqiang Cui](https://openalex.org/A5086736710), [Lu Li](https://openalex.org/A5100606021), [Xiaoxin Zou](https://openalex.org/A5046104594), [Weitao Zheng](https://openalex.org/A5108050913), [Xiao Zhao](https://openalex.org/A5058184619), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c03060.
+    
+No abstract    
+
+    
+
+## The On/Off pH-Dependent Electrocatalytic Activity of the Perfluorinated Iron Phthalocyanine for the Oxygen Reduction Reaction and Electrochemical Hardness as a Reactivity Descriptor: Experimental and Theoretical Study   
+
+OpenAlex: https://openalex.org/W4405755151    
+Open access: False
+    
+[Luis Acuña-Saavedra](https://openalex.org/A5115632326), [Ana María Méndez‐Torres](https://openalex.org/A5013122167), [Gloria Cárdenas‐Jirón](https://openalex.org/A5007798531), [Rubén Oñate](https://openalex.org/A5054608379), [Benjamín Sánchez-Allende](https://openalex.org/A5115632327), [Ricardo Venegas](https://openalex.org/A5083628069), [Roberto Bernal](https://openalex.org/A5086506639), [Francisco Melo](https://openalex.org/A5079391179), [Elizabeth Imbarack](https://openalex.org/A5055888489), [José H. Zagal](https://openalex.org/A5043992472), [Ingrid Ponce](https://openalex.org/A5010033297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06957.
     
 No abstract    
 

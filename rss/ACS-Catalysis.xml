@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Dec 2024 01:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 01:20:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Sustainable H&lt;sub&gt;2&lt;/sub&gt; Production from Lignocellulosic Biomass over MoS&lt;sub&gt;2&lt;/sub&gt; Modified Sulfur Vacancy Enriched ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; Photocatalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c05707</link>
-      <description>Jiping Tang, Yan Chen, Ziyi Wang, Yun-Hui Hu, Jiahao Wang, Liang Bao, Zong&#8208;Yan Zhao, Yong&#8208;Jun Yuan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405474939
-
-                Exploring visible-light-responsive photocatalysts for photocatalytic lignocellulosic biomass-to-H2 conversion remains a glamorous but challenging goal because the photogenerated holes cannot directly transfer to biomass owing to the absence of a charge transfer channel. Herein, we design ZnIn2S4 nanosheets with abundant sulfur vacancy (VS-ZnIn2S4) as visible light responsive photocatalysts for photocatalytic H2 production from lignocellulosic biomass in the presence of MoS2 as the cocatalyst. In this smartly designed photocatalysts, the sulfur vacancy in ZnIn2S4 reduces the energy barrier of &#8226;OH generation reaction and results in the fast dynamics for the generation of &#8226;OH, which acts as the crucial species for the oxygenolysis of lignocellulosic biomass. As expected, the H2 generation rate of the optimized MoS2/VS-ZnIn2S4 photocatalyst in &#945;-cellulose and bamboo powder aqueous solution achieves 1572 and 133 &#956;mol&#183;g&#8211;1&#183;h&#8211;1, respectively. This study validates the feasibility of sulfur vacancy to boost visible light photocatalytic conversion of lignocellulosic biomass into H2 fuel.</description>
-      <author>Jiping Tang, Yan Chen, Ziyi Wang, Yun-Hui Hu, Jiahao Wang, Liang Bao, Zong&#8208;Yan Zhao, Yong&#8208;Jun Yuan</author>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05707</guid>
-    </item>
-    <item>
-      <title>Recent Developments and Challenges in the Enzymatic Formation of Nitrogen&#8211;Nitrogen Bonds</title>
-      <link>https://doi.org/10.1021/acscatal.4c05268</link>
-      <description>Charitomeni Angeli, Sara Atienza-Sanz, Simon Schr&#246;der, Alexander Hein, Yongxin Li, Alexander Argyrou, Angelina Osipyan, Henrik Terholsen, Sandy Schmidt, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405486704
-
-                The biological formation of nitrogen&#8211;nitrogen (N&#8211;N) bonds represents intriguing reactions that have attracted much attention in the past decade. This interest has led to an increasing number of N&#8211;N bond-containing natural products (NPs) and related enzymes that catalyze their formation (referred to in this review as NNzymes) being elucidated and studied in greater detail. While more detailed information on the biosynthesis of N&#8211;N bond-containing NPs, which has only become available in recent years, provides an unprecedented source of biosynthetic enzymes, their potential for biocatalytic applications has been minimally explored. With this review, we aim not only to provide a comprehensive overview of both characterized NNzymes and hypothetical biocatalysts with putative N&#8211;N bond forming activity, but also to highlight the potential of NNzymes from a biocatalytic perspective. We also present and compare conventional synthetic approaches to linear and cyclic hydrazines, hydrazides, diazo- and nitroso-groups, triazenes, and triazoles to allow comparison with enzymatic routes via NNzymes to these N&#8211;N bond-containing functional groups. Moreover, the biosynthetic pathways as well as the diversity and reaction mechanisms of NNzymes are presented according to the direct functional groups currently accessible to these enzymes.</description>
-      <author>Charitomeni Angeli, Sara Atienza-Sanz, Simon Schr&#246;der, Alexander Hein, Yongxin Li, Alexander Argyrou, Angelina Osipyan, Henrik Terholsen, Sandy Schmidt</author>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05268</guid>
-    </item>
-    <item>
-      <title>Reactivity and Mechanism of Recoverable Pd&lt;sub&gt;1&lt;/sub&gt;@C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; Single-Atom Catalyst in Buchwald&#8211;Hartwig Aminations</title>
-      <link>https://doi.org/10.1021/acscatal.4c05134</link>
-      <description>Georgios Giannakakis, Marc&#8208;Eduard Usteri, Aram L. Bugaev, Andrea Ruiz&#8208;Ferrando, Dario Faust Akl, N&#250;ria L&#243;pez, Serena Fantasia, Kurt P&#252;ntener, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405494682
-
-                Buchwald&#8211;Hartwig (BH) aminations are crucial for synthesizing arylamine motifs in numerous bioactive molecules and fine chemicals. While homogeneous palladium complexes can be effective catalysts, their high costs and environmental impact motivate the search for alternative approaches. Heterogeneous palladium single-atom catalysts (SAC) offer promising recoverable alternatives in C&#8211;C cross-couplings. Yet their use in C&#8211;N couplings remains unexplored, and mechanistic insights into amine coupling with aryl halides over solid surfaces that could guide catalyst design are lacking. Here, we demonstrate that palladium atoms coordinated to well-defined heptazinic cavities of graphitic carbon nitride (Pd1@C3N4) deliver practically relevant yields for BH couplings across various aryl halides and amines, exhibiting persistent activity and negligible leaching over several cycles. Notably, Pd1@C3N4 shows comparable or superior activity with certain aryl chlorides to bromides, alongside high chemoselectivity for amines over amides. In situ X-ray absorption spectroscopy analyses supported by density functional theory simulations identify the concerted role of the ligand and the C3N4 host in determining the performance, with a Pd(II) nominal oxidation state observed under all coupling conditions. Complementary structural and kinetic studies highlight a distinct reaction mechanism than that typically reported for homogeneous catalysts. These findings offer key insights for designing recyclable SAC for BH coupling, setting the basis for extending the scope toward more complex industrial targets.</description>
-      <author>Georgios Giannakakis, Marc&#8208;Eduard Usteri, Aram L. Bugaev, Andrea Ruiz&#8208;Ferrando, Dario Faust Akl, N&#250;ria L&#243;pez, Serena Fantasia, Kurt P&#252;ntener, Javier P&#233;rez&#8208;Ram&#237;rez, Sharon Mitchell</author>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05134</guid>
-    </item>
-    <item>
-      <title>Dynamics of Fe Adsorption and Desorption from CoO&lt;i&gt;&lt;sub&gt;x&lt;/sub&gt;&lt;/i&gt;H&lt;i&gt;&lt;sub&gt;y&lt;/sub&gt;&lt;/i&gt; During Oxygen Evolution Reaction Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c04777</link>
-      <description>Lu Liu, Liam Twight, Shibo Xi, Yingqing Ou, Shannon W. Boettcher, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405500679
-
-                Iron plays a central and critical role in the water oxidation mechanism and the activity of transition-metal oxides and (oxy)hydroxides. Tracking Fe dynamics (deposition/dissolution/electrolyte transport) and unraveling the chemistries of various Fe active sites under oxygen-evolution reaction (OER) conditions are important for catalyst design, particularly for applications in alkaline electrolysis. Here, we use CoOxHy thin films as a platform to investigate Fe transport and reactivity at the catalyst-electrolyte interface and its impact on OER activity. We find that the deposition/dissolution of the surface-absorbed Fe species is governed by the transport of soluble Fe species and applied potential. Soluble Fe species in the electrolyte adsorb on CoOxHy under stirred electrolyte conditions. Accelerated Fe desorption is observed with a more-positive OER potential. The surface-localized Fe sites generated by absorption from soluble Fe species have a higher OER turnover frequency (TOFFe) compared to Fe in codeposited CoFeOxHy films. Operando X-ray absorption spectroscopy shows structural similarity between reference Fe oxyhydroxides and surface Fe sites on CoOxHy, contrasting with Fe sites within the CoOxHy structure made by codeposition, where Fe shows a different apparent X-ray absorption edge energy. The OER activity of the surface-absorbed Fe decreased by Fe desorption but was recoverable by redepositing Fe species under non-OER conditions.</description>
-      <author>Lu Liu, Liam Twight, Shibo Xi, Yingqing Ou, Shannon W. Boettcher</author>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04777</guid>
-    </item>
-    <item>
-      <title>Combined Kinetic and Computational Analysis of the Palladium-Catalyzed Formylation of Aryl Bromides</title>
-      <link>https://doi.org/10.1021/acscatal.4c05324</link>
-      <description>Georgina Rai, Lee J. Edwards, Rebecca L. Greenaway, Philip W. Miller, Katherine M. P. Wheelhouse, Mark R. Crimmin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405508167
-
-                Aryl aldehydes are key synthetic intermediates in the manufacturing of active pharmaceutical ingredients. They are generated on scale (&gt;1000 kg) through the palladium-catalyzed formylation of aryl bromides using syngas (CO/H2). The best-in-class catalyst system for this reaction employs di-1-adamantyl-n-butylphosphine (cataCXium A), palladium(II) acetate, and tetramethylethylenediamine. Despite nearly 20 years since its initial report, a mechanistic understanding of this system remains incomplete. Here, we use automation, kinetic analysis, and DFT calculations to develop a mechanistic model for this best-in-class catalyst. We suggest that a combination of the migratory insertion step and dihydrogen activation step is likely involved in the turnover-limiting sequence. The reaction kinetics are responsive to the nature of the substrate, with electron-rich aryl bromides reacting faster and more selectively than their electron-poor counterparts due to the influence of electronics in the migratory insertion step. Our findings add additional insight into the proposed mechanism of palladium-catalyzed formylation of aryl bromides.</description>
-      <author>Georgina Rai, Lee J. Edwards, Rebecca L. Greenaway, Philip W. Miller, Katherine M. P. Wheelhouse, Mark R. Crimmin</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05324</guid>
-    </item>
-    <item>
-      <title>Ni-Catalyzed Enantioconvergent Kumada&#8211;Corriu Cross-Coupling between &#946;-Bromostyrenes and Secondary Grignard Reagents: Reaction Development, Scope and Mechanistic Investigations</title>
-      <link>https://doi.org/10.1021/acscatal.4c06360</link>
-      <description>Kaidi Li, Baptiste Leforestier, Amalia I. Poblador&#8208;Bahamonde, C&#233;line Besnard, Laure Gu&#233;n&#233;e, Svetlana Kucher, Cl&#233;ment Mazet, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405512891
-
-                A Ni-catalyzed enantioconvergent cross-coupling between &#946;-bromostyrenes and secondary Grignard reagents is reported. This C(sp2)&#8211;C(sp3) cross-coupling is applicable to a broad range of electrophilic and nucleophilic partners and affords the products in good to high levels of enantio-induction. Experimental mechanistic investigations revealed an unexpected binding mode of the chiral (P,N) ligand and support a radical rebound mechanism involving in-cage radicals. Kinetic experiments provide evidence for an off-cycle resting state featuring dinuclear species. Computational analyses are in line with this hypothesis and coherent with a catalytic cycle proceeding via a Ni(I)/Ni(III) manifold. They further suggest an enantio-determining radical capture event and shed light on the origin of the Dynamic Kinetic Resolution process.</description>
-      <author>Kaidi Li, Baptiste Leforestier, Amalia I. Poblador&#8208;Bahamonde, C&#233;line Besnard, Laure Gu&#233;n&#233;e, Svetlana Kucher, Cl&#233;ment Mazet</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06360</guid>
-    </item>
-    <item>
-      <title>Chiral Triazole-Substituted Iodonium Salts in Enantioselective Halogen Bond Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c06895</link>
-      <description>Mattis Damrath, Tarek Scheele, Daniel Duvinage, Tim Stauch, Boris J. Nachtsheim, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405516340
-
-                No abstract</description>
-      <author>Mattis Damrath, Tarek Scheele, Daniel Duvinage, Tim Stauch, Boris J. Nachtsheim</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06895</guid>
-    </item>
     <item>
       <title>Organizational and Mechanistic Modulation of ORR/OER Activity in M&lt;sub&gt;1&lt;/sub&gt;M&lt;sub&gt;2&lt;/sub&gt;&#8211;N&#8211;C Bimetallic Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c06280</link>
@@ -352,10 +282,80 @@
       <link>https://doi.org/10.1021/acscatal.4c06631</link>
       <description>Jing He, Wan Seok Yoon, Jaesook Yun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405725214
 
-                No abstract</description>
+                The construction of congested acyclic stereocenters with high stereoselectivity is a significant challenge in synthetic chemistry. Herein, we report an efficient method for diastereo- and enantioselective C&#8211;C coupling of 1,3-disubstituted enynes with imines for the asymmetric construction of vicinal stereogenic centers, including an all-carbon quaternary center. This coupling was accomplished by chirality transfer from axial-to-central of fully substituted axially chiral allenylcopper intermediates formed in situ from branched enynes with concomitant diastereoselective formation of an additional stereocenter in imine addition enabled by a chiral C1-symmetric N-heterocyclic carbene (NHC) copper catalyst. DFT calculations provided an enhanced understanding of the silyl effect of allenylcopper nucleophiles on reactivity and the origin of stereoselectivity. Synthetic versatility of the resulting products bearing densely functionalized groups could amplify the significance of the current method.</description>
       <author>Jing He, Wan Seok Yoon, Jaesook Yun</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06631</guid>
+    </item>
+    <item>
+      <title>Elementary Steps, Site Requirements, and Support Effects in Methylcyclohexane Dehydrogenation Reactions on Dispersed Pd Nanoparticles</title>
+      <link>https://doi.org/10.1021/acscatal.4c07240</link>
+      <description>Zhongyao Zhang, Sai Chen, Trenton Otto, Enrique Iglesia, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405734974
+
+                No abstract</description>
+      <author>Zhongyao Zhang, Sai Chen, Trenton Otto, Enrique Iglesia</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07240</guid>
+    </item>
+    <item>
+      <title>Synergistic Dual-Atom Catalysts on Ceria for Enhanced CO Preferential Oxidation: Insights from High-Throughput First-Principles Microkinetics</title>
+      <link>https://doi.org/10.1021/acscatal.4c05779</link>
+      <description>Zhang Liu, Yanwei Wen, Zhaojie Wang, Limin Guo, Rong Chen, Aimin Zhang, Bin Shan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405734978
+
+                No abstract</description>
+      <author>Zhang Liu, Yanwei Wen, Zhaojie Wang, Limin Guo, Rong Chen, Aimin Zhang, Bin Shan</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05779</guid>
+    </item>
+    <item>
+      <title>ABO&lt;sub&gt;4&lt;/sub&gt; as an Active Catalyst Structure for Direct Partial CH&lt;sub&gt;4&lt;/sub&gt; Oxidation as Identified through Screening of Supported Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c06376</link>
+      <description>Junya Ohyama, Yuriko Yoshioka, Masato TSUKAMOTO, Ryota Kuroki, Daichi Takahashi, Keisuke Awaya, Masato Machida, Kotaro Higashi, Tomoya Uruga, Naomi Kawamura, Shun Nishimura, Keisuke Takahashi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405738399
+
+                In the present study, 76 different metal-oxide-supported-transition-metal catalysts were prepared using 11 different metal oxides (MgO, Al2O3, SiO2, TiO2, V2O5, ZrO2, Nb2O5, MoO3, Ta2O5, WO3, and La2O3) and seven 3d metals (V, Mn, Fe, Co, Ni, Cu, and Zn). The 76 supported catalysts, along with 11 single metal oxides, were screened to identify catalytically active lattice oxygen structures for the partial oxidation of CH4 to formaldehyde and methanol. Fe/MoO3, Fe/V2O5, and particularly Fe/Nb2O5 were found to be highly effective. Structural analysis of the active Fe sites in the 11 supported Fe catalysts was performed using high-energy-resolution-fluorescence-detected Fe K-edge X-ray absorption near-edge structure spectroscopy, revealing that FeNbO4, FeMoO4, and FeVO4 species in Fe/Nb2O5, Fe/MoO3, and Fe/V2O5, respectively, are responsible for their partial-oxidation activities. In contrast, Fe2O3 species formed in Fe/Al2O3, Fe/SiO2, Fe/Ta2O5, and Fe/WO3 were found to be active for complete oxidation to CO2 than partial oxidation, as were the MgFe2O4, LaFeO3, and TiFe2O5 species formed in Fe/MgO, Fe/La2O3, and Fe/TiO2, respectively, and the interstitial solid solution of Fe3+ in ZrO2 generated in Fe/ZrO2. Furthermore, while the Fe2O3 species in Fe/WO4 are ineffective for partial oxidation, FeWO4 prepared by a hydrothermal method exhibits high selectivity for partial oxidation. Additionally, previous studies have shown that CuWO4 and CuMoO4 are active for partial CH4 oxidation. Accordingly, the ABO4 structure (where A is a 3d metal and B is a group 5 or 6 metal) is indicated as a viable design basis for the development of catalysts for partial CH4 oxidation.</description>
+      <author>Junya Ohyama, Yuriko Yoshioka, Masato TSUKAMOTO, Ryota Kuroki, Daichi Takahashi, Keisuke Awaya, Masato Machida, Kotaro Higashi, Tomoya Uruga, Naomi Kawamura, Shun Nishimura, Keisuke Takahashi</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06376</guid>
+    </item>
+    <item>
+      <title>Pincer-(NHC)Mn(I) Complex-Catalyzed Selective &#945;-Alkylation of Ketones and Nitriles Using Unactivated Alkenyl Alcohols</title>
+      <link>https://doi.org/10.1021/acscatal.4c05889</link>
+      <description>Adarsha Mandal, Manoj Pradhan, C.R. Mitra, Srabani Nandi, Biswajit Sadhu, Sabuj Kundu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405740302
+
+                No abstract</description>
+      <author>Adarsha Mandal, Manoj Pradhan, C.R. Mitra, Srabani Nandi, Biswajit Sadhu, Sabuj Kundu</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05889</guid>
+    </item>
+    <item>
+      <title>Origin of Stereoselectivity in Ring Opening Metathesis Polymerization with Cationic Molybdenum Imido Alkylidene CAAC Complexes</title>
+      <link>https://doi.org/10.1021/acscatal.4c07610</link>
+      <description>Koushani Kundu, S. Haid, Moritz R. Sch&#228;fer, Wolfgang Frey, Johannes K&#228;stner, Michael R. Buchmeiser, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405741897
+
+                Stereoselective ring opening metathesis polymerization (ROMP) of enantiomerically pure 2,3-dicarbomethoxynorborn-5-ene ((+)-DCMNBE) was accomplished by the action of cationic tetra- and pentacoordinated molybdenum imido alkylidene cyclic alkyl amino carbene (CAAC) complexes that are chiral at molybdenum. The same catalysts were also utilized to perform the ROMP of 2,3-dimethoxymethylnorborn-5-ene ((+)-DMMNBE). All complexes were moderately to highly active and showed high trans-isoselectivity, offering up to 97% trans-isotactic (it) repeat units. In all cases, tetracoordinated complexes were the active species, resulting in pentacoordinated transition states. A theoretical model was elaborated using the buried volume (% Vbur) values of all ligands from single-crystal X-ray analysis together with the structures of the density functional theory (DFT) generated molybdacyclobutane intermediates. The model demonstrates the steric effects of all ligands at molybdenum on the trans-isoselectivity of the reaction, as predicted by the turnstile mechanism, and includes a positive correlation between the bulky CAAC ligand with high values of % Vbur of the other ligands and a high trans-isoselectivity. It was also successfully extended to molybdenum imido alkylidene N-heterocyclic carbene (NHC) complexes, proved to be of sufficient accuracy with a root mean squared error (RMSE) of 6.19% and was verified by Monte Carlo cross-validation (MCCV).</description>
+      <author>Koushani Kundu, S. Haid, Moritz R. Sch&#228;fer, Wolfgang Frey, Johannes K&#228;stner, Michael R. Buchmeiser</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07610</guid>
+    </item>
+    <item>
+      <title>Dopant-Tuned Restructuring Kinetic for the Formation of Heterophase-Confined Metal-Nonmetal Diatomic Sites for Efficient Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c03060</link>
+      <description>Xinyi Li, Feiyan Liu, Wenting Lu, Huafeng Fan, Meiling Xiao, Xiaoqiang Cui, Lu Li, Xiaoxin Zou, Weitao Zheng, Xiao Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405751831
+
+                No abstract</description>
+      <author>Xinyi Li, Feiyan Liu, Wenting Lu, Huafeng Fan, Meiling Xiao, Xiaoqiang Cui, Lu Li, Xiaoxin Zou, Weitao Zheng, Xiao Zhao</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c03060</guid>
+    </item>
+    <item>
+      <title>The &lt;i&gt;On&lt;/i&gt;/&lt;i&gt;Off&lt;/i&gt; pH-Dependent Electrocatalytic Activity of the Perfluorinated Iron Phthalocyanine for the Oxygen Reduction Reaction and Electrochemical Hardness as a Reactivity Descriptor: Experimental and Theoretical Study</title>
+      <link>https://doi.org/10.1021/acscatal.4c06957</link>
+      <description>Luis Acu&#241;a-Saavedra, Ana Mar&#237;a M&#233;ndez&#8208;Torres, Gloria C&#225;rdenas&#8208;Jir&#243;n, Rub&#233;n O&#241;ate, Benjam&#237;n S&#225;nchez-Allende, Ricardo Venegas, Roberto Bernal, Francisco Melo, Elizabeth Imbarack, Jos&#233; H. Zagal, Ingrid Ponce, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405755151
+
+                No abstract</description>
+      <author>Luis Acu&#241;a-Saavedra, Ana Mar&#237;a M&#233;ndez&#8208;Torres, Gloria C&#225;rdenas&#8208;Jir&#243;n, Rub&#233;n O&#241;ate, Benjam&#237;n S&#225;nchez-Allende, Ricardo Venegas, Roberto Bernal, Francisco Melo, Elizabeth Imbarack, Jos&#233; H. Zagal, Ingrid Ponce</author>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06957</guid>
     </item>
   </channel>
 </rss>

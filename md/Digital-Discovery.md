@@ -1,32 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Wed Dec 25 01:20:04 2024
+Created on Thu Dec 26 01:20:29 2024
 
-Found 5 results from 2024-12-18 to 2024-12-25
+Found 4 results from 2024-12-19 to 2024-12-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening   
-
-OpenAlex: https://openalex.org/W4405473080    
-Open access: True
-    
-[Felix Katzenburg](https://openalex.org/A5033957593), [Florian Boser](https://openalex.org/A5038880936), [Felix Schäfer](https://openalex.org/A5035577950), [Philipp Pflueger](https://openalex.org/A5115506495), [Frank Glorius](https://openalex.org/A5017167322), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00347k.
-    
-The accelerated generation of reaction data through high-throughput experimentation and automation has the potential to boost organic synthesis. However, efforts to generate diverse reaction datasets or identify generally applicable reaction...    
-
-    
-
-## Schedule Optimization for Chemical Library Synthesis   
-
-OpenAlex: https://openalex.org/W4405502589    
-Open access: True
-    
-[Qianxiang Ai](https://openalex.org/A5005389429), [Fanwang Meng](https://openalex.org/A5003989655), [Runzhong Wang](https://openalex.org/A5103305827), [Joachim Klein](https://openalex.org/A5011766470), [Alexander G. Godfrey](https://openalex.org/A5036949252), [Connor W. Coley](https://openalex.org/A5076162644), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00327f.
-    
-Automated chemistry platforms hold the potential to enable large-scale organic synthesis campaigns, such as producing a library of compounds for biological evaluation. The efficiency of such platforms will depend on...    
-
-    
 
 ## Hybrid-LLM-GNN: Integrating Large Language Models and Graph Neural Networks for Enhanced Materials Property Prediction   
 
@@ -58,5 +36,16 @@ Open access: True
 [Gianmarco Gabrieli](https://openalex.org/A5035065021), [I. Morales](https://openalex.org/A5033259596), [Dimitrios Christofidellis](https://openalex.org/A5051235530), [Mara Graziani](https://openalex.org/A5080105921), [Andrea Giovannini](https://openalex.org/A5018969859), [Federico Zipoli](https://openalex.org/A5064545200), [Amol Thakkar](https://openalex.org/A5021552278), [Antonio Foncubierta](https://openalex.org/A5000570756), [Matteo Manica](https://openalex.org/A5005561269), [Patrick Ruch](https://openalex.org/A5088526565), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00287c.
     
 Capturing actions during scientific experimentation is a cornerstone of reproducibility and collaborative research. While large multimodal models hold promise for automatic action (or activity) recognition, their ability to provide real-time...    
+
+    
+
+## Predicting homopolymer and copolymer solubility through machine learning   
+
+OpenAlex: https://openalex.org/W4405714714    
+Open access: True
+    
+[Christopher D. Stubbs](https://openalex.org/A5024069532), [Yeonjoon Kim](https://openalex.org/A5000294906), [Ethan C. Quinn](https://openalex.org/A5011355970), [Raúl Pérez‐Soto](https://openalex.org/A5013215173), [Eugene Y.‐X. Chen](https://openalex.org/A5018137652), [Seonah Kim](https://openalex.org/A5086535232), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00290c.
+    
+Polymer solubility has applications in many important and diverse fields, including microprocessor fabrication, environmental conservation, paint formulation, and drug delivery, but it remains under-explored compared to its relative importance. This...    
 
     
