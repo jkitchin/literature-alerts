@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Dec 2024 01:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 01:20:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Platinum-based catalysts for oxygen reduction reaction simulated with a quantum computer</title>
-      <link>https://doi.org/10.1038/s41524-024-01460-x</link>
-      <description>Cono Di Paola, Evgeny Plekhanov, Micha&#322; Krompiec, Chandan Kumar, Emanuele Marsili, Fengmin Du, Daniel Weber, J. Krauser, Elvira Shishenina, David Mu&#241;oz Ramo, npj Computational Materials. 10(1)] 2024. https://openalex.org/W4405528122
-
-                Hydrogen has emerged as a promising energy source for low-carbon and sustainable mobility purposes. However, its applications are still limited by modest conversion efficiency in the electrocatalytic oxygen reduction reaction (ORR) within fuel cells. The complex nature of the ORR and the presence of strong electronic correlations present challenges to atomistic modelling using classical computers. This scenario opens new avenues for the implementation of novel quantum computing workflows. Here, we present a state-of-the-art study that combines classical and quantum computational approaches to investigate ORR on platinum-based surfaces. Our research demonstrates, for the first time, the feasibility of implementing this workflow on the H1-series trapped-ion quantum computer and identify the challenges of the quantum chemistry modelling of this reaction. The results highlight the great potentiality of quantum computers in solving notoriously difficult systems with strongly correlated electronic structures and suggest platinum/cobalt as ideal candidate for showcasing quantum advantage in future applications.</description>
-      <author>Cono Di Paola, Evgeny Plekhanov, Micha&#322; Krompiec, Chandan Kumar, Emanuele Marsili, Fengmin Du, Daniel Weber, J. Krauser, Elvira Shishenina, David Mu&#241;oz Ramo</author>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01460-x</guid>
-    </item>
-    <item>
-      <title>Organizational and Mechanistic Modulation of ORR/OER Activity in M&lt;sub&gt;1&lt;/sub&gt;M&lt;sub&gt;2&lt;/sub&gt;&#8211;N&#8211;C Bimetallic Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c06280</link>
-      <description>Xinge Wu, Zhaoying Yang, Decheng Li, Shuai Shao, Gaowu Qin, Xiangying Meng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405529735
-
-                No abstract</description>
-      <author>Xinge Wu, Zhaoying Yang, Decheng Li, Shuai Shao, Gaowu Qin, Xiangying Meng</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06280</guid>
-    </item>
-    <item>
-      <title>Modulation of point defect properties near surfaces in metal halide perovskites</title>
-      <link>https://doi.org/10.1103/physrevmaterials.8.125402</link>
-      <description>Bilal Ahmad, Md Salman Rabbi Limon, Zeeshan Ahmad, Physical Review Materials. 8(12)] 2024. https://openalex.org/W4405533719
-
-                No abstract</description>
-      <author>Bilal Ahmad, Md Salman Rabbi Limon, Zeeshan Ahmad</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.125402</guid>
-    </item>
-    <item>
-      <title>The V30 benchmark set for anharmonic vibrational frequencies of molecular dimers</title>
-      <link>https://doi.org/10.1063/5.0238491</link>
-      <description>Johannes Hoja, A. Daniel Boese, The Journal of Chemical Physics. 161(23)] 2024. https://openalex.org/W4405541010
-
-                Intermolecular vibrations are extremely challenging to describe but are the most crucial part for determining entropy and hence free energies and enable, for instance, the distinction between different crystal-packing arrangements of the same molecule via THz spectroscopy. Herein, we introduce a benchmark dataset&#8212;V30&#8212;containing 30 small molecular dimers with intermolecular interactions ranging from exclusively van der Waals dispersion to systems with hydrogen bonds. All the calculations are performed with the gold standard of quantum chemistry CCSD(T). We discuss vibrational frequencies obtained via different models starting with the harmonic approximation over independent Morse oscillators up to second-order vibrational perturbation theory (VPT2), which allows a proper anharmonic treatment including coupling of vibrational modes. However, large amplitude motions present in many low-frequency intermolecular modes are problematic for VPT2. In analogy to the often used treatment for internal rotations, we replace such problematic modes by a simple one-dimensional hindered rotor model. We compare selected dimers to the available experimental data or high-level calculations of potential energy surfaces and show that VPT2 in combination with hindered rotors can yield a very good description of fundamental frequencies for the discussed subset of dimers involving small and semi-rigid molecules.</description>
-      <author>Johannes Hoja, A. Daniel Boese</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0238491</guid>
-    </item>
-    <item>
-      <title>NMR Investigations of Host&#8211;Guest Interactions in MOFs and COFs</title>
-      <link>https://doi.org/10.1039/9781839167287-00153</link>
-      <description>Shoushun Chen, Xin Du, Yuzhen Liu, Jun Xu, Xingguo Han, Bryan E. G. Lucier, Yining Huang, Royal Society of Chemistry eBooks. None(None)] 2024. https://openalex.org/W4405551205
-
-                Host&#8211;guest interactions in porous metal&#8211;organic frameworks (MOFs) and covalent-organic frameworks (COFs) play a key role in enhancing the performance of these materials for practical applications; however, it is often very challenging to investigate these interactions at the molecular level. In recent years, many solid-state NMR (SSNMR) approaches, including in situ variable temperature (VT), 2D correlation, and pulsed field gradient (PFG) experiments, have offered unique insights into the local structure and dynamics of adsorbed guest molecules in MOFs and COFs. Recent SSNMR studies of MOFs and COFs containing guest molecules are summarized in this chapter. These reports encompass a variety of gaseous and liquid guests such as hydrogen, carbon dioxide, water, and methanol. We also highlight studies involving larger guest molecules, drugs, and biomolecules. It is apparent that SSNMR spectroscopy can provide a wealth of data pertaining to host&#8211;guest interactions in these materials; the information available commonly includes the number and location of guest adsorption sites, guest binding strengths, guest dynamics and diffusion rates, and guest-induced structural changes in the host. The studies discussed in this chapter illustrate how SSNMR spectroscopy serves as a powerful tool to probe host&#8211;guest interactions in MOFs/COFs, especially given the variety of potential target nuclei and the numerous experimental strategies that are available.</description>
-      <author>Shoushun Chen, Xin Du, Yuzhen Liu, Jun Xu, Xingguo Han, Bryan E. G. Lucier, Yining Huang</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/9781839167287-00153</guid>
-    </item>
-    <item>
-      <title>Screening of dual-atom catalysts for hydrogen evolution reaction on graphdiyne</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.12.169</link>
-      <description>Lei Qin, Shitao Wang, Ju Rong, Yan Wei, Xiaohua Yu, Yudong Sui, Yongqiang Yang, International Journal of Hydrogen Energy. 99(None)] 2024. https://openalex.org/W4405555100
-
-                No abstract</description>
-      <author>Lei Qin, Shitao Wang, Ju Rong, Yan Wei, Xiaohua Yu, Yudong Sui, Yongqiang Yang</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.12.169</guid>
-    </item>
     <item>
       <title>Insights into the Enhanced ORR Activity of FeN4-Embedded Graphene Through Interface Interactions with Metal Substrates: Electronic vs. Geometric Descriptors</title>
       <link>https://doi.org/10.1016/j.mtphys.2024.101633</link>
@@ -478,24 +418,54 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.115192</guid>
     </item>
     <item>
+      <title>Two-dimensional metal&#8211;organic frameworks with dual active sites for electrochemical CO2 reduction: A computational study</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.131275</link>
+      <description>Guanru Xing, Shize Liu, Jing&#8208;yao Liu, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405775281
+
+                No abstract</description>
+      <author>Guanru Xing, Shize Liu, Jing&#8208;yao Liu</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131275</guid>
+    </item>
+    <item>
+      <title>Designing Ru&#8211;B&#8211;Cr Moieties to Activate the Ru Site for Acidic Water Electrolysis under Industrial-Level Current Density</title>
+      <link>https://doi.org/10.1021/acs.nanolett.4c05113</link>
+      <description>Weimo Li, Linfeng Zhang, Lipo Ma, Jiawei Wang, Ruikai Qi, Yang Pang, Meijiao Xu, Chengji Zhao, Ce Wang, Mingbin Gao, Xiaofeng Lu, Nano Letters. None(None)] 2024. https://openalex.org/W4405775903
+
+                Developing highly efficient non-iridium-based active sites for acidic water splitting is still a huge challenge. Herein, unique Ru&#8211;B&#8211;Cr moieties have been constructed in RuO2 nanofibers (NFs) to activate Ru sites for water electrolysis, which overcomes the bottleneck of RuO2-based catalysts usually possessing low activity for the hydrogen evolution reaction (HER) and poor stability for the oxygen evolution reaction (OER). The fabricated Cr, B-doped RuO2 NFs exhibit low overpotentials of 205 and 379 mV for acidic HER and OER at 1 A cm&#8211;2 with outstanding stability lasting 1000 and 188 h, respectively. The assembled acidic electrolyzer also possesses great hydrogen production efficiency and durability at a high current density. Experimental and theoretical explorations reveal that the formation of Ru&#8211;B&#8211;Cr moieties effectively optimizes the atomic configurations and modulates the adsorption/desorption free energy of reaction intermediates to achieve exceptional HER and OER performance.</description>
+      <author>Weimo Li, Linfeng Zhang, Lipo Ma, Jiawei Wang, Ruikai Qi, Yang Pang, Meijiao Xu, Chengji Zhao, Ce Wang, Mingbin Gao, Xiaofeng Lu</author>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c05113</guid>
+    </item>
+    <item>
+      <title>A computational survey of layered mixed phases Mn1&#8722;xNixPS3 for water splitting: Modulation of the band gap and the oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.11.364</link>
+      <description>Nicol&#225;s Forero-Correa, Carolina Aliaga, Evgenia Spodine, Catalina Cort&#233;s, Tatiana G&#243;mez, Javiera Cabezas-Escares, Francisco Mu&#241;oz, Carlos C&#225;rdenas, International Journal of Hydrogen Energy. 99(None)] 2024. https://openalex.org/W4405782916
+
+                No abstract</description>
+      <author>Nicol&#225;s Forero-Correa, Carolina Aliaga, Evgenia Spodine, Catalina Cort&#233;s, Tatiana G&#243;mez, Javiera Cabezas-Escares, Francisco Mu&#241;oz, Carlos C&#225;rdenas</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.11.364</guid>
+    </item>
+    <item>
+      <title>Au atomic clusters on MoS2 nanosheets for hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.105691</link>
+      <description>Jiaqi Tian, Lei Hou, Wei Pei, Xueke Yu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4405790966
+
+                No abstract</description>
+      <author>Jiaqi Tian, Lei Hou, Wei Pei, Xueke Yu</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105691</guid>
+    </item>
+    <item>
       <title>Activity-Drop of Hydrogen Evolution Reaction in LiNO&lt;sub&gt;3&lt;/sub&gt; Based &#8220;Hydronium-in-Salt&#8221; Acidic Electrolytes on Platinum Enables Electrochemical Nitrate Reduction</title>
       <link>https://doi.org/10.1021/jacs.4c13117</link>
       <description>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405741914
 
-                No abstract</description>
+                The electrochemical nitrate reduction reaction (NO3&#8211;RR) involves multiple hydrogenation and deoxygenation steps, which compete with the hydrogen evolution reaction (HER). Therefore, NO3&#8211;RR driven in acidic media is challenging in spite of advantageous fast hydrogen transfers in its elementary steps. The findings presented in this article first demonstrate that the NO3&#8211;RR is significantly activated even in acidic lithium nitrate solutions at LiNO3 concentrations exceeding 6 m on a Pt electrode (the highly effective catalyst for HER) by the formation of a "hydronium-in-salt" electrolyte (HISE), a new type of aqueous high concentration salt electrolyte. The observed enhancement of NO3&#8211;RR while the suppression of HER-activity in the LiNO3 based HISE was verified by scanning electrochemical microscopy, electrochemical impedance spectroscopy, UV&#8211;vis/IR spectroscopy, and molecular dynamics simulations. The formation of a HISE in acidic LiNO3 solutions contrasts with that of a "water-in-salt" electrolyte in LiTFSI with the same concentration. The mechanism of NO3&#8211;RR activation in a HISE suggests facilitated proton-coupled electron transfers (PCETs) from H3O+ to NO3&#8211; and subsequent reactive intermediates owing to the proximity between the two ions induced by the unique solvation structure blended with all ions together (Li+ + NO3&#8211; + H3O+). In contrast, all the ions are separately hydrated at low concentrations of LiNO3 electrolytes. On the other hand, PCET from H2O to NO3&#8211; in a high concentration LiNO3 electrolyte (e.g., 9 m) is not kinetically preferred, probably owing to the slow dissociation kinetics of H2O, and therefore, H2O reduction is not suppressed by the NO3&#8211;RR.</description>
       <author>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13117</guid>
-    </item>
-    <item>
-      <title>Development of the DES-contained reduced graphene oxide system with efficient CO2 adsorption and photothermal desorption for pre-gas purification in AEMFCs</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.131193</link>
-      <description>Yifan Li, Xianglin Kong, Dahai Zhu, Tianwen Guo, Xinfeng Wu, Wei Yu, Jinpeng Wang, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4405529564
-
-                No abstract</description>
-      <author>Yifan Li, Xianglin Kong, Dahai Zhu, Tianwen Guo, Xinfeng Wu, Wei Yu, Jinpeng Wang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.131193</guid>
     </item>
   </channel>
 </rss>

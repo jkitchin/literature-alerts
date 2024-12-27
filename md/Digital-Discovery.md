@@ -1,21 +1,10 @@
 # Digital Discovery
 Description: Articles in Digital Discovery
-Created on Thu Dec 26 01:20:29 2024
+Created on Fri Dec 27 01:20:36 2024
 
-Found 4 results from 2024-12-19 to 2024-12-26
+Found 3 results from 2024-12-20 to 2024-12-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S4210202120)
-
-## Hybrid-LLM-GNN: Integrating Large Language Models and Graph Neural Networks for Enhanced Materials Property Prediction   
-
-OpenAlex: https://openalex.org/W4405535846    
-Open access: True
-    
-[Youjia Li](https://openalex.org/A5002118585), [Vishu Gupta](https://openalex.org/A5035699206), [Muhammed Nur Talha Kilic](https://openalex.org/A5102632095), [Kamal Choudhary](https://openalex.org/A5019215236), [Daniel Wines](https://openalex.org/A5010732302), [Wei‐keng Liao](https://openalex.org/A5047602285), [Alok Choudhary](https://openalex.org/A5074976770), [Ankit Agrawal](https://openalex.org/A5004659592), Digital Discovery. None(None)] 2024.https://doi.org/10.1039/d4dd00199k.
-    
-Graph-centric learning has attracted significant interest in materials informatics. Accordingly, a family of graph-based machine learning models, primarily utilizing Graph Neural Networks (GNN), has been developed to provide accurate prediction...    
-
-    
 
 ## Knowledge Discovery from Porous Organic Cages Literature Using a Large Language Model   
 

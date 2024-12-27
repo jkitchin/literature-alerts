@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Dec 2024 01:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 01:20:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Hybrid-LLM-GNN: Integrating Large Language Models and Graph Neural Networks for Enhanced Materials Property Prediction</title>
-      <link>https://doi.org/10.1039/d4dd00199k</link>
-      <description>Youjia Li, Vishu Gupta, Muhammed Nur Talha Kilic, Kamal Choudhary, Daniel Wines, Wei&#8208;keng Liao, Alok Choudhary, Ankit Agrawal, Digital Discovery. None(None)] 2024. https://openalex.org/W4405535846
-
-                Graph-centric learning has attracted significant interest in materials informatics. Accordingly, a family of graph-based machine learning models, primarily utilizing Graph Neural Networks (GNN), has been developed to provide accurate prediction...</description>
-      <author>Youjia Li, Vishu Gupta, Muhammed Nur Talha Kilic, Kamal Choudhary, Daniel Wines, Wei&#8208;keng Liao, Alok Choudhary, Ankit Agrawal</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00199k</guid>
-    </item>
     <item>
       <title>Knowledge Discovery from Porous Organic Cages Literature Using a Large Language Model</title>
       <link>https://doi.org/10.1039/d4dd00337c</link>

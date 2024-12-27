@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Dec 2024 01:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 01:20:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Organizational and Mechanistic Modulation of ORR/OER Activity in M&lt;sub&gt;1&lt;/sub&gt;M&lt;sub&gt;2&lt;/sub&gt;&#8211;N&#8211;C Bimetallic Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c06280</link>
-      <description>Xinge Wu, Zhaoying Yang, Decheng Li, Shuai Shao, Gaowu Qin, Xiangying Meng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405529735
-
-                No abstract</description>
-      <author>Xinge Wu, Zhaoying Yang, Decheng Li, Shuai Shao, Gaowu Qin, Xiangying Meng</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06280</guid>
-    </item>
-    <item>
-      <title>Hydrothermally Stable Zeolite-Encapsulated Metal Catalyst Promoted by Framework Sn Species</title>
-      <link>https://doi.org/10.1021/acscatal.4c05458</link>
-      <description>Xiaoyu Li, Lichen Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405534973
-
-                Hydrothermal stability is a vital performance criterion considered in the design of heterogeneous metal catalysts for practical applications because of the widespread presence of moisture in the reaction feeds or the products. In this work, we substantially promote the hydrothermal stability of the Pt-zeolite catalyst by incorporating Sn into the zeolite framework. Pt species are stabilized as small nanoparticles, and the MFI zeolite structure is well preserved even after hydrothermal treatment at 850 &#176;C in a mixed atmosphere (CO + O2 + H2O). Adding Sn into Pt-MFI not only heals the defect sites in pure-silica MFI zeolite to promote its structural stability during hydrothermal treatment but also stabilizes the mobile PtOx species via the Sn&#8211;O&#8211;Pt interaction. The remarkably high stability of the Pt particles encapsulated in the Sn-promoted MFI zeolite is reflected in the CO oxidation reaction in which Pt particles stabilized in the Sn-promoted MFI zeolite exhibit much higher stability than the nonpromoted Pt-MFI catalyst. The stabilization effect of Sn is further extended to a Pd-MFI zeolite catalyst in which the average size of the Pd particles remains below 2 nm after the harsh hydrothermal treatments at 850 &#176;C.</description>
-      <author>Xiaoyu Li, Lichen Liu</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05458</guid>
-    </item>
-    <item>
-      <title>&lt;i&gt;Operando&lt;/i&gt; Surface-Enhanced Infrared Spectroscopy Connects Interfacial Dynamics with Reaction Kinetics During Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Copper</title>
-      <link>https://doi.org/10.1021/acscatal.4c05532</link>
-      <description>Jesse E. Matthews, Jaime E. Avil&#233;s Acosta, Sang&#8208;Won Lee, Dongrak Oh, Tiras Y. Lin, Kyra M. K. Yap, Junjie Chen, Ji&#8208;Wook Jang, Dong Un Lee, Adam C. Nielander, Thomas F. Jaramillo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405539425
-
-                The reaction microenvironment plays a key role in dictating the selectivity of electrochemical CO2 reduction. However, understanding the chemical nature of this microenvironment under operating conditions remains a substantial challenge. We employed attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) in operando for simultaneous measurements of reaction kinetics and concentrations of reactants and intermediates at the reaction interface, all under controlled mass transport conditions. These operando measurements enable direct correlations between the reaction microenvironment, mass transport, and kinetics for a Cu electrocatalyst, such as higher local concentrations of CO2 under faster mass transport corresponding to higher rates of CO2 reduction. We observed that faster mass transport decreased the *CO coverage at less negative potentials (&#8722;0.6 VRHE) and increased the *CO coverage at more negative potentials (&#8722;1.1 VRHE). We developed a transport-coupled kinetic model that captures these spectroscopic observations and provides insight into the processes controlling interfacial concentrations of reactants and intermediates, aiding future efforts toward tailoring reaction microenvironments.</description>
-      <author>Jesse E. Matthews, Jaime E. Avil&#233;s Acosta, Sang&#8208;Won Lee, Dongrak Oh, Tiras Y. Lin, Kyra M. K. Yap, Junjie Chen, Ji&#8208;Wook Jang, Dong Un Lee, Adam C. Nielander, Thomas F. Jaramillo</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05532</guid>
-    </item>
-    <item>
-      <title>Revealing the Jahn&#8211;Teller Mitigating Complexity of Se-Anchored Mn Oxides for Superior SO&lt;sub&gt;2&lt;/sub&gt; Resistance in Gaseous Molecular Oxygen Activation</title>
-      <link>https://doi.org/10.1021/acscatal.4c06268</link>
-      <description>Haomiao Xu, Qinyuan Hong, Jia&#8217;nan Wang, Jun Lei, Mingming Wang, Jiaxing Li, Zhisong Liu, Menggai Jiao, Wenjun Huang, Zan Qu, Naiqiang Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405546278
-
-                Manganese oxides have emerged as promising catalysts for the low-temperature activation of molecular oxygen (O2), crucial for the catalytic oxidation and removal of gaseous pollutants. However, the undesired Jahn&#8211;Teller (J-T) effects associated with the Mniv/Mniii redox couple, particularly under SO2 poisoning, led to the effectiveness of Mn oxides in applications. Herein, we construct a highly covalent Seiv-O-Mniii structure via the introduction of selenium into &#945;-MnO2. Such a structure features high-valence Seiv anchored on the oxygen-terminated (110) plane of &#945;-MnO2, facilitates the generation of more active oxygen species, and maintains the continuous cycling of oxygen-linked Mniv/Mniii. Such dynamics are pivotal for stabilizing manganese activation and mitigating the J-T effect. Through a combination of experimental investigations and theoretical calculations, we demonstrate that the Seiv-O-Mniii configuration, characterized by a high degree of Mn&#8211;O hybridization, significantly enhances CO oxidation, NH3 oxidation, and elemental mercury (Hg0) removal performances, and exhibits resistance to SO2. This study paves the way for the development of efficient low-temperature O2 activation processes for the removal of gaseous pollutants in real-world applications.</description>
-      <author>Haomiao Xu, Qinyuan Hong, Jia&#8217;nan Wang, Jun Lei, Mingming Wang, Jiaxing Li, Zhisong Liu, Menggai Jiao, Wenjun Huang, Zan Qu, Naiqiang Yan</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06268</guid>
-    </item>
-    <item>
-      <title>Reactant-Induced Dynamic Active Sites on Cu Catalysts during the Water&#8211;Gas Shift Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c05338</link>
-      <description>Peng&#8208;Fei Hou, Qi Yu, Feng Luo, Jincheng Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405546397
-
-                Adsorbates can trigger surface reconstruction on metal surfaces, a common yet highly important phenomenon in heterogeneous catalysis that has not been fully explored. Here, we develop a reliable Cu&#8211;C&#8211;O machine learning force field (MLFF) with ab initio accuracy, providing insights into the reconstruction mechanism and distribution of active sites on the Cu surface under a CO atmosphere through state-of-the-art deep potential molecular dynamics (DPMD). Combining statistical cluster analysis with microkinetic modeling, we establish a strategy to quantitatively assess the turnover frequency (TOF) of catalyst surfaces during the dynamic catalytic process. Our findings reveal that edge Cu atoms undergo rearrangement, ejection, diffusion, and aggregation under a CO atmosphere, leading to the formation of cluster active sites. These small clusters in dynamic equilibrium are identified as the origin of the high catalytic activity of Cu-based catalysts for a low-temperature water&#8211;gas shift reaction (WGSR). This work not only elucidates intrinsic activity in metal catalysis and the dynamic catalysis theory but also offers valuable insights for computational catalysis methods to identify effective catalysts for practical applications.</description>
-      <author>Peng&#8208;Fei Hou, Qi Yu, Feng Luo, Jincheng Liu</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05338</guid>
-    </item>
-    <item>
-      <title>Unraveling Alcohol Additive Effects on Hypervalent Iodine(III)-Catalyzed Asymmetric Phenolic Dearomatization: Ligand Substitution and Low-Barrier Hydrogen Bonds</title>
-      <link>https://doi.org/10.1021/acscatal.4c06557</link>
-      <description>Hanliang Zheng, Cai Liu, Xiaoyu Lai, Muhammet Uyanik, Kazuaki Ishihara, Xiao&#8208;Song Xue, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405546575
-
-                Despite the widespread use of hexafluoropropanol (HFIP) as a "magic" solvent or additive in organic synthesis, its fundamental mechanisms lag far behind. This study presents mechanistic insights into the puzzling alcohol additive effects observed in Ishihara's conformationally flexible C2-symmetric iodoarene-catalyzed asymmetric phenolic dearomatization through density functional theory calculations. The results reveal that due to the "booster effect" of fluorinated alcohols, HFIP assembles a trimeric hydrogen bond cluster that displaces a ligand from the active iodine(III) catalyst and forms a low-barrier hydrogen bond with the substrate, which significantly enhances the oxidizing power of the iodine(III) center, thus facilitating the dearomatization of electron-deficient phenols. Conversely, methanol is found to promote the dearomatization of electron-rich phenols via a formally similar yet distinct mechanism, thus highlighting the unique role of HFIP as an additive. The insights gained from this investigation advance our molecular-level understanding of the synergistic interactions between catalysts and additives, potentially guiding the design of catalytic systems that exploit these effects for broader applications.</description>
-      <author>Hanliang Zheng, Cai Liu, Xiaoyu Lai, Muhammet Uyanik, Kazuaki Ishihara, Xiao&#8208;Song Xue</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06557</guid>
-    </item>
     <item>
       <title>New Insights into CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction in Acidic Seawater</title>
       <link>https://doi.org/10.1021/acscatal.4c05816</link>
@@ -222,7 +162,7 @@
       <link>https://doi.org/10.1021/acscatal.3c04684</link>
       <description>Jessica L. Gomez-Lopez, Ashlee J. Davis, Timothy J. McClure, Mina Son, Daniel C. Steigerwald, Rebecca B. Watson, Mu&#8208;Hyun Baik, Corinna S. Schindler, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405703780
 
-                No abstract</description>
+                Carbonyl&#8211;olefin metathesis reactions are powerful transformations for carbon&#8211;carbon bond formation. Despite recent progress, limitations exist that hamper the synthetic generality of the reported approaches. Catalytic systems that will enable tuning of their Lewis acidity and consequently the selective activation of specific substrate classes are expected to greatly enhance the current scope. We herein report the development of cationic iron-bis(oxazoline) complexes as powerful catalysts that enable the alteration of Lewis acidity to efficiently convert substrate types that were previously found to be incompatible with existing catalytic systems in carbonyl&#8211;olefin ring-closing metathesis.</description>
       <author>Jessica L. Gomez-Lopez, Ashlee J. Davis, Timothy J. McClure, Mina Son, Daniel C. Steigerwald, Rebecca B. Watson, Mu&#8208;Hyun Baik, Corinna S. Schindler</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04684</guid>
@@ -356,6 +296,26 @@
       <author>Luis Acu&#241;a-Saavedra, Ana Mar&#237;a M&#233;ndez&#8208;Torres, Gloria C&#225;rdenas&#8208;Jir&#243;n, Rub&#233;n O&#241;ate, Benjam&#237;n S&#225;nchez-Allende, Ricardo Venegas, Roberto Bernal, Francisco Melo, Elizabeth Imbarack, Jos&#233; H. Zagal, Ingrid Ponce</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06957</guid>
+    </item>
+    <item>
+      <title>Expeditious Synthesis of Highly Functional 4-Trifluoromethyl-Substituted Oxazoles Enabled by Cobalt(II) Metalloradical Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c07209</link>
+      <description>Li Wang, Qingyun Duan, Baiquan Wang, Bin Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405775871
+
+                No abstract</description>
+      <author>Li Wang, Qingyun Duan, Baiquan Wang, Bin Li</author>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07209</guid>
+    </item>
+    <item>
+      <title>Enhancing Acidic Water Electrolysis via Local Electronic Regulation of Ru/TiO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Catalyst with Oxygen Coordination Unsaturated Ti Sites</title>
+      <link>https://doi.org/10.1021/acscatal.4c06836</link>
+      <description>Wei Xia, Kai Yuan, Xuejie Cao, Hongye Qin, Guangliang Lin, Jinyang Zhang, Ting Jin, Qing&#8208;Lun Wang, Lifang Jiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405783804
+
+                No abstract</description>
+      <author>Wei Xia, Kai Yuan, Xuejie Cao, Hongye Qin, Guangliang Lin, Jinyang Zhang, Ting Jin, Qing&#8208;Lun Wang, Lifang Jiao</author>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06836</guid>
     </item>
   </channel>
 </rss>

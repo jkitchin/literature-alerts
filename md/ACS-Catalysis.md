@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Dec 26 01:20:27 2024
+Created on Fri Dec 27 01:20:34 2024
 
-Found 35 results from 2024-12-19 to 2024-12-26
+Found 31 results from 2024-12-20 to 2024-12-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Organizational and Mechanistic Modulation of ORR/OER Activity in M1M2–N–C Bimetallic Catalysts   
-
-OpenAlex: https://openalex.org/W4405529735    
-Open access: False
-    
-[Xinge Wu](https://openalex.org/A5052934313), [Zhaoying Yang](https://openalex.org/A5101268139), [Decheng Li](https://openalex.org/A5100368347), [Shuai Shao](https://openalex.org/A5089879316), [Gaowu Qin](https://openalex.org/A5079960421), [Xiangying Meng](https://openalex.org/A5008454078), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06280.
-    
-No abstract    
-
-    
-
-## Hydrothermally Stable Zeolite-Encapsulated Metal Catalyst Promoted by Framework Sn Species   
-
-OpenAlex: https://openalex.org/W4405534973    
-Open access: False
-    
-[Xiaoyu Li](https://openalex.org/A5100449160), [Lichen Liu](https://openalex.org/A5014361961), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05458.
-    
-Hydrothermal stability is a vital performance criterion considered in the design of heterogeneous metal catalysts for practical applications because of the widespread presence of moisture in the reaction feeds or the products. In this work, we substantially promote the hydrothermal stability of the Pt-zeolite catalyst by incorporating Sn into the zeolite framework. Pt species are stabilized as small nanoparticles, and the MFI zeolite structure is well preserved even after hydrothermal treatment at 850 °C in a mixed atmosphere (CO + O2 + H2O). Adding Sn into Pt-MFI not only heals the defect sites in pure-silica MFI zeolite to promote its structural stability during hydrothermal treatment but also stabilizes the mobile PtOx species via the Sn–O–Pt interaction. The remarkably high stability of the Pt particles encapsulated in the Sn-promoted MFI zeolite is reflected in the CO oxidation reaction in which Pt particles stabilized in the Sn-promoted MFI zeolite exhibit much higher stability than the nonpromoted Pt-MFI catalyst. The stabilization effect of Sn is further extended to a Pd-MFI zeolite catalyst in which the average size of the Pd particles remains below 2 nm after the harsh hydrothermal treatments at 850 °C.    
-
-    
-
-## Operando Surface-Enhanced Infrared Spectroscopy Connects Interfacial Dynamics with Reaction Kinetics During Electrochemical CO2 Reduction on Copper   
-
-OpenAlex: https://openalex.org/W4405539425    
-Open access: False
-    
-[Jesse E. Matthews](https://openalex.org/A5104667539), [Jaime E. Avilés Acosta](https://openalex.org/A5073188790), [Sang‐Won Lee](https://openalex.org/A5100360895), [Dongrak Oh](https://openalex.org/A5020707671), [Tiras Y. Lin](https://openalex.org/A5068663944), [Kyra M. K. Yap](https://openalex.org/A5035155573), [Junjie Chen](https://openalex.org/A5032135184), [Ji‐Wook Jang](https://openalex.org/A5061624173), [Dong Un Lee](https://openalex.org/A5103119004), [Adam C. Nielander](https://openalex.org/A5051904251), [Thomas F. Jaramillo](https://openalex.org/A5078810774), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05532.
-    
-The reaction microenvironment plays a key role in dictating the selectivity of electrochemical CO2 reduction. However, understanding the chemical nature of this microenvironment under operating conditions remains a substantial challenge. We employed attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) in operando for simultaneous measurements of reaction kinetics and concentrations of reactants and intermediates at the reaction interface, all under controlled mass transport conditions. These operando measurements enable direct correlations between the reaction microenvironment, mass transport, and kinetics for a Cu electrocatalyst, such as higher local concentrations of CO2 under faster mass transport corresponding to higher rates of CO2 reduction. We observed that faster mass transport decreased the *CO coverage at less negative potentials (−0.6 VRHE) and increased the *CO coverage at more negative potentials (−1.1 VRHE). We developed a transport-coupled kinetic model that captures these spectroscopic observations and provides insight into the processes controlling interfacial concentrations of reactants and intermediates, aiding future efforts toward tailoring reaction microenvironments.    
-
-    
-
-## Revealing the Jahn–Teller Mitigating Complexity of Se-Anchored Mn Oxides for Superior SO2 Resistance in Gaseous Molecular Oxygen Activation   
-
-OpenAlex: https://openalex.org/W4405546278    
-Open access: False
-    
-[Haomiao Xu](https://openalex.org/A5073552078), [Qinyuan Hong](https://openalex.org/A5087755412), [Jia’nan Wang](https://openalex.org/A5029372480), [Jun Lei](https://openalex.org/A5100769155), [Mingming Wang](https://openalex.org/A5100347511), [Jiaxing Li](https://openalex.org/A5100636534), [Zhisong Liu](https://openalex.org/A5100358866), [Menggai Jiao](https://openalex.org/A5106481340), [Wenjun Huang](https://openalex.org/A5030077298), [Zan Qu](https://openalex.org/A5013833309), [Naiqiang Yan](https://openalex.org/A5020501565), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06268.
-    
-Manganese oxides have emerged as promising catalysts for the low-temperature activation of molecular oxygen (O2), crucial for the catalytic oxidation and removal of gaseous pollutants. However, the undesired Jahn–Teller (J-T) effects associated with the Mniv/Mniii redox couple, particularly under SO2 poisoning, led to the effectiveness of Mn oxides in applications. Herein, we construct a highly covalent Seiv-O-Mniii structure via the introduction of selenium into α-MnO2. Such a structure features high-valence Seiv anchored on the oxygen-terminated (110) plane of α-MnO2, facilitates the generation of more active oxygen species, and maintains the continuous cycling of oxygen-linked Mniv/Mniii. Such dynamics are pivotal for stabilizing manganese activation and mitigating the J-T effect. Through a combination of experimental investigations and theoretical calculations, we demonstrate that the Seiv-O-Mniii configuration, characterized by a high degree of Mn–O hybridization, significantly enhances CO oxidation, NH3 oxidation, and elemental mercury (Hg0) removal performances, and exhibits resistance to SO2. This study paves the way for the development of efficient low-temperature O2 activation processes for the removal of gaseous pollutants in real-world applications.    
-
-    
-
-## Reactant-Induced Dynamic Active Sites on Cu Catalysts during the Water–Gas Shift Reaction   
-
-OpenAlex: https://openalex.org/W4405546397    
-Open access: False
-    
-[Peng‐Fei Hou](https://openalex.org/A5101475771), [Qi Yu](https://openalex.org/A5017725939), [Feng Luo](https://openalex.org/A5068247094), [Jincheng Liu](https://openalex.org/A5100608982), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05338.
-    
-Adsorbates can trigger surface reconstruction on metal surfaces, a common yet highly important phenomenon in heterogeneous catalysis that has not been fully explored. Here, we develop a reliable Cu–C–O machine learning force field (MLFF) with ab initio accuracy, providing insights into the reconstruction mechanism and distribution of active sites on the Cu surface under a CO atmosphere through state-of-the-art deep potential molecular dynamics (DPMD). Combining statistical cluster analysis with microkinetic modeling, we establish a strategy to quantitatively assess the turnover frequency (TOF) of catalyst surfaces during the dynamic catalytic process. Our findings reveal that edge Cu atoms undergo rearrangement, ejection, diffusion, and aggregation under a CO atmosphere, leading to the formation of cluster active sites. These small clusters in dynamic equilibrium are identified as the origin of the high catalytic activity of Cu-based catalysts for a low-temperature water–gas shift reaction (WGSR). This work not only elucidates intrinsic activity in metal catalysis and the dynamic catalysis theory but also offers valuable insights for computational catalysis methods to identify effective catalysts for practical applications.    
-
-    
-
-## Unraveling Alcohol Additive Effects on Hypervalent Iodine(III)-Catalyzed Asymmetric Phenolic Dearomatization: Ligand Substitution and Low-Barrier Hydrogen Bonds   
-
-OpenAlex: https://openalex.org/W4405546575    
-Open access: False
-    
-[Hanliang Zheng](https://openalex.org/A5019926319), [Cai Liu](https://openalex.org/A5100645952), [Xiaoyu Lai](https://openalex.org/A5080162755), [Muhammet Uyanik](https://openalex.org/A5083726075), [Kazuaki Ishihara](https://openalex.org/A5061232778), [Xiao‐Song Xue](https://openalex.org/A5058629788), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06557.
-    
-Despite the widespread use of hexafluoropropanol (HFIP) as a "magic" solvent or additive in organic synthesis, its fundamental mechanisms lag far behind. This study presents mechanistic insights into the puzzling alcohol additive effects observed in Ishihara's conformationally flexible C2-symmetric iodoarene-catalyzed asymmetric phenolic dearomatization through density functional theory calculations. The results reveal that due to the "booster effect" of fluorinated alcohols, HFIP assembles a trimeric hydrogen bond cluster that displaces a ligand from the active iodine(III) catalyst and forms a low-barrier hydrogen bond with the substrate, which significantly enhances the oxidizing power of the iodine(III) center, thus facilitating the dearomatization of electron-deficient phenols. Conversely, methanol is found to promote the dearomatization of electron-rich phenols via a formally similar yet distinct mechanism, thus highlighting the unique role of HFIP as an additive. The insights gained from this investigation advance our molecular-level understanding of the synergistic interactions between catalysts and additives, potentially guiding the design of catalytic systems that exploit these effects for broader applications.    
-
-    
 
 ## New Insights into CO2 Electroreduction in Acidic Seawater   
 
@@ -244,7 +178,7 @@ Open access: False
     
 [Jessica L. Gomez-Lopez](https://openalex.org/A5071609115), [Ashlee J. Davis](https://openalex.org/A5013478746), [Timothy J. McClure](https://openalex.org/A5109696083), [Mina Son](https://openalex.org/A5064694117), [Daniel C. Steigerwald](https://openalex.org/A5018802746), [Rebecca B. Watson](https://openalex.org/A5040142464), [Mu‐Hyun Baik](https://openalex.org/A5030203661), [Corinna S. Schindler](https://openalex.org/A5049025148), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04684.
     
-No abstract    
+Carbonyl–olefin metathesis reactions are powerful transformations for carbon–carbon bond formation. Despite recent progress, limitations exist that hamper the synthetic generality of the reported approaches. Catalytic systems that will enable tuning of their Lewis acidity and consequently the selective activation of specific substrate classes are expected to greatly enhance the current scope. We herein report the development of cationic iron-bis(oxazoline) complexes as powerful catalysts that enable the alteration of Lewis acidity to efficiently convert substrate types that were previously found to be incompatible with existing catalytic systems in carbonyl–olefin ring-closing metathesis.    
 
     
 
@@ -386,6 +320,28 @@ OpenAlex: https://openalex.org/W4405755151
 Open access: False
     
 [Luis Acuña-Saavedra](https://openalex.org/A5115632326), [Ana María Méndez‐Torres](https://openalex.org/A5013122167), [Gloria Cárdenas‐Jirón](https://openalex.org/A5007798531), [Rubén Oñate](https://openalex.org/A5054608379), [Benjamín Sánchez-Allende](https://openalex.org/A5115632327), [Ricardo Venegas](https://openalex.org/A5083628069), [Roberto Bernal](https://openalex.org/A5086506639), [Francisco Melo](https://openalex.org/A5079391179), [Elizabeth Imbarack](https://openalex.org/A5055888489), [José H. Zagal](https://openalex.org/A5043992472), [Ingrid Ponce](https://openalex.org/A5010033297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06957.
+    
+No abstract    
+
+    
+
+## Expeditious Synthesis of Highly Functional 4-Trifluoromethyl-Substituted Oxazoles Enabled by Cobalt(II) Metalloradical Catalysis   
+
+OpenAlex: https://openalex.org/W4405775871    
+Open access: False
+    
+[Li Wang](https://openalex.org/A5100322864), [Qingyun Duan](https://openalex.org/A5018335704), [Baiquan Wang](https://openalex.org/A5089813280), [Bin Li](https://openalex.org/A5100365280), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07209.
+    
+No abstract    
+
+    
+
+## Enhancing Acidic Water Electrolysis via Local Electronic Regulation of Ru/TiOx Catalyst with Oxygen Coordination Unsaturated Ti Sites   
+
+OpenAlex: https://openalex.org/W4405783804    
+Open access: False
+    
+[Wei Xia](https://openalex.org/A5053858441), [Kai Yuan](https://openalex.org/A5088890150), [Xuejie Cao](https://openalex.org/A5071631246), [Hongye Qin](https://openalex.org/A5039881332), [Guangliang Lin](https://openalex.org/A5005782269), [Jinyang Zhang](https://openalex.org/A5100648796), [Ting Jin](https://openalex.org/A5100661546), [Qing‐Lun Wang](https://openalex.org/A5037415051), [Lifang Jiao](https://openalex.org/A5014197896), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06836.
     
 No abstract    
 

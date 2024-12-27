@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Dec 26 01:20:35 2024
+Created on Fri Dec 27 01:20:43 2024
 
-Found 49 results from 2024-12-19 to 2024-12-26
+Found 46 results from 2024-12-20 to 2024-12-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502)
@@ -16,72 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Platinum-based catalysts for oxygen reduction reaction simulated with a quantum computer   
-
-OpenAlex: https://openalex.org/W4405528122    
-Open access: True
-    
-[Cono Di Paola](https://openalex.org/A5087109520), [Evgeny Plekhanov](https://openalex.org/A5028431596), [Michał Krompiec](https://openalex.org/A5037161192), [Chandan Kumar](https://openalex.org/A5021496651), [Emanuele Marsili](https://openalex.org/A5099114976), [Fengmin Du](https://openalex.org/A5084204027), [Daniel Weber](https://openalex.org/A5084181299), [J. Krauser](https://openalex.org/A5113668820), [Elvira Shishenina](https://openalex.org/A5076021711), [David Muñoz Ramo](https://openalex.org/A5052014310), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01460-x ([pdf](https://www.nature.com/articles/s41524-024-01460-x.pdf)).
-    
-Hydrogen has emerged as a promising energy source for low-carbon and sustainable mobility purposes. However, its applications are still limited by modest conversion efficiency in the electrocatalytic oxygen reduction reaction (ORR) within fuel cells. The complex nature of the ORR and the presence of strong electronic correlations present challenges to atomistic modelling using classical computers. This scenario opens new avenues for the implementation of novel quantum computing workflows. Here, we present a state-of-the-art study that combines classical and quantum computational approaches to investigate ORR on platinum-based surfaces. Our research demonstrates, for the first time, the feasibility of implementing this workflow on the H1-series trapped-ion quantum computer and identify the challenges of the quantum chemistry modelling of this reaction. The results highlight the great potentiality of quantum computers in solving notoriously difficult systems with strongly correlated electronic structures and suggest platinum/cobalt as ideal candidate for showcasing quantum advantage in future applications.    
-
-    
-
-## Organizational and Mechanistic Modulation of ORR/OER Activity in M1M2–N–C Bimetallic Catalysts   
-
-OpenAlex: https://openalex.org/W4405529735    
-Open access: False
-    
-[Xinge Wu](https://openalex.org/A5052934313), [Zhaoying Yang](https://openalex.org/A5101268139), [Decheng Li](https://openalex.org/A5100368347), [Shuai Shao](https://openalex.org/A5089879316), [Gaowu Qin](https://openalex.org/A5079960421), [Xiangying Meng](https://openalex.org/A5008454078), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06280.
-    
-No abstract    
-
-    
-
-## Modulation of point defect properties near surfaces in metal halide perovskites   
-
-OpenAlex: https://openalex.org/W4405533719    
-Open access: False
-    
-[Bilal Ahmad](https://openalex.org/A5113521432), [Md Salman Rabbi Limon](https://openalex.org/A5104344603), [Zeeshan Ahmad](https://openalex.org/A5049320350), Physical Review Materials. 8(12)] 2024.https://doi.org/10.1103/physrevmaterials.8.125402.
-    
-No abstract    
-
-    
-
-## The V30 benchmark set for anharmonic vibrational frequencies of molecular dimers   
-
-OpenAlex: https://openalex.org/W4405541010    
-Open access: False
-    
-[Johannes Hoja](https://openalex.org/A5056779247), [A. Daniel Boese](https://openalex.org/A5089944603), The Journal of Chemical Physics. 161(23)] 2024.https://doi.org/10.1063/5.0238491.
-    
-Intermolecular vibrations are extremely challenging to describe but are the most crucial part for determining entropy and hence free energies and enable, for instance, the distinction between different crystal-packing arrangements of the same molecule via THz spectroscopy. Herein, we introduce a benchmark dataset—V30—containing 30 small molecular dimers with intermolecular interactions ranging from exclusively van der Waals dispersion to systems with hydrogen bonds. All the calculations are performed with the gold standard of quantum chemistry CCSD(T). We discuss vibrational frequencies obtained via different models starting with the harmonic approximation over independent Morse oscillators up to second-order vibrational perturbation theory (VPT2), which allows a proper anharmonic treatment including coupling of vibrational modes. However, large amplitude motions present in many low-frequency intermolecular modes are problematic for VPT2. In analogy to the often used treatment for internal rotations, we replace such problematic modes by a simple one-dimensional hindered rotor model. We compare selected dimers to the available experimental data or high-level calculations of potential energy surfaces and show that VPT2 in combination with hindered rotors can yield a very good description of fundamental frequencies for the discussed subset of dimers involving small and semi-rigid molecules.    
-
-    
-
-## NMR Investigations of Host–Guest Interactions in MOFs and COFs   
-
-OpenAlex: https://openalex.org/W4405551205    
-Open access: False
-    
-[Shoushun Chen](https://openalex.org/A5016055012), [Xin Du](https://openalex.org/A5073531773), [Yuzhen Liu](https://openalex.org/A5101943544), [Jun Xu](https://openalex.org/A5100786169), [Xingguo Han](https://openalex.org/A5083957809), [Bryan E. G. Lucier](https://openalex.org/A5067850882), [Yining Huang](https://openalex.org/A5008557264), Royal Society of Chemistry eBooks. None(None)] 2024.https://doi.org/10.1039/9781839167287-00153.
-    
-Host–guest interactions in porous metal–organic frameworks (MOFs) and covalent-organic frameworks (COFs) play a key role in enhancing the performance of these materials for practical applications; however, it is often very challenging to investigate these interactions at the molecular level. In recent years, many solid-state NMR (SSNMR) approaches, including in situ variable temperature (VT), 2D correlation, and pulsed field gradient (PFG) experiments, have offered unique insights into the local structure and dynamics of adsorbed guest molecules in MOFs and COFs. Recent SSNMR studies of MOFs and COFs containing guest molecules are summarized in this chapter. These reports encompass a variety of gaseous and liquid guests such as hydrogen, carbon dioxide, water, and methanol. We also highlight studies involving larger guest molecules, drugs, and biomolecules. It is apparent that SSNMR spectroscopy can provide a wealth of data pertaining to host–guest interactions in these materials; the information available commonly includes the number and location of guest adsorption sites, guest binding strengths, guest dynamics and diffusion rates, and guest-induced structural changes in the host. The studies discussed in this chapter illustrate how SSNMR spectroscopy serves as a powerful tool to probe host–guest interactions in MOFs/COFs, especially given the variety of potential target nuclei and the numerous experimental strategies that are available.    
-
-    
-
-## Screening of dual-atom catalysts for hydrogen evolution reaction on graphdiyne   
-
-OpenAlex: https://openalex.org/W4405555100    
-Open access: False
-    
-[Lei Qin](https://openalex.org/A5067662662), [Shitao Wang](https://openalex.org/A5035679191), [Ju Rong](https://openalex.org/A5064010494), [Yan Wei](https://openalex.org/A5107950939), [Xiaohua Yu](https://openalex.org/A5101538393), [Yudong Sui](https://openalex.org/A5101846373), [Yongqiang Yang](https://openalex.org/A5101944067), International Journal of Hydrogen Energy. 99(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.12.169.
-    
-No abstract    
-
-    
 
 ## Insights into the Enhanced ORR Activity of FeN4-Embedded Graphene Through Interface Interactions with Metal Substrates: Electronic vs. Geometric Descriptors   
 
@@ -484,7 +418,7 @@ No abstract
 OpenAlex: https://openalex.org/W4405749721    
 Open access: True
     
-[Ryosuke Jinnouchi](https://openalex.org/A5014137404), [Saori Minami](https://openalex.org/A5013319689), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c03437 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.4c03437?ref=article_openPDF)).
+[Ryosuke Jinnouchi](https://openalex.org/A5014137404), [Saori Minami](https://openalex.org/A5013319689), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c03437.
     
 The modification of Pt surfaces with organic compounds like melamine enhances oxygen reduction reaction activity and catalyst durability. Through first-principles free energy calculations utilizing thermodynamic integration and finite-temperature molecular dynamics, enhanced by machine learning force fields for efficient sampling of nanosecond-scale interfacial water fluctuations and incorporating corrections to accurately reproduce first-principles free energies, we demonstrate that melamine destabilizes OH adsorbates, facilitating their removal and enhancing catalytic activity. Unlike alloys, where OH destabilization is driven by changes in electronic structure and surface strain, melamine disrupts hydrogen bonding between OH and interfacial water. Structural and vibrational analyses reveal that melamine alters the water solvation structure, which is evident in modified radial distribution functions and a blue shift in the O–H stretching vibrations. These findings indicate that manipulating interfacial solvation with organic compounds could be a promising approach to enhance catalytic activity without compromising durability.    
 
@@ -534,6 +468,50 @@ No abstract
 
     
 
+## Two-dimensional metal–organic frameworks with dual active sites for electrochemical CO2 reduction: A computational study   
+
+OpenAlex: https://openalex.org/W4405775281    
+Open access: False
+    
+[Guanru Xing](https://openalex.org/A5023014154), [Shize Liu](https://openalex.org/A5084675881), [Jing‐yao Liu](https://openalex.org/A5013853310), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.131275.
+    
+No abstract    
+
+    
+
+## Designing Ru–B–Cr Moieties to Activate the Ru Site for Acidic Water Electrolysis under Industrial-Level Current Density   
+
+OpenAlex: https://openalex.org/W4405775903    
+Open access: False
+    
+[Weimo Li](https://openalex.org/A5047902639), [Linfeng Zhang](https://openalex.org/A5100689119), [Lipo Ma](https://openalex.org/A5010198088), [Jiawei Wang](https://openalex.org/A5100388762), [Ruikai Qi](https://openalex.org/A5006634817), [Yang Pang](https://openalex.org/A5101144673), [Meijiao Xu](https://openalex.org/A5079373839), [Chengji Zhao](https://openalex.org/A5073388363), [Ce Wang](https://openalex.org/A5100600897), [Mingbin Gao](https://openalex.org/A5014923308), [Xiaofeng Lu](https://openalex.org/A5075456232), Nano Letters. None(None)] 2024.https://doi.org/10.1021/acs.nanolett.4c05113.
+    
+Developing highly efficient non-iridium-based active sites for acidic water splitting is still a huge challenge. Herein, unique Ru–B–Cr moieties have been constructed in RuO2 nanofibers (NFs) to activate Ru sites for water electrolysis, which overcomes the bottleneck of RuO2-based catalysts usually possessing low activity for the hydrogen evolution reaction (HER) and poor stability for the oxygen evolution reaction (OER). The fabricated Cr, B-doped RuO2 NFs exhibit low overpotentials of 205 and 379 mV for acidic HER and OER at 1 A cm–2 with outstanding stability lasting 1000 and 188 h, respectively. The assembled acidic electrolyzer also possesses great hydrogen production efficiency and durability at a high current density. Experimental and theoretical explorations reveal that the formation of Ru–B–Cr moieties effectively optimizes the atomic configurations and modulates the adsorption/desorption free energy of reaction intermediates to achieve exceptional HER and OER performance.    
+
+    
+
+## A computational survey of layered mixed phases Mn1−xNixPS3 for water splitting: Modulation of the band gap and the oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4405782916    
+Open access: False
+    
+[Nicolás Forero-Correa](https://openalex.org/A5070942133), [Carolina Aliaga](https://openalex.org/A5016928113), [Evgenia Spodine](https://openalex.org/A5087991504), [Catalina Cortés](https://openalex.org/A5084359244), [Tatiana Gómez](https://openalex.org/A5036031701), [Javiera Cabezas-Escares](https://openalex.org/A5092652472), [Francisco Muñoz](https://openalex.org/A5048601132), [Carlos Cárdenas](https://openalex.org/A5060040447), International Journal of Hydrogen Energy. 99(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.11.364.
+    
+No abstract    
+
+    
+
+## Au atomic clusters on MoS2 nanosheets for hydrogen evolution reaction   
+
+OpenAlex: https://openalex.org/W4405790966    
+Open access: False
+    
+[Jiaqi Tian](https://openalex.org/A5109788169), [Lei Hou](https://openalex.org/A5071217955), [Wei Pei](https://openalex.org/A5063190135), [Xueke Yu](https://openalex.org/A5005624368), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.105691.
+    
+No abstract    
+
+    
+
 ## Activity-Drop of Hydrogen Evolution Reaction in LiNO3 Based “Hydronium-in-Salt” Acidic Electrolytes on Platinum Enables Electrochemical Nitrate Reduction   
 
 OpenAlex: https://openalex.org/W4405741914    
@@ -541,17 +519,6 @@ Open access: False
     
 [Cheolmin Park](https://openalex.org/A5081463979), [Min Young Seo](https://openalex.org/A5008960414), [Taesung Kwon](https://openalex.org/A5113100830), [Ji-Yoon Kim](https://openalex.org/A5101633473), [Ki Min Nam](https://openalex.org/A5088776131), [YongJoo Kim](https://openalex.org/A5023025842), [Jinho Chang](https://openalex.org/A5079206867), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c13117.
     
-No abstract    
-
-    
-
-## Development of the DES-contained reduced graphene oxide system with efficient CO2 adsorption and photothermal desorption for pre-gas purification in AEMFCs   
-
-OpenAlex: https://openalex.org/W4405529564    
-Open access: False
-    
-[Yifan Li](https://openalex.org/A5100427066), [Xianglin Kong](https://openalex.org/A5102381654), [Dahai Zhu](https://openalex.org/A5084131914), [Tianwen Guo](https://openalex.org/A5110417523), [Xinfeng Wu](https://openalex.org/A5110129758), [Wei Yu](https://openalex.org/A5100377274), [Jinpeng Wang](https://openalex.org/A5100708744), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.131193.
-    
-No abstract    
+The electrochemical nitrate reduction reaction (NO3–RR) involves multiple hydrogenation and deoxygenation steps, which compete with the hydrogen evolution reaction (HER). Therefore, NO3–RR driven in acidic media is challenging in spite of advantageous fast hydrogen transfers in its elementary steps. The findings presented in this article first demonstrate that the NO3–RR is significantly activated even in acidic lithium nitrate solutions at LiNO3 concentrations exceeding 6 m on a Pt electrode (the highly effective catalyst for HER) by the formation of a "hydronium-in-salt" electrolyte (HISE), a new type of aqueous high concentration salt electrolyte. The observed enhancement of NO3–RR while the suppression of HER-activity in the LiNO3 based HISE was verified by scanning electrochemical microscopy, electrochemical impedance spectroscopy, UV–vis/IR spectroscopy, and molecular dynamics simulations. The formation of a HISE in acidic LiNO3 solutions contrasts with that of a "water-in-salt" electrolyte in LiTFSI with the same concentration. The mechanism of NO3–RR activation in a HISE suggests facilitated proton-coupled electron transfers (PCETs) from H3O+ to NO3– and subsequent reactive intermediates owing to the proximity between the two ions induced by the unique solvation structure blended with all ions together (Li+ + NO3– + H3O+). In contrast, all the ions are separately hydrated at low concentrations of LiNO3 electrolytes. On the other hand, PCET from H2O to NO3– in a high concentration LiNO3 electrolyte (e.g., 9 m) is not kinetically preferred, probably owing to the slow dissociation kinetics of H2O, and therefore, H2O reduction is not suppressed by the NO3–RR.    
 
     
