@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Dec 2024 01:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 01:19:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Insights into the Enhanced ORR Activity of FeN4-Embedded Graphene Through Interface Interactions with Metal Substrates: Electronic vs. Geometric Descriptors</title>
-      <link>https://doi.org/10.1016/j.mtphys.2024.101633</link>
-      <description>Silu Li, Donghai Wu, Lulu Gao, Jiahang Li, Gang Tang, Zaiping Zeng, Dongwei Ma, Materials Today Physics. None(None)] 2024. https://openalex.org/W4405565286
-
-                No abstract</description>
-      <author>Silu Li, Donghai Wu, Lulu Gao, Jiahang Li, Gang Tang, Zaiping Zeng, Dongwei Ma</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101633</guid>
-    </item>
-    <item>
-      <title>Electrochemical interface modelling for electrocatalytic materials design</title>
-      <link>https://doi.org/10.1016/j.coelec.2024.101638</link>
-      <description>Lucas G. Verga, Seung&#8208;Jae Shin, Aron Walsh, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4405585850
-
-                No abstract</description>
-      <author>Lucas G. Verga, Seung&#8208;Jae Shin, Aron Walsh</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101638</guid>
-    </item>
-    <item>
-      <title>Atomically dispersed iron &amp;amp; iron clusters synergistically accelerate electrocatalytic ammonia synthesis</title>
-      <link>https://doi.org/10.1016/j.cej.2024.158785</link>
-      <description>Haoran Zhang, Yuelong Liu, Sanshuang Gao, Haijian Wang, Rui Bai, Yan Zhao, Yingtang Zhou, Guangzhi Hu, Xue Zhao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405586089
-
-                No abstract</description>
-      <author>Haoran Zhang, Yuelong Liu, Sanshuang Gao, Haijian Wang, Rui Bai, Yan Zhao, Yingtang Zhou, Guangzhi Hu, Xue Zhao</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158785</guid>
-    </item>
-    <item>
-      <title>Long Time Scale Molecular Dynamics Simulation of Magnesium Hydride Dehydrogenation Enabled by Machine Learning Interatomic Potentials</title>
-      <link>https://doi.org/10.1021/acsaem.4c02627</link>
-      <description>Oliver Morrison, Elena Uteva, Gavin S. Walker, David M. Grant, Sanliang Ling, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4405591634
-
-                Magnesium hydride (MgH2) is a promising material for solid-state hydrogen storage due to its high gravimetric hydrogen capacity as well as the abundance and low cost of magnesium. The material's limiting factor is the high dehydrogenation temperature (over 300 &#176;C) and sluggish (de)hydrogenation kinetics when no catalyst is present, making it impractical for onboard applications. Catalysts and physical restructuring (e.g., through ball milling) have both shown kinetic improvements, without full theoretical understanding as to why. In this work, we developed a machine learning interatomic potential (MLP) for the Mg&#8211;H system, which was used to run long time scale molecular dynamics (MD) simulations of a thick magnesium hydride surface slab for up to 1 ns. Our MLP-based MD simulations reveal previously unreported behavior of subsurface molecular H2 formation and subsequent trapping in the subsurface layer of MgH2. This hindered diffusion of subsurface H2 offers a partial explanation on the slow dehydrogenation kinetics of MgH2. The kinetics will be improved if a catalyst obstructs subsurface formation and trapping of H2 or if the diffusion of subsurface H2 is improved through defects created by physical restructuring.</description>
-      <author>Oliver Morrison, Elena Uteva, Gavin S. Walker, David M. Grant, Sanliang Ling</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c02627</guid>
-    </item>
-    <item>
-      <title>Decoding the Role of Adsorbates Entropy in the Reactivity of Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c04472</link>
-      <description>Elena Simone, Gianvito Vil&#233;, Giovanni Di Liberto, Gianfranco Pacchioni, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405592086
-
-                Single-atom catalysts (SACs) are rapidly gaining attention as a versatile class of materials that combine the advantages of both homogeneous and heterogeneous catalysis. A growing number of studies aim to identify potential new SACs or to describe their structure and reactivity through ab initio quantum chemical simulations. While many computational studies primarily address reactions involving small molecules, such as water splitting or CO2 reduction, the application scope of SACs is rapidly broadening to include the production of fine chemicals and the conversion of biomass-derived platform molecules, processes that involve larger, more complex reactants. Using density-functional theory (DFT) simulations, we demonstrate that, while an approximate treatment of entropy is acceptable for molecules with up to three atoms, it introduces substantial errors in reactions involving more complex molecules. Our results reveal a linear correlation between the entropy of adsorbed molecules and that of the corresponding isolated species, mirroring trends observed on extended catalytic surfaces. For the largest systems investigated in this study, the entropy of the free molecule is reduced by approximately 10&#8211;20% upon adsorption; for small molecules, this reduction can range from 50 to 70%. This disparity arises because, on SACs, the translational entropy is effectively zero, the rotational entropy is minimal, and the vibrational entropy increases with the size of the molecule. Moreover, the entropy of adsorbates scales linearly with the number of atoms in the molecule, allowing for the prediction of entropic contributions of adsorbates on SACs without additional computational cost. Using propyne hydrogenation as a test, we demonstrate that the reaction energy profile computed with current approximate approaches for estimating the entropy of adsorbates differs significantly from the profile where entropy is explicitly included. These findings highlight the importance of considering adsorbate entropy for accurately predicting the catalytic activity of SACs, particularly for reactions involving complex molecules.</description>
-      <author>Elena Simone, Gianvito Vil&#233;, Giovanni Di Liberto, Gianfranco Pacchioni</author>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c04472</guid>
-    </item>
-    <item>
-      <title>Controlling Co 3d/O 2p Orbital Hybridization in LaCoO&lt;sub&gt;3&lt;/sub&gt; by Modulating the Co&#8211;O&#8211;Co Bond Angle for Enhanced Oxygen Evolution Reaction Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c05479</link>
-      <description>Baoxin Ge, Pengyang Jiang, Biyi Chen, Caijin Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405601758
-
-                The orbital hybridization between metal and oxygen of perovskite catalysts can lower the overpotential and enhance the oxygen evolution reaction (OER) activity. This study combines density functional theory with experiments to clarify how Sr/Fe codoping modulates orbital hybridization and enhances OER catalytic activity of LaCoO3. The as-prepared La0.50Sr0.50Co0.75Fe0.25O3 shows remarkable performance with a low overpotential of 310 mV at 10 mA cm&#8211;2 current density and a 107.03 mV dec&#8211;1 Tafel slope, outperforming most state-of-the-art perovskite-based OER electrocatalysts. The experimental results confirm that Sr/Fe codoping enhances the expansion of Co&#8211;O&#8211;Co bond angles and strengthens the covalency of the Co&#8211;O bond in LaCoO3, leading to enhanced electrocatalytic activity. Moreover, increasing Sr doping reduces the distance between the Co 3d/O 2p center and the Fermi level, decreasing the energy difference between them and enhancing the degree of orbital hybridization between Co 3d and O 2p. As the degree of Co 3d/O 2p orbital hybridization increases, a higher charge transfer was found between the active center and intermediate product, OOH, reducing the energy barrier of the rate-determining step while lowering the overpotential. This study provides thorough insight into the rational design of OER catalysts based on orbital hybridization.</description>
-      <author>Baoxin Ge, Pengyang Jiang, Biyi Chen, Caijin Huang</author>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05479</guid>
-    </item>
-    <item>
-      <title>Cultivating superior CO2 reduction performance via rationally engineered nitrogen-phosphorus co-doped graphene catalysts: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.diamond.2024.111895</link>
-      <description>Ismail Shahid, Ruixin Zhang, Xiaoliang Zhang, Dawei Tang, Vineet Tirth, Diamond and Related Materials. None(None)] 2024. https://openalex.org/W4405611556
-
-                No abstract</description>
-      <author>Ismail Shahid, Ruixin Zhang, Xiaoliang Zhang, Dawei Tang, Vineet Tirth</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.111895</guid>
-    </item>
-    <item>
-      <title>Thermally Stimulated Spin Switching Accelerates Water Electrolysis</title>
-      <link>https://doi.org/10.1103/physrevlett.133.258001</link>
-      <description>Mengfei Lu, Yu Du, Shicheng Yan, Tao Yu, Zhigang Zou, Physical Review Letters. 133(25)] 2024. https://openalex.org/W4405614811
-
-                No abstract</description>
-      <author>Mengfei Lu, Yu Du, Shicheng Yan, Tao Yu, Zhigang Zou</author>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevlett.133.258001</guid>
-    </item>
-    <item>
-      <title>Single-Atom Catalysts: Are You Really Single?</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c02844</link>
-      <description>Ana S. Dobrota, Igor A. Pa&#353;ti, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4405615794
-
-                Single-atom catalysts (SACs) have attracted the attention of the scientific community due to a number of attractive properties allowing their application in different catalytic processes, including electrochemical ones. Due to the nature of the active site, consisting of only a few atoms, SACs are also very attractive for theoretical modeling as the active site can be directly translated into the computational model. However, as a rule, the possibility of the active site change induced by pH and electrode potential is disregarded in theoretical models. This Perspective emphasizes the need to address the actual state of SA electrocatalysts under operating conditions before considering their catalytic activity and selectivity. The concept of surface Pourbaix plot, well-known in electrochemistry, can be directly transferred to SACs, providing valuable insights and guidance for developing novel catalytic materials. We discuss recent approaches to designing Pourbaix plots for SACs and outline the importance of properly treating the actual state of SACs and other emerging types of catalysts.</description>
-      <author>Ana S. Dobrota, Igor A. Pa&#353;ti</author>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c02844</guid>
-    </item>
-    <item>
-      <title>Calculation of Adsorbate Free Energy Using the Damping Function Method</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c01079</link>
-      <description>Yanhua Lei, Lei Liu, Erjun Zhang, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4405615873
-
-                Adsorbate free energies are important parameters in surface chemistry and catalysis. Because of its simplicity, the harmonic oscillator (HO) model remains the most widely used method for calculating adsorbate free energy in many fields, including microkinetic modeling. However, it is well-known that the HO method is ineffective for weak adsorption. In this study, we propose a translational model with a diffusion barrier to calculate the state functions of near free translation. Furthermore, an effective mass is introduced in this model. To address hindered translation uniformly, a diffusion barrier-based damping function (DF) is proposed that effectively links the harmonic vibration and translation limits. Adsorbates are divided into three categories according to their adsorption strength and diffusion barrier height. Adsorbed hydrogen atoms have a strong binding energy and relatively high vibrational frequency but a low diffusion barrier. The HT and our proposed DF methods predict that the adsorbed hydrogen atoms behave as translation above room temperature, while the previous DF method predicts that they behave as vibration at any temperature. At last, the dehydrogenation reaction of propane on the Pt(111) surface was taken as an example to illustrate the influence of different methods on the thermodynamic functions.</description>
-      <author>Yanhua Lei, Lei Liu, Erjun Zhang</author>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c01079</guid>
-    </item>
-    <item>
-      <title>A Library of Seed@High&#8208;Entropy&#8208;Alloy Core&#8211;shell Nanocrystals With Controlled Facets for Catalysis</title>
-      <link>https://doi.org/10.1002/adma.202411464</link>
-      <description>Yueh&#8208;Chun Hsiao, Cheng&#8208;Yu Wu, Chih&#8208;Heng Lee, Wen&#8208;Yang Huang, Ho Viet Thang, Chong&#8208;Chi Chi, Wen&#8208;Jing Zeng, Jiaqi Gao, Chih&#8208;Yi Lin, Jui&#8208;Tai Lin, Adrian M. Gardner, Hansaem Jang, R.-C. Juang, Y.-C. Liu, Islam M. A. Mekhemer, Ming&#8208;Yen Lu, Ying&#8208;Rui Lu, Ho&#8208;Hsiu Chou, Chun&#8208;Hong Kuo, Shan Zhou, Liang&#8208;Ching Hsu, Hsin&#8208;Yi Tiffany Chen, Alexander J. Cowan, Sung&#8208;Fu Hung, Jien&#8208;Wei Yeh, Tung&#8208;Han Yang, Advanced Materials. None(None)] 2024. https://openalex.org/W4405616791
-
-                Abstract High&#8208;entropy&#8208;alloy (HEA) nanocrystals hold immense potential for catalysis, offering virtually unlimited alloy combinations through the inclusion of at least five constituent elements in varying ratios. However, general and effective strategies for synthesizing libraries of HEA nanocrystals with controlled surface atomic structures remain scarce. In this study, a transferable strategy for developing a library of facet&#8208;controlled seed@HEA nanocrystals through seed&#8208;mediated growth is presented. The synthesis of seed@HEA core&#8211;shell nanocrystals incorporating up to ten different metallic elements, with control over the number of solid&#8208;solution HEA atomic layers is demonstrated. Epitaxial HEA growth on nanocrystal seeds with low&#8208;index and high&#8208;index facets leads to the formation of seed@HEA catalyst library with composition&#8208; and facet&#8208;dependent catalytic activities in both electrocatalysis and photocatalysis. In situ synchrotron X&#8208;ray absorption spectroscopy and density&#8208;functional theory calculations are employed to identify surface active sites of the HEA, rationalizing the high level of catalytic activities achieved. This work enables facet engineering in the multi&#8208;elemental chemical space and unveils the critical needs for their future development toward catalysis.</description>
-      <author>Yueh&#8208;Chun Hsiao, Cheng&#8208;Yu Wu, Chih&#8208;Heng Lee, Wen&#8208;Yang Huang, Ho Viet Thang, Chong&#8208;Chi Chi, Wen&#8208;Jing Zeng, Jiaqi Gao, Chih&#8208;Yi Lin, Jui&#8208;Tai Lin, Adrian M. Gardner, Hansaem Jang, R.-C. Juang, Y.-C. Liu, Islam M. A. Mekhemer, Ming&#8208;Yen Lu, Ying&#8208;Rui Lu, Ho&#8208;Hsiu Chou, Chun&#8208;Hong Kuo, Shan Zhou, Liang&#8208;Ching Hsu, Hsin&#8208;Yi Tiffany Chen, Alexander J. Cowan, Sung&#8208;Fu Hung, Jien&#8208;Wei Yeh, Tung&#8208;Han Yang</author>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202411464</guid>
-    </item>
     <item>
       <title>Thermally stimulated chirp in a pulsed QCL: Microscopic origins behind Fabry-Perot pattern drift</title>
       <link>https://doi.org/10.1016/j.ijthermalsci.2024.109618</link>
@@ -458,6 +348,76 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.105691</guid>
     </item>
     <item>
+      <title>Computational studies on transition metal and nitrogen atoms co-doped fullerene as an efficient electrocatalyst for nitrate reduction to ammonia</title>
+      <link>https://doi.org/10.1007/s11224-024-02443-w</link>
+      <description>Faiza Shafiq, Lei Yang, Weihua Zhu, Structural Chemistry. None(None)] 2024. https://openalex.org/W4405795555
+
+                No abstract</description>
+      <author>Faiza Shafiq, Lei Yang, Weihua Zhu</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11224-024-02443-w</guid>
+    </item>
+    <item>
+      <title>Synergizing localized surface plasmon resonance and hydrogen spillover effects on AgPt NPs/d-Siloxene heterostructure for enhanced electrocatalytic hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.134178</link>
+      <description>Yixin Yang, Zhi&#8208;Xin Liao, Cuicui Du, Jun&#8208;Feng Qin, Min Hong, Xiaohua Zhang, Jinhua Chen, Fuel. 385(None)] 2024. https://openalex.org/W4405800079
+
+                No abstract</description>
+      <author>Yixin Yang, Zhi&#8208;Xin Liao, Cuicui Du, Jun&#8208;Feng Qin, Min Hong, Xiaohua Zhang, Jinhua Chen</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.134178</guid>
+    </item>
+    <item>
+      <title>Theoretical Study of In&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ru&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt; Alloys for Efficient Electrocatalytic Reduction of Nitrate to Ammonia</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c06598</link>
+      <description>Qingchao Fang, M. T. Nasir, Dimuthu Wijethunge, Xuxin Kang, Yun Han, Cheng Yan, Anthony P. O&#8217;Mullane, Hanqing Yin, Aijun Du, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4405801950
+
+                The electrochemical reduction of nitrate to ammonia is considered a feasible strategy to address the imbalance of the global nitrogen cycle by eliminating N-containing pollutants in wastewater while producing ammonia in a sustainable way. In this work, we systematically investigate the reduction of nitrate to ammonia on p-block indium (In), noble metal ruthenium (Ru), and their alloys (InRu3, In3Ru). We found that pure In and Ru candidates exhibit various performances for nitrate reduction with low limiting potentials for the potential-determining step of &#8722;0.31 V and &#8722;0.14 V, respectively. However, the incorporation of In into Ru to create alloys leads to excellent activity for the reduction of nitrate to ammonia. Ammonia production on InRu3 and In3Ru alloys demonstrates higher catalytic activity and selectivity as the byproducts of NO2 and NO can be inhibited, while the parasitic hydrogen evolution reaction (HER) can also be significantly suppressed. Our work not only proposes efficient electrocatalysts for nitrate reduction but also provides a new strategy for the rational design of alloy catalysts for improved catalytic performance.</description>
+      <author>Qingchao Fang, M. T. Nasir, Dimuthu Wijethunge, Xuxin Kang, Yun Han, Cheng Yan, Anthony P. O&#8217;Mullane, Hanqing Yin, Aijun Du</author>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c06598</guid>
+    </item>
+    <item>
+      <title>Interfacial Electrical Double Layer in Electrocatalytic Reactions: Fundamentals, Characterizations and Applications</title>
+      <link>https://doi.org/10.1016/j.actphy.2024.100041</link>
+      <description>Xueting Cao, Shuangshuang Cha, Ming Gong, Acta Physico-Chimica Sinica. None(None)] 2024. https://openalex.org/W4405802144
+
+                No abstract</description>
+      <author>Xueting Cao, Shuangshuang Cha, Ming Gong</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actphy.2024.100041</guid>
+    </item>
+    <item>
+      <title>Unique Cu+/Cu0 active-site switches in Cu-loaded g-C3N4 nanosheets for efficient photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.jmst.2024.12.010</link>
+      <description>Dongxiao Wen, Nan Wang, Jiahe Peng, Tetsuro Majima, Jizhou Jiang, Journal of Material Science and Technology. None(None)] 2024. https://openalex.org/W4405802199
+
+                No abstract</description>
+      <author>Dongxiao Wen, Nan Wang, Jiahe Peng, Tetsuro Majima, Jizhou Jiang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.12.010</guid>
+    </item>
+    <item>
+      <title>Mechanistic insights into the adjustable electronic buffering effect of C60 under electric fields for single-atom Cu catalysis in CO electroreduction</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.115054</link>
+      <description>Lei-Xian Chen, Zi-Yang Qiu, Jing&#8208;Shuang Dang, W. P. Wang, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4405802485
+
+                No abstract</description>
+      <author>Lei-Xian Chen, Zi-Yang Qiu, Jing&#8208;Shuang Dang, W. P. Wang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.115054</guid>
+    </item>
+    <item>
+      <title>Redox photocatalysis CuFe-BTC for nitrate reduction and formaldehyde oxidation</title>
+      <link>https://doi.org/10.1016/j.cej.2024.158995</link>
+      <description>Huang Xu, Kai-Yin Wu, Fei Yang, Rui Fu, Yunfei Ji, Wei Kong, Chao Su, Beibei Xiao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4405812911
+
+                No abstract</description>
+      <author>Huang Xu, Kai-Yin Wu, Fei Yang, Rui Fu, Yunfei Ji, Wei Kong, Chao Su, Beibei Xiao</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158995</guid>
+    </item>
+    <item>
       <title>Activity-Drop of Hydrogen Evolution Reaction in LiNO&lt;sub&gt;3&lt;/sub&gt; Based &#8220;Hydronium-in-Salt&#8221; Acidic Electrolytes on Platinum Enables Electrochemical Nitrate Reduction</title>
       <link>https://doi.org/10.1021/jacs.4c13117</link>
       <description>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405741914
@@ -466,6 +426,16 @@
       <author>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13117</guid>
+    </item>
+    <item>
+      <title>Addressing Thermal Stability Challenges in Top&#8208;Emission OLEDs: The Role of Buffer Layer in Preventing Pixel Shrinkage</title>
+      <link>https://doi.org/10.1002/adom.202402832</link>
+      <description>Seung Ju Ok, Thi Na Le, Ji Hee Son, Seung Yong Song, Min Chul Suh, Advanced Optical Materials. None(None)] 2024. https://openalex.org/W4405820617
+
+                Abstract This study introduces a strategic buffer layer approach to mitigate thermal&#8208;induced pixel shrinkage in top&#8208;emission organic light&#8208;emitting diodes (TEOLEDs), enhancing both thermal stability and efficiency. A new cathode composed of binary alloy from silver (Ag) and copper (Cu) is developed for their moderately high binding energy, improving film uniformity and boosting optical and electrical performance. High surface energy metals, aluminum (Al) and Cu are employed as buffer layers to regulate the growth mechanism, resulting in an exceptionally smooth cathode film. The optimal device is designed by incorporating a bilayer electron injection layer consisting of lithium fluoride (LiF) and ytterbium (Yb) along with the buffer layer. The TEOLEDs achieved an impressive efficiency of 178 cd A &#8722;1 and luminance of 247,000 cd m &#8722; 2 while demonstrating superior thermal stability, with the absence of cathode shrinkage after 240 h at 85 &#176;C. This stability is attributed to the suppression of thermal diffusion and aggregation, facilitated by the high surface energy buffer layer and innovative cathode compositions employed.</description>
+      <author>Seung Ju Ok, Thi Na Le, Ji Hee Son, Seung Yong Song, Min Chul Suh</author>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adom.202402832</guid>
     </item>
   </channel>
 </rss>

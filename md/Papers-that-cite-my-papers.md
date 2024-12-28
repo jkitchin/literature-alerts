@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Dec 27 01:20:43 2024
+Created on Sat Dec 28 01:19:20 2024
 
-Found 46 results from 2024-12-20 to 2024-12-27
+Found 43 results from 2024-12-21 to 2024-12-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W4399305702%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2005633502)
@@ -16,127 +16,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W4245313022%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W4394384117)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W1964467038)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2578323605)
-
-## Insights into the Enhanced ORR Activity of FeN4-Embedded Graphene Through Interface Interactions with Metal Substrates: Electronic vs. Geometric Descriptors   
-
-OpenAlex: https://openalex.org/W4405565286    
-Open access: False
-    
-[Silu Li](https://openalex.org/A5079255429), [Donghai Wu](https://openalex.org/A5101574509), [Lulu Gao](https://openalex.org/A5102885961), [Jiahang Li](https://openalex.org/A5017394476), [Gang Tang](https://openalex.org/A5029891151), [Zaiping Zeng](https://openalex.org/A5022874983), [Dongwei Ma](https://openalex.org/A5067813768), Materials Today Physics. None(None)] 2024.https://doi.org/10.1016/j.mtphys.2024.101633.
-    
-No abstract    
-
-    
-
-## Electrochemical interface modelling for electrocatalytic materials design   
-
-OpenAlex: https://openalex.org/W4405585850    
-Open access: True
-    
-[Lucas G. Verga](https://openalex.org/A5013396298), [Seung‐Jae Shin](https://openalex.org/A5009934663), [Aron Walsh](https://openalex.org/A5035797693), Current Opinion in Electrochemistry. None(None)] 2024.https://doi.org/10.1016/j.coelec.2024.101638.
-    
-No abstract    
-
-    
-
-## Atomically dispersed iron & iron clusters synergistically accelerate electrocatalytic ammonia synthesis   
-
-OpenAlex: https://openalex.org/W4405586089    
-Open access: False
-    
-[Haoran Zhang](https://openalex.org/A5100340503), [Yuelong Liu](https://openalex.org/A5030604243), [Sanshuang Gao](https://openalex.org/A5037393188), [Haijian Wang](https://openalex.org/A5101408497), [Rui Bai](https://openalex.org/A5101630648), [Yan Zhao](https://openalex.org/A5103054429), [Yingtang Zhou](https://openalex.org/A5043063276), [Guangzhi Hu](https://openalex.org/A5053355651), [Xue Zhao](https://openalex.org/A5057904713), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.158785.
-    
-No abstract    
-
-    
-
-## Long Time Scale Molecular Dynamics Simulation of Magnesium Hydride Dehydrogenation Enabled by Machine Learning Interatomic Potentials   
-
-OpenAlex: https://openalex.org/W4405591634    
-Open access: True
-    
-[Oliver Morrison](https://openalex.org/A5115549653), [Elena Uteva](https://openalex.org/A5056029779), [Gavin S. Walker](https://openalex.org/A5053710816), [David M. Grant](https://openalex.org/A5018037754), [Sanliang Ling](https://openalex.org/A5051913875), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.4c02627.
-    
-Magnesium hydride (MgH2) is a promising material for solid-state hydrogen storage due to its high gravimetric hydrogen capacity as well as the abundance and low cost of magnesium. The material's limiting factor is the high dehydrogenation temperature (over 300 °C) and sluggish (de)hydrogenation kinetics when no catalyst is present, making it impractical for onboard applications. Catalysts and physical restructuring (e.g., through ball milling) have both shown kinetic improvements, without full theoretical understanding as to why. In this work, we developed a machine learning interatomic potential (MLP) for the Mg–H system, which was used to run long time scale molecular dynamics (MD) simulations of a thick magnesium hydride surface slab for up to 1 ns. Our MLP-based MD simulations reveal previously unreported behavior of subsurface molecular H2 formation and subsequent trapping in the subsurface layer of MgH2. This hindered diffusion of subsurface H2 offers a partial explanation on the slow dehydrogenation kinetics of MgH2. The kinetics will be improved if a catalyst obstructs subsurface formation and trapping of H2 or if the diffusion of subsurface H2 is improved through defects created by physical restructuring.    
-
-    
-
-## Decoding the Role of Adsorbates Entropy in the Reactivity of Single-Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4405592086    
-Open access: False
-    
-[Elena Simone](https://openalex.org/A5008067244), [Gianvito Vilé](https://openalex.org/A5087324262), [Giovanni Di Liberto](https://openalex.org/A5087412983), [Gianfranco Pacchioni](https://openalex.org/A5018929838), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c04472.
-    
-Single-atom catalysts (SACs) are rapidly gaining attention as a versatile class of materials that combine the advantages of both homogeneous and heterogeneous catalysis. A growing number of studies aim to identify potential new SACs or to describe their structure and reactivity through ab initio quantum chemical simulations. While many computational studies primarily address reactions involving small molecules, such as water splitting or CO2 reduction, the application scope of SACs is rapidly broadening to include the production of fine chemicals and the conversion of biomass-derived platform molecules, processes that involve larger, more complex reactants. Using density-functional theory (DFT) simulations, we demonstrate that, while an approximate treatment of entropy is acceptable for molecules with up to three atoms, it introduces substantial errors in reactions involving more complex molecules. Our results reveal a linear correlation between the entropy of adsorbed molecules and that of the corresponding isolated species, mirroring trends observed on extended catalytic surfaces. For the largest systems investigated in this study, the entropy of the free molecule is reduced by approximately 10–20% upon adsorption; for small molecules, this reduction can range from 50 to 70%. This disparity arises because, on SACs, the translational entropy is effectively zero, the rotational entropy is minimal, and the vibrational entropy increases with the size of the molecule. Moreover, the entropy of adsorbates scales linearly with the number of atoms in the molecule, allowing for the prediction of entropic contributions of adsorbates on SACs without additional computational cost. Using propyne hydrogenation as a test, we demonstrate that the reaction energy profile computed with current approximate approaches for estimating the entropy of adsorbates differs significantly from the profile where entropy is explicitly included. These findings highlight the importance of considering adsorbate entropy for accurately predicting the catalytic activity of SACs, particularly for reactions involving complex molecules.    
-
-    
-
-## Controlling Co 3d/O 2p Orbital Hybridization in LaCoO3 by Modulating the Co–O–Co Bond Angle for Enhanced Oxygen Evolution Reaction Catalysis   
-
-OpenAlex: https://openalex.org/W4405601758    
-Open access: False
-    
-[Baoxin Ge](https://openalex.org/A5042311174), [Pengyang Jiang](https://openalex.org/A5006405871), [Biyi Chen](https://openalex.org/A5047896605), [Caijin Huang](https://openalex.org/A5082756368), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05479.
-    
-The orbital hybridization between metal and oxygen of perovskite catalysts can lower the overpotential and enhance the oxygen evolution reaction (OER) activity. This study combines density functional theory with experiments to clarify how Sr/Fe codoping modulates orbital hybridization and enhances OER catalytic activity of LaCoO3. The as-prepared La0.50Sr0.50Co0.75Fe0.25O3 shows remarkable performance with a low overpotential of 310 mV at 10 mA cm–2 current density and a 107.03 mV dec–1 Tafel slope, outperforming most state-of-the-art perovskite-based OER electrocatalysts. The experimental results confirm that Sr/Fe codoping enhances the expansion of Co–O–Co bond angles and strengthens the covalency of the Co–O bond in LaCoO3, leading to enhanced electrocatalytic activity. Moreover, increasing Sr doping reduces the distance between the Co 3d/O 2p center and the Fermi level, decreasing the energy difference between them and enhancing the degree of orbital hybridization between Co 3d and O 2p. As the degree of Co 3d/O 2p orbital hybridization increases, a higher charge transfer was found between the active center and intermediate product, OOH, reducing the energy barrier of the rate-determining step while lowering the overpotential. This study provides thorough insight into the rational design of OER catalysts based on orbital hybridization.    
-
-    
-
-## Cultivating superior CO2 reduction performance via rationally engineered nitrogen-phosphorus co-doped graphene catalysts: A first-principles study   
-
-OpenAlex: https://openalex.org/W4405611556    
-Open access: False
-    
-[Ismail Shahid](https://openalex.org/A5005679353), [Ruixin Zhang](https://openalex.org/A5023878117), [Xiaoliang Zhang](https://openalex.org/A5100340796), [Dawei Tang](https://openalex.org/A5051275396), [Vineet Tirth](https://openalex.org/A5040949017), Diamond and Related Materials. None(None)] 2024.https://doi.org/10.1016/j.diamond.2024.111895.
-    
-No abstract    
-
-    
-
-## Thermally Stimulated Spin Switching Accelerates Water Electrolysis   
-
-OpenAlex: https://openalex.org/W4405614811    
-Open access: False
-    
-[Mengfei Lu](https://openalex.org/A5104094731), [Yu Du](https://openalex.org/A5085393847), [Shicheng Yan](https://openalex.org/A5013461643), [Tao Yu](https://openalex.org/A5009259971), [Zhigang Zou](https://openalex.org/A5018143125), Physical Review Letters. 133(25)] 2024.https://doi.org/10.1103/physrevlett.133.258001.
-    
-No abstract    
-
-    
-
-## Single-Atom Catalysts: Are You Really Single?   
-
-OpenAlex: https://openalex.org/W4405615794    
-Open access: False
-    
-[Ana S. Dobrota](https://openalex.org/A5063501377), [Igor A. Pašti](https://openalex.org/A5079797338), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c02844.
-    
-Single-atom catalysts (SACs) have attracted the attention of the scientific community due to a number of attractive properties allowing their application in different catalytic processes, including electrochemical ones. Due to the nature of the active site, consisting of only a few atoms, SACs are also very attractive for theoretical modeling as the active site can be directly translated into the computational model. However, as a rule, the possibility of the active site change induced by pH and electrode potential is disregarded in theoretical models. This Perspective emphasizes the need to address the actual state of SA electrocatalysts under operating conditions before considering their catalytic activity and selectivity. The concept of surface Pourbaix plot, well-known in electrochemistry, can be directly transferred to SACs, providing valuable insights and guidance for developing novel catalytic materials. We discuss recent approaches to designing Pourbaix plots for SACs and outline the importance of properly treating the actual state of SACs and other emerging types of catalysts.    
-
-    
-
-## Calculation of Adsorbate Free Energy Using the Damping Function Method   
-
-OpenAlex: https://openalex.org/W4405615873    
-Open access: False
-    
-[Yanhua Lei](https://openalex.org/A5079070615), [Lei Liu](https://openalex.org/A5100349631), [Erjun Zhang](https://openalex.org/A5016240600), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c01079.
-    
-Adsorbate free energies are important parameters in surface chemistry and catalysis. Because of its simplicity, the harmonic oscillator (HO) model remains the most widely used method for calculating adsorbate free energy in many fields, including microkinetic modeling. However, it is well-known that the HO method is ineffective for weak adsorption. In this study, we propose a translational model with a diffusion barrier to calculate the state functions of near free translation. Furthermore, an effective mass is introduced in this model. To address hindered translation uniformly, a diffusion barrier-based damping function (DF) is proposed that effectively links the harmonic vibration and translation limits. Adsorbates are divided into three categories according to their adsorption strength and diffusion barrier height. Adsorbed hydrogen atoms have a strong binding energy and relatively high vibrational frequency but a low diffusion barrier. The HT and our proposed DF methods predict that the adsorbed hydrogen atoms behave as translation above room temperature, while the previous DF method predicts that they behave as vibration at any temperature. At last, the dehydrogenation reaction of propane on the Pt(111) surface was taken as an example to illustrate the influence of different methods on the thermodynamic functions.    
-
-    
-
-## A Library of Seed@High‐Entropy‐Alloy Core–shell Nanocrystals With Controlled Facets for Catalysis   
-
-OpenAlex: https://openalex.org/W4405616791    
-Open access: False
-    
-[Yueh‐Chun Hsiao](https://openalex.org/A5082481183), [Cheng‐Yu Wu](https://openalex.org/A5104108741), [Chih‐Heng Lee](https://openalex.org/A5006509779), [Wen‐Yang Huang](https://openalex.org/A5000161196), [Ho Viet Thang](https://openalex.org/A5089576541), [Chong‐Chi Chi](https://openalex.org/A5088158028), [Wen‐Jing Zeng](https://openalex.org/A5019148170), [Jiaqi Gao](https://openalex.org/A5084153784), [Chih‐Yi Lin](https://openalex.org/A5055313063), [Jui‐Tai Lin](https://openalex.org/A5023267010), [Adrian M. Gardner](https://openalex.org/A5007746313), [Hansaem Jang](https://openalex.org/A5070399861), [R.-C. Juang](https://openalex.org/A5110264642), [Y.-C. Liu](https://openalex.org/A5012698967), [Islam M. A. Mekhemer](https://openalex.org/A5049715837), [Ming‐Yen Lu](https://openalex.org/A5061542445), [Ying‐Rui Lu](https://openalex.org/A5080261450), [Ho‐Hsiu Chou](https://openalex.org/A5082297984), [Chun‐Hong Kuo](https://openalex.org/A5007429501), [Shan Zhou](https://openalex.org/A5038791444), [Liang‐Ching Hsu](https://openalex.org/A5007042801), [Hsin‐Yi Tiffany Chen](https://openalex.org/A5075896117), [Alexander J. Cowan](https://openalex.org/A5103513668), [Sung‐Fu Hung](https://openalex.org/A5060265950), [Jien‐Wei Yeh](https://openalex.org/A5026954516), [Tung‐Han Yang](https://openalex.org/A5101553811), Advanced Materials. None(None)] 2024.https://doi.org/10.1002/adma.202411464.
-    
-Abstract High‐entropy‐alloy (HEA) nanocrystals hold immense potential for catalysis, offering virtually unlimited alloy combinations through the inclusion of at least five constituent elements in varying ratios. However, general and effective strategies for synthesizing libraries of HEA nanocrystals with controlled surface atomic structures remain scarce. In this study, a transferable strategy for developing a library of facet‐controlled seed@HEA nanocrystals through seed‐mediated growth is presented. The synthesis of seed@HEA core–shell nanocrystals incorporating up to ten different metallic elements, with control over the number of solid‐solution HEA atomic layers is demonstrated. Epitaxial HEA growth on nanocrystal seeds with low‐index and high‐index facets leads to the formation of seed@HEA catalyst library with composition‐ and facet‐dependent catalytic activities in both electrocatalysis and photocatalysis. In situ synchrotron X‐ray absorption spectroscopy and density‐functional theory calculations are employed to identify surface active sites of the HEA, rationalizing the high level of catalytic activities achieved. This work enables facet engineering in the multi‐elemental chemical space and unveils the critical needs for their future development toward catalysis.    
-
-    
 
 ## Thermally stimulated chirp in a pulsed QCL: Microscopic origins behind Fabry-Perot pattern drift   
 
@@ -512,6 +391,83 @@ No abstract
 
     
 
+## Computational studies on transition metal and nitrogen atoms co-doped fullerene as an efficient electrocatalyst for nitrate reduction to ammonia   
+
+OpenAlex: https://openalex.org/W4405795555    
+Open access: False
+    
+[Faiza Shafiq](https://openalex.org/A5102007177), [Lei Yang](https://openalex.org/A5100651490), [Weihua Zhu](https://openalex.org/A5057295660), Structural Chemistry. None(None)] 2024.https://doi.org/10.1007/s11224-024-02443-w.
+    
+No abstract    
+
+    
+
+## Synergizing localized surface plasmon resonance and hydrogen spillover effects on AgPt NPs/d-Siloxene heterostructure for enhanced electrocatalytic hydrogen evolution   
+
+OpenAlex: https://openalex.org/W4405800079    
+Open access: False
+    
+[Yixin Yang](https://openalex.org/A5100706921), [Zhi‐Xin Liao](https://openalex.org/A5080029668), [Cuicui Du](https://openalex.org/A5112514741), [Jun‐Feng Qin](https://openalex.org/A5041527757), [Min Hong](https://openalex.org/A5088321481), [Xiaohua Zhang](https://openalex.org/A5100445804), [Jinhua Chen](https://openalex.org/A5100634401), Fuel. 385(None)] 2024.https://doi.org/10.1016/j.fuel.2024.134178.
+    
+No abstract    
+
+    
+
+## Theoretical Study of InxRuy Alloys for Efficient Electrocatalytic Reduction of Nitrate to Ammonia   
+
+OpenAlex: https://openalex.org/W4405801950    
+Open access: False
+    
+[Qingchao Fang](https://openalex.org/A5072326052), [M. T. Nasir](https://openalex.org/A5054028382), [Dimuthu Wijethunge](https://openalex.org/A5036803551), [Xuxin Kang](https://openalex.org/A5054752343), [Yun Han](https://openalex.org/A5100311391), [Cheng Yan](https://openalex.org/A5100378083), [Anthony P. O’Mullane](https://openalex.org/A5036319813), [Hanqing Yin](https://openalex.org/A5070839693), [Aijun Du](https://openalex.org/A5082839443), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c06598.
+    
+The electrochemical reduction of nitrate to ammonia is considered a feasible strategy to address the imbalance of the global nitrogen cycle by eliminating N-containing pollutants in wastewater while producing ammonia in a sustainable way. In this work, we systematically investigate the reduction of nitrate to ammonia on p-block indium (In), noble metal ruthenium (Ru), and their alloys (InRu3, In3Ru). We found that pure In and Ru candidates exhibit various performances for nitrate reduction with low limiting potentials for the potential-determining step of −0.31 V and −0.14 V, respectively. However, the incorporation of In into Ru to create alloys leads to excellent activity for the reduction of nitrate to ammonia. Ammonia production on InRu3 and In3Ru alloys demonstrates higher catalytic activity and selectivity as the byproducts of NO2 and NO can be inhibited, while the parasitic hydrogen evolution reaction (HER) can also be significantly suppressed. Our work not only proposes efficient electrocatalysts for nitrate reduction but also provides a new strategy for the rational design of alloy catalysts for improved catalytic performance.    
+
+    
+
+## Interfacial Electrical Double Layer in Electrocatalytic Reactions: Fundamentals, Characterizations and Applications   
+
+OpenAlex: https://openalex.org/W4405802144    
+Open access: False
+    
+[Xueting Cao](https://openalex.org/A5027609162), [Shuangshuang Cha](https://openalex.org/A5036604168), [Ming Gong](https://openalex.org/A5072054932), Acta Physico-Chimica Sinica. None(None)] 2024.https://doi.org/10.1016/j.actphy.2024.100041.
+    
+No abstract    
+
+    
+
+## Unique Cu+/Cu0 active-site switches in Cu-loaded g-C3N4 nanosheets for efficient photocatalytic CO2 reduction   
+
+OpenAlex: https://openalex.org/W4405802199    
+Open access: False
+    
+[Dongxiao Wen](https://openalex.org/A5069597510), [Nan Wang](https://openalex.org/A5100332753), [Jiahe Peng](https://openalex.org/A5039697709), [Tetsuro Majima](https://openalex.org/A5079322903), [Jizhou Jiang](https://openalex.org/A5064928483), Journal of Material Science and Technology. None(None)] 2024.https://doi.org/10.1016/j.jmst.2024.12.010.
+    
+No abstract    
+
+    
+
+## Mechanistic insights into the adjustable electronic buffering effect of C60 under electric fields for single-atom Cu catalysis in CO electroreduction   
+
+OpenAlex: https://openalex.org/W4405802485    
+Open access: False
+    
+[Lei-Xian Chen](https://openalex.org/A5061840228), [Zi-Yang Qiu](https://openalex.org/A5038574855), [Jing‐Shuang Dang](https://openalex.org/A5055745474), [W. P. Wang](https://openalex.org/A5048327127), Computational and Theoretical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.comptc.2024.115054.
+    
+No abstract    
+
+    
+
+## Redox photocatalysis CuFe-BTC for nitrate reduction and formaldehyde oxidation   
+
+OpenAlex: https://openalex.org/W4405812911    
+Open access: False
+    
+[Huang Xu](https://openalex.org/A5100674168), [Kai-Yin Wu](https://openalex.org/A5102626000), [Fei Yang](https://openalex.org/A5086808716), [Rui Fu](https://openalex.org/A5067758863), [Yunfei Ji](https://openalex.org/A5020215798), [Wei Kong](https://openalex.org/A5101927121), [Chao Su](https://openalex.org/A5053998052), [Beibei Xiao](https://openalex.org/A5009861048), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.158995.
+    
+No abstract    
+
+    
+
 ## Activity-Drop of Hydrogen Evolution Reaction in LiNO3 Based “Hydronium-in-Salt” Acidic Electrolytes on Platinum Enables Electrochemical Nitrate Reduction   
 
 OpenAlex: https://openalex.org/W4405741914    
@@ -520,5 +476,16 @@ Open access: False
 [Cheolmin Park](https://openalex.org/A5081463979), [Min Young Seo](https://openalex.org/A5008960414), [Taesung Kwon](https://openalex.org/A5113100830), [Ji-Yoon Kim](https://openalex.org/A5101633473), [Ki Min Nam](https://openalex.org/A5088776131), [YongJoo Kim](https://openalex.org/A5023025842), [Jinho Chang](https://openalex.org/A5079206867), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c13117.
     
 The electrochemical nitrate reduction reaction (NO3–RR) involves multiple hydrogenation and deoxygenation steps, which compete with the hydrogen evolution reaction (HER). Therefore, NO3–RR driven in acidic media is challenging in spite of advantageous fast hydrogen transfers in its elementary steps. The findings presented in this article first demonstrate that the NO3–RR is significantly activated even in acidic lithium nitrate solutions at LiNO3 concentrations exceeding 6 m on a Pt electrode (the highly effective catalyst for HER) by the formation of a "hydronium-in-salt" electrolyte (HISE), a new type of aqueous high concentration salt electrolyte. The observed enhancement of NO3–RR while the suppression of HER-activity in the LiNO3 based HISE was verified by scanning electrochemical microscopy, electrochemical impedance spectroscopy, UV–vis/IR spectroscopy, and molecular dynamics simulations. The formation of a HISE in acidic LiNO3 solutions contrasts with that of a "water-in-salt" electrolyte in LiTFSI with the same concentration. The mechanism of NO3–RR activation in a HISE suggests facilitated proton-coupled electron transfers (PCETs) from H3O+ to NO3– and subsequent reactive intermediates owing to the proximity between the two ions induced by the unique solvation structure blended with all ions together (Li+ + NO3– + H3O+). In contrast, all the ions are separately hydrated at low concentrations of LiNO3 electrolytes. On the other hand, PCET from H2O to NO3– in a high concentration LiNO3 electrolyte (e.g., 9 m) is not kinetically preferred, probably owing to the slow dissociation kinetics of H2O, and therefore, H2O reduction is not suppressed by the NO3–RR.    
+
+    
+
+## Addressing Thermal Stability Challenges in Top‐Emission OLEDs: The Role of Buffer Layer in Preventing Pixel Shrinkage   
+
+OpenAlex: https://openalex.org/W4405820617    
+Open access: False
+    
+[Seung Ju Ok](https://openalex.org/A5098682773), [Thi Na Le](https://openalex.org/A5008316065), [Ji Hee Son](https://openalex.org/A5053501100), [Seung Yong Song](https://openalex.org/A5034937114), [Min Chul Suh](https://openalex.org/A5057142239), Advanced Optical Materials. None(None)] 2024.https://doi.org/10.1002/adom.202402832.
+    
+Abstract This study introduces a strategic buffer layer approach to mitigate thermal‐induced pixel shrinkage in top‐emission organic light‐emitting diodes (TEOLEDs), enhancing both thermal stability and efficiency. A new cathode composed of binary alloy from silver (Ag) and copper (Cu) is developed for their moderately high binding energy, improving film uniformity and boosting optical and electrical performance. High surface energy metals, aluminum (Al) and Cu are employed as buffer layers to regulate the growth mechanism, resulting in an exceptionally smooth cathode film. The optimal device is designed by incorporating a bilayer electron injection layer consisting of lithium fluoride (LiF) and ytterbium (Yb) along with the buffer layer. The TEOLEDs achieved an impressive efficiency of 178 cd A −1 and luminance of 247,000 cd m − 2 while demonstrating superior thermal stability, with the absence of cathode shrinkage after 240 h at 85 °C. This stability is attributed to the suppression of thermal diffusion and aggregation, facilitated by the high surface energy buffer layer and innovative cathode compositions employed.    
 
     

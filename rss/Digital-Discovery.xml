@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Digital-Discovery.xml</link>
     <description>Articles in Digital Discovery</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Dec 2024 01:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 01:19:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Knowledge Discovery from Porous Organic Cages Literature Using a Large Language Model</title>
-      <link>https://doi.org/10.1039/d4dd00337c</link>
-      <description>Yong&#8208;Liang Su, Siyuan Yang, Ming Liu, Aiting Kai, Linjiang Chen, Ming Liu, Digital Discovery. None(None)] 2024. https://openalex.org/W4405591138
-
-                Porous organic cages (POCs) are an emerging subclass of porous materials, drawing increasing attention due to their structural tunability, modularity and processibility, with the research in this area rapidly expanding....</description>
-      <author>Yong&#8208;Liang Su, Siyuan Yang, Ming Liu, Aiting Kai, Linjiang Chen, Ming Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00337c</guid>
-    </item>
-    <item>
-      <title>Activity Recognition in Scientific Experimentation using Multimodal Visual Encoding</title>
-      <link>https://doi.org/10.1039/d4dd00287c</link>
-      <description>Gianmarco Gabrieli, I. Morales, Dimitrios Christofidellis, Mara Graziani, Andrea Giovannini, Federico Zipoli, Amol Thakkar, Antonio Foncubierta, Matteo Manica, Patrick Ruch, Digital Discovery. None(None)] 2024. https://openalex.org/W4405599463
-
-                Capturing actions during scientific experimentation is a cornerstone of reproducibility and collaborative research. While large multimodal models hold promise for automatic action (or activity) recognition, their ability to provide real-time...</description>
-      <author>Gianmarco Gabrieli, I. Morales, Dimitrios Christofidellis, Mara Graziani, Andrea Giovannini, Federico Zipoli, Amol Thakkar, Antonio Foncubierta, Matteo Manica, Patrick Ruch</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dd00287c</guid>
-    </item>
     <item>
       <title>Predicting homopolymer and copolymer solubility through machine learning</title>
       <link>https://doi.org/10.1039/d4dd00290c</link>
