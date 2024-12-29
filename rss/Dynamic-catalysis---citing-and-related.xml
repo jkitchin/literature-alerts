@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Dec 2024 01:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 01:27:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Jesse Canavan, J. Hopkins, Brandon Foley, Omar Abdelrahman, Paul J. Dauenhauer</author>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06623</guid>
+    </item>
+    <item>
+      <title>Visible Light Photolysis at Single Atom Sites in Semiconductor Perovskite Oxides</title>
+      <link>https://doi.org/10.1021/jacs.4c13821</link>
+      <description>Michael G. Allan, Rachel A. Yang, Silvia Mari&#241;o, Michael J. Gordon, Phillip Christopher, Eranda Nikolla, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405844230
+
+                No abstract</description>
+      <author>Michael G. Allan, Rachel A. Yang, Silvia Mari&#241;o, Michael J. Gordon, Phillip Christopher, Eranda Nikolla</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13821</guid>
     </item>
   </channel>
 </rss>

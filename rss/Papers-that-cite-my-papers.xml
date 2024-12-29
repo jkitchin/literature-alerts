@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Dec 2024 01:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 01:28:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Thermally stimulated chirp in a pulsed QCL: Microscopic origins behind Fabry-Perot pattern drift</title>
-      <link>https://doi.org/10.1016/j.ijthermalsci.2024.109618</link>
-      <description>Evgeniia D. Cherotchenko, Ivan I. Vrubel, Alexander A. Pavlov, Anna S. Konanykhina, Ilya E. Rafailov, Roman G. Polozkov, V. V. Dudelev, G. S. Sokolovski&#301;, International Journal of Thermal Sciences. 210(None)] 2024. https://openalex.org/W4405632163
-
-                No abstract</description>
-      <author>Evgeniia D. Cherotchenko, Ivan I. Vrubel, Alexander A. Pavlov, Anna S. Konanykhina, Ilya E. Rafailov, Roman G. Polozkov, V. V. Dudelev, G. S. Sokolovski&#301;</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijthermalsci.2024.109618</guid>
-    </item>
-    <item>
-      <title>NO&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e232" altimg="si37.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mtext&gt;X&lt;/mml:mtext&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; reduction mechanism: Thermal vs electrochemical step</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.145429</link>
-      <description>Mohd Riyaz, Alexander Bagger, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4405632928
-
-                No abstract</description>
-      <author>Mohd Riyaz, Alexander Bagger</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.145429</guid>
-    </item>
-    <item>
-      <title>Alkali metal cations act as homogeneous cocatalysts for the oxygen reduction reaction in aqueous electrolytes</title>
-      <link>https://doi.org/10.1038/s41929-024-01241-1</link>
-      <description>Sang Gu Ji, Minho M. Kim, Man Ho Han, Junsic Cho, Yoosang Son, Young Yong Kim, Jaeyoung Jeong, Zee Hwan Kim, Keun Hwa Chae, Hyung&#8208;Suk Oh, Hyungjun Kim, Chang Hyuck Choi, Nature Catalysis. 7(12)] 2024. https://openalex.org/W4405636810
-
-                No abstract</description>
-      <author>Sang Gu Ji, Minho M. Kim, Man Ho Han, Junsic Cho, Yoosang Son, Young Yong Kim, Jaeyoung Jeong, Zee Hwan Kim, Keun Hwa Chae, Hyung&#8208;Suk Oh, Hyungjun Kim, Chang Hyuck Choi</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01241-1</guid>
-    </item>
-    <item>
-      <title>Alternative Electrocatalysts: Exploring Quantum Dots and Transition Metal MXenes</title>
-      <link>https://doi.org/10.1039/9781837674664-00447</link>
-      <description>Abid Ullah, Shahbaz Ahmad, Muhammad Arif, M. Egilmez, Basharat Hussain, Muhammad Raheel Khan, Amjad Hussain, Ayesha Samreen, Royal Society of Chemistry eBooks. None(None)] 2024. https://openalex.org/W4405647175
-
-                Hydrogen emerges as a pivotal clean and versatile energy carrier amid global energy challenges, urging a shift towards renewable hydrogen production. The efficiency of the electrochemical hydrogen evolution reaction (HER) hinges on catalyst choice, ambient conditions, and electrolyte pH. In transitioning away from costly and scarce catalysts like Pt or Ru, researchers explore Earth-abundant alternatives, notably transition metal-based quantum dots (QDs) and MXenes. QDs offer high surface area and customizable properties, while MXenes demonstrate exceptional conductivity and surface area. QDs, despite challenges such as agglomeration, prove effective when engineered into composites. MXenes, with their unique stacked structure and chemical robustness, hold promise for HER catalysis. As discussed, QDs and MXenes exhibit schematic HER representations, emphasizing their potential as catalysts for sustainable hydrogen production and their adaptability to span diverse fields, offering scalable solutions towards a renewable energy future.</description>
-      <author>Abid Ullah, Shahbaz Ahmad, Muhammad Arif, M. Egilmez, Basharat Hussain, Muhammad Raheel Khan, Amjad Hussain, Ayesha Samreen</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/9781837674664-00447</guid>
-    </item>
-    <item>
-      <title>Advances in Metal&#8211;Organic Frameworks for Electrocatalytic Hydrogen Generation</title>
-      <link>https://doi.org/10.1039/9781837674664-00423</link>
-      <description>Sreenivasan Nagappan, Subrata Kundu, Royal Society of Chemistry eBooks. None(None)] 2024. https://openalex.org/W4405647518
-
-                Hydrogen is regarded as a vital resource for the advancement of renewable energy technologies. Electrocatalytic water splitting has emerged as a viable technique for producing ultra-pure hydrogen. The electrocatalyst, which can catalyze the electrochemical process to decrease the overpotential by increasing the current density, is critical to the effectiveness of this approach. Metal&#8211;organic frameworks (MOFs) have become recognized as possible electrocatalysts in recent years due to their exposed surface active sites, evenly distributed interconnected pore structure, and adjustable shape. Thus, the significance of homogeneous and heterogeneous MOFs and their derivatives for the electrocatalytic hydrogen evolution process (HER) is summarized in this chapter. The chapter begins with an overview of the fundamentals of the electrocatalytic HER, after which the importance of various transition metal-based pristine MOFs and their derivatives towards the HER is examined. However, there is still plenty of room for improvement given their sub-par intrinsic activity and weak conductivity. Various MOF-derived composites, as well as new methodologies and procedures, are given to solve intrinsic activity and conductivity issues, emphasizing progress in MOF-based materials for a more effective HER electrocatalyst in large-scale hydrogen production.</description>
-      <author>Sreenivasan Nagappan, Subrata Kundu</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/9781837674664-00423</guid>
-    </item>
-    <item>
-      <title>Theoretical insight on the delicate regulation of coordination environments for carbon-nitrogen-supported single-atom metals for OER and ORR</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114784</link>
-      <description>Xiao-Kuan Wu, Junan Gao, Zhao Hong, Zhigang Lei, Jie Zhang, Molecular Catalysis. 572(None)] 2024. https://openalex.org/W4405660232
-
-                No abstract</description>
-      <author>Xiao-Kuan Wu, Junan Gao, Zhao Hong, Zhigang Lei, Jie Zhang</author>
-      <pubDate>Sat, 21 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114784</guid>
-    </item>
-    <item>
-      <title>Theoretical investigations of hydroxyl-functionalized iron-doped phthalocyanine photocatalyst for efficient CO2 reduction to methanol and methane</title>
-      <link>https://doi.org/10.1016/j.ces.2024.121121</link>
-      <description>Thangaraj Thiruppathiraja, Baker Rhimi, Na Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4405662603
-
-                No abstract</description>
-      <author>Thangaraj Thiruppathiraja, Baker Rhimi, Na Zhang, Min Zhou, Weidong Shi, Zhifeng Jiang</author>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.121121</guid>
-    </item>
     <item>
       <title>Surficial Engineering of Cathodic Protection Strategy via P&#8208;Doped NiCuV Monolithic Electrode for Enhanced Hydrogen Evolution Reaction in Alkaline Media</title>
       <link>https://doi.org/10.1002/adsu.202400815</link>
@@ -418,14 +348,134 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.158995</guid>
     </item>
     <item>
+      <title>The effect of NO and CO on the Rh(100) surface at room temperature and atmospheric pressure</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122679</link>
+      <description>Dajo Boden, J&#246;rg Meyer, Irene M. N. Groot, Surface Science. None(None)] 2024. https://openalex.org/W4405825745
+
+                No abstract</description>
+      <author>Dajo Boden, J&#246;rg Meyer, Irene M. N. Groot</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122679</guid>
+    </item>
+    <item>
+      <title>A Novel Approach to the Extraction of Clusters from ZSM-5 Zeolite for Quantum-Chemical Search for Zn2+ Cation-Exchange Sites</title>
+      <link>https://doi.org/10.1134/s0965544124080012</link>
+      <description>V. A. Koveza, A. S. Giliazutdinova, &#1054;. &#1042;. &#1055;&#1086;&#1090;&#1072;&#1087;&#1077;&#1085;&#1082;&#1086;, Petroleum Chemistry. 64(9)] 2024. https://openalex.org/W4405827832
+
+                No abstract</description>
+      <author>V. A. Koveza, A. S. Giliazutdinova, &#1054;. &#1042;. &#1055;&#1086;&#1090;&#1072;&#1087;&#1077;&#1085;&#1082;&#1086;</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1134/s0965544124080012</guid>
+    </item>
+    <item>
+      <title>Self-Adaptive Optimization of Coefficients in Multi-Objective Loss Functions</title>
+      <link>https://doi.org/10.1145/3688671.3688742</link>
+      <description>Spilios Dellis, Eleonora Ricci, Dimitrios-Paraskevas Gerakinis, Niki Vergadou, George Giannakopoulos, No host. None(None)] 2024. https://openalex.org/W4405830646
+
+                No abstract</description>
+      <author>Spilios Dellis, Eleonora Ricci, Dimitrios-Paraskevas Gerakinis, Niki Vergadou, George Giannakopoulos</author>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1145/3688671.3688742</guid>
+    </item>
+    <item>
+      <title>Molecular Simulation of Coarse-grained Systems using Machine Learning</title>
+      <link>https://doi.org/10.1145/3688671.3688739</link>
+      <description>Dimitrios-Paraskevas Gerakinis, Eleonora Ricci, George Giannakopoulos, Vangelis Karkaletsis, Doros N. Theodorou, Niki Vergadou, No host. None(None)] 2024. https://openalex.org/W4405831045
+
+                No abstract</description>
+      <author>Dimitrios-Paraskevas Gerakinis, Eleonora Ricci, George Giannakopoulos, Vangelis Karkaletsis, Doros N. Theodorou, Niki Vergadou</author>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1145/3688671.3688739</guid>
+    </item>
+    <item>
+      <title>Impact of Ni doping on the catalytic activity and stability of RuO2 electrocatalyst for the oxygen evolution reaction in acidic media</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122691</link>
+      <description>Hyunwoo Jang, Seungwon Shim, Youngho Kang, Surface Science. None(None)] 2024. https://openalex.org/W4405835202
+
+                No abstract</description>
+      <author>Hyunwoo Jang, Seungwon Shim, Youngho Kang</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122691</guid>
+    </item>
+    <item>
+      <title>Scaling Relations for Ammonia Oxidation</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.115179</link>
+      <description>Rachelle M. Choueiri, Stephen W. Tatarchuk, O. F. Parker, William Cooper, Leanne D. Chen, Catalysis Today. None(None)] 2024. https://openalex.org/W4405835668
+
+                No abstract</description>
+      <author>Rachelle M. Choueiri, Stephen W. Tatarchuk, O. F. Parker, William Cooper, Leanne D. Chen</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.115179</guid>
+    </item>
+    <item>
+      <title>Effective Nitrate Electroconversion to Ammonia Using an Entangled Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;/Graphene Nanoribbon Catalyst</title>
+      <link>https://doi.org/10.1021/acsami.4c18269</link>
+      <description>Marci&#233;lli K. R. Souza, Eduardo S. F. Cardoso, L.M.C. Pinto, Irma Crivelli, Clauber D. Rodrigues, Robson da Silva Souto, Ary T. Rezende-Filho, Marcos R.V. Lanza, Gilberto Maia, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4405839604
+
+                There has been huge interest among chemical scientists in the electrochemical reduction of nitrate (NO3&#8211;) to ammonia (NH4+) due to the useful application of NH4+ in nitrogen fertilizers and fuel. To conduct such a complex reduction reaction, which involves eight electrons and eight protons, one needs to develop high-performance (and stable) electrocatalysts that favor the formation of reaction intermediates that are selective toward ammonia production. In the present study, we developed and applied Co3O4/graphene nanoribbon (GNR) electrocatalysts with excellent properties for the effective reduction of NO3&#8211; to NH4+, where NH4+ yield rate of 42.11 mg h&#8211;1 mgcat&#8211;1, FE of 98.7%, NO3&#8211; conversion efficiency of 14.71%, and NH4+ selectivity of 100% were obtained, with the application of only 37.5 &#956;g cm&#8211;2 of the catalysts (for the best catalyst &#9472;Co3O4(Cowt %55)GNR, only 20.6 &#956;g cm&#8211;2 of Co was applied), confirmed by loadings ranging from 19&#8211;150 &#956;g cm&#8211;2. The highly satisfactory results obtained from the application of the proposed catalysts were favored by high average values of electrochemically active surface area (ECSA) and low Rct values, along with the presence of several planes in Co3O4 entangled with GNR and the occurrence of a kind of "(Co3(Co(CN)6)2(H2O)12)1.333 complex" structure on the catalyst surface, in addition to the effective migration of NO3&#8211; from the cell cathodic branch to the anodic branch, which was confirmed by the experiment conducted using a H-cell separated by a Nafion 117 membrane. The in situ FTIR and Raman spectroscopy results helped identify the adsorbed intermediates, namely, NO3&#8211;, NO2&#8211;, NO, and NH2OH, and the final product NH4+, which are compatible with the proposed NO3&#8211; electroreduction mechanism. The Density Functional Theory (DFT) calculations helped confirm that the Co3O4(Cowt %55)GNR catalyst exhibited a better performance in terms of nitrate electroreduction in comparison with Co3O4(Cowt %75), considering the intermediates identified by the in situ FTIR and Raman spectroscopy results and the rate-determining step (RDS) observed for the transition of *NO to *NHO (0.43 eV).</description>
+      <author>Marci&#233;lli K. R. Souza, Eduardo S. F. Cardoso, L.M.C. Pinto, Irma Crivelli, Clauber D. Rodrigues, Robson da Silva Souto, Ary T. Rezende-Filho, Marcos R.V. Lanza, Gilberto Maia</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c18269</guid>
+    </item>
+    <item>
+      <title>Oxygen evolution reaction activity of Ni3(PO4)2 and bimetallic Ni3M3(PO4)4 (M = Mn, Fe, Co): Insights from DFT and experimental validation</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.134183</link>
+      <description>Muhammad Arkan Nuruzzahran, Dzaki Ahmad Syaifullah, C. Mariani, Fadjar Fathurrahman, Brian Yuliarto, Hermawan Kresno Dipojono, Hamad AlMohamadi, Sasfan Arman Wella, Ni Luh Wulan Septiani, Adhitya Gandaryus Saputro, Fuel. 385(None)] 2024. https://openalex.org/W4405841347
+
+                No abstract</description>
+      <author>Muhammad Arkan Nuruzzahran, Dzaki Ahmad Syaifullah, C. Mariani, Fadjar Fathurrahman, Brian Yuliarto, Hermawan Kresno Dipojono, Hamad AlMohamadi, Sasfan Arman Wella, Ni Luh Wulan Septiani, Adhitya Gandaryus Saputro</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.134183</guid>
+    </item>
+    <item>
+      <title>Activity&#8211;Stability Relationship in Compositionally Tuned Magnetron Co&#8208;Sputtered Bimetallic Catalysts for Proton Exchange Membrane Fuel Cells</title>
+      <link>https://doi.org/10.1002/fuce.202400095</link>
+      <description>Martin Ors&#225;g, Athira Lekshmi Mohandas Sandhya, Xianxian Xie, Jan Ku&#269;era, Miquel Gam&#243;n Rodr&#237;guez, Yu. V. Yakovlev, Milan Dopita, Iva Matol&#305;&#769;nov&#225;, Ivan Khalakhan, Fuel Cells. None(None)] 2024. https://openalex.org/W4405847485
+
+                ABSTRACT In the present study, magnetron&#8208;sputtered Pt x M 100&#8722; x (M = Co, Cu, and Y; x = 25, 50, 75, and 100) bimetallic alloys were investigated as PEMFC cathodes. Accurate composition and layer thickness control enabled a systematic study of the correlation between the alloy composition, its activity, and stability. The catalysts underwent thorough characterization, employing a diverse portfolio of characterization techniques such as scanning electron microscopy, energy&#8208;dispersive X&#8208;ray spectroscopy, X&#8208;ray photoelectron spectroscopy, X&#8208;ray diffraction, and cyclic voltammetry. The activity of all investigated alloys was tested directly in a fuel cell device, whereas stability was assessed through potentiodynamic cycling in a half&#8208;cell. The activity&#8211;stability index, considering experimental results for both activity and stability, was calculated and compared for all investigated catalysts. All alloys exhibited a volcano&#8208;type trend in the activity&#8211;stability index as a function of the concentration of the alloying element with maxima observed for Pt 50 Co 50 , Pt 50 Cu 50 , and Pt 75 Y 25 for respective alloys, surpassing that of monometallic platinum. Overall, Pt 50 Co 50 emerged as a catalyst with the highest activity&#8211;stability ratio.</description>
+      <author>Martin Ors&#225;g, Athira Lekshmi Mohandas Sandhya, Xianxian Xie, Jan Ku&#269;era, Miquel Gam&#243;n Rodr&#237;guez, Yu. V. Yakovlev, Milan Dopita, Iva Matol&#305;&#769;nov&#225;, Ivan Khalakhan</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/fuce.202400095</guid>
+    </item>
+    <item>
+      <title>Unraveling the C&#8211;C Coupling Mechanism on Dual-Atom Catalysts for CO&lt;sub&gt;2&lt;/sub&gt;/CO Reduction Reaction: The Critical Role of CO Hydrogenation</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c03123</link>
+      <description>Minghao He, Changshuang Jiang, Huimin Yan, Guofeng Wang, Yang&#8208;Gang Wang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4405850979
+
+                The electrochemical reduction reaction (RR) of CO to high value multicarbon products is highly desirable for carbon utilization. Dual transition metal atoms dispersed by N-doped graphene are able to be highly efficient catalysts for this process due to the synergy of the bimetallic sites for C-C coupling. In this work, we screened homonuclear dual-atom catalysts dispersed by N-doped graphene to investigate the potential in CO reduction to C</description>
+      <author>Minghao He, Changshuang Jiang, Huimin Yan, Guofeng Wang, Yang&#8208;Gang Wang</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c03123</guid>
+    </item>
+    <item>
+      <title>Aqueous redox flow batteries using iron complex and oxygen as redox couple with anthraquinone-2,7-disulfonate redox mediator</title>
+      <link>https://doi.org/10.1016/j.apenergy.2024.125225</link>
+      <description>Mingyu Shin, Hyeonsoo Lim, Kyuhwan Hyun, Yongchai Kwon, Applied Energy. 381(None)] 2024. https://openalex.org/W4405851000
+
+                No abstract</description>
+      <author>Mingyu Shin, Hyeonsoo Lim, Kyuhwan Hyun, Yongchai Kwon</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apenergy.2024.125225</guid>
+    </item>
+    <item>
       <title>Activity-Drop of Hydrogen Evolution Reaction in LiNO&lt;sub&gt;3&lt;/sub&gt; Based &#8220;Hydronium-in-Salt&#8221; Acidic Electrolytes on Platinum Enables Electrochemical Nitrate Reduction</title>
       <link>https://doi.org/10.1021/jacs.4c13117</link>
       <description>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4405741914
 
-                The electrochemical nitrate reduction reaction (NO3&#8211;RR) involves multiple hydrogenation and deoxygenation steps, which compete with the hydrogen evolution reaction (HER). Therefore, NO3&#8211;RR driven in acidic media is challenging in spite of advantageous fast hydrogen transfers in its elementary steps. The findings presented in this article first demonstrate that the NO3&#8211;RR is significantly activated even in acidic lithium nitrate solutions at LiNO3 concentrations exceeding 6 m on a Pt electrode (the highly effective catalyst for HER) by the formation of a "hydronium-in-salt" electrolyte (HISE), a new type of aqueous high concentration salt electrolyte. The observed enhancement of NO3&#8211;RR while the suppression of HER-activity in the LiNO3 based HISE was verified by scanning electrochemical microscopy, electrochemical impedance spectroscopy, UV&#8211;vis/IR spectroscopy, and molecular dynamics simulations. The formation of a HISE in acidic LiNO3 solutions contrasts with that of a "water-in-salt" electrolyte in LiTFSI with the same concentration. The mechanism of NO3&#8211;RR activation in a HISE suggests facilitated proton-coupled electron transfers (PCETs) from H3O+ to NO3&#8211; and subsequent reactive intermediates owing to the proximity between the two ions induced by the unique solvation structure blended with all ions together (Li+ + NO3&#8211; + H3O+). In contrast, all the ions are separately hydrated at low concentrations of LiNO3 electrolytes. On the other hand, PCET from H2O to NO3&#8211; in a high concentration LiNO3 electrolyte (e.g., 9 m) is not kinetically preferred, probably owing to the slow dissociation kinetics of H2O, and therefore, H2O reduction is not suppressed by the NO3&#8211;RR.</description>
+                The electrochemical nitrate reduction reaction (NO</description>
       <author>Cheolmin Park, Min Young Seo, Taesung Kwon, Ji-Yoon Kim, Ki Min Nam, YongJoo Kim, Jinho Chang</author>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c13117</guid>
+    </item>
+    <item>
+      <title>Machine learning prediction of materials properties from chemical composition: Status and prospects</title>
+      <link>https://doi.org/10.1063/5.0235541</link>
+      <description>Mohammed Alghadeer, Nyimas Aisyah, Mahmoud Hezam, Saad M. Alqahtani, Ahmer A.B. Baloch, Fahhad H. Alharbi, Chemical Physics Reviews. 5(4)] 2024. https://openalex.org/W4405813232
+
+                In materials science, machine learning (ML) has become an essential and indispensable tool. ML has emerged as a powerful tool in materials science, particularly for predicting material properties based on chemical composition. This review provides a comprehensive overview of the current status and future prospects of using ML in this domain, with a special focus on physics-guided machine learning (PGML). By integrating physical principles into ML models, PGML ensures that predictions are not only accurate but also interpretable, addressing a critical need in the physical sciences. We discuss the foundational concepts of statistical learning and PGML, outline a general framework for materials informatics, and explore key aspects such as data analysis, feature reduction, and chemical composition representation. Additionally, we survey the latest advancements in the prediction of geometric structures, electronic properties, and other material characteristics from chemical formulas. The review also provides resource tables listing essential databases, tools, and predictors, offering a valuable reference for researchers. As the field rapidly expands, this review aims to guide future efforts in harnessing ML for materials discovery and development.</description>
+      <author>Mohammed Alghadeer, Nyimas Aisyah, Mahmoud Hezam, Saad M. Alqahtani, Ahmer A.B. Baloch, Fahhad H. Alharbi</author>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0235541</guid>
     </item>
     <item>
       <title>Addressing Thermal Stability Challenges in Top&#8208;Emission OLEDs: The Role of Buffer Layer in Preventing Pixel Shrinkage</title>

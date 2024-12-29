@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Dec 2024 01:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 01:27:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Pincer-Ruthenium-Catalyzed Direct Formation of Fuel-Grade Alkanes via a Net-Decarboxylative Coupling of Alcohols</title>
-      <link>https://doi.org/10.1021/acscatal.4c05826</link>
-      <description>Pran Gobinda Nandi, Pabitra Maity, Akshai Kumar, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405630608
-
-                No abstract</description>
-      <author>Pran Gobinda Nandi, Pabitra Maity, Akshai Kumar</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05826</guid>
-    </item>
-    <item>
-      <title>Promoted *OH Adsorption Facilitates C&#8211;C Bond Cleavage for Efficient Electrochemical Upcycling of Polyethylene Terephthalate</title>
-      <link>https://doi.org/10.1021/acscatal.4c05352</link>
-      <description>Jinyong Sun, Binkai Shi, Shuixing Dai, Lei Chu, Huanlei Wang, Minghua Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405640218
-
-                No abstract</description>
-      <author>Jinyong Sun, Binkai Shi, Shuixing Dai, Lei Chu, Huanlei Wang, Minghua Huang</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c05352</guid>
-    </item>
-    <item>
-      <title>Enantioselective Intermolecular Benzylic C&#8211;H Amination under Chiral Paddle-Wheel Diruthenium Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c06504</link>
-      <description>Kotoko Makino, Kohei Mori, Shoichi Kiryu, Taku Miyazawa, Yuhei Kumagai, Kosuke Higashida, M. Kojima, Tatsuhiko Yoshino, Shigeki Matsunaga, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405643309
-
-                A catalytic asymmetric intermolecular benzylic C&#8211;H amination was achieved under paddle-wheel diruthenium catalysis. A chiral diruthenium catalyst incorporating (S)-TPPTTL (tetraphenylphthaloyl-(S)-tert-leucine) ligand exhibited notable enantioselectivity, and aminated products were obtained with up to 99% ee. Unique chemoselectivity of the chiral diruthenium catalyst was also found for allylbenzene and alkyl-naphthalene substrates, demonstrating the complementary synthetic utility of chiral paddle-wheel Ru(II)&#8211;Ru(III) catalysts to Rh(II) counterparts.</description>
-      <author>Kotoko Makino, Kohei Mori, Shoichi Kiryu, Taku Miyazawa, Yuhei Kumagai, Kosuke Higashida, M. Kojima, Tatsuhiko Yoshino, Shigeki Matsunaga</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06504</guid>
-    </item>
-    <item>
-      <title>ML-Accelerated Automatic Process Exploration Reveals Facile O-Induced Pd Step-Edge Restructuring on Catalytic Time Scales</title>
-      <link>https://doi.org/10.1021/acscatal.4c06414</link>
-      <description>Patricia Poths, King C. Lai, Francesco Cannizzaro, Christoph Scheurer, Sebastian Matera, Karsten Reuter, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405644769
-
-                No abstract</description>
-      <author>Patricia Poths, King C. Lai, Francesco Cannizzaro, Christoph Scheurer, Sebastian Matera, Karsten Reuter</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06414</guid>
-    </item>
-    <item>
-      <title>Synthesis of Axially Chiral Vinyl Halides via Cu(I)-Catalyzed Enantioselective Radical 1,2-Halofunctionalization of Terminal Alkynes</title>
-      <link>https://doi.org/10.1021/acscatal.4c06672</link>
-      <description>Jun-Bin Tang, Jun-Qian Bian, Zhihan Zhang, Yong&#8208;Feng Cheng, Qin Li, Qiang&#8208;Shuai Gu, Peiyuan Yu, Zhong&#8208;Liang Li, Xin&#8208;Yuan Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405644944
-
-                Organohalides are crucial in modern organic synthesis, thanks to their robust and versatile reactivity in cross-coupling and other key transformations. However, catalytic asymmetric methods for producing enantioenriched organohalides, particularly axially chiral vinyl halides, remain underdeveloped. Here, we present a Cu(I)-catalyzed, highly enantioselective radical alkyne 1,2-halofunctionalization, utilizing custom-designed tridentate anionic N,N,N-ligands with bulky peripheral substituents. This method efficiently employs (hetero)aryl and alkyl sulfonyl chlorides, as well as &#945;-carbonyl alkyl bromides, as radical precursors and utilizes a diverse range of 2-amino and 2-oxy aryl terminal alkynes as substrates to produce highly enantioenriched axially chiral vinyl halides. The reaction is scalable to gram quantities, and the vinyl halides can be further transformed into axially chiral thiourea, pyridyl carboxamide, and quinolyl sulfonamide compounds, some of which show significant potential in asymmetric catalysis. Both experimental and theoretical mechanistic studies support an enantioselective halogen atom transfer mechanism. This method opens an avenue for accessing axially chiral organohalides, facilitating their broad applications in various related fields.</description>
-      <author>Jun-Bin Tang, Jun-Qian Bian, Zhihan Zhang, Yong&#8208;Feng Cheng, Qin Li, Qiang&#8208;Shuai Gu, Peiyuan Yu, Zhong&#8208;Liang Li, Xin&#8208;Yuan Liu</author>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06672</guid>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/csv014i024_1880616</link>
-      <description>, ACS Catalysis. 14(24)] 2024. https://openalex.org/W4405650379
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i024_1880616</guid>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/csv014i024_1880617</link>
-      <description>, ACS Catalysis. 14(24)] 2024. https://openalex.org/W4405661059
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i024_1880617</guid>
-    </item>
     <item>
       <title>Optimizing Oxygen Vacancies through p-Band Center Modulation of Oxygen in the Li&lt;sub&gt;2&lt;/sub&gt;WO&lt;sub&gt;4&lt;/sub&gt;/Mg&lt;sub&gt;6&lt;/sub&gt;MnO&lt;sub&gt;8&lt;/sub&gt; Catalyst for Enhanced Oxidative Coupling of Methane: An Experimental and Theoretical Study</title>
       <link>https://doi.org/10.1021/acscatal.4c06709</link>
@@ -276,6 +206,46 @@
       <author>Fan Fang, Fang Xu, Xue Li, Chong Chen, Nengjie Feng, Yijiao Jiang, Jun Huang</author>
       <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06289</guid>
+    </item>
+    <item>
+      <title>Comparative Study on the Effect of Ethylene Cofeeding in CO&lt;sub&gt;2&lt;/sub&gt; and CO Hydrogenation to Olefins over FeZnNa Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c06550</link>
+      <description>K. Zhu, Xingwu Liu, Haoyi Tang, Shuheng Tian, Junzhong Xie, Lingzhen Zeng, Tianye Wang, Hongwei Li, Meng Wang, Ding Ma, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405827567
+
+                No abstract</description>
+      <author>K. Zhu, Xingwu Liu, Haoyi Tang, Shuheng Tian, Junzhong Xie, Lingzhen Zeng, Tianye Wang, Hongwei Li, Meng Wang, Ding Ma</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06550</guid>
+    </item>
+    <item>
+      <title>Highly Enantioselective Construction of Oxazolidinone Rings via Enzymatic C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Amination</title>
+      <link>https://doi.org/10.1021/acscatal.4c06066</link>
+      <description>Jadab Majhi, Satyajit Roy, Anwita Chattopadhyay, Rudi Fasan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405829817
+
+                No abstract</description>
+      <author>Jadab Majhi, Satyajit Roy, Anwita Chattopadhyay, Rudi Fasan</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06066</guid>
+    </item>
+    <item>
+      <title>Cross-Coupling Reactions with Nickel, Visible Light, and &lt;i&gt;tert&lt;/i&gt;-Butylamine as a Bifunctional Additive</title>
+      <link>https://doi.org/10.1021/acscatal.4c07185</link>
+      <description>Jonas D&#252;ker, Maximilian Philipp, Thomas Lentner, Jamie A. Cadge, Jo&#227;o E. A. Lavarda, Ruth M. Gschwind, Matthew S. Sigman, Indrajit Ghosh, Burkhard Koenig, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405831894
+
+                Transition metal catalysis is crucial for the synthesis of complex molecules, with ligands and bases playing a pivotal role in optimizing cross-coupling reactions. Despite advancements in ligand design and base selection, achieving effective synergy between these components remains challenging. We present here a general approach to nickel-catalyzed photoredox reactions employing tert-butylamine as a cost-effective bifunctional additive, acting as the base and ligand. This method proves effective for C&#8211;O and C&#8211;N bond-forming reactions with a diverse array of nucleophiles, including phenols, aliphatic alcohols, anilines, sulfonamides, sulfoximines, and imines. Notably, the protocol demonstrates significant applicability in biomolecule derivatization and facilitates sequential one-pot functionalizations. Spectroscopic investigations revealed the robustness of the dynamic catalytic system, while elucidation of structure&#8211;reactivity relationships demonstrated how computed molecular properties of both the nucleophile and electrophile correlated to reaction performance, providing a foundation for effective reaction outcome prediction.</description>
+      <author>Jonas D&#252;ker, Maximilian Philipp, Thomas Lentner, Jamie A. Cadge, Jo&#227;o E. A. Lavarda, Ruth M. Gschwind, Matthew S. Sigman, Indrajit Ghosh, Burkhard Koenig</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c07185</guid>
+    </item>
+    <item>
+      <title>Advances and Challenges for Catalytic Recycling and Upgrading of Real-World Mixed Plastic Waste</title>
+      <link>https://doi.org/10.1021/acscatal.4c06344</link>
+      <description>Yawen Shi, Xinyong Diao, Na Ji, Hu Ding, Zongyang Ya, Dong Xu, Rui Wei, Kejiang Cao, Shengbo Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4405843775
+
+                No abstract</description>
+      <author>Yawen Shi, Xinyong Diao, Na Ji, Hu Ding, Zongyang Ya, Dong Xu, Rui Wei, Kejiang Cao, Shengbo Zhang</author>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c06344</guid>
     </item>
   </channel>
 </rss>

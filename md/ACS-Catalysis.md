@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Dec 28 01:19:11 2024
+Created on Sun Dec 29 01:27:51 2024
 
-Found 27 results from 2024-12-21 to 2024-12-28
+Found 24 results from 2024-12-22 to 2024-12-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Pincer-Ruthenium-Catalyzed Direct Formation of Fuel-Grade Alkanes via a Net-Decarboxylative Coupling of Alcohols   
-
-OpenAlex: https://openalex.org/W4405630608    
-Open access: False
-    
-[Pran Gobinda Nandi](https://openalex.org/A5113219645), [Pabitra Maity](https://openalex.org/A5115562423), [Akshai Kumar](https://openalex.org/A5012177920), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05826.
-    
-No abstract    
-
-    
-
-## Promoted *OH Adsorption Facilitates C–C Bond Cleavage for Efficient Electrochemical Upcycling of Polyethylene Terephthalate   
-
-OpenAlex: https://openalex.org/W4405640218    
-Open access: False
-    
-[Jinyong Sun](https://openalex.org/A5041538055), [Binkai Shi](https://openalex.org/A5103580598), [Shuixing Dai](https://openalex.org/A5039106340), [Lei Chu](https://openalex.org/A5041988024), [Huanlei Wang](https://openalex.org/A5023689555), [Minghua Huang](https://openalex.org/A5037398992), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c05352.
-    
-No abstract    
-
-    
-
-## Enantioselective Intermolecular Benzylic C–H Amination under Chiral Paddle-Wheel Diruthenium Catalysis   
-
-OpenAlex: https://openalex.org/W4405643309    
-Open access: False
-    
-[Kotoko Makino](https://openalex.org/A5065547400), [Kohei Mori](https://openalex.org/A5108827952), [Shoichi Kiryu](https://openalex.org/A5045083056), [Taku Miyazawa](https://openalex.org/A5089822862), [Yuhei Kumagai](https://openalex.org/A5084305316), [Kosuke Higashida](https://openalex.org/A5001107116), [M. Kojima](https://openalex.org/A5087150556), [Tatsuhiko Yoshino](https://openalex.org/A5012058996), [Shigeki Matsunaga](https://openalex.org/A5103177232), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06504.
-    
-A catalytic asymmetric intermolecular benzylic C–H amination was achieved under paddle-wheel diruthenium catalysis. A chiral diruthenium catalyst incorporating (S)-TPPTTL (tetraphenylphthaloyl-(S)-tert-leucine) ligand exhibited notable enantioselectivity, and aminated products were obtained with up to 99% ee. Unique chemoselectivity of the chiral diruthenium catalyst was also found for allylbenzene and alkyl-naphthalene substrates, demonstrating the complementary synthetic utility of chiral paddle-wheel Ru(II)–Ru(III) catalysts to Rh(II) counterparts.    
-
-    
-
-## ML-Accelerated Automatic Process Exploration Reveals Facile O-Induced Pd Step-Edge Restructuring on Catalytic Time Scales   
-
-OpenAlex: https://openalex.org/W4405644769    
-Open access: True
-    
-[Patricia Poths](https://openalex.org/A5083349408), [King C. Lai](https://openalex.org/A5017081585), [Francesco Cannizzaro](https://openalex.org/A5024901288), [Christoph Scheurer](https://openalex.org/A5004695040), [Sebastian Matera](https://openalex.org/A5056647986), [Karsten Reuter](https://openalex.org/A5024866637), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06414.
-    
-No abstract    
-
-    
-
-## Synthesis of Axially Chiral Vinyl Halides via Cu(I)-Catalyzed Enantioselective Radical 1,2-Halofunctionalization of Terminal Alkynes   
-
-OpenAlex: https://openalex.org/W4405644944    
-Open access: False
-    
-[Jun-Bin Tang](https://openalex.org/A5000113087), [Jun-Qian Bian](https://openalex.org/A5085137689), [Zhihan Zhang](https://openalex.org/A5058484299), [Yong‐Feng Cheng](https://openalex.org/A5043102434), [Qin Li](https://openalex.org/A5100438933), [Qiang‐Shuai Gu](https://openalex.org/A5088566937), [Peiyuan Yu](https://openalex.org/A5025860351), [Zhong‐Liang Li](https://openalex.org/A5018797487), [Xin‐Yuan Liu](https://openalex.org/A5100670336), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06672.
-    
-Organohalides are crucial in modern organic synthesis, thanks to their robust and versatile reactivity in cross-coupling and other key transformations. However, catalytic asymmetric methods for producing enantioenriched organohalides, particularly axially chiral vinyl halides, remain underdeveloped. Here, we present a Cu(I)-catalyzed, highly enantioselective radical alkyne 1,2-halofunctionalization, utilizing custom-designed tridentate anionic N,N,N-ligands with bulky peripheral substituents. This method efficiently employs (hetero)aryl and alkyl sulfonyl chlorides, as well as α-carbonyl alkyl bromides, as radical precursors and utilizes a diverse range of 2-amino and 2-oxy aryl terminal alkynes as substrates to produce highly enantioenriched axially chiral vinyl halides. The reaction is scalable to gram quantities, and the vinyl halides can be further transformed into axially chiral thiourea, pyridyl carboxamide, and quinolyl sulfonamide compounds, some of which show significant potential in asymmetric catalysis. Both experimental and theoretical mechanistic studies support an enantioselective halogen atom transfer mechanism. This method opens an avenue for accessing axially chiral organohalides, facilitating their broad applications in various related fields.    
-
-    
-
-## Issue Publication Information   
-
-OpenAlex: https://openalex.org/W4405650379    
-Open access: False
-    
-, ACS Catalysis. 14(24)] 2024.https://doi.org/10.1021/csv014i024_1880616.
-    
-No abstract    
-
-    
-
-## Issue Editorial Masthead   
-
-OpenAlex: https://openalex.org/W4405661059    
-Open access: False
-    
-, ACS Catalysis. 14(24)] 2024.https://doi.org/10.1021/csv014i024_1880617.
-    
-No abstract    
-
-    
 
 ## Optimizing Oxygen Vacancies through p-Band Center Modulation of Oxygen in the Li2WO4/Mg6MnO8 Catalyst for Enhanced Oxidative Coupling of Methane: An Experimental and Theoretical Study   
 
@@ -298,6 +221,50 @@ OpenAlex: https://openalex.org/W4405813818
 Open access: False
     
 [Fan Fang](https://openalex.org/A5022108591), [Fang Xu](https://openalex.org/A5002464526), [Xue Li](https://openalex.org/A5100774084), [Chong Chen](https://openalex.org/A5100348790), [Nengjie Feng](https://openalex.org/A5087055122), [Yijiao Jiang](https://openalex.org/A5072704368), [Jun Huang](https://openalex.org/A5015226338), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06289.
+    
+No abstract    
+
+    
+
+## Comparative Study on the Effect of Ethylene Cofeeding in CO2 and CO Hydrogenation to Olefins over FeZnNa Catalyst   
+
+OpenAlex: https://openalex.org/W4405827567    
+Open access: False
+    
+[K. Zhu](https://openalex.org/A5027001331), [Xingwu Liu](https://openalex.org/A5047354529), [Haoyi Tang](https://openalex.org/A5101274904), [Shuheng Tian](https://openalex.org/A5013792762), [Junzhong Xie](https://openalex.org/A5029440749), [Lingzhen Zeng](https://openalex.org/A5108837411), [Tianye Wang](https://openalex.org/A5064261052), [Hongwei Li](https://openalex.org/A5100325357), [Meng Wang](https://openalex.org/A5031462315), [Ding Ma](https://openalex.org/A5055822249), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06550.
+    
+No abstract    
+
+    
+
+## Highly Enantioselective Construction of Oxazolidinone Rings via Enzymatic C(sp3)–H Amination   
+
+OpenAlex: https://openalex.org/W4405829817    
+Open access: False
+    
+[Jadab Majhi](https://openalex.org/A5007358806), [Satyajit Roy](https://openalex.org/A5033670609), [Anwita Chattopadhyay](https://openalex.org/A5068443992), [Rudi Fasan](https://openalex.org/A5070780837), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06066.
+    
+No abstract    
+
+    
+
+## Cross-Coupling Reactions with Nickel, Visible Light, and tert-Butylamine as a Bifunctional Additive   
+
+OpenAlex: https://openalex.org/W4405831894    
+Open access: True
+    
+[Jonas Düker](https://openalex.org/A5092160419), [Maximilian Philipp](https://openalex.org/A5115671617), [Thomas Lentner](https://openalex.org/A5115671618), [Jamie A. Cadge](https://openalex.org/A5021805782), [João E. A. Lavarda](https://openalex.org/A5115671619), [Ruth M. Gschwind](https://openalex.org/A5045155782), [Matthew S. Sigman](https://openalex.org/A5005862481), [Indrajit Ghosh](https://openalex.org/A5055386575), [Burkhard Koenig](https://openalex.org/A5067475475), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c07185.
+    
+Transition metal catalysis is crucial for the synthesis of complex molecules, with ligands and bases playing a pivotal role in optimizing cross-coupling reactions. Despite advancements in ligand design and base selection, achieving effective synergy between these components remains challenging. We present here a general approach to nickel-catalyzed photoredox reactions employing tert-butylamine as a cost-effective bifunctional additive, acting as the base and ligand. This method proves effective for C–O and C–N bond-forming reactions with a diverse array of nucleophiles, including phenols, aliphatic alcohols, anilines, sulfonamides, sulfoximines, and imines. Notably, the protocol demonstrates significant applicability in biomolecule derivatization and facilitates sequential one-pot functionalizations. Spectroscopic investigations revealed the robustness of the dynamic catalytic system, while elucidation of structure–reactivity relationships demonstrated how computed molecular properties of both the nucleophile and electrophile correlated to reaction performance, providing a foundation for effective reaction outcome prediction.    
+
+    
+
+## Advances and Challenges for Catalytic Recycling and Upgrading of Real-World Mixed Plastic Waste   
+
+OpenAlex: https://openalex.org/W4405843775    
+Open access: False
+    
+[Yawen Shi](https://openalex.org/A5011229071), [Xinyong Diao](https://openalex.org/A5059620811), [Na Ji](https://openalex.org/A5033986934), [Hu Ding](https://openalex.org/A5102482212), [Zongyang Ya](https://openalex.org/A5017640332), [Dong Xu](https://openalex.org/A5085263496), [Rui Wei](https://openalex.org/A5100618502), [Kejiang Cao](https://openalex.org/A5005782389), [Shengbo Zhang](https://openalex.org/A5045637364), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c06344.
     
 No abstract    
 
